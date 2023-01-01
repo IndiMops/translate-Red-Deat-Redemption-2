@@ -5304,7 +5304,7 @@
 
 0x4664535C = Hitched Horse +~1~
 
-0x394D4646 = Pat
+0x394D4646 = Погладити
 
 0xFF0C0C04 = The body of an Alligator in good condition displaying minor damage. Can be sold.
 
@@ -10583,7 +10583,7 @@
 
 0x7B5595A7 = The General
 
-0x472B617D = Combat
+0x472B617D = Бій
 
 0x6F8A89DD = ~1w~ ~2~
 
@@ -67917,7 +67917,7 @@
 
 0xF36299BA = Yields a skin and stringy meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.
 
-0x8C8332DC = General information and tips to help guide you
+0x8C8332DC = Загальні положення та підказки, які допоможуть вам зорієнтуватися
 
 0xC7876DE0 = Raider
 
