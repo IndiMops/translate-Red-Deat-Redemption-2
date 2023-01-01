@@ -1,0 +1,1282 @@
+0xB30C03CD = Fold
+
+0x936B8CFB = To become a Moonshiner, you must first gain a reputation as a Trader. Alternatively, if you wish to skip the Trader Role, you may unlock the Moonshiner Role early with Gold Bars. You must then collect and read Cripps' letter. Go to meet his contact, Maggie Fike ~BLIP_MP_ROLE_MOONSHINER~, and purchase a Moonshine Shack from which to run your Moonshine Operation.
+
+0x5836E98C = When ordering from the Handheld Catalogue, your purchases will be dispatched right away and can be collected from the Post Office or from your Camp's Lockbox. Weapons are immediately available from your Horse.
+
+0xC24FF833 = High Quality~n~- Prime Beef - High quality meat from animals like Cows and Buffalo~n~- Mature Venison - Cuts of high quality Deer meat~n~- Tender Pork - Succulent, filling meat from animals such as Javelina and Pigs~n~- Game - Meat from game such as Rabbits, Pheasants and Ducks~n~- Exotic Bird - Meat from rare birds such as Parrots, Pelicans and Carolina Parakeets
+
+0x779A6F15 = Gunsmiths
+
+0xF7E20210 = Feud
+
+0xE7732CE0 = Naturalists often stumble on Legendary Animals while traversing the states. These animals are famous for their rare coloring, making them a prize for Naturalists and poachers alike. You will be notified if a Legendary Animal is nearby. You can then begin to follow the clues around you to track the animal down.
+
+0x25DED9E9 = If the first two cards of a player's hand are an ace and any ten-value card (10, King, Queen, or Jack) that player has a blackjack because their cards total 21.~n~A blackjack is an automatic win unless the dealer also has blackjack, in which case the hand is a push. A blackjack win pays 3:2 instead of the usual 1:1 payment for winning a hand.
+
+0xE34932EF = Moonshiners run underground businesses, illicitly distilling, marketing and selling spirits for profit.
+
+0xEF7E9AE5 = Awards
+
+0xD8D603F9 = Ante
+
+0xDF83C0F3 = Your horse has two Cores. Its Health Core affects its general wellbeing, while its Stamina Core affects its movement. Your horse will become tired from overexertion and will suffer damage from injuries. Feed your horse regularly to maintain its Cores or hitch your horse to a post to allow it to rest. Tonics can be used to fortify your horse's Cores and strengthening your bond over time will increase both your horse's overall Health and Stamina.
+
+0xF32FE18B = Once you've been witnessed taking part in criminal activity in an area, law enforcement will make a note of your physical description. Make yourself harder to recognize by changing your clothes and facial hair, or wearing a mask.
+
+0xB0512020 = Draw
+
+0x109AC8F9 = Remember; the larger the animal, the higher the dosage of sedative needed to bring it down. Meanwhile, a single dose of sedative can be fatal to smaller animals.
+
+0xECDF8435 = Arthur cannot saddle, bond with, or own horses belonging to the other members of Dutch's gang.
+
+0x78912064 = Bounty Hunters track down dangerous criminals, turning them in dead or alive in return for a reward.
+
+0xD9F57117 = Once all players' turns are finished, the dealer will reveal their hidden card. The dealer's turn has a fixed strategy: if the score is less than 17, the dealer is required to hit. If it's 17 or higher, the dealer must stand.
+
+0x41DC94ED = But be warned, as enticing as it is, viewing your Handheld Catalogue will leave you vulnerable to attack so try not to be too distracted.
+
+0x66D0D58D = Wagon Insurance
+
+0xCACF6409 = All Posses require a Camp as a base. Before creating a Posse, you must choose the Camp size, which will affect how large your Posse can be, and the Camp's location. A small fee must be paid to set up the Camp, to move it afterwards or to increase its size. Your Camp will then be blipped on the radar for yourself and your Posse to see.
+
+0xB4A2025C = This information can be found in the Progress - Challenges section of the Pause menu. Completing all the challenges by attaining rank 10 in each category will unlock special equipment with many bonuses.
+
+0x32DB50C1 = Some stores like Pearson's, Trapper, and the Gunsmith's can also offer crafting services, and can upgrade your items if you can bring the required materials for the shopkeeper to use.
+
+0x25DE95BC = Meat Types
+
+0xC132D80F = Cores also act as an extension of their related attribute bar. If a bar is emptied while using an ability, then the Core will begin to drain rapidly, allowing you to use the ability for a few additional seconds. Keep your Cores full to guarantee the maximum amount of reserve energy is available, should you need it.
+
+0x867E704C = Hand Rankings
+
+0x8E02389E = If there has been a bet in the current round, a player may raise. A raise means the player is increasing the amount of the current bet. A raise must be at least double the value of any previous raise. Subsequent players must at least match this amount to remain in the hand.
+
+0x2C9ED582 = As Posse Leader, you can customize your Camp by talking to Cripps. Here you'll be able to select a Theme. Is your Posse a Military troop? Or perhaps they have more in common with wandering Hobos. They might be intrepid Survivors, or maybe they are a Cultured gang and sophistication is more their style.
+
+0xC9CF3D9F = If you kill a player without reason, they will be given the option to press charges against you. If they choose to do this, your Bounty will increase. You are only liable if you are the one who began the fight, and they will only be able to press charges if their Hostility level is medium or low.
+
+0xDE08A708 = Each player has one turn in which they may choose to receive another card (hit), and more additional cards until they either bust out or stand with the total score of their hand of cards.
+
+0x9DF1C750 = You can quickly open the Pause Map by holding ~INPUT_MAP~. Place a waypoint with ~INPUT_FRONTEND_ACCEPT~, or add a Marker with ~INPUT_FRONTEND_LS~. Posse Members will be blipped ~COLOR_POSSE_ALLY~~BLIP_AMBIENT_COMPANION~~s~ at any distance, whereas other non-hostile players will only be blipped ~COLOR_NOTORIETY_LOW~~BLIP_AMBIENT_COMPANION~~s~ at close range.
+
+0x304B5266 = Auto Bet
+
+0x73AAB20F = Some more unusual parts, like teeth and claws, have mysterious powers when worn as talismans.
+
+0xA7B1ADBB = As you spend time with your horse, you will develop a bond of trust and understanding with it.
+
+0x814525EF = You can press ~INPUT_WHISTLE~ to call your horse to you. As you bond with your horse, the range at which you can call it will increase. When standing in front of your horse you can command it to flee by holding ~INPUT_INTERACT_LOCKON~ and selecting ~INPUT_HORSE_COMMAND_FLEE~.
+
+0x986A65A2 = These four contacts will offer Blood Money Missions and can provide exclusive work if you turn in enough Capitale. These Blood Money Opportunities are available to the most dedicated outlaws who are not afraid to risk their life for a high reward.
+
+0x6A1B6FE0 = To become a Trader, collect and read Cripps' letter. It will be waiting for you at your Camp Lockbox or any Post Office. You can then meet him ~BLIP_MP_TRADER_INTRODUCTION~ to learn about his new business venture and purchase a Butcher Table.
+
+0x7CF6A24C = Daily Challenges
+
+0x704E1D83 = Certain shopkeepers won't trouble you with questions about whether items were legally acquired. Look out for the ~BLIP_SHOP_SHADY_STORE~. You can sell stolen horses at stables, though they will fetch a lower price than legitimately owned ones.
+
+0x2E35EA07 = Hunting
+
+0x2EB45EC6 = You can use weapons while on horseback, but bear in mind that some horses will become agitated if they feel threatened or you make loud noises. Use silent weapons, like a bow, to avoid spooking your horse. Its courage will increase as you unlock horse bonding levels.
+
+0x54C6781D = Purchase and equip Ability Cards from the Ability Loadout menu. The effects of Active Cards can be triggered by pressing ~INPUT_SPECIAL_ABILITY~. You can equip up to three Passive Ability Cards and their effects are on-going as long as they are equipped. Earn XP while using your equipped Ability Cards to unlock the option to upgrade your cards and increase the benefits.
+
+0xAAF0F019 = Dealing with Witnesses
+
+0x30AC3AD4 = Fast Travel posts can be found across the land. These can be used to instantly travel to a variety of destinations for a fee. Camp owners can set up a Fast Travel post of their own by speaking to Cripps.
+
+0x9CCA9F5C = All Fives
+
+0x0FDD8054 = Delivering Justice
+
+0x599EC872 = The red circle on the radar will indicate the direction of where the law is currently looking. If you are spotted by law enforcement you will become fully wanted again.
+
+0x7ED99A88 = Compendium
+
+0x91F5D99F = To start, the two players to the left of the dealer must put in a mandatory bet each, called the small blind and the big blind. The dealer then deals two hole cards to everyone present, and the first betting round starts.
+
+0xB7D4E38A = Flush: Five cards all of the same suit.
+
+0x993282F5 = Gun Oil can be purchased from Gunsmiths. To clean your weapon, select it from the Weapon Wheel and use ~INPUT_QUICK_SELECT_INSPECT~.
+
+0x22CEEBD8 = Moonshiner
+
+0x58C20B9B = When a hooked fish is struggling grab hold of your reel by pushing and holding ~INPUTGROUP_LOOK~ in any direction to prevent the fish pulling out line. However, doing so for too long or too often may snap the line.
+
+0xFBF46DF8 = Harriet can also offer a variety of hunting equipment, such as baits and Legendary Animal Pheromones, and tonics with interesting effects. Visit her store to view her stock.
+
+0xDC7D8234 = Fences
+
+0x870F8B53 = Cover
+
+0x3D177877 = Naturalists are wildlife specialists who track and study animals, exchanging the samples they gather for rewards.
+
+0x6F0E0FA6 = Practice
+
+0xC8EFE31E = Accessories
+
+0xA6D294EE = You can quickly open the Pause Map by holding ~INPUT_MAP~. Place a waypoint with ~INPUT_FRONTEND_ACCEPT~, or add a Marker with ~INPUT_FRONTEND_LS~. Zoom in on a town to see which amenities it offers. Your Gang Camp location is marked on the map with a ~BLIP_CAMP~.
+
+0xEAF341FC = Exploring Nature
+
+0x8ED5ADF0 = Story Chapters
+
+0xF5680048 = Minor crimes make the victims and witnesses angry. They may take matters into their own hands and come to fight you rather than getting the law involved.
+
+0xA65E1648 = RDO$ is the in-game cash currency used to purchase provisions, clothing, and equipment, as well as paying for the upkeep of your Camp and your stalls in the Stable. You can earn RDO$ by completing various missions, competing in Free Roam Events, Showdowns and Races, or through trading goods and looting corpses.
+
+0x29CF29DF = If a player has gone all-in during the course of the hand, and so has placed less chips into the pot than the other eligible players, this creates a side pot. A player is only eligible to win the amount they have wagered themselves from each other player. When a player goes all-in, this amount is separated off in the main pot and the remaining active players can continue betting into a side pot. The all-in player is only eligible to win the main pot. The other players are eligible to win both the main pot and side pot. If several players go all-in in one hand, this can create several side pots.
+
+0x2E1EF103 = You'll find enemy gangs' camps and hideouts throughout the land. Attacking a hostile hideout can be extremely dangerous, but yields valuable loot if you pull it off.
+
+0xAB5FDD6F = Animals left on your horse will eventually start to decompose. Be sure to sell, or butcher and cook, them before this happens.
+
+0x2AF848D1 = Each town has a noticeboard at the depot or sheriff's office, displaying suspected criminals in the area. Retrieve bounty posters from these boards to get the details and hunt down bounty targets for rewards.
+
+0x4B6BDC5D = A sequence of buttons (one 'lap') will be displayed on screen. Press the buttons as fast as you can to perform knife stabs between the fingers. You will stab your hand if you press the wrong button or hesitate for too long.
+
+0x9C050E41 = Beware, as your trading business grows, bandits might take an interest and attempt to raid your Camp, stealing your Goods and Raw Materials. Look out for a plume of smoke rising from Camp. Promising Traders with dogs can be warned of an attack by their canine companions.
+
+0x47F1B15D = If Bounty Hunters target you, and you are in a Posse, your Posse Members can rally to your side and defend you against the attack.
+
+0xEF59007D = Turn on Defensive Mode via the Player menu to block other players from headshotting, lassoing and locking onto you. While other players can still shoot at you, Defensive Mode will greatly decrease the damage you take. Go to Online Features in the Help section of the Pause menu to learn more about playing styles.
+
+0xCEB31D9A = Be careful who you roll with. Affiliating yourself with Wanted criminals in your Posse may result in you becoming Wanted, as will riding in a vehicle with a Wanted player.
+
+0xE0C6A1F7 = Repeaters offer a superior rate of fire and ammunition capacity when compared to rifles, at the cost of lower accuracy and damage.
+
+0x464AF1FD = Eagle Eye is a valuable tool for hunting and tracking. To activate Eagle Eye, press ~INPUT_SPECIAL_ABILITY~ and look for the tracks left by animals and enemies.
+
+0xA9BF74A0 = Your Dead Eye core allows you to use Abilities which can give you an advantage in combat. To activate Dead Eye, press ~INPUT_SPECIAL_ABILITY~ while aiming. You can view your Ability Cards in the Abilities section of the Pause menu and learn more about their use in Player & Horse in the Help section of the Pause menu.
+
+0x2B56E6E7 = There are four levels of Bonding. As Bonding increases:~n~- Your horse's Health and Stamina will increase.~n~- You'll be able to locate your horse faster, with it appearing on your radar sooner.~n~- Your horse will become more difficult to steal.
+
+0x33026940 = Each player is dealt two cards from a single deck. These are known as hole cards, and are kept secret from the other players.
+
+0x1DD15E7B = A weapon's condition will deteriorate due to usage and environmental factors, and requires regular maintenance to stay in perfect condition. Letting your weapons get dirty or rusty will lead to lower damage, slower cocking, and longer reloads.
+
+0x37E2C7E3 = Tokens
+
+0x71BBA20F = Crafting
+
+0x79D38FB5 = Player
+
+0x15FD399F = You can purchase a new saddle for your horse by visiting the Stable. A saddle must be equipped before your horse can be made active.
+
+0x6F312AFB = Cattle and horses can be rustled from some ranches and farms. Look out for fellow gang members who may invite you to join rustling jobs.
+
+0x14C32C4C = Using certain weapons will increase your rank in the Weapons Expert Challenge, allowing you to unlock special reinforced combat accessories that can then be purchased. Challenge completion information can be found in the Progress - Challenges section of the Pause menu.
+
+0x0165B311 = Reinforced versions of weapon accessories that provide further upgrades can be purchased from the Trapper store. The shopkeeper will require both money and the correct crafting materials gathered from hunting.
+
+0x7B6AE5F1 = Honor
+
+0x8AB7FEA7 = In a Classic game the objective is to complete a set number of laps in a faster time than your opponent. You get five attempts. If you fail an attempt, the timer is reset and you restart from the beginning.
+
+0x76EECD90 = Full House: Three cards of the same rank, and two cards of a different, matching rank.
+
+0x08C112FA = To shoot an equipped firearm, aim with ~INPUT_AIM~ and fire with ~INPUT_ATTACK~. You can also shoot rapidly from the hip without aiming. When you're running low on ammo, reload with ~INPUT_RELOAD~.
+
+0x95600681 = Tips
+
+0x3BB74D33 = Gun Spinning
+
+0xFB4D6376 = The greatest Bounty Hunters are also highly skilled at Gun Spinning and will learn new tricks as they progress. Perform Gun Spinning when holding a sidearm by double tapping ~INPUT_TWIRL_PISTOL~ and then quickly pressing and holding ~INPUT_EMOTE_TWIRL_GUN_HOLD~ to view the tricks. You will begin spinning your guns and can take the time to choose individual tricks to perform.
+
+0x200702B9 = As a fully licensed Bounty Hunter, you can take on Bounty Missions from the Bounty Board and track down criminals, then hand them over to the law for a reward. Be warned, some are more difficult than others, but a tougher criminal means a higher reward.
+
+0x4031DDDB = Saving
+
+0x80B0DAF3 = Each species of animal will provide a different quality of meat. The type of meat will provide different benefits and can be used for different recipes.
+
+0x201837E3 = Camp Raids
+
+0x9731EA67 = Player Menu
+
+0xDC6E8FFE = In public games, you are unable to play while in a party. If you join a party while in a public game, you will be removed from the table.
+
+0xF9A493E6 = If your wagon is not insured, you can pay a fee to have it repaired via the Player menu, or you can travel to the nearest Stable where they will repair it for free.
+
+0x193442C7 = There are Stables in all major towns, shown by a blip on your map and radar. At a stable you can:~n~- Buy and sell horses~n~- Buy horse care items such as food, snacks, and tonics~n~- Buy or upgrade equipment such as saddles, saddle bags, stirrups, and blankets~n~- Keep up to three horses safely in stables~n~- Customize your horse's looks and accessories
+
+0x7B6A651E = Dead Eye
+
+0x19E41BD6 = Eagle Eye
+
+0x10092D92 = You can also use carcasses as bait. Carnivores and predators will be attracted to freshly killed animals left in the wilderness.
+
+0x02E02B6A = A Persistent Posse can have up to 7 players but will cost a fee to set up. It is saved, and reforms whenever the Posse Leader is online. Player stats and Awards are tracked, and you will have more freedom to customize your Posse's style.
+
+0xF9A339B0 = Play together in a Posse, work and ride side-by-side in Free Roam, and compete as a team in Showdowns and Races. Use the Player menu to join an existing Posse or create your own. To learn more about Posses, head to Online Features in the Help section of the Pause menu.
+
+0x4A8BA100 = If a player places all their chips in the pot, this is known as all-in. They will not be able to take any further action during the hand, but can still win it at the end. If a player doesn't have enough chips to call the current bet, they can still go all-in. In this case they will only be eligible for the portion of the pot they can match, as they have placed less chips in than the other players. The rest of the pot will be contested by the players who bet the full amount.
+
+0x53CE239E = In a Nominated Series, you can compete in a series of game modes, such as Name Your Weapon or Make It Count, nominated by participating players. To join a Nominated Series, go to the Social Club section of the Pause menu, select Nominations, and select a game mode. You can also join via the Quick Join section of the Player menu.
+
+0x401BD4E9 = How to Fish
+
+0x2FC8F01D = Sedating Animals
+
+0xD8C04ECA = Horse Cores
+
+0x9550177B = A player's aggression affects both the distance they appear on the map and the color of their blip: ~n~~n~~COLOR_NOTORIETY_LOW~ ~BLIP_AMBIENT_COMPANION~~s~ A peaceful player who has not attacked anyone recently. They are only visible at short range. Attacking this player will remove you from Defensive Playing Style and may increase your Hostility. ~n~~n~~COLOR_NOTORIETY_MEDIUM~~BLIP_AMBIENT_COMPANION~~s~ A player who has shown some aggression towards others. They will appear at medium range. Attacking this player will remove you from Defensive Playing Style and may increase your Hostility. ~n~~n~~COLOR_NOTORIETY_HIGH~~BLIP_AMBIENT_COMPANION~~s~ A player with high Hostility. They are visible at long range and are unable to use the Defensive Playing Style. Attacking this player will remove you from the Defensive Playing Style but will not increase your Hostility. ~n~~n~~COLOR_POSSE_ENEMY~~BLIP_AMBIENT_COMPANION~~s~ A player who is an immediate threat. You can attack this player without being removed from the Defensive Playing Style or increasing your own Hostility.
+
+0x0F827801 = Tokens
+
+0x88DE46B7 = You can buy and sell horses at Stables throughout the world. You can break wild horses, or steal owned horses. You can ride a horse temporarily, but to make it yours, you'll need to put your saddle on it.
+
+0x07353ABA = There are 28 unique tiles in a dominoes set. Each player begins with seven, drawn at random, and any remaining dominoes are placed into the boneyard.
+
+0x438B83E8 = Rank Unlocks
+
+0x77211F90 = ~INPUT_OPEN_WHEEL_MENU~ - hold to display bait wheel~n~~INPUT_MINIGAME_FISHING_QUICK_EQUIP~ - press to quick equip bait~n~~INPUT_AIM~ - hold to grip rod~n~~INPUT_ATTACK~ - hold then release to cast out~n~~INPUT_MINIGAME_FISHING_HOOK~ - press to hook a fish / tap to flick bait~n~~INPUTGROUP_LOOK~ - move rod~n~~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ - hold to reel in~n~~INPUT_MINIGAME_FISHING_MANUAL_REEL_OUT_MODIFER~ - hold to reel out~n~~INPUT_MINIGAME_FISHING_REEL_SPEED_UP~ - press to increase reel speed~n~~INPUT_MINIGAME_FISHING_REEL_SPEED_DOWN~ - press to decrease reel speed~n~~INPUT_MINIGAME_FISHING_RESET_CAST~ - reset cast / cut line
+
+0xCB84F4D7 = When hunting, choose your weapon carefully to avoid damaging the animal's pelt too much. Carcasses which have been damaged by multiple wounds, or have been dragged around while the animal struggled, are worth less money than pristine ones.
+
+0xC10411EC = Blackjack
+
+0x3E817962 = A rake is a commission that the house takes in exchange for hosting the Poker game. The house takes a 5% rake on all pots over 20 chips.
+
+0x4C5DBC87 = Tokens
+
+0xD72C88FC = Weapon Maintenance
+
+0x7237C79D = Online
+
+0x82EC89FB = Bounty Hunters will also be given the opportunity to find and capture Legendary Bounties. These are notorious felons whose crimes are known across the states. It takes a talented Bounty Hunter to catch these criminals. These Legendary Bounties can be launched from the Bounty Board and replayed. But be warned, replaying one of these missions will increase its difficulty.
+
+0x96EB1EF3 = In situations where it's not polite or possible to carry a gun, you can always use your fists. Find various knives and hatchets in the world which can give you the edge in a brawl.
+
+0x83AE6F07 = Overview
+
+0xED3E57D2 = Shotguns
+
+0xE579347F = Animals and birds are valuable natural resources and can be hunted for their meat, hides, and other useful materials.
+
+0x29763E5F = The Wheeler, Rawson and Co. Club
+
+0x3EFF7C6F = The guide to becoming a legendary Bounty Hunter of the United States.
+
+0x62829192 = 'Pump' the Fishing Rod to make faster progress hauling in a hooked fish. Pull down ~INPUTGROUP_MINIGAME_FISHING_LSTICK_ALL~ to drag the fish towards you then quickly reel in line.
+
+0x9E58BFEF = Or if only one player remains before the betting rounds are completed, the remaining player steals the pot, winning it without having to reveal their cards.
+
+0x744EB02F = Public Games and Private Games
+
+0x482375FC = Thrown
+
+0x5CCAB928 = You can cook meat at a campfire. When you have hunted and skinned an animal, and set up your camp, you can cook meat through the crafting menu. Using herbs and seasoning makes for a more satisfying meal.
+
+0x36498292 = A Block game follows the same rules as Draw, but there is no boneyard, so players cannot draw new tiles.
+
+0x6893D936 = To progress your career as a Bounty Hunter, gain experience by completing Bounty Missions, taking part in Bounty Hunter Free Roam Events, and completing Daily Role Challenges. View and track your Daily Role Challenges in the Player menu.
+
+0x0285949F = Keep an eye on your radar for an enemy's Vision Cone. This will give you an indication of which direction the enemy is looking, allowing you to plan the best route to avoid their field of view.
+
+0x89282463 = If you choose not to purchase a Moonshine Shack immediately, you can purchase one from the Player menu in the Camp & Properties section at any time. You can also use this menu to change the location of your Moonshine Shack for a fee and invite other players to your Moonshine Shack.
+
+0x924D45A2 = As well as RDO$, items can be purchased with Gold Bars. There are two ways to receive Gold. You can buy Gold Bars from the Store, Social Club website and the Red Dead Redemption 2 Companion App. Or you can earn Gold in the form of Gold Nuggets. It takes 100 Gold Nuggets to make a Gold Bar.
+
+0x30AE6744 = Rules
+
+0x519DAE6E = When hunting, craft Small Game arrows to end up with better quality pelts, or use Poison arrows to take down big animals quickly. When faced with enemies, craft Fire or Dynamite arrows for increased power.
+
+0x7E056326 = Ends your turn without taking another card.
+
+0xF964BBBE = In a Draw game, the aim of the game is to be the first player to put down all of your Dominoes.
+
+0x8F663E2D = You can also launch Animal Sighting Missions by speaking to Harriet who will be only too pleased to tell you any rumors she's heard. She can also offer you information on any animal poaching, and send you on short missions to free the animals.
+
+0x35956ACE = In public games, players are matchmade together randomly, players are not identified, and voice communication is turned off. If you would like to play with Friends, you can host a private table where you can send invites and communicate through in-game voice chat.
+
+0xFBB969E4 = Saddling Horses
+
+0xC20EA55C = You can quickly open the Pause Map by holding ~INPUT_MAP~. Place a waypoint with ~INPUT_FRONTEND_ACCEPT~, or add a Marker with ~INPUT_FRONTEND_LS~. Zoom in on a town to see which amenities it offers. Your Camp location is marked on the map with a ~BLIP_CAMP~.
+
+0xA2CE42A6 = If another player destroys your wagon, they will be charged for the necessary repairs.
+
+0x1C5020CD = Be warned, Maggie has a past and is plotting her revenge. Speak to Maggie in your Moonshine Shack to launch these Moonshine Story Missions.
+
+0x622AA7A8 = As you commit more crimes in a region, lawmen and civilians become more vigilant, eventually placing the region on Lockdown. This turns the region map red and prevents use of local shops and events until enough time passes or your bounty is paid.
+
+0x40C660F1 = There are 3 game variations; Classic, Guts and Burnout. Each has a different objective. Perform the objective better than your opponent to win a round, and win 2 rounds to win the game.
+
+0x8B5BC507 = Overview
+
+0x300E10BC = Overview
+
+0xFAEF8FDA = Players have a set number of chips they can bet during each hand - this is known as the cap. Players can play in any way they wish during the hand, but once they have reached the cap, they are considered all in, even if they have chips left in their stack.
+
+0xF61B7432 = As you progress in Red Dead Online, you will unlock pieces of clothing and equipment that are only available to players who have achieved a certain rank. You can track your Rank Unlocks in the Progress section of the Pause menu.
+
+0x051246FB = Stables
+
+0xFC1A3401 = Dive to ground during combat by pressing ~INPUT_JUMP~ while aiming your firearm. To switch your point of view between your left and right shoulder while aiming, press ~INPUT_SWITCH_SHOULDER~.
+
+0x5B7982C3 = Pistols
+
+0x6BFA89DA = Classic
+
+0xE30D0EFB = Radar
+
+0x25B4BA5D = You may heal your horse via the Player menu for a fee or at the Stable where it will cost less. Alternatively, you can purchase Veterinary Insurance for a fee. This will cover the costs of treating your horse, helping it towards a quick recovery.
+
+0xB31D0203 = As you rank up, you'll receive Tokens that can be used to unlock new skills, activities, Free Roam Events, equipment, horses and clothing. In particular, Bounty Hunters of a certain caliber can purchase a Bounty Wagon. Bounty Wagons allow you to capture more than one bounty target at a time. It is available to view and unlock in the Progress section of the Pause menu.
+
+0xB6FEC97E = Remove your saddle from a dead horse by approaching and holding ~INPUT_SADDLE_TRANSFER~ to remove.
+
+0x8CF8C5F4 = Player Bounties
+
+0x2B9A2504 = You are automatically a member of the Wheeler, Rawson and Co. Club. This means you will unlock free Club Rewards as you gain XP throughout the current Club Membership period.
+
+0x65030DA4 = Hitching
+
+0xF0A0D664 = Split
+
+0x5688541D = You can choose to double down as long as you only have two cards in your hand. This doubles the value of your current bet, and gives you one - and only one - additional card. If you don't have enough chips to cover the additional bet, you can't double down.
+
+0x56831B26 = Use ~INPUT_COVER~ to use a nearby wall, building or other structure as cover, and use ~INPUTGROUP_LOOK~ to look around while in cover and use ~INPUTGROUP_MOVE~ to break out. To move around corners or to the next available cover, use ~INPUT_COVER_TRANSITION~.
+
+0xDCC42FEA = Equipment upgrades can be bought from any Gunsmith store, allowing you to carry more ammunition and slow the degradation of your weapon.
+
+0x09C4493C = Daily Limits
+
+0x74A9E8FB = Remember, if you prefer hunting animals to studying them, the famous trapper Gus Macmillan runs a number of stores ~BLIP_SHOP_ANIMAL_TRAPPER~ throughout the states. Visit Gus to trade animal pelts and skins and craft unique outfits from the materials. But be warned; if Harriet finds out you've been hunting animals, she will bar you from her store for a short period of time.
+
+0xA7E120B4 = Approaching a Series Marker in Free Roam will give you the option to start matchmaking into a Series, here you can compete against others in varied and intense game modes. Series can be identified on the radar and Pause Map by their unique blips. Alternatively, launch the Series you want from the Quick Join section of the Player menu.
+
+0x0B1BF723 = See the World
+
+0x3A8B26B3 = Tokens
+
+0x658BAD96 = Sleep
+
+0x9E31A03B = The WANTED text will appear in the top right of your screen whilst you are wanted by the law. While wanted, you can lose your pursuers by escaping the region, killing all nearby lawmen, or hiding and staying out of sight until they call off the search.
+
+0x5D3B65E2 = While playing Poker, there are daily limits on how many chips you can buy and how long you can play. Once you reach any of these limits, Poker will be unavailable to you for a period of time so head out and enjoy your spoils.
+
+0x22DD148E = You can earn Gold in game in the form of Gold Nuggets. It takes 100 Gold Nuggets to make a Gold Bar.
+
+0x170CFC33 = Madam Nazar travels around the states, pitching in a new location every day in order to sell her wares and buy Collectibles. Travelers often hear the music playing from her gramophone as they pass nearby.
+
+0x4FCA7807 = The player who has drawn the highest double (tile with the same number of pips on each side) begins the game by placing it, face-up, in the middle of the table. If no player has a highest double, the player with the highest value tile will go first. This creates the “line of play” and the other players, in turn, extend it by selecting tiles from their hand with matching numbers of pips on one side and placing them against the tile on the board.
+
+0xB5DDE15D = You can cook and eat many types of game, and sell hunted animals at the Butchers.
+
+0x3AFFC12C = You can press ~INPUT_WHISTLE~ to call your horse to you. Bonding with your horse will improve how fast it can locate you. To mount any horse, stand close by and press ~INPUT_CONTEXT_Y~.
+
+0x90B24AFC = Weapons
+
+0x0A719DD9 = Now, Guido Martelli has proposed a solution that will return all this missing Capitale to its wrongful owners. He will reward anyone willing to recover enough Capitale notes and hand them to his contacts: James Langton, Sean Macguire, Anthony Foreman and Joe.
+
+0x0459C07B = Rustling
+
+0x2E8D9A7B = If you injure an officer of the law, or shake out of an arrest attempt, then the law will no longer attempt to capture you alive - they will shoot to kill.
+
+0xD0451CF8 = Hostility
+
+0xECEAACC8 = If you are a member of a Posse and your Posse Leader accepts a Free Roam Event, all the Posse Members will take part. If your Posse is the only one to take part in the Event, you will temporarily become enemies and play against each other.
+
+0x55E93980 = Trader
+
+0x1A074912 = Collector
+
+0xCDA855AB = Combat
+
+0xF37451CF = In Free Roam, your Hostility will increase if you act aggressively towards other players. As your Hostility increases, your blip will become red, and you will be visible from a greater distance on the map.
+
+0xDE9FA766 = Melee Weapons
+
+0x107CA83E = View which Club Rewards are available in the Progress section of the Pause menu.
+
+0x373DFDEE = Dominoes are placed face down or in a rack facing the player, so that all players can see how many tiles their opponents have remaining, but can only see the pips on their own.
+
+0xD4CBBB8E = The beginner's guide to establishing a reputable business in trade.
+
+0xFEA614A8 = Capitale
+
+0xB895E5B2 = Bounty Hunting
+
+0xE3D8C964 = Ammunition for your weapons can be bought from the Handheld Catalogue, Gunsmiths or General Stores, crafted, looted from dead enemies, or found in the world. Certain types of ammunition have special properties that can give you an advantage in combat.
+
+0xB16B4D6B = As you enter the area, you will feel a slight vibration which will grow more intense as you move closer to the treasure. Follow the feeling, or use Eagle Eye by selecting ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to focus your vision and locate the chest.
+
+0x34E1232F = Tokens
+
+0xE31B4175 = All new players to the table must contribute an ante equivalent to the big blind on their first hand. If you happen to start in the big blind position, you will play as normal. Starting in the small blind position, you will top up your bet to be equivalent to the big blind.
+
+0xF5394BF8 = As you catch each type of fish, information about the species and your catches will be recorded in the Compendium.
+
+0xDD52DD35 = General
+
+0xA2F62F6C = Collectors are explorers who search for valuable items and natural treasures, amassing collections that can be sold for profit.
+
+0x3BEDDBC0 = As the price on your head grows, your name will spread and attract the attention of Bounty Hunters. Experienced trackers, they may target you at any time so stay alert. And be warned: the higher your Bounty, the more experienced the Bounty Hunters. Escape them or risk forfeiting the Bounty you owe.
+
+0xBBFEAE15 = Bonding
+
+0xDC196C98 = Crime and Punishment
+
+0xD43B9354 = In Red Dead Online, you can equip Abilities using Ability Cards which provide you with attributes that will affect the damage you deal and how you deal it. These come in Dead Eye form, granting you an ability activated during Dead Eye by holding ~INPUT_SPECIAL_ABILITY_SECONDARY~ and pressing ~INPUT_SPECIAL_ABILITY~, and Passive form which affects you persistently. You have one Active slot, and three Passive slots to fill.
+
+0x2160DD17 = The Weapons section of the Compendium keeps track of all weapons you have encountered so far, as well as key statistics like kills and headshots.
+
+0x6D767ADF = Any bodies found will be reported and lawmen dispatched to investigate. Hide or dispose of bodies to avoid unwanted attention.
+
+0xFFB2F4EC = Your horse will not respond if it is critically injured. Whistle to call the Scrawny Nag. This old horse is no stallion, but it will get you where you need to be. No horse will respond if you are inside a building.
+
+0xCC1732BB = The herbs and plants that grow in the different regions influence your cores. Some damage and some heal. These herbs can be eaten, used in cooking, or crafted into ammunition and Tonics.
+
+0xEA187798 = Cover scents can make it harder for animals to detect your presence, allowing you to sneak up closer and catch your prey unawares. You can craft or buy a supply of cover scent.
+
+0x2141C67F = Those who purchase The Outlaw Pass, The Quick Draw Club or The Halloween Pass will receive special Pass Rewards.
+
+0x754AE689 = Betting
+
+0x1AB2FF47 = A fifth community card is dealt, known as the river. A final betting round takes place.
+
+0x92021322 = Revolvers
+
+0x23BFDC52 = Honor
+
+0x6DCDC834 = Completing certain Awards will place a Belt Buckle into your Wardrobe for you to equip.
+
+0xA31ABE40 = Traders manage their very own businesses from Camp, selling goods and supplies to neighboring areas for profit.
+
+0x86069215 = One pair: Two cards of a matching rank, and three unrelated side cards.
+
+0x7A0BADB3 = Certain shopkeepers won't trouble you with questions about whether items were legally acquired. Look out for the ~BLIP_SHOP_SHADY_STORE~ in the following towns: ~n~- Emerald Ranch ~n~- Rhodes ~n~- Saint Denis ~n~- Thieves Landing ~n~- Van Horn
+
+0xC1CEC5BF = The first betting round is known as preflop. After the blinds have been posted and the hole cards dealt, the betting round starts. It continues until all players who remain have bet the same amount, or are all-in.
+
+0x66466D07 = High card: Any hand that does not qualify under a category listed above.
+
+0x1E448381 = Free Roam Missions
+
+0x8C07BFA4 = Additional info
+
+0x9848B210 = To become a Naturalist, meet Harriet Davenport in Strawberry ~BLIP_MP_ROLE_NATURALIST~ and purchase the bundle of professional equipment required to research wildlife; the Animal Field Guide, Legendary Animal Map, and the Sample Kit.
+
+0xA652E778 = Wanted
+
+0x44D4425B = If your horse has been critically injured or killed, you won't be stranded without a ride. Whistle to call the Scrawny Nag. This old horse is no stallion, but it will get you where you need to be.
+
+0x2A045958 = If the dealer's face-up card is an ace, you will be given the option of buying insurance. The maximum insurance is half of your current bet. The dealer will then check their hand for a blackjack. If they have one, you win 2:1 on your insurance bet but lose your initial bet, and the round is over. If the dealer does not have blackjack, all insurance bets are lost, and the round continues as normal.
+
+0x41C92F8E = Number cards 2 to 10: face value.~n~King: 10.~n~Queen: 10.~n~Jack: 10.~n~Ace: 1 or 11. The value used for each ace is whichever puts the hand's score closest to 21 without busting.
+
+0xBB1A3667 = Prior to beginning a game you can play up to 3 practice attempts to sharpen your skills before taking on the opponent. Press ~INPUT_MINIGAME_FFF_PRACTICE~ when prompted to practice. Your best attempts are saved, so try to beat your previous record scores.
+
+0x6361EA0D = When law officers approach you, you have the opportunity to surrender to them. You must be on foot, and have your weapon holstered, to surrender.
+
+0x935B8806 = Weapons and ammunition can be quickly purchased from the Handheld Catalogue by holding ~INPUT_OPEN_JOURNAL~. Items can be collected from the Post Office or from the Camp Lockbox. Weapons are immediately available from your Horse.
+
+0x81076125 = Fishing
+
+0x5F1B8B79 = Your Health, Stamina and Dead Eye Cores drain over time. If your Health or Stamina Cores are low, the corresponding bar for each attribute will refill at a slower rate. Cores can be Fortified to stop them draining for a short period of time. To refill a Core, you must consume an appropriate Provision.
+
+0x321724C6 = If you have a blackjack when insurance betting starts and you bet the maximum insurance, this is known as taking even money. In this situation, whether the dealer has blackjack or not, you are guaranteed a payout of 1:1. If the dealer has blackjack, you will win the insurance bet and push your original stake. If the dealer does not have blackjack, you lose the insurance bet, but payout for your blackjack. Both resolve to a payout of 1:1.
+
+0xBD018BAF = Gunsmith stores can be found in all major towns, and each has a unique selection of items available. Browse the store's Catalogue to buy weapons, ammunition and accessories, or take a look at the store's shelves to see what's for sale.
+
+0x29C15AD0 = To saddle a horse, approach it with a saddle in hand and hold ~INPUT_SADDLE_TRANSFER~ to put it on. You can only have one saddle, and therefore one main horse, at a time. To remove a saddle you must approach the horse and hold ~INPUT_INTERACT_LOCKON~ to lock on and hold ~INPUT_SADDLE_TRANSFER~ to remove.
+
+0xAEE84A9F = You can study and inspect animals when hunting
+
+0xEA7C957F = As you travel around the world, you will also encounter Strangers who have questions or tasks for you. The ~BLIP_RC~ blip will be displayed when a Stranger wants to talk to you.
+
+0x971A5F43 = If you choose not to purchase a Butcher Table immediately, Cripps will sell you one at the Wilderness Outfitters. Once you have one in Camp, Cripps Trading Co. will be up and running.
+
+0xE36A3EE6 = A player can always fold, forfeiting all interest in the pot. A player who folds cannot wager any further chips during the current poker hand, and cannot win that hand.
+
+0xD9F5AC1F = If you choose not to purchase one immediately, Madam Nazar will happily sell you one at a later date.
+
+0x1E0E5581 = Your choices will affect how Honorable or Dishonorable you are deemed to be. For example, helping strangers and reviving players will increase your Honor. However, killing innocent people and committing crimes will impact your Honor negatively. In Story Missions, you'll find the honorable or dishonorable decisions you make will influence the journey ahead. You can find out more about Honor under Crime in the Activities section.
+
+0xCD217044 = Once you have cast out using a lure, keep reeling it in slowly to make it look like a little swimming fish or insect. A stationary lure just looks like an inanimate hunk of metal so will not attract any fish.
+
+0x559C0AF8 = Poker hand rankings from strongest to weakest:
+
+0x114B981B = At the beginning of each game you must place a bet. If you win the game you take the betting pot. New opponents will raise the betting stakes and the difficulty. Press ~INPUT_GAME_MENU_ACCEPT~ to take them on, or hold ~INPUT_MINIGAME_QUIT~ to leave the table.
+
+0xF0583A18 = Hit
+
+0x4C832CB2 = If you choose not to purchase this license immediately, you can purchase one from any Bounty Board at a later date.
+
+0x4ADAB080 = Press ~INPUT_NEXT_CAMERA~ to switch between first person and different third person perspectives.
+
+0xB7BF89B0 = Parley
+
+0x9DB079CE = If you commit more crimes while the law is chasing you, more and more vicious law officers will show up to pursue you.
+
+0x1D11F484 = A fourth community card is dealt, known as the turn. Another betting round takes place.
+
+0x9974DE08 = The equipment you buy will affect your horse in different ways. Saddles and stirrups influence your horse's Stamina and Health. Meanwhile, saddle bags dictate the number of outfits, masks, and hats you can store on your horse. For example, a Standard Saddle Bag will allow you to store 2 outfits, 2 masks and 2 hats. An Upgraded Saddle Bag will allow 4 of each, and special saddle bags such as the Collector Saddle Bag will allow you to carry 6 of each.
+
+0xC29A15F6 = You can also craft health cures and remedies for yourself and your horse. Increase your rank to unlock crafting Recipes that can be purchased at your local Fence.
+
+0x49BA16B3 = After all betting rounds are complete, the players reveal their cards in a showdown and the player with the best hand wins the pot.
+
+0x2B985E76 = Your Hostility will decrease over time. Track your current Hostility in the Online Options section of the Player menu.
+
+0x71188D97 = High Quality~n~- Prime Beef - High quality meat from animals like Cows and Buffalo~n~- Mature Venison - Cuts of high quality Deer meat~n~- Tender Pork - Succulent, filling meat from animals such as Javelina and Pigs~n~- Game - Meat from game such as Rabbits, Pheasants and Ducks~n~- Succulent Fish - Fillet of high quality fish like Salmon and Trout~n~- Exotic Bird - Meat from rare birds such as Parrots, Pelicans and Carolina Parakeets
+
+0x41A4DD91 = You can use the lasso to rope animals, and to immobilize enemies - it's particularly useful for bounty hunts where the target is wanted alive. To lasso a target, equip your lasso like any other weapon, aim at the target with ~INPUT_AIM~ and ~INPUTGROUP_LOOK~, and press ~INPUT_ATTACK~ to hurl your lasso.
+
+0x90639EEA = You can permanently increase the capacity of the Dead Eye bar by gaining experience from completing actions such as hunting, crafting, and finding collectibles.
+
+0x4C2B26F8 = If you own multiple horses you can set which one you would like to use for racing, Story Missions, competitive matches or Free Roam by selecting the Specialty in the Stables section of the Player menu. Here you can also check your horse's stats and bonding level.
+
+0x27995906 = View the different Awards and their tiers in the Awards section of the Progress menu. Here you can view award sets and Pin individual awards to the Pinned section of the Player menu using ~INPUT_FRONTEND_RS~.
+
+0x1131CEC5 = In this example, the edge score is 5 + 4 + 3 + 3 = 15, so the person who last played scored 15 points. For their next turn the player could play any tile which has a 5, 4 or a 3 on either end. A point-scoring move in All Threes would be to play 3-3 on the right, bringing the edge score to 5 + 4 + 3 + 6 = 18.
+
+0x858AC2DA = Tips
+
+0xA2C4FDF0 = As you rank up, you'll receive Tokens that can be used to unlock new skills, activities, equipment, horses and clothing. In particular, Naturalists can unlock the Wilderness Camp which will create a small camp anywhere in the world where you can craft, cook, and rest. Harriet might also be willing to share her secret studies on establishing a very particular connection with the natural world. You can view this in the Progress section of the Pause menu.
+
+0xBC6ABC1F = The Animal Field Guide is a collection of notes and research on the animals that inhabit the states. Use this to track your progress as you learn more about the wildlife around you by sampling, studying and photographing them in their natural habitats. Find the Animal Field Guide in the Progress section of the Pause menu, inside Roles, or open it quickly via the Kit section of your Item Wheel.
+
+0x8DF7CF41 = The quality of the meat will differ depending on what species you catch.~n~~n~Low Quality~n~- Gritty Fish - Fillet of low quality fish like Bluegill~n~Good Quality~n~- Flaky Fish - Satisfying fillet from fish of good quality like Perch and Bass~n~- Crustacean - Meat from various shellfish~n~High Quality~n~- Succulent Fish - Fillet of high quality fish like Salmon and Trout~n~
+
+0xC9E087F8 = Passes
+
+0x13B25C70 = Whether you are short on cash or hungry for more, Treasure Maps are a good opportunity to unearth yourself a fortune. After ranking up, you may receive a map as a reward. However, don't forget to loot fallen enemies. Some folk in these parts carry secrets in their pockets. Unburden them, and find the treasure they have left behind.
+
+0xFA1E58D6 = The West is home to many rival gangs of outlaws and misfits. Gangs vary in size and structure, but each has their own territory, and none of them are likely to welcome Dutch's Gang onto their turf.
+
+0xEB31C880 = To view your current Familiarity level with a weapon, visit the Weapons section of the Compendium.
+
+0xEB5317C4 = When you have discovered a Treasure Map, find it in your Satchel and choose 'Use' to begin the hunt. The Pause Map and radar will then reveal and highlight the general area where the treasure is located. Somewhere in this expanse a treasure chest will be hidden out of sight. Head to the area to begin searching for the chest. But remember, you can only concentrate on one map at a time.
+
+0x0784D550 = To be able to nominate a game mode, you must first bookmark it via Nominations, under the Social Club section of the Pause menu. You can use the filter to help find the game modes you want. Once you are in a Nominated Series lobby, your bookmarked modes will be available for you to nominate. Note that you can join a Nominated Series without bookmarking any game modes, but you will not be able to nominate a game mode in the lobby.
+
+0xBEF69798 = You can purchase Capitale notes from any Fence, or loot them from lockboxes, chests and enemies during Blood Money Crimes. To launch a Blood Money Mission, speak to one of the four contacts and select any Crime from the menu.
+
+0x2726CED3 = Horses
+
+0x064A0054 = Ammunition
+
+0xDA9B70E6 = To keep your horse happy and healthy, and retain a strong bond, you will need to keep it fed and clean. A horse's Health and Stamina Cores are affected when it gets hungry or dirty – meaning it'll tire faster and withstand less damage.
+
+0x68BCA4C0 = Weekly Collectible Shopping List
+
+0x80EFD092 = You can hold up stagecoaches and trains loaded with valuables. Try talking to people who work at stations to see if they have tips to share with you.
+
+0x16B7DDDD = If a civilian spots you committing a crime, they will try to tell law enforcement. When an eyewitness reaches a law officer, law enforcement officers will come after you and place a bounty on your head.
+
+0x8FD81FA2 = Insurance
+
+0x9011859C = There are two ways to receive Gold. You can buy Gold Bars from the Store, Social Club website and the Red Dead Redemption 2 Companion App. Or you can earn Gold in game in the form of Gold Nuggets. It takes 100 Gold Nuggets to make a Gold Bar.
+
+0xC2005CD3 = To cook moonshine, speak to Marcel in the basement of the Moonshine Shack. Here you can choose the strength of your moonshine and its flavoring. You can also view a list of potential buyers and see how much they're willing to offer for your moonshine. When you decide to start a Sell Mission, keep an eye on the amount of damage your wagon and the moonshine inside is taking. Buyers will pay less if bottles are destroyed en route.
+
+0x0F6860E5 = You can press ~INPUT_DUCK~ to crouch, avoiding enemies' lines of sight, and move more quietly and stealthily. Sneak up on enemies from behind and press ~INPUT_MELEE_ATTACK~ to knock them out while unarmed, or to stealth kill if you have a knife equipped.
+
+0x7B0D5EAD = Call
+
+0x51CE50B3 = Deliveries
+
+0x94F5A72B = Tip
+
+0xCC4D8E9A = Fish attracted to the bait will often nibble before taking a firm bite. When you get a firm bite, the Fishing Rod will be pulled strongly downwards and the bobber pulled underwater, but the bite won't last long so quickly try to hook the fish.
+
+0x0730CF26 = The roads you travel can be dangerous. Insure your personal wagon at the Stable to avoid additional costs if the vehicle is critically damaged. If destroyed, the wagon will be quickly repaired so it can be called out, ready to drive again in no time.
+
+0xB9AF7D81 = Bounty Board
+
+0x7C45B6D0 = Four of a Kind: Four cards of the same rank, and one side card or 'kicker'.
+
+0xACE2376F = Every day you will be given seven challenges to complete in Free Roam. These will test your ability in a variety of tasks ranging from hunting and gathering to shopping and combat.
+
+0xFDA3DBDC = Horses won't become hungry while they are at a hitching post with a trough, at the gang's camp, or at a stables.
+
+0x4B0C7CA0 = The Butcher Table will allow you to manage your Trader business. Here you can supply Cripps with Raw Materials; animal carcasses or parts that you have skinned or plucked.
+
+0xED8B4080 = If you wear a mask or bandana to commit a crime, witnesses will be unable to positively identify you, and you may be able to talk your way out of suspicion during a lawman's interrogation.
+
+0x1C10BD4F = Bootlegger Missions
+
+0xBEA2BEF9 = Stand
+
+0xFD18AD64 = To maintain your weapon, select it from the Weapon Wheel and press ~INPUT_QUICK_SELECT_INSPECT~ to inspect and clean your weapon. This requires Gun Oil, which can be purchased from any Gunsmith store.
+
+0xDF512470 = You can equip weapons, switch ammunition or view stats using the Weapon Wheel. Hold ~INPUT_OPEN_WHEEL_MENU~ to open the Weapon Wheel, use ~INPUTGROUP_LOOK~ to select the weapon you want to use, then release ~INPUT_OPEN_WHEEL_MENU~ to equip.
+
+0x6F8B353E = This game uses an automatic save system, and your progress will be saved when you complete story chapters, saving within your Camp and whilst progressing through certain actions. Don't switch off your console while the saving icon is displayed.
+
+0xDB856B0D = Once you've lassoed a target, you can quickly approach them and press ~INPUT_HOGTIE~ to hogtie and keep them still. The hogtied enemy can then be picked up and carried and even placed on your horse. Lassoed targets will break free after a short time if they're not hogtied.
+
+0xF3D057A7 = Spinners
+
+0x3F3D56EE = You may store your horses at the Stable. You will be given 1 stall, but more are available to purchase at the Stable. By purchasing stalls, you can store up to 10 horses. You must have an available stall in order to buy a new Horse.
+
+0x345C1413 = Best Quality~n~- Big Game - Meat from large predators such as Bears, Wolves and Alligators~n~
+
+0x22667EA0 = Stealth
+
+0xCE10C974 = Lures
+
+0x988D4044 = Legendary Animals
+
+0xD9604B2A = The ability to Fish unlocks at Rank 14. Once unlocked a Fishing Rod will be available to buy from the General Store and the Handheld Catalogue.
+
+0xCAF465B4 = Before cards are dealt in a round, each player chooses how much they want to bet on their hand. The players and dealer are then dealt two cards each. Players' cards are dealt face-up, but one of the dealer's cards is initially hidden.
+
+0x4A4DC2F0 = Each species bites at the bait differently. Some species nibble cautiously until taking a firm bite, other species are more confident and will repeatedly take firm bites. Predator species can bite suddenly without warning, so, when waiting for a bite, be ready to strike at all times.
+
+0x4241C765 = Just reminder stuff from tutorial.
+
+0xF94EC008 = Cores
+
+0xB7641C3D = There are Stables across the land, shown by a blip on your map and radar. At a stable you can:~n~- Buy horses~n~- Buy horse care items such as food, snacks, and tonics~n~- Buy or upgrade equipment such as saddles, saddle bags, stirrups, and blankets~n~- Keep up to ten horses safely in stables~n~- Customize your horse's looks and accessories~n~- Buy wagons
+
+0xEA120FC6 = Riding
+
+0x095D7504 = Ammunition for your weapons can be bought from Gunsmiths or General Stores, crafted, looted from dead enemies, or found in the world. Certain types of ammunition have special properties that can give you an advantage in combat.
+
+0x8F8155E6 = On reaching the end of the final betting round, the showdown takes place. The players reveal their cards. Taking the best five-card combination of their hole cards and the community cards, each player has a hand ranking (for example, a pair). The player with the best hand ranking wins the pot. See the Hand Rankings column for a full list.
+
+0x7EE2834A = The Player menu allows you to view information on the players in your session and adjust how you interact with them, accept invitations to Free Roam Events and Posses, track your progress with Daily Challenges and your personal Log, manage your Posses and Properties, and make changes to your character. To open the Player menu tap ~INPUT_PLAYER_MENU~.
+
+0xA6DEC740 = Low Quality~n~- Gamey Bird - Low quality meat from various small birds~n~- Stringy Meat - Meat from vermin and other small animals like rats~n~- Herptile Meat - Meat from reptiles and amphibians
+
+0x3FC1DE12 = To add Posse Members, go into Posse in the Player menu and select your Posse. Choose Invite to Posse, then find the player you would like to join and select Invite.
+
+0xC5363E5E = As your rank increases, additional Ability Cards will unlock and become available for you to buy with cash.
+
+0x2027AEA5 = You can increase bonding by:~n~- Calming your horse when it's agitated.~n~- Feeding your horse when it's hungry.~n~- Grooming your horse when it's dirty.~n~- Riding, leading, and swimming with your horse, as long as it isn't tired out.
+
+0x0EB6D2CF = Compact and modern. Pistols are not as powerful as revolvers, but can hold more ammunition and can be reloaded quickly during a fight.
+
+0xA3FD7727 = You can show off your skills by performing knife tricks. Each time you complete one full lap the ~INPUT_MINIGAME_FFF_FLOURISH_CONTINUE~ button will appear. Press it whenever you are ready to perform a trick. You will sometimes perform a trick whilst spiking the knife into the table at the end of your turn if you performed especially well.
+
+0xA2E7A2A6 = Photo Mode
+
+0x5771B222 = Over several rounds, shared cards are dealt to the center of the table. These can be seen by everybody and are known as community cards.
+
+0xFA42B54F = After saving your shot, view your photo in the Social Club Gallery. Here you can apply Stickers and add text to your image before uploading it to the Social Club.
+
+0x77D69C97 = As with Draw and Block games, the round ends either when a player downs their last tile or the round is blocked. The winner receives the total of their opponents' pips, rounded up or down to the nearest 3. Games continue with new rounds until a player reaches the target score of 90.
+
+0x7F0F64AE = Provisions, Kit, Documents, and other items found or purchased are stored in your Satchel, accessed by holding ~INPUT_OPEN_SATCHEL_MENU~. Some provisions are also stored on your horse.
+
+0xC7DDFDA0 = Artificial lures are more expensive than bait, but they are sturdy so can be used more than once. There are different lures that are suited to attracting river, lake and swamp-dwelling fish species.
+
+0x7E26B331 = If several players share the best hand ranking, the remaining cards in their five-card hands are taken into account. These are known as a kicker. If one of the players has a better kicker than the others, they win the pot. If even after taking kickers into account, several players still share the best hand ranking, the pot is split between them.
+
+0xFDC74318 = Handheld Catalogue
+
+0x22298AF2 = Treasure chests can hold a variety of plunder from Gold Nuggets to cash, consumables, ammo and clothing. Loot the chest and receive your reward. After finding the chest, the highlighted area will disappear from your Pause Map, and you will be free to use another Treasure Map and seek out your next prize.
+
+0x6F60ECCB = Cash, Gold and Tokens
+
+0x87863219 = Finding Fortune
+
+0xB4620A7B = You can press ~INPUT_WHISTLE~ to call your horse to you. Bonding with your horse will improve how fast it can locate you.
+
+0x2A507F35 = Bet Cap
+
+0xD5A6E224 = If no bet has been made, a player can choose to check or bet. A check is equivalent to betting zero and passes the action to the next person clockwise. A player who checks remains in the game and reserves the right to call or raise later. If all active players check during a round of betting, the round is considered complete.
+
+0xE5201C14 = Card Values
+
+0xFBE1A823 = Doing Business
+
+0x99DB50AF = You should be careful feeding your horse. Overfeeding it when it is already full can cause it to become overweight. Underfeeding it will cause the horse to become thin.
+
+0xB69E746B = Showdown
+
+0xD5448B48 = Rifles
+
+0x45F93C4D = Ability Cards
+
+0x4FFC472E = The winner's score is the total pip count of all the dominoes the losing player or players have in their hands. Games continue with new rounds until a player reaches the target score of 60.
+
+0xE6A96AF3 = If you use stealth and a silent weapon, like a bow, then you'll be able to creep closer to animals without startling them.
+
+0x86BBD4A5 = Press and hold ~INPUT_FOCUS_CAM~ to activate the Cinematic Camera. This will add black bars with a mix of close-up shots and wide angles to create a dramatic view centered around your character. It can also be used while traveling on horseback to automatically guide you to your destination. Simply add a waypoint to your map via the Pause menu, spur your horse forwards and activate Cinematic Camera.
+
+0xFD6433C8 = When an Event is about to start, you will receive a notification and can choose to opt in and take part. Your notifications can be viewed in the Player menu and you will have a limited amount of time to accept. When the Event begins, you will be taken straight to the location.
+
+0x2B2800A2 = As you play Red Dead Online, you can earn unique Belt Buckles, Gold, and XP by completing various challenges.~n~These are separated into categories and will test all the skills it takes to survive in the American heartland. From hunting to traveling, combat and trade, prove your expertise and collect the rewards.
+
+0xE9B009EF = Different weather conditions call for different outfits; being too hot or too cold for long will cause your Health Core to drain faster. You can change your clothes at a camp, a hotel room, a Tailor's store or when facing your horse.
+
+0x93F13AA4 = Overview
+
+0x35070A4E = When a hooked fish is struggling grab hold of your reel by holding ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ and ~INPUT_MINIGAME_FISHING_MANUAL_REEL_OUT_MODIFER~ to prevent the fish pulling out line. However, doing so for too long or too often may snap the line.
+
+0x0889DF28 = Companions who want to go hunting with you will be marked with a ~BLIP_REGION_HUNTING~ on the radar.
+
+0xAE5E537D = When a hooked fish is struggling, it will aggressively swim to try and get away. Control the fish by pulling the rod left or right in the opposite direction to the fish movement. This will tire the fish so that it struggles less, making it easier to reel in.
+
+0x4A1D79E5 = Posse
+
+0x7A323903 = When you reel in and unhook a fish, you can either keep it to eat or sell, or release the fish back into the water to gain Honor if it is still alive. Smaller fish you keep are stored in your Satchel, while larger specimens can be stowed on your horse.
+
+0x23E7D113 = Map
+
+0x82DF7124 = Nutritious foods like Oat Cakes, Apples, and Hay will satisfy your horse's hunger for longer than treats. Giving these foods to your horse also increases bonding significantly.
+
+0x0631390C = As you rank up, you will receive Tokens that can be used to unlock new skills, activities, equipment, horses and clothing. All of these are available to view in the Progress section of the Pause menu.
+
+0x7C0D7B59 = After each set of cards is dealt, there is a round of betting. Players take turns to place a bet in the pot, which the other players must match (call). If they don't want to match the bet, they must drop out (fold), losing any chance to win the pot.
+
+0x23CFE554 = In an All Threes game, points can be earned at the end of every turn by totaling the number of pips at each open end of the chain. If this edge value is a multiple of 3, then the player scores that number of points.
+
+0x492E260B = Benefits
+
+0x524091FB = Not only is she interested in purchasing your collections, but she will also send you her Weekly Collectible Shopping List. These are the items she is currently seeking. If you collect every item on the list, Madam Nazar will reward you handsomely. These Collectibles can be sold in person or sent to her via any Post Office.
+
+0x0D3CBD47 = Weapons like throwing knives and tomahawks can be used to take out enemies quickly and quietly. If stealth isn't a priority, throw a Fire Bottle or some Dynamite in their general direction.
+
+0x3B1C4F05 = To mount any horse, stand close by and press ~INPUT_CONTEXT_Y~. Tap ~INPUT_HORSE_SPRINT~ to speed up and hold ~INPUT_HORSE_STOP~ to slow to a halt. To match the speed of another rider, simply ride next to them and hold ~INPUT_HORSE_SPRINT~.
+
+0x07D8FF50 = Block
+
+0x04F96BFC = You can cook and eat many types of game, and sell hunted animals at General Stores and Trapper stores.
+
+0x85CE21DF = Everything you earn will persist after the Club Membership period ends. Visit the Benefits section of the Pause menu for details on Reward and Offer availability.
+
+0x12E86473 = Legendary Bounties
+
+0x35BCAC6E = Once you have activated Photo Mode, choose Orbit Cam to lock into Third Person and stay at the center of attention or use Free Cam to move freely and focus on the world around you.
+
+0xFCDCAC7D = Dead Eye is a special ability that you can use by pressing ~INPUT_SPECIAL_ABILITY~ while aiming a gun or bow. In Dead Eye mode, time passes more slowly and you take less damage, making you more effective in combat.
+
+0x24A3E58F = Similarly, upgrade the cards you already own by unlocking upgrades as you gain XP or by buying them with Gold Bars. Each card has three tiers for you to unlock, greatly enhancing the abilities on offer.
+
+0x5037C000 = Activities
+
+0x9B4267E0 = When waiting for your turn, you can use auto-bet to preset what action you want to take. Hold ~INPUT_MINIGAME_HELP_NEXT~ and select the action you would like to take. You can cancel that action at any time before your turn by holding ~INPUT_MINIGAME_HELP_NEXT~ again. Note that if conditions change so that your preset action is no longer valid, your auto-bet will be canceled automatically. You can set and unset an auto-bet as many times as you like.
+
+0xEFA896AA = Handheld Catalogue
+
+0x3CF0FE2E = Information and tips to help guide you in the world of Red Dead Online
+
+0xB45F9A63 = Side Pots
+
+0xDF80C9BD = To avoid Bounty Hunters, you can pay off your Bounty at your Camp, or at the Post Office at a reduced rate.
+
+0x22E382B3 = Your weapons will be stored on your horse. While mounted or standing close to your horse, you can view your weapons and change your loadout by holding ~INPUT_OPEN_WHEEL_MENU~ and selecting each weapon with ~INPUTGROUP_LOOK~ before releasing ~INPUT_OPEN_WHEEL_MENU~ to equip. Remember, the weapons in your loadout will be the only weapons you'll have on your person when you dismount your horse, so pick the right weapons for the occasion.
+
+0x6D1851C9 = The Outlaw Pass, The Quick Draw Club and The Halloween Pass can be purchased with Gold Bars via the Catalogue, the Club Rewards section found in the Benefits or Progress sections of the Pause menu, or from www.wheelerrawson.com.
+
+0xA8C66107 = When bobber fishing, cast out and keep your bait still to attract fish. The bobber rests on the surface of the water and is connected by fishing line to the hook with a bait attached to it. When a fish firmly bites at the bait, the bobber gets pulled under the water to indicate when you should strike with the Fishing Rod.
+
+0x84AEC912 = Bait
+
+0x9DBB9FC0 = Gunsmith stores can be found in all major towns. Browse the store's Catalogue to buy weapons, ammunition and accessories, or take a look at the store's shelves to see what's for sale.
+
+0x33566420 = At certain Bonding Levels, you can perform more complex maneuvers:~n~- At Bonding Level 2, hold ~INPUT_HORSE_STOP~ and tap ~INPUT_HORSE_JUMP~ when stationary to Rear.~n~- At Bonding Level 3, hold ~INPUT_HORSE_STOP~ and ~INPUT_HORSE_SPRINT~ while moving to Skid Turn or Skid Stop.~n~- At Bonding Level 4, hold ~INPUT_HORSE_COLLECT~ to perform a Piaffe. While doing this, use ~INPUT_HORSE_MOVE_LR~ to Drift left or right while moving.
+
+0x111D09C1 = If you and another player kill each other, you will have the option to start a Feud. Feuds can also take place between Posses and Posse Leaders.
+
+0x6A75AAB8 = If no bet has been made, a player may bet. If a player bets, subsequent players must at least match this amount to remain in the hand.
+
+0x4FDC3B98 = Nominated Series
+
+0x04FA38CB = To pitch your Camp or change its location, use the Camp & Properties section of the Player menu. Your Camp location is marked on the map with a ~BLIP_CAMP~.
+
+0x36112988 = You can buy or craft bait to attract wild animals. Predators and herbivores will respond to different types of bait. Drop bait on the ground, then crouch nearby to hide and stay still while waiting for the animal to arrive. The bait can take a few minutes to begin working.
+
+0xA50B2455 = If you are a member of a Posse, you will play individually but win as a team, so help out your Posse to up your chances of a reward.
+
+0x7D5D57B6 = Sleeping at a camp or bedroom will restore your health and save your game. You can sleep at the gang's current camp or hideout, set up an individual camp in the wilderness, or rent a hotel room.
+
+0xE498AE30 = Challenges
+
+0xF2209530 = Overview
+
+0x12FFD1F3 = There are two types of Posse to choose from; Temporary and Persistent. A Temporary Posse can have up to 4 players and is free to set up, but will disband and be deleted after the Posse Leader leaves the game.
+
+0xFD032D3E = In a Guts game the objective is to complete the most laps in a 20 second time limit. You have unlimited attempts but any mistakes will cost you valuable time.
+
+0xD9CE43A0 = Straight: Five cards in sequence, of different suits.
+
+0xFAD5BAC8 = Create and join Posses via the Player menu by using ~INPUT_PLAYER_MENU~, to play together and share rewards.
+
+0xF6E3A19C = Horses are a major expenditure, and horse upkeep can be expensive. If your horse becomes critically injured and cannot be ridden, it can be healed using a Horse Reviver within 1 minute. Otherwise, you must pay the vet to heal the horse.
+
+0x034412CA = Burnout
+
+0x7496CCFC = To progress your career as a Collector, gain experience by finding Collectibles, taking part in Collector Free Roam Events, and completing Daily Role Challenges. View and track your Daily Role Challenges in the Player menu.
+
+0xB06F9BA0 = Familiarity
+
+0xD5824700 = The dealer adds another card to your hand.
+
+0x512A8890 = When you use the same model of gun over a long period of time, your skill with it increases, which can improve weapon handling, reduce recoil, and speed up actions like reloading.
+
+0x70B16B0C = Camp
+
+0xA18E30AE = Hooked fish will regularly become tired and take a short break from struggling, so use that opportunity to quickly reel in as much fishing line as you can before it resumes struggling.
+
+0xCCEE6188 = To progress your career as a Naturalist, gain experience by collecting and selling samples, studying animals, completing Animal Sighting Missions, taking part in Naturalist Free Roam Events, and completing Daily Role Challenges. View and track your Daily Role Challenges in the Player menu.
+
+0x59939565 = Fighting with Companions
+
+0x9BB383CE = Remedies
+
+0x33130093 = There is a piece of kit in your inventory, the Handheld Catalogue. Access it via the Item Wheel to purchase items on the road, anytime, anywhere. Hold ~INPUT_OPEN_JOURNAL~ to open the Catalogue.
+
+0x4DA32A89 = Your Health, Stamina and Dead Eye Cores drain over time. Refill them with Provisions or Tonics, and make sure you dress appropriately for the climate you're traveling through. Taking a rest at a campfire will also leave you feeling rejuvenated. For more information on the different Cores, visit Player & Horse in the Help section of the Pause menu.
+
+0x116D4D29 = Madam Nazar sells equipment to aid your explorations, from field shovels to Collectible Maps. She also carries a stock of crafting materials and clothing items exclusive to those in Specialist Roles.
+
+0x40381C73 = You can craft or cook items at your Camp. Cook and consume meat to refill your Cores, or craft ammo, tonics, and hunting supplies.
+
+0x565A4712 = Even Money
+
+0x3EA91646 = Moonshine Production
+
+0xC5C9A90C = After being killed you will have the choice to Feud presented to you on your Death screen. If you accept this prompt, a challenge will be sent to the other player who can choose to accept it or ignore it.
+
+0x94452A63 = You may also speak to Maggie in order to decorate and upgrade your Moonshine Shack. From hiring a live band, to upgrading your stills, the changes you make can increase the quality of your moonshine or encourage larger crowds at the bar.
+
+0x404E04A4 = These ranged longarms are designed for precise shooting at distance. Great accuracy, but can be slow and cumbersome. With some long scoped rifles, a single shot can deal serious damage.
+
+0xD3659D16 = Tips every Naturalist should learn for the successful study of local wildlife.
+
+0xC108A54A = If there has been a bet in the current round, a player may call. To call, the player matches the current bet made by his or her opponent(s).
+
+0x1671520B = After successfully completing a mission, you will receive a Gold, Silver or Bronze Medal. To check your Medals or replay any missions, navigate to the Progress section in the Pause menu, then Story. The Chapters panel will show all the story chapters you have completed and the option to replay the mission.
+
+0x6A5751CD = If all players but one fold before reaching the showdown, the final remaining player has stolen the pot and wins all the chips.
+
+0x087181F2 = Your horse will not respond to your whistle if it's too far away, stabled, or dead. It cannot come to you if you are inside a building or a cave.
+
+0x45B2ADAF = In this example, the next player would need to either place a tile with 5 pips on the left, or 1 on the right.
+
+0x151B72AB = Awards
+
+0x5754F7F2 = Owning Multiple Horses
+
+0x32890B87 = All Fives games follow the same rules as All Threes, but players only score points when the edge score is a multiple of five - 5, 10, 15 or 20. At the end of the round, points won are rounded up or down to the nearest 5. Games continue with new rounds until a player reaches the target score of 100.
+
+0x447C777F = Reinforced versions of weapon accessories that provide further upgrades can be purchased from the Trapper store.
+
+0x15315D61 = Using certain weapons will increase your rank in the Sharpshooter and Combat Awards, allowing you to unlock special rewards. Awards completion information can be found in the Progress - Awards section of the Pause menu.
+
+0x058751BD = Naturalist
+
+0x8C9591C4 = You can visit the Benefits section of the Pause menu to view the Offers and Rewards in your wallet. These can be exchanged for discounts and free items. You will also find information on the current Outlaw Pass and what's included in the Wheeler, Rawson & Co. Club membership period.
+
+0x7908C97D = If a split hand has an ace and a ten-value card, it is not considered a blackjack. Doubling down is allowed on split hands.
+
+0x3B7E52C1 = Gain Honor by reviving your Posse Members. Lose it by killing civilians, ignoring those in need of help, or stealing or killing other players' horses.
+
+0x285413E5 = If you kill another player's horse, you will be liable to pay to cover their vet's fee.
+
+0x7CB66E12 = Disguises
+
+0x6F0EE2F1 = Bounty Hunter
+
+0xCC4A5748 = You can quickly open the Pause Map by pressing ~INPUT_MAP~. Place a waypoint with ~INPUT_FRONTEND_ACCEPT~, or add a Marker with ~INPUT_FRONTEND_LS~. Zoom in on a town to see which amenities it offers. Your Camp location is marked on the map with a ~BLIP_CAMP~.
+
+0x41ACB500 = If your horse is injured in combat or from a fall, you can use Horse Remedies to restore it to health.
+
+0xAD1D0EFA = For gun weapons, High Velocity cartridges increase range and penetration through enemies. Split Point cartridges improve accuracy and reduce Dead Eye drain. For extra damage, purchase Express cartridges or craft special Explosive ammunition.
+
+0xF8CC0570 = Gold
+
+0x2FDBA93F = Choose your Camp's location, a Posse name, the style of decor and even the style of clothes your members wear.
+
+0x1AD7B254 = Royal Flush: An ace, king, queen, jack and 10, all of the same suit.
+
+0xFB9488E5 = Double tiles are always placed at right angles to the other tiles. In All Threes or All Fives, the first double tile played is called a 'spinner'. Once tiles have been played off both sides of a spinner, the line of play can then branch out in four directions by playing tiles off each end of a spinner.
+
+0x4C95E555 = You can earn special weapons, equipment and upgrades by completing various challenges.~n~There are nine categories:~n~- Bandit ~n~- Explorer ~n~- Gambler ~n~- Herbalist ~n~- Horseman ~n~- Master Hunter ~n~- Sharpshooter ~n~- Survivalist ~n~- Weapons Expert
+
+0xD0031C36 = Enemy Vision Cones
+
+0x54774769 = The aim of blackjack is to beat the dealer by having the total value of your hand of cards be closer to 21 than theirs without it going over ('busting').
+
+0x77B06D43 = When taking on enemy gangs or the law, it can be invaluable to have your fellow gang members by your side.
+
+0x5F76441A = Get Around
+
+0x34A880D2 = Three community cards are then dealt, known as the flop. Another betting round takes place, with players using the new community cards to better understand how strong their hand is. Again the betting round continues until all players who remain have bet the same amount, or are all-in.
+
+0xE43B5B6A = Camera
+
+0x03F6FE07 = Posse and Posse Leader feuds.
+
+0x9E2FC633 = Robberies
+
+0x7ADDC708 = ~INPUT_OPEN_WHEEL_MENU~ - hold to display bait wheel~n~~INPUT_MINIGAME_FISHING_QUICK_EQUIP~ - press to quick equip bait~n~~INPUT_AIM~ - hold to grip rod~n~~INPUT_ATTACK~ - hold then release to cast out~n~~INPUT_MINIGAME_FISHING_HOOK~ - press to hook a fish / tap to flick bait~n~~INPUTGROUP_MOVE~ - move rod~n~~INPUTGROUP_LOOK~ - rotate clockwise to reel in~n~~INPUT_MINIGAME_FISHING_RESET_CAST~ - reset cast / cut line
+
+0xEEF03DE1 = Satchel
+
+0x6402E34C = Five Finger Fillet is a test of courage and coordination. To play this game you place one hand, outstretched, palm down, on a table and then stab a knife back and forth between the fingers, aiming to move quickly and avoid stabbing your hand.
+
+0x6CC34A0D = Your Lasso can be used to capture medium and large animals and ensure a clean kill with your knife. To lasso an animal, have your Lasso equipped. Aim with ~INPUT_AIM~ and throw your Lasso with ~INPUT_ATTACK~. While caught, approach the animal until you are prompted to use your knife. Using your knife will not affect the quality of the pelt.
+
+0x7BA1272E = Gus Macmillan
+
+0xB5893F92 = Tip
+
+0xDA9C5A25 = Equip your Fishing Rod from the Item Wheel then select a bait to use. You can find or buy various types of baits and lures to attract different species of fish.
+
+0x5FFA77CE = Once you have sold an animal sample to Harriet, she will stamp the animal's entry in the Animal Field Guide. Stamp every animal in a category and you can trade the completed category for a reward. The category will then be cleared, and you can begin researching each animal again.
+
+0x38E02EC2 = The key features of life as a distinguished Collector of rare treasures.
+
+0x1DD3D7E6 = Good Quality~n~- Gristly Mutton - Filling mutton from Sheep and Goats~n~- Plump Bird - Meat from birds such as Chickens, Geese and Turkeys
+
+0xB921F8BE = You can quickly open the Pause Map by pressing ~INPUT_MAP~. Place a waypoint with ~INPUT_FRONTEND_ACCEPT~, or add a Marker with ~INPUT_FRONTEND_LS~. Zoom in on a town to see which amenities it offers. Your Gang Camp location is marked on the map with a ~BLIP_CAMP~.
+
+0x5E885225 = Try fishing at different locations. You will find different species of fish around the map.
+
+0x6EB99E67 = Photo Mode can be accessed from the Pause menu, or you can change your settings and use the 'Cycle Camera' button for a quick shortcut. Find this option under the Controls section of the Settings menu.
+
+0xE9665CD3 = You can track nearby animals by pressing ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye. Press ~INPUT_SPECIAL_ABILITY_ACTION~ to focus on the track, making it easier to follow.
+
+0x0CA39479 = Dead Eye
+
+0x305ED3AA = Horse Breaking
+
+0x50C4F781 = To start, the two players to the left of the dealer must play chips, called the small blind and the big blind. All new players to the table must contribute an ante equivalent to the big blind on their first hand. If you happen to start in the big blind position, this replaces paying the ante. Starting in the small blind position, you will top up your bet to be equivalent to the big blind. The dealer then deals two hole cards to everyone present, and the first betting round starts.
+
+0xA3A94688 = Posse
+
+0x09AAEDB6 = To become a Bounty Hunter, meet Sheriff Gray ~BLIP_MP_BOUNTY_HUNTER_INTRODUCTION~ and purchase a Bounty Hunter License from him.
+
+0xA066E815 = Alongside cash you can now earn Gold. This Gold can be spent on a number of luxury items, access locked items early, and to purchase unlocked items.
+
+0x8DB7D45F = If you are killed by another player, you will be given the option to begin a Parley on your Death screen. If chosen, the opposing player will be unable to harm you for 10 minutes.
+
+0x6843CC57 = Established Bounty Hunters can also track and capture players who have a substantial bounty on their heads. You will be notified of nearby Player Bounties and can accept the invitation to capture them via the Player menu. If accepted, the player will appear on the map ~BLIP_AMBIENT_BOUNTY_TARGET~, and you'll be free to hunt them down and bring them to justice however you see fit.
+
+0x185DB80C = Defensive Mode
+
+0xDBD06E83 = If a player doesn't want to reveal their cards at the showdown, they can muck. This simply forfeits without revealing the hand. When playing against experienced players, this helps to prevent them from learning your style and being able to predict your decisions.
+
+0x758CA023 = These six-chambered sidearms offer greater damage and accuracy compared to pistols, with the downside of slower reload times and fire rates.
+
+0x469FFE2D = Straight Flush: Five cards in sequence, all of the same suit.
+
+0x271CCCEE = Be on the lookout for some unique versions of weapons. These could be hidden in the world, dropped by certain enemies, or given as a reward for completing activities.
+
+0x2EC740DA = Horses can still be hitched to a post by holding ~INPUT_HITCH_ANIMAL~, though this does not guarantee its safety. You are able to control who has access to your horse in the Stables section of the Player menu. Here you can select if you would like to allow everyone to have access to your Horse or just yourself, your Posse, Crew, or Friends. You can also select if you wish to force a player to dismount your horse.
+
+0x29A3239C = If you choose not to purchase these immediately, Harriet will have them for sale at her store.
+
+0x178CBABD = Use your Radar to help navigate the world. A scaled down version of your Map, the radar shows the roads, landmarks, activities, and people of interest near your current location. You can adjust the size of your radar, or opt to hide it altogether, by holding ~INPUT_SELECT_RADAR_MODE~. You can also change it in the Settings section of the Pause menu.
+
+0x80167765 = Fishing with a bobber uses perishable baits such as bread and worms. Baits are cheap and readily available but are often lost whilst fishing, such as fish sometimes escaping with the bait if you miss a firm bite, so you will often need to rebait your hook.
+
+0x54ED69C3 = Fish activity is affected by weather and time of day. Fish are more active whilst it is raining and during cloudy days, compared to when it's sunny.
+
+0xEF8A89DC = Bet
+
+0x785B9B0C = Brewing Profit
+
+0xD62464D7 = Bow and Arrows
+
+0x80C20A1F = You will see a warning when your horse starts to become hungry or dirty. Hold ~INPUT_OPEN_WHEEL_MENU~ and navigate to the horse item menu to select and use food items or the horse brush.
+
+0x35296D92 = A player's hand rank comes from the strongest five-card hand they can make, using any combination of their hole cards and the community cards. See the Hand Rankings column for a full list of combinations.
+
+0x9C4DB42A = Content about rounds, scoring, and winning.
+
+0x0AF63CE9 = Poker
+
+0x3FF83F5C = If you are part of a Posse, only the Posse Leader's business will produce goods. Your own business will halt production until you have left the Posse.
+
+0x88CD967B = Harriet is always looking for new research and will pay Naturalists who bring her samples of individual animals. To sample an animal, use Sedative Varmint Cartridges to temporarily put it to sleep. Once the animal is unconscious, you are free to safely take a sample.
+
+0xDD19BA22 = Three of a kind: Three cards of the same rank, and two unrelated side cards.
+
+0x50EBC40F = Crime
+
+0x2B81B4A6 = To create a Posse, go to the Player menu and select Posse, Form Posse. Here you can choose the type, set privacy, turn friendly fire on or off, pick your Camp location and enter your Posse name. Then select Form a Posse.
+
+0x1D2B9172 = Gangs that you've encountered will be added to the Compendium. Here you can see a record of your rivalries.
+
+0x251CBA35 = Overview
+
+0x8F18A6AB = Raise
+
+0x0B9D150D = Betting Rounds
+
+0x39DB8917 = Animal Field Guide
+
+0x2DE5A897 = Outfits
+
+0x227CB0DF = In All Threes or All Fives, when a double is counted as part of the edge score, its value is the total pip count - for example, a 5-5 is worth 10.
+
+0xE8AA66DA = You can buy new clothing items at a General Store and can change your hair and beard at a Barber's shop.
+
+0xBDA261BA = Competitive Challenges
+
+0xD502D0DA = Tracking
+
+0x6E6AFEC8 = Butcher Table
+
+0x89B7E907 = Weapons require regular maintenance to keep them in good condition - if not well maintained they will become worn over time, and their accuracy, damage and reload speed can all deteriorate.
+
+0x55D0109A = Certain pelts can be used by trappers to upgrade your clothing and accessories.
+
+0x57F9B100 = Rake
+
+0x6B87B533 = The next time you commit a crime, your state bounty will include all crimes you have previously committed in that state. Lawmen and bounty hunters will attempt to track you down unless you find a telegraph operator at a Post Office ~BLIP_POST_OFFICE~ and pay your debt to society.
+
+0x8D36D12E = To progress your career as a Moonshiner, gain experience by completing Moonshine Story Missions, Bootlegger Missions, and Sell Missions, and completing Daily Role Challenges. View and track your Daily Role Challenges in the Player menu.
+
+0x1B9D765E = You will need to keep the Butcher Table well stocked with both Raw Materials and Supplies. You can order Supplies to your Camp or save yourself some dollars by starting a Resupply Mission.
+
+0xAF8E89AA = When a mission is available for you to start, you'll see a mission blip on your map and radar. The initials marked within the blip will be linked to the person you need to see. Make your way to the place marked and talk to that person to begin the mission.
+
+0x49CBA7E1 = In Red Dead Online there are no Wanted zones or locked down regions. Instead, a red circle will display a Wanted radius that only you can see.
+
+0xBA1126E4 = Gangs
+
+0xA1E3FBB6 = To become a Collector, meet the all-seeing Madam Nazar ~BLIP_MP_TRAVELLING_SALESWOMAN~ and purchase the Collector's Bag. From ancient Arrowheads to valuable Lost Jewelry, this bag will store and track your precious collections.
+
+0xAFD0FAB5 = While traversing the world of Red Dead Online, you will come across Free Roam Events. These are Player Versus Player games that can be played individually or as a Posse.
+
+0x9553445C = You can buy horses at Stables throughout the world. You can break wild horses, or steal owned horses. You can ride these horses temporarily, but you won't be able to saddle or store them.
+
+0x89047814 = Guts
+
+0xA4655B24 = You can see your Dead Eye Core, along with Health and Stamina, displayed near the radar at the bottom left of your screen. Dead Eye bar drains while in use and can be refilled by enemy kills or through the use of Snake Oil.
+
+0x525E65B1 = Capture your journey with Photo Mode. Take, edit and upload photographs to Social Club.
+
+0x2557CDEB = The aim of Poker is to win the pot by having the best cards at the end of the game, or by convincing other players you have the best hand so they drop out.
+
+0x77CCC591 = Series
+
+0xA386D24C = In a Persistent Posse, the Posse Leader can initiate Posse Versus content in Free Roam. These are short games launched from the Player menu that can be played within your Posse or against another. Compete together or against one another. Fight, Race or hunt down rival Posse Leaders.
+
+0xCD676118 = Strangers
+
+0x36AC5E6B = Hunted animal pelts and parts are stored in your Satchel or stowed on your horse. Entire animals can be stowed on your horse. Carry the carcass to the horse and hold ~INPUT_PLACE_CARRIABLE_ONTO_PARENT~ to stow. You can bring carcasses to Pearson and donate them to the gang camp, or take them to a Butcher in town to sell.
+
+0x293DEAEC = Animals and birds are valuable natural resources and can be hunted for their meat, hides, and other useful materials. Animal carcasses can be sold in town or brought back to camp to help the gang.
+
+0x4DCEC134 = If your first two cards have the same value, you will have the option of splitting your hand. This separates your cards into two hands which are played independently. The new hand has a bet value equal to your initial bet - if you don't have enough chips to cover the cost of this additional bet, you will not be allowed to split.
+
+0xA48C136D = All Threes
+
+0x1A29B9D8 = Treasure Maps
+
+0xE35F067A = Vet Bills and Insurance
+
+0xFFC7A278 = Each fish species has a legendary fish which is the largest, most aggressive and, therefore, most difficult to catch of its species. Each legendary fish will be marked on your map when you are close to it.
+
+0x534F6ED6 = While using Dead Eye, you can target multiple enemies. Move the aiming reticle and press ~INPUT_SPECIAL_ABILITY_ACTION~ to mark your targets, then press ~INPUT_ATTACK~ to fire at all targets in the order in which they were placed. Press ~INPUT_SPECIAL_ABILITY~ again to deactivate Dead Eye.
+
+0xD1E13948 = You can also quickly use a mask or bandana, from the Item Wheel, to hide your face. Wearing these items mean witnesses will be unable to positively identify you, and you may be able to talk your way out of suspicion during a lawman's interrogation. You may also need to wear the correct outfit to be allowed to enter certain areas and avoid being recognized.
+
+0x116D1B10 = To manually save, or to access and load your saved games, go to the Story section of the Pause menu. You can also start a new game from here.
+
+0x26F15F5B = Overview
+
+0x34CB18F9 = To progress your career as a Trader, gain experience by selling Goods, taking part in Trader Free Roam Events, and completing Daily Role Challenges. View and track your Daily Role Challenges in the Player menu.
+
+0x43EB48CB = Use Basic Mode to Zoom, rotate the camera and switch between Lenses to suit your shot. Then go into Advanced Mode to perfect your image, changing the Focus Distance, Blur Strength and Exposure. Lastly, use Effects Mode to change the Contrast, choose Filters and set their intensity.
+
+0x6B51FE06 = Additional info
+
+0x2D81E0E0 = Tip
+
+0x159F027D = Weapons Expert
+
+0x6C091627 = A silent and accurate weapon, a bow allows for a stealthy approach to hunting or combat situations. Various kinds of arrows can be crafted and used.
+
+0xB39CA281 = Grooming
+
+0xDFFAA7E3 = You can train, or 'break' wild horses to gain their trust so that you can saddle and ride them.
+
+0x727D9310 = Useful instructions for running an illicit, but highly profitable, distillery.
+
+0xD11F2E62 = As you rank up, you'll receive Tokens that can be used to unlock new skills, activities, equipment, horses and clothing. In particular, Moonshiners can unlock new recipes to prepare for buyers. You can view these in the Progress section of the Pause menu.
+
+0x8AB5B621 = Your actions have consequences and you will find that the missions you select will impact your Honor.
+
+0x1720DAB0 = In some circumstances a player might choose to make lower scoring or non-scoring, but strategic moves. This could serve to block other players, bluff about the tiles they have in hand, or save the most valuable tiles for later when they may be worth more points.
+
+0x0EAA30AA = Different weather conditions call for different outfits; being too hot or too cold for long will cause your Health Core to drain faster. Assemble an outfit at your Camp or at the Tailor, save it and name it. You can change your clothes at your Camp and at the Tailor, or you can swap between outfits when next to your horse.
+
+0x04FDA153 = You can train, or 'break' wild horses to gain their trust so that you can saddle and ride them. Wild horses cannot be saddled or stored in your Stable.
+
+0x822FF8DC = These are hefty firearms that shoot a batch of buckshot, effective at close range and against multiple targets. For a greater impact, switch to Slug ammunition.
+
+0x91D8C611 = Horse Care
+
+0x94E3B57D = Check
+
+0xCB349F05 = Some Role-based items must be unlocked with Tokens before you can purchase them. You'll be rewarded with Tokens as you progress through Specialist Roles.
+
+0x24ED68D8 = You can travel between towns using Stagecoaches or the Railroad. Train tickets can be purchased from the Post Office. Upgrade your Gang Camp tent to acquire a map. You can use this to travel from Camp to any towns you have discovered.
+
+0x6A906763 = In a Burnout game the objective is to complete the most laps in 30 seconds with no mistakes. You only get one attempt.
+
+0x934FC22D = In situations where it's not polite or possible to carry a gun, you can always use your fists.
+
+0x406D9002 = Players will win if their score is closer to 21 than the dealer's score, or if the dealer busts out. Players lose if they bust, or the dealer's score is closer to 21. If a player and the dealer have the same score, then the hand is a 'push' and the player's chips will be returned.
+
+0x750EE42C = Raise the White Flag at your Camp to protect yourself from other players in the vicinity. To raise or lower the flag, stand next to it and hold ~INPUT_CONTEXT_LT~.
+
+0xBE7C07BA = If you have committed serious crimes before you have lost the local constabulary, they will hire a posse to chase after you across the wilderness. Commit enough murders and the local lawmen will call for the big guns - the US Marshals - to hunt you down.
+
+0x11569644 = You can learn the sequence of buttons by watching as your opponent plays. Hold ~INPUT_MINIGAME_FFF_ZOOM~ during their turn to get a good look.
+
+0x80BFD94B = Are you an honorable Gunslinger or a dishonorable Outlaw? Gain Honor and lose it as you interact with the world and those around you.
+
+0xC29485C0 = After entering a Series, you will begin matchmaking in Free Roam. When a match is made, you will be taken straight into the Lobby to wait for the game to begin. Here you can invite players to join you. If a Posse Leader joins a Series, the whole Posse will be brought with them automatically.
+
+0x1260762E = Exposure to extreme heat or cold will negatively affect your ability to regenerate Dead Eye, as well as other attributes.
+
+0xE0072C9E = Lastly, Maggie offers Bootlegger Missions which will help reduce the cost of your moonshine production. From protecting buyers, sabotaging rival moonshiners and brawling in the local bars, she'll always have something to keep you occupied.
+
+0x709CE2C3 = To wield two sidearms at the same time, you need to equip an Off-Hand Holster. Purchase one from the Handheld Catalogue or the Gunsmith. If there's no Gunsmith in town, the General Store will have a full stock of weapon accessories for you to browse. You can use the Wardrobe to equip or unequip an Off-Hand Holster.
+
+0xCC8BC47C = Low Quality~n~- Gamey Bird - Low quality meat from various small birds~n~- Stringy Meat - Meat from vermin and other small animals like rats~n~- Herptile Meat - Meat from reptiles and amphibians~n~- Gritty Fish - Fillet of low quality fish like Bluegill
+
+0xDA5E584E = Health, Stamina and Dead Eye Cores
+
+0x99CAC32E = Hold ~INPUT_HITCH_ANIMAL~ to hitch your horse safely at a hitching post. This means it can't be stolen.
+
+0xF860D916 = Study and Inspect
+
+0xC980F5ED = You can calm a horse by patting it. Once the horse is calm and has been mounted, try to stay on its back, pressing ~INPUT_FRONTEND_ACCEPT~ repeatedly to stop it from bucking you off. The longer you remain on the horse, the easier it will become to control.
+
+0x350E036C = Condition
+
+0xDB2A036B = You can loot corpses by standing near them and holding ~INPUT_CONTEXT_Y~.
+
+0xAF74056E = You can permanently increase the capacity of the Dead Eye bar by gaining experience from completing actions such as hunting and crafting.
+
+0x34C9A81C = There are no lawless regions. The law are cracking down on crime throughout the states, and they will be brutal with their justice. No arrests. No interrogations. In an effort to eradicate those who besmirch the law, they will immediately shoot to kill.
+
+0x9859D6E5 = You will find many different species of animals which live in their own particular habitats around the world. Keep an eye on your Compendium and Map for hints about good hunting grounds.
+
+0xFB4FB74D = You will amass a Bounty as you commit crimes.
+
+0x7B9AD8A8 = Certain plants and herbs picked in the wild can also be fed to your horse.
+
+0xA6B64916 = Double Down
+
+0x87B86916 = Bounties
+
+0x8A0BBF80 = You can also customize weapons at a Gunsmith store. Improve stats by upgrading components, make the weapon stylish with new materials, engravings and carvings, or repair your weapon to perfect condition.
+
+0x65104EFB = Lure fishing is more difficult than bobber fishing due to the need to keep the lure moving, but will attract much larger fish species.
+
+0xADB70575 = Dominoes
+
+0x441E1425 = Hunted animal pelts and parts are stored in your Satchel or stowed on your horse. Entire animals can be stowed on your horse. Carry the carcass to the horse and hold ~INPUT_PLACE_CARRIABLE_ONTO_PARENT~ to stow. You can bring carcasses to the Butcher store in town to sell.
+
+0x4BE9D4CD = Herbs
+
+0xEEEF627E = Press ~INPUT_SPECIAL_ABILITY~ to use Eagle Eye to focus your vision and locate the chest.
+
+0x6CD7F445 = Your Abilities can be found in the Abilities section of the Pause menu, or accessed via the Weapon Wheel. To equip an ability, select the slot you wish to fill and view the available Ability Cards.
+
+0x8ABDEA82 = As a round of dominoes goes on, a canny player will be able to guess their opponents' hands by surveying the tiles already played and noting when other players have to draw or pass. This allows for strategic moves to block other players.
+
+0xF4C5431B = While in Free Roam, you will receive invitations from time to time to participate in Competitive Challenges. These are quick challenges that you can take place anywhere in the world. After accepting, a timer will begin counting down and you will be warped to the challenge location. All you have to do is complete the challenge to the best of your ability in the time given.
+
+0x380711E7 = All-In
+
+0x332AB2DE = Overview
+
+0x6ED0749C = Gathering certain animal parts will help you to unlock ranks in the Master Hunter Challenge.
+
+0x26CFDDC1 = Certain Awards allow you to reset your progress in exchange for Gold Nuggets.
+
+0xF2E0F338 = There's no shortage of targets - some easier than others - for you and Dutch's Gang to rob. Look out for banks, shops, homesteads, and camps on your map, and draw your weapon once inside to threaten the occupants. Some shop and home owners will fight back, or involve the law.
+
+0x57C7EF7D = Two pair: Two cards of a matching rank, another two cards of a different matching rank, and one side card.
+
+0x61AE65B6 = If you don't like who you've become, you can always visit Old Man Jones at his Honor Shop.
+
+0xEFD9B508 = Stealing the Pot
+
+0xD1D83385 = If a player can't place any of their tiles on their turn, they must take a new one from the boneyard until they get a playable tile. Once the boneyard is empty, they pass. Play goes on like this until one player wins the round by downing their last tile.
+
+0xA3277C02 = During a betting round players take turns, with play moving clockwise around the table. On a player's turn, they must at least match the bet of the previous players in order to stay in, or they can fold to drop out. On a player's turn, there are five possible actions: check, bet, call, raise and fold.
+
+0xC40061B0 = Free Roam Events
+
+0xFA0CB849 = Melee
+
+0x25FC338B = While traversing the five states, you might come across strangers offering a variety of work. There are jobs for the honorable and dishonorable alike, and you'll be rewarded for each completed job with XP and RDO$. You can tackle Free Roam Missions alone or as a Posse. Look out for ~BLIP_MP_GUN_FOR_HIRE~ on your Map and Radar.
+
+0x80A5A86C = Repeaters
+
+0x26111C77 = Individuals who owe money to the gang will be marked on the map with ~BLIP_PROC_LOANSHARK~. Seek out the debtors and recover the money. You can't track debtors while you are being pursued by the law.
+
+0x3ADC65E8 = As you rank up, you'll receive Tokens that can be used to unlock new skills, activities, equipment, horses and clothing. In particular, Traders can upgrade their Delivery Wagons. The larger the wagon, the greater its capacity, earning you more for each delivery. These are available to view in the Progress section of the Pause menu.
+
+0xA15E6E22 = Good Quality~n~- Gristly Mutton - Filling mutton from Sheep and Goats~n~- Flaky Fish - Satisfying fillet from fish of good quality like Perch and Bass~n~- Plump Bird - Meat from birds such as Chickens, Geese and Turkeys~n~- Crustacean - Meat from various shellfish
+
+0x3F02CF7B = If no player can make a move, then the round is blocked and the winner is the player with the lowest pip count on their remaining tiles.
+
+0x7D27B576 = After receiving your first two cards, you have up to four options:
+
+0x2F50206A = You can craft or cook items whilst in the wilderness by selecting Camp in the Item Wheel. This allows you to cook Meat and craft Ammo, Tonics, and Hunting supplies. You can find Pamphlets in the wilderness to learn new crafting recipes.
+
+0x347DF9A0 = Weapons are not kept in the Satchel. See the Combat section for more information.
+
+0x37E51E71 = Look out for other signs of animal life in the wilderness too, such as footprints, scat, or remains of eaten prey.
+
+0x55C68A18 = You can flick your Fishing Rod to help attract fish if you are not getting any bites, but doing so too often will spook them.
+
+0x63C37FCF = Getting Started
+
+0x8670612D = You can threaten the witness by pressing ~INPUT_INTERACT_LOCKON~+~INPUT_INTERACT_LOCKON_ROB~ to try to frighten them into silence. Bear in mind that not all witnesses respond well to threats.
+
+0xD4908127 = As a solo traveler, set up your Player Camp to give yourself somewhere to rest in Free Roam. Or head to your Posse Camp to share a communal space with other members. Use your Camp to access your Wardrobe, craft weapons and tonics, rest up and even fast travel, if you have upgraded. The Camp can be found under Crafting in the Item Wheel, or via the Player menu.
+
+0x31874C5B = Legendary fish are picky eaters and are only attracted to special lures. Equip the special lure suitable for its habitat. Try to catch them all, if you can!
+
+0x58BCD9EE = Using Chewing Tobacco will make Dead Eye drain slower than usual.
+
+0x269EC2DA = Hunting animals in certain ways and gathering animal parts will increase your rank in the Hunter Awards. Awards completion information can be found in the Progress - Awards section of the Pause menu.
+
+0x655D52F0 = Items you can craft include meals, ammo, health cures and remedies for yourself and your horse, lures for fishing, and improved weapons and equipment.
+
+0x56A05D76 = To clean a horse that is getting dirty, you can use your Horse Brush, or pay to have it cleaned at a stable. You can also apply Horse Ointment for a temporary boost.
+
+0x16020587 = Lasso
+
+0x6C103733 = Capitale is a system of exchange used by the wealthiest and most civilized members of Saint Denis's criminal underworld. Designed to keep their business dealings safe from the meddling interference that comes with the federal dollar, it relies on exclusivity and ruthless enforcement. Unfortunately for them, there is no honor among thieves: bills of Capitale are being stolen, traded and hoarded by every outlaw and reprobate across the five states.
+
+0xD3F47D92 = Your Health Core will drain quickly if you are exposed to conditions such as extreme temperature, or are poisoned by a snake bite. Your Stamina Core will affect the speed at which you run, and the energy you have to swim, carry corpses and carcasses, or mantle obstacles. More information about these conditions can be found in the Player section of the Pause menu.
+
+0xC7B02846 = Loansharking is an important source of ready money for Dutch's Gang, and encouraging reluctant debtors to pay up is Arthur's specialty. Find Herr Strauss in the gang's camp to take on new loansharking jobs.
+
+0x386C15D3 = Five Finger Fillet
+
+0x53CD3D21 = Feeding
+
+0x2ECA3CA8 = Horse
+
+0x58ED5FDD = There are four levels of Bonding. As Bonding increases:~n~- Your horse's Health and Stamina will increase.~n~- Your horse will be able to locate you faster.~n~- Your horse will cross deeper water and navigate more challenging ground.~n~- Your horse will become more difficult to steal.
+
+0xDDD66E47 = Hold ~INPUT_OPEN_JOURNAL~ to open your Handheld Catalogue and order equipment and provisions. Weapons will be sent to your saddle, clothes to your Wardrobe, horses and tack to the Stable, and ammunition and provisions to the Post Office or your Camp Lockbox.
+
+0x2E2C62F9 = Once he has everything he needs, Cripps will spend time turning Raw Materials into Goods. You can choose to sell your goods at any time, making a Local Delivery or a Distant Delivery. Local Deliveries are lower risk, whereas Distant Deliveries will leave you open to attack from rival Traders. However, if you choose to make a Distant Delivery you'll be paid more for your trouble.
+
+0xD544C3FB = Eagle Eye is a valuable tool for hunting and tracking. To activate Eagle Eye, press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ and look for the tracks left by animals and enemies.
+
+0x53CEDE29 = You can track nearby animals by selecting ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye. Press ~INPUT_SPECIAL_ABILITY_ACTION~ to focus on the track, making it easier to follow.
+
+0xD196AB28 = Loansharking
+
+0xF264EEE3 = If a civilian spots you committing a crime, they will try to tell law enforcement. When an eyewitness reaches a law officer, law enforcement officers will come after you.
+
+0x472B8AC5 = Treats, such as Sugar Cubes, Peppermints, Common Bulrush, and English Mace will increase bonding a medium amount but will give almost no nutritional value.
+
+0x95EBD65E = There are many different categories of weapons that you can find, buy or steal.
+
+0x07BEE891 = Madam Nazar
+
+0xABBA2FD8 = Whistling
+
