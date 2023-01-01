@@ -23,7 +23,7 @@ pg.press('enter')
 pg.moveTo(850, 728, 0.5)
 pg.click()
 sleep(3)
-pg.moveTo(1459, 184, 0.5)# full window
+pg.moveTo(1459, 184, 0.5)
 pg.click()
 sleep(1)
 
