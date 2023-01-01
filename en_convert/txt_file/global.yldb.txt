@@ -1218,7 +1218,7 @@
 
 0x256B2861 = Bridge in Bluewater Marsh north of Saint Denis. Look for a wagon coming south, should be carrying a load of moonshine bottles in the back. Drive careful with it. X
 
-0x3D9F4098 = General Store
+0x3D9F4098 = Магазин
 
 0xEBE7EEE2 = Become dishonorable or visit Old Man Jones ~1b~ in order to unlock further missions.
 
@@ -1858,7 +1858,7 @@
 
 0xEDEDF272 = Get 50% RDO$ off select Horse Care crafting Pamphlets.
 
-0x6E2872AD = Horseshoe Overlook
+0x6E2872AD = Нагір'я Підкова
 
 0x251B29A1 = Embossed Gunslinger Holster
 
@@ -1990,7 +1990,7 @@
 
 0xE616EAE5 = The Tilliston
 
-0x6AE56FB4 = Missions
+0x6AE56FB4 = Завдання
 
 0x452149F5 = Six of Pentacles Tarot Card
 
@@ -3400,7 +3400,7 @@
 
 0x2C503495 = An intricate link bracelet with natural pearls and gold filigree.
 
-0x65D66E1B = Horseshoe Overlook
+0x65D66E1B = Нагір'я Підкова
 
 0x2EBF3706 = A letter addressed to Tacitus Kilgore.
 
@@ -3742,7 +3742,7 @@
 
 0xE98DF29B = Зміна ракурсу
 
-0x43F54D05 = Leopold Strauss' vehicle became inoperable.
+0x43F54D05 = Віз Леопольда Штрауса зламаний.
 
 0x54C45DD5 = Famous Gunslingers Card 3
 
@@ -4636,7 +4636,7 @@
 
 0x257730B6 = Famous Gunslingers & Outlaws.~n~An illustration of Billy Midnight.
 
-0x6E1C795F = Five Finger Fillet
+0x6E1C795F = Гра «П'ять пальців»
 
 0x727C7DC0 = Get 30% RDO$ off the Improved Bow.
 
@@ -6428,8 +6428,7 @@
 
 0x4098504C = Legendary Animals: Red & Blond
 
-0xD1AEE165 = Horseshoe Overlook, Heartlands
-
+0xD1AEE165 = Нагір'я Підкова, Внутрішні землі
 0x56906647 = Worn Ropers Boots
 
 0x948EA446 = This moose has been seen in the north of Roanoke Ridge, grazing around the Kamassa River. It is known for its unique dark coat.
@@ -8290,7 +8289,7 @@
 
 0x5A476EC3 = Clymene Пальто
 
-0xF51D099C = Horseshoe Overlook
+0xF51D099C = Нагір'я Підкова
 
 0x1E7F32FF = Wanted Fugitive
 
@@ -8344,7 +8343,7 @@
 
 0x87F99CA5 = Family Daguerrotype
 
-0x75D38A80 = Butcher
+0x75D38A80 = М'ясник
 
 0xDD08F1B8 = inspired by the tradesmen conducting business in the logging and trapping concerns of Big Valley, this collection combines style and functionality. The maroon rambler jacket is accented by a smart opulent vest and pinstriped saddle work pants, completed with hand tooled deluxe quickdraw boots.~n~
 
@@ -10076,7 +10075,7 @@
 
 0x8812A114 = A Romance Of Olde England, by Mrs. Hescott Childers.
 
-0xD759F05C = Missions
+0xD759F05C = Завдання
 
 0x1F76387A = Tasseled Coupar Boots
 
@@ -11116,9 +11115,9 @@
 
 0xB8BDD470 = Legendary Ozula Elk Pelt
 
-0x06BF2274 = Horseshoe Overlook
+0x06BF2274 = Нагір'я Підкова
 
-0x7855940C = Robin
+0x7855940C = Дрізд
 
 0xCB76E72E = Thorburn Holster
 
@@ -11362,7 +11361,7 @@
 
 0xB77ED3C3 = Owanjila Капелюх
 
-0x0D2C2976 = Leopold Strauss has died.
+0x0D2C2976 = Леопольд Штраус помер.
 
 0xE8E4052E = Moonshine sold with 3 mins left
 
@@ -11428,7 +11427,7 @@
 
 0x6E538AD2 = A pamphlet recipe on how to craft Special Horse Stimulant.
 
-0x9CBBB93B = Butcher
+0x9CBBB93B = М'ясник
 
 0x72278EA9 = DINO BONES
 
@@ -11588,7 +11587,7 @@
 
 0xDF15FBEF = Sluggish
 
-0x0FE92CC6 = Butcher
+0x0FE92CC6 = М'ясник
 
 0xB07FCD5D = Suspenders
 
@@ -11648,7 +11647,7 @@
 
 0x0D432A47 = Folded String Tie
 
-0x427C5F80 = Black Belle
+0x427C5F80 = Чорна Бель
 
 0xFB1A181E = The Florida Cracker Cow can be found at ranches and homesteads across the states. As herbivores, their diet consists of grains, hay and grasses. The large size of these mammals can mean that it takes longer to kill them when hunting. A long scope rifle, or a Bow with Improved Arrows, are considered to be the best weapons to use whilst hunting. Their hide can be sold to traders, and their prime beef is a good source of food.
 
@@ -12320,9 +12319,9 @@
 
 0x514D700D = Photo Studio
 
-0xDDE6FCA8 = Missions
+0xDDE6FCA8 = Завдання
 
-0xD05AEF20 = Arthur
+0xD05AEF20 = Артур
 
 0xE51403DA = Gerden Spurs
 
@@ -12626,7 +12625,7 @@
 
 0x8D9DAD1A = Lift Horse
 
-0xFA911A14 = Barber
+0xFA911A14 = Цирульник
 
 0x9EEFBE74 = Your collection of old and ancient Arrowheads. Once used in hunting and in combat, these arrowheads have been lost in the wilderness for centuries.
 
@@ -13156,7 +13155,7 @@
 
 0x461A6702 = Dufort Jacket
 
-0x4F697052 = Black Belle
+0x4F697052 = Чорна Бель
 
 0xB245D32E = None
 
@@ -13596,7 +13595,7 @@
 
 0xE8480A26 = Dress Tie
 
-0x7DBB9F9A = All
+0x7DBB9F9A = Все
 
 0x631C84FC = Moonshine
 
@@ -14058,7 +14057,7 @@
 
 0x8C55AF4E = Recipe
 
-0xF9A61C9E = Dutch van der Linde
+0xF9A61C9E = Датч ван дер Лінде
 
 0x9CEABFE4 = Dunster Boots
 
@@ -15840,7 +15839,7 @@
 
 0x3B356267 = Sheep's Wool Jacket
 
-0x48486F7A = Missions
+0x48486F7A = Завдання
 
 0x54547B87 = You can use or inspect items from your Satchel by selecting them with ~INPUT_QUICK_SELECT_INSPECT~
 
@@ -15908,7 +15907,7 @@
 
 0x8AE3B23A = Breton
 
-0xAFB8D711 = Додати точку
+0xAFB8D711 = Додати мітку
 
 0x225049AA = Range Gloves
 
@@ -16210,7 +16209,7 @@
 
 0x75069D12 = Kelley Boots
 
-0x18364046 = Black Belle
+0x18364046 = Чорна Бель
 
 0x65768D87 = Basic Grain
 
@@ -18116,7 +18115,7 @@
 
 0x640290A1 = Soldier
 
-0x10C63D65 = All
+0x10C63D65 = Все
 
 0x4F087BA9 = Wild
 
@@ -18998,7 +18997,7 @@
 
 0x2AD55978 = Gathered Bandana
 
-0x850BB3AE = All
+0x850BB3AE = Все
 
 0xE81316B6 = The Ranch Hand
 
@@ -19428,7 +19427,7 @@
 
 0x0F733F12 = Whispering gibberish to clouds will not save you. Science will save you if you let it. Otherwise your skies will be forever gray, the oceans will rise and the women who live in the sea will die.~n~You are a slave~n~This is the grand question, plainly stated so that you can understand. Do you want to be a slave to ignorance? Do not fall for damnable doctrines and the cruel massacres of the elite. Only in this country can a person be proud of not being good at math. Or science.
 
-0xDB300ACE = All
+0xDB300ACE = Все
 
 0xD43503D5 = Mohawk
 
@@ -19534,7 +19533,7 @@
 
 0x5382836D = Select Bounty Hunter Role Items
 
-0xAC6DDC59 = Five Finger Fillet
+0xAC6DDC59 = Гра «П'ять пальців»
 
 0x88ADB89C = Take a stagecoach ride to Emerald Station.
 
@@ -20400,7 +20399,7 @@
 
 0x59658BA0 = TRINKETS
 
-0x32C264FD = Stagecoach
+0x32C264FD = Дилижанс
 
 0x8D33BF6E = Bandito 04
 
@@ -20760,7 +20759,7 @@
 
 0x208453A6 = FROM THE CROMWELL HAT TO THE AUSTIN BOOTS,~n~
 
-0x9CC6CFEA = Butcher
+0x9CC6CFEA = М'ясник
 
 0x8501B827 = Stars of the Stage.~n~An illustration of Robert Elliot Patchen.
 
@@ -23326,7 +23325,7 @@
 
 0xFFB0391E = Weathered Walnut
 
-0xEF6828D6 = Butcher
+0xEF6828D6 = М'ясник
 
 0x495A82CA = A necklace made of fine rose gold featuring a single pearl from the Orient.
 
@@ -23628,7 +23627,7 @@
 
 0xBA4AF482 = Rowberrow Jacket
 
-0xEAD4250B = Hosea Matthews
+0xEAD4250B = Хозія Метьюс
 
 0xB709F142 = Newt Beecher
 
@@ -24012,7 +24011,7 @@
 
 0x2D606885 = Throw
 
-0x58519376 = Barber
+0x58519376 = Цирульник
 
 0x4B18863F = A distinctive leather Off-Hand Holster carefully designed for modern Moonshiners.
 
@@ -24642,7 +24641,7 @@
 
 0x9881D51A = Male
 
-0xF72B33C4 = All
+0xF72B33C4 = Все
 
 0x3DE67A80 = Hats
 
@@ -25504,7 +25503,7 @@
 
 0x325E711E = New Hanover Gazette - The heart of The Heartlands. 1899 Volume 17 No. 28.
 
-0xBD4EFC12 = Locations
+0xBD4EFC12 = Місця
 
 0xBC04FAC8 = Pull lever
 
@@ -27940,7 +27939,7 @@
 
 0x400484A6 = Relax in a Posse Portrait.
 
-0xFCAE414F = All
+0xFCAE414F = Все
 
 0x72DDB782 = Finley Jacket
 
@@ -28590,7 +28589,7 @@
 
 0xB734FD52 = Guard
 
-0xC1420760 = All
+0xC1420760 = Все
 
 0x1F9C65BE = ELSIE ROSE
 
@@ -32006,7 +32005,7 @@
 
 0x3829869D = Fishing Line
 
-0xB7E6065B = Waypoint
+0xB7E6065B = Маршрут
 
 0x41D8904E = WE HAVE ENDEAVORED to gather only goods that can be relied upon dependably and procured them that you might purchase the highest grade quality items. We have taken great pleasure in presenting this line to you, with the knowledge that anglers and hunters demand supplies that reflect the highest quality and greatest improvements in design. Those attracted to hunting and fishing do so as they relish solitude, preferring to spend long periods without any human company and are understandably suspicious of all others intentions and claims.~n~
 
@@ -33206,7 +33205,7 @@
 
 0x81DDD2F6 = Working Gloves
 
-0x7971CA8B = Marker
+0x7971CA8B = Мітка
 
 0x04E85606 = You aggravated Uncle.
 
@@ -34950,7 +34949,7 @@
 
 0xFF5B54E6 = Twohorn Buckle
 
-0x22DB7867 = Black Belle
+0x22DB7867 = Чорна Бель
 
 0x39E48F71 = Objective Complete +~1~
 
@@ -35504,7 +35503,7 @@
 
 0x200976EB = Workshirt
 
-0xDD0433E5 = Doctor
+0xDD0433E5 = Лікар
 
 0xFF5F5640 = ~COLOR_RED~Wanted Dead or Alive~s~
 
@@ -36220,7 +36219,7 @@
 
 0xFE2056C0 = You did not ask for anything, you only gave. How perfect, how rare. I detest selfish asses more than civilisation itself. But what is civilisation really but organised selfishness? I must constrain my most primal and vital desires so you may be comfortable. Pah! No merci! This island paradise is what the civilised world would call primitive, but the people here are the most generous (in ways I may not put into words) I have met.
 
-0x393F91E2 = Waypoint
+0x393F91E2 = Мітка маршруту
 
 0x1DA4764A = No Accessory
 
@@ -36562,7 +36561,7 @@
 
 0xB94312A8 = Wide Grain
 
-0x4DA1A707 = All
+0x4DA1A707 = Все
 
 0x44C39E2C = Cuffed Town Pants
 
@@ -38072,7 +38071,7 @@
 
 0xF25D4F5D = Charro Jacket
 
-0x8D45EA47 = All
+0x8D45EA47 = Все
 
 0x029B5F9E = Wakeeney Капелюх
 
@@ -39914,7 +39913,7 @@
 
 0xA7B30954 = Sedated Animal
 
-0x6187C32B = Butcher
+0x6187C32B = М'ясник
 
 0xA9ED0B91 = Missouri лисиця Trotter
 
@@ -40010,7 +40009,7 @@
 
 0x3CEC9ED6 = The New Hanover Bootleggers
 
-0x252E871A = All
+0x252E871A = Все
 
 0xAA270C12 = Your lasso chokes your enemies, dealing a little damage to them for every second they're lassoed
 
@@ -40676,7 +40675,7 @@
 
 0x675BCB11 = A feather from a hawk. Can be sold for cash.
 
-0x6C18CFCE = Black Belle
+0x6C18CFCE = Чорна Бель
 
 0x5D65C11C = Старий латунний компас
 
@@ -42246,7 +42245,7 @@
 
 0x095470D9 = Norfolk Roadster~n~Speckled Gray Пальто
 
-0x8365EAEC = Barber
+0x8365EAEC = Цирульник
 
 0x4494AC1B = Good Cow Hide
 
@@ -42826,7 +42825,7 @@
 
 0x18348156 = Ruprecht
 
-0x08107133 = All
+0x08107133 = Все
 
 0xADC916ED = Good Collared Peccary Pig Pelt
 
@@ -42846,7 +42845,7 @@
 
 0xEE9D57D1 = Mount Donkey
 
-0xD4C63DFB = Hotel
+0xD4C63DFB = Готель
 
 0xAD7616AB = John's Lodging
 
@@ -44024,7 +44023,7 @@
 
 0xE78453B6 = Crafts one improved tomahawk. Increases damage, range and impact force.
 
-0xA7101342 = Butcher
+0xA7101342 = М'ясник
 
 0x9EB10AE3 = Exit on Vehicle
 
@@ -44498,7 +44497,7 @@
 
 0x3CBFAA0A = Band-tailed Pigeon
 
-0xEBD2591D = Uncle
+0xEBD2591D = Дядечко
 
 0xB87C25C9 = Kamassa Skirt
 
@@ -48540,7 +48539,7 @@
 
 0xDCB953B8 = Marshall Пальто
 
-0x0BDF82E1 = Butcher
+0x0BDF82E1 = М'ясник
 
 0xC3B43AB8 = Perfect Rooster Carcass
 
@@ -50142,7 +50141,7 @@
 
 0xEC416725 = Eagle Scene
 
-0xE4245F0A = All
+0xE4245F0A = Все
 
 0x5E13D8FB = Riggs Fringe Пальто
 
@@ -50174,7 +50173,7 @@
 
 0xE98D6483 = Blackwater Ledger - The voice of West Elizabeth and beyond. 1907 Volume CVI No. 72.
 
-0xFA7D7575 = Butcher
+0xFA7D7575 = М'ясник
 
 0xE3EC5EE4 = Splintered Arrowhead
 
@@ -52782,7 +52781,7 @@
 
 0x7984FB05 = Barbarella
 
-0xE10C628D = All
+0xE10C628D = Все
 
 0x67FDE980 = Fletcher Saddle
 
@@ -53034,7 +53033,7 @@
 
 0xF8957ACF = Patchwork jacket crafted from an eclectic mix of quality material, roughly stitched for an effortlessly casual result.
 
-0xEB866DC0 = Stagecoach
+0xEB866DC0 = Дилижанс
 
 0xF0177257 = Espinal Double Bandolier
 
@@ -53314,7 +53313,7 @@
 
 0x6D1EEFF0 = Brindille Shoes
 
-0x863B090E = Javier Escuella
+0x863B090E = Хав'єр Ескюела
 
 0xC7FC4AD0 = Andalusian
 
@@ -53408,7 +53407,7 @@
 
 0x99421C60 = Charro Jacket
 
-0x61E1E500 = All
+0x61E1E500 = Все
 
 0x7855FB76 = You have killed a Legendary Animal. Sell the pelt to the Trapper ~BLIP_SHOP_ANIMAL_TRAPPER~ who can then craft it in to a unique outfit.
 
@@ -57168,7 +57167,7 @@
 
 0xF2957E7B = "YUKON" NIKOLI BORODIN, 50, HE IS A RUSSIAN TRAPPER AND HUNTER HAVING SPENT TIME IN ALASKA TERRITORY WHERE HE HAS MULTIPLE WARRANTS. LAST SEEN NEAR FT. RIGGS.~n~SOUGHT FOR THE KNOWN MURDER OF SEVERAL MEN.~n~SUSPECTED IN THE DISAPPEARANCE OF A BRAVE U.S. MARSHAL SENT TO APPREHEND HIM. ~n~HIGHLY TERRITORIAL AND DANGEROUS. BELIEVED TO KEEP A GRIZZLY CAPTIVE.
 
-0x92271E0D = Arthur's Horse
+0x92271E0D = Кінь Артура
 
 0x00518C38 = Cardenas Poncho
 
@@ -57654,7 +57653,7 @@
 
 0xB0663D67 = Wakeeney Капелюх
 
-0x4315D017 = Mission
+0x4315D017 = Завдання
 
 0x4F55DC5C = Letter to Professor Schliffen
 
@@ -58212,7 +58211,7 @@
 
 0x1780A604 = The Stew Pot provides nourishing meals for you and your Posse.
 
-0x2969B7EE = Missions
+0x2969B7EE = Завдання
 
 0xCB955A19 = Claim this Reward at the Wilderness Outfitters.
 
@@ -58606,7 +58605,7 @@
 
 0xCD2B5C80 = Regular
 
-0xD70C6661 = Butcher
+0xD70C6661 = М'ясник
 
 0xC5A854FF = Can be found in the wetlands of Lemoyne. Yields a skin, teeth and big game meat. Used in crafting. Use a long scope rifle for a clean kill.
 
@@ -60386,7 +60385,7 @@
 
 0xD19F6576 = Green Iguana
 
-0x3C2ED007 = Butcher
+0x3C2ED007 = М'ясник
 
 0xA9723D4B = Common Flat Cap
 
@@ -62120,9 +62119,9 @@
 
 0xA8954090 = Gerden Spurs
 
-0xBDFC55FB = Barber
+0xBDFC55FB = Цирульник
 
-0xA7683F68 = Fish
+0xA7683F68 = Риба
 
 0xC6675E6C = A collection of items from Guarma.
 
@@ -63376,9 +63375,9 @@
 
 0x6102FC13 = FOR THIS SEASON WE OFFER A GREAT BARGAIN IN LADIES' TAILOR MADE SUITS CUT ON THE VERY LATEST STYLE PATTERNS.~n~
 
-0x7B481658 = Doctor
+0x7B481658 = Лікар
 
-0x7AAD15BF = march
+0x7AAD15BF = березень
 
 0x5FCBFAE0 = Shaffer Chaps
 
@@ -64160,7 +64159,7 @@
 
 0xFB919897 = Неможливо приєднатися. The lobby or mission may be full.
 
-0xE9B986C0 = Doctor
+0xE9B986C0 = Лікар
 
 0x55DCF2E5 = You have challenged someone to a duel. Get into position to begin.
 
@@ -65878,7 +65877,7 @@
 
 0x38F7DA3A = The Barker Gang
 
-0xCF47708B = Butcher
+0xCF47708B = М'ясник
 
 0x0CF0AE35 = Your profile only has permissions for personally created content.
 
@@ -67516,7 +67515,7 @@
 
 0x5526FA7E = Floral Pin
 
-0xEDF3934B = Butcher
+0xEDF3934B = М'ясник
 
 0x8F9634EE = ~3~~fg~~1p~~fo~~s~ fake drew on ~fg~~2p~~fo~~s~
 
@@ -67720,7 +67719,7 @@
 
 0x75731B50 = Game Meat
 
-0x99393F16 = Hosea Matthews
+0x99393F16 = Хозія Метьюс
 
 0x06CBACAB = Message Frequency
 
@@ -67808,13 +67807,13 @@
 
 0xE1E287F1 = Fully restores all Cores and yields Gold Cores for 3 days. Once made, will last for 3 days at camp.
 
-0x29F0D001 = All
+0x29F0D001 = Все
 
 0x2BDAD1F0 = Прицілитись
 
 0x1F90C5A7 = Local tender pork from the best butcher in town.
 
-0x2462CA7A = General Store
+0x2462CA7A = Магазин
 
 0x2F40D559 = Get 50% RDO$ off select Weapons.
 
@@ -68114,7 +68113,7 @@
 
 0xF4F79BC6 = The shopkeeper will not serve you until you lose your wanted level.
 
-0x450FEBDF = Leopold Strauss was abandoned.
+0x450FEBDF = Ви залишили Леопольда Штрауса.
 
 0x993A4009 = Grip
 
@@ -69084,7 +69083,7 @@
 
 0xA5CC4EFB = Civilian
 
-0x27C1D0F2 = Butcher
+0x27C1D0F2 = М'ясник
 
 0x1965C297 = Mission Only
 
@@ -69506,7 +69505,7 @@
 
 0x44A6EED7 = Remove Boot Talisman
 
-0xAEBA58EB = Stagecoach
+0xAEBA58EB = Дилижанс
 
 0x2A24D456 = Decisive
 
@@ -70346,7 +70345,7 @@
 
 0x3C63E8AA = *THE OUTLAW PASS NO. 2*~n~
 
-0x8ED43B1A = All
+0x8ED43B1A = Все
 
 0x059BB1E6 = Gaiters
 
@@ -71258,7 +71257,7 @@
 
 0x362EE4AF = Seasoned Moonshiner Buckle
 
-0x7D1A2B9B = Mission
+0x7D1A2B9B = Завдання
 
 0xD20C808E = Shotgun Пальто
 
@@ -73518,7 +73517,7 @@
 
 0xB2806689 = Complete challenge Master Hunter 7
 
-0x908B4496 = All
+0x908B4496 = Все
 
 0xF15CA56A = Multi-Tone Half Chaps
 
@@ -73814,7 +73813,7 @@
 
 0x2F60E424 = There is someone here you can meet.
 
-0x61E116A5 = All
+0x61E116A5 = Все
 
 0x37AAEC71 = Gator
 
@@ -73902,7 +73901,7 @@
 
 0xC57B7A78 = Strawberry I
 
-0x8BF440F6 = Doctor
+0x8BF440F6 = Лікар
 
 0x49BEFEC1 = Fully complete to reset progress and earn Gold Nuggets
 
@@ -74134,7 +74133,7 @@
 
 0x4E83040B = Dish Basin
 
-0x1C14D19E = Ambient
+0x1C14D19E = Оточення
 
 0x1ED5D45F = Tornado Boots
 
@@ -75494,7 +75493,7 @@
 
 0xC7DA80CB = The body of an Iguana in perfect condition. Can be sold.
 
-0x2CB0E5A4 = Uncle
+0x2CB0E5A4 = Дядечко
 
 0x84113D05 = A court card with a regal seated figure signifying strength and judgment.
 
@@ -77488,7 +77487,7 @@
 
 0x83BD4152 = Spider Orchid
 
-0x77AA3540 = INDEX
+0x77AA3540 = ЛЕГЕНДА
 
 0x493606CD = Greatly restores all Cores. Once made, will last for 3 days at camp.
 
@@ -79038,7 +79037,7 @@
 
 0xF4F3B658 = Gunslinger Holster
 
-0x0C59CDBF = Hotel
+0x0C59CDBF = Готель
 
 0xAEE37049 = Fine Leather Suspenders
 
@@ -80212,7 +80211,7 @@
 
 0x129DD6FD = Crossback Suspenders
 
-0x76523AB2 = Dutch van der Linde~n~DEAD OR ALIVE~n~Reward $1000
+0x76523AB2 = Датч ван дер Лінде~n~ЖИВИМ АБО МЕРТВИМ~n~Нагорода 1000$
 
 0xAB656FC5 = Basement Window
 
@@ -81966,7 +81965,7 @@
 
 0xFCA7C563 = Bibbed Shirt
 
-0x74473D05 = All
+0x74473D05 = Все
 
 0x7C2244E1 = Shirts
 
@@ -83209,7 +83208,7 @@
 
 0xFD02C8C7 = Red Dead Online saved data for Character 3 has been corrupted.
 
-0x70033BCC = Saloon
+0x70033BCC = Салун
 
 0xF4EFC0BA = June 1907~n~~n~From the Office of Жан-Марк Mercier, Mayor of St Denis~n~~n~Dear Mr. Marston,~n~These are troubling times at City Hall with the resignation of Mayor Lemieux, but civic business continues. The new Mayor has asked that you be formally commended for your recent services to the City of St Denis.
 
@@ -83299,7 +83298,7 @@
 
 0xC1158D0E = Buck
 
-0x57F823F2 = General Store
+0x57F823F2 = Магазин
 
 0xDDE7A9E5 = Learn All Recipes
 
@@ -86577,7 +86576,7 @@
 
 0xE246B66F = Are you sure you want to exit the game? ~n~ You will be returned to the main menu and any unsaved progress will be lost.
 
-0x93B667DF = Arthur's Horseshoe
+0x93B667DF = Підкова Артура
 
 0x8011543A = ~COLOR_ENEMY~Bounty Claimed
 
@@ -86877,7 +86876,7 @@
 
 0x46351AFD = Alfredo Montez
 
-0x2080F54A = Doctor
+0x2080F54A = Лікар
 
 0xA69B7B65 = Provisions
 
@@ -86995,7 +86994,7 @@
 
 0x80AE55BC =  I cannot believe now that this was a principle I would die for, and yet it is a principle I have seen so many men I grew up with be slaughtered for, that and their own stupid pride. We Southerners are such proud fools. Now I am only proud about one thing. The love I share with you. You - a Yankee! An abolitionist. Everything I am supposed to hate and now love so dear. How can you love me back when I am such a fool? I cannot wait for this war to end.
 
-0xE716BC25 = Show
+0xE716BC25 = Представлення
 
 0x32E107F0 = La Capilla
 
@@ -87315,7 +87314,7 @@
 
 0x1ABDF098 = An old mining town high up in the western Grizzlies of Ambarino that has been abandoned since the harsh storms of '84.
 
-0x75B54B90 = Five Finger Fillet
+0x75B54B90 = Гра «П'ять пальців»
 
 0x194EEF2B = Rope Holster
 
@@ -87329,7 +87328,7 @@
 
 0x1E32F416 = Tanguma Double Bandolier
 
-0xA8857E6A = Show
+0xA8857E6A = Показати
 
 0x686D3E54 = Once dutiful lawmen and soldiers, these men now exploit the respect due to their uniforms in order to gain the trust and compliance of their victims. These poor souls are not merely kidnapped, but mutilated beyond all recognition, their ruined corpses then fraudulently submitted as bounties.
 
@@ -87547,7 +87546,7 @@
 
 0x8B6F61D9 = The body of a Wolf in good condition displaying minor damage. Can be sold.
 
-0xF2BDC92E = All
+0xF2BDC92E = Все
 
 0x18F7EF69 = Marino Bandolier
 
@@ -89675,7 +89674,7 @@
 
 0x214BFCD5 = Patron
 
-0xA5A2812C = Uncle
+0xA5A2812C = Дядечко
 
 0xEE8DCA1C = Bartley Cap
 
@@ -90773,7 +90772,7 @@
 
 0x60E83F2A = ALICE ROSEWOOD
 
-0xE83BC67F = All
+0xE83BC67F = Все
 
 0x2346018D = THE FEATHERED FLOP HAT SETS JUST THE TONE AND PERFECTLY ACCENTS THE CROCODILE SKIN HUNTER JACKET AND TOWNSEND GLOVES, EVERYDAY OVERSHIRT, FUR COVERED RUTLEDGE VEST, SNUG BANDITO PANTS AND STRICKLAND BOOTS.~n~
 
@@ -91429,7 +91428,7 @@
 
 0x5CFB3CB9 = Ironwood Grip
 
-0x78DF589D = All
+0x78DF589D = Все
 
 0xB4629420 = Rock Bass
 
@@ -91535,7 +91534,7 @@
 
 0xEED9CECC = ~1b~ is unavailable due to the town's residents remembering what you've done recently. Return at a later time.
 
-0xA0908084 = All
+0xA0908084 = Все
 
 0x88D268C7 = Ingredients~n~~n~Wild Mint~n~Vanilla Flower~n~Creek Plum~n~
 
@@ -92649,7 +92648,7 @@
 
 0x3DC32096 = Lawncliff Pants
 
-0xBDCAA09E = Black Belle
+0xBDCAA09E = Чорна Бель
 
 0x38B61B8C = You can access basic crafting, without a fire, by selecting the crafting tools from your Item Wheel.
 
@@ -93041,7 +93040,7 @@
 
 0xFF79E332 = Tempered Steel
 
-0xF7ECDBA5 = All
+0xF7ECDBA5 = Все
 
 0x800D63C7 = Push
 
@@ -93299,7 +93298,7 @@
 
 0x7A475E9F = Savatier Monocle
 
-0x984E7CA9 = Doctor
+0x984E7CA9 = Лікар
 
 0x2A2F0E8A = кинути: ~1~
 
@@ -94627,7 +94626,7 @@
 
 0x1A3601CF = Baldock Капелюх
 
-0x60BE4858 = All
+0x60BE4858 = Все
 
 0xAFE89783 = Tanguma Double Bandolier
 
@@ -95471,7 +95470,7 @@
 
 0x83346D23 = Maid
 
-0x8B0B74FD = All
+0x8B0B74FD = Все
 
 0xF53BDF2E = Geese skinned
 
@@ -95527,7 +95526,7 @@
 
 0xA4E88EF4 = Repeater Buckle
 
-0xFEECE8F9 = All
+0xFEECE8F9 = Все
 
 0x54143E22 = Clymene Пальто
 
@@ -95595,7 +95594,7 @@
 
 0x2608103F = Cannot use this item while manning a turret.
 
-0x7FE16A19 = Leopold Strauss
+0x7FE16A19 = Леопольд Штраус
 
 0x22B40CEE = The Legendary Maza Cougar makes its home near the Sea of Coronado. Its distinctive coat of black and white patches is instantly recognizable. Fast and strong, it is a dangerous predator that prefers the cooler temperatures of dawn alongside calm, clear weather.
 
@@ -96519,7 +96518,7 @@
 
 0x9D7F89D8 = You have acquired the perfect carcass of a Crow. The Taxidermist that lives near Strawberry has been looking for these.
 
-0xFD09E963 = All
+0xFD09E963 = Все
 
 0xD45FC0BC = Legendary Rutile Horn Ram
 
@@ -96985,7 +96984,7 @@
 
 0xCA0DB75F = Dragon's Mouth Orchid
 
-0x866B73BE = Marker
+0x866B73BE = Мітка
 
 0x180A055D = Stride Капелюх
 
@@ -97367,7 +97366,7 @@
 
 0xA99197F3 = ~3~~fg~~1p~~fo~~s~ threw a hissy fit at ~fg~~2p~~fo~~s~
 
-0x1237009A = Stagecoach
+0x1237009A = Дилижанс
 
 0x7CD86B3C = 	For weeks you check, casting eyes of eagerness at the depot clerk, and yet again they say, “maybe next week”. And you shuffle sadly towards home, wondering why a benevolent creator would cast you into an existence of adversity and anguish. For this reason, we suggest spending a little extra for Express Shipping. Regarding insurance: frequently coaches of our goods are robbed, hijacked and ransacked, and the driver ferociously scalped, their abdomen sliced open, his innards splayed and spilling across the dusty sunbaked dirt road. His misfortune should not equate with inconvenience or cost on your part, so insure your packages.
 
@@ -99049,7 +99048,7 @@
 
 0x6CF45F9C = Crossback Detail Suspenders
 
-0xF363E60C = Hotel
+0xF363E60C = Готель
 
 0xCA5EBD08 = Rowberrow Necktie
 
@@ -99093,7 +99092,7 @@
 
 0x58E94BA9 = Select Vests
 
-0xDE7BD13C = All
+0xDE7BD13C = Все
 
 0xE65CD91D = Chelonian
 
@@ -99121,9 +99120,9 @@
 
 0xFF62F237 = Reward for completing A Better World, A New Friend-II.
 
-0x28121AE8 = Remove Marker
+0x28121AE8 = Видалити мітку
 
-0x7A686D3E = Ремесло
+0x7A686D3E = Виготовити
 
 0x811673F1 = DOLORES DENNIS
 
@@ -99677,7 +99676,7 @@
 
 0x69995DB3 = Half Chaps
 
-0xC6DABAF5 = All
+0xC6DABAF5 = Все
 
 0xB22BA646 = One of many lost Tarot Cards from a Minor Arcana deck.
 
@@ -100801,7 +100800,7 @@
 
 0x01A6F87A = Before they can rob the Saint Denis bank, Dutch convinces Arthur that they must kill Bronte. They visit Thomas, a local fisherman, to procure a skiff for the assault on Bronte's mansion.
 
-0x73CD6AA1 = Horseshoe Overlook
+0x73CD6AA1 = Нагір'я Підкова
 
 0x91538828 = The Rattler
 
@@ -103119,9 +103118,9 @@
 
 0x754871DC = Remove foundation.
 
-0x2E802B19 = Doctor
+0x2E802B19 = Лікар
 
-0x21C61E62 = New Austin
+0x21C61E62 = Ню-Остін
 
 0xA0309CCC = It is simple and any woman or child can operate this finely machined weapon. Modelled with the very same steel that builds the rails that connect this land of ours and allowed pioneers to eradicate the source of sustenance for the native people, this firearm is one that will last, lovingly handed down from generation to generation until one of them finishes off the other.
 
@@ -103337,7 +103336,7 @@
 
 0x71196E45 = Slightly restores Health Core and Dead Eye Core.
 
-0x848681B3 = Javier Escuella
+0x848681B3 = Хав'єр Ескюела
 
 0xC35CC08C = View Compendium and Cigarette Cards progress
 
@@ -103707,7 +103706,7 @@
 
 0x6744654B = $100 Reward
 
-0x2CAA2AB1 = Doctor
+0x2CAA2AB1 = Лікар
 
 0x75A673B5 = Неможливо приєднатися. This application requires an update to access network features.
 
@@ -103843,7 +103842,7 @@
 
 0x5A4458B2 = Wash Skirt
 
-0x09960805 = Horseshoe Overlook
+0x09960805 = Нагір'я Підкова
 
 0x248822F8 = Beadnell Sight
 
@@ -104249,7 +104248,7 @@
 
 0x184517B4 = Frayed
 
-0x9D3D9CB2 = Five Finger Fillet
+0x9D3D9CB2 = Гра «П'ять пальців»
 
 0x2AA22A1C = Blued Steel
 
