@@ -1,0 +1,924 @@
+0x2A85C4A1 = ~z~Good luck.
+
+0x8A2BA75C = ~z~Thank you.
+
+0x9B1B0298 = ~z~Appreciate it.
+
+0x234CFE56 = ~z~Thanks.
+
+0xF381EAF7 = ~z~Good.
+
+MGSAD_ACT_AGG_01 = ~z~What's your problem?
+
+MGSAD_ACT_AGG_02 = ~z~Stop being an idiot.
+
+MGSAD_ACT_AGG_03 = ~z~What the hell are you playing at?
+
+MGSAD_ACT_AGG_04 = ~z~You need to calm down.
+
+MGSAD_ACT_AGG_05 = ~z~Okay, that's enough of that.
+
+MGSAD_AGGRESS_01 = ~z~What the hell do you want? Get out of here!
+
+MGSAD_AGGRESS_02 = ~z~~sl:0.0:2.2~You again? Get out of here~sl:~before I blow your damn brains out.
+
+MGSAD_AGGRESS_03 = ~z~~sl:0.0:1.7~Now why the hell would you think~sl:~you're welcome back here?
+
+MGSAD_DRE_GRIZ1_1 = ~z~~sl:0.0:3.5~Alright, I'm actually glad Jake ain't around right now.~sl:0.3~There's some correspondence he's been sitting on,
+
+MGSAD_DRE_GRIZ1_2 = ~z~had it stashed at that old mining camp down the way.
+
+MGSAD_DRE_GRIZ1_3 = ~z~Why? I don't know, security I suppose.
+
+MGSAD_DRE_GRIZ1_4 = ~z~~sl:0.0:1.8~He's always handled the money.~sl:0.1:2.3~I'm better with the farming and hunting.~sl:0.2~But... he's been real stressed recently.
+
+MGSAD_DRE_GRIZ1_5 = ~z~~sl:0.0:3.5~If you could head over there and just deliver it all for him,~sl:0.2~might be one weight off his mind.
+
+MGSAD_DRE_GRIZ1_6 = ~z~I'll pay you, of course.
+
+MGSAD_DRE_GRIZ2_1 = ~z~Good, there's something I could use your help with.
+
+MGSAD_DRE_GRIZ2_2 = ~z~~sl:0.0:2.8~There's some gifts I made for a few folks~sl:~who've helped me out 'round here.
+
+MGSAD_DRE_GRIZ2_3 = ~z~~sl:0.0:2.8~Jake don't know about it, sort of thing makes him think~sl:0.0:1.5~he ain't up to the task.~sl:0.3~Men and their pride...
+
+MGSAD_DRE_GRIZ2_4 = ~z~~sl:0.0:3.7~But he's strong and true, just like my pa was.~sl:0.2~Couldn't tell a lie if he wanted to.
+
+MGSAD_DRE_GRIZ2_5 = ~z~~sl:0.0:3.8~Anyway, I hid them in a bag behind the barn at Colter,~sl:0.1~the old mining camp down the way.
+
+MGSAD_DRE_GRIZ2_6 = ~z~Reckon you could go deliver them for me?
+
+MGSAD_DRE_GRIZ2_7 = ~z~Just... stay safe.
+
+MGSAD_ESCALATE_01 = ~z~That's enough.
+
+MGSAD_ESCALATE_02 = ~z~Cut it out or else.
+
+MGSAD_ESCALATE_03 = ~z~I won't tell you again.
+
+MGSAD_ESCALATE_04 = ~z~You are testing me now.
+
+MGSAD_ESCALATE_05 = ~z~Don't make me kill you.
+
+MGSAD_G1_OUT_1 = ~z~~sl:0.8:2.1~Could use your help with something.~sl:0.6~It's all written down there.
+
+MGSAD_G2_OUT_1 = ~z~~sl:0.2:4.1~Okay, so... Jake wanted help with something.~sl:0.2~Left this note.
+
+MGSAD_G3_OUT_1 = ~z~Here, I wrote down all the details so there's no confusion.
+
+MGSAD_G4_OUT_1 = ~z~Okay, can you help me with this? Should be clear, I hope.
+
+MGSAD_IDLETIME_01 = ~z~If you don't go now, we might as well just scrap the idea.
+
+MGSAD_IDLETIME_02 = ~z~What's the hold-up here? This needs doing now.
+
+MGSAD_IDLETIME_03 = ~z~Look, you're going to need to get a move on with this.
+
+MGSAD_IDLETIME_04 = ~z~Are you going or not? Do I need to find someone else to do this?
+
+MGSAD_IDLETIME_05 = ~z~Go on if you're going. This needs to get done.
+
+MGSAD_INT_1 = ~z~Hey!
+
+MGSAD_INT_2 = ~z~What the hell do you want?
+
+MGSAD_INT_3 = ~z~You come to rob me?
+
+MGSAD_INT_4 = ~z~Or what, or what?
+
+MGSAD_INT_5 = ~z~Help maybe?
+
+MGSAD_INT_6 = ~z~Good.
+
+MGSAD_INT_7 = ~z~Cos well...
+
+MGSAD_INT_8 = ~z~we... we keep getting robbed.
+
+MGSAD_INT_9 = ~z~Whoee it's cold out there.
+
+MGSAD_INT_10 = ~z~Who are you?
+
+MGSAD_INT_11 = ~z~Just here to help.
+
+MGSAD_INT_12 = ~z~What's going on?
+
+MGSAD_INT_13 = ~z~I don't trust drifters.
+
+MGSAD_INT_14 = ~z~Not one of 'em.
+
+MGSAD_INT_15 = ~z~We gotta trust somebody, Sadie.
+
+MGSAD_INT_16 = ~z~Well I better be able to trust you.
+
+MGSAD_INT_17 = ~z~Because I swear...
+
+MGSAD_INT_18 = ~z~if you try to rob us, or steal from us...
+
+MGSAD_INT_19 = ~z~I'll kill you.
+
+MGSAD_INT_20 = ~z~I don't care what he says.
+
+MGSAD_INT_21 = ~z~Quite a woman, my wife.
+
+MGSAD_INT_22 = ~z~So...
+
+MGSAD_INT_23 = ~z~we lost our wagon.
+
+MGSAD_INT_24 = ~z~We think it was stolen.
+
+MGSAD_INT_25 = ~z~And I'm scared to go out looking incase this place gets robbed.
+
+MGSAD_INT_26 = ~z~But I'll pay.
+
+MGSAD_INT_27 = ~z~I'll pay you decent for it.
+
+MGSAD_INT_28 = ~z~It's over near Lake Isabella.
+
+MGSAD_INT_29 = ~z~We really would appreciate the help.
+
+MGSAD_INT_30 = ~z~Sure would.
+
+MGSAD_INT_31 = ~z~Be safe now.
+
+MGSAD_JACCEPT_01 = ~z~I'm relying on you for this.
+
+MGSAD_JACCEPT_02 = ~z~Appreciate it.
+
+MGSAD_JACCEPT_03 = ~z~Please... keep this to yourself.
+
+MGSAD_JACCEPT_04 = ~z~Good luck.
+
+MGSAD_JACCEPT_05 = ~z~I appreciate the help with this.
+
+MGSAD_JACT_AGG_01 = ~z~Hey, cut that out.
+
+MGSAD_JACT_AGG_02 = ~z~What are you doing?
+
+MGSAD_JACT_AGG_03 = ~z~Just... back off.
+
+MGSAD_JACT_AGG_04 = ~z~You need to calm down.
+
+MGSAD_JACT_AGG_05 = ~z~Hey, what the hell?
+
+MGSAD_JAGGRESS_01 = ~z~~sl:0.0:1.1~Now why the hell would you~sl:~think you're welcome back here?
+
+MGSAD_JAGGRESS_02 = ~z~You got some nerve coming back here.
+
+MGSAD_JAGGRESS_03 = ~z~What do you want? Get out of here.
+
+MGSAD_JAIM_01 = ~z~Whoa, whoa, just put that down.
+
+MGSAD_JAIM_02 = ~z~Hey, come on, there's no need for that.
+
+MGSAD_JAIM_03 = ~z~Hey, what do you think you're doing?
+
+MGSAD_JAIM_04 = ~z~Whoa now, just take it easy.
+
+MGSAD_JAIM_05 = ~z~Hey, whoa, what's going on?
+
+MGSAD_JAPPROACH_01 = ~z~Oh, it's you.
+
+MGSAD_JAPPROACH_02 = ~z~You're back.
+
+MGSAD_JAPPROACH_03 = ~z~Wasn't sure we'd see you again.
+
+MGSAD_JAPPROACH_04 = ~z~I was hoping you'd be back.
+
+MGSAD_JAPPROACH_05 = ~z~Good to see you again.
+
+MGSAD_JAPPROACH_06 = ~z~Ah, someone who ain't here to rob us.
+
+MGSAD_JAPPROACH_07 = ~z~Oh, hey there.
+
+MGSAD_JAPPROACH_08 = ~z~Yes, come on in, make yourself at home.
+
+MGSAD_JAPPROACH_09 = ~z~Hey there, you looking to help out?
+
+MGSAD_JAPPROACH_10 = ~z~Hello friend. You looking for work?
+
+MGSAD_JAPR_FRST_01 = ~z~Who the hell are you?
+
+MGSAD_JAPR_FRST_02 = ~z~Do we know you?
+
+MGSAD_JAPR_FRST_03 = ~z~You best have a good reason for being here.
+
+MGSAD_JBOUNTY_01 = ~z~~sl:0.0:1.7~I can't risk getting involved with you~sl:~while you got a price on your head.
+
+MGSAD_JBOUNTY_02 = ~z~~sl:0.0:1.5~Nothing doing right now.~sl:0.3~You think I ain't heard about the price on your head?
+
+MGSAD_JBOUNTY_03 = ~z~~sl:0.0:2.8~Maybe when you've paid off your bounty we can talk.~sl:0.6~That's trouble I don't need.
+
+MGSAD_JB_GENN_1 = ~z~Okay then.
+
+MGSAD_JB_GENY_1 = ~z~Good.
+
+MGSAD_JB_JGEN_1 = ~z~~sl:0.8~I'm up to my eyeballs in shit. I owe so much money on this place...
+
+MGSAD_JB_JGEN_2 = ~z~Good Lord, this whole dream has become a nightmare.
+
+MGSAD_JB_JGEN_3 = ~z~~sl:0.0:1.6~Thank God Sadie has no idea,~sl:0.0:1.8~if she knew quite what we were dealing with...~sl:1.0~the worry'd kill her.
+
+MGSAD_JB_JGEN_4 = ~z~Still... that's my problem, not yours.
+
+MGSAD_JB_JGEN_5 = ~z~My neighbor just wrote me.... sent me this.
+
+MGSAD_JB_JGEN_6 = ~z~~sl:0.0:1.2~They're good people.~sl:0.5~If you can help them, I know they'd appreciate it.
+
+MGSAD_JB_OTH_1 = ~z~~sl:0.0:4.2~Good... there's so much to do out here. It's never ending.~sl:1.3~Ain't quite the quiet life I imagined...
+
+MGSAD_JB_OTH_2 = ~z~Sadie's off... helping down valley. I'll tell her you stopped by.
+
+MGSAD_JB_OTH_3 = ~z~Do you know anything about loan agreements?
+
+MGSAD_JB_OTH_4 = ~z~~sl:0.0:5.2~I sure as shit don't... damn, I-I can't read this horse crap...~sl:0.3:2.4~better off borrowing off one of the sharks,~sl:~at least they make sense.
+
+MGSAD_JB_OTH_5 = ~z~Anyway, where were we? Your business... not mine.
+
+MGSAD_JB_OTH_6 = ~z~~sl:0.0:4.8~Well... one of the folk up near Spider Gorge~sl:~was talking about a huge wolf.
+
+MGSAD_JB_OTH_7 = ~z~~sl:0.0:2.1~I don't know if that's quite your thing, but...~sl:0.9:1.7~the pelts sell for some...~sl:0.5:3.0~and the neighbors are always glad to get rid of the big ones...~sl:0.4~they eat a lot.
+
+MGSAD_JB_OTH_8 = ~z~Why don't you go, take a look?
+
+MGSAD_JB_REC_1 = ~z~Good... 'cause I didn't wanna have to shoot you.
+
+MGSAD_JB_REC_2 = ~z~~sl:0.2:1.8~My neighbor's real worried...~sl:0.0:1.9~her husband's been gone three days.~sl:~Took his wagon, headed out towards town.
+
+MGSAD_JB_REC_3 = ~z~~sl:0.0:2.2~She's worried that the worst has happened.~sl:0.3:2.5~Guy's name is Jeremiah Tollhouse. He's, uh...~sl:~he's a decent feller.
+
+MGSAD_JB_REC_4 = ~z~~sl:0.2:2.5~I hope to high hell he hasn't been killed, but...~sl:0.4:2.3:1~there are some real bad fellers out there.
+
+MGSAD_JB_REC_5 = ~z~~sl:0.0:1.3~You know, why don't you, uh,~sl:~try to track him down and see what's going on?
+
+MGSAD_JB_REC_6 = ~z~~sl:0.2~Well, you be careful out there.
+
+MGSAD_JB_SGENN_1 = ~z~~sl:0.0:1.0:1~Suit yourself.
+
+MGSAD_JB_SGENR_1 = ~z~Oh.
+
+MGSAD_JB_SGEN_1 = ~z~~sl:0.0:0.6~Here...~sl:1.1~I got this. It's all written down... nice and simple.
+
+MGSAD_JB_VIP_1 = ~z~~sl:0.0:2.9~Well, good. Jakie ain't here...~sl:~he's off meeting some idiot business associate or some other...
+
+MGSAD_JB_VIP_2 = ~z~~sl:0.0:2.1~And I just got word our neighbor's in trouble.~sl:~Bears. Some big nasty ones roaming out near Colter.
+
+MGSAD_JB_VIP_3 = ~z~~sl:0.0:2.4~Our neighbor asked me to check on the homesteaders, but...~sl:~I can't leave here.
+
+MGSAD_JB_VIP_4 = ~z~~sl:0.0:2.1:1~I really would appreciate the help.
+
+MGSAD_JCLDOWN_01 = ~z~~sl:0.0:1.9~Listen... I'm desperate.~sl:0.5~But I ain't that desperate yet.
+
+MGSAD_JCLDOWN_02 = ~z~I still ain't sure I'm ready to deal with you again.
+
+MGSAD_JCLDOWN_03 = ~z~~sl:0.2~You again? You still ain't welcome here.
+
+MGSAD_JDR_GRZ1_1 = ~z~~sl:0.0:2.0~Sadie's out checking the traps again...~sl:1.0:1.7~I don't know where she finds~sl:~the energy, half the time.
+
+MGSAD_JDR_GRZ1_2 = ~z~~sl:0.1:4.1~Yeah... my Sadie... First met her working a ranch~sl:~out west in '95... after her pa died.
+
+MGSAD_JDR_GRZ1_3 = ~z~~sl:0.0:1.8~Best hand there by a league, she was.~sl:0.7~We married the next year and bought this place.
+
+MGSAD_JDR_GRZ1_4 = ~z~~sl:0.0:2.0~She had some money from her pa and, well...~sl:0.6~my share weren't quite as big as I let on.
+
+MGSAD_JDR_GRZ1_5 = ~z~~sl:0.0:1.7~Figured we'd make it back soon enough,~sl:0.0:1.5~but the conditions up here, well...~sl:0.8~like hell frozen over.
+
+MGSAD_JDR_GRZ1_6 = ~z~~sl:1.4:0.8~Anyway...~sl:1.0:3.0~there's some deliveries I said I'd make and I, uh...~sl:1.0~well, I just ain't got around to it.
+
+MGSAD_JDR_GRZ1_7 = ~z~~sl:0.0:1.7~I got them stashed down at Colter...~sl:1.0:2.5~if you could drop 'em off for me,~sl:0.2~I'd feel a lot less guilty about... putting it off.
+
+MGSAD_JDR_GRZ1_8 = ~z~I'll pay you what I can, of course.
+
+MGSAD_JDR_GRZ2_1 = ~z~~sl:0.0:3.5~Glad you come through. Not enough hours in the day.~sl:0.0:3.0~You, uh... you caught me, er...~sl:0.2~taking a quick break here.
+
+MGSAD_JDR_GRZ2_2 = ~z~~sl:0.0:1.7~Sadie loves this place so much...~sl:0.4~don't matter how tough it gets.
+
+MGSAD_JDR_GRZ2_3 = ~z~~sl:0.0:1.7~Even when we're eating boiled roots~sl:~for the fifth day straight,
+
+MGSAD_JDR_GRZ2_4 = ~z~~sl:0.0:1.4~she'll smile and say,~sl:0.3:2.1~"We got all we need right here, Jake."~sl:1.4~It's all she's got left... me, this farm.
+
+MGSAD_JDR_GRZ2_5 = ~z~~sl:0.0:2.8~No other family to speak of, since her pa passed.~sl:0.2:2.3~I don't know what she'd do if we lost this place, but...~sl:0.9~can't give up just yet. So...
+
+MGSAD_JDR_GRZ2_6 = ~z~~sl:0.0:2.0~There's a few drop-offs I need to make.~sl:1.6:1.4~Payments and such...~sl:1.0:2.9~mostly robbing Peter to pay Paul, but...~sl:0.6~I got no choice right now.
+
+MGSAD_JDR_GRZ2_7 = ~z~~sl:0.0:2.0~They're bagged up at Colter, ready to go...~sl:1.0~could you deliver 'em for me?
+
+MGSAD_JDR_GRZ2_8 = ~z~I'd rather Sadie, uh... not know about it.
+
+MGSAD_JESCALATE_01 = ~z~That's enough, now.
+
+MGSAD_JESCALATE_02 = ~z~I ain't taking no more of this.
+
+MGSAD_JESCALATE_03 = ~z~Last warning, calm the hell down!
+
+MGSAD_JESCALATE_04 = ~z~Enough, damn it!
+
+MGSAD_JESCALATE_05 = ~z~Will you get a damn hold of yourself?
+
+MGSAD_JFAIL_01 = ~z~No, I was relying on you for this.
+
+MGSAD_JFAIL_02 = ~z~Christ. Can't one thing just go right for me?
+
+MGSAD_JFAIL_03 = ~z~Goddamn it, this is all I need.
+
+MGSAD_JFAIL_LM_01 = ~z~What happened what that last job? I can't afford any more mistakes.
+
+MGSAD_JFAIL_LM_02 = ~z~I don't know if I can trust you after last time... but I don't have a lot of choice.
+
+MGSAD_JFAIL_LM_03 = ~z~You really let me down with that last job.
+
+MGSAD_JFAIL_LM_04 = ~z~So... what happened last time? You left me in a real bind.
+
+MGSAD_JFAIL_LM_05 = ~z~If you're here for more work, I can't have any more mistakes.
+
+MGSAD_JG1_OUT_1 = ~z~~sl:0.0:2.5~Shit, we are in over our heads here.~sl:0.4:2.5~I really thought if we could hunt and trap and...~sl:0.2~raise a few crops and animals, we'd start to make it back.
+
+MGSAD_JG1_OUT_2 = ~z~~sl:0.0:1.2~What an idiot.~sl:0.7~I mean, I know I play the tables sometimes, but even so...
+
+MGSAD_JG1_OUT_3 = ~z~Ah sorry, I know this ain't your concern.
+
+MGSAD_JG1_OUT_4 = ~z~But... you can help me with something here.
+
+MGSAD_JG1_OUT_5 = ~z~~sl:0.0:1.2~I'll find a way to pay you...~sl:0.7~I'd just appreciate it if you didn't mention to Sadie?
+
+MGSAD_JG1_TAKE_1 = ~z~Thank you.
+
+MGSAD_JG2_OUT_1 = ~z~~sl:0.3:2.7~Christ, I just want this winter to end.~sl:0.6~Damn snow's starting to drive me crazy.
+
+MGSAD_JG2_OUT_2 = ~z~~sl:0.0:3.1~Sadie's used to it, she was raised in the mountains, but...~sl:0.5~I ain't sure how much more I can take.
+
+MGSAD_JG2_OUT_3 = ~z~Especially with the debts piling up.
+
+MGSAD_JG2_OUT_4 = ~z~Don't mention any of this to her, though.
+
+MGSAD_JG2_OUT_5 = ~z~I need you to do something... it's written down here.
+
+MGSAD_JG2_OUT_6 = ~z~~sl:0.0:2.3~I ain't proud of any of this...~sl:0.5~but I'm ready to do whatever it takes to save this place.
+
+MGSAD_JG2_TAKE_1 = ~z~Appreciate it.
+
+MGSAD_JG3_OUT_1 = ~z~~sl:0.0:2.4~I am glad you stopped in again.~sl:0.7~I need all the help I can get right now.
+
+MGSAD_JG3_OUT_2 = ~z~~sl:0.6~I don't want to seem like I'm always complaining...
+
+MGSAD_JG3_OUT_3 = ~z~~sl:0.0:2.9~I just wanna get these sharks off my back and move on...~sl:0.3~be able to look Sadie in the eye again.
+
+MGSAD_JG3_OUT_4 = ~z~I don't know why I'm telling you all this.
+
+MGSAD_JG3_OUT_5 = ~z~I just hate lying to her about everything.
+
+MGSAD_JG3_OUT_6 = ~z~~sl:0.0:4.5~It's all written down here. At least it would be...~sl:~one less thing for me to keep worrying about.
+
+MGSAD_JG3_TAKE_1 = ~z~Thanks.
+
+MGSAD_JG4_OUT_1 = ~z~~sl:0.0:3.8~Sadie's out hunting... we're wasting away with no meat,~sl:0.5:2.1~we need to keep the dry goods in case we get~sl:~snowed in again.
+
+MGSAD_JG4_OUT_2 = ~z~~sl:0.7:2.8~There's a reason animals hibernate in the cold...~sl:0.7:3.0~I wish we could just sleep for six months, but...~sl:0.7~we can't.
+
+MGSAD_JG4_OUT_3 = ~z~Anyway, clearly not your concern.
+
+MGSAD_JG4_OUT_4 = ~z~Can you do something for me, though?
+
+MGSAD_JG4_OUT_5 = ~z~~sl:0.0:2.3~I wrote it all down so I wouldn't forget.~sl:0.7:0.9~And of course...~sl:0.5~I'll pay ya what I can for your trouble.
+
+MGSAD_JG4_TAKE_1 = ~z~Good luck.
+
+MGSAD_JH_HIGH_01 = ~z~~sl:0.0:2.1~Listen... I couldn't, in good faith,~sl:~drag you down into my dirty business.
+
+MGSAD_JH_HIGH_02 = ~z~~sl:0.0:1.0~You're a good person...~sl:0.4~I can't ask you to get involved in my mess.
+
+MGSAD_JH_HIGH_03 = ~z~~sl:0.0:4.4~Sorry, I need someone a little more underhand right now.~sl:0.6~Don't tell my wife.
+
+MGSAD_JH_LOW_01 = ~z~~sl:0.0:2.2~You've got quite the reputation.~sl:0.3~That's more trouble I don't need right now.
+
+MGSAD_JH_LOW_02 = ~z~~sl:0.0:1.7~I've heard the way you've been acting...~sl:0.3~I can't be getting mixed up with someone like that.
+
+MGSAD_JH_LOW_03 = ~z~~sl:0.0:4.0~Listen, I know I ain't perfect, but I've heard about you...~sl:0.4~you're a bad person.
+
+MGSAD_JIDLETIME_01 = ~z~Maybe I wasn't clear this needs to be done right now.
+
+MGSAD_JIDLETIME_02 = ~z~Go on now, please, this is urgent.
+
+MGSAD_JIDLETIME_03 = ~z~Look, what are you waiting for? I can't afford for this to slip.
+
+MGSAD_JIDLETIME_04 = ~z~You need to get going, I am already late with this.
+
+MGSAD_JIDLETIME_05 = ~z~~sl:0.0:1.3~Are you going to help with me with this or not?~sl:0.4~I'm running out of time.
+
+MGSAD_JIDLE_01 = ~z~Sooner this gets done, the better.
+
+MGSAD_JIDLE_02 = ~z~I really need this done soon.
+
+MGSAD_JIDLE_03 = ~z~I wouldn't hang around on this.
+
+MGSAD_JIDLE_04 = ~z~Go on then, before Sadie gets back.
+
+MGSAD_JIDLE_05 = ~z~Is there something else you need?
+
+MGSAD_JILO_01 = ~z~You after more work?
+
+MGSAD_JILO_02 = ~z~You looking to make some more money?
+
+MGSAD_JILO_03 = ~z~Assume you're here looking for work?
+
+MGSAD_JILO_04 = ~z~You here for a job?
+
+MGSAD_JILO_05 = ~z~I figured this ain't just a social call?
+
+MGSAD_JLEAVEN_01 = ~z~Well, guess I'll be seeing you then.
+
+MGSAD_JLEAVEN_02 = ~z~Don't let me hold you up.
+
+MGSAD_JLEAVEN_03 = ~z~Make sure you shut the door on your way out.
+
+MGSAD_JLEAVEN_04 = ~z~Well, I'm going to get back to my book.
+
+MGSAD_JLEAVEN_05 = ~z~Sadie'll be back soon, so you should go.
+
+MGSAD_JLEAVE_01 = ~z~That's it, you need to leave.
+
+MGSAD_JLEAVE_02 = ~z~You need to go now!
+
+MGSAD_JLEAVE_03 = ~z~Get the hell out of my house!
+
+MGSAD_JLEAVE_04 = ~z~Okay, it's time for you to leave.
+
+MGSAD_JLEAVE_05 = ~z~Just get the hell out of here!
+
+MGSAD_JLOCKED_01 = ~z~Sorry, can you come back later?
+
+MGSAD_JLOCKED_02 = ~z~Look, this ain't a good time.
+
+MGSAD_JLOCKED_03 = ~z~I can't talk right now. Can you come back later?
+
+MGSAD_JLOCKED_04 = ~z~Sorry, this is a really bad time.
+
+MGSAD_JLOCKED_05 = ~z~~sl:0.1~I can't speak right now, can you come back around later?
+
+MGSAD_JM_CLDWN_01 = ~z~Sorry, don't have nothing else for you just yet.
+
+MGSAD_JM_CLDWN_02 = ~z~~sl:0.0:0.9~Back already?~sl:0.4~I don't have anything else for you right now.
+
+MGSAD_JM_CLDWN_03 = ~z~~sl:0.0:2.1~I don't have any more work like that right now.~sl:0.5~Can you come back?
+
+MGSAD_JM_LOCK_01 = ~z~Listen, I'm still working out a few details. Can you come back in a while?
+
+MGSAD_JM_LOCK_02 = ~z~Sorry, don't have anything to offer you yet.
+
+MGSAD_JM_LOCK_03 = ~z~I'm kind of busy. Might have something for you if you come back around later?
+
+MGSAD_JNOT_GL_01 = ~z~I don't have anything for you right now.
+
+MGSAD_JNOT_GL_02 = ~z~I think I'd better speak to whoever's in charge.
+
+MGSAD_JNOT_GL_03 = ~z~I reckon I best speak to your boss.
+
+MGSAD_JNOT_GL_04 = ~z~Sorry, ain't got nothing suitable for you right now.
+
+MGSAD_JNOT_GL_05 = ~z~Sorry, don't have nothing suitable for someone of your skills.
+
+MGSAD_JNO_AVAIL_01 = ~z~I don't have nothing to offer you right now.
+
+MGSAD_JNO_AVAIL_02 = ~z~Sorry, nothing doing for the time being.
+
+MGSAD_JNO_AVAIL_03 = ~z~Sorry, got no money to pay you right now.
+
+MGSAD_JOTH_COLT_1 = ~z~~sl:0.0:4.0~Good. Now, we are up to our eyes in it here.~sl:1.2:3.3~How we ever thought two people could run this place,~sl:0.1~ I'll never know. But here we are.
+
+MGSAD_JOTH_COLT_2 = ~z~~sl:0.0:2.8~I know, I know. I probably shouldn't be sat here~sl:0.0:2.9~reading, but Sadie's down the valley~sl:~dealing with something or other.
+
+MGSAD_JOTH_COLT_3 = ~z~~sl:0.0:3.8~And I won't be no use to no one if I put my back out.~sl:0.4~Like they say, steady and smart wins the race.
+
+MGSAD_JOTH_COLT_4 = ~z~~sl:0.0:3.6~Speaking of which... she wants me to go hunt a~sl:0.0:2.3~big bear she saw by Cairn Lake...~sl:0.6~big old bastard by all accounts.
+
+MGSAD_JOTH_COLT_5 = ~z~~sl:0.0:2.5~Now, Sadie can shoot the beak off a sparrow~sl:0.0:1.9~with her eyes closed, but I'll be honest...~sl:1.0~I ain't much of a hunter.
+
+MGSAD_JOTH_COLT_6 = ~z~~sl:0.0:3.9~Not big game, anyways. So... I'm thinking maybe~sl:0.0:2.7~it'd make more sense for me to focus my efforts~sl:~elsewhere while you do it?
+
+MGSAD_JOTH_COLT_7 = ~z~That way we'll all be happy.
+
+MGSAD_JPASS_01 = ~z~Oh, that's a big weight off my mind.
+
+MGSAD_JPASS_02 = ~z~You did it. Thank God.
+
+MGSAD_JPASS_03 = ~z~Good work, thank you.
+
+MGSAD_JPASS_LM_01 = ~z~Good work with that last thing.
+
+MGSAD_JPASS_LM_02 = ~z~Well done with the last job.
+
+MGSAD_JPASS_LM_03 = ~z~Well, you certainly didn't let me down with that last job.
+
+MGSAD_JPASS_LM_04 = ~z~~sl:0.0:2.0~Well, I should thank you for helping me out~sl:~with that last thing.
+
+MGSAD_JPASS_LM_05 = ~z~Good work last time.
+
+MGSAD_JPSSE_SML_01 = ~z~~sl:0.0:1.7~I reckon you're going to need~sl:~to round up some more folks first.
+
+MGSAD_JPSSE_SML_02 = ~z~Reckon you're going to need some more hands for this one.
+
+MGSAD_JPSSE_SML_03 = ~z~~sl:0.0:1.2~Sorry, you're...~sl:~you're going to need a bigger posse for this job.
+
+MGSAD_JPUSH_01 = ~z~Hey.
+
+MGSAD_JPUSH_02 = ~z~Easy there.
+
+MGSAD_JPUSH_03 = ~z~Watch it.
+
+MGSAD_JPUSH_04 = ~z~Careful.
+
+MGSAD_JPUSH_05 = ~z~What's your problem?
+
+MGSAD_JRE_CGZ1_1 = ~z~~sl:0.0:4.2~Okay... well, now Sadie ain't around as you can probably see...~sl:0.8:3.3~I... don't tell her you caught me with my feet up.~sl:0.4~Things have been slow here, for once.
+
+MGSAD_JRE_CGZ1_2 = ~z~~sl:0.0:2.6~Now she's worried about a feller we know,~sl:~lives not far from here...
+
+MGSAD_JRE_CGZ1_3 = ~z~~sl:0.0:1.9~Left with his horse and wagon for~sl:0.0:2.0~Lake Isabella over a week ago and...~sl:0.5~and ain't been seen since.
+
+MGSAD_JRE_CGZ1_4 = ~z~Now... we don't really have the money for this right now...
+
+MGSAD_JRE_CGZ1_5 = ~z~~sl:0.0:3.6~But... it ain't like we got too many friends 'round these parts~sl:0.1:2.7:1 ~and if someone don't go looking, Sadie will.
+
+MGSAD_JRE_CGZ1_6 = ~z~~sl:0.2~Could you ride out and see if you can track him down?
+
+MGSAD_JRE_CGZ1_7 = ~z~~sl:0.0:2.9~Probably nothing, but you never know... there's no~sl:~shortage of outlaws holed up in these mountains.
+
+MGSAD_JRE_CGZ1_8 = ~z~~sl:0.0:2.9~Ain't seen a lawman up here in over a year, for better~sl:~or worse. So much for a life of peace and quiet.
+
+MGSAD_JRE_CGZ2_1 = ~z~~sl:0.0:2.7~Okay, good. Well, I'm glad you found your way back~sl:0.0:3.3~here, this damn snow can turn you around...~sl:0.8~well it can me, anyways.
+
+MGSAD_JRE_CGZ2_2 = ~z~~sl:0.0:2.1~I've got myself lost barely a quarter mile~sl:~from here after a fresh storm...
+
+MGSAD_JRE_CGZ2_3 = ~z~~sl:0.0:3.4~Well, I'm still getting used to mountain life, if I'm honest.~sl:0.7~Comes a lot more naturally to my wife than me.
+
+MGSAD_JRE_CGZ2_4 = ~z~~sl:0.0:2.8~I-I'm sorry, you didn't need to hear all this...~sl:0.6:3.5~it's all my long-winded way of saying I need a favor.~sl:1.1~Well, I'll pay you of course, what I can.
+
+MGSAD_JRE_CGZ2_5 = ~z~~sl:0.0:3.4~A feller we work with sometimes borrowed our cart...~sl:0.2~to take some pelts down to trade in Valentine.
+
+MGSAD_JRE_CGZ2_6 = ~z~~sl:0.0:2.2~Well, we were supposed to split the money...~sl:0.6:3.1~except nobody in Valentine's seen hide nor hair of him...~sl:0.5~no pun intended.
+
+MGSAD_JRE_CGZ2_7 = ~z~~sl:0.0:1.9~Said he was, uh, taking the long way down~sl:~west of Lake Isabella.
+
+MGSAD_JRE_CGZ2_8 = ~z~You reckon you could take a look?
+
+MGSAD_JRV_COLT_1 = ~z~~sl:0.0:4.5~Alright. Well, I 'm actually, uh, very glad to see you.~sl:0.6:3.6~I got a bit of a situation here...~sl:0.1~I'd rather Sadie didn't find out about.
+
+MGSAD_JRV_COLT_2 = ~z~~sl:0.0:1.5~Until she needs to, anyway...~sl:1.0:3.0~I hate lying to her, but like the vows say...~sl:0.3~for better or worse...
+
+MGSAD_JRV_COLT_3 = ~z~~sl:0.0:3.6~And this... this situation... we're in, I...~sl:0.6~I need to do whatever it takes to make it better.
+
+MGSAD_JRV_COLT_4 = ~z~~sl:0.0:2.3~Some loansharks came by yesterday,~sl:0.1:1.6~thank God Sadie wasn't around.~sl:0.6:2.3~Can't believe the bastards'd come to my home.~sl:0.6~Damn.
+
+MGSAD_JRV_COLT_5 = ~z~~sl:0.0:1.8~I was angry and I, well...~sl:1.2~promise you'll keep this between us?
+
+MGSAD_JRV_COLT_6 = ~z~~sl:0.0:1.6~I sent them back down through Colter,~sl:0.1~straight into the hands of that Skinner Gang.
+
+MGSAD_JRV_COLT_7 = ~z~~sl:0.0:1.8~I just wanted to give them a scare, that's all.~sl:0.8~Now, if you can break them out of there and bring 'em back here,
+
+MGSAD_JRV_COLT_8 = ~z~maybe we can talk again... buy myself some more time.
+
+MGSAD_JRV_MMS_1 = ~z~~sl:0.0:3.4~Alright... well, this is good timing.~sl:0.9~Seems to be going from... bad to worse, lately.
+
+MGSAD_JRV_MMS_2 = ~z~~sl:0.0:2.2~But I said I wouldn't gripe no more.~sl:0.7:~It's becoming a... an unfortunate habit of mine, of late.
+
+MGSAD_JRV_MMS_3 = ~z~Like Sadie said, "we got our health and a roof over our heads."
+
+MGSAD_JRV_MMS_4 = ~z~~sl:0.0:4.0~But I am concerned about a friend of mine. Well, uh...~sl:0.2~more of a business associate, strictly speaking.
+
+MGSAD_JRV_MMS_5 = ~z~~sl:0.0:2.8~He helps out with... missing paperwork,~sl:0.2~for banks and suchlike.
+
+MGSAD_JRV_MMS_6 = ~z~~sl:0.0:0.7~Anyway...~sl:0.8:2.8~he was due in Strawberry three days ago, but...~sl:0.5~never showed.
+
+MGSAD_JRV_MMS_7 = ~z~~sl:0.0:2.4~Said to me when he left here, he was taking the route~sl:0.0:2.9~down west of Spider Gorge past Deadboot Creek.~sl:0.5:1.6~Trying to avoid outlaws.~sl:0,5~It's probably nothing, like I say, but...
+
+MGSAD_JRV_MMS_8 = ~z~~sl:0.0:1.6~He should have been there by now.~sl:0.9~Could you see if you can track him down?
+
+MGSAD_JR_WO_OBJ_01 = ~z~You haven't done it yet? What's taking so long?
+
+MGSAD_JR_WO_OBJ_02 = ~z~~sl:0.0:1.2~What are you doing back here?~sl:~You're supposed to be helping me out.
+
+MGSAD_JR_WO_OBJ_03 = ~z~Hey, what about that thing I asked you to help with?
+
+MGSAD_JR_W_OBJ_01 = ~z~You got it. Thank God.
+
+MGSAD_JR_W_OBJ_02 = ~z~Oh good. Something goes right, finally.
+
+MGSAD_JR_W_OBJ_03 = ~z~Now, this has just made my day.
+
+MGSAD_JSHOOT_01 = ~z~Hey, cut that out.
+
+MGSAD_JSHOOT_02 = ~z~What the hell?
+
+MGSAD_JSHOOT_03 = ~z~What are you doing?
+
+MGSAD_JSHOOT_04 = ~z~Hey!
+
+MGSAD_JSHOOT_05 = ~z~~sl:0.2~Are you crazy?
+
+MGSAD_JSTREAK_01 = ~z~~sl:0.0:2.6~I have a lot of respect for someone~sl:~who always gets the job done.
+
+MGSAD_JSTREAK_02 = ~z~I sure wish everyone was as reliable as you.
+
+MGSAD_JSTREAK_03 = ~z~~sl:0.0:1.4~If you keep up the good work,~sl:0.5~I might actually get out of this mess.
+
+MGSAD_JTAKEP_01 = ~z~Here.
+
+MGSAD_JTAKEP_02 = ~z~You going to take this?
+
+MGSAD_JTAKEP_03 = ~z~Take it then.
+
+MGSAD_JTAKEP_04 = ~z~You want this or not?
+
+MGSAD_JTAKEP_05 = ~z~Are you taking this?
+
+MGSAD_JWANTED_01 = ~z~~sl:0.0:1.0~What are you doing here?~sl:0.1~Last thing I need is problems with the law.
+
+MGSAD_JWANTED_02 = ~z~~sl:0.0:0.6~Are you crazy?~sl:0.2~What are you doing bringing the law 'round here?
+
+MGSAD_JWANTED_03 = ~z~No. No, I won't have you getting me tangled up with the law.
+
+MGSAD_LEAVEN_01 = ~z~Well, I have things to do here.
+
+MGSAD_LEAVEN_02 = ~z~I'll be seeing you then.
+
+MGSAD_LEAVEN_03 = ~z~Don't let me hold you up.
+
+MGSAD_LEAVEN_04 = ~z~Look, I don't have time to be socializing, okay?
+
+MGSAD_LEAVEN_05 = ~z~Okay, well, I ain't running an inn here.
+
+MGSAD_LEAVE_01 = ~z~You need to get out of here.
+
+MGSAD_LEAVE_02 = ~z~It's time you left, now.
+
+MGSAD_LEAVE_03 = ~z~I'd advise you to leave while you still can.
+
+MGSAD_LEAVE_04 = ~z~That's it, get the hell out of here.
+
+MGSAD_LEAVE_05 = ~z~Get the hell out of my house!
+
+MGSAD_OTH_SPID_1 = ~z~Goddamn it. I'm mad as a hornet here.
+
+MGSAD_OTH_SPID_2 = ~z~~sl:0.0:2.1~Finally got ourselves a few chickens,~sl:0.0:2.8~then a wolf slunk in last night and took the lot.~sl:0.2~Big bastard too, from the tracks.
+
+MGSAD_OTH_SPID_3 = ~z~~sl:0.0:1.9~Some feller said he'd seen a real big one~sl:~south of Colter, near Spider Gorge.
+
+MGSAD_OTH_SPID_4 = ~z~~sl:0.0:2.8~I'd hunt it myself, but I can't leave here,~sl:~not with all the outlaws around.
+
+MGSAD_OTH_SPID_5 = ~z~Please go kill that sumbitch for me.
+
+MGSAD_REC_CGRZ2_1 = ~z~Surprised to see you out this way again, if I'm honest.
+
+MGSAD_REC_CGRZ2_2 = ~z~Pretty tough country 'round here, but I reckon we'll survive.
+
+MGSAD_REC_CGRZ2_3 = ~z~~sl:0.0:3.8~This place, here with Jake, it's all the world I need.~sl:0.3~A proper, decent life ain't meant to be easy.
+
+MGSAD_REC_CGRZ2_4 = ~z~~sl:0.0:2.1~Talking of which, we're down a cart.~sl:0.2:2.4~A friend took it to trade in Strawberry, but...~sl:~he should have been back days ago.
+
+MGSAD_REC_CGRZ2_5 = ~z~~sl:0.0:2.3~Said he was going 'round west of Lake Isabella~sl:~to avoid bandits. Reckon you could go look for it?
+
+MGSAD_REC_CGRZ2_6 = ~z~Just follow the river down.
+
+MGSAD_TAKEP_01 = ~z~Here then.
+
+MGSAD_TAKEP_02 = ~z~Do you want this?
+
+MGSAD_TAKEP_03 = ~z~You want this or not?
+
+MGSAD_TAKEP_04 = ~z~Grab it then.
+
+MGSAD_TAKEP_05 = ~z~Go on, I won't bite.
+
+MGSAD_VIP_COLT_1 = ~z~Good you came through.
+
+MGSAD_VIP_COLT_2 = ~z~~sl:0.0:2.0~We might have some trouble, and~sl:~I can't leave here for the time being.
+
+MGSAD_VIP_COLT_3 = ~z~Jake's gone to town, the bank or something.
+
+MGSAD_VIP_COLT_4 = ~z~~sl:0.0:3.0~Some traders were headed from here to Barrow Lagoon,~sl:~but never showed up.
+
+MGSAD_VIP_COLT_5 = ~z~~sl:0.0:1.5~And I know there's been some~sl:~rough-looking folks holed up at Colter.
+
+MGSAD_VIP_COLT_6 = ~z~Could you go down there and take a look?
+
+MGSAD_VIP_MMSH_1 = ~z~Okay then... Lucky I recognized you, 'cause I don't miss.
+
+MGSAD_VIP_MMSH_2 = ~z~~sl:0.0:4.0~But, this is good timing. Some bear trappers we know~sl:~ain't been seen in over a week.
+
+MGSAD_VIP_MMSH_3 = ~z~Said they were going west to hunt out by Deadboot Creek.
+
+MGSAD_VIP_MMSH_4 = ~z~~sl:0.0:2.9~Probably all fine but could you go see~sl:~if you can track them down for me?
+
+MGSAD_VIP_MMSH_5 = ~z~Don't worry, Jake says we're good for the money.
+
+SAD_ACCEPT_01 = ~z~Good luck.
+
+SAD_ACCEPT_02 = ~z~I'm relying on you for this.
+
+SAD_ACCEPT_03 = ~z~Keep your wits about you.
+
+SAD_ACCEPT_04 = ~z~Stay warm out there.
+
+SAD_ACCEPT_05 = ~z~Watch your back, alright?
+
+SAD_AIM_01 = ~z~Now that's a real bad idea.
+
+SAD_AIM_02 = ~z~What do you think you're doing?
+
+SAD_AIM_03 = ~z~You best put that down right now.
+
+SAD_AIM_04 = ~z~No, don't you even think about it.
+
+SAD_AIM_05 = ~z~Hey, don't point that at me.
+
+SAD_APPROACH_01 = ~z~Ah, it's you.
+
+SAD_APPROACH_02 = ~z~I was wondering if you'd be back through this way.
+
+SAD_APPROACH_03 = ~z~Hello again.
+
+SAD_APPROACH_04 = ~z~You're back.
+
+SAD_APPROACH_05 = ~z~Pretty cold out there, huh?
+
+SAD_APPROACH_06 = ~z~Good to see you again.
+
+SAD_APPROACH_07 = ~z~Welcome back.
+
+SAD_APPROACH_08 = ~z~Didn't know if I'd see you again.
+
+SAD_APPROACH_09 = ~z~You here to work again, friend?
+
+SAD_APPROACH_10 = ~z~Jake ain't here... you looking for work?
+
+SAD_APPR_FIRST_01 = ~z~Who are you?
+
+SAD_APPR_FIRST_02 = ~z~What do you want?
+
+SAD_APPR_FIRST_03 = ~z~What are you doing here?
+
+SAD_BOUNTY_01 = ~z~~sl:0.0:1.9~Look, I ain't getting mixed up with you~sl:~while you've got a price on your head.
+
+SAD_BOUNTY_02 = ~z~~sl:0.0:2.3~Listen, I heard about your bounty.~sl:0.2~That's trouble I don't need.
+
+SAD_BOUNTY_03 = ~z~~sl:0.0:2.2~We all make mistakes... but you need to~sl:~pay off that bounty before coming back here.
+
+SAD_COOLDOWN_01 = ~z~You again? You still ain't welcome here.
+
+SAD_COOLDOWN_02 = ~z~You must think I've got a real short memory. Get out of here.
+
+SAD_COOLDOWN_03 = ~z~You think I've forgotten what you did?
+
+SAD_FAILED_LM_01 = ~z~Surprised you'd show your face again after last time.
+
+SAD_FAILED_LM_02 = ~z~Well, I sure hope you're here to redeem yourself.
+
+SAD_FAILED_LM_03 = ~z~What happened with that last job then? Clearly didn't go too well.
+
+SAD_FAILED_LM_04 = ~z~~sl:0.0:2.4~That last thing I asked to help with...~sl:~didn't go very well, did it?
+
+SAD_FAILED_LM_05 = ~z~Well, you sure messed up that last job I gave you.
+
+SAD_FAIL_01 = ~z~Christ, do I have to do everything myself?
+
+SAD_FAIL_02 = ~z~Well, I ain't paying you for that.
+
+SAD_FAIL_03 = ~z~Shit, guess you weren't the right person for this.
+
+SAD_H_HIGH_01 = ~z~~sl:0.0:3.8~I know you're a good person. I wouldn't want you~sl:~getting mixed up in anything shady.
+
+SAD_H_HIGH_02 = ~z~~sl:0.0:2.6~The help I need right now, well...~sl:0.5~I wouldn't want to drag someone like you into it.
+
+SAD_H_HIGH_03 = ~z~Listen, you don't need any of my dirty work. I promise.
+
+SAD_H_LOW_01 = ~z~~sl:0.0:2.6~You've got quite the reputation.~sl:0.5~Sorry, I don't need that kind of trouble right now.
+
+SAD_H_LOW_02 = ~z~~sl:0.0:3.5~I heard about you. You're bad news...~sl:0.1~and I got enough of that already.
+
+SAD_H_LOW_03 = ~z~~sl:0.0:2.1~You think I ain't heard about you?~sl:0.4~You're trouble I don't need.
+
+SAD_IDLE_01 = ~z~Quick as you can now.
+
+SAD_IDLE_02 = ~z~Are you going then?
+
+SAD_IDLE_03 = ~z~Sooner you deal with this, the better.
+
+SAD_IDLE_04 = ~z~~sl:0.0:2.3~I know it's warm in here, but...~sl:~you should get going.
+
+SAD_IDLE_05 = ~z~You don't seem in much of a hurry to get paid.
+
+SAD_ILO_01 = ~z~So, you looking for work?
+
+SAD_ILO_02 = ~z~I figure this ain't just a social call?
+
+SAD_ILO_03 = ~z~You looking to make some money?
+
+SAD_ILO_04 = ~z~You after more work?
+
+SAD_ILO_05 = ~z~So, I assume you ain't just here for the company?
+
+SAD_LOCKED_01 = ~z~Sorry, this ain't a good time.
+
+SAD_LOCKED_02 = ~z~This is a bad time. Can you come back later?
+
+SAD_LOCKED_03 = ~z~I'm busy, you'll have to come back another time.
+
+SAD_LOCKED_04 = ~z~I can't talk right now, can you pass by again later?
+
+SAD_LOCKED_05 = ~z~Sorry, you've caught me at a bad time.
+
+SAD_M_COOLDOWN_01 = ~z~~sl:0.0:2.6~Well, I appreciate the enthusiasm,~sl:~but I ain't got nothing else for you yet.
+
+SAD_M_COOLDOWN_02 = ~z~I don't have anything else like last time yet, sorry.
+
+SAD_M_COOLDOWN_03 = ~z~~sl:0.0:2.5~You'll have to give me a bit more time.~sl::0.2~Still some details to work out.
+
+SAD_M_LOCKED_01 = ~z~~sl:0.0:1.9~I should have something for you soon.~sl:0.4~Can you come back around later?
+
+SAD_M_LOCKED_02 = ~z~~sl:0.0:3.5~Sorry, I don't have anything for you just yet.~sl:0.2~Can you come back later?
+
+SAD_M_LOCKED_03 = ~z~~sl:0.0:2.1~I ain't got no work going right now.~sl:0.3~Maybe... pass by again later?
+
+SAD_NOT_GL_01 = ~z~I don't have anything for you right now.
+
+SAD_NOT_GL_02 = ~z~Listen, sorry, I'd rather speak to whoever's in charge.
+
+SAD_NOT_GL_03 = ~z~Sorry, ain't sure I've got anything suitable for you right now.
+
+SAD_NOT_GL_04 = ~z~I don't really have nothing to give you right now.
+
+SAD_NOT_GL_05 = ~z~~sl:0.0:2.2~I might have something, but...~sl:~I'll need to speak to your boss first.
+
+SAD_NO_AVAIL_01 = ~z~I have nothing for you right now.
+
+SAD_NO_AVAIL_02 = ~z~Sorry, nothing going right now.
+
+SAD_NO_AVAIL_03 = ~z~~sl:0.0:2.4~I can't offer you anything for the time being.~sl:0.2~We're trying to save money.
+
+SAD_PASSED_LM_01 = ~z~~sl:0.0:1.5~That last thing you helped out with~sl:~seemed to work out well.
+
+SAD_PASSED_LM_02 = ~z~Good work with that last thing.
+
+SAD_PASSED_LM_03 = ~z~~sl:0.0:1.9~Credit where credit's due...~sl:0.4~that was good work last time.
+
+SAD_PASSED_LM_04 = ~z~Well done with that last job, by the way.
+
+SAD_PASSED_LM_05 = ~z~Thanks for helping me out last time.
+
+SAD_PASS_01 = ~z~Clearly this mountain suits you.
+
+SAD_PASS_02 = ~z~Good work.
+
+SAD_PASS_03 = ~z~That's what I like to see.
+
+SAD_POSSE_SMALL_01 = ~z~I reckon you're gonna need some extra hands for this one.
+
+SAD_POSSE_SMALL_02 = ~z~I think you're going to need to round up a bigger posse first.
+
+SAD_POSSE_SMALL_03 = ~z~You're going to need some more bodies, this is a big job.
+
+SAD_PUSH_01 = ~z~What are you doing?
+
+SAD_PUSH_02 = ~z~Hey, watch it.
+
+SAD_PUSH_03 = ~z~Hey, back off.
+
+SAD_PUSH_04 = ~z~Careful.
+
+SAD_PUSH_05 = ~z~What was that for?
+
+SAD_R_WO_OBJ_01 = ~z~~sl:0.0:1.7~Hey, what's happening with that thing~sl:~I asked you to help with?
+
+SAD_R_WO_OBJ_02 = ~z~Uh oh, what are you doing back here empty-handed?
+
+SAD_R_WO_OBJ_03 = ~z~What about the job I gave you? You doing it or not?
+
+SAD_R_W_OBJ_01 = ~z~Well done.
+
+SAD_R_W_OBJ_02 = ~z~I knew I could count on you.
+
+SAD_R_W_OBJ_03 = ~z~Looks like you've earned your money.
+
+SAD_SHOOT_01 = ~z~What the hell?
+
+SAD_SHOOT_02 = ~z~Hey!
+
+SAD_SHOOT_03 = ~z~Goddamn you!
+
+SAD_SHOOT_04 = ~z~Are you crazy?
+
+SAD_SHOOT_05 = ~z~What are you doing?
+
+SAD_SHOOT_06 = ~z~I'll kill you.
+
+SAD_STREAK_01 = ~z~You're reliable, I like that.
+
+SAD_STREAK_02 = ~z~You've been on quite a roll.
+
+SAD_STREAK_03 = ~z~Well, I can hardly fault you so far.
+
+SAD_WANTED_01 = ~z~~sl:0.0:1.7~Hey, what the hell are you doing~sl:~bringing the law 'round here?
+
+SAD_WANTED_02 = ~z~What are you doing trying to get us mixed up with the law?
+
+SAD_WANTED_03 = ~z~~sl:0.0:1.7~You think I'm dealing with you~sl:~while you got the law on your tail?
+

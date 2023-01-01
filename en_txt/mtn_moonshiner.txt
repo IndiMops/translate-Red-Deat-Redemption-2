@@ -1,0 +1,220 @@
+0x04D260C3 = ~z~Very nice, huh? Why don't you rest up. We'll brew a big batch of this later.
+
+0x0F415DCC = ~z~If you didn't want to help, you shouldn't have come back.
+
+0x1A7D9049 = ~z~We're making moonshine, okay? But our last batch was terrible. Set your teeth on edge, ugh!
+
+0x1D423B38 = ~z~Oh you're back! We've got a new batch going here.
+
+0x1DBE3425 = ~z~Come on, friend, You gonna help us out, or not?
+
+0x2ABB9749 = ~z~You there.. hey! Can I have a word?
+
+0x2EA33DD0 = ~z~Fine then! Go away, before I rethink myself and do something about you.
+
+0x2F1353B8 = ~z~Fight me already.
+
+0x3B003266 = ~z~You found it? Good... Toss it into the mixture then!
+
+0x3C28C964 = ~z~Once you find some herbs bring them on back here and we can see how they mix together with everything else.
+
+0x4EBE6D14 = ~z~Bring us some new herbs. Maybe it will help out our new batch.
+
+0x5A4345EF = ~z~Okay, I think it's time you moved along. Go explore, huh?
+
+0x5BF77533 = ~z~Hey, listen. If there's any drink finer than ours, it's what's in that chest over there. Take it. Enjoy it, okay?
+
+0x6BAE8256 = ~z~Hey... you're welcome to stay a while if you'd like, rest your legs. You seem clean enough, huh?
+
+0x6CA43D1D = ~z~Hey! You hear me?
+
+0x6E07D73F = ~z~I don't need luck, I need plants. Leave us alone.
+
+0x7B67BCDE = ~z~I'm putting you out of mind soon as I can.
+
+0x7BE6BC13 = ~z~There's some moonshine flasks over next to the tent. Go help yourself.
+
+0x7C7FD5B8 = ~z~Go on, feller – toss your stuff into the still and we'll do a test.
+
+0x7C44A448 = ~z~Yep, bring us something good.
+
+0x8AE5A4A7 = ~z~This batch? Oh, this drink will make men abandon their wives. It will make children kill their parents. It will drive people crazy with desire. It will make us rich! It is that good.
+
+0x9CD5D4C9 = ~z~We won't be using that. Thanks for nothing.
+
+0x9F838806 = ~z~The purple is real vibrant. Hard to miss. Don't know what it is though...
+
+0x24FAB3B1 = ~z~Thanks, feller! Help yourself to that serum over there.
+
+0x35B973D8 = ~z~Come on, friend, don't make me ask again... Jesus, come on!
+
+0x39E46308 = ~z~Round on the side of the still, open the hatch.
+
+0x42EEC4A7 = ~z~Get, while you can.
+
+0x44A97CF0 = ~z~You gonna help us? If not, just go away.
+
+0x63D6B208 = ~z~You killed him! You killed him, you piece of shit!
+
+0x63FEECA6 = ~z~Go on, grab some moonshine over here. You were a good help in the end.
+
+0x65DF67EA = ~z~Hello? You hearing me?
+
+0x68AC7C62 = ~z~You get out of here or I'll blind you! How about that?
+
+0x70E12C20 = ~z~So will you help us out or not? Eh, friend?
+
+0x74BA3271 = ~z~You hear of Ginseng? Grows local. I bet it would taste good.
+
+0x77F1D23C = ~z~We're making the perfect batch this time. I know you're curious, feller. I can tell.
+
+0x81E792A6 = ~z~It's got, uh, clusters, you know? Small pinkish purple flowers on the top.
+
+0x84FB8661 = ~z~You helped and all, but you need to leave now, okay?
+
+0x89D67B2F = ~z~Shit... shit... was that oleander? Oh, you fool, that's poison!
+
+0x91C8E1AF = ~z~Hey, you robbing bastard!
+
+0x97F52826 = ~z~Okay, listen. We got something here. Maybe you can help.
+
+0x586A399E = ~z~You think that's enough? We're going to need more to make a full batch.
+
+0x602CAF35 = ~z~We're making another batch. You're gonna bring us plants, or flake out again, huh?
+
+0x603C2496 = ~z~You son of a whore.
+
+0x635CF59D = ~z~With the right ingredients, maybe... Listen, you fetch us some, maybe there's something in it for you? A reward, what do you think of that?
+
+0x703AD9E2 = ~z~Go ahead... throw them into the mixture and we'll see how it turns out.
+
+0x851DF28E = ~z~Strong, huh? Nice. Let's sit on this one and then make another batch later, okay?
+
+0x944FB7FE = ~z~I think maybe you should go now, friend? We've got to work on our next recipe...
+
+0x1963BEAC = ~z~Are you gonna add the plants or not?
+
+0x4323EBA7 = ~z~Why do you care, huh? Go on, get the hell out of here.
+
+0x5548E95B = ~z~Move now. Go on.
+
+0x9013ED4E = ~z~No, sorry, that ain't enough. You're going to have to find some more.
+
+0x10151CB7 = ~z~Now I get to kill you!
+
+0x50025B06 = ~z~Are you paying attention? Huh?
+
+0x73512C22 = ~z~Why you bother coming back here empty-handed?
+
+0x76554EA8 = ~z~We're over here! Come on, quick.
+
+0x82315F94 = ~z~So, you came back. Come on over, then.
+
+0x99039AA4 = ~z~Alright then.
+
+0x1806527E = ~z~Jesus! He's drunk too much.
+
+0x25191042 = ~z~You do what you want. I ain't biting.
+
+0x36596734 = ~z~You remember where the hatch is, right?
+
+0x52099854 = ~z~Yeah... nothing like a life without regulations...
+
+0x87071180 = ~z~The American Ginseng has large leaves and grows red berries on it.
+
+0x96493421 = ~z~That's a waste, but, well... go take some moonshine, then get out of here.
+
+0xA4D1A0E1 = ~z~Hey, you're back! Come on over here, quick!
+
+0xA84E00C5 = ~z~Well? Come on, don't keep me waiting forever here!
+
+0xA101BE73 = ~z~Last batch was a step in the right direction but we're looking to outdo ourselves this time...
+
+0xA203AA93 = ~z~You ever hear of Milkweed, compadre? Maybe we could try that.
+
+0xA8182D36 = ~z~That's how it's gonna be, you bastard?
+
+0xAA279124 = ~z~You didn't find any plants yet? Dammit, we're not getting anywhere fast here.
+
+0xAACE3E39 = ~z~Til next one.
+
+0xABBE453B = ~z~You go. Now. You're making me uncomfortable.
+
+0xAD85EE83 = ~z~Just listening to the world go by...
+
+0xB0A7CB3C = ~z~You not a ranger, right? Pinkerton? One of those temperance bastards?
+
+0xB2E9C9F0 = ~z~Toady bastard.
+
+0xB6B24AC3 = ~z~Well, you did okay, my friend. Help yourself to some moonshine for your trouble, huh?
+
+0xB13F5A1E = ~z~Then why bother us? Get out of here!
+
+0xB487A931 = ~z~As a thank you, go grab that strange thing in the chest there. I think you'll like it.
+
+0xBCF85CF6 = ~z~Challenge accepted, goddammit!
+
+0xBDA5345B = ~z~Well? You find some good herbs out there?
+
+0xC1A0ED0A = ~z~I got some money in that chest. You earned it, friend.
+
+0xC4DD1F09 = ~z~Well, fine then. Get out of here 'fore I lose my patience!
+
+0xC4F341D1 = ~z~No? Oh, hell! Goddamn waste. Guess we'll have to go back to the old recipe.
+
+0xC9F837C3 = ~z~Poison? Please. I am an expert at this. Now, leave us alone.
+
+0xC7883D6A = ~z~You got the stuff? Excellent! Toss it into the still.
+
+0xCD22E8D0 = ~z~Listen, you're not here to help? Fine. So go already!
+
+0xCEBE8A9B = ~z~Well, feller? You gonna help us out here or what?
+
+0xD03EEC7C = ~z~Few more herbs and spices are all we need. Bring us some, we'll make it worth your while, okay?
+
+0xD0ABCAAA = ~z~You done it now, you son of a bitch!
+
+0xD57E58D7 = ~z~So? What'll it be? You gonna help or not?
+
+0xD71F16A7 = ~z~The Indian Tobacco plant's got a long stem. Sometimes it has white flowers.
+
+0xD96DEBBB = ~z~We've made some progress since your last visit. We're brewing a new batch.
+
+0xD1748FB1 = ~z~Okay... You look alright...
+
+0xD1353573 = ~z~Wild Tobacco might be nice. Good and earthy.
+
+0xD2010168 = ~z~So, you find us some plants to try?
+
+0xD4404433 = ~z~Well, this rustic method, it's unusual, maybe, but it's the best way to make a good product.
+
+0xD9069655 = ~z~Looking strong, man! Let's see how it sits and maybe make some more later.
+
+0xDB1EE3FC = ~z~Then we're done with you. Get out of here.
+
+0xDC49C0A9 = ~z~What?
+
+0xE8A246D3 = ~z~Come on.
+
+0xE39F4525 = ~z~I won't ask again. Back away, or you're in trouble.
+
+0xE99A2589 = ~z~You want my scabs, too?
+
+0xE545EB7A = ~z~A few more local plants sure will be all we need. Go find us some, huh? Maybe we have something for you if you do...
+
+0xEE076424 = ~z~
+
+0xF02AC1A8 = ~z~I saw this purple plant nearby, never used that...
+
+0xF0BA0F5E = ~z~This may not be your wisest decision.
+
+0xF7CA6B0D = ~z~You're too close. Back away.
+
+0xF8A9F5AA = ~z~Well? You going to help us? It's a simple question.
+
+0xF145228E = ~z~Oh, you want to mess around, huh?
+
+0xFC4DFB10 = ~z~We're making another batch. You gonna help this time, or not, huh?
+
+0xFE11DBC8 = ~z~I don't have all day, senor. Come on!
+

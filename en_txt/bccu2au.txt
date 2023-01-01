@@ -1,0 +1,14 @@
+BCCU2_ACTION_1 = ~z~~sl:2.3:1.2~Can you believe this?~sl:0.3~You, me, John, it's... just like the good old days.
+
+BCCU2_ACTION_2 = ~z~~sl:1.1~Wasn't so good at the end.
+
+BCCU2_ACTION_3 = ~z~~sl:0.0:3.0:1~Yeah, wasn't so good at the end, I'll give you that.
+
+BCCU2_ACTION_4 = ~z~~sl:0.0:4.4~For a while, I thought Dutch had found a better, fairer way to live.~sl:~But it wasn't real.
+
+BCCU2_ACTION_5 = ~z~Guess I'm done fighting for something I can't change.
+
+BCCU2_ACTION_6 = ~z~~sl:0.0:2.0:1~You know, I'll toast to that.
+
+BCCU2_ACTION_7 = ~z~
+

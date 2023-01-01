@@ -1,0 +1,30 @@
+REDB_CNV_A_1 = ~z~Well, well, if it ain't the great gunslinger himself.
+
+REDB_CNV_A_2 = ~z~You know, you caused quite a stir, putting down Willy Curlls like you did.
+
+REDB_CNV_A_3 = ~z~He'd been talking about his skills day in, day out, to any young gun that might have the patience for it. And the empty barrel to match.
+
+REDB_CNV_A_4 = ~z~Can't say I'm all that sorry he's gone. That man could drown a bear with all his talking.
+
+REDB_CNV_B_1 = ~z~Well, hey, the great noble gunslinger!
+
+REDB_CNV_B_2 = ~z~I swear, I was waiting for the day someone might come and put ol' Willy Curlls in his place.
+
+REDB_CNV_B_3 = ~z~Haven't seen that feller since. Word is no one has...
+
+REDB_CNV_B_4 = ~z~You ask me, he finished what you started. Can't imagine he'd abide much else.
+
+REDB_CNV_B_5 = ~z~When pride's all you have, and it's taken? Boy...
+
+REDB_CNV_C_1 = ~z~Hey, feller.
+
+REDB_CNV_C_2 = ~z~You a fan of duels? Had a duel here not too long ago, was quite the sight.
+
+REDB_CNV_C_3 = ~z~Some gun comes in and challenges ol' Willy Curlls to a duel.
+
+REDB_CNV_C_4 = ~z~Now, Willy's pistol's known far and wide... way he tells it Donkey Daniels was the last fool tried to draw up against him.
+
+REDB_CNV_C_5 = ~z~Anyway, this spitfire comes in, and 'fore you could count to three Willy was done in.
+
+REDB_CNV_C_6 = ~z~Folk here'll be talking 'bout that shot for some time, let me tell you...
+

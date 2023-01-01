@@ -1,0 +1,36 @@
+CMRB3_A_1 = ~z~
+
+CMRB3_A_2 = ~z~I'm scared.
+
+CMRB3_A_3 = ~z~Scared of what?
+
+CMRB3_A_4 = ~z~Pinkertons! Bounty hunters!
+
+CMRB3_A_5 = ~z~We're going to die.
+
+CMRB3_A_6 = ~z~Don't be ridiculous.
+
+CMRB3_A_7 = ~z~This is Dutch van der Linde and Hosea Matthews we're talking about.
+
+CMRB3_A_8 = ~z~Whole world could be after 'em,
+
+CMRB3_A_9 = ~z~and they'd still find a way out.
+
+CMRB3_A_10 = ~z~Really?
+
+CMRB3_B_1 = ~z~They been on the run for ten years or more.
+
+CMRB3_B_2 = ~z~Hush yourself...
+
+CMRB3_B_3 = ~z~ye of little faith.
+
+CMRB3_B_ALT_1 = ~z~Tell her, Arthur!
+
+CMRB3_B_ALT_2 = ~z~Tell her, Dutch'll see us right.
+
+CMRB3_B_ALT_3 = ~z~Here's hoping.
+
+CMRB3_B_ALT_4 = ~z~He always does.
+
+CMRB3_B_ALT_5 = ~z~He's Dutch van der Linde.
+

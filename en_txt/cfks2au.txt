@@ -1,0 +1,26 @@
+CFKS2_ACTION_1 = ~z~So... what's your story, boy?
+
+CFKS2_ACTION_2 = ~z~Um... horses.
+
+CFKS2_ACTION_3 = ~z~Horses? How do you mean horses?
+
+CFKS2_ACTION_4 = ~z~Well, I... I-I used to work with horses... when I was a little boy.
+
+CFKS2_ACTION_5 = ~z~My pa came over from Ireland. He got sick... and died.
+
+CFKS2_ACTION_6 = ~z~My ma got sick and died... it was cholera.
+
+CFKS2_ACTION_7 = ~z~After that I was all alone, and... the stables, where I worked, threw me out.
+
+CFKS2_ACTION_8 = ~z~I was living in the West. We'd travelled out there 'cause pa thought he could become a farmer... in California,
+
+CFKS2_ACTION_9 = ~z~well, we never made it to California.
+
+CFKS2_ACTION_10 = ~z~I joined the army, but uh... that didn't work out well. Then I fell in with some outlaws.
+
+CFKS2_ACTION_11 = ~z~They got killed and I fell in with the O'Driscolls.
+
+CFKS2_ACTION_12 = ~z~They gave me a choice: ride with 'em or die. So... wasn't much of a choice.
+
+CFKS2_ACTION_13 = ~z~Now... I'm in with you... and all I know is folks all seem to die... and... I still love horses.
+

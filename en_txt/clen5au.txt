@@ -1,0 +1,52 @@
+CLEN5_ACTA_1 = ~z~
+
+CLEN5_ACTA_2 = ~z~How you feeling?
+
+CLEN5_ACTA_3 = ~z~Okay, a little better.
+
+CLEN5_ACTA_4 = ~z~Good.
+
+CLEN5_ACTA_5 = ~z~How are you?
+
+CLEN5_ACTA_6 = ~z~Fine.
+
+CLEN5_ACTA_7 = ~z~Hey, do you think... do you worry...
+
+CLEN5_ACTA_8 = ~z~Do you worry that maybe we've lost our way?
+
+CLEN5_ACTA_9 = ~z~How do you mean?
+
+CLEN5_ACTA_10 = ~z~Ignore that. I won't pretend ignorance, I know just what you mean.
+
+CLEN5_ACTA_11 = ~z~But I don't know... things seem bad.
+
+CLEN5_ACTA_12 = ~z~The world is changing, and... I'm not making much sense, am I?
+
+CLEN5_ACTA_13 = ~z~No... but somehow you've summarized how I feel.
+
+CLEN5_ACTA_14 = ~z~It-it seems awful.
+
+CLEN5_ACTA_15 = ~z~Then it seems the same as always, and then it seems like there's just no other way and I-I... I just...
+
+CLEN5_ACTA_16 = ~z~Listen, we've got outta of worse situations than this.
+
+CLEN5_ACTA_17 = ~z~Done plenty of bad things that we've all forgotten about.
+
+CLEN5_ACTA_18 = ~z~Don't take Dutch's patter about redemption too seriously.
+
+CLEN5_ACTA_19 = ~z~We're doomed, just like every other creature on this rock. But unlike them, we'll go down fighting.
+
+CLEN5_ACTA_20 = ~z~Is that what you believe?
+
+CLEN5_ACTA_21 = ~z~I don't know, son. I don't know what I believe.
+
+CLEN5_ACTA_22 = ~z~Apart from wishing I wasn't going to find out sooner than I'd like.
+
+CLEN5_ACTA_INT_1 = ~z~What do you think, Arthur?
+
+CLEN5_ACTA_INT_2 = ~z~I don't do too much thinking, Hosea... killing's more my thing.
+
+CLEN5_ACTA_INT_3 = ~z~I don't believe that for a second.
+
+CLEN5_ACTB_1 = ~z~
+

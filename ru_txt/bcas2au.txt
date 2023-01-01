@@ -1,0 +1,12 @@
+BCAS2_ACTION_1 = ~z~Ты спать идешь?
+
+BCAS2_ACTION_2 = ~z~Да...
+
+BCAS2_ACTION_3 = ~z~Как прошел день?
+
+BCAS2_ACTION_4 = ~z~Хорошо...
+
+BCAS2_ACTION_5 = ~z~И ты вел себя хорошо?
+
+BCAS2_ACTION_6 = ~z~Как всегда.
+

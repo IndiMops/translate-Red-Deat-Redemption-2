@@ -1,0 +1,24 @@
+NET_ALOOT_BLIP_AREA = Зона поиска
+
+NET_ALOOT_BLIP_CACHE = Сокровища
+
+NET_ALOOT_HELP_CLOSED = Карта сокровищ закрыта. Вы сможете открыть карту сокровищ, когда у вас не будет задания.
+
+NET_ALOOT_HELP_EAGLE_EYE = Нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~, чтобы включить «Орлиный глаз». Спрятанные сундуки с сокровищами будут светиться оранжевым при активном «Орлином глазе».
+
+NET_ALOOT_HELP_EAGLE_EYE_2_MPINTRO = «Орлиный глаз» также подсвечивает звериные следы, растения, травы и предметы, которые можно осмотреть.
+
+NET_ALOOT_HELP_EAGLE_EYE_KM = Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы включить «Орлиный глаз». Спрятанные сундуки с сокровищами будут светиться оранжевым при активном «Орлином глазе».
+
+NET_ALOOT_HELP_EAGLE_EYE_MPINTRO = Нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~, чтобы включить «Орлиный глаз». Спрятанные сундуки с сокровищами будут светиться оранжевым при активном «Орлином глазе».
+
+NET_ALOOT_HELP_EAGLE_EYE_MPINTRO_KM = Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы включить «Орлиный глаз». Спрятанные сундуки с сокровищами будут светиться оранжевым при активном «Орлином глазе».
+
+NET_ALOOT_HELP_OPEN = Вы открыли карту сокровищ. Ищите сокровища в секторе ~COLOR_MP_OBJECTIVE~~BLIP_MP_GAME_TREASURE_HUNT~~s~, чтобы получить награду.
+
+NET_ALOOT_HELP_OPEN_FAIL = Сейчас вы не можете открыть карту сокровищ.
+
+NET_ALOOT_HELP_OPEN_MPINTRO = Вы открыли карту сокровищ. Осмотрите местность ~COLOR_MP_OBJECTIVE~~BLIP_MP_GAME_TREASURE_HUNT~~s~ и постарайтесь найти сокровище, чтобы получить награду.
+
+NET_ALOOT_HELP_PURCHASE = Вы нашли карту сокровищ. Откройте карту, чтобы начать поиск сокровищ.
+

@@ -1,0 +1,26 @@
+RMOB1_ASK1_1 = ~z~I'm looking for a man called Bronte, have you heard of him?
+
+RMOB1_ASK1_2 = ~z~Don't know who you're talking about.
+
+RMOB1_ASK1_3 = ~z~Okay, never mind.
+
+RMOB1_HANG1_1 = ~z~Like I said, I can't help you.
+
+RMOB1_SBARPLY_1 = ~z~Hey, friend, I'm new in town.
+
+RMOB1_SBARPLY_2 = ~z~~sl:0.0:2.9~Supposed to be meeting a man called Angelo Bronte.~sl:~Any idea where I might find him?
+
+RMOB1_SBARPLY_3 = ~z~~sl:0.0:1.3~Not in here, that's for sure.~sl:0.4~If he was to drink anywhere, it would be the...
+
+RMOB1_SBARPLY_4 = ~z~~sl:0.0:1.1~the Bastille Saloon.~sl:~Opposite the park with the Quincy Harris statue.
+
+RMOB1_SBARPLY_5 = ~z~Appreciate it.
+
+RMOB1_SBARPLY_6 = ~z~Just watch yourself. He's got quite the reputation.
+
+RMOB1_THANKS_01 = ~z~Thanks for the help, friend.
+
+RMOB1_THANKS_02 = ~z~Appreciate your help.
+
+RMOB1_THANKS_03 = ~z~Thanks again.
+

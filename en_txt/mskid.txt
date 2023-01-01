@@ -1,0 +1,96 @@
+0x07E02B12 = Moonshiner
+
+FETCH_CTX_KIDNAPPED_BUYERS_FAST_TRAVEL = Fast Travel to Moonshine Shack
+
+FETCH_KIDNAPPED_BUYERS_ABANDON = Buyer was abandoned
+
+FETCH_KIDNAPPED_BUYERS_FAST_TRAVEL_TOAST_MAIN = Moonshiner
+
+FETCH_KIDNAPPED_BUYERS_FAST_TRAVEL_TOAST_SECONDARY = Fast Travel to Moonshine Shack
+
+FETCH_KIDNAPPED_BUYERS_HELP_CONTROL = While unarmed use ~INPUT_INTERACT_LOCKON~ to lock on to the ~COLOR_MP_OBJECTIVE_FRIENDLY~buyer~s~ ~1b~ and lead them yourself.
+
+FETCH_KIDNAPPED_BUYERS_HELP_FAILED = The moonshine buyer was not rescued from the Revenue Agents. Other buyers will not be willing to buy moonshine for a while.
+
+FETCH_KIDNAPPED_BUYERS_HELP_FAST_TRAVEL = Fast travel to the Moonshine Shack for faster access to the Kidnapped Buyers.
+
+FETCH_KIDNAPPED_BUYERS_HELP_FOLLOW = A buyer ~1b~ is following you. Lead them to the drop off.
+
+FETCH_KIDNAPPED_BUYERS_HELP_HOGTIED = Hold ~INPUT_CUT_FREE~ to cut free the buyer.
+
+FETCH_KIDNAPPED_BUYERS_HELP_HOGTIED_GO_TO = Rescue the buyer ~1b~ from the Revenue Agents. The hogtied buyer must be cut free before they will follow you.
+
+FETCH_KIDNAPPED_BUYERS_HELP_HOGTIED_GO_TO_PLURAL = Rescue the buyers ~1b~ from the Revenue Agents. Hogtied buyers must be cut free before they will follow you.
+
+FETCH_KIDNAPPED_BUYERS_HELP_INTRO = Rescue the moonshine buyer ~BLIP_AMBIENT_VIP~ and drop them off within the time limit to continue selling moonshine.
+
+FETCH_KIDNAPPED_BUYERS_HELP_INTRO_PLURAL = Rescue the moonshine buyers ~BLIP_AMBIENT_VIP~ and drop them off within the time limit to continue selling moonshine.
+
+FETCH_KIDNAPPED_BUYERS_HELP_NOTIFICATION = A moonshine buyer ~BLIP_AMBIENT_VIP~ has been arrested by the Revenue Agents. Rescue them to continue selling moonshine.
+
+FETCH_KIDNAPPED_BUYERS_HELP_OBJECTIVE_ESCAPING_TEAM_PRIMARY = You are getting too far from the buyer. Return to them quickly.
+
+FETCH_KIDNAPPED_BUYERS_KILL_ATTACKERS = Take out the ~COLOR_MP_OBJECTIVE_ENEMY~Revenue Agents~s~
+
+FETCH_KIDNAPPED_BUYERS_OBJ_DEFEND = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~buyer~s~ on the way ~1~
+
+FETCH_KIDNAPPED_BUYERS_OBJ_DEFEND_PLURAL = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~buyers~s~ on the way ~1~
+
+FETCH_KIDNAPPED_BUYERS_OBJ_DESTROY = Take out the ~COLOR_MP_OBJECTIVE_ENEMY~buyer~s~
+
+FETCH_KIDNAPPED_BUYERS_OBJ_DESTROY_PLURAL = Take out the ~COLOR_MP_OBJECTIVE_ENEMY~buyers~s~
+
+FETCH_KIDNAPPED_BUYERS_OBJ_DROP = Drop the ~COLOR_MP_OBJECTIVE_FRIENDLY~buyer~s~ on the ~COLOR_MP_OBJECTIVE~ground~s~
+
+FETCH_KIDNAPPED_BUYERS_OBJ_GOTO = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~buyer~s~
+
+FETCH_KIDNAPPED_BUYERS_OBJ_RETURN = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~buyer~s~ ~1~
+
+FETCH_KIDNAPPED_BUYERS_OBJ_RETURN_PLURAL = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~buyers~s~ ~1~
+
+FETCH_KIDNAPPED_BUYERS_OBJ_STEAL = Rescue the ~COLOR_MP_OBJECTIVE_NEUTRAL~buyer~s~
+
+FETCH_KIDNAPPED_BUYERS_SCORETIMER_DELIVER_TEAM_PRIMARY_FAIL = ~1~ eliminated a buyer
+
+FETCH_KIDNAPPED_BUYERS_SCORETIMER_DELIVER_TEAM_PRIMARY_FAIL_NP = A buyer has been eliminated
+
+FETCH_KIDNAPPED_BUYERS_SCORETIMER_DELIVER_TEAM_PRIMARY_PASS = ~1~ dropped off a buyer
+
+FETCH_KIDNAPPED_BUYERS_SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_NP = A buyer has been dropped off
+
+FETCH_KIDNAPPED_BUYERS_SCORETIMER_DESTROYED = A buyer has been killed
+
+FETCH_KIDNAPPED_BUYERS_SCORETIMER_DESTROYED_YOU = You killed a buyer
+
+FETCH_KIDNAPPED_BUYERS_SCORETIMER_FOLLOWER_GOAL_COMPLETE = The ~COLOR_MP_OBJECTIVE_FRIENDLY~buyer~s~ is free
+
+FETCH_KIDNAPPED_BUYERS_SHARD_DESC_PRIMARY = Rescue the kidnapped ~COLOR_MP_OBJECTIVE_NEUTRAL~buyer~s~
+
+FETCH_KIDNAPPED_BUYERS_SHARD_DESC_PRIMARY_PLURAL = Rescue the kidnapped ~COLOR_MP_OBJECTIVE_NEUTRAL~buyers~s~
+
+FETCH_KIDNAPPED_BUYERS_SHARD_DESTROYED = Buyer was killed
+
+FETCH_KIDNAPPED_BUYERS_SHARD_DESTROYED_PLURAL = Buyers were killed
+
+FETCH_KIDNAPPED_BUYERS_SHARD_PRIMARY_FAIL = Buyer was killed
+
+FETCH_KIDNAPPED_BUYERS_SHARD_PRIMARY_FAIL_PLURAL = Buyers were killed
+
+FETCH_KIDNAPPED_BUYERS_SHARD_PRIMARY_PASS = Buyer was rescued
+
+FETCH_KIDNAPPED_BUYERS_SHARD_PRIMARY_PASS_PARTIAL = ~1~/~2~ buyers were dropped off
+
+FETCH_KIDNAPPED_BUYERS_SHARD_PRIMARY_PASS_PLURAL = Buyers were rescued
+
+FETCH_KIDNAPPED_BUYERS_STEAL_POSSE = Recover the ~COLOR_MP_OBJECTIVE_NEUTRAL~buyer~s~ back from ~COLOR_ENEMY~~1~~s~
+
+FETCH_KIDNAPPED_BUYERS_STEAL_POSSE_PLURAL = Recover the ~COLOR_MP_OBJECTIVE_NEUTRAL~buyers~s~ back from ~COLOR_ENEMY~~1~~s~
+
+FETCH_KIDNAPPED_BUYERS_TRAIN = Get on the train
+
+FETCH_KIDNAPPED_BUYERS_UNLOCK_VEHICLE = Shoot the lock off the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+FETCH_KIDNAPPED_BUYERS_UNTIE = Free the hogtied ~COLOR_MP_OBJECTIVE_NEUTRAL~buyer~s~
+
+FETCH_KIDNAPPED_BUYERS_UNTIE_PLURAL = Free the hogtied ~COLOR_MP_OBJECTIVE_NEUTRAL~buyer~s~
+

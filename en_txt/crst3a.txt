@@ -1,0 +1,48 @@
+D_BLOCKED_CRST3_1 = ~z~Hey, clear the road!
+
+D_DODGY_CRST3_1 = ~z~Eyes up! We got an outlaw!
+
+D_ILOG_CRST3_1 = ~z~Yeah?
+
+D_ILOR_CRST3_1 = ~z~You're threatening me? I don't think so!
+
+D_ILOS_CRST3_1 = ~z~Ain't stopping for you, I know that much.
+
+D_ILOT_CRST3_1 = ~z~You must think I'm a goddamn idiot!
+
+D_INIT_CRST3_1 = ~z~This feller means trouble...
+
+D_INIT_CRST3_2 = ~z~Keep ready for anything.
+
+D_NERV_01_CRST3_1 = ~z~Look out, you're too close to the coach.
+
+D_NERV_02_CRST3_1 = ~z~You need to back off, feller.
+
+D_NERV_03_CRST3_1 = ~z~What the hell you up to?
+
+D_RBLH_CRST3_1 = ~z~Hey, move it, you dumb animal!
+
+D_RBLH_CRST3_2 = ~z~Am I gonna have to make you into dinner? Go on! Git!
+
+D_RBLV_CRST3_1 = ~z~What's that doing here?
+
+D_RBLV_CRST3_2 = ~z~I don't like this...
+
+D_RBLV_CRST3_3 = ~z~Gotta get this thing out of the road...
+
+D_SHOCKED_CRST3_1 = ~z~Bastard!
+
+D_THREAT_CRST3_1 = ~z~Not a chance, pal!
+
+P_ILOGJ_CRST3_1 = ~z~Howdy.
+
+P_ILOG_CRST3_1 = ~z~Howdy.
+
+P_ILORJ_CRST3_1 = ~z~Step down from here nice and easy and nobody gets hurt.
+
+P_ILOR_CRST3_1 = ~z~Step down from here nice and easy and nobody gets hurt.
+
+P_ILOSJ_CRST3_1 = ~z~Stop that coach now!
+
+P_ILOS_CRST3_1 = ~z~Stop that coach now!
+

@@ -1,0 +1,66 @@
+FETCH_INTERCEPT_HELP_RISKY_DELIVERY = Безрассудная езда или столкновения с препятствиями повредят транспортное средство.
+
+FETCH_INTERCEPT_HELP_WAGON_PRIMARY = Чтобы получить полную награду, украдите и пригоните повозку ~1b~ к месту доставки.
+
+FETCH_INTERCEPT_HELP_WAGON_SECONDARY = Игрок ~1~ начал противостояние с ~2~. Чтобы получить полную награду, украдите повозку ~3b~.
+
+FETCH_INTERCEPT_HELP_WAGON_SECONDARY_YOU = Вы начали противостояние с ~1~. Чтобы получить полную награду, украдите повозку ~2b~.
+
+FETCH_INTERCEPT_JOIN_TEAM_SECONDARY = ~COLOR_ENEMY~~1~~s~ перехватывает повозку
+
+FETCH_INTERCEPT_OBJ_DEFEND_WAGON = Защищайте ~COLOR_MP_OBJECTIVE_FRIENDLY~повозку~s~ по пути ~1~.
+
+FETCH_INTERCEPT_OBJ_RETURN_SUPPLIES = Пригоните ~COLOR_MP_OBJECTIVE_FRIENDLY~повозку~s~ ~1~.
+
+FETCH_INTERCEPT_OBJ_RETURN_SUPPLIES_NON_SPECIFIC = Пригоните ~COLOR_MP_OBJECTIVE_FRIENDLY~повозку~s~ к ~COLOR_MP_OBJECTIVE~месту доставки~s~.
+
+FETCH_INTERCEPT_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Соперники~s~ могут украсть повозку
+
+FETCH_INTERCEPT_SHARD_DESC_PRIMARY = Перехватите и пригоните ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~ к месту доставки
+
+FETCH_INTERCEPT_SHARD_WAGON_DESTROYED = Повозка уничтожена
+
+FETCH_INTERCEPT_SHARD_WAGON_ESCAPED = Повозка достигла места назначения
+
+FETCH_INTERCEPT_SHARD_WAGON_PRIMARY_FAIL = Повозка пригнана врагом
+
+FETCH_INTERCEPT_SHARD_WAGON_PRIMARY_PASS = Повозка пригнана
+
+FETCH_INTERCEPT_SHARD_WAGON_SECONDARY_FAIL = Повозка пригнана
+
+FETCH_INTERCEPT_SHARD_WAGON_SECONDARY_FAIL_RIVALS = Повозка украдена вражеским отрядом
+
+FETCH_INTERCEPT_SHARD_WAGON_SECONDARY_PASS = Повозка украдена
+
+FETCH_INTERCEPT_TICKER_DESTROY = Повозка уничтожена
+
+FETCH_INTERCEPT_TICKER_DESTROY_YOU = Вы уничтожили повозку.
+
+FETCH_INTERCEPT_WAGON = Сядьте в ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~.
+
+FETCH_INTERCEPT_WAGON_FROM_POSSE = Отбейте ~COLOR_MP_OBJECTIVE_ENEMY~повозку~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_INTERCEPT_WAGON_FROM_POSSE_PLURAL = Отбейте ~COLOR_MP_OBJECTIVE_ENEMY~повозки~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_INTERCEPT_WAGON_FROM_POSSE_PVP = Украдите ~COLOR_MP_OBJECTIVE_ENEMY~повозку~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_INTERCEPT_WAGON_FROM_POSSE_PVP_PLURAL = Украдите ~COLOR_MP_OBJECTIVE_ENEMY~повозки~s~ у ~COLOR_ENEMY~~1~~s~.
+
+INTERCEPT_SECONDARY_GOAL_EMERALD = Перехватите ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~, прежде чем она прибудет на ранчо Эмеральд.
+
+INTERCEPT_SECONDARY_GOAL_LAGRAS = Перехватите ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~, прежде чем она прибудет в Лаграс.
+
+INTERCEPT_SECONDARY_GOAL_MACFARLANE = Перехватите ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~, прежде чем она прибудет на ранчо Макфарлейнов.
+
+INTERCEPT_SECONDARY_GOAL_MANZANITA = Перехватите ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~, прежде чем она прибудет к посту Мансанита.
+
+INTERCEPT_SECONDARY_GOAL_PAINTED_SKY = Перехватите ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~, прежде чем она прибудет на ранчо «Багряный небосвод».
+
+INTERCEPT_SECONDARY_GOAL_RHODES = Перехватите ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~, прежде чем она прибудет в Роудс.
+
+INTERCEPT_SECONDARY_GOAL_RIDGEWOOD = Перехватите ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~, прежде чем она прибудет на ферму Риджвуд.
+
+INTERCEPT_SECONDARY_GOAL_SAINT_DENIS = Перехватите ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~, прежде чем она прибудет в Сен-Дени.
+
+INTERCEPT_SECONDARY_GOAL_TUMBLEWEED = Перехватите ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~, прежде чем она прибудет в Тамблвид.
+

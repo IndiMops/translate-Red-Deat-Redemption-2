@@ -1,0 +1,88 @@
+0xBC0967CB = Кучер остановил фургон, так как вы слишком далеко. Подойдите к фургону и удерживайте ~INPUT_CONTEXT_B~, чтобы он снова поехал.
+
+FETCH_CONVOY_ESCORT_DELIVER = Доставьте повозку из каравана ~1~.
+
+FETCH_CONVOY_ESCORT_DELIVER_TEAM_PRIMARY_FAIL = Игрок ~1~ уничтожил повозку
+
+FETCH_CONVOY_ESCORT_DELIVER_TEAM_PRIMARY_FAIL_NP = Повозка уничтожена
+
+FETCH_CONVOY_ESCORT_DELIVER_TEAM_PRIMARY_FAIL_YOU = Вы уничтожили повозку
+
+FETCH_CONVOY_ESCORT_DELIVER_TEAM_PRIMARY_FAIL_YOUR = Ваш отряд уничтожил повозку
+
+FETCH_CONVOY_ESCORT_DELIVER_TEAM_PRIMARY_PASS = Игрок ~1~ доставил повозку
+
+FETCH_CONVOY_ESCORT_DELIVER_TEAM_PRIMARY_PASS_NP = Повозка пригнана
+
+FETCH_CONVOY_ESCORT_DELIVER_TEAM_PRIMARY_PASS_YOU = Вы доставили повозку
+
+FETCH_CONVOY_ESCORT_DELIVER_TEAM_PRIMARY_PASS_YOUR = Ваш отряд доставил повозку
+
+FETCH_CONVOY_ESCORT_DESTROY = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~караван~s~.
+
+FETCH_CONVOY_ESCORT_ESCORTING = Сопроводите ~COLOR_MP_OBJECTIVE_FRIENDLY~караван~s~ ~1~.
+
+FETCH_CONVOY_ESCORT_FIND = Доберитесь до ~COLOR_MP_OBJECTIVE_NEUTRAL~каравана~s~.
+
+FETCH_CONVOY_ESCORT_HELP_AI_ESCORTING_PED_KILLED = Кучер убит. Возьмите управление повозкой ~1b~ на себя и продолжите движение каравана.
+
+FETCH_CONVOY_ESCORT_HELP_INTRO = Чтобы получить полную награду, благополучно сопроводите до места доставки все повозки из каравана ~1b~ за отведенное время.
+
+FETCH_CONVOY_ESCORT_HELP_SECONDARY_INTRO = Игрок ~1~ начал противостояние с ~2~. Чтобы получить полную награду, уничтожьте караван из повозок ~3b~.
+
+FETCH_CONVOY_ESCORT_HELP_SECONDARY_INTRO_YOU = Вы начали противостояние с ~1~. Чтобы получить полную награду, уничтожьте караван из повозок ~2b~.
+
+FETCH_CONVOY_ESCORT_JOIN_TEAM_SECONDARY = ~COLOR_ENEMY~~1~~s~ перехватывает караван
+
+FETCH_CONVOY_ESCORT_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Соперники~s~ могут атаковать караван
+
+FETCH_CONVOY_ESCORT_RETURN = Вернитесь к ~COLOR_MP_OBJECTIVE_FRIENDLY~каравану~s~.
+
+FETCH_CONVOY_ESCORT_SHARD_OVER = Караван уничтожен
+
+FETCH_CONVOY_ESCORT_SHARD_PRIMARY_FAIL = Повозка из каравана уничтожена
+
+FETCH_CONVOY_ESCORT_SHARD_PRIMARY_FAIL_PLURAL = Караван уничтожен
+
+FETCH_CONVOY_ESCORT_SHARD_PRIMARY_PASS = Повозка из каравана достигла места назначения
+
+FETCH_CONVOY_ESCORT_SHARD_PRIMARY_PASS_PARTIAL = Повозки из каравана достигли места назначения: ~1~/~2~
+
+FETCH_CONVOY_ESCORT_SHARD_PRIMARY_PASS_PLURAL = Караван достиг места назначения
+
+FETCH_CONVOY_ESCORT_SHARD_SECONDARY_FAIL = Повозка из каравана достигла места назначения
+
+FETCH_CONVOY_ESCORT_SHARD_SECONDARY_FAIL_PLURAL = Караван достиг места назначения
+
+FETCH_CONVOY_ESCORT_SHARD_SECONDARY_FAIL_RIVALS = Повозка из каравана уничтожена вражеским отрядом
+
+FETCH_CONVOY_ESCORT_SHARD_SECONDARY_FAIL_RIVALS_PLURAL = Караван уничтожен вражеским отрядом
+
+FETCH_CONVOY_ESCORT_SHARD_SECONDARY_PASS = Повозка из каравана уничтожена
+
+FETCH_CONVOY_ESCORT_SHARD_SECONDARY_PASS_PARTIAL = Повозок из каравана уничтожено: ~1~/~2~
+
+FETCH_CONVOY_ESCORT_SHARD_SECONDARY_PASS_PLURAL = Караван уничтожен
+
+FETCH_CONVOY_ESCORT_SHARD_WAGON_DESC_PRIMARY = Сопроводите ~COLOR_MP_OBJECTIVE_FRIENDLY~караван~s~ к ~COLOR_MP_OBJECTIVE~месту назначения~s~
+
+FETCH_CONVOY_ESCORT_SHARD_WAGON_DESC_SECONDARY = Уничтожьте повозки из каравана
+
+FETCH_CONVOY_ESCORT_STEAL = Сядьте в ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку из каравана~s~.
+
+FETCH_CONVOY_ESCORT_STEAL_PLURAL = Сядьте в ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку из каравана~s~.
+
+FETCH_CONVOY_ESCORT_STEAL_POSSE = Отбейте ~COLOR_MP_OBJECTIVE_ENEMY~повозку из каравана~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_CONVOY_ESCORT_STEAL_POSSE_PLURAL = Отбейте ~COLOR_MP_OBJECTIVE_ENEMY~повозки из каравана~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_CONVOY_ESCORT_TICKER_DESTROY = Повозка уничтожена
+
+FETCH_CONVOY_ESCORT_TICKER_DESTROY_YOU = Вы уничтожили повозку
+
+FETCH_DRIVER_START_CONVOY = Начать движение
+
+FETCH_DRIVER_STOP_CONVOY = Остановить караван
+
+FETCH_HELP_STOP_VEHICLE_CONVOY = Чтобы остановить караван, уберите оружие, удерживайте ~INPUT_CONTEXT_B~ и приблизьтесь к первой повозке.
+

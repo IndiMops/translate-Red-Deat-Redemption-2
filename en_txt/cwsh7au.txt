@@ -1,0 +1,8 @@
+CWSH7_ACTION_1 = ~z~Oh, John was looking for you, Arthur. He's over by the tree behind the campfire.
+
+CWSH7_ACTION_2 = ~z~He was?
+
+CWSH7_ACTION_3 = ~z~
+
+CWSH7_ACTION_4 = ~z~Okay, thank you, Miss Grimshaw.
+

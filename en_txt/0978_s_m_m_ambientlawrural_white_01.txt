@@ -1,0 +1,148 @@
+0x019ABCE9 = ~z~Stop. You ain't free to go just yet, let me take a look at ya.
+
+0x032D7AE7 = ~z~Hey, that's enough.
+
+0x037A467F = ~z~You trying to get on the wrong side of me?
+
+0x038D6BC6 = ~z~If you wanna die, draw.
+
+0x07B31E2E = ~z~Okay then, you're coming with me. Nice and easy now.
+
+0x084B93B2 = ~z~You got a big mouth, don't you?
+
+0x097321AE = ~z~This don't need to be ugly, just come with me now.
+
+0x0F6B6DCD = ~z~Raise them hands or I'll bury you in a shallow grave.
+
+0x1ADF539F = ~z~Hold it, I need a word with you.
+
+0x2B1C0578 = ~z~You know what happened?
+
+0x3E21FF46 = ~z~Now I don't like your manner.
+
+0x4CB1374A = ~z~Hang on, we need to talk.
+
+0x5AB0BB56 = ~z~Now, why would you still be lingering around here?
+
+0x5FFD65B0 = ~z~Lot of good people died round here of late. Would I be right in thinking you knew something about that?
+
+0x6A4C8C36 = ~z~Better stop tormenting them or there'll be trouble.
+
+0x6F400D7C = ~z~Whoa, don't be stupid, put that down.
+
+0x7B1F98DB = ~z~You best mind who you stare at.
+
+0x17DE7870 = ~z~Let's put this son of a bitch down!
+
+0x31C7BFE7 = ~z~You got the idea, keep on going.
+
+0x41E0D114 = ~z~Hey, don't do that.
+
+0x43EC5B24 = ~z~Whoa now, I'd haul in your horns if I was you.
+
+0x53F899F5 = ~z~My guts telling me you're the troublemaking shit here.
+
+0x59F4CE88 = ~z~Best you just give up before you make this any worse, mister.
+
+0x62C2523A = ~z~Get them hands up. You hear me?
+
+0x85AE7D60 = ~z~You're looking up to no good outta anyone else here.
+
+0x87C866FC = ~z~It's time you were long gone, now get.
+
+0x95E6C373 = ~z~Whats the meaning of this here commotion?
+
+0x242B9E01 = ~z~Dismount, right now.
+
+0x261F221A = ~z~Best you just tell me all you know.
+
+0x320EAD2B = ~z~There they are, pour it on them.
+
+0x327A1C14 = ~z~How about I just break ya jaw, that settle you?
+
+0x362A6F86 = ~z~You don't want to fight this one out, it'll only end in peril.
+
+0x538C6051 = ~z~Hey you. Best stop that right now.
+
+0x910E5118 = ~z~Hey, you better holster that iron.
+
+0x939ABE03 = ~z~Hey. Let's get a move on.
+
+0x5772B216 = ~z~You got one chance to live and you shouldn't have that. Give up.
+
+0x6006AACA = ~z~Best you put those hands up or you are dead where you stand.
+
+0x6149D336 = ~z~You better have a good reason to be out here.
+
+0x7353BD90 = ~z~Watch it now.
+
+0x7572C251 = ~z~Hey, do yourself a favor and get someplace else, fast.
+
+0x9139AEFC = ~z~Hold'em high, or else.
+
+0x15037C8B = ~z~Shit. You're going to come with me this second.
+
+0x53305F99 = ~z~Hey. You quit raising hell now.
+
+0x54433E56 = ~z~Alright, get on your way.
+
+0x14617514 = ~z~I ain't a man to be baiting, trust me.
+
+0x66996302 = ~z~Fine, move along.
+
+0xA8C4577C = ~z~I don't see why you're still here?
+
+0xA9A8BE11 = ~z~Put those damn hands up already.
+
+0xA24A857E = ~z~You following me for some reason?
+
+0xA80FB4C4 = ~z~I will kill you standing if you reach for that iron.
+
+0xAEBA4FA3 = ~z~Hold it right there.
+
+0xB0E4A717 = ~z~Get him, now.
+
+0xB4EB1F72 = ~z~When I tell you to stay put you better listen up.
+
+0xB2202D50 = ~z~That's them, drop 'em.
+
+0xBD2F514A = ~z~Be more careful.
+
+0xBF1833CC = ~z~You better do as you're told. I said stop, damn it.
+
+0xC511FD4F = ~z~Damn it, don't.
+
+0xC35424F8 = ~z~Keep moving and I will end you.
+
+0xC235586D = ~z~Gimme a little room, alright?
+
+0xCA996B0C = ~z~Sure you got nothing to tell me?
+
+0xD4F16182 = ~z~Hey, quit bothering that person or else you got me to answer to.
+
+0xD82A425F = ~z~Get the hell out of here.
+
+0xDCC88405 = ~z~Who the hell are you?
+
+0xE50B9C9C = ~z~Hell, you're coming with me if I have to drag you myself.
+
+0xE151B4F5 = ~z~Don't you move a muscle.
+
+0xE1118AD7 = ~z~Someone drop that bastard!
+
+0xED37373D = ~z~Yeah, sure.
+
+0xEE6D7B2A = ~z~Move another inch or you are dead.
+
+0xEF501854 = ~z~Hey, hey, not so fast there, let me see you.
+
+0xF1D212E1 = ~z~Any idea what went on here?
+
+0xF2BCA504 = ~z~You making trouble?
+
+0xFD1CC930 = ~z~Lift them hands or you will die standing.
+
+0xFF60DB12 = ~z~Don't dawdle now, get gone.
+
+0xFF854B5C = ~z~Keep on like this and I'll knock that attitude outta you for free.
+

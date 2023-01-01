@@ -1,0 +1,4 @@
+GAV_UC_NEG = Antagonize
+
+GAV_UC_TALK = Greet
+

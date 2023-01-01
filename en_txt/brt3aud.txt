@@ -1,0 +1,492 @@
+BR3_IG_DB_A_1 = ~z~Come on, this must be it.
+
+BR3_IG_DB_A_2 = ~z~
+
+BR3_IG_DB_A_3 = ~z~I can't see a goddamn thing!
+
+BRT3_ARTH_JACK_1 = ~z~Jack! You in here?
+
+BRT3_BILLDEFEND_01 = ~z~Come on then, you inbred scum!
+
+BRT3_BILLDEFEND_02 = ~z~This family is finished, you hear me?
+
+BRT3_BILLDEFEND_03 = ~z~Steal a goddamn child? You lowdown sons of bitches!
+
+BRT3_COMEON_1 = ~z~C'mon.
+
+BRT3_DEF1_1 = ~z~Look out, more coming from the right!
+
+BRT3_DISBANT_1 = ~z~First Sean, now Jack. We should have stayed out of all this.
+
+BRT3_DISBANT_2 = ~z~Bit late for that, ain't it?
+
+BRT3_DISBANT_3 = ~z~Quiet, we're going to fix this right now.
+
+BRT3_DISBANT_4 = ~z~Like they don't know we're coming...
+
+BRT3_DISMOUNT_1 = ~z~~sl:0.0:3.3~Alright everyone, dismount and come to me.~sl:0.2~We'll go in on foot from here.
+
+BRT3_DRIVEWAY_1 = ~z~Okay, get your heads right. Nobody makes a move until I say so.
+
+BRT3_DTCHORDER2_1 = ~z~Hold them back.
+
+BRT3_DTCHORDER3_1 = ~z~Watch those balconies!
+
+BRT3_DTCHORDER4_1 = ~z~John, Charles, Lenny, more fire on the right.
+
+BRT3_DTCHORDER5_1 = ~z~Behind the pillars!
+
+BRT3_DTCHORDER6_1 = ~z~Hosea, watch your head there!
+
+BRT3_DTCHORDER7_1 = ~z~Rain hell on these sons of bitches!
+
+BRT3_DTCHORDER_1 = ~z~Bill, Javier, cover left.
+
+BRT3_DUTCHUP_1 = ~z~Arthur, get up here and give us a hand!
+
+BRT3_DUTCH_OUT_01 = ~z~Come on, Arthur.
+
+BRT3_DUTCH_OUT_02 = ~z~Let's go, Arthur.
+
+BRT3_DUTCH_OUT_03 = ~z~What are you doing, Arthur? Get over here.
+
+BRT3_DUTDRAG_1 = ~z~Let's get this hag outside. Any more of her sons to deal with?
+
+BRT3_DUTDRAG_2 = ~z~
+
+BRT3_DUTDRAG_3 = ~z~~sl:0.0:2.4:1~Nope, reckon they're all dead.
+
+BRT3_DUTDRAG_4 = ~z~~sl:0.4:2.1~Nooo! ~sl:0.8:0.6:1~No!
+
+BRT3_DUTDRAG_5 = ~z~That's right, burn this dump to the ground!
+
+BRT3_DUTDRAG_6 = ~z~You boys sure Jack ain't in here?
+
+BRT3_DUTDRAG_7 = ~z~We searched everywhere, Dutch.
+
+BRT3_DUTDRAG_8 = ~z~
+
+BRT3_EXT_1 = ~z~I never liked you.
+
+BRT3_EXT_2 = ~z~Why'd you take the boy, Mrs. Braithwaite?
+
+BRT3_EXT_3 = ~z~You stole my liquor. ~n~~m~Boys are off limits.
+
+BRT3_EXT_4 = ~z~You stole my horses.
+
+BRT3_EXT_5 = ~z~Ain't no rules in war, Mr...
+
+BRT3_EXT_6 = ~z~Matthews.
+
+BRT3_EXT_7 = ~z~Yes...
+
+BRT3_EXT_8 = ~z~yes, that's it.
+
+BRT3_EXT_9 = ~z~Where's the boy?
+
+BRT3_EXT_10 = ~z~My sons gave him to Angelo Bronte.
+
+BRT3_EXT_11 = ~z~So my guess is Saint Denis.
+
+BRT3_EXT_12 = ~z~Either there...
+
+BRT3_EXT_13 = ~z~or on the boat to Italy.
+
+BRT3_EXT_14 = ~z~Let's go.
+
+BRT3_EXT_15 = ~z~Arthur, come on!
+
+BRT3_EXT_16 = ~z~What we doing with her?
+
+BRT3_EXT_17 = ~z~Leave her.
+
+BRT3_EXT_18 = ~z~I told you she was crazy.
+
+BRT3_FLEE_1 = ~z~Looks like they're running!
+
+BRT3_GATEDAWD_01 = ~z~Arthur, are you coming or what? We don't have all day.
+
+BRT3_GATEDAWD_02 = ~z~Arthur. Arthur, we can't do this without you.
+
+BRT3_GETRIFLE_01 = ~z~There's a rifle over there if you want it.
+
+BRT3_GETRIFLE_02 = ~z~Grab the rifle by the chair if you need it.
+
+BRT3_GODOWNDUT_01 = ~z~Arthur, you check downstairs.
+
+BRT3_GODOWNDUT_02 = ~z~We've got it covered up here.
+
+BRT3_GODOWNDUT_03 = ~z~I need you searching downstairs, Arthur.
+
+BRT3_GODOWNHOS_01 = ~z~Dutch and I have things covered up here, Arthur.
+
+BRT3_GODOWNHOS_02 = ~z~What are you doing up here? Go help out downstairs.
+
+BRT3_GODOWNHOS_03 = ~z~You should go help John look downstairs.
+
+BRT3_GO_RND_01 = ~z~Did you find another way in?
+
+BRT3_GO_RND_02 = ~z~I told you, there's no getting in this way, they've got it blocked.
+
+BRT3_GO_RND_03 = ~z~What are you doing? Go around and help John.
+
+BRT3_GO_UP_01 = ~z~Arthur! We need some help up here!
+
+BRT3_GO_UP_02 = ~z~You hearing me, Arthur? Get up here!
+
+BRT3_GO_UP_03 = ~z~Arthur, we need you up here now!
+
+BRT3_HLD_FLNK_01 = ~z~Arthur, they're pouring in the side here!
+
+BRT3_HLD_FLNK_02 = ~z~Are you gonna help me out here?
+
+BRT3_HLD_FLNK_03 = ~z~Really need some more fire over here!
+
+BRT3_HLD_OFF_01 = ~z~What are you doing? Get out there and hold them off.
+
+BRT3_HLD_OFF_02 = ~z~We've got this door covered, you help them out there!
+
+BRT3_HLD_OFF_03 = ~z~Doesn't sound good out there, Arthur.
+
+BRT3_HOLD_1 = ~z~Shit! John, Arthur, we'll hold them down here.
+
+BRT3_IG5_GOTTHT_1 = ~z~~sl:0.0:1.5:1~You got that one, Arthur?
+
+BRT3_IG5_P4_1 = ~z~Uh-uh.
+
+BRT3_IG5_P4_2 = ~z~
+
+BRT3_IG5_P4_3 = ~z~~sl:0.0:2.0:1~Yeah... come here...
+
+BRT3_IG5_P4_4 = ~z~
+
+BRT3_IG5_P4_5 = ~z~
+
+BRT3_IG5_P4_6 = ~z~
+
+BRT3_IG5_P4_7 = ~z~
+
+BRT3_IG5_P4_8 = ~z~You damn yankee.
+
+BRT3_IG5_P4_9 = ~z~~sl:0.3:0.9:1~There you go.
+
+BRT3_IG8_P2A_1 = ~z~~sl:0.0:1.6~I'll kill something else you love~sl:~if you don't tell me where his son is.
+
+BRT3_IG8_P2A_2 = ~z~
+
+BRT3_IG8_P2B_1 = ~z~Out with it.
+
+BRT3_IG8_P2B_2 = ~z~
+
+BRT3_IG8_P2B_3 = ~z~You tell me what I wanna hear.
+
+BRT3_IG8_P2C_1 = ~z~Where's the boy?
+
+BRT3_IG8_P2C_2 = ~z~You tell me where he is.
+
+BRT3_IG9_JHTRCH_1 = ~z~
+
+BRT3_IG9_JHTRCH_2 = ~z~I guess that's the end of the goddamn cribbage game.
+
+BRT3_IG9_JHTRCH_3 = ~z~
+
+BRT3_IG_DB_B_1 = ~z~
+
+BRT3_IG_DB_B_2 = ~z~~sl:0.0:1.5~Come on, that's enough!~sl:~Help me break this door in!
+
+BRT3_IG_DB_B_3 = ~z~
+
+BRT3_IG_DB_C_1 = ~z~~sl:0.0:0.9~What are you doing, Arthur?~sl:~Let's get in there!
+
+BRT3_IG_DB_D_1 = ~z~Get over here, will you?
+
+BRT3_IG_DB_E_1 = ~z~It's blocked, but I reckon it might give.
+
+BRT3_IG_DB_E_2 = ~z~
+
+BRT3_IG_DB_F_1 = ~z~
+
+BRT3_IG_DB_G_1 = ~z~~sl:0.0:1.0~What are you doing, Arthur?~sl:~Let's get in there.
+
+BRT3_IG_DB_G_2 = ~z~
+
+BRT3_IG_DB_OPEN_1 = ~z~~sl:0.0:1.5~One... Two...~sl:0.2~Three.
+
+BRT3_IG_DB_OPEN_2 = ~z~
+
+BRT3_IG_DK_1 = ~z~Get in there!
+
+BRT3_IG_DK_2 = ~z~Find Jack!
+
+BRT3_IG_DK_3 = ~z~And find that Braithwaite woman!
+
+BRT3_IG_DK_ART_1 = ~z~Arthur!
+
+BRT3_IG_DK_CO_1 = ~z~Come on!
+
+BRT3_IG_DK_FJ_1 = ~z~Get in there!
+
+BRT3_IG_DK_FJ_2 = ~z~We have to find Jack!
+
+BRT3_IG_GEST_1 = ~z~
+
+BRT3_IG_GEST_2 = ~z~Jack!
+
+BRT3_IG_GEST_3 = ~z~Are you in there?
+
+BRT3_IG_GEST_4 = ~z~Open the goddamn door!
+
+BRT3_IG_SRH_1_1 = ~z~~sl:0.0:0.9~Jack!~sl:0.1~Jack, can you hear me?
+
+BRT3_IG_SRH_1_2 = ~z~
+
+BRT3_IG_SRH_1_3 = ~z~
+
+BRT3_IG_SRH_1_4 = ~z~~sl:0.0:1.2:1~Jack!
+
+BRT3_IG_SRH_1_5 = ~z~~sl:0.0:1.3:1~Where are you?
+
+BRT3_IG_SRH_1_6 = ~z~
+
+BRT3_IG_SRH_1_7 = ~z~~sl:0.0:1.2:1~Jack!
+
+BRT3_IG_SRH_2_1 = ~z~
+
+BRT3_IG_SRH_2_2 = ~z~~sl:0.0:1.1~Barricaded...~sl:0.1~this must be where they're holed up...
+
+BRT3_IG_SRH_2_3 = ~z~~sl:0.9:0.9~There's something...~sl:0.1~pushed up against it...
+
+BRT3_IG_WALK_1 = ~z~Come on, let's get this done.
+
+BRT3_IG_WALK_2 = ~z~John, you sure you're okay?
+
+BRT3_IG_WALK_3 = ~z~Like I said, I'm fine.
+
+BRT3_IG_WALK_4 = ~z~Follow my lead.
+
+BRT3_IG_WALK_5 = ~z~Both these redneck families think they can ruin us? I don't think so...
+
+BRT3_IG_WALK_6 = ~z~There they are.
+
+BRT3_IG_WALK_7 = ~z~Who steals a goddamn boy?
+
+BRT3_IG_WALK_8 = ~z~I'm gonna let fly at those sons of bitches.
+
+BRT3_IG_WALK_9 = ~z~John, I need you to stay calm.
+
+BRT3_IG_WALK_10 = ~z~Get down here now!
+
+BRT3_IG_WALK_11 = ~z~You inbred trash.
+
+BRT3_IG_WALK_12 = ~z~What the hell do you want?
+
+BRT3_IG_WALK_13 = ~z~Easy, John.
+
+BRT3_IG_WALK_14 = ~z~We've come for the boy.
+
+BRT3_IG_WALK_15 = ~z~You must've known we would.
+
+BRT3_IG_WALK_16 = ~z~~sl:0.0:2.3~Shouldn't have messed with our business now,~sl:~should you?
+
+BRT3_IG_WALK_17 = ~z~~sl:0.4:2.8~Whatever complaint you have with us,~sl:~alleged...
+
+BRT3_IG_WALK_18 = ~z~or otherwise...
+
+BRT3_IG_WALK_19 = ~z~That is a young boy.
+
+BRT3_IG_WALK_20 = ~z~That is not the way you do things.
+
+BRT3_IG_WALK_21 = ~z~Hand him over.
+
+BRT3_IG_WALK_22 = ~z~Get the hell off our land.
+
+BRT3_IG_WALK_23 = ~z~If you ain't gonna be civilized about this...
+
+BRT3_INCOMING_1 = ~z~We got more coming in!
+
+BRT3_INCOMING_2 = ~z~Arthur, get out there! We've got this door covered.
+
+BRT3_INT_1 = ~z~Arthur, have you seen the boy, Jack?
+
+BRT3_INT_2 = ~z~No.
+
+BRT3_INT_3 = ~z~Where's my goddamn son?
+
+BRT3_INT_4 = ~z~Where is he? Where's my son?
+
+BRT3_INT_5 = ~z~They took him didn't they?
+
+BRT3_INT_6 = ~z~They took my son!
+
+BRT3_INT_7 = ~z~Who took him?
+
+BRT3_INT_8 = ~z~We think the Braithwaite woman took him.
+
+BRT3_INT_9 = ~z~That Kieran saw a couple of fellers...
+
+BRT3_INT_10 = ~z~sound like Braithwaite boys.
+
+BRT3_INT_11 = ~z~Where's my son? If anything...
+
+BRT3_INT_12 = ~z~where is my son, Dutch van der Linde?
+
+BRT3_INT_13 = ~z~We will find him, we will bring him back to you...
+
+BRT3_INT_14 = ~z~and we will kill any fool that had the temerity...
+
+BRT3_INT_15 = ~z~to touch one hair on that boy's head.
+
+BRT3_INT_16 = ~z~Abigail, you have my word.
+
+BRT3_INT_17 = ~z~Just get me back my son.
+
+BRT3_INT_18 = ~z~I will get that boy back, so help me God...
+
+BRT3_INT_19 = ~z~right now.
+
+BRT3_INT_20 = ~z~Dutch, we just heard about Jack.
+
+BRT3_INT_21 = ~z~You need some extra guns?
+
+BRT3_INT_22 = ~z~Yeah, why not?
+
+BRT3_INT_23 = ~z~Micah, Kieran, anyone strange turns up...
+
+BRT3_INT_24 = ~z~you kill 'em!
+
+BRT3_INT_25 = ~z~Rest of you, let's ride.
+
+BRT3_INT_LIF_1 = ~z~Arthur, have you seen that boy, Jack?
+
+BRT3_INT_LIF_2 = ~z~No.
+
+BRT3_INT_LOOPA_01 = ~z~~sl:0.0:2.5~Everybody, just stay calm.~sl:0.0:2.4~Now is not the time to get hysterical.~sl:0.2~We are gonna find that boy.
+
+BRT3_INT_LOOPA_02 = ~z~~sl:0.0:1.2~Calm down.~sl:1.0~This'll all be okay.
+
+BRT3_INT_LOOPA_03 = ~z~~sl:0.0:1.3~We have everybody looking.~sl:0.5~We will find the boy.
+
+BRT3_INT_LOOPA_04 = ~z~~sl:0.0:1.9~Don't be concerned.~sl:~Everybody is doing all they can to find this child.
+
+BRT3_INT_LOOPA_05 = ~z~~sl:0.0:1.4~I promise you,~sl:0.0~we will find the boy.
+
+BRT3_INT_LOOPA_06 = ~z~~sl:0.0:1.3~Calm down.~sl:0.3:1.7~Everybody just relax.~sl:0.9~We are doing all we can.
+
+BRT3_INT_LOOPA_07 = ~z~~sl:0.0:1.5~We are gonna find the boy,~sl:~I promise you.
+
+BRT3_INT_LOOPA_08 = ~z~~sl:0.0:1.1~Relax.~sl:~Everybody just calm down.
+
+BRT3_INT_LOOPA_09 = ~z~Don't get hysterical.
+
+BRT3_INT_LOOPA_10 = ~z~We will find the boy.
+
+BRT3_INT_LOOPA_11 = ~z~Take a deep breath, okay?
+
+BRT3_INT_LOOPA_12 = ~z~~sl:0.0:1.6~Everybody just calm down.~sl:0.2:1.6~Now I know you're worried,~sl:0.6:1.9~but we have everybody looking for him~sl:~and we are gonna find this boy.
+
+BRT3_INT_LOOPA_13 = ~z~Calm down.
+
+BRT3_INT_LOOPA_14 = ~z~~sl:0.0:1.3~We're looking for him.~sl:0.3~Everybody's out there right now.
+
+BRT3_INT_LOOPA_15 = ~z~Relax.
+
+BRT3_INT_LOOPA_16 = ~z~I know you worry.
+
+BRT3_JAVDEFEND_01 = ~z~We've got you covered up there!
+
+BRT3_JAVDEFEND_02 = ~z~Tell us where the boy is!
+
+BRT3_JAVDEFEND_03 = ~t~In Spanish: We are going to kill them all!
+
+BRT3_JOHNUP_01 = ~z~Let's go help Dutch.
+
+BRT3_JOHNUP_02 = ~z~Jack's not down here, let's go check upstairs.
+
+BRT3_JOHNUP_03 = ~z~Come on, we should go see what Dutch wants up there.
+
+BRT3_KEEP_WATCH_1 = ~z~Arthur, John, Hosea, with me.
+
+BRT3_KEEP_WATCH_2 = ~z~The rest of you, watch out here for any other arrivals.
+
+BRT3_LEAVECAMP_1 = ~z~Okay, let's go get that boy back.
+
+BRT3_MCS2_1 = ~z~You want me to kill you too, old woman?
+
+BRT3_MCS2_2 = ~z~You bastards.
+
+BRT3_MCS2_3 = ~z~Where's the boy?
+
+BRT3_MCS2_4 = ~z~We have lived in this house for a hundred and twenty years.
+
+BRT3_MCS2_5 = ~z~We never had no problems 'cept for Yankees.
+
+BRT3_MCS2_6 = ~z~Where is the boy?
+
+BRT3_MCS2_7 = ~z~Who took him?
+
+BRT3_MCS2_8 = ~z~You killed my sons.
+
+BRT3_MCS2_9 = ~z~Oh, and I will surely kill the rest of them...
+
+BRT3_MCS2_10 = ~z~unless you start talking.
+
+BRT3_MCS2_11 = ~z~Oh, I know your type.
+
+BRT3_MCS2_12 = ~z~Common scum.
+
+BRT3_MCS2_13 = ~z~Where is the boy?
+
+BRT3_MCS2_14 = ~z~You filth.
+
+BRT3_MCS2_15 = ~z~Alright, we get her outta here.
+
+BRT3_MCS2_16 = ~z~And what about them?
+
+BRT3_RIDEBANTERSHOUTED_5 = ~z~~sl:0.0:3.6~I don't know, ~rp~but we are getting him back and they will pay.~sl:0.1~~rp~I promise you that.
+
+BRT3_RIDEBANTERSHOUTED_15 = ~z~~sl:0.0:4.4~Enough talk. ~rp~There's no point arguing how we got here,~rp~~sl:0.2~this is where we are. ~rp~And we are going to fix it.
+
+BRT3_RIDEBANTERSPOKEN_5 = ~z~~sl:0.0:3.4~I don't know, ~rp~but we are getting him back and they will pay.~sl:0.1~~rp~I promise you that.
+
+BRT3_RIDEBANTERSPOKEN_15 = ~z~~sl:0.0:4.2~Enough talk. ~rp~There's no point arguing how we got here,~rp~~sl:0.2~this is where we are. ~rp~And we are going to fix it.
+
+BRT3_RIDEBANTER_1 = ~z~I swear,~rp~ I'll kill everyone there.
+
+BRT3_RIDEBANTER_2 = ~z~Easy, John. ~rp~Try to stay calm.
+
+BRT3_RIDEBANTER_3 = ~z~I'm fine.
+
+BRT3_RIDEBANTER_4 = ~z~How the hell did they get to him?
+
+BRT3_RIDEBANTER_6 = ~z~What about the gold?
+
+BRT3_RIDEBANTER_7 = ~z~Who gives a damn about the gold? ~rp~They got Jack.
+
+BRT3_RIDEBANTER_8 = ~z~I hate to break it to you, ~rp~but... I don't think there is any gold.
+
+BRT3_RIDEBANTER_9 = ~z~Or if there is, it's hidden somewhere no one knows.
+
+BRT3_RIDEBANTER_10 = ~z~What?
+
+BRT3_RIDEBANTER_11 = ~z~I've turned every stone.
+
+BRT3_RIDEBANTER_12 = ~z~For Christ's sake, Hosea. ~rp~After all that? ~rp~Another perfect scam.
+
+BRT3_RIDEBANTER_13 = ~z~We underestimated them.
+
+BRT3_RIDEBANTER_14 = ~z~No, ~rp~they underestimated us.
+
+BRT3_RIDEBANTER_16 = ~z~So come on!
+
+BRT3_SETOFFSHOUTED_3 = ~z~~sl:0.0:1.9~I know, I heard...~sl:0.0:5.0~about Sean too. I don't wanna even think about that right now.~sl:~We have to focus on Jack.
+
+BRT3_SETOFFSPOKEN_3 = ~z~~sl:0.0:1.6~I know, I heard...~sl:0.0:4.1~about Sean too. I don't wanna even think about that right now.~sl:~We have to focus on Jack.
+
+BRT3_SETOFF_1 = ~z~They must've figured out what we was up to, Dutch.
+
+BRT3_SETOFF_2 = ~z~Yeah, we just got shot to hell by the Grays in town.
+
+BRT3_STDY_AMB_1 = ~z~~sl:0.0:0.5~Jack?~sl:~Oh, shit!
+
+BRT3_WHEREDOOR_1 = ~z~Now, let's find a way into that room.
+

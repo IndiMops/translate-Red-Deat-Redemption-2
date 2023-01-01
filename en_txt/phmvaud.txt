@@ -1,0 +1,36 @@
+PRHMV_1_DEAD_1 = ~z~Shit! Oh, you goddamn bastard.
+
+PRHMV_1_HEAR_1_1 = ~z~What was that?
+
+PRHMV_1_HEAR_1_2 = ~z~Not me. Better take care of it.
+
+PRHMV_1_HEAR_2_1 = ~z~What the hell?
+
+PRHMV_1_SEE_1_1 = ~z~Hey, looks like the cat got curious.
+
+PRHMV_1_SEE_1_2 = ~z~Well, get him quick then.
+
+PRHMV_1_STEAL_1_1 = ~z~Hey... hey, hey! What the hell you think you're doing?
+
+PRHMV_2_DEAD_1 = ~z~Damn you! Damn you!
+
+PRHMV_2_HEAR_1_1 = ~z~Shit, they found us!
+
+PRHMV_2_HEAR_1_2 = ~z~You don't know that.  Just stay sharp.
+
+PRHMV_2_HEAR_2_1 = ~z~Huh, was that a squirrel or something?
+
+PRHMV_2_SEE_1_1 = ~z~Ah, we've been found!
+
+PRHMV_2_SEE_1_2 = ~z~Yeah? Well, not for long.
+
+PRHMV_2_STEAL_1_1 = ~z~What the- you out of your damn mind?
+
+PRHMV_AILO_WKN1_1 = ~z~Hey, what are you two pieces of shit doing in this dump?
+
+PRHMV_AILO_WKP1_1 = ~z~Looks like I missed a good party, boys.
+
+PRHMV_JILO_WKN1_1 = ~z~Hey, what are you two pieces of shit doing in this dump?
+
+PRHMV_JILO_WKP1_1 = ~z~Looks like I missed a good party, boys
+

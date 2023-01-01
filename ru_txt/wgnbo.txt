@@ -1,0 +1,202 @@
+0x982B00EA = Доставьте ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенных~s~ на железнодорожную станцию Макфарлейн
+
+0xD12B94AD = Покиньте повозку.
+
+FETCH_WAGON_BREAK_DELIVER_TO = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенного~s~ ~1~.
+
+FETCH_WAGON_BREAK_DELIVER_TO_PLURAL = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенных~s~ ~1~.
+
+FETCH_WAGON_BREAK_DELIVER_TO_SECONDARY = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенного~s~ ~1~.
+
+FETCH_WAGON_BREAK_DELIVER_TO_SECONDARY_PLURAL = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенных~s~ ~1~.
+
+FETCH_WAGON_BREAK_DELIVER_VEHICLE_TO = Приведите заключенного ~1~.
+
+FETCH_WAGON_BREAK_DELIVER_VEHICLE_TO_PLURAL = Приведите заключенных ~1~.
+
+FETCH_WAGON_BREAK_DELIVER_VEHICLE_TO_SECONDARY = Приведите заключенного ~1~.
+
+FETCH_WAGON_BREAK_DELIVER_VEHICLE_TO_SECONDARY_PLURAL = Приведите заключенных ~1~.
+
+FETCH_WAGON_BREAK_ESCAPING = ~COLOR_MP_OBJECTIVE_NEUTRAL~Повозка с заключенными~s~ уходит!
+
+FETCH_WAGON_BREAK_FIND = Помогите ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенному~s~ сбежать из повозки.
+
+FETCH_WAGON_BREAK_FIND_GOTO = Доберитесь до ~COLOR_MP_OBJECTIVE_NEUTRAL~повозки~s~.
+
+FETCH_WAGON_BREAK_FIND_GOTO_PLURAL = Доберитесь до ~COLOR_MP_OBJECTIVE_NEUTRAL~повозки~s~.
+
+FETCH_WAGON_BREAK_FIND_PLURAL = Помогите ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенным~s~ сбежать из повозки.
+
+FETCH_WAGON_BREAK_HELP_CONTROL = При помощи ~INPUT_INTERACT_LOCKON~ сфокусируйтесь на заключенном ~1b~, чтобы вести его самому.
+
+FETCH_WAGON_BREAK_HELP_FOLLOW = Заключенный ~1b~ следует за вами. Отведите его к месту доставки.
+
+FETCH_WAGON_BREAK_HELP_HOGTIED = Освободите заключенного при помощи ~INPUT_CUT_FREE~ или подберите его с помощью ~INPUT_PICKUP_CARRIABLE~.
+
+FETCH_WAGON_BREAK_HELP_INTRO = Чтобы получить полную награду, освободите заключенного из тюремной повозки ~1b~ и отведите его к месту доставки.
+
+FETCH_WAGON_BREAK_HELP_INTRO_MOVING = Тюремная повозка ~1b~ в пути. Спасите заключенного до того, как повозка достигнет места назначения.
+
+FETCH_WAGON_BREAK_HELP_INTRO_MOVING_PLURAL = Тюремная повозка ~1b~ в пути. Спасите заключенных до того, как повозка достигнет места назначения.
+
+FETCH_WAGON_BREAK_HELP_INTRO_PLURAL = Чтобы получить полную награду, освободите заключенных из тюремной повозки ~1b~ и отведите их всех к месту доставки.
+
+FETCH_WAGON_BREAK_HELP_INTRO_SECONDARY = Игрок ~1~ начал противостояние с ~2~. Чтобы получить полную награду, сдайте заключенного ~3b~.
+
+FETCH_WAGON_BREAK_HELP_INTRO_SECONDARY_PLURAL = Игрок ~1~ начал противостояние с ~2~. Чтобы получить полную награду, сдайте всех заключенных ~3b~.
+
+FETCH_WAGON_BREAK_HELP_INTRO_SECONDARY_PLURAL_YOU = Вы начали противостояние с ~1~. Чтобы получить полную награду, сдайте всех заключенных ~2b~.
+
+FETCH_WAGON_BREAK_HELP_INTRO_SECONDARY_YOU = Вы начали противостояние с ~1~. Чтобы получить полную награду, сдайте заключенного ~2b~.
+
+FETCH_WAGON_BREAK_HELP_OBJECTIVE_ESCAPING_HOGTIE = Заключенные ~1b~ убегают из тюремной повозки. Используйте лассо, чтобы связать и привести их к месту доставки.
+
+FETCH_WAGON_BREAK_HELP_OBJECTIVE_ESCAPING_PRIMARY = Заключенный ~1b~ ушел слишком далеко и скоро сможет скрыться.
+
+FETCH_WAGON_BREAK_HELP_OBJECTIVE_ESCAPING_SECONDARY = Заключенный ~1b~ ушел слишком далеко и скоро сможет избежать повторной поимки.
+
+FETCH_WAGON_BREAK_HELP_UNLOCK_VEHICLE_APPROACH = Чтобы освободить заключенных, захватите тюремную повозку ~1b~ или остановите повозку и сбейте с нее замок, выстрелив по нему.
+
+FETCH_WAGON_BREAK_KILL_AMBUSHERS = Убейте всех ~COLOR_ENEMY~свидетелей~s~.
+
+FETCH_WAGON_BREAK_OBJ_DEFEND_PRISONER_TO = Помогите защитить ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенного~s~ по пути ~1~.
+
+FETCH_WAGON_BREAK_OBJ_DEFEND_PRISONER_TO_PLURAL = Помогите защитить ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенных~s~ по пути ~1~.
+
+FETCH_WAGON_BREAK_OBJ_DEFEND_VEHICLE_TO = Помогите защитить ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенного~s~ по пути ~1~.
+
+FETCH_WAGON_BREAK_OBJ_DEFEND_VEHICLE_TO_PLURAL = Помогите защитить ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенных~s~ по пути ~1~.
+
+FETCH_WAGON_BREAK_OBJ_DESTROY = Убейте ~COLOR_MP_OBJECTIVE_ENEMY~заключенных~s~.
+
+FETCH_WAGON_BREAK_OBJ_DROP = Опустите ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенного~s~ на ~COLOR_MP_OBJECTIVE~землю~s~.
+
+FETCH_WAGON_BREAK_OBJ_GET_ON_MOUNT = Садитесь на лошадь.
+
+FETCH_WAGON_BREAK_OBJ_RETURN = Вернитесь к ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенному~s~.
+
+FETCH_WAGON_BREAK_OBJ_RETURN_PLURAL = Вернитесь к ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенным~s~.
+
+FETCH_WAGON_BREAK_OBJ_RETURN_VEHICLE = Вернитесь к ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенному~s~.
+
+FETCH_WAGON_BREAK_OBJ_RETURN_VEHICLE_PLURAL = Вернитесь к ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенным~s~.
+
+FETCH_WAGON_BREAK_OBJ_STEAL_VEHICLE = Освободите заключенного из повозки.
+
+FETCH_WAGON_BREAK_OBJ_STEAL_VEHICLE_PLURAL = Освободите заключенных из повозки.
+
+FETCH_WAGON_BREAK_OBJ_STEAL_VEHICLE_SECONDARY = Сядьте в ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~.
+
+FETCH_WAGON_BREAK_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Соперники~s~ могут перехватить заключенного
+
+FETCH_WAGON_BREAK_PVP_GLOBAL_SIGNAL_PLURAL = ~COLOR_ENEMY~Соперники~s~ могут сдавать заключенных
+
+FETCH_WAGON_BREAK_SCORETIMER_CLEANUP_RADIUS = Вы упустили заключенного
+
+FETCH_WAGON_BREAK_SCORETIMER_DELIVER_TEAM_PRIMARY_FAIL = Игрок ~1~ сдал заключенного
+
+FETCH_WAGON_BREAK_SCORETIMER_DELIVER_TEAM_PRIMARY_FAIL_NP = Заключенный передан
+
+FETCH_WAGON_BREAK_SCORETIMER_DELIVER_TEAM_PRIMARY_FAIL_YOU = Вы сдали заключенного
+
+FETCH_WAGON_BREAK_SCORETIMER_DELIVER_TEAM_PRIMARY_FAIL_YOUR = Ваш отряд сдал заключенного
+
+FETCH_WAGON_BREAK_SCORETIMER_DELIVER_TEAM_PRIMARY_PASS = Игрок ~1~ доставил заключенного
+
+FETCH_WAGON_BREAK_SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_NP = Заключенный доставлен
+
+FETCH_WAGON_BREAK_SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_YOU = Вы доставили заключенного
+
+FETCH_WAGON_BREAK_SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_YOUR = Ваш отряд доставил заключенного
+
+FETCH_WAGON_BREAK_SCORETIMER_DESTROY = ~COLOR_MP_OBJECTIVE_NEUTRAL~Заключенный~s~ был убит
+
+FETCH_WAGON_BREAK_SCORETIMER_DESTROY_YOU = Вы убили ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенного~s~.
+
+FETCH_WAGON_BREAK_SCORETIMER_ESCORT_TEAM_PRIMARY = ~1~ сопровождает заключенного
+
+FETCH_WAGON_BREAK_SCORETIMER_ESCORT_TEAM_SECONDARY = ~1~ доставляет заключенного
+
+FETCH_WAGON_BREAK_SCORETIMER_ESCORT_YOU_TEAM_PRIMARY = Вы сопровождаете ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенного~s~
+
+FETCH_WAGON_BREAK_SCORETIMER_ESCORT_YOU_TEAM_SECONDARY = Вы доставляете заключенного
+
+FETCH_WAGON_BREAK_SCORETIMER_JOIN_SECONDARY = ~COLOR_ENEMY~~1~~s~ собирается сдать заключенного.
+
+FETCH_WAGON_BREAK_SCORETIMER_JOIN_SECONDARY_PLURAL = ~COLOR_ENEMY~~1~~s~ собирается сдать заключенных
+
+FETCH_WAGON_BREAK_SCORETIMER_TRIGGER_ACTION = Игрок ~1~ привлек внимание ~COLOR_ENEMY~законников~s~
+
+FETCH_WAGON_BREAK_SHARD_CARRY = Подберите ~COLOR_MP_OBJECTIVE_NEUTRAL~связанного заключенного~s~.
+
+FETCH_WAGON_BREAK_SHARD_CARRY_PLURAL = Подберите ~COLOR_MP_OBJECTIVE_NEUTRAL~связанных заключенных~s~.
+
+FETCH_WAGON_BREAK_SHARD_DESC_PRIMARY = Спасите находящегося в повозке ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенного~s~
+
+FETCH_WAGON_BREAK_SHARD_DESC_PRIMARY_PLURAL = Спасите находящихся в повозке ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенных~s~
+
+FETCH_WAGON_BREAK_SHARD_DESC_SECONDARY = Доставьте ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенного~s~ в участок шерифа
+
+FETCH_WAGON_BREAK_SHARD_DESC_SECONDARY_PLURAL = Доставьте ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенных~s~ в участок шерифа
+
+FETCH_WAGON_BREAK_SHARD_DESC_SECONDARY_PLURAL_RIGGS_STATION = Доставьте ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенных~s~ на станцию Риггс
+
+FETCH_WAGON_BREAK_SHARD_DESC_SECONDARY_PLURAL_VAN_HORN = Доставьте ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенных~s~ на торговый пост Ван-Хорн
+
+FETCH_WAGON_BREAK_SHARD_DESC_SECONDARY_RIGGS_STATION = Доставьте ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенного~s~ на станцию Риггс
+
+FETCH_WAGON_BREAK_SHARD_DESC_SECONDARY_TRAIN_STATION_MACFARLANE = Доставьте ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенного~s~ на железнодорожную станцию Макфарлейн
+
+FETCH_WAGON_BREAK_SHARD_DESC_SECONDARY_VAN_HORN = Доставьте ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенного~s~ на торговый пост Ван-Хорн
+
+FETCH_WAGON_BREAK_SHARD_DESTROYED = Заключенный убит
+
+FETCH_WAGON_BREAK_SHARD_DESTROYED_PLURAL = Заключенные убиты
+
+FETCH_WAGON_BREAK_SHARD_FAIL = Заключенный не освобожден
+
+FETCH_WAGON_BREAK_SHARD_FAIL_PLURAL = Заключенные не освобождены
+
+FETCH_WAGON_BREAK_SHARD_HOGTIE = Свяжите ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенного~s~.
+
+FETCH_WAGON_BREAK_SHARD_HOGTIE_PLURAL = Свяжите ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенных~s~.
+
+FETCH_WAGON_BREAK_SHARD_PRIMARY_PASS = Заключенный освобожден
+
+FETCH_WAGON_BREAK_SHARD_PRIMARY_PASS_PARTIAL = Заключенных освобождено: ~1~/~2~
+
+FETCH_WAGON_BREAK_SHARD_PRIMARY_PASS_PLURAL = Заключенные освобождены
+
+FETCH_WAGON_BREAK_SHARD_SECONDARY_FAIL = Заключенный освобожден
+
+FETCH_WAGON_BREAK_SHARD_SECONDARY_FAIL_PLURAL = Заключенные освобождены
+
+FETCH_WAGON_BREAK_SHARD_SECONDARY_FAIL_RIVALS = Заключенный сдан вражеским отрядом
+
+FETCH_WAGON_BREAK_SHARD_SECONDARY_FAIL_RIVALS_PLURAL = Заключенные были сданы вражеским отрядом
+
+FETCH_WAGON_BREAK_SHARD_SECONDARY_PASS = Заключенный передан
+
+FETCH_WAGON_BREAK_SHARD_SECONDARY_PASS_PARTIAL = Заключенных передано: ~1~/~2~
+
+FETCH_WAGON_BREAK_SHARD_SECONDARY_PASS_PLURAL = Заключенные переданы
+
+FETCH_WAGON_BREAK_STEAL = Идите к ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенному~s~.
+
+FETCH_WAGON_BREAK_STEAL_FROM_POSSE = Отбейте ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенного~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_WAGON_BREAK_STEAL_FROM_POSSE_PLURAL = Отбейте ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенных~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_WAGON_BREAK_STEAL_FROM_POSSE_PVP = Перехватите ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенного~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_WAGON_BREAK_STEAL_FROM_POSSE_PVP_PLURAL = Перехватите ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенных~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_WAGON_BREAK_STEAL_PLURAL = Идите к ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенным~s~.
+
+FETCH_WAGON_BREAK_UNLOCK_VEHICLE = Сбейте выстрелом замок с ~COLOR_MP_OBJECTIVE_NEUTRAL~повозки~s~.
+
+FETCH_WAGON_BREAK_UNTIE = Освободите связанного ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенного~s~.
+
+FETCH_WAGON_BREAK_UNTIE_PLURAL = Освободите связанных ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенных~s~.
+

@@ -1,0 +1,252 @@
+SPTIM_IG1_P2A_1 = ~z~One book to happiness. One book to the truth.
+
+SPTIM_IG1_P2A_2 = ~z~One book to the future. My book.
+
+SPTIM_IG1_P2A_3 = ~z~My book about the path to eternal joy... money!
+
+SPTIM_IG1_P2A_4 = ~z~Be rich. Sir, madam... make something of yourselves.
+
+SPTIM_IG1_P2A_5 = ~z~I love you and want to make you happy.
+
+SPTIM_IG1_P2B_1 = ~z~Come here... come here and buy my book.
+
+SPTIM_IG1_P2B_2 = ~z~My book will change your life. My book will make you who you want to be....
+
+SPTIM_IG1_P2B_3 = ~z~Rich! Rich is who you are and rich is who you shall be.
+
+SPTIM_IG1_P2B_4 = ~z~But you have to read the book.
+
+SPTIM_IG1_P3_1 = ~z~Do you want to be happy, sir? Then you need to be rich.
+
+SPTIM_IG1_P3_2 = ~z~And the only way, the easiest way, the best way to get rich is to read about it in my book.
+
+SPTIM_IG1_P3_3 = ~z~This is the veritable bible of success, my friends.
+
+SPTIM_IG1_P3_4 = ~z~This book will make you who you have always wanted to be... a rich bully!
+
+SPTIM_IG1_P4_1 = ~z~~sl:0.0:2.3~Listen. Listen to me, friends.~sl:0.1~This book, this precious tome.
+
+SPTIM_IG1_P4_2 = ~z~~sl:0.0:2.3~This passport to earthly paradise...~sl:0.1~I have written it for you.
+
+SPTIM_IG1_P4_3 = ~z~~sl:0.0:1.5~So that you can be like me...~sl:0.1~a rich, happy successful man,
+
+SPTIM_IG1_P4_4 = ~z~~sl:0.0:1.8~who is now dedicating his life,~sl:0.2~to helping those with the wisdom to help themselves.
+
+SPTIM_IG1_P4_5 = ~z~~sl:0.0:2.1~Yes, I'm a philanthropist!~sl:0.2~An American philanthropist,
+
+SPTIM_IG1_P4_6 = ~z~I only help those who help themselves.
+
+SPTIM_IG1_P4_7 = ~z~Help themselves how, I hear you ask?
+
+SPTIM_IG1_P4_8 = ~z~~sl:0.0:2.3~Help themselves by reading this book...~sl:0.2~read this book and save yourself.
+
+SPTIM_IG1_P4_9 = ~z~You'll live free from worry about money,
+
+SPTIM_IG1_P4_10 = ~z~you'll be in a mansion, not the work house.
+
+SPTIM_IG1_P4_11 = ~z~~sl:0.0:3.4~Your children will grow up wealthy and supercilious,~sl:~not street urchins and thieves.
+
+SPTIM_IG1_P4_12 = ~z~~sl:0.0:1.8~Think about it... think about...~sl:0.1~you want freedom.
+
+SPTIM_IG1_P4_13 = ~z~~sl:0.0:1.2~You want happiness.~sl:0.4:1.7~You need money.~sl:0.8~It's all right here.
+
+SPTIM_IG1_P5_1 = ~z~Buy my book... read my book!
+
+SPTIM_IG1_P5_2 = ~z~Do exactly what I say and you'll be rich. Rich, rich, rich!
+
+SPTIM_IG1_P5_3 = ~z~Tops hats, the finest canes, expensive cigars! A wife with soft hands!
+
+SPTIM_IG1_P5_4 = ~z~A hundred servants, a mansion, a summer house by a northern lake!
+
+SPTIM_IG1_P5_5 = ~z~It's all there for you, all of it and more... if you're man enough to take it.
+
+SPTIM_IG1_P5_6 = ~z~I'm man enough... I'm man enough to stand here and make a prize dolt of myself for you!
+
+SPTIM_IG1_P5_7 = ~z~Because I care. I care!
+
+SPTIM_IG1_P5_8 = ~z~But let me be clear... I only care about those who care to read. Buy the book,
+
+SPTIM_IG1_P5_9 = ~z~read the book, do precisely what I say and you'll be the man
+
+SPTIM_IG1_P5_10 = ~z~building railways, opening factories...
+
+SPTIM_IG1_P5_11 = ~z~you won't be riding the railway... you'll be owning them!
+
+SPTIM_IG1_P6A_1 = ~z~I bring you knowledge from the east... the knowledge of New York!
+
+SPTIM_IG1_P6A_2 = ~z~The brilliant minds of Wall Street brought here to the south,
+
+SPTIM_IG1_P6A_3 = ~z~to help those wise enough to help themselves.
+
+SPTIM_IG1_P6A_4 = ~z~Let me help you help yourselves.
+
+SPTIM_IG1_P6B_1 = ~z~I will only help the wise, for the foolish are beyond saving.
+
+SPTIM_IG1_P7_1 = ~z~Don't be afraid, don't be shy.
+
+SPTIM_IG1_P7_2 = ~z~I promise great riches... in exchange for a book.
+
+SPTIM_IG1_P7_3 = ~z~Read this book, follow my simple guidelines and opulence awaits.
+
+SPTIM_IG1_P8A_1 = ~z~~sl:0.0:2.0~Who doesn't wanna own a palace,~sl:0.2~employ countless servants and rule over their own kingdom?
+
+SPTIM_IG1_P8A_2 = ~z~~sl:0.0:1.3~Now you can.~sl:0.2~As thanks to my book you'll be extremely rich.
+
+SPTIM_IG1_P8A_3 = ~z~~sl:0.0:2.4~This is what America was made for.~sl:0.3~The chance for the cream to rise to the top!
+
+SPTIM_IG1_P8A_4 = ~z~~sl:0.0:1.8~It's time you proved you were cream~sl:0.2~and... not milk.
+
+SPTIM_IG1_P8B_1 = ~z~Listen, ignore me at your peril. At your peril I say!
+
+SPTIM_IG1_P8B_2 = ~z~You'll be poor and I'll be rich! And so will those of you with the wisdom to pay attention!
+
+SPTIM_IG1_P8B_3 = ~z~To learn from the best.
+
+SPTIM_IG1_P8B_4 = ~z~From the kind of rich fellow who doesn't give a fool a break, but cares about those who care about themselves.
+
+SPTIM_IG1_P8B_5 = ~z~Come on, I want to help you.
+
+SPTIM_IG1_P9A_1 = ~z~Don't ya even wanna be rich?
+
+SPTIM_IG1_P9B_1 = ~z~Wake up!
+
+SPTIM_IG1_P9B_2 = ~z~Please, for the love of all that's holy, I'm talking money, people! Money!
+
+SPTIM_IG1_P9B_3 = ~z~Do you want it or not?
+
+SPTIM_IG1_P9B_4 = ~z~Buy this book, it's reasonably priced.
+
+SPTIM_IG1_P9C_1 = ~z~Come and learn how to get mighty rich for a very reasonable sum!
+
+SPTIM_IG1_P9C_2 = ~z~Just the cost of this very reasonably priced book.
+
+SPTIM_IG1_P10_1 = ~z~You wanna be poor like the rest of these fools? You're going the right way about it.
+
+SPTIM_IG1_P10_2 = ~z~You've got what you deserve!
+
+SPTIM_IG1_P10_3 = ~z~You're ignoring me and all I could offer you!
+
+SPTIM_IG1_P10_4 = ~z~~sl:0.5:2.0~Buy this goddamn book!~sl:0.2~It explains high finance in very simple terms,
+
+SPTIM_IG1_P10_5 = ~z~~sl:0.0:2.5~and how you can laugh at poor people,~sl:~in much the same way I do.
+
+SPTIM_IG1_P11A_1 = ~z~You sir? Do you like being poorer than the average feller?
+
+SPTIM_IG1_P11A_2 = ~z~No, of course you don't. Who does? I don't.
+
+SPTIM_IG1_P11A_3 = ~z~I'm very, very rich. Exceedingly rich.
+
+SPTIM_IG1_P11A_4 = ~z~Let me help you become exceedingly rich... buy my book.
+
+SPTIM_IG1_P11A_5 = ~z~Read my book, it's the wisest investment you'll ever make!
+
+SPTIM_IG1_P12_1 = ~z~Somebody show some initiative. Take life by the horns. Get rich.
+
+SPTIM_IG1_P12_2 = ~z~Then you can be like me and all the other rich fellers at the club.
+
+SPTIM_IG1_P12_3 = ~z~Oh, we laugh at the peons working for a living.
+
+SPTIM_IG1_P12_4 = ~z~Come and laugh at people with me.
+
+SPTIM_IG1_P12_5 = ~z~Please, I'm trying to help you get ahead.
+
+SPTIM_IG1_P12_6 = ~z~Help yourselves, buy the book.
+
+SPTIM_IG1_P12_7 = ~z~It explains how to make money using a patented system. It's very simple stuff.
+
+SPTIM_IG1_P13_1 = ~z~~sl:0.0:0.8~To date,~sl:0.2~I have made over thirty-five men exceedingly rich.
+
+SPTIM_IG1_P13_2 = ~z~~sl:0.0:1.3~This century alone,~sl:0.3:3.7~thirty-three millionaires have reached that exalted state~sl:0.2~by buying and reading my book.
+
+SPTIM_IG1_P13_3 = ~z~~sl:0.0:1.1~What's holding you back?~sl:0.6:1.5~You don't wanna be rich?~sl:0.3~You want to be poor like the rest of these fools?
+
+SPTIM_IG1_P13_4 = ~z~I'm trying to help you help yourselves.
+
+SPTIM_IG1_P13_5 = ~z~~sl:0.0:1.8~That's American for charity.~sl:0.5~Take my charity and reap the rewards.
+
+SPTIM_IG2J_1 = ~z~Hello friend! Do you wanna be rich?
+
+SPTIM_IG2J_2 = ~z~Sure, I'll take one.
+
+SPTIM_IG2J_3 = ~z~That'll be fifty dollars.
+
+SPTIM_IG2J_4 = ~z~Fifty bucks, for a book?
+
+SPTIM_IG2J_5 = ~z~And cheap at the price! You read this and you'll want to give me a hundred more.
+
+SPTIM_IG2_1 = ~z~Hello friend! Do you wanna be rich?
+
+SPTIM_IG2_2 = ~z~Sure, I'll take one.
+
+SPTIM_IG2_3 = ~z~That'll be fifty dollars.
+
+SPTIM_IG2_4 = ~z~Fifty dollars, for a book?
+
+SPTIM_IG2_5 = ~z~And cheap at the price! You read this and you'll want to give me a hundred more.
+
+SPTIM_IG2_NOJ_1 = ~z~Forget about it.
+
+SPTIM_IG2_NOJ_2 = ~z~Huh. Well... your loss, buddy.
+
+SPTIM_IG2_NO_1 = ~z~Forget about it.
+
+SPTIM_IG2_NO_2 = ~z~Huh. Well... your loss, buddy.
+
+SPTIM_IG2_YESJ_1 = ~z~Okay... sure.
+
+SPTIM_IG2_YESJ_2 = ~z~The best investment you'll ever make, my friend.
+
+SPTIM_IG2_YES_1 = ~z~Sure.
+
+SPTIM_IG2_YES_2 = ~z~The best investment you'll ever make, my friend.
+
+SPTIM_IG3J_1 = ~z~I already got the book.
+
+SPTIM_IG3J_2 = ~z~Oh... well, that's terrific. How are you getting along?
+
+SPTIM_IG3J_3 = ~z~Well, I'm clearly not rich.
+
+SPTIM_IG3J_4 = ~z~Come on buddy you... gotta work harder.
+
+SPTIM_IG3J_5 = ~z~Read the equations... follow the thirty-eight steps to wealth.
+
+SPTIM_IG3J_6 = ~z~Be a man!
+
+SPTIM_IG3J_7 = ~z~I'd kinda like my money back.
+
+SPTIM_IG3J_8 = ~z~We'd all like our money back, buddy. "Caveat emptor" as my old man used to say.
+
+SPTIM_IG3J_9 = ~z~~sl:0.8~My old man said different things, now give me the money.
+
+SPTIM_IG3J_10 = ~z~Get outta here!
+
+SPTIM_IG3J_11 = ~z~You get outta here!
+
+SPTIM_IG3J_12 = ~z~Piss off!
+
+SPTIM_IG3_1 = ~z~I already got the book.
+
+SPTIM_IG3_2 = ~z~Oh... well, that's terrific. How are you getting along?
+
+SPTIM_IG3_3 = ~z~Well, I'm clearly not rich.
+
+SPTIM_IG3_4 = ~z~Come on buddy you... gotta work harder.
+
+SPTIM_IG3_5 = ~z~Read the equations... follow the thirty-eight steps to wealth.
+
+SPTIM_IG3_6 = ~z~Be a man!
+
+SPTIM_IG3_7 = ~z~I think I'd like my money back.
+
+SPTIM_IG3_8 = ~z~We'd all like our money back, buddy. "Caveat emptor" as my old man used to say.
+
+SPTIM_IG3_9 = ~z~Well, my old man used to say different things, now give me my money.
+
+SPTIM_IG3_10 = ~z~Get out of here!
+
+SPTIM_IG3_11 = ~z~You get out of here!
+
+SPTIM_IG3_12 = ~z~Piss off!
+
+SPTIM_INTRO3_1 = ~z~Hello friend, do you want to be rich?
+

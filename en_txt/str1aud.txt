@@ -1,0 +1,58 @@
+RSTR1_RSC_1_1 = ~z~How are you enjoying yourself here?
+
+RSTR1_RSC_1_2 = ~z~Well enough I guess...
+
+RSTR1_RSC_1_3 = ~z~and you?
+
+RSTR1_RSC_1_4 = ~z~Well, it turns out the pursuit of freedom...
+
+RSTR1_RSC_1_5 = ~z~is not a cheap business.
+
+RSTR1_RSC_1_6 = ~z~Not for us...
+
+RSTR1_RSC_1_7 = ~z~and not for some of the locals.
+
+RSTR1_RSC_1_8 = ~z~Sharking already?
+
+RSTR1_RSC_1_9 = ~z~I prefer to call it banking.
+
+RSTR1_RSC_1_10 = ~z~You ain't the one handing out the beatings.
+
+RSTR1_RSC_1_11 = ~z~No, but I am the one feeding...
+
+RSTR1_RSC_1_12 = ~z~the women and children in the camp.
+
+RSTR1_RSC_1_13 = ~z~What choice do we have, Mr. Morgan?
+
+RSTR1_RSC_1_14 = ~z~Ah, I don't know, I...
+
+RSTR1_RSC_1_15 = ~z~Well, come on then.
+
+RSTR1_RSC_1_16 = ~z~Tell me who.
+
+RSTR1_RSC_1_17 = ~z~Here's the list.
+
+RSTR1_RSC_1_18 = ~z~Refinery worker turned hunter...
+
+RSTR1_RSC_1_19 = ~z~by the name of Winton Holmes.
+
+RSTR1_RSC_1_20 = ~z~You'll find him up in the hills north of Strawberry.
+
+RSTR1_RSC_1_21 = ~z~Ah, an apprentice undertaker.
+
+RSTR1_RSC_1_22 = ~z~This one working in Rhodes...
+
+RSTR1_RSC_1_23 = ~z~his name was Gwyn Hughes.
+
+RSTR1_RSC_1_24 = ~z~And how many of them...
+
+RSTR1_RSC_1_25 = ~z~do you think will be able to pay?
+
+RSTR1_RSC_1_26 = ~z~With enough encouragement...
+
+RSTR1_RSC_1_27 = ~z~both of them.
+
+RSTR1_RSC_1_LI1_1 = ~z~Herr Morgan...
+
+RSTR1_RSC_1_LI2_1 = ~z~Herr Strauss.
+

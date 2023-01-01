@@ -1,0 +1,672 @@
+MRY41_LETT_ALT1_1 = ~z~My Dear Arthur,
+
+MRY41_LETT_ALT1_2 = ~z~~sl:0.0:1.2~You never showed up,~sl:0.5~and now, after looking at the newspapers, I understand why.
+
+MRY41_LETT_ALT1_3 = ~z~~sl:0.0:2.2~I don't imagine you will receive this letter,~sl:~but I nonetheless must send it.
+
+MRY41_LETT_ALT1_4 = ~z~~sl:0.0:3.4~Arthur, oh, Arthur.~sl:0.5~I was just starting to dream the silliest and softest of dreams.
+
+MRY41_LETT_ALT1_5 = ~z~~sl:0.0:6.5~I miss you, and I will always miss you, but I cannot live like that,~sl:0.5~and it seems you cannot live any other way.
+
+MRY41_LETT_ALT1_6 = ~z~~sl:0.0:3.6~When I am with you, the world makes sense,~sl:~but when we are apart,
+
+MRY41_LETT_ALT1_7 = ~z~~sl:0.0:2.3~I see clearly that your world is not~sl:~a world from which one can escape.
+
+MRY41_LETT_ALT1_8 = ~z~~sl:0.0:2.9~I am so sorry, for everything,~sl:0.9~for everything long ago and for starting up that business again.
+
+MRY41_LETT_ALT1_9 = ~z~~sl:0.0:3.3~There's a good man within you, Arthur,~sl:0.6:2.8~but he is wrestling with a giant.~sl:1.2~And the giant, wins, time and again.
+
+MRY41_LETT_ALT1_10 = ~z~You've broken my heart, again, and I fear I have broken yours.
+
+MRY41_LETT_ALT1_11 = ~z~For that, I will never forgive myself, but you must let me go now.
+
+MRY41_LETT_ALT1_12 = ~z~~sl:0.0:3.5~I enclose a ring you gave me many years ago,~sl:0.7~when we were both young,
+
+MRY41_LETT_ALT1_13 = ~z~~sl:0.0:3.8~not because I don't like it, but because I care for it~sl:0.3~far too much and it reminds me too much of you.
+
+MRY41_LETT_ALT1_14 = ~z~~sl:0.0:5.8~I hope, one day you will find some people in love who can use this,~sl:0.6~for it kept me thinking of you all these years,
+
+MRY41_LETT_ALT1_15 = ~z~and I hope by returning it to you, I can finally be free.
+
+MRY41_LETT_ALT1_16 = ~z~Goodbye,
+
+MRY41_LETT_ALT1_17 = ~z~Mary.
+
+MRY41_LETT_ALT2_1 = ~z~My Dear Arthur,
+
+MRY41_LETT_ALT2_2 = ~z~~sl:0.0:2.3~I don't know if you received the letter I wrote to you~sl:~from Saint Denis a while back.
+
+MRY41_LETT_ALT2_3 = ~z~~sl:0.0:3.1~It was foolish of me to ask for your help again and~sl:~I promise there will be no recurrence.
+
+MRY41_LETT_ALT2_4 = ~z~~sl:0.0:2.3~I don't imagine you will receive this letter either,~sl:~but I nonetheless must send it.
+
+MRY41_LETT_ALT2_5 = ~z~~sl:0.0:3.4~Arthur, oh, Arthur.~sl:1.0~I was just starting to dream the silliest and softest of dreams.
+
+MRY41_LETT_ALT2_6 = ~z~when I read about your recent activities in the newspaper.
+
+MRY41_LETT_ALT2_7 = ~z~~sl:0.0:4.8~I miss you, and I will always miss you, but I cannot live like that,~sl:0.6~and it seems you cannot live any other way.
+
+MRY41_LETT_ALT2_8 = ~z~~sl:0.0:3.1~When I am with you, the world makes sense,~sl:~but when we are apart,
+
+MRY41_LETT_ALT2_9 = ~z~~sl:0.0:2.8~I see clearly that your world is not~sl:~a world from which one can escape.
+
+MRY41_LETT_ALT2_10 = ~z~~sl:0.0:2.9~I am so sorry, for everything,~sl:0.3~for everything long ago and for starting up that business again.
+
+MRY41_LETT_ALT2_11 = ~z~~sl:0.0:2.9~There's a good man within you, Arthur,~sl:0.0:2.0~but he is wrestling with a giant.~sl:0.3~And the giant, wins, time and again.
+
+MRY41_LETT_ALT2_12 = ~z~~sl:0.0:2.8~I enclose a ring you gave me many years ago,~sl:0.3~when we were both young,
+
+MRY41_LETT_ALT2_13 = ~z~~sl:0.0:3.2~not because I don't like it, but because I care for it~sl:~far too much and it reminds me too much of you.
+
+MRY41_LETT_ALT2_14 = ~z~~sl:0.0:4.8~I hope, one day you will find some people in love who can use this,~sl:0.4~for it kept me thinking of you all these years,
+
+MRY41_LETT_ALT2_15 = ~z~and I hope by returning it to you I can finally be free.
+
+MRY41_LETT_ALT2_16 = ~z~Goodbye,
+
+MRY41_LETT_ALT2_17 = ~z~Mary.
+
+MRY41_LETT_ALT3_1 = ~z~My Dear Arthur,
+
+MRY41_LETT_ALT3_2 = ~z~~sl:0.0:4.9~I am sorry I asked for your help with Daddy, but at the time,~sl:0.3~I felt that I had nowhere else to turn.
+
+MRY41_LETT_ALT3_3 = ~z~~sl:0.0:2.6~After reading of recent events in the newspaper,~sl:0.4~I understand much better now just how busy you have been.
+
+MRY41_LETT_ALT3_4 = ~z~~sl:0.0:2.1~I don't imagine you will receive this letter,~sl:~but I nonetheless must send it.
+
+MRY41_LETT_ALT3_5 = ~z~~sl:0.0:3.5~Arthur, oh, Arthur.~sl:1.0~I was just starting to dream the silliest and softest of dreams.
+
+MRY41_LETT_ALT3_6 = ~z~~sl:0.0:6.5~I miss you, and I will always miss you, but I cannot live like that,~sl:0.5~and it seems you cannot live any other way.
+
+MRY41_LETT_ALT3_7 = ~z~~sl:0.0:3.3~When I am with you, the world makes sense,~sl:0.3~but when we are apart,
+
+MRY41_LETT_ALT3_8 = ~z~~sl:0.0:2.3~I see clearly that your world is not~sl:~a world from which one can escape.
+
+MRY41_LETT_ALT3_9 = ~z~~sl:0.0:2.5~I am so sorry, for everything,~sl:~for everything long ago and for starting up that business again.
+
+MRY41_LETT_ALT3_10 = ~z~~sl:0.0:3.3~There's a good man within you, Arthur,~sl:0.2:2.4~but he is wrestling with a giant.~sl:0.5~And the giant, wins, time and again.
+
+MRY41_LETT_ALT3_11 = ~z~You've broken my heart, again, and I fear I have broken yours.
+
+MRY41_LETT_ALT3_12 = ~z~For that, I will never forgive myself, but you must let me go now.
+
+MRY41_LETT_ALT3_13 = ~z~~sl:0.0:3.1~I enclose a ring you gave me many years ago,~sl:0.3~when we were both young,
+
+MRY41_LETT_ALT3_14 = ~z~~sl:0.0:3.8~not because I don't like it, but because I care for it~sl:~far too much and it reminds me too much of you.
+
+MRY41_LETT_ALT3_15 = ~z~~sl:0.0:4.9~I hope, one day you will find some people in love who can use this,~sl:0.5~for it kept me thinking of you all these years,
+
+MRY41_LETT_ALT3_16 = ~z~and I hope by returning it to you I can finally be free.
+
+MRY41_LETT_ALT3_17 = ~z~Goodbye,
+
+MRY41_LETT_ALT3_18 = ~z~Mary.
+
+ODR5_ALLEY_1 = ~z~Let's go. Quiet.
+
+ODR5_AMBCOP2_1 = ~z~Officer.
+
+ODR5_AMBCOP2_2 = ~z~Sir.
+
+ODR5_AMBCOP_1 = ~z~Go brush that horse, officer.
+
+ODR5_AMBCOP_2 = ~z~Yes, sir.
+
+ODR5_ARTCOVER_01 = ~z~I'm covering you!
+
+ODR5_ARTCOVER_02 = ~z~I got this.
+
+ODR5_ARTCOVER_03 = ~z~Firing.
+
+ODR5_ARTCOVER_04 = ~z~I'll hold them down.
+
+ODR5_ARTHDELAY_01 = ~z~Come on.
+
+ODR5_ARTHDELAY_02 = ~z~Has your mind wandered?
+
+ODR5_ARTHDELAY_03 = ~z~We can't lose them.
+
+ODR5_ARTHSADIE_01 = ~z~I'm staying, you go.
+
+ODR5_ARTHSADIE_02 = ~z~Go with Dutch.
+
+ODR5_ARTHSADIE_03 = ~z~I'm fine here by myself.
+
+ODR5_ARTPATH_01 = ~z~~sl:0.0:2.7~You see that feller, Arthur? We can't.~sl:~Can you get 'em out of our way?
+
+ODR5_ARTPATH_02 = ~z~~sl:0.0:1.9~This feller's in our way, Arthur.~sl:~Would you kindly do something about it?
+
+ODR5_ARTYL_01 = ~z~Keep moving.
+
+ODR5_ARTYL_02 = ~z~Get out of there.
+
+ODR5_ARTYL_03 = ~z~Run!
+
+ODR5_ARTYL_04 = ~z~Go on, go!
+
+ODR5_ARTYL_05 = ~z~Move, move!
+
+ODR5_BREAKHOLD_1 = ~z~Your boss is gonna swing. I promise.
+
+ODR5_CATCHUP_01 = ~z~Carry on then, shall we?
+
+ODR5_CATCHUP_02 = ~z~If we ain't missed it, it's this way.
+
+ODR5_CATCHUP_03 = ~z~I hope you got yourself in order. Now, come on.
+
+ODR5_CLEAR_1 = ~z~Alright, we're out. Go, go, go.
+
+ODR5_DALLY_01 = ~z~What's delaying you, Arthur?
+
+ODR5_DALLY_02 = ~z~You need to catch your breath, friend?
+
+ODR5_DALLY_03 = ~z~Don't dawdle, Mr. Morgan.
+
+ODR5_DPATH_01 = ~z~Dammit!
+
+ODR5_DPATH_02 = ~z~Whoa, whoa, look out!
+
+ODR5_DUTCHGATE_01 = ~z~Men by the gate.
+
+ODR5_DUTCHGATE_02 = ~z~By the gate! There.
+
+ODR5_DUTCHHELP_01 = ~z~Arthur, if you can hear me, shoot some of these O'Driscolls!
+
+ODR5_DUTCHHELP_02 = ~z~Morgan, you hear us? Take a shot on these O'Driscolls!
+
+ODR5_DUTSADBNT_1 = ~z~Relax, alright?
+
+ODR5_DUTSADBNT_2 = ~z~How am I supposed to relax today?
+
+ODR5_DUTSADBNT_3 = ~z~~sl:0.0:0.9~Mrs. Adler,~sl:~looking like a lady won't help us if you're not going to act like one.
+
+ODR5_EXT_1 = ~z~Well, we got him.
+
+ODR5_EXT_2 = ~z~Let's just get outta here.
+
+ODR5_EXT_3 = ~z~Go.
+
+ODR5_FEMCIV_01 = ~z~
+
+ODR5_FEMCIV_02 = ~z~
+
+ODR5_FUCKODRS_01 = ~z~Don't suppose you remember me?
+
+ODR5_FUCKODRS_02 = ~z~You're all gonna follow him under.
+
+ODR5_FUCKODRS_03 = ~z~Your fearless leader soiled his damn britches!
+
+ODR5_FUCKODRS_04 = ~z~I'm gonna cut your pale bellies right open...
+
+ODR5_FUCKODRS_05 = ~z~Die, you cowards.
+
+ODR5_FUCKODRS_06 = ~z~Die.
+
+ODR5_GONERIGHT_01 = ~z~He's turned down there.
+
+ODR5_GONERIGHT_02 = ~z~He's cutting in there.
+
+ODR5_GOONSEE_01 = ~z~That's Van der Linde's bruiser!
+
+ODR5_GOONSEE_02 = ~z~The big man rides with Van der Linde!
+
+ODR5_HLO_F1_1 = ~z~Hello, officer.
+
+ODR5_HLO_F2_1 = ~z~Sir.
+
+ODR5_HLO_M1_1 = ~z~Howdy, officer.
+
+ODR5_HLO_M2_1 = ~z~Hello, sir.
+
+ODR5_HOLDUP_01 = ~z~Stop here! Get in some cover!
+
+ODR5_HOLDUP_02 = ~z~Hold here! Find some cover!
+
+ODR5_IG1_P2_1 = ~z~We judge each other, and we judge you as unfit to be a member of our society.
+
+ODR5_IG1_SPEECH_1 = ~z~Fair citizens of Saint Denis...
+
+ODR5_IG1_SPEECH_2 = ~z~For as long as any of us can remember, it is justice that separates us from barbary.
+
+ODR5_IG1_SPEECH_3 = ~z~Yet justice itself can at times be barbaric.
+
+ODR5_IG1_SPEECH_4 = ~z~For sometimes a man is so savage, the only way to deal with him justly is by savagery.
+
+ODR5_IG1_SPEECH_5 = ~z~Colm O'Driscoll is one such man.
+
+ODR5_IG1_SPEECH_6 = ~z~He has murdered, tortured, robbed, stolen, raped, and abused for a decade across five states. Seemingly with impunity.
+
+ODR5_IG1_SPEECH_7 = ~z~Today, justice catches up with him.
+
+ODR5_IG1_SPEECH_8 = ~z~Today, we as citizens of this republic assert our will, and our will is for justice, and for civilization at any cost.
+
+ODR5_IG1_SPEECH_9 = ~z~No man can make himself God. And no man, is above the law.
+
+ODR5_IG4_P1A_1 = ~z~Hey... we're gonna wait.
+
+ODR5_IG4_P1B1_1 = ~z~Come on, Arthur.
+
+ODR5_IG4_P1C1_1 = ~z~Arthur, get over here.
+
+ODR5_IG4_P1C2_1 = ~z~Arthur, get over here.
+
+ODR5_IG4_P1D2_1 = ~z~Arthur.
+
+ODR5_IG9_LADDR1_1 = ~z~Oh, Arthur, here's a ladder.
+
+ODR5_IG9_LADDR2_1 = ~z~Arthur, there's a ladder here.
+
+ODR5_IG10_HAND_1 = ~z~Colm O'Driscoll didn't seem like such a worry...
+
+ODR5_IG10_HAND_2 = ~z~A letter came for you.
+
+ODR5_IG10_HAND_3 = ~z~Oh, okay.
+
+ODR5_IG10_HAND_4 = ~z~I know it's from that Mary...
+
+ODR5_IG10_HAND_5 = ~z~Mary?
+
+ODR5_IG10_HAND_6 = ~z~She ain't worth it, Arthur.
+
+ODR5_IG10_HAND_7 = ~z~Who is?
+
+ODR5_IG10_WNT_1 = ~z~How you get on, Arthur?
+
+ODR5_IG10_WNT_2 = ~z~Well... we saw the bastard hang okay, but...
+
+ODR5_IG10_WNT_3 = ~z~the whole thing ain't gonna save us.
+
+ODR5_IG10_WNT_4 = ~z~I guess that's one less thing to worry about.
+
+ODR5_IG10_WNT_5 = ~z~I guess, compared to the entire government, in the end...
+
+ODR5_IG11_1 = ~z~What's it look like?
+
+ODR5_IG11_2 = ~z~Bunch of cops.
+
+ODR5_IG11_3 = ~z~How many?
+
+ODR5_IG11_4 = ~z~Enough...
+
+ODR5_IG11_5 = ~z~So what do you think?
+
+ODR5_IG11_6 = ~z~Paul's up on the roof...
+
+ODR5_IG11_7 = ~z~~sl:0.0:0.9~and once he starts shooting,~sl:~we have to have our wits about us and move fast.
+
+ODR5_IG11_8 = ~z~Yeah...
+
+ODR5_IG11_9 = ~z~I guess we faced worse than this before.
+
+ODR5_IG11_10 = ~z~Sure...
+
+ODR5_IG11_11 = ~z~Let's get to it.
+
+ODR5_IG11_12 = ~z~Yeah.
+
+ODR5_IG11_PLAN_1 = ~z~So, they got a guy up on the roof, overlooking the gallows.
+
+ODR5_IG11_PLAN_2 = ~z~~sl:0.0:3.1~Find a way up there... onto one of these verandas,~sl:0.3~through a building, maybe. And get him.
+
+ODR5_IG11_PLAN_3 = ~z~And... do it silently.
+
+ODR5_IG11_PLAN_4 = ~z~~sl:0.0:2.3~Well, obviously I'm gonna do it silently,~sl:~I wanna see this bastard swing.
+
+ODR5_ILO_F1_1 = ~z~~sl:0.5:2.8~Ma'am, I need to get out onto the roof.~sl:~You know how I can do that?
+
+ODR5_ILO_F1_2 = ~z~~sl:0.0:2.1~I guess you could go out on the balcony,~sl:0.1~if you took the stairs up a level.
+
+ODR5_ILO_F1_3 = ~z~Okay. Thank you.
+
+ODR5_ILO_M1_1 = ~z~Afternoon sir, could you tell me how you get onto the roof of this building?
+
+ODR5_ILO_M1_2 = ~z~I don't know, officer...
+
+ODR5_ILO_M1_3 = ~z~There are some stairs down the end there that will take you to the next story.
+
+ODR5_ILO_M1_4 = ~z~After that, I have no idea.
+
+ODR5_ILO_M1_5 = ~z~Very good. Carry on.
+
+ODR5_INT_1 = ~z~How am I supposed to relax today?
+
+ODR5_INT_2 = ~z~Mrs. Adler...
+
+ODR5_INT_3 = ~z~looking like a lady won't help us...
+
+ODR5_INT_4 = ~z~if you're not going to act like one.
+
+ODR5_INT_5 = ~z~Don't you worry about me.
+
+ODR5_INT_6 = ~z~There you are.
+
+ODR5_INT_7 = ~z~Here I am.
+
+ODR5_INT_8 = ~z~Come on, let's go.
+
+ODR5_INT_9 = ~z~Let's go where?
+
+ODR5_INT_10 = ~z~And why're you so riled up?
+
+ODR5_INT_11 = ~z~Today is a great day, Arthur.
+
+ODR5_INT_12 = ~z~Today is the day they are going to hang Colm O'Driscoll.
+
+ODR5_INT_13 = ~z~That so?
+
+ODR5_INT_14 = ~z~Either they hang him, or I shoot him...
+
+ODR5_INT_15 = ~z~Oh they are going to hang him.
+
+ODR5_INT_16 = ~z~Yeah...
+
+ODR5_INT_17 = ~z~and not before time.
+
+ODR5_INT_18 = ~z~That boy's been on the gallows more than most.
+
+ODR5_INT_19 = ~z~I wouldn't count anything until his neck's broke.
+
+ODR5_INT_20 = ~z~Well, nor would I...
+
+ODR5_INT_21 = ~z~which is why, despite us being wanted men...
+
+ODR5_INT_22 = ~z~we're gonna attend the event ourselves.
+
+ODR5_INT_23 = ~z~And follow him onto the scaffold?
+
+ODR5_INT_24 = ~z~Well, let's hope not...
+
+ODR5_INT_25 = ~z~but if I could see that son of a bitch breathe his last...
+
+ODR5_INT_26 = ~z~I think l'd die a happy man.
+
+ODR5_INT_27 = ~z~We are gonna disguise ourselves.
+
+ODR5_INT_28 = ~z~In this?
+
+ODR5_INT_29 = ~z~In this.
+
+ODR5_INT_30 = ~z~Okay.
+
+ODR5_INT_31 = ~z~Come on.
+
+ODR5_INT_LI_1 = ~z~Don't you worry about me.
+
+ODR5_KILLWAG_01 = ~z~Wagon! Get them.
+
+ODR5_KILLWAG_02 = ~z~There! By the wagon.
+
+ODR5_LADDERDAWD_01 = ~z~Ladder might be a good place to start.
+
+ODR5_LADDERDAWD_02 = ~z~No time for dawdling, go.
+
+ODR5_LADDERDAWD_03 = ~z~Arthur, we don't have the time.
+
+ODR5_LADDERDAWD_04 = ~z~What you waiting for? Go.
+
+ODR5_LOOKSNIPE_01 = ~z~Where are you?
+
+ODR5_LOOKSNIPE_02 = ~z~Where's this shooter, then?
+
+ODR5_LOOKSNIPE_03 = ~z~Gallows... gallows... which way was you?
+
+ODR5_LTSGO_1 = ~z~Well, don't we just look the part...
+
+ODR5_LTSGO_2 = ~z~We'll cut through the alley to get to the gallows.
+
+ODR5_LTSGO_3 = ~z~We keep our weapons holstered, our disguises on, and our wits about us.
+
+ODR5_MCS1_1 = ~z~Alright, good. Now...
+
+ODR5_MCS1_2 = ~z~you see that...
+
+ODR5_MCS1_3 = ~z~pair of assholes?
+
+ODR5_MCS1_4 = ~z~Sure.
+
+ODR5_MCS1_5 = ~z~They're Colm's boys.
+
+ODR5_MCS1_6 = ~z~Yes, I think so.
+
+ODR5_MCS1_7 = ~z~What a surprise...
+
+ODR5_MCS1_8 = ~z~I'm glad we're here.
+
+ODR5_MCS1_9 = ~z~What are they pointing at?
+
+ODR5_MCS1_10 = ~z~I don't know...
+
+ODR5_MCS1_11 = ~z~We gotta follow them to find out.
+
+ODR5_MCS1_12 = ~z~Yeah...
+
+ODR5_MCS1_13 = ~z~Oh... here comes somebody.
+
+ODR5_MCS1_14 = ~z~Stay here.
+
+ODR5_MCS1_15 = ~z~Don't do nothing.
+
+ODR5_MCS2_1 = ~z~What's it look like?
+
+ODR5_MCS2_2 = ~z~Bunch of cops.
+
+ODR5_MCS2_3 = ~z~How many?
+
+ODR5_MCS2_4 = ~z~Enough...
+
+ODR5_MCS2_5 = ~z~So what you think?
+
+ODR5_MCS2_6 = ~z~Paul's up on the roof...
+
+ODR5_MCS2_7 = ~z~and once he starts shooting...
+
+ODR5_MCS2_8 = ~z~we have to have our wits about us and move fast.
+
+ODR5_MCS2_9 = ~z~Yeah...
+
+ODR5_MCS2_10 = ~z~I guess we've faced worse than this before.
+
+ODR5_MCS2_11 = ~z~Sure...
+
+ODR5_MCS2_12 = ~z~Let's get to it.
+
+ODR5_MCS2_13 = ~z~Yeah.
+
+ODR5_MCS2_14 = ~z~Well, obviously I'm gonna do it silently...
+
+ODR5_MCS2_15 = ~z~I want to see that fucker swing.
+
+ODR5_MCS3_1 = ~z~As well you may.
+
+ODR5_MCS3_2 = ~z~I've been a bad man.
+
+ODR5_MCS3_3 = ~z~Silence!
+
+ODR5_MCS3_4 = ~z~These charges...
+
+ODR5_MCS3_5 = ~z~This is not a court where you shall be tried.
+
+ODR5_MCS3_6 = ~z~This is a place where your sentence...
+
+ODR5_MCS3_7 = ~z~is to be carried out...
+
+ODR5_MCS3_8 = ~z~Don't you damn well move.~n~~m~and your sentence Colm
+
+ODR5_MCS3_9 = ~z~Relax, son.~n~~m~O'Driscoll is that you are
+
+ODR5_MCS3_10 = ~z~to be hanged by the neck until you are dead.
+
+ODR5_MCS3_11 = ~z~This is not a task we take lightly...
+
+ODR5_MCS3_12 = ~z~it is not a task we enjoy...
+
+ODR5_MCS3_13 = ~z~but it is a task we must carry out if...
+
+ODR5_MCS3_14 = ~z~our civilization is to prosper.
+
+ODR5_MCS3_15 = ~z~Gentlemen...
+
+ODR5_MCS3_16 = ~z~are we ready?
+
+ODR5_MCS3_17 = ~z~Colm O'Driscoll...
+
+ODR5_MCS3_18 = ~z~may God, in his infinite wisdom...
+
+ODR5_MCS3_19 = ~z~have mercy upon your soul.
+
+ODR5_MCS3_20 = ~z~Whenever you are ready...
+
+ODR5_MCS3_21 = ~z~Now you know how it feels to watch somebody you love die.
+
+ODR5_MCS3_22 = ~z~You ruined my life!
+
+ODR5_MCS3_23 = ~z~Die! ~n~~m~Shit.
+
+ODR5_MCS3_24 = ~z~Die!~n~~m~Okay, let's go.
+
+ODR5_MCS3_25 = ~z~Die!
+
+ODR5_MOVEWAG_01 = ~z~We move for the wagon. That's our get out.
+
+ODR5_MOVEWAG_02 = ~z~That wagon's going to get us out of here. Come on.
+
+ODR5_NEARSQU_1 = ~z~Look here. Don't the public love an execution.
+
+ODR5_NEARSQU_2 = ~z~~sl:0.0:1.7~Wait. Hold on.~sl:0.9~I see something. Don't go in yet.
+
+ODR5_NEARSQU_B_1 = ~z~Arthur, come look at this.
+
+ODR5_OMW_01 = ~z~Alright, alright.
+
+ODR5_OMW_02 = ~z~Yeah, yeah, I'm coming!
+
+ODR5_OMW_03 = ~z~Alright, I'm just about done.
+
+ODR5_OMW_04 = ~z~I hear ya. Okay...
+
+ODR5_REINFO_01 = ~z~We got a wagon load of 'em coming.
+
+ODR5_REINFO_02 = ~z~Look out! We got to deal with this wagon.
+
+ODR5_ROOF_1 = ~z~Find a way up the roof and stop him.
+
+ODR5_ROOF_2 = ~z~I'll go back to Mrs. Adler.
+
+ODR5_SADIEKILL_01 = ~z~Damn ya!
+
+ODR5_SADIEKILL_02 = ~z~Bastards.
+
+ODR5_SADIEKILL_03 = ~z~Die.
+
+ODR5_SADIEKILL_04 = ~z~There.
+
+ODR5_SADIEKILL_05 = ~z~Come on.
+
+ODR5_SADIERUN_01 = ~z~Let's go.
+
+ODR5_SADIERUN_02 = ~z~I'm coming.
+
+ODR5_SADIERUN_03 = ~z~Don't wait.
+
+ODR5_SADIERUN_04 = ~z~Behind ya.
+
+ODR5_SNIPECASE_01 = ~z~Well, what we got here...
+
+ODR5_SNIPECASE_02 = ~z~~sl:0.0:1.4~What's this then?~sl:0.4~A gun case.
+
+ODR5_SNIPEDEAD_1 = ~z~Well, Colm. There goes your escape plan...
+
+ODR5_SNIPETHEM_01 = ~z~Arthur, we're in need of divine intervention down here.
+
+ODR5_SNIPETHEM_02 = ~z~And like a thunder bolt he will strike you down!
+
+ODR5_SNIPETHEM_03 = ~z~Can you hear me, Arthur? Clear us a path.
+
+ODR5_SPATH_01 = ~z~I can't get a shot on him.
+
+ODR5_SPATH_02 = ~z~I ain't gonna get him.
+
+ODR5_STARTA_1 = ~z~~sl:0.0:3.2~You ain't no cop. You're Dutch's boy.~sl:0.3~Keep quiet when I stick it in you, huh?
+
+ODR5_STARTA_2 = ~z~~sl:0.0:3.3~I know you. We had you on a hook.~sl:0.9~Now, neither of us wants those cops to hear.
+
+ODR5_STAYCLOSE_01 = ~z~Stay with me!
+
+ODR5_STAYCLOSE_02 = ~z~Stick close to me!
+
+ODR5_STAYCLOSE_03 = ~z~Come on.
+
+ODR5_STAYCLOSE_04 = ~z~On me.
+
+ODR5_STAYCLOSE_05 = ~z~Follow.
+
+ODR5_STAYCLOSE_06 = ~z~Stay with me.
+
+ODR5_STREET_1 = ~z~The crowd came to see a show, we don't want to disappoint them.
+
+ODR5_STREET_2 = ~z~I guess they did miss their chance to see John swing by his neck...
+
+ODR5_STREET_3 = ~z~Hey. Hey. You know I wasn't going to let it come to that.
+
+ODR5_STREET_4 = ~z~I guess I don't know what I know no more.
+
+ODR5_STREET_5 = ~z~And I guess this isn't the time to question either my decisions, or yours.
+
+ODR5_STREET_6 = ~z~Here and now, Colm O'Driscoll's going to get his due.
+
+ODR5_THANKS_01 = ~z~Thank you, Arthur.
+
+ODR5_THANKS_02 = ~z~You can still shoot, at least.
+
+ODR5_THANKS_03 = ~z~Well done, Mr. Morgan.
+
+ODR5_THANKS_04 = ~z~~sl:0.7~Reliable as ever.
+
+ODR5_WAGON_01 = ~z~Leave him! We're going for the wagon.
+
+ODR5_WAGON_02 = ~z~You got your vengeance! We're moving for the wagon.
+
+ODR5_WALK_1 = ~z~Mrs. Adler... might I say, being a fancy woman of Saint Denis suits you.
+
+ODR5_WALK_2 = ~z~~sl:0.6:0.0~I'd dress up like the Queen of Sheba if it meant seeing that son of a bitch swing.
+
+ODR5_WALK_3 = ~z~Colm hung me up...
+
+ODR5_WALK_4 = ~z~nearly butchered me, that don't mean I'm comfortable in this... woolen coat.
+
+ODR5_WALK_5 = ~z~You made it outta that predicament, as I remember Mr. Morgan. My husband weren't so lucky.
+
+ODR5_WALK_6 = ~z~~sl:0.0:5.3~You lost your husband. I lost my darling, Annabelle. That poor boy, Kieran.~sl:0.2:0.0~We've all lost something because of Colm.
+
+ODR5_WALK_7 = ~z~And that is why we will shepherd him to eternity.
+
+ODR5_WALK_8 = ~z~Amen to that.
+
+ODR5_WALK_9 = ~z~Now keep those fingers off those triggers 'cause we'll need cool heads and calm dispositions to see this done.
+
+ODR5_WALK_10 = ~z~~sl:0.8:0.0~Practice what you preach, brother.
+
+ODR5_WALK_11 = ~z~Whatever do you mean?
+
+ODR5_WALK_12 = ~z~Are you going to keep your cool? Really?
+
+ODR5_WALK_13 = ~z~When you seem to lose it, oh so often, now.
+
+ODR5_WALK_14 = ~z~This doubting and questioning of yours... I miss the old Arthur.
+
+ODR5_WALK_15 = ~z~Don't we all.
+
+ODR5_WALK_16 = ~z~You two, quit it.
+
+ODR5_WALK_17 = ~z~We all got a job to do, and we're all in rough agreement about how we're doing it... as far as I can tell.
+
+ODR5_WALK_18 = ~z~Exactly.
+
+ODR5_WALK_19 = ~z~We'll get it done, alright.
+
+ODR5_WALK_20 = ~z~Alright, then. Come on. We got a hanging to witness.
+
+ODR5_WATCHIT_01 = ~z~Look out! One of his boys!
+
+ODR5_WATCHIT_02 = ~z~Watch out, he's going for you!
+

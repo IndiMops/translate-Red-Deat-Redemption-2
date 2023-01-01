@@ -1,0 +1,20 @@
+CKBL2_MBOX_ACT_1 = ~z~Me and the kid made a killing out there... a killing!
+
+CKBL2_MBOX_ACT_2 = ~z~Well, put something in the box.
+
+CKBL2_MBOX_ACT_3 = ~z~Of course...
+
+CKBL2_MBOX_ACT_4 = ~z~
+
+CKBL2_MBOX_ACT_5 = ~z~Now... how about we grab ourselves a drink, son?
+
+CKBL2_MBOX_ACT_6 = ~z~Sure, but I ain't sitting on your knee.
+
+CKBL2_MBOX_ACT_7 = ~z~This boy is a killer! All of you, a killer!
+
+CKBL2_TABLE_ACT_1 = ~z~We robbed a stage Arthur... the boy's idea.
+
+CKBL2_TABLE_ACT_2 = ~z~Good work gentlemen... good work.
+
+CKBL2_WNT_ACT_1 = ~z~That was good business... good business...
+

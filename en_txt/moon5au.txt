@@ -1,0 +1,424 @@
+MOON5_CLOSE_1 = ~z~Okay, we're almost there.
+
+MOON5_CLOSE_2 = ~z~~sl:0.0:1.2~Park the wagon just ahead~sl:~where we can get a nice spread of moonshine around it.
+
+MOON5_COMBAT1_01 = ~z~Keep them off Agent Hixon!
+
+MOON5_COMBAT1_02 = ~z~This is your last chance to surrender or we will kill you!
+
+MOON5_COMBAT2_01 = ~z~That's far enough, we have this whole place on lockdown!
+
+MOON5_COMBAT2_02 = ~z~~sl:0.0:1.2~You aren't above the law,~sl:0.2~and today it will be enforced to its fullest effect!
+
+MOON5_DANFLEE1_1 = ~z~Oh, goddammit...
+
+MOON5_DANFLEE1_2 = ~z~You stay away from me!
+
+MOON5_DANFLEE2_01 = ~z~What the hell do you want from me?
+
+MOON5_DANFLEE2_02 = ~z~Is this some kind of sick entertainment to you?
+
+MOON5_DANFLEEA_1 = ~z~My leg! Shit, I can't do this. I give up. I give up!
+
+MOON5_DEALWITH_1 = ~z~~sl:0.0:2.2~Danny-Lee, Braithwaite, Hixon...~sl:0.4~today's the day we deal with the lot of 'em.
+
+MOON5_DOUSE1_1 = ~z~Remember, we've got to douse this whole area.
+
+MOON5_DOUSE1_2 = ~z~~sl:0.0:1.7~I want to make sure that when we spark it,~sl:0.2~they'll be killed or trapped with nowhere to go.
+
+MOON5_DOUSE2_1 = ~z~~sl:0.0:1.6~Any of them survive, we'll pick 'em off~sl:~from the hiding spot over there.
+
+MOON5_DOUSED_01 = ~z~That looks good.
+
+MOON5_DOUSED_02 = ~z~Good job.
+
+MOON5_DOUSED_03 = ~z~Alright, move on from there now.
+
+MOON5_DOUSED_04 = ~z~Yeah, that should be enough for that spot.
+
+MOON5_DOUSEIDLE_01 = ~z~Quick as you can.
+
+MOON5_DOUSEIDLE_02 = ~z~Come on, we don't have a lot of time.
+
+MOON5_DOUSEIDLE_03 = ~z~We need to get a move on here.
+
+MOON5_DOUSEIDLE_04 = ~z~Hurry, they'll be here any minute.
+
+MOON5_EXT_1 = ~z~Oh! The guest of honor.
+
+MOON5_EXT_2 = ~z~Finally.
+
+MOON5_EXT_3 = ~z~Give me your knife.
+
+MOON5_EXT_4 = ~z~You know I was so looking forward to seeing you...
+
+MOON5_EXT_5 = ~z~that I got you your favourite whisky.
+
+MOON5_EXT_6 = ~z~Go on, give the man a drink.
+
+MOON5_EXT_7 = ~z~I'm fine.
+
+MOON5_EXT_8 = ~z~Give him a goddamn drink!
+
+MOON5_EXT_9 = ~z~What do you want from me?
+
+MOON5_EXT_10 = ~z~You snake.
+
+MOON5_EXT_11 = ~z~You left me to die!
+
+MOON5_EXT_12 = ~z~What was I supposed to do?
+
+MOON5_EXT_13 = ~z~Six years...
+
+MOON5_EXT_14 = ~z~I gave you my trust, my power.
+
+MOON5_EXT_15 = ~z~Power?
+
+MOON5_EXT_16 = ~z~Listen to you.
+
+MOON5_EXT_17 = ~z~You can't see yourself, Maggie. You never could.
+
+MOON5_EXT_18 = ~z~Oh, I see myself.
+
+MOON5_EXT_19 = ~z~I can't not see myself.
+
+MOON5_EXT_20 = ~z~But I won't slink off like a coward.
+
+MOON5_EXT_21 = ~z~I'll look you dead in the eye.
+
+MOON5_EXT_22 = ~z~Maggie...
+
+MOON5_EXT_23 = ~z~please.
+
+MOON5_EXT_24 = ~z~Get outta here...
+
+MOON5_EXT_25 = ~z~and I mean so far away you'll never see me again.
+
+MOON5_EXT_26 = ~z~I didn't...
+
+MOON5_EXT_27 = ~z~I mean, I'm...
+
+MOON5_EXT_28 = ~z~Just go, Danny-Lee.
+
+MOON5_EXT_29 = ~z~Here.
+
+MOON5_EXT_30 = ~z~It is good whisky.
+
+MOON5_EXT_31 = ~z~And Hixon?
+
+MOON5_EXT_32 = ~z~Good.
+
+MOON5_EXT_33 = ~z~Well, maybe it's time for...
+
+MOON5_EXT_34 = ~z~me to move on myself.
+
+MOON5_EXT_35 = ~z~Too many memories around here.
+
+MOON5_EXT_36 = ~z~I don't know.
+
+MOON5_EXT_37 = ~z~Maybe not.
+
+MOON5_EXT_38 = ~z~For now...
+
+MOON5_EXT_39 = ~z~prosper.
+
+MOON5_FIRE_1 = ~z~Finish Hixon, and bring Danny-Lee to Maggie!
+
+MOON5_GROUND_1 = ~z~What's going on? You're just going to leave me here?
+
+MOON5_HIDING1_01 = ~z~Just how stupid are you? I'm a federal agent.
+
+MOON5_HIDING1_02 = ~z~There is no winning for you, you do realize that? Only running.
+
+MOON5_HIDING1_03 = ~z~That poison you peddle has rotted your brains!
+
+MOON5_HIDING2_01 = ~z~~sl:0.0:2.0~What are you men doing out there?~sl:0.3~Why are these hicks still standing?
+
+MOON5_HIDING2_02 = ~z~~sl:0.0:2.2~You think this is the end of your problems?~sl:0.3~This is the start of your problems, believe me!
+
+MOON5_HIDING2_03 = ~z~Everything you people got, you brought on yourselves!
+
+MOON5_HIXFLEE_01 = ~z~You idiots! This was your master plan?
+
+MOON5_HIXFLEE_02 = ~z~I'm falling back! Give me some cover!
+
+MOON5_HIXFLEE_03 = ~z~Open fire on these fools! I want them all dead!
+
+MOON5_HIXFLEE_04 = ~z~A bonus for any man who brings me their heads!
+
+MOON5_HIXFLEE_05 = ~z~What is happening here? Get them off me now!
+
+MOON5_HIXTAUNT1_01 = ~z~~sl:0.0:3.8~Only Fike and his escort of simpletons~sl:0.1~could spring a trap on themselves!
+
+MOON5_HIXTAUNT1_02 = ~z~~sl:0.0:1.9~You better get used to this,~sl:0.2~because you'll be burning for the rest of time!
+
+MOON5_HIXTAUNT2_01 = ~z~~sl:0.0:2.0~Even if you make it out of here,~sl:0.2~I have men surrounding this entire area.
+
+MOON5_HIXTAUNT2_02 = ~z~There's nowhere for you to hide!
+
+MOON5_HOGTIEDAL_1 = ~z~Just take it easy. It ain't like I can run off!
+
+MOON5_HOGTIED_1 = ~z~Hey, come on now. This ain't right.
+
+MOON5_HORSE_1 = ~z~~sl:0.0:1.5~You're taking me to her, ain't you?~rp~~sl:3.5~Jesus, I already know how this is gonna go.
+
+MOON5_HORSE_2 = ~z~~sl:0.0:1.7~She fixes on a story in her head~sl:0.0:1.9~and t-then there's no changing it.~rp~~sl:2.1~I mean... what choice did I have?
+
+MOON5_HORSE_3 = ~z~You think I wanted to work for the damn Braithwaites?
+
+MOON5_HORSE_4 = ~z~~sl:0.0:4.2~I needed protection, but I was just trying to survive,~sl:0.7~like everybody else.
+
+MOON5_HORSE_5 = ~z~~sl:0.0:3.3~Please... ~rp~she'll kill me.~rp~~sl:1.4~I've made some mistakes, but I ain't a bad man.
+
+MOON5_HORSE_6 = ~z~Listen to me, damn you...
+
+MOON5_IG1_CONV1_1 = ~z~~sl:0.0:1.6~Okay, we have to move fast here.~sl:0.2:1.8~Get the shine off the wagon.~sl:0.3~We're gonna douse this whole area.
+
+MOON5_IG1_CONV2_1 = ~z~~sl:0.0:2.2~Good, alright then, start pouring.~sl:0.2~We need a nice even trail, so when it blows...
+
+MOON5_IG1_CONV2_2 = ~z~Hixon, Danny-Lee and Braithwaite ain't got nowhere to go.
+
+MOON5_IG1_CONV3_1 = ~z~This is special shine, not the drinking sort. It goes up like hell.
+
+MOON5_IG1_CONV4_1 = ~z~~sl:0.0:1.5~We take out Hixon first.~sl:0.3:1.8~If Danny-Lee survives the blast, remember,~sl:~Aunt Maggie wants him alive.
+
+MOON5_IG3_LEM_1 = ~z~
+
+MOON5_IG3_LEM_2 = ~z~~sl:0.0:3.3~Hey, are you alright? Shit...~sl:0.0:~I'm sorry, I snapped... I-I didn't know what else to do.
+
+MOON5_IG3_LEM_3 = ~z~~sl:0.5:2.1~Hixon and Danny-Lee, they went that way...~sl:0.3:1.6~Go after Hixon first...~sl:~Danny-Lee, he-he's in a bad way, he won't get far!
+
+MOON5_IG3_LEM_4 = ~z~
+
+MOON5_IG3_REV_1 = ~z~
+
+MOON5_IG3_REV_2 = ~z~
+
+MOON5_IG3_REV_3 = ~z~~sl:2.5:1.1~Those idiots...~sl:6.3:0.6~Alright.
+
+MOON5_IG3_REV_4 = ~z~~sl:3.3:1.2~Goddamn it.
+
+MOON5_IG4_G1_1 = ~z~~sl:3.0:2.2:!~What... what the hell happened?
+
+MOON5_IG4_G2_1 = ~z~~sl:4.1:1.1:1~I can't breathe.
+
+MOON5_IG4_R1_1 = ~z~~sl:3.1:1.3:1~For Christ's sake.
+
+MOON5_IG4_R2_1 = ~z~~sl:1.3:2.0:1~Shit, it's everywhere.
+
+MOON5_INT_1 = ~z~I want to thank you again.
+
+MOON5_INT_2 = ~z~I couldn't have done any of this without you.
+
+MOON5_INT_3 = ~z~We got a quality product.
+
+MOON5_INT_4 = ~z~Control of the market.
+
+MOON5_INT_5 = ~z~The competition is in pieces.
+
+MOON5_INT_6 = ~z~We are running the show again.
+
+MOON5_INT_7 = ~z~But we both know...
+
+MOON5_INT_8 = ~z~there's unfinished business.
+
+MOON5_INT_9 = ~z~Danny-Lee, the Braithwaites, the revenuers.
+
+MOON5_INT_10 = ~z~The writing's been on the wall...
+
+MOON5_INT_11 = ~z~for these sons of bitches for too long now.
+
+MOON5_INT_12 = ~z~And today's the day we wipe it clean.
+
+MOON5_INT_13 = ~z~All done.
+
+MOON5_INT_14 = ~z~You mixed it right?
+
+MOON5_INT_15 = ~z~It's good.
+
+MOON5_INT_16 = ~z~I did it with Marcel.
+
+MOON5_INT_17 = ~z~Alright then.
+
+MOON5_INT_18 = ~z~Now, Lem here...
+
+MOON5_INT_19 = ~z~he set a meet with Danny-Lee and Braithwaite.
+
+MOON5_INT_20 = ~z~Let on he wants to cut a deal on the side.
+
+MOON5_INT_21 = ~z~Anything to get out from overbearing Aunt Maggie.
+
+MOON5_INT_22 = ~z~She can be overbearing.
+
+MOON5_INT_23 = ~z~And they're desperate enough by now.
+
+MOON5_INT_24 = ~z~As for Hixon, we floated word to him.
+
+MOON5_INT_25 = ~z~The chance to get us, Danny-Lee...
+
+MOON5_INT_26 = ~z~and the Braithwaites in one swoop.
+
+MOON5_INT_27 = ~z~We're gonna get there early, douse the spot in this...
+
+MOON5_INT_28 = ~z~and give 'em a hell of a surprise.
+
+MOON5_INT_29 = ~z~If you can get Danny-Lee alive, you bring him here to me.
+
+MOON5_INT_30 = ~z~If not, well so be it.
+
+MOON5_INT_31 = ~z~As for Hixon...
+
+MOON5_INT_32 = ~z~you promise me you'll smile when he takes his last breath.
+
+MOON5_INT_33 = ~z~Alright, go get the wagon ready. It's time.
+
+MOON5_INT_34 = ~z~You watch him for me.
+
+MOON5_INT_35 = ~z~He's uh...
+
+MOON5_INT_36 = ~z~well, he ain't you.
+
+MOON5_LASSOALT_1 = ~z~Hey, there's no need for that!
+
+MOON5_LASSO_1 = ~z~Shit!
+
+MOON5_MCS1_1 = ~z~Alright, that looks pretty good.
+
+MOON5_MCS1_2 = ~z~Now...
+
+MOON5_MCS1_3 = ~z~come on, let's find some cover.
+
+MOON5_MCS1_4 = ~z~Where is he?
+
+MOON5_MCS1_5 = ~z~Wagon's here.
+
+MOON5_MCS1_6 = ~z~Lem!
+
+MOON5_MCS1_7 = ~z~It's Danny-Lee!
+
+MOON5_MCS1_8 = ~z~This stuff stinks.
+
+MOON5_MCS1_9 = ~z~Well if this is their recipe, I'm not sure I want it.
+
+MOON5_MCS1_10 = ~z~Lem!
+
+MOON5_MCS1_11 = ~z~You got one minute, Fike. Or we're outta here!
+
+MOON5_MCS1_12 = ~z~Hold it right there.
+
+MOON5_MCS1_13 = ~z~What the hell is this?
+
+MOON5_MCS1_14 = ~z~You said it was all good.
+
+MOON5_MCS1_15 = ~z~Well it was.
+
+MOON5_MCS1_16 = ~z~Mr. Caton...
+
+MOON5_MCS1_17 = ~z~I feel like you've been avoiding me.
+
+MOON5_MCS1_18 = ~z~And you must be the Braithwaite.
+
+MOON5_MCS1_19 = ~z~How sad, from prince to peasant.
+
+MOON5_MCS1_20 = ~z~I got guns covering this whole area.
+
+MOON5_MCS1_21 = ~z~Is that a threat?
+
+MOON5_MCS1_22 = ~z~You let me go, I'll call 'em off...
+
+MOON5_MCS1_23 = ~z~and, and, and you can have Danny-Lee.
+
+MOON5_MCS1_24 = ~z~What? Mr. Braithwaite...
+
+MOON5_MCS1_25 = ~z~I can have him?
+
+MOON5_MCS1_26 = ~z~How very kind of you.
+
+MOON5_MCS1_27 = ~z~And I also have one hundred dollars.
+
+MOON5_MCS1_28 = ~z~Right, right here.
+
+MOON5_MCS1_29 = ~z~Well...
+
+MOON5_MCS1_30 = ~z~never let it be said that I'm not a reasonable man.
+
+MOON5_MCS1_31 = ~z~Well go on then, if you're going.
+
+MOON5_MCS1_32 = ~z~Why are they letting him go?
+
+MOON5_MCS1_33 = ~z~Really?
+
+MOON5_MCS1_34 = ~z~You're all but finished anyway.
+
+MOON5_MCS1_35 = ~z~I only catch the big fish.
+
+MOON5_MCS1_36 = ~z~Put your goddamn hands up!
+
+MOON5_MCS1_37 = ~z~Alright, start moving!
+
+MOON5_MCS1_38 = ~z~God damn you.
+
+MOON5_MCS1_39 = ~z~Oh, here he is.
+
+MOON5_MCS1_40 = ~z~The halfwit.
+
+MOON5_MCS1_41 = ~z~It's not really his fault, fellers.
+
+MOON5_MCS1_42 = ~z~His mother drank a lot.
+
+MOON5_MCS1_43 = ~z~You goddamn son of a bitch.
+
+MOON5_MCS1_44 = ~z~Thanks for all this.
+
+MOON5_MCS1_45 = ~z~Didn't you ever wonder why I kept you alive, you born idiot?
+
+MOON5_MCS1_46 = ~z~How's your aunt, by the way?
+
+MOON5_MCS1_47 = ~z~I never got a chance to ask you at the boat.
+
+MOON5_MCS1_48 = ~z~I hear she's looking well.
+
+MOON5_MCS1_49 = ~z~You bastard!
+
+MOON5_MCS2_1 = ~z~Okay...
+
+MOON5_MCS2_2 = ~z~okay.
+
+MOON5_MCS2_3 = ~z~I think this has all...
+
+MOON5_MCS2_4 = ~z~gotten a little out of hand now, don't you?
+
+MOON5_MCS2_5 = ~z~You know what they do to people...
+
+MOON5_MCS2_6 = ~z~that murder federal agents.
+
+MOON5_MCS2_7 = ~z~I can make that go away.
+
+MOON5_MCS2_8 = ~z~You kill me...
+
+MOON5_MCS2_9 = ~z~you'll be running for the rest of your life.
+
+MOON5_MCS2_10 = ~z~Come on.
+
+MOON5_MCS2_11 = ~z~That frazzled hag is just using you.
+
+MOON5_MCS2_12 = ~z~Like she uses everyone else.
+
+MOON5_PICKUP_1 = ~z~Where the hell are you taking me?
+
+MOON5_PICKUP_2 = ~z~Not to Maggie. Please, anything but that, I'm begging you.
+
+MOON5_PLAN_1 = ~z~~sl:0.0:3.7~So, I personally mixed this whole batch. Every single bottle.~sl:0.5~Well, me and Marcel.
+
+MOON5_PLAN_2 = ~z~~sl:0.0:2.9~Good hooch puts hairs on your chest, but this stuff...~sl:0.0:1.5~it'll torch 'em right off.~rp~~sl:0.6~Kero-Shine, I like to call it...
+
+MOON5_PLAN_3 = ~z~~sl:0.0:3.3~Anyway, w-we'll pour this stuff all around the meeting spot,~rp~~sl:0.3:2.6~wait for the three musketeers to show up, then...~sl:0.1~Boom! Ring of fire!
+
+MOON5_PLAN_4 = ~z~~sl:0.0:2.4~The deal with Braithwaite was no Lemoyne Raiders,~sl:~so i-it should just be the three of them.
+
+MOON5_PLAN_5 = ~z~~sl:0.1:2.2~Christ knows who Hixon'll~sl:0.0:1.4~bring along with him for the ride, but...~rp~~sl:0.2~we do this right, they won't even know what hit 'em.
+
+MOON5_PLAN_6 = ~z~~sl:0.0:2.8~Sitting ducks.~rp~ If the blast doesn't kill 'em,~sl:~w-we'll pick 'em off one by one from the trees.
+
+MOON5_PLAN_7 = ~z~Pow, pow, pow!
+

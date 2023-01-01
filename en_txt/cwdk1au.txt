@@ -1,0 +1,24 @@
+CWDK1_ACTD_1 = ~z~There you are, Arthur.
+
+CWDK1_ACTD_2 = ~z~I feel... ashamed.
+
+CWDK1_ACTD_3 = ~z~I'm sure you do.
+
+CWDK1_ACTD_4 = ~z~I... I...
+
+CWDK1_ACTD_5 = ~z~Liquor ain't your friend, Arthur. Not when you drink so much of it.
+
+CWDK1_ACTD_6 = ~z~I know...
+
+CWDK1_ACTS_1 = ~z~There you are, Arthur.
+
+CWDK1_ACTS_2 = ~z~I feel ashamed.
+
+CWDK1_ACTS_3 = ~z~I am sure you do.
+
+CWDK1_ACTS_4 = ~z~I... I...
+
+CWDK1_ACTS_5 = ~z~Liquor ain't your friend, Arthur. Not when you drink so much of it.
+
+CWDK1_ACTS_6 = ~z~I know.
+

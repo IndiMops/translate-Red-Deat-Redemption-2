@@ -1,0 +1,888 @@
+LBPER_BBANT1_1 = ~z~~sl:0.0:3.6~You got the first idea what you're getting yourself into here?~rp~~sl:1.4~This is the dumbest move you ever made.
+
+LBPER_BBANT1_2 = ~z~~sl:0.0:2.5~You think this is some easy pay day?~sl:0.2:1.8~Let me assure you, sweetheart...~sl:0.3~you got no easy days left after this.
+
+LBPER_BBANT2_1 = ~z~~sl:0.0:4.1~There ain't a cell that can hold me... I've escaped them all.~rp~~sl:0.1:3.6~And the first thing I do,~rp~ every time...~sl:0.2~is hunt down those who put me in there.
+
+LBPER_BBANT2_2 = ~z~~sl:0.0:3.3~I don't live looking over my shoulder no more...~sl:0.4~I fix things so I can keep looking straight ahead.
+
+LBPER_BBANT3_1 = ~z~~sl:0.0:2.5~You think I won't be able to find you?~rp~~sl:0.4~You think I don't know who sent you?
+
+LBPER_BBANT3_2 = ~z~~sl:0.5:3.7~That bounty hunter reckons she's something special,~sl:0.3~but won't even come after me herself?
+
+LBPER_BBANT3_3 = ~z~~sl:0.0:1.8~That's 'cause she ain't stupid...~sl:0.5~she knows I don't forgive and forget.
+
+LBPER_BBANT4_1 = ~z~~sl:0.0:2.3~Whatever price there is on my head...~sl:0.3~is that worth your life?~rp~ I don't make empty threats.
+
+LBPER_BBANT4_2 = ~z~~sl:0.0:3.7~I will find you, I find everyone.~rp~~sl:0.2~But let me go now and you'll never see me again.
+
+LBPER_BBANT4_3 = ~z~~sl:0.0:3.3~You have my word, and everyone knows~sl:0.1~Etta Doyle lives and dies by her word.
+
+LBPER_BBANT5_1 = ~z~~sl:0.0:2.7~Don't try to act tough and ignore me.~rp~~sl:0.5:4.0~You think you've got guts? I'll show you your guts...~sl:0.2~and make you carry them in your arms to hell.
+
+LBPER_BBANT5_2 = ~z~I'll teach you what pain really is. Things I've been through...
+
+LBPER_BBANT5_3 = ~z~~sl:0.0:3.1~things all my girls have been through,~sl:~we're cold to it. Believe me.
+
+LBPER_BBANT6_1 = ~z~~sl:0.0:3.0~We only rob those who deserve it.~rp~~sl:0.5:4.8~Evil bastards like Cornwall who think they're God~sl:~and get rich off of other folks' sweat and suffering.
+
+LBPER_BBANT6_2 = ~z~~sl:0.0:2.3~You want to put money back in his pocket?~rp~~sl:0.5~Cause that's what'll happen if you go through with this.
+
+LBPER_BBANT6_3 = ~z~~sl:0.0:4.7~A fat man'll get fatter, and you'll get dead.~rp~~sl:0.7~Is that really worth it?
+
+LBPER_BTYFLEE1_01 = ~z~Alright, I'm out. Mop this up, girls.
+
+LBPER_BTYFLEE1_02 = ~z~Ok, you finish up here, I'll see you later. Give 'em hell!
+
+LBPER_BTYFLEE1_03 = ~z~I think you've got this, girls. You know where to find me.
+
+LBPER_BTYFLEE2_01 = ~z~Come on, girls, I think we're done here!
+
+LBPER_BTYFLEE2_02 = ~z~Okay, time to move out. Come on!
+
+LBPER_BTYFLEE2_03 = ~z~Time to go, girls! Let's move.
+
+LBPER_BTYFLEE3_01 = ~z~Give it up now, if you know what's good for you!
+
+LBPER_BTYFLEE3_02 = ~z~Guess your little trap didn't work, huh?
+
+LBPER_BTYFLEE3_03 = ~z~You stay the hell back!
+
+LBPER_BTYFLEE3_04 = ~z~You must think I was born yesterday!
+
+LBPER_BTYFLEE3_05 = ~z~There's no goddamn way I'm going back inside!
+
+LBPER_BTYFLEE3_06 = ~z~You don't know who the hell you're messing with!
+
+LBPER_CARRYALVE_1 = ~z~Come on, girls, help me out here!
+
+LBPER_CARRYALVE_2 = ~z~Is one of you gonna do something?
+
+LBPER_CARRYALVE_3 = ~z~What the hell? Have you girls turned yellow on me?
+
+LBPER_CARRYDEAD_01 = ~z~~sl:0.0:2.0~You killed all of them?~sl:0.6~They was good women, damn you!
+
+LBPER_CARRYDEAD_02 = ~z~~sl:0.0:2.2~I'll get my pound of flesh for~sl:~every single one of them women you murdered!
+
+LBPER_CARRYDEAD_03 = ~z~~sl:0.0:4.2~Every single of one them girls was worth ten of you!~sl:0.5~You're gonna pay for this, I swear.
+
+LBPER_CLOSE_01 = ~z~Yeah, you ain't catching me, sweetheart!
+
+LBPER_CLOSE_02 = ~z~Oh, no you don't!
+
+LBPER_CLOSE_03 = ~z~Lay one finger on me and you're dead.
+
+LBPER_CLOSE_04 = ~z~Any closer and I'll blow your brains out.
+
+LBPER_CLOSE_05 = ~z~Stay the hell away from me!
+
+LBPER_CLOSE_06 = ~z~Fast one, ain't you?
+
+LBPER_COACHDRVR_01 = ~z~Shit, okay, let's have at 'em, girls!
+
+LBPER_COACHDRVR_02 = ~z~Damn it, looks like we're shooting our way out of here!
+
+LBPER_COACHDRVR_03 = ~z~End of the ride, let's take 'em out!
+
+LBPER_COACH_01 = ~z~Shit, we're under fire!
+
+LBPER_COACH_02 = ~z~Damn it, they must have known we were coming!
+
+LBPER_COACH_03 = ~z~Go, go, go, don't stop!
+
+LBPER_COMBAT1B_01 = ~z~Shoot the hell out of 'em!
+
+LBPER_COMBAT1B_02 = ~z~Blow their goddamn brains out!
+
+LBPER_COMBAT1B_03 = ~z~Think they can bushwhack us?  Take 'em down!
+
+LBPER_COMBAT1C_01 = ~z~Goddamn it, take 'em out!
+
+LBPER_COMBAT1C_02 = ~z~It's a trap!
+
+LBPER_COMBAT1C_03 = ~z~Unload on 'em, girls!
+
+LBPER_COMBAT1_01 = ~z~Oh shit, we've been had!
+
+LBPER_COMBAT1_02 = ~z~Take 'em down!
+
+LBPER_COMBAT1_03 = ~z~Look out! We got trouble!
+
+LBPER_COMBAT2B_01 = ~z~Come on, show 'em who they're dealing with!
+
+LBPER_COMBAT2B_02 = ~z~Who the hell tipped them off?
+
+LBPER_COMBAT2B_03 = ~z~Just keep shooting till nothing moves!
+
+LBPER_COMBAT2C_01 = ~z~Don't let them get to Etta!
+
+LBPER_COMBAT2C_02 = ~z~Who the hell are they, law?
+
+LBPER_COMBAT2C_03 = ~z~Stand your ground, and watch Etta!
+
+LBPER_COMBAT2_01 = ~z~Don't let 'em get anywhere near Etta!
+
+LBPER_COMBAT2_02 = ~z~Goddamn bounty hunters!
+
+LBPER_COMBAT2_03 = ~z~Come on, let's put 'em down and get out of here!
+
+LBPER_CONFRONT1_01 = ~z~I'm getting annoyed with this, come out!
+
+LBPER_CONFRONT1_02 = ~z~Just save us both some time and show yourself!
+
+LBPER_CONFRONT2_01 = ~z~Who goes there? I ain't in the mood for this!
+
+LBPER_CONFRONT2_02 = ~z~Hey, let's just be upfront and let me see you.
+
+LBPER_CONFRONT3_01 = ~z~Alright now, come on out.
+
+LBPER_CONFRONT3_02 = ~z~Enough with the hiding bullshit, show yourself!
+
+LBPER_CORPSE1_01 = ~z~What the hell? Anybody see what happened here?
+
+LBPER_CORPSE1_02 = ~z~Guns ready, all of you! We've got a girl down over here.
+
+LBPER_CORPSE1_03 = ~z~Goddamn it! We ain't alone in here, girls. Be on the lookout.
+
+LBPER_CORPSE1_04 = ~z~Shit, we got a problem.There's a body over here!
+
+LBPER_CORPSE2_01 = ~z~Shit, we got a body here!
+
+LBPER_CORPSE2_02 = ~z~Goddamn it, we got a girl down. There's someone in here!
+
+LBPER_CORPSE2_03 = ~z~Jesus, anybody see what happened here?
+
+LBPER_CORPSE2_04 = ~z~Christ, get your guns ready... we got a problem here!
+
+LBPER_CORPSE3_01 = ~z~Oh shit, we got one on the ground here! This ain't good!
+
+LBPER_CORPSE3_02 = ~z~Christ, no, get ready for trouble! There's a body over here!
+
+LBPER_CORPSE3_03 = ~z~Got a girl down here... what the hell's going on?
+
+LBPER_CORPSE4_01 = ~z~What the hell? We've got company in here, girls!
+
+LBPER_CORPSE4_02 = ~z~Shit, there's a body over here!
+
+LBPER_CORPSE4_03 = ~z~Damn it, we've got a girl on the ground here.
+
+LBPER_CORPSE4_04 = ~z~Everyone look alive, we got a girl down here.
+
+LBPER_CORPSE4_05 = ~z~Shit, there's a body here! One of ours!
+
+LBPER_CORPSE5_01 = ~z~Goddamn it, we got a girl down over here!
+
+LBPER_CORPSE5_02 = ~z~Shit, we got a dead body over here!
+
+LBPER_CORPSE5_03 = ~z~Everyone look lively, there's a goddamn body over here!
+
+LBPER_CORPSE5_04 = ~z~Hellfire, anybody see what happened here?
+
+LBPER_CORPSE5_05 = ~z~Everyone look the hell out, we got a girl on the ground here.
+
+LBPER_DISCOVER1_01 = ~z~Goddammit! What are you doing?
+
+LBPER_DISCOVER1_02 = ~z~What the hell are you up to?
+
+LBPER_DISCOVER2_01 = ~z~Whoa! What the hell? What are you doing here?
+
+LBPER_DISCOVER2_02 = ~z~Oh my God, what are you thinking?
+
+LBPER_DISCOVER3_01 = ~z~Goddamn, what the hell you hiding for?
+
+LBPER_DISCOVER3_02 = ~z~Shit! Why are you hiding there?
+
+LBPER_F1_CORPSE_01 = ~z~Oh shit, there's a body over here!
+
+LBPER_F1_CORPSE_02 = ~z~Oh my God, did anybody see what happened here?
+
+LBPER_F1_CORPSE_03 = ~z~This ain't good, we got a girl down here!
+
+LBPER_F1_CORPSE_04 = ~z~Be ready for trouble, we got a body here!
+
+LBPER_F1_CORPSE_05 = ~z~Guns out, we got a problem here!
+
+LBPER_F1_NOISE_01 = ~z~I think I heard something
+
+LBPER_F1_NOISE_02 = ~z~What was that?
+
+LBPER_F1_NOISE_03 = ~z~I heard something over this way.
+
+LBPER_F1_NOISE_04 = ~z~Did anybody hear that?
+
+LBPER_F1_NOISE_05 = ~z~I'm sure I heard something over there.
+
+LBPER_F2_CORPSE_01 = ~z~Mierda, there's a body here!
+
+LBPER_F2_CORPSE_02 = ~z~Dios mio, what the hell happened here?
+
+LBPER_F2_CORPSE_03 = ~z~Look out! We've got a girl on the ground here!
+
+LBPER_F2_CORPSE_04 = ~z~Eyes open, girls, we got a body here!
+
+LBPER_F2_CORPSE_05 = ~z~Shit, we've got a problem... dead body over here!
+
+LBPER_F2_NOISE_01 = ~z~Sure I heard something.
+
+LBPER_F2_NOISE_02 = ~z~Hey, what was that?
+
+LBPER_F2_NOISE_03 = ~z~There was a noise over this way.
+
+LBPER_F2_NOISE_04 = ~z~Anybody else hear that?
+
+LBPER_F2_NOISE_05 = ~z~Think I heard some movement over here.
+
+LBPER_F4_CORPSE_01 = ~z~Okay, we've got a problem here!
+
+LBPER_F4_CORPSE_02 = ~z~Everyone look out, there must be someone in here with us!
+
+LBPER_F4_CORPSE_03 = ~z~Mierda, there's a body over here! One of ours!
+
+LBPER_F4_CORPSE_04 = ~z~We've got a girl on the ground over here!
+
+LBPER_F4_CORPSE_05 = ~z~Carajo, what the hell happened here?
+
+LBPER_F4_NOISE_01 = ~t~In Spanish: What was that?
+
+LBPER_F4_NOISE_02 = ~z~You hear that?
+
+LBPER_F4_NOISE_03 = ~z~Something moved over here.
+
+LBPER_F4_NOISE_04 = ~z~I think I heard something.
+
+LBPER_F4_NOISE_05 = ~z~What was that noise?
+
+LBPER_F5_CORPSE_01 = ~z~Shit, we've got a problem here!
+
+LBPER_F5_CORPSE_02 = ~z~Watch it, there must be someone in here with us!
+
+LBPER_F5_CORPSE_03 = ~z~Look out, there's a body over here!
+
+LBPER_F5_CORPSE_04 = ~z~We got a girl on the ground over here!
+
+LBPER_F5_CORPSE_05 = ~z~Oh, shit no, there's a body here! One of ours!
+
+LBPER_F5_NOISE_01 = ~z~You hear that?
+
+LBPER_F5_NOISE_02 = ~z~What's going on there?
+
+LBPER_F5_NOISE_03 = ~z~I heard a noise from this way.
+
+LBPER_F5_NOISE_04 = ~z~I must be hearing things.
+
+LBPER_F5_NOISE_05 = ~z~That was definitely a noise.
+
+LBPER_FIGHT_01 = ~z~Okay, see now you've gone and got yourself dead.
+
+LBPER_FIGHT_02 = ~z~Alright, I am done with this now. Nobody leaves here alive!
+
+LBPER_FIGHT_03 = ~z~~sl:0.0:2.6~Any fool thinks they're taking me in today...~sl:0.1~I got a bullet here for you!
+
+LBPER_FLEEB_1 = ~z~Right behind you, Etta!
+
+LBPER_FLEEB_2 = ~z~You heard Etta... let's go!
+
+LBPER_FLEEB_3 = ~z~I knew we shouldn't have trusted those sons of bitches!
+
+LBPER_FLEEC_01 = ~z~With Etta, come on! Let's go!
+
+LBPER_FLEEC_02 = ~z~Those bastards... what a waste of goddamn time.
+
+LBPER_FLEEC_03 = ~z~Okay, Etta, let's get out of this shithole!
+
+LBPER_FLEE_01 = ~z~Right behind you, Etta!
+
+LBPER_FLEE_02 = ~z~It's a bust, let's go!
+
+LBPER_FLEE_03 = ~z~You heard the boss, time to go!
+
+LBPER_GBANT1B_01 = ~z~Seen anything yet?
+
+LBPER_GBANT1B_02 = ~z~I'll have a look over this side.
+
+LBPER_GBANT1B_03 = ~z~They was right about the security... place is dead.
+
+LBPER_GBANT1B_04 = ~z~Keep an eye out for ammunition, dynamite, lockboxes...
+
+LBPER_GBANT1B_05 = ~z~I'll never get tired of robbing Cornwall...
+
+LBPER_GBANT1B_06 = ~z~Sooner we get out of here, the better... place gives me the creeps.
+
+LBPER_GBANT1C_01 = ~z~Nothing yet, they had any luck over the other side?
+
+LBPER_GBANT1C_02 = ~z~Keep your eyes skinned for any more guards. Two seems real light.
+
+LBPER_GBANT1C_03 = ~z~Oil, rail, sugar... is there any pies Cornwall doesn't have his fat fingers in?
+
+LBPER_GBANT1C_04 = ~z~Watch for any movements inside the buildings.
+
+LBPER_GBANT1C_05 = ~z~Ain't it kinda strange they'd have this stuff stashed out in the yard here? I don't know...
+
+LBPER_GBANT1C_06 = ~z~Make sure you check every corner, girls.
+
+LBPER_GBANT1_01 = ~z~Everything looks the damn same in here.
+
+LBPER_GBANT1_02 = ~z~Check everything twice if you need to.
+
+LBPER_GBANT1_03 = ~z~I'm guessing it'll be something with a lock on it.
+
+LBPER_GBANT1_04 = ~z~Reminds me of that factory we hit in Phoenix.
+
+LBPER_GBANT1_05 = ~z~This is like looking for a needle in a haystack.
+
+LBPER_GBANT1_06 = ~z~Keep your eyes open, something doesn't feel right about this.
+
+LBPER_GBANT2A_1 = ~z~Those guards still out cold?
+
+LBPER_GBANT2A_2 = ~z~Seem it, I think this ones still breathing...
+
+LBPER_GBANT2A_3 = ~z~I thought I saw this one move a little, should I hit him again?
+
+LBPER_GBANT2A_4 = ~z~Nah he's good, out like a light.
+
+LBPER_GBANT2A_5 = ~z~Peaceful aint they?
+
+LBPER_GBANT2A_6 = ~z~Should check the pockets on this one.
+
+LBPER_GBANT3B_01 = ~z~I'll be ready for a drink after this, that's for sure.
+
+LBPER_GBANT3B_02 = ~z~I'd like to see the look on Cornwall's face when he finds out about this.
+
+LBPER_GBANT3B_03 = ~z~Makes a change from robbing trains, I guess.
+
+LBPER_GBANT3B_04 = ~z~Wouldn't call this easy money so far.
+
+LBPER_GBANT3B_05 = ~z~If this is what the city smells like, they can keep it.
+
+LBPER_GBANT3C_01 = ~z~Seems far too quiet 'round here...
+
+LBPER_GBANT3C_02 = ~z~Can't believe we passed over that coach job for this.
+
+LBPER_GBANT3C_03 = ~z~If we don't find nothing soon, I reckon we just split.
+
+LBPER_GBANT3C_04 = ~z~Maybe we're too late? Maybe they moved it out already...
+
+LBPER_GBANT3C_05 = ~z~We could really use some good money after those last two jobs.
+
+LBPER_GBANT3_01 = ~z~Etta said this one should be 'the' one, we can lay low for a while after this.
+
+LBPER_GBANT3_02 = ~z~Never goes easy, does it?
+
+LBPER_GBANT3_03 = ~z~Next stop, Doyle's Tavern for me. I'm parched.
+
+LBPER_GBANT3_04 = ~z~Who gave us this tip anyway?
+
+LBPER_GBANT3_05 = ~z~All in a day's work, I guess.
+
+LBPER_GBANT4_01 = ~z~All looking a little too calm if you ask me.
+
+LBPER_GBANT4_02 = ~z~Better be something big after all this.
+
+LBPER_GBANT4_03 = ~z~It'd help if I knew what I was looking for.
+
+LBPER_GBANT4_04 = ~z~Christ, could be anywhere.
+
+LBPER_GBANT4_05 = ~z~I said we should just go rob a bank.
+
+LBPER_GUARDEXPA_1 = ~z~To hell with this. Let's shoot them, less trouble.
+
+LBPER_GUARDEXPA_2 = ~z~Yeah. Sweet dreams.
+
+LBPER_GUARDEXPA_3 = ~z~Okay, you take that one, I'll take this one.
+
+LBPER_GUARDEXPA_4 = ~z~Yeah to hell with them.
+
+LBPER_GUARDEXPA_5 = ~z~Shoot him, don't need this pair waking up.
+
+LBPER_GUARDEXPA_6 = ~z~Fine by me.
+
+LBPER_HIT_01 = ~z~Ow!
+
+LBPER_HIT_02 = ~z~Go to hell!
+
+LBPER_HIT_03 = ~z~Hey!
+
+LBPER_HIT_04 = ~z~Oh, you wait!
+
+LBPER_HIT_05 = ~z~Damn you!
+
+LBPER_HIT_06 = ~z~Is that all you got?
+
+LBPER_HOGTIED_01 = ~z~You're making a big mistake.
+
+LBPER_HOGTIED_02 = ~z~Come on, let's just work this out.
+
+LBPER_HOGTIED_03 = ~z~Get off me, goddamn it.
+
+LBPER_HOGTIED_04 = ~z~Don't you put your filthy hands on me.
+
+LBPER_HOLDUP1_1 = ~z~~sl:0.0:0.9~Hey fellers!~sl:0.3~Can we have a word?
+
+LBPER_HOLDUP1_2 = ~z~~sl:0.0:2.0~Whoa... the hell are you doing?~sl:~This is private property.
+
+LBPER_HOLDUP1_3 = ~z~~sl:0.0:2.4~I count four guns to two, and I know which four are faster,~sl:~so I'd strongly advise you boys to lower those rifles. Now!
+
+LBPER_HOLDUP1_4 = ~z~~sl:0.0:1.9~Okay, look...~sl:~we just work here, we don't want no trouble.
+
+LBPER_HOLDUP1_5 = ~z~Too late for that.
+
+LBPER_HOLDUP1_6 = ~z~Wait, please!
+
+LBPER_HOLDUP1_7 = ~z~Okay, girls, come on. Let's tear this place apart.
+
+LBPER_IDLE_01 = ~z~~sl:0.0:2.0~You ain't ready to do this, are you?~sl:0.3~Just cut me loose and move on with your life.
+
+LBPER_IDLE_02 = ~z~~sl:0.0:3.7~Come on. Stop dragging this out and be smart.~sl:0.2~You made a mistake, but you still got time to fix it.
+
+LBPER_IDLE_03 = ~z~~sl:0.0:3.6~What the hell are you doing? Stop pussyfooting around.~sl:0.3~Just get it over with or let me go.
+
+LBPER_IG6_ALT1_1 = ~z~Shit, we've been set up, girls! They spun us a goddamn yarn.
+
+LBPER_IG6_ALT1_2 = ~z~We need to get out of here and quick. All of you, let's go!
+
+LBPER_IG6_ALT2_1 = ~z~Damn it, I think this is a trap. There's nothing worth shit.
+
+LBPER_IG6_ALT2_2 = ~z~We best get the hell out of here. You hear me? Now! Come on!
+
+LBPER_IG6_ALT3_1 = ~z~For chrissakes, there's no goddamn loot. This is a sham, girls. We need to get out of here right now. Quick, let's go!
+
+LBPER_IG6_ALT3_2 = ~z~
+
+LBPER_IG6_REVL_01 = ~z~~sl:0.9:5.2~Christ, there's nothing. This is a goddamn set-up.~sl:0.0:2.2~We need to get the hell out of here...~sl:~come on, quick, let's move out!
+
+LBPER_IG6_REVL_02 = ~z~~sl:1.9:4.2~For chrissakes, there's no goddamn loot.~sl:0.0:4.2~This is a sham, girls. We need to get out of here right now.~sl:~Quick, let's go!
+
+LBPER_IG8_LGO1_1 = ~z~Okay, boss.
+
+LBPER_IG8_LGO2_1 = ~z~You heard Etta, come on, let's go!
+
+LBPER_IG8_SRH1A_01 = ~z~Still no luck, Etta.
+
+LBPER_IG8_SRH1A_02 = ~z~Nothing over this way, Etta.
+
+LBPER_IG8_SRH1B_1 = ~z~Nothing over this way, Etta.
+
+LBPER_IG8_SRH2A_01 = ~z~I don't see anything here, boss.
+
+LBPER_IG8_SRH2A_02 = ~z~I got nothing here, boss.
+
+LBPER_IG8_SRH2B_1 = ~z~I got nothing here, boss.
+
+LBPER_IG8_SRH3A_01 = ~z~Shit, thought I had something for a second here.
+
+LBPER_IG8_SRH3A_02 = ~z~A whole lot of nothing this way, boss.
+
+LBPER_IG8_SRH3B_1 = ~z~A whole lot of nothing this way, boss.
+
+LBPER_INT_BINK_1 = ~z~Alright.
+
+LBPER_INT_BINK_2 = ~z~Etta Doyle.
+
+LBPER_INT_BINK_3 = ~z~Used to be known as Madame La Perle.
+
+LBPER_INT_BINK_4 = ~z~She runs a gang of other fallen women.
+
+LBPER_INT_BINK_5 = ~z~Sticking up trains and coaches mostly.
+
+LBPER_INT_BINK_6 = ~z~But seems to have a particular fancy for robbing...
+
+LBPER_INT_BINK_7 = ~z~Leviticus Cornwall of late.
+
+LBPER_INT_BINK_8 = ~z~So, his men have set a honeypot to lure her in.
+
+LBPER_INT_BINK_9 = ~z~Tipped her off about a big stash of money and ammunition at...
+
+LBPER_INT_BINK_10 = ~z~Cornwall's freight yard in Saint Denis.
+
+LBPER_INT_BINK_11 = ~z~Asked if I can send some good bounty hunters their way.
+
+LBPER_INT_BINK_12 = ~z~Just be careful...
+
+LBPER_INT_BINK_13 = ~z~they play smart.
+
+LBPER_INT_BINK_14 = ~z~Oh, looks like she only sent one.
+
+LBPER_INT_BINK_15 = ~z~This must be them.
+
+LBPER_INT_BINK_16 = ~z~Okay. We gotta move fast here, come on.
+
+LBPER_INT_BINK_17 = ~z~Now, the bait's already been set.
+
+LBPER_INT_BINK_18 = ~z~Etta Doyle and her girls could be here any minute.
+
+LBPER_INT_BINK_19 = ~z~And Mr. Cornwall...
+
+LBPER_INT_BINK_20 = ~z~he don't want his name anywhere near this...
+
+LBPER_INT_BINK_21 = ~z~for reasons I'm sure you can understand.
+
+LBPER_INT_BINK_22 = ~z~Just wants it dealt with quick and quiet.
+
+LBPER_INT_BINK_23 = ~z~You're gonna wanna ensconce yourself in here.
+
+LBPER_INT_BINK_24 = ~z~Now, wait 'til they bust in...
+
+LBPER_INT_BINK_25 = ~z~and then, when the moment's right...
+
+LBPER_INT_BINK_26 = ~z~ambush Miss Doyle, and escort her into custody.
+
+LBPER_INT_BINK_27 = ~z~They want her alive.
+
+LBPER_INT_BINK_28 = ~z~You get paid, we get rid of her.
+
+LBPER_INT_BINK_29 = ~z~Everyone's happy.
+
+LBPER_INT_BINK_30 = ~z~Now, don't worry about her cronies...
+
+LBPER_INT_BINK_31 = ~z~she's the one with the price on her head.
+
+LBPER_INT_BINK_32 = ~z~They're notorious for dressing alike...
+
+LBPER_INT_BINK_33 = ~z~so you bide your time, you figure out which one's Doyle.
+
+LBPER_INT_BINK_34 = ~z~You'll know for sure when you see her face.
+
+LBPER_INT_BINK_35 = ~z~Gotta big old scar down her right cheek.
+
+LBPER_INT_BINK_36 = ~z~We're just gonna hang around and stand guard.
+
+LBPER_INT_BINK_37 = ~z~Create some semblance of security...
+
+LBPER_INT_BINK_38 = ~z~and just pray the crazy bitch don't bust in and shoot us straight in the face.
+
+LBPER_INT_BINK_39 = ~z~Alright now, it's time.
+
+LBPER_INT_BINK_40 = ~z~Find a place to hide, and we'll wait for the guest of honor.
+
+LBPER_LASSO_01 = ~z~Damn it!
+
+LBPER_LASSO_02 = ~z~To hell with you!
+
+LBPER_LASSO_03 = ~z~Goddamn you!
+
+LBPER_LASSO_04 = ~z~Shit.
+
+LBPER_NOISE1_01 = ~z~Did you hear that?
+
+LBPER_NOISE1_02 = ~z~Sure I heard something...
+
+LBPER_NOISE1_03 = ~z~What the hell was that?
+
+LBPER_NOISE1_04 = ~z~Think I heard something move over here.
+
+LBPER_NOISE2_01 = ~z~I think I heard something.
+
+LBPER_NOISE2_02 = ~z~Did you see that?
+
+LBPER_NOISE2_03 = ~z~I'm going to see what that noise was.
+
+LBPER_NOISE2_04 = ~z~What the hell was that?
+
+LBPER_NOISE3_01 = ~z~What was that?
+
+LBPER_NOISE3_02 = ~z~Heard something over this way.
+
+LBPER_NOISE3_03 = ~z~I think I heard something move.
+
+LBPER_NOISE3_04 = ~z~Anybody else hear that?
+
+LBPER_NOISE4_01 = ~z~Sure I heard something...
+
+LBPER_NOISE4_02 = ~z~Did you see that?
+
+LBPER_NOISE4_03 = ~z~What was that noise?
+
+LBPER_NOISE4_04 = ~z~What the hell was that?
+
+LBPER_NOISE4_05 = ~z~Did anybody else hear that?
+
+LBPER_NOISE5_01 = ~z~I thought I heard something.
+
+LBPER_NOISE5_02 = ~z~Did you see that? Something moved.
+
+LBPER_NOISE5_03 = ~z~What was that noise?
+
+LBPER_NOISE5_04 = ~z~What the hell was that?
+
+LBPER_NOISE5_05 = ~z~Sure I just heard something over here.
+
+LBPER_NOTDOYLE1_1 = ~z~What are you doing? You see a scar on my face? I ain't Etta Doyle.
+
+LBPER_NOTDOYLE2_1 = ~z~Okay, you got me! Only thing is... I ain't Etta Doyle. And you won't catch her now, you fool.
+
+LBPER_NOTDOYLE3_1 = ~z~~sl:0.0:3.3~Nice try, but you reeled in the wrong fish, my friend.~sl:0.1~I ain't Etta Doyle.
+
+LBPER_OFFICE_01 = ~z~You think I won't escape again? I will, and I'll destroy you.
+
+LBPER_OFFICE_02 = ~z~You'll see me again. Much sooner than you think.
+
+LBPER_OFFICE_03 = ~z~~sl:0.0:2.0~I'll be out of here in no time,~sl:0.3~so best you don't sleep from now on.
+
+LBPER_SAVEDA_01 = ~z~No! They took out the two on the guards!
+
+LBPER_SAVEDA_02 = ~z~Shit, two down over there! By the guards!
+
+LBPER_SAVEDB_01 = ~z~Damn it, those boys got lucky!
+
+LBPER_SAVEDB_02 = ~z~Shit, they took out the girls on the guards!
+
+LBPER_SAW1_01 = ~z~Who the hell's there?
+
+LBPER_SAW1_02 = ~z~Come out here, dammit.
+
+LBPER_SAW2_01 = ~z~Now what is that?
+
+LBPER_SAW2_02 = ~z~Well, what's going on over there?
+
+LBPER_SAW3_01 = ~z~Who's hiding there?
+
+LBPER_SAW3_02 = ~z~Come out here, now.
+
+LBPER_SEARCH1_01 = ~z~No luck this way Etta.
+
+LBPER_SEARCH1_02 = ~z~I got nothing over here.
+
+LBPER_SEARCH2_01 = ~z~Nothing but a pile of crap here, boss.
+
+LBPER_SEARCH2_02 = ~z~Shit, I don't see nothing.
+
+LBPER_SEARCH3_01 = ~z~Don't see anything here, boss.
+
+LBPER_SEARCH3_02 = ~z~Okay. Nothing here, boss.
+
+LBPER_SHERIFF_01 = ~z~~sl:0.0:2.8~Don't you worry, my girls will be here~sl:0.0:3.6~real soon to break me out, and then...~sl:0.3~well, it's my turn to host, sweetheart.
+
+LBPER_SHERIFF_02 = ~z~~sl:0.0:3.2~I've escaped Sisika twice... I'll be out of that~sl:0.0:3.8~two-bit craphole in no time, mark my words.~sl:0.3~So my advice to you is... start running.
+
+LBPER_SPOT1_01 = ~z~Ambush!
+
+LBPER_SPOT1_02 = ~z~It's a trap! Take 'em down!
+
+LBPER_SPOT1_03 = ~z~Shit, it's a goddamn setup!
+
+LBPER_SPOT2_01 = ~z~Shit, we got company!
+
+LBPER_SPOT2_02 = ~z~Goddamn bounty hunters. Take 'em down!
+
+LBPER_SPOT2_03 = ~z~Goddamn it, guns up, girls! It's an ambush.
+
+LBPER_SPOT3_01 = ~z~Goddamn it, I knew this was too good to be true!
+
+LBPER_SPOT3_02 = ~z~Ambush! Shit, I knew it!
+
+LBPER_SPOT3_03 = ~z~Shit, it's a trap! Look out!
+
+LBPER_THREAT1_01 = ~z~Enough with the goddamn hiding, come out!
+
+LBPER_THREAT1_02 = ~z~Goddammit... come out, already!
+
+LBPER_THREAT2_01 = ~z~You come out right now!
+
+LBPER_THREAT2_02 = ~z~Let's see your face, you yellowbelly! Come on!
+
+LBPER_THREAT3_01 = ~z~Step out, dammit!
+
+LBPER_THREAT3_02 = ~z~You ain't fooling me, I know you're there!
+
+LBPER_VIPBANT1_1 = ~z~~sl:0.0:2.0~Alright, now you've even got me doubting...~sl:0.3:3.4~maybe I am Etta Doyle. Let's see...~sl:~born and raised in Iowa... no, I grew up in the South.
+
+LBPER_VIPBANT1_2 = ~z~~sl:0.0:3.1~Notorious brothel keeper under the name Madame La Perle...~sl:~no, I went by Anastasia when I was in the game.
+
+LBPER_VIPBANT1_3 = ~z~Fat scar down her right cheek... no, my face looks just fine.
+
+LBPER_VIPBANT1_4 = ~z~~sl:0.0:2.7~Sorry, hate to break it to you, sunshine...~sl:0.3~I'm still pretty sure I ain't Etta Doyle!
+
+LBPER_VIPBANT1_5 = ~z~Eeny, meeny, miny, moe.
+
+LBPER_VIPBANT1_6 = ~z~Catch an outlaw by her toe.
+
+LBPER_VIPBANT1_7 = ~z~If she ain't Etta, let her go.
+
+LBPER_VIPBANT1_8 = ~z~~sl:0.0:3.1:1~Eeny, meeny, miny... uh oh!
+
+LBPER_VIPBANT1_9 = ~z~~sl:0.0:2.8~I can almost hear you seething up there.~sl:0.5~Listen, I understand.
+
+LBPER_VIPBANT1_10 = ~z~~sl:0.0:2.8~I was a working girl once, I know all about~sl:0.0:1.6~pretending folks are something they ain't~sl:~just to get through the day.
+
+LBPER_VIPBANT1_11 = ~z~~sl:0.0:3.6~So I'll just relax back here and let you come to terms~sl:~with this in your own sweet time...
+
+LBPER_VIPBANT2_1 = ~z~~sl:0.0:2.1~Really met my match with you, didn't I?~sl:~Finally bringing in the infamous Etta Doyle, Madame La Perle,
+
+LBPER_VIPBANT2_2 = ~z~~sl:0.0:2.7~with the huge scar down her right cheek.~sl:~~rp~No pulling the wool over your eyes. Hell...
+
+LBPER_VIPBANT2_3 = ~z~~sl:0.0:3.9:1~They'll probably give you a medal... for stupidity.
+
+LBPER_VIPBANT2_4 = ~z~~sl:0.0:2.1~You're still going through with this, huh?~sl:1.0:2.6~~rp~What are you going to spend the zero dollars on~sl:~you get for bringing in the wrong person?
+
+LBPER_VIPBANT2_5 = ~z~~sl:0.0:2.4~Maybe some eye glasses?~sl:0.7:1.7~~rp~When we come after you,~sl:~you'll want to see real well, trust me.
+
+LBPER_VIPBANT2_6 = ~z~Thanks for the ride to town. Really appreciate it.
+
+LBPER_VIPBANT2_7 = ~z~~sl:0.0:3.5~I need to pick up some whiskey so I can raise a toast later~sl:~to the dumbest bounty hunter Lemoyne has ever seen.
+
+LBPER_VIPBANT2_8 = ~z~Am I annoying you yet? ~rp~I sure hope so. ~rp~What an idiot.
+
+LBPER_VIPBANT3_1 = ~z~~sl:0.0:2.0~So what's your plan here exactly?~sl:0.2~What am I, a... souvenir? A hostage?
+
+LBPER_VIPBANT3_2 = ~z~~sl:0.0:3.3~'Cause the Doyle Girls pay ransoms in lead, let me tell you.~sl:0.8~Oh wait... you still think I'm Etta, don't you?
+
+LBPER_VIPBANT3_3 = ~z~~sl:0.0:3.8~Oh this is perfect. Here was me kicking myself...~sl:0.3:1.8~how did we fall for this?~sl:0.1~When you're the real patsy. Poor fool.
+
+LBPER_VIPBANT3_4 = ~z~~sl:0.0:2.1~What, you think the law's just gonna be...~sl:0.2~"oh well, she looks close enough, she'll do, here's your reward?"
+
+LBPER_VIPBANT3_5 = ~z~~sl:0.0:2.6~If that's how it works, I might just go~sl:0.0:1.8~grab some old man with a moustache and~sl:~collect on Landon Ricketts' bounty.
+
+LBPER_VIPBANT3_6 = ~z~~sl:0.0:3.1~Listen, maybe bounty hunting just ain't for you.~sl:0.1:1.8~There must be other work out there~sl:~that don't require a brain or spine...
+
+LBPER_VIPBANT3_7 = ~z~~sl:0.0:3.4~Oh I'm sorry, you must feel like such a chump.~sl:0.2~All that hassle for nothing.
+
+LBPER_VIPBANT3_8 = ~z~~sl:0.0:3.4~Well, rest assured you won't have to suffer the shame for long.~sl:0.2~I can count the days you got left on one finger.
+
+LBPER_VIPCLOSE1_01 = ~z~Stay the hell away from me!
+
+LBPER_VIPCLOSE1_02 = ~z~Thought I'd give you a chance to catch up.
+
+LBPER_VIPCLOSE1_03 = ~z~Sorry, sunshine, you backed the wrong horse!
+
+LBPER_VIPCLOSE2_01 = ~z~Lay one finger on me, you'll regret it!
+
+LBPER_VIPCLOSE2_02 = ~z~You stay the hell away from me!
+
+LBPER_VIPCLOSE2_03 = ~z~Trying real hard, ain't you? Must really need the money.
+
+LBPER_VIPCLOSE3_01 = ~z~You're keen, I'll give you that.
+
+LBPER_VIPCLOSE3_02 = ~z~That's as close as you're getting.
+
+LBPER_VIPCLOSE3_03 = ~z~Faster than you look, ain't you?
+
+LBPER_VIPCRRYA1_01 = ~z~What the hell are you all doing? Can I get some help here?
+
+LBPER_VIPCRRYA1_02 = ~z~Will someone please put a bullet in this fool?
+
+LBPER_VIPCRRYA2_01 = ~z~Will somebody shoot this fool?
+
+LBPER_VIPCRRYA2_02 = ~z~Is someone gonna help me out here?
+
+LBPER_VIPCRRYA2_03 = ~z~What are you all waiting for? Do something, for chrissakes!
+
+LBPER_VIPCRRYA3_01 = ~z~One of you do something!
+
+LBPER_VIPCRRYA3_02 = ~z~Come on! Someone help me out here!
+
+LBPER_VIPCRRYA3_03 = ~z~Y'all just watching or what? Shoot this fool!
+
+LBPER_VIPCRRYD1_01 = ~z~You had to kill all of them? Goddamn you.
+
+LBPER_VIPCRRYD1_02 = ~z~You're going to wish you killed me too.
+
+LBPER_VIPCRRYD2_01 = ~z~That's a lot of damn blood on your hands.
+
+LBPER_VIPCRRYD2_02 = ~z~You killed all them women and for what? A payday you ain't even gonna get.
+
+LBPER_VIPCRRYD3_01 = ~z~Thanks for leaving me alive, but I ain't worth a cent to you.
+
+LBPER_VIPCRRYD3_02 = ~z~Fancy yourself some stone-cold killer, don't you?
+
+LBPER_VIPFIGHT1_01 = ~z~You wanna do this?
+
+LBPER_VIPFIGHT1_02 = ~z~I'll show you how we deal with bounty hunters!
+
+LBPER_VIPFIGHT1_03 = ~z~You made a big mistake!
+
+LBPER_VIPFIGHT2_01 = ~z~Oh you're going down!
+
+LBPER_VIPFIGHT2_02 = ~z~You want my head? Well, I'm taking yours!
+
+LBPER_VIPFIGHT2_03 = ~z~Goddamn bounty hunter, I'll kill you twice!
+
+LBPER_VIPFIGHT3_01 = ~z~I don't run from the likes of you!
+
+LBPER_VIPFIGHT3_02 = ~z~Alright, I've had enough of this now.
+
+LBPER_VIPFIGHT3_03 = ~z~You must really want to die today!
+
+LBPER_VIPFLEE1_01 = ~z~That's me outta here!
+
+LBPER_VIPFLEE1_02 = ~z~We'll be back for you, bounty hunter!
+
+LBPER_VIPFLEE1_03 = ~z~Do you even know who you're looking for?
+
+LBPER_VIPFLEE2_01 = ~z~You're gonna have to move faster than that!
+
+LBPER_VIPFLEE2_02 = ~z~Why don't you give it up, while you still can!
+
+LBPER_VIPFLEE2_03 = ~z~Sorry, my friend, this just ain't your day!
+
+LBPER_VIPFLEE3_01 = ~z~I'm glad they didn't send a professional!
+
+LBPER_VIPFLEE3_02 = ~z~Ain't very good at this, are you?
+
+LBPER_VIPFLEE3_03 = ~z~Just cut your losses now, before someone cuts your throat!
+
+LBPER_VIPHIT1_01 = ~z~Come on!
+
+LBPER_VIPHIT1_02 = ~z~
+
+LBPER_VIPHIT1_03 = ~z~Hey, that's a bad idea!
+
+LBPER_VIPHIT2_01 = ~z~Come on, you can do better than that.
+
+LBPER_VIPHIT2_02 = ~z~Hey, cut that out.
+
+LBPER_VIPHIT2_03 = ~z~Oh yeah, you're real tough.
+
+LBPER_VIPHIT3_01 = ~z~Ow!
+
+LBPER_VIPHIT3_02 = ~z~Hey!
+
+LBPER_VIPHIT3_03 = ~z~Why don't you try that when I ain't tied up?
+
+LBPER_VIPHOGTD1_01 = ~z~I ain't Etta, you fool.
+
+LBPER_VIPHOGTD1_02 = ~z~Who the hell you think you are?
+
+LBPER_VIPHOGTD1_03 = ~z~You just goddamn wait.
+
+LBPER_VIPHOGTD2_01 = ~z~Why don't you make it tight at least?
+
+LBPER_VIPHOGTD2_02 = ~z~Damn near gave me a rope burn.
+
+LBPER_VIPHOGTD2_03 = ~z~I'm gonna particularly enjoy killing you.
+
+LBPER_VIPHOGTD3_01 = ~z~You don't know what you're getting yourself into.
+
+LBPER_VIPHOGTD3_02 = ~z~I can't wait to strangle you with this.
+
+LBPER_VIPHOGTD3_03 = ~z~I can feel you shaking, you coward.
+
+LBPER_VIPLASSO1_01 = ~z~Goddamn you!
+
+LBPER_VIPLASSO1_02 = ~z~Ah shit!
+
+LBPER_VIPLASSO1_03 = ~z~Hey! Are you kidding me?
+
+LBPER_VIPLASSO2_01 = ~z~Goddamn you!
+
+LBPER_VIPLASSO2_02 = ~z~Hey, who the hell you think you are?
+
+LBPER_VIPLASSO2_03 = ~z~Hey, don't be roping me like some damn bronco!
+
+LBPER_VIPLASSO3_01 = ~z~You piece of shit!
+
+LBPER_VIPLASSO3_02 = ~z~Hey, get your damn rope off me.
+
+LBPER_VIPLASSO3_03 = ~z~Oh no, now that's a big mistake.
+
+LBPER_WHAT1_01 = ~z~I know I saw something...
+
+LBPER_WHAT1_02 = ~z~What the hell was over there?
+
+LBPER_WHAT2_01 = ~z~What in the hell was that?
+
+LBPER_WHAT2_02 = ~z~~sl:0.0:2.2~Could've sworn I saw something...~sl:0.4~no?
+
+LBPER_WHAT3_01 = ~z~I swear I saw something.
+
+LBPER_WHAT3_02 = ~z~Something was there, I know it.
+

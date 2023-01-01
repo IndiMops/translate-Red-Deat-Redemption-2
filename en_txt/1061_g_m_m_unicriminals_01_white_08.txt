@@ -1,0 +1,320 @@
+0x0314AD24 = ~z~Get on the damn boat.
+
+0x069A68F0 = ~z~This concern you?
+
+0x07B5EFC6 = ~z~Think twice and move on, blowhard.
+
+0x07B88476 = ~z~We ain't got no time. Let's go!
+
+0x088BF394 = ~z~If you keep moving, you'll give me an excuse to bleed you out.
+
+0x09174ADC = ~z~You got a chance to surrender, I advise you to take it.
+
+0x09EB023C = ~z~Ah, just kill 'em for Pete's sake.
+
+0x0A2E78AF = ~z~Ha, I thought you was worm food already.
+
+0x0B78A863 = ~z~They're on us.
+
+0x0BE569DE = ~z~That's the one – this ends here!
+
+0x0C87E5CD = ~z~Long as I'm breathing, this horse is mine.
+
+0x1DC80612 = ~z~I want him dead at my feet!
+
+0x2C93A3A9 = ~z~Would someone put a bullet in his ugly face, huh?
+
+0x3C93C1B8 = ~z~Last one to speak like that didn't turn out so good.
+
+0x3D6C1514 = ~z~No more warnings, you hear me?
+
+0x3EB445D1 = ~z~One more chance. Hands in the air.
+
+0x4A1D97AF = ~z~This ain't a game. Raise your hands.
+
+0x4BA6B189 = ~z~This is it, do it or die.
+
+0x4C6AE13E = ~z~You don't put your hands up I will kill you right here.
+
+0x4EBB6607 = ~z~You needing me to close that big mouth of yours?
+
+0x4F52CE9F = ~z~Oh, you're gonna pay for that.
+
+0x4F138B0C = ~z~Ha, more mine than it is yours.
+
+0x5AFABD54 = ~z~Don't budge an inch!
+
+0x5C9750CB = ~z~Law don't scare me!
+
+0x5CE0A6A6 = ~z~Yeah, me and this horse go way back.
+
+0x5E0CE273 = ~z~Come on – get some sense.
+
+0x5E6A0A50 = ~z~Unplug them ears. Stay where you are.
+
+0x5EFCF655 = ~z~Listen up, idiot. Scram.
+
+0x5FE824E6 = ~z~This some kinda trick?
+
+0x6CD3D570 = ~z~One way or another, you're gonna mind your own.
+
+0x6E4555C4 = ~z~Pull yourselves back – now!
+
+0x6FF34466 = ~z~Damn it, fine. Hope you get bit.
+
+0x7BBEAFD7 = ~z~Oh, you ain't thought this through.
+
+0x7D584E8A = ~z~Look around. Ain't no running from this.
+
+0x7DC2E005 = ~z~Piece of shit. Fine, damn it.
+
+0x7E0B711E = ~z~We got no time. Let's go.
+
+0x7FC733E8 = ~z~Damn, I already told you, idiot.
+
+0x8E520A3C = ~z~You been warned.
+
+0x8E1272B6 = ~z~Shit, not today – I'm gone.
+
+0x14B8569E = ~z~I hope you choke and rot!
+
+0x15E42FDE = ~z~I'm the wrong guy!
+
+0x31AFF4D1 = ~z~We got a nasty shadow here, boys.
+
+0x35C76093 = ~z~Let's go. Get me the hell outta here.
+
+0x36C7E6A6 = ~z~I ain't deaf. You said hello.
+
+0x44DDEBE2 = ~z~I'll put one square between your eyes!
+
+0x48A518A9 = ~z~Stay put! Don't give ground.
+
+0x51EC856C = ~z~What the hell you playing at?
+
+0x60E9DC0F = ~z~No more warnings – you hear me?
+
+0x68F7C159 = ~z~Yeah?
+
+0x70BE20E5 = ~z~We're gonna lose 'em at this rate.
+
+0x71B0D0FE = ~z~This is a friendly warning.
+
+0x72B30B48 = ~z~You raise more hell here, you'll light a mighty short fuse...
+
+0x72E9BE82 = ~z~There you go, keep it up.
+
+0x77D86FB8 = ~z~No stomach for big boy games, hey?
+
+0x77E3733A = ~z~Don't push it. Let me see your hands.
+
+0x81A6C67A = ~z~Take it easy, I'll help you.
+
+0x82AFC880 = ~z~Hey. Wind that up, y'hear?
+
+0x90F58822 = ~z~Stop! Who's that there?
+
+0x99F4AF0B = ~z~Got you.
+
+0x218E05E5 = ~z~Shit - they're after the prisoner!
+
+0x284AF790 = ~z~Get on the damn boat!
+
+0x380FE95A = ~z~Get back, fall back, boys!
+
+0x471A6FC8 = ~z~You got shit for brains?
+
+0x591F1464 = ~z~If I start shooting, it's over for you!
+
+0x645E3D66 = ~z~You. Stay put right there.
+
+0x651D12C0 = ~z~Don't forget me!
+
+0x729B7F72 = ~z~This is it – do it or die!
+
+0x941F9568 = ~z~Alright, hands up, nothing sudden.
+
+0x1656D0E1 = ~z~Maybe I looked at him funny? Who knows with the cops in this town...
+
+0x4525D7C4 = ~z~No playing around. You keep still, now.
+
+0x6138BE3A = ~z~You didn't think twice about this, did you?
+
+0x6162F2BF = ~z~I'll make you regret that real bad.
+
+0x6729D268 = ~z~Oh no!
+
+0x7132E682 = ~z~Ha! That there is the dumbest move you made today.
+
+0x9240B2B6 = ~z~Even I reckon that's pretty damn low.
+
+0x35509FFC = ~z~Hey. They're on our tail.
+
+0x36934F4D = ~z~If I start shooting, it's over for you.
+
+0x40647D75 = ~z~Run away, while you can.
+
+0x42572B08 = ~z~Come on, get some sense.
+
+0x43093B71 = ~z~Dammit! They're coming after us.
+
+0x50071BD7 = ~z~You left it awful late to wise up, friend.
+
+0x52671F21 = ~z~Hey, friend – help a feller outta here, huh?
+
+0x59886BD6 = ~z~Must think I'm soft in the head. No chance.
+
+0x82445D37 = ~z~You got the idea, on you trot.
+
+0x807226C6 = ~z~Now I'd advise you to start treating folk with respect round here.
+
+0x835314DB = ~z~You want to get a grip, damn it?
+
+0x931789EA = ~z~Good, can't be bothered burying you.
+
+0x3875297B = ~z~Enough, stop what you're doing.
+
+0x7576724B = ~z~We can't back down – cover it!
+
+0x20392299 = ~z~I'll put one square between your eyes.
+
+0x57481765 = ~z~I see your eyelids dropping. Wake up.
+
+0x62004059 = ~z~Oh, hell...
+
+0x69824909 = ~z~Yeah, yeah, shut up.
+
+0xA05DA56F = ~z~Well now, they sure ain't using it no more, huh?
+
+0xA0AAA78C = ~z~You there! Who are you?
+
+0xA58EC970 = ~z~You fixing to irritate me?
+
+0xA74C50D6 = ~z~There a problem?
+
+0xA85BB472 = ~z~Next time, gonna be over real quick.
+
+0xA87EEB26 = ~z~Hey, get down from there.
+
+0xA88D362F = ~z~What? What do you want?
+
+0xA953BBB2 = ~z~Hey. Move.
+
+0xA6057BE2 = ~z~Do it!
+
+0xAB1B2A0F = ~z~We got you all tied up. Nowhere to go.
+
+0xAB43B35E = ~z~No need to die here, boys. Let's go!
+
+0xAC38835C = ~z~How about I get to work on that ugly face of yours?
+
+0xAE70598F = ~z~Run away, while you can!
+
+0xAEA4D1F2 = ~z~Alright, hold it where you are.
+
+0xAF56C12B = ~z~Enough. You keep moving, you die.
+
+0xB2A19DD6 = ~z~Get smart and stop it.
+
+0xB2E457F5 = ~z~Ain't no law against good luck, friend.
+
+0xB4E5ACFB = ~z~You. Cut it out.
+
+0xB5DB6BC1 = ~z~Lost your appetite? Pathetic.
+
+0xB7EE52A6 = ~z~You wanna get paid? Cover the boss!
+
+0xB32A67E0 = ~z~You're right there.
+
+0xB218C8E5 = ~z~Huh, me and my friend here got no time for busybodies.
+
+0xB891EA38 = ~z~Don't joke with me, we done this.
+
+0xB5286C8E = ~z~What's the matter here?
+
+0xB134570D = ~z~There. That's them.
+
+0xBBDEF2DF = ~z~Coming.
+
+0xBD962617 = ~z~You wanna see what color you bleed, huh?
+
+0xC0BCF3A6 = ~z~Law of the land, friend. You find it, you keep it.
+
+0xC23A719D = ~z~Let's see your hands, empty and high.
+
+0xC988F5DB = ~z~No risk - protect the boss!
+
+0xC796203D = ~z~Fine.
+
+0xCA5BC066 = ~z~Today's your dying day.
+
+0xCB7F114F = ~z~Help, help me out of here!
+
+0xCB24ECDA = ~z~Not dying here, no way!
+
+0xCDBD5E45 = ~z~They're coming for 'em!
+
+0xCDCD29BC = ~z~You better pray I don't get loose.
+
+0xD00862DB = ~z~We got a jailbreak on our hands!
+
+0xD030FF13 = ~z~
+
+0xD2D7968F = ~z~Hey, you, get out of here.
+
+0xD4ADA609 = ~z~Go on and make tracks, huh?
+
+0xD978E2C8 = ~z~This ain't a negotiation. Do it now.
+
+0xD32924A4 = ~z~You soft in the head?
+
+0xDAF0FE66 = ~z~So long!
+
+0xDBDD1376 = ~z~Do you really want to get into this?
+
+0xDCE2BB50 = ~z~For sure.
+
+0xDDEEE900 = ~z~I hope you choke and rot.
+
+0xDE92467C = ~z~Gonna sit right here and sleep 'til doomsday.
+
+0xDF7D234D = ~z~Well, you scraped by again, huh?
+
+0xE35A3BBA = ~z~Let's go! Get me the hell outta here.
+
+0xE3669917 = ~z~Ah no, please! I didn't take much!
+
+0xEB54E001 = ~z~I'm all screwed out. This here fire's the only company I need.
+
+0xED8E3B7B = ~z~You gonna push this, wiseass?
+
+0xEF80631B = ~z~Alright, I'll give you a chance to holster that.
+
+0xF0AC87B4 = ~z~Just stop and think about this.
+
+0xF1FFC45A = ~z~I'm telling you, you ain't thought this through.
+
+0xF6A01FB5 = ~z~Watch it.
+
+0xF8D3F5BE = ~z~This ain't right!
+
+0xF1363E28 = ~z~Don't get involved.
+
+0xF9326F12 = ~z~Go on and make tracks, huh?
+
+0xF80666F6 = ~z~Oh, no, no...
+
+0xF974339C = ~z~
+
+0xFA7A41B2 = ~z~No way, this horse stays with me.
+
+0xFA7A8316 = ~z~When it's my turn, you're gonna wish I only tied you up.
+
+0xFBFEDC50 = ~z~Shit, I was ready to comfort your widow.
+
+0xFCBFE0AB = ~z~I ain't no idiot. No way.
+
+0xFFAA31C9 = ~z~Eyes open, man.
+
+0xFFEE68B3 = ~z~Gotta be sharper than a whet knife.
+

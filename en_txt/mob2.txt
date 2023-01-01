@@ -1,0 +1,76 @@
+0x7D98BCA1 = Hold ~INPUT_FOCUS_CAM~ to focus on the source of the noise.
+
+0x9D7ACD67 = ~a~
+
+0x51FB4527 = Take Robbers' Stash
+
+0xA4600259 = Dog
+
+0xDDE68432 = Return to Arthur's ~o~horse~s~
+
+0xE9BCDE1B = Return to ~o~Bronte's Mansion~s~
+
+0xECB10B2C = Arthur's horse was abandoned.
+
+MOB2_BLIP_DISTURB = Disturbance
+
+MOB2_BLIP_STASH = Stash
+
+MOB2_CEM_FAIL = You left the cemetery.
+
+MOB2_CEM_HCH = Dismount your horse
+
+MOB2_CEM_HORSE = Mount your ~o~horse~s~
+
+MOB2_CEM_NAME = Return to the ~o~cemetery~s~
+
+MOB2_CEM_WARN = Return to the ~o~cemetery~s~
+
+MOB2_DIST = Locate the source of the ~o~disturbance~s~
+
+MOB2_ESC = Escape the law
+
+MOB2_ESC2 = Follow ~o~John~s~ out of the cemetery
+
+MOB2_FAIL_GTAWY = You let the grave robbers get away.
+
+MOB2_FAIL_GUARD = Bronte's guards were alerted.
+
+MOB2_FAIL_LAW = The law were alerted.
+
+MOB2_FAIL_MANSION = Bronte's guards were alerted.
+
+MOB2_FAIL_SCARE = You scared the grave robbers away.
+
+MOB2_FL_JN = Follow ~o~John~s~
+
+MOB2_INV = Search the ~o~cemetery~s~ for the grave robbers
+
+MOB2_INVMSL = Investigate the ~o~mausoleum~s~
+
+MOB2_JN_WAIT = Wait for John
+
+MOB2_KILL = Chase down and take out the ~e~grave robbers~s~
+
+MOB2_MAN = Follow ~o~Dutch~s~
+
+MOB2_MAN_FAIL = Bronte's Mansion was abandoned.
+
+MOB2_RTB = Return to ~o~Bronte's manor~s~
+
+MOB2_RTSB = Follow ~o~Dutch~s~
+
+MOB2_SRCH = Search for the grave robbers' ~o~stash~s~
+
+MOB2_UC_GOOD = Good to see you
+
+MOB2_UC_NICE = Nice Evening?
+
+MOB2_UC_PICKUP = Pick up
+
+MOB2_UC_PRAISE = Praise
+
+MOB2_UC_RS = Robbers' Stash
+
+MOB2_UC_SCOLD = Scold
+

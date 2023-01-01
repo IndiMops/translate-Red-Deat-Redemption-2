@@ -1,0 +1,52 @@
+CFBNM_ACT_1 = ~z~You know, Micah, you got a mighty big mouth...
+
+CFBNM_ACT_2 = ~z~but you've never told us where Dutch met you.
+
+CFBNM_ACT_3 = ~z~Micah?
+
+CFBNM_ACT_4 = ~z~He crawled out of the outhouse one day and Dutch was so amazed, he asked him to stay.
+
+CFBNM_ACT_5 = ~z~I like that.
+
+CFBNM_ACT_6 = ~z~Well... where was it?
+
+CFBNM_ACT_7 = ~z~I heard all of you fools drone on...
+
+CFBNM_ACT_8 = ~z~I mean, you ain't fools, but... you sound foolish...
+
+CFBNM_ACT_9 = ~z~I like Dutch, but he didn't save my life, I saved his.
+
+CFBNM_ACT_10 = ~z~Maybe he never told you, but fact is, I stopped him getting killed in a bar fight in Crenshaw Hills.
+
+CFBNM_ACT_11 = ~z~He was trying to sell some gold you boys had stolen... annoyed some locals.
+
+CFBNM_ACT_12 = ~z~So... I saved his life.
+
+CFBNM_ACT_13 = ~z~No... no, no. That ain't true!
+
+CFBNM_ACT_14 = ~z~Ain't it? Why?
+
+CFBNM_ACT_15 = ~z~'Cause I need to sit around and boast about things I made up 'cause I failed fighting redskins, that so?
+
+CFBNM_ACT_16 = ~z~
+
+CFBNM_ACT_17 = ~z~Good day, gentlemen.
+
+CFBNM_ACT_18 = ~z~That man is a fool!
+
+CFBNM_ACT_19 = ~z~Look... look, I make no bones about it. Dutch... he saved my life.
+
+CFBNM_ACT_20 = ~z~When I was lost, he found me and he saw something in me.
+
+CFBNM_ACT_21 = ~z~I mean... I ain't perfect.
+
+CFBNM_ACT_22 = ~z~Maybe I'm a long, long way from perfect, alright? I'm just a big, flawed, dumb American and I know it.
+
+CFBNM_ACT_23 = ~z~But when I'm with him... I feel I can do things, like I can-I can be someone.
+
+CFBNM_ACT_24 = ~z~'Cause he-he found me in a gutter when I was drunk, and I was dumb, and I was lost, and he raised me up.
+
+CFBNM_ACT_25 = ~z~And, I will never forget that. And, no matter what that fool says! Dutch is special. He has the mark about him.
+
+CFBNM_ACT_26 = ~z~And you all know it... because I know it.
+

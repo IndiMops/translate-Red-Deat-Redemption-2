@@ -1,0 +1,10 @@
+SPAH_DECLINE = Отказаться
+
+SPAH_LISTEN = Слушать
+
+SPAH_TAKE = Взять брошюру
+
+SPAH_UC_ANTAGONIZE = Разозлить
+
+SPAH_UC_GREET = Поздороваться
+

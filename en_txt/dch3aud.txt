@@ -1,0 +1,890 @@
+DCH3_CHESS_1 = ~z~White to D4.
+
+DCH3_CHESS_2 = ~z~Black to F5.
+
+DCH3_CHESS_3 = ~z~White to G3.
+
+DCH3_CHESS_4 = ~z~Knight to F6.
+
+DCH3_CHESS_5 = ~z~Bishop to G2.
+
+DCH3_CHESS_6 = ~z~Black to G6.
+
+DCH3_CHESS_7 = ~z~Knight to F3.
+
+DCH3_RSC1_1 = ~z~Bishop to G2.
+
+DCH3_RSC1_2 = ~z~Black to G6.
+
+DCH3_RSC1_3 = ~z~Knight to, to F3.
+
+DCH3_RSC1_4 = ~z~What are you doing?
+
+DCH3_RSC1_5 = ~z~Working it all out.
+
+DCH3_RSC1_6 = ~z~Once and for all, Arthur.
+
+DCH3_RSC1_7 = ~z~What now?
+
+DCH3_RSC1_8 = ~z~We're back...
+
+DCH3_RSC1_9 = ~z~and I'm sitting here...
+
+DCH3_RSC1_10 = ~z~and I am contemplating the great journey of the sun...
+
+DCH3_RSC1_11 = ~z~and considering a famous chess move.
+
+DCH3_RSC1_12 = ~z~Those oily enactors of a mediocre justice...
+
+DCH3_RSC1_13 = ~z~the Pinkertons and their benefactor...
+
+DCH3_RSC1_14 = ~z~the depressing millionaire Leviticus Cornwall...
+
+DCH3_RSC1_15 = ~z~they want us, Arthur.
+
+DCH3_RSC1_16 = ~z~They want us...
+
+DCH3_RSC1_17 = ~z~and they are going to have us.
+
+DCH3_RSC1_18 = ~z~Well maybe they ain't the problem.
+
+DCH3_RSC1_19 = ~z~Meaning?
+
+DCH3_RSC1_20 = ~z~I don't know it's just...
+
+DCH3_RSC1_21 = ~z~well...
+
+DCH3_RSC1_22 = ~z~I can't help but feel...
+
+DCH3_RSC1_23 = ~z~we would've been better running off someplace else.
+
+DCH3_RSC1_24 = ~z~But the, the game ain't over, Arthur.
+
+DCH3_RSC1_25 = ~z~I mean I ain't, I ain't played my...
+
+DCH3_RSC1_26 = ~z~my final move, but...
+
+DCH3_RSC1_27 = ~z~I guess I'm more interested in saving lives than...
+
+DCH3_RSC1_28 = ~z~winning at chess.
+
+DCH3_RSC1_29 = ~z~Then maybe life ain't such a thing to cling onto so tightly.
+
+DCH3_RSC1_30 = ~z~No doubt.
+
+DCH3_RSC1_31 = ~z~What about the women?
+
+DCH3_RSC1_32 = ~z~But the, the game ain't over, Arthur.
+
+DCH3_RSC1_33 = ~z~I mean I ain't, I ain't played my...
+
+DCH3_RSC1_34 = ~z~my final move, but...
+
+DCH3_RSC1_35 = ~z~I guess I'm more interested in survivng than...
+
+DCH3_RSC1_36 = ~z~winning at chess.
+
+DCH3_RSC1_37 = ~z~Then maybe life ain't such a thing to cling onto so tightly.
+
+DCH3_RSC1_38 = ~z~No doubt.
+
+DCH3_RSC1_39 = ~z~But what's our move here?
+
+DCH3_RSC1_40 = ~z~You sound like Hosea.
+
+DCH3_RSC1_41 = ~z~I miss...
+
+DCH3_RSC1_42 = ~z~him.
+
+DCH3_RSC1_43 = ~z~I asked you a question.
+
+DCH3_RSC1_44 = ~z~What do you think?
+
+DCH3_RSC1_45 = ~z~We can't stay here.
+
+DCH3_RSC1_46 = ~z~That much is obvious.
+
+DCH3_RSC1_47 = ~z~But where we gonna run to?
+
+DCH3_RSC1_48 = ~z~I mean they chased us from the west, they...
+
+DCH3_RSC1_49 = ~z~chased us over the mountains...
+
+DCH3_RSC1_50 = ~z~they ran us into the sea.
+
+DCH3_RSC1_51 = ~z~Arthur...
+
+DCH3_RSC1_52 = ~z~do you have my back?
+
+DCH3_RSC1_53 = ~z~Always, Dutch...
+
+DCH3_RSC1_54 = ~z~but there's more than your back to worry about.
+
+DCH3_RSC1_55 = ~z~We need more money.
+
+DCH3_RSC1_56 = ~z~We been on the run for months now...
+
+DCH3_RSC1_57 = ~z~and I seen you...
+
+DCH3_RSC1_58 = ~z~killing folk in cold blood...
+
+DCH3_RSC1_59 = ~z~like you always told me not to.
+
+DCH3_RSC1_60 = ~z~And I'm sorry but I can't help but think that if we...
+
+DCH3_RSC1_61 = ~z~There is country...
+
+DCH3_RSC1_62 = ~z~in Roanoke Ridge, past Butcher Creek...
+
+DCH3_RSC1_63 = ~z~I believe we could hold.
+
+DCH3_RSC1_64 = ~z~Okay.
+
+DCH3_RSC1_65 = ~z~And you and Charles...
+
+DCH3_RSC1_66 = ~z~you could take folks up that way.
+
+DCH3_RSC1_67 = ~z~Micah...
+
+DCH3_RSC1_68 = ~z~and I need to do some reconnaissance.
+
+DCH3_RSC1_69 = ~z~I ain't got a final plan, yet.
+
+DCH3_RSC1_70 = ~z~Arthur, I ain't got a...
+
+DCH3_RSC1_71 = ~z~I just need time.
+
+DCH3_RSC1_72 = ~z~I need time...
+
+DCH3_RSC1_73 = ~z~and no traitors.
+
+DCH3_RSC1_LI_1 = ~z~What are you doing?
+
+DCH3_RSC1_LI_GT_1 = ~z~You okay, there?
+
+DCH3_RSC2_1 = ~z~Okay...
+
+DCH3_RSC2_2 = ~z~let's see what's going on.
+
+DCH3_RSC2_3 = ~z~That's the stagecoach went missing...
+
+DCH3_RSC2_4 = ~z~Jesus...
+
+DCH3_RSC2_5 = ~z~They must be in the cave.
+
+DCH3_RSC2_6 = ~z~Alright...
+
+DCH3_RSC2_7 = ~z~let's get on with this.
+
+DCH3_RSC2_8 = ~z~Okay, what you think?
+
+DCH3_RSC2_9 = ~z~We can head into the cave, or...
+
+DCH3_RSC2_10 = ~z~flush 'em out with dynamite.
+
+DCH3_RSC2_11 = ~z~Dynamite be safer.
+
+DCH3_RSC2_12 = ~z~Here, let's be quiet and...
+
+DCH3_RSC2_13 = ~z~hope they don't come out.
+
+DCH3_RSC2_14 = ~z~Let's surprise them in there.
+
+DCH3_RSC2_15 = ~z~Okay, let's get a little closer.
+
+DCH3_RSC2_16 = ~z~Ready?
+
+DCH3_RSC3_1 = ~z~It's okay, it's okay, shh...
+
+DCH3_RSC3_2 = ~z~you're safe.
+
+DCH3_RSC3_3 = ~z~It's okay.
+
+DCH3_RSC3_4 = ~z~Come on...
+
+DCH3_RSC3_5 = ~z~it's time to go.
+
+DCH3_RSC3_6 = ~z~It's okay.
+
+DCH3_RSC3_7 = ~z~Okay.
+
+DCH3_RSC3_8 = ~z~Let's go.
+
+DCH3_RSC3_9 = ~z~Where you from?
+
+DCH3_RSC3_10 = ~z~Annesburg.
+
+DCH3_RSC3_11 = ~z~What do we do with her?
+
+DCH3_RSC3_12 = ~z~You take her there and...
+
+DCH3_RSC3_13 = ~z~I'll go get the others.
+
+DCH3_RSC3_14 = ~z~Sure.
+
+DCH3_RSC3_15 = ~z~Miss...
+
+DCH3_RSC3_16 = ~z~you okay to ride on my horse a little?
+
+DCH3_RSC3_17 = ~z~I'll keep you safe.
+
+DCH3_RSC3_LI_1 = ~z~
+
+DCH3_RSC3_LI_2 = ~z~
+
+DCH3_RSC3_LI_3 = ~z~
+
+DTC3_RSC4_1 = ~z~So which place is yours?
+
+DTC3_RSC4_2 = ~z~Up at the top of the hill.
+
+DTC3_RSC4_3 = ~z~It's near the blacksmith.
+
+DTC3_RSC4_4 = ~z~Come on then.
+
+DTC3_RSC4_5 = ~z~Ma!
+
+DTC3_RSC4_6 = ~z~Ma!
+
+DTC3_RSC4_7 = ~z~Meredith?
+
+DTC3_RSC4_8 = ~z~She's alive...
+
+DTC3_RSC4_9 = ~z~oh, she's alive...
+
+DTC3_RSC4_10 = ~z~She saw some pretty bad things I'm afraid, ma'am.
+
+DTC3_RSC4_11 = ~z~Murfree brood got her.
+
+DTC3_RSC4_12 = ~z~Oh, my darling...
+
+DTC3_RSC4_13 = ~z~How did you manage to?
+
+DTC3_RSC4_14 = ~z~I just ran into them and found her.
+
+DTC3_RSC4_15 = ~z~Oh, thank you.
+
+DTC3_RSC4_16 = ~z~Here, let me give you this.
+
+DTC3_RSC4_17 = ~z~Oh, that, that's okay, ma'am.
+
+DTC3_RSC4_18 = ~z~You just...
+
+DTC3_RSC4_19 = ~z~keep her warm and keep her safe.
+
+DTC3_RSC4_20 = ~z~Okay, thank you.
+
+DTC3_RSC4_21 = ~z~That's mighty kind of you.
+
+DTC3_RSC4_22 = ~z~Mrs. Downes?
+
+DTC3_RSC4_23 = ~z~Oh no.
+
+DTC3_RSC4_24 = ~z~You leave me alone.
+
+DTC3_RSC4_25 = ~z~You just leave me alone!
+
+DTC3_RSC4_26 = ~z~Thanks, buddy.
+
+RDCH3_2NDDAWD_01 = ~z~Okay, I'll go then.
+
+RDCH3_2NDDAWD_02 = ~z~Just leave it to me.
+
+RDCH3_BCHORSES_1 = ~z~It's a bit of a walk, we could grab those horses if you want? They probably won't miss 'em if we get them back by morning.
+
+RDCH3_BCRES1A_1 = ~z~Hey, you know a place called Beaver Hollow?
+
+RDCH3_BCRES1A_2 = ~z~All I know is the devil's in these hills and he ain't going to stop 'til he got us all.
+
+RDCH3_BCRES2A_1 = ~z~You know how we get to the caves at Beaver Hollow?
+
+RDCH3_BCRES2A_2 = ~z~You'll get away if you know what's good for ya.
+
+RDCH3_BCRES3A_1 = ~z~Can you help us? We're trying to find a spot called Beaver Hollow.
+
+RDCH3_BCRES3A_2 = ~z~We don't take kindly to outsiders around here.
+
+RDCH3_BCRES4A_1 = ~z~You know the way to Beaver Hollow?
+
+RDCH3_BHBANT_1 = ~z~You can see why folks don't want to come round here.
+
+RDCH3_BHBANT_2 = ~z~Ain't exactly a welcoming place.
+
+RDCH3_BHBANT_3 = ~z~Lots of stories of people going missing round these parts.
+
+RDCH3_BHBANT_4 = ~z~Just recently ~rp~a stagecoach from Annesburg, disappeared without a trace coming through here.
+
+RDCH3_BHBANT_5 = ~z~Guess that's good for us, ~rp~assuming these inbred bastards are willing to part with their home,
+
+RDCH3_BHBANT_6 = ~z~which I'm sure they won't be too pleased about.
+
+RDCH3_BHBANT_7 = ~z~No. But~rp~ I believe they hide out all over Roanoke Ridge,~rp~ these caves are just one of their spots.
+
+RDCH3_BHBANT_8 = ~z~Which is why we should keep it down. ~rp~They might have lookouts around...
+
+RDCH3_BHBANT_9 = ~z~Okay.
+
+RDCH3_BHRIDE2_1 = ~z~~sl:0.3~We must be close now. Let's stop and have a look from the top of this hill there.
+
+RDCH3_BHSTART_1 = ~z~Right, let's get this over with.
+
+RDCH3_BT_OR_HRS_01 = ~z~Arthur?
+
+RDCH3_BT_OR_HRS_02 = ~z~So... should we try for a boat or not?
+
+RDCH3_BT_OR_HRS_03 = ~z~You still with me there?
+
+RDCH3_CANOE_DWD_01 = ~z~Are you getting in?
+
+RDCH3_CANOE_DWD_02 = ~z~What are you doing? Let's go.
+
+RDCH3_CANOE_DWD_03 = ~z~Come on, Arthur.
+
+RDCH3_CAN_BANT1_1 = ~z~Okay, Butcher Creek is a few miles up river.
+
+RDCH3_CAN_BANT1_2 = ~z~So, I spent some time up this way while you were gone.
+
+RDCH3_CAN_BANT1_3 = ~z~~sl:0.0:3.3~I ran into Rains Fall and Eagle Flies, the Indians?~sl:0.7:1.2~And I've been trying to help out a bit~sl:~where I can at their reservation.
+
+RDCH3_CAN_BANT1_4 = ~z~Things are bad there...
+
+RDCH3_CAN_BANT1_5 = ~z~~sl:0.0:2.4~That's not a surprise...~sl:0.6~they seemed to be in a lot of trouble and heading into more.
+
+RDCH3_CAN_BANT1_6 = ~z~~sl:0.0:2.4~Some men there spoke a lot about the Murfree gang~sl:~that hides out in these caves...
+
+RDCH3_CAN_BANT1_7 = ~z~~sl:0.0:1.3~and we're going to need to be careful.~sl:0.7~They're animals. Everyone is terrified of them.
+
+RDCH3_CAN_BANT1_8 = ~z~Great. Dutch didn't mention this...
+
+RDCH3_CAN_BANT1_9 = ~z~~sl:0.0:3.8~Well, hiding up here... it's not a crazy idea.~sl:0.7~This is a spot nobody comes near, even the law.
+
+RDCH3_CAN_BANT1_10 = ~z~But just be ready... it won't be pretty.
+
+RDCH3_CAN_BANT1_11 = ~z~So be it.
+
+RDCH3_CAN_BANT2_1 = ~z~That's Butcher Creek up ahead.
+
+RDCH3_CAN_BANT2_2 = ~z~Who are they?
+
+RDCH3_CAN_BANT2_3 = ~z~The locals.
+
+RDCH3_CAN_BANT2_4 = ~z~They don't look too friendly.
+
+RDCH3_CAN_BANT2_5 = ~z~Wait 'til you meet the Murfrees...
+
+RDCH3_CARRIVE_1 = ~z~Well I see one anyway. That'll do, come on.
+
+RDCH3_CBRIDGE_1 = ~z~There's the bridge.
+
+RDCH3_CCOMBAT2_1 = ~z~Okay, Arthur?
+
+RDCH3_CCOMBAT2_2 = ~z~You weren't wrong about these crazy sons of bitches.
+
+RDCH3_CCOMBAT_1 = ~z~You alright there, Arthur?
+
+RDCH3_CCOMBAT_2 = ~z~Just about!
+
+RDCH3_CCOME_1 = ~z~Here they come.
+
+RDCH3_CFIRSTR_01 = ~z~Arthur, have you got this?
+
+RDCH3_CFIRSTR_02 = ~z~Are you dealing with him?
+
+RDCH3_CFIRSTR_03 = ~z~In the entrance to the cave. You see him?
+
+RDCH3_CFIRST_1 = ~z~I'll keep watch, you deal with that one in the entrance... quietly.
+
+RDCH3_CGOIN_1 = ~z~Let's get in there.
+
+RDCH3_CHLEAD_1 = ~z~I know the way.
+
+RDCH3_CHLEAD_2 = ~z~Follow me.
+
+RDCH3_CHREVEAL_1 = ~z~Come on, they're not going to help us. I'm pretty sure it's to the north, up the road here.
+
+RDCH3_CHRLS_GRT_1 = ~z~Good evening.
+
+RDCH3_CHSE_BOAT_1 = ~z~Yeah a boat's probably a good idea.
+
+RDCH3_CHSE_BOAT_2 = ~z~Okay, good.
+
+RDCH3_CHSE_HRSE_1 = ~z~I say we just ride it. It ain't worth messing around with boats.
+
+RDCH3_CHSE_HRSE_2 = ~z~Okay, sure...
+
+RDCH3_CHTALK_01 = ~z~~sl:0.0:1.3~What are you waiting for?~sl:0.6~I thought you were concerned with saving lives, Arthur.
+
+RDCH3_CHTALK_02 = ~z~Was I unclear? Take Charles and find somewhere for us to move to.
+
+RDCH3_CHTALK_03 = ~z~Will you leave me to think, now? I need to think.
+
+RDCH3_CMERED_1 = ~z~Someone's down there, she's alive!
+
+RDCH3_CMOVEUP_01 = ~z~Let's push in!
+
+RDCH3_CMOVEUP_02 = ~z~Move in on them!
+
+RDCH3_CMOVEUP_03 = ~z~Let's move up!
+
+RDCH3_CNEAR_1 = ~z~There should be some canoes down to the right here.
+
+RDCH3_COVER_01 = ~z~Have you got this one?
+
+RDCH3_COVER_02 = ~z~Are you taking him?
+
+RDCH3_CPOSTKILL_01 = ~z~Okay, let's move.
+
+RDCH3_CPOSTKILL_02 = ~z~Okay, Arthur, come on.
+
+RDCH3_CPOSTKILL_03 = ~z~Done. Let's go.
+
+RDCH3_CSEEFIRST_1 = ~z~You see that? Someone's coming out of the cave.
+
+RDCH3_CSEEGIRLS_1 = ~z~They got someone locked up in that cage!
+
+RDCH3_CTNTR_01 = ~z~Dynamite, Arthur.
+
+RDCH3_CTNTR_02 = ~z~Light that stick and throw it in there.
+
+RDCH3_CTNTR_03 = ~z~Go on, Arthur.
+
+RDCH3_CTNT_1 = ~z~Okay, get in a bit closer, then throw it into the cave.
+
+RDCH3_FOLLDWD_01 = ~z~
+
+RDCH3_FOLLDWD_02 = ~z~Come on.
+
+RDCH3_FOLLDWD_03 = ~z~Let's go, Arthur.
+
+RDCH3_FOLLPAT1_1 = ~z~Follow me and stay quiet.
+
+RDCH3_FOLLPAT2_1 = ~z~Let's get closer to them.
+
+RDCH3_FOLLPAT3_1 = ~z~Come on, up this way.
+
+RDCH3_IG1_1 = ~z~
+
+RDCH3_IG1_2 = ~z~
+
+RDCH3_IG1_3 = ~z~
+
+RDCH3_IG1_4 = ~z~
+
+RDCH3_IG1_5 = ~z~There!
+
+RDCH3_IG1_6 = ~z~
+
+RDCH3_IG1_7 = ~z~
+
+RDCH3_IG1_8 = ~z~
+
+RDCH3_IG1_ACT1_1 = ~z~Where we headed?
+
+RDCH3_IG1_ACT1_2 = ~z~Up past Butcher Creek.
+
+RDCH3_IG1_ACT1_3 = ~z~That's Murfree Brood Country.
+
+RDCH3_IG1_ACT1_4 = ~z~That's why I'm asking you to ride with me.
+
+RDCH3_IG1_ACT1_5 = ~z~I understand.
+
+RDCH3_IG1_ACT2_1 = ~z~What are we doing there?
+
+RDCH3_IG1_ACT2_2 = ~z~We're looking for a place to hole up... even the law won't follow us up there too willingly.
+
+RDCH3_IG1_ACT2_3 = ~z~Yeah. I did some scouting up there while you boys were away.
+
+RDCH3_IG1_ACT2_4 = ~z~And?
+
+RDCH3_IG1_ACT2_5 = ~z~You'll see...
+
+RDCH3_IG1_ACT2_6 = ~z~
+
+RDCH3_IG1_ENT_1 = ~z~Charles... will you ride with me?
+
+RDCH3_IG1_ENT_2 = ~z~Always...
+
+RDCH3_IG6_P1_1 = ~z~
+
+RDCH3_IG6_P1_2 = ~z~
+
+RDCH3_IG6_P1_3 = ~z~
+
+RDCH3_IG6_P1_4 = ~z~
+
+RDCH3_IG6_P1_5 = ~z~
+
+RDCH3_IG6_P1_6 = ~z~
+
+RDCH3_IG6_P1_7 = ~z~
+
+RDCH3_IG6_PUNCH_1 = ~z~
+
+RDCH3_ILO_BT_HR_1 = ~z~It's quite a ride up there.
+
+RDCH3_ILO_BT_HR_2 = ~z~I saw some canoes near the bridge up river which would take us right up to Butcher Creek. Might be quicker.
+
+RDCH3_ILO_BT_HR_3 = ~z~What do you think?
+
+RDCH3_KILLPATCR_01 = ~z~Come on, let's get in close
+
+RDCH3_KILLPATCR_02 = ~z~Quick, let's sneak up and kill them from behind.
+
+RDCH3_KILLPATC_1 = ~z~Definitely Murfrees. Now's our chance. Let's sneak in close and take them out.
+
+RDCH3_KILLPATDR_01 = ~z~Quick, Arthur.
+
+RDCH3_KILLPATDR_02 = ~z~What are you waiting for?
+
+RDCH3_KILLPATD_1 = ~z~Definitely Murfrees. I say we deal with them from here. You take one, I'll take the other.
+
+RDCH3_MDEFUSE_01 = ~z~It's okay, miss.
+
+RDCH3_MDEFUSE_02 = ~z~Just calm down.
+
+RDCH3_MDEFUSE_03 = ~z~We ain't going to hurt you.
+
+RDCH3_MERE_BNT1_1 = ~z~Annesburg, right?
+
+RDCH3_MERE_BNT1_2 = ~z~Yes...
+
+RDCH3_MERE_BNT1_3 = ~z~They... they... they did...
+
+RDCH3_MERE_BNT1_4 = ~z~It's okay, miss.
+
+RDCH3_MERE_BNT1_5 = ~z~The others... they killed them...
+
+RDCH3_MERE_BNT1_6 = ~z~You're safe now. Just try to breathe.
+
+RDCH3_MERE_BNT1_7 = ~z~They're animals...
+
+RDCH3_MERE_BNT1_8 = ~z~I know...
+
+RDCH3_MERE_BNT2_1 = ~z~
+
+RDCH3_MERE_BNT2_2 = ~z~It's alright, miss.
+
+RDCH3_MERE_BNT2_3 = ~z~~sl:2.7:1.1:1~Why would they...
+
+RDCH3_MERE_BNT2_4 = ~z~~sl:0.0:1.2~Some folks is...~sl:0.5~just evil, ain't no point trying to explain it.
+
+RDCH3_MERE_BNT2_5 = ~z~~sl:1.3:1.7:1~I haven't slept in days.
+
+RDCH3_MERE_BNT2_6 = ~z~I know. What's your name, miss? It's okay...
+
+RDCH3_MERE_BNT2_7 = ~z~~sl:2.1~Meredith.
+
+RDCH3_MERE_BNT2_8 = ~z~You're going to be home soon, Meredith, and this'll all be over.
+
+RDCH3_MERE_BNT2_9 = ~z~~sl:2.3~Thank you.
+
+RDCH3_MERE_BNT2_10 = ~z~Where in Annesburg?
+
+RDCH3_MERE_BNT2_11 = ~z~~sl:0.0:1.6~One of the mining cottages...~sl:2.6~if you get me to the main street, I can show you from there.
+
+RDCH3_MERE_BNT2_12 = ~z~Okay. Just try to relax, now.
+
+RDCH3_MERE_DIR_1 = ~z~Just head for the main street, it'll be easier to walk from there.
+
+RDCH3_MFREE_1 = ~z~Charles, you see any more of them?
+
+RDCH3_MFREE_2 = ~z~Not for now... come on, let's get that poor girl out of the cage.
+
+RDCH3_MOUNTUP_01 = ~z~I thought we were leaving now?
+
+RDCH3_MOUNTUP_02 = ~z~If we're going, we should go now.
+
+RDCH3_MOUNTUP_03 = ~z~Mount up then, it's a fair ride from here.
+
+RDCH3_MPLEAD_01 = ~z~Please don't kill me!
+
+RDCH3_MPLEAD_02 = ~z~Stay away from me!
+
+RDCH3_MPLEAD_03 = ~z~Don't touch me!
+
+RDCH3_PATALERT_1 = ~z~Damn it, they're onto us.
+
+RDCH3_PATARGUE_1 = ~z~Hold up. I need a breather.
+
+RDCH3_PATARGUE_2 = ~z~Already? For Christ's sake.
+
+RDCH3_PATARGUE_3 = ~z~Why don't you carry the body for a bit, huh? Why do I always do the carrying?
+
+RDCH3_PATARGUE_4 = ~z~Because I do the skinning.
+
+RDCH3_PATARGUE_5 = ~z~Well how about I do the skinning?
+
+RDCH3_PATARGUE_6 = ~z~Then who'd do the carrying?
+
+RDCH3_PATARGUE_7 = ~z~You're a son of a bitch, you know that?
+
+RDCH3_PATDEADA_1 = ~z~Okay, that was close.
+
+RDCH3_PATDEADQ_1 = ~z~Good job.
+
+RDCH3_PATEARLY_1 = ~z~Alright, let's find out where they were going. Come on.
+
+RDCH3_PINKREINF_1 = ~z~We need to get this done fast. The Pinkertons will have reinforced in another day or two.
+
+RDCH3_PINKREINF_2 = ~z~Yes, the sooner we get out of here, the better.
+
+RDCH3_RBANT2_HOSHOUTED_7 = ~z~And we're going to need to be careful ~rp~They're animals. ~rp~Everyone is terrified of them.
+
+RDCH3_RBANT2_HOSPOKEN_7 = ~z~a place called Beaver Hollow. ~rp~They're animals. ~rp~Everyone is terrified of them.
+
+RDCH3_RBANT2_HO_1 = ~z~It's not much further now.
+
+RDCH3_RBANT2_HO_2 = ~z~So ~rp~I spent some time up this way while you were gone.
+
+RDCH3_RBANT2_HO_3 = ~z~I ran into Rains Fall and Eagle Flies... the Indians... and ~rp~I've been trying to help out a bit where I can at their reservation.
+
+RDCH3_RBANT2_HO_4 = ~z~Things are bad there...
+
+RDCH3_RBANT2_HO_5 = ~z~That's not a surprise... ~rp~they seemed to be in a lot of trouble and heading into more.
+
+RDCH3_RBANT2_HO_6 = ~z~Some men there spoke a lot about the Murfree gang that hides out in these caves...
+
+RDCH3_RBANT2_HO_8 = ~z~Just recently a stagecoach from Annesburg, disappeared without a trace coming through here.
+
+RDCH3_RBANT2_HO_9 = ~z~Great. ~rp~Dutch didn't mention this...
+
+RDCH3_RBANT2_HO_10 = ~z~Well, ~rp~hiding up here... it's not a crazy idea.
+
+RDCH3_RBANT2_HO_11 = ~z~This is a spot nobody comes near, even the law.
+
+RDCH3_RBANT2_HO_12 = ~z~But ~rp~just be ready... it won't be pretty.
+
+RDCH3_RBANT2_HO_13 = ~z~So be it.
+
+RDCH3_RIDEBANT1SHOUTED_3 = ~z~~sl:0.0:2.9~Thanks for what you did in Saint Denis,~lr:0.5~real brave drawing them off us like that.
+
+RDCH3_RIDEBANT1SHOUTED_5 = ~z~~sl:0.0:3.3~I found a spot to lie low for a while ~rp~then managed to get a ride with~sl:~a wagon of workers heading out to the fields.
+
+RDCH3_RIDEBANT1SHOUTED_6 = ~z~~sl:0.0:2.5~Abigail said she somehow managed to slip away~sl:~when they grabbed Hosea.
+
+RDCH3_RIDEBANT1SHOUTED_7 = ~z~~sl:0.0:2.9~You did good getting the others out of there,~lr:~keeping everyone together.
+
+RDCH3_RIDEBANT1SHOUTED_9 = ~z~~sl:1.1~It was a tough few days, ~rp~I couldn't have done it without Sadie.
+
+RDCH3_RIDEBANT1SHOUTED_10 = ~z~~sl:0.0:2.5~So ~rp~how did you find that spot back there?~lr:0.8~I assume the skulls on sticks weren't an addition of yours...
+
+RDCH3_RIDEBANT1SHOUTED_11 = ~z~~sl:1.2:4.1~Old Strauss knew about it. ~rp~The locals are terrified of the place,~sl:~so ~rp~we figured that might buy us some time.
+
+RDCH3_RIDEBANT1SHOUTED_14 = ~z~~sl:0.0:4.8~Not exactly. ~rp~An island off of there called Guarma.~lr:0.5~Landed ourselves in a heap of trouble.
+
+RDCH3_RIDEBANT1SHOUTED_15 = ~z~Really? A tropical island? ~rp~Isn't that just what Dutch wanted?
+
+RDCH3_RIDEBANT1SHOUTED_16 = ~z~~sl:1.5~I guess it didn't exactly live up to his ideals... anyway...
+
+RDCH3_RIDEBANT1SHOUTED_18 = ~z~~sl:0.0:0.9~Perhaps not...~sl:0.3~but ~rp~he's always managed to figure things out in the past.
+
+RDCH3_RIDEBANT1SHOUTED_19 = ~z~~sl:0.0:6.1:1~I know... you're right. I'm just... it's been...
+
+RDCH3_RIDEBANT1SPOKEN_3 = ~z~~sl:0.0:2.7~Thanks for what you did in Saint Denis,~lr:0.5~real brave drawing them off us like that.
+
+RDCH3_RIDEBANT1SPOKEN_5 = ~z~~sl:0.0:3.8~I found a spot to lie low for a while ~rp~then managed to get a ride with~sl:~a wagon of workers heading out to the fields.
+
+RDCH3_RIDEBANT1SPOKEN_6 = ~z~~sl:0.0:3.0~Abigail said she somehow managed to slip away~sl:~when they grabbed Hosea.
+
+RDCH3_RIDEBANT1SPOKEN_7 = ~z~~sl:0.0:2.4~You did good getting the others out of there,~lr:0.3~keeping everyone together.
+
+RDCH3_RIDEBANT1SPOKEN_9 = ~z~~sl:1.0~It was a tough few days, ~rp~I couldn't have done it without Sadie.
+
+RDCH3_RIDEBANT1SPOKEN_10 = ~z~~sl:0.0:2.7~So ~rp~how did you find that spot back there?~lr:0.6~I assume the skulls on sticks weren't an addition of yours...
+
+RDCH3_RIDEBANT1SPOKEN_11 = ~z~~sl:0.7:3.9~Old Strauss knew about it. ~rp~The locals are terrified of the place,~sl:~so ~rp~we figured that might buy us some time.
+
+RDCH3_RIDEBANT1SPOKEN_14 = ~z~~sl:0.4:4.4~Not exactly. ~rp~An island off of there called Guarma.~lr:0.4~Landed ourselves in a heap of trouble.
+
+RDCH3_RIDEBANT1SPOKEN_15 = ~z~Really? A tropical island... ~rp~isn't that just what Dutch wanted?
+
+RDCH3_RIDEBANT1SPOKEN_16 = ~z~~sl:2.1~I guess it didn't exactly live up to his ideals... anyway...
+
+RDCH3_RIDEBANT1SPOKEN_18 = ~z~~sl:0.0:0.9~Perhaps not...~sl:0.1~but ~rp~he's always managed to figure things out in the past.
+
+RDCH3_RIDEBANT1SPOKEN_19 = ~z~I know... you're right. I'm just... it's been...
+
+RDCH3_RIDEBANT1_1 = ~z~It's good to see you again, Charles.
+
+RDCH3_RIDEBANT1_2 = ~z~You too.
+
+RDCH3_RIDEBANT1_4 = ~z~I was worried you and Abigail had both got yourselves killed.
+
+RDCH3_RIDEBANT1_8 = ~z~Everybody was pretty shaken up when I got back to Shady Belle.
+
+RDCH3_RIDEBANT1_12 = ~z~And it did... ~rp~until one of you brought the law with you.
+
+RDCH3_RIDEBANT1_13 = ~z~And ~rp~where did you end up again? Cuba?
+
+RDCH3_RIDEBANT1_17 = ~z~I ain't always sure Dutch knows what he wants anymore.
+
+RDCH3_RIDEBANT1_20 = ~z~Guess I just miss Hosea and his... wisdom, you know.
+
+RDCH3_RIDEBANT1_21 = ~z~Of course.
+
+RDCH3_RSC4_P0_1 = ~z~Miss... we're here.
+
+RDCH3_RSC4_P0_2 = ~z~Oh... oh... thank God.
+
+RDCH3_SEEPATA_1 = ~z~What's that up ahead?
+
+RDCH3_SEEPATA_2 = ~z~Slow down, keep it quiet. It could be some of them.
+
+RDCH3_SEEPATC_1 = ~z~You see that up ahead?
+
+RDCH3_SEEPATC_2 = ~z~Slow down, keep it quiet. It could be some of them.
+
+RDCH3_STEG01F_01 = ~z~Good, let's move.
+
+RDCH3_STEG01F_02 = ~z~Okay, quick, this way.
+
+RDCH3_STEG02F_01 = ~z~Let's move, come on.
+
+RDCH3_STEG02F_02 = ~z~Now keep moving.
+
+RDCH3_STEG02GO_01 = ~z~You or me? Come on?
+
+RDCH3_STEG02GO_02 = ~z~Are you going?
+
+RDCH3_STEG02GO_03 = ~z~What are we doing?
+
+RDCH3_STEG02_01 = ~z~Another one up ahead.
+
+RDCH3_STLH_KICK_1 = ~z~Looks like it's on then, Charles!
+
+RDCH3_STOPPAT_1 = ~z~I say we dismount here and follow them on foot, see where they're going.
+
+RDCH3_TOOLONG_1 = ~z~Okay, fine. I say we do the canoe. I think it will be faster.
+
+RDCH3_TOOLONG_2 = ~z~Sure. Sorry, my mind was someplace else.
+
+RDCH3_VANTAGE_1 = ~z~We must be close now, let's take a look from up here.
+
+RDCH3_WALKIT_1 = ~z~Alright, let's walk it from here.
+
+RDTC3_RSC5_1 = ~z~How you get on?
+
+RDTC3_RSC5_2 = ~z~Okay.
+
+RDTC3_RSC5_3 = ~z~Found a girl, took her home.
+
+RDTC3_RSC5_4 = ~z~Oh.
+
+RDTC3_RSC5_5 = ~z~You and Micah find anything?
+
+RDTC3_RSC5_6 = ~z~Maybe...
+
+RDTC3_RSC5_7 = ~z~I think maybe, I found our old friend Mr. Cornwall.
+
+RDTC3_RSC5_8 = ~z~You did?
+
+RDTC3_RSC5_9 = ~z~Yeah, he's buying a stake in the mine in Annesburg.
+
+RDTC3_RSC5_10 = ~z~Relentlessly ambitious feller isn't he?
+
+RDTC3_RSC5_11 = ~z~Micah and I'll sniff about...
+
+RDTC3_RSC5_12 = ~z~see if he knows we're here...
+
+RDTC3_RSC5_13 = ~z~and exactly what his plans are.
+
+RDTC3_RSC5_14 = ~z~So, Dutch...
+
+RDTC3_RSC5_15 = ~z~did you miss me?
+
+RDTC3_RSC5_16 = ~z~I found her, drunk in Saint Denis.
+
+RDTC3_RSC5_17 = ~z~You're back...
+
+RDTC3_RSC5_18 = ~z~How jolly, Miss O'Shea.
+
+RDTC3_RSC5_19 = ~z~It's Molly, you sack of shit!
+
+RDTC3_RSC5_20 = ~z~Back and drunk.~n~~m~Who made you...
+
+RDTC3_RSC5_21 = ~z~the master...
+
+RDTC3_RSC5_22 = ~z~the Lord God almighty.~n~~m~Molly, calm down.
+
+RDTC3_RSC5_23 = ~z~I won't be ignored, Dutch van der Linde.
+
+RDTC3_RSC5_24 = ~z~I aren't him...
+
+RDTC3_RSC5_25 = ~z~I ain't her...
+
+RDTC3_RSC5_26 = ~z~or any of your stooges.
+
+RDTC3_RSC5_27 = ~z~Calm yourself, miss.~n~~m~You don't owe me nothing...
+
+RDTC3_RSC5_28 = ~z~I don't owe you nothing.
+
+RDTC3_RSC5_29 = ~z~Nothing!
+
+RDTC3_RSC5_30 = ~z~Okay.
+
+RDTC3_RSC5_31 = ~z~I'll spit in your eye.
+
+RDTC3_RSC5_32 = ~z~I did...
+
+RDTC3_RSC5_33 = ~z~I told them!
+
+RDTC3_RSC5_34 = ~z~I'm sorry?
+
+RDTC3_RSC5_35 = ~z~Yeah, I told 'em and I'd tell 'em again.
+
+RDTC3_RSC5_36 = ~z~Now I've got God's ear.
+
+RDTC3_RSC5_37 = ~z~You told who what?
+
+RDTC3_RSC5_38 = ~z~Mr. Milton and Mr. Ross...
+
+RDTC3_RSC5_39 = ~z~about the bank robbery...
+
+RDTC3_RSC5_40 = ~z~and I wanted them to kill you.
+
+RDTC3_RSC5_41 = ~z~You did what?
+
+RDTC3_RSC5_42 = ~z~I loved you, you goddamn bastard!
+
+RDTC3_RSC5_43 = ~z~Go on, shoot me.~n~~m~She's crazy...
+
+RDTC3_RSC5_44 = ~z~she ain't worth it.
+
+RDTC3_RSC5_45 = ~z~You told on me? You betrayed me?~n~~m~Oh, you're not so big now, are you?
+
+RDTC3_RSC5_46 = ~z~Quiet!
+
+RDTC3_RSC5_47 = ~z~Just calm down.
+
+RDTC3_RSC5_48 = ~z~Arthur?
+
+RDTC3_RSC5_49 = ~z~She's a fool.
+
+RDTC3_RSC5_50 = ~z~Get her outta here.
+
+RDTC3_RSC5_51 = ~z~You know the rules.
+
+RDTC3_RSC5_52 = ~z~Oh, not so big now...
+
+RDTC3_RSC5_53 = ~z~are we, your majesty?
+
+RDTC3_RSC5_54 = ~z~You...
+
+RDTC3_RSC5_55 = ~z~Damn.
+
+RDTC3_RSC5_56 = ~z~She knew the rules, Arthur.
+
+RDTC3_RSC5_57 = ~z~What the hell is wrong with you?
+
+RDTC3_RSC5_58 = ~z~Mr. Pearson, Mr. Williamson...
+
+RDTC3_RSC5_59 = ~z~get this body outta here and get it burnt.
+
+RDTC3_RSC5_60 = ~z~Okay.
+
+RDTC3_RSC5_61 = ~z~Now get back to work, all of ya!
+
+RDTC3_RSC5_62 = ~z~Quit your lollygagging...
+
+RDTC3_RSC5_63 = ~z~get back to work.
+

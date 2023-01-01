@@ -1,0 +1,340 @@
+LBCAR_CARRYALVE_1 = ~z~I am being abducted!
+
+LBCAR_CARRYDEAD_1 = ~z~Help me. Someone. Any kind soul in hearing of this?
+
+LBCAR_CLOSE_01 = ~z~Don't!
+
+LBCAR_CLOSE_02 = ~z~No!
+
+LBCAR_CLOSE_03 = ~z~Don't you...
+
+LBCAR_COMBAT1_01 = ~z~Try and catch me.
+
+LBCAR_COMBAT1_02 = ~z~Time to slip away...
+
+LBCAR_COMBAT1_03 = ~z~Now you see me...
+
+LBCAR_COMBAT1_04 = ~z~See if you can follow.
+
+LBCAR_COMBAT1_05 = ~z~Come on, chase me!
+
+LBCAR_COMBAT1_06 = ~z~I'm late for a very important date...
+
+LBCAR_COMBAT1_07 = ~z~Down the rabbit hole...
+
+LBCAR_COMBAT1_08 = ~z~Come deeper with me...
+
+LBCAR_COMBAT2_01 = ~z~Put that rope away, you won't get me with that.
+
+LBCAR_COMBAT2_02 = ~z~Try and rope the vapors.
+
+LBCAR_COMBAT2_03 = ~z~I'd have to be real for you to rope me.
+
+LBCAR_COMBATH1_01 = ~z~Feels real, doesn't it?
+
+LBCAR_COMBATH1_02 = ~z~Are you dreaming?
+
+LBCAR_COMBATH1_03 = ~z~Wake up!
+
+LBCAR_COMBATH1_04 = ~z~It's a nightmare.
+
+LBCAR_COMBATH1_05 = ~z~Snap out of it.
+
+LBCAR_COMBATH1_06 = ~z~Let me help you wake up.
+
+LBCAR_COMBATH1_07 = ~z~Sleep no more!
+
+LBCAR_COMBATH1_08 = ~z~Let me put you out your misery.
+
+LBCAR_COMBATH2_01 = ~z~You can't kill a dream.
+
+LBCAR_COMBATH2_02 = ~z~If only it was as simple as killing me.
+
+LBCAR_COMBATH2_03 = ~z~It's no use... give up.
+
+LBCAR_COMBATH2_04 = ~z~It will take more than that to kill me.
+
+LBCAR_COMBATH2_05 = ~z~You're wasting your efforts.
+
+LBCAR_COMBATH2_06 = ~z~It's a fools errand... I promise you.
+
+LBCAR_COMBATH2_07 = ~z~Continue to try, and you'll continue to fail...
+
+LBCAR_COMBATH2_08 = ~z~You're only fighting the vapors.
+
+LBCAR_CROCCHASE_01 = ~z~It looks like they don't want me to leave.
+
+LBCAR_CROCCHASE_02 = ~z~Quick, aren't they? You have to watch them.
+
+LBCAR_CROCCHASE_03 = ~z~They've been trying this for years.
+
+LBCAR_CROCFLEE_1 = ~z~~sl:0.2~What a waste of a good alligator.
+
+LBCAR_CROC_1 = ~z~Good gator!
+
+LBCAR_DISAPEAR1_01 = ~z~I'm afraid I must leave you...
+
+LBCAR_DISAPEAR1_02 = ~z~If you'd excuse me a moment...
+
+LBCAR_DISAPEAR1_03 = ~z~You hear that? Someone's calling.
+
+LBCAR_DISAPEAR1_04 = ~z~I'm being called away.
+
+LBCAR_DISAPEAR2_01 = ~z~You missed me.
+
+LBCAR_DISAPEAR2_02 = ~z~Here I go again.
+
+LBCAR_DISAPEAR2_03 = ~z~Until next time.
+
+LBCAR_DISAPEAR2_04 = ~z~Au revoir.
+
+LBCAR_DISAPEAR2_05 = ~z~Look what's happening.
+
+LBCAR_DISAPEAR2_06 = ~z~I can do this all day.
+
+LBCAR_DISAPEAR2_07 = ~z~Goodbye again.
+
+LBCAR_DISAPEAR2_08 = ~z~Until we meet again.
+
+LBCAR_ESCAPE1_1 = ~z~Slipped out. Didn't think I'd be so thin!
+
+LBCAR_ESCAPE1_2 = ~z~If there's one thing I know it's running.
+
+LBCAR_ESCAPE1_3 = ~z~If it's something else, it's hiding.
+
+LBCAR_ESCAPE2_01 = ~z~Okay fine. You got me. Again.
+
+LBCAR_ESCAPE2_02 = ~z~Ugh, no.
+
+LBCAR_FIGHT_1 = ~z~I killed him and I'll kill you, too!
+
+LBCAR_FOUND1_01 = ~z~Never!
+
+LBCAR_FOUND1_02 = ~z~Never!
+
+LBCAR_FOUND1_03 = ~z~I won't go!
+
+LBCAR_FOUND1_04 = ~z~He's dead!
+
+LBCAR_FOUND1_05 = ~z~I'm not him anymore!
+
+LBCAR_FOUND1_06 = ~z~Carlier's dead!
+
+LBCAR_FOUND1_07 = ~z~Carlier's dead!
+
+LBCAR_HALLU1_01 = ~z~There you are.
+
+LBCAR_HALLU1_02 = ~z~We thought we'd lost you...
+
+LBCAR_HALLU1_03 = ~z~I told you it came on strong...
+
+LBCAR_HALLU1_04 = ~z~You're having a time of it alright...
+
+LBCAR_HALLU1_M_01 = ~z~I'm glad I caught you alone.
+
+LBCAR_HALLU1_M_02 = ~z~It's nice to have you all to myself.
+
+LBCAR_HALLU1_M_03 = ~z~I was hoping to catch you like this...
+
+LBCAR_HALLU1_M_04 = ~z~It looks like it's just you and I here...
+
+LBCAR_HALLU1_S_01 = ~z~How you feeling, huh?
+
+LBCAR_HALLU1_S_02 = ~z~You don't look so good.
+
+LBCAR_HALLU2_01 = ~z~You look like you're struggling there.
+
+LBCAR_HALLU2_02 = ~z~You can't even stand straight.
+
+LBCAR_HALLU2_03 = ~z~Strong vapors aren't they...
+
+LBCAR_HALLU2_04 = ~z~Just the tonic, ain't it now?
+
+LBCAR_HALLU3_01 = ~z~
+
+LBCAR_HALLU3_02 = ~z~
+
+LBCAR_HALLU3_03 = ~z~
+
+LBCAR_HALLU3_04 = ~z~
+
+LBCAR_HIT_01 = ~z~Please!
+
+LBCAR_HIT_02 = ~z~Don't!
+
+LBCAR_HIT_03 = ~z~Why, really!
+
+LBCAR_HIT_04 = ~z~That's uncalled for.
+
+LBCAR_HOGTIED_01 = ~z~Don't tie me up.
+
+LBCAR_HOGTIED_02 = ~z~I am quite well behaved... ask anyone I know.
+
+LBCAR_HOGTIED_03 = ~z~This is really quite unnecessary.
+
+LBCAR_IDLE_01 = ~z~I wasn't hurting anyone out there.
+
+LBCAR_IDLE_02 = ~z~Let me go back to the bayou.
+
+LBCAR_INT_BINK_1 = ~z~Mr. Philip Carlier.
+
+LBCAR_INT_BINK_2 = ~z~I don't know where to start with this one.
+
+LBCAR_INT_BINK_3 = ~z~I remember when his poster first went up.
+
+LBCAR_INT_BINK_4 = ~z~Mild mannered they said.
+
+LBCAR_INT_BINK_5 = ~z~Well, they all are, until they ain't.
+
+LBCAR_INT_BINK_6 = ~z~I might have even looked for him too...
+
+LBCAR_INT_BINK_7 = ~z~but none of us could find him.
+
+LBCAR_INT_BINK_8 = ~z~It sounds like they spotted him in the swamps.
+
+LBCAR_INT_BINK_9 = ~z~If that's where he's been, on the run all this time...
+
+LBCAR_INT_BINK_10 = ~z~then God help him.
+
+LBCAR_INT_BINK_11 = ~z~Ain't much in the way of company out there.
+
+LBCAR_INT_BINK_12 = ~z~Or much that won't try and eat you or put you on a pike.
+
+LBCAR_INT_BINK_13 = ~z~Got to ask what years of that might have done to his mind.
+
+LBCAR_INT_BINK_14 = ~z~You're here.
+
+LBCAR_INT_BINK_15 = ~z~You're here. Oh, thank heavens you're here.
+
+LBCAR_INT_BINK_16 = ~z~See, I've been here for... must be years.
+
+LBCAR_INT_BINK_17 = ~z~Trapped.
+
+LBCAR_INT_BINK_18 = ~z~You see, I-I thought no one would ever come.
+
+LBCAR_INT_BINK_19 = ~z~Philip Carlier, the Castille Cotton Company chief clerk.
+
+LBCAR_INT_BINK_20 = ~z~But... I'm sure you already know that given why you're here.
+
+LBCAR_INT_BINK_21 = ~z~My, my, I... I can't imagine how I must look.
+
+LBCAR_INT_BINK_22 = ~z~No, no time for any of that. Now...
+
+LBCAR_INT_BINK_23 = ~z~if you'd just let me...
+
+LBCAR_INT_BINK_24 = ~z~Oh.
+
+LBCAR_INT_BINK_25 = ~z~I was so hoping for someone to share this with.
+
+LBCAR_INT_BINK_26 = ~z~It comes on rather strong the first time, does it not?
+
+LBCAR_KILLED_01 = ~z~A brave attempt.
+
+LBCAR_KILLED_02 = ~z~I didn't have the constitution.
+
+LBCAR_KILLED_03 = ~z~Got the better of you, didn't it?
+
+LBCAR_KILLED_04 = ~z~Not sound enough of mind...
+
+LBCAR_LASSO_01 = ~z~Get that rope off of me.
+
+LBCAR_LASSO_02 = ~z~Don't do this!
+
+LBCAR_LASSO_03 = ~z~You don't need the rope!
+
+LBCAR_LASSO_04 = ~z~I'm a gentleman!
+
+LBCAR_NIGHTFOLK_01 = ~z~The Night Folk'll get you before you can get me.
+
+LBCAR_NIGHTFOLK_02 = ~z~My friends... protect me.
+
+LBCAR_NIGHTFOLK_03 = ~z~They don't talk much, but they're loyal.
+
+LBCAR_NIGHTFOLK_04 = ~z~The bayou protects its own!
+
+LBCAR_OFFICE_1 = ~z~I don't want to go in there.
+
+LBCAR_OFFICE_2 = ~z~I'm not ready to go to jail, please.
+
+LBCAR_REAPPEAR1_01 = ~z~And now I'm over here...
+
+LBCAR_REAPPEAR1_02 = ~z~I couldn't leave you all alone.
+
+LBCAR_REAPPEAR1_03 = ~z~I came back as soon as I could.
+
+LBCAR_REAPPEAR1_04 = ~z~I hope I wasn't missed.
+
+LBCAR_REAPPEAR2_01 = ~z~Over here.
+
+LBCAR_REAPPEAR2_02 = ~z~Behind you.
+
+LBCAR_REAPPEAR2_03 = ~z~This way.
+
+LBCAR_REAPPEAR2_04 = ~z~Pardon.
+
+LBCAR_REAPPEAR2_05 = ~z~Watch your back!
+
+LBCAR_REAPPEAR2_06 = ~z~Watch yourself.
+
+LBCAR_REAPPEAR2_07 = ~z~Excuse me.
+
+LBCAR_REAPPEAR2_08 = ~z~Look out.
+
+LBCAR_RIDEAWAY_1 = ~z~~sl:0.0:1.6~Oh, take me back to the bayou?~sl:~I won't hurt anyone, hey, that's a promise...
+
+LBCAR_RIDEBANT_1 = ~z~~sl:1.2~How you feeling? ~rp~Clear-eyed again, I hope, yes?
+
+LBCAR_RIDEBANT_2 = ~z~~sl:0.0:2.0~Yeah, those vapors, they are quite strong.~sl:~Yes, yes... yes, quite strong indeed.
+
+LBCAR_RIDEBANT_3 = ~z~~sl:0.0:2.9~Now, you may not believe me, but you made a mistake.~sl:0.7~You've got the wrong man, you see, it's
+
+LBCAR_RIDEBANT_4 = ~z~~sl:0.0:3.5~Mr. Philip ~rp~Carlier? Of the Castille Cotton Company?~sl:~Yeah, he, he gone. ~rp~He died a long time ago, I'm afraid.
+
+LBCAR_RIDEBANT_5 = ~z~~sl:0.6~I know it's very disappointing for a bounty hunter, but... there it is.
+
+LBCAR_RIDEBANT_6 = ~z~~sl:0.0:3.0~I promise you, ~rp~I saw him dead.~sl:~His body committed to the swamp, I...
+
+LBCAR_RIDEBANT_7 = ~z~~sl:0.0:2.1~I saw the skin rotting off his bones and~sl:0.0:2.3~creatures feeding upon his flesh.~sl:~~rp~The man is as dead as you and me is breathing now, I...
+
+LBCAR_RIDEBANT_8 = ~z~I... he's dead, you must believe me.
+
+LBCAR_RIDEBANT_9 = ~z~~sl:0.2:3.2~How do you think anyone could survive out here?~sl:0.0:1.6~For all this time?~sl:0.0:1.0~I mean, really.~sl:0.0:2.7~~rp~It's a ridiculous proposition if you think of it...~sl:0.6~For a man as...
+
+LBCAR_RIDEBANT_10 = ~z~~sl:0.0:4.0~as polite and unsuited to the environment as...~sl:0.0:2.8~as poor Mr. Carlier.~sl:0.7~~rp~He perished very quickly, I assure you.
+
+LBCAR_RIDEBANT_11 = ~z~~sl:0.0:3.2~Yeah, one night with the gators, and the snakes, and the...~sl:0.0:3.2:1~and the Night Folk? That was more than enough.
+
+LBCAR_RIDEBANT_12 = ~z~~sl:0.0:3.7:1~It was a mercy. ~rp~A mercy, I promise.
+
+LBCAR_RIDEBANT_13 = ~z~~sl:0.2:5.0~You must understand, ~rp~Philip Carlier's dead!~sl:0.2~~rp~Why won't you understand that?
+
+LBCAR_RIDEBANT_14 = ~z~
+
+LBCAR_RUNOFF_1 = ~z~Stay away!
+
+LBCAR_SPLITM_01 = ~z~Where's the rest of your party, you think?
+
+LBCAR_SPLITM_02 = ~z~Call out, see if anyone can hear you.
+
+LBCAR_SPLITM_03 = ~z~Where do you think they are, huh?
+
+LBCAR_SPLITM_04 = ~z~Getting awfully lonely out here, I bet.
+
+LBCAR_SPLITS_01 = ~z~Sounded like night terrors over here.
+
+LBCAR_SPLITS_02 = ~z~Having a bad dream?
+
+LBCAR_SPOT_1 = ~z~You again...
+
+LBCAR_TWITCH_01 = ~z~Found...
+
+LBCAR_TWITCH_02 = ~z~Caught...
+
+LBCAR_TWITCH_03 = ~z~Captured...
+
+LBCAR_TWITCH_04 = ~z~Saved...
+
+LBCAR_TWITCH_05 = ~z~Ruined...
+
+LBCAR_TWITCH_06 = ~z~Never...
+

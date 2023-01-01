@@ -1,0 +1,334 @@
+LSUND_IG_CLEAN2_1 = ~z~Least they could do is keep you presentable.
+
+LSUND_IG_CLEAN3_1 = ~z~You would not believe the state of you.
+
+LSUND_IG_CLEAN_1 = ~z~Look at this. Overgrown and all.
+
+LSUND_IG_CLREAS_1 = ~z~Ma'am, would you mind clearing out of here for some maintenance work?
+
+LSUND_IG_CLREAS_2 = ~z~Gladly. It's about time this place got cleaned up.
+
+LSUND_IG_CLTHR_1 = ~z~You're done here, move along!
+
+LSUND_IG_CLTHR_2 = ~z~I was on my way anyway, thank you very much.
+
+LSUND_IG_CLTHR_3 = ~z~No one got manners no more, not even church folk.
+
+LSUND_IG_CLWEP_1 = ~z~You best be leaving.
+
+LSUND_IG_CLWEP_2 = ~z~
+
+LSUND_IG_CLWEP_3 = ~z~Oh, the nerve of you.
+
+LSUND_IG_REASON_1 = ~z~You two may want to find somewhere a little more private.
+
+LSUND_IG_REASON_2 = ~z~We was fine until you got here mister. Good day now.
+
+LSUND_IG_THREAT_1 = ~z~Get out of here, kids. Move.
+
+LSUND_IG_THREAT_2 = ~z~Come on, I knew we shouldn't have been here.
+
+LSUND_IG_THREAT_3 = ~z~You missed your chance, boy.
+
+LSUND_IG_THREAW_1 = ~z~You don't wanna hang around here.
+
+LSUND_IG_THREAW_2 = ~z~Come on, quick.
+
+LSUND_IG_THREAW_3 = ~z~Look at the trouble you got us in.
+
+LSUND_IG_WAITC_01 = ~z~Well c'mon, clear 'em off.
+
+LSUND_IG_WAITC_02 = ~z~Just move 'em along.
+
+LSUND_IG_WAITC_03 = ~z~They ain't gone yet.
+
+LSUND_IG_WAIT_1 = ~z~It's all clear.
+
+LSUND_IG_WAIT_2 = ~z~Alright. Now go watch the gate.
+
+LSUND_IG_WAIT_3 = ~z~I'll get to this, uh... this exhumation.
+
+LS_UND_BRW1_ENC_1 = ~z~Gentlemen, church grounds are closed.
+
+LS_UND_BRW1_ENC_2 = ~z~I don't care very much what they are. We're looking for some privacy.
+
+LS_UND_BRW1_ENC_3 = ~z~You get this guy? Huh?
+
+LS_UND_BRW1_ENC_4 = ~z~Goody two shoes.
+
+LS_UND_BRW_CON_1 = ~z~Ain't nothing doing in this town.
+
+LS_UND_BRW_CON_2 = ~z~That's for sure.
+
+LS_UND_BRW_CON_3 = ~z~There's them's that born to it, and there's everyone else.
+
+LS_UND_BRW_CON_4 = ~z~Uh huh. That's how it is.
+
+LS_UND_BRW_CON_5 = ~z~Things was done on merit, you and me would be running things.
+
+LS_UND_BRW_CON_6 = ~z~Sure would.
+
+LS_UND_BRW_CON_7 = ~z~Uh huh.
+
+LS_UND_BRW_CON_8 = ~z~Yup.
+
+LS_UND_BRW_FLE1_1 = ~z~Don't! Shit.
+
+LS_UND_BRW_FLE2_1 = ~z~Whoa. Don't.
+
+LS_UND_BRW_REA_1 = ~z~Hey, look, we're closed for some... excavation work. Would you mind?
+
+LS_UND_BRW_REA_2 = ~z~No, I ain't going to mind you at all. You carry on with your business, we'll carry on with ours.
+
+LS_UND_BRW_REA_3 = ~z~This feller. Oof.
+
+LS_UND_BRW_REA_4 = ~z~Damn choir boy.
+
+LS_UND_BRW_SPT1_1 = ~z~The hell's he doing?
+
+LS_UND_BRW_SPT2_1 = ~z~They only just buried her.
+
+LS_UND_BRW_TRT_1 = ~z~Get the hell out of this churchyard, or you boys gonna need yourselves a preacher.
+
+LS_UND_BRW_TRT_2 = ~z~You hear this feller?
+
+LS_UND_BRW_TRT_3 = ~z~I heard him, alright.
+
+LS_UND_BRW_TRT_4 = ~z~We're gonna lick you, bastard.
+
+LS_UND_BRW_WTRT_1 = ~z~I suggest you start heading back that way.
+
+LS_UND_BRW_WTRT_2 = ~z~Easy, mister. We'll go.
+
+LS_UND_BRW_WTRT_3 = ~z~Come on.
+
+LS_UND_CANT_1 = ~z~Can't believe it's come to this...
+
+LS_UND_CUT_1 = ~z~Gwyn Hughes?
+
+LS_UND_CUT_2 = ~z~You start picking out a box for yourself if you don't got that money you owe Leopold Strauss.
+
+LS_UND_CUT_3 = ~z~Well, I-I don't... I-I... I need more time.
+
+LS_UND_CUT_4 = ~z~Doesn't everybody?
+
+LS_UND_CUT_5 = ~z~That casket for you or you want another?
+
+LS_UND_CUT_6 = ~z~Wait! Wait-wait-wait-wait-wait, I... I can get it for you!
+
+LS_UND_CUT_7 = ~z~But, uh... well, uh...
+
+LS_UND_CUT_8 = ~z~Come with me to the churchyard?
+
+LS_UND_CUT_9 = ~z~And stay close...
+
+LS_UND_CUT_10 = ~z~Alright.
+
+LS_UND_DEFENDR2_01 = ~z~Get back to the gate or we're done.
+
+LS_UND_DEFENDR2_02 = ~z~Wh-what you leave the gate for? Get back over there.
+
+LS_UND_DEFENDR_01 = ~z~I ain't starting 'til you guard the gate.
+
+LS_UND_DEFENDR_02 = ~z~Go on now. Get to the entrance.
+
+LS_UND_DEFENDR_03 = ~z~Someone's gotta keep watch. Go!
+
+LS_UND_GRAVE_1 = ~z~What the hell have I got myself into?
+
+LS_UND_GUNSHOT_01 = ~z~You caused a scene!
+
+LS_UND_GUNSHOT_02 = ~z~I can't do it now!
+
+LS_UND_GUNSHOT_03 = ~z~Everyone's going to look over here!
+
+LS_UND_GWYNBR_1 = ~z~What happened here? Oh Lord.
+
+LS_UND_HANG2_1 = ~z~Can I... can I help you?
+
+LS_UND_HANG3_1 = ~z~The undertaker's putting his feet up.
+
+LS_UND_HANG4_1 = ~z~You okay? I'm-I'm just the apprentice.
+
+LS_UND_HANG_1 = ~z~You want a fitting?
+
+LS_UND_HANG_AFT_01 = ~z~Maybe we shouldn't be seen together.
+
+LS_UND_HANG_AFT_02 = ~z~Please, uh, I don't know how I feel right now.
+
+LS_UND_HANG_AFT_03 = ~z~I think I should be alone, mister.
+
+LS_UND_HANG_AFT_04 = ~z~Take the broach to your horrible German friend, and leave me alone, won't you?
+
+LS_UND_HNG_MOU2_1 = ~z~Don't be shy, ain't no one around!
+
+LS_UND_HNG_MOU2_2 = ~z~Just my auntie.
+
+LS_UND_HNG_MOU3_1 = ~z~Your auntie's long past prudishness.
+
+LS_UND_HNG_MOU3_2 = ~z~I... I-it's disrespectful.
+
+LS_UND_HNG_MOU4_1 = ~z~~sl:0.0:2.9~You'd rather disrespect the living, breathing woman...~sl:0.0:1.4:1~you got here in front of you?
+
+LS_UND_HNG_MOU4_2 = ~z~~sl:3.1~Can't we just get married l-like normal folks?
+
+LS_UND_HNG_MOU5_1 = ~z~Married? Don't be goopy.
+
+LS_UND_HNG_MOU5_2 = ~z~I don't know what to say to you...
+
+LS_UND_LEAVE_01 = ~z~Go on.
+
+LS_UND_LEAVE_02 = ~z~Run along.
+
+LS_UND_LEAVE_03 = ~z~Quick as you can.
+
+LS_UND_LEAVE_04 = ~z~That's good. Keep it up.
+
+LS_UND_LEFTWALK_01 = ~z~I said, stay close.
+
+LS_UND_LEFTWALK_02 = ~z~Stay close to me now.
+
+LS_UND_LEFTWALK_03 = ~z~I ain't doing this myself, come back.
+
+LS_UND_LEFTWALK_04 = ~z~Don't leave me now.
+
+LS_UND_MOU_BOYS_1 = ~z~Of all the boys in town I pick you.
+
+LS_UND_MOU_FOOL_1 = ~z~You're more of a fool than I thought.
+
+LS_UND_MOU_MAKE_1 = ~z~I'll be buried too by the time you make up your mind...
+
+LS_UND_MOU_SAY_1 = ~z~Say something!
+
+LS_UND_OFFHORSE_1 = ~z~Come down off there. We got to look real inconspicuous.
+
+LS_UND_OUT_1 = ~z~Alright, well, uh... I'm outta here.
+
+LS_UND_OWE_1 = ~z~That-that should more than, than clear what I owe you.
+
+LS_UND_POSTBRWL_1 = ~z~Shit. I hope this hole's dug.
+
+LS_UND_PRE2_1 = ~z~I ain't never gonna get the hang of this...
+
+LS_UND_PRE3_1 = ~z~The dead don't care if it's pretty, right?
+
+LS_UND_PRE4_1 = ~z~~sl:0.9:3.6:1~Apprentice... more like servant.
+
+LS_UND_PRE_01 = ~z~Still don't look quite right...
+
+LS_UND_QUICKR_01 = ~z~You gonna take it?
+
+LS_UND_QUICKR_02 = ~z~I'm standing next to an open grave. Please.
+
+LS_UND_QUICKR_03 = ~z~Just take it, mister!
+
+LS_UND_QUICK_1 = ~z~Quick! Take it before somebody sees us.
+
+LS_UND_RETURN1_01 = ~z~There's still folk here.
+
+LS_UND_RETURN1_02 = ~z~You need to get rid of all of them...
+
+LS_UND_RETURN_01 = ~z~You got to scare them off.
+
+LS_UND_RETURN_02 = ~z~Clear the church yard, and I'll get you them jewels.
+
+LS_UND_RETURN_03 = ~z~Just... have a word with them folk. Okay?
+
+LS_UND_SEEN_01 = ~z~They've seen me!
+
+LS_UND_SEEN_02 = ~z~We're caught!
+
+LS_UND_TAKE_1 = ~z~Well, there's your payment. Forgive me, Mrs. Claypole.
+
+LS_UND_TAKE_2 = ~z~What you find?
+
+LS_UND_TAKE_3 = ~z~She had a broach, here. Looks like diamonds.
+
+LS_UND_TOGRAVE2_01 = ~z~Get back there. Quick!
+
+LS_UND_TOGRAVE2_02 = ~z~Get to the gate! I can't get caught like this!
+
+LS_UND_TOGRAVE2_03 = ~z~Please! Quick. I need you on the gate!
+
+LS_UND_TOGRAVE_01 = ~z~Please. Watch the gate, won't you?
+
+LS_UND_TOGRAVE_02 = ~z~You need to watch the gate... or someone might walk in on me.
+
+LS_UND_TOGRAVE_03 = ~z~I don't want to get caught... graverobbing. Please. Man the gate down there.
+
+LS_UND_WALK_1 = ~z~~sl:0.0:2.1~Oh, this ain't right...~sl:~I mean, I'll get you your money, but, uh...
+
+LS_UND_WALK_2 = ~z~~sl:0.8:1.8:1~well, you will see...
+
+LS_UND_WALK_3 = ~z~~sl:0.0:3.2:1~What ain't right is borrowing money you can't pay back.
+
+LS_UND_WALK_4 = ~z~~sl:0.1:0.0~I guess, I guess, I guess you're correct, but uh...
+
+LS_UND_WALK_5 = ~z~~sl:0.0:3.2:1~this, it ain't exactly right... what we're doing.
+
+LS_UND_WALK_6 = ~z~~sl:1.1:3.3~You ain't the first to put his hand in the collection box~sl:~and you won't be the last.
+
+LS_UND_WALK_7 = ~z~~sl:0.0:2.8~Rest a little easier knowing churches been taking~sl:~more then they need off poor folks since time began.
+
+LS_UND_WALK_8 = ~z~Well like I said, well...
+
+LS_UND_WALK_9 = ~z~~sl:0.2:0.0~the morality of the matter is a little more confusing than that.
+
+LS_UND_WALK_10 = ~z~
+
+LS_UND_WALK_11 = ~z~Okay. You head on into church, I'll keep watch.
+
+LS_UND_WALK_12 = ~z~~sl:0.1:1.5~Well, it ain't in there. It's under here.~sl:0.7~I'm digging up Mrs. Claypole.
+
+LS_UND_WALK_13 = ~z~Jesus!
+
+LS_UND_WALK_14 = ~z~Well, she got a bunch of  jewels in there that she don't need.
+
+LS_UND_WALK_15 = ~z~~sl:0.0:1.4~Oh, dammit.~sl:1.9~There's a bunch of people here.
+
+LS_UND_WALK_16 = ~z~~sl:0.0:1.3~Oh, I got it, I got it.~sl:~Look, you clear 'em off, and I'll wait right around here.
+
+LS_UND_WALK_17 = ~z~~sl:0.0:1.0~But don't hurt nobody!~sl:0.9~We don't want no fuss.
+
+LS_UND_WEAPON_01 = ~z~Put that away, please.
+
+LS_UND_WEAPON_02 = ~z~I said don't hurt anyone.
+
+LS_UND_WEAPON_03 = ~z~You don't need that. Just... talk to them.
+
+LS_UND_WILLDO_1 = ~z~This'll do...
+
+LS_UND_WILLDO_2 = ~z~Now get out of here before someone sees you.
+
+LS_UND_WOM_AFT_01 = ~z~Save me from this man!
+
+LS_UND_WOM_AFT_02 = ~z~For heaven's sake.
+
+LS_UND_WOM_AFT_03 = ~z~The pastor will hear about this.
+
+LS_UND_WOM_BLK_01 = ~z~You mind if I get past?
+
+LS_UND_WOM_BLK_02 = ~z~Just need to slip by you.
+
+LS_UND_WOM_BLK_03 = ~z~Can I get by, please?
+
+LS_UND_WOM_BLK_04 = ~z~Sir, if you don't mind...
+
+LS_UND_WOM_GWN_1 = ~z~Whatever are you... that's Mrs. Claypole's grave!
+
+LS_UND_WOM_REAN_1 = ~z~Sorry. Church grounds are closed.
+
+LS_UND_WOM_REAN_2 = ~z~Okay. It's, uh, good of you do be doing it out of hours, I guess.
+
+LS_UND_WOM_REAN_3 = ~z~I'll come back in the morning.
+
+LS_UND_WOM_REA_1 = ~z~I'm sorry, ma'am. The church grounds are closed for maintenance work.
+
+LS_UND_WOM_REA_2 = ~z~Well, it's about time too, the place was in need of some care and attention.
+
+LS_UND_WOM_SPO_1 = ~z~Hello there, sir.
+
+LS_UND_WOM_TRT_1 = ~z~Churchyard's closed. Get out.
+
+LS_UND_WOM_TRT_2 = ~z~My, my. I guess I'll come back later, then.
+

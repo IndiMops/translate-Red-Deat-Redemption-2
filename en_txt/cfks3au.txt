@@ -1,0 +1,26 @@
+CFKS3_ACTION_1 = ~z~So... what's he like this, Colom or Colm, well whatever he calls himself anyway?
+
+CFKS3_ACTION_2 = ~z~Honestly?
+
+CFKS3_ACTION_3 = ~z~Yeah, honestly.
+
+CFKS3_ACTION_4 = ~z~He's, uh... uh... wh-when he talks to you... when he talks to you nicely, it's like the sun is shining,
+
+CFKS3_ACTION_5 = ~z~and when he's mad at you, it's like the devil's gonna be... be upon you. That's how I'd put it.
+
+CFKS3_ACTION_6 = ~z~He changes... he's happy and you're happy... he's mad and you're upset and you don't know why.
+
+CFKS3_ACTION_7 = ~z~He's unfair and unkind... and as long as it isn't directed at you. You don't care.
+
+CFKS3_ACTION_8 = ~z~He turns his men into monsters. Somehow, he... makes them love only him. He scares me...
+
+CFKS3_ACTION_9 = ~z~I mean, you boys scare me, but you're still like... like human beings... he's... it's hard to explain.
+
+CFKS3_ACTION_10 = ~z~Well... he sounds like a right idiot if you ask me. Real pleased with himself.
+
+CFKS3_ACTION_11 = ~z~He scares me.
+
+CFKS3_ACTION_12 = ~z~Well he don't scare me. Silly fool you are.
+
+CFKS3_ACTION_13 = ~z~I know.
+

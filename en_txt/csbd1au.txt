@@ -1,0 +1,30 @@
+CSBD1_ACTION_1 = ~z~~sl:0.0:0.8~Alright...~sl:1.0~listen...
+
+CSBD1_ACTION_2 = ~z~~sl:0.0:4.7~We have had a couple of jobs... not go so well.~sl:1.3~That is the way of the world.
+
+CSBD1_ACTION_3 = ~z~~sl:0.0:5.2~But... I... we...~sl:1.8~we are planning something big.
+
+CSBD1_ACTION_4 = ~z~Something very big.
+
+CSBD1_ACTION_5 = ~z~~sl:0.0:5.8~We are going to rob the Lemoyne National Bank in Saint Denis.~sl:0.7~And we're gonna take the money... listen... all of you.
+
+CSBD1_ACTION_6 = ~z~We are gonna take the money... and go to paradise.
+
+CSBD1_ACTION_7 = ~z~~sl:0.0:3.9~Let the... Pinkertons arrest some other fools.~sl:1.0~We... we are gonna sail to Tahiti.
+
+CSBD1_ACTION_8 = ~z~~sl:0.0:4.1~We're gonna buy some land... and we are gonna live.~sl:1.1:1.1~Properly.~sl:0.7~In paradise, as we deserve.
+
+CSBD1_ACTION_9 = ~z~As God intended us to live.
+
+CSBD1_ACTION_10 = ~z~One last job and we are gone.
+
+CSBD1_ACTION_11 = ~z~Thank you.
+
+CSBD1_ACTION_12 = ~z~You heard the man... now is not the time for doubts.
+
+CSBD1_ACTION_13 = ~z~~sl:0.0:2.6~I know we've had a rough couple of months.~sl:0.3:1.6~With this plan, we can...~sl:1.0~be free.
+
+CSBD1_ACTION_14 = ~z~Finally... free.
+
+CSBD1_ACTION_15 = ~z~Come on, all of ya.
+

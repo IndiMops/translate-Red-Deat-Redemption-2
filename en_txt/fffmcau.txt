@@ -1,0 +1,8 @@
+FFFMC_CALL_1 = ~z~Arthur Morgan.
+
+FFMC_ENT_1 = ~z~Micah.
+
+FFMC_ENT_2 = ~z~Sit down, my dearest friend, and show me just what you got.
+
+FFMC_ENT_3 = ~z~And forgive me if I slip and stab you in the face.
+

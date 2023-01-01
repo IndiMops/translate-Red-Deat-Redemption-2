@@ -1,0 +1,16 @@
+CCDJ1_CNV01_1 = ~z~~sl:0.0:1.5~So John.~sl:0.8~I was talking to little Jackie.
+
+CCDJ1_CNV01_2 = ~z~That's a fine boy you got.
+
+CCDJ1_CNV01_3 = ~z~If he's mine.
+
+CCDJ1_CNV01_4 = ~z~~sl:0.0:1.5~Course he's yours.~sl:0.8~It's the truest of gifts, a child.
+
+CCDJ1_CNV01_5 = ~z~Yet you push him away.
+
+CCDJ1_CNV01_6 = ~z~~sl:0.0:1.7~I ain't no kind of father.~sl:0.6:2.1~I wish the boy no harm but...~sl:0.3~well, you know how we live.
+
+CCDJ1_CNV01_7 = ~z~We live free.
+
+CCDJ1_CNV01_8 = ~z~If you say so.
+

@@ -1,0 +1,330 @@
+0x0144D667 = ~z~You bloodthirsty piece of shit.
+
+0x05C64243 = ~z~Fine, fine, not a word passes my lips, I promise.
+
+0x0758EB3B = ~z~What in the blazes do you want?
+
+0x093D5956 = ~z~Look out, will you?
+
+0x09B8041E = ~z~Wait, wait, wait, wait, wait. Go ahead, take it.
+
+0x0A8196A9 = ~z~Try checking the catalogue if you can't find something.
+
+0x0CC16B9D = ~z~I think you wore out your welcome today, now off you go.
+
+0x0D4CB0CE = ~z~I'm not interested in any more foolishness or trouble out of you.
+
+0x1A8B1C7A = ~z~A fool don't deserve my attention.
+
+0x1AEF20E0 = ~z~I don't mind giving a good deal to a local.
+
+0x1D088643 = ~z~Leave me be.
+
+0x2C78AB57 = ~z~I won't tolerate your mess, now you need to leave.
+
+0x2D1136AB = ~z~Will you stop this?
+
+0x2D8317FB = ~z~You need to back off me some.
+
+0x2DC43D1E = ~z~You disgraceful low-life.
+
+0x2F9E2C10 = ~z~Will you just finish this and leave... Please?
+
+0x3B00CF03 = ~z~They say you got law troubles. Let's keep it peaceful.
+
+0x3B08B306 = ~z~I don't like folk all up on me.
+
+0x4A0C6D2E = ~z~Heard you been on the wrong side of the law... but I guess your coin's as good as anyone's.
+
+0x4A124146 = ~z~Calm down, you damn lunatic.
+
+0x4ADD6997 = ~z~Enough, you thug.
+
+0x4BD263D6 = ~z~Just let me alone, alright?
+
+0x4C9DBCC9 = ~z~Hey, n-n-no need to shed blood. Here, take it, it's yours.
+
+0x4CD7F16F = ~z~I am not amused. Now get the hell out.
+
+0x6E8A5EB9 = ~z~Now don't forget, all my stock's in the catalogue.
+
+0x7A19DF34 = ~z~I save my best prices for the locals.
+
+0x7A71A799 = ~z~Trade's so slow, I can barely keep my ribs from touching.
+
+0x7AFD298C = ~z~You the one done this?
+
+0x7FC9E8ED = ~z~Hey, you watch your damn mouth talking to me.
+
+0x8CE41E2C = ~z~I'll have my revenge... oh, yes I will...
+
+0x8F35B2B1 = ~z~Please don't do that.
+
+0x8FD33E6D = ~z~Stay clear of me, doggone it.
+
+0x9B39BAD7 = ~z~I'll have my revenge, yes I will.
+
+0x9B5714F1 = ~z~Guess we can be more cordial, but no more nonsense.
+
+0x9C25EF01 = ~z~Help, help. They're robbing me. Help.
+
+0x9F63AD62 = ~z~You'll wish you'd left me alone.
+
+0x9F210C0A = ~z~What game you playing here?
+
+0x19E0FA9D = ~z~Careful, alright?
+
+0x20C38518 = ~z~I tell you what. Hell no.
+
+0x22AE4486 = ~z~Don't you pester them no more.
+
+0x36E39155 = ~z~Whoa, huh, don't hurt me... I'll cooperate...
+
+0x41D743CE = ~z~Alright, damn you. This all I got to give.
+
+0x41EDDCCD = ~z~Don't you put that evil eye on me.
+
+0x43A970B1 = ~z~If it's problems you want, I can give you plenty.
+
+0x51AE66ED = ~z~Aw, to hell with this mess.
+
+0x56C06033 = ~z~Seems folks just don't want what I'm selling.
+
+0x57F8348B = ~z~I'll get even, you damn thief.
+
+0x63B682A6 = ~z~Made enough pennies to make a dollar, so that's something.
+
+0x65F6FD07 = ~z~Today you don't steal, you pay or you go, understand?
+
+0x68BC0291 = ~z~Ain't no robbing today. You buy or you go.
+
+0x68D746EB = ~z~Enough of that.
+
+0x69A2C32A = ~z~What the hell is you doing here?
+
+0x73B79A25 = ~z~Always knew this'd be a tough spot for a store, even with the train.
+
+0x79E4880F = ~z~Will you please stop that?
+
+0x85B92EFF = ~z~Whoa huh, don't hurt me. I'll cooperate.
+
+0x89A981EE = ~z~You gonna be in big trouble.
+
+0x94E57BA1 = ~z~Relax, please. I'm doing what you ask.
+
+0x95FC742A = ~z~Now I'm fixing to get the law.
+
+0x107DA85F = ~z~Okay then.
+
+0x125CF452 = ~z~Alright, alright. Spare my life, I'll do as you say.
+
+0x150B2940 = ~z~Leave them be, you damn fool.
+
+0x160F3F25 = ~z~Why ya'll doing this for?
+
+0x261E33A0 = ~z~You ain't even worth my time.
+
+0x437F54F8 = ~z~Yes, hello?
+
+0x474A498F = ~z~You want to bleed out, let me know.
+
+0x519C6C8B = ~z~You go or, by God, I'll make you go.
+
+0x536D4A68 = ~z~Hey, n-n-no need to shed blood. Take it, it's yours.
+
+0x571C8010 = ~z~Relax. Please, I'm doing what you ask.
+
+0x770A33DF = ~z~This is a mistake, I ain't got nothing.
+
+0x816FBE18 = ~z~Glad I can make a dollar out a nickel.
+
+0x860BC2CD = ~z~I'm being robbed, help.
+
+0x887FBE20 = ~z~Your bullying need to stop, right now.
+
+0x1577B257 = ~z~Sure.
+
+0x2282F517 = ~z~This is my livelihood, don't do me like this.
+
+0x3614AFBA = ~z~I tell you what: hell no.
+
+0x3636D5CC = ~z~Hey, I don't tolerate no guff off of nobody.
+
+0x4956E485 = ~z~Gimme a second, okay? I-I'll hand it over.
+
+0x7266ACFF = ~z~Enough of this, I'm getting the law.
+
+0x8432D097 = ~z~I know the law won't like this.
+
+0x8622DE1C = ~z~Gimme a second, okay? I'll hand it over.
+
+0x9872D108 = ~z~I will trash your sorry behind.
+
+0x18592A87 = ~z~Don't you follow me like no stray dog.
+
+0x30049C16 = ~z~Don't shoot me. I'll cooperate.
+
+0x35511AB3 = ~z~If you rob me, you're starving me to death.
+
+0x83808EE7 = ~z~I need to do business in cash now, sorry.
+
+0x85980FCA = ~z~I'll remember your thieving face.
+
+0x88447B89 = ~z~I don't mind giving a good deal to a local.
+
+0x209590C7 = ~z~Not like this, okay? Don't kill me, please...
+
+0x893645FE = ~z~Was this cause of you?
+
+0x929243EB = ~z~Get away and stay away, you jackass.
+
+0x1668220E = ~z~I will ask you again to stop.
+
+0x2349796E = ~z~I ain't just gonna roll over for you.
+
+0x60200872 = ~z~The law need to handle this one.
+
+0x69047596 = ~z~Easy, easy... I'll give you what you want.
+
+0x78582766 = ~z~Help. Help, they're holding me up.
+
+0x92564793 = ~z~I think you just misjudged the situation... real bad.
+
+0xA05C0682 = ~z~I've got absolutely nothing to give.
+
+0xA5BB29B9 = ~z~Guess I'll deal with you, just hope you've learned to be more pleasant.
+
+0xA5E06B6F = ~z~You done robbing me? Then get out.
+
+0xA6F3B549 = ~z~Pssh, I ain't paying you no more mind.
+
+0xA9E449E4 = ~z~Hey, you came back. I got good deals for you too.
+
+0xA39C6A1F = ~z~Alright, you made a mistake. Now put it down before you make another.
+
+0xA93CDA5F = ~z~Now don't forget, all my stock's in the catalogue.
+
+0xA341DCBA = ~z~Don't you bring no more mess round here today.
+
+0xA4093D2B = ~z~Yellow-bellied greenhorn, like I thought.
+
+0xA72582BE = ~z~Take the blasted money.
+
+0xABA97775 = ~z~You must want your skull broke.
+
+0xAD2910FB = ~z~Help. Help. They're holding me up.
+
+0xAE2D4AF5 = ~z~Oh, you'll regret this, you lowlife.
+
+0xAF55ECEB = ~z~Welcome, come on in.
+
+0xB1CED6C5 = ~z~I will crack your damn skull in two.
+
+0xB6A271A8 = ~z~Colored man can't never get ahead in life.
+
+0xB6C2E0B1 = ~z~You want broken bones, huh? Keep it up.
+
+0xB6C93D2C = ~z~Alright, I-I'll do as you ask, just don't kill me.
+
+0xB7F66608 = ~z~Good to see you again.
+
+0xB64E5D48 = ~z~Alright, okay then. Grab it, it's yours.
+
+0xB66C9CF8 = ~z~How am I supposed to make a living if you do this?
+
+0xB252E93F = ~z~Run, you thieving coward. Run.
+
+0xBB7D96A9 = ~z~Take your rotten spoils and leave, damn you.
+
+0xBB857EF0 = ~z~Sorry, friend. I need greenbacks for this.
+
+0xBD0FAC04 = ~z~This shop makes so little, and you're taking what's left.
+
+0xBDAF899E = ~z~Come on in.
+
+0xBF99E7BB = ~z~Don't threaten me with no gun.
+
+0xBF91724A = ~z~These big old fists of mine will beat you good.
+
+0xC3C76FB1 = ~z~Come on, you gonna have to move.
+
+0xC8A5C16A = ~z~This... is my livelihood. Don't do me like this.
+
+0xC9BF5FBE = ~z~I ain't gonna take this from you.
+
+0xC33F3D27 = ~z~I'm being robbed. Help.
+
+0xC11472D4 = ~z~Don't shoot, alright? Just take what you want...
+
+0xCB7F48E3 = ~z~This shop makes so little. You taking what's left.
+
+0xD09857E8 = ~z~Alright, alright, I definitely did not see nothing, I swear.
+
+0xD3A7E22B = ~z~Glad to be doing good business.
+
+0xD3F89687 = ~z~You're gonna be in big trouble.
+
+0xD8E36639 = ~z~Fine, take it, goddamn it.
+
+0xD9DF65A3 = ~z~Without this money, you're making me starve.
+
+0xD18BD9C0 = ~z~Help. Help. They're robbing me. Help.
+
+0xD9716301 = ~z~If you rob me, you starving me to death.
+
+0xDC9AA9E0 = ~z~Wait, wait, wait, wait, wait. Go ahead, take it...
+
+0xDD8012BD = ~z~That's your idea of humor? Get out, right now.
+
+0xDF8D086E = ~z~Clear out of here now. Right now.
+
+0xDFEA710A = ~z~Don't you dare be no brute or no bully in my store.
+
+0xDFEACC83 = ~z~Hey there, don't think I've seen you in here before.
+
+0xE0B445D3 = ~z~Work hard and save and folks just steal it.
+
+0xE2A40044 = ~z~Keep it up, somebody's fixing to get shot.
+
+0xE2BC5880 = ~z~Please, don't, I beg of you.
+
+0xE4C69069 = ~z~Please, watch out.
+
+0xE6CE5EA7 = ~z~Next time, I'm spilling blood, you got it?
+
+0xE6FABDDC = ~z~Damn it, you ain't allowed here.
+
+0xE7F001C8 = ~z~I worked hard for every bill and coin you're taking.
+
+0xE80D397A = ~z~Now don't you start no mess with me, I warn you.
+
+0xEA30E10F = ~z~Hey, a new face. Welcome.
+
+0xEA623D4B = ~z~You put that gun away right now.
+
+0xEE554D55 = ~z~Alright, okay, then grab it, it's yours.
+
+0xEFC92F2B = ~z~Alright, I'll-I'll do as you ask, just don't kill me.
+
+0xF1B4149D = ~z~You can bring your business, but no violence.
+
+0xF3A23F01 = ~z~I am not amused, now get the hell out.
+
+0xF4D89C8D = ~z~You ready to fight me for it?
+
+0xF58FA61B = ~z~I got no problem killing a man, trust me.
+
+0xF851F24A = ~z~A few items ain't on the shelves... just in the catalogue here.
+
+0xF82860FB = ~z~Don't shoot, alright? Just take what you want.
+
+0xF1716745 = ~z~Work hard and save... folks just steal it.
+
+0xFB92C940 = ~z~Enough of this nonsense. You need to leave.
+
+0xFDDA4885 = ~z~Will you just finish this and leave, please?
+
+0xFE1ACBCE = ~z~Alright, alright, spare my life, I'll do as you say.
+
+0xFF7B8D35 = ~z~Hey there, welcome to Wallace Station.
+

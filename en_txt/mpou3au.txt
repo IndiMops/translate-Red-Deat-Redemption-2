@@ -1,0 +1,184 @@
+MPOU3_BOTH_1 = ~z~Well, well. Looks like everything we need.
+
+MPOU3_ESCAPING2_01 = ~z~I'm just trying to save my ass, here!
+
+MPOU3_ESCAPING2_02 = ~z~All I wants to do is lose the law!
+
+MPOU3_ESCAPING2_03 = ~z~Don't you get in the way!
+
+MPOU3_ESCAPING_01 = ~z~Clear off, alright?
+
+MPOU3_ESCAPING_02 = ~z~Y'all don't want to start this fight!
+
+MPOU3_ESCAPING_03 = ~z~Ain't you got business in town?
+
+MPOU3_EXT_1 = ~z~Well...
+
+MPOU3_EXT_2 = ~z~you did it.
+
+MPOU3_EXT_3 = ~z~Good.
+
+MPOU3_EXT_4 = ~z~You got everything. Well done. We're almost ready.
+
+MPOU3_EXT_5 = ~z~So...
+
+MPOU3_EXT_6 = ~z~meet me in Saint Denis when you can...
+
+MPOU3_EXT_7 = ~z~and we will finish this thing one way or another.
+
+MPOU3_GOAWAY2_1 = ~z~You don't want to follow me, buddy.
+
+MPOU3_GOAWAY2_2 = ~z~Folks near me, end up dead.
+
+MPOU3_GOAWAY2_3 = ~z~I ain't threatening you, that's just a fact.
+
+MPOU3_GOAWAYB_1 = ~z~We ain't looking to form no gang.
+
+MPOU3_GOAWAYB_2 = ~z~You all keep following, we'll think you're up to something.
+
+MPOU3_GOAWAY_1 = ~z~~sl:0.0:3.1~I might not have got away, if you didn't cause that ruckus.~sl:0.2~But... I ain't looking to buddy up again.
+
+MPOU3_GOAWAY_2 = ~z~~sl:0.0:2.3~You hear me? I ain't buddying up.~sl:0.1~Not with you, not with anyone.
+
+MPOU3_GOAWAY_3 = ~z~Now leave me alone.
+
+MPOU3_GPIDLE_1 = ~z~Is there a reason you ain't going to get me that stage?
+
+MPOU3_GPTHANK_1 = ~z~~sl:0.0:1.8~Looks like you got them uniforms.~sl:0.3~Now how 'bout we get that Express Company stage?
+
+MPOU3_GPWAGONA_1 = ~z~Well, what're you waiting for?
+
+MPOU3_GPWAGONA_2 = ~z~~sl:0.0:1.7~I been planning this job well over a year~sl:0.0:1.5~and I thought you was the bad apples~sl:0.0~gonna help me carry it out.
+
+MPOU3_GPWAGONA_3 = ~z~~sl:0.0:2.5~It's an Express Company stage from Strawberry...~sl:0.2~armored and all.
+
+MPOU3_GPWAGONA_4 = ~z~~sl:0.0:2.0~And a wagon with some uniforms in it that's~sl:~going through the Great Plains to Blackwater.
+
+MPOU3_GPWAGONB_1 = ~z~Well, what're you waiting for?
+
+MPOU3_GPWAGONB_2 = ~z~~sl:0.0:1.7~I been planning this job well over a year~sl:0.0:1.5~and I thought you was the bad apples~sl:0.0~gonna help me carry it out.
+
+MPOU3_GPWAGONB_3 = ~z~~sl:0.0:2.5~It's an Express Company stage from Strawberry...~sl:0.2~armored and all.
+
+MPOU3_GPWAGONB_4 = ~z~~sl:0.0:1.7~And a wagon holding uniforms,~sl:0.0:2.5~out somewhere to the west of the Great Plains.~sl:0.2~Start searching out there.
+
+MPOU3_HOLDUP_1 = ~z~~sl:0.0:1.5~I just wish they'd let us go.~sl:0.7:2.0~I mean, I know they want to see these fellers hung,~sl:~but we got work to do.
+
+MPOU3_HOLDUP_2 = ~z~~sl:0.0:1.7~We're meant to be an express company...~sl:0.2~and our stagecoach is stuck here stock-still.
+
+MPOU3_IDLE_01 = ~z~Ain't no sense in standing around here.
+
+MPOU3_IDLE_02 = ~z~Sooner we get these things, sooner we can do the real job.
+
+MPOU3_IDLE_03 = ~z~Go on. Get out of here.
+
+MPOU3_IDLE_04 = ~z~Won't get it done just standing around.
+
+MPOU3_IDLE_05 = ~z~Go on and make a nuisance of yourself.
+
+MPOU3_INT_1 = ~z~Ah, there you are...
+
+MPOU3_INT_2 = ~z~and alive and flourishing I see.
+
+MPOU3_INT_3 = ~z~You weren't wrong, Horley.
+
+MPOU3_INT_4 = ~z~These bastards know how to fight.
+
+MPOU3_INT_5 = ~z~I believe so.
+
+MPOU3_INT_6 = ~z~Now...
+
+MPOU3_INT_7 = ~z~my mistress wanted me to thank you...
+
+MPOU3_INT_8 = ~z~for your attention to her business.
+
+MPOU3_INT_9 = ~z~I'm sure there'll be more – but for now, goodbye...
+
+MPOU3_INT_10 = ~z~and good luck.
+
+MPOU3_INT_11 = ~z~my mistress asked me to remind you...
+
+MPOU3_INT_12 = ~z~of why you have your freedom.
+
+MPOU3_INT_13 = ~z~I'm sure there'll be more business to attend to in the future...
+
+MPOU3_INT_14 = ~z~but until then...
+
+MPOU3_INT_15 = ~z~good luck.
+
+MPOU3_INT_16 = ~z~If luck is what you need.
+
+MPOU3_INT_17 = ~z~My friends...
+
+MPOU3_INT_18 = ~z~we're nearly ready.
+
+MPOU3_INT_19 = ~z~Just one more thing.
+
+MPOU3_INT_20 = ~z~We're gonna need an express company stagecoach.
+
+MPOU3_INT_21 = ~z~An express company stagecoach and some uniforms.
+
+MPOU3_INT_22 = ~z~There's a stage outside the jail in Strawberry...
+
+MPOU3_INT_23 = ~z~and they'll be some uniforms in a supply wagon...
+
+MPOU3_INT_24 = ~z~out on the road nearby.
+
+MPOU3_INT_25 = ~z~You all go do that...
+
+MPOU3_INT_26 = ~z~and I'll go get some supplies and we'll meet back here.
+
+MPOU3_INT_27 = ~z~And don't take too long.
+
+MPOU3_ONFOOT2_1 = ~z~Take that wagon, if you want it.
+
+MPOU3_ONFOOT2_2 = ~z~I like my chances better on foot.
+
+MPOU3_ONFOOTB_1 = ~z~You want the wagon, take it. We're hoofing it.
+
+MPOU3_ONFOOTB_2 = ~z~And don't tell no one what direction we was going.
+
+MPOU3_ONFOOT_1 = ~z~~sl:0.0:1.8~You want the wagon, take it.~sl:0.3~I'll be better off on foot anyhow.
+
+MPOU3_ONFOOT_2 = ~z~They'll be searching the roads, for all of us.
+
+MPOU3_PR1DEAD_1 = ~z~Shit, you killed him.
+
+MPOU3_PR2DEAD_1 = ~z~You got him in the end, you bastards!
+
+MPOU3_PRBANT_1 = ~z~This is a hell of a piece of luck.
+
+MPOU3_PRBANT_2 = ~z~~sl:0.0:2.2~I knew we wasn't done. I told you...~sl:0.3~wait and there will be a chance.
+
+MPOU3_PRBANT_3 = ~z~And you was right. Hangman's going to have to wait a while yet.
+
+MPOU3_PRBANT_4 = ~z~Long as we can get clear of here.
+
+MPOU3_PRBANT_5 = ~z~Let's ditch the wagon up the road here.
+
+MPOU3_PRBANT_6 = ~z~Once we gone a good distance, we will.
+
+MPOU3_PRISOUT_01 = ~z~Prisoners, on the run!
+
+MPOU3_PRISOUT_02 = ~z~Hey, they got our wagon!
+
+MPOU3_PRISOUT_03 = ~z~Stop 'em!
+
+MPOU3_PRISRUN_1 = ~z~So long, you idiots.
+
+MPOU3_PRISRUN_2 = ~z~Go, go, go!
+
+MPOU3_SBGUARD1_1 = ~z~~sl:0.0:2.6~Hey! You should stay out of Strawberry.~sl:0.2:1.7~The law ain't letting people in~sl:~until they deal with these prisoners.
+
+MPOU3_SBGUARD2_1 = ~z~~sl:0.0:2.7~Turn around. Law ain't letting anyone into town,~sl:~while they're dealing with some prisoners.
+
+MPOU3_SBGUARD2_2 = ~z~Being real horse-asses about it, besides.
+
+MPOU3_SBGUARD3_1 = ~z~~sl:0.0:2.9~Look out. Law ain't letting anyone into Strawberry today.~sl:0.3~I heard it was some hangings.
+
+MPOU3_SBGUARD4_1 = ~z~~sl:0.0:2.2~If you're hoping to see them hangings, you're out of luck.~sl:0.2~Law ain't letting no one into Strawberry.
+
+MPOU3_STRIDLE_1 = ~z~I said we still need them uniforms. Go on.
+
+MPOU3_STRTHANK_1 = ~z~~sl:0.0:2.5~You got the stagecoach! Alright.~sl:0.3~Now all we need is that wagon and them uniforms.
+

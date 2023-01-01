@@ -1,0 +1,112 @@
+0x021FBE49 = Выразить недовольство
+
+0x0C233284 = Выразить поддержку
+
+0x23FF48FF = Вы потеряли из виду мистера Гиллиса.
+
+0x2043B49A = Ждите Мэри.
+
+0xA3301225 = Нападение
+
+MRY3_BDIST_FAIL = Вы бросили покупателя.
+
+MRY3_BDIST_REMIN = Вернитесь к ~o~покупателю~s~.
+
+MRY3_BHARM_FAIL = Вы ранили покупателя.
+
+MRY3_BKILL_FAIL = Вы убили покупателя.
+
+MRY3_BLIP_BUYER = Покупатель
+
+MRY3_BLIP_FATHER = Мистер Гиллис
+
+MRY3_BLIP_MARY = Мэри
+
+MRY3_BLIP_WAGON = Повозка
+
+MRY3_BROOCH = Заберите брошь Мэри у ~o~покупателя.~s~
+
+MRY3_CONFRONT_FAIL = Вы упустили покупателя.
+
+MRY3_CXT_ACC = Купить брошь
+
+MRY3_CXT_DHELP = Не помогать Мэри
+
+MRY3_CXT_HELP = Помочь Мэри
+
+MRY3_CXT_HIT = Избить
+
+MRY3_CXT_LEAVE = Выйти из театра
+
+MRY3_CXT_MOVE = Обнять
+
+MRY3_CXT_NO = Отклонить
+
+MRY3_CXT_PULL = Вытащить
+
+MRY3_CXT_YES = Принять
+
+MRY3_DEST_FAIL = Брошь уничтожена.
+
+MRY3_DHARM_FAIL = Вы ранили кучера.
+
+MRY3_DKILL_FAIL = Вы убили кучера.
+
+MRY3_FATH_DIST_FAIL = Вы потеряли мистера Гиллиса.
+
+MRY3_FHARM_FAIL = Вы ранили мистера Гиллиса.
+
+MRY3_FKILL_FAIL = Вы убили мистера Гиллиса.
+
+MRY3_FOLLOW_FAIL = Вас заметили.
+
+MRY3_FOLLOW_HELP = Держите дистанцию, иначе вас заметят.
+
+MRY3_FOLLOW_OBJ = Следуйте за ~o~мистером Гиллисом~s~.
+
+MRY3_HON_MURDER = Убийство
+
+MRY3_JACK_HELP = Двигайтесь к кучеру, используя ~INPUTGROUP_MOVE~, чтобы угнать повозку.
+
+MRY3_JUMP_HELP = Приблизьтесь к повозке сбоку и нажмите ~INPUT_JUMP~, чтобы запрыгнуть на нее.
+
+MRY3_LAW_FAIL = Законники подняли тревогу.
+
+MRY3_MARY_FAIL_1 = Мэри погибла.
+
+MRY3_MARY_FAIL_2 = Вы бросили Мэри.
+
+MRY3_MATT_FAIL = Вы напали на Мэри.
+
+MRY3_OBJ_CATCHUP = Догоните ~o~покупателя~s~.
+
+MRY3_OBJ_CHASE = Догоните ~o~повозку~s~.
+
+MRY3_OBJ_DRIVE = Поезжайте в ~o~укромное место~s~.
+
+MRY3_OBJ_FRONT = Встретьтесь с ~o~Мэри~s~ в конюшне.
+
+MRY3_OBJ_JACK = Садитесь на место кучера.
+
+MRY3_OBJ_JUMP = Запрыгните на ~o~повозку~s~.
+
+MRY3_OBJ_MARY = Идите за ~o~Мэри~s~.
+
+MRY3_OBJ_RETURN = Вернитесь к ~o~Мэри~s~.
+
+MRY3_OBJ_STABLE = Направляйтесь к ~o~конюшне~s~.
+
+MRY3_OBJ_STOP = Остановите ~o~повозку~s~.
+
+MRY3_OBJ_WAGON = Залезьте на ~o~повозку~s~.
+
+MRY3_RETURN = Верните брошь ~o~Мэри~s~.
+
+MRY3_SECL_FAIL = Вы привлекли внимание к лагерю.
+
+MRY3_TIME_FAIL = Вы не успели добраться до мистера Гиллиса.
+
+MRY3_WAG_DIST_FAIL = Покупатель уехал.
+
+MRY3_WAG_FAIL = Повозка уничтожена.
+

@@ -1,0 +1,42 @@
+C1089_EXIT_DAY_1 = ~z~Well, while I still got my health, guess I should get some work done.
+
+C1089_NEG_RES_1_1 = ~z~Why would I lie about this?
+
+C1089_NEG_RES_2_1 = ~z~Alright, look, if you'd rather just sit in silence, that's fine by me.
+
+C1089_NEG_RES_2_2 = ~z~Rude bastard.
+
+C1089_POS_RES_1_1 = ~z~Really, it's a sight to behold.
+
+C1089_STORY_P1_1 = ~z~So, not sure if you've passed through Armadillo at all... place is like hell on earth these days.
+
+C1089_STORY_P1_2 = ~z~Used to be quite a nice little town too.
+
+C1089_STORY_P1_3 = ~z~Now it's just dust storms and disease and death.
+
+C1089_STORY_P1_4 = ~z~They've taken to burning the bodies because they can't bury them fast enough.
+
+C1089_STORY_P1_5 = ~z~I mean, when you see it, it really feels like something biblical, and I ain't a religious man.
+
+C1089_STORY_P2_1 = ~z~I certainly ain't never read the Bible on account of me not reading and all.
+
+C1089_STORY_P2_2 = ~z~But for a place to turn like that, so bad and so fast, you can't help thinking, this can't be of natural causes.
+
+C1089_STORY_P2_3 = ~z~Folk there are calling it a curse, and I ain't a superstitious man, but it's hard not to see it any other way.
+
+C1089_STORY_P2_4 = ~z~They're saying this figure appears sometimes there in the distance, black suit and big top hat, then disappears.
+
+C1089_STORY_P2_5 = ~z~Shadowy, like he ain't of this mortal realm.
+
+C1089_STORY_P3_1 = ~z~The reaper in his Sunday best.
+
+C1089_STORY_P3_2 = ~z~Maybe they're being punished... for sins or something. I don't know...
+
+C1089_STORY_P3_3 = ~z~I got enough sins on my tally to figure I'm gonna stay well aware from there.
+
+C1089_STORY_P3_4 = ~z~And I ain't a betting man, but I'd put my money on this.
+
+C1089_STORY_P3_5 = ~z~Way things are, won't be long before Tumbleweed is the only town left in these parts,
+
+C1089_STORY_P3_6 = ~z~and there won't be nothing in Armadillo but ghosts.
+

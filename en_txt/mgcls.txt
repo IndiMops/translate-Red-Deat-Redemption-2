@@ -1,0 +1,12 @@
+MGCLS_BLIP_MANURE = Manure
+
+MGCLS_BLIP_WHEEL = Wheelbarrow
+
+MGCLS_HLP_MANURE = Press ~INPUT_MINIGAME_ACTION_X~ when near manure to scoop it up using the pitchfork.
+
+MGCLS_HLP_WHEEL = Press ~INPUT_MINIGAME_ACTION_X~ when near the wheelbarrow to drop the manure into it.
+
+MGCLS_UC_DROP = Drop Off Manure
+
+MGCLS_UC_PICK = Manure
+

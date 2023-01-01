@@ -1,0 +1,28 @@
+ASBG_GUNSICK_1 = ~z~Oh dear, have you been taken by the miner's cough now too?
+
+ASBG_GUNSICK_2 = ~z~Something like that.
+
+ASBG_GUNSICK_3 = ~z~I'm sorry, I've seen a lot of that in my years here. But, anyway, how can I help you?
+
+ASBG_TSW1SICK_1 = ~z~If you wouldn't mind coughing into your sleeve, sir.
+
+ASBG_TSW1SICK_2 = ~z~I really can't afford to get sick again this month.
+
+ASBG_TSW1SICK_3 = ~z~Why don't you just do your job?
+
+ASBG_TSW1SICK_4 = ~z~Of course, sir. Sorry. Just a polite request, that's all.
+
+ASBG_TSW2SICK_1 = ~z~Oh dear, have you come down with the flu as well, sir?
+
+ASBG_TSW2SICK_2 = ~z~Flu? No, what are you talking about?
+
+ASBG_TSW2SICK_3 = ~z~Nothing, it's just been going around, that's all. Anyway, how can I help you?
+
+ASBG_TSW3SICK_1 = ~z~You alright there, sir?
+
+ASBG_TSW3SICK_2 = ~z~Yes, why?
+
+ASBG_TSW3SICK_3 = ~z~Been some grippe going around here... and I just thought...
+
+ASBG_TSW3SICK_4 = ~z~you know what, never mind. What can I do for you?
+

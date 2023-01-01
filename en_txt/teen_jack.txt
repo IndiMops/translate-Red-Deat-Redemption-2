@@ -1,0 +1,686 @@
+0x000157FE = ~z~Those look heavy.
+
+0x02250135 = ~z~It's past my bedtime.
+
+0x025823DD = ~z~Okay, sir. Thank you for that.
+
+0x026E3B04 = ~z~That's a skunk, ain't it, Pa?
+
+0x03476CD7 = ~z~That's uh, great, Pa.
+
+0x044161F3 = ~z~Evening.
+
+0x047E967E = ~z~Hilarious, Pa.
+
+0x050DCB09 = ~z~He's a good dog, Pa.
+
+0x07C897ED = ~z~Leave her alone, Pa.
+
+0x0A1E6F27 = ~z~I've had enough, okay?
+
+0x0A7A232F = ~z~You'd love for me to hit you.
+
+0x0AB0F106 = ~z~I'll try, Pa. I'll really try.
+
+0x0B5CFB22 = ~z~Evening, sir.
+
+0x0BEAD0E4 = ~z~Yes, Pa.
+
+0x0D8BBEA2 = ~z~Why you always getting at me?
+
+0x0D57A830 = ~z~Good one, Dad.
+
+0x0D89F45E = ~z~Hey, sir.
+
+0x0E0E8B12 = ~z~Aren't you afraid you'll hurt yourself?
+
+0x0EC528A6 = ~z~Why you got that on your face?
+
+0x0F50E6C3 = ~z~Evening.
+
+0x0F77FD6C = ~z~I like it fine, sir.
+
+0x0FE5D200 = ~z~Stop it.
+
+0x1A0EAD44 = ~z~I'm the youngest by a margin.
+
+0x1ACA0A50 = ~z~Good morning.
+
+0x1B53F1C9 = ~z~I never said it was, sir.
+
+0x1CE15C52 = ~z~You managing the ranch okay?
+
+0x1DB1ED98 = ~z~Hey. Don't.
+
+0x1E41C0FA = ~z~Would you cut it out?
+
+0x1E895C3F = ~z~I'm just going to do this then.
+
+0x2A2777D9 = ~z~Always me, ain't it, Pa?
+
+0x2AAF8CD6 = ~z~I do chores.
+
+0x2ADBD0E1 = ~z~Can you leave please, sir?
+
+0x2B3D5ED6 = ~z~Sir. She's had enough.
+
+0x2B10A964 = ~z~Oh, hi.
+
+0x2C5DA5AB = ~z~Don't be mean to Rufus.
+
+0x2C28FAE1 = ~z~You happy enough?
+
+0x2CC9F8C0 = ~z~Okay, well, tell me if I can do anything.
+
+0x2CF9AEAF = ~z~Morning, sir.
+
+0x2E35CAB6 = ~z~I'm Jack.
+
+0x2EBBC610 = ~z~I can't work all the time.
+
+0x2EBC30C3 = ~z~Hi.
+
+0x2F5A286A = ~z~You got some blood on you, sir.
+
+0x2FEF24CC = ~z~I was just going over this way.
+
+0x3AE250AE = ~z~Please. Let up on me.
+
+0x3B0CD96A = ~z~Are we moving again?
+
+0x3D665416 = ~z~Hello.
+
+0x3E3AD202 = ~z~I couldn't!
+
+0x3E8B5059 = ~z~Hello.
+
+0x3FB035B8 = ~z~This is my room.
+
+0x4B58BFA7 = ~z~Sir, do you have a headache?
+
+0x4BAFE115 = ~z~It looks like you're... covered in gore, sir.
+
+0x4BCFF0E9 = ~z~Hello, Pa.
+
+0x4BEB4E2E = ~z~Hey, I need some privacy.
+
+0x4C8D3954 = ~z~Why are you doing this?
+
+0x4CA9940E = ~z~You got your bandana on.
+
+0x4D51F0DB = ~z~We changed the rules about riding here?
+
+0x4F3054FF = ~z~I saw some spiders in the log pile.
+
+0x5AE11E3E = ~z~I'd have to take a bath, I had that kind of mud on me.
+
+0x5C3F5209 = ~z~Sir.
+
+0x5C5D564F = ~z~Good morning.
+
+0x5C231827 = ~z~I'm dog-tired.
+
+0x5D0BC532 = ~z~Why you got a mask on, Pa?
+
+0x5DF8205B = ~z~Evening, mister.
+
+0x5E72DD1F = ~z~Tell me what you want.
+
+0x5E89A103 = ~z~Who are you?
+
+0x5FC9F632 = ~z~Don't get a splinter.
+
+0x5FC49F75 = ~z~I won't argue with the law.
+
+0x6AECE589 = ~z~You really need to kill all them things?
+
+0x6B8466ED = ~z~Is there anything I... can help you with?
+
+0x6DEDF566 = ~z~Pa.
+
+0x6E08F1DC = ~z~I'll get used to it, I guess.
+
+0x6EB5BD4C = ~z~Just a bit more rest, eh.
+
+0x6FA12974 = ~z~Pa, just leave him, okay?
+
+0x6FF5395D = ~z~I won't stay up much longer, promise.
+
+0x7B1D55FC = ~z~Thank you, sir.
+
+0x7B155A1A = ~z~Hello? Who are you?
+
+0x7C536DC2 = ~z~How much meat's that gonna have?
+
+0x7D294DD9 = ~z~Oh, my. Look at that beast.
+
+0x7D531083 = ~z~You know you're coated in mud, right?
+
+0x7DA18B2B = ~z~You're real close, you know.
+
+0x7DEF57DF = ~z~That meat's gone bad, I think.
+
+0x7EB7F46A = ~z~You're a monster.
+
+0x8A313B70 = ~z~I ain't seen one of those before, I don't think.
+
+0x8A563248 = ~z~Good morning there.
+
+0x8ABF2B5B = ~z~Sir, you got mud all over you.
+
+0x8BE49321 = ~z~What, sir? I done something?
+
+0x8C4F7860 = ~z~Alright, sir.
+
+0x8CEBB336 = ~z~I'm the youngest, by a margin.
+
+0x8D4BFE87 = ~z~Hey! Who are you?
+
+0x8D50A20D = ~z~Why you gotta be so nasty? Huh?
+
+0x8D83875B = ~z~Just still a little... shook up, if I'm honest.
+
+0x8DC21FFB = ~z~Pa, would you join us?
+
+0x8E817B75 = ~z~Pa, you okay?
+
+0x9AEC6698 = ~z~Hello. Is that better?
+
+0x9B6ABD04 = ~z~I'm sorry you feel like that.
+
+0x9BE7BC46 = ~z~You gonna join us, sir?
+
+0x9BEF5F1C = ~z~And you should take a bath.
+
+0x9CB257E1 = ~z~But, what if we just want you here?
+
+0x9CC7B3D4 = ~z~What you want, huh?
+
+0x9D8BCF7F = ~z~You should play with us, Pa.
+
+0x9DD6969D = ~z~I can't take any more of this.
+
+0x9F8E4688 = ~z~You're mean to everyone.
+
+0x9FE4CFB1 = ~z~What you want, huh?
+
+0x12C4A8CC = ~z~You're drunk.
+
+0x12CDA286 = ~z~I should go to sleep.
+
+0x12D05B4C = ~z~You got blood on you.
+
+0x13ED3BC4 = ~z~If there's one thing we got, it's hay.
+
+0x17D824C9 = ~z~That looks huge, Pa.
+
+0x18D3101A = ~z~I uh... missed you too, Pa.
+
+0x21A90840 = ~z~I'll be okay by myself.
+
+0x21BF7E58 = ~z~I was... getting to that, sir.
+
+0x21C4BA85 = ~z~I wanna die.
+
+0x23AD2499 = ~z~A book.
+
+0x27BAFD91 = ~z~What are the hides for, Pa?
+
+0x28F05F61 = ~z~I'll work on my sense of humor.
+
+0x30CEC586 = ~z~Who's that?
+
+0x31D6712D = ~z~I fail to see the funny side.
+
+0x36CBD4D3 = ~z~I've read it before.
+
+0x37DFBB27 = ~z~Take the bandanas off to speak.
+
+0x37FC9E14 = ~z~You collecting skins, Pa?
+
+0x38A45D97 = ~z~They look so funny when they're dead.
+
+0x38D9EB16 = ~z~Pa, you okay?
+
+0x43AD8AC1 = ~z~You're inebriated, sir.
+
+0x49F97BC3 = ~z~Hey, mister.
+
+0x55B6ECA6 = ~z~I was getting to that, sir.
+
+0x55CDB00D = ~z~That's me.
+
+0x58D54156 = ~z~I hope we eat all that.
+
+0x60D224FC = ~z~Is something wrong?
+
+0x61E38DF9 = ~z~Let up on him, won't you?
+
+0x64AFFE71 = ~z~Uh... We got someone that looks like the law, coming.
+
+0x64D529BE = ~z~If you say so, Officer.
+
+0x66C3767C = ~z~You was real merry last night, sir.
+
+0x67FF3EFA = ~z~That axe looks real sharp.
+
+0x68DCB17B = ~z~Okay then.
+
+0x69A9C86F = ~z~I can't believe you killed that.
+
+0x71CF9E49 = ~z~I dunno what I'm doing wrong.
+
+0x74DFBD0D = ~z~Hey there.
+
+0x75B3C650 = ~z~Can you please leave me?
+
+0x75E94545 = ~z~Almost bed.
+
+0x77FDAEE9 = ~z~Morning to you, mister.
+
+0x81FA2CE9 = ~z~You feeling okay today, Pa?
+
+0x83AAA776 = ~z~Have I done something?
+
+0x85FFBF91 = ~z~Glad to have you back, sirs.
+
+0x88E87136 = ~z~He's a good dog, Pa.
+
+0x89F8E2ED = ~z~Is that a bad person you tied up?
+
+0x91D50837 = ~z~You best get that in a pot soon, huh?
+
+0x97C25692 = ~z~That's like something out of a book.
+
+0x98E28B37 = ~z~Evening, Pa.
+
+0x166FF838 = ~z~That bandana's blocking your mouth.
+
+0x208CA0DC = ~z~Okay, sir.
+
+0x338A5E10 = ~z~I wish I was dead.
+
+0x346C3D29 = ~z~Daddy?
+
+0x421CCDEF = ~z~Sir, you're awful bloody.
+
+0x438BE701 = ~z~I'm gonna get some more sleep.
+
+0x463C06BE = ~z~Uh...
+
+0x466DF92A = ~z~To think that was alive just a moment ago.
+
+0x479BB1C6 = ~z~Am I doing everything you want me to?
+
+0x529C0E82 = ~z~Oh, that's terrible.
+
+0x569A638C = ~z~Can't I have anywhere to myself?
+
+0x569B5A37 = ~z~Pa, what have you done?
+
+0x573DBE2B = ~z~You sure been hunting, Pa.
+
+0x665D85BC = ~z~A book?
+
+0x670D9F13 = ~z~He's a colorful feller.
+
+0x694E70AF = ~z~Ain't they going to get a burial, Pa?
+
+0x726C04F9 = ~z~Sir, what's this about?
+
+0x730B1BC4 = ~z~Back, are you?
+
+0x768BCD2B = ~z~Yes, Sheriff.
+
+0x784F97FE = ~z~Stay away from me.
+
+0x873F4D6C = ~z~Good morning, mister.
+
+0x892AC315 = ~z~Hi again, sir.
+
+0x908FF905 = ~z~Is that feed you got there?
+
+0x929F9F84 = ~z~Okay, sir...
+
+0x1408F143 = ~z~What you doing in here, Pa?
+
+0x1815A28C = ~z~Welcome back.
+
+0x2462B710 = ~z~Hi.
+
+0x2821D2CF = ~z~But I-I can't... I can't just turn off my feelings, Pa.
+
+0x3462E5B0 = ~z~It's my bedtime.
+
+0x4044CD6D = ~z~Hey... leave the dog.
+
+0x5409DBB2 = ~z~Good to see you all.
+
+0x5424ED37 = ~z~You don't need to come with me, you know.
+
+0x5742CACA = ~z~I wasn't sure I'd see you again.
+
+0x5743F6A8 = ~z~Good evening.
+
+0x6211F59F = ~z~Yeah, that's about it.
+
+0x6389E8D6 = ~z~That's uh great, Pa.
+
+0x6700C8BC = ~z~Why you put that bandana on sometimes?
+
+0x6903BA83 = ~z~I don't like to be muddy like that.
+
+0x7024C4D7 = ~z~That will spoil you hold onto it any longer.
+
+0x7470D145 = ~z~That mud's almost dried solid.
+
+0x7917A0C3 = ~z~Why've you tied them up, Pa?
+
+0x8520B745 = ~z~Sir? What happened to that person?
+
+0x8763DDC3 = ~z~Who's that tied up there?
+
+0x8931AEAF = ~z~It's been a while since I've seen you, sir.
+
+0x9026C942 = ~z~You need some coffee, Pa?
+
+0x13157A88 = ~z~Oh, Pa.
+
+0x25121D6F = ~z~Hey.
+
+0x28620ED0 = ~z~I-I should have done better. Been less of a... kid.
+
+0x37347CA3 = ~z~You've gone too far.
+
+0x40016E4D = ~z~Nice to meet you.
+
+0x53193FBD = ~z~Oh, hey.
+
+0x56513A26 = ~z~Very droll.
+
+0x78848F1B = ~z~I think you ought to bury them.
+
+0x81415A68 = ~z~I don't think I could carry that.
+
+0x88160B58 = ~z~I'd like it if you went.
+
+0x106997CF = ~z~I don't deserve this.
+
+0x365013FC = ~z~Get away.
+
+0x406079E7 = ~z~I'll get used to it, I guess.
+
+0x899689E8 = ~z~Stop it, Pa.
+
+0x2958094F = ~z~I'm doing my chores later, I promise.
+
+0x5178510B = ~z~You got some hides there, sir.
+
+0x6256118F = ~z~Leave Rufus alone.
+
+0x7386436A = ~z~But I ain't doing it right.
+
+0x7750435B = ~z~Morning.
+
+0x10345690 = ~z~You brought a skunk in?
+
+0x15733342 = ~z~Don't do that to her.
+
+0x25794535 = ~z~Excuse me, sir.
+
+0x26018115 = ~z~There's a lawman on the way.
+
+0x28388410 = ~z~Welcome back, sirs.
+
+0x45141866 = ~z~It's too much.
+
+0x49698119 = ~z~Hello there.
+
+0x49871780 = ~z~Don't, Pa.
+
+0x88634674 = ~z~You just going to walk in whenever you want?
+
+0xA008BB65 = ~z~You like that one?
+
+0xA09A20F5 = ~z~If you don't mind, sir.
+
+0xA0B9A197 = ~z~Water's heavy, ain't it?
+
+0xA3CBAC24 = ~z~Are you gonna give that over to Momma?
+
+0xA5C467D4 = ~z~You've been gone for a while.
+
+0xA9EEB7CC = ~z~Uh... hello?
+
+0xA38ABA24 = ~z~Me? Why, I did-I didn't think I could be.
+
+0xA580F20F = ~z~Where'd you find that, Pa?
+
+0xA716A632 = ~z~The apple don't fall far from the tree, evidently.
+
+0xA755A22D = ~z~Why'd you kill that, Pa? It ain't for eating.
+
+0xA22615F3 = ~z~Sir, I don't think it's right to keep someone captive like that.
+
+0xA9315891 = ~z~I'll try and do better.
+
+0xAA09301A = ~z~I think your meat's turned, Pa.
+
+0xAA91FC61 = ~z~What? Should I be rolling in the dirt like you?
+
+0xAB32F594 = ~z~I'm just going to carry on with this, if that's okay.
+
+0xAC4E2A43 = ~z~You gonna let them go, sir? You should.
+
+0xAEBBFB13 = ~z~G'morning.
+
+0xAF5247ED = ~z~You could put that in a book.
+
+0xAFECDA1E = ~z~I, uh...
+
+0xB5F2AB06 = ~z~What happened to them, Pa? What happened?
+
+0xB7B2A59A = ~z~That's funny.
+
+0xB8D47914 = ~z~Don't take it out on everyone else.
+
+0xB8F39470 = ~z~Is everything alright?
+
+0xB9D0CBA6 = ~z~Maybe I should dress more like you then.
+
+0xB9D8A521 = ~z~I can't work all the time.
+
+0xB20EBD69 = ~z~Why hey, sir.
+
+0xB25E44E0 = ~z~Don't spill none.
+
+0xB40E98DC = ~z~Err, hello, sir.
+
+0xB580D2D4 = ~z~Mister.
+
+0xB96091EF = ~z~Well, I'll just get back to it then.
+
+0xB96369C8 = ~z~Why are you my daddy?
+
+0xB96392EF = ~z~What's this about?
+
+0xB713729D = ~z~Come over here, Pa?
+
+0xBCF0C412 = ~z~I think he's had enough, Pa.
+
+0xBD0BE360 = ~z~How sad.
+
+0xBF3B066B = ~z~Why are you causing such a scene?
+
+0xC03359B2 = ~z~Hello, sir.
+
+0xC0557AEF = ~z~~sl:0.1~Stop it, Pa.
+
+0xC2A1C464 = ~z~Pa, Pa, is that a body?
+
+0xC5C93C51 = ~z~Pa... we just did this.
+
+0xC6ADE963 = ~z~You know that animal's gone bad?
+
+0xC7F50B3D = ~z~I like singing that.
+
+0xC9CF3AFC = ~z~Would you get away?
+
+0xC90B0C5A = ~z~Is there anything I... can help you with?
+
+0xC123D70D = ~z~Morning to you, sir.
+
+0xC310C502 = ~z~Morning, sir.
+
+0xC5824139 = ~z~That is too much.
+
+0xCA9C3560 = ~z~What's your problem with me?
+
+0xCB8B0562 = ~z~Hello.
+
+0xCD41502F = ~z~We may as well be camping again, all the privacy I get.
+
+0xCEC87256 = ~z~Good morning, sir.
+
+0xD036512B = ~z~Hi. You happy?
+
+0xD072A55D = ~z~Please. Stop doing that.
+
+0xD1F62BE1 = ~z~Can't you calm down?
+
+0xD2F6BF72 = ~z~Hey.
+
+0xD5D40BCB = ~z~Let me know if you need help.
+
+0xD9ACB7E1 = ~z~Sirs.
+
+0xD9F54438 = ~z~Did you? Well I'm, uh, grateful, sir.
+
+0xD23DFAB1 = ~z~You ain't supposed to ride your horse here.
+
+0xD90DD979 = ~z~Get away from me.
+
+0xD237D5ED = ~z~I think... I don't got anything else to say about it.
+
+0xD422AE73 = ~z~I'm sure you're right.
+
+0xD907C7EF = ~z~You're awful messy, Pa.
+
+0xD6419EE5 = ~z~Welcome back, you all.
+
+0xD8988C1C = ~z~Can you give it a rest?
+
+0xD8454475 = ~z~Lucky old horses, eh?
+
+0xDA2AB5C0 = ~z~Yes, Pa.
+
+0xDB44DA15 = ~z~You're too hard on me.
+
+0xDB390EF6 = ~z~I'll get tougher, sir.
+
+0xDBD21F76 = ~z~Sir.
+
+0xDCD659D4 = ~z~I don't understand. What do you want?
+
+0xDD45B5B6 = ~z~Sir, can you leave?
+
+0xDE5AA007 = ~z~What is it?
+
+0xE014A492 = ~z~Good evening, sir.
+
+0xE0444510 = ~z~Hello, sirs.
+
+0xE09C72B6 = ~z~That's the story...
+
+0xE2DB80D3 = ~z~Uh... fine, sir. I did okay, didn't I?
+
+0xE6BE48D3 = ~z~You know, it's rude to stare.
+
+0xE9F509D3 = ~z~I can't really hear you with that mask on.
+
+0xE10D4848 = ~z~I must be a disappointment to you.
+
+0xE57EF25B = ~z~Don't come near me.
+
+0xE73E48C0 = ~z~Me?
+
+0xE88E193E = ~z~Fine evening.
+
+0xE520DC5A = ~z~I'll try, Pa. I'll really try.
+
+0xE654E098 = ~z~The horses will like that.
+
+0xE1500BD2 = ~z~Anything you need in here?
+
+0xE94726EC = ~z~What got into you?
+
+0xEA3AC6D7 = ~z~Good to see you all.
+
+0xEA5F6C27 = ~z~I'll get tougher, sir.
+
+0xEA228D54 = ~z~I've read it before.
+
+0xEADFC20F = ~z~I guess that's dinner fixed.
+
+0xED6E9115 = ~z~That's so silly.
+
+0xED845F80 = ~z~Cut that out.
+
+0xEE3BFC9F = ~z~What's gotten into you?
+
+0xEE8592B7 = ~z~Come berate me after you cleaned that blood off.
+
+0xEEF1B60B = ~z~You okay, sir? You don't normally dress like that.
+
+0xEF6FB264 = ~z~I don't think we can eat that, can we?
+
+0xF0E367F4 = ~z~Noted, sir.
+
+0xF3EC8706 = ~z~I'm just going to... carry on.
+
+0xF4E844BB = ~z~Sir, I don't want to do this anymore.
+
+0xF9AFA90B = ~z~Don't you want to get that blood off?
+
+0xF35FAFF1 = ~z~What you up to, sir?
+
+0xF41F9E67 = ~z~Sir, that's a skunk, ain't it?
+
+0xF50C7858 = ~z~Don't you get it?
+
+0xF75AE8F9 = ~z~What, sir? I done somethin'?
+
+0xF82A09E0 = ~z~Hi.
+
+0xF86AEC2C = ~z~Why are you looking at me like that?
+
+0xF91B7304 = ~z~Okay, sir. I will.
+
+0xF98A21AA = ~z~I don't like that. You should let them go.
+
+0xF236DFC0 = ~z~That's a good one, isn't it?
+
+0xF555C41C = ~z~Good evening, sir.
+
+0xF583F2FC = ~z~That's enough.
+
+0xF49811FB = ~z~Sir, are you alright today?
+
+0xF1738577 = ~z~You happy?
+
+0xF6601742 = ~z~Uh... fine, sir. I did okay, didn't I?
+
+0xF7382459 = ~z~Is this some kind of game?
+
+0xFA4D9413 = ~z~I still a little shook up, if I'm honest.
+
+0xFA292687 = ~z~Stop that.
+
+0xFAB86466 = ~z~When I stronger, I'll help.
+
+0xFCB387A2 = ~z~What am I supposed to do?
+
+0xFD0B7E9E = ~z~Hi, fellers.
+
+S_BCKINBOAT_L = ~z~You might regret saying that in the morning.
+

@@ -1,0 +1,262 @@
+0x0EC9EBA1 = Если ваша лошадь напугана, успокойте ее, нажав ~INPUT_INTERACT_ANIMAL~ во время езды.
+
+0x0FBA33A4 = Дождитесь Джессики Леклерк.
+
+0x3DA319A2 = Оружейный пояс
+
+0x4C4A6B94 = Хорли
+
+0x4D7AFD03 = Клэй Дэвис
+
+0x9B741339 = Лагерь
+
+0x9DD6DB87 = возле поста Мансанита
+
+0x216A9ED9 = Поговорите с ~COLOR_MP_OBJECTIVE~продавцом~s~.
+
+0x331F4636 = у ранчо
+
+0x5640DC7A = возле Роудса
+
+0x57408D5C = Продавец
+
+0x59058612 = Следуйте за ~COLOR_MP_OBJECTIVE~Джессикой Леклерк~s~.
+
+0xC627703A = возле Ратскеллер-Форк
+
+0xCE6C5817 = Пощадить
+
+0xD22BA6C0 = Подобрать
+
+0xDDD70FAD = Джессика Леклерк
+
+MPINTRO_BLIP_GANG_BOSS = Бандит
+
+MPINTRO_BLIP_HIDEOUT = Логово
+
+MPINTRO_BLIP_HIDEOUT_AREA_BLACKWATER = Толл-Триз
+
+MPINTRO_BLIP_HIDEOUT_AREA_RHODES = Байю-Нва
+
+MPINTRO_BLIP_HIDEOUT_AREA_TUMBLEWEED = Рио-Браво
+
+MPINTRO_BLIP_HIDEOUT_AREA_VALENTINE = Камберлендский лес
+
+MPINTRO_BLIP_HITCH = Коновязь
+
+MPINTRO_BLIP_HORSE = Лошадь
+
+MPINTRO_BLIP_POST_CLERK = Работник почты
+
+MPINTRO_BLIP_POST_OFFICE_BLACKWATER = Почта Блэкуотера
+
+MPINTRO_BLIP_POST_OFFICE_RHODES = Почта Роудса
+
+MPINTRO_BLIP_POST_OFFICE_TUMBLEWEED = Cтанция Бенедикт-Пойнт
+
+MPINTRO_BLIP_POST_OFFICE_VALENTINE = Почта Валентайна
+
+MPINTRO_BLIP_STRANGER = Незнакомец
+
+MPINTRO_BLIP_TREASURE_MAP = Карта сокровищ
+
+MPINTRO_BLIP_WARDROBE = Гардероб
+
+MPINTRO_HELP_ABCARD_COUPON = Вы обнаружили награду – карту способности. Используйте эту награду, чтобы получить вашу первую карту способности.
+
+MPINTRO_HELP_ABCARD_PURCH = Вы можете приобретать и использовать карты способностей, чтобы получать определенные преимущества в бою.
+
+MPINTRO_HELP_AMBIENT_HIDEOUT = В свободном режиме вы можете встретить логова банд ~COLOR_ENEMY~~BLIP_REGION_HIDEOUT~~s~. У врагов в этих логовах можно отобрать деньги, патроны и другие вещи.
+
+MPINTRO_HELP_CAMERA = Чтобы изменить масштаб и ракурс камеры, нажмите ~INPUT_NEXT_CAMERA~. Удерживайте ~INPUT_CINEMATIC_CAM~, чтобы включить кинематографические камеры.
+
+MPINTRO_HELP_CAMERAPC = Чтобы изменить масштаб и ракурс камеры, нажмите ~INPUT_NEXT_CAMERA~. Удерживайте ~INPUT_CINEMATIC_CAM~, чтобы включить кинематографические камеры.
+
+MPINTRO_HELP_CARRYING_OBJECT_DOCUMENT = Вы не можете изучать документы, когда что-то переносите.
+
+MPINTRO_HELP_CASH = За деньги можно приобретать различные вещи и услуги в магазинах по всему миру.
+
+MPINTRO_HELP_CINEMATIC_CONTROLS = Чтобы переключиться между кинематографическими камерами, нажмите ~INPUT_CINEMATIC_CAM_CHANGE_SHOT~. ~n~Чтобы выйти, нажмите ~INPUT_CINEMATIC_CAM~.
+
+MPINTRO_HELP_CINEMATIC_SPEED = Удерживая ~INPUT_HORSE_SPRINT~ в режиме кинематографической камеры, вы сможете автоматически двигаться по дорогам и тропинкам.
+
+MPINTRO_HELP_CINEMATIC_SPEEDPC = В кинематографическом режиме ваша лошадь будет автоматически идти по дорогам и тропинкам.
+
+MPINTRO_HELP_DEADEYE_REFILL = Уровень «Меткого глаза» будет восстанавливаться при убийстве врагов.
+
+MPINTRO_HELP_GOLD_BAR = За золотые слитки ~COLOR_GOLD~~BLIP_GOLD~~s~ можно покупать или досрочно открывать определенные предметы. После того как вы соберете 100 золотых самородков, они превратятся в 1 золотой слиток.
+
+MPINTRO_HELP_GUN_FOR_HIRE = Персонажей ~1b~, дающих задания свободного режима, можно найти по всей карте. Ближайший персонаж, у которого есть задание, будет отображаться на мини-карте.
+
+MPINTRO_HELP_HANDHELD = После перехода в свободный режим вам будет доступен переносной каталог. С его помощью можно покупать предметы, даже находясь в дороге.
+
+MPINTRO_HELP_HEALTH_CORE = Ваш статус здоровья со временем истощается. Вы будете испытывать негативные эффекты, пока он на нуле. Для восстановления статуса здоровья можно поесть.
+
+MPINTRO_HELP_HEALTH_PROVISIONS = Эффекты будут варьироваться в зависимости от еды. Еда восстанавливает ваш статус здоровья. Еда более высокого качества восстановит больше частей статуса здоровья.
+
+MPINTRO_HELP_HEALTH_REFILL = Здоровье отображается в нижнем левом углу. Внешняя шкала показывает остаток вашего здоровья. Внутренняя шкала статуса влияет на скорость восстановления здоровья.
+
+MPINTRO_HELP_HITCH_HORSE = Удерживайте ~INPUT_HITCH_ANIMAL~ рядом с коновязью или деревом, чтобы привязать свою лошадь. Это не позволит вашей лошади уйти.
+
+MPINTRO_HELP_HOLSTER_WEAPON = Если вы указали оружие для быстрого выбора, то, чтобы убрать оружие в кобуру, нужно дважды нажать ~INPUT_OPEN_WHEEL_MENU~ или выбрать в селекторе оружия пункт «Без оружия».
+
+MPINTRO_HELP_HONOR_CHOICE = Уровень вашей чести будет оказывать влияние на мир. Пощадите бандита, чтобы повысить честь, или убейте его, чтобы понизить ее.
+
+MPINTRO_HELP_HORSE_DEAD_RESPAWN = Ваша лошадь критически ранена. Используйте ~INPUT_WHISTLE~, чтобы позвать дряхлую клячу.
+
+MPINTRO_HELP_HORSE_GALLOP = Если шкала выносливости лошади пуста, ваша лошадь не сможет идти галопом. Замедлив ход, вы позволите ей восстановить выносливость.
+
+MPINTRO_HELP_HORSE_HEALTH = Здоровье лошади отображается в нижнем левом углу. Если шкала здоровья опустеет, лошадь падет.
+
+MPINTRO_HELP_HORSE_STAMINA = Выносливость лошади отображается в нижнем левом углу. Выносливость расходуется, когда лошадь скачет галопом или прыгает.
+
+MPINTRO_HELP_HORSE_WHISTLE = Нажмите ~INPUT_WHISTLE~, чтобы позвать свою лошадь в Red Dead Online.
+
+MPINTRO_HELP_HORSE_WHISTLE_RESPAWN = Используйте ~INPUT_WHISTLE~, чтобы позвать дряхлую клячу.
+
+MPINTRO_HELP_MATCH_SPEED_HORLEY = Чтобы во время езды двигаться с той же скоростью, что и ~COLOR_MP_OBJECTIVE~Хорли~s~, удерживайте ~INPUT_HORSE_SPRINT~.
+
+MPINTRO_HELP_NAG = Если все ваши лошади будут заняты, вам будет доступна только дряхлая кляча.
+
+MPINTRO_HELP_OPEN_ABILITY_CARD_MENU = Чтобы открыть меню набора способностей, удерживайте ~INPUT_OPEN_WHEEL_MENU~ и нажмите ~INPUT_QUICK_SHORTCUT_ABILITIES_MENU~. С помощью этого меню вы сможете менять используемые способности и покупать новые.
+
+MPINTRO_HELP_PLACE_CAMP = Выберите место для своего лагеря. Криппс разобьет его. После перехода в свободный режим за перемещение вашего лагеря может взиматься плата.
+
+MPINTRO_HELP_QUICK_OPEN_WORLD_MAP = Чтобы открыть карту, нажмите ~INPUT_MAP~ Открыв карту, вы можете установить на ней точку маршрута при помощи ~INPUT_FRONTEND_ACCEPT~.
+
+MPINTRO_HELP_QUICK_SELECT_WEAPON_WHEEL = Чтобы указать оружие для быстрого выбора, выделите его в селекторе оружия и нажмите ~INPUT_QUICK_SELECT_SET_FOR_SWAP~. В дальнейшем вы сможете переключаться между этим и предыдущим оружием, нажимая ~INPUT_OPEN_WHEEL_MENU~.
+
+MPINTRO_HELP_RANK_UP = Предметы в магазине будут открываться по мере повышения уровня. Посмотреть, какие предметы будут открыты, можно в разделе «Прогресс» меню паузы.
+
+MPINTRO_HELP_SPEED_UP_SLOW_DOWN = Быстро нажимайте ~INPUT_HORSE_SPRINT~, чтобы скакать быстрее. ~n~Используйте ~INPUT_HORSE_STOP~, чтобы притормозить лошадь.
+
+MPINTRO_HELP_SPEED_UP_SLOW_DOWN_PC = Удерживайте ~INPUT_HORSE_SPRINT~, чтобы скакать быстрее. ~n~ Используйте ~INPUT_HORSE_STOP~, чтобы замедлиться.
+
+MPINTRO_HELP_STAMINA = Выносливость отображается в нижнем левом углу. Шкала расходуется, когда вы бегаете, прыгаете или карабкаетесь. Статус в середине шкалы влияет на скорость восстановления выносливости.
+
+MPINTRO_HELP_STAMINA_CORE = Если ваш статус выносливости окажется на нуле, скорость передвижения будет ограничена. Некоторые виды еды позволят восстановить статус выносливости.
+
+MPINTRO_HELP_STORY_MISSION = Чтобы начать сюжетное задание, подойдите к Клэю Дэвису ~1b~. Подобные задания отображаются на краю мини-карты и выделены желтым цветом.
+
+MPINTRO_HELP_TREASURE_MAP_OPEN_SATCHEL = Вы только что получили карту сокровищ. Удерживайте ~INPUT_OPEN_SATCHEL_MENU~, чтобы открыть сумку, и выберите карту сокровищ.
+
+MPINTRO_HELP_TREASURE_SEARCH = Вы открыли карту сокровищ. Ищите сокровища в секторе ~COLOR_MP_OBJECTIVE~~BLIP_MP_GAME_TREASURE_HUNT~~s~, чтобы получить награду.
+
+MPINTRO_HELP_TREASURE_WAYPOINTS = Точки маршрута показывают путь к выбранному месту как на карте, так и на мини-карте. Пунктирная линия говорит о том, что путь проходит не по дороге.
+
+MPINTRO_HELP_USE_DEADEYE = Теперь вы используете карту «Меткого глаза». Во время прицеливания нажмите ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Меткий глаз» с эффектом этой карты. Для некоторых карт требуется сперва выбрать оружие.
+
+MPINTRO_HELP_WEAPON_AIM = Достав огнестрельное оружие, цельтесь, удерживая ~INPUT_AIM~, и стреляйте при помощи ~INPUT_ATTACK~. Нажмите ~INPUT_RELOAD~, чтобы перезарядить оружие.
+
+MPINTRO_HELP_WEAPON_QUICKFIRE = Также вы можете быстро стрелять от бедра, нажимая ~INPUT_ATTACK~, когда не целитесь.
+
+MPINTRO_HELP_WEAPON_WHEEL = Удерживайте ~INPUT_OPEN_WHEEL_MENU~, чтобы открыть селектор оружия. Используйте ~INPUTGROUP_RADIAL_MENU_NAV~, чтобы выбрать оружие, а затем отпустите ~INPUT_OPEN_WHEEL_MENU~, чтобы достать его.
+
+MPINTRO_OBJ_APPROACH_GANG_BOSS = Подойдите к ~COLOR_MP_OBJECTIVE~бандиту~s~.
+
+MPINTRO_OBJ_APPROACH_HITCH = Приблизьтесь к ~COLOR_MP_OBJECTIVE~коновязи~s~.
+
+MPINTRO_OBJ_APPROACH_HORSE = Подойдите к своей ~COLOR_MP_OBJECTIVE~лошади~s~.
+
+MPINTRO_OBJ_APPROACH_WEAPONS = Подойдите к ~COLOR_MP_OBJECTIVE~оружейному поясу~s~.
+
+MPINTRO_OBJ_BUY_AND_EQUIP_ABILITY_CARD = Купите и вставьте карту способности.
+
+MPINTRO_OBJ_CLAIM_TREASURE = Осмотрите ~COLOR_MP_OBJECTIVE~сундук с сокровищами~s~.
+
+MPINTRO_OBJ_EXIT_WARDROBE = Покиньте гардероб.
+
+MPINTRO_OBJ_EXPLORE_WARDROBE = Осмотрите гардероб.
+
+MPINTRO_OBJ_FOCUS_ON_WEAPONS = Удерживайте ~INPUT_INTERACT_LOCKON~, чтобы сфокусироваться на ~COLOR_MP_OBJECTIVE~оружейном поясе~s~.
+
+MPINTRO_OBJ_FOLLOW_HORLEY = Следуйте за ~COLOR_MP_OBJECTIVE~Хорли~s~.
+
+MPINTRO_OBJ_FOLLOW_STRANGER = Следуйте за ~COLOR_MP_OBJECTIVE~незнакомцем~s~.
+
+MPINTRO_OBJ_GET_ON_HORSE = Садитесь на ~COLOR_MP_OBJECTIVE~лошадь~s~.
+
+MPINTRO_OBJ_GET_ON_HORSE_TUTORIAL = Используйте ~INPUT_ENTER~, чтобы сесть на ~COLOR_MP_OBJECTIVE~лошадь~s~.
+
+MPINTRO_OBJ_GO_TO_BLACKWATER_POST_OFFICE = Отправляйтесь на ~COLOR_MP_OBJECTIVE~почту Блэкуотера~s~.
+
+MPINTRO_OBJ_GO_TO_HIDEOUT_AREA_BLACKWATER = Доберитесь до ~COLOR_MP_OBJECTIVE~Толл-Триз~s~.
+
+MPINTRO_OBJ_GO_TO_HIDEOUT_AREA_RHODES = Доберитесь до ~COLOR_MP_OBJECTIVE~Байю-Нва~s~.
+
+MPINTRO_OBJ_GO_TO_HIDEOUT_AREA_TUMBLEWEED = Доберитесь до ~COLOR_MP_OBJECTIVE~Рио-Браво~s~.
+
+MPINTRO_OBJ_GO_TO_HIDEOUT_AREA_VALENTINE = Доберитесь до ~COLOR_MP_OBJECTIVE~Камберлендского леса~s~.
+
+MPINTRO_OBJ_GO_TO_POST_OFFICE = Идите к ~COLOR_MP_OBJECTIVE~работнику почты~s~.
+
+MPINTRO_OBJ_GO_TO_RHODES_POST_OFFICE = Отправляйтесь на ~COLOR_MP_OBJECTIVE~почту Роудса~s~.
+
+MPINTRO_OBJ_GO_TO_TUMBLEWEED_POST_OFFICE = Отправляйтесь на ~COLOR_MP_OBJECTIVE~железнодорожную станцию Бенедикт-Пойнт~s~.
+
+MPINTRO_OBJ_GO_TO_VALENTINE_POST_OFFICE = Отправляйтесь на ~COLOR_MP_OBJECTIVE~почту Валентайна~s~.
+
+MPINTRO_OBJ_HITCH_HORSE = Удерживайте ~INPUT_HITCH_ANIMAL|PromptId=MPINTRO_UCID_HORSE_HITCH,Gutter~, чтобы привязать лошадь к ~COLOR_MP_OBJECTIVE~коновязи~s~.
+
+MPINTRO_OBJ_KILL_OR_SPARE_GANG_BOSS = Убейте или пощадите ~COLOR_MP_OBJECTIVE~бандита~s~.
+
+MPINTRO_OBJ_MAP_OR_KILL_GANG_BOSS = Возьмите карту или убейте ~COLOR_MP_OBJECTIVE~бандита~s~.
+
+MPINTRO_OBJ_OPEN_ABILITY_CARD_MENU = Откройте меню набора способностей при помощи ~INPUT_QUICK_SHORTCUT_ABILITIES_MENU~.
+
+MPINTRO_OBJ_OPEN_SATCHEL = Удерживайте ~INPUT_OPEN_SATCHEL_MENU|PromptId=UCID_SATCHEL,Gutter~, чтобы открыть сумку.
+
+MPINTRO_OBJ_OPEN_SATCHEL_PC = Удерживайте ~INPUT_OPEN_SATCHEL_MENU|PromptId=UCID_SATCHEL,Gutter~, чтобы открыть сумку.
+
+MPINTRO_OBJ_OPEN_TREASURE_MAP = Откройте карту сокровищ.
+
+MPINTRO_OBJ_OPEN_WEAPON_WHEEL = Удерживайте ~INPUT_OPEN_WHEEL_MENU~, чтобы открыть селектор оружия.
+
+MPINTRO_OBJ_PICKUP_DROPPED_TREASURE_MAP = Возьмите ~COLOR_MP_OBJECTIVE~карту сокровищ~s~.
+
+MPINTRO_OBJ_PICKUP_WEAPONS = Удерживайте ~INPUT_CONTEXT_X~, чтобы подобрать ~COLOR_MP_OBJECTIVE~оружейный пояс~s~.
+
+MPINTRO_OBJ_REMAIN_GANG_BOSS = Оставайтесь с бандитом.
+
+MPINTRO_OBJ_RETURN_TO_HORLEY = Вернитесь к ~COLOR_MP_OBJECTIVE~Хорли~s~.
+
+MPINTRO_OBJ_RETURN_TO_MISSION_AREA = Вернитесь к заданию.
+
+MPINTRO_OBJ_RETURN_TO_STRANGER = Вернитесь к ~COLOR_MP_OBJECTIVE~незнакомцу~s~.
+
+MPINTRO_OBJ_SEARCH_FOR_HIDEOUT = Найдите ~COLOR_MP_OBJECTIVE~логово~s~.
+
+MPINTRO_OBJ_SEARCH_GANG_HIDEOUT = Обыщите ~COLOR_MP_OBJECTIVE~логово~s~.
+
+MPINTRO_OBJ_SEARCH_TREASURE = Осмотрите ~COLOR_MP_OBJECTIVE~местность~s~ в поисках сокровищ.
+
+MPINTRO_OBJ_SELECT_OUTFIT = (~COLOR_MP_OBJECTIVE~Необязательно~s~) Измените свой костюм.
+
+MPINTRO_OBJ_SETUP_CAMP_OPEN_PLAYER_MENU = Нажмите ~INPUT_PLAYER_MENU~, чтобы открыть меню игрока.
+
+MPINTRO_OBJ_SETUP_CAMP_SELECT_CAMP = Выберите «Лагерь».
+
+MPINTRO_OBJ_SETUP_CAMP_SELECT_CAMP_PROPERTIES = Выберите «Лагерь и имущество».
+
+MPINTRO_OBJ_SETUP_CAMP_SELECT_LOCATION = Выберите «~1~».
+
+MPINTRO_OBJ_SETUP_CAMP_SELECT_SET_CAMP_LOCATION = Выберите «Выбрать место для лагеря».
+
+MPINTRO_OBJ_SETUP_CAMP_SELECT_SMALL_CAMP = Выберите «Маленький лагерь».
+
+MPINTRO_OBJ_TALK_TO_CLAY = Встретьтесь с ~COLOR_MP_OBJECTIVE~Клэем Дэвисом~s~.
+
+MPINTRO_OBJ_WAIT_FOR_STRANGER = Подождите незнакомца.
+
+MPINTRO_OBJ__POST_CLERK__ACCEPT_MISSION = Поговорите с работником почты при помощи ~INPUT_CONTEXT_X~.
+
+MPINTRO_OBJ__POST_CLERK__APPROACH = Подойдите к ~COLOR_MP_OBJECTIVE~работнику почты~s~.
+
+MPINTRO_OBJ__POST_CLERK__INTERACT = Удерживайте ~INPUT_INTERACT_LOCKON~, чтобы сфокусироваться на работнике почты~s~.
+
+MPINTRO_UC_BOSS_TAKE_MAP = Взять карту
+
+MPINTRO_UC_GANG_THREATEN = Прицелиться
+
+MPINTRO_UC_KILL_GANG_BOSS = Убить
+

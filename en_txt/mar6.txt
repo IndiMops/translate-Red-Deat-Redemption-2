@@ -1,0 +1,72 @@
+0x0AF57BD9 = You killed a civilian at the train station.
+
+0x3FF8C6F8 = Ride with ~o~Uncle~s~ to Fort Riggs station
+
+0x6D5F4342 = Speak with the Bookie
+
+0x86F1E445 = Go to the train platform with ~o~Uncle~s~
+
+0xB1CD4134 = Mount your ~o~horse~s~
+
+0xCED23958 = Fight
+
+MAR6_F_ABCH = Charles was abandoned.
+
+MAR6_F_ABUN = Uncle was abandoned.
+
+MAR6_F_BDG = You didn't escape from Martelli's men.
+
+MAR6_F_DSFT = You disrupted the fight.
+
+MAR6_F_FFC = You failed to find Charles.
+
+MAR6_F_KILLH = Uncle's horse died.
+
+MAR6_F_WGND = The wagon was destroyed.
+
+MAR6_H_FINLOK = Focus on Charles by holding ~INPUT_INTERACT_LOCKON~ to cheer or boo.
+
+MAR6_H_FIVIEW = Tap ~INPUT_NEXT_CAMERA~ near the fight to get a better view.
+
+MAR6_OBJ_DWGN = Defend the wagon from ~e~Martelli's Men~s~
+
+MAR6_OBJ_FCHL = Follow ~o~Charles~s~ to the docks
+
+MAR6_OBJ_FNDC = Find Charles at ~o~Saint Saturnines~s~
+
+MAR6_OBJ_FNDC2 = Find ~o~Charles~s~ at Saint Saturnines
+
+MAR6_OBJ_GTFTR = Follow ~o~Uncle~s~
+
+MAR6_OBJ_GWGN = Get back on the ~o~wagon~s~
+
+MAR6_OBJ_KILM = Take out ~e~Martelli's Men~s~
+
+MAR6_OBJ_METU = Meet with ~f~Uncle~s~
+
+MAR6_OBJ_RCHL = Return to ~o~Charles~s~
+
+MAR6_OBJ_RIDEU = Ride with ~f~Uncle~s~
+
+MAR6_OBJ_RUCL = Return to ~o~Uncle~s~
+
+MAR6_OBJ_RWAG = Get on the ~o~wagon~s~ with Charles
+
+MAR6_OBJ_SCHCL = Ask about Charles at the ~o~Saloon~s~ or the ~o~Fence~s~
+
+MAR6_OBJ_WFGT = Watch the ~o~fight~s~
+
+MAR6_OBJ_WUNCL = Wait for ~f~Uncle~s~
+
+MAR6_UNCLE = Uncle
+
+MAR6_U_AKCH1 = Charles?
+
+MAR6_U_BETAGN = Bet against Charles
+
+MAR6_U_BETON = Bet on Charles
+
+MAR6_U_FTBO = Boo
+
+MAR6_U_FTCH = Cheer
+

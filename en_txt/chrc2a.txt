@@ -1,0 +1,300 @@
+CHRC2_A0_1 = ~z~Alright, ~rp~just over this ridge.
+
+CHRC2_A0_2 = ~z~There's a spot ~rp~that should give us a good view of the road.
+
+CHRC2_A1_1 = ~z~Let's leave the horses here so they're out of sight.
+
+CHRC2_A1_2 = ~z~Might want a rifle with a scope, if you've got one. We'll be back a bit from the road.
+
+CHRC2_A1_3 = ~z~Such a privilege to be instructed by the master himself.
+
+CHRC2_C1_01 = ~z~What are you doing? It'll be here any second.
+
+CHRC2_C1_02 = ~z~Morgan, get in cover.
+
+CHRC2_C1_03 = ~z~Are you trying to sabotage this? Get behind here.
+
+CHRC2_C2_1 = ~z~I see you! We ain't falling for this!
+
+CHRC2_C3_1 = ~z~Shit! Get after them!
+
+CHRC2_FIN_ARTH_1 = ~z~I think that's the lot.
+
+CHRC2_FIN_ARTH_2 = ~z~So when I don't follow the plan, it's the eighth deadly sin,
+
+CHRC2_FIN_ARTH_3 = ~z~but Arthur Morgan can do whatever the hell he wants?
+
+CHRC2_FIN_ARTH_4 = ~z~It didn't feel right.
+
+CHRC2_FIN_ARTH_5 = ~z~Oh it didn't feel right... well you can bust in there and get the money then.
+
+CHRC2_FIN_SEAN_1 = ~z~I think that's the lot.
+
+CHRC2_FIN_SEAN_2 = ~z~So we're killing them all then?
+
+CHRC2_FIN_SEAN_3 = ~z~You really think they was just gonna give it up?
+
+CHRC2_FIN_SEAN_4 = ~z~Anyway, can we talk about this later? I'm gonna bust in and grab the money.
+
+CHRC2_FIN_SEAN_5 = ~z~No, you leave that to me.
+
+CHRC2_FIN_SEAN_6 = ~z~Fine, fine. I'll lighten the pockets of our dearly departed friends here.
+
+CHRC2_FU_1 = ~z~What the hell, Arthur?
+
+CHRC2_H1B_1 = ~z~You get your filthy hands off her right now!
+
+CHRC2_H1_1 = ~z~
+
+CHRC2_H1_2 = ~z~Let go of me.
+
+CHRC2_H1_3 = ~z~I got your little lady friend here. Drop your guns.
+
+CHRC2_H1_4 = ~z~Get off me, you son of a bitch!
+
+CHRC2_H1_5 = ~z~Drop your guns now or I'll blow her pretty head off, I swear to God!
+
+CHRC2_H1_6 = ~z~
+
+CHRC2_H1_7 = ~z~You think I'm playing games here?
+
+CHRC2_H1_8 = ~z~
+
+CHRC2_H2_1 = ~z~Have it your way.
+
+CHRC2_HORSES_1 = ~z~Just don't start acting like you're the lead on this. Like you always do.
+
+CHRC2_HORSES_2 = ~z~Wouldn't dream of it.
+
+CHRC2_INT_1 = ~z~Hey, what's up, big man?
+
+CHRC2_INT_2 = ~z~Not much.
+
+CHRC2_INT_3 = ~z~What're you doing?
+
+CHRC2_INT_4 = ~z~Nothing...
+
+CHRC2_INT_5 = ~z~nothing at all.
+
+CHRC2_INT_6 = ~z~I brought...
+
+CHRC2_INT_7 = ~z~Oh. Hello, Arthur.
+
+CHRC2_INT_8 = ~z~Then what's she doing?
+
+CHRC2_INT_9 = ~z~She's doing nothing too.
+
+CHRC2_INT_10 = ~z~What exactly are you planning?
+
+CHRC2_INT_11 = ~z~Just a little light robbery, Arthur.
+
+CHRC2_INT_12 = ~z~Nothing a serious feller like yourself needs to worry about.
+
+CHRC2_INT_13 = ~z~And you need to get Mary-Beth killed as well as yourself?
+
+CHRC2_INT_14 = ~z~Away with yourself, Arthur Morgan.
+
+CHRC2_INT_15 = ~z~We'll be getting rich, not killed.
+
+CHRC2_INT_16 = ~z~Besides, Arthur...
+
+CHRC2_INT_17 = ~z~I'm so bored I'd rather be shot.
+
+CHRC2_INT_18 = ~z~If you insist.
+
+CHRC2_INT_19 = ~z~I'm in.
+
+CHRC2_INT_20 = ~z~We don't want you in, we got this ourselves.
+
+CHRC2_INT_21 = ~z~I've seen you fight, little feller.
+
+CHRC2_INT_22 = ~z~You can kill any one of us...
+
+CHRC2_INT_23 = ~z~but I ain't letting you take her out robbing.
+
+CHRC2_INT_24 = ~z~Not without an extra gun.
+
+CHRC2_INT_25 = ~z~But she'll be acting, not fighting.
+
+CHRC2_INT_26 = ~z~Sounds good. Come on then, let's go rob this...
+
+CHRC2_INT_27 = ~z~what we robbing?
+
+CHRC2_INT_28 = ~z~A stagecoach some feller told me about.
+
+CHRC2_INT_29 = ~z~Wonderful. Come on, you can tell me more on the ride.
+
+CHRC2_INT_30 = ~z~Where we heading?
+
+CHRC2_INT_31 = ~z~Back up north.
+
+CHRC2_INT_LO_1 = ~z~Hey, it's coming down from Valentine. I know a great spot to set up an ambush.
+
+CHRC2_L2B_1 = ~z~Not exactly what we planned, but a decent take.
+
+CHRC2_L2B_2 = ~z~Like I said it would be. Next time, just leave us to it, okay?
+
+CHRC2_L2B_3 = ~z~We'll divvy it up later, let's split up and meet back at camp.
+
+CHRC2_L2B_4 = ~z~And now you're making off with all the money too?
+
+CHRC2_L2B_5 = ~z~Just go! We don't have time to hang around.
+
+CHRC2_L2B_6 = ~z~Unbelievable.
+
+CHRC2_L2_1 = ~z~That's a nice take. You did good, Sean. You too, Mary-Beth.
+
+CHRC2_L2_2 = ~z~Told you.
+
+CHRC2_L2_3 = ~z~We'll split it later, we better get out of here.
+
+CHRC2_LL_1 = ~z~Hey Sean.
+
+CHRC2_LOOT_DAWD_01 = ~z~Are you getting in that coach then?
+
+CHRC2_LOOT_DAWD_02 = ~z~Let's grab the money and go, Arthur.
+
+CHRC2_LOOT_DAWD_03 = ~z~Come on. Hurry up, before we get the law on us.
+
+CHRC2_LVE_EARLY_1 = ~z~Arthur! Where are you going?
+
+CHRC2_MB_1 = ~z~You alright, Mary-Beth? That was a close one.
+
+CHRC2_MB_2 = ~z~I'm fine. Just remind me to bring a gun next time I go robbing with you two.
+
+CHRC2_MB_RIDE_1 = ~z~I'll see you boys later!
+
+CHRC2_MOUNTUP_01 = ~z~Are you coming or not? Make your mind up.
+
+CHRC2_MOUNTUP_02 = ~z~Are you going to mount up then?
+
+CHRC2_MOUNTUP_03 = ~z~Get moving, or we'll miss it.
+
+CHRC2_P1_1 = ~z~Alright, follow me.
+
+CHRC2_P2_1 = ~z~So, Mary-Beth, like I said... you'll be at the side of the road to flag them down, give them some sob story.
+
+CHRC2_P2_2 = ~z~Yes, of course, easy enough.
+
+CHRC2_P2_3 = ~z~We'll be hiding up above...
+
+CHRC2_P2_4 = ~z~Once they're unawares, I'll put in a few shots to let them know we mean business, then move in fast to hold them up.
+
+CHRC2_P2_5 = ~z~Arthur... I guess you can watch and give us marks out of ten.
+
+CHRC2_P2_6 = ~z~Right now, you're at a one.
+
+CHRC2_P2_7 = ~z~Jesus, can't believe you had to tag along on this just to keep an eye on the girl.
+
+CHRC2_P2_8 = ~z~Remember the crap you gave me for turning up at that train job with Marston and Charles.
+
+CHRC2_P2_9 = ~z~I'm keeping an eye on you, not her. I know she's solid.
+
+CHRC2_P2_10 = ~z~Oh right, very funny.
+
+CHRC2_P2_11 = ~z~Hey, she's probably robbed more folk than both of us put together.
+
+CHRC2_P2_12 = ~z~I wouldn't go quite that far.
+
+CHRC2_P2_13 = ~z~Mary-Beth can pick a pocket faster than you can blink, believe me.
+
+CHRC2_P2_14 = ~z~First time we laid eyes on her... she was being chased by three real angry-looking fellers.
+
+CHRC2_P2_15 = ~z~And we thought... that poor young girl getting picked on like that.
+
+CHRC2_P2_16 = ~z~But she had a bag full of wallets and gold watches.
+
+CHRC2_P2_17 = ~z~Happy memories, I'm sure.
+
+CHRC2_P2_18 = ~z~So while you two write about that in your journals, can we get back to the matter at hand here?
+
+CHRC2_P2_19 = ~z~My job, that I've brought you both in on.
+
+CHRC2_P2_20 = ~z~We're ready, Sean.
+
+CHRC2_P2_21 = ~z~Yes, keep your hair on.
+
+CHRC2_P2_22 = ~z~Constant shite these English give me.
+
+CHRC2_P4_1 = ~z~Should be coming from the North any minute.
+
+CHRC2_P4_2 = ~z~You're up, Mary-Beth.
+
+CHRC2_P4_3 = ~z~Well, alright then.
+
+CHRC2_P4_4 = ~z~You know what you're doing, right?
+
+CHRC2_P4_5 = ~z~Of course she knows what she's doing.
+
+CHRC2_P4_6 = ~z~Soon as the shooting starts, get low and get the hell out of there, okay?
+
+CHRC2_P4_7 = ~z~Of course.
+
+CHRC2_P5_1 = ~z~This way.
+
+CHRC2_P5_2 = ~z~See the road down there, Mary-Beth?
+
+CHRC2_P5_3 = ~z~She ain't blind.
+
+CHRC2_P5_4 = ~z~Come on you two. This is going to be fun.
+
+CHRC2_P7_1 = ~z~Alright, Arthur, me and you will take cover behind that log over there.
+
+CHRC2_P7_2 = ~z~Okay, you're the boss.
+
+CHRC2_S1B_1 = ~z~Shit!
+
+CHRC2_S1_1 = ~z~Here it comes. I'll put in a couple of shots to spook them, like.
+
+CHRC2_S1_2 = ~z~And then, we'll move in.
+
+CHRC2_S1_3 = ~z~You sure about that?
+
+CHRC2_S1_4 = ~z~Your eyes ain't what they used to be, old feller.
+
+CHRC2_S1_5 = ~z~If you say so.
+
+CHRC2_S2_1 = ~z~~sl:0.0:1.3:1~Oh, thank you...
+
+CHRC2_S2_2 = ~z~Hey!
+
+CHRC2_S2_3 = ~z~What's the trouble here, miss?
+
+CHRC2_S2_4 = ~z~~sl:1.2:4.9~Thank God. I seem to have got myself all spun around out here.~sl:0.7~My horse ran off and well...
+
+CHRC2_S2_5 = ~z~~sl:0.0:4.5~I don't know where I am... you must think I'm such a featherbrain...~sl:0.8~what's your name, sir?
+
+CHRC2_S2_6 = ~z~Laurence.
+
+CHRC2_S2_7 = ~z~~sl:0.0:2.0~Oh, Laurence...~sl:1.2~would you gentlemen possibly give me a ride to the nearest town?
+
+CHRC2_S2_8 = ~z~This is a banking stage, miss, we can't be picking up passengers.
+
+CHRC2_S2_9 = ~z~~sl:0.0:3.7~Come on, Harry. Nice young girl like that...~sl:1.8~and I'm sure we can make an exception.
+
+CHRC2_S2_10 = ~z~
+
+CHRC2_S2_STOP1_1 = ~z~Hey, hey, stop please!
+
+CHRC2_S2_STOP_1 = ~z~Hey!
+
+CHRC2_S3B_1 = ~z~I thought you were just threatening him?
+
+CHRC2_S3_1 = ~z~Now'd be a good time.
+
+CHRC2_S3_2 = ~z~Shut up.
+
+CHRC2_SHORTCUT_1 = ~z~Let's cut up here, it'll be quicker.
+
+CHRC2_SHT_EARLY_1 = ~z~For Christ's sake, didn't I say I'd shoot first?
+
+CHRC2_SPLITUP_1 = ~z~I like how you swan into this at the last minute and then make off with all the money.
+
+CHRC2_SPLITUP_2 = ~z~Split up and meet back at camp. Go! We don't have time to hang around.
+
+CHRC2_SPLITUP_3 = ~z~Alright, alright.
+
+CHRC2_THREATN_1 = ~z~They seem threatened to me!
+
+CHRC2_TRG_EARLY_1 = ~z~What are you doing?
+

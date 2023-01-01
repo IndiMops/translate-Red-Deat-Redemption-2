@@ -1,0 +1,48 @@
+0xAF23C439 = Устройте драку с конкурентами.
+
+FETCH_MOONSHINE_BRAWLING_HELP_HONOR_KILL = Один из конкурентов погиб.
+
+FETCH_MOONSHINE_BRAWLING_HELP_HONOR_WARNING = Атакуйте конкурентов, используя кулачный бой, но не убивайте.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_ARMADILLO = Чтобы принести пользу вашему самогонному предприятию, разберитесь с самогонщиками-конкурентами в ~COLOR_MP_OBJECTIVE~салуне Армадилло~s~, но не убивайте их.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_BLACKWATER = Чтобы принести пользу вашему самогонному предприятию, разберитесь с самогонщиками-конкурентами в ~COLOR_MP_OBJECTIVE~салуне Блэкуотера~s~, но не убивайте их.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_PLAYER_ARMADILLO = Чтобы принести пользу самогонному предприятию игрока ~1~, разберитесь с самогонщиками-конкурентами в ~COLOR_MP_OBJECTIVE~салуне Армадилло~s~, но не убивайте их.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_PLAYER_BLACKWATER = Чтобы принести пользу самогонному предприятию игрока ~1~, разберитесь с самогонщиками-конкурентами в ~COLOR_MP_OBJECTIVE~салуне Блэкуотера~s~, но не убивайте их.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_PLAYER_RHODES = Чтобы принести пользу самогонному предприятию игрока ~1~, разберитесь с самогонщиками-конкурентами в ~COLOR_MP_OBJECTIVE~публичном доме Роудса~s~, но не убивайте их.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_PLAYER_SAINT_DENIS = Чтобы принести пользу самогонному предприятию игрока ~1~, разберитесь с самогонщиками-конкурентами в ~COLOR_MP_OBJECTIVE~салуне «Бастилия»~s~, но не убивайте их.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_PLAYER_TUMBLEWEED = Чтобы принести пользу самогонному предприятию игрока ~1~, разберитесь с самогонщиками-конкурентами в ~COLOR_MP_OBJECTIVE~салуне Тамблвида~s~, но не убивайте их.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_PLAYER_VALENTINE = Чтобы принести пользу самогонному предприятию игрока ~1~, разберитесь с самогонщиками-конкурентами в ~COLOR_MP_OBJECTIVE~салуне Смитфилда~s~, но не убивайте их.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_PLAYER_VAN_HORN = Чтобы принести пользу самогонному предприятию игрока ~1~, разберитесь с самогонщиками-конкурентами в ~COLOR_MP_OBJECTIVE~салуне «Старый маяк»~s~, но не убивайте их.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_RHODES = Чтобы принести пользу вашему самогонному предприятию, разберитесь с самогонщиками-конкурентами в ~COLOR_MP_OBJECTIVE~публичном доме Роудса~s~, но не убивайте их.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_SAINT_DENIS = Чтобы принести пользу вашему самогонному предприятию, разберитесь с самогонщиками-конкурентами в ~COLOR_MP_OBJECTIVE~салуне «Бастилия»~s~, но не убивайте их.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_TUMBLEWEED = Чтобы принести пользу вашему самогонному предприятию, разберитесь с самогонщиками-конкурентами в ~COLOR_MP_OBJECTIVE~салуне Тамблвида~s~, но не убивайте их.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_VALENTINE = Чтобы принести пользу вашему самогонному предприятию, разберитесь с самогонщиками-конкурентами в ~COLOR_MP_OBJECTIVE~салуне Смитфилда~s~, но не убивайте их.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_VAN_HORN = Чтобы принести пользу вашему самогонному предприятию, разберитесь с самогонщиками-конкурентами в ~COLOR_MP_OBJECTIVE~салуне «Старый маяк»~s~, но не убивайте их.
+
+FETCH_MOONSHINE_BRAWLING_OBJ_DESTROY = Устройте драку с ~COLOR_ENEMY~конкурентами~s~.
+
+FETCH_MOONSHINE_BRAWLING_OBJ_GOTO = Направляйтесь ~1~.
+
+FETCH_MOONSHINE_BRAWLING_OBJ_KILL_ATTACKERS = Убейте ~COLOR_ENEMY~главаря~s~.
+
+FETCH_MOONSHINE_BRAWLING_SHARD_DESC_PRIMARY = Устройте драку с конкурентами
+
+FETCH_MOONSHINE_BRAWLING_SHARD_FAIL_ENTITY_KILLED = Слишком много конкурентов погибло
+
+FETCH_MOONSHINE_BRAWLING_SHARD_OVER_ABANDON = Время истекло
+
+FETCH_MOONSHINE_BRAWLING_SHARD_PRIMARY_PASS = Все конкуренты побеждены
+

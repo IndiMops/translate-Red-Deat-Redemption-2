@@ -1,0 +1,202 @@
+0x0595E05B = Toggle Photo Review On
+
+0x3B5BF5AD = Alternative
+
+0x3D521F4E = Remove Tripod
+
+0x3E4C2152 = You cannot use the camera while on a horse.
+
+0x7A7A3C9C = Dof
+
+0x54AB195C = Switch Mode
+
+0x560FAB1C = Game
+
+0x632B85AD = Roll
+
+0x35882A53 = Filter
+
+0x78875C57 = Place Tripod
+
+0x81194C23 = Toggle Photo Review Off
+
+0x98843004 = Vintage
+
+ADV_CAM_FILTERS = Filters
+
+ADV_CAM_POSES = Poses
+
+CAM_BACK = Back
+
+CAM_EXPRESSIONS = Expression
+
+CAM_FILTER = Change Filter
+
+CAM_FOCUS_LOCK = Focus Lock
+
+CAM_FOCUS_LOCKD = Disable Focus Lock
+
+CAM_FOCUS_LOCKE = Enable Focus Lock
+
+CAM_GALLERY = View Photos
+
+CAM_HANDHELD = Handheld
+
+CAM_INTENSITY = Change Intensity
+
+CAM_PM_APERTURE = Blur Strength
+
+CAM_PM_A_MODE = Advanced
+
+CAM_PM_B_MODE = Basic
+
+CAM_PM_CAMERA = Camera
+
+CAM_PM_CONTRAST = Contrast
+
+CAM_PM_DOF = Depth Of Field
+
+CAM_PM_EXPOLOCK = Lock Exposure
+
+CAM_PM_EXPOSURE = Exposure
+
+CAM_PM_E_MODE = Effects
+
+CAM_PM_FILINTENS = Filter Intensity
+
+CAM_PM_FILTERS = Filters
+
+CAM_PM_FOCLENGTH = Focus Distance
+
+CAM_PM_F_M1 = Red Pass
+
+CAM_PM_F_M2 = Yellow Pass
+
+CAM_PM_F_M3 = Blue Pass
+
+CAM_PM_F_M4 = Two-Strip
+
+CAM_PM_F_M5 = Bleach Bypass
+
+CAM_PM_F_M6 = Post-Apocalyptic
+
+CAM_PM_F_M7 = Noir
+
+CAM_PM_F_M8 = Battlefield
+
+CAM_PM_F_M9 = Western
+
+CAM_PM_F_M10 = Charcoal
+
+CAM_PM_F_S1 = Game Fail
+
+CAM_PM_F_S2 = Health Tonic
+
+CAM_PM_F_S3 = Dishonorable
+
+CAM_PM_F_S4 = Honorable
+
+CAM_PM_F_S5 = Injured
+
+CAM_PM_F_S6 = Pause Menu
+
+CAM_PM_F_S7 = Guarma
+
+CAM_PM_F_S8 = Predator
+
+CAM_PM_F_S9 = Eagle Eye
+
+CAM_PM_F_S10 = Spectator Cam
+
+CAM_PM_F_S11 = Dead Eye
+
+CAM_PM_F_S12 = Drunk
+
+CAM_PM_F_S13 = Kill Cam
+
+CAM_PM_F_S14 = Dead Eye Core
+
+CAM_PM_F_S15 = Health Core
+
+CAM_PM_F_S16 = Stamina Core
+
+CAM_PM_F_S17 = Weapon Wheel
+
+CAM_PM_F_S18 = End Credits
+
+CAM_PM_F_V0 = None
+
+CAM_PM_F_V1 = Daguerrotype
+
+CAM_PM_F_V2 = Calotype Negative
+
+CAM_PM_F_V3 = Tintype
+
+CAM_PM_F_V4 = Woodburytype
+
+CAM_PM_F_V5 = Carbon Print
+
+CAM_PM_F_V6 = Silver Gelatin
+
+CAM_PM_F_V7 = Platinum Print
+
+CAM_PM_F_V8 = Cyanotype
+
+CAM_PM_F_V9 = Photogravure
+
+CAM_PM_F_V10 = Gum Bichromate
+
+CAM_PM_HEIGHT = Height
+
+CAM_PM_HUD_BLUR = Blur Strength
+
+CAM_PM_HUD_CONTRAST = Contrast
+
+CAM_PM_HUD_EXLOCKOFF = Exposure Lock: Off
+
+CAM_PM_HUD_EXLOCKON = Exposure Lock: On
+
+CAM_PM_HUD_EXPOSURE = Exposure
+
+CAM_PM_HUD_FILTINTEN = Intensity
+
+CAM_PM_HUD_FILTSTYLE = Filter
+
+CAM_PM_HUD_FOCDIST = Focus Distance
+
+CAM_PM_HUD_LENS = Lens
+
+CAM_PM_HUD_TOGGLE = HUD
+
+CAM_PM_IN_FREE = Camera: Free
+
+CAM_PM_IN_ORBIT = Camera: Orbit
+
+CAM_PM_MOVEMENT = Movement
+
+CAM_PM_ORBIT_TOGGLE = Orbit / Free Cam
+
+CAM_PM_RESET = Reset
+
+CAM_PM_ROTATE = Roll
+
+CAM_PM_S_LENS = Lens
+
+CAM_PM_ZOOM = Zoom
+
+CAM_POSES = Pose
+
+CAM_PUT_AWAY = Put Away
+
+CAM_SAVE_PHOTO = Save Photo
+
+CAM_SELFIE = Self Portrait
+
+CAM_SNAP = Press ~INPUT_CONTEXT_RT~ to take a photograph.
+
+CAM_TAKE_PHOTO = Take Photo
+
+CAM_VEH = You cannot use the camera while on a vehicle.
+
+CAM_ZOOM = Zoom
+

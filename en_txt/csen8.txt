@@ -1,0 +1,8 @@
+CSEN8_A_1 = ~z~Nothing going on out here, Arthur.
+
+CSEN8_A_2 = ~z~Good.
+
+CSEN8_B_1 = ~z~Hey. Send one of them girls down when you get the chance, would you?
+
+CSEN8_B_2 = ~z~Shut up.
+

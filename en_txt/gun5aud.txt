@@ -1,0 +1,368 @@
+GUN5_S1_EXT_1 = ~z~Okay, I got it.
+
+GUN5_S1_EXT_2 = ~z~Then I guess I'll be on my way.
+
+GUN5_S1_EXT_3 = ~z~Thank you, Mrs. Belle.
+
+GUN5_S1_EXT_4 = ~z~You gonna be alright?
+
+GUN5_S1_EXT_5 = ~z~Been running for twenty years...
+
+GUN5_S1_EXT_6 = ~z~suppose I'll be running till I drop.
+
+GUN5_S1_EXT_7 = ~z~Just the way it is.
+
+GUN5_S1_EXT_8 = ~z~Good luck.
+
+GUN5_S1_EXT_9 = ~z~Okay, I got it.
+
+GUN5_S1_EXT_10 = ~z~Here.
+
+GUN5_S1_EXT_11 = ~z~Well thank you, Mrs. Belle.
+
+GUN5_S1_EXT_12 = ~z~You gonna be alright?
+
+GUN5_S1_EXT_13 = ~z~Yeah.
+
+GUN5_S1_EXT_14 = ~z~Good luck.
+
+GUN5_S1_IG3_P1A_1 = ~z~How do you want me? Like this?
+
+GUN5_S1_IG3_P2A_1 = ~z~I ain't sure.
+
+GUN5_S1_IG3_P2A_2 = ~z~How about this, then?
+
+GUN5_S1_IG3_P2J_1 = ~z~~sl:1.5:0.0~I ain't sure.
+
+GUN5_S1_IG3_P2J_2 = ~z~How about this, then?
+
+GUN5_S1_IG3_P3A_1 = ~z~Any other ideas?
+
+GUN5_S1_IG3_P3A_2 = ~z~I can do this?
+
+GUN5_S1_IG3_P3J_1 = ~z~Any other ideas?
+
+GUN5_S1_IG3_P3J_2 = ~z~I can do this?
+
+GUN5_S1_IG3_P4A_1 = ~z~Uhh... wh-what was you doing before?
+
+GUN5_S1_IG3_P4J_1 = ~z~~sl:0.5:0.0~What... what was you doing before?
+
+GUN5_S1_INT_1 = ~z~You there.
+
+GUN5_S1_INT_2 = ~z~Hello.
+
+GUN5_S1_INT_3 = ~z~You a bounty hunter?
+
+GUN5_S1_INT_4 = ~z~Not right now, I ain't.
+
+GUN5_S1_INT_5 = ~z~You Black Belle?
+
+GUN5_S1_INT_6 = ~z~I'd like to talk to you about your Wild West days.
+
+GUN5_S1_INT_7 = ~z~I don't care much for reminiscing.
+
+GUN5_S1_INT_8 = ~z~You got any friends is bounty hunters?
+
+GUN5_S1_INT_9 = ~z~None that springs to mind.
+
+GUN5_S1_INT_10 = ~z~Well then you done lead them boys here...
+
+GUN5_S1_INT_11 = ~z~and you none the wiser.
+
+GUN5_S1_INT_12 = ~z~Oh...
+
+GUN5_S1_INT_13 = ~z~those bounty hunters.
+
+GUN5_S1_INT_14 = ~z~Knew my luck'd run out sooner or sooner.
+
+GUN5_S1_INT_15 = ~z~Just go inside, I'll tell 'em you're gone.
+
+GUN5_S1_INT_16 = ~z~Oh, no, no...
+
+GUN5_S1_INT_17 = ~z~I ain't hiding from them scalp hunters...
+
+GUN5_S1_INT_18 = ~z~not running from 'em neither.
+
+GUN5_S1_INT_19 = ~z~And fighting...
+
+GUN5_S1_INT_20 = ~z~well, if it's just me against them...
+
+GUN5_S1_INT_21 = ~z~that'd be a waste of time, and nitro-glycerine.
+
+GUN5_S1_INT_22 = ~z~Let me know what I can do.
+
+GUN5_S1_INT_23 = ~z~You want that Wild West story, don't you?
+
+GUN5_S1_INT_24 = ~z~Yes I do.
+
+GUN5_S1_INT_25 = ~z~Alright, get up here quick.
+
+GUN5_S1_INT_26 = ~z~Now when I give you the word, hit that.
+
+GUN5_S1_INT_27 = ~z~Whole place is wired.
+
+GUN5_S1_INT_28 = ~z~Black Belle!
+
+GUN5_S1_INT_29 = ~z~I got a contract here...
+
+GUN5_S1_INT_30 = ~z~for your life or your liberty...
+
+GUN5_S1_INT_31 = ~z~and we'd sooner it be liberty.
+
+GUN5_S1_INT_32 = ~z~That's mighty reasonable, mister.
+
+GUN5_S1_INT_33 = ~z~Come here, let me take a look at it.
+
+GUN5_S1_INT_34 = ~z~Woah... hello.
+
+GUN5_S1_INT_35 = ~z~Not right now I ain't.
+
+GUN5_S1_INT_36 = ~z~You Black Belle?
+
+GUN5_S1_INT_37 = ~z~I'd like to talk to you about your Wild West days.
+
+GUN5_S1_INT_38 = ~z~None that spring to mind.
+
+GUN5_S1_INT_39 = ~z~Ah, those bounty hunters.
+
+GUN5_S1_INT_40 = ~z~Well, get inside. I'll tell 'em you're gone.
+
+GUN5_S1_INT_41 = ~z~Well, let me know what I can do.
+
+GUN5_S1_INT_42 = ~z~Yes, I do.
+
+GUN5_S1_INT_LIA_1 = ~z~You there.
+
+GUN5_S1_INT_LIA_2 = ~z~~sl:0.5:0.0~Hello?
+
+GUN5_S1_INT_LIA_3 = ~z~You a bounty hunter?
+
+GUN5_S1_INT_LIA_4 = ~z~Not right now, I ain't.
+
+GUN5_S1_INT_LIJ_1 = ~z~You there.
+
+GUN5_S1_INT_LIJ_2 = ~z~Hello?
+
+GUN5_S1_INT_LIJ_3 = ~z~You a bounty hunter?
+
+GUN5_S1_INT_LIJ_4 = ~z~Not right now, I ain't.
+
+GUN5_S1_MCS1_1 = ~z~Whew!
+
+GUN5_S1_MCS1_2 = ~z~Is that the last of 'em?
+
+GUN5_S1_MCS1_3 = ~z~Yeah...
+
+GUN5_S1_MCS1_4 = ~z~got them scalp hunters off your back.
+
+GUN5_S1_MCS1_5 = ~z~For now.
+
+GUN5_S1_MCS1_6 = ~z~For now.
+
+GUN5_S1_MCS1_7 = ~z~So, you gonna tell me about your Wild West days?
+
+GUN5_S1_MCS1_8 = ~z~Running with Jim 'Boy' Calloway.
+
+GUN5_S1_MCS1_9 = ~z~Little Boy Calloway?
+
+GUN5_S1_MCS1_10 = ~z~The only running he did was away from a fight...
+
+GUN5_S1_MCS1_11 = ~z~and that's about the end of it.
+
+GUN5_S1_MCS1_12 = ~z~He's apparently a famous gunslinger.
+
+GUN5_S1_MCS1_13 = ~z~Yeah, so they say.
+
+GUN5_S1_MCS1_14 = ~z~But uh... don't get what's famous confused with what's true.
+
+GUN5_S1_MCS1_15 = ~z~The ones of us that lived that life we was...
+
+GUN5_S1_MCS1_16 = ~z~too busy being scared for our scalp to...
+
+GUN5_S1_MCS1_17 = ~z~talk to no newspaper writers or dime novel men.
+
+GUN5_S1_MCS1_18 = ~z~What were they like then?
+
+GUN5_S1_MCS1_19 = ~z~Them days they all talk about.
+
+GUN5_S1_MCS1_20 = ~z~Same as now, I guess.
+
+GUN5_S1_MCS1_21 = ~z~Only longer ago.
+
+GUN5_S1_MCS1_22 = ~z~I guess so.
+
+GUN5_S1_MCS1_23 = ~z~I'm gonna need to get a photograph of you...
+
+GUN5_S1_MCS1_24 = ~z~if it ain't too much of a trouble.
+
+GUN5_S1_MCS1_25 = ~z~No sir, no trouble at all.
+
+GUN5_S1_MCS1_26 = ~z~Can't be worse than those awful drawings on the wanted posters.
+
+GUN5_S1_MCS1_27 = ~z~Great.
+
+GUN5_S1_MCS1_28 = ~z~You uh, stay there...
+
+GUN5_S1_MCS1_29 = ~z~I'll get this thing figured out.
+
+GUN5_S1_MCS1_30 = ~z~Uh... ready?
+
+GUN5_S1_MCS1_31 = ~z~Yeah...
+
+GUN5_S1_MCS1_32 = ~z~you got them scalp hunters off your back.
+
+GUN5_S1_MCS1_33 = ~z~For now.
+
+GUN5_S1_MCS1_34 = ~z~So, you gonna tell me about your Wild West days?
+
+GUN5_S1_MCS1_35 = ~z~Running with Jim 'Boy' Calloway.
+
+GUN5_S1_MCS1_36 = ~z~Well, the man's apparently a famous gunslinger.
+
+GUN5_S1_MCS1_37 = ~z~Well, what were they like then?
+
+GUN5_S1_MCS1_38 = ~z~Those days they all talk about.
+
+GUN5_S1_MCS1_39 = ~z~Alright.
+
+GUN5_S1_MCS1_40 = ~z~I'm gonna need your picture too, if it ain't a trouble?
+
+GUN5_S1_MCS1_41 = ~z~Great.
+
+GUN5_S1_MCS1_42 = ~z~Well, you stand over there and, well...
+
+GUN5_S1_MCS1_43 = ~z~let me... get this thing ready.
+
+GUN5_SETITOFF_01 = ~z~Hit the plunger!
+
+GUN5_SETITOFF_02 = ~z~Come on, man. Detonate!
+
+GUN5_SETITOFF_03 = ~z~Blast them! Come on, man.
+
+GUN5_TUT_DETA_1 = ~z~Now let's shoot these sons of bitches!
+
+RGUN5_ATTACK_01 = ~z~Get those sons of bitches!
+
+RGUN5_ATTACK_02 = ~z~Hey! You're meant to be saving this helpless old widow! Get to it!
+
+RGUN5_ATTACK_03 = ~z~You ain't done 'til they're all damn floating!
+
+RGUN5_ATTACK_04 = ~z~I want less looking pretty and more killing, thank you.
+
+RGUN5_CHAT1A_1 = ~z~Lady, I can't see you much in need of my help.
+
+RGUN5_CHAT1A_2 = ~z~Sugar, that's sweet. You're lucky I'm all married out.
+
+RGUN5_CHAT1J_1 = ~z~Lady, I can't see you much in need of my help.
+
+RGUN5_CHAT1J_2 = ~z~Sugar, that's sweet. You're lucky I'm all married out.
+
+RGUN5_CHAT2A_1 = ~z~There's going to be some price on me when all this is done...
+
+RGUN5_CHAT2A_2 = ~z~The price don't matter if it's idiots chasing it.
+
+RGUN5_CHAT2A_3 = ~z~At a certain price you don't get idiots.
+
+RGUN5_CHAT2J_1 = ~z~There's going to be some price on me when all this is done...
+
+RGUN5_CHAT2J_2 = ~z~The price don't matter if it's idiots chasing it.
+
+RGUN5_CHAT2J_3 = ~z~At a certain price you don't get idiots.
+
+RGUN5_COMEON_1 = ~z~~sl:0.0:1.0~Come on.~sl:2.1:2.1~Oh, come on.~sl:1.5~Stop just there!
+
+RGUN5_CONGRATS_01 = ~z~It's raining bounty hunter!
+
+RGUN5_CONGRATS_02 = ~z~I think I got some of your friend on my face!
+
+RGUN5_CONGRATS_03 = ~z~Smell that? Cooked meat!
+
+RGUN5_CONGRATS_04 = ~z~He's going home in a wet sack!
+
+RGUN5_DET2_01 = ~z~No prizes for guessing what the plunger does!
+
+RGUN5_DET2_02 = ~z~You gonna blow 'em up or what? Hit that thing.
+
+RGUN5_DET_01 = ~z~We're rigged here too, blow 'em to chunks!
+
+RGUN5_DET_02 = ~z~Hit that plunger you want to see them fly!
+
+RGUN5_FINAL_01 = ~z~Don't rest too long! More coming down the road.
+
+RGUN5_FINAL_02 = ~z~It ain't over yet.  I guess their friends heard the hubbub!
+
+RGUN5_GAT_01 = ~z~They was expecting a fight, alright. They brought a Gatling gun!
+
+RGUN5_GAT_02 = ~z~See there... a Gatling... that's a gun you fight an army with... not a goddamn widow!
+
+RGUN5_GAT_ATT_01 = ~z~You got a shot on the feller on the crank?
+
+RGUN5_GAT_ATT_02 = ~z~They keep firing like that, one of us is getting hit!
+
+RGUN5_GAT_ATT_03 = ~z~Hey! Take out the boy on the back of that truck.
+
+RGUN5_GAT_ATT_04 = ~z~Get him before the whole cabin turns to chip!
+
+RGUN5_GAT_FIRE_01 = ~z~Here we go again.
+
+RGUN5_GAT_FIRE_02 = ~z~Just as I was getting my hearing back...
+
+RGUN5_GAT_KILL_01 = ~z~Alright, I can breathe again!
+
+RGUN5_GAT_KILL_02 = ~z~Finally, some peace and quiet.
+
+RGUN5_GAT_WARN_01 = ~z~That one! He's going for the Gatling!
+
+RGUN5_GAT_WARN_02 = ~z~That boy's gonna get on the Gatling gun!
+
+RGUN5_NORTH_01 = ~z~Back to the front, more riders!
+
+RGUN5_NORTH_02 = ~z~They coming back around the front!
+
+RGUN5_PHOTODAWD_01 = ~z~Well, take it already.
+
+RGUN5_PHOTODAWD_02 = ~z~We waiting for more of 'em? Take a damn photograph.
+
+RGUN5_PHOTODAWD_03 = ~z~It's a good thing you're quicker with a gun. Come on!
+
+RGUN5_PHOTODAWD_04 = ~z~I'm getting real tired of this.
+
+RGUN5_POST_EXPL_1 = ~z~There goes your contract.
+
+RGUN5_POST_EXPL_2 = ~z~Now let's shoot these sons of bitches.
+
+RGUN5_RC2_IG1_A_1 = ~z~Now... set it off!
+
+RGUN5_RC2_IG1_B_1 = ~z~Some use you are!
+
+RGUN5_RC2_IG1_C_1 = ~z~There goes your contract!
+
+RGUN5_RUN_01 = ~z~Hey, where you going?
+
+RGUN5_RUN_02 = ~z~You want to die in the mud? Get back here!
+
+RGUN5_RUN_03 = ~z~Don't be a fool, come back up here!
+
+RGUN5_RUN_04 = ~z~Hey! Let's hold the high ground!
+
+RGUN5_SHOOT2_01 = ~z~Keep shooting!
+
+RGUN5_SHOOT2_02 = ~z~I hope your gun's hot, boy!
+
+RGUN5_SHOOT2_03 = ~z~This ain't the time to save your bullets!
+
+RGUN5_SHOOT2_04 = ~z~No one likes a bounty hunter, come on!
+
+RGUN5_SHOOT2_05 = ~z~Can't you hit that trigger any quicker?
+
+RGUN5_SHOOT2_06 = ~z~I hope you can shoot!
+
+RGUN5_SHOOT2_07 = ~z~Am I gonna have to kill all of them? Get 'em!
+
+RGUN5_SHOOT2_08 = ~z~Make yourself useful and shoot somebody!
+
+RGUN5_SIDE_01 = ~z~Hey, look! They're trying flank us!
+
+RGUN5_SIDE_02 = ~z~Over here,  they're rushing us from the side!
+

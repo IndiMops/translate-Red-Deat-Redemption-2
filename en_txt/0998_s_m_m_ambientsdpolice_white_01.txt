@@ -1,0 +1,156 @@
+0x039F0EE0 = ~z~Goddamn it, you're coming with me.
+
+0x04564658 = ~z~You get out now before I make you.
+
+0x070966BE = ~z~Come on, hands in the air.
+
+0x0DEDDA7C = ~z~Get going. I don't wanna see you round here again.
+
+0x0ED4AA91 = ~z~Back up a bit, will you?
+
+0x1D9183E5 = ~z~Come on, don't be stupid. Give yourself up.
+
+0x1DC2D664 = ~z~Okay, no need for hysterics. Just come on with me.
+
+0x5A8F28D7 = ~z~I said knock it off.
+
+0x5B130CC6 = ~z~Whoa, whoa, whoa, whoa. Hang on partner, gonna need you to stay put.
+
+0x5B401507 = ~z~Alright, but I'll be watching you.
+
+0x5FBFC5B0 = ~z~You don't know what happened here, do you?
+
+0x6A25F4BF = ~z~Just what the hell do you think you're doing here?
+
+0x6AC79C3D = ~z~Get that gun out of my face.
+
+0x6BDDFFD6 = ~z~Hey now, let me take a look at ya.
+
+0x6CE1CF15 = ~z~I don't take kindly to disrespect.
+
+0x6F575682 = ~z~Is there any reason you're still here?
+
+0x6F700953 = ~z~You don't want to fight me. I mean it.
+
+0x7AAA6AA6 = ~z~What's your problem with the law?
+
+0x8DBFE440 = ~z~If you turn yourself in now, I won't have to hurt ya.
+
+0x8FC0D9B0 = ~z~Watch where you're going.
+
+0x9B13C46E = ~z~How about we end this now?
+
+0x23F80220 = ~z~Hey. Careful there.
+
+0x46C10CAD = ~z~Now, now, now, now, now. We don't treat folk like that here in Saint Denis.
+
+0x49DB69A5 = ~z~Hey, what do you think you're doing?
+
+0x69B1B1EA = ~z~Well, okay then. Just stay out of trouble.
+
+0x72DBF711 = ~z~You should consider leaving. Now.
+
+0x78FC38A6 = ~z~Put that damn gun down.
+
+0x80EE79B0 = ~z~It's awful weird you're still hanging around here.
+
+0x320AD377 = ~z~They're over there. Start shooting til there's nothing left.
+
+0x449D7EE7 = ~z~Get that bastard!
+
+0x495D1A5B = ~z~That's it, I'm bringing you in now.
+
+0x922E7D06 = ~z~Get those hands where I can see 'em.
+
+0x935FB0DE = ~z~Stop that. Now.
+
+0x3662EE4A = ~z~Something about that face tells me you did it.
+
+0x3703FD3E = ~z~I'm ready to pull this trigger.
+
+0x5179A924 = ~z~What's happened here? Any idea?
+
+0x5652ABD0 = ~z~Enough of that. Now where's your sense of decency?
+
+0x13654E3E = ~z~You hear me, fool? Get those hands up now.
+
+0x413603F0 = ~z~You look like a guilty son of a bitch.
+
+0x60955064 = ~z~You're dead, you hear me? Dead.
+
+0x81149382 = ~z~Why don't you leave now before this gets any worse for you?
+
+0x85211461 = ~z~Whoa. What the hell are you doing?
+
+0xA5ED28B9 = ~z~You better knock this off before you find yourself cuffed to a cell.
+
+0xA141FDD5 = ~z~I lost count how many decent people been killed on my patch of late. Now, what would you know about that?
+
+0xAA5FBF1A = ~z~One more step and it's your funeral.
+
+0xACCC2C28 = ~z~You surrender now, and I'll personally put a pillow and blanket in your cell.
+
+0xB1D33A39 = ~z~Not so fast. I've got some words for you.
+
+0xBC3120DB = ~z~Well, sure.
+
+0xC009CA83 = ~z~Get outta my way.
+
+0xC6F11990 = ~z~Ugh, you're too sick to be walking about.
+
+0xC9593A2F = ~z~How hard is it to put your goddamn hands up?
+
+0xC84178A7 = ~z~Oh, have a heart, will ya?
+
+0xCC00B2E1 = ~z~Now I don't want trouble, I just want you to come with me.
+
+0xCDE81254 = ~z~Don't take another step.
+
+0xCE7381F6 = ~z~Mm-hmm. You sure there's nothing you wanna tell me?
+
+0xCFAC8F42 = ~z~Get off now.
+
+0xCFAE7356 = ~z~First one to kill him gets a drink on me.
+
+0xD783A4B5 = ~z~Come on, somebody hit this fool already!
+
+0xDC1F76E0 = ~z~Keep those legs moving now.
+
+0xDD2D9BC7 = ~z~What's going on? Is there a party I wasn't invited to?
+
+0xDD454DF9 = ~z~No. Don't do it.
+
+0xDF086D57 = ~z~Put those damn hands up or you're eating lead.
+
+0xE006251B = ~z~You don't know anything? You sure?
+
+0xE1C5BAE2 = ~z~You'd better watch that mouth of yours.
+
+0xE4A23FC8 = ~z~Hold it right there.
+
+0xE8A88093 = ~z~Get those hands up now or I'll shoot your head off.
+
+0xE9BBCCE3 = ~z~I told you not to move.
+
+0xEF273B2C = ~z~Go ahead, keep it up.
+
+0xF1B5AB90 = ~z~What? You never seen a handsome officer of the law before?
+
+0xF4B28282 = ~z~What's with the tailing?
+
+0xF305D56E = ~z~That's them. Let's bring 'em down.
+
+0xF3855E61 = ~z~I should fine you for saying that.
+
+0xF494537E = ~z~Stay put or I'm filling you with bullets.
+
+0xF801696E = ~z~I said stay where you are.
+
+0xF8133209 = ~z~I ain't wasting any more time with you.
+
+0xFC1F205A = ~z~Hey pal, not so fast, let me see ya.
+
+0xFC5228FB = ~z~I'll get you for this.
+
+0xFF95B3EF = ~z~Mind if I ask what you're doing here?
+

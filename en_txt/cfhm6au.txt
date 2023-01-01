@@ -1,0 +1,38 @@
+CFHM6_ACT_3 = ~z~~sl:0.0:2.0:1~You know, I miss my wife.
+
+CFHM6_ACT_4 = ~z~~sl:0.0:1.1~Since she was...~sl:0.4~taken from me, I miss her every day.
+
+CFHM6_ACT_5 = ~z~She's what I think about when I wake up.
+
+CFHM6_ACT_6 = ~z~And what I'm still thinking about when I go to sleep.
+
+CFHM6_ACT_7 = ~z~~sl:0.0:1.0~Confuses me...~sl:1.4~confuses me no end.
+
+CFHM6_ACT_8 = ~z~How a wretched sinner like me...
+
+CFHM6_ACT_9 = ~z~~sl:0.0:2.0~could be given someone so perfect,~sl:0.1~so beautiful to take care of...
+
+CFHM6_ACT_10 = ~z~~sl:0.0:1.6~for once in my wretched life,~sl:0.1~do my best.
+
+CFHM6_ACT_11 = ~z~~sl:0.0:1.3~And then she dies...~sl:1.4~and I live on.
+
+CFHM6_ACT_12 = ~z~Well, at least for now.
+
+CFHM6_ACT_13 = ~z~She's been gone many years.
+
+CFHM6_ACT_14 = ~z~~sl:0.0:3.6~All them years I was given and she was not,~sl:0.1~and we're expected to believe in judgement?
+
+CFHM6_ACT_15 = ~z~~sl:0.0:1.5~What kind of a judge would...~sl:0.3~save me and take her?
+
+CFHM6_ACT_16 = ~z~~sl:0.0:0.8~A foolish one,~sl:0.1~I can't respect any more than I can respect myself.
+
+CFHM6_ACT_17 = ~z~I miss her so!
+
+CFHM6_ACT_18 = ~z~~sl:0.0:2.9~Forgive me for being so maudlin but...~sl:0.7~it's a fact.
+
+CFHM6_ACT_19 = ~z~~sl:0.0:0.7~I know we all of us~sl:0.1~seen more death than life these past few months but...
+
+CFHM6_ACT_20 = ~z~~sl:0.0:1.0~well...~sl:1.5~sometimes the unfairness of it all confuses me.
+
+CFHM6_ACT_21 = ~z~
+

@@ -1,0 +1,100 @@
+0x5BC2BF91 = Return to the ~o~Pit boss~s~
+
+0x55794A24 = Catch up with the ~o~Pit boss~s~
+
+IND3_COACH = Enter
+
+IND3_COACH_ILO = Coach
+
+IND3_FAIL_BARB = You attacked the barber.
+
+IND3_FAIL_BOAT = You jumped overboard.
+
+IND3_FAIL_COAC = You attacked the coach driver.
+
+IND3_FAIL_DOCK = The guards were attacked.
+
+IND3_FAIL_HORS = You injured the coach's horse.
+
+IND3_FAIL_PB = The pit boss alerted the guards.
+
+IND3_FAIL_POKE = You let Desmond win.
+
+IND3_FAIL_PUSH = You were spotted pushing someone off the boat.
+
+IND3_FAIL_ROOM = The guards caught you.
+
+IND3_FAIL_SPKBRB = You spooked the barber.
+
+IND3_FAIL_SPKCOACH = You spooked the coach driver.
+
+IND3_FAIL_SPKTLR = You spooked the tailor.
+
+IND3_FAIL_SUIT = Arthur's suit was ruined.
+
+IND3_FAIL_TAIL = You attacked the tailor.
+
+IND3_FAIL_TILL = You robbed the tailors.
+
+IND3_HLP_ALL = Strauss is signalling to go all in.
+
+IND3_HLP_BET = Strauss is signalling to keep betting.
+
+IND3_HLP_CUT = Strauss knows the hands that will be dealt. Follow his instructions while playing poker.
+
+IND3_HLP_FOLD = Strauss is signalling to fold.
+
+IND3_HLP_GUNS = You don't currently have your gunbelt or Satchel.
+
+IND3_OBJ_BARBER = Follow ~o~Trelawny~s~ to the barbers
+
+IND3_OBJ_COACH = Get in the ~o~coach~s~
+
+IND3_OBJ_DISARM = Disarm the ~e~Pit boss~s~
+
+IND3_OBJ_DOCKS = Follow ~o~Trelawny~s~ to the docks
+
+IND3_OBJ_ESCAPE = Escape the ~o~riverboat~s~
+
+IND3_OBJ_FOLLOW = Follow the ~o~Pit boss~s~ to the safe room
+
+IND3_OBJ_GO = Go to ~o~Trelawny~s~
+
+IND3_OBJ_GO_TAXI = Board the ~o~riverboat~s~
+
+IND3_OBJ_KILL = Take out the ~e~guards~s~
+
+IND3_OBJ_PKR1 = Follow Strauss' instructions while playing poker
+
+IND3_OBJ_PKR2 = Cause Desmond to go bust in poker
+
+IND3_OBJ_PKR3 = Win the Reutlinger pocket watch in poker
+
+IND3_OBJ_PLAY_GAME = Sit at the ~o~poker table~s~
+
+IND3_OBJ_RETURN = Follow ~o~Javier~s~
+
+IND3_OBJ_RIDE = Ride in the coach~s~
+
+IND3_OBJ_ROB_SAFE = Loot the ~o~safe~s~
+
+IND3_OBJ_SHAVE = Style your hair or beard at the ~o~barbers~s~
+
+IND3_OBJ_SUIT = Buy the Fine Three-Piece Town Suit from the ~o~tailor~s~
+
+IND3_OBJ_SWIM = Swim back to ~o~land~s~
+
+IND3_OBJ_TAILOR = Follow ~o~Trelawny~s~ into the tailors
+
+IND3_PB_FAIL = The Pit boss was abandoned.
+
+IND3_PITBOSS = Pit Boss
+
+IND3_SAFE = Safe
+
+IND3_UC_DIS = Disarm
+
+IND3_UC_PLAY = Play poker
+
+IND3_UC_SAFE = Loot
+

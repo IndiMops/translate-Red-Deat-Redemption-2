@@ -1,0 +1,192 @@
+0x038E2A15 = ~z~I'm warning you. Get off this ranch.
+
+0x0415D4E3 = ~z~Something wrong with you?  I told you to go.
+
+0x064ACC6D = ~z~Okay, take it
+
+0x06C358C3 = ~z~You best move.
+
+0x0F856FE4 = ~z~You the cause of this?
+
+0x1B60C0B1 = ~z~All I got is this here land.
+
+0x1D1C0B11 = ~z~I reckon it was you that did this.
+
+0x2DDD5C87 = ~z~For the love of God.
+
+0x2DE814DE = ~z~Back off 'fore you get killed.
+
+0x3C1EA78D = ~z~Don't make me put a bullet in you.
+
+0x3CC14327 = ~z~Okay, it's all I got.
+
+0x4A5CE64A = ~z~I can't have you causing trouble. You get off my property, now.
+
+0x4C1A146B = ~z~Hey. Simmer down.
+
+0x4F27E7F4 = ~z~This is all I have. Take it.
+
+0x4FC38EF3 = ~z~Stop it, please.
+
+0x5ACAF6AF = ~z~This ain't gonna stand, I'm gonna get the law.
+
+0x5B6EAE55 = ~z~Yeah.
+
+0x5E683907 = ~z~Whoa, you best think this through, idiot.
+
+0x6A44CC72 = ~z~Be careful.
+
+0x6FCF698D = ~z~I'm a poor rancher.
+
+0x7EB38A5B = ~z~We done this. You forgetful or just plain dumb?
+
+0x7EC58406 = ~z~Better think twice before wagging your tongue at me like that.
+
+0x7FFAF7DE = ~z~Clumsy idiot.
+
+0x8B6E16F3 = ~z~Don't you be harassing folks like that.
+
+0x8BB59342 = ~z~I'm not a fan of dogs following me.
+
+0x8C89E55D = ~z~Why are you still here? Don't wanna warn you again.
+
+0x8EC402F3 = ~z~Leave now.
+
+0x8FC5ACF1 = ~z~Hey. Don't you do that.
+
+0x8FEF2659 = ~z~You're mama ought to wash your mouth out.
+
+0x9B9F704B = ~z~I ain't putting up with that. Quit it now.
+
+0x9C17C595 = ~z~You stop that right now.
+
+0x9D153A41 = ~z~I ain't gonna put up with you going on that way.
+
+0x9EC86ABC = ~z~Okay, okay. I ain't gonna tell nobody.
+
+0x9FCD37E7 = ~z~I'm paying you no mind.
+
+0x14B2ACFF = ~z~You caused enough trouble 'round here already.
+
+0x21FAF33E = ~z~This don't have to get ugly.
+
+0x37E88E35 = ~z~Keep going. Don't you come back.
+
+0x49A00AB8 = ~z~Yep.
+
+0x54B30410 = ~z~You ain't getting away with that.
+
+0x63FAE0E4 = ~z~Hey, I done told you to cut it out.
+
+0x75D00032 = ~z~You dumb? I said stop.
+
+0x84AC4565 = ~z~Hey. You put that piece away, now.
+
+0x85EDDD6F = ~z~You're not welcome here. You get on the road, now.
+
+0x260CEA96 = ~z~That's it. I don't wanna see your face again.
+
+0x389B42C7 = ~z~You're done here. Leave this ranch.
+
+0x402F396C = ~z~You stop that right this second.
+
+0x586F28C7 = ~z~Watch yourself.
+
+0x685A42CA = ~z~What's got into you?
+
+0x742B39EA = ~z~You best go. I don't cotton to trouble, now.
+
+0x880EA4AF = ~z~I said enough, hear me?
+
+0x915E0233 = ~z~You trying to court me? Back off.
+
+0x1994F301 = ~z~Damn it, take it.
+
+0x3939DDE2 = ~z~Dammit, you best not get me ill.
+
+0x3963CD72 = ~z~Why in hell did you do that?
+
+0x23896A0B = ~z~Enough. Get off my land.
+
+0x344497D5 = ~z~You gonna make me shoot you?
+
+0x1509754F = ~z~Out the way, now.
+
+0x20636206 = ~z~I'll be a forgiving man, but don't push me.
+
+0x78077026 = ~z~You quit acting ugly.
+
+0xA0C29318 = ~z~I can't have this around here. You need to go.
+
+0xA4F22F4F = ~z~Go on. Get.
+
+0xA42E64BC = ~z~Next warning splits open your skull.
+
+0xA392A69C = ~z~I don't need you this close to me.
+
+0xABF7792C = ~z~You acted real ugly before, but I'll give you a second chance.
+
+0xACA066A6 = ~z~You can't be doing that.
+
+0xAF8CA60F = ~z~You staring at me for a reason?
+
+0xB2B1216E = ~z~Whoa. Calm down, don't need a gun here.
+
+0xB36A9408 = ~z~Fine. I won't tell no one.
+
+0xB437D7DA = ~z~What you after, huh?
+
+0xB826EC24 = ~z~Why you following me, huh?
+
+0xBD28EC66 = ~z~You're a damn disgrace, you know that?
+
+0xBE451DC7 = ~z~You had me madder than hell before. Don't get me there again.
+
+0xBF42E3F0 = ~z~Get.
+
+0xC78C3826 = ~z~Hey. Get out of here.
+
+0xC262CBBB = ~z~Don't be eyeballing me.
+
+0xCE57B90E = ~z~Last warning.
+
+0xCE110B88 = ~z~Leave me be.
+
+0xD95ADBC3 = ~z~Hey. Who are you? Get.
+
+0xDA62AD1D = ~z~I'm just gonna ignore you now.
+
+0xE0787CFC = ~z~Wait, put the gun away, okay?
+
+0xE6A6F047 = ~z~I had my fill of you, now. Time to go.
+
+0xE30D20C6 = ~z~What did you do?
+
+0xE858FFB8 = ~z~I'll beat you good if'n you push me.
+
+0xE1367637 = ~z~Get the hell out of here.
+
+0xEA548877 = ~z~Get out 'fore I bust you good.
+
+0xEB717FF0 = ~z~Whoa. You ain't belong here.
+
+0xED0CE093 = ~z~You gonna get your block knocked off talking like that.
+
+0xF1E74938 = ~z~Cut dirt. Now.
+
+0xF4BD6A48 = ~z~No. Don't.
+
+0xF5D69AAF = ~z~I'll whup the tar out of you.
+
+0xF22B074F = ~z~I'm telling you, clear on out of here now.
+
+0xF610887F = ~z~I ain't warning you again.
+
+0xFC962CFA = ~z~You best hightail it. Now.
+
+0xFD6E664C = ~z~Watch it, you're sick.
+
+0xFDFD85EB = ~z~I ain't got nothing.
+
+0xFEDB8151 = ~z~Don't be hassling no more folk round here.
+

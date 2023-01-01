@@ -1,0 +1,164 @@
+LBTUC_BINK_INT_1 = ~z~This little son of a bitch... Cecil Tucker.
+
+LBTUC_BINK_INT_2 = ~z~His crime was cowardly...
+
+LBTUC_BINK_INT_3 = ~z~killing good folks in their sleep...
+
+LBTUC_BINK_INT_4 = ~z~and he's been a coward ever since...
+
+LBTUC_BINK_INT_5 = ~z~running off and hiding out.
+
+LBTUC_BINK_INT_6 = ~z~But I'll tell you what...
+
+LBTUC_BINK_INT_7 = ~z~if your crimes are heinous enough...
+
+LBTUC_BINK_INT_8 = ~z~they're gonna catch up with you.
+
+LBTUC_BINK_INT_9 = ~z~I hear he went to the Lemoyne Raiders, over near Fort Brennand.
+
+LBTUC_BINK_INT_10 = ~z~Hoping they'd protect him...
+
+LBTUC_BINK_INT_11 = ~z~and most probably they will.
+
+LBTUC_BINK_INT_12 = ~z~Up to a point.
+
+LBTUC_BINK_INT_13 = ~z~They fancy themselves guerillas, this bunch.
+
+LBTUC_BINK_INT_14 = ~z~So I'd come ready for underhand tactics of some sort.
+
+LBTUC_BTYARRIVE_1 = ~z~We got 'em where we want 'em, come on!
+
+LBTUC_BTYARVE_M_1 = ~z~I told you they'd come looking for me.
+
+LBTUC_BTYARVE_M_2 = ~z~Make 'em pay!
+
+LBTUC_BTYARVE_S_1 = ~z~They only sent one of 'em.
+
+LBTUC_BTYARVE_S_2 = ~z~Let's light 'em up!
+
+LBTUC_CARRYALVE_01 = ~z~I'm caught! I'm caught! Help!
+
+LBTUC_CARRYALVE_02 = ~z~I'm the prisoner of an illegal state!
+
+LBTUC_CARRYALVE_03 = ~z~Help me before it's too late!
+
+LBTUC_CARRY_1 = ~z~You massacred them! All that blood. It's a massacre.
+
+LBTUC_CARRY_2 = ~z~All them boys... they're dead.
+
+LBTUC_CARRY_3 = ~z~Shit.
+
+LBTUC_CLOSE_01 = ~z~Leave me alone!
+
+LBTUC_CLOSE_02 = ~z~You don't want to come close to me!
+
+LBTUC_CLOSE_03 = ~z~You'd be wise to stay back!
+
+LBTUC_COMBAT1_1 = ~z~We've got incoming. Hold the fort, boys!
+
+LBTUC_COMBAT2_1 = ~z~Must be after the bounty! I knew it would happen...
+
+LBTUC_FIGHT2_01 = ~z~We're in this together, ain't we?
+
+LBTUC_FIGHT2_02 = ~z~Come on, Raiders. Fight for me!
+
+LBTUC_FIGHT2_03 = ~z~I go, we all do, right?
+
+LBTUC_FIGHT2_04 = ~z~This is sovereign soil, ain't it, boys?
+
+LBTUC_FIGHT_01 = ~z~You ain't taking me alive!
+
+LBTUC_FIGHT_02 = ~z~I will fight to my dying breath!
+
+LBTUC_FIGHT_03 = ~z~I'm gonna die free!
+
+LBTUC_FIGHT_04 = ~z~You won't put me in no cage!
+
+LBTUC_FIGHT_05 = ~z~This ends on my terms!
+
+LBTUC_FLED_1 = ~z~I surrender! I surrender, please.
+
+LBTUC_FLED_2 = ~z~~sl:0.0:1.8~They abandoned me.~sl:0.2~And I don't want to get gunned down like... some dog.
+
+LBTUC_FLED_3 = ~z~Take me in, okay? I ain't no animal.
+
+LBTUC_GBFLEED_1 = ~z~This is a goddamned massacre!
+
+LBTUC_GBFLEED_2 = ~z~Someone's got to live to tell the tale!
+
+LBTUC_GBFLEE_1 = ~z~Let's live to fight another day, why don't we?
+
+LBTUC_GBFLEE_2 = ~z~Come on, let's go.
+
+LBTUC_GFLEE_1 = ~z~~sl:0.0:1.2~Lets get out of here, fellers!~sl:~We ain't dying for the kid.
+
+LBTUC_HIT_01 = ~z~Ouch!
+
+LBTUC_HIT_02 = ~z~
+
+LBTUC_HIT_03 = ~z~
+
+LBTUC_HIT_04 = ~z~
+
+LBTUC_HOGTIED_01 = ~z~~sl:0.4~Don't like this...
+
+LBTUC_HOGTIED_02 = ~z~I don't like being tied.
+
+LBTUC_HOGTIED_03 = ~z~I need to move my arms. Please!
+
+LBTUC_IDLE_01 = ~z~That's it. Let's just wait.
+
+LBTUC_IDLE_02 = ~z~I don't need to go in there... not any time soon.
+
+LBTUC_LASOO_01 = ~z~Shit!
+
+LBTUC_LASOO_02 = ~z~Damn!
+
+LBTUC_LASOO_03 = ~z~Hell!
+
+LBTUC_OFFICE_1 = ~z~~sl:0.0:2.3~I don't want to go in there. Please.~sl:0.1~I don't want to go in.  No... no...
+
+LBTUC_PREBANT_1 = ~z~Anyone seen the kid?
+
+LBTUC_PREBANT_2 = ~z~Why are we even letting that runt hang around?
+
+LBTUC_PREBANT_3 = ~z~~sl:0.0:1.6~He gives me the shivers...~sl:0.0:1.6~disquieting is the word, with them...~sl:~them,them little black eyes.
+
+LBTUC_PREBANT_4 = ~z~I signed up to bunk with soldiers, not common killers. Shit.
+
+LBTUC_RIDEBANT_1 = ~z~Shit. Shit. Shit. Shit. Shit.
+
+LBTUC_RIDEBANT_2 = ~z~Shit. Shit. Shit.
+
+LBTUC_RIDEBANT_3 = ~z~~sl:0.4:2.3~This ain't happening. This ain't happening.~sl:~None of this is happening.
+
+LBTUC_RIDEBANT_4 = ~z~Please tell me this ain't really happening?
+
+LBTUC_RIDEBANT_5 = ~z~I don't deserve this.
+
+LBTUC_RIDEBANT_6 = ~z~~sl:0.0:2.8~I don't deserve to get treated like this!~rp~~sl:0.2~It ain't my damn fault.
+
+LBTUC_RIDEBANT_7 = ~z~~sl:0.0:3.3~Them... them... they brought it on themselves.~sl:~Them that died.~rp~ I didn't have no choice!
+
+LBTUC_RIDEBANT_8 = ~z~Any right thinking man would have done the same thing.
+
+LBTUC_RIDEBANT_9 = ~z~~sl:0.0:4.2~I'm the victim here. I'm the one getting persecuted.~rp~~sl:0.3~A disgrace is what it is.
+
+LBTUC_RIDEBANT_10 = ~z~~sl:0.0:4.8~I didn't mean for any of this. Okay?~rp~ If I could just...~sl:0.2~just... take it back. You gotta believe me.
+
+LBTUC_RIDEBANT_11 = ~z~~sl:0.0:4.3~Momma? Momma?~rp~ What's my momma going to think?~sl:0.4~Her little boy.
+
+LBTUC_RIDEBANT_12 = ~z~~sl:0.0:2.3~I wasn't meant to get caught.~sl:0.2~That weren't the plan for none of this.~rp~ Stupid!
+
+LBTUC_RIDEBANT_13 = ~z~Momma. Shit.~rp~ Momma.
+
+LBTUC_RIDEBANT_14 = ~z~Why? Why? Why? Why? Stupid! Stupid!
+
+LBTUC_RIDEBANT_15 = ~z~~sl:0.0:3.3~Okay, you'll see. When the press hears about this?~sl:0.3~And the judges? And the governor?
+
+LBTUC_RIDEBANT_16 = ~z~~sl:0.0:2.0~They'll understand where I was coming from.~rp~~sl:0.4~They'll look after me... good boys like me, they always do.
+
+LBTUC_RIDEBANT_17 = ~z~~sl:0.0:1.2~And my momma, too.~rp~~sl:0.6:3.7~She'll know what to do about this. Momma...~sl:1.8~Momma.
+
+LBTUC_SHERIFF_1 = ~z~~sl:0.0:2.8~I didn't mean to burn them folks, I swear.~sl:0.2~It was an accident.
+

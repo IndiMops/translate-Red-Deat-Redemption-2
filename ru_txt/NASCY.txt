@@ -1,0 +1,66 @@
+0x2D14BEBD = Усыпите ~COLOR_MP_OBJECTIVE~койота Млечный Путь~s~.
+
+0x567BC8BB = Догоните ~COLOR_MP_OBJECTIVE~койота Млечный Путь~s~.
+
+0x821569E0 = Чтобы осмотреть след, нужно слезть с лошади.
+
+FETCH_NAT_SIGHTING_COYOTE_CLUE_CHICKEN = Кажется, эту курицу недавно убил койот. Легендарный койот Млечный Путь должен быть неподалеку.
+
+FETCH_NAT_SIGHTING_COYOTE_CLUE_DOG = Кажется, эту собаку недавно убил койот. Легендарный койот Млечный Путь должен быть неподалеку.
+
+FETCH_NAT_SIGHTING_COYOTE_CLUE_MEAT = Кажется, это мясо недавно ел койот. Легендарный койот Млечный Путь должен быть неподалеку.
+
+FETCH_NAT_SIGHTING_COYOTE_SHARD_DESTROYED_COYOTE = Шкура койота Млечного Пути повреждена
+
+FETCH_NAT_SIGHTING_COYOTE_SHARD_PRIMARY_PASS = Образец из койота Млечного Пути получен
+
+FETCH_NAT_SIGHTING_FOLLOW_TRAIL_COYOTE = Идите по ~COLOR_MP_OBJECTIVE~следу~s~.
+
+FETCH_NAT_SIGHTING_HELP_INVESTIGATE_SOUND_COYOTE = Выясните, откуда доносится ~COLOR_MP_OBJECTIVE~лай койота~s~.
+
+FETCH_NAT_SIGHTING_HELP_KILL_COYOTE = Разыщите ~COLOR_MP_OBJECTIVE~~BLIP_OBJECTIVE~~s~ койота Млечный Путь.
+
+FETCH_NAT_SIGHTING_HELP_LOOK_AT_CLUE_COYOTE = Сфокусироваться на следе
+
+FETCH_NAT_SIGHTING_HELP_OBJECTIVE_DEAD_COYOTE = ~COLOR_MP_OBJECTIVE~Койот Млечный Путь~s~ усыплен. Добудьте образец.
+
+FETCH_NAT_SIGHTING_HELP_PRIMARY_COYOTE = Осмотрите местность и найдите койота Млечный Путь ~1b~. Усыпите его и добудьте образец.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_CLUE_FOUND_COYOTE = Кажется, это свежий след. Легендарный койот Млечный Путь должен быть где-то рядом.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_COYOTE = Активируйте «Орлиный глаз», нажав ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~, и поищите следы койота Млечного Пути.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_COYOTE_KM = Активируйте «Орлиный глаз», нажав ~INPUT_SPECIAL_ABILITY~, и поищите следы койота Млечного Пути.
+
+FETCH_NAT_SIGHTING_INSPECT_CLUE_COYOTE = Осмотреть
+
+FETCH_NAT_SIGHTING_OBJ_FIND_COYOTE = Осмотрите ~COLOR_MP_OBJECTIVE~местность~s~ и найдите следы койота Млечного Пути.
+
+FETCH_NAT_SIGHTING_OBJ_FIND_COYOTE_POACHERS = Перебейте ~COLOR_ENEMY~браконьеров~s~.
+
+FETCH_NAT_SIGHTING_OBJ_FIND_POACHERS = Осмотрите ~COLOR_MP_OBJECTIVE~местность~s~ и найдите лагерь браконьеров.
+
+FETCH_NAT_SIGHTING_OBJ_GOTO_COYOTE = Поезжайте в ~COLOR_MP_OBJECTIVE~Блэкуотер~s~.
+
+FETCH_NAT_SIGHTING_OBJ_GOTO_COYOTE_CAGED = Направляйтесь в ~COLOR_MP_OBJECTIVE~место~s~, где замечено животное.
+
+FETCH_NAT_SIGHTING_OBJ_GOTO_COYOTE_POACHERS = Направляйтесь в ~COLOR_MP_OBJECTIVE~место~s~, где замечено животное.
+
+FETCH_NAT_SIGHTING_OBJ_LOOT_COYOTE = Добудьте образец из ~COLOR_MP_OBJECTIVE~койота Млечного Пути~s~.
+
+FETCH_NAT_SIGHTING_SHARD_PRIMARY_INTRO_COYOTE = Добудьте образец из койота Млечного Пути
+
+FETCH_NAT_SIGHT_COYOTE_HELP_OBJECTIVE_ESCAPING = ~COLOR_MP_OBJECTIVE~Легендарный койот Млечный Путь~s~ ушел слишком далеко и скоро сможет скрыться.
+
+FETCH_NAT_SIGHT_COYOTE_HELP_SEARCH_CLUE_TRAIL = Вы нашли след ~1b~. Используйте «Орлиный глаз», чтобы идти по следам легендарного койота Млечного Пути.
+
+FETCH_NAT_SIGHT_COYOTE_OBJ_FIND = Идите по ~COLOR_MP_OBJECTIVE~следу~s~ койота Млечного Пути.
+
+FETCH_NAT_SIGHT_COYOTE_OBJ_SEARCH_AREA = Осмотрите ~COLOR_MP_OBJECTIVE~местность~s~ и найдите следы койота Млечного Пути.
+
+FETCH_NAT_SIGHT_COYOTE_SHARD_ESCAPED = Легендарный койот Млечный Путь сбежал
+
+FETCH_NAT_SIGHT_COYOTE_SHARD_PRIMARY_PASS_PARTIAL = Койот Млечный Путь освежеван
+
+NET_FETCH_TEXT_HELP_OBJECTIVE_ESCAPING_TEAM_PRIMARY_COYOTE = ~COLOR_MP_OBJECTIVE~Легендарный койот Млечный Путь~s~ убегает.
+

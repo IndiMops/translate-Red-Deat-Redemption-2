@@ -1,0 +1,74 @@
+RBCH3_RSC1_1 = ~z~Just one time I hope to find you working.
+
+RBCH3_RSC1_2 = ~z~Just once.
+
+RBCH3_RSC1_3 = ~z~Do you believe in reincarnation, John Marston?
+
+RBCH3_RSC1_4 = ~z~No.
+
+RBCH3_RSC1_5 = ~z~Well, I hope and pray to whatever is out there...
+
+RBCH3_RSC1_6 = ~z~that I get to come back as a young 'un, so...
+
+RBCH3_RSC1_7 = ~z~that when you're old and facing death...
+
+RBCH3_RSC1_8 = ~z~I can be some two penny slave driver that...
+
+RBCH3_RSC1_9 = ~z~comes along and hastens your journey into the grave.
+
+RBCH3_RSC1_10 = ~z~This is a fatal condition I got.
+
+RBCH3_RSC1_11 = ~z~And I'll give you another fatal condition.
+
+RBCH3_RSC1_12 = ~z~If we don't get on with things around here...
+
+RBCH3_RSC1_13 = ~z~then we'll all starve.
+
+RBCH3_RSC1_14 = ~z~Get on with what?
+
+RBCH3_RSC1_15 = ~z~Farming.
+
+RBCH3_RSC1_16 = ~z~Ranching.
+
+RBCH3_RSC1_17 = ~z~Planting something.
+
+RBCH3_RSC1_18 = ~z~The only thing that this land's good for is grazing.
+
+RBCH3_RSC1_19 = ~z~Grazing?
+
+RBCH3_RSC1_20 = ~z~Yeah, so...
+
+RBCH3_RSC1_21 = ~z~so cows, sheep, goats.
+
+RBCH3_RSC1_22 = ~z~Now, goats is easy but...
+
+RBCH3_RSC1_23 = ~z~they taste awful.
+
+RBCH3_RSC1_24 = ~z~I don't like goats...
+
+RBCH3_RSC1_25 = ~z~and cows, I've seen enough cows.
+
+RBCH3_RSC1_26 = ~z~Sheep then.
+
+RBCH3_RSC1_27 = ~z~But any livestock you're gonna need a barn.
+
+RBCH3_RSC1_28 = ~z~A barn will take three of us six months to build.
+
+RBCH3_RSC1_29 = ~z~Oh, you don't build a barn, dumbass.
+
+RBCH3_RSC1_30 = ~z~What do you think this is, 1785?
+
+RBCH3_RSC1_31 = ~z~You buy one pre-cut, just like the house.
+
+RBCH3_RSC1_32 = ~z~This is the industrial age.
+
+RBCH3_RSC1_33 = ~z~The lumber fellers all have 'em.
+
+RBCH3_RSC1_34 = ~z~That guy makes me hate the modern world.
+
+RBCH3_RSC1_35 = ~z~Oh, come on...
+
+RBCH3_RSC1_36 = ~z~I'll deal with him.
+
+RBCH3_RSC1_LI_1 = ~z~Just one time I hope to find you working...
+

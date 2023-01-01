@@ -1,0 +1,354 @@
+SPLP_IG1_P1A_1 = ~z~Darling...
+
+SPLP_IG1_P1A_2 = ~z~~sl:0.0:0.6~Darling!~sl:1.4~I said, "Darling, can I get another bloody drink over here?"
+
+SPLP_IG1_P1A_3 = ~z~~sl:0.3:0.0~C'mon, chop chop, darling. I'm dying of thirst.
+
+SPLP_IG1_P1A_4 = ~z~This is meant to be a saloon, not a bloody vicarage.
+
+SPLP_IG1_P1A_5 = ~z~Oh, what's wrong with you?
+
+SPLP_IG1_P1A_6 = ~z~~sl:0.0:2.4:1~A girl have to do to get drunk around here?
+
+SPLP_IG1_P1B_1 = ~z~Oh, what I would give for the love of a good woman!
+
+SPLP_IG1_P1B_2 = ~z~~sl:0.0:2.6~I'd give up booze and opium...~sl:0.4~and that little toy I had sent from Paris...
+
+SPLP_IG1_P1B_3 = ~z~Oh, don't be shocked, none of you. Not even you, Tom.
+
+SPLP_IG1_P1B_4 = ~z~Oh, do any of you know about Tom? He was a priest!
+
+SPLP_IG1_P1B_5 = ~z~~sl:0.6:0.0~Where is bloody Tom? Tom, where in the blazes are you?
+
+SPLP_IG1_P1B_6 = ~z~Little catamite was a priest until he got defrocked. Oh, it was an outrage.
+
+SPLP_IG1_P1B_7 = ~z~~sl:0.0:1.1:1~He'll tell you all about it.
+
+SPLP_IG1_P2A_1 = ~z~Does anyone have any cocaine?
+
+SPLP_IG1_P2A_2 = ~z~Ugh, I simply must have some!
+
+SPLP_IG1_P2A_3 = ~z~I bet none of you bores have any...
+
+SPLP_IG1_P2A_4 = ~z~and if you did, I bet none of you would share.
+
+SPLP_IG1_P2B_1 = ~z~They keep talking about giving us the vote.
+
+SPLP_IG1_P2B_2 = ~z~~sl:0.0:4.3~Let me be very clear, gentlemen, I do not want the bloody vote!~sl:~I want to be a queen.
+
+SPLP_IG1_P2B_3 = ~z~~sl:0.0:3.1~Voting is... demeaning. It's unnatural.~sl:0.8~It's what's wrong with this country.
+
+SPLP_IG1_P2B_4 = ~z~Too many bloody rights. And given to entirely the wrong people!
+
+SPLP_IG1_P2B_5 = ~z~~sl:0.3:0.0~We need another war...
+
+SPLP_IG1_P2B_6 = ~z~Oh, don't be shocked. What're you, virgins? Gimme a break.
+
+SPLP_IG1_P3_1 = ~z~
+
+SPLP_IG1_P3_2 = ~z~Does anyone have a woman to spare?
+
+SPLP_IG1_P3_3 = ~z~Nice little housewife I could devour...
+
+SPLP_IG1_P3_4 = ~z~Jimmy? Jimmy, are you still here?
+
+SPLP_IG1_P3_5 = ~z~~sl:0.0:1.9~Bet he's off having his dress mended...~sl:1.6:1.9~snivelling little leech.~sl:0.4~Reprobate...
+
+SPLP_IG1_P3_6 = ~z~~sl:0.0:1.5~He reminds me of my husband.~sl:0.4~Did I ever tell any of you fools about David?
+
+SPLP_IG1_P3_7 = ~z~~sl:0.0:2.9~Oh, my God. He's a brilliant man.~sl:0.6:3.0~But there wasn't a busboy, or a bellhop~sl:~from here to Timbuktu he didn't seduce.
+
+SPLP_IG1_P3_8 = ~z~~sl:0.4:3.5~Princes, paupers... office clerks.~sl:0.4~David had them all.
+
+SPLP_IG1_P3_9 = ~z~No wonder his symphony was laughed at.
+
+SPLP_IG1_P3_10 = ~z~~sl:0.0:2.9~He wrote a long section for the timpani...~sl:0.8~all because he was in love with the percussionist.
+
+SPLP_IG1_P3_11 = ~z~~sl:0.5:0.0~Eros, you are such a shit to us mortals.
+
+SPLP_IG1_P3_12 = ~z~~sl:1.2:0.0~Love...
+
+SPLP_IG1_P4A_1 = ~z~
+
+SPLP_IG1_P4A_2 = ~z~Did any of you morons read that last drivel written by Evelyn Miller?
+
+SPLP_IG1_P4A_3 = ~z~My God, but... there's a small-minded simpleton.
+
+SPLP_IG1_P4A_4 = ~z~I met him once... Jimmy did you hear that? I met Evelyn Miller.
+
+SPLP_IG1_P4A_5 = ~z~They used to say, at Yale, that he has a tiny penis. Oh, don't be shocked!
+
+SPLP_IG1_P4A_6 = ~z~But I can't say for sure.. he wouldn't show me. But, my God, what a bore!
+
+SPLP_IG1_P4A_7 = ~z~~sl:0.0:5.8:1~Was any man... any man, that prefers trees to tits...
+
+SPLP_IG1_P4A_8 = ~z~He gets what he deserves and that's a fact.
+
+SPLP_IG1_P4B_1 = ~z~~sl:2.4:0.0~I mean... "Evelyn Miller"?
+
+SPLP_IG1_P4B_2 = ~z~God, he's even got a woman's name. Poor bugger.
+
+SPLP_IG1_P4B_3 = ~z~~sl:0.0:3.4:1~What is it about second sons born into privilege?
+
+SPLP_IG1_P4B_4 = ~z~~sl:0.0:5.3~"Boo hoo... I'm bored of being a professor. I want to stare at trees."~sl:0.1~You're a moron, my friend.
+
+SPLP_IG1_P4B_5 = ~z~~sl:0.3:0.0~Yale is well shot of him.
+
+SPLP_IG1_P4B_6 = ~z~~sl:0.0:3.9~A-and what about that other fellow... Harold MacDougal?~sl:~T-t-the anthropologist...
+
+SPLP_IG1_P4B_7 = ~z~~sl:0.0:4.1~My cousin says he's an even bigger moron.  And a drug addict.~sl:~Oh, are any of you drug addicts?
+
+SPLP_IG1_P4B_8 = ~z~~sl:0.0:4.1:1~Oh, I wish I knew more. Can't get enough of the stuff.
+
+SPLP_IG1_P5A_1 = ~z~Tom?
+
+SPLP_IG1_P5A_2 = ~z~~sl:0.0:2.6~Tom, can I get another bloody drink over here?~sl:0.9~Where is Tom?
+
+SPLP_IG1_P5A_3 = ~z~It's too bad, it really is. Can somebody horsewhip him for me, please?
+
+SPLP_IG1_P5A_4 = ~z~~sl:0.5:2.2:1~For the love of all that is holy...
+
+SPLP_IG1_P5B_1 = ~z~What does a dried up old hag have to do to get drunk round here?
+
+SPLP_IG1_P5B_2 = ~z~Please... gentlemen, you're embarrassing yourselves.
+
+SPLP_IG1_P5B_3 = ~z~~sl:0.0:1.9:1~You're not even good drunks.
+
+SPLP_IG1_P5C_1 = ~z~~sl:1.3:~My God... what, what is wrong with all of you?
+
+SPLP_IG1_P5C_2 = ~z~You're-you're-you're dull... dull, dull, dull.
+
+SPLP_IG1_P5C_3 = ~z~I bet you all vote. I bet you all care!
+
+SPLP_IG1_P5C_4 = ~z~Oh, there's nothing worse than caring. Caring hurts!
+
+SPLP_IG1_P5C_5 = ~z~~sl:0.0:4.0:1~I don't want to hurt. I want to drink, and inject cocaine...
+
+SPLP_IG1_P5C_6 = ~z~Devour virgins whole... usual sort of stuff.
+
+SPLP_IG1_P6A_1 = ~z~You know something?
+
+SPLP_IG1_P6A_2 = ~z~~sl:0.4:0.0~No... you know nothing. Bunch of ignorami.
+
+SPLP_IG1_P6A_3 = ~z~~sl:0.0:5.9~That's plural for ignoramus. Latin, like... cunnilingus.~sl:0.6:1.0~Also Latin.
+
+SPLP_IG1_P6A_4 = ~z~I have an education. Daddy hired a wonderful tutor.
+
+SPLP_IG1_P6A_5 = ~z~~sl:0.0:2.8~Poor fellow, fell in love with my mother...~sl:0.2~hanged himself.
+
+SPLP_IG1_P6A_6 = ~z~They say hanged, not hung, when it's people.
+
+SPLP_IG1_P6A_7 = ~z~Down here, you say "lynched". But you always did mangle the language.
+
+SPLP_IG1_P6A_8 = ~z~God, I am so bored!
+
+SPLP_IG1_P6B_1 = ~z~This town is so bloody boring. Boring!
+
+SPLP_IG1_P6B_2 = ~z~All of you, you're all... boring. You should be ashamed of yourselves.
+
+SPLP_IG1_P6B_3 = ~z~Not an interesting mind or a nasty habit among the lot of you.
+
+SPLP_IG1_P6B_4 = ~z~Place used to be sophisticated.
+
+SPLP_IG1_P6B_5 = ~z~~sl:0.0:3.5:1~Stories I heard would make a devil blush.
+
+SPLP_IG1_P6B_6 = ~z~Not anymore. The devil's gone elsewhere.
+
+SPLP_IG1_P6B_7 = ~z~And we're left with the choirmasters. And not the fun kind. No siree.
+
+SPLP_IG1_P7_1 = ~z~My God, I am so bloody bored.
+
+SPLP_IG1_P7_2 = ~z~~sl:0.3:0.0~Do you know I burnt my new novel? Finished it, and burnt it.
+
+SPLP_IG1_P7_3 = ~z~The novel is dead. Such tripe.
+
+SPLP_IG1_P7_4 = ~z~~sl:0.0:5.3~I hated my characters... and after I tortured them for thirty pages,~sl:~even I was losing the will to live.
+
+SPLP_IG1_P7_5 = ~z~~sl:0.3:0.0~Tom? Tom? Where's Tom?
+
+SPLP_IG1_P7_6 = ~z~~sl:0.5:~Little catamite. I'm horrifed.
+
+SPLP_IG1_P8A_1 = ~z~Tom? Tommy?
+
+SPLP_IG1_P8A_2 = ~z~~sl:0.0:4.9~Oh forgive me, Tom. I'm sorry I called you a catamite,~sl:~I know it's not true, darling.
+
+SPLP_IG1_P8A_3 = ~z~~sl:0.4:0.0~Tom. Tommy?
+
+SPLP_IG1_P8A_4 = ~z~Tom, forgive old Lillian. I'm such a bad boy, I really am.
+
+SPLP_IG1_P8A_5 = ~z~Oh, Tom. He's sulking with me again.
+
+SPLP_IG1_P8A_6 = ~z~~sl:0.0:3.0:1~I think someone's pissed in his porridge.
+
+SPLP_IG1_P8A_7 = ~z~~sl:0.0:2.4~That's what my nanny used to say.~sl:~Silly old Scotch hag, smelled of old fish.
+
+SPLP_IG1_P8A_8 = ~z~~sl:0.0:1.4:1~Thank God she's dead.
+
+SPLP_IG1_P8A_9 = ~z~Can I get another bloody drink? I'm parched.
+
+SPLP_IG1_P8B_1 = ~z~I'm not drunk, I'm an intellectual.
+
+SPLP_IG1_P8B_2 = ~z~That's the thing, darling. We intellectuals have to drink.
+
+SPLP_IG1_P8B_3 = ~z~~sl:0.0:3.5~We've got a terribly difficult job.~sl:0.3~Just being clever like this is so very hard. It's exhausting.
+
+SPLP_IG1_P8B_4 = ~z~~sl:0.0:6.1~Why just the other day, I was so tired of just being brilliant like this,~sl:~I drank all day.
+
+SPLP_IG1_P9A_1 = ~z~~sl:0.0:6.1:1~I need a bloody drink! Somebody get me a drink. Tom?
+
+SPLP_IG1_P9B_1 = ~z~Where is that little shit?
+
+SPLP_IG1_P9B_2 = ~z~Tommy, darling, where are you?
+
+SPLP_IG1_P9C_1 = ~z~Life is very hard...
+
+SPLP_IG1_P9C_2 = ~z~~sl:0.0:4.6~I must stop working quite so much and... learn to relax.~sl:~I'm quite withered by stress.
+
+SPLP_IG1_P9D_1 = ~z~Can someone bring me something to eat?
+
+SPLP_IG1_P9D_2 = ~z~~sl:0.0:2.3~Something light and refreshing like...~sl:0.7~cocaine, on toast, with a...
+
+SPLP_IG1_P9D_3 = ~z~side of despair...
+
+SPLP_IG1_P9E_1 = ~z~~sl:0.3:1.5~I'm bored!~sl:0.8~I need some cocaine.
+
+SPLP_IG2J_1 = ~z~What are you looking at, cowboy?
+
+SPLP_IG2J_2 = ~z~~sl:0.5:0.0~Well, I ain't too sure.
+
+SPLP_IG2J_3 = ~z~~sl:1.4:3.2~Well that's a feeling I imagine you're just too familiar with,~sl:~hmm, darling?
+
+SPLP_IG2J_4 = ~z~Now shoo, please. I'm waiting for someone interesting to turn up...
+
+SPLP_IG2_1 = ~z~What are you looking at, cowboy?
+
+SPLP_IG2_2 = ~z~Well I ain't too sure.
+
+SPLP_IG2_3 = ~z~~sl:1.4:3.2~Well that's a feeling I imagine you're just too familiar with,~sl:~hmm, darling?
+
+SPLP_IG2_4 = ~z~Now shoo, please. I'm waiting for someone interesting to turn up...
+
+SPLP_IG3J_1 = ~z~Jimmy! Is Jimmy here?
+
+SPLP_IG3J_2 = ~z~Have you seen Jimmy, tough guy?
+
+SPLP_IG3J_3 = ~z~I can't say that I have.
+
+SPLP_IG3J_4 = ~z~Well, when you see him, punch him for me, will you?
+
+SPLP_IG3J_5 = ~z~Bloody little man's late with my cocaine.
+
+SPLP_IG3_1 = ~z~Jimmy! Is Jimmy here?
+
+SPLP_IG3_2 = ~z~Have you seen Jimmy, tough guy?
+
+SPLP_IG3_3 = ~z~Can't say that I have.
+
+SPLP_IG3_4 = ~z~Well, when you see him, punch him for me, will you?
+
+SPLP_IG3_5 = ~z~Bloody little man's late with my cocaine.
+
+SPLP_IG4J_1 = ~z~~sl:1.6:0.0~Nice to see you again, cowboy.
+
+SPLP_IG4J_2 = ~z~And you, Miss...
+
+SPLP_IG4J_3 = ~z~~sl:0.0:1.5~Lillian Powell.~sl:1.1~I used to be quite well known...
+
+SPLP_IG4J_4 = ~z~Now I'm just the bloody town drunk.
+
+SPLP_IG4J_5 = ~z~Who knew you?
+
+SPLP_IG4J_6 = ~z~The worst types, darling. Intellectuals.
+
+SPLP_IG4J_7 = ~z~In other words, men without balls.
+
+SPLP_IG4J_8 = ~z~~sl:0.0:2.3~Hermaphrodites, as my mother would call them.~sl:0.6~Eunuchs, as my father liked to say.
+
+SPLP_IG4J_9 = ~z~Geldings. I was popular with geldings, darling.
+
+SPLP_IG4J_10 = ~z~Now even the ballless hate me...
+
+SPLP_IG4J_11 = ~z~~sl:0.0:2.4:1~I'm a... fat old mess.
+
+SPLP_IG4_1 = ~z~~sl:1.6:0.0~Nice to see you again, cowboy.
+
+SPLP_IG4_2 = ~z~And you, Miss, uh?
+
+SPLP_IG4_3 = ~z~~sl:0.0:1.5~Lillian Powell.~sl:1.1~I used to be quite well known...
+
+SPLP_IG4_4 = ~z~Now I'm just the bloody town drunk.
+
+SPLP_IG4_5 = ~z~Well who knew you?
+
+SPLP_IG4_6 = ~z~The worst types, darling. Intellectuals.
+
+SPLP_IG4_7 = ~z~In other words, men without balls.
+
+SPLP_IG4_8 = ~z~~sl:0.0:2.3~Hermaphrodites, as my mother would call them.~sl:0.6~Eunuchs, as my father liked to say.
+
+SPLP_IG4_9 = ~z~Geldings. I was popular with geldings, darling.
+
+SPLP_IG4_10 = ~z~Now even the ballless hate me...
+
+SPLP_IG4_11 = ~z~~sl:0.0:2.4:1~I'm a... fat old mess.
+
+SPLP_IG5_AJ_1 = ~z~~sl:0.0:4.0~Just what exactly are we doing alive?~sl:0.6~It's a mystery to me, no mistake.
+
+SPLP_IG5_AJ_2 = ~z~Have you got any ideas, big man?
+
+SPLP_IG5_AJ_3 = ~z~Hmm... no, not really.
+
+SPLP_IG5_AJ_4 = ~z~~sl:0.0:1.5:1~Well, at least you're honest.
+
+SPLP_IG5_AJ_5 = ~z~~sl:0.0:3.2~All my life I've been surrounded by morons...~sl:~claiming to know the answer to that question.
+
+SPLP_IG5_AJ_6 = ~z~Liars, bloody lot of them. Narcissi, all of them!
+
+SPLP_IG5_AJ_7 = ~z~~sl:0.0:2.8~It's the great American sickness...~sl:0.6~vanity.
+
+SPLP_IG5_AJ_8 = ~z~~sl:0.0:1.0:1~I'm very drunk.
+
+SPLP_IG5_A_1 = ~z~~sl:0.0:4.0~Just what exactly are we doing alive?~sl:0.6~It's a mystery to me, no mistake.
+
+SPLP_IG5_A_2 = ~z~Have you got any ideas, big man?
+
+SPLP_IG5_A_3 = ~z~~sl:0.4:0.0~No, not really...
+
+SPLP_IG5_A_4 = ~z~~sl:0.0:1.5:1~Well, at least you're honest.
+
+SPLP_IG5_A_5 = ~z~~sl:0.0:3.2~All my life I've been surrounded by morons...~sl:~claiming to know the answer to that question.
+
+SPLP_IG5_A_6 = ~z~Liars, bloody lot of them. Narcissi, all of them!
+
+SPLP_IG5_A_7 = ~z~~sl:0.0:2.8~It's the great American sickness...~sl:0.6~vanity.
+
+SPLP_IG5_A_8 = ~z~~sl:0.0:1.0:1~I'm very drunk.
+
+SPLP_IG5_B_1 = ~z~My God... it's the angriest man in the world!
+
+SPLP_IG5_B_2 = ~z~I hope you are going to act a little less fresh now, my dear boy.
+
+SPLP_IG5_B_3 = ~z~~sl:0.0:2.6~It's quite tiresome, all that posturing.~sl:0.4~Quite wears me out just to think about it.
+
+SPLP_IG10_P1_1 = ~z~~sl:1.5:1.3:1~This world...
+
+SPLP_IG10_P1_2 = ~z~What kind of a sick fellow thought it up. Answer me that, any of you?
+
+SPLP_IG10_P1_3 = ~z~Probably a eunuch... judging by the people he lets do well.
+
+SPLP_IG10_P1_4 = ~z~And he hated woman...
+
+SPLP_IG10_P1_5 = ~z~judging by what... fate has handed to me. Look at me!
+
+SPLP_IG10_P1_6 = ~z~I'm an old mess.
+
+SPLP_IG10_P2_1 = ~z~Oh... I feel like I have been sitting here for years!
+
+SPLP_IG10_P2_2 = ~z~Well let me break it to you...
+
+SPLP_IG10_P2_3 = ~z~~sl:0.0:2.7~so far the twentieth century...~sl:0.2~is the century that will venerate stupidity as no other before it.
+
+SPLP_IG10_P2_4 = ~z~It's the Time of the Idiot.
+
+SPLP_IG10_P2_5 = ~z~~sl:0.0:5.2:1~So make yourselves at home, you're gonna all fit right in.
+

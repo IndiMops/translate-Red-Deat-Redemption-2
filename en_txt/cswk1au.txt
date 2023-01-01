@@ -1,0 +1,18 @@
+CWSK1_ACT_1 = ~z~You better not be stealing from the collection box again, Reverend.
+
+CWSK1_ACT_2 = ~z~Steal? Stealing, me?
+
+CWSK1_ACT_3 = ~z~You.
+
+CWSK1_ACT_4 = ~z~No... I was putting money in. How dare you, Mr. Pearson?
+
+CWSK1_ACT_5 = ~z~Well go on then, put it in.
+
+CWSK1_ACT_6 = ~z~Go on!
+
+CWSK1_ACT_7 = ~z~Five cents... how generous of you.
+
+CWSK1_ACT_8 = ~z~You're not a nice man, Mr. Pearson.
+
+CWSK1_ACT_9 = ~z~
+

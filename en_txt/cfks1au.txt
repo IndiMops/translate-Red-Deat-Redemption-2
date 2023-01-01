@@ -1,0 +1,26 @@
+CFKS1_ACTION_1 = ~z~I just wanted to thank you boys... for taking me in... for not killing me...
+
+CFKS1_ACTION_2 = ~z~Let me tell you boys, old Colm O'Driscoll... he's a rotten feller.
+
+CFKS1_ACTION_3 = ~z~Not you as well... It's not Colm. "Colm".
+
+CFKS1_ACTION_4 = ~z~It's Colom. In Ireland, we say Colom.
+
+CFKS1_ACTION_5 = ~z~Well... he likes Colm... he's American.
+
+CFKS1_ACTION_6 = ~z~The boy's Irish... just look at his name...
+
+CFKS1_ACTION_7 = ~z~he's just a dumb Irish bastard who can't pronounce his own name.
+
+CFKS1_ACTION_8 = ~z~If you say so.
+
+CFKS1_ACTION_9 = ~z~I do say so. Colom O'Driscoll, say it now.
+
+CFKS1_ACTION_10 = ~z~He likes Colm.
+
+CFKS1_ACTION_11 = ~z~And you like breathing? So say Colom properly...
+
+CFKS1_ACTION_12 = ~z~Colom.
+
+CFKS1_ACTION_13 = ~z~That's better, boy... that's better.
+

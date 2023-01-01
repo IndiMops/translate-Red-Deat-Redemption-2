@@ -1,0 +1,10 @@
+CDHS2_ACT_1 = ~z~Well done, Arthur, you found the Irish terrier.
+
+CDHS2_ACT_2 = ~z~Sadly.
+
+CDHS2_ACT_3 = ~z~He's just a younger version of you.
+
+CDHS2_ACT_4 = ~z~Please don't say that to me, Dutch.
+
+CDHS2_ACT_5 = ~z~Oh, it's true. It's true.
+

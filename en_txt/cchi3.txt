@@ -1,0 +1,18 @@
+CCHI3_ACTION_1 = ~z~How are you?
+
+CCHI3_ACTION_2 = ~z~Fine, you?
+
+CCHI3_ACTION_3 = ~z~Good... I like that feather.
+
+CCHI3_ACTION_4 = ~z~Me too.
+
+CCHI3_ACTION_5 = ~z~Of course, eagle feathers are sacred... but more than that, it reminds me of my mother.
+
+CCHI3_ACTION_6 = ~z~Really?
+
+CCHI3_ACTION_7 = ~z~She used to love them... she made beautiful things with 'em.
+
+CCHI3_ACTION_8 = ~z~If I find any, I'll bring 'em to you.
+
+CCHI3_ACTION_9 = ~z~Thank you, friend.
+

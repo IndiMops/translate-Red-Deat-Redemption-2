@@ -1,0 +1,24 @@
+CKR12_ACTION_1 = ~z~
+
+CKR12_ACTION_2 = ~z~Trapped... in a swamp... it's like hell on earth.
+
+CKR12_ACTION_3 = ~z~Yeah... it beats freezing to death.
+
+CKR12_ACTION_4 = ~z~In the south, in a swamp? This is not for me.
+
+CKR12_ACTION_5 = ~z~Nor me... but we're alive.
+
+CKR12_ACTION_6 = ~z~Sean's not, Jenny, Mac, Davey...
+
+CKR12_ACTION_7 = ~z~Folks always die, Karen... you and me will die.
+
+CKR12_ACTION_8 = ~z~Trick is... to enjoy it while you're alive.
+
+CKR12_ACTION_9 = ~z~That's the trick of it? I haven't mastered that bit.
+
+CKR12_ACTION_10 = ~z~You? You have more fun than anyone.
+
+CKR12_ACTION_11 = ~z~Do I?
+
+CKR12_ACTION_12 = ~z~Maybe I do...
+

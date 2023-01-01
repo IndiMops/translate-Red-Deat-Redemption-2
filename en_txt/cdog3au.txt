@@ -1,0 +1,26 @@
+CDOG3_FETCH_1 = ~z~C'mon, boy. C'mon.
+
+CDOG3_FETCH_2 = ~z~C'mon, Cain, good boy, c'mon, boy.
+
+CDOG3_FETCH_3 = ~z~Good boy...
+
+CDOG3_FETCH_4 = ~z~Hey... c-come on, fetch.
+
+CDOG3_FETCH_5 = ~z~There we go. Good boy... good boy, go.
+
+CDOG3_FETCH_6 = ~z~Good boy, Cain, good boy.
+
+CDOG3_PET_1 = ~z~You're such a good boy... yeah.
+
+CDOG3_PET_2 = ~z~Good boy...
+
+CDOG3_PET_3 = ~z~That's a good boy...
+
+CDOG3_PET_4 = ~z~Good boy.
+
+CDOG3_PET_5 = ~z~That's a good boy... come on, come on... good boy.
+
+CDOG3_SIT_1 = ~z~Sit.
+
+CDOG3_SIT_2 = ~z~Good boy.
+

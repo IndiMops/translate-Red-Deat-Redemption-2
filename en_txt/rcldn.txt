@@ -1,0 +1,130 @@
+0x71F582FF = Greet
+
+0xB4D3BCF3 = Pull: ~INPUT_MOVE_DOWN_ONLY|PromptId=Cld1Pull,Gutter~ Force: ~INPUT_CONTEXT_A|PromptId=Cld1Force,Gutter~
+
+0xB9257739 = Ask Politely
+
+CALDERON1_DONATE = Donate
+
+CALDERON1_F1 = The monk has died.
+
+CALDERON1_F2 = You left the market area.
+
+CALDERON1_F3 = A captive has died.
+
+CALDERON1_F4 = You attacked one of the captives.
+
+CALDERON1_F4A = One of the captives was hurt.
+
+CALDERON1_F5 = You attacked the monk.
+
+CALDERON1_F6 = You attracted the attention of the law.
+
+CALDERON1_F7 = The monk was scared away.
+
+CALDERON1_NODONATE = Don't donate
+
+CALDERON1_REFUSE = Give to the poor
+
+CALDERON1_TAKE = Take payment
+
+CALDERON1_W2 = Return to the ~o~market area
+
+CALDERON4_F1 = Sister Calderon has died.
+
+CALDERON4_F2 = You attacked Sister Calderon.
+
+CALDERON4_F3 = Brother Dorkins has died.
+
+CALDERON4_F4 = You attacked Brother Dorkins.
+
+CALDERON4_F7 = The kid got away.
+
+CALDERON4_F8 = You didn't retrieve the crucifix.
+
+CALDERON4_F9 = The priest has died.
+
+CALDERON4_F10 = You attacked the priest.
+
+CALDERON4_F11 = You didn't return the crucifix to Sister Calderon.
+
+CALDERON4_F12 = Sister Calderon was scared away.
+
+CALDERON4_F13 = You attracted the attention of the law.
+
+CALDERON4_F14 = You didn't help the kid.
+
+CALDERON4_OBJ2 = Escape the ~e~law
+
+CALDERON4_OBJ3 = Find ~o~Sister Calderon~s~ without alerting the law
+
+CLD2_BASE = Basement
+
+CLD2_BOOKCASE = Bookcase
+
+CLD2_CANCEL = Let go
+
+CLD2_CONFRONT = Intimidate the ~o~shopkeeper
+
+CLD2_CUTFREE = Free
+
+CLD2_DOOROBJ = Switch
+
+CLD2_DORKOBJ = Monk
+
+CLD2_FORCECTX = Force
+
+CLD2_FORCEDOOR = Force open
+
+CLD2_FORCEOBJ = Force open the ~o~hidden door
+
+CLD2_FREESL = ~s~Free the ~o~captives~s~
+
+CLD2_GOBASE = Investigate the ~o~basement
+
+CLD2_GOSHOP_OBJ = Investigate the ~o~shop~s~
+
+CLD2_INTIMIDATE = Intimidate the ~e~shopkeeper
+
+CLD2_OPENDOOR = Open door
+
+CLD2_PULLCTX = Pull
+
+CLD2_RETDORK = Return to the ~o~monk
+
+CLD2_ROBTILL = Give Cash To Captives
+
+CLD2_SCRATCHBK = Scratches from bookcase
+
+CLD2_SCRATCHES = Scratches
+
+CLD2_SHOP = Shop
+
+CLD2_SHOPK = Shopkeeper
+
+CLD2_SLAVE = Captive
+
+CLD2_SLAVE_OBJ = Search for ~o~clues~s~ of the captives' whereabouts
+
+CLD2_SWITCHOBJ = Open the ~o~fake bookcase
+
+CLD4_CLDLBL = Sister Calderon
+
+CLD4_CRUC = Crucifix
+
+CLD4_PICKUPGODTXT = Pick up the ~o~crucifix~s~
+
+CLD_FINDCLUES = Find ~o~clues~s~ to where the kid has gone
+
+CLD_FINDKID = Find the ~o~kid~s~ and recover the crucifix
+
+CLD_GENT = Gentleman
+
+CLD_HELPKID = Help the ~o~kid~s~
+
+CLD_KID = Kid
+
+CLD_QUESTION = Question
+
+CLD_THREATEN = Threaten
+

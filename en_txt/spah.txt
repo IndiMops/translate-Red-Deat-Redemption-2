@@ -1,0 +1,10 @@
+SPAH_DECLINE = Decline
+
+SPAH_LISTEN = Listen
+
+SPAH_TAKE = Take Pamphlet
+
+SPAH_UC_ANTAGONIZE = Antagonize
+
+SPAH_UC_GREET = Greet
+

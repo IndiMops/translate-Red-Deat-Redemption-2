@@ -1,0 +1,336 @@
+DOW3_APPR_1_1 = ~z~You. Uh. Whatever do you want?
+
+DOW3_APPR_2_01 = ~z~As, as you can see, I... I was just attending to this.
+
+DOW3_APPR_2_02 = ~z~Now is not really a good time for me, sir. If you'd let me do this...
+
+DOW3_APPR_2_03 = ~z~Now, I don't know what the meaning of you barging in here is... but...
+
+DOW3_APPR_2_04 = ~z~Now, now, now, now... sir. You have no quarrel with me that I know of.
+
+DOW3_APPR_3_01 = ~z~That debt weighs on me heavily, it's going to be paid.
+
+DOW3_APPR_3_02 = ~z~I said I would get the money, and I will. Just... I can't for a while.
+
+DOW3_APPR_3_03 = ~z~The debt will be paid when I can pay it, sir... there's, there's nothing more I can say.
+
+DOW3_APPR_3_04 = ~z~You won't find anything on this property.
+
+DOW3_APPR_3_05 = ~z~I'm afraid your trip here... h-has been in vain.
+
+DOW3_APPR_3_06 = ~z~We've got nothing, sir. But when we have something, it will be yours.
+
+DOWN_INTM2_1 = ~z~Why'd it have to come to this, huh?
+
+DOWN_INTM2_2 = ~z~Believe me, sir. I didn't want this either.
+
+DOWN_INTM3_1 = ~z~You ain't such a do-gooder, are you? If you're running out on debts.
+
+DOWN_INTM3_2 = ~z~I'm not running anywhere. I... I... I'm doing my best for you.
+
+DOWN_INTM4_1 = ~z~You are a slippery little bastard. But I got you now.
+
+DOWN_INTM4_2 = ~z~Please. Please. Show some compassion. Please.
+
+DOWN_INTM5_1 = ~z~Strauss told me you needed a beating. You saying he was right?
+
+DOWN_INTM5_2 = ~z~What will that solve?
+
+DOWN_INTMR_01 = ~z~If I'm here, there's a reason I'm here.
+
+DOWN_INTMR_02 = ~z~If you'd been good, this wouldn't be happening.
+
+DOWN_INTMR_03 = ~z~We took your word, now we'll take your hide.
+
+DOWN_INTMR_04 = ~z~Pay the money, you'll make this stop.
+
+DOWN_INTMR_05 = ~z~How's that debt looking now?
+
+DOWN_INTMR_06 = ~z~Now wouldn't paying up have been a little easier.
+
+DOWN_INTMR_07 = ~z~Your debt's caught you, mister. And it ain't letting go.
+
+DOWN_INTMR_08 = ~z~Pay. The. Money.
+
+DOWN_INT_FAMMO_1 = ~z~I don't care about your family... you owe me money.
+
+DOWN_INT_FAM_1 = ~z~I don't care about your family.
+
+DOWN_PLEADS_01 = ~z~Please. Please, no.
+
+DOWN_PLEADS_02 = ~z~Be reasonable!
+
+DWN_BADBUSINSS_1 = ~z~Put the debts in the deed box and try not to kill them... it's very bad for business.
+
+DWN_BEAT_1 = ~z~Mr. Thomas Downes... you owe me money.
+
+DWN_BEAT_2 = ~z~Oh, no-no, I'm... I'm...
+
+DWN_RSC3_IG2_CH_1 = ~z~We ain't a charity, Mr. Downes.
+
+DWN_RSC3_IG2_FR_1 = ~z~~sl:0.4~Come here, you maggot.
+
+DWN_RSC3_IG2_FR_2 = ~z~Please, sir... I'm... I'll...
+
+DWN_RSC3_IG2_FR_3 = ~z~Really?
+
+DWN_RSC3_IG2_FR_4 = ~z~Threaten me, would you?
+
+DWN_RSC3_IG2_FR_5 = ~z~~sl:0.5~Please... I have a family, sir... please.
+
+DWN_RSC3_IG2_IN_1 = ~z~Mr. Thomas Downes... you owe me money.
+
+DWN_RSC3_IG2_IN_2 = ~z~Yep, that's me. Oh, no-no, I'm... I'm...
+
+DWN_RSC3_IG2_OT_1 = ~z~Really?
+
+DWN_RSC3_IG2_OT_2 = ~z~Threaten me, would you?
+
+DWN_RSC3_IG2_OT_3 = ~z~Please, I have a family sir, please.
+
+DWN_RSC_1_1 = ~z~Herr Morgan, Herr Morgan.
+
+DWN_RSC_1_2 = ~z~Mr. Strauss.
+
+DWN_RSC_1_3 = ~z~You busy, my friend?
+
+DWN_RSC_1_4 = ~z~Why?
+
+DWN_RSC_1_5 = ~z~I'll cut you in.
+
+DWN_RSC_1_6 = ~z~Loaning?
+
+DWN_RSC_1_7 = ~z~Already?
+
+DWN_RSC_1_8 = ~z~You know how it is...
+
+DWN_RSC_1_9 = ~z~people is happy to borrow off someone like me, but...
+
+DWN_RSC_1_10 = ~z~more enthusiastic paying back to someone like you.
+
+DWN_RSC_1_11 = ~z~Of course.
+
+DWN_RSC_1_12 = ~z~Who are they?
+
+DWN_RSC_1_13 = ~z~Let me see...
+
+DWN_RSC_1_14 = ~z~a Chick Matthews, works at Guthrie Farm.
+
+DWN_RSC_1_15 = ~z~He's a hand, I believe.
+
+DWN_RSC_1_16 = ~z~Mr. Wrobel...
+
+DWN_RSC_1_17 = ~z~You know how it is...
+
+DWN_RSC_1_18 = ~z~people is happy to borrow off someone like me, but...
+
+DWN_RSC_1_19 = ~z~more enthusiastic paying back to someone like you.
+
+DWN_RSC_1_20 = ~z~Of course.
+
+DWN_RSC_1_21 = ~z~Who are they?
+
+DWN_RSC_1_22 = ~z~Let me see...
+
+DWN_RSC_1_23 = ~z~a Chick Matthews, works at Guthrie Farm.
+
+DWN_RSC_1_24 = ~z~He's a hand, I believe.
+
+DWN_RSC_1_25 = ~z~Mr. Wrobel...
+
+DWN_RSC_1_26 = ~z~the small holder at Painted Sky...
+
+DWN_RSC_1_27 = ~z~runs the operations there... badly.
+
+DWN_RSC_1_28 = ~z~Miss Lilly Millet is a ranch maid up at Emerald Ranch.
+
+DWN_RSC_1_29 = ~z~And here was me believing Dutch's bluster about us helping folk.
+
+DWN_RSC_1_30 = ~z~It's legal work, Mr. Morgan.
+
+DWN_RSC_1_31 = ~z~Debtors belong in prison...
+
+DWN_RSC_1_32 = ~z~we are doing them a favor.
+
+DWN_RSC_1_33 = ~z~Aye, and I'll make sure they see it in them terms.
+
+DWN_RSC_1_DCALL_1 = ~z~Herr Strauss, Mr. Morgan will help you.
+
+DWN_RSC_1_LI_1 = ~z~Herr Morgan, Herr Morgan.
+
+DWN_RSC_1_LI_2 = ~z~Mr. Strauss.
+
+DWN_RSC_1_LI_3 = ~z~Busy, my friend?
+
+DWN_RSC_1_LI_B_1 = ~z~Why?
+
+DWN_RSC_1_LI_B_2 = ~z~I'll cut you in.
+
+DWN_RSC_1_LI_B_3 = ~z~Loaning? Already?
+
+DWN_RSC_1_LI_C_1 = ~z~What did you want? You loaning already?
+
+DWN_RSC_1_WALK_1 = ~z~Arthur.
+
+DWN_RSC_1_WALK_2 = ~z~Dutch?
+
+DWN_RSC_1_WALK_3 = ~z~I need you to do me a favor, nothing too... serious.
+
+DWN_RSC_1_WALK_4 = ~z~I need you to help Herr Strauss.
+
+DWN_RSC_1_WALK_5 = ~z~I been working hard, Dutch.
+
+DWN_RSC_1_WALK_6 = ~z~I know... and I know Strauss's business is not too... glamorous, but it pays.
+
+DWN_RSC_1_WALK_7 = ~z~Please, son, for me.
+
+DWN_RSC_1_WALK_8 = ~z~~sl:0.5~Okay.
+
+DWN_RSC_2_1 = ~z~How did you get on, Herr Morgan?
+
+DWN_RSC_2_2 = ~z~Fine, our accounts are up to date.
+
+DWN_RSC_2_3 = ~z~Sad sacks the lot of em.
+
+DWN_RSC_2_4 = ~z~Called in on the small holder... Wrobel.
+
+DWN_RSC_2_5 = ~z~Didnt even speak English.
+
+DWN_RSC_2_6 = ~z~Got Lilly Millet's debt...
+
+DWN_RSC_2_7 = ~z~made some bad decisions in her life.
+
+DWN_RSC_2_8 = ~z~Collected on that ranch hand...
+
+DWN_RSC_2_9 = ~z~slippery feller, lucky I got him.
+
+DWN_RSC_2_10 = ~z~I made a start on things...
+
+DWN_RSC_2_11 = ~z~haven't recovered all of it yet.
+
+DWN_RSC_2_12 = ~z~Good, very good.
+
+DWN_RSC_2_13 = ~z~My pleasure.
+
+DWN_RSC_2_14 = ~z~Well, if it's pleasure you're after...
+
+DWN_RSC_2_15 = ~z~there is one other...
+
+DWN_RSC_2_16 = ~z~this farmer, preacher, feller who I met in Valentine...
+
+DWN_RSC_2_17 = ~z~Mr. Downes.
+
+DWN_RSC_2_18 = ~z~The opinionated little do-gooder...
+
+DWN_RSC_2_19 = ~z~yeah, I know the one...
+
+DWN_RSC_2_20 = ~z~I certainly know the type.
+
+DWN_RSC_2_21 = ~z~Thank you, Herr Morgan.
+
+DWN_RSC_2_22 = ~z~There's no need to thank me...
+
+DWN_RSC_2_23 = ~z~like you said...
+
+DWN_RSC_2_24 = ~z~it's pleasure I'm after.
+
+DWN_RSC_2_25 = ~z~He's more slippery than he seems.
+
+DWN_RSC_2_26 = ~z~I've tried being polite...
+
+DWN_RSC_2_27 = ~z~don't take any nonsense.
+
+DWN_RSC_2_28 = ~z~Nonsense, me?
+
+DWN_RSC_2_29 = ~z~If he doesn't have the money, beat him.
+
+DWN_RSC_2_30 = ~z~Well, I usually do...
+
+DWN_RSC_2_31 = ~z~I know. I know...
+
+DWN_RSC_3_1 = ~z~You borrowed money from my business partner Herr Strauss.
+
+DWN_RSC_3_2 = ~z~You owe him.
+
+DWN_RSC_3_3 = ~z~You took the money.
+
+DWN_RSC_3_4 = ~z~He wants it back. What's not to understand?
+
+DWN_RSC_3_5 = ~z~Where's our money?
+
+DWN_RSC_3_6 = ~z~I don't have it.
+
+DWN_RSC_3_7 = ~z~Sell your place.
+
+DWN_RSC_3_8 = ~z~We already owe more than it's worth.
+
+DWN_RSC_3_9 = ~z~Then sell your wife, or your family, or something.
+
+DWN_RSC_3_10 = ~z~We ain't your idea of charity.
+
+DWN_RSC_3_11 = ~z~Is that clear?
+
+DWN_RSC_3_12 = ~z~Thomas.
+
+DWN_RSC_3_13 = ~z~What you looking at?
+
+DWN_RSC_3_14 = ~z~Thomas.
+
+DWN_RSC_3_15 = ~z~I said what you looking at, woman?
+
+DWN_RSC_3_16 = ~z~My husband isn't well.
+
+DWN_RSC_3_17 = ~z~If we could just have more...
+
+DWN_RSC_3_18 = ~z~Like I said, we ain't nobody's idea of charity.
+
+DWN_RSC_3_19 = ~z~Get us the money!
+
+RDOWN_CALL_01 = ~z~Downes!
+
+RDOWN_CALL_02 = ~z~Oh, Mr. Downes!
+
+RDOWN_CALL_03 = ~z~Downes, where are you?
+
+RDOWN_CALL_04 = ~z~Thomas Downes?
+
+RDOWN_EARLY_01 = ~z~What do you want, sir?
+
+RDOWN_EARLY_02 = ~z~Listen to me, sir. What are you here for?
+
+RDOWN_EARLY_03 = ~z~Sir, I don't know why you're here.
+
+RDOWN_EARLY_04 = ~z~If this is about the other day?
+
+RDOWN_EARLY_05 = ~z~What's the meaning of your coming here?
+
+RDOWN_RSC_4_1 = ~z~Ah, how did you get on?
+
+RDOWN_RSC_4_2 = ~z~Not so good.
+
+RDOWN_RSC_4_3 = ~z~He's almost dead...
+
+RDOWN_RSC_4_4 = ~z~and they seem more or less destitute.
+
+RDOWN_RSC_4_5 = ~z~You were a fool for lending them the money.
+
+RDOWN_RSC_4_6 = ~z~Well, people who aren't desperate...
+
+RDOWN_RSC_4_7 = ~z~don't seem so interested in my propositions.
+
+RDOWN_RSC_4_8 = ~z~Of course.
+
+RDOWN_WAIT1_01 = ~z~You have to be more reasonable.
+
+RDOWN_WAIT1_02 = ~z~I'm working... I'm working as hard as I can.
+
+RDOWN_WAIT2_01 = ~z~If you want the money, you'll have to wait.
+
+RDOWN_WAIT2_02 = ~z~Mr. Strauss seemed so understanding.
+
+RDOWN_WAIT3_01 = ~z~This is not forgiveness of my debt, this is just a stay.
+
+RDOWN_WAIT3_02 = ~z~A little patience is all I require.
+
+RDOWN_YOUBUSY_1 = ~z~You busy, my friend?
+

@@ -1,0 +1,40 @@
+SKSG3_ACT_1 = ~z~Fare you well, dear Sean, fare you well, adieu!
+
+SKSG3_ACT_2 = ~z~Rocks and mountains, I depart from you;
+
+SKSG3_ACT_3 = ~z~Nevermore shall my eyes, by your beauties be blest;
+
+SKSG3_ACT_4 = ~z~Nevermore shall you soothe; my sad bosom to rest.
+
+SKSG3_ACT_5 = ~z~Fare ye well, little birdies, that fly in the sky.
+
+SKSG3_ACT_6 = ~z~You fly all day long, and sing your troubles by;
+
+SKSG3_ACT_7 = ~z~I am doomed to this cell, I heave a deep sigh;
+
+SKSG3_ACT_8 = ~z~My heart sinks within me, in anguish I die.
+
+SKSG3_ACT_9 = ~z~Fare you well, little fishes, that glides through the sea;
+
+SKSG3_ACT_10 = ~z~Your life's all sunshine, all light, and all glee;
+
+SKSG3_ACT_11 = ~z~Nevermore shall I watch; your skill in the wave;
+
+SKSG3_ACT_12 = ~z~I'll depart from all friends; this side of the grave.
+
+SKSG3_ACT_13 = ~z~What would I give; such freedom to share;
+
+SKSG3_ACT_14 = ~z~To roam at my ease, and breathe the fresh air;
+
+SKSG3_ACT_15 = ~z~I would roam through the cities; through village and dell;
+
+SKSG3_ACT_16 = ~z~But I'll never return, to my cold prison cell.
+
+SKSG3_ACT_17 = ~z~Fare you well, kind friends, I am willing to own;
+
+SKSG3_ACT_18 = ~z~Such a wild outcast, never had known.
+
+SKSG3_ACT_19 = ~z~I'm the downfall of my family, my children, my wife;
+
+SKSG3_ACT_20 = ~z~God pity and pardon, I'm a poor prisoner for life.
+

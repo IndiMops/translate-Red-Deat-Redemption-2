@@ -1,0 +1,34 @@
+0x69E361BD = Пригоните дилижанс ~1~.
+
+0x90512AB5 = Пригоните телегу ~1~.
+
+FETCH_HONOURABLE_DEFEND_ENTITY_KILLED = Поставщик убит
+
+FETCH_HONOURABLE_DEFEND_HELP_INTRO = Чтобы возобновить работу, заберите припасы у поставщика и доставьте их в лагерь ~COLOR_MP_OBJECTIVE~~BLIP_CAMP~~s~. Это также пополнит запас материалов торговой компании Криппса.
+
+FETCH_HONOURABLE_DEFEND_OBJ_DEFEND_SUPPLIES = Сопроводите ~COLOR_MP_OBJECTIVE_FRIENDLY~повозку~s~ в ~COLOR_MP_OBJECTIVE~лагерь~s~.
+
+FETCH_HONOURABLE_DEFEND_OBJ_FIND_WAGON = Осмотрите ~COLOR_MP_OBJECTIVE~местность~s~ в поисках поставщика.
+
+FETCH_HONOURABLE_DEFEND_OBJ_GOTO = Направляйтесь в ~COLOR_MP_OBJECTIVE~лагерь поставщика припасов~s~.
+
+FETCH_HONOURABLE_DEFEND_OBJ_GOTO_HOME = Доберитесь до ~COLOR_MP_OBJECTIVE~фермы поставщика припасов~s~.
+
+FETCH_HONOURABLE_DEFEND_OBJ_KILL_ATTACKERS_BANDITS = Устраните ~COLOR_ENEMY~бандитов~s~.
+
+FETCH_HONOURABLE_DEFEND_OBJ_RETURN_SUPPLIES = Пригоните повозку ~1~.
+
+FETCH_HONOURABLE_DEFEND_OBJ_STEAL_WAGON = Сядьте в ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~.
+
+FETCH_HONOURABLE_DEFEND_PROTECT_FRIENDLY = Чтобы возобновить работу, защитите поставщика ~1b~ и доставьте припасы в лагерь ~COLOR_MP_OBJECTIVE~~BLIP_CAMP~~s~. Это также пополнит запас материалов торговой компании Криппса.
+
+FETCH_HONOURABLE_DEFEND_SHARD_DESC_PRIMARY = Заберите припасы
+
+FETCH_HONOURABLE_DEFEND_SHARD_PRIMARY_FAIL = Припасы уничтожены
+
+FETCH_HONOURABLE_DEFEND_SHARD_PRIMARY_PASS = Припасы доставлены
+
+FETCH_HONOURABLE_DEFEND_TICKER_DESTROY = Повозка уничтожена
+
+FETCH_HONOURABLE_DEFEND_TICKER_DESTROY_YOU = Вы уничтожили ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~.
+

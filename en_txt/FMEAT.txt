@@ -1,0 +1,154 @@
+0x33B6B0D3 = Defend tagged animals against the poachers.
+
+0x644EFFC5 = Tag the sedated animal
+
+0x9905E950 = A ~COLOR_MP_OBJECTIVE~rare animal~s~ has been sighted. Sample it before it disappears.
+
+0xED6101AF = Legendary Animal
+
+FME_AT_BLIP_NAME_ALLIGATOR = an alligator
+
+FME_AT_BLIP_NAME_BEAR = a bear
+
+FME_AT_BLIP_NAME_BEAVER = a beaver
+
+FME_AT_BLIP_NAME_BIGHORNRAM = a sheep
+
+FME_AT_BLIP_NAME_BISON = a bison
+
+FME_AT_BLIP_NAME_BLACK_BEAR = a bear
+
+FME_AT_BLIP_NAME_BOAR = a boar
+
+FME_AT_BLIP_NAME_BUCK = a buck
+
+FME_AT_BLIP_NAME_COUGAR = a cougar
+
+FME_AT_BLIP_NAME_COYOTE = a coyote
+
+FME_AT_BLIP_NAME_ELK = an elk
+
+FME_AT_BLIP_NAME_FOX = a fox
+
+FME_AT_BLIP_NAME_IGUANA = an iguana
+
+FME_AT_BLIP_NAME_LEGENDARY_BIGHORNRAM = the ~COLOR_MP_OBJECTIVE~Legendary Ram~s~
+
+FME_AT_BLIP_NAME_LEGENDARY_COUGAR = the ~COLOR_MP_OBJECTIVE~Legendary Cougar~s~
+
+FME_AT_BLIP_NAME_LEGENDARY_ELK = the ~COLOR_MP_OBJECTIVE~Legendary Elk~s~
+
+FME_AT_BLIP_NAME_LEGENDARY_MOOSE = the ~COLOR_MP_OBJECTIVE~Legendary Moose~s~
+
+FME_AT_BLIP_NAME_LEGENDARY_PANTHER = the ~COLOR_MP_OBJECTIVE~Legendary Panther~s~
+
+FME_AT_BLIP_NAME_MOOSE = a moose
+
+FME_AT_BLIP_NAME_MUSKRAT = a muskrat
+
+FME_AT_BLIP_NAME_PANTHER = a panther
+
+FME_AT_BLIP_NAME_PRONGHORN = a pronghorn doe
+
+FME_AT_BLIP_NAME_SEDATED = Sedated Animal
+
+FME_AT_BLIP_NAME_TAGGED = Tagged Animal
+
+FME_AT_BLIP_NAME_WHITETAIL_DEER = a deer
+
+FME_AT_BLIP_NAME_WOLF = a wolf
+
+FME_AT_CHUCK_PLAYER_OUT_KILLING = You have been placed as a spectator for killing too many animals.
+
+FME_AT_HELP_KILLING_WARNING_1 = Killing animals will result in your removal from the Event.
+
+FME_AT_HELP_KILLING_WARNING_2 = You killed another animal. This is your final warning.
+
+FME_AT_HELP_RULE_1 = Cooperate with other ~COLOR_MP_OBJECTIVE_FRIENDLY~players~s~ to sedate and tag the required number of animals of each species. Tagging the required number will earn everyone a sample.
+
+FME_AT_HELP_RULE_2 = You only have 1 life and will not respawn if you are killed.
+
+FME_AT_HELP_RULE_3 = Use your Varmint Rifle and .22 Sedative ammo to safely sedate animals to tag. Keep an eye out for a Legendary Animal to also sedate and tag.
+
+FME_AT_HELP_WEAPON = A Varmint Rifle and .22 Sedative ammo have been temporarily added to your inventory. Use them to safely sedate animals to tag.
+
+FME_AT_LEGENDARY_BIGHORNRAM = ~COLOR_MP_OBJECTIVE~Legendary Ram~s~
+
+FME_AT_LEGENDARY_COUGAR = ~COLOR_MP_OBJECTIVE~Legendary Cougar~s~
+
+FME_AT_LEGENDARY_ELK = ~COLOR_MP_OBJECTIVE~Legendary Elk~s~
+
+FME_AT_LEGENDARY_MOOSE = ~COLOR_MP_OBJECTIVE~Legendary Moose~s~
+
+FME_AT_LEGENDARY_PANTHER = ~COLOR_MP_OBJECTIVE~Legendary Panther~s~
+
+FME_AT_OBJ_FIND = Find and sedate animals
+
+FME_AT_OBJ_LEGENDARY_ANIMAL = Find and sedate the ~COLOR_MP_OBJECTIVE~Legendary Animal~s~
+
+FME_AT_OBJ_TAG = Tag the ~COLOR_MP_OBJECTIVE_FRIENDLY~animal target~s~
+
+FME_AT_POACHER_NAME = Poacher
+
+FME_AT_SCORE_TAG = Tagged
+
+FME_AT_SHARD_AD = ~1~ / ~2~ tagged
+
+FME_AT_SHARD_ADL = ~1~ / ~2~ & 1 Legendary Animal tagged
+
+FME_AT_SHARD_END_TAG = ~1~ animals tagged
+
+FME_AT_SHARD_END_TAG_ALT = ~1~ animal tagged
+
+FME_AT_SHARD_LEGENDATY = ~COLOR_MP_OBJECTIVE~Legendary Animal~s~ spotted
+
+FME_AT_SHARD_OBJECTIVE = Sedate and tag as many animals as possible
+
+FME_AT_SHARD_SAMPLE_ALLIGATOR = Alligator sampled
+
+FME_AT_SHARD_SAMPLE_BEAR = Bear sampled
+
+FME_AT_SHARD_SAMPLE_BEAVER = Beaver sampled
+
+FME_AT_SHARD_SAMPLE_BIGHORNRAM = Bighorn sheep sampled
+
+FME_AT_SHARD_SAMPLE_BISON = Bison sampled
+
+FME_AT_SHARD_SAMPLE_BLACK_BEAR = Bear sampled
+
+FME_AT_SHARD_SAMPLE_BOAR = Boar sampled
+
+FME_AT_SHARD_SAMPLE_BUCK = Buck sampled
+
+FME_AT_SHARD_SAMPLE_COUGAR = Cougar sampled
+
+FME_AT_SHARD_SAMPLE_COYOTE = Coyote sampled
+
+FME_AT_SHARD_SAMPLE_ELK = Elk sampled
+
+FME_AT_SHARD_SAMPLE_FOX = Fox sampled
+
+FME_AT_SHARD_SAMPLE_IGUANA = Iguana sampled
+
+FME_AT_SHARD_SAMPLE_LEGENDARY = ~1~ sampled
+
+FME_AT_SHARD_SAMPLE_MOOSE = Moose sampled
+
+FME_AT_SHARD_SAMPLE_MUSKRAT = Muskrat sampled
+
+FME_AT_SHARD_SAMPLE_PANTHER = Panther sampled
+
+FME_AT_SHARD_SAMPLE_PRONGHORN = Pronghorn Doe sampled
+
+FME_AT_SHARD_SAMPLE_WHITETAIL_DEER = Deer sampled
+
+FME_AT_SHARD_SAMPLE_WOLF = Wolf sampled
+
+FME_AT_TAG_HELP = Approach the sedated animal and hold ~INPUT_CONTEXT_X~ to tag the animal.
+
+FME_AT_TICKER_KILLED_TARGET = ~1p~ has killed ~2~
+
+FME_AT_TICKER_TAGGED = ~1p~ has tagged ~2~
+
+FME_AT_TICKER_TRANQ_TARGET = ~1p~ has sedated ~2~
+

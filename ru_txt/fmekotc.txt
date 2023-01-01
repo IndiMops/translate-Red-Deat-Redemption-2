@@ -1,0 +1,38 @@
+0x2CB1CB3C = ~COLOR_MP_OBJECTIVE_ENEMY~Сектор~s~ скоро переместится
+
+0x5CAD52D3 = За ~COLOR_MP_OBJECTIVE_ENEMY~сектор~s~ идет борьба.
+
+0x449DD304 = Царь
+
+0x630E26D9 = ~COLOR_MP_OBJECTIVE_FRIENDLY~Сектор~s~ скоро переместится
+
+0xBCA9A714 = ~COLOR_MP_OBJECTIVE_NEUTRAL~Сектор~s~ переместился
+
+FME_KOTC_HELP_CONTENT_RULES = Войдите и оставайтесь в отмеченной флагами области ~BLIP_MP_GAME_HILL~, чтобы захватить ее и набрать очки. Через некоторое время область поменяется.
+
+FME_KOTC_HELP_ENEMY_KING = Войдите в область ~COLOR_MP_OBJECTIVE_ENEMY~~BLIP_MP_GAME_HILL~~s~ и убейте ~COLOR_POSSE_ENEMY~царя горы ~BLIP_AMBIENT_KING~~s~, чтобы захватить ее.
+
+FME_KOTC_HELP_FRIENDLY_KING = Войдите в область ~COLOR_MP_OBJECTIVE_FRIENDLY~~BLIP_MP_GAME_HILL~~s~ с ~COLOR_POSSE_ALLY~членом вашего отряда ~BLIP_AMBIENT_KING~~s~, чтобы увеличить и ваш счет тоже.
+
+FME_KOTC_OBJ_MOVING_TICKER_NEUTRAL = ~COLOR_MP_OBJECTIVE_NEUTRAL~Сектор~s~ скоро переместится
+
+FME_KOTC_SHARD_INTRO_PRIMARY = Захват и контроль секторов
+
+FME_KOTC_SHARD_OUTRO_PRIMARY_FAILED = ~1~ становится царем горы
+
+FME_KOTC_SHARD_OUTRO_PRIMARY_WON = Ваш счет: ~1~
+
+FME_KOTC_VARIATION_ENTER = Получите контроль над новым ~COLOR_MP_OBJECTIVE_NEUTRAL~сектором~s~
+
+FME_KOTC_VARIATION_FFA_OBJECTIVE_ATTACK = Перехватите контроль над ~COLOR_MP_OBJECTIVE_ENEMY~сектором~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FME_KOTC_VARIATION_FFA_OBJECTIVE_DEFEND_SELF = Защищайте ~COLOR_MP_OBJECTIVE_FRIENDLY~сектор~s~.
+
+FME_KOTC_VARIATION_FFA_OBJECTIVE_DEFEND_TEAM = Помогите защитить ~COLOR_MP_OBJECTIVE_FRIENDLY~сектор~s~.
+
+FME_KOTC_VARIATION_FFA_OBJECTIVE_ENTER = Получите контроль над ~COLOR_MP_OBJECTIVE_NEUTRAL~сектором~s~.
+
+KC_HELP_RULES = Захватите сектор, чтобы стать ~COLOR_FREEMODE_EVENT~царем горы~s~ и набирать очки.
+
+KC_KING_BLIP = Сектор события
+

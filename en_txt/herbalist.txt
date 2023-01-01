@@ -1,0 +1,334 @@
+0x027DF61A = ~z~~sl:0.0:3.1~Excellent. I'm excited to see what you've got.~sl:~Just put it all on the table for me.
+
+0x02CDF75E = ~z~~COLOR_ORANGE~ Animals can smell you a mile away on the hunt, this recipe will help mask your scent.
+
+0x042A287C = ~z~Have you forgotten our agreement?
+
+0x07471566 = ~z~~sl:0.0:3.3~Prepare this for long journeys, and hold on tight.~sl:~Your horse will never want to stop running.
+
+0x0984F55C = ~z~If you don't stop, I'll have to stop you myself.
+
+0x0CC05E52 = ~z~~COLOR_ORANGE~ It's said to have small, drooping, purple flowers
+
+0x0D130E21 = ~z~~COLOR_ORANGE~ I appreciate the help, here, I have something special for you. Come take it before you go.
+
+0x0D212938 = ~z~~sl:0.6~You're a monster! Why would you say that?
+
+0x0D253863 = ~z~~sl:0.0:3.7~Oh, hello, Arthur. Are you feeling alright?~sl:~You look like you could use some refreshing...
+
+0x0DFD13DE = ~z~Well, up to you. Safe travels.
+
+0x0E2D44DF = ~z~And don't come back!
+
+0x0F6B9D14 = ~z~Damn you! This is absurd!
+
+0x0F911F89 = ~z~~COLOR_ORANGE~ Name's William.
+
+0x1A76605D = ~z~~sl:0.0:4.5:1~This'll be... spicy. Uh, this is spicy...
+
+0x1B01D948 = ~z~~sl:0.0:2.8~That's fine, it's not for everyone.~sl:~Now... if you don't mind...
+
+0x1D1D87CB = ~z~I'm quite confident. Gets my heart racing.
+
+0x1D7B96E4 = ~z~~sl:0.0:2.3~Oh! I almost forgot.~sl:~I have a recipe here you might be interested in.
+
+0x1F2EA59C = ~z~Stop it! That's mine, I said!
+
+0x2ECAD698 = ~z~~sl:0.0:2.4~This will make a fine meal for my horse,~sl:0.0:2.5~if I don't keep it all for myself.~sl:0.0:3.1~When I drink a tonic from these currants, it's like...~sl:~the clouds fall away. I can focus on anything.
+
+0x3B6BA52C = ~z~~sl:0.0:3.6~All this help, you deserve something in return.~sl:~Well, this is for your horse, actually.
+
+0x3B819FCD = ~z~Oh, good, good. The name's William, by the way.
+
+0x3BAD90A7 = ~z~~sl:0.0:1.5~Perhaps quite a lot.~sl:0.0:2.8~I eat them when I need to clear my head.~sl:0.0:2.8~They can make quite a meal for a horse, too...~sl:~providing you prepare it right.
+
+0x3D0E94EF = ~z~It is a gift. No strings, I promise.
+
+0x3D7FF8DE = ~z~~COLOR_ORANGE~ This is no ordinary bait. With this, you will be able to attract any herbaceous animal in the land. It may make your continued studies much, much easier.
+
+0x3DB69280 = ~z~~sl:09.0:3.0~I've made some interesting findings myself.~sl:~Care to assist? I think you'll be intrigued.
+
+0x3F30F309 = ~z~~sl:0.0:2.6~After all of your assistance last time,~sl:~I was hoping you might be willing to help out again.
+
+0x4A38C5DC = ~z~~sl:5.2~Yes, very good.
+
+0x4BA847D6 = ~z~~COLOR_ORANGE~ If your horse ever gets ill, this recipe will show you how to make some medicine for it.
+
+0x4C81194E = ~z~I said to leave. Now go.
+
+0x4D8B0B8F = ~z~~sl:0.3:2.5~You were a great help last time.~sl:~Would you be willing to help again?
+
+0x5B8FD2C4 = ~z~What? No, please! Don't hurt me!
+
+0x5DDD0BF8 = ~z~
+
+0x5E0CB72D = ~z~~sl:0.0:2.4~Try some of these recipes for yourself.~sl:~You'll find they're anything but.
+
+0x5E154111 = ~z~I could use some assistance gathering herbs for my studies.
+
+0x5EFF0C12 = ~z~Well next time, maybe. Good luck on your travels.
+
+0x6A9D1053 = ~z~~COLOR_ORANGE~ Perhaps you'll find yourself to be more efficient with the use of herbs in your studies.
+
+0x6A84BD89 = ~z~~sl:0.0:2.7~Most herbs have unique properties.~sl:0.0:2.1~I'd be happy to share this knowledge with you~sl:~in exchange for your help.
+
+0x6F95AF2D = ~z~~sl:0.0:1.4~How did you get on, friend?~sl:0.4~Place what you got on the table there.
+
+0x7A1DADAC = ~z~~sl:0.0:1.6~You've been a great help.~sl:~I'd like to give you this recipe as a sign of appreciation.
+
+0x7CDFD396 = ~z~~COLOR_ORANGE~ Hunters use this a lot. If you have enough ground up, it could be very effective as bait, heh heh.
+
+0x7D2D648D = ~z~Won't you listen to me?
+
+0x8B16D8A4 = ~z~~sl:0.0:2.8~Now, if you don't mind, I'll be getting back to my studies.~sl:~I look forward to our next meeting, traveler.
+
+0x8FB2BFF6 = ~z~~sl:0.0:3.0~I found this when researching Oleander Sage,~sl:0.0:2.2~though I can't say why I kept it.~sl:0.4:3.1~It explains how to craft poison-tipped arrows.~sl:~Maybe you can find some use for it. I certainly won't.
+
+0x9BDF23A3 = ~z~~sl:0.0:2.1~It doesn't thrive near water, so...~sl:~I wouldn't waste your time looking there.
+
+0x9C2C5FE8 = ~z~~sl:0.0:1.7~Why are you acting like this?~sl:~Please, just leave me be.
+
+0x9D0F8004 = ~z~~sl:0.4~Yeah, this is perfect.
+
+0x9DAC2371 = ~z~~sl:0.8:3.3~You can use this feverfew to make a tonic.~sl:0.3:3.4~It'll provide stamina necessary for running,~sl:0.0:2.9~long hunts, for all manner of activities.~sl:0.0:2.3~I'm sure you have some in mind...~sl:1.1~Lovely.
+
+0x9E90913B = ~z~Fair enough, I won't force you. All the best to you.
+
+0x11E63AB5 = ~z~Leave me be, I said!
+
+0x13B8B9C1 = ~z~What are you doing?
+
+0x14B51FB6 = ~z~~sl:0.3:1.8~You've been a great help.~sl:~I've bottled up this tonic for you as a reward.
+
+0x20B57D60 = ~z~~sl:0.0:3.2~Really? Well, you're welcome to your opinion...~sl:~as I'm open to mine.
+
+0x26DE28CD = ~z~~sl:1.1:3.8~Oh yes. I feel ready to take on the world.~sl:~I'll have trouble sleeping tonight.
+
+0x27FA535D = ~z~~sl:0.0:3.2~There's still much we can both learn.~sl:~What do you say?
+
+0x30F602DF = ~z~Let's have a good look at this.
+
+0x36CB3F24 = ~z~Why do you keep at this? Just leave me alone!
+
+0x38DCF3FD = ~z~
+
+0x39AA6DFA = ~z~~sl:0.0:2.4~I'm looking to study Wild Feverfew.~sl:~I've heard that it gives a kick like nothing else.
+
+0x58AAF247 = ~z~~sl:0.0:2.7~Hello! Good to see you again.~sl:~I bet you've been looking at plants differently, huh?
+
+0x58C978E4 = ~z~Let's try this...
+
+0x69D5FCB0 = ~z~~COLOR_ORANGE~ Be very careful with this... I won't be needing this one but perhaps you have a use for shooting dynamite.
+
+0x77AC8E2E = ~z~So, how'd you make out?
+
+0x78A87F84 = ~z~~COLOR_ORANGE~ I must say I'm impressed with your skills. You're a natural. Here. Take this.
+
+0x86D5F7D3 = ~z~Would you please not mess with my campsite?
+
+0x86DCDA0E = ~z~~sl:0.3:2.5~You see this purple flower here?~sl:0.0:3.6~This is sage, but I'll need to experiment with more of it~sl:~before I can be sure of its effects.
+
+0x88F423CB = ~z~Those plants may take some searching. I'd get started.
+
+0x97E3BB20 = ~z~~sl:0.0:2.7~I was glad to see you before I began my journeys.~sl:0.0:2.0~I'm heading far away, and I...~sl:0.0:2.3~do not know if our paths will cross again.~sl:0.7:2.2~It has been a pleasure to meet you.~sl:~Thank you, and farewell.
+
+0x165DDE2D = ~z~~COLOR_ORANGE~ Are you familiar with the studies of plants, friend?
+
+0x169E0A32 = ~z~Well, okay then. Thank you for your help.
+
+0x177BE8F8 = ~z~~COLOR_ORANGE~ Yes, very good.
+
+0x252AFD61 = ~z~Well, I don't have anything for you.
+
+0x277D41EC = ~z~~sl:0.0:3.3~I think we've seen enough of each other for one lifetime.~sl:0.6~Please leave.
+
+0x295FEEDC = ~z~~sl:0.0:1.6~Save it for bad injuries.~sl:0.0:2.2~Heaven forbid your horse is in trouble,~sl:~you'll be glad you had it.
+
+0x326A5E46 = ~z~Hey, you're back!
+
+0x331F950E = ~z~Fair enough, my friend. Fair enough.
+
+0x395AFEED = ~z~Anyone riding in the wild should have some on hand.
+
+0x450D5CCE = ~z~
+
+0x481BC736 = ~z~~COLOR_ORANGE~ I told you to keep to your own things!
+
+0x647E872D = ~z~~COLOR_ORANGE~ I wrote up a special recipe to help highten your senses, I think you would like it.
+
+0x745BA521 = ~z~Hey. That's not yours to have.
+
+0x756E48D2 = ~z~~sl:0.0:2.2~I don't like what you're implying,~sl:~and I think I'd prefer you leave now...
+
+0x829CE0FE = ~z~~sl:0.0:2.5~I could use some assistance gathering herbs,~sl:0.0:2.1~and if I may be so bold,~sl:0.0:2.0~you look like you could benefit from~sl:~some of the medicinal properties that plants could offer.
+
+0x882AB2D5 = ~z~~sl:0.3:1.8~You and your horse will be fine.~sl:~Better than fine. On my honor.
+
+0x922C86E9 = ~z~~sl:0.0:3.9~This special elixir will set you right, no matter your wrong.~sl:~It's all the power the natural world can offer.
+
+0x958D4B8C = ~z~~sl:0.0:1.8~It's not a waste to me.~sl:0.0:2.4~If it's so wearying to you,~sl:0.0:2.7~maybe you should leave me alone to it.~sl:~I wouldn't want to waste any more of your time...
+
+0x2713C60E = ~z~Oh. Okay then. Some other time, perhaps.
+
+0x3370BDE3 = ~z~I think it could be a good arrangement, but I won't push you.
+
+0x3885A78C = ~z~~sl:0.0:1.3~Oh, yes...~sl:1.6:2.1~I feel better already!~sl:0.7:1.2~They were right,~sl:~this stuff does have medicinal properties.
+
+0x5716A8B4 = ~z~You have earned something for all your help. This tonic.
+
+0x5997B3B2 = ~z~~sl:0.0:1.9~Look for small, round flowers,~sl:~white petals, and a yellow eye.
+
+0x6219E01B = ~z~Please, it's my pleasure. Take it.
+
+0x6614BDCB = ~z~~sl:0.7:3.2~No, you'll be fine. I wouldn't eat too much though.~sl:~Wouldn't want to become reliant.
+
+0x6816EB10 = ~z~You evil man. I won't give you a thing.
+
+0x7621AD26 = ~z~~sl:0.0:3.8~I've been told it can 'promote the flowering of one's health.'~sl:~I suppose we'll find out what that means when you find some...
+
+0x9382F408 = ~z~I hope you still plan to find those plants for me...
+
+0x15089E36 = ~z~I really must insist you give me some space here.
+
+0x51425A1E = ~z~~COLOR_ORANGE~ You have serious issues!
+
+0x93146D87 = ~z~It'll work, my friend.
+
+0x309451B1 = ~z~~sl:0.0:1.5~Let's see how this tastes.
+
+0x344312CC = ~z~You again? I thought I'd made myself clear.
+
+0x683799EF = ~z~~sl:0.0:4.1~These herbs I'm studying may prove beneficial for you.~sl:~The medicinal properties can be quite powerful.
+
+0x5541777F = ~z~~sl:0.0:2.7~Please, you are not welcome here.~sl:~Please just leave.
+
+0x6777897D = ~z~~sl:0.0:2.4~I'm looking for a plant called Yarrow.~sl:~You can distinguish it by its red flowers.
+
+0x7364318D = ~z~~COLOR_ORANGE~ So I'm looking for a plant the locals call Violet Snowdrop.
+
+0x85049424 = ~z~~COLOR_ORANGE~ Excellent. I'm excited to see what you've got. Just put it all on the table for me.
+
+0x87612521 = ~z~Hey there, friend! Come, stop on by for a moment.
+
+0xA2E52251 = ~z~~sl:0.0:2.4~I'll be getting back to my studies now...~sl:~but I have a feeling our paths will cross again. Be well.
+
+0xA3B8F083 = ~z~~sl:0.0:3.5~Oh, hello... I didn't know if I'd see you again.~sl:~I could still use a hand, if you're feeling amenable.
+
+0xA5D822CF = ~z~~sl:0.0:3.3~This can cure almost all maladies to your animal,~sl:~natural and otherwise. Don't ask how.
+
+0xA9EDFFAB = ~z~You cruel man. I think you should leave.
+
+0xA3471523 = ~z~No need to be shy.
+
+0xAC245FB0 = ~z~Hey there, could you help me?
+
+0xAD6C6649 = ~z~~sl:0.0:2.1~I'm hoping for more pep, to be honest.~sl:~Sometimes my studies can be draining, believe it or not.
+
+0xAD783E80 = ~z~~sl:0.0:1.4~I don't think I believe you.~sl:~Please leave me be.
+
+0xAF5AE030 = ~z~I said, leave!
+
+0xB02D5987 = ~z~You are insane!
+
+0xB5A943BC = ~z~Back again, huh?
+
+0xB9AC7E75 = ~z~I don't trust you at all!
+
+0xB9BE8ED7 = ~z~Thanks, Arthur. A-and to you.
+
+0xB80C0140 = ~z~What is it I've done to deserve this from you?
+
+0xBEE605F6 = ~z~~sl:0.0:2.0~How did you get on?~sl:~Spread it all out on the table here.
+
+0xBF022976 = ~z~~sl:0.0:3.1~Little of this... little of that...~sl:1.8:1.0:1~bit more...
+
+0xBF4066ED = ~z~I told you to keep to your own things!
+
+0xC4C571F6 = ~z~~sl:1.3:2.2~This looks like a good sample...~sl:2.0~Here we go...
+
+0xC6F78AD7 = ~z~Wait, you're serious? Leave me alone!
+
+0xC8C6B776 = ~z~~sl:0.0:1.6~That's well and good,~sl:0.0:2.1~but you've already caused me enough.~sl:~Please, just move on.
+
+0xC9E2FCFA = ~z~Not a problem. Just thought I'd ask.
+
+0xC76BB2D6 = ~z~Seems so. I'll forage for them myself then.
+
+0xC93BB8B8 = ~z~~sl:0.2~You too, my friend. You too.
+
+0xC987A1AA = ~z~Let me know if you have a moment. I'll just be working.
+
+0xC9735D31 = ~z~~sl:0.0:1.1~Hello there!~sl:~Would you be able to help me out again?
+
+0xC53179E7 = ~z~~sl:0.0:2.8~I found this one with his friends in the woods.~sl:~I'd check wooded areas for more.
+
+0xC221962E = ~z~I'm sorry it's come to this.
+
+0xCA1826BE = ~z~~sl:0.0:3.9~I need to collect a big batch of this currant here.~sl:~You'll find the fruits hanging from bushes.
+
+0xCE92D634 = ~z~Hey! I don't want you around here or around me.
+
+0xCF91A1D3 = ~z~Oh, hello there, friend. Do you have a minute?
+
+0xD083AFB9 = ~z~~COLOR_ORANGE~ I came across this recipe for disaster in my books, a molotov cocktail. I have no interest in explosions.
+
+0xD7DA614B = ~z~Why are you doing this? What did I do to you?
+
+0xD8A63E5F = ~z~~sl:0.0:2.2~A man could go for days on this.~sl:0.0:2.2~You've had some long ones, I'm sure.~sl:~Some sage may just be what you need.
+
+0xD30BBEBF = ~z~Not sure that's good news, but I hope it helps.
+
+0xD74B80B7 = ~z~I understand. It can be hard to believe.
+
+0xD871AB96 = ~z~Money? Afraid I can't help you there.
+
+0xD2472FDD = ~z~~sl:0.0:2.6~Oh well, I suppose I'll go out myself~sl:~and find them later, then.
+
+0xDB42FDF7 = ~z~~sl:0.0:2.8~I am a man of peace! And you...~sl:~you're rotten inside.
+
+0xDE30AB16 = ~z~~sl:0.0:2.8~I'm told that to maximize its effects,~sl:~you should combine multiple flowers over heat.
+
+0xE4D6A8A2 = ~z~~sl:0.0:2.6~Thank you for all your help. Please...~sl:~take this recipe before you go. I think you'll like it.
+
+0xE5E1168F = ~z~Hey! Hey, that's my horse!
+
+0xE41F6817 = ~z~~sl:0.0:2.0~Ah, nice to see you.~sl:0.0:2.3~I'm working on a new study...~sl:~and I thought you might be interested in helping me.
+
+0xE61CC21E = ~z~~sl:0.0:3.3~Indeed. Remarkable how much potential~sl:~there can be in so small a container.
+
+0xE94C4CFD = ~z~Will you take this?
+
+0xE364A969 = ~z~~sl:0.0:2.9~Alright then, let's see what you got for me.~sl:0.4~Place it on the table here.
+
+0xE6447710 = ~z~~sl:0.0:2.7~A chew of sage gives me a good kick.~sl:~Cook it down though? Stronger than any coffee.
+
+0xEB12269A = ~z~No! Leave me out of your games!
+
+0xECC384F8 = ~z~~sl:0.0:2.9:1~Nice'n fresh... very fragrant.
+
+0xF068AC16 = ~z~I said to back off!
+
+0xF077CC33 = ~z~You're a little close there.
+
+0xF8FA3884 = ~z~Is that right? How about this?
+
+0xF16A5DAF = ~z~~sl:0.0:2.4~It's taken me years to develop,~sl:0.0:3.5~with innumerable benefits to your senses and spirit.~sl:~Save it for a special occasion.
+
+0xF24CD0DB = ~z~~sl:0.0:3.7~You've been helpful, thank you. You're a horseman, I know.~sl:~You'll want to have this on hand.
+
+0xF35CFB44 = ~z~~sl:0.0:2.1~I'd really like to study these plants.~sl:~Do you think you could go find some for me?
+
+0xF94A18ED = ~z~I won't bite! Just thought I'd share what I'm working on.
+
+0xF4711A13 = ~z~Well... if you have any time or interest, I'll be here.
+
+0xF27394DC = ~z~You are a lunatic! Hope I never see you again!
+
+0xFA94E6DF = ~z~Oh... what'd you find?
+
+0xFCEB1AE9 = ~z~~COLOR_ORANGE~ This works best in powder form.
+
+0xFD81DBC6 = ~z~~COLOR_ORANGE~ Should you need to craft a better balanced knife, this pamphlet can show you the way.
+
+0xFFF94E34 = ~z~~sl:0.0:2.0~It shouldn't be too hard to find.~sl:~They thrive out in the open, under direct sunlight.
+

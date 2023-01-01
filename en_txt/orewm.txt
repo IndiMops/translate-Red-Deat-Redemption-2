@@ -1,0 +1,10 @@
+NB_WILDMAN_BLIP_NAME = Stranger
+
+NB_WILDMAN_GIVE_HELP = Cook the required provision and give it to the Stranger ~BLIP_AMBIENT_PED_MEDIUM~ if you want to help.
+
+NB_WILD_MAN_GIVE_MEAT = Give ~a~
+
+NB_WILD_MAN_LEAVE_ILO = Decline
+
+NB_WILD_MAN_NO_MEAT = Give Cooked Meat
+

@@ -1,0 +1,14 @@
+RBT03_F_ESCP = Bart Cavanaugh escaped.
+
+RBT03_F_LEFT_A = Bart Cavanaugh was left behind.
+
+RBT03_F_LEFT_C = The camp was left behind.
+
+RBT03_F_LEFT_D = Bart Cavanaugh's corpse was left behind.
+
+RBT03_F_LOST = Bart Cavanaugh's corpse could not be retrieved.
+
+RBT03_OBJ_1 = Search the ~o~camp~s~ for Bart Cavanaugh
+
+RBT03_OBJ_2 = Return to the ~o~camp
+

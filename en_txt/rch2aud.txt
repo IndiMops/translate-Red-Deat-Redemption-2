@@ -1,0 +1,128 @@
+RCH2_RSC1_1 = ~z~Hey Milton,
+
+RCH2_RSC1_2 = ~z~can you give me a hand with this fence?
+
+RCH2_RSC1_3 = ~z~Sure...
+
+RCH2_RSC1_4 = ~z~Know much about fence building?
+
+RCH2_RSC1_5 = ~z~Not really.
+
+RCH2_RSC1_6 = ~z~Can't build a fence,
+
+RCH2_RSC1_7 = ~z~can't milk a cow,
+
+RCH2_RSC1_8 = ~z~ain't used to shoveling shits,
+
+RCH2_RSC1_9 = ~z~but drops a gang of robbers single handed.
+
+RCH2_RSC1_10 = ~z~Guess we all got our peculiarities, Mr. Dickens.
+
+RCH2_RSC1_11 = ~z~What was you doing before you came here?
+
+RCH2_RSC1_12 = ~z~I told you,
+
+RCH2_RSC1_13 = ~z~wife got cheated out of inheritance,
+
+RCH2_RSC1_14 = ~z~we was in a legal dispute.
+
+RCH2_RSC1_15 = ~z~It was a bad time.
+
+RCH2_RSC1_16 = ~z~That sounds awful,
+
+RCH2_RSC1_17 = ~z~but I guess I don't believe a word of it.
+
+RCH2_RSC1_18 = ~z~I was raised to take a man at his word,
+
+RCH2_RSC1_19 = ~z~and also to believe this is a free country,
+
+RCH2_RSC1_20 = ~z~so free that I can't tell you what to think,
+
+RCH2_RSC1_21 = ~z~so I guess it don't much matter what you believe.
+
+RCH2_RSC1_22 = ~z~But I will work hard,
+
+RCH2_RSC1_23 = ~z~and I learn fast.
+
+RCH2_RSC1_24 = ~z~Okay...
+
+RCH2_RSC1_25 = ~z~gimme a hand with this fence.
+
+RCH2_RSC1_26 = ~z~Well, there's plenty more to do.
+
+RCH2_RSC1_LI_1 = ~z~Hey Milton, can you give me a hand with this fence?
+
+RCH2_RSC2_1 = ~z~Milton, get over here.
+
+RCH2_RSC2_2 = ~z~Coming.
+
+RCH2_RSC2_3 = ~z~Come on, give us a hand.
+
+RCH2_RSC2_4 = ~z~Know much about bulls, Milton?
+
+RCH2_RSC2_5 = ~z~Ah, just the basics...
+
+RCH2_RSC2_6 = ~z~don't make them mad.
+
+RCH2_RSC2_7 = ~z~Angus Geddes,
+
+RCH2_RSC2_8 = ~z~this is Jim Milton.
+
+RCH2_RSC2_9 = ~z~Mr. Milton.
+
+RCH2_RSC2_10 = ~z~Angus is your boss' son.
+
+RCH2_RSC2_11 = ~z~Nice to meet you.
+
+RCH2_RSC2_12 = ~z~Well let's try and move this great hunk of chuck.
+
+RCH2_RSC2_13 = ~z~Come on,
+
+RCH2_RSC2_14 = ~z~move.
+
+RCH2_RSC2_15 = ~z~Shit...
+
+RCH2_RSC2_16 = ~z~I'll get him!
+
+RCH2_RSC2_LI_1 = ~z~Milton, get over here.
+
+RCH2_RSC2_LI_2 = ~z~Coming.
+
+RCH2_RSC2_LI_3 = ~z~Come on, give us a hand.
+
+RCH2_RSC2_LI_4 = ~z~Know much about bulls, Milton?
+
+RCH2_RSC3_1 = ~z~Got him, Mr. Dickens.
+
+RCH2_RSC3_2 = ~z~Ah good...
+
+RCH2_RSC3_3 = ~z~How you doing son?
+
+RCH2_RSC3_4 = ~z~A bit sore but I'll be okay.
+
+RCH2_RSC3_5 = ~z~Thank you, Mr. Milton.
+
+RCH2_RSC3_6 = ~z~My pleasure.
+
+RCH2_RSC3_7 = ~z~And you, mister?
+
+RCH2_RSC3_8 = ~z~Fine.
+
+RCH2_RSC3_9 = ~z~He just hit...
+
+RCH2_RSC3_10 = ~z~got my head.
+
+RCH2_RSC3_11 = ~z~Good.
+
+RCH2_RSC3_12 = ~z~There he is.
+
+RCH2_RSC3_13 = ~z~See you later, Jim Milton.
+
+RCH2_RSC3_14 = ~z~We'll make a rancher of you yet.
+
+RCH2_RSC3_LI_1 = ~z~Got him, Mr. Dickens.
+
+RCH2_RSC3_LI_2 = ~z~~sl:0.1~Ah good...
+
+RCH2_RSC3_LI_3 = ~z~~sl:0.7~How you doing son?
+

@@ -1,0 +1,100 @@
+0x0046EC90 = Last seen North of Guthrie Farm
+
+0x5F79E900 = Return to ~e~McDaniels~s~
+
+0x72592448 = REWARD OFFERED
+
+0xAE31A0AB = FOR THE LIVE CAPTURE
+
+0xC0E38787 = The police chief
+
+0xC5B3BE62 = Murder, bigamy and immoral animal husbandry
+
+0xC27D85B2 = By Order of Saint Denis Office
+
+0xEB744A24 = Police Chief
+
+0xFDDB77F4 = WILSON J. MCDANIELS
+
+LIGHTNING1_LAU = Greet
+
+LIGHTNING3_FAILCAMP = You annoyed the camp inhabitants
+
+LIGHTNING3_FAILLOCK = You alerted the law
+
+LIGHTNING3_OBJ2 = Take the moonshine wagon to the ~o~Professor
+
+LIGHTNING3_OBJ6 = Wait for the wagon
+
+LIGHTNING3_OBJ7 = Force the ~o~wagon~s~ to stop
+
+LIGHTNING3_OBJ8 = Steal the ~o~wagon~s~
+
+LIGHTNING4_CNTXT_N = Demand
+
+LIGHTNING4_CNTXT_Y = Ask
+
+LIGHTNING4_CONV = Get permission to demonstrate electric chair
+
+LIGHTNING4_LEAVE = Leave
+
+LIGHTNING4_NEG = Negotiate
+
+LIGHTNING4_OBJ1 = Talk to the ~o~police chief~s~
+
+LIGHTNING4_PAY_N1 = Pay ~1$~
+
+LIGHTNING4_PAY_Y1 = Pay ~1$~
+
+LIGHTNING4_PAY_Y2 = Pay ~1$~
+
+LIGHTNING6_QUE = Question
+
+LIGHTNING6_THR = Threaten
+
+RTL6_FAIL_WANT = You became wanted.
+
+RTL6_O_BLIP = McDaniel's camp
+
+RTL6_O_CAPT = Capture ~e~McDaniels ~s~alive~s~
+
+RTL6_O_DROP = Place McDaniels on the ground near ~o~Professor Bell~s~
+
+RTL6_O_ECSP = ~e~McDaniels~s~ is escaping~s~
+
+RTL6_O_HRSE = Get on the ~o~horse~s~
+
+RTL6_O_LOCA = Locate ~o~McDaniels~s~
+
+RTL6_O_PICK = Pick up ~e~McDaniels~s~
+
+RTL6_O_RETU = Take McDaniels back to ~o~Professor Bell~s~
+
+RTL_FAIL_1 = Professor Bell has died.
+
+RTL_FAIL_2 = The moonshine wagon was destroyed.
+
+RTL_FAIL_3 = The moonshine wagon was abandoned.
+
+RTL_FAIL_4 = McDaniels has died.
+
+RTL_FAIL_5 = McDaniels was abandoned.
+
+RTL_FAIL_6 = You lost McDaniels.
+
+RTL_FAIL_7 = You interfered with the demonstration.
+
+RTL_FAIL_8 = The police chief has died.
+
+RTL_FAIL_9 = You became wanted.
+
+RTL_FAIL_10 = The moonshine was destroyed.
+
+RTL_FAIL_11 = The moonshine wagon escaped.
+
+RTL_FAIL_14 = The wagon was abandoned.
+
+RTL_FAIL_15 = You left jail.
+
+RTL_FAIL_17 = The moonshine wagon got stuck.
+

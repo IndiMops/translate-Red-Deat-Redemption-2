@@ -1,0 +1,218 @@
+0x12F06271 = Район события
+
+0x40DF4E49 = Ликвидируйте ~COLOR_ENEMY~цель~s~, пока она не скрылась.
+
+0x870E1E8B = Убийство
+
+0x934E8957 = в ~COLOR_MP_OBJECTIVE~Форт-Уоллес~s~
+
+0x3058F270 = в ~COLOR_MP_OBJECTIVE~Амбарино~s~
+
+0x2775393D = в ~COLOR_MP_OBJECTIVE~Аннесберг~s~
+
+0xA3F7B974 = Потенциальная цель
+
+0xB1C5DAA8 = Ликвидируйте ~COLOR_ENEMY~цель~s~, не привлекая к себе внимания.
+
+0xB9D1C402 = в ~COLOR_MP_OBJECTIVE~Камберлендский лес~s~
+
+0xB403E9BC = Цель сбежала
+
+0xBA07EBCD = Подтвердить личность
+
+0xBD1A1753 = Ликвидируйте ~COLOR_ENEMY~цели~s~, не привлекая к себе внимания.
+
+0xCDED1801 = Цель спасается бегством. Доберитесь до мерцающего значка ~1b~ и нейтрализуйте ее, пока она не скрылась.
+
+0xDCA9EEE6 = Ликвидируйте ~COLOR_ENEMY~цели~s~, пока они не скрылись.
+
+0xFF0764C8 = ~COLOR_ENEMY~Цель~s~ уничтожена
+
+NET_AS_BLIP_GO_TO_AREA = Место назначения
+
+NET_AS_BLIP_LAST_KNOWN_LOCATION = Последнее местоположение
+
+NET_AS_BLIP_SEARCH = Район поисков
+
+NET_AS_BLIP_TARGET = Цель
+
+NET_AS_HELP_ALLY_SELECTED = Ваш союзник ~1~ выбран в качестве цели для покушения. Убийца: ~COLOR_ENEMY~~2~~s~.
+
+NET_AS_HELP_FOCUS_ON_TRAIL = Чтобы пойти по следу, посмотрите на него и нажмите ~INPUT_SPECIAL_ABILITY_ACTION~.
+
+NET_AS_HELP_GO_TO_LAST_KNOWN_LOCATION = Найдите цель в секторе. Выследите ее от последнего местоположения ~1b~.
+
+NET_AS_HELP_GO_TO_LAST_KNOWN_LOCATION_PLURAL = Найдите цели в секторе. Выследите их от последнего местоположения ~1b~.
+
+NET_AS_HELP_INTRO_PVP_PLAYER = Убейте игрока ~COLOR_ENEMY~~1~~s~ за отведенное время, чтобы получить награду.
+
+NET_AS_HELP_INTRO_PVP_POSSE = Убейте всех членов отряда ~COLOR_ENEMY~~1~~s~ за отведенное время, чтобы получить награду.
+
+NET_AS_HELP_INTRO_STANDARD = Ликвидируйте все цели за отведенное время, чтобы получить полную награду.
+
+NET_AS_HELP_INTRO_TRACKING = Обыщите сектор ~1b~ и ликвидируйте все цели за отведенное время, чтобы получить полную награду.
+
+NET_AS_HELP_LAST_KNOWN_LOCATION_FOUND = Цель покинула данную местность ~1b~. Вы можете найти ее следы с помощью «Орлиного глаза». Чтобы включить «Орлиный глаз», используйте ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ + ~INPUT_SPECIAL_ABILITY~.
+
+NET_AS_HELP_LAST_KNOWN_LOCATION_FOUND_KM = Цель покинула данную местность ~1b~. Вы можете найти ее следы с помощью «Орлиного глаза». Чтобы включить «Орлиный глаз», используйте ~INPUT_SPECIAL_ABILITY~.
+
+NET_AS_HELP_LAST_KNOWN_LOCATION_FOUND_PLURAL = Все цели покинули данную местность ~1b~. Вы можете найти их следы с помощью «Орлиного глаза». Его можно активировать, одновременно нажав ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~.
+
+NET_AS_HELP_LAST_KNOWN_LOCATION_FOUND_PLURAL_KM = Все цели покинули данную местность ~1b~. Вы можете найти их следы с помощью «Орлиного глаза». Его можно активировать, нажав ~INPUT_SPECIAL_ABILITY~.
+
+NET_AS_HELP_RETURN_TO_LAST_KNOWN_LOCATION = Вернитесь к последнему местоположению цели ~1b~. Там вы сможете найти оставленные целью следы.
+
+NET_AS_HELP_RETURN_TO_LAST_KNOWN_LOCATION_PLURAL = Вернитесь к последнему местоположению целей ~1b~. Там вы сможете найти оставленные целями следы.
+
+NET_AS_HELP_STEALTH_AVOID_DETECTION = Чтобы не попасться на глаза врагам ~1b~, используйте мини-карту.
+
+NET_AS_HELP_TRACKING = Чтобы искать следы, включите «Орлиный глаз» с помощью ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~.
+
+NET_AS_HELP_TRACKING_KM = Чтобы искать следы, включите «Орлиный глаз» с помощью ~INPUT_SPECIAL_ABILITY~.
+
+NET_AS_LOC_BENEDICT_POINT = в ~COLOR_MP_OBJECTIVE~Бенедикт-Пойнт~s~
+
+NET_AS_LOC_BLACKWATER = в ~COLOR_MP_OBJECTIVE~Блэкуотер~s~
+
+NET_AS_LOC_BRAITHWAITE_MANOR = в ~COLOR_MP_OBJECTIVE~поместье~s~
+
+NET_AS_LOC_CHOLLA_SPRINGS = в ~COLOR_MP_OBJECTIVE~Чолья-Спрингз~s~
+
+NET_AS_LOC_CIVIL_WAR_FORT = в ~COLOR_MP_OBJECTIVE~форт~s~
+
+NET_AS_LOC_FORT_MERCER = в ~COLOR_MP_OBJECTIVE~Форт-Мерсер~s~
+
+NET_AS_LOC_GAPTOOTH_BREACH = к ~COLOR_MP_OBJECTIVE~Щербатому разлому~s~
+
+NET_AS_LOC_GARDEN_DISTRICT = в ~COLOR_MP_OBJECTIVE~садовый квартал~s~
+
+NET_AS_LOC_HAMLINS_PASSING = в ~COLOR_MP_OBJECTIVE~долину Хэмлина~s~
+
+NET_AS_LOC_PIKES_BASIN = в ~COLOR_MP_OBJECTIVE~Скалистое ущелье~s~
+
+NET_AS_LOC_PLEASANCE = в ~COLOR_MP_OBJECTIVE~Плэзанс~s~
+
+NET_AS_LOC_SAINT_DENIS = в ~COLOR_MP_OBJECTIVE~Сен-Дени~s~
+
+NET_AS_LOC_SAINT_DENIS_GRAVEYARD = на ~COLOR_MP_OBJECTIVE~кладбище Сен-Дени~s~
+
+NET_AS_LOC_SHADY_BELLE = в ~COLOR_MP_OBJECTIVE~Шейди-Бель~s~
+
+NET_AS_LOC_STILLWATER_CREEK = в ~COLOR_MP_OBJECTIVE~Стиллуотер-Крик~s~
+
+NET_AS_LOC_TWO_CROWS = к ~COLOR_MP_OBJECTIVE~«Двум воронам»~s~
+
+NET_AS_OBJ_ASSASSINATE_PVP = Ликвидируйте цель: ~COLOR_ENEMY~~1~~s~.
+
+NET_AS_OBJ_FIND_TARGETS = Осмотрите ~COLOR_MP_OBJECTIVE~местность~s~ и найдите цели.
+
+NET_AS_OBJ_FIND_TARGETS_ST = Осмотрите ~COLOR_MP_OBJECTIVE~местность~s~, чтобы найти цель.
+
+NET_AS_OBJ_GO_TO_AREA = Доберитесь до ~COLOR_MP_OBJECTIVE~точки~s~.
+
+NET_AS_OBJ_GO_TO_AREA_SPECIFIC = Отправляйтесь ~1~.
+
+NET_AS_OBJ_KILL_NONSTEALTH_TARGET = Ликвидируйте ~COLOR_ENEMY~цели~s~.
+
+NET_AS_OBJ_KILL_NONSTEALTH_TARGET_ST = Ликвидируйте ~COLOR_ENEMY~цель~s~.
+
+NET_AS_OBJ_LEAVE_AREA = Покиньте ~COLOR_MP_OBJECTIVE~сектор~s~.
+
+NET_AS_OBJ_PLAYER_TARGET_HELP = Защищайте своего ~COLOR_POSSE_ALLY~союзника~s~.
+
+NET_AS_OBJ_PLAYER_TARGET_HELP_SPECIFIC = Защищайте цель: ~1~.
+
+NET_AS_OBJ_PLAYER_TARGET_SURVIVE = Не дайте себя убить. Убийца: ~COLOR_ENEMY~~1~~s~.
+
+NET_AS_OBJ_POSSE_LEAVE_AREA = Подождите, пока ваши союзники покинут ~COLOR_MP_OBJECTIVE~сектор~s~.
+
+NET_AS_OBJ_POSSE_TARGET_HELP = Защищайте оставшихся ~COLOR_POSSE_ALLY~союзников~s~.
+
+NET_AS_OBJ_PROTECT_TARGETS = Защищайте ~COLOR_ENEMY~цели~s~.
+
+NET_AS_OBJ_PROTECT_TARGETS_ST = Защищайте ~COLOR_MP_OBJECTIVE~цель~s~.
+
+NET_AS_OBJ_VERIFY_TARGET = Найдите ~COLOR_MP_OBJECTIVE~потенциальные цели~s~.
+
+NET_AS_SHARD_BODY_EXPIRED = Время истекло
+
+NET_AS_SHARD_BODY_FAIL_ABANDON_DISBAND_POSSE = Ваш отряд распущен
+
+NET_AS_SHARD_BODY_FAIL_SWITCH_POSSE = Вы покинули отряд
+
+NET_AS_SHARD_BODY_OVER_ABANDONED = Убийцы прекратили выполнение задания
+
+NET_AS_SHARD_BODY_PVP_ALLY_FAIL = Ликвидирован игрок: ~1~
+
+NET_AS_SHARD_BODY_PVP_ALLY_WIN = Игрок ~1~ выжил
+
+NET_AS_SHARD_BODY_PVP_FAIL_DC_PLAYER = Игрок ~1~ вышел из игры
+
+NET_AS_SHARD_BODY_PVP_FAIL_DC_PLAYER_GEN = Указанный игрок вышел из игры
+
+NET_AS_SHARD_BODY_PVP_FAIL_DC_POSSE = Отряд ~1~ вышел из игры
+
+NET_AS_SHARD_BODY_PVP_FAIL_DC_POSSE_GEN = Указанный отряд вышел из игры
+
+NET_AS_SHARD_BODY_PVP_OVER = Ликвидировано целей: ~1~/~2~
+
+NET_AS_SHARD_BODY_PVP_POSSE_FAIL = Отряд был ликвидирован
+
+NET_AS_SHARD_BODY_PVP_POSSE_OVER = Бойцов вашего отряда выжило: ~1~/~2~
+
+NET_AS_SHARD_BODY_PVP_TARGET_FAIL = Вы были ликвидированы
+
+NET_AS_SHARD_BODY_PVP_TARGET_POSSE_WIN = Отряд выжил
+
+NET_AS_SHARD_BODY_PVP_TARGET_WIN = Вы выжили
+
+NET_AS_SHARD_BODY_PVP_WIN = Ликвидирован игрок: ~1~
+
+NET_AS_SHARD_BODY_START = Ликвидируйте ~COLOR_ENEMY~цели~s~
+
+NET_AS_SHARD_BODY_START_ALLY = Выбрана цель для убийства: ~1~
+
+NET_AS_SHARD_BODY_START_C = Не дайте убийцам ликвидировать ~COLOR_ENEMY~цели~s~
+
+NET_AS_SHARD_BODY_START_POSSE = Ваш отряд выбран целью для убийства
+
+NET_AS_SHARD_BODY_START_PVP = Ликвидируйте цель: ~1~
+
+NET_AS_SHARD_BODY_START_SEARCH = Найдите и ликвидируйте ~COLOR_ENEMY~цели~s~
+
+NET_AS_SHARD_BODY_START_ST = Ликвидируйте ~COLOR_ENEMY~цель~s~
+
+NET_AS_SHARD_BODY_START_ST_C = Не дайте убийцам ликвидировать ~COLOR_ENEMY~цель~s~
+
+NET_AS_SHARD_BODY_START_ST_SEARCH = Найдите и ликвидируйте ~COLOR_ENEMY~цель~s~
+
+NET_AS_SHARD_BODY_START_TARGET = Вы выбраны в качестве цели
+
+NET_AS_SHARD_BODY_STD_OVER = Ликвидировано целей: ~1~/~2~
+
+NET_AS_SHARD_BODY_STD_SECONDARY_FAIL = Не удалось защитить цели
+
+NET_AS_SHARD_BODY_STD_SECONDARY_FAIL_SINGLE = Не удалось защитить цель
+
+NET_AS_SHARD_BODY_STD_SECONDARY_OVER = Цели защищены: ~1~/~2~
+
+NET_AS_SHARD_BODY_STD_SECONDARY_WIN = Вы защитили цели
+
+NET_AS_SHARD_BODY_STD_SECONDARY_WIN_SINGLE = Вы защитили цель
+
+NET_AS_SHARD_BODY_STD_WIN = Цели ликвидированы
+
+NET_AS_SHARD_BODY_STD_WIN_SINGLE = Цель ликвидирована
+
+NET_AS_SHARD_PLAYER = Убийство игрока
+
+NET_AS_SHARD_POSSE = Убийство отряда
+
+NET_AS_SHARD_STANDARD = Убийство
+
+NET_AS_UPDATE_PLAYER_KILLED = Уничтожена цель: ~1~.
+
+NET_AS_UPDATE_TARGET_PLAYER_DISCONNECTED = Игрок ~1~ вышел из игры.
+
+NET_AS_UPDATE_TARGET_PLAYER_DISCONNECTED_GEN = ~COLOR_ENEMY~Указанный игрок~s~ вышел из игры
+

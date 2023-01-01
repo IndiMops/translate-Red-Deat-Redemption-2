@@ -1,0 +1,154 @@
+0x002805B5 = Aim a weapon at the driver to stop the wagon.
+
+0x1B199ACB = Press ~INPUT_FRONTEND_ACCEPT~ to pull Hector Fellowes back inside the coach
+
+0x2D07B18D = Wait until Professor Shiftacre reaches a secluded area before confronting him.
+
+0x4A5623D3 = Driver
+
+0x4F32E193 = Return to Jean Marc's ~o~house~s~
+
+0x50C2508F = Don't leave ~e~Jean Marc~s~ too far behind
+
+0x73ED4CBA = Professor Shiftacre
+
+0xB9693529 = Return to ~o~Jean Marc~s~ at the Art Gallery
+
+0xC1037924 = Return to the ~o~Mayor's house~s~
+
+MAY1_ASSIST = Jean Marc
+
+MAYR1_APPRAIS = Professor Shiftacre
+
+MAYR1_APPROACH = Approach ~o~Professor Shiftacre
+
+MAYR1_ASTFAIL = You abandoned Jean Marc.
+
+MAYR1_BACKBUG = Get back in the ~o~buggy
+
+MAYR1_CONFRONT = Confront
+
+MAYR1_DRIVEGALL = Drive to the ~o~Art Gallery
+
+MAYR1_FAIL1 = You lost Professor Shiftacre.
+
+MAYR1_FAIL2 = Professor Shiftacre has died.
+
+MAYR1_FAIL3 = The chosen area is too public.
+
+MAYR1_FAIL4 = You got too close to Professor Shiftacre.
+
+MAYR1_FAIL5 = You attacked Professor Shiftacre.
+
+MAYR1_FAIL6 = You killed Jean Marc.
+
+MAYR1_FAIL7 = You annoyed Jean Marc.
+
+MAYR1_FAIL8 = Professor Shiftacre was abandoned.
+
+MAYR1_FOLASSIST = Follow ~o~Professor Shiftacre
+
+MAYR1_FOLLOW = Follow ~o~Professor Shiftacre~s~ until he reaches a secluded area
+
+MAYR1_GALLFAIL = You left the area.
+
+MAYR1_GALLWARN = Head towards the ~o~Art Gallery
+
+MAYR1_HRSFAIL = The wagon's horse has died.
+
+MAYR1_INTIMIDATE = Intimidate ~e~Professor Shiftacre~s~
+
+MAYR1_RETURNASS = Return to ~o~Jean Marc~s~
+
+MAYR1_SPARE = Let go
+
+MAYR1_THREAT = Threaten
+
+MAYR1_WAGFAIL = The wagon was destroyed.
+
+MAYR1_WARNING = You are too close to the target. Back off, or risk being noticed.
+
+MAYR2_AMBUSH = Go to the ~o~Saint Denis exit~s~ near the Bayou
+
+MAYR2_DANGLEHLP = Follow the on screen prompts to further intimidate Hector Fellowes.
+
+MAYR2_GRBSTART = Press ~INPUT_MINIGAME_LEFT_TRIGGER~ and ~INPUT_MINIGAME_RIGHT_TRIGGER~ to grab Hector Fellowes
+
+MAYR2_LETGO = Press ~INPUT_MINIGAME_LEFT_TRIGGER~ and ~INPUT_MINIGAME_RIGHT_TRIGGER~ to cause Hector to slip further from the carriage
+
+MAYR2_PULLIN = Press ~INPUT_MINIGAME_LEFT_TRIGGER~ and ~INPUT_MINIGAME_RIGHT_TRIGGER~ to pull Hector Fellowes back into the carriage
+
+MAYR3_CLIMBHLP = Use ~INPUT_MOVE_LR~ to move around on the outside of the stagecoach.
+
+MAYR3_COACH = Stagecoach
+
+MAYR3_ENTER = Enter the ~o~stagecoach
+
+MAYR3_FAIL1 = You killed Hector Fellowes.
+
+MAYR3_FAIL2 = You damaged the stagecoach too severely.
+
+MAYR3_FAIL3 = You killed the stagecoach driver.
+
+MAYR3_FAIL4 = Hector Fellowes made it to his destination.
+
+MAYR3_FAIL5 = The stagecoach can no longer be driven.
+
+MAYR3_FAIL6 = Hector Fellowes' stagecoach was abandoned.
+
+MAYR3_HOUSE = Return to the Mayor's house after dark
+
+MAYR3_INTIM = Intimidate Hector Fellowes
+
+MAYR3_JUMPHELP = You can enter the coach by riding alongside at a similar speed and jumping into it.
+
+MAYR3_STOP = Board the ~o~stagecoach
+
+MAYR3_WAIT = Wait for a red stagecoach
+
+MAYR4_ASSIST = Jean Marc
+
+MAYR4_CORPSE = Jean Marc's corpse
+
+MAYR4_MAYOR = Mayor Lemieux
+
+MAYR5_CHOSE = Choose to kill ~e~Jean Marc~s~, or holster your weapon to let him live
+
+MAYR5_CONFRONT = Confront ~o~Jean Marc~s~
+
+MAYR5_DROP = Drop Jean Marc close to ~o~Mayor Lemieux
+
+MAYR5_FAIL0 = Jean Marc has died.
+
+MAYR5_FAIL2 = Jean Marc was abandoned.
+
+MAYR5_FAIL3 = The law were alerted.
+
+MAYR5_FAIL4 = You were spotted by a local.
+
+MAYR5_FAIL5 = You attacked Mayor Lemieux.
+
+MAYR5_FAIL6 = Your weapon use attracted too much attention.
+
+MAYR5_FAIL7 = You failed to dispose of Jean Marc's corpse.
+
+MAYR5_FOLLMAY = Follow the ~o~Mayor~s~
+
+MAYR5_GETCORPSE = Pick up ~o~Jean Marc's corpse~s~
+
+MAYR5_GOASSIST = Go to Jean Marc's ~o~house~s~
+
+MAYR5_GOWATER = Dump Jean Marc's corpse in the ~o~water
+
+MAYR5_INFAIL = The Mayor's house was abandoned.
+
+MAYR5_OUTFAIL = Jean Marc's house was abandoned.
+
+MAYR5_PICKUP = Pick up ~o~Jean Marc
+
+MAYR5_TAKE = Take Jean Marc to the ~o~Mayor's house~s~ without being seen
+
+RMAY_ILO_STOP = Callout
+
+RMAY_ILO_THREATEN = Threaten
+

@@ -1,0 +1,10 @@
+RBT20_HELP_EE = Нажмите ~INPUT_SPECIAL_ABILITY~ и ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~, чтобы осмотреть следы.
+
+RBT20_HELP_EE_KM = Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы осмотреть следы.
+
+RBT20_OBJ_1 = Осмотрите ~o~лагерь~s~.
+
+RBT20_OBJ_2 = Проведите поиски на ~o~территории Скиннеров~s~.
+
+RBT20_OBJ_2A = Выясните, кто стрелял на ~o~земле Скиннеров~s~.
+

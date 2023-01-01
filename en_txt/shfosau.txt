@@ -1,0 +1,38 @@
+SHFOS_BOO_A_01 = ~z~She can't be that strong.
+
+SHFOS_BOO_A_02 = ~z~Oh, you're a monster!
+
+SHFOS_BOO_A_03 = ~z~She's a beast!
+
+SHFOS_BOO_J_01 = ~z~I got a plow for ya to pull!
+
+SHFOS_BOO_J_02 = ~z~This ain't a woman.
+
+SHFOS_BOO_J_03 = ~z~That's not a woman. I don't believe it.
+
+SHFOS_CHEER_A_01 = ~z~That's a mighty strong woman.
+
+SHFOS_CHEER_A_02 = ~z~Damn, she's stong as a feller.
+
+SHFOS_CHEER_A_03 = ~z~Bet she's a lot of fun!
+
+SHFOS_CHEER_J_01 = ~z~Show us your muscles!
+
+SHFOS_CHEER_J_02 = ~z~She's strong as an ox!
+
+SHFOS_CHEER_J_03 = ~z~She's tough. Don't mess with her.
+
+SH_FOS_INTRO_1 = ~z~Yeah!
+
+SH_FOS_INTRO_2 = ~z~Yeah.
+
+SH_FOS_INTRO_3 = ~z~Yeah!
+
+SH_FOS_INTRO_4 = ~z~Yeah.
+
+SH_FOS_INTRO_5 = ~z~One...
+
+SH_FOS_INTRO_6 = ~z~Two...
+
+SH_FOS_SUCCESS_1 = ~z~Yeah!
+

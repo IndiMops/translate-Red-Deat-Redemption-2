@@ -1,0 +1,582 @@
+CACLM_BAM1_1 = ~z~How did we end up down here, Arthur?
+
+CACLM_BAM1_2 = ~z~Beats me...
+
+CACLM_BAM2_1 = ~z~I'm telling you... worst thing about being down here, and there are many, the damn insects.
+
+CACLM_BAM2_2 = ~z~Yup...
+
+CACLM_BAM3_1 = ~z~You know the problem with folk round here? No discipline.
+
+CACLM_BAM3_2 = ~z~You spend most of the time sat on your fat ass.
+
+CACLM_BAM3_3 = ~z~But I'm disciplined about it.
+
+CACLM_KA1_1 = ~z~What's wrong with you?
+
+CACLM_KA1_2 = ~z~Grimshaw's been needling me again. Damn witch. Was she ever nice?
+
+CACLM_KA1_3 = ~z~She's nice, she's just tough.
+
+CACLM_KA1_4 = ~z~
+
+CACLM_KA2_1 = ~z~You know, you boys used to be a lot more fun.
+
+CACLM_KA2_2 = ~z~Thank you.
+
+CACLM_KA2_3 = ~z~I miss the old days.
+
+CACLM_KA3_1 = ~z~I'm feeling old today.
+
+CACLM_KA3_2 = ~z~You're not old.
+
+CACLM_KA3_3 = ~z~~sl:0.6:0.0~I'll never understand you, Arthur Morgan.
+
+CACLM_KA3_4 = ~z~~sl:0.0:1.5~One minute you're as sweet as pie~sl:~and the next you're as sour as vinegar.
+
+CACLM_KA4_1 = ~z~So much for heading west, huh?
+
+CACLM_KA4_2 = ~z~Yup.
+
+CACLM_KA5_1 = ~z~So, Dutch seems to have taken a shine to Mary-Beth.
+
+CACLM_KA5_2 = ~z~He does.
+
+CACLM_KA5_3 = ~z~We know how that goes.
+
+CACLM_KAC_1 = ~z~Mess with me before my morning coffee and I will scratch your eyes out.
+
+CACLM_KAC_2 = ~z~Good to know.
+
+CACLM_KAJAV_1 = ~z~I was just thinking how Jenny would have liked it here.
+
+CACLM_KAJAV_2 = ~z~She loved to swim.
+
+CACLM_KAJAV_3 = ~z~I know, you two were close.
+
+CACLM_KAJHN_1 = ~z~So are you doing the right thing by that boy now?
+
+CACLM_KAJHN_2 = ~z~I'm looking out for him, same as we all are.
+
+CACLM_KAJHN_3 = ~z~He even looks like you, John.
+
+CACLM_KAMC_1 = ~z~Could use a slug of whiskey in this.
+
+CACLM_KAMC_2 = ~z~Maybe after lunch, hey?
+
+CACLM_KAM_1 = ~z~You ever wonder if one day there won't be any trees left to burn?
+
+CACLM_KAM_2 = ~z~They'll just grow more.
+
+CACLM_KAM_3 = ~z~I guess so.
+
+CACLM_KASEAN_1 = ~z~I have to say... you look lovely in firelight, Miss Jones.
+
+CACLM_KASEAN_2 = ~z~Thank you.
+
+CACLM_KASEAN_3 = ~z~So, w-we could take a little walk in the woods?
+
+CACLM_KASEAN_4 = ~z~I don't think so.
+
+CACLM_KASEAN_5 = ~z~
+
+CACLM_KME_1 = ~z~All starts to taste the same, doesn't it?
+
+CACLM_KME_2 = ~z~I know... Pearson has an unusual talent for removing all flavor.
+
+CACLM_KMS_1 = ~z~You know, all this... it used to feel like one big party. How wrong I was.
+
+CACLM_KMS_2 = ~z~It's not all so bad.
+
+CACLM_LA1_1 = ~z~So when are we heading west again?
+
+CACLM_LA1_2 = ~z~I don't know, probably no time soon.
+
+CACLM_LA1_3 = ~z~Even north, anywhere but down here.
+
+CACLM_LA2_1 = ~z~So, that night at the saloon in Valentine... were we really slapping each other in the face?
+
+CACLM_LA2_2 = ~z~I have a vague memory of that, yes.
+
+CACLM_LA2_3 = ~z~Make me wonder about the bits we don't remember.
+
+CACLM_LA3_1 = ~z~You know, I ain't even sure who we're running from no more.
+
+CACLM_LA3_2 = ~z~The Pinkertons... Cornwall...
+
+CACLM_LA3_3 = ~z~All the same thing in my mind.
+
+CACLM_LA3_4 = ~z~Cornwall's sure to be lining the Pinkertons pockets, along with everyone else's.
+
+CACLM_LA4_1 = ~z~You ever read?
+
+CACLM_LA4_2 = ~z~Sometimes, Dutch taught me a long time ago. Why?
+
+CACLM_LA4_3 = ~z~No reason, just wondered.
+
+CALCM_AFTR_SAD1_1 = ~z~So when are we heading out again, me and you? That was fun.
+
+CALCM_AFTR_SAD1_2 = ~z~All in good time.
+
+CALCM_AFTR_SAD1_3 = ~z~Well, just say the word.
+
+CALCM_BAM4_1 = ~z~So when are we getting rid of the O'Driscoll? He's served his purpose now.
+
+CALCM_BAM4_2 = ~z~Kieran, I don't know, that's Dutch's call. He's alright for now.
+
+CALCM_BAM5_1 = ~z~So you think they'll find us here?
+
+CALCM_BAM5_2 = ~z~I don't know... we ain't an easy bunch to hide, and we sure ain't proven good at lying low.
+
+CALCM_BHSCOFF_1 = ~z~Good cup of coffee always gets the guts moving.
+
+CALCM_BHSCOFF_2 = ~z~The perfect image to start my day.
+
+CALCM_BHSM1_1 = ~z~So I've got a story for you, Hosea, you'll like this one.
+
+CALCM_BHSM1_2 = ~z~Can we just enjoy some peace and quiet?
+
+CALCM_BHSM1_3 = ~z~You're a barrel of laughs, aren't you?
+
+CALCM_BJM1_1 = ~z~You know, I find it hard to care about too much. You ever wonder when you're gonna die?
+
+CALCM_BJM1_2 = ~z~Try not to think about it.
+
+CALCM_BJM1_3 = ~z~Could be tomorrow, could be ten years from now.
+
+CALCM_BKSLACK_1 = ~z~Hey, when you're done with that, can you rub my feet?
+
+CALCM_BKSLACK_2 = ~z~I would rather gut myself with a rusty spoon.
+
+CALCM_BKSLACK_3 = ~z~Can't blame a feller for asking.
+
+CALCM_BPM1_1 = ~z~~sl:0.0:1.3~You know, Pearson...~sl:1.0~I swear, sometimes you must literally piss in that slop you serve.
+
+CALCM_BPM1_2 = ~z~Only in yours, Bill. Only in yours.
+
+CALCM_BSTRE1_1 = ~z~Hey, that business with Cornwall in Valentine... I hear you near shit you pants, Strauss.
+
+CALCM_BSTRE1_2 = ~z~I did not. I got shot in the leg
+
+CALCM_BSTRE1_3 = ~z~Running with the big boys now.
+
+CALCM_BSUSLACK_1 = ~z~~sl:1.2:0.0~You know when you need to piss, but you can't face moving?
+
+CALCM_BSUSLACK_2 = ~z~~sl:0.3:0.0~You have all the charm of a dead slug, Bill Williamson.
+
+CALCM_BSUSLACK_3 = ~z~~sl:1.0:0.0~I'll tough it out.
+
+CALCM_BSWM1_1 = ~z~I don't know why you're still here, Reverend.
+
+CALCM_BSWM1_2 = ~z~At the campfire?
+
+CALCM_BSWM1_3 = ~z~No here, with us, this mess.
+
+CALCM_BSWM1_4 = ~z~I don't have many other options.
+
+CALCM_DM_ARG1_1 = ~z~This sulking, it's becoming very tiresome.
+
+CALCM_DM_ARG1_2 = ~z~Everything's tiresome to you these days.
+
+CALCM_DM_ARG1_3 = ~z~You've barely touched me in weeks.
+
+CALCM_DM_ARG1_4 = ~z~What do you want from me?
+
+CALCM_DM_ARG1_5 = ~z~To be treated with some respect and affection...
+
+CALCM_DM_ARG1_6 = ~z~All them out there, they're laughing at me.
+
+CALCM_DM_ARG1_7 = ~z~You think this is the way to a man's affection? Moping and pestering all the damn day?
+
+CALCM_DM_ARG1_8 = ~z~I can do a lot worse than that.
+
+CALCM_DM_ARG1_9 = ~z~Is that a threat? Another great way to a man's affection.
+
+CALCM_DM_ARG1_10 = ~z~Oh shut up.
+
+CALCM_DM_ARG1_11 = ~z~Gladly.
+
+CALCM_DM_ARG2_1 = ~z~For the love of god, stop giving me that lost puppy look.
+
+CALCM_DM_ARG2_2 = ~z~So you're speaking to me at least.
+
+CALCM_DM_ARG2_3 = ~z~It's always about your needs, isn't it?
+
+CALCM_DM_ARG2_4 = ~z~I've never known a woman with so many needs.
+
+CALCM_DM_ARG2_5 = ~z~You don't know the first thing about a woman's needs.
+
+CALCM_DM_ARG2_6 = ~z~How selfish are you?
+
+CALCM_DM_ARG2_7 = ~z~Are you even aware of the price on my head, the pressures I'm under?
+
+CALCM_DM_ARG2_8 = ~z~If you'd only talk to me, I could help.
+
+CALCM_DM_ARG2_9 = ~z~I want to help you, Dutch, but there's this wall...
+
+CALCM_DM_ARG2_10 = ~z~You can help by leaving me alone so I can actually think for once.
+
+CALCM_DM_ARG2_11 = ~z~You're a bastard, Dutch van der Linde.
+
+CALCM_DM_ARG3_1 = ~z~What's wrong now?
+
+CALCM_DM_ARG3_2 = ~z~I've seen you looking at her, Dutch.
+
+CALCM_DM_ARG3_3 = ~z~Who?
+
+CALCM_DM_ARG3_4 = ~z~You know who!
+
+CALCM_DM_ARG3_5 = ~z~Getting too old for you, am I? That's how it usually works with you, isn't it?
+
+CALCM_DM_ARG3_6 = ~z~You're delusional... again.
+
+CALCM_DM_ARG3_7 = ~z~Won't even look me in the eye, but you'll look at her all day.
+
+CALCM_DM_ARG3_8 = ~z~It doesn't matter what I say, you'll believe whatever fantasy you're currently living in.
+
+CALCM_DM_ARG3_9 = ~z~Fantasy? You think this is a fantasy for me?
+
+CALCM_DM_ARG3_10 = ~z~I don't have the energy for this right now.
+
+CALCM_DM_ARG3_11 = ~z~It's written all over you. I'm not stupid, I've been watching.
+
+CALCM_DM_ARG3_12 = ~z~Oh that much is painfully clear.
+
+CALCM_DM_ARG3_13 = ~z~You're playing a dangerous game.
+
+CALCM_DM_ARG3_14 = ~z~Will you be quiet? I'm trying to read here.
+
+CALCM_DM_ARG3_15 = ~z~Pig.
+
+CALCM_DUTMOL1_1 = ~z~You're quiet.
+
+CALCM_DUTMOL1_2 = ~z~Just thinking... so please allow me that.
+
+CALCM_DUTMOL1_3 = ~z~Yes, of course.
+
+CALCM_DUTMOL2_1 = ~z~You've barely said a word to me.
+
+CALCM_DUTMOL2_2 = ~z~I have more on my mind than just you, Miss O'Shea.
+
+CALCM_DUTMOL2_3 = ~z~I know, but...
+
+CALCM_DUTMOL2_4 = ~z~Not now, please.
+
+CALCM_DUTMOL3_1 = ~z~What's wrong, Dutch? Just tell me.
+
+CALCM_DUTMOL3_2 = ~z~Nothing's wrong. Leave me in peace, I beg of you.
+
+CALCM_DUTMOL3_3 = ~z~I'm just worried about you.
+
+CALCM_DUTMOL4_1 = ~z~I've seen the way you look at Mary-Beth... you used to look at me like that.
+
+CALCM_DUTMOL4_2 = ~z~Oh, be quiet.
+
+CALCM_DUTMOL4_3 = ~z~You can't fool me, Dutch.
+
+CALCM_ITMHOSA1_1 = ~z~So I got hold of some ginseng.
+
+CALCM_ITMHOSA1_2 = ~z~Ah perfect. I'll make some of that tonic for you.
+
+CALCM_ITMHOSA1_3 = ~z~Thanks.
+
+CALCM_ITMHOSA2_1 = ~z~Don't know if you saw, but I left that medicine for you by your tent.
+
+CALCM_ITMHOSA2_2 = ~z~Thanks, Hosea.
+
+CALCM_ITMKIEA1_1 = ~z~Here's some of that burdock root, you wanted.
+
+CALCM_ITMKIEA1_2 = ~z~Oh, you actually... well, thank you. This'll make a good batch alright.
+
+CALCM_ITMKIEA1_3 = ~z~Okay.
+
+CALCM_ITMKIEA2_1 = ~z~Oh hey, Arthur, I left some of that horse medicine I made for you by your tent. Thanks again.
+
+CALCM_ITMKIEA2_2 = ~z~Appreciate it.
+
+CALCM_ITMMOLA1_1 = ~z~Here, you go. A new mirror. And hopefully some better luck.
+
+CALCM_ITMMOLA1_2 = ~z~Ah, thanks Arthur. I have something you might like... I'll leave it by your tent later.
+
+CALCM_JSME_AP_1 = ~z~So, Macguire, what's this I hear about you and Karen in my tent?
+
+CALCM_JSME_AP_2 = ~z~We... er... might have popped in there for a bit, but we didn't touch anything... nothing of yours anyway!
+
+CALCM_JSME_AP_3 = ~z~Well, don't. Find somewhere else, for chrissakes.
+
+CALCM_JSME_AP_4 = ~z~Alright, alright. Don't begrudge a feller some slap and tickle...
+
+CALCM_POST_DCH1_1 = ~z~So I managed to get back into Valentine and collect on those sheep.
+
+CALCM_POST_DCH1_2 = ~z~What? That wasn't too smart.
+
+CALCM_POST_DCH1_3 = ~z~It was fine. I put your share in your wallet.
+
+CALCM_POST_DCH1_4 = ~z~Okay, thanks.
+
+CALCM_PTY_ABJ_A_1 = ~z~Alright, let's give this boy a bit of space.
+
+CALCM_PTY_ABJ_A_2 = ~z~See you later.
+
+CALCM_PTY_ABJ_A_3 = ~z~Good to have you back, Jackie.
+
+CALCM_PTY_ABJ_A_4 = ~z~We missed you.
+
+CALCM_PTY_ABJ_B_1 = ~z~You must be starving, son, let me get you something to eat.
+
+CALCM_PTY_ABJ_B_2 = ~z~Thanks, Momma. Can I play a little?
+
+CALCM_PTY_ABJ_B_3 = ~z~Of course you can.
+
+CALCM_PTY_ABJ_C_1 = ~z~Here you are, eat up.
+
+CALCM_PTY_ABJ_C_2 = ~z~Thanks.
+
+CALCM_PTY_ABJ_D_1 = ~z~I feel like I can breathe again.
+
+CALCM_PTY_ABJ_D_2 = ~z~I know.
+
+CALCM_PTY_ABJ_D_3 = ~z~Thank you John. I'm sorry if I was... well... I was just worried sick.
+
+CALCM_PTY_ABJ_D_4 = ~z~I know, it's okay.
+
+CALCM_PTY_ABJ_D_5 = ~z~Eat that all up now, Jack.
+
+CALCM_PTY_ABJ_D_6 = ~z~Okay, Momma.
+
+CALCM_PTY_ABJ_D_7 = ~z~Sorry it ain't spaghetti.
+
+CALCM_PTY_ABJ_E_1 = ~z~Come on, let's leave him to play a minute.
+
+CALCM_PTY_ABJ_F_1 = ~z~Come on along now, Jack, time for bed.
+
+CALCM_PTY_ABJ_F_2 = ~z~Say good night to everyone.
+
+CALCM_PTY_ABJ_F_3 = ~z~Goodnight!
+
+CALCM_PTY_ABJ_F_4 = ~z~Good night everyone, don't stay up too late.
+
+CALCM_PTY_SEAN_1 = ~z~I knew you boys'd come for me. I knew it. I love you, Arthur Morgan!
+
+CALCM_PTY_SEAN_2 = ~z~Right...
+
+CALCM_PTY_SHH_A_1 = ~z~Will you shut up?
+
+CALCM_PTY_SHH_H_1 = ~z~Go to bed!
+
+CALCM_SAD1_EXC1_1 = ~z~So when we heading out again, Arthur? That was fun.
+
+CALCM_SAD1_EXC1_2 = ~z~Shopping or shooting?
+
+CALCM_SAD1_EXC1_3 = ~z~Either. You just say the word.
+
+CALCM_SAD1_EXC1_4 = ~z~Okay...
+
+CALCM_SAD1_EXC2_1 = ~z~Hey, whatever you boys got cooking, you need an extra gun, you know I'm good for it.
+
+CALCM_SAD1_EXC2_2 = ~z~Oh I know, Mrs. Adler.
+
+CALCM_SAD1_EXC2_3 = ~z~
+
+CALCM_SADIE1_1 = ~z~I told you not to do it like that.
+
+CALCM_SADIE1_2 = ~z~And I told you you don't tell me a damn thing.
+
+CALCM_SADIE1_3 = ~z~You're lazy.
+
+CALCM_SADIE1_4 = ~z~Me? What about you, you fat shit?
+
+CALCM_SADIE1_5 = ~z~I should clip you one, lady.
+
+CALCM_SADIE1_6 = ~z~I'd lay you flat with one punch.
+
+CALCM_SADIE1_7 = ~z~Oh shut up.
+
+CALCM_SADIE1_8 = ~z~No, you shut up.
+
+CALCM_SK_TENT_1_1 = ~z~
+
+CALCM_SK_TENT_1_2 = ~z~It's alright John's tent, isn't it?
+
+CALCM_SK_TENT_1_3 = ~z~Hasn't seen any action like this since nine months before young Jackie popped out!
+
+CALCM_SK_TENT_1_4 = ~z~Sean!
+
+CALCM_SK_TENT_1_5 = ~z~Move over will you?
+
+CALCM_SK_TENT_1_6 = ~z~What are you doing?
+
+CALCM_SK_TENT_1_7 = ~z~Trying to get these off!
+
+CALCM_SK_TENT_1_8 = ~z~Ow!
+
+CALCM_SK_TENT_1_9 = ~z~Sorry!
+
+CALCM_SK_TENT_1_10 = ~z~Oh there they are, look at them. Magnificent.
+
+CALCM_SK_TENT_1_11 = ~z~Like the peaks of the Derryveagh.
+
+CALCM_SK_TENT_1_12 = ~z~Shut up, you idiot.
+
+CALCM_SK_TENT_1_13 = ~z~Come here, you.
+
+CALCM_SK_TENT_1_14 = ~z~What are you doing?
+
+CALCM_SK_TENT_1_15 = ~z~An old trick my Da taught me.
+
+CALCM_SK_TENT_1_16 = ~z~Ugh, no! Don't ever do that again.
+
+CALCM_SK_TENT_1_17 = ~z~Okay, okay, here we go.
+
+CALCM_SK_TENT_1_18 = ~z~Miss Jones, meet Macguire Junior.
+
+CALCM_SK_TENT_1_19 = ~z~Is that it?
+
+CALCM_SK_TENT_1_20 = ~z~You wait, he's a fighter...
+
+CALCM_SK_TENT_1_21 = ~z~Okay... no, that's not... there... no...
+
+CALCM_SK_TENT_1_22 = ~z~Guide me in here a bit, will you?
+
+CALCM_SK_TENT_1_23 = ~z~Jesus.
+
+CALCM_SK_TENT_1_24 = ~z~Oh yes.
+
+CALCM_SK_TENT_1_25 = ~z~Oh you're a lovely woman.
+
+CALCM_SK_TENT_1_26 = ~z~Yes!
+
+CALCM_SK_TENT_1_27 = ~z~Ooh yes, that's it.
+
+CALCM_SK_TENT_1_28 = ~z~Stop pulling that face!
+
+CALCM_SK_TENT_1_29 = ~z~Yes!
+
+CALCM_SK_TENT_1_30 = ~z~Miss Jones!
+
+CALCM_SK_TENT_1_31 = ~z~Will you shut up?
+
+CALCM_SK_TENT_1_32 = ~z~Are you close?
+
+CALCM_SK_TENT_1_33 = ~z~Nowhere near!
+
+CALCM_SK_TENT_1_34 = ~z~Oh!
+
+CALCM_SK_TENT_1_35 = ~z~There she blows!
+
+CALCM_SK_TENT_1_36 = ~z~Phew... it's like all me worries have floated away...
+
+CALCM_SK_TENT_1_37 = ~z~Hey, where are you going?
+
+CALCM_SK_TENT_1_38 = ~z~We're done ain't we?
+
+CALCM_SK_TENT_1_39 = ~z~We certainly are, darling.
+
+CALCM_SK_TENT_2_1 = ~z~
+
+CALCM_SK_TENT_2_2 = ~z~I always liked you, Karen.
+
+CALCM_SK_TENT_2_3 = ~z~You want me to stop?
+
+CALCM_SK_TENT_2_4 = ~z~No! Don't stop!
+
+CALCM_SK_TENT_2_5 = ~z~
+
+CALCM_SK_TENT_2_6 = ~z~I just want someone to see me!
+
+CALCM_SK_TENT_2_7 = ~z~
+
+CALCM_SK_TENT_2_8 = ~z~I see you, Karen!
+
+CALCM_SK_TENT_2_9 = ~z~
+
+CALCM_SK_TENT_2_10 = ~z~You're going? Guess I'll see you in the morning then?
+
+CALCM_SK_TENT_A_1 = ~z~Will you two keep it down in there?
+
+CALCM_SK_TENT_A_2 = ~z~Shut it, Morgan!
+
+CALCM_SNBM1_1 = ~z~~sl:0.0:3.2~You know, they say if you stare at a fire long enough,~sl:0.2~you can see who you were in a previous life.
+
+CALCM_SNBM1_2 = ~z~A burning stick.
+
+CALCM_SNBM1_3 = ~z~~sl:1.8:0.0~Yes, you've got it in one. Jesus...
+
+CALCM_UNBE1_1 = ~z~You know, I found a finger in my stew once. A lady's finger.
+
+CALCM_UNBE1_2 = ~z~What?
+
+CALCM_UNBE1_3 = ~z~Pearson tried to tell me it was a chicken bone, but I know chicken when I taste it.
+
+CALCM_UNBE1_4 = ~z~Christ...
+
+CAMB_CLM_CJO1_A_1 = ~z~Arthur breaks them, we fix them.
+
+CAMB_CLM_CJO1_A_2 = ~z~That seems to be the way.
+
+CAMB_CLM_CJO1_B_1 = ~z~Well, we ain't the quickest but we get it done right.
+
+CAMB_CLM_CJO1_B_2 = ~z~Yup, the best things aren't done in a hurry.
+
+CAMB_CLM_CJO2_A_1 = ~z~We should be getting the young'uns to do this.
+
+CAMB_CLM_CJO2_A_2 = ~z~Good luck getting Sean to lift a finger.
+
+CAMB_CLM_CJO2_B_1 = ~z~Just as soon as we get everything set up right, we have to move again.
+
+CAMB_CLM_CJO2_B_2 = ~z~Yep, that's the way it goes.
+
+CAMB_CLM_CJO3_A_1 = ~z~You think you could ever do it? Go straight, honest work?
+
+CAMB_CLM_CJO3_A_2 = ~z~~sl:1.1:0.0~We wouldn't even know where to start.
+
+CAMB_CLM_CJO3_B_1 = ~z~You know... I can't even remember the last time I slept in a real bed.
+
+CAMB_CLM_CJO3_B_2 = ~z~~sl:0.9~Me neither.
+
+CAMB_CLM_CJ_A_1 = ~z~What I would give for a good pozole.
+
+CAMB_CLM_CJ_A_2 = ~z~It's taken Pearson this long to learn one recipe, don't fluster him any more.
+
+CAMB_CLM_CJ_B_1 = ~z~Ugh, one of my boots would be more tender than this.
+
+CAMB_CLM_CJ_B_2 = ~z~Yeah, one of your boots probably would.
+
+CAMB_CLM_CJ_C_1 = ~z~How is it even Pearson's sauce gets stuck in your teeth?
+
+CAMB_CLM_CJ_C_2 = ~z~You've got food, health, warmth. Be grateful for that.
+
+CAMB_CLM_CL_A_1 = ~z~Living free out here, like this... I wouldn't have it any other way.
+
+CAMB_CLM_CL_A_2 = ~z~Got a good head on you, kid.
+
+CAMB_CLM_CL_B_1 = ~z~Well, we survived another day. Just about.
+
+CAMB_CLM_CL_B_2 = ~z~Guess we did.
+
+CAMB_CLM_CS_A_1 = ~z~All you do is complain about Pearson's cooking. Just be glad there's food on the table.
+
+CAMB_CLM_CS_A_2 = ~z~Hey, who robbed the people to put the food on the table? Us!
+
+CAMB_CLM_CS_B_1 = ~z~Ah, I tell you... I am aching for a good poke right now.
+
+CAMB_CLM_CS_B_2 = ~z~I hope that wasn't directed at me.
+
+CAMB_CLM_CS_B_3 = ~z~
+
+CAMB_CLM_JH_A_1 = ~z~Seems so peaceful.
+
+CAMB_CLM_JH_A_2 = ~z~Enjoy it now while you can.
+
+CAMB_CLM_JH_B_1 = ~z~You know what that is in the distance? Blackwater.
+
+CAMB_CLM_JH_B_2 = ~z~Maybe we should just swim over and get our money back?
+
+CAMB_CLM_JH_C_1 = ~z~For the ugly life we lead, we reside in some pretty spots.
+
+CAMB_CLM_JH_C_2 = ~z~I guess we do.
+
+CAMB_CLM_JH_D_1 = ~z~Do you ever worry that one of those alligators is going to walk into your tent at night?
+
+CAMB_CLM_JH_D_2 = ~z~No, but I will now.
+

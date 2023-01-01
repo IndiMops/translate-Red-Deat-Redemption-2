@@ -1,0 +1,954 @@
+MOB4_ARRIVELCNV_1 = ~z~Anyway, here we are, let me do the talking.
+
+MOB4_ARRIVEL_1 = ~z~Here we are, let me do the talking.
+
+MOB4_ATK_01_1 = ~z~Finish that son of a bitch, Arthur!
+
+MOB4_ATK_01_2 = ~z~You're gonna be alright Jules, just hold on.
+
+MOB4_ATK_02_1 = ~z~Put every bullet you got in him!
+
+MOB4_BECKON_1 = ~z~Hey! You in the tree. What are you doing?
+
+MOB4_BECKON_T_01 = ~z~Come on. Like I says, we need to be lively here.
+
+MOB4_BECKON_T_02 = ~z~Sooner we get this done, sooner I can help you boys.
+
+MOB4_BECKON_T_03 = ~z~We shouldn't be lingering here, come on.
+
+MOB4_BOATDAWD_01 = ~z~Like I said, the skiff's just over there.
+
+MOB4_BOATDAWD_02 = ~z~The boat's stuck, I think.
+
+MOB4_BOATDAWD_03 = ~z~Please get the boat, mister. I've been up here for hours.
+
+MOB4_COME_HERE_01 = ~z~I'm coming!
+
+MOB4_COME_HERE_02 = ~z~Hold on!
+
+MOB4_COME_HERE_03 = ~z~I'm coming, Jules!
+
+MOB4_CRYING_01 = ~z~Over here!
+
+MOB4_CRYING_02 = ~z~Here! Help!
+
+MOB4_CRYING_03 = ~z~Up here!
+
+MOB4_CRYING_04 = ~z~In the tree!
+
+MOB4_CRYING_05 = ~z~Over this way!
+
+MOB4_CRYING_06 = ~z~Hello!
+
+MOB4_DAWDLE_01 = ~z~Don't back out on me now.
+
+MOB4_DAWDLE_02 = ~z~Come on, Arthur, just trust me.
+
+MOB4_DAWDLE_03 = ~z~Can we just get this done?
+
+MOB4_DHELPTRAP_01 = ~z~Go on, Arthur.
+
+MOB4_DHELPTRAP_02 = ~z~You're not scared of a few crayfish are you?
+
+MOB4_DHELPTRAP_03 = ~z~We agreed to help, Arthur.
+
+MOB4_ENTER_S_1 = ~z~Now stay close, make sure you follow my line.
+
+MOB4_ENTER_S_2 = ~z~Oh I fully intend to, Thomas.
+
+MOB4_ENTER_S_3 = ~z~You too, Mr. Arthur.
+
+MOB4_EXT_1 = ~z~You're going to be okay, kid.
+
+MOB4_EXT_2 = ~z~Sorry, Jules...
+
+MOB4_EXT_3 = ~z~guess all them stories was true.
+
+MOB4_EXT_4 = ~z~Big and mad...
+
+MOB4_EXT_5 = ~z~that's unusual.
+
+MOB4_EXT_6 = ~z~Normally the little ones is angry...
+
+MOB4_EXT_7 = ~z~big ones is lazy.
+
+MOB4_EXT_8 = ~z~Well, I guess he never outgrew his anger...
+
+MOB4_EXT_9 = ~z~kind of reminds me of you, Arthur.
+
+MOB4_EXT_10 = ~z~You know...
+
+MOB4_EXT_11 = ~z~I don't think I've ever seen you squeal before, Dutch.
+
+MOB4_EXT_12 = ~z~I weren't the one squealing.
+
+MOB4_EXT_13 = ~z~Yeah well, you weren't in the water with him...
+
+MOB4_EXT_14 = ~z~and this poor boy was nearly dinner.
+
+MOB4_EXT_15 = ~z~Can we get some help?
+
+MOB4_EXT_16 = ~z~Jules' been bitten.
+
+MOB4_EXT_17 = ~z~There's a monster out here...~n~~m~Oh, my God!
+
+MOB4_EXT_18 = ~z~He's been bitten, but he's alive.
+
+MOB4_EXT_19 = ~z~Just keep him warm...
+
+MOB4_EXT_20 = ~z~feed him garlic for the infection.
+
+MOB4_EXT_21 = ~z~Thank you...
+
+MOB4_EXT_22 = ~z~both of you.
+
+MOB4_EXT_23 = ~z~I'm at your service anytime you need me.
+
+MOB4_EXT_24 = ~z~Thank you, Thomas.
+
+MOB4_EXT_25 = ~z~Where can we find you?
+
+MOB4_EXT_26 = ~z~You just meet me back here.
+
+MOB4_EXT_27 = ~z~Very good.
+
+MOB4_EXT_28 = ~z~Can one of you help me put the boat back out?
+
+MOB4_EXT_29 = ~z~Sure.
+
+MOB4_EXT_30 = ~z~I'm going to head back to camp and placate the...
+
+MOB4_EXT_31 = ~z~irritable Miss O'Shea, who's causing more trouble.
+
+MOB4_EXT_32 = ~z~I'll collect the boys...
+
+MOB4_EXT_33 = ~z~meet you back here, Arthur.
+
+MOB4_EXT_34 = ~z~Mr. Arthur...
+
+MOB4_EXT_35 = ~z~old Bronte, he's a bad man.
+
+MOB4_EXT_36 = ~z~I know...
+
+MOB4_EXT_37 = ~z~Killed some good folks...
+
+MOB4_EXT_38 = ~z~hurt a lot of people.
+
+MOB4_EXT_39 = ~z~Well, he definitely lacks a certain charm.
+
+MOB4_EXT_40 = ~z~I'll see you soon.
+
+MOB4_EXT_41 = ~z~You be safe...
+
+MOB4_EXT_42 = ~z~we got monsters out here.
+
+MOB4_EXT_43 = ~z~Well...
+
+MOB4_EXT_POST_1 = ~z~Monsters I'm fine with... I live with them.
+
+MOB4_FAIL_TRAP_1 = ~z~~sl:0.0:1.3~Should we just keep moving?~sl:~I don't really wanna hang around here much longer.
+
+MOB4_FAIL_TRAP_2 = ~z~Alright, I suppose this can wait. Let's go.
+
+MOB4_FIRST_TRAP_1 = ~z~Got a couple of crayfish traps up ahead.
+
+MOB4_GFLEE_1 = ~z~Okay, I think it's had enough!
+
+MOB4_GFLEE_2 = ~z~For now... Jesus, can we get back now?
+
+MOB4_GOTYOU_1 = ~z~~sl:0.3:1.1:1~I got you.
+
+MOB4_GRETURN_01 = ~z~Dead ahead of us! You see him? Shoot!
+
+MOB4_GRETURN_02 = ~z~He's under the water, coming right for us!
+
+MOB4_GRETURN_03 = ~z~Shit. Don't let him get any closer!
+
+MOB4_HELPTRAP_1 = ~z~Can you please check the other one for me, Mr. Arthur?
+
+MOB4_HURRY_01 = ~z~Alright, let's get going.
+
+MOB4_HURRY_02 = ~z~Mount up, Arthur.
+
+MOB4_HURRY_03 = ~z~Let's go. You said you were with me on this.
+
+MOB4_IDLEM1_1 = ~z~You'd be wise to get on that trail, think we about to get some bad weather coming in.
+
+MOB4_IDLEM2_1 = ~z~Anyway, I'm sure you got other places to be.
+
+MOB4_IDLEM3_1 = ~z~Well, y-you're welcome to stick around if you want.
+
+MOB4_IDLEW1_1 = ~z~Don't worry, we'll look after him from here, mister.
+
+MOB4_IDLEW2_1 = ~z~Well, don't let us keep you from your business, sir.
+
+MOB4_IDLEW3_1 = ~z~I-If you don't mind, sir, w-we all lots to get on with here.
+
+MOB4_IG1_1 = ~z~Be lively. Mind you, there's a lot of gators. Uncommon number, big ones.
+
+MOB4_IG1_2 = ~z~~sl:0.4:0.8:1~Great...
+
+MOB4_IG1_3 = ~z~~sl:0.0:5.9:1~Come now, Arthur. It'll take more than a prehistoric reptile to scare you, surely?
+
+MOB4_IG1_4 = ~z~~sl:0.4:4.0~Well, I just wanna see you meet your match when it comes to a,~sl:0.3~an ancient predator with a big mouth, Dutch.
+
+MOB4_IG1_5 = ~z~Arthur here is something of a comedian, Thomas. More of a jester than a gunslinger.
+
+MOB4_IG1_6 = ~z~Well, if you say so, Mr. Dutch.
+
+MOB4_IG1_7 = ~z~~sl:0.0:2.5~This way, come on, this way. Follow me here.~sl:0.3~And stay on the high ground.
+
+MOB4_IG1_8 = ~z~You call this ground? It feels like water to me.
+
+MOB4_IG1_9 = ~z~~sl:1.0:0.0~Down here we can't be too picky there, Mr. Arthur.
+
+MOB4_IG2_P1_1 = ~z~Mr. Dutch, you keep a look out for company...
+
+MOB4_IG2_P1_2 = ~z~Mr. Arthur, check the traps with me.
+
+MOB4_IG3_P1_1 = ~z~
+
+MOB4_IG3_P1_2 = ~z~~sl:4.9:0.0~I guess something didn't want to be caught.
+
+MOB4_IG3_P1_3 = ~z~My gosh... so it's true.
+
+MOB4_IG3_P1_4 = ~z~What is?
+
+MOB4_IG3_P1_5 = ~z~There's been talk of a big old bull... but people talk a lot of nonsense...
+
+MOB4_IG3_P1_6 = ~z~~sl:0.0:1.3~I guess this was...~sl:1.8:2.1:1~no, but only something huge could do this.
+
+MOB4_IG3_P1_7 = ~z~~sl:1.8:0.0~Fantastic... well let's hope it bites you first, Dutch.
+
+MOB4_IG4_P1_1 = ~z~There's a monster... a monster!
+
+MOB4_IG4_P1_2 = ~z~You okay up there?
+
+MOB4_IG4_P2_1 = ~z~There's a monster!
+
+MOB4_IG4_P2_2 = ~z~Where?
+
+MOB4_IG4_P2_3 = ~z~Massive, it nearly ate me...
+
+MOB4_IG4_P2_4 = ~z~Where'd he go?
+
+MOB4_IG4_P3_1 = ~z~It's, it's out there!
+
+MOB4_IG4_P3_2 = ~z~What?
+
+MOB4_IG4_P4_1 = ~z~A big gator, biggest I ever saw! Big and nasty!
+
+MOB4_IG4_P4_2 = ~z~Knocked me off the boat and chased me over here.
+
+MOB4_IG4_P5_1 = ~z~You must be Jules?
+
+MOB4_IG4_P5_2 = ~z~Yes.
+
+MOB4_IG4_P5_3 = ~z~Where is the boat?
+
+MOB4_IG4_P6_1 = ~z~~sl:0.0:3.0:1~It's over there... I ran, I...
+
+MOB4_IG4_P7_1 = ~z~Okay... and uh, where'd this monster swim off to?
+
+MOB4_IG4_P7_2 = ~z~I think that way...
+
+MOB4_IG4_P9_1 = ~z~Good luck shooting that thing, you'll need a cannon.
+
+MOB4_IG5_P1_1 = ~z~~sl:1.4:1.1:~Now what?
+
+MOB4_IG5_P1_2 = ~z~~sl:1.7:0.0~I think we hit a tree stump.
+
+MOB4_IG5_P1_3 = ~z~~sl:0.7:1.0~Yeah, I'd thought we'd clear it.~sl:0.1~You gonna need to jump in and pull us free.
+
+MOB4_IG5_P1_4 = ~z~Me?
+
+MOB4_IG5_P1_5 = ~z~Yeah, just do it, won't take you a minute boy, go on.
+
+MOB4_IG5_P1_6 = ~z~This is a bad idea...
+
+MOB4_IG5_P1_7 = ~z~~sl:2.1:2.2~We'll see any giant monster...~sl:~long before it gets anywhere near you...
+
+MOB4_IG5_P1_8 = ~z~We got a couple of crack gunslingers here with their guns loaded!
+
+MOB4_IG5_P1_9 = ~z~You'll be fine.
+
+MOB4_IG5_P1_10 = ~z~You didn't see the thing.
+
+MOB4_IG5_P1_11 = ~z~~sl:0.1:0.0~Yeah, neither did you... it's just a myth Jules, now pull!
+
+MOB4_IG7_P1_1 = ~z~
+
+MOB4_IG7_P1_2 = ~z~Jules?
+
+MOB4_IG7_P1_3 = ~z~Shit.
+
+MOB4_IG7_P1_4 = ~z~He weren't kidding...
+
+MOB4_IG7_P1_5 = ~z~No, I'm going in!
+
+MOB4_IG7_P1_6 = ~z~No, no, we can't lose the boat...
+
+MOB4_IG7_P1_7 = ~z~Arthur'll go.
+
+MOB4_IG7_P1_8 = ~z~I will?
+
+MOB4_IG7_P1_9 = ~z~Quick!
+
+MOB4_IG8_P1AALT_1 = ~z~Help! Help! Help!
+
+MOB4_IG8_P1A_1 = ~z~Help! Help! Help!
+
+MOB4_IG8_P1B_1 = ~z~
+
+MOB4_IG8_P1C_1 = ~z~I'm coming.
+
+MOB4_IG8_P1D_1 = ~z~Come here, son.
+
+MOB4_IG8_P1E_1 = ~z~
+
+MOB4_IG8_P1F_1 = ~z~
+
+MOB4_IG8_P1G_1 = ~z~It got my leg!
+
+MOB4_IG8_P2_1 = ~z~Help, it's got my leg! Help!
+
+MOB4_IG9_A1_DU1_1 = ~z~~sl:0.0:0.7~Arthur...~sl:1.5~are you just gonna let him die?
+
+MOB4_IG9_A1_DU1_2 = ~z~That is not the way we do things.
+
+MOB4_IG9_A_1 = ~z~~sl:1.0:0.0~I got you, son.
+
+MOB4_IG9_A_2 = ~z~
+
+MOB4_IG9_C_1 = ~z~Fire off a couple of warning shots, just to pretend you care.
+
+MOB4_IG9_C_2 = ~z~I got you covered!
+
+MOB4_IG9_D_1 = ~z~God, oh, God no... please hurry.
+
+MOB4_IG9_D_2 = ~z~My leg! Oh...
+
+MOB4_IG9_D_3 = ~z~Oh, God no... please hurry!
+
+MOB4_IG9_E_1 = ~z~
+
+MOB4_IG9_F_1 = ~z~Oh... God, no...
+
+MOB4_IG9_G_1 = ~z~
+
+MOB4_IG10_A_1 = ~z~Hurry up, Arthur!
+
+MOB4_IG10_B_1 = ~z~Just, just don't look behind you!
+
+MOB4_IG10_C_1 = ~z~Quick as you can, come on!
+
+MOB4_IG10_D_1 = ~z~Just focus on the boat!
+
+MOB4_IG10_E_1 = ~z~Hurry, hurry!
+
+MOB4_IG10_F_1 = ~z~Keep going!
+
+MOB4_IG10_G_1 = ~z~Mr. Arthur, come on, come on!
+
+MOB4_IG10_H_1 = ~z~Hang in there, Jules!
+
+MOB4_IG10_I_1 = ~z~Don't stop! Don't stop!
+
+MOB4_IG11_P1_1_1 = ~z~Here, give me the boy.
+
+MOB4_IG11_P1_2_1 = ~z~Here, his leg's hurt pretty bad, but he should be ok.
+
+MOB4_IG11_P1_2_2 = ~z~
+
+MOB4_IG11_P1_2_3 = ~z~Get in!
+
+MOB4_IG11_P1_3_1 = ~z~Put him here, come on!
+
+MOB4_IG11_P1_4_1 = ~z~What are you doing? Bring him here.
+
+MOB4_IG11_P1_5_1 = ~z~Give him here.
+
+MOB4_IG11_P1_6_1 = ~z~~sl:0.0:0.6~Bring him here...~sl:1.5~come on, come on, quickly, quickly.
+
+MOB4_IG11_P1_7_1 = ~z~Bring him here, come on.
+
+MOB4_IG11_P1_8_1 = ~z~Come on.
+
+MOB4_IG11_P1_9_1 = ~z~Come on.
+
+MOB4_IG11_P1_10_1 = ~z~~sl:0.0:1.2:1~Come on, ah shit...
+
+MOB4_IG11_P1_11_1 = ~z~Come on, get him over here!
+
+MOB4_IG11_P1_12_1 = ~z~Arthur, what are you doing? Bring him here.
+
+MOB4_IG11_P1_13_1 = ~z~~sl:2.0~Come on!
+
+MOB4_IG11_P1_14_1 = ~z~Come on, come on... come on.
+
+MOB4_IG11_P2_1_1 = ~z~
+
+MOB4_IG11_P2_2_1 = ~z~
+
+MOB4_IG11_P2_3_1 = ~z~
+
+MOB4_IG11_P2_4_1 = ~z~
+
+MOB4_IG12_1 = ~z~I think he's going.
+
+MOB4_IG12_2 = ~z~Shit, that is one big old gator!
+
+MOB4_IG12_3 = ~z~Oh, your boy doesn't look too good there.
+
+MOB4_IG12_4 = ~z~Here, take this, try to stop the bleeding!
+
+MOB4_IG14_B_1 = ~z~You're gonna be okay, son. You're gonna be okay.
+
+MOB4_IG14_B_2 = ~z~Just thank your old uncle Dutch.
+
+MOB4_IG14_B_3 = ~z~I heard that.
+
+MOB4_IG15_A_1 = ~z~There's still a lot of blood, you need to put pressure on it.
+
+MOB4_IG16_A_1 = ~z~~sl:3.0:1.4~I've stopped the bleeding...~sl:1.7:3.5:1~I think he'll be okay, if he don't get a fever.
+
+MOB4_IG16_A_2 = ~z~~sl:0.7:0.0~We can bring down a fever.
+
+MOB4_IG16_A_3 = ~z~~sl:0.8:2.9~A fever is the least of our worries...~sl:0.6~look who's back.
+
+MOB4_IG16_A_4 = ~z~Goddamn it.
+
+MOB4_IG16_B_1 = ~z~
+
+MOB4_INT_1 = ~z~So, Arthur, you get the deciding vote.
+
+MOB4_INT_2 = ~z~About what?
+
+MOB4_INT_3 = ~z~We take an insult and scurry off like cockroaches...
+
+MOB4_INT_4 = ~z~or deal with business the right way.
+
+MOB4_INT_5 = ~z~We don't need to take revenge, we hardly know the guy.
+
+MOB4_INT_6 = ~z~This ain't about revenge, Hosea.
+
+MOB4_INT_7 = ~z~Angelo Bronte don't mean shit to me.
+
+MOB4_INT_8 = ~z~This is about the fact that we are planning to rob a bank in his town.
+
+MOB4_INT_9 = ~z~A bank that he no doubt protects...
+
+MOB4_INT_10 = ~z~a town where his men are gunning for us.
+
+MOB4_INT_11 = ~z~Before we do that...
+
+MOB4_INT_12 = ~z~we need to put him out of commission.~n~~m~I disagree.
+
+MOB4_INT_13 = ~z~There's always an easier way.
+
+MOB4_INT_14 = ~z~There ain't no easier way.
+
+MOB4_INT_15 = ~z~Now, I know his type.
+
+MOB4_INT_16 = ~z~He is a vindictive little power broker who rules by fear.
+
+MOB4_INT_17 = ~z~Now, we pull that stunt in his cess pit of a town...
+
+MOB4_INT_18 = ~z~we're doomed.
+
+MOB4_INT_19 = ~z~You wanna leave this place?
+
+MOB4_INT_20 = ~z~Leave this country?
+
+MOB4_INT_21 = ~z~We need that money.
+
+MOB4_INT_22 = ~z~It just don't feel good, Dutch.
+
+MOB4_INT_23 = ~z~This is it.
+
+MOB4_INT_24 = ~z~This is the last job that we are ever gonna pull.
+
+MOB4_INT_25 = ~z~Before the year is out...
+
+MOB4_INT_26 = ~z~we are gonna be harvesting mangoes in Tahiti.
+
+MOB4_INT_27 = ~z~Farmers.
+
+MOB4_INT_28 = ~z~But we need seed capital...
+
+MOB4_INT_29 = ~z~and we need to leave.
+
+MOB4_INT_30 = ~z~You know it. I know it.
+
+MOB4_INT_31 = ~z~Forgive me if I can't think too much about the mango harvest...
+
+MOB4_INT_32 = ~z~This is it.~n~~m~I'm...
+
+MOB4_INT_33 = ~z~Trust me.
+
+MOB4_INT_34 = ~z~Arthur...
+
+MOB4_INT_35 = ~z~If it's business, well...
+
+MOB4_INT_36 = ~z~business is business...
+
+MOB4_INT_37 = ~z~Angelo Bronte stands between us and our future.
+
+MOB4_INT_38 = ~z~You'll damn us all...
+
+MOB4_INT_39 = ~z~Arthur, come on.
+
+MOB4_INT_40 = ~z~You better be right about this one.
+
+MOB4_INT_41 = ~z~I am.
+
+MOB4_INT_LI_1 = ~z~So, Arthur, you get the deciding vote.
+
+MOB4_INT_LI_2 = ~z~About what?
+
+MOB4_INT_LI_3 = ~z~~sl:0.0:3.6~We take an insult and scurry off like cockroaches~sl:~or deal with business the right way.
+
+MOB4_INT_LI_4 = ~z~~sl:0.0:1.2~We don't need to take revenge,~sl:~we hardly know the guy.
+
+MOB4_INT_LI_CO1_1 = ~z~Arthur, come up here.
+
+MOB4_INT_LI_CO2_1 = ~z~Arthur, come up here.
+
+MOB4_INT_LI_CO3_1 = ~z~Get up here already.
+
+MOB4_INT_LI_CO4_1 = ~z~Will you get up here?
+
+MOB4_INT_LI_CO5_1 = ~z~Arthur, come up here.
+
+MOB4_INWATER_1 = ~z~Hurry!
+
+MOB4_INWATER_2 = ~z~It's pulling him under!
+
+MOB4_INWATER_3 = ~z~Hurry, please!
+
+MOB4_ISLAND_1 = ~z~~sl:0.0:1.7~Alright, let's keep moving.~sl:0.2~I got another trap by that small island up ahead.
+
+MOB4_ISLAND_2 = ~z~I don't know what's taking Jules so long with that boat.
+
+MOB4_ISLAND_3 = ~z~I think we are all equally keen to find him.
+
+MOB4_JULESFREE_1 = ~z~Thank God.
+
+MOB4_JULESGRIEF_01 = ~z~Hey.
+
+MOB4_JULESGRIEF_02 = ~z~What are you doing?
+
+MOB4_JULESGRIEF_03 = ~z~Are you crazy?
+
+MOB4_JULESMOAN_01 = ~z~
+
+MOB4_JULESMOAN_02 = ~z~Oh God.
+
+MOB4_JULESMOAN_03 = ~z~~sl:0.0:0.7~Oh no.~sl:0.4:0.8:1~Oh no.
+
+MOB4_JULESMOAN_04 = ~z~~sl:0.0:0.9~My leg.~sl:0.4:0.8:1~My leg.
+
+MOB4_JULESMOAN_05 = ~z~
+
+MOB4_JUMPIN_01 = ~z~Hurry, Arthur.
+
+MOB4_JUMPIN_02 = ~z~Go on, Arthur.
+
+MOB4_JUMPIN_03 = ~z~Quick, Arthur.
+
+MOB4_LEAD_1 = ~z~Okay, follow me.
+
+MOB4_LOOTTRAP_1 = ~z~This one's empty.
+
+MOB4_LOOTTRAP_2 = ~z~Alright, I got a few more set over this way. Come on.
+
+MOB4_LOOTTRAP_3 = ~z~I don't wanna know what just touched my leg.
+
+MOB4_LOOTTRAP_4 = ~z~~sl:0.0:0.8~Mr. Dutch,~sl:~you sure you're the right fellers to be going after Angelo Bronte?
+
+MOB4_LOOTTRAP_5 = ~z~Oh, he's much more the kind of reptile I can handle.
+
+MOB4_LUCKY_1 = ~z~Please, when I tell you to keep still, keep still.
+
+MOB4_LUCKY_2 = ~z~Yeah, for chrissakes, listen to the man before you get us all eaten.
+
+MOB4_MCS1_1 = ~z~It is good to see you, my friend.
+
+MOB4_MCS1_2 = ~z~Hello, Mr. Dutch.
+
+MOB4_MCS1_3 = ~z~Thomas, have you met Arthur?
+
+MOB4_MCS1_4 = ~z~Arthur, Thomas is quite the boatman.
+
+MOB4_MCS1_5 = ~z~He's gonna help us get close to our prey.
+
+MOB4_MCS1_6 = ~z~The other night, we had quite the adventure fishing for catfish...
+
+MOB4_MCS1_7 = ~z~now, my friend...
+
+MOB4_MCS1_8 = ~z~can I call in that favor?
+
+MOB4_MCS1_9 = ~z~What do you need?
+
+MOB4_MCS1_10 = ~z~You know Angelo Bronte?
+
+MOB4_MCS1_11 = ~z~Well exactly.
+
+MOB4_MCS1_12 = ~z~We need to make a...
+
+MOB4_MCS1_13 = ~z~social call.
+
+MOB4_MCS1_14 = ~z~We were hoping you could row us in quietly one evening...
+
+MOB4_MCS1_15 = ~z~around the back of his house.
+
+MOB4_MCS1_16 = ~z~If anyone can, I can.
+
+MOB4_MCS1_17 = ~z~We'll pay you for your trouble.
+
+MOB4_MCS1_18 = ~z~If you're bringing him trouble...
+
+MOB4_MCS1_19 = ~z~it won't be no trouble for me.
+
+MOB4_MCS1_20 = ~z~Good...
+
+MOB4_MCS1_21 = ~z~My business partner, Jules, he's out on the skiff...
+
+MOB4_MCS1_22 = ~z~I'll need to check with him...
+
+MOB4_MCS1_23 = ~z~plus, I need to check the traps.
+
+MOB4_MCS1_24 = ~z~Would you come with me?
+
+MOB4_MCS1_25 = ~z~Of course.
+
+MOB4_MCS1_26 = ~z~Arthur?
+
+MOB4_MCS1_27 = ~z~Why not?
+
+MOB4_MCS1_28 = ~z~Shouldn't take too long, if we can find him.
+
+MOB4_MCS1_LI_1 = ~z~Thomas.
+
+MOB4_MCS2_1 = ~z~It's stuck.
+
+MOB4_MCS2_2 = ~z~Oh, no...
+
+MOB4_MCS2_3 = ~z~I got it loose.
+
+MOB4_MCS2_4 = ~z~Come.
+
+MOB4_MCS2_5 = ~z~Good man.
+
+MOB4_MCS2_6 = ~z~Alright, let's get back to the dock.
+
+MOB4_MCS2_7 = ~z~Yes, please let's go.
+
+MOB4_MCS2_LI_1 = ~z~I got the skiff... it's over here!
+
+MOB4_MOREGATOR_1 = ~z~Hold up.
+
+MOB4_NOLOOT_1 = ~z~~sl:0.0:2.1~Alright, let's just keep moving.~sl:0.1~I'll come back and check that one later.
+
+MOB4_NOLOOT_2 = ~z~~sl:0.0:2.0~I apologize for my friend here.~sl:~He normally doesn't have an issue getting his hands dirty.
+
+MOB4_NOLOOT_3 = ~z~~sl:0.0:1.1:1~Right.
+
+MOB4_POSTM1_1 = ~z~I sure do appreciate what you did for Jules.
+
+MOB4_POSTM2_1 = ~z~You boys did a good thing, this yeah.
+
+MOB4_POSTM3_1 = ~z~One of us was gonna get got by that old gator soon enough.
+
+MOB4_POSTW1_1 = ~z~This swamp, it gives and it takes away.
+
+MOB4_POSTW2_1 = ~z~Well any friend of Thomas is a friend of mine.
+
+MOB4_POSTW3_1 = ~z~I-I heard, I heard the gunshots, sounded like a hell of a fight out there.
+
+MOB4_PULLJULES_01 = ~z~Pull.
+
+MOB4_PULLJULES_02 = ~z~Pull, boy.
+
+MOB4_PULLJULES_03 = ~z~Come on, put your back into it.
+
+MOB4_RDBANTSHOUTED_6 = ~z~~sl:0.0:6.2~But this move on Bronte... is it for the bank job... or revenge~sl:~for what happened at the trolley station?
+
+MOB4_RDBANTSHOUTED_8 = ~z~~sl:0.0:4.2~We need to hit that bank and Bronte has the police~sl:~and just about everything else in Saint Denis in his back pocket.
+
+MOB4_RDBANTSHOUTED_11 = ~z~~sl:0.0:2.7~We just got a lot of pots on the boil~sl:~given all the folks who's out gunning for us.
+
+MOB4_RDBANTSHOUTED_12 = ~z~~sl:0.0:4.1~You all seem to have forgotten how money is made~sl:~and what it takes to support twenty people,
+
+MOB4_RDBANTSHOUTED_14 = ~z~~sl:0.0:2.5~With all due respect, Dutch...~sl:0.7~is this Tahiti plan really going to work out?
+
+MOB4_RDBANTSHOUTED_16 = ~z~~sl:0.0:3.0~Have some goddamn faith.~sl:0.2~I am bending over backwards to make a future for us.
+
+MOB4_RDBANTSHOUTED_19 = ~z~~sl:0.0:4.5~If you'd rather we break up the family, go our separate ways,~sl:~just tell me.
+
+MOB4_RDBANTSHOUTED_21 = ~z~This isn't a prison camp. I'm not forcing anybody to stay.
+
+MOB4_RDBANTSHOUTED_22 = ~z~~sl:0.0:4.8~So either we're in this together, working together~sl:~to get out together, or we're not.
+
+MOB4_RDBANTSHOUTED_25 = ~z~~sl:0.0:3.2~Just feels like we're on borrowed time again.~sl:0.6~I mean, the O'Driscolls found us.
+
+MOB4_RDBANTSHOUTED_27 = ~z~~sl:0.0:2.9~I feel like I'm going in circles with all of you.~sl:~Micah is the only one left with any loyalty.
+
+MOB4_RDBANTSHOUTED_29 = ~z~~sl:0.0:2.3~You're talking like John...~sl:0.6:3.0~I swear that woman is poisoning him against me.~sl:~I've seen it before.
+
+MOB4_RDBANTSHOUTED_32 = ~z~~sl:0.0:4.1~You think that Micah would question going after Bronte?~sl:~No, he'd say “let's go”.
+
+MOB4_RDBANTSHOUTED_34 = ~z~~sl:0.0:5.3~I know... I... I'm sorry, son.~sl:0.8~It's just the endless debate about everything is wearing me down.
+
+MOB4_RDBANTSHOUTED_37 = ~z~~sl:0.0:8.9~Blackwater, Valentine, Rhodes, Sean, Kieran...~sl:0.9~I promise none of it will be in vain.
+
+MOB4_RDBANTSPOKEN_6 = ~z~~sl:0.0:5.5~But this move on Bronte... is it for the bank job... or revenge~sl:~for what happened at the trolley station?
+
+MOB4_RDBANTSPOKEN_8 = ~z~~sl:0.0:3.5~We need to hit that bank and Bronte has the police~sl:~and just about everything else in Saint Denis in his back pocket.
+
+MOB4_RDBANTSPOKEN_11 = ~z~~sl:0.0:2.4~We just got a lot of pots on the boil~sl:~given all the folks who's out gunning for us.
+
+MOB4_RDBANTSPOKEN_12 = ~z~~sl:0.0:3.9~You all seem to have forgotten how money is made~sl:~and what it takes to support twenty people,
+
+MOB4_RDBANTSPOKEN_14 = ~z~~sl:0.0:2.3~With all due respect, Dutch...~sl:0.5~is this Tahiti plan really going to work out?
+
+MOB4_RDBANTSPOKEN_16 = ~z~~sl:0.0:2.5~Have some goddamn faith.~sl:0.4~I am bending over backwards to make a future for us.
+
+MOB4_RDBANTSPOKEN_19 = ~z~~sl:0.0:4.2~If you'd rather we break up the family, go our separate ways,~sl:~just tell me.
+
+MOB4_RDBANTSPOKEN_21 = ~z~This isn't a prison camp. I am not forcing anybody to stay.
+
+MOB4_RDBANTSPOKEN_22 = ~z~~sl:0.0:1.9~So either we're in this together,~sl:~working together to get out together, or we're not.
+
+MOB4_RDBANTSPOKEN_25 = ~z~~sl:0.0:2.6~Just feels like we're on borrowed time again.~sl:0.4~I mean, the O'Driscolls found us.
+
+MOB4_RDBANTSPOKEN_27 = ~z~~sl:0.0:3.3~I feel like I'm going in circles with all of you.~sl:~Micah is the only one left with any loyalty.
+
+MOB4_RDBANTSPOKEN_29 = ~z~~sl:0.0:2.3~You're talking like John...~sl:0.2:2.7~I swear that woman is poisoning him against me.~sl:~I've seen it before.
+
+MOB4_RDBANTSPOKEN_32 = ~z~~sl:0.0:3.1~You think Micah would question going after Bronte?~sl:~No, he'd say “let's go”.
+
+MOB4_RDBANTSPOKEN_34 = ~z~~sl:0.0:7.7~I know... I... I... I'm sorry, son.~sl:1.2~It's just the endless debate about everything is wearing me down.
+
+MOB4_RDBANTSPOKEN_37 = ~z~~sl:0.0:7.9~Blackwater, Valentine, Rhodes, Sean, Kieran...~sl:1.1~I promise... none of it will be in vain.
+
+MOB4_RDBANT_1 = ~z~Thank you.
+
+MOB4_RDBANT_2 = ~z~For what?
+
+MOB4_RDBANT_3 = ~z~For taking my side back there.
+
+MOB4_RDBANT_4 = ~z~It ain't about sides.
+
+MOB4_RDBANT_5 = ~z~Feels like Hosea's lost his spine.
+
+MOB4_RDBANT_7 = ~z~Both, neither, what does it matter?
+
+MOB4_RDBANT_9 = ~z~He also set us up and, lest we forget, took young Jack.
+
+MOB4_RDBANT_10 = ~z~I understand.
+
+MOB4_RDBANT_13 = ~z~let alone what it takes to give twenty people a new life overseas.
+
+MOB4_RDBANT_15 = ~z~You tell me, Arthur. Is it?
+
+MOB4_RDBANT_17 = ~z~I know, but...
+
+MOB4_RDBANT_18 = ~z~But, but, but... when did you become so small-minded?
+
+MOB4_RDBANT_20 = ~z~Of course not.
+
+MOB4_RDBANT_23 = ~z~~sl:0.0:4.3~There simply isn't a reality in which we do nothing~sl:~and get everything.
+
+MOB4_RDBANT_24 = ~z~I know. You're right.
+
+MOB4_RDBANT_26 = ~z~Yeah, we need to move and soon. Haven't I made that clear?
+
+MOB4_RDBANT_28 = ~z~Now, that ain't fair.
+
+MOB4_RDBANT_30 = ~z~What's the problem here?
+
+MOB4_RDBANT_31 = ~z~There ain't a problem.
+
+MOB4_RDBANT_33 = ~z~I'm here, ain't I? I've been at your side for twenty years.
+
+MOB4_RDBANT_35 = ~z~The others I can take... but when you're not behind me, it hurts.
+
+MOB4_RDBANT_36 = ~z~I'm behind you.
+
+MOB4_RDBANT_38 = ~z~We are going to make it.
+
+MOB4_RDBANT_39 = ~z~I know we will.
+
+MOB4_REDIRECT2_01 = ~z~Like I said, we should split up. Cover both sides.
+
+MOB4_REDIRECT2_02 = ~z~Be better if you went looking the other way, Mr. Arthur.
+
+MOB4_REDIRECT2_03 = ~z~Ain't no point in us all searching the same area.
+
+MOB4_REDIRECT_01 = ~z~I said you go right, Arthur.
+
+MOB4_REDIRECT_02 = ~z~What are you coming this way for?
+
+MOB4_REDIRECT_03 = ~z~Arthur, go search the other side.
+
+MOB4_RESCUE_1 = ~z~He must be close, Arthur. Come on.
+
+MOB4_RESCUE_2 = ~z~Come on Arthur. Find him.
+
+MOB4_SAFE_1 = ~z~My God... there's no shortage of them.
+
+MOB4_SAFE_2 = ~z~Good eating.
+
+MOB4_SAFE_3 = ~z~Us or them?
+
+MOB4_SAFE_4 = ~z~Exactly... come on.
+
+MOB4_SEE_J_1 = ~z~That must be him.
+
+MOB4_SHIT_1 = ~z~Shit! Where'd he go?
+
+MOB4_SHOOT_1 = ~z~Dutch... shoot something!
+
+MOB4_SHOOT_G_01 = ~z~What the hell are you doing?
+
+MOB4_SHOOT_G_02 = ~z~Are you crazy?
+
+MOB4_SHOOT_G_03 = ~z~Why are you shooting at it?
+
+MOB4_SHOOT_G_04 = ~z~Arthur, he said keep still.
+
+MOB4_SHOUT_01 = ~z~Jules?
+
+MOB4_SHOUT_02 = ~z~Hello?
+
+MOB4_SHOUT_03 = ~z~Hey! Someone there?
+
+MOB4_SPLITUP_1 = ~z~We really should have run into Jules by now.
+
+MOB4_SPLITUP_2 = ~z~I reckon we should split up so we can search both sides.
+
+MOB4_SPLITUP_3 = ~z~~sl:0.0:4.5~Okay. Arthur, since you appear so at home here, you take the right.~sl:~We'll go left.
+
+MOB4_SPLITUP_4 = ~z~What?
+
+MOB4_SPLITUP_5 = ~z~Just keep your eyes open.
+
+MOB4_STOPNOW_01 = ~z~Keep still.
+
+MOB4_STOPNOW_02 = ~z~Stop moving.
+
+MOB4_STOPNOW_03 = ~z~What are you doing? You'll spook it.
+
+MOB4_STOPNOW_D_01 = ~z~~sl:0.4~Arthur, stay still.
+
+MOB4_STOPNOW_D_02 = ~z~What are you doing, Arthur?
+
+MOB4_STOPNOW_D_03 = ~z~Have you got a deathwish?
+
+MOB4_STOPNOW_D_04 = ~z~Wait, are you crazy?
+
+MOB4_SURFCSHOUT_01 = ~z~~sl:0.0:0.7~Help!~sl:0.5~Help me!
+
+MOB4_SURFCSHOUT_02 = ~z~Get this thing off me, help!
+
+MOB4_SWBANT1_1 = ~z~~sl:0.0:3.0~You can see why evening swamp-wading hasn't caught on~sl:~as a pastime, can't you?
+
+MOB4_SWBANT1_2 = ~z~I love it out here. Peaceful, nobody bothering you none.
+
+MOB4_SWBANT1_3 = ~z~'Cept for the Night Folk sometimes.
+
+MOB4_SWBANT1_4 = ~z~The Night Folk?
+
+MOB4_SWBANT1_5 = ~z~~sl:0.0:3.2~Yep, some strange people round these parts.~sl:~Wilder than the animals they are.
+
+MOB4_SWBANT1_6 = ~z~Well, this just gets better and better.
+
+MOB4_SWBANT2_1 = ~z~So, er, who are these fellers, Thomas?
+
+MOB4_SWBANT2_2 = ~z~Two new friends of mine, I'll explain later.
+
+MOB4_SWBANT2_3 = ~z~Jules, we are very happy to have finally made your acquaintance.
+
+MOB4_SWBANT2_4 = ~z~I thought I was gonna be out here all night.
+
+MOB4_SWBANT2_5 = ~z~What was you doing hiding up in the tree, boy?
+
+MOB4_SWBANT2_6 = ~z~~sl:0.0:2.0~This gator was huge, Thomas.~sl:~Twice as big as I ever seen. Twice as angry too.
+
+MOB4_SWBANT2_7 = ~z~~sl:0.0:3.6:1~Nonsense. Scared eyes'll play tricks on you.
+
+MOB4_SWBANT2_8 = ~z~I swear.
+
+MOB4_TOM_AGGRO_01 = ~z~Hey!
+
+MOB4_TOM_AGGRO_02 = ~z~Look out!
+
+MOB4_TOM_AGGRO_03 = ~z~What the hell?
+
+MOB4_TOM_SGATR_01 = ~z~Why you shooting at them?
+
+MOB4_TOM_SGATR_02 = ~z~Don't shoot at 'em till you need to!
+
+MOB4_TOM_SGATR_03 = ~z~Stop that! Oh, you're only gonna make 'em mad.
+
+MOB4_TRAPSTUCK_1 = ~z~Give me a hand here, Mr. Arthur. This trap is stuck in the mud... it happens.
+
+MOB4_TSHOOTIT_01 = ~z~Shoot that thing!
+
+MOB4_TSHOOTIT_02 = ~z~It's coming right for us!
+
+MOB4_TSHOOTIT_03 = ~z~It's still coming.
+
+MOB4_TSHOOTIT_04 = ~z~Keep shooting!
+
+MOB4_TSHOOTIT_05 = ~z~Damn it, come on! Shoot it!
+
+MOB4_TSHOOTIT_06 = ~z~Jesus, look at the size of it!
+
+MOB4_WAIT2_1 = ~z~Just stay as still as you can.
+
+MOB4_WAIT_1 = ~z~Whoa, stop where you are. It's a gator.
+
+MOB4_WALK_1 = ~z~A boat?
+
+MOB4_WALK_2 = ~z~We're headed to a settlement called Lagras.
+
+MOB4_WALK_3 = ~z~~sl:0.0:2.0~I met a boatman there called Thomas~sl:~who knows these waters like the back of his hand.
+
+MOB4_WALK_4 = ~z~Why do we need a boat?
+
+MOB4_WALK_5 = ~z~~sl:0.0:3.7~So we can attack Bronte's mansion from the swamp,~sl:~catch him off guard.
+
+MOB4_WALK_6 = ~z~~sl:0.0:2.3~He knows we survived the trolley station,~sl:~so he'll be expecting some kind of reprisal.
+
+MOB4_WALK_7 = ~z~Ah, right. Okay, makes sense.
+
+MOB4_WALK_8 = ~z~See, I do still possess some capacity for rational thought, Arthur.
+
+MOB4_WATERSHOUT_01 = ~z~~sl:0.0:1.6~Help!~sl:0.4~My leg!
+
+MOB4_WATERSHOUT_02 = ~z~Help!
+
+MOB4_WHO1_1 = ~z~What do these two want?
+
+MOB4_WHO1_2 = ~z~I guess we 'bouts to find out.
+
+MOB4_WHO2_1 = ~z~Must be the fellers here to see Thomas.
+
+MOB4_WHO2_2 = ~z~Must be.
+
+MOB4_WHO3_1 = ~z~We got company.
+
+MOB4_WHO3_2 = ~z~Yep, I see.
+
+MOB4_WLK_1 = ~z~I've heard that before.
+
+MOB4_WLK_2 = ~z~And usually I have been right.
+
+MOB4_WLK_3 = ~z~If you say so...
+
+MOB4_WLK_4 = ~z~Quit doubting, Arthur. It does no favors.
+
+MOB4_WLK_5 = ~z~Come on, we need to go see a man about a boat...
+

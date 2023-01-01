@@ -1,0 +1,118 @@
+0x5BEB272D = Освободите ~COLOR_MP_OBJECTIVE~волка Лунного Камня~s~ из клетки.
+
+0x8B1FF161 = Усыпите ~COLOR_MP_OBJECTIVE~волка Лунного Камня~s~.
+
+0x8DA658AB = Разыщите ~COLOR_MP_OBJECTIVE~логово~s~ волка Лунного Камня.
+
+0x9DFC83C7 = Сфокусироваться на следе
+
+0x28DF8942 = Выясните, откуда доносится вой.
+
+0x543F51C2 = Убейте ~COLOR_MP_OBJECTIVE~волка Лунного Камня~s~.
+
+0x2132FDD4 = Осмотреть
+
+0xAF8528C0 = Свяжите жертву и оставьте в ~COLOR_MP_OBJECTIVE~области~s~ в качестве приманки.
+
+0xB6EF1C99 = Игрок ~COLOR_MP_OBJECTIVE_FRIENDLY~~1~~s~ осмотрел следы
+
+0xB4418EA5 = Разыщите логово ~COLOR_MP_OBJECTIVE~~BLIP_OBJECTIVE~~s~ волка Лунного Камня. Убейте волков, чтобы его выманить.
+
+0xC78851AD = Идите на звук выстрела.
+
+0xDD92F332 = Это останки жертвы волков. Идите по следам.
+
+0xF210320B = Разместите живую приманку ~COLOR_MP_OBJECTIVE~~BLIP_OBJECTIVE~~s~, чтобы выманить волка Лунного Камня.
+
+FETCH_NAT_SIGHTING_HELP_LOOK_AT_CLUE_WOLF = Сфокусироваться на следе
+
+FETCH_NAT_SIGHTING_INSPECT_CLUE_WOLF = Осмотреть
+
+FETCH_NAT_SIGHT_HELP_INVESTIGATE_SOUND_WOLF = Легендарный волк Лунный Камень где-то рядом.
+
+FETCH_NAT_SIGHT_WOLF_HELP_OBJECTIVE_DEAD = Волк Лунный Камень усыплен. Добудьте образец.
+
+FETCH_NAT_SIGHT_WOLF_HELP_OBJECTIVE_ESCAPING = ~COLOR_MP_OBJECTIVE~Легендарный волк Лунный Камень~s~ ушел слишком далеко и скоро сможет скрыться.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH = Активируйте «Орлиный глаз», нажав ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~, и поищите следы волка Лунного Камня.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_ATTACK_VICTIM = На этого браконьера напал волк. Осмотрите местность и найдите его следы.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_ATTACK_VICTIM_CLUE = Похоже, на этого браконьера напал волк Лунный Камень. Выследите его.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BEAR_KILL = Этих рыб убил медведь. Осмотрите местность и найдите следы волка Лунного Камня.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BEAR_RUB = Об это дерево чесал спину медведь. Осмотрите местность и найдите следы волка Лунного Камня.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BEAR_SCAT = Это медвежий помет. Осмотрите местность и найдите следы волка Лунного Камня.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BEAR_TRAP = Браконьеры поставили здесь медвежий капкан. Осмотрите местность и найдите следы волка Лунного Камня.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BROKEN_TRAP = Этот капкан сломал не волк. Осмотрите местность и найдите следы волка Лунного Камня.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BUCK = Похоже, этого оленя убил волк Лунный Камень. Идите по следам.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BUCK_TRAIL = Вы нашли след ~1b~. Этого оленя убил волк Лунный Камень. Идите по следам.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_CLUE_DEAD_END = Этот след, похоже, оставил не волк Лунный Камень. Продолжайте поиски.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_CLUE_FOUND = Вы нашли следы волка Лунного Камня. Идите по следу, чтобы найти его логово.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_CLUE_FRESH_KILL = Добыча совсем свежая. Значит, волк Лунный Камень должен быть где-то рядом. Идите по следу к его логову.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_DECOMP_BODY = Это тело слишком старое, здесь не напасть на след. Осмотрите местность и найдите следы волка Лунного Камня.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_DEER_SCAT = Это олений помет. Осмотрите местность и найдите следы волка Лунного Камня.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_DEER_TRAIL = Вы нашли след ~1b~. Этого оленя убил волк Лунный Камень. Идите по следам.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_HORSE = Эту лошадь убил крупный хищник. Осмотрите местность в поисках следов волка Лунного Камня.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_HORSE_BONES = Эти кости слишком старые, чтобы взять след. Осмотрите местность и найдите следы волка Лунного Камня.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_HORSE_SCAT_TRAIL = Это свежий лошадиный навоз. Идите по следам браконьеров ~1b~, чтобы найти волка Лунного Камня.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_HORSE_TRAIL = Вы нашли след ~1b~. Эту лошадь убил волк Лунный Камень. Идите по следам.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_KM = Активируйте «Орлиный глаз», нажав ~INPUT_SPECIAL_ABILITY~, и поищите следы волка Лунного Камня.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_POACHER_CAMP_BODY = На этого браконьера напал волк. Осмотрите местность и найдите следы браконьеров, которые охотятся на волка Лунного Камня.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_STICKS = Эти палки мог сломать кто угодно. Осмотрите местность и найдите следы волка Лунного Камня.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_TENT = Это брошенная палатка. Осмотрите местность и найдите следы волка Лунного Камня.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_WOLF_CORPSE = Этого волка застрелили, но следов браконьеров нигде нет. Осмотрите местность в поисках следов волка Лунного Камня.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_WOLF_CORPSE_CAGE = Вы нашли след ~1b~. Этого волка застрелили. Идите по следам легендарного волка Лунного Камня.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_WOLF_CORPSE_POACHER = Этого волка застрелили. Идите по следам браконьеров.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_WOLF_SCAT = Это свежий помет волка. Идите по следам, чтобы найти волка Лунного Камня.
+
+FETCH_NAT_SIGHT_WOLF_HELP_SKIN = Чтобы добыть образец, удерживайте ~INPUT_CONTEXT_Y~.
+
+FETCH_NAT_SIGHT_WOLF_HELP_TEAM_PRIMARY = Осмотрите местность и найдите волка Лунного Камня ~1b~. Усыпите его и добудьте образец.
+
+FETCH_NAT_SIGHT_WOLF_OBJ_FIND = Идите по ~COLOR_MP_OBJECTIVE~следу~s~.
+
+FETCH_NAT_SIGHT_WOLF_OBJ_GOTO = Направляйтесь ~1~.
+
+FETCH_NAT_SIGHT_WOLF_OBJ_KILL_ATTACKERS = Убейте ~COLOR_ENEMY~волков~s~.
+
+FETCH_NAT_SIGHT_WOLF_OBJ_KILL_ATTACKERS_CAGE = Перебейте ~COLOR_ENEMY~браконьеров~s~.
+
+FETCH_NAT_SIGHT_WOLF_OBJ_LOOT = Добудьте образец ~COLOR_MP_OBJECTIVE~волка Лунного Камня~s~.
+
+FETCH_NAT_SIGHT_WOLF_OBJ_SEARCH = Осмотрите ~COLOR_MP_OBJECTIVE~местность~s~ и найдите следы волка Лунного Камня.
+
+FETCH_NAT_SIGHT_WOLF_SHARD_DESTROYED = Шкура волка Лунного Камня повреждена
+
+FETCH_NAT_SIGHT_WOLF_SHARD_ESCAPED = Легендарный волк Лунный Камень сбежал
+
+FETCH_NAT_SIGHT_WOLF_SHARD_PRIMARY_PASS = Образец из волка Лунного Камня получен
+
+FETCH_NAT_SIGHT_WOLF_SHARD_PRIMARY_PASS_PARTIAL = Волк Лунный Камень освежеван
+
+FETCH_NAT_SIGHT_WOLF_SHARD_TEAM_PRIMARY_INTRO = Добудьте образец из волка Лунного Камня
+

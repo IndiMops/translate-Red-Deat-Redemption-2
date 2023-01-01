@@ -1,0 +1,22 @@
+BANJ1_ACTA_1 = ~z~Arthur... he saved us, didn't he?
+
+BANJ1_ACTA_2 = ~z~You remember that time?
+
+BANJ1_ACTA_3 = ~z~Not much, I was only little.
+
+BANJ1_ACTA_4 = ~z~He did save us, yeah.
+
+BANJ1_ACTA_5 = ~z~None of us would be here today if it weren't for Arthur.
+
+BANJ1_ACTBALT_1 = ~z~But your pa don't like talking about him.
+
+BANJ1_ACTBALT_2 = ~z~Ain't that right, John?
+
+BANJ1_ACTBALT_3 = ~z~The past is gone. We left that behind.
+
+BANJ1_ACTB_1 = ~z~But... you know your pa don't like talking about him.
+
+BANJ1_ACTB_2 = ~z~Why?
+
+BANJ1_ACTB_3 = ~z~Some silly pride thing I'll never quite understand.
+

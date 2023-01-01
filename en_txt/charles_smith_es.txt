@@ -1,0 +1,632 @@
+0x000BF377 = ~z~You're a muddy mess. Don't run your jaw at me.
+
+0x0015A169 = ~z~Don't harass her.
+
+0x00F7BAC5 = ~z~Good evening, mister.
+
+0x04EBF76A = ~z~Stop this!
+
+0x051EC28C = ~z~Skinners... no, seems quiet.
+
+0x059C2096 = ~z~You've become an outdoorsman.
+
+0x0627F87B = ~z~John, this isn't funny. Get them out of here.
+
+0x07CCC899 = ~z~We can't stay here.
+
+0x08EAA043 = ~z~Too much to drink.
+
+0x0919EF65 = ~z~Ah.
+
+0x09BCC380 = ~z~What's this about?
+
+0x0B0527AF = ~z~Been meaning to move this.
+
+0x0D2A3261 = ~z~Back off, John.
+
+0x0DD353C2 = ~z~Didn't think those things were still around here.
+
+0x0E1CD50F = ~z~Good evening to you.
+
+0x0E42F13A = ~z~Yeah, it's exhausting watching other folk work.
+
+0x0F54A7F1 = ~z~Ah, well.
+
+0x1A0FB7F7 = ~z~Evening, John.
+
+0x1AE0F023 = ~z~Hello.
+
+0x1B03660D = ~z~I'll forgive you that one.
+
+0x1B5B2321 = ~z~Alright.
+
+0x1C3D3D8F = ~z~I don't like the way you been lately, okay?
+
+0x1C4A54CE = ~z~John.
+
+0x1F64D6D6 = ~z~Go away.
+
+0x2BB7E5DD = ~z~That whiskey's rotgut.
+
+0x2BE22F4D = ~z~Identify yourself.
+
+0x2C5444D3 = ~z~You're being ridiculous. Carrying them round all day.
+
+0x2DBA8B8F = ~z~What's gotten into you?
+
+0x2E0EA8D6 = ~z~I'll quit when we're done.
+
+0x2F377BC3 = ~z~You think I'll take this?
+
+0x2F7800F8 = ~z~All of us would like it if you could bathe.
+
+0x2FF8EB32 = ~z~I don't want you doing that.
+
+0x3A57425C = ~z~I don't gotta be here, John. You know that.
+
+0x3AC9081F = ~z~Mister, morning.
+
+0x3BB626EF = ~z~You want to get into something, take off the mask.
+
+0x3CA396A3 = ~z~What's your problem, John?
+
+0x3F6AE8E7 = ~z~You're going to bring hell down on us, John.
+
+0x4A11305B = ~z~Hey.
+
+0x4A78324C = ~z~Marston. Enough.
+
+0x4DFB24FA = ~z~I need some shut eye.
+
+0x5A44EF31 = ~z~You plan on getting rid of that body anytime soon?
+
+0x5A799E3D = ~z~I just try and remember that... he's only a boy.
+
+0x5C54EF1F = ~z~I'm tired.
+
+0x5CAF40AA = ~z~Good morning.
+
+0x5CC635FC = ~z~Hmmm.
+
+0x5DB50917 = ~z~Me too, huh?
+
+0x5FCFA447 = ~z~You need to back up a step.
+
+0x6A4E69F9 = ~z~Did all right there, John.
+
+0x6AE1B0FC = ~z~We were beginning to worry about you.
+
+0x6B23F2E2 = ~z~Glad you made it back.
+
+0x6CAB5E6A = ~z~You really going after me lately, huh?
+
+0x6CF116A1 = ~z~Good, we were running low.
+
+0x6E6BB396 = ~z~John Marston, royal bastard.
+
+0x6F3DE5C7 = ~z~Another day.
+
+0x6FE364DA = ~z~Stop with that.
+
+0x7C5F626B = ~z~What, John?
+
+0x7DCE928C = ~z~Look, if I don't ignore you, I'm gonna hit you.
+
+0x7F1B2963 = ~z~You're a real entertainer.
+
+0x7F4BC57A = ~z~That's long past being alright to eat.
+
+0x7F55DBAF = ~z~Hello.
+
+0x7F5896A4 = ~z~You better stop messing with me.
+
+0x8A9EC9BF = ~z~Beats getting shot in Saint Denis.
+
+0x8BC21F18 = ~z~If there's nothing else, can I have some peace?
+
+0x8DB06247 = ~z~It's not good to bring rotten animals around.
+
+0x8E3C268A = ~z~You're going to have the law all over us.
+
+0x8ED048C1 = ~z~Jokes are not your strong suit.
+
+0x8F800C33 = ~z~I was sleeping.
+
+0x8F993621 = ~z~How about I ignore you?
+
+0x9A91BCB7 = ~z~I'd appreciate it if you'd leave.
+
+0x9ACBF256 = ~z~I'll take over splitting duties tomorrow.
+
+0x9AD6144A = ~z~Good evening.
+
+0x9AF292E8 = ~z~Something on your mind, John?
+
+0x9BBC1C8F = ~z~Morning.
+
+0x9CB94CD0 = ~z~Being here... it's good for me.
+
+0x9DEF3D89 = ~z~Why are you following me?
+
+0x9E9C623D = ~z~You were just here. What?
+
+0x9EC00C8A = ~z~Don't start with me, Marston. And go wash off that blood.
+
+0x12A3073E = ~z~I'd get away from me if I were you.
+
+0x15A502D3 = ~z~What's your name?
+
+0x20E9DF28 = ~z~I've had it with this dance.
+
+0x21ED1A9A = ~z~Guess I remembered you different.
+
+0x21EF9028 = ~z~Enough with the hellos.
+
+0x22C1FBF6 = ~z~I need to sleep.
+
+0x24B1BF26 = ~z~I was wondering what that smell was.
+
+0x25D4094F = ~z~Don't bother him.
+
+0x25FDFB7F = ~z~Take off that mask if you're going to disrespect me.
+
+0x27FDB9A9 = ~z~Something the matter?
+
+0x31B6FB7A = ~z~Leave me alone.
+
+0x32B26F78 = ~z~Why did you tie them up?
+
+0x33BCB3C2 = ~z~You're acting strange.
+
+0x34FFA39F = ~z~It never ends, huh, John?
+
+0x38C82B2C = ~z~Thank you, John.
+
+0x39E10FFB = ~z~My friend.
+
+0x39E25D72 = ~z~What do you need?
+
+0x45C999BD = ~z~I mean it.
+
+0x46AD46FA = ~z~We need a wheelbarrow.
+
+0x48E4CC2A = ~z~Hello, John.
+
+0x50CE2FC2 = ~z~I said quit.
+
+0x53CDC9A3 = ~z~I can smell you from twenty feet away.
+
+0x65D43776 = ~z~I'll be getting on better when the job's done.
+
+0x66B489EA = ~z~Hey, careful where you clean that.
+
+0x66BD15F5 = ~z~You ought to trade those skins.
+
+0x67E94D02 = ~z~You've outdone yourself, John.
+
+0x70E186C8 = ~z~I you want something, I'll bring it to you. Come on.
+
+0x71AC326F = ~z~Wash off that blood and maybe you'll stop insulting your friends.
+
+0x71C7A752 = ~z~The law.
+
+0x73CCDCA9 = ~z~Got to move hay while the sun shines.
+
+0x78E3DF58 = ~z~That's enough.
+
+0x80BAD834 = ~z~I don't have to take this.
+
+0x80FADF5B = ~z~Yeah.
+
+0x83E45AE4 = ~z~Real fine, John. It's a beauty.
+
+0x84AF760F = ~z~I am at my limit.
+
+0x89A01A83 = ~z~Morning.
+
+0x90CCF48D = ~z~You sure can tell a story.
+
+0x92EF3D3B = ~z~John, get that body away from here.
+
+0x93D77E6D = ~z~You can be a bastard, John.
+
+0x93F69ADC = ~z~That's a lot of blood, John.
+
+0x95B5E97B = ~z~Don't hassle the dog.
+
+0x96B19A17 = ~z~Brother, enough.
+
+0x96C89238 = ~z~Gimme some space.
+
+0x99A1371C = ~z~Good evening.
+
+0x202CA251 = ~z~Go. The hell. Away.
+
+0x207B9A10 = ~z~You want to ride that horse through here?
+
+0x307C79AB = ~z~You're all just in time to do some work.
+
+0x312C4C6A = ~z~John. I thought you were done with all this.
+
+0x336E7DC5 = ~z~I'm going to ignore you.
+
+0x347D4AEE = ~z~You better get far the hell away from me.
+
+0x370D345B = ~z~Oh, your head would hit the floor before you knew what had happened.
+
+0x381DADE2 = ~z~Leave him alone.
+
+0x384FC828 = ~z~Who is that?
+
+0x516B04C9 = ~z~Get away, John.
+
+0x561C6453 = ~z~I heard about those but don't think I saw one.
+
+0x598B226F = ~z~It's not just you I'm worried about.
+
+0x608E2DCD = ~z~Godammit.
+
+0x679AEB6E = ~z~My brother.
+
+0x690BE49C = ~z~Morning, mister.
+
+0x723EED81 = ~z~I'm too tired for this.
+
+0x742CEB2A = ~z~Sir.
+
+0x757BE007 = ~z~Horses are a lot of work.
+
+0x787B2D77 = ~z~That looks like it's still warm.
+
+0x795AEF25 = ~z~Never know how things will go.
+
+0x800D735C = ~z~Muddy Marston and his bad mood. Back again.
+
+0x841F1406 = ~z~It's a fine house. And you got a fine family.
+
+0x875D6646 = ~z~Who's there?
+
+0x938C1C27 = ~z~Can never have enough hay.
+
+0x949A76E1 = ~z~Have a go at all of us, sure.
+
+0x959B2865 = ~z~That's a big one.
+
+0x1125DCAD = ~z~Hi, brother.
+
+0x1164A850 = ~z~Work I can do, John. Work and Uncle... test my patience.
+
+0x1581E403 = ~z~Time to leave.
+
+0x1901B402 = ~z~Shouldn't you be taking them to a sheriff?
+
+0x2356D856 = ~z~Those things don't get any lighter.
+
+0x2650AE95 = ~z~I'm serious. Go away.
+
+0x2773AE2D = ~z~Why are you so muddy, John?
+
+0x3339C5B9 = ~z~You're pretty muddy.
+
+0x3581C1C3 = ~z~This isn't you.
+
+0x3688C002 = ~z~That's a good one.
+
+0x6313D8AC = ~z~Good morning, mister.
+
+0x6314C299 = ~z~Life... isn't always good.
+
+0x7336D3A1 = ~z~John. What is it?
+
+0x7435D51C = ~z~This is too far, John.
+
+0x7695CBCA = ~z~Evening.
+
+0x8170D1F8 = ~z~Says the man who looks like he swam in blood.
+
+0x8517AC36 = ~z~Take a bath, John.
+
+0x9176E9D0 = ~z~That's rotten, John.
+
+0x28750B92 = ~z~Have you had your fun, John? Get rid of the body.
+
+0x40192B54 = ~z~Not funny.
+
+0x43724AA8 = ~z~The law is on the way.
+
+0x46880FE1 = ~z~Mister.
+
+0x49020CE4 = ~z~Good to see ya, brother. Looking merry.
+
+0x56003A6D = ~z~I really bent an elbow last night.
+
+0x68330E00 = ~z~Just walk away and leave him alone.
+
+0x76713FD6 = ~z~I think you make this stuff up.
+
+0x650680FD = ~z~Have a seat, John.
+
+0x745185FE = ~z~I'm growing tired of this.
+
+0x812499A6 = ~z~That better be a bounty.
+
+0x4212124A = ~z~Enough, damn it.
+
+0x6014492C = ~z~You drunk or something? Go to sleep.
+
+0x7728085A = ~z~That's the way it feels. Somewhat at least. I realise that, still don't know where life will take me.
+
+0x19794160 = ~z~I've gotta stop drinking so much.
+
+0x25126170 = ~z~This is a different life, isn't it?
+
+0x27445087 = ~z~We don't need another mouth to feed around here.
+
+0x76282340 = ~z~Hell of a day. Sit.
+
+0x80312567 = ~z~John. Can you get out?
+
+0x82042163 = ~z~What is it? Why are you doing this?
+
+0x86439061 = ~z~Evening, brother.
+
+0x92674285 = ~z~Hey, you got your bandana up.
+
+0xA2DE3C1E = ~z~You're getting the hang of this lawman thing, insulting me.
+
+0xA4E282B6 = ~z~We need to go.
+
+0xA6CF2BC0 = ~z~You sure are running that mouth behind that bandana.
+
+0xA58E9794 = ~z~Hello, John. Again.
+
+0xA429E60A = ~z~You left your bandana on.
+
+0xA904B0A7 = ~z~Nice night.
+
+0xA928B0C4 = ~z~Hello.
+
+0xA9723F98 = ~z~John Marston, I swear.
+
+0xA3790501 = ~z~Leave that dog alone.
+
+0xAAD4BAC0 = ~z~Morning, brother.
+
+0xABD934B5 = ~z~You alright, John?
+
+0xAD7FF85A = ~z~Starting to think we have a problem.
+
+0xAD19B3E0 = ~z~~sl:0.4~I had some years to think about it.
+
+0xADA623CA = ~z~Doing some hunting, are ya?
+
+0xAE2A90D6 = ~z~No, I've had my fill of towns. Thanks, John.
+
+0xAF6C51C7 = ~z~Considerable amount of blood.
+
+0xAFA3AE65 = ~z~What is it, John?
+
+0xAFBD6AD9 = ~z~Hey, stop that.
+
+0xB03B8DF3 = ~z~Shut it, John, you've had too much to drink.
+
+0xB04F5366 = ~z~What's the point of that thing, John?
+
+0xB4B4411F = ~z~Who are you?
+
+0xB7C606D5 = ~z~We're getting this done, aren't we?
+
+0xB8B2CE68 = ~z~Everything okay?
+
+0xB8F6CF52 = ~z~Hi.
+
+0xB9F3ACBE = ~z~Evening, mister.
+
+0xB39B467E = ~z~That's a lot of mud.
+
+0xB75B04D1 = ~z~Good song.
+
+0xB77FDACC = ~z~It's better than listening to it.
+
+0xB136C696 = ~z~There a reason you have that mask?
+
+0xB247E1BE = ~z~Salt that down and we'll have food for a month.
+
+0xB415FF1A = ~z~Oh, this is old. I've had enough.
+
+0xB483ECE1 = ~z~Evening to you.
+
+0xB3294474 = ~z~Maybe put the bandana in that mouth, not over it.
+
+0xB6955993 = ~z~Talk to you later.
+
+0xBA5B9150 = ~z~How was it out there?
+
+0xBA9059C7 = ~z~Don't stand so close.
+
+0xBAE75441 = ~z~Yeah, hello.
+
+0xBCD1B633 = ~z~Let me know if you need help cleaning that.
+
+0xBD88288C = ~z~You're drunk John, enough.
+
+0xBDEA4AF2 = ~z~Why are you looking at me like that?
+
+0xBEDC4AD1 = ~z~Hard to take you seriously in that getup.
+
+0xBEEAEB08 = ~z~What? Something happened?
+
+0xBF5FBB7D = ~z~Could use a few cords chopped.
+
+0xC055352B = ~z~Everyday it gets better.
+
+0xC2F0EA0A = ~z~What's the mask for, John?
+
+0xC8E76D0E = ~z~I was starting to think I'd have to go looking for you
+
+0xC31F4EBC = ~z~Did a good job skinning that.
+
+0xC73D6BDF = ~z~Hello.
+
+0xC85C1672 = ~z~Boys.
+
+0xC167B1AF = ~z~Maybe that will teach you manners.
+
+0xC521A05E = ~z~I like that song.
+
+0xC877A054 = ~z~You make a friend there?
+
+0xC981F81A = ~z~Morning, John.
+
+0xC6194CB6 = ~z~Not sure I like another man going through my things, John.
+
+0xC6556B1D = ~z~Hi.
+
+0xC60122EC = ~z~I'm ignoring you, okay?
+
+0xCAC3DBBC = ~z~If we waited on Uncle, we'd all die of thirst.
+
+0xCBE0CD36 = ~z~He doesn't know how close he came.
+
+0xCBE63080 = ~z~Welcome back, boys.
+
+0xCC00671E = ~z~John, what?
+
+0xCC1A34CD = ~z~Good, you're back in one piece.
+
+0xCC7BC427 = ~z~Next time tell me you're joking first.
+
+0xCDD4E820 = ~z~We've done this already.
+
+0xCF04EB22 = ~z~Okay, you're dressed like a fool. Stop talking like one.
+
+0xCF5191B5 = ~z~You been cleaning animals?
+
+0xD05505C0 = ~z~Morning to you.
+
+0xD06357B5 = ~z~We've worked enough, sit.
+
+0xD0983879 = ~z~It's good to work hard, huh?
+
+0xD2A73090 = ~z~Stop it.
+
+0xD4F0875D = ~z~Hey.
+
+0xD6A7DACB = ~z~Still the same drunk kid, aren't you?
+
+0xD6E8DCA9 = ~z~You were a real ass, John.
+
+0xD7AFC649 = ~z~Better if I pretend you ain't here.
+
+0xD56A3803 = ~z~Micah... you go after him, I'm coming.
+
+0xD69AA396 = ~z~Sure, John. But lose the uniform.
+
+0xD92FE137 = ~z~You learn your lesson?
+
+0xD3192BEC = ~z~Gentlemen.
+
+0xD4724DE2 = ~z~Sure is... you won't need an old brawler hanging around here much longer.
+
+0xD4861578 = ~z~Sounds good, John.
+
+0xDA513DEB = ~z~What can you do?
+
+0xDBDF4723 = ~z~Seem like you don't want to put that down.
+
+0xDC3C84C3 = ~z~Yeah, hey.
+
+0xDCAEC871 = ~z~Ah, you fetched the water.
+
+0xDCCD5AD9 = ~z~Leave her alone, John.
+
+0xDE41D537 = ~z~Gentlemen, good to see you.
+
+0xDFACBA1B = ~z~Drunk John Marston.
+
+0xE0E2C36F = ~z~I don't need a new shadow.
+
+0xE0F81D2F = ~z~I was beginning to think you were dead.
+
+0xE7AAACD1 = ~z~Hey there.
+
+0xE8B7DAB8 = ~z~That's enough of me talking.
+
+0xE25E74C4 = ~z~You never were funny.
+
+0xE35A84BF = ~z~Leave the animal be.
+
+0xE62C02CB = ~z~I'm about to pass out.
+
+0xE88FEE75 = ~z~What's with you?
+
+0xE95D5C89 = ~z~It's a great life, John, but... it's yours. I need to make my own.
+
+0xE314E264 = ~z~Brother.
+
+0xE341DDCC = ~z~Days go quick, don't they?
+
+0xE8753D56 = ~z~Yep.
+
+0xE7405613 = ~z~I need to be left alone.
+
+0xE8594713 = ~z~Stop playing dress-up and be nice.
+
+0xEA2CA175 = ~z~That outfit sending you strange?
+
+0xEA3DFFAB = ~z~I don't get it.
+
+0xEAD7B2E1 = ~z~Oh.
+
+0xEADCE4CD = ~z~I would have done that.
+
+0xEAEAAEEF = ~z~What are you doing with that horse?
+
+0xEB5D5A93 = ~z~Evening.
+
+0xEB32C92C = ~z~Don't know why you're hunting what we can't eat.
+
+0xECBA13D6 = ~z~Hey, friend.
+
+0xECC2F0CE = ~z~Still more work to do, hey?
+
+0xECED9A5E = ~z~Why are you in here?
+
+0xF2E8FBEC = ~z~I like that.
+
+0xF5A49B50 = ~z~That's no way to speak to me.
+
+0xF69DF2F5 = ~z~Fellers.
+
+0xF75E841B = ~z~You're quite the hunter.
+
+0xF645DFEB = ~z~Maybe take a bath, John, and you won't be in such a bad mood.
+
+0xF29966DC = ~z~I need to be left alone.
+
+0xF33253F7 = ~z~No more.
+
+0xF95381BA = ~z~Feel like half of what we do is carrying water from one place to another.
+
+0xF504796D = ~z~You've been carrying that one around for a while
+
+0xF8678274 = ~z~Needed those.
+
+0xFAE10DCF = ~z~I mean it, John. Back off.
+
+0xFB942F44 = ~z~That's rare.
+
+0xFD17DF45 = ~z~Good morning.
+
+0xFE5C9DF7 = ~z~Leave her be.
+
+0xFE4168EE = ~z~Take care, John.
+
+0xFEAD37BC = ~z~Hi, John.
+
+0xFF2F3EE1 = ~z~There a good reason you're here?
+
+0xFFB88DDF = ~z~Oh, my head.
+
+N_96__SLOD1_2_-1_-1_CHILDREN = ~z~Son.
+

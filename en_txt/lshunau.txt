@@ -1,0 +1,220 @@
+LS_HNT2_AMNTUP_1 = ~z~Alright. Drive, boy. Let's get where we're going.
+
+LS_HNT2_AMNTUP_2 = ~z~Drive.
+
+LS_HNT2_AMNTUP_3 = ~z~Okay, follow me.
+
+LS_HNT2_BONES_1 = ~z~How much does this cougar eat?
+
+LS_HNT2_CALL_01 = ~z~Where are you?
+
+LS_HNT2_CALL_02 = ~z~Crap, crap, crap.
+
+LS_HNT2_CALL_03 = ~z~Show yourself.
+
+LS_HNT2_CALL_04 = ~z~Where are ya you mangy cat?
+
+LS_HNT2_CAVE_1 = ~z~Alright... show me.
+
+LS_HNT2_CAVE_2 = ~z~You'll see her soon. Quiet now.
+
+LS_HNT2_CAVE_3 = ~z~Won't be able to miss her, shining in the dark.
+
+LS_HNT2_CAVE_BW_01 = ~z~Come on. We got to go in here.
+
+LS_HNT2_CAVE_BW_02 = ~z~You coming?
+
+LS_HNT2_CAVE_BW_03 = ~z~Come on.
+
+LS_HNT2_CAVE_BW_04 = ~z~What's wrong?
+
+LS_HNT2_CAVE_WT_01 = ~z~If we don't cover both tunnels, we might miss her.
+
+LS_HNT2_CAVE_WT_02 = ~z~Come on. We got to cover both forks.
+
+LS_HNT2_CAVE_WT_03 = ~z~Cover the other side, alright.
+
+LS_HNT2_CORPSE1_1 = ~z~There's a corpse down here... an old one.
+
+LS_HNT2_CORPSE2_1 = ~z~Another body.
+
+LS_HNT2_DEAD_1 = ~z~
+
+LS_HNT2_HORSE_1 = ~z~We'll, uh, uh, need our horses. It's, um, quite a trip.
+
+LS_HNT2_HORSE_2 = ~z~Yeah, yeah.
+
+LS_HNT2_INTR_1 = ~z~You hear that?
+
+LS_HNT2_INTR_2 = ~z~There's a cougar in here, and I bet she's white as virgin cotton.
+
+LS_HNT2_KILLED_1 = ~z~Got ya, you hellcat.
+
+LS_HNT2_LEFT_1 = ~z~What you doing? You're meant to be going the other way.
+
+LS_HNT2_MCS1_1 = ~z~Winton Holmes?
+
+LS_HNT2_MCS1_2 = ~z~I didn't expect to run into no one out here.
+
+LS_HNT2_MCS1_3 = ~z~Funny...
+
+LS_HNT2_MCS1_4 = ~z~how far a man's debts'll follow him.
+
+LS_HNT2_MCS1_5 = ~z~You got some money for me, boy?
+
+LS_HNT2_MCS1_6 = ~z~I seen your name in our ledger.
+
+LS_HNT2_MCS1_7 = ~z~You're with the German?
+
+LS_HNT2_MCS1_8 = ~z~Look, I got it for you.
+
+LS_HNT2_MCS1_9 = ~z~It's just...
+
+LS_HNT2_MCS1_10 = ~z~I don't got it yet.
+
+LS_HNT2_MCS1_11 = ~z~I-It's up in them hills.
+
+LS_HNT2_MCS1_12 = ~z~You panning for it?
+
+LS_HNT2_MCS1_13 = ~z~Hunting it.
+
+LS_HNT2_MCS1_14 = ~z~I tracked this cougar.
+
+LS_HNT2_MCS1_15 = ~z~It's rare...
+
+LS_HNT2_MCS1_16 = ~z~lilly white coat...
+
+LS_HNT2_MCS1_17 = ~z~the pelt'll more than cover what I owe.
+
+LS_HNT2_MCS1_18 = ~z~If I'm skinning anything...
+
+LS_HNT2_MCS1_19 = ~z~I'm skinning you, boy.
+
+LS_HNT2_MCS1_20 = ~z~Please. I'm outta work...
+
+LS_HNT2_MCS1_21 = ~z~it's the only way you'll get paid...
+
+LS_HNT2_MCS1_22 = ~z~a-and all the hard work's already done.
+
+LS_HNT2_MCS1_23 = ~z~Fine.
+
+LS_HNT2_MCS1_24 = ~z~Move.
+
+LS_HNT2_MCS1_LI_1 = ~z~
+
+LS_HNT2_MCS1_LI_2 = ~z~Winton Holmes?
+
+LS_HNT2_MCS1_LI_3 = ~z~I didn't expect to see anyone out here.
+
+LS_HNT2_MCS1_SN_1 = ~z~
+
+LS_HNT2_MNTUP_01 = ~z~You got your mount?
+
+LS_HNT2_MNTUP_02 = ~z~This den's a ways, so, uh, mount up.
+
+LS_HNT2_NFOUND_1 = ~z~Don't mess around with me, boy.
+
+LS_HNT2_RC_1 = ~z~Up here. We ain't too far now.
+
+LS_HNT2_RD1_1 = ~z~Drive.
+
+LS_HNT2_RD1_2 = ~z~I'm driving.
+
+LS_HNT2_RD1_3 = ~z~Make me come out here. Make me chase all over this goddamn mountain.
+
+LS_HNT2_RD1_4 = ~z~Hey, you, uh, knew it was a risk...
+
+LS_HNT2_RD1_5 = ~z~I didn't know nothing. Your name is all I knew.
+
+LS_HNT2_RD1_6 = ~z~Well, the German-speaking feller then. Mr. Strauss. He knew my work situation was...
+
+LS_HNT2_RD1_7 = ~z~precarious... that this whole things was a... risky venture.
+
+LS_HNT2_RD1_8 = ~z~Wait. Risky? Am I at risk now?
+
+LS_HNT2_RD1_9 = ~z~Are you threatening me Winton Holmes?
+
+LS_HNT2_RD1_10 = ~z~I ain't. No. Certainly not.
+
+LS_HNT2_RD1_11 = ~z~Sir... I'm... I'm merely stating... a man without a job... with limited prospects... at those rates...
+
+LS_HNT2_RD1_12 = ~z~repayment was by no means guaranteed... I said I'd do my best... and I did...
+
+LS_HNT2_RD1_13 = ~z~You're continuing to annoy me.
+
+LS_HNT2_RD2_1 = ~z~Hey, how about this then... I guarantee repayment.
+
+LS_HNT2_RD2_2 = ~z~'Cause I'm going to get that money outta you...
+
+LS_HNT2_RD2_3 = ~z~If I got to squeeze you like a lemon, it's coming out.
+
+LS_HNT2_RD2_4 = ~z~Yeah, of course. We're onto it now, okay? We're onto it now.
+
+LS_HNT2_RD2_5 = ~z~The cash is in that cougar, mister. Sure as pumpkins ain't cauliflowers, the cash is in the cougar.
+
+LS_HNT2_RD2_6 = ~z~It better be... or I'll turn you into a goddamn cauliflower.
+
+LS_HNT2_RD3_1 = ~z~What I know about cats... this one's rare as hens' teeth.
+
+LS_HNT2_RD3_2 = ~z~I mean, you ever seen an alabaster wild cat?
+
+LS_HNT2_RD3_3 = ~z~The big thing about cougars... is they see you, not the other way around.
+
+LS_HNT2_RD3_4 = ~z~That may be, but... you'd see this one.
+
+LS_HNT2_RD3_5 = ~z~I been hunting with my pa... shot all kinds of cats... never one like this...
+
+LS_HNT2_RD3_6 = ~z~In another life I'da sought my fortune outdoors... not in the hot, stinking belly of a tar pit.
+
+LS_HNT2_RD3_7 = ~z~I ain't interested in your regrets or your life story, Mr. Holmes. Just your damn money.
+
+LS_HNT2_RD3_8 = ~z~Now drive.
+
+LS_HNT2_RR_1 = ~z~We're going right here. Up the stream.
+
+LS_HNT2_SCREAM1_1 = ~z~Holmes?
+
+LS_HNT2_SCREAM2_1 = ~z~Winton Holmes?
+
+LS_HNT2_SHOTF_01 = ~z~Don't fire if you don't got her.
+
+LS_HNT2_SHOTF_02 = ~z~Don't spook her!
+
+LS_HNT2_SHOTF_03 = ~z~Careful not to scare her off.
+
+LS_HNT2_SHOT_01 = ~z~Hey! You'll scare her off.
+
+LS_HNT2_SHOT_02 = ~z~You want to spook her, mister.
+
+LS_HNT2_SHOT_03 = ~z~She'll hide you're not careful.
+
+LS_HNT2_SL_1 = ~z~This is it. Her den.
+
+LS_HNT2_SL_2 = ~z~We should leave the horses.
+
+LS_HNT2_SPLIPLR_1 = ~z~Yeah, yeah.
+
+LS_HNT2_SPLI_1 = ~z~The tunnel diverges up here.
+
+LS_HNT2_SPLI_2 = ~z~I'll take the left, you go right,
+
+LS_HNT2_SPLI_3 = ~z~and we'll see if we don't converge down a ways.
+
+LS_HNT2_SPLI_4 = ~z~And look out for her.
+
+LS_HNT2_WDEAD_1 = ~z~She got him. Crap.
+
+LS_HNT2_WDEAD_2 = ~z~Damn dead debtor.
+
+LS_HNT2_WHITE_1 = ~z~It's white... better be rare.
+
+LS_HNT2_WLOOT_1 = ~z~Penniless idiot.
+
+LS_HUNT2_WADIS_01 = ~z~Off your horse.
+
+LS_HUNT2_WADIS_02 = ~z~Can't take that horse in there.
+
+LS_HUNT2_WADIS_03 = ~z~Get down. They'll be here when we come out.
+
+PLY_SCAREWINHOR_1 = ~z~Get out of here, horse. Your man ain't coming.
+

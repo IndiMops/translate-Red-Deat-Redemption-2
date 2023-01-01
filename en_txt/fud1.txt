@@ -1,0 +1,92 @@
+0xB78CCBEE = Get in the ~o~boat~s~
+
+FUD1_ANDERSON = Anders Anderson
+
+FUD1_C_FISHROD = Quick Equip Fishing Rod
+
+FUD1_C_FISHRODU = Unequip Fishing Rod
+
+FUD1_F_ANDERSD = Anders Anderson has died.~s~
+
+FUD1_F_BOAD = The boat has been destroyed.~s~
+
+FUD1_F_BOAS = The boat became stuck.~s~
+
+FUD1_F_CAMPFAIL = The camp was abandoned.
+
+FUD1_F_CRIMA = Anders Anderson was abandoned.~s~
+
+FUD1_F_CRIMD = One of the Anderson Boys has died.~s~
+
+FUD1_F_FSFAIL = The fishing spot was abandoned.
+
+FUD1_F_SFAIL = The Sheriff's Office was abandoned.
+
+FUD1_F_TRAIN = The Anderson Boys escaped the Grays' jurisdiction.
+
+FUD1_F_WAGD = Sheriff Gray's wagon has been destroyed.~s~
+
+FUD1_F_WAGS = Sheriff Gray's wagon became stuck.~s~
+
+FUD1_H_BOAT1 = Use ~INPUTGROUP_VEH_MOVE_ALL~ to control the boat. Tap ~INPUT_VEH_BOAT_ACCELERATE~ to row faster.~s~
+
+FUD1_H_FISHROD2 = Tap ~INPUT_QUICK_EQUIP_ITEM~ to quickly equip a required item.
+
+FUD1_H_FISHROD3 = Tap ~INPUT_QUICK_EQUIP_ITEM~ to quickly unequip a required item.
+
+FUD1_H_SHOOT = The Anderson boys are wanted alive. Do not shoot them.
+
+FUD1_H_THROW = When grappling an enemy push ~INPUTGROUP_MOVE~ and press ~INPUT_MELEE_BLOCK~ to perform a throw.
+
+FUD1_O_BEATC = Knock out the ~e~Anderson Boy~s~
+
+FUD1_O_CHASEAB = Chase the remaining ~e~Anderson Boys~s~
+
+FUD1_O_FISH = Catch some fish with Dutch and Hosea
+
+FUD1_O_FOLLT = Chase the ~o~train~s~
+
+FUD1_O_GETROD = Equip the fishing rod
+
+FUD1_O_GOLAKE = Row to the ~o~fishing spot~s~
+
+FUD1_O_GOLAND = Row back to ~o~camp~s~
+
+FUD1_O_JUMPT = Jump to the ~o~train~s~
+
+FUD1_O_PICKAA = Pick up ~e~Anders Anderson~s~
+
+FUD1_O_PICKC = Pick up the ~e~Anderson Boy~s~
+
+FUD1_O_PUTC = Put Anders Anderson on your ~o~horse~s~
+
+FUD1_O_PUTCS = Return Anders Anderson to the ~o~Sheriff's Office~s~
+
+FUD1_O_RETC = Return to ~e~Anders Anderson~s~
+
+FUD1_O_RETS = Return to the ~o~Sheriff's Office~s~
+
+FUD1_O_RIDEAT = Ride alongside the ~o~train~s~
+
+FUD1_O_SPEAKD = Talk to ~o~Dutch~s~
+
+FUD1_O_SPEAKH = Talk to ~o~Hosea~s~
+
+FUD1_R_CAMPRET = Return to the ~o~camp~s~
+
+FUD1_R_FSRET = Return to the ~o~fishing spot~s~
+
+FUD1_U_BOUNTY = Bounty hunters?
+
+FUD1_U_FUNNY = Funny.
+
+FUD1_U_NO = Decline fishing
+
+FUD1_U_SHERIFF = Sheriff Gray?
+
+FUD1_U_SPOT = Where is this spot?
+
+FUD1_U_TRELAWNY = Trelawny?
+
+FUD1_U_YES = Accept fishing
+

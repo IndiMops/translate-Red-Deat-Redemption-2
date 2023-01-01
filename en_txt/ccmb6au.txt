@@ -1,0 +1,8 @@
+CCMB6_ACT1_1 = ~z~Have you seen Tilly?
+
+CCMB6_ACT1_2 = ~z~No, I haven't seen her in a day or two... sure she's fine.
+
+CCMB6_ACT1_3 = ~z~I hope so... Kieran told me he saw a couple of boys looked just like them Foremans she used to ride with.
+
+CCMB6_ACT1_4 = ~z~It'll be fine.
+

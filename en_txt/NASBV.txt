@@ -1,0 +1,102 @@
+0x09F61E09 = Sedate the ~COLOR_MP_OBJECTIVE~Legendary Night Beaver~s~
+
+0x367CE85B = The Legendary Night Beaver hasn't been this way. Head back to the clue and look for another trail to follow.
+
+0xE5928D7A = Sedate the ~COLOR_MP_OBJECTIVE~Legendary Night Beaver~s~
+
+FETCH_NAT_SIGHTING_BEAVER_ATTACK = Ward off the hostile ~COLOR_ENEMY~beavers~s~
+
+FETCH_NAT_SIGHTING_FOLLOW_POACHERS = Follow the ~COLOR_ENEMY~poachers~s~
+
+FETCH_NAT_SIGHTING_HELP_FAKE_CLUE_BEAVER = The Legendary Night Beaver hasn't been this way, keep searching the area for signs.
+
+FETCH_NAT_SIGHTING_HELP_INVESTIGATE_SOUND_BEAVER = The Legendary Night Beaver is close. Head in the direction of the sound.
+
+FETCH_NAT_SIGHTING_HELP_INVESTIGATE_SOUND_BEAVER_CAGED = The cage is latched shut, open the cage door to free the Legendary Night Beaver.
+
+FETCH_NAT_SIGHTING_HELP_INVESTIGATE_SOUND_BEAVER_SWARM = The Legendary Night Beaver has revealed itself.
+
+FETCH_NAT_SIGHTING_HELP_LOOK_AT_CLUE_BEAVER = Focus on the clue
+
+FETCH_NAT_SIGHTING_HELP_OBJECTIVE_DEAD_BEAVER = The Legendary Night Beaver has been sedated. Collect the sample.
+
+FETCH_NAT_SIGHTING_HELP_PRIMARY_BEAVER = Identify the poachers hunting the Legendary Night Beaver and follow them to where they have sighted the animal.
+
+FETCH_NAT_SIGHTING_HELP_PRIMARY_BEAVER_CAGED = Identify the poachers hunting the Legendary Night Beaver and follow them to where they have sighted the animal.
+
+FETCH_NAT_SIGHTING_HELP_PRIMARY_BEAVER_SWARM = Identify the poachers hunting the Legendary Night Beaver and follow them to where they have sighted the animal.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_BEAVER = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the Legendary Night Beaver.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_BEAVER_KM = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the Legendary Night Beaver.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_BEAVER_SWARM = The poachers have already set out to look for the Legendary Night Beaver. Search the area for signs left behind by the poachers.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_BEAVER_SWARM_2 = The Poacher Camp has been wiped out. Search the camp for the leader and inspect his body for information on the Legendary Night Beaver.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_CLUE_FOUND_BEAVER = You inspected a clue left behind by the Legendary Night Beaver.
+
+FETCH_NAT_SIGHTING_HELP_SKIN_BEAVER = Hold ~INPUT_CONTEXT_Y~ to collect the sample.
+
+FETCH_NAT_SIGHTING_INSPECT_CLUE_BEAVER = Inspect
+
+FETCH_NAT_SIGHTING_INVESTIGATE_CAMP = Investigate the ~COLOR_MP_OBJECTIVE~Poacher Camp~s~
+
+FETCH_NAT_SIGHTING_KILL_ATTACKERS_BEAVER = Take out the ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+FETCH_NAT_SIGHTING_KILL_POACHERS = Take out the ~COLOR_ENEMY~poachers~s~
+
+FETCH_NAT_SIGHTING_LOOT_POACHER = Loot the ~COLOR_MP_OBJECTIVE~poacher~s~ for the map
+
+FETCH_NAT_SIGHTING_OBJ_LOOT_BEAVER = Collect the ~COLOR_MP_OBJECTIVE~Legendary Night Beaver~s~ sample
+
+FETCH_NAT_SIGHTING_OBJ_SEARCH_AREA_BEAVER = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the Legendary Night Beaver
+
+FETCH_NAT_SIGHTING_OBJ_STEAL_BEAVER = Search the ~COLOR_MP_OBJECTIVE~area~s~ for clues
+
+FETCH_NAT_SIGHTING_POACHER_CAMP_SEARCH = Search the ~COLOR_MP_OBJECTIVE~Poacher Camp~s~ for the leader
+
+FETCH_NAT_SIGHTING_POACHER_CLUE_SEARCH = Search the ~COLOR_MP_OBJECTIVE~area~s~ for signs of poachers
+
+FETCH_NAT_SIGHTING_TRACK_BEAVER = Follow the ~COLOR_MP_OBJECTIVE~trail~s~
+
+FETCH_NAT_SIGHTING_TRACK_POACHERS = Follow the poacher ~COLOR_MP_OBJECTIVE~trail~s~
+
+FETCH_NAT_SIGHT_BEAVER_COLD_CLUE_1 = The Legendary Night Beaver stopped to chew on this stump then left the area. Follow the trail to track it down.
+
+FETCH_NAT_SIGHT_BEAVER_COLD_CLUE_2 = The Legendary Night Beaver was foraging sticks for its den. Keep searching the area for a more recent sign.
+
+FETCH_NAT_SIGHT_BEAVER_HELP_OBJECTIVE_ESCAPING = The ~COLOR_MP_OBJECTIVE~Legendary Night Beaver~s~ is getting too far away and will soon escape.
+
+FETCH_NAT_SIGHT_BEAVER_HOT_CLUE_1 = The scat left by the Legendary Night Beaver is fresh. Keep searching the area for a more recent sign.
+
+FETCH_NAT_SIGHT_BEAVER_HOT_CLUE_2 = The Legendary Night Beaver was foraging sticks for its den, but recently left the area. Follow the trail ~1b~ to track it down.
+
+FETCH_NAT_SIGHT_BEAVER_HOT_CLUE_3 = The Legendary Night Beaver stopped to chew on this stump. Keep searching the area for a more recent sign.
+
+FETCH_NAT_SIGHT_BEAVER_IRRELEVANT_CLUE_1 = There are predators in the area hunting for beavers. Keep searching the area for a sign of the Legendary Night Beaver.
+
+FETCH_NAT_SIGHT_BEAVER_OBJ_GOTO = Go ~1~
+
+FETCH_NAT_SIGHT_BEAVER_SCORETIMER_CLUE_INSPECTED = ~COLOR_MP_OBJECTIVE_FRIENDLY~~1~~s~ inspected a clue
+
+FETCH_NAT_SIGHT_BEAVER_SHARD_DESTROYED = Legendary Night Beaver was too damaged
+
+FETCH_NAT_SIGHT_BEAVER_SHARD_ESCAPED = Legendary Night Beaver escaped
+
+FETCH_NAT_SIGHT_BEAVER_SHARD_PRIMARY_PASS = Legendary Night Beaver sample retrieved
+
+FETCH_NAT_SIGHT_BEAVER_SHARD_PRIMARY_PASS_PARTIAL = Legendary Night Beaver skinned
+
+FETCH_NAT_SIGHT_BEAVER_SHARD_TEAM_PRIMARY_INTRO = Retrieve a sample from the Legendary Night Beaver
+
+FETCH_NAT_SIGHT_BEAVER_SWARM_DEN_CLUE = You have found the Legendary Night Beaver's den, continue searching the area for the Legendary Night Beaver.
+
+FETCH_NAT_SIGHT_BEAVER_SWARM_INITIAL_CLUE_1 = You found a trail ~1b~. Follow the poacher trail to find out where they have gone.
+
+FETCH_NAT_SIGHT_BEAVER_SWARM_LEADER_CLUE = The leader wrote down the last known location of the Legendary Night Beaver. Go to the search area and track it down.
+
+FETCH_NAT_SIGHT_BEAVER_SWARM_STUMP_CLUE = A beaver has recently chewed on this stump, continue searching the area.
+
+FETCH_NAT_SIGHT_BEAVER_SWARM_VICTIM_CLUE = This body has injuries from multiple beaver attacks.
+

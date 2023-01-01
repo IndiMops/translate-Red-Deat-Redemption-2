@@ -1,0 +1,114 @@
+0x8B26C939 = Eagle Flies
+
+0x8BE66FCE = On approaching the guard with the knife hold ~INPUT_AIM~ and press ~INPUT_MELEE_ATTACK~ to execute a stealth kill.
+
+0x9DBA1CAB = Get back on your ~o~horse~s~
+
+0x9337758B = Get back in the ~o~canoe~s~
+
+0xED670539 = Charles
+
+0xFE27329B = Enter Tent
+
+NTS3_BOW_HLP = Hold ~INPUT_AIM~ to aim the bow.
+
+NTS3_BOW_HLP2 = While aiming hold ~INPUT_ATTACK~ until the aiming circle is the size of the reticle then release.
+
+NTS3_B_TENT = Rains Fall's tent
+
+NTS3_CANNON = Cannon
+
+NTS3_CANOE = Canoe
+
+NTS3_CAN_HLP = Tap ~INPUT_VEH_BOAT_ACCELERATE~ to paddle the canoe.
+
+NTS3_COMP = Charles
+
+NTS3_C_AKILL = Take the Lead
+
+NTS3_C_CKILL = Send Charles
+
+NTS3_C_GUARD = Guard
+
+NTS3_C_KEYS = Take Keys
+
+NTS3_C_PICKUP = Pick-up
+
+NTS3_C_ROTATE = Rotate
+
+NTS3_DIST = You lost Charles and Eagle Flies.
+
+NTS3_DOOR = Door
+
+NTS3_ELANT = The guards were alerted.
+
+NTS3_FEF_OBJ3 = Search the ~o~guard~s~ for the keys
+
+NTS3_FEF_OBJ4 = Open the jail ~o~door~s~
+
+NTS3_FLANT = The lantern destroyed wasn't close enough to the supplies.
+
+NTS3_FORT = Fort
+
+NTS3_F_ATTACK = You attacked a civilian.
+
+NTS3_F_CANOE = The canoe was wrecked.
+
+NTS3_F_HORSE = Your horse died.
+
+NTS3_GRIEF = You blew your cover.
+
+NTS3_GTF_OBJ1 = Follow ~o~Charles~s~
+
+NTS3_GTF_OBJ2 = Take out the ~e~guards~s~
+
+NTS3_GTR_OBJ1 = Follow ~o~Charles~s~ to the river
+
+NTS3_GTR_OBJ2 = Get in the ~o~canoe~s~
+
+NTS3_GTR_OBJ3 = Take out the ~e~guards~s~
+
+NTS3_GTS_OBJ1 = Follow ~o~Charles~s~ down the river
+
+NTS3_GTS_OBJ2 = Head to the ~o~shore~s~ of the river
+
+NTS3_GTW_CHAR = Go to ~o~Charles~s~
+
+NTS3_GTW_OBJ1 = Take out the ~e~guards~s~
+
+NTS3_GTW_OBJ4 = Mount your ~o~horse~s~
+
+NTS3_JDOOR = Open
+
+NTS3_LANTERN = Lantern
+
+NTS3_LEFT = You left the fort without Eagle Flies.
+
+NTS3_O_CKEYS = Take the keys from ~o~Charles~s~
+
+NTS3_O_TENT = Speak to ~o~Rains Fall~s~
+
+NTS3_RTF_OBJ2 = Cross the ~o~river~s~
+
+NTS3_SF_OBJ1 = Climb up the ~o~tower~s~
+
+NTS3_SF_OBJ2 = Silently shoot the ~o~lantern~s~
+
+NTS3_SF_OBJ3 = Stealth kill the ~e~guard~s~
+
+NTS3_SF_OBJ4 = Take out either ~e~guard~s~
+
+NTS3_SF_WALK = Go to the ~o~walkway~s~
+
+NTS3_SHORE = Return to the ~o~shore~s~
+
+NTS3_SHORE_FAIL = The shore was abandoned.
+
+NTS3_STUCK = The canoe got stuck.
+
+NTS3_SW_OBJ1 = Destroy the ~e~wall~s~
+
+NTS3_SW_OBJ2 = Follow ~o~Eagle Flies~s~
+
+NTS3_WALL = Wall
+

@@ -1,0 +1,40 @@
+CFRS1_ACTE_1 = ~z~
+
+CFRS1_ACTE_2 = ~z~Gentlemen...
+
+CFRS1_ACTE_3 = ~z~
+
+CFRS1_ACT_1 = ~z~
+
+CFRS1_ACT_2 = ~z~~sl:0.0:1.5:1~You have to love yourself a fire.
+
+CFRS1_ACT_3 = ~z~~sl:0.0:1.6~It's one of the blessings...~sl:0.8~freely given to all.
+
+CFRS1_ACT_4 = ~z~~sl:0.0:2.1~And yet, perhaps,~sl:~not freely given.
+
+CFRS1_ACT_5 = ~z~I am reminded of Prometheus.
+
+CFRS1_ACT_6 = ~z~In many ways, the Greek myths are best,
+
+CFRS1_ACT_7 = ~z~~sl:0.0:1.6~in explaining the very punishments~sl:~that imbue our daily existence with their piquant tortures.
+
+CFRS1_ACT_8 = ~z~Sure, we can have fire.
+
+CFRS1_ACT_9 = ~z~And we can have the knowledge of fire.
+
+CFRS1_ACT_10 = ~z~But with that comes the knowledge of everything...
+
+CFRS1_ACT_11 = ~z~We become like a god.
+
+CFRS1_ACT_12 = ~z~Because to be all powerful is to be all suffering.
+
+CFRS1_ACT_13 = ~z~~sl:0.0:1.2~Yes...~sl:0.5:4.0~thus, Prometheus gave us light,~sl:0.5~and warmth,
+
+CFRS1_ACT_14 = ~z~~sl:0.0:1.2~and eternal damnation,~sl:0.4~and the awareness of our isolation for everything holy.
+
+CFRS1_ACT_15 = ~z~Quite the conundrum, fire.
+
+CFRS1_ACT_16 = ~z~It's enough to make a man drink...
+
+CFRS1_ACT_17 = ~z~or worse.
+

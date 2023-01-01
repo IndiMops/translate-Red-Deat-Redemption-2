@@ -1,0 +1,672 @@
+MUD1_ARRIVE_1 = ~z~Here we are, gentlemen. Home sweet home.
+
+MUD1_BEFORE_1 = ~z~Poor bastards, we really screwed them over down here...
+
+MUD1_BEFORE_2 = ~z~Come on, let's not push our luck.
+
+MUD1_BEFORE_3 = ~z~What happened?
+
+MUD1_BEFORE_4 = ~z~Well, get in. I'll tell you.
+
+MUD1_CONTROL_1 = ~z~Arthur? Arthur? Did you hear what I said?
+
+MUD1_CONTROL_2 = ~z~~sl:0.4:0.0~Huh, what?
+
+MUD1_CONTROL_3 = ~z~I said it sure feels good to leave that snow behind.
+
+MUD1_CONTROL_4 = ~z~Let's hope there ain't a welcoming party.
+
+MUD1_CONTROL_5 = ~z~At this point, I don't care. I just want to die warm.
+
+MUD1_EXT_1 = ~z~We got off the mountain...
+
+MUD1_EXT_2 = ~z~and rode east into some...
+
+MUD1_EXT_3 = ~z~pretty enough country called the Heartlands.
+
+MUD1_EXT_4 = ~z~Ain't been this far east in many a year.
+
+MUD1_EXT_5 = ~z~Dutch seems a little better.
+
+MUD1_EXT_6 = ~z~His eyes are sparkling once more and...
+
+MUD1_EXT_7 = ~z~I can see he's thinking a little clearer.
+
+MUD1_EXT_8 = ~z~I think we all feel a little happier...
+
+MUD1_EXT_9 = ~z~spite of Blackwater and that whole mess.
+
+MUD1_EXT_10 = ~z~Arthur.
+
+MUD1_EXT_11 = ~z~Hosea.
+
+MUD1_EXT_12 = ~z~Quite a day.
+
+MUD1_EXT_13 = ~z~Let's hope so.
+
+MUD1_EXT_14 = ~z~There's a bunch of the boys already in Valentine...
+
+MUD1_EXT_15 = ~z~Bill, Charles and Javier.
+
+MUD1_EXT_16 = ~z~And Swanson found something...
+
+MUD1_EXT_17 = ~z~down at the train station by the lake apparently.
+
+MUD1_EXT_18 = ~z~And Strauss came back with that creepy little smile on his face.
+
+MUD1_EXT_19 = ~z~I'm sure there's a whole list of unfortunates...
+
+MUD1_EXT_20 = ~z~he's forced money upon.
+
+MUD1_EXT_21 = ~z~Thank you.
+
+MUD1_EXT_22 = ~z~And you?
+
+MUD1_EXT_23 = ~z~I'm gonna read a book.
+
+MUD1_GOODSPOT_1 = ~z~Any trouble getting in here, Javier?
+
+MUD1_GOODSPOT_2 = ~z~No, it went well. This is a good spot.
+
+MUD1_GOODSPOT_3 = ~z~Excellent.
+
+MUD1_GOODSPOT_4 = ~z~I think this'll work for us, Arthur. For now, anyway.
+
+MUD1_IG8_3_1 = ~z~Get us out the stream.
+
+MUD1_IG8_4_1 = ~z~
+
+MUD1_IG8_4_2 = ~z~You gotta keep us moving, but calm.
+
+MUD1_IG8_4_3 = ~z~
+
+MUD1_IG8_5_1 = ~z~Not too rough there, brother.
+
+MUD1_IG8_5_2 = ~z~
+
+MUD1_IG8_6_1 = ~z~Push us forward.
+
+MUD1_IG8_7_1 = ~z~~sl:0.0:1.7:1~Ah, shit!
+
+MUD1_IG8_7_2 = ~z~Okay... let's take a look.
+
+MUD1_IG10_1 = ~z~~sl:0.0:1.9~Alright Charles, you and me hold the thing up~sl:0.0:2.1:1~while you try and put the wheel back on, Arthur.
+
+MUD1_IG10_2 = ~z~You still strong enough to hold up a wagon?
+
+MUD1_IG10_3 = ~z~Shut up.
+
+MUD1_IG10_4 = ~z~~sl:0.0:0.9:1~I'm just saying.
+
+MUD1_IG10_5 = ~z~~sl:0.0:1.2:1~Well, say less.
+
+MUD1_IG11_1 = ~z~There you are, brother.
+
+MUD1_IG11_2 = ~z~Head in there and follow the track for a bit.
+
+MUD1_IG11_P2_1 = ~z~Thanks.
+
+MUD1_IG12_A_1 = ~z~Okay, let's go.
+
+MUD1_IG12_B_1 = ~z~Okay, let's go.
+
+MUD1_IG12_C_1 = ~z~~sl:1.7~Here we are.
+
+MUD1_IG15_CRAFT_1 = ~z~What are you working on there anyway?
+
+MUD1_IG15_CRAFT_2 = ~z~~sl:0.0:3.7~Just some yarrow and ginseng, ~rp~good for the health. ~rp~~sl:0.7~Better than that stuff you buy in the store.
+
+MUD1_IG15_CRAFT_3 = ~z~~sl:0.0:2.4~Here, you can have all this.~sl:0.7~I'm at the point where I can do it with my eyes closed.
+
+MUD1_IG15_CRAFT_4 = ~z~Okay... thank you.
+
+MUD1_IG15_RAW_1 = ~z~~sl:0.0:0.5~So...~sl:1.0~what happened to your tribe?
+
+MUD1_IG15_RAW_2 = ~z~~sl:0.0:1.6~I don't even know if I have one...~sl:0.3~least not that I can remember.
+
+MUD1_IG15_RAW_3 = ~z~My father was a colored man.
+
+MUD1_IG15_RAW_4 = ~z~~sl:0.0:2.1~They told me he lived with our people for a while,~sl:0.0:1.8~a number of free men did, but...~sl:0.5~when we were forced to move from our lands, the three of us fled.
+
+MUD1_IG15_RAW_5 = ~z~~sl:0.0:2.1~I was too young to really remember much.~sl:0.4~All life I've been on the run.
+
+MUD1_IG15_RAW_6 = ~z~~sl:0.0:2.9~A couple years later, some soldiers captured my mother,~sl:0.3~took her somewhere.
+
+MUD1_IG15_RAW_7 = ~z~We never saw her again.
+
+MUD1_IG15_RAW_8 = ~z~We drifted around...
+
+MUD1_IG15_RAW_9 = ~z~He was a very sad man and the drink had a mean hold on him.
+
+MUD1_IG15_RAW_10 = ~z~~sl:0.0:1.0~Around thirteen...~sl:0.3~I just took off on my own.
+
+MUD1_IG15_RAW_11 = ~z~~sl:0.0:2.3~That was about the age we found young Arthur here,~sl:~maybe a little older.
+
+MUD1_IG15_RAW_12 = ~z~A wilder delinquent you never did see. But he learned fast.
+
+MUD1_IG15_RAW_13 = ~z~Not as fast as Marston, apparently.
+
+MUD1_IG15_RAW_14 = ~z~~sl:0.0:2.2~Wait... I don't understand.~sl:0.3~What's the problem between you two?
+
+MUD1_IG15_RAW_15 = ~z~Arthur?
+
+MUD1_IG15_RAW_16 = ~z~It's a long story.
+
+MUD1_IG15_RIGHT_1 = ~z~So... yes, the Indians in these parts got sold a very raw deal.
+
+MUD1_IG15_RIGHT_2 = ~z~~sl:0.0:1.9~This is the Heartlands we're going to,~sl:~good farming and grazing country, they lost it all.
+
+MUD1_IG15_RIGHT_3 = ~z~Stolen clean away from them it was, every blade of grass.
+
+MUD1_IG15_RIGHT_4 = ~z~Killed or herded up to the reservations in the middle of nowhere.
+
+MUD1_IG15_RIGHT_5 = ~z~And how's that different from anywhere else?
+
+MUD1_IG15_RIGHT_6 = ~z~Well, maybe it's not.
+
+MUD1_IG15_RIGHT_7 = ~z~~sl:0.0:3.5~I just heard some of the army out here was particularly, uh...~sl:~unpleasant about it.
+
+MUD1_IG15_RIGHT_8 = ~z~~sl:0.0:4.0~Unpleasant? How do you rob and kill people pleasantly?~sl:0.3~We don't, in spite of Dutch's talk.
+
+MUD1_IG15_RIGHT_9 = ~z~~sl:0.0:3.2~I fear I was perhaps trying to simplify something more~sl:~complicated for the benefit of our blockheaded driver here.
+
+MUD1_IG15_RIGHT_10 = ~z~Hey, don't blame it on me.
+
+MUD1_IG15_RIGHT_11 = ~z~Never forget, this here's a conman, Charles, born and bred.
+
+MUD1_IG15_RIGHT_12 = ~z~~sl:0.0:3.7~Just 'cause it sounds fancy don't mean he knows a damn thing~sl:~about what he's talking about.
+
+MUD1_IG15_TRIBE_1 = ~z~We still heading the right way?
+
+MUD1_IG15_TRIBE_2 = ~z~That depends...
+
+MUD1_IG15_TRIBE_3 = ~z~~sl:0.0:2.8~are we still heading west, in search of fortune~sl:~and repose in virgin forests, as we planned? No.
+
+MUD1_IG15_TRIBE_4 = ~z~~sl:0.0:3.1~Are we heading in the correct direction on our desperate escape~sl:~from the law eastwards down the mountains?
+
+MUD1_IG15_TRIBE_5 = ~z~Yes, I believe so.
+
+MUD1_IG15_TRIBE_6 = ~z~You know this area?
+
+MUD1_IG15_TRIBE_7 = ~z~A little, I've been through a couple of times.
+
+MUD1_IG15_TRIBE_8 = ~z~There's a livestock town not too far from here, called Valentine.
+
+MUD1_IG15_TRIBE_9 = ~z~Cowboys, outlaws, working girls. Our kind of place.
+
+MUD1_IG15_TRIBE_10 = ~z~O'Driscolls?
+
+MUD1_IG15_TRIBE_11 = ~z~Probably them too.
+
+MUD1_IG15_TRIBE_12 = ~z~Pinkertons?
+
+MUD1_IG15_TRIBE_13 = ~z~Let's hope not.
+
+MUD1_IG15_TRIBE_14 = ~z~And this place we're going... wait, what's it called again?
+
+MUD1_IG15_TRIBE_15 = ~z~Horseshoe Overlook.
+
+MUD1_IG15_TRIBE_16 = ~z~It's a good place to lie low?
+
+MUD1_IG15_TRIBE_17 = ~z~~sl:0.0:1.1~It'll do for now.~sl:0.8~And how low do you think Dutch is really going to lie?
+
+MUD1_IG15_TRIBE_18 = ~z~It's just...
+
+MUD1_IG15_TRIBE_19 = ~z~~sl:0.0:3.1~you know, ~rp~maybe it's me who's changed, not him, but,~sl:0.8~~rp~we kept telling him that ferry job didn't feel right.
+
+MUD1_IG15_TRIBE_20 = ~z~~sl:0.0:1.9~You and me had a real lead in Blackwater~sl:~that could've worked out.
+
+MUD1_IG15_TRIBE_21 = ~z~Maybe.
+
+MUD1_IG15_TRIBE_22 = ~z~It just... ~rp~isn't like Dutch to lose his head like that.
+
+MUD1_IG15_TRIBE_23 = ~z~~sl:0.0:1.7~Things go wrong sometimes.~sl:0.9~People die.
+
+MUD1_IG15_TRIBE_24 = ~z~It's the way it is, always has been.
+
+MUD1_IG15_TRIBE_25 = ~z~~sl:0.0:2.3~Me, you, Dutch...~sl:0.4:2.8~~rp~we've all been in this line of work a long time,~sl:0.4~~rp~and we're still here, so...
+
+MUD1_IG15_TRIBE_26 = ~z~~sl:0.0:1.8~I figure we must've got it right~sl:~a hell of a lot more than we got it wrong.
+
+MUD1_INT_1 = ~z~Oh for Lord's sake.
+
+MUD1_INT_2 = ~z~Put that book away and go help.
+
+MUD1_INT_3 = ~z~Oh...
+
+MUD1_INT_4 = ~z~Mary-Beth.
+
+MUD1_INT_5 = ~z~So, we getting out of this hellhole?
+
+MUD1_INT_6 = ~z~We're gonna try, weather seems stable.
+
+MUD1_INT_7 = ~z~And we just robbed a Leviticus Cornwall train.
+
+MUD1_INT_8 = ~z~We got money in our pockets...
+
+MUD1_INT_9 = ~z~the worst is behind us, gentlemen.
+
+MUD1_INT_10 = ~z~So the question is, where now?
+
+MUD1_INT_11 = ~z~I know this country a little...
+
+MUD1_INT_12 = ~z~I told you, we should set up camp in...
+
+MUD1_INT_13 = ~z~Horseshoe Overlook near Valentine.
+
+MUD1_INT_14 = ~z~We'll be able to hide out there no problem...
+
+MUD1_INT_15 = ~z~as long as we keep our noses clean.
+
+MUD1_INT_16 = ~z~Well then let's go...
+
+MUD1_INT_17 = ~z~clean noses and everything else.
+
+MUD1_INT_18 = ~z~Arthur, you're in that one, bring Hosea...
+
+MUD1_INT_19 = ~z~I know you two like to talk about the good old days...
+
+MUD1_INT_20 = ~z~and what's gone wrong with old Dutch.
+
+MUD1_INT_21 = ~z~Lenny! Micah!
+
+MUD1_INT_22 = ~z~Get over here!
+
+MUD1_INT_23 = ~z~Yes, boss?
+
+MUD1_INT_24 = ~z~You two ride up ahead, make sure there's no surprises.
+
+MUD1_INT_25 = ~z~We've had enough of those.
+
+MUD1_INT_26 = ~z~Me, with the boy?
+
+MUD1_INT_27 = ~z~Just go.
+
+MUD1_INT_28 = ~z~Come on, kid.
+
+MUD1_INT_29 = ~z~You can buy me a whisky.
+
+MUD1_INT_LI_1 = ~z~So we getting out of this hellhole?
+
+MUD1_INT_LI_2 = ~z~We're gonna try, weather seems stable.
+
+MUD1_INT_LI_3 = ~z~Pinkertons.
+
+MUD1_KNOWWAY_1 = ~z~~sl:0.0:2.8~Not too far now. Stay on this trail.~sl:0.7~We'll follow the river then cut left inland.
+
+MUD1_LMC1_1 = ~z~So, now we move.
+
+MUD1_LMC1_2 = ~z~Don't reckon we could've moved much sooner, ~rp~all that snow.
+
+MUD1_LMC1_3 = ~z~I'm sure Dutch knew what he was doing.
+
+MUD1_LMC1_4 = ~z~~sl:0.0:4.4~Now... ~rp~we're riding down into new country with eyes shining, ~rp~~sl:0.3~some money in our pockets again...
+
+MUD1_LMC1_5 = ~z~If we can sell those railway bonds successfully...
+
+MUD1_LMC1_6 = ~z~Must be worth something if they was on that feller's train. His private car... I never seen anything like it.
+
+MUD1_LMC1_7 = ~z~You know, ~rp~when it was just me and Dutch, way back in the day...
+
+MUD1_LMC1_8 = ~z~I always had a pretty good eye for a play, ~rp~and I'm the better actor, ~rp~but nobody could spin it like him.
+
+MUD1_LMC1_9 = ~z~He could've persuaded a drowning man to buy a glass of water.
+
+MUD1_LMC1_10 = ~z~I remember ~rp~this one winter, we were working some towns up in the Dakotas,
+
+MUD1_LMC1_11 = ~z~and he started running this scam with some fake country he'd made up,
+
+MUD1_LMC1_12 = ~z~a promised land, ~rp~an untapped paradise.
+
+MUD1_LMC1_13 = ~z~I thought he was crazy, but~rp~ I swear,
+
+MUD1_LMC1_14 = ~z~every rich idiot in both those states ended up putting some money into it.
+
+MUD1_LMC1_15 = ~z~~sl:1.7:0.0~It sounds familiar.
+
+MUD1_MCS1_ALT_1 = ~z~I said stop it you pair of idiots.
+
+MUD1_MCS1_ALT_2 = ~z~Red faced son of a...
+
+MUD1_MCS1_ALT_3 = ~z~Red faced son of a...~n~~m~What is wrong with you two?
+
+MUD1_MCS1_ALT_4 = ~z~What is wrong with you two?
+
+MUD1_MCS1_ALT_5 = ~z~What's your problem Morgan?
+
+MUD1_MCS1_ALT_6 = ~z~I said enough.
+
+MUD1_MCS1_ALT_7 = ~z~Does this look the time for brawling?
+
+MUD1_MCS1_ALT_8 = ~z~Oh you ain't the boss of me, you long stain of shit.
+
+MUD1_MCS4_1 = ~z~Here we are, Mr. Pearson.
+
+MUD1_MCS4_2 = ~z~Reborn again.
+
+MUD1_MCS4_3 = ~z~Well it sure feels better coming down...
+
+MUD1_MCS4_4 = ~z~the mountain than up it.
+
+MUD1_MCS4_5 = ~z~Thank you for all your efforts up there.
+
+MUD1_MCS4_6 = ~z~I didn't do so much.
+
+MUD1_MCS4_7 = ~z~Fed people as needed feeding, like we promised.
+
+MUD1_MCS4_8 = ~z~You and me, we kept 'em alive.
+
+MUD1_MCS4_9 = ~z~Not everyone, sadly.
+
+MUD1_MCS4_10 = ~z~Lie still, you stupid man.
+
+MUD1_MCS4_11 = ~z~Gimme a break will you?
+
+MUD1_MCS4_12 = ~z~Hey, Arthur.
+
+MUD1_MCS4_13 = ~z~What?
+
+MUD1_MCS4_14 = ~z~Next time you see wolves eating me...
+
+MUD1_MCS4_15 = ~z~do me a favour and let 'em finish the job.
+
+MUD1_MCS4_16 = ~z~Whatever you say.
+
+MUD1_MCS4_17 = ~z~Yeah, you're bouncing me all over the place back here!
+
+MUD1_MCS4_18 = ~z~Shut your mouth, O'Driscoll!
+
+MUD1_MCS4_19 = ~z~Lenny! Micah! Get over here!
+
+MUD1_MCS4_20 = ~z~Yes, boss.
+
+MUD1_MCS4_21 = ~z~You two ride up ahead, make sure there's no surprises.
+
+MUD1_MCS4_22 = ~z~We've had enough of those.
+
+MUD1_MCS4_23 = ~z~Me, with the boy?
+
+MUD1_MCS4_24 = ~z~Just go.
+
+MUD1_MCS4_25 = ~z~Come on, kid.
+
+MUD1_MCS4_26 = ~z~You can buy me a whisky.
+
+MUD1_MCS4_27 = ~z~Lost and on the run we may be...
+
+MUD1_MCS4_28 = ~z~but it sure feels good to leave that snow behind.
+
+MUD1_MCS4_29 = ~z~Well, as long as there ain't a welcoming party.
+
+MUD1_MCS4_30 = ~z~At this point, I'm not sure I care.
+
+MUD1_MCS4_31 = ~z~I just wanna die warm.
+
+MUD1_MCS5_1 = ~z~I hope so.
+
+MUD1_MCS5_2 = ~z~Gentlemen, we have survived.
+
+MUD1_MCS5_3 = ~z~For now.
+
+MUD1_MCS5_4 = ~z~Now it is time to prosper.
+
+MUD1_MCS5_5 = ~z~Arthur and I were about to prosper in Blackwater.
+
+MUD1_MCS5_6 = ~z~We were on to something big...
+
+MUD1_MCS5_7 = ~z~then Micah got you all excited about that ferry and here we are.
+
+MUD1_MCS5_8 = ~z~We have all made mistakes over the years, Hosea...
+
+MUD1_MCS5_9 = ~z~every last one of us.
+
+MUD1_MCS5_10 = ~z~But I kept us together...
+
+MUD1_MCS5_11 = ~z~kept us alive...
+
+MUD1_MCS5_12 = ~z~kept the nooses off our neck.
+
+MUD1_MCS5_13 = ~z~I guess I'm just worried.
+
+MUD1_MCS5_14 = ~z~I ain't got that long, Dutch.
+
+MUD1_MCS5_15 = ~z~I want folks safe before I go.
+
+MUD1_MCS5_16 = ~z~Me too.
+
+MUD1_MCS5_17 = ~z~And now we are stuck...
+
+MUD1_MCS5_18 = ~z~east of the Grizzlies and out of money...
+
+MUD1_MCS5_19 = ~z~and a long way from our dream of virgin land in the west.
+
+MUD1_MCS5_20 = ~z~I know, my brother, but we are safe.
+
+MUD1_MCS5_21 = ~z~We make a bit of money here, then we move again...
+
+MUD1_MCS5_22 = ~z~head out around them, be west of Uncle Sam...
+
+MUD1_MCS5_23 = ~z~in a few months buy some land.
+
+MUD1_MCS5_24 = ~z~I hope so.
+
+MUD1_MCS5_25 = ~z~Would you just look around you.
+
+MUD1_MCS5_26 = ~z~This world has its consolations.
+
+MUD1_MCS5_27 = ~z~Gentlemen, I'm going to head into the local town, and you know...
+
+MUD1_MCS5_28 = ~z~see if I can strike up a little business.
+
+MUD1_MCS5_29 = ~z~Of course, Herr Strauss.
+
+MUD1_MCS5_30 = ~z~I prefer robbing banks to usury...
+
+MUD1_MCS5_31 = ~z~seems more dignified somehow.
+
+MUD1_MCS5_32 = ~z~Now, everyone put your tools down for a moment.
+
+MUD1_MCS5_33 = ~z~Come on gather round, quickly now.
+
+MUD1_MCS5_34 = ~z~I know that things have been tough...
+
+MUD1_MCS5_35 = ~z~but we are safe now, and we are far too poor.
+
+MUD1_MCS5_36 = ~z~So it is time for everyone to get to work.
+
+MUD1_MCS5_37 = ~z~Get to work, but stay out of trouble.
+
+MUD1_MCS5_38 = ~z~Remember, we are itinerant workers.
+
+MUD1_MCS5_39 = ~z~Laid off when they shut down our factory to the north.
+
+MUD1_MCS5_40 = ~z~Now, get out there, and see what you can find.
+
+MUD1_MCS5_41 = ~z~Uncle, Reverend Swanson...
+
+MUD1_MCS5_42 = ~z~no more passengers.
+
+MUD1_MCS5_43 = ~z~It is time for everyone to earn their keep.
+
+MUD1_MCS5_44 = ~z~There is a town a little way down the track...
+
+MUD1_MCS5_45 = ~z~name of Valentine... live stock town.
+
+MUD1_MCS5_46 = ~z~All mud and morons if I remember right.
+
+MUD1_MCS5_47 = ~z~That seems a decent place to start.
+
+MUD1_MCS5_48 = ~z~And... we need food... real food...
+
+MUD1_MCS5_49 = ~z~that means every day, one of you.
+
+MUD1_MCS5_50 = ~z~And remember, whatever it is that you find...
+
+MUD1_MCS5_51 = ~z~the camp gets its slice.
+
+MUD1_MCS5_52 = ~z~Now, be sensible out there.
+
+MUD1_MCS5_53 = ~z~Now, the girls have your tent ready, Mr. Morgan, come with me.
+
+MUD1_MCS5_54 = ~z~You two will be ready shortly.
+
+MUD1_MCS5_55 = ~z~We put you over here.
+
+MUD1_MCS5_56 = ~z~I'm sure everything will be fine, Miss Grimshaw.
+
+MUD1_MCS5_57 = ~z~It should be, most of your stuff from Blackwater got saved.
+
+MUD1_MCS5_58 = ~z~Everything apart from my money.
+
+MUD1_MCS5_59 = ~z~Oh, don't remind me.
+
+MUD1_MCS5_60 = ~z~Well, we can always make more money.
+
+MUD1_MCS5_61 = ~z~We're going to have to.
+
+MUD1_MCS5_62 = ~z~Miss Jackson...
+
+MUD1_MCS5_63 = ~z~I've seen shit with more common sense than you.
+
+MUD1_MCS5_64 = ~z~Do it properly.
+
+MUD1_MCS5_LI_1 = ~z~You weren't wrong, Hosea. This place is perfect.
+
+MUD1_MCS_1_1 = ~z~Now that's enough, you hear?
+
+MUD1_MCS_1_2 = ~z~I said you hear?
+
+MUD1_MCS_1_3 = ~z~Alright, fine.
+
+MUD1_MCS_1_4 = ~z~So get up...
+
+MUD1_MCS_1_5 = ~z~and get moving...
+
+MUD1_MCS_1_6 = ~z~and you two fools...
+
+MUD1_MCS_1_7 = ~z~shake hands.
+
+MUD1_MCS_1_8 = ~z~Shake hands!
+
+MUD1_MCS_1_9 = ~z~Now this is the end, you hear? The end.
+
+MUD1_MCS_1_10 = ~z~Pair of school girls...
+
+MUD1_MCS_1_LO_1 = ~z~I'll kill the lot of you I swear to God...
+
+MUD1_MCS_2_1 = ~z~I broke the goddamn wheel.
+
+MUD1_MCS_2_2 = ~z~Alright, let's get it fixed.
+
+MUD1_MCS_2_3 = ~z~You need help?
+
+MUD1_MCS_2_4 = ~z~I reckon we can handle it...
+
+MUD1_MCS_2_5 = ~z~rest of you should keep moving on...
+
+MUD1_MCS_2_6 = ~z~we've got a camp to build.
+
+MUD1_MCS_2_7 = ~z~You sure?
+
+MUD1_MCS_2_8 = ~z~You know where we're going?
+
+MUD1_MCS_2_9 = ~z~Uh huh.
+
+MUD1_MCS_2_10 = ~z~Then we're sure.
+
+MUD1_MCS_2_11 = ~z~Hold it...
+
+MUD1_MCS_2_12 = ~z~hold it...
+
+MUD1_MCS_2_13 = ~z~hold it...
+
+MUD1_MCS_2_14 = ~z~See...
+
+MUD1_MCS_2_15 = ~z~you ain't so useless after all.
+
+MUD1_MCS_2_16 = ~z~Not quite.
+
+MUD1_MCS_2_17 = ~z~What you think?
+
+MUD1_MCS_2_18 = ~z~If they wanted trouble...
+
+MUD1_MCS_2_19 = ~z~we wouldn't have seen them.
+
+MUD1_MCS_2_20 = ~z~Poor bastards...
+
+MUD1_MCS_2_21 = ~z~we really screwed them over down here.
+
+MUD1_MCS_2_22 = ~z~Come on...
+
+MUD1_MCS_2_23 = ~z~let's not push our luck.
+
+MUD1_MCS_2_24 = ~z~What happened?
+
+MUD1_MCS_2_25 = ~z~Well...
+
+MUD1_MCS_2_26 = ~z~get in...
+
+MUD1_MCS_2_27 = ~z~and I'll tell you.
+
+MUD1_MCS_2_LI_1 = ~z~You alright back there?
+
+MUD1_MCS_2_LI_2 = ~z~Does everything look alright?
+
+MUD1_MCS_2_LI_3 = ~z~Well, what's going on?
+
+MUD1_NEARLY_1 = ~z~Nearly there...
+
+MUD1_OFFWAGON5_1 = ~z~What's happening, Arthur? We're all waiting for you.
+
+MUD1_PICKUP_1 = ~z~Pick the the wheel up!
+
+MUD1_S2_CHARLES_1 = ~z~Hey! Watch out for the rocks.
+
+MUD1_SLOW_1 = ~z~Hey, slow up! I'll jump on.
+
+MUD1_THERE_1 = ~z~There...
+
+MUD1_WGBILL_1 = ~z~Where are you going?
+
+MUD1_WGBILL_2 = ~z~Yeah, I thought you were with Hosea back there?
+
+MUD1_WGDUTCH_1 = ~z~What are you doing up here?
+
+MUD1_WGDUTCH_2 = ~z~I said you ride with Hosea.
+
+MUD1_WGJAV_1 = ~z~What's wrong, Arthur? Let's go.
+
+MUD1_WGLENNY_1 = ~z~You alright, Arthur? What are you looking for?
+
+MUD1_WGMICAH_1 = ~z~You staying behind, Morgan?
+
+MUD1_WGNGO_01 = ~z~Alright, people, let's get moving!
+
+MUD1_WGNGO_02 = ~z~Let's move it out!
+
+MUD1_WGNGO_03 = ~z~Alright, let's move!
+
+MUD1_WGNGO_04 = ~z~Come on! Let's go, let's go!
+
+MUD1_WGNHRY_01 = ~z~Are you getting on, then?
+
+MUD1_WGNHRY_02 = ~z~Come on, can we please get out of here?
+
+MUD1_WGNHRY_03 = ~z~You forget something? What's the hold up?
+
+MUD1_WGNHRY_04 = ~z~Let's go, Arthur.
+
+MUD1_WGNPRP_01 = ~z~Come on then, Arthur, you can drive.
+
+MUD1_WGNPRP_02 = ~z~You take the reins, Arthur.
+
+MUD1_WGSADIE_1 = ~z~Are you walking there?
+
+MUD1_WGSTRAUSS_1 = ~z~Let's not delay this departure any longer, please.
+
+MUD1_WGSWAN_1 = ~z~Come on, we're all ready to go.
+
+MUD1_WGSWAN_2 = ~z~Yes please, before the reverend here dozes off again.
+
+MUD1_WGUNC_1 = ~z~This ain't the time for cold feet, mine are cold enough already.
+

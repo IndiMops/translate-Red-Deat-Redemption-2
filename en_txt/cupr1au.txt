@@ -1,0 +1,68 @@
+CUPR1_CNV_P1_1 = ~z~Mr. Pearson...
+
+CUPR1_CNV_P1_2 = ~z~Sir.
+
+CUPR1_CNV_P1_3 = ~z~That was quite a feast, thank you.
+
+CUPR1_CNV_P1_4 = ~z~My pleasure, my pleasure...
+
+CUPR1_CNV_P1_5 = ~z~So tell me, do you ever miss the sea?
+
+CUPR1_CNV_P1_6 = ~z~Always... every day...
+
+CUPR1_CNV_P1_7 = ~z~Why don't you go back?
+
+CUPR1_CNV_P1_8 = ~z~Ah, I'm too old for that business, far too old...
+
+CUPR1_CNV_P1_9 = ~z~Once you've fought real monsters and got away alive, you head back to land and you count your blessings, sir.
+
+CUPR1_CNV_P1_10 = ~z~Monsters?
+
+CUPR1_CNV_P1_11 = ~z~Monsters...
+
+CUPR1_CNV_P1_12 = ~z~Whales?
+
+CUPR1_CNV_P1_13 = ~z~Whales? Whales are like kittens!
+
+CUPR1_CNV_P1_14 = ~z~You stick 'em with a harpoon, and you scoop them out, and you head home, and you act tough.
+
+CUPR1_CNV_P1_15 = ~z~That's easy, no... real monsters.
+
+CUPR1_CNV_P1_16 = ~z~Sharks?
+
+CUPR1_CNV_P1_17 = ~z~Sardines.
+
+CUPR1_CNV_P1_18 = ~z~Sardines? That's ridiculous!
+
+CUPR1_CNV_P1_19 = ~z~Sardines... any real sea goer will tell you...
+
+CUPR1_CNV_P1_20 = ~z~Boys hunt whales, men hunt sardines. It's not the size, it's the number.
+
+CUPR1_CNV_P1_21 = ~z~One mistake and they'll swamp ya...
+
+CUPR1_CNV_P1_22 = ~z~I've seen three-hundred pound men eaten alive, I once saw a Portuguese wrestler crushed by a net that ripped!
+
+CUPR1_CNV_P1_23 = ~z~It's the sheer volume of 'em! Brutal, brutal business...
+
+CUPR1_CNV_P2_1 = ~z~You learn a new thing every day.
+
+CUPR1_CNV_P2_2 = ~z~Exactly.
+
+CUPR1_CNV_P2_3 = ~z~I ever tell you boys that I once thought about going to sea?
+
+CUPR1_CNV_P2_4 = ~z~Yeah, yeah I mean the honest truth is that... I was in love with the captain's wife and she was in love with me, and...
+
+CUPR1_CNV_P2_5 = ~z~Well, we were... we were gonna sail to Brazil and raise cattle!
+
+CUPR1_CNV_P2_6 = ~z~
+
+CUPR1_CNV_P2_7 = ~z~But, you know, I got drunk... and missed the boat...
+
+CUPR1_CNV_P2_8 = ~z~I mean, literally missed the boat!
+
+CUPR1_CNV_P2_9 = ~z~By the time I got to the docks... it was gone.
+
+CUPR1_CNV_P2_10 = ~z~It happens... it happens.
+
+CUPR1_CNV_P2_11 = ~z~
+

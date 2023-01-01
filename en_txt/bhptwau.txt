@@ -1,0 +1,134 @@
+ASSASSINATION_TRACKING = ~z~Let me take a look at that bounty.
+
+TWD_ASKP_J_01 = ~z~You in the market for any bounties in this hell hole?
+
+TWD_ASKP_J_02 = ~z~Alright. If you got bounties, I could get 'em for you...
+
+TWD_ASKP_J_03 = ~z~Hey, uh, where you hang your bounty posters?
+
+TWD_ASK_RPL_01 = ~z~On the wall right there. That's who we need.
+
+TWD_ASK_RPL_02 = ~z~You'll find the posters on the wall there.
+
+TWD_ASK_RPL_03 = ~z~While there are laws, there will be law breakers. Take a look up on the wall there.
+
+TWD_BDM_NSADJ_1 = ~z~I'll pay him a call. Introduce myself.
+
+TWD_BDM_POST_A_1 = ~z~You know of the Del Lobos don't you... of course... well, this one's the big one, Esteban Cortez.
+
+TWD_BDM_POST_A_2 = ~z~Brother of Ramon Cortez. Now deceased.
+
+TWD_BDM_POST_B_1 = ~z~You know the Del Lobos don't you... of course... well, this one's the big one.
+
+TWD_BDM_POST_B_2 = ~z~Esteban Cortez. Brother of Ramon Cortez. Believed to be in New Hanover somewhere.
+
+TWD_BDM_Q1J1_1 = ~z~The bounty, Cortez, how many men has he got with him?
+
+TWD_BDM_Q1J3_1 = ~z~Okay. I'll make sure to bring some bullets then.
+
+TWD_BDM_Q1S2_1 = ~z~Tell you what, you shoot them all, then you count the bodies, that's how many was out there.
+
+TWD_BDM_Q2J1_1 = ~z~If I'm going to get this bounty... is there anything else I should know?
+
+TWD_BDM_Q2J2_1 = ~z~Okay. I'll see if I can get him out of there.
+
+TWD_BDM_Q2S2_1 = ~z~This place he's likely at, Gaptooth Breach, there's an old mine out there.
+
+TWD_BDM_Q2S2_2 = ~z~You see, Cortez is a rat... and like a rat... he'll find himself a dark wet hole to hide in.
+
+TWD_BDM_SGL_1 = ~z~I don't care how you bring them back, long as you bring him, you get me?
+
+TWD_BDM_YSADJ_1 = ~z~I'll pay him a call. Tell him I knew his brother.
+
+TWD_BDM_YSADJ_2 = ~z~Good luck.
+
+TWD_BDS_Q1J1_1 = ~z~This bounty... alive seems a pretty big ask for one of these Del Lobos.
+
+TWD_BDS_Q1J3_1 = ~z~Hmm.
+
+TWD_BDS_Q1S2_1 = ~z~It is a pretty big ask, and that's a pretty big price.
+
+TWD_BDS_Q1S2_2 = ~z~If you're worried about justice, he won't be alive for long after you walk 'em through that door.
+
+TWD_BDS_Q2J1_1 = ~z~Am I going ride across the desert...bring you a bounty just so you can kill him?
+
+TWD_BDS_Q2S2_1 = ~z~God no... I'll converse with him first. But after that things'll move real swift around here.
+
+TWD_BDS_Q2S2_2 = ~z~Ours ain't a hanging judge, you'll see... he's the "I'm with you whatever" kind.
+
+TWD_GREETNEG_J_01 = ~z~I feel like the law around here should be your concern... and yours only.
+
+TWD_GREETNEG_J_02 = ~z~I'm suspicious of folk who pay other folk to solve their problems for them.
+
+TWD_GREETNEG_J_03 = ~z~Ain't outlaws the law's concern? Instead of mine?
+
+TWD_GREETPOS_J_02 = ~z~I'm a helpful sort, I promise. I'll get to your bounty.
+
+TWD_GREETPOS_J_03 = ~z~Okay, you got a bounty... I'll take a look at it.
+
+TWD_LVE_ERLY_01 = ~z~Come back if you change your mind on that bounty...
+
+TWD_LVE_ERLY_02 = ~z~Well, we aren't going anywhere. And neither is that bounty.
+
+TWD_LVE_ERLY_03 = ~z~It don't look like no one else is going after them... so come back any time.
+
+TWD_POST_LOC_01 = ~z~Whoever you are... if you're interested in justice... how about taking that new bounty poster off the wall, and going out and serving some?
+
+TWD_POST_LOC_02 = ~z~I hope you're here to help. For help is what the law here needs. The poster on the wall will explain it better than I can.
+
+TWD_TAKEP_J_01 = ~z~I got everything I need except this bounty.
+
+TWD_TAKEP_J_02 = ~z~Now it's just the not so small task of bringing him in.
+
+TWD_TAKE_ALVE_01 = ~z~We'd like that one alive. Sheriff's prerogative.
+
+TWD_TAKE_ALVE_02 = ~z~I'd rather nothing befell that varmint. Justice will be mine.
+
+TWD_TAKE_ALVE_03 = ~z~The poster says alive... not to be mistaken.
+
+TWD_TAKE_DORA_01 = ~z~We'll take 'em any which way you bring 'em. Dead, alive, or somewhere in between.
+
+TWD_TAKE_DORA_02 = ~z~I don't care how many pieces they're in, just bring them back to me.
+
+TWD_TAKE_DORA_03 = ~z~If you got to shoot that animal, I ain't going to chide you for it.
+
+TWD_TAKE_LVE_01 = ~z~You're my right hand. Remember that.
+
+TWD_TAKE_LVE_02 = ~z~Let justice be swift and absolute.
+
+TWD_TAKE_LVE_03 = ~z~You have the authority of this office. Don't be mistaken.
+
+TWD_TG22_G_BEX_1 = ~z~I was hoping you was the obliging kind.
+
+TWD_TG22_G_BEX_2 = ~z~I didn't want to be this varietal of sheriff... but the situation demands it.
+
+TWD_TG22_G_BEX_3 = ~z~Just take that bounty poster there, and you'll find out.
+
+TWD_TG22_G_BEX_4 = ~z~These fellers is known as the Del Lobo gang meaning
+
+TWD_TG22_G_BEX_5 = ~z~“of the wolf” in the Mexican tongue...
+
+TWD_TG22_G_BEX_6 = ~z~I only wish they was that civilized.
+
+TWD_TG22_G_LTR_1 = ~z~Well, look who it is. You here to help? Bounty posters are on the wall there.
+
+TWD_TG22_G_LTR_2 = ~z~I seen you round these parts long enough...
+
+TWD_TG22_G_LTR_3 = ~z~you'll know the situation we're in with these Del Lobos... desperate don't begin to describe it.
+
+TWD_TG22_TIP_1 = ~z~Joaquin Arroyo. Word is, he's up at Solomon's Folly...
+
+TWD_TG22_TIP_2 = ~z~These Del Lobos been killing, stealing, torching, and tormenting the good people of this region for too long.
+
+TWD_TG22_TIP_3 = ~z~Only good one's a dead one... except if they know a thing or two... and, I believe, this one does.
+
+TWD_TG22_TIP_4 = ~z~You bring him here, I'll have a few words... and then I'll send him to Saint Peter.
+
+TWD_TG22_TIP_5 = ~z~You have my sworn oath on that.
+
+TWD_TG23_GREET_1 = ~z~Ah, I see you've found our poster.
+
+TWD_TG23_TIP_1 = ~z~Del Lobos ain't ones for running, but this bounty's got 'em spooked.
+
+TWD_TG23_TIP_2 = ~z~There's a big bunch of 'em holed up at Gaptooth Breach, Cortez included.
+

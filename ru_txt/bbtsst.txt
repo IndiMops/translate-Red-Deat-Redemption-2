@@ -1,0 +1,158 @@
+0x0717F397 = Отбейте ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~ у ~COLOR_ENEMY~~1~.
+
+0x2E2C6F3E = Помогите спрятать ~COLOR_ENEMY~бандита~s~.
+
+0x6D3748AB = Поднимите ~COLOR_ENEMY~бандита~s~.
+
+0x30AC1C72 = Схватите цель (~COLOR_ENEMY~~1~~s~) живой или мертвой
+
+0x296ADF64 = Целей доставлено: ~1~ из ~2~
+
+0x9416E29D = Спрячьте ~COLOR_MP_OBJECTIVE_ENEMY~бандита~s~, пока не появятся его сообщники.
+
+0x278386F4 = Отправляйтесь к ~COLOR_MP_OBJECTIVE~месту~s~, где последний раз видели цель, чтобы узнать, куда она отправилась дальше.
+
+0x401052AD = Схватите цели (~COLOR_ENEMY~~1~~s~) живыми или мертвыми
+
+0xA8D2A794 = Вы потеряли цель
+
+0xB6692A79 = Спрячьте ~COLOR_ENEMY~бандита~s~ вне ~COLOR_MP_OBJECTIVE~зоны видимости~s~.
+
+0xC470C725 = Обыщите тела.
+
+0xE5F6E318 = Вы потеряли цели
+
+0xE8D44C6E = Схватите ~COLOR_MP_OBJECTIVE_ENEMY~«Беглеца»~s~ живым или мертвым
+
+0xED2638BF = Цель доставлена
+
+0xEE1D5EE4 = Положите ~COLOR_ENEMY~бандита~s~.
+
+0xF77061B2 = Цели доставлены
+
+FETCH_BOUNTY_BOARD_OBJ_DEFEND = Помогите доставить ~COLOR_MP_OBJECTIVE_FRIENDLY~цель~s~ ~1~.
+
+FETCH_BOUNTY_BOARD_OBJ_DEFEND_PLURAL = Помогите доставить ~COLOR_MP_OBJECTIVE_NEUTRAL~цели~s~ ~1~.
+
+FETCH_BOUNTY_BOARD_OBJ_DROP_TARGET = Сдайте цель.
+
+FETCH_BOUNTY_BOARD_OBJ_FIND_TARGET = Найдите ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~.
+
+FETCH_BOUNTY_BOARD_OBJ_FIND_TARGET_PLURAL = Найдите ~COLOR_MP_OBJECTIVE_ENEMY~цели~s~.
+
+FETCH_BOUNTY_BOARD_OBJ_GET_ON_MOUNT = Садитесь на лошадь.
+
+FETCH_BOUNTY_BOARD_OBJ_HIDE = Найдите место для засады до появления цели.
+
+FETCH_BOUNTY_BOARD_OBJ_HIDE_PLURAL = Найдите место для засады до появления целей.
+
+FETCH_BOUNTY_BOARD_OBJ_KILL_CAPTURE = Убейте или схватите ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~.
+
+FETCH_BOUNTY_BOARD_OBJ_KILL_CAPTURE_PLURAL = Убейте или схватите ~COLOR_MP_OBJECTIVE_ENEMY~цели~s~.
+
+FETCH_BOUNTY_BOARD_OBJ_RETURN = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~цель~s~ ~1~.
+
+FETCH_BOUNTY_BOARD_OBJ_WAIT_TARGET = Дождитесь ~COLOR_MP_OBJECTIVE_ENEMY~цели~s~.
+
+FETCH_BOUNTY_BOARD_OBJ_WAIT_TARGET_PLURAL = Дождитесь ~COLOR_MP_OBJECTIVE_ENEMY~целей~s~.
+
+FETCH_BOUNTY_BOARD_SCOUT_GO_TO_0 = Направляйтесь ~1~.
+
+FETCH_BOUNTY_BOARD_SCOUT_HELP_FIND_SPOT = Если вы привлечете к себе внимание врагов, цель может сбежать. Действуйте незаметно и следите за тем, не прибыла ли цель.
+
+FETCH_BOUNTY_BOARD_SCOUT_HELP_FIND_SPOT_PLURAL = Если вы привлечете к себе внимание врагов, цели могут сбежать. Действуйте незаметно и следите за тем, не прибыли ли цели.
+
+FETCH_BOUNTY_BOARD_SCOUT_HELP_TEAM_PRIMARY = Незаметно подготовьте засаду в этом районе ~o~~BLIP_OBJECTIVE~~s~ и дождитесь появления цели. Чтобы получить полную награду, доставьте цель ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ живой. За мертвых платят меньше.
+
+FETCH_BOUNTY_BOARD_SCOUT_HELP_TEAM_PRIMARY_PLURAL = Незаметно подготовьте засаду в этом районе ~o~~BLIP_OBJECTIVE~~s~ и дождитесь появления целей. Чтобы получить полную награду, доставьте цели ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ живыми. За мертвых платят меньше.
+
+FETCH_BOUNTY_BOARD_SCOUT_PRIMARY_JOIN = Игрок ~1~ присоединился к охоте за головами.
+
+FETCH_BOUNTY_BOARD_SCOUT_SCORETIMER_OBJ_REACHED_DRIVE_TO = Разыскиваемый преступник прибыл
+
+FETCH_BOUNTY_BOARD_SCOUT_SCORETIMER_OBJ_REACHED_DRIVE_TO_PLURAL = Преступники прибыли
+
+FETCH_BOUNTY_BOARD_SCOUT_SCORETIMER_TRIGGER_ACTION = Игрок ~1~ спугнул цель
+
+FETCH_BOUNTY_BOARD_SCOUT_SHARD_OVER_TARGET_ESCAPE = Цель сбежала
+
+FETCH_BOUNTY_BOARD_SCOUT_SHARD_OVER_TARGET_ESCAPE_PLURAL = Цели сбежали
+
+FETCH_BOUNTY_BOARD_SCOUT_STKOUT_NAME = Охота за головами
+
+FETCH_BOUNTY_BOARD_SCOUT_TARGET_ESCAPING = ~COLOR_MP_OBJECTIVE_ENEMY~Цель~s~ пытается сбежать. Если цели удастся уйти от вас на достаточное расстояние, она сбежит, а вы не сможете получить за нее награду.
+
+FETCH_BOUNTY_BOARD_SCOUT_TARGET_TICKER_ESCAPE = ~COLOR_MP_OBJECTIVE_ENEMY~Цель~s~ сбежала
+
+FETCH_BOUNTY_BOARD_SCOUT_TICKER_DESTROY = ~COLOR_MP_OBJECTIVE_ENEMY~Цель~s~ потеряна
+
+FETCH_BOUNTY_BOARD_SCOUT_TICKER_DESTROY_YOU = Вы потеряли ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~
+
+FETCH_BOUNTY_STAKEOUT_BLACKWATER_COVER = ~COLOR_MP_OBJECTIVE~Спрячьтесь~s~ рядом с местом игры в покер.
+
+FETCH_BOUNTY_STAKEOUT_BLACKWATER_HELP_COVER = Спрячьтесь и дождитесь прибытия ~COLOR_MP_OBJECTIVE_ENEMY~целей~s~ на Пристань разбойников.
+
+FETCH_BOUNTY_STAKEOUT_BLACKWATER_HELP_INTRO = Двое ~COLOR_MP_OBJECTIVE_ENEMY~людей Таддеуса Уолтера~s~ играют в покер на Пристани разбойников. Чтобы получить полную награду, найдите их и доставьте живыми.
+
+FETCH_BOUNTY_STAKEOUT_COVER = ~COLOR_MP_OBJECTIVE~Спрячьтесь~s~ и дождитесь прибытия цели.
+
+FETCH_BOUNTY_STAKEOUT_COVER_VALENTINE = Спрячьтесь ~COLOR_MP_OBJECTIVE~поблизости~s~ и дождитесь прибытия цели.
+
+FETCH_BOUNTY_STAKEOUT_FORT_MERCER = Отправляйтесь в ~COLOR_MP_OBJECTIVE~Форт-Мерсер~s~.
+
+FETCH_BOUNTY_STAKEOUT_GILLS_LANDING = Отправляйтесь к ~COLOR_MP_OBJECTIVE~пристани Гилла~s~.
+
+FETCH_BOUNTY_STAKEOUT_MERCER_HIDE = Спрячьте ~COLOR_ENEMY~бандита~s~.
+
+FETCH_BOUNTY_STAKEOUT_MERCER_HOGTIE = Поймайте ~COLOR_ENEMY~бандита~s~.
+
+FETCH_BOUNTY_STAKEOUT_MERCER_INTRO = ~COLOR_MP_OBJECTIVE_ENEMY~«Беглецы»~s~ собираются освободить бандита, захваченного охотниками за головами. Идите по их следу. Чтобы получить полную награду, доставьте цель живьем.
+
+FETCH_BOUNTY_STAKEOUT_MERCER_LOOT_HELP = Эти охотники за головами из Форт-Мерсера. Продолжайте искать цель там.
+
+FETCH_BOUNTY_STAKEOUT_MERCER_LOOT_HELP_DEAD_END = Кажется, этот охотник за головами погиб, пытаясь поймать разыскиваемого преступника.
+
+FETCH_BOUNTY_STAKEOUT_MERCER_REACHED_HELP = Разберитесь с ~COLOR_MP_OBJECTIVE_ENEMY~бандитом~s~ и дождитесь прибытия ~COLOR_MP_OBJECTIVE_ENEMY~«Беглецов»~s~.
+
+FETCH_BOUNTY_STAKEOUT_OBJ_CARRY_BAIT = Оттащите ~COLOR_ENEMY~бандита~s~ за пределы ~COLOR_MP_OBJECTIVE~зоны видимости~s~.
+
+FETCH_BOUNTY_STAKEOUT_OBJ_GILLS_TAKE_OUT = Перебейте ~COLOR_ENEMY~сектантов~s~.
+
+FETCH_BOUNTY_STAKEOUT_OBJ_LEAVE_AREA = Покиньте ~COLOR_MP_OBJECTIVE~сектор~s~.
+
+FETCH_BOUNTY_STAKEOUT_OBJ_LEAVE_AREA_POSSE = Подождите, пока ваш отряд покинет ~COLOR_MP_OBJECTIVE~сектор~s~.
+
+FETCH_BOUNTY_STAKEOUT_OBJ_SEARCH_AREA = Осмотрите убитых охотников за головами.
+
+FETCH_BOUNTY_STAKEOUT_SEARCH_AREA_HELP_MERCER = Осмотрите местность и выясните, где находится цель.
+
+FETCH_BOUNTY_STAKEOUT_VALENTINE_HELP_INTRO = ~COLOR_MP_OBJECTIVE_ENEMY~Обадия Фитч~s~ и несколько пропавших людей были замечены у озера Флэт-Айрон. Чтобы получить полную награду, доставьте его живым.
+
+FETCH_BOUNTY_STAKEOUT_VALENTINE_LOOT_HELP = Скоро ~COLOR_MP_OBJECTIVE_ENEMY~Обадия Фитч~s~ должен встретиться с новыми последователями на берегу.
+
+FETCH_BOUNTY_STAKEOUT_VALENTINE_OBJ_LOOT = Обыщите сектантов.
+
+FETCH_BOUNTY_STAKEOUT_VALENTINE_SEARCH_HELP = Обыщите последователей ~COLOR_MP_OBJECTIVE_ENEMY~Обадии Фитча~s~ и узнайте, где он находится.
+
+FETCH_BOUNTY_STAKEOUT_VALENTINE_STAKEOUT_HELP = Незаметно подкрадитесь и дождитесь ~COLOR_MP_OBJECTIVE_ENEMY~Обадию Фитча~s~, иначе он скроется.
+
+FETCH_BOUNTY_STAKEOUT_VAN_HORN_HIDE_HELP = Спрячьтесь в особняке в Ван-Хорне и дождитесь ~COLOR_MP_OBJECTIVE_ENEMY~Бо Бредшоу~s~. Не привлекайте к себе внимания и дождитесь момента, когда можно схватить цель.
+
+FETCH_BOUNTY_STAKEOUT_VAN_HORN_INTRO_HELP = ~COLOR_MP_OBJECTIVE_ENEMY~Бо Бредшоу~s~ и его сообщники каждый вечер грабят несколько домов. Чтобы получить полную награду, найдите его и доставьте живым.
+
+FETCH_BOUNTY_STAKEOUT_VAN_HORN_LOOT_HELP = Обыщите грабителя и найдите улики, указывающие на то, какой дом ~COLOR_MP_OBJECTIVE_ENEMY~Бо Бредшоу~s~ собирается ограбить сегодня вечером.
+
+FETCH_BOUNTY_STAKEOUT_VAN_HORN_MANSION = Отправляйтесь к ~COLOR_MP_OBJECTIVE~особняку Ван-Хорн~s~.
+
+FETCH_BOUNTY_STAKEOUT_VAN_HORN_MANSION_COVER = Спрячьтесь внутри ~COLOR_MP_OBJECTIVE~особняка Ван-Хорн~s~.
+
+FETCH_BOUNTY_STAKEOUT_VAN_HORN_MANSION_HELP = ~COLOR_MP_OBJECTIVE_ENEMY~Бо Бредшоу~s~ собирается ограбить особняк к югу от Ван-Хорна.
+
+FETCH_BOUNTY_STAKEOUT_VAN_HORN_PIT_STOP = Разберитесь с ~COLOR_ENEMY~грабителем~s~.
+
+FETCH_BOUNTY_STAKEOUT_VAN_HORN_PIT_STOP_LOOT = Обыщите грабителя.
+
+FETCH_NAT_SIGHTING_HELP_LOOK_AT_CLUE_MERCER = Сфокусироваться на охотнике за головами
+
+FETCH_NAT_SIGHTING_INSPECT_CLUE_MERCER = Осмотреть
+

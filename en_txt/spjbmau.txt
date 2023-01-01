@@ -1,0 +1,218 @@
+SPJBM_IG1_GA_1 = ~z~~sl:0.0:3.2~He's watching... he's always watching.~sl:1.1:2.0:1~He's never talking.
+
+SPJBM_IG1_GB_1 = ~z~I just don't want him to see me... w-we're not friends anymore, we're not!
+
+SPJBM_IG1_GC_1 = ~z~~sl:0.2:0.0~I'm in so much pain!
+
+SPJBM_IG1_GD_1 = ~z~I-I'm not coping very well with life, my friend.
+
+SPJBM_IG1_GE_1 = ~z~This is total madness, I know it is, but I can't stop. No, I-I can't...
+
+SPJBM_IG1_GE_2 = ~z~
+
+SPJBM_IG1_GF_1 = ~z~He won't leave me alone... I-I asked him, but he-but he won't.
+
+SPJBM_IG1_GG_1 = ~z~~sl:0.0:3.4~I've been here many years a-and I'm completely lost.~sl:0.2:2.8:1~I-I don't even know where I am anymore.
+
+SPJBM_IG1_GH_1 = ~z~This is horrible. I-It's really horrible.
+
+SPJBM_IG1_GI_1 = ~z~He's watching. Oh, he's always watching.
+
+SPJBM_IG1_GI_2 = ~z~~sl:0.0:4.8:1~A-always watching. Never speaking.
+
+SPJBM_IG1_GJ_1 = ~z~~sl:0.0:2.0~I think I might be a little crazy.~sl:1.2:3.2:1~Either that o-or, or everyone else is.
+
+SPJBM_IG1_SA_1 = ~z~~sl:0.0:2.7~Be gone... be gone! I...~sl:0.7:2.7:1~be gone, be... be gone!
+
+SPJBM_IG1_SB_1 = ~z~~sl:0.6:1.6:1~Just go away, will you?
+
+SPJBM_IG1_SB_2 = ~z~~sl:0.0:3.8~I'm not talking to you, 'c-cause you won't talk to me!~sl:1.0:3.1:1~You won't and it's not fair.
+
+SPJBM_IG1_SB_3 = ~z~~sl:0.0:4.5:1~How come... how come you get to make the choice and not me?
+
+SPJBM_IG1_SB_4 = ~z~~sl:0.5:2.1:1~Leave me alone, will you?
+
+SPJBM_IG1_SB_5 = ~z~~sl:0.0:2.9:1~This is... exhausting.
+
+SPJBM_IG1_SC_1 = ~z~What do you want?
+
+SPJBM_IG1_SC_2 = ~z~What do you want from me?
+
+SPJBM_IG1_SC_3 = ~z~I come in peace, t-to love the world...
+
+SPJBM_IG1_SC_4 = ~z~~sl:0.0:6.8:1~I-I-I-I asked for forgiveness, but they didn't forgive me... they, they didn't...
+
+SPJBM_IG1_SC_5 = ~z~~sl:0.0:2.7:1~Be gone... be gone!
+
+SPJBM_IG1_SD_1 = ~z~~sl:0.3:2.6:1~Get away from me... get-get away from me!
+
+SPJBM_IG1_SE_1 = ~z~~sl:0.0:2.8:1~There ain't no forgiveness... there isn't.
+
+SPJBM_IG1_SE_2 = ~z~~sl:0.0:4.0:1~I-I begged... I-I-I begged...
+
+SPJBM_IG1_SE_3 = ~z~~sl:0.0:6.0:1~G-Get away from me. G-get away from me! Stop following me.
+
+SPJBM_IG1_SF_1 = ~z~S-stop it! Stop it, just... go away!
+
+SPJBM_IG1_SF_2 = ~z~~sl:0.4:0.0~Stop it!
+
+SPJBM_IG1_SG_1 = ~z~S-stop staring at me... it's, it's, it's not my fault... it's not. It's not!
+
+SPJBM_IG1_SG_2 = ~z~~sl:1.6:1.5:1~I'm sorry.
+
+SPJBM_IG1_SG_3 = ~z~~sl:0.0:7.2:1~I'm...I tr-I tried. Oh... oh, I t-I tried...
+
+SPJBM_IG1_SH_1 = ~z~Get away from me! All of you! Run, r-run from me!
+
+SPJBM_IG1_SI_1 = ~z~~sl:0.0:4.2:1~I'm alone i-in this world, a-as you asked!
+
+SPJBM_IG1_SI_2 = ~z~~sl:0.0:2.4:1~Quite alone, quite alone...
+
+SPJBM_IG1_SI_3 = ~z~~sl:0.0:1.3~Will you leave me here?~sl:2.1:1.3:1~W-will you?
+
+SPJBM_IG1_SJ_1 = ~z~~sl:0.0:2.7:1~I am waiting for your sign, still...
+
+SPJBM_IG1_SJ_2 = ~z~~sl:0.0:8.7:1~I came as you asked! I...I left them all... I-I have stood here and I have waited.
+
+SPJBM_IG1_SK_1 = ~z~~sl:0.0:3.4:1~You're not there... you're not there!
+
+SPJBM_IG1_SK_2 = ~z~~sl:0.0:2.7:1~I can't see you... you-you're not there!
+
+SPJBM_IG1_SL_1 = ~z~~sl:0.0:4.7:1~I don't hear you, you're not there! Go away!
+
+SPJBM_IG1_SL_2 = ~z~~sl:0.0:4.4:1~Oh, p-please... j-just forgive me.
+
+SPJBM_IG1_SM_1 = ~z~~sl:0.0:3.5:1~I'm sorry! I-I'm so very sorry...
+
+SPJBM_IG1_SM_2 = ~z~~sl:0.9:3.2:1~Please... please, please talk to me.
+
+SPJBM_IG1_SN_1 = ~z~~sl:0.0:2.2:1~Just leave me alone, will you? Please?
+
+SPJBM_IG1_SN_2 = ~z~~sl:0.3:1.6:1~I don't deserve this.
+
+SPJBM_IG1_SN_3 = ~z~~sl:0.0:1.7~What did I do to you? Nothing.~sl:0.4:1.9:1~What did you do to me? Everything!
+
+SPJBM_IG1_SN_4 = ~z~It's not my fault. I-I-I didn't do nothing. I didn't invent you, I didn't invent me!
+
+SPJBM_IG1_SN_5 = ~z~You made you and you made me... and, or somebody did and it's not fair. It's not!
+
+SPJBM_IG1_SO_1 = ~z~Just go away, will you? Please?
+
+SPJBM_IG1_SP_1 = ~z~~sl:0.0:2.9:1~I don't call this very enlightened of you.
+
+SPJBM_IG1_SP_2 = ~z~~sl:0.0:3.7~Again, torture. It's torture!~sl:2.0:1.8:1~It's horrifying!
+
+SPJBM_IG1_SQ_1 = ~z~I didn't ask for this.
+
+SPJBM_IG1_SQ_2 = ~z~What did I do wrong?
+
+SPJBM_IG1_SQ_3 = ~z~Answer me... answer me, you bastard!
+
+SPJBM_IG1_SQ_4 = ~z~~sl:0.0:5.3:1~Why me? Why me? Why? Why?
+
+SPJBM_IG1_SQ_5 = ~z~W-w-why? Answer... answer!
+
+SPJBM_IG1_SQ_6 = ~z~~sl:0.0:7.6~Oh... you won't... you won't, because you're...~sl:0.8~you're all powerful.
+
+SPJBM_IG1_SQ_7 = ~z~~sl:0.0:6.9:1~You don't have to answer to sniveling little wretches like me, no, I-I I heard it all before.
+
+SPJBM_IG1_SQ_8 = ~z~~sl:0.0:7.4:1~So smart of you. Inventing everything, then laughing, at me, for being!
+
+SPJBM_IG1_SQ_9 = ~z~~sl:0.0:3.9:1~Well, it's not fair... it's not!
+
+SPJBM_IG1_SQ_10 = ~z~~sl:0.0:6.5:1~I'm sorry. I, I'm sorry... I... I-I'm so sorry...
+
+SPJBM_IG1_SR_1 = ~z~~sl:1.9:1.9~I have enough of this!~sl:1.9:1.6:1~It isn't fun.
+
+SPJBM_IG1_SR_2 = ~z~~sl:0.0:5.5:1~I used to be normal! I d-did what you told me.
+
+SPJBM_IG1_SR_3 = ~z~~sl:0.4:4.2:1~Now look at me. L-l-look at me, will you?
+
+SPJBM_IG1_SR_4 = ~z~~sl:0.0:1.1~Look at me...~sl:3.3~I'm nothing. I-I-I'm useless.
+
+SPJBM_IG1_SR_5 = ~z~~sl:0.4:7.6:1~All, all I do is, is curse and, and apologize. Apologize, and curse...
+
+SPJBM_IG1_SR_6 = ~z~~sl:0.7:1.5~I'm stuck!~sl:3.5:4.2:1~Forgive me... forgive me.
+
+SPJBM_IG2_1 = ~z~They won't forgive you... they, t-they didn't forgive me.
+
+SPJBM_IG2_2 = ~z~There is no forgiveness... none, friend. None!
+
+SPJBM_IG2_3 = ~z~~sl:1.0:5.2:1~I-I-I know you want it... I can smell it on you.
+
+SPJBM_IG2_4 = ~z~~sl:0.0:0.6~Well...~sl:2.1~it ain't happening. No, no, no, no, it isn't.
+
+SPJBM_IG2_5 = ~z~~sl:0.5:5.3:1~That's why, t-t-that's why I'm out here, well away from them, see...
+
+SPJBM_IG2_6 = ~z~They come for me, but I'm watching.
+
+SPJBM_IG2_7 = ~z~~sl:0.0:5.4:1~Yeah, I- I never sleep, no. I never do.
+
+SPJBM_IG3A_1 = ~z~He won't send me the message. He won't!
+
+SPJBM_IG3A_2 = ~z~~sl:0.0:5.7:1~I-I-I've been here f-for years... and nothing. Nothing!
+
+SPJBM_IG3A_3 = ~z~Are you the signal?
+
+SPJBM_IG3A_4 = ~z~Uh, I don't think so.
+
+SPJBM_IG3A_5 = ~z~~sl:1.9~H-how do you know?
+
+SPJBM_IG3A_6 = ~z~~sl:0.7:1.1~How do I know?~sl:3.1:1.3:1~How do I know?
+
+SPJBM_IG3J_1 = ~z~He won't send me the message. He won't!
+
+SPJBM_IG3J_2 = ~z~~sl:0.0:5.8:1~I-I-I've been here for, for years... and nothing. Nothing!
+
+SPJBM_IG3J_3 = ~z~Are you the signal?
+
+SPJBM_IG3J_4 = ~z~Oh, I don't think so.
+
+SPJBM_IG3J_5 = ~z~~sl:1.8:0.0~How, how do you know?
+
+SPJBM_IG3J_6 = ~z~~sl:0.7:5.8:1~How do I know?...Wh... How do, well I know...
+
+SPJBM_IG4A_1 = ~z~I-I'm feeling very abandoned... v-very ignored.
+
+SPJBM_IG4A_2 = ~z~~sl:0.7~See, I-I-I asked f-for a message and he gave me the whole world.
+
+SPJBM_IG4A_3 = ~z~But, no signal I can understand...
+
+SPJBM_IG4A_4 = ~z~All these... all these people and none of them quite right.
+
+SPJBM_IG4A_5 = ~z~~sl:0.9~That's very frustrating. The whole world!
+
+SPJBM_IG4A_6 = ~z~Wasn't that enough?
+
+SPJBM_IG4A_7 = ~z~~sl:0.3:4.2~No... it wasn't enough...~sl:3.3:2.2:1~it wasn't enough at all!
+
+SPJBM_IG4A_8 = ~z~~sl:0.0:5.4~That's the problem. I'm so... I'm so greedy.~sl:4.3:1.3:1~I'm awful.
+
+SPJBM_IG4J_1 = ~z~I-I'm feeling... very abandoned... very ignored.
+
+SPJBM_IG4J_2 = ~z~~sl:0.7:5.0~See, I-I-I asked for... f-for a message...~sl:0.6~and he gave me the whole world!
+
+SPJBM_IG4J_3 = ~z~But, no signal I can understand...
+
+SPJBM_IG4J_4 = ~z~~sl:0.3~All these... all these people and none of them quite right.
+
+SPJBM_IG4J_5 = ~z~~sl:1.0:~That's very frustrating. The, the whole world!
+
+SPJBM_IG4J_6 = ~z~Wasn't that enough?
+
+SPJBM_IG4J_7 = ~z~~sl:0.2:4.3~No... it wasn't enough...~sl:3.4:2.1:1~...it wasn't enough at all.
+
+SPJBM_IG4J_8 = ~z~~sl:0.0:5.5~That's the problem. I'm so... I'm so greedy.~sl:4.2:1.5:1~I'm awful.
+
+SPJBM_IG5J_1 = ~z~Have you... spoken to... him?
+
+SPJBM_IG5J_2 = ~z~To who?
+
+SPJBM_IG5J_3 = ~z~To him!
+
+SPJBM_IG5J_4 = ~z~I... don't think so. Have you?
+
+SPJBM_IG5J_5 = ~z~~sl:0.0:8.1:1~Oh yeah, I-I've spoken all the time, but... he's ignoring me. He's...
+
+SPJBM_IG5J_6 = ~z~~sl:0.0:1.6~He hates me.~sl:1.5:2.5:1~He hates me!
+

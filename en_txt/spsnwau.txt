@@ -1,0 +1,162 @@
+SPSNW_IG1_JOHN_1 = ~z~Hey, what you doing friend?
+
+SPSNW_IG1_JOHN_2 = ~z~Wandering.
+
+SPSNW_IG1_JOHN_3 = ~z~Me too... me too!
+
+SPSNW_IG1_JOHN_4 = ~z~What you wandering for?
+
+SPSNW_IG1_JOHN_5 = ~z~No idea...
+
+SPSNW_IG1_JOHN_6 = ~z~Me too... me too!
+
+SPSNW_IG1_JOHN_7 = ~z~I'll... yeah I'll see you around, enjoy the sun! It's the one true God, you know.
+
+SPSNW_IG1_JOHN_8 = ~z~Helios... nothing else matters, all else is lies!
+
+SPSNW_IG2_JOHN_1 = ~z~Oh... how you doing? Isn't it marvelous... isn't it amazing, simply wonderful, no god awful clouds!
+
+SPSNW_IG2_JOHN_2 = ~z~Uh... it's a bit hot for me.
+
+SPSNW_IG2_JOHN_3 = ~z~Nonsense! We were made for this heat, made for it. Beautiful...
+
+SPSNW_IG2_JOHN_4 = ~z~
+
+SPSNW_IG3_1 = ~z~You know, America has always needed myths. America needs stories.
+
+SPSNW_IG3_2 = ~z~Bunch of land of people who didn't like Europe too much... quick, write a story!
+
+SPSNW_IG3_3 = ~z~I don't need myths. I don't need a story. I have the sun... the sun is my story.
+
+SPSNW_IG3_4 = ~z~I live for it. I'm more like a plant than a man!
+
+SPSNW_IG3_5 = ~z~Be well now, friend... stay warm.
+
+SPSNW_IG4_JOHN_1 = ~z~Hey, you found what you're looking for yet?
+
+SPSNW_IG4_JOHN_2 = ~z~Not really.
+
+SPSNW_IG4_JOHN_3 = ~z~Me neither, me neither... so I gave up looking.
+
+SPSNW_IG4_JOHN_4 = ~z~But, then I realized... it doesn't matter so very much!
+
+SPSNW_IG4_JOHN_5 = ~z~I have all I need here. Up there!
+
+SPSNW_IG4_JOHN_6 = ~z~That is all we need. The rest is man turned insane!
+
+SPSNW_IG5_JOHN_1 = ~z~You know what I blame, sir?
+
+SPSNW_IG5_JOHN_2 = ~z~Blame for what?
+
+SPSNW_IG5_JOHN_3 = ~z~For mankind's folly, of course.
+
+SPSNW_IG5_JOHN_4 = ~z~No idea...
+
+SPSNW_IG5_JOHN_5 = ~z~Have a guess.
+
+SPSNW_IG5_JOHN_6 = ~z~Err... greed? Stupidity?
+
+SPSNW_IG5_JOHN_7 = ~z~Artificial light. It's a curse!
+
+SPSNW_IG5_JOHN_8 = ~z~This... she... she is our light. Live by her!
+
+SPSNW_IG5_JOHN_9 = ~z~The fake stuff, well... well, every stupid thing we have done has been done under artificial light.
+
+SPSNW_IG5_JOHN_10 = ~z~I blame Prometheus, I really do!
+
+SPSNW_IG5_JOHN_11 = ~z~Okay. Good for you.
+
+SPSNW_IG5_JOHN_12 = ~z~Be well now sir... be well.
+
+SPSNW_IG5_JOHN_13 = ~z~
+
+SPSNW_IG6_JOHN_1 = ~z~If this isn't paradise, then truly, I don't know what is... really I don't.
+
+SPSNW_IG6_JOHN_2 = ~z~It's a little hot for me.
+
+SPSNW_IG6_JOHN_3 = ~z~Hot? Why this isn't hot. This is warm. Hot is a hundred thirty in the shade.
+
+SPSNW_IG6_JOHN_4 = ~z~That's what we got last year. That was hot!
+
+SPSNW_IG6_JOHN_5 = ~z~This is... mild. Temperate. Delightful.
+
+SPSNW_IG6_JOHN_6 = ~z~Be well, friend.
+
+SPSNW_IG6_JOHN_7 = ~z~
+
+SPSNW_IG7_JOHN_1 = ~z~Life is warmth sir, life is warmth! I've told you that, you know.
+
+SPSNW_IG7_JOHN_2 = ~z~How do you even survive out here? What do you eat? Drink?
+
+SPSNW_IG7_JOHN_3 = ~z~Eat? Drink?
+
+SPSNW_IG7_JOHN_4 = ~z~I've got the sun, the sun is my nourishment, it's everything... at least for those of us who see properly.
+
+SPSNW_IG7_JOHN_5 = ~z~Well, I must be blind then.
+
+SPSNW_IG7_JOHN_6 = ~z~Very sorry to hear that.
+
+SPSNW_IG7_JOHN_7 = ~z~Yeah.
+
+SPSNW_IG8_HELLO_1 = ~z~Oh, hello... It's you again.
+
+SPSNW_IG8_HELLO_2 = ~z~You enjoying the weather?
+
+SPSNW_IG8_JOHN_1 = ~z~It's pretty brutal.
+
+SPSNW_IG8_JOHN_2 = ~z~Brutal? This is perfect. Hot sun and smiles...
+
+SPSNW_IG9_JOHN_1 = ~z~Now, I hope this time, you're gonna keep your temper, sir.
+
+SPSNW_IG9_JOHN_2 = ~z~The beautiful weather can do strange things to a man.
+
+SPSNW_IG9_JOHN_3 = ~z~Don't be fractious.
+
+SPSNW_IG9_JOHN_4 = ~z~Let the sun warm your bones and warm your soul. Be happy.
+
+SPSNW_IG9_JOHN_5 = ~z~What are you, a goddamn lizard?
+
+SPSNW_IG9_JOHN_6 = ~z~Relax my friend. This is healthy, nutritious, life giving.
+
+SPSNW_IG9_JOHN_7 = ~z~That... that orb... that glowing orb, that orb is our real god, and we should worship it as such.
+
+SPSNW_IG9_JOHN_8 = ~z~Seems kind of an angry god to me.
+
+SPSNW_IG9_JOHN_9 = ~z~You're fighting a war you cannot win. Embrace the sun.
+
+SPSNW_IG9_JOHN_10 = ~z~
+
+SPSNW_IG10_P1_1 = ~z~Listen, my friend... please don't try to kill me again... it's a little annoying.
+
+SPSNW_IG10_P1_2 = ~z~I'm not causing you any trouble.
+
+SPSNW_IG10_P1_3 = ~z~I mean, isn't this desert big enough for both of us to enjoy it in peace?
+
+SPSNW_IG10_P2_1 = ~z~Oh, no... you're too tough to leave people like me alone.
+
+SPSNW_IG10_P2_2 = ~z~Well, I've had enough. I'm not talking to you anymore!
+
+SPSNW_IG11_1_1 = ~z~Yoo hoo! Be well there down there... enjoy the weather!
+
+SPSNW_IG11_2_1 = ~z~Helios is bestowing his munificence upon us once again!
+
+SPSNW_IG11_2_2 = ~z~Fantastic, isn't it? Be well, sir!
+
+SPSNW_IG11_3_1 = ~z~My god is shining in the heavens... life is heat and my god bestows heat and goodness.
+
+SPSNW_IG11_3_2 = ~z~Thank you, thank you, thank you!
+
+SPSNW_IG11_3_3 = ~z~This is a beautiful universe we have been given.
+
+SPSNW_IG11_3_4 = ~z~Thank you... thank you, thank you!
+
+SPSNW_IG11_4_1 = ~z~Life is heat sir... life is heat... never forget that! Life is heat...
+
+SPSNW_IG13_1_1 = ~z~Well, if you wouldn't mind leaving me to enjoy this in peace.
+
+SPSNW_IG13_2_1 = ~z~Now, please... if you could leave Helios and I to our wonderful symbiosis...
+
+SPSNW_IG13_3_1 = ~z~Now, I must be alone to appreciate this in all its glory...
+
+SPSNW_IG13_4_1 = ~z~Go, my friend. Find your own path to light and peace.
+

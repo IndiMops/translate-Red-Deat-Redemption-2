@@ -1,0 +1,380 @@
+GNG1_ABIGAIL_1 = ~z~This is real bad.
+
+GNG1_ABIGAIL_2 = ~z~Just stay down, all of you.
+
+GNG1_ART_H_1 = ~z~Get those sons of bitches!
+
+GNG1_BILL_H_1 = ~z~I have had it with you bastards!
+
+GNG1_BULLET_FLY_01 = ~z~Shit!
+
+GNG1_BULLET_FLY_02 = ~z~Goddamn it!
+
+GNG1_CAMP_PUSH_1 = ~z~We need to push them back!
+
+GNG1_CAMP_PUSH_2 = ~z~Okay, let's go!
+
+GNG1_COVER_DAWD_01 = ~z~What are you doing?
+
+GNG1_COVER_DAWD_02 = ~z~Take the other side of this door!
+
+GNG1_COVER_DAWD_03 = ~z~Over here, get in cover!
+
+GNG1_DOWN_1 = ~z~Where are we going?
+
+GNG1_DOWN_2 = ~z~This way, there's a trapdoor into the other house. We can try to flank them.
+
+GNG1_DUTCH_YELL_1 = ~z~Everyone get down!
+
+GNG1_DUTCH_YELL_2 = ~z~~sl:0.7:0.0~Asked everyone you could find did you, Bill?
+
+GNG1_EXT_1 = ~z~You saved us, Arthur.
+
+GNG1_EXT_2 = ~z~Well, me and...
+
+GNG1_EXT_3 = ~z~Bill and Sadie.
+
+GNG1_EXT_4 = ~z~You okay, son?
+
+GNG1_EXT_5 = ~z~Sure.
+
+GNG1_EXT_6 = ~z~Well, we ain't been back for more than a few days.
+
+GNG1_EXT_7 = ~z~What...
+
+GNG1_EXT_8 = ~z~what do we do, Dutch?
+
+GNG1_EXT_9 = ~z~Clearly we need to leave.
+
+GNG1_EXT_10 = ~z~It'll take them some time to regroup.
+
+GNG1_EXT_11 = ~z~Mr. Pearson, Miss Grimshaw, start packing up.
+
+GNG1_EXT_12 = ~z~Javier, you and Bill...
+
+GNG1_EXT_13 = ~z~You saved us, Arthur.
+
+GNG1_EXT_14 = ~z~Well, me and...
+
+GNG1_EXT_15 = ~z~Bill and Sadie.
+
+GNG1_EXT_16 = ~z~You okay, son?
+
+GNG1_EXT_17 = ~z~Sure.
+
+GNG1_EXT_18 = ~z~Well, we ain't been back for more than a few days.
+
+GNG1_EXT_19 = ~z~What...
+
+GNG1_EXT_20 = ~z~what do we do, Dutch?
+
+GNG1_EXT_21 = ~z~Clearly we need to leave.
+
+GNG1_EXT_22 = ~z~It'll take them some time to regroup.
+
+GNG1_EXT_23 = ~z~Mr. Pearson, Miss Grimshaw, start packing up.
+
+GNG1_EXT_24 = ~z~Javier, you and Bill...
+
+GNG1_EXT_25 = ~z~get outta here.
+
+GNG1_EXT_26 = ~z~Go scare off any scum still loitering about...
+
+GNG1_EXT_27 = ~z~we need a couple of days.
+
+GNG1_EXT_28 = ~z~Now!
+
+GNG1_EXT_29 = ~z~Please, gentlemen.
+
+GNG1_EXT_30 = ~z~Sure.
+
+GNG1_EXT_31 = ~z~What next, Dutch?
+
+GNG1_EXT_32 = ~z~We just need some time...
+
+GNG1_EXT_33 = ~z~I just, I, I need some time.
+
+GNG1_EXT_34 = ~z~Now we can't go east...
+
+GNG1_EXT_35 = ~z~'cos then we'll be in the ocean...
+
+GNG1_EXT_36 = ~z~so we're gonna have to go north, I guess?
+
+GNG1_EXT_37 = ~z~ I just need somebody to buy me some...
+
+GNG1_EXT_38 = ~z~goddamn time, one of you.
+
+GNG1_EXT_39 = ~z~You'll figure it out, boss.
+
+GNG1_EXT_40 = ~z~You always do.
+
+GNG1_EXT_41 = ~z~What are you gonna do about John, Dutch?
+
+GNG1_EXT_42 = ~z~John?
+
+GNG1_EXT_43 = ~z~He's in jail.
+
+GNG1_EXT_44 = ~z~W-w-we'll get him...
+
+GNG1_EXT_45 = ~z~Abigail. Just not, not yet.
+
+GNG1_EXT_46 = ~z~There's talk of hanging him.
+
+GNG1_EXT_47 = ~z~It's not gonna come to that.
+
+GNG1_EXT_48 = ~z~Dutch!
+
+GNG1_EXT_49 = ~z~Not now, Miss, I...
+
+GNG1_EXT_50 = ~z~not now.
+
+GNG1_EXT_51 = ~z~I'm begging you two. He's...
+
+GNG1_EXT_52 = ~z~they're gonna hang him.
+
+GNG1_EXT_53 = ~z~It would break my...
+
+GNG1_EXT_54 = ~z~the boy's heart.
+
+GNG1_EXT_55 = ~z~Please, do something.
+
+GNG1_EXT_56 = ~z~We will.
+
+GNG1_EXT_57 = ~z~Okay.
+
+GNG1_EXT_58 = ~z~I'm gonna go figure out how we rescue this bastard.
+
+GNG1_EXT_59 = ~z~Now?
+
+GNG1_EXT_60 = ~z~Yes, now.
+
+GNG1_EXT_61 = ~z~Meet me at Doyle's Tavern on Milyonne Avenue.
+
+GNG1_EXT_62 = ~z~Okay.
+
+GNG1_FLEE_1 = ~z~That's right! Run you spineless sons of bitches.
+
+GNG1_GO_TO_GUN_1 = ~z~There's more coming. Get on that gun, Arthur.
+
+GNG1_GUN_1 = ~z~There's more of them, get on that Gatling gun, Arthur!
+
+GNG1_GUN_DWD_B_01 = ~z~Let rip at them, Morgan!
+
+GNG1_GUN_DWD_B_02 = ~z~Keep shooting!
+
+GNG1_GUN_DWD_S_01 = ~z~Shoot, damn it!
+
+GNG1_GUN_DWD_S_02 = ~z~Arthur, help us out here!
+
+GNG1_IG1_B_1 = ~z~~sl:1.2:0.0~Don't think for one minute you're going to have all the fun by yourself!
+
+GNG1_IG1_P1_1 = ~z~Arthur, follow me!
+
+GNG1_IG1_S_1 = ~z~Start shooting that thing!
+
+GNG1_INT_1 = ~z~Arthur. Arthur's here!
+
+GNG1_INT_2 = ~z~Arthur... you're alive.
+
+GNG1_INT_3 = ~z~Just about.
+
+GNG1_INT_4 = ~z~Come inside, come on, it's raining.
+
+GNG1_INT_5 = ~z~Hey everybody, look who's here.
+
+GNG1_INT_6 = ~z~How y'all doing?
+
+GNG1_INT_7 = ~z~Hey, old man, wake up!
+
+GNG1_INT_8 = ~z~Hey, Arthur, they got John...
+
+GNG1_INT_9 = ~z~Good to see you.
+
+GNG1_INT_10 = ~z~Yeah, he got arrested.
+
+GNG1_INT_11 = ~z~He ain't hung yet?
+
+GNG1_INT_12 = ~z~Not yet...
+
+GNG1_INT_13 = ~z~they moved him to Sisika.
+
+GNG1_INT_14 = ~z~He's been working on a chain gang.
+
+GNG1_INT_15 = ~z~Howdy.
+
+GNG1_INT_16 = ~z~Dutch, Dutch they got John.
+
+GNG1_INT_17 = ~z~Okay, okay.
+
+GNG1_INT_18 = ~z~He's back, he's back!
+
+GNG1_INT_19 = ~z~How'd you folks find each other?
+
+GNG1_INT_20 = ~z~What happened?
+
+GNG1_INT_21 = ~z~Can... can somebody get me a cup of coffee or something?
+
+GNG1_INT_22 = ~z~It was Mrs. Adler who saved us, Dutch.
+
+GNG1_INT_23 = ~z~After the robbery in Saint Denis...
+
+GNG1_INT_24 = ~z~she got us away from the camp before the Pinkertons turned up.
+
+GNG1_INT_25 = ~z~Then Mrs. Adler and Mr. Smith...
+
+GNG1_INT_26 = ~z~drove away the degenerates who were living here.
+
+GNG1_INT_27 = ~z~Mrs. Adler, we owe you.
+
+GNG1_INT_28 = ~z~Thank you.
+
+GNG1_INT_29 = ~z~It's been real hard, Dutch...
+
+GNG1_INT_30 = ~z~we... we been surviving, but only just.
+
+GNG1_INT_31 = ~z~What we gonna do?
+
+GNG1_INT_32 = ~z~Things have been tough...
+
+GNG1_INT_33 = ~z~there ain't no doubt about that.
+
+GNG1_INT_34 = ~z~Trust me...
+
+GNG1_INT_35 = ~z~I am gonna get us outta here.
+
+GNG1_INT_36 = ~z~This ain't over.
+
+GNG1_INT_37 = ~z~Ain't none of you folks interested in our adventures?
+
+GNG1_INT_38 = ~z~Guess we're more interested in escaping the hangmen on our tail.
+
+GNG1_INT_39 = ~z~Cheerful nymph of the prairie, wasn't you, Abigail?
+
+GNG1_INT_40 = ~z~Oh sure...
+
+GNG1_INT_41 = ~z~my fair heart jumps for joy when I set eyes on you, Micah.
+
+GNG1_INT_42 = ~z~We buried Hosea, Dutch.
+
+GNG1_INT_43 = ~z~Charles and I stole his body from the law one night and...
+
+GNG1_INT_44 = ~z~gave him a proper burial.
+
+GNG1_INT_45 = ~z~It was real nice.
+
+GNG1_INT_46 = ~z~Well here you is.
+
+GNG1_INT_47 = ~z~Well I asked everyone I could find...
+
+GNG1_INT_48 = ~z~and eventually someone knew.
+
+GNG1_INT_49 = ~z~Said you fools were out here.
+
+GNG1_INT_50 = ~z~Shit... get me a drink or something.
+
+GNG1_INT_51 = ~z~Get your own damn drink!
+
+GNG1_INT_52 = ~z~In our absence, Mrs. Adler here has been looking after things.
+
+GNG1_INT_53 = ~z~Now sit down.
+
+GNG1_INT_54 = ~z~This is Agent Milton with the Pinkerton Detective Agency.
+
+GNG1_INT_55 = ~z~Already?
+
+GNG1_INT_56 = ~z~On behalf of Cornwall Kerosene and Tar...~n~~m~Aw shit.
+
+GNG1_INT_57 = ~z~the United States Government...
+
+GNG1_INT_58 = ~z~and the Commonwealth of West Elizabeth...
+
+GNG1_INT_59 = ~z~Here we go.
+
+GNG1_INT_60 = ~z~we are here to arrest you.
+
+GNG1_INT_61 = ~z~Come out with your hands up.
+
+GNG1_INT_62 = ~z~Give them to a count of five, then give 'em everything.
+
+GNG1_INT_63 = ~z~Actually...
+
+GNG1_INT_LI_1 = ~z~Arthur! Arthur's here!
+
+GNG1_INT_LI_2 = ~z~Oh, Arthur, you're alive!
+
+GNG1_INT_LI_3 = ~z~Just about.
+
+GNG1_INT_LO_1 = ~z~Let 'em have it.
+
+GNG1_JAVIER_INT_1 = ~z~You made it.
+
+GNG1_MCS1_1 = ~z~You mistook it for weakness.
+
+GNG1_MCS1_2 = ~z~Why've they stopped shooting?
+
+GNG1_MCS1_3 = ~z~Now I will show strength...
+
+GNG1_MCS1_4 = ~z~and you may mistake it for brutality.
+
+GNG1_MCS1_5 = ~z~There is no escape for any of you.
+
+GNG1_MCS1_6 = ~z~I shall hunt you to the ends of the earth...
+
+GNG1_MCS1_7 = ~z~and the end of time.
+
+GNG1_MCS1_8 = ~z~This idiot is really...~n~~m~I've killed your friends...
+
+GNG1_MCS1_9 = ~z~starting to irritate me.~n~~m~and I've enjoyed killing them...
+
+GNG1_MCS1_10 = ~z~Come on!~n~~m~and now I'm gonna...
+
+GNG1_MCS1_11 = ~z~kill each and every one of you!
+
+GNG1_MCS1_LIA_1 = ~z~You fools weren't listening to me, were you? I showed mercy...
+
+GNG1_MCS1_LIA_2 = ~z~Okay, take the other side.
+
+GNG1_MORE_1 = ~z~There's more of them moving in!
+
+GNG1_PUSH_1 = ~z~They're coming from the side! Come on, let's push 'em back!
+
+GNG1_PUSH_R_01 = ~z~Get around the side. We'll hold this position.
+
+GNG1_PUSH_R_02 = ~z~You go with Bill and Sadie. Don't worry about us.
+
+GNG1_PUSH_R_03 = ~z~Go help the others, Arthur. Quick!
+
+GNG1_RETURN_1 = ~z~We need someone back here. They're coming down the main path.
+
+GNG1_SADIE_DAWD_01 = ~z~This way, Arthur!
+
+GNG1_SADIE_DAWD_02 = ~z~Come on, follow me!
+
+GNG1_SADIE_DAWD_03 = ~z~Quick, Arthur!
+
+GNG1_SADIE_DAWD_04 = ~z~Get up here!
+
+GNG1_SAD_H_1 = ~z~We'll kill every last one of ya!
+
+GNG1_SPOT_1 = ~z~Over there! They're trying to sneak around the side!
+
+GNG1_SPOT_2 = ~z~Micah, Bill, get out there and help them!
+
+GNG1_TIMELAPSE_1 = ~z~My Lord, what a goddamn mess... everything.
+
+GNG1_TIMELAPSE_2 = ~z~Not sure what happens next.
+
+GNG1_TIMELAPSE_3 = ~z~Whole thing has been hard on all of us...
+
+GNG1_TIMELAPSE_4 = ~z~but most of all on Dutch...
+
+GNG1_TIMELAPSE_5 = ~z~who seems half crazed by all we gone through.
+
+GNG1_WAVE_LEFT_1 = ~z~Shit! We got more on the left here.
+
+GNG1_WAVE_LEFT_2 = ~z~Keep your head down, I'm swinging this around!
+
+GNG1_WAVE_RIGHT_1 = ~z~More coming this way, Arthur, to your right!
+
+GNG1_WRECK_PUSH_1 = ~z~They're hiding in the trees. Get after 'em!
+

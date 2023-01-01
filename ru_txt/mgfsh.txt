@@ -1,0 +1,204 @@
+MGFSH_BAIT_LOST = Рыба ушла, прихватив наживку.
+
+MGFSH_BEGIN_AIM_HLP = Удерживайте ~INPUT_AIM~, чтобы ухватиться за удочку.
+
+MGFSH_BEGIN_AIM_OBJ = Удерживайте ~INPUT_AIM~, чтобы держать удочку.
+
+MGFSH_BEGIN_AIM_TOG_HLP = Нажмите ~INPUT_AIM~, чтобы ухватиться за удочку.
+
+MGFSH_BEGIN_AIM_TOG_OBJ = Нажмите ~INPUT_AIM~, чтобы держать удочку.
+
+MGFSH_CAST_AIMING_HLP = Удерживайте ~INPUT_ATTACK~, чтобы замахнуться.
+
+MGFSH_CAST_AIMING_OBJ = Удерживайте ~INPUT_ATTACK~, чтобы отвести удочку назад.
+
+MGFSH_CAST_BAIT = Нельзя забросить крючок без наживки. Вы можете открыть селектор наживки, удерживая ~INPUT_OPEN_WHEEL_MENU~.
+
+MGFSH_CAST_CLOSE = Вы находитесь слишком близко к другому рыбаку и не можете закинуть удочку.
+
+MGFSH_CAST_DEEP = Вы зашли слишком глубоко, чтобы закинуть удочку.
+
+MGFSH_CAST_HIGH = Вы находитесь слишком высоко над уровнем воды и не можете закинуть удочку.
+
+MGFSH_CAST_LOS = Какое-то препятствие не дает вам закинуть удочку.
+
+MGFSH_CAST_NOT_HERE = Здесь нельзя закинуть удочку.
+
+MGFSH_CAST_POWER = Чем дальше вы замахнетесь удочкой, прежде чем ее отпустить, тем дальше забросите леску.
+
+MGFSH_CAST_RELEASE_HLP = Отпустите ~INPUT_ATTACK~, чтобы сделать заброс.
+
+MGFSH_CAST_RELEASE_OBJ = Отпустите ~INPUT_ATTACK~, чтобы сделать заброс.
+
+MGFSH_CAST_WATER = Вы находитесь слишком далеко от края воды и не можете закинуть удочку.
+
+MGFSH_CAUGHT_POI = ~2~(отравл.) весом ~1w~
+
+MGFSH_CTX_CHOOSE = Наживка
+
+MGFSH_CTX_CONTROL = Водить удочкой
+
+MGFSH_CTX_CUT_LINE = Обрезать леску
+
+MGFSH_CTX_EQUIP = Использовать: ~a~
+
+MGFSH_CTX_GRIP = Схватить катушку
+
+MGFSH_CTX_HOOK = Подсечь рыбу
+
+MGFSH_CTX_KEEP = Оставить
+
+MGFSH_CTX_REEL_IN = Вытянуть
+
+MGFSH_CTX_REEL_LURE = Подкрутить леску
+
+MGFSH_CTX_RESET = Перезакинуть снасть
+
+MGFSH_CTX_RETURN = Оставить и вернуться на берег
+
+MGFSH_CTX_THROW_BACK = Бросить в воду
+
+MGFSH_EQD_BREAD = Хлеб – лучшая наживка для ловли желтого окуня и красноперой щуки. Желтый окунь водится на севере, красноперая щука – на юге.
+
+MGFSH_EQD_CHEESE = Сырная наживка дает наилучшие результаты при ловле синежаберника и каменного окуня. Эти рыбы встречаются практически везде.
+
+MGFSH_EQD_CORN = Кукурузная наживка – лучший выбор для ловли американского сома и полосатой щуки. Американский сом обитает исключительно в болотах, а вот полосатая щука водится практически везде.
+
+MGFSH_EQD_CRAYFISH = Раки отлично подходят для ловли крупной рыбы, особенно большеротого окуня, который обитает в глубоких местах рек и озер.
+
+MGFSH_EQD_CRICKET = На сверчков отлично ловится крупная рыба, особенно малоротый окунь, который живет, по большей части, в реках, но иногда встречается и в более крупных водоемах.
+
+MGFSH_EQD_LURE_LAKE = Озерные приманки отлично подходят для ловли крупной озерной рыбы, особенно озерного осетра и щуки-маскинонга.
+
+MGFSH_EQD_LURE_RIVER = Речные приманки отлично подходят для ловли крупной рыбы, обитающей в реках, например, обыкновенной щуки или лосося.
+
+MGFSH_EQD_LURE_SWAMP = Болотные приманки отлично подходят для ловли крупной болотной рыбы, особенно канального сома и длиннорылого панцирника.
+
+MGFSH_EQD_SPECIAL_LURE_LAKE = Особые озерные приманки используются для ловли легендарной рыбы, обитающей в озерах.
+
+MGFSH_EQD_SPECIAL_LURE_RIVER = Особые речные приманки используются для ловли легендарной рыбы, обитающей в реках.
+
+MGFSH_EQD_SPECIAL_LURE_SWAMP = Особые болотные приманки используются для ловли легендарной рыбы, обитающей в болотах.
+
+MGFSH_EQD_SPECIAL_SPINNER = Особая блесна отлично подходит для ловли всей крупной и легендарной рыбы.
+
+MGFSH_EQD_SPECIAL_SPINNER_MP = Особая блесна отлично подходит для ловли всей крупной рыбы.
+
+MGFSH_EQD_WORM = Черви отлично подходят для ловли крупной рыбы, особенно радужной форели, которая живет в крупных реках.
+
+MGFSH_EQ_BAIT1 = Удерживайте ~INPUT_OPEN_WHEEL_MENU~, чтобы использовать селектор наживки.
+
+MGFSH_EQ_BAIT2_ABI1 = ~INPUTGROUP_RADIAL_MENU_NAV~ – выбрать сыр.
+
+MGFSH_EQ_BAIT2_FSH1 = ~INPUTGROUP_RADIAL_MENU_NAV~ – выбрать сверчка.
+
+MGFSH_EQ_BAIT2_FUD1 = ~INPUTGROUP_RADIAL_MENU_NAV~ – выбрать озерную приманку.
+
+MGFSH_EQ_BAIT2_WAR1 = ~INPUTGROUP_RADIAL_MENU_NAV~ – выбрать особую озерную приманку.
+
+MGFSH_EQ_BAIT3_ABI1 = Отпустите ~INPUT_OPEN_WHEEL_MENU~, чтобы взять сыр.
+
+MGFSH_EQ_BAIT3_FSH1 = Отпустите ~INPUT_OPEN_WHEEL_MENU~, чтобы взять сверчка.
+
+MGFSH_EQ_BAIT3_FUD1 = Отпустите ~INPUT_OPEN_WHEEL_MENU~, чтобы использовать озерную приманку.
+
+MGFSH_EQ_BAIT3_WAR1 = Отпустите ~INPUT_OPEN_WHEEL_MENU~, чтобы использовать особую озерную приманку.
+
+MGFSH_EQ_BAIT_ANY = Выберите наживку с помощью ~INPUT_RADIAL_MENU_SLOT_NAV_PREV~ или ~INPUT_RADIAL_MENU_SLOT_NAV_NEXT~, затем отпустите ~INPUT_OPEN_WHEEL_MENU~, чтобы взять ее.
+
+MGFSH_EQ_REBAIT = Нажмите ~INPUT_MINIGAME_FISHING_QUICK_EQUIP~, чтобы быстро достать наживку. ~1~ можно достать в селекторе, удерживая ~INPUT_OPEN_WHEEL_MENU~.
+
+MGFSH_EQ_ROD1 = Чтобы использовать селектор предметов, удерживайте ~INPUT_OPEN_WHEEL_MENU~ и нажмите ~INPUT_SELECT_NEXT_WHEEL~.
+
+MGFSH_EQ_ROD2 = ~INPUTGROUP_RADIAL_MENU_NAV~ – выбрать удочку.
+
+MGFSH_EQ_ROD3 = Отпустите ~INPUT_OPEN_WHEEL_MENU~, чтобы взять удочку.
+
+MGFSH_FISH_ESC1 = Рыба ушла, прихватив наживку. Пока рыба вырывается, контролируйте ее с помощью ~INPUT_MINIGAME_FISHING_LEFT_AXIS_X~, а не вытягивайте леску.
+
+MGFSH_FISH_ESC2 = Леска порвалась и рыба ушла, прихватив приманку. Пока рыба вырывается, контролируйте ее с помощью ~INPUT_MINIGAME_FISHING_LEFT_AXIS_X~, а не вытягивайте леску.
+
+MGFSH_FISH_ESC3 = Рыба ушла. Пока рыба вырывается, контролируйте ее с помощью ~INPUT_MINIGAME_FISHING_LEFT_AXIS_X~, а не вытягивайте леску.
+
+MGFSH_FISH_ESC4 = Рыба умерла.
+
+MGFSH_FLICK_BAIT = Нажмите ~INPUT_ATTACK~, чтобы подергать леской и приманить рыбу. Если вы будете слишком часто подергивать леску, то можете распугать рыбу.
+
+MGFSH_FULL_SAT = У вас в сумке нет места для данного предмета (~1~). Чтобы освободить место, продайте, используйте или выбросьте предмет (~1~).
+
+MGFSH_HNR_REL = Рыба отпущена
+
+MGFSH_HOLD_REEL = Направьте в любую сторону и удерживайте ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL~, чтобы не дать рыбе оттягивать леску. При злоупотреблении этим приемом леска может порваться.
+
+MGFSH_HOLD_REEL_KM = Удерживайте ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ и ~INPUT_MINIGAME_FISHING_MANUAL_REEL_OUT_MODIFER~, чтобы не дать рыбе оттягивать леску. При злоупотреблении этим приемом леска может порваться.
+
+MGFSH_HOOK_FISH_HLP = Нажмите ~INPUT_ATTACK~, чтобы подсечь рыбу, когда почувствуете сильную поклевку. Удочку наклонит вниз.
+
+MGFSH_HOOK_FISH_OBJ = Нажмите ~INPUT_ATTACK|PromptId=CTX_HOOK,Gutter~, чтобы подсечь рыбу, когда почувствуете сильную поклевку.
+
+MGFSH_HOOK_ROD1_HLP = Вываживайте рыбу, используя ~INPUT_MINIGAME_FISHING_LEFT_AXIS_X~, когда она вырывается.
+
+MGFSH_HOOK_ROD1_OBJ = Вываживайте рыбу, используя ~INPUT_MINIGAME_FISHING_LEFT_AXIS_X~, когда она вырывается.
+
+MGFSH_HOOK_ROD2 = Не вытягивайте леску, пока рыба вырывается, иначе леска может порваться.
+
+MGFSH_MISSED_BITE1 = Вы не успели подсечь рыбу.
+
+MGFSH_MISSED_BITE2 = Подождите, пока не почувствуете более резкую поклевку.
+
+MGFSH_NAME_WV2 = Хэмиш
+
+MGFSH_NIBBLE_DESC = Перед поклевкой рыба часто пробует наживку.
+
+MGFSH_OBJECT_REEL = Вращайте ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL|PromptStyle=3~ по часовой стрелке, чтобы подкрутить леску.
+
+MGFSH_OBJECT_REEL_AUTO = Удерживайте ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~, чтобы вытянуть рыбу.
+
+MGFSH_OBJECT_REEL_KM = Удерживайте ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~, чтобы подкручивать леску. Нажмите ~INPUT_MINIGAME_FISHING_REEL_SPEED_UP~, чтобы подкручивать быстрее.
+
+MGFSH_PUMP_ROD = Потяните вниз ~INPUTGROUP_MINIGAME_FISHING_LSTICK_ALL~, чтобы подтянуть рыбу к себе, а затем быстро вытяните леску, чтобы быстрее достать добычу.
+
+MGFSH_PUMP_ROD_KM = Потяните вверх ~INPUTGROUP_MINIGAME_FISHING_LSTICK_ALL~, чтобы подтянуть рыбу к себе, а затем быстро вытяните леску, чтобы быстрее достать добычу.
+
+MGFSH_REEL_FISH_AUTO_HLP = Удерживайте ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~, чтобы вытянуть утомившуюся рыбу.
+
+MGFSH_REEL_FISH_AUTO_OBJ = Удерживайте ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN|PromptId=CTX_REEL~, чтобы вытянуть утомившуюся рыбу.
+
+MGFSH_REEL_FISH_HLP = Быстро вращайте ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL|PromptStyle=3~, чтобы вытянуть утомившуюся рыбу.
+
+MGFSH_REEL_FISH_HLP2_KM = Удерживайте ~INPUT_MINIGAME_FISHING_MANUAL_REEL_OUT_MODIFER~, чтобы раскрутить леску. Нажмите ~INPUT_MINIGAME_FISHING_REEL_SPEED_DOWN~, чтобы крутить медленнее.
+
+MGFSH_REEL_FISH_HLP_KM = Удерживайте ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~, чтобы вытянуть утомившуюся рыбу. Нажмите ~INPUT_MINIGAME_FISHING_REEL_SPEED_UP~, чтобы подкручивать леску быстрее.
+
+MGFSH_REEL_FISH_OBJ = Быстро вращайте ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL|PromptId=CTX_REEL,Gutter,PromptStyle=3~, чтобы вытянуть утомившуюся рыбу.
+
+MGFSH_REEL_FISH_OBJ_KM = Удерживайте ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN|PromptId=CTX_REEL~, чтобы вытянуть утомившуюся рыбу. Нажмите ~INPUT_MINIGAME_FISHING_REEL_SPEED_UP~, чтобы подкручивать леску быстрее.
+
+MGFSH_REEL_OBJ = Нажмите ~INPUT_MINIGAME_FISHING_RESET_CAST~, чтобы перезакинуть снасть.
+
+MGFSH_SPOOL_EMPTY = Вы размотали всю леску. Быстрее подкрутите леску, чтобы она не оборвалась.
+
+MGFSH_STOW_HORSE = Крупную рыбу можно положить на лошадь.
+
+MGFSH_WAIT_LURE_AUTO_HLP = Удерживайте ~INPUT_AIM~ и ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~, чтобы приманить рыбу.
+
+MGFSH_WAIT_LURE_GRIP = Удерживайте ~INPUT_AIM|PromptId=CTX_GRIP,Gutter~, чтобы схватить катушку.
+
+MGFSH_WAIT_LURE_GRIP_TOG = Нажмите ~INPUT_AIM|PromptId=CTX_GRIP,Gutter~, чтобы схватить катушку.
+
+MGFSH_WAIT_LURE_HLP = Удерживайте ~INPUT_AIM~ и медленно поворачивайте ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL|PromptStyle=3~, чтобы привлечь рыбу.
+
+MGFSH_WAIT_LURE_HLP_KM = Удерживайте ~INPUT_AIM~ и ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~, чтобы привлечь рыбу, медленно подкручивая леску. Нажмите ~INPUT_MINIGAME_FISHING_REEL_SPEED_UP~ или ~INPUT_MINIGAME_FISHING_REEL_SPEED_DOWN~, чтобы вытягивать леску быстрее или медленнее.
+
+MGFSH_WAIT_LURE_HOOK = Вращайте ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL|PromptId=CTX_REEL,Gutter,PromptStyle=3~, чтобы привлечь рыбу. При поклевке нажмите ~INPUT_ATTACK|PromptId=CTX_HOOK~.
+
+MGFSH_WAIT_LURE_HOOK_AUTO = Удерживайте ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN|PromptId=CTX_REEL~, чтобы приманить рыбу. При поклевке нажмите ~INPUT_ATTACK|PromptId=CTX_HOOK~.
+
+MGFSH_WAIT_LURE_HOOK_KM = Удерживайте ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN|PromptId=CTX_REEL~, чтобы привлечь рыбу, медленно подкручивая леску. При поклевке нажмите ~INPUT_ATTACK|PromptId=CTX_HOOK~.
+
+MGFSH_WAIT_LURE_TOG_AUTO_HLP = Удерживайте ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~, чтобы приманить рыбу.
+
+MGFSH_WAIT_LURE_TOG_HLP = Нажмите ~INPUT_AIM~ и медленно поворачивайте ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL|PromptStyle=3~, чтобы привлечь рыбу.
+
+MGFSH_WAIT_LURE_TOG_HLP_KM = Удерживайте ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~, чтобы привлечь рыбу, медленно подкручивая леску. Нажмите ~INPUT_MINIGAME_FISHING_REEL_SPEED_UP~ или ~INPUT_MINIGAME_FISHING_REEL_SPEED_DOWN~, чтобы вытягивать леску быстрее или медленнее.
+

@@ -1,0 +1,620 @@
+0x011C8987 = ~z~Are you insane? Stop that!
+
+0x0134C843 = ~z~Ah come on... I don't have all day for this.
+
+0x01B67869 = ~z~One more now, and then everybody is safe at last.
+
+0x0315CED2 = ~z~One last one. And then you get pay.
+
+0x044C76E7 = ~z~~sl:0.0:2.4~What magnificent creatures.~sl:~You have kept your word, and we will keep our promise.
+
+0x064BC50C = ~z~Bene, bene. One more.
+
+0x06773E72 = ~z~Alright. Go find the last wagon.
+
+0x06DA8AF9 = ~z~I'll take the wagon from here. Grazie.
+
+0x08BD067A = ~z~There's one more. Did you see them before? Please, go now and get them.
+
+0x0905DB51 = ~z~You made it.
+
+0x09068FB7 = ~z~He's back, huh? Well he's lucky to have you.
+
+0x099C5440 = ~z~~sl:0.0:2.3~Were you ever tempted to run away with these?~sl:0.9~No, on second thoughts... don't tell me...
+
+0x09F0FAE4 = ~z~~sl:0.0:2.6~You're back. Good, good.~sl:0.6~This bastard has a lot to answer for.
+
+0x09FEE3F2 = ~z~Good, good. That's the last one.
+
+0x0B5D21EC = ~z~~sl:1.0~A beautiful piece. Very nice.
+
+0x0B758A0B = ~z~Why are you waiting? Show me what you have brought.
+
+0x0C37478E = ~z~Well, that wagon looks like the final one. Nice work.
+
+0x0D2F6E86 = ~z~Hurry now and get the rest.
+
+0x0DD2ABBD = ~z~Last one, yes? We will take them from here.
+
+0x0E7CE63F = ~z~Good timing!
+
+0x0F28BFD7 = ~z~Seems you have lost a driver, my friend.
+
+0x0F738D31 = ~z~I could not have asked for finer horses.
+
+0x1A554C7C = ~z~I am not sensing a lot of urgency here.
+
+0x1B232966 = ~z~Hand me that, will you? I can live without the suspense.
+
+0x1B278647 = ~z~That's every last one. Good work.
+
+0x1BD6C7BD = ~z~Excellent. I believe, that is the last.
+
+0x1C31A96B = ~z~~sl:1.1:2.6~I did not know if you would make it.~sl:0.4~Good to see all of you so well.
+
+0x1DA27C4C = ~z~~sl:0.0:1.9~You make this look so easy.~sl:0.5~Although, for items like these, I imagine it was harder than it looks.
+
+0x1E079E19 = ~z~Look at that, an impressive animal. Good work.
+
+0x1F06A353 = ~z~Very good, my friend. I knew you would get it.
+
+0x1F804F18 = ~z~And this is the final one. Grazie.
+
+0x1FB746BC = ~z~Stop it!
+
+0x2B5E38C6 = ~z~~sl:1.0~What a horse!
+
+0x2B33BBF2 = ~z~~sl:0.0:4.3~Ah, the bloodstained Ember of the East.~sl:0.4~You added to its history today, my friend.
+
+0x2BE0556A = ~z~If I were him, I would be kissing your boots.
+
+0x2D0BEA27 = ~z~Well, that's all of them. Good work, very good work.
+
+0x2D40CF81 = ~z~We're still missing one other person. Find them, per favore.
+
+0x2E634DCE = ~z~~sl:0.0:0.8~There now.~sl:0.8~We can all stop worrying about you all, eh?
+
+0x2EDAE503 = ~z~Hey, you are asking for trouble, my friend.
+
+0x2F79CF6B = ~z~Grazie. A last rat for the pile.
+
+0x2FF2EB17 = ~z~~sl:0.0:3.2~You know, an item like this is priceless.~sl:0.5~Well, for the unimaginative.
+
+0x3B1EE48B = ~z~~sl:0.0:2.1~Look at these! I must say...~sl:0.9~I'm impressed.
+
+0x3B3D4F68 = ~z~Yes. That's the last one.
+
+0x3B37BEC9 = ~z~Our little problem is almost solved. Just one more to go.
+
+0x3B966C2C = ~z~There's still one more out there.
+
+0x3BD2DCEB = ~z~Excellent. That's what we need.
+
+0x3E64EDD1 = ~z~To see you all back safely, that is a relief.
+
+0x3EB06DD8 = ~z~Ah I knew you would not disappoint us. That's the last one.
+
+0x4B526690 = ~z~What is it you say? “Last but not least”.
+
+0x4DC6FA0A = ~z~That is just what we need. Good work.
+
+0x5A2831F9 = ~z~Good. For a moment there, I thought we might not see him again.
+
+0x5D03805D = ~z~Just one more, yes?
+
+0x5D0C8A04 = ~z~Last one? Good work, my friend.
+
+0x5FF29E59 = ~z~That's a good collection. You've done well.
+
+0x6AB158EB = ~z~~sl:0.0:2.4~The important thing is the wagon is here.~sl:0.0:1.7~And you are here also,~sl:~but the wagon is, um... more valuable.
+
+0x6C1548CD = ~z~What dirt have you picked up off the road, huh?
+
+0x6D55FD67 = ~z~Hurry with the others, will you? This one already stinks.
+
+0x6D7116AA = ~z~~sl:0.0:1.8~And there she is.~sl:~Good to see her safely returned.
+
+0x6E388584 = ~z~~sl:0.0:1.6~Good work, my friend.~sl:~That's everyone accounted for.
+
+0x6F002941 = ~z~~sl:0.0:4.3~A very good start. My employers will be pleased.~sl:~Now bring me the rest.
+
+0x6F725C89 = ~z~Well, I must admit I'm relieved to see him. Thank you.
+
+0x7D70EB84 = ~z~~sl:0.0:4.7~As... criminali go, this group is second-rate.~sl:0.8~Even “criminal” is too generous a title.
+
+0x7E0B97BD = ~z~Try not to get hurt.
+
+0x7EE38776 = ~z~~sl:0.0:2.2~Alright. So that's one.~sl:0.4~Bring the others and we will see about your payment.
+
+0x7EE87830 = ~z~~sl:0.0:1.6~There is one more out there.~sl:1.0~You know what to do.
+
+0x7F273A16 = ~z~~sl:0.0:2.4~Let me say thank you, from all of us.~sl:0.6~Her safety was of great importance.
+
+0x7F76407B = ~z~Just one more delivery, my friend.
+
+0x8ABD6E61 = ~z~Excellent work. We'll make good use of these boats, I'm certain.
+
+0x8BD53350 = ~z~Stay sharp on the road.
+
+0x8D1A8655 = ~z~Until next time, my friend.
+
+0x8DA2A5FF = ~z~~sl:0.0:1.4~Good.~sl:~She will not make any more trouble.
+
+0x8DEEC017 = ~z~You have the emerald? Incredible!
+
+0x8F2E8F03 = ~z~I have been waiting for you all so eagerly.
+
+0x8F4E7789 = ~z~Grazie. You've done good work.
+
+0x8F59BE57 = ~z~Good. He's no use to anyone alive.
+
+0x9A757B40 = ~z~Last one, and then that is us. Finito.
+
+0x9B7C803C = ~z~All is well, I hope?
+
+0x9C327EB6 = ~z~Good. Now bring me the last one.
+
+0x9CF23D6C = ~z~Ah, you are alright. I'm very glad to see it.
+
+0x9D6D387E = ~z~Now, this is one lucky man. Good work, bringing him to us.
+
+0x9D2859F4 = ~z~~sl:1.6~His time had come, huh?
+
+0x9D9143C2 = ~z~~sl:0.0:1.6~Why are you here?~sl:0.4~There's still work to be done, my friend.
+
+0x9D911544 = ~z~That is everything accounted for. Grazie.
+
+0x9F84AB29 = ~z~We will work together again soon, I'm certain of it.
+
+0x10DCAF7A = ~z~The law? Al diavolo! Get them out of here!
+
+0x13E9C772 = ~z~I'm very glad that boat made it back here.
+
+0x14BE61F1 = ~z~Good work. Just one left.
+
+0x18D3E0C7 = ~z~That's the last, and you made it look so easy.
+
+0x18F96904 = ~z~Quantity and quality, huh?
+
+0x18FE0AE4 = ~z~You brought all the boats? Well done.
+
+0x19B2A1AF = ~z~~sl:0.0:1.6~What a team you have brought.~sl:0.9~Fine work.
+
+0x20AD4C8C = ~z~Good, good. This is just what we were hoping for.
+
+0x20D120DF = ~z~~sl:0.0:3.2~Il Sovrano! Of all the treasures...~sl:0.4~I could never have thought I'd have one like this in my presence,
+
+0x28CED22E = ~z~~sl:0.0:4.3~Well, I would say society has benefited greatly~sl:0.0:1.5~from your work today.~sl:1.0~Would you not agree?
+
+0x29B374EC = ~z~Where's the driver? Ah... non importa...
+
+0x30AC4BD8 = ~z~Now we almost have a full stable, huh?
+
+0x30F8C3FB = ~z~~sl:0.0:1.5~Good, good.~sl:1.2~That's a fine horse.
+
+0x32A80A77 = ~z~~sl:0.0:2.3~The look on Covington's face~sl:~when he hears about this will be just as priceless.
+
+0x36BBA7E7 = ~z~This is the first? What a prize!
+
+0x43C7913F = ~z~A very good start. Now... bring the rest.
+
+0x48F25A3E = ~z~One more body, that is all. Don't let them escape.
+
+0x62C090DA = ~z~A good start, my friend. Now for the rest.
+
+0x70A0CD5E = ~z~Good luck out there, my friend.
+
+0x70BF27D4 = ~z~You're almost done, my friend. One more.
+
+0x73B54CAB = ~z~You have what we asked for? Good.
+
+0x75C72D1D = ~z~Just one more delivery like this.
+
+0x76CA2803 = ~z~Yes, this is a strong horse. I'll be glad when we have them all.
+
+0x79A392EB = ~z~You put him out of his misery.
+
+0x81D4DDC0 = ~z~~sl:0.0:1.4~Nice work, my friend.~sl:0.6~Leave her here and go get the others now.
+
+0x82C75579 = ~z~Looks like you're all done, my friend. That was the last one.
+
+0x82D1F1C0 = ~z~Pleasure doing business with you.
+
+0x85DE8604 = ~z~~sl:0.0:2.9~Another one huh? That means...~sl:1.2~Yes. Just one more.
+
+0x86E140A7 = ~z~You are as good as they say.
+
+0x87AE88D4 = ~z~~sl:0.0:0.6~You did it.~sl:1.3~I do not want to know how...
+
+0x88C739C5 = ~z~Just one more now.
+
+0x89B6B628 = ~z~Now go find the rest. This one cannot cause any trouble now.
+
+0x105FCFAD = ~z~Where are your friends? Alive, I hope.
+
+0x131C0050 = ~z~~sl:0.0:1.9~The first boat? Good.~sl:1.0~Go find the rest.
+
+0x134B0513 = ~z~These will do just fine. Grazie.
+
+0x170BA317 = ~z~The last one must still be out there. I hope they are alive...
+
+0x240D028A = ~z~Bene. I hope the others are just as magnificent.
+
+0x255D86B4 = ~z~She's safe? Thank you, thank you.
+
+0x270EFB92 = ~z~That's the last one.
+
+0x340A899A = ~z~~sl:0.0:2.1~The driver was dead weight, huh?~sl:0.9~No great loss.
+
+0x365F46D6 = ~z~~sl:0.0:1.5~You brought a boat, huh?~sl:0.5~Well, I hope the others will be as sturdy.
+
+0x371BFC14 = ~z~Idiota! Why are the law here?
+
+0x516CD1F8 = ~z~That looks like the last wagon. Job done, huh?
+
+0x525B1559 = ~z~~sl:0.0:1.4~Did they give you trouble?~sl:0.6~Because it will be returned, tenfold.
+
+0x528BD404 = ~z~My friend, you need more loyal associates...
+
+0x535B972E = ~z~Another soul sent to heaven. Not likely.
+
+0x599ABBD2 = ~z~Why are you here? No second thoughts, I hope.
+
+0x608E3223 = ~z~All okay? Good, good.
+
+0x620D3491 = ~z~So that's the last one, huh? You have done very good work, my friend.
+
+0x640EA240 = ~z~~sl:0.0:2.1~That's quite the haul we have now.~sl:0.5~Appreciated, my friend. I will commend you for your efforts.
+
+0x647BD194 = ~z~What's wrong? Not a coward, are you?
+
+0x655DF9A8 = ~z~You are alone? Why?
+
+0x665A86E1 = ~z~Good. You get the rest. I'll be waiting here.
+
+0x665E3B09 = ~z~~sl:0.0:2.0~Hmm, yes.~sl:0.6~They are perfect!
+
+0x684FF07C = ~z~Well... I can't say I'll miss his conversation.
+
+0x817B5BE3 = ~z~Alright that's it. And now? Riposati, eh?
+
+0x851AFB3C = ~z~Safe at last. I'm so glad to see it.
+
+0x869B52FE = ~z~I am a patient man. But I'm not that patient...
+
+0x871E11C4 = ~z~Ah, bene! The cargo is fine, and you are fine.
+
+0x919BE4C6 = ~z~Ah we almost have what we need. One more batch.
+
+0x1001E5DD = ~z~~sl:0.0:2.3~Are you trying to get on my nerves?~sl:1.2~Because it's working.
+
+0x1508A452 = ~z~Good, that's nearly all the bastards. Just one left now.
+
+0x1776D073 = ~z~Well, we'd rather lose the driver than the goods, eh?
+
+0x1933A2DF = ~z~That's the last. I hope there is enough room in the ground.
+
+0x2990AC0F = ~z~That's everything we need.
+
+0x3109D2B7 = ~z~~sl:0.0:4.0~Look at them all. Artless degenerates.~sl:~You have done the world a favor.
+
+0x4339B560 = ~z~Have you fallen out with your friends?
+
+0x4436E285 = ~z~~sl:0.0:3.3~You think you can get the others without capsizing them?~sl:0.7~Well, go on and show me.
+
+0x5394B25A = ~z~~sl:0.0:2.6~Now this, is a work of art.~sl:0.4~And now, it's our work of art.
+
+0x5808D2CD = ~z~That's one, but there are more out there. Deal with them.
+
+0x6487E0E0 = ~z~~sl:0.0:1.2~Catching your breath?~sl:0.9~Sensible I suppose...
+
+0x7256EE5D = ~z~~sl:0.0:2.7~Just imagine what this could sell for.~sl:0.6~But first, I need the others.
+
+0x8172E826 = ~z~Ah. You have it? Wonderful.
+
+0x9678EF65 = ~z~~sl:0.0:1.2~This is good, huh?~sl:1.2~You must get the others now.
+
+0x37141D47 = ~z~Alright. That's all the wagons we need.
+
+0x44295C79 = ~z~Some more and we will have what we need.
+
+0x64788A80 = ~z~Excellent. One more delivery and your work is done.
+
+0x67754C83 = ~z~Ah ha, I am glad to see these wagons delivered in one piece.
+
+0x205081A8 = ~z~Ah, some very valuable pieces here, my friend.
+
+0x254273A1 = ~z~~sl:0.0:1.6~I believe that's everyone now.~sl:0.9~They owe you for what you have done.
+
+0x449493E0 = ~z~~sl:0.0:2.5~Do not pity her, my friend.~sl:0.7~She does not deserve it.
+
+0x480918AF = ~z~I thought the job was clear, no?
+
+0x2156628A = ~z~~sl:0.0:1.9~I am certain someone,~sl:~somewhere will say a prayer for him. But it won't be us.
+
+0x2743276E = ~z~I'm impressed. These boats will be very useful.
+
+0x3198121D = ~z~I thought you had a posse, no? Where are they?
+
+0x9183429F = ~z~Ah she's sturdy, huh? Thank you.
+
+0x11897467 = ~z~Ah you found her. Excellent.
+
+0x49907866 = ~z~Got it? Grazie.
+
+0x53056203 = ~z~~sl:0.0:3.0~I knew we could count on you to bring her back.~sl:0.5~Thank you, my friend.
+
+0x74663425 = ~z~Quite the load. Keep up the fine work.
+
+0x76507757 = ~z~~sl:0.0:4.6~Bene. A bullet to the head sent her a clear message...~sl:0.6~don't you agree?
+
+0xA2EE7762 = ~z~One more and you will be done.
+
+0xA5A185B1 = ~z~Alright, now we need the others.
+
+0xA7A88670 = ~z~All this? Very impressive!
+
+0xA7BB181E = ~z~Alright, there is still one more out there. Bring them to me.
+
+0xA7C8DA4B = ~z~~sl:0.0:2.0~It is done then? Good.~sl:0.7~She had been running from death for far too long.
+
+0xA9C68C03 = ~z~Good. One more boat and we'll be done.
+
+0xA466EB88 = ~z~You leave this one with me and go get the others.
+
+0xA660AB73 = ~z~A wagon already? Bravo.
+
+0xA748A777 = ~z~I knew you would get those boats. Grazie.
+
+0xA922DBF4 = ~z~~sl:0.0:1.1~A fine start.~sl:0.4~You know, people would kill for this. Did they try?
+
+0xA7446E21 = ~z~You brought the boat? No leaks I hope?
+
+0xA72010B3 = ~z~~sl:0.0:2.1~I'm so glad to see them alive...~sl:0.7~but the others are still out there.
+
+0xAA0F54B5 = ~z~At last. They will get what they deserve, trust me.
+
+0xAAF2B007 = ~z~Last batch? Bravo, my friend.
+
+0xAB80417E = ~z~Good, good. One more to go.
+
+0xAB870484 = ~z~She's the last, if I am correct.
+
+0xABE3ABEC = ~z~~sl:0.0:1.4~Just a few more...~sl:~and that will be everything accounted for.
+
+0xAF5FE75F = ~z~Is there a problem? Why are you back here?
+
+0xB062DE5D = ~z~A whole caravan, huh?
+
+0xB0811B2D = ~z~Ah already? I hope the others are not far behind.
+
+0xB1AC4564 = ~z~Bravo! What a creature.
+
+0xB1B90BA4 = ~z~~sl:0.0:3.1~Good, good. We're nearly done.~sl:1.0~One more.
+
+0xB5D222C3 = ~z~You have made short work of this, my friend.
+
+0xB6BD9B05 = ~z~My friend, you are alone. What happened?
+
+0xB8FAB468 = ~z~~sl:0.0:1.6~Now we just need the others.~sl:0.7~Go find them.
+
+0xB9EEBC85 = ~z~One left. You get them, then we are satisfied.
+
+0xB37DACD6 = ~z~~sl:0.0:1.8~What, you are having second thoughts now?~sl:0.6~Come on.
+
+0xB43B65B0 = ~z~That's the wagon? Alright.
+
+0xB71A1752 = ~z~~sl:0.0:1.8~That's the last one safe.~sl:0.8~Grazie a dio.
+
+0xB82DA1DC = ~z~Just one more now, my friend.
+
+0xB97E7CAB = ~z~~sl:0.0:1.5~This is perfect.~sl:0.7~Now... we just need more.
+
+0xB476BA43 = ~z~~sl:0.0:1.9~You brought her? Good.~sl:0.9~We have a lot to discuss...
+
+0xB767F257 = ~z~~sl:0.0:2.2~It seems you made it without too many problems.~sl:0.7~Very good.
+
+0xB954A01F = ~z~Alright. We have all the boats we need.
+
+0xB6631FAE = ~z~You did well. Thank you.
+
+0xB58543F0 = ~z~Ah, the boats. They're in good condition, no?
+
+0xB814289E = ~z~Get me another and we'll be finished here.
+
+0xBA54613C = ~z~Until the next job. Adios.
+
+0xBA280212 = ~z~~sl:0.0:2.8~You thought it wise to bring the law here?~sl:0.5~What is wrong with you?
+
+0xBADBF34F = ~z~You brought the whole train? Very good.
+
+0xBB143053 = ~z~~sl:0.0:4.3~Go get the others. I'll take very good care of this one.~sl:1.1~You hear that, huh? Imbecille...
+
+0xBCCB730D = ~z~~sl:0.0:1.7~Hmm, hmm...~sl:0.5~that solves our problem then, huh?
+
+0xBD32E4E3 = ~z~Alright. Bring the last one and we will call it a day.
+
+0xBFA04A84 = ~z~~sl:0.0:3.1~Alright, alright. Good start...~sl:0.9~but where is the rest?
+
+0xC7A5ED9A = ~z~Ah good. They all add up, my friend.
+
+0xC8B63A8A = ~z~They are safe now. At last, we can rest easy.
+
+0xC8E2631A = ~z~~sl:0.0:2.9~Well, well. That's a sight.~sl:0.8~I can promise she will get the treatment she deserves.
+
+0xC9D51AF9 = ~z~You're crazy!
+
+0xC9FF457F = ~z~The last one is still out there? Well, hurry. Hurry.
+
+0xC49D89D1 = ~z~The last. Well done.
+
+0xC86E7810 = ~z~~sl:0.0:1.0~Look at him.~sl:1.7~What a piece of work.
+
+0xC374AF1B = ~z~One more, my friend. And then you can rest, huh?
+
+0xC584BDF1 = ~z~My friend, thank you for this.
+
+0xC907F0C1 = ~z~Perfect. Now, can you take care of the rest.
+
+0xC3660463 = ~z~All done? Wonderful!
+
+0xCB9CD9AC = ~z~~sl:0.0:1.0~And the others?~sl:0.5~Quickly, quickly. There's no time to spare.
+
+0xCBBFB324 = ~z~Take care.
+
+0xCD36C7F7 = ~z~Was your friend slowing you down, huh?
+
+0xCEB18466 = ~z~~sl:1.3:1.9~Just look at this mess of a man.~sl:1.1~I hope he behaved himself.
+
+0xCF1359ED = ~z~~sl:1.1~Grazie a dio. She's safe!
+
+0xCFE779F0 = ~z~That must be the last batch, yes? Very good work.
+
+0xD08D9E60 = ~z~Good driving, my friend.
+
+0xD1B13B39 = ~z~You had better go if you want to make good time.
+
+0xD1D45DD3 = ~z~~sl:0.0:1.7~Now, the rest.~sl:0.9~I don't care how... just get them.
+
+0xD1E84C02 = ~z~~sl:0.0:1.4~You are nearly finished.~sl:0.8~One more and you are done.
+
+0xD3C9AB1A = ~z~~sl:0.0:3.5~Well, I expected some casualties, but...~sl:~you seem alright, no?
+
+0xD3DF060C = ~z~Ah you have them all? Such efficient work.
+
+0xD4E12A58 = ~z~~sl:0.0:2.6~That's the last of these dogs.~sl:~We certainly owe you for such swift work.
+
+0xD8E5CD70 = ~z~Watch how you go.
+
+0xD40B5F35 = ~z~You brought it all? Good, good.
+
+0xD189EE57 = ~z~~sl:0.0:2.5~Well, you aren't holding back with all of this, huh?~sl:0.4~Keep going.
+
+0xD711DB99 = ~z~And that's the last. Good work, my friend.
+
+0xD3736D3B = ~z~~sl:0.0:0.8~This is good.~sl:0.8~One more and we will be finished.
+
+0xD3536114 = ~z~Wonderful, wonderful. And the others are coming, yes?
+
+0xDA87DE2D = ~z~~sl:0.0:3.5~Grazie mille. We are so very grateful.~sl:~That was the last one.
+
+0xDB5DC174 = ~z~~sl:0.0:1.8~She would have known...~sl:0.4~you do not act that way and expect to live a long and happy life.
+
+0xDB9DBE8A = ~z~What's wrong with you? Stop!
+
+0xDB9344E8 = ~z~~sl:0.0:2.1~You had better get the law out of here~sl:~if you don't want serious trouble.
+
+0xDC9D203D = ~z~~sl:0.0:1.9~You got him? Good.~sl:0.8~One less animal running wild, huh?
+
+0xDC842C29 = ~z~You have what was requested? Well, let me see.
+
+0xDCB7E6E5 = ~z~That's the last boat. I hope you didn't get too wet, huh?
+
+0xDD507D13 = ~z~~sl:0.0:1.5~Alright, that's one.~sl:0.6~But the others still need your help.
+
+0xDDAF0138 = ~z~Well, uh... what are you waiting for?
+
+0xDDC8F407 = ~z~Excellent. Just one more now.
+
+0xDE745C88 = ~z~Bene. You did a good job getting that boat here.
+
+0xDED11C53 = ~z~Back with a wagon? Good. Now for the rest.
+
+0xDF08288D = ~z~Just one more, my friend.
+
+0xDF8EF948 = ~z~~sl:0.0:2.6~Alright. That's one.~sl:0.8~Now for the rest...
+
+0xDF348FBE = ~z~Grazie. I will take her from here.
+
+0xE0851532 = ~z~~sl:0.0:1.7~Well, it doesn't look like much...~sl:0.5:2.7~but you would be surprised how far it goes.~sl:0.6~Bring more, and you'll see.
+
+0xE3E9DFAA = ~z~You are not so quick off the mark, are you?
+
+0xE6CCCE2F = ~z~~sl:0.0:1.2~That's the last of them?~sl:1.3~Look at that. Pezzo di merda.
+
+0xE7A6FCC3 = ~z~Where is your associate?
+
+0xE8BE8893 = ~z~Well, all of this looks very nice to me. Good work.
+
+0xE8D1C4C0 = ~z~I thought you were a person of action? Come on, hand it over.
+
+0xE9B800F9 = ~z~Ciao! Oh... your friend is not with you?
+
+0xE60A0D9D = ~z~Another load, and then you are done.
+
+0xE63C681D = ~z~Take care of yourself.
+
+0xE94B139E = ~z~~sl:0.0:2.8~Wonderful! Good for us.~sl:1.0~Not so good for the people you stole from.
+
+0xE151E55D = ~z~This is a good start. Now for the rest...
+
+0xE181BC79 = ~z~~sl:0.0:4.1~I must say, I am impressed you dealt with them all.~sl:1.0~Not that I would ever doubt your skill.
+
+0xE411FB0B = ~z~It's been good working with you. Thank you.
+
+0xE44870C2 = ~z~Let me see... Looks like we only need one more.
+
+0xE672162A = ~z~Good to see you.
+
+0xEC69E695 = ~z~Va via! Go away! Don't bring the law here, you fool.
+
+0xEC5029F5 = ~z~There she is. Good work.
+
+0xECEB571B = ~z~Very nice. It looks in good shape.
+
+0xED8EB9CE = ~z~That one looks good. I hope the others arrive in the same condition.
+
+0xEF93589C = ~z~~sl:0.0:1.6~Work is work, my friend...~sl:0.7~no matter how many bodies are in the pile.
+
+0xF0A05B86 = ~z~~sl:0.0:3.0~Good. If you can bring the last one,~sl:~we will have all the rats.
+
+0xF2B53E59 = ~z~I checked, and that's the last.
+
+0xF4A0B287 = ~z~That's what I like to see.
+
+0xF4CA4D7D = ~z~~sl:0.0:2.3~Alright, alright, that's a good start.~sl:0.6~Now for the other boats.
+
+0xF6A8606D = ~z~Bring it here and do not waste anymore of my time.
+
+0xF6FBCD35 = ~z~~sl:0.0:1.4~let alone in my hands.~sl:0.5~You have done well, my friend.
+
+0xF9BA0B46 = ~z~Oh, please do not let me rush you, huh?
+
+0xF9C4DE06 = ~z~Only one left, and then your work is done.
+
+0xF19EE0D4 = ~z~Hmm yes. That is all of them, my friend.
+
+0xF22D3882 = ~z~Alright, it's a start. Now... for the rest.
+
+0xF34CC54A = ~z~Alright, leave that one and go find the rest. Quickly now.
+
+0xF48C9A9D = ~z~You are nearly done. One more wagon, I believe.
+
+0xF965EC41 = ~z~~sl:0.0:2.0~Good. You got them.~sl:1.4~Whether they are breathing is not my concern.
+
+0xFA47F1D4 = ~z~~sl:0.0:2.5~I must admit, I was worried about the wagon.~sl:0.9~You, not so much.
+
+0xFAA3D752 = ~z~~sl:0.0:1.3~That is a real beauty.~sl:1.1~You did well.
+
+0xFAE84FF1 = ~z~~sl:0.0:3.3~Alright, that looks like everything we need.~sl:0.7~Your work won't go unappreciated, I promise that.
+
+0xFAF58603 = ~z~This must be the last. Our thanks to you, my friend.
+
+0xFB05B713 = ~z~~sl:1.6~These will be sorely missed, I am sure of it.
+
+0xFB6DA464 = ~z~Your associate, what happened to them?
+
+0xFC4C5F9B = ~z~~sl:0.0:3.8~This ends well for you, my friend. But for him?~sl:1.3~This ends bad. Very very bad...
+
+0xFCD31B2C = ~z~~sl:0.0:0.9~A casualty?~sl:1.3:1.4~In truth,~sl:~I feel the cargo was worth more than the driver, so...
+
+0xFD108553 = ~z~~sl:0.0:3.7~Ah, whoever lost this must be heartbroken.~sl:1.8~I sympathize, I do.
+
+0xFE0C2B38 = ~z~You got it? Good. Then we're finished here.
+
+0xFE239BE6 = ~z~That boat will be put to good use. Grazie.
+
+0xFF8EB204 = ~z~Grazie, my friend.
+
+0xFFD3F9ED = ~z~~sl:0.0:3.0~You nearly have them all, my friend.~sl:0.8~One left.
+

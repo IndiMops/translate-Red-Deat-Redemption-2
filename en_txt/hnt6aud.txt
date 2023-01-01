@@ -1,0 +1,278 @@
+HUNT06_ALERTRUN_1 = ~z~Sorry, Arthur, you're on your own!
+
+HUNT06_COMEON_01 = ~z~Pull in just behind you.
+
+HUNT06_COMEON_02 = ~z~Bring her ashore, then.
+
+HUNT06_COMEON_03 = ~z~A bit further, go on.
+
+HUNT06_CONGRAT_1 = ~z~What did I tell you?
+
+HUNT06_CONGRAT_2 = ~z~Okay, come on. Let's try another hole.
+
+HUNT06_DAWD1_01 = ~z~You coming, Arthur?
+
+HUNT06_DAWD1_02 = ~z~Let's go.
+
+HUNT06_DAWD1_03 = ~z~What's wrong?
+
+HUNT06_DAWD1_04 = ~z~What are you waiting for?
+
+HUNT06_DAWD1_05 = ~z~Come on, Arthur.
+
+HUNT06_DAWD2_01 = ~z~You're not squeamish, are you?
+
+HUNT06_DAWD2_02 = ~z~Best not to think about it too much.
+
+HUNT06_DAWD2_03 = ~z~It's alright, they don't really bite.
+
+HUNT06_DAWD3_01 = ~z~Feel anything?
+
+HUNT06_DAWD3_02 = ~z~Go nice and deep.
+
+HUNT06_DAWD3_03 = ~z~Any luck?
+
+HUNT06_DAWD3_04 = ~z~Find anything?
+
+HUNT06_DAWD3_05 = ~z~Soon as you feel one, grab it.
+
+HUNT06_DAWD4_01 = ~z~You know the drill now.
+
+HUNT06_DAWD4_02 = ~z~I bet there's more in there.
+
+HUNT06_DAWD4_03 = ~z~Go on, one more squelch down there can't hurt.
+
+HUNT06_DISTKILL_1 = ~z~If that's how you're going to be, you're on your own! I'm heading back!
+
+HUNT06_EXT_1 = ~z~That was fun...
+
+HUNT06_EXT_2 = ~z~I must get out more.
+
+HUNT06_EXT_3 = ~z~Is that your idea of fun, is it?
+
+HUNT06_EXT_4 = ~z~Thank you.
+
+HUNT06_EXT_5 = ~z~Here, have some crawfish...
+
+HUNT06_EXT_6 = ~z~and give me some of those eggs.
+
+HUNT06_EXT_7 = ~z~Hey, maybe you could hatch that...
+
+HUNT06_EXT_8 = ~z~get yourself a new friend.
+
+HUNT06_EXT_9 = ~z~There's a thought...
+
+HUNT06_EXT_10 = ~z~a new reptilian best buddy...
+
+HUNT06_EXT_11 = ~z~to replace Micah, I suppose.
+
+HUNT06_EXT_12 = ~z~Yeah.
+
+HUNT06_GOHOME_1 = ~z~Alright, sir, take us back to the dock.
+
+HUNT06_GRAB1_1 = ~z~Got something.
+
+HUNT06_GRAB2_1 = ~z~There we go.
+
+HUNT06_GUMBO_1 = ~z~Won't be much of a gumbo if we don't find some more.
+
+HUNT06_HURRY_1 = ~z~I'm over here in the boat, Mr. Morgan.
+
+HUNT06_IG1_A_1 = ~z~Pull us in over there.
+
+HUNT06_IG1_A_2 = ~z~Here?
+
+HUNT06_IG1_A_3 = ~z~Yeah, yeah, come on.
+
+HUNT06_IG1_B_1 = ~z~You know... there's more than crayfish in these waters.
+
+HUNT06_IG1_B_2 = ~z~Stop your whining, please. It's beneath you.
+
+HUNT06_IG2_A_1 = ~z~This is the place, now tell me, Arthur, have you ever birthed a cow?
+
+HUNT06_IG2_A_2 = ~z~No.
+
+HUNT06_IG2_A_3 = ~z~Well it's nothing like that, but it's equally as gruesome if you're squeamish.
+
+HUNT06_IG2_B_1 = ~z~Now, do you see this hole?
+
+HUNT06_IG2_B_2 = ~z~Yep.
+
+HUNT06_IG2_B_3 = ~z~Well, it's sort of like a natural trap... just wanna stick your hand in, watch...
+
+HUNT06_IG2_B_4 = ~z~And there! There, you see?
+
+HUNT06_IG2_B_5 = ~z~Good... seems easy enough.
+
+HUNT06_IG2_B_6 = ~z~Let's go find another hole.
+
+HUNT06_IG3_1 = ~z~Get down... get down!
+
+HUNT06_IG3_2 = ~z~Talking of other creatures... there.
+
+HUNT06_IG3_3 = ~z~Those Gators?
+
+HUNT06_IG3_4 = ~z~Yeah... three, and they're female... must be guarding nests.
+
+HUNT06_IG3_5 = ~z~So...
+
+HUNT06_IG3_6 = ~z~Gator eggs... really valuable, even better eating, I love cooking with them...
+
+HUNT06_IG3_7 = ~z~Okay...
+
+HUNT06_IG3_8 = ~z~Tell you what... I'm gonna sneak over to the other side of them, draw their attention, and then run like hell.
+
+HUNT06_IG3_9 = ~z~Now, assuming I don't get eaten, you go plunder the nests.
+
+HUNT06_IG3_10 = ~z~That's your plan? You're madder than I thought.
+
+HUNT06_IG3_11 = ~z~I've done before, in Sumatra, It's easy.
+
+HUNT06_IG3_12 = ~z~I've heard that line before...
+
+HUNT06_IG3_13 = ~z~Oh ye of little faith... wait here, Mr. Morgan.
+
+HUNT06_IG4_P1_1 = ~z~Yah, yeah! Come on!
+
+HUNT06_IG4_P1_2 = ~z~Yah, yeehaw... come on!
+
+HUNT06_IG4_P1_3 = ~z~Follow me you big dumb monsters!
+
+HUNT06_IG4_P1_4 = ~z~
+
+HUNT06_IKNAP_1 = ~z~Head for those trees across from us and we'll take a look. On the starboard-side.
+
+HUNT06_IKNAP_2 = ~z~The what?
+
+HUNT06_IKNAP_3 = ~z~My right, your left. This is a boat, Arthur.
+
+HUNT06_IKNAP_4 = ~z~Okay... whatever you say.
+
+HUNT06_INT_1 = ~z~Enough of that old man nonsense...
+
+HUNT06_INT_2 = ~z~I'm in the prime of my life.
+
+HUNT06_INT_3 = ~z~Oh, I'm sorry.
+
+HUNT06_INT_4 = ~z~How you getting on?
+
+HUNT06_INT_5 = ~z~Bored.
+
+HUNT06_INT_6 = ~z~You see that swamp, Arthur?
+
+HUNT06_INT_7 = ~z~That's God's own pantry...
+
+HUNT06_INT_8 = ~z~and what are we eating?
+
+HUNT06_INT_9 = ~z~Venison?
+
+HUNT06_INT_10 = ~z~Come on, let's go gather some crawfish...
+
+HUNT06_INT_11 = ~z~see what else we can get.
+
+HUNT06_INT_12 = ~z~Crawfish?
+
+HUNT06_INT_13 = ~z~Yeah, crawfish...
+
+HUNT06_INT_14 = ~z~finest eating there is.
+
+HUNT06_INT_15 = ~z~It's not just crawfish...
+
+HUNT06_INT_16 = ~z~No, there's monsters out there...
+
+HUNT06_INT_17 = ~z~that'll eat a feller for fun.
+
+HUNT06_INT_18 = ~z~Oh, Arthur...
+
+HUNT06_INT_19 = ~z~I thought you were a man.
+
+HUNT06_INT_20 = ~z~No, sir...
+
+HUNT06_INT_21 = ~z~when it comes to prehistoric monsters...
+
+HUNT06_INT_22 = ~z~I am very much a coward.
+
+HUNT06_INT_LI_C_1 = ~z~Arthur, you free?
+
+HUNT06_INT_LI_Y_1 = ~z~Sure, old man.
+
+HUNT06_JUMPINR_01 = ~z~Get in, quick.
+
+HUNT06_JUMPINR_02 = ~z~We shouldn't linger here too much longer.
+
+HUNT06_JUMPINR_03 = ~z~Hurry, the mothers of those babies don't look too happy.
+
+HUNT06_JUMPIN_1 = ~z~Come on, jump in.
+
+HUNT06_LOC_01E_1 = ~z~So how long were you in the navy?
+
+HUNT06_LOC_01E_2 = ~z~Oh years... well, must have been a year, at least...or close to that.
+
+HUNT06_LOC_01E_3 = ~z~That's quite a range.
+
+HUNT06_LOC_01E_4 = ~z~All water under the bridge now... no pun intended.
+
+HUNT06_LOC_01S_1 = ~z~How's your Aunt Cathie?
+
+HUNT06_LOC_01S_2 = ~z~I told you I had an Aunt Cathie?
+
+HUNT06_LOC_01S_3 = ~z~You must have.
+
+HUNT06_LOC_01S_4 = ~z~Fine, I believe. I haven't heard from her in a while.
+
+HUNT06_LOC_02E_1 = ~z~You try this time, Arthur.
+
+HUNT06_LOC_02E_2 = ~z~Remember to reach down deep and get right in there.
+
+HUNT06_LOC_02E_3 = ~z~They like to dig in, the little blighters.
+
+HUNT06_LOC_02R_1 = ~z~Nicely done, why don't you see if there's any more down there?
+
+HUNT06_LOC_02SP_1 = ~z~Look there, another crayfish hole. See it?
+
+HUNT06_ROWCHAT1_1 = ~z~Excellent. That's what I call teamwork.
+
+HUNT06_ROWCHAT1_2 = ~z~Don't think I've ever seen you move that fast.
+
+HUNT06_ROWCHAT1_3 = ~z~People pay a lot of money for those eggs.
+
+HUNT06_ROWCHAT1_4 = ~z~I'm told there's a collector in Saint Denis who gives top dollar for them.
+
+HUNT06_ROWCHAT1_5 = ~z~For millinery, of all things.
+
+HUNT06_ROWCHAT2_1 = ~z~Well, this has been very pleasant. Very pleasant indeed.
+
+HUNT06_ROWDAWD_01 = ~z~Are you tired already?
+
+HUNT06_ROWDAWD_02 = ~z~So, er, why are we stopped?
+
+HUNT06_ROWDAWD_03 = ~z~Keep going, Mr Morgan.
+
+HUNT06_ROWEXO_N_1 = ~z~Because who doesn't want a hat with an egg on it?
+
+HUNT06_ROWEXO_Y_1 = ~z~Yeah, I've met him. He's quite the character.
+
+HUNT06_SELLING_1 = ~z~Really selling this, aren't you?
+
+HUNT06_SR_LAND_1 = ~z~Ah, now this looks promising.
+
+HUNT06_SR_LAND_2 = ~z~Pull up right behind you, Arthur.
+
+HUNT06_SR_LAND_3 = ~z~Aye, aye, captain.
+
+HUNT06_SR_LOC1X_1 = ~z~Okay, go slow so I can see... my eyes aren't what they used to be.
+
+HUNT06_SR_LOC1_1 = ~z~Head for those trees across from us and we'll take a look. On the port-side.
+
+HUNT06_SR_LOC1_2 = ~z~The what?
+
+HUNT06_SR_LOC1_3 = ~z~My left, your right. This is a boat, Arthur.
+
+HUNT06_SR_LOC1_4 = ~z~Okay... whatever you say.
+
+HUNT06_SR_LOC2_1 = ~z~No, no. Ground is too high here. Keep following the shoreline.
+
+HUNT06_SR_LOC2_2 = ~z~What exactly are we looking for?
+
+HUNT06_SR_LOC2_3 = ~z~We're looking for low ground and a lot of muck.
+

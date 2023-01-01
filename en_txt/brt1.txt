@@ -1,0 +1,84 @@
+BRT1_B_BRAMANOR = Braithwaite Manor
+
+BRT1_B_GUARD = Manor Guard
+
+BRT1_B_LEMORAID = Lemoyne Raider
+
+BRT1_B_SALOON = Rhodes Saloon
+
+BRT1_B_WAGNMOON = Moonshine
+
+BRT1_B_WAGON = Wagon
+
+BRT1_F_ABANDHOS = Hosea was abandoned.
+
+BRT1_F_ABANDWAG = The wagon was abandoned.
+
+BRT1_F_ABNDMANR = Braithwaite Manor was abandoned.
+
+BRT1_F_ATTCKBRA = The Braithwaites were attacked.
+
+BRT1_F_DESTJUGS = The moonshine was destroyed.
+
+BRT1_F_HARMOUTS = The saloon staff were harmed.
+
+BRT1_F_HOSDEAD = Hosea has died.
+
+BRT1_F_SALABND = The saloon was abandoned.
+
+BRT1_F_SHTATGRD = The Braithwaite Manor guards were alerted.
+
+BRT1_F_WAG2CAMP = The wagon was driven in to camp.
+
+BRT1_F_WAGON = The wagon was destroyed.
+
+BRT1_F_WAGONSTK = The wagon became stuck.
+
+BRT1_F_WNTINRHO = The law were alerted near Rhodes Saloon.
+
+BRT1_OBJ_RETWAG = Return to the ~o~wagon~s~
+
+BRT1_S1_OBJ_1 = Deliver the moonshine to ~o~Braithwaite Manor~s~
+
+BRT1_S1_OBJ_BAK = Get back on the ~o~wagon~s~
+
+BRT1_S1_OBJ_RHS = Return to ~f~Hosea
+
+BRT1_S1_OBJ_WHS = Wait for ~f~Hosea~s~ to get back on the wagon
+
+BRT1_S2_GETMOON = Collect the moonshine from the ~o~back of the wagon~s~
+
+BRT1_S2_GO2HOS = Follow ~o~Hosea~s~
+
+BRT1_S2_GOBAR = Go behind the ~o~bar~s~ in the saloon
+
+BRT1_S2_OBJ_1 = Take the moonshine to the ~o~Rhodes saloon~s~
+
+BRT1_S2_OBJ_RET = Return to the ~o~saloon~s~
+
+BRT1_S4_ENTWOBJ = Get into the ~o~wagon~s~
+
+BRT1_S4_JUMPOBJ = Jump into the ~o~wagon~s~ below
+
+BRT1_S4_OBJ_3 = Follow ~o~Hosea~s~ upstairs to escape
+
+BRT1_S4_OBJ_FLW = Follow ~o~Hosea~s~ to the wagon
+
+BRT1_S4_OBJ_KIL = Take out the ~e~Lemoyne Raiders~s~
+
+BRT1_S4_OBJ_SVH = Take out the ~e~Lemoyne Raider~s~
+
+BRT1_S5_OBJ_1 = Take out the ~e~Lemoyne Raiders~s~
+
+BRT1_UC_FINISH = Serve Drink
+
+BRT1_UC_MOONSHINE = Moonshine
+
+BRT1_UC_PICK_UP = Pick Up
+
+BRT1_UC_POUR = Pour Bottle
+
+BRT1_UC_RAISEBO = Raise Bottle
+
+BRT1_UC_RAISEGL = Raise Glass
+

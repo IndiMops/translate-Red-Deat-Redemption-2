@@ -1,0 +1,6 @@
+CPRS1_A_1 = ~z~~sl:0.0:1.8~Find us some goddamn food, boy.~sl:0.3:1.0~Do something.~sl:0.1~You hear?
+
+CPRS1_B_ALT_1 = ~z~We got a lot of lambs, Arthur, but no wolves.
+
+CPRS1_B_ALT_2 = ~z~Find us some food, please!
+

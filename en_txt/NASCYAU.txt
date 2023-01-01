@@ -1,0 +1,34 @@
+NASCY_CLOSE_1 = ~z~Heard them coyotes last night. They is getting real close lately.
+
+NASCY_CLOSE_2 = ~z~Well, no-one said our lives would be easy.
+
+NASCY_CVTALK1_1 = ~z~Still hungry ain't ya?
+
+NASCY_CVTALK2_1 = ~z~~sl:0.0:0.7~I open this up...~sl:0.8~you gonna behave?
+
+NASCY_CVTALK3_1 = ~z~You ain't scared of nobody, huh?
+
+NASCY_EATBTR_1 = ~z~Packs of coyotes come round killing cattle again.
+
+NASCY_EATBTR_2 = ~z~I swear these wild animals eat better than I do.
+
+NASCY_M1C1CHK1_1 = ~z~Goddamnit. This is bad. What am I gonna tell Mr. Keeley?
+
+NASCY_M1C1CHK2_1 = ~z~Every last one of 'em... Dammit all to hell...
+
+NASCY_M1C1CHK3_1 = ~z~~sl:0.0:2.1~What in all creation...~sl:0.9~Ain't no fox done this...
+
+NASCY_M2C2DOG1_1 = ~z~I will spit on that coyote's corpse for what it did to you, boy...
+
+NASCY_M2C2DOG2_1 = ~z~~sl:0.0:1.3~Dammit all to hell.~sl:0.9~I'm so sorry, boy...
+
+NASCY_M2C2DOG3_1 = ~z~~sl:0.0:2.2~No, no... no...~sl:0.9~What the hell am I gonna do?
+
+NASCY_PROWL_1 = ~z~~sl:0.0:2.0~I saw some coyotes prowling around again,~sl:~as if things weren't tough enough.
+
+NASCY_PROWL_2 = ~z~~sl:0.0:2.0~Always something working against us.~sl:~If it ain't the rustlers, it's the wild animals.
+
+NASCY_TROUBL_1 = ~z~Been hearing coyotes more... never a good sign.
+
+NASCY_TROUBL_2 = ~z~Trouble brewing between the hay and the grass... I can feel it.
+

@@ -1,0 +1,40 @@
+MBHSD_ALIVE_01 = ~z~Toss them in the sternest cell you can find.
+
+MBHSD_ALIVE_02 = ~z~~sl:0.4:2.6~I'm always pleased to see them breathing.~sl:0.5~They'll pay their debt.
+
+MBHSD_ALIVE_03 = ~z~~sl:0.0:1.9~I'm glad you got them alive,~sl:~retribution shall be visited.
+
+MBHSD_ALIVE_04 = ~z~~sl:0.2~Rehabilitation might be beyond them, but we may hope.
+
+MBHSD_ALIVE_05 = ~z~~sl:0.1~They'll see justice. Well done.
+
+MBHSD_DEADBEF_01 = ~z~~sl:0.3:2.0~Well, that's our bounty...~sl:0.0:2.3~looking a little worse for wear, I see.~sl:~Put 'em around back, I'll get your money out.
+
+MBHSD_DEADBEF_02 = ~z~~sl:0.3:4.3~Ah, our bounty. No explanations necessary, just...~sl:0.0:~put them in the cart out back, I'll ready your payment.
+
+MBHSD_DEADBEF_03 = ~z~~sl:1.1~Oh yeah, you killed 'em, but take comfort in their sins.
+
+MBHSD_DEAD_01 = ~z~~sl:2.2:3.1:1~Dead as a doornail. Here's your bounty money.
+
+MBHSD_DEAD_02 = ~z~~sl:0.9:3.1~Don't let their life weigh too heavy on you.~sl:0.5:0.6:1~There's your money.
+
+MBHSD_DEAD_03 = ~z~~sl:1.4:~Oh yeah, you killed 'em, but take comfort in their sins.
+
+MBHSD_MID_01 = ~z~Toss 'em in the sternest cell you can find.
+
+MBHSD_MID_02 = ~z~Lock 'em up, and let's get you what you're owed.
+
+MBHSD_MID_03 = ~z~Kick that hellrouser into a cell, so we can settle up.
+
+MBHSD_REWARD_01 = ~z~Well... that's what they're worth, and not a penny more.
+
+MBHSD_REWARD_02 = ~z~~sl:0.1~I make good on my promises, here's your payment.
+
+MBHSD_REWARD_03 = ~z~Well... I guess all that's left is your payment.
+
+MBHSD_REWARD_04 = ~z~~sl:0.3~There's your bounty, you sure earned it.
+
+MBHSD_REWARD_05 = ~z~We pay on receipt of goods. So, there you go.
+
+MBHSD_REWARD_06 = ~z~~sl:0.0:2.8~The runner's ours, so the bounty's yours.~sl:~Right there for you.
+

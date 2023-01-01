@@ -1,0 +1,1436 @@
+0x0204DEBA = JOBS COMPLETED
+
+0x028EE3F9 = Coaches
+
+0x03EBE39B = Carts
+
+0x04078B4A = Invited you to join their Posse
+
+0x04943DCA = Big City
+
+0x059AE7D6 = ~_~Nominated
+
+0x06297212 = Dominoes Saint Denis
+
+0x067C7E20 = Game Type: ~1~
+
+0x06F0166C = Buggies
+
+0x072A8760 = Posse Type
+
+0x078C116F = Open
+
+0x094B6FAC = Nominate
+
+0x0CBFC427 = Progressive
+
+0x0DAEB7FB = CONTRACT REQUIREMENTS
+
+0x0FB154E4 = Posse Name
+
+0x0FD66470 = Purchase ammo for your Bow
+
+0x1A5C3D79 = Daily fee is charged for Camp maintenance. A Small Camp can hold between 1-4 Posse Members.
+
+0x1A222E89 = Elimination
+
+0x1C0B806A = Free Roam Event
+
+0x1C0CACCF = Disabled
+
+0x1EAEE596 = Posse must be active to invite new Posse Members
+
+0x2A2ADA4F = Play series 1 for testing
+
+0x2AE26FF0 = Formation
+
+0x2BE74EF4 = Wagons
+
+0x2BF8101C = Default
+
+0x2DFD69A6 = Daily fee is charged for Camp maintenance. Large Camp can hold between 1-7 Persistent Posse Members.
+
+0x2FA5DCFA = POSSE
+
+0x3A2E61D6 = Ammo
+
+0x3AE36B27 = Select content to nominate from your bookmarked modes. You can bookmark modes via the Nominations section of Social Club.
+
+0x3C3CDFDC = 10
+
+0x3C965315 = No mode nominated
+
+0x3CDFD4B0 = Size and Location
+
+0x3EC8110F = Blackjack Blackwater
+
+0x4A2B817E = DM Mode
+
+0x4A840565 = Purchase ammo for your Revolver
+
+0x4C1F36E5 = Select nominated content from your bookmarked modes. Bookmark modes through Social Club Nominations.
+
+0x4DA18512 = Recent
+
+0x4E2B6D36 = Camp Description
+
+0x4ED4F3D4 = Race
+
+0x4F7CD287 = Buy-In: ~1~ chips
+
+0x5A32282B = Invite Only
+
+0x5B760599 = On
+
+0x5D572210 = 15
+
+0x5F1A8320 = Player is part of another Posse
+
+0x6A2AEFE9 = Race
+
+0x6B87794A = Invite to Crew
+
+0x7A4FCD72 = Weapons
+
+0x7B916120 = Gamercard
+
+0x7D5E5B26 = Off
+
+0x7DE21D27 = Crew
+
+0x7E7F7981 = Offensive SC Name
+
+0x7E47696C = Defensive
+
+0x8A96D6A6 = My Coaches
+
+0x8A162309 = Invite to Posse
+
+0x8C48953D = Minimum of ~1~ players required to progress. Press ~INPUT_FRONTEND_X~ to invite more players.
+
+0x8DB0DDEC = Buggies
+
+0x8F034E81 = None
+
+0x8F4D39E7 = Morning
+
+0x8F539B10 = Poker Flatneck Station
+
+0x9A76BE1A = ~_~Nominated By Posse Leader
+
+0x9D3E1672 = CREW MEMBERS
+
+0x9D3491AB = No mode selected
+
+0x9E04AEE0 = Player is currently busy playing an activity
+
+0x9EEEA8D5 = Awaiting Player...
+
+0x9FB3FB43 = Friends Only
+
+0x17CC9A6D = 4
+
+0x19C60277 = You have no bookmarked modes. You can still play, but without bookmarked modes you cannot nominate content in the Nominated Series. Do you wish to continue?
+
+0x25BD4A7D = FRIENDS
+
+0x27B6BB16 = Noon
+
+0x29D6A081 = Dominoes Emerald Ranch
+
+0x30CE32DE = Purchase ammo for your Repeater
+
+0x42A84A31 = Generic
+
+0x45EB46BE = Race Mode
+
+0x47FB8B33 = STABLE SETTINGS
+
+0x52C9ECD2 = Lowered
+
+0x52E30442 = Bad Language
+
+0x56E9E207 = Lead
+
+0x67DFDB4A = Position
+
+0x72C8230D = Reputation
+
+0x74D6A6D3 = ROADS CLEARED
+
+0x76C1E36F = None
+
+0x76CBEFFF = Nominate a mode from your Social Club bookmarks.
+
+0x76D8F0E4 = Purchase ammo for your Rifle
+
+0x78C2D30C = Player is currently not in Red Dead Online
+
+0x81D5ECE3 = Default
+
+0x83A050C8 = Current
+
+0x88A173BA = Player Stats
+
+0x88A16503 = No modes bookmarked
+
+0x89A64B2D = Quick Join ~1~ Matchmaking
+
+0x89EADF57 = Draft
+
+0x92E78246 = 3
+
+0x93D0DB1D = Posse is currently disbanded
+
+0x94BA87FE = Posse Leader's nomination is in the queue
+
+0x95AB2E21 = You currently have no bookmarked modes. You can bookmark modes via the Nominations section of Social Club.
+
+0x95D2FEEC = This Posse is open and can be joined
+
+0x137E6A7E = Seats: ~1~
+
+0x170C0529 = Lumberjack Outfits
+
+0x217E23B3 = 20
+
+0x238CCD08 = Dominoes Blackwater
+
+0x393D1CCE = Posse management currently unavailable
+
+0x402B3A27 = Clear
+
+0x433C9A9D = Rugged
+
+0x467BF7CB = 3
+
+0x483C34DE = Offensive Crew Emblem
+
+0x505C7083 = Camp management currently unavailable
+
+0x514F6863 = Everyone
+
+0x542B2E7D = Takeover
+
+0x543FA529 = Enabled
+
+0x568E5042 = DLC
+
+0x670CAA0B = Compete in a variety of game modes chosen by you and other players
+
+0x693A19F2 = Rake: ~1~%
+
+0x722AF497 = Work
+
+0x743A720A = Carts
+
+0x758DAC9D = Me Only
+
+0x811A3EBD = AVAILABLE WORK
+
+0x890FE0B0 = Promote to Deputy
+
+0x967CCE27 = War
+
+0x1832F4A8 = 15
+
+0x5385C53D = Purchase ammo for your Shotgun
+
+0x5394D592 = Poker Valentine
+
+0x5572F165 = Disabled due to aggressive behavior
+
+0x6083F0CD = Your nomination is next
+
+0x6729E217 = Default
+
+0x7813E9FE = Player Stats
+
+0x7887B1D8 = Job List
+
+0x8564AF9C = You cannot invite players to your Posse during an activity
+
+0x8767BED4 = Third Person
+
+0x8958C696 = Player is already in your session
+
+0x9738AAF6 = Nominated Series, 8 Player
+
+0x24938E04 = 5
+
+0x36462C87 = Offensive
+
+0x37105F15 = Nominate a Mode
+
+0x40943AB5 = Off
+
+0x47970D41 = CASH EARNED
+
+0x71972DE8 = Multi-Class
+
+0x88791A26 = ROAD BLOCKED
+
+0x93136EBB = Change your initial spawn location for Red Dead Online
+
+0x237153CE = Poker Blackwater
+
+0x418608D5 = Posse Only
+
+0x529726B0 = Public
+
+0x571435B8 = Blinds: ~1~/~2~
+
+0x701556F8 = Posse Responsibility
+
+0x2917993A = Off
+
+0x4569200F = Boats
+
+0x33134485 = Bookmark a mode via Social Club Nominations to nominate.
+
+0x68081141 = 20
+
+0xA04EED02 = Compete in a variety of game modes chosen by you and other players
+
+0xA1F7978C = Open
+
+0xA6BD3289 = Invite All
+
+0xA6FA3C64 = Camp
+
+0xA8D14A52 = Pitch a Camp suitable for 7 Posse Members
+
+0xA8F38C63 = Default
+
+0xA44F68C9 = Night
+
+0xA53C9D8A = You cannot leave a Posse during an activity
+
+0xA4306D50 = Blackjack Rhodes
+
+0xA4606C94 = Play series 3 for testing
+
+0xA8633DAB = Your nomination is in the queue
+
+0xAA81E3EE = Only the Posse Leader can nominate a mode
+
+0xAC2E2CDB = Gang's Outfits
+
+0xAD8CFC8E = All jobs suspended until Road Block has been cleared.
+
+0xADA5E1F5 = None
+
+0xAF2659E1 = Savage Gang Outfits
+
+0xB4FDA85F = Offensive Level Name
+
+0xB9A35C64 = Buy All (~1$~)
+
+0xB9ED2DA6 = All
+
+0xB880FF72 = Private
+
+0xB2254FA0 = POSSE MEMBERS
+
+0xB42202B8 = Raised
+
+0xB9109790 = Nominated: ~a~
+
+0xBA03267D = Inspect
+
+0xBA53E080 = Player is currently not part of this Posse
+
+0xBAEB1D39 = VEHICLE TYPES
+
+0xBB8A9AE2 = TEAMSTER NOTICES
+
+0xBD08541A = Daily fee is charged for Camp maintenance. Form a Persistent Posse to create a Large Camp.
+
+0xBD53CC26 = Individual Outfits
+
+0xBF1CD316 = Continue
+
+0xC2CD2A02 = Offensive Crew Name
+
+0xC5A555DE = Invite Players
+
+0xC5D2DFD4 = Blackjack Van Horn
+
+0xC54CB770 = Default
+
+0xC85272FC = Bounty Hunter Outfits
+
+0xCACED91A = Wagons
+
+0xCDF1C62C = INVALID TITLE
+
+0xCED7A6F1 = Crew
+
+0xCF0EC9AC = Cripps is currently setting up your Camp
+
+0xD0C3BC3A = Only a Posse Leader can nominate a mode.
+
+0xD7C1C9E8 = Unable to rejoin Posse while content starts
+
+0xD26AE083 = Raining
+
+0xD42F2ECC = You are about to report ~1p~ for ~2a~. We will review the report to determine whether it violates our Code of Conduct. Abusing the reporting feature is also a violation of the Code of Conduct that may result in restricting or terminating your account.
+
+0xD78E86C5 = Change appearance once for free
+
+0xD91A0146 = INVALID DESCRIPTION
+
+0xD289CBD4 = No modes Bookmarked
+
+0xD597AB0B = NOMINATE
+
+0xD2148EFA = 1
+
+0xD5080B49 = Mountain Sheriff Outfits
+
+0xD8139F1E = Annoying Me
+
+0xD4343058 = Player is active in this Posse
+
+0xDA57FDC5 = Provisions
+
+0xDB293E94 = Superior
+
+0xDBD45FE9 = Crew Only
+
+0xDD8CA1F7 = COACHES
+
+0xDF4F1A20 = Showdown
+
+0xE0B7F480 = INVALID HEADER
+
+0xE0F486DC = Default
+
+0xE4D03B36 = Change Posse Member style
+
+0xE4E33EAB = Enter ~1~ Matchmaking
+
+0xE16C2DA9 = 2
+
+0xE65A10F7 = 10
+
+0xE894F017 = View various Stats about your Posse
+
+0xE8521FA0 = Matchmaking is unavailable while in an activity
+
+0xE8751FD2 = Stagecoaches
+
+0xEAE7846E = ANYONE
+
+0xECE1D8D2 = Current
+
+0xED291558 = Cannot nominate mode during a mode launch
+
+0xEE298324 = On
+
+0xEEF3AA3B = No modes bookmarked
+
+0xEF53E8F6 = Griefing
+
+0xF056BD23 = 5
+
+0xF085D617 = First Person
+
+0xF3DF306E = Purchase ammo for your Pistol
+
+0xF4AA0F0A = Play series 2 for testing
+
+0xF9FAE60B = Locked
+
+0xF568A3E4 = Poker Saint Denis
+
+0xF5382F88 = Player is currently playing the Intro Mission
+
+0xF94899BB = Poker Tumbleweed
+
+0xF609535B = Cap: ~1~
+
+0xFA242CA3 = Invited you to join their Gang
+
+0xFAF2B130 = Friends
+
+0xFC638B36 = Invite
+
+0xFC86189E = Default
+
+BOUNTY_REPLAY_SUBH = Legendary Bounties
+
+EXIT_ALONE = Exit Alone
+
+EXIT_WITH_POSSE = Exit With Posse
+
+GAMERTAG_DEFENSIVE_PLAYER = ~COLOR_WHITE~¦~s~ ~1p~
+
+HIERARCHY_SUBH = Hierarchy
+
+HOSTILITY_LEVEL = Hostility
+
+HOSTILITY_NHIGH = High
+
+HOSTILITY_NLOW = Low
+
+HOSTILITY_NMED = Medium
+
+KICKED_FROM_LOBBY_POSSE_LEADER = Your Posse has been kicked and will be returned to Free Roam.
+
+KICKED_FROM_LOBBY_POSSE_MEMBER = You have been kicked.~n~You have been removed from your Posse and will be returned to Free Roam.
+
+KICKED_FROM_LOBBY_SOLO = You have been kicked and will be returned to Free Roam.
+
+KICKED_TITLE = KICKED
+
+KICK_PLAYER_BODY = Are you sure you want to kick ~1~ from the lobby?~n~This action cannot be undone. 51% of other players must vote the same.
+
+KICK_PLAYER_TICKER = ~1~/~2~ votes to kick ~3~
+
+KICK_PLAYER_TITLE = KICK PLAYER
+
+MP_CAMERALOCK = Camera Lock
+
+MP_LOBBY_ADD_FRIEND = Add Friend
+
+MP_LOBBY_CAMERA_LOCK = Select the camera for the mode
+
+MP_LOBBY_CANCEL_JOIN_TEAM = Cancel Join Team
+
+MP_LOBBY_DETAILS_TOOLTIP = View information about the game mode
+
+MP_LOBBY_GAMBLE_DESCRIPTION = Leave everything up to fate. Is it worth the risk to start with nothing, knowing that you could start with something?
+
+MP_LOBBY_GAME_DETAILS = Game Details
+
+MP_LOBBY_GAME_DETAILS_CREATOR = Created by ~1~
+
+MP_LOBBY_GAME_OPTIONS = Game Options
+
+MP_LOBBY_GAME_OPTIONS_SUBHEADER = Game Options
+
+MP_LOBBY_GREY_OUT_TOOLTIP = The match is about to start
+
+MP_LOBBY_INVENTORY_TOOLTIP = Choose what you have when the match starts
+
+MP_LOBBY_INVITE = Invite
+
+MP_LOBBY_INVITES = Invites
+
+MP_LOBBY_INVITES_TOOLTIP = View your Invites
+
+MP_LOBBY_INVITE_ALL_PLAYERS = Invite All
+
+MP_LOBBY_INVITE_CREW_TOOLTIP = Invite Crew Members to join the lobby
+
+MP_LOBBY_INVITE_FRIENDS_TOOLTIP = Invite friends to join the lobby
+
+MP_LOBBY_INVITE_HEADER = INVITE
+
+MP_LOBBY_INVITE_HORSE_TOOLTIP = Horses you own
+
+MP_LOBBY_INVITE_OUTFIT_TOOLTIP = Wear this outfit in the mode
+
+MP_LOBBY_INVITE_PLAYERS = Invite Players
+
+MP_LOBBY_INVITE_PLAYERS_TOOLTIP = Invite players to join the lobby
+
+MP_LOBBY_INVITE_RECENT_TOOLTIP = Invite recently met players to join the lobby
+
+MP_LOBBY_INVITE_TO_CREW = Invite to Crew
+
+MP_LOBBY_JOIN_TEAM = Join Team
+
+MP_LOBBY_JOIN_TEAM_CANCEL_QUEUE_TICKER = You are no longer in the queue to join ~1~
+
+MP_LOBBY_JOIN_TEAM_QUEUED = Join Team (Queue)
+
+MP_LOBBY_JOIN_TEAM_QUEUE_TICKER = You are in the queue to join ~1~
+
+MP_LOBBY_JOIN_TEAM_TICKER = You joined ~1~
+
+MP_LOBBY_KICK = Kick from Lobby
+
+MP_LOBBY_KICK_VOTE = Vote to Kick
+
+MP_LOBBY_MATCHMAKING_OFF_TOOLTIP = You are not matchmaking
+
+MP_LOBBY_MATCHMAKING_ON_TOOLTIP = You are currently matchmaking
+
+MP_LOBBY_MESSAGE = Message
+
+MP_LOBBY_MUTE = Mute
+
+MP_LOBBY_OPTIONS_TOOLTIP = Set options for the mode
+
+MP_LOBBY_OUTFITS = Outfits
+
+MP_LOBBY_OUTFITS_HEADER = OUTFITS
+
+MP_LOBBY_OUTFITS_TOOLTIP = Select an outfit to wear in the mode
+
+MP_LOBBY_OUTFIT_OVERRIDE_DISABLED = Select your outfit for this game mode
+
+MP_LOBBY_OUTFIT_OVERRIDE_ENABLED = Your outfits have been modified for this game mode
+
+MP_LOBBY_PLAYERS = Players
+
+MP_LOBBY_PLAYERS_ALL = All
+
+MP_LOBBY_PLAYERS_TOOLTIP = View players in the lobby
+
+MP_LOBBY_PLAYER_OPTIONS_HEADER = Player Options
+
+MP_LOBBY_PLYR_OPTIONS_KICK_TOOLTIP = Vote to kick this player from the lobby
+
+MP_LOBBY_POSITION_TOOLTIP = Choose your preferred starting position
+
+MP_LOBBY_POSSE_OUTFIT_EQUIPPED_TOOLTIP = Your Posse outfit cannot be changed
+
+MP_LOBBY_PREFERRED_POSITION = Preferred Position
+
+MP_LOBBY_PREFER_TEAM = Prefer Team
+
+MP_LOBBY_PREFER_TEAM_TICKER = Current team has been marked as preferred
+
+MP_LOBBY_PURCHASE = Purchases
+
+MP_LOBBY_PURCHASES_ALL_AMMO = All Ammo
+
+MP_LOBBY_PURCHASES_CLEAN = Clean
+
+MP_LOBBY_PURCHASES_CLEAN_ALL = Clean All Weapons
+
+MP_LOBBY_PURCHASES_CLEAN_ALL_INFO = Restore all carried weapons to perfect condition for a premium fee.
+
+MP_LOBBY_PURCHASES_HEADER = PURCHASES
+
+MP_LOBBY_PURCHASES_PURCHASES_FREEROAM_VALID = Purchases are also valid for Free Roam use
+
+MP_LOBBY_PURCHASES_REFILL = Restock
+
+MP_LOBBY_PURCHASES_REFILL_ALL_INFO = Restock all carried ammo types, and throwables for a premium fee.
+
+MP_LOBBY_PURCHASES_TOOLTIP = Purchase ammunition and consumables
+
+MP_LOBBY_QUIT_TO_FREEMODE = Quit to Free Roam
+
+MP_LOBBY_QUIT_TO_FREEROAM_TOOLTIP = Exit the lobby and return to Free Roam
+
+MP_LOBBY_READY_UP = Ready Up (~1~/~2~)
+
+MP_LOBBY_REMOVE_FRIEND = Remove Friend
+
+MP_LOBBY_REPORT = Report
+
+MP_LOBBY_SHOW_PLAYERS = Show Players
+
+MP_LOBBY_SHOW_STABLE = Show Stable
+
+MP_LOBBY_STABLE = Stable
+
+MP_LOBBY_STABLE_CAT_MY_HORSES = My Horses
+
+MP_LOBBY_STABLE_HEADER = STABLE
+
+MP_LOBBY_STABLE_TOOLTIP = Select a horse to use in this activity
+
+MP_LOBBY_STARTING_INVENTORY = Starting Inventory
+
+MP_LOBBY_STARTING_INVENTORY_HEADER = STARTING INVENTORY
+
+MP_LOBBY_STARTING_INVENTORY_SUBHEADER = Preferences
+
+MP_LOBBY_TARGET_SCORE = Set the target score for each round
+
+MP_LOBBY_TARGET_WINS = Set the number of round wins required to win the mode
+
+MP_LOBBY_TEAM = Team
+
+MP_LOBBY_TEAMS_TOOLTIP = Choose your team or view players on ~1~
+
+MP_LOBBY_TEAM_COUNT = ~1~/~2~
+
+MP_LOBBY_TIME_CYCLE = Enable time of day progression in the mode
+
+MP_LOBBY_TIME_LIMIT = Set the time limit for each round
+
+MP_LOBBY_TOD = Set the time of day for the mode
+
+MP_LOBBY_TOGGLE_BACKFILL = Allow Matchmaking
+
+MP_LOBBY_TOGGLE_BACKFILL_DISABLE = Disable Matchmaking
+
+MP_LOBBY_TOGGLE_BACKFILL_PROMPT = Toggle
+
+MP_LOBBY_UNREADY_UP = Un-Ready (~1~/~2~)
+
+MP_LOBBY_VIEW_PLAYERS = View Players
+
+MP_LOBBY_VIEW_PLYR_CARD = View Ability Loadout
+
+MP_LOBBY_WEAPON_LOADOUT = Weapon Loadout
+
+MP_LOBBY_WEAPON_LOADOUT_EQUIPPED_COUNT = ~1~ of ~2~ Equipped
+
+MP_LOBBY_WEAPON_LOADOUT_HEADER = WEAPONS
+
+MP_LOBBY_WEAPON_LOADOUT_LONG_ARM = Longarm Back
+
+MP_LOBBY_WEAPON_LOADOUT_LONG_ARM_BACKUP = Longarm Shoulder
+
+MP_LOBBY_WEAPON_LOADOUT_LONG_ARM_BACKUP_TOOLTIP = Equip longarm shoulder
+
+MP_LOBBY_WEAPON_LOADOUT_LONG_ARM_TOOLTIP = Equip longarm back
+
+MP_LOBBY_WEAPON_LOADOUT_MELEE_WEAPONS = Melee Weapons
+
+MP_LOBBY_WEAPON_LOADOUT_MELEE_WEAPONS_TOOLTIP = Equip melee weapons
+
+MP_LOBBY_WEAPON_LOADOUT_SHORT_ARM_LEFT = Sidearm Left
+
+MP_LOBBY_WEAPON_LOADOUT_SHORT_ARM_LEFT_TOOLTIP = Equip sidearm
+
+MP_LOBBY_WEAPON_LOADOUT_SHORT_ARM_RIGHT = Sidearm Right
+
+MP_LOBBY_WEAPON_LOADOUT_SHORT_ARM_RIGHT_TOOLTIP = Equip sidearm
+
+MP_LOBBY_WEAPON_LOADOUT_SUBHEADER = Loadout
+
+MP_LOBBY_WEAPON_LOADOUT_THROWABLES = Throwables
+
+MP_LOBBY_WEAPON_LOADOUT_THROWABLES_TOOLTIP = Equip throwables
+
+MP_LOBBY_WEAPON_LOADOUT_TOOLTIP = Change your weapon loadout
+
+MP_LOBBY_WEATHER = Set the weather for the mode
+
+MP_STABLE_AGILITY = Agility
+
+MP_STABLE_COAT = Coat
+
+MP_STABLE_GENDER = Gender
+
+MP_STABLE_SPEED = Speed
+
+MP_STARTING_WEAPON_CONTENTS = Contents
+
+MP_STARTING_WEAPON_CONTENTS_LINE = ~1~ x ~2~~n~
+
+MP_STARTING_WEAPON_OPTION_DEFAULT = Default
+
+MP_STARTING_WEAPON_OPTION_GAMBLE = Gamble
+
+MP_TARGET_SCORE = Target Score
+
+MP_TARGET_WINS = Target Wins
+
+MP_TIMECYCLE = Timecycle
+
+MP_TIME_LIMIT = Time Limit
+
+MP_TIME_OF_DAY = Time of Day
+
+MP_WEATHER = Weather
+
+NET_CAMP_ALREADY_REQUESTED_FOOTER = Your Camp is being pitched
+
+NET_CAMP_CAMP_STATS = Camp Stats
+
+NET_CAMP_CAMP_STATS_FOOTER = View additional Camp information
+
+NET_CAMP_DISABLED_ACTIVITY_FOOTER = Camp information is unavailable while in an activity
+
+NET_CAMP_DISTRICT_INVALID = No Camps available in this district
+
+NET_CAMP_FLAG_STATUS = White Flag
+
+NET_CAMP_FLAG_STATUS_FOOTER_INVALID = Set Camp location to access this option
+
+NET_CAMP_FLAG_STATUS_FOOTER_LOCKED = You cannot raise your flag right now
+
+NET_CAMP_FLAG_STATUS_FOOTER_LOWERED = Your Camp can be attacked by rival players
+
+NET_CAMP_FLAG_STATUS_FOOTER_LOWERED_COOLDOWN = Available in ~1~ seconds
+
+NET_CAMP_FLAG_STATUS_FOOTER_LOWERED_COOLDOWN_SINGULAR = Available in ~1~ second
+
+NET_CAMP_FLAG_STATUS_FOOTER_LOWERED_MEMBER = Your Camp can be attacked by rival players
+
+NET_CAMP_FLAG_STATUS_FOOTER_RAISED = Your Camp cannot be attacked by rival players
+
+NET_CAMP_FLAG_STATUS_FOOTER_RAISED_COOLDOWN = Available in ~1~ seconds
+
+NET_CAMP_FLAG_STATUS_FOOTER_RAISED_COOLDOWN_SINGULAR = Available in ~1~ second
+
+NET_CAMP_FLAG_STATUS_FOOTER_RAISED_MEMBER = Your Camp cannot be attacked by rival players
+
+NET_CAMP_INTRO_MISSION_DISABLED_FOOTER = Camp information is unavailable during the Intro Mission
+
+NET_CAMP_LOCATION_ENTRY_FOOTER = Your Camp will be pitched at this location
+
+NET_CAMP_LOCATION_NO_CASH_FOOTER = You do not have enough cash to set up a Camp
+
+NET_CAMP_LOCATION_PITCHED_FOOTER = Currently pitched here
+
+NET_CAMP_LOCATION_TOO_SMALL = This Camp is too small for your Posse
+
+NET_CAMP_SETTINGS_LOCATION_FOOTER = Change Camp size and location
+
+NET_CAMP_SET_CAMP_LOCATION = Set Camp Location
+
+NET_CAMP_SET_CAMP_LOCATION_FOOTER = Choose your Camp size and location
+
+NET_CAMP_SET_CAMP_LOCATION_FOOTER_MEMBER = Only the Posse Leader can set the Camp location
+
+NET_CAMP_SET_CAMP_SIZE = Set Camp size
+
+NET_CAMP_SET_CAMP_SIZE_NEED_UPGRADE = Only Persistent Posses can use Large Camps
+
+NET_CAMP_SET_LOC_CONTENT_LOCK = You are unable to move your Camp while it is in use
+
+NET_CAMP_SET_LOC_FAIL_CHALLENGE = You are unable to pitch a Camp during a Challenge
+
+NET_CAMP_SET_LOC_FAIL_EVENT = You are unable to pitch a Camp during a Free Roam Event
+
+NET_CAMP_SET_LOC_FAIL_POSSE_VERSUS = You are unable to pitch a Camp during Posse Versus
+
+NET_CAMP_SET_LOC_FOLLOWER_DEAD = You cannot place a Camp when your follower is dead
+
+NET_CAMP_SIZE_LARGEST = Large Camp
+
+NET_CAMP_SIZE_SMALLEST = Small Camp
+
+NET_MOONSHINE_HAVE_SHACK_COUPON = This purchase is free with your Reward
+
+NET_MOONSHINE_INVITE_TO_SHACK_FOOTER = Invite other players to your Moonshine Shack
+
+NET_MOONSHINE_INVITE_TO_SHACK_LEADER_ONLY_FOOTER = Only Posse Leader can send out invites
+
+NET_MOONSHINE_INVITE_TO_SHACK_NO_SHACK_FOOTER = Setup a Moonshine Shack first
+
+NET_MOONSHINE_INVITE_TO_SHACK_YOUR_SHACK_FOOTER = Visit your Shack to invite other players
+
+NET_MOONSHINE_SET_SHACK_LOCATION_FOOTER = Choose your Moonshine Shack location
+
+NET_STABLES_UGC_DISABLED_FOOTER = Stable management currently unavailable
+
+NM_BUCKET_ADVERSARIAL = Showdown Series
+
+NM_BUCKET_EIGHT_PLAYER = 8 Player Series
+
+NM_BUCKET_FOUR_PLAYER = 4 Player Series
+
+NM_BUCKET_NOMINATED_SERIES_LARGE = Nominated Series, 32 Player
+
+NM_BUCKET_NOMINATED_SERIES_MEDIUM = Nominated Series, 16 Player
+
+NM_BUCKET_NOMINATED_SERIES_SMALL = Nominated Series, 4 Player
+
+NM_BUCKET_RACE = Race Series
+
+NM_BUCKET_TWELVE_PLAYER = 12 Player Series
+
+NM_CAMP_DAILY_FEE = Daily Fee
+
+NM_CAMP_PRICE = Price
+
+NM_CAMP_SIZE_VALUE = ~1~
+
+NM_FR_CHARACTER_DETAILS_INFO = Charges are applied once changes are made.
+
+NM_FR_CHARACTER_REROLL_FAIL_CONTENT = You cannot change your appearance while this content is active
+
+NM_FR_CHARACTER_REROLL_FAIL_GENERIC = You cannot change your appearance at this time
+
+NM_FR_CHARACTER_REROLL_FAIL_INSUFFICIENT_FUND = More RDO$, Gold, or a Reward is required
+
+NM_FR_CHARACTER_REROLL_INFO = Change your appearance
+
+NM_FR_CHAR_CREATOR = Change Appearance
+
+NM_FR_EMOTES_TYPE_ACTION_FOOTER = Your favorite action is ~1~
+
+NM_FR_EMOTES_TYPE_ANTAGONIZE_FOOTER = Your favorite taunt is ~1~
+
+NM_FR_EMOTES_TYPE_GREET_FOOTER = Your favorite greeting is ~1~
+
+NM_FR_EMOTES_TYPE_NONE_FOOTER = No favorite has been set for this Emote type
+
+NM_FR_EMOTES_TYPE_ONE_FOOTER = You can favor one Emote per Emote type
+
+NM_FR_EMOTES_TYPE_REACTION_FOOTER = Your favorite reaction is ~1~
+
+NM_FR_KILL_YOURSELF_FOOTER = Choose to respawn
+
+NM_FR_KILL_YOURSELF_FOOTER_DISABLED_CONTENT = Your current game mode has disabled the ability to manually respawn
+
+NM_FR_KILL_YOURSELF_FOOTER_DISABLED_JAIL = The ability to manually respawn is unavailable while incarcerated
+
+NM_FR_KILL_YOURSELF_LINK = Respawn
+
+NM_FR_PASSIVE_OPTIONS_LINK = Playing Style
+
+NM_FR_PASSIVE_OPTION_DETAILS_NOT_PASSIVE = No additional protection against other players. All missions available.
+
+NM_FR_PASSIVE_OPTION_DETAILS_PASSIVE = Prevents lock on and reduces damage taken from other players. Missions without player conflict are prioritized.
+
+NM_FR_PASSIVE_OPTION_FOOTER_HIGH_HOSTILITY = Unavailable due to high Hostility
+
+NM_FR_PASSIVE_OPTION_FOOTER_HIGH_HOSTILITY_GANG = Unavailable due to Posse's high Hostility
+
+NM_FR_PASSIVE_OPTION_FOOTER_NOT_PASSIVE = Available at any Hostility level
+
+NM_FR_PASSIVE_OPTION_FOOTER_NOT_PASSIVE_DISABLED = You cannot change this setting during an activity
+
+NM_FR_PASSIVE_OPTION_FOOTER_NOT_PASSIVE_DISABLED_AGGRESION = Disabled due to aggressive behavior
+
+NM_FR_PASSIVE_OPTION_FOOTER_NOT_PASSIVE_DISABLED_BOUNTY_HUNT = Disabled while being hunted
+
+NM_FR_PASSIVE_OPTION_FOOTER_NOT_PASSIVE_DISABLED_GANG = Only the Posse Leader can change the Playing Style
+
+NM_FR_PASSIVE_OPTION_FOOTER_NOT_PASSIVE_DISABLED_INTRO = You cannot change this setting during the Intro Mission
+
+NM_FR_PASSIVE_OPTION_FOOTER_NOT_PASSIVE_DISABLED_MATCH = Disabled while matchmaking
+
+NM_FR_PASSIVE_OPTION_FOOTER_NOT_PASSIVE_WAITING = Activates in ~1~ seconds
+
+NM_FR_PASSIVE_OPTION_FOOTER_NOT_PASSIVE_WAITING_SINGULAR = Activates in ~1~ second
+
+NM_FR_PASSIVE_OPTION_FOOTER_PASSIVE = Requires low or medium Hostility
+
+NM_FR_PASSIVE_OPTION_FOOTER_PASSIVE_WAITING = Activates in ~1~ seconds
+
+NM_FR_PASSIVE_OPTION_FOOTER_PASSIVE_WAITING_MINUTES = Activates in ~1~minutes ~2~ seconds
+
+NM_FR_PASSIVE_OPTION_FOOTER_PASSIVE_WAITING_MINUTES_SINGULAR = Activates in ~1~ minute ~2~ seconds
+
+NM_FR_PASSIVE_OPTION_FOOTER_PASSIVE_WAITING_SINGULAR = Activates in ~1~ second
+
+NM_FR_SESSION_PREFERENCE_FOOTER = Prioritize playing with Friends and Crew members
+
+NM_FR_SESSION_PREFERENCE_LINK = Social Matching
+
+NM_FR_SPAWN_LOCATION_LINK = Spawn Location
+
+NM_FR_VOICE_CHAT_FILTER_FOOTER = Choose who you can hear and speak to
+
+NM_FR_VOICE_OPTIONS_LINK = Voice Chat
+
+NM_GC_CREATE_PERSISTENT = Create a Persistent Posse
+
+NM_GC_CREATE_TEMPORARY = Create a Temporary Posse
+
+NM_GC_FOOTER_CAMP_CHANGE = Choose a location and size for your Camp
+
+NM_GC_FOOTER_KEYBOARD_SERVICES_DOWN = Services are currently down
+
+NM_GC_FOOTER_NAME_CHANGE = Choose a custom name for your Posse
+
+NM_GC_FOOTER_NAME_CHANGE_MEMBER = Only the Posse Leader can set the name of the Posse
+
+NM_GC_FOOTER_NAME_CHANGE_TEMP = Only Persistent Posses can choose a custom name
+
+NM_GC_FOOTER_RESTRICT_ACCOUNT_P_NAME = Custom names not available due to parental control restrictions
+
+NM_GC_FOOTER_SET_OUTFIT_ACTIVE = Posse Members wear themed outfits
+
+NM_GC_FOOTER_STEP_FRIENDLY_FIRE_OFF = Attacking Posse Members will not deal them damage
+
+NM_GC_FOOTER_STEP_FRIENDLY_FIRE_OFF_PASSIVE = Disable Defensive Playing Style to turn this on
+
+NM_GC_FOOTER_STEP_FRIENDLY_FIRE_ON = Attacking Posse Members will deal them damage
+
+NM_GC_FOOTER_STEP_OUTFIT_NONE = Posse Members dress with their personal wardrobe
+
+NM_GC_FOOTER_STEP_PRIVACY_CLOSED = Only players you invite can join your Posse
+
+NM_GC_FOOTER_STEP_PRIVACY_OPEN = Other players can automatically join your Posse
+
+NM_GC_FOOTER_STEP_TYPE_PERSISTENT = This Posse is saved and has full functionality
+
+NM_GC_FOOTER_STEP_TYPE_TEMPORARY = This Posse will not remain after you leave, stats are not saved and it has restricted settings
+
+NM_GC_FOOTER_TEMP_OUTFIT = Only Persistent Posses can wear themed outfits
+
+NM_GC_REQ_MAX_MEMBERSHIP = You are affiliated with too many Posses
+
+NM_GC_REQ_NO_CAMP = You must choose a location for your Camp
+
+NM_GC_REQ_NO_COST = Must be able to pay the fee to create a Posse
+
+NM_GC_REQ_POSSE_CREATE_COOLDOWN = Wait until you are able to create a new Posse
+
+NM_GC_REQ_POSSE_CREATE_LOCKED = Posse creation disabled at this time
+
+NM_GC_REQ_TOO_MANY_P_MEMBERS = This Posse cannot support another persistent member
+
+NM_GC_TEXT_CAMP_NONE = None
+
+NM_GC_UGC_RESTRICT = This account is banned from accessing the requested Rockstar game service
+
+NM_GW_DEMOTE = Demote
+
+NM_GW_KICK = Kick from Posse
+
+NM_GW_KICK_BLOCK_FOOTER = Posse removal currently unavailable
+
+NM_GW_KICK_FOOTER = Remove from the Posse
+
+NM_GW_PROMOTE = Promote
+
+NM_HONOR_BAD = Dishonorable
+
+NM_HONOR_GOOD = Honorable
+
+NM_LBM_TOAST_INTERACTION = Hold ~INPUT_FEED_INTERACT~ for board location
+
+NM_LBM_TOAST_TITLE = Legendary Bounty Available
+
+NM_MATCHMAKING_ASYNC_START = You are being moved to Free Roam, matchmaking will continue searching for a match in the background.
+
+NM_MATCHMAKING_DISBAND_POSSE_WARNING = Entering matchmaking alone will disband your Posse. Continue?
+
+NM_MATCHMAKING_FME_ERROR = Matchmaking failed to join with another player, please try again. (Error: ~1~)
+
+NM_MATCHMAKING_JIP_FAILED = Matchmaking failed to join with your Posse Leader, please try again.
+
+NM_MATCHMAKING_LEAVE_MATCH_WARNING = Are you sure you want to join a new game? You will still receive earnings for time spent in this game.
+
+NM_MATCHMAKING_LEAVE_POSSE_WARNING = Entering matchmaking alone will leave your Posse. Continue?
+
+NM_MATCHMAKING_PLAYLIST_LOCKED = Matchmaking failed because the playlist is locked.
+
+NM_MATCHMAKING_PQRR_NOT_FOUND = Matchmaking failed to request a match, please try again.
+
+NM_MATCHMAKING_PQRR_OTHER = Matchmaking failed. Unable to connect to the Rockstar Game Services at this time (Error: ~1~)
+
+NM_MATCHMAKING_PQRR_PLAYER_CANCELLED = Matchmaking ended because a player in your Posse canceled, please try again.
+
+NM_MATCHMAKING_PQRR_PLAYER_OFFLINE = Matchmaking failed because a player in your Posse went offline, please try again.
+
+NM_MATCHMAKING_PQRR_TIMEOUT = Matchmaking failed to find a session within the time limit, please try again.
+
+NM_MW_ENTRY_PLAYER_ALL_MUTED_FOOTER = All players muted, cannot toggle individual player mute
+
+NM_MW_ENTRY_PLAYER_MUTE = Mute
+
+NM_MW_ENTRY_PLAYER_MUTE_ALL = Mute All
+
+NM_MW_ENTRY_PLAYER_MUTE_FOOTER = Mute this player
+
+NM_MW_ENTRY_PLAYER_UNMUTE = Unmute
+
+NM_MW_ENTRY_PLAYER_UNMUTE_ALL = Unmute All
+
+NM_MW_ENTRY_PLAYER_UNMUTE_FOOTER = Unmute this player
+
+NM_MW_EXIT_TO_FREEROAM_FOOTER = Quit current mode and return to Free Roam
+
+NM_MW_MEMBERS_LINK = Posse Members
+
+NM_MW_OUTFIT_STYLE = Outfit Style
+
+NM_MW_POSSE_ABANDON_LINK = Abandon Posse
+
+NM_MW_POSSE_ABANDON_LINK_FOOTER = Permanently leave the Posse
+
+NM_MW_POSSE_ACTIVATE = Reform Posse
+
+NM_MW_POSSE_ACTIVATE_FOOTER = Reform this Posse
+
+NM_MW_POSSE_ACTIVATE_FOOTER_M = Rejoin your Persistent Posse
+
+NM_MW_POSSE_ACTIVATE_FOOTER_SM = Matchmake to rejoin your Persistent Posse
+
+NM_MW_POSSE_ACTIVATE_M = Rejoin Posse
+
+NM_MW_POSSE_CAMP_FOOTER = Posse Camp pitched ~1~
+
+NM_MW_POSSE_CAMP_NONE_FOOTER = Posse Camp is currently not pitched
+
+NM_MW_POSSE_CONTENT_ACTIVE_FOOTER = You cannot perform this action while on active content
+
+NM_MW_POSSE_CONTENT_JOIN_LOCK = You cannot join a Posse while they are on active content
+
+NM_MW_POSSE_CONTENT_LOCK_ABANDON_FOOTER = Cannot abandon Posse while content starts
+
+NM_MW_POSSE_CONTENT_LOCK_ACTIVATE_FOOTER = Unable to activate Posse while content starts
+
+NM_MW_POSSE_CONTENT_LOCK_DISBAND_FOOTER = Cannot disband Posse while content starts
+
+NM_MW_POSSE_CONTENT_LOCK_INVITE_FOOTER = Unable to invite players while content starts
+
+NM_MW_POSSE_CONTENT_LOCK_JOIN_FOOTER = Unable to join Posse while content starts
+
+NM_MW_POSSE_CONTENT_LOCK_LEAVE_FOOTER = Can not leave Posse while content starts
+
+NM_MW_POSSE_CONTENT_LOCK_STANDDOWN_FOOTER = Unable to stand down while content starts
+
+NM_MW_POSSE_CREATE = Form a Posse
+
+NM_MW_POSSE_CREATE_FEE = Admin Fee
+
+NM_MW_POSSE_CREW_FOOTER = The Posse Leader's Crew
+
+NM_MW_POSSE_DISBAND_LINK = Disband Posse
+
+NM_MW_POSSE_DISBAND_LINK_FOOTER = Permanently close the Posse
+
+NM_MW_POSSE_DISBAND_WARNING_HEADER = Posse Disband
+
+NM_MW_POSSE_DISBAND_WARNING_SUBHEADER = Disbanding will permanently delete this Posse.
+
+NM_MW_POSSE_ENTRY_FOOTER = Posse list of your own Posses and nearby Posses of other players
+
+NM_MW_POSSE_FRIENDLY_FIRE = Friendly Fire
+
+NM_MW_POSSE_JAIL_LOCK_REJOIN_FOOTER = This Posse cannot be rejoined while incarcerated
+
+NM_MW_POSSE_JOIN = Join Posse
+
+NM_MW_POSSE_JOIN_BLOCKED_FOOTER = This Posse cannot be joined
+
+NM_MW_POSSE_JOIN_BLOCKED_PRIVACY_FOOTER = This Posse is closed and cannot be joined
+
+NM_MW_POSSE_JOIN_CONTENT_BLOCK_FOOTER = This Posse cannot be joined while on a mission
+
+NM_MW_POSSE_JOIN_FOOTER = Join this Posse to become a Posse Member
+
+NM_MW_POSSE_JOIN_INACTIVE_POSSE_FOOTER = Posse Leader has not activated this Posse for you to join
+
+NM_MW_POSSE_JOIN_LEADER_FOOTER = You are the Leader of this Posse
+
+NM_MW_POSSE_JOIN_MEMBER_FOOTER = You are a member of this Posse
+
+NM_MW_POSSE_JOIN_TOO_MANY_FOOTER = This Posse is full and cannot be joined
+
+NM_MW_POSSE_KICKED_FOOTER = You cannot join a Posse after being kicked
+
+NM_MW_POSSE_LEADER = Leader
+
+NM_MW_POSSE_LEAVE_INACTIVE_FOOTER = Cannot leave a Posse while content is active
+
+NM_MW_POSSE_LEAVE_LINK = Stand Down
+
+NM_MW_POSSE_LEAVE_L_LINK_FOOTER = Temporarily close the Posse to reform later
+
+NM_MW_POSSE_LEAVE_M_LINK_FOOTER = Temporarily leave the Posse to rejoin later
+
+NM_MW_POSSE_MEMBERS_FOOTER = View Posse Members
+
+NM_MW_POSSE_MEMBER_GENERIC_DISABLE = Only the Posse Leader can change this setting
+
+NM_MW_POSSE_MEMBER_LOCKED_FOOTER = Increase Camp size to unlock
+
+NM_MW_POSSE_NAME = Name
+
+NM_MW_POSSE_OTHER_CONTENT_LOCK_REJOIN_FOOTER = Unable to rejoin Posse while their content starts
+
+NM_MW_POSSE_PERSISTENCE_FOOTER = Toggle Persistent Posse
+
+NM_MW_POSSE_PERS_LEADER = You are the leader of this Persistent Posse and can reform it
+
+NM_MW_POSSE_PERS_MEMB_BLOCK = You are a member of this Persistent Posse but the Posse Leader hasn't reformed it
+
+NM_MW_POSSE_PERS_MEMB_JOINABLE = You are a member of this Persistent Posse and can rejoin
+
+NM_MW_POSSE_PERS_MEMB_JOIN_SESS = You are a member of this Persistent Posse and can matchmake to rejoin
+
+NM_MW_POSSE_REPUTATION = Reputation
+
+NM_MW_POSSE_SETTINGS_FOOTER = View Posse settings
+
+NM_MW_POSSE_SETTINGS_LINK = Settings
+
+NM_MW_POSSE_STATS_LINK = Stats
+
+NM_MW_POSSE_TYPE = Type
+
+NM_MW_POSSE_TYPE_PERSISTENT = Persistent
+
+NM_MW_POSSE_TYPE_TEMPORARY = Temporary
+
+NM_MW_POSSE_VERSUS_CHANGE_TEAM = Change Team
+
+NM_MW_POSSE_VERSUS_FOOTER = Launch a Posse Versus with your Posse
+
+NM_MW_POSSE_VERSUS_FOOTER_BLOCKED_JAIL = Posse Versus is unavailable while you or any of your Posse are incarcerated
+
+NM_MW_POSSE_VERSUS_LINK = Posse Versus
+
+NM_MW_POSSE_VERSUS_NO_PERSISTENT_POSSE_FOOTER = Access for Persistent Posses only
+
+NM_MW_QUIT_TO_FREEROAM = Quit to Free Roam
+
+NM_MW_VERIFY_EXIT_POSSE_MEMBER = Are you sure you want to quit to Free Roam?~n~You will be leaving your current Posse behind.
+
+NM_MW_VERIFY_EXIT_SOLO = Are you sure you want to quit to Free Roam?
+
+NM_OPTION_DISABLED_ACTIVITY_TOOLTIP = You cannot access this option during an activity
+
+NM_OPTION_DISABLED_INTRO_TOOLTIP = You cannot access this option during the Intro Mission
+
+NM_PLAYER_INFO_IN_SESSION_TOOLTIP = Player is currently in your session
+
+NM_PLAYER_INFO_NOT_IN_SESSION_TOOLTIP = Player is currently not in your session
+
+NM_PLAYER_REPORT_ABUSIVE = Abusive Chat
+
+NM_PLAYER_REPORT_ABUSIVE_DESC = Abusive Chat includes offensive spoken or written language, including hate speech, threats, or cruel, derisive, or hurtful language. Please also remember: You can 'Mute' abusive players using the Player menu.
+
+NM_PLAYER_REPORT_ABUSIVE_FOOTER = Report for abusive chat
+
+NM_PLAYER_REPORT_CHEATING = Cheating
+
+NM_PLAYER_REPORT_CHEATING_DESC = Cheating includes the use of external applications or exploitation of serious bugs to gain an unfair advantage during play.
+
+NM_PLAYER_REPORT_CHEATING_FOOTER = Report for cheating
+
+NM_PLAYER_REPORT_CONFIRM = We will consider the information provided when evaluating whether there is a violation of our policies. While we will not comment on the outcome of your report, we appreciate you taking the time to make sure our game is a fun, fair and friendly place to play.
+
+NM_PLAYER_REPORT_DISRUPTIVE = Disruptive Behavior
+
+NM_PLAYER_REPORT_DISRUPTIVE_DESC = Disruptive Behavior includes any action that prevents others from playing the game in a normal manner including griefing.
+
+NM_PLAYER_REPORT_DISRUPTIVE_FOOTER = Report for disruptive behavior
+
+NM_PLAYER_REPORT_OFFENSIVE = Offensive Content
+
+NM_PLAYER_REPORT_OFFENSIVE_DESC = Offensive content includes Posse and horse names which contain obscenity or hate speech.
+
+NM_PLAYER_REPORT_OFFENSIVE_FOOTER = Report for offensive content
+
+NM_PLAYER_REPORT_OHN = Offensive Horse Name
+
+NM_PLAYER_REPORT_OPN = Offensive Posse Name
+
+NM_PLAYER_REPORT_SUBMIT = Submit Report
+
+NM_PLAYLIST_ADVERSARY_LARGE = Showdown Series Large
+
+NM_PLAYLIST_ADVERSARY_LARGE_FOOTER = Compete against more players in a series of varied game types
+
+NM_PLAYLIST_ADVERSARY_MEDIUM = Showdown Series
+
+NM_PLAYLIST_ADVERSARY_MEDIUM_FOOTER = Compete alone or in teams in a series of varied game types
+
+NM_PLAYLIST_ADVERSARY_SMALL = Showdown Series Small
+
+NM_PLAYLIST_ADVERSARY_SMALL_FOOTER = Compete against other players in a small Series
+
+NM_PLAYLIST_CAPTURE = Takeover Series
+
+NM_PLAYLIST_CAPTURE_FOOTER = Seize control in these capture-focused Showdowns
+
+NM_PLAYLIST_CORONA = Enter ~1~ Matchmaking
+
+NM_PLAYLIST_DEBUG_PLAY_SERIES_1 = Debug Play Series 1
+
+NM_PLAYLIST_DEBUG_PLAY_SERIES_2 = Debug Play Series 2
+
+NM_PLAYLIST_DEBUG_PLAY_SERIES_3 = Debug Play Series 3
+
+NM_PLAYLIST_ELIMINATION_LARGE = Elimination Series Large
+
+NM_PLAYLIST_ELIMINATION_LARGE_FOOTER = Fight against more players in a series of elimination style modes
+
+NM_PLAYLIST_ELIMINATION_MEDIUM = Elimination Series
+
+NM_PLAYLIST_ELIMINATION_MEDIUM_FOOTER = Fight to survive in a series of elimination style modes
+
+NM_PLAYLIST_ELIMINATION_SMALL = Elimination Series Small
+
+NM_PLAYLIST_ELIMINATION_SMALL_FOOTER = Fight to survive in a series of small scale elimination style modes
+
+NM_PLAYLIST_FEATURED_001 = Featured Series
+
+NM_PLAYLIST_FEATURED_001_FOOTER = Compete in the newly featured Red Dead Online modes
+
+NM_PLAYLIST_FOOTER_UNAVAILABLE_MATCHMADE = Currently unavailable due to matchmaking
+
+NM_PLAYLIST_FOOTER_UNAVAILABLE_UGC = Currently unavailable due to an ongoing mission
+
+NM_PLAYLIST_GUN_RUSH = Gun Rush
+
+NM_PLAYLIST_GUN_RUSH_FOOTER = Compete in a shrinking play area. Last one standing wins
+
+NM_PLAYLIST_GUN_RUSH_TEAMS = Gun Rush Teams
+
+NM_PLAYLIST_GUN_RUSH_TEAMS_FOOTER = Compete in a shrinking play area. Last team standing wins
+
+NM_PLAYLIST_HARDCORE_SERIES = Hardcore Series
+
+NM_PLAYLIST_HARDCORE_SERIES_FOOTER = Compete against other players in a Series of Hardcore maps
+
+NM_PLAYLIST_MATCHMADE_PLAYERS = Matched Players: ~1~
+
+NM_PLAYLIST_NOMINATED = Nominated Series
+
+NM_PLAYLIST_NOMINATED_FOOTER = Compete in a variety of game modes chosen by you and other players
+
+NM_PLAYLIST_NOMINATED_LARGE = Nominated Series - 32 Player
+
+NM_PLAYLIST_NOMINATED_MEDIUM = Nominated Series - 16 Player
+
+NM_PLAYLIST_N_PLYR_MAX = 1-~1~ Players
+
+NM_PLAYLIST_RACE = Race Series
+
+NM_PLAYLIST_RACE_FOOTER = Kick up some dust in a series of Races
+
+NM_PLAYLIST_SERIES_ON_CALL = Series Playlist On-Call
+
+NM_PLAYLIST_SERIES_ON_CALL_FOOTER = Make yourself available to join others in any of the Series Playlist
+
+NM_PLAYLIST_SHOOTOUT = Shootout Series
+
+NM_PLAYLIST_SHOOTOUT_FOOTER = Test your aim in a series of gunslinging Showdowns
+
+NM_PLAYLIST_STORY_MISSION_ON_CALL = Story Mission On-Call
+
+NM_PLAYLIST_STORY_MISSION_ON_CALL_FOOTER = Make yourself available to join others in a Story Mission
+
+NM_POSSE_DEFENSIVE_LEADER = ~fg~¦~fo~ ~1p~
+
+NM_POSSE_INFO_DISABLED_ACTIVITY_TOOLTIP = Posse information is unavailable while in an activity
+
+NM_POSSE_INFO_DISABLED_INTRO_MISSION_TOOLTIP = Posse information is unavailable during the Intro Mission
+
+NM_POSSE_NAME_DEFAULT = ~1p~'s Posse
+
+NM_POSSE_REFORM_TOOLTIP = Reform this Posse to access this option
+
+NM_PW_ABILITY_LOAD = View Ability Loadout
+
+NM_PW_ABILITY_LOAD_FOOTER = View Ability Card Loadout
+
+NM_PW_ADD_FRIEND = Add Friend
+
+NM_PW_ADD_FRIEND_TOOLTIP = Send this player a Friend request
+
+NM_PW_C_NO_ACTIVE = Must be active in a Crew to invite others
+
+NM_PW_C_NO_SC_LOCAL = Crews require a linked Social Club account
+
+NM_PW_INVG = Invite to Posse
+
+NM_PW_INVITE_TO_CREW_FOOTER = Invite players to join your Crew
+
+NM_PW_INVS = Invite to Session
+
+NM_PW_JOIN_SESSION = Join Session
+
+NM_PW_MEMBER_EARN = Posse Earning
+
+NM_PW_MEMBER_POS = Player Position
+
+NM_PW_MESSAGE = Message
+
+NM_PW_MESSAGE_FOOTER = Message this player
+
+NM_PW_PLAYER_LIST_PAGE = Page ~1~ of ~2~
+
+NM_PW_PLAYER_SLOT_EMPTY = Empty
+
+NM_PW_PLAYER_SLOT_LOCKED = Locked
+
+NM_PW_REMOVE_FRIEND = Remove Friend
+
+NM_PW_REMOVE_FRIEND_TOOLTIP = Remove this player from your list
+
+NM_PW_REPORT = Report
+
+NM_PW_REPORT_PLAYER_FOOTER = Report bad behavior
+
+NM_PW_SHOW_GAMER_CARD_FOOTER = View this player's profile
+
+NM_PW_VIEW_ABILITY_LOADOUT_FOOTER = View equipped Ability Cards
+
+NM_PW_VIEW_POSSE = View Posse
+
+NM_STABLE_FILTER_ALL_COACHES = All Vehicles
+
+NM_STABLE_FILTER_ALL_HORSES = All Horses
+
+NM_STABLE_FILTER_DRAFT_HORSE = Draft Horses
+
+NM_STABLE_FILTER_GENERIC_HORSE = Riding Horses
+
+NM_STABLE_FILTER_OWNED_HORSES = Owned Horses
+
+NM_STABLE_FILTER_OWNED_VEHICLES = Owned Vehicles
+
+NM_STABLE_FILTER_RACE_HORSE = Race Horses
+
+NM_STABLE_FILTER_SUPERIOR_HORSE = Superior Horses
+
+NM_STABLE_FILTER_WAR_HORSE = War Horses
+
+NM_STABLE_FILTER_WORK_HORSE = Work Horses
+
+NM_STABLE_NO_MOUNT = No one is currently mounted on your horse
+
+NM_STABLE_VEHICLE_NO_MOUNT = No one is currently mounted on your vehicle
+
+NS_OSK_ENTER_NAME_DESC = Enter Posse Name
+
+NS_OSK_ENTER_NAME_TITLE = Enter a new name for your Posse
+
+NW_PW_C_CANT_INVITE = This player can not receive invites at this time
+
+NW_PW_C_CURRENT_MEMBER = Current member of your Crew
+
+NW_PW_C_NO_SC_REMOTE = Player requires a Social Club account
+
+PLAYER_MENU_WARNING_ALERT_REROLL = Entering the Change Appearance menu forces you to leave your session and abandon all content. Are you sure you want to proceed?
+
+POSSE_DEPUTY = Deputy
+
+POSSE_HIRED_MEMBER = Member
+
+POSSE_LEADER = Leader
+
+POSSE_PRIVACY = Privacy
+
+POSSE_SETTINGS_SUBH = Posse Settings
+
+POSSE_VERSUS_INFIGHTING_SUBH = Team Split
+
+POSSE_VERSUS_SUBH = Posse Versus
+
+UGC_RACE_SUB_TYPE_COMBAT = Combat
+
+UGC_RACE_SUB_TYPE_OPEN_RACE = Open
+
+UGC_RACE_SUB_TYPE_STANDARD = Standard
+
+UGC_TYPE_DM_EXC = Make It Count
+
+UGC_TYPE_DM_FTB = FTB
+
+UGC_TYPE_DM_GR = Gun Rush
+
+UGC_TYPE_DM_LMS = LOS
+
+UGC_TYPE_DM_LTS = LTS
+
+UGC_TYPE_DM_MM = MM
+
+UGC_TYPE_DM_STANDARD = Standard
+
+UGC_TYPE_DM_TEAM = Team
+
+UGC_TYPE_DM_TGR = Gun Rush Teams
+
+UGC_TYPE_DM_TWOC = Name Your Weapon (Teams)
+
+UGC_TYPE_DM_WOC = Name Your Weapon (FFA)
+
+VERIFY_EXIT_LOBBY = Are you sure you want to exit?
+
+VERIFY_EXIT_LOBBY_POSSE_LEADER = Are you sure you want to exit?~n~If you leave alone, you will be separated from your Posse.
+
+VERIFY_EXIT_LOBBY_POSSE_MEMBER = Are you sure you want to exit?~n~You will be leaving your current Posse behind.
+

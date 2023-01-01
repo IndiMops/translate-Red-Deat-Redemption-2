@@ -1,0 +1,244 @@
+RRCH1_IG1P1_1 = ~z~Hey Pa.
+
+RRCH1_IG1P1_2 = ~z~Is that your boy?
+
+RRCH1_IG1P1_3 = ~z~Sure. Abe, Lancelot.
+
+RRCH1_IG1P1_4 = ~z~Hey, Lancelot.
+
+RRCH1_IG1P1_5 = ~z~Hey.
+
+RRCH1_IG2P1_1 = ~z~That's enough, Jim. Now, come on.
+
+RRCH1_IG2P1_2 = ~z~How about you and the boy, uh, help me clean out stables?
+
+RRCH1_IG2P1_3 = ~z~~sl:0.6~Sure... Come on, son.
+
+RRCH1_IG2P2_1 = ~z~How old are you now, Lancelot?
+
+RRCH1_IG2P2_2 = ~z~Twelve, sir.
+
+RRCH1_IG2P2_3 = ~z~Ain't that grand. And such a fine name.
+
+RRCH1_IG2P2_4 = ~z~I... like it. I got...
+
+RRCH1_IG2P2_5 = ~z~I got imaginative parents, sir.
+
+RRCH1_IG2P2_6 = ~z~~sl:0.8~I can tell.
+
+RRCH1_IG3P1_1 = ~z~I reckon even your mother would say we were almost done here.
+
+RRCH1_IG3P1_2 = ~z~You finish things up, I'll go check on her.
+
+RRCH1_IG3P1_3 = ~z~Okay...
+
+RRCH1_IG3P1_4 = ~z~Lancelot.
+
+RRCH1_RSC1_1 = ~z~Milton,
+
+RRCH1_RSC1_2 = ~z~get over here.
+
+RRCH1_RSC1_3 = ~z~Mr. Geddes,
+
+RRCH1_RSC1_4 = ~z~this is the new ranch hand I told you about.
+
+RRCH1_RSC1_5 = ~z~I heard you found some trouble with your welcome,
+
+RRCH1_RSC1_6 = ~z~but you kept your nerve and protected my property.
+
+RRCH1_RSC1_7 = ~z~Ah it was nothing, sir.
+
+RRCH1_RSC1_8 = ~z~I'm David Geddes.
+
+RRCH1_RSC1_9 = ~z~Pleased to meet you.
+
+RRCH1_RSC1_10 = ~z~John...
+
+RRCH1_RSC1_11 = ~z~Jim Milton.
+
+RRCH1_RSC1_12 = ~z~Thank you for the opportunity Sir.
+
+RRCH1_RSC1_13 = ~z~You and Mr. Dickens.
+
+RRCH1_RSC1_14 = ~z~You work hard,
+
+RRCH1_RSC1_15 = ~z~you be honest,
+
+RRCH1_RSC1_16 = ~z~you'll get your keep.
+
+RRCH1_RSC1_17 = ~z~I promise you that.
+
+RRCH1_RSC1_18 = ~z~Boy has a family.
+
+RRCH1_RSC1_19 = ~z~Lucky man.
+
+RRCH1_RSC1_20 = ~z~Then you better work extra hard.
+
+RRCH1_RSC1_21 = ~z~Good day, gentlemen.
+
+RRCH1_RSC1_22 = ~z~Sir.
+
+RRCH1_RSC1_23 = ~z~You hear that John Jim...
+
+RRCH1_RSC1_24 = ~z~extra hard.
+
+RRCH1_RSC1_25 = ~z~Abe...
+
+RRCH1_RSC1_26 = ~z~Abe, get over here.
+
+RRCH1_RSC1_27 = ~z~Mr. Dickens?
+
+RRCH1_RSC1_28 = ~z~Go find ole Jim Milton here something to do...
+
+RRCH1_RSC1_29 = ~z~make sure he works extra hard.
+
+RRCH1_RSC1_30 = ~z~Yes Mr. Dickens.
+
+RRCH1_RSC2_1 = ~z~Mrs. Milton!
+
+RRCH1_RSC2_2 = ~z~Jim Milton,
+
+RRCH1_RSC2_3 = ~z~how fine you seem.
+
+RRCH1_RSC2_4 = ~z~This kind man just collected us.
+
+RRCH1_RSC2_5 = ~z~Thank you sir.
+
+RRCH1_RSC2_6 = ~z~I think we can be okay here...
+
+RRCH1_RSC2_7 = ~z~it's ranching work.
+
+RRCH1_RSC2_8 = ~z~This place is kinda...
+
+RRCH1_RSC2_9 = ~z~It's fine...
+
+RRCH1_RSC2_10 = ~z~but I hear you began your career as a rancher,
+
+RRCH1_RSC2_11 = ~z~by shooting holes in folks.
+
+RRCH1_RSC2_12 = ~z~Real wise, “Jim”
+
+RRCH1_RSC2_13 = ~z~What was I supposed to do?
+
+RRCH1_RSC2_14 = ~z~The place was getting robbed.
+
+RRCH1_RSC2_15 = ~z~So you show everyone who was boss?
+
+RRCH1_RSC2_16 = ~z~Real fine.
+
+RRCH1_RSC2_17 = ~z~We didn't have much of a choice...
+
+RRCH1_RSC2_18 = ~z~I gotta go.
+
+RRCH1_RSC2_19 = ~z~Jack, when you're done in here,
+
+RRCH1_RSC2_20 = ~z~come on out and lend a hand.
+
+RRCH1_RSC3_1 = ~z~Yup. We used to have a bunch of women here did most of the milking...
+
+RRCH1_RSC3_2 = ~z~but most of them drifted off.
+
+RRCH1_RSC3_3 = ~z~Okay.
+
+RRCH1_RSC3_4 = ~z~You fine with milking?
+
+RRCH1_RSC3_5 = ~z~You know...
+
+RRCH1_RSC3_6 = ~z~I ain't really done much of it...
+
+RRCH1_RSC3_7 = ~z~could never...
+
+RRCH1_RSC3_8 = ~z~never really get the hang of it.
+
+RRCH1_RSC3_9 = ~z~Are you serious, mister?
+
+RRCH1_RSC3_10 = ~z~Sure...
+
+RRCH1_RSC3_11 = ~z~and it's Jim.
+
+RRCH1_RSC3_12 = ~z~Jim Milton.
+
+RRCH1_RSC3_13 = ~z~Abe.
+
+RRCH1_RSC3_14 = ~z~Sit down, I'll show you how...
+
+RRCH1_RSC3_15 = ~z~Approach her calm now.
+
+RRCH1_RSC3_16 = ~z~She don't take too kindly to surprises.
+
+RRCH1_RSC4B_1 = ~z~Hey.
+
+RRCH1_RSC4B_2 = ~z~Hey.
+
+RRCH1_RSC4B_3 = ~z~Where's Jack.
+
+RRCH1_RSC4B_4 = ~z~Shoveling shit,
+
+RRCH1_RSC4B_5 = ~z~in pursuit of the better life you want.
+
+RRCH1_RSC4B_6 = ~z~Same as I've been...
+
+RRCH1_RSC4B_7 = ~z~Won't do him no harm.
+
+RRCH1_RSC4B_8 = ~z~I know...
+
+RRCH1_RSC4B_9 = ~z~Guess maybe we can last here.
+
+RRCH1_RSC4B_10 = ~z~Survive...
+
+RRCH1_RSC4B_11 = ~z~Do a little better than survive, for once.
+
+RRCH1_RSC4B_12 = ~z~I'm tired of fleeing John.
+
+RRCH1_RSC4B_13 = ~z~So...
+
+RRCH1_RSC4B_14 = ~z~well you know...
+
+RRCH1_RSC4B_15 = ~z~Me too...
+
+RRCH1_RSC4_1 = ~z~Hey.
+
+RRCH1_RSC4_2 = ~z~Hey.
+
+RRCH1_RSC4_3 = ~z~Where's Jack?
+
+RRCH1_RSC4_4 = ~z~Shoveling shit,
+
+RRCH1_RSC4_5 = ~z~in pursuit of the better life you want.
+
+RRCH1_RSC4_6 = ~z~Same as I've been...
+
+RRCH1_RSC4_7 = ~z~Won't do him no harm.
+
+RRCH1_RSC4_8 = ~z~I know...
+
+RRCH1_RSC4_9 = ~z~Hey.
+
+RRCH1_RSC4_10 = ~z~Hey.
+
+RRCH1_RSC4_11 = ~z~Where's Jack.
+
+RRCH1_RSC4_12 = ~z~Shoveling shit,
+
+RRCH1_RSC4_13 = ~z~in pursuit of the better life you want.
+
+RRCH1_RSC4_14 = ~z~Same as I've been...
+
+RRCH1_RSC4_15 = ~z~Won't do him no harm.
+
+RRCH1_RSC4_16 = ~z~I know...
+
+RRCH1_RSC4_17 = ~z~Guess maybe we can last here.
+
+RRCH1_RSC4_18 = ~z~Survive...
+
+RRCH1_RSC4_19 = ~z~Do a little better than survive, for once.
+
+RRCH1_RSC4_20 = ~z~I'm tired of fleeing John.
+
+RRCH1_RSC4_21 = ~z~So...
+
+RRCH1_RSC4_22 = ~z~well you know...
+
+RRCH1_RSC4_23 = ~z~Me too...
+

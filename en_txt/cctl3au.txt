@@ -1,0 +1,42 @@
+CCTL3_ACTA1_1 = ~z~What you reading?
+
+CCTL3_ACTA1_2 = ~z~Oh some silly book... I swear I could do better in my sleep.
+
+CCTL3_ACTA1_3 = ~z~Then why don't you?
+
+CCTL3_ACTA1_4 = ~z~Because she was born poor.
+
+CCTL3_ACTA1_5 = ~z~She was born poor, but maybe she won't die poor.
+
+CCTL3_ACTA1_6 = ~z~We're all going to die poor... maybe we can have some fun in the mean time.
+
+CCTL3_ACTA1_7 = ~z~I disagree... I ain't gonna die poor, I know that.
+
+CCTL3_ACTA1_8 = ~z~Good luck to you, missy.
+
+CCTL3_ACTA2_1 = ~z~What do you think about women, Mr. Arthur?
+
+CCTL3_ACTA2_2 = ~z~I don't think there's much difference between women and men...
+
+CCTL3_ACTA2_3 = ~z~most of both are awful... there's a few... worth loving and dying for, I guess.
+
+CCTL3_ACTA2_4 = ~z~If they'll let you.
+
+CCTL3_ACTA2_5 = ~z~I knew you was a romantic, Mr. Morgan. I just knew it.
+
+CCTL3_ACTB_1 = ~z~The world is changing for women.
+
+CCTL3_ACTB_2 = ~z~
+
+CCTL3_ACTB_3 = ~z~No it ain't. The world is a place men do what they want with us and we try to survive.
+
+CCTL3_ACTB_4 = ~z~Only if you let it...
+
+CCTL3_ACTB_5 = ~z~You let 'em.
+
+CCTL3_ACTB_6 = ~z~I ran away from them boys.
+
+CCTL3_ACTB_7 = ~z~And joined these fine gentlemen?
+
+CCTL3_ACTB_8 = ~z~They're okay... and we're gonna be okay... if you'd only see that.
+

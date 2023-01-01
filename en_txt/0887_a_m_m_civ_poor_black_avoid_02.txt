@@ -1,0 +1,132 @@
+0x070F418A = ~z~Hey, I don't want no part of what you got.
+
+0x0CCE4294 = ~z~What's wrong with you, mister?
+
+0x0FAE3807 = ~z~Someone help!
+
+0x1A6C1C48 = ~z~Life ain't ever gonna get better, will it?
+
+0x1FB3AE42 = ~z~Hey, come on. I got places to be.
+
+0x2AB036AF = ~z~What the hell is it with this town?
+
+0x2F01DAEF = ~z~Why you have to be so close to me?
+
+0x2FF12DE6 = ~z~You're stepping on my nerves, feller.
+
+0x4AD06127 = ~z~Are you sick in the head?
+
+0x6A774567 = ~z~Get outta here, quick.
+
+0x6DCB8785 = ~z~Get away from me.
+
+0x7C8B0AF1 = ~z~Hey now. You're talking like a damned fool.
+
+0x7F85AAF9 = ~z~Get away.
+
+0x8AE1279D = ~z~Hey, was you raised right, friend?
+
+0x8BD80D03 = ~z~You better leave right now.
+
+0x8C4B3136 = ~z~Don't, please stop.
+
+0x8D69D772 = ~z~Jesus!
+
+0x9B1AF164 = ~z~Quit following me.
+
+0x9BEF0F2D = ~z~Oh, this ain't real.
+
+0x9CC91C5D = ~z~Hey, watch yourself.
+
+0x9DEF7090 = ~z~Just leave me alone.
+
+0x11CCD07A = ~z~Didn't you just say hello?
+
+0x25FEA2A3 = ~z~I ain't got nothing, please.
+
+0x36F80E6F = ~z~You ain't even worth my attention.
+
+0x36F120A6 = ~z~Hey, you caused enough problems round here.
+
+0x46CFC096 = ~z~Let's see what the law says.
+
+0x63D786FB = ~z~~sl:0.0:1.0:1~The hell did I do?
+
+0x67A296D8 = ~z~You better quit it now. I ain't fooling.
+
+0x93A55BFC = ~z~Why do you keep this up?
+
+0x138CFF68 = ~z~Don't make me do this.
+
+0x252A31C4 = ~z~Just how it is...
+
+0x451EAABC = ~z~I'm just gonna go like you ain't here.
+
+0x535FE49E = ~z~Let's just walk away with everyone still breathing. I'm fine with that.
+
+0x572E1ED5 = ~z~Move if you know what's good for ya.
+
+0x746C129F = ~z~~sl:0.0:0.9~Looks dead.~sl:0.8:1.3~I swear this town...
+
+0x793EBF97 = ~z~Here, okay, just take the money.
+
+0x67551BC4 = ~z~Alright. I only got this, just take it.
+
+0x86950F75 = ~z~Hey, what the hell are you doing here?
+
+0x280504C9 = ~z~Leave me be.
+
+0x297376CE = ~z~Hey. Put that gun down.
+
+0x1350633D = ~z~Goddammit!
+
+0x5342237B = ~z~Mind giving me some space?
+
+0x9673901A = ~z~Buncha inbred hicks.
+
+0x58916419 = ~z~I'm gonna get the law for this.
+
+0xA03D001B = ~z~Sure, don't see why not.
+
+0xA09523F5 = ~z~Hey, look out.
+
+0xA4A0C664 = ~z~Jesus. You do this?
+
+0xA47A2043 = ~z~Jesus, no.
+
+0xAC8AA0A7 = ~z~I ain't no chicken.
+
+0xAF3174BC = ~z~You see something interesting, friend? Ain't nothing interesting here.
+
+0xBDF7949B = ~z~Help! Help!
+
+0xC8A0B1BA = ~z~You ain't even worth my attention.
+
+0xC8D7EBAA = ~z~Why do you keep staring at me?
+
+0xCEC0C96E = ~z~Stay away from me.
+
+0xD8D709FD = ~z~This it? Cause you're about to die.
+
+0xD5614361 = ~z~Please, please no.
+
+0xDEC9DE0C = ~z~I'm just gonna go like you ain't here.
+
+0xDF2E904E = ~z~Come on, now. Don't do that.
+
+0xE0B41262 = ~z~Well good. I don't want to fight anyways.
+
+0xE2997CCC = ~z~Hey, you stop that.
+
+0xEBD4B917 = ~z~~sl:2.5:0.8:1~Jesus...
+
+0xF8FD7033 = ~z~Leave me be.
+
+0xFB681AB8 = ~z~Whoa. Just put the gun down, alright?
+
+0xFE7D661F = ~z~I said to cut that crap out.
+
+RE_TWO_MTN_V1_TAKE_HOME_PLY_INT_V_07 = ~z~Whoa, alright now, let's just calm down.
+
+RE_TWO_MTN_V1_TAKE_HOME_PLY_INT_V_08 = ~z~Okay, no need to fight now.
+

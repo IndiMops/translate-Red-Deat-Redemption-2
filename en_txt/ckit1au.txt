@@ -1,0 +1,20 @@
+CKIT1_ACTION_1 = ~z~You behaving there, O'Driscoll?
+
+CKIT1_ACTION_2 = ~z~I'm not an O'Driscoll, sir...
+
+CKIT1_ACTION_3 = ~z~Sure. How are the horses?
+
+CKIT1_ACTION_4 = ~z~Okay... I mean... well... but they could be better...
+
+CKIT1_ACTION_5 = ~z~I'm worried... they-they-they've been through a lot...
+
+CKIT1_ACTION_6 = ~z~If I had some burdock root, just a couple, I-I could knock up a poultice, could keep them well and cure some ailments.
+
+CKIT1_ACTION_7 = ~z~Burdock root?
+
+CKIT1_ACTION_8 = ~z~Yes, yes, th-th-that works best.
+
+CKIT1_ACTION_9 = ~z~Okay, if I see some, I'll bring it you.
+
+CKIT1_ACT_B_DIR_1 = ~z~Thank you... sir.
+

@@ -1,0 +1,266 @@
+0x0E7C7C7E = Испытание завершено
+
+0x9FE3B619 = УЧЕТВЕРЕНИЕ СЧЕТА
+
+0x56F6A74D = УТРОЕНИЕ СЧЕТА
+
+0x75E23C98 = Быстро стреляйте по летящим птицам, чтобы получить дополнительные очки за серию убийств.
+
+0x473B58E6 = УДВОЕНИЕ СЧЕТА
+
+0x576D0990 = Серия: x~1~
+
+0x64751043 = Самая большая рыба
+
+0xF9E260F7 = У вас максимальное количество данной травы. Если вы сорвете эту траву, то увеличите свой счет, но она не попадет в вашу сумку.
+
+FMECHAL_HELP_INVALID_KILL_GRIEF = Ваши статусы истощены и не будут перезаряжаться в течение 2 минут из-за того, что вы убили игроков нежелательным способом. Используйте правильный способ, чтобы получать очки и избегать подобных ситуаций.
+
+FMECHAL_SHARD_COMBAT_DISABLED = Боевой режим отключен
+
+FMECHAL_VARIATION_BIGGEST_FISH_HELP_RULES = Во время состязания «Самая большая рыба» вам предстоит ловить рыбу удочкой. Побеждает игрок, поймавший самую большую рыбу.
+
+FMECHAL_VARIATION_BIGGEST_FISH_HELP_TEMP_WEAPON = На время проведения состязания в ваш инвентарь добавлена удочка. Удерживайте ~INPUT_OPEN_WHEEL_MENU~, затем нажмите ~INPUT_SELECT_NEXT_WHEEL~, чтобы выбрать ее в селекторе предметов.
+
+FMECHAL_VARIATION_BIGGEST_FISH_OBJECTIVE = Поймайте самую большую рыбу.
+
+FMECHAL_VARIATION_BIGGEST_FISH_OUTRO_SHARD_FAIL = Вы поймали рыбу весом ~1w~
+
+FMECHAL_VARIATION_BIGGEST_FISH_OUTRO_SHARD_NO_FISH = Ни одной рыбы не поймано
+
+FMECHAL_VARIATION_BIGGEST_FISH_OUTRO_SHARD_NO_WINNER = Никто не поймал ни одной рыбы
+
+FMECHAL_VARIATION_BIGGEST_FISH_OUTRO_SHARD_WIN = Вы поймали рыбу весом ~1w~
+
+FMECHAL_VARIATION_BIRD_PLAYER_KILLED_BIRD = Игрок ~1p~ подстрелил птицу
+
+FMECHAL_VARIATION_BIRD_PLAYER_KILLED_BIRD_SELF = Вы подстрелили птицу
+
+FMECHAL_VARIATION_BOW_HELP_INVALID_KILL = Вы только что потеряли очко, убив игрока неправильным оружием. Используйте лук, чтобы набирать очки.
+
+FMECHAL_VARIATION_BOW_HELP_RULES = Во время испытания ~COLOR_FREEMODE_EVENT~«Убийства из лука»~s~ убивайте игроков с помощью лука, чтобы набрать очки. Побеждает игрок, набравший больше всего очков.
+
+FMECHAL_VARIATION_BOW_HELP_RULES_SECONDARY = Вы теряете очки за убийства не из лука.
+
+FMECHAL_VARIATION_BOW_HELP_TEMP_WEAPON = На время проведения испытания в ваш инвентарь был добавлен лук.
+
+FMECHAL_VARIATION_BOW_INTRO_SHARD_TITLE = Убийства из лука
+
+FMECHAL_VARIATION_BOW_OBJECTIVE = Убивайте ~COLOR_ENEMY~врагов ~s~из лука.
+
+FMECHAL_VARIATION_BOW_OUTRO_SHARD_FAIL = ~1~ очков
+
+FMECHAL_VARIATION_BOW_OUTRO_SHARD_WIN = Вами убито врагов: ~1~
+
+FMECHAL_VARIATION_BOW_OUTRO_SHARD_WIN_PLURAL = Вами убито врагов: ~1~
+
+FMECHAL_VARIATION_FISHING_HELP_RULES_CUSTOM = Держа в руках удочку, одновременно нажмите ~INPUT_SPECIAL_ABILITY~ и ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~, чтобы активировать «Орлиный глаз». С ним вам будет легче заметить рыбу.
+
+FMECHAL_VARIATION_FISHING_HELP_RULES_CUSTOM_KM = Держа в руках удочку, нажмите ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз». С ним вам будет легче заметить рыбу.
+
+FMECHAL_VARIATION_FISHING_HELP_TEMP_WEAPON = На время проведения испытания в ваш инвентарь добавлена удочка. Удерживайте ~INPUT_OPEN_WHEEL_MENU~, чтобы открыть селектор предметов и взять ее.
+
+FMECHAL_VARIATION_FISHING_LAKE_HELP_RULES = Во время испытания ~COLOR_FREEMODE_EVENT~«Рыбалка на озере»~s~ вам предстоит ловить рыбу удочкой. Побеждает игрок, поймавший больше всех рыбы по общему весу.
+
+FMECHAL_VARIATION_FISHING_LAKE_INTRO_SHARD_TITLE = Рыбалка на озере
+
+FMECHAL_VARIATION_FISHING_OBJECTIVE = Наловите больше всех рыбы по общему весу.
+
+FMECHAL_VARIATION_FISHING_OBJ_EQUIP_BAIT = Насадите наживку, выбрав ее в селекторе наживки.
+
+FMECHAL_VARIATION_FISHING_OBJ_EQUIP_BAIT_SHORT = Насадите наживку.
+
+FMECHAL_VARIATION_FISHING_OBJ_EQUIP_ROD = Возьмите в руки удочку, выбрав ее в селекторе предметов.
+
+FMECHAL_VARIATION_FISHING_OBJ_FIND_WATER = Найдите водоем.
+
+FMECHAL_VARIATION_FISHING_OUTRO_SHARD_FAIL = Общий улов: ~1w~
+
+FMECHAL_VARIATION_FISHING_OUTRO_SHARD_WIN = Общий улов: ~1w~
+
+FMECHAL_VARIATION_FISHING_PLAYER_CAUGHT_FISH = Игрок ~1p~ поймал рыбу весом ~COLOR_WHITE~~2w~~s~
+
+FMECHAL_VARIATION_FISHING_PLAYER_CAUGHT_FISH_SELF = Вы поймали рыбу весом ~1w~
+
+FMECHAL_VARIATION_FISHING_RIVER_HELP_RULES = Во время испытания ~COLOR_FREEMODE_EVENT~«Рыбалка на реке»~s~ вам предстоит ловить рыбу удочкой. Побеждает игрок, поймавший больше всех рыбы по общему весу.
+
+FMECHAL_VARIATION_FISHING_RIVER_INTRO_SHARD_TITLE = Рыбалка на реке
+
+FMECHAL_VARIATION_FISHING_SWAMP_HELP_RULES = Во время испытания ~COLOR_FREEMODE_EVENT~«Рыбалка на болоте»~s~ вам предстоит ловить рыбу удочкой. Побеждает игрок, поймавший больше всех рыбы по общему весу.
+
+FMECHAL_VARIATION_FISHING_SWAMP_INTRO_SHARD_TITLE = Рыбалка на болоте
+
+FMECHAL_VARIATION_FLYING_BIRD_HELP_RULES = Стреляйте по птицам, чтобы заработать очки. Побеждает игрок, набравший больше очков.
+
+FMECHAL_VARIATION_FLYING_BIRD_HELP_RULES_CUSTOM = Нажмите ~INPUT_SPECIAL_ABILITY~ и ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~, чтобы включить «Орлиный глаз» для обнаружения птиц.
+
+FMECHAL_VARIATION_FLYING_BIRD_HELP_RULES_CUSTOM_KM = Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» для обнаружения птиц.
+
+FMECHAL_VARIATION_FLYING_BIRD_INTRO_SHARD_TITLE = Стрельба по птицам
+
+FMECHAL_VARIATION_FLYING_BIRD_OBJECTIVE = Подстрелите больше всех летающих птиц.
+
+FMECHAL_VARIATION_FLYING_BIRD_OUTRO_SHARD_NO_WINNER = Не сбито ни одной птицы
+
+FMECHAL_VARIATION_FLYING_BIRD_OUTRO_SHARD_WIN = Вами подстрелено птиц в воздухе: ~1~
+
+FMECHAL_VARIATION_FLYING_BIRD_OUTRO_SHARD_WIN_PLURAL = Вами подстрелено птиц в воздухе: ~1~
+
+FMECHAL_VARIATION_HEADSHOT_HELP_RULES = Попадайте в головы игроков из любого оружия, чтобы набрать очки в испытании ~COLOR_FREEMODE_EVENT~«Выстрелы в голову»~s~. Побеждает игрок, набравший больше очков.
+
+FMECHAL_VARIATION_HEADSHOT_INTRO_SHARD_TITLE = Убийства выстрелами в голову
+
+FMECHAL_VARIATION_HEADSHOT_OBJECTIVE = Убивайте ~COLOR_ENEMY~врагов ~s~выстрелами в голову
+
+FMECHAL_VARIATION_HEADSHOT_OUTRO_SHARD_FAIL = ~1~ очков
+
+FMECHAL_VARIATION_HEADSHOT_OUTRO_SHARD_WIN = Вами убито врагов: ~1~
+
+FMECHAL_VARIATION_HEADSHOT_OUTRO_SHARD_WIN_PLURAL = Вами убито врагов: ~1~
+
+FMECHAL_VARIATION_HERBALIST_HELP_RULES = Ищите и собирайте травы во время состязания «Сбор трав». Побеждает игрок, собравший больше трав.
+
+FMECHAL_VARIATION_HERBALIST_HELP_RULES_CUSTOM = Нажмите ~INPUT_SPECIAL_ABILITY~ и ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~, чтобы включить «Орлиный глаз» для обнаружения трав.
+
+FMECHAL_VARIATION_HERBALIST_HELP_RULES_CUSTOM_KM = Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы включить «Орлиный глаз» для обнаружения трав.
+
+FMECHAL_VARIATION_HERBALIST_INTRO_SHARD_TITLE = Сбор трав
+
+FMECHAL_VARIATION_HERBALIST_OBJECTIVE = Соберите больше всех трав.
+
+FMECHAL_VARIATION_HERBALIST_OUTRO_SHARD_FAIL = Никто не собрал трав
+
+FMECHAL_VARIATION_HERBALIST_OUTRO_SHARD_NO_WINNER = Никто не собрал трав
+
+FMECHAL_VARIATION_HERBALIST_OUTRO_SHARD_WIN = Вами собрано трав: ~1~
+
+FMECHAL_VARIATION_HERBALIST_OUTRO_SHARD_WIN_PLURAL = Вами собрано трав: ~1~
+
+FMECHAL_VARIATION_HERB_PLAYER_PICKED_HERB = Игрок ~1p~ сорвал растение
+
+FMECHAL_VARIATION_HERB_PLAYER_PICKED_HERB_SELF = Вы сорвали растение
+
+FMECHAL_VARIATION_HORSEBACK_HELP_INVALID_KILL = Вы только что потеряли очко, убив игрока и не находясь при этом верхом на лошади. Сядьте на лошадь, чтобы получать очки за убийства.
+
+FMECHAL_VARIATION_HORSEBACK_HELP_RULES = Верхом на лошади убивайте игроков из любого оружия во время испытания ~COLOR_FREEMODE_EVENT~«Убийства верхом на лошади»~s~. Побеждает игрок, набравший больше очков.
+
+FMECHAL_VARIATION_HORSEBACK_HELP_RULES_SECONDARY = За убийства не находясь верхом на лошади очки вычитаются.
+
+FMECHAL_VARIATION_HORSEBACK_INTRO_SHARD_TITLE = Убийства верхом на лошади
+
+FMECHAL_VARIATION_HORSEBACK_OBJECTIVE = Убивайте ~COLOR_ENEMY~врагов~s~, сидя верхом на лошади.
+
+FMECHAL_VARIATION_HORSEBACK_OUTRO_SHARD_FAIL = ~1~ очков
+
+FMECHAL_VARIATION_HORSEBACK_OUTRO_SHARD_WIN = Устранено врагов: ~1~
+
+FMECHAL_VARIATION_HORSEBACK_OUTRO_SHARD_WIN_PLURAL = Вами убито врагов: ~1~
+
+FMECHAL_VARIATION_HUNTING_BLIP_SPECIAL_ANIMAL = Редкое животное
+
+FMECHAL_VARIATION_HUNTING_HELP_RULES = Во время испытания ~COLOR_FREEMODE_EVENT~«Охота на диких зверей»~s~ вы набираете очки, убивая диких животных. Побеждает игрок, набравший больше очков.
+
+FMECHAL_VARIATION_HUNTING_HELP_RULES_SECONDARY = За крупных животных начисляется больше очков, чем за мелких. За убийство редкого животного ~COLOR_MP_OBJECTIVE~~BLIP_ANIMAL~~s~ начисляется еще больше очков.
+
+FMECHAL_VARIATION_HUNTING_HELP_SPECIAL_ANIMAL = Замечено редкое животное ~COLOR_ENEMY~~1b~~s~. Убейте его, чтобы увеличить свой счет.
+
+FMECHAL_VARIATION_HUNTING_INTRO_SHARD_TITLE = Охота на диких зверей
+
+FMECHAL_VARIATION_HUNTING_OBJECTIVE = Убейте наибольшее число диких животных.
+
+FMECHAL_VARIATION_HUNTING_OUTRO_SHARD_FAIL = ~1~ очков
+
+FMECHAL_VARIATION_HUNTING_OUTRO_SHARD_WIN = Вы набрали ~1~ очко.
+
+FMECHAL_VARIATION_HUNTING_OUTRO_SHARD_WIN_PLURAL = Вами набрано очков: ~1~
+
+FMECHAL_VARIATION_HUNTING_RARE_ALLIGATOR = редкого аллигатора
+
+FMECHAL_VARIATION_HUNTING_RARE_ANIMAL = редкое животное
+
+FMECHAL_VARIATION_HUNTING_RARE_ANIMAL_KILLED = Вы убили ~COLOR_MP_OBJECTIVE~~1~~s~
+
+FMECHAL_VARIATION_HUNTING_RARE_ANIMAL_SPOTTED = Вы заметили ~COLOR_MP_OBJECTIVE~~1~~s~
+
+FMECHAL_VARIATION_HUNTING_RARE_BEAR = редкого медведя
+
+FMECHAL_VARIATION_HUNTING_RARE_COUGAR = редкую пуму
+
+FMECHAL_VARIATION_HUNTING_RARE_WOLF = редкого волка
+
+FMECHAL_VARIATION_HUNTING_RETICLE_KILL_LARGE = +3
+
+FMECHAL_VARIATION_HUNTING_RETICLE_KILL_MEDIUM = +2
+
+FMECHAL_VARIATION_HUNTING_RETICLE_KILL_SMALL = +1
+
+FMECHAL_VARIATION_HUNTING_RETICLE_KILL_SPECIAL = +5
+
+FMECHAL_VARIATION_HUNTING_RETICLE_KILL_SPECIAL_B = +7
+
+FMECHAL_VARIATION_LONGARM_HELP_INVALID_KILL = Вы только что потеряли очко, убив игрока неправильным типом оружия. Используйте крупноразмерное оружие, чтобы набирать очки.
+
+FMECHAL_VARIATION_LONGARM_HELP_RULES = В испытании ~COLOR_FREEMODE_EVENT~«Убийства из крупноразмерного оружия»~s~ вы набираете очки, убивая игроков из крупноразмерного оружия. Побеждает игрок, набравший больше очков.
+
+FMECHAL_VARIATION_LONGARM_HELP_RULES_SECONDARY = За убийства не крупноразмерным оружием очки вычитаются.
+
+FMECHAL_VARIATION_LONGARM_INTRO_SHARD_TITLE = Убийства из крупноразмерного оружия
+
+FMECHAL_VARIATION_LONGARM_OBJECTIVE = Убивайте ~COLOR_ENEMY~врагов ~s~из крупноразмерного оружия.
+
+FMECHAL_VARIATION_LONGARM_OUTRO_SHARD_FAIL = ~1~ очков
+
+FMECHAL_VARIATION_LONGARM_OUTRO_SHARD_WIN = Врагов устранено: ~1~
+
+FMECHAL_VARIATION_LONGARM_OUTRO_SHARD_WIN_PLURAL = Вами убито врагов: ~1~
+
+FMECHAL_VARIATION_POSSE_VERSUS_BIGGEST_FISH_INTRO_SHARD_TITLE = Самая большая рыба
+
+FMECHAL_VARIATION_PV_BIGGEST_FISH_HELP_RODS = Игрокам нужно иметь удочки и наживки, чтобы заработать очки.
+
+FMECHAL_VARIATION_PV_BIGGEST_FISH_INTRO_HELP = ~COLOR_POSSE_ALLY~~1p~~s~ предлагает вашему отряду участвовать в состязании «Самая большая рыба».
+
+FMECHAL_VARIATION_PV_BIGGEST_FISH_NEW_LEADER = Игрок ~COLOR_POSSE_ALLY~~1p~~s~ поймал самую большую рыбу.
+
+FMECHAL_VARIATION_PV_BIGGEST_FISH_NEW_LEADER_LOCAL = Вы поймали самую большую рыбу
+
+FMECHAL_VARIATION_PV_BIGGEST_FISH_OUTRO_PRIMARY_SHARD = Состязание закончено
+
+FMECHAL_VARIATION_PV_BIGGEST_FISH_OUTRO_SECONDARY_SHARD = Игрок ~1p~ поймал самую большую рыбу
+
+FMECHAL_VARIATION_PV_FLYING_BIRDS_NEW_LEADER = Игрок ~COLOR_POSSE_ALLY~~1p~~s~ подстрелил больше всего птиц
+
+FMECHAL_VARIATION_PV_FLYING_BIRDS_NEW_LEADER_LOCAL = Вы подстрелили больше птиц
+
+FMECHAL_VARIATION_PV_FLYING_BIRD_INTRO_HELP = ~COLOR_POSSE_ALLY~~1p~~s~ предлагает вашему отряду участвовать в состязании «Стрельба по птицам».
+
+FMECHAL_VARIATION_PV_FLYING_BIRD_OUTRO_PRIMARY_SHARD = Состязание закончено
+
+FMECHAL_VARIATION_PV_FLYING_BIRD_OUTRO_SECONDARY_SHARD = Игрок ~1p~ убил больше всех птиц
+
+FMECHAL_VARIATION_PV_HERABALIST_INTRO_HELP = ~COLOR_POSSE_ALLY~~1p~~s~ предлагает вашему отряду участвовать в состязании «Сбор трав».
+
+FMECHAL_VARIATION_PV_HERBALIST_NEW_LEADER = Игрок ~COLOR_POSSE_ALLY~~1p~~s~ собрал больше всего трав
+
+FMECHAL_VARIATION_PV_HERBALIST_NEW_LEADER_LOCAL = Вы собрали больше трав
+
+FMECHAL_VARIATION_PV_HERBALIST_OUTRO_PRIMARY_SHARD = Состязание закончено
+
+FMECHAL_VARIATION_PV_HERBALIST_OUTRO_SECONDARY_SHARD = Игрок ~1p~ собрал больше всех трав
+
+FMECHAL_VARIATION_SIDEARM_HELP_INVALID_KILL = Вы только что потеряли очко, убив игрока неправильным типом оружия. Используйте личное оружие, чтобы набирать очки.
+
+FMECHAL_VARIATION_SIDEARM_HELP_RULES = В испытании ~COLOR_FREEMODE_EVENT~«Убийства из личного оружия»~s~ вы набираете очки, убивая игроков из личного оружия. Побеждает игрок, набравший больше очков.
+
+FMECHAL_VARIATION_SIDEARM_HELP_RULES_SECONDARY = За убийства не личным оружием очки вычитаются.
+
+FMECHAL_VARIATION_SIDEARM_INTRO_SHARD_TITLE = Убийства из личного оружия
+
+FMECHAL_VARIATION_SIDEARM_OBJECTIVE = Убивайте ~COLOR_ENEMY~врагов ~s~из личного оружия.
+
+FMECHAL_VARIATION_SIDEARM_OUTRO_SHARD_FAIL = ~1~ очков
+
+FMECHAL_VARIATION_SIDEARM_OUTRO_SHARD_WIN = Устранено врагов: ~1~
+
+FMECHAL_VARIATION_SIDEARM_OUTRO_SHARD_WIN_PLURAL = Вами убито врагов: ~1~
+

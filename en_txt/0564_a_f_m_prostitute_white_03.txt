@@ -1,0 +1,104 @@
+0x0A699998 = ~z~Hello again.
+
+0x0D75B81E = ~z~You don't want to sleep alone now, do ya?
+
+0x2AD972E5 = ~z~You looking for a good time?
+
+0x2CD34041 = ~z~Here, take this, it's all I got.
+
+0x4D861782 = ~z~I'll pretend you ain't there, it won't be hard.
+
+0x6A1D3307 = ~z~I ain't gotta take this.
+
+0x6F9AE928 = ~z~I'm calling the law.
+
+0x7C3DF4F1 = ~z~I'm gonna ignore your foolishness.
+
+0x7E47C559 = ~z~Get on outta here.
+
+0x8E05FAD8 = ~z~You had your fun, now go.
+
+0x8F31B3AA = ~z~Watch where you're going.
+
+0x26AA625B = ~z~Keep staring and I'm gonna have to charge you for the pleasure.
+
+0x46DAEC83 = ~z~Leave me alone.
+
+0x52B3F339 = ~z~Whoa? Why are you threatening me?
+
+0x75E499CD = ~z~Hey, you got no business being here.
+
+0x82D9F4C2 = ~z~Away! Away! Off!
+
+0x88C9B6A5 = ~z~If it ain't trouble returned. Hello, you.
+
+0x269E50B5 = ~z~This... this was you.
+
+0x394CFC8D = ~z~The law can deal with this.
+
+0x423E2C59 = ~z~Alright, maybe later then.
+
+0x578E8D92 = ~z~What? You devil.
+
+0x830B342F = ~z~Give me some space, please.
+
+0x4939AFA5 = ~z~You looking for a roll in the hay?
+
+0x6791F700 = ~z~Oh, we could have had so much fun, you'd be screaming at the rafters.
+
+0x40326B09 = ~z~Yeah, I heard worse.
+
+0x122875F0 = ~z~Stop it.
+
+0x308488E6 = ~z~Okay, but you made me sad, honey.
+
+0x5080575D = ~z~Have you no shame?
+
+0x21673812 = ~z~We okay?  We done scrapping over nonsense?
+
+0x80781637 = ~z~Walking ain't tricky.
+
+0xA3C0F908 = ~z~Whoa, lower your gun, alright?
+
+0xA9D36491 = ~z~I'm sure we can settle this.
+
+0xA96D4964 = ~z~I got nothing.
+
+0xADE66448 = ~z~No one needs to behave like that.
+
+0xAE1A8A51 = ~z~You're mighty close for a non-paying customer.
+
+0xAE40CB8B = ~z~Get away from me.
+
+0xB65C9E53 = ~z~No, you put that gun down.
+
+0xB9714771 = ~z~We're about to scrap.
+
+0xBC5FE7C9 = ~z~Back off, goddamn it.
+
+0xBE82639C = ~z~You a serial killer, following me around?
+
+0xCE7B879D = ~z~Well, ain't you a charmer?
+
+0xCE42F5E3 = ~z~Stop that.
+
+0xD5A8D3BC = ~z~Oh, alright.
+
+0xD4759BDF = ~z~Ugh, you got that sweet sickly smell.
+
+0xD21178B1 = ~z~I am done with you provoking me.
+
+0xE2DAEFF5 = ~z~What is wrong with you?
+
+0xEC9F262B = ~z~I ain't gonna stand here and let this happen.
+
+0xEDF7EC05 = ~z~You're in the way.
+
+0xF3A76E6F = ~z~Alright, alright, I'll keep this quiet.
+
+0xF71754CA = ~z~Okay. Enjoy the fruits of my labor.
+
+0xFD3B4855 = ~z~You will not raise your hands to me.
+
+0xFFD99098 = ~z~This is all a mistake.
+

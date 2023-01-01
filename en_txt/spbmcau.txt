@@ -1,0 +1,230 @@
+SPBMC_GIVE_A_01 = ~z~Here you go.
+
+SPBMC_GIVE_A_02 = ~z~Here.
+
+SPBMC_GIVE_A_03 = ~z~Have this.
+
+SPBMC_GIVE_A_04 = ~z~Okay, sure.
+
+SPBMC_GIVE_A_05 = ~z~Okay, here you are.
+
+SPBMC_GIVE_A_06 = ~z~Take this.
+
+SPBMC_GIVE_J_01 = ~z~Here you go.
+
+SPBMC_GIVE_J_02 = ~z~Here.
+
+SPBMC_GIVE_J_03 = ~z~Have this.
+
+SPBMC_GIVE_J_04 = ~z~Okay, sure.
+
+SPBMC_GIVE_J_05 = ~z~Okay, here you are.
+
+SPBMC_GIVE_J_06 = ~z~Take this.
+
+SPBMC_IG1_A_1 = ~z~Penny for the blind?
+
+SPBMC_IG1_A_2 = ~z~Penny for the blind!
+
+SPBMC_IG1_A_3 = ~z~Penny for the blind.
+
+SPBMC_IG1_A_4 = ~z~Penny for the blind?
+
+SPBMC_IG1_A_5 = ~z~Penny for the blind?
+
+SPBMC_IG1_A_6 = ~z~Penny for the blind...
+
+SPBMC_IG1_B_1 = ~z~Help the blind!
+
+SPBMC_IG1_B_2 = ~z~Help the blind!
+
+SPBMC_IG1_B_3 = ~z~Help the blind!
+
+SPBMC_IG1_C_1 = ~z~Find charity! Maybe charity will find you...
+
+SPBMC_IG1_D_1 = ~z~Help the blind.
+
+SPBMC_IG1_E_1 = ~z~~sl:1.5:1.4~Be not unkind,~sl:0.5~help the blind!
+
+SPBMC_IG1_F_1 = ~z~Help the blind!
+
+SPBMC_IG1_F_2 = ~z~Learn your fortune...
+
+SPBMC_IG1_F_3 = ~z~maybe earn your fortune.
+
+SPBMC_IG1_F_4 = ~z~~sl:0.0:1.1~Maybe today...~sl:0.3~is the beginning of the end!
+
+SPBMC_IG1_G_1 = ~z~Help me... and I shall help thee.
+
+SPBMC_IG1_H_1 = ~z~Give, and ye shall receive!
+
+SPBMC_IG1_I_1 = ~z~Help me please, kind sir...
+
+SPBMC_IG1_J_1 = ~z~~sl:0.0:0.9~Help me...~sl:0.8~and I shall help thee.
+
+SPBMC_IG1_K_1 = ~z~~sl:0.0:2.8~Please... someone show kindness...~sl:0.5~on a man with no sight...
+
+SPBMC_IG2_A_1 = ~z~Seek redemption, all! It's never too late.
+
+SPBMC_IG2_B_1 = ~z~I tell thee, and I tell thee now, eternity waits for us all!
+
+SPBMC_IG2_B_2 = ~z~But which eternity?
+
+SPBMC_IG2_C_1 = ~z~Help the blind, and maybe ye shall see!
+
+SPBMC_IG2_D_1 = ~z~I'm just a blind old fool...
+
+SPBMC_IG2_D_2 = ~z~~sl:0.0:1.4~don't be like me,~sl:1.2:1.4~be a wise man...~sl:1.4~be a fool for love.
+
+SPBMC_IG2_E_1 = ~z~Old Blind Man Cassidy is not "Old Crazy Man Cassidy"...
+
+SPBMC_IG2_F_1 = ~z~Seek salvation, and maybe ye shall find peace...
+
+SPBMC_IG3_A_1 = ~z~~sl:0.0:1.8~I cannot see today,~sl:0.3:1.5~but I can see tomorrow.~sl:1.1~Learn the mysteries of fate.
+
+SPBMC_IG3_B_1 = ~z~~sl:0.0:1.9~A dollar for your future...~sl:0.6~a dollar for your fate...
+
+SPBMC_IG3_C_1 = ~z~Learn about tomorrow.
+
+SPBMC_IG3_D_1 = ~z~~sl:0.0:3.8~Sir? Madam? Come to me...~sl:0.6~learn tomorrow's mysteries.
+
+SPBMC_IG3_E_1 = ~z~Would you like to see tomorrow, sir?
+
+SPBMC_IG3_F_1 = ~z~Come close... come close...
+
+SPBMC_IG3_G_1 = ~z~Be not afraid... I see only true things.
+
+SPBMC_IG4_A_1 = ~z~Be not afraid of a sad old liar like me, sir.
+
+SPBMC_IG4_A_2 = ~z~~sl:0.0:3.0~Embrace my ignorant ramblings for the...~sl:0.4~delusions they are.
+
+SPBMC_IG4_A_3 = ~z~~sl:0.0:0.9~Come close...~sl:1.3~learn my stupidity.
+
+SPBMC_IG4_B_1 = ~z~I am just a sad old man with a gift he's never profited from.
+
+SPBMC_IG4_B_2 = ~z~~sl:0.0:3.0~Come close. I will see your future~sl:0.3~with the same sad clarity that I once saw my past.
+
+SPBMC_IG6_A_1 = ~z~~sl:0.0:0.8~Thank you sir!~sl:1.1~Thank you.
+
+SPBMC_IG6_A_2 = ~z~~sl:0.0:3.2~Keep moving sir, keep moving...~sl:1.2~but don't move too fast.
+
+SPBMC_IG6_B_1 = ~z~~sl:0.0:1.9~Bad news awaits you, sir.~sl:0.8~Sadly, sooner than you think.
+
+SPBMC_IG6_B_2 = ~z~~sl:0.0:1.3~But beyond the news,~sl:1.0:1.5~paradise awaits!~sl:1.5~Paradise...
+
+SPBMC_IG6_C_1 = ~z~~sl:0.0:2.9~I sense great confusion in you, sir.~sl:0.8~Great confusion.
+
+SPBMC_IG6_C_2 = ~z~~sl:0.0:3.5~Not... because you... do not know,~sl:1.5~but because you are afraid of what you know.
+
+SPBMC_IG6_D_1 = ~z~~sl:0.0:1.2~Your whole life, sir,~sl:0.8~you have followed the wrong star...
+
+SPBMC_IG6_E_1 = ~z~~sl:0.0:3.2~You are not who you think you are, sir...~sl:1.2~which is lucky.
+
+SPBMC_IG6_F_1 = ~z~Just as evil begat evil your whole life long, so good may begat good.
+
+SPBMC_IG6_G_1 = ~z~Run from the seeker, sir. Run and keep running, or help others to run.
+
+SPBMC_IG6_H_1 = ~z~You didn't run when last we spoke sir... you didn't run far enough.
+
+SPBMC_IG6_I_1 = ~z~Your whole life has been one of regret... but it can end better than it began.
+
+SPBMC_IG6_J_1 = ~z~Your father is seduced by the one with the forked tongue... it's no use hoping.
+
+SPBMC_IG6_K_1 = ~z~That which is killing you will help you, finally to see.
+
+SPBMC_IG6_K_2 = ~z~And see clearly friend. See and hear.
+
+SPBMC_IG6_L_1 = ~z~You must decide between your past and other's future, friend...
+
+SPBMC_IG6_L_2 = ~z~decide, for soon it will be too late.
+
+SPBMC_IG6_M_1 = ~z~Make your final moments your best moments, sir.
+
+SPBMC_IG6_M_2 = ~z~Know glory and forget about shame.
+
+SPBMC_IG6_N_1 = ~z~Be warned, sir. Do not slumber too deeply...
+
+SPBMC_IG6_N_2 = ~z~for the man with no nose is coming for you.
+
+SPBMC_IG6_O_1 = ~z~I see sand and ocean and palm trees.
+
+SPBMC_IG6_O_2 = ~z~Find the black flower and you will be rewarded.
+
+SPBMC_IG6_P_1 = ~z~I tell thee.
+
+SPBMC_IG6_P_2 = ~z~Bethink yourself before taking possession of another man's horse.
+
+SPBMC_IG6_P_3 = ~z~For not all will go willingly.
+
+SPBMC_IG6_Q_1 = ~z~I see the morrows, and see them clearly, sir.
+
+SPBMC_IG6_Q_2 = ~z~Even when all reason is lost, and all truth has become lie, you will stand firm.
+
+SPBMC_IG6_Q_3 = ~z~For loyalty is both your saving and your curse.
+
+SPBMC_IG6_STAY_1 = ~z~You keep hidden all that matters, sir, maybe even from yourself.
+
+SPBMC_IG6_S_1 = ~z~Be warned, sir, be warned.
+
+SPBMC_IG6_S_2 = ~z~Surrounded by fields of burning fire and flesh,
+
+SPBMC_IG6_S_3 = ~z~the devil will make his sacrifice.
+
+SPBMC_IG7_A_1 = ~z~You remember the past at the expense of the future.
+
+SPBMC_IG7_B_1 = ~z~Embrace those who love you, not the memory of those who pretended to.
+
+SPBMC_IG7_C_1 = ~z~You're a fool, fiend, but not so much of a fool as you think,
+
+SPBMC_IG7_C_2 = ~z~nor such a fiend... the past is done and the future yet to come.
+
+SPBMC_IG8_A_1 = ~z~Enjoy the world while you can.
+
+SPBMC_IG8_A_2 = ~z~~sl:0.0:1.0~Enjoy today,~sl:1.3:1.2~for tomorrow...~sl:1.9~tomorrow... awaits us all.
+
+SPBMC_IG8_B_1 = ~z~They will come for you, friend.
+
+SPBMC_IG8_B_2 = ~z~And when they do, you will not have a choice.
+
+SPBMC_IG8_B_3 = ~z~But you have lived better than most.
+
+SPBMC_IG8_C_1 = ~z~You have learned the most important lesson of all...
+
+SPBMC_IG8_C_2 = ~z~That only one thing matters!
+
+SPBMC_IG8_C_3 = ~z~And all else is lies.
+
+SPBMC_IG8_D_1 = ~z~Two strangers seek thee...
+
+SPBMC_IG8_D_2 = ~z~One from this world...
+
+SPBMC_IG8_D_3 = ~z~perhaps one from another...
+
+SPBMC_IG8_D_4 = ~z~One brings hatred...
+
+SPBMC_IG8_D_5 = ~z~I'm not so sure what the other brings...
+
+SPBMC_THANKS_A_01 = ~z~Well, okay, then. Thank you, I guess.
+
+SPBMC_THANKS_A_02 = ~z~Okay, I will try to bear that in mind.
+
+SPBMC_THANKS_A_03 = ~z~Alright, friend.
+
+SPBMC_THANKS_A_04 = ~z~Okay, I ain't too sure what to make of that.
+
+SPBMC_THANKS_A_05 = ~z~Alright, well, I'll have to take your word for it.
+
+SPBMC_THANKS_A_06 = ~z~Er, sure. Okay, mister. All the best now.
+
+SPBMC_THANKS_J_01 = ~z~Well, okay then.
+
+SPBMC_THANKS_J_02 = ~z~Thank you, I guess.
+
+SPBMC_THANKS_J_03 = ~z~Ok, I guess I'll bear that in mind.
+
+SPBMC_THANKS_J_04 = ~z~Alright, mister.
+
+SPBMC_THANKS_J_05 = ~z~Alright, well, I'll have to take your word for it.
+
+SPBMC_THANKS_J_06 = ~z~Er, right. Okay, friend. All the best now.
+

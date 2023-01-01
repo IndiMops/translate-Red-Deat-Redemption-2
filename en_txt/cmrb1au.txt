@@ -1,0 +1,8 @@
+CMRB1_ACT_A_1 = ~z~I can't stop shivering.
+
+CMRB1_ACT_A_2 = ~z~You're still running a bad fever.
+
+CMRB1_ACT_B_1 = ~z~We're all freezing, John. Just some of us in better conditions than others.
+
+CMRB1_ACT_B_2 = ~z~Why are you being like this?
+

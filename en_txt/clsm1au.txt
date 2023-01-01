@@ -1,0 +1,24 @@
+CLSM1_ACTION_1 = ~z~So... apparently the horseless carriage is a reality...
+
+CLSM1_ACTION_2 = ~z~in Germany. I read about in the newspaper.
+
+CLSM1_ACTION_3 = ~z~By next year... we'll all be driving.
+
+CLSM1_ACTION_4 = ~z~And flying too, no doubt.
+
+CLSM1_ACTION_5 = ~z~See, I like a horse well enough to not wanna give one up for a machine.
+
+CLSM1_ACTION_6 = ~z~Well, maybe the horse can ride in the carriage with you.
+
+CLSM1_ACTION_7 = ~z~Now there's an idea...
+
+CLSM1_ACTION_8 = ~z~My God what does he put in this slop?
+
+CLSM1_ACTION_9 = ~z~He waits until the meat is crawling with lice and then he cooks it.
+
+CLSM1_ACTION_10 = ~z~Oh... that explains it.
+
+CLSM1_ACTION_11 = ~z~
+
+CLSM1_ACTION_12 = ~z~Hey, you two! Mind your manners a little. Mr. Pearson, he takes good care of us.
+

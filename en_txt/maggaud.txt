@@ -1,0 +1,832 @@
+MAGG_GF_BYE_01 = ~z~Good luck out there.
+
+MAGG_GF_BYE_02 = ~z~Keep up the good work.
+
+MAGG_GF_BYE_03 = ~z~Okay then, good.
+
+MAGG_GF_BYE_04 = ~z~Let me know if there's anything else you need.
+
+MAGG_GF_BYE_05 = ~z~Anything else you need, you know where to find me.
+
+MAGG_GF_BYE_06 = ~z~Alright, speak to you soon.
+
+MAGG_GF_BYE_07 = ~z~Guess that'll do it for now then.
+
+MAGG_GF_BYE_08 = ~z~Alright then, well I've got a thousand things to do.
+
+MAGG_GF_DOWN_01 = ~z~Keep an eye on what's going on down there.
+
+MAGG_GF_DOWN_02 = ~z~If Marcel's asleep again, I'll kill him.
+
+MAGG_GF_DOWN_03 = ~z~Check it's all clean down there.
+
+MAGG_GF_DOWN_04 = ~z~Make sure Monsieur is working. He's good, but he's slow sometimes.
+
+MAGG_GF_DOWN_05 = ~z~Check Marcel is making more than he's drinking.
+
+MAGG_GF_DOWN_06 = ~z~Make sure everything looks okay down there.
+
+MAGG_GF_DOWN_07 = ~z~Any problems down there, let me know.
+
+MAGG_GF_DOWN_08 = ~z~Funny smell down there, make sure everything looks alright.
+
+MAGG_GF_DRUNK_01 = ~z~If you keep drinking it all, we won't have nothing left to sell.
+
+MAGG_GF_DRUNK_02 = ~z~Don't get too much of a taste for that stuff, it'll get its claws in you.
+
+MAGG_GF_DRUNK_03 = ~z~Been sampling the merchandise, I see. Hope you can handle it.
+
+MAGG_GF_FTFIN_1 = ~z~Well done. You are officially in the moonshine business now.
+
+MAGG_GF_FTGREET_01 = ~z~Good to see you.
+
+MAGG_GF_FTGREET_02 = ~z~Alright, let's get you what you need.
+
+MAGG_GF_FTGREET_03 = ~z~You've come to the right place.
+
+MAGG_GF_FTPROD_1 = ~z~~sl:0.0:1.9~Sounds like things are up and running down there.~sl:0.6~Feels good to be back in business.
+
+MAGG_GF_GENPOSS_01 = ~z~You've got a good boss.
+
+MAGG_GF_GENPOSS_02 = ~z~~sl:0.0:1.1~Me and your boss...~sl:~we'll be running this whole state within the year.
+
+MAGG_GF_GENPOSS_03 = ~z~Any friend of your boss is a friend of mine.
+
+MAGG_GF_GENPOSS_04 = ~z~Your boss seems to have a knack for finding good people.
+
+MAGG_GF_GENPOSS_05 = ~z~Your boss and I, we're going places.
+
+MAGG_GF_GENPOSS_06 = ~z~Hey there, I'm your boss's partner.
+
+MAGG_GF_GEN_01 = ~z~Hey.
+
+MAGG_GF_GEN_02 = ~z~There you are.
+
+MAGG_GF_GEN_03 = ~z~Hi there.
+
+MAGG_GF_GEN_04 = ~z~How are you?
+
+MAGG_GF_GEN_05 = ~z~Good to see you.
+
+MAGG_GF_GEN_06 = ~z~Hello.
+
+MAGG_GF_GEN_07 = ~z~Howdy.
+
+MAGG_GF_GEN_08 = ~z~Hey there.
+
+MAGG_GF_HHON_01 = ~z~~sl:0.0:2.9~Well look who it is, the good samaritan.~sl:0.7~I've been hearing about you.
+
+MAGG_GF_HHON_02 = ~z~~sl:0.0:2.5~The tales I've been hearing about you...~sl:0.2~who knew you were such a do-gooder?
+
+MAGG_GF_HHON_03 = ~z~~sl:0.0:3.9~There you are, least one of us has a good reputation round here.~sl:0.3~You're putting me to shame.
+
+MAGG_GF_HHON_04 = ~z~Are you here to sully that fine reputation of yours?
+
+MAGG_GF_LHON_01 = ~z~~sl:0.0:2.9~I hear you've been making quite the name for yourself...~sl:0.3~and not in a good way.
+
+MAGG_GF_LHON_02 = ~z~~sl:0.3:1.9~The things I've been hearing about you.~sl:0.2~Ruthless. Cripps was right.
+
+MAGG_GF_LHON_03 = ~z~~sl:0.0:1.6~Tales I've heard about you recently?~sl:0.2~Remind me not to get on your bad side.
+
+MAGG_GF_LHON_04 = ~z~~sl:0.0:3.1~From what I hear, you ain't taking no prisoners out there.~sl:0.8~Clearly I picked the right partner.
+
+MAGG_GF_MULTIP_01 = ~z~You all going down to the bar?
+
+MAGG_GF_MULTIP_02 = ~z~You heading downstairs? You lot look ready for a party.
+
+MAGG_GF_MULTIP_03 = ~z~You and your friends should head down there for a drink.
+
+MAGG_GF_MULTIP_04 = ~z~Bar's serving down there if you all want a drink.
+
+MAGG_GF_MULTIP_05 = ~z~Is this a social call, folks? You know where the bar is.
+
+MAGG_GF_MULTIP_06 = ~z~Well, you all look thirsty. You heading down to the bar?
+
+MAGG_GF_MULTIP_07 = ~z~Are you all heading downstairs for some refreshment?
+
+MAGG_GF_MULTIP_08 = ~z~Bar's open down there, folks. Enjoy yourselves.
+
+MAGG_GF_PASSOUT_01 = ~z~~sl:0.0:2.2~Whoa... last time I saw you,~sl:~you were staggering around in some unholy mess!
+
+MAGG_GF_PASSOUT_02 = ~z~~sl:0.0:2.2~Well, look who it is.~sl:0.4~You were in a sorry state when I last saw you.
+
+MAGG_GF_PASSOUT_03 = ~z~~sl:0.0:1.4~So, how's the head there?~sl:0.2~You were three sheets to the wind last time I saw you.
+
+MAGG_GF_RAMBLE_01 = ~z~Be nice to have just five minutes when nothing hurts.
+
+MAGG_GF_RAMBLE_02 = ~z~Ugh, I hate feeling like an old woman.
+
+MAGG_GF_RAMBLE_03 = ~z~Some days I really miss my sister. She always knew what to do.
+
+MAGG_GF_RAMBLE_04 = ~z~~sl:0.0:3.3~Marcel speaks to me about Calvados one more time,~sl:~I swear I'll wring his neck.
+
+MAGG_GF_RAMBLE_05 = ~z~~sl:0.2:1.8~Nothing in this business ever comes easy.~sl:0.3~I should've learned that by now.
+
+MAGG_GF_RAMBLE_06 = ~z~I mustn't forget to reload my cane.
+
+MAGG_GF_RETURND_01 = ~z~Everything okay down there?
+
+MAGG_GF_RETURND_02 = ~z~I won't even ask what's going on down there.
+
+MAGG_GF_RETURND_03 = ~z~Sounds like folks are having fun down there.
+
+MAGG_GF_RETURND_04 = ~z~Everyone behaving themselves down there?
+
+MAGG_GF_RETURND_05 = ~z~Some people go down those stairs and don't come back up for days.
+
+MAGG_GF_RETURND_06 = ~z~All good down there, I hope?
+
+MAGG_GF_RETURND_07 = ~z~Any trouble down there?
+
+MAGG_GF_RETURND_08 = ~z~Sounds like people are having a good time down there.
+
+MAGG_GF_STRANGE_01 = ~z~That is an interesting choice of outfit.
+
+MAGG_GF_STRANGE_02 = ~z~~sl:0.0:2.0~What on earth are you wearing?~sl:0.7~You clearly ain't trying to blend in.
+
+MAGG_GF_STRANGE_03 = ~z~I ain't even going to comment on your choice of clothing.
+
+MAGG_GF_SUFIN_1 = ~z~~sl:0.0:2.6~I'm sure Marcel told you more than you needed to know.~sl:0.5~He'll handle everything downstairs with production.
+
+MAGG_GF_SUFIN_2 = ~z~~sl:0.0:1.8~Meanwhile, you and me should talk~sl:~about a few other things we need to get up and running.
+
+MAGG_GF_SUPART1_1 = ~z~~sl:0.0:2.0~Seems like we've got all the equipment we need.~sl:0.1~Good work. Now, just one more thing...
+
+MAGG_GF_SUPART2_1 = ~z~~sl:0.0:1.8~Marcel seems in good spirits.~sl:0.7~We need some equipment before we can get cooking though.
+
+MAGG_IDLE_V1_01 = ~z~What's all the noise for?
+
+MAGG_IDLE_V1_02 = ~z~Keep it quiet down there!
+
+MAGG_IDLE_V1_03 = ~z~I can't hear myself think up here!
+
+MAGG_IDLE_V1_04 = ~z~Do you want the whole county to hear you?
+
+MAGG_IDLE_V3_01 = ~z~Make sure you watch the heat. It's getting cloudy again.
+
+MAGG_IDLE_V3_02 = ~z~How are you getting on down there, Marcel?
+
+MAGG_IDLE_V3_03 = ~z~Too much sugar, Marcel. How many times?
+
+MAGG_IDLE_V3_04 = ~z~Just stick to the damn recipe, Marcel!
+
+MAGG_IDLE_V3_05 = ~z~Marcel, remember to clean out that still every time!
+
+MAGG_IDLE_V4_01 = ~z~Hey, keep it down!
+
+MAGG_IDLE_V4_02 = ~z~Take it easy down there!
+
+MAGG_IDLE_V4_03 = ~z~Don't make me come down there!
+
+MAGG_IDLE_V4_04 = ~z~What is going on down there?
+
+MAGG_IDLE_V4_05 = ~z~What's all the noise for?
+
+MAGG_IDLE_V5A_01 = ~z~
+
+MAGG_IDLE_V5A_02 = ~z~Terrible.
+
+MAGG_IDLE_V5A_03 = ~z~No, no.
+
+MAGG_IDLE_V5A_04 = ~z~Too sharp.
+
+MAGG_IDLE_V5B_01 = ~z~
+
+MAGG_IDLE_V5B_02 = ~z~Not bad.
+
+MAGG_IDLE_V5B_03 = ~z~Very nice.
+
+MAGG_IDLE_V5B_04 = ~z~That'll do.
+
+MAGG_IP_BANDUP_01 = ~z~Be nice to hear a bit of music.
+
+MAGG_IP_BANDUP_02 = ~z~What's a bar without music?
+
+MAGG_IP_BARUP_01 = ~z~It's going to get a lot louder down there.
+
+MAGG_IP_BARUP_02 = ~z~Alright, this is going to be fun.
+
+MAGG_IP_BARUP_03 = ~z~Okay then, that should bring the customers in.
+
+MAGG_IP_BARUP_04 = ~z~~sl:0.2~Marcel's gonna be happy.
+
+MAGG_IP_EXPAN_01 = ~z~Wise investment.
+
+MAGG_IP_EXPAN_02 = ~z~Excellent.
+
+MAGG_IP_EXPAN_03 = ~z~Good choice.
+
+MAGG_IP_EXPAN_04 = ~z~I think that'll be good for us.
+
+MAGG_IP_GEN_01 = ~z~Nice.
+
+MAGG_IP_GEN_02 = ~z~Okay.
+
+MAGG_IP_GEN_03 = ~z~Alright then.
+
+MAGG_IP_GEN_04 = ~z~Good choice.
+
+MAGG_IP_GEN_05 = ~z~All yours.
+
+MAGG_IP_GEN_06 = ~z~Good.
+
+MAGG_IP_GEN_07 = ~z~Enjoy.
+
+MAGG_IP_GEN_08 = ~z~Alright.
+
+MAGG_IP_GEN_09 = ~z~That's all? Okay.
+
+MAGG_IP_GEN_10 = ~z~Okay then.
+
+MAGG_IP_GEN_11 = ~z~You got it.
+
+MAGG_IP_GEN_12 = ~z~Done.
+
+MAGG_IP_NOMONEY_01 = ~z~I'm sure you'll be able to afford this soon.
+
+MAGG_IP_NOMONEY_02 = ~z~I don't think you have enough for this right now.
+
+MAGG_IP_NOMONEY_03 = ~z~I think you're a little low on funds.
+
+MAGG_IP_NOMONEY_04 = ~z~You're going to have to earn a bit more first.
+
+MAGG_IP_NOMONEY_05 = ~z~I think you're going to have to save up for that one.
+
+MAGG_IP_NOMONEY_06 = ~z~Looks like you're a little short on cash, unfortunately.
+
+MAGG_IP_PREMIUM_01 = ~z~Superb choice.
+
+MAGG_IP_PREMIUM_02 = ~z~Excellent.
+
+MAGG_IP_PREMIUM_03 = ~z~You'll enjoy that.
+
+MAGG_IP_PREMIUM_04 = ~z~Very nice.
+
+MAGG_IP_PREMIUM_05 = ~z~I like it.
+
+MAGG_IP_PREMIUM_06 = ~z~Perfect.
+
+MAGG_IP_PREMIUM_07 = ~z~You'll like that.
+
+MAGG_IP_PREMIUM_08 = ~z~Big spender.
+
+MAGG_IP_PREMIUM_09 = ~z~Splashing out, huh?
+
+MAGG_IP_PREMIUM_10 = ~z~You get what you pay for.
+
+MAGG_IP_PREMIUM_11 = ~z~I must be paying you too much.
+
+MAGG_IP_PREMIUM_12 = ~z~That's a beauty.
+
+MAGG_IP_RELO_01 = ~z~That's a nice spot.
+
+MAGG_IP_RELO_02 = ~z~I always liked that spot.
+
+MAGG_IP_RELO_03 = ~z~A change is always good.
+
+MAGG_IP_RELO_04 = ~z~That should keep the agents off our back for a while.
+
+MAGG_IP_RELO_05 = ~z~I was thinking the same.
+
+MAGG_IP_RELO_06 = ~z~I think this'll be good for us.
+
+MAGG_IP_RELO_07 = ~z~Okay, guess we're moving.
+
+MAGG_IP_RELO_08 = ~z~Nice area 'round there.
+
+MAGG_IP_REPEAT_01 = ~z~Ah, you're keen on this.
+
+MAGG_IP_REPEAT_02 = ~z~You like this, huh?
+
+MAGG_IP_REPEAT_03 = ~z~You can't get enough of this.
+
+MAGG_IP_REPEAT_04 = ~z~You know what you like, don't you?
+
+MAGG_IP_STILLUP_01 = ~z~That should really help move things along.
+
+MAGG_IP_STILLUP_02 = ~z~Anything to speed Marcel up.
+
+MAGG_IP_THEME_01 = ~z~That'll liven the place up a little.
+
+MAGG_IP_THEME_02 = ~z~That'll spruce things up a bit.
+
+MAGG_IP_THEME_03 = ~z~Interesting, I like it.
+
+MAGG_IP_THEME_04 = ~z~I think that'll look good.
+
+MAGG_JB_DECLINE_1 = ~z~Next time maybe.
+
+MAGG_JB_OFFER_1 = ~z~~sl:0.0:1.7~Alright, I got something else for ya.~sl:0.4:1.6~Should be straightforward enough...~sl:0.6~famous last words.
+
+MAGG_JB_OFFER_2 = ~z~~sl:0.0:1.8~Jotted down all the details,~sl:0.9~just make sure that doesn't fall into the wrong hands.
+
+MAGG_MM_ADVR1_1 = ~z~~sl:0.0:3.2~Back in the day... back in the day,~sl:0.0:1.9~people used to come to me for anything and everything...~sl:1.2~and I mean everything.
+
+MAGG_MM_ADVR1_2 = ~z~~sl:0.0:1.5~That was how I stayed ahead of things.~sl:0.1~Lots of... eyes looking out for me.
+
+MAGG_MM_ADVR1_3 = ~z~~sl:0.0:3.1~So, fellers I know need some assistance~sl:0.0:2.2~with promotional work, and... these are~sl:~good folks to stay in with.
+
+MAGG_MM_ADVR1_4 = ~z~~sl:0.0:1.0~Can you go give them a hand?~sl:0.9:0.9~Should be easy enough...~sl:1.2~just keep a look out for agents, okay?
+
+MAGG_MM_ADVR2_1 = ~z~~sl:0.0:1.5~Okay, where are we?~sl:1.0:2.0~So many balls to juggle right now, I'm just...~sl:0.1:1.9~trying to keep them all in the air...~sl:0.7~oh yeah... sheriff's brother.
+
+MAGG_MM_ADVR2_2 = ~z~~sl:0.0:4.1~An old acquaintance of mine and appreciator of fine distilling...~sl:0.7~just started a new business and wants some help spreading the word.
+
+MAGG_MM_ADVR2_3 = ~z~~sl:0.0:3.1~So, I offered your services, hope you don't mind?~sl:0.7~He promised us a few, er, favors with the law in return,
+
+MAGG_MM_ADVR2_4 = ~z~~sl:0.0:1.0~ should we need them.~sl:0.6~Which I'm sure we will.
+
+MAGG_MM_ADVR3_1 = ~z~~sl:0.0:4.0~Did I... did I ever tell you about my sister, Lem's mother?~sl:0.3~May she rest in peace... dead nearly six years now.
+
+MAGG_MM_ADVR3_2 = ~z~~sl:0.0:2.5~She was the nice one, but lost herself to the drink,~sl:0.1~poor woman. I miss her every day.
+
+MAGG_MM_ADVR3_3 = ~z~~sl:0.0:2.3~Anyway, I ran into an old friend of hers last week,~sl:~who told me his business is struggling a bit,
+
+MAGG_MM_ADVR3_4 = ~z~~sl:0.0:2.2~said he could really use some help getting the word out.~sl:0.9:1.2~Would you mind giving him a hand?~sl:1.9~It'd mean a lot to me.
+
+MAGG_MM_ADVR4_1 = ~z~~sl:0.0:2.3~So... if we want more buyers,~sl:0.3~we need more word of mouth.
+
+MAGG_MM_ADVR4_2 = ~z~~sl:0.0:2.6~A feller I know is after some help promoting his business,~sl:0.4~said he'd do the same for us in return...
+
+MAGG_MM_ADVR4_3 = ~z~~sl:0.0:2.4~and he's got a lot of contacts in this state.~sl:1.2~Can you go lend a hand?
+
+MAGG_MM_ADVR4_4 = ~z~~sl:0.0:2.1~Just keep your eye out for revenuers.~sl:0.6~They're sniffing around again.
+
+MAGG_MM_ADVR5_1 = ~z~~sl:0.0:2.3~Okay, one of our buyers was telling me~sl:0.0:2.5~that his business ain't been doing too well of late,~sl:0.3~so I offered to help him with some promotion...
+
+MAGG_MM_ADVR5_2 = ~z~~sl:0.0:2.9~on the understanding that he'll do the same for us.~sl:0.3~He knows a lot of people in the liquor business.
+
+MAGG_MM_ADVR5_3 = ~z~~sl:0.0:2.9~And by “I”, I meant “you”.~sl:0.7~Thanks, shouldn't take you long.
+
+MAGG_MM_BBRL1_1 = ~z~~sl:0.0:5.6~You know... back in the day, I'd try to find ways to work with the competition...~sl:0.7~but they'd always end up crossing me.
+
+MAGG_MM_BBRL1_2 = ~z~~sl:0.0:3.3~Hell, even my partner ended up crossing me.~sl:0.4~So, when I hear some other moonshiners are sniffing around our buyers,
+
+MAGG_MM_BBRL1_3 = ~z~~sl:0.0:2.1~that ain't something we're gonna tolerate.~sl:0.9~I'll leave it up to you how you deal with 'em...
+
+MAGG_MM_BBRL1_4 = ~z~~sl:0.0:2.5~just so long as they're dealt with...~sl:1.3~got it?
+
+MAGG_MM_BBRL2_1 = ~z~~sl:0.0:1.1~I don't know...~sl:0.7:3.3~it feels like there's always someone behind me waiting to stab me in the back...~sl:0.8~but I guess that's just the business.
+
+MAGG_MM_BBRL2_2 = ~z~~sl:0.0:3.2~You can't take your eye off anything for even a second.~sl:0.4~I got word some other moonshiners are trying to muscle in on one of the saloons near here,
+
+MAGG_MM_BBRL2_3 = ~z~~sl:0.0:2.0~one that we're supplying.~sl:1.1~Can you go pay them a friendly or a... not so friendly visit?
+
+MAGG_MM_BBRL2_4 = ~z~Just make sure they get the message.
+
+MAGG_MM_BBRL3_1 = ~z~~sl:0.0:2.2~So, I got word some other moonshiners~sl:~have been sniffing around one of the saloons near here,
+
+MAGG_MM_BBRL3_2 = ~z~~sl:0.0:3.7~talking down our product, trying to undercut our prices.~sl:0.8~Clearly they've forgotten who they're dealing with.
+
+MAGG_MM_BBRL3_3 = ~z~~sl:0.0:2.3~Can you go and remind them?~sl:0.3~Nicely, or not so nicely. I'll leave that up to you.
+
+MAGG_MM_BBRL4_1 = ~z~~sl:0.0:4.5~Okay... so Marcel told me some fellers have been going 'round the saloons~sl:~touting their shine as the holy water and...
+
+MAGG_MM_BBRL4_2 = ~z~~sl:0.0:2.6~promising to halve our prices.~sl:0.6~I find that extremely disrespectful,
+
+MAGG_MM_BBRL4_3 = ~z~~sl:0.0:4.4~so I was hoping you could track 'em down and teach 'em some professional etiquette.~sl:0.4~Send them a clear message.
+
+MAGG_MM_BBRL5_1 = ~z~~sl:0.0:2.9~So, I just got word from one of our buyers that some other distillers~sl:~have been in his saloon every day this week, badmouthing me,
+
+MAGG_MM_BBRL5_2 = ~z~saying I've lost my touch, trying to persuade them to change supply.
+
+MAGG_MM_BBRL5_3 = ~z~~sl:0.0:4.3~Can you go over there and clear up any misunderstanding about my touch?~sl:0.4~Show them we can be a lot more persuasive.
+
+MAGG_MM_BPRT1_1 = ~z~~sl:0.0:3.9~So... I got word a local business owner's having some trouble...~sl:0.8~said I'd send someone over to help.
+
+MAGG_MM_BPRT1_2 = ~z~~sl:0.0:2.7~Best we stay in with 'em as much as we can.~sl:0.6~Get more distribution that way and...
+
+MAGG_MM_BPRT1_3 = ~z~they'll be more likely to button their lip when the revenuers come sniffing.
+
+MAGG_MM_BPRT1_4 = ~z~Shouldn't take you too long.
+
+MAGG_MM_BPRT2_1 = ~z~~sl:0.0:4.1~Okay then... one of the local saloon owners got in touch and...~sl:~said that he's interested in working with us.
+
+MAGG_MM_BPRT2_2 = ~z~Barely a bar in this whole state doesn't keep a bottle of the good stuff under the counter, huh?
+
+MAGG_MM_BPRT2_3 = ~z~~sl:0.0:4.1~But he also said he had a few issues there that require, well...~sl:~a stronger hand than his.
+
+MAGG_MM_BPRT2_4 = ~z~Can you head over and help 'em out?
+
+MAGG_MM_BPRT3_1 = ~z~~sl:0.0:5.2~Okay then... we need to win back some favor with the saloons 'round here...~sl:0.7:2.7~it's just the way it works. We help them out,~sl:~they help us out when the revenuers come 'round asking questions.
+
+MAGG_MM_BPRT3_2 = ~z~~sl:0.0:4.2~Anyway, there's a bar near here that's having a few problems,~sl:0.3~not sure what exactly, but... I said I'd send someone over to sort it out for them.
+
+MAGG_MM_BPRT3_3 = ~z~And I know what a good Samaritan you are.
+
+MAGG_MM_BPRT4_1 = ~z~~sl:0.0:4.6~Alright then... I have a little job, should be straightforward enough...~sl:0.3~for a pillar of the community like you.
+
+MAGG_MM_BPRT4_2 = ~z~~sl:0.0:2.9~The owner of a saloon near here heard I was back and...~sl:0.3~came to me asking if I could help him out with a few problems he's having,
+
+MAGG_MM_BPRT4_3 = ~z~~sl:0.0:3.4~promised to send some business our way in return.~sl:0.7:2.3~I told him I had just the person.~sl:0.8:1.9~Can you head over there for me?~sl:1.1~See what he needs.
+
+MAGG_MM_BPRT5_1 = ~z~~sl:0.0:3.8~So then... since I know you are nothing if not neighborly,~sl:0.3~I offered your services to one of the saloons 'round here.
+
+MAGG_MM_BPRT5_2 = ~z~~sl:0.0:3.9~They've got some problems... vermin, I think he said, but, uh...~sl:0.3~perhaps of the human kind,
+
+MAGG_MM_BPRT5_3 = ~z~~sl:0.0:3.5~I ain't too sure. Whatever it is, I have no doubt you can handle it.~sl:0.5~Best to stay on their good side.
+
+MAGG_MM_INTI1_1 = ~z~~sl:0.0:0.9~You know...~sl:0.6:3.8~sometimes people don't know what they want until someone tells them...~sl:0.7~just the way things are.
+
+MAGG_MM_INTI1_2 = ~z~~sl:0.0:3.4~Like some of the businesses 'round here who think~sl:~they wanna buy their shine from other vendors.
+
+MAGG_MM_INTI1_3 = ~z~~sl:0.0:2.5~Some folks just get set in their ways.~sl:0.9:4.8~I'm sure if you paid them a visit, they'd soon change their minds.~sl:0.8~I know you can be very convincing.
+
+MAGG_MM_INTI2_1 = ~z~~sl:0.0:2.2~Alright, no rest for the wicked.~sl:0.3~And don't get me wrong... your wickedness is one of my favourite things about you.
+
+MAGG_MM_INTI2_2 = ~z~~sl:0.0:2.5~One of our customers, a business not too far from here,~sl:0.3~seems to have decided they're better off buying their liquor from elsewhere...
+
+MAGG_MM_INTI2_3 = ~z~~sl:0.0:3.0~I reckon a visit from you should clear up any confusion.~sl:0.4~Just be your usual charming self.
+
+MAGG_MM_INTI3_1 = ~z~~sl:0.0:2.9~Alright... I got word some of the businesses 'round here~sl:~have been buying from our competitors instead of us.
+
+MAGG_MM_INTI3_2 = ~z~~sl:0.0:4.1~Don't tell me it's a free country because the only thing still free in this country~sl:~is the air we breathe.
+
+MAGG_MM_INTI3_3 = ~z~~sl:0.0:4.6~Can you go over there and teach them a thing or two about customer loyalty?~sl:0.5~Use those famous powers of persuasion.
+
+MAGG_MM_INTI4_1 = ~z~~sl:0.0:0.7~So...~sl:0.5:4.3~I've been hearing that some of the businesses 'round here started buying from our rivals...~sl:0.9~and that ain't good.
+
+MAGG_MM_INTI4_2 = ~z~~sl:0.0:2.7~Marcel tried using a soft hand on them,~sl:0.0:3.3~went down there with a couple of jugs and some French charm,~sl:0.4~but that didn't work...
+
+MAGG_MM_INTI4_3 = ~z~~sl:0.0:3.9~so... it's time for a strong hand now...~sl:0.8:2.3~go remind them where their loyalties lie.~sl:0.9~Just be your usual persuasive self.
+
+MAGG_MM_INTI5_1 = ~z~~sl:0.0:3.8~It's funny... I know most folks thought I was dead,~sl:~but even so, loyalties always shift faster than you expect them to.
+
+MAGG_MM_INTI5_2 = ~z~~sl:0.0:3.8~A year ago, pretty much every business 'round here was buying off me...~sl:0.5~now I'm hearing some are still dealing with other distillers.
+
+MAGG_MM_INTI5_3 = ~z~~sl:0.0:4.0~The old me would've just sent over a free bottle, played nice,~sl:0.8~but this ain't the old me...
+
+MAGG_MM_INTI5_4 = ~z~so please head over and remind them where their loyalties lie.
+
+MAGG_MM_RBLK1_1 = ~z~~sl:0.0:3.3~So... we got revenue agents in the area again.~sl:0.4~Apparently, they're barricading the roads, stopping and searching wagons...
+
+MAGG_MM_RBLK1_2 = ~z~~sl:0.0:1.8~it's got buyers very jumpy.~sl:0.5~I ain't gonna live in fear of those sons of bitches.
+
+MAGG_MM_RBLK1_3 = ~z~~sl:0.0:2.7~You go and let them know they ain't welcome 'round here.~sl:0.8~Teach them the hard way.
+
+MAGG_MM_RBLK2_1 = ~z~~sl:0.0:4.9~Alright, so... not sure if you heard, but the revenuers are out blocking roads now,~sl:~stopping wagons, making everyone very nervous.
+
+MAGG_MM_RBLK2_2 = ~z~~sl:0.0:1.0~But we ain't gonna run...~sl:0.3~and we ain't gonna just sit here and just wait for them to find us.
+
+MAGG_MM_RBLK2_3 = ~z~~sl:0.0:4.5~You go and remind them how nothing's certain but death and taxes.~sl:0.9~Minus the second part.
+
+MAGG_MM_RBLK3_1 = ~z~~sl:0.0:1.2~My God...~sl:0.9:5.1~the loathing I have for these revenue agents, goddamn thugs in suits...~sl:0.4~preying on simple country folk.
+
+MAGG_MM_RBLK3_2 = ~z~~sl:0.0:3.9~Now, apparently they're blocking roads 'round here, stopping wagons...~sl:0.7~and people are getting antsy.
+
+MAGG_MM_RBLK3_3 = ~z~~sl:0.0:4.3~I just had two buyers back out of a deal because they think it's "too dangerous".~sl:0.6~So, I reckon it's time these bastards moved on, don't you?
+
+MAGG_MM_RBLK3_4 = ~z~Play them at their own game.
+
+MAGG_MM_RBLK4_1 = ~z~~sl:0.0:0.9~You know...~sl:0.4:4.0~the last thing I heard Hixon say as they threw me into that burning building was...~sl:0.6~“Oh, I hope this goes slowly”.
+
+MAGG_MM_RBLK4_2 = ~z~~sl:0.0:1.9~I hadn't managed to get down to the basement,~sl:~I'd've been toast for sure.
+
+MAGG_MM_RBLK4_3 = ~z~~sl:0.0:2.4~That ain't a man of law, that's a murderer...~sl:0.6~and I want him to understand that if he wants a war, we'll give him one.
+
+MAGG_MM_RBLK4_4 = ~z~~sl:0.0:3.6~He's got agents stationed on the roads 'round here checking wagons.~sl:0.8~Go make it very clear... they ain't welcome.
+
+MAGG_MM_RBLK5_1 = ~z~~sl:0.0:1.0~So, last night...~sl:0.7:3.1~Marcel came to me all het up about revenue agents...~sl:1.0~said they're in the area, blocking roads, stopping wagons.
+
+MAGG_MM_RBLK5_2 = ~z~~sl:0.0:3.2~He thinks we should pack up and move to a new cookhouse...~sl:0.5~but I'm done running, and I'm done hiding.
+
+MAGG_MM_RBLK5_3 = ~z~~sl:0.0:3.0~If they're becoming a problem 'round here, we fix the problem...~sl:0.4~plain and simple.
+
+MAGG_MM_RBLK5_4 = ~z~Find where they are and send them on their way. You know what to do.
+
+MAGG_MM_RSET1_1 = ~z~~sl:0.0:3.1~Right, so, even discounting the Braithwaites,~sl:0.4~still far too many folks cooking shine 'round here for my liking.
+
+MAGG_MM_RSET1_2 = ~z~~sl:0.0:2.5~I figure they must all know I'm back by now...~sl:0.3~but I want them to know I'm back and that we mean business.
+
+MAGG_MM_RSET1_3 = ~z~~sl:0.0:3.6~If they won't shut down, you go make sure they shut down.~sl:0.4~Destroy whatever you can.
+
+MAGG_MM_RSET2_1 = ~z~~sl:0.0:2.8~It's amazing... you disappear for a year,~sl:~all the snakes and bottom feeders come crawling out of their holes again.
+
+MAGG_MM_RSET2_2 = ~z~~sl:0.0:4.3~Half the cowards 'round here wouldn't have dared run shine on my ground before...~sl:0.8~they seem to have forgotten who they're dealing with.
+
+MAGG_MM_RSET2_3 = ~z~~sl:0.0:4.6~It's time to go on the attack. Find 'em and hit 'em where it hurts.~sl:0.9:2.1~Because let me tell you...~sl:1.3~my patience is wearing thin.
+
+MAGG_MM_RSET3_1 = ~z~~sl:0.0:3.0~So, in here is where we create things.~sl:0.3~Out there, well, as you know, out there is often where we need to destroy things.
+
+MAGG_MM_RSET3_2 = ~z~~sl:0.0:1.9~Some of our competitors still seem confused~sl:~about who's running the show around these parts.
+
+MAGG_MM_RSET3_3 = ~z~~sl:0.0:4.0~Can you track down their operation and make sure the message is crystal clear?~sl:0.4~Time to close these people down.
+
+MAGG_MM_RSET4_1 = ~z~~sl:0.0:5.2~Right, so some other moonshiners 'round here have been saying that I've gone soft,~sl:0.3~that I ain't the same woman since the accident.
+
+MAGG_MM_RSET4_2 = ~z~~sl:0.0:4.0~Now, there's some truth to that last part, but soft I surely ain't...~sl:~and I need you to make that very clear to them.
+
+MAGG_MM_RSET4_3 = ~z~~sl:0.0:2.4~Take out their product, materials, transport...~sl:0.5~whatever it takes to send the message.
+
+MAGG_MM_RSET5_1 = ~z~~sl:0.0:2.0~You know what some folk been saying?~sl:0.5:3.4~That I made a deal with the devil to come back from the dead...~sl:1.5~and everything I touch is cursed.
+
+MAGG_MM_RSET5_2 = ~z~~sl:0.0:5.0~Well, if it's bad luck they want, it's bad luck they're gonna get.~sl:0.4~I just heard about another crew operating near here.
+
+MAGG_MM_RSET5_3 = ~z~~sl:0.0:4.2~Find where they're based, and destroy everything you damn well can.~sl:1.4~We need to make sure these bastards get the message.
+
+MAGG_MM_SABO1_1 = ~z~~sl:0.0:4.6~You know, there was a time last year when I started feeling very sorry for myself...~sl:1.4~but... I got what I got.
+
+MAGG_MM_SABO1_2 = ~z~~sl:0.0:4.3~We ain't making toys for orphans here... this is a risky business.~sl:0.9~Stills blow, barrels get contaminated.
+
+MAGG_MM_SABO1_3 = ~z~~sl:0.0:3.4~So... I reckon it's time you paid the competition a visit...~sl:0.8:3.6~to remind them just how risky it really is.~sl:1.4~You know what to do.
+
+MAGG_MM_SABO2_1 = ~z~~sl:0.0:0.9~Well...~sl:0.7~ I think you've probably gathered by now that there ain't much love lost between moonshiners...
+
+MAGG_MM_SABO2_2 = ~z~~sl:0.0:1.9~just look at me and Danny-Lee.~sl:0.8~And if folks wanna play dirty 'round here,
+
+MAGG_MM_SABO2_3 = ~z~~sl:0.0:1.9~that's a game I intend to win.~sl:0.6:3.3~So, maybe it's time you dropped in on our rivals and...~sl:0.4~caused a few accidents...
+
+MAGG_MM_SABO2_4 = ~z~~sl:0.0:3.3~all's fair in moonshine and war, I say.~sl:0.9~And we're bringing both.
+
+MAGG_MM_SABO3_1 = ~z~~sl:0.0:3.5~So... there's two ways to get ahead in this business...~sl:0.4:3.7~one: raise the quality of your product... or two:~sl:0.3~lower the quality of the competition's.
+
+MAGG_MM_SABO3_2 = ~z~~sl:0.0:3.8~Number two requires a little more ingenuity.~sl:0.7~There's a new operation popped up not too far from here that I think needs
+
+MAGG_MM_SABO3_3 = ~z~~sl:0.0:3.7~to learn just how precarious this business can be.~sl:1.5~Be as ingenious as you want.
+
+MAGG_MM_SABO4_1 = ~z~Okay, I'm told our competitors have been running their mouths again,
+
+MAGG_MM_SABO4_2 = ~z~saying our shine's under par now Danny-Lee ain't cooking with me no more.
+
+MAGG_MM_SABO4_3 = ~z~~sl:0.0:2.9~So why don't you track down one of their operations and...~sl:0.3~add a little something extra to their batch, see who's under par then?
+
+MAGG_MM_SABO4_4 = ~z~Failing that, just destroy the lot of it.
+
+MAGG_MM_SABO5_1 = ~z~~sl:0.0:2.7~Alright, we both know this is a risky business.~sl:0.4~I remember losing a month's supply to contamination one time, which hurt...
+
+MAGG_MM_SABO5_2 = ~z~but, if I said I wouldn't wish that on my worst enemy, I'd be lying.
+
+MAGG_MM_SABO5_3 = ~z~~sl:0.0:2.7~So, could you pay our competitors a visit~sl:~and maybe add a little extra to their barrels when no one's looking?
+
+MAGG_MM_SABO5_4 = ~z~These things happen to the nicest people...
+
+MAGG_PA_BOUNTY_01 = ~z~~sl:0.0:2.7~No, sorry, I am not sending you out there~sl:~while there's bounty hunters sniffing around.
+
+MAGG_PA_BOUNTY_02 = ~z~~sl:0.0:2.1~Listen, I can't risk you out there working~sl:~while you've got a price on your head.
+
+MAGG_PA_BOUNTY_03 = ~z~~sl:0.0:2.5~Why don't you come back when you've paid off your bounty?~sl:0.4~That's more trouble I don't need.
+
+MAGG_PA_DOG_01 = ~z~~sl:0.0:1.6~I've always liked dogs.~sl:0.3~I think that's why me and Cripps never worked out.
+
+MAGG_PA_DOG_02 = ~z~Nice to have a dog around the place again.
+
+MAGG_PA_DOG_03 = ~z~~sl:0.0:2.8~If only everyone was as loyal as that dog...~sl:0.3~things would have turned out a lot differently.
+
+MAGG_PA_DOG_04 = ~z~Just make sure you clear up after that thing.
+
+MAGG_PA_DOG_05 = ~z~~sl:0.0:2.5~Hope that dog has a good nose for revenuers,~sl:0.5~we need all the help we can get.
+
+MAGG_PA_DOG_06 = ~z~Make sure that dog doesn't get its nose in our ingredients.
+
+MAGG_PA_EMOTE_01 = ~z~What are you doing?
+
+MAGG_PA_EMOTE_02 = ~z~Is that meant to impress me?
+
+MAGG_PA_EMOTE_03 = ~z~You're in a strange mood.
+
+MAGG_PA_FAIL_01 = ~z~Well, that ain't too good.
+
+MAGG_PA_FAIL_02 = ~z~We ain't gonna get far if you keep that up.
+
+MAGG_PA_FAIL_03 = ~z~Okay... I'm starting to worry Cripps might be wrong about you.
+
+MAGG_PA_FAIL_M_01 = ~z~~sl:0.0:1.1~What happened out there?~sl:0.4~We can't afford too many mistakes like that.
+
+MAGG_PA_FAIL_M_02 = ~z~~sl:0.0:2.0~I hear that didn't go very well at all...~sl:0.7~I hope this doesn't become a habit.
+
+MAGG_PA_FAIL_M_03 = ~z~So, what happened with that last job? Sounds like a disaster.
+
+MAGG_PA_IDLETME_01 = ~z~Go on, you're already late.
+
+MAGG_PA_IDLETME_02 = ~z~If you don't go now, we might as well forget all about it.
+
+MAGG_PA_IDLETME_03 = ~z~Will you get a move on? The clock's ticking here.
+
+MAGG_PA_IDLE_01 = ~z~Do you need something?
+
+MAGG_PA_IDLE_02 = ~z~Are you okay there?
+
+MAGG_PA_IDLE_03 = ~z~What's wrong? Why are you hanging around like a bad smell?
+
+MAGG_PA_IDLE_04 = ~z~Anyone would think you don't have any work to do.
+
+MAGG_PA_MAX_01 = ~z~~sl:0.0:1.7~Business is in top form,~sl:0.3~I don't see the prices going any lower at this point.
+
+MAGG_PA_MAX_02 = ~z~~sl:0.0:2.6~Can't believe how low we've got the mash price.~sl:0.5~I say we just sit tight for now.
+
+MAGG_PA_MAX_03 = ~z~~sl:0.0:2.8~Well, I reckon we've got the mash prices as low as they're gonna get.~sl:0.6~Best we sit on things for a while.
+
+MAGG_PA_MGEN_01 = ~z~How can I help?
+
+MAGG_PA_MGEN_02 = ~z~What do you need?
+
+MAGG_PA_MGEN_03 = ~z~Okay then.
+
+MAGG_PA_MGEN_04 = ~z~Alright, let's get to business.
+
+MAGG_PA_MGEN_05 = ~z~Okay, so what are we talking about here?
+
+MAGG_PA_MGEN_06 = ~z~Alright, what's next then?
+
+MAGG_PA_MIDLE_01 = ~z~Hurry up, I'm a busy woman.
+
+MAGG_PA_MIDLE_02 = ~z~Some time today'd be nice.
+
+MAGG_PA_MIDLE_03 = ~z~Come on, make your mind up.
+
+MAGG_PA_MPRELO_01 = ~z~Here we are, I always liked this old place.
+
+MAGG_PA_MPRELO_02 = ~z~Feels good to be back 'round here. Been too long.
+
+MAGG_PA_MPRELO_03 = ~z~Well, hopefully this move'll keep the revenuers guessing for a while.
+
+MAGG_PA_MPRELO_04 = ~z~Welcome to your new home. It's nice to be back 'round here.
+
+MAGG_PA_MRELO_01 = ~z~You think it's time to move?
+
+MAGG_PA_MRELO_02 = ~z~Marcel's been talking about moving on too.
+
+MAGG_PA_MRELO_03 = ~z~Are you looking for a change of scenery?
+
+MAGG_PA_MRELO_04 = ~z~~sl:0.0:1.9~Yeah, it might be time to move on.~sl:0.1~Won't be long before the revenuers get wind of this place.
+
+MAGG_PA_MSSIDLE_01 = ~z~So, what's the holdup here?
+
+MAGG_PA_MSSIDLE_02 = ~z~Are you going then?
+
+MAGG_PA_MSSIDLE_03 = ~z~Sooner you get this done, the better.
+
+MAGG_PA_MUPGR_01 = ~z~Looking to make some improvements?
+
+MAGG_PA_MUPGR_02 = ~z~Yes, it might be time for some additions.
+
+MAGG_PA_MUPGR_03 = ~z~Okay, what're ya  thinking?
+
+MAGG_PA_MUPGR_04 = ~z~I was thinking the same things... a few improvements wouldn't hurt.
+
+MAGG_PA_NEWBUY_01 = ~z~~sl:0.0:2.0~We've got some new buyers lined up.~sl:0.4~Marcel can give you the details when you're ready to sell.
+
+MAGG_PA_NEWBUY_02 = ~z~~sl:0.0:1.8~Oh, you should speak to Marcel.~sl:0.3~We've found some new buyers.
+
+MAGG_PA_NEWBUY_03 = ~z~~sl:0.0:2.1~Okay, I've found us some new buyers.~sl:0.2~Can you speak to Marcel about setting up a meeting?
+
+MAGG_PA_NEWBUY_04 = ~z~We've got some new customers lined up. Marcel can fill you in.
+
+MAGG_PA_NEWBUY_05 = ~z~Oh, Marcel was looking for you... we've got some new buyers.
+
+MAGG_PA_NOTAV_01 = ~z~Sorry, I don't have anything for you right now.
+
+MAGG_PA_NOTAV_02 = ~z~I'm a little busy right now, can you come back later?
+
+MAGG_PA_NOTAV_03 = ~z~Things are a little slow right now, it'll hopefully pick back up soon.
+
+MAGG_PA_NOTAV_04 = ~z~Okay, so there's a few things I need to deal with before we send you out again.
+
+MAGG_PA_NOTAV_05 = ~z~Sorry, one of them days. Can you come back and see me later?
+
+MAGG_PA_NOTAV_06 = ~z~Appreciate you checking in, but there's nothing doing right now.
+
+MAGG_PA_NOTGL_01 = ~z~Let the boss know there's some stuff I need taken care of.
+
+MAGG_PA_NOTGL_02 = ~z~Can you tell your boss I need a word when they get the chance?
+
+MAGG_PA_NOTGL_03 = ~z~~sl:0.0:2.1~Oh, can you tell your boss to come see me?~sl:0.3~Work's starting to pile up here.
+
+MAGG_PA_PASS_01 = ~z~Good job.
+
+MAGG_PA_PASS_02 = ~z~Nice work.
+
+MAGG_PA_PASS_03 = ~z~Well done.
+
+MAGG_PA_PASS_KB_01 = ~z~Thanks for helping out those buyers, by the way.
+
+MAGG_PA_PASS_KB_02 = ~z~I'm glad those buyers are safe. Good job getting them out.
+
+MAGG_PA_PASS_KB_03 = ~z~~sl:0.0:3.4~Oh, I heard those buyers you rescued are very happy.~sl:0.3~They're going to send some other business our way.
+
+MAGG_PA_PASS_MM_01 = ~z~Nice work on that last thing. Feels like we're making progress.
+
+MAGG_PA_PASS_MM_02 = ~z~Sounds like that last job went well. Well done.
+
+MAGG_PA_PASS_MM_03 = ~z~Well done with that last thing, by the way.
+
+MAGG_PA_PPS_MM_01 = ~z~Well, I suppose our name is out there at least.
+
+MAGG_PA_PPS_MM_02 = ~z~~sl:0.0:2.1~I'd rather you'd finished what you started, but...~sl:0.7~something's better than nothing.
+
+MAGG_PA_PPS_MM_03 = ~z~So, Marcel tells me your last job didn't go quite as well as he'd hoped?
+
+MAGG_PA_STEAL_01 = ~z~Hey! I can see you, you know.
+
+MAGG_PA_STEAL_02 = ~z~Well, help yourself, why don't you?
+
+MAGG_PA_STEAL_03 = ~z~Hey! I hope you're just borrowing that.
+
+MAGG_PA_STEAL_04 = ~z~You don't even ask, huh?
+
+MAGG_PA_STREAK_01 = ~z~Very good work recently, Cripps was right about you.
+
+MAGG_PA_STREAK_02 = ~z~Well, I can't really fault you so far. Good work.
+
+MAGG_PA_STREAK_03 = ~z~Well, I have to say, you seem to be getting pretty good at this.
+
+MAGG_PA_WANTED_01 = ~z~~sl:0.0:1.7~No, no, don't even think about~sl:~coming here with the law on your tail.
+
+MAGG_PA_WANTED_02 = ~z~~sl:0.0:1.0~I don't know you...~sl:0.4~at least I don't until you get the law off your back.
+
+MAGG_PA_WANTED_03 = ~z~~sl:0.0:2.6~Whatever problems you've got with the law, fix 'em.~sl:0.4~It's only bringing us more attention we don't need.
+
+MAGG_STORY1_1 = ~z~Good, you are just in time...
+
+MAGG_STORY2_1 = ~z~~sl:0.0:3.3~Okay, I just found out that the Braithwaites and Danny-Lee~sl:~are cooking shine out in the swamps of Bayou Nwa.
+
+MAGG_STORY2_2 = ~z~~sl:0.0:5.0~So, seeing as they gave me such a warm welcome on my return,~sl:~I figure it's only polite to repay the favour.
+
+MAGG_STORY2_3 = ~z~~sl:0.0:4.3~There's an old stash of explosives, the good stuff. I'll show you on the map.~sl:0.6~That should make short work of any stills they're using.
+
+MAGG_STORY2_4 = ~z~~sl:0.0:3.4~Plenty of routes in there, you-you could hijack their supply wagon,~sl:~you could even go by river...
+
+MAGG_STORY2_5 = ~z~~sl:0.0:1.6~but I'll leave that to you.~sl:0.6~It's time to hit 'em hard, and where it hurts.
+
+MAGG_STORY3_1 = ~z~~sl:0.0:3.4~Alright, not sure if you heard, but I sent Lem up north to collect~sl:~some special ingredients that should really help us broaden our market...
+
+MAGG_STORY3_2 = ~z~~sl:0.0:2.3~stuff Danny-Lee won't even have heard of.~sl:0.7:1.6~Felt like a really good job for Lem...~sl:0.5~with you around, he's been a little jealous.
+
+MAGG_STORY3_3 = ~z~Anyway, he's bringing it in by boat and should be docking soon in Annesburg...
+
+MAGG_STORY3_4 = ~z~~sl:0.0:3.0~there's already some wagons arranged to bring it all back, but...~sl:0.4~I'd appreciate it if you'd head over there just...
+
+MAGG_STORY3_5 = ~z~~sl:0.0:2.7~you know, for some extra security.~sl:0.7~Best safe than sorry these days.
+
+MAGG_STORY4_1 = ~z~~sl:0.0:2.8~Okay, I just found out something very interesting...~sl:0.3~Danny-Lee's running a bottling operation out of Butcher Creek, of all places.
+
+MAGG_STORY4_2 = ~z~~sl:0.0:3.3~I was just thinking how embarrassing it would be for the master distiller~sl:~if something was to get into his mix and sour the hooch.
+
+MAGG_STORY4_3 = ~z~~sl:0.0:2.5~Especially if you do it without them realizing.~sl:~I got a little recipe that should do just the trick,
+
+MAGG_STORY4_4 = ~z~~sl:0.0:2.2~you have to use it when it's real fresh, though.~sl:0.5~I've jotted down all the ingredients, and where you can find 'em.
+
+MAGG_STORY4_5 = ~z~~sl:0.0:4.0~The rest, the fun part, I'll leave in your capable hands.~sl:0.4~And if all else fails, just destroy the shit.
+
+MAGG_STORY5_1 = ~z~Time to tie up some loose ends.
+
+MAGG_ST_M1PRE_1 = ~z~~sl:0.0:2.4~My nephew Lem's still in jail and Danny-Lee~sl:~and Braithwaite are still taking our customers.
+
+MAGG_ST_M1PRE_2 = ~z~~sl:0.0:2.1~You let me know when you're ready to make a move.~sl:0.1~We shouldn't sit on this too long.
+
+MAGG_ST_M1REACT_1 = ~z~~sl:0.0:1.7~Thanks again for getting Lem out.~sl:0.4~I promised my sister I'd always look out for him.
+
+MAGG_ST_M1REACT_2 = ~z~~sl:0.0:3.8~Anyway, I've got an idea... a way we can send Danny-Lee~sl:~and the Braithwaites a message that we ain't going nowhere.
+
+MAGG_ST_M1REACT_3 = ~z~I just need to work out a couple more things.
+
+MAGG_ST_M2REACT_1 = ~z~~sl:0.0:2.5~Danny-Lee and Braithwaite weren't happy, were they?~sl:0.6~Serves him right, the traitor.
+
+MAGG_ST_M2REACT_2 = ~z~~sl:0.0:3.4~Anyway, let's focus on this business now we have their customers.~sl:0.5~I've got Lem working on something big, something he can manage.
+
+MAGG_ST_M3REACT_1 = ~z~~sl:0.0:2.2~Lem, what a fool.~sl:0.8:3.9~I don't know what I'm going to do with that boy. Thank God I sent you to Annesburg...~sl:0.5~he'd be dead or behind bars otherwise.
+
+MAGG_ST_M3REACT_2 = ~z~~sl:0.0:2.0~Least these new recipes are coming along though,~sl:0.3:1.7~I think we'll get a lot of new customers out of it.~sl:0.4:4.0~I'm working on a plan for our next excursion, something a little more covert.~sl:0.6~We'll speak soon.
+
+MAGG_ST_M4NREAC_1 = ~z~~sl:0.0:1.8~Sounds like we didn't do as much damage~sl:0.0:2.0~to Danny-Lee's product as we could've done.~sl:0.4~But... it'll still hurt 'em.
+
+MAGG_ST_M4NREAC_2 = ~z~~sl:0.0:2.9~Anyway, I have a plan to deal with all of them...~sl:0.3~Danny-Lee, Hixon, Braithwaite, once and for all...
+
+MAGG_ST_M4NREAC_3 = ~z~but I'll speak to you about that later.
+
+MAGG_ST_M4PREAC_1 = ~z~Good work! I hear almost nobody's buying Braithwaite shine anymore.
+
+MAGG_ST_M4PREAC_2 = ~z~~sl:0.0:2.7~I think it's time to bring down the hammer on all of them...~sl:0.1:1.9~Danny-Lee, Hixon, Braithwaite.~sl:1.1~I have a plan, I'll let you know when we're ready to make a move.
+
+MAGG_ST_M5REACT_1 = ~z~~sl:0.0:2.5~You know, with Hixon and Danny-Lee gone...~sl:0.3:2.2~well, it ain't quite the peace I hoped for.~sl:0.1~Maybe I'll never find that.
+
+MAGG_ST_M5REACT_2 = ~z~~sl:0.0:3.6~But I can finally breathe, for now at least.~sl:0.4:1.6~Who knows what the future will bring...~sl:0.6~things never stay quiet for long.
+
+MAGG_ST_NEWMISS_01 = ~z~Got some more work for you.
+
+MAGG_ST_NEWMISS_02 = ~z~You ready to get out there again?
+
+MAGG_ST_NEWMISS_03 = ~z~I got something I need you to do.
+
+MAGG_ST_NEWMISS_04 = ~z~Okay, I've got a job for you when you're ready.
+
+MAGG_ST_NEWMISS_05 = ~z~You ready for another job?
+
+MAGG_SU_RESCUE_1 = ~z~Alright, well... next on the list is a cook... can't do much without that.
+
+MAGG_SU_RESCUE_2 = ~z~~sl:0.0:3.1~Since Danny-Lee's sold his soul to the Braithwaites,~sl:~we've been courting a feller called Marcel.
+
+MAGG_SU_RESCUE_3 = ~z~~sl:0.0:3.6~Friend of Cripps, used to work as a chef for Jessica LeClerk...~sl:0.7:2.8~but he comes from a long line of French distillers.~sl:1.0~Seems to know what he's doing.
+
+MAGG_SU_RESCUE_4 = ~z~Problem is, another outfit got wind of this and grabbed him...
+
+MAGG_SU_RESCUE_5 = ~z~So... let's see some of that muscle Cripps promised me...
+
+MAGG_SU_SUPPLIE_1 = ~z~~sl:0.0:3.9~Okay then... we're gonna need supplies and equipment...~sl:0.4~so we can set up the still and get started with production.
+
+MAGG_SU_SUPPLIE_2 = ~z~~sl:0.0:2.2~We could buy all this, of course, but...~sl:0.5~why would we do that when we can just borrow it...
+
+MAGG_SU_SUPPLIE_3 = ~z~~sl:0.0:3.7~permanently from some of the other moonshiners 'round here and...~sl:~kill two birds with one stone.
+
+MAGG_SU_SUPPLIE_4 = ~z~~sl:0.0:2.3~Time to show the these folks that Maggie's back...~sl:1.4~back for good.
+

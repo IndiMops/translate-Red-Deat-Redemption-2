@@ -1,0 +1,48 @@
+GUA1_INT_1 = ~z~Wake up.
+
+GUA1_INT_2 = ~z~Everybody, wake up.
+
+GUA1_INT_3 = ~z~Wake up!
+
+GUA1_INT_4 = ~z~Come on, Arthur!
+
+GUA1_INT_5 = ~z~Arthur, Arthur!
+
+GUA1_INT_6 = ~z~Wake up!
+
+GUA1_INT_7 = ~z~Wake up!
+
+GUA1_INT_8 = ~z~Why? What's going on?
+
+GUA1_INT_9 = ~z~I don't know, but we are getting off of this boat.
+
+GUA1_INT_10 = ~z~You come on.
+
+GUA1_INT_11 = ~z~Would you get a move on, you sleepy bastards!
+
+GUA1_INT_12 = ~z~You go on ahead, I'll be right behind you.
+
+GUA1_INT_13 = ~z~Jesus.
+
+GUA1_INT_14 = ~z~Dutch...
+
+GUA1_INT_15 = ~z~Dutch!
+
+GUA1_INT_16 = ~z~I'm okay...
+
+GUA1_INT_17 = ~z~you?
+
+GUA1_INT_18 = ~z~Yeah.
+
+GUA1_INT_19 = ~z~This ain't moving.
+
+GUA1_INT_20 = ~z~No.
+
+GUA1_INT_21 = ~z~Yeah, you go on ahead...
+
+GUA1_INT_22 = ~z~I'll try and find another way.
+
+GUA1_INT_23 = ~z~Oh, goddammit!
+
+GUA1_INT_24 = ~z~Dutch!
+

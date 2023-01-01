@@ -1,0 +1,14 @@
+CWSD1_ACT_1 = ~z~Just so you know, I'm gonna kill them. I'm gonna kill all of them.
+
+CWSD1_ACT_2 = ~z~Who, Mrs. Adler?
+
+CWSD1_ACT_3 = ~z~Those O'Driscolls!
+
+CWSD1_ACT_4 = ~z~I'm gonna find 'em and kill each and everyone of them bastards. Just watch me.
+
+CWSD1_ACT_5 = ~z~You've had a bad time, but...
+
+CWSD1_ACT_6 = ~z~but we ain't in the revenge business. It don't keep you fed.
+
+CWSD1_ACT_7 = ~z~Just watch me.
+

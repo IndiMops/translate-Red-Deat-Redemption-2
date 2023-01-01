@@ -1,0 +1,228 @@
+HUNHC_H_ACDB_1 = ~z~Could it have been an animal?
+
+HUNHC_H_ACDB_2 = ~z~No, they'd been shot. I just don't know why anybody would just leave them there to rot like that.
+
+HUNHC_H_CFDHTR_1 = ~z~Arthur. Look. Smoke to the north. Could be another camp.
+
+HUNHC_H_CFDHTR_2 = ~z~Let's go check it out.
+
+HUNHC_H_CPDBF2_1 = ~z~Look, another dead bison to our left there. Come on.
+
+HUNHC_H_DBFOF_1 = ~z~Look, over here.
+
+HUNHC_H_FDBUFH_1 = ~z~Over there, you see them all? Incredible, aren't they?
+
+HUNHC_H_FDDBF1_1 = ~z~No, look. Bison. Shot and left for dead, it looks like.
+
+HUNHC_H_FDDBF1_2 = ~z~Why would someone do that?
+
+HUNHC_H_FDDBF1_3 = ~z~I don't know but I see tracks heading in this direction. I say we follow them.
+
+HUNHC_H_FDDBF1_4 = ~z~Alright, lead the way.
+
+HUNHC_H_FDDBF2_1 = ~z~Shot and left for dead again. But this one looks fresher.
+
+HUNHC_H_FDDBF2_2 = ~z~There's a camp here, I'm going to take a look.
+
+HUNHC_H_FDHNTRB_1 = ~z~I see some smoke to the east. Maybe another camp? It's worth a look.
+
+HUNHC_H_FDHNTRB_2 = ~z~Alright, let's go.
+
+HUNHC_H_FDHNTR_1 = ~z~I see some smoke to the north. Maybe another camp? It's worth a look.
+
+HUNHC_H_FDHNTR_2 = ~z~Alright, let's go.
+
+HUNHC_H_GTBUFHC_1 = ~z~So where we headed?
+
+HUNHC_H_GTBUFHC_2 = ~z~Back up to the Heartlands.
+
+HUNHC_H_GTBUFHC_3 = ~z~Okay.
+
+HUNHC_H_GTBUFHC_4 = ~z~Feels like there's been so much noise and chaos recently...
+
+HUNHC_H_GTBUFHC_5 = ~z~would you mind if we just rode and enjoyed the silence for once?
+
+HUNHC_H_GTBUFHC_6 = ~z~I need to clear my mind.
+
+HUNHC_H_GTBUFHC_7 = ~z~Sure, fine by me.
+
+HUNHC_H_GTBUFH_1 = ~z~It was before my time, of course, but~rp~ my mother used to tell me stories of how her tribe moved with the bison.
+
+HUNHC_H_GTBUFH_2 = ~z~They lived almost as one.~rp~ Where the bison went, my people went.
+
+HUNHC_H_GTBUFH_3 = ~z~They were the center of all life...we couldn't survive without them.
+
+HUNHC_H_GTBUFH_4 = ~z~They provided us with everything...food, clothing, shelter, tools.
+
+HUNHC_H_GTBUFH_5 = ~z~There was a lot of respect...
+
+HUNHC_H_GTBUFH_6 = ~z~I don't remember much of my childhood,~rp~ but I think my people,
+
+HUNHC_H_GTBUFH_7 = ~z~we pretty much moved with the whisky.
+
+HUNHC_H_GTBUFH_8 = ~z~Well,~rp~ my father did that too.
+
+HUNHC_H_GTDBF1_1 = ~z~Where are we going?
+
+HUNHC_H_GTDBF1_2 = ~z~I thought I saw some scavenger birds over here...
+
+HUNHC_H_GTDBF1_3 = ~z~just wanted to see what attracted them.
+
+HUNHC_H_GTDBF2_1 = ~z~Look, another dead bison. On that hill to the right. Come on.
+
+HUNHC_H_GTDBF3_1 = ~z~Look, more dead bison. It has to be them. Come on!
+
+HUNHC_H_GTDBF3_2 = ~z~Wait up!
+
+HUNHC_H_GTVP_1 = ~z~This way. We should have a good view from up here.
+
+HUNHC_H_HESI_1 = ~z~Kill him!
+
+HUNHC_H_ILO1_1 = ~z~Yeah, it's been shot, alright.
+
+HUNHC_H_ILO2_1 = ~z~Been dead a couple days at least.
+
+HUNHC_H_ILO3_1 = ~z~Already starting to rot.
+
+HUNHC_H_ILO4_1 = ~z~What a damn waste.
+
+HUNHC_H_INSCMP_1 = ~z~Logs haven't gone cold yet. Maybe half a day since they left.
+
+HUNHC_H_INSCMP_2 = ~z~Bison's been dead about the same amount of time.
+
+HUNHC_H_INSCMP_3 = ~z~So what do you want to do?
+
+HUNHC_H_INSCMP_4 = ~z~They could still be in the area. Let's get up higher, see if we spot anything.
+
+HUNHC_H_INT1_1 = ~z~Why are you killing those bison and leaving them to rot?
+
+HUNHC_H_INT1_2 = ~z~I don't know what you're talking about.
+
+HUNHC_H_INT2_1 = ~z~Goddamn it, tell us or you're dead.
+
+HUNHC_H_INT2_2 = ~z~Okay! We were paid to kill as many as we could.
+
+HUNHC_H_INT2_3 = ~z~To make it look like it was Indians.
+
+HUNHC_H_INT2_4 = ~z~Just kill him, Arthur!
+
+HUNHC_H_INTGRAP_1 = ~z~What the hell are you doing?
+
+HUNHC_H_INVCMP_1 = ~z~You find anything, Arthur?
+
+HUNHC_H_KHNTR_1 = ~z~I've heard enough.
+
+HUNHC_H_KLBUF_1 = ~z~We should only kill one of them.
+
+HUNHC_H_KLBUF_2 = ~z~I'll keep them ringed in and you see if you can bring one down.
+
+HUNHC_H_KLBUF_3 = ~z~Okay? Clean as you can.
+
+HUNHC_H_KLBUF_4 = ~z~Okay.
+
+HUNHC_H_KLDBUF_1 = ~z~Well done.
+
+HUNHC_H_KLDMORE_01 = ~z~No, one is enough!
+
+HUNHC_H_KLDMORE_02 = ~z~Stop, Arthur! We've got what we need!
+
+HUNHC_H_KLDSKIN_1 = ~z~Alright, skin and butcher it. Take the horns too.
+
+HUNHC_H_KLDSKIN_2 = ~z~It can all be used.
+
+HUNHC_H_MOUNT_1 = ~z~Okay, let's go.
+
+HUNHC_H_PLEAD_1 = ~z~No, please! Don't kill me! I'm begging you!
+
+HUNHC_H_RHNTR_1 = ~z~Why did you do that?
+
+HUNHC_H_RHNTR_2 = ~z~He didn't need to die. Maybe he'll go tell his friends now what happens to poachers.
+
+HUNHC_H_RHNTR_3 = ~z~I've seen enough of this. I'm heading back.
+
+HUNHC_H_RHNTR_4 = ~z~Okay, I'm going to see if there's anything worth taking from their camp.
+
+HUNHC_H_RHNTR_5 = ~z~I'll catch up with you later.
+
+HUNHC_H_RIDE3_1 = ~z~Bastards. Just killing for fun.
+
+HUNHC_H_RIDE3_2 = ~z~You think we can talk?
+
+HUNHC_H_RIDE3_3 = ~z~I don't kill for fun. I kill when I need to.
+
+HUNHC_H_RKHNTR_1 = ~z~That's what he deserved. I've seen enough of this. I'm heading back.
+
+HUNHC_H_RKHNTR_2 = ~z~Okay, I'm going to see if there's anything worth taking from their camp.
+
+HUNHC_H_RKHNTR_3 = ~z~I'll catch up with you later.
+
+HUNHC_H_SINTER_1 = ~z~Stand back, Charles. I'll get you some answers.
+
+HUNHC_H_STSKN2_1 = ~z~Stow that hide on your horse first.
+
+HUNHC_H_STWSKN_1 = ~z~Good job. Stow that on your horse and mount up. I want to go check something out.
+
+HUNHC_H_TRNHIL_1 = ~z~Let's try over here to the left.
+
+HUNHC_H_UPHIL_1 = ~z~Not far now, let's cut up this way.
+
+HUNHC_H_USEBIN_1 = ~z~Okay... you see anything?
+
+HUNHC_IG1_ASK_1 = ~z~Why'd you do it?
+
+HUNHC_IG1_CONF_1 = ~z~Did you fools shoot those bison?
+
+HUNHC_IG1_CONF_2 = ~z~What's your problem?
+
+HUNHC_IG1_CONF_3 = ~z~I said, did you fools shoot those bison?
+
+HUNHC_IG1_CONF_4 = ~z~Calm down, you black or red bastard, whatever the fuck you are.
+
+HUNHC_IG1_CONF_5 = ~z~Did you shoot them?
+
+HUNHC_IG1_CONF_6 = ~z~Yeah, we did. We shot them bison and we will shoot you too, if you don't get.
+
+HUNHC_IG1_CONF_7 = ~z~~sl:0.0:2.0:1~What business is it of yours what we...
+
+HUNHC_IG1_CONF_8 = ~z~~sl:1.3~It's that business of mine!
+
+HUNHC_IG1_CONF_9 = ~z~~sl:0.0:1.7~Good god, you're crazy!~sl:0.6~Look, I got a family... a family. Don't shoot me.
+
+HUNHC_IG2_GO_1 = ~z~Alright, get out of here!
+
+HUNHC_IG2_GO_2 = ~z~Just don't shoot me, mister... I got a family!
+
+HUNHC_IG2_GO_3 = ~z~Then run away.
+
+HUNHC_IG2_RUN_1 = ~z~
+
+HUNHC_INT_1 = ~z~The greatest of gifts.
+
+HUNHC_INT_2 = ~z~An unguarded stagecoach?
+
+HUNHC_INT_3 = ~z~No, you simple minded fool.
+
+HUNHC_INT_4 = ~z~Bison.
+
+HUNHC_INT_5 = ~z~Bison?
+
+HUNHC_INT_6 = ~z~Bison...
+
+HUNHC_INT_7 = ~z~from which you can get anything.
+
+HUNHC_INT_8 = ~z~There's some over on the plains, I believe.
+
+HUNHC_INT_9 = ~z~I saw a couple a long way off earlier.
+
+HUNHC_INT_10 = ~z~Good luck.
+
+HUNHC_INT_11 = ~z~You wanna come with me?
+
+HUNHC_INT_12 = ~z~I'll show you how we hunt one.
+
+HUNHC_INT_13 = ~z~Sure, why not?
+
+HUNHC_INT_LI_1 = ~z~What you preparing for?
+
+HUNHC_W_HORSES_1 = ~z~Mount up then, let's go.
+

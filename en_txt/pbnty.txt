@@ -1,0 +1,144 @@
+0x5F4280C8 = Rival Posse turned in ~1p~
+
+0x9F9F59D3 = ~COLOR_ENEMY~~1p~~s~ delivered alive
+
+0x72F13937 = ~COLOR_ENEMY~~1p~~s~ delivered alive
+
+0x374EFA11 = ~COLOR_ENEMY~~1p~~s~ delivered dead
+
+0x96109EDE = Rival Posse turned in ~1p~
+
+0xB34EA29D = ~COLOR_POSSE_ALLY~~1p~~s~ killed by Bounty Hunters
+
+0xE269A6B7 = ~COLOR_POSSE_ALLY~~1p~~s~ killed by Bounty Hunters
+
+0xF9902D08 = ~COLOR_ENEMY~~1p~~s~ delivered dead
+
+FETCH_HELP_BOUNTY_SET_UP_AREA_LEAVE = You are now visible to Bounty Hunter players ~1b~.
+
+FETCH_HELP_BOUNTY_SET_UP_BOUNTY_END = ~1p~ has been put in jail. Certain activities are not available while a Posse Member is incarcerated.
+
+FETCH_HELP_BOUNTY_SET_UP_KILL_HUNTER = Kill Bounty Hunter players ~1b~ and reduce the time you need to survive before escaping capture.
+
+FETCH_HELP_BOUNTY_SET_UP_LAUNCH_0 = ~1p~ is hiding in the area but will become blipped if they leave. Find and deliver them alive for the full amount, or less if they are dead.
+
+FETCH_HELP_BOUNTY_SET_UP_LAUNCH_1 = You are being pursued by Bounty Hunter players ~1b~. Avoid being caught by hiding in the area to stay concealed or attempt to flee and be seen.
+
+FETCH_HELP_BOUNTY_SET_UP_LAUNCH_2 = Being killed will pay off your full bounty. Surrender or allow yourself to be incarcerated and wait out your sentence to avoid paying your bounty.
+
+FETCH_HELP_BOUNTY_SET_UP_TARGET_LEAVES = ~1p~ ~2b~ is trying to escape. You will lose them if they get too far.
+
+FETCH_HELP_BOUNTY_SET_UP_TARGET_SURRENDER = ~1p~ ~2b~ is surrendering. Capture and hogtie them before they regain control.
+
+FETCH_HELP_BOUNTY_SURRENDER_PROMPT = Hold ~INPUT_INTERACT_LOCKON~ and press ~INPUT_CONTEXT_Y~ to surrender to a Bounty Hunter ~1b~ and wait out your sentence in jail.
+
+FETCH_PLAYER_BOUNTY_GET_ON_MOUNT = Get on the horse
+
+FETCH_PLAYER_BOUNTY_GET_ON_WAGON = Get on the wagon
+
+FETCH_PLAYER_BOUNTY_HELP_TEAM_PRIMARY = You are being pursued by Bounty Hunters ~1b~. Kill the Bounty Hunters and escape the area to avoid paying off the full bounty value.
+
+FETCH_PLAYER_BOUNTY_HELP_TEAM_PRIMARY_FEMALE = ~COLOR_POSSE_ALLY~~1p~~s~ is being targeted by Bounty Hunters ~2b~. Help them avoid paying off the full bounty value.
+
+FETCH_PLAYER_BOUNTY_HELP_TEAM_PRIMARY_MALE = ~COLOR_POSSE_ALLY~~1p~~s~ is being targeted by Bounty Hunters ~2b~. Help them avoid paying off the full bounty value.
+
+FETCH_PLAYER_BOUNTY_HELP_TEAM_SECONDARY_FEMALE = ~COLOR_ENEMY~~1p~~s~ is hiding in the ~COLOR_ENEMY~area~s~ but will become blipped if they leave. Find and deliver them alive for the full amount, or less if they are dead.
+
+FETCH_PLAYER_BOUNTY_HELP_TEAM_SECONDARY_MALE = ~COLOR_ENEMY~~1p~~s~ is hiding in the ~COLOR_ENEMY~area~s~ but will become blipped if they leave. Find and deliver them alive for the full amount, or less if they are dead.
+
+FETCH_PLAYER_BOUNTY_HELP_TEAM_SECONDARY_YOU_FEMALE = ~COLOR_ENEMY~~1p~~s~ is hiding in the ~COLOR_ENEMY~area~s~ but will become blipped if they leave. Find and deliver them alive for the full amount, or less if they are dead.
+
+FETCH_PLAYER_BOUNTY_HELP_TEAM_SECONDARY_YOU_MALE = ~COLOR_ENEMY~~1p~~s~ is hiding in the ~COLOR_ENEMY~area~s~ but will become blipped if they leave. Find and deliver them alive for the full amount, or less if they are dead.
+
+FETCH_PLAYER_BOUNTY_OBJ_CARRY_BOUNTY_TARGET = Pick up ~COLOR_MP_OBJECTIVE_NEUTRAL~~1p~~s~
+
+FETCH_PLAYER_BOUNTY_OBJ_ESCORT_DEFEND_SECONDARY = Help deliver ~COLOR_MP_OBJECTIVE_FRIENDLY~~1p~~s~
+
+FETCH_PLAYER_BOUNTY_OBJ_ESCORT_STEAL = Recover ~COLOR_MP_OBJECTIVE_NEUTRAL~~1p~~s~
+
+FETCH_PLAYER_BOUNTY_OBJ_KILL_ATTACKERS = Kill the ~COLOR_ENEMY~Bounty Hunters~s~
+
+FETCH_PLAYER_BOUNTY_OBJ_KILL_ATTACKERS_FEMALE = Help ~COLOR_POSSE_ALLY~~1p~~s~ kill the ~COLOR_ENEMY~Bounty Hunters~s~
+
+FETCH_PLAYER_BOUNTY_OBJ_KILL_ATTACKERS_MALE = Help ~COLOR_POSSE_ALLY~~1p~~s~ kill the ~COLOR_ENEMY~Bounty Hunters~s~
+
+FETCH_PLAYER_BOUNTY_OBJ_KILL_ATTACKERS_REMAINING = Kill the remaining ~COLOR_ENEMY~Bounty Hunters~s~
+
+FETCH_PLAYER_BOUNTY_OBJ_KILL_ATTACKERS_REMAINING_FEMALE = Help ~COLOR_POSSE_ALLY~~1p~~s~ kill the remaining ~COLOR_ENEMY~Bounty Hunters~s~
+
+FETCH_PLAYER_BOUNTY_OBJ_KILL_ATTACKERS_REMAINING_MALE = Help ~COLOR_POSSE_ALLY~~1p~~s~ kill the remaining ~COLOR_ENEMY~Bounty Hunters~s~
+
+FETCH_PLAYER_BOUNTY_OBJ_KILL_OR_CAPTURE_PLAYER = Kill or hogtie ~COLOR_ENEMY~~1p~~s~
+
+FETCH_PLAYER_BOUNTY_OBJ_LEAVE_AREA = Escape the ~COLOR_ENEMY~area~s~
+
+FETCH_PLAYER_BOUNTY_OBJ_LEAVE_AREA_FEMALE = Help ~COLOR_POSSE_ALLY~~1p~~s~ escape the ~COLOR_ENEMY~area~s~
+
+FETCH_PLAYER_BOUNTY_OBJ_LEAVE_AREA_MALE = Help ~COLOR_POSSE_ALLY~~1p~~s~ escape the ~COLOR_ENEMY~area~s~
+
+FETCH_PLAYER_BOUNTY_OBJ_PROTECT_PLAYER_WITH_BOUNTY = Protect ~COLOR_MP_OBJECTIVE_FRIENDLY~~1p~~s~ from the ~COLOR_ENEMY~Bounty Hunters~s~
+
+FETCH_PLAYER_BOUNTY_OBJ_SURVIVE_OR_ESCAPE_THE_BOUNTY_HUNTERS = Survive or evade the ~COLOR_ENEMY~Bounty Hunters~s~
+
+FETCH_PLAYER_BOUNTY_PT_ESCORT_STEAL_FROM_POSSE = Steal ~COLOR_MP_OBJECTIVE_NEUTRAL~~1p~~s~ from ~COLOR_ENEMY~~2p~~s~
+
+FETCH_PLAYER_BOUNTY_PT_OBJ_DROP = Drop ~1p~
+
+FETCH_PLAYER_BOUNTY_PT_OBJ_ESCORT_DELIVER_SECONDARY = Take ~COLOR_MP_OBJECTIVE_FRIENDLY~~1p~~s~ ~2~
+
+FETCH_PLAYER_BOUNTY_PT_SCORETIMER_JOIN_TEAM_SECONDARY = ~1~ joined the hunt
+
+FETCH_PLAYER_BOUNTY_PT_SHARD_TEAM_PRIMARY_FAIL_ALIVE_FEMALE = ~COLOR_POSSE_ALLY~~1p~~s~ has surrendered
+
+FETCH_PLAYER_BOUNTY_PT_SHARD_TEAM_PRIMARY_FAIL_ALIVE_MALE = ~COLOR_POSSE_ALLY~~1p~~s~ has surrendered
+
+FETCH_PLAYER_BOUNTY_PT_SHARD_TEAM_PRIMARY_FAIL_DEAD_FEMALE = ~COLOR_POSSE_ALLY~~1p~~s~ killed by Bounty Hunters
+
+FETCH_PLAYER_BOUNTY_PT_SHARD_TEAM_PRIMARY_FAIL_DEAD_MALE = ~COLOR_POSSE_ALLY~~1p~~s~ killed by Bounty Hunters
+
+FETCH_PLAYER_BOUNTY_PT_SHARD_TEAM_PRIMARY_PASS_YOU = Escaped Bounty Hunters
+
+FETCH_PLAYER_BOUNTY_PT_SHARD_TEAM_SECONDARY_FAIL = ~1p~ escaped
+
+FETCH_PLAYER_BOUNTY_PT_SHARD_TEAM_SECONDARY_FAIL_F_CAPTURED = ~1~ claimed ~2p~
+
+FETCH_PLAYER_BOUNTY_PT_SHARD_TEAM_SECONDARY_FAIL_F_CAPTURED_NP = ~1~ was captured
+
+FETCH_PLAYER_BOUNTY_PT_SHARD_TEAM_SECONDARY_FAIL_M_CAPTURED = ~1~ claimed ~2p~
+
+FETCH_PLAYER_BOUNTY_PT_SHARD_TEAM_SECONDARY_FAIL_M_CAPTURED_NP = ~1~ was captured
+
+FETCH_PLAYER_BOUNTY_PT_SHARD_TEAM_SECONDARY_INTRO_FEMALE = Capture ~COLOR_ENEMY~~1~~s~ for ~2$~
+
+FETCH_PLAYER_BOUNTY_PT_SHARD_TEAM_SECONDARY_INTRO_MALE = Capture ~COLOR_ENEMY~~1~~s~ for ~2$~
+
+FETCH_PLAYER_BOUNTY_SHARD_BOUNTY_COLLECTION_FAILED = Killed by Bounty Hunters
+
+FETCH_PLAYER_BOUNTY_SHARD_BOUNTY_COLLECTION_SURRENDER = Surrendered to Bounty Hunters
+
+FETCH_PLAYER_BOUNTY_SHARD_LAUNCH_PLAYER_ABANDONED = ~1p~ abandoned the hunt
+
+FETCH_PLAYER_BOUNTY_SHARD_OBJECTIVE_UNRECOVERABLE = ~COLOR_ENEMY~~1p~~s~ cannot be retrieved
+
+FETCH_PLAYER_BOUNTY_SHARD_TEAM_PRIMARY_FAIL = ~1$~ collected
+
+FETCH_PLAYER_BOUNTY_SHARD_TEAM_PRIMARY_FAIL_SURRENDER_FEMALE = ~COLOR_POSSE_ALLY~~1p~~s~ surrendered to Bounty Hunters
+
+FETCH_PLAYER_BOUNTY_SHARD_TEAM_PRIMARY_FAIL_SURRENDER_MALE = ~COLOR_POSSE_ALLY~~1p~~s~ surrendered to Bounty Hunters
+
+FETCH_PLAYER_BOUNTY_SHARD_TEAM_PRIMARY_INTRO_FEMALE = ~COLOR_POSSE_ALLY~~1~~s~ is wanted dead or alive
+
+FETCH_PLAYER_BOUNTY_SHARD_TEAM_PRIMARY_INTRO_MALE = ~COLOR_POSSE_ALLY~~1~~s~ is wanted dead or alive
+
+FETCH_PLAYER_BOUNTY_SHARD_TEAM_PRIMARY_INTRO_YOU_FEMALE = Wanted dead or alive for ~1$~
+
+FETCH_PLAYER_BOUNTY_SHARD_TEAM_PRIMARY_INTRO_YOU_MALE = Wanted dead or alive for ~1$~
+
+FETCH_PLAYER_BOUNTY_SHARD_TEAM_PRIMARY_PASS_FEMALE = ~COLOR_POSSE_ALLY~~1p~~s~ survived
+
+FETCH_PLAYER_BOUNTY_SHARD_TEAM_PRIMARY_PASS_MALE = ~COLOR_POSSE_ALLY~~1p~~s~ survived
+
+FETCH_PLAYER_BOUNTY_SHARD_TEAM_PRIMARY_PASS_YOU_FEMALE = You survived
+
+FETCH_PLAYER_BOUNTY_SHARD_TEAM_PRIMARY_PASS_YOU_MALE = You survived
+

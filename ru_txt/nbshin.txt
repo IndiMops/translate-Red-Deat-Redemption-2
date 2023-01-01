@@ -1,0 +1,6 @@
+NB_NBSHIN_BLIP_NAME_CMP = Лагерь незнакомца
+
+NB_NBSHIN_BLIP_NAME_ENE = Враг
+
+NB_NBSHIN_HELP_POISON_POPPY = Теперь вы можете приготовить самогон «Ядовитый мак».
+

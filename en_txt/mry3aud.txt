@@ -1,0 +1,938 @@
+MRY3_ALLEY_1 = ~z~He just went left down that alleyway. What's he doing?
+
+MRY3_ALLEY_2 = ~z~Let's go find out.
+
+MRY3_BANDANA_1 = ~z~You don't need to cover your face like you're about to rob a bank.
+
+MRY3_BANDANA_2 = ~z~Don't want Daddy spotting me.
+
+MRY3_BANDANA_3 = ~z~Oh he'll know just who you are.
+
+MRY3_BUY1_1 = ~z~I want that brooch, it wasn't Gillis's to sell.
+
+MRY3_BUY1_2 = ~z~I bought it fair and square.
+
+MRY3_BUY1_3 = ~z~~sl:1.0~How much do you want for it?
+
+MRY3_BUY1_4 = ~z~I guess I could give it to you for a hundred dollars.
+
+MRY3_BUY2_1 = ~z~A hundred? What do you take me for?
+
+MRY3_BUY2_2 = ~z~~sl:0.0:1.5~Okay, okay...~sl:1.5~I'm a reasonable man. Let's say fifty.
+
+MRY3_BUY3_1 = ~z~Not good enough, Ashton.
+
+MRY3_BUY3_2 = ~z~~sl:0.0:1.9~Okay, Jesus.~sl:0.7~Twenty-five dollars. That's my final offer.
+
+MRY3_CATCH_UP_1 = ~z~Get back here!
+
+MRY3_CATCH_UP_2 = ~z~Hey, stop that coach.
+
+MRY3_CATCH_UP_3 = ~z~You stop right now.
+
+MRY3_CATCH_UP_4 = ~z~Are you hearing me? Stop the damn coach!
+
+MRY3_CATCH_UP_5 = ~z~Goddammit.
+
+MRY3_CATCH_UP_6 = ~z~Pull over, now!
+
+MRY3_CHASE_1 = ~z~Goddamn it.
+
+MRY3_CHAT2_1 = ~z~Don't say I never show you a good time.
+
+MRY3_CHAT2_2 = ~z~I'm just glad you're here.
+
+MRY3_CHAT3_1 = ~z~You know, this is kind of fun.
+
+MRY3_CHAT3_2 = ~z~Shh. He'll hear you.
+
+MRY3_CHAT_1 = ~z~We'll just follow the smell.
+
+MRY3_CHAT_2 = ~z~Arthur, come on.
+
+MRY3_CLOSEMARY_01 = ~z~What are you doing?
+
+MRY3_CLOSEMARY_02 = ~z~Why are you being so strange?
+
+MRY3_CLOSEMARY_03 = ~z~That's, er, a little close isn't it?
+
+MRY3_CONVO_1 = ~z~So what do you think he's up to?
+
+MRY3_CONVO_2 = ~z~~sl:0.0:3.9~I'm not sure... he keeps saying it's a disgrace...~sl:~a man of his standing has to ride around on some old nag.
+
+MRY3_CONVO_3 = ~z~Standing? He's usually falling down.
+
+MRY3_CONVO_4 = ~z~~sl:0.0:0.9~Arthur...~sl:0.9:3.4~he wasn't always this way. But...~sl:1.1~it has got worse.
+
+MRY3_CONVO_5 = ~z~~sl:0.0:2.5~He's drinking and gambling more than ever,~sl:0.5:2.4~pawning things off left and right,~sl:~mixing with bad people.
+
+MRY3_CONVO_6 = ~z~I'm just scared for him...
+
+MRY3_CONVO_7 = ~z~Don't worry too much, whatever it is, we'll work it out.
+
+MRY3_DIRTY_1 = ~z~You could've cleaned yourself up a bit.
+
+MRY3_DIRTY_2 = ~z~I didn't realize I was here to impress anyone.
+
+MRY3_EXT_1 = ~z~Where's your father?
+
+MRY3_EXT_2 = ~z~I don't know.
+
+MRY3_EXT_3 = ~z~You want me to go find him again?
+
+MRY3_EXT_4 = ~z~Not really.
+
+MRY3_EXT_5 = ~z~Well, let's take a walk.
+
+MRY3_EXT_6 = ~z~I'll take you to the trolley.
+
+MRY3_EXT_7 = ~z~Thank you.
+
+MRY3_EXT_8 = ~z~I...
+
+MRY3_EXT_9 = ~z~got you your brooch back.
+
+MRY3_EXT_10 = ~z~I won't ask.
+
+MRY3_EXT_11 = ~z~Probably best not.
+
+MRY3_EXT_12 = ~z~Hey...
+
+MRY3_EXT_13 = ~z~what are you doing now...
+
+MRY3_EXT_14 = ~z~right this moment?
+
+MRY3_EXT_15 = ~z~Why'd you ask?
+
+MRY3_EXT_16 = ~z~Well, I was...
+
+MRY3_EXT_17 = ~z~wondering if you wanted to do something?
+
+MRY3_EXT_18 = ~z~Head to the theater perhaps?
+
+MRY3_EXT_19 = ~z~Oh, Mary...
+
+MRY3_EXT_20 = ~z~I don't think that's a very good idea.
+
+MRY3_EXT_21 = ~z~Sure...
+
+MRY3_EXT_22 = ~z~I understand.
+
+MRY3_EXT_23 = ~z~You're still walking me to the trolley, though?
+
+MRY3_EXT_24 = ~z~Of course.
+
+MRY3_EXT_25 = ~z~Theater? Me?
+
+MRY3_EXT_26 = ~z~Sure, why not.
+
+MRY3_EXT_27 = ~z~It'll be fun, Arthur.
+
+MRY3_EXT_28 = ~z~Let's go to the Raleur, they have the strangest acts.
+
+MRY3_EXT_29 = ~z~Strangeness I can handle...
+
+MRY3_EXT_30 = ~z~it's the normal business of life I can't seem to get a grip on.
+
+MRY3_EXT_31 = ~z~You and me both, Arthur.
+
+MRY3_EXT_32 = ~z~Oh I've missed you.
+
+MRY3_EXT_33 = ~z~Don't start...
+
+MRY3_EXT_34 = ~z~You're an idiot...
+
+MRY3_EXT_35 = ~z~but you'll always be my friend.
+
+MRY3_EXT_36 = ~z~Well of course I'm your friend, but...
+
+MRY3_EXT_37 = ~z~you ain't always fair with me.
+
+MRY3_EXT_38 = ~z~If I was fair with you, and a good person...
+
+MRY3_EXT_39 = ~z~I'd have had you hanged a long time ago.
+
+MRY3_EXT_40 = ~z~Well...
+
+MRY3_EXT_41 = ~z~that's true.
+
+MRY3_EXT_42 = ~z~So... shut up, and act like a gentleman...
+
+MRY3_EXT_43 = ~z~or at least try to for once in your brainless life.
+
+MRY3_EXT_44 = ~z~You're not a very nice woman, Mrs. Linton.
+
+MRY3_EXT_45 = ~z~Well, look at the company I keep.
+
+MRY3_EXT_46 = ~z~I know, it's quite dreadful, isn't it?
+
+MRY3_EXT_47 = ~z~It's sorta beautiful, in a gaudy and tasteless way.
+
+MRY3_EXT_48 = ~z~It's the only way I know.
+
+MRY3_EXT_49 = ~z~Thank you.
+
+MRY3_EXT_50 = ~z~Oh no, I-I didn't mean it like that...
+
+MRY3_EXT_51 = ~z~I'm sure...
+
+MRY3_EXT_52 = ~z~you silly man.
+
+MRY3_EXT_53 = ~z~Come on, let's go find our seats.
+
+MRY3_EXT_54 = ~z~Alright, you better take me to the trolley now, Mr. Morgan.
+
+MRY3_EXT_55 = ~z~Of course.
+
+MRY3_EXT_56 = ~z~Quite ridiculous...
+
+MRY3_EXT_57 = ~z~but, shame we couldn't stay longer.
+
+MRY3_EXT_58 = ~z~Sorry.
+
+MRY3_EXT_59 = ~z~Alright, you'd better take me to the trolley now, Mr. Morgan.
+
+MRY3_EXT_60 = ~z~Of course.
+
+MRY3_EXT_61 = ~z~Quite ridiculous...
+
+MRY3_EXT_62 = ~z~but, somehow very amusing.
+
+MRY3_EXT_63 = ~z~Sure.
+
+MRY3_EXT_64 = ~z~My life wasn't supposed to...
+
+MRY3_EXT_65 = ~z~Oh...
+
+MRY3_EXT_66 = ~z~is it too late for us, Arthur?
+
+MRY3_EXT_67 = ~z~I can't lie to ya.
+
+MRY3_EXT_68 = ~z~I'm a wanted man, Mary. If I...
+
+MRY3_EXT_69 = ~z~if anyone close to me, well they're wanted too...
+
+MRY3_EXT_70 = ~z~and I can't have you wrapped up in that.
+
+MRY3_EXT_71 = ~z~But it's coming to end...
+
+MRY3_EXT_72 = ~z~this time it really is.
+
+MRY3_EXT_73 = ~z~Run away with me, Arthur.
+
+MRY3_EXT_74 = ~z~Run away right now, and don't look back.
+
+MRY3_EXT_75 = ~z~I want to...
+
+MRY3_EXT_76 = ~z~more than anything I want to.
+
+MRY3_EXT_77 = ~z~But I've got some people I need to take care of.
+
+MRY3_EXT_78 = ~z~Once they're free, then I'm free.
+
+MRY3_EXT_79 = ~z~Then I can disappear.
+
+MRY3_EXT_80 = ~z~But, Arthur...
+
+MRY3_EXT_81 = ~z~If we're gonna run away anywhere, we'd need money...
+
+MRY3_EXT_82 = ~z~and soon, I'll have some.
+
+MRY3_EXT_83 = ~z~I know you won't run away...
+
+MRY3_EXT_84 = ~z~but it's a pretty dream.
+
+MRY3_EXT_85 = ~z~Very pretty...
+
+MRY3_EXT_86 = ~z~but I will, once I get some money.
+
+MRY3_EXT_87 = ~z~Now, I had some...
+
+MRY3_EXT_88 = ~z~but then some fool got it trapped into a town...
+
+MRY3_EXT_89 = ~z~that I can't go back to.
+
+MRY3_EXT_90 = ~z~That's another story.
+
+MRY3_EXT_91 = ~z~I'll write you.
+
+MRY3_EXT_92 = ~z~Yeah.
+
+MRY3_FOLLOW_01 = ~z~Quick, or we'll lose him.
+
+MRY3_FOLLOW_02 = ~z~Let's go, Arthur.
+
+MRY3_FOLLOW_03 = ~z~Hurry, we're going to lose him.
+
+MRY3_FOLLOW_04 = ~z~What's wrong? Let's go.
+
+MRY3_FOLLOW_05 = ~z~Come on, let's stay on him.
+
+MRY3_FOLLOW_06 = ~z~Come on, please, I need to know where he's going.
+
+MRY3_FT_SHOOT_01 = ~z~What the hell?
+
+MRY3_FT_SHOOT_02 = ~z~Hey!
+
+MRY3_FT_SHOOT_03 = ~z~Goddamn it!
+
+MRY3_IDLE_1_01 = ~z~Please get that brooch back, my mother loved it.
+
+MRY3_IDLE_1_02 = ~z~Arthur, please, he's going to get away.
+
+MRY3_IDLE_1_03 = ~z~Hurry, Arthur. Please.
+
+MRY3_IG1_DWNHR_1 = ~z~Down here.
+
+MRY3_IG1_QUICK_1 = ~z~Quick!
+
+MRY3_IG1_THSWAY_1 = ~z~This way.
+
+MRY3_IG2_1 = ~z~Come here, quick.
+
+MRY3_IG2_2 = ~z~
+
+MRY3_IG2_3 = ~z~Mind where you go, mind where you go.
+
+MRY3_IG2_4 = ~z~Sorry.
+
+MRY3_IG2_5 = ~z~Do you... think he saw us?
+
+MRY3_IG2_6 = ~z~I don't think so...
+
+MRY3_IG2_7 = ~z~What did you say to me?
+
+MRY3_IG2_8 = ~z~I didn't say a thing insulting.
+
+MRY3_IG2_9 = ~z~I'll wipe that goddamn smirk clean off your face...
+
+MRY3_IG2_10 = ~z~~sl:1.0~Ain't you a little old for brawling, mister?
+
+MRY3_IG2_11 = ~z~Damn you.
+
+MRY3_IG3_1 = ~z~~sl:0.0:1.6~He'll probably kill someone...~sl:0.6~Oh, but you like that, don't you, Mary?
+
+MRY3_IG3_2 = ~z~~sl:0.0:2.3~I am ashamed of you, Daddy.~sl:0.3:3.0:1~Why are you doing this to us? What's wrong with you?
+
+MRY3_IG3_3 = ~z~~sl:1.8~With me, with me... because I'm the one consorting with wanted men!
+
+MRY3_IG4_BUYER_1 = ~z~Oh shit!
+
+MRY3_IG4_HOLDIT_1 = ~z~Hey you, Ashton, hold it right there!
+
+MRY3_IG4_HOLD_W_1 = ~z~Hey you, Ashton, hold it right there!
+
+MRY3_IG6_COWR1_1 = ~z~~sl:0.5:0.9:1~What the hell?
+
+MRY3_IG6_COWR2_1 = ~z~~sl:0.0:0.8:1~Who are you?
+
+MRY3_IG6_COWR2_2 = ~z~~sl:0.0:0.9:1~Who are you?
+
+MRY3_IG6_COWR3_1 = ~z~~sl:1.1~What are you doing?
+
+MRY3_IG6_COWR4_1 = ~z~Are you insane?
+
+MRY3_IG7_INSANE_1 = ~z~~sl:1.3:1.6:1~This is insane.
+
+MRY3_IG7_MAIN_1 = ~z~What the hell do you want from me?
+
+MRY3_IG7_MAIN_2 = ~z~That brooch you just bought.
+
+MRY3_IG7_MAIN_3 = ~z~~sl:1.0~Well, then stop, for Christ sake!
+
+MRY3_IG7_MAIN_4 = ~z~Oh we'll stop, just not here.
+
+MRY3_IG7_R1_1 = ~z~I bought that brooch fair and square!
+
+MRY3_IG7_R2_1 = ~z~Did Gillis put you up to this?
+
+MRY3_IG7_R3_1 = ~z~Do you know who I am?
+
+MRY3_IG7_R4_1 = ~z~Let me outta here!
+
+MRY3_IG7_R5_1 = ~z~Let me go!
+
+MRY3_IG7_R6_1 = ~z~You're making a big mistake!
+
+MRY3_IG7_R7_1 = ~z~Where are you taking me?
+
+MRY3_IG7_R8_1 = ~z~You can't do this!
+
+MRY3_IG8_1 = ~z~Leave me alone, leave me alone, it's just a brooch.
+
+MRY3_IG9_P2_A_1 = ~z~Here.
+
+MRY3_IG9_P2_B_1 = ~z~Here, take the damn thing.
+
+MRY3_IG9_P2_B_2 = ~z~Crazy son of a bitch.
+
+MRY3_IG9_P2_C_1 = ~z~You don't know who you're messing with!
+
+MRY3_IG9_P2_C_2 = ~z~Somebody's gonna pay for this.
+
+MRY3_IG9_P2_TA_1 = ~z~~sl:2.5~Here.
+
+MRY3_IG9_P2_TB_1 = ~z~Take the damn thing.
+
+MRY3_IG9_P2_TB_2 = ~z~Crazy son of a bitch.
+
+MRY3_IG10_1_1 = ~z~
+
+MRY3_IG10_1_2 = ~z~
+
+MRY3_IG10_BBIG_1 = ~z~~sl:0.0:1.0:1~Boo!
+
+MRY3_IG10_BBIG_2 = ~z~Arthur, stop that...
+
+MRY3_IG10_BCHR_1 = ~z~
+
+MRY3_IG10_BCHR_2 = ~z~
+
+MRY3_IG10_BSMLL_1 = ~z~Get lost!
+
+MRY3_IG10_BSMLL_2 = ~z~~sl:0.9~Arthur...
+
+MRY3_IG10_ENT_1 = ~z~
+
+MRY3_IG10_EXIT_1 = ~z~
+
+MRY3_IG10_SCHR_1 = ~z~
+
+MRY3_IG10_SCHR_2 = ~z~
+
+MRY3_IG10_SHOW_1 = ~z~
+
+MRY3_IG10_SHOW_2 = ~z~
+
+MRY3_INT_1 = ~z~Arthur!
+
+MRY3_INT_2 = ~z~Arthur!
+
+MRY3_INT_3 = ~z~Up here!
+
+MRY3_INT_4 = ~z~You came.
+
+MRY3_INT_5 = ~z~Yeah, I came.
+
+MRY3_INT_6 = ~z~So, ah... what you need?
+
+MRY3_INT_7 = ~z~Wait there, I'm coming straight down.
+
+MRY3_INT_8 = ~z~Arthur...
+
+MRY3_INT_9 = ~z~Hello, Mary.
+
+MRY3_INT_10 = ~z~You came.
+
+MRY3_INT_11 = ~z~Sure.
+
+MRY3_INT_12 = ~z~Whenever you call for me, I come.
+
+MRY3_INT_13 = ~z~You came.
+
+MRY3_INT_14 = ~z~Sorry I didn't make it when last you wrote.
+
+MRY3_INT_15 = ~z~Oh, Arthur...
+
+MRY3_INT_16 = ~z~What's wrong?
+
+MRY3_INT_17 = ~z~Daddy...
+
+MRY3_INT_18 = ~z~Your father?
+
+MRY3_INT_19 = ~z~I'm a bigger fool than I even thought.
+
+MRY3_INT_20 = ~z~I'm begging you, Arthur...
+
+MRY3_INT_21 = ~z~I know Daddy was not kind to you, but...
+
+MRY3_INT_22 = ~z~but surely you cannot hate a man for the sin of loving his daughter...
+
+MRY3_INT_23 = ~z~and wanting better for her than...
+
+MRY3_INT_24 = ~z~than...
+
+MRY3_INT_25 = ~z~Than me?
+
+MRY3_INT_26 = ~z~Than the choices you make.
+
+MRY3_INT_27 = ~z~What choice did I have?
+
+MRY3_INT_28 = ~z~Did I ever have?
+
+MRY3_INT_29 = ~z~Oh, I know...
+
+MRY3_INT_30 = ~z~you had to live by your code...
+
+MRY3_INT_31 = ~z~but your code is...
+
+MRY3_INT_32 = ~z~well it's not right.
+
+MRY3_INT_33 = ~z~Has your way been right, Mary?
+
+MRY3_INT_34 = ~z~With you, and Jamie joining a bunch of crazies...
+
+MRY3_INT_35 = ~z~and hypocritical Daddy with his...
+
+MRY3_INT_36 = ~z~drinking and whoring and gambling...
+
+MRY3_INT_37 = ~z~Huh?
+
+MRY3_INT_38 = ~z~Is that what a pure life has gotten you...
+
+MRY3_INT_39 = ~z~begging me for help?
+
+MRY3_INT_40 = ~z~Oh, Arthur...
+
+MRY3_INT_41 = ~z~be kind to me.
+
+MRY3_INT_42 = ~z~Please...
+
+MRY3_INT_43 = ~z~Sorry.
+
+MRY3_INT_44 = ~z~I am...
+
+MRY3_INT_45 = ~z~I should have asked someone else...
+
+MRY3_INT_46 = ~z~but...
+
+MRY3_INT_47 = ~z~But I'm the best guy you know at frightening decent people.
+
+MRY3_INT_48 = ~z~It wasn't that I didn't love you, Arthur.
+
+MRY3_INT_49 = ~z~You know that?
+
+MRY3_INT_50 = ~z~I know.
+
+MRY3_INT_51 = ~z~Oh, Arthur...
+
+MRY3_INT_52 = ~z~we were so very young...
+
+MRY3_INT_53 = ~z~think how different life could've been.
+
+MRY3_INT_54 = ~z~Yeah, I think about it...
+
+MRY3_INT_55 = ~z~a lot, but...
+
+MRY3_INT_56 = ~z~it all seems so long ago and far away now.
+
+MRY3_INT_57 = ~z~Will you help me try to save Daddy?
+
+MRY3_INT_58 = ~z~Please, you came all this way.
+
+MRY3_INT_59 = ~z~It would really mean a lot.
+
+MRY3_INT_60 = ~z~Do it for me, not him.
+
+MRY3_INT_61 = ~z~I can't Mary...
+
+MRY3_INT_62 = ~z~just like you couldn't marry me and...
+
+MRY3_INT_63 = ~z~I couldn't change and so on and so forth...
+
+MRY3_INT_64 = ~z~I just cannot.
+
+MRY3_INT_65 = ~z~Okay.
+
+MRY3_INT_66 = ~z~Your father was horrible to me.
+
+MRY3_INT_67 = ~z~I ain't gonna be his nurse maid.
+
+MRY3_INT_68 = ~z~I understand.
+
+MRY3_INT_69 = ~z~You...
+
+MRY3_INT_70 = ~z~I...
+
+MRY3_INT_71 = ~z~Be well, Arthur.
+
+MRY3_INT_72 = ~z~I've really missed you, you know.
+
+MRY3_INT_73 = ~z~I've missed you for a long time...
+
+MRY3_INT_74 = ~z~but it's done now.
+
+MRY3_INT_75 = ~z~Okay.
+
+MRY3_INT_76 = ~z~I wish...
+
+MRY3_INT_77 = ~z~somehow it weren't.
+
+MRY3_INT_78 = ~z~Be well, Mary.
+
+MRY3_INT_79 = ~z~Okay, I feel stupid now.
+
+MRY3_INT_80 = ~z~I shouldn't have asked you here.
+
+MRY3_INT_81 = ~z~Mary...
+
+MRY3_INT_82 = ~z~So you will?
+
+MRY3_INT_83 = ~z~Come along then...
+
+MRY3_INT_84 = ~z~where we going?
+
+MRY3_INT_85 = ~z~What's the old loveable patriarch been up to now?
+
+MRY3_INT_86 = ~z~Oh, Arthur...
+
+MRY3_INT_87 = ~z~you know sarcasm is beneath you.
+
+MRY3_INT_88 = ~z~He's been gambling, and drinking, and other things...
+
+MRY3_INT_89 = ~z~Oh, the filthy rotter...
+
+MRY3_INT_90 = ~z~Where can we find him?
+
+MRY3_INT_91 = ~z~He said he was going down to the Theodore Eckhart stables.
+
+MRY3_INT_92 = ~z~Something about a horse.
+
+MRY3_INT_93 = ~z~It's down by the water in the warehouse district...
+
+MRY3_INT_94 = ~z~near the train yard.
+
+MRY3_INT_95 = ~z~Come on then...
+
+MRY3_INT_96 = ~z~Don't be a pompous ass, Arthur.
+
+MRY3_INT_97 = ~z~It doesn't suit you.
+
+MRY3_INT_98 = ~z~Oh, should I leave that to Daddy?
+
+MRY3_INT_99 = ~z~Leave Daddy alone...
+
+MRY3_INT_100 = ~z~he suffers enough.
+
+MRY3_INT_101 = ~z~Well I suppose I can take some consolation in that.
+
+MRY3_INT_102 = ~z~Oh, Arthur...
+
+MRY3_INT_103 = ~z~I should've ran away with you years ago.
+
+MRY3_INT_104 = ~z~But you wouldn't.
+
+MRY3_INT_105 = ~z~No, I didn't...
+
+MRY3_INT_106 = ~z~but...
+
+MRY3_INT_107 = ~z~well...
+
+MRY3_INT_108 = ~z~I don't know.
+
+MRY3_INT_LEADIN_1 = ~z~~sl:0.0:2.8~Arthur! Arthur!~sl:0.8:1.4:1~Up here!
+
+MRY3_LASSO_1 = ~z~Why don't you put that away? I won't have you hogtying the poor man.
+
+MRY3_MCS1_1 = ~z~This is the place.
+
+MRY3_MCS1_2 = ~z~Let me go in and see what kind of a state he's in.
+
+MRY3_MCS1_3 = ~z~Sure.
+
+MRY3_MCS1_4 = ~z~I'll wait here, good luck.
+
+MRY3_MCS1_5 = ~z~Scream if you need any help.
+
+MRY3_MCS1_6 = ~z~Very funny.
+
+MRY3_MCS1_7 = ~z~You can't stand there.
+
+MRY3_MCS1_8 = ~z~What, in the street?
+
+MRY3_MCS1_9 = ~z~Yes, in the street.
+
+MRY3_MCS1_10 = ~z~Is it your street?
+
+MRY3_MCS1_11 = ~z~Just get outta here.
+
+MRY3_MCS1_12 = ~z~Why?
+
+MRY3_MCS1_13 = ~z~I said, just get outta here.
+
+MRY3_MCS1_14 = ~z~Listen, partner...
+
+MRY3_MCS1_15 = ~z~I'm waiting on a lady...
+
+MRY3_MCS1_16 = ~z~she's a fine lady...
+
+MRY3_MCS1_17 = ~z~she's just gone inside.
+
+MRY3_MCS1_18 = ~z~If I wasn't waiting on this lady...
+
+MRY3_MCS1_19 = ~z~you'd be dead already...
+
+MRY3_MCS1_20 = ~z~but if you continue to irritate me...
+
+MRY3_MCS1_21 = ~z~I'll kill you and make my apologies to the lady.
+
+MRY3_MCS1_22 = ~z~It's your call.
+
+MRY3_MCS1_23 = ~z~I didn't mean nothing.
+
+MRY3_MCS1_24 = ~z~Never been so demeaned in my life...
+
+MRY3_MCS1_25 = ~z~Apology accepted. Wait right there.~n~~m~a woman... my own daughter.
+
+MRY3_MCS1_26 = ~z~I have half a mind to kill you myself.
+
+MRY3_MCS1_27 = ~z~Daddy.
+
+MRY3_MCS1_28 = ~z~No.
+
+MRY3_MCS1_29 = ~z~Oh Daddy, please come home...
+
+MRY3_MCS1_30 = ~z~you're tired Daddy...
+
+MRY3_MCS1_31 = ~z~tired and unwell.~n~~m~I am no such thing...
+
+MRY3_MCS1_32 = ~z~you get away from me, you head home...
+
+MRY3_MCS1_33 = ~z~I insist upon it.
+
+MRY3_MCS1_34 = ~z~Leave me be.
+
+MRY3_MCS1_35 = ~z~Damn nuisance.
+
+MRY3_MCS1_36 = ~z~Excuse me, partner.
+
+MRY3_MCS1_37 = ~z~Still as charming as ever, I see.
+
+MRY3_MCS1_LI_1 = ~z~This is the place.
+
+MRY3_MCS1_LI_B_1 = ~z~Let me go in and see what kind of a state he's in.
+
+MRY3_MCS1_LO_1 = ~z~Oh, Arthur. He's up to no good, we better follow him.
+
+MRY3_MCS1_LO_2 = ~z~Okay.
+
+MRY3_MCS2_1 = ~z~What's he doing?
+
+MRY3_MCS2_2 = ~z~What do you think he's doing?
+
+MRY3_MCS2_3 = ~z~Well he's either waiting for a woman of dubious morals or...
+
+MRY3_MCS2_4 = ~z~he's trying to sell something.
+
+MRY3_MCS2_5 = ~z~So, Ashton, you got the money?
+
+MRY3_MCS2_6 = ~z~Seems he's selling something.
+
+MRY3_MCS2_7 = ~z~Have you got the brooch, Mr. Gillis?
+
+MRY3_MCS2_8 = ~z~Yes...
+
+MRY3_MCS2_9 = ~z~here.
+
+MRY3_MCS2_10 = ~z~Here's the money.
+
+MRY3_MCS2_11 = ~z~That is beautiful.
+
+MRY3_MCS2_12 = ~z~It's a family heirloom...
+
+MRY3_MCS2_13 = ~z~That was mother's brooch...~n~~m~it's been in the family for years.
+
+MRY3_MCS2_14 = ~z~Not any longer, Mr. Gillis.
+
+MRY3_MCS2_15 = ~z~Enjoy the money...
+
+MRY3_MCS2_16 = ~z~and, should you need any more...
+
+MRY3_MCS2_17 = ~z~I can offer you a loan at a very reasonable rate of interest.
+
+MRY3_MCS2_18 = ~z~No, thank you.
+
+MRY3_MCS2_19 = ~z~I've heard what happens to folks who take loans from you.
+
+MRY3_MCS2_20 = ~z~It's not even his to sell...~n~~m~I've met a hundred men like you, Mr. Gillis.
+
+MRY3_MCS2_21 = ~z~It's just a brooch...~n~~m~I've met a hundred men like you, Mr. Gillis.
+
+MRY3_MCS2_22 = ~z~at least he didn't get himself killed.~n~~m~You'll come crawling back soon enough.
+
+MRY3_MCS2_23 = ~z~You don't understand...~n~~m~You'll come crawling back soon enough.
+
+MRY3_MCS2_24 = ~z~mother left it to me.
+
+MRY3_MCS2_25 = ~z~You sold my mother's brooch?
+
+MRY3_MCS2_26 = ~z~How could you?
+
+MRY3_MCS2_27 = ~z~You...
+
+MRY3_MCS2_28 = ~z~That's theft!
+
+MRY3_MCS2_29 = ~z~Oh, speaking of thieves, I...
+
+MRY3_MCS2_30 = ~z~I see you've found your outlaw again.
+
+MRY3_MCS2_31 = ~z~Hello, sir, have you been well?
+
+MRY3_MCS2_32 = ~z~Daddy, how could you?
+
+MRY3_MCS2_33 = ~z~Mary, wait here, I'll go get the brooch.
+
+MRY3_MCS2_34 = ~z~Don't hurt anyone, Arthur.
+
+MRY3_MCS2_LI_1 = ~z~What's he doing?
+
+MRY3_MCS2_LI_2 = ~z~What do you think he's doing?
+
+MRY3_OVERWEIGHT_1 = ~z~You look well, you used to be so skinny.
+
+MRY3_OVERWEIGHT_2 = ~z~Yeah, well-padded more like...
+
+MRY3_PANIC_V2_01 = ~z~Don't you touch me.
+
+MRY3_PANIC_V2_02 = ~z~What the hell is wrong with you?
+
+MRY3_PANIC_V2_03 = ~z~Lay a finger on me and you'll be sorry.
+
+MRY3_PANIC_V2_04 = ~z~Just take it easy.
+
+MRY3_PANIC_V2_05 = ~z~You're working with Gillis, aren't you?
+
+MRY3_PUKE_01 = ~z~Wait, Arthur.
+
+MRY3_PUKE_02 = ~z~Hold up, Arthur.
+
+MRY3_PUKE_03 = ~z~Hold on.
+
+MRY3_PUKE_RE_1 = ~z~You can see why he has such a high opinion of himself.
+
+MRY3_QUICK_01 = ~z~If we don't hurry, we might miss him.
+
+MRY3_QUICK_02 = ~z~Come on, please. Let's go.
+
+MRY3_QUICK_03 = ~z~Arthur, please, you said you'd help.
+
+MRY3_SPOTTED_01 = ~z~Mary, what the hell are you doing? And what's he doing here?
+
+MRY3_SPOTTED_02 = ~z~Hey, what the hell is going on here?
+
+MRY3_SPOTTED_03 = ~z~~sl:0.0:2.9~What? How dare you follow me.~sl:1.5~Don't tell me you're back with this deadbeat?
+
+MRY3_ST_HAT_1 = ~z~Interesting choice of hat.
+
+MRY3_ST_HAT_2 = ~z~I thought you'd like it.
+
+MRY3_ST_OUTFIT_1 = ~z~You certainly dress differently than you used to.
+
+MRY3_ST_OUTFIT_2 = ~z~~sl:0.5~Such harsh judgments, Mrs. Linton. Shame on you.
+
+MRY3_THREATEN_1 = ~z~Get out of there!
+
+MRY3_TH_CANCAN1_1 = ~z~Now this is more like it.
+
+MRY3_TH_CANCAN1_2 = ~z~Arthur.
+
+MRY3_TH_CANCAN2_1 = ~z~~sl:0.7~Can't that feller stay out of it?
+
+MRY3_TH_CANCAN2_2 = ~z~Oh come on, he's amusing.
+
+MRY3_TH_ENTER_1 = ~z~How about here on the right?
+
+MRY3_TH_ENTER_2 = ~z~Sure.
+
+MRY3_TH_ENTER_3 = ~z~After you.
+
+MRY3_TH_FEXCTE1_1 = ~z~Ooooh!
+
+MRY3_TH_FEXCTE1_2 = ~z~Stop it.
+
+MRY3_TH_FEXCTE2_1 = ~z~~sl:0.0:1.6:1~Amazing...
+
+MRY3_TH_FEXCTE2_2 = ~z~Old sourpuss.
+
+MRY3_TH_FIRE_1 = ~z~You can see how this could go horribly wrong.
+
+MRY3_TH_FIRE_2 = ~z~I hope she stays away from the curtain.
+
+MRY3_TH_LEARLY_1 = ~z~Hey, come on. Let's get out of here.
+
+MRY3_TH_LEARLY_2 = ~z~Oh... okay. Sure, if you want.
+
+MRY3_TH_LEARLY_3 = ~z~Reckon we've seen the best of it.
+
+MRY3_TH_LEND_1 = ~z~Alright, well, shall we?
+
+MRY3_TH_LEND_2 = ~z~~sl:0.4~Yes. That was fun, Arthur.
+
+MRY3_TH_LEND_3 = ~z~~sl:0.2~It was.
+
+MRY3_TH_MCLAP_01 = ~z~Bravo.
+
+MRY3_TH_MCLAP_02 = ~z~Very good.
+
+MRY3_TH_MCLAP_03 = ~z~Well done.
+
+MRY3_TH_MCLAP_04 = ~z~Excellent.
+
+MRY3_TH_MCLAP_05 = ~z~Bravo.
+
+MRY3_TH_MCLAP_06 = ~z~Yes.
+
+MRY3_TH_MEXCTE_01 = ~z~Wow.
+
+MRY3_TH_MEXCTE_02 = ~z~Wonderful.
+
+MRY3_TH_MEXCTE_03 = ~z~Amazing.
+
+MRY3_TH_MEXCTE_04 = ~z~Oh look.
+
+MRY3_TH_MEXCTE_05 = ~z~Look at that.
+
+MRY3_TH_MLAUGH_1 = ~z~
+
+MRY3_TH_MLAUGH_2 = ~z~
+
+MRY3_TH_POINT1_1 = ~z~You imagine doing that every day?
+
+MRY3_TH_POINT1_2 = ~z~I can't think of anything worse.
+
+MRY3_TH_POINT2_1 = ~z~~sl:0.3~That's pretty good.
+
+MRY3_TH_POINT2_2 = ~z~I told you this'd be fun.
+
+MRY3_TH_WAIT_1 = ~z~So... is this starting or not?
+
+MRY3_TH_WAIT_2 = ~z~Are you in a rush, Arthur?
+
+MRY3_WARN_1_1 = ~z~Wait, Arthur. Any closer and he'll spot us!
+
+MRY3_WARN_2_1 = ~z~Arthur, drop back a bit or he'll see you.
+
+MRY3_WARN_3_1 = ~z~Hey, stop a second. You're too close.
+
+MRY3_WEAPON_1 = ~z~That weapon won't be necessary.
+
+MRY3_WEAPON_2 = ~z~Just in case...
+
+MRY3_WEAPON_3 = ~z~I've heard that one before.
+
+MRY3_WHERE_01 = ~z~Where are you going?
+
+MRY3_WHERE_02 = ~z~Not that way.
+
+MRY3_WHERE_03 = ~z~Arthur, why are you going that way?
+
+MRY3_WHISPER2_1 = ~z~He just went between those crates.
+
+MRY3_WHISPER3_1 = ~z~Don't lose sight of him.
+
+MRY3_WHISPER4_1 = ~z~He's heading across the road.
+
+MRY3_WHISPER_1 = ~z~He went around the corner.
+
+MRY3_WTARGET_01 = ~z~No, put that down, Arthur.
+
+MRY3_WTARGET_02 = ~z~How is that going to help anything?
+
+MRY3_WTARGET_03 = ~z~Don't do anything stupid, Arthur, please.
+
+MRY_IG6_LOOP_1 = ~z~
+
+MRY_IG6_LTOR_1 = ~z~
+
+MRY_IG6_RTOL_1 = ~z~
+

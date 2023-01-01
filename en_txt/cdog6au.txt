@@ -1,0 +1,10 @@
+CDOG6_ACTION_1 = ~z~Where's Cain? Has anyone seen Cain? Where's Cain?
+
+CDOG6_ACTION_2 = ~z~Miss Grimshaw, have you seen Cain?
+
+CDOG6_ACTION_3 = ~z~No, son, sorry I haven't.
+
+CDOG6_ACTION_4 = ~z~I'm sure he'll turn up though... he's a wanderer.
+
+CDOG6_ACTION_5 = ~z~I'm really worried... Cain! Come on... Cain... Cain...
+

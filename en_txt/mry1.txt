@@ -1,0 +1,78 @@
+0x02922711 = Jamie escaped.
+
+0x2A629CF4 = Get back to ~o~Jamie
+
+0x3FD40B6E = Your honor increased as you returned Jamie to Mary.
+
+0x4FD54944 = Press ~INPUT_INTERACT_OPTION1~ or ~INPUT_INTERACT_OPTION2~ to choose your reply.
+
+0x5CA12788 = Press ~INPUT_MELEE_GRAPPLE~ to throttle when near a target.
+
+0xB2DE808C = Chelonian Leader
+
+0xE5E5B297 = Press ~INPUT_MELEE_GRAPPLE_CHOKE~ to choke.
+
+MRY1_BLIP_CAMP = Chelonian Camp
+
+MRY1_BLIP_JAMIE = Jamie
+
+MRY1_BLIP_LEADER = Chelonian Leader
+
+MRY1_BLIP_MARY = Mary Linton
+
+MRY1_FAIL_ABD = Jamie got away.
+
+MRY1_FAIL_CAMP = You attacked the Chelonians.
+
+MRY1_FAIL_FARC = The Chelonian camp was abandoned.
+
+MRY1_FAIL_JAMIE = Jamie died.
+
+MRY1_FAIL_MARY = Mary died.
+
+MRY1_FAIL_MARYA = You caused a commotion at the station.
+
+MRY1_H_INT = Hold ~INPUT_INTERACT_LOCKON~ to interact and reply to the Chelonian leader.
+
+MRY1_I_OPTION1A = Undecided
+
+MRY1_I_OPTION1B = Impatient
+
+MRY1_I_OPTION2A = Purpose
+
+MRY1_I_OPTION2B = Stupidity
+
+MRY1_I_OPTION3A = Apologize
+
+MRY1_I_OPTION3B = Antagonize
+
+MRY1_I_OPTION4A = Turtles
+
+MRY1_I_OPTION4B = Fools
+
+MRY1_OBJ_APPROACH_CAMP = Approach the ~o~Chelonians
+
+MRY1_OBJ_ATTK = Subdue the ~o~Chelonian leader~s~
+
+MRY1_OBJ_CHASE = Chase after ~o~Jamie
+
+MRY1_OBJ_DISRM = Disarm ~o~Jamie
+
+MRY1_OBJ_DUEL = Shoot the gun out of Jamie's hand
+
+MRY1_OBJ_RELEASE = Approach ~o~Jamie
+
+MRY1_OBJ_RETJAMI = Return to ~o~Jamie~s~
+
+MRY1_OBJ_RETURN = Ride back to ~o~Mary~s~ with Jamie
+
+MRY1_OBJ_RETURNB = Meet ~o~Mary~s~ in the station
+
+MRY1_OBJ_SPKLDR = Convince the ~o~Chelonian leader~s~ to let Jamie leave
+
+MRY1_UISTRNG = Choke
+
+MRY1_UITHRT = Throttle
+
+MRY1_WARN_FARC = Return to the ~o~Chelonian leader.
+

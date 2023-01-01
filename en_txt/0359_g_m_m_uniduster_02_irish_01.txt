@@ -1,0 +1,242 @@
+0x038F923C = ~z~Alright boys, let's introduce ourselves!
+
+0x04EAB722 = ~z~Alright, I'm coming.
+
+0x0638F59B = ~z~Oh, you're gonna regret this one.
+
+0x0A3CC08E = ~z~What's wrong with you?
+
+0x0B15FEDF = ~z~It's the last time I'm gonna warn you.
+
+0x0B194D8F = ~z~C'mon, just leave 'em be.
+
+0x0BB6A3A0 = ~z~Just when my gun was ready to sing you a ballad.
+
+0x0F1C0812 = ~z~
+
+0x1B501E29 = ~z~You been warned once already, so you have.
+
+0x1C8E6531 = ~z~Utter disgrace, so you are.
+
+0x1C741112 = ~z~Put those hands up or die for being an idiot.
+
+0x1EE0EB0E = ~z~Right, I'm on my way.
+
+0x2B0DBDA4 = ~z~Are you deaf? I already warned you, so I did.
+
+0x2B464064 = ~z~My God.
+
+0x2EE2B5EF = ~z~Last chance to put 'em up or I'll put you in the goddamn ground.
+
+0x3C5D5AA6 = ~z~No more warnings for you, this is it.
+
+0x3C184551 = ~z~I'll beat you damn face till there ain't no damn face left.
+
+0x3EA3E17A = ~z~Shoot him!
+
+0x3FE385A2 = ~z~Oh, look, they're here for their friend.
+
+0x4A77EA59 = ~z~I'm warning you, so I am.
+
+0x4B6B61B4 = ~z~We got guns surrounding your every turn.
+
+0x4C47D0C5 = ~z~They'll tell tales of the mess I made of you.
+
+0x4D9B2111 = ~z~Careful, they might try to break 'em out!
+
+0x5AE78C9D = ~z~Nothing like easy pickings, eh boys?
+
+0x5BEC7863 = ~z~Hey, you, knock it off.
+
+0x5E9401EC = ~z~You know what do. Cut him down, boys!
+
+0x5FB5C67E = ~z~That's it, I'm getting out of here.
+
+0x6E376381 = ~z~No way, I'm not staying for this.
+
+0x7F7FD0EF = ~z~C'mon, get a move on, will you?
+
+0x8A3ABDC5 = ~z~That's him! Put that bastard down!
+
+0x8CC92127 = ~z~You deaf? You just don't like my accent? I said get 'em up.
+
+0x8F058728 = ~z~Yeah, that's right, keep moving them feet.
+
+0x8F2D70D5 = ~z~Would someone end this son of a bitch?
+
+0x9B868430 = ~z~I'm gonna hurt you so bad, you're gonna beg me to kill you.
+
+0x23FAFA4C = ~z~Oh, you just sealed your coffin for that.
+
+0x27BD42DF = ~z~No more messing around, stand still or die.
+
+0x28CD8DF1 = ~z~Hey, the O'Driscolls have made camp up ahead. That ain't a conversation you want to disturb.
+
+0x34DC2B68 = ~z~Surrender and maybe I'll let you live.
+
+0x35E2A81B = ~z~Who's that? Hey if you ain't with the O'Driscolls or with the law, I'd say you got no business here.
+
+0x40E76AF7 = ~z~Now you just, you just think about what you're doing
+
+0x40EF81CB = ~z~Well, that's a stupid move, sunshine.
+
+0x52AA2540 = ~z~You should know well when to play nice, boyo.
+
+0x56A820B8 = ~z~One more step, and it's gonna be your last.
+
+0x57C3B9A6 = ~z~Stand right where you are.
+
+0x63AC254E = ~z~Hello. Again.
+
+0x64B8F300 = ~z~
+
+0x73DA4BE6 = ~z~Take that no-good son of a bitch out!
+
+0x84E75C49 = ~z~Oh, just kill this bastard already.
+
+0x86C7FAD8 = ~z~I said, you better damn well stay where you are.
+
+0x93FEB731 = ~z~Holy shite!
+
+0x104D04CD = ~z~Aim at that bastard.
+
+0x112BF07C = ~z~Lookee what we snagged... Dutch's dogsbody! I told you he'd show!
+
+0x225D28ED = ~z~Aim at that bastard!
+
+0x402DC46F = ~z~My accent too thick? I said stop that.
+
+0x415BD4B0 = ~z~Okay.
+
+0x497D1D19 = ~z~Hey, don't you dare move.
+
+0x707E66D7 = ~z~They look like they're here for our prisoner.
+
+0x738D906B = ~z~Don't take him alive, shoot him!
+
+0x783DD08C = ~z~Hey, watch out.
+
+0x788AED93 = ~z~Oh, I've got your sorry arse now.
+
+0x904BE55B = ~z~Let your bullets have him, boys!
+
+0x2007F842 = ~z~I'm telling you, I ain't never lost a gunfight.
+
+0x2288E075 = ~z~Oh, Christ.
+
+0x6631AC74 = ~z~Mind where you're going.
+
+0x8859C96F = ~z~Bullet 'im!
+
+0x23612E57 = ~z~You'll be seeing us, cowboy!
+
+0x40787A76 = ~z~Alright, is anybody there?
+
+0x43107E27 = ~z~We'll find you, cowboy, and we'll put you under!
+
+0x49265D2A = ~z~Oh, you're surrounded now, so you are.
+
+0x77432B3C = ~z~Hands up in the air now, you hear me?
+
+0x94843FCC = ~z~You better leave right now, I tell you.
+
+0x209215F0 = ~z~A death wish, huh? Guess what, boys, we've got an instigator!
+
+0x604562F6 = ~z~C'mon, fellers. This ain't worth sticking around for.
+
+0x1520619D = ~z~Hey, stop acting like a damn fool.
+
+0x9556135D = ~z~Listen up. Last warning, now.
+
+0x96972885 = ~z~Suppose I didn't see nothing.
+
+0xA0542292 = ~z~I'm done telling you, next time it's a bullet.
+
+0xA06DE3B5 = ~z~Morgan can't get away!
+
+0xA0E7DF9B = ~z~Am I seeing things?
+
+0xA2C0FEB5 = ~z~Ah, let him go. He ain't worth our time.
+
+0xA5850C49 = ~z~Hey, get out of here, won't you?
+
+0xA2285384 = ~z~God above!
+
+0xAC304D7B = ~z~Hey, stupid, this bridge belongs to the O'Driscolls, and we decide who passes.
+
+0xAE5345BB = ~z~Good, now keep going!
+
+0xB2E1BC90 = ~z~Alright, the last time. Kill 'em dead!
+
+0xB8CB4702 = ~z~You've been warned now, to be sure.
+
+0xB89EAA74 = ~z~Let him go. Ain't worth more than the shite on my boot.
+
+0xB2509CD5 = ~z~I'll send you to hell with a hole in your head.
+
+0xB8369FC5 = ~z~Get going, why don't you?
+
+0xB2270219 = ~z~Are my eyes playing up?
+
+0xBA980734 = ~z~Oh, reckon it's wise to talk to me like that?
+
+0xBCD77505 = ~z~Huh. Guess it wasn't anything.
+
+0xBD058BE5 = ~z~I regretted not shooting you. Thanks for another chance.
+
+0xC0CE3E45 = ~z~Get your hands in the air.
+
+0xC0F12908 = ~z~Hey, wait now. The hell you think you're doing?
+
+0xC1E1B31B = ~z~Get the hell away from me.
+
+0xC7BBA17B = ~z~You got a mouth like an unwashed arse.
+
+0xC18BD553 = ~z~Dammit, who's out there? Come on out.
+
+0xC92F38A3 = ~z~Just a load of hot air it was.
+
+0xC630C00D = ~z~Whoa, now that's a terrible move.
+
+0xC729E3BF = ~z~Consider this your warning.
+
+0xC2916E37 = ~z~Good, now keep going.
+
+0xCBF7D5A1 = ~z~Hey, quit acting like a degenerate.
+
+0xCD015EC5 = ~z~Let's have at him, fellers!
+
+0xD3A3569E = ~z~Why don't you just get going?
+
+0xD3DDD890 = ~z~Come on, let's try and find out who done this.
+
+0xD8A977A9 = ~z~This was your handiwork, wasn't it?
+
+0xD63DEA2D = ~z~And there's no point acting like that.
+
+0xD1253C69 = ~z~Ugh! You look like you're on death's door, friend.
+
+0xD510976C = ~z~You don't listen good, do you? Don't move.
+
+0xDA019DD8 = ~z~Oh, hell.
+
+0xDB9DBECF = ~z~I said, put 'em up. Put 'em up, now!
+
+0xDD22EDF1 = ~z~Hey, you put that thing down, quick-like.
+
+0xE34CF76E = ~z~Gotta find whoever done this, and make 'em pay.
+
+0xE49D28FF = ~z~Get your arse down here now.
+
+0xEB3E6880 = ~z~I could fit my whole fist in that big mouth of yours.
+
+0xEE91D6AA = ~z~Who's that over there?
+
+0xF8A7C38A = ~z~Look, there ain't no point hiding. We'll find you.
+
+0xF63D07DE = ~z~What the hell?
+
+0xF6641F1F = ~z~I'm gonna make you regret that.
+
+0xFD33A9BE = ~z~You can take a walk, you can.
+

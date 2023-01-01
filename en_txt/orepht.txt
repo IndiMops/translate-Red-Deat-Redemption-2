@@ -1,0 +1,90 @@
+NB_PHOTOGRAPHY_BLIP_NAME_ANIMAL = Enemy
+
+NB_PHOTOGRAPHY_BLIP_NAME_DS = Danger Seeker
+
+NB_PHOTOGRAPHY_BLIP_NAME_FS = Fame Seeker
+
+NB_PHOTOGRAPHY_BLIP_NAME_OBJ = Objective
+
+NB_PHOTOGRAPHY_BLIP_NAME_TS = Thrill Seeker
+
+NB_PHOTOGRAPHY_H_CAMERA = Equip your camera.
+
+NB_PHOTOGRAPHY_H_CAMERA_ANIMAL = Equip your Camera from the Item Wheel and take a photo of the Thrill Seeker close to the animal.
+
+NB_PHOTOGRAPHY_H_CAMERA_ANIMAL_DS = Equip your Camera from the Item Wheel and take a photo of the Danger Seeker close to the animal.
+
+NB_PHOTOGRAPHY_H_CAMERA_CLIFF = Equip your Camera from the Item Wheel and take a photo of the Thrill Seeker at the edge of the cliff.
+
+NB_PHOTOGRAPHY_H_CAMERA_FISH = Equip your Camera from the Item Wheel and take a photo of the Fame Seeker holding her fish.
+
+NB_PHOTOGRAPHY_H_CAMERA_GANG = Equip your Camera from the Item Wheel and take a photo of the Fame Seeker while other players pose with her.
+
+NB_PHOTOGRAPHY_H_CAMERA_HOGTIED = Equip your Camera from the Item Wheel and take a photo of the Fame Seeker while other players pose with her hogtied.
+
+NB_PHOTOGRAPHY_H_CAMERA_HORSE = Equip your Camera from the Item Wheel and take a photo of the Fame Seeker while she's on your horse.
+
+NB_PHOTOGRAPHY_H_CAMERA_HORSE_DS = Equip your Camera from the Item Wheel and take a photo of the Danger Seeker while she's on your horse.
+
+NB_PHOTOGRAPHY_H_DISMOUNT_DS = Dismount your horse next to the Danger Seeker.
+
+NB_PHOTOGRAPHY_H_DISMOUNT_FS = Dismount your horse next to the Fame Seeker.
+
+NB_PHOTOGRAPHY_H_FILM_DS = Wait for the Danger Seeker to approach you and take the film.
+
+NB_PHOTOGRAPHY_H_FILM_FS = Wait for the Fame Seeker to approach you and take the film.
+
+NB_PHOTOGRAPHY_H_FILM_TS = Wait for the Thrill Seeker to approach you and take the film.
+
+NB_PHOTOGRAPHY_H_FRAME_ANIMAL_DS = Frame the Danger Seeker and wild animal using the camera.
+
+NB_PHOTOGRAPHY_H_FRAME_ANIMAL_TS = Frame the Thrill Seeker and wild animal using the camera.
+
+NB_PHOTOGRAPHY_H_FRAME_CLIFF_TS = Frame the Thrill Seeker using the camera.
+
+NB_PHOTOGRAPHY_H_FRAME_FISH_FS = Frame the Fame Seeker and fish using the camera.
+
+NB_PHOTOGRAPHY_H_FRAME_GANG_FS = Frame the Fame Seeker and nearby players using the camera.
+
+NB_PHOTOGRAPHY_H_FRAME_HORSE_DS = Frame the Danger Seeker and horse using the camera.
+
+NB_PHOTOGRAPHY_H_FRAME_HORSE_FS = Frame the Fame Seeker and horse using the camera.
+
+NB_PHOTOGRAPHY_H_GATHER = Stand close to the Fame Seeker facing the camera.
+
+NB_PHOTOGRAPHY_H_GATHER_CAMERAMAN = Wait for players to stand close to the Fame Seeker.
+
+NB_PHOTOGRAPHY_H_GUNSAIMED = Aim a weapon at the Fame Seeker.
+
+NB_PHOTOGRAPHY_H_GUNSUP = Aim a weapon towards the sky.
+
+NB_PHOTOGRAPHY_H_GUNS_CAMERAMAN = Wait for players to aim their weapons.
+
+NB_PHOTOGRAPHY_H_HOGTIE = Hogtie the Fame Seeker.
+
+NB_PHOTOGRAPHY_H_HORSE_DS = Bring your horse to the Danger Seeker.
+
+NB_PHOTOGRAPHY_H_HORSE_FS = Bring your horse to the Fame Seeker.
+
+NB_PHOTOGRAPHY_H_MORE_FS = More players are needed to help out the Fame Seeker.
+
+NB_PHOTOGRAPHY_H_PHOTO = Take a picture using the camera.
+
+NB_PHOTOGRAPHY_H_RETURN_FS = Return with more players to help out the Fame Seeker.
+
+NB_PHOTOGRAPHY_H_REWARD_ANIMAL_DS = The Danger Seeker will offer a reward based on the quality of the photograph. Hold ~INPUT_AIM~ to offer instructions to her.
+
+NB_PHOTOGRAPHY_H_REWARD_FS = The Fame Seeker will offer a reward based on the quality of the photograph.
+
+NB_PHOTOGRAPHY_H_REWARD_HORSE_DS = The Danger Seeker will offer a reward based on the quality of the photograph.
+
+NB_PHOTOGRAPHY_H_REWARD_TS = The Thrill Seeker will offer a reward based on the quality of the photograph. Hold ~INPUT_AIM~ to offer instructions to him.
+
+NB_PHOTOGRAPHY_H_TOO_CLOSE = Get further away before taking the photograph.
+
+NB_PHOTOGRAPHY_H_TOO_FAR = Get closer before taking the photograph.
+
+NB_PHOTOGRAPHY_ILO_POSE = Pose
+
+NB_PHOTOGRAPHY_ILO_STEP = Step Back
+

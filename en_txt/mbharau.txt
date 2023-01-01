@@ -1,0 +1,44 @@
+MBHAR_ALIVE_01 = ~z~~sl:0.3~I wasn't expecting company. Cell's over there.
+
+MBHAR_ALIVE_02 = ~z~~sl:0.0:1.6~And who is this?~sl:0.1:2.5~Mighty keen to make their acquaintance...~sl:~pop 'em in the cell.
+
+MBHAR_ALIVE_03 = ~z~~sl:0.0:2.0~Ain't this a rare treat?~sl:~Perhaps you could, er, escort them to their cell?
+
+MBHAR_ALIVE_04 = ~z~~sl:0.3~Oh... bounties go in the cell. Over yonder.
+
+MBHAR_ALIVE_05 = ~z~~sl:0.0:3.4~Bounty, is it? Looks like you done a fine job there.~sl:~Just... throw 'em in the cell.
+
+MBHAR_DEAD_FH_01 = ~z~~sl:0.4:3.1~Well, well... one more stiff in Armadillo.~sl:0.0:2.2:1~Least this one's worth some coin to you.
+
+MBHAR_DEAD_FH_02 = ~z~~sl:0.04:3.8~Well, you ain't left much for the law to do now, have you?~sl:0.0:1.5:1~Got your reward here.
+
+MBHAR_DEAD_FH_03 = ~z~~sl:0.4:3.4~Well... they done reaped what they sowed, huh?~sl:0.0:1.8:1~I believe you're due a reward.
+
+MBHAR_DEAD_FH_04 = ~z~~sl:0.5:3.8:1~Kept things simple, I see? That's how we like it.
+
+MBHAR_DEAD_FH_05 = ~z~~sl:1.4:2.1~You in the bounty business, huh?~sl:0.0~Got your money here.
+
+MBHAR_DEAD_PW_01 = ~z~~sl:0.4:1.1~They dead, huh?~sl:0.5:1.9~Well, you just toss 'em out back~sl:~and then get yourself paid.
+
+MBHAR_DEAD_PW_02 = ~z~~sl:0.2:1.2~Dead bounty?~sl:0.4:2.2~You'll be remunerated just as soon~sl:~as they're laying out back.
+
+MBHAR_DEAD_PW_03 = ~z~~sl:0.1:3.7~Well... one more corpse for us to get rid of, huh?~sl:~Throw 'em out back, money's yours.
+
+MBHAR_DEAD_PW_04 = ~z~~sl:0.2:2.9~As if we didn't have enough bodies in town.~sl:~Drop 'em off... reward's yours.
+
+MBHAR_MID_01 = ~z~Well... ain't this a rare treat?
+
+MBHAR_MID_02 = ~z~Oh... bounties go in the cell.
+
+MBHAR_MID_03 = ~z~Bounty is it? Cell's over there.
+
+MBHAR_REWARD_01 = ~z~~sl:0.4~There you go.
+
+MBHAR_REWARD_02 = ~z~~sl:0.5~Here's the going rate.
+
+MBHAR_REWARD_03 = ~z~~sl:0.5~That is what they're worth.
+
+MBHAR_REWARD_04 = ~z~~sl:0.1~Fair price, no haggling.
+
+MBHAR_REWARD_05 = ~z~~sl:0.3~Done deal.
+

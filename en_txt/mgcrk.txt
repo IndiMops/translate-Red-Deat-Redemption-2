@@ -1,0 +1,28 @@
+0x5D666FF6 = Slowly move ~INPUT_LOOK_LEFT_ONLY~ to crack the third number
+
+0x50C5D6C9 = Slowly move ~INPUT_LOOK_RIGHT_ONLY~ to crack the second number
+
+0x84A82867 = Slowly move ~INPUT_LOOK_RIGHT_ONLY~ to select the second number
+
+0x626AB8E3 = Slowly move ~INPUT_LOOK_LEFT_ONLY~ to select the third number
+
+0x23421358 = Slowly move ~INPUT_LOOK_LEFT_ONLY~ to select the first number
+
+0xEEBCC4C0 = Slowly move ~INPUT_LOOK_LEFT_ONLY~ to crack the first number
+
+0xFFD93967 = Current Number ~1~
+
+MG_H_CRACK1 = Slowly rotate ~INPUT_MOVE_LR|PromptId=INPUT_CRK_PROMPT,Gutter,PromptStyle=4~ counterclockwise to crack the first number
+
+MG_H_CRACK2 = Slowly rotate ~INPUT_MOVE_LR|PromptId=INPUT_CRK_PROMPT,Gutter,PromptStyle=3~ clockwise to crack the second number
+
+MG_H_CRACK3 = Slowly rotate ~INPUT_MOVE_LR|PromptId=INPUT_CRK_PROMPT,Gutter,PromptStyle=4~ counterclockwise to crack the third number
+
+MG_H_SELECT1 = Slowly rotate ~INPUT_MOVE_LR|PromptId=INPUT_CRK_PROMPT,Gutter,PromptStyle=4~ counterclockwise to select the first number
+
+MG_H_SELECT2 = Slowly rotate ~INPUT_MOVE_LR|PromptId=INPUT_CRK_PROMPT,Gutter,PromptStyle=3~ clockwise to select the second number
+
+MG_H_SELECT3 = Slowly rotate ~INPUT_MOVE_LR|PromptId=INPUT_CRK_PROMPT,Gutter,PromptStyle=4~ counterclockwise to select the third number
+
+MG_UC_ROTATE = Rotate
+

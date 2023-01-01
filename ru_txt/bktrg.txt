@@ -1,0 +1,172 @@
+0x2DAE25BA = Цель доставлена
+
+0x2F68CA41 = Верните ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~ живой или мертвой.
+
+0x3E09D01F = Захватите ~COLOR_ENEMY~миссис Брейди~s~ живой или мертвой
+
+0x47A6FD50 = Цели доставлены
+
+0x141CAEA1 = Схватите ~COLOR_ENEMY~Тобиаса~s~ и ~COLOR_ENEMY~Дэна Беллингемов~s~ живыми или мертвыми
+
+0x448D0EB9 = Захватите ~COLOR_ENEMY~Роуча~s~ живым или мертвым
+
+0x805DAF78 = ~COLOR_MP_OBJECTIVE_ENEMY~«Мясники»~s~ нападают на людей в окрестностях ранчо Вентера. Чтобы получить полную награду, доставьте преступника живым.
+
+0x3759F977 = Убедите бутлегера выдать местоположение цели, не привлекая внимания законников.
+
+0x7360E5E8 = Захватите ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~.
+
+0x8031AF37 = Верните ~COLOR_MP_OBJECTIVE_ENEMY~цели~s~ живыми или мертвыми.
+
+0x8233CB99 = Захватите ~COLOR_ENEMY~Тобина Андерсона~s~ живым или мертвым
+
+0x41893D32 = Убедите бутлегера выдать местоположение цели, не привлекая внимания законников.
+
+0xB9817F3E = Захватите ~COLOR_MP_OBJECTIVE_NEUTRAL~цели~s~.
+
+0xBDF89165 = ~COLOR_MP_OBJECTIVE_ENEMY~Патрик~s~ и ~COLOR_MP_OBJECTIVE_ENEMY~Дэн Беллингемы~s~ продали остатки самогона публичному дому Роудса. Чтобы получить полную награду, найдите их и доставьте живыми.
+
+0xD78C5470 = Целей доставлено: ~1~ из ~2~
+
+BOUNTY_KNOWN_TARGET_ARMADILLO_HELP_SEARCH = Поищите зацепки, оставленные ~COLOR_MP_OBJECTIVE_ENEMY~«мясниками»~s~.
+
+BOUNTY_KNOWN_TARGET_BENEDICT_1_CLUE = ~COLOR_MP_OBJECTIVE_ENEMY~«Лос Пасахерос»~s~ собираются напасть на поезд на станции Мерсер.
+
+BOUNTY_KNOWN_TARGET_BENEDICT_1_CLUE_EARLY_INSPECT = ~COLOR_MP_OBJECTIVE_ENEMY~«Лос Пасахерос»~s~ собираются напасть на поезд на станции Мерсер. Перебейте оставшихся бандитов, а затем доберитесь до станции Мерсер и отыщите ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~.
+
+BOUNTY_KNOWN_TARGET_BLACKWATER_HELP_PRIMARY = Член банды ~COLOR_MP_OBJECTIVE_ENEMY~«Люди Таддеуса Уолтера»~s~ бежал из Блэкуотера. Найдите ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~. Чтобы получить полную награду, доставьте преступника живым.
+
+BOUNTY_KNOWN_TARGET_HELP_APPROACH_RIGGS_3 = Подойдите к информатору~1b~, чтобы узнать, где находятся ~COLOR_MP_OBJECTIVE_ENEMY~цели~s~.
+
+BOUNTY_KNOWN_TARGET_HELP_ARMADILLO_CLUE_INSPECTED = По всем признакам здесь недавно произошла борьба. Продолжайте искать еще зацепки.
+
+BOUNTY_KNOWN_TARGET_HELP_ARMADILLO_FINAL_CLUE_INSPECTED = ~COLOR_MP_OBJECTIVE_ENEMY~Мясники~s~ устроили здесь борьбу. Они уже покинули местность. Догоните ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~ ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~, пока ей не удалось уйти.
+
+BOUNTY_KNOWN_TARGET_HELP_BLACKWATER_CLUE_INSPECTED = ~COLOR_MP_OBJECTIVE_ENEMY~Цель~s~ недавно покинула лагерь и направилась к станции Риггс.
+
+BOUNTY_KNOWN_TARGET_HELP_BLACKWATER_DEAD_END = Цель недавно покинула это место, но неясно, куда она отправилась. Продолжайте искать зацепки.
+
+BOUNTY_KNOWN_TARGET_HELP_BODY_STOW = Для облегчения перевозки тел их можно хранить на лошади.
+
+BOUNTY_KNOWN_TARGET_HELP_EMRNH_GO_TO_PLEASANCE = В последнее время ~COLOR_MP_OBJECTIVE_ENEMY~миссис Брейди~s~ нападает на путешественников в окрестностях Плэзанс~o~~BLIP_OBJECTIVE~~s~.
+
+BOUNTY_KNOWN_TARGET_HELP_FOLLOW_RIGGS_3 = Следуйте за информатором~1b~ туда, где прячется ~COLOR_MP_OBJECTIVE_ENEMY~Бартоломью Браун~s~ и его ~COLOR_MP_OBJECTIVE_ENEMY~банда~s~.
+
+BOUNTY_KNOWN_TARGET_HELP_INSPECT_FOREMAN = Бригадир убит, и ~COLOR_MP_OBJECTIVE_ENEMY~Тобин Андерсон~s~ и его банда проникли в шахту Аннесберга ~o~~BLIP_OBJECTIVE~~s~.
+
+BOUNTY_KNOWN_TARGET_HELP_LOOK_AT_CLUE = Сфокусироваться на зацепке
+
+BOUNTY_KNOWN_TARGET_HELP_OBJECTIVE_DEAD = Цель была убита. Чтобы получить награду, доставьте властям тело.
+
+BOUNTY_KNOWN_TARGET_HELP_OBJECTIVE_ESCAPING = ~COLOR_MP_OBJECTIVE_ENEMY~Цель~s~ ~1b~ убегает. Схватите ее, пока она не ушла.
+
+BOUNTY_KNOWN_TARGET_HELP_PRIMARY = Чтобы получить полную награду, доставьте ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~ ~1b~ живой. За мертвых платят меньше.
+
+BOUNTY_KNOWN_TARGET_HELP_PRIMARY_ANS_3 = ~COLOR_MP_OBJECTIVE_ENEMY~Тобин Андерсон~s~ встретился с бригадиром шахтеров в окрестностях Аннесберга. Чтобы получить полную награду, найдите его и доставьте живым.
+
+BOUNTY_KNOWN_TARGET_HELP_PRIMARY_BENEDICT_1 = Осмотрите место, где ~COLOR_MP_OBJECTIVE_ENEMY~«Лос Пасахерос»~s~ в очередной раз ограбили поезд. Найдите цель. Чтобы получить полную награду, доставьте преступника живым.
+
+BOUNTY_KNOWN_TARGET_HELP_PRIMARY_EMRNH_1 = ~COLOR_MP_OBJECTIVE_ENEMY~Миссис Брейди~s~ похитила путника и отвезла его на болото Блюуотер. Выследите ее и доставьте живой, чтобы получить полную награду.
+
+BOUNTY_KNOWN_TARGET_HELP_PRIMARY_GO_TO = Отправляйтесь к последнему известному местоположению цели и поищите зацепки, которые могут указать, где она сейчас.
+
+BOUNTY_KNOWN_TARGET_HELP_PRIMARY_PLURAL = Чтобы получить полную награду, доставьте ~COLOR_MP_OBJECTIVE_ENEMY~цели~s~ ~1b~ живыми. За мертвых платят меньше.
+
+BOUNTY_KNOWN_TARGET_HELP_PRIMARY_RIGGS_3 = ~COLOR_MP_OBJECTIVE_ENEMY~Бартоломью Браун~s~ и остатки его ~COLOR_MP_OBJECTIVE_ENEMY~банды~s~ прячутся в Сен-Дени. Поговорите с информатором, чтобы найти цели. Чтобы получить полную награду, доставьте преступников живыми.
+
+BOUNTY_KNOWN_TARGET_HELP_PRIMARY_STDENIS_1 = Разыскиваемого убийцу ~COLOR_MP_OBJECTIVE_ENEMY~Роуча~s~ видели в заброшенной хижине на окраине города. Найдите и доставьте его живым, чтобы получить полную награду.
+
+BOUNTY_KNOWN_TARGET_HELP_PRIMARY_VAL_1 = Известно, что ~COLOR_MP_OBJECTIVE_ENEMY~Бетани де ла Мар~s~ регулярно устраивает встречи в холмах Амбарино. Найдите ее и доставьте живой, чтобы получить полную награду.
+
+BOUNTY_KNOWN_TARGET_HELP_RHODES_INTIMIDATE = Запугайте бутлегера ~COLOR_MP_OBJECTIVE_ENEMY~~BLIP_OBJECTIVE~~s~, чтобы узнать, куда бежали братья Беллингемы.
+
+BOUNTY_KNOWN_TARGET_HELP_RHODES_LOCATION = ~COLOR_MP_OBJECTIVE_ENEMY~Бутлегер~s~ выдал, откуда привозят самогон. Арестуйте ~COLOR_MP_OBJECTIVE_ENEMY~Патрика~s~ и ~COLOR_MP_OBJECTIVE_ENEMY~Дэна Беллингемов~s~ в ~COLOR_MP_OBJECTIVE~бухте Клеменса~s~.
+
+BOUNTY_KNOWN_TARGET_HELP_SEARCH = В последний раз цель была замечена в этой области. Найдите следы цели.
+
+BOUNTY_KNOWN_TARGET_HELP_SEARCH_ANNESBURG_3 = Чтобы активировать «Орлиный глаз» и поискать следы целей, нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~.
+
+BOUNTY_KNOWN_TARGET_HELP_SEARCH_BENEDICT_1 = ~COLOR_MP_OBJECTIVE_ENEMY~«Лос Пасахерос»~s~ в логове нет. Найдите зацепку, которая выведет вас на след цели.
+
+BOUNTY_KNOWN_TARGET_HELP_SEARCH_VAL_1 = Найдите улики, которые выведут вас на цель.
+
+BOUNTY_KNOWN_TARGET_INSPECT_CLUE = Осмотреть
+
+BOUNTY_KNOWN_TARGET_INTIMIDATE_BOOTLEGGER = Запугайте ~COLOR_MP_OBJECTIVE_ENEMY~бутлегера~s~.
+
+BOUNTY_KNOWN_TARGET_OBJ_APPROACH_ACCOMPLICE = Подойдите к ~COLOR_MP_OBJECTIVE~незнакомцу~s~.
+
+BOUNTY_KNOWN_TARGET_OBJ_APPROACH_INFORMANT = Подойдите к ~COLOR_MP_OBJECTIVE~информатору~s~.
+
+BOUNTY_KNOWN_TARGET_OBJ_AREA = Направляйтесь к ~COLOR_MP_OBJECTIVE~месту засады~s~.
+
+BOUNTY_KNOWN_TARGET_OBJ_DEFEND = Помогите доставить ~COLOR_MP_OBJECTIVE_FRIENDLY~цель~s~ ~1~.
+
+BOUNTY_KNOWN_TARGET_OBJ_DEFEND_PLURAL = Помогите доставить ~COLOR_MP_OBJECTIVE_FRIENDLY~цели~s~ ~1~.
+
+BOUNTY_KNOWN_TARGET_OBJ_DELIVER = Доставьте цель ~1~.
+
+BOUNTY_KNOWN_TARGET_OBJ_DELIVER_PLURAL = Доставьте цели ~1~.
+
+BOUNTY_KNOWN_TARGET_OBJ_DROP = Сдайте цель.
+
+BOUNTY_KNOWN_TARGET_OBJ_ESCORT_DELIVER_STEAL = Отбейте ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~ у ~COLOR_ENEMY~~1~.
+
+BOUNTY_KNOWN_TARGET_OBJ_FIND = Убейте или схватите ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~.
+
+BOUNTY_KNOWN_TARGET_OBJ_FIND_PLURAL = Убейте или схватите ~COLOR_MP_OBJECTIVE_ENEMY~цели~s~.
+
+BOUNTY_KNOWN_TARGET_OBJ_FOLLOW_INFORMANT = Следуйте за ~COLOR_MP_OBJECTIVE~информатором~s~.
+
+BOUNTY_KNOWN_TARGET_OBJ_GET_ON_MOUNT = Садитесь на лошадь.
+
+BOUNTY_KNOWN_TARGET_OBJ_GOTO = Направляйтесь ~1~.
+
+BOUNTY_KNOWN_TARGET_OBJ_GOTO_ANNESBURG_MINES = Отправляйтесь в шахты ~COLOR_MP_OBJECTIVE~Аннесберга~s~.
+
+BOUNTY_KNOWN_TARGET_OBJ_GOTO_CAVE = Отправляйтесь в ~COLOR_MP_OBJECTIVE~пещеру~s~.
+
+BOUNTY_KNOWN_TARGET_OBJ_GOTO_CLEMENS_COVE = Отправляйтесь в ~COLOR_MP_OBJECTIVE~бухту Клеменса~s~.
+
+BOUNTY_KNOWN_TARGET_OBJ_GOTO_PLEASANCE_SETTLE = Отправляйтесь в ~COLOR_MP_OBJECTIVE~поселение Плэзанс~s~.
+
+BOUNTY_KNOWN_TARGET_OBJ_GOTO_SAINT_DENIS = Отправляйтесь в ~COLOR_MP_OBJECTIVE~Сен-Дени~s~.
+
+BOUNTY_KNOWN_TARGET_OBJ_KILL_ATTACKERS = Перебейте ~COLOR_MP_OBJECTIVE_ENEMY~бандитов~s~.
+
+BOUNTY_KNOWN_TARGET_OBJ_KILL_GANG_MEMBERS = Перебейте ~COLOR_MP_OBJECTIVE_ENEMY~бандитов~s~.
+
+BOUNTY_KNOWN_TARGET_OBJ_RETURN_TO_MISSION = Вернитесь в ~COLOR_MP_OBJECTIVE~сектор задания~s~.
+
+BOUNTY_KNOWN_TARGET_OBJ_SEARCH_AREA = Осмотрите ~COLOR_MP_OBJECTIVE~местность~s~ и найдите следы преступника.
+
+BOUNTY_KNOWN_TARGET_OBJ_SEARCH_CAMP = Осмотрите ~COLOR_MP_OBJECTIVE~лагерь~s~ и найдите следы преступника.
+
+BOUNTY_KNOWN_TARGET_OBJ_SEARCH_HIDEOUT = Осмотрите ~COLOR_MP_OBJECTIVE~логово~s~ и найдите следы преступника.
+
+BOUNTY_KNOWN_TARGET_PRIMARY_JOIN = Игрок ~1~ присоединился к охоте за головами.
+
+BOUNTY_KNOWN_TARGET_RESCUE_PED_UNTIE = Освободите связанного ~COLOR_MP_OBJECTIVE~незнакомца~s~.
+
+BOUNTY_KNOWN_TARGET_RETURN_TO_MISSION = Вернитесь в ~COLOR_MP_OBJECTIVE~область~s~.
+
+BOUNTY_KNOWN_TARGET_SCORETIMER_OBJ_REACHED_DRIVE_TO = Цель достигла места назначения
+
+BOUNTY_KNOWN_TARGET_SHARD_FAIL_BOOTLEGGER_KILLED = ~COLOR_MP_OBJECTIVE_ENEMY~Бутлегер~s~ был убит
+
+BOUNTY_KNOWN_TARGET_SHARD_FAIL_PRISONER_KILLED = ~COLOR_MP_OBJECTIVE_ENEMY~Заключенный~s~ был убит
+
+BOUNTY_KNOWN_TARGET_SHARD_OVER = ~COLOR_MP_OBJECTIVE_NEUTRAL~Цель~s~ сбежала
+
+BOUNTY_KNOWN_TARGET_SHARD_OVER_PLURAL = ~COLOR_MP_OBJECTIVE_NEUTRAL~Цели~s~ сбежали.
+
+BOUNTY_KNOWN_TARGET_STRAWBERRY_HELP_PRIMARY = Двое «Посвященных» украли повозку и сейчас направляются на ней в убежище. Чтобы получить полную награду, доставьте их живыми.
+
+BOUNTY_KNOWN_TARGET_TICKER_DESTROY = Цель потеряна
+
+BOUNTY_KNOWN_TARGET_TICKER_DESTROY_YOU = Вы убили ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~
+
+BOUNTY_KNOWN_TARGET_TICKER_ESCAPE = ~COLOR_MP_OBJECTIVE_ENEMY~Цель~s~ сбежала
+
+BOUNTY_KNOWN_TARGET_VAL_1_CLUE = В дневнике Бетани де ла Мар рассказывается о тайном месте неподалеку отсюда, где они проводили обряды посвящения.
+

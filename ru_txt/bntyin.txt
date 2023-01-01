@@ -1,0 +1,102 @@
+0x020B5C30 = Сопроводите дилижанс.
+
+0x022D0251 = Преступник добрался до своего логова
+
+0x1EF43BC8 = Отправляйтесь к логову.
+
+0x5F898169 = Защитите преступника
+
+0x9B10D8C1 = Направляйтесь к ~COLOR_MP_OBJECTIVE_ENEMY~цели~s~.
+
+0x42AEE8E2 = Помогите сопроводить преступника ~1~.
+
+0x70BEBB2B = Сопроводите повозку.
+
+0x92EE3440 = Направляйтесь ~1~.
+
+0x441FF06A = Задание выполнено
+
+0x23894357 = Схватите преступника живым или мертвым
+
+0xC67A31F5 = Сопроводите повозку ~1~.
+
+0xE8D8FA0D = Направляйтесь к ~COLOR_MP_OBJECTIVE_ENEMY~цели~s~.
+
+FETCH_BOUNTY_HUNTING_INFILTRATION_ANNESBURG_HELP_INTRO = Перехватите доставку партии ~BLIP_AMBIENT_WAGON~ взрывчатки для ~COLOR_MP_OBJECTIVE_ENEMY~«Мародеров»~s~ и проникните в их логово. Схватите и доставьте цель живой, чтобы получить полную награду.
+
+FETCH_BOUNTY_HUNTING_INFILTRATION_ANNESBURG_HELP_WAGON_ESCORT = Выдайте себя за бандита и отгоните повозку к ~COLOR_MP_OBJECTIVE~логову~s~, не вызывая подозрений.
+
+FETCH_BOUNTY_HUNTING_INFILTRATION_EMERALD_HELP_INTRO = ~COLOR_MP_OBJECTIVE_ENEMY~Банда миссис Стэнтон~s~ грабит людей рядом с Мунстоунским прудом. Выследите ее и доставьте живой, чтобы получить полную награду.
+
+FETCH_BOUNTY_HUNTING_INFILTRATION_EMERALD_HELP_WAGON_ESCORT = Выдайте себя за бандита и отгоните дилижанс к ~COLOR_MP_OBJECTIVE~логову~s~, не вызывая подозрений.
+
+FETCH_BOUNTY_HUNTING_INFILTRATION_HELP_INTRO = Чтобы получить полную награду, доставьте преступника ~1b~ живым. За мертвых платят меньше.
+
+FETCH_BOUNTY_HUNTING_INFILTRATION_HELP_INTRO_PLURAL = Чтобы получить полную награду, доставьте преступника ~1b~ живым. За мертвых платят меньше.
+
+FETCH_BOUNTY_INFILTRATION_ENTITY_KILLED = Повозка уничтожена
+
+FETCH_BOUNTY_INFILTRATION_ENTITY_STAGECOACH_KILLED = Дилижанс уничтожен
+
+FETCH_BOUNTY_INFILTRATION_HELP_OBJECTIVE_ESCAPING = ~COLOR_MP_OBJECTIVE_ENEMY~Преступник~s~ пытается сбежать. Если преступнику удастся уйти от вас на достаточное расстояние, он сбежит, а вы не сможете получить за него награду.
+
+FETCH_BOUNTY_INFILTRATION_HELP_PULL_OVER = Остановитесь у охранника и дайте ему осмотреть повозку.
+
+FETCH_BOUNTY_INFILTRATION_HELP_PULL_OVER_ANNESBURG = У вас есть шанс пройти в логово мирным путем. Остановите повозку и дайте бандитам вас рассмотреть.
+
+FETCH_BOUNTY_INFILTRATION_HELP_PULL_OVER_EMERALD = У вас есть шанс пройти в логово мирным путем. Остановите повозку и дайте бандитам вас рассмотреть.
+
+FETCH_BOUNTY_INFILTRATION_OBJ_DEFEND = Сопроводите повозку ~1~.
+
+FETCH_BOUNTY_INFILTRATION_OBJ_DEFEND_STAGECOACH = Сопровождайте дилижанс ~1~.
+
+FETCH_BOUNTY_INFILTRATION_OBJ_DEFEND_TARGET = Помогите доставить цель ~1~.
+
+FETCH_BOUNTY_INFILTRATION_OBJ_DROP = Сдайте преступника.
+
+FETCH_BOUNTY_INFILTRATION_OBJ_FIND = Убейте или схватите ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~.
+
+FETCH_BOUNTY_INFILTRATION_OBJ_FIND_PLURAL = Убейте или схватите ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~.
+
+FETCH_BOUNTY_INFILTRATION_OBJ_MOUNT = Садитесь на лошадь.
+
+FETCH_BOUNTY_INFILTRATION_OBJ_MOUNT_STAGECOACH = Садитесь в дилижанс.
+
+FETCH_BOUNTY_INFILTRATION_OBJ_MOUNT_WAGON = Садитесь на повозку.
+
+FETCH_BOUNTY_INFILTRATION_OBJ_RETURN = Доставьте преступника ~1~.
+
+FETCH_BOUNTY_INFILTRATION_OBJ_RETURN_PLURAL = Доставьте преступника ~1~.
+
+FETCH_BOUNTY_INFILTRATION_SCORETIMER_DESTROY = Преступник убит
+
+FETCH_BOUNTY_INFILTRATION_SCORETIMER_DESTROY_YOU = Вы убили преступника
+
+FETCH_BOUNTY_INFILTRATION_SCORETIMER_ESCAPE = ~COLOR_MP_OBJECTIVE_ENEMY~Цель~s~ сбежала
+
+FETCH_BOUNTY_INFILTRATION_SCORETIMER_TRIGGER_ACTION = Игрок ~1~ спугнул преступника
+
+FETCH_BOUNTY_INFILTRATION_SHARD_ESCAPED = Преступник сбежал
+
+FETCH_BOUNTY_INFILTRATION_SHARD_ESCAPED_PLURAL = Преступник сбежал
+
+FETCH_BOUNTY_INFILTRATION_VEH_FIND = Украдите повозку.
+
+FETCH_BOUNTY_INFILTRATION_VEH_FIND_PLURAL = Украдите повозку.
+
+FETCH_BOUNTY_INFILTRATION_VEH_FIND_STAGECOACH = Украдите дилижанс.
+
+FETCH_BOUNTY_INFILTRATION_VEH_RETURN = Ведите повозку ~1~.
+
+FETCH_BOUNTY_INFILTRATION_VEH_STAGEOACH_RETURN = Ведите дилижанс ~1~.
+
+FETCH_BOUNTY_INFILTRATION_WAIT = Дождитесь ~COLOR_MP_OBJECTIVE_ENEMY~цели~s~.
+
+FETCH_BOUNTY_INFILTRATION_WAIT_FOR_INSPECT = Дождитесь, пока охранник осмотрит повозку.
+
+FETCH_BOUNTY_INFILTRATION_WAIT_FOR_INSPECT_STAGECOACH = Дождитесь, пока охранник осмотрит дилижанс.
+
+FETCH_HELP_BOUNTY_FREE_UP_SEAT_FOR_TARGET_ANNESBURG = Дайте цели ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ сесть в повозку и покиньте логово, чтобы в одиночку схватить ее.
+
+FETCH_HELP_BOUNTY_FREE_UP_SEAT_FOR_TARGET_EMERALD = Дайте ~COLOR_MP_OBJECTIVE_ENEMY~миссис Стэнтон~s~ ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ сесть в дилижанс и тихо покиньте логово, чтобы в одиночку схватить ее.
+

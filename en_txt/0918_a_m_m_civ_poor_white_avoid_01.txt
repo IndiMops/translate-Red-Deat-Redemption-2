@@ -1,0 +1,174 @@
+0x0965A35B = ~z~Oh, I can handle 'er blind, too... I'll show you!
+
+0x1AAE5BD8 = ~z~Hey, open your eyes.
+
+0x1B5F3ABB = ~z~You gonna keep staring, or have you got something to say?
+
+0x1B729836 = ~z~If you want it, step on up.
+
+0x1C606872 = ~z~Shit! You're looking to dance? Well I'll shoot your face off!
+
+0x2A87D1CA = ~z~The hell won't you leave me alone?
+
+0x2DDB3E90 = ~z~No, God, no!
+
+0x3F7A2880 = ~z~I'm fine!
+
+0x4A71CB78 = ~z~Someone, do something.
+
+0x4FB99C2D = ~z~I didn't ask for this.
+
+0x5AF60974 = ~z~~sl:0.0:2.7~Yeah, you watch out for me or you'll be sorry.~sl:1.1~I'm outta here.
+
+0x5AFA4527 = ~z~Stop it. I don't wanna tell you again.
+
+0x5BF348FB = ~z~Don't you know who I am? You're real stupid.
+
+0x5CF3AD6D = ~z~You really got nothing to do besides following me?
+
+0x5E7C44BF = ~z~Hello again.
+
+0x5F0D5299 = ~z~Hey, you look like you could use a drink. Me too, pal.
+
+0x6A9F44D0 = ~z~Good, nothing worth dying over, friend.
+
+0x6C8E0D67 = ~z~You messed with the wrong feller!
+
+0x7D811F62 = ~z~Wouldn't mind some room to breathe here, partner.
+
+0x7DE77888 = ~z~Just get the hell back where you came from.
+
+0x7EB3545A = ~z~If I ignore you, will you leave?
+
+0x8B14BA89 = ~z~Move along there, would ya?
+
+0x8B191DB7 = ~z~Hey, easy there, we can talk this through.
+
+0x8B354F9D = ~z~Get back. You get back.
+
+0x8C15FB9D = ~z~Right, I'm after the law.
+
+0x9A1567BE = ~z~Yeah...
+
+0x9D161B7F = ~z~If you insist. I ain't going nowhere.
+
+0x9E6FBDFC = ~z~She ain't just a looker, neither... Watch this!
+
+0x36F6ED81 = ~z~Hey, why you following me, huh? You looking for trouble?
+
+0x46E3ABFE = ~z~Alright, you wasn't worth it anyway.
+
+0x57A687B0 = ~z~Okay, here. Take it.
+
+0x59E3F304 = ~z~Hey, hey, I ain't looking to fight here.
+
+0x63B980A6 = ~z~You get away from me!
+
+0x73B873AE = ~z~I'm fine... It looks worse than it is...
+
+0x80C33C6F = ~z~Already had enough of your kind of trouble in these parts.
+
+0x192FA598 = ~z~Whoo, look at this baby, huh? Best you can find.
+
+0x381F53B1 = ~z~We need the law on this one.
+
+0x473D2604 = ~z~I guess I could just sleep right here.
+
+0x512E88CD = ~z~I need to take a piss. Better watch out for me.
+
+0x781F3DC0 = ~z~I don't wanna put you down but I will.
+
+0x864C7173 = ~z~Whoa, what are you doing here?
+
+0x940B7CA4 = ~z~C'mon. Get.
+
+0x3884A7D8 = ~z~What did I do to you?
+
+0x8650C646 = ~z~Look at this. Happy birthday to me.
+
+0x9966EC00 = ~z~Just leave me be, dammit!
+
+0x76232E57 = ~z~You better move along if you don't want to end up as target practice.
+
+0x79487DB0 = ~z~You been raised wrong.
+
+0x495751EB = ~z~Hey, I ain't given you no reason to start something.
+
+0x592768E3 = ~z~Help, help me!
+
+0x625315D3 = ~z~Move! Things are getting ugly.
+
+0x765425DB = ~z~Get back! You get back!
+
+0x4556062B = ~z~Fast like lightning, that's how you gotta do it!
+
+0x16790236 = ~z~Stop, please just stop.
+
+0x26530375 = ~z~I don't deserve this.
+
+0x35166100 = ~z~Whatchu looking at, tough guy? Huh?
+
+0x50037134 = ~z~Go, get movin' fast.
+
+0x91507994 = ~z~You don't deserve my attention.
+
+0xA403A2C1 = ~z~Hey you! You better watch where you're walking!
+
+0xAAD554B0 = ~z~I'm fine, I'm fine...
+
+0xACBCA6FA = ~z~You got just enough time to back down.
+
+0xAE6E891C = ~z~Hey, least I got some manners.
+
+0xB93EF6CF = ~z~Let's get out of here! I've had about enough of this...
+
+0xB359B371 = ~z~Here it is. No local store's got iron this nice.
+
+0xBB89DAE3 = ~z~Hey, hey, quit that.
+
+0xBFDF5820 = ~z~Alright, alright. It's all I have, take it.
+
+0xC0A92D91 = ~z~Sticks and stones, friend.
+
+0xC61F8198 = ~z~You the one to blame for this?
+
+0xC341D7D4 = ~z~Sure thing.
+
+0xCEDD55CC = ~z~Ugh, you can't even see straight – go home.
+
+0xD041887B = ~z~~sl:0.3:3.6:1~It's fine! I just gotta walk this off...
+
+0xD0A1DA79 = ~z~Just leave me be, damn it.
+
+0xD3A90A2D = ~z~Shit, shit, shit!
+
+0xD28EFA6B = ~z~Hey you! Ugly bastard. You look like that guy, that Arnie Morton! What an idiot.
+
+0xD310711F = ~z~You aiming at me? I'll aim right back, friend.
+
+0xDB168F6C = ~z~~sl:1.1.7:1~Oh, goddammit!
+
+0xDCF9BC29 = ~z~What, you say something? I'll soup your skull!
+
+0xDD8C6F67 = ~z~~sl:0.7:0.0~Will you quit hassling me and leave me be?
+
+0xDDE38E20 = ~z~I told you "let off" and you're still here... that's a mistake!
+
+0xE1C0CCCF = ~z~Please, listen, I got nothing same as you.
+
+0xE2C77EC4 = ~z~You get away from me.
+
+0xEA176BE2 = ~z~Man, that last drink was one too many.
+
+0xF067074A = ~z~Hey, don't mind me.
+
+0xF087EABB = ~z~~sl:0.0:1.6:1~Relax, I done this a hundred...
+
+0xF0F8FE36 = ~z~You damn monster.
+
+0xF4E7F153 = ~z~Hey now, just think about what you're doing.
+
+0xF7CF4A66 = ~z~Hey, get gone now.
+
+0xFC6EACC3 = ~z~Good for nothin' bum.
+

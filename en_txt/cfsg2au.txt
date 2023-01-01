@@ -1,0 +1,32 @@
+CFSG2_ACT_1 = ~z~~sl:0.0:0.9~Gentlemen.~sl:0.4~How you keeping?
+
+CFSG2_ACT_2 = ~z~~sl:0.0:1.2~Well, girls ain't happy.~sl:0.3:1.1~Let me tell you that for nothing,~sl:~not happy at all.
+
+CFSG2_ACT_3 = ~z~~sl:0.3:1.3:1~Don't know why...
+
+CFSG2_ACT_4 = ~z~~sl:0.0:0.6~Well, that's not true,~sl:~I do know why.
+
+CFSG2_ACT_5 = ~z~~sl:0.0:2.1~They're lazy, good-for-nothing brats!~sl:~Every last one of them.
+
+CFSG2_ACT_6 = ~z~~sl:0.0:3.2~They're whores with ideas miles above their station.~sl:~I mean,
+
+CFSG2_ACT_7 = ~z~~sl:0.0:0.8~in my day,~sl:~it just didn't happen.
+
+CFSG2_ACT_8 = ~z~Talk back to a madam? Ha!
+
+CFSG2_ACT_9 = ~z~~sl:0.0:1.6~I'd have been horse-whipped,~sl:0.2~and I was.
+
+CFSG2_ACT_10 = ~z~~sl:0.0:1.7~Oh, I was horse-whipped,~sl:0.4~and I'm grateful.
+
+CFSG2_ACT_11 = ~z~Oh, I wish Dutch'd let me whip some of them pathetic wretches into shape.
+
+CFSG2_ACT_12 = ~z~They need it!
+
+CFSG2_ACT_13 = ~z~~sl:0.0:1.8~Oh so help me God,~sl:~they need it.
+
+CFSG2_ACT_14 = ~z~~sl:0.0:1.4~I mean, it's bad now but,~sl:~it's only gonna get worse.
+
+CFSG2_ACT_15 = ~z~~sl:0.0:1.1~It's ridiculous...~sl:0.4~it's got ridiculous.
+
+CFSG2_ACT_16 = ~z~~sl:0.0:0.8~I mean,~sl:0.1~there's simply no respect for their betters.
+

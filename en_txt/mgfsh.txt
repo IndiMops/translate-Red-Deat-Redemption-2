@@ -1,0 +1,204 @@
+MGFSH_BAIT_LOST = A fish got away with your bait.
+
+MGFSH_BEGIN_AIM_HLP = Hold ~INPUT_AIM~ to grip the rod.
+
+MGFSH_BEGIN_AIM_OBJ = Hold ~INPUT_AIM~ to grip the rod
+
+MGFSH_BEGIN_AIM_TOG_HLP = Press ~INPUT_AIM~ to grip the rod.
+
+MGFSH_BEGIN_AIM_TOG_OBJ = Press ~INPUT_AIM~ to grip the rod
+
+MGFSH_CAST_AIMING_HLP = Hold ~INPUT_ATTACK~ to pull the rod back.
+
+MGFSH_CAST_AIMING_OBJ = Hold ~INPUT_ATTACK~ to pull the rod back
+
+MGFSH_CAST_BAIT = You cannot cast without a bait equipped. You can access the bait wheel by holding ~INPUT_OPEN_WHEEL_MENU~.
+
+MGFSH_CAST_CLOSE = You are too close to another person to cast here.
+
+MGFSH_CAST_DEEP = You are in water too deep to cast here.
+
+MGFSH_CAST_HIGH = You are too high above the water to cast here.
+
+MGFSH_CAST_LOS = Something in the way is preventing you casting here.
+
+MGFSH_CAST_NOT_HERE = You cannot cast out here.
+
+MGFSH_CAST_POWER = Pulling the rod back further before releasing will cast out further.
+
+MGFSH_CAST_RELEASE_HLP = Release ~INPUT_ATTACK~ to cast out.
+
+MGFSH_CAST_RELEASE_OBJ = Release ~INPUT_ATTACK~ to cast out
+
+MGFSH_CAST_WATER = You are too far from the water's edge to cast here.
+
+MGFSH_CAUGHT_POI = ~1w~ poisoned ~2~
+
+MGFSH_CTX_CHOOSE = Bait
+
+MGFSH_CTX_CONTROL = Control
+
+MGFSH_CTX_CUT_LINE = Cut Line
+
+MGFSH_CTX_EQUIP = Equip ~a~
+
+MGFSH_CTX_GRIP = Grip Reel
+
+MGFSH_CTX_HOOK = Hook Fish
+
+MGFSH_CTX_KEEP = Keep
+
+MGFSH_CTX_REEL_IN = Reel In
+
+MGFSH_CTX_REEL_LURE = Reel Lure
+
+MGFSH_CTX_RESET = Reset Cast
+
+MGFSH_CTX_RETURN = Keep and Return to Shore
+
+MGFSH_CTX_THROW_BACK = Throw Back
+
+MGFSH_EQD_BREAD = Bread Bait is best for catching Perch and Redfin Pickerel. Perch are found in the north, while Redfin Pickerel live in the south.
+
+MGFSH_EQD_CHEESE = Cheese Bait is best for catching Bluegill and Rock Bass. These fish can be found almost everywhere.
+
+MGFSH_EQD_CORN = Corn Bait is best for catching Bullhead Catfish and Chain Pickerel. Bullhead Catfish only live in the swamps, but Chain Pickerel can be found almost everywhere.
+
+MGFSH_EQD_CRAYFISH = Crayfish are great for catching larger fish, especially Largemouth Bass that can be found in deeper parts of both rivers and lakes.
+
+MGFSH_EQD_CRICKET = Crickets are great for catching larger fish, especially Smallmouth Bass that live mostly in rivers, but can also be found in some larger bodies of water.
+
+MGFSH_EQD_LURE_LAKE = Lake Lures are excellent for catching lake dwelling large fish, especially Lake Sturgeon and Muskie.
+
+MGFSH_EQD_LURE_RIVER = River Lures are excellent for catching river dwelling large fish, especially Northern Pike and Sockeye Salmon.
+
+MGFSH_EQD_LURE_SWAMP = Swamp Lures are excellent for catching swamp dwelling large fish, especially Channel Catfish and Longnose Gar.
+
+MGFSH_EQD_SPECIAL_LURE_LAKE = The Special Lake Lure is used for catching legendary fish that live in lakes.
+
+MGFSH_EQD_SPECIAL_LURE_RIVER = The Special River Lure is used for catching legendary fish that live in rivers.
+
+MGFSH_EQD_SPECIAL_LURE_SWAMP = The Special Swamp Lure is used for catching legendary fish that live in swamps.
+
+MGFSH_EQD_SPECIAL_SPINNER = The Special Spinner is excellent for catching all larger fish and legendary fish.
+
+MGFSH_EQD_SPECIAL_SPINNER_MP = The Special Spinner is excellent for catching all larger fish.
+
+MGFSH_EQD_WORM = Worms are great for catching larger fish, especially Steelhead Trout that can be found in wide rivers.
+
+MGFSH_EQ_BAIT1 = Hold ~INPUT_OPEN_WHEEL_MENU~ to use the bait wheel
+
+MGFSH_EQ_BAIT2_ABI1 = ~INPUTGROUP_RADIAL_MENU_NAV~ Select the cheese
+
+MGFSH_EQ_BAIT2_FSH1 = ~INPUTGROUP_RADIAL_MENU_NAV~ Select the cricket
+
+MGFSH_EQ_BAIT2_FUD1 = ~INPUTGROUP_RADIAL_MENU_NAV~ Select the lake lure
+
+MGFSH_EQ_BAIT2_WAR1 = ~INPUTGROUP_RADIAL_MENU_NAV~ Select the special lake lure
+
+MGFSH_EQ_BAIT3_ABI1 = Release ~INPUT_OPEN_WHEEL_MENU~ to equip the cheese
+
+MGFSH_EQ_BAIT3_FSH1 = Release ~INPUT_OPEN_WHEEL_MENU~ to equip the cricket
+
+MGFSH_EQ_BAIT3_FUD1 = Release ~INPUT_OPEN_WHEEL_MENU~ to equip the lake lure
+
+MGFSH_EQ_BAIT3_WAR1 = Release ~INPUT_OPEN_WHEEL_MENU~ to equip the special lake lure
+
+MGFSH_EQ_BAIT_ANY = Use ~INPUT_RADIAL_MENU_SLOT_NAV_PREV~ or ~INPUT_RADIAL_MENU_SLOT_NAV_NEXT~ to select a bait then release ~INPUT_OPEN_WHEEL_MENU~ to equip
+
+MGFSH_EQ_REBAIT = Press ~INPUT_MINIGAME_FISHING_QUICK_EQUIP~ to quick-equip ~1~ or hold ~INPUT_OPEN_WHEEL_MENU~ to use the bait wheel
+
+MGFSH_EQ_ROD1 = Hold ~INPUT_OPEN_WHEEL_MENU~ and tap ~INPUT_SELECT_NEXT_WHEEL~ to use the Item Wheel
+
+MGFSH_EQ_ROD2 = ~INPUTGROUP_RADIAL_MENU_NAV~ Select the fishing rod
+
+MGFSH_EQ_ROD3 = Release ~INPUT_OPEN_WHEEL_MENU~ to equip the fishing rod
+
+MGFSH_FISH_ESC1 = The fish got away with your bait. When the fish is struggling control it with ~INPUT_MINIGAME_FISHING_LEFT_AXIS_X~ instead of reeling it in.
+
+MGFSH_FISH_ESC2 = The line snapped and the fish got away with your lure. When the fish is struggling control it with ~INPUT_MINIGAME_FISHING_LEFT_AXIS_X~ instead of reeling it in.
+
+MGFSH_FISH_ESC3 = The fish got away. When the fish is struggling control it with ~INPUT_MINIGAME_FISHING_LEFT_AXIS_X~ instead of reeling it in.
+
+MGFSH_FISH_ESC4 = The fish has died.
+
+MGFSH_FLICK_BAIT = Tap ~INPUT_ATTACK~ to attract fish by flicking the line. Flicking too often will spook the fish.
+
+MGFSH_FULL_SAT = You currently have no space in your Satchel to carry any more ~1~. Sell, cook or discard ~1~ to make more space.
+
+MGFSH_HNR_REL = Fish Released
+
+MGFSH_HOLD_REEL = Push and hold ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL~ in any direction to prevent the fish pulling out line. Overuse risks snapping the line.
+
+MGFSH_HOLD_REEL_KM = Hold ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ and ~INPUT_MINIGAME_FISHING_MANUAL_REEL_OUT_MODIFER~ to prevent the fish pulling out line. Overuse risks snapping the line.
+
+MGFSH_HOOK_FISH_HLP = Press ~INPUT_ATTACK~ to hook the fish when you feel a bite. The rod will be pulled strongly downwards.
+
+MGFSH_HOOK_FISH_OBJ = Press ~INPUT_ATTACK|PromptId=CTX_HOOK,Gutter~ to hook the fish when you feel a bite
+
+MGFSH_HOOK_ROD1_HLP = Use ~INPUT_MINIGAME_FISHING_LEFT_AXIS_X~ to control the fish while it is struggling.
+
+MGFSH_HOOK_ROD1_OBJ = Use ~INPUT_MINIGAME_FISHING_LEFT_AXIS_X~ to control the fish while it is struggling
+
+MGFSH_HOOK_ROD2 = Stop reeling when the fish is struggling. Continuing can cause the line to break.
+
+MGFSH_MISSED_BITE1 = You were too slow trying to hook the fish.
+
+MGFSH_MISSED_BITE2 = Wait until you feel the fish take a stronger bite.
+
+MGFSH_NAME_WV2 = Hamish
+
+MGFSH_NIBBLE_DESC = Fish attracted to the bait will often nibble before taking a bite.
+
+MGFSH_OBJECT_REEL = Rotate ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL|PromptStyle=3~ clockwise to reel in.
+
+MGFSH_OBJECT_REEL_AUTO = Hold ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ to reel in.
+
+MGFSH_OBJECT_REEL_KM = Hold ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ to reel in. Press ~INPUT_MINIGAME_FISHING_REEL_SPEED_UP~ to increase reeling speed.
+
+MGFSH_PUMP_ROD = Pull down ~INPUTGROUP_MINIGAME_FISHING_LSTICK_ALL~ to drag the fish towards you then quickly reel in line to make faster progress.
+
+MGFSH_PUMP_ROD_KM = Push up ~INPUTGROUP_MINIGAME_FISHING_LSTICK_ALL~ to drag the fish towards you then quickly reel in line to make faster progress.
+
+MGFSH_REEL_FISH_AUTO_HLP = Hold ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ to reel in the fish while it is tired.
+
+MGFSH_REEL_FISH_AUTO_OBJ = Hold ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN|PromptId=CTX_REEL~ to reel in the fish while it is tired
+
+MGFSH_REEL_FISH_HLP = Quickly rotate ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL|PromptStyle=3~ to reel in the fish while it is tired.
+
+MGFSH_REEL_FISH_HLP2_KM = Hold ~INPUT_MINIGAME_FISHING_MANUAL_REEL_OUT_MODIFER~ to reel out. Press ~INPUT_MINIGAME_FISHING_REEL_SPEED_DOWN~ to decrease reeling speed.
+
+MGFSH_REEL_FISH_HLP_KM = Hold ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ to reel in the fish while it is tired. Press ~INPUT_MINIGAME_FISHING_REEL_SPEED_UP~ to increase reeling speed.
+
+MGFSH_REEL_FISH_OBJ = Quickly rotate ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL|PromptId=CTX_REEL,Gutter,PromptStyle=3~ to reel in the fish while it is tired
+
+MGFSH_REEL_FISH_OBJ_KM = Hold ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN|PromptId=CTX_REEL~ to reel in the fish while it is tired and press ~INPUT_MINIGAME_FISHING_REEL_SPEED_UP~ to increase reeling speed
+
+MGFSH_REEL_OBJ = Press ~INPUT_MINIGAME_FISHING_RESET_CAST~ to reset cast
+
+MGFSH_SPOOL_EMPTY = Your spool is out of line. Quickly reel in some line to prevent it snapping.
+
+MGFSH_STOW_HORSE = Large fish can be stowed on your horse.
+
+MGFSH_WAIT_LURE_AUTO_HLP = Hold ~INPUT_AIM~ and ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ to attract fish.
+
+MGFSH_WAIT_LURE_GRIP = Hold ~INPUT_AIM|PromptId=CTX_GRIP,Gutter~ to grip the reel
+
+MGFSH_WAIT_LURE_GRIP_TOG = Press ~INPUT_AIM|PromptId=CTX_GRIP,Gutter~ to grip the reel
+
+MGFSH_WAIT_LURE_HLP = Hold ~INPUT_AIM~ and slowly rotate ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL|PromptStyle=3~ to attract fish.
+
+MGFSH_WAIT_LURE_HLP_KM = Hold ~INPUT_AIM~ and ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ to attract fish when reeling slowly. Press ~INPUT_MINIGAME_FISHING_REEL_SPEED_UP~ to increase reeling speed or ~INPUT_MINIGAME_FISHING_REEL_SPEED_DOWN~ to decrease.
+
+MGFSH_WAIT_LURE_HOOK = Slowly rotate ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL|PromptId=CTX_REEL,Gutter,PromptStyle=3~ to attract fish then press ~INPUT_ATTACK|PromptId=CTX_HOOK~ when you feel a bite
+
+MGFSH_WAIT_LURE_HOOK_AUTO = Hold ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN|PromptId=CTX_REEL~ to attract fish then press ~INPUT_ATTACK|PromptId=CTX_HOOK~ when you feel a bite
+
+MGFSH_WAIT_LURE_HOOK_KM = Hold ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN|PromptId=CTX_REEL~ to attract fish when reeling slowly then press ~INPUT_ATTACK|PromptId=CTX_HOOK~ when you feel a bite
+
+MGFSH_WAIT_LURE_TOG_AUTO_HLP = Hold ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ to attract fish.
+
+MGFSH_WAIT_LURE_TOG_HLP = Press ~INPUT_AIM~ and slowly rotate ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL|PromptStyle=3~ to attract fish.
+
+MGFSH_WAIT_LURE_TOG_HLP_KM = Hold ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ to attract fish when reeling slowly. Press ~INPUT_MINIGAME_FISHING_REEL_SPEED_UP~ to increase reeling speed or ~INPUT_MINIGAME_FISHING_REEL_SPEED_DOWN~ to decrease.
+

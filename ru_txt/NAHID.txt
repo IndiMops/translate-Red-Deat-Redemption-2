@@ -1,0 +1,38 @@
+FETCH_NATURALIST_POACHERS_HELP_INTRO = Перебейте ~COLOR_ENEMY~браконьеров~s~ и освободите животных.
+
+FETCH_NATURALIST_POACHERS_HELP_NEARBY = Зачистите логово ~1b~, перебив всех ~COLOR_ENEMY~браконьеров~s~ и освободив животных.
+
+FETCH_NATURALIST_POACHERS_HELP_REMOTE_PLAYER_STARTED_MISSION = ~1~ участвует в освобождении пойманных животных ~2b~. Доберитесь до этого игрока, чтобы тоже принять участие.
+
+FETCH_NATURALIST_POACHERS_OBJ_DESTROY = Перебейте ~COLOR_ENEMY~браконьеров~s~.
+
+FETCH_NATURALIST_POACHERS_OBJ_FIND = Освободите ~COLOR_MP_OBJECTIVE_NEUTRAL~животное~s~.
+
+FETCH_NATURALIST_POACHERS_OBJ_FIND_PLURAL = Освободите ~COLOR_MP_OBJECTIVE_NEUTRAL~животных~s~.
+
+FETCH_NATURALIST_POACHERS_OBJ_GO_TO_0 = Направляйтесь ~1~.
+
+FETCH_NATURALIST_POACHERS_SCORETIMER_OBJECTIVE_DESTROYED = Животное убито
+
+FETCH_NATURALIST_POACHERS_SCORETIMER_OBJECTIVE_PASS = Игрок ~1p~ освободил животное
+
+FETCH_NATURALIST_POACHERS_SCORETIMER_OBJECTIVE_PASS_YOU = Вы освободили животное
+
+FETCH_NATURALIST_POACHERS_SCORETIMER_OBJECTIVE_PASS_YOUR = Животное освобождено
+
+FETCH_NATURALIST_POACHERS_SHARD_DESC_PRIMARY = Зачистите ~COLOR_ENEMY~лагерь браконьеров~s~ и освободите животных
+
+FETCH_NATURALIST_POACHERS_SHARD_DESC_PRIMARY_PLURAL = Зачистите ~COLOR_ENEMY~лагерь браконьеров~s~ и освободите животных
+
+FETCH_NATURALIST_POACHERS_SHARD_DESTROYED = Животное убито
+
+FETCH_NATURALIST_POACHERS_SHARD_DESTROYED_PLURAL = Животные убиты
+
+FETCH_NATURALIST_POACHERS_SHARD_OVER_ABANDON = Вы покинули пойманных животных
+
+FETCH_NATURALIST_POACHERS_SHARD_PRIMARY_PASS = Животное освобождено
+
+FETCH_NATURALIST_POACHERS_SHARD_PRIMARY_PASS_PARTIAL = Животных освобождено: ~1~/~2~
+
+FETCH_NATURALIST_POACHERS_SHARD_PRIMARY_PASS_PLURAL = Животные освобождены
+

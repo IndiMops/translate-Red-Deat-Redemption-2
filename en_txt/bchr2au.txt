@@ -1,0 +1,8 @@
+BCHR2_ACT_1 = ~z~Hey! John Marston, proof people can change.
+
+BCHR2_ACT_2 = ~z~I don't know about that.
+
+BCHR2_ACT_3 = ~z~You have to believe it or it will never happen.
+
+BCHR2_ACT_4 = ~z~I'm trying.
+

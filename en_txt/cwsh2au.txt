@@ -1,0 +1,10 @@
+CWSH2_ACT_1 = ~z~Did you see that woman, Mary Gillis, about?
+
+CWSH2_ACT_2 = ~z~Yes, yes I did.
+
+CWSH2_ACT_3 = ~z~I never liked her.
+
+CWSH2_ACT_4 = ~z~I know, you already told me that.
+
+CWSH2_ACT_5 = ~z~Ideas above her station, above anyone's station that one.
+

@@ -1,0 +1,28 @@
+NASBE_BANT1_1 = ~z~~sl:0.0:1.89~You are shaking, my friend.~sl:~If you go in there with fear, you are dead, you understand?
+
+NASBE_BANT1_2 = ~z~No, sir. Ready is all I am. Just ready...
+
+NASBE_BANT2_1 = ~z~~sl:0.0:3.42~Believe me, my friend, this bear did not go in there to run away.~sl:~It is waiting for us.
+
+NASBE_BANT2_2 = ~z~~sl:0.0:0.5~Good.~sl:0.87~Means no more running.
+
+NASBE_BANT3_1 = ~z~~sl:0.0:2.0~I have seen this behavior before.~sl:0.57~This one has a taste for man.
+
+NASBE_BANT3_2 = ~z~That so?
+
+NASBE_CAGE_01 = ~t~~sl:0.0:2.84~In Spanish: I have killed many of your brothers and sisters over the years,~sl:0.53:0.61~but you,~sl:0.83~you are special.
+
+NASBE_CAGE_02 = ~t~~sl:0.0:2.3~In Spanish: I expected more from you, my golden friend.~sl:0.8:2.45~I think maybe you wanted to get caught, eh?
+
+NASBE_CAGE_03 = ~t~~sl:0.0:2.4~In Spanish: Those buffoons look at you and they see money.~sl:0.4~I should put them in the cage with you, eh?
+
+NASBE_MANKILL_1 = ~z~~sl:0.0:2.0~You heard about that bear around here?~sl:~Supposed to be a mankiller.
+
+NASBE_MANKILL_2 = ~z~That right?
+
+NASBE_MANKILL_3 = ~z~
+
+NASBE_PELTS_1 = ~z~~sl:0.0:1.1~You hear about Martin?~sl:0.5:1.5~Hunting for pelts with his boy.~sl:0.4:1.6~Damn bear got the two of 'em.
+
+NASBE_PELTS_2 = ~z~Goddamn.
+

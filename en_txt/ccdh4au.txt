@@ -1,0 +1,20 @@
+CCDH4_ACTA_1 = ~z~
+
+CCDH4_ACTA_2 = ~z~~sl:0.0:1.8~The thing is...~sl:~thing is, Dutch, it isn't...
+
+CCDH4_ACTA_3 = ~z~~sl:0.0:1.3~Well...~sl:~what's the plan?
+
+CCDH4_ACTA_4 = ~z~~sl:0.0:1.2~I mean,~sl:~after Blackwater we don't want any more deaths.
+
+CCDH4_ACTA_5 = ~z~~sl:0.0:1.2~I ain't just some...~sl:0.5~two-bit huckster, Hosea.
+
+CCDH4_ACTA_6 = ~z~~sl:0.0:1.0~I...~sl:0.2:2.7~I am willing to die for this if that is what it takes.~sl:~But right now,
+
+CCDH4_ACTA_7 = ~z~I need to be left alone by all the second guessers.
+
+CCDH4_ACTBALT_1 = ~z~As you wish, my friend.
+
+CCDH4_ACTBALT_2 = ~z~I'll get us out of this Arthur, you know that.
+
+CCDH4_ACTB_1 = ~z~As you wish, my friend.
+

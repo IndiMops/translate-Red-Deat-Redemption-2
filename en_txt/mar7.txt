@@ -1,0 +1,86 @@
+0x5B909F83 = Return to ~o~Charles~s~
+
+MAR7_ABANDONED = Charles was abandoned.
+
+MAR7_ABANDON_DEVON = Mr. Devon was abandoned.
+
+MAR7_ABANDON_WOOD = The lumber was abandoned.
+
+MAR7_ATTACK_DEVON = You attacked Mr. Devon.
+
+MAR7_ATTACK_DRAFT = You attacked the horses.
+
+MAR7_ATTACK_TOOLS = You damaged the Tools.
+
+MAR7_ATTACK_WAYNE = You attacked Mr. Wayne.
+
+MAR7_ATTACK_WOOD = You damaged the lumber.
+
+MAR7_CHARLES = Charles
+
+MAR7_DEVON = Mr. Devon
+
+MAR7_DEVON_DEAD = Mr. Devon has died.
+
+MAR7_LAW_ALERTED = You became wanted.
+
+MAR7_LOST_THIEVES = The Thieves escaped.
+
+MAR7_NILS = Nils
+
+MAR7_NILS_DEAD = Nils has died.
+
+MAR7_NILS_SPOOK = You spooked Nils.
+
+MAR7_OBJ01A = Follow ~o~Charles~s~ to Manzanita Post
+
+MAR7_OBJ02A = Follow ~o~Charles~s~ to Manzanita Post
+
+MAR7_OBJ02B = Acquire some tools from ~o~Nils~s~
+
+MAR7_OBJ03A = Follow ~o~Charles~s~ to Beecher's Hope
+
+MAR7_OBJ04A = Defeat the ~e~Skinner Brothers Gang~s~
+
+MAR7_OBJ05A = Pursue the ~e~kidnappers~s~ into the ~o~woods~s~
+
+MAR7_OBJ06A = Defeat the ~e~Skinner Brothers~s~
+
+MAR7_OBJ07A = Follow ~o~Charles~s~
+
+MAR7_OBJ07B = Defeat the ~e~Skinner Brothers~s~
+
+MAR7_OBJ07C = Deal with the ~e~thieves~s~
+
+MAR7_OBJ07D = Find ~o~Mr. Wayne~s~
+
+MAR7_OBJ07E = Pick up the ~o~tools~s~
+
+MAR7_OBJ08A = Return to the ~o~wagons~s~
+
+MAR7_OBJ08B = Place the tools onto the ~o~wagon~s~
+
+MAR7_OBJ08C = Get on the ~o~wagon~s~
+
+MAR7_OBJ08D = Wait for ~o~Charles~s~
+
+MAR7_OBJ09A = Go to ~o~Beecher's Hope~s~
+
+MAR7_OBJ09B = Pick up ~o~Charles~s~
+
+MAR7_TOOLS = Tools
+
+MAR7_UC_TOOLS = Pick Up
+
+MAR7_UC_WAGON = Drop Off
+
+MAR7_WAGON = Wagon
+
+MAR7_WAGON_ONE = The wagon became immobile.
+
+MAR7_WAGON_TWO = The wagon became immobile.
+
+MAR7_WAYNE = Mr. Wayne
+
+MAR7_WAYNE_DEAD = Mr. Wayne has died.
+

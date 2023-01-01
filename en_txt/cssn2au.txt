@@ -1,0 +1,10 @@
+CSSN2_ACT_1 = ~z~Oh god no!
+
+CSSN2_ACT_2 = ~z~What do you want now?
+
+CSSN2_ACT_3 = ~z~I just came to pay my respects to the fallen hero.
+
+CSSN2_ACT_4 = ~z~Well consider them paid.
+
+CSSN2_ACT_5 = ~z~Go on, get outta here.
+

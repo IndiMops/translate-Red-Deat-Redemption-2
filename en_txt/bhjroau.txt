@@ -1,0 +1,102 @@
+JFIN_RO_1 = ~z~~sl:0.0:2.6~I doubt you'll find too many more posters~sl:0.0:2.1~going up in the station house, sir.~sl:0.2:2.3~Reckon Rhodes has reached the end of that~sl:~long road to respectability... finally.
+
+JFRT_RO_01 = ~z~Back for your payment? It's right where you left it.
+
+JFRT_RO_02 = ~z~Finally collecting on that bounty. Okay then. Coins are there.
+
+JFRT_RO_03 = ~z~I would have sent you your money, but I didn't have an address. Right here, sir. On the desk.
+
+JMRE_RO_01 = ~z~Should be something else going up in the station in a little while. Keep an eye out.
+
+JMRE_RO_02 = ~z~We'll be offering a price on another outlaw very soon. Check the station presently.
+
+JMRE_RO_03 = ~z~Got another outlaw we're seeking. Poster will be done and in the station in no time hence.
+
+JMRE_RO_04 = ~z~Should be another poster going up soon. Rhodes means to clean up its environs.
+
+JPAY_ROA_01 = ~z~Alright.
+
+JPAY_ROA_02 = ~z~That's it.
+
+JPAY_ROJ_01 = ~z~Alright.
+
+JPAY_ROJ_02 = ~z~That's it.
+
+JRAL_RO0_01 = ~z~Cell's just there. Can't miss it.
+
+JRAL_RO0_02 = ~z~Don't delay. Put 'em in the cell.
+
+JRAL_RO0_03 = ~z~You going to lock 'em up already?
+
+JRAL_RO0_04 = ~z~I'd be obliged if you'd secure the prisoner.
+
+JRAL_RO1_01 = ~z~Please. The cell.
+
+JRAL_RO1_02 = ~z~You brought them here to be incarcerated, yes?
+
+JRAL_RO1_03 = ~z~Sooner they're celled, the sooner you're paid, sir.
+
+JRDE_RO0_01 = ~z~I don't need to inspect that body any further. Out back please.
+
+JRDE_RO0_02 = ~z~I'd be obliged if you'd take them outside already.
+
+JRDE_RO0_03 = ~z~Take the corpse outside please.
+
+JRDE_RO1_01 = ~z~Please, get the corpse outta here.
+
+JRDE_RO1_02 = ~z~The body's turning, get it outside.
+
+JRDE_RO1_03 = ~z~I don't want a corpse in here. Out back, please!
+
+JRPYE_RO_01 = ~z~Your bounty, sir!
+
+JRPYE_RO_02 = ~z~You've left your money!
+
+JRPYE_RO_03 = ~z~The coins, sir. The coins.
+
+JRPY_RO_01 = ~z~Your payment, sir.
+
+JRPY_RO_02 = ~z~Your payment's collecting dust.
+
+JRPY_RO_03 = ~z~It's just sitting there, sir. Take your payment.
+
+RHO_REBNT_GRTJA_1 = ~z~There's a reward on this one. I've come to collect.
+
+RHO_REBNT_GRTJA_2 = ~z~Excellent. Put him in the cell there. I'll get your money.
+
+RHO_REBNT_GRTJB_1 = ~z~Got a bounty. I hope you're paying.
+
+RHO_REBNT_GRTJB_2 = ~z~Good man. Toss him in the cell there and let's get you paid.
+
+RHO_REBNT_GRT_A_1 = ~z~I have a bounty. I've come to collect.
+
+RHO_REBNT_GRT_A_2 = ~z~Excellent. Put him in the cell there. I'll get your money.
+
+RHO_REBNT_GRT_B_1 = ~z~Got a bounty, if you're interested.
+
+RHO_REBNT_GRT_B_2 = ~z~Good man. Toss him in the cell there and let's get you paid.
+
+RHO_REDM_GRT_A1_1 = ~z~Got a feller here thought he'd try sticking his wife in the trough.
+
+RHO_REDM_GRT_A1_2 = ~z~Thought it'd be bad form to shove him off a cliff my own self.
+
+RHO_REDM_GRT_A2_1 = ~z~This bastard drowned his poor wife in a trough. I'll leave you the honors of killing him.
+
+RHO_REDM_GRT_J1_1 = ~z~Feller here thought his wife was a horse, and shoved her face in a trough. Got space for him?
+
+RHO_REDM_GRT_J2_1 = ~z~This bastard drowned his wife in a horses' trough. I'll leave it to you to deal with him.
+
+RHO_REOT_EXCJA_1 = ~z~Got a prisoner. He was being transported, and some of his buddies in the Lemoyne Raiders tried to free him.
+
+RHO_REOT_EXCJA_2 = ~z~Toss him behind bars, and I'll get you a purse ready.
+
+RHO_REOT_EXC_A_1 = ~z~Got a raider here you might be interested in. His buddies came trying to free him.
+
+RHO_REOT_EXC_A_2 = ~z~Toss him behind bars, and I'll get you a purse ready.
+
+RHO_REOT_ODR_A_1 = ~z~This here O'Driscoll had some friends tried to bust him from his wagon. Didn't quite work the way they'd planned, though.
+
+RHO_REOT_ODR_A_2 = ~z~Well, look at that. Got ourselves a runner, and an O'Driscoll runner at that. Well, this day just got a whole lot better.
+
+RHO_REOT_ODR_A_3 = ~z~Put him in the cell, won't you?
+

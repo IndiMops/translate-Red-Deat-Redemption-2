@@ -1,0 +1,148 @@
+NBX_ASKA_01 = ~z~A city like St Denis's got to have some wanted men. Where are the posters?
+
+NBX_ASKA_02 = ~z~You got any bounties need hunting?
+
+NBX_ASKA_03 = ~z~You want someone to clean up these streets for you? Point me to the bounties you got outstanding.
+
+NBX_ASKJ_01 = ~z~A city like St Denis's got to have some wanted men. Where are the posters?
+
+NBX_ASKJ_02 = ~z~You got any bounties need hunting?
+
+NBX_ASKJ_03 = ~z~You want someone to clean up these streets for you? Point me to the bounties you got outstanding.
+
+NBX_ASK_RPL_01 = ~z~May I direct you to the wall just there.
+
+NBX_ASK_RPL_02 = ~z~The portrait on the wall might interest you.
+
+NBX_ASK_RPL_03 = ~z~Avail yourself of a poster, my friend.
+
+NBX_CON_DEPTIPA_1 = ~z~You going after Lindsey Wofford?
+
+NBX_CON_DEPTIPA_2 = ~z~Might be. Or might just wanna hang his poster on my wall.
+
+NBX_CON_DEPTIPA_3 = ~z~They're a bad lot, the Lemoyne Raiders. Stupid fellers won't leave good enough alone.
+
+NBX_CON_DEPTIPA_4 = ~z~One of these days the government going to get sick of private militias, you know.
+
+NBX_CON_DEPTIPA_5 = ~z~One of these days the government's going to get sick of all of us.
+
+NBX_CON_DEPTIPJ_1 = ~z~You going after Lindsey Wofford?
+
+NBX_CON_DEPTIPJ_2 = ~z~Might be. Or might just want to hang his poster on my wall.
+
+NBX_CON_DEPTIPJ_3 = ~z~They're a bad lot, the Lemoyne Raiders. Stupid fellers won't leave good enough alone.
+
+NBX_CON_DEPTIPJ_4 = ~z~One of these days the government going to get sick of private militias, you know.
+
+NBX_CON_DEPTIPJ_5 = ~z~One of these days the government is going to get sick of all of us.
+
+NBX_CON_DEPWLK_1 = ~z~Don't tell 'em I said that!
+
+NBX_ECF_Q1A1_1 = ~z~The bounty... why you making this feller someone else's problem?
+
+NBX_ECF_Q1J1_1 = ~z~The bounty... why you making this feller someone else's problem?
+
+NBX_ECF_Q1S2_1 = ~z~We, sir, are an urban police force, and the Raiders are, well, mostly a rural nuisance...
+
+NBX_ECF_Q1S2_2 = ~z~my men simply are not suited for this kind of work.
+
+NBX_ECF_Q2A1_1 = ~z~This feller in particular... Wofford, ain't it... why him?
+
+NBX_ECF_Q2A1_2 = ~z~You cut off the head, the body dies... that's the hypothesis, at least.
+
+NBX_ECF_Q2A1_3 = ~z~We shall see if it can be demonstrated with the Lemoyne Raiders.
+
+NBX_ECF_Q2A1_4 = ~z~If the bounty's for this whole outfit, you should have made it more.
+
+NBX_ECF_Q2J1_1 = ~z~This feller in particular... Wofford, ain't it... why him?
+
+NBX_ECF_Q2J1_2 = ~z~You cut off the head, the body dies... that's the hypothesis, at least.
+
+NBX_ECF_Q2J1_3 = ~z~We shall see if it can be demonstrated with the Lemoyne Raiders.
+
+NBX_ECF_Q2J1_4 = ~z~If this bounty's for the whole outfit, you should've made it more.
+
+NBX_EXT_A_01 = ~z~We'd like to have some few words with that one, so bring him in alive.
+
+NBX_EXT_A_02 = ~z~Not to put too fine a point on it, but don't kill'em.
+
+NBX_EXT_A_03 = ~z~Don't be too rough with them, I'd like to be able to feel a pulse.
+
+NBX_EXT_D_01 = ~z~If your hand is forced, then so be it.
+
+NBX_EXT_D_02 = ~z~What state they come in in, we'll leave to your discretion.
+
+NBX_EXT_D_03 = ~z~Remember, they've forfeited their right to life as well as liberty.
+
+NBX_GREETNEG_A_01 = ~z~Don't get ahead of yourself.
+
+NBX_GREETNEG_A_02 = ~z~Don't make assumptions about me, friend.
+
+NBX_GREETNEG_J_01 = ~z~Don't get ahead of yourself.
+
+NBX_GREETNEG_J_02 = ~z~Don't make assumptions about me, friend.
+
+NBX_GREETPOS_A_01 = ~z~Okay, Chief.
+
+NBX_GREETPOS_A_02 = ~z~Sure, I'll take a look.
+
+NBX_GREETPOS_J_01 = ~z~Okay, Chief.
+
+NBX_GREETPOS_J_02 = ~z~Sure, I'll take a look.
+
+NBX_NBS_IG2_TIP_1 = ~z~Anthony Foreman, check that saloon in the slum for him.
+
+NBX_NBS_IG2_TIP_2 = ~z~He might have a bounty on his head, but you'd hardly know it.
+
+NBX_NBS_IG2_TIP_3 = ~z~Carries on about his business in the less salubrious parts of town, knowing the law won't dare to come looking.
+
+NBX_NBS_Q1A1_1 = ~z~Is it that you can't go in the slums to get Foreman, or you won't?
+
+NBX_NBS_Q1J1_1 = ~z~Is it that you can't go in the slums to get Foreman, or you won't?
+
+NBX_NBS_Q1S2_1 = ~z~That's a mighty forward line of inquiry. The slum dwellers can't be helped, sir. So we're not going to try.
+
+NBX_NBS_Q2J1_1 = ~z~As a matter of fact, I heard about this feller years ago... what more can you tell me of him then?
+
+NBX_NBS_Q2J2_1 = ~z~He's a panderer, a thief, a cheat, a braggart, and somewhat of a hero to a few mistaken fools.
+
+NBX_NBS_Q2J2_2 = ~z~Simply put, the man is bad for society.
+
+NBX_NBS_Q2J2_3 = ~z~Society... well, it's what you make it.
+
+NBX_RTL_DONE4_1 = ~z~Look here, I hope you're going to use that permit I gave you soon.
+
+NBX_RTL_DONE4_2 = ~z~There's bounty poster up on the wall there,
+
+NBX_RTL_DONE4_3 = ~z~but not one you can demonstrate your machine on.
+
+NBX_RTL_DONE7_1 = ~z~Look who we have here... that was some mess with McDaniels and Professor Bell.
+
+NBX_RTL_DONE7_2 = ~z~You ain't no executioner, that's for sure.
+
+NBX_RTL_DONE7_3 = ~z~If you think you're a bounty hunter though, there's a poster on the wall there.
+
+NBX_TAKEP_A_01 = ~z~Guess all that remains is to bring 'em in.
+
+NBX_TAKEP_A_02 = ~z~If that's all, I'll get after 'em.
+
+NBX_TAKEP_J_01 = ~z~Guess all that remains is to bring 'em in.
+
+NBX_TAKEP_J_02 = ~z~If that's all, I'll get after 'em.
+
+NBX_TAKE_LVE_01 = ~z~Bonne chance!
+
+NBX_TAKE_LVE_02 = ~z~May the virtuous prosper!
+
+NBX_TAKE_LVE_03 = ~z~May justice be done.
+
+STD_INTR_A_01 = ~z~Well, you're not here to turn yourself in... So I conclude you're a bounty hunter. May I direct you to the poster on the wall there?
+
+STD_INTR_A_02 = ~z~If you're a bounty chaser, take a poster. If you're anything else, take a seat.
+
+STD_INTR_B_01 = ~z~I believe you know where we hang the wanted posters.
+
+STD_INTR_B_02 = ~z~Bounty posters are stuck where they always are, sir.
+
+STD_INTR_B_03 = ~z~Ah, an art lover, I see. Take a portrait off the wall if you want one.
+

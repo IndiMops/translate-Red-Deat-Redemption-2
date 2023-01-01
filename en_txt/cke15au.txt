@@ -1,0 +1,24 @@
+CKE15_ACTION_A_1 = ~z~Look at you... you ain't so scary...
+
+CKE15_ACTION_A_2 = ~z~I thought O'Driscolls ate babies... you look like a baby.
+
+CKE15_ACTION_A_3 = ~z~Oh, I am a baby... I'm not an O'Driscoll...
+
+CKE15_ACTION_A_4 = ~z~Well you're certainly something.
+
+CKE15_ACTION_A_5 = ~z~Could you get me a glass of water?
+
+CKE15_ACTION_A_6 = ~z~No... go fuck yourself.
+
+CKE15_ACTION_A_7 = ~z~
+
+CKE15_ACTION_B_1 = ~z~Here you go.
+
+CKE15_ACTION_B_2 = ~z~
+
+CKE15_ACTION_B_3 = ~z~Thank you miss... thank you kindly.
+
+CKE15_ACTION_B_4 = ~z~Don't mind Karen... she's lovely really.
+
+CKE15_ACTION_B_5 = ~z~If you say so, miss. I'm sure she is.
+

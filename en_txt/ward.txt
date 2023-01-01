@@ -1,0 +1,562 @@
+0926_AMD = Choose a pair of chaps
+
+0x0522448B = Choose a bandana
+
+0x0655B70A = Spats
+
+0x08FBBD8D = Off-Hand Holsters
+
+0x0A4C5A4D = Owned Hats
+
+0x0A5D9C89 = Gender
+
+0x0B1A4F87 = Crafted Chaps
+
+0x0B2023AF = Choose a vest
+
+0x0BEC46B6 = Head
+
+0x0C7F4278 = Owned Gloves
+
+0x0C60ABB0 = Crafted Gloves
+
+0x0C6157F9 = Outfits On Horse
+
+0x0D1FFFF1 = These ~1p~ are equipped
+
+0x0D4B6A79 = This will always stay on your Horse
+
+0x0DB333EB = Apron
+
+0x0F57DAED = Pants
+
+0x0FB80479 = Nightgowns
+
+0x1B1A83AE = Off-hand holster owned. You can shoot two sidearm weapons at once.
+
+0x1B5C7C58 = Bandanas
+
+0x1BB05680 = Choose a Satchel
+
+0x1BCBF0FC = Owned Masks
+
+0x1BDBDCAD = Put On
+
+0x1C8ACF98 = Weapon Equipment
+
+0x1CCBA512 = Full Outfits
+
+0x1F38B0CE = Owned Spurs
+
+0x1F4020EE = Suspenders
+
+0x1FF4C13A = Neckwear
+
+0x1FFD1CB5 = Modify your shirts appearance
+
+0x2B231619 = Garment Sets
+
+0x2C87EF01 = Owned Gun Belt Trinkets
+
+0x2FF08C76 = Pants
+
+0x3B1EE436 = Cannot equip this ~1p~
+
+0x3DFE4658 = Owned Ponchos
+
+0x3E090492 = Eyewear
+
+0x4A26B30C = Gun Belts
+
+0x4A78D7F5 = Cannot equip ~1p~
+
+0x4AA054B8 = Chaps
+
+0x4ADF5826 = Wardrobe
+
+0x4B903773 = Choose eyewear
+
+0x4CC179EA = Choose an off-hand
+
+0x4D3E7865 = Eyewear
+
+0x4E5C7D63 = Hat
+
+0x4EF7CD09 = Owned Overalls
+
+0x4F175C97 = Choose a bandolier
+
+0x5B630188 = Gloves
+
+0x5C4EE6A9 = You do not own anything for this category
+
+0x5D6E2B69 = Choose an off-hand holster
+
+0x5E56F3E2 = Role Outfits
+
+0x5F716C04 = Shawl
+
+0x6BCB143B = Owned Garment Sets
+
+0x6D8DEA57 = Left-Hand Rings
+
+0x6FF9C55C = Choose a pair of gloves
+
+0x7CE5AC89 = Choose right-hand rings
+
+0x7CE68A5E = Talismans
+
+0x7D4A5210 = Gauntlets
+
+0x7D8CA974 = Vests
+
+0x7D2039E4 = Chaps
+
+0x7E909AF7 = Skirt
+
+0x7FB63939 = Choose a skirt
+
+0x7FDE0040 = Headwear
+
+0x8A15E623 = Choose neckwear
+
+0x8AE6839D = Belt
+
+0x8AFC2AEE = Owned Vests
+
+0x8B075F12 = Scarf
+
+0x8B1D0092 = Choose talismans
+
+0x8C021BF7 = Buckles
+
+0x8C26A295 = Boots
+
+0x8C37AB3C = Hat Accessory
+
+0x8C3374F2 = Corsets
+
+0x8CB1A12B = Modify
+
+0x8F31FF63 = Choose an upper garb
+
+0x8F61E226 = Choose to equip this ~1p~
+
+0x8F20514B = Bandana
+
+0x9C7F0D2C = Buckle
+
+0x9E22B555 = Cannot equip these ~1p~
+
+0x9E57B6DF = Crafted Vests
+
+0x9E992F5C = Tailors
+
+0x9F4D3611 = Bracelet
+
+0x13CE1DA7 = Glasses
+
+0x16DA3185 = Owned Shirts
+
+0x18BED393 = Spurs
+
+0x19A2AA52 = Owned Eyewear
+
+0x23D488E9 = Choose a pair of overalls
+
+0x24A6F574 = Gun belt trinket
+
+0x31AB7A36 = Choose a gun belt
+
+0x31B96D08 = Undergarment
+
+0x31D92FC2 = You can't modify this part of your outfit.
+
+0x34F1A191 = ~1p~ are equipped
+
+0x35BE97C4 = Choose a pair of pants
+
+0x35EC306F = Delete Outfit
+
+0x36E32204 = Store On Horse
+
+0x43A80D07 = Overalls
+
+0x44F97770 = Weapon Equipment
+
+0x49F59722 = Owned Coats
+
+0x51E2B36B = Ring
+
+0x58C00D67 = Vest
+
+0x60FF07E0 = Chaps
+
+0x63F38CD7 = Owned Left-Hand Rings
+
+0x68CF26D1 = Dress
+
+0x71E644D9 = Right-hand ring
+
+0x73EE66F7 = Save Outfit
+
+0x76A1AF9F = Gun Belt
+
+0x76ED9062 = Knife Holster
+
+0x78DFD11C = Nightgowns
+
+0x88DF8FA7 = Masks On Horse
+
+0x91AC863E = Buckles
+
+0x95EA1E5F = Remove your ~1p~
+
+0x97FB3046 = Outfits
+
+0x117B0F4E = Owned Pants
+
+0x177EB3A9 = Coats
+
+0x254DC7CD = Upper Garments
+
+0x306EB5D2 = Choose a hair accessory
+
+0x350FD2B2 = Lower Garments
+
+0x409E5D8E = Choose suspenders
+
+0x462EC6BF = Coat
+
+0x487DA6CE = Choose a corset
+
+0x559DAFE8 = Upper garb
+
+0x566D35A9 = Beard
+
+0x654F22E1 = Owned Skirts
+
+0x664E60D1 = Suspenders
+
+0x666C145D = Owned Off-Hands
+
+0x678F9329 = Lower garb
+
+0x695D711D = Mask
+
+0x703E2086 = Owned Boots
+
+0x770CA6EF = Crafted Hats
+
+0x823CB01A = Off-hand holsters reinforced. Degradation of weapons has slowed.
+
+0x826C344C = Modify your outfit
+
+0x830FFFD5 = Mask
+
+0x939F80C2 = Stolen Hats
+
+0x953DF4DA = Off-Hand
+
+0x969B2600 = Boots
+
+0x1124C4E1 = ~1p~ is equipped
+
+0x2055A235 = Bag Strap
+
+0x2314B57F = Badge
+
+0x3359B293 = Gun Belt Trinkets
+
+0x3906E5D6 = Accessory
+
+0x4884C22C = Bandoliers
+
+0x7223F966 = Reward Gauntlets
+
+0x7270FEAE = General Store
+
+0x8420EF72 = Belts
+
+0x8816DC96 = Skirts
+
+0x9039C125 = Nightgown
+
+0x9401EA22 = Left-hand ring
+
+0x9647AFF4 = Choose a headband
+
+0x18902EF7 = Owned Suspenders
+
+0x21932F1E = Rented Room
+
+0x27580CB5 = Gauntlets
+
+0x40415AF1 = Right-Hand Rings
+
+0x47765F3A = Boots
+
+0x65983E9E = Outfit
+
+0x67455E2E = Choose spurs for your boots
+
+0x69857D66 = Bandanas
+
+0x94707DF4 = Modify
+
+0x98702B36 = Satchels
+
+0x423689EB = Choose a pair of boots
+
+0x430833B0 = Bandoliers
+
+0x677302D2 = Bandolier
+
+0x736387D6 = Gun belts upgraded. Base ammo capacity for sidearm weapons has increased.
+
+0x765261AD = This outfit is not saved and can be lost when stored on a horse.
+
+0x770846B0 = Ponchos
+
+0x6461742E = Crafted Coats
+
+0x6555257E = Gun Belts
+
+0x6964252C = Choose a primary holster
+
+0x9472259A = Holster
+
+0x18334890 = Stockings
+
+0x47774862 = Primary holsters reinforced. Degradation of weapons has slowed.
+
+0x64879394 = Choose a dress
+
+0x77578471 = Dresses
+
+0x88576141 = ~COLOR_RED~~1~ out of ~2~~s~ outfits saved
+
+0xA0B1330A = Bandana
+
+0xA0D1EBDB = Talisman
+
+0xA1EE0C13 = Crafted Masks
+
+0xA1F49D99 = Neckwear
+
+0xA4C3FA7B = Hair Accessories
+
+0xA9C5192F = Color
+
+0xA45CB09D = Boot Accessories
+
+0xA333C4A2 = Satchels
+
+0xA6198FB5 = Talismans
+
+0xAC27F743 = Choose a hat
+
+0xAE4E38B1 = Neckwear
+
+0xAE521C32 = Primary Holsters
+
+0xB4DA81A4 = ~1~ out of ~2~ outfits saved
+
+0xB7F7466B = Remove From Horse
+
+0xB8AFB49C = Headband
+
+0xB271EB33 = Owned Bandanas
+
+0xB3368A0F = Primary Holsters
+
+0xB4035680 = Owned Right-Hand Rings
+
+0xBA64DDD2 = Owned Hats
+
+0xBA883851 = Bag
+
+0xBB1CB69A = Gauntlets
+
+0xBB6401A9 = Camp
+
+0xBC00941E = Skirts
+
+0xBC5B323B = Wrist Accessory
+
+0xBD523619 = Pants
+
+0xBF5A502B = Gauntlets
+
+0xBFB587CA = You can't modify your shirt currently
+
+0xC0D58706 = Owned Chaps
+
+0xC1D3EE45 = Change how you wear your outfit.
+
+0xC1D9CE2D = Choose a nightgown
+
+0xC1E58B4D = Shirts
+
+0xC1F75821 = Custom Outfits
+
+0xC3B3E948 = Hair Accessories
+
+0xC9FD5EA9 = Owned Outfits
+
+0xC18B3413 = Found Hats
+
+0xC57C57D3 = Choose a lower garb
+
+0xC75B3185 = Blouse
+
+0xC84BFC6F = Modify your boots appearance
+
+0xC726FB0A = Off-Hand Holsters
+
+0xC895F8D2 = You can't modify your boots currently
+
+0xC907DB72 = Choose a bandolier
+
+0xC1533FF4 = Hats
+
+0xC46785ED = Shirt
+
+0xC272449A = Choose a pair of gauntlets
+
+0xCB8E42D4 = Gun belts reinforced. Base ammo capacity for sidearm weapons has increased.
+
+0xCBF4BA18 = Bandanas
+
+0xCC0AF08D = Owned Bandoliers
+
+0xCC6F06FE = Gloves
+
+0xCC49D048 = Choose a buckle
+
+0xCD0957CC = Choose a garment set
+
+0xCFB06312 = Modify
+
+0xD0575E94 = Spurs
+
+0xD1BBA6AF = Pants
+
+0xD4D5965C = Belts
+
+0xD5D19248 = Overalls
+
+0xD9E5D578 = Choose a mask
+
+0xD22D11E2 = Poncho
+
+0xD503E447 = Vest Accessory
+
+0xD753A934 = Choose to equip these ~1p~
+
+0xD968CFD6 = Spurs
+
+0xD30180E6 = Dress
+
+0xD1534406 = Take Off
+
+0xDC235DC8 = Choose a belt
+
+0xDDBDF213 = Bandoliers reinforced. Base ammo capacity for longarm weapons have increased.
+
+0xDDE74B77 = Neckwear
+
+0xDEBF42BB = Hair Accessory
+
+0xDF23C76F = Satchel
+
+0xDF64884E = Ponchos
+
+0xE0A147AC = Shirts
+
+0xE4F59E64 = Choose a full outfit
+
+0xE9FEA83E = Choose a bandana
+
+0xE42B5565 = Choose a skirt
+
+0xE88CBADE = Choose gun belt trinkets
+
+0xE2863C58 = Tie
+
+0xE3956F52 = Masks will be removed in camp.
+
+0xE4463C1E = Coats
+
+0xE5656A07 = Dresses
+
+0xE3937791 = Bandanas
+
+0xEAB5D227 = Hats On Horse
+
+0xEB0CC782 = Gloves
+
+0xEB1545C4 = Suspenders
+
+0xECD5FC6A = This ~1p~ is equipped
+
+0xECE8E8EA = Headbands
+
+0xECFCA1F5 = Owned Vests
+
+0xEE50DBE6 = Owned Corsets
+
+0xEF780CA0 = Choose left-hand rings
+
+0xF009B1B5 = Bandoliers
+
+0xF04ACE0C = Off-Hands
+
+0xF0B70568 = Bandoliers upgraded. Base ammo capacity for longarm weapons have increased.
+
+0xF1B50C3B = Headbands
+
+0xF1DB408E = Choose a coat
+
+0xF4EE8587 = Choose a shirt
+
+0xF7D2B992 = Found Masks
+
+0xF8C69B4F = Buckles
+
+0xF8E1EE9F = Primary holsters upgraded. Degradation of weapons has slowed.
+
+0xF12B9C75 = Choose a role outfit
+
+0xF12ECF46 = Crafted Boots
+
+0xF33E6210 = Owned Neckwear
+
+0xF74CE4A2 = Corset
+
+0xF87D2DB2 = Crafted Outfits
+
+0xF78540D7 = Choose equipment for your weapons
+
+0xF683816A = Nightgowns
+
+0xFBAA7E1F = Shirts
+
+0xFC51948F = Overalls
+
+0xFDD4641D = Vests
+
+WARDROBE_HATS_ON_HORSE_FULL_TOOLTIP = ~COLOR_RED~~1~ out of ~2~~s~ hats on your Horse
+
+WARDROBE_HATS_ON_HORSE_TOOLTIP = ~1~ out of ~2~ hats on your Horse
+
+WARDROBE_MASKS_ON_HORSE_FULL_TOOLTIP = ~COLOR_RED~~1~ out of ~2~~s~ masks on your Horse
+
+WARDROBE_MASKS_ON_HORSE_TOOLTIP = ~1~ out of ~2~ masks on your Horse
+
+WARDROBE_OUTFITS_ON_HORSE_FULL_TOOLTIP = ~COLOR_RED~~1~ out of ~2~~s~ outfits on your Horse
+
+WARDROBE_OUTFITS_ON_HORSE_TOOLTIP = ~1~ out of ~2~ outfits on your Horse
+
+WARDROBE_WARNING_INTRO_EXIT = Exiting the wardrobe will finalize your starting clothes. Are you sure you want to leave?
+

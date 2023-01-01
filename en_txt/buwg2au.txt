@@ -1,0 +1,22 @@
+BUWG2_ACTION_1 = ~z~Well, how about this, eh?
+
+BUWG2_ACTION_2 = ~z~How 'bout it?
+
+BUWG2_ACTION_3 = ~z~I don't know, all them, it's us three that's left at the end of it.
+
+BUWG2_ACTION_4 = ~z~I heard Sadie might be alive.
+
+BUWG2_ACTION_5 = ~z~Sadie? How'd you hear that?
+
+BUWG2_ACTION_6 = ~z~She sent me a telegram. Said she's in Valentine.
+
+BUWG2_ACTION_7 = ~z~Sadie sent you a telegram and you ain't paid a visit on her?
+
+BUWG2_ACTION_8 = ~z~What's wrong with you, man?
+
+BUWG2_ACTION_9 = ~z~It's been a long time...
+
+BUWG2_ACTION_10 = ~z~Oh, time... Sadie wants to see you, you go see her.
+
+BUWG2_ACTION_11 = ~z~John Marston, really. Shame on you.
+

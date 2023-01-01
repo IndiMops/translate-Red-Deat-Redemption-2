@@ -1,0 +1,56 @@
+CPSN1_ACT_1 = ~z~Glory, glory, hallelujah!~n~~m~Glory, glory, hallelujah!
+
+CPSN1_ACT_2 = ~z~Glory, glory, hallelujah!~n~~m~Glory, glory, hallelujah!
+
+CPSN1_ACT_3 = ~z~Glory, glory, hallelujah,~n~~m~Glory, glory, hallelujah,
+
+CPSN1_ACT_4 = ~z~as we go marching on!~n~~m~as we go marching on!
+
+CPSN1_ACT_5 = ~z~In 1861, the yankee war began!~n~~m~In 1861, the yankee war began!
+
+CPSN1_ACT_6 = ~z~In 1861, the yankee war began!~n~~m~In 1861, the yankee war began!
+
+CPSN1_ACT_7 = ~z~In 1861, the yankee war began,~n~~m~In 1861, the yankee war began,
+
+CPSN1_ACT_8 = ~z~as we go marching on!~n~~m~as we go marching on!
+
+CPSN1_ACT_9 = ~z~Glory, glory, hallelujah!~n~~m~Glory, glory, hallelujah!
+
+CPSN1_ACT_10 = ~z~Glory, glory, hallelujah!~n~~m~Glory, glory, hallelujah!
+
+CPSN1_ACT_11 = ~z~Glory, glory, hallelujah,~n~~m~Glory, glory, hallelujah,
+
+CPSN1_ACT_12 = ~z~as we go marching on!~n~~m~as we go marching on!
+
+CPSN1_ACT_13 = ~z~Old John Brown was the abolition man!~n~~m~Old John Brown was the abolition man!
+
+CPSN1_ACT_14 = ~z~Old John Brown was the abolition man!~n~~m~Old John Brown was the abolition man!
+
+CPSN1_ACT_15 = ~z~Old John Brown was the abolition man,~n~~m~Old John Brown was the abolition man,
+
+CPSN1_ACT_16 = ~z~as we go marching on!~n~~m~as we go marching on!
+
+CPSN1_ACT_17 = ~z~Hey! Glory, glory, hallelujah!~n~~m~Glory, glory, hallelujah!
+
+CPSN1_ACT_18 = ~z~Glory, glory, hallelujah!~n~~m~Glory, glory, hallelujah!
+
+CPSN1_ACT_19 = ~z~Glory, glory, hallelujah,~n~~m~Glory, glory, hallelujah,
+
+CPSN1_ACT_20 = ~z~as we go marching on!~n~~m~as we go marching on!
+
+CPSN1_ACT_21 = ~z~In 1863, the slaves were all set free!~n~~m~In 1863, the slaves were all set free!
+
+CPSN1_ACT_22 = ~z~In 1863, the slaves were all set free!~n~~m~In 1863, the slaves were all set free!
+
+CPSN1_ACT_23 = ~z~In 1863, the slaves were all set free,~n~~m~In 1863, the slaves were all set free,
+
+CPSN1_ACT_24 = ~z~as we go marching on!~n~~m~as we go marching on!
+
+CPSN1_ACT_25 = ~z~Hey! Glory, glory, hallelujah!~n~~m~Glory, glory, hallelujah!
+
+CPSN1_ACT_26 = ~z~Glory, glory, hallelujah!~n~~m~Glory, glory, hallelujah!
+
+CPSN1_ACT_27 = ~z~Glory, glory, hallelujah,~n~~m~Glory, glory, hallelujah,
+
+CPSN1_ACT_28 = ~z~as we go marching on!~n~~m~as we go marching on!
+

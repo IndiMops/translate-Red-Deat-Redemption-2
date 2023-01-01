@@ -1,0 +1,134 @@
+MPJB1_APPROACH_01 = ~z~~sl:0.3~Look, just up ahead, it's my posse.
+
+MPJB1_APPROACH_02 = ~z~~sl:0.0:3.1:1~That's my posse up there. I'll be damned.
+
+MPJB1_ARRIVE_01 = ~z~Thanks for getting me back out of there. I owe you.
+
+MPJB1_ARRIVE_02 = ~z~~sl:0.0:1.7~Still can't believe I'm free.~sl:1.4:1.5:1~I hope they're paying you a lot.
+
+MPJB1_ESCAPE_01 = ~z~You got a ride for me?
+
+MPJB1_ESCAPE_02 = ~z~How am I getting out of here, then?
+
+MPJB1_FOLLOWN_01 = ~z~I'll follow you.
+
+MPJB1_FOLLOWN_02 = ~z~You lead the way.
+
+MPJB1_FOLLOWN_03 = ~z~Show me where to go, alright?
+
+MPJB1_FOLLOWN_04 = ~z~Hey, I'm right behind you.
+
+MPJB1_FOUND_01 = ~z~~sl:0.7~Got it. We can go.
+
+MPJB1_FOUND_02 = ~z~~sl:1.8~There it is. Let's go.
+
+MPJB1_GREETLAW_01 = ~z~Is this a breakout?
+
+MPJB1_GREETLAW_02 = ~z~You breaking me out of here?
+
+MPJB1_GREET_01 = ~z~Hey... you here to break me out?
+
+MPJB1_GREET_02 = ~z~Hey. They send you to get me out of here?
+
+MPJB1_HURRYSTSH_01 = ~z~I need to get my stash.
+
+MPJB1_HURRYSTSH_02 = ~z~I'm serious about those things. I need 'em.
+
+MPJB1_HURRYSTSH_03 = ~z~I ain't going to leave here without my possessions.
+
+MPJB1_HURRYSTSH_04 = ~z~You got to let me fetch my things.
+
+MPJB1_KEEPWATCH_01 = ~z~Okay, it's here somewhere. Watch my back.
+
+MPJB1_KEEPWATCH_02 = ~z~My things is around here. Look out while I find 'em.
+
+MPJB1_KEEPWATCH_03 = ~z~Here's the spot. Keep them off me while I'm looking.
+
+MPJB1_LAWARRIVE_01 = ~z~The law's here.
+
+MPJB1_LAWARRIVE_02 = ~z~Shit. Here comes the law.
+
+MPJB1_LAWDEAD_01 = ~z~Poor bastard.
+
+MPJB1_LAWDEAD_02 = ~z~He got what's coming to him.
+
+MPJB1_LAWHELD_01 = ~z~What are you going to do with him?
+
+MPJB1_LAWHELD_02 = ~z~What's the plan with this lawman?
+
+MPJB1_LAWLOST_01 = ~z~I think we lost 'em.
+
+MPJB1_LAWLOST_02 = ~z~Looks like we're rid of them.
+
+MPJB1_MOVE1_01 = ~z~Let's go.
+
+MPJB1_MOVE1_02 = ~z~Come on.
+
+MPJB1_MOVE1_03 = ~z~C'mon. Let's hurry it up.
+
+MPJB1_MOVE1_04 = ~z~Let's speed this up, eh?
+
+MPJB1_NOKEY_01 = ~z~You need the key. It should be on the sheriff's desk.
+
+MPJB1_NOKEY_02 = ~z~There's a key, over on the sheriff's desk.
+
+MPJB1_PLAYDIE_01 = ~z~We lost someone.
+
+MPJB1_PLAYDIE_02 = ~z~Man down.
+
+MPJB1_PLAYDIE_03 = ~z~We got a casualty.
+
+MPJB1_PLAYDIE_04 = ~z~They got them!
+
+MPJB1_REINFORCE_01 = ~z~More of these bastards.
+
+MPJB1_REINFORCE_02 = ~z~The law won't leave us alone.
+
+MPJB1_REINFORCE_03 = ~z~See there? Lawmen.
+
+MPJB1_REINFORCE_04 = ~z~Dammit, more law.
+
+MPJB1_RELEASED_01 = ~z~Okay, let's go.
+
+MPJB1_RELEASED_02 = ~z~Free at last, come on.
+
+MPJB1_RIDEBACK_01 = ~z~It's quiet out here now. I like it.
+
+MPJB1_RIDEBACK_02 = ~z~~sl:0.0:1.8~Sure feels lonesome on this ride.~sl:0.5~Less lonesome than a jail cell, but lonesome still.
+
+MPJB1_RIDEBACK_03 = ~z~~sl:0.8~You are quiet, alright. I'll give you that.
+
+MPJB1_RIDEBACK_04 = ~z~~sl:0.3:3.5:1~Boy, this air tastes good. It's good to be free.
+
+MPJB1_SEARCHING_01 = ~z~Hold them off just a while longer.
+
+MPJB1_SEARCHING_02 = ~z~I need some more time.
+
+MPJB1_SEARCHING_03 = ~z~They're here, I-I know it. I need more time.
+
+MPJB1_SEARCHING_04 = ~z~Just keep them off of me. I almost got it.
+
+MPJB1_SHOOTOUT_01 = ~z~They got us pinned down.
+
+MPJB1_SHOOTOUT_02 = ~z~I ain't going back in there.
+
+MPJB1_SHOOTOUT_03 = ~z~It's freedom or death for me.
+
+MPJB1_SHOOTOUT_04 = ~z~Let's make a stand.
+
+MPJB1_STASH1_01 = ~z~~sl:0.0:2.1~Before we go, I got some things stashed.~sl:~I gotta pick them up.
+
+MPJB1_STASH1_02 = ~z~~sl:0.0:2.2~Some of my belongings are stashed around here.~sl:0.3~Would you let me get 'em?
+
+MPJB1_STASH2B_1 = ~z~That's half. There's more.
+
+MPJB1_STASH2_01 = ~z~I've got it. Now let's find the rest of it.
+
+MPJB1_STASH2_02 = ~z~That's half of it. Now let me find the rest.
+
+MPJB1_TIMEOUT_1 = ~z~Okay, forget this. I'm gone.
+
+MPJB1_TIME_01 = ~z~You better get me out of here soon.
+
+MPJB1_TIME_02 = ~z~Can you hurry up and get me out of here?
+

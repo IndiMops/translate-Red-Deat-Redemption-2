@@ -1,0 +1,28 @@
+0x5D666FF6 = Медленно двигайте ~INPUT_LOOK_LEFT_ONLY~, чтобы подобрать третье число.
+
+0x50C5D6C9 = Медленно двигайте ~INPUT_LOOK_RIGHT_ONLY~, чтобы подобрать второе число.
+
+0x84A82867 = Медленно двигайте ~INPUT_LOOK_RIGHT_ONLY~, чтобы подобрать второе число.
+
+0x626AB8E3 = Медленно двигайте ~INPUT_LOOK_LEFT_ONLY~, чтобы подобрать третье число.
+
+0x23421358 = Медленно двигайте ~INPUT_LOOK_LEFT_ONLY~, чтобы подобрать первое число.
+
+0xEEBCC4C0 = Медленно двигайте ~INPUT_LOOK_LEFT_ONLY~, чтобы подобрать первое число.
+
+0xFFD93967 = Текущее число: ~1~
+
+MG_H_CRACK1 = Медленно поворачивайте ~INPUT_MOVE_LR|PromptId=INPUT_CRK_PROMPT,Gutter,PromptStyle=4~ против часовой стрелки, чтобы подобрать первое число.
+
+MG_H_CRACK2 = Медленно поворачивайте ~INPUT_MOVE_LR|PromptId=INPUT_CRK_PROMPT,Gutter,PromptStyle=3~ по часовой стрелке, чтобы подобрать второе число.
+
+MG_H_CRACK3 = Медленно поворачивайте ~INPUT_MOVE_LR|PromptId=INPUT_CRK_PROMPT,Gutter,PromptStyle=4~ против часовой стрелки, чтобы подобрать третье число.
+
+MG_H_SELECT1 = Медленно поворачивайте ~INPUT_MOVE_LR|PromptId=INPUT_CRK_PROMPT,Gutter,PromptStyle=4~ против часовой стрелки, чтобы подобрать первое число.
+
+MG_H_SELECT2 = Медленно поворачивайте ~INPUT_MOVE_LR|PromptId=INPUT_CRK_PROMPT,Gutter,PromptStyle=3~ по часовой стрелке, чтобы подобрать второе число.
+
+MG_H_SELECT3 = Медленно поворачивайте ~INPUT_MOVE_LR|PromptId=INPUT_CRK_PROMPT,Gutter,PromptStyle=4~ против часовой стрелки, чтобы подобрать третье число.
+
+MG_UC_ROTATE = Вращать
+

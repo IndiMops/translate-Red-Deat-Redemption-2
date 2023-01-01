@@ -1,0 +1,244 @@
+MOON3_AMBUSHD_1 = ~z~~sl:0.0:2.0~Looks like they're finally getting the message!~sl:1.1:~I'm gonna push on to Saint Denis, see if we can dock there.
+
+MOON3_AMBUSHD_2 = ~z~~sl:0.2~It'll be easier to lose them in the city.
+
+MOON3_AMBUSHD_3 = ~z~~sl:0.0:4.4~Boy... I sure ain't looking forward to telling Aunt Maggie about all this.~sl:0.4~Hardly falls into the category of keeping our noses clean, but...
+
+MOON3_AMBUSHD_4 = ~z~All you can do is roll with the punches, am I right?
+
+MOON3_AMBUSH_1 = ~z~~sl:0.0:1.1~Everyone pull back!~sl:0.6:3.1~Any closer to Saint Denis and we risk the safety of citizens.~sl:0.6~I said, pull back!
+
+MOON3_AMBUSH_2 = ~z~This wasn't meant to be... we'll get them another day.
+
+MOON3_BOATEMPTY_1 = ~z~~sl:0.0:1.9~Okay, I gotta move out.~sl:0.2:1.5~Why are none of you on the boat?~sl:0.3~Could really use some damn protection on here!
+
+MOON3_BOATLAND1_1 = ~z~~sl:0.0:1.5~Christ, they're everywhere...~sl:0.3:1.6~Get on the boat if you're getting on!~sl:0.3~We'll see if we can lose them downriver!
+
+MOON3_BOATLAND1_2 = ~z~Come on. I'm outta here in about two seconds.
+
+MOON3_BOATLAND2_1 = ~z~Alright, that's it. I'm moving out!
+
+MOON3_BOATLEAV2_1 = ~z~~sl:0.0:2.8~What about the rest of you? You getting on or not?~sl:0.1~I ain't waiting around here much longer!
+
+MOON3_BOATLEAVE_1 = ~z~Rest of you, follow along the shore!
+
+MOON3_BOATREADY_1 = ~z~~sl:0.0:2.1~Looks like you're all on the boat already, good.~sl:0.4~Time to get the hell out of here!
+
+MOON3_BOATS1_1 = ~z~For Christ's sake, they're still coming!
+
+MOON3_BOATS2_1 = ~z~No, no, shit, why did I go and jinx it... guns up, they're still on us!
+
+MOON3_CARGO_1 = ~z~~sl:0.0:3.9~Stay lively! If I know Hixon, that won't be the last of them.~sl:0.5~That bastard never does things by halves.
+
+MOON3_CARGO_2 = ~z~~sl:0.0:2.0~Christ, what a mess.~sl:0.6:1.7~I don't know how the hell it got out, but...~sl:0.1~we can't go down like this.
+
+MOON3_CARGO_3 = ~z~~sl:0.0:3.6~I promised Aunt Maggie that this was gonna be a nice clean job...~sl:0.5~and she'll kill me if we lose these ingredients.
+
+MOON3_COAST_1 = ~z~~sl:0.0:3.2~Oh shit, look. They're lined up along the coast.~sl:0.2~I'm a sitting duck! Take them down!
+
+MOON3_DOCK_1 = ~z~~sl:0.0:2.0~Goddamn it, they just won't let up.~sl:0.3~There's more on the shore up ahead!
+
+MOON3_ENEMIES1_01 = ~z~No, no, they're coming in on boats!
+
+MOON3_ENEMIES1_02 = ~z~Oh God, boats. This don't look good at all!
+
+MOON3_ENEMIES1_03 = ~z~Shit, no, you see those boats? Keep them off us!
+
+MOON3_ENEMIES2_1 = ~z~~sl:0.0:2.7~Shit, no, there's more of them here too.~sl:0.1:1.2~We need to keep moving.~sl:0.2~Clear me some space so we can get out of here!
+
+MOON3_ENEMIES3_1 = ~z~That's it! Keep shooting!
+
+MOON3_ENGINE_1 = ~z~Start, goddamn it. Come on.
+
+MOON3_ENGINE_2 = ~z~~sl:0.0:1.5~Start, you piece of shit!~sl:0.6~Damn it, I should've got them to show me how to do this.
+
+MOON3_ESCAPE1_1 = ~z~~sl:0.0:1.4~There's too many of 'em.~sl:~We gotta keep moving or we won't stand a chance.
+
+MOON3_ESCAPE2_1 = ~z~If we can hold them off, we'll dock and unload the goods downriver!
+
+MOON3_ESCAPE3_1 = ~z~~sl:0.0:1.7~Throw everything you got at them!~sl:0.2:2.1~We can't afford to lose these ingredients...~sl:~and I sure can't afford to go back to jail!
+
+MOON3_EXPLOSIVE_1 = ~z~Shit, dynamite. They're throwing dynamite! Get those sons of bitches!
+
+MOON3_EXT_1 = ~z~Okay, I think that's all of 'em!
+
+MOON3_EXT_2 = ~z~Christ, that was a close one!
+
+MOON3_EXT_3 = ~z~Alright, these docks look clear!
+
+MOON3_EXT_4 = ~z~Let's unload and get the hell outta here!
+
+MOON3_EXT_5 = ~z~Alright, that's the last one.
+
+MOON3_EXT_6 = ~z~Thank you.
+
+MOON3_EXT_7 = ~z~Goddamn revenuers.
+
+MOON3_EXT_8 = ~z~It's like Hixon's got some sixth sense or something.
+
+MOON3_EXT_9 = ~z~I'll find how this got out, believe you me.
+
+MOON3_EXT_10 = ~z~Starting with them drivers.
+
+MOON3_EXT_11 = ~z~Can't trust anybody these days.
+
+MOON3_EXT_12 = ~z~Anyway, least we got what we came for.
+
+MOON3_EXT_13 = ~z~I'll see you back at the house.
+
+MOON3_FRONT_01 = ~z~I see more boats just ahead of us!
+
+MOON3_FRONT_02 = ~z~More of them in front of us!
+
+MOON3_FRONT_03 = ~z~Eyes front! Boats straight ahead of us!
+
+MOON3_GONE_1 = ~z~~sl:0.0:2.6~Yeah, I don't see any more of them, do you?~sl:0.6~Okay, onto Saint Denis. Thank God for that.
+
+MOON3_GONE_2 = ~z~~sl:0.2:1.8~There's no way I'm going back to jail.~sl:0.5:2.0~I'd rather die than be alone in a cell~sl:~for even one minute with that maniac Hixon.
+
+MOON3_HOLDOFF_1 = ~z~~sl:0.0:1.2~Just keep 'em back!~sl:0.2~I need some time to get this damn thing started again!
+
+MOON3_IG1_BOAT_1 = ~z~~sl:2.5~Christ, they're everywhere...
+
+MOON3_IG1_BOAT_2 = ~z~~sl:0.0:1.5~get on if you're getting on!~sl:0.2:2.1:1~We'll see if we can lose them downriver!
+
+MOON3_INT_1 = ~z~Land ahoy!
+
+MOON3_INT_2 = ~z~Grab that plank, set it down there.
+
+MOON3_INT_3 = ~z~Permission to come aboard!
+
+MOON3_INT_4 = ~z~So, this here's the merchandise.
+
+MOON3_INT_5 = ~z~It's top-notch stuff, so be careful with it.
+
+MOON3_INT_6 = ~z~Come on, help me get it unloaded.
+
+MOON3_INT_7 = ~z~Watch your footing there, landlubber!
+
+MOON3_INT_8 = ~z~Wait, where are the wagons?
+
+MOON3_INT_9 = ~z~I, I arranged two drivers.
+
+MOON3_INT_10 = ~z~Goddamn it.
+
+MOON3_INT_11 = ~z~I planned this whole thing...
+
+MOON3_INT_12 = ~z~least folks can do is show up on time.
+
+MOON3_INT_13 = ~z~Train's coming in.
+
+MOON3_INT_14 = ~z~J-J-Just act natural.
+
+MOON3_INT_15 = ~z~Everyone stay right where you are.
+
+MOON3_INT_16 = ~z~This is Agent Reid Hixon...
+
+MOON3_INT_17 = ~z~of the Bureau of Internal Revenue.
+
+MOON3_INT_18 = ~z~Lemuel Fike, you are under arrest.
+
+MOON3_INT_19 = ~z~For the manufacture, and distribution of an illegal substance.
+
+MOON3_INT_20 = ~z~Escaping state custody.
+
+MOON3_INT_21 = ~z~Running bail...
+
+MOON3_INT_22 = ~z~and tax evasion.
+
+MOON3_INT_23 = ~z~And today we will bring the fullest force of the law...
+
+MOON3_INT_24 = ~z~down upon you.
+
+MOON3_INT_25 = ~z~You just can't stop running your mouth, can you?
+
+MOON3_INT_26 = ~z~You moronic hick.
+
+MOON3_INT_27 = ~z~You need to watch who you talk to.
+
+MOON3_INT_28 = ~z~Move in and bag those rats...
+
+MOON3_INT_29 = ~z~and bring Fike to me.
+
+MOON3_INT_30 = ~z~You hold 'em off.
+
+MOON3_INT_31 = ~z~I'll try and start the engine.
+
+MOON3_LAND_1 = ~z~Look out, they're shooting from the shore now!
+
+MOON3_LEFT_01 = ~z~Boats coming in on the left!
+
+MOON3_LEFT_02 = ~z~More of them to the left of us!
+
+MOON3_LEFT_03 = ~z~More in boats coming in over the river!
+
+MOON3_LEMAMMO_01 = ~z~There's more ammunition on the boat if you need it!
+
+MOON3_LEMAMMO_02 = ~z~If you run out of bullets, there's more on the boat here!
+
+MOON3_LEMAMMO_03 = ~z~You can grab more ammunition from the boat here.
+
+MOON3_LEMSHOT_01 = ~z~I'm getting hit here!
+
+MOON3_LEMSHOT_02 = ~z~I'm taking a lot of fire here!
+
+MOON3_LEMSHOT_03 = ~z~I got a lot of bullets coming this way!
+
+MOON3_LIGHTHSE_1 = ~z~~sl:0.0:2.0~Oh no! Watch out!~sl:0.2~They've got a sniper in the lighthouse up there!
+
+MOON3_MARSH_1 = ~z~~sl:0.0:3.0~Okay, I'm gonna bring us in closer to shore~sl:0.0:1.8~to see if there's a spot to moor up.~sl:0.5~It's shallow water so we'll need to take it slow!
+
+MOON3_NRCAUGHT_1 = ~z~~sl:0.0:3.8~Stay lively! If I know Hixon, that won't be the last of them.~sl:0.4~That bastard never does things by halves.
+
+MOON3_NRCAUGHT_2 = ~z~~sl:0.0:1.8~Christ, what a mess.~sl:0.3:1.4~I don't know how the hell it got out,~sl:~but we can't go down like this.
+
+MOON3_NRCAUGHT_3 = ~z~I promised Aunt Maggie this was gonna be a nice clean job.
+
+MOON3_NRSTDENIS_1 = ~z~~sl:0.0:3.7~No, no... on the right, a whole damn swarm of them!~sl:0.3~You gotta do something, we're taking too much fire.
+
+MOON3_NRVANH_1 = ~z~~sl:0.0:3.2~We're coming up to Van Horn... stay on the lookout!~sl:0.4~I'll bring us in close and slow so we can see if it's safe to dock.
+
+MOON3_OFFTRAIN_1 = ~z~~sl:0.0:4.6~Oh no, no, no! They're off the train and headed straight for us!~sl:0.2~You need to hold 'em off while I deal with this!
+
+MOON3_OPEN_1 = ~z~~sl:0.0:2.8~Alright, we're clear of Van Horn.~sl:0.4:3.2~Some expert piloting, if I say so myself.~sl:0.4~I think... I-I think we might have lost 'em!
+
+MOON3_OPEN_2 = ~z~Bring a bigger army next time, Mr. Hixon!
+
+MOON3_OPEN_3 = ~z~Right then, I'm gonna look for a spot to bring us in...
+
+MOON3_PASTVANH_1 = ~z~Damn it, that was close. We'll just have to try our luck further downriver.
+
+MOON3_PROTECT_01 = ~z~Christ alive, we're taking a hammering here!
+
+MOON3_PROTECT_02 = ~z~This is a lot of fire! Hold them back.
+
+MOON3_PROTECT_03 = ~z~Draw their fire before they blow my head off!
+
+MOON3_REVDOCK_1 = ~z~~sl:0.0:1.4~Pull back, men! Pull back!~sl:~The other team down the river will head them off!
+
+MOON3_REVSPOT_1 = ~z~~sl:0.0:1.1~There's Fike and the boat!~sl:0.2~They're trying to come into shore. Stop them!
+
+MOON3_REVTRAIN_1 = ~z~~sl:0.0:3.3~There they are, stop the train and gun them down, goddamn it!~sl:0.3:1.6:1~This has gone on long enough!
+
+MOON3_RIGHT_01 = ~z~We got more boats to the right!
+
+MOON3_RIGHT_02 = ~z~More coming in on our right!
+
+MOON3_RIGHT_03 = ~z~Boats coming in from the shore side!
+
+MOON3_SBOATON_1 = ~z~You're on the boat, good. Let's get the hell out of here!
+
+MOON3_SNIPERS_1 = ~z~Shooters on the beach there, take them out!
+
+MOON3_SOLOBOAT_1 = ~z~We need to move out, get on the boat! Come on, hurry!
+
+MOON3_SOLOIDLE_1 = ~z~What are you waiting for? Get on the damn boat already!
+
+MOON3_STAYAWAY_1 = ~z~~sl:0.5:2.5~Looks like I made it to Sisika after all!~sl:0.5:2.1~Don't worry about fluffing my pillows, boys,~sl:~this is just a passing visit!
+
+MOON3_STUCK_1 = ~z~No, no, the damn boat's grounded... we're stuck!
+
+MOON3_TRAIN_1 = ~z~Look out! There's a goddamn train full of the bastards!
+
+MOON3_UNSTUCK_1 = ~z~~sl:1.2:2.3~There she goes! Alright, we're moving.~sl:0.2~Let's get out of here while we still can!
+

@@ -1,0 +1,244 @@
+0x0194BD8F = ~z~I ain't some fool.
+
+0x03164929 = ~z~How'd this day get even worse?
+
+0x04740D5A = ~z~Appreciate it.
+
+0x071E30D3 = ~z~~sl:0.0:2.0~Just show some respect next time.~sl:0.8:2.5~We've run far worse than you out of town before.
+
+0x08FE15C7 = ~z~Listen, someone's waiting for me to bring these.
+
+0x09F0733E = ~z~So, you went to that fortune teller?
+
+0x0C237ED9 = ~z~~sl:0.0:0.6~Christ!~sl:1.5:1.8~You look like a ghost...
+
+0x0F0E06C4 = ~z~Think you could back off a bit?
+
+0x1A4A051A = ~z~Hey, you can't be here.
+
+0x1A28A478 = ~z~I said stop it, goddammit!
+
+0x1A70DE94 = ~z~~sl:0.0:4.0~Oh this? This is nothing, just a stupid map.~sl:0.5:2.1~Not even done right. Nothing at all...
+
+0x1AB53935 = ~z~Please, there's no way I'm going back with nothing.
+
+0x1AC10D0E = ~z~
+
+0x1B6AC08B = ~z~Hey, put that gun away from me.
+
+0x1D2E92B6 = ~z~'Scuse you.
+
+0x1E92F369 = ~z~Hey, you're crazy!
+
+0x2A1B4C46 = ~z~I'm gonna shoot your guts out.
+
+0x2C9CEDF8 = ~z~Fine, okay. I ain't one to share secrets.
+
+0x2D2CFD3C = ~z~Goddammit, don't make me say it again.
+
+0x2F687C3C = ~z~Never should've let my guard down.
+
+0x2FEB9FE8 = ~z~You got a problem with me?
+
+0x3BE7A768 = ~z~Nothin' beats the open road.
+
+0x3C11DD41 = ~z~Nice knowing ya.
+
+0x3CD76A24 = ~z~That's just downright wrong.
+
+0x3DEDD89F = ~z~Well, you never know what you'll find out there. That's part of the fun.
+
+0x3EAFD17F = ~z~~sl:0.0:0.8~You're sick!~sl:0.9:1.4~What are you gonna do to me?
+
+0x3F3B9E16 = ~z~No!
+
+0x3F8A13CE = ~z~Alright, damn it. Ain't the first secret I been asked to keep.
+
+0x3F64AF2F = ~z~Okay then...
+
+0x4A2A43ED = ~z~I had some tough times out there today.
+
+0x4ADAF470 = ~z~Alright, alright. You better treat it damn well.
+
+0x4AF4046F = ~z~Well, sure.
+
+0x4BDB521B = ~z~No way I'm stopping for you.
+
+0x4FD9EEE8 = ~z~Who do you think you are, tying me up?
+
+0x5CBEFA24 = ~z~This horse stays between my legs.
+
+0x5D1A452C = ~z~No way.
+
+0x5F1A3BD2 = ~z~~sl:0.0:1.5~Just move on.~sl:1.2:1.9~We don't need your type round here.
+
+0x6F1E9EE3 = ~z~You ain't getting this steed.
+
+0x6FBBBC3A = ~z~As long as you can find some fresh meat and a place to lay your head. Life on the road ain't so bad.
+
+0x7F7F1AFD = ~z~Back off.
+
+0x8ACF9F25 = ~z~Keep staring, and I'll poke those pretty eyes out.
+
+0x8D5CA691 = ~z~I think it's time you got outta here.
+
+0x9F14F73D = ~z~
+
+0x16FE3B0B = ~z~~sl:0.0:1.9~Oh no, he's at it again...~sl:0.9:1.2~Get away from me!
+
+0x23E0EA75 = ~z~~sl:0.0:1.9~Beating up half the saloon like that.~sl:1.0:2.4~Near killing Tommy out in the street.~sl:1.7:1.7~He's gone funny since then.
+
+0x29A172E2 = ~z~Don't!
+
+0x31FB49A8 = ~z~Go on, get.
+
+0x41B4C37A = ~z~What the hell's wrong with you?
+
+0x51E1C048 = ~z~It's around here, I know it. I know it!
+
+0x57C455FD = ~z~I'll show you.
+
+0x66A1BEC5 = ~z~Come on, there's nothing in here for you.
+
+0x74F02B86 = ~z~As far as I care, you ain't even here.
+
+0x76EBEE25 = ~z~Fine. Nothing here's worth this mess.
+
+0x83D5D436 = ~z~Go away, damn it.
+
+0x86C6CF33 = ~z~Don't need to waste my time with you.
+
+0x89CFBFD4 = ~z~All my pockets are empty.
+
+0x176FCADC = ~z~Back off.
+
+0x209E93AD = ~z~Fine. Damn it.
+
+0x264ED625 = ~z~Keep staring and I'll poke those pretty eyes out.
+
+0x276B5211 = ~z~Couldn't have been that bad?
+
+0x281B1F8F = ~z~Now, that supposed to upset me?
+
+0x285B4424 = ~z~
+
+0x335DBF14 = ~z~Watch it.
+
+0x422F2379 = ~z~That was too damn close.
+
+0x468DF1A2 = ~z~~sl:0.0:1.9~No, my horse!~sl:0.8:1.0~Not my horse!
+
+0x590C90D3 = ~z~Fine. Horse has a weird kick to it anyway.
+
+0x597B02EA = ~z~~sl:0.0:0.7~Fine then.~sl:1.0:1.5~I've had it with thugs like you.~sl:0.9:2.0~Think you can bully your way through life.
+
+0x740AE024 = ~z~I outta shoot you dead now.
+
+0x850CF8B9 = ~z~Stinks so damn bad...
+
+0x854C8AE6 = ~z~Fine, you want it? It's yours.
+
+0x1856E715 = ~z~That's too bad.
+
+0x5210D487 = ~z~Anyway...
+
+0x5790AAFE = ~z~Oh, what the hell? How did that happen?
+
+0x13057E8D = ~z~Get moving.
+
+0x29226E41 = ~z~Get the hell away from me.
+
+0x54531A28 = ~z~Just let us go, okay?
+
+0x78366EBE = ~z~The law'll take care of this.
+
+0x81985C30 = ~z~Go on. Get!
+
+0x90088B26 = ~z~Leave me alone!
+
+0x91067EFB = ~z~Sure, get up here.
+
+0x541235B6 = ~z~Come on, I paid damn near enough for this map...
+
+0x541696CD = ~z~Can you believe that? Got doused in someone's own...oh, God!
+
+0x623982A1 = ~z~Christ! Didn't see you come up.
+
+0x32593722 = ~z~Fine, but this is all I got.
+
+0x99861870 = ~z~Eat lead!
+
+0xA1DADCAC = ~z~Are you the one who did this?
+
+0xA15F3CE1 = ~z~~sl:0.0:0.5~Hey!~sl:1.2:2.7~Don't point that at me, you sick bastard.
+
+0xA43A7D9B = ~z~Why should I stop cause you said so?
+
+0xA3282C58 = ~z~~sl:0.0:0.7~Hey you!~sl:0.6:1.3~What are you doing back here?
+
+0xA777516A = ~z~Whoa now. This is a fight you don't want.
+
+0xA2378614 = ~z~As far as I care, you ain't even here.
+
+0xAA55A3EA = ~z~Get these damn ropes off.
+
+0xACA57549 = ~z~Get the hell away from me!
+
+0xAF4DFC05 = ~z~Never shoulda let my guard down...
+
+0xB9F1B38A = ~z~What is it you want?
+
+0xB22AA5C0 = ~z~Don't fellers like you ever get bored of pushing folk around?
+
+0xB29AB1C3 = ~z~Get away from me.
+
+0xB6047E2D = ~z~You're done for, you scoundrel!
+
+0xBB48A7A4 = ~z~Just what the hell are you doing?
+
+0xBBC91514 = ~z~Well, best be moving. Chores need doing.
+
+0xBF5D7D0B = ~z~I'm bringing this to the law.
+
+0xC1D4F0FD = ~z~We don't have to take this.
+
+0xC3B3933E = ~z~Go find someone else to annoy.
+
+0xC2023A69 = ~z~Life can be shit.
+
+0xC159520D = ~z~I don't give a damn what you think.
+
+0xCAAF5321 = ~z~Ain't you caused enough trouble, huh?
+
+0xCABE4AB6 = ~z~What do you want from me?
+
+0xCFB8DF18 = ~z~There a problem or something?
+
+0xD6D3BCBB = ~z~You're a sick son of a bitch.
+
+0xD82B385D = ~z~~sl:0.0:1.3~Hey, look.~sl:0.7:3.5~This is the bastard who near killed Tommy outside the saloon.
+
+0xDCAC6CE3 = ~z~~sl:0.0:1.9~Well, that actually makes me believe her more.~sl:0.4~Seems she's not telling people what they want to hear just so they come back.
+
+0xDEB26E18 = ~z~If this is how you trail game, you're a terrible hunter.
+
+0xE2FF61FC = ~z~Back off!
+
+0xE7F22817 = ~z~Stop it, please! I'm a God-fearing man.
+
+0xE70F6714 = ~z~Is this because of you?
+
+0xEA0D5F14 = ~z~Hell no, I ain't stopping.
+
+0xEAB25F17 = ~z~Hey, go point that thing at someone else.
+
+0xEC129D11 = ~z~~sl:0.0:4.0~Listen, you got the map already, now why don't you untie me, huh?~sl:0.6:1.8~I'm no good to you tied up like this...
+
+0xEDB20E54 = ~z~I did some good hunting last time I was in these parts.
+
+0xF91B68D4 = ~z~Hey, you. Don't do that.
+
+0xFC3844F9 = ~z~
+
+0xFF036B59 = ~z~We can win this one, easy.
+

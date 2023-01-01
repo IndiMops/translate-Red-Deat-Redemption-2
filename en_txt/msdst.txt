@@ -1,0 +1,128 @@
+0x5D85F7AB = Destroy ~COLOR_ENEMY~property~s~
+
+FETCH_DESTROY_SETUPS_GOTO_DESTINATION = to the ~HC_~1p~~search area~s~
+
+FETCH_DESTROY_SETUPS_GOTO_DESTINATION_2 = to the ~HC_~1p~~rival moonshiners' crop field~s~
+
+FETCH_DESTROY_SETUPS_GO_TO_0 = Go ~1~
+
+FETCH_DESTROY_SETUPS_GO_TO_0_2 = Go ~1~
+
+FETCH_DESTROY_SETUPS_HELP_AMMO_BOX_2 = Collect additional Fire Bottles ~1b~ to burn the rival's crops.
+
+FETCH_DESTROY_SETUPS_HELP_INTRO = Destroy the rival moonshiners' ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ to benefit your Moonshine Operation.
+
+FETCH_DESTROY_SETUPS_HELP_INTRO_2 = Destroy the rival moonshiners' ~COLOR_MP_OBJECTIVE_ENEMY~crops~s~ to benefit your Moonshine Operation.
+
+FETCH_DESTROY_SETUPS_HELP_INTRO_2_PLAYER = Destroy the rival moonshiners' ~COLOR_MP_OBJECTIVE_ENEMY~crops~s~ to benefit ~1~'s Moonshine Operation.
+
+FETCH_DESTROY_SETUPS_HELP_INTRO_PLAYER = Destroy the rival moonshiners' ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ to benefit ~1~'s Moonshine Operation.
+
+FETCH_DESTROY_SETUPS_HELP_OBJECTIVE_DESTROY_APPROACH = The ~COLOR_MP_OBJECTIVE_ENEMY~property~s~ can be destroyed by shooting it or using explosives.
+
+FETCH_DESTROY_SETUPS_HELP_OBJECTIVE_DESTROY_APPROACH_2 = The ~COLOR_MP_OBJECTIVE_ENEMY~crops~s~ ~1b~ can be destroyed by burning them.
+
+FETCH_DESTROY_SETUPS_HELP_SEARCH_AREA = Search the area for the camp.
+
+FETCH_DESTROY_SETUPS_HELP_SEARCH_AREA_2 = Use fire to burn down the ~COLOR_MP_OBJECTIVE_ENEMY~crops~s~.
+
+FETCH_DESTROY_SETUPS_OBJ_DESTROY = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~property~s~
+
+FETCH_DESTROY_SETUPS_OBJ_DESTROY_2 = Burn the ~COLOR_MP_OBJECTIVE_ENEMY~crops~s~
+
+FETCH_DESTROY_SETUPS_OBJ_DESTROY_PLURAL = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~property~s~
+
+FETCH_DESTROY_SETUPS_OBJ_DESTROY_PLURAL_2 = Burn the ~COLOR_MP_OBJECTIVE_ENEMY~crops~s~
+
+FETCH_DESTROY_SETUPS_OBJ_FIND = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the rival moonshiner camp
+
+FETCH_DESTROY_SETUPS_OBJ_FIND_2 = Burn the ~COLOR_MP_OBJECTIVE_ENEMY~crops~s~
+
+FETCH_DESTROY_SETUPS_OBJ_FIND_PLURAL = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the rival moonshiner camps
+
+FETCH_DESTROY_SETUPS_OBJ_FIND_PLURAL_2 = Burn the ~COLOR_MP_OBJECTIVE_ENEMY~crops~s~
+
+FETCH_DESTROY_SETUPS_OBJ_KILL_ATTACKERS = Kill the remaining ~COLOR_ENEMY~enemies~s~
+
+FETCH_DESTROY_SETUPS_OBJ_KILL_ATTACKERS_2 = Kill the remaining ~COLOR_ENEMY~enemies~s~
+
+FETCH_DESTROY_SETUPS_OBJ_KILL_ATTACKERS_REMAINING = Kill the remaining ~COLOR_ENEMY~enemies~s~
+
+FETCH_DESTROY_SETUPS_OBJ_KILL_ATTACKERS_REMAINING_2 = Kill the remaining ~COLOR_ENEMY~enemies~s~
+
+FETCH_DESTROY_SETUPS_OBJ_LEAVE_AREA = Leave the ~COLOR_ENEMY~area~s~
+
+FETCH_DESTROY_SETUPS_OBJ_LEAVE_AREA_2 = Leave the ~COLOR_ENEMY~area~s~
+
+FETCH_DESTROY_SETUPS_OBJ_LEAVE_AREA_POSSE = Wait for Posse to leave the ~COLOR_ENEMY~area~s~
+
+FETCH_DESTROY_SETUPS_OBJ_LEAVE_AREA_POSSE_2 = Wait for Posse to leave the ~COLOR_ENEMY~area~s~
+
+FETCH_DESTROY_SETUPS_SCORETIMER_PRIMARY_PASS = ~1~ destroyed property
+
+FETCH_DESTROY_SETUPS_SCORETIMER_PRIMARY_PASS_2 = ~1~ destroyed some crops
+
+FETCH_DESTROY_SETUPS_SCORETIMER_PRIMARY_PASS_NP = ~1~ destroyed property
+
+FETCH_DESTROY_SETUPS_SCORETIMER_PRIMARY_PASS_NP_2 = Some crops were destroyed
+
+FETCH_DESTROY_SETUPS_SCORETIMER_PRIMARY_PASS_YOU = You destroyed property
+
+FETCH_DESTROY_SETUPS_SCORETIMER_PRIMARY_PASS_YOUR = Your Posse destroyed property
+
+FETCH_DESTROY_SETUPS_SCORETIMER_PRIMARY_PASS_YOUR_2 = Your Posse destroyed some crops
+
+FETCH_DESTROY_SETUPS_SCORETIMER_PRIMARY_PASS_YOU_2 = You destroyed some crops
+
+FETCH_DESTROY_SETUPS_SHARD_DESTROYED = The property was destroyed
+
+FETCH_DESTROY_SETUPS_SHARD_DESTROYED_2 = The crops were destroyed
+
+FETCH_DESTROY_SETUPS_SHARD_DESTROYED_PLURAL = The property was destroyed
+
+FETCH_DESTROY_SETUPS_SHARD_DESTROYED_PLURAL_2 = The crops were destroyed
+
+FETCH_DESTROY_SETUPS_SHARD_INTRO_PRIMARY = Destroy the moonshiners' operation
+
+FETCH_DESTROY_SETUPS_SHARD_INTRO_PRIMARY_2 = Find the rival crop field
+
+FETCH_DESTROY_SETUPS_SHARD_INTRO_PRIMARY_PLURAL = Destroy the moonshiners' operation
+
+FETCH_DESTROY_SETUPS_SHARD_INTRO_PRIMARY_PLURAL_2 = Find the rival crop fields
+
+FETCH_DESTROY_SETUPS_SHARD_OVER = The property was destroyed
+
+FETCH_DESTROY_SETUPS_SHARD_OVER_2 = The crops were destroyed
+
+FETCH_DESTROY_SETUPS_SHARD_PRIMARY_FAIL = The property was not destroyed
+
+FETCH_DESTROY_SETUPS_SHARD_PRIMARY_FAIL_2 = The crops were not destroyed
+
+FETCH_DESTROY_SETUPS_SHARD_PRIMARY_FAIL_PLURAL = The property was not destroyed
+
+FETCH_DESTROY_SETUPS_SHARD_PRIMARY_FAIL_PLURAL_2 = The crops were not destroyed
+
+FETCH_DESTROY_SETUPS_SHARD_PRIMARY_PASS = Rival operation was destroyed
+
+FETCH_DESTROY_SETUPS_SHARD_PRIMARY_PASS_2 = The crops were destroyed
+
+FETCH_DESTROY_SETUPS_SHARD_PRIMARY_PASS_PARTIAL = ~1~/~2~ supplies destroyed
+
+FETCH_DESTROY_SETUPS_SHARD_PRIMARY_PASS_PARTIAL_2 = ~1~/~2~ crops destroyed
+
+FETCH_DESTROY_SETUPS_SHARD_PRIMARY_PASS_PLURAL = Rival operation was destroyed
+
+FETCH_DESTROY_SETUPS_SHARD_PRIMARY_PASS_PLURAL_2 = The crops were destroyed
+
+FETCH_DESTROY_SETUPS_TICKER_DESTROY = ~1~ destroyed property
+
+FETCH_DESTROY_SETUPS_TICKER_DESTROY_2 = ~1~ destroyed some crops
+
+FETCH_DESTROY_SETUPS_TICKER_DESTROY_YOU = You destroyed the property
+
+FETCH_DESTROY_SETUPS_TICKER_DESTROY_YOU_2 = You destroyed some crops
+
+FETCH_MARKETING_DESTROY_NAME = Destroy Rival Setups
+
+FETCH_MOONSHINE_MARKETING_DESTROY_NAME = DESTROY RIVAL SETUPS
+

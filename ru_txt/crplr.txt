@@ -1,0 +1,32 @@
+FETCH_CAMP_RAID_FAST_TRAVEL_TOAST_MAIN = Налет на лагерь
+
+FETCH_CAMP_RAID_FAST_TRAVEL_TOAST_SECONDARY = Переместиться в атакованный лагерь
+
+FETCH_CAMP_RAID_HELP_ESCAPING_TEAM_PRIMARY = Берегитесь ~COLOR_ENEMY~бандитов~s~, желающих украсть ваш ~COLOR_MP_OBJECTIVE_FRIENDLY~товар~s~.
+
+FETCH_CAMP_RAID_HELP_FAILURE = Бандиты напали на ваш лагерь и украли ~COLOR_ENEMY~~1~~s~ из числа товаров торговой компании Криппса.
+
+FETCH_CAMP_RAID_HELP_FAST_TRAVEL = Чтобы быстро присоединиться к отряду, обороняющему лагерь, воспользуйтесь быстрым перемещением.
+
+FETCH_CAMP_RAID_HELP_INTRO = Ликвидируйте ~COLOR_ENEMY~бандитов~s~ и не дайте украсть свои ~COLOR_MP_OBJECTIVE_FRIENDLY~товары~s~ ~1b~.
+
+FETCH_CAMP_RAID_HELP_LATE_NOTIFICATION = На ваш лагерь ~1b~ сейчас нападут бандиты. Вернитесь и защитите свой товар.
+
+FETCH_CAMP_RAID_SHARD_DESC_PRIMARY = Отразите налет на ваш ~COLOR_MP_OBJECTIVE_FRIENDLY~лагерь~s~
+
+FETCH_CAMP_RAID_SHARD_OUTSIDE_CLEANUP_RADIUS = Товары украдены
+
+FETCH_CAMP_RAID_SHARD_PRIMARY_PASS = Лагерь был защищен
+
+FETCH_CTX_CAMP_RAID_FAST_TRAVEL = Вернуться в лагерь
+
+FETCH_OBJ_CAMP_RAID_DROP = Положите ~COLOR_MP_OBJECTIVE_FRIENDLY~товар~s~.
+
+FETCH_OBJ_CAMP_RAID_ESCORT_RETURN = Верните ~COLOR_MP_OBJECTIVE_FRIENDLY~товар~s~ в ~COLOR_MP_OBJECTIVE~лагерь~s~.
+
+FETCH_OBJ_CAMP_RAID_PICK_UP = Поднимите ~COLOR_MP_OBJECTIVE_FRIENDLY~товар~s~.
+
+FETCH_OBJ_CAMP_RAID_PROTECT = Защитите свой ~COLOR_MP_OBJECTIVE_FRIENDLY~товар~s~.
+
+FETCH_OBJ_CAMP_RAID_STEAL = Заберите ~COLOR_ENEMY~товар~s~.
+

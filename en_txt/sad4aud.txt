@@ -1,0 +1,562 @@
+SAD4_ABAND_01 = ~z~Well, he definitely didn't go that way.
+
+SAD4_ABAND_02 = ~z~What you looking over there for, John?
+
+SAD4_ABAND_03 = ~z~Hey, my feeling is it's back over this way.
+
+SAD4_ATTACK_01 = ~z~Get her!
+
+SAD4_ATTACK_02 = ~z~Drop 'em!
+
+SAD4_ATTACK_03 = ~z~Shoot!
+
+SAD4_BDY_1 = ~z~Hold up. I think I see something.
+
+SAD4_BDY_2 = ~z~Is that a body?
+
+SAD4_BDY_3 = ~z~See if it's him.
+
+SAD4_BDY_WOUND_1 = ~z~Crap.
+
+SAD4_BDY_WOUND_2 = ~z~Ain't pretty.
+
+SAD4_BDY_WOUND_3 = ~z~Oh boy.
+
+SAD4_BEARNOSHOT_1 = ~z~You really saved me there.
+
+SAD4_BEARNOSHOT_2 = ~z~Yeah, well, you needed saving.
+
+SAD4_BEARSHOT_1 = ~z~I can't believe we didn't kill that bastard.
+
+SAD4_BEARSHOT_2 = ~z~Gave him something to remember us by, at least.
+
+SAD4_BEAR_1 = ~z~It's coming back around!
+
+SAD4_BLACKW_1 = ~z~Here we are.
+
+SAD4_BLACKW_2 = ~z~Let's get him to the jail house.
+
+SAD4_BLACKW_3 = ~z~Okay. Hitch up.
+
+SAD4_BOUNTY_1 = ~z~I told you she wouldn't listen!
+
+SAD4_BRIEF_1 = ~z~So, ~rp~we're coming up on where he's been seen.
+
+SAD4_BRIEF_2 = ~z~This moron accountant, Marshall Thurwell, been trying to live like an outdoorsman.
+
+SAD4_BRIEF_3 = ~z~Camping out here.
+
+SAD4_BRIEF_4 = ~z~He's lucky the Skinner Brothers ain't found him.
+
+SAD4_BRIEF_5 = ~z~Well, they mighta.
+
+SAD4_CAMPA_1 = ~z~Must be it. ~rp~Get down, let's take a look around.
+
+SAD4_CAMPB_1 = ~z~Something's been here.
+
+SAD4_CHAT1_1 = ~z~Hey, ~rp~it's nice of you to stop by and see the place, finally.
+
+SAD4_CHAT1_2 = ~z~Abigail's back... with the boy...~rp~ you must be so pleased, John.
+
+SAD4_CHAT1_3 = ~z~And the ranch. ~rp~You were right. ~rp~It's really something.
+
+SAD4_CHAT1_4 = ~z~I think I'm going to ask her to, uh, to marry me. ~rp~I got a ring.
+
+SAD4_CHAT1_5 = ~z~It was... ~rp~it was Arthur's. ~rp~I found it in a bundle of his things that I have kept.
+
+SAD4_CHAT1_6 = ~z~You're marrying Abigail... or, asking her at least?
+
+SAD4_CHAT1_7 = ~z~Oh my. ~rp~I never took you for a romantic.
+
+SAD4_CHAT1_8 = ~z~No, ~rp~me neither, but... ~rp~it's something I've thought about ... and I, ~rp~I think... ~rp~I know... I want it.
+
+SAD4_CHAT1_9 = ~z~Okay... ~rp~I guess I thought you were married already, long ago.
+
+SAD4_CHAT1_10 = ~z~No, not really... not officially.
+
+SAD4_CHAT1_11 = ~z~Well, ~rp~I'm real happy for you, John. ~rp~Being married, it made me real happy...
+
+SAD4_CHAT2B_1 = ~z~You said earlier, ~rp~you knew something about Micah. ~rp~You gonna tell me what you know?
+
+SAD4_CHAT2B_2 = ~z~Are you sure you want to hear about him?
+
+SAD4_CHAT2B_3 = ~z~Aint... all that back there on your ranch enough?
+
+SAD4_CHAT2B_4 = ~z~If I find him, I will handle it.
+
+SAD4_CHAT2B_5 = ~z~Your bounties, or transport work, that's your decision. ~rp~If you want to bring me along or not.
+
+SAD4_CHAT2B_6 = ~z~But... but Micah, ~rp~that's something we, well I... I gotta do, ~rp~with or without you , Sadie.
+
+SAD4_CHAT2B_7 = ~z~You know what I mean.
+
+SAD4_CHAT2B_8 = ~z~I know. ~rp~Well, I'm hearing things.
+
+SAD4_CHAT2B_9 = ~z~A lot of things, still mostly just whispers, but ~rp~I think he might be pretty close.
+
+SAD4_CHAT2B_10 = ~z~When you hear something real? You bring it to me.
+
+SAD4_CHAT2B_11 = ~z~Okay. I'll bring it to you. But ~rp~you think about if this is what you really want.
+
+SAD4_CHAT2B_12 = ~z~Everything you can get... and everything you can lose.
+
+SAD4_CHAT2B_13 = ~z~I understand all of that, of course I do.
+
+SAD4_CHAT2B_14 = ~z~Okay then.
+
+SAD4_CHAT2SHOUTED_4 = ~z~Yeah. That's kind of the problem.
+
+SAD4_CHAT2SHOUTED_5 = ~z~~sl:0.0:3.3~Maybe it wasn't right of me to bring you along on all the...~sl:~really heavy stuff.
+
+SAD4_CHAT2SHOUTED_6 = ~z~~sl:0.0:4.1~A family man and all. ~rp~Seeing all this...~lr:0.7~I don't know if I can do it again.
+
+SAD4_CHAT2SHOUTED_7 = ~z~~sl:0.0:1.7~I'm my own man, ain't I?~lr:0.8~I get to make those calls. ~rp~I needed the money.
+
+SAD4_CHAT2SHOUTED_9 = ~z~~sl:0.0:2.2~And I get to say who I ride with...~sl:0.2~and ~rp~I don't know if your ranch and your kid and your wife...
+
+SAD4_CHAT2SHOUTED_11 = ~z~~sl:1.7~Fair enough. ~rp~Those are fine new clothes by the way.
+
+SAD4_CHAT2SHOUTED_12 = ~z~~sl:0.6:3.9~Yeah, ~rp~I spend my cash on fancy clothes...~sl:~and horses and shiny new guns.
+
+SAD4_CHAT2SPOKEN_4 = ~z~Uh huh. That's kind of the problem.
+
+SAD4_CHAT2SPOKEN_5 = ~z~~sl:0.0:3.1~Maybe it wasn't right of me to bring you along on those...~sl:~really heavy things.
+
+SAD4_CHAT2SPOKEN_6 = ~z~~sl:0.0:3.7~A family man and all. ~rp~Seeing all this...~lr:1.6~I don't know if I can do it again.
+
+SAD4_CHAT2SPOKEN_7 = ~z~~sl:0.0:1.7~I'm my own man, ain't I?~lr:0.4~I get to make those calls. ~rp~I needed the money.
+
+SAD4_CHAT2SPOKEN_9 = ~z~~sl:0.0:2.3~And I get to say who I ride with...~sl:0.2~and ~rp~I don't know if your ranch and your kid and your wife...
+
+SAD4_CHAT2SPOKEN_11 = ~z~~sl:2.8~Fair enough. ~rp~Those are fine new clothes by the way.
+
+SAD4_CHAT2SPOKEN_12 = ~z~~sl:0.3:4.1~Yeah, ~rp~I spend my cash on fancy clothes...~sl:~and horses and shiny new guns.
+
+SAD4_CHAT2_1 = ~z~You alright, John?
+
+SAD4_CHAT2_2 = ~z~Yeah. Just...
+
+SAD4_CHAT2_3 = ~z~We always find a way to almost get killed, don't we?
+
+SAD4_CHAT2_8 = ~z~You are your own man, sure. But ~rp~I'm my own woman.
+
+SAD4_CHAT2_10 = ~z~are things I wanna be worrying about when I hear a gunshot.
+
+SAD4_CHAT2_13 = ~z~That's 'cause I ain't got anything else that matters to me anymore.
+
+SAD4_CHAT3B_1 = ~z~You got a nice ranch. ~rp~What you farming there?
+
+SAD4_CHAT3B_2 = ~z~Sheep, I think.
+
+SAD4_CHAT3B_3 = ~z~For meat or for wool?
+
+SAD4_CHAT3B_4 = ~z~I ain't really thought. Both?
+
+SAD4_CHAT3B_5 = ~z~Well, ~rp~the wool trade and the meat trade, they're competitive too.
+
+SAD4_CHAT3B_6 = ~z~In a couple of years, ~rp~we can sit down, and you can tell me how right you feel about all that you've done to survive.
+
+SAD4_CHAT3B_7 = ~z~That's a date.
+
+SAD4_CHAT3B_8 = ~z~I look forward to it.
+
+SAD4_CHAT3_1 = ~z~This is a cold business, ain't it?
+
+SAD4_CHAT3_2 = ~z~Yep. ~rp~It does require a certain level of detachment.
+
+SAD4_CHAT3_3 = ~z~You ever think if it's right?
+
+SAD4_CHAT3_4 = ~z~No. ~rp~I just see orders on the wall, and I try and fill them.
+
+SAD4_CHAT3_5 = ~z~And if there's other bastards after the same orders as I am, I get competitive.
+
+SAD4_CHAT3_6 = ~z~It's called industry... and if you ain't noticed, everyone is out there doing it.
+
+SAD4_CHAT3_7 = ~z~I guess they are.
+
+SAD4_DONEBH_1 = ~z~You know, I been doing some bounty hunting of my own since I last saw you.
+
+SAD4_DONEBH_2 = ~z~Ain't gonna make a habit of it.
+
+SAD4_EXT_1 = ~z~Here, put him down.
+
+SAD4_EXT_2 = ~z~Go on, get home to your wife.
+
+SAD4_EXT_3 = ~z~Let you know if I hear anything about Micah.
+
+SAD4_EXT_4 = ~z~You need a hand taking him in?
+
+SAD4_EXT_5 = ~z~Him?
+
+SAD4_EXT_6 = ~z~No, I'm fine.
+
+SAD4_EXT_7 = ~z~You sure?
+
+SAD4_EXT_8 = ~z~Yeah, I'll send your share to the bank when I get paid.
+
+SAD4_EXT_9 = ~z~Thank you.
+
+SAD4_FIGHT_01 = ~z~Damn fools. Ride.
+
+SAD4_FIGHT_02 = ~z~Idiots. Let's go.
+
+SAD4_FOLSAD_01 = ~z~I think I got the trail. ~rp~Follow me.
+
+SAD4_FOLSAD_02 = ~z~I'm tracking something. ~rp~Come over here, John.
+
+SAD4_FOOT_01 = ~z~You want to work, let's do it.
+
+SAD4_FOOT_02 = ~z~Say your goodbyes, John. We're off.
+
+SAD4_IG1_1 = ~z~This... this looks...
+
+SAD4_IG1_2 = ~z~Looks like a bear or something came through here.
+
+SAD4_IG1_3 = ~z~~sl:1.9~And feller left in quite a hurry...
+
+SAD4_IG1_4 = ~z~Here.
+
+SAD4_IG1_5 = ~z~Well he was from the South, whoever he is...
+
+SAD4_IG1_6 = ~z~Then maybe he's our man. If he ain't become some bear's lunch.
+
+SAD4_IG1_7 = ~z~Yeah, looks like they went this way.
+
+SAD4_IG1_8 = ~z~Him or the bear?
+
+SAD4_IG1_9 = ~z~~sl:0.3~Both of 'em.
+
+SAD4_IG2_1 = ~z~~sl:1.3:2.3:1~It's that way, I'd say.
+
+SAD4_IG2_2 = ~z~~sl:0.0:0.8:1~Great.
+
+SAD4_IG3_1 = ~z~~sl:0.4:2.1:1~Wha-What the hell...
+
+SAD4_IG3_2 = ~z~~sl:0.0:2.6:1~John, John, hold on... hold on!
+
+SAD4_IG3_3 = ~z~~sl:0.0:3.4:1~Shit. I'm seeing... I'm seeing triple!
+
+SAD4_IG3_4 = ~z~Then shoot the three bears!
+
+SAD4_IG3_5 = ~z~
+
+SAD4_IG3_6 = ~z~
+
+SAD4_INTMOUNT_01 = ~z~Come on, let's go.
+
+SAD4_INTMOUNT_02 = ~z~Come on, mount up.
+
+SAD4_INTMOUNT_03 = ~z~Get on your horse, John.
+
+SAD4_INTRO_1 = ~z~Get your horse and let's go.
+
+SAD4_INT_1 = ~z~So, you happy?
+
+SAD4_INT_2 = ~z~I think so.
+
+SAD4_INT_3 = ~z~So, you happy?
+
+SAD4_INT_4 = ~z~I think so.
+
+SAD4_INT_5 = ~z~And I did good?
+
+SAD4_INT_6 = ~z~You did good.
+
+SAD4_INT_7 = ~z~So...
+
+SAD4_INT_8 = ~z~am I forgiven?
+
+SAD4_INT_9 = ~z~Never.
+
+SAD4_INT_10 = ~z~You are a hard woman.
+
+SAD4_INT_11 = ~z~Ma! Pa! Come out here!
+
+SAD4_INT_12 = ~z~Sadie, you're alive. John, it's...
+
+SAD4_INT_13 = ~z~Sadie Adler.
+
+SAD4_INT_14 = ~z~Well how'd you know she was...
+
+SAD4_INT_15 = ~z~We've... I've...
+
+SAD4_INT_16 = ~z~saw her, I thought I...~n~~m~You look well.
+
+SAD4_INT_17 = ~z~I am so happy, I am so happy.
+
+SAD4_INT_18 = ~z~Well, come on.
+
+SAD4_INT_19 = ~z~But tell me about you, darling...
+
+SAD4_INT_20 = ~z~and all armed to the teeth like that.
+
+SAD4_INT_21 = ~z~I'm a working woman, Abigail.
+
+SAD4_INT_22 = ~z~I'm a bounty hunter, bodyguard...
+
+SAD4_INT_23 = ~z~I protect the gold prospectors up in the hills.
+
+SAD4_INT_24 = ~z~I'm thinking of starting my own transportation business.
+
+SAD4_INT_25 = ~z~I was thinking, maybe if John wanted to earn some money?
+
+SAD4_INT_26 = ~z~My husband, he ain't looking for that kinda work.
+
+SAD4_INT_27 = ~z~I took on a lot of debt when we bought this place.
+
+SAD4_INT_28 = ~z~And you're working for her to pay it off?
+
+SAD4_INT_29 = ~z~Yes, sometimes I was.
+
+SAD4_INT_30 = ~z~But I thought we said no more of that.
+
+SAD4_INT_31 = ~z~No, you said that.
+
+SAD4_INT_32 = ~z~What else am I gonna do?
+
+SAD4_INT_33 = ~z~I'm a goddamn man.
+
+SAD4_INT_34 = ~z~It's legal work, Abigail...
+
+SAD4_INT_35 = ~z~and I never got killed.
+
+SAD4_INT_36 = ~z~It's hunting down fools for the government.
+
+SAD4_INT_37 = ~z~Easy.
+
+SAD4_INT_38 = ~z~Even Jack could do it.
+
+SAD4_INT_39 = ~z~Don't you put those stupid ideas in the boy's head.
+
+SAD4_INT_40 = ~z~He's gonna do something better than this.
+
+SAD4_INT_41 = ~z~Like what?
+
+SAD4_INT_42 = ~z~Writing silly stories?
+
+SAD4_INT_43 = ~z~I'm sorry, Abigail.
+
+SAD4_INT_44 = ~z~Really, I am.
+
+SAD4_INT_45 = ~z~I just...
+
+SAD4_INT_46 = ~z~thought if you wanted to earn some money.
+
+SAD4_INT_47 = ~z~How many times do I gotta bury you, John Marston?
+
+SAD4_INT_48 = ~z~Never.
+
+SAD4_INT_49 = ~z~You ain't never burying me.
+
+SAD4_INT_50 = ~z~It's legal work that I can handle.
+
+SAD4_INT_51 = ~z~There's...
+
+SAD4_INT_52 = ~z~there's something else.
+
+SAD4_INT_53 = ~z~Micah?
+
+SAD4_INT_54 = ~z~Bounty hunting is one thing...
+
+SAD4_INT_55 = ~z~but goddamn Micah?
+
+SAD4_INT_56 = ~z~I heard he was up country...
+
+SAD4_INT_57 = ~z~or some feller who sounded just like him.
+
+SAD4_INT_58 = ~z~Killed a family, bar a little girl who escaped.
+
+SAD4_INT_59 = ~z~Leave Micah alone.
+
+SAD4_INT_60 = ~z~Listen, I'm sorry, Abigail.
+
+SAD4_INT_61 = ~z~I came by 'cause I was riding by chasing a feller, and I thought...
+
+SAD4_INT_62 = ~z~John wanted to earn some extra money.
+
+SAD4_INT_63 = ~z~What is it?
+
+SAD4_INT_64 = ~z~Abigail, we need the money.
+
+SAD4_INT_65 = ~z~Some feller robbed his business...
+
+SAD4_INT_66 = ~z~you know, an accountant or something.
+
+SAD4_INT_67 = ~z~Came down from Rhodes I believe.
+
+SAD4_INT_68 = ~z~How much does it pay?
+
+SAD4_INT_69 = ~z~It pays good.
+
+SAD4_INT_70 = ~z~The soft ones usually do.
+
+SAD4_INT_71 = ~z~Okay then...
+
+SAD4_INT_72 = ~z~I guess.
+
+SAD4_INT_73 = ~z~But Micah...
+
+SAD4_INT_74 = ~z~n-n-no.
+
+SAD4_INT_75 = ~z~Alright.
+
+SAD4_INT_76 = ~z~John Marston, let's go.
+
+SAD4_INT_77 = ~z~Just, you bring him back to me.
+
+SAD4_INT_78 = ~z~You hear?
+
+SAD4_INT_79 = ~z~Of course.
+
+SAD4_INT_LEADIN_1 = ~z~So you happy?
+
+SAD4_INT_LEADIN_2 = ~z~~sl:0.0:1.1:1~I think so.
+
+SAD4_JTRAILCHAT_1 = ~z~Yeah, this way.
+
+SAD4_JTRAILCHT2_1 = ~z~It keeps going through here.
+
+SAD4_JTRAILCHT3_1 = ~z~There's a cabin up here.
+
+SAD4_JTRAIL_1 = ~z~Okay, I think I got him. ~rp~Follow me.
+
+SAD4_KIL_01 = ~z~What's your wife gonna think about this? Goddamn you.
+
+SAD4_KIL_02 = ~z~Gone straight, have you now, you idiot? Shit.
+
+SAD4_LEAVE_01 = ~z~This ain't somewhere we want to hang around.
+
+SAD4_LEAVE_02 = ~z~Get it together. Come on.
+
+SAD4_MCS1_1 = ~z~My God.
+
+SAD4_MCS1_2 = ~z~What monster did this?
+
+SAD4_MCS1_3 = ~z~That our feller?
+
+SAD4_MCS1_4 = ~z~Maybe...
+
+SAD4_MCS1_5 = ~z~but, looks more like a local farmer to me.
+
+SAD4_MCS1_6 = ~z~Or what's left of one.
+
+SAD4_MCS1_7 = ~z~Is it gone?
+
+SAD4_MCS1_8 = ~z~You Marshall Thurwell?
+
+SAD4_MCS1_9 = ~z~That I am, ma'am.
+
+SAD4_MCS1_10 = ~z~I'm here to arrest you on behalf of the State of Lemoyne.
+
+SAD4_MCS1_11 = ~z~You're wanted for theft, fraud and avoiding arrest.
+
+SAD4_MCS1_12 = ~z~Is the monster still out there?
+
+SAD4_MCS1_13 = ~z~No, I think he's gone.
+
+SAD4_MCS1_14 = ~z~Come out.
+
+SAD4_MCS1_15 = ~z~Come on.
+
+SAD4_MCS1_16 = ~z~Don't shoot.
+
+SAD4_MCS1_17 = ~z~Keeping walking.
+
+SAD4_MCS1_18 = ~z~Come on.
+
+SAD4_MCS1_19 = ~z~I'm coming.
+
+SAD4_MCS1_20 = ~z~Look out!
+
+SAD4_MCS1_LIB_1 = ~z~That our feller?
+
+SAD4_MCS1_LIENT_1 = ~z~My God...
+
+SAD4_MCS2_1 = ~z~I think he's gone.
+
+SAD4_MCS2_2 = ~z~Fucking monster.
+
+SAD4_MCS2_3 = ~z~Thurwell!
+
+SAD4_MCS2_4 = ~z~Get out here!
+
+SAD4_MCS2_5 = ~z~Before I come in there and kill you myself!
+
+SAD4_MCS2_6 = ~z~I-I-I'm coming.
+
+SAD4_MCS2_7 = ~z~Pathetic!
+
+SAD4_MCS2_8 = ~z~Waiting to see if that animal ate us?
+
+SAD4_MCS2_9 = ~z~No, ma'am. That weren't it.
+
+SAD4_MCS2_10 = ~z~Yes it were.
+
+SAD4_MCS2_11 = ~z~Come here!
+
+SAD4_MCS2_12 = ~z~Come here.
+
+SAD4_MCS2_13 = ~z~Thurwell...
+
+SAD4_MCS2_14 = ~z~call yourself a man?
+
+SAD4_MCS2_15 = ~z~Well, it's like Abigail says...
+
+SAD4_MCS2_16 = ~z~that's one word for ya.
+
+SAD4_MOUNT_01 = ~z~Mount up. Let's find them.
+
+SAD4_MOUNT_02 = ~z~Come on. They ain't here.
+
+SAD4_POSTFIGHTSHOUTED_1 = ~z~~sl:0.0:2.1~Them bastards was green.~lr:~If we didn't get them, someone else woulda.
+
+SAD4_POSTFIGHTSPOKEN_1 = ~z~~sl:0.0:2.0~Them bastards was green.~lr:~If we didn't get them, someone else would've.
+
+SAD4_POST_BEAR_1 = ~z~Let's go before he comes back. He's wanted in Blackwater.
+
+SAD4_QUEST1_1 = ~z~Is that? Are you Sadie Adler, ma'am? The bounty hunter?
+
+SAD4_QUEST1_2 = ~z~Get off the road.
+
+SAD4_QUEST2_1 = ~z~Look, I got great respect for you professionally.
+
+SAD4_QUEST2_2 = ~z~But if that's Marshall Thurwell there...
+
+SAD4_QUEST2_3 = ~z~uh, me and my partner would like to split the reward.
+
+SAD4_QUEST2_4 = ~z~For doing what? Get off the road.
+
+SAD4_QUEST3_1 = ~z~We was thinking you might need protection.
+
+SAD4_QUEST3_2 = ~z~I look like I need protection?
+
+SAD4_QUEST3_3 = ~z~~sl:0.0:3.7~Uh, me and my partner, we're dead set on splitting that reward,~sl:~and if not...
+
+SAD4_QUEST3_4 = ~z~well, we said we was gonna have to take the all of it.
+
+SAD4_QUEST3_5 = ~z~~sl:2.0~You and your partner are just children.
+
+SAD4_QUEST3_6 = ~z~Don't get yourselves hurt now, son.
+
+SAD4_QUICKSHOUTED_1 = ~z~~sl:0.4~You don't mess around, do ya? Let's go.
+
+SAD4_QUICKSPOKEN_1 = ~z~~sl:0.8~You don't mess around, do ya? Let's go.
+
+SAD4_SEEBOUNTY_1 = ~z~Who's this up here?
+
+SAD4_SETOFF_1 = ~z~You ready? Follow me. We're going up into Tall Trees.
+
+SAD4_TRACK2_01 = ~z~You can track, can't you?
+
+SAD4_TRACK2_02 = ~z~I'm better in town than in the back country, I guess.
+
+SAD4_TRACK2_03 = ~z~It's a good thing I hunt people, not deer.
+
+SAD4_TRACKSHOUTED_1 = ~z~~sl:0.0:1.7~Dammit, I lost the trail.~lr:0.4~Can you see which way he might have gone?
+
+SAD4_TRACKSPOKEN_1 = ~z~~sl:0.0:2.2~Dammit, I lost the trail.~lr:0.6~Can you see which way he might have gone?
+
+SAD4_UP_1 = ~z~Up here.
+
+SAD4_WDS_1 = ~z~We're cutting off the main track up here, by Manzanita Post.
+

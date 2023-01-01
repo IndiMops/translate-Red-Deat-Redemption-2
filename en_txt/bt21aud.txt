@@ -1,0 +1,214 @@
+RBT21_BLOCKED_01 = ~z~Out the way!
+
+RBT21_BLOCKED_02 = ~z~Move!
+
+RBT21_BLOCKED_03 = ~z~~sl:0.3~Damn you.
+
+RBT21_BLOCKED_04 = ~z~Move yourself!
+
+RBT21_CALLOUT_01 = ~z~Herman Zizendorf!
+
+RBT21_CALLOUT_02 = ~z~I got you, Zizendorf.
+
+RBT21_CALLOUT_03 = ~z~Give yourself up.
+
+RBT21_CAUGHT_1 = ~z~Bit late to be working, ain't it?
+
+RBT21_CAUGHT_2 = ~z~
+
+RBT21_CELL1BNEG_1 = ~z~Maybe I can still be your executioner, friend.
+
+RBT21_CELL1BPOS_1 = ~z~Apart from the fact you stole some tools...
+
+RBT21_CELL1NEGR_1 = ~z~The right to a fair trial and the due process of law is enshrined in our constitution.
+
+RBT21_CELL1NEGR_2 = ~z~You are neither my judge, my jury, or my executioner, sir. Thank the forefathers for that.
+
+RBT21_CELL1NEG_1 = ~z~~sl:0.0:1.3~Know what I think you are?~sl:0.4~A sneak thief and a bellyacher.
+
+RBT21_CELL1POSR_1 = ~z~I have done precisely nothing. Except fall victim to you.
+
+RBT21_CELL1POSR_2 = ~z~~sl:0.0:2.1~A sad and craven bounty hunter,~sl:~totally lacking in morality.
+
+RBT21_CELL1POS_1 = ~z~Come on, Herman. Why don't you just admit what you done?
+
+RBT21_CELL1_1 = ~z~Aha! The prosecution's chief witness.
+
+RBT21_CELL2BNEG_1 = ~z~Then why ever did you do it, fool?
+
+RBT21_CELL2BPOS_1 = ~z~~sl:0.0:1.6~I'm the... greedy lackey?~sl:1.5~I'll take that, I guess.
+
+RBT21_CELL2NEGR_1 = ~z~~sl:0.0:3.7~I'm an upstanding resident of this new metropolis...~sl:~I have no reason to steal.
+
+RBT21_CELL2NEG_1 = ~z~~sl:0.0:1.5~Dressing nice and talking pretty~sl:~don't give you a license to steal.
+
+RBT21_CELL2POSR_1 = ~z~~sl:0.0:2.6~The fates conspired against me, yes.~sl:0.0:3.0~Helped along by an infirm police chief~sl:~and his greedy lackey.
+
+RBT21_CELL2POS_1 = ~z~If you are innocent, you must be the unluckiest feller around.
+
+RBT21_CELL2_1 = ~z~Are you here to collect more bribes, sir?
+
+RBT21_CELL3BNEG_1 = ~z~What it is... is an idiot's crime.
+
+RBT21_CELL3BPOS_1 = ~z~~sl:0.6~If you can work your jaw like that, you're fine.
+
+RBT21_CELL3NEGR_1 = ~z~Exactly. My hands are soft. I'm an aristocrat. This is a commoner's crime.
+
+RBT21_CELL3NEG_1 = ~z~~sl:0.0:2.6~What I don't get is... why would someone~sl:~who ain't worked a day in their life steal tools?
+
+RBT21_CELL3POSR_1 = ~z~~sl:0.0:1.1~Ever since you ambushed me~sl:0.0:2.1~on my nocturnal preambulations,~sl:~I have suffered nothing except unearned abuse.
+
+RBT21_CELL3POS_1 = ~z~Tell me they're looking after you, at least.
+
+RBT21_CELL3_1 = ~z~Him? He framed me.
+
+RBT21_CELL4_1 = ~z~That man, he should be behind these bars!
+
+RBT21_CELL5_1 = ~z~~sl:0.8~I hope you're here to clear my name.
+
+RBT21_CHASE1_1 = ~z~You wanna take a bullet for a petty crime? Stop.
+
+RBT21_CHASE1_2 = ~z~There is no crime.
+
+RBT21_CHASE2_1 = ~z~The longer I chase you, the harder this gets.
+
+RBT21_CHASE2_2 = ~z~Then stop chasing me.
+
+RBT21_CHASE3_1 = ~z~You was caught, there's no getting away from this.
+
+RBT21_CHASE3_2 = ~z~I'm gonna give it a try.
+
+RBT21_CHASE4_1 = ~z~I'm not meant to, but I can shoot you, mister!
+
+RBT21_CHASE4_2 = ~z~I am not a criminal.
+
+RBT21_CHASE5_1 = ~z~Enough already! You want a bullet?
+
+RBT21_CHASE5_2 = ~z~I want to be left alone.
+
+RBT21_CLCT_1 = ~z~~sl:0.0:3.7~I saw that! You were paid to give false testimony.~sl:~This won't hold up in court.
+
+RBT21_CLJAIL_1 = ~z~This is the police station. You might need a rest.
+
+RBT21_CLJAIL_2 = ~z~~sl:0.0:2.3~This is an embarrassing mistake.~sl:~My good name will be ruined.
+
+RBT21_CLJAIL_3 = ~z~Shut it.
+
+RBT21_DEADEND_01 = ~z~Dammit!
+
+RBT21_DEADEND_02 = ~z~No. No. No.
+
+RBT21_DEADEND_03 = ~z~
+
+RBT21_DMP_1 = ~z~There, there. Settle in.
+
+RBT21_GIVEUP_1 = ~z~Oh... okay, okay.
+
+RBT21_GIVEUP_2 = ~z~Y-you got me, okay?
+
+RBT21_GIVEUP_3 = ~z~~sl:0.6~This is all a terrible mistake.
+
+RBT21_GRUMBLE_01 = ~z~The indignity.
+
+RBT21_GRUMBLE_02 = ~z~You treat a gentleman like this?
+
+RBT21_GRUMBLE_03 = ~z~I am a respected business person.
+
+RBT21_GRUMBLE_04 = ~z~My lawyer will hear about this.
+
+RBT21_GRUMBLE_05 = ~z~To be treated like some common criminal.
+
+RBT21_HOGWAK_1 = ~z~~sl:0.0:3.7~Oh, my head. Are you some kind of savage?~sl:~The judge will hear of this.
+
+RBT21_HOGWAK_2 = ~z~I'm sure he'll feel real bad for ya.
+
+RBT21_HOG_1 = ~z~Let's make sure you can't run off anywhere else.
+
+RBT21_HOG_2 = ~z~~sl:0.2~You really don't need to do that.
+
+RBT21_ILO_1 = ~z~Surrender, Zizendorf! You got nowhere to go.
+
+RBT21_ILO_2 = ~z~It's a setup! I can't.
+
+RBT21_LEAVENOW_01 = ~z~Save your talk for the trial.
+
+RBT21_LEAVENOW_02 = ~z~I will see you in court. Goodbye.
+
+RBT21_LEAVENOW_03 = ~z~Visiting hours are over, I believe. Get out of here.
+
+RBT21_LEAVENOW_04 = ~z~Haven't you got some other innocent men to frame? Go.
+
+RBT21_MOANCELL1_1 = ~z~The evidence is purely circumstantial.
+
+RBT21_MOANCELL1_2 = ~z~Herman, will you quiet yourself?
+
+RBT21_MOANCELL2_1 = ~z~I shall be vindicated in the courts. Mark me, sir.
+
+RBT21_MOANCELL2_2 = ~z~Save it for the judge.
+
+RBT21_MOANCELL3_1 = ~z~~sl:0.0:2.7~My imprisonment is a great shame on this city.~sl:~A black mark for all.
+
+RBT21_MOANCELL3_2 = ~z~~sl:0.0:3.9~You shoulda been a lawyer, not a thief, boy.~sl:~That was your choice.
+
+RBT21_MOANCELL4_1 = ~z~~sl:0.0:3.2~Stealing tools... ridiculous, ridiculous,~sl:~I am an innocent man.
+
+RBT21_MOANCELL4_2 = ~z~~sl:0.0:2.2~You're the thief, yet I'm the one~sl:~being punished listening to this nonsense.
+
+RBT21_PICKUP_01 = ~z~Unhand me.
+
+RBT21_PICKUP_02 = ~z~Oh, my dinner...
+
+RBT21_PICKUP_03 = ~z~~sl:0.4~Be gentle.
+
+RBT21_PUTCAGEJ_1 = ~z~You got your man, and here's your money.
+
+RBT21_PUTCAGEJ_2 = ~z~If only they was all like this...
+
+RBT21_PUTCAGEJ_3 = ~z~~sl:0.0:2.9~A crime is a crime, and a criminal's a criminal.~sl:~We can't discriminate.
+
+RBT21_RETURN1_1 = ~z~~sl:0.2:2.7~Think about it, did you really see anything?~sl:1.0:1.6~It was dark... many shadows.~sl:~The frame of the building was in your way.
+
+RBT21_RETURN1_2 = ~z~~sl:0.0:4.0~Was I taking something? Me, a respectable fellow?~sl:~An upstanding citizen? Or was I tying my shoe?
+
+RBT21_RETURN1_3 = ~z~~sl:0.0:3.3~The burden of proof is on the prosecution, and...~sl:0.0:2.6~if-if you give false testimony,~sl:~that might be a civil matter.
+
+RBT21_RETURN1_4 = ~z~~sl:0.0:2.4~I am not above suing for defamation...~sl:~and maybe for assault as well.
+
+RBT21_RTRNAWKJ_1 = ~z~Caught this one dead to rights, didn't I, Mr. Zizendorf?
+
+RBT21_RTRNAWKJ_2 = ~z~~sl:0.0:2.7~Mr. Chief, I took a wander through construction...~sl:~it's a mistake.
+
+RBT21_RTRNAWKJ_3 = ~z~Enough of you! Put that German in the cage.
+
+RBT21_RTRNAWKJ_4 = ~z~Innocent until proven...
+
+RBT21_RTRNAWKJ_5 = ~z~Quiet.
+
+RBT21_RUN_01 = ~z~I didn't do anything!
+
+RBT21_RUN_02 = ~z~You don't have anything on me!
+
+RBT21_RUN_03 = ~z~It's all circumstantial!
+
+RBT21_RUN_04 = ~z~I've been framed!
+
+RBT21_S1_IG4_1 = ~z~I changed my mind.
+
+RBT21_S1_IG4_2 = ~z~~sl:0.0:0.9:1~I can't go to jail!
+
+RBT21_SHUSHJ_1 = ~z~I know what I saw, you're a goddamn thief.
+
+RBT21_SPOOK_1 = ~z~What's going on in there?
+
+RBT21_SPOOK_2 = ~z~Wah!
+
+RBT21_SPOT_1 = ~z~Ah, there you are...
+
+RBT21_WAIT0_1 = ~z~I-I-I'll turn myself in, how about that?
+
+RBT21_WAIT1_1 = ~z~~sl:0.0:1.5~Y-y-you tell me where to go,~sl:~and I will go there tomorrow.
+
+RBT21_WAIT2_1 = ~z~I-I am willing to cooperate.
+
+RBT21_WAIT3_1 = ~z~I-I want this cleared up as much as anyone.
+

@@ -1,0 +1,42 @@
+MBHVA_ALIVE_01 = ~z~~sl:0.8:2.0~You delivered us our outlaw...~sl:~put 'em in the cell and let 'em sweat.
+
+MBHVA_ALIVE_02 = ~z~~sl:0.1:2.6~Look who it is, and kicking to boot.~sl:~Put 'em in the cell, won't you?
+
+MBHVA_ALIVE_03 = ~z~~sl:0.0:3.0~If that ain't a face I know from the posters...~sl:~Put 'em in the cell.
+
+MBHVA_ALIVE_04 = ~z~~sl:0.3:2.8~Get 'em alive just so we can string 'em high.~sl:~Law's a funny old thing, ain't it?
+
+MBHVA_ALIVE_05 = ~z~~sl:0.9:1.5~Thank you kindly.~sl:~This one'll keep me company, for a little while.
+
+MBHVA_ALIVE_06 = ~z~If I was you, I'd've put a bullet in 'em for sure.
+
+MBHVA_ALIVE_07 = ~z~~sl:0.2~Good business, damn good business.
+
+MBHVA_DEADBEF_01 = ~z~~sl:0.4:2.5~Well, well, what happened here?~sl:~Put the body out back, and I'll ready your blood money.
+
+MBHVA_DEADBEF_02 = ~z~~sl:0.3:3.2~How did I know you'd be taking the ''death'' option?~sl:0.0:2.9:1~Dump that body 'round back, and I'll see what it's worth.
+
+MBHVA_DEADBEF_03 = ~z~~sl:1.1:1.5~It said dead or alive, and...~sl:~I don't mind keeping things simple.
+
+MBHVA_DEADBEF_04 = ~z~~sl:0.8~Your gun or my noose, ends the same, don't it?
+
+MBHVA_DEAD_01 = ~z~~sl:0.3~That's the going rate for an ugly as hell corpse.
+
+MBHVA_DEAD_02 = ~z~~sl:0.3:1.5~It said dead or alive, and...~sl:~I don't mind keeping things simple.
+
+MBHVA_DEAD_03 = ~z~~sl:0.1~Your gun or my noose. Ends the same, don't it?
+
+MBHVA_MID_01 = ~z~Alright, that thing goes in the cell over there. I'll get your money.
+
+MBHVA_MID_02 = ~z~You can bundle them up nice and tight in that there cell. I'll see about a payment.
+
+MBHVA_MID_03 = ~z~Okay, go on and settle them in their home over there. Payment's forthcoming.
+
+MBHVA_REWARD_01 = ~z~~sl:0.3~There's your piece of silver.
+
+MBHVA_REWARD_02 = ~z~~sl:0.3~It's all there for ya. Hope it was worth it.
+
+MBHVA_REWARD_03 = ~z~~sl:0.2~To each their due. Money's on the table.
+
+MBHVA_REWARD_04 = ~z~Whatever it said on the poster, it's all right there for you.
+

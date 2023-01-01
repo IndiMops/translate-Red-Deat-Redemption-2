@@ -1,0 +1,28 @@
+CTNU1_ACTION_1 = ~z~Well, how 'bout you, Mr. Trelawny, where are you from?
+
+CTNU1_ACTION_2 = ~z~The moons of Jupiter, dear boy, the moons of Jupiter...
+
+CTNU1_ACTION_3 = ~z~Oh shut up, shut up!
+
+CTNU1_ACTION_4 = ~z~That kind of nonsense might amuse folk at a children's birthday party, but really...
+
+CTNU1_ACTION_5 = ~z~I'm saying Irish.
+
+CTNU1_ACTION_6 = ~z~No.
+
+CTNU1_ACTION_7 = ~z~Scotts?
+
+CTNU1_ACTION_8 = ~z~Cornwall, dear boy, where the real, original Celts are from.
+
+CTNU1_ACTION_9 = ~z~Where they still have real trolls, just like you, that live under the bridges, where fire spews out of the marshes.
+
+CTNU1_ACTION_10 = ~z~What's it like?
+
+CTNU1_ACTION_11 = ~z~I have no idea, I've never been, but it sounds wonderful!
+
+CTNU1_ACTION_12 = ~z~Well, I'm from Ohio and I have been there.
+
+CTNU1_ACTION_13 = ~z~And it could use with trolls.
+
+CTNU1_ACTION_14 = ~z~So I've heard, so... I've heard.
+

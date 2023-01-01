@@ -1,0 +1,10 @@
+CWJAC_ACT_1 = ~z~What happened with the kid, Arthur?
+
+CWJAC_ACT_2 = ~z~Bill or Micah...
+
+CWJAC_ACT_3 = ~z~I think Bill, led us into a death trap. Sean got shot in the head.
+
+CWJAC_ACT_4 = ~z~I'll miss him.
+
+CWJAC_ACT_5 = ~z~He was an annoying little bastard but I'll miss him too.
+

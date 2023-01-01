@@ -1,0 +1,50 @@
+0x5C6E7991 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~oil~s~ on the way to the ~COLOR_MP_OBJECTIVE~destination~s~
+
+0x8E9AC141 = Defend the~COLOR_MP_OBJECTIVE_FRIENDLY~logs~s~ on the way to the ~COLOR_MP_OBJECTIVE~destination~s~
+
+0xC1BAEB6F = Pick up the shipment of ~COLOR_MP_OBJECTIVE_NEUTRAL~logs~s~
+
+0xFDF1B31C = Pick up the shipment of ~COLOR_MP_OBJECTIVE_NEUTRAL~oil~s~
+
+FETCH_RESUPPLY_HELP_DESTROY = ~1~ triggered a rival mission against ~2~. Destroy the supplies ~3b~ to gain the full reward.
+
+FETCH_RESUPPLY_HELP_DESTROY_APPROACH = The supplies ~1b~ in the back of the wagon can be destroyed by shooting them or using explosives.
+
+FETCH_RESUPPLY_HELP_DESTROY_YOU = You triggered a rival mission against ~1~. Destroy the supplies ~2b~ to gain the full reward.
+
+FETCH_RESUPPLY_HELP_INTRO = Take the supplies ~1b~ to the drop off within the time limit to earn the full reward.
+
+FETCH_RESUPPLY_JOIN_TEAM_SECONDARY = ~COLOR_ENEMY~~1~~s~ is attacking the supplies
+
+FETCH_RESUPPLY_OBJ_DEFEND_SUPPLIES = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ on the way ~1~
+
+FETCH_RESUPPLY_OBJ_DESTROY_SUPPLIES = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~
+
+FETCH_RESUPPLY_OBJ_RETURN_SUPPLIES = Deliver the supplies ~1~
+
+FETCH_RESUPPLY_OBJ_STEAL_SUPPLIES = Get in the ~COLOR_MP_OBJECTIVE_NEUTRAL~supply wagon~s~
+
+FETCH_RESUPPLY_OBJ_STEAL_SUPPLIES_FROM_POSSE = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~~s~
+
+FETCH_RESUPPLY_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Rival players~s~ can attack the supplies
+
+FETCH_RESUPPLY_SHARD_DESC_PRIMARY = Deliver the supplies
+
+FETCH_RESUPPLY_SHARD_DESC_SECONDARY = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~
+
+FETCH_RESUPPLY_SHARD_OVER = Supplies destroyed
+
+FETCH_RESUPPLY_SHARD_PRIMARY_FAIL = Supplies destroyed
+
+FETCH_RESUPPLY_SHARD_PRIMARY_PASS = Supplies delivered
+
+FETCH_RESUPPLY_SHARD_SECONDARY_FAIL = Supplies delivered
+
+FETCH_RESUPPLY_SHARD_SECONDARY_FAIL_RIVAL = Supplies destroyed by rival Posse
+
+FETCH_RESUPPLY_SHARD_SECONDARY_PASS = Supplies destroyed
+
+FETCH_RESUPPLY_TICKER_DESTROY = ~1~ has destroyed the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+FETCH_RESUPPLY_TICKER_DESTROY_YOU = You have destroyed the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+

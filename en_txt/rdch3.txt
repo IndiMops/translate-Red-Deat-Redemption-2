@@ -1,0 +1,54 @@
+0x4F42550E = Cage
+
+0x9BC01469 = Return to the ~o~canoe~s~
+
+0x31392092 = Woman
+
+RDCH31_F_CAND = The canoe was destroyed.
+
+RDCH31_F_CANS = The canoe got stuck.
+
+RDCH31_F_WOMA = The woman was abandoned.
+
+RDCH31_F_WOMD = The woman has died.
+
+RDCH31_H_CANOE = Use ~INPUTGROUP_VEH_MOVE_ALL~ to control the boat and hold ~INPUT_VEH_BOAT_ACCELERATE~ to row. Tap ~INPUT_VEH_BOAT_ACCELERATE~ to row faster.~s~
+
+RDCH31_O_APRCH = Approach the ~o~cave~s~
+
+RDCH31_O_GETBC = Get back into the ~o~canoe~s~
+
+RDCH31_O_GETC = Get into the ~o~canoe~s~
+
+RDCH31_O_GTA = Go to ~o~Annesburg~s~
+
+RDCH31_O_GTBC = Go to ~o~Butcher Creek~s~
+
+RDCH31_O_KILL = Take out the ~e~Murfrees~s~
+
+RDCH31_O_OPEN = Open the ~o~cage~s~
+
+RDCH31_O_RETWOM = Return to the ~o~woman~s~
+
+RDCH31_O_SPEAKC = Talk to ~o~Charles~s~
+
+RDCH31_O_THROW = Throw dynamite into the ~o~cave~s~
+
+RDCH31_U_BHOLLOW = Beaver Hollow?
+
+RDCH31_U_CANOE = Take Canoe
+
+RDCH31_U_CKILL = Send Charles
+
+RDCH31_U_HORSE = Ride Horse
+
+RDCH31_U_OCAGE = Open Cage
+
+RDCH31_U_PKILL = Take the Lead
+
+RDCH31_U_RIDE = Ride with me
+
+RDCH31_U_SNEAK = Sneak
+
+RDCH31_U_TNT = Dynamite
+

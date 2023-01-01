@@ -1,0 +1,312 @@
+MPGU3_ARRIVEG1_1 = ~z~Posse's here!
+
+MPGU3_ARRIVEG2_1 = ~z~Here comes the posse!
+
+MPGU3_ARRIVER1_1 = ~z~This must be the posse!
+
+MPGU3_ARRIVER2_1 = ~z~Looks like the posse!
+
+MPGU3_ARRIVESN1_1 = ~z~The marshal's folks are here.
+
+MPGU3_ARRIVESN2_1 = ~z~Those extra guns are here!
+
+MPGU3_DAVIEAMB1_01 = ~z~Keep it together.
+
+MPGU3_DAVIEAMB1_02 = ~z~Hold firm!
+
+MPGU3_DAVIEAMB1_03 = ~z~Hold 'em off, it's all we can do.
+
+MPGU3_DAVIEAMB1_04 = ~z~Let's kill these bastards.
+
+MPGU3_DAVIEAMB1_05 = ~z~Keep shooting.
+
+MPGU3_DAVIEAMB2_01 = ~z~Montez is dead, you fools.
+
+MPGU3_DAVIEAMB2_02 = ~z~You're too late, he was executed.
+
+MPGU3_DAVIEAMB2_03 = ~z~Give up, your man's dead already.
+
+MPGU3_DAVIEAMB3_01 = ~z~They're running for it. Keep firing anyway.
+
+MPGU3_DAVIEAMB3_02 = ~z~Let's drive them out of here. Come on.
+
+MPGU3_DAVIES_1 = ~z~Hear that? They're riding in. Shoot them when you see them.
+
+MPGU3_DAVIEWAV1_01 = ~z~Get'em!
+
+MPGU3_DAVIEWAV1_02 = ~z~There!
+
+MPGU3_DAVIEWAV1_03 = ~z~Alfredo's dead and you will be too!
+
+MPGU3_DAVIEWAV1_04 = ~z~Go to hell!
+
+MPGU3_DAVIEWAV1_05 = ~z~Come on, then.
+
+MPGU3_DAVIEWAV2_1 = ~z~More of them, on horseback.
+
+MPGU3_DAVIEWAV3_1 = ~z~~sl:0.0:1.5~Sounds like we got more coming.~sl:~And from two directions, besides.
+
+MPGU3_DAVIEWAV4_1 = ~z~Our defenses are overrun. Save the town however you can!
+
+MPGU3_DAVWAGALT_1 = ~z~There's dynamite in the gunsmiths! We might be in need of it now.
+
+MPGU3_DAVWAGON_1 = ~z~~sl:0.0:1.9~There's dynamite, in those crates.~sl:~Might be the time to use it, now.
+
+MPGU3_DELIVER_1 = ~z~~sl:0.0:2.9~These are the folks is willing and able to help...~sl:0.3~with whatever weapons they could muster.
+
+MPGU3_DELIVER_2 = ~z~~sl:0.0:3.4~Go up and station them where they'll be most useful...~sl:0.3~I expect Montez's men will be here shortly.
+
+MPGU3_DELIVER_3 = ~z~~sl:0.0:2.5~We must hold this town however we can.~sl:0.5~God help us.
+
+MPGU3_DELWAIT2_1 = ~z~~sl:0.0:2.4~Get those guns placed, goddamn you.~sl:0.3~They'll overrun us if you don't.
+
+MPGU3_DELWAIT_1 = ~z~~sl:0.0:3.0~Come on, let's get these folks in position.~sl:0.4~These bastards could ride in at any moment.
+
+MPGU3_EXT_1 = ~z~Tom! You and your friends saved my town.
+
+MPGU3_EXT_2 = ~z~And Montez died in the conflict.
+
+MPGU3_EXT_3 = ~z~Exactly...
+
+MPGU3_EXT_4 = ~z~he uh, died in the conflict.
+
+MPGU3_EXT_5 = ~z~Thank you.
+
+MPGU3_EXT_6 = ~z~Thanks to all of you.
+
+MPGU3_EXT_7 = ~z~In towns it's the sheriffs that run things...
+
+MPGU3_EXT_8 = ~z~but we help out where we can.
+
+MPGU3_EXT_9 = ~z~Thank you.
+
+MPGU3_EXT_10 = ~z~You've been a great help in all this business.
+
+MPGU3_EXT_11 = ~z~It's been my pleasure.
+
+MPGU3_EXT_12 = ~z~I hope to see you again.
+
+MPGU3_EXT_13 = ~z~But not too soon, I hope.
+
+MPGU3_EXT_14 = ~z~Well, thanks again.
+
+MPGU3_FLEEG1_1 = ~z~They're going!
+
+MPGU3_FLEEG2_1 = ~z~See that? They're beat.
+
+MPGU3_FLEER1_1 = ~z~They're running!
+
+MPGU3_FLEER2_1 = ~z~I think they're running.
+
+MPGU3_FLEESN1_1 = ~z~They're turning tail.
+
+MPGU3_FLEESN2_1 = ~z~The bastards are retreating!
+
+MPGU3_GUN1COL_1 = ~z~Just tell me where to set up with this shotgun.
+
+MPGU3_GUN1DEL_1 = ~z~Okay. I'll hold this ground.
+
+MPGU3_GUN2COL_1 = ~z~~sl:0.0:2.5~Okay. If I can get these barrels close to them,~sl:~there won't be much left.
+
+MPGU3_GUN2DEL_1 = ~z~Alright. I hope they come through here.
+
+MPGU3_IG1_1 = ~z~
+
+MPGU3_IG1_2 = ~z~I'm afraid, this isn't over yet.
+
+MPGU3_IG1_3 = ~z~There.
+
+MPGU3_IG1_4 = ~z~~sl:0.0:1.2~Dear Lord...~sl:1.1~it's a war wagon.
+
+MPGU3_INSRCTG1_1 = ~z~The marshal's waiting for you in the Sheriff's office, I believe.
+
+MPGU3_INSRCTG2_1 = ~z~The marshal and the prisoner are in with Sheriff Malloy.
+
+MPGU3_INSRCTR1_1 = ~z~They're waiting on you in the sheriff's office.
+
+MPGU3_INSRCTR2_1 = ~z~~sl:0.0:1.9~Quick, get on to the sheriff's office.~sl:0.1~No telling when they'll be back.
+
+MPGU3_INSRCTSN1_1 = ~z~~sl:0.0:2.2~He's in with the sheriff and the prisoner, okay?~sl:0.2~We got it covered out here.
+
+MPGU3_INSRCTSN2_1 = ~z~They been waiting on you all in the sheriff's office. Run quick.
+
+MPGU3_INSTWAG1_1 = ~z~Goddamn... that gun.
+
+MPGU3_INSTWAG1_2 = ~z~They can only shoot at one of us at a time...
+
+MPGU3_INSTWAG1_3 = ~z~So one of you, draw its fire... and the rest of us will move up.
+
+MPGU3_INSTWAG1_4 = ~z~Draw its fire, so they can get that dynamite.
+
+MPGU3_INSTWAG2_1 = ~z~He's got you in his sights, get down.
+
+MPGU3_INSTWAG2_2 = ~z~Quick, get in cover.
+
+MPGU3_INSTWAG2_3 = ~z~Stay low.
+
+MPGU3_INSTWAG2_4 = ~z~Now, flank him.
+
+MPGU3_INSTWAG3_1 = ~z~If you got a stick of dynamite, use it.
+
+MPGU3_INSTWAG3_2 = ~z~Don't just shoot the wagon, shoot those men.
+
+MPGU3_INSTWAG3_3 = ~z~You want that gun's attention, you shoot at it! Then duck, quick.
+
+MPGU3_INT_1 = ~z~There you are.
+
+MPGU3_INT_2 = ~z~Still a good soul, huh?
+
+MPGU3_INT_3 = ~z~That's nice...
+
+MPGU3_INT_4 = ~z~real nice...
+
+MPGU3_INT_5 = ~z~but your new friend, the marshal. He's having problems.
+
+MPGU3_INT_6 = ~z~More problems.
+
+MPGU3_INT_7 = ~z~With your even newer friend Montez.
+
+MPGU3_INT_8 = ~z~They're in the sheriff's office in Valentine.
+
+MPGU3_INT_9 = ~z~He asked me, to ask you...
+
+MPGU3_INT_10 = ~z~if you can bring a goddamn posse and come armed.
+
+MPGU3_INT_11 = ~z~Can you do that?
+
+MPGU3_INT_12 = ~z~Yeah, I thought you could.
+
+MPGU3_INT_13 = ~z~Best get going, huh?
+
+MPGU3_MCS1_1 = ~z~Tom, who are they?
+
+MPGU3_MCS1_2 = ~z~They're with me.
+
+MPGU3_MCS1_3 = ~z~Let me go...
+
+MPGU3_MCS1_4 = ~z~Tom...
+
+MPGU3_MCS1_5 = ~z~not to put too fine a point upon it...
+
+MPGU3_MCS1_6 = ~z~and I'll let you all live.
+
+MPGU3_MCS1_7 = ~z~but we are in deep shit, pardon my language.
+
+MPGU3_MCS1_8 = ~z~Now he's talking sense.
+
+MPGU3_MCS1_9 = ~z~We're all adults here, Bob.
+
+MPGU3_MCS1_10 = ~z~Sure as shit is shit...
+
+MPGU3_MCS1_11 = ~z~they'll be back until they've freed Montez...
+
+MPGU3_MCS1_12 = ~z~and we and every decent person in this town is dead.
+
+MPGU3_MCS1_13 = ~z~You know what, Bob...
+
+MPGU3_MCS1_14 = ~z~Montez...
+
+MPGU3_MCS1_15 = ~z~I'm a man of many contradictions.
+
+MPGU3_MCS1_16 = ~z~I've thought long and hard about a speech about ethics...
+
+MPGU3_MCS1_17 = ~z~about responsibility...
+
+MPGU3_MCS1_18 = ~z~about rule of law.
+
+MPGU3_MCS1_19 = ~z~Then I decided...
+
+MPGU3_MCS1_20 = ~z~I'd just do this...
+
+MPGU3_MCS1_21 = ~z~and hang the consequences.
+
+MPGU3_MCS1_22 = ~z~You...
+
+MPGU3_MCS1_23 = ~z~you killed him.
+
+MPGU3_MCS1_24 = ~z~No shit.
+
+MPGU3_MCS1_25 = ~z~So that's one less problem we got to worry about.
+
+MPGU3_MCS1_26 = ~z~Now what was the real problem in this town?
+
+MPGU3_MCS1_27 = ~z~His boys will be back...
+
+MPGU3_MCS1_28 = ~z~to kill us all.
+
+MPGU3_MCS1_29 = ~z~Then we better get prepared.
+
+MPGU3_NODYNA_1 = ~z~Get into cover.
+
+MPGU3_POSITIONS_1 = ~z~~sl:0.0:3.0~Okay, now get to your own positions.~sl:0.2~We shall not cede this good town to those devils.
+
+MPGU3_REGROUP_01 = ~z~You hear any more coming? Okay, come back to me.
+
+MPGU3_REGROUP_02 = ~z~That might be the last of those devils. Come over here.
+
+MPGU3_REGRPALT_01 = ~z~Ah, let's take stock a moment. Come back to me.
+
+MPGU3_REGRPALT_02 = ~z~We might have some breathing room. Let's muster here.
+
+MPGU3_REGRPIDLE_01 = ~z~I said get over here.
+
+MPGU3_REGRPIDLE_02 = ~z~I don't like repeating myself. Come here, now.
+
+MPGU3_RIFLATTCK_1 = ~z~Come on, you bastards!
+
+MPGU3_RIFLATTK2_1 = ~z~Here we go!
+
+MPGU3_RIFLE1COL_1 = ~z~On you. I'm gonna take as many of them with me as I can.
+
+MPGU3_RIFLE1DEL_1 = ~z~I'll give 'em hell, alright.
+
+MPGU3_RIFLE2COL_1 = ~z~~sl:0.0:2.5~Show me where to go. I ain't killed a man yet,~sl:~but I can hit most anything with this long gun.
+
+MPGU3_RIFLE2DEL_1 = ~z~Here? Okay. Wish me luck.
+
+MPGU3_RUNCOVER_1 = ~z~We gotta stop that thing.
+
+MPGU3_SHOTATTCK_1 = ~z~Here they come!
+
+MPGU3_SHOTATTK2_1 = ~z~May the Lord be with us!
+
+MPGU3_SNIP1COL_1 = ~z~Show me the spot and leave the sharpshooting to me.
+
+MPGU3_SNIP1DEL_1 = ~z~Alright then. If I see 'em, I will shoot them.
+
+MPGU3_SNIP2COL_1 = ~z~Where you want your sharpshooter then?
+
+MPGU3_SNIP2DEL_1 = ~z~Over here? Fine. I'll do what I can.
+
+MPGU3_SNIPATTCK_1 = ~z~There. I got a shot!
+
+MPGU3_SNIPATTK2_1 = ~z~I see them alright!
+
+MPGU3_TFBANTER1_1 = ~z~Hey, you sure you want to be outside for this?
+
+MPGU3_TFBANTER1_2 = ~z~Damn heck I do.
+
+MPGU3_TFBANTER1_3 = ~z~~sl:0.1~You'd be a lot safer shut up with everyone else.
+
+MPGU3_TFBANTER1_4 = ~z~~sl:0.2~So would you.
+
+MPGU3_TFBANTER2_1 = ~z~We got their boy, them bastards won't give up.
+
+MPGU3_TFBANTER2_2 = ~z~This is our town. We don't give up neither.
+
+MPGU3_TFBANTER2_3 = ~z~You got that right.
+
+MPGU3_TOMCHAT_01 = ~z~Everyone okay?
+
+MPGU3_TOMCHAT_02 = ~z~Catch your breath while you can.
+
+MPGU3_TOMCHAT_03 = ~z~That was... quite a disturbance.
+
+MPGU3_WAV2EAST_1 = ~z~More riders, coming up fast.
+
+MPGU3_WAV4EAST_1 = ~z~They're on top of us, now. Stop them pillaging this place!
+
+MPGU3_WAVE3EAST_1 = ~z~We got another bunch coming in from the east. Look out.
+
+MPGU3_WAVE3WEST_1 = ~z~Now they're coming on the western road. Hold 'em off.
+

@@ -1,0 +1,82 @@
+DERLC_AAPPRCH_1 = ~z~I don't trust you a damn second...
+
+DERLC_AATTACK_1 = ~z~Ahora! Vamos! Come say hello.
+
+DERLC_ADISMOUNT_01 = ~z~Off there.
+
+DERLC_ADISMOUNT_02 = ~z~Get those feet on the ground.
+
+DERLC_AGREE_1 = ~z~You will? Oh gracias a Dios.
+
+DERLC_AGUN_1 = ~t~In Spanish: Think I'm stupid?
+
+DERLC_APAT_1 = ~z~Best to trust no one out here.
+
+DERLC_APPROACH_1 = ~z~~sl:0.0:3.1~Can you help me? I'm in a bad way.~sl:0.0:1.4~M-my horse is dead some ways back...~sl:~I-I been walking for hours... I'm really dizzy.
+
+DERLC_APPROACH_2 = ~z~~sl:0.0:2.2~Could you, could you get me to a town near here?~sl:~I-I don't know if I'll make it otherwise.
+
+DERLC_DECLINE_1 = ~t~~sl:0.0:2.3~In Spanish: Please don't leave me...~sl:~In Spanish: Oh God, don't you leave...
+
+DERLC_HARRIVE_1 = ~z~~sl:0.0:3.0~This is Tumbleweed? Oh, y-yes, okay...~sl:~M-man, I'm thirsty. Kind of you for taking me.
+
+DERLC_HBANT_1 = ~z~~sl:0.4~I'm not sure I trust you...
+
+DERLC_HBANT_2 = ~z~But... I do appreciate you helping me, you know.
+
+DERLC_HBANT_3 = ~t~~sl:0.2~In Spanish: You are helping me, right?
+
+DERLC_HBANT_4 = ~z~I appreciate it. Thank you.
+
+DERLC_HBANT_5 = ~z~~sl:0.0:2.9~Damn desert. It's too hot or it's too cold.~sl:0.2~~rp~No one should live out here.
+
+DERLC_HBANT_6 = ~z~~sl:0.0:2.3~I work farms normally. You farm?~sl:0.3:2.6~~rp~No, oh... eh, someone told me there's~sl:~good work out this way... They lied.
+
+DERLC_HBANT_7 = ~t~In Spanish: Goddamn bastard. I'll wring his neck.
+
+DERLC_HBANT_8 = ~z~~sl:0.0:2.9~Where did you come from? Just out of nowhere?~sl:0.2~D-don't tell me. I don't want to know.
+
+DERLC_HBANT_9 = ~z~~sl:0.2~I don't trust the desert.
+
+DERLC_HBANT_10 = ~z~My head hurts. I don't wanna talk anymore.
+
+DERLC_HCLEAR_1 = ~z~~sl:0.3~So, so where do I sit?
+
+DERLC_HDIRECT_1 = ~z~~sl:0.0:1.4~Hey, you know Tumbleweed?~sl:0.2~If you can get me there, I-I should be fine.
+
+DERLC_HFOOT_1 = ~z~~sl:0.0:2.7~So, er, h-how are we getting there?~sl:0.3~I-I won't make it on foot.
+
+DERLC_HGIVEUP_1 = ~z~I want to walk now, okay? Leave me alone.
+
+DERLC_HMOUNT_1 = ~z~This is real good of you.
+
+DERLC_HNEAR_1 = ~z~~sl:0.3~Why would anybody want to live out here?
+
+DERLC_HTHANKS_1 = ~z~I can't believe you're doing this... thank you.
+
+DERLC_HTIP_1 = ~z~Take this, eh? Just... don't, don't you follow me.
+
+DERLC_SPOT1_01 = ~z~Dios mio... hey you! Over here!
+
+DERLC_SPOT1_02 = ~z~Hey, oh, hey! Help me, please.
+
+DERLC_SPOT2_01 = ~z~Come on, you have to help me.
+
+DERLC_SPOT2_02 = ~z~Please, d-don't leave me here.
+
+DERLC_UNSEEN_01 = ~t~In Spanish: Damn horse.
+
+DERLC_UNSEEN_02 = ~t~In Spanish: I need water...
+
+DERLC_UNSEEN_03 = ~t~In Spanish: I'm going crazy.
+
+DERLC_UNSEEN_04 = ~t~~sl:0.0:1.0:1~In Spanish: Gonna be fine...
+
+DERLC_WAIT1_1 = ~z~I-I just need to be off my feet. I can hardly see straight.
+
+DERLC_WAIT2_01 = ~z~Come on, look at me.
+
+DERLC_WAIT2_02 = ~z~Please... feels like I'm in the middle of nowhere, here.
+
+DERLC_WALKING_1 = ~t~~sl:0.0:3.5~In Spanish: It's fine, it's fine. You're gonna be fine...~sl:~In Spanish: just keep walking...
+

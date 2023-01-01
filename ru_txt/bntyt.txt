@@ -1,0 +1,86 @@
+0x5FA5EC08 = Направляйтесь к ~COLOR_MP_OBJECTIVE_ENEMY~целям~s~.
+
+0x25CC590A = Направляйтесь к ~COLOR_MP_OBJECTIVE_ENEMY~цели~s~.
+
+0x97D31166 = Защитите цель
+
+0x896FFB2F = Задание выполнено
+
+0x919DDFB8 = Схватите цель живой или мертвой
+
+0xCA64044F = Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» и поискать следы ~COLOR_MP_OBJECTIVE_ENEMY~миссис Перес~s~.
+
+0xDECD569A = Отправляйтесь к логову.
+
+FETCH_BOUNTY_HELP_REACHED_GOTO_ELYSIAN = Чтобы найти логово ~COLOR_MP_OBJECTIVE_ENEMY~Мэри Пенн~s~, уничтожайте воров.
+
+FETCH_BOUNTY_HELP_TRAIL_ELYSIAN = Вы нашли след. Идите по нему к логову ~COLOR_MP_OBJECTIVE_ENEMY~Мэри Пенн~s~.
+
+FETCH_BOUNTY_HIDEOUT_ELYSIAN_PIT_STOP = Устраните ~COLOR_ENEMY~воров~s~.
+
+FETCH_BOUNTY_HIDEOUT_ELYSIAN_TRAIL = Идите по следу.
+
+FETCH_BOUNTY_HIDEOUT_HELP_INTRO_PLURAL_ELYSIAN = ~COLOR_MP_OBJECTIVE_ENEMY~Банда ~s~~COLOR_MP_OBJECTIVE_ENEMY~Мэри Пенн~s~ отнимает у людей ценные коллекционные предметы. Чтобы получить полную награду, найдите логово Мэри Пенн и доставьте ее и ее партнеров живыми.
+
+FETCH_BOUNTY_HUNTING_HIDEOUT_ARMADILLO_HELP_INTRO = Остатки банды ~COLOR_MP_OBJECTIVE_ENEMY~«Мясники с перевала Бенедикта»~s~ прячутся в Форт-Мерсере. Чтобы получить полную награду, доставьте их живыми.
+
+FETCH_BOUNTY_HUNTING_HIDEOUT_HELP_INTRO = Чтобы получить полную награду, доставьте цель ~1b~ живой. За мертвых платят меньше.
+
+FETCH_BOUNTY_HUNTING_HIDEOUT_HELP_INTRO_PLURAL = Чтобы получить полную награду, доставьте цели ~1b~ живыми. За мертвых платят меньше.
+
+FETCH_BOUNTY_HUNTING_HIDEOUT_TARGET_GOTO = Направляйтесь ~1~.
+
+FETCH_BOUNTY_HUNTING_TIMED_EMERALD_GOTO = Поищите цель рядом с ~COLOR_MP_OBJECTIVE~дорогой~s~.
+
+FETCH_BOUNTY_HUNTING_TIMED_EMERALD_INTRO = Схватите ~COLOR_MP_OBJECTIVE_ENEMY~миссис Перес~s~ живой или мертвой
+
+FETCH_BOUNTY_HUNTING_TIMED_HELP_CLUE_FOUND = Этот человек умер. Перед смертью он стрелял в сторону юга. Догоните ~COLOR_MP_OBJECTIVE_ENEMY~миссис Перес~s~ ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~, прежде чем она доберется до логова.
+
+FETCH_BOUNTY_HUNTING_TIMED_HELP_FAKE_CLUE_SACK = По обломкам не поймешь, в какую сторону отправилась ~COLOR_MP_OBJECTIVE_ENEMY~миссис Перес~s~.
+
+FETCH_BOUNTY_HUNTING_TIMED_HELP_FAKE_CLUE_TRASH = Эта повозка была недавно разграблена, и в ней не осталось ничего ценного.
+
+FETCH_BOUNTY_HUNTING_TIMED_HELP_INTRO = Цель ~1b~ направляется в хорошо защищенное логово. Чтобы получить полную награду, доставьте цель живой. За мертвых платят меньше.
+
+FETCH_BOUNTY_HUNTING_TIMED_HELP_INTRO_PLURAL = Цель ~1b~ направляется в хорошо защищенное логово. Чтобы получить полную награду, доставьте цели живыми. За мертвых платят меньше.
+
+FETCH_BOUNTY_HUNTING_TIMED_HELP_OBJECTIVE_ESCAPING = ~COLOR_MP_OBJECTIVE_ENEMY~Цель~s~ пытается сбежать. Если ей удастся уйти от вас на достаточное расстояние, она сбежит, а вы не сможете получить за нее награду.
+
+FETCH_BOUNTY_HUNTING_TIMED_HELP_PRIMARY_GO_TO = Произошло очередное нападение на путников к югу от ранчо Эмеральд. Выследите ~COLOR_MP_OBJECTIVE_ENEMY~миссис Перес~s~ и доставьте ее живой, чтобы получить полную награду.
+
+FETCH_BOUNTY_HUNTING_TIMED_HELP_SEARCH = Чтобы активировать «Орлиный глаз» и поискать следы ~COLOR_MP_OBJECTIVE_ENEMY~миссис Перес~s~, нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~.
+
+FETCH_BOUNTY_HUNTING_TIMED_OBJ_DEFEND = Помогите доставить ~COLOR_MP_OBJECTIVE_FRIENDLY~цель~s~ ~1~.
+
+FETCH_BOUNTY_HUNTING_TIMED_OBJ_DEFEND_PLURAL = Помогите доставить ~COLOR_MP_OBJECTIVE_FRIENDLY~цели~s~ ~1~.
+
+FETCH_BOUNTY_HUNTING_TIMED_OBJ_DROP = Сдайте цель.
+
+FETCH_BOUNTY_HUNTING_TIMED_OBJ_FIND = Убейте или схватите ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~.
+
+FETCH_BOUNTY_HUNTING_TIMED_OBJ_FIND_PLURAL = Убейте или схватите ~COLOR_MP_OBJECTIVE_ENEMY~цели~s~.
+
+FETCH_BOUNTY_HUNTING_TIMED_OBJ_MOUNT = Садитесь на лошадь.
+
+FETCH_BOUNTY_HUNTING_TIMED_OBJ_RETURN = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~цель~s~ ~1~.
+
+FETCH_BOUNTY_HUNTING_TIMED_OBJ_RETURN_PLURAL = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~цели~s~ ~1~.
+
+FETCH_BOUNTY_HUNTING_TIMED_OBJ_SEARCH_AREA = Осмотрите ~COLOR_MP_OBJECTIVE~местность~s~ и найдите следы преступника.
+
+FETCH_BOUNTY_HUNTING_TIMED_OUT_OF_BOUNDS = Вернитесь к заданию.
+
+FETCH_BOUNTY_HUNTING_TIMED_SCORETIMER_DESTROY = Цель убита
+
+FETCH_BOUNTY_HUNTING_TIMED_SCORETIMER_DESTROY_YOU = Вы убили цель
+
+FETCH_BOUNTY_HUNTING_TIMED_SCORETIMER_ESCAPE = ~COLOR_MP_OBJECTIVE_ENEMY~Цель~s~ сбежала
+
+FETCH_BOUNTY_HUNTING_TIMED_SCORETIMER_OBJ_REACHED_DRIVE_TO = Цель добралась до своего логова
+
+FETCH_BOUNTY_HUNTING_TIMED_SCORETIMER_TRIGGER_ACTION = Игрок ~1~ спугнул цель
+
+FETCH_BOUNTY_HUNTING_TIMED_SHARD_ESCAPED = Цель сбежала
+
+FETCH_BOUNTY_HUNTING_TIMED_SHARD_ESCAPED_PLURAL = Цели сбежали
+

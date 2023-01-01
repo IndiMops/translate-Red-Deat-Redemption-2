@@ -1,0 +1,172 @@
+0x2DAE25BA = The target was delivered
+
+0x2F68CA41 = Return the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ dead or alive
+
+0x3E09D01F = Capture ~COLOR_ENEMY~Mrs. Brady~s~ dead or alive
+
+0x47A6FD50 = The targets were delivered
+
+0x141CAEA1 = Capture ~COLOR_ENEMY~Tobias~s~ and ~COLOR_ENEMY~Dan Bellingham~s~ dead or alive
+
+0x448D0EB9 = Capture ~COLOR_ENEMY~Roache~s~ dead or alive
+
+0x805DAF78 = ~COLOR_MP_OBJECTIVE_ENEMY~The Butchers~s~ have been seen stalking people around Venter's Place. Track down the target and deliver them alive for the full reward.
+
+0x3759F977 = Convince the bootlegger to give up the target position without alerting the law.
+
+0x7360E5E8 = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+0x8031AF37 = Return the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~ dead or alive
+
+0x8233CB99 = Capture ~COLOR_ENEMY~Tobin Anderson~s~ dead or alive
+
+0x41893D32 = Convince the bootlegger to give up the target position without alerting the law.
+
+0xB9817F3E = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+0xBDF89165 = ~COLOR_MP_OBJECTIVE_ENEMY~Patrick~s~ and ~COLOR_MP_OBJECTIVE_ENEMY~Dan Bellingham~s~ have sold the last of their moonshine to the Rhodes Parlour House. Find and deliver them alive for the full reward.
+
+0xD78C5470 = ~1~/~2~ targets were delivered
+
+BOUNTY_KNOWN_TARGET_ARMADILLO_HELP_SEARCH = Search for clues left by ~COLOR_MP_OBJECTIVE_ENEMY~The Butchers~s~.
+
+BOUNTY_KNOWN_TARGET_BENEDICT_1_CLUE = ~COLOR_MP_OBJECTIVE_ENEMY~Los Pasajeros~s~ are planning to ambush a train at Mercer Station.
+
+BOUNTY_KNOWN_TARGET_BENEDICT_1_CLUE_EARLY_INSPECT = ~COLOR_MP_OBJECTIVE_ENEMY~Los Pasajeros~s~ are planning to ambush a train at Mercer Station. Take out the remaining gang members and go to Mercer Station to find the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~.
+
+BOUNTY_KNOWN_TARGET_BLACKWATER_HELP_PRIMARY = A member of ~COLOR_MP_OBJECTIVE_ENEMY~Thaddeus Walter's Men~s~ has been seen fleeing Blackwater. Find the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ and deliver them alive for the full reward.
+
+BOUNTY_KNOWN_TARGET_HELP_APPROACH_RIGGS_3 = Approach the informant ~1b~ to learn the whereabouts of the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~.
+
+BOUNTY_KNOWN_TARGET_HELP_ARMADILLO_CLUE_INSPECTED = There are signs of a recent struggle here. Keep searching for more clues.
+
+BOUNTY_KNOWN_TARGET_HELP_ARMADILLO_FINAL_CLUE_INSPECTED = ~COLOR_MP_OBJECTIVE_ENEMY~The Butchers~s~ were the cause of the struggle here and must have recently left. Catch up with the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ as they make their escape. 
+
+BOUNTY_KNOWN_TARGET_HELP_BLACKWATER_CLUE_INSPECTED = The ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ has recently left the camp for Riggs Station.
+
+BOUNTY_KNOWN_TARGET_HELP_BLACKWATER_DEAD_END = The target has recently left but the pack gives no indication where he has gone. Keep searching for clues.
+
+BOUNTY_KNOWN_TARGET_HELP_BODY_STOW = Bodies can be stored on the back of your horse for easy transport.
+
+BOUNTY_KNOWN_TARGET_HELP_EMRNH_GO_TO_PLEASANCE = ~COLOR_MP_OBJECTIVE_ENEMY~Mrs. Brady~s~ has been attacking travelers near Pleasance ~o~~BLIP_OBJECTIVE~~s~.
+
+BOUNTY_KNOWN_TARGET_HELP_FOLLOW_RIGGS_3 = Follow the informant ~1b~ to where ~COLOR_MP_OBJECTIVE_ENEMY~Bartholomew Brown~s~ and his ~COLOR_MP_OBJECTIVE_ENEMY~gang~s~ are hiding.
+
+BOUNTY_KNOWN_TARGET_HELP_INSPECT_FOREMAN = The foreman has been murdered and ~COLOR_MP_OBJECTIVE_ENEMY~Tobin Anderson~s~ and his gang have infiltrated the Annesburg mine ~o~~BLIP_OBJECTIVE~~s~.
+
+BOUNTY_KNOWN_TARGET_HELP_LOOK_AT_CLUE = Focus on the clue
+
+BOUNTY_KNOWN_TARGET_HELP_OBJECTIVE_DEAD = The target has been killed. Collect and return the body for a reward.
+
+BOUNTY_KNOWN_TARGET_HELP_OBJECTIVE_ESCAPING = The ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ ~1b~ is escaping: capture them before they escape.
+
+BOUNTY_KNOWN_TARGET_HELP_PRIMARY = Deliver the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ ~1b~ alive for the full reward. Dead targets are worth less.
+
+BOUNTY_KNOWN_TARGET_HELP_PRIMARY_ANS_3 = ~COLOR_MP_OBJECTIVE_ENEMY~Tobin Anderson~s~ has been seen meeting with a mine foreman outside of Annesburg. Track him down and deliver him alive for the full reward.
+
+BOUNTY_KNOWN_TARGET_HELP_PRIMARY_BENEDICT_1 = Investigate the latest ~COLOR_MP_OBJECTIVE_ENEMY~Los Pasajeros~s~ train robbery location. Find the target and deliver them alive for the full reward.
+
+BOUNTY_KNOWN_TARGET_HELP_PRIMARY_EMRNH_1 = ~COLOR_MP_OBJECTIVE_ENEMY~Mrs. Brady~s~ has kidnapped a traveler and taken them into Bluewater Marsh. Track her down and deliver her alive for the full reward.
+
+BOUNTY_KNOWN_TARGET_HELP_PRIMARY_GO_TO = Go to the last known location and look for signs which may lead to the target's whereabouts.
+
+BOUNTY_KNOWN_TARGET_HELP_PRIMARY_PLURAL = Deliver the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~ ~1b~ alive for the full reward. Dead targets are worth less.
+
+BOUNTY_KNOWN_TARGET_HELP_PRIMARY_RIGGS_3 = ~COLOR_MP_OBJECTIVE_ENEMY~Bartholomew Brown~s~ and the last of his ~COLOR_MP_OBJECTIVE_ENEMY~gang~s~ are hiding out in Saint Denis. Speak with an informant to find them and deliver them alive for the full reward.
+
+BOUNTY_KNOWN_TARGET_HELP_PRIMARY_STDENIS_1 = The wanted murderer ~COLOR_MP_OBJECTIVE_ENEMY~Roache~s~ has been located at an abandoned shack outside town. Find and deliver him alive for the full reward.
+
+BOUNTY_KNOWN_TARGET_HELP_PRIMARY_VAL_1 = ~COLOR_MP_OBJECTIVE_ENEMY~Bethanie de la Mare~s~ is known to regularly gather individuals to her in the Ambarino hills. Find the target and deliver her alive for the full reward.
+
+BOUNTY_KNOWN_TARGET_HELP_RHODES_INTIMIDATE = Intimidate the bootlegger ~COLOR_MP_OBJECTIVE_ENEMY~~BLIP_OBJECTIVE~~s~ to learn where the Bellingham brothers have escaped to.
+
+BOUNTY_KNOWN_TARGET_HELP_RHODES_LOCATION = The ~COLOR_MP_OBJECTIVE_ENEMY~bootlegger~s~ has given up the location of the moonshining operation. Apprehend ~COLOR_MP_OBJECTIVE_ENEMY~Patrick~s~ and ~COLOR_MP_OBJECTIVE_ENEMY~Dan Bellingham~s~ in ~COLOR_MP_OBJECTIVE~Clemens Cove~s~.
+
+BOUNTY_KNOWN_TARGET_HELP_SEARCH = The target was last seen in this area. Search for signs left behind by the target.
+
+BOUNTY_KNOWN_TARGET_HELP_SEARCH_ANNESBURG_3 = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the targets.
+
+BOUNTY_KNOWN_TARGET_HELP_SEARCH_BENEDICT_1 = The ~COLOR_MP_OBJECTIVE_ENEMY~Los Pasajeros target~s~ is not at the hideout. Search for a clue and track them down.
+
+BOUNTY_KNOWN_TARGET_HELP_SEARCH_VAL_1 = Search for signs to track down where the target has gone.
+
+BOUNTY_KNOWN_TARGET_INSPECT_CLUE = Inspect
+
+BOUNTY_KNOWN_TARGET_INTIMIDATE_BOOTLEGGER = Intimidate the ~COLOR_MP_OBJECTIVE_ENEMY~bootlegger~s~
+
+BOUNTY_KNOWN_TARGET_OBJ_APPROACH_ACCOMPLICE = Approach the ~COLOR_MP_OBJECTIVE~stranger~s~
+
+BOUNTY_KNOWN_TARGET_OBJ_APPROACH_INFORMANT = Approach the ~COLOR_MP_OBJECTIVE~informant~s~
+
+BOUNTY_KNOWN_TARGET_OBJ_AREA = Go to the ~COLOR_MP_OBJECTIVE~ambush site~s~
+
+BOUNTY_KNOWN_TARGET_OBJ_DEFEND = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~target~s~ ~1~
+
+BOUNTY_KNOWN_TARGET_OBJ_DEFEND_PLURAL = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~targets~s~ ~1~
+
+BOUNTY_KNOWN_TARGET_OBJ_DELIVER = Deliver the target ~1~
+
+BOUNTY_KNOWN_TARGET_OBJ_DELIVER_PLURAL = Deliver the targets ~1~
+
+BOUNTY_KNOWN_TARGET_OBJ_DROP = Drop the target
+
+BOUNTY_KNOWN_TARGET_OBJ_ESCORT_DELIVER_STEAL = Recover the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ from ~COLOR_ENEMY~~1~
+
+BOUNTY_KNOWN_TARGET_OBJ_FIND = Kill or capture the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+BOUNTY_KNOWN_TARGET_OBJ_FIND_PLURAL = Kill or capture the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~
+
+BOUNTY_KNOWN_TARGET_OBJ_FOLLOW_INFORMANT = Follow the ~COLOR_MP_OBJECTIVE~informant~s~
+
+BOUNTY_KNOWN_TARGET_OBJ_GET_ON_MOUNT = Get on the horse
+
+BOUNTY_KNOWN_TARGET_OBJ_GOTO = Go ~1~
+
+BOUNTY_KNOWN_TARGET_OBJ_GOTO_ANNESBURG_MINES = Go to the ~COLOR_MP_OBJECTIVE~Annesburg Mines~s~
+
+BOUNTY_KNOWN_TARGET_OBJ_GOTO_CAVE = Go to the ~COLOR_MP_OBJECTIVE~cave~s~
+
+BOUNTY_KNOWN_TARGET_OBJ_GOTO_CLEMENS_COVE = Go to ~COLOR_MP_OBJECTIVE~Clemens Cove~s~
+
+BOUNTY_KNOWN_TARGET_OBJ_GOTO_PLEASANCE_SETTLE = Go to the ~COLOR_MP_OBJECTIVE~Pleasance Settlement~s~
+
+BOUNTY_KNOWN_TARGET_OBJ_GOTO_SAINT_DENIS = Go to ~COLOR_MP_OBJECTIVE~Saint Denis~s~
+
+BOUNTY_KNOWN_TARGET_OBJ_KILL_ATTACKERS = Take out the ~COLOR_MP_OBJECTIVE_ENEMY~bandits~s~
+
+BOUNTY_KNOWN_TARGET_OBJ_KILL_GANG_MEMBERS = Take out the ~COLOR_MP_OBJECTIVE_ENEMY~gang members~s~
+
+BOUNTY_KNOWN_TARGET_OBJ_RETURN_TO_MISSION = Return to the mission ~COLOR_MP_OBJECTIVE~area~s~
+
+BOUNTY_KNOWN_TARGET_OBJ_SEARCH_AREA = Search the ~COLOR_MP_OBJECTIVE~area~s~ for signs of the bounty target
+
+BOUNTY_KNOWN_TARGET_OBJ_SEARCH_CAMP = Search the ~COLOR_MP_OBJECTIVE~camp~s~ for signs of the bounty target
+
+BOUNTY_KNOWN_TARGET_OBJ_SEARCH_HIDEOUT = Search the ~COLOR_MP_OBJECTIVE~hideout~s~ for signs of the bounty target
+
+BOUNTY_KNOWN_TARGET_PRIMARY_JOIN = ~1~ has joined in the bounty hunt
+
+BOUNTY_KNOWN_TARGET_RESCUE_PED_UNTIE = Free the hogtied ~COLOR_MP_OBJECTIVE~stranger~s~
+
+BOUNTY_KNOWN_TARGET_RETURN_TO_MISSION = Return to the ~COLOR_MP_OBJECTIVE~area~s~
+
+BOUNTY_KNOWN_TARGET_SCORETIMER_OBJ_REACHED_DRIVE_TO = The target has reached their destination
+
+BOUNTY_KNOWN_TARGET_SHARD_FAIL_BOOTLEGGER_KILLED = The ~COLOR_MP_OBJECTIVE_ENEMY~bootlegger~s~ has been killed
+
+BOUNTY_KNOWN_TARGET_SHARD_FAIL_PRISONER_KILLED = The ~COLOR_MP_OBJECTIVE_ENEMY~prisoner~s~ has been killed
+
+BOUNTY_KNOWN_TARGET_SHARD_OVER = The ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ escaped
+
+BOUNTY_KNOWN_TARGET_SHARD_OVER_PLURAL = The ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~ escaped
+
+BOUNTY_KNOWN_TARGET_STRAWBERRY_HELP_PRIMARY = Two of The Initiates have recently stolen a wagon and are on the move with it. Deliver them alive for the full reward.
+
+BOUNTY_KNOWN_TARGET_TICKER_DESTROY = A bounty has been lost
+
+BOUNTY_KNOWN_TARGET_TICKER_DESTROY_YOU = You killed a ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+BOUNTY_KNOWN_TARGET_TICKER_ESCAPE = A ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ has escaped
+
+BOUNTY_KNOWN_TARGET_VAL_1_CLUE = Bethanie de la Mare's diary describes a nearby secret location used for initiations.
+

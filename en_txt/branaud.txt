@@ -1,0 +1,622 @@
+BRACHASE_A_01 = ~z~Come back.
+
+BRACHASE_A_02 = ~z~Come back, you little sneak.
+
+BRACHASE_A_03 = ~z~It's a bit late for running, Johnson.
+
+BRACHASE_J_01 = ~z~Come back.
+
+BRACHASE_J_02 = ~z~Come back, you little sneak.
+
+BRACHASE_J_03 = ~z~It's a bit late for running, Johnson.
+
+BRAHOGTIED1_1 = ~z~If you're gonna take me in, take me in.
+
+BRAHOGTIED2_1 = ~z~Let's go see the sheriff.
+
+BRAHOGTIED3_1 = ~z~Am I just gonna lie here with my face in the dirt?
+
+BRAHOGTIED4_1 = ~z~What you doing? What you up to, mister?
+
+BRAHOGTIED5_1 = ~z~Hey! Are we going?
+
+BRAN_EMBRACE1_1 = ~z~Hush, we're proud of you boy.
+
+BRAN_EMBRACE1_2 = ~z~
+
+BRAN_EMBRACE1_3 = ~z~We knew this might happen. Be thankful for the time you had.
+
+BRAN_EMBRACE1_4 = ~z~
+
+BRAN_EMBRACE1_5 = ~z~There, there. You're the man now.
+
+BRAN_EMBRACE1_6 = ~z~
+
+BRAN_EMBRACE1_7 = ~z~Remember your daddy. You might not see him again.
+
+BRAN_EMBRACE1_8 = ~z~
+
+BRAN_EMBRACE1_9 = ~z~We're going to look after each other now.
+
+BRAN_LASSO1_1 = ~z~Leave my daddy alone!
+
+BRAN_LASSO1_2 = ~z~Billy, leave it!
+
+BRAN_LASSO2_1 = ~z~Don't hurt him, mister.
+
+BRAN_LASSO2_2 = ~z~Do you have to do this in front of the boy?
+
+BRAN_LASSO3_1 = ~z~Momma, he's hurting him!
+
+BRAN_LASSO4_1 = ~z~Hey, stop it, mister, stop it!
+
+BRAN_LASSO4_2 = ~z~There, Billy. There, there.
+
+BRARAGE1_1 = ~z~You're a killer.
+
+BRARAGE1_2 = ~z~A no good killer.
+
+BRARAGE1_3 = ~z~I might'a done things, but I changed.
+
+BRARAGE1_4 = ~z~You're evil, mister.
+
+BRARAGE2_1 = ~z~You're going to answer for this.
+
+BRARAGE2_2 = ~z~What you did to her... it's gonna catch up with you.
+
+BRARAGE2_3 = ~z~You'll pay. You'll pay.
+
+BRARAGE2_4 = ~z~It'll come around, mister. And it will bite you.
+
+BRARAGE3_1 = ~z~I was being good. Don't you get it?
+
+BRARAGE3_2 = ~z~I was making a life!
+
+BRARAGE3_3 = ~z~Who else was gonna work that land?
+
+BRARAGE3_4 = ~z~Who else is gonna raise that boy?
+
+BRARAGE3_5 = ~z~I'm gonna hang, and what's that gonna do? For anyone?
+
+BRARAGE3_6 = ~z~It's all damn pointless. Nothing counts for nothing.
+
+BRARETURN1DIDNT_1 = ~z~I got nothing to say to you.
+
+BRARETURN1HURT_1 = ~z~You're a monster, mister.
+
+BRARETURN1SPEAK_1 = ~z~I've made my peace.
+
+BRARETURN1_A_1 = ~z~Johnson? Johnson?
+
+BRARETURN1_A_2 = ~z~What?
+
+BRARETURN1_A_3 = ~z~Just you're real quiet back there.
+
+BRARETURN1_A_4 = ~z~Most captured men, they beg, or they cry, or they rail against fate.
+
+BRARETURN1_J_1 = ~z~Johnson? Johnson?
+
+BRARETURN1_J_2 = ~z~What?
+
+BRARETURN1_J_3 = ~z~Just you're real quiet back there.
+
+BRARETURN1_J_4 = ~z~Most captured men, they beg, or they cry, or they rail against fate.
+
+BRARETURN2_A_1 = ~z~Okay.
+
+BRARETURN2_J_1 = ~z~Okay.
+
+BRARHODES_A_1 = ~z~Hold on. Won't be long 'til we're in Rhodes.
+
+BRARHODES_A_A_1 = ~z~This is Rhodes... you're almost shot of me.
+
+BRARHODES_A_A_2 = ~z~I'm ready... I hope they make it quick.
+
+BRARHODES_A_J_1 = ~z~This is Rhodes... you're almost rid of me.
+
+BRARHODES_A_J_2 = ~z~I'm ready... I hope they make it quick.
+
+BRARHODES_J_1 = ~z~Hold on. Won't be long 'til we're in Rhodes.
+
+BRARHODES_K_A_1 = ~z~This is Rhodes... you're almost shot of me.
+
+BRARHODES_K_A_2 = ~z~Murdering bastard.
+
+BRARHODES_K_J_1 = ~z~This is Rhodes... you're almost rid of me.
+
+BRARHODES_K_J_2 = ~z~Murdering bastard.
+
+BRA_AIMS1_01 = ~z~No!
+
+BRA_AIMS1_02 = ~z~Don't!
+
+BRA_AIMS1_03 = ~z~Stop!
+
+BRA_AIMS1_04 = ~z~Mark, help!
+
+BRA_AIMS2_01 = ~z~Don't you hurt them!
+
+BRA_AIMS2_02 = ~z~I'm who you want!
+
+BRA_AIMS2_03 = ~z~Hey, over here! Over here, hey!
+
+BRA_AIMS3_01 = ~z~Lower that weapon!
+
+BRA_AIMS3_02 = ~z~You got no call to raise that on them!
+
+BRA_AIMS3_03 = ~z~That's a woman and child!
+
+BRA_BEG_01 = ~z~I swear, I'm a good man now, Sheriff. I got a son.
+
+BRA_BEG_02 = ~z~I built a home... out in godforsaken county. Land no one would want. I made amends, I promise.
+
+BRA_BEG_03 = ~z~We all deserve second chances. Every one of us.
+
+BRA_BEG_04 = ~z~Don't you believe in redemption? I worked the land. I raised a family. I redeemed myself. Please.
+
+BRA_CELL1N_FA_A_1 = ~z~You really cared about that family, you would have done better by them.
+
+BRA_CELL1N_FA_A_2 = ~z~Oh yeah? Like you know how I did? I did everything I could...
+
+BRA_CELL1N_FA_A_3 = ~z~only it weren't enough for the state of Lemoyne... or a cowboy carrying a wanted poster.
+
+BRA_CELL1N_FA_A_4 = ~z~It ain't my place to make judgements. All of this is on you, Johnson.
+
+BRA_CELL1N_FA_J_1 = ~z~You really cared about that family, you would have done better by them.
+
+BRA_CELL1N_FA_J_2 = ~z~Oh yeah? Like you know how I did? I did everything I could...
+
+BRA_CELL1N_FA_J_3 = ~z~only it weren't enough for the state of Lemoyne... or a cowboy carrying a wanted poster.
+
+BRA_CELL1N_FA_J_4 = ~z~It ain't my place to make judgements. All of this is on you, Johnson.
+
+BRA_CELL1N_FK_A_1 = ~z~I hope you in there thinking on all the misery you caused?
+
+BRA_CELL1N_FK_A_2 = ~z~Sir, I was a bad man. I robbed stage coaches and I killed a feller.
+
+BRA_CELL1N_FK_A_3 = ~z~But nothing... nothing I did compared to the evil you caused, serving warrants for the state of Lemoyne.
+
+BRA_CELL1N_FK_A_4 = ~z~You woman killing sack of shit.
+
+BRA_CELL1N_FK_A_5 = ~z~If you was ever getting out of here... I'd be worried about you.
+
+BRA_CELL1N_FK_J_1 = ~z~I hope you in there thinking on all the misery you caused?
+
+BRA_CELL1N_FK_J_2 = ~z~Sir, I was a bad man. I robbed stage coaches and I killed a feller.
+
+BRA_CELL1N_FK_J_3 = ~z~But nothing... nothing I did compared to the evil you caused, serving warrants for the state of Lemoyne.
+
+BRA_CELL1N_FK_J_4 = ~z~You woman killing sack of shit.
+
+BRA_CELL1N_FK_J_5 = ~z~If you was ever getting out of here... I'd be worried about you.
+
+BRA_CELL1P_FA_A_1 = ~z~I been thinking... if you knew bounty hunters was coming, why didn't you run?
+
+BRA_CELL1P_FA_A_2 = ~z~I'd done my running... I just thought... after all that time, maybe I'd be forgiven.
+
+BRA_CELL1P_FA_A_3 = ~z~It don't feel like much of a country for forgiveness.
+
+BRA_CELL1P_FA_J_1 = ~z~I been thinking... if you knew bounty hunters was coming, why didn't you run?
+
+BRA_CELL1P_FA_J_2 = ~z~I'd done my running... I just thought... after all that time, maybe I'd be forgiven.
+
+BRA_CELL1P_FA_J_3 = ~z~It don't feel like much of a country for forgiveness.
+
+BRA_CELL1P_FK_A_1 = ~z~How you holding up in there? You been through a lot.
+
+BRA_CELL1P_FK_A_2 = ~z~Is that a joke? You catch a man... you kill his wife... then you come to the jail cell playing priest?
+
+BRA_CELL1P_FK_A_3 = ~z~What's the matter with you?
+
+BRA_CELL1P_FK_A_4 = ~z~When you put it like that, it does sound kinda off. I apologize.
+
+BRA_CELL1P_FK_J_1 = ~z~How you holding up in there? You been through a lot.
+
+BRA_CELL1P_FK_J_2 = ~z~Is that a joke? You catch a man... you kill his wife... then you come to the jail cell playing priest?
+
+BRA_CELL1P_FK_J_3 = ~z~What's the matter with you?
+
+BRA_CELL1P_FK_J_4 = ~z~When you put it like that, it does sound kinda off. I apologize.
+
+BRA_CELL1_FA_01 = ~z~It's the man that brought me in...
+
+BRA_CELL1_FA_02 = ~z~If it isn't the Sheriff's errand boy.
+
+BRA_CELL1_FA_03 = ~z~They haven't hanged me yet, if that's what you're thinking.
+
+BRA_CELL1_FA_04 = ~z~Yeah, I'm still here, mister. For now...
+
+BRA_CELL1_FA_05 = ~z~Hey, hey.... you heard tell of my family, huh?
+
+BRA_CELL1_FA_06 = ~z~You already collected on me once, mister. There's nothing for you here.
+
+BRA_CELL1_FK_01 = ~z~It's that murdering son of a bitch...
+
+BRA_CELL1_FK_02 = ~z~You're the one who should be in here, murderer.
+
+BRA_CELL1_FK_03 = ~z~My son's gonna be an orphan, mister.
+
+BRA_CELL1_FK_04 = ~z~I spit on you.
+
+BRA_CELL2N_FA_A_1 = ~z~Surely it's about noose time for you?
+
+BRA_CELL2N_FA_A_2 = ~z~You made a wife a widow and a boy fatherless, you son of a bitch. And you coming here to gloat about it?
+
+BRA_CELL2N_FA_A_3 = ~z~Let me have some peace in my last hours on earth.
+
+BRA_CELL2N_FA_A_4 = ~z~A bounty's a bounty, mister. Don't take it so personal.
+
+BRA_CELL2N_FA_J_1 = ~z~Surely it's about noose time for you?
+
+BRA_CELL2N_FA_J_2 = ~z~You made a wife a widow and a boy fatherless, you son of a bitch. And you coming here to gloat about it?
+
+BRA_CELL2N_FA_J_3 = ~z~Let me have some peace in my last hours on earth.
+
+BRA_CELL2N_FA_J_4 = ~z~A bounty's a bounty, mister. Don't take it so personal.
+
+BRA_CELL2P_FA_A_1 = ~z~How you holding up in there?
+
+BRA_CELL2P_FA_A_2 = ~z~I'm a dead man walking... only I got about six foot of space to do it in. My boy, you think he'll handle all this?
+
+BRA_CELL2P_FA_A_3 = ~z~I don't know... it's gonna be hard.
+
+BRA_CELL2P_FA_A_4 = ~z~Sure will be.
+
+BRA_CELL2P_FA_J_1 = ~z~How you holding up in there?
+
+BRA_CELL2P_FA_J_2 = ~z~I'm a dead man walking... only I got about six foot of space to do it in. My boy, you think he'll handle all this?
+
+BRA_CELL2P_FA_J_3 = ~z~I don't know... it's gonna be hard.
+
+BRA_CELL2P_FA_J_4 = ~z~Sure will be.
+
+BRA_CELLGO_FK_01 = ~z~Get the hell out!
+
+BRA_CELLGO_FK_02 = ~z~I don't wanna see your face!
+
+BRA_CELLGO_FK_03 = ~z~Get out, you son of a bitch!
+
+BRA_CELLGO_FK_04 = ~z~Damn your eyes, go.
+
+BRA_CHASE_01 = ~z~Hey! Give him up!
+
+BRA_CHASE_02 = ~z~You aren't collecting this bounty!
+
+BRA_CHASE_03 = ~z~Release your man! Now!
+
+BRA_CHASE_04 = ~z~Release him!
+
+BRA_DELIVER_A_1 = ~z~Found this feller on a small holding – name's Mark Johnson.
+
+BRA_DELIVER_J_1 = ~z~Found this feller on a small holding – name's Mark Johnson.
+
+BRA_DELIVER_S_1 = ~z~You can only run so long, son. There's your cell... you're lucky it's not a grave.
+
+BRA_DELIVER_S_2 = ~z~I was out in the bayou, wasn't hurting no one.
+
+BRA_DEL_S_WK_1 = ~z~He's a murderer, Sheriff!
+
+BRA_DEL_S_WK_2 = ~z~My boy will tell you. He killed my wife.
+
+BRA_DEL_S_WK_3 = ~z~You can only run so long, son. There's your cell... you're lucky it's not a grave.
+
+BRA_DYING_01 = ~z~No...
+
+BRA_DYING_02 = ~z~No. No.
+
+BRA_DYING_03 = ~z~Oh, no.
+
+BRA_FAMFLEE_1 = ~z~Run, boy. This ain't a good man.
+
+BRA_FAMGRIEF_01 = ~z~Is this necessary? You're scaring the boy.
+
+BRA_FAMGRIEF_02 = ~z~Enough of that. You came for him, didn't you?
+
+BRA_FAMGRIEF_03 = ~z~Leave us alone, sir.
+
+BRA_FAMGRIEF_1_01 = ~z~You take pleasure in this, don't you?
+
+BRA_FAMGRIEF_1_02 = ~z~You're a devil, mister.
+
+BRA_HOGTIE_1 = ~z~I just wanted to say goodbye.
+
+BRA_HOGTIE_2 = ~z~Boy, you're the man now. You can't be soft no more!
+
+BRA_HOGWAKA_1 = ~z~I guess how rough I am is my call to make.
+
+BRA_HOGWAKJ_1 = ~z~I guess how rough I am is my call to make.
+
+BRA_HOGWAK_1 = ~z~Dammit. My head.
+
+BRA_HOGWAK_2 = ~z~You didn't have to be that rough.
+
+BRA_HOG_KW_1 = ~z~Sweet girl. She didn't do nothing to you!
+
+BRA_HOG_KW_2 = ~z~Let me out of these! You'll answer for that.
+
+BRA_HOG_KW_3 = ~z~You'll answer!
+
+BRA_JUMP_FLEE_1_1 = ~z~I don't want to hang.
+
+BRA_JUMP_FLEE_2_1 = ~z~This ain't happening.
+
+BRA_JUMP_FLEE_3_1 = ~z~Don't you... don't.
+
+BRA_JUMP_FLEE_4_1 = ~z~No, no, no, no.
+
+BRA_JUMP_FLEE_5_1 = ~z~I've changed.
+
+BRA_N_AGRO2_01 = ~z~I said you'd answer for that, and you will, alright!
+
+BRA_N_AGRO2_02 = ~z~I'll kill you, you cold bastard!
+
+BRA_N_AGROW_1 = ~z~Oh God. Run, boy. Go!
+
+BRA_N_AGROW_2 = ~z~Momma... Momma...
+
+BRA_N_AGRO_1 = ~z~It's like that, is it?
+
+BRA_N_AGRO_2 = ~z~Get the boy out of here.
+
+BRA_N_ATTW_1 = ~z~No! No!
+
+BRA_N_ATTW_2 = ~z~Sweet girl!
+
+BRA_N_ATTW_3 = ~z~You're gonna answer for that!
+
+BRA_N_NORS_1 = ~z~Hey, alright, just take me in then. This is hard enough on them already.
+
+BRA_N_NORS_2 = ~z~I'm the one you want. Leave my family be.
+
+BRA_N_UNARM_1 = ~z~Don't shoot. I'm unarmed.
+
+BRA_N_UNARM_2 = ~z~We knew you was coming. I got something to ask...
+
+BRA_N_WAIT1A_1 = ~z~What is this about? You letting me free?
+
+BRA_N_WAIT1B_1 = ~z~Am I free to go?
+
+BRA_N_WAIT1B_2 = ~z~Why you do that to my family then let me go?
+
+BRA_PLR_ATKN_A_1 = ~z~Your past catches up with ya.
+
+BRA_PLR_ATKN_J_1 = ~z~Your past catches up with ya.
+
+BRA_PLYR_ATK_A_1 = ~z~Maybe you weren't. But those partners of yours were a rough bunch.
+
+BRA_PLYR_ATK_JN_1 = ~z~Go to hell.
+
+BRA_PLYR_ATK_J_1 = ~z~Maybe you weren't. But those partners of yours were a rough bunch.
+
+BRA_PLYR_KILL_A_1 = ~z~Bounties is a rough business, Sheriff.
+
+BRA_PLYR_KILL_A_2 = ~z~Things happen. You know how it is.
+
+BRA_PLYR_KILL_J_1 = ~z~Bounties is a rough business, Sheriff.
+
+BRA_PLYR_KILL_J_2 = ~z~Things happen. You know how it is.
+
+BRA_RECAP_A_1 = ~z~Oh no, you don't.
+
+BRA_RECAP_A_2 = ~z~Damn you.
+
+BRA_RECAP_J_1 = ~z~Oh no, you don't.
+
+BRA_RECAP_J_2 = ~z~Damn you.
+
+BRA_REWARD_1 = ~z~That's the price for Johnson.
+
+BRA_REWARD_A_1 = ~z~I didn't take it someone else would have.
+
+BRA_REWARD_J_1 = ~z~I didn't take it someone else would have.
+
+BRA_RWD_WIFE_1 = ~z~He murdered my woman, he's the one you should arrest!
+
+BRA_R_CHA1A_1 = ~z~There he is. Like the boy said.
+
+BRA_R_CHA1A_2 = ~z~Let him go back to his family... or you're gonna have trouble with us.
+
+BRA_R_CHA1C_1 = ~z~There he is. Like the poor boy said.
+
+BRA_R_CHA1C_2 = ~z~You killed his wife... we aren't going to let you take him too.
+
+BRA_R_CHA2A_1 = ~z~That's a boy. I knew you'd do it. Just like Daddy told you.
+
+BRA_R_CHA2A_2 = ~z~Get me off of here!
+
+BRA_R_CHA2A_3 = ~z~He ain't much of a bounty hunter. Come on.
+
+BRA_R_CHA2C_1 = ~z~Good boy. You got them. Just like Daddy told you.
+
+BRA_R_CHA2C_2 = ~z~He's a killer! Get him already!
+
+BRA_R_CHA2C_3 = ~z~Billy don't got a momma 'cause of this son of a bitch!
+
+BRA_R_CHA3_A_1 = ~z~I think that's all your friends, ain't it?
+
+BRA_R_CHA3_A_2 = ~z~You shouldn't have done that. And now look what's happened. Dead because of you.
+
+BRA_R_CHA3_A_3 = ~z~Dammit, I knew you was being quiet.
+
+BRA_R_CHA3_J_1 = ~z~I think that's all your friends, ain't it?
+
+BRA_R_CHA3_J_2 = ~z~You shouldn't have done that. And now look what's happened. Dead because of you.
+
+BRA_R_CHA3_J_3 = ~z~Dammit, I knew you was being quiet.
+
+BRA_R_ESC3HORSA_1 = ~z~Now, what was the point in all that? Could'a got your neck broke... prematurely.
+
+BRA_R_ESC3HORSJ_1 = ~z~Now, what was the point in all that? Could'a got your neck broke... prematurely.
+
+BRA_R_ESC3RDIEJ_1 = ~z~No more games, alright?
+
+BRA_R_ESC3RIDEA_1 = ~z~No more games, alright?
+
+BRA_R_ESC3TIEA_1 = ~z~How's that?
+
+BRA_R_ESC3TIEJ_1 = ~z~How's that?
+
+BRA_R_ESC3_A_1 = ~z~I'll do these tighter this time.
+
+BRA_R_ESC3_J_1 = ~z~I'll do these tighter this time.
+
+BRA_SEERIDE_A_1 = ~z~Oh, great.
+
+BRA_SEERIDE_J_1 = ~z~Oh, great.
+
+BRA_SHUSH2A_1 = ~z~That ain't how the world works...
+
+BRA_SHUSH2J_1 = ~z~That ain't how the world works...
+
+BRA_SHUSH3A_1 = ~z~Good men don't get bounties on them. I know that better than most.
+
+BRA_SHUSH3J_1 = ~z~Good men don't get bounties on them. I know that better than most.
+
+BRA_SHUSHA_1 = ~z~You send one to catch one. That's the theory.
+
+BRA_SHUSHJ_1 = ~z~You send one to catch one. That's the theory.
+
+BRA_SON_NOG_1 = ~z~I love you, Daddy.
+
+BRA_SON_NOG_2 = ~z~Quit that talk. Just be strong, boy.
+
+BRA_SON_RUN_01 = ~z~Momma!
+
+BRA_SON_RUN_02 = ~z~My momma!
+
+BRA_SON_YESG_1 = ~z~I love you, Daddy.
+
+BRA_SON_YESG_2 = ~z~Enough with that. Just remember what I said, boy.
+
+BRA_TGT_PYD_1 = ~z~You tell yourself that, bounty hunter! You ain't whiter than white. I hope your past catches up with you!
+
+BRA_WAIT_01 = ~z~He's just a boy.
+
+BRA_WAIT_02 = ~z~I won't take but a moment.
+
+BRA_WAIT_03 = ~z~Just a few words, huh?
+
+BRA_WAIT_04 = ~z~Please.
+
+RBRAN_IG1_LP1_1 = ~z~~sl:2.4~I can't do it, Daddy.
+
+RBRAN_IG1_LP1_2 = ~z~He's spent. Let him rest.
+
+RBRAN_IG1_LP1_3 = ~z~My son ain't no quitter. Do it again, boy.
+
+RBRAN_IG1_LP2_1 = ~z~~sl:3.9~My arms are like rope.
+
+RBRAN_IG1_LP2_2 = ~z~Leave it, Billy. Please.
+
+RBRAN_IG1_LP2_3 = ~z~He ain't trying is all. Again, boy.
+
+RBRAN_IG1_LP3_1 = ~z~~sl:3.6~I can't. I'm beat.
+
+RBRAN_IG1_LP3_2 = ~z~Look at him, he's worn through.
+
+RBRAN_IG1_LP3_3 = ~z~He will be if he don't get up there.
+
+RBRAN_IG1_LP4_1 = ~z~~sl:5.2~I'm... I'm sorry, Pop, I'm...
+
+RBRAN_IG1_LP4_2 = ~z~~sl:0.4~The boy is crying.
+
+RBRAN_IG1_LP4_3 = ~z~I ain't raising no goddamn sissy.
+
+RBRAN_IG1_LP5_1 = ~z~~sl:4.1~Pop, I can't.
+
+RBRAN_IG1_LP5_2 = ~z~Would you end this madness?
+
+RBRAN_IG1_LP5_3 = ~z~Okay, okay. He'll get there next try.
+
+RBRAN_IG1_P1_1 = ~z~We ain't going 'til you get this right.
+
+RBRAN_IG1_P1_2 = ~z~I can't, Daddy. Please.
+
+RBRAN_IG1_P1_3 = ~z~Let him in, he's been trying for hours.
+
+RBRAN_IG1_P1_4 = ~z~He ain't no kind of man 'til he can get on a horse.
+
+RBRAN_IG2_AA_1 = ~z~Make it quick.
+
+RBRAN_IG2_AA_2 = ~z~You're a forgiving man.
+
+RBRAN_IG2_AIM_1 = ~z~I ain't trouble no more.
+
+RBRAN_IG2_AIM_2 = ~z~Just... let me say goodbye to my boy.
+
+RBRAN_IG2_AJ_1 = ~z~Make it quick.
+
+RBRAN_IG2_AJ_2 = ~z~You're a forgiving man.
+
+RBRAN_IG2_ATIME_1 = ~z~Enough. We got a ways to go.
+
+RBRAN_IG2_ATIME_2 = ~z~Heartless bastard.
+
+RBRAN_IG2_ATIME_3 = ~z~You're in charge now, boy. You take care of things.
+
+RBRAN_IG2_BYE_1 = ~z~Boy. Boy, come here. Listen.
+
+RBRAN_IG2_BYE_2 = ~z~Exactly as I say, you hear?
+
+RBRAN_IG2_BYE_3 = ~z~Don't... don't leave us, Pop.
+
+RBRAN_IG2_ESC_1 = ~z~He's showing us clemency.
+
+RBRAN_IG2_ESC_2 = ~z~Go! Before he changes his mind.
+
+RBRAN_IG2_ESC_3 = ~z~Come on, boy. Run.
+
+RBRAN_IG2_JTIME_1 = ~z~Enough. We got a ways to go.
+
+RBRAN_IG2_JTIME_2 = ~z~Heartless bastard.
+
+RBRAN_IG2_JTIME_3 = ~z~You're in charge now, boy. You take care of things.
+
+RBRAN_IG2_P1B_1 = ~z~I'm a changed man, okay?
+
+RBRAN_IG2_P1B_2 = ~z~Let me say my farewells, I'll come away peaceable.
+
+RBRAN_IG2_P1_1 = ~z~They're here for your bounty. Come to momma, boy.
+
+RBRAN_IG2_RA_1 = ~z~I can't let you do that.
+
+RBRAN_IG2_RA_2 = ~z~I hope you ain't ever in this position.
+
+RBRAN_IG2_RJ_1 = ~z~I can't let you do that.
+
+RBRAN_IG2_RJ_2 = ~z~I hope you ain't ever in this position.
+
+RBRAN_IG2_WAIT1_01 = ~z~Are you gonna take me or what?
+
+RBRAN_IG2_WAIT1_02 = ~z~You gonna take me, take me.
+
+RBRAN_IG2_WAIT1_03 = ~z~Take me or let me loose.
+
+RBRAN_IG2_WALK_1 = ~z~I ain't going to fight you in front of my family.
+
+RBRAN_IG3_P1WIF_1 = ~z~It's just us now, son. It's just us.
+
+RBRAN_IG3_P1WIF_2 = ~z~Daddy did a bad thing.
+
+RBRAN_IG3_P1WIF_3 = ~z~And there ain't no such thing as forgiveness.
+
+RBRAN_IG3_P1WIF_4 = ~z~Not in this world.
+
+RBRAN_IG3_P1_1 = ~z~Don't look away, boy. Remember this moment.
+
+RBRAN_IG3_P1_2 = ~z~You're the man now.
+
+RBRAN_IG3_P1_3 = ~z~Now be a man, boy.
+
+RBRAN_IG4_P1A_1 = ~z~That son of a bitch...
+
+RBRAN_IG4_P1J_1 = ~z~That son of a bitch...
+
+RBRAN_SHR_CELL1_01 = ~z~I'm not listening.
+
+RBRAN_SHR_CELL1_02 = ~z~Everyone's got a sob story, Johnson.
+
+RBRAN_SHR_CELL1_03 = ~z~You'll find redemption in a chain gang, or on the end of a rope. That's all.
+
+RBRAN_SHR_CELL1_04 = ~z~You ran and you kept running. Don't twist this any other way.
+

@@ -1,0 +1,12 @@
+SCVTF_1056A_1 = ~z~Hey, you're the feller that fought Tommy, ain't you?
+
+SCVTF_1056B_1 = ~z~~sl:0.4~That was some fight... you boys slugged it out fair and square.
+
+SCVTF_1056B_2 = ~z~~sl:1.0~Except maybe him throwing you through the window like he did.
+
+SCVTF_1056B_3 = ~z~I don't know if you've seen him since, but, he ain't all there. Like the lamp's lit, but there's no one home.
+
+SCVTF_1056B_4 = ~z~But like I say, you fought fair... that's how it goes sometimes.
+
+SCVTF_1056B_5 = ~z~Anyway, cheers to you, mister. I... I'll leave you to your drink.
+

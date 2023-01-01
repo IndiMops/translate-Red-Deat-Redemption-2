@@ -1,0 +1,10 @@
+CJAV5_ACT_1 = ~z~It's a sign.
+
+CJAV5_ACT_2 = ~z~It's a goddamn rainbow.
+
+CJAV5_ACT_3 = ~z~A rainbow without any rain? Our luck has changed.
+
+CJAV5_ACT_4 = ~z~We're blessed.
+
+CJAV5_ACT_5 = ~z~Okay...
+

@@ -1,0 +1,24 @@
+CDNJ5_ACTAINT_1 = ~z~Are you doubting me too, Arthur? The pair of you depress me.
+
+CDNJ5_ACTA_1 = ~z~Why didn't you come get me?
+
+CDNJ5_ACTA_2 = ~z~I told you... time weren't right.
+
+CDNJ5_ACTB_1 = ~z~They was gonna kill me!
+
+CDNJ5_ACTB_2 = ~z~I thought... I thought...
+
+CDNJ5_ACTB_3 = ~z~You thought too much.
+
+CDNJ5_ACTB_4 = ~z~~sl:0.0:2.4~You are precious to me, real precious.~sl:0.6~But next time, let me do the thinking.
+
+CDNJ5_ACTB_5 = ~z~And I just do the hanging?
+
+CDNJ5_ACTB_6 = ~z~You just do what I tell you, and we'll be fine.
+
+CDNJ5_ACTB_7 = ~z~We ain't dead yet. Remember that.
+
+CDNJ5_ACTCALT_1 = ~z~Clear off, Arthur. You're starting to annoy me almost as much as him.
+
+CDNJ5_ACTC_1 = ~z~
+

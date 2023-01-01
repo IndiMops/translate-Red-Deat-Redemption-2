@@ -1,0 +1,478 @@
+0x008B474E = ~z~Yeah, yeah.
+
+0x01B0A2A6 = ~z~You gonna stop that?
+
+0x0295D526 = ~z~Braver men have died here, you idiot.
+
+0x02FC2519 = ~z~That's him! Shoot him dead!
+
+0x037FC71C = ~z~Screw his money... let's take his head!
+
+0x03A45FCB = ~z~Watch it! Are they coming for our new friend?
+
+0x0524EB77 = ~z~It's a robbery. Hands up or toes curled.
+
+0x05DF76B8 = ~z~You dumb son of a bitch!
+
+0x09B50D6F = ~z~I'll be getting outta here while I can.
+
+0x0A47667B = ~z~Come on, don't do it.
+
+0x0B8861F3 = ~z~Hey, boys, put him down!
+
+0x0B254834 = ~z~Put those hands up real high.
+
+0x0C62DCA7 = ~z~Ha! This one looks ripe for the plucking.
+
+0x0D7F2CCA = ~z~Don't you touch me.
+
+0x0DD7F17A = ~z~Make him bleed!
+
+0x0E183DF2 = ~z~Now you better stop that or else.
+
+0x0FC8383B = ~z~We'll remember this, you cocksucker!
+
+0x0FEB0792 = ~z~Get 'em up or you're dead.
+
+0x1A657D54 = ~z~Get him, boys!
+
+0x1A21460E = ~z~Get the hell off me.
+
+0x1BA08FC3 = ~z~Look out! We could have a rescue attempt coming up!
+
+0x1D0610F8 = ~z~Dead fool. I told you to stay put!
+
+0x1E245B12 = ~z~I wouldn't do that if I were you.
+
+0x1E75485E = ~z~Hell!
+
+0x2A7BAA9A = ~z~Nope. Nothing.
+
+0x2A53F26C = ~z~Oh, damn!
+
+0x2D63A48C = ~z~Go on. Get lost!
+
+0x2E18D636 = ~z~To hell with this! Time for me to run!
+
+0x2F0BF312 = ~z~Shit no!
+
+0x3A9A4F7F = ~z~We gotta find something soon.
+
+0x3B9D00F9 = ~z~That's it.
+
+0x3C7BA31A = ~z~If I were you I'd walk outta this town while you're able to. Go on!
+
+0x3C227249 = ~z~To hell with this! Time for me to run.
+
+0x3ED12E87 = ~z~Yeah! I'm free. I knew you fellers'd come.
+
+0x4A622CED = ~z~I'm gonna fill you full of holes.
+
+0x4C3B001C = ~z~Ha. You yellow belly.
+
+0x4DD40678 = ~z~Aww... You seem lost. This bridge is being used. Move it.
+
+0x4FB4F533 = ~z~End him here!
+
+0x5C175450 = ~z~Final warning! You're about to be in a world of turmoil.
+
+0x5D9701B5 = ~z~Stay right where you are.
+
+0x5E0ECE8B = ~z~Ain't nowhere left for you to run!
+
+0x5EB42089 = ~z~You shoot that lock, I won't tell the law on you.
+
+0x6BE9D93B = ~z~What the hell was that?
+
+0x6CC96C00 = ~z~You're surrounded now!
+
+0x6E579127 = ~z~You care to live, you're gonna dismount that pretty animal. Now.
+
+0x6EA5409A = ~z~You'll be meeting the reaper!
+
+0x6EDE79DE = ~z~That's it. This is your last chance.
+
+0x7AA8028A = ~z~A curse on you!
+
+0x7B483901 = ~z~That's it. Off you trot.
+
+0x7C7BB514 = ~z~Shoot him!
+
+0x7C98CEDF = ~z~Weren't nothing.
+
+0x7D52C715 = ~z~Ain't found nothing yet.
+
+0x7D17056C = ~z~I'm this close to shooting your brains out.
+
+0x7DEADC76 = ~z~Damn pleased to see you all, so I am. Let's all get out of here.
+
+0x7E256405 = ~z~I'll shoot you dead if I don't see them hands high.
+
+0x8A864B58 = ~z~Don't you make me hurt you.
+
+0x8B235EFE = ~z~You're up against the O'Driscolls now!
+
+0x8BDABBF7 = ~z~Howdy, friend. There's a tariff round here on anyone who ain't an O'Driscoll.
+
+0x8BF1A321 = ~z~One false move and I'll shoot so many holes in you.
+
+0x8C22696F = ~z~You better dismount. Let's go.
+
+0x8D089232 = ~z~Leave him! We got our fill.
+
+0x8E4020D3 = ~z~You hear me? Get down or we let fly. Move it!
+
+0x8F0C5A83 = ~z~Keep going!
+
+0x8F1A509A = ~z~Okay, boys. Look lively...
+
+0x8F918D8E = ~z~Shoot him, and get me outta here!
+
+0x8FB8DC37 = ~z~Sure.
+
+0x8FE43635 = ~z~You gimme your cash or I take your life.
+
+0x9A8B7D74 = ~z~You came this close to a pine box.
+
+0x9A224AB1 = ~z~Gimme your money and you can keep your life.
+
+0x9A709C86 = ~z~Ha. You yellowbelly.
+
+0x9BCBA59E = ~z~You killed those boys in cold blood. I'm a witness!
+
+0x9BECEE25 = ~z~I'm warning you.
+
+0x9E3D50F5 = ~z~Ain't I told you to leave? Now get.
+
+0x9E60F92C = ~z~That's it. Run along!
+
+0x9F6C36F9 = ~z~Ah, let him be. Nothing to us now.
+
+0x13B0BB03 = ~z~Who's there?
+
+0x16F6DB54 = ~z~We gotta kill him! Go on!
+
+0x17E3A9CC = ~z~I'll be gettin' outta here while I can!
+
+0x17FE36D3 = ~z~I ride with Colm O'Driscoll, you fool.
+
+0x20A58B10 = ~z~Get outta my sight!
+
+0x22D5C5DC = ~z~You simple or something? You ain't welcome here.
+
+0x30C6F94C = ~z~I know you're there!
+
+0x33C34C6A = ~z~Kill this idiot!
+
+0x36C684A5 = ~z~One more step, and I shoot you dead.
+
+0x39EFBDB8 = ~z~Get the hell outta here.
+
+0x50B3A380 = ~z~Come on! They can't have gotten far.
+
+0x70D3FF99 = ~z~Guess we're going this the old-fashioned way, boys!
+
+0x72E24C31 = ~z~Come on. I know you got something...
+
+0x73E92E59 = ~z~Don't you move now.
+
+0x74A9A5BE = ~z~Keep going.
+
+0x78C9BA4B = ~z~Tell the devil it was the O'Driscolls that sent you!
+
+0x79B1217F = ~z~I'll be damned.
+
+0x79F576A4 = ~z~Take one more step and I'll shoot your head off.
+
+0x82D0C9F7 = ~z~I'm taking your wares. Be good and that's all you'll lose.
+
+0x84B7D1B6 = ~z~Why don't I just beat you twelve ways from Sunday?
+
+0x92BD9BCC = ~z~Damn cursed devil you are, to be sure.
+
+0x92EFEFA7 = ~z~You best be gone.
+
+0x95B5749C = ~z~No need to panic, I'm just gonna see what you're holding out on me.
+
+0x111C2269 = ~z~You again! What the hell do you want?
+
+0x117D87AA = ~z~Huh... Guess you won't take a hint. Well, shooters out, boys!
+
+0x399B61CB = ~z~What a bastard.
+
+0x409E1F08 = ~z~Oh, Lord!
+
+0x459FB8A1 = ~z~We gotta kill him quick! That's the one!
+
+0x493B9531 = ~z~One more step and it'll be your last.
+
+0x562E703D = ~z~Yeah, don't make us have to hurt you.
+
+0x705F1406 = ~z~Get down off there.
+
+0x761C907B = ~z~Now since we're holding this land, I figure you owe us a small toll.
+
+0x803F295E = ~z~Don't bother, boys! Ain't worth the lead.
+
+0x821F87CA = ~z~I'll be getting out of here while I can!
+
+0x834C0CAF = ~z~Ain't got the Blarney Stones?
+
+0x851D6BB7 = ~z~You ain't even gonna live to regret that.
+
+0x896FF670 = ~z~Look who we found! Bury him, boys!
+
+0x951ADBBF = ~z~Ain't I just said to stick your hands up?
+
+0x989D28B2 = ~z~I got your back.
+
+0x999ABB14 = ~z~Don't think I seen you in town before. You just arriving in these parts?
+
+0x1515A1EB = ~z~Tsk. What you want?
+
+0x1672B859 = ~z~Shit!
+
+0x2222D7E7 = ~z~So, who is it, then?
+
+0x3572A12E = ~z~Don't you make me hurt you.
+
+0x4274C155 = ~z~That's it, run along.
+
+0x4791FDC1 = ~z~You there! Stop where you are.
+
+0x4809D285 = ~z~Yeah, you run along, now.
+
+0x5879C3AB = ~z~Come on, shoot the lock! Come on!
+
+0x7225E5B3 = ~z~What the?
+
+0x8060E411 = ~z~See you in hell!
+
+0x8211F69B = ~z~Hey, get your dumb ass outta here.
+
+0x8448D259 = ~z~Get the hell outta here!
+
+0x9053B584 = ~z~Let him go! Didn't have nothing worth taking, anyhow.
+
+0x9889F569 = ~z~You're getting robbed, friend. Up to you if you want it the easy or hard way.
+
+0x16642EDA = ~z~We gotta find who done this.
+
+0x17438FB4 = ~z~Get your hands up high! What you got for me, mister, huh?
+
+0x35781CD9 = ~z~Get them hands up in the air.
+
+0x57453F03 = ~z~Let me out! Let me out if you know what's good for you!
+
+0x67936DEF = ~z~You should probably reconsider pointing that at the likes of me.
+
+0x82813B5A = ~z~Consider this a warning.
+
+0x83069AEA = ~z~Let him run! We got his stuff already.
+
+0x188702FE = ~z~No. Leave me alone.
+
+0x207255DF = ~z~Holy Christ!
+
+0x263502B3 = ~z~Consider this a warning.
+
+0x503201E1 = ~z~Two can play at that game.
+
+0x556574A3 = ~z~Get outta my sight.
+
+0x935309F5 = ~z~Right. Die!
+
+0x1088444B = ~z~Look who's back for that fight, boys.
+
+0x1514849F = ~z~Get on with it, come on!
+
+0x4489202A = ~z~Stop right where you are, or else you're dead.
+
+0x4732583D = ~z~You best be gone.
+
+0x6080945F = ~z~Move yourself, damn it.
+
+0x12975343 = ~z~I'm going tell the law all about you, if they ever come out here...
+
+0x76763533 = ~z~You want me to kick your head in, do ya?
+
+0x84970614 = ~z~Well, I'm damned pleased to see you, I am. Let's all let bygones be bygones!
+
+0xA02D9751 = ~z~You stupid son of a bitch. What'd I tell you?
+
+0xA055B348 = ~z~Grab him, boys! His corpse will make us rich!
+
+0xA0586C50 = ~z~Give it up and you'll live to see another day.
+
+0xA0A34F14 = ~z~Do as I say, or you'll be dead real soon.
+
+0xA6C47F12 = ~z~I said hold'em up.
+
+0xA7C28BA0 = ~z~No escape for this one! Fire!
+
+0xA86B7EF3 = ~z~Ain't never dull.
+
+0xA86C1D47 = ~z~I'm about ready to go get drunk.
+
+0xA110B4BA = ~z~Dry gulch the son of a bitch!
+
+0xA4443479 = ~z~Where's the sport in shooting someone in a cage?
+
+0xAA0D7E48 = ~z~I shouldn't want to be in this town, if I was you.
+
+0xAB3FECEC = ~z~Hand over your money and you won't get hurt.
+
+0xAB67D768 = ~z~Ain't I warned you before, sweetheart?
+
+0xABE95FB1 = ~z~Are you from outta town? One of them strangers like?
+
+0xACD26458 = ~z~
+
+0xACF467BA = ~z~This is your last chance to live.
+
+0xAD25E38D = ~z~It's time!
+
+0xAEDDEB89 = ~z~Do as I say, or you'll be dead real soon.
+
+0xAF806A3E = ~z~I'm itching to fill you full of lead, you know.
+
+0xB0EEB313 = ~z~Get off that horse right now.
+
+0xB2CEABAE = ~z~You're gonna be sorry you messed with the O'Driscoll boys, to be sure!
+
+0xB5D9526F = ~z~Don't be a damn fool.
+
+0xB8B3E002 = ~z~You'll get yours some day.
+
+0xB26ABBCB = ~z~You stupid son of a bitch! What'd I tell you?
+
+0xB67A943F = ~z~Okay, boys... Look lively!
+
+0xB92C5C52 = ~z~We gotta get outta here, boys.
+
+0xB905A6E9 = ~z~You son of a bitch! You best hope I never get out of here. Damn you!
+
+0xB234852F = ~z~Shut your filthy mouth.
+
+0xBA0D74B7 = ~z~I done told you once already.
+
+0xBC50EB3A = ~z~Kill him! We'll loot him when he's dead.
+
+0xC023210C = ~z~I don't think I heard you right.
+
+0xC8F0A6F9 = ~z~Alright!
+
+0xC25FC0FB = ~z~Well, now. Have we met before? I was sure I'd seen that face.
+
+0xC32FA287 = ~z~That's it. This is your last chance!
+
+0xC91B58BC = ~z~Stay right where you are.
+
+0xC7636C1F = ~z~Colm's gonna have your head on a spike!
+
+0xC60623CC = ~z~Show yourself!
+
+0xCD03F9D2 = ~z~Shouldn'ta tried to strongarm the lot of us!
+
+0xCE802317 = ~z~Put 'im down!
+
+0xCEACAF55 = ~z~Well, well. I can feel a real kind donation coming from this boy here.
+
+0xCF466512 = ~z~Don't you move now.
+
+0xD2FF726D = ~z~Damn if I ain't been out here too long.
+
+0xD3ABED78 = ~z~The law got me! I'm state property!
+
+0xD3C563C6 = ~z~Now I hope I ain't bothering you none, but I thought you looked familiar.
+
+0xD3FACE70 = ~z~He got less fight in 'im than a soused whore.
+
+0xD6A10A28 = ~z~The O'Driscolls got need of this bridge. Move along the other way.
+
+0xD6BAA011 = ~z~Kill him! We'll loot him when he's dead.
+
+0xD8AF872A = ~z~Get him between the eyes!
+
+0xD30DF74C = ~z~Now, this little crow don't look like one of ours, does he boys?
+
+0xD57DC008 = ~z~No hard feelings.
+
+0xD71FBC73 = ~z~Hey! Hold up a moment, friend.
+
+0xD431A10F = ~z~Boys! This here's Arthur Morgan!
+
+0xD538E0C8 = ~z~I'm warning you.
+
+0xD31397A0 = ~z~Hell yeah, boys! Now get me the hell out of here.
+
+0xDA13B096 = ~z~Keep them eyes open, boys.
+
+0xDCD983DD = ~z~So now you gotta die, okay?
+
+0xDCEA4BD0 = ~z~Well, this feller is practically giving it away by the looks of it.
+
+0xDD408564 = ~z~Dammit! Send him to hell, boys!
+
+0xDEEA5E9A = ~z~What the hell d'you say to me?
+
+0xDFF92FC1 = ~z~I just bet you'd kill a defenseless man.
+
+0xE06D2208 = ~z~Lemme see those hands. You're getting robbed, boy.
+
+0xE0F50B2A = ~z~Now then. I gotta see what you got on you.
+
+0xE2E14231 = ~z~Stay alert. Something's gonna happen, I can feel it.
+
+0xE6AE1736 = ~z~Go on. Get lost.
+
+0xE6F51442 = ~z~Ain't nothing for you to see this way. Just some mean fellers making camp.
+
+0xE7D564B7 = ~z~Sleep tight.
+
+0xE8DE2C08 = ~z~We walk into a saloon, I'll tell you who the enemy is.
+
+0xE9D49975 = ~z~I got it.
+
+0xE84BA662 = ~z~I can smell his fear!
+
+0xE5451BBE = ~z~Well, look at this carrion bird here.
+
+0xE43443BB = ~z~You'll regret that, I promise.
+
+0xE56158F6 = ~z~Can you wait there a second?
+
+0xE993008D = ~z~Shoot that son of a bitch right there!
+
+0xEAE04357 = ~z~I told you not to move.
+
+0xEB0A633A = ~z~Let's head out, boys. Let 'im have a minute to think on them sins...
+
+0xEE395CA4 = ~z~You simple or something? You ain't welcome here!
+
+0xEEF2A8C8 = ~z~Hey boys, put him down!
+
+0xF091FD4B = ~z~Final warning! You're about to be in a world of turmoil!
+
+0xF2BA2BCC = ~z~You're heading dangerously close to the O'Driscolls. You turn around, you hear?
+
+0xF4E108E3 = ~z~Got him! Kill this cocksucker!
+
+0xF38A7548 = ~z~Hey, you there! Can I have a word?
+
+0xF60A6883 = ~z~Come on, look lively.
+
+0xF175BB6E = ~z~I don't like the look of this lot! Watch out!
+
+0xF548F0A7 = ~z~Come on!
+
+0xFD02E8E8 = ~z~Hey, stop there! Don't move.
+
+0xFD22E7DC = ~z~Shit, are you deaf? Don't. Move.
+
+0xFE9552F5 = ~z~We got him now!
+
+0xFFBCB1CF = ~z~Dammit! Open up, boys!
+
+0xFFCCF710 = ~z~I'm a comin'.
+

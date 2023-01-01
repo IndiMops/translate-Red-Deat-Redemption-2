@@ -1,0 +1,42 @@
+SCVH_0970A_1 = ~z~You working at the mine then?
+
+SCVH_0970B_1 = ~z~Used to get quite a few of them boys coming in, especially after the saloon closed in Annesburg,
+
+SCVH_0970B_2 = ~z~but even they don't come here now.
+
+SCVH_0970B_3 = ~z~You knows things is bad when miners is passing up whiskey and whores.
+
+SCVH_0970B_4 = ~z~This damn place... ah, why am I even talking to you?
+
+SCVH_0973A_1 = ~z~You new around here?
+
+SCVH_0973B_1 = ~z~Well, welcome to Van Horn or, as I like to call it, Van Shithole.
+
+SCVH_0973B_2 = ~z~Back in the day, they all said this place would become the busiest trading post for a hundred miles.
+
+SCVH_0973B_3 = ~z~'Cept nobody came. Now it's like the end of the Earth.
+
+SCVH_0973B_4 = ~z~But, what do you care? If you're here, you're as lost as the rest of us.
+
+SCVH_1062A_1 = ~z~You ain't come through Butcher Creek on your way here, did you?
+
+SCVH_1062B_1 = ~z~Folk there are afflicted with something nasty, I got no desire to get afflicted with myself.
+
+SCVH_1062B_2 = ~z~They claim it's a curse, but that's because their brains are rotted to mush.
+
+SCVH_1062B_3 = ~z~If one of them tries to come within ten feet of me, I'll blow what's left of them brains to high heaven.
+
+SCVH_1062B_4 = ~z~Anyways, take my advice and stay well away from there. Butcher Creek it's called.
+
+SCVH_1063A_1 = ~z~Ain't seen you round here before.
+
+SCVH_1063B_1 = ~z~You ain't looking for that princess, is you?
+
+SCVH_1063B_2 = ~z~Had a few fellers through here recently asking about that.
+
+SCVH_1063B_3 = ~z~Chasing some reward for some European princess missing for fifteen years now... damn fools.
+
+SCVH_1063B_4 = ~z~Only princesses in Van Horn charge by the hour for a less-than-royal fuck.
+
+SCVH_1063B_5 = ~z~Anyways, you clearly don't know what I'm talking about...
+

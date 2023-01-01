@@ -1,0 +1,86 @@
+CCMRB_EXT_1 = ~z~John?
+
+CCMRB_EXT_2 = ~z~John, is it you?
+
+CCMRB_EXT_3 = ~z~How the hell are you?
+
+CCMRB_EXT_4 = ~z~I'm very well.
+
+CCMRB_EXT_5 = ~z~How are you?
+
+CCMRB_EXT_6 = ~z~I'm good... yeah.
+
+CCMRB_EXT_7 = ~z~Abigail, is she?
+
+CCMRB_EXT_8 = ~z~She's well.
+
+CCMRB_EXT_9 = ~z~Jack's growing up.
+
+CCMRB_EXT_10 = ~z~Sweet boy.
+
+CCMRB_EXT_11 = ~z~Not any more...
+
+CCMRB_EXT_12 = ~z~but, but he's okay.
+
+CCMRB_EXT_13 = ~z~How are you?
+
+CCMRB_EXT_14 = ~z~I'm well, I...
+
+CCMRB_EXT_15 = ~z~I write now.
+
+CCMRB_EXT_16 = ~z~Silly romances, but it's fun...
+
+CCMRB_EXT_17 = ~z~oh, it's such fun.
+
+CCMRB_EXT_18 = ~z~Do you?
+
+CCMRB_EXT_19 = ~z~My pen name is Leslie Dupont...
+
+CCMRB_EXT_20 = ~z~sort of French, sort of ambiguous.
+
+CCMRB_EXT_21 = ~z~The books are unambiguously awful, but they sell.
+
+CCMRB_EXT_22 = ~z~Good for you...
+
+CCMRB_EXT_23 = ~z~I'm so proud.
+
+CCMRB_EXT_24 = ~z~I still think about you all.
+
+CCMRB_EXT_25 = ~z~That was...
+
+CCMRB_EXT_26 = ~z~that was quite a time.
+
+CCMRB_EXT_27 = ~z~Yeah...
+
+CCMRB_EXT_28 = ~z~Arthur...
+
+CCMRB_EXT_29 = ~z~Arthur saved my life, before he passed.
+
+CCMRB_EXT_30 = ~z~I don't talk about him much...
+
+CCMRB_EXT_31 = ~z~but I think about him.
+
+CCMRB_EXT_32 = ~z~Me too.
+
+CCMRB_EXT_33 = ~z~And Dutch?
+
+CCMRB_EXT_34 = ~z~Ran off some place.
+
+CCMRB_EXT_35 = ~z~Such a shame.
+
+CCMRB_EXT_36 = ~z~Anyway, John...
+
+CCMRB_EXT_37 = ~z~I better get on my train.
+
+CCMRB_EXT_38 = ~z~It's really lovely seeing you.
+
+CCMRB_EXT_39 = ~z~Oh here, this is for you.
+
+CCMRB_EXT_40 = ~z~Thank you.
+
+CCMRB_EXT_41 = ~z~Take care now.
+
+CCMRB_EXT_42 = ~z~Bye.
+
+CCMRB_EXT_LI_1 = ~z~Mary-Beth.
+

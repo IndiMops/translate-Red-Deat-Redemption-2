@@ -1,0 +1,498 @@
+EDW2_RSC1_LI2_1 = ~z~Mrs. Downes...
+
+EDW2_RSC1_LI2_2 = ~z~
+
+EDW2_RSC_1_1 = ~z~Go away, just go away.
+
+EDW2_RSC_1_2 = ~z~I'm sorry...
+
+EDW2_RSC_1_3 = ~z~I'm really sorry, but I...
+
+EDW2_RSC_1_4 = ~z~well...
+
+EDW2_RSC_1_5 = ~z~Well, you're sorry.
+
+EDW2_RSC_1_6 = ~z~Yeah, I heard you.
+
+EDW2_RSC_1_7 = ~z~But...
+
+EDW2_RSC_1_8 = ~z~I mean...
+
+EDW2_RSC_1_9 = ~z~well, I-I...
+
+EDW2_RSC_1_10 = ~z~This country is man unleashed.
+
+EDW2_RSC_1_11 = ~z~That's the thing...
+
+EDW2_RSC_1_12 = ~z~and it ain't my fault any more than is anyone else's...
+
+EDW2_RSC_1_13 = ~z~Man unleashed?
+
+EDW2_RSC_1_14 = ~z~Then unleash goodness...
+
+EDW2_RSC_1_15 = ~z~not just hell's feeble brother, sir.
+
+EDW2_RSC_1_16 = ~z~But how?
+
+EDW2_RSC_1_17 = ~z~I mean, all I know how to do is fight.
+
+EDW2_RSC_1_18 = ~z~I guess...
+
+EDW2_RSC_1_19 = ~z~I was set free to fight.
+
+EDW2_RSC_1_20 = ~z~Where's your son, Mrs. Downes?
+
+EDW2_RSC_1_21 = ~z~Where you think?
+
+EDW2_RSC_1_22 = ~z~Down the mine...
+
+EDW2_RSC_1_23 = ~z~until he gets sick...
+
+EDW2_RSC_1_24 = ~z~which won't be long given how hard they work him.
+
+EDW2_RSC_1_25 = ~z~See, foreman don't like him...
+
+EDW2_RSC_1_26 = ~z~so he gets the worst of it.
+
+EDW2_RSC_1_27 = ~z~Well, maybe I could go and...
+
+EDW2_RSC_1_28 = ~z~Maybe you could just leave us all alone.
+
+EDW2_RSC_1_29 = ~z~Maybe...
+
+EDW2_RSC_1_30 = ~z~maybe you could just go fight some other battle.
+
+EDW2_RSC_1_LIE_1 = ~z~I said, hell, even a blind hog finds an acorn every once in a while.
+
+EDW2_RSC_1_LIE_2 = ~z~
+
+EDW2_RSC_1_LIE_3 = ~z~Hey, you want company, boys?
+
+EDW2_RSC_1_LIE_4 = ~z~Sure, because I wanna be pissing needles tomorrow...
+
+EDW2_RSC_1_LIE_5 = ~z~
+
+EDW2_S1_EXT_1 = ~z~Now who's next?
+
+EDW2_S1_EXT_2 = ~z~Let the boy go.
+
+EDW2_S1_EXT_3 = ~z~Let him go!
+
+EDW2_S1_EXT_4 = ~z~Come with me.
+
+EDW2_S1_EXT_5 = ~z~Shame on you...
+
+EDW2_S1_EXT_6 = ~z~he's just a goddamn boy.
+
+EDW2_S1_EXT_7 = ~z~Let's get you outta here.
+
+EDW2_S1_EXT_8 = ~z~They're gonna kill me.
+
+EDW2_S1_EXT_9 = ~z~Now I've got no job and they're gonna kill me.
+
+EDW2_S1_EXT_10 = ~z~I've got some money...
+
+EDW2_S1_EXT_11 = ~z~you and your momma can go someplace nice.
+
+EDW2_S1_EXT_12 = ~z~Well, why are you doing this?
+
+EDW2_S1_EXT_13 = ~z~I don't know.
+
+EDW2_S1_EXT_14 = ~z~Listen...
+
+EDW2_S1_EXT_15 = ~z~take this...
+
+EDW2_S1_EXT_16 = ~z~all of it.
+
+EDW2_S1_EXT_17 = ~z~Try and talk to your momma...
+
+EDW2_S1_EXT_18 = ~z~and get outta here.
+
+EDW2_S1_EXT_19 = ~z~Now run.
+
+EDW2_S1_EXT_20 = ~z~I'll try.
+
+EDW2_S1_EXT_21 = ~z~Alright, good boy.
+
+EDW2_S1_EXT_22 = ~z~I don't wanna see you here again!
+
+EDW2_S1_MCS1_1 = ~z~Ooh, you gonna hit me now?
+
+EDW2_S1_MCS1_2 = ~z~He's gonna hit me now.
+
+EDW2_S1_MCS1_3 = ~z~Cause if you gonna hit me, it's on, you little maggot.
+
+EDW2_S1_MCS1_4 = ~z~Why don't you shut up?
+
+EDW2_S1_MCS1_5 = ~z~Who's this, your daddy?
+
+EDW2_S1_MCS1_6 = ~z~My daddy died...
+
+EDW2_S1_MCS1_7 = ~z~and this man, he killed him.
+
+EDW2_S1_MCS1_8 = ~z~What you doing here?
+
+EDW2_S1_MCS1_9 = ~z~Leave the boy alone.
+
+EDW2_S1_MCS1_10 = ~z~Why you kill his daddy?
+
+EDW2_S1_MCS1_11 = ~z~You after his momma?
+
+EDW2_S1_MCS1_12 = ~z~Stop bullying the boy.
+
+EDW2_S1_MCS1_13 = ~z~Get out of my business, mister.
+
+EDW2_S1_MCS1_14 = ~z~Leave the boy alone...
+
+EDW2_S1_MCS1_15 = ~z~Or what?
+
+EDW2_S1_MCS1_16 = ~z~Or I'll kill you, too.
+
+EDW2_S1_MCS1_17 = ~z~You couldn't kill no one.
+
+EDW2_S1_MCS1_18 = ~z~Look at you, all ragged and sick and weak.
+
+EDW2_S1_MCS1_19 = ~z~Clear off, you goddamn hermit.
+
+EDW2_S1_MCS1_20 = ~z~Clear off!
+
+EDW2_S1_MCS1_21 = ~z~You, and the whore's son here.
+
+EDW2_S2_EXT_1 = ~z~Momma.
+
+EDW2_S2_EXT_2 = ~z~Momma.
+
+EDW2_S2_EXT_3 = ~z~Oh, you're a silly boy, you're...
+
+EDW2_S2_EXT_4 = ~z~Oh, Archie. What will we do?
+
+EDW2_S2_EXT_5 = ~z~Get outta here.
+
+EDW2_S2_EXT_6 = ~z~Go.
+
+EDW2_S2_EXT_7 = ~z~Live someplace else, start over.
+
+EDW2_S2_EXT_8 = ~z~Here, take this...
+
+EDW2_S2_EXT_9 = ~z~I don't need it no more.
+
+EDW2_S2_EXT_10 = ~z~I don't want your money.
+
+EDW2_S2_EXT_11 = ~z~Yeah, I know you don't want it.
+
+EDW2_S2_EXT_12 = ~z~I don't.
+
+EDW2_S2_EXT_13 = ~z~You sure as shit need it.
+
+EDW2_S2_EXT_14 = ~z~Take it.
+
+EDW2_S2_EXT_15 = ~z~No.
+
+EDW2_S2_EXT_16 = ~z~I ain't looking for forgiveness...
+
+EDW2_S2_EXT_17 = ~z~it ain't about that.
+
+EDW2_S2_EXT_18 = ~z~Don't forgive me...
+
+EDW2_S2_EXT_19 = ~z~just take the money and get outta here, please.
+
+EDW2_S2_EXT_20 = ~z~I know I ruined your life...
+
+EDW2_S2_EXT_21 = ~z~I suffer for it every day, but...
+
+EDW2_S2_EXT_22 = ~z~don't let yourself get killed for... for pride.
+
+EDW2_S2_EXT_23 = ~z~I seen it kill too many folk.
+
+EDW2_S2_EXT_24 = ~z~I...
+
+EDW2_S2_EXT_25 = ~z~Don't say anything.
+
+EDW2_S2_EXT_26 = ~z~Don't thank me.
+
+EDW2_S2_EXT_27 = ~z~Just take the money and, pack your bags.
+
+EDW2_S2_EXT_28 = ~z~That's all I got to say.
+
+EDW2_S2_EXT_29 = ~z~Thank you, Mr. Morgan.
+
+EDW2_S2_EXT_30 = ~z~I said don't thank me.
+
+EDW2_S2_EXT_31 = ~z~Get outta here...
+
+EDW2_S2_EXT_32 = ~z~please.
+
+EDW2_S2_EXT_LI_1 = ~z~Momma, Momma.
+
+EDW2_S2_EXT_LI_2 = ~z~
+
+EDW2_S2_IG0_1 = ~z~How 'bout a drink, deary?
+
+EDW2_S2_IG0_2 = ~z~Oh, no thank you...
+
+EDW2_S2_IG0_3 = ~z~Aw, I ain't a baddie, I ain't...
+
+EDW2_S2_IG0_4 = ~z~Of course not...
+
+EDW2_S2_IG0_5 = ~z~Well, deary... I been in jail, but it weren't my fault...
+
+EDW2_S2_IG0_6 = ~z~I'm sure.
+
+EDW2_S2_IG0_7 = ~z~It's nice out here, huh? It's quiet...
+
+EDW2_S2_IG0_8 = ~z~Nice? Sure...
+
+EDW2_S2_IG0_9 = ~z~Feller could do... what he likes out here.
+
+EDW2_S2_IG0_10 = ~z~I guess...
+
+EDW2_S2_IG0_11 = ~z~You think I'm a nice man, deary? A kind man?
+
+EDW2_S2_IG0_12 = ~z~Sure...
+
+EDW2_S2_IG0_13 = ~z~I ain't always nice. Sometimes I can be... real nasty...
+
+EDW2_S2_IG0_14 = ~z~Oh, God...
+
+EDW2_S2_IG1_N_1 = ~z~You wanna die out here on account of your pride? That make you happy would it?
+
+EDW2_S2_IG1_N_2 = ~z~~sl:2.5~I guess not.
+
+EDW2_S2_IG1_N_3 = ~z~Then let's get you outta here.
+
+EDW2_S2_IG1_N_4 = ~z~~sl:3.2~All right... let's go.
+
+EDW2_S2_IG1_P_1 = ~z~Ashamed? Of what? You loved him... you did everything for him... Let's get you home.
+
+EDW2_S2_IG1_P_2 = ~z~
+
+EDW2_S2_IG1_P_3 = ~z~~sl:3.6~All right... let's go.
+
+EDW2_S2_INT_1 = ~z~Mr. Morgan.
+
+EDW2_S2_INT_2 = ~z~You still here, kid?
+
+EDW2_S2_INT_3 = ~z~Well, yes...
+
+EDW2_S2_INT_4 = ~z~Momma...
+
+EDW2_S2_INT_5 = ~z~Momma can't leave... or won't leave...
+
+EDW2_S2_INT_6 = ~z~I don't know, I said I had the money...
+
+EDW2_S2_INT_7 = ~z~she said your money weren't moral.
+
+EDW2_S2_INT_8 = ~z~She said it'd be better to die than to take it.
+
+EDW2_S2_INT_9 = ~z~Maybe she's right, I don't know...
+
+EDW2_S2_INT_10 = ~z~I don't know anything about morals.
+
+EDW2_S2_INT_11 = ~z~She's still heading out...
+
+EDW2_S2_INT_12 = ~z~working, you know.
+
+EDW2_S2_INT_13 = ~z~I'm sorry, son.
+
+EDW2_S2_INT_14 = ~z~Sorry about all of this.
+
+EDW2_S2_INT_15 = ~z~She ain't been back for a few hours.
+
+EDW2_S2_INT_16 = ~z~She left with some feller down the railway tracks.
+
+EDW2_S2_INT_17 = ~z~I did not like the look of him.
+
+EDW2_S2_INT_18 = ~z~Which way you say?
+
+EDW2_S2_INT_19 = ~z~That way...
+
+EDW2_S2_INT_20 = ~z~around the woods, towards Willard's Rest.
+
+EDW2_S2_INT_21 = ~z~I'll see what I can do.
+
+EDW2_S2_INT_LI_1 = ~z~Mr. Morgan.
+
+EDW2_S2_INT_LI_2 = ~z~You still here, kid?
+
+EDW22_HURRY_01 = ~z~Please hurry, they've been gone a while now.
+
+EDW22_HURRY_02 = ~z~Like I said, this feller looked like real trouble.
+
+EDW22_HURRY_03 = ~z~If you're gonna go, you need to go now.
+
+EDW22_NOHORSE_1 = ~z~So we're walking back there?
+
+EDW22_NRARCHIE_01 = ~z~Momma? Oh you found her, thank God.
+
+EDW22_RIDEBACKP_1 = ~z~I'm sorry it had to come to this.
+
+EDW22_RIDEBACKP_2 = ~z~Stop saying sorry... sorry won't bring Thomas back.
+
+EDW22_RIDEBACKP_3 = ~z~I know...
+
+EDW22_RIDEBACKP_4 = ~z~So you're sick now too, and you think that affords you
+
+EDW22_RIDEBACKP_5 = ~z~the opportunity for penance for cutting his time short?
+
+EDW22_RIDEBACKP_6 = ~z~No. I ain't looking for that.
+
+EDW22_RIDEBACKP_7 = ~z~Okay then,
+
+EDW22_RIDEBACKP_8 = ~z~so just forget about me and the guilt you're carrying, because no good can come of that for either of us.
+
+EDW22_RIDEBACKP_9 = ~z~All you can do now is decide the man you want to be, for the time you have left.
+
+EDW22_RIDEBACKP_10 = ~z~Help someone who can still be helped, or help yourself.
+
+EDW22_RIDEBACKP_11 = ~z~I suppose you're right.
+
+EDW22_RIDEBACKP_12 = ~z~Or hang yourself, for all I care.
+
+EDW22_RIDEBACKP_13 = ~z~You're right to dislike me. I ain't looking for that to change.
+
+EDW22_RIDEBACK_1 = ~z~Archie should be waiting for us just up ahead.
+
+EDW22_RIDEWAIT_01 = ~z~Are we going or not?
+
+EDW22_RIDEWAIT_02 = ~z~I said I'd come, didn't I?
+
+EDW22_RIDEWAIT_03 = ~z~Are we getting on your horse?
+
+REDW2_AD_LETGO_01 = ~z~Let me go.
+
+REDW2_AD_LETGO_02 = ~z~Take your hands off me.
+
+REDW2_AD_LETGO_03 = ~z~Get off me.
+
+REDW2_AD_STOP_01 = ~z~Stop that.
+
+REDW2_AD_STOP_02 = ~z~Leave me alone.
+
+REDW2_AD_STOP_03 = ~z~Hey, get off.
+
+REDW2_AD_STOP_04 = ~z~That's enough.
+
+REDW2_AD_STOP_05 = ~z~Just stop it.
+
+REDW2_AD_STOP_06 = ~z~Come on, this ain't fair.
+
+REDW2_DFHT_ENT_1 = ~z~Can't even fight your own battles, Downes?
+
+REDW2_DFHT_NHIT_01 = ~z~Come on.
+
+REDW2_DFHT_NHIT_02 = ~z~Hit me then.
+
+REDW2_DFHT_NHIT_03 = ~z~Do something, huh?
+
+REDW2_DFHT_OTHR_01 = ~z~Go on. Finish that fool.
+
+REDW2_DFHT_OTHR_02 = ~z~Put that son of bitch down.
+
+REDW2_DFHT_OTHR_03 = ~z~Just give him back to me.
+
+REDW2_DFHT_PRUN_01 = ~z~Hey, where you going?
+
+REDW2_DFHT_PRUN_02 = ~z~Come back, you damn coward.
+
+REDW2_DFHT_PRUN_03 = ~z~Too late to run now.
+
+REDW2_DFHT_TNT_01 = ~z~You and that diseased whore are perfect for each other.
+
+REDW2_DFHT_TNT_02 = ~z~You should've stayed out of this.
+
+REDW2_DFHT_TNT_03 = ~z~I'll kill you, you son of a bitch.
+
+REDW2_DFHT_TNT_04 = ~z~I say what goes round here, not you.
+
+REDW2_DFHT_TNT_05 = ~z~You just made it a lot worse for that boy.
+
+REDW2_DFHT_TNT_06 = ~z~That all you got?
+
+REDW2_DFHT_TNT_07 = ~z~Looking for a free fuck, are you?
+
+REDW2_DFHT_TNT_08 = ~z~Ain't my fault you made the boy a bastard.
+
+REDW2_S1_MCS1LI_1 = ~z~Why don't you shut up?
+
+REDW2_S1_MCS1LI_2 = ~z~
+
+REDW2_S1_MCS1LI_3 = ~z~
+
+REDW2_S1_MCS1LI_4 = ~z~
+
+REDW2_S1_MCS1LT_1 = ~z~Hey, boy.
+
+REDW2_S1_MCS1LT_2 = ~z~~sl:1.6~Hey, boy, your mom's a whore, little boy...
+
+REDW2_S1_MCS1LT_3 = ~z~Be quiet, Mr. Dockery.
+
+REDW2_S1_MCS1LT_4 = ~z~~sl:0.8~Your mom's a whore, and that's a goddamn fact.
+
+REDW2_S1_MCS1LT_5 = ~z~~sl:0.0:2.9:1~Hey, anybody wanna get lucky tonight, go home here with Archie...
+
+REDW2_S1_MCS1LT_6 = ~z~Be quiet, please.
+
+REDW2_S1_MCS1LT_7 = ~z~~sl:0.0:3.0~Oh, boy, come on, we're just teasing,~sl:~ain't nothing wrong with being a whore.
+
+REDW2_S1_MCS1LT_8 = ~z~~sl:0.0:1.4:1~Can she give me a discount?
+
+REDW2_S1_MCS1LT_9 = ~z~I'm just joking. I wouldn't touch his momma with a ten foot pole, she's repellent.
+
+REDW2_S1_MCS1LT_10 = ~z~~sl:0.2:1.0~You gonna hit me now?~sl:1.4~He's gonna hit me now.
+
+REDW2_S1_MCS1LT_11 = ~z~'Cause if you're gonna you hit me, it's on, you little maggot.
+
+REDW2_S2_MCS1_1 = ~z~That's enough now, partner...
+
+REDW2_S2_MCS1_2 = ~z~you're starting to scare me, let alone the poor woman...
+
+REDW2_S2_MCS1_3 = ~z~clear off.
+
+REDW2_S2_MCS1_4 = ~z~And who are you?
+
+REDW2_S2_MCS1_5 = ~z~Someone who don't wanna hear no more of your nasty mouth.
+
+REDW2_S2_MCS1_6 = ~z~Push me, and I'll put a bullet in you.
+
+REDW2_S2_MCS1_7 = ~z~I-I-I presume Archie sent you?
+
+REDW2_S2_MCS1_8 = ~z~I said clear off, before I deal with you.
+
+REDW2_S2_MCS1_9 = ~z~I'll see you again, deary.
+
+REDW2_S2_MCS1_10 = ~z~Listen...
+
+REDW2_S2_MCS1_11 = ~z~listen to me...
+
+REDW2_S2_MCS1_12 = ~z~Excuse me.
+
+REDW2_S2_MCS1_13 = ~z~You sound like my husband.
+
+REDW2_S2_MCS1_14 = ~z~I know.
+
+REDW2_S2_MCS1_15 = ~z~Listen...
+
+REDW2_S2_MCS1_16 = ~z~I'm sorry.
+
+REDW2_S2_MCS1_17 = ~z~I'm sorry for what happened, and I was a...
+
+REDW2_S2_MCS1_18 = ~z~a fool.
+
+REDW2_S2_MCS1_19 = ~z~And I'm suffering for my foolishness...
+
+REDW2_S2_MCS1_20 = ~z~but...
+
+REDW2_S2_MCS1_21 = ~z~don't go and get yourself killed because of your pride.
+
+REDW2_S2_MCS1_22 = ~z~You have a son, Mrs. Downes.
+
+REDW2_S2_MCS1_23 = ~z~I'm just so ashamed.
+
+REDW21_AGGED_1 = ~z~You'll never change!
+
+REDW21_POST1_1 = ~z~I've said all there is to say.
+
+REDW21_POST2_1 = ~z~Please just leave.
+
+REDW21_POST3_1 = ~z~And stay away from Archie, he's got enough troubles as it is.
+

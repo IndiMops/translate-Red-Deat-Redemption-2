@@ -1,0 +1,868 @@
+GRY1_1MORE_01 = ~z~Deal with the last one, get him to the wagon.
+
+GRY1_1MORE_02 = ~z~Should just be one more, Arthur.
+
+GRY1_BACK_1 = ~z~How does it feel, being a fine upholder of the law?
+
+GRY1_BACK_2 = ~z~Not that different to our normal lives so far. Who were those fellers?
+
+GRY1_BACK_3 = ~z~Not sure. Probably the people they was selling to. Guess we can't ask 'em now.
+
+GRY1_BACK_4 = ~z~And I thought I was protective over my liquor.
+
+GRY1_BANT1A_1 = ~z~Archibald.
+
+GRY1_BANT1A_2 = ~z~How are you?
+
+GRY1_BANT1A_3 = ~z~Pretty good.
+
+GRY1_BANT1A_4 = ~z~And your friend is behaving himself?
+
+GRY1_BANT1A_5 = ~z~Oh... yes, I-I think he's learned his lesson.
+
+GRY1_BANT1A_6 = ~z~~sl:0.0:3.4~Congratulations on becoming a temporarily deputized...~sl:~citizen of Scarlett Meadows County.
+
+GRY1_BANT1A_7 = ~z~~sl:0.0:3.8~Most towns just get bounty hunters to do their dirty work these days,~sl:0.0:3.1~but ~rp~Sheriff Gray believes the Law should keep the law.~lr:0.3~Now, I'm sure I don't need to remind you there's a chain of command here.
+
+GRY1_BANT1A_8 = ~z~There is?
+
+GRY1_BANT1A_9 = ~z~Dang straight there is.
+
+GRY1_BANT1A_10 = ~z~This is a dangerous business, but follow my lead and you'll be just fine.
+
+GRY1_BANT1A_11 = ~z~Sure.
+
+GRY1_BANT1A_12 = ~z~Hey, Archibald wants to remind us he's in charge here.
+
+GRY1_BANT1A_13 = ~z~~sl:0.0:0.6:1~Of course.
+
+GRY1_BANT1A_14 = ~z~~sl:0.1~Who else would be?
+
+GRY1_BANT1A_15 = ~z~You were a big help with them Anderson boys and I...
+
+GRY1_BANT1A_16 = ~z~put in a very good word with the sheriff on your behalf.
+
+GRY1_BANT1A_17 = ~z~We appreciate that.
+
+GRY1_BANT1A_18 = ~z~~sl:0.0:2.1~We rounded up the others soon after.~lr:~I'm pushing for the rope myself, but that's by the by.
+
+GRY1_BANT1A_19 = ~z~So, these moonshiners...
+
+GRY1_BANT1A_20 = ~z~Not just any moonshiners. Braithwaites.
+
+GRY1_BANT1A_21 = ~z~I told you about the Braithwaites?
+
+GRY1_BANT1A_22 = ~z~Pretty sure you did.
+
+GRY1_BANT1A_23 = ~z~Old cotton family, ~rp~had a fortune at one point until...
+
+GRY1_BANT1A_24 = ~z~~sl:0.0:3.7~well, ~rp~a few changes in the labor laws.~lr:0.2~Now they're dealing in moonshine.
+
+GRY1_BANT1A_25 = ~z~We've found their stills hidden all over Lemoyne.
+
+GRY1_BANT1A_26 = ~z~Quick as we destroy one, another one pops up.
+
+GRY1_BANT1A_27 = ~z~~sl:0.0:2.4~You could call it a pitiful fall from grace,~sl:0.1~if they had any grace to start with.
+
+GRY1_BANT1A_28 = ~z~I have no time for tax dodgers.
+
+GRY1_BANT1A_29 = ~z~Not to mention the fact that Catherine Braithwaite has a rather...
+
+GRY1_BANT1A_30 = ~z~expensive interest in thoroughbred horses to maintain.
+
+GRY1_BANT1A_31 = ~z~~sl:0.0:3.2~But, ~rp~I heard something about it being gold...~sl:~these families were fighting over.
+
+GRY1_BANT1A_32 = ~z~Well, that's the rumor...
+
+GRY1_BANT1A_33 = ~z~~sl:0.0:1.9~but the Grays and the Braithwaites...~sl:~think the other stole a fortune from them...
+
+GRY1_BANT1A_34 = ~z~but ~rp~it happened so long ago, I don't know for sure if it's true.
+
+GRY1_BANT1A_35 = ~z~Must be tough being rich, huh?
+
+GRY1_BANT1A_36 = ~z~~sl:1.0~So I imagine.
+
+GRY1_BANT1B_NO_1 = ~z~Sure sounds like you fellers got your work cut out for you round here.
+
+GRY1_BANT1B_P1_1 = ~z~Okay... Fredrick Mitchell, Lemoyne state legislator. Poor feller.
+
+GRY1_BANT1B_P1_2 = ~z~~sl:0.0:2.8~Yes, this certainly smacks of the Raiders to me.~lr:~Bunch of ex-army free-staters without an ounce of respect for the law.
+
+GRY1_BANT1B_P1_3 = ~z~That's seven government officials they've murdered this year alone.
+
+GRY1_BANT1B_P2_1 = ~z~~sl:0.3~And I know the Braithwaites are in business with them. No shame.
+
+GRY1_BANT1B_P2_2 = ~z~Trash begets trash, my Uncle Reginald used to say.
+
+GRY1_BANT1B_P2_3 = ~z~He had a few stories, let me tell you. Town preacher and town sheriff.
+
+GRY1_BANT1B_P2_4 = ~z~Could drink a sailor under the table before breakfast.
+
+GRY1_BANT1B_P2_5 = ~z~He had one tiny hand, like a child's on the end of a grown man's arm...
+
+GRY1_BANT1B_P2_6 = ~z~~sl:0.0:3.4~But anyway, this tells you what kind of people the Braithwaites are...~sl:~selling moonshine to murderers.
+
+GRY1_BANT1B_P2_7 = ~z~I tell folks, don't even speak to 'em, don't even look 'em in the eye.
+
+GRY1_BANT1B_P2_8 = ~z~I'm sure I wouldn't.
+
+GRY1_BANT1B_YES_1 = ~z~Yep, not the nicest fellers in my experience.
+
+GRY1_BILLGET_01 = ~z~My turn.
+
+GRY1_BILLGET_02 = ~z~I got this one.
+
+GRY1_BILLGO_1 = ~z~Reckon one or two sticks should do it. I'll deal with the other stills.
+
+GRY1_BILLGO_2 = ~z~As you were, Private Williamson.
+
+GRY1_BILLGO_3 = ~z~Shut up.
+
+GRY1_BILLHELP_01 = ~z~Shit! We got men over here!
+
+GRY1_BILLHELP_02 = ~z~Arthur, we got some trouble here!
+
+GRY1_BILL_BK_1 = ~z~Alright, I'll see you over there.
+
+GRY1_BILL_STAY_1 = ~z~You wait here. I'll deal with him.
+
+GRY1_BILL_STAY_2 = ~z~Ok, make it quick.
+
+GRY1_BILL_WORKR_1 = ~z~~sl:0.0:0.7:1~Come here.
+
+GRY1_BRIDGE_01 = ~z~Shit, he's coming back. Get under the bridge.
+
+GRY1_BRIDGE_02 = ~z~He's turned around. Quick, under here.
+
+GRY1_CLEAR_1 = ~z~I don't see any more, do you?
+
+GRY1_CLEAR_2 = ~z~No.
+
+GRY1_CLEAR_3 = ~z~Let's find Dutch and get out of here.
+
+GRY1_CLEAR_4 = ~z~Fine by me.
+
+GRY1_COMING_01 = ~z~Damn... Someone's coming. Stay out of sight.
+
+GRY1_COMING_02 = ~z~Quick, hide. Another one coming this way...
+
+GRY1_DAWD_01 = ~z~Go on.
+
+GRY1_DAWD_02 = ~z~Quick, Morgan.
+
+GRY1_DAWD_03 = ~z~What are you waiting for?
+
+GRY1_DB_BANT1_1 = ~z~That badge rather suits you, Mr. W.
+
+GRY1_DB_BANT1_2 = ~z~Yes, I thought so too.
+
+GRY1_DB_BANT1_3 = ~z~Does it feel good to be back at it, serving your country?
+
+GRY1_DB_BANT1_4 = ~z~I wouldn't go that far.
+
+GRY1_DB_BANT2_1 = ~z~These damn flies, I swear they've got it in for me.
+
+GRY1_DB_BANT2_2 = ~z~You could try washing once in a while.
+
+GRY1_DB_BANT3_1 = ~z~Dangerous business the life of a lawman, isn't it?
+
+GRY1_DB_BANT3_2 = ~z~Appears so.
+
+GRY1_DB_BANT3_3 = ~z~~sl:0.0:4.4:1~I'm just glad we got Archibald here to show us the ropes.
+
+GRY1_DEPUTY_1 = ~z~Arthur, you ride with the deputy. Bill and I will follow.
+
+GRY1_DIRECT2_1 = ~z~Bear right again here.
+
+GRY1_DIRECT_1 = ~z~Go right at the crossroads.
+
+GRY1_DROPW_01 = ~z~Just drop him with the others.
+
+GRY1_DROPW_02 = ~z~Add him to the pile, Arthur.
+
+GRY1_DROP_01 = ~z~Now would be good.
+
+GRY1_DROP_02 = ~z~Go on, put him down.
+
+GRY1_EXT2_1 = ~z~I never knew you were quite so good...
+
+GRY1_EXT2_2 = ~z~at running away, Arthur.
+
+GRY1_EXT2_3 = ~z~Well, I never knew age...
+
+GRY1_EXT2_4 = ~z~had slowed you down quite so much.
+
+GRY1_EXT2_5 = ~z~Well, time is a bastard.
+
+GRY1_EXT2_6 = ~z~When you get to be my age...
+
+GRY1_EXT2_7 = ~z~well, you'll know that better than anything.
+
+GRY1_EXT2_8 = ~z~Be well.
+
+GRY1_EXT2_9 = ~z~I had fun with you today.
+
+GRY1_EXT2_10 = ~z~You're...
+
+GRY1_EXT2_11 = ~z~I was gonna say you're like a son to me...
+
+GRY1_EXT2_12 = ~z~but you're more than that.
+
+GRY1_EXT2_13 = ~z~Oh, I am sorry, son.
+
+GRY1_EXT2_14 = ~z~Spare the gloating, Dutch.
+
+GRY1_EXT2_15 = ~z~Oh, I'm not a gloater.
+
+GRY1_EXT2_16 = ~z~Why would I laugh at the fact that you haven't learned...
+
+GRY1_EXT2_17 = ~z~after all these years to ride a horse very well?
+
+GRY1_EXT2_18 = ~z~That is a source of great sorrow to me.
+
+GRY1_EXT2_19 = ~z~Very funny.
+
+GRY1_EXT2_20 = ~z~I had fun with you today.
+
+GRY1_EXT2_21 = ~z~Be well.
+
+GRY1_EXT2_22 = ~z~You're...
+
+GRY1_EXT2_23 = ~z~well...
+
+GRY1_EXT2_24 = ~z~I was gonna say you're like a son to me...
+
+GRY1_EXT2_25 = ~z~but you're more than that.
+
+GRY1_EXT_1 = ~z~Well done.
+
+GRY1_EXT_2 = ~z~Well, forgive me...
+
+GRY1_EXT_3 = ~z~but, me and my men...
+
+GRY1_EXT_4 = ~z~must return to our lives.
+
+GRY1_EXT_5 = ~z~but, me and my men...
+
+GRY1_EXT_6 = ~z~must return to our lives.
+
+GRY1_EXT_7 = ~z~Ah...
+
+GRY1_EXT_8 = ~z~seems like we failed to destroy...
+
+GRY1_EXT_9 = ~z~the last of the moonshine.
+
+GRY1_EXT_10 = ~z~Sure...
+
+GRY1_EXT_11 = ~z~Would you like us to?
+
+GRY1_EXT_12 = ~z~Well, I normally take it for personal consumption...
+
+GRY1_EXT_13 = ~z~it's sorta part of the job.
+
+GRY1_EXT_14 = ~z~But, I better get back home.
+
+GRY1_EXT_15 = ~z~Why don't I just take a jug or two...
+
+GRY1_EXT_16 = ~z~and leave you boys the rest...
+
+GRY1_EXT_17 = ~z~to show that there's no hard feelings...
+
+GRY1_EXT_18 = ~z~on account of the war.
+
+GRY1_EXT_19 = ~z~We are all Americans.
+
+GRY1_EXT_20 = ~z~Of course.
+
+GRY1_EXT_21 = ~z~My cousin...
+
+GRY1_EXT_22 = ~z~Webster...
+
+GRY1_EXT_23 = ~z~he used to say...
+
+GRY1_EXT_24 = ~z~“Some of us is not as American as others."
+
+GRY1_EXT_25 = ~z~If you know what I mean...
+
+GRY1_EXT_26 = ~z~only I didn't quite.
+
+GRY1_EXT_27 = ~z~Come on you degenerate...
+
+GRY1_EXT_28 = ~z~no good, white trash...
+
+GRY1_EXT_29 = ~z~hillbilly piece of scum.
+
+GRY1_EXT_30 = ~z~I know you, Billy Lime.
+
+GRY1_EXT_31 = ~z~Finally...~n~~m~and you've always been...
+
+GRY1_EXT_32 = ~z~finally.~n~~m~a piece of crap.
+
+GRY1_EXT_33 = ~z~Come on, move it.
+
+GRY1_EXT_34 = ~z~We have alighted...~n~~m~Move it!
+
+GRY1_EXT_35 = ~z~on a land so stupid...
+
+GRY1_EXT_36 = ~z~a backwater so backwards...
+
+GRY1_EXT_37 = ~z~that even we are like geniuses.
+
+GRY1_EXT_38 = ~z~Bill!
+
+GRY1_EXT_39 = ~z~Get this stuff outta here!
+
+GRY1_EXT_40 = ~z~Come on, you ride with me.
+
+GRY1_EXT_41 = ~z~Okay.
+
+GRY1_EXT_BANT2SHOUTED_2 = ~z~~sl:0.0:1.7~Ain't there always?~sl:0.3~From what they was yelling, I think they were the buyers.
+
+GRY1_EXT_BANT2SHOUTED_6 = ~z~~sl:0.0:3.8~These lawmen, these two families...~sl:0.1~I mean, I really think we can play this from all sides.
+
+GRY1_EXT_BANT2SHOUTED_9 = ~z~What do you mean, “Young Dutch”? I'm as strong as I've ever been.
+
+GRY1_EXT_BANT2SPOKEN_2 = ~z~~sl:0.0:1.5~Ain't there always?~sl:0.3~From what they was yelling, I think they were the buyers.
+
+GRY1_EXT_BANT2SPOKEN_6 = ~z~~sl:0.0:3.9~These lawmen, these two families...~sl:~I mean, I really think we can play this from all sides.
+
+GRY1_EXT_BANT2SPOKEN_9 = ~z~What do you mean, “Young Dutch”? I'm as strong as I have ever been.
+
+GRY1_EXT_BANT2_1 = ~z~Bit of trouble back there, Arthur?
+
+GRY1_EXT_BANT2_3 = ~z~Old Archibald didn't ask too many questions so neither should we.
+
+GRY1_EXT_BANT2_4 = ~z~I ain't planning to.
+
+GRY1_EXT_BANT2_5 = ~z~That was worth the effort, though. Deputized and hiding in plain sight.
+
+GRY1_EXT_BANT2_7 = ~z~It's got Hosea written all over it.
+
+GRY1_EXT_BANT2_8 = ~z~This is starting to sound like the young Dutch again.
+
+GRY1_EXT_BANT2_10 = ~z~Hey, you know what... why don't I race you back?
+
+GRY1_EXT_BANT_1 = ~z~Should I stash this somewhere near camp, boss?
+
+GRY1_EXT_BANT_2 = ~z~Yes, show it to Hosea, I'm sure he can find a use for it.
+
+GRY1_EXT_LI_1 = ~z~Well done.
+
+GRY1_EXT_LI_2 = ~z~Well, forgive me...
+
+GRY1_GO2_01 = ~z~We won't catch the rider. Grab the other feller.
+
+GRY1_GO2_02 = ~z~Forget the rider, they'll round him up later. Get the other one.
+
+GRY1_GO_01 = ~z~Now's your chance.
+
+GRY1_GO_02 = ~z~Okay, go get him.
+
+GRY1_HAT_1 = ~z~You know, we're really gonna have to find you a more suitable hat.
+
+GRY1_HAT_2 = ~z~If I'd only knew I was gonna be deputized today...
+
+GRY1_HURRY_01 = ~z~Are we getting out of here then?
+
+GRY1_HURRY_02 = ~z~Quick, let's go before any more show up.
+
+GRY1_HURRY_03 = ~z~~sl:0.0:2.1~Come on, Arthur, I'd rather not be here...~sl:~when their friends notice the shine's gone.
+
+GRY1_IG1_B_1 = ~z~Well, uhm... years ago, they was the finest family around.
+
+GRY1_IG1_B_2 = ~z~A thousand acres or more, three hundred slaves... and well,
+
+GRY1_IG1_B_3 = ~z~decadence crept into their way of living, decadence and debauchery.
+
+GRY1_IG1_B_4 = ~z~Kind of like in England, which is why they cut the king's head off?
+
+GRY1_IG1_B_5 = ~z~And at the same time, the Gray family came from Scotland, recently ah... maybe a hundred and twenty years ago.
+
+GRY1_IG1_B_6 = ~z~And they challenged the Braithwaites... and, over time, a feud developed.
+
+GRY1_IG1_B_7 = ~z~With the Grays being right and proper in pretty much everything, and the Braithwaites being uncivilized...
+
+GRY1_IG1_B_8 = ~z~and, and, and, English in their manners, if you know what I mean.
+
+GRY1_IG1_B_9 = ~z~And so, it has gone on like this for years.
+
+GRY1_IG1_B_10 = ~z~Please tell me you're almost done, Arthur.
+
+GRY1_IG1_B_11 = ~z~Sure...
+
+GRY1_IG1_B_12 = ~z~Just a second.
+
+GRY1_IG1_P1B_1 = ~z~Now, anyone we find here, we bring in alive, understood?
+
+GRY1_IG1_P1B_2 = ~z~Round them up, then take this operation down for good.
+
+GRY1_IG1_P1B_3 = ~z~Come on, let's see what we're dealing with.
+
+GRY1_IG1_P1_1 = ~z~Here we are... so what was I saying?
+
+GRY1_IG1_P1_2 = ~z~Something about the Braithwaites, I think.
+
+GRY1_IG1_P1_3 = ~z~Even saying that word makes me sick...
+
+GRY1_IG2_CO1_1 = ~z~Climb on up, let's go.
+
+GRY1_IG2_CO2_1 = ~z~Come on, we need to get moving.
+
+GRY1_IG2_CO3_1 = ~z~~sl:0.0:1.6:1~Are you getting on then, mister?
+
+GRY1_IG3_CHAT_1 = ~z~I heard from my cousin, Job.
+
+GRY1_IG3_CHAT_2 = ~z~The little feller?
+
+GRY1_IG3_CHAT_3 = ~z~No, the tall one, with the, with the pox?
+
+GRY1_IG3_CHAT_4 = ~z~Oh, I remember, I think... one that got married to uh, whatshername?
+
+GRY1_IG3_CHAT_5 = ~z~No, the one who joined the army.
+
+GRY1_IG3_CHAT_6 = ~z~Oh yeah... that feller.
+
+GRY1_IG3_CHAT_7 = ~z~Oh, he thought he was going to get sent to jail?
+
+GRY1_IG3_CHAT_8 = ~z~So he joined the army, and then they sent him overseas, to the Philippines.
+
+GRY1_IG3_CHAT_9 = ~z~Where the hell is that?
+
+GRY1_IG3_CHAT_10 = ~z~I don't know. Europe I guess... oh, he used to hate being sent to other countries.
+
+GRY1_IG3_CHAT_11 = ~z~Then he'll hate going to Europe like that.
+
+GRY1_IG3_CHAT_12 = ~z~~sl:0.0:2.1~I know.~sl:0.6~... I never liked that guy.
+
+GRY1_IG3_CHAT_13 = ~z~To be honest, neither did I...
+
+GRY1_IG3_EXIT_1 = ~z~~sl:3.2:0.0~Made me laugh, though.
+
+GRY1_IG3_RUN_1 = ~z~Hey, who's that?
+
+GRY1_IG3_RUN_2 = ~z~Let's get outta here!
+
+GRY1_IG7_ACTION_1 = ~z~Goddamn fool...
+
+GRY1_IG7_ACTION_2 = ~z~Where you at boy? Anthony.
+
+GRY1_IG7_ENTERW_1 = ~z~~sl:0.0:1.2~Anthony...~sl:2.2:1.8:1~Anthony, where you at, boy?
+
+GRY1_IG14_LI_DU_1 = ~z~Good work, gentlemen.
+
+GRY1_IG15_CO1_1 = ~z~Hey, you should see this.
+
+GRY1_IG15_CO2_1 = ~z~Deputy, get over here, please.
+
+GRY1_IG15_CO3_1 = ~z~Come on, I wanna show you something.
+
+GRY1_IG15_INSPT_1 = ~z~Look... suit and tie, one bullet clean through the forehead.
+
+GRY1_IG15_INSPT_2 = ~z~~sl:0.0:2.7~My money says this is the handiwork...~sl:~of a gang called the Lemoyne Raiders.
+
+GRY1_IG15_LCO1_1 = ~z~Let's go, there's nothing more we can do here.
+
+GRY1_IG15_LCO2_1 = ~z~Come on, we need to get back on the road.
+
+GRY1_IG15_LCO3_1 = ~z~Don't dwell on it, let's just move on.
+
+GRY1_IG15_LEAVE_1 = ~z~Let's see if we've got any identification.
+
+GRY1_IG15_LEAVE_2 = ~z~Okay, we should get going.
+
+GRY1_IG15_LEAVE_3 = ~z~I'll send someone over here later to clean this up.
+
+GRY1_IG15_PICK_1 = ~z~I think that's it.
+
+GRY1_IG15_PICK_2 = ~z~Well, what do we do now?
+
+GRY1_IG15_PICK_3 = ~z~We better destroy all this.
+
+GRY1_IG15_PICK_4 = ~z~Any of your boys can handle explosives?
+
+GRY1_IG15_PICK_5 = ~z~Sure, anyone but him.
+
+GRY1_IG15_PICK_6 = ~z~So... tell me about these folk... the Braithwaites.
+
+GRY1_IG15_RNO_1 = ~z~Impressive. You got a keen eye.
+
+GRY1_IG15_RYES_1 = ~z~Yeah, I've run into them.
+
+GRY1_IG15_SPOT2_1 = ~z~~sl:0.0:3.1:1~Dear me, that don't look good.
+
+GRY1_IG15_SPOT2_2 = ~z~Come on, mister.
+
+GRY1_IG15_SPOT2_3 = ~z~Keep your eyes open.
+
+GRY1_IG15_SPOT2_4 = ~z~~sl:0.0:3.6:1~Oh... this must have happened recently...
+
+GRY1_IG15_SPOT2_5 = ~z~Hey, come have a look at this.
+
+GRY1_IG15_SPOT_1 = ~z~~sl:0.0:6.9:1~Whoa... whoa. Hold up. You see that wagon?
+
+GRY1_IG16_ACT_1 = ~z~I said this place was crawling with vermin...
+
+GRY1_IG16_ACT_2 = ~z~~sl:0.0:3.3~and we just found ourselves the rat's nest par excellence~sl:~as they say in Paris.
+
+GRY1_IG16_ACT_3 = ~z~My aunt, she went to Paris back in '78...
+
+GRY1_IG16_ACT_4 = ~z~How we gonna handle this?
+
+GRY1_IG16_ACT_5 = ~z~Well, the way I see it...
+
+GRY1_IG16_ACT_6 = ~z~Actually, let my friend here decide.
+
+GRY1_IG16_ACT_7 = ~z~~sl:0.0:3.0~He doesn't have your fine way with words...~sl:~but he is definitely the man for the job.
+
+GRY1_IG16_EXIT_1 = ~z~Let's stop these filthy degenerate tax dodgers. The cheek of them.
+
+GRY1_IG16_EXIT_2 = ~z~A fine idea.
+
+GRY1_IG16_EXIT_3 = ~z~Hush, buddy.
+
+GRY1_INT_1 = ~z~Of course, of course.
+
+GRY1_INT_2 = ~z~Oh, and here is my dear friend, Arthur Callahan.
+
+GRY1_INT_3 = ~z~Boy is a hunter...
+
+GRY1_INT_4 = ~z~boy is a killer.
+
+GRY1_INT_5 = ~z~Arthur, you've met but not been introduced to Mr...
+
+GRY1_INT_6 = ~z~oh, I'm so sorry, Sheriff Gray.
+
+GRY1_INT_7 = ~z~How are you doing, sir?
+
+GRY1_INT_8 = ~z~I'm fine.
+
+GRY1_INT_9 = ~z~Tough business you boys had.
+
+GRY1_INT_10 = ~z~We did?
+
+GRY1_INT_11 = ~z~Oh there's no need to pretend with me, sir...
+
+GRY1_INT_12 = ~z~life can be tough.
+
+GRY1_INT_13 = ~z~So it can.
+
+GRY1_INT_14 = ~z~And no man owes another anything.
+
+GRY1_INT_15 = ~z~No, sir.
+
+GRY1_INT_16 = ~z~But still, I feel you were hard done by...
+
+GRY1_INT_17 = ~z~losing your employment like that.
+
+GRY1_INT_18 = ~z~But still, here in Rhodes we have work enough for honest men.
+
+GRY1_INT_19 = ~z~That's some strong stuff.
+
+GRY1_INT_20 = ~z~Still...
+
+GRY1_INT_21 = ~z~don't seem to be doing you any harm, I guess.
+
+GRY1_INT_22 = ~z~Exactly, excuse me a moment.~m~~n~Woah...
+
+GRY1_INT_23 = ~z~I told you we was moving up in this world.
+
+GRY1_INT_24 = ~z~Deputies.
+
+GRY1_INT_25 = ~z~You have finally lost your mind.
+
+GRY1_INT_26 = ~z~Amongst these drunkards, hillbillies, and slavers...
+
+GRY1_INT_27 = ~z~good honest thieves like us...
+
+GRY1_INT_28 = ~z~we're bound to be moralizers in a place like this.
+
+GRY1_INT_29 = ~z~Oh, Sheriff Gray...
+
+GRY1_INT_30 = ~z~you are back.
+
+GRY1_INT_31 = ~z~Now listen, sir...
+
+GRY1_INT_32 = ~z~there is shine in them woods though.
+
+GRY1_INT_33 = ~z~And it is costing this county its good name...
+
+GRY1_INT_34 = ~z~and the state a whole lot of income.
+
+GRY1_INT_35 = ~z~You boys wouldn't mind rooting it out...
+
+GRY1_INT_36 = ~z~maybe we'll make you permanent.
+
+GRY1_INT_37 = ~z~I gotta sit me down a second.
+
+GRY1_INT_38 = ~z~Not a problem, sir, not a problem at all.
+
+GRY1_INT_39 = ~z~You are in safe hands now.
+
+GRY1_INT_40 = ~z~And people waste time with the temperance movement.
+
+GRY1_INT_41 = ~z~Liquor never dulled a good man's senses.
+
+GRY1_INT_LI_1 = ~z~Of course, of course. Oh,
+
+GRY1_LASTGUY_01 = ~z~Last one's yours, Arthur.
+
+GRY1_LASTGUY_02 = ~z~We're still missing the one, Arthur.
+
+GRY1_LASTGUY_03 = ~z~What are you doing? Finish the job.
+
+GRY1_LASTGUY_04 = ~z~You seem very empty-handed, my boy.
+
+GRY1_LEFT_1 = ~z~We'll take the left.
+
+GRY1_LOITER_01 = ~z~Time is of the essence, dear boy.
+
+GRY1_LOITER_02 = ~z~Don't keep Archibald waiting, he gets very het up.
+
+GRY1_LOITER_03 = ~z~Get to it, boys... a good deputy acts promptly...
+
+GRY1_MCS1_1 = ~z~See?
+
+GRY1_MCS1_2 = ~z~See?
+
+GRY1_MCS1_3 = ~z~What did I tell you boys...
+
+GRY1_MCS1_4 = ~z~what did I say?
+
+GRY1_MCS1_5 = ~z~I said this place was crawling with vermin...
+
+GRY1_MCS1_6 = ~z~and we just found ourselves the rat's nest par excellence...
+
+GRY1_MCS1_7 = ~z~as they say in Paris.
+
+GRY1_MCS1_8 = ~z~My aunt, she went to Paris back in '78...
+
+GRY1_MCS1_9 = ~z~How we gonna handle this?
+
+GRY1_MCS1_10 = ~z~Well, the way I see...
+
+GRY1_MCS1_11 = ~z~Actually, let my friend here decide.
+
+GRY1_MCS1_12 = ~z~He doesn't have your fine way with words...
+
+GRY1_MCS1_13 = ~z~but he is definitely the man for the job.
+
+GRY1_MCS1_14 = ~z~Let's stop these filthy degenerate tax dodgers.
+
+GRY1_MCS1_15 = ~z~The cheek of them.
+
+GRY1_MCS1_16 = ~z~A fine idea.
+
+GRY1_MCS1_17 = ~z~Hush, buddy.
+
+GRY1_MCS1_LIC_1 = ~z~Arthur...
+
+GRY1_MCS1_LI_1 = ~z~See? See?
+
+GRY1_MCS1_LI_2 = ~z~What did I tell you boys... what did I say?
+
+GRY1_MCS2_EDIT_1 = ~z~I think that's it.
+
+GRY1_MCS2_EDIT_2 = ~z~Well...
+
+GRY1_MCS2_EDIT_3 = ~z~what do we do now?
+
+GRY1_MCS2_EDIT_4 = ~z~We better destroy all this.
+
+GRY1_MCS2_EDIT_5 = ~z~Any of your boys can handle explosives?
+
+GRY1_MCS2_EDIT_6 = ~z~Sure...
+
+GRY1_MCS2_EDIT_7 = ~z~anyone but him...
+
+GRY1_MCS2_EDIT_8 = ~z~So...
+
+GRY1_MCS2_EDIT_9 = ~z~tell me about these folk...
+
+GRY1_MCS2_EDIT_10 = ~z~the Braithwaites.
+
+GRY1_MCS2_LI_1 = ~z~I think that's it.
+
+GRY1_MOVE_01 = ~z~Hey, give me some room to work here.
+
+GRY1_MOVE_02 = ~z~What are you doing? I can't tie him up with you in the way.
+
+GRY1_OUTFIT_1 = ~z~You know, we're really gonna have to find you some more suitable attire.
+
+GRY1_OUTFIT_2 = ~z~If I'd only knew I was gonna be deputized today...
+
+GRY1_PICK_01 = ~z~Arthur?
+
+GRY1_PICK_02 = ~z~Just pick a side and go.
+
+GRY1_PICK_03 = ~z~Come on, I told Archibald here you were the man for the job?
+
+GRY1_PLYR_DRIVE_1 = ~z~Would you mind taking the reins? I want to have a look at these papers.
+
+GRY1_PLYR_DRIVE_2 = ~z~Sure.
+
+GRY1_PLYR_DRIVE_3 = ~z~I'll direct you.
+
+GRY1_RACE_ASK_01 = ~z~If you say I'm old, prove it.
+
+GRY1_RACE_ASK_02 = ~z~Well then, Deputy?
+
+GRY1_RACE_ASK_03 = ~z~Come on, let's make this interesting.
+
+GRY1_REMINDER_1 = ~z~~sl:0.0:3.9~Remember what he said... we need them alive.~sl:0.2~Let's just knock them out and tie 'em up.
+
+GRY1_REMINDER_2 = ~z~Got it, Deputy Williamson.
+
+GRY1_RIGHT_1 = ~z~We'll take the right.
+
+GRY1_ROUNDUP_1 = ~z~Right, let's gather them up.
+
+GRY1_R_AGREE_1 = ~z~Okay, you're on.
+
+GRY1_R_AGREE_2 = ~z~That's the spirit. Okay... on my word... set...
+
+GRY1_R_AGREE_3 = ~z~Go!
+
+GRY1_R_CHEAT_01 = ~z~Come on, ride a fair race at least!
+
+GRY1_R_CHEAT_02 = ~z~Hey, that's cheating!
+
+GRY1_R_CHEAT_03 = ~z~Stop cheating! Are you that desperate?
+
+GRY1_R_DAWDLE1_01 = ~z~Come on, Arthur, let's get back to camp.
+
+GRY1_R_DAWDLE1_02 = ~z~Mount up, let's go.
+
+GRY1_R_DAWDLE1_03 = ~z~Can we leave this swamp now, please?
+
+GRY1_R_DAWDLE2_1 = ~z~The silence is telling. ~rp~Suit yourself, I'll see you back there.
+
+GRY1_R_DECLINESHOUTED_2 = ~z~~sl:1.8~You do, do you? You know you'll never outrun me and The Count.
+
+GRY1_R_DECLINESPOKEN_2 = ~z~Oh you do, do you? You know you'll never outrun me and The Count.
+
+GRY1_R_DECLINE_1 = ~z~I would love to, Dutch, but I got some other business to attend to.
+
+GRY1_R_DECLINE_3 = ~z~Anyway, I'll see you later then. Stay out of trouble.
+
+GRY1_R_GLOAT1_1 = ~z~I don't know who's more past it, you or your horse!
+
+GRY1_R_GLOAT1_2 = ~z~Oh, I'm going to enjoy wiping that smirk off your face!
+
+GRY1_R_GLOAT2_1 = ~z~The final stretch!
+
+GRY1_R_GLOAT2_2 = ~z~You really think you can hold that lead?
+
+GRY1_R_GLOAT2_3 = ~z~No doubt.
+
+GRY1_R_GLOAT3_1 = ~z~It's sad to think back to you in your prime.
+
+GRY1_R_TAUNT1_1 = ~z~You never were much of a rider!
+
+GRY1_R_TAUNT1_2 = ~z~We'll see about that!
+
+GRY1_R_TAUNT2_1 = ~z~Unless you catch a second wind, this won't be much of a race.
+
+GRY1_R_TAUNT2_2 = ~z~I'm just picking my moment, Dutch!
+
+GRY1_R_TAUNT3_1 = ~z~Sorry, Arthur. This ain't looking good for you.
+
+GRY1_S2_DEPUTY_REMIND_01 = ~z~Come on. No need for apprehension, just follow my lead.
+
+GRY1_S2_DEPUTY_REMIND_02 = ~z~What are you waiting for? Let's go.
+
+GRY1_S2_DEPUTY_REMIND_03 = ~z~We need to get moving now, deputy.
+
+GRY1_S4_D_SIDE_01 = ~z~What are you doing? You're with Bill.
+
+GRY1_S4_D_SIDE_02 = ~z~You take the other side.
+
+GRY1_S4_D_SIDE_03 = ~z~Stick to the plan, Arthur.
+
+GRY1_S7_PUSH_1 = ~z~There are more by those huts. Let's clear 'em out.
+
+GRY1_SEE_1 = ~z~See? See?
+
+GRY1_SEE_2 = ~z~What did I tell you boys... what did I say?
+
+GRY1_SEND_BILL_1 = ~z~I think you take this one, Bill.
+
+GRY1_SEND_BILL_2 = ~z~With pleasure.
+
+GRY1_SHOOTOUT_01 = ~z~Give me a hand with these bastards!
+
+GRY1_SHOOTOUT_02 = ~z~Where did these sons of bitches come from?
+
+GRY1_SNEAKUP_1 = ~z~See one by the bridge over there?
+
+GRY1_SPLIT_1 = ~z~Let's split up. Arthur and Bill, me and Archibald.
+
+GRY1_SPLIT_2 = ~z~You boys want right, or left?
+
+GRY1_STILL2_1 = ~z~That is the last time I'll mention it, I swear.
+
+GRY1_STILL2_2 = ~z~Yeah, I'm sure.
+
+GRY1_STILL_1 = ~z~Think you're real funny, don't you?
+
+GRY1_STOPPED_01 = ~z~What are you doing?
+
+GRY1_STOPPED_02 = ~z~What's wrong?
+
+GRY1_STOPPED_03 = ~z~What are you waiting for?
+
+GRY1_S_BILL_ALT_1 = ~z~I'll deal with this one, you get the other feller.
+
+GRY1_S_BILL_ALT_2 = ~z~Alright.
+
+GRY1_TAUNTR_A_01 = ~z~You okay there, old man?
+
+GRY1_TAUNTR_A_02 = ~z~It's sad to think back to you in your prime.
+
+GRY1_TAUNTR_A_03 = ~z~I sure hope you ride faster than that when the law's on your tail.
+
+GRY1_TAUNTR_A_04 = ~z~Any time you want to stop for a breather, you let me know.
+
+GRY1_TAUNTR_D_01 = ~z~Don't forget, I taught you everything you know!
+
+GRY1_TAUNTR_D_02 = ~z~I've barely dug in a spur here, Arthur.
+
+GRY1_TAUNTR_D_03 = ~z~It's never graceful with you, is it?
+
+GRY1_TAUNTR_D_04 = ~z~~sl:0.0:2.4~When are you going to start blaming that horse?~sl:~That's how it usually goes.
+
+GRY1_THATSOURS_1 = ~z~Hey, that belongs to the Lemoyne Raiders, you sons of bitches!
+
+GRY1_THISWAY_01 = ~z~Bill, this way.
+
+GRY1_THISWAY_02 = ~z~We'll take this way.
+
+GRY1_TIEHIM_1 = ~z~Tie that one and bring him to the wagon.
+
+GRY1_TIE_01 = ~z~I'll tie this bastard up. I-I think there's another one by the still.
+
+GRY1_TIE_02 = ~z~I think I saw another one guarding the still. I'll get this feller trussed up.
+
+GRY1_TODUTCH_01 = ~z~I said, you ride with Archibald.
+
+GRY1_TODUTCH_02 = ~z~Why aren't you getting on the wagon?
+
+GRY1_WAIT_01 = ~z~Hold on, wait for them to move.
+
+GRY1_WAIT_02 = ~z~Hold back, see if they split up.
+
+GRY1_WAVE1_1 = ~z~Sorry, boys, we're putting you out of business!
+
+GRY1_WAVE2_01 = ~z~There's more coming up from those huts.
+
+GRY1_WAVE2_02 = ~z~Look out! We got more coming up!
+
+GRY1_WAVE3_01 = ~z~They're still coming!
+
+GRY1_WAVE3_02 = ~z~Damn, there's more of 'em.
+
+GRY1_WBREAKOUT_1 = ~z~Hey, we got an intruder!
+
+GRY1_WRONG_01 = ~z~I thought you were going the other way?
+
+GRY1_WRONG_02 = ~z~We have this side under control. Go join your colleague, Deputy.
+

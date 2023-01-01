@@ -1,0 +1,14 @@
+MGGEN_SAD_CNV1_1 = ~z~So you gonna tell me you learned this as a farmer's wife, too?
+
+MGGEN_SAD_CNV1_2 = ~z~I'm from the mountains, Arthur. We're made of sterner stuff.
+
+MGGEN_SAD_CNV1_3 = ~z~There's definitely more to you than you let on.
+
+MGGEN_SAD_CNV1_4 = ~z~I sure hope so.
+
+MGGEN_SAD_CNV2_1 = ~z~You should take on Micah at this some time, he fancies himself pretty good.
+
+MGGEN_SAD_CNV2_2 = ~z~Course he does. I'd only end up stabbing him in the head.
+
+MGGEN_SAD_CNV2_3 = ~z~Even more reason to...
+

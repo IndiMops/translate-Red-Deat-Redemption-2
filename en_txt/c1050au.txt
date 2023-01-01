@@ -1,0 +1,42 @@
+C1050_EXIT_DAY_1 = ~z~Anyways, night ain't here yet, so I probably should get something done around here.
+
+C1050_INTRO_1 = ~z~Well, you seem half normal, at least.
+
+C1050_NEG_A_1 = ~z~What does that mean?
+
+C1050_NEG_J_1 = ~z~What does that mean?
+
+C1050_NEG_RES_1_1 = ~z~At least hear me out, Jesus.
+
+C1050_NEG_RES_2_1 = ~z~Alright, I'm done if you're gonna be like that.
+
+C1050_NEG_RES_2_2 = ~z~Maybe I was generous calling you "half normal"...
+
+C1050_POS_A_1 = ~z~Thank you.
+
+C1050_POS_J_1 = ~z~Thank you.
+
+C1050_POS_RES_1_1 = ~z~And I ain't even got to the good bit yet.
+
+C1050_STORY_P1_1 = ~z~~sl:0.0:4.7~Sorry, that came out wrong. Just been crazies and creeps through here today.~sl:0.5~Some days is like that, you know?
+
+C1050_STORY_P1_2 = ~z~I know not to judge a book by its cover, but all you can do is go with your gut and, failing that, go with your gun.
+
+C1050_STORY_P1_3 = ~z~~sl:0.0:3.5~It takes a lot to spook me. Probably the worst night I ever spent...~sl:0.2~was in the Lemoyne Bayou, near Saint Denis?
+
+C1050_STORY_P2_1 = ~z~I was camping out there, probably about two years back now, and I heard people talk about these Night Folk?
+
+C1050_STORY_P2_2 = ~z~Living in the swamps 'round those parts, like feral, barely human...
+
+C1050_STORY_P2_3 = ~z~preying on travelers?
+
+C1050_STORY_P2_4 = ~z~But you know, every place has these tales, so you learn not to pay them too much heed.
+
+C1050_STORY_P2_5 = ~z~~sl:0.0:2.9~But soon as night fell, it started...~sl:0.4~figures in the trees all around me, making the most horrible noises, closing in on me...
+
+C1050_STORY_P3_1 = ~z~All I could do was keep yelling and firing off shots from my rifle.
+
+C1050_STORY_P3_2 = ~z~Dawn has never come slower, a-and when it did, I hightailed it out of there as fast as I could.
+
+C1050_STORY_P3_3 = ~z~Never seen anything like that before or since.
+

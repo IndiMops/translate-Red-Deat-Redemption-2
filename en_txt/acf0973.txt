@@ -1,0 +1,36 @@
+973_AB_BCH_NEG_1 = ~z~Hey, I-I'm just making conversation here.
+
+973_AB_BCH_POS_1 = ~z~Yep, you probably heard of him.
+
+973_A_1 = ~z~No offence, I just know the type.
+
+973_A_2 = ~z~I done some myself a couple years back.
+
+973_A_3 = ~z~Like most things in life, it don't live up to the billing.
+
+973_A_4 = ~z~And my brother, he's dead now, but he used to tell me stories about Red Harlow...
+
+973_BC_BCH_NEG_1 = ~z~Hey, it's just a story, but if you don't want to hear it, fine by me.
+
+973_BC_BCH_POS_1 = ~z~I don't know... bounty hunting never felt like that to me.
+
+973_BC_BCH_POS_2 = ~z~Nothing heroic about riding for three days to turn in some lowdown chicken thief.
+
+973_B_1 = ~z~Legendary bounty hunter bringing the savage outlaws of the frontier to justice.
+
+973_B_2 = ~z~A man who watched his parents get murdered in front of him as a boy, but...
+
+973_B_3 = ~z~who uses that pain to become a better man, and ultimately to... wreak his vengeance.
+
+973_EXIT_DAY_1 = ~z~Nothing easy in this life... so I can't sit around all day.
+
+973_INTRO_1 = ~z~You a bounty hunter, mister?
+
+973_INTRO_NEG_1 = ~z~Why, you got a price on your head?
+
+973_INTRO_NEG_J_1 = ~z~Why, you got a price on your head?
+
+973_INTRO_POS_1 = ~z~I have been... why?
+
+973_INTRO_POS_J_1 = ~z~I have been... why?
+

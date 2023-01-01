@@ -1,0 +1,28 @@
+KIECNV_3_A_1 = ~z~Hey.
+
+KIECNV_3_A_2 = ~z~Kid, come over here a second.
+
+KIECNV_3_A_3 = ~z~What's your name little feller?
+
+KIECNV_3_A_4 = ~z~Jack.
+
+KIECNV_3_BCD_BL_1 = ~z~Hey Jack.
+
+KIECNV_3_BCD_BL_2 = ~z~Oh hi Arthur.
+
+KIECNV_3_BCD_BL_3 = ~z~~sl:0.0:1.1~Why don't you run along now?~sl:~You should be keeping warm.
+
+KIECNV_3_BCD_BL_4 = ~z~This place is so boring.
+
+KIECNV_3_BCD_BL_5 = ~z~~sl:0.0:1.2~You talk to that boy again,~sl:~I'll cut your throat.
+
+KIECNV_3_B_1 = ~z~~sl:0.0:0.7~So...~sl:0.3:0.6~listen...~sl:0.4~Jack...
+
+KIECNV_3_B_2 = ~z~How about you fetch Uncle Kieran a bite to eat, huh?
+
+KIECNV_3_B_3 = ~z~There's a nickel in it for you.
+
+KIECNV_3_C_1 = ~z~I'm not allowed to talk to you. Dutch says you've been bad and need to be punished.
+
+KIECNV_3_D_1 = ~z~~sl:0.6:1.1:1~Damn brat.
+

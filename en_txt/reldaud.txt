@@ -1,0 +1,12 @@
+VALS_LD_CNV_A_1 = ~z~Getting so a man can't get a goddamn break in this town no more, not a damn one.
+
+VALS_LD_CNV_A_2 = ~z~A feller I know got kicked to death by a horse, you believe that?
+
+VALS_LD_CNV_B_1 = ~z~Hey, hey, I got a question for you. I'm looking for a buddy of mine.
+
+VALS_LD_CNV_B_2 = ~z~Good feller, like a whiskey now and again.
+
+VALS_LD_CNV_B_3 = ~z~Haven't seen him in a little while, and his wife's banging on my door saying he never came home.
+
+VALS_LD_CNV_B_4 = ~z~Can't explain it, he lives just across the road. Getting me a bit worried...
+

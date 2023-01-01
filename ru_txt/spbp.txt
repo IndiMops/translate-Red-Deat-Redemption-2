@@ -1,0 +1,4 @@
+SPBP_UC_NO = Нет
+
+SPBP_UC_YES = Да
+

@@ -1,0 +1,40 @@
+0x519F93ED = Deliver the wagon to the ~COLOR_MP_OBJECTIVE~drop off~s~
+
+0xCE2E9D95 = ~COLOR_ENEMY~~1~~s~ is intercepting the wagon
+
+FETCH_MOVING_TARGET_HELP_RISKY_DELIVERY = Driving recklessly or colliding with obstacles will cause the wagon to take damage.
+
+FETCH_MOVING_TARGET_HELP_WAGON_PRIMARY = Steal the wagon and deliver it to Camp ~COLOR_MP_OBJECTIVE~~BLIP_CAMP~~s~ to resume operations. Supplies returned will also add materials to Cripps Trading Co.
+
+FETCH_MOVING_TARGET_OBJ_DEFEND_WAGON = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~wagon~s~ on the way to the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+FETCH_MOVING_TARGET_OBJ_RETURN_SUPPLIES = Deliver the wagon ~1~
+
+FETCH_MOVING_TARGET_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Rival players~s~ can steal the wagon
+
+FETCH_MOVING_TARGET_SHARD_DESC_PRIMARY = Get the supplies
+
+FETCH_MOVING_TARGET_SHARD_WAGON_DESTROYED = The supplies were destroyed
+
+FETCH_MOVING_TARGET_SHARD_WAGON_ESCAPED = Wagon reached its destination
+
+FETCH_MOVING_TARGET_SHARD_WAGON_PRIMARY_FAIL = The supplies were destroyed
+
+FETCH_MOVING_TARGET_SHARD_WAGON_PRIMARY_PASS = The supplies were delivered
+
+FETCH_MOVING_TARGET_TICKER_DESTROY = The wagon was destroyed
+
+FETCH_MOVING_TARGET_TICKER_DESTROY_YOU = You have destroyed the wagon
+
+FETCH_MOVING_TARGET_WAGON = Get on the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+FETCH_MOVING_TARGET_WAGON_APPROACH = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+FETCH_MOVING_TARGET_WAGON_FROM_POSSE = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~ from ~COLOR_ENEMY~~1~~s~
+
+FETCH_MOVING_TARGET_WAGON_FROM_POSSE_PLURAL = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~wagons~s~ from ~COLOR_ENEMY~~1~~s~
+
+FETCH_MOVING_TARGET_WAGON_FROM_POSSE_PVP = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~ from ~COLOR_ENEMY~~1~~s~
+
+FETCH_MOVING_TARGET_WAGON_FROM_POSSE_PVP_PLURAL = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~wagons~s~ from ~COLOR_ENEMY~~1~~s~
+

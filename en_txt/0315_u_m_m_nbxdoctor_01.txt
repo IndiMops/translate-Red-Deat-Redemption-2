@@ -1,0 +1,402 @@
+0x032E3124 = ~z~There you are... that oughta knock him out for a while.
+
+0x0372194B = ~z~The money is right there. It's all yours.
+
+0x03AD6F2A = ~z~There's also the matter of my payment... but we'll deal with that later.
+
+0x046B6570 = ~z~You so much as touch me again, I'll see you hang.
+
+0x04F59D0F = ~z~At least I'm alive...
+
+0x05FD3BE4 = ~z~Hello again.
+
+0x06019305 = ~z~Here. I hope this haunts you.
+
+0x064DD1AE = ~z~You're dangerous. Just get out.
+
+0x067016A3 = ~z~Listen, I am willing to be an adult if you are.
+
+0x07162619 = ~z~Damn it, that nearly ended very badly.
+
+0x0A17A9F8 = ~z~Dammit, I won't lie down for you.
+
+0x0AFE0404 = ~z~Stop that at once.
+
+0x0CC7C763 = ~z~Hey, hey, now just what is this?
+
+0x0DE322D4 = ~z~Here, I hope this haunts you.
+
+0x0FF570D2 = ~z~If it's you or me, I won't lie down.
+
+0x1A104687 = ~z~Okay, okay. It's in the register. Now go on.
+
+0x1B47C9B3 = ~z~Hell, least I'm alive.
+
+0x1D3A1EFA = ~z~Hurry up!
+
+0x2BA5074D = ~z~You're a goddamn menace.
+
+0x2D01AFBD = ~z~Very well. Hello again.
+
+0x2D9E944B = ~z~Well, it's just not right. Everyone in Saint Denis seems to be in rude health.
+
+0x2D19A259 = ~z~Go away.
+
+0x2E139AC3 = ~z~You did a good thing bringing him here, and in your condition. But I suggest you go rest now. This won't be pleasant.
+
+0x2F5DAFA2 = ~z~No one needs to die here.
+
+0x2F34B1A2 = ~z~It's out of our hands now. He just needs rest.
+
+0x2FCF341F = ~z~Are you responsible for this?
+
+0x3C984A17 = ~z~Do not push this.
+
+0x3C9202E6 = ~z~Look, I won't turn you away, despite everything.
+
+0x3D9328F9 = ~z~You're trying to intimidate me, is that it?
+
+0x3DC85131 = ~z~Set him down on this chair. Oh, it's you! You should not be doing all this.
+
+0x3DE0D17B = ~z~Alright. Hello.
+
+0x4A4D601A = ~z~Okay, okay, you win. Here.
+
+0x4F441654 = ~z~Well, seems a little crass to boast of all the sick folk I'm seeing, but.. well, business is good.
+
+0x5A8BB4C2 = ~z~This will catch up to you, I swear it.
+
+0x5BC43E89 = ~z~You've sunk low, friend. Here.
+
+0x5D28105F = ~z~Right here, set him down on this chair.
+
+0x5EAEB529 = ~z~As long as Mrs Tithersham believes she is mortally ill, my business will be just fine.
+
+0x6B375941 = ~z~You must have known people would remember what you did.
+
+0x6B595415 = ~z~I don't understand. The money is right there. Take it.
+
+0x6BB03B24 = ~z~I'm glad to hear it, but... you need to take care of yourself.
+
+0x6DA29115 = ~z~That's it. I have to do something.
+
+0x6F4B34CA = ~z~Please, don't.
+
+0x6FE03770 = ~z~You've no right to behave this way.
+
+0x7AC53B7B = ~z~Don't do it. The money's yours, alright?
+
+0x7B77179D = ~z~I am an educated man. You won't get a rise out of me.
+
+0x7C060E51 = ~z~Easy, easy. I'll get your money.
+
+0x7CBAD125 = ~z~Excuse me, these are decent people.
+
+0x7D25D07F = ~z~Come on. Don't do this.
+
+0x7D95C18C = ~z~Do you mind?
+
+0x8EC34E2E = ~z~Excuse me.
+
+0x9D17F33C = ~z~Not so good, dig a bullet out of man's shoulder, next thing he's robbing me at gunpoint.
+
+0x9F5D6F68 = ~z~You will show some damn respect.
+
+0x9F5691EF = ~z~That's alright, friend. You take care of yourself.
+
+0x11B3BAB4 = ~z~And I was having a slow day...
+
+0x12B63890 = ~z~Had to happen one day...
+
+0x12FFB866 = ~z~Okay, okay. It's in the register, now go on.
+
+0x16C872A3 = ~z~Well, are you deranged? Just get out, get out.
+
+0x16F24E06 = ~z~Well, bring him in.
+
+0x20A2D70E = ~z~I won't roll over, not for you.
+
+0x22BD756A = ~z~Hey, you can't be here.
+
+0x22E45577 = ~z~Yes? What is it?
+
+0x23C1427D = ~z~Oh, good God! Quickly, bring him in here.
+
+0x27C92EE2 = ~z~Heh. Enjoy? Not sure about that, but it's satisfying work, I suppose. I may well have saved a life today.
+
+0x28D3FE7C = ~z~You did a good thing bringing him here soon as you did, but now I must ask you to leave... so I can get to work.
+
+0x35C00249 = ~z~Help me. Someone's trying to rob me.
+
+0x37AC8602 = ~z~My office is being robbed. Help me.
+
+0x38D65FB4 = ~z~Just stop it, alright?
+
+0x41CCAB00 = ~z~How about I teach you a lesson?
+
+0x43BE8B25 = ~z~He's lucky you were happening by. If he'd been out too much longer infection would've killed him.
+
+0x52D15EB0 = ~z~Oh, little boys with grazes, little old ladies with the sniffles, you know.
+
+0x56DC36A1 = ~z~Okay, okay, I'll just be on my way.
+
+0x57C79986 = ~z~I'll be with you in a minute.
+
+0x63B553A1 = ~z~However desperate you are, this will only make it worse.
+
+0x64BF8CE7 = ~z~You stay away from me!
+
+0x64F4920A = ~z~Enough.
+
+0x75C38EC1 = ~z~Ah, I don't believe we've met. I'm doctor Barnes.
+
+0x75EE7813 = ~z~Come on. How do you think this is going to end?
+
+0x76BA3595 = ~z~Fine, here.
+
+0x77E3F425 = ~z~Ah, you're from Saint Denis? Local prices for you.
+
+0x83D43B5B = ~z~Can you give me some space here, please?
+
+0x84F88FCB = ~z~Okay, okay. I'm hurrying.
+
+0x84F994F1 = ~z~Anyway, there's no time for that now.
+
+0x85DE64CB = ~z~Set him down. We don't have much time.
+
+0x92C62B66 = ~z~Woah, w-woah.... just a c-couple more seconds, alright?
+
+0x97E7AB59 = ~z~Move, dammit!
+
+0x98A2B417 = ~z~I believe we've had our fill of your mischief.
+
+0x140A806E = ~z~Now go on. You did a good thing. Treat yourself to some sleep and a hot meal.
+
+0x242E0DBA = ~z~Excuse me.
+
+0x377F9EEE = ~z~What are you doing here?
+
+0x408A4C94 = ~z~Alright, alright. This is it.
+
+0x427A0ABC = ~z~I'll save as much as I can, but... I have to amputate.
+
+0x457E4FC9 = ~z~I see you there. Speak up or stop following me.
+
+0x488C0A15 = ~z~Please, I can't have you this close.
+
+0x491FF79A = ~z~Welcome.
+
+0x517DF907 = ~z~Stop, think. Are you really this desperate?
+
+0x684D5045 = ~z~They'll hunt you down for this.
+
+0x692C7308 = ~z~Oh good, a schoolboy with something to prove.
+
+0x799AF098 = ~z~I don't understand... the money is right there. Take it.
+
+0x823E2B51 = ~z~Let's go our separate ways.
+
+0x864C22DD = ~z~Alright, whatever you want, here.
+
+0x867A62FF = ~z~Don't do this. There's no coming back from it.
+
+0x903A891C = ~z~I am this city's only doctor. Don't do this.
+
+0x918D58EA = ~z~I must get the law.
+
+0x948EF863 = ~z~I'm more impressed with you, friend. If I were you I wouldn't be able to straddle a horse, much less carry a man on it.
+
+0x988E61C4 = ~z~Pardon me.
+
+0x1672C1B9 = ~z~Leave or you will be obliged to.
+
+0x2413DE62 = ~z~Take it all, just don't kill me.
+
+0x2732E189 = ~z~Had to happen one day.
+
+0x3252CEB5 = ~z~What more do you want? Just go.
+
+0x4270EE57 = ~z~Fine, this is all I have.
+
+0x6980DA02 = ~z~If my business goes under, it's down to you.
+
+0x7202FA3B = ~z~You win, you can have it all. Just leave me be.
+
+0x7353AD08 = ~z~What are you doing?
+
+0x7736DB1B = ~z~Well, that feller should pull through. He'll just need a lot of time to recover.
+
+0x8605B560 = ~z~What? You... you know what? I don't need this!
+
+0x9487CFE4 = ~z~Leave me be.
+
+0x9815D365 = ~z~Hello there. Welcome. Joseph Barnes.
+
+0x9850C6E6 = ~z~Alright, whatever you want. Here.
+
+0x29883DB5 = ~z~
+
+0x42610D12 = ~z~Don't worry, he just needs rest. And so do you, sir.
+
+0x43493C5F = ~z~Enough, I'm getting the law.
+
+0x53346A5C = ~z~Hello. I must tell you, the police have warned us to keep an eye on you.
+
+0x54804CA2 = ~z~Lot of blood loss... this wound's badly infected.
+
+0x64405EB6 = ~z~Please... my family. Just take it and go.
+
+0x91747D9E = ~z~It's too late. There's nothing I can do for him now.
+
+0x99274C18 = ~z~Very well, I shall just ignore you.
+
+0x417646E0 = ~z~Aha, you must be the one Chief Lambert's men have warned us about.
+
+0x462110A0 = ~z~Aha, a local. I'll see what I can do for you...
+
+0x777620B0 = ~z~True. How are you, anyway?
+
+0x3662068F = ~z~Okay, how about I pretend you're not here?
+
+0x4145347F = ~z~I don't like to do this, but you have to leave. Now.
+
+0x88885931 = ~z~Damn it, that's it.
+
+0x93735903 = ~z~Good God! Get him in the seat, if you can.
+
+0xA09B29DD = ~z~I am this city's only doctor, don't do this.
+
+0xA4D38EBB = ~z~Are you deranged? Just get out, get out.
+
+0xA71AA61F = ~z~Be on your way. I have nothing for you.
+
+0xA74F85E8 = ~z~Step back, please! I need to concentrate.
+
+0xA75E5496 = ~z~Okay, okay! I-I'm hurrying.
+
+0xA260FA91 = ~z~The law will have something to say here.
+
+0xA798E8FB = ~z~If I can ignore a naughty two year old, I can ignore you.
+
+0xAB6D0781 = ~z~Don't mind me.
+
+0xABC94F5D = ~z~This may be the big city, but I assure you, this place is rough enough and tumble enough to keep my diary full.
+
+0xAD2845C0 = ~z~You did a good thing bringing him here. But now I'd recommend moving along. You do not want to see this.
+
+0xADBE02A8 = ~z~Enough of this, alright?
+
+0xAE5C0C15 = ~z~Ah, to hell with this... and you.
+
+0xB1E9CC7A = ~z~Please. I have patients... a family.
+
+0xB2B6ECCF = ~z~It's nice of you to stay, but don't fret. He'll make it.
+
+0xB9E7CBB9 = ~z~I won't give in to a petty thief.
+
+0xB27C7BA4 = ~z~Help. Thief.
+
+0xB59D8E20 = ~z~Well, you're in a bad way, but you'll pull through.
+
+0xB73FFF5A = ~z~That's enough.
+
+0xB91A92BF = ~z~Really?
+
+0xB530F03B = ~z~Woah, w-woah... just a c-couple more seconds, alright?
+
+0xBA2F66DB = ~z~You should be ashamed of yourself.
+
+0xBAE0A51E = ~z~Dammit, no. I won't stand for this.
+
+0xC0969769 = ~z~Please, my family... just take it and go.
+
+0xC1C68336 = ~z~You won't get away with it.
+
+0xC4E0F16E = ~z~Well, er... I guess I can understand that. I recommend a stiff drink.
+
+0xC8B4654D = ~z~Just try to breathe... I'll give you something for the pain.
+
+0xC46C5F06 = ~z~That is outrageous.
+
+0xC67CC385 = ~z~He's lucky. Wounds like that'll kill you if you aren't careful. He's lucky he just lost the arm.
+
+0xC99C3083 = ~z~Good God! What have you done?
+
+0xC714A2FA = ~z~Leave, now.
+
+0xC3999809 = ~z~You get a grip and you cut it out.
+
+0xCAD43632 = ~z~You won't provoke me. Save yourself the bother.
+
+0xCBE8C72E = ~z~Ah, to hell with this, and you.
+
+0xCC88FA54 = ~z~Go on and choke on your damn money.
+
+0xCCA7CB42 = ~z~Alright, you've had your fun. Leave.
+
+0xCDFC0C4F = ~z~Come now, let's let him rest. All we can do now is hope for the best.
+
+0xCE33F0EE = ~z~Was this your work?
+
+0xCED433E4 = ~z~You win, you can have it all, just leave me be.
+
+0xCF9D469F = ~z~You are about to make me lose my temper.
+
+0xD4BFB26A = ~z~Alright, my lips are sealed.
+
+0xD39C6F5C = ~z~Damn it, leave me alone.
+
+0xD225FA79 = ~z~You animal.
+
+0xD680AA4D = ~z~Hurry, please!
+
+0xD3280792 = ~z~People will remember you for this.
+
+0xDAA4E73C = ~z~Okay, I'm going to have to ask you to leave.
+
+0xDB729F87 = ~z~Please. I have patients... a family.
+
+0xE081D424 = ~z~This city...
+
+0xE0EC3CB9 = ~z~Yes.
+
+0xE0F7A331 = ~z~You made a lot of enemies here today.
+
+0xE1BA4763 = ~z~Right here, set him down on this chair. Oh God, how you been?
+
+0xE4EB33E3 = ~z~Are you finished?
+
+0xE5ACDDC1 = ~z~The money is right there, it's all yours.
+
+0xE9D77B13 = ~z~Oh, if you need someone to box your ears I'll oblige.
+
+0xE49CCC3F = ~z~Sorry it's come to this...
+
+0xE61AFB92 = ~z~Dammit. No, I won't stand for this.
+
+0xEAB6D3F9 = ~z~What do you think you're doing?
+
+0xEAC76BD6 = ~z~Alright, stay calm. I'm opening the register.
+
+0xEB36514D = ~z~Certainly.
+
+0xF0D29E89 = ~z~And I think that's been well acknowledged at this point. What do you want? A medal?
+
+0xF3A8BD34 = ~z~Aha, the thief returns. Remember, the law's never far away.
+
+0xF3BF1768 = ~z~Ah, welcome back.
+
+0xF93F9B5E = ~z~What are you doing? He'll die if we don't act now!
+
+0xF282F76D = ~z~The money is in the till. Take it.
+
+0xF19713DE = ~z~Damn you, leave them be.
+
+0xF26600F3 = ~z~Alright. Alright, I understand. You be well.
+
+0xF6475530 = ~z~Have you sunk so low you'll rob a doctor?
+
+0xFC570E77 = ~z~I won't roll over. Not for you.
+
+0xFEDBE313 = ~z~Come in.
+

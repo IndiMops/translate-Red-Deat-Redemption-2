@@ -1,0 +1,102 @@
+0x0190E8C3 = ~z~You come onto our lands and taunt us.
+
+0x020E5646 = ~z~We've said hello.
+
+0x0B73DB72 = ~z~All this land, and you end up next to me?
+
+0x0CD46B21 = ~z~No. Please stop.
+
+0x1AC5DAFC = ~z~You need to let me be.
+
+0x1D059193 = ~z~Just take this instead, please.
+
+0x2D98452E = ~z~You animal.
+
+0x4C2533E3 = ~z~We have so little, please don't take it.
+
+0x4CFBE051 = ~z~Leave me in peace.
+
+0x5F504C3F = ~z~We have enough sadness without you here.
+
+0x5F635A57 = ~z~What do you think we have for you to take?
+
+0x6A1B61D5 = ~z~Peace is all we want, please leave us.
+
+0x8EAE6377 = ~z~You have no right to be here. Please, just get out.
+
+0x10C154B5 = ~z~I can't take it anymore. Away from me, now.
+
+0x15EB5F04 = ~z~Your sickness will only make things worse for my people.
+
+0x16F58795 = ~z~In Lakota: Please, that's enough.
+
+0x20C8E702 = ~z~Please, just leave me alone.
+
+0x24A21F41 = ~z~There's plenty of other things to stare at around here.
+
+0x33DBB9E0 = ~z~Yes. Hello, again.
+
+0x34AD1EE7 = ~z~In Lakota: Excuse me.
+
+0x39F5BA13 = ~z~You must leave now.
+
+0x42AACBAF = ~z~This is enough, please just leave us alone.
+
+0x44C53CB7 = ~z~Please, don't spread more illness here.
+
+0x61A7F8DC = ~z~Careful.
+
+0x274E14F6 = ~z~Just leave. You're are all the same. Just go.
+
+0x433DB9B1 = ~z~Please get away from me.
+
+0x853CE422 = ~z~Please, there's no need for this.
+
+0x870B5858 = ~z~You are cruel.
+
+0x89979BBA = ~z~I will ignore you.
+
+0x816500FA = ~z~Stop. What are you doing?
+
+0xA4F3E773 = ~z~In Lakota: Yes, thank you.
+
+0xA878D3F9 = ~z~This is all of my money, just take it.
+
+0xA24326C1 = ~z~Stop. Pick a fight with someone your own age.
+
+0xB03424F4 = ~z~Please, there's no need to be so close.
+
+0xB86482A6 = ~z~What? What did I do? Please don't shoot.
+
+0xC7ECCEAB = ~z~I can see you, stop following me.
+
+0xC72A35BF = ~z~Was this your doing?
+
+0xCA9C305E = ~z~Move, I need to pass.
+
+0xD3690C74 = ~z~You cannot disrespect us like this.
+
+0xDA32B76C = ~z~Alright, take it, take all of it.
+
+0xE069683D = ~z~This is because of you.
+
+0xE5D89A1E = ~z~What are you doing here?
+
+0xE6A3DF24 = ~z~No. Please don't kill me.
+
+0xE11F4065 = ~z~In Lakota: Stop, you can't do that.
+
+0xE68EAF4F = ~z~No, stop. I don't need any trouble from you.
+
+0xEEF212C9 = ~z~I swear, I won't say a thing.
+
+0xF8F0276E = ~z~I beg your pardon.
+
+0xF8933F93 = ~z~What are you doing? You shouldn't be here.
+
+0xFB8AAA48 = ~z~That's it, stay the hell away from me.
+
+0xFE37B154 = ~z~I never will say a word about this.
+
+0xFE69CE4C = ~z~Don't. Stop.
+

@@ -1,0 +1,10 @@
+DMICH_MBODY1_1 = ~z~Good bye, old friend.
+
+DMICH_MBODY2_1 = ~z~Blessed are the peacemakers, huh?
+
+DMICH_MBODY3_1 = ~z~So this is what victory looks like, huh, old friend?
+
+DMICH_MBODY4_1 = ~z~Quite a victory for you, old friend.
+
+DMICH_MBODY5_1 = ~z~I still don't understand you, old friend, but I guess now I won't have to.
+

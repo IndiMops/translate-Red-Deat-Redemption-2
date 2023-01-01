@@ -1,0 +1,22 @@
+VWMC1_ACTION_1 = ~z~~sl:1.0~What do you want?
+
+VWMC1_ACTION_2 = ~z~Nothing... just... looking around.
+
+VWMC1_ACTION_3 = ~z~This is private property.
+
+VWMC1_ACTION_4 = ~z~I meant no harm. Quite a place you got.
+
+VWMC1_ACTION_5 = ~z~It's very nice, but it ain't mine.
+
+VWMC1_ACTION_6 = ~z~~sl:1.0~I'm farming it for some other feller. I had some bad luck on my place.
+
+VWMC1_ACTION_7 = ~z~Feller here had some back luck himself... him and his family got hit hard by the sickness...
+
+VWMC1_ACTION_8 = ~z~Him and his daughter went off travelling, trying to deal with the sadness, I guess.
+
+VWMC1_ACTION_9 = ~z~Travelling, huh? Lucky them.
+
+VWMC1_ACTION_10 = ~z~~sl:0.3~I guess... pretty good pay for me, though.
+
+VWMC1_ACTION_11 = ~z~Good for you.
+

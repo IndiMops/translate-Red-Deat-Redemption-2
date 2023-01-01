@@ -1,0 +1,48 @@
+HRM_ALERTED_01 = ~z~Hey, get out of here!
+
+HRM_ALERTED_02 = ~z~Hey, this is private property!
+
+HRM_ALERTED_03 = ~z~Hey, get the hell off my land!
+
+HRM_ALERTED_04 = ~z~Hey, can't you read? Get out of here!
+
+HRM_ALERTED_05 = ~z~Hey, move the hell along! You're trespassing!
+
+HRM_ALERTED_06 = ~z~Hey, get off my property or I'll set my dogs on you!
+
+HRM_GETHIM_01 = ~z~Alright get him, boys!
+
+HRM_GETHIM_02 = ~z~Go get that bastard!
+
+HRM_GETHIM_03 = ~z~Run him off, boys!
+
+HRM_GETHIM_04 = ~z~Attack, boys!
+
+HRM_GETHIM_05 = ~z~Yeah, go get him!
+
+HRM_GETHIM_06 = ~z~After him, boys!
+
+HRM_SHOTGUN_01 = ~z~You son of a bitch!
+
+HRM_SHOTGUN_02 = ~z~Stay off my damn property!
+
+HRM_SHOTGUN_03 = ~z~You hearing me yet?
+
+HRM_SHOTGUN_04 = ~z~I'll blow your brains out!
+
+HRM_SHOTGUN_05 = ~z~You get off my land!
+
+HRM_SHOTGUN_06 = ~z~I'll kill you!
+
+HRM_WRONG_01 = ~z~What's wrong, boy?
+
+HRM_WRONG_02 = ~z~What you got, boy?
+
+HRM_WRONG_03 = ~z~What is it, boy?
+
+HRM_WRONG_04 = ~z~What you see, boy?
+
+HRM_WRONG_05 = ~z~You okay, boy?
+
+HRM_WRONG_06 = ~z~Easy, boy, what is it?
+

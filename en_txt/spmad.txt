@@ -1,0 +1,4 @@
+SPMAD_REFUSE = Decline
+
+SPMAD_TAKE = Take Book
+

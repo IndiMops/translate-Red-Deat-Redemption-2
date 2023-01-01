@@ -1,0 +1,30 @@
+CFUN4_CNV_1 = ~z~Gentlemen... I tell ya. I see all them long faces and sour expressions, but you're forgetting one thing.
+
+CFUN4_CNV_2 = ~z~It's a good time to be alive.
+
+CFUN4_CNV_3 = ~z~These are the best of times for men such as us. This is the age of science, age of reason,
+
+CFUN4_CNV_4 = ~z~this is the age where a man can be who he wants.
+
+CFUN4_CNV_5 = ~z~Irrelevant of birth, or... or other restrictions, like intelligence.
+
+CFUN4_CNV_6 = ~z~Half you fellers don't realize how lucky you are.
+
+CFUN4_CNV_7 = ~z~This is a free time. Sure, ol' Dutch has led us into a scrape, but we're gonna be fine.
+
+CFUN4_CNV_8 = ~z~~sl:0.0:3.0~I was telling one of those lovely ladies just now,~sl:0.8~"Don't cry, sugar." I told her.
+
+CFUN4_CNV_9 = ~z~~sl:0.0:3.0~'Cause they like that. Anyway, "Don't cry" I said~sl:~"Uncle loves you,
+
+CFUN4_CNV_10 = ~z~~sl:0.0:2.3~one day you won't be no three dollar whore,~sl:0.0:3.1~you're gonna be a five dollar whore, or a house maid.~sl:0.7~Thems dreams!"
+
+CFUN4_CNV_11 = ~z~'Course you boys and I know that ain't never gonna happen.
+
+CFUN4_CNV_12 = ~z~~sl:0.0:2.8~She'll die on her back at the hands of some monster~sl:0.0:2.1~in the back of some no name saloon,~sl:~sure as shit is brown.
+
+CFUN4_CNV_13 = ~z~But it damn near made her day.
+
+CFUN4_CNV_14 = ~z~And she's out there smiling, so...
+
+CFUN4_CNV_15 = ~z~so cheer up! That's all I'm saying.
+

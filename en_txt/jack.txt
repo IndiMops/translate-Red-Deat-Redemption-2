@@ -1,0 +1,750 @@
+0x0075E3DD = ~z~Stop it.
+
+0x00E42F6E = ~z~Evening.
+
+0x011A00D9 = ~z~You're mean, go away.
+
+0x019547F0 = ~z~Always, always mean.
+
+0x03D04736 = ~z~Thanks.
+
+0x0409E964 = ~z~I'm just going to go.
+
+0x057940BC = ~z~Why are you doing this?
+
+0x06047DE2 = ~z~I like it here, lots of places to explore.
+
+0x071CECDF = ~z~I'm getting better.
+
+0x08F33FDD = ~z~Mean.
+
+0x09194589 = ~z~I don't understand what you want.
+
+0x0A1A5BC1 = ~z~We should do something fun this evening.
+
+0x0A110DB2 = ~z~You were gone a long time, Arthur.
+
+0x0C0A76CE = ~z~I am.
+
+0x0C7E02AE = ~z~Good morning, Arthur.
+
+0x0C31283D = ~z~I don't understand.
+
+0x0CACF411 = ~z~That's dead, dead, dead.
+
+0x0CEDA88F = ~z~I'm too sleepy.
+
+0x0E3CF967 = ~z~Hey.
+
+0x0E62E4A1 = ~z~Is he asleep?
+
+0x0F96E9EC = ~z~Leave her alone.
+
+0x0F288B35 = ~z~My throat still hurts.
+
+0x0FECB8C0 = ~z~Uh, more apples.
+
+0x0FF75066 = ~z~He's been gone a while.
+
+0x1AE57E8B = ~z~Thanks, Uncle Arthur.
+
+0x1AEE6DBC = ~z~I hate you so much!
+
+0x1BA3D052 = ~z~I won't, Uncle Arthur.
+
+0x1BC0403B = ~z~Don't be nasty, Uncle Arthur.
+
+0x1C4C7D5E = ~z~I'm tired of this.
+
+0x1C8E8450 = ~z~You don't need to follow me.
+
+0x1DAF6A6C = ~z~Just looking.
+
+0x1DEF2371 = ~z~Where were you.
+
+0x1E126D02 = ~z~What is it? Are we in trouble?
+
+0x1F5DCE96 = ~z~Hello.
+
+0x2A193311 = ~z~Hi, Uncle Arthur.
+
+0x2B1A5603 = ~z~Why didn't you take me with you?
+
+0x2B11B914 = ~z~Don't, Uncle Arthur.
+
+0x2BA98F92 = ~z~Why won't you leave me alone?
+
+0x2C8A4B37 = ~z~When are things going to be fun again?
+
+0x2D04F6C5 = ~z~I will.
+
+0x2DBA745B = ~z~Are you alright?
+
+0x2DFCE4B4 = ~z~Somebody's going to whoop you.
+
+0x2E10D712 = ~z~That animal has rotted.
+
+0x2F749A65 = ~z~Bye bye.
+
+0x2FE09BCD = ~z~Please don't.
+
+0x3A742289 = ~z~I don't like the night time.
+
+0x3AAA0C3F = ~z~What is it?
+
+0x3AE9D8CE = ~z~You're acting funny, Uncle Arthur.
+
+0x3C29C28E = ~z~I won't, Uncle Arthur.
+
+0x3CDF798D = ~z~Did you get all them yourself?
+
+0x3D6E1A2E = ~z~You aren't supposed to be mean to ladies.
+
+0x3D418C02 = ~z~Morning.
+
+0x3D53360B = ~z~Campfires are fun, aren't they?
+
+0x3DEEB41C = ~z~Why? Why again?
+
+0x3F1B58ED = ~z~I don't like to eat those.
+
+0x3FD5FA9C = ~z~Why do you have that rotted thing?
+
+0x4A0F364E = ~z~It's too cold in the morning.
+
+0x4A20FDF3 = ~z~I'm hungry this morning.
+
+0x4A60B286 = ~z~Okay.
+
+0x4CB37C61 = ~z~Hello, hello, hello.
+
+0x4E4967C5 = ~z~Are you playing a follow game, Arthur?
+
+0x5AC070FC = ~z~Well, why is he being mean?
+
+0x5B9C1192 = ~z~Yeah morning.
+
+0x5BF3B68B = ~z~Leave me alone.
+
+0x5C0321A3 = ~z~I'm real bored.
+
+0x5C4AAE90 = ~z~I like it here, lots of places to explore.
+
+0x5D85F31D = ~z~Is Mr. Strauss gone?
+
+0x5DA09A1F = ~z~Mr. Morgan.
+
+0x5E330728 = ~z~~sl:0.3~You're following me.
+
+0x5F9311FB = ~z~I'm sleepy.
+
+0x6A76B520 = ~z~Well, if you don't need anything.
+
+0x6D0FB479 = ~z~Morning.
+
+0x6D2CC3F6 = ~z~Bad.
+
+0x6DA654DB = ~z~Why did you go away so long?
+
+0x6E80E491 = ~z~I'm too little to carry that.
+
+0x6F4B1A11 = ~z~Uh huh.
+
+0x6F8A0CC5 = ~z~What? Leave me alone.
+
+0x6F9ECFB6 = ~z~Hi there.
+
+0x6F38A9CB = ~z~Yeah, Uncle Arthur.
+
+0x7B0F3C18 = ~z~I hate you!
+
+0x7B2649CB = ~z~Are you ok?
+
+0x7BC9680B = ~z~Hey.
+
+0x7BF7F096 = ~z~Micah said he'd take me fishing.
+
+0x7CCD4C6F = ~z~Okay, it's my bedtime.
+
+0x7D5DDDC0 = ~z~How come nobody else moves those?
+
+0x7DEB4EAE = ~z~I don't understand why I'm in trouble.
+
+0x7DFB74FB = ~z~Why are you so close, Uncle Arthur?
+
+0x7EF0677D = ~z~I hate this place.
+
+0x7EF2FA42 = ~z~I don't want to play right now Arthur.
+
+0x7F8AE1ED = ~z~Why, why, why, why?
+
+0x7FD41025 = ~z~I know, Mama told me.
+
+0x7FE4D375 = ~z~Can I go play with the skulls?
+
+0x8B88F8AE = ~z~Arthur.
+
+0x8C9BECB6 = ~z~You're acting funny.
+
+0x8D9C7E3D = ~z~I saw a mouse on them sacks.
+
+0x8DD1619C = ~z~You're always mean to me.
+
+0x8FE67FFF = ~z~You're being strange.
+
+0x9A230928 = ~z~Wow, that is big, Uncle Arthur.
+
+0x9BA66726 = ~z~Where's he gone? Did he run off?
+
+0x9C0A5CAD = ~z~I'm scared, Uncle Arthur.
+
+0x9CA09B25 = ~z~Hey.
+
+0x9E2EC52D = ~z~Good evening.
+
+0x9E288FFC = ~z~I won't.
+
+0x10F1D010 = ~z~That mask is weird.
+
+0x12B5C170 = ~z~I wish we didn't have to spend another night here.
+
+0x15D144B5 = ~z~If you don't have anything good to say, don't say it.
+
+0x15D316A4 = ~z~Hello.
+
+0x16D92C57 = ~z~Go away now.
+
+0x19D9126B = ~z~I'm bored.
+
+0x22FE2C39 = ~z~Uncle Arthur.
+
+0x24AC1C2D = ~z~You're always mean.
+
+0x29C03273 = ~z~I guess.
+
+0x30A6F128 = ~z~I'm just feeling sad.
+
+0x32A694E8 = ~z~I guess.
+
+0x32A29623 = ~z~What are you looking at?
+
+0x36F689D0 = ~z~I'm hungry.
+
+0x37AE590E = ~z~Good morning, Uncle Arthur.
+
+0x41A23F50 = ~z~Uncle Arthur.
+
+0x41A3649E = ~z~Yeah, so okay.
+
+0x41F5B3DB = ~z~Hiya.
+
+0x42CFEBDF = ~z~Just looking.
+
+0x43B45370 = ~z~Fine.
+
+0x45AD0401 = ~z~Can I go play with the skulls?
+
+0x45F94F2A = ~z~Stop it, I don't like this.
+
+0x47A0336E = ~z~Okay.
+
+0x47A37582 = ~z~You are always just mean.
+
+0x49EE1B6C = ~z~We're going to have a big campfire.
+
+0x54CD7D16 = ~z~Are you thinking about how everyone is fighting?
+
+0x56C169AE = ~z~Hi.
+
+0x56D18070 = ~z~Bed time.
+
+0x59E1D315 = ~z~My mom says don't be a bully.
+
+0x61CFA53C = ~z~Hi.
+
+0x62B4E997 = ~z~Alright, I guess.
+
+0x62E817E5 = ~z~Yay, more wood.
+
+0x67DA9B5B = ~z~Hey, don't be mean to Cain.
+
+0x69D836AA = ~z~Hi, hi, hi.
+
+0x70C84B41 = ~z~Morning, Uncle Arthur.
+
+0x72A8DDF8 = ~z~I won't.
+
+0x72D12920 = ~z~Okay.
+
+0x75A88B8A = ~z~I think you're not feeling well, Uncle Arthur.
+
+0x75B7B2FE = ~z~Hello Uncle Arthur, I'ma catch fireflies tonight.
+
+0x78E7DA77 = ~z~I'm tired, Arthur.
+
+0x81B8BEEC = ~z~Okay, Uncle Arthur.
+
+0x81C10C52 = ~z~Evening.
+
+0x81DEBFB8 = ~z~Don't, Uncle Arthur.
+
+0x82EFA13E = ~z~What is it, uncle Arthur?
+
+0x84BD6858 = ~z~Hello, Arthur.
+
+0x92EEBB66 = ~z~Alright, I guess.
+
+0x93AD83DF = ~z~I know.
+
+0x93EB0F6F = ~z~Stop picking on me.
+
+0x94F6F547 = ~z~Okay.
+
+0x97FDCB5A = ~z~What? Do we have to go away again?
+
+0x98E97550 = ~z~Sure, Uncle Arthur.
+
+0x99CD7F40 = ~z~Leave the doggy alone.
+
+0x118C1E09 = ~z~That animal smells funny.
+
+0x156B937C = ~z~Evening, Arthur.
+
+0x163B5367 = ~z~Morning, I guess.
+
+0x181D4E00 = ~z~Alright, I guess.
+
+0x213D62B9 = ~z~Adults are stupid.
+
+0x225D9560 = ~z~Of course, Uncle Arthur.
+
+0x258EC9C2 = ~z~Stop it.
+
+0x278B6096 = ~z~Good morning.
+
+0x282DEF3C = ~z~Do you hate this place too?
+
+0x282E3B5A = ~z~Hi.
+
+0x286E1CD8 = ~z~Okay, I guess.
+
+0x292CD54C = ~z~Is Mr. Strauss gone?
+
+0x315E4DBA = ~z~Arthur.
+
+0x339A32D7 = ~z~Leave the dog alone.
+
+0x374AC8F0 = ~z~Good morning.
+
+0x394C64BB = ~z~I'm sad.
+
+0x430E4198 = ~z~Okay.
+
+0x447B4C75 = ~z~Okay. I wish people would stop being mean.
+
+0x455E50B7 = ~z~Uncle Arthur's mean!
+
+0x549DDA01 = ~z~Is there something on my face?
+
+0x591C126B = ~z~I guess you can stay, if you want.
+
+0x594DA314 = ~z~Ahuh.
+
+0x599CEA6E = ~z~Thanks, Uncle Arthur.
+
+0x636BF79D = ~z~What? Am I in trouble?
+
+0x700F3EFC = ~z~Hiya, Arthur.
+
+0x702C7E1D = ~z~Fine.
+
+0x738E2280 = ~z~This fire is hot.
+
+0x765C9F61 = ~z~Micah says I should.
+
+0x801FB617 = ~z~Don't you like me no more?
+
+0x823CEE2A = ~z~Morning.
+
+0x860CD1F4 = ~z~What is that thing?
+
+0x862CB106 = ~z~You sure do like that dead thing, Uncle Arthur.
+
+0x936A1300 = ~z~Can I go play in the caves?
+
+0x949F7B53 = ~z~Chop chop, Uncle Arthur.
+
+0x963F7259 = ~z~I ain't never seen one of those.
+
+0x973DE9DF = ~z~Can we play a game later, Arthur?
+
+0x983E9B17 = ~z~I don't think you can eat that.
+
+0x996BEB15 = ~z~How come you keep bothering me?
+
+0x1153DCDF = ~z~Yeah, I missed him.
+
+0x1735BFEB = ~z~It's morning.
+
+0x1811F238 = ~z~I have a bandana in my tent.
+
+0x1973B2B6 = ~z~You went hunting.
+
+0x2284C167 = ~z~What do you want?
+
+0x3140C8BE = ~z~Hi, Uncle Arthur.
+
+0x5048BFE3 = ~z~You're going to hurt her feelings.
+
+0x5444E405 = ~z~Let me know if you find candy.
+
+0x5586B5B0 = ~z~It's gonna get colder tonight.
+
+0x5640F87D = ~z~Oh, I'm alright.
+
+0x5687F30A = ~z~Go away, Uncle Arthur!
+
+0x6696A0CA = ~z~I'm cold, Uncle Arthur.
+
+0x8515A111 = ~z~You are terrible.
+
+0x8961B86F = ~z~I wish those mean men hadn't ruined it.
+
+0x9158ED62 = ~z~You're mean.
+
+0x9371B64B = ~z~I missed Uncle Sean.
+
+0x11702C48 = ~z~Why are you being mean?
+
+0x14677DAF = ~z~That's enough meat for a whole year.
+
+0x14948A81 = ~z~I don't hear you.
+
+0x23687A27 = ~z~Why won't you go away?
+
+0x41001E0C = ~z~Evening, Arthur.
+
+0x54431F1B = ~z~Uncle Arthur hates everybody.
+
+0x63990D0D = ~z~Is that real?
+
+0x67316A45 = ~z~Arthur.
+
+0x71695F2F = ~z~Oh hi, Uncle Arthur.
+
+0x72269A25 = ~z~I don't understand.
+
+0x77641EB7 = ~z~Hello.
+
+0x86502CD9 = ~z~You're being strange.
+
+0x91880AB9 = ~z~Hey, Arthur.
+
+0x170618AC = ~z~What did you kill that for?
+
+0x246923EE = ~z~I wish those mean men hadn't ruined it.
+
+0x738445E6 = ~z~Uncle Arthur.
+
+0x881878D8 = ~z~Evening.
+
+0x884676B0 = ~z~Hi, Arthur.
+
+0x996656F9 = ~z~Yeah sure.
+
+0x1356203C = ~z~I thought you were gone away forever.
+
+0x2681460D = ~z~Lots of room to play in.
+
+0x2794683B = ~z~If you keep being mean to people, you'll get in trouble.
+
+0x5236545C = ~z~Hi.
+
+0x5577572B = ~z~Can I go play in the caves?
+
+0x9271955F = ~z~Arthur.
+
+0x9823025E = ~z~Time to chop more wood.
+
+0x18305289 = ~z~Morning.
+
+0x20205927 = ~z~I never grow.
+
+0x51176566 = ~z~Not funny anymore.
+
+0x51400558 = ~z~I don't like this.
+
+0x57279149 = ~z~You forget things a lot, Uncle Arthur.
+
+0x67591641 = ~z~Evening, Arthur.
+
+0x97574594 = ~z~I hate you, Uncle Arthur.
+
+0xA04BC9A3 = ~z~Yeah, I missed him.
+
+0xA09BA8D0 = ~z~Arthur's being mean to me.
+
+0xA0CDB552 = ~z~Are they gonna stay up real late?
+
+0xA0FD298B = ~z~Where did you go I thought you left us.
+
+0xA2D16751 = ~z~What? What do you mean?
+
+0xA3DF2442 = ~z~Thanks, Uncle Arthur.
+
+0xA6A46BDD = ~z~Will he be okay?
+
+0xA9B8781D = ~z~He is your new friend, you carry him all the time.
+
+0xA9BE0984 = ~z~That's not nice.
+
+0xA9E85E76 = ~z~Evening.
+
+0xA10D2CAA = ~z~Are we gonna have fun again, Uncle Arthur?
+
+0xA47C7ED0 = ~z~Did I do something wrong?
+
+0xA69A003B = ~z~Are you hungry too?
+
+0xA95E0893 = ~z~Mean, mean, mean!
+
+0xA309B1DE = ~z~Well I'm gonna play here, Uncle Arthur.
+
+0xA9636E25 = ~z~I'm sleepy.
+
+0xA27427F4 = ~z~Those are heavy.
+
+0xA787614B = ~z~Yes a little tired.
+
+0xA7473637 = ~z~Hello, Arthur.
+
+0xA8302542 = ~z~That's too big.
+
+0xAA2C3C4D = ~z~I don't understand.
+
+0xAB210E1F = ~z~Stop being so mean all the time.
+
+0xABB0BA38 = ~z~You said hello before.
+
+0xAC6B61A6 = ~z~It's evening time.
+
+0xAC232B1D = ~z~How come I keep getting in trouble?
+
+0xAD76457C = ~z~I wish things were better.
+
+0xAF80B2A1 = ~z~Uncle Arthur.
+
+0xAFBC5610 = ~z~You're being bad to everyone.
+
+0xB05A257B = ~z~All day, mean.
+
+0xB6FBD5A0 = ~z~Hello.
+
+0xB13ECA0E = ~z~You left us a long time and I was sad.
+
+0xB21AB7E0 = ~z~Micah said he'd take me fishing.
+
+0xB97B8B5B = ~z~Uh, more apples.
+
+0xB7324AE8 = ~z~I'm bored.
+
+0xB80125D9 = ~z~Why aren't you nice to me?
+
+0xB706115B = ~z~Horses eat lots.
+
+0xB7182438 = ~z~Don't be mean to the women.
+
+0xBBA0E1D1 = ~z~I'm not feeling good.
+
+0xBE8BF3AF = ~z~He's picking on everyone.
+
+0xBE221F93 = ~z~Hay is for horses.
+
+0xC2ED4D68 = ~z~Evening, Uncle Arthur.
+
+0xC4C2712D = ~z~Hi, Arthur.
+
+0xC4F29360 = ~z~You must be thirsty, Uncle Arthur.
+
+0xC4FDC2E9 = ~z~My throat still hurts.
+
+0xC6F4174D = ~z~I don't understand.
+
+0xC8F0EE65 = ~z~That's what Mama says too.
+
+0xC74C8D6F = ~z~Do you wanna borrow my toys?
+
+0xC81F8504 = ~z~A little bit, but Uncle Hosea gave me some medicine.
+
+0xC95CCABE = ~z~When I get muddy like that, Momma gets mad.
+
+0xC98B1BD2 = ~z~Don't be mean.
+
+0xC388ADF3 = ~z~Morning Arthur.
+
+0xC913EEB7 = ~z~I'm getting better.
+
+0xC4823C0B = ~z~Is this place always cold?
+
+0xC50939E8 = ~z~Hey.
+
+0xCA8C7FB2 = ~z~You hunt good, Arthur.
+
+0xCAFFF8F8 = ~z~~sl:0.3~You're funny.
+
+0xCBA7C52A = ~z~Good evening.
+
+0xCBA9B635 = ~z~Do we have to stay here?
+
+0xCBEB0E0B = ~z~I hate this place.
+
+0xCC31B0C7 = ~z~I never grow.
+
+0xCC43BA35 = ~z~I don't understand, Uncle Arthur.
+
+0xCD42B399 = ~z~Are you mad at everybody?
+
+0xCDC47CDA = ~z~I don't care.
+
+0xCEC5D362 = ~z~What are you doing?
+
+0xD0D4DD10 = ~z~Are you having fun Arthur?
+
+0xD2A2BDB0 = ~z~Will he be okay?
+
+0xD4EDDA67 = ~z~Skunks are too smelly.
+
+0xD6A85B48 = ~z~I don't undstand.
+
+0xD6AADD2B = ~z~Hi to you.
+
+0xD6B3636E = ~z~She wasn't mean to you.
+
+0xD8E3E4CE = ~z~Hey.
+
+0xD8F6D691 = ~z~That thing is going to stink Arthur.
+
+0xD8F7D85B = ~z~Thanks, Uncle Arthur.
+
+0xD52EB3C2 = ~z~Huh, why is everyone fighting?
+
+0xD59A89EF = ~z~Thanks.
+
+0xD82FF8D9 = ~z~Sure, it's fine.
+
+0xD92B617E = ~z~I know, Mama told me.
+
+0xDA8BF07E = ~z~You wanna sit with me, Uncle Arthur?
+
+0xDA40AAB6 = ~z~I'm sad.
+
+0xDA87BE8A = ~z~Water is heavy.
+
+0xDAB24415 = ~z~You should go to sleep.
+
+0xDB9C6F3D = ~z~If you don't clean off, people get really mad.
+
+0xDB1926AD = ~z~Hi.
+
+0xDC1159D0 = ~z~Are you being mean?
+
+0xDDC1EF2F = ~z~What is it, Uncle Arthur?
+
+0xDDE7DAB1 = ~z~Are we going to be here for another night?
+
+0xDFCF2A61 = ~z~Hiya.
+
+0xE0BB3AB5 = ~z~Any closer and you'll squish me, Uncle Arthur!
+
+0xE1EFDC43 = ~z~Are you alright?
+
+0xE4BFF061 = ~z~Morning.
+
+0xE4FCDF85 = ~z~Okay.
+
+0xE5CB8EA0 = ~z~He's a clever dog.
+
+0xE8D4137A = ~z~I'm scared, Uncle Arthur.
+
+0xE8FBD0CD = ~z~What are you doing in here?
+
+0xE30B2C4B = ~z~You're being mean and I don't like it.
+
+0xE64C8EAE = ~z~I know it's you, Arthur.
+
+0xE76FC514 = ~z~Bad.
+
+0xE82FDFCF = ~z~Of course, Uncle Arthur.
+
+0xE2779FA7 = ~z~That for dinner?
+
+0xE51799D9 = ~z~I'm scared, Uncle Arthur. All that shooting.
+
+0xE762583F = ~z~You need water for Mama to wash dishes.
+
+0xE2712633 = ~z~You do what you want.
+
+0xEA1B0263 = ~z~~sl:0.3~I want a mask too.
+
+0xEA7131D0 = ~z~Hello.
+
+0xEB5BFA06 = ~z~Them horses are hungry.
+
+0xEC634076 = ~z~Uncle Arthur.
+
+0xED6412CC = ~z~~sl:0.4~You like mud.
+
+0xEDC0FD2F = ~z~What does that mean?
+
+0xEE22DAF3 = ~z~Did you need to borrow something?
+
+0xEE41CD18 = ~z~I don't like waking up in this place.
+
+0xEF6C75BD = ~z~Please go away.
+
+0xEF1245C4 = ~z~You think you're funny?
+
+0xF06D93DD = ~z~I'm scared, Uncle Arthur. All that shooting.
+
+0xF09A09A7 = ~z~It's just too hard sometimes.
+
+0xF1DBC9EC = ~z~Why do you have to be mean to little kids?
+
+0xF2CE967B = ~z~What? Are you being sad too, Uncle Arthur?
+
+0xF3CFB25E = ~z~She's nice.
+
+0xF47B5B1A = ~z~I hate this place.
+
+0xF102C356 = ~z~Fine.
+
+0xF260DE00 = ~z~I can smell you! Stinky.
+
+0xF57886F6 = ~z~Another evening here.
+
+0xF79710DB = ~z~What, Uncle Arthur?
+
+0xF7123420 = ~z~Stay away from me, Arthur.
+
+0xFAC9D44D = ~z~I know.
+
+0xFC4B0007 = ~z~You have to do your chores.
+
+0xFC99E3F6 = ~z~Howdy.
+
+0xFC566945 = ~z~Morning, Arthur.
+
+0xFCD8DCA3 = ~z~Leave him alone.
+
+0xFCDFE15F = ~z~Why, Uncle Arthur?
+
+0xFE6CFB7F = ~z~Don't bother me no more.
+
+0xFE570B62 = ~z~Let me sleep, please.
+
+0xFF0F6EB3 = ~z~I hope people don't fight anymore this morning.
+
+0xFFBB5C64 = ~z~Hi.
+
+0xFFFC30D6 = ~z~It's not like it used to be, Uncle Arthur.
+

@@ -1,0 +1,568 @@
+0x059F0A55 = Отряд создан
+
+0x0832D618 = Игрок ~1p~ ~s~задавил вас повозкой
+
+0x083CAC1B = Игрок ~1p~ ~s~убил вас топориком
+
+0x0AE29C4C = Игрок ~1p~ ~s~убил игрока ~2p~ ~s~зажигательной смесью
+
+0x0F3A43FD = Награда за вашу голову снижена на ~1$~ и теперь составляет ~1$~.
+
+0x1FE2D588 = Игрок ~1~ ~s~вырвался вперед.
+
+0x2C11A7B5 = Участник покинул отряд
+
+0x2F054345 = Игрок ~1p~ ~s~убил игрока ~2p~ ~s~ножом мясника
+
+0x2FE1C44F = Игрок ~1p~ ~s~убил игрока ~2p~ ~s~при помощи мачете
+
+0x3A6D843F = В настоящий момент нельзя вступить в отряд ~1~
+
+0x3B5E9827 = Игрок ~1p~ ~s~застрелил вас из снайперской винтовки
+
+0x3BCB80A0 = Игрок ~1p~ ~s~застрелил игрока ~2p~ ~s~из карабина
+
+0x4C88A786 = Игрок ~1p~ ~s~убил вас из «Максима»
+
+0x5A98FEE8 = Вы числитесь активным участником отряда ~1~
+
+0x5AF28878 = Игрок ~1p~ ~s~затоптал вас лошадью
+
+0x5CE26C01 = Игрок ~1p~ ~s~убил игрока ~2p~ ~s~метательным ножом
+
+0x5D92FDC8 = Игрок ~1p~ ~2b~ исключил вас из отряда. Оставайтесь в живых 2 минуты, чтобы получить опыт.
+
+0x6B20D205 = Игрок ~1p~ ~s~застрелил вас из лука
+
+0x7B50E6D0 = Игрок ~1p~ ~s~убил вас ножом
+
+0x8AD74695 = Приглашение в банду
+
+0x8E67A359 = Игрок ~1p~ ~s~убил вас зажигательной смесью
+
+0x17F33508 = Игрок ~1p~ ~s~убил игрока ~2p~ ~s~топориком
+
+0x20E0791F = ~s~Ваш отряд приступил к заданию (~1~). Вы хотите присоединиться?
+
+0x33D82561 = Отряд обновлен
+
+0x39FA3C46 = Удерживайте ~INPUT_FEED_INTERACT~, чтобы посмотреть подробности.
+
+0x41D6ADCD = Игрок ~1p~ ~s~убил вас при помощи мачете
+
+0x45E1E5D1 = Игрок ~1p~ ~s~убил вас голыми руками
+
+0x54DA7EA7 = ~1~
+
+0x58A1474B = Игрок ~1p~ ~s~застрелил игрока ~2p~ ~s~из пистолета
+
+0x65FDAEC3 = Ваш отряд приступил к заданию (~1~). Удерживайте ~INPUT_FRONTEND_DOWN~, чтобы открыть меню уведомлений.
+
+0x269F55EC = Игрок ~1p~ ~s~застрелил вас из пистолета
+
+0x297F859F = ~1~ становится враждебным
+
+0x424E931D = Игрок ~1p~ ~s~убил вас томагавком
+
+0x770E3F9C = Участника выгнали
+
+0x773BF86F = Игрок ~1p~ ~s~убил игрока ~2p~ ~s~томагавком
+
+0x839BC7FA = Вас выгнали из отряда
+
+0x958FAA4D = Игрок ~1p~ ~s~убил игрока ~2p~ ~s~ножом
+
+0x3499EDC2 = Игрок ~1p~ ~s~убил вас динамитом
+
+0x3687F77E = Игрок ~1p~ ~s~сжег вас
+
+0x6931A95A = Игрок ~1p~ ~s~затоптал игрока ~2p~ лошадью
+
+0x28722F9A = Вы покинули свой постоянный отряд
+
+0x34935C0D = Игрок ~1p~ ~s~убил вас ножом мясника
+
+0x38838B49 = Игрок ~1p~ ~s~убил вас из пулемета Гатлинга
+
+0x42383ADA = Вас убил игрок ~1p~
+
+0x93063E05 = Игрок ~1p~ ~s~сжег игрока ~2p~ ~s~
+
+0x96920DDF = Игрок ~1p~ ~s~убил вас из револьверного орудия
+
+0x288403B4 = Метка смерти
+
+0x437748A3 = Игрок ~1p~ ~s~убил ~2p~ ~s~из револьверного орудия
+
+0x26292584 = Игрок ~1p~ ~s~убил вас при помощи фонаря
+
+0xA3F7A80C = Вы присоединяетесь к банде: ~1~
+
+0xA53D125B = Игрок ~1p~ ~s~застрелил игрока ~2p~ ~s~из снайперской винтовки
+
+0xA150CA37 = Игрок ~1p~ ~s~застрелил вас из дробовика
+
+0xA55505C0 = По умолчанию
+
+0xA867907F = Игрок ~1p~ ~s~убил игрока ~2p~ ~s~динамитом
+
+0xA4192670 = ~s~ (x~1~)
+
+0xADEC8341 = Игрок ~1p~ ~s~застрелил вас из винтовки
+
+0xAEDF54F8 = Ставка в гонке отрядов
+
+0xB0FE3F70 = Игрок ~1p~ ~s~убил игрока ~2p~ ~s~при помощи фонаря
+
+0xB1F5FE00 = Игрок ~1p~ ~s~застрелил игрока ~2p~ ~s~из винтовки
+
+0xB3C109A7 = Игрок ~1p~ ~s~убил игрока ~2p~ ~s~голыми руками
+
+0xB5E07575 = Игрок ~1p~ ~s~застрелил игрока ~2p~ ~s~из револьвера
+
+0xB1218117 = Вы выплатили штраф: ~1$~.
+
+0xB4230603 = Вы начали подбор игроков вместе со своим постоянным отрядом
+
+0xCACA6F20 = Игрок ~1p~ ~s~убил ~2p~ ~s~из пушки
+
+0xCC383224 = Игрок ~1p~ ~s~убил игрока ~2p~ ~s~бутылкой
+
+0xCD5F6861 = Игрок ~1p~ ~2b~ исключен из отряда. Убейте его за отведенное время, чтобы получить опыт.
+
+0xCF202E71 = Игрок ~1p~ ~s~взорвал игрока ~2p~ ~s~
+
+0xCFFC99DE = Игрок ~1p~ ~s~застрелил игрока ~2p~ ~s~из дробовика
+
+0xDDB1B00B = Игрок ~1p~ ~s~задавил игрока ~2p~ повозкой
+
+0xDDEB6AE1 = Отряд активен
+
+0xE2FC52E5 = Вы выплатили часть штрафа: ~1$~ из ~1$~.
+
+0xE5EDDD78 = Игрок ~1p~ ~s~убил ~2p~ ~s~из пулемета Гатлинга
+
+0xE42CFDF9 = ~1$~
+
+0xE81BDC4F = Игрок ~1p~ ~s~убил вас бутылкой
+
+0xE99D28C1 = Игрок ~1p~ ~s~убил игрока ~2p~ ~s~голыми руками
+
+0xE6444D1E = Игрок ~1p~ ~s~застрелил игрока ~2p~ ~s~из лука
+
+0xEDF91E77 = Отряд расформирован
+
+0xEE7E9FC8 = Игрок ~1~ покинул игру и расформировал отряд ~2~
+
+0xF2D1DE86 = Игрок ~1p~ ~s~убил вас из пушки
+
+0xF7D11DA0 = Игрок ~1p~ ~s~убил вас метательным ножом
+
+0xF8B13CDF = Новый участник
+
+0xF78A01FA = Игрок ~1p~ ~s~убил ~2p~ ~s~из «Максима»
+
+0xF105F6C8 = Игрок ~1p~ ~s~взорвал вас
+
+0xF189E559 = Ставка в гонке отрядов
+
+0xF882F434 = Игрок ~1p~ ~s~застрелил вас из карабина
+
+0xF4387684 = Игрок ~1p~ ~s~застрелил вас из револьвера
+
+BECAME_HOSTILE = Игрок ~1~ становится враждебным
+
+BECAME_PEACEFUL = Игрок ~1~ включает защитный режим
+
+CAMP_SEARCH = Поиск лагеря...
+
+DEFENSIVE_CONFIRMED = ~fg~¦~fo~ Защитный режим включен
+
+DEFENSIVE_INITIAL = Защитный режим включится через 30 секунд...
+
+HOSTILITY_DECREASE = Уровень враждебности понижен
+
+HOSTILITY_INCREASE = Уровень враждебности повышен
+
+HOSTILITY_LEVEL_HIGH = Высокая
+
+HOSTILITY_LEVEL_LOW = Низкая
+
+HOSTILITY_LEVEL_MEDIUM = Средняя
+
+JOIN_AS_POSSE_MEMBER = Игрок ~1p~ присоединяется к событию. Вы присоединитесь как член его отряда.
+
+KILLED_LEGENDARY_ANIMAL_SELF = Вы убили ~1~
+
+MISSION_GANG_INVITE = Ваш командир начал задание (~1~). Если вы не хотите участвовать в этом задании, покиньте отряд.
+
+MISSION_INVITE_ALL = Игрок ~1p~ предлагает вам присоединиться к нему в задании (~2~)
+
+MISSION_REQUEST = Игрок ~1p~ предложил начать задание (~2~). Удерживайте ~INPUT_FRONTEND_DOWN~, чтобы открыть меню уведомлений.
+
+MISSION_REQUEST_APPROVED = Ваш командир согласился начать задание (~1~)
+
+MISSION_REQUEST_DENIED = Ваш командир не согласился начать задание (~1~)
+
+NC_CREW_DEMOTION = Вас понизили в банде ~2~ до звания ~1~
+
+NC_CREW_INVITE_SENT = Вы пригласили игрока ~1~ ~s~в свою банду
+
+NC_CREW_PROMOTION = Вас повысили в банде ~2~ до звания ~1~
+
+NC_CREW_RANK_0 = Главарь
+
+NC_CREW_RANK_1 = Авторитет
+
+NC_CREW_RANK_2 = Командир
+
+NC_CREW_RANK_3 = Гангстер
+
+NC_CREW_RANK_4 = Громила
+
+NET_ABANDONED_LOOT_CACHE_OPENED = Игрок ~1p~ открыл сундук с сокровищами
+
+NET_ABANDONED_LOOT_CACHE_OPENED_SELF = Вы открыли сундук с сокровищами
+
+NET_JOIN_FAILED_VS_MISSION = Ваш отряд не смог присоединиться к игре (~1~).
+
+NET_JOIN_FAILED_VS_MISSION_NON_POSSE_PLAYER = Вы не смогли присоединиться к игре (~1~).
+
+NET_JOIN_VS_DEFAULT_NAME = задание
+
+NET_JOIN_VS_MISSION_FORCED = Ваш отряд присоединяется к игре (~1~).
+
+NET_JOIN_VS_MISSION_FORCED_NON_POSSE_PLAYER = Вы присоединяетесь к игре (~1~).
+
+NET_JOIN_VS_MISSION_FULL = Ваш отряд не смог присоединиться к игре (~1~), потому что там не осталось свободных мест.
+
+NET_JOIN_VS_MISSION_FULL_NON_POSSE_PLAYER = Вы не смогли присоединиться к игре (~1~), потому что там не осталось свободных мест.
+
+NET_JOIN_VS_MISSION_INVITE = Ваш отряд пригласили в игру (~1~).
+
+NET_JOIN_VS_MISSION_INVITE_NON_POSSE_PLAYER = Вас пригласили в игру (~1~).
+
+NET_JOIN_VS_MISSION_KICK_HEADER = О, нет!
+
+NET_JOIN_VS_MISSION_REQUEST = ~1p~ предлагает сыграть в игру (~2~).
+
+NET_SCRIPT_JOIN = Игрок ~1~ присоединился
+
+NET_SCRIPT_LEFT = Игрок ~1~ вышел
+
+NG_CAMPATT = Игрок ~1p~ ~s~попросил вас разбить лагерь отряда.
+
+NG_CAMPFAI = Нельзя разбить лагерь в этом месте: местность слишком неровная либо вы находитесь слишком близко к городу.
+
+NG_CAMPREADY = Лагерь отряда разбит
+
+NG_CAMPSHUTDOWN = Ваш отряд сворачивает лагерь.
+
+NG_CAMP_01 = Игрок ~1~ ~s~разбил лагерь отряда.
+
+NG_CAMP_02 = Вы разбили лагерь отряда.
+
+NG_CAMP_03 = Вы разбили лагерь.
+
+NG_CANNOT_SEND_CHALLENGE = Нельзя бросить вызов и устроить вражду, поскольку у вас уже есть вызовы. Проверьте уведомление, потому что вызов мог бросить член отряда.
+
+NG_CANNOT_SEND_CHALLENGE_MEMBER = Нельзя бросить вызов, поскольку у вас уже есть вызовы.
+
+NG_CANT_INVITE = Нельзя отправить приглашение
+
+NG_CANT_JOIN = Сейчас вы не можете вступить в отряд
+
+NG_CREATE = Вы создали временный отряд
+
+NG_DISBAND = Отряд ~1~ расформирован
+
+NG_FASTTRAVEL_LEADER = Вы предложили отряду переместиться.
+
+NG_FULL = В отряде ~1~ ~s~нет мест
+
+NG_FULL_S = Ваш отряд полностью укомплектован, поэтому вы не можете пригласить в него других игроков.
+
+NG_INVITE_POSSE = Приглашение в отряд
+
+NG_INVITE_SENT_POSSE = Вы пригласили игрока ~1~ ~s~в свой отряд
+
+NG_JOIN_01 = Вы вступили в отряд ~1~ ~s~
+
+NG_JOIN_02 = Игрок ~1~ ~s~вступил в ваш отряд
+
+NG_LEADER_ADDED_WAYPOINT = ~COLOR_POSSE_ALLY~~1p~~s~ размещает ~COLOR_POSSE_ALLY~точку маршрута
+
+NG_LEADER_MOVED_WAYPOINT = ~COLOR_POSSE_ALLY~~1p~~s~ перемещает ~COLOR_POSSE_ALLY~точку маршрута
+
+NG_LEADER_REMOVED_WAYPOINT = ~COLOR_POSSE_ALLY~~1p~~s~ убирает ~COLOR_POSSE_ALLY~точку маршрута
+
+NG_LEFT_01 = Вы покинули отряд ~1~.
+
+NG_LEFT_02 = Игрок ~1~ покинул ваш отряд
+
+NG_LOBBY_LEAVE_L = Вы привели ~1~ в свободный режим
+
+NG_LOBBY_LEAVE_M = Игрок ~1~ привел ~2~ в свободный режим
+
+NG_ON_MISSION = Нельзя пригласить игрока, пока вы на задании
+
+NG_POSSE_INACTIVE = ~1~ больше не ваш активный отряд
+
+NG_POSSE_INVITE_LIMIT = Достигнут лимит приглашений в отряд
+
+NG_POSSE_LANDING_FAIL_JON = Невозможно вступить в постоянный отряд в данный момент.
+
+NG_POSSE_LANDING_FAIL_LEAD = Невозможно возглавить постоянный отряд в данный момент.
+
+NG_POSSE_MEMBER_SUB = Член отряда
+
+NG_POSSE_O_INACTIVE = ~1p~ больше не активный участник ~2~
+
+NG_PP_CASH = Ваша доля теперь составляет ~1~%.
+
+NG_PP_CASH_1 = Минимальный
+
+NG_PP_CASH_2 = Ниже среднего
+
+NG_PP_CASH_3 = Средний
+
+NG_PP_CASH_4 = Выше среднего
+
+NG_PP_CASH_5 = Максимальный
+
+NG_PP_COST = Создание постоянного отряда ~1$~
+
+NG_PP_FAIL = Не удалось создать постоянный отряд
+
+NG_PP_FF_OFF = В вашем отряде отключен огонь по своим
+
+NG_PP_FF_ON = В вашем отряде включен огонь по своим
+
+NG_PP_JOIN = Вы вступили в отряд ~1~
+
+NG_PP_JOIN_D = Вступить
+
+NG_PP_JOIN_FAIL_SUBH = Не удалось вернуться в постоянный отряд
+
+NG_PP_JOIN_FAIL_TITLE = Возвращение в отряд
+
+NG_PP_LEAVE_T = Вы покинули отряд ~1~
+
+NG_PP_LL_REFORM = Вы пересобрали ~1~
+
+NG_PP_LM_ACTIVE = Вы вернулись в ~1~
+
+NG_PP_NAME_CHANGE = Название отряда изменено на ~1~
+
+NG_PP_NAME_CHANGE_R = Отряд ~1~ теперь известен как ~2~
+
+NG_PP_POOR = У вас не хватает ~1$~ на создание постоянного отряда
+
+NG_PP_RD = Участник
+
+NG_PP_RL = Командир
+
+NG_PP_RM_ACTIVE = ~1~ возвращается в ~2~
+
+NG_PP_R_ACTIVE = Отряд ~1~ пересобран
+
+NG_PP_R_DISBAND = Отряд ~1~ расформирован
+
+NG_PP_R_INACTIVE = ~1~ закрыт
+
+NG_PP_R_JOINED = Игрок ~1~ вступил в отряд ~2~
+
+NG_PP_R_KICKED = Игрока ~1~ исключили из отряда ~2~
+
+NG_PP_R_LEFT = Игрок ~1~ покинул отряд ~2~
+
+NG_PP_START = Теперь вы командир отряда ~1~
+
+NG_PP_YOU_KICKED = Вас исключили из отряда ~1~.
+
+NG_P_POSSE_ALERT = ВНИМАНИЕ
+
+NG_REQUEST_ME_POSSE = Вы попросились в отряд игрока ~1~~s~
+
+NG_REQUEST_POSSE = Игрок ~1p~ хочет вступить в ваш отряд
+
+NG_ROCKSTAR_KILL_ADMIN = ~1~ был удален за нарушение
+
+NG_ROCKSTAR_KILL_ADMIN_SAFE = Отряд был удален за нарушение
+
+NG_ROCKSTAR_KILL_INACTIVE = ~1~ был удален за бездействие в течении ~2~ дней
+
+NG_SERIES_LOCKED = В настоящий момент эта серия недоступна.
+
+NG_SERIES_STORY_LOCKED = Для доступа завершите сюжетные задания.
+
+NG_SIZE_LARGE_S = Ваш отряд слишком велик для этой серии
+
+NJ_INVITE_SENT = Вы пригласили игрока ~1~
+
+NM_GC_POSSE_CREATE_FAIL = ~COLOR_POSSE_ENEMY~Не удалось сформировать отряд~s~
+
+NM_GC_POSSE_JOIN_FAIL = ~COLOR_POSSE_ENEMY~Не удалось примкнуть к отряду~s~
+
+OFFENSIVE_CONFIRMED = ~fg~-~fo~ Агрессивный режим включен
+
+OFFENSIVE_INITIAL = Защитный режим выключится через 30 секунд...
+
+PLAYER_KILLED_LEGENDARY_ANIMAL = Игрок ~1~ убил ~2~
+
+PLAYER_MOONSHINE_FLAVORED = Игрок ~1~ добавил ароматизатор
+
+PLAYER_TRANQUILIZED_LEGENDARY_ANIMAL = Игрок ~1~ усыпил ~2~
+
+POSSE_BECAME_PEACEFUL = ~1~ включает защитный режим
+
+PRESSED_CHARGES_AGAINST = ~1~ выдвигает обвинения против игрока ~2~
+
+PRESSED_CHARGES_SELF = Вы выдвинули обвинения против игрока ~1~
+
+PRESSED_CHARGES_TARGET = ~1~ выдвигает обвинения против вас
+
+PVP_DIE = Игрок ~1p~ ~s~умер
+
+PVP_ENTER_BAR = Игрок ~1p~ ~s~зашел в хижину
+
+PVP_EXC = Игрок ~1p~ ~s~прикончил игрока ~2p~
+
+PVP_HT_KILL_O = Игрок ~1p~~s~ убил ~BLIP_AMBIENT_MARKED_FOR_DEATH~~2p~
+
+PVP_HT_KILL_P = Игрок ~1p~~s~ убил ~BLIP_AMBIENT_MARKED_FOR_DEATH~~2p~
+
+PVP_INCP = Игрок ~1p~ ~s~критически ранил ~2p~
+
+PVP_KILL = Игрок ~1p~ ~s~убил игрока ~2p~
+
+PVP_KILL_ASST = Игрок ~1p~ ~s~помог убить игрока ~2p~
+
+PVP_REV = Игрок ~1p~ ~s~воскресил игрока ~2p~
+
+PVP_REV_SELF = Игрок ~1p~ ~s~пришел в себя
+
+PVP_SUI = Игрок ~1p~ ~s~совершил самоубийство
+
+PVP_TKILL = Игрок ~1p~ ~s~убил игрока ~2p~
+
+PVP_X_EXC_YOU = Игрок ~1p~ ~s~казнил вас
+
+PVP_X_INCP_YOU = Игрок ~1p~ ~s~критически ранил вас
+
+PVP_X_KILL_ASST_YOU = Игрок ~1p~ ~s~помог убить вас
+
+PVP_X_KILL_YOU = Игрок ~1p~ ~s~убил вас
+
+PVP_X_REV_YOU = Игрок ~1p~ ~s~оживил вас
+
+PVP_X_TKILL_YOU = Игрок ~1p~ ~s~убил вас
+
+PVP_YOU_DIED = Вы умерли
+
+PVP_YOU_EXC_X = Вы казнили игрока ~1p~
+
+PVP_YOU_HT_KILL_O = Вы убили ~BLIP_AMBIENT_MARKED_FOR_DEATH~~1p~
+
+PVP_YOU_HT_KILL_P = Вы убили ~BLIP_AMBIENT_MARKED_FOR_DEATH~~1p~
+
+PVP_YOU_INCP_X = Вы критически ранили ~1p~
+
+PVP_YOU_KILL_ASST_X = Вы помогли убить цель: ~1p~
+
+PVP_YOU_KILL_X = Вы убили цель: ~1p~
+
+PVP_YOU_REV_SELF = Вы оживили себя
+
+PVP_YOU_REV_X = Вы оживили цель: ~1p~
+
+PVP_YOU_TKILL_X = Вы убили цель: ~1p~
+
+REMOTE_NOT_DEFENSIVE = ~1~ больше не в защитном режиме
+
+TICKER_NAT_LA_ALLIGATOR_01 = ~COLOR_MP_OBJECTIVE~аллигатора Теку~s~
+
+TICKER_NAT_LA_ALLIGATOR_02 = ~COLOR_MP_OBJECTIVE~аллигатора Ржавого Зуба~s~
+
+TICKER_NAT_LA_ALLIGATOR_03 = ~COLOR_MP_OBJECTIVE~аллигатора Бурую Кровь~s~
+
+TICKER_NAT_LA_BEAR_01 = ~COLOR_MP_OBJECTIVE~медведя Овизу~s~
+
+TICKER_NAT_LA_BEAR_02 = ~COLOR_MP_OBJECTIVE~медведя Горбатого Духа~s~
+
+TICKER_NAT_LA_BEAR_03 = ~COLOR_MP_OBJECTIVE~медведя Золотого Духа~s~
+
+TICKER_NAT_LA_BEAVER_01 = ~COLOR_MP_OBJECTIVE~бобра Зизи~s~
+
+TICKER_NAT_LA_BEAVER_02 = ~COLOR_MP_OBJECTIVE~бобра Лунного Света~s~
+
+TICKER_NAT_LA_BEAVER_03 = ~COLOR_MP_OBJECTIVE~бобра Ночного Шороха~s~
+
+TICKER_NAT_LA_BIGHORNRAM_01 = ~COLOR_MP_OBJECTIVE~толсторога Габбро~s~
+
+TICKER_NAT_LA_BIGHORNRAM_02 = ~COLOR_MP_OBJECTIVE~толсторога Белого Рога~s~
+
+TICKER_NAT_LA_BIGHORNRAM_03 = ~COLOR_MP_OBJECTIVE~толсторога Рога Крови~s~
+
+TICKER_NAT_LA_BOAR_01 = ~COLOR_MP_OBJECTIVE~кабана Коги~s~
+
+TICKER_NAT_LA_BOAR_02 = ~COLOR_MP_OBJECTIVE~кабана Вакпу~s~
+
+TICKER_NAT_LA_BOAR_03 = ~COLOR_MP_OBJECTIVE~кабана Икахи~s~
+
+TICKER_NAT_LA_BUCK_01 = ~COLOR_MP_OBJECTIVE~оленя Грязную Спину~s~
+
+TICKER_NAT_LA_BUCK_02 = ~COLOR_MP_OBJECTIVE~оленя Первого Снега~s~
+
+TICKER_NAT_LA_BUCK_03 = ~COLOR_MP_OBJECTIVE~оленя Быструю Тень~s~
+
+TICKER_NAT_LA_BUFFALO_01 = ~COLOR_MP_OBJECTIVE~бизона Татанку~s~
+
+TICKER_NAT_LA_BUFFALO_02 = ~COLOR_MP_OBJECTIVE~бизона Виньяна~s~
+
+TICKER_NAT_LA_BUFFALO_03 = ~COLOR_MP_OBJECTIVE~бизона Пэйту~s~
+
+TICKER_NAT_LA_COUGAR_01 = ~COLOR_MP_OBJECTIVE~пуму Игугу~s~
+
+TICKER_NAT_LA_COUGAR_02 = ~COLOR_MP_OBJECTIVE~пуму Масу~s~
+
+TICKER_NAT_LA_COUGAR_03 = ~COLOR_MP_OBJECTIVE~пуму Сапу~s~
+
+TICKER_NAT_LA_COYOTE_01 = ~COLOR_MP_OBJECTIVE~койота Рыжую Спину~s~
+
+TICKER_NAT_LA_COYOTE_02 = ~COLOR_MP_OBJECTIVE~койота Черную Лапу~s~
+
+TICKER_NAT_LA_COYOTE_03 = ~COLOR_MP_OBJECTIVE~койота Млечный Путь~s~
+
+TICKER_NAT_LA_ELK_01 = ~COLOR_MP_OBJECTIVE~вапити Катату~s~
+
+TICKER_NAT_LA_ELK_02 = ~COLOR_MP_OBJECTIVE~вапити Озулу~s~
+
+TICKER_NAT_LA_ELK_03 = ~COLOR_MP_OBJECTIVE~вапити Инаме~s~
+
+TICKER_NAT_LA_FOX_01 = ~COLOR_MP_OBJECTIVE~лису Оту~s~
+
+TICKER_NAT_LA_FOX_02 = ~COLOR_MP_OBJECTIVE~лису Мраморный Хвост~s~
+
+TICKER_NAT_LA_FOX_03 = ~COLOR_MP_OBJECTIVE~лису Пестрый Крест~s~
+
+TICKER_NAT_LA_MOOSE_01 = ~COLOR_MP_OBJECTIVE~лося Морозного Следа~s~
+
+TICKER_NAT_LA_MOOSE_02 = ~COLOR_MP_OBJECTIVE~лося Темного Рыцаря~s~
+
+TICKER_NAT_LA_MOOSE_03 = ~COLOR_MP_OBJECTIVE~лося Табачного Бока~s~
+
+TICKER_NAT_LA_PANTHER_01 = ~COLOR_MP_OBJECTIVE~пантеру Ночной Шаг~s~
+
+TICKER_NAT_LA_PANTHER_02 = ~COLOR_MP_OBJECTIVE~пантеру Духа Болот~s~
+
+TICKER_NAT_LA_PANTHER_03 = ~COLOR_MP_OBJECTIVE~пантеру Ивакту~s~
+
+TICKER_NAT_LA_WOLF_01 = ~COLOR_MP_OBJECTIVE~волка Изумрудного Глаза~s~
+
+TICKER_NAT_LA_WOLF_02 = ~COLOR_MP_OBJECTIVE~волка Ночного Оникса~s~
+
+TICKER_NAT_LA_WOLF_03 = ~COLOR_MP_OBJECTIVE~волка Лунного Камня~s~
+
+TRANQUILIZED_LEGENDARY_ANIMAL_SELF = Вы усыпили ~1~
+

@@ -1,0 +1,34 @@
+CTLL4_ACTAINT_1 = ~z~Ain't it so, Arthur?
+
+CTLL4_ACTAINT_2 = ~z~We all loved you, Miss Tilly, even them of us with cold hearts.
+
+CTLL4_ACTAINT_3 = ~z~You was the sweetest little thing we ever saw. And the saddest.
+
+CTLL4_ACTA_1 = ~z~I think I saw one of them Foreman brothers again.
+
+CTLL4_ACTA_2 = ~z~Them boys you used to run with?
+
+CTLL4_ACTA_3 = ~z~They ran with me...
+
+CTLL4_ACTA_4 = ~z~They kidnapped me when I was twelve years old. Right from my momma.
+
+CTLL4_ACTA_5 = ~z~Is that so?
+
+CTLL4_ACTA_6 = ~z~Malcolm Foreman... well, he treated me real bad.
+
+CTLL4_ACTA_7 = ~z~He was bad.
+
+CTLL4_ACTA_8 = ~z~You know how I slit his throat and ran away? I never felt bad about killing him.
+
+CTLL4_ACTA_9 = ~z~I ran back to where my momma was working, but she'd died.
+
+CTLL4_ACTA_10 = ~z~I was falling into trouble.
+
+CTLL4_ACTA_11 = ~z~Dutch...
+
+CTLL4_ACTA_12 = ~z~Dutch, he found me, saved me, raised me, treated me right, taught me to read.
+
+CTLL4_ACTA_13 = ~z~He ain't perfect...
+
+CTLL4_ACTA_14 = ~z~but he's the closest I've met in this world.
+

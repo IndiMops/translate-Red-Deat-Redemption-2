@@ -1,0 +1,120 @@
+FRSTD_1_COMMEN2_1 = ~z~~sl:0.0:4.8~I do so wish you had not struggled so, my friend. The bruising~sl:~will displease the doctor.
+
+FRSTD_1_COMMEN2_2 = ~z~~sl:0.0:3.1~If you were not such a fine anthropometric~sl:~specimen of Homo Criminalis, I would cast you off and seek another, but no!
+
+FRSTD_1_COMMEN2_3 = ~z~~sl:0.0:4.2~Sloping forehead, asymmetrical cranium,~sl:~deep set eyes. Oh yeah, I know my trade, and I know you.
+
+FRSTD_1_COMMEN2_4 = ~z~~sl:0.0:3.0~Just what the doctor ordered, indeed...~sl:~just what the doctor ordered, indeed...
+
+FRSTD_1_COMMEN3_1 = ~z~~sl:0.0:3.0~And you, my dear... and you, my dear, oh,~sl:~you will fetch a fine price, my dear. You could be made to measure.
+
+FRSTD_1_COMMEN3_2 = ~z~~sl:0.0:3.0~Childbearing age, check.~sl:0.0:2.0~Generous hips, check.~sl:0.7~Delicate, highborn features, check.
+
+FRSTD_1_COMMEN3_3 = ~z~~sl:0.0:5.5~You see, I have learned discernment from our noble employer.~sl:0.5~The good doctor is a very particular man.
+
+FRSTD_1_COMMEN3_4 = ~z~But then, men of science so often are...
+
+FRSTD_1_COMMENT_1 = ~z~~sl:0.0:2.1~What a night,~sl:0.7~what a beautiful night, my friends.
+
+FRSTD_1_COMMENT_2 = ~z~~sl:0.0:2.0~If you could but know it,~sl:~your sacrifice will push back the frontiers of ignorance and superstition.
+
+FRSTD_1_COMMENT_3 = ~z~~sl:0.0:5.5~Every nerve and fibre of you shall be drawn forth,~sl:0.5~pinned down and studied.
+
+FRSTD_1_COMMENT_4 = ~z~~sl:0.0:1.5~Immortalised. Yes,~sl:0.0:6.5~you shall be immortalised, and I shall be handsomely paid.
+
+FRSTD_1_FLEES_01 = ~z~No! No! You cannot have them!
+
+FRSTD_1_FLEES_02 = ~z~What? Damn you! These are mine, get your own!
+
+FRSTD_1_FLEES_03 = ~z~We're nosed out! We must flee my friends!
+
+FRSTD_1_HOGTIED_01 = ~z~They... They offered themselves. For th-the work.
+
+FRSTD_1_HOGTIED_02 = ~z~~sl:0.0:1.6~What do you know of anything?~sl:~This is a question of enlightenment!
+
+FRSTD_1_HOGTIED_03 = ~z~~sl:0.0:5.5~Imbecile! You would keep us ignorant of ourselves! Of our own flesh!~sl:0.4~History will be our judge!
+
+FRSTD_2_CALLS_01 = ~z~~sl:0.0:0.5~Hey!~sl:1.5:1.5~You looking for Mr. Roache?~sl:0.5~He said you'd stop by...
+
+FRSTD_2_CALLS_02 = ~z~~sl:0.0:1.1~You the Bounty Hunter?~sl:0.8~Mr. Roache said you'd come by...
+
+FRSTD_2_CALLS_03 = ~z~~sl:0.0:3.5~Hey... you're here for looking for Mr. Roache, right?~sl:0.4~Just like he said you would be...
+
+FRSTD_2_LOCATE2_1 = ~z~~sl:0.0:2.5~Truth is, I'm supposed to give you a false scent.~sl:~Send you off into the marshes. But you know what?
+
+FRSTD_2_LOCATE2_2 = ~z~~sl:0.0:1.7~I want those bastards caught.~sl:~Goddamn unnatural what they're doing.
+
+FRSTD_2_LOCATE2_3 = ~z~~sl:0.0:1.3~He went back into town.~sl:~Some poor sap got a rare condition or something... doctor gonna pay good money for the corpse.
+
+FRSTD_2_LOCATE2_4 = ~z~~sl:0.0:2.4~Alright, that's one less sin on my ledger.~sl:0.7~Good luck.
+
+FRSTD_2_LOCATE3_1 = ~z~~sl:0.0:1.5~Your luck is in, my friend.~sl:~I'm here to hoodwink you... send you off on a wild goose chase up in Bluewater.
+
+FRSTD_2_LOCATE3_2 = ~z~~sl:0.0:3.2~I ain't much of a one for doing the right thing, but these fellers...~sl:~well, they're something different.
+
+FRSTD_2_LOCATE3_3 = ~z~~sl:0.0:4.0~He's in town, after killing some poor fool with a rare... disease or something.~sl:~Doctor wants the body.
+
+FRSTD_2_LOCATE3_4 = ~z~Now, do us all a favor, get it done.
+
+FRSTD_2_LOCATE_1 = ~z~~sl:0.0:1.2~I'm gonna level with ya.~sl:0.3~He paid me to send you off on the wrong track. But I ain't gonna.
+
+FRSTD_2_LOCATE_2 = ~z~~sl:0.0:1.7~What them fellers do, it ain't right.~sl:~He's gone back into town... some poor soul with a rare... I don't know, rare disease or something.
+
+FRSTD_2_LOCATE_3 = ~z~~sl:0.0:1.5~Gonna get a big price for the body.~sl:0.8~There... that's my conscience clear. Good hunting to ya.
+
+FRSTD_2_VICTIM2_01 = ~z~~sl:1.0:2.0~Thank you.~sl:1.0:5.0~He jumped me. Outta nowhere. Some kinda madman.~sl:0.8~Oh Lord, I gotta lie down...
+
+FRSTD_2_VICTIM2_02 = ~z~~sl:1.5:1.5~Oh God.~sl:0.0:2.0~I thought I was dead.~sl:1.0:3.0~Didn't say a word, just came up behind me and...~sl:~Ugh, I gotta get out of here.
+
+FRSTD_2_VICTIM2_03 = ~z~~sl:4.0:5.0~Oh, if you hadn't come along I'd... Ugh, I feel sick.~sl:0.0:3.0~Goddamn lunatic.~sl:1.0~I gotta rest. Excuse me...
+
+FRSTD_2_VICTIM_01 = ~z~~sl:0.0:1.4~Can anybody hear me?~sl:1.0~Please?
+
+FRSTD_2_VICTIM_02 = ~z~~sl:0.0:1.0~Oh God!~sl:1.4~Stop!
+
+FRSTD_2_VICTIM_03 = ~z~~sl:0.0:1.0~Get off of me!~sl:2.0~Help!
+
+FRSTD_3_ABACK_01 = ~z~Take it easy... show some humanity, huh?
+
+FRSTD_3_ABACK_02 = ~z~Ya ain't gonna shoot a man in cold blood?
+
+FRSTD_3_EAGER_01 = ~z~Much obliged.
+
+FRSTD_3_EAGER_02 = ~z~Thank you kindly.
+
+FRSTD_3_GLOAT_01 = ~z~Yeah, kill 'em!
+
+FRSTD_3_GLOAT_02 = ~z~Die, ya little shits!
+
+FRSTD_3_HANDLE_1 = ~z~Corpse like yours'll go for a song.
+
+FRSTD_3_NAIVETY_1 = ~z~~sl:0.8~Another time!
+
+FRSTD_3_PLEAD_01 = ~z~You think I'm going under the knife, you can go to hell!
+
+FRSTD_3_PLEAD_02 = ~z~Treacherous bastards! I'll gut every one of you for this!
+
+FRSTD_3_PLEAD_03 = ~z~That maniac ain't coming anywhere near me!
+
+FRSTD_3_REASON2_1 = ~z~~sl:0.0:2.0~Well, if it ain't our bounty hunter.~sl:0.4~Bet you don't often get your marks served up on a platter, huh?
+
+FRSTD_3_REASON2_2 = ~z~~sl:0.0:2.0~Doctor who's been buying off us~sl:0.4~decided he wanted me alive.
+
+FRSTD_3_REASON2_3 = ~z~~sl:0.0:2.3~Said I was some kinda perfect specimen,~sl:0.0:4.7~a "born criminal"... figured he'd open up my skull and see what's what.~sl:1.2~Guess I'm in your debt.
+
+FRSTD_3_REASONS_1 = ~z~~sl:0.0:1.1~I know who you are.~sl:1.0:2.0~Bounty hunter been picking us off.~sl:0.8~Well, here I am.
+
+FRSTD_3_REASONS_2 = ~z~~sl:0.0:1.6~That doctor we been dealing with~sl:~paid them mongrels to bring me in alive.
+
+FRSTD_3_REASONS_3 = ~z~~sl:0.0:4.5~Said I was a prize specimen. A "born criminal".~sl:0.0:4.0~Wanted a peek inside my head with me still breathing.~sl:1.4~I guess I should thank you.
+
+FRSTD_3_REPAY_01 = ~z~You want me, better open the cage...
+
+FRSTD_3_REPAY_02 = ~z~I'm right here... just gotta shoot the lock...
+
+FRSTD_3_SUBMIT_1 = ~z~I seen you shoot. I know when to roll over.
+
+FRSTD_3_TRANSPO_01 = ~z~~sl:0.0:1.6~Ever get a crick in the back?~sl:0.7~Gotta lift from the knees, right?
+
+FRSTD_3_TRANSPO_02 = ~z~~sl:0.0:1.5~You the one that got Gault?~sl:1.3:3.2~Now there was a man let it get to him.~sl:0.8~Just a job... ain't that right, friend?
+

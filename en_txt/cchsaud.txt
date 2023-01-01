@@ -1,0 +1,20 @@
+CCHSH_CNV1_A_1 = ~z~So... you're still alive?
+
+CCHSH_CNV1_A_2 = ~z~~sl:0.0:1.5:1~For now.
+
+CCHSH_CNV1_A_3 = ~z~Well... yeah.
+
+CCHSH_CNV1_A_4 = ~z~
+
+CCHSH_CNV1_B_1 = ~z~Listen... Listen!
+
+CCHSH_CNV1_B_2 = ~z~~sl:0.0:2.1~Try to stop Dutch getting all of you killed,~sl:0.0:1.7~cause I'm about beginning to think~sl:~he's finally lost his mind.
+
+CCHSH_CNV1_B_3 = ~z~And do what?
+
+CCHSH_CNV1_B_4 = ~z~
+
+CCHSH_CNV1_B_5 = ~z~If we stop doing this?
+
+CCHSH_CNV1_B_6 = ~z~~sl:0.0:1.3~I don't know...~sl:2.0:1.2~I never knew.~sl:1.5:2.1:1~Guess I could never figure that out, neither.
+

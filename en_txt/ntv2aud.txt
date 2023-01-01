@@ -1,0 +1,1050 @@
+NTV2_ARRIVE_1 = ~z~Here we are. There's my men up ahead.
+
+NTV2_BRV_GRT_1 = ~z~Hello.
+
+NTV2_CANTSHOOT_1 = ~z~I can't shoot at these men.
+
+NTV2_CANTSHOOT_2 = ~z~Yes, but we can.
+
+NTV2_CHR_DWDL_01 = ~z~Come on, Arthur!
+
+NTV2_CHR_DWDL_02 = ~z~We need to move!
+
+NTV2_CHR_DWDL_03 = ~z~Arthur! Let's go!
+
+NTV2_DAWDLE_01 = ~z~Mr. Morgan, it's time.
+
+NTV2_DAWDLE_02 = ~z~Hurry, I don't think we should keep them waiting.
+
+NTV2_DAWDLE_03 = ~z~Come on, we should get started.
+
+NTV2_DAWDLE_04 = ~z~Over this way. Is there a problem, Mr Morgan?
+
+NTV2_ENEMY_01 = ~z~They're coming after us!
+
+NTV2_ENEMY_02 = ~z~We got some on our tail!
+
+NTV2_ENEMY_03 = ~z~Look out behind, they're catching up!
+
+NTV2_ENEMY_END_01 = ~z~More behind us!
+
+NTV2_ENEMY_END_02 = ~z~They're still coming!
+
+NTV2_ENEMY_END_03 = ~z~We got more coming in!
+
+NTV2_ENEMY_MID_01 = ~z~Here come more of them!
+
+NTV2_ENEMY_MID_02 = ~z~More incoming!
+
+NTV2_ENEMY_MID_03 = ~z~Look out, they're still coming!
+
+NTV2_ESCDIR_1 = ~z~Charles, Captain Monroe, mount up now. We're getting out of here.
+
+NTV2_ESCFIR_1 = ~z~Open fire on them!
+
+NTV2_ESCREM_01 = ~z~Arthur, let's go!
+
+NTV2_ESCREM_02 = ~z~We need to leave now.
+
+NTV2_ESCREM_03 = ~z~Time to get out of here, come on.
+
+NTV2_ESCSUR_1 = ~z~~sl:0.0:1.8~Do it! Shoot him!~sl:1.1~Don't let him get away!
+
+NTV2_EXT_1 = ~z~Get out of here, Captain Monroe.
+
+NTV2_EXT_2 = ~z~I fear it may be Mr. Monroe from now on.
+
+NTV2_EXT_3 = ~z~I'm sorry about your career.
+
+NTV2_EXT_4 = ~z~Here.
+
+NTV2_EXT_5 = ~z~Here's some money.
+
+NTV2_EXT_6 = ~z~You take it and get out of here, and...
+
+NTV2_EXT_7 = ~z~start a new life somewhere.
+
+NTV2_EXT_8 = ~z~I hear Tahiti's nice.
+
+NTV2_EXT_9 = ~z~Thank you.
+
+NTV2_EXT_10 = ~z~Just hop on a train to Saint Denis, jump on a boat...
+
+NTV2_EXT_11 = ~z~But avoid Guarma.
+
+NTV2_EXT_12 = ~z~Where?
+
+NTV2_EXT_13 = ~z~Forget about it.
+
+NTV2_EXT_14 = ~z~Meet you back at camp.
+
+NTV2_EXT_15 = ~z~Mr. Morgan...
+
+NTV2_EXT_16 = ~z~Meet me at the reservation.
+
+NTV2_EXT_17 = ~z~are you okay?
+
+NTV2_EXT_18 = ~z~Never better.
+
+NTV2_EXT_19 = ~z~What are you doing here?
+
+NTV2_EXT_20 = ~z~Well, I'm on my way down to Mexico...
+
+NTV2_EXT_21 = ~z~they're finally sending me on a mission.
+
+NTV2_EXT_22 = ~z~Brother Dorkins is very jealous.
+
+NTV2_EXT_23 = ~z~What's wrong?
+
+NTV2_EXT_24 = ~z~I'm, uh...
+
+NTV2_EXT_25 = ~z~I'm dying, Sister.
+
+NTV2_EXT_26 = ~z~Okay...
+
+NTV2_EXT_27 = ~z~Yeah, I got TB.
+
+NTV2_EXT_28 = ~z~I got it...
+
+NTV2_EXT_29 = ~z~beating a man...
+
+NTV2_EXT_30 = ~z~to death...
+
+NTV2_EXT_31 = ~z~for a few bucks.
+
+NTV2_EXT_32 = ~z~I've lived a bad life, Sister.
+
+NTV2_EXT_33 = ~z~We've all lived bad lives, Mr. Morgan...
+
+NTV2_EXT_34 = ~z~we all sin...
+
+NTV2_EXT_35 = ~z~but I know you.
+
+NTV2_EXT_36 = ~z~You don't know me.
+
+NTV2_EXT_37 = ~z~Forgive me, but...
+
+NTV2_EXT_38 = ~z~that's the problem.
+
+NTV2_EXT_39 = ~z~You don't know you.
+
+NTV2_EXT_40 = ~z~What you mean?
+
+NTV2_EXT_41 = ~z~I don't know, but...
+
+NTV2_EXT_42 = ~z~whenever we happen to meet, you're always helping people and smiling.
+
+NTV2_EXT_43 = ~z~I had a son...
+
+NTV2_EXT_44 = ~z~he passed away.
+
+NTV2_EXT_45 = ~z~I had a girl who loved me...
+
+NTV2_EXT_46 = ~z~I threw that away.
+
+NTV2_EXT_47 = ~z~My momma died when I was a kid...
+
+NTV2_EXT_48 = ~z~and my daddy...
+
+NTV2_EXT_49 = ~z~well, I watched him die...
+
+NTV2_EXT_50 = ~z~and it weren't soon enough.
+
+NTV2_EXT_51 = ~z~My husband died a long time ago.
+
+NTV2_EXT_52 = ~z~Life is full of pain...
+
+NTV2_EXT_53 = ~z~but there is also love and beauty.
+
+NTV2_EXT_54 = ~z~What am I gonna do now?
+
+NTV2_EXT_55 = ~z~Be grateful that for the first time...
+
+NTV2_EXT_56 = ~z~you see your life clearly.
+
+NTV2_EXT_57 = ~z~Sure.
+
+NTV2_EXT_58 = ~z~Perhaps you could help somebody?
+
+NTV2_EXT_59 = ~z~Helping makes you really happy.
+
+NTV2_EXT_60 = ~z~But...
+
+NTV2_EXT_61 = ~z~I still don't believe in nothing.
+
+NTV2_EXT_62 = ~z~Often neither do I...
+
+NTV2_EXT_63 = ~z~but then, I meet someone like you...
+
+NTV2_EXT_64 = ~z~and everything makes sense.
+
+NTV2_EXT_65 = ~z~You're too smart for me, Sister...
+
+NTV2_EXT_66 = ~z~I guess I...
+
+NTV2_EXT_67 = ~z~I'm afraid.
+
+NTV2_EXT_68 = ~z~There is nothing to be afraid of, Mr. Morgan.
+
+NTV2_EXT_69 = ~z~Take a gamble that love exists...
+
+NTV2_EXT_70 = ~z~and do a loving act.
+
+NTV2_EXT_71 = ~z~All aboard!
+
+NTV2_EXT_72 = ~z~I shall try.
+
+NTV2_EXT_73 = ~z~I know you will.
+
+NTV2_EXT_74 = ~z~Meet you back at camp.
+
+NTV2_EXT_75 = ~z~Meet me at the reservation.
+
+NTV2_EXT_76 = ~z~Reverend?
+
+NTV2_EXT_77 = ~z~Reverend...
+
+NTV2_EXT_78 = ~z~what are you doing here?
+
+NTV2_EXT_79 = ~z~I'm leaving.
+
+NTV2_EXT_80 = ~z~Running away?
+
+NTV2_EXT_81 = ~z~Yeah, I suppose so, I'm...
+
+NTV2_EXT_82 = ~z~I'm running away.
+
+NTV2_EXT_83 = ~z~I-I tried to make Dutch see sense but he's...
+
+NTV2_EXT_84 = ~z~very strange, recently.
+
+NTV2_EXT_85 = ~z~And the women? Little Jack?
+
+NTV2_EXT_86 = ~z~You're leaving them?
+
+NTV2_EXT_87 = ~z~I told them to run, too...
+
+NTV2_EXT_88 = ~z~I asked them to come with me and they wouldn't.
+
+NTV2_EXT_89 = ~z~I've changed...
+
+NTV2_EXT_90 = ~z~I'm a changed man, Arthur.
+
+NTV2_EXT_91 = ~z~I won't die over some nonsense spouted by a fool.
+
+NTV2_EXT_92 = ~z~I ain't changed...
+
+NTV2_EXT_93 = ~z~I'm still a bad man.
+
+NTV2_EXT_94 = ~z~Maybe your path isn't changing, Arthur.
+
+NTV2_EXT_95 = ~z~My path is coming to an end, Reverend.
+
+NTV2_EXT_96 = ~z~I know, son...
+
+NTV2_EXT_97 = ~z~I know...
+
+NTV2_EXT_98 = ~z~and I know that you will face your destiny like a man...
+
+NTV2_EXT_99 = ~z~like a warrior...
+
+NTV2_EXT_100 = ~z~because that's what you are.
+
+NTV2_EXT_101 = ~z~That's all I am...
+
+NTV2_EXT_102 = ~z~a fighter...
+
+NTV2_EXT_103 = ~z~a killer...
+
+NTV2_EXT_104 = ~z~and a crazy man.
+
+NTV2_EXT_105 = ~z~So be it.
+
+NTV2_EXT_106 = ~z~You lived your way...
+
+NTV2_EXT_107 = ~z~you'll die your way...
+
+NTV2_EXT_108 = ~z~but in the time that you have left...
+
+NTV2_EXT_109 = ~z~don't compromise...
+
+NTV2_EXT_110 = ~z~and you'll do everything that you have to do, just fine.
+
+NTV2_EXT_111 = ~z~We'll see.
+
+NTV2_EXT_112 = ~z~I don't have to see, I know you.
+
+NTV2_EXT_113 = ~z~Fight, and keep fighting.
+
+NTV2_EXT_114 = ~z~Okay.
+
+NTV2_EXT_115 = ~z~Good luck out there.
+
+NTV2_EXT_116 = ~z~Be true to yourself, Mr. Morgan...
+
+NTV2_EXT_117 = ~z~and leave the lies and the hypocrisy to fools like me.
+
+NTV2_EXT_118 = ~z~Reverend?
+
+NTV2_EXT_119 = ~z~Reverend...
+
+NTV2_EXT_120 = ~z~what are you doing here?
+
+NTV2_EXT_121 = ~z~I'm leaving.
+
+NTV2_EXT_122 = ~z~Running away?
+
+NTV2_EXT_123 = ~z~I suppose so, yes.
+
+NTV2_EXT_124 = ~z~I'm running away.
+
+NTV2_EXT_125 = ~z~I tried to make Dutch see sense but he's...
+
+NTV2_EXT_126 = ~z~he's very strange, recently.
+
+NTV2_EXT_127 = ~z~And the women? Little Jack?
+
+NTV2_EXT_128 = ~z~You're leaving them?
+
+NTV2_EXT_129 = ~z~I told them to run, too...
+
+NTV2_EXT_130 = ~z~I asked them to come with me, but they wouldn't.
+
+NTV2_EXT_131 = ~z~I'm changed...
+
+NTV2_EXT_132 = ~z~I'm a changed man, Arthur.
+
+NTV2_EXT_133 = ~z~I-I can't die for a bunch of nonsense spouted by a fool.
+
+NTV2_EXT_134 = ~z~I understand.
+
+NTV2_EXT_135 = ~z~You're...
+
+NTV2_EXT_136 = ~z~well you're, you're not a good man, Arthur...
+
+NTV2_EXT_137 = ~z~but you're not all bad...
+
+NTV2_EXT_138 = ~z~either.
+
+NTV2_EXT_139 = ~z~Everything will be...
+
+NTV2_EXT_140 = ~z~your journey, your path, will be just fine.
+
+NTV2_EXT_141 = ~z~I'm worried my path is coming to an end, Mr. Swanson.
+
+NTV2_EXT_142 = ~z~Maybe.
+
+NTV2_EXT_143 = ~z~I've felt that way for a long time about myself I mean, but...
+
+NTV2_EXT_144 = ~z~but you'll do what's right.
+
+NTV2_EXT_145 = ~z~I don't know about that.
+
+NTV2_EXT_146 = ~z~I do.
+
+NTV2_EXT_147 = ~z~Save who you can and let the rest rot...
+
+NTV2_EXT_148 = ~z~and look after yourself.
+
+NTV2_EXT_149 = ~z~Maybe.
+
+NTV2_EXT_150 = ~z~We'll see.
+
+NTV2_EXT_151 = ~z~You do see.
+
+NTV2_EXT_152 = ~z~You just can't quite admit it to yourself.
+
+NTV2_EXT_153 = ~z~All aboard!
+
+NTV2_EXT_154 = ~z~Be well, Reverend.
+
+NTV2_EXT_155 = ~z~All aboard!
+
+NTV2_EXT_156 = ~z~You too, Arthur.
+
+NTV2_EXT_157 = ~z~Sure.
+
+NTV2_EXT_158 = ~z~Good luck out there.
+
+NTV2_EXT_159 = ~z~You lived your life like a man, Arthur...
+
+NTV2_EXT_160 = ~z~and you turned into a good man.
+
+NTV2_EXT_161 = ~z~If we were all like you things might have turned out differently.
+
+NTV2_EXT_162 = ~z~You're getting mighty sentimental, Reverend.
+
+NTV2_EXT_LEADIN_1 = ~z~
+
+NTV2_GRAPPLE_01 = ~z~Get off me!
+
+NTV2_GRAPPLE_02 = ~z~You son of a bitch!
+
+NTV2_GRAPPLE_03 = ~z~You won't get away with this!
+
+NTV2_GRAPPLE_04 = ~z~I'll kill you!
+
+NTV2_HOLDFIRE1_1 = ~z~Men, please, hold your fire!
+
+NTV2_HOLDFIRE2_1 = ~z~Hold your fire!
+
+NTV2_IG0_1 = ~t~In Lakota: These men are our friends... come on... let's go.
+
+NTV2_IG1_CHAT_1 = ~z~~sl:0.5:3.2~Colonel Favours... Captain Monroe,~sl:0.1~we come in peace.
+
+NTV2_IG1_CHAT_2 = ~z~~sl:0.0:0.8~Hello again.~sl:1.6~Who are these two?
+
+NTV2_IG1_CHAT_3 = ~z~They're, uh, friends of my people.
+
+NTV2_IG1_CHAT_4 = ~z~~sl:0.8:0.0~Interesting looking fellows...
+
+NTV2_IG1_CHAT_5 = ~z~Yeah, they won't cause any trouble.
+
+NTV2_IG1_CHAT_6 = ~z~Well, I should hope not.
+
+NTV2_IG1_CHAT_7 = ~z~
+
+NTV2_IG1_CHAT_8 = ~z~Listen, Mr., uh...
+
+NTV2_IG1_CHAT_9 = ~z~~sl:0.8:0.0~Chief.
+
+NTV2_IG1_CHAT_10 = ~z~~sl:0.0:4.3:1~Yes, uh, Mr... I can't... say that silly name.
+
+NTV2_IG1_CHAT_11 = ~z~~sl:0.3:2.5:1~In English they call me Rains Fall.
+
+NTV2_IG1_CHAT_12 = ~z~Yes, yes, I'm... I'm sure they do.
+
+NTV2_IG1_CHAT_13 = ~z~Listen... we're all Americans here... and, we... want an outcome,
+
+NTV2_IG1_CHAT_14 = ~z~but quite frankly... quite frankly, I-I'm confused.
+
+NTV2_IG1_CHAT_15 = ~z~Your men are... little more than criminals, in my opinion.
+
+NTV2_IG1_CHAT_16 = ~z~Keep breaking peace treaties... we've made. Causing disturbances in everybody's lives.
+
+NTV2_IG1_CHAT_17 = ~z~~sl:0.0:5.0~But... I pride myself on being a gentleman. Really, I do.~sl:1.0~But there are limits.
+
+NTV2_IG1_CHAT_18 = ~z~So, let me be very...
+
+NTV2_IG1_COUGHA_1 = ~z~
+
+NTV2_IG1_COUGHB_1 = ~z~
+
+NTV2_IG1_COUGHB_2 = ~z~
+
+NTV2_IG2_1_1 = ~z~~sl:0.0:6.8~No, no. You know he's going to have Monroe... court martialled. Or, attempt to...~sl:1.1~he's going to make a disgrace of him.
+
+NTV2_IG2_1_2 = ~z~Monroe? Seems likeable enough for a West Pointer, why?
+
+NTV2_IG2_1_3 = ~z~You know what Favours is like... because he thinks it's right.
+
+NTV2_IG2_1_4 = ~z~~sl:0.0:3.3~Because he thinks Monroe is a patsy, or a spy.~sl:0.3~He's convinced he had something to do with those vaccines getting stolen...
+
+NTV2_IG2_1_5 = ~z~~sl:0.0:4.8~He thinks, Monroe is gonna force him into making a concession with the Indians.~sl:0.7~So he removes Monroe.
+
+NTV2_IG2_1_6 = ~z~Removes how?
+
+NTV2_IG2_1_7 = ~z~~sl:0.0:1.8~Favours wants him tried for treason...~sl:0.7~and hanged.
+
+NTV2_IG2_1_8 = ~z~Why does... Favours care about the Indians?
+
+NTV2_IG2_1_9 = ~z~Because he doesn't want to back down... his whole professional life...
+
+NTV2_IG2_1_10 = ~z~~sl:0.0:1.3~You know what they say about him.~sl:0.2~High-tail Favours. The man who missed a battle.
+
+NTV2_IG2_1_11 = ~z~Poor Monroe... I kind of liked him.
+
+NTV2_IG2_1_12 = ~z~~sl:0.0:0.7~I know...~sl:0.9~well still, he's kinda stuck up.
+
+NTV2_IG3_1 = ~z~~sl:1.3:4.0~I see that expecting you to understand my position,~sl:~as a representative of your government, is quite impossible.
+
+NTV2_IG3_2 = ~z~I am my government... their government.
+
+NTV2_IG3_3 = ~z~This... this was my land. These are my people.
+
+NTV2_IG3_4 = ~z~~sl:0.6:2.3~That's not really the point here, sir.~sl:0.6~Get that through your skull.
+
+NTV2_IG3_5 = ~z~Your men violated the treaty. That treaty is null, and void.
+
+NTV2_IG3_6 = ~z~I have been appointed to negotiate a new treaty. That treaty will grant you new lands.
+
+NTV2_IG4_1 = ~z~Feeling better?
+
+NTV2_IG4_2 = ~z~~sl:0.0:1.2~Yeah, come on.~sl:0.5:0.7:1~Let's go.
+
+NTV2_INT_1 = ~z~I, um, I was, uh...
+
+NTV2_INT_2 = ~z~Leaving again?
+
+NTV2_INT_3 = ~z~Yes, just leaving...
+
+NTV2_INT_4 = ~z~I'll see you soon.
+
+NTV2_INT_5 = ~z~Perhaps.
+
+NTV2_INT_6 = ~z~What do you mean?
+
+NTV2_INT_7 = ~z~Well...
+
+NTV2_INT_8 = ~z~if I was you, I'd disappear too.
+
+NTV2_INT_9 = ~z~This is all pretty much over.
+
+NTV2_INT_10 = ~z~Well, I'll be back.
+
+NTV2_INT_11 = ~z~No you won't, let's not pretend no more.
+
+NTV2_INT_12 = ~z~Get outta here.
+
+NTV2_INT_13 = ~z~I'll miss you, Arthur.
+
+NTV2_INT_14 = ~z~You've been a fine friend to me.
+
+NTV2_INT_15 = ~z~No, let's not get over sentimental.
+
+NTV2_INT_16 = ~z~Go on, place is quiet, get outta here...
+
+NTV2_INT_17 = ~z~you go with my blessing.
+
+NTV2_INT_18 = ~z~Thank you, Arthur.
+
+NTV2_INT_19 = ~z~Found a friend looking for you.
+
+NTV2_INT_20 = ~z~Mr. Morgan.
+
+NTV2_INT_21 = ~z~Sir.
+
+NTV2_INT_22 = ~z~How are you?
+
+NTV2_INT_23 = ~z~A little better.
+
+NTV2_INT_24 = ~z~I hope so.
+
+NTV2_INT_25 = ~z~Found a friend looking for you.
+
+NTV2_INT_26 = ~z~Mr. Morgan.
+
+NTV2_INT_27 = ~z~Sir.
+
+NTV2_INT_28 = ~z~How can I help you?
+
+NTV2_INT_29 = ~z~I am sorry to impose on you again...
+
+NTV2_INT_30 = ~z~but I believe I've made progress brokering peace.
+
+NTV2_INT_31 = ~z~You have?
+
+NTV2_INT_32 = ~z~I believe so.
+
+NTV2_INT_33 = ~z~Colonel Favours has agreed to a meeting...
+
+NTV2_INT_34 = ~z~to discuss, and maybe resolve...
+
+NTV2_INT_35 = ~z~his alleged grievances and mine.
+
+NTV2_INT_36 = ~z~Now, he has lied to me more times than I care to remember...
+
+NTV2_INT_37 = ~z~but maybe this time...
+
+NTV2_INT_38 = ~z~he must want peace.
+
+NTV2_INT_39 = ~z~Why could he possibly want to humiliate us further?
+
+NTV2_INT_40 = ~z~We got words for his kind, but they're colloquial.
+
+NTV2_INT_41 = ~z~Perhaps I could make one last request...
+
+NTV2_INT_42 = ~z~my men are not allowed to carry arms.
+
+NTV2_INT_43 = ~z~You want us to keep the peace?
+
+NTV2_INT_44 = ~z~Yeah, it'll be a lot of dull talking and ceremony...
+
+NTV2_INT_45 = ~z~but I feel with some non-tribe members present...
+
+NTV2_INT_46 = ~z~their chances of lying or worse will be reduced.
+
+NTV2_INT_47 = ~z~Will you, Arthur?
+
+NTV2_INT_48 = ~z~It ain't my business, brother.
+
+NTV2_INT_49 = ~z~No, I know.
+
+NTV2_INT_50 = ~z~But it is mine.
+
+NTV2_INT_51 = ~z~Do it for me?
+
+NTV2_INT_52 = ~z~Charles, I got...
+
+NTV2_INT_53 = ~z~I've saved your life.
+
+NTV2_INT_54 = ~z~Do it for me.
+
+NTV2_INT_55 = ~z~Sure...
+
+NTV2_INT_56 = ~z~come on.
+
+NTV2_INT_57 = ~z~You owe this man.
+
+NTV2_INT_58 = ~z~You should have him do your negotiations.
+
+NTV2_INT_59 = ~z~Let's go.
+
+NTV2_INT_LI_1 = ~z~Josiah.
+
+NTV2_MBANT_H_1 = ~z~We'll do what we can.
+
+NTV2_MBANT_L_1 = ~z~You can't worry about that now.
+
+NTV2_MCOVER_01 = ~z~This is insanity!
+
+NTV2_MCOVER_02 = ~z~This was meant to be a truce!
+
+NTV2_MCOVER_03 = ~z~We're sitting ducks here!
+
+NTV2_MCOVER_04 = ~z~How did this go so wrong?
+
+NTV2_MCOVER_05 = ~z~Favours wanted this to happen.
+
+NTV2_MCOVER_06 = ~z~They're trying to surround us.
+
+NTV2_MCOVER_07 = ~z~I knew this was a mistake.
+
+NTV2_MCOVER_08 = ~z~I am sorry, Mr. Morgan, I cannot kill these men!
+
+NTV2_MCS1_1 = ~z~You okay, man?
+
+NTV2_MCS1_2 = ~z~Someone...
+
+NTV2_MCS1_3 = ~z~Jackson, take him away.
+
+NTV2_MCS1_4 = ~z~Where was I?
+
+NTV2_MCS1_5 = ~z~You're a gentleman with limits?
+
+NTV2_MCS1_6 = ~z~Are you being facetious, sir?
+
+NTV2_MCS1_7 = ~z~Come this way, buddy.
+
+NTV2_MCS1_8 = ~z~I said, “are you being facetious”, Captain Monroe?
+
+NTV2_MCS1_9 = ~z~No, sir, I am not.
+
+NTV2_MCS1_10 = ~z~Chief Rains...
+
+NTV2_MCS1_11 = ~z~That's, uh...
+
+NTV2_MCS1_12 = ~z~Rains Fall.
+
+NTV2_MCS1_13 = ~z~Exactly.
+
+NTV2_MCS1_14 = ~z~Chief Rains, the thing is...
+
+NTV2_MCS1_15 = ~z~It's quite a cough.
+
+NTV2_MCS1_16 = ~z~Sure.
+
+NTV2_MCS1_17 = ~z~Wait here...
+
+NTV2_MCS1_18 = ~z~I'll fetch you some water.
+
+NTV2_MCS1_19 = ~z~I-I'll be fine.
+
+NTV2_MCS1_20 = ~z~Thank you.
+
+NTV2_MCS3_1 = ~z~The lands you currently occupy...
+
+NTV2_MCS3_2 = ~z~belong to the United States Government.
+
+NTV2_MCS3_3 = ~z~Why is this so confusing, sir?
+
+NTV2_MCS3_4 = ~z~Why?
+
+NTV2_MCS3_5 = ~z~Good day, Colonel Favours.
+
+NTV2_MCS3_6 = ~z~Well, that was remarkably unproductive...
+
+NTV2_MCS3_7 = ~z~Charles...
+
+NTV2_MCS3_8 = ~z~I'm afraid the Federal Government was quite clear, Colonel...
+
+NTV2_MCS3_9 = ~z~that it wanted peace, and peace for all...
+
+NTV2_MCS3_10 = ~z~and that the treaty had not been broken by anybody.
+
+NTV2_MCS3_11 = ~z~Oh, is that so, sir?
+
+NTV2_MCS3_12 = ~z~And did it want impudence, sir...
+
+NTV2_MCS3_13 = ~z~from a junior officer in public?
+
+NTV2_MCS3_14 = ~z~Was that it's plan too, sir?
+
+NTV2_MCS3_15 = ~z~You insult me...
+
+NTV2_MCS3_16 = ~z~you insult the regiment.
+
+NTV2_MCS3_17 = ~z~Arrest this man.
+
+NTV2_MCS3_18 = ~z~Arrest me?
+
+NTV2_MCS3_19 = ~z~Gross insubordination.
+
+NTV2_MCS3_20 = ~z~Disobeying an order.
+
+NTV2_MCS3_21 = ~z~Treason.
+
+NTV2_MCS3_22 = ~z~Are you mad?
+
+NTV2_MCS3_23 = ~z~You had those vaccines stolen...
+
+NTV2_MCS3_24 = ~z~you disrupted a negotiation...
+
+NTV2_MCS3_25 = ~z~Let him go.
+
+NTV2_MCS3_26 = ~z~This is all getting out of hand.
+
+NTV2_MCS3_27 = ~z~I...
+
+NTV2_MCS3_28 = ~z~Captain Monroe, let's get out of here.
+
+NTV2_MCS3_29 = ~z~I, uh...
+
+NTV2_MCS3_30 = ~z~If I were you I'd keep my mouth shut, amigo...
+
+NTV2_MCS3_LO_1 = ~z~I don't wanna kill this man... but shall!
+
+NTV2_MONHORSE_1 = ~z~My horse!
+
+NTV2_MON_BANT2_1 = ~z~~sl:0.0:0.8~I...~sl:1.8~guess I won't be submitting my report.
+
+NTV2_MON_BANT2_2 = ~z~I wouldn't think so...
+
+NTV2_MON_BANT_1 = ~z~I think we're finally in the clear.~rp~ Everybody okay?
+
+NTV2_MON_BANT_2 = ~z~~sl:0.0:0.9~Not really...~lr:1.2~what do we do now?
+
+NTV2_MON_BANT_3 = ~z~You get out of here... fast.~rp~ We'll take you to the station.
+
+NTV2_MON_BANT_4 = ~z~~sl:0.0:2.0~I can't believe that just happened.~lr:1.0~I've been an army man my whole life.
+
+NTV2_MON_BANT_5 = ~z~~sl:0.0:1.7~I heard them talking...~lr:0.6:2.5~They was gonna have you hanged for treason.~sl:~You can't die for those fools.
+
+NTV2_MON_BANT_6 = ~z~And what about the chief?
+
+NTV2_RBANT_1ASHOUTED_7 = ~z~~sl:0.0:2.7~But when our people are sick and hungry...~sl:~and we find our medicine and supplies are being deliberately withheld,
+
+NTV2_RBANT_1ASHOUTED_9 = ~z~~sl:0.0:3.2~How can I convince Eagle Flies and the others that they...~sl:0.1~shouldn't fight back?
+
+NTV2_RBANT_1ASHOUTED_10 = ~z~~sl:0.0:2.8~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+NTV2_RBANT_1ASHOUTED_12 = ~z~~sl:0.0:4.9~Perhaps. There's an army captain, Lyndon Monroe,~sl:~who was seconded here from a regiment in the North.
+
+NTV2_RBANT_1ASPOKEN_7 = ~z~~sl:0.0:2.5~But when our people are sick and hungry...~sl:0.3~and we find our medicine and supplies are being deliberately withheld,
+
+NTV2_RBANT_1ASPOKEN_9 = ~z~~sl:0.0:2.4~How can I convince Eagle Flies and the others...~sl:~that they shouldn't fight back?
+
+NTV2_RBANT_1ASPOKEN_10 = ~z~~sl:0.0:2.5~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+NTV2_RBANT_1ASPOKEN_12 = ~z~~sl:0.4:4.9~Perhaps. There's an army captain, Lyndon Monroe,~sl:0.1~who was seconded here from a regiment in the North.
+
+NTV2_RBANT_1A_1 = ~z~Thank you for doing this, both of you.
+
+NTV2_RBANT_1A_2 = ~z~Ain't a problem.
+
+NTV2_RBANT_1A_3 = ~z~I wish we could have done more to control the situation.
+
+NTV2_RBANT_1A_4 = ~z~Dutch should not have gotten involved.
+
+NTV2_RBANT_1A_5 = ~z~My son has a mind of his own... too much so, in fact.
+
+NTV2_RBANT_1A_6 = ~z~~sl:0.0:2.7~I just hope Colonel Favours can be reasoned with.~sl:0.6~I am not asking for very much.
+
+NTV2_RBANT_1A_8 = ~z~how can we not view that as something personal?
+
+NTV2_RBANT_1A_11 = ~z~To be able to say, look, you see how these savages behave?
+
+NTV2_RBANT_1A_13 = ~z~Sent by Washington.
+
+NTV2_RBANT_1A_14 = ~z~A good man. He'll be at the meeting and he knows the true situation.
+
+NTV2_RBANT_1A_15 = ~z~I still have hope that we can come to an agreement.
+
+NTV2_RBANT_1BSHOUTED_2 = ~z~~sl:0.0:4.7~Ain't a problem. Just hope nobody recognizes me.~sl:0.3~I've had a few run-ins with the army recently.
+
+NTV2_RBANT_1BSHOUTED_6 = ~z~~sl:0.0:3.1~I just hope Colonel Favours can be reasoned with.~sl:0.4~I am not asking for any special treatment.
+
+NTV2_RBANT_1BSHOUTED_7 = ~z~~sl:0.0:2.9~But when our people are sick and hungry...~sl:0.2~and we find our medicine and supplies are being deliberately withheld,
+
+NTV2_RBANT_1BSHOUTED_8 = ~z~~sl:0.0:3.0~how can we not view that as something personal?~sl:0.7~When they destroy our sacred sites?
+
+NTV2_RBANT_1BSHOUTED_9 = ~z~~sl:0.0:3.3~How can I convince Eagle Flies and the others that...~sl:0.5~they shouldn't fight back?
+
+NTV2_RBANT_1BSHOUTED_10 = ~z~~sl:0.0:2.7~Maybe that's part of the reason they're doing these things...~sl:0.5~because they want you to fight.
+
+NTV2_RBANT_1BSHOUTED_12 = ~z~~sl:0.0:4.3~Perhaps. Captain Monroe will be at the meeting...~sl:~and he knows the true situation, at least.
+
+NTV2_RBANT_1BSPOKEN_2 = ~z~~sl:0.0:4.2~Ain't a problem. Just hope nobody recognizes me.~sl:~I've had a few run-ins with the army recently.
+
+NTV2_RBANT_1BSPOKEN_6 = ~z~~sl:0.0:3.5~I just hope Colonel Favours can be reasoned with.~sl:0.6~I am not asking for any special treatment.
+
+NTV2_RBANT_1BSPOKEN_7 = ~z~~sl:0.0:2.7~But when our people are sick and hungry...~sl:~and we find our medicine and supplies being deliberately withheld,
+
+NTV2_RBANT_1BSPOKEN_8 = ~z~~sl:0.0:2.7~how can we not view that as something personal?~sl:0.6~When they destroy our sacred sites?
+
+NTV2_RBANT_1BSPOKEN_9 = ~z~~sl:0.0:3.0~How can I convince Eagle Flies and the others that...~sl:0.6~they shouldn't fight back?
+
+NTV2_RBANT_1BSPOKEN_10 = ~z~~sl:0.0:2.6~Maybe that's part of the reason they're doing these things...~sl:0.3~because they want you to fight.
+
+NTV2_RBANT_1BSPOKEN_12 = ~z~~sl:0.0:4.4~Perhaps. Captain Monroe will be at the meeting...~sl:~and he knows the true situation, at least.
+
+NTV2_RBANT_1B_1 = ~z~Thank you for doing this, both of you. You have already done so much.
+
+NTV2_RBANT_1B_3 = ~z~I wish we could have done more to control the situation.
+
+NTV2_RBANT_1B_4 = ~z~Dutch shouldn't have gotten involved.
+
+NTV2_RBANT_1B_5 = ~z~My son has a mind of his own... too much so, in fact.
+
+NTV2_RBANT_1B_11 = ~z~To be able to say, look, you see how these savages behave?
+
+NTV2_RBANT_1B_13 = ~z~I still have hope that we can come to an agreement.
+
+NTV2_RBANT_1CSHOUTED_2 = ~z~~sl:0.0:4.7~Ain't a problem. Just hope nobody recognizes me.~sl:0.3~I've had a few run-ins with the army recently.
+
+NTV2_RBANT_1CSHOUTED_6 = ~z~~sl:0.0:2.9~I just hope Colonel Favours can be reasoned with.~sl:0.5~I am not asking for very much.
+
+NTV2_RBANT_1CSHOUTED_7 = ~z~~sl:0.0:3.9~But when our people are sick and hungry and we find our medicine...~sl:~and supplies are being deliberately withheld,
+
+NTV2_RBANT_1CSHOUTED_8 = ~z~~sl:0.0:2.7~how can we not view that as something personal?~sl:0.5~When they destroy our sacred sites?
+
+NTV2_RBANT_1CSHOUTED_9 = ~z~~sl:0.0:3.7~How can I convince Eagle Flies and the others...~sl:~that they shouldn't fight back?
+
+NTV2_RBANT_1CSHOUTED_10 = ~z~~sl:0.0:2.8~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+NTV2_RBANT_1CSHOUTED_12 = ~z~~sl:0.0:3.9~Perhaps. Thank you for helping Captain Monroe...~sl:~to retrieve those vaccines, Arthur.
+
+NTV2_RBANT_1CSHOUTED_13 = ~z~~sl:0.0:2.4~He will be at the meeting and he is one person...~sl:~who knows the true situation, at least.
+
+NTV2_RBANT_1CSPOKEN_2 = ~z~~sl:0.0:4.2~Ain't a problem. Just hope nobody recognizes me.~sl:~I've had a few run-ins with the army recently.
+
+NTV2_RBANT_1CSPOKEN_6 = ~z~~sl:0.0:3.5~I just hope Colonel Favours can be reasoned with.~sl:0.3~I am not asking for very much.
+
+NTV2_RBANT_1CSPOKEN_7 = ~z~~sl:0.0:2.4~But when our people are sick and hungry...~sl:0.2~and we find our medicine and supplies are being deliberately withheld,
+
+NTV2_RBANT_1CSPOKEN_8 = ~z~~sl:0.0:2.4~how can we not view that as something personal?~sl:0.5~When they destroy our sacred sites?
+
+NTV2_RBANT_1CSPOKEN_9 = ~z~~sl:0.0:2.8~How can I convince Eagle Flies and the others that...~sl:~they shouldn't fight back?
+
+NTV2_RBANT_1CSPOKEN_10 = ~z~~sl:0.0:2.5~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+NTV2_RBANT_1CSPOKEN_12 = ~z~~sl:0.0:3.6~Perhaps. Thank you for helping Captain Monroe...~sl:~to retrieve those vaccines, Arthur.
+
+NTV2_RBANT_1CSPOKEN_13 = ~z~~sl:0.0:2.1~He will be at the meeting and is one person...~sl:~who knows the true situation, at least.
+
+NTV2_RBANT_1C_1 = ~z~Thank you for doing this, both of you. You have already done so much.
+
+NTV2_RBANT_1C_3 = ~z~I wish we could have done more to control the situation.
+
+NTV2_RBANT_1C_4 = ~z~Dutch should not have gotten involved.
+
+NTV2_RBANT_1C_5 = ~z~My son has a mind of his own... too much so, in fact.
+
+NTV2_RBANT_1C_11 = ~z~To be able to say, look, you see how these savages behave?
+
+NTV2_RBANT_1C_14 = ~z~I still have hope that we can come to an agreement.
+
+NTV2_RBANT_1DSHOUTED_2 = ~z~~sl:0.0:4.7~Ain't a problem. Just hope nobody recognizes me.~sl:0.3~I've had a few run-ins with the army recently.
+
+NTV2_RBANT_1DSHOUTED_4 = ~z~~sl:0.0:1.6~Dutch shouldn't have gotten involved,~sl:~and now Eagles Flies is under arrest.
+
+NTV2_RBANT_1DSHOUTED_7 = ~z~~sl:0.0:2.9~I just hope Colonel Favours can be reasoned with.~sl:0.5~I am not asking for very much.
+
+NTV2_RBANT_1DSHOUTED_8 = ~z~~sl:0.0:3.9~But when our people are sick and hungry and we find our medicine...~sl:~and supplies are being deliberately withheld,
+
+NTV2_RBANT_1DSHOUTED_9 = ~z~~sl:0.0:2.7~how can we not view that as something personal?~sl:0.5~When they destroy our sacred sites?
+
+NTV2_RBANT_1DSHOUTED_10 = ~z~~sl:0.0:3.7~How can I convince Eagle Flies and the others...~sl:~that they shouldn't fight back?
+
+NTV2_RBANT_1DSHOUTED_11 = ~z~~sl:0.0:2.8~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+NTV2_RBANT_1DSHOUTED_13 = ~z~~sl:0.0:3.9~Perhaps. Thank you for helping Captain Monroe...~sl:~to retrieve those vaccines, Arthur.
+
+NTV2_RBANT_1DSHOUTED_14 = ~z~~sl:0.0:2.4~He will be at the meeting and he is one person...~sl:~who knows the true situation, at least.
+
+NTV2_RBANT_1DSPOKEN_2 = ~z~~sl:0.0:4.2~Ain't a problem. Just hope nobody recognizes me.~sl:~I've had a few run-ins with the army recently.
+
+NTV2_RBANT_1DSPOKEN_4 = ~z~~sl:0.0:1.3~Dutch shouldn't have gotten involved,~sl:~and now Eagles Flies is under arrest.
+
+NTV2_RBANT_1DSPOKEN_7 = ~z~~sl:0.0:3.4~I just hope Colonel Favours can be reasoned with.~sl:0.4~I am not asking for very much.
+
+NTV2_RBANT_1DSPOKEN_8 = ~z~~sl:0.0:2.4~But when our people are sick and hungry...~sl:0.3~and we find our medicine and supplies are being deliberately withheld,
+
+NTV2_RBANT_1DSPOKEN_9 = ~z~~sl:0.0:2.4~how can we not view that as something personal?~sl:0.5~When they destroy our sacred sites?
+
+NTV2_RBANT_1DSPOKEN_10 = ~z~~sl:0.0:2.9~How can I convince Eagle Flies and the others that...~sl:~they shouldn't fight back?
+
+NTV2_RBANT_1DSPOKEN_11 = ~z~~sl:0.0:2.5~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+NTV2_RBANT_1DSPOKEN_13 = ~z~~sl:0.0:3.6~Perhaps. Thank you for helping Captain Monroe...~sl:~to retrieve those vaccines, Arthur.
+
+NTV2_RBANT_1DSPOKEN_14 = ~z~~sl:0.0:2.1~He will be at the meeting and is one person...~sl:~who knows the true situation, at least.
+
+NTV2_RBANT_1D_1 = ~z~Thank you for doing this, both of you. You have already done so much.
+
+NTV2_RBANT_1D_3 = ~z~I wish we could have done more to control the situation.
+
+NTV2_RBANT_1D_5 = ~z~It certainly won't help our case today.
+
+NTV2_RBANT_1D_6 = ~z~I will find a way to help him, I promise you.
+
+NTV2_RBANT_1D_12 = ~z~To be able to say, look, you see how these savages behave?
+
+NTV2_RBANT_1D_15 = ~z~I still have hope that we can come to an agreement.
+
+NTV2_RBANT_1ESHOUTED_2 = ~z~~sl:0.0:4.7~Ain't a problem. Just hope nobody recognizes me.~sl:0.3~I've had a few run-ins with the army recently.
+
+NTV2_RBANT_1ESHOUTED_4 = ~z~~sl:0.0:1.6~Dutch shouldn't have gotten involved,~sl:~and now Eagles Flies is under arrest.
+
+NTV2_RBANT_1ESHOUTED_7 = ~z~~sl:0.0:2.9~I just hope Colonel Favours can be reasoned with.~sl:0.5~I am not asking for very much.
+
+NTV2_RBANT_1ESHOUTED_8 = ~z~~sl:0.0:3.9~But when our people are sick and hungry and we find our medicine...~sl:~and supplies are being deliberately withheld,
+
+NTV2_RBANT_1ESHOUTED_9 = ~z~~sl:0.0:2.7~how can we not view that as something personal?~sl:0.5~When they destroy our sacred sites?
+
+NTV2_RBANT_1ESHOUTED_10 = ~z~~sl:0.0:3.7~How can I convince Eagle Flies and the others...~sl:~that they shouldn't fight back?
+
+NTV2_RBANT_1ESHOUTED_11 = ~z~~sl:0.0:2.8~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+NTV2_RBANT_1ESHOUTED_13 = ~z~~sl:0.0:4.3~Perhaps. Captain Monroe will be at the meeting...~sl:~and he knows the true situation, at least.
+
+NTV2_RBANT_1ESPOKEN_2 = ~z~~sl:0.0:4.2~Ain't a problem. Just hope nobody recognizes me.~sl:~I've had a few run-ins with the army recently.
+
+NTV2_RBANT_1ESPOKEN_4 = ~z~~sl:0.0:1.3~Dutch shouldn't have gotten involved,~sl:~and now Eagles Flies is under arrest.
+
+NTV2_RBANT_1ESPOKEN_7 = ~z~~sl:0.0:3.4~I just hope Colonel Favours can be reasoned with.~sl:0.4~I am not asking for very much.
+
+NTV2_RBANT_1ESPOKEN_8 = ~z~~sl:0.0:2.4~But when our people are sick and hungry...~sl:0.3~and we find our medicine and supplies are being... deliberately withheld,
+
+NTV2_RBANT_1ESPOKEN_9 = ~z~~sl:0.0:2.4~how can we not view that as something personal?~sl:0.5~When they destroy our sacred sites?
+
+NTV2_RBANT_1ESPOKEN_10 = ~z~~sl:0.0:2.9~How can I convince Eagle Flies and the others that...~sl:~they shouldn't fight back?
+
+NTV2_RBANT_1ESPOKEN_11 = ~z~~sl:0.0:2.5~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+NTV2_RBANT_1ESPOKEN_13 = ~z~~sl:0.0:4.4~Perhaps. Captain Monroe will be at the meeting...~sl:~and he knows the true situation, at least.
+
+NTV2_RBANT_1E_1 = ~z~Thank you for doing this, both of you. You have already done so much.
+
+NTV2_RBANT_1E_3 = ~z~I wish we could have done more to control the situation.
+
+NTV2_RBANT_1E_5 = ~z~It certainly won't help our case today.
+
+NTV2_RBANT_1E_6 = ~z~I will find a way to help him, I promise you.
+
+NTV2_RBANT_1E_12 = ~z~To be able to say, look, you see how these savages behave?
+
+NTV2_RBANT_1E_14 = ~z~I still have hope that we can come to... an agreement.
+
+NTV2_RBANT_1FSHOUTED_2 = ~z~~sl:0.0:4.7~Ain't a problem. Just hope nobody recognizes me.~sl:0.3~I've had a few run-ins with the army recently.
+
+NTV2_RBANT_1FSHOUTED_4 = ~z~~sl:0.0:1.6~Dutch shouldn't have gotten involved,~sl:~and now Eagles Flies is under arrest.
+
+NTV2_RBANT_1FSHOUTED_7 = ~z~~sl:0.0:2.9~I just hope Colonel Favours can be reasoned with.~sl:0.5~I am not asking for very much.
+
+NTV2_RBANT_1FSHOUTED_8 = ~z~~sl:0.0:3.9~But when our people are sick and hungry and we find our medicine...~sl:~and supplies are being deliberately withheld,
+
+NTV2_RBANT_1FSHOUTED_10 = ~z~~sl:0.0:3.2~How can I convince Eagle Flies and the others that they...~sl:0.1~shouldn't fight back?
+
+NTV2_RBANT_1FSHOUTED_11 = ~z~~sl:0.0:2.8~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+NTV2_RBANT_1FSHOUTED_13 = ~z~~sl:0.0:4.4~Perhaps. There's an army captain, Lyndon Monroe,~sl:~who was seconded here from a regiment in the North.
+
+NTV2_RBANT_1FSPOKEN_2 = ~z~~sl:0.0:4.2~Ain't a problem. Just hope nobody recognizes me.~sl:~I've had a few run-ins with the army recently.
+
+NTV2_RBANT_1FSPOKEN_4 = ~z~~sl:0.0:1.3~Dutch shouldn't have gotten involved,~sl:~and now Eagles Flies is under arrest.
+
+NTV2_RBANT_1FSPOKEN_7 = ~z~~sl:0.0:2.7~I just hope Colonel Favours can be reasoned with.~sl:0.6~I am not asking for very much.
+
+NTV2_RBANT_1FSPOKEN_8 = ~z~~sl:0.0:2.4~But when our people are sick and hungry...~sl:0.3~and we find our medicine and supplies are being deliberately withheld,
+
+NTV2_RBANT_1FSPOKEN_10 = ~z~~sl:0.0:2.5~How can I convince Eagle Flies and the others that...~sl:~they shouldn't fight back?
+
+NTV2_RBANT_1FSPOKEN_11 = ~z~~sl:0.0:2.5~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+NTV2_RBANT_1FSPOKEN_13 = ~z~~sl:0.0:5.3~Perhaps. There's an army captain, Lyndon Monroe,~sl:~who was seconded here from a regiment in the North.
+
+NTV2_RBANT_1F_1 = ~z~Thank you for doing this, both of you.
+
+NTV2_RBANT_1F_3 = ~z~I wish we could have done more to control the situation.
+
+NTV2_RBANT_1F_5 = ~z~It certainly won't help our case today.
+
+NTV2_RBANT_1F_6 = ~z~I will find a way to help him, I promise you.
+
+NTV2_RBANT_1F_9 = ~z~how can we not view that as something personal?
+
+NTV2_RBANT_1F_12 = ~z~To be able to say, look, you see how these savages behave?
+
+NTV2_RBANT_1F_14 = ~z~Sent by Washington, apparently.
+
+NTV2_RBANT_1F_15 = ~z~A good man. He'll be at the meeting and he knows the true situation.
+
+NTV2_RBANT_1F_16 = ~z~I still have hope that we can come to an agreement.
+
+NTV2_RUN_01 = ~z~This way!
+
+NTV2_RUN_02 = ~z~Follow me!
+
+NTV2_RUN_03 = ~z~Out this way! Come on!
+
+NTV2_SHT_BHND_1 = ~z~Behind us!
+
+NTV2_SHT_CHCM_1 = ~z~Come on! Follow me!
+
+NTV2_SHT_CMBK_01 = ~z~Arthur! Stay with Monroe!
+
+NTV2_SHT_CMBK_02 = ~z~Don't leave Monroe!
+
+NTV2_SHT_CMBK_03 = ~z~Arthur! Get back to Monroe!
+
+NTV2_SHT_CVRG_01 = ~z~Arthur, get over here!
+
+NTV2_SHT_CVRG_02 = ~z~Over here, Arthur! Don't get split up!
+
+NTV2_SHT_CVRG_03 = ~z~Let's stay together, Arthur!
+
+NTV2_SHT_LEAV_1 = ~z~Okay, it's now or never!
+
+NTV2_SHT_LEAV_2 = ~z~Let's go! Captain Monroe, you're with me!
+
+NTV2_SHT_MID_1 = ~z~More of them!
+
+NTV2_SHT_MID_2 = ~z~Just hold!
+
+NTV2_SHT_MMNT_1 = ~z~Hop on, Captain. We sure as hell don't want to hang around here.
+
+NTV2_SHT_MMV_1 = ~z~Come on, Captain! Can you shoot?
+
+NTV2_SHT_MMV_2 = ~z~I can't do it!
+
+NTV2_SHT_MMV_3 = ~z~They're trying to kill you!
+
+NTV2_SHT_MMV_4 = ~z~I swore an oath!
+
+NTV2_SHT_MNRH_1 = ~z~Damn it, more on the left! Head for the trees, we're penned in!
+
+NTV2_SHT_MNRH_2 = ~z~Go! Find some cover and protect Monroe.
+
+NTV2_SHT_PLAN_1 = ~z~What's our plan here?
+
+NTV2_SHT_PLAN_2 = ~z~Find a lull, then make for the valley!
+
+NTV2_THISWAY_1 = ~z~This way.
+
+NTV2_TOHRS_1 = ~z~This way. I also have some men meeting me there.
+
+NTV2_TOHRS_2 = ~z~I wasn't sure if you'd be able to help.
+
+NTV2_TREES_1 = ~z~Come on!
+

@@ -1,0 +1,84 @@
+0x54C47802 = ~1~/~2~ supplies survived
+
+FETCH_DESTROY_CRATES_GO_TO = Go ~1~
+
+FETCH_DESTROY_CRATES_HELP_INTRO = Destroy the supplies within the time limit to earn the full reward.
+
+FETCH_DESTROY_CRATES_HELP_INTRO_PLURAL = Destroy the supplies within the time limit to earn the full reward.
+
+FETCH_DESTROY_CRATES_HELP_OBJECTIVE_DESTROY_APPROACH = The supplies ~1b~ can be destroyed by shooting them or using explosives.
+
+FETCH_DESTROY_DELIVER_TEAM_PRIMARY_PASS = ~1~ destroyed some supplies
+
+FETCH_DESTROY_DELIVER_TEAM_PRIMARY_PASS_NP = Some supplies were destroyed
+
+FETCH_DESTROY_DELIVER_TEAM_PRIMARY_PASS_YOU = You destroyed some supplies
+
+FETCH_DESTROY_DELIVER_TEAM_PRIMARY_PASS_YOUR = Your Posse destroyed some supplies
+
+FETCH_DESTROY_DELIVER_TEAM_SECONDARY_PASS = A supply wagon safely reached its destination
+
+FETCH_DESTROY_JOIN_TEAM_SECONDARY_WAGON = ~1~ are defending the supplies
+
+FETCH_DESTROY_JOIN_TEAM_SECONDARY_WAGON_PLURAL = ~1~ are defending the supplies
+
+FETCH_DESTROY_OBJ_DESTROY_CRATE = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~supplies
+
+FETCH_DESTROY_OBJ_DESTROY_CRATE_PLURAL = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~supplies
+
+FETCH_DESTROY_OBJ_DESTROY_WAGON = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~supplies
+
+FETCH_DESTROY_OBJ_DESTROY_WAGON_PLURAL = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~supplies
+
+FETCH_DESTROY_OBJ_KILL_ATTACKERS_REMAINING = Take out the remaining ~COLOR_ENEMY~enemies~s~
+
+FETCH_DESTROY_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Rival players~s~ can now defend the supplies
+
+FETCH_DESTROY_PVP_GLOBAL_SIGNAL_PLURAL = ~COLOR_ENEMY~Rival players~s~ can now defend the supplies
+
+FETCH_DESTROY_SHARD_CRATES_DESC = Destroy the ~COLOR_ENEMY~supplies
+
+FETCH_DESTROY_SHARD_CRATES_DESC_PLURAL = Destroy the ~COLOR_ENEMY~supplies
+
+FETCH_DESTROY_SHARD_CRATES_OVER = Failed to destroy the supplies
+
+FETCH_DESTROY_SHARD_CRATES_OVER_PLURAL = Failed to destroy the supplies
+
+FETCH_DESTROY_SHARD_CRATES_PRIMARY_PASS = The supplies were destroyed
+
+FETCH_DESTROY_SHARD_CRATES_PRIMARY_PASS_PARTIAL = ~1~/~2~ supplies were destroyed
+
+FETCH_DESTROY_SHARD_CRATES_PRIMARY_PASS_PLURAL = The supplies were destroyed
+
+FETCH_DESTROY_SHARD_WAGONS_DESC = Destroy the ~COLOR_ENEMY~supplies
+
+FETCH_DESTROY_SHARD_WAGONS_DESC_PLURAL = Destroy the ~COLOR_ENEMY~supplies
+
+FETCH_DESTROY_SHARD_WAGONS_DRIVE_TO_GENERAL = The supplies weren't destroyed in time
+
+FETCH_DESTROY_SHARD_WAGONS_DRIVE_TO_GENERAL_PLURAL = The supplies weren't destroyed in time
+
+FETCH_DESTROY_SHARD_WAGONS_SECONDARY_DESC = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies
+
+FETCH_DESTROY_SHARD_WAGONS_SECONDARY_DESC_PLURAL = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies
+
+FETCH_DESTROY_SHARD_WAGON_OVER = The supplies were lost
+
+FETCH_DESTROY_SHARD_WAGON_OVER_PLURAL = The supplies were lost
+
+FETCH_DESTROY_SHARD_WAGON_PRIMARY_FAIL = The supplies were not destroyed
+
+FETCH_DESTROY_SHARD_WAGON_PRIMARY_PASS = The supplies were destroyed
+
+FETCH_DESTROY_SHARD_WAGON_PRIMARY_PASS_PARTIAL = ~1~/~2~ supplies were destroyed
+
+FETCH_DESTROY_SHARD_WAGON_PRIMARY_PASS_PLURAL = The supplies were destroyed
+
+FETCH_DESTROY_WAGON_HELP_HOLSTER = Holster your weapon to enable stopping the wagon.
+
+FETCH_DESTROY_WAGON_HELP_INTRO = Destroy the supplies ~1b~ within the time limit to earn the full reward.
+
+FETCH_DESTROY_WAGON_HELP_INTRO_PLURAL = Destroy the supplies ~1b~ within the time limit to earn the full reward.
+
+FETCH_DESTROY_WAGON_HELP_OBJECTIVE_DESTROY_APPROACH = The supplies ~1b~ in the back of the wagon can be destroyed by shooting the individual crates or using explosives.
+

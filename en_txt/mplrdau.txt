@@ -1,0 +1,40 @@
+MPLRD_AIM_01 = ~z~Damn you!
+
+MPLRD_AIM_02 = ~z~Shit! I knew it!
+
+MPLRD_AIM_03 = ~z~Least I'll die free!
+
+MPLRD_AIM_04 = ~z~Do it then you piece of shit!
+
+MPLRD_ALONE_01 = ~z~~sl:0.0:1.2~Who sent you, huh?~sl:0.7:1.2~Government?~sl:0.9~They gonna be pleased...
+
+MPLRD_ALONE_02 = ~z~That's a damn fine regiment you put in the dirt, landgrabber.
+
+MPLRD_ALONE_03 = ~z~~sl:0.0:3.2~Powers That Be can't abide free men...~sl:0.6~how's it feel doing their dirty work?
+
+MPLRD_ALONE_04 = ~z~~sl:0.0:2.0~Least those men died free,~sl:0.8~more than you'll ever do.
+
+MPLRD_COWER_01 = ~z~Simple choice...
+
+MPLRD_COWER_02 = ~z~Well? You gonna let me walk?
+
+MPLRD_COWER_03 = ~z~If you're gonna do it, make it quick.
+
+MPLRD_COWER_04 = ~z~I know the cold blood type, and you ain't it.
+
+MPLRD_PLEAD_01 = ~z~I ain't begging to no traitor. Set me free or don't.
+
+MPLRD_PLEAD_02 = ~z~~sl:0.0:1.7~Can't kill the cause.~sl:1.0~But you gonna kill me?
+
+MPLRD_PLEAD_03 = ~z~So, they teach you about mercy wherever the hell you're from?
+
+MPLRD_PLEAD_04 = ~z~~sl:0.0:1.5~I won't be no prisoner...~sl:~set me free alive or dead, you choose.
+
+MPLRD_SPARED_01 = ~z~More honor than I expected.
+
+MPLRD_SPARED_02 = ~z~I won't change just 'cause you spared me.
+
+MPLRD_SPARED_03 = ~z~If we meet again, I won't shoot first.
+
+MPLRD_SPARED_04 = ~z~Hope you get the same mercy when it's your time.
+

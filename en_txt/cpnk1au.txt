@@ -1,0 +1,48 @@
+CPNK1_ACT_1 = ~z~I ain't got no father;
+
+CPNK1_ACT_2 = ~z~I ain't got no father;
+
+CPNK1_ACT_3 = ~z~I ain't got no father;
+
+CPNK1_ACT_4 = ~z~To buy the clothes I wear.
+
+CPNK1_ACT_5 = ~z~I'm a poor lonesome cowboy;
+
+CPNK1_ACT_6 = ~z~Poor lonesome cowboy;
+
+CPNK1_ACT_7 = ~z~I'm a poor lonesome cowboy;
+
+CPNK1_ACT_8 = ~z~Long way from home.
+
+CPNK1_ACT_9 = ~z~I ain't got no mother;
+
+CPNK1_ACT_10 = ~z~I ain't got no mother;
+
+CPNK1_ACT_11 = ~z~I ain't got no mother;
+
+CPNK1_ACT_12 = ~z~To mend the clothes I wear.
+
+CPNK1_ACT_13 = ~z~I'm a poor lonesome cowboy;
+
+CPNK1_ACT_14 = ~z~Poor lonesome cowboy;
+
+CPNK1_ACT_15 = ~z~Poor lonesome cowboy;
+
+CPNK1_ACT_16 = ~z~And a long ways from home.
+
+CPNK1_ACT_17 = ~z~I ain't got no brother;
+
+CPNK1_ACT_18 = ~z~I ain't got no brother;
+
+CPNK1_ACT_19 = ~z~I ain't got no brother;
+
+CPNK1_ACT_20 = ~z~To drive the steers with me.
+
+CPNK1_ACT_21 = ~z~I'm a poor lonesome cowboy;
+
+CPNK1_ACT_22 = ~z~Poor lonesome cowboy;
+
+CPNK1_ACT_23 = ~z~Poor lonesome cowboy;
+
+CPNK1_ACT_24 = ~z~And a long ways from home.
+

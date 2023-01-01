@@ -1,0 +1,356 @@
+ACFGE_GUNREACT_1 = ~z~Aw, hell fire.
+
+ACFGE_LAWAIM_1 = ~z~Please... you're no better than them lot.
+
+ACFGE_LAWHELP1_1 = ~z~I'm an officer of the law, and I been detained.
+
+ACFGE_LAWHELP2_1 = ~z~Stranger, you are obliged to liberate me.
+
+EXC_BOAGGRO1A_1 = ~z~You know what, boys? Shoot him!
+
+EXC_BOCAPARV1A_1 = ~z~Someone's coming to free him, that will not happen!
+
+EXC_BOCAPARV1B_1 = ~z~We got company... keep the idiot secure!
+
+EXC_BOCAPPROT1A_1 = ~z~The official's our leverage. We can't lose him!
+
+EXC_BOCAPPROT1B_1 = ~z~Someone's here for the officer! Don't let him have him!
+
+EXC_BOCAPPROT1C_1 = ~z~We got company... keep the lawman secure!
+
+EXC_BOCAPPROT1D_1 = ~z~He can't get his claws on this idiot!
+
+EXC_BOPFLEED1A_1 = ~z~Leave 'em for now. We'll take that bastard and all of Dutch's people soon enough.
+
+EXC_BORTRN1A_1 = ~z~Look who came back, take him, men!
+
+EXC_BORTRN1B_1 = ~z~The agitator's back, give him what for!
+
+EXC_GACLEARJ_01 = ~z~Peace and quiet.
+
+EXC_GACLEARJ_02 = ~z~Ya'll just so ornery.
+
+EXC_GACLEAR_01 = ~z~Peace and quiet.
+
+EXC_GACLEAR_02 = ~z~Ya'll just so ornery.
+
+EXC_ILO_CACALJ_01 = ~z~I might have got here just in time!
+
+EXC_ILO_CACALJ_02 = ~z~Fellers, this little party's over.
+
+EXC_ILO_CACAL_01 = ~z~I might have got here just in time!
+
+EXC_ILO_CACAL_02 = ~z~Fellers, this little party's over.
+
+EXC_ILO_CAGRTJ_01 = ~z~What you doing with this gentleman?
+
+EXC_ILO_CAGRTJ_02 = ~z~This feller being held against his will?
+
+EXC_ILO_CAGRT_01 = ~z~What you doing with this gentleman?
+
+EXC_ILO_CAGRT_02 = ~z~This feller being held against his will?
+
+EXC_ILO_GAANTJ_01 = ~z~Or maybe we all have a little tussle.
+
+EXC_ILO_GAANTJ_02 = ~z~Or how about you just shut the hell up?
+
+EXC_ILO_GAANT_01 = ~z~Or maybe we all have a little tussle.
+
+EXC_ILO_GAANT_02 = ~z~Or how about you just shut the hell up?
+
+EXC_ILO_GACALJ_01 = ~z~Fancy seeing so many fools round one campfire?
+
+EXC_ILO_GACALJ_02 = ~z~Circling your wagons ain't gonna help you boys.
+
+EXC_ILO_GACAL_01 = ~z~Fancy seeing so many fools round one campfire?
+
+EXC_ILO_GACAL_02 = ~z~Circling your wagons ain't gonna help you boys.
+
+EXC_ILO_GADEFJ_01 = ~z~Glad you put me right. I'll go.
+
+EXC_ILO_GADEFJ_02 = ~z~Gotcha. So, I'll just... go then?
+
+EXC_ILO_GADEF_01 = ~z~Glad you put me right. I'll go.
+
+EXC_ILO_GADEF_02 = ~z~Gotcha. So, I'll just... go then?
+
+EXC_ILO_GAGRTJ_01 = ~z~This a friendly camp? You look friendly!
+
+EXC_ILO_GAGRTJ_02 = ~z~Howdy folks, you all circled your wagons here?
+
+EXC_ILO_GAGRT_01 = ~z~This a friendly camp? You look friendly!
+
+EXC_ILO_GAGRT_02 = ~z~Howdy folks, you all circled your wagons here?
+
+EXC_ILO_WAANTJ_01 = ~z~You know what, maybe you should go.
+
+EXC_ILO_WAANTJ_02 = ~z~It's a free country, ain't it? I could stay right here!
+
+EXC_ILO_WAANT_01 = ~z~You know what, maybe you should go.
+
+EXC_ILO_WAANT_02 = ~z~It's a free country, ain't it? I could stay right here!
+
+EXC_ILO_WACALJ_01 = ~z~This old man trying to bore you all to death?
+
+EXC_ILO_WACALJ_02 = ~z~Enough of your old stories, you idiots.
+
+EXC_ILO_WACAL_01 = ~z~This old man trying to bore you all to death?
+
+EXC_ILO_WACAL_02 = ~z~Enough of your old stories, you idiots.
+
+EXC_ILO_WADEFJ_01 = ~z~Come on, don't get testy. I'll go.
+
+EXC_ILO_WADEFJ_02 = ~z~Okay, I'll leave you all too it, huh?
+
+EXC_ILO_WADEF_01 = ~z~Come on, don't get testy. I'll go.
+
+EXC_ILO_WADEF_02 = ~z~Okay, I'll leave you all too it, huh?
+
+EXC_ILO_WAGRTJ_01 = ~z~Hey there, I like a story.
+
+EXC_ILO_WAGRTJ_02 = ~z~What's this, huh? Story time?
+
+EXC_ILO_WAGRT_01 = ~z~Hey there, I like a story.
+
+EXC_ILO_WAGRT_02 = ~z~What's this, huh? Story time?
+
+EXC_KILL1_0_1 = ~z~~sl:1.8:2.8~You made a mistake taking me, but it ain't too late.~sl:0.4:2.3~Lemme go and there's no bad blood.
+
+EXC_KILL1_0_2 = ~z~~sl:1.6:1.9~No bad blood?~sl:3.0~There's more than forty years of bad blood between you and us.
+
+EXC_KILL1_0_3 = ~z~
+
+EXC_KILL1_0_4 = ~z~~sl:0.0:1.1~Maybe more.~sl:2.8:1.4:1~What are we gonna do with him?
+
+EXC_KILL1_0_5 = ~z~Leave him alone... for now. He's worth more when he's breathing.
+
+EXC_KILL1_0_6 = ~z~~sl:3.3:2.9:1~You're a disgrace to Lemoyne... the lot of ya.
+
+EXC_KILL1_0_7 = ~z~~sl:1.2:1.7~I don't care what he's worth.~sl:0.5~You don't disrespect the cause like that.
+
+EXC_KILL1_0_8 = ~z~You young'uns sure get fired up and stupid, don't you?
+
+EXC_KILL1_0_9 = ~z~He disrespected the cause...
+
+EXC_KILL1_0_10 = ~z~
+
+EXC_KNOCK1_0_1 = ~z~You got the wrong feller. I ain't political.
+
+EXC_KNOCK1_0_2 = ~z~If you wasn't political, you wouldn't be no federal tax collector.
+
+EXC_KNOCK1_0_3 = ~z~I ain't federal! It's a state poll tax.
+
+EXC_KNOCK1_0_4 = ~z~But y'all won't take the time to learn the difference.
+
+EXC_KNOCK1_0_5 = ~z~
+
+EXC_KNOCK1_0_6 = ~z~
+
+EXC_KNOCK1_0_7 = ~z~I ain't goin' listen to your lies.
+
+EXC_KNOCK1_0_8 = ~z~
+
+EXC_KNOCK1_0_9 = ~z~Damn collaborator.
+
+EXC_KNOCK1_0_10 = ~z~
+
+EXC_RESPA_CL_AJ_01 = ~z~Well... guess I'm one of the good guys.
+
+EXC_RESPA_CL_AJ_02 = ~z~Might just be a hero, me.
+
+EXC_RESPA_CL_A_01 = ~z~Well... guess I'm one of the good guys.
+
+EXC_RESPA_CL_A_02 = ~z~Might just be a hero, me.
+
+EXC_RESPA_CL_DJ_01 = ~z~What kind of sorry business was this?
+
+EXC_RESPA_CL_DJ_02 = ~z~These fellers... just don't know when to stop.
+
+EXC_RESPA_CL_D_01 = ~z~What kind of sorry business was this?
+
+EXC_RESPA_CL_D_02 = ~z~These fellers... just don't know when to stop.
+
+EXC_STORY_A_1 = ~z~What the hell's wrong with you all? You've hardly said a word.
+
+EXC_STORY_A_2 = ~z~Just feels like we ain't getting nowhere.
+
+EXC_STORY_A_3 = ~z~It's the end of the century and it seems like we ain't much further on than we was in '65.
+
+EXC_STORY_A_4 = ~z~Yeah, maybe, maybe not.
+
+EXC_STORY_A_5 = ~z~We can still live free. We can still say we don't recognize you or answer to your laws.
+
+EXC_STORY_A_6 = ~z~It's better to be one man living the truth than a million living a lie.
+
+EXC_STORY_B_1 = ~z~Let me tell you something.
+
+EXC_STORY_B_2 = ~z~Now, you all know that most of us old-timers fought alongside each other? 3rd Lemoyne Regiment.
+
+EXC_STORY_B_3 = ~z~It was the summer of '62... we was hunkered down by Copperhead Landing for weeks.
+
+EXC_STORY_C_1 = ~z~It was a terrible time, it was terrible.
+
+EXC_STORY_C_2 = ~z~Food was rotten... humidity was unbearable, nothing we had ever got dry.
+
+EXC_STORY_C_3 = ~z~But we knew... that sooner or later, the enemy...
+
+EXC_STORY_C_4 = ~z~would be coming down the Lannahechee if they wanted to take Saint Denis.
+
+EXC_STORY_D_1 = ~z~And, sure enough... one morning we woke to the distant sound...
+
+EXC_STORY_D_2 = ~z~The boom of a canon.
+
+EXC_STORY_D_3 = ~z~And next thing you know... there's grenades raining down on us, modified artillery shells, leave a man with the most horrific wounds.
+
+EXC_STORY_D_4 = ~z~It's like nothing you ever seen.
+
+EXC_STORY_D_5 = ~z~And then I get blown up into the air, and I'm as high as a house... and then everything goes black.
+
+EXC_STORY_D_6 = ~z~Then I come to, in a cloud of smoke...
+
+EXC_STORY_D_7 = ~z~I think, I must be at the gates of hell.
+
+EXC_STORY_E_1 = ~z~And then it clears...
+
+EXC_STORY_E_2 = ~z~and I see a swarm of them damn blue-bellies not twenty feet from me.
+
+EXC_STORY_E_3 = ~z~And I ain't got no rifle, I ain't got no gun, ain't got no nothing.
+
+EXC_STORY_E_4 = ~z~So I just turn and I run at 'em, and they raise their rifles and they fire, but it don't make no sound.
+
+EXC_STORY_E_5 = ~z~Their powder was too damp!
+
+EXC_STORY_E_6 = ~z~So I get in there, and I take 'em with my fists one by one, until I know they're dead.
+
+EXC_STORY_E_7 = ~z~And I just walk out of there, as calm as the night.
+
+EXC_STORY_E_8 = ~z~Something's only lost if you let it be.
+
+EXC_STORY_E_9 = ~z~And as far as I can tell, you're all still breathing. Even though you're a bunch of lifeless saps.
+
+EXC_STORY_E_10 = ~z~So buck the hell up!
+
+EXC_STORY_E_11 = ~z~You hear me?
+
+EXC_VL_AGG_1 = ~z~You too, is it?
+
+EXC_VL_AIM_1 = ~z~Don't.
+
+EXC_VL_AIM_2 = ~z~If you do that, you're no better than them lot.
+
+EXC_VL_AMBIENT_01 = ~z~Untie me. And be quick.
+
+EXC_VL_AMBIENT_02 = ~z~What are you waiting for? Cut me free.
+
+EXC_VL_AMBIENT_03 = ~z~Stop with that and help me.
+
+EXC_VL_AMBIENT_04 = ~z~Sir. Sir.
+
+EXC_VL_ARESP_1 = ~z~I ain't in no kind of mood.
+
+EXC_VL_GIVEUP_1 = ~z~I'm going to get out of this, and when I do you'll have something to answer for, mister.
+
+EXC_VL_HELP1_01 = ~z~Over here!
+
+EXC_VL_HELP1_02 = ~z~I'm a policeman!
+
+EXC_VL_HELP1_03 = ~z~They got me tied up!
+
+EXC_VL_HELP1_04 = ~z~Officer in need of help!
+
+EXC_VL_HELP3_1 = ~z~Sir. It is your duty to free me.
+
+EXC_VL_QRESP_1 = ~z~Look. Them Raiders blindsided me. Tied me up for some kind of ransom I suppose.
+
+EXC_VL_QRESP_2 = ~z~Guess that was paid though, wasn't it? Now, come on.
+
+EXC_VL_RESPA2J_01 = ~z~Get outta here before any more of them come along.
+
+EXC_VL_RESPA2_01 = ~z~Get outta here before any more of them come along.
+
+EXC_VL_RESPA3J_01 = ~z~You ain't home and dry yet. Run along!
+
+EXC_VL_RESPA3_01 = ~z~You ain't home and dry yet. Run along!
+
+EXC_VL_RESPAJ_01 = ~z~There ya go.
+
+EXC_VL_RESPA_01 = ~z~There ya go.
+
+EXC_VL_THANKA2_1 = ~z~At last. Thank you.
+
+EXC_VL_THANKA_1 = ~z~Thank you. Goddamn these bastards.
+
+EXC_VL_THANKBA_1 = ~z~Okay. You are welcome to those things you took.
+
+EXC_VL_THANKB_1 = ~z~Okay. There might be some things here if you want them.
+
+EXC_VL_THANKC_1 = ~z~Thanks again, citizen.
+
+EXC_VO_AGG_1 = ~z~Not you too.
+
+EXC_VO_AIM_1 = ~z~Please.
+
+EXC_VO_AIM_2 = ~z~I haven't done anything to anybody.
+
+EXC_VO_AIM_3 = ~z~This is all just a big misunderstanding.
+
+EXC_VO_AMBIENT_01 = ~z~Would you kindly just untie me?
+
+EXC_VO_AMBIENT_02 = ~z~Please, come. Help me!
+
+EXC_VO_AMBIENT_03 = ~z~Sir... free me. Please.
+
+EXC_VO_ARESP_1 = ~z~I just want to go home, okay?
+
+EXC_VO_FREEME_1 = ~z~Who's there? You gotta help me.
+
+EXC_VO_GIVEUP_1 = ~z~I don't want to die like this. Why won't anyone help me?
+
+EXC_VO_HELP1_01 = ~z~Mister. Help me!
+
+EXC_VO_HELP1_02 = ~z~They got me tied up here!
+
+EXC_VO_HELP1_03 = ~z~They got a captive!
+
+EXC_VO_HELP1_04 = ~z~I'm a prisoner of these men!
+
+EXC_VO_HELP2_1 = ~z~Please! Cut me loose!
+
+EXC_VO_HELP3_1 = ~z~Come on. Let me outta this.
+
+EXC_VO_QRESP_1 = ~z~They came out of nowhere, okay. Next thing I was regaining my facilities... tied up here.
+
+EXC_VO_QRESP_2 = ~z~Please. Cut me free.
+
+EXC_VO_RESPAJ_1 = ~z~You're free, my friend.
+
+EXC_VO_RESPA_1 = ~z~You're free, my friend.
+
+EXC_VO_THANKA2_1 = ~z~Oh dear Lord. Thank God for this.
+
+EXC_VO_THANKA_1 = ~z~You have no idea how thankful I am.
+
+EXC_VO_THANKBA_1 = ~z~I know. I think you have my things already. Keep them, sir, they're yours.
+
+EXC_VO_THANKB_1 = ~z~I know. I think they hid my things in one of those boxes. Sir, they're yours.
+
+EXC_VO_THANKC_1 = ~z~Good luck to you.
+
+EXC_VO_WAKE_1 = ~z~What's going on?
+
+EXC_WACLEARJ_01 = ~z~No war stories for you fellers.
+
+EXC_WACLEARJ_02 = ~z~Ain't goin' live to tell this tale.
+
+EXC_WACLEAR_01 = ~z~No war stories for you fellers.
+
+EXC_WACLEAR_02 = ~z~Ain't goin' live to tell this tale.
+
+EXC_WARN_P1_A_1 = ~z~Someone's coming. Hey, I see you there. Turn on your heels, son.
+
+EXC_WARN_P1_B_1 = ~z~You stick around much longer you going be buried here. Go on!
+
+EXC_WARN_P1_C_1 = ~z~All right. Fire on him, boys.
+
+EXC_WARN_P2_1 = ~z~Off he goes. Stand down, men.
+

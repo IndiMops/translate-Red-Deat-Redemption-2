@@ -1,0 +1,4 @@
+0x19F7EF3D = Talk
+
+JB1_UC_GIVE = Give ~1$~
+

@@ -1,0 +1,262 @@
+RBT22_ALERT1_1 = ~z~Get that bastard!
+
+RBT22_ALERT2_1 = ~z~Finish him now.
+
+RBT22_ALLDEAD_J_1 = ~z~~sl:1.0~Guess none of you's telling me where Arroyo is.
+
+RBT22_BAN3_WARN_1 = ~z~Arroyo! Arroyo! Run!
+
+RBT22_BARN1_1 = ~z~We can't kill the kid. Joaquin vouched for him.
+
+RBT22_BARN1_2 = ~z~If Joaquin Arroyo was here. He'd use his own knife on the little squeaker.
+
+RBT22_BARN1_3 = ~z~Dios mio. Dios mio. Dios mio.
+
+RBT22_BARN1_4 = ~z~He ain't one of us, we have a train to rob. We kill him, bleed him, here!
+
+RBT22_BARN1_5 = ~z~I ain't about to get killed just because you second guessed someone wrong.
+
+RBT22_BARN1_6 = ~z~No? You're about to get killed cause you don't got cojones.
+
+RBT22_BARN1_7 = ~z~Think about this. Let's think about it. He ain't going nowhere. Joaquin can decide.
+
+RBT22_BARN1_8 = ~z~
+
+RBT22_BARN1_9 = ~z~
+
+RBT22_BARN1_10 = ~t~In Spanish: No! My God. My God, I'm sorry.
+
+RBT22_BARN1_11 = ~z~
+
+RBT22_BARNQJ_1 = ~z~I'm looking for Joaquin Arroyo... he here?
+
+RBT22_BARNTJ_1 = ~z~Where's Joaquin Arroyo? I ain't asking you twice.
+
+RBT22_BSPOTJ_1 = ~z~You're bandits... but which one of you's mine?
+
+RBT22_CAUGHTJ_1 = ~z~Arroyo, someone wants to have a talk with you.
+
+RBT22_CELL1NEGJ_1 = ~z~I expected to find you in a box, feller. Ain't you talked yet?
+
+RBT22_CELL1NEGJ_2 = ~z~I said I'd talk to your sister. But all she wanted to do was screw.
+
+RBT22_CELL1NEGJ_3 = ~z~I'll be sad when you're dead, you're real charming.
+
+RBT22_CELL1POSJ_1 = ~z~Now, have you talked to the sheriff? Like a good little boy?
+
+RBT22_CELL1POSJ_2 = ~z~I only going to talk to your momma, okay. But she can't fit through the door.
+
+RBT22_CELL1POSJ_3 = ~z~That's very clever, well done.
+
+RBT22_CELL1_01 = ~z~It's the bounty hunter. I could smell you a mile off.
+
+RBT22_CELL1_02 = ~z~Real soon you're gonna get a knife in the back... just wait for it.
+
+RBT22_CELL1_03 = ~z~You're a marked man, bounty hunter. The dogs are loose. Woof, woof, woof, woof!
+
+RBT22_CELL1_04 = ~z~I killed worse than you bounty hunter! I'll do it again.
+
+RBT22_CELL1_05 = ~z~Jaoquin Arroyo... and the Del Lobos... that's who's coming for you, cabron.
+
+RBT22_CELL2NEGJ_1 = ~z~How about I come in that cell and give you a beating?
+
+RBT22_CELL2NEGJ_2 = ~z~You come in this cell, you're the one getting beat.
+
+RBT22_CELL2NEGJ_3 = ~z~I almost want to test you on that... almost, but not quite. Enjoy yourself.
+
+RBT22_CELL2POSJ_1 = ~z~Well, well, you're still here.
+
+RBT22_CELL2POSJ_2 = ~z~And so are you. For now. Count yourself lucky, cabron. For now.
+
+RBT22_CELL2POSJ_3 = ~z~You think I'm worried about your little friends? Send them my way, amigo.
+
+RBT22_CELL2_01 = ~z~Hey. Hey. Please, you got to help.
+
+RBT22_CELL2_02 = ~z~Bounty hunter, this sheriff, hey.
+
+RBT22_CELL2_03 = ~z~I'm in trouble, bounty hunter.
+
+RBT22_CELL2_04 = ~z~Help me, please. Come on, my friend.
+
+RBT22_CELL3NEGJ_1 = ~z~Now, look who's sweating. That noose getting tight?
+
+RBT22_CELL3NEGJ_2 = ~z~I didn't talk. Tell them I didn't. The Del Lobos, my brothers, they want me dead.
+
+RBT22_CELL3NEGJ_3 = ~z~If they want you dead... maybe they weren't your brothers after all, eh?
+
+RBT22_CELL3NEGJ_4 = ~z~Damn you, and damn that Sheriff. Ah!
+
+RBT22_CELL3POSJ_1 = ~z~You stay here much longer, they're gonna charge you some rent.
+
+RBT22_CELL3POSJ_2 = ~z~They've seen me in here... the gang... they think I talked... tell the Del Lobos I'm not a rat.
+
+RBT22_CELL3POSJ_3 = ~z~If it looks like a rat, and it squeaks like one...
+
+RBT22_CELL3POSJ_4 = ~z~They'll kill me... you're scum, bounty hunter.
+
+RBT22_CHALLENGE_1 = ~z~Eh, look at this. Someone's walked into trouble.
+
+RBT22_DONTHURT_01 = ~z~Oh Dios mio. Dios mio.
+
+RBT22_DONTHURT_02 = ~z~Dios mio! No me gusta!
+
+RBT22_DONTHURT_03 = ~z~I want to go home!
+
+RBT22_DONTHURT_04 = ~z~Aye! Aye, aye!
+
+RBT22_EAGLEEYEJ_1 = ~z~Someone came this way...
+
+RBT22_ESC1J_1 = ~z~Enough of that. Don't make me chase you.
+
+RBT22_ESC1J_2 = ~z~No one's making you! Go home to your donkey.
+
+RBT22_ESC2J_1 = ~z~I will chase you into the dirt, feller. Stop.
+
+RBT22_ESC2J_2 = ~z~You ain't cut out for this... give up chasing me, you fool.
+
+RBT22_ESC2J_3 = ~z~No such luck, hombre.
+
+RBT22_FINDCLUEJ_1 = ~z~A train... west of here... okay, Joaquin, let's see if you're here.
+
+RBT22_FLEE_01 = ~z~You ain't going to take me.
+
+RBT22_FLEE_02 = ~z~I'll die before I'm caught.
+
+RBT22_FLEE_03 = ~z~Damn your bounty.
+
+RBT22_FLEE_04 = ~z~Just try and get close enough. Come on, vaquero!
+
+RBT22_HIT1J_1 = ~z~The sheriff wants to talk, I don't.
+
+RBT22_HIT2J_1 = ~z~They better hurry on up... the Tumbleweed sheriff is real quick to execute.
+
+RBT22_HIT3J_1 = ~z~None of you gave me no trouble yet.
+
+RBT22_HOGKOED_1 = ~z~Let me go.
+
+RBT22_IG5_1 = ~z~Arroyo. Come on. Que pasa? Where's the train?
+
+RBT22_IG5_2 = ~z~I don't hear it... but it's coming. It's coming.
+
+RBT22_IG5_3 = ~z~How you know it's coming, eh?
+
+RBT22_IG5_4 = ~z~Look at the tracks, you idiots. There is nowhere else it can go.
+
+RBT22_IG5_5 = ~z~
+
+RBT22_IG7_B_1 = ~z~Sheriff. You looking for Joaquin Arroyo?
+
+RBT22_IG7_B_2 = ~z~I ordered him... didn't have much hope of seeing him though. Put him in the cell.
+
+RBT22_IG7_B_3 = ~z~You couldn't come get me, Sheriff? You yellow belly. You coward... you sent some vaquero...
+
+RBT22_IG7_B_4 = ~z~I coulda come after you, Arroyo... but it's so damn hot out there, I didn't want to sweat.
+
+RBT22_IG7_B_5 = ~z~My friends... they're going to come for you!
+
+RBT22_IG7_B_6 = ~z~Then they'll die too. Now save some breath for my questions, boy.
+
+RBT22_ILO1J_1 = ~z~Everything's okay. Just tell me where he is?
+
+RBT22_ILO1QUST_1 = ~z~Up on the tracks... they-they robbing the train.
+
+RBT22_ILO1THRT_1 = ~z~Dios mio! Dios mio! He's up on the tracks... they robbing the train.
+
+RBT22_ILO2J_1 = ~z~You want to die, boy? Where is he?
+
+RBT22_ILORJ_1 = ~z~Get out of here before I change my mind.
+
+RBT22_ILORJ_2 = ~z~Thank you. Gracias, senor.
+
+RBT22_ILO_THR_J_1 = ~z~The thing about wolf cubs is... they might look sweet, but they're gonna grow up to be a wolf.
+
+RBT22_ILO_THR_J_2 = ~z~I'm not a Del Lobo. Please. Por favor.
+
+RBT22_MAPJ_1 = ~z~Let's see here.
+
+RBT22_PLEAD_01 = ~z~Please. Senor. I told you. Don't kill me.
+
+RBT22_PLEAD_02 = ~z~I did not want to join these banditos. They are bad men. Por favor.
+
+RBT22_PLEAD_03 = ~z~You saved me. I'm not a Del Lobo. Let me go. Please.
+
+RBT22_PLEAD_04 = ~z~Dios mio! I don't want to die.
+
+RBT22_PLEAD_05 = ~z~Arroyo... he's on the tracks... west of here.
+
+RBT22_PLEAD_06 = ~z~Please, I don't want to die for the Del Lobos.
+
+RBT22_REACTJ_01 = ~z~You have a fine imagination, Arroyo. I will grant you that.
+
+RBT22_REACTJ_02 = ~z~You sure are colorful.
+
+RBT22_REACTJ_03 = ~z~Okay, well, I'll take that on board.
+
+RBT22_REACTJ_04 = ~z~What was that? I didn't hear you.
+
+RBT22_RIDE1J_1 = ~z~You dumb bastard, do you know who I am? You'll die for this!
+
+RBT22_RIDE1J_2 = ~z~You're gonna die slow. And you're gonna die hurting.
+
+RBT22_RIDE1J_3 = ~z~I'm going to watch them do it... and I'm going to laugh!
+
+RBT22_RIDE2J_1 = ~z~I'll have every Del Lobo in New Austin come looking for me.
+
+RBT22_RIDE2J_2 = ~z~We're an army... a legion.
+
+RBT22_RIDE2J_3 = ~z~You hear those horses, those shots... you'll know your time has come.
+
+RBT22_RIDE3J_1 = ~z~You know the Del Lobos? Hey? We killed and we burned all the way across the country.
+
+RBT22_RIDE3J_2 = ~z~You should be scared... you should be quaking in your boots, vaquero!
+
+RBT22_RIDE3J_3 = ~z~They'll take your ears, they'll take your nose... there won't be nothing left on your head except bone.
+
+RBT22_RIDE4J_1 = ~z~I'm going to take that bounty poster... I'm going to shove it down your mouth...
+
+RBT22_RIDE4J_2 = ~z~and I'm going to burn you alive, mister.
+
+RBT22_RIDE4J_3 = ~z~You want to burn? You want to scream... that's what's happening to you.
+
+RBT22_RIDE4J_4 = ~z~You hear me? Are you listening?
+
+RBT22_RIDEARRJ_1 = ~z~Here we are... our time together is almost at an end.
+
+RBT22_RIDEARRJ_2 = ~z~I'm going to see you again, mister. Believe me there.
+
+RBT22_RIDEBARNJ_1 = ~z~Hey. Puta. One of those cabrones ratted me out. Didn't they?
+
+RBT22_RIDEBARNJ_2 = ~z~All that matters is you're caught. Don't let the rest of it trouble you.
+
+RBT22_RILOANSJO_1 = ~z~You tell him my name? Pendejos...
+
+RBT22_RILOANS_1 = ~z~Joaquin, get outta here!
+
+RBT22_RILOFARQJ_1 = ~z~Hey over there, which one of you is Joaquin Arroyo?
+
+RBT22_RILOFARTJ_1 = ~z~Arroyo, if you're over there, give up before I start shooting!
+
+RBT22_RILOQJ_1 = ~z~Joaquin Arroyo! Which one are ya?
+
+RBT22_RILOQJ_2 = ~z~Don't make me kill you, son. I said I'd bring you in alive.
+
+RBT22_RILOTJ_1 = ~z~Hey! You all wanna die?
+
+RBT22_RILOTJ_2 = ~z~Or you wanna give up Joaquin Arroyo?
+
+RBT22_SHMOAN1A_01 = ~z~You'll pay for this... more than any damn bounty. You'll pay!
+
+RBT22_SHMOAN1A_02 = ~z~I know you now, bounty hunter. The Del Lobos gonna know you too!
+
+RBT22_SHUSHJ_1 = ~z~Save your nonsense for the sheriff.
+
+RBT22_SPOT1_1 = ~z~Stop right there. Who are you?
+
+RBT22_SPOT2_1 = ~z~Who are you and what's your business?
+
+RBT22_SURRJ_1 = ~z~Joaquin Arroyo!
+
+RBT22_SURRKID_1 = ~z~Joaquin's not here!
+
+RBT22_SURRKID_2 = ~z~Please. He's no here.
+

@@ -1,0 +1,238 @@
+0x00AD9E0B = ~z~Hang tight, Imma comin'!
+
+0x00D36BF0 = ~z~You shoulda rolled over! We'll be back!
+
+0x00F21058 = ~z~Off the dang horse, now.
+
+0x0354B810 = ~z~Come on and get bushwhacked, ya coward.
+
+0x052721F8 = ~z~I'm warning ya, the one time.
+
+0x061C45E5 = ~z~You don't want to start with me.
+
+0x099EC4A4 = ~z~You mighty close to biting the dust.
+
+0x1A624C6E = ~z~First warning, I'd advise you to listen.
+
+0x1EEA27BD = ~z~I want your hands high, now.
+
+0x2D4D4C06 = ~z~Come out where I can see you.
+
+0x2E83FCFC = ~z~I'll whomp you coming and going.
+
+0x3A77CCAD = ~z~Cash that bastard's chips!
+
+0x3B9F16AE = ~z~I wantcha gone, right now.
+
+0x3F67EA5A = ~z~We find who's guilty, right now.
+
+0x4C2764EB = ~z~Oh, hell!
+
+0x4DE3B876 = ~z~Hold the fort. On my way.
+
+0x5C1DF07D = ~z~You're penned in good, give it up!
+
+0x5CE2B5D9 = ~z~Move again and you bleed, y'hear?
+
+0x5DC0A289 = ~z~Outlaws camping up ahead. It's off-limits to you, now get out.
+
+0x5E6861FF = ~z~Aw, don't do it, don't.
+
+0x6ADB13A0 = ~z~Hands up. Last chance, got it?
+
+0x6D02410C = ~z~You got no business here, 'less you want the O'Driscolls to make you their business. Clear out!
+
+0x7C4670C7 = ~z~Final warning or it's your last roundup.
+
+0x7D8E5918 = ~z~Boys, we ought to clear on out!
+
+0x7DE87E24 = ~z~Cut that nonsense out.
+
+0x8AC3B18F = ~z~Hold still, goddamn it.
+
+0x9A20413B = ~z~Nada. Not a dang bit of nothing.
+
+0x9ADBB06E = ~z~Last chance, you grass-bellied coward.
+
+0x9D764F5A = ~z~You was fixing to take the big jump.
+
+0x11FA1E7E = ~z~Didn't I say you been warned?
+
+0x13DA935B = ~z~Button your lip, y'hear?
+
+0x17A320B2 = ~z~Who's out there? Show yourself.
+
+0x18C0D22E = ~z~I'll tar and feather ye.
+
+0x24F99DB5 = ~z~You put yer hardware down, y'hear?
+
+0x26B97E1A = ~z~The last roundup for ya.
+
+0x35E6D5D1 = ~z~Don't want a beating? You best behave.
+
+0x37A153F2 = ~z~Don't let him go! This was our chance on him!
+
+0x42A4CE30 = ~z~Dang it to hell.
+
+0x43D3734C = ~z~Don't you sore-mouth me.
+
+0x47BD42A8 = ~z~Dumb son of a bitch got a deathwish.
+
+0x52B01D93 = ~z~Last warning, then I cash your chips.
+
+0x56BF4CEE = ~z~Get the hell outta here, now.
+
+0x56CB1782 = ~z~If you don't raise them hands...
+
+0x57A326CF = ~z~Blow his goddamn balls off!
+
+0x57BFEF90 = ~z~Someone's helpin' our prisoner.
+
+0x60F16152 = ~z~I said, clear out.
+
+0x65FB7F24 = ~z~You bastard, here's the big jump.
+
+0x78F58A3B = ~z~Get a move on, c'mon.
+
+0x80D2D851 = ~z~Rub that bastard out!
+
+0x84D9E05F = ~z~Curl that sumbitch up.
+
+0x256C93C0 = ~z~Well, what the heck!
+
+0x285A022E = ~z~You wanna meet St. Pete? Be my guest.
+
+0x286CE883 = ~z~You been notified the once.
+
+0x337CC9DC = ~z~Yellow-belly! Let him go.
+
+0x353B3E38 = ~z~Drawing that iron is a mistake.
+
+0x548E6707 = ~z~Last warning, hands up, right now.
+
+0x653DC204 = ~z~Plug that son of a bitch!
+
+0x732B3D02 = ~z~Make him wolf meat, boys.
+
+0x771B8A3F = ~z~Don't flinch, don't move.
+
+0x787EE643 = ~z~You get yer doggone hands up.
+
+0x1062E588 = ~z~What'd I just see?
+
+0x2044BB13 = ~z~I said ya been notified and warned.
+
+0x2998BED7 = ~z~You watch who you're jawing.
+
+0x3268CBCA = ~z~It's our chance, let's take it!
+
+0x5416C799 = ~z~Get, damn it.
+
+0x7296DA73 = ~z~Stick them hands up, damn it.
+
+0x8887BF4B = ~z~That's it, keep moving.
+
+0x9379CC21 = ~z~Alright, please, d-don't.
+
+0x9427B54A = ~z~Ain't nothing but thin air.
+
+0x16984B28 = ~z~Who's there, dammit?
+
+0x27781B8D = ~z~Well, damn!
+
+0x45874B1F = ~z~They's tryin' to break 'em free!
+
+0x59162CE4 = ~z~You got one more chance, tenderfoot.
+
+0x64372E25 = ~z~Mind yer treading.
+
+0x97638C59 = ~z~Great Spirit in Heaven.
+
+0x145960D2 = ~z~Don't you goddamn move.
+
+0x153095EC = ~z~I want who did this, and I want 'em now.
+
+0x36543415 = ~z~Hell, enough hellos.
+
+0x48396830 = ~z~Kill that sum'bitch!
+
+0xA1C8A123 = ~z~Bad, bad, bad...
+
+0xA6E12576 = ~z~Cash that bastard's chips!
+
+0xA64B04A7 = ~z~You stay put, you hear me?
+
+0xA680FB3D = ~z~That's it! Keep moving!
+
+0xAA753AA0 = ~z~Watch it, tenderfoot.
+
+0xAC9C948A = ~z~You do this, damn it?
+
+0xAE94B355 = ~z~Get outta here, damn you.
+
+0xB5D5238B = ~z~You was stupid enough to come back.
+
+0xB4861747 = ~z~Keep on going, that's right.
+
+0xBDC4258E = ~z~Hands up! Up high!
+
+0xBF52E04E = ~z~Stop all this wildcatting.
+
+0xC0D01F2D = ~z~If you're there, speak up.
+
+0xC2E057E4 = ~z~Gonna punish you.
+
+0xCCB24CBA = ~z~Quit bullying.
+
+0xCD265748 = ~z~Hey, stop acting so cruel to folk.
+
+0xD05BB18A = ~z~Now you capitulate or you're going up.
+
+0xD4EB6F33 = ~z~Keep your gun on him.
+
+0xD30587BB = ~z~That's bad medicine. Cut it out.
+
+0xD6706036 = ~z~Stop that whittle-wanging.
+
+0xDC44C555 = ~z~Got him, dammit. Kill him!
+
+0xDD8C9C82 = ~z~Stop there!
+
+0xDE24C8C1 = ~z~Enough of that, damn you.
+
+0xDE97C6BF = ~z~We got you now!
+
+0xDFC89744 = ~z~Bed that bastard down!
+
+0xE0572D9B = ~z~You been drinkin' gyp' water or what?
+
+0xE9B9603E = ~z~There he go! Smoke him!
+
+0xE68B4254 = ~z~Time to git while the gettin's good!
+
+0xEBFD2EC0 = ~z~What'd I tell you! He don't look so tough now, do he?
+
+0xECBD9E3E = ~z~Wait, I saw something.
+
+0xEE0333B9 = ~z~Kill that sumbitch!
+
+0xEE1665B5 = ~z~Take a hike before I get balky.
+
+0xF2C31DC9 = ~z~We got you rimrocked. No way out.
+
+0xF3B6B990 = ~z~You'll regret that.
+
+0xF7CFA78E = ~z~Sure, why not?
+
+0xF8D4E6E7 = ~z~Ah, I'd rather live to see another day!
+
+0xF984EF1B = ~z~Stay put or I'll kill ya.
+
+0xFACDB5B9 = ~z~Someone's bustin'em loose!
+
+0xFB99DA17 = ~z~We took his balls! let the coward run.
+
+0xFDE8B8CC = ~z~You being real unpleasant, cut it out.
+
+0xFE82E221 = ~z~We know where to find you, Arthur Morgan! You can't hide from us!
+

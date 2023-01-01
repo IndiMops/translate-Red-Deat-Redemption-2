@@ -1,0 +1,500 @@
+GUN1_ACCEPT_A_01 = ~z~Alright, I'll shovel your damn shit!
+
+GUN1_ACCEPT_A_02 = ~z~I'm going do this for you, but I don't like it.
+
+GUN1_ACCEPT_J_01 = ~z~Alright, I'll shovel your damn shit!
+
+GUN1_ACCEPT_J_02 = ~z~I'm going do this for you, but I don't like it.
+
+GUN1_ACC_FORK_01 = ~z~Your pitchfork's leaning against the fence... gonna want to pick it up.
+
+GUN1_ACC_FORK_02 = ~z~Your fork's on the fence, and your shits is on the ground. They been getting high while you left 'em.
+
+GUN1_AGGRO2_01 = ~z~Alright. Get out of here.  Won't have none of that carry on!
+
+GUN1_AGGRO2_02 = ~z~You better go now, mister. Can't have any of that business here.
+
+GUN1_AGGRO2_03 = ~z~Hey! I knew you was trouble. Take that trouble somewhere else.
+
+GUN1_AGGRO_01 = ~z~Watch it. Don't get any ideas, mister.
+
+GUN1_AGGRO_02 = ~z~This ain't the place for any of that... I made me a promise to the law.
+
+GUN1_AGGRO_03 = ~z~Don't bring none of that up to my hog farm... I won't have it.
+
+GUN1_ALL_CHICKJ_1 = ~z~Someone ain't having eggs for breakfast.
+
+GUN1_ALL_CHICKJ_2 = ~z~That's all my chooks damn you! Blood and feathers now!
+
+GUN1_ALL_CHICK_1 = ~z~Someone ain't having eggs for breakfast.
+
+GUN1_ALL_CHICK_2 = ~z~That's all my chooks damn you! Blood and feathers now!
+
+GUN1_ALL_HOG_A_1 = ~z~Now I got a hoggery, with no cussing hogs on it.
+
+GUN1_ALL_HOG_A_2 = ~z~Least there ain't no shit to shovel.
+
+GUN1_ALL_HOG_J_1 = ~z~Now I got a hoggery, with no cussing hogs on it.
+
+GUN1_ALL_HOG_J_2 = ~z~Least there ain't no shit to shovel.
+
+GUN1_ANGRY_1 = ~z~Walk away, alright? You been fool enough.
+
+GUN1_ANGRY_2_1 = ~z~Playing with fire, boy. Be wise to leave it where it be.
+
+GUN1_ATTACK_01 = ~z~I'm gonna see your guts!
+
+GUN1_ATTACK_02 = ~z~Let's slice you open, boy!
+
+GUN1_ATTACK_03 = ~z~Come here! Come here!
+
+GUN1_ATTACK_04 = ~z~I'mma stick you alright!
+
+GUN1_ATTACK_05 = ~z~Come on!
+
+GUN1_ATTACK_06 = ~z~I'm gonna cut you!
+
+GUN1_DECLINE_A_01 = ~z~You can keep your stories, and your hog shit.
+
+GUN1_DECLINE_A_02 = ~z~You shovel. I got better things to do.
+
+GUN1_DECLINE_J_01 = ~z~You can keep your stories, and your hog shit.
+
+GUN1_DECLINE_J_02 = ~z~You shovel. I got better things to do.
+
+GUN1_ENTER_HUT_1 = ~z~You can't go in there! The federals is hearing about this!
+
+GUN1_FORK_1 = ~z~Oh, they are. Pick up the fork and get to work...
+
+GUN1_FORK_2 = ~z~or get out of here and stop wasting my time.
+
+GUN1_FORK_STY_01 = ~z~Come back here and get the fork... unless you want to use your hands...
+
+GUN1_FORK_STY_02 = ~z~Dumb city boy... the fork's right here. Gonna need it to scoop that hog shit.
+
+GUN1_GREETJ_1 = ~z~Hey, you.
+
+GUN1_GREET_1 = ~z~Hey, you.
+
+GUN1_HURT_CHICK_01 = ~z~Hey, hey, leave that.
+
+GUN1_HURT_CHICK_02 = ~z~She ain't going be right...
+
+GUN1_HURT_CHICK_03 = ~z~Leave that girl.
+
+GUN1_HURT_CHICK_04 = ~z~You going to mess up her laying.
+
+GUN1_HURT_HOG_01 = ~z~Not that hog.
+
+GUN1_HURT_HOG_02 = ~z~Leave that boy...
+
+GUN1_HURT_HOG_03 = ~z~Hear that squeal? Stop.
+
+GUN1_HURT_HOG_04 = ~z~You better not.
+
+GUN1_KILL_CHICK_01 = ~z~You a chicken killer?
+
+GUN1_KILL_CHICK_02 = ~z~You gonna eat that?  Huh?
+
+GUN1_KILL_CHICK_03 = ~z~My damn chicken! No shame.
+
+GUN1_KILL_HOG_01 = ~z~A waste of a damn hog.
+
+GUN1_KILL_HOG_02 = ~z~He dead and the meat's likely spoiled too.
+
+GUN1_KILL_HOG_03 = ~z~I'll get no bacon from that. Dammit.
+
+GUN1_KILL_HOG_04 = ~z~I needs these hogs!
+
+GUN1_LOOT_01 = ~z~What you taking, huh?
+
+GUN1_LOOT_02 = ~z~That ain't yours!
+
+GUN1_LOOT_03 = ~z~That's private.
+
+GUN1_LOOT_04 = ~z~No good thief's all you are.
+
+GUN1_PLY_SHIT_01 = ~z~You gonna shovel this shit after all?
+
+GUN1_PLY_SHIT_02 = ~z~~sl:0.0:2.9:1~There's hog shit with your name on it. You interested, partner?
+
+GUN1_PLY_SHIT_03 = ~z~The hogs been waiting for you to come back, clean up after them.
+
+GUN1_REPLY_ART1_1 = ~z~Hey, let me work.
+
+GUN1_REPLY_ART2_1 = ~z~Hey, I get it, alright? You're mean. But what about Calloway?
+
+GUN1_REPLY_ART3_1 = ~z~No doubt...
+
+GUN1_REPLY_JHN1_1 = ~z~Hey, let me work.
+
+GUN1_REPLY_JHN2_1 = ~z~Hey, I get it, alright? You're mean. But what about Calloway?
+
+GUN1_REPLY_JHN3_1 = ~z~No doubt...
+
+GUN1_S1_IG1_1AA_1 = ~z~Jim Boy weren't nothing, you know. Me...
+
+GUN1_S1_IG1_1AA_2 = ~z~I killed men, women and children too, animals. I even killed rocks.
+
+GUN1_S1_IG1_1AA_3 = ~z~And I killed 'em good.
+
+GUN1_S1_IG1_1AA_4 = ~z~I shot folks, stabbed folks, skinned folks. I scalped some...
+
+GUN1_S1_IG1_1AA_5 = ~z~boy... they scream when you scalp 'em.
+
+GUN1_S1_IG1_1B_1 = ~z~I bashed folks, butchered folks...
+
+GUN1_S1_IG1_1B_2 = ~z~I burned folks alive, buried folks alive, one time I...
+
+GUN1_S1_IG1_1C_1 = ~z~You have no idea, girly. Why, effeminate type like you...
+
+GUN1_S1_IG1_1C_2 = ~z~I'd probably have chopped your head off, stuffed you...
+
+GUN1_S1_IG1_1C_3 = ~z~and eaten you... like a sausage.
+
+GUN1_S1_IG1_2A_1 = ~z~I dunno what's got into these hogs, but I know what's coming out of 'em.
+
+GUN1_S1_IG1_2B_1 = ~z~Your back's gonna hurt when you done.
+
+GUN1_S1_IG1_2C_1 = ~z~It's only pig shit, sonny.
+
+GUN1_S1_IG1_2D_1 = ~z~That's a sloppy one.
+
+GUN1_S1_IG1_3A_1 = ~z~You gotta work for a living. Your momma should'a taught you that.
+
+GUN1_S1_IG1_3B_1 = ~z~Get your back into it, boy, you ain't done.
+
+GUN1_S1_IG1_3C_1 = ~z~You work shy or something, boy? Come on.
+
+GUN1_S1_INT_1 = ~z~That's my name...
+
+GUN1_S1_INT_2 = ~z~and my occupation too, if you hadn't noticed.
+
+GUN1_S1_INT_3 = ~z~Weren't always that way though, were it?
+
+GUN1_S1_INT_4 = ~z~You used to be a quick draw guy...
+
+GUN1_S1_INT_5 = ~z~you knew Jim 'Boy' Calloway?
+
+GUN1_S1_INT_6 = ~z~Used to be's correct...
+
+GUN1_S1_INT_7 = ~z~them days are long over.
+
+GUN1_S1_INT_8 = ~z~And who might you be?
+
+GUN1_S1_INT_9 = ~z~It don't matter.
+
+GUN1_S1_INT_10 = ~z~Need you to tell me about Jim Boy...
+
+GUN1_S1_INT_11 = ~z~just a quote for a book.
+
+GUN1_S1_INT_12 = ~z~A book about Jim Boy?
+
+GUN1_S1_INT_13 = ~z~Well, shit...
+
+GUN1_S1_INT_14 = ~z~I can't talk to you now.
+
+GUN1_S1_INT_15 = ~z~Look at me...
+
+GUN1_S1_INT_16 = ~z~I'm knee deep in hog crap.
+
+GUN1_S1_INT_17 = ~z~Ah, don't mind me...
+
+GUN1_S1_INT_18 = ~z~we can talk while you work.
+
+GUN1_S1_INT_19 = ~z~I ain't talking and shovelling.
+
+GUN1_S1_INT_20 = ~z~Besides...
+
+GUN1_S1_INT_21 = ~z~young man like you would get it done in half the time.
+
+GUN1_S1_INT_22 = ~z~Ah, I don't know about that...
+
+GUN1_S1_INT_23 = ~z~What's to know?
+
+GUN1_S1_INT_24 = ~z~You interested in the old days?
+
+GUN1_S1_INT_25 = ~z~You shovel this shit...
+
+GUN1_S1_INT_26 = ~z~I tell you some stories.
+
+GUN1_S1_INT_27 = ~z~You keep your hands clean...
+
+GUN1_S1_INT_28 = ~z~I don't give you squat.
+
+GUN1_S1_INT_29 = ~z~Goddamn it.
+
+GUN1_S1_INT_30 = ~z~These better be some stories.
+
+GUN1_S1_INT_31 = ~z~Weren't always like that though, were it?
+
+GUN1_S1_INT_32 = ~z~You used to be a quick draw guy...
+
+GUN1_S1_INT_33 = ~z~you knew Jim 'Boy' Calloway?
+
+GUN1_S1_INT_34 = ~z~It don't matter.
+
+GUN1_S1_INT_35 = ~z~I need you to tell me about Jim Boy...
+
+GUN1_S1_INT_36 = ~z~just a quote for a book.
+
+GUN1_S1_INT_37 = ~z~Well, don't mind me...
+
+GUN1_S1_INT_38 = ~z~we can talk while you work.
+
+GUN1_S1_INT_39 = ~z~I don't know about that...
+
+GUN1_S1_INT_40 = ~z~Goddamn it.
+
+GUN1_S1_INT_41 = ~z~These better be some stories.
+
+GUN1_S1_INT_LIA_1 = ~z~What do you want?
+
+GUN1_S1_INT_LIA_2 = ~z~Howdy. You Granger?
+
+GUN1_S1_INT_LIJ_1 = ~z~What do you want?
+
+GUN1_S1_INT_LIJ_2 = ~z~Howdy. You Granger?
+
+GUN1_S2_IG2_A1_1 = ~z~That something you was worried about?
+
+GUN1_S2_IG2_A1_2 = ~z~Stop it! I'm not interested.
+
+GUN1_S2_IG2_A2_1 = ~z~How bout that?
+
+GUN1_S2_IG2_A2_2 = ~z~I said quit!
+
+GUN1_S2_IG2_A3_1 = ~z~God forbid they take that away.
+
+GUN1_S2_IG2_DY1_1 = ~z~Don't do it!
+
+GUN1_S2_IG2_DY2_1 = ~z~That's my stick!
+
+GUN1_S2_IG2_DY3_1 = ~z~You walk away. Right now.
+
+GUN1_S2_IG2_J1_1 = ~z~That something you was worried about?
+
+GUN1_S2_IG2_J1_2 = ~z~Stop it! I'm not interested.
+
+GUN1_S2_IG2_J2_1 = ~z~How bout that?
+
+GUN1_S2_IG2_J2_2 = ~z~I said quit!
+
+GUN1_S2_IG2_J3_1 = ~z~God forbid they take that away.
+
+GUN1_S2_MCS1_1 = ~z~Now it's clean enough to eat off of.
+
+GUN1_S2_MCS1_2 = ~z~I guess I'm done?
+
+GUN1_S2_MCS1_3 = ~z~You get that barrow to the shit pile...
+
+GUN1_S2_MCS1_4 = ~z~and I suppose you is.
+
+GUN1_S2_MCS1_5 = ~z~Alright.
+
+GUN1_S2_MCS1_6 = ~z~No shortage of shit round here.
+
+GUN1_S2_MCS1_7 = ~z~Comes from hungry hogs...
+
+GUN1_S2_MCS1_8 = ~z~and no hands.
+
+GUN1_S2_MCS1_9 = ~z~Hell, that stinks.
+
+GUN1_S2_MCS1_10 = ~z~Alright, I cleaned up your mess.
+
+GUN1_S2_MCS1_11 = ~z~Now go on...
+
+GUN1_S2_MCS1_12 = ~z~tell me about Calloway.
+
+GUN1_S2_MCS1_13 = ~z~I said I'd tell you stories...
+
+GUN1_S2_MCS1_14 = ~z~I didn't say they'd be about him.
+
+GUN1_S2_MCS1_15 = ~z~Don't trifle with me, old man.
+
+GUN1_S2_MCS1_16 = ~z~You knew him...
+
+GUN1_S2_MCS1_17 = ~z~give me something... anything.
+
+GUN1_S2_MCS1_18 = ~z~You making a book...
+
+GUN1_S2_MCS1_19 = ~z~you should make it about me.
+
+GUN1_S2_MCS1_20 = ~z~They're just words is all.
+
+GUN1_S2_MCS1_21 = ~z~Give me a quote and I'll leave you alone.
+
+GUN1_S2_MCS1_22 = ~z~You owe me that.
+
+GUN1_S2_MCS1_23 = ~z~Hey, you be careful.
+
+GUN1_S2_MCS1_24 = ~z~A killer like me...
+
+GUN1_S2_MCS1_25 = ~z~it don't take much to end up on the end of my knife.
+
+GUN1_S2_MCS1_26 = ~z~One time...
+
+GUN1_S2_MCS1_27 = ~z~You know what?
+
+GUN1_S2_MCS1_28 = ~z~I don't think you're anything at all...
+
+GUN1_S2_MCS1_29 = ~z~just a crazy old man.
+
+GUN1_S2_MCS1_30 = ~z~I ain't a killer?
+
+GUN1_S2_MCS1_31 = ~z~Why, you'd already be hog feed...
+
+GUN1_S2_MCS1_32 = ~z~I hadn't made a deal with the federals...
+
+GUN1_S2_MCS1_33 = ~z~got this farm.
+
+GUN1_S2_MCS1_34 = ~z~This is your last chance, Mr. Granger...
+
+GUN1_S2_MCS1_35 = ~z~give me a quote for the book!
+
+GUN1_S2_MCS1_36 = ~z~Hey, hey, hey, you don't w-want to hit an old man of peace...
+
+GUN1_S2_MCS1_37 = ~z~no government witness.
+
+GUN1_S2_MCS1_38 = ~z~Calloway said you were full of piss...
+
+GUN1_S2_MCS1_39 = ~z~he didn't say the half of it.
+
+GUN1_S2_MCS1_40 = ~z~I'm itching to drop you, girly.
+
+GUN1_S2_MCS1_41 = ~z~Only you ain't worth my time...
+
+GUN1_S2_MCS1_42 = ~z~I-I got too much to lose.
+
+GUN1_S2_MCS1_43 = ~z~Too much to lose?
+
+GUN1_S2_MCS1_44 = ~z~Since I cleaned this place up...
+
+GUN1_S2_MCS1_45 = ~z~I figure I'm in my rights to...
+
+GUN1_S2_MCS1_46 = ~z~go ahead and wreck it.
+
+GUN1_S2_MCS1_47 = ~z~Let's see.
+
+GUN1_S2_MCS1_48 = ~z~You don't wanna do that...
+
+GUN1_S2_MCS1_49 = ~z~you walk away right now.
+
+GUN1_S2_MCS1_50 = ~z~Well, well...
+
+GUN1_S2_MCS1_51 = ~z~and all I wanted was a quote.
+
+GUN1_S2_MCS1_52 = ~z~You don't know who your trifling with.
+
+GUN1_S2_MCS1_53 = ~z~I guess I'm done?
+
+GUN1_S2_MCS1_54 = ~z~Alright.
+
+GUN1_S2_MCS1_55 = ~z~Hell...
+
+GUN1_S2_MCS1_56 = ~z~that stinks.
+
+GUN1_S2_MCS1_57 = ~z~Okay, I cleaned up your mess.
+
+GUN1_S2_MCS1_58 = ~z~Go on, tell me about Calloway.
+
+GUN1_S2_MCS1_59 = ~z~Don't trifle with me, old man.
+
+GUN1_S2_MCS1_60 = ~z~You knew him...
+
+GUN1_S2_MCS1_61 = ~z~just give me something... anything.
+
+GUN1_S2_MCS1_62 = ~z~They're just words is all.
+
+GUN1_S2_MCS1_63 = ~z~Give me something to say and I'll leave you alone.
+
+GUN1_S2_MCS1_64 = ~z~You owe me that.
+
+GUN1_S2_MCS1_65 = ~z~Hey, you know what?
+
+GUN1_S2_MCS1_66 = ~z~I don't think you were anything at all...
+
+GUN1_S2_MCS1_67 = ~z~just a crazy old man.
+
+GUN1_S2_MCS1_68 = ~z~This is your last chance, Mr. Granger...
+
+GUN1_S2_MCS1_69 = ~z~give me a quote for the book!
+
+GUN1_S2_MCS1_70 = ~z~Calloway said you was full of piss...
+
+GUN1_S2_MCS1_71 = ~z~but he didn't tell me the half of it.
+
+GUN1_S2_MCS1_72 = ~z~Too much to lose?
+
+GUN1_S2_MCS1_73 = ~z~Well, seeing as I cleaned up this pigsty...
+
+GUN1_S2_MCS1_74 = ~z~I figure I'm in my rights to wreck it.
+
+GUN1_S2_MCS1_75 = ~z~Let's see.
+
+GUN1_S2_MCS1_76 = ~z~Well, well...
+
+GUN1_S2_MCS1_77 = ~z~all I wanted was a quote.
+
+GUN1_S2_MCS2_1 = ~z~There you go.
+
+GUN1_S2_MCS2_2 = ~z~There you go.
+
+GUN1_S2_MCS2_3 = ~z~No...
+
+GUN1_S2_MCS2_4 = ~z~No...
+
+GUN1_S2_MCS2_5 = ~z~No...
+
+GUN1_S2_MCS2_6 = ~z~You didn't, no!
+
+GUN1_S2_MCS2_7 = ~z~You just took yourself a regular shit shower, Mr. Granger.
+
+GUN1_S2_MCS2_8 = ~z~Boy, that's real nasty.
+
+GUN1_S2_MCS2_9 = ~z~You just took yourself a regular shit shower, Mr. Granger.
+
+GUN1_S2_MCS2_10 = ~z~Boy, that's real nasty.
+
+GUN1_S2_MCS2_11 = ~z~You earned yourself a killing.
+
+GUN1_S2_MCS2_12 = ~z~And I'm gonna enjoy it now.
+
+GUN1_S2_MCS2_13 = ~z~You earned yourself a killing.
+
+GUN1_S2_MCS2_14 = ~z~And I'm gonna enjoy it now.
+
+GUN1_S2_MCS2_15 = ~z~Draw.
+
+GUN1_S2_MCS2_16 = ~z~It's gonna be the last thing you do.
+
+GUN_DECLINE_01 = ~z~Hey, I thought you wanted to hear this?
+
+GUN_DECLINE_02 = ~z~You want that story, you're gonna have to shovel this!
+
+GUN_DECLINE_03 = ~z~I knew you was soft from the moment I saw you... can't even shovel shit!
+
+GUN_DECLINE_04 = ~z~That's it, I'll keep all my stories to myself!
+
+GUN_LAUNCH_S1_01 = ~z~Who's this long streak of piss?
+
+GUN_LAUNCH_S1_02 = ~z~~sl:0.0:0.7:1~Look at this...
+
+GUN_LAUNCH_S1_03 = ~z~Here's trouble alright...
+
+GUN_LAUNCH_S1_04 = ~z~Can't nothing good come of this...
+
+GUN_LAUNCH_S1_05 = ~z~~sl:0.6~Sorriest looking son of a bitch, ever I saw...
+
+GUN_LAUNCH_S1_06 = ~z~No, don't like the look of it...
+
+GUN_LAUNCH_S2_01 = ~z~Pitch fork's right there. Pick it up you want that story...
+
+GUN_LAUNCH_S2_02 = ~z~Fork's on the fence. What you waiting for?
+
+GUN_PLY_RETURN_01 = ~z~Looks who's back!
+
+GUN_PLY_RETURN_02 = ~z~Well, well... couldn't stay away...
+
+GUN_PLY_RETURN_03 = ~z~Here comes the boy with all the questions...
+

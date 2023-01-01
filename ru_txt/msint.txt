@@ -1,0 +1,98 @@
+0x628A9763 = Время истекло
+
+0xD2E7BE58 = Товар конкурентов уничтожен
+
+0xFE0E9FA1 = Товар конкурентов уничтожен
+
+FETCH_INTIMIDATION_OBJ_KILL_ATTACKERS = Убейте оставшихся ~COLOR_ENEMY~врагов~s~.
+
+FETCH_INTIMIDATION_OBJ_KILL_ATTACKERS_2 = Убейте оставшихся ~COLOR_ENEMY~врагов~s~.
+
+FETCH_INTIMIDATION_OBJ_KILL_ATTACKERS_REMAINING = Убейте оставшихся ~COLOR_ENEMY~врагов~s~.
+
+FETCH_INTIMIDATION_OBJ_KILL_ATTACKERS_REMAINING_2 = Убейте оставшихся ~COLOR_ENEMY~врагов~s~.
+
+FETCH_MOONSHINE_INTIMIDATION_GOTO_STASH = Доберитесь до ~COLOR_MP_OBJECTIVE~тайника конкурентов~s~.
+
+FETCH_MOONSHINE_INTIMIDATION_GO_TO_0 = Направляйтесь ~1~.
+
+FETCH_MOONSHINE_INTIMIDATION_GO_TO_1 = Доберитесь до ~COLOR_MP_OBJECTIVE~тайника конкурентов~s~.
+
+FETCH_MOONSHINE_INTIMIDATION_HELP_BONUS_OBJECTIVE_ACTIVE = Вы выяснили, где спрятаны ~COLOR_MP_OBJECTIVE~запасы конкурента~s~.
+
+FETCH_MOONSHINE_INTIMIDATION_HELP_BONUS_OBJECTIVE_FAIL = Вы не можете выяснить, где спрятаны запасы конкурента, поэтому данная вылазка лишь немного улучшит положение вашего самогонного предприятия.
+
+FETCH_MOONSHINE_INTIMIDATION_HELP_BONUS_OBJECTIVE_FAIL_PLAYER = Вы не можете выяснить, где спрятаны запасы конкурента, поэтому данная вылазка лишь немного улучшит положение самогонного предприятия, принадлежащего игроку ~1~.
+
+FETCH_MOONSHINE_INTIMIDATION_HELP_INTRO = Запугивайте людей, чтобы узнать, где находятся запасы ~COLOR_MP_OBJECTIVE~самогонщика-конкурента~s~. Уничтожьте запасы, чтобы принести пользу вашему самогонному предприятию.
+
+FETCH_MOONSHINE_INTIMIDATION_HELP_INTRO_PLAYER = Запугивайте людей, чтобы узнать, где находятся ~COLOR_MP_OBJECTIVE~запасы самогонщика-конкурента~s~. Уничтожьте запасы, чтобы принести пользу самогонному предприятию игрока ~1~.
+
+FETCH_MOONSHINE_INTIMIDATION_HELP_OBJECTIVE_DESTROY_APPROACH = Разгромите бар и запугайте бармена, чтобы узнать где хранится ~COLOR_MP_OBJECTIVE~самогон конкурентов~s~.
+
+FETCH_MOONSHINE_INTIMIDATION_HELP_SEARCH_AREA = Разгромите бар и запугайте бармена, чтобы узнать где хранится ~COLOR_MP_OBJECTIVE~самогон конкурентов~s~.
+
+FETCH_MOONSHINE_INTIMIDATION_OBJECTIVE_HAVOC_GOAL_APPROACH = Разгромите бар и запугайте бармена, чтобы узнать где хранится ~COLOR_MP_OBJECTIVE~самогон конкурентов~s~.
+
+FETCH_MOONSHINE_INTIMIDATION_OBJ_DESTROY = Разгромите ~COLOR_MP_OBJECTIVE_ENEMY~бар~s~.
+
+FETCH_MOONSHINE_INTIMIDATION_OBJ_DESTROY_2 = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~самогон~s~.
+
+FETCH_MOONSHINE_INTIMIDATION_OBJ_DESTROY_PLURAL = Разгромите ~COLOR_MP_OBJECTIVE_ENEMY~бар~s~.
+
+FETCH_MOONSHINE_INTIMIDATION_OBJ_DESTROY_PLURAL_2 = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~самогон~s~.
+
+FETCH_MOONSHINE_INTIMIDATION_OBJ_FIND = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~самогон~s~.
+
+FETCH_MOONSHINE_INTIMIDATION_OBJ_FIND_PLURAL = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~самогон~s~.
+
+FETCH_MOONSHINE_INTIMIDATION_OBJ_INTIMIDATE = Запугайте ~COLOR_MP_OBJECTIVE_ENEMY~бармена~s~.
+
+FETCH_MOONSHINE_INTIMIDATION_SCORETIMER_PRIMARY_PASS = Игрок ~1~ нашел припасы самогонщиков
+
+FETCH_MOONSHINE_INTIMIDATION_SCORETIMER_PRIMARY_PASS_2 = Игрок ~1~ уничтожил самогон
+
+FETCH_MOONSHINE_INTIMIDATION_SCORETIMER_PRIMARY_PASS_NP = Вы нашли запасы самогонщика-конкурента.
+
+FETCH_MOONSHINE_INTIMIDATION_SCORETIMER_PRIMARY_PASS_NP_2 = Игрок ~1~ уничтожил самогон
+
+FETCH_MOONSHINE_INTIMIDATION_SCORETIMER_PRIMARY_PASS_YOU = Вы нашли припасы самогонщиков
+
+FETCH_MOONSHINE_INTIMIDATION_SCORETIMER_PRIMARY_PASS_YOUR = Ваш отряд нашел припасы самогонщиков
+
+FETCH_MOONSHINE_INTIMIDATION_SCORETIMER_PRIMARY_PASS_YOUR_2 = Ваш отряд уничтожил самогон
+
+FETCH_MOONSHINE_INTIMIDATION_SCORETIMER_PRIMARY_PASS_YOU_2 = Вы уничтожили самогон
+
+FETCH_MOONSHINE_INTIMIDATION_SCORETIMER_TRIGGER_ACTION = Вы нашли запасы самогонщика-конкурента.
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_DESTROYED = Товар конкурента уничтожен
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_DESTROYED_PLURAL = Товар конкурента уничтожен
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_INTRO_PRIMARY = Найдите припасы самогонщика-конкурента
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_INTRO_PRIMARY_2 = Уничтожьте самогон
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_INTRO_PRIMARY_PLURAL = Найдите припасы самогонщика-конкурента
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_INTRO_PRIMARY_PLURAL_2 = Уничтожьте самогон
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_OVER = Товар конкурента уничтожен
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_PRIMARY_FAIL = Владелец салуна был убит
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_PRIMARY_FAIL_PLURAL = Владелец салуна был убит
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_PRIMARY_PASS = Товар конкурента уничтожен
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_PRIMARY_PASS_PARTIAL = Владелец салуна был убит
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_PRIMARY_PASS_PLURAL = Товар конкурента уничтожен
+
+FETCH_MOONSHINE_INTIMIDATION_TICKER_DESTROY = ~COLOR_MP_OBJECTIVE_ENEMY~Самогона~s~ уничтожено: ~1~/~2~
+
+FETCH_MOONSHINE_INTIMIDATION_TICKER_DESTROY_YOU = Вы уничтожили ~COLOR_MP_OBJECTIVE~самогон~s~
+
+FETCH_MOONSHINE_MARKETING_INTIMIDATION_NAME = ЗАПУГИВАНИЕ
+

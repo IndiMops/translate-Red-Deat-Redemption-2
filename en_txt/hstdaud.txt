@@ -1,0 +1,666 @@
+HMSTD_1_NEG_ILO_1 = ~z~I'd give up now if I was you. This is going nowhere.
+
+HMSTD_1_NEG_ILO_2 = ~z~Hey, we're just getting started. My sons may be idiots but it'll hold up.
+
+HMSTD_1_POS_ILO_1 = ~z~Well good luck to you.
+
+HMSTD_1_POS_ILO_2 = ~z~I just hope those two boneheads get their act together.
+
+HMSTD_4_NEG_ILO_1 = ~z~Next time maybe take your sons fishing or something.
+
+HMSTD_4_NEG_ILO_2 = ~z~You might be right... though they'd probably fall in and drown. Goddamn fools.
+
+HMSTD_4_POS_ILO_1 = ~z~Good luck.
+
+HMSTD_4_POS_ILO_2 = ~z~Same to you.
+
+HMSTD_ASK_2_1 = ~z~Oh, you're back!
+
+HMSTD_ASK_2_2 = ~z~Still short on supplies?
+
+HMSTD_ASK_2_3 = ~z~We sure are... did you change your mind?
+
+HMSTD_ASK_3_1 = ~z~Had any luck finding that lumber for us?
+
+HMSTD_ASK_GUP_1 = ~z~I guess that's a no, then...
+
+HMSTD_ASK_QUIT_1 = ~z~Listen, sorry, I just don't have time to help you with this lumber.
+
+HMSTD_ASK_QUIT_2 = ~z~No, come on. Please. I'm at my wit's end here.
+
+HMSTD_ASK_QUIT_3 = ~z~I got enough on my own plate. I'm sure you three can work it out.
+
+HMSTD_ASK_RESN_1 = ~z~No, not yet.
+
+HMSTD_ASK_RESN_2 = ~z~Well, I appreciate you trying. If we don't get our hands on some soon, I reckon we'll just have to call it quits.
+
+HMSTD_ASK_RESP_1 = ~z~No lumber, but I guess I can lend you some money.
+
+HMSTD_ASK_WAG_1 = ~z~We're about ready to call it quits, to be honest with you.
+
+HMSTD_ASK_WAG_2 = ~z~Listen, I-I... I hate to ask , but...
+
+HMSTD_ASK_WAG_3 = ~z~do you think we could have the lumber on that wagon there?
+
+HMSTD_ASK_WAG_4 = ~z~I-I-I will pay you back, I swear on my life.
+
+HMSTD_BODY_01 = ~z~Whoa, I sure hope you got a good reason to be carrying that around.
+
+HMSTD_BODY_02 = ~z~Don't be bringing no trouble here. We got enough of that already.
+
+HMSTD_BUMP_1 = ~z~What the hell is your problem? You could've killed someone!
+
+HMSTD_BUMP_N_1 = ~z~Stay outta my way, then.
+
+HMSTD_BUMP_N_2 = ~z~Why don't you leave us alone?
+
+HMSTD_BUMP_P_1 = ~z~Sorry 'bout that.
+
+HMSTD_BUMP_P_2 = ~z~That's alright, just watch where you're going.
+
+HMSTD_DYNAMITE_01 = ~z~Hey what are you doing with that dynamite?
+
+HMSTD_DYNAMITE_02 = ~z~You're gonna kill somebody, you're not careful!
+
+HMSTD_ENT_RAIN_1 = ~z~What a time to be building, eh?
+
+HMSTD_ENT_RAIN_2 = ~z~I asked my boys here if they would help their pa build a... a new house.
+
+HMSTD_HOG_SON_01 = ~z~Hey what the hell are you doing to him?
+
+HMSTD_HOG_SON_02 = ~z~You let him go right now!
+
+HMSTD_IG1DAD2_1 = ~z~Look out!
+
+HMSTD_IG1DAD2_2 = ~z~What in holy hell are you doing, boy?
+
+HMSTD_IG1DAD2_3 = ~z~Get that back up again right now!
+
+HMSTD_IG1DAD2_4 = ~z~I'mma be a hundred years old by the time we get this done.
+
+HMSTD_IG1DAD2_5 = ~z~No, no, no, no. No, no, no, no, no. Get away from it.
+
+HMSTD_IG1DAD2_6 = ~z~Get away from it before you mess it up even worse than it is.
+
+HMSTD_IG1DADB_1 = ~z~All the best.
+
+HMSTD_IG1DADB_2 = ~z~You too, friend.
+
+HMSTD_IG1DAD_1 = ~z~Thought I'd teach them a few things, you know?
+
+HMSTD_IG1DAD_2 = ~z~Couldn't hammer a nail to save their lives.
+
+HMSTD_IG1DAD_3 = ~z~Ain't that right, Curtis?
+
+HMSTD_IG1DAD_4 = ~z~Whatever you say, Pa.
+
+HMSTD_IG1DAD_5 = ~z~
+
+HMSTD_IG1DAD_6 = ~z~Well, good luck to you.
+
+HMSTD_IG1DAD_7 = ~z~Well I hope to be further along when you next pass through.
+
+HMSTD_IG1DAD_8 = ~z~Look out!
+
+HMSTD_IG1DAD_9 = ~z~What in holy hell are you doing, boy?
+
+HMSTD_IG1DAD_10 = ~z~Get that back up again right now!
+
+HMSTD_IG1DAD_11 = ~z~I'mma be a hundred years old by the time we get this done.
+
+HMSTD_IG1DAD_12 = ~z~No, no, no, no. No, no, no, no, no. Get away from it.
+
+HMSTD_IG1DAD_13 = ~z~Get away from it before you mess it up even worse than it is.
+
+HMSTD_IG1_ENTER_1 = ~z~We got a long way to go, huh?
+
+HMSTD_IG1_ENTER_2 = ~z~I asked my boys here if they would help their pa build a... a new house.
+
+HMSTD_IG1_QEXT_1 = ~z~Well, good luck to you.
+
+HMSTD_IG1_QEXT_2 = ~z~Well I hope to be further along when you next pass through.
+
+HMSTD_IG1_QEXT_3 = ~z~Look out!
+
+HMSTD_IG1_QEXT_4 = ~z~What in holy hell are you doing, boy?
+
+HMSTD_IG1_QEXT_5 = ~z~Get that back up again right now!
+
+HMSTD_IG1_QEXT_6 = ~z~Useless as a eunuch in a cat house, the pair of you!
+
+HMSTD_IG1_QEXT_7 = ~z~Look why... why do you never listen?
+
+HMSTD_IG1_QEXT_8 = ~z~I'mma be a hundred years old by the time we get this done.
+
+HMSTD_IG1_QEXT_9 = ~z~No, no, no, no. No, no, no, no, no. Get away from it.
+
+HMSTD_IG1_QEXT_10 = ~z~Get away from it before you mess it up even worse than it is.
+
+HMSTD_IG2NJ2_1 = ~z~Ha! Tell that to them.
+
+HMSTD_IG2NJA2_1 = ~z~Oh, I asked God for sons and he sent me donkeys.
+
+HMSTD_IG2NJA2_2 = ~z~~sl:0.0:1.2:1~Ain't that right, boys?
+
+HMSTD_IG2NJA2_3 = ~z~
+
+HMSTD_IG2NJA_1 = ~z~Oh, hello again. Good to see you again.
+
+HMSTD_IG2NJA_2 = ~z~Ah, we're moving along slowly, but less than surely.
+
+HMSTD_IG2NJA_3 = ~z~I got more of a chance of teaching a pig to sing opera,
+
+HMSTD_IG2NJA_4 = ~z~than to turn this pair into carpenters.
+
+HMSTD_IG2NJ_1 = ~z~Ah, good to see you again.
+
+HMSTD_IG2NJ_2 = ~z~We're moving along here slow as ever, as you can see.
+
+HMSTD_IG2NJ_3 = ~z~Kinda like rolling molasses up a steep sandy hill, with these two.
+
+HMSTD_IG3_ASKM_1 = ~z~We're about ready to call it quits, to be honest with you.
+
+HMSTD_IG3_ASKM_2 = ~z~Listen, I-I... I hate to ask, but uh...
+
+HMSTD_IG3_ASKM_3 = ~z~is there any way that you could help us get the supplies that we need to finish?
+
+HMSTD_IG3_ASKW_1 = ~z~We're about ready to call it quits, to be honest with you.
+
+HMSTD_IG3_ASKW_2 = ~z~Listen, I... I-I hate to ask, but...
+
+HMSTD_IG3_ASKW_3 = ~z~do you think you could lend us the money that we're gonna need to finish?
+
+HMSTD_IG3_ASKW_4 = ~z~I-I-I will pay you back, I swear on my life.
+
+HMSTD_IG3_ASK_1 = ~z~Oh, hey there.
+
+HMSTD_IG3_ASK_2 = ~z~How's it going?
+
+HMSTD_IG3_ASK_3 = ~z~Well, it ain't going at all.
+
+HMSTD_IG3_ASK_4 = ~z~We're broke.
+
+HMSTD_IG3_NEAR_1 = ~z~Well, will you help us?
+
+HMSTD_IG3_NEG_1 = ~z~You'll have to figure this out yourselves, it ain't my problem.
+
+HMSTD_IG3_NEG_2 = ~z~I never said it was. No harm in asking.
+
+HMSTD_IG3_NEG_3 = ~z~I'm clutching at anything right now.
+
+HMSTD_IG3_PMON_1 = ~z~Alright, here you go. But you best not be playing me for a fool.
+
+HMSTD_IG3_PMON_2 = ~z~Oh, I ain't mister. I swear.
+
+HMSTD_IG3_PWOOD_1 = ~z~Well... I ain't promising nothing, but I'll see what I can do.
+
+HMSTD_IG3_PWOOD_2 = ~z~There's a logging camp over in Big Valley, pretty much straight west of here, that
+
+HMSTD_IG3_PWOOD_3 = ~z~might have lumber for sale.
+
+HMSTD_IG3_WALKS_1 = ~z~Ah, never mind.
+
+HMSTD_IG3_WALKS_2 = ~z~We'll figure something out, I guess.
+
+HMSTD_LOITER_01 = ~z~Well don't let me keep you.
+
+HMSTD_LOITER_02 = ~z~Well I'm sure you got things to do.
+
+HMSTD_LOITER_03 = ~z~Well don't feel you have to hang around on my account...
+
+HMSTD_MIN_AGG_01 = ~z~Alright, that's it! You've gone too far!
+
+HMSTD_MIN_AGG_02 = ~z~Get off my land!
+
+HMSTD_MIN_AGG_03 = ~z~I ain't gonna tell you again!
+
+HMSTD_MIN_AGG_04 = ~z~Now get the hell out of here!
+
+HMSTD_MIN_ATK_01 = ~z~Hey what are you doing?
+
+HMSTD_MIN_ATK_02 = ~z~Just back off!
+
+HMSTD_RESPA_1 = ~z~They don't look so bad to me.
+
+HMSTD_RESP_1 = ~z~If you're gonna do it, do it right.
+
+HMSTD_S1_AGGR1_1 = ~z~Alright, that's it. You've gone too far!
+
+HMSTD_S1_AGGR2_1 = ~z~Get the hell off our property!
+
+HMSTD_S1_AGGR3_1 = ~z~I ain't gonna tell you again!
+
+HMSTD_S1_AGGR4_1 = ~z~Now get the hell out of here!
+
+HMSTD_S1_AIM1_1 = ~z~Hey, watch where you're pointing that thing.
+
+HMSTD_S1_AIM2_1 = ~z~You best put that away, before you hurt somebody.
+
+HMSTD_S1_AMB1_01 = ~z~I hate this, it's so stupid.
+
+HMSTD_S1_AMB1_02 = ~z~He just wants to lord over us.
+
+HMSTD_S1_AMB1_03 = ~z~We should never have said yes to this.
+
+HMSTD_S1_AMB2_01 = ~z~Shit, I didn't think they were serious.
+
+HMSTD_S1_AMB2_02 = ~z~We're lucky to be alive.
+
+HMSTD_S1_AMB2_03 = ~z~Wish Pa'd teach us to shoot instead building this stupid house.
+
+HMSTD_S1_AMB3A_01 = ~z~We run out of money and he still won't give up.
+
+HMSTD_S1_AMB3A_02 = ~z~Maybe he'll see reason now.
+
+HMSTD_S1_AMB3A_03 = ~z~I swear he's crazy.
+
+HMSTD_S1_AMB3B_01 = ~z~Soon as we're finished, I'm striking out on my own.
+
+HMSTD_S1_AMB3B_02 = ~z~We're almost done, right?
+
+HMSTD_S1_AMB3B_03 = ~z~Just a few more nails.
+
+HMSTD_S1_AMB3C_01 = ~z~Seriously? Who gives away that much?
+
+HMSTD_S1_AMB3C_02 = ~z~Dammit, I was really hoping to get out of this.
+
+HMSTD_S1_AMB3C_03 = ~z~Guess we just have to hurry up and finish.
+
+HMSTD_S1_ATKM1_1 = ~z~Hey enough of that.
+
+HMSTD_S1_ATKM2_1 = ~z~Just back off.
+
+HMSTD_S1_ATKM3_1 = ~z~Hey, watch it.
+
+HMSTD_S1_ATKM4_1 = ~z~Are you crazy?
+
+HMSTD_S1_BODY1_1 = ~z~I sure hope you got a good reason for carrying them around.
+
+HMSTD_S1_BODY2_1 = ~z~I think it's best you keep moving along.
+
+HMSTD_S1_CBT1_1 = ~z~Holy shit, just calm down.
+
+HMSTD_S1_CBT2_1 = ~z~Leave me outta this.
+
+HMSTD_S1_DIR_1 = ~z~Not that I care too much, but I think my father might want your help.
+
+HMSTD_S1_DYN1_1 = ~z~Whoa, what are you doing with that dynamite?
+
+HMSTD_S1_DYN2_1 = ~z~You're gonna kill somebody, you're not careful.
+
+HMSTD_S1_HTF1_1 = ~z~What the hell are you doing to her?
+
+HMSTD_S1_HTM1_1 = ~z~What the hell are you doing to him?
+
+HMSTD_S1_NEG1_1 = ~z~You don't have the first idea what you're doing here, do you?
+
+HMSTD_S1_NEG1_2 = ~z~Hey, you're preaching to the choir, mister.
+
+HMSTD_S1_NEG2_1 = ~z~I don't know what you fools are playing at here.
+
+HMSTD_S1_NEG2_2 = ~z~It's like being in a chain gang, but your pa's the prison warden.
+
+HMSTD_S1_NEG3A_1 = ~z~You seriously think you're going to make any money off this place?
+
+HMSTD_S1_NEG3A_2 = ~z~You're right, who's gonna buy this hunk of junk?
+
+HMSTD_S1_NEG3B_1 = ~z~You can't think this shithole is worth anything?
+
+HMSTD_S1_NEG3B_2 = ~z~I don't care if we just give it away at this point.
+
+HMSTD_S1_POS1_1 = ~z~Keep at it, you'll get there.
+
+HMSTD_S1_POS1_2 = ~z~I'd seriously rather be doing anything else.
+
+HMSTD_S1_POS2_1 = ~z~You'll be alright.
+
+HMSTD_S1_POS2_2 = ~z~If only I could turn back time and say no to this.
+
+HMSTD_S1_POS3A_1 = ~z~The place is looking good.
+
+HMSTD_S1_POS3A_2 = ~z~We're done if we don't get more money.
+
+HMSTD_S1_POS3B_1 = ~z~Looks like you're almost there.
+
+HMSTD_S1_POS3B_2 = ~z~We might actually finish this thing.
+
+HMSTD_S1_STEAL1_1 = ~z~Hey, that ain't yours.
+
+HMSTD_S1_STEAL2_1 = ~z~Don't you do that again.
+
+HMSTD_S1_STEAL3_1 = ~z~Again? Are you serious?
+
+HMSTD_S1_STEAL4_1 = ~z~Thieving bastard!
+
+HMSTD_S2_AGGR1_1 = ~z~Alright, I've had enough of this.
+
+HMSTD_S2_AGGR2_1 = ~z~You need to get off our land right now.
+
+HMSTD_S2_AGGR3_1 = ~z~Are you listening to me?
+
+HMSTD_S2_AGGR4_1 = ~z~Get the hell out of here.
+
+HMSTD_S2_AIM1_1 = ~z~Hey, put that down.
+
+HMSTD_S2_AIM2_1 = ~z~Come on, mister, don't do nothing stupid.
+
+HMSTD_S2_AMB1_01 = ~z~I can't believe he's making us build a house.
+
+HMSTD_S2_AMB1_02 = ~z~He's barely even picked up a hammer.
+
+HMSTD_S2_AMB1_03 = ~z~Making us do all the work...
+
+HMSTD_S2_AMB2_01 = ~z~They tried to kill us.
+
+HMSTD_S2_AMB2_02 = ~z~All that for this crappy piece of land.
+
+HMSTD_S2_AMB2_03 = ~z~I never wanted to be here in the first place...
+
+HMSTD_S2_AMB3A_01 = ~z~At least we don't have to work now.
+
+HMSTD_S2_AMB3A_02 = ~z~Can we just go home already?
+
+HMSTD_S2_AMB3A_03 = ~z~This was a bad idea from the start...
+
+HMSTD_S2_AMB3B_01 = ~z~Can't we just leave it now?
+
+HMSTD_S2_AMB3B_02 = ~z~Who's going to buy this shithole?
+
+HMSTD_S2_AMB3B_03 = ~z~At least we're almost done.
+
+HMSTD_S2_AMB3C_01 = ~z~I can't believe this.
+
+HMSTD_S2_AMB3C_02 = ~z~Why can't we just quit?
+
+HMSTD_S2_AMB3C_03 = ~z~I'm done with this.
+
+HMSTD_S2_ATKM1_1 = ~z~What the hell's your problem?
+
+HMSTD_S2_ATKM2_1 = ~z~Just leave me alone.
+
+HMSTD_S2_ATKM3_1 = ~z~Hey, what are you doing?
+
+HMSTD_S2_ATKM4_1 = ~z~Just cut it out, will you?
+
+HMSTD_S2_BODY1_1 = ~z~You a bounty hunter, mister?
+
+HMSTD_S2_BODY2_1 = ~z~Ain't sure you should be carrying them around on our land.
+
+HMSTD_S2_CBT1_1 = ~z~Hey, hey, what's going on here?
+
+HMSTD_S2_CBT2_1 = ~z~Just take it easy, come on.
+
+HMSTD_S2_DIR_1 = ~z~I think my father might want your help.
+
+HMSTD_S2_DIR_2 = ~z~Maybe he'll yell at someone else for a change.
+
+HMSTD_S2_DYN1_1 = ~z~Hey, what's the dynamite for?
+
+HMSTD_S2_DYN2_1 = ~z~That seems a real bad idea, mister.
+
+HMSTD_S2_HTF1_1 = ~z~Hey, leave her alone.
+
+HMSTD_S2_HTF2_1 = ~z~What are you doing to that woman?
+
+HMSTD_S2_HTM1_1 = ~z~Hey, what are you doing?
+
+HMSTD_S2_HTM2_1 = ~z~You can't do that! Let him go.
+
+HMSTD_S2_NEG1_1 = ~z~You boys don't seem cut out for this.
+
+HMSTD_S2_NEG1_2 = ~z~Oh, I agree. We ain't. This was our pa's dumb idea.
+
+HMSTD_S2_NEG2_1 = ~z~What, you can't even defend yourself?
+
+HMSTD_S2_NEG2_2 = ~z~He won't let us have no guns. I just want to go home now.
+
+HMSTD_S2_NEG3A_1 = ~z~You fools are never going to finish this place.
+
+HMSTD_S2_NEG3A_2 = ~z~I know, but try telling that to our pa.
+
+HMSTD_S2_NEG3B_1 = ~z~You can't think this piece of shit is worth anything?
+
+HMSTD_S2_NEG3B_2 = ~z~I don't even care. I just want to be done with it.
+
+HMSTD_S2_POS1_1 = ~z~Having fun there?
+
+HMSTD_S2_POS1_2 = ~z~This is the exact opposite of fun, mister.
+
+HMSTD_S2_POS2_1 = ~z~You'll be alright, just stick it out.
+
+HMSTD_S2_POS2_2 = ~z~I just want to go back home.
+
+HMSTD_S2_POS3A_1 = ~z~Looks like you're almost finished.
+
+HMSTD_S2_POS3A_2 = ~z~And now we're broke. I swear we'll never be rid of this place.
+
+HMSTD_S2_POS3B_1 = ~z~Looks like you're almost done.
+
+HMSTD_S2_POS3B_2 = ~z~I sure hope so. God, I can't wait to get out of here.
+
+HMSTD_S2_STEAL1_1 = ~z~Hey, you can't just take that.
+
+HMSTD_S2_STEAL2_1 = ~z~I'm gonna keep my eye on you.
+
+HMSTD_S2_STEAL3_1 = ~z~Stop taking our stuff, damn it.
+
+HMSTD_S2_STEAL4_1 = ~z~Right from under my nose, you bastard.
+
+HMSTD_S3_ILOANT_1 = ~z~Looks like it'd blow down in a light breeze.
+
+HMSTD_S3_ILOANT_2 = ~z~Hey, come on, don't kick a feller while he's down.
+
+HMSTD_S3_ILOGRT_1 = ~z~Looks like you're making progress at least.
+
+HMSTD_S3_ILOGRT_2 = ~z~Sure don't feel like it.
+
+HMSTD_SONS_FIRE_1 = ~z~Why does he yell at us like that?
+
+HMSTD_SONS_FIRE_2 = ~z~If he don't like the way we're doing it, he should do it himself.
+
+HMSTD_SONS_FIRE_3 = ~z~Damn straight.
+
+HMSTD_SONS_FIRE_4 = ~z~Let's just enjoy the silence for a few minutes, before he starts griping at us again.
+
+HMSTD_STEAL1_01 = ~z~Hey, that ain't yours to take!
+
+HMSTD_STEAL1_02 = ~z~No more of that, you hear me?
+
+HMSTD_STEAL2_01 = ~z~Will you keep your hands off our property?
+
+HMSTD_STEAL2_02 = ~z~Thieving bastard.
+
+HOME2_NEG_AO_1 = ~z~You make a sorry trio, I gotta say.
+
+HOME2_NEG_ILO_1 = ~z~You make a sorry trio, I gotta say.
+
+HOME2_NEG_ILO_2 = ~z~It's just been one thing after the next. Can't wait to just be shut of the place.
+
+HOME2_POS_AO_1 = ~z~You'll be alright, just stick it out.
+
+HOME2_POS_ILO_1 = ~z~You'll be alright, just stick it out.
+
+HOME2_POS_ILO_2 = ~z~I hope you're right.
+
+HOME_AGGRO_1 = ~z~Hey! What the hell do you think you're doing?
+
+HOME_ATAK03_1 = ~z~That's right, that's right... you better run.
+
+HOME_ATAK04_1 = ~z~~sl:1.5:2.6:1~Don't reckon they'll be back any time soon.
+
+HOME_ATAKFP_01 = ~z~Yeah! Give it to those sons of bitches!
+
+HOME_ATAKFP_02 = ~z~That's it! Get 'em!
+
+HOME_ATAKFP_03 = ~z~Shoot them, the damn crooks!
+
+HOME_ATAKF_01 = ~z~I ain't paying you a damn cent!
+
+HOME_ATAKF_02 = ~z~You can't intimidate me!
+
+HOME_ATAKF_03 = ~z~I'll kill all you bastards!
+
+HOME_ATAKILO_1 = ~z~What the hell is going on?
+
+HOME_ATAKILO_1_1 = ~z~What the hell is going on?
+
+HOME_ATAKILO_1_2 = ~z~They think it's their land. But it ain't.
+
+HOME_ATAKILO_2 = ~z~Just help us out here!
+
+HOME_ATAKILO_2_1 = ~z~What's all this about?
+
+HOME_ATAKILO_2_2 = ~z~Help us, please!
+
+HOME_ATAKP2_1 = ~z~Not gonna tell you again, get the hell outta here. Now.
+
+HOME_ATAKP3_1 = ~z~I'm done with this son of a bitch. Take him out, boys.
+
+HOME_ATAKP_1 = ~z~Hey! Get outta here. This doesn't concern you.
+
+HOME_ATAKR_01 = ~z~We told you not to build on this land.
+
+HOME_ATAKR_02 = ~z~We've given you enough chances.
+
+HOME_ATAKR_03 = ~z~Should'a paid up. Stubborn old fool.
+
+HOME_ATAK_1 = ~z~I won't be pushed around by the likes of you!
+
+HOME_BYE_2A_1 = ~z~Stay out of trouble.
+
+HOME_BYE_2A_2 = ~z~I'll try...
+
+HOME_BYE_2B_1 = ~z~You seem to be back on track anyway. I'll see you later.
+
+HOME_BYE_2B_2 = ~z~Yup. For now, at least...
+
+HOME_BYE_3AN_1 = ~z~I'm gonna get out of here before you try to scrounge anything else off me.
+
+HOME_BYE_3AN_2 = ~z~Hey, you don't ask, you don't get.
+
+HOME_BYE_3AY_1 = ~z~Bye then...I'll keep an eye out for that lumber.
+
+HOME_BYE_3AY_2 = ~z~I appreciate it.
+
+HOME_BYE_3B_1 = ~z~I'll be back later for what you owe me.
+
+HOME_BYE_3B_2 = ~z~I'll have it just as soon as we manage to sell this place off.
+
+HOME_BYE_4_1 = ~z~You stay out of trouble, now.
+
+HOME_BYE_4_2 = ~z~Heh, with my luck? We'll see.
+
+HOME_DEAD_1_1 = ~z~No, Pa!
+
+HOME_DEAD_2_1 = ~z~Shit, I'm outta here.
+
+HOME_LN01ANA_01 = ~z~You got some nerve coming back here! Get the hell out of my sight or you'll be sorry!
+
+HOME_LN01ANA_02 = ~z~What the hell do you want now? Ain't you done enough to hurt us? Leave us the hell alone!
+
+HOME_LN01ANA_03 = ~z~No, you get the hell out of here! Stay away from my family!
+
+HOME_LN01ANN_01 = ~z~Just keep your mouth shut or this visit'll go a lot worse.
+
+HOME_LN01ANN_02 = ~z~You better watch that mouth before you go and make me angry again.
+
+HOME_LN01ANN_03 = ~z~Careful, my friend. You don't want to get me all riled up again.
+
+HOME_LN01ANP_01 = ~z~There was me thinking we'd put all that behind us.
+
+HOME_LN01ANP_02 = ~z~Alright, keep your shirt on. Just paying my regards.
+
+HOME_LN01ANP_03 = ~z~Guess you're still carrying that grudge, huh?
+
+HOME_LN01ANW_1 = ~z~No, no, no! Get out of here! We don't want your help, not after what you did!
+
+HOME_LN01EA_1 = ~z~Turned out pretty nice, huh? Just sold it to a farmer moving up here from the south.
+
+HOME_LN01EA_2 = ~z~As much trouble as it was, I... think I might actually miss the place.
+
+HOME_LN01E_1 = ~z~Well hey there! What do you think? Turned out pretty nice, didn't it?
+
+HOME_LN01E_2 = ~z~Time for me to move on, though. Just sold it to a farmer moving up here from the south.
+
+HOME_LN01NPA_1 = ~z~No, no, you go away! We don't need you raising no more hell round here!
+
+HOME_LN02ANA_01 = ~z~That means leave! I don't want to see you around here.
+
+HOME_LN02ANA_02 = ~z~Go on, get out of here! I don't want to see your face.
+
+HOME_LN02ANA_03 = ~z~Are you listening to me? You ain't welcome here.
+
+HOME_LN02EAN_1 = ~z~I can't believe you got somebody to buy that pile of scrap wood.
+
+HOME_LN02EAN_2 = ~z~Alright. If that's how you're gonna be, I'm leaving.
+
+HOME_LN02EAP_1 = ~z~Yeah, doesn't look half bad. Glad it all worked out for you.
+
+HOME_LN02EAP_2 = ~z~Yep. Well, I should be making tracks. All the best to you.
+
+HOME_LN02ERN_1 = ~z~Just give me my money.
+
+HOME_LN02ERP_1 = ~z~Good for you. So, can I have my money now?
+
+HOME_LN02NPA_1 = ~z~What's your problem? Can't you just leave us alone?
+
+HOME_LN03AJA_1 = ~z~Alright, sure. Take it. Ain't like I got much use for it.
+
+HOME_LN03AJ_1 = ~z~I ain't promising nothing, but I'll see what I can do.
+
+HOME_LN03ANA_01 = ~z~Get the hell off my property!
+
+HOME_LN03ANA_02 = ~z~Go away!
+
+HOME_LN03ANA_03 = ~z~Move it!
+
+HOME_LN03E1_1 = ~z~Of course, not a problem.
+
+HOME_LN03E2_1 = ~z~We managed to drum some together. Here you are, as promised, and with interest.
+
+HOME_LN04ANA_01 = ~z~I won't tell you again.
+
+HOME_LN04ANA_02 = ~z~Get the hell out of here now!
+
+HOME_LN04ANA_03 = ~z~I won't warn you again, leave!
+
+HOME_NJIN_1 = ~z~Yeah, you better.
+
+HOME_NJIP_1 = ~z~Okay, I'll take your word for it.
+
+HOME_NJI_1 = ~z~Hey there! Thanks to your help, we should be finished with this soon, God willing.
+
+HOME_NJI_2 = ~z~And don't worry, I ain't forgotten your payment. Come back once we've finished and I'll have it for you.
+
+HOME_THXA_1 = ~z~Appreciate you stepping in there.
+
+HOME_THXA_2 = ~z~Those bastards been turning the screw on me from day one, saying I gotta pay them "protection" money.
+
+HOME_THXA_3 = ~z~I told 'em where to stick it and, well, guess you just saw how that panned out.
+
+HOME_THXB_1 = ~z~Look at all that wood! I don't believe it! I can't thank you enough, friend.
+
+HOME_WLCMA2_1 = ~z~What happened to you two? Cowering like dogs!
+
+HOME_WLCMA2_2 = ~z~You wouldn't give us no guns, Pa!
+
+HOME_WLCMA2_3 = ~z~This is the worst idea I ever had.
+
+HOME_WLCMA2_4 = ~z~We're with you on that.
+
+HOME_WLCMAN_1 = ~z~Reckon you fellers should've just paid up.
+
+HOME_WLCMA_1 = ~z~You watch yourself, alright?
+
+HOME_WLCMB_1 = ~z~You're paying me back, though.
+
+HOME_WLCMB_2 = ~z~Oh, of course, of course! Just as soon as we sell the house you'll get your money back, and then some!
+
+HSMTD_IG2_IFA2_1 = ~z~What's your problem? Can't you just leave us alone?
+
+HSMTD_IG2_IFA2_2 = ~z~What would be the fun in that?
+
+HSMTD_IG2_IFA_1 = ~z~No, no, you go away! We don't need you raising no more hell around here.
+
+HSMTD_IG2_IFA_2 = ~z~I'm just passing through, nothin' but civil.
+

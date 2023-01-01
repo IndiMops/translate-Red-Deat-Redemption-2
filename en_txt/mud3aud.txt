@@ -1,0 +1,1064 @@
+MUD3_AFTERYOU_1 = ~z~After you.
+
+MUD3_ARTHCHASE_01 = ~z~You stop right here!
+
+MUD3_ARTHCHASE_02 = ~z~That's far enough!
+
+MUD3_ARTHCHASE_03 = ~z~We need to talk, pal!
+
+MUD3_ARTHFIGHT1_1 = ~z~I paid for nothing!
+
+MUD3_ARTHFIGHT2_1 = ~z~Think you two can scam me?
+
+MUD3_ARTHUR_PAY_1 = ~z~So, you're actually buying for once? Are you feeling alright?
+
+MUD3_ARTHUR_PAY_2 = ~z~See this? Young folk got no respect for their elders no more.
+
+MUD3_BOUGHT_1 = ~z~That should do us, let's go wait for them outside.
+
+MUD3_BOUNTY_1 = ~z~Sheriff's office on the right. Sure you can pick up some bounties there, Arthur.
+
+MUD3_BOUNTY_2 = ~z~Heaven forbid you put your head on the line.
+
+MUD3_BOUNTY_3 = ~z~~sl:1.0:0.0~That's a young man's game.
+
+MUD3_BUY_THING_1 = ~z~You not getting anything, Arthur?
+
+MUD3_BUY_THING_2 = ~z~I don't know... maybe.
+
+MUD3_CALLHELP_01 = ~z~Help!
+
+MUD3_CALLHELP_02 = ~z~Please, do something!
+
+MUD3_CALLHELP_03 = ~z~Please, I can't get up!
+
+MUD3_CALLHELP_04 = ~z~You have to help me!
+
+MUD3_CALLHELP_05 = ~z~Help! Someone!
+
+MUD3_CANWEGO_01 = ~z~Can we go now?
+
+MUD3_CANWEGO_02 = ~z~Can you do another old feller a favor and get back on the damn wagon?
+
+MUD3_CANWEGO_03 = ~z~Come on, Arthur, enough showing off.
+
+MUD3_CLERK_2B_1 = ~z~I'm looking for a girl who came in here earlier with a drunk feller?
+
+MUD3_CLERK_2B_2 = ~z~Mid twenties, blonde, you'd remember her.
+
+MUD3_CLERK_2B_3 = ~z~Yeah, they're in 2B, upstairs. Are you, uh, a friend of his?
+
+MUD3_CLERK_2B_4 = ~z~A friend of hers...
+
+MUD3_CMON_1 = ~z~Let's go.
+
+MUD3_DONTBOTHER_1 = ~z~Please don't bother the other guests, sir!
+
+MUD3_DOWNSTAIR1_1 = ~z~No, no, t-they're upstairs. Room 2B.
+
+MUD3_DOWNSTAIR2_1 = ~z~Sir?
+
+MUD3_EXIT_FIRST_01 = ~z~Go on, lead the way.
+
+MUD3_EXIT_FIRST_02 = ~z~~sl:0.3~This isn't one of the “ladies first” situations.
+
+MUD3_EXT_1 = ~z~Help me!
+
+MUD3_EXT_2 = ~z~Alright, come on.
+
+MUD3_EXT_3 = ~z~You okay, partner?
+
+MUD3_EXT_4 = ~z~No...
+
+MUD3_EXT_5 = ~z~no, I am not.
+
+MUD3_EXT_6 = ~z~I'm a mess.
+
+MUD3_EXT_7 = ~z~Well, you ain't dead.
+
+MUD3_EXT_8 = ~z~There is that.
+
+MUD3_EXT_9 = ~z~Jimmy Brooks.
+
+MUD3_EXT_10 = ~z~I think it's best for both of us...
+
+MUD3_EXT_11 = ~z~if we pretend this never happened.
+
+MUD3_EXT_12 = ~z~Oh, I agree.
+
+MUD3_EXT_13 = ~z~You saved my life.
+
+MUD3_EXT_14 = ~z~You're a good man and I, err...
+
+MUD3_EXT_15 = ~z~Here...
+
+MUD3_EXT_16 = ~z~you want a pen?
+
+MUD3_EXT_17 = ~z~It's one of them steel ones.
+
+MUD3_EXT_18 = ~z~Oh...
+
+MUD3_EXT_19 = ~z~that's very kind of you.
+
+MUD3_EXT_20 = ~z~But I'm not a good man, Jimmy Brooks...
+
+MUD3_EXT_21 = ~z~not usually.
+
+MUD3_EXT_22 = ~z~You see...
+
+MUD3_EXT_23 = ~z~ I was in Blackwater.
+
+MUD3_EXT_24 = ~z~I kill people...
+
+MUD3_EXT_25 = ~z~and maybe I shoulda killed you.
+
+MUD3_EXT_26 = ~z~Should I have killed you, Jimmy Brooks?
+
+MUD3_EXT_27 = ~z~Me...?
+
+MUD3_EXT_28 = ~z~I n-never saw you...
+
+MUD3_EXT_29 = ~z~not-not now, not-not never.
+
+MUD3_EXT_30 = ~z~I think we have an understanding?
+
+MUD3_EXT_31 = ~z~Of course we do.
+
+MUD3_EXT_32 = ~z~Jimmy Brooks...
+
+MUD3_EXT_33 = ~z~I will remember that.
+
+MUD3_EXT_34 = ~z~I've got a good memory.
+
+MUD3_EXT_LI_P1_1 = ~z~I haven't... I haven't! Not-not one lick! Not... one sense in this here old mind!
+
+MUD3_EXT_LI_P2_1 = ~z~C'mon, c'mon...
+
+MUD3_EXT_LI_P2_2 = ~z~You have a nice day now, sir.
+
+MUD3_FIND_WHISK_1 = ~z~~sl:1.0:0.0~This should do the trick.
+
+MUD3_FIND_WHISK_2 = ~z~Yep... that's fine whisky.
+
+MUD3_FOLLOWUNC_01 = ~z~Are we going to the store then?
+
+MUD3_FOLLOWUNC_02 = ~z~Are you joining me or not?
+
+MUD3_FOLLOWUNC_03 = ~z~Arthur, come on.
+
+MUD3_FOLW_FOREM_01 = ~z~I'm going, ain't I?
+
+MUD3_FOLW_FOREM_02 = ~z~You're lucky we're in a busy town, you son of a bitch.
+
+MUD3_FOLW_FOREM_03 = ~z~I'd advise you to stay away from me.
+
+MUD3_GIRLSBANT1_1 = ~z~Smell those sheep.
+
+MUD3_GIRLSBANT1_2 = ~z~Or is that Uncle?
+
+MUD3_GIRLSBANT1_3 = ~z~Very funny.
+
+MUD3_GIRLSBANT1_4 = ~z~This looks like a decent little town.
+
+MUD3_GIRLSBANT1_5 = ~z~Other people... finally.
+
+MUD3_GIRLSBANT1_6 = ~z~Look at all that snow on the mountains. ~rp~Sure don't want to be back up there.
+
+MUD3_GIRLSBANT1_7 = ~z~You think we should've asked Molly to come with us?
+
+MUD3_GIRLSBANT1_8 = ~z~Oh no, Miss O'Shea is far too high and mighty now for the likes of us...
+
+MUD3_GIRLSBANT1_9 = ~z~or to do any real work. She's a society lady, now.
+
+MUD3_GIRLSBANT1_10 = ~z~Okay,~rp~ take a good look around, ladies. ~rp~Let's see what we got here.
+
+MUD3_GIRLSBANT2_1 = ~z~Oh yes, ~rp~we can get up to some mischief here alright.
+
+MUD3_GIRLSBANT2_2 = ~z~Just remember, keep a low profile.
+
+MUD3_GIRLSBANT2_3 = ~z~Will you remember that, though, Arthur?
+
+MUD3_GIRLSBANT2_4 = ~z~Probably not.
+
+MUD3_GOT_HORSE_1 = ~z~~sl:0.0:0.5:1~Yes!
+
+MUD3_GOT_HORSE_2 = ~z~There, you got it!
+
+MUD3_GOT_HORSE_3 = ~z~~sl:0.5~Well done, Arthur!
+
+MUD3_GO_LEFT_1 = ~z~Go left here, down the main street.
+
+MUD3_GO_RIGHT_1 = ~z~Go right here, it's quicker.
+
+MUD3_GRIEFJIMMY_01 = ~z~What is wrong with you?
+
+MUD3_GRIEFJIMMY_02 = ~z~Hey! I thought we were done with this!
+
+MUD3_GRIEFJIMMY_03 = ~z~Oh my God, you're crazy!
+
+MUD3_HELPARTH_01 = ~z~Please!
+
+MUD3_HELPARTH_02 = ~z~I can't hold on much longer!
+
+MUD3_HELPARTH_03 = ~z~I made a mistake, I'm sorry!
+
+MUD3_HELPARTH_04 = ~z~I'm begging you.
+
+MUD3_HELPARTH_05 = ~z~Just pull me up, come on.
+
+MUD3_HELPARTH_06 = ~z~Please! My hands are slipping.
+
+MUD3_HOTELROOM_1 = ~z~What the hell were you doing here?
+
+MUD3_HOTELROOM_2 = ~z~Trying to play him. Not very well.
+
+MUD3_HOTEL_DWD1_1 = ~z~I thought you said you was going to see about Karen?
+
+MUD3_HOTEL_DWD2_1 = ~z~~sl:0.0:1.8~I really think you should check on her, Arthur.~sl:~She's been in there a while.
+
+MUD3_HOT_DAWDLE_01 = ~z~Like I said, as far as I know they're in 2B.
+
+MUD3_HOT_DAWDLE_02 = ~z~They paid for the room up front, so I didn't ask any questions.
+
+MUD3_HOT_GREET_1 = ~z~Can I help you, sir?
+
+MUD3_HOT_GUN_1 = ~z~~sl:0.3:0.0~I-I-I didn't see nothing!
+
+MUD3_HOT_GUN_2 = ~z~~sl:0.3:0.0~I, I didn't hear nothing, uh, just...
+
+MUD3_HOT_GUN_3 = ~z~Just, j-just please,  j-just leave!
+
+MUD3_HOT_NOGUN_1 = ~z~I hope, uh, everything's okay up there?
+
+MUD3_HOT_WAIT_01 = ~z~You looking for a room?
+
+MUD3_HOT_WAIT_02 = ~z~A bath, perhaps?
+
+MUD3_HOT_WAIT_03 = ~z~Sir?
+
+MUD3_IG2_HI_1 = ~z~Can I help you, sir?
+
+MUD3_IG2_HI_2 = ~z~No... wrong room.
+
+MUD3_IG2_HI_3 = ~z~No harm done.
+
+MUD3_IG2_LING_1 = ~z~~sl:0.0:0.9~Join me...~sl:0.4:1.2~I'm a Chelonian.~sl:0.2~Have you read our book?
+
+MUD3_IG2_LING_2 = ~z~No, I was just leaving.
+
+MUD3_IG2_LING_3 = ~z~
+
+MUD3_IG3_B_1 = ~z~~sl:0.9:1.6:1~You think this is funny?
+
+MUD3_IG3_B_2 = ~z~~sl:0.0:1.7:1~Leave me alone, all of you!
+
+MUD3_IG3_B_3 = ~z~~sl:0.0:2.6:1~Every time I get a goddamn rhythm...
+
+MUD3_IG3_ENTER_1 = ~z~Oh, get the hell outta here will you?
+
+MUD3_IG3_ENTER_2 = ~z~Sorry... wrong room.
+
+MUD3_IG3_ENTER_3 = ~z~~sl:1.1:2.1:1~Can't a man get some goddamn peace...
+
+MUD3_IG7_FALL_1 = ~z~~sl:0.0:1.7~Come on, hyah!~sl:1.3:0.8:1~Hyah!
+
+MUD3_IG8_BASE_1 = ~z~
+
+MUD3_IG8_BASE_2 = ~z~
+
+MUD3_IG8_DOOR_1 = ~z~
+
+MUD3_IG8_DOOR_2 = ~z~Hey!
+
+MUD3_IG8_DOOR_3 = ~z~Who are you?
+
+MUD3_IG8_DOOR_4 = ~z~A friend of hers.
+
+MUD3_IG8_DOOR_5 = ~z~Get outta here, buddy, I paid.
+
+MUD3_IG8_DOOR_6 = ~z~~sl:0.0:0.9~Ain't paid to hit her,~sl:~you goddamn animal!
+
+MUD3_IG8_DOOR_7 = ~z~Come here!
+
+MUD3_IG9_COWER_1 = ~z~I-I-I didn't see nothing!
+
+MUD3_IG9_COWER_2 = ~z~I didn't hear nothing, just -
+
+MUD3_IG9_COWER_3 = ~z~Just, please, just leave!
+
+MUD3_IG15_A_1 = ~z~You okay?
+
+MUD3_IG15_A_2 = ~z~Fine...
+
+MUD3_IG15_A_3 = ~z~You sure?
+
+MUD3_IG15_A_4 = ~z~~sl:0.0:5.7~Yeah. Nothing... nothing to worry about, just... men, but...~sl:0.5~stupid bastard... stupid bastard was boasting about the bank.
+
+MUD3_IG15_A_5 = ~z~The bank?
+
+MUD3_IG15_A_6 = ~z~~sl:0.1:3.1~Sure, I know small town banks are usually a waste of time, but...~sl:0.2~this is a livestock town, there's lots of cash sometimes.
+
+MUD3_IG15_A_7 = ~z~Okay... keep investigating.
+
+MUD3_IG15_A_8 = ~z~I will.
+
+MUD3_IG17_HELP_1 = ~z~Alright... come on...
+
+MUD3_IG17_QUES_1 = ~z~Why are you telling lies about me?
+
+MUD3_IG17_QUES_2 = ~z~No, no! I-I-I got it wrong, partner... I got it very wrong, now please, help me up!
+
+MUD3_IG17_QUES_3 = ~z~I ain't never been in Blackwater...
+
+MUD3_IG17_QUES_4 = ~z~Then why are you chasing me?
+
+MUD3_IG17_QUES_5 = ~z~I've got an unfortunate face.
+
+MUD3_IG17_QUES_6 = ~z~Yes, yes... me too... now please, pull me up, please!
+
+MUD3_IG19_1 = ~z~So that's how you see yourself, is it? A maniac?
+
+MUD3_IG19_2 = ~z~Well, in my youth, I used to be known as the "one-shot kid".
+
+MUD3_IG19_3 = ~z~Okay... I'm not gonna ask why.
+
+MUD3_IG19_4 = ~z~You're a sad man, Arthur Morgan.
+
+MUD3_IG19_5 = ~z~But I know you love me.
+
+MUD3_IG19_6 = ~z~Desperately... you're my favorite parasite.
+
+MUD3_IG19_7 = ~z~No... ringworm's my favorite parasite, you're my second favorite parasite.
+
+MUD3_IG19_8 = ~z~Very funny.
+
+MUD3_IG19_9 = ~z~I lied... ringworm, then rats with the plague, then you.
+
+MUD3_IG19_10 = ~z~Shut up... this is the place, now. Come on.
+
+MUD3_IG21_GREET_1 = ~z~Get your hands off her, friend.
+
+MUD3_IG21_GREET_2 = ~z~~sl:1.4:0.7:1~Who are you?
+
+MUD3_IG21_GREET_3 = ~z~~sl:0.0:1.4:1~A friend of mine...
+
+MUD3_IG21_GREET_4 = ~z~Get off her.
+
+MUD3_IG21_GREET_5 = ~z~~sl:2.5~Or what, exactly?
+
+MUD3_IG21_GREET_6 = ~z~You wanna find out?
+
+MUD3_IG21_GREET_7 = ~z~~sl:0.0:3.3~You're making a big mistake, Tilly Jackson.~sl:1.8~I ain't doing this with you right now.
+
+MUD3_IG21_GREET_8 = ~z~Just get lost.
+
+MUD3_IG21_INTRO_1 = ~z~~sl:0.0:1.1:1~Get your hands off me.
+
+MUD3_IG21_INTRO_2 = ~z~~sl:0.0:2.0:1~You thought I wouldn't find you, Tilly?
+
+MUD3_IG21_INTRO_3 = ~z~You can go kiss a damn snake for all I care... get off me!
+
+MUD3_IG21_LOOP1_1 = ~z~Get off of me!
+
+MUD3_IG21_LOOP1_2 = ~z~~sl:0.0:3.3:1~I've been looking too long!
+
+MUD3_IG21_LOOP1_3 = ~z~~sl:0.0:1.5:1~I gotcha now!
+
+MUD3_IG21_LOOP1_4 = ~z~~sl:0.5~Stop... help!
+
+MUD3_IG21_LOOP2_1 = ~z~~sl:0.0:1.3:1~You're coming with me!
+
+MUD3_IG21_LOOP2_2 = ~z~~sl:0.0:1.6:1~Get off of me! Go!
+
+MUD3_IG21_LOOP2_3 = ~z~~sl:0.0:1.7:1~I've been looking too long.
+
+MUD3_IG21_LOOP2_4 = ~z~Let me go!
+
+MUD3_IG21_LOOP3_1 = ~z~~sl:0.0:1.4:1~I got you now.
+
+MUD3_IG21_THRET_1 = ~z~~sl:0.0:1.8:1~Get your hands off of her.
+
+MUD3_IG21_THRET_2 = ~z~~sl:0.0:0.6:1~Who are you?
+
+MUD3_IG21_THRET_3 = ~z~~sl:0.0:1.2:1~A friend of mine...
+
+MUD3_IG21_THRET_4 = ~z~Get the hell off of her, you son of a bitch.
+
+MUD3_IG21_THRET_5 = ~z~Hey... hey... take it easy. There's no problem here.
+
+MUD3_IG21_THRET_6 = ~z~There will be if you don't get outta here right now.
+
+MUD3_IG21_THRET_7 = ~z~~sl:0.0:3.3~You're making a big mistake, Tilly Jackson.~sl:2.2~I ain't doing this with you right now.
+
+MUD3_IG21_THRET_8 = ~z~Just get lost.
+
+MUD3_IG21_UNCLE_1 = ~z~~sl:0.0:2.4~Uncle! Look after her.~sl:0.5~I'mma go see about Karen in the hotel.
+
+MUD3_IG22_A_1 = ~z~Oh, goddamn it! Oh shit, the horses!
+
+MUD3_IG22_B_1 = ~z~~sl:0.0:1.8:1~Is one of you gonna get that feller's horse?
+
+MUD3_IG22_B_2 = ~z~Oh, I got lumbago, it's very serious!
+
+MUD3_IG23_1 = ~z~Here... here you go.
+
+MUD3_IG23_2 = ~z~You're a gentleman, sir, a gentleman!
+
+MUD3_IG23_3 = ~z~~sl:0.0:2.1~No, not really... I was just...~sl:0.3~trying to impress the women.
+
+MUD3_IG23_4 = ~z~~sl:0.6~Well, anyway, thank you.
+
+MUD3_IG24_BER_1 = ~z~I got a girl in Berryville...
+
+MUD3_IG24_BER_2 = ~z~can't be screwed 'cause she's too damn ill.
+
+MUD3_IG24_BER_3 = ~z~So I don't go down there no more.
+
+MUD3_IG24_BER_4 = ~z~There's a blue horse lays outside her door.
+
+MUD3_IG24_BER_B_1 = ~z~I got a girl in Berryville.
+
+MUD3_IG24_BER_B_2 = ~z~Can't get it in her cause she won't stay still.
+
+MUD3_IG24_BER_B_3 = ~z~She kicks and squeals and farts and hollers.
+
+MUD3_IG24_BER_B_4 = ~z~Won't take less than seven dollars.
+
+MUD3_IG24_INTRO_1 = ~z~Ladies, sing us a song.
+
+MUD3_IG24_INTRO_2 = ~z~I got a girl in Berryville...
+
+MUD3_IG24_INTRO_3 = ~z~can't be screwed 'cause she's too damn ill.
+
+MUD3_IG24_INTRO_4 = ~z~So I don't go down there no more.
+
+MUD3_IG24_INTRO_5 = ~z~There's a blue horse lays outside her door.
+
+MUD3_IG24_MSTK_1 = ~z~I got a girl in Berrybille...~n~~m~I got a girl across the lane...
+
+MUD3_IG24_MSTK_2 = ~z~I messed it up.
+
+MUD3_IG24_MSTK_3 = ~z~I got a girl across the lane...
+
+MUD3_IG24_MSTK_4 = ~z~hair down there like a horses mane.
+
+MUD3_IG24_MSTK_5 = ~z~I got a gal and she's got a thing
+
+MUD3_IG24_MSTK_6 = ~z~fits my peter like a diamond ring.
+
+MUD3_IG24_P1A1_1 = ~z~Why didn't you help that poor man?
+
+MUD3_IG24_P1A1_2 = ~z~L-lumbago! It's really serious, it can be deadly.
+
+MUD3_IG24_P1A1_3 = ~z~~sl:1.7:0.0~What about you, Arthur?
+
+MUD3_IG24_P1A1_4 = ~z~~sl:0.0:3.9~Do I look like I got the energy to waste on charity?~sl:0.6~That fool can get his own horse.
+
+MUD3_IG24_P1A1_5 = ~z~I don't believe you're quite that cold, Mr. Morgan.
+
+MUD3_IG24_P1A1_6 = ~z~~sl:0.0:1.9~Oh, I'm colder than you realize.~sl:0.6~I feel bad I didn't rob and kill the bastard.
+
+MUD3_IG24_P1A1_7 = ~z~~sl:0.4:0.0~Very inspiring, Arthur.
+
+MUD3_IG24_P1_1 = ~z~~sl:0.0:1.2:1~C'mon, let's go!
+
+MUD3_IG24_P1_2 = ~z~~sl:0.0:1.4:1~To Valentine!
+
+MUD3_IG24_P1_3 = ~z~
+
+MUD3_IG24_P1_4 = ~z~~sl:0.4:0.0~You're turning into a regular old fairy godmother there, Arthur.
+
+MUD3_IG24_P1_5 = ~z~What's that supposed to mean?
+
+MUD3_IG24_P1_6 = ~z~~sl:0.0:1.2~It means you've got a heart.~sl:0.2~A small one perhaps, hidden deep inside, but a real one.
+
+MUD3_IG24_P1_7 = ~z~And you haven't, you repulsive old lizard.
+
+MUD3_IG24_P1_8 = ~z~Lizards have hearts!
+
+MUD3_IG24_P1_9 = ~z~Well, Arthur, I'm proud of you.
+
+MUD3_IG24_P1_10 = ~z~~sl:0.0:2.8~To be honest, if you lot hadn't been here...~sl:0.9~I probably woulda robbed him.
+
+MUD3_IG24_P1_11 = ~z~
+
+MUD3_IG24_P1_12 = ~z~
+
+MUD3_IG24_P1_13 = ~z~~sl:0.4:1.3:1~Well, you didn't!
+
+MUD3_IG24_P1_14 = ~z~
+
+MUD3_IG24_VAL_1 = ~z~I got a girl in Valentine...
+
+MUD3_IG24_VAL_2 = ~z~likes to drink that fancy wine.
+
+MUD3_IG24_VAL_3 = ~z~Plumes in her hat was two feet tall...
+
+MUD3_IG24_VAL_4 = ~z~the crack in her pants paid for it all.
+
+MUD3_IG24_VAL_B_1 = ~z~I got a girl in Valentine...
+
+MUD3_IG24_VAL_B_2 = ~z~likes to drink that fancy wine.
+
+MUD3_IG24_VAL_B_3 = ~z~Plumes in her hat was two feet tall...
+
+MUD3_IG24_VAL_B_4 = ~z~The crack in her pants paid for it all.
+
+MUD3_IG25_1 = ~z~All done.
+
+MUD3_IG25_2 = ~z~Thank you kindly.
+
+MUD3_IG25_CHSE_1 = ~z~Now I know what the smell is.
+
+MUD3_IG25_CHSE_2 = ~z~That's a ripe cheese alright.
+
+MUD3_IG25_HARP_1 = ~z~Look at this, a jaw harp.
+
+MUD3_IG25_HARP_2 = ~z~What is this list of yours?
+
+MUD3_IG25_HARP_3 = ~z~I got a lot to replenish after that godawful time in the mountains.
+
+MUD3_IG25_MEAT_1 = ~z~What do you reckon, a lamb or a sausage?
+
+MUD3_IG25_MEAT_2 = ~z~Well, this here's a sheep town, the lamb's the best in the state.
+
+MUD3_IG26_1 = ~z~~sl:0.3:0.0~Arthur'll murder that dumb bastard.
+
+MUD3_IG26_2 = ~z~That's one of them Foreman boys.
+
+MUD3_IG27_CMON_1 = ~z~Come on.
+
+MUD3_IG27_EXIT_1 = ~z~~sl:0.0:3.4~Alright! Here we are, just like I said.~sl:0.2~The cultural center of civilization.
+
+MUD3_IG27_EXIT_2 = ~z~Man at his finest.
+
+MUD3_IG27_EXIT_3 = ~z~Uncle, what're we doing?
+
+MUD3_IG27_EXIT_4 = ~z~~sl:0.0:2.8~Well, we're gonna do what any self-respecting maniac does...~sl:0.5~put the women to work.
+
+MUD3_IG27_EXIT_5 = ~z~~sl:0.3:0.0~With pleasure... we'll start at the saloon.
+
+MUD3_IG27_EXIT_6 = ~z~Okay, just stay outta trouble and don't get yourselves noticed.
+
+MUD3_IG27_PARIS_1 = ~z~Come on ladies... imagine we're in Paris.
+
+MUD3_IG27_PARIS_2 = ~z~I imagine Paris and Valentine are easily confused.
+
+MUD3_IG27_STORE_1 = ~z~Right, I-I need to get something from the stores.
+
+MUD3_IG27_STORE_2 = ~z~Okay, well we'll see you at the general store when you're done.
+
+MUD3_INT_1 = ~z~Careful not to work yourself to death there, Uncle.
+
+MUD3_INT_2 = ~z~I was thinking.
+
+MUD3_INT_3 = ~z~Does it pay well?
+
+MUD3_INT_4 = ~z~Eventually.
+
+MUD3_INT_5 = ~z~So, while the rest of us are busy...
+
+MUD3_INT_6 = ~z~stealing, killing, lying...
+
+MUD3_INT_7 = ~z~fighting to try to survive...
+
+MUD3_INT_8 = ~z~you get to think all day.
+
+MUD3_INT_9 = ~z~It's a strange world we live in, Arthur Morgan.
+
+MUD3_INT_10 = ~z~Do you wanna head into town...
+
+MUD3_INT_11 = ~z~see if we can find anything out?
+
+MUD3_INT_12 = ~z~Sure, I got some errands to run.
+
+MUD3_INT_13 = ~z~Great.
+
+MUD3_INT_14 = ~z~Go check the horses are ready.
+
+MUD3_INT_15 = ~z~If you're gonna take the old man into town...
+
+MUD3_INT_16 = ~z~could you take us too?
+
+MUD3_INT_17 = ~z~Why what you got planned?
+
+MUD3_INT_18 = ~z~Nothing...
+
+MUD3_INT_19 = ~z~we'll find something for y'all to do...
+
+MUD3_INT_20 = ~z~we always do.
+
+MUD3_INT_21 = ~z~We're bored out of our minds.
+
+MUD3_INT_22 = ~z~Been cooped up here for two weeks now.
+
+MUD3_INT_23 = ~z~Karen's about ready to murder Grimshaw.
+
+MUD3_INT_24 = ~z~Well, can Miss Grimshaw spare you?
+
+MUD3_INT_25 = ~z~"Can Miss Grimshaw spare you?"
+
+MUD3_INT_26 = ~z~What's happened to you, Arthur?
+
+MUD3_INT_27 = ~z~Three young healthy women want you to take 'em robbing...
+
+MUD3_INT_28 = ~z~you're worried about house chores.
+
+MUD3_INT_29 = ~z~Let's go!
+
+MUD3_INT_30 = ~z~Fair enough, you got me.
+
+MUD3_INT_31 = ~z~Come on then.
+
+MUD3_INT_32 = ~z~I can't believe we're going to see civilization...
+
+MUD3_INT_33 = ~z~feels like weeks since we did.
+
+MUD3_INT_34 = ~z~Yeah, Valentine...
+
+MUD3_INT_35 = ~z~the very embodiment of civilization.
+
+MUD3_INT_36 = ~z~You ladies are gonna love it.
+
+MUD3_INT_37 = ~z~Sure, you'll see...
+
+MUD3_INT_38 = ~z~real civilized.
+
+MUD3_INT_39 = ~z~Okay then.
+
+MUD3_INT_40 = ~z~Let's go.
+
+MUD3_INT_P1A1_K_1 = ~z~
+
+MUD3_INT_P1A1_S_1 = ~z~Hey!
+
+MUD3_INT_P1A1_S_2 = ~z~
+
+MUD3_JIMMYCHASE_01 = ~z~I don't want no trouble!
+
+MUD3_JIMMYCHASE_02 = ~z~Mister, please, I'm sorry!
+
+MUD3_JIMMYCHASE_03 = ~z~I didn't mean nothing by it, honest!
+
+MUD3_KARENFIGHT_1 = ~z~~sl:0.0:1.0:1~Get off of me!
+
+MUD3_KARENFIGHT_2 = ~z~I'm getting what I paid for!
+
+MUD3_KARENFIGHT_3 = ~z~~sl:0.6:2.4:1~No! Get off!
+
+MUD3_KARENFIGHT_4 = ~z~You like that, huh?
+
+MUD3_KARENFIGHT_5 = ~z~~sl:0.0:0.9~Stop it!~sl:2.4:1.2:1~Go to hell!
+
+MUD3_KARENFIGHT_6 = ~z~You thieving bitch!
+
+MUD3_K_CHEER_01 = ~z~Let's see it, Arthur.
+
+MUD3_K_CHEER_02 = ~z~Show us how it's done.
+
+MUD3_K_CHEER_03 = ~z~~sl:0.5~You're a good man, Arthur.
+
+MUD3_MB_CHEER_01 = ~z~Go on, Arthur.
+
+MUD3_MB_CHEER_02 = ~z~It looks pretty spooked.
+
+MUD3_MB_CHEER_03 = ~z~You can do it, Arthur.
+
+MUD3_MCS1_1 = ~z~Alright...
+
+MUD3_MCS1_2 = ~z~here we are, just like I said...
+
+MUD3_MCS1_3 = ~z~cultural center of civilization...
+
+MUD3_MCS1_4 = ~z~man at his finest.
+
+MUD3_MCS1_5 = ~z~Uncle, what are we doing?
+
+MUD3_MCS1_6 = ~z~Well, we're going to do what any self-respecting maniac does...
+
+MUD3_MCS1_7 = ~z~put the women to work.
+
+MUD3_MCS1_8 = ~z~With pleasure...
+
+MUD3_MCS1_9 = ~z~we'll start at the saloon.
+
+MUD3_MCS1_10 = ~z~Okay, just stay out of trouble and don't get yourselves noticed.
+
+MUD3_MCS1_11 = ~z~Right, I need to get something from the stores.
+
+MUD3_MCS1_12 = ~z~Okay, well we'll see you at the general store when you're done.
+
+MUD3_MCS1_13 = ~z~Come on, ladies...
+
+MUD3_MCS1_14 = ~z~imagine we're in Paris.
+
+MUD3_MCS1_15 = ~z~I imagine Paris and Valentine are easily confused.
+
+MUD3_MCS1_16 = ~z~Come on.
+
+MUD3_MCS2_1 = ~z~Oh, here's to your good health, sir...
+
+MUD3_MCS2_2 = ~z~and to being down here, off that mountain.
+
+MUD3_MCS2_3 = ~z~Absolutely.
+
+MUD3_MCS2_4 = ~z~It's a funny world.
+
+MUD3_MCS2_5 = ~z~Here's to your good health, my sir.
+
+MUD3_MCS2_6 = ~z~It's a funny world.
+
+MUD3_MCS2_7 = ~z~This time in my career...
+
+MUD3_MCS2_8 = ~z~I pictured myself being married to an heiress.
+
+MUD3_MCS2_9 = ~z~Gentlemen.
+
+MUD3_MCS2_10 = ~z~I think I've got something good.
+
+MUD3_MCS2_11 = ~z~I snuck into this fancy house...
+
+MUD3_MCS2_12 = ~z~and acted like a servant girl...
+
+MUD3_MCS2_13 = ~z~usually works.
+
+MUD3_MCS2_14 = ~z~Someone was saying her sister was taking a trip...
+
+MUD3_MCS2_15 = ~z~from New York or someplace.
+
+MUD3_MCS2_16 = ~z~Train full of rich tourists, heading to Saint Denis...
+
+MUD3_MCS2_17 = ~z~and then cruising off to Brazil.
+
+MUD3_MCS2_18 = ~z~Okay.
+
+MUD3_MCS2_19 = ~z~A train laden with baggage and...
+
+MUD3_MCS2_20 = ~z~passing through a bit of deserted country at night...
+
+MUD3_MCS2_21 = ~z~as to get to the docks in time for the tides...
+
+MUD3_MCS2_22 = ~z~in some place called Scarlett Meadows.
+
+MUD3_MCS2_23 = ~z~Yeah, I know it...
+
+MUD3_MCS2_24 = ~z~yeah, yeah, it's right out near New Hanover.
+
+MUD3_MCS2_25 = ~z~Right, it's real quiet out there.
+
+MUD3_MCS2_26 = ~z~Sounds good.
+
+MUD3_MCS2_27 = ~z~Where's Tilly and Karen?
+
+MUD3_MCS2_28 = ~z~I think at the hotel...
+
+MUD3_MCS2_29 = ~z~they were picking up some drunken fellers...
+
+MUD3_MCS2_30 = ~z~that they was going to rob.
+
+MUD3_MCS2_31 = ~z~Why?
+
+MUD3_MCS2_32 = ~z~It seemed easy.
+
+MUD3_MCS2_33 = ~z~They have been gone for quite a while.
+
+MUD3_MCS2_34 = ~z~I guess I'll go see if there's any trouble.
+
+MUD3_MCS2_35 = ~z~Oh, there's Tilly over there...
+
+MUD3_MCS2_36 = ~z~that does not look ideal.
+
+MUD3_MCS2_37 = ~z~Excuse me.
+
+MUD3_MCS3_1 = ~z~Thank you, Arthur.
+
+MUD3_MCS3_2 = ~z~I don't much like being saved, but...
+
+MUD3_MCS3_3 = ~z~when I have to be.
+
+MUD3_MCS3_4 = ~z~I understand.
+
+MUD3_MCS3_5 = ~z~You okay?
+
+MUD3_MCS3_6 = ~z~Sure, he only punched me.
+
+MUD3_MCS3_7 = ~z~Arthur punched him a lot harder.
+
+MUD3_MCS3_8 = ~z~Yeah.
+
+MUD3_MCS3_9 = ~z~Alright then.
+
+MUD3_MCS3_10 = ~z~I don't much like being saved, but...
+
+MUD3_MCS3_11 = ~z~when I have to be.
+
+MUD3_MCS3_12 = ~z~I understand.
+
+MUD3_MCS3_13 = ~z~You okay?
+
+MUD3_MCS3_14 = ~z~Sure, he only punched me.
+
+MUD3_MCS3_15 = ~z~Arthur did a lot worse to him.
+
+MUD3_MCS3_16 = ~z~Alright, then.
+
+MUD3_MCS3_17 = ~z~Hey, who's that guy over there looking at us?
+
+MUD3_MCS3_18 = ~z~Weren't you in Blackwater a few weeks back?
+
+MUD3_MCS3_19 = ~z~Me?
+
+MUD3_MCS3_20 = ~z~No, sir.
+
+MUD3_MCS3_21 = ~z~Ain't from there.
+
+MUD3_MCS3_22 = ~z~Oh, you were.
+
+MUD3_MCS3_23 = ~z~Well, I definitely saw you. With a bunch of fellers.
+
+MUD3_MCS3_24 = ~z~Me? No.
+
+MUD3_MCS3_25 = ~z~Impossible.
+
+MUD3_MCS3_26 = ~z~Listen, buddy. Come here for a minute.
+
+MUD3_MCS3_27 = ~z~I saw you...
+
+MUD3_MCS3_28 = ~z~Come here.
+
+MUD3_MCS3_29 = ~z~Come on, get!
+
+MUD3_MCS3_30 = ~z~I don't like this.
+
+MUD3_MCS3_31 = ~z~Me neither.
+
+MUD3_MCS3_32 = ~z~Go get the girls home.
+
+MUD3_MCS3_33 = ~z~I'm gonna go have a word with our friend.
+
+MUD3_MCS3_34 = ~z~Be careful, Arthur.
+
+MUD3_MCS3_35 = ~z~Just a word.
+
+MUD3_MY_HORSE_1 = ~z~Hey! That's my horse!
+
+MUD3_MY_HORSE_2 = ~z~Just borrowing it...
+
+MUD3_NOTHELP1_1 = ~z~Go on, he's an old man!
+
+MUD3_NOTHELP2_1 = ~z~Come on! One of you?
+
+MUD3_NOTHELP3_1 = ~z~Like I said, Arthur, I've got terminal lumbago.
+
+MUD3_NOT_TO_TIL_01 = ~z~I wouldn't leave it much longer.
+
+MUD3_NOT_TO_TIL_02 = ~z~Hurry, Arthur.
+
+MUD3_NOT_TO_TIL_03 = ~z~He looks real mad.
+
+MUD3_NO_HORSE_0_1 = ~z~Hey you! Where's my horse? You said you we're borrowing it!
+
+MUD3_NO_HORSE_0_2 = ~z~It'll find its way back.
+
+MUD3_NO_HORSE_0_3 = ~z~You bastard!
+
+MUD3_NO_HORSE_1_1 = ~z~I'm sorry, friend, your horse didn't make it...
+
+MUD3_NO_HORSE_1_2 = ~z~What? No. That cost me a fortune.
+
+MUD3_NO_HORSE_1_3 = ~z~Just wanted you to know.
+
+MUD3_NO_HORSE_1_4 = ~z~I don't even know what to say...
+
+MUD3_NO_HORSE_2_1 = ~z~Hey you! Where's my horse? You said you we're borrowing it!
+
+MUD3_NO_HORSE_2_2 = ~z~Last time I saw it, it was alive and well.
+
+MUD3_NO_HORSE_2_3 = ~z~~sl:0.0:1.1~Unbelievable.~sl:0.4~I better go find it. Cost me a six months' pay that horse!
+
+MUD3_NO_HORSE_2_4 = ~z~You're lucky I ain't put the law on you!
+
+MUD3_NO_MONEY_1 = ~z~I got no money on me.
+
+MUD3_NO_MONEY_2 = ~z~Okay, wait for me outside when you're done.
+
+MUD3_O_BOUGHT_1 = ~z~Okay, if you're done, I'll meet you outside. I won't be too long.
+
+MUD3_O_DEADEYE_1 = ~z~~sl:0.0:2.0~Why don't you pick out a cigar?~sl:0.3~A cigar always focuses the mind, I find.
+
+MUD3_O_DEADEYE_2 = ~z~What are you saying?
+
+MUD3_O_DEADEYE_3 = ~z~Well, you seem a little scattered, Arthur. Trust Old Uncle.
+
+MUD3_O_HEALTH_1 = ~z~~sl:0.0:1.6~They got some nice jerky here,~sl:0.4~and you look like you could use some energy, Arthur.
+
+MUD3_O_STAMINA_1 = ~z~~sl:0.0:2.0~You're looking a bit tired there, Arthur.~sl:0.2~Why you don't pick up some coffee while we're here?
+
+MUD3_O_TREAT_1 = ~z~~sl:0.0:1.8~Why don't you treat yourself to something, hm?~sl:0.2~Nice bar of chocolate always goes well with a slug of whisky.
+
+MUD3_PARKWAGON_1 = ~z~Let's park up down the end there, near the stables.
+
+MUD3_RET_HORSE_1 = ~z~Here's your horse back, friend.
+
+MUD3_RET_HORSE_2 = ~z~Oh, you really were just borrowing it!
+
+MUD3_RET_HORSE_3 = ~z~Appreciate it.
+
+MUD3_RET_H_RID_1 = ~z~~sl:0.2~Am I glad to see you!
+
+MUD3_RET_H_TEFT_1 = ~z~Hey! You damn thief!
+
+MUD3_RET_H_WAVE_1 = ~z~Hey! My horse!
+
+MUD3_RET_N_WAVE_1 = ~z~Hey, mister!
+
+MUD3_RE_ATTACK_1 = ~z~No! What are you doing?
+
+MUD3_RE_GRIEF_01 = ~z~What the hell did I ever do to you?
+
+MUD3_RE_GRIEF_02 = ~z~Why have you got it in for me?
+
+MUD3_RE_GRIEF_03 = ~z~Goddamn it! I just want to go home.
+
+MUD3_RE_GRIEF_04 = ~z~You son of a bitch!
+
+MUD3_RE_GRIEF_05 = ~z~What is your problem?
+
+MUD3_RE_HELP_2_1 = ~z~~sl:0.0:2.6~Oh hey, you couldn't help me get my other horse back~sl:~from over there, could you?
+
+MUD3_RE_HELP_3_1 = ~z~~sl:0.0:1.7~I'd really appreciate the help.~sl:~I'm worried this one here will bolt on me too, if I leave him.
+
+MUD3_RE_INITIAL_1 = ~z~Hey, whoa! Slow down, damn it.
+
+MUD3_RE_LUM_1 = ~z~Lumbago. Really...
+
+MUD3_RE_NO_1 = ~z~Sorry, I'm afraid I ain't got the time to be running around after your horses.
+
+MUD3_RE_NO_2 = ~z~Just figured I'd ask. I worried this one's gonna bolt on me too.
+
+MUD3_RE_NO_3 = ~z~Tether it first then... good luck.
+
+MUD3_RE_N_WAIT_01 = ~z~~sl:0.0:1.3~I mean, you might as well...~sl:~get my horse for me if you're just gonna wait around.
+
+MUD3_RE_N_WAIT_02 = ~z~~sl:0.0:2.7~You know you don't seem in that much of a hurry.~sl:~Look, it'd only take you five minutes most.
+
+MUD3_RE_OFF_01 = ~z~Damn horses.
+
+MUD3_RE_OFF_02 = ~z~~sl:0.1~This is all I need.
+
+MUD3_RE_TILLY_N_1 = ~z~I'm sure he can handle it.
+
+MUD3_RE_TILLY_T_1 = ~z~I thought you wanted to head into town?
+
+MUD3_RE_TILLY_T_2 = ~z~Yes, but this won't take long. Look at the poor feller.
+
+MUD3_RE_TILLY_Y_1 = ~z~Alright, I'll see what's going on...
+
+MUD3_RE_WOAH_1 = ~z~Look at that coach, he... he's all over the place.
+
+MUD3_RE_WOAH_2 = ~z~Whoa, come on! Easy, easy. Easy!
+
+MUD3_RE_YES_1 = ~z~Sure, no problem.
+
+MUD3_RE_YES_2 = ~z~Thanks mister. It's the white one over there.
+
+MUD3_RE_YOUOK_1 = ~z~You alright there, friend?
+
+MUD3_RE_Y_WAIT_01 = ~z~He's real skittish, he's always been.
+
+MUD3_RE_Y_WAIT_02 = ~z~He's just on the other side of the tracks there.
+
+MUD3_SETOFF_NM2_1 = ~z~Alright, out through the trees here, then take a left.
+
+MUD3_SETOFF_YM2_1 = ~z~Alright, do you know the way?
+
+MUD3_SETOFF_YM2_2 = ~z~Yeah... me and the boys got into a bit of a fight at the saloon there.
+
+MUD3_SETOFF_YM2_3 = ~z~~sl:0.6~Already?
+
+MUD3_SETOFF_YM2_4 = ~z~~sl:0.0:2.9~Oh, so all that talk about how hard you been working...~sl:0.0:1.5:1~you mean drinking.
+
+MUD3_SHOOTCHASE_01 = ~z~No, please!
+
+MUD3_SHOOTCHASE_02 = ~z~Are you crazy?
+
+MUD3_SHOOTCHASE_03 = ~z~What the hell are you doing?
+
+MUD3_SHOP_BYE_1 = ~z~All the best, fellers.
+
+MUD3_SHOP_BYE_M_1 = ~z~All the best, fellers. Try to stay out of trouble now.
+
+MUD3_SHOP_MUD2_1 = ~z~Wait, ain't you the feller who had the fight with Tommy outside the saloon?
+
+MUD3_SHOP_MUD2_2 = ~z~Yeah, that all got a little out of hand, but... I didn't swing first.
+
+MUD3_SHOP_MUD2_3 = ~z~Sure, well, these things happen. And that was some good viewing.
+
+MUD3_SHOP_MUD2_4 = ~z~Don't reckon folk ever seen Tommy lose a fight before.
+
+MUD3_SHOP_MUD2_5 = ~z~Well, it's all done now.
+
+MUD3_SHOP_WELC_01 = ~z~Lemme know if you have any questions, fellers.
+
+MUD3_SHOP_WELC_02 = ~z~Plenty out on the shelves, but I got more out back.
+
+MUD3_SHOP_WELC_03 = ~z~Full stock list in the catalogue, here on the counter.
+
+MUD3_SHOP_WHISK_1 = ~z~Whiskey's on the top shelf, nearest the door.
+
+MUD3_SILLYNAG_1 = ~z~Come here you silly nag...
+
+MUD3_SORRYJB_1 = ~z~Sorry, Jimmy Brooks.
+
+MUD3_STARTCHASE_1 = ~z~You stay away from me!
+
+MUD3_STARTCHASE_2 = ~z~Get back here right now!
+
+MUD3_STOMP_1 = ~z~
+
+MUD3_STOMP_2 = ~z~~sl:0.8~Now you'll keep your mouth shut.
+
+MUD3_STORE_AFTN_1 = ~z~Afternoon.
+
+MUD3_STORE_EVEN_1 = ~z~Evening.
+
+MUD3_STORE_MORN_1 = ~z~Morning.
+
+MUD3_STORE_NMD2_1 = ~z~So what do you need?
+
+MUD3_STORE_NMD2_2 = ~z~A drop of whiskey for a start. Something to pass the time while we're waiting on the women.
+
+MUD3_STORE_NMD2_3 = ~z~Always thinking ahead, ain't you?
+
+MUD3_STORE_YMD2_1 = ~z~So what do you need?
+
+MUD3_STORE_YMD2_2 = ~z~A drop of whiskey for a start. Something to pass the time while we're waiting on the women.
+
+MUD3_STORE_YMD2_3 = ~z~Yeah, reckon I should probably steer clear of the saloon this time.
+
+MUD3_TILLY_MORE_1 = ~z~What was that all about?
+
+MUD3_TILLY_MORE_2 = ~z~Just someone I used to know.
+
+MUD3_TILLY_WAIT_1 = ~z~Go wait with Uncle and Mary-Beth, they're across the street.
+
+MUD3_TILLY_WAIT_2 = ~z~Okay, thanks Arthur.
+
+MUD3_TIMEFAIL_1 = ~z~I can't... hold... shit!
+
+MUD3_TIMEFAIL_2 = ~z~
+
+MUD3_T_CHEER_01 = ~z~That's it, Arthur.
+
+MUD3_T_CHEER_02 = ~z~Watch he doesn't bolt.
+
+MUD3_T_CHEER_03 = ~z~See, Uncle? That is a gentleman.
+
+MUD3_UENTER_STR_01 = ~z~You coming?
+
+MUD3_UENTER_STR_02 = ~z~All sorts in here, Arthur.
+
+MUD3_UENTER_STR_03 = ~z~You waiting out there?
+
+MUD3_UPSTAIRS_1 = ~z~No trouble now, please!
+

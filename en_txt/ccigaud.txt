@@ -1,0 +1,178 @@
+CCIG_RSC1_1 = ~z~Do you smoke, sir?
+
+CCIG_RSC1_2 = ~z~Sure, but...
+
+CCIG_RSC1_3 = ~z~perhaps not as much as you.
+
+CCIG_RSC1_4 = ~z~Oh, no, no, don't worry about these...
+
+CCIG_RSC1_5 = ~z~actually take some, take a couple of packs...
+
+CCIG_RSC1_6 = ~z~take a few.
+
+CCIG_RSC1_7 = ~z~Oh, thank you.
+
+CCIG_RSC1_8 = ~z~Well what are all the cigarettes for?
+
+CCIG_RSC1_9 = ~z~Are you heading on a long journey or something?
+
+CCIG_RSC1_10 = ~z~No, no, no. Nothing like that at all.
+
+CCIG_RSC1_11 = ~z~I'm just interested in the cards.
+
+CCIG_RSC1_12 = ~z~Okay.
+
+CCIG_RSC1_13 = ~z~Cigarette cards.
+
+CCIG_RSC1_14 = ~z~Oh, you got any?
+
+CCIG_RSC1_15 = ~z~No.
+
+CCIG_RSC1_16 = ~z~No? What's the matter with you?
+
+CCIG_RSC1_17 = ~z~These things are enormously valuable.
+
+CCIG_RSC1_18 = ~z~What the little picture card?
+
+CCIG_RSC1_19 = ~z~Yes, yes, enormously.
+
+CCIG_RSC1_20 = ~z~Sometimes I'll smoke up to...
+
+CCIG_RSC1_21 = ~z~two hundred cigarettes in one day.
+
+CCIG_RSC1_22 = ~z~Just so I can keep opening the packs.
+
+CCIG_RSC1_23 = ~z~Yeah.
+
+CCIG_RSC1_24 = ~z~Well get 'em out, let me take a look...
+
+CCIG_RSC1_25 = ~z~come on, come on.
+
+CCIG_RSC1_26 = ~z~At the little picture cards?
+
+CCIG_RSC1_27 = ~z~Yeah, I'll pay you a good price.
+
+CCIG_RSC1_28 = ~z~Okay, here.
+
+CCIG_RSC1_29 = ~z~Ah, nothing I haven't got.
+
+CCIG_RSC1_30 = ~z~The value is in completing the set.
+
+CCIG_RSC1_31 = ~z~Sometimes I'll smoke up to...
+
+CCIG_RSC1_32 = ~z~two hundred cigarettes in one day.
+
+CCIG_RSC1_33 = ~z~Just so I can keep opening the packs.
+
+CCIG_RSC1_34 = ~z~I wish I could explain to you the pleasure and the pain...
+
+CCIG_RSC1_35 = ~z~I get out of collecting these babies.
+
+CCIG_RSC1_36 = ~z~Sure... well, it sounds...
+
+CCIG_RSC1_37 = ~z~Thrilling? Yeah, it is.
+
+CCIG_RSC1_38 = ~z~Not to mention...
+
+CCIG_RSC1_39 = ~z~the vast amounts of life reaffirming cigarettes I get to smoke.
+
+CCIG_RSC1_40 = ~z~Oh, and the amount of money...
+
+CCIG_RSC1_41 = ~z~a veritable fortune, sir.
+
+CCIG_RSC1_42 = ~z~Fortune?
+
+CCIG_RSC1_43 = ~z~Oh, sure, sure.
+
+CCIG_RSC1_44 = ~z~A complete set of any series...
+
+CCIG_RSC1_45 = ~z~is worth a fortune.
+
+CCIG_RSC1_46 = ~z~Yeah, look at this...
+
+CCIG_RSC1_47 = ~z~gunslingers.
+
+CCIG_RSC1_48 = ~z~Over here...
+
+CCIG_RSC1_49 = ~z~circus freaks.
+
+CCIG_RSC1_50 = ~z~Yes, yes, yes.
+
+CCIG_RSC1_51 = ~z~Meow meows of the desert...
+
+CCIG_RSC1_52 = ~z~so rare.
+
+CCIG_RSC1_53 = ~z~I never knew.
+
+CCIG_RSC1_54 = ~z~Sure...
+
+CCIG_RSC1_55 = ~z~How much?
+
+CCIG_RSC1_56 = ~z~Well it depends on the rarity, sir.
+
+CCIG_RSC1_57 = ~z~Ah, of course.
+
+CCIG_RSC1_58 = ~z~Yeah, but you know, if you ever get a complete set...
+
+CCIG_RSC1_59 = ~z~I can take it off your hands.
+
+CCIG_RSC1_60 = ~z~And you'd pay me?
+
+CCIG_RSC1_61 = ~z~A fair price.
+
+CCIG_RSC1_62 = ~z~Now, you send them to me right here...
+
+CCIG_RSC1_63 = ~z~Phineas T. Ramsbottom, at your service.
+
+CCIG_RSC1_64 = ~z~Okay, I gotta run, this is my train.
+
+CCIG_RSC1_65 = ~z~Look me up, okay?
+
+CCIG_RSC1_66 = ~z~Think about this deal.
+
+CCIG_RSC1_67 = ~z~Only a complete set...
+
+CCIG_RSC1_68 = ~z~that's where the value lies.
+
+CCIG_RSC1_69 = ~z~Sure, but...
+
+CCIG_RSC1_70 = ~z~not as much as you.
+
+CCIG_RSC1_71 = ~z~Thank you.
+
+CCIG_RSC1_72 = ~z~What are all the cigarettes for?
+
+CCIG_RSC1_73 = ~z~Heading on a long journey or something?
+
+CCIG_RSC1_74 = ~z~Oh, okay.
+
+CCIG_RSC1_75 = ~z~No.
+
+CCIG_RSC1_76 = ~z~The little picture cards?
+
+CCIG_RSC1_77 = ~z~Yeah.
+
+CCIG_RSC1_78 = ~z~The little picture cards?
+
+CCIG_RSC1_79 = ~z~Well, here you go.
+
+CCIG_RSC1_80 = ~z~Sure... sounds...
+
+CCIG_RSC1_81 = ~z~Wait. You serious?
+
+CCIG_RSC1_82 = ~z~I never knew.
+
+CCIG_RSC1_83 = ~z~And how much?
+
+CCIG_RSC1_84 = ~z~Sure.
+
+CCIG_RSC1_85 = ~z~And you'll pay me for 'em?
+
+CCIG_RSC1_86 = ~z~Right.
+
+CCIG_RSC1_LI_A_1 = ~z~Sure, but... perhaps not as much as you...
+
+CCIG_RSC1_LI_J_1 = ~z~Sure... but perhaps not as much as you...
+
+CCIG_RSC1_LI_Q_1 = ~z~Do you smoke, sir?
+

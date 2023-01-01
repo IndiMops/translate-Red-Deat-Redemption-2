@@ -1,0 +1,304 @@
+0x01019B5E = You can target and shoot dynamite to detonate it.
+
+0x1E5BE9DC = Loot Lock Box
+
+0x3E86F806 = Interact
+
+0x3FC8035B = Follow ~o~Lenny~s~
+
+0x6F8C3B3A = The coaches were wrecked.
+
+0x8B126762 = Focus camera
+
+0x9EB4878D = Wait for the convoy to arrive
+
+0x41DE1CF7 = Capture the ~o~passenger~s~
+
+0x83B659E0 = Wait for the stagecoach to arrive
+
+0x392C73C2 = The passenger died.
+
+0x681C9A5A = Wait for the wagon to arrive
+
+0x5215A7F6 = Follow ~o~Micah~s~
+
+0x5914A8A7 = Talk to the ~o~passenger~s~
+
+0x9278BFD8 = Some of the cargo is damaged. Drive carefully to avoid damaging any more.
+
+0x34413D95 = Use Knife
+
+0x89688B7A = Tilly was abandoned.
+
+0xA4841E19 = Use Revolver
+
+0xC4BC0D3D = Follow ~o~Sean~s~
+
+0xC235B563 = Some of the cargo has fallen out of the wagon. Drive carefully to avoid losing any more.
+
+0xCAAE9057 = Approach the ~o~coach~s~
+
+0xD7A53313 = Follow ~o~Bill~s~
+
+CACR3_HELP_JUMP = Ride alongside the coach and use ~INPUT_JUMP~ to jump onto it.
+
+CHRB_LOOT = Cash
+
+CHRB_MB_TALK = Talk
+
+CR_BLIP_COACH = Stagecoach
+
+CR_BLIP_WAGON = Wagon
+
+CR_B_COMP1_DYN = Dynamite
+
+CR_COMP3_OBJ5 = Wait for Bill to plant the dynamite
+
+CR_COMP3_OBJ6 = Shoot the dynamite
+
+CR_C_BRAKE = Stop Coach
+
+CR_C_PAYTIP = Coach Robbery Tip $~1~
+
+CR_C_ROB = Loot Coach
+
+CR_C_ROBH = Pull out Lock Box
+
+CR_C_RTL2 = ~o~Ask about moonshine
+
+CR_C_TALK = Greet
+
+CR_DG_COMP1_OBJ = Shoot the ~e~dynamite~s~ as the coach rolls over it
+
+CR_DG_COMP1_OBJ1 = Mount your ~o~horse~s~
+
+CR_DG_COMP1_OBJ2 = Follow ~o~Micah~s~
+
+CR_DG_COMP1_OBJ3 = Take ~o~cover~s~ and wait for the coach
+
+CR_DG_COMP1_OBJ3B = Take ~o~cover~s~ and wait for the ~o~coach~s~
+
+CR_DG_COMP1_OBJ3C = Take cover and wait for the coach
+
+CR_DG_COMP1_OBJ3D = Take cover and wait for the ~o~coach~s~
+
+CR_DG_COMP1_RET = Return to ~o~Micah~s~
+
+CR_DG_COMP2_OBJ1 = Mount your ~o~horse~s~
+
+CR_DG_COMP2_OBJ2 = Follow ~o~Sean~s~
+
+CR_DG_COMP2_OBJ3 = Take ~o~cover~s~ and wait for the coach
+
+CR_DG_COMP2_OBJ3B = Take ~o~cover~s~ and wait for the ~o~coach~s~
+
+CR_DG_COMP2_OBJ3C = Take cover and wait for the coach
+
+CR_DG_COMP2_OBJ3D = Take cover and wait for the ~o~coach~s~
+
+CR_DG_COMP2_OBJ4 = Wait for the ~o~coach~s~ to stop
+
+CR_DG_COMP2_OBJ5 = Wait for Sean to take the first shot or take it yourself
+
+CR_DG_COMP2_RET = Return to ~o~Sean~s~
+
+CR_DG_COMP3_OBJ1 = Mount your ~o~horse~s~
+
+CR_DG_COMP3_OBJ2 = Follow ~o~Bill~s~
+
+CR_DG_COMP3_OBJ3 = Wait for the ~o~coach~s~ to arrive
+
+CR_DG_COMP3_OBJ4 = Bring the coach to a stop
+
+CR_DG_COMP3_RET = Return to ~o~Bill~s~
+
+CR_DG_COMP4_OBJ1 = Mount your ~o~horse~s~
+
+CR_DG_COMP4_OBJ2 = Follow ~o~Lenny~s~
+
+CR_DG_COMP4_OBJ3 = Take ~o~cover~s~ and wait for the coach
+
+CR_DG_COMP4_OBJ3B = Take ~o~cover~s~ and wait for the ~o~coach~s~
+
+CR_DG_COMP4_OBJ3C = Take cover and wait for the coach
+
+CR_DG_COMP4_OBJ3D = Take cover and wait for the ~o~coach~s~
+
+CR_DG_COMP4_OBJ4 = Wait for Lenny to hold up the ~o~coach~s~
+
+CR_DG_COMP4_RET = Return to ~o~Lenny~s~
+
+CR_FM_ABANCOACH = The stagecoach was abandoned.
+
+CR_FM_ABANCOACHS = The stagecoaches were abandoned.
+
+CR_FM_ABANDROP = Seamus was abandoned.
+
+CR_FM_BILABAN = Bill was abandoned.
+
+CR_FM_BILLATT = Bill was injured.
+
+CR_FM_BILLDEAD = Bill died.
+
+CR_FM_BILLHORSE = Bill's horse died.
+
+CR_FM_CWRECK = The coach was wrecked.
+
+CR_FM_LAWALERT = The law were alerted.
+
+CR_FM_LEFTCOACH = The stagecoach escaped.
+
+CR_FM_LEFTCOACHS = The stagecoaches escaped.
+
+CR_FM_LENABAN = Lenny was abandoned.
+
+CR_FM_LENNYATT = Lenny was injured.
+
+CR_FM_LENNYDEAD = Lenny died.
+
+CR_FM_LENNYHORSE = Lenny's horse died.
+
+CR_FM_MARYBETHATT = Mary-Beth was injured.
+
+CR_FM_MARYBETHDEAD = Mary-Beth died.
+
+CR_FM_MARYHORSE = Mary-Beth's horse died.
+
+CR_FM_MICABAN = Micah was abandoned.
+
+CR_FM_MICAHATT = Micah was injured.
+
+CR_FM_MICAHDEAD = Micah died.
+
+CR_FM_MICHORSE = Micah's horse died.
+
+CR_FM_PHORSE = Your horse was injured.
+
+CR_FM_RCAPP = The coach reached Appleseed.
+
+CR_FM_RCRHO = The coach reached Rhodes.
+
+CR_FM_RCRHOS = The convoy reached Rhodes.
+
+CR_FM_RCRIG = The coach reached Riggs Station.
+
+CR_FM_RCSTR = The coach reached Strawberry.
+
+CR_FM_RWRHO = The wagon reached Rhodes.
+
+CR_FM_SEAABAN = Sean was abandoned.
+
+CR_FM_SEANATT = Sean was injured.
+
+CR_FM_SEANDEAD = Sean died.
+
+CR_FM_SEANHORSE = Sean's horse died.
+
+CR_FM_TILLATT = Tilly was injured.
+
+CR_FM_TILLDEAD = Tilly died.
+
+CR_FM_TILLHORSE = Tilly's horse died.
+
+CR_FM_WRECKED = The coach was wrecked.
+
+CR_F_F_DEAD = Seamus has been intimidated.
+
+CR_F_LDEST = The loot was destroyed.
+
+CR_F_LEFTVIP = The passenger escaped.
+
+CR_F_P_ARREST = You were arrested.
+
+CR_F_P_DEAD = You have died.
+
+CR_HELP_BLOW_DOOR = Place a dynamite charge on the side of the coach, then shoot it to blow open the door.
+
+CR_HELP_CARGO = Drive carefully to avoid damaging the cargo.
+
+CR_HELP_ILO = You can use ~INPUT_INTERACT_LOCKON~ while unarmed to talk to the coach driver.
+
+CR_HELP_IOBJ = You can interact with some objects in the environment to block the road or help set up an ambush.
+
+CR_HELP_LOCK = You can use a lockbreaker to unlock the compartment at the rear of the coach, or just shoot the lock.
+
+CR_HELP_RUNAWAY = Hold ~INPUT_VEH_DRAFT_BRAKE~ to bring the coach to a stop.
+
+CR_HELP_TACKLE = You can tackle fleeing people with ~INPUT_MELEE_ATTACK~ when running behind them.
+
+CR_HELP_TACKLE4 = Talk
+
+CR_HELP_TRAN = Use ~INPUTGROUP_MOVE~ to climb into the driver's seat.
+
+CR_H_NOTE = Inspect the note from your Satchel to find out the details of the robbery, and to mark the location on your map.
+
+CR_ILO_ANTAG = Antagonize
+
+CR_ILO_GREET = Greet
+
+CR_ILO_ROB = Rob
+
+CR_ILO_STOP = Callout
+
+CR_ILO_THREATEN = Threaten
+
+CR_ILO_TRICK = Mislead
+
+CR_LOGWAGON = Grab Block
+
+CR_LOGWAGON2 = Pull Block
+
+CR_O_BLOW_DOOR = Blow open the ~o~coach doors~s~
+
+CR_O_CATCHCOACH = Ride alongside and jump to the ~o~coach~s~
+
+CR_O_DELIVERC = Deliver the wagon to the ~o~fence~s~
+
+CR_O_ESC = Escape the law
+
+CR_O_GKILL = Take out the ~e~coach guards~s~
+
+CR_O_LEAVE = Leave undetected
+
+CR_O_LEAVECOMBAT = Escape the area
+
+CR_O_LKILL = Take out the ~e~marshals~s~
+
+CR_O_LOOTPASS = Loot the ~o~passenger~s~
+
+CR_O_PREPAREP = Wait for the stagecoach to arrive
+
+CR_O_PREPARESP = Wait for the convoy to arrive
+
+CR_O_PREPAREWP = Wait for the wagon to arrive
+
+CR_O_ROBCOACH = Loot the cash from the back of the ~o~coach~s~
+
+CR_O_ROBCOACHA = Loot the ~o~coach~s~
+
+CR_O_ROBCOACHS = Loot the cash from the back of the ~o~coaches~s~
+
+CR_O_ROBCOACHV = Loot the ~o~Lock Box~s~
+
+CR_O_RUNAWAY = Stop the ~o~coach~s~
+
+CR_O_STEALC = Steal the ~o~wagon~s~
+
+CR_O_STOPCOACH = Force the ~o~stagecoach~s~ to stop
+
+CR_O_STOPCOACHS = Force the ~o~convoy~s~ to stop
+
+CR_O_STRANGER = Stranger
+
+CR_O_SUBDUEPASS = Interrogate the ~o~passenger~s~
+
+CR_O_TACKLEPASS = Stop the ~o~passenger~s~
+
+CR_O_TRAN = Climb into the driver's seat
+
+CR_O_WAITCOACH = Force the ~o~stagecoach~s~ to stop
+
+CR_O_WAITCOACHS = Force the ~o~convoy~s~ to stop
+
+CR_O_WAITCOACHW = Force the ~o~wagon~s~ to stop
+

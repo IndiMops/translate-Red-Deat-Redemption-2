@@ -1,0 +1,112 @@
+0x3B38D011 = Climb train car
+
+0x3BB18858 = ~s~Get back to the ~f~gang~s~
+
+0x3FDDE7D7 = The train was not captured.
+
+0x607BEF45 = Detonate explosive
+
+0x287324C9 = Detach train car
+
+0xDC785CA8 = Javier
+
+TRN4_CLEET = Cleet
+
+TRN4_DYNAMITE0 = Collect
+
+TRN4_DYNAMITE1 = Equip the dynamite.
+
+TRN4_DYNAMITE2 = Dynamite
+
+TRN4_FAIL0 = ~s~The gang's cover was blown.~s~
+
+TRN4_FAIL_0 = You failed to keep up with the train.
+
+TRN4_FAIL_1 = The train was abandoned.
+
+TRN4_FAIL_2 = ~s~You did not jump off the train.~s~
+
+TRN4_FAIL_3 = ~s~Dutch was abandoned.~s~
+
+TRN4_FAIL_4 = ~s~John was abandoned.~s~
+
+TRN4_FAIL_5 = ~s~You never collected the money.~s~
+
+TRN4_FAIL_6 = ~s~The dynamite was destroyed.~s~
+
+TRN4_FAIL_7 = ~s~You ran out of dynamite.~s~
+
+TRN4_FAIL_8 = Cleet has died.
+
+TRN4_FAIL_9 = Joe has died.
+
+TRN4_FAIL_10 = Dutch's horse has died.
+
+TRN4_FAIL_11 = Bill's horse has died.
+
+TRN4_JOE = Joe
+
+TRN4_JUMP_0 = Jump
+
+TRN4_JUMP_1 = Jump to Horse
+
+TRN4_OBJ02 = ~s~Detach the ~o~stock car~s~
+
+TRN4_OBJ03 = ~s~Enter the ~o~steam engine~s~
+
+TRN4_OBJ04 = ~s~Disable the ~o~brakes~s~
+
+TRN4_OBJ05 = ~s~Enter the ~o~armored car~s~
+
+TRN4_OBJ06 = ~s~Collect the ~p~money bags~s~
+
+TRN4_OBJ07 = ~s~Exit the train~s~
+
+TRN4_SAINT_DENIS0 = ~s~Follow ~o~Dutch~s~ to Saint Denis~s~
+
+TRN4_SAINT_DENIS1 = ~s~Follow ~o~John~s~ to the wagon~s~
+
+TRN4_SAINT_DENIS2 = ~s~Get the ~o~dynamite~s~
+
+TRN4_SAINT_DENIS3 = ~s~Follow ~o~John~s~ back to the gang~s~
+
+TRN4_SAINT_DENIS4 = ~s~Follow ~o~Dutch~s~ to Saint Denis~s~
+
+TRN4_STOP = Disable lever
+
+TRN4_TRAIN0 = ~s~Chase after the ~o~train~s~
+
+TRN4_TRAIN1 = ~s~Jump onto the ~o~train~s~
+
+TRN4_TRAIN2 = ~s~Take out the ~e~guards~s~ and get to the front of the train~s~
+
+TRN4_TRAIN3 = ~s~Get to the ~o~side of the train carriage~s~
+
+TRN4_TRAIN3_HELP = Press ~INPUT_JUMP~ to jump onto Dutch's horse.
+
+TRN4_TRAIN4 = ~s~Exit the Gatling gun and get to the ~o~armored carriage~s~
+
+TRN4_TRAIN4_HELP = Press ~INPUT_HORSE_JUMP~ to jump onto the train.
+
+TRN4_TRAIN5 = ~s~Stand back from the explosives~s~
+
+TRN4_TRAIN5_HELP = Press ~INPUT_JUMP~ to jump off the train.
+
+TRN4_TRAIN6 = ~s~Take out the ~e~soldiers~s~
+
+TRN4_TRAIN6_HELP = Wait at the right side of the carriage until the gang arrives.
+
+TRN4_TRAIN7 = ~s~Jump off the train~s~
+
+TRN4_TRAIN7_HELP = Get to right side of the carriage beside Dutch.
+
+TRN4_TRAIN8 = ~s~Plant dynamite on the ~o~armored carriage~s~
+
+TRN4_TRAIN9 = ~s~Get on ~o~Dutch's horse~s~
+
+TRN4_TRAIN10 = ~s~Wait for the gang to arrive~s~
+
+TRN4_TRAIN11 = ~s~Ignite or shoot the ~o~dynamite.~s~
+
+TRN4_TRAIN12 = ~s~Get to the ~o~armoured carriage.~s~
+

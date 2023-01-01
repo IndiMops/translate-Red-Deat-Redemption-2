@@ -1,0 +1,84 @@
+CHAR_BACKCUST_01 = ~z~Okay, let's try again.
+
+CHAR_BACKCUST_02 = ~z~~sl:0.5~Make sure this time.
+
+CHAR_BACKSELECT_01 = ~z~We got the wrong one in here?
+
+CHAR_BACKSELECT_02 = ~z~We pull the wrong one of you?
+
+CHAR_CHOOSE_01 = ~z~Okay, you. Head through there.
+
+CHAR_CHOOSE_02 = ~z~Well, let's get you in there, then.
+
+CHAR_CHOOSE_03 = ~z~Alright, then. Deputy, would you please?
+
+CHAR_CONFIRM_01 = ~z~Fine. Go and get your picture took.
+
+CHAR_CONFIRM_02 = ~z~Okay. Let's get a photograph.
+
+CHAR_CONFIRM_03 = ~z~Well then, you need your portrait took.
+
+CHAR_CONFIRM_04 = ~z~If it's all correct, I'll take a photograph.
+
+CHAR_IDLE_01 = ~z~Come on.
+
+CHAR_IDLE_02 = ~z~Who's it going to be?
+
+CHAR_IDLE_03 = ~z~One of you.
+
+CHAR_IDLE_04 = ~z~It's got to be one of you.
+
+CHAR_IDLE_05 = ~z~~sl:0.5~Don't try me, now.
+
+CHAR_INTRO_1 = ~z~Okay, sheriff. Here they are.
+
+CHAR_INTRO_2 = ~z~~sl:3.2:3.6~Tell the marshal this ain't how we do things here.~sl:0.3~But I'll oblige him, this once.
+
+CHAR_INTRO_P2_1 = ~z~Alright, let's see what we got...
+
+CHAR_OTHERROOM_1 = ~z~I'm gonna need your details.
+
+CHAR_OTHERROOM_2 = ~z~You aren't going anywhere and neither am I.
+
+CHAR_OTHERROOM_3 = ~z~Take the time and get this right.
+
+CHAR_OTHERROOM_4 = ~z~From what I hear, you ain't leaving us any time soon.
+
+CHAR_OTHERROOM_5 = ~z~We're going to need a fair record of you.
+
+CHAR_OTHERROOM_6 = ~z~~sl:0.0:2.8~Tell me everything, except that you're innocent.~sl:~I'd find that hard to believe.
+
+CHAR_OTHERROOM_7 = ~z~Quite a record we'll have on you.
+
+CHAR_OTHERROOM_8 = ~z~~sl:0.0:1.9~You're lucky you were caught, you know.~sl:0.0:2.4~The way the town feels about what happened,~sl:~you were likely to be shot.
+
+CHAR_OTHERROOM_9 = ~z~It's a process, alright. But a necessary one.
+
+CHAR_OTHERROOM_10 = ~z~How you doing with that?
+
+CHAR_OTHERROOM_11 = ~z~Okay, then.
+
+CHAR_OTHERROOM_12 = ~z~Yup...
+
+CHAR_PHOTO_01 = ~z~Okay...
+
+CHAR_PHOTO_02 = ~z~Here we go.
+
+CHAR_PHOTO_03 = ~z~Hold it...
+
+CHAR_PHOTO_04 = ~z~Stay there.
+
+CHAR_RAISEHANDS_01 = ~z~Hold up your fingers.
+
+CHAR_RAISEHANDS_02 = ~z~I'll need to see your fingers, palms to you.
+
+CHAR_RAISEHANDS_03 = ~z~Bring your hands up, onto your chest.
+
+CHAR_RAISEHANDS_04 = ~z~Place your palms by your chest now, for me.
+
+CHAR_YOUSURE_01 = ~z~Okay now, you sure?
+
+CHAR_YOUSURE_02 = ~z~Is that all correct? Make sure, now.
+
+CHAR_YOUSURE_03 = ~z~You better have everything perfect.
+

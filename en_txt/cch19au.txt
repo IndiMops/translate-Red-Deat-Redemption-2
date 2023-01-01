@@ -1,0 +1,30 @@
+CCH19_ACT_1 = ~z~Are you ready for Tahiti, Mr. Pearson?
+
+CCH19_ACT_2 = ~z~Tahiti?
+
+CCH19_ACT_3 = ~z~Sure, Tahiti.
+
+CCH19_ACT_4 = ~z~I never been to Tahiti... I been to Bali, and Java.
+
+CCH19_ACT_5 = ~z~There is a man there with a body no bigger than a coconut... speaks seven languages.
+
+CCH19_ACT_6 = ~z~Okay.
+
+CCH19_ACT_7 = ~z~Oh, how'd it go in town?
+
+CCH19_ACT_8 = ~z~With Abigail anything is possible... best actress I ever saw.
+
+CCH19_ACT_9 = ~z~Really?
+
+CCH19_ACT_10 = ~z~Oh sure, she had half the town believing we were real estate investors from New England.
+
+CCH19_ACT_11 = ~z~Everybody was following her... this after she placed a little explosive device...
+
+CCH19_ACT_12 = ~z~when we go back, there'll be an almighty bang.
+
+CCH19_ACT_13 = ~z~So you think this bank job's gonna work?
+
+CCH19_ACT_14 = ~z~Get everything packed. We're leaving.
+
+CCH19_ACT_15 = ~z~I hope so. I really do. This place is not for me.
+

@@ -1,0 +1,52 @@
+TREFA_KNOCK_01 = ~z~Trelawny?
+
+TREFA_KNOCK_02 = ~z~Trelawny, is that you in there?
+
+TREFA_KNOCK_03 = ~z~Hello? Trelawny?
+
+TREFA_OFFICE_1 = ~z~Uh, Arthur? What on Earth are you doing here?
+
+TREFA_OFFICE_2 = ~z~I can't speak now, sorry.
+
+TREFA_OFFICE_3 = ~z~Can we catch up in the office on Monday?
+
+TREFA_OFFICE_4 = ~z~Let's adjourn to the parlor, my dear. Not a moment's peace...
+
+TREFA_PRESENTS_1 = ~z~Are you staying now, Daddy?
+
+TREFA_PRESENTS_2 = ~z~I wish I could, my boy. I really do. But business calls...
+
+TREFA_PRESENTS_3 = ~z~oh, I almost forgot, I don't suppose anybody here would be interested in, say, a... present?
+
+TREFA_PRESENTS_4 = ~z~Me!
+
+TREFA_PRESENTS_5 = ~z~Me, me!
+
+TREFA_PRESENTS_6 = ~z~Okay, this is for you.
+
+TREFA_PRESENTS_7 = ~z~Wow, thanks!
+
+TREFA_PRESENTS_8 = ~z~And this one's for you, Cornelius.
+
+TREFA_PRESENTS_9 = ~z~A spinning top!
+
+TREFA_PRESENTS_10 = ~z~I got that in a town called Blackwater.
+
+TREFA_PRESENTS_11 = ~z~And last but not least...for you, my dear.
+
+TREFA_PRESENTS_12 = ~z~Thank you.
+
+TREFA_PRESENTS_13 = ~z~Now run along and play, boys. Let your mother and I read the newspapers.
+
+TREFA_TOASTR_1 = ~z~The Trelawnys!
+
+TREFA_TOASTR_2 = ~z~The Trelawnys!
+
+TREFA_TOASTR_3 = ~z~The Trelawnys!
+
+TREFA_TOAST_1 = ~z~That was absolutely delicious, my dear. Thank you. Well, I think a toast in order, don't you?
+
+TREFA_TOAST_2 = ~z~Here let's fill that water glass, Tarquin. It's unlucky to cheers on an empty glass.
+
+TREFA_TOAST_3 = ~z~Okay... to the Trelawnys! It's good to be home.
+

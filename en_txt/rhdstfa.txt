@@ -1,0 +1,18 @@
+RHD_STF_CNVALIE_1 = ~z~The patchwork outfitted idiot? No sir.
+
+RHD_STF_CNVATRU_1 = ~z~Yeah, I know him...
+
+RHD_STF_CNVJLIE_1 = ~z~The patchwork outfitted idiot? No sir.
+
+RHD_STF_CNVJTRU_1 = ~z~Yeah, I know him...
+
+RHD_STF_CNV_A_1 = ~z~Hey, you know that big loudmouth outside?
+
+RHD_STF_CNV_B_1 = ~z~These degenerate types make my blood boil. Some people just don't belong.
+
+RHD_STF_CNV_LIE_1 = ~z~Well... apologies for the implications, feller. Didn't mean nothing.
+
+RHD_STF_CNV_TRU_1 = ~z~You get a hold of that bastard. I won't have nonsense like that in here, and the sheriff won't, neither.
+
+RHD_STF_CNV_TRU_2 = ~z~Now, he's got the one, but he keeps up that type of bull he's gonna find himself sleeping off more'n a hangover in the jailhouse.
+

@@ -1,0 +1,82 @@
+0x1FFFB4FF = Tensions are rising between you and ~COLOR_ENEMY~~1p~~s~!
+
+0x8D570827 = Tensions are high between you and ~COLOR_ENEMY~~1p~~s~. Start a Feud to settle!
+
+0x208C4153 = ~1~ challenge
+
+0x469A32C3 = Leader Feud (~1~)
+
+0x549BB9AE = Your leader has decided to not challenge ~COLOR_ENEMY~~1p~~s~ for now.
+
+0xA8D34C79 = Tensions are rising between you and ~COLOR_ENEMY~~1p~~s~!
+
+0xAB51BFA9 = Tension is high between you and ~COLOR_ENEMY~~1p~~s~, but they are not available for a Feud now.
+
+0xD15A8B87 = You have recently just challenged ~COLOR_ENEMY~~1p~~s~. You'll need to wait for a while to start another Posse Feud.
+
+GFNP_GENERIC_CHALLENGED_DEATHSCREEN_LEADER_HELP = ~COLOR_ENEMY~~1p~~s~ killed you. Challenge them to a ~2~ to settle your rivalry.
+
+GFNP_GENERIC_CHALLENGED_DEATHSCREEN_MEMBER_HELP = ~COLOR_ENEMY~~1p~~s~ killed you. Notify your Leader to challenge them to a ~2~ to settle your rivalry.
+
+GF_FEUD_FEUD = Feud
+
+GF_FEUD_FEUD_TMR = Feud (~1~)
+
+GF_FEUD_HELP_CHALLENGE_DECLINED = ~COLOR_ENEMY~~1~~s~ declined your challenge to ~2~
+
+GF_FEUD_HELP_CHALLENGE_GANG_LEFT = The Posse you challenged to a ~1~ is unable to accept. The challenge has been canceled.
+
+GF_FEUD_HELP_CHALLENGE_IGNORED = ~COLOR_ENEMY~~1~~s~ ignored your challenge to ~2~
+
+GF_FEUD_HELP_CHALLENGE_PLAYER_LEFT = The player you challenged to a ~1~ is unable to accept. The challenge has been canceled.
+
+GF_FEUD_HELP_INIT_LEADER = Tensions are high between your Posse and ~COLOR_ENEMY~~1p~~s~. Start a Feud to settle!
+
+GF_FEUD_HELP_INIT_MEMBER = Tensions are high between your Posse and ~COLOR_ENEMY~~1p~~s~. Suggest your leader to start a Feud to settle!
+
+GF_FEUD_HELP_LF = Leader Feud
+
+GF_FEUD_HELP_MEMBER_REQUEST_AGREED = ~COLOR_POSSE_ALLY~~1~~s~ has challenged ~COLOR_ENEMY~~2p~~s~ to a ~3~
+
+GF_FEUD_HELP_MEMBER_REQUEST_PF = ~COLOR_POSSE_ALLY~~1~~s~ wants to challenge ~COLOR_ENEMY~~2~~s~ to a Posse Feud. Choose whether to send the invite.
+
+GF_FEUD_HELP_MEMBER_REQUEST_PLF = ~COLOR_POSSE_ALLY~~1~~s~ wants to challenge ~COLOR_ENEMY~~2~~s~ to a Leader Feud. Choose whether to send the invite.
+
+GF_FEUD_HELP_PF = Posse Feud
+
+GF_FEUD_INFIGHTING_RANDOM_SPLIT = You have to leave at least one Posse Member as your enemy! The game will proceed with a random split.
+
+GF_FEUD_POSSE_FEUD = Posse Feud
+
+GF_FEUD_POSSE_INFIGHTING = Posse Infighting
+
+GF_FEUD_POSSE_LEADER_FEUD = Leader Feud
+
+GF_FEUD_REQUEST_BODY = Challenging ~COLOR_ENEMY~~1~~s~ to a Posse Feud
+
+GF_FEUD_REQUEST_LEADER_BODY = Challenging ~COLOR_ENEMY~~1~~s~ to a Leader Feud
+
+GF_FEUD_REQUEST_TITLE = ~COLOR_POSSE_ALLY~~1~~s~ suggests
+
+GF_FEUD_TICKER_CHALLENGED = ~COLOR_ENEMY~~1~~s~ has challenged you to a ~2~
+
+GF_FEUD_TICKER_INFIGHTING = Your Posse Leader just decided to start Infighting
+
+GF_FEUD_TOAST_MEMBERS_BODY = ~1~ has challenged ~2~
+
+GF_FEUD_TOAST_OPT_IN_BODY = Hold ~INPUT_FEED_INTERACT~ to view Invite
+
+GF_FEUD_TOAST_OPT_IN_FEUD = Feud is available
+
+GF_FEUD_TOAST_OPT_IN_PFEUD = Posse Feud is available
+
+GF_FEUD_TOAST_OPT_IN_PLFEUD = Leader Feud is available
+
+GF_FEUD_TOAST_OPT_IN_TITLE = ~1~ is available
+
+GF_GENERIC_CHALLENGED_DEATHSCREEN_LEADER_HELP = ~COLOR_ENEMY~~1p~~s~ killed you. Parley with them to stop damage for 10 minutes or challenge them to a ~2~ to settle your rivalry.
+
+GF_GENERIC_CHALLENGED_DEATHSCREEN_MEMBER_HELP = ~COLOR_ENEMY~~1p~~s~ killed you. Parley with them to stop damage for 10 minutes or notify your Leader to challenge them to a ~2~ to settle your rivalry.
+
+PARLEY_GENERIC_CHALLENGED_DEATHSCREEN_MEMBER_HELP = ~COLOR_ENEMY~~1p~~s~ killed you. Parley with them to stop damage for 10 minutes.
+

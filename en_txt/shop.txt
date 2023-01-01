@@ -1,0 +1,760 @@
+0x003E18E3 = ~1~/~2~ ~3~ Crafted
+
+0x00617E7D = BUY ACCESSORY
+
+0x0173640B = Level up shop to unlock item.
+
+0x02D3EC21 = Sell your Horse or purchase a new horse
+
+0x02FB3DEB = BUY SHOTGUN
+
+0x0501E04F = PASSIVE ABILITIES
+
+0x071BCEB2 = Stolen Horse Sold
+
+0x0840023A = Your Horse is at the highest level the trainer can give it.
+
+0x08B9A9BE = Skirt
+
+0x097E3EDD = Teeth
+
+0x0D0D7C05 = Stable: ~1p~
+
+0x0E998A46 = Your bounty in ~1~ has been paid.
+
+0x0EB47CB1 = Horse Equipment Purchased
+
+0x1B78DC29 = Break a horse and bring it to the stable to register it and be able to bond with it.
+
+0x1BBAD44E = Hats
+
+0x1CED0C5A = Purchase food and medicine for your Horse
+
+0x1D05FDDF = ~1~/~2~ ~3~
+
+0x1DBD9D24 = All bounties cleared
+
+0x1EFF790E = Buy forged ownership papers for this horse (~1$~)
+
+0x1F9D0908 = Bandoliers
+
+0x2C5F63F8 = Pay off your bounty in Ambarino State
+
+0x2C35FCD3 = Gloves
+
+0x2F1C4818 = You cannot sell this coach. The shopkeeper will not accept it as someone clearly owns it.
+
+0x3BF874B6 = Saddle Type
+
+0x3C77EBEC = CLOTHING
+
+0x3D71F2CF = Pants
+
+0x3D64420A = Fire Rate:
+
+0x3E28C20A = Cash ~$~
+
+0x3EBCB4B4 = Industrial
+
+0x3FC2FF6D = States
+
+0x4A69992C = Purchased forged ownership papers for ~1$~
+
+0x4BBD3CC3 = Cripps' Outfits
+
+0x4DA3E14D = Undergarments
+
+0x4DA75D42 = SHERIFF OFFICE
+
+0x4F0C1ED9 = This Reward does not apply to the selected item.
+
+0x5A08DE85 = Choose a destination to travel to
+
+0x5B1FE602 = ~1~/~2~ ~3~ Owned
+
+0x5B899524 = Hair
+
+0x5D8FDA07 = Saddles
+
+0x5DD557F2 = Chuckwagon
+
+0x5EA67AE1 = For further information, please see the Offers & Rewards section in the Pause menu.
+
+0x6A41DF2C = Horse Purchased
+
+0x6B553FDE = Buckles
+
+0x6B2320AE = This animal has already been found.
+
+0x6C3E6476 = This item is currently discounted at a cheaper price.
+
+0x6CE99466 = Buggy
+
+0x6E625447 = Blankets
+
+0x7A1DD635 = BUY HORSES
+
+0x7B2F3ABC = Ambarino Bounty
+
+0x7BB99184 = Range:
+
+0x7BD75755 = Saddle Bag
+
+0x7E4BED00 = CUSTOMIZE
+
+0x8A6D5336 = Off-Hand Gun Holsters
+
+0x8B29DDDB = States
+
+0x8D081B0B = Sell stolen horse (~1$~)
+
+0x8F4EAB64 = ~INPUT_GAME_MENU_TAB_RIGHT~
+
+0x8F8F5D7E = This Reward can no longer be used.
+
+0x8F64118F = Sell Horse (~1$~)
+
+0x9AD02968 = Pay off your bounties for each state
+
+0x9C7B5E55 = None
+
+0x9C10EDE1 = Vests
+
+0x9D01C1AA = SELL VEHICLE
+
+0x9DFC4229 = Facial Hair
+
+0x13F70B01 = You do not have enough money to pay off this bounty
+
+0x13F54280 = Delivery Fee
+
+0x14E5CC5C = You must complete the first Teamster mission in order to unlock buying coaches.
+
+0x16CED4B8 = UPGRADES
+
+0x17CCF5B4 = BUY COACH
+
+0x17FA5833 = This Offer does not apply to the selected item.
+
+0x18F7A1FF = ~s~This item is now out of stock.~s~
+
+0x24FB0D7C = Sell: ~1p~
+
+0x28F70282 = TELEGRAPH
+
+0x29E4064B = Accessories
+
+0x32C9264E = Sold stolen draft vehicle for ~1$~
+
+0x33A5A504 = Boots
+
+0x39D4777F = You only have enough money to pay a part of the bounty
+
+0x40A6B636 = Take with you
+
+0x40CB4DFD = Hair Styles
+
+0x43C48C6A = Moonshine Production
+
+0x44A1FB53 = SHORT ARM WEAPONS
+
+0x48EBE6B3 = Moonshine Still
+
+0x51E98EFE = Pay off your bounty in West Elizabeth State
+
+0x53E0488D = BUY HORSE ITEMS
+
+0x54FAE6C4 = Your Satchel is full. Items were put into the Horse's Satchel.
+
+0x55F1CD0A = Pay off your bounties in all states
+
+0x56BCE17F = BUY CONSUMABLE
+
+0x59F1C040 = ~1~/~2~ ~3~ Crafted
+
+0x59FD1452 = CARE
+
+0x60C29EEC = Overalls
+
+0x68E04868 = Active Horse Set
+
+0x69EAF114 = Store Saddle
+
+0x71B22DB4 = SEND/RECEIVE ALL
+
+0x72AFE476 = This horse is locked.
+
+0x75EDA942 = W. Elizabeth Bounty
+
+0x76A2F034 = ~INPUT_GAME_MENU_CANCEL~ Quit
+
+0x76C20492 = TIES
+
+0x79BA24D2 = ~1~/~2~ ~3~ Completed
+
+0x82F64A7B = ~s~ ~s~
+
+0x83FF326C = Coach Sold
+
+0x88DB0639 = Pay off your bounty in New Hanover State
+
+0x92AC4D42 = ~s~You cannot buy this item as John.~s~
+
+0x92B7F842 = OFFERS & REWARDS
+
+0x94FA57ED = Saddle: ~1p~
+
+0x95A2C953 = Mission reset: ~1~hrs ~2~mins ~3~sec
+
+0x99B2EE8E = Masks
+
+0x161E788C = MANAGE COACHES
+
+0x195D24B1 = Gun Holsters
+
+0x207FB917 = No open stable stalls.
+
+0x217CE514 = ~INPUT_GAME_MENU_ACCEPT~ Sell
+
+0x252EDFF3 = Satchels
+
+0x277B40D3 = All Recipes
+
+0x293DA8DB = Gun Belts
+
+0x397CF102 = INSPECT
+
+0x412A37EE = BUY COACH MOD
+
+0x415B3752 = Sell Stolen Coach
+
+0x484B2B99 = Flavor Complete: ~1~%
+
+0x510D469E = Choose your active Horse or register a new one
+
+0x558C7EE0 = Coats
+
+0x566B0769 = RECEIVE
+
+0x652B06AA = Pay your bounty to stop bounty hunters
+
+0x727A19EC = Weaponized
+
+0x819D462C = Skirts
+
+0x830DB82E = Empty Stall
+
+0x896B5DE0 = ~INPUT_LOOK_LR~ ~1~
+
+0x911E87DC = x~1~
+
+0x1276C6B3 = ~1~ Sold
+
+0x1381BF43 = Train Horse to Level ~1~
+
+0x1783C774 = ~s~ ~s~
+
+0x2363B843 = ~1~/~2~ Eggs Handed In
+
+0x2612E474 = ~$~
+
+0x4169F617 = BUY HORSE CARE
+
+0x6705B8EA = Bracelet Talismans
+
+0x7225A1CE = ~1~/~2~ ~3~ Received
+
+0x8087F322 = Your debt to society has been paid
+
+0x8406AA59 = ALL STATE BOUNTIES
+
+0x8982D2F8 = Pay your bounties
+
+0x16927B0B = Ingredient: ~1~ ~2~/~3~
+
+0x29472ABC = ~INPUT_GAME_MENU_ACCEPT~ Trade In
+
+0x40618E3F = Pay off your bounty in Lemoyne State
+
+0x61542D06 = None
+
+0x63181FB5 = Boot Talismans
+
+0x65672D87 = The item you purchased has been delivered. You may pick it up at a Post Office or in the Lockbox in your Camp.
+
+0x68950CA7 = Reload:
+
+0x69846CFE = You do not have enough cash to purchase this.
+
+0x96414C90 = LONGARM WEAPONS
+
+0x97957F53 = Small Masks / Bandanas
+
+0x317968DE = Lemoyne Bounty
+
+0x427307CE = Fender
+
+0x606486B5 = UPGRADE COLLECTABLES
+
+0x714496DF = You have no bounty to pay
+
+0x898016BC = BUY RIFLE
+
+0x898292EB = Your Horse carried some items; these items will now drop on the ground nearby.
+
+0x8889550F = PAY BOUNTY
+
+0x14026936 = Bedrolls
+
+0x18645816 = Forged Papers Purchased
+
+0x18695407 = RETRIEVE HORSE
+
+0x25471463 = Quantity: ~1~
+
+0x28487590 = Ingredient: ~1~ ~2~/~3~
+
+0x35120620 = Gun Belt Talismans
+
+0xA007CDA1 = Higher quality Stirrups increase your Horse's Speed and Acceleration and provide a Stamina Drain Rate reduction.
+
+0xA0092F24 = Tail
+
+0xA02549F1 = No mission available.
+
+0xA7F296D3 = WAGON FENCE
+
+0xA17B5FC2 = Pay to have your Horse fully groomed, fed, and healed
+
+0xA39CB851 = Higher quality Saddles improve your Horse's Stamina Core and Health Core Drain Rate, while providing a Stamina Regen Rate increase.
+
+0xA49DE470 = BUY HORSES
+
+0xA7740B8B = Satchel Talismans
+
+0xA57035A5 = Outfits
+
+0xAB2E0935 = You do not have any outstanding bounties
+
+0xAB2E5BA1 = This is the last horse you own. Are you sure you want to sell it?
+
+0xAB280510 = Stagecoach
+
+0xAC8C05AA = Horn
+
+0xAD7A8448 = SOLD OUT
+
+0xAFA262C4 = MANAGE HORSES
+
+0xB6B7B29C = BUY REPEATER
+
+0xB8C96C37 = Mission expired.
+
+0xB9A5422F = Ingredient: ~1~ ~2~/~3~
+
+0xB21C7DE8 = You cannot sell this horse. The shopkeeper will not accept it as someone clearly owns it.
+
+0xB56BE94E = EXOTIC SHOP
+
+0xB5387BAF = SELL HORSE
+
+0xB25361E7 = Holster Talismans
+
+0xB2574841 = Unavailable
+
+0xB8864220 = Facial Hair
+
+0xBAF2CEF6 = See Offers & Rewards in Benefits for details.
+
+0xBB5FB129 = ~s~ ~s~
+
+0xBD65891A = Taunts
+
+0xBDB404E6 = Pay player bounty
+
+0xBEF744B8 = Pay your bounty to stop bounty hunters
+
+0xBF85B2F3 = Today's Requests
+
+0xBF89BBCD = Chaps
+
+0xC0348493 = Cantle
+
+0xC04F1CA9 = Suspenders
+
+0xC1A17752 = ~1~/~2~ ~3~ Completed
+
+0xC2A2FFDB = ~1~/~2~ Orchids Handed In
+
+0xC2FDED2C = Modify
+
+0xC4A92170 = BROWSE COLLECTION
+
+0xC8B594F8 = Seat
+
+0xC212F76A = Only a Posse Leader can sell Moonshine Batch
+
+0xC735E654 = See the Teamster board for details of unlocking this category.
+
+0xC745C7A6 = Pay off your bounty in Guarma
+
+0xC819D905 = ~1~/~2~ ~3~ Completed
+
+0xC1668A8D = Shirts
+
+0xC9940EBF = Active: ~1p~
+
+0xC258544F = Mane
+
+0xCA00D192 = Spurs
+
+0xCA8C1213 = DEAD EYE REPLACEMENTS
+
+0xCCB1B92A = Bounty
+
+0xCCF31642 = This item is not supported when playing as John.
+
+0xCD4D6A0E = CAMP CARAVAN
+
+0xCD8939E7 = PURCHASE COLLECTABLES
+
+0xCEDE3CB9 = ABILITIES
+
+0xCFEE05D1 = Featured sighting
+
+0xD4F1C34C = No personal horse
+
+0xD7ADE70C = Trains are currently unavailable.
+
+0xD10E31E8 = Customize a horse's appearance
+
+0xD57DA515 = ~INPUT_GAME_MENU_TAB_LEFT_LB~
+
+0xD99587CB = Moonshine Still
+
+0xD6410484 = Stirrup
+
+0xDA355E79 = Unavailable until current batch is sold
+
+0xDA563C28 = FIREARMS
+
+0xDBE6E912 = Not Available
+
+0xDC53F67A = You have no coach bays available. Purchase a new bay in the Manage Coaches menu.
+
+0xDC918FDC = Challenge: ~1~ ~2~/~3~
+
+0xDE87A063 = This Offer can no longer be used.
+
+0xDF9DBE8A = Guarma Bounty
+
+0xDFB333A3 = ~1~/~2~ Rare Fish Handed In
+
+0xE0B05885 = Neckwear
+
+0xE0B98141 = Buy: ~1p~
+
+0xE1F09964 = BUY SNIPER
+
+0xE2B8A1EB = You have too many active horses to buy any more. Please make room in your stable. (Coming Soon)
+
+0xE7F1E669 = BUY REVOLVER
+
+0xE9C47970 = Requires Naturalist Rank 5.
+
+0xE9DD468B = BUY THROWN
+
+0xE48B7C62 = ~s~This item is out of stock.~s~
+
+0xE53D9720 = Increase your Horse's level
+
+0xE54E2963 = Coach Purchased
+
+0xE67D64A6 = Empty Bay
+
+0xE83C50F2 = ~1~/~2~ ~3~ Received
+
+0xE92CE692 = Add a flavor to sell to a specific buyer
+
+0xE702E9AF = Split ~1$~ with your Posse.
+
+0xE95115BD = You have entered the shop with a stolen horse or coach. You must sell it before proceeding.
+
+0xE2874539 = Horse Sold
+
+0xED017966 = Buy Horse: (~1$~)
+
+0xED39B13D = You need a personal horse to train it. Select keep horse from the horse interaction menu.
+
+0xEE0C77A1 = Can't level horse now
+
+0xEE53DDE8 = Cannot pay bounty
+
+0xEFB90618 = Sold stolen horse for ~1$~
+
+0xF051675D = BUY PISTOL
+
+0xF073EE07 = Upgraded Saddle Bags increase your outfit, mask and hat storage on your Horse.
+
+0xF2A0C292 = You cannot afford this Offer.
+
+0xF2BCA9EC = Large Masks
+
+0xF3AF11A2 = ~1~/~2~ Feathers Handed In
+
+0xF3B656DC = You only have enough money to pay a part of the bounty
+
+0xF4A84973 = ITEMS
+
+0xF4FC9318 = BUY HORSE EQUIPMENT
+
+0xF6AE3163 = You do not have enough cash to pay this
+
+0xF7B32196 = Half Chaps
+
+0xF8BEA775 = ~s~ ~s~
+
+0xF9F27EE3 = BUY MELEE
+
+0xF25CC0EA = ~1~/~2~ Shells Handed In
+
+0xF35AD865 = MAX
+
+0xF39CF0F7 = New Hanover Bounty
+
+0xF518F1DA = ~1~: ~2~/~3~
+
+0xF2773F97 = BUY
+
+0xF37851F6 = Your Horse is lost.
+
+0xF9427628 = Talismans
+
+0xFA609BE6 = Rings
+
+0xFAA03E24 = Power:
+
+0xFB471881 = ~s~You have sold: ~a~~s~
+
+0xFCF91D2B = Saddle - Carried
+
+0xFDBE8C10 = Cart
+
+0xFE2DE5A2 = Gender
+
+0xFE4212E8 = Only a Posse Leader can purchase Mash
+
+0xFEBE179C = ~s~You cannot buy any more ~a~.~s~
+
+0xFF82FBBD = Buy Clothing
+
+0xFFB0F285 = Saddle - Stored
+
+HARRIET_MISSION_LAUNCHING_HIDEOUT = Start Poached Animals
+
+ITEM_BOUGHT = ~s~You have purchased: ~a~~s~
+
+MANAGE_MOUNTS_BUY_SLOT_PROMPT = Buy Slot: (~1$~)
+
+MANAGE_MOUNTS_MAKE_ACTIVE_PROMPT = Make Primary
+
+MANAGE_STABLE_EQUIP_SADDLE_PROMPT = Equip Saddle
+
+MANAGE_STABLE_MAKE_PRIMARY_PROMPT = Make Primary
+
+MANAGE_STABLE_RETRIEVE_HORSE_PROMPT = Retrieve (~1$~)
+
+MANAGE_STABLE_RETRIEVE_SADDLE_PROMPT = Retrieve (~1$~)
+
+MANAGE_STABLE_SELL_HORSE_PROMPT = Sell
+
+MANAGE_STABLE_STABLE_HORSE_PROMPT = Stable
+
+MATERIAL_VALUE = Materials:
+
+MOONSHINE_POSSE_MEMBER_RECIPE_PAGE = Requested Recipes
+
+MOONSHINE_SELL_PAGE = Buyers
+
+MSSR_MENU_POSSE_MEMBER_RECIPE = Requested Recipes By Owner
+
+MSSR_MENU_PRDCTN_TIME_LEFT = Production Complete: ~1~%
+
+MSSR_MENU_RECIPE = Flavoring
+
+MSSR_MENU_SELL = Moonshine
+
+SHOP_ADD_TO_LOG = Add To Log
+
+SHOP_CANNOT_PREVIEW = Cannot view ~1p~
+
+SHOP_CATALOGUE_MAP_BONUS = Rank Up Bonus
+
+SHOP_CATALOGUE_ORDER = Catalogue Order
+
+SHOP_GOTO_HORSE = You have reached the limit of weapons you can carry; we have sent your ~1~ to your Horse's Satchel.
+
+SHOP_HORSE_HELP_NO_OPEN_STABLED_SLOTS = Your stable is full. Please make room in your stable.
+
+SHOP_HORSE_SADDLE = Saddle
+
+SHOP_HORSE_TUT_BUY_HORSE = Buy a new horse
+
+SHOP_HORSE_TUT_EXIT_SHOP = Exit the stable
+
+SHOP_HORSE_TUT_SELL_STABLE_HORSE = Sell or Stable the horse
+
+SHOP_H_LOCKED = ~s~This item is locked.~s~
+
+SHOP_H_LOCKED_RANK = ~s~This item is locked to Rank ~1~.~s~
+
+SHOP_H_LOCKED_ROLE_RANK = ~s~This item is locked to ~a~ Role Rank ~1~.~s~
+
+SHOP_H_LOCKED_USE_PA = ~s~This item is locked to Rank ~1~. Hold ~INPUT_SHOP_CHANGE_CURRENCY~ to pay the higher amount of ~COLOR_CASH_GOLD~~BLIP_GOLD~~2~ Gold~s~.
+
+SHOP_H_LOCKED_USE_PA_BASE = ~s~This item is locked to Rank ~1~. Hold ~INPUT_SHOP_CHANGE_CURRENCY~ to purchase now with ~COLOR_CASH_GOLD~~BLIP_GOLD~~2~ Gold~s~.
+
+SHOP_H_NOT_ACCEPTED_CRIPPS = ~s~Cripps does not accept this item.~s~
+
+SHOP_H_NOT_ACCEPTED_ITEM = ~s~The shopkeeper does not accept this item.~s~
+
+SHOP_H_NOT_ACCEPTED_ITEM_F = ~s~The shopkeeper does not accept this item.~s~
+
+SHOP_H_NOT_SKINNED_ITEM = ~s~Cripps does not accept skinned or plucked carcasses.~s~
+
+SHOP_H_NO_SADDLE_SLOTS = ~s~Your saddle slots are full. Make room in your stable to purchase this saddle.~s~
+
+SHOP_H_OUTFIT = ~s~You cannot view any clothes while wearing this outfit.~s~
+
+SHOP_H_OWNED = ~s~You already own this item.~s~
+
+SHOP_H_TOO_POOR = ~s~This item costs too much cash. Return with more cash to purchase it.~s~
+
+SHOP_H_TOO_POOR_GOLD = This item costs too much Gold. Return with more Gold to purchase it.
+
+SHOP_H_TOO_POOR_PH = ~s~You do not have enough cash to take a photograph. Return with more cash.~s~
+
+SHOP_H_TOO_POOR_TOKEN = ~s~You do not have enough ~COLOR_TOKENS~~fo|$util~?~fo~ Tokens~s~ to purchase this item.~s~
+
+SHOP_H_TOO_POOR_USE_GOLD = ~s~You do not have enough cash. Hold ~INPUT_SHOP_CHANGE_CURRENCY~ to purchase now with ~COLOR_CASH_GOLD~~BLIP_GOLD~~1~ Gold~s~.
+
+SHOP_H_VIP_PASS = ~s~Wheeler, Rawson & Co. Club and The Outlaw Pass No. 2 are available until ~2p~ ~1p~, ~3p~.~s~ All Rewards earned during this period will persist after the Membership expires.
+
+SHOP_H_WEST_ELIZABETH_BOUNTY = Due to the severity of your crimes commited in Blackwater, a bounty can only be cleared for the north part of West Elizabeth.
+
+SHOP_MASH_REQUIRED = Mash required to start production
+
+SHOP_MISSION_TELEGRAM_DESC = A batch of telegrams offering work.
+
+SHOP_MP_HORSE_TUT_EXIT_SHOP = Exit the stables
+
+SHOP_MP_HORSE_TUT_OBJ_RENAME_HORSE = Rename your horse
+
+SHOP_MP_HORSE_TUT_OBJ_RETURN_TO_PREVIOUS = Return to the previous page
+
+SHOP_MP_HORSE_TUT_OBJ_SELECT_EMPTY_SLOT = Select an Empty Slot
+
+SHOP_MP_HORSE_TUT_OBJ_SELECT_SADDLE = Select a Saddle
+
+SHOP_MP_HORSE_TUT_SELECT_HORSE = Select ~1p~
+
+SHOP_MP_HORSE_TUT_SELECT_OPTION = Select ~1~
+
+SHOP_MS_STILL_DFLT_BUYER_DESC = This buyer pays lower prices, but will accept all flavored or unflavored Moonshine.
+
+SHOP_MS_STILL_PRFRD_BUYER_DESC = This buyer pays higher prices, but will only accept a certain flavor or unflavored Moonshine.
+
+SHOP_MS_STILL_TOOLTIP_CRAFT_ALL_INGREDIENTS_PRS = Buyers reset: ~1~hrs ~2~mins ~3~sec
+
+SHOP_MS_STILL_TOOLTIP_CRAFT_NO_INGREDIENTS_PRS = Buyers reset: ~1~hrs ~2~mins ~3~sec
+
+SHOP_OFFERS_ORIGINAL_DOLLARS = Original price ~1$~.
+
+SHOP_OFFERS_ORIGINAL_GOLD = Original price ~COLOR_CASH_GOLD~~BLIP_GOLD~~1~~s~.
+
+SHOP_PRICE = Price
+
+SHOP_PRICE_FOR_QUANTITY = Price For ~1~
+
+SHOP_PURCHASE = ~INPUT_GAME_MENU_ACCEPT~ Purchase
+
+SHOP_RMV_TO_LOG = Remove From Log
+
+SHOP_SELL_HORSE_SATCHEL = Items were sold from the Horse's Satchel.
+
+SHOP_SEND = Send For
+
+SHOP_STOLEN_HORSE_WITH_PAPER = You can now take a stolen horse to the Stable ~BLIP_SHOP_HORSE_FENCING~ and register it with the forged papers.
+
+SHOP_TAB_BUY = BUY
+
+SHOP_TAB_SELECTION = Selection
+
+SHOP_TAB_SELL = SELL
+
+SHOP_TAB_SEND = SEND
+
+SHOP_TITLE_ANIMAL_TRAPPER = TRAPPER
+
+SHOP_TITLE_BAIT = BAIT AND TACKLE
+
+SHOP_TITLE_BANK = BANK
+
+SHOP_TITLE_BARBER = BARBER
+
+SHOP_TITLE_BARTENDER = BARTENDER
+
+SHOP_TITLE_BOUNTYHUNTING_MP_RETURN = BOUNTY HUNTING
+
+SHOP_TITLE_BUTCHER = BUTCHER
+
+SHOP_TITLE_COACH = COACH SHOP
+
+SHOP_TITLE_DOCTOR = DOCTOR'S OFFICE
+
+SHOP_TITLE_FACIAL_HAIR = FACIAL HAIR
+
+SHOP_TITLE_FENCE = FENCE
+
+SHOP_TITLE_GENERAL = GENERAL STORE
+
+SHOP_TITLE_GUNSMITH = GUNSMITH
+
+SHOP_TITLE_HAIRSTYLES = HAIR STYLES
+
+SHOP_TITLE_HANDHELD = HANDHELD
+
+SHOP_TITLE_HORSE_FENCE_MP = HORSE FENCE
+
+SHOP_TITLE_HORSE_SHOP = STABLE
+
+SHOP_TITLE_HOTEL = HOTEL
+
+SHOP_TITLE_MARKET_PLACE = MARKET PLACE
+
+SHOP_TITLE_MP_MOONSHINER = Moonshiner Business
+
+SHOP_TITLE_MP_MOONSHINE_PROP = MOONSHINER STORE
+
+SHOP_TITLE_NEWSPAPER_BOY = NEWSPAPER
+
+SHOP_TITLE_PEARSON = CRAFTING UPGRADES
+
+SHOP_TITLE_POST = POST OFFICE
+
+SHOP_TITLE_QUARTER = QUARTERMASTER
+
+SHOP_TITLE_TAILOR = TAILOR
+
+SHOP_TITLE_TRAINER = HORSE TRAINER
+
+SHOP_TITLE_TRAIN_STATION = TRAIN STATION
+
+SHOP_TITLE_TRAVELLING_SALESMAN = COLLECTOR
+
+SHOP_TITLE_WARDROBE = WARDROBE
+
+SHOP_VALUE = Value
+
+SHOP_WEEKLY_COLLECTIBLE_LIST = Weekly Collectible Shopping List
+

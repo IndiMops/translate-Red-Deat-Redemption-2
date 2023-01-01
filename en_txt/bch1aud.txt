@@ -1,0 +1,600 @@
+BCH1_RSC1_1 = ~z~Hey, son...
+
+BCH1_RSC1_2 = ~z~how's that bull?
+
+BCH1_RSC1_3 = ~z~Fine, Mr. Milton.
+
+BCH1_RSC1_4 = ~z~Your father in?
+
+BCH1_RSC1_5 = ~z~Could I have a word?
+
+BCH1_RSC1_6 = ~z~Sure...
+
+BCH1_RSC1_7 = ~z~I'll just get him.
+
+BCH1_RSC1_8 = ~z~Pa.
+
+BCH1_RSC1_9 = ~z~Yeah I'm right, right here...
+
+BCH1_RSC1_10 = ~z~What's the problem, Milton?
+
+BCH1_RSC1_11 = ~z~I'm sorry for the disturbance, sir.
+
+BCH1_RSC1_12 = ~z~Oh, no problem.
+
+BCH1_RSC1_13 = ~z~My wife...
+
+BCH1_RSC1_14 = ~z~she just began her morning discourse...
+
+BCH1_RSC1_15 = ~z~on the subject of my faults.
+
+BCH1_RSC1_16 = ~z~An experience I think every man can relate to.
+
+BCH1_RSC1_17 = ~z~In some ways.
+
+BCH1_RSC1_18 = ~z~My wife...
+
+BCH1_RSC1_19 = ~z~my wife also has...
+
+BCH1_RSC1_20 = ~z~issues with some of the decisions I've made.
+
+BCH1_RSC1_21 = ~z~Real issues.
+
+BCH1_RSC1_22 = ~z~Do you believe a man can change, sir?
+
+BCH1_RSC1_23 = ~z~Where is this heading?
+
+BCH1_RSC1_24 = ~z~I guess I don't know.
+
+BCH1_RSC1_25 = ~z~I've tried to be a good hand.
+
+BCH1_RSC1_26 = ~z~I've worked hard to secure your property...
+
+BCH1_RSC1_27 = ~z~And for that we are grateful.
+
+BCH1_RSC1_28 = ~z~and you've paid me well, besides.
+
+BCH1_RSC1_29 = ~z~The thing is, I suppose...
+
+BCH1_RSC1_30 = ~z~I need to get a place of my own...
+
+BCH1_RSC1_31 = ~z~so I can prove to my wife that I've changed.
+
+BCH1_RSC1_32 = ~z~I understand.
+
+BCH1_RSC1_33 = ~z~But...
+
+BCH1_RSC1_34 = ~z~I ain't got much money.
+
+BCH1_RSC1_35 = ~z~I ain't asking to borrow none...
+
+BCH1_RSC1_36 = ~z~but maybe you could...
+
+BCH1_RSC1_37 = ~z~go to the bank and...
+
+BCH1_RSC1_38 = ~z~put in a good word...
+
+BCH1_RSC1_39 = ~z~so they could give me a loan?
+
+BCH1_RSC1_40 = ~z~A loan, huh?
+
+BCH1_RSC1_41 = ~z~So I can buy that place, Beecher's Hope?
+
+BCH1_RSC1_42 = ~z~Yes, I know it.
+
+BCH1_RSC1_43 = ~z~Yes of course, sure.
+
+BCH1_RSC1_44 = ~z~It'd be...
+
+BCH1_RSC1_45 = ~z~be my pleasure...
+
+BCH1_RSC1_46 = ~z~but take my advice, Milton...
+
+BCH1_RSC1_47 = ~z~take your money...
+
+BCH1_RSC1_48 = ~z~and go buy passage on a boat.
+
+BCH1_RSC1_49 = ~z~Go to Brazil and...
+
+BCH1_RSC1_50 = ~z~forget all about family.
+
+BCH1_RSC1_51 = ~z~I'm just joking, son.
+
+BCH1_RSC1_52 = ~z~Just make sure you deal with Ansel Atherton at the bank.
+
+BCH1_RSC1_53 = ~z~He's a distant cousin.
+
+BCH1_RSC1_54 = ~z~Use my name...
+
+BCH1_RSC1_55 = ~z~tell him to ask me direct himself.
+
+BCH1_RSC1_56 = ~z~You'll get what you need.
+
+BCH1_RSC1_57 = ~z~Thank you, sir.
+
+BCH1_RSC1_58 = ~z~Yeah, I was young and dumb once too...
+
+BCH1_RSC1_59 = ~z~you'll get her back.
+
+BCH1_RSC1_LI_1 = ~z~
+
+BCH1_RSC1_LI_2 = ~z~Hey son, how's that bull?
+
+BCH1_RSC1_LI_3 = ~z~Fine, Mr. Milton.
+
+BCH1_RSC2_1 = ~z~Can I help you?
+
+BCH1_RSC2_2 = ~z~I hope so.
+
+BCH1_RSC2_3 = ~z~I want a loan, sir.
+
+BCH1_RSC2_4 = ~z~A line of credit...
+
+BCH1_RSC2_5 = ~z~so I can buy some property.
+
+BCH1_RSC2_6 = ~z~What property?
+
+BCH1_RSC2_7 = ~z~Can I help you?
+
+BCH1_RSC2_8 = ~z~I hope so.
+
+BCH1_RSC2_9 = ~z~I want a loan, sir.
+
+BCH1_RSC2_10 = ~z~A line of credit...
+
+BCH1_RSC2_11 = ~z~so I can buy some property.
+
+BCH1_RSC2_12 = ~z~What property?
+
+BCH1_RSC2_13 = ~z~An old ranch...
+
+BCH1_RSC2_14 = ~z~Beecher's Hope.
+
+BCH1_RSC2_15 = ~z~That old dump?
+
+BCH1_RSC2_16 = ~z~I-I know it ain't much...
+
+BCH1_RSC2_17 = ~z~but I ain't much of a farmer either.
+
+BCH1_RSC2_18 = ~z~But, I will get there.
+
+BCH1_RSC2_19 = ~z~That is a very unusual way of asking for a loan, Mr...?
+
+BCH1_RSC2_20 = ~z~M... Marston.
+
+BCH1_RSC2_21 = ~z~Marston.
+
+BCH1_RSC2_22 = ~z~Only folk around here call me Milton...
+
+BCH1_RSC2_23 = ~z~it's kind of a joke, I guess.
+
+BCH1_RSC2_24 = ~z~A joke, huh?
+
+BCH1_RSC2_25 = ~z~Which folk?
+
+BCH1_RSC2_26 = ~z~Mr. Geddes.
+
+BCH1_RSC2_27 = ~z~I work for him.
+
+BCH1_RSC2_28 = ~z~He said that you could help me out...
+
+BCH1_RSC2_29 = ~z~I mean, if you can.
+
+BCH1_RSC2_30 = ~z~So old David Geddes told you I'm the kind of man...
+
+BCH1_RSC2_31 = ~z~to loan a man with two names money...
+
+BCH1_RSC2_32 = ~z~so he can buy a run-down farm...
+
+BCH1_RSC2_33 = ~z~on account of his lack of farming skills, huh?
+
+BCH1_RSC2_34 = ~z~Don't sound too promising when you put it like that.
+
+BCH1_RSC2_35 = ~z~Well, how would you put it?
+
+BCH1_RSC2_36 = ~z~Sorry to waste your time, sir.
+
+BCH1_RSC2_37 = ~z~Oh, sit down, I'm sure we can figure something out.
+
+BCH1_RSC2_38 = ~z~Now of course, we'll be expecting you to make regular payments...
+
+BCH1_RSC2_39 = ~z~and given a lack of much evidence you got any means of repaying...
+
+BCH1_RSC2_40 = ~z~the terms won't be too great...
+
+BCH1_RSC2_41 = ~z~but, if my cousin vouches for you, it'll be okay with the bank.
+
+BCH1_RSC2_42 = ~z~Really?
+
+BCH1_RSC2_43 = ~z~Absolutely.
+
+BCH1_RSC2_44 = ~z~Thank you.
+
+BCH1_RSC2_45 = ~z~Now of course we'll be expecting our money back...
+
+BCH1_RSC2_46 = ~z~regular as clockwork until the debt's settled.
+
+BCH1_RSC2_47 = ~z~Otherwise the farm reverts to the bank...
+
+BCH1_RSC2_48 = ~z~no matter how much you paid.
+
+BCH1_RSC2_49 = ~z~I understand.
+
+BCH1_RSC2_50 = ~z~Well, why don't you go check out the land...
+
+BCH1_RSC2_51 = ~z~while I fix the contracts and talk to Mr. Geddes.
+
+BCH1_RSC2_52 = ~z~Oh...
+
+BCH1_RSC2_53 = ~z~I heard there's squatters up there.
+
+BCH1_RSC2_54 = ~z~We've been having so many problems recently...
+
+BCH1_RSC2_55 = ~z~they'll need clearing on.
+
+BCH1_RSC2_56 = ~z~Sure.
+
+BCH1_RSC2_57 = ~z~Well, come back when you're done...
+
+BCH1_RSC2_58 = ~z~and we'll fix up the paperwork.
+
+BCH1_RSC3_1 = ~z~Can I help you, friend?
+
+BCH1_RSC3_2 = ~z~I hope so...
+
+BCH1_RSC3_3 = ~z~Who's in charge here?
+
+BCH1_RSC3_4 = ~z~No one, mister.
+
+BCH1_RSC3_5 = ~z~This is a free country.
+
+BCH1_RSC3_6 = ~z~Now that I ain't so sure about...
+
+BCH1_RSC3_7 = ~z~Listen...
+
+BCH1_RSC3_8 = ~z~I'm buying this land.
+
+BCH1_RSC3_9 = ~z~I'm afraid...
+
+BCH1_RSC3_10 = ~z~'fraid you guys are going to have to go somewhere else.
+
+BCH1_RSC3_11 = ~z~Who's this?
+
+BCH1_RSC3_12 = ~z~I ain't sure.
+
+BCH1_RSC3_13 = ~z~Some fancy dan city boy...
+
+BCH1_RSC3_14 = ~z~says he owns this land...
+
+BCH1_RSC3_15 = ~z~or he's gonna.
+
+BCH1_RSC3_16 = ~z~Owns it?
+
+BCH1_RSC3_17 = ~z~That's what he says.
+
+BCH1_RSC3_18 = ~z~Okay...
+
+BCH1_RSC3_19 = ~z~then how come we living here?
+
+BCH1_RSC3_20 = ~z~I ain't sure...
+
+BCH1_RSC3_21 = ~z~Look...
+
+BCH1_RSC3_22 = ~z~take some money.
+
+BCH1_RSC3_23 = ~z~Go try and find somewhere else to stay.
+
+BCH1_RSC3_24 = ~z~You for real, friend?
+
+BCH1_RSC3_25 = ~z~Sure, take it.
+
+BCH1_RSC3_26 = ~z~You're a real gentleman.
+
+BCH1_RSC3_27 = ~z~Okay, boys...
+
+BCH1_RSC3_28 = ~z~let's go celebrate.
+
+BCH1_RSC3_29 = ~z~Thanks, mister.
+
+RBCH1_IG4_1 = ~z~Now that I ain't so sure about...
+
+RBCH1_IG4_2 = ~z~Listen... I'm buying this land.
+
+RBCH1_IG4_3 = ~z~I'm afraid... afraid you guys are gonna have to go somewhere else.
+
+RBCH1_IG4_4 = ~z~Who's this?
+
+RBCH1_IG4_5 = ~z~I ain't sure.
+
+RBCH1_IG4_6 = ~z~Some fancy dan city boy... says he owns this land... or he's gonna.
+
+RBCH1_IG4_7 = ~z~Owns it?
+
+RBCH1_IG4_8 = ~z~That's what he says.
+
+RBCH1_IG4_9 = ~z~Okay... then how come we living here?
+
+RBCH1_IG4_10 = ~z~I ain't sure...
+
+RBCH1_RSC2_IG1A_1 = ~z~Excuse me, sir? Can I-can I help you?
+
+RBCH1_RSC2_IG1_1 = ~z~Yeah, I'm looking for Mr. Atherton. I'm a friend of Mr. Geddes over at Pronghorn Ranch.
+
+RBCH1_RSC2_IG1_2 = ~z~Oh... yeah, Mr. Atherton is in his office. Hey, please head in.
+
+RBCH1_RSC2_IG1_3 = ~z~Thank you.
+
+RBCH1_RSC2_IG1_4 = ~z~Yeah.
+
+RBCH1_RSC2_LI_1 = ~z~Can I help you?
+
+RBCH1_RSC2_LI_2 = ~z~I hope so.
+
+RBCH1_RSC2_LI_3 = ~z~I want a loan, sir.
+
+RBCH1_RSC2_LI_4 = ~z~A line of credit... so I can buy some property.
+
+RBCH1_RSC2_LI_5 = ~z~What property?
+
+RBCH1_RSC3_LI_1 = ~z~I hope so...
+
+RBCH1_RSC3_LI_2 = ~z~Who's in charge here?
+
+RBCH1_RSC3_LI_3 = ~z~No one, mister.
+
+RBCH1_RSC3_LI_4 = ~z~This is a free country.
+
+RBCH1_RSC3_LI_C_1 = ~z~Can I help you, friend?
+
+RBCH1_RSC3_LOF_1 = ~z~Get the hell outta here, this land belongs to me now.
+
+RBCH1_RSC3_LOF_2 = ~z~Ain't nothing on this Earth belongs to no one, partner.
+
+RBCH1_RSC3_LOF_3 = ~z~Looks like you made your decision then, partner.
+
+RBCH1_RSC3_LOP_1 = ~z~Look...
+
+RBCH1_RSC3_LOP_2 = ~z~Take some money. Go try and find somewhere else to stay.
+
+RBCH1_RSC3_LOP_3 = ~z~You for real, friend?
+
+RBCH1_RSC3_LOP_4 = ~z~Sure, take it.
+
+RBCH1_RSC3_LOP_5 = ~z~
+
+RBCH1_RSC3_LOP_6 = ~z~
+
+RBCH1_RSC3_LOP_7 = ~z~You're a real gentlemen.
+
+RBCH1_RSC3_LOP_8 = ~z~Okay boys, let's go celebrate.
+
+RBCH1_RSC3_LOP_9 = ~z~Thanks, mister.
+
+RBCH1_RSC4_1 = ~z~Ah, it's you...
+
+RBCH1_RSC4_2 = ~z~the man with two names and no past...
+
+RBCH1_RSC4_3 = ~z~come on in, how'd you make out?
+
+RBCH1_RSC4_4 = ~z~Well let's just say there are no more squatters.
+
+RBCH1_RSC4_5 = ~z~Okay, well I got your paperwork ready.
+
+RBCH1_RSC4_6 = ~z~Now, you sure about buying this place?
+
+RBCH1_RSC4_7 = ~z~It's really run down and the price isn't too great.
+
+RBCH1_RSC4_8 = ~z~I think it would mean a lot for my wife...
+
+RBCH1_RSC4_9 = ~z~at least mean I was listening to her.
+
+RBCH1_RSC4_10 = ~z~Okay.
+
+RBCH1_RSC4_11 = ~z~Well... sign here and here.
+
+RBCH1_RSC4_12 = ~z~Now we own you, Mr. Marston...
+
+RBCH1_RSC4_13 = ~z~and we own Mr. Milton, too...
+
+RBCH1_RSC4_14 = ~z~and we own your property.
+
+RBCH1_RSC4_15 = ~z~But you can buy your freedom... each week...
+
+RBCH1_RSC4_16 = ~z~eventually you will be a home owner.
+
+RBCH1_RSC4_17 = ~z~I understand.
+
+RBCH1_RSC4_18 = ~z~Congratulations, you are now a real American...
+
+RBCH1_RSC4_19 = ~z~indebted and owned by the bank.
+
+RBCH1_RSC4_20 = ~z~I'm joking, they own me but they just own your property.
+
+RBCH1_RSC4_21 = ~z~Now, you can also use this line of credit for any home improvements...
+
+RBCH1_RSC4_22 = ~z~you need to make of course.
+
+RBCH1_RSC4_23 = ~z~I can?
+
+RBCH1_RSC4_24 = ~z~Sure...
+
+RBCH1_RSC4_25 = ~z~be good, Mr. Marston.
+
+RBCH1_RSC4_26 = ~z~Welcome to home ownership, it's a beautiful thing.
+
+RBCH1_RSC4_27 = ~z~Let your wife know what to complain about.
+
+RBCH1_RSC4_28 = ~z~I'm just joking.
+
+RBCH1_RSC4_29 = ~z~Well, it is you.
+
+RBCH1_RSC4_30 = ~z~Well, I never, I...
+
+RBCH1_RSC4_31 = ~z~I thought you was dead, boy...
+
+RBCH1_RSC4_32 = ~z~dead!
+
+RBCH1_RSC4_33 = ~z~Uncle?
+
+RBCH1_RSC4_34 = ~z~The very same.
+
+RBCH1_RSC4_35 = ~z~Come here.
+
+RBCH1_RSC4_36 = ~z~I saw you going into the bank...
+
+RBCH1_RSC4_37 = ~z~and by the looks of things you ain't robbed it.
+
+RBCH1_RSC4_38 = ~z~I've gone straight.
+
+RBCH1_RSC4_39 = ~z~Oh, bullcrap.
+
+RBCH1_RSC4_40 = ~z~No, for real.
+
+RBCH1_RSC4_41 = ~z~Well, I'm trying...
+
+RBCH1_RSC4_42 = ~z~All these years...
+
+RBCH1_RSC4_43 = ~z~you ain't changed a bit...
+
+RBCH1_RSC4_44 = ~z~well, maybe a little bit.
+
+RBCH1_RSC4_45 = ~z~I thought you was dead.
+
+RBCH1_RSC4_46 = ~z~Not yet.
+
+RBCH1_RSC4_47 = ~z~Well, I got some things to take care...
+
+RBCH1_RSC4_48 = ~z~Oh, not a problem, I'll come too.
+
+RBCH1_RSC4_49 = ~z~Nah, you don't have to.
+
+RBCH1_RSC4_50 = ~z~I'm real sick, John.
+
+RBCH1_RSC4_51 = ~z~Lumbago.
+
+RBCH1_RSC4_52 = ~z~It's a slow and painful death, my brother.
+
+RBCH1_RSC4_53 = ~z~Evidently...
+
+RBCH1_RSC4_54 = ~z~Have a little pity will ya...
+
+RBCH1_RSC4_55 = ~z~huh?
+
+RBCH1_RSC4_56 = ~z~Come on then.
+
+RBCH1_RSC4_57 = ~z~Alright.
+
+RBCH1_RSC4_LI_1 = ~z~Ah, it's you...
+
+RBCH1_RSC6_1 = ~z~Okay...
+
+RBCH1_RSC6_2 = ~z~What do you think?
+
+RBCH1_RSC6_3 = ~z~Why exactly did you buy this dump?
+
+RBCH1_RSC6_4 = ~z~For Abigail.
+
+RBCH1_RSC6_5 = ~z~Why?
+
+RBCH1_RSC6_6 = ~z~Is she an idiot?
+
+RBCH1_RSC6_7 = ~z~No.
+
+RBCH1_RSC6_8 = ~z~What were you thinking?
+
+RBCH1_RSC6_9 = ~z~I don't know...
+
+RBCH1_RSC6_10 = ~z~she said she wanted it.
+
+RBCH1_RSC6_11 = ~z~She ever seen it?
+
+RBCH1_RSC6_12 = ~z~What are we gonna farm here?
+
+RBCH1_RSC6_13 = ~z~Rocks?
+
+RBCH1_RSC6_14 = ~z~We?
+
+RBCH1_RSC6_15 = ~z~You don't have a hope here, without a wise hand at the tiller.
+
+RBCH1_RSC6_16 = ~z~Enough of that.
+
+RBCH1_RSC6_17 = ~z~Get outta here...
+
+RBCH1_RSC6_18 = ~z~on your way.
+
+RBCH1_RSC6_19 = ~z~No, you're stuck with me...
+
+RBCH1_RSC6_20 = ~z~seems I'm stuck with you.
+
+RBCH1_RSC6_21 = ~z~John, the rock farmer.
+
+RBCH1_RSC6_22 = ~z~So...
+
+RBCH1_RSC6_23 = ~z~you think I'm an idiot?
+
+RBCH1_RSC6_24 = ~z~No...
+
+RBCH1_RSC6_25 = ~z~I know you're an idiot.
+
+RBCH1_RSC6_LI_1 = ~z~Okay...
+
+RBCH1_RSC6_LI_2 = ~z~What do you think?
+
+RBCH11_NEM_1 = ~z~Now, as much as I would love to pay you, I'm short, so...
+
+RBCH13_JUFOLLOW_1 = ~z~Follow me.
+
+RBCH13_JURIDESHOUTED_4 = ~z~You know speaking in monosyllables doesn't make you seem interesting. It makes you seem stupid.
+
+RBCH13_JURIDESHOUTED_8 = ~z~Is that what you was doing in the bank?
+
+RBCH13_JURIDESHOUTED_9 = ~z~Spending all your money? On a ranch in the armpit of West Elizabeth? My lord!
+
+RBCH13_JURIDESHOUTED_10 = ~z~Not that it's any of your concern, but...~rp~ I was in the bank borrowing the money.
+
+RBCH13_JURIDESHOUTED_11 = ~z~Even worse!~rp~ You can run from a bounty, John, you can't run from a bank.~rp~ Is Abigail there?
+
+RBCH13_JURIDESPOKEN_4 = ~z~You know speaking in monosyllables don't make you seem interesting. It makes you seem stupid.
+
+RBCH13_JURIDESPOKEN_8 = ~z~Is that what you were doing in the bank?
+
+RBCH13_JURIDESPOKEN_9 = ~z~Spending all your money? On a ranch in the armpit of West Elizabeth? Oh, my Lord...
+
+RBCH13_JURIDESPOKEN_10 = ~z~Not that that's any of your concern, but...~rp~ I was in the bank borrowing the money.
+
+RBCH13_JURIDESPOKEN_11 = ~z~Now that's even worse!~rp~ You can run from a bounty, John, you can't run from a bank.~rp~ Is Abigail there?
+
+RBCH13_JURIDE_1 = ~z~Where we headed?
+
+RBCH13_JURIDE_2 = ~z~West.
+
+RBCH13_JURIDE_3 = ~z~West. Ain't you a man of few words?~rp~ I can see we're heading 'west'.
+
+RBCH13_JURIDE_5 = ~z~I don't care how I seem.
+
+RBCH13_JURIDE_6 = ~z~Now where west are we headed, you damn grunting fool?
+
+RBCH13_JURIDE_7 = ~z~This ranch I...~rp~ a ranch I bought just now.
+
+RBCH13_JURIDE_12 = ~z~No, she's... uh...~rp~ her and Jack are waiting until I'm set up before joining me out here.
+
+RBCH13_JURIDE_13 = ~z~Oh, you mean she left you?
+
+RBCH13_JURIDE_14 = ~z~I never thought she was a smart woman, but this makes me think...~rp~ maybe I was wrong.
+
+RBCH13_JURIDE_15 = ~z~No more of that. I just bought this place.
+
+RBCH13_JURIDE_16 = ~z~And you're lucky I'm showing it to you, and not looking for a place to bury you out here.
+
+RBCH13_JUTOBCHSHOUTED_1 = ~z~This is it. Up here.
+
+RBCH13_JUTOBCHSPOKEN_1 = ~z~This is it.
+
+RBCH13_JUTOBCH_2 = ~z~Look at her.
+
+RBCH13_UNC_0_01 = ~z~You got a horse? Get on it.
+
+RBCH13_UNC_0_02 = ~z~I'm ready Marston. Come on.
+
+RBCH13_UNC_0_03 = ~z~You gonna mount up or what?
+

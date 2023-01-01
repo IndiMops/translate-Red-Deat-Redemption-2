@@ -1,0 +1,80 @@
+0x9EA9D788 = ~s~The widow wrote a letter expressing her inability to fend for herself. She mentions Arthur as an example of the thankless, ruthless nature of the people that roam the wilderness.~n~~n~She mentions missing her husband, and takes small comfort in that she'll at least join him soon.~s~
+
+0x13A53FD9 = The letter is written by a concerned mother, addressed to her son. In it, the woman shows great love for her offspring, but it appears this and other letters have been kept from the young man.
+
+0x6294DC6A = Сядьте за ~o~стол~s~.
+
+0x70927F53 = Бандит
+
+0xAABA125C = Оскорбить
+
+0xABB2AE0A = Взять тело
+
+0xFF5D9C7E = Найден тайник
+
+HM_AB_BLIP_BRO = Незнакомец
+
+HM_AB_BLIP_SIS = Незнакомка
+
+HM_CONTEXT_DRINK = Выпить
+
+HM_CONTEXT_LEAVE = Уйти
+
+HM_CONTEXT_STASH = Тайник
+
+HM_CONTEXT_TASTE = Попробовать рагу
+
+HM_CP_CTX_PUSH = Толкнуть
+
+HM_CP_OBJ_AMBUSH = Дождитесь, пока ~o~Хавьер~s~ отвлечет врагов.
+
+HM_CP_OBJ_HELP_PUSH = Помогите ~o~Хавьеру~s~ толкать.
+
+HM_CP_OBJ_HIDE = Спрячьтесь за ~o~камнем~s~.
+
+HM_CP_OBJ_KILLFAM = Убейте ~e~врагов~s~.
+
+HM_CP_OBJ_SEARCH_STASH = Ищите тайник в ~o~амбаре~s~.
+
+HM_CP_OBJ_STAYCLOSE = Держитесь ближе к ~o~Хавьеру~s~.
+
+HM_OBJ_BINO_EQUIP = Достаньте бинокль.
+
+HM_OBJ_BINO_SCOUT = Исследуйте ~o~хозяйство~s~.
+
+HM_OBJ_FOLLOW_JAVIER = Следуйте за ~o~Хавьером~s~.
+
+HM_OBJ_GOTO_JAVIER = Идите к ~o~Хавьеру~s~.
+
+HM_OBJ_SEARCH_STASH = Обыщите ~o~дом~s~, чтобы вернуть свои деньги.
+
+HM_RS_BLIP_BOTTLE = Бутылка
+
+HM_RS_BLIP_PREY = Кролик
+
+HM_RS_O_ESCORT_HOME = Проводите ~o~вдову~s~ домой.
+
+HM_RS_O_FOLLOW_HOME = Следуйте за ~o~вдовой~s~ в дом.
+
+HM_RS_O_GO_HUNT = ~s~Отведите вдову к ~o~месту охоты~s~.
+
+HM_RS_O_KILL_WOLVES = Убейте ~e~волков~s~.
+
+HM_RS_O_SEARCH_1 = ~s~Поищите животное в этой ~o~местности~s~~s~.
+
+HM_RS_O_SHOOT_PREY_1 = ~s~Стреляйте в ~e~кролика~s~.
+
+HM_RS_O_SHOOT_RAT = Выстрелите в ~e~крысу~s~.
+
+HM_RS_O_SHOOT_TARG = Выстрелите в ~e~одну бутылку~s~.
+
+HM_RS_O_SHOOT_TARG_3 = Выстрелите по трем ~e~бутылкам~s~.
+
+HM_RS_O_SIT_DINNER = Сядьте на ~o~стул~s~, чтобы ужинать.
+
+HM_RS_O_WAIT_SHOOT = Дождитесь, пока ~o~вдова~s~ выстрелит.
+
+HM_RS_O_WIDOW_SKIN = Дождитесь, пока ~o~вдова~s~ освежует кролика.
+
+HM_VH_CTX_TAKE = Забрать деньги
+

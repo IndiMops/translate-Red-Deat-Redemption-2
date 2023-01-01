@@ -1,0 +1,172 @@
+0x00DBB359 = ~z~Do you wanna die today?
+
+0x011533DA = ~z~Come on, please.
+
+0x01990505 = ~z~Always happy to give a price break to a local.
+
+0x03E46223 = ~z~You get away from me.
+
+0x07CAC632 = ~z~You're gonna follow me into a patch of trouble if you keep at it.
+
+0x0D309E00 = ~z~Leave them the hell alone.
+
+0x0D69460F = ~z~You're lucky you ain't dead right now.
+
+0x0E2CD1ED = ~z~I ain't got no money.
+
+0x0FF1A1B6 = ~z~I'll make sure you get the locals discount.
+
+0x1A3AEDBE = ~z~You think you're pretty smart, don't you?
+
+0x1A386A04 = ~z~You ain't getting shit from me.
+
+0x1B883AAF = ~z~Stop it. Right now, before someone gets killed.
+
+0x1D07CB06 = ~z~You are gonna pay for that.
+
+0x1DC3A443 = ~z~I ain't taking this, damn it.
+
+0x2AE71D7B = ~z~You gonna get the hell on out of here, right now.
+
+0x2AF9E6EA = ~z~Damn it. You are done.
+
+0x2CC830DB = ~z~People always got horses, so I always got work.
+
+0x2D102F1B = ~z~Ain't we been through this already?
+
+0x3D98F5AF = ~z~You're a might too close for my comfort.
+
+0x3F548DD3 = ~z~You responsible for all this?
+
+0x4C4C02B0 = ~z~I'm gonna ignore you.
+
+0x4DC47F7C = ~z~There a reason you're staring at me?
+
+0x4F95E606 = ~z~You want a second chance, fine. Just don't cross me.
+
+0x5F0326C5 = ~z~Leave me the hell alone.
+
+0x5F4E31CB = ~z~Hell no. You don't want to raise up on me.
+
+0x6BF11BE5 = ~z~You were wound up about something before, just don't get violent in here again.
+
+0x6FF7D4A0 = ~z~Hey. Why are you giving people trouble?
+
+0x7DFDE613 = ~z~Not even worth giving you the time of day.
+
+0x7E9F9EDC = ~z~Quit it. Didn't you hear me?
+
+0x8D768C22 = ~z~You new in town? Welcome to my stable.
+
+0x8E7EB21D = ~z~Stop it.
+
+0x9A84E018 = ~z~Whoa, now. I'd put that gun away if I were you.
+
+0x16A18A70 = ~z~Yep.
+
+0x16B04EFF = ~z~That's enough, I said.
+
+0x20CB18E1 = ~z~Hate to say it, but lots of horses been sick, so we been making good money.
+
+0x21D652D3 = ~z~Was it you that caused this?
+
+0x55D19854 = ~z~Here. Okay? Take it.
+
+0x64A9C3D0 = ~z~You want to back the hell on up?
+
+0x66F772C3 = ~z~You plan on moving sometime?
+
+0x68B43E19 = ~z~Okay, okay, here you go.
+
+0x71D25721 = ~z~
+
+0x80D28563 = ~z~The law can deal with this.
+
+0x99FEF800 = ~z~Don't be bringing any more violence in here.
+
+0x189ACA98 = ~z~Come on. That's wrong.
+
+0x240B8FD0 = ~z~Get out right now or I'm gonna make you.
+
+0x628D994F = ~z~Stop it.
+
+0x745F3CF2 = ~z~Don't you do that.
+
+0x751CEF3A = ~z~Careful.
+
+0x858B89C3 = ~z~Hi there, welcome.
+
+0x958BA780 = ~z~I'll forget all about this.
+
+0x1099A635 = ~z~Look where you're going.
+
+0x6554CE68 = ~z~Enough. I'm getting the law.
+
+0x44676BE0 = ~z~Give it a rest, you bum.
+
+0x63684BD1 = ~z~Watch it.
+
+0x78609BD0 = ~z~Hey. You point that at me, we gonna have problems.
+
+0x79535B65 = ~z~Let me be.
+
+0x279050EB = ~z~Alright, welcome back.
+
+0x50889440 = ~z~Hey. Turn the hell around before you get whooped.
+
+0xA2E4006F = ~z~Things are hard enough without you raisin' hell around here.
+
+0xAA69D891 = ~z~That's it.
+
+0xAADBD463 = ~z~Welcome, come on in.
+
+0xAC4FEDBF = ~z~What do you want?
+
+0xADB4D019 = ~z~There ain't no reason to carry on like this.
+
+0xADF35DB3 = ~z~Hello again.
+
+0xB2ACD966 = ~z~Bad. Some sickness was going around, killed some horses.
+
+0xB9ADDD72 = ~z~You are a waste of time.
+
+0xB9AE2E03 = ~z~Haven't you caused enough trouble?
+
+0xBDCCF802 = ~z~You ain't got to ask me twice.
+
+0xBE359B6D = ~z~Hey! I work hard for my money.
+
+0xBE947DA2 = ~z~How about I crack open your damn head?
+
+0xBF5C345E = ~z~Take this, it's all I got.
+
+0xC4EEBB84 = ~z~That's what I thought. Not so tough at all.
+
+0xCC671947 = ~z~You wanna get whooped? Is that it?
+
+0xCDAC1070 = ~z~Whoa. Who are you and what the hell do you want?
+
+0xCDF687E8 = ~z~There's the thief. I'm watchin' your every move.
+
+0xCEA81160 = ~z~Shop is doing so bad we might close for good.
+
+0xD6172AE5 = ~z~Howdy.
+
+0xD34017B8 = ~z~Howdy, ain't seen you in here before.
+
+0xDBF6151A = ~z~Sure.
+
+0xE2520B80 = ~z~I'll forgive and forget. Just act right.
+
+0xED544FC0 = ~z~What the hell are you doing here?
+
+0xF6E21F74 = ~z~Please don't do this.
+
+0xF9B24DBF = ~z~Get away from me.
+
+0xF1111B6B = ~z~You like to run your mouth, don't you?
+
+0xF7199FD5 = ~z~Oh, you are looking to see your brains on the ground, are ya?
+
+0xFF29EA52 = ~z~Don't think I forgot you're a thief. Watch yourself.
+

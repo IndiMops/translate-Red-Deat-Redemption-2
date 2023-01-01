@@ -1,0 +1,372 @@
+0x0099917C = ~z~I'm on it.
+
+0x00F6BC55 = ~z~I'm only tell you once more, put 'em up.
+
+0x03D9490B = ~z~Hey, I think they following us.
+
+0x0547479F = ~z~Better thank your lucky stars I ain't shoot you.
+
+0x05B9D050 = ~z~Dang it. They catching up to us.
+
+0x0702656E = ~z~Put your hands up.
+
+0x083D1AD2 = ~z~Enough with the questions.
+
+0x09D342E9 = ~z~Hey! Hunker down, hunker down! Give 'em hell!
+
+0x0A2F4D23 = ~z~He ain't quitting, is he?
+
+0x0A9351B5 = ~z~Easy choice. Hop on down, or the next round's in your skull.
+
+0x0BC5914F = ~z~Hey, you gots to get!
+
+0x0CAAE71B = ~z~This here is yo final warning I'm giving you!
+
+0x1D0F6331 = ~z~You got that right.
+
+0x1E6E8C04 = ~z~I told you not to move, goddammit.
+
+0x2BD2F4C4 = ~z~What's your damn problem, huh?
+
+0x2C7D973F = ~z~Think about what you're doing.
+
+0x2CC428AF = ~z~I said freeze, damn it.
+
+0x3B1D7E54 = ~z~Don't stop, keep going.
+
+0x3F3DAD0D = ~z~You must want me to hurt you.
+
+0x4A6AFBE1 = ~z~Hey! Bust me outta here.
+
+0x4C19D91C = ~z~You shouldn't have started this in the first place.
+
+0x4D7D91A3 = ~z~Do what I said, goddammit!
+
+0x4DDE904F = ~z~C'mon! Hurry to the boat! Hurry!
+
+0x4EE9A3E6 = ~z~Sure you right.
+
+0x5A528898 = ~z~Hey, look where you're going.
+
+0x5B1194A7 = ~z~Oh, I will shoot you in the face!
+
+0x5F93AE72 = ~z~Don't you worry, don't you worry. You'll be fine, you'll be fine.
+
+0x6A1F4550 = ~z~What's this about?
+
+0x6C2AC88B = ~z~Sucker's outnumbered, take him out!
+
+0x6C6F1065 = ~z~You either give up or die, it's your choice.
+
+0x6C112C15 = ~z~Watch where the hell you walking.
+
+0x6CE6989B = ~z~You are done for now!
+
+0x6DDC7A4F = ~z~Stop right there! State your business.
+
+0x6DE215E4 = ~z~Shit, I'm leaving!
+
+0x6E3ABA89 = ~z~Why you bothering people?
+
+0x6E11F721 = ~z~What a disgrace.
+
+0x7B2BCCE5 = ~z~Go! Go! Go! Go! Hurry up! Hurry up!
+
+0x7B35B08B = ~z~Hell, I ain't dying over this.
+
+0x7C70A935 = ~z~I'd just mind my business if I was you.
+
+0x7CD9D7CF = ~z~Hey, ain't no need for all of that.
+
+0x7E16AB7A = ~z~Hunker down and defend this with your life!
+
+0x7F85BD5E = ~z~Catch me next time, friend!
+
+0x8A84BF29 = ~z~Back up!
+
+0x8A74416A = ~z~Whoa, whoa, whoa. Put that away.
+
+0x8B719DA7 = ~z~It was a hell of a day...
+
+0x8DC9C071 = ~z~Is there something you want?
+
+0x9BB4C833 = ~z~You ain't got nothing to do with this.
+
+0x9C81E585 = ~z~Hey, point that somewhere else.
+
+0x9E89E263 = ~z~It's about time for you to beat it, ain't it?
+
+0x9EFB59A8 = ~z~Whoo! Fish on the line!
+
+0x9F77EB89 = ~z~Get out my face.
+
+0x19F2F22A = ~z~You'll be sorry for this.
+
+0x27FAAE82 = ~z~Oh, I will shoot you in face.
+
+0x28A5169B = ~z~Don't budge.
+
+0x29BC628E = ~z~Put your goddamn hands up in the air.
+
+0x35D9200F = ~z~This is your first notice.
+
+0x36BD673E = ~z~Hey! You gots to git!
+
+0x37C1BF0B = ~z~Fish's slippery! Get after it!
+
+0x45E5DC2A = ~z~Fine. But I won't forgive this.
+
+0x50C62FFC = ~z~I got this.
+
+0x51D03E24 = ~z~Stay ready fast.
+
+0x51EC76B3 = ~z~Move one more inch and I'll drop you.
+
+0x57A70723 = ~z~There they is! Blow 'is lamp out!
+
+0x57D4A812 = ~z~We've got you outnumbered! There's no escape!
+
+0x72FB0626 = ~z~One of you grab 'im!
+
+0x76F808E5 = ~z~You should be ashamed.
+
+0x86E12F99 = ~z~You're done!
+
+0x90FFDC1F = ~z~Shit, I'm leaving.
+
+0x94D5CB82 = ~z~You're finished.
+
+0x136A312C = ~z~Mind your damn business.
+
+0x241F1B19 = ~z~One false move and you're dead.
+
+0x309EB19C = ~z~Okay, okay. I hope is kicks you.
+
+0x352D48E7 = ~z~How about I blow your brains out?
+
+0x354B9F4F = ~z~Hey, stop! Don't even blink!
+
+0x586AA1E7 = ~z~What is it? Hurry it up.
+
+0x614D62C3 = ~z~Get that bastard!
+
+0x642E0A1F = ~z~When I get loose I'm gonna ring your neck.
+
+0x678FD3B3 = ~z~Dammit. Run for it, boys. Run for it!
+
+0x694D6FB8 = ~z~What's the matter with you, huh?
+
+0x773E6524 = ~z~I'll only tell you once!
+
+0x840EC283 = ~z~Hands up or I'll shoot you where you stand.
+
+0x907F94C7 = ~z~Cover the boss, goddammit!
+
+0x1037DEB4 = ~z~Think about what you're doing.
+
+0x1741B8DF = ~z~You wanna act like a hero?
+
+0x1881DF9A = ~z~You want me split your damn head open?
+
+0x1938A720 = ~z~C'mon! Hurry to the boat. Hurry!
+
+0x2059C23E = ~z~Hey, you messing with the wrong one.
+
+0x2960DADB = ~z~Keep it moving.
+
+0x3027AE14 = ~z~This here is your final warning I'm giving you.
+
+0x4003A4E6 = ~z~What do you need from me?
+
+0x5097ED21 = ~z~Hey! Look out! They're trying to bust 'em loose!
+
+0x6562A153 = ~z~Hurry, hurry, hurry. We gotta get the hell out of here.
+
+0x6876A0C9 = ~z~Don't even think on trying anything funny, mister...
+
+0x6924FE05 = ~z~Yeah.
+
+0x8344A6C6 = ~z~Hey, shut your damn mouth.
+
+0x9317D683 = ~z~So? You ain't gonna stop me.
+
+0x9502E057 = ~z~Hey, don't touch me.
+
+0x28474A52 = ~z~Hey, you gots to get.
+
+0x45453F42 = ~z~Hey! Don't move a muscle.
+
+0x47019D18 = ~z~You hard of hearing? Reach for the sky, damn it.
+
+0x62479B1D = ~z~Go, go, go, go. Hurry up, hurry up.
+
+0x70610D5C = ~z~Get lost.
+
+0x75428FD5 = ~z~You too smart for your own good, huh?
+
+0x85096DC0 = ~z~What did he have on him?
+
+0x85376DCA = ~z~Hey. Just leave 'em be.
+
+0x90594FFF = ~z~C'mon! Take cover! We can't lose an inch!
+
+0x178480E8 = ~z~Hey, stop that now.
+
+0x856286E7 = ~z~Yeah and I dare you to try to stop me.
+
+0x2945768C = ~z~Are you kidding me?
+
+0x4581836C = ~z~You're surrounded, and you know it!
+
+0x6883743C = ~z~Hell no. I ain't stupid.
+
+0x8815380A = ~z~Eat hot lead!
+
+0x31202512 = ~z~It was you who did this, wasn't it?
+
+0x32682324 = ~z~Better luck next time, honey!
+
+0x69211277 = ~z~Stop right there, friend!
+
+0x87007640 = ~z~Get down from there.
+
+0xA00F5AA1 = ~z~Don't dose off now.
+
+0xA0C498F8 = ~z~Reach for the sky.
+
+0xA8E0B518 = ~z~Would you give 'em a break?
+
+0xA853E479 = ~z~I warned you once already.
+
+0xAA72E5AF = ~z~What? You gonna be a hero?
+
+0xAF5007B4 = ~z~Tell me about it.
+
+0xB01B7EC8 = ~z~Stop! Who goes there?
+
+0xB01F8215 = ~z~You're finished!
+
+0xB7CA9FE8 = ~z~It ain't like you gonna do something about it.
+
+0xB9D058DD = ~z~Don't be causing no more trouble around here.
+
+0xB24A3C03 = ~z~Put your hands up.
+
+0xB30F6240 = ~z~I found it first, you got an issue with that?
+
+0xB70ACC9A = ~z~Well look what the wind blew in.
+
+0xB193AC2E = ~z~Oh, Hell, this ain't worth it!
+
+0xB58095C7 = ~z~Coulda been easy!
+
+0xB71525CB = ~z~Shit, am I looking at a ghost?
+
+0xB84510BE = ~z~Why don't you just shut up?
+
+0xBC6F44D2 = ~z~We gotta stop 'em from taking the prisoner!
+
+0xBEC57152 = ~z~Hey, hey! Don't let 'em touch the boss.
+
+0xC04517EE = ~z~Hey, I see 'em right there!
+
+0xC2B6482B = ~z~Kill'em, goddammit! Kill'em!
+
+0xC4EEC17E = ~z~Boy, I thought you was good as dead.
+
+0xC9FC7452 = ~z~Why you care? It ain't your kin, is it?
+
+0xC37F53CE = ~z~What the hell is wrong with you?
+
+0xC43BDFE6 = ~z~Reach for the sky.
+
+0xC52BD849 = ~z~Now he thinks tough.
+
+0xC58DD8DE = ~z~This here is your final warning I'm giving you!
+
+0xC164F232 = ~z~You better get, 'fore I hurt you.
+
+0xC8596F37 = ~z~Oh, me, oh my. Would you get a load of this?
+
+0xC9815014 = ~z~Next time I won't show any mercy.
+
+0xCB72FC22 = ~z~Didn't you cause enough hassle around here already?
+
+0xCBFC59C2 = ~z~Get this goddamn rope off me.
+
+0xCEDD69AE = ~z~They're coming to break 'em out!
+
+0xD4CEF760 = ~z~This the last warning you getting!
+
+0xD7DC5507 = ~z~Is it worth you getting hurt over?
+
+0xD798CBC9 = ~z~If it ain't yours, don't worry about it.
+
+0xD811EA42 = ~z~Hell, I ain't dying over this!
+
+0xD9177ACA = ~z~Get out the way now, why don't you? Get out the way.
+
+0xD92718EA = ~z~You gonna pay for that.
+
+0xD942744E = ~z~When I get loose I'm gonna wring your neck!
+
+0xD8371773 = ~z~Hey! Could you break me outta here?
+
+0xDA37EC10 = ~z~Shit, you lucky to be alive.
+
+0xDAE10388 = ~z~This one this the last warning you're getting!
+
+0xDAEC18F2 = ~z~Lydie! You bastard!
+
+0xDAF39640 = ~z~You mad I got to 'em first?
+
+0xDC3E87D7 = ~z~Burn in hell!
+
+0xDD007EDE = ~z~Shit. Shit. They're on our tail.
+
+0xDD446EAF = ~z~I'm trying to warn you.
+
+0xDDE1F0C9 = ~z~Tough guy, huh? Check his pockets.
+
+0xE0652766 = ~z~You'll be sorry you did that.
+
+0xE3768C3F = ~z~Stand still.
+
+0xE9810C6E = ~z~Do your ears work? I said stop it.
+
+0xE88012C9 = ~z~Get this goddamn rope off me!
+
+0xEA925B36 = ~z~You'll have to kill me for this horse.
+
+0xEB6B80F1 = ~z~Fall back right now!
+
+0xEDC06BCA = ~z~I'm coming.
+
+0xF7AAA8C1 = ~z~Is you hard of hearing? I said cut it out.
+
+0xF9BE4A0C = ~z~Hurry, hurry, hurry. We gotta get the hell outta here!
+
+0xF54E376B = ~z~Wait, what the hell?
+
+0xF77FAFE9 = ~z~Like I thought. You ain't really want no problem.
+
+0xF82D766C = ~z~I don't think so, idiot.
+
+0xF91AAC4D = ~z~Ain't a chance in hell I'm stopping for you.
+
+0xF96CF99C = ~z~I could use a long rest.
+
+0xF136B449 = ~z~Hey, you can't be doing that.
+
+0xF593AC80 = ~z~Look. They're coming after us.
+
+0xFB9C1B3A = ~z~Didn't we go through this already?
+
+0xFD1116B9 = ~z~Yeah, what's it to you?
+
+0xFD663911 = ~z~You'll be sorry for this.
+
+0xFE96CAF3 = ~z~This is the last warning you're getting.
+
+0xFECFE361 = ~z~They're too far ahead of us.
+

@@ -1,0 +1,944 @@
+BKWMOV_1 = ~z~Welcome one and all to the remarkable example of modern entertainment at its finest.
+
+BKWMOV_2 = ~z~Now most of you young'uns I'm sure know about our great national hero and pioneer Josiah Blackwater.
+
+BKWMOV_3 = ~z~Him that gave the town of Blackwater its nomenclature.
+
+BKWMOV_4 = ~z~You see, only about a hundred years ago,
+
+BKWMOV_5 = ~z~were it nothing here but big old forests...
+
+BKWMOV_6 = ~z~Ferocious beasts...
+
+BKWMOV_7 = ~z~Surly savages...
+
+BKWMOV_8 = ~z~Arid deserts and unconquered mountains.
+
+BKWMOV_9 = ~z~The west, well the whole west was untamed.
+
+BKWMOV_10 = ~z~Your momma probably told you bed time stories about Josiah's many adventures.
+
+BKWMOV_11 = ~z~But I'm a going to tell you a story you aren't like to have heard...
+
+BKWMOV_12 = ~z~About his possum hat.
+
+BKWMOV_13 = ~z~Josiah Blackwater was born in the year of our lord Seventeen-Eighty-Two in a log cabin just west of Annesburg.
+
+BKWMOV_14 = ~z~He was a special boy.
+
+BKWMOV_15 = ~z~His pa gave him his first rifle when he was three years old.
+
+BKWMOV_16 = ~z~Boy, he took to it right away.
+
+BKWMOV_17 = ~z~He exclaimed...
+
+BKWMOV_18 = ~z~“There's a whole load of critters out there in them woods, they're able to eat us.”
+
+BKWMOV_19 = ~z~“So I'm gonna consume 'em first.”
+
+BKWMOV_20 = ~z~Yes sir, he really took to killing all manner of things.
+
+BKWMOV_21 = ~z~He was such a keen shot.
+
+BKWMOV_22 = ~z~One morning, he was sorting up some winter turnips for the root seller when,
+
+BKWMOV_23 = ~z~a big old bear and her cubs came in the kitchen hunting for food.
+
+BKWMOV_24 = ~z~It had a mind to eat up all the jams and preserves.
+
+BKWMOV_25 = ~z~Josiah grabbed that bear and wrestled her to the ground and squeezed and squeezed and squeezed...
+
+BKWMOV_26 = ~z~He whooped the tar clean out of that big old critter.
+
+BKWMOV_27 = ~z~Then he tied her up,
+
+BKWMOV_28 = ~z~and grabbed them cubs,
+
+BKWMOV_29 = ~z~and ground them into sausages
+
+BKWMOV_30 = ~z~while the momma bear watched.
+
+BKWMOV_31 = ~z~Umm, that's fine eating.
+
+BKWMOV_32 = ~z~His ma and pa knew right then,
+
+BKWMOV_33 = ~z~He was cut out to be the finest wild frontiersman that ever drew breath.
+
+BKWMOV_34 = ~z~But first, they wanted him to get some book learning.
+
+BKWMOV_35 = ~z~After only three days of attending school,
+
+BKWMOV_36 = ~z~Josiah beat the living daylights out of the class bully and announced to his daddy
+
+BKWMOV_37 = ~z~that he was tired of ciphering and mathematics
+
+BKWMOV_38 = ~z~on account that's it's only good for adding up the number of critters or Indians you can kill.
+
+BKWMOV_39 = ~z~So he ran away from home and headed west...
+
+BKWMOV_40 = ~z~Now, these lands were occupied by savages then,
+
+BKWMOV_41 = ~z~And when Josiah Blackwater came scouting through,
+
+BKWMOV_42 = ~z~He recognized it to be a land of splendor,
+
+BKWMOV_43 = ~z~wasted on those that couldn't appreciate it on account of worshiping false idols.
+
+BKWMOV_44 = ~z~He got rid of all them pesky buffalo.
+
+BKWMOV_45 = ~z~And thereby ensured those infernal Indians didn't have nothing to eat!
+
+BKWMOV_46 = ~z~Of course that got them mightily riled up.
+
+BKWMOV_47 = ~z~So he had to slaughter all them too.
+
+BKWMOV_48 = ~z~Just like his daddy had once done to the red coats in Seventeen-Seventy-Five.
+
+BKWMOV_49 = ~z~Right about that time,
+
+BKWMOV_50 = ~z~he met an Indian girl he took pity on,
+
+BKWMOV_51 = ~z~on account of having annihilated her family.
+
+BKWMOV_52 = ~z~She was twelve years old...
+
+BKWMOV_53 = ~z~And so he took her as his wife.
+
+BKWMOV_54 = ~z~She gave him two sons before she died of typhus.
+
+BKWMOV_55 = ~z~Now, you all know that Josiah Blackwater wore a possum for a hat.
+
+BKWMOV_56 = ~z~But most don't know how that came to be...
+
+BKWMOV_57 = ~z~One day, old Josiah was riding a couple of alligators down the Lannahechee River.
+
+BKWMOV_58 = ~z~Riding standing up, and shooting eagles right out of the sky.
+
+BKWMOV_59 = ~z~When he sees a big old mountain lion about to eat a possum.
+
+BKWMOV_60 = ~z~Josiah grabbed that mountain lion by the tail and wrestled it 'till it was plum dead.
+
+BKWMOV_61 = ~z~Well that possum really took to Josiah,
+
+BKWMOV_62 = ~z~Followed him around like a dog loyal to its master.
+
+BKWMOV_63 = ~z~Yes, they had a lot of adventures together.
+
+BKWMOV_64 = ~z~Now Josiah never cried a day in his life.
+
+BKWMOV_65 = ~z~But he pert-near did on the day that possum passed.
+
+BKWMOV_66 = ~z~For they were mighty fine friends.
+
+BKWMOV_67 = ~z~So he skinned it,
+
+BKWMOV_68 = ~z~And made it in to a hat.
+
+BKWMOV_69 = ~z~Back in them days, a possum skin was as good as money.
+
+BKWMOV_70 = ~z~But he never parted with that hat.
+
+BKWMOV_71 = ~z~Not even for ten dollars.
+
+BKWMOV_72 = ~z~Once he founded the town of Blackwater,
+
+BKWMOV_73 = ~z~he sent word for settlers to come.
+
+BKWMOV_74 = ~z~It was the last stop in the west before San Francisco.
+
+BKWMOV_75 = ~z~He meet a girl by the name of Ruthenia Hellsby at a barn dance one night.
+
+BKWMOV_76 = ~z~Took her as his wife and settled down.
+
+BKWMOV_77 = ~z~Built himself a cattle empire and had fourteen young'uns.
+
+BKWMOV_78 = ~z~But Josiah Blackwater wasn't the home loving kind,
+
+BKWMOV_79 = ~z~And he grew mighty restless.
+
+BKWMOV_80 = ~z~One day on the courthouse steps, he announced
+
+BKWMOV_81 = ~z~“You may all go to hell, and I will go to Saint Denis”
+
+BKWMOV_82 = ~z~And so he did...
+
+BKWMOV_83 = ~z~Enjoyed French pursuits, of strumpets and wanton gluttony.
+
+BKWMOV_84 = ~z~Which is where he came to form the idea of running for Congress.
+
+BKWMOV_85 = ~z~He wore that possum hat every day as a congressman.
+
+BKWMOV_86 = ~z~As a reminder of where he'd come from.
+
+BKWMOV_87 = ~z~Saying “I may live in barbaric splendor, but I always remember...
+
+BKWMOV_88 = ~z~Keep your friends close, and your gun closer...
+
+BKWMOV_89 = ~z~'cause you don't know when you might have to shoot 'em“
+
+BSYMOV_1 = ~z~Folks, I'm gonna tell you a morality tale from when our country was young,
+
+BSYMOV_2 = ~z~that the settlers used to tell about the woods of Massachusetts and the creatures that lived there.
+
+BSYMOV_3 = ~z~One summer, Bear was by the stream and Old Man Wind appeared and said
+
+BSYMOV_4 = ~z~“Bear, I shall blow a mighty cold upon the land, and gorge yourself on fish and meat and go find a den.
+
+BSYMOV_5 = ~z~Then sleep. Not for one night, but for sixty. Go tell all the animals of the forest what I have told you.”
+
+BSYMOV_6 = ~z~Bear was sad because the fish were his friends, and now...
+
+BSYMOV_7 = ~z~He had to eat them...
+
+BSYMOV_8 = ~z~But he knew to do whatever the wind told him.
+
+BSYMOV_9 = ~z~The animals of the forest often teased Bear, and said he was slow and lazy and foolish for listening to Old Man Wind.
+
+BSYMOV_10 = ~z~“You talking to the wind again, hey?” laughed the Rabbit.
+
+BSYMOV_11 = ~z~“I think Bear has finally taken leave of his senses.” said the Turtle.
+
+BSYMOV_12 = ~z~“And he's getting so rotund that even I could outrun him”.
+
+BSYMOV_13 = ~z~“I'm smart and quick!” said Rabbit.
+
+BSYMOV_14 = ~z~“I'll outrun Old Man Wind if he comes crawling, or you... since you're into eating your friends.”
+
+BSYMOV_15 = ~z~The Turtle said “If wind comes I'll just hide in my shell.”
+
+BSYMOV_16 = ~z~Then Bear went and warned Coyote and Possum that they should prepare for a long cold winter.
+
+BSYMOV_17 = ~z~“It's so hot” said the coyote, “there's plenty of time.”
+
+BSYMOV_18 = ~z~The lazy possum said “There's an abundance of food, maybe I'll just store some in my pouch.”
+
+BSYMOV_19 = ~z~Even his squirrel friends made fun of Bear.
+
+BSYMOV_20 = ~z~They laughed, and laughed, and squibbled and squabbled.
+
+BSYMOV_21 = ~z~“Chunky needs a nap.”
+
+BSYMOV_22 = ~z~“Tiny goody too shoes does what he's told!”
+
+BSYMOV_23 = ~z~Bear was very sad, but he was a good bear!
+
+BSYMOV_24 = ~z~And he always did what Old Man Wind told him.
+
+BSYMOV_25 = ~z~He went and found a den, snuggled inside and fell fast asleep.
+
+BSYMOV_26 = ~z~Bear snored and snored for many days. When he woke up, he saw spring had come.
+
+BSYMOV_27 = ~z~He was very hungry so he walked outside.
+
+BSYMOV_28 = ~z~As the snow melted he saw all his friends who hadn't listened,
+
+BSYMOV_29 = ~z~frozen...
+
+BSYMOV_30 = ~z~And just ready to be eaten.
+
+BSYMOV_31 = ~z~And that's why the bear hibernates.
+
+BSYMOV_32 = ~z~So listen to your elders, and do just what you're told.
+
+CHPMOV_1 = ~z~Chapter 1 Colter
+
+CHPMOV_2 = ~z~Chapter 2 Horseshoe Overlook
+
+CHPMOV_3 = ~z~Chapter 3 Clemens Point
+
+CHPMOV_4 = ~z~Chapter 4 Saint Denis
+
+CHPMOV_5 = ~z~Chapter 5 Guarma
+
+CHPMOV_6 = ~z~Chapter 6 Beaver Hollow
+
+CHPMOV_7 = ~z~Epilogue: Part 1 Pronghorn Ranch
+
+CHPMOV_8 = ~z~Epilogue: Part 2 Beecher's Hope
+
+CHPMOV_9 = ~z~By 1899, the age of outlaws and gunslingers was at an end
+
+CHPMOV_10 = ~z~America was becoming a land of laws...
+
+CHPMOV_11 = ~z~Even the west had mostly been tamed.
+
+CHPMOV_12 = ~z~A few gangs still roamed but they were being hunted down and destroyed.
+
+CHPMOV_13 = ~z~Rockstar Games presents
+
+CHPMOV_14 = ~z~Red Dead Redemption 2
+
+CHPMOV_15 = ~z~A couple of days later...
+
+CHPMOV_16 = ~z~A couple of months later...
+
+CHPMOV_17 = ~z~A couple of weeks later...
+
+CHPMOV_18 = ~z~A day later...
+
+CHPMOV_19 = ~z~A few days later...
+
+CHPMOV_20 = ~z~A few hours later...
+
+CHPMOV_21 = ~z~A few months later...
+
+CHPMOV_22 = ~z~A few weeks later...
+
+CHPMOV_23 = ~z~Some days later...
+
+CHPMOV_24 = ~z~Some years later...
+
+DCDMOV_1 = ~z~Direct Current Damnation!
+
+DCDMOV_2 = ~z~Electricity is the great wonder of the age!
+
+DCDMOV_3 = ~z~But not all electricity is equal.
+
+DCDMOV_4 = ~z~Alternating current is safe.
+
+DCDMOV_5 = ~z~Direct current is dangerous!
+
+DCDMOV_6 = ~z~Direct current is a deadly menace!
+
+DCDMOV_7 = ~z~Direct current wipes out the ignorant!
+
+DCDMOV_8 = ~z~Which would you prefer in your home?
+
+DCDMOV_9 = ~z~An evil menace strong enough to fell a mighty elephant?
+
+DCDMOV_10 = ~z~Or a calm gift from the gods that provides light and warmth!
+
+DCDMOV_11 = ~z~Alternating current lights our homes and warms our baths.
+
+DCDMOV_12 = ~z~Alternating current slims out bellies and calms our women from hysteria!
+
+DCDMOV_13 = ~z~This message has been brought to you by the Lanik Electric Company.
+
+DCDMOV_14 = ~z~The End.
+
+GSTMOV_1 = ~z~Greetings and salutations, gentle folk.
+
+GSTMOV_2 = ~z~This here's the story about a young couple from the village of Annesburg that was courting a few years after the revolutionary war.
+
+GSTMOV_3 = ~z~Courting in the woods.
+
+GSTMOV_4 = ~z~As you know young people are want to do.
+
+GSTMOV_5 = ~z~Stealing away all sneaky like.
+
+GSTMOV_6 = ~z~A girl by the name of Ethel Boshared snuck out of the parlour one evening
+
+GSTMOV_7 = ~z~just as soon as her mother went out to hang clothes on the line from the washing.
+
+GSTMOV_8 = ~z~She met up on the road by her farm with a boy.
+
+GSTMOV_9 = ~z~By the name of Eugene Hutton,
+
+GSTMOV_10 = ~z~Now the Hutton boy was an athletic chap, liked boxing, fishing and swinging Indian clubs.
+
+GSTMOV_11 = ~z~It's quite singular to the story that he didn't seem all that inclined to go to war in the preceding years leading up.
+
+GSTMOV_12 = ~z~Well, they walked in the woods for a while.
+
+GSTMOV_13 = ~z~Pretty soon they lost their bearings and no longer knew the north from the south.
+
+GSTMOV_14 = ~z~Nor east from west, neither.
+
+GSTMOV_15 = ~z~Then they heard a low moaning sound.
+
+GSTMOV_16 = ~z~“What's that terrible noise?” she said all a'tremble.
+
+GSTMOV_17 = ~z~ “Must be a sick calf looking for its momma, they've been known to bawl like that.
+
+GSTMOV_18 = ~z~Let me take a look." said Eugene.
+
+GSTMOV_19 = ~z~Well old Eugene went and disappeared around a tree,
+
+GSTMOV_20 = ~z~came out the other side and gave her a terrible fright.
+
+GSTMOV_21 = ~z~“Boo!”
+
+GSTMOV_22 = ~z~She let out a shriek. Then went to chastising...
+
+GSTMOV_23 = ~z~“You should be ashamed of yourself, Eugene Hutton” she said.
+
+GSTMOV_24 = ~z~“Instead of giving a girl protection, you go carry on acting foolish and fresh, like the Queen's prize jester”
+
+GSTMOV_25 = ~z~But right then and there, a chilly wind blew through and knocked of Eugene's hat.
+
+GSTMOV_26 = ~z~“I need to get back home, my momma has a terrible temper,
+
+GSTMOV_27 = ~z~She's like to stomp up and down if she finds out we're missing.”
+
+GSTMOV_28 = ~z~"She is a fair, stout woman" Eugene noted.
+
+GSTMOV_29 = ~z~But just then, before this couple of miscreants could head home,
+
+GSTMOV_30 = ~z~they heard the sound of heavy wheels, groaning and people marching.
+
+GSTMOV_31 = ~z~The cacophony grew closer and closer.
+
+GSTMOV_32 = ~z~And through the fog, they could make out the shapes of ghost horses,
+
+GSTMOV_33 = ~z~Pulling spectral cannons,
+
+GSTMOV_34 = ~z~and dead soldiers,
+
+GSTMOV_35 = ~z~marching as if their graves could no longer contain them.
+
+GSTMOV_36 = ~z~Each wearing a vile red coat.
+
+GSTMOV_37 = ~z~“You will pay for your moral transgressions.” a dead soldier howled.
+
+GSTMOV_38 = ~z~And cut his head clean off.
+
+GSTMOV_39 = ~z~Miss Boshared shrieked in horror,
+
+GSTMOV_40 = ~z~as Eugene's head landed right in her hands.
+
+GSTMOV_41 = ~z~His eyes still darting about attempting to discern what horror had transpired.
+
+GSTMOV_42 = ~z~Little Miss Ethel Boshared ran as fast as she could.
+
+GSTMOV_43 = ~z~Stumbling and getting caught on trees,
+
+GSTMOV_44 = ~z~As she tore through the forests.
+
+GSTMOV_45 = ~z~Terrified for her life, the dead soldiers marching after her...
+
+GSTMOV_46 = ~z~Hungry for blood.
+
+GSTMOV_47 = ~z~When she returned home,
+
+GSTMOV_48 = ~z~she told the people of the village that an army of the dead had taken Eugene, with in the confines of the fog.
+
+GSTMOV_49 = ~z~British soldiers who died protecting tyranny
+
+GSTMOV_50 = ~z~were rising from their graves as if to continue the fight, for the demonic English.
+
+GSTMOV_51 = ~z~The townspeople erupted in fright and dismay,
+
+GSTMOV_52 = ~z~until one guy that came forth, and accused her of witchcraft.
+
+GSTMOV_53 = ~z~“She raised the dead to murder that boy.
+
+GSTMOV_54 = ~z~for his pursuit of unwanted advances.” he said.
+
+GSTMOV_55 = ~z~“So she too must perish.”
+
+GSTMOV_56 = ~z~And that very night, they put her to the stake and burnt her dead.
+
+GSTMOV_57 = ~z~Now let that be a lesson to you young ones not to go courting in the woods,
+
+GSTMOV_58 = ~z~in case the English lurk there, still!
+
+MOMEMOV_1 = ~z~Modern Medicine "Cure or Cathartic?"
+
+MOMEMOV_2 = ~z~Doctor, it's my teeth! The pain is something fierce!
+
+MOMEMOV_3 = ~z~My good fellow I am well versed in the dental arts.
+
+MOMEMOV_4 = ~z~To the barn!
+
+MOMEMOV_5 = ~z~Land sakes! I can't hear nothin' no more!
+
+MOMEMOV_6 = ~z~Ah! You require an ear trumpet.
+
+MOMEMOV_7 = ~z~I am not a strumpet!
+
+MOMEMOV_8 = ~z~Good day madam!
+
+MOMEMOV_9 = ~z~What?
+
+MOMEMOV_10 = ~z~One hour later...
+
+MOMEMOV_11 = ~z~I say, good day madam!!!
+
+MOMEMOV_12 = ~z~Are you well sir?
+
+MOMEMOV_13 = ~z~I'm in turbulent spirits – my toe has taken a frightful splinter.
+
+MOMEMOV_14 = ~z~Oh dear! We will need to operate immediately!
+
+MOMEMOV_15 = ~z~[Exotic Kangaroo legs]
+
+MOMEMOV_16 = ~z~Three hours later...
+
+MOMEMOV_17 = ~z~Doctor, what in tarnation have you done?
+
+MOMEMOV_18 = ~z~How in blazes do I stop jumping?
+
+MOMEMOV_19 = ~z~Blasted bird! There goes my hard earned wages!
+
+MOMEMOV_20 = ~z~Heed not the wicked ways and foul humours of Hippocratic Medicine.
+
+MOMEMOV_21 = ~z~Only through Patriotism & Piety will we remain pure and thwart disease.
+
+MOMEMOV_22 = ~z~The End.
+
+RBCH2MOV_1 = ~z~And I think that's everything.
+
+RBCH2MOV_2 = ~z~John Marston,
+
+RBCH2MOV_3 = ~z~you have a home.
+
+RBCH2MOV_4 = ~z~So do you.
+
+RBCH2MOV_5 = ~z~Oh, I know.
+
+RBCH2MOV_6 = ~z~And you Charles,
+
+RBCH2MOV_7 = ~z~as long as you'll stay with us.
+
+RBCH2MOV_8 = ~z~Thank you.
+
+RBCH2MOV_9 = ~z~Gentlemen,
+
+RBCH2MOV_10 = ~z~to this happy home.
+
+RBCH2MOV_11 = ~z~At least till this fool gets his women back.
+
+RBCH2MOV_12 = ~z~My darling Abigail...
+
+RBCH2MOV_13 = ~z~I hope you and Jack are doing well?
+
+RBCH2MOV_14 = ~z~I remain a fool and...
+
+RBCH2MOV_15 = ~z~I'm sure I shall die a fool.
+
+RBCH2MOV_16 = ~z~But I'm trying very hard to be something like the man you deserve.
+
+RBCH2MOV_17 = ~z~I have done something very silly...
+
+RBCH2MOV_18 = ~z~In an effort to impress you.
+
+RBCH2MOV_19 = ~z~And that is,
+
+RBCH2MOV_20 = ~z~I've purchased a home.
+
+RBCH2MOV_21 = ~z~The land you read about in the new paper up at Beecher's Hope,
+
+RBCH2MOV_22 = ~z~Is now ours.
+
+RBCH2MOV_23 = ~z~And we're going to try our hand at ranching.
+
+RBCH2MOV_24 = ~z~Mr Geddes kindly helped me buy the land.
+
+RBCH2MOV_25 = ~z~I meet Uncle while I was coming out of the bank, and...
+
+RBCH2MOV_26 = ~z~Well I know your feelings about him.
+
+RBCH2MOV_27 = ~z~He has been enormously helpful...
+
+RBCH2MOV_28 = ~z~In his own fashion.
+
+RBCH2MOV_29 = ~z~Charles Smith,
+
+RBCH2MOV_30 = ~z~has also appeared,
+
+RBCH2MOV_31 = ~z~and is unsurprisingly a pillar of strength.
+
+RBCH2MOV_32 = ~z~Together, we've built you a home.
+
+RBCH2MOV_33 = ~z~I hope soon to show it to you...
+
+RBCH2MOV_34 = ~z~I miss you,
+
+RBCH2MOV_35 = ~z~and the boy,
+
+RBCH2MOV_36 = ~z~More than I can express.
+
+RBCH2MOV_37 = ~z~Please...
+
+RBCH2MOV_38 = ~z~Come back to me.
+
+RBCH2MOV_39 = ~z~Yours always...
+
+RBCH2MOV_40 = ~z~John.
+
+SFSMOV_1 = ~z~Sketching for Sweetheart
+
+SFSMOV_2 = ~z~The End.
+
+STWMOV_1 = ~z~Welcome one and all.
+
+STWMOV_2 = ~z~I am going to take you on a journey around the world.
+
+STWMOV_3 = ~z~To parts unseen by most men.
+
+STWMOV_4 = ~z~Why, I have traversed the great lands and oceans of the globe
+
+STWMOV_5 = ~z~and bring you sights and scenes from places far away.
+
+STWMOV_6 = ~z~Yes, a great deal of the world is populated by unwashed savages
+
+STWMOV_7 = ~z~that don't have the decency to cover their reproductive organs.
+
+STWMOV_8 = ~z~First, to jolly old England.
+
+STWMOV_9 = ~z~You may wonder, why when you meet a British person
+
+STWMOV_10 = ~z~they have tiny red eyes, big ears and long noses?
+
+STWMOV_11 = ~z~We can now reveal the truth!
+
+STWMOV_12 = ~z~Since the opening of the Underground Railroad system, thirty years ago,
+
+STWMOV_13 = ~z~the entire of London has moved beneath the earth.
+
+STWMOV_14 = ~z~Just think of joy Children must feel being able to play
+
+STWMOV_15 = ~z~unfettered by rain or refinery smoke.
+
+STWMOV_16 = ~z~They are a dignified people.
+
+STWMOV_17 = ~z~Living among stalagmites in their dainty hats.
+
+STWMOV_18 = ~z~And they have an underground king!
+
+STWMOV_19 = ~z~Who worships an underground garden gnome.
+
+STWMOV_20 = ~z~Have any of you been to New York City?
+
+STWMOV_21 = ~z~It seems like the whole world is ending up on that tiny island.
+
+STWMOV_22 = ~z~Now, there's Lady Liberty.
+
+STWMOV_23 = ~z~A marvellous statue.
+
+STWMOV_24 = ~z~To welcome all the Irish people moving to our great country,
+
+STWMOV_25 = ~z~after all those potato problems.
+
+STWMOV_26 = ~z~They are welcomed by tourists.
+
+STWMOV_27 = ~z~Who toss potatoes out of the head of that lady.
+
+STWMOV_28 = ~z~In New York City, they are making buildings so high,
+
+STWMOV_29 = ~z~one day you can walk to the moon for a picnic.
+
+STWMOV_30 = ~z~Wouldn't that be grand?
+
+STWMOV_31 = ~z~It's true!
+
+STWMOV_32 = ~z~Now, we spoke of that unwashed statue.
+
+STWMOV_33 = ~z~It was a gift from France.
+
+STWMOV_34 = ~z~How do you think France paid for such a gift?
+
+STWMOV_35 = ~z~Wanton prostitution?
+
+STWMOV_36 = ~z~Selling of wine and horse meat?
+
+STWMOV_37 = ~z~No sir!
+
+STWMOV_38 = ~z~I'm here to tell you, that underneath the streets of Paris,
+
+STWMOV_39 = ~z~they have discovered, black gold!
+
+STWMOV_40 = ~z~That's right, and a few year ago, Gustave Eiffel
+
+STWMOV_41 = ~z~of the Eiffel Oil Company built the tallest oil derrick in the world!
+
+STWMOV_42 = ~z~Yes...
+
+STWMOV_43 = ~z~All around Paris, you will find that thick business,
+
+STWMOV_44 = ~z~it ignites like brandy
+
+STWMOV_45 = ~z~which is why so many French aristocrats drink it as an aperitif to aid digestion.
+
+STWMOV_46 = ~z~The women of France are dainty and fair of skin, partly because they use that crude oil to bath in.
+
+STWMOV_47 = ~z~Anointing and greasing their bodies,
+
+STWMOV_48 = ~z~often before committing sinful pleasures of the flesh.
+
+STWMOV_49 = ~z~Places that don't change their ways are falling behind.
+
+STWMOV_50 = ~z~Visit the streets of Italy.
+
+STWMOV_51 = ~z~And there is literally nobody left!
+
+STWMOV_52 = ~z~The churches are empty...
+
+STWMOV_53 = ~z~there is nobody drinking tiny coffees
+
+STWMOV_54 = ~z~and slurping spaghetti in the streets.
+
+STWMOV_55 = ~z~The Italians have never been known for good architecture,
+
+STWMOV_56 = ~z~and their crooked buildings are falling over.
+
+STWMOV_57 = ~z~Where have all the hairy women and men gone?
+
+STWMOV_58 = ~z~Where are them Italians?
+
+STWMOV_59 = ~z~It is one of the world's great mysteries!
+
+STWMOV_60 = ~z~You may have heard talk of a horseless carriage being invented.
+
+STWMOV_61 = ~z~Powered by whale oil, vapours or demons!
+
+STWMOV_62 = ~z~Ironically, that is a myth!
+
+STWMOV_63 = ~z~What is more exciting, the Germans have developed a mechanized horse
+
+STWMOV_64 = ~z~that never needs to eat or sleep!
+
+STWMOV_65 = ~z~It is a marvel of invention,
+
+STWMOV_66 = ~z~and is intended to facility the German army when it invades France or Russia,
+
+STWMOV_67 = ~z~in their campaign to spread the gastronomical wonders of
+
+STWMOV_68 = ~z~low quality beer, sausages and sauerkraut.
+
+STWMOV_69 = ~z~They love cabbage.
+
+STWMOV_70 = ~z~But other than America, where we have plenty of room.
+
+STWMOV_71 = ~z~It is so crowded in Europe that they are racing to setup a new country at the North Pole
+
+STWMOV_72 = ~z~where they can dine on the delicacy of frozen fish, penguins and polar bears.
+
+STWMOV_73 = ~z~Imagine, a place that never gets hot!
+
+STWMOV_74 = ~z~You don't sweat while toiling in the field.
+
+STWMOV_75 = ~z~And ice is much cheaper there!
+
+STWMOV_76 = ~z~I predict that someday people of all nations
+
+STWMOV_77 = ~z~will join hands at the North Pole,
+
+STWMOV_78 = ~z~wearing furs and eating fish!
+
+STWMOV_79 = ~z~My next adventure will be to visit Egypt,
+
+STWMOV_80 = ~z~where I hear they live in giant triangles,
+
+STWMOV_81 = ~z~and talk in a Chinese like language of
+
+STWMOV_82 = ~z~birds, and eyes, squiggly lines.
+
+STWMOV_83 = ~z~And they worship cats
+
+STWMOV_84 = ~z~which is a bit worrisome and unsavoury.
+
+STWMOV_85 = ~z~Thank you ladies and gentlemen for joining me on these fantastic journeys.
+
+TFDMOV_1 = ~z~The Farmer's Daughter.
+
+TFDMOV_2 = ~z~Old Man Carson rises before dawn to plow a row...
+
+TFDMOV_3 = ~z~Young Annabella picks posies to and fro...
+
+TFDMOV_4 = ~z~A Farm hand toils by the name of Lil Joe...
+
+TFDMOV_5 = ~z~“Confounded create! Your dang bowels never cease!”
+
+TFDMOV_6 = ~z~“Miss Annabella you are prettier than any posies!”
+
+TFDMOV_7 = ~z~“Boy! You best mind that manure and let my daughter be!”
+
+TFDMOV_8 = ~z~That very night...
+
+TFDMOV_9 = ~z~The farmer is awoken by a curious noise!
+
+TFDMOV_10 = ~z~“What dang creature is causin mischief by the hen house?”
+
+TFDMOV_11 = ~z~“I aim to marry you Miss Annabella. Bless me with a kiss!”
+
+TFDMOV_12 = ~z~“You got a quarrel with me now! I'll whip the tar out of you!”
+
+TFDMOV_13 = ~z~The following night...
+
+TFDMOV_14 = ~z~“Oh sweet Annabella, let's pack a horse and ride out.”
+
+TFDMOV_15 = ~z~“Damn your nefarious avocations!”
+
+TFDMOV_16 = ~z~“My Blunderbuss will lead you to forsake your path of sin!”
+
+TFDMOV_17 = ~z~Every night, Old man Carson paces relentlessly outside...
+
+TFDMOV_18 = ~z~“Papa, please go to bed!”
+
+TFDMOV_19 = ~z~“I aim to poison that boy's sinful ambitions with lead!”
+
+TFDMOV_20 = ~z~A sound is heard out beyond the clothesline!
+
+TFDMOV_21 = ~z~“Damnations! I can't see!”
+
+TFDMOV_22 = ~z~“Mama! A ghost!”
+
+TFDMOV_23 = ~z~“Go back to Hades you greasy sack sider!”
+
+TFDMOV_24 = ~z~“Mama – you done killed daddy!”
+
+TFDMOV_25 = ~z~“For me? I sure could use a man who can plow a row!”
+
+TFDMOV_26 = ~z~The End.
+
+WOAMOV_1 = ~z~Ladies and Gentlemen
+
+WOAMOV_2 = ~z~I'm about to share with you one of the wonders of the age!
+
+WOAMOV_3 = ~z~In fact, one of the wonders of any age.
+
+WOAMOV_4 = ~z~Ariel navigation.
+
+WOAMOV_5 = ~z~Or as we call it...
+
+WOAMOV_6 = ~z~Manflight.
+
+WOAMOV_7 = ~z~Soaring through the heavens in flying machines.
+
+WOAMOV_8 = ~z~So that even gravity itself, can be mastered!
+
+WOAMOV_9 = ~z~An amazing and bewildering spectacle,
+
+WOAMOV_10 = ~z~but I assure you everything I'm about to share with you...
+
+WOAMOV_11 = ~z~Is true!
+
+WOAMOV_12 = ~z~Now, we are all familiar with the potential cruelties and injustices of travel by
+
+WOAMOV_13 = ~z~horse, wagon or locomotive.
+
+WOAMOV_14 = ~z~You are like to beset upon by the infinite savagery of wicked men, or
+
+WOAMOV_15 = ~z~blood thirsty beasts that lurk in the bogs
+
+WOAMOV_16 = ~z~and plains of these tormented lands.
+
+WOAMOV_17 = ~z~But what if I told you, for a certainty,
+
+WOAMOV_18 = ~z~that man will soon be travelling across the heavens with wings like a bird?
+
+WOAMOV_19 = ~z~I am sure you think I am full of untruth.
+
+WOAMOV_20 = ~z~But I have not drank a pint of liquor in over a year.
+
+WOAMOV_21 = ~z~And I will do my utmost to demonstrate the veracity of my claims.
+
+WOAMOV_22 = ~z~For a hundred years steamboats have engaged in passage along our great rivers.
+
+WOAMOV_23 = ~z~But a man by the name of Sisal H. Peck is in the process of inventing a steamboat for the sky.
+
+WOAMOV_24 = ~z~The only limitation, on its speed at which the porter can shovel on more coal.
+
+WOAMOV_25 = ~z~But parts of the country where coal is scarce
+
+WOAMOV_26 = ~z~oars can be used in the skies to hasten your voyage
+
+WOAMOV_27 = ~z~and keep the passengers active while they travel.
+
+WOAMOV_28 = ~z~Near Pittsburgh, there lives a telegraph man named Aldus Kinnear,
+
+WOAMOV_29 = ~z~Who each evening after supper retires to his barn and dons
+
+WOAMOV_30 = ~z~the wings of a giant creature and takes to the heavens.
+
+WOAMOV_31 = ~z~You will be delighted to know, he has traveled considerable distances
+
+WOAMOV_32 = ~z~as many as forty-five miraculous feet!
+
+WOAMOV_33 = ~z~Unfortunately, on his record breaking flight,
+
+WOAMOV_34 = ~z~he knocked over a lamp and was consumed by flames.
+
+WOAMOV_35 = ~z~His two boys, Percival and Charles, have promised to continue their dear pa's legacy of sky flight.
+
+WOAMOV_36 = ~z~A whole heap of men are fashioning contraptions to take us to the heavens.
+
+WOAMOV_37 = ~z~A flying machine powered by a trusty donkey.
+
+WOAMOV_38 = ~z~Once you arrive at your destination,
+
+WOAMOV_39 = ~z~you can mount the saddle and ride away!
+
+WOAMOV_40 = ~z~one can enjoy some popped corn and have the best view in the house at the next flogging or lynching.
+
+WOAMOV_41 = ~z~Stagecoach robberies will soon be a relic of the past
+
+WOAMOV_42 = ~z~when we enlist our animal friends as couriers.
+
+WOAMOV_43 = ~z~Well out of the range of man's shooting irons.
+
+WOAMOV_44 = ~z~But the most remarkable thing I have to reveal to you comes from a Northern man
+
+WOAMOV_45 = ~z~called Moss John Nichols.
+
+WOAMOV_46 = ~z~Imagine travel without ever getting into a saddle?
+
+WOAMOV_47 = ~z~No doubt you have heard accounts, or seen in person,
+
+WOAMOV_48 = ~z~the majesty of flight achieved by performers in the circus.
+
+WOAMOV_49 = ~z~Mr. Nichols has perfected the Sky Cannon.
+
+WOAMOV_50 = ~z~Passengers simple walk up the steps,
+
+WOAMOV_51 = ~z~relax in to the barrel,
+
+WOAMOV_52 = ~z~and are transported with great flourish to the destination of their choice.
+
+WOAMOV_53 = ~z~The lame and infirmed who have been ravished by scarlet fever or polio,
+
+WOAMOV_54 = ~z~can once again call upon their loved ones.
+
+WOAMOV_55 = ~z~These newlyweds are all grown up,
+
+WOAMOV_56 = ~z~turned Seventeen.
+
+WOAMOV_57 = ~z~Said their wedding vows and are off to visit New York City.
+
+WOAMOV_58 = ~z~And some very forward thinkers have told me that within ten years, dear audience,
+
+WOAMOV_59 = ~z~any of us, can take a holiday trip...
+
+WOAMOV_60 = ~z~to the moon!
+
+WOAMOV_61 = ~z~I must disclose, I'm quite partial to this mode of transport.
+
+WOAMOV_62 = ~z~Ships and horses are like to sour my stomach.
+
+WOAMOV_63 = ~z~The future is in the skies my friends!
+
+WOAMOV_64 = ~z~Look to the heavens.
+
+WOAMOV_65 = ~z~We are going to join him!
+
+WOAMOV_66 = ~z~Up there, bye and bye!
+
+WOAMOV_67 = ~z~With this incredible contraption,
+
+WSMMOV_1 = ~z~Beaumont the Burly
+
+WSMMOV_2 = ~z~"The World's Strongest Man"
+
+WSMMOV_3 = ~z~Capable of fabulous feats of strength and fortitude!
+
+WSMMOV_4 = ~z~A petticoat of chains cannot restrain him.
+
+WSMMOV_5 = ~z~Witness the imperturbable coolness in which he dispatches cannon fire.
+
+WSMMOV_6 = ~z~Watch as he exhibits strength very much like a locomotive!
+
+WSMMOV_7 = ~z~Time for a quick respite with his favorite fortified tonic.
+
+WSMMOV_8 = ~z~Bulldog's Lip Brand Clam Juice
+
+WSMMOV_9 = ~z~This pack horse poses little challenge for our hero!
+
+WSMMOV_10 = ~z~Oh dear! Such centrifugal motion sours the horse's constitution!
+
+WSMMOV_11 = ~z~Such a dashing spectacle is surely irresistible!
+
+WSMMOV_12 = ~z~"You madam shall soar like the majestic eagle!"
+
+WSMMOV_13 = ~z~The End.
+

@@ -1,0 +1,120 @@
+0x0393D984 = Approach ~o~army camp~s~
+
+0x3D571753 = Retrieve stolen items
+
+0x7F6158B6 = Clue
+
+0x8CAE1739 = You gained honor as you agreed to help Monroe on the reservation.
+
+0x67E30021 = Monroe's Horse
+
+0x94C21529 = You killed Rains Fall.
+
+0x7522E823 = You lost honor as you decided not to help Monroe on the reservation.
+
+0x7982CA1B = You can use Binoculars to investigate your surroundings.
+
+0xB3F33780 = You attacked Rains Fall's Horse.
+
+0xC2BA6DC7 = Return to the ~o~Chanupa~s~
+
+0xD6F52AB1 = Rains Fall's Horse
+
+0xD142C31D = You gained honor as you helped Rains Fall recover his sacred relics.
+
+0xDA761610 = The Sacred Items were abandoned.
+
+0xE101374A = Retrieve ~p~stolen items~s~
+
+0xEBFCBD2B = Monroe
+
+NTV1_AC = Return to the ~o~Army Camp~s~
+
+NTV1_AC_FAIL = The Army Camp was abandoned.
+
+NTV1_ATTACK_MONROE = You attacked Captain Monroe.
+
+NTV1_ATTACK_RF = You attacked Rains Fall.
+
+NTV1_DEAD_MONROE = You killed Captain Monroe.
+
+NTV1_DEAD_RFHORSE = Rains Fall's horse has died.
+
+NTV1_FAIL_LAW1 = Rains Fall was abandoned.
+
+NTV1_FAIL_LAW2 = Rains Fall was abandoned with the Chanupa.
+
+NTV1_KILL_RF = You've harmed a Wapiti civilian.
+
+NTV1_LEADIN = Enter
+
+NTV1_NO = Don't help
+
+NTV1_O_ATC = Get to the ~o~camp~s~
+
+NTV1_O_FRF = Follow ~o~Rains Fall~s~
+
+NTV1_O_ICC = Investigate the smoke stack near the ~o~cliff edge~s~
+
+NTV1_O_IC_RF = Investigate the clue near ~o~Rains Fall~s~
+
+NTV1_O_LTA = Leave the area
+
+NTV1_O_MNT = Mount your ~o~horse~s~
+
+NTV1_O_RSI = Retrieve the ~o~sacred items~s~
+
+NTV1_O_RTRF = Return to ~o~Rains Fall~s~
+
+NTV1_O_SFC = Search the ~o~area~s~ for clues
+
+NTV1_O_SFSI = Search the ~o~camp~s~ for the sacred items
+
+NTV1_RF = Rains Fall
+
+NTV1_RF_TENT = Tent
+
+NTV1_SI_DESTROY = The Sacred Items have been destroyed.
+
+NTV1_SI_UNREACHABLE = The Sacred Items can no longer be reached.
+
+NTV1_TOPIC_01 = Eagle Flies?
+
+NTV1_TOPIC_02 = Dutch?
+
+NTV1_TOPIC_03 = The reservation?
+
+NTV1_TOPIC_04 = Arthur's son?
+
+NTV1_TOPIC_05 = Monroe?
+
+NTV1_TOPIC_06 = Arthur's sickness?
+
+NTV1_UC_I = Inspect
+
+NTV1_UC_IB = Bottle
+
+NTV1_UC_IB2 = Whiskey Bottle
+
+NTV1_UC_IF = Flask
+
+NTV1_UC_IF2 = Army Flask
+
+NTV1_UC_IL = Logs
+
+NTV1_UC_IL2 = Whiskey Soaked Logs
+
+NTV1_UC_KNOCK = Stealth Knockout
+
+NTV1_UC_PU = Pick Up
+
+NTV1_UC_SI_NAME = Chanupa and the Sacred Items
+
+NTV1_WHINT = Wolf
+
+NTV1_WRN_LAW = Escape the law without abandoning ~o~Rains Fall.~s~
+
+NTV1_WSHOUT = Shout
+
+NTV1_YES = Help
+

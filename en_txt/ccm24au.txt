@@ -1,0 +1,14 @@
+CCM24_ACT_1 = ~z~That's quite a gun you got there.
+
+CCM24_ACT_2 = ~z~Sure.
+
+CCM24_ACT_3 = ~z~Something about watching you clean it...
+
+CCM24_ACT_4 = ~z~
+
+CCM24_ACT_5 = ~z~gets me all hot and bothered... I love it.
+
+CCM24_ACT_6 = ~z~You'll not charm me, Mr. Bell.
+
+CCM24_ACT_7 = ~z~I'll certainly try.
+

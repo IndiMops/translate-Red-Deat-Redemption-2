@@ -1,0 +1,24 @@
+CSN16_ACTION_A_1 = ~z~Can I talk to you for a second, Dutch?
+
+CSN16_ACTION_A_2 = ~z~Of course.
+
+CSN16_ACTION_A_3 = ~z~Well, it's Miss O'Shea... she doesn't seem too happy.
+
+CSN16_ACTION_A_4 = ~z~That's her business.
+
+CSN16_ACTION_A_5 = ~z~Well, I hope so. I hope she doesn't make it all our business. She's got a temper on her, Dutch.
+
+CSN16_ACTION_A_6 = ~z~She is not the only one of us with a temper, Miss Grimshaw.
+
+CSN16_ACTION_A_7 = ~z~Well, I don't like it... not now.
+
+CSN16_ACTION_A_8 = ~z~It's like I always say... there's two theories when it comes to arguing with young women.
+
+CSN16_ACTION_A_9 = ~z~And neither of them work.
+
+CSN16_ACTION_A_10 = ~z~Oh, I've heard you say that nonsense before, and it did not impress then anymore than it does now.
+
+CSN16_ACTION_A_11 = ~z~
+
+CSN16_ACTION_B_1 = ~z~Now I'm supposed to care about feelings, Arthur.
+

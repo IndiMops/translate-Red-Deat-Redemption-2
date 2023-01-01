@@ -1,0 +1,10 @@
+CWSLF1_ACT_1 = ~z~Mr. Morgan!
+
+CWSLF1_ACT_2 = ~z~Mr. Morgan, folks is wondering what's happened to you.
+
+CWSLF1_ACT_3 = ~z~Nothing, Miss Grimshaw...
+
+CWSLF1_ACT_4 = ~z~Nothing is right! That's the point! That's the point.
+
+CWSLF1_ACT_5 = ~z~Work, Mr. Morgan. Folk need feeding. I never took you for the lazy type...
+

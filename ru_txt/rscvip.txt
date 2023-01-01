@@ -1,0 +1,232 @@
+0x0602A6B7 = Устраните ~COLOR_ENEMY~законников~s~.
+
+0x9D823C89 = Уберите оружие и снаряжение, прежде чем разговаривать с горожанином
+
+0x613EE034 = Убейте ~COLOR_ENEMY~тигров~s~.
+
+0x39756227 = Чтобы получить полную награду, за отведенное время найдите и спасите пленников.
+
+0x63176309 = Осмотрите ~COLOR_MP_OBJECTIVE~местность~s~, найдите пленников и доставьте их к месту назначения.
+
+0xA007A8AA = Уберите оружие и снаряжение, прежде чем разговаривать с путником
+
+0xD0E0F877 = Осмотрите ~COLOR_MP_OBJECTIVE~местность~s~ и поищите пленника.
+
+0xF8A4A347 = Чтобы получить полную награду, за отведенное время найдите и спасите пленника.
+
+FETCH_DYNAMIC_RESCUE_OBJ_FIND_STRANGER = Осмотрите ~COLOR_MP_OBJECTIVE~местность~s~, чтобы найти искомого человека.
+
+FETCH_DYNAMIC_RESCUE_PED_HELP_CONTROL = Будучи без оружия, сфокусируйтесь при помощи ~INPUT_INTERACT_LOCKON~ на ~COLOR_MP_OBJECTIVE_FRIENDLY~человеке~s~ ~1b~, чтобы вести его самому.
+
+FETCH_DYNAMIC_RESCUE_PED_HELP_FOLLOW = Человек ~1b~ следует за вами. Отведите его к месту доставки.
+
+FETCH_DYNAMIC_RESCUE_PED_HELP_HOGTIED = Удерживайте ~INPUT_CUT_FREE~, чтобы освободить связанного человека.
+
+FETCH_DYNAMIC_RESCUE_PED_HELP_HOGTIED_GO_TO = Спасите человека ~1b~ от врагов. Чтобы цель начала следовать за вами, развяжите ее.
+
+FETCH_DYNAMIC_RESCUE_PED_HELP_HOGTIED_GO_TO_PLURAL = Спасите эту группу людей ~1b~ от врагов. Чтобы они начали следовать за вами, развяжите их.
+
+FETCH_DYNAMIC_RESCUE_PED_HELP_INTRO = Чтобы получить полную награду, спасите попавшего в беду человека и отвезите его к месту доставки.
+
+FETCH_DYNAMIC_RESCUE_PED_HELP_INTRO_PLURAL = Чтобы получить полную награду, спасите попавших в беду людей и отвезите их к месту доставки.
+
+FETCH_DYNAMIC_RESCUE_PED_HELP_OBJECTIVE_ESCAPING_TEAM_PRIMARY = Вы отошли слишком далеко от спасаемого человека. Скорее вернитесь к нему.
+
+FETCH_DYNAMIC_RESCUE_PED_OBJ_DEFEND = Защищайте ~COLOR_MP_OBJECTIVE_FRIENDLY~незнакомого человека~s~ на пути ~1~.
+
+FETCH_DYNAMIC_RESCUE_PED_OBJ_DEFEND_PLURAL = Защищайте ~COLOR_MP_OBJECTIVE_FRIENDLY~незнакомых людей~s~ на пути ~1~.
+
+FETCH_DYNAMIC_RESCUE_PED_OBJ_DROP = Опустите ~COLOR_MP_OBJECTIVE_FRIENDLY~человека~s~ на ~COLOR_MP_OBJECTIVE~землю~s~.
+
+FETCH_DYNAMIC_RESCUE_PED_OBJ_STEAL = Спасите ~COLOR_MP_OBJECTIVE_NEUTRAL~попавшего в беду человека~s~.
+
+FETCH_DYNAMIC_RESCUE_PED_UNTIE = Освободите ~COLOR_MP_OBJECTIVE_NEUTRAL~связанного человека~s~.
+
+FETCH_DYNAMIC_RESCUE_SCORETIMER_DELIVER_TEAM_PRIMARY_FAIL = Игрок ~1~ ликвидировал спасаемого человека
+
+FETCH_DYNAMIC_RESCUE_SCORETIMER_DELIVER_TEAM_PRIMARY_FAIL_NP = Спасаемый человек ликвидирован
+
+FETCH_DYNAMIC_RESCUE_SCORETIMER_DELIVER_TEAM_PRIMARY_PASS = Игрок ~1~ отвел человека к месту доставки
+
+FETCH_DYNAMIC_RESCUE_SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_NP = Человек доставлен
+
+FETCH_DYNAMIC_RESCUE_SCORETIMER_DESTROYED = Спасаемый человек убит
+
+FETCH_DYNAMIC_RESCUE_SCORETIMER_DESTROYED_YOU = Вы убили спасаемого человека
+
+FETCH_RESCUE_MULTIPLE_PED_OBJ_KILL_ATTACKERS_HIGHWAY = Устраните ~COLOR_ENEMY~бандитов с большой дороги~s~.
+
+FETCH_RESCUE_PED_ABANDON = Вы бросили спасаемого человека.
+
+FETCH_RESCUE_PED_GO_TO = Направляйтесь ~1~.
+
+FETCH_RESCUE_PED_HELP_CONTROL = Будучи без оружия, сфокусируйтесь при помощи ~INPUT_INTERACT_LOCKON~ на ~COLOR_MP_OBJECTIVE_FRIENDLY~пленнике~s~ ~1b~, чтобы вести пленника самому.
+
+FETCH_RESCUE_PED_HELP_DESTROY = Игрок ~1~ начал противостояние ~2~. Чтобы получить полную награду, устраните пленника~3b~.
+
+FETCH_RESCUE_PED_HELP_DESTROY_PLURAL = Игрок ~1~ начал противостояние с ~2~. Чтобы получить полную награду, устраните пленников~3b~.
+
+FETCH_RESCUE_PED_HELP_DESTROY_PLURAL_YOU = Вы начали противостояние с ~1~. Чтобы получить полную награду, устраните пленников ~2b~.
+
+FETCH_RESCUE_PED_HELP_DESTROY_YOU = Вы начали противостояние с ~1~. Чтобы получить полную награду, устраните пленника ~2b~.
+
+FETCH_RESCUE_PED_HELP_FOLLOW = Пленник ~1b~ следует за вами. Отведите его к месту доставки.
+
+FETCH_RESCUE_PED_HELP_HOGTIED = Удерживайте ~INPUT_CUT_FREE~, чтобы освободить пленника.
+
+FETCH_RESCUE_PED_HELP_HOGTIED_GO_TO = Спасите пленника~1b~ от врагов. Чтобы цель начала следовать за вами, развяжите ее.
+
+FETCH_RESCUE_PED_HELP_HOGTIED_GO_TO_PLURAL = Спасите пленников ~1b~ от врагов. Чтобы пленники начали следовать за вами, развяжите их.
+
+FETCH_RESCUE_PED_HELP_INTRO = Чтобы получить полную награду, cпасите пленника и отведите его к месту доставки за отведенное время.
+
+FETCH_RESCUE_PED_HELP_INTRO_PLURAL = Чтобы получить полную награду, спасите пленников и отвезите их к месту доставки за отведенное время.
+
+FETCH_RESCUE_PED_HELP_INTRO_TRAIN = Чтобы получить полную награду, за отведенное время спасите связанного на рельсах ~1b~ пленника.
+
+FETCH_RESCUE_PED_MULTIPLE_OBJ_DESTROY = Устраните ~COLOR_MP_OBJECTIVE_ENEMY~незнакомого человека~s~.
+
+FETCH_RESCUE_PED_MULTIPLE_OBJ_DESTROY_PLURAL = Устраните ~COLOR_MP_OBJECTIVE_ENEMY~незнакомых людей~s~.
+
+FETCH_RESCUE_PED_MULTIPLE_OBJ_KILL_ATTACKERS_BEAR = Убейте ~COLOR_ENEMY~медведя~s~.
+
+FETCH_RESCUE_PED_MULTIPLE_OBJ_RETURN = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~спасенного человека~s~ ~1~.
+
+FETCH_RESCUE_PED_MULTIPLE_OBJ_RETURN_PLURAL = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~спасенных людей~s~ ~1~.
+
+FETCH_RESCUE_PED_MULTIPLE_SHARD_DESC_PRIMARY = Спасите ~COLOR_MP_OBJECTIVE_NEUTRAL~попавшего в беду человека~s~ и доставьте в безопасное место
+
+FETCH_RESCUE_PED_MULTIPLE_SHARD_DESC_PRIMARY_PLURAL = Спасите ~COLOR_MP_OBJECTIVE_NEUTRAL~попавших в беду людей~s~ и доставьте в безопасное место
+
+FETCH_RESCUE_PED_MULTIPLE_SHARD_DESC_TRACKING_PRIMARY = Найдите ~COLOR_MP_OBJECTIVE_NEUTRAL~попавшего в беду человека~s~ и доставьте в безопасное место
+
+FETCH_RESCUE_PED_MULTIPLE_SHARD_DESC_TRACKING_PRIMARY_PLURAL = Найдите ~COLOR_MP_OBJECTIVE_NEUTRAL~попавших в беду людей~s~ и доставьте в безопасное место
+
+FETCH_RESCUE_PED_MULTIPLE_SHARD_DESTROYED = Эскортируемый человек убит
+
+FETCH_RESCUE_PED_MULTIPLE_SHARD_DESTROYED_PLURAL = Спасаемые люди убиты
+
+FETCH_RESCUE_PED_MULTIPLE_SHARD_PRIMARY_FAIL = Спасаемый человек убит
+
+FETCH_RESCUE_PED_MULTIPLE_SHARD_PRIMARY_FAIL_PLURAL = Спасаемые люди убиты
+
+FETCH_RESCUE_PED_MULTIPLE_SHARD_PRIMARY_PASS = Человек доставлен
+
+FETCH_RESCUE_PED_MULTIPLE_SHARD_PRIMARY_PASS_PARTIAL = Людей доставлено: ~1~/~2~
+
+FETCH_RESCUE_PED_MULTIPLE_SHARD_PRIMARY_PASS_PLURAL = Люди доставлены
+
+FETCH_RESCUE_PED_MULTIPLE_UNTIE = Освободите ~COLOR_MP_OBJECTIVE_NEUTRAL~связанного человека~s~.
+
+FETCH_RESCUE_PED_NO_MISSION_GIVER = Находящийся поблизости человек ~1b~ попросил о помощи.
+
+FETCH_RESCUE_PED_OBJ_DEFEND = Защищайте ~COLOR_MP_OBJECTIVE_FRIENDLY~пленника~s~ на пути ~1~.
+
+FETCH_RESCUE_PED_OBJ_DEFEND_PLURAL = Защищайте ~COLOR_MP_OBJECTIVE_FRIENDLY~пленников~s~ по пути ~1~.
+
+FETCH_RESCUE_PED_OBJ_DESTROY = Устраните ~COLOR_ENEMY~пленника~s~.
+
+FETCH_RESCUE_PED_OBJ_DESTROY_PLURAL = Устраните ~COLOR_ENEMY~пленников~s~.
+
+FETCH_RESCUE_PED_OBJ_DROP = Опустите ~COLOR_MP_OBJECTIVE_FRIENDLY~пленника~s~ на ~COLOR_MP_OBJECTIVE~землю~s~.
+
+FETCH_RESCUE_PED_OBJ_KILL_ATTACKERS_ALLIGATORS = Убейте ~COLOR_ENEMY~аллигаторов~s~.
+
+FETCH_RESCUE_PED_OBJ_KILL_ATTACKERS_BANDITS = Устраните ~COLOR_ENEMY~бандитов~s~.
+
+FETCH_RESCUE_PED_OBJ_KILL_ATTACKERS_ENEMIES = Устраните ~COLOR_ENEMY~врагов~s~.
+
+FETCH_RESCUE_PED_OBJ_KILL_ATTACKERS_MUGGERS = Устраните ~COLOR_ENEMY~грабителей~s~.
+
+FETCH_RESCUE_PED_OBJ_RETURN = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~пленника~s~ ~1~.
+
+FETCH_RESCUE_PED_OBJ_RETURN_PLURAL = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~пленников~s~ ~1~.
+
+FETCH_RESCUE_PED_OBJ_STEAL = Спасите ~COLOR_MP_OBJECTIVE_NEUTRAL~пленника~s~.
+
+FETCH_RESCUE_PED_OBJ_STEAL_PLURAL = Спасите ~COLOR_MP_OBJECTIVE_NEUTRAL~пленников~s~.
+
+FETCH_RESCUE_PED_OBJ_STEAL_POSSE = Отбейте ~COLOR_MP_OBJECTIVE_NEUTRAL~пленника~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_RESCUE_PED_OBJ_STEAL_POSSE_PLURAL = Отбейте ~COLOR_MP_OBJECTIVE_NEUTRAL~пленников~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_RESCUE_PED_OBJ_TRAIN = Сядьте на ~COLOR_MP_OBJECTIVE~поезд~s~.
+
+FETCH_RESCUE_PED_OBJ_TRAIN_GO_TO = Доберитесь до ~COLOR_MP_OBJECTIVE~рельсов~s~ быстрее, чем пройдет ~COLOR_MP_OBJECTIVE_ENEMY~поезд~s~.
+
+FETCH_RESCUE_PED_PRIMARY_RESCUE = Согласиться спасти цель
+
+FETCH_RESCUE_PED_SCORETIMER_JOIN_TEAM_SECONDARY = ~1~ пытается убить пленника
+
+FETCH_RESCUE_PED_SCORETIMER_JOIN_TEAM_SECONDARY_PLURAL = ~1~ пытается убить пленника
+
+FETCH_RESCUE_PED_SHARD_DESC_PRIMARY = Найдите ~COLOR_MP_OBJECTIVE_NEUTRAL~пленника~s~ и доставьте в безопасное место
+
+FETCH_RESCUE_PED_SHARD_DESC_PRIMARY_PLURAL = Найдите ~COLOR_MP_OBJECTIVE_NEUTRAL~пленников~s~ и доставьте в безопасное место
+
+FETCH_RESCUE_PED_SHARD_DESC_SECONDARY = Устраните ~COLOR_MP_OBJECTIVE_ENEMY~пленника~s~
+
+FETCH_RESCUE_PED_SHARD_DESC_SECONDARY_PLURAL = Устраните ~COLOR_MP_OBJECTIVE_ENEMY~пленников~s~
+
+FETCH_RESCUE_PED_SHARD_OVER_DESTROYED = Пленник устранен
+
+FETCH_RESCUE_PED_SHARD_OVER_DESTROYED_PLURAL = Пленники устранены
+
+FETCH_RESCUE_PED_SHARD_PRIMARY_FAIL = Пленник убит
+
+FETCH_RESCUE_PED_SHARD_PRIMARY_FAIL_PLURAL = Пленники убиты
+
+FETCH_RESCUE_PED_SHARD_PRIMARY_PASS = Пленник доставлен
+
+FETCH_RESCUE_PED_SHARD_PRIMARY_PASS_PARTIAL = Пленников доставлено: ~1~/~2~
+
+FETCH_RESCUE_PED_SHARD_PRIMARY_PASS_PLURAL = Пленники доставлены
+
+FETCH_RESCUE_PED_SHARD_SECONDARY_FAIL = Пленник доставлен
+
+FETCH_RESCUE_PED_SHARD_SECONDARY_FAIL_PLURAL = Пленники доставлены
+
+FETCH_RESCUE_PED_SHARD_SECONDARY_FAIL_RIVALS = Пленник убит вражеским отрядом
+
+FETCH_RESCUE_PED_SHARD_SECONDARY_FAIL_RIVALS_PLURAL = Пленники убиты вражеским отрядом
+
+FETCH_RESCUE_PED_SHARD_SECONDARY_PASS = Пленник устранен
+
+FETCH_RESCUE_PED_SHARD_SECONDARY_PASS_PARTIAL = Пленников устранено: ~1~/~2~
+
+FETCH_RESCUE_PED_SHARD_SECONDARY_PASS_PLURAL = Пленники устранены
+
+FETCH_RESCUE_PED_STEAL_POSSE = Отбейте ~COLOR_MP_OBJECTIVE_NEUTRAL~попавшего в беду человека~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_RESCUE_PED_STEAL_POSSE_PLURAL = Отбейте ~COLOR_MP_OBJECTIVE_NEUTRAL~попавших в беду людей~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_RESCUE_PED_TRAVELER_HOLSTER = Уберите оружие и снаряжение, прежде чем разговаривать с путешественником
+
+FETCH_RESCUE_PED_UNTIE = Освободите связанного ~COLOR_MP_OBJECTIVE_NEUTRAL~пленника~s~.
+
+FETCH_RESCUE_PED_UNTIE_PLURAL = Освободите связанных ~COLOR_MP_OBJECTIVE_NEUTRAL~пленников~s~.
+
+FETCH_RESCUE_SCORETIMER_DELIVER_TEAM_PRIMARY_FAIL = Игрок ~1~ ликвидировал пленника
+
+FETCH_RESCUE_SCORETIMER_DELIVER_TEAM_PRIMARY_FAIL_NP = Пленник убит
+
+FETCH_RESCUE_SCORETIMER_DELIVER_TEAM_PRIMARY_FAIL_YOU = Вы ликвидировали пленника
+
+FETCH_RESCUE_SCORETIMER_DELIVER_TEAM_PRIMARY_FAIL_YOUR = Ваш отряд ликвидировал пленника
+
+FETCH_RESCUE_SCORETIMER_DELIVER_TEAM_PRIMARY_PASS = Игрок ~1~ доставил пленника
+
+FETCH_RESCUE_SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_NP = Пленник доставлен
+
+FETCH_RESCUE_SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_YOU = Вы доставили пленника
+
+FETCH_RESCUE_SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_YOUR = Ваш отряд доставил пленника
+
+FETCH_RESCUE_SCORETIMER_DESTROYED = Пленник убит
+
+FETCH_RESCUE_SCORETIMER_DESTROYED_YOU = Вы убили пленника
+
+FETCH_RESCUE_SCORETIMER_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Соперники~s~ могут напасть на пленника
+
+FETCH_RESCUE_SCORETIMER_PVP_GLOBAL_SIGNAL_PLURAL = ~COLOR_ENEMY~Соперники~s~ могут напасть на пленников
+

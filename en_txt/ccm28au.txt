@@ -1,0 +1,28 @@
+CCM28_ACTA_1 = ~z~Ah, you paying us a visit, Morgan? Come over to the other side of camp, have you?
+
+CCM28_ACTA_2 = ~z~Crossed the great divide?
+
+CCM28_ACTA_3 = ~z~Apparently so.
+
+CCM28_ACTA_4 = ~z~Cleet and Joe are good boys, Arthur... I rode with them a long time ago...
+
+CCM28_ACTA_5 = ~z~Best thing that could'a happened to us really, me, bumping into them again...
+
+CCM28_ACTA_6 = ~z~Best thing, right boys?
+
+CCM28_ACTA_7 = ~z~Sure.
+
+CCM28_ACTA_8 = ~z~Now Arthur's, Arthur's a kinda... sullen, angry man and... he ain't well. Not well at all.
+
+CCM28_ACTA_9 = ~z~Sad, really... but what can you do? Guess we all gotta die sometime...
+
+CCM28_ACTA_10 = ~z~You know... once, once all this gets shaken down a little... and calmed down... we're gonna get...
+
+CCM28_ACTA_11 = ~z~We're gonna get going on business boys... good business. I got good ideas...
+
+CCM28_ACTA_12 = ~z~Me and Dutch... we both have... we've talked about Australia...
+
+CCM28_ACTA_13 = ~z~It's an amazing place... more land than you can imagine! We'll go someplace good...
+
+CCM28_ACTA_14 = ~z~Dutch has got plans. Good plans... he has.
+

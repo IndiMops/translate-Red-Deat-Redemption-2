@@ -1,0 +1,300 @@
+MPICB_AGITAT1_01 = ~z~~sl:0.0:0.5~Hey!~sl:0.0:3.2~Nobody steps foot in here. Do you understand me?~sl:~Nobody!
+
+MPICB_AGITAT1_02 = ~z~~sl:0.0:1.5~The hell's going on out there?~sl:0.0:2.0~You all forgotten who I am?~sl:~What I'm worth?
+
+MPICB_AGITAT1_03 = ~z~~sl:0.0:3.0~For God's sake! You're in my service!~sl:~Quit your diddling and do something!
+
+MPICB_BINK_BEAU_1 = ~z~Gene "Beau" Finley.
+
+MPICB_BINK_BEAU_2 = ~z~Damn, I'm starting to wish I'd kept this fool for myself.
+
+MPICB_BINK_BEAU_3 = ~z~Rich dandy who read one too many dime novels.
+
+MPICB_BINK_BEAU_4 = ~z~Out there trying to play outlaws with the big boys.
+
+MPICB_BINK_BEAU_5 = ~z~Loves himself just as much as his Daddy clearly didn't.
+
+MPICB_BINK_BEAU_6 = ~z~Spent his inheritance rounding up the best gunmen money can buy.
+
+MPICB_BINK_BEAU_7 = ~z~But, they don't give a damn about Beau.
+
+MPICB_BINK_BEAU_8 = ~z~Their only job is to make him look good.
+
+MPICB_BINK_BEAU_9 = ~z~Get his name in the newspapers.
+
+MPICB_BINK_BEAU_10 = ~z~He and some of his fancy Rifle Club friends...
+
+MPICB_BINK_BEAU_11 = ~z~have taken over the old mansion at Shady Belle.
+
+MPICB_BINK_BEAU_12 = ~z~Lots of guards, lots of weapons.
+
+MPICB_BINK_BEAU_13 = ~z~Nothing but the best for young Beau.
+
+MPICB_BINK_BEAU_14 = ~z~So why don't you head over there and...
+
+MPICB_BINK_BEAU_15 = ~z~dirty up his suit a little?
+
+MPICB_BOINAL_01 = ~z~Now, why can't I get a moment's peace around this Godforsaken place?
+
+MPICB_BOINAL_02 = ~z~~sl:0.0:0.8~So,~sl:~someone fancies their chances against young Beau, huh?
+
+MPICB_BOINAL_03 = ~z~~sl:0.0:6.3~Whoever you are, you better have come prepared, because you are up against a most formidable force!~sl:~A force under Gene "Beau" Finley's authority!
+
+MPICB_BOINAL_04 = ~z~~sl:0.0:0.8~Woo!~sl:~Come on now fellers, this is a fight to the death!
+
+MPICB_BOINUN_1 = ~z~~sl:0.0:4.8~Three banks in half a day, and not a single shooter slain or captured!
+
+MPICB_BOINUN_2 = ~z~~sl:0.0:3.0~Speak softly now,~sl:~success breeds plenty envy!
+
+MPICB_BOINUN_3 = ~z~~sl:0.0:3.4~I picture them ugly soured-faced lawmen,~sl:~brooding on how we got the best of them, knowing we can't ever be interrupted!
+
+MPICB_BOINUN_4 = ~z~~sl:0.0:2.0~Do you all recognise?~sl:~We “desperados” are becoming the exception to the exception.
+
+MPICB_BOINUN_5 = ~z~~sl:0.0:2.0~Just as it's written!~sl:~All men are not equal!
+
+MPICB_BOINUN_6 = ~z~~sl:0.5:4.0~Any dopey yokel with spare time and a pistol can stick-up a bank!~sl:~It's my vision!
+
+MPICB_BOINUN_7 = ~z~~sl:0.0:5.2~And my vision alone as to why we've come so abundantly into fortune's favour!~sl:~Who can't see that?
+
+MPICB_BOINUN_8 = ~z~~sl:0.0:5.2~Oh, we see it! Unlike certain ungrateful individuals in our company,~sl:~whose only reverence is money and violence.
+
+MPICB_BOINUN_9 = ~z~~sl:0.0:4.5~It's my name written up on those wanted posters, that means it's my life~sl:~on the line, so I demand total
+
+MPICB_BOINUN_10 = ~z~unbridled obedience here on out! No more negotiating!
+
+MPICB_BOINUN_11 = ~z~Don't you worry, word will get around if they haven't already heard!
+
+MPICB_BOINUN_12 = ~z~~sl:0.0:3.5~See, a lot of folks are furious now, you know why?~sl:0.5~Folk used to say it was over for Beau, they counted Beau out,
+
+MPICB_BOINUN_13 = ~z~~sl:0.0:3.0~because folks can't do what Beau does!~sl:0.0:5.1~I lead a whole bunch of killers, rob a whole lot of money, and I'm a living legend~sl:~at twenty-four years old!
+
+MPICB_BOINUN_14 = ~z~I'm a living legend at twenty-four years old!
+
+MPICB_BOINUN_15 = ~z~~sl:0.0:6.3~Yeah, soon folk will see you and won't know whether to beg for their lives or an autograph!
+
+MPICB_BOINUN_16 = ~z~~sl:0.0:2.5~And it isn't for nothing neither, boys.~sl:0.0:4.5~Entire nations will know the name Gene "Beau" Finley,~sl:~even more so after I'm dead and gone!
+
+MPICB_BOINUN_17 = ~z~Time folks start putting some respect on that name!
+
+MPICB_BOINUN_18 = ~z~~sl:1.0~I can just feel it right down to my gut! Change is coming!
+
+MPICB_BOREACT2_01 = ~z~~sl:0.0:1.2~You know who I am?~sl:~Of course you do. Everybody knows who I am.
+
+MPICB_BOREACT2_02 = ~z~~sl:0.0:1.0~Think carefully~sl:~on how you deal with me. I am Gene "Beau" Finley.
+
+MPICB_BOREACT2_03 = ~z~~sl:0.0:3.8~I'm telling you, only thing valuable around here are those weapons,~sl:~and this suit.
+
+MPICB_BOREACT_01 = ~z~~sl:0.0:0.4~God!~sl:0.0:0.8~No!~sl:0.4~Don't shoot!
+
+MPICB_BOREACT_02 = ~z~~sl:0.0:1.2~God! No!~sl:0.3~Shit, shit, shit.
+
+MPICB_BOREACT_03 = ~z~~sl:0.0:0.9~Woah, wait!~sl:0.4~Don't shoot!
+
+MPICB_BORUN2_01 = ~z~Keep firing back, boys!
+
+MPICB_BORUN2_02 = ~z~Shoot! Shoot! Don't let 'em get any closer!
+
+MPICB_BORUN2_03 = ~z~Get 'em the hell away from me!
+
+MPICB_BORUN_01 = ~z~Get away!
+
+MPICB_BORUN_02 = ~z~Oh shit, oh shit, oh shit.
+
+MPICB_BORUN_03 = ~z~You can't do this, this isn't right!
+
+MPICB_BORUN_04 = ~z~Get the hell away from me!
+
+MPICB_BREAK_01 = ~z~~sl:0.0:0.9~I'm free!
+
+MPICB_BREAK_02 = ~z~Piss on this, I'm gone!
+
+MPICB_BREAK_03 = ~z~~sl:0.0:1.2~Bye, dummy!
+
+MPICB_COUGAR_01 = ~z~~sl:0.0:1.0~My cougar!~sl:0.4~Don't anyone hurt her!
+
+MPICB_COUGAR_02 = ~z~~sl:0.5:1.0~My cougar!~sl:0.2~Nobody touches her!
+
+MPICB_DROPOFF_01 = ~z~~sl:0.0:4.0~You know, you know it isn't too late to have a change of heart.~sl:1.0~Hey...
+
+MPICB_DROPOFF_02 = ~z~~sl:0.0:3.0~C'mon, you don't have to see this through.~sl:1.5~Please...
+
+MPICB_DROPOFF_03 = ~z~~sl:0.0:2.0~No, don't do this!~sl:0.5~I'm begging you, don't do this to me!
+
+MPICB_EXPLOD_01 = ~z~Chrissake! Kill! Ya'll hear me? Kill!
+
+MPICB_EXPLOD_02 = ~z~Hey! Get to killing before we all end up dead!
+
+MPICB_EXPLOD_03 = ~z~
+
+MPICB_EXPLOD_04 = ~z~Goddamnit! How the hell is this happening?
+
+MPICB_FLEEMER_01 = ~z~~sl:0.0:1.0~Traitors!~sl:~You get back over here and fight, goddamn it! Fight!
+
+MPICB_FLEEMER_02 = ~z~~sl:0.0:2.5~Where are you running off to...?~sl:~Come back and do what I've paid you for!
+
+MPICB_FLEEMER_03 = ~z~~sl:0.0:1.4~Don't leave me like this!~sl:0.5~I'll pay you double! Triple!
+
+MPICB_FRONT_01 = ~z~What am I paying ya'll for, get to the front of the house!
+
+MPICB_FRONT_02 = ~z~Ya'll need to gather out front of the house, now!
+
+MPICB_GAINING_01 = ~z~~sl:0.0:1.8~Go away! Just...~sl:0.4~go away!
+
+MPICB_GAINING_02 = ~z~Quit chasing after me!
+
+MPICB_GANGC1_1 = ~z~~sl:1.5:1.5~Hurry on, ya'll!~sl:0.0:2.5~Oh, you're sure in for it now.~sl:~Thought you'd get away clean, huh? You are done for!
+
+MPICB_GANGC2_1 = ~z~~sl:1.5~Every man and his dog wants a piece of young Beau today!
+
+MPICB_GCONV1_1 = ~z~Sure like it over here by yourself, don't you?
+
+MPICB_GCONV1_2 = ~z~~sl:0.0:1.5~I swear I'm reaching my limit.~sl:0.5~The minute I get my pay from young big mouth in there, I'm gone.
+
+MPICB_GCONV1_3 = ~z~~sl:0.0:3.0~I don't trust him nor his college buddies one lick.~sl:~Way we carrying on they fixing to get us all killed.
+
+MPICB_GCONV1_4 = ~z~~sl:0.0:4.0~Stick it out a little while longer for the grand prize.~sl:0.0:1.5~You'll see.~sl:~It'll be worth it in the end.
+
+MPICB_GCONV1_5 = ~z~~sl:0.0:3.0~Any longer and I'll be a damn fool. We'll all be.~sl:~He don't care about anyone but himself.
+
+MPICB_GCONV1_6 = ~z~~sl:0.0:1.0~Look...~sl:0.5:3.0~I don't like that joker's ways any more than you.~sl:~Shit... I'd kill him and his fancy friends if the money was right.
+
+MPICB_GCONV1_7 = ~z~~sl:0.0:1.2~But you gotta admit,~sl:0.6~with him and all he's promising... the money is right.
+
+MPICB_GCONV1_8 = ~z~Ah, hell, I don't know.
+
+MPICB_GCONV1_9 = ~z~~sl:0.5:1.5~Suit yourself.~sl:0.9~Good luck with the fish.
+
+MPICB_HITBO_01 = ~z~Ow, don't need to hit so hard!
+
+MPICB_HITBO_02 = ~z~Ah! Watch my face!
+
+MPICB_HITBO_03 = ~z~Ow! You busted my nose.
+
+MPICB_HITBO_04 = ~z~Ah! That's my face!
+
+MPICB_HOGTIE2_01 = ~z~Not again, ow... that's tight enough!
+
+MPICB_HOGTIE2_02 = ~z~Okay, ow, you don't have pull so tight.
+
+MPICB_HOGTIE_01 = ~z~Get your filthy hands off me!
+
+MPICB_HOGTIE_02 = ~z~This isn't the proper thing to do.
+
+MPICB_INCRN1_01 = ~z~Looks like it's open season, boys! Flush!
+
+MPICB_INCRN1_02 = ~z~Time for a little field targeting, boys!
+
+MPICB_INCRN1_03 = ~z~Oh, I do love some rough shooting!
+
+MPICB_INCRN2_01 = ~z~This is as far as you get!
+
+MPICB_INCRN2_02 = ~z~Be better to turn back while you can!
+
+MPICB_KILLFLEE_01 = ~z~Don't shoot! I give... you... you got me.
+
+MPICB_KILLFLEE_02 = ~z~Don't shoot! I can't take any more. I'm done.
+
+MPICB_KILLFLEE_03 = ~z~For the love of God, I can't take any more of this! I surrender.
+
+MPICB_LASSO_01 = ~z~Stop, you'll ruin my jacket!
+
+MPICB_LASSO_02 = ~z~Get off! Quit messing up my suit!
+
+MPICB_MOURN_1 = ~z~Fellers! I'm all tied up! The hell are you?
+
+MPICB_MOURN_2 = ~z~Jesus Christ, did you... kill 'em all?
+
+MPICB_OFFHRS_01 = ~z~Oh my God, this can't be happening.
+
+MPICB_OFFHRS_02 = ~z~No, let me go!
+
+MPICB_OUTCRN1_1 = ~z~~sl:0.0:0.5~Beau!~sl:0.4~Beau, where are you going?
+
+MPICB_OUTCRN1_2 = ~z~Damn you, Gene Finley!
+
+MPICB_OUTCRN2_1 = ~z~Cover our Gene and keep him safe, boys!
+
+MPICB_OUTCRN2_2 = ~z~What do we do now, Gene? Gene?
+
+MPICB_PCKUP_01 = ~z~Stop it! Just stop!
+
+MPICB_PCKUP_02 = ~z~Oh, this is humiliating.
+
+MPICB_PHRSE_01 = ~z~Oh... it stinks!
+
+MPICB_PHRSE_02 = ~z~Ow, careful!
+
+MPICB_PKILL_01 = ~z~~sl:0.0:0.6~Dead!~sl:1.6~Dead!
+
+MPICB_PKILL_02 = ~z~~sl:1.5~Now that's what I like to see!
+
+MPICB_PLOCA1_1 = ~z~~sl:0.0:0.5~Thanks!~sl:0.5:1.5~Watch yourself,~sl:0.0:3.3~there's some blowhard barking orders from that bedroom up there,~sl:~and the place is... is wired up with dynamite!
+
+MPICB_PLOCA2_1 = ~z~~sl:0.0:2.0~Thanks! You watch yourself,~sl:0.0:2.0~there's some blowhard barking orders from that...~sl:~that drawing room up there and the place is wired up with dynamite!
+
+MPICB_PLOCU1_1 = ~z~~sl:0.0:0.5~Thanks.~sl:0.5:1.0~There's a plunger,~sl:0.0:5.0~and there's dynamite, and one rotten rich kid in that bedroom thinking he's...~sl:0.5~untouchable, you catch my meaning?
+
+MPICB_PLOCU2_1 = ~z~~sl:0.0:3.0~Thanks, there's a plunger, and there's dynamite,~sl:0.0:4.0~and some... some rich kid in that drawing room thinking he's untouchable,~sl:0.5~catch my meaning?
+
+MPICB_PRSN1_01 = ~z~Break a feller loose, would ya?
+
+MPICB_PRSN1_02 = ~z~Over here, before any of 'em get wind.
+
+MPICB_PRSN1_03 = ~z~Hey! Get this knot while there's still a chance.
+
+MPICB_PRSN2_01 = ~z~~sl:0.0:1.5~You wanna go on ignoring me?~sl:1.0~Fine. Trespasser! Trespasser! Trespasser!
+
+MPICB_PRSN2_02 = ~z~~sl:0.0:1.2~You gonna leave me this way?~sl:0.8~Fine. Over here! Quick! We got a prowler!
+
+MPICB_PRSN3_01 = ~z~~sl:0.0:1.4~Oh God... oh God...~sl:~don't let me die.
+
+MPICB_PRSN3_02 = ~z~I don't want no part in this!
+
+MPICB_PRSN3_03 = ~z~To hell with you all!
+
+MPICB_PRSN4_01 = ~z~Rotten bastards never stood a chance!
+
+MPICB_PRSN4_02 = ~z~~sl:0.0:2.0~Where's all that dirty talk now?~sl:0.0:2.0~Pretty... pretty quiet round here all 'a sudden!~sl:0.5:1.7~Come on, I wanna hear ya'll!
+
+MPICB_PRSN4_03 = ~z~~sl:0.0:1.6~Speak up now, fools!~sl:0.4~I said speak up!
+
+MPICB_PRSN5_01 = ~z~~sl:0.0:1.4~Look at them all spooked!~sl:0.0:1.2~Run, cowards!~sl:0.4~Cowards!
+
+MPICB_PRSN5_02 = ~z~~sl:0.0:2.0~That's right, go on, go on, get!~sl:0.0:2.0~Chickenshit the lot of ya!~sl:0.0:1.5~Go screw each other!
+
+MPICB_PRSN5_03 = ~z~Yeah! Run! Run!
+
+MPICB_RIDEBANTB_1 = ~z~~sl:0.0:1.2~Goddamn it!~sl:~You ratface, shit-eating, cocksucker!
+
+MPICB_RIDEBANTB_2 = ~z~~sl:0.0:0.5~Hey! ~rp~~sl:0.4~C'mon, you can't take me to jail, you need to kill me, you hear?
+
+MPICB_RIDEBANTB_3 = ~z~~sl:0.0:6.0~Hey! ~rp~Hey! ~rp~I ain't some ordinary crook, kill me! ~rp~~sl:~I'm a living legend, you hear? ~rp~I'm a goddamn living legend!
+
+MPICB_RIDEBANTB_4 = ~z~~sl:0.0:1.0~I'm...~sl:0.9:1.6~a goddamn...~sl:0.5:1.5~living...~sl:0.0:1.5~legend.
+
+MPICB_RIDEBANT_1 = ~z~~sl:1.0:1.5~Well I'll be! ~rp~~sl:~You are indeed something major, aren't you?
+
+MPICB_RIDEBANT_2 = ~z~~sl:0.0:1.7~We're the same, we are! ~rp~~sl:0.0:4.5~Uncommon, extraordinary, ~rp~we should be riding as one,~sl:~but see, folk don't want that.
+
+MPICB_RIDEBANT_3 = ~z~~sl:0.0:0.5~Yeah, ~rp~~sl:0.0:2.5~it's a notion that's got you all split up~sl:~and your wits perplexed, I know trust me, I have been there, but I promise I'll give you direction.
+
+MPICB_RIDEBANT_4 = ~z~~sl:0.0:4.2~We take off now and I'll get you more riches than any mind can fathom~sl:~and have you living a life undreamed of!
+
+MPICB_RIDEBANT_5 = ~z~~sl:0.0:0.5~Hey, ~rp~~sl:0.0:2.5~you understand what I'm saying here? ~rp~~sl:~Riches! ~rp~Hey!
+
+MPICB_SCARED_01 = ~z~Use everything we've got!
+
+MPICB_SCARED_02 = ~z~For crying out loud, I need more guns!
+
+MPICB_SCARED_03 = ~z~~sl:0.0:1.4~Look at what's happening!~sl:0.2~You're all so damn spineless!
+
+MPICB_UNTIE_01 = ~z~~sl:0.0:1.5~Masterfully done.~sl:0.0:3.5~I'd shake your hand but as you can see, I'm a little, uh...~sl:1.0~you know.
+
+MPICB_UNTIE_02 = ~z~Now you gonna let me loose here, huh?
+
+MPICB_UNTIE_03 = ~z~Come on, quick, cut me free while there's a chance.
+
+MPICB_WARNING_01 = ~z~Don't free me and you'll regret it.
+
+MPICB_WARNING_02 = ~z~I don't wanna have to cause a fuss now.
+

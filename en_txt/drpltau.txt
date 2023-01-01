@@ -1,0 +1,64 @@
+DRPLT_AGREE_1 = ~z~~sl:0.0:0.9~You're saying yes?~sl:0.2~Well good for you. You're a better person than me.
+
+DRPLT_AMBUSH_01 = ~z~Goddamn it, they're back!
+
+DRPLT_AMBUSH_02 = ~z~No, what's this now? More of them?
+
+DRPLT_APPROACH_1 = ~z~~sl:0.0:2.8~Hey, you know that old burnt-out town up northeast?~sl:0.1:0.8~Pleasance?~sl:0.1~Looks like some of them hillfolk stole someone over there.
+
+DRPLT_APPROACH_2 = ~z~~sl:0.0:1.1~Could be trouble, but...~sl:0.2~you look like you might take to that sort of thing...
+
+DRPLT_ARRIVE_1 = ~z~~sl:0.0:2.8~I don't like it here one bit, but at least it's better'n~sl:~with them bastards where you found me...
+
+DRPLT_CALLOUT_1 = ~z~Hey, you gonna cut these ropes?
+
+DRPLT_CUTLOOSE_01 = ~z~~sl:0.0:2.6:1~Come on, please, cut me free!
+
+DRPLT_CUTLOOSE_02 = ~z~You kill me or you let me go. Enough already.
+
+DRPLT_CUTLOOSE_03 = ~z~Quick, please, there might be more of them!
+
+DRPLT_DECLINE_1 = ~z~Well, I'm past caring now anyway.
+
+DRPLT_ESCORT_1 = ~z~~sl:0.0:1.5~I'm done standing by.~sl:0.3~Can you take me to the Rhodes sheriff?
+
+DRPLT_ESCORT_2 = ~z~~sl:0.0:1.5~I don't normally, but...~sl:0.5~they've tormented my people long enough.
+
+DRPLT_HOGTIED_01 = ~z~~sl:1.2:1.7:1~You let me free now...
+
+DRPLT_HOGTIED_02 = ~z~What is it you want from me?
+
+DRPLT_HOGTIED_03 = ~z~Just do what you're gonna do... if you're gonna.
+
+DRPLT_HURRY_1 = ~z~~sl:0.0:1.8~You'd better go fast. Those hillfolk~sl:~can mess their prey up something nasty, I hear.
+
+DRPLT_IDLE_01 = ~z~What, you scared now?
+
+DRPLT_IDLE_02 = ~z~~sl:0.0:2.5~Well go on, then. Put your money where your mouth is.~sl:0.1~Not that you've said a damn word, mind you.
+
+DRPLT_IDLE_03 = ~z~~sl:0.0:1.8~I sure hope you ain't waiting for me.~sl:~I'm just here for the show.
+
+DRPLT_NEAR_1 = ~z~We're close now.
+
+DRPLT_POSSEDIE_01 = ~z~Damn murderers!
+
+DRPLT_POSSEDIE_02 = ~z~Shit, they don't look like they getting up.
+
+DRPLT_REWARD_1 = ~z~Here. You earned it.
+
+DRPLT_SPOT1_1 = ~z~You there! Yeah, you.
+
+DRPLT_SPOT2_01 = ~z~Hey? I know you can hear me.
+
+DRPLT_SPOT2_02 = ~z~Just come here a minute, will you?
+
+DRPLT_SURVIVE_01 = ~z~This is too damn much for me.
+
+DRPLT_SURVIVE_02 = ~z~I am done with all this.
+
+DRPLT_THANKS_1 = ~z~~sl:0.0:1.7~Those evil sons of bitches.~sl:0.1~You gave 'em what they deserved.
+
+DRPLT_WAIT_01 = ~z~You head that way, maybe... I'll watch?
+
+DRPLT_WAIT_02 = ~z~So, you gonna take a look or not?
+

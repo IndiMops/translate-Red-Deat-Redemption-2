@@ -1,0 +1,56 @@
+RMRY0_LETTER_1 = ~z~Dear Arthur,
+
+RMRY0_LETTER_2 = ~z~~sl:0.0:2.4~I've written this letter a hundred times or more~sl:~and I cannot get it right.
+
+RMRY0_LETTER_3 = ~z~It's me. You know it's me from the bad handwriting.
+
+RMRY0_LETTER_4 = ~z~~sl:0.0:2.7~I know I said when we last spoke and I was going off~sl:~to get married, that we would not speak again.
+
+RMRY0_LETTER_5 = ~z~~sl:0.0:5.1~I know I said a lot of things and I meant them, I suppose,~sl:~at the time,
+
+RMRY0_LETTER_6 = ~z~~sl:0.0:3.6~but I am not so proud as to not speak to people who care for me,~sl:~or cared for me.
+
+RMRY0_LETTER_7 = ~z~I've been in Valentine for a couple of months.
+
+RMRY0_LETTER_8 = ~z~~sl:0.0:6.4~I had some bad luck and, well, it's a long story~sl:~and not an interesting one, but I am here for now.
+
+RMRY0_LETTER_9 = ~z~~sl:0.0:6.2~I saw a couple of the girls, or whatever the polite term is for them,~sl:0.1~that ran with you and your associates in town
+
+RMRY0_LETTER_10 = ~z~and I heard tell of a man who sounded like you.
+
+RMRY0_LETTER_11 = ~z~~sl:0.0:1.8~I would love to see you again,~sl:~if you could spare me a little bit of your time.
+
+RMRY0_LETTER_12 = ~z~I'm renting a room at Chadwick Farm, just north of Valentine.
+
+RMRY0_LETTER_13 = ~z~Yours,
+
+RMRY0_LETTER_14 = ~z~Mary Linton.
+
+RMRY0_RSC1_1 = ~z~Mr. Morgan...
+
+RMRY0_RSC1_2 = ~z~can, can I...
+
+RMRY0_RSC1_3 = ~z~are you okay?
+
+RMRY0_RSC1_4 = ~z~Yes...
+
+RMRY0_RSC1_5 = ~z~I was miles away I'm afraid.
+
+RMRY0_RSC1_6 = ~z~So it seems.
+
+RMRY0_RSC1_7 = ~z~Anyway...
+
+RMRY0_RSC1_8 = ~z~it's that fellow, Downes.
+
+RMRY0_RSC1_LO_1 = ~z~The, uh... do-gooder?
+
+RMRY0_RSC1_LO_2 = ~z~Exactly. We lent him quite a sum... it seems he has little intention of repaying us...
+
+RMRY0_RSC1_LO_3 = ~z~he was quite ridiculous when I went to see him. You've not been to see him yet, I take it?
+
+RMRY0_RSC1_LO_4 = ~z~I-I'm sorry, Herr Strauss... had a lot on... I'll go give him a gentle reminder.
+
+RMRY0_RSC1_LO_5 = ~z~Not so gentle... I don't like his kind. Superior.
+
+RMRY0_RSC1_LO_6 = ~z~As you wish.
+

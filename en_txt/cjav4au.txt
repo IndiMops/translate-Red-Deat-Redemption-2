@@ -1,0 +1,38 @@
+CJAV4_ACTA_1 = ~z~You know, vanity is a sin, Mr. Escuella.
+
+CJAV4_ACTA_2 = ~z~So is judging others, my little friend.
+
+CJAV4_ACTA_3 = ~z~Me da used to say, "The bigger the box, the smaller the gift."
+
+CJAV4_ACTA_4 = ~z~If you know what I mean?
+
+CJAV4_ACTA_5 = ~z~Your da?
+
+CJAV4_ACTA_6 = ~z~Yeah, me da.
+
+CJAV4_ACTA_7 = ~z~~sl:0.0:1.4~From the sound of things,~sl:0.5~he was quite something.
+
+CJAV4_ACTA_8 = ~z~Yeah, quite something.
+
+CJAV4_ACTA_9 = ~z~~sl:0.0:0.9~My father,~sl:0.5~he alway say to me,
+
+CJAV4_ACTA_10 = ~z~~sl:0.0:1.5~"If someone disrespects you...~sl:0.5~fillet them with a knife."
+
+CJAV4_ACTA_11 = ~z~
+
+CJAV4_ACTA_12 = ~z~If you know what I mean.
+
+CJAV4_ACTA_13 = ~z~I wasn't disrespecting. I was just looking after your mortal soul, honest.
+
+CJAV4_ACTBR_1 = ~z~Get out of here.
+
+CJAV4_ACTBR_2 = ~z~Hey, Arthur.
+
+CJAV4_ACTBR_3 = ~z~Well. We know you ain't a vain man.
+
+CJAV4_ACTBR_4 = ~z~~sl:0.0:1.9~We know you ain't a wise one,~sl:~now get out of here!
+
+CJAV4_ACTBR_5 = ~z~Do something useful.
+
+CJAV4_ACTB_1 = ~z~Get out of here.
+

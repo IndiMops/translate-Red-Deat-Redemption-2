@@ -1,0 +1,586 @@
+SEN1_2CANYON_1 = ~z~Come on. We got two halfway up the canyon to deal with.
+
+SEN1_ALLDEAD_1 = ~z~Quick... come on, let's get up there.
+
+SEN1_BINOCHAT1_1 = ~z~So who are these bounty hunters?
+
+SEN1_BINOCHAT1_2 = ~z~~sl:0.8:2.9~Don't know too much about Ike Skelding's boys,~sl:0.3~but I hear they're a big crew and wild.
+
+SEN1_BINOCHAT1_3 = ~z~Built some reputation in the last year or two.
+
+SEN1_BINOCHAT2B_1 = ~z~They certainly don't seem overly enamored with him.
+
+SEN1_BINOCHAT2B_2 = ~z~He has that effect on people.
+
+SEN1_BINOCHAT2B_3 = ~z~Should we shoot 'em?
+
+SEN1_BINOCHAT2B_4 = ~z~No, too risky from here.
+
+SEN1_BINOCHAT2B_5 = ~z~Oh, you're the expert now?
+
+SEN1_BINOCHAT2B_6 = ~z~One gunshot and they'll be all over us, and Sean's dead. We need to get a lot closer.
+
+SEN1_BINOCHAT2B_7 = ~z~No, you're right. Just wasn't sure if it was reason or cowardice.
+
+SEN1_BINOCHAT2B_8 = ~t~In French: What a funny boy.
+
+SEN1_BINOCHAT2B_9 = ~z~What?
+
+SEN1_BINOCHAT2B_10 = ~z~Nothing.
+
+SEN1_BINOCHAT2C_1 = ~z~Oh, they're giving him a decent kicking.
+
+SEN1_BINOCHAT2C_2 = ~z~Well, you can only imagine the shit he's been giving them.
+
+SEN1_BINOCHAT2C_3 = ~z~Oh yes.
+
+SEN1_BINOCHAT2_1 = ~z~That looks like Sean to me...
+
+SEN1_BINOCHAT2_2 = ~z~Certainly kicking up enough of a fuss.
+
+SEN1_BINOCHAT2_3 = ~z~Yep, that's definitely Sean.
+
+SEN1_BINOCHAT3_1 = ~z~They're taking him up the canyon.
+
+SEN1_BINOCHAT4_1 = ~z~There's Charles, on the other side.
+
+SEN1_BOUNTY_01 = ~z~Look out, Arthur!
+
+SEN1_BOUNTY_02 = ~z~Here they come!
+
+SEN1_CABIN_1 = ~z~Another one coming out of that cabin.
+
+SEN1_CHAPUSHFD_01 = ~z~Push up on 'em!
+
+SEN1_CHAPUSHFD_02 = ~z~Move, let's go!
+
+SEN1_CHSPOTCLIF_01 = ~z~Look out left, on top of the cliff!
+
+SEN1_CHSPOTCLIF_02 = ~z~More on that cliff to the left, by the tree!
+
+SEN1_DANGLING_01 = ~z~Cut me down, come on!
+
+SEN1_DANGLING_02 = ~z~Are you gonna get me down from here?
+
+SEN1_DANGLING_03 = ~z~Hurry up, fellers!
+
+SEN1_DANGLING_04 = ~z~Someone cut this rope, my head's killing me.
+
+SEN1_DANGLING_05 = ~z~Hey, what are you all doing?
+
+SEN1_DANGLING_06 = ~z~Will one of you help me out here?
+
+SEN1_EXT_1 = ~z~Arthur...
+
+SEN1_EXT_2 = ~z~You know...
+
+SEN1_EXT_3 = ~z~you're a lot less ugly from that other angle, Arthur.
+
+SEN1_EXT_4 = ~z~Come on.
+
+SEN1_EXT_5 = ~z~Do I get a hug, Arthur?
+
+SEN1_EXT_6 = ~z~A warm embrace for a lost brother, now found?
+
+SEN1_EXT_7 = ~z~You know...
+
+SEN1_EXT_8 = ~z~nothing means more to me than this gang.
+
+SEN1_EXT_9 = ~z~The bond we share...
+
+SEN1_EXT_10 = ~z~it's the most real thing to me.
+
+SEN1_EXT_11 = ~z~I would kill for it, I would happily die for it...
+
+SEN1_EXT_12 = ~z~but in spite of all that...
+
+SEN1_EXT_13 = ~z~I would have easily left you here to rot...
+
+SEN1_EXT_14 = ~z~if Charles hadn't stopped me.
+
+SEN1_EXT_15 = ~z~I don't believe a word of that, Arthur.
+
+SEN1_EXT_16 = ~z~Get him out of here.
+
+SEN1_EXT_17 = ~z~You're a great man, Arthur Morgan...
+
+SEN1_EXT_18 = ~z~the kind a young whippersnapper can really admire.
+
+SEN1_EXT_19 = ~z~Oh shut up.
+
+SEN1_EXT_20 = ~z~Right, we should split up.
+
+SEN1_EXT_21 = ~z~Javier, will you escort Mr. Macguire back to camp.
+
+SEN1_EXT_22 = ~z~Charles, best you ride separately.
+
+SEN1_EXT_23 = ~z~Be careful, there's patrols everywhere.
+
+SEN1_EXT_24 = ~z~What about you?
+
+SEN1_EXT_25 = ~z~I'm gonna see what's worth taking here.
+
+SEN1_EXT_26 = ~z~I'll meet you back there as soon as I can.
+
+SEN1_EXT_27 = ~z~Alright.
+
+SEN1_EXT_28 = ~z~Okay, come on.
+
+SEN1_EXT_29 = ~z~Have I got stories for you...
+
+SEN1_EXT_30 = ~z~Yeah... I can't wait.
+
+SEN1_EXT_31 = ~z~I imagine you all missed me a lot...
+
+SEN1_EXT_32 = ~z~but fear not, the joy's back in your lives now.
+
+SEN1_EXT_LIB_1 = ~z~
+
+SEN1_EXT_LID_1 = ~z~~sl:0.0:0.7:1~Arthur.
+
+SEN1_EXT_LID_2 = ~z~
+
+SEN1_FIGHT_01 = ~z~We're gonna have to shoot our way up there.
+
+SEN1_FIGHT_02 = ~z~Come on, we need to get past these sons of bitches.
+
+SEN1_FLEEING_1 = ~z~Look, they're running away.
+
+SEN1_FORWARD_01 = ~z~Let's go!
+
+SEN1_FORWARD_02 = ~z~Vamos!
+
+SEN1_FORWARD_03 = ~z~Move up!
+
+SEN1_FORWARD_04 = ~z~Move, Arthur!
+
+SEN1_FORWARD_05 = ~z~Let's push up!
+
+SEN1_FORWARD_06 = ~z~Push up on 'em!
+
+SEN1_FORWARD_07 = ~z~Come on, let's move.
+
+SEN1_FORWARD_08 = ~z~Get up there!
+
+SEN1_GETBACKUP_01 = ~z~Hey, stay up here.
+
+SEN1_GETBACKUP_02 = ~z~I think we should keep a little distance from the water, don't you?
+
+SEN1_GETBACKUP_03 = ~z~Let's stay up top, Arthur.
+
+SEN1_GETBACKUP_04 = ~z~We'll be able to see much more from up here, dear boy.
+
+SEN1_GETBACKUP_05 = ~z~Don't go down there! My Lord, the unsubtlety.
+
+SEN1_GETBINO_01 = ~z~Get your binoculars out, let's see what we're dealing with here.
+
+SEN1_GETBINO_02 = ~z~Alright, let's take a closer look. Binoculars, gentlemen.
+
+SEN1_GETLOW_01 = ~z~Stay out of sight.
+
+SEN1_GETLOW_02 = ~z~Duck down.
+
+SEN1_GETLOW_03 = ~z~Get low, Arthur.
+
+SEN1_GETSEAN_1 = ~z~Okay... let's get Sean.
+
+SEN1_HOLDUP_01 = ~z~Wait here, he's still reeling 'em in...
+
+SEN1_HOLDUP_02 = ~z~Hold up, he's doing his thing.
+
+SEN1_HORSES_01 = ~z~More coming in on horses!
+
+SEN1_HORSES_02 = ~z~Look out, two on horses!
+
+SEN1_IG1_WALK_1 = ~z~You know, Arthur... the government or people whom the government like, seem to be very angry.
+
+SEN1_IG1_WALK_2 = ~z~~sl:0.6:0.0~Sure, well... we'll rescue Sean and then we'll get ourselves lost, good and proper. It's a big country.
+
+SEN1_IG1_WALK_3 = ~z~I hope so...
+
+SEN1_IG3_BEAT_1 = ~z~That all you got? Is it?
+
+SEN1_IG3_BEAT_2 = ~z~
+
+SEN1_IG3_BEAT_3 = ~z~~sl:0.0:1.0:1~Fuckers.
+
+SEN1_IG3_GETUP_1 = ~z~Come on, get up. Time to go, sunshine.
+
+SEN1_IG3_GETUP_2 = ~z~~sl:3.6~Ah, go to hell.
+
+SEN1_IG3_GETUP_3 = ~z~Let's get going. Move, boy.
+
+SEN1_IG3_GETUP_4 = ~z~~sl:0.4~Get your filthy, stinking hands off me, you godforsaken maggots.
+
+SEN1_IG3_GETUP_5 = ~z~Get up, get up.
+
+SEN1_IG3_OFFBT_1 = ~z~Get outta here, you son of a bitch.
+
+SEN1_IG3_OFFBT_2 = ~z~
+
+SEN1_IG3_OFFBT_3 = ~z~~sl:0.0:0.5:1~Move!
+
+SEN1_IG3_OFFBT_4 = ~z~Come on.
+
+SEN1_IG3_OFFBT_5 = ~z~Get over there.
+
+SEN1_IG3_OFFBT_6 = ~z~
+
+SEN1_IG6_B_1 = ~z~What's the problem?
+
+SEN1_IG6_B_2 = ~z~Where is she?
+
+SEN1_IG6_B_3 = ~z~Oh, calm down, mister.
+
+SEN1_IG6_P2_1 = ~z~
+
+SEN1_IG6_P2_2 = ~z~
+
+SEN1_IG6_P2_3 = ~z~
+
+SEN1_IG6_P2_4 = ~z~
+
+SEN1_IG8_1 = ~z~
+
+SEN1_IG8_2 = ~z~
+
+SEN1_INT_1 = ~z~Hey.
+
+SEN1_INT_2 = ~z~Hey.
+
+SEN1_INT_3 = ~z~Where is that little Irish bastard?
+
+SEN1_INT_4 = ~z~I'm not quite sure.
+
+SEN1_INT_5 = ~z~Trelawny's off trying to find out.
+
+SEN1_INT_6 = ~z~Has anyone been into Blackwater to see how things lie?
+
+SEN1_INT_7 = ~z~Place is crawling with Pinkertons...
+
+SEN1_INT_8 = ~z~bounty hunters...
+
+SEN1_INT_9 = ~z~pictures of Dutch and Hosea.
+
+SEN1_INT_10 = ~z~We got a lot of money sitting in that town.
+
+SEN1_INT_11 = ~z~And that's where it's gonna remain, for now.
+
+SEN1_INT_12 = ~z~Why haven't they hanged Sean, I wonder?
+
+SEN1_INT_13 = ~z~I think he's bait...
+
+SEN1_INT_14 = ~z~or they want to trial him publicly.
+
+SEN1_INT_15 = ~z~Gentlemen.
+
+SEN1_INT_16 = ~z~Sean is being moved up the Upper Montana...
+
+SEN1_INT_17 = ~z~then to a federal prison out west.
+
+SEN1_INT_18 = ~z~Damn.
+
+SEN1_INT_19 = ~z~Well, we can't be rescuing people from some federal prison.
+
+SEN1_INT_20 = ~z~We either rescue him now or...
+
+SEN1_INT_21 = ~z~cut him loose.
+
+SEN1_INT_22 = ~z~We're not cutting anyone loose.
+
+SEN1_INT_23 = ~z~Of course not.
+
+SEN1_INT_24 = ~z~Ike Skelding's boys are moving him to a camp nearby...
+
+SEN1_INT_25 = ~z~before handing him over to the government.
+
+SEN1_INT_26 = ~z~So, I guess...
+
+SEN1_INT_27 = ~z~we need to stop them before they get to camp.
+
+SEN1_INT_28 = ~z~Charles, why don't you head up on the north side...
+
+SEN1_INT_29 = ~z~and then we'll head up on the other side of the valley and meet you...
+
+SEN1_INT_30 = ~z~that way we have them either direction.
+
+SEN1_INT_31 = ~z~Javier, Josiah, come on.
+
+SEN1_INT_32 = ~z~Let's go see.
+
+SEN1_INT_LI_1 = ~z~Hey.
+
+SEN1_INT_LI_2 = ~z~Hey.
+
+SEN1_JAVLCHAR1_1 = ~z~Charles, you take the right, I'll go left.
+
+SEN1_JAVLCHAR1_2 = ~z~Okay.
+
+SEN1_JAVLCHAR2_1 = ~z~I'll take the left side, Charles. You go right, okay?
+
+SEN1_JAVLCHAR2_2 = ~z~I guess.
+
+SEN1_JAVPUSHFD_01 = ~z~Let's push forward.
+
+SEN1_JAVPUSHFD_02 = ~z~Move up, come on.
+
+SEN1_JAVTOWER_01 = ~z~Look out! We got one shooting from the tower.
+
+SEN1_JAVTOWER_02 = ~z~On top of the tower, who's got a shot on him?
+
+SEN1_MAKEMOVE_01 = ~z~Let's go now... keep down.
+
+SEN1_MAKEMOVE_02 = ~z~Okay, come on, stay low.
+
+SEN1_MEETCHAR_1 = ~z~Here's Charles.
+
+SEN1_MEETCHAR_2 = ~z~All good?
+
+SEN1_MEETCHAR_3 = ~z~Wouldn't go that far.
+
+SEN1_MEETCHAR_4 = ~z~Their camp's up this way, come on.
+
+SEN1_MOUNT_DWD_01 = ~z~Mount up then, dear boy.
+
+SEN1_MOUNT_DWD_02 = ~z~Come on, we don't want to lose them.
+
+SEN1_MOUNT_DWD_03 = ~z~What's the holdup here, Arthur? Let's go.
+
+SEN1_MOVEDOWN_1 = ~z~Let's go.
+
+SEN1_MOVEDOWN_2 = ~z~What about the other two down there?
+
+SEN1_MOVEDOWN_3 = ~z~I've got an idea, follow me.
+
+SEN1_MOVE_01 = ~z~Okay... let's move down. Don't cross until he's got their attention.
+
+SEN1_MOVE_02 = ~z~Let's get in the river... wait until he's got 'em off guard before crossing.
+
+SEN1_NEARSEAN_01 = ~z~Fancy seeing you here.
+
+SEN1_NEARSEAN_02 = ~z~I suppose I'll be owing you for this one.
+
+SEN1_NEARSEAN_03 = ~z~Takes an army of bounty hunters to bring in Sean Macguire.
+
+SEN1_NEARSEAN_04 = ~z~You're making heavy work of this, ain't you?
+
+SEN1_NEXTCOVER_1 = ~z~Goddamn army of these bastards. How much is Sean's bounty?
+
+SEN1_NEXTCOVER_2 = ~z~Maybe we should turn him in ourselves.
+
+SEN1_NEXTCOVER_3 = ~z~Still time.
+
+SEN1_OFFROUTE1_01 = ~z~Arthur, let's stick to the cliff edge so we can keep eyes on the river.
+
+SEN1_OFFROUTE1_02 = ~z~Where are you going? Let's stay on the cliff path.
+
+SEN1_OFFROUTE1_03 = ~z~We shouldn't drift too far inland, Arthur.
+
+SEN1_PATHFIGHT_01 = ~z~Two more, look out!
+
+SEN1_PATHFIGHT_02 = ~z~Hey, watch out for these two!
+
+SEN1_PINKERTONS_1 = ~z~Keep your eyes open for Pinkertons. They've got patrols out all over this area.
+
+SEN1_PINKERTONS_2 = ~z~Yes, south of the river West Elizabeth isn't a very welcoming place right now.
+
+SEN1_PNK_PATROL_1 = ~z~See them on the left there? Pinkertons.
+
+SEN1_PNK_PATROL_2 = ~z~Just stay calm and don't draw attention to us.
+
+SEN1_PNK_PATROL_3 = ~z~I can't believe we're back down here.
+
+SEN1_PREMISSN_1 = ~z~How many?
+
+SEN1_PREMISSN_2 = ~z~A lot. Uniforms everywhere.
+
+SEN1_PREMISSN_3 = ~z~You see Sean?
+
+SEN1_PREMISSN_4 = ~z~No, I don't think so.
+
+SEN1_PREMISSN_5 = ~z~Damn it. Where's Trelawny?
+
+SEN1_PREMISSN_6 = ~z~Who knows?
+
+SEN1_PREMISSN_7 = ~z~Just... keep your eyes open.
+
+SEN1_PREMISSN_8 = ~z~I am.
+
+SEN1_QUIETLY_1 = ~z~Quietly...
+
+SEN1_REACT_01 = ~z~Jesus!
+
+SEN1_REACT_02 = ~z~Bloody hell!
+
+SEN1_REACT_03 = ~z~Bastards!
+
+SEN1_REACT_04 = ~z~Hey!
+
+SEN1_REACT_05 = ~z~I'll kill you!
+
+SEN1_REACT_06 = ~z~Goddamnit!
+
+SEN1_REMIND_01 = ~z~You might want to take a look at this...
+
+SEN1_REMIND_02 = ~z~I think it's him... hard to tell with that bag over his head.
+
+SEN1_REMIND_03 = ~z~Are you seeing this, Arthur?
+
+SEN1_RIVER_01 = ~z~Hey, hey, hey. Don't cross until he has them distracted.
+
+SEN1_SETCHATSHOUTED_7 = ~z~Oh ~rp~it must be wonderful to have such trust in one's parents.
+
+SEN1_SETCHATSPOKEN_7 = ~z~~sl:0.6~Oh ~rp~it must be wonderful to have such trust in one's parents.
+
+SEN1_SETCHAT_1 = ~z~It's definitely as bad as we feared in there, Arthur.
+
+SEN1_SETCHAT_2 = ~z~I keep hearing about this woman, Heidi McCourt...
+
+SEN1_SETCHAT_3 = ~z~some young mother they're saying Dutch murdered on the boat?
+
+SEN1_SETCHAT_4 = ~z~I don't know about that...~rp~ I wasn't there... bad day.
+
+SEN1_SETCHAT_5 = ~z~And no money, yet, it seems. ~rp~I hope you know where that is, at least.
+
+SEN1_SETCHAT_6 = ~z~Dutch and Hosea say they do.~rp~ But it's trapped in the town.
+
+SEN1_SETCHAT_8 = ~z~Mine would have sold me for a hogshead of ale... ~rp~in fact I think they tried.
+
+SEN1_SETOFF_01 = ~z~Follow me. Let's see if we can track down this boat.
+
+SEN1_SETOFF_02 = ~z~Let's head up river and find this boat.
+
+SEN1_SHOOT_1 = ~z~Goddamnit, Arthur!
+
+SEN1_SHOOT_DAWD_01 = ~z~Shoot 'em, Arthur!
+
+SEN1_SHOOT_DAWD_02 = ~z~What are you waiting for? Shoot!
+
+SEN1_SHOOT_DAWD_03 = ~z~You gonna help me out here?
+
+SEN1_SHORED_01 = ~z~Hey, they've pulled into shore.
+
+SEN1_SHORED_02 = ~z~Look, they've stopped.
+
+SEN1_SHORE_01 = ~z~Hey, they're stopping.
+
+SEN1_SHORE_02 = ~z~Look, they're pulling into shore.
+
+SEN1_SPEEDUP2_01 = ~z~Push up, come on.
+
+SEN1_SPEEDUP2_02 = ~z~Pick up the pace a bit.
+
+SEN1_SPEEDUP_01 = ~z~Let's go, stay with them.
+
+SEN1_SPEEDUP_02 = ~z~Come on, let's keep them in sight.
+
+SEN1_SPOTBOATA_01 = ~z~There, look. I think that's our boat.
+
+SEN1_SPOTBOATA_02 = ~z~Down there, reckon those might be our boys.
+
+SEN1_SPOTBOAT_01 = ~z~There, look. ~rp~I think that's our boat.
+
+SEN1_SPOTBOAT_02 = ~z~Alright, ~rp~I think those might be our boys.
+
+SEN1_SPOTCHAR_01 = ~z~I see Charles up there.
+
+SEN1_SPOTCHAR_02 = ~z~There's Charles!
+
+SEN1_SPOTSMORE_01 = ~z~We got more coming down the hill!
+
+SEN1_SPOTSMORE_02 = ~z~I don't believe it... there's more of 'em!
+
+SEN1_STEALTH1_01 = ~z~Crouch down out of sight... take out your knife.
+
+SEN1_STEALTH1_02 = ~z~Get your knife ready... keep your head down.
+
+SEN1_STEALTH2_1 = ~z~You take the one on the left.
+
+SEN1_STEALTH_1 = ~z~We should do this quietly if we can.
+
+SEN1_STEALTH_2 = ~z~Leave it to me, gentlemen.
+
+SEN1_STEALTH_3 = ~z~I'll go around and create a distraction, then you two sneak across and do the dirty on them.
+
+SEN1_STEALTH_4 = ~z~Okay...
+
+SEN1_TAKEDOWN_01 = ~z~Take 'em down!
+
+SEN1_TAKEDOWN_02 = ~z~Let's take these hijos de putas!
+
+SEN1_TRACBOAT_01 = ~z~We'll follow them, nice and easy. ~rp~Let's make sure it's him first before you go starting another war.
+
+SEN1_TRACBOAT_02 = ~z~Keep your guns away until we know it's Sean, okay? ~rp~I know what you two are like.
+
+SEN1_TRACCHAT2_1 = ~z~You alright, Javier? ~rp~You're quiet...
+
+SEN1_TRACCHAT2_2 = ~z~He hasn't stopped talking since we left you in Valentine.
+
+SEN1_TRACCHAT2_3 = ~z~It's the longest ride of my life.
+
+SEN1_TRACCHAT2_4 = ~z~Cute, dear boy,~rp~ very cute...
+
+SEN1_TRACCHAT3SHOUTED_1 = ~z~~sl:0.0:2.6~Apparently, there's a camp somewhere around here~sl:~where the bounty hunters meet
+
+SEN1_TRACCHAT3SHOUTED_2 = ~z~~sl:0.0:3.0~and transfer before continuing out west.~sl:0.3~I imagine that's where they're headed...
+
+SEN1_TRACCHAT3SPOKEN_1 = ~z~~sl:0.0:2.8~Apparently, there's a camp somewhere around here~sl:~where the bounty hunters meet
+
+SEN1_TRACCHAT3SPOKEN_2 = ~z~~sl:0.0:3.0~and transfer before continuing out west.~sl:0.5~I imagine that's where they're headed...
+
+SEN1_TRACCHATSHOUTED_12 = ~z~~sl:1.0~Maybe. ~rp~Anyway, we should keep it down.
+
+SEN1_TRACCHATSPOKEN_12 = ~z~Maybe. ~rp~Anyway, we should keep it down.
+
+SEN1_TRACCHAT_1 = ~z~You think they can see us?
+
+SEN1_TRACCHAT_2 = ~z~If they can, ~rp~we're just three fellers out on the trail. ~rp~Act natural, we'll be fine.
+
+SEN1_TRACCHAT_3 = ~z~So you've been gone for a while?
+
+SEN1_TRACCHAT_4 = ~z~Much as I love dodging the law and sleeping in the dirt with you derelicts, ~rp~I do have other business to attend to.
+
+SEN1_TRACCHAT_5 = ~z~What happened to New York?
+
+SEN1_TRACCHAT_6 = ~z~You know how life is,~rp~ never a straight road anywhere.
+
+SEN1_TRACCHAT_7 = ~z~Especially with you.
+
+SEN1_TRACCHAT_8 = ~z~Nice to know I'm missed, though.
+
+SEN1_TRACCHAT_9 = ~z~Have you run out of people to rob?
+
+SEN1_TRACCHAT_10 = ~z~Oh,~rp~ we'll never run out of people to rob.
+
+SEN1_TRACCHAT_11 = ~z~But without me you'll not find the caliber of victim that I find.
+
+SEN1_TRACCHAT_13 = ~z~Indeed...
+
+SEN1_TRELBOAT_1 = ~z~Alright, gentlemen. ~rp~Follow me.
+
+SEN1_TRELRIDE_1 = ~z~A pleasure as always, gentlemen. I think you have it from here.
+
+SEN1_UPCANYON_01 = ~z~Okay, let's get after 'em.
+
+SEN1_UPCANYON_02 = ~z~Come on. Let's get up there.
+
+SEN1_UPHILL_01 = ~z~Up there, on the cliff!
+
+SEN1_UPHILL_02 = ~z~Another one on the cliff, you see him?
+
+SEN1_WAITART_01 = ~z~Quick, Arthur, before any more show up.
+
+SEN1_WAITART_02 = ~z~Come on! Let's get Sean and get outta here!
+
+SEN1_WAITART_03 = ~z~What are you doing, Arthur?
+
+SEN1_WAIT_01 = ~z~Wait...
+
+SEN1_WAIT_02 = ~z~Stay here...
+
+SEN1_WRONGWAY_01 = ~z~Arthur, stick to the cliff edge so we can keep eyes on the river.
+
+SEN1_WRONGWAY_02 = ~z~Where are you going? Let's stay on the cliff path.
+
+SEN1_WRONGWAY_03 = ~z~We shouldn't drift too far inland, Arthur.
+

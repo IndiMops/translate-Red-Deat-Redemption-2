@@ -1,0 +1,104 @@
+0x5ACA4A1A = Поезд
+
+0x21AE9ED2 = Использовать детонатор
+
+0x1425C30F = Взять
+
+0xC1B2C720 = Джон
+
+0xDDE90126 = Нажать
+
+0xE1E16D7A = Нажмите ~INPUT_MINIGAME_RIGHT_TRIGGER~, чтобы нажать на детонатор.
+
+0xF843190C = Джон
+
+0xFFF1086B = Дрезина уничтожена.
+
+TRN3_BB_OBJ2 = Разместите остальной ~o~динамит~s~.
+
+TRN3_B_BRIDG = Мост
+
+TRN3_B_CART = Дрезина
+
+TRN3_B_CRATE = Ящик с динамитом
+
+TRN3_B_DET = Детонатор
+
+TRN3_B_DYN = Динамит
+
+TRN3_B_PILL = Опоры
+
+TRN3_C_DET = Взорвать
+
+TRN3_C_TBUND = Взять
+
+TRN3_EB_OBJ1 = Используйте ~o~детонатор~s~.
+
+TRN3_ET_OBJ1 = Уйдите от приближающегося ~e~поезда~s~.
+
+TRN3_FAIL_BRG = Вы покинули мост.
+
+TRN3_FL_DET = Вы оставили детонатор.
+
+TRN3_FL_DYN = Динамит уничтожен.
+
+TRN3_FL_JOHND = Джон погиб.
+
+TRN3_FL_WAG = Повозка сильно повреждена.
+
+TRN3_GTB_OBJ1 = Двигайте дрезину.
+
+TRN3_GTB_OBJ2 = Возьмите первый ~o~ящик с динамитом~s~.
+
+TRN3_GTB_OBJ2A = Возьмите второй ~o~ящик с динамитом~s~.
+
+TRN3_GTB_OBJ3 = Опустите ящик с края ~o~моста~s~.
+
+TRN3_GTB_OBJ4 = Спуститесь по ~o~лестнице~s~.
+
+TRN3_G_CRATE = Ящик
+
+TRN3_G_DYNAM = Динамит
+
+TRN3_HELP3 = Удерживайте ~INPUT_VEH_ACCELERATE~, пока Артур толкает рычаг дрезины вниз. Отпускайте кнопку при поднятии рычага. Дрезина будет терять скорость, если отпускать кнопку не вовремя.
+
+TRN3_H_GRAB = Нажмите ~INPUT_MINIGAME_LEFT_TRIGGER~ и ~INPUT_MINIGAME_RIGHT_TRIGGER~, чтобы столкнуть ящик.
+
+TRN3_H_START = Удерживайте по очереди ~INPUT_MINIGAME_LEFT_TRIGGER~ и ~INPUT_MINIGAME_RIGHT_TRIGGER~, чтобы медленно опустить ящик.
+
+TRN3_JOHN = Джон Марстон
+
+TRN3_O_FOLLOW = Следуйте за ~o~Джоном~s~.
+
+TRN3_PD_OBJ0 = Спуститесь вниз и возьмите ~o~динамит~s~.
+
+TRN3_PD_OBJ1 = Заложите динамит на ~o~опорах~s~.
+
+TRN3_PD_PICK = Возьмите ~o~динамит~s~.
+
+TRN3_PLANT = Заложить
+
+TRN3_RTC_OBJ1 = Вернитесь к ~o~дрезине~s~.
+
+TRN3_R_BRIDGE = Вернитесь к ~o~мосту~s~.
+
+TRN3_R_DET = Вернитесь к ~o~детонатору~s~.
+
+TRN3_T_HOLD_LT = Удерживайте ~INPUT_MINIGAME_LEFT_TRIGGER~.
+
+TRN3_T_HOLD_RT = Удерживайте ~INPUT_MINIGAME_LEFT_TRIGGER~.
+
+TRN3_T_RELEASE = Отпустите ~INPUT_MINIGAME_LEFT_TRIGGER~ и ~INPUT_MINIGAME_RIGHT_TRIGGER~.
+
+TRN3_T_START = Удерживайте ~INPUT_MINIGAME_LEFT_TRIGGER~ и ~INPUT_MINIGAME_RIGHT_TRIGGER~.
+
+TRN3_UC_CRATE = Взять
+
+TRN3_UC_GRIPL = Схватить левой рукой
+
+TRN3_UC_GRIPR = Схватить правой рукой
+
+TRN3_UC_LOWCR = Опустить
+
+TRN3_UC_USE = Использовать
+

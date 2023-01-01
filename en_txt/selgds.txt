@@ -1,0 +1,118 @@
+0x854CA5AF = Goods destroyed
+
+FETCH_CAMP_SELL_SCORETIMER_DESTROY = The wagon has been destroyed
+
+FETCH_CAMP_SELL_SCORETIMER_DESTROY_YOU = You destroyed the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+FETCH_CTX_TURN_IN_SELL_GOODS_STATIONARY = Turn in goods
+
+FETCH_MAIL_SELL_GOODS_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Rival Traders~s~ can now steal the goods
+
+FETCH_MAIL_SELL_GOODS_PVP_GLOBAL_SIGNAL_PLURAL = ~COLOR_ENEMY~Rival Traders~s~ can now steal the goods
+
+FETCH_OBJ_DEFEND_SELL_GOODS_PACKAGE = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~goods~s~ on the way ~1~
+
+FETCH_OBJ_DEFEND_SELL_GOODS_PACKAGE_PLURAL = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~goods~s~ on the way ~1~
+
+FETCH_OBJ_DROP_SELL_GOODS_PACKAGE = Drop the ~COLOR_MP_OBJECTIVE_NEUTRAL~goods~s~
+
+FETCH_OBJ_RETURN_SELL_GOODS_PACKAGE = Deliver the goods ~1~
+
+FETCH_OBJ_RETURN_SELL_GOODS_PACKAGE_SECONDARY = Deliver the goods ~1~
+
+FETCH_OBJ_STEAL_SELL_GOODS_PACKAGE = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~goods~s~
+
+FETCH_OBJ_STEAL_SELL_GOODS_PACKAGE_FROM_POSSE = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~goods~s~ from ~COLOR_ENEMY~~1~~s~
+
+FETCH_OBJ_STEAL_SELL_GOODS_PACKAGE_FROM_POSSE_PLURAL = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~goods~s~ from ~COLOR_ENEMY~~1~~s~
+
+FETCH_OBJ_STEAL_SELL_GOODS_PACKAGE_FROM_POSSE_PVP = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~goods~s~ from ~COLOR_ENEMY~~1~~s~
+
+FETCH_OBJ_STEAL_SELL_GOODS_PACKAGE_FROM_POSSE_PVP_PLURAL = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~goods~s~ from ~COLOR_ENEMY~~1~~s~
+
+FETCH_OBJ_STEAL_SELL_GOODS_PACKAGE_PLURAL = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~goods~s~
+
+FETCH_OBJ_STEAL_SELL_GOODS_WAGON = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+FETCH_OBJ_STEAL_SELL_GOODS_WAGON_PLURAL = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+FETCH_PACKAGE_SELL_GOODS_DELIVER_TEAM_PRIMARY_FAIL = ~1~ stole some goods
+
+FETCH_PACKAGE_SELL_GOODS_DELIVER_TEAM_PRIMARY_FAIL_NP = Some goods have been stolen
+
+FETCH_PACKAGE_SELL_GOODS_DELIVER_TEAM_PRIMARY_FAIL_YOU = You stole some goods
+
+FETCH_PACKAGE_SELL_GOODS_DELIVER_TEAM_PRIMARY_FAIL_YOUR = Your Posse stole some goods
+
+FETCH_PACKAGE_SELL_GOODS_DELIVER_TEAM_PRIMARY_PASS = ~1~ sold the goods
+
+FETCH_PACKAGE_SELL_GOODS_DELIVER_TEAM_PRIMARY_PASS_NP = A bag of goods has been delivered
+
+FETCH_PACKAGE_SELL_GOODS_DELIVER_TEAM_PRIMARY_PASS_YOU = You delivered some goods
+
+FETCH_PACKAGE_SELL_GOODS_DELIVER_TEAM_PRIMARY_PASS_YOUR = Your Posse delivered some goods
+
+FETCH_PACKAGE_SELL_GOODS_JOIN_TEAM_SECONDARY = ~COLOR_ENEMY~~1~~s~ are trying to steal your goods
+
+FETCH_PACKAGE_SELL_GOODS_JOIN_TEAM_SECONDARY_PLURAL = ~COLOR_ENEMY~~1~~s~ are trying to steal your goods
+
+FETCH_SELL_GOODS_BUYER_KILLED = The buyers were killed
+
+FETCH_SELL_GOODS_HELP_HOLSTER = Holster weapons and equipment before speaking with the buyer.
+
+FETCH_SELL_GOODS_MAIL_MULTI_HELP_INTRO = Deliver your goods to make the sale. If the Delivery Wagon ~1b~ is destroyed, you can still deliver some of the goods.
+
+FETCH_SELL_GOODS_MAIL_MULTI_HELP_INTRO_PLURAL = Deliver your goods to make the sale. If the Delivery Wagon ~1b~ is destroyed, you can still deliver some of the goods.
+
+FETCH_SELL_GOODS_MAIL_MULTI_HELP_INTRO_SECONDARY = ~1~ triggered a rival mission against ~2~. Steal and turn in the goods ~3b~ to gain the full reward.
+
+FETCH_SELL_GOODS_MAIL_MULTI_HELP_INTRO_SECONDARY_PLURAL = ~1~ triggered a rival mission against ~2~. Steal and turn in the goods ~3b~ to gain the full reward.
+
+FETCH_SELL_GOODS_MAIL_MULTI_HELP_INTRO_SECONDARY_PLURAL_YOU = You triggered a rival mission against ~1~. Steal and turn in the goods ~2b~ to gain the full reward.
+
+FETCH_SELL_GOODS_MAIL_MULTI_HELP_INTRO_SECONDARY_YOU = You triggered a rival mission against ~1~. Steal and turn in the goods ~2b~ to gain the full reward.
+
+FETCH_SELL_GOODS_OBJ_KILL_ATTACKERS_BANDITS = Take out the ~COLOR_ENEMY~bandits~s~
+
+FETCH_SELL_GOODS_ONE_SUPPLIES_HELP = You can only carry one bag of goods at a time.
+
+FETCH_SELL_GOODS_PROTECT_FRIENDLY = Protect the buyers ~1b~ from the bandits.
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_DESC_PRIMARY = Sell the ~COLOR_MP_OBJECTIVE_NEUTRAL~goods~s~
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_DESC_PRIMARY_PLURAL = Sell the ~COLOR_MP_OBJECTIVE_NEUTRAL~goods~s~
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_DESC_SECONDARY = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~goods~s~
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_DESC_SECONDARY_PLURAL = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~goods~s~
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_OVER = The goods were destroyed
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_OVER_PLURAL = The goods were destroyed
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_PRIMARY_FAIL = Goods stolen
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_PRIMARY_FAIL_PLURAL = Goods stolen
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_PRIMARY_PASS = The goods were sold
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_PRIMARY_PASS_PARTIAL = ~1~/~2~ goods were sold
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_PRIMARY_PASS_PLURAL = The goods were sold
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_SECONDARY_FAIL = No goods were stolen
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_SECONDARY_FAIL_PLURAL = No goods were stolen
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_SECONDARY_FAIL_RIVALS = Goods stolen by rival Posse
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_SECONDARY_FAIL_RIVALS_PLURAL = Goods stolen by rival Posse
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_SECONDARY_PASS = The goods were stolen
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_SECONDARY_PASS_PARTIAL = ~1~/~2~ goods were stolen
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_SECONDARY_PASS_PLURAL = The goods were stolen
+
+FETCH_SELL_GOODS_WAGON_DESTROYED = The Delivery Wagon has been destroyed and you have lost a portion of the goods. Deliver the remaining goods ~1b~ to recover some of the sale.
+

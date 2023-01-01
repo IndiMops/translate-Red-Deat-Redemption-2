@@ -1,0 +1,28 @@
+CCSSN_ACTION_1 = ~z~Dutch! What is going on?
+
+CCSSN_ACTION_2 = ~z~Going on, Miss?
+
+CCSSN_ACTION_3 = ~z~With you, you're not yourself, somehow!
+
+CCSSN_ACTION_4 = ~z~Then who am i?
+
+CCSSN_ACTION_5 = ~z~I have no idea... who are you?
+
+CCSSN_ACTION_6 = ~z~Who are you? To question me, I mean...
+
+CCSSN_ACTION_7 = ~z~I have always been loyal, Dutch.
+
+CCSSN_ACTION_8 = ~z~And I shall go on being loyal, but what are we doing here?
+
+CCSSN_ACTION_9 = ~z~We need to move and keep moving!
+
+CCSSN_ACTION_10 = ~z~We need... we need money, you dumb fool!
+
+CCSSN_ACTION_11 = ~z~Money, or we are dead!
+
+CCSSN_ACTION_12 = ~z~We are all dead!
+
+CCSSN_ACTION_13 = ~z~I am doing the best I can...
+
+CCSSN_ACTION_14 = ~z~Fool!
+

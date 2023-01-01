@@ -1,0 +1,1144 @@
+NTV1_A2_CLUE_01 = ~z~There's some whiskey here.
+
+NTV1_A2_CLUE_02 = ~z~Sure looks like they was doing some drinking.
+
+NTV1_A2_CLUE_03 = ~z~Whiskey... bastards were having a party up here.
+
+NTV1_AL_CLUE_1 = ~z~~sl:0.6~There's some logs here they must have used as kindling.
+
+NTV1_ASHRI_01_1 = ~z~Help me look around, please. The Chanupa is gone.
+
+NTV1_ASHRI_01_2 = ~z~Of course... what is it?
+
+NTV1_ASHRI_01_3 = ~z~A ceremonial pipe... there must be some clue as to what happened here.
+
+NTV1_A_CLUE_01 = ~z~Hey... I found something.
+
+NTV1_A_CLUE_02 = ~z~There's something over here...
+
+NTV1_A_CLUE_03 = ~z~Come, take a look at this.
+
+NTV1_BANDANASHOUTED_2 = ~z~You'd be surprised. Got a lot of folks looking for me right now.
+
+NTV1_BANDANASPOKEN_2 = ~z~~sl:0.4~You'd be surprised. Got a lot of folks looking for me right now.
+
+NTV1_BANDANA_1 = ~z~I don't think you need your face covered out here, Mr Morgan.
+
+NTV1_BANDANA_3 = ~z~As you wish.
+
+NTV1_CHOICE_01 = ~z~I'm sorry to be forward, but there's so much to be done.
+
+NTV1_CHOICE_02 = ~z~Any assistance would be much appreciated, Mr. Morgan.
+
+NTV1_CHOICE_03 = ~z~Even just a couple of hours of your time.
+
+NTV1_CHOICE_F2_1 = ~z~Sorry, that was unfair of me. Please forget I asked.
+
+NTV1_CHOICE_FSHOUTED_1 = ~z~~sl:0.0:2.8~Sorry, this ain't a good time for me.~lr:~I already got more problems than I can handle.
+
+NTV1_CHOICE_FSHOUTED_2 = ~z~~sl:0.0:3.2~Of course, err, ~rp~not to worry.~lr:1.0~I shouldn't have put you on the spot like that.
+
+NTV1_CHOICE_FSPOKEN_1 = ~z~~sl:0.0:2.4~Sorry, this ain't a good time for me.~lr:0.2~I already got more problems than I can handle.
+
+NTV1_CHOICE_FSPOKEN_2 = ~z~~sl:0.0:3.4~Of course, err... ~rp~not to worry.~lr:0.9~I shouldn't have put you on the spot like that.
+
+NTV1_CHOICE_S2_1 = ~z~So, should I take this as a “yes”?
+
+NTV1_CHOICE_S_1 = ~z~Sure, I can help.
+
+NTV1_CHOICE_S_2 = ~z~That's good news. Thank you.
+
+NTV1_CHOICE_S_3 = ~z~Come meet me on the reservation whenever you can.
+
+NTV1_CLIFF_1 = ~z~Be careful. ~rp~There are some steep turns up ahead.
+
+NTV1_CLIFF_2 = ~z~But the views are beautiful from up here.
+
+NTV1_CLUE_FAR_01 = ~z~This is a place of peace.
+
+NTV1_CLUE_FAR_02 = ~z~Okay, let's continue on.
+
+NTV1_CLUE_FAR_03 = ~z~~sl:0.0:0.8~Okay.~sl:1.8~Let me give this some more thought. Thank you, Mr. Morgan.
+
+NTV1_CLUE_FAR_04 = ~z~I see no end to any of this.
+
+NTV1_E1_ALERT_01 = ~z~Who's there?
+
+NTV1_E1_ALERT_02 = ~z~I think I saw someone.
+
+NTV1_E1_ALERT_03 = ~z~Something over here.
+
+NTV1_E1_CURIOUS_01 = ~z~What's that?
+
+NTV1_E1_CURIOUS_02 = ~z~Hey, I heard something.
+
+NTV1_E1_CURIOUS_03 = ~z~Huh?
+
+NTV1_E1_DEAD_1 = ~z~Hellfire! We gotta track down this maniac.
+
+NTV1_E1_LOST_01 = ~z~Guess it was nothing.
+
+NTV1_E1_LOST_02 = ~z~Must be imagining things.
+
+NTV1_E1_LOST_03 = ~z~False alarm. Nothing here.
+
+NTV1_EXT_1 = ~z~Here, I, uh...
+
+NTV1_EXT_2 = ~z~I got your things, I think.
+
+NTV1_EXT_3 = ~z~Yes...
+
+NTV1_EXT_4 = ~z~thank you.
+
+NTV1_EXT_5 = ~z~I'm very sorry about this.
+
+NTV1_EXT_6 = ~z~Even sacred things...
+
+NTV1_EXT_7 = ~z~are only things.
+
+NTV1_EXT_8 = ~z~People...
+
+NTV1_EXT_9 = ~z~the heart...
+
+NTV1_EXT_10 = ~z~matter more.
+
+NTV1_EXT_11 = ~z~Was anyone hurt?
+
+NTV1_EXT_12 = ~z~Yes.
+
+NTV1_EXT_13 = ~z~It's a bad business.
+
+NTV1_EXT_14 = ~z~I should not have let you do this for me.
+
+NTV1_EXT_15 = ~z~But perhaps it will stop a bigger massacre.
+
+NTV1_EXT_16 = ~z~With these, maybe I can calm my people.
+
+NTV1_EXT_17 = ~z~Maybe...
+
+NTV1_EXT_18 = ~z~I can calm my son.
+
+NTV1_EXT_19 = ~z~I hope so.
+
+NTV1_EXT_20 = ~z~Thank you.
+
+NTV1_EXT_21 = ~z~Take those herbs I gave you...
+
+NTV1_EXT_22 = ~z~please.
+
+NTV1_EXT_23 = ~z~And most of all...
+
+NTV1_EXT_24 = ~z~was anyone hurt?
+
+NTV1_EXT_25 = ~z~No one was killed.
+
+NTV1_EXT_26 = ~z~Well done...
+
+NTV1_EXT_27 = ~z~well done.
+
+NTV1_EXT_28 = ~z~I wish my son knew such restraint.
+
+NTV1_EXT_29 = ~z~My people owe you a great debt...
+
+NTV1_EXT_30 = ~z~and I'm giving you very little.
+
+NTV1_EXT_31 = ~z~But please, take this.
+
+NTV1_EXT_32 = ~z~We believe it to be...
+
+NTV1_EXT_33 = ~z~sacred.
+
+NTV1_EXT_34 = ~z~Thank you.
+
+NTV1_EXT_35 = ~z~Thank you.
+
+NTV1_EXT_36 = ~z~Take those herbs I gave you...
+
+NTV1_EXT_37 = ~z~please.
+
+NTV1_EXT_38 = ~z~And most of all...
+
+NTV1_EXT_39 = ~z~I hope you can find peace within yourself.
+
+NTV1_EXT_LI_1 = ~z~Here, I...
+
+NTV1_EXT_LI_2 = ~z~I got your things, I-I think.
+
+NTV1_EXT_TL_1 = ~z~He's a man who, not so long ago, I would have found weak and pathetic.
+
+NTV1_EXT_TL_2 = ~z~Now I see as wise and thoughtful and sensible.
+
+NTV1_EXT_TL_3 = ~z~I would love to help him...
+
+NTV1_EXT_TL_4 = ~z~or at least stop Dutch pushing his son to do something real stupid.
+
+NTV1_FOLL_MON_01 = ~z~I have some other business to attend to, Mr. Morgan.
+
+NTV1_FOLL_MON_02 = ~z~Aren't you riding on with Rains Fall?
+
+NTV1_FOLL_MON_03 = ~z~I think the Chief went the other way, sir?
+
+NTV1_HERB_1A_1 = ~z~This is what I was looking for. English Mace.
+
+NTV1_HERB_2A_1 = ~z~This will combine well...
+
+NTV1_HLP_ANIMAL_1 = ~z~What is this you're bringing me? Did you find anything down there?
+
+NTV1_HLP_ANIMAL_2 = ~z~Er, not yet.
+
+NTV1_HLP_ANIMAL_3 = ~z~Please, Mr. Morgan, this is very important.
+
+NTV1_HLP_ANIML2_1 = ~z~What is this you're bringing me? Did you find anything down there?
+
+NTV1_HLP_ANIML2_2 = ~z~I did.
+
+NTV1_HLP_ANIML2_3 = ~z~Well, please, put that poor animal down and show me.
+
+NTV1_HLP_CLUE_01 = ~z~Mr. Morgan!
+
+NTV1_HLP_CLUE_02 = ~z~Over here!
+
+NTV1_HLP_CLUE_03 = ~z~Have a look at this.
+
+NTV1_HLP_CLUE_04 = ~z~Please, come look at this.
+
+NTV1_HLP_CLUE_05 = ~z~I've found something!
+
+NTV1_HLP_DAWD_01 = ~z~Please help me look, Mr. Morgan.
+
+NTV1_HLP_DAWD_02 = ~z~I could really use your help here.
+
+NTV1_HLP_DAWD_03 = ~z~Do you see anything?
+
+NTV1_HLP_DEADP1_1 = ~z~What is this? Did you find anything down there?
+
+NTV1_HLP_DEADP1_2 = ~z~Er, not yet.
+
+NTV1_HLP_DEADP1_3 = ~z~Please, Mr. Morgan, I just want the Chanupa back, not vengeance.
+
+NTV1_HLP_DEADP2_1 = ~z~What is this? I said no bloodshed. Did you find anything down there?
+
+NTV1_HLP_DEADP2_2 = ~z~I did.
+
+NTV1_HLP_DEADP2_3 = ~z~Well, please, put that poor person down and show me.
+
+NTV1_HLP_ITEMS_1 = ~z~Please tell me you found it.
+
+NTV1_HLP_LOIT_01 = ~z~Are you not going down there?
+
+NTV1_HLP_LOIT_02 = ~z~You said you were going to look for the Chanupa?
+
+NTV1_HLP_LOIT_03 = ~z~If you could do this for me, I would very much appreciate it.
+
+NTV1_HLP_NOITEM_01 = ~z~~sl:0.0:0.8~Nothing?~sl:0.7~No, please look again, Mr. Morgan. I beg of you.
+
+NTV1_HLP_NOITEM_02 = ~z~~sl:0.0:2.2~I feared you'd come back empty-handed.~sl:0.8~Would you check again, please?
+
+NTV1_HLP_NOITEM_03 = ~z~~sl:0.0:3.3~I can't go back to my people without the Chanupa.~sl:0.8~It must be down there. Please, Mr. Morgan.
+
+NTV1_HLP_RAINS_01 = ~z~Who would do such a thing?
+
+NTV1_HLP_RAINS_02 = ~z~This is a place of peace.
+
+NTV1_HLP_RAINS_03 = ~z~Animals.
+
+NTV1_HLP_RAINS_04 = ~z~I cannot believe this.
+
+NTV1_HLP_RAINS_05 = ~z~It's ruined.
+
+NTV1_HLP_RAINS_06 = ~z~What reason would they have?
+
+NTV1_HLP_SHOOT_01 = ~z~Why are you shooting? Help me look, please.
+
+NTV1_HLP_SHOOT_02 = ~z~Stop that, please! It isn't helping!
+
+NTV1_HLP_SHOOT_03 = ~z~Why is your first instinct to fire a gun?
+
+NTV1_HORSE_01 = ~z~What's wrong with this horse?
+
+NTV1_HORSE_02 = ~z~What's got this horse spooked, huh?
+
+NTV1_HSTART2_1 = ~z~Alright, let's go. It's not much further now.
+
+NTV1_HSTART_1 = ~z~Okay, let's continue on.
+
+NTV1_IG2_BINOS_1 = ~z~Do you have any binoculars?
+
+NTV1_IG2_CALL1_1 = ~z~There's something here.
+
+NTV1_IG2_CALL2_1 = ~z~More over here!
+
+NTV1_IG2_CALL3_1 = ~z~Quick Mr. Morgan, there's someone down there.
+
+NTV1_IG2_FIND1_1 = ~z~Do you smell that?
+
+NTV1_IG2_FIND1_2 = ~z~~sl:1.0~Whiskey.
+
+NTV1_IG2_FIND1_3 = ~z~~sl:1.5~They probably doused the wood to make it burn faster.
+
+NTV1_IG2_FIND2_1 = ~z~An army flask.
+
+NTV1_IG2_FIND2_2 = ~z~~sl:0.4~Okay...
+
+NTV1_IG2_FIND2_3 = ~z~Might have been here for a while.
+
+NTV1_IG2_FIND3_1 = ~z~Whiskey...
+
+NTV1_IG2_FIND3_2 = ~z~~sl:0.8~Looks empty too.
+
+NTV1_IG2_FIND3_3 = ~z~~sl:6.4~Well, let's keep looking.
+
+NTV1_IG2_FIND4_1 = ~z~An empty bottle of whiskey.
+
+NTV1_IG2_FIND4_2 = ~z~Well, if they drank all that, they couldn't have gotten too far.
+
+NTV1_IG2_FIND4_3 = ~z~Yeah, well... still no sign of the Chanupa.
+
+NTV1_IG4_1 = ~z~So... what happened to Captain Monroe?
+
+NTV1_IG4_2 = ~z~I heard old Favours was trying to get him transferred. Don't like him much.
+
+NTV1_IG4_3 = ~z~He always seemed like a decent enough feller to me.
+
+NTV1_IG4_4 = ~z~Exactly. That's the problem.
+
+NTV1_IG4_5 = ~z~Monroe went to West Point, Favours never made it.
+
+NTV1_IG4_6 = ~z~Yeah... I'm sure.
+
+NTV1_IG4_7 = ~z~Injuns... just seems so silly though.
+
+NTV1_IG4_8 = ~z~~sl:0.0:2.2~I know. Who wants to fight them?~sl:1.5~Who cares?
+
+NTV1_IG4_9 = ~z~~sl:0.0:1.7~My uncle married an Indian anyway.~sl:0.9~She seemed nice enough.
+
+NTV1_IG4_10 = ~z~An Indian?
+
+NTV1_IG4_11 = ~z~~sl:0.0:0.8~Sure looked like one.~sl:1.6~From up near the Canadian border some place.
+
+NTV1_IG4_12 = ~z~~sl:0.6:0.0~Canada? They got Indians in Canada?
+
+NTV1_IG4_13 = ~z~Tons of 'em. And French folk too.
+
+NTV1_IG4_14 = ~z~~sl:0.0:0.8~No...~sl:2.7~is France near Canada, then?
+
+NTV1_IG4_15 = ~z~No... France is near...
+
+NTV1_IG4_16 = ~z~is near France. Well, it's in France. Indians is from here.
+
+NTV1_IG4_17 = ~z~Where you from?
+
+NTV1_IG4_18 = ~z~~sl:0.0:1.7~Me? I'm Polish.~sl:0.5~From Milwaukee.
+
+NTV1_IG4_19 = ~z~
+
+NTV1_IG4_20 = ~z~
+
+NTV1_IG6_CALL_1 = ~z~Rains Fall, over here!
+
+NTV1_IG6_CALL_2 = ~z~I think I see an army camp.
+
+NTV1_IG6_HELP_1 = ~z~~sl:0.0:4.5~Oh... there they are... these... brave men...~sl:1.1:2.0~some of Colonel Favours' men~sl:0.8~They must have been the ones who did this.
+
+NTV1_IG6_HELP_2 = ~z~Are you surprised this happened?
+
+NTV1_IG6_HELP_3 = ~z~Not at all... but... I hoped we were past this.
+
+NTV1_IG6_HELP_4 = ~z~You've got land they want... land with oil.
+
+NTV1_IG6_HELP_5 = ~z~~sl:1.3:4.4~They moved us here. They've taken everything we had.~sl:1.0~I signed three treaties myself, and they've broken each one.
+
+NTV1_IG6_HELP_6 = ~z~~sl:0.0:1.7~Now they've taken the last hope...~sl:4.7:2.3~Now my people are gonna want a war.~sl:2.3~A war they can't win.
+
+NTV1_IG6_HELP_7 = ~z~~sl:2.0~Not if I get it back.
+
+NTV1_IG6_HELP_8 = ~z~Get it back?
+
+NTV1_IG6_HELP_9 = ~z~~sl:0.0:2.0~Yeah, I'm gonna go in, get your Chanupa...~sl:~and no one will be any the wiser.
+
+NTV1_IG6_HELP_10 = ~z~Would you do that?
+
+NTV1_IG6_HELP_11 = ~z~Well you can't go, they'd know why you'd come.
+
+NTV1_IG6_HELP_12 = ~z~~sl:0.0:0.9~I, uh...~sl:2.3~don't have any money...
+
+NTV1_IG6_HELP_13 = ~z~I don't need your money.
+
+NTV1_IG6_HELP_14 = ~z~Please see if they have our sacred items, but try not to hurt anyone.
+
+NTV1_IG6_HELP_15 = ~z~~sl:0.0:2.8~I'll try to ensure that they never even know I'm there, but...~sl:0.8~actions don't always go the way you plan.
+
+NTV1_IG10_1 = ~z~~sl:0.0:1.3~Mix these together.~sl:2.6~They taste awful... but it'll help to keep your strength up.
+
+NTV1_IG10_2 = ~z~Thank you.
+
+NTV1_IG11_1 = ~z~No!
+
+NTV1_IG11_2 = ~z~~sl:0.9~They destroyed everything.
+
+NTV1_IG11_3 = ~z~~sl:0.0:2.1:1~No, I need to find the Chanupa.
+
+NTV1_IG11_4 = ~z~Who... who would do this?
+
+NTV1_IG11_5 = ~z~Someone who wanted to enrage you.
+
+NTV1_INT_1 = ~z~Hello?
+
+NTV1_INT_2 = ~z~Come in.
+
+NTV1_INT_3 = ~z~You don't sound very well.
+
+NTV1_INT_4 = ~z~I'm not, I'm...
+
+NTV1_INT_5 = ~z~I think I'm dying.
+
+NTV1_INT_6 = ~z~Then I hope you find peace.
+
+NTV1_INT_7 = ~z~I don't know too much about peace.
+
+NTV1_INT_8 = ~z~Apparently not.
+
+NTV1_INT_9 = ~z~Thanks to that raid you carried out with my angry son...
+
+NTV1_INT_10 = ~z~he's now in jail, apparently awaiting death.
+
+NTV1_INT_11 = ~z~Did you have fun with my son, the impetuous Prince?
+
+NTV1_INT_12 = ~z~I believe you went on a raid with him.
+
+NTV1_INT_13 = ~z~I'm... I'm sorry.
+
+NTV1_INT_14 = ~z~I suppose I lack the grandeur of a conventional king?
+
+NTV1_INT_15 = ~z~I don't know too many kings.
+
+NTV1_INT_16 = ~z~Colonel Favours...
+
+NTV1_INT_17 = ~z~he has already exacted some measure of revenge for the raid...
+
+NTV1_INT_18 = ~z~two women were assaulted by his men.
+
+NTV1_INT_19 = ~z~I'm very sorry about all of this.
+
+NTV1_INT_20 = ~z~Yes, sometimes the correct path, the bravest path...
+
+NTV1_INT_21 = ~z~is the least obvious, and also the gentlest.
+
+NTV1_INT_22 = ~z~I'm... I'm a great disappointment to my son.
+
+NTV1_INT_23 = ~z~Your son seems to want a war.
+
+NTV1_INT_24 = ~z~My son thinks there is glory in death.
+
+NTV1_INT_25 = ~z~Maybe he's right...
+
+NTV1_INT_26 = ~z~but for me...
+
+NTV1_INT_27 = ~z~I saw death being handed out so freely by the most foolish of men...
+
+NTV1_INT_28 = ~z~I never could equate it with victory.
+
+NTV1_INT_29 = ~z~Glory has come in service...
+
+NTV1_INT_30 = ~z~maybe...
+
+NTV1_INT_31 = ~z~maybe not, I don't know.
+
+NTV1_INT_32 = ~z~I've killed a lot of people...
+
+NTV1_INT_33 = ~z~for a whole lot of dumb reasons...
+
+NTV1_INT_34 = ~z~and I ain't never seen much glory in it.
+
+NTV1_INT_35 = ~z~Your friend, Mr. Van der Linde, he talks a lot...
+
+NTV1_INT_36 = ~z~I don't know him, but my son is easily led.
+
+NTV1_INT_37 = ~z~I'm not sure I get you.
+
+NTV1_INT_38 = ~z~Well, perhaps we could go for a ride?
+
+NTV1_INT_39 = ~z~I'm an old man...
+
+NTV1_INT_40 = ~z~my whole life I have tried to bring peace.
+
+NTV1_INT_41 = ~z~But, I ain't doing so good.
+
+NTV1_INT_42 = ~z~Then maybe you can take pity on my plight.
+
+NTV1_INT_43 = ~z~Please, it won't take long...
+
+NTV1_INT_44 = ~z~and maybe I can help you with that cough.
+
+NTV1_INT_45 = ~z~Sir!
+
+NTV1_INT_46 = ~z~I'm glad I caught you, sir...
+
+NTV1_INT_47 = ~z~Captain Monroe...
+
+NTV1_INT_48 = ~z~do you know my friend, Mr. Morgan?
+
+NTV1_INT_49 = ~z~No, sir, I don't have the pleasure.
+
+NTV1_INT_50 = ~z~Arthur Morgan...
+
+NTV1_INT_51 = ~z~It's an honor, sir.
+
+NTV1_INT_52 = ~z~How can I help you, Captain?
+
+NTV1_INT_53 = ~z~I was just in Saint Denis...
+
+NTV1_INT_54 = ~z~I spoke with the mayor.
+
+NTV1_INT_55 = ~z~It's not good news I'm afraid.
+
+NTV1_INT_56 = ~z~May I ride with you for a little?
+
+NTV1_INT_57 = ~z~Of course.
+
+NTV1_INT_LI_1 = ~z~H-hello?
+
+NTV1_INT_LI_2 = ~z~Come in.
+
+NTV1_INT_LI_3 = ~z~
+
+NTV1_INT_LI_4 = ~z~You don't sound very well.
+
+NTV1_INT_LI_5 = ~z~I'm not, I'm...
+
+NTV1_MCS1_1 = ~z~No!
+
+NTV1_MCS1_2 = ~z~No...
+
+NTV1_MCS1_3 = ~z~They destroyed everything.
+
+NTV1_MCS1_4 = ~z~Come on.
+
+NTV1_MCS1_5 = ~z~No, I need to find the Chanupa.
+
+NTV1_MCS1_6 = ~z~Who... who would do this?
+
+NTV1_MCS1_7 = ~z~Someone who wanted to enrage you.
+
+NTV1_MEXITSHOUTED_1 = ~z~~sl:0.0:3.7~Anyway, gentlemen, ~rp~I won't take up any more of your time.~lr:0.8~I'll see you both soon.
+
+NTV1_MEXITSPOKEN_1 = ~z~~sl:0.0:3.1~Anyway, gentlemen, ~rp~I won't take up any more of your time.~lr:0.9~I'll see you both soon.
+
+NTV1_MEXIT_2 = ~z~Sure.
+
+NTV1_MEXIT_3 = ~z~Thank you, Captain.
+
+NTV1_MEXIT_4 = ~z~Enjoy the ride.
+
+NTV1_MEXIT_NOSHOUTED_1 = ~z~~sl:0.0:3.6~Anyway, gentlemen, ~rp~I won't take up any more of your time.~lr:0.9~I'll see you both soon.
+
+NTV1_MEXIT_NOSPOKEN_1 = ~z~~sl:0.0:3.3~Anyway, gentlemen, ~rp~I won't take up any more of your time.~lr:0.9~I'll see you both soon.
+
+NTV1_MEXIT_NO_2 = ~z~Thank you, Captain.
+
+NTV1_MEXIT_NO_3 = ~z~Enjoy the ride.
+
+NTV1_MONNEWS_1 = ~z~What is this news, Captain Monroe?
+
+NTV1_MONNEWS_2 = ~z~Yes, sir...
+
+NTV1_MONNEWS_3 = ~z~As I mentioned, I did speak again with the mayor and the Bureau of Indian affairs in Saint Denis at length,
+
+NTV1_MONNEWS_4 = ~z~but regrettably it appears the oil company has already received approval to move forward
+
+NTV1_MONNEWS_5 = ~z~with drilling on the reservation's land.
+
+NTV1_MONNEWS_6 = ~z~I supposed as much. So what does that mean for us now?
+
+NTV1_MONNEWS_7 = ~z~I'm not sure just yet. I didn't get the impression anything would be happening for a few months.
+
+NTV1_MONNEWS_8 = ~z~I'm very sorry, sir. I did everything I could.
+
+NTV1_MONNEWS_9 = ~z~I know, Captain.
+
+NTV1_MONNEWS_10 = ~z~I assure you I will continue to do as much as I can.
+
+NTV1_MONNEWS_11 = ~z~Mr. Morgan, would you have time to help me at all?
+
+NTV1_MONNEWS_12 = ~z~I would rather certain actions were taken by friends outside the tribe.
+
+NTV1_NEAR1_1 = ~z~It's just up ahead.
+
+NTV1_NEAR2SHOUTED_1 = ~z~~sl:0.0:3.4~I'm sorry to cut you off, ~rp~but it's just up ahead.~lr:0.2~Let's continue our talk later.
+
+NTV1_NEAR2SPOKEN_1 = ~z~~sl:0.0:3.0~I'm sorry to cut you off, ~rp~but it's just up ahead.~lr:0.3~Let's continue our talk later.
+
+NTV1_PICKH_1A_1 = ~z~~sl:0.0:1.0~Hold up a moment...~lr:0.5~Some of the plants I need will be growing down here.
+
+NTV1_PICKH_1B_1 = ~z~Sorry, ~rp~hold up a moment... ~rp~that will have to wait.
+
+NTV1_PICKH_1B_2 = ~z~Some of ~rp~the plants I need will be growing down here.
+
+NTV1_PICKH_2A_1 = ~z~Wait, stop here... ~rp~I want to pick some ginseng.
+
+NTV1_PICKH_2B_1 = ~z~Wait, stop here... ~rp~I want to pick some ginseng.
+
+NTV1_PICKH_2B_2 = ~z~We can talk more about this later.
+
+NTV1_POST_WOLF_1 = ~z~We can talk if you want, Mr. Morgan, ~rp~but don't feel like you have to.
+
+NTV1_POST_WOLF_2 = ~z~It's a beautiful ride ahead ~rp~if you need some time to think.
+
+NTV1_RCONTINUE_1 = ~z~We'll continue on this way. ~rp~I'm going to look for some herbs to give you.
+
+NTV1_SADDLEBAG_1 = ~z~Wait there, I'll put these in your saddle bag.
+
+NTV1_SETOFF_1 = ~z~Follow me.
+
+NTV1_SETOFF_2 = ~z~So where we going?
+
+NTV1_SETOFF_3 = ~z~~sl:0.0:2.2~I want to show you ~rp~a site up in the mountains...~sl:~that's long been sacred to me.
+
+NTV1_SETOFF_4 = ~z~~sl:0.0:1.5~A place for reflection...~sl:0.9~and healing.
+
+NTV1_SMOKE_1 = ~z~Look there... smoke...
+
+NTV1_TOP1_HASHOUTED_1 = ~z~~sl:0.0:4.6~So... ~rp~we don't know each other too well, but...~lr:1.0~I wanted to speak to you about your son.
+
+NTV1_TOP1_HASHOUTED_3 = ~z~~sl:0.0:0.6~well...~lr:1.6~you know something of Dutch, I think?
+
+NTV1_TOP1_HASHOUTED_5 = ~z~~sl:0.0:4.9~I don't know why Dutch is getting involved in your situation and...~lr:1.3~this ain't easy to say, but...
+
+NTV1_TOP1_HASHOUTED_7 = ~z~Well, so what can we do?
+
+NTV1_TOP1_HASHOUTED_8 = ~z~~sl:0.0:1.5~I don't rightly know.~lr:0.7~Charles and I just thought you should be aware.
+
+NTV1_TOP1_HASHOUTED_9 = ~z~~sl:0.0:3.0~Maybe there's a way to stop things~sl:~from getting any more out of control.
+
+NTV1_TOP1_HASHOUTED_10 = ~z~~sl:0.0:1.9~Thank you, Mr. Morgan.~lr:1.4~Let me give this some thought.
+
+NTV1_TOP1_HASPOKEN_1 = ~z~~sl:0.0:5.0~So... ~rp~we don't know each other too well, but...~lr:1.3~I wanted to speak to you about your son.
+
+NTV1_TOP1_HASPOKEN_3 = ~z~~sl:0.0:0.6~well...~lr:2.1~you know something of Dutch, I think?
+
+NTV1_TOP1_HASPOKEN_5 = ~z~~sl:0.0:4.9~I don't know why Dutch is getting involved in your situation ~rp~and...~sl:1.6~this ain't easy to say, but...
+
+NTV1_TOP1_HASPOKEN_7 = ~z~So what can we do?
+
+NTV1_TOP1_HASPOKEN_8 = ~z~~sl:0.0:1.2~I don't rightly know.~lr:0.9~Charles and I just thought you should be aware.
+
+NTV1_TOP1_HASPOKEN_9 = ~z~~sl:0.0:3.2~Maybe there's a way to stop things~sl:~from getting any more out of control.
+
+NTV1_TOP1_HASPOKEN_10 = ~z~~sl:0.0:1.9~Thank you, Mr. Morgan.~lr:1.5~Let me give this some thought.
+
+NTV1_TOP1_HA_2 = ~z~I was there on the raid to steal back those horses and...
+
+NTV1_TOP1_HA_4 = ~z~Yes, a little. ~rp~Mostly from your friend Charles.
+
+NTV1_TOP1_HA_6 = ~z~I just don't trust that he's got your son's best interests at heart.
+
+NTV1_TOP1_HBSHOUTED_1 = ~z~~sl:0.0:4.5~So... ~rp~we don't know each other too well, but...~lr:1.2~I wanted to speak to you about Eagle Flies.
+
+NTV1_TOP1_HBSHOUTED_3 = ~z~~sl:0.0:1.6~In part, yes.~lr:1.7~I think you know something of Dutch by now?
+
+NTV1_TOP1_HBSHOUTED_5 = ~z~~sl:0.0:3.2~Charles will find a way to help Eagle Flies, but...~lr:0.8~I worry that won't be the end of it.
+
+NTV1_TOP1_HBSHOUTED_6 = ~z~~sl:0.0:5.5~Dutch seems hell bent on making your son's fight his own and...~lr:1.7~this ain't easy to say, but...
+
+NTV1_TOP1_HBSHOUTED_8 = ~z~What else does he have to gain from this?
+
+NTV1_TOP1_HBSHOUTED_11 = ~z~~sl:0.0:3.2~I appreciate you coming to me, Mr. Morgan.~sl:1.4~Let me give this some more thought.
+
+NTV1_TOP1_HBSPOKEN_1 = ~z~~sl:0.0:4.1~So... ~rp~we don't know each other too well, but...~lr:1.6~I wanted to speak to you about Eagle Flies.
+
+NTV1_TOP1_HBSPOKEN_3 = ~z~~sl:0.0:1.6~In part, yes.~lr:1.1~I think you know something of Dutch by now?
+
+NTV1_TOP1_HBSPOKEN_5 = ~z~~sl:0.0:3.2~Charles will find a way to help Eagle Flies, but...~lr:1.0~I worry that won't be the end of it.
+
+NTV1_TOP1_HBSPOKEN_6 = ~z~~sl:0.0:4.1~Dutch seems hell bent on making your son's fight his own and...~lr:1.7~this ain't easy to say, but...
+
+NTV1_TOP1_HBSPOKEN_8 = ~z~What else does he have to gain from it?
+
+NTV1_TOP1_HBSPOKEN_11 = ~z~~sl:0.0:2.9~I appreciate you coming to me, Mr. Morgan.~sl:1.3~Let me give this some more thought.
+
+NTV1_TOP1_HB_2 = ~z~And the reason for his arrest?
+
+NTV1_TOP1_HB_4 = ~z~Yes, I know enough.
+
+NTV1_TOP1_HB_7 = ~z~I just don't trust he's doing all this entirely out of solidarity.
+
+NTV1_TOP1_HB_9 = ~z~I ain't quite sure yet. He's kind of unwound right now.
+
+NTV1_TOP1_HB_10 = ~z~I just thought you should be aware.
+
+NTV1_TOP1_LASHOUTED_1 = ~z~~sl:0.0:4.2~So... ~rp~I ain't exactly sure why I'm here.~lr:0.8~I guess our situations have become tangled.
+
+NTV1_TOP1_LASHOUTED_4 = ~z~~sl:0.0:0.7~well...~lr:1.7~you know something of Dutch, I think?
+
+NTV1_TOP1_LASHOUTED_6 = ~z~~sl:0.0:4.3~I don't know why he's getting involved with Eagle Flies,~lr:0.5~but the two of them together... ~rp~it's gonna be a problem.
+
+NTV1_TOP1_LASPOKEN_1 = ~z~~sl:0.0:4.8~So... ~rp~I ain't exactly sure why I'm here.~lr:0.9~I guess our situations have become tangled.
+
+NTV1_TOP1_LASPOKEN_4 = ~z~~sl:0.0:0.7~well...~lr:1.1~you know something of Dutch, I think?
+
+NTV1_TOP1_LASPOKEN_6 = ~z~~sl:0.0:4.2~I don't know why he's getting involved with Eagle Flies,~lr:0.4~but the two of them together... ~rp~it's gonna be a problem.
+
+NTV1_TOP1_LA_2 = ~z~You mean with my son?
+
+NTV1_TOP1_LA_3 = ~z~Yes. ~rp~I was there on the raid to steal back those horses and...
+
+NTV1_TOP1_LA_5 = ~z~A little. ~rp~Mostly from your friend Charles.
+
+NTV1_TOP1_LA_7 = ~z~So what are you suggesting we do?
+
+NTV1_TOP1_LA_8 = ~z~~sl:0.0:2.0~The two of them were headed for Fort Wallace~sl:~when I last saw them.
+
+NTV1_TOP1_LA_9 = ~z~I'll head over there... ~rp~see if I can keep things from boiling over.
+
+NTV1_TOP1_LA_10 = ~z~~sl:0.0:0.7~Okay.~sl:1.2~Thank you, Mr. Morgan.
+
+NTV1_TOP1_LA_11 = ~z~You got no reason to thank me yet.
+
+NTV1_TOP1_LBSHOUTED_1 = ~z~~sl:0.0:4.2~So... ~rp~I ain't exactly sure why I'm here.~lr:1.0~I guess our situations have become tangled.
+
+NTV1_TOP1_LBSHOUTED_5 = ~z~Yes, I know enough.
+
+NTV1_TOP1_LBSHOUTED_10 = ~z~~sl:0.0:4.7~Okay. ~rp~Let me give this some more thought.~lr:0.8~Thank you, Mr. Morgan.
+
+NTV1_TOP1_LBSPOKEN_1 = ~z~~sl:0.0:4.2~So... ~rp~I ain't exactly sure why I'm here.~lr:0.7~I guess our situations have become tangled.
+
+NTV1_TOP1_LBSPOKEN_5 = ~z~Yes... I know enough.
+
+NTV1_TOP1_LBSPOKEN_10 = ~z~~sl:0.0:4.2~Okay. ~rp~Let me give this some more thought.~lr:0.6~Thank you, Mr. Morgan.
+
+NTV1_TOP1_LB_2 = ~z~Yes, my son is in jail.
+
+NTV1_TOP1_LB_3 = ~z~I'm sure Charles will find a way to help Eagle Flies, but...
+
+NTV1_TOP1_LB_4 = ~z~I think you know something of Dutch by now?
+
+NTV1_TOP1_LB_6 = ~z~Dutch seems hell bent on making your son's fight his own...
+
+NTV1_TOP1_LB_7 = ~z~and ~rp~it just feels to me like he ain't doing it all out of solidarity.
+
+NTV1_TOP1_LB_8 = ~z~What else does he have to gain from it?
+
+NTV1_TOP1_LB_9 = ~z~I ain't quite sure yet. He's kind of unwound right now.
+
+NTV1_TOP1_LB_11 = ~z~You got no reason to thank me.
+
+NTV1_TOP2_HASHOUTED_4 = ~z~~sl:0.0:5.8~But... ~rp~he's been unraveling for some time now and...~lr:1.4~I ain't sure there's any going back at this point.
+
+NTV1_TOP2_HASHOUTED_5 = ~z~~sl:0.0:2.5~It took a long time for me...~sl:~to learn that you can never change a person.
+
+NTV1_TOP2_HASHOUTED_6 = ~z~~sl:0.0:2.6~We only become more who we really are.~lr:0.9~Perhaps you see that with him... just as I see it with my son.
+
+NTV1_TOP2_HASHOUTED_7 = ~z~~sl:0.0:3.4~Dutch's got this crazy plan that...~sl:0.2~if we create enough noise and chaos,
+
+NTV1_TOP2_HASHOUTED_8 = ~z~~sl:0.0:1.7~we'll be able to escape...~sl:0.4~and go somewhere far away where no one will find us.
+
+NTV1_TOP2_HASHOUTED_9 = ~z~~sl:0.0:4.0~I worry a lot of folks are gonna get caught in the crossfire,~sl:0.8~including Eagle Flies.
+
+NTV1_TOP2_HASHOUTED_12 = ~z~~sl:0.0:1.6~Thank you, Mr. Morgan.~lr:2.0~Let me give this some thought.
+
+NTV1_TOP2_HASPOKEN_4 = ~z~~sl:0.0:6.5~But... ~rp~he's been unraveling for some time now and...~lr:1.3~I ain't sure there's any going back at this point.
+
+NTV1_TOP2_HASPOKEN_5 = ~z~~sl:0.0:2.4~It took a long time for me...~sl:~to learn that you can never change a person.
+
+NTV1_TOP2_HASPOKEN_6 = ~z~~sl:0.0:2.9~We only become more who we really are.~lr:1.0~Perhaps you see that with him... just as I see it with my son.
+
+NTV1_TOP2_HASPOKEN_7 = ~z~~sl:0.0:3.5~Dutch's got this crazy plan that...~sl:0.4~if we create enough noise and chaos,
+
+NTV1_TOP2_HASPOKEN_8 = ~z~~sl:0.0:1.5~we'll be able to escape and...~sl:~go somewhere far away where no one will find us.
+
+NTV1_TOP2_HASPOKEN_9 = ~z~~sl:0.0:4.2~I worry a lot of folks are gonna get caught in the crossfire,~sl:0.4~including Eagle Flies.
+
+NTV1_TOP2_HASPOKEN_12 = ~z~~sl:0.0:1.9~Thank you, Mr. Morgan.~lr:1.5~Let me give this some thought.
+
+NTV1_TOP2_HA_1 = ~z~How much do you know about Dutch?
+
+NTV1_TOP2_HA_2 = ~z~A little. Mostly what Charles told me.
+
+NTV1_TOP2_HA_3 = ~z~For years, he was the best man I knew.
+
+NTV1_TOP2_HA_10 = ~z~So what can we do?
+
+NTV1_TOP2_HA_11 = ~z~I ain't quite sure. ~rp~I just wanted you to know the situation.
+
+NTV1_TOP2_HBSHOUTED_3 = ~z~For years, he was the best man I knew.
+
+NTV1_TOP2_HBSHOUTED_4 = ~z~~sl:0.0:6.4~But... ~rp~he's been unraveling for some time now and...~lr:1.5~I ain't sure there's any going back at this point.
+
+NTV1_TOP2_HBSHOUTED_6 = ~z~~sl:0.0:2.6~We only become more who we really are.~lr:1.4~Perhaps you see that with him... just as I see it with my son.
+
+NTV1_TOP2_HBSHOUTED_8 = ~z~~sl:0.0:1.5~we'll be able to escape...~lr:0.6~go somewhere far away where no one will find us.
+
+NTV1_TOP2_HBSHOUTED_11 = ~z~~sl:0.0:3.9~I'm sure Charles will find a way to help him, but...~lr:0.8~I just wanted you to know the situation.
+
+NTV1_TOP2_HBSHOUTED_12 = ~z~~sl:0.0:3.3~Well, ~rp~I appreciate you coming to me, Mr. Morgan.~lr:1.7~Let me give this some more thought.
+
+NTV1_TOP2_HBSPOKEN_3 = ~z~Well... for years, he was the best man I knew.
+
+NTV1_TOP2_HBSPOKEN_4 = ~z~~sl:0.0:5.5~But... ~rp~he's been unraveling for some time now and...~lr:1.7~I ain't sure there's any going back at this point.
+
+NTV1_TOP2_HBSPOKEN_6 = ~z~~sl:0.0:2.4~We only become more who we really are.~lr:1.1~Perhaps you see that with him... just as I see it with my son.
+
+NTV1_TOP2_HBSPOKEN_8 = ~z~~sl:0.0:1.7~we'll be able to escape and...~lr:0.7~go somewhere far away where no one will find us.
+
+NTV1_TOP2_HBSPOKEN_11 = ~z~~sl:0.0:4.4~I'm sure Charles will find a way to help him, but...~lr:0.9~I just wanted you to know the situation.
+
+NTV1_TOP2_HBSPOKEN_12 = ~z~~sl:0.0:4.8~Well, ~rp~I appreciate you coming to me, Mr. Morgan.~lr:2.0~Let me give this some more thought.
+
+NTV1_TOP2_HB_1 = ~z~How much do you know about Dutch?
+
+NTV1_TOP2_HB_2 = ~z~A little. Mostly what Charles told me.
+
+NTV1_TOP2_HB_5 = ~z~It took a long time for me to learn that you can never change a person.
+
+NTV1_TOP2_HB_7 = ~z~Dutch's got this crazy plan that if we create enough noise and chaos,
+
+NTV1_TOP2_HB_9 = ~z~Eagle Flies got caught up in that, and now he's in jail.
+
+NTV1_TOP2_HB_10 = ~z~Sadly, Eagle Flies was ready to fight.
+
+NTV1_TOP2_LASHOUTED_4 = ~z~~sl:0.0:5.5~But... ~rp~he's been unraveling for some time now and...~lr:2.0~I ain't sure there's any going back at this point.
+
+NTV1_TOP2_LASHOUTED_6 = ~z~~sl:0.0:3.5~I'd have been dead by eighteen if it wasn't for him.~lr:1.3~He never gave up on me.
+
+NTV1_TOP2_LASHOUTED_7 = ~z~~sl:0.0:3.9~It ain't something that's easy to walk away from.~lr:1.4:0.9~And...~sl:1.8~he's got all my money.
+
+NTV1_TOP2_LASHOUTED_9 = ~z~~sl:0.0:3.9~I don't know why he's getting involved with Eagle Flies,~sl:0.5~but ~rp~the two of them together... it's gonna be a problem.
+
+NTV1_TOP2_LASHOUTED_12 = ~z~I'll head over there... see if I can keep things from boiling over.
+
+NTV1_TOP2_LASPOKEN_4 = ~z~~sl:0.0:5.5~But... ~rp~he's been unraveling for some time now and...~lr:1.6~I ain't sure there's any going back at this point.
+
+NTV1_TOP2_LASPOKEN_6 = ~z~~sl:0.0:2.7~I'd have been dead by eighteen if it wasn't for him.~lr:1.0~He never gave up on me.
+
+NTV1_TOP2_LASPOKEN_7 = ~z~~sl:0.0:3.2~It ain't something that's easy to walk away from.~lr:1.5:1.0~And...~sl:1.0~he's got all my money.
+
+NTV1_TOP2_LASPOKEN_9 = ~z~~sl:0.0:4.0~I don't know why he's getting involved with Eagle Flies, but...~lr:0.4~the two of them together... it's gonna be a problem.
+
+NTV1_TOP2_LASPOKEN_12 = ~z~I'll head over there and see if I can keep things from boiling over.
+
+NTV1_TOP2_LA_1 = ~z~How much do you know about Dutch?
+
+NTV1_TOP2_LA_2 = ~z~A little. Mostly what Charles told me.
+
+NTV1_TOP2_LA_3 = ~z~For years, he was the best man I knew.
+
+NTV1_TOP2_LA_5 = ~z~So why do you stay?
+
+NTV1_TOP2_LA_8 = ~z~It sounds like you have a lot to work out in your own mind.
+
+NTV1_TOP2_LA_10 = ~z~It already is. So ~rp~what are you suggesting we do?
+
+NTV1_TOP2_LA_11 = ~z~The two of them were headed for Fort Wallace when I last saw them.
+
+NTV1_TOP2_LA_13 = ~z~Okay. Thank you, Mr. Morgan.
+
+NTV1_TOP2_LA_14 = ~z~You got no reason to thank me yet.
+
+NTV1_TOP2_LBSHOUTED_4 = ~z~~sl:0.0:0.6~But...~lr:2.4:3.9~he's been unraveling for some time now and...~lr:0.5~I ain't sure there's any going back at this point.
+
+NTV1_TOP2_LBSHOUTED_6 = ~z~~sl:0.0:3.4~I'd have been dead by sixteen if it wasn't for him.~lr:1.3~He never gave up on me.
+
+NTV1_TOP2_LBSHOUTED_7 = ~z~~sl:0.0:2.8~It ain't something that's easy to walk away from.~lr:1.1:1.0~And...~sl:1.2~he's got all my money.
+
+NTV1_TOP2_LBSHOUTED_9 = ~z~Dutch's got this crazy plan that if we create enough noise and chaos,
+
+NTV1_TOP2_LBSHOUTED_10 = ~z~~sl:0.0:1.3~we'll be able to escape...~sl:0.5~and go somewhere far away where no one will find us.
+
+NTV1_TOP2_LBSHOUTED_13 = ~z~~sl:0.0:3.7~I'm sure Charles will find a way to help him, but...~lr:1.5~I wanted you to know the situation.
+
+NTV1_TOP2_LBSHOUTED_14 = ~z~~sl:0.0:1.0~Okay.~lr:1.9~Let me give this some more thought. Thank you, Mr. Morgan.
+
+NTV1_TOP2_LBSPOKEN_4 = ~z~~sl:0.0:5.9~But... ~rp~he's been unraveling for some time now and...~lr:1.9~I ain't sure there's any going back at this point.
+
+NTV1_TOP2_LBSPOKEN_6 = ~z~~sl:0.0:3.3~I'd have been dead by sixteen if it wasn't for him.~lr:1.0~He never gave up on me.
+
+NTV1_TOP2_LBSPOKEN_7 = ~z~~sl:0.0:2.8~It ain't something that's easy to walk away from.~lr:1.5:0.8~And...~sl:1.1~he's got all my money.
+
+NTV1_TOP2_LBSPOKEN_9 = ~z~Dutch's got this crazy plan that if we create enough noise and chaos,
+
+NTV1_TOP2_LBSPOKEN_10 = ~z~~sl:0.0:1.2~we'll be able to escape...~sl:0.2~and go somewhere far away where no one will find us.
+
+NTV1_TOP2_LBSPOKEN_13 = ~z~~sl:0.0:3.4~I'm sure Charles will find a way to help him, but...~lr:1.0~I wanted you to know the situation.
+
+NTV1_TOP2_LBSPOKEN_14 = ~z~~sl:0.0:0.8~Okay.~lr:1.9~Let me give this some more thought. Thank you, Mr. Morgan.
+
+NTV1_TOP2_LB_1 = ~z~How much do you know about Dutch?
+
+NTV1_TOP2_LB_2 = ~z~A little. Mostly what Charles told me.
+
+NTV1_TOP2_LB_3 = ~z~For years, he was the best man I knew.
+
+NTV1_TOP2_LB_5 = ~z~So why do you stay?
+
+NTV1_TOP2_LB_8 = ~z~It sounds like you have a lot to work out in your own mind.
+
+NTV1_TOP2_LB_11 = ~z~Eagle Flies got caught up in that, and now he's in jail.
+
+NTV1_TOP2_LB_12 = ~z~Sadly, Eagle Flies was ready to fight.
+
+NTV1_TOP2_LB_15 = ~z~You got no reason to thank me.
+
+NTV1_TOP3_HASHOUTED_2 = ~z~~sl:0.0:6.0~Yes. ~rp~This conflict with Colonel Favours and his regiment at Fort Wallace~sl:0.3~continues to worsen.
+
+NTV1_TOP3_HASHOUTED_3 = ~z~~sl:0.0:4.5~Many of the elders are sick and the young feel that any compromise...~sl:~is an admittance of defeat.
+
+NTV1_TOP3_HASHOUTED_5 = ~z~~sl:0.0:1.8~But I have to continue to seek...~sl:~to resolve matters through peaceable negotiation.
+
+NTV1_TOP3_HASHOUTED_8 = ~z~I am not... so sure about that.
+
+NTV1_TOP3_HASPOKEN_2 = ~z~~sl:0.0:6.4~Yes. ~rp~This conflict with Colonel Favours and his regiment at Fort Wallace~sl:0.4~continues to worsen.
+
+NTV1_TOP3_HASPOKEN_3 = ~z~~sl:0.0:4.6~Many of the elders are sick and the young feel that any compromise...~sl:0.8~is an admittance of defeat.
+
+NTV1_TOP3_HASPOKEN_5 = ~z~~sl:0.0:2.0~But I have to continue to seek...~sl:~to resolve matters through peaceable negotiation.
+
+NTV1_TOP3_HASPOKEN_8 = ~z~I am not so sure about that.
+
+NTV1_TOP3_HA_1 = ~z~Are things that bad on the reservation?
+
+NTV1_TOP3_HA_4 = ~z~Well, ~rp~we ain't done much to calm the situation.
+
+NTV1_TOP3_HA_6 = ~z~War would be futile.
+
+NTV1_TOP3_HA_7 = ~z~Your people are lucky to have you.
+
+NTV1_TOP3_HB_1 = ~z~Yeah, I know the place.
+
+NTV1_TOP3_HC_1 = ~z~I don't think so.
+
+NTV1_TOP3_HDSHOUTED_1 = ~z~They had men, women and children penned in there like livestock.
+
+NTV1_TOP3_HDSHOUTED_2 = ~z~~sl:0.0:1.5~Sickness started spreading...~lr:~but the government insisted on keeping them contained.
+
+NTV1_TOP3_HDSHOUTED_3 = ~z~~sl:0.0:2.1~Some tried to revolt and were killed.~lr:0.6~The others... eventually all died from disease.
+
+NTV1_TOP3_HDSPOKEN_1 = ~z~They had men, women and children penned in like livestock.
+
+NTV1_TOP3_HDSPOKEN_2 = ~z~~sl:0.0:1.6~Sickness started spreading...~lr:~but the government insisted on keeping them contained.
+
+NTV1_TOP3_HDSPOKEN_3 = ~z~~sl:0.0:2.2~Some tried to revolt and were killed.~lr:0.5~The others... eventually all died of disease.
+
+NTV1_TOP3_HD_4 = ~z~I can't allow something like that to happen to my people,
+
+NTV1_TOP3_LASHOUTED_2 = ~z~~sl:0.0:6.0~Yes. ~rp~This conflict with Colonel Favours and his regiment at Fort Wallace~sl:0.3~continues to worsen.
+
+NTV1_TOP3_LASHOUTED_3 = ~z~~sl:0.0:4.5~Many of the elders are sick and the young feel that any compromise...~sl:~is an admittance of defeat.
+
+NTV1_TOP3_LASHOUTED_4 = ~z~Yeah... ~rp~compromise ain't an easy thing to learn.
+
+NTV1_TOP3_LASHOUTED_5 = ~z~~sl:0.0:1.8~I felt like that once too.~lr:0.6~I was there twenty years ago for all the fighting and... I saw where it led.
+
+NTV1_TOP3_LASHOUTED_6 = ~z~~sl:0.0:3.7~But ~rp~my people came to me for answers, and I have none.~lr:0.6~I can't even guide my own son.
+
+NTV1_TOP3_LASHOUTED_10 = ~z~~sl:0.0:2.8~Any action without violence is difficult,~sl:0.5~especially when my son is involved.
+
+NTV1_TOP3_LASHOUTED_11 = ~z~~sl:0.0:3.3~But ~rp~when the intent becomes violence,~sl:0.4~that's when the cycle begins again.
+
+NTV1_TOP3_LASHOUTED_12 = ~z~~sl:1.9~I been in that cycle my whole life.
+
+NTV1_TOP3_LASPOKEN_2 = ~z~~sl:0.0:6.4~Yes. ~rp~This conflict with Colonel Favours and his regiment at Fort Wallace~sl:0.4~continues to worsen.
+
+NTV1_TOP3_LASPOKEN_3 = ~z~~sl:0.0:4.6~Many of the elders are sick and the young feel that any compromise...~sl:0.8~is an admittance of defeat.
+
+NTV1_TOP3_LASPOKEN_4 = ~z~Yeah, ~rp~compromise ain't an easy thing to learn.
+
+NTV1_TOP3_LASPOKEN_5 = ~z~~sl:0.0:2.0~I felt like that once too.~lr:0.8~I was there twenty years ago for all the fighting and I saw where it led.
+
+NTV1_TOP3_LASPOKEN_6 = ~z~~sl:0.0:4.2~But ~rp~my people come to me for answers... and I have none.~lr:1.0~I cannot even guide my own son.
+
+NTV1_TOP3_LASPOKEN_10 = ~z~~sl:0.0:2.8~Any action without violence is difficult,~sl:0.2~especially when my son is involved.
+
+NTV1_TOP3_LASPOKEN_11 = ~z~~sl:0.0:2.4~But ~rp~when the intent becomes violence,~sl:0.5~that's when the cycle begins again.
+
+NTV1_TOP3_LASPOKEN_12 = ~z~~sl:1.2~I been in that cycle my whole life.
+
+NTV1_TOP3_LA_1 = ~z~So... ~rp~conditions are that bad on the reservation?
+
+NTV1_TOP3_LA_7 = ~z~It is hard to tell someone who is being treated unfairly not to fight back.
+
+NTV1_TOP3_LA_8 = ~z~Dutch used to tell me that revenge was a fool's game.
+
+NTV1_TOP3_LA_9 = ~z~But ~rp~now... it feels like he's developed a compulsion for it.
+
+NTV1_TOP4_HASHOUTED_1 = ~z~~sl:0.0:0.7~You know...~sl:1.8:2.0~I had a son once.~sl:0.4:1.3~Years ago.~lr:1.2~I don't talk about him much.
+
+NTV1_TOP4_HASHOUTED_2 = ~z~What was his name?
+
+NTV1_TOP4_HASHOUTED_3 = ~z~~sl:0.0:0.9~Isaac.~lr:1.1~His mother, Eliza, was a waitress I met.
+
+NTV1_TOP4_HASHOUTED_4 = ~z~~sl:0.0:1.6~When she got pregnant...~sl:0.9~she knew who I was, what my life was.
+
+NTV1_TOP4_HASHOUTED_5 = ~z~~sl:0.0:3.0~I didn't wanna promise nothing I couldn't keep, but...~lr:0.3~I said I'd do right by them.
+
+NTV1_TOP4_HASHOUTED_7 = ~z~~sl:0.0:2.4~He was such a good kid...~sl:1.1:3.0~she was too, I guess. Just a kid.~sl:0.4~Nineteen.
+
+NTV1_TOP4_HASHOUTED_9 = ~z~~sl:0.0:2.0~I got there one day...~lr:1.5~I saw two crosses outside and I knew right away...
+
+NTV1_TOP4_HASHOUTED_10 = ~z~~sl:0.0:2.5~Turned out some bastards had come through...~lr:0.4:0.9~robbed them...~sl:0.6~and shot them dead.
+
+NTV1_TOP4_HASHOUTED_13 = ~z~~sl:0.0:4.2~But ~rp~I know now that you don't get to live a bad life...~sl:~and have good things happen to you
+
+NTV1_TOP4_HASPOKEN_1 = ~z~~sl:0.0:0.7~You know...~sl:1.5:1.8~I had a son once.~sl:0.6:1.1~Years ago.~lr:1.3~I don't talk about him much.
+
+NTV1_TOP4_HASPOKEN_2 = ~z~~sl:0.2~What was his name?
+
+NTV1_TOP4_HASPOKEN_3 = ~z~~sl:0.0:0.7~Isaac.~lr:1.2~His mother, Eliza, was a waitress I met.
+
+NTV1_TOP4_HASPOKEN_4 = ~z~~sl:0.0:1.2~When she got pregnant...~sl:1.0~she knew who I was, what my life was.
+
+NTV1_TOP4_HASPOKEN_5 = ~z~~sl:0.0:2.6~I didn't wanna promise nothing I couldn't keep, but...~lr:0.2~I said I'd do right by them.
+
+NTV1_TOP4_HASPOKEN_7 = ~z~~sl:0.0:1.5~He was such a good kid...~sl:0.9:1.8~she was too, I guess.~sl:0.1~Just a kid. Nineteen.
+
+NTV1_TOP4_HASPOKEN_9 = ~z~~sl:0.0:2.0~I got there one day and...~lr:1.9~saw two crosses outside and I knew right away...
+
+NTV1_TOP4_HASPOKEN_10 = ~z~~sl:0.0:2.2~Turned out some bastards had come through...~lr:0.7:1.0~robbed them...~sl:0.5~and shot them dead.
+
+NTV1_TOP4_HASPOKEN_13 = ~z~~sl:0.0:3.4~But ~rp~I know now that you don't get to live a bad life...~sl:~and have good things happen to you
+
+NTV1_TOP4_HA_6 = ~z~Every few months I'd stop by there for a few days.
+
+NTV1_TOP4_HA_8 = ~z~What happened?
+
+NTV1_TOP4_HA_11 = ~z~All for ten dollars.
+
+NTV1_TOP4_HA_12 = ~z~It hardened me... feeling that kind of pain.
+
+NTV1_TOP4_HA_14 = ~z~I think you're being hard on yourself.
+
+NTV1_TOP4_HA_15 = ~z~~sl:0.0:0.7~Maybe.~lr:1.3~All I can do now is try to make some things right.
+
+NTV1_TOP4_LASHOUTED_1 = ~z~~sl:0.0:0.7~You know...~sl:1.8:2.0~I had a son once.~sl:0.4:1.3~Years ago.~lr:1.2~I don't talk about him much.
+
+NTV1_TOP4_LASHOUTED_2 = ~z~What was his name?
+
+NTV1_TOP4_LASHOUTED_3 = ~z~~sl:0.0:0.9~Isaac.~lr:1.1~His mother, Eliza, was a waitress I met.
+
+NTV1_TOP4_LASHOUTED_4 = ~z~~sl:0.0:1.6~When she got pregnant...~sl:0.9~she knew who I was, what my life was.
+
+NTV1_TOP4_LASHOUTED_5 = ~z~~sl:0.0:3.0~I didn't wanna promise nothing I couldn't keep, but...~lr:0.3~I said I'd do right by them.
+
+NTV1_TOP4_LASHOUTED_7 = ~z~~sl:0.0:2.4~He was such a good kid...~sl:1.1:3.0~she was too, I guess. Just a kid.~sl:0.4~Nineteen.
+
+NTV1_TOP4_LASHOUTED_9 = ~z~~sl:0.0:2.0~I got there one day...~lr:1.5~I saw two crosses outside and I knew right away...
+
+NTV1_TOP4_LASHOUTED_10 = ~z~~sl:0.0:2.5~Turned out some bastards had come through...~lr:0.4:0.9~robbed them...~sl:0.6~and shot them dead.
+
+NTV1_TOP4_LASHOUTED_13 = ~z~~sl:0.0:1.0~I had to.~sl:3.3:1.4~I don't know...~sl:1.9~I ain't been a good man.
+
+NTV1_TOP4_LASHOUTED_15 = ~z~~sl:0.0:3.0~I understand that you can't be a bad man...~lr:~and expect good things to happen to you.
+
+NTV1_TOP4_LASPOKEN_1 = ~z~~sl:0.0:0.7~You know...~sl:1.5:1.8~I had a son once.~sl:0.6:1.1~Years ago.~lr:1.3~I don't talk about him much.
+
+NTV1_TOP4_LASPOKEN_2 = ~z~~sl:0.2~What was his name?
+
+NTV1_TOP4_LASPOKEN_3 = ~z~~sl:0.0:0.7~Isaac.~lr:1.2~His mother, Eliza, was a waitress I met.
+
+NTV1_TOP4_LASPOKEN_4 = ~z~~sl:0.0:1.2~When she got pregnant...~sl:1.0~she knew who I was, what my life was.
+
+NTV1_TOP4_LASPOKEN_5 = ~z~~sl:0.0:2.6~I didn't wanna promise nothing I couldn't keep, but...~lr:0.2~I said I'd do right by them.
+
+NTV1_TOP4_LASPOKEN_7 = ~z~~sl:0.0:1.5~He was such a good kid...~sl:0.9:1.8~she was too, I guess.~sl:0.1~Just a kid. Nineteen.
+
+NTV1_TOP4_LASPOKEN_9 = ~z~~sl:0.0:2.0~I got there one day and...~lr:1.9~saw two crosses outside and I knew right away...
+
+NTV1_TOP4_LASPOKEN_10 = ~z~~sl:0.0:2.2~Turned out some bastards had come through...~lr:0.7:1.0~robbed them...~sl:0.5~and shot them dead.
+
+NTV1_TOP4_LASPOKEN_13 = ~z~~sl:0.0:1.0~I had to.~sl:2.3:1.8~I don't know...~sl:1.7~I ain't been a good man.
+
+NTV1_TOP4_LASPOKEN_15 = ~z~~sl:0.0:1.6~I understand that...~sl:0.8~you can't be a bad man ~rp~and expect good things to happen to you.
+
+NTV1_TOP4_LA_6 = ~z~Every few months I'd stop by there for a few days.
+
+NTV1_TOP4_LA_8 = ~z~What happened?
+
+NTV1_TOP4_LA_11 = ~z~All for ten dollars.
+
+NTV1_TOP4_LA_12 = ~z~It hardened me... feeling that kind of... pain, I guess.
+
+NTV1_TOP4_LA_14 = ~z~At least you understand something of your anger.
+
+NTV1_TOP5SHOUTED_7 = ~z~~sl:0.0:3.7~But~rp~ this Colonel Favours, he walks an old line,~lr:~he's obstinate and he hates Monroe.
+
+NTV1_TOP5SPOKEN_7 = ~z~~sl:0.0:4.2~But~rp~ this Colonel Favours, he walks an old line,~lr:~he's obstinate and he hates Monroe.
+
+NTV1_TOP5_1 = ~z~And that feller, Monroe, how you know him?
+
+NTV1_TOP5_2 = ~z~Captain Monroe was reassigned here from a regiment in the north.
+
+NTV1_TOP5_3 = ~z~~sl:0.0:2.3~Apparently the news of our conflict...~sl:~has spread all the way to Washington.
+
+NTV1_TOP5_4 = ~z~He's a good man, he wants to help.
+
+NTV1_TOP5_5 = ~z~Well, guess that's something at least.
+
+NTV1_TOP5_6 = ~z~The army aren't all bad men, just as my people aren't all good.
+
+NTV1_TOP5_8 = ~z~I just hope between us we can work this out.
+
+NTV1_TOP6_HASHOUTED_2 = ~z~I saw a doctor... and he says I'm in a pretty bad way.
+
+NTV1_TOP6_HASHOUTED_5 = ~z~~sl:0.0:1.8~I don't know how long I got....~sl:1.2~but ~rp~some of them... they still got a chance to have a life.
+
+NTV1_TOP6_HASHOUTED_6 = ~z~~sl:0.0:3.8~I just think... ~rp~if I could give them that...~sl:1.3~then maybe this ain't all for nothing.
+
+NTV1_TOP6_HASPOKEN_2 = ~z~I saw a doctor and... he says I'm in a pretty bad way.
+
+NTV1_TOP6_HASPOKEN_5 = ~z~~sl:0.0:2.8~I don't know how long I got, but...~lr:0.7~some of them... they still got a chance to have a life.
+
+NTV1_TOP6_HASPOKEN_6 = ~z~~sl:0.0:3.1~I just think... ~rp~if I could give them that, then...~sl:0.9~maybe this ain't all for nothing.
+
+NTV1_TOP6_HA_1 = ~z~I appreciate the herbs, but...~rp~ I think it's gonna take more than that.
+
+NTV1_TOP6_HA_3 = ~z~I'm sorry to hear that.
+
+NTV1_TOP6_HA_4 = ~z~This situation we're in, me, Dutch and the others.
+
+NTV1_TOP6_HA_7 = ~z~I think there is much you can still do, Mr. Morgan.
+
+NTV1_TOP6_LASHOUTED_2 = ~z~I saw a doctor... and he says I'm in a pretty bad way.
+
+NTV1_TOP6_LASHOUTED_5 = ~z~~sl:0.0:4.4~If I get enough money together, ~rp~I can always head out west...~sl:~to one of those sanatoriums in California.
+
+NTV1_TOP6_LASHOUTED_7 = ~z~Well I wish you all the best.
+
+NTV1_TOP6_LASPOKEN_2 = ~z~I saw a doctor and... he says I'm in a pretty bad way.
+
+NTV1_TOP6_LASPOKEN_5 = ~z~~sl:0.0:3.4~If I get enough money together, ~rp~I can always head out west...~sl:~to one of those sanatoriums in California.
+
+NTV1_TOP6_LASPOKEN_7 = ~z~Well, I wish you all the best.
+
+NTV1_TOP6_LA_1 = ~z~I appreciate the herbs, but... ~rp~I think it's gonna take more than that.
+
+NTV1_TOP6_LA_3 = ~z~I'm sorry to hear that.
+
+NTV1_TOP6_LA_4 = ~z~It's alright. I'll work something out.
+
+NTV1_TOP6_LA_6 = ~z~I still got some options.
+
+NTV1_TRN3_BRIGE_1 = ~z~~sl:0.0:3.4~See... what's left of that bridge over there?~sl:1.2~I heard about it being destroyed.
+
+NTV1_TRN3_BRIGE_2 = ~z~Do you know... if that was also my son's doing?
+
+NTV1_TRN3_BRIGE_3 = ~z~No, I'm pretty sure he had nothing to do with that one.
+
+NTV1_TRN3_BRIGE_4 = ~z~Well... I fear they will find a way to blame it on us anyway.
+
+NTV1_TSHRI_03A_1 = ~z~Mr. Morgan, please! Leave them!
+
+NTV1_TSHRI_03B_1 = ~z~Good. There was no need to harm them.
+
+NTV1_TSHRI_03C_1 = ~z~Ya! Go on! Get outta here!
+
+NTV1_TSHRI_03SHOUTED_2 = ~z~~sl:0.0:2.9~Brutality and beauty are both all around us,~lr:0.5~yet so often we're unable to see past our own grievances.
+
+NTV1_TSHRI_03SPOKEN_2 = ~z~~sl:0.0:2.6~Brutality and beauty are both all around us,~lr:0.6~yet so often we're unable to see past our own grievances.
+
+NTV1_TSHRI_03_1 = ~z~See the wolves over there feasting on that horse?
+
+NTV1_TSHRI_03_3 = ~z~This is what I try to teach my son.
+
+NTV1_TSHRI_A_1 = ~z~What's happened?
+
+NTV1_TSHRI_A_2 = ~z~No, it can't be.
+

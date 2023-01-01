@@ -1,0 +1,28 @@
+CSN10_ACTION_A_1 = ~z~
+
+CSN10_ACTION_A_2 = ~z~Get this place packed up, do you wanna die in this dump? Come on!
+
+CSN10_ACTION_A_3 = ~z~All of you, come along!
+
+CSN10_ACTION_A_4 = ~z~Mr Pearson, how you coming along there?
+
+CSN10_ACTION_A_5 = ~z~I'm moving as fast as possible!
+
+CSN10_ACTION_A_6 = ~z~Well, good! All of you, hurry this along!
+
+CSN10_ACTION_A_7 = ~z~We need to go!
+
+CSN10_ACTION_A_8 = ~z~Do you want those men to come back and murder us once and for all?
+
+CSN10_ACTION_A_9 = ~z~No? Then hurry up! We need to get moving again!
+
+CSN10_ACTION_A_10 = ~z~Quick, all of you!
+
+CSN10_ACT_B_INT_1 = ~z~I'm glad we never unpacked your stuff at all, Mr Morgan.
+
+CSN10_ACT_B_INT_2 = ~z~You still have my things?
+
+CSN10_ACT_B_INT_3 = ~z~Of course. Maybe... go and see how Dutch is doing.
+
+CSN10_ACT_B_INT_4 = ~z~He doesn't seem quite himself.
+

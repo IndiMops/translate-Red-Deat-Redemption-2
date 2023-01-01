@@ -1,0 +1,40 @@
+CCTL2_ACTA1_1 = ~z~What you reading?
+
+CCTL2_ACTA1_2 = ~z~Oh, some silly romance.
+
+CCTL2_ACTA1_3 = ~z~Aren't all romances silly?
+
+CCTL2_ACTA1_4 = ~z~Yes, and this one is particularly silly... I know you and Karen laugh at me for reading this stuff.
+
+CCTL2_ACTA1_5 = ~z~Of course we do, but then we read them ourselves.
+
+CCTL2_ACTA1_6 = ~z~Do you?
+
+CCTL2_ACTA1_7 = ~z~Sometimes.
+
+CCTL2_ACTA2_1 = ~z~What do you think, Arthur?
+
+CCTL2_ACTA2_2 = ~z~Oh, I don't think too much, I just like hearing you two talk.
+
+CCTL2_ACTA2_3 = ~z~Anyway...
+
+CCTL2_ACTB_1 = ~z~What is it about this nonsense?
+
+CCTL2_ACTB_2 = ~z~I don't know... it makes you feel happy, even as it's making you feel sad and driving you mad for being so stupid...
+
+CCTL2_ACTB_3 = ~z~I know.  Oh, and this one's particularly... particularly idiotic...
+
+CCTL2_ACTB_4 = ~z~about a Scottish Lord and a princess who was raised as a peasant, but whose noble blood shines through...
+
+CCTL2_ACTB_5 = ~z~Good grief....
+
+CCTL2_ACTB_6 = ~z~I know.
+
+CCTL2_ACTB_7 = ~z~Can I read it... once you're done?
+
+CCTL2_ACTB_8 = ~z~Of course.
+
+CCTL2_ACTB_9 = ~z~Just don't tell Karen.
+
+CCTL2_ACTB_10 = ~z~Your secret's safe with me.
+

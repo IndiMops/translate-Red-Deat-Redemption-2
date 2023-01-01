@@ -1,0 +1,22 @@
+CCABI_CNV4_1 = ~z~
+
+CCABI_CNV4_2 = ~z~Come here, Jack Marston.
+
+CCABI_CNV4_3 = ~z~Look at me. Look at me. In the eye.
+
+CCABI_CNV4_4 = ~z~
+
+CCABI_CNV4_5 = ~z~You've been crying? Why? Why?
+
+CCABI_CNV4_6 = ~z~Don't know.
+
+CCABI_CNV4_7 = ~z~~sl:0.0:4.1~Listen to me. Don't waste your life worrying about people who don't care about you.~sl:0.6~You got me, you got the whole camp.
+
+CCABI_CNV4_8 = ~z~So stop them tears, you hear?
+
+CCABI_CNV4_9 = ~z~Yes.
+
+CCABI_CNV4_10 = ~z~
+
+CCABI_CNV4_11 = ~z~
+

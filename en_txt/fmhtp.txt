@@ -1,0 +1,94 @@
+0x2AD60520 = You are hidden from ~COLOR_POSSE_ENEMY~rivals~s~
+
+0x616AD777 = Go to ~COLOR_MP_OBJECTIVE~Bayou Swamp
+
+0xDB96F677 = Protect ~1p~
+
+0xF21DCE58 = You are now visible to ~COLOR_POSSE_ENEMY~rivals~s~
+
+HTP_BLIP = Hunt Area
+
+HTP_FI_ANNESBURG = Go to ~COLOR_MP_OBJECTIVE~Annesburg
+
+HTP_FI_APPLESEED = Go to ~COLOR_MP_OBJECTIVE~Appleseed
+
+HTP_FI_ARMADILLO = Go to ~COLOR_MP_OBJECTIVE~Armadillo
+
+HTP_FI_BATTLEFIELD = Go to ~COLOR_MP_OBJECTIVE~Civil War Battlefield
+
+HTP_FI_BIG_VALLEY = Go to ~COLOR_MP_OBJECTIVE~Big Valley Mountain
+
+HTP_FI_BLACKWATER = Go to ~COLOR_MP_OBJECTIVE~Blackwater
+
+HTP_FI_CALIGA = Go to ~COLOR_MP_OBJECTIVE~Caliga Hall
+
+HTP_FI_COLTER = Go to ~COLOR_MP_OBJECTIVE~Colter
+
+HTP_FI_CORNWALL = Go to ~COLOR_MP_OBJECTIVE~Cornwall
+
+HTP_FI_DAKOTA_RIVER = Go to ~COLOR_MP_OBJECTIVE~Dakota River
+
+HTP_FI_EAST_TWIN_ROCKS = Go to ~COLOR_MP_OBJECTIVE~East Twin Rocks
+
+HTP_FI_FORT_MERCER = Go to ~COLOR_MP_OBJECTIVE~Fort Mercer
+
+HTP_FI_FORT_WALLACE = Go to ~COLOR_MP_OBJECTIVE~Fort Wallace
+
+HTP_FI_GAPTOOTH_RIDGE = Go to ~COLOR_MP_OBJECTIVE~Tumbleweed
+
+HTP_FI_HENNIGAN_STEAD = Go to ~COLOR_MP_OBJECTIVE~Hennigan's Stead
+
+HTP_FI_RHODES = Go to ~COLOR_MP_OBJECTIVE~Rhodes
+
+HTP_FI_RIO_BRAVO = Go to ~COLOR_MP_OBJECTIVE~Rio Bravo
+
+HTP_FI_SAINT_DENIS = Go to ~COLOR_MP_OBJECTIVE~Saint Denis
+
+HTP_FI_SAINT_DENIS_RAIL = Go to ~COLOR_MP_OBJECTIVE~Saint Denis Rail Yard
+
+HTP_FI_STRAWBERRY = Go to ~COLOR_MP_OBJECTIVE~Strawberry
+
+HTP_FI_TALL_TREES = Go to ~COLOR_MP_OBJECTIVE~Tall Trees
+
+HTP_FI_VAN_HORN = Go to ~COLOR_MP_OBJECTIVE~Van Horn
+
+HTP_FI_VETERAN_HOME = Go to ~COLOR_MP_OBJECTIVE~Veteran's Home
+
+HTP_HELP_FAST_TRAVEL = You can hold ~INPUT_CONTEXT_Y~ to quickly travel to the area.
+
+HTP_HELP_HUNT = Take out the Posse Leader ~COLOR_POSSE_ENEMY~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ to win. The leader is blipped while making noise and won't show on the radar when silent.
+
+HTP_HELP_HUNTED = Protect your ~COLOR_POSSE_ALLY~Posse Leader~s~ against rival players until the time runs out. Your Leader will become blipped to rivals if they make noise or idle for too long.
+
+HTP_HELP_IDLE = You are now visible. Idling for too long will reveal your location. Keep moving to remain hidden.
+
+HTP_HELP_NOISE = You are now visible to rival players. Walk or sneak to stay quiet and remain hidden.
+
+HTP_HELP_OUTSIDE = Your Cores will drain and you are blipped on enemy radar until you return.
+
+HTP_KILL = Hunt down ~COLOR_ENEMY~~1p~
+
+HTP_KILL_SHARD = Find & take out ~1p~
+
+HTP_LEADER_WON = ~COLOR_POSSE_ALLY~~1p~~s~ survived the Hunt
+
+HTP_LOBBY_LEADER = Go to the area ~COLOR_MP_OBJECTIVE~~BLIP_OBJECTIVE~~s~ and survive until the time runs out to earn the full reward.
+
+HTP_LOBBY_MEMBER = Go to the area ~COLOR_MP_OBJECTIVE~~BLIP_OBJECTIVE~~s~ and help protect your Posse Leader until the time runs out to earn the full reward.
+
+HTP_PLAYER_KILLED_LEADER = ~1p~ was eliminated
+
+HTP_PLAYER_KILLED_YOU = ~COLOR_ENEMY~~1p~~s~ eliminated you
+
+HTP_PROTECT = Protect ~1p~
+
+HTP_SHARD_SURVIVE = Survive the hunt
+
+HTP_TARGET_WON = ~COLOR_ENEMY~~1p~~s~ survived the Hunt
+
+HTP_TOAST_KILLED_BY_AI = You died
+
+HTP_TOAST_SURVIVE = Making noise will reveal your location to rival players. Walk or sneak to stay quiet and remain hidden on the radar.
+
+HTP_TOAST_YOU_ABANDONED = You abandoned the Hunt
+

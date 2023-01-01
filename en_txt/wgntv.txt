@@ -1,0 +1,120 @@
+0x0B58A42E = Exit the wagon
+
+0x3B4F5A40 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~wagons~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xAAFE4922 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xEF20A6E9 = A thief has almost escaped with a wagon ~1~. Catch up to them before they get away.
+
+FETCH_WAGON_THIEVES_HELP_INTRO = Retrieve the wagon ~1b~ before the thieves escape within the time limit to earn the full reward.
+
+FETCH_WAGON_THIEVES_HELP_INTRO_PLURAL = Retrieve the wagons ~1b~ before the thieves escape within the time limit to earn the full reward.
+
+FETCH_WAGON_THIEVES_HELP_INTRO_SECONDARY = ~1~ triggered a rival mission against ~2~. Steal and deliver the wagon ~3b~ to gain the full reward.
+
+FETCH_WAGON_THIEVES_HELP_INTRO_SECONDARY_PLURAL = ~1~ triggered a rival mission against ~2~. Steal and deliver the wagons ~3b~ to gain the full reward.
+
+FETCH_WAGON_THIEVES_HELP_INTRO_SECONDARY_PLURAL_YOU = You triggered a rival mission against ~1~. Steal and deliver the wagons ~2b~ to gain the full reward.
+
+FETCH_WAGON_THIEVES_HELP_INTRO_SECONDARY_YOU = You triggered a rival mission against ~1~. Steal and deliver the wagon ~2b~ to gain the full reward.
+
+FETCH_WAGON_THIEVES_HELP_OBJECTIVE_ESCAPING = A thief has almost escaped with a wagon ~1b~. Catch up to them before they get away.
+
+FETCH_WAGON_THIEVES_OBJ_DEFEND = Help protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~wagon~s~ on the way ~1~
+
+FETCH_WAGON_THIEVES_OBJ_DEFEND_PLURAL = Help protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~wagons~s~ on the way ~1~
+
+FETCH_WAGON_THIEVES_OBJ_DESTROY = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~
+
+FETCH_WAGON_THIEVES_OBJ_DESTROY_PLURAL = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~wagons~s~
+
+FETCH_WAGON_THIEVES_OBJ_ESCAPING = Stop the thieves from stealing the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+FETCH_WAGON_THIEVES_OBJ_ESCORT_STEAL_PLURAL = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagons~s~
+
+FETCH_WAGON_THIEVES_OBJ_FIND = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+FETCH_WAGON_THIEVES_OBJ_FIND_PLURAL = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagons~s~
+
+FETCH_WAGON_THIEVES_OBJ_RETURN = Return the wagon ~1~
+
+FETCH_WAGON_THIEVES_OBJ_RETURN_TO = Deliver the wagon ~1~
+
+FETCH_WAGON_THIEVES_OBJ_STEAL = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+FETCH_WAGON_THIEVES_OBJ_STEAL_FROM_POSSE = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~ from ~COLOR_ENEMY~~1~~s~
+
+FETCH_WAGON_THIEVES_OBJ_STEAL_FROM_POSSE_PLURAL = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~wagons~s~ from ~COLOR_ENEMY~~1~~s~
+
+FETCH_WAGON_THIEVES_OBJ_STEAL_FROM_POSSE_SECONDARY = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~ from ~COLOR_ENEMY~~1~~s~
+
+FETCH_WAGON_THIEVES_OBJ_STEAL_FROM_POSSE_SECONDARY_PLURAL = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~wagons~s~ from ~COLOR_ENEMY~~1~~s~
+
+FETCH_WAGON_THIEVES_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Rival players~s~ can now steal the wagon
+
+FETCH_WAGON_THIEVES_PVP_GLOBAL_SIGNAL_PLURAL = ~COLOR_ENEMY~Rival players~s~ can now steal the wagons
+
+FETCH_WAGON_THIEVES_SCORETIMER_CLEANUP_RADIUS = A thief has escaped with a wagon
+
+FETCH_WAGON_THIEVES_SCORETIMER_DELIVER_TEAM_PRIMARY_FAIL = ~1~ delivered a wagon
+
+FETCH_WAGON_THIEVES_SCORETIMER_DELIVER_TEAM_PRIMARY_FAIL_NP = A wagon has been delivered
+
+FETCH_WAGON_THIEVES_SCORETIMER_DELIVER_TEAM_PRIMARY_FAIL_YOU = You delivered a wagon
+
+FETCH_WAGON_THIEVES_SCORETIMER_DELIVER_TEAM_PRIMARY_FAIL_YOUR = Your Posse delivered a wagon
+
+FETCH_WAGON_THIEVES_SCORETIMER_DELIVER_TEAM_PRIMARY_PASS = ~1~ returned a wagon
+
+FETCH_WAGON_THIEVES_SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_NP = A wagon has been returned
+
+FETCH_WAGON_THIEVES_SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_YOU = You returned a wagon
+
+FETCH_WAGON_THIEVES_SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_YOUR = Your Posse returned a wagon
+
+FETCH_WAGON_THIEVES_SCORETIMER_JOIN_SECONDARY = ~COLOR_ENEMY~~1~~s~ is attempting to steal the wagon
+
+FETCH_WAGON_THIEVES_SCORETIMER_JOIN_SECONDARY_PLURAL = ~COLOR_ENEMY~~1~~s~ is attempting to steal a wagon
+
+FETCH_WAGON_THIEVES_SHARD_DESC_PRIMARY = Reclaim the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~ and return it to the drop off
+
+FETCH_WAGON_THIEVES_SHARD_DESC_PRIMARY_PLURAL = Reclaim the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagons~s~ and return them to the drop off
+
+FETCH_WAGON_THIEVES_SHARD_DESC_SECONDARY = Steal and deliver the wagon
+
+FETCH_WAGON_THIEVES_SHARD_DESC_SECONDARY_PLURAL = Steal and deliver the wagons
+
+FETCH_WAGON_THIEVES_SHARD_DESTROYED = The wagon was destroyed
+
+FETCH_WAGON_THIEVES_SHARD_DESTROYED_PLURAL = The wagons were destroyed
+
+FETCH_WAGON_THIEVES_SHARD_OVER = The wagon thieves escaped
+
+FETCH_WAGON_THIEVES_SHARD_PRIMARY_FAIL = The wagon was stolen
+
+FETCH_WAGON_THIEVES_SHARD_PRIMARY_FAIL_PLURAL = The wagons were stolen
+
+FETCH_WAGON_THIEVES_SHARD_PRIMARY_PASS = The wagon was returned
+
+FETCH_WAGON_THIEVES_SHARD_PRIMARY_PASS_PARTIAL = ~1~/~2~ wagons were returned
+
+FETCH_WAGON_THIEVES_SHARD_PRIMARY_PASS_PLURAL = The wagons were returned
+
+FETCH_WAGON_THIEVES_SHARD_SECONDARY_FAIL = The wagon was returned
+
+FETCH_WAGON_THIEVES_SHARD_SECONDARY_FAIL_PLURAL = The wagons were returned
+
+FETCH_WAGON_THIEVES_SHARD_SECONDARY_FAIL_RIVALS = A rival Posse delivered the wagon
+
+FETCH_WAGON_THIEVES_SHARD_SECONDARY_FAIL_RIVALS_PLURAL = A rival Posse delivered the wagons
+
+FETCH_WAGON_THIEVES_SHARD_SECONDARY_PASS = The wagon was stolen
+
+FETCH_WAGON_THIEVES_SHARD_SECONDARY_PASS_PARTIAL = ~1~/~2~ wagons were stolen
+
+FETCH_WAGON_THIEVES_SHARD_SECONDARY_PASS_PLURAL = The wagons were delivered
+
+FETCH_WAGON_THIEVES_TICKER_DESTROY = A ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~ was destroyed
+
+FETCH_WAGON_THIEVES_TICKER_DESTROY_YOU = You destroyed a ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+

@@ -1,0 +1,4 @@
+PRJ_UC_NEG = Foe
+
+PRJ_UC_POS = Friend
+

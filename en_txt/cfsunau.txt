@@ -1,0 +1,30 @@
+CFSUN_ACT_1 = ~z~How you gentlemen keeping?
+
+CFSUN_ACT_2 = ~z~Fine, Miss Grimshaw, and you?
+
+CFSUN_ACT_3 = ~z~Just fine, sir, just fine.
+
+CFSUN_ACT_4 = ~z~I must say, all this adventuring and wandering over mountain passes, being chased and running for our lives... surely agrees with you.
+
+CFSUN_ACT_5 = ~z~If I didn't know, I would think you was the same age as them silly girls.
+
+CFSUN_ACT_6 = ~z~Oh, away with you, silly man!
+
+CFSUN_ACT_7 = ~z~Oh, no, no. Well, if I was five years younger and a thousand dollars richer,
+
+CFSUN_ACT_8 = ~z~Well, I'd marry you... make a dishonest woman of you, I would...
+
+CFSUN_ACT_9 = ~z~And that'd be the best decision I ever took.
+
+CFSUN_ACT_10 = ~z~You're a fine woman.
+
+CFSUN_ACT_11 = ~z~Oh, you keep it hidden under that sour vinegar face and nasty acid tongue, but I know that's just a rose's thorns.
+
+CFSUN_ACT_12 = ~z~You're a silver-tongued flatterer and no mistake.
+
+CFSUN_ACT_13 = ~z~Oh, now I tell the truth, ma'am.
+
+CFSUN_ACT_14 = ~z~I must get back to my work.
+
+CFSUN_ACT_15 = ~z~Oh, there's something about that woman... sweet and sour...
+

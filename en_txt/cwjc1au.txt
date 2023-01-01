@@ -1,0 +1,24 @@
+CWJC1_ACT_1 = ~z~Uncle Arthur, Uncle Arthur.
+
+CWJC1_ACT_2 = ~z~What's up, kid?
+
+CWJC1_ACT_3 = ~z~Not much... well, I had fun fishing...
+
+CWJC1_ACT_4 = ~z~Yeah, me too.
+
+CWJC1_ACT_5 = ~z~So I lost momma's thimble... I was playing with it and...
+
+CWJC1_ACT_6 = ~z~just lost it.
+
+CWJC1_ACT_7 = ~z~Oh, okay.
+
+CWJC1_ACT_8 = ~z~She's going to kill me.
+
+CWJC1_ACT_9 = ~z~I don't think she'd care too much. It's only a thimble.
+
+CWJC1_ACT_10 = ~z~Oh no, she will kill me.
+
+CWJC1_ACT_11 = ~z~Well... maybe I can find you another one. You can give it to her.
+
+CWJC1_ACT_12 = ~z~Oh, that would be fine. Thanks, Arthur.
+

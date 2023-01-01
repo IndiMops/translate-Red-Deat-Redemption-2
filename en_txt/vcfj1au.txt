@@ -1,0 +1,14 @@
+VCFJ1_ACTION_1 = ~z~So, you coming home any time, John?
+
+VCFJ1_ACTION_2 = ~z~Hey, Charles. I just been finishing up some old bits of business.
+
+VCFJ1_ACTION_3 = ~z~I understand... we miss ya. You coming?
+
+VCFJ1_NEGATIVE_1 = ~z~Soon, I promise.
+
+VCFJ1_NEGATIVE_2 = ~z~Okay.
+
+VCFJ1_POSITIVE_1 = ~z~Sure.
+
+VCFJ1_POSITIVE_2 = ~z~Okay.
+

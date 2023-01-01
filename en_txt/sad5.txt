@@ -1,0 +1,54 @@
+0x6CD2D6C7 = Sadie
+
+SAD5_BINO = Equip binoculars
+
+SAD5_B_FAIL = You lost the bounty.
+
+SAD5_B_HIT = Hit
+
+SAD5_FINLEY = Shane Finley
+
+SAD5_FOCUS = Focus Posse~s~
+
+SAD5_LANGTON = James Langton
+
+SAD5_OBJ1 = Mount your ~o~horse~s~
+
+SAD5_OBJ3 = Follow ~o~Sadie~s~
+
+SAD5_OBJ4 = Use Binoculars or a weapon scope to survey ~o~Armadillo~s~
+
+SAD5_OBJ5 = Observe the ~o~posse~s~
+
+SAD5_OBJ6 = Follow the ~o~posse~s~
+
+SAD5_OBJ7 = Make your decision~s~
+
+SAD5_OBJ8 = Stow ~e~Shane Finley~s~
+
+SAD5_OBJ9 = Escape with ~o~Sadie~s~
+
+SAD5_OBJ10 = Deal with ~e~Langton's boys~s~
+
+SAD5_OBJ11 = Pick up ~e~Shane Finley~s~
+
+SAD5_OBJ12 = Put Shane Finley in the ~o~cell~s~
+
+SAD5_OBJ13 = Stealthily kill the ~e~guards~s~
+
+SAD5_OBJ14 = Cover Sadie from the ~o~ridgeline~s~
+
+SAD5_P_ALERT = The posse was alerted.
+
+SAD5_P_FAIL = You lost the posse.
+
+SAD5_P_GALERT = The gang was alerted.
+
+SAD5_SHOOT = Shoot the gang
+
+SAD5_SNEAK = Sneak
+
+SAD5_THREATEN = Threaten the gang
+
+SAD5_WANTED = You became wanted.
+

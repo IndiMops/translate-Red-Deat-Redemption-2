@@ -1,0 +1,16 @@
+DUEL_HELP_DRAW_ALT = Hold ~INPUT_ATTACK~ to fill the meter. When the meter is full you will draw.
+
+DUEL_HELP_DRAW_GUNSLINGER = SLOWLY press ~INPUT_ATTACK~ to fill the meter. The more full the meter, the longer you get to aim.
+
+DUEL_HELP_SHOWDOWN = Move the reticle with ~INPUTGROUP_LOOK~.~n~Press ~INPUT_ATTACK~ to fire.
+
+DUEL_OBJ_DRAW = Fully press ~INPUT_ATTACK~ to draw
+
+DUEL_OBJ_DRAW_ALT = Continue holding ~INPUT_ATTACK~ to completely fill the meter and draw
+
+DUEL_OBJ_FILL = LIGHTLY hold ~INPUT_ATTACK~ to begin to fill the meter before drawing
+
+DUEL_OBJ_FILL_ALT = Hold ~INPUT_ATTACK~ to begin to fill the meter before drawing
+
+DUEL_OBJ_FIRE = Shoot your ~e~Opponent~s~
+

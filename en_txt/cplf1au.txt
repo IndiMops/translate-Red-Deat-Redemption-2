@@ -1,0 +1,10 @@
+CPLF1_ACTION_1 = ~z~~sl:0.6~Excuse me, ladies and gentlemen, please, can I have a second?
+
+CPLF1_ACTION_2 = ~z~I need more food if you people don't want to starve.
+
+CPLF1_ACTION_3 = ~z~I'm talking meat, fish, vegetables,
+
+CPLF1_ACTION_4 = ~z~~sl:0.0:3.2~I can cook any of these things, the one thing I cannot cook...~sl:0.5~is air. So, please, somebody, go hunting...
+
+CPLF1_ACTION_5 = ~z~Come along, you guys... you're getting lazy.
+

@@ -1,0 +1,118 @@
+0x0A220406 = Right switch
+
+0x10D3A966 = Electric Lantern
+
+0x428E5A7F = Middle switch
+
+0x33654DB6 = Left switch
+
+0x98127188 = Stranger
+
+CKPT1_BL_D = Dock
+
+CKPT1_BL_I = Marko Dragic
+
+CKPT1_BL_M = Mine
+
+CKPT1_BL_T = Warship
+
+CKPT1_BL_T2 = Sailboat
+
+CKPT4_FAIL01 = You attacked Marko Dragic.~s~
+
+CKPT4_FAIL02 = You attacked the crowd.~s~
+
+CKPT4_FAIL03 = The boat was destroyed.~s~
+
+CKPT4_FAIL03B = The boat was beached.~s~
+
+CKPT4_FAIL04 = The demonstration was abandoned.~s~
+
+CKPT4_FAIL05 = A sailboat reached the other side.~s~
+
+CKPT4_FAIL07 = You attacked the assistants.~s~
+
+CKPT4_FAIL08 = You wrecked Marko's rowboat.~s~
+
+CKPT_5_DISTWARN = Return to the experiment area.
+
+CKPT_5_FAIL01 = The conduction device was damaged.
+
+CKPT_5_FAIL02 = The equipment was damaged.
+
+CKPT_5_FAIL03 = Marko Dragic has died.
+
+CKPT_5_FAIL04 = The experiment was abandoned.
+
+CKPT_5_HELP1 = Hold ~INPUT_AIM~ and use ~INPUT_LOOK_LR~ to aim the detector. The coil inside the detector will flash quickly when aimed in the direction of an electrostatic field.
+
+CKPT_5_HELP2 = The coil will glow brighter as you get closer to an electrostatic field.
+
+CKPT_5_OBJ1 = Aim the detector to find an electrostatic field~s~
+
+CKPT_5_OBJ2 = Return to ~o~Marko Dragic~s~
+
+CKPT_5_OBJ4 = Place a conductor in the ~o~electrostatic field~s~
+
+CKPT_5_OBJ5 = Aim the detector to find another electrostatic field~s~
+
+CKPT_5_OBJ6 = Climb the ~o~tower~s~ and operate the switching array
+
+CKPT_5_OBJ6B = Climb the tower and operate the ~o~switching array~s~
+
+CKPT_5_OBJ7 = Toggle the switches until all the lights turn on
+
+CKPT_5_OBJZ = Hold ~INPUT_AIM~ and use ~INPUT_LOOK_LR~ to aim the detector to find an electrostatic field
+
+CKPT_AIM = Aim Detector
+
+CKPT_ANTAG = Antagonize
+
+CKPT_BL_C = Conduction device
+
+CKPT_BL_E = Electrostatic field
+
+CKPT_BL_L = Laboratory
+
+CKPT_BL_SA = Switching array
+
+CKPT_BL_SE = Search area
+
+CKPT_BL_T = Tower
+
+CKPT_BT_MH = The ~e~mines~s~ will be attracted towards the boat if it gets too close.
+
+CKPT_BT_N1 = Destroy the ~e~warships~s~ while avoiding the ~e~mines~s~
+
+CKPT_BT_N2 = Return the boat to the ~o~dock~s~
+
+CKPT_BT_NB = Destroy the ~e~sailboats~s~ while avoiding the ~e~mines~s~
+
+CKPT_DET_HLP = The detector can be equipped from the Item Wheel, hold ~INPUT_OPEN_WHEEL_MENU~ ~s~to open the Weapon Wheel, then press ~INPUT_SELECT_NEXT_WHEEL~ ~s~to view the Item Wheel.
+
+CKPT_GREET = Greet
+
+CKPT_OBJSEARCH = Search the ~o~area~s~ for the electrostatic field~s~
+
+CKPT_S_GEN = Operate switch
+
+CKPT_S_LEAVE = Leave
+
+CKPT_S_SLCT = Select switch
+
+CKPT_S_START = Operate
+
+CKPT_UCPL = Place conductor
+
+RC_BOAT_NEW_A = Accelerate
+
+RC_BOAT_NEW_AM = Aim
+
+RC_BOAT_NEW_B = Reverse
+
+RC_BOAT_NEW_C = Change camera
+
+RC_BOAT_NEW_F = Fire
+
+RC_BOAT_NEW_S = Steer
+

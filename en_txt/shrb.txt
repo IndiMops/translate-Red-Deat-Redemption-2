@@ -1,0 +1,54 @@
+0x5EA3CC3A = Point of Interest
+
+0x486CF780 = Select to have discovered the secret area, or entering the secret area.
+
+0x39593A54 = Peek through window
+
+0xA5B88602 = Stranger
+
+0xDB1A9252 = ~s~Rob the ~p~valuables~s~ from the gambling room
+
+0xF70A7AFD = New Weapon
+
+HLP_SR_FOUNDD = ~s~You've found a hidden operation at the ~BLIP_SHOP_DOCTOR~. You can now rob the shop's side business.
+
+HLP_SR_FOUNDD_D = ~s~You've found a hidden operation at the ~BLIP_SHOP_DOCTOR~. You can rob the shop's side business.
+
+HLP_SR_FOUNDD_N = ~s~You've found a hidden operation at the ~BLIP_SHOP_DOCTOR~. You can rob the shop's side business.
+
+HLP_SR_FOUNDGS = ~s~You've found a hidden operation at the ~BLIP_SHOP_STORE~. You can now rob the shop's side business.
+
+HLP_SR_FOUNDGS_D = ~s~You've found a hidden operation at the ~BLIP_SHOP_STORE~. You can rob the shop's side business.
+
+HLP_SR_FOUNDGS_STR = ~s~You've found a hidden operation at the ~BLIP_SHOP_STORE~. You can now rob the shop's side business.
+
+HLP_SR_FOUNDGS_STR_D = ~s~You've found a hidden operation at the ~BLIP_SHOP_STORE~. You can rob the shop's side business.
+
+HLP_SR_FOUNDGS_STR_N = ~s~You've found a hidden operation at the ~BLIP_SHOP_STORE~. You can rob the shop's side business.
+
+HLP_SR_FOUNDGU = ~s~You've found a hidden operation at the ~BLIP_SHOP_GUNSMITH~. You can now rob the shop's side business.
+
+HLP_SR_FOUNDGURH = ~s~You've found suspicious activity at the ~BLIP_SHOP_GUNSMITH~. You can now rob the shop's side business.
+
+HLP_SR_FOUNDGURH_D = ~s~You've found suspicious activity at the ~BLIP_SHOP_GUNSMITH~. You can rob the shop's side business.
+
+HLP_SR_FOUNDGU_D = ~s~You've found a hidden operation at the ~BLIP_SHOP_GUNSMITH~. You can rob the shop's side business.
+
+SR_NG_O_GOTHIRDFLOOR = ~s~Go to the gambling room on the ~o~third floor~s~
+
+SR_NG_O_ROBTABLE = ~s~Take the ~o~money~s~ from the table~s~
+
+SR_RG_BLIP_CAPTIVE1 = Stranger
+
+SR_RG_BLIP_CAPTIVE2 = Captive
+
+SR_ROB_ILO_BACKROOM = Rob Back Room
+
+SR_ROB_ILO_BASEMENT = Rob Basement
+
+SR_SD_BLIP_DOWNGUARD = Guard
+
+SR_SD_BLIP_MONEY = Money
+
+SR_SD_BLIP_SAFE = Safe
+

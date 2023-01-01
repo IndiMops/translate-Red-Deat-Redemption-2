@@ -1,0 +1,1232 @@
+CAL1_POST1INFOJ_1 = ~z~And how do I find these guys again, guys and girl, your gunslingers?
+
+CAL1_POST1INFOJ_2 = ~z~Look at those portraits I gave you. I made notes on the backs...
+
+CAL1_POST1INFOJ_3 = ~z~I was going to look them up myself but... but you're a better man for the job.
+
+CAL1_POST1INFOJ_4 = ~z~Is that right? Okay then.
+
+CAL1_POST1INFO_1 = ~z~And how do I find these guys again, guys and girl, your gunslingers?
+
+CAL1_POST1INFO_2 = ~z~Look at those portraits I gave you. I made notes on the backs...
+
+CAL1_POST1INFO_3 = ~z~I was going to look them up myself but... but you're a better man for the job.
+
+CAL1_POST1INFO_4 = ~z~Is that right? Okay then.
+
+CAL3_ILO_NSE_NA_1 = ~z~If you fellers got the State Marshall here, I'm gonna be taking him.
+
+CAL3_ILO_NSE_NJ_1 = ~z~If you fellers got the State Marshall here, I'm gonna be taking him.
+
+CAL3_ILO_NSE_PA_1 = ~z~You fellers don't happen to have a State Marshall here do you?
+
+CAL3_ILO_NSE_PJ_1 = ~z~You fellers don't happen to have a State Marshall here do you?
+
+CAL3_ILO_SEE_NA_1 = ~z~You got Slim Grant? I'm gonna need to take him, fellers.
+
+CAL3_ILO_SEE_NJ_1 = ~z~You got Slim Grant? I'm gonna need to take him, fellers.
+
+CAL3_ILO_SEE_PA_1 = ~z~You all got the Marshall Slim Grant there? I need to borrow him a while.
+
+CAL3_ILO_SEE_PJ_1 = ~z~You all got the Marshall Slim Grant there? I need to borrow him a while.
+
+CAL3_JOURNEY1_1 = ~z~Now, you going to tell me what the hell is going on here?
+
+CAL3_JOURNEY1_2 = ~z~I was... before you got so short with me.
+
+CAL3_JOURNEY1_J_1 = ~z~Now, you going to tell me what the hell is going on here?
+
+CAL3_JOURNEY1_J_2 = ~z~I was... before you got so short with me.
+
+CAL3_JOURNEY2_1 = ~z~Son, what the hell are you up to?
+
+CAL3_JOURNEY2_2 = ~z~I'm taking you to see an old friend of yours... it's a reunion of sorts.
+
+CAL3_JOURNEY2_3 = ~z~Would you stop being so damn cryptic?
+
+CAL3_JOURNEY2_4 = ~z~I'm telling you all I can. It's a job. Someone wants to see you, I'm taking you to 'em.
+
+CAL3_JOURNEY2_5 = ~z~What if I don't want to see them?
+
+CAL3_JOURNEY2_6 = ~z~Well, that's a good argument for keeping that rope around your wrists.
+
+CAL3_JOURNEY2_J_1 = ~z~Son, what the hell are you up to?
+
+CAL3_JOURNEY2_J_2 = ~z~I'm taking you to see an old friend of yours... it's a reunion of sorts.
+
+CAL3_JOURNEY2_J_3 = ~z~Would you stop being so damn cryptic?
+
+CAL3_JOURNEY2_J_4 = ~z~I'm telling you all I can. It's a job. Someone wants to see you, I'm taking you to 'em.
+
+CAL3_JOURNEY2_J_5 = ~z~What if I don't want to see them?
+
+CAL3_JOURNEY2_J_6 = ~z~Well, that's a good argument for keeping that rope around your wrists.
+
+CAL3_JOURNEY3_A_1 = ~z~I'm a state marshal and this is an abduction.
+
+CAL3_JOURNEY3_A_2 = ~z~Horse shit. I'm saving you. This is just a... little detour on the way to liberty.
+
+CAL3_JOURNEY3_A_3 = ~z~I will prosecute you for this, you insubordinate bastard.
+
+CAL3_JOURNEY3_A_4 = ~z~There you go again, Mr. Grant. Ain't doing yourself no favors.
+
+CAL3_JOURNEY3_A_5 = ~z~What's your name son?
+
+CAL3_JOURNEY3_A_6 = ~z~I ain't got no name, and I ain't your son. Sit tight, I'll take you to your friend, then this will all be over.
+
+CAL3_JOURNEY3_A_7 = ~z~Not for you it won't be.
+
+CAL3_JOURNEY3_A_8 = ~z~Whatever you say.
+
+CAL3_JOURNEY3_J_1 = ~z~I'm a state marshal and this is an abduction.
+
+CAL3_JOURNEY3_J_2 = ~z~~sl:0.2~Horse shit. I'm saving you. This is just a little... detour, on the way to liberty.
+
+CAL3_JOURNEY3_J_3 = ~z~I will prosecute you for this, you insubordinate bastard.
+
+CAL3_JOURNEY3_J_4 = ~z~There you go again, Mr. Grant. Ain't doing yourself no favors.
+
+CAL3_JOURNEY3_J_5 = ~z~What's your name son?
+
+CAL3_JOURNEY3_J_6 = ~z~I ain't got no name, and I ain't your son. Sit tight, I'll take you to your friend, then this will all be over.
+
+CAL3_JOURNEY3_J_7 = ~z~Not for you it won't be.
+
+CAL3_JOURNEY3_J_8 = ~z~Whatever you say.
+
+CAL3_LEVGREET3J_1 = ~z~You're here... but... where's Mr. Grant?
+
+CAL3_LEVGREET3J_2 = ~z~Marshal Grant's coming just... give me a moment.
+
+CAL3_LEVGREET3J_3 = ~z~Okay, well... soon as you can.
+
+CAL3_LEVGREET3_1 = ~z~You're here... but... where's Mr. Grant?
+
+CAL3_LEVGREET3_2 = ~z~Marshal Grant's coming just... give me a moment.
+
+CAL3_LEVGREET3_3 = ~z~Okay, well... soon as you can.
+
+CAL3_LEVINWAIT_01 = ~z~Time is of the essence here.
+
+CAL3_LEVINWAIT_02 = ~z~Our friend is uncharacteristically sober, so... tick tock.
+
+CAL3_LEVINWAIT_03 = ~z~We're waiting on you... and Grant of course.
+
+CAL3_LEVINWAIT_04 = ~z~Go get him and hurry back.
+
+CAL3_OLW_INT_1 = ~z~I'm getting real tired of playing nurse maid to this marshal.
+
+CAL3_OLW_INT_2 = ~z~None of us wants to kill us a marshall, and non of us wants to let one go neither.
+
+CAL3_OLW_INT_3 = ~z~So playing nurse maids about the only choice we got left.
+
+CAL3_OLW_INT_4 = ~z~No one's come for the cantankerous old bastard yet, has they?
+
+CAL3_OLW_INT_5 = ~z~No, but...
+
+CAL3_OLW_INT_6 = ~z~But nothing. Eat your beans.
+
+CAL3_OLW_SPTK2_1 = ~z~He's got our marshal!
+
+CAL3_OLW_SPTK_1 = ~z~Hey! I knew someone would come for Grant!
+
+CAL3_SAVED_1 = ~z~This is real peculiar. I'm state marshal, you know.
+
+CAL3_SAVED_2 = ~z~Yeah, I know. Just sit tight. All will be revealed.
+
+CAL3_SAVED_J_1 = ~z~This is real peculiar. I'm state marshal, you know.
+
+CAL3_SAVED_J_2 = ~z~Yeah, I know. Just sit tight. All will be revealed.
+
+RCAL1_BAR_HANG_1 = ~z~I wouldn't drink here though. Get on to Saint Denis and have you some Sazerac.
+
+RCAL1_BAR_HANG_2 = ~z~If there's anything else I can do... let me know.
+
+RCAL1_ILO_BAR_A_1 = ~z~Hey, I'm looking for some fellers sojourned around here.
+
+RCAL1_ILO_BAR_A_2 = ~z~Boy Calloway and a writer called Levin?
+
+RCAL1_ILO_BAR_A_3 = ~z~Drunk Boy Calloway... this bar's got bullet marks to remember him by.
+
+RCAL1_ILO_BAR_A_4 = ~z~Last I heard they was in Saint Denis. Had rooms on a River Boat there.
+
+RCAL1_ILO_BAR_A_5 = ~z~Saint Denis, on a riverboat? Oh, okay then.
+
+RCAL1_ILO_BAR_J_1 = ~z~Hey, I'm looking for some fellers sojourned around here.
+
+RCAL1_ILO_BAR_J_2 = ~z~Boy Calloway and a writer called Levin?
+
+RCAL1_ILO_BAR_J_3 = ~z~Drunk Boy Calloway... this bar's got bullet marks to remember him by.
+
+RCAL1_ILO_BAR_J_4 = ~z~Last I heard they was in Saint Denis. Had rooms on a River Boat there.
+
+RCAL1_ILO_BAR_J_5 = ~z~Saint Denis, on a riverboat? Okay then.
+
+RCAL1_PASSOUT1_1 = ~z~~sl:0.6~He passed out... of course he passed out.
+
+RCAL1_PASSOUT2_01 = ~z~If anyone knows how to get blood from a stone, I would gladly like to hear how it's done.
+
+RCAL1_PASSOUT2_02 = ~z~I'm afraid he's gone way past in vino veritas... into the realm of in vino stupefaction.
+
+RCAL1_PASSOUT2_03 = ~z~Oh brother, the problem with the truth is you can't make it up... do you mind if I make it all up, Mr. Calloway?
+
+RCAL1_PASSOUT2_04 = ~z~Mr. Calloway... Mr. Calloway... is anyone in there?
+
+RCAL1_PASSOUT2_05 = ~z~Do you think another drink rouse him? Or would it put him out for good? It might be worth the gamble.
+
+RCAL1_PASSOUT2_06 = ~z~Sorry about my friend... I'd make a loud noise to wake him, only my friend here might mistake it for gunfire and shoot me.
+
+RCAL1_PASSOUT2_07 = ~z~Excuse this one, he finds my company so dull he drinks himself into oblivion whenever I try and ask him a question.
+
+RCAL1_RC1_1 = ~z~This is Jim 'Boy' Calloway.
+
+RCAL1_RC1_2 = ~z~The Jim 'Boy' Calloway.
+
+RCAL1_RC1_3 = ~z~Who?
+
+RCAL1_RC1_4 = ~z~The gunslinger...
+
+RCAL1_RC1_5 = ~z~fastest left-handed draw that ever drew breath.
+
+RCAL1_RC1_6 = ~z~He once killed fourteen men in a fight at Lewsey Hollow.
+
+RCAL1_RC1_7 = ~z~Well what are you waiting for?
+
+RCAL1_RC1_8 = ~z~How do you mean?
+
+RCAL1_RC1_9 = ~z~Well...
+
+RCAL1_RC1_10 = ~z~I reckon, right now...
+
+RCAL1_RC1_11 = ~z~kill him yourself.
+
+RCAL1_RC1_12 = ~z~I don't wanna kill him...
+
+RCAL1_RC1_13 = ~z~I wanna deify him.
+
+RCAL1_RC1_14 = ~z~He's a god.
+
+RCAL1_RC1_15 = ~z~I'm trying to write his biography.
+
+RCAL1_RC1_16 = ~z~And how's that going?
+
+RCAL1_RC1_17 = ~z~I think I'd prefer the duel.
+
+RCAL1_RC1_18 = ~z~Either I'd kill him...
+
+RCAL1_RC1_19 = ~z~and be able to be Baltimore's finest ever gunslinger...
+
+RCAL1_RC1_20 = ~z~or he'd kill me and I could be set free...
+
+RCAL1_RC1_21 = ~z~from ever having to speak to him again.
+
+RCAL1_RC1_22 = ~z~Well, you're starting to understand something very important.
+
+RCAL1_RC1_23 = ~z~What's that?
+
+RCAL1_RC1_24 = ~z~The joys of gunslinging.
+
+RCAL1_RC1_25 = ~z~It's win-win, freedom or glory.
+
+RCAL1_RC1_26 = ~z~That's brilliant.
+
+RCAL1_RC1_27 = ~z~I'm going to write that down...
+
+RCAL1_RC1_28 = ~z~if I may?
+
+RCAL1_RC1_29 = ~z~Be my guest.
+
+RCAL1_RC1_30 = ~z~What's your name?
+
+RCAL1_RC1_31 = ~z~I don't have a name.
+
+RCAL1_RC1_32 = ~z~But you are a gunslinger?
+
+RCAL1_RC1_33 = ~z~Not really.
+
+RCAL1_RC1_34 = ~z~I mean folks who need shooting, I try and shoot in the back.
+
+RCAL1_RC1_35 = ~z~All that other stuff, it's...
+
+RCAL1_RC1_36 = ~z~well...
+
+RCAL1_RC1_37 = ~z~bunk.
+
+RCAL1_RC1_38 = ~z~But you've fought duels?
+
+RCAL1_RC1_39 = ~z~Once upon a time...
+
+RCAL1_RC1_40 = ~z~I may have.
+
+RCAL1_RC1_41 = ~z~And you ain't interested in fame?
+
+RCAL1_RC1_42 = ~z~I don't think so.
+
+RCAL1_RC1_43 = ~z~Strange...
+
+RCAL1_RC1_44 = ~z~but you like fortune?
+
+RCAL1_RC1_45 = ~z~I need money, sure...
+
+RCAL1_RC1_46 = ~z~Okay...
+
+RCAL1_RC1_47 = ~z~then forgive me, mister if I seem a little desperate...
+
+RCAL1_RC1_48 = ~z~I am a little desperate.
+
+RCAL1_RC1_49 = ~z~This book...
+
+RCAL1_RC1_50 = ~z~I've gotta make a thing of it, and...
+
+RCAL1_RC1_51 = ~z~well...
+
+RCAL1_RC1_52 = ~z~there's a whole list of gun fighters.
+
+RCAL1_RC1_53 = ~z~Legends, every last one.
+
+RCAL1_RC1_54 = ~z~Emmet Granger...
+
+RCAL1_RC1_55 = ~z~Flaco Hernandez...
+
+RCAL1_RC1_56 = ~z~Billy Midnight...
+
+RCAL1_RC1_57 = ~z~Black Belle.
+
+RCAL1_RC1_58 = ~z~Never heard of 'em.
+
+RCAL1_RC1_59 = ~z~Maybe you can go and speak to them...
+
+RCAL1_RC1_60 = ~z~ask 'em about Calloway.
+
+RCAL1_RC1_61 = ~z~Any of 'em get uppity...
+
+RCAL1_RC1_62 = ~z~shoot 'em.
+
+RCAL1_RC1_63 = ~z~I can't believe I just said that but...
+
+RCAL1_RC1_64 = ~z~You want me to go and find some...
+
+RCAL1_RC1_65 = ~z~sad, deluded fools like him...
+
+RCAL1_RC1_66 = ~z~ask if he was the greatest...
+
+RCAL1_RC1_67 = ~z~and then if they get uppity, shoot 'em?
+
+RCAL1_RC1_68 = ~z~Does sound a lot worse than it did in my head.
+
+RCAL1_RC1_69 = ~z~How much you paying?
+
+RCAL1_RC1_70 = ~z~Well, a lot.
+
+RCAL1_RC1_71 = ~z~Half the proceeds of the book...
+
+RCAL1_RC1_72 = ~z~if you help me get it written.
+
+RCAL1_RC1_73 = ~z~I'll see what I can do.
+
+RCAL1_RC1_74 = ~z~Ha!
+
+RCAL1_RC1_75 = ~z~Oh, get photos.
+
+RCAL1_RC1_76 = ~z~Okay.
+
+RCAL1_RC1_77 = ~z~And there are notes on the back...
+
+RCAL1_RC1_78 = ~z~of those portraits that should lead you to 'em.
+
+RCAL1_RC1_79 = ~z~I'll see what I can find out.
+
+RCAL1_RC1_80 = ~z~I imagine we'll be stuck here upon your return.
+
+RCAL1_RC1_81 = ~z~Here or some other flop house.
+
+RCAL1_RC1_82 = ~z~Who?
+
+RCAL1_RC1_83 = ~z~Well what are you waiting for?
+
+RCAL1_RC1_84 = ~z~Well...
+
+RCAL1_RC1_85 = ~z~I reckon, right now...
+
+RCAL1_RC1_86 = ~z~you kill him yourself.
+
+RCAL1_RC1_87 = ~z~How's that going?
+
+RCAL1_RC1_88 = ~z~Well, you're starting to understand something very important.
+
+RCAL1_RC1_89 = ~z~The joys of gunslinging.
+
+RCAL1_RC1_90 = ~z~It's win-win, freedom or glory.
+
+RCAL1_RC1_91 = ~z~Be my guest.
+
+RCAL1_RC1_92 = ~z~I don't have a name.
+
+RCAL1_RC1_93 = ~z~Not really.
+
+RCAL1_RC1_94 = ~z~Folks who need shooting I try to shoot in the back.
+
+RCAL1_RC1_95 = ~z~All that other stuff...
+
+RCAL1_RC1_96 = ~z~well...
+
+RCAL1_RC1_97 = ~z~bunk.
+
+RCAL1_RC1_98 = ~z~Once upon a time...
+
+RCAL1_RC1_99 = ~z~I may have.
+
+RCAL1_RC1_100 = ~z~Don't think so.
+
+RCAL1_RC1_101 = ~z~I need money, sure...
+
+RCAL1_RC1_102 = ~z~Never heard of 'em.
+
+RCAL1_RC1_103 = ~z~You want me...
+
+RCAL1_RC1_104 = ~z~to go find some sad, deluded folks like him...
+
+RCAL1_RC1_105 = ~z~ask if he was the greatest...
+
+RCAL1_RC1_106 = ~z~and then if they get uppity, shoot 'em?
+
+RCAL1_RC1_107 = ~z~How much you paying?
+
+RCAL1_RC1_108 = ~z~I'll see what I can do...
+
+RCAL1_RC1_109 = ~z~Okay.
+
+RCAL1_RC1_110 = ~z~I'll see what I can find out.
+
+RCAL1_RC1_IG1_A_1 = ~z~Buy another drink here, bartender.
+
+RCAL1_RC1_IG1_A_2 = ~z~Come on, sir, try to remember... what really happened at Sylvia's Saloon back in '76?
+
+RCAL1_RC1_IG1_A_3 = ~z~Just a lot of bunk, Plato, it's just a lot of bunk.
+
+RCAL1_RC1_IG1_A_4 = ~z~It's not bunk, Mr. Calloway, sir. It's history.
+
+RCAL1_RC1_IG1_A_5 = ~z~Ancient history, done and dusted. The dead got off lucky, the living gotta keep suffering.
+
+RCAL1_RC1_IG1_A_6 = ~z~Same as always.
+
+RCAL1_RC1_IG1_A_7 = ~z~But did you shoot the Newton Twins?
+
+RCAL1_RC1_IG1_A_8 = ~z~I don't give a pig's penis about the Newton Twins!
+
+RCAL1_RC1_IG1_A_9 = ~z~One of them was a girl, anyhow.
+
+RCAL1_RC1_IG1_A_10 = ~z~But you had been friends back in '73. You rode the Alabaster Trail together.
+
+RCAL1_RC1_IG1_A_11 = ~z~Funny thing about pig's penises: they're curly, like their tails.
+
+RCAL1_RC1_IG1_B_1 = ~z~Ha! Put that in your fucking book, Plato!
+
+RCAL1_RC3_1 = ~z~So you got him?
+
+RCAL1_RC3_2 = ~z~I think so...
+
+RCAL1_RC3_3 = ~z~Did you kill his cousin, back in '82?
+
+RCAL1_RC3_4 = ~z~Whose cousin?
+
+RCAL1_RC3_5 = ~z~My cousin.
+
+RCAL1_RC3_6 = ~z~I never shot no one didn't deserve it.
+
+RCAL1_RC3_7 = ~z~You shot Ged Calloway.
+
+RCAL1_RC3_8 = ~z~And I told you then I'd shoot you, too...
+
+RCAL1_RC3_9 = ~z~and I would have...
+
+RCAL1_RC3_10 = ~z~if you'd shown up.
+
+RCAL1_RC3_11 = ~z~I was there.
+
+RCAL1_RC3_12 = ~z~No you weren't...
+
+RCAL1_RC3_13 = ~z~you left town...
+
+RCAL1_RC3_14 = ~z~You take that back.
+
+RCAL1_RC3_15 = ~z~But I don't care now...
+
+RCAL1_RC3_16 = ~z~it's nigh on twenty years ago...
+
+RCAL1_RC3_17 = ~z~we're old men... we're lucky.
+
+RCAL1_RC3_18 = ~z~Fight me.
+
+RCAL1_RC3_19 = ~z~You're an old man...
+
+RCAL1_RC3_20 = ~z~Come on, fight me...
+
+RCAL1_RC3_21 = ~z~It's a bit late isn't it?
+
+RCAL1_RC3_22 = ~z~Goddamn you!
+
+RCAL1_RC3_23 = ~z~Well, that settles that then.
+
+RCAL1_RC3_24 = ~z~I shot him in the back...
+
+RCAL1_RC3_25 = ~z~I shot him in the goddamned back!
+
+RCAL1_RC3_26 = ~z~Well, these things happen.
+
+RCAL1_RC3_27 = ~z~Goddamn you...
+
+RCAL1_RC3_28 = ~z~goddamn both of you!
+
+RCAL1_RC3_29 = ~z~Now calm down... who cares?
+
+RCAL1_RC3_30 = ~z~You should have shot him twenty years ago...
+
+RCAL1_RC3_31 = ~z~he's dead now.
+
+RCAL1_RC3_32 = ~z~You are a sickness....
+
+RCAL1_RC3_33 = ~z~scum like you, and you, Plato.
+
+RCAL1_RC3_34 = ~z~Come on, draw.
+
+RCAL1_RC3_35 = ~z~Why?
+
+RCAL1_RC3_36 = ~z~I said draw goddamn it...
+
+RCAL1_RC3_37 = ~z~No.
+
+RCAL1_RC3_38 = ~z~Yes.
+
+RCAL1_RC3_39 = ~z~I think so...
+
+RCAL1_RC3_40 = ~z~Well, I think that settles that then.
+
+RCAL1_RC3_41 = ~z~These things happen.
+
+RCAL1_RC3_42 = ~z~Calm down, who cares?
+
+RCAL1_RC3_43 = ~z~You should have shot him twenty years ago...
+
+RCAL1_RC3_44 = ~z~now he's dead.
+
+RCAL1_RC3_45 = ~z~Why?
+
+RCAL1_RC3_46 = ~z~No.
+
+RCAL1_RC4_1 = ~z~Shit...
+
+RCAL1_RC4_2 = ~z~Shit indeed.
+
+RCAL1_RC4_3 = ~z~Still...
+
+RCAL1_RC4_4 = ~z~at least now you got a...
+
+RCAL1_RC4_5 = ~z~an ending to your book.
+
+RCAL1_RC4_6 = ~z~He's dead.
+
+RCAL1_RC4_7 = ~z~Aw don't you start now...
+
+RCAL1_RC4_8 = ~z~No, I'm not starting, I'm...
+
+RCAL1_RC4_9 = ~z~I'm happy...
+
+RCAL1_RC4_10 = ~z~I'm free...
+
+RCAL1_RC4_11 = ~z~I can finally go back to writing westerns...
+
+RCAL1_RC4_12 = ~z~instead of being in one.
+
+RCAL1_RC4_13 = ~z~Yeah, he was pretty wild...
+
+RCAL1_RC4_14 = ~z~and I know some wild people.
+
+RCAL1_RC4_15 = ~z~He was...
+
+RCAL1_RC4_16 = ~z~certainly complicated.
+
+RCAL1_RC4_17 = ~z~I'm sorry I shot him...
+
+RCAL1_RC4_18 = ~z~No...
+
+RCAL1_RC4_19 = ~z~and you didn't shoot him...
+
+RCAL1_RC4_20 = ~z~he did...
+
+RCAL1_RC4_21 = ~z~in the back...
+
+RCAL1_RC4_22 = ~z~after he...
+
+RCAL1_RC4_23 = ~z~mortally wounded Slim Grant...
+
+RCAL1_RC4_24 = ~z~fair and square.
+
+RCAL1_RC4_25 = ~z~Yes, that's it.
+
+RCAL1_RC4_26 = ~z~Last of the gunslingers.
+
+RCAL1_RC4_27 = ~z~Well...
+
+RCAL1_RC4_28 = ~z~more or less, I guess...
+
+RCAL1_RC4_29 = ~z~There's more?
+
+RCAL1_RC4_30 = ~z~Oh, there's always folk who'll shoot you in the back...
+
+RCAL1_RC4_31 = ~z~and then re-write history...
+
+RCAL1_RC4_32 = ~z~Oh hey...
+
+RCAL1_RC4_33 = ~z~where do I send the money?
+
+RCAL1_RC4_34 = ~z~Send it to Tacitus Kilgore...
+
+RCAL1_RC4_35 = ~z~and no, that ain't my real name.
+
+RCAL1_RC4_36 = ~z~Shit indeed.
+
+RCAL1_RC4_37 = ~z~Still...
+
+RCAL1_RC4_38 = ~z~at least now...
+
+RCAL1_RC4_39 = ~z~you got an ending to your book.
+
+RCAL1_RC4_40 = ~z~Aw don't you start now...
+
+RCAL1_RC4_41 = ~z~Yeah, he was pretty wild...
+
+RCAL1_RC4_42 = ~z~and I know some wild people.
+
+RCAL1_RC4_43 = ~z~Sorry I shot him...
+
+RCAL1_RC4_44 = ~z~Yeah, that's it.
+
+RCAL1_RC4_45 = ~z~Well...
+
+RCAL1_RC4_46 = ~z~more or less, I guess...
+
+RCAL1_RC4_47 = ~z~There's always folks out there...
+
+RCAL1_RC4_48 = ~z~that'll shoot you in the back...
+
+RCAL1_RC4_49 = ~z~and then re-write history.
+
+RCAL1_RC4_50 = ~z~Send it to Jim Milton...
+
+RCAL1_RC4_51 = ~z~and no, that ain't my real name.
+
+RCAL2_BT_GRIEF_01 = ~z~No, sir, you do not.
+
+RCAL2_BT_GRIEF_02 = ~z~Won't have that here, sir.
+
+RCAL2_BT_GRIEF_03 = ~z~Don't do that.
+
+RCAL2_BT_GRIEF_04 = ~z~Stop it!
+
+RCAL2_BT_HANG2_01 = ~z~Follow me please.
+
+RCAL2_BT_HANG2_02 = ~z~Come on, then.
+
+RCAL2_BT_HANG2_03 = ~z~You wanting Mister Calloway or not?
+
+RCAL2_BT_HANG_01 = ~z~You need something?
+
+RCAL2_BT_HANG_02 = ~z~Can I help you sir?
+
+RCAL2_BT_HANG_03 = ~z~Yes?
+
+RCAL2_BT_SPOT_01 = ~z~You alright there? ~rp~This here is the famous Grand Korrigan.
+
+RCAL2_BT_SPOT_02 = ~z~This is the Grand Korrigan Riverboat, Queen of the Lannahechee.
+
+RCAL2_BT_SPOT_03 = ~z~You're looking at the pride of Lemoyne here, the Grand Korrigan paddle steamer.
+
+RCAL2_ILO_BT_A_1 = ~z~Hey, I'm looking for Boy Calloway and a man writing a book about him.
+
+RCAL2_ILO_BT_A_2 = ~z~This the riverboat they're staying on?
+
+RCAL2_ILO_BT_A_3 = ~z~Yes, sir. They're here.
+
+RCAL2_ILO_BT_A_4 = ~z~Round this time, Mister Calloway's usually enjoying a drink on the observation deck.
+
+RCAL2_ILO_BT_A_5 = ~z~You can follow me.
+
+RCAL2_ILO_BT_A_6 = ~z~If you're quick, you might catch him sober.
+
+RCAL2_ILO_BT_J_1 = ~z~Hey, I'm looking for Boy Calloway and a man writing a book about him.
+
+RCAL2_ILO_BT_J_2 = ~z~This the riverboat they're staying on?
+
+RCAL2_ILO_BT_J_3 = ~z~Yes, sir. They're here.
+
+RCAL2_ILO_BT_J_4 = ~z~Round this time, Mister Calloway's usually enjoying a drink on the observation deck.
+
+RCAL2_ILO_BT_J_5 = ~z~You can follow me.
+
+RCAL2_ILO_BT_J_6 = ~z~If you're quick, you might catch him sober.
+
+RCAL_ALLDEAD_1 = ~z~You made short work of them.
+
+RCAL_BWD_A_1 = ~z~This is it. Down here. It's almost over, Marshal Grant.
+
+RCAL_BWD_A_2 = ~z~State Marshal Grant!
+
+RCAL_BWD_A_3 = ~z~Yeah, yeah.
+
+RCAL_BWD_J_1 = ~z~This is it. Down here. It's almost over, Marshal Grant.
+
+RCAL_BWD_J_2 = ~z~State Marshal Grant!
+
+RCAL_BWD_J_3 = ~z~Yeah, yeah.
+
+RCAL_COMPLAIN_01 = ~z~What the hell?
+
+RCAL_COMPLAIN_02 = ~z~The outlaws treated me better.
+
+RCAL_COMPLAIN_03 = ~z~Never been so disrespected.
+
+RCAL_COMPLAIN_04 = ~z~Just wait until I reach State capital.
+
+RCAL_COMPLAIN_05 = ~z~Damn you.
+
+RCAL_COMPLAIN_06 = ~z~
+
+RCAL_COMPLAIN_07 = ~z~
+
+RCAL_COMPLAIN_08 = ~z~
+
+RCAL_COMPLAIN_09 = ~z~
+
+RCAL_CO_ALIVE_1 = ~z~Psst.
+
+RCAL_CO_ALIVE_2 = ~z~Over here.
+
+RCAL_CO_ALIVE_3 = ~z~Hey, hey.
+
+RCAL_CO_ALIVE_4 = ~z~Thank God you came, son.
+
+RCAL_CO_DEAD_01 = ~z~Hey, over here!
+
+RCAL_CO_DEAD_02 = ~z~I'm tied to this tree.
+
+RCAL_CO_DEAD_03 = ~z~The tree, over here.
+
+RCAL_CO_DEAD_04 = ~z~I been praying for someone like you to come, son.
+
+RCAL_GRNT_CLOSE_01 = ~z~Untie me.
+
+RCAL_GRNT_CLOSE_02 = ~z~Cut me loose.
+
+RCAL_OLW1_CMBT_1 = ~z~Who's that? I said this would get us into trouble!
+
+RCAL_OLW1_TAKEG_1 = ~z~Stop them!
+
+RCAL_OLW2_CMBT_1 = ~z~Oh! We can't get caught with no lawman tied up!
+
+RCAL_OLW2_TAKEG_1 = ~z~Get them! Get them!
+
+RCAL_POSTRIVERA_1 = ~z~~sl:0.6~I almost drowned.
+
+RCAL_POSTRIVERA_2 = ~z~Well, then I saved you from drowning too.
+
+RCAL_POSTRIVERJ_1 = ~z~I almost drowned.
+
+RCAL_POSTRIVERJ_2 = ~z~Then I saved you from drowning too.
+
+RCAL_RC1_BANT_1 = ~z~~sl:0.0:2.7~That man might be the answer to our problems...~sl:~well, my problems.
+
+RCAL_RC1_BANT_2 = ~z~Your problems? See if a good sleep can fix those.
+
+RCAL_RC1_BOOK_A_1 = ~z~Look, I don't meant to be rude, but I really should make some progress on this section...
+
+RCAL_RC1_BOOK_A_2 = ~z~while our friend here sleeps.
+
+RCAL_RC1_BOOK_A_3 = ~z~Go right ahead.
+
+RCAL_RC1_BOOK_A_4 = ~z~I do hope you can help us.
+
+RCAL_RC1_BOOK_A_5 = ~z~We'll see.
+
+RCAL_RC1_BOOK_J_1 = ~z~Look, I don't meant to be rude, but I really should make some progress on this section...
+
+RCAL_RC1_BOOK_J_2 = ~z~while our friend here sleeps.
+
+RCAL_RC1_BOOK_J_3 = ~z~Go right ahead.
+
+RCAL_RC1_BOOK_J_4 = ~z~I do hope you can help us.
+
+RCAL_RC1_BOOK_J_5 = ~z~Yeah, we'll see.
+
+RCAL_RC1_BYE_01 = ~z~So long!
+
+RCAL_RC1_BYE_02 = ~z~Good luck! I'm counting on you.
+
+RCAL_RC1_ILO1_A_1 = ~z~This all seems... I don't know... you sure you know what you're asking for?
+
+RCAL_RC1_ILO1_A_2 = ~z~I know I won't get anything out of this one, anything coherent at least...
+
+RCAL_RC1_ILO1_A_3 = ~z~Find out what you can, or... or generate some interest in great gunslingers of yore.
+
+RCAL_RC1_ILO1_A_4 = ~z~That's the best idea I've got.
+
+RCAL_RC1_ILO1_A_5 = ~z~Alright... least you're paying.
+
+RCAL_RC1_ILO1_J_1 = ~z~This all seems... I don't know... you sure you know what you're asking for?
+
+RCAL_RC1_ILO1_J_2 = ~z~I know I won't get anything out of this one, anything coherent at least...
+
+RCAL_RC1_ILO1_J_3 = ~z~Find out what you can, or... or generate some interest in great gunslingers of yore.
+
+RCAL_RC1_ILO1_J_4 = ~z~That's the best idea I've got.
+
+RCAL_RC1_ILO1_J_5 = ~z~Alright... least you're paying.
+
+RCAL_RC1_RET_A_1 = ~z~Ah, hello. Have you come back for another look at the great man?
+
+RCAL_RC1_RET_A_2 = ~z~Something like that.
+
+RCAL_RC1_RET_A_3 = ~z~It is something to behold, a proud lion in his twilight.
+
+RCAL_RC1_RET_A_4 = ~z~Mhm.
+
+RCAL_RC1_RET_J_1 = ~z~Ah, hello. Have you come back for another look at the great man?
+
+RCAL_RC1_RET_J_2 = ~z~Something like that.
+
+RCAL_RC1_RET_J_3 = ~z~It is something to behold, a proud lion in his twilight.
+
+RCAL_RC1_RET_J_4 = ~z~Mhm.
+
+RCAL_RC1_WHOJ_1 = ~z~Who's your friend there?
+
+RCAL_RC1_WHO_1 = ~z~Who's your friend there?
+
+RCAL_RC2_1 = ~z~Oh, my friend with no name...
+
+RCAL_RC2_2 = ~z~you found us.
+
+RCAL_RC2_3 = ~z~Sure.
+
+RCAL_RC2_4 = ~z~How did you get on?
+
+RCAL_RC2_5 = ~z~About how you'd expect.
+
+RCAL_RC2_6 = ~z~Any good anecdotes?
+
+RCAL_RC2_7 = ~z~Anecdotes?
+
+RCAL_RC2_8 = ~z~From the old days.
+
+RCAL_RC2_9 = ~z~Well...
+
+RCAL_RC2_10 = ~z~to be honest...
+
+RCAL_RC2_11 = ~z~things went a little differently.
+
+RCAL_RC2_12 = ~z~I did shoot a lot of people, I...
+
+RCAL_RC2_13 = ~z~I thought that was sort of what you wanted.
+
+RCAL_RC2_14 = ~z~Well, I'd, err...
+
+RCAL_RC2_15 = ~z~yes, that'll be fine.
+
+RCAL_RC2_16 = ~z~Do you think anyone noticed it was you?
+
+RCAL_RC2_17 = ~z~Noticed?
+
+RCAL_RC2_18 = ~z~I think the people I shot noticed.
+
+RCAL_RC2_19 = ~z~I mean...
+
+RCAL_RC2_20 = ~z~do you think anyone would mind if I...
+
+RCAL_RC2_21 = ~z~if we, said he'd done it?
+
+RCAL_RC2_22 = ~z~Boy Calloway.
+
+RCAL_RC2_23 = ~z~Sure, I don't care...
+
+RCAL_RC2_24 = ~z~just as long as...
+
+RCAL_RC2_25 = ~z~Share the money?
+
+RCAL_RC2_26 = ~z~Of course I will...
+
+RCAL_RC2_27 = ~z~literature is a filthy business...
+
+RCAL_RC2_28 = ~z~but sometimes it pays well.
+
+RCAL_RC2_29 = ~z~Especially when you lie.
+
+RCAL_RC2_30 = ~z~Great...
+
+RCAL_RC2_31 = ~z~Not so goddamn fast.
+
+RCAL_RC2_32 = ~z~What the hell's going on here?
+
+RCAL_RC2_33 = ~z~Nothing.
+
+RCAL_RC2_34 = ~z~Who's this grass snake?
+
+RCAL_RC2_35 = ~z~You know...
+
+RCAL_RC2_36 = ~z~I don't know.
+
+RCAL_RC2_37 = ~z~Have you been being me?
+
+RCAL_RC2_38 = ~z~I'm nobody, buddy.
+
+RCAL_RC2_39 = ~z~Well, I'm somebody!
+
+RCAL_RC2_40 = ~z~And I can't have any nobody being this somebody...
+
+RCAL_RC2_41 = ~z~you goddamn...
+
+RCAL_RC2_42 = ~z~well, I don't know what the goddamn you are...
+
+RCAL_RC2_43 = ~z~but trust me it ain't nothing I wanna be...
+
+RCAL_RC2_44 = ~z~so you can't be me.
+
+RCAL_RC2_45 = ~z~Quite a way with words.
+
+RCAL_RC2_46 = ~z~Damn you, Theodore Levin...
+
+RCAL_RC2_47 = ~z~you're a snake...
+
+RCAL_RC2_48 = ~z~damn you.
+
+RCAL_RC2_49 = ~z~D-damn you, nobody.
+
+RCAL_RC2_50 = ~z~Hey, I'm already damned.
+
+RCAL_RC2_51 = ~z~But I can't take credit for that which I...
+
+RCAL_RC2_52 = ~z~thems as I didn't, I...
+
+RCAL_RC2_53 = ~z~I'm an old man.
+
+RCAL_RC2_54 = ~z~This never happened to Achilles...
+
+RCAL_RC2_55 = ~z~nor Gawain...
+
+RCAL_RC2_56 = ~z~nor Caesar.
+
+RCAL_RC2_57 = ~z~It can't happen to me.
+
+RCAL_RC2_58 = ~z~I'm will kill both of you!
+
+RCAL_RC2_59 = ~z~Sir, calm down.
+
+RCAL_RC2_60 = ~z~I'm a legend!
+
+RCAL_RC2_61 = ~z~Yes you are.
+
+RCAL_RC2_62 = ~z~Alright, alright, well let's prove it one more time.
+
+RCAL_RC2_63 = ~z~I don't have to prove nothing to you, nobody.
+
+RCAL_RC2_64 = ~z~No, of course you don't...
+
+RCAL_RC2_65 = ~z~b-but maybe you need to prove something to you.
+
+RCAL_RC2_66 = ~z~You've got quite a way with the words.
+
+RCAL_RC2_67 = ~z~Maybe you should write my book...
+
+RCAL_RC2_68 = ~z~and we should kill Plato here...
+
+RCAL_RC2_69 = ~z~Now, l-let's not.
+
+RCAL_RC2_70 = ~z~Now come on, who shall we kill?
+
+RCAL_RC2_71 = ~z~Y-you kill I mean.
+
+RCAL_RC2_72 = ~z~Ah, damn, I slayed my dragons years ago.
+
+RCAL_RC2_73 = ~z~I'm a tired old man.
+
+RCAL_RC2_74 = ~z~Ah, now you're drunk...
+
+RCAL_RC2_75 = ~z~and you're bored and...
+
+RCAL_RC2_76 = ~z~you're a mess.
+
+RCAL_RC2_77 = ~z~Well, I always hated Slim Grant...
+
+RCAL_RC2_78 = ~z~he killed my cousin.
+
+RCAL_RC2_79 = ~z~But that was years ago.
+
+RCAL_RC2_80 = ~z~Well where's Slim Grant?
+
+RCAL_RC2_81 = ~z~Who's Slim Grant?
+
+RCAL_RC2_82 = ~z~This is him...
+
+RCAL_RC2_83 = ~z~an old friend of Mr. Calloway's.
+
+RCAL_RC2_84 = ~z~He ain't no friend of mine.
+
+RCAL_RC2_85 = ~z~He's state marshal now out of Annesburg.
+
+RCAL_RC2_86 = ~z~State marshal?
+
+RCAL_RC2_87 = ~z~Make a damn cousin killer state marshal do they?
+
+RCAL_RC2_88 = ~z~Alright, I'll go get him.
+
+RCAL_RC2_89 = ~z~Great.
+
+RCAL_RC2_90 = ~z~We'll wait for you at Brandywine Drop.
+
+RCAL_RC2_91 = ~z~Alright, just sober up and start practicing...
+
+RCAL_RC2_92 = ~z~otherwise this won't be a book, it'll be a memorial.
+
+RCAL_RC2_93 = ~z~Yeah, whatever you say...
+
+RCAL_RC2_94 = ~z~You know what...
+
+RCAL_RC2_95 = ~z~I kind of like that feller...
+
+RCAL_RC2_96 = ~z~Sure.
+
+RCAL_RC2_97 = ~z~About how you'd expect.
+
+RCAL_RC2_98 = ~z~Theodore Levin...
+
+RCAL_RC2_99 = ~z~right?
+
+RCAL_RC2_100 = ~z~Why, yes.
+
+RCAL_RC2_101 = ~z~Wh-who are you?
+
+RCAL_RC2_102 = ~z~You still writing that book?
+
+RCAL_RC2_103 = ~z~Still talking about it...
+
+RCAL_RC2_104 = ~z~which is probably the problem.
+
+RCAL_RC2_105 = ~z~Well, you going to introduce yourself?
+
+RCAL_RC2_106 = ~z~It's best I don't give you too many details, but...
+
+RCAL_RC2_107 = ~z~an old friend of mine asked me to...
+
+RCAL_RC2_108 = ~z~give a list of old gunslingers you wanted looked up, and...
+
+RCAL_RC2_109 = ~z~well...
+
+RCAL_RC2_110 = ~z~they been looked up.
+
+RCAL_RC2_111 = ~z~Yeah!
+
+RCAL_RC2_112 = ~z~About how you'd expect.
+
+RCAL_RC2_113 = ~z~Anecdotes?
+
+RCAL_RC2_114 = ~z~To be honest, things went a little differently...
+
+RCAL_RC2_115 = ~z~a lot of people got shot...
+
+RCAL_RC2_116 = ~z~I thought that was sort of what you wanted.
+
+RCAL_RC2_117 = ~z~Noticed?
+
+RCAL_RC2_118 = ~z~The people I shot noticed.
+
+RCAL_RC2_119 = ~z~Sure, I don't care...
+
+RCAL_RC2_120 = ~z~just as long as...
+
+RCAL_RC2_121 = ~z~Great.
+
+RCAL_RC2_122 = ~z~I'm nobody, buddy.
+
+RCAL_RC2_123 = ~z~Quite a way with words.
+
+RCAL_RC2_124 = ~z~Hey, I'm already damned.
+
+RCAL_RC2_125 = ~z~Sir, calm down.
+
+RCAL_RC2_126 = ~z~Alright, alright...
+
+RCAL_RC2_127 = ~z~well let's prove it one more time.
+
+RCAL_RC2_128 = ~z~No, of course you don't, but...
+
+RCAL_RC2_129 = ~z~but maybe you need to prove something to you.
+
+RCAL_RC2_130 = ~z~Now, now, now, now, let's not.
+
+RCAL_RC2_131 = ~z~Now come on, who shall we kill?
+
+RCAL_RC2_132 = ~z~You kill I mean.
+
+RCAL_RC2_133 = ~z~Ah, now you're drunk and you're bored.
+
+RCAL_RC2_134 = ~z~You're a mess.
+
+RCAL_RC2_135 = ~z~Where's Slim Grant?
+
+RCAL_RC2_136 = ~z~Who's Slim Grant?
+
+RCAL_RC2_137 = ~z~Alright, I'll go get him.
+
+RCAL_RC2_138 = ~z~Just sober up and start practicing...
+
+RCAL_RC2_139 = ~z~otherwise this won't be a book, it'll be a memorial.
+
+RCAL_RC2_LI_1 = ~z~My friend with no name...
+
+RCAL_RC2_LI_2 = ~z~you returned.
+
+RCAL_RC2_LI_3 = ~z~Sure.
+
+RCAL_RC2_LI_4 = ~z~How did you get on?
+
+RCAL_RC2_LI_5 = ~z~About how you'd expect...
+
+RCAL_RC3_LI_A_1 = ~z~So you got him?
+
+RCAL_RCL_LI_1_1 = ~z~~sl:2.1~This isn't going very well.
+
+RCAL_RCL_LI_2J_1 = ~z~Apparently not.
+
+RCAL_RCL_LI_2_1 = ~z~Apparently not.
+
+RCAL_RIVER_01 = ~z~
+
+RCAL_RIVER_02 = ~z~
+
+RCAL_RIVER_03 = ~z~
+
+RCAL_S3_IG3_F1A_1 = ~z~I need a favor, Mr. Grant... it's nothing big, I'll explain along the way...
+
+RCAL_S3_IG3_F1A_2 = ~z~You might as well relax.
+
+RCAL_S3_IG3_F1J_1 = ~z~I need a favor, Mr. Grant... it's really nothing... I'll explain while we ride...
+
+RCAL_S3_IG3_F1J_2 = ~z~You might as well relax.
+
+RCAL_S3_IG3_F2A_1 = ~z~I need a favor, Mr. Grant.
+
+RCAL_S3_IG3_F2A_2 = ~z~It's nothing big, I'll explain along the way, you... you might as well relax.
+
+RCAL_S3_IG3_F2J_1 = ~z~I need a favor, Mr. Grant... it's really nothing... I'll explain while we ride...
+
+RCAL_S3_IG3_F2J_2 = ~z~You might as well relax.
+
+RCAL_S3_IG3_N1A_1 = ~z~You must be Slim Grant?
+
+RCAL_S3_IG3_N1A_2 = ~z~State Marshall Slim Grant...
+
+RCAL_S3_IG3_N1J_1 = ~z~I'm guessing you're Slim Grant?
+
+RCAL_S3_IG3_N1J_2 = ~z~State Marshall Slim Grant...
+
+RCAL_S3_IG3_N2A_1 = ~z~Okay... let's get you outta here.
+
+RCAL_S3_IG3_N2A_2 = ~z~Yes, indeed son.
+
+RCAL_S3_IG3_N2J_1 = ~z~Okay... let's get you out of here.
+
+RCAL_S3_IG3_N2J_2 = ~z~Yes, indeed son.
+
+RCAL_S3_IG3_S1A_1 = ~z~You must be Slim Grant?
+
+RCAL_S3_IG3_S1A_2 = ~z~State Marshall Slim Grant...
+
+RCAL_S3_IG3_S1J_1 = ~z~I'm guessing you're Slim Grant?
+
+RCAL_S3_IG3_S1J_2 = ~z~State Marshall Slim Grant...
+
+RCAL_S3_IG3_S2A_1 = ~z~Okay... let's get you outta here.
+
+RCAL_S3_IG3_S2A_2 = ~z~Yes, indeed son.
+
+RCAL_S3_IG3_S2J_1 = ~z~Okay... let's get you out of here.
+
+RCAL_S3_IG3_S2J_2 = ~z~Yes, indeed son.
+
+RCAL_S3_INT_1 = ~z~You...
+
+RCAL_S3_INT_2 = ~z~I'm looking for Slim Grant...
+
+RCAL_S3_INT_3 = ~z~the State Marshal.
+
+RCAL_S3_INT_4 = ~z~Heard you boys know where to find him.
+
+RCAL_S3_INT_5 = ~z~Oh, mister marshal was here last week...
+
+RCAL_S3_INT_6 = ~z~I think he headed up to Beaver Hollow...
+
+RCAL_S3_INT_7 = ~z~looking for some outlaws.
+
+RCAL_S3_INT_8 = ~z~Is he coming back?
+
+RCAL_S3_INT_9 = ~z~Sure, when he catches them fellers he's been after.
+
+RCAL_S3_INT_10 = ~z~Well, how long's he been gone?
+
+RCAL_S3_INT_11 = ~z~Well...
+
+RCAL_S3_INT_12 = ~z~a couple of days.
+
+RCAL_S3_INT_13 = ~z~What and you ain't gonna go look for him?
+
+RCAL_S3_INT_14 = ~z~If your boss' boss, who you all hated...
+
+RCAL_S3_INT_15 = ~z~went missing, possibly dead...
+
+RCAL_S3_INT_16 = ~z~at the hands of a bunch of violent wanted men...
+
+RCAL_S3_INT_17 = ~z~would you go looking for him?
+
+RCAL_S3_INT_18 = ~z~Well...
+
+RCAL_S3_INT_19 = ~z~yeah, probably, because I'm a fool.
+
+RCAL_S3_INT_20 = ~z~Well, when he's dead...
+
+RCAL_S3_INT_21 = ~z~maybe I'll become marshal.
+
+RCAL_S3_INT_22 = ~z~I'll be a hero riding a horse from town to town, mister.
+
+RCAL_S3_INT_23 = ~z~Think of that.
+
+RCAL_S3_INT_24 = ~z~Good luck with those dreams.
+
+RCAL_S3_INT_25 = ~z~You...
+
+RCAL_S3_INT_26 = ~z~I'm looking for Slim Grant...
+
+RCAL_S3_INT_27 = ~z~the State Marshal.
+
+RCAL_S3_INT_28 = ~z~Heard you boys know where to find him.
+
+RCAL_S3_INT_29 = ~z~Is he coming back?
+
+RCAL_S3_INT_30 = ~z~How long's he been gone?
+
+RCAL_S3_INT_31 = ~z~And you ain't going out to look for him?
+
+RCAL_S3_INT_32 = ~z~Uh...
+
+RCAL_S3_INT_33 = ~z~yeah, probably would, because I'm a fool.
+
+RCAL_S3_INT_34 = ~z~Good luck with those dreams.
+
+RCAL_SEEN_1 = ~z~They seen you!
+
+RCAL_UNTIECB_A_1 = ~z~Untie me, I'll help!
+
+RCAL_UNTIECB_A_2 = ~z~You're fine how you are.
+
+RCAL_UNTIECB_J_1 = ~z~Untie me, I'll help!
+
+RCAL_UNTIECB_J_2 = ~z~You're fine how you are.
+

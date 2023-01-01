@@ -1,0 +1,20 @@
+HRD_SHOUT_01 = ~z~Но!
+
+HRD_SHOUT_02 = ~z~Пошла!
+
+HRD_SHOUT_03 = ~z~Иди!
+
+HRD_SHOUT_04 = ~z~Пошла, пошла!
+
+HRD_SHOUT_05 = ~z~Не останавливайтесь!
+
+HRD_SHOUT_06 = ~z~Вперед.
+
+HRD_SHOUT_07 = ~z~
+
+HRD_SHOUT_08 = ~z~Вперед!
+
+HRD_SHOUT_09 = ~z~Пошли, пошли!
+
+HRD_SHOUT_10 = ~z~Давай быстрее!
+

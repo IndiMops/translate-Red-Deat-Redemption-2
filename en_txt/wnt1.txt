@@ -1,0 +1,306 @@
+0x1D628397 = Horse health is displayed in the lower left corner.
+
+0x2F57B202 = Tap ~INPUT_SPRINT~ to sprint.
+
+0x8D8BCB49 = Open
+
+0x9BA1A515 = Hitch Horse
+
+0x46BCD1D2 = ~a~
+
+0x72A24F6D = ~INPUT_CONTEXT_X|PromptID=INPUT_WNT1_BWATER~ What about the money? | ~INPUT_CONTEXT_B|PromptID=INPUT_WNT1_TRAP~ Was it a trap?
+
+0x80E2229B = Hold ~INPUT_AIM~ to lock on to ~o~Dutch~s~
+
+0x83CF9D85 = While highlighting an item with ~INPUTGROUP_RADIAL_MENU_NAV~ release ~INPUT_OPEN_WHEEL_MENU~ to use them
+
+0x116AEFB2 = Micah
+
+0x245DB156 = Dutch's horse
+
+0x726D324F = Hitch your horse at a ~o~hitching post~s~
+
+0x1787C205 = Pick up
+
+0x2388F29A = Micah
+
+0x2842B840 = Pack horse
+
+0x9239D587 = ?
+
+0x83839BD0 = Use ~INPUT_LOOK_LR~ to switch between targets
+
+0x93676DE1 = ~INPUT_HORSE_STOP~ to slow your horse down.
+
+0x705245AB = You are drunk.
+
+0x970466BD = Hold ~INPUT_OPEN_WHEEL_MENU~ to access the Weapon Wheel
+
+0x2257344A = Player horse
+
+0x7672252A = Dutch
+
+0x25008347 = Remain with ~o~Dutch~s~ until he's finished loading the horse
+
+0xA426B2D1 = Return to ~o~Dutch~s~
+
+0xB493357B = Micah's horse
+
+0xB5880229 = Press ~INPUT_CONTEXT_X~ to question him. ~n~Press ~INPUT_CONTEXT_B~ to beat him.
+
+0xDAAD4124 = Interrogate
+
+0xFDD0878D = Press ~INPUT_SELECT_NEXT_WHEEL~ to access the Item Wheel
+
+WNT1_ABANDON_BARN = The barn was abandoned.
+
+WNT1_BC_APP_HTCH = Approach the ~o~hitching posts~s~
+
+WNT1_BC_CHOICE = Deal with the ~e~O'Driscoll~s~
+
+WNT1_BC_FLW_DCH = Use ~INPUT_HORSE_MOVE_UP_ONLY|PromptId=INPUT_WNT1_MFWD~ to follow ~o~Dutch~s~
+
+WNT1_BC_FLW_DM = Use ~INPUT_HORSE_MOVE_UP_ONLY|PromptId=INPUT_WNT1_DM~ to follow Dutch and ~o~Micah~s~
+
+WNT1_BC_FLW_MCH = Hold ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_FMIC,Gutter~ to match speed with Dutch and ~o~Micah~s~
+
+WNT1_BC_FLW_MCH1 = Hold ~INPUT_HORSE_MOVE_UP_ONLY|PromptId=INPUT_WNT1_FMIC,Gutter~ to match speed with Dutch and ~o~Micah~s~
+
+WNT1_BC_GPICK = Pick up your ~o~gun~s~
+
+WNT1_BC_HPICK = Pick up your ~o~hat~s~
+
+WNT1_BC_HTCH = Hold ~INPUT_HITCH_ANIMAL|PromptId=HitchingPrompt,Gutter~ to hitch your horse
+
+WNT1_BC_INTER = ~INPUT_MELEE_GRAPPLE~ Grab the ~e~O'Driscoll~s~
+
+WNT1_BC_MSPEED = Hold ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_MSPEED~ to match speed with ~o~Dutch~s~
+
+WNT1_BC_MSPEED1 = Hold ~INPUT_HORSE_MOVE_UP_ONLY|PromptId=INPUT_WNT1_MSPEED~ to match speed with ~o~Dutch~s~
+
+WNT1_BC_MVE_FORM = Double tap and hold ~INPUT_HORSE_SPRINT|PromptID=INPUT_WNT1_SPR~ while pushing ~INPUT_MOVE_UP_ONLY|PromptID=INPUT_WNT1_DM~ to move up the formation
+
+WNT1_BC_MVE_FORM1 = Tap ~INPUT_HORSE_SPRINT|PromptID=INPUT_WNT1_SPR~ to move up the formation
+
+WNT1_BC_OSATCHEL = Hold ~INPUT_OPEN_SATCHEL_MENU|Gutter~ to open your Satchel
+
+WNT1_BC_PICKUP = Hold ~INPUT_PICKUP_CARRIABLE|PromptId=ItemPickupPrompt,Gutter~ near items to pick them up while searching the ~o~house~s~
+
+WNT1_BC_QUEST = Interrogate the ~e~O'Driscoll~s~
+
+WNT1_BC_RALONG = Double tap and hold ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_RALONG,Gutter~ to ride alongside ~o~Dutch~s~
+
+WNT1_BC_REM_FLW = Hold ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_FMIC,Gutter~ to continue following
+
+WNT1_BC_RUN = Hold ~INPUT_SPRINT|PromptID=INPUT_WNT1_SPRINT,Gutter~ to run after the ~e~outlaw~s~
+
+WNT1_BC_RUN1 = Toggle ~INPUT_SPRINT|PromptID=INPUT_WNT1_SPRINT,Gutter~ to run after the ~e~outlaw~s~
+
+WNT1_BC_RUN2 = Hold ~INPUT_MOVE_UP_ONLY~ to run after the ~e~outlaw~s~
+
+WNT1_BC_SLW = Use ~INPUT_HORSE_STOP|PromptID=INPUT_WNT1_SLOWDOWN~ to slow your horse down
+
+WNT1_BC_SPEED = Tap ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_SPEEDUP~ to ride faster
+
+WNT1_BC_SPEED_KM = Hold ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_SPEEDUP~ to ride faster
+
+WNT1_BC_SPRINT = Tap ~INPUT_SPRINT|PromptID=INPUT_WNT1_SPRINT2~ to sprint
+
+WNT1_BC_SPRINT1 = Toggle ~INPUT_SPRINT|PromptID=INPUT_WNT1_SPRINT2~ to sprint
+
+WNT1_BC_SPRINT2 = Hold ~INPUT_SPRINT|PromptID=INPUT_WNT1_SPRINT2~ to sprint
+
+WNT1_BC_USATCHEL = Eat a Provision to restore some Health Core
+
+WNT1_BLIP_GUN = Gun
+
+WNT1_BLIP_HORSE = Horse
+
+WNT1_FAIL_BARN = The barn wasn't inspected.
+
+WNT1_FAIL_BHRSE = The horse was abandoned.
+
+WNT1_FAIL_BRWLR = The brawl was abandoned.
+
+WNT1_FAIL_CABIN = The cabin was abandoned.
+
+WNT1_FAIL_D_FIRE = Dutch was injured.
+
+WNT1_FAIL_GUNFIRE = The people in the cabin were alerted.
+
+WNT1_FAIL_MOUNT = Gang horse has died.
+
+WNT1_FAIL_RANCH = The ranch was abandoned.
+
+WNT1_FAIL_SHED = The shed was abandoned.
+
+WNT1_HITCH_FAIL = Dutch and Micah were abandoned.
+
+WNT1_HITCH_RET = Return to the ~o~hitching post.~s~
+
+WNT1_H_AIM = Hold ~INPUT_AIM~ to aim
+
+WNT1_H_CLIMB = Use ~INPUT_MOVE_UP_ONLY~ and ~INPUT_JUMP~ to climb
+
+WNT1_H_CVRLK = Use ~INPUT_MOVE_UP_ONLY~ to peek out of cover
+
+WNT1_H_CVRSIDE = Use ~INPUT_MOVE_RIGHT_ONLY~ to peek out of cover
+
+WNT1_H_EXTSEA = To perform an extended search hold ~INPUT_LOOT~.
+
+WNT1_H_GRAPPLE = Press ~INPUT_MELEE_GRAPPLE~ to grab the O'Driscoll.
+
+WNT1_H_GREET = While holding ~INPUT_INTERACT_LOCKON~ you can talk to Dutch by pressing ~INPUT_INTERACT_LOCKON_POS~.
+
+WNT1_H_GUNHOLSTER = To calm the horse, weapons must be holstered. ~n~Press ~INPUT_TOGGLE_HOLSTER~ to put away the weapon.
+
+WNT1_H_HCH1 = Approach the hitching post, and when prompted, press ~INPUT_HITCH_ANIMAL~ to hitch your horse.
+
+WNT1_H_HCH2 = Hitching a horse will keep the horse at that location.~s~
+
+WNT1_H_HEALTH1 = Health is displayed in the lower left corner.
+
+WNT1_H_HEALTH2 = The outer bar shows your remaining health. The level of the inner core influences how quickly your health refills.
+
+WNT1_H_HORBOND = Continuing to bond with your horse increases its trust in you and improves its attributes.
+
+WNT1_H_HORPRIM = The horse has now become your horse as indicated by a ~BLIP_HORSE_OWNED~ on the radar.
+
+WNT1_H_ITEMHEALTH = Your Health Core drains over time and is now empty. While empty you will experience negative effects.
+
+WNT1_H_ITEMHEALTH2 = Different items have different effects. Eating food will refill your Health Core. Better quality food will refill more Core.
+
+WNT1_H_ITEMMENU = While holding ~INPUT_OPEN_WHEEL_MENU~ press ~INPUT_SELECT_NEXT_WHEEL~ to access the Item Wheel.
+
+WNT1_H_ITEMUSE = Like with weapons, while highlighting an item with ~INPUTGROUP_RADIAL_MENU_NAV~ release ~INPUT_OPEN_WHEEL_MENU~ to use them.
+
+WNT1_H_LADD = Hold ~INPUT_MOVE_UP_ONLY~ while approaching the ladder to climb.
+
+WNT1_H_LOOKOVER = Use ~INPUTGROUP_LOOK~ to move the camera and check on Micah.
+
+WNT1_H_MEDUSE = Taking a Health Cure will restore your health. To use a Health Cure access the Item Wheel by holding ~INPUT_OPEN_WHEEL_MENU~.
+
+WNT1_H_OBJ = Press ~INPUT_REVEAL_HUD~ to view your current objective again.
+
+WNT1_H_PUN = ~INPUT_MELEE_ATTACK~ Attack the ~e~O'Driscoll~s~
+
+WNT1_H_RELOAD = ~INPUT_RELOAD~ Reload
+
+WNT1_H_SEARCH = Radar blips that cover large areas are meant to be searched.
+
+WNT1_H_SHOOT = ~INPUT_ATTACK~ Shoot
+
+WNT1_H_THREAT = A red threat indicator on the edge of the radar shows the direction of distant enemies.
+
+WNT1_H_UNHOLSTER1 = Hold ~INPUT_OPEN_WHEEL_MENU~ to show the Weapon Wheel
+
+WNT1_H_UNHOLSTER2 = Use ~INPUTGROUP_RADIAL_MENU_NAV~ to select a weapon and release ~INPUT_OPEN_WHEEL_MENU~ to equip.
+
+WNT1_H_WHISDRINK = Drinking some whiskey will increase the Stamina Core meter if low. This will help Arthur's stamina to recover quicker.
+
+WNT1_H_WHISDRINK2 = However drinking too much whiskey will cause Arthur to be drunk. Affecting his movement and reactions.
+
+WNT1_H_WHISKEY = You can drink Whiskey by using it from the Item Wheel.
+
+WNT1_LOOK = Look
+
+WNT1_OBJ_ENTER = Enter the ~o~house~s~
+
+WNT1_OBJ_FLW_DCH = Follow ~o~Dutch~s~
+
+WNT1_OBJ_FLW_MCH = Follow ~o~Micah~s~
+
+WNT1_OBJ_HRS_APPR = Approach the ~o~horse~s~
+
+WNT1_OBJ_HRS_CALM = ~INPUT_INTERACT_LOCKON_ANIMAL~ Calm the ~o~horse~s~
+
+WNT1_OBJ_HRS_FEED = Hold ~INPUT_INTERACT_HORSE_FEED~ to feed the ~o~horse~s~
+
+WNT1_OBJ_HRS_INTER = Hold ~INPUT_INTERACT_LOCKON~ to focus on the ~o~horse~s~
+
+WNT1_OBJ_HRS_LEAD = ~INPUT_INTERACT_LEAD_ANIMAL~ Lead the ~o~horse~s~
+
+WNT1_OBJ_HRS_PAT = Use ~INPUT_INTERACT_LOCKON_ANIMAL~ to pat the ~o~horse~s~
+
+WNT1_OBJ_HTCHCBN = Lead the horse to the ~o~hitching post~s~
+
+WNT1_OBJ_INV_BARN = Investigate the ~o~barn~s~
+
+WNT1_OBJ_MAN_AIM = Hold ~INPUT_AIM~ to focus on the ~e~O'Driscoll~s~
+
+WNT1_OBJ_NOISE = Investigate the noise inside the ~o~house~s~
+
+WNT1_OBJ_OUT_DCH = Go outside and meet ~o~Dutch~s~
+
+WNT1_OBJ_SRCH2 = Continue searching the ~o~house~s~
+
+WNT1_OBJ_SRCH_OPT = Join ~o~Dutch~s~ outside after searching for supplies
+
+WNT1_OBJ_TKCVR = Go to the ~o~shed~s~ then press ~INPUT_COVER~ to take cover
+
+WNT1_OBJ_WATCH = Protect ~o~Dutch~s~
+
+WNT1_REM_BARN = Return to the ~o~barn~s~
+
+WNT1_REM_BHORSE = Barn horse
+
+WNT1_REM_BHRSE = Return to the ~o~horse~s~
+
+WNT1_REM_BRWLR = Return to the ~o~brawl~s~
+
+WNT1_REM_CABIN = Return to the ~o~cabin~s~
+
+WNT1_REM_RANCH = Return to the ~o~ranch~s~
+
+WNT1_REM_SHED = Return to the ~o~shed~s~
+
+WNT1_UC_ANYONEELSE = You run into anybody else?
+
+WNT1_UC_BLACKWATER = What about the money?
+
+WNT1_UC_BLOOD = Blood
+
+WNT1_UC_DOOR = Open Barn Door
+
+WNT1_UC_DUTCH = Talk to Dutch
+
+WNT1_UC_FURTHER = Further?
+
+WNT1_UC_GOOD = Good?
+
+WNT1_UC_HURRY = Answer
+
+WNT1_UC_INSPECT = Inspect
+
+WNT1_UC_INTERROGATE = Interrogate
+
+WNT1_UC_KILL = Choke
+
+WNT1_UC_MICAH = Talk to Micah
+
+WNT1_UC_MOVE = Move
+
+WNT1_UC_MSPEED = Match
+
+WNT1_UC_PUNCH = Beat
+
+WNT1_UC_QUESTION = Question
+
+WNT1_UC_RALONG = RideAlong
+
+WNT1_UC_RELEASE = Spare
+
+WNT1_UC_SKIP = Skip
+
+WNT1_UC_SLOWDOWN = Slow
+
+WNT1_UC_SPEEDUP = Speed
+
+WNT1_UC_SPRINT = Run
+
+WNT1_UC_SPRINT2 = Sprint
+
+WNT1_UC_TRAP = Was it a trap?
+
+WNT1_UC_YOUSURE = Are you sure about this?
+

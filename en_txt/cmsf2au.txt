@@ -1,0 +1,10 @@
+CMSF2_ACTN_1 = ~z~So... I heard you'd gone soft, big boy... real soft.
+
+CMSF2_ACTN_2 = ~z~What you talking about?
+
+CMSF2_ACTN_3 = ~z~Helping folk, acting all gentle. It's sweet and all, but it'll get you killed.
+
+CMSF2_ACTN_4 = ~z~You wanna see how soft I've gone?
+
+CMSF2_ACTN_5 = ~z~It's a nasty world... that's all I'm saying.
+

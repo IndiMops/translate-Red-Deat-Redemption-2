@@ -1,0 +1,14 @@
+CFHM2_CNV_1 = ~z~~sl:0.0:1.8~Still one of life's great pleasures,~sl:~sitting by the fire with friends.
+
+CFHM2_CNV_2 = ~z~~sl:0.0:1.1~No matter what else happens,~sl:~nothing quite beats sitting by the fire. You can
+
+CFHM2_CNV_3 = ~z~~sl:0.0:1.6~have the hounds of hell after ya,~sl:0.0:2.6~and all the angels of vengeance alongside them,~sl:~but a warm fire and you feel all is okay.
+
+CFHM2_CNV_4 = ~z~~sl:0.0:1.5~Them that discovered the stuff~sl:0.0:2.5~must have thought they was gods among monkeys.~sl:0.2~They discovered fire!
+
+CFHM2_CNV_5 = ~z~~sl:0.0:1.4~In our time...~sl:0.2~they've discovered a wire you can talk
+
+CFHM2_CNV_6 = ~z~~sl:0.0:2.6~down to speak to people you wanted to avoid so much~sl:~you moved to a different town to escape them.
+
+CFHM2_CNV_7 = ~z~
+

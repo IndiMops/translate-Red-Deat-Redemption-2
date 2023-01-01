@@ -1,0 +1,28 @@
+DISCO_TRH_L2_01 = ~z~~sl:0.5~Go away!
+
+DISCO_TRH_L2_02 = ~z~~sl:0.8~Leave me alone!
+
+DISCO_TRH_L2_03 = ~z~~sl:0.8~Get out of here!
+
+DISCO_TRH_L2_04 = ~z~Just... leave... leave me be!
+
+DISCO_TRH_L2_05 = ~z~~sl:0.4~What do you want?
+
+DISCO_TRH_L2_06 = ~z~Just... get away from me!
+
+DISCO_TRH_L2_07 = ~z~Go the hell away!
+
+DISCO_TRH_S1_01 = ~z~~sl:0.9~Stop that!
+
+DISCO_TRH_S1_02 = ~z~~sl:0.3~What are you doing?
+
+DISCO_TRH_S1_03 = ~z~~sl:1.2~Stop it, you bastard!
+
+DISCO_TRH_S1_04 = ~z~I'll kill you!
+
+DISCO_TRH_S1_05 = ~z~~sl:1.3~Are, are you crazy?
+
+DISCO_TRH_S1_06 = ~z~Stop shooting!
+
+DSTRH_IG3_FALL_1 = ~z~
+

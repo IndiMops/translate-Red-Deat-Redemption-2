@@ -1,0 +1,72 @@
+DEGRP_AAPPRCH_1 = ~z~You're gonna make me feel better about the whole situation...
+
+DEGRP_AAPPRCH_2 = ~t~In Spanish: Assuming you got something I want...
+
+DEGRP_AATTACK_1 = ~t~In Spanish: Putting you in the ground!
+
+DEGRP_ADISMOUNT_01 = ~z~On foot. C'mon.
+
+DEGRP_ADISMOUNT_02 = ~z~Get down off there, now.
+
+DEGRP_AGREE_1 = ~z~Oh, good. Thank you.
+
+DEGRP_AGUN_1 = ~z~So, listen. That horse put me in a bad mood.
+
+DEGRP_APAT_1 = ~t~In Spanish: Let's see, how about...
+
+DEGRP_APPROACH_1 = ~z~~sl:0.0:1.4~Oh thank God.~sl:0.2:4.7~My horse bucked me... it feels like I might have broken a bone.~sl:0.4~You think you can give me a ride?
+
+DEGRP_DECLINE_1 = ~z~~sl:0.0:0.9~Fine.~sl:1.0~Just forget it then.
+
+DEGRP_HARRIVE_1 = ~z~~sl:0.0:1.8~Okay, thank you again.~sl:0.2~Watch out for your horse there. Got that same look in its eye... that mine did.
+
+DEGRP_HBANT_1 = ~z~I just want this day to be over.
+
+DEGRP_HBANT_2 = ~z~~sl:0.0:4.2~First I lose close to three dollars on the poker table,~sl:~then the damn horse throws me.
+
+DEGRP_HBANT_3 = ~t~In Spanish: That goddamned horse. If I find it, I'll put a bullet in its skull...
+
+DEGRP_HBANT_4 = ~z~I told my brother that horse was trouble the minute I laid eyes on it.
+
+DEGRP_HBANT_5 = ~z~~sl:0.0:2.5~Oh anyway, I'll shut up.~sl:0.1~I'm sure you don't want to listen to my complaining.
+
+DEGRP_HCLEAR_1 = ~z~Where you want me to sit, huh?
+
+DEGRP_HDIRECT_1 = ~z~I know some people in Thieves Landing, if you can get me there?
+
+DEGRP_HFOOT_1 = ~z~Your horse buck you, too? How we getting there?
+
+DEGRP_HGIVEUP_1 = ~t~In Spanish: Okay, that's it.
+
+DEGRP_HGIVEUP_2 = ~z~Walking's better than this.
+
+DEGRP_HMOUNT_1 = ~t~In Spanish: Ahh... hurts to sit... damn horse...
+
+DEGRP_HNEAR_1 = ~t~In Spanish: I'm spending the rest of the day drunk, that's for sure.
+
+DEGRP_HTHANKS_1 = ~z~I really appreciate this.
+
+DEGRP_HTIP_1 = ~z~~sl:0.0:0.9~Here...~sl:0.5~this is for you.
+
+DEGRP_SPOT1_01 = ~z~~sl:0.0:0.9~Hey!~sl:0.9~You there!
+
+DEGRP_SPOT1_02 = ~z~Hello? I need some help over here.
+
+DEGRP_SPOT2_01 = ~z~You gonna help me out here?
+
+DEGRP_SPOT2_02 = ~z~Come on, I'm in pain! My horse bucked me.
+
+DEGRP_UNSEEN_01 = ~t~In Spanish: Buck me? I'll teach you for bucking me...
+
+DEGRP_UNSEEN_02 = ~t~In Spanish: Rotten goddamned horse. Son of a bitch.
+
+DEGRP_UNSEEN_03 = ~t~In Spanish: Should'a eaten you, filthy animal... Jesus, my ass hurts...
+
+DEGRP_WAIT1_1 = ~z~Please... I'm really hurting...
+
+DEGRP_WAIT2_01 = ~z~Come on... I don't think I'll make it on foot.
+
+DEGRP_WAIT2_02 = ~z~Give me an answer at least?
+
+DEGRP_WALKING_1 = ~t~In Spanish: Lousy horse! Nearly broke my damn back! Goddammit.
+

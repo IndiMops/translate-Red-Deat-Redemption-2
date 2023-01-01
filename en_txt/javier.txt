@@ -1,0 +1,1844 @@
+0x006B34C9 = ~z~That's enough now!
+
+0x00851707 = ~z~Why?
+
+0x012B685A = ~z~Just go away.
+
+0x016150C6 = ~z~I promise you, I'm not going anywhere interesting.
+
+0x01D69309 = ~z~What was that, Arthur?
+
+0x01EBCD3A = ~z~What's the hold up? Let's go.
+
+0x020B06AC = ~z~Here we go.
+
+0x022368F8 = ~z~Hey, there.
+
+0x023ACC37 = ~z~Arthur, they got Bill.
+
+0x025AEE52 = ~z~Just do us all a favor and get out of here.
+
+0x02CA5C84 = ~z~Hi, Susan.
+
+0x02FA0596 = ~z~Mr. Strauss.
+
+0x03017A93 = ~z~I was able to track the tracers pretty easily.
+
+0x0333221D = ~z~Arthur.
+
+0x03765492 = ~z~What are you doing? Get rid of that.
+
+0x0455EC06 = ~z~You think now's the time to mess with me?
+
+0x0468EF82 = ~z~Hello.
+
+0x0470A479 = ~z~What a day.
+
+0x0479C654 = ~z~Here we go.
+
+0x052E8874 = ~z~You know, I think I like the long hair on you, Arthur.
+
+0x053DAD2C = ~z~Josiah.
+
+0x06AD9A6B = ~z~Sure, all the time.
+
+0x0724E188 = ~z~Lenny.
+
+0x077EA438 = ~z~~sl:1.2~Not again.
+
+0x084928B2 = ~z~You do what you want.
+
+0x0856133E = ~z~Okay, Dutch?
+
+0x085764EB = ~z~We need to find where those O'Driscolls are at, and go hit them back.
+
+0x085F84FE = ~z~You alright?
+
+0x08B29FFC = ~z~Leave it now, Arthur.
+
+0x08C9ED80 = ~z~Hola mi mujeres.
+
+0x08E70608 = ~z~You alright?
+
+0x09055ECB = ~z~Have you seen yourself? You're filthy.
+
+0x093819AE = ~z~How you feeling, John?
+
+0x097F18BF = ~z~Stay near the fire tonight.
+
+0x09BA2D58 = ~z~Why are you being like this?
+
+0x0A06F6AA = ~z~You need something, Arthur?
+
+0x0A4AC5A4 = ~z~Morning, Arthur.
+
+0x0A6FD0D6 = ~z~Okay.
+
+0x0A9D4584 = ~z~Cut it out, Arthur.
+
+0x0A83789E = ~z~Good morning.
+
+0x0ADB0602 = ~z~What are you looking at, Charles?
+
+0x0AE5A462 = ~z~You stop that right now, Arthur.
+
+0x0B2FD579 = ~z~I don't have much to say to you right now.
+
+0x0B5C28D2 = ~z~Oh, hey, Karen.
+
+0x0BD8F3D9 = ~z~Hey, don't take it out on the dog.
+
+0x0BDF5243 = ~z~What?
+
+0x0C86287A = ~z~That's some beard you've got now.
+
+0x0CF68EB1 = ~z~Stop being an idiot.
+
+0x0D57CD38 = ~z~Looks like we're going to be eating well.
+
+0x0D661F38 = ~z~Come on, Arthur, enough now. Get that out of here.
+
+0x0DB992A4 = ~z~You think you're something special?
+
+0x0DD591C1 = ~z~Just write in your damn book.
+
+0x0E49F926 = ~z~Stay away from me, O'Driscoll.
+
+0x0E146C2C = ~z~Okay, Pearson?
+
+0x0E98584B = ~z~Buenos dias, senora.
+
+0x0F56C88D = ~z~Welcome back, amigos.
+
+0x0FAC5A57 = ~z~Isn't it about time you got that person out of here?
+
+0x0FBF427C = ~z~It never used to be like this.
+
+0x0FCCDFE7 = ~z~Leave it, John.
+
+0x0FF10286 = ~z~What are you doing there, Arthur?
+
+0x1A0DB887 = ~z~Okay, you need to get that body out of here now.
+
+0x1A8BCD37 = ~z~I got drinking to do.
+
+0x1A23A5A4 = ~z~I don't have much to say to you right now.
+
+0x1A81A942 = ~z~You doing okay?
+
+0x1ADAB50A = ~z~Some mess this is.
+
+0x1AE75F51 = ~z~Amigo.
+
+0x1AEFCD37 = ~z~I'm okay, better than most.
+
+0x1B1FDC5A = ~z~Aah, not the best.
+
+0x1B2D2B1E = ~z~Just stop it, Arthur.
+
+0x1B6EBFB4 = ~z~Okay?
+
+0x1B9D2B74 = ~z~You okay?
+
+0x1C86C422 = ~z~What do you want? Get outta here.
+
+0x1CDB72E9 = ~z~You're pushing your luck now.
+
+0x1D05D1A2 = ~z~Have you calmed down now?
+
+0x1D5DB19C = ~z~Hey, she doesn't deserve that.
+
+0x1D7E7B4A = ~z~What, John?
+
+0x1D10DD64 = ~z~Jefe.
+
+0x1D99E513 = ~z~Welcome back.
+
+0x1D91763F = ~z~Morning, Arthur.
+
+0x1DDA0714 = ~z~I love that song.
+
+0x1E4A3C5E = ~z~Oh so now you're picking a fight with me too?
+
+0x1E631432 = ~z~Let's see what the day brings.
+
+0x1ED3AB80 = ~z~What is it?
+
+0x1F2360F7 = ~z~Hey, Trelawny.
+
+0x1FFA69FE = ~z~Hello.
+
+0x2A035033 = ~z~All we seem to do is rescue folks these days, Arthur.
+
+0x2A75E188 = ~z~Arthur! Oh, am I glad I found you.
+
+0x2A153784 = ~z~Just shut your mouth.
+
+0x2AA79ADA = ~z~Hi Arthur.
+
+0x2AE54390 = ~z~Oh be quiet.
+
+0x2B7ACE26 = ~z~Go away, Lenny.
+
+0x2B38D810 = ~z~We got law coming in.
+
+0x2BCEFB9B = ~z~Pearson.
+
+0x2C3B85EA = ~z~Arthur.
+
+0x2CBC3A83 = ~z~How are you, Sadie?
+
+0x2CF18C22 = ~z~Arthur. It's been a while.
+
+0x2D99CC90 = ~z~What happened to loyalty, Arthur.
+
+0x2DCB5FC5 = ~z~What, Molly?
+
+0x2DE2359D = ~z~I'm alright.
+
+0x2E3B688B = ~z~Alright.
+
+0x2E6D0D23 = ~z~Leave it, Arthur.
+
+0x2E9C5419 = ~z~Hey, what did she do, huh?
+
+0x2E876F28 = ~z~Karen.
+
+0x2FCF3D94 = ~z~I'm going to ignore you.
+
+0x2FD314F4 = ~z~What'll Dutch do?
+
+0x2FE0B45D = ~z~Yes, very funny.
+
+0x3AAD93EE = ~z~Always fine times around here.
+
+0x3AC7A7CE = ~z~Ah, I was starting to think you'd run off on me.
+
+0x3ADD815F = ~z~Bill.
+
+0x3B1FD018 = ~z~I'm okay.
+
+0x3B8B7E41 = ~z~You can shut up , Sean.
+
+0x3B147AF4 = ~z~Hi, Susan.
+
+0x3B759081 = ~z~Stop trying to stir up trouble.
+
+0x3BDC274B = ~z~What's that look for?
+
+0x3BDFD5A5 = ~z~I'm not even playing this game.
+
+0x3BF111E3 = ~z~Is that what I think it is?
+
+0x3C2A8322 = ~z~I can't believe that bitch ratted on us.
+
+0x3C4CEA95 = ~z~Como esta todo?
+
+0x3C5E3E47 = ~z~Hello, Arthur.
+
+0x3CC71CB9 = ~z~Lenny.
+
+0x3DE79936 = ~z~Micah.
+
+0x3E00BC73 = ~z~Are you going to take that over to Pearson?
+
+0x3E1CFECF = ~z~Something like that.
+
+0x3E3A20F1 = ~z~Hey, stop that.
+
+0x3E5CA3C1 = ~z~Why have you got that bandana on?
+
+0x3E7C92F2 = ~z~Thanks, Arthur, the horses need it.
+
+0x3EBAEB99 = ~z~I don't want to play this game.
+
+0x3EE4A512 = ~z~Hi.
+
+0x3F4A0BA7 = ~z~I guess.
+
+0x3FAEC9DB = ~z~Hi, Sean.
+
+0x3FE86AAA = ~z~~sl:2.7~What?
+
+0x4A1B2DC1 = ~z~Praying Dutch is gonna get us out of this.
+
+0x4A8B0711 = ~z~Como estas?
+
+0x4A15C3BE = ~z~Stop staring at me.
+
+0x4A2994A9 = ~z~Okay, I think it's time for bed.
+
+0x4A281223 = ~z~Come on. Move.
+
+0x4AC514EF = ~z~Fine. Thanks anyway. I'll give Bill your regards.
+
+0x4B05042D = ~z~Hello?
+
+0x4B3FB9C1 = ~z~Okay, Dutch?
+
+0x4B90E281 = ~z~That one always puts a smile on my face.
+
+0x4B54224C = ~z~Oh, hi, Bill.
+
+0x4C3F58F0 = ~z~That should make a good stew.
+
+0x4C775FAA = ~z~Uncle.
+
+0x4C6943C9 = ~z~When are we not, Arthur?
+
+0x4D6B089B = ~z~Just leave it, will you?
+
+0x4D85E5EB = ~z~Give me some damn space here.
+
+0x4E318B00 = ~z~So now it's my turn.
+
+0x4E807D49 = ~z~Good morning.
+
+0x4EE27B44 = ~z~Morning, Arthur.
+
+0x4F6A2721 = ~z~Who's that? What's happened to you?
+
+0x4FB4306F = ~z~Oh... hey, Arthur.
+
+0x4FF7BE82 = ~z~Always something, Arthur.
+
+0x5A69E6BB = ~z~Okay, brother.
+
+0x5AA7D9CC = ~z~Hey, what the hell are you doing?
+
+0x5AAFF32D = ~z~Get that horse out of here.
+
+0x5B2CB09D = ~z~Senor Matthews.
+
+0x5B6A9348 = ~z~What?
+
+0x5BBDAAEE = ~z~You have no idea.
+
+0x5BD646AC = ~z~Dynamite? Are you crazy?
+
+0x5CAE19AC = ~z~Morning.
+
+0x5D4E8F38 = ~z~Que chiflado...
+
+0x5D8B6F0C = ~z~You always have to go too far.
+
+0x5D811664 = ~z~Hey, Arthur.
+
+0x5DABC3A4 = ~z~Jesus, Arthur, what is wrong with you?
+
+0x5DD255A5 = ~z~Whoa, I haven't seen one of those for a long time.
+
+0x5DF36574 = ~z~Arthur.
+
+0x5E877DDB = ~z~Get that out of there, Arthur. It's rotten.
+
+0x5EA7715E = ~z~Stay away from me.
+
+0x5F3EAA77 = ~z~What's the hold up? Let's go!
+
+0x5F70EDF0 = ~z~Stay away from me, Micah.
+
+0x5F92C508 = ~z~Very bad.
+
+0x5F838FEF = ~z~What a fine evening.
+
+0x5FD86C82 = ~z~What a day.
+
+0x6A8C8947 = ~z~What are you looking at?
+
+0x6AA6088E = ~z~I'm fine.
+
+0x6AD9A691 = ~z~We need to go.
+
+0x6B2834BE = ~z~That looks heavy.
+
+0x6B68344F = ~z~Mmm. Morning, Arthur.
+
+0x6BD864C3 = ~z~What else is there?
+
+0x6BF9CC15 = ~z~Todo bien?
+
+0x6CF9ED64 = ~z~Hey, what did she do?
+
+0x6D8DF272 = ~z~I'm okay... better than most.
+
+0x6D78E22E = ~z~Rest up, John.
+
+0x6D168937 = ~z~Don't say anything, Micah.
+
+0x6DAE96A6 = ~z~Evening Arthur.
+
+0x6E0261E7 = ~z~Are you joking?
+
+0x6E3C5CCE = ~z~Okay, I'm gonna get some rest.
+
+0x6E79CBFB = ~z~You really picked the wrong time.
+
+0x6E373A53 = ~z~Fine, it's easy enough to ignore you.
+
+0x6EA81E1C = ~z~That meat is gone, get it out of here.
+
+0x6EACD22D = ~z~What'll Dutch do?
+
+0x6F6D8C35 = ~z~Hello, Reverend.
+
+0x6FE713BF = ~z~What are you trying to prove?
+
+0x7A2E3F3B = ~z~Will  you back off?
+
+0x7A8A8A27 = ~z~I don't have much to say to you right now.
+
+0x7A86CBD4 = ~z~You do know you're covered in blood, Arthur?
+
+0x7A388CD7 = ~z~What are you smiling at, old man?
+
+0x7A45049B = ~z~Who's your new friend?
+
+0x7AB64AED = ~z~You think that bandana makes you look tough?
+
+0x7AB65519 = ~z~Have you stopped washing altogether?
+
+0x7B87E617 = ~z~This really isn't the time.
+
+0x7B6433C9 = ~z~I'm not in the mood for this.
+
+0x7BB4C851 = ~z~Evening.
+
+0x7BDE21CC = ~z~Arthur.
+
+0x7BF1619D = ~z~Micah.
+
+0x7BFC692E = ~z~Good morning, ladies.
+
+0x7CA4BFE3 = ~z~Hey, she ain't the problem.
+
+0x7CF1AD25 = ~z~Yeah, I'm okay.
+
+0x7DA4CD8B = ~z~Well?
+
+0x7DB106F4 = ~z~It's good to see you boys back in one piece.
+
+0x7DE8B21F = ~z~Just because you look filthy, doesn't mean you need to talk shit.
+
+0x7DF27D4E = ~z~Okay, you need to stop this now.
+
+0x7DFA219A = ~z~What, Kieran?
+
+0x7E88055F = ~z~Careful you don't chop your foot off.
+
+0x7EB3A36C = ~z~Aah, so so.
+
+0x7EC1A325 = ~z~Something you need, Arthur?
+
+0x7F0A95C9 = ~z~I'm working on it.
+
+0x7F5B78FA = ~z~Hosea.
+
+0x7F6C924D = ~z~Hey, leave her alone.
+
+0x7F32F47A = ~z~Don't look at me, Strauss.
+
+0x7F64C563 = ~z~Hey, leave her alone.
+
+0x7F400674 = ~z~Abigail.
+
+0x7FA50626 = ~z~Don't work too hard, Arthur.
+
+0x7FACED1E = ~z~It's gotten old now, Arthur.
+
+0x7FD78884 = ~z~Arthur.
+
+0x8A5E2204 = ~z~Not now, Sadie.
+
+0x8A6DD5A7 = ~z~Can't you smell that? It's rotting.
+
+0x8A12489D = ~z~Hey, get away from my things.
+
+0x8B4CCA8A = ~z~I'm done with this now.
+
+0x8B7CA28B = ~z~Hola, compadres.
+
+0x8B95D478 = ~z~Muy bien.
+
+0x8B535C30 = ~z~Not now, Arthur.
+
+0x8B996BCD = ~z~Well, go try that on someone else.
+
+0x8BA2F2A7 = ~z~Arthur.
+
+0x8BA32EDB = ~z~One of these days you'll learn.
+
+0x8C77EE70 = ~z~Sorry, I can't hear you through the stupid bandana.
+
+0x8C516F69 = ~z~You might want to wash off that blood sometime soon.
+
+0x8C493046 = ~z~Sure.
+
+0x8D90D301 = ~z~You've told that one before.
+
+0x8D232F58 = ~z~We gotta stay behind Dutch, it's the only way.
+
+0x8D339EE3 = ~z~Hope it warms up today.
+
+0x8DCC3348 = ~z~I guess.
+
+0x8DF00D15 = ~z~Good morning, ladies
+
+0x8E69AC45 = ~z~Don't you give me that look.
+
+0x8F10843E = ~z~Will you get away from me?
+
+0x8F619636 = ~z~Go play.
+
+0x8FE8CCE7 = ~z~Gonna be a cold night.
+
+0x9B9F748B = ~z~I can't complain.
+
+0x9BFFD68D = ~z~You joining me here?
+
+0x9CFD33AF = ~z~In Spanish: Son of a bitch.
+
+0x9D936F17 = ~z~Se acabo! That's enough, now.
+
+0x9E065472 = ~z~Waste of space.
+
+0x9E513434 = ~z~Well, anyway.
+
+0x9EFC314D = ~z~I aint doubnting. Wanna unerstand situation.
+
+0x9F0AE395 = ~z~Hello, Arthur.
+
+0x10CDA13D = ~z~Strauss.
+
+0x10F8D1DA = ~z~Stop it, Arthur.
+
+0x10F42957 = ~z~Come talk to me when you sober up.
+
+0x11B84406 = ~z~You stay near the fire, Jack.
+
+0x13A42D2C = ~z~What do you think?
+
+0x13D451DE = ~z~Yes, it's not always easy.
+
+0x13D614CD = ~z~Sure Arthur.
+
+0x13D6000A = ~z~Bunch of idiots.
+
+0x15B83700 = ~z~Welcome back, boys.
+
+0x16D1800C = ~z~I been better.
+
+0x16DAFA76 = ~z~Those clothes could do with a wash, Arthur.
+
+0x16F8B083 = ~z~Hi, Dutch.
+
+0x17B03521 = ~z~Stay warm tonight.
+
+0x17EFC9C3 = ~z~Have you got a problem with me?
+
+0x18F77571 = ~z~Reverend.
+
+0x19A9A39F = ~z~What, Charles?
+
+0x20CEF604 = ~z~What are you doing here?
+
+0x20F75863 = ~z~Why are you following me?
+
+0x21C65F24 = ~z~Evening Arthur.
+
+0x21D5FEAA = ~z~Okay, they've been here long enough now. You want them to hear all our plans?
+
+0x22B57FEF = ~z~Just say it?
+
+0x22EEA26F = ~z~Te voy a matar
+
+0x23B570ED = ~z~Hey.
+
+0x25F93913 = ~z~You just worry about that cough.
+
+0x26DF249D = ~z~Why don't you stop playing lawman like some little kid?
+
+0x26E35811 = ~z~Evening, Arthur.
+
+0x29C342B0 = ~z~Okay.
+
+0x29EF79F9 = ~z~I been better.
+
+0x29F19DA7 = ~z~Why don't you take the mask off before you start talking like that?
+
+0x32A13545 = ~z~Hi, Pearson.
+
+0x32D49256 = ~z~Hey, that ain't called for.
+
+0x32FA1C02 = ~z~You okay?
+
+0x33B0FEF8 = ~z~It's for your own good, Arthur.
+
+0x33E377DF = ~z~You okay, Tilly?
+
+0x34ED6A31 = ~z~Alright, I need some sleep.
+
+0x37FB1651 = ~z~I can't for now... you think we're wanted here? I'll be shot on sight if I go back there.
+
+0x39F54AC9 = ~z~Has that law badge gone to your head?
+
+0x40A4DEC9 = ~z~Good Morning, Arthur.
+
+0x40ABDD3B = ~z~Hola. Que tal?
+
+0x40B4524D = ~z~Good evening.
+
+0x41A3F068 = ~z~Whatever you say.
+
+0x41C9D72B = ~z~You need to ask?
+
+0x41DCF2BE = ~z~Okay, Arthur.
+
+0x43A3A216 = ~z~Morning, amigo.
+
+0x44AFBF6D = ~z~You alright?
+
+0x45D9D140 = ~z~Hello.
+
+0x45E71B41 = ~z~Just watching this, are you?
+
+0x46AA836A = ~z~Keep your mouth shut, Strauss.
+
+0x47DA25B4 = ~z~What else is there?
+
+0x47EB25D3 = ~z~The horses will be glad of that.
+
+0x48DBAB4D = ~z~See, you're the one causing the problems round here.
+
+0x52A2BDD9 = ~z~Just get away from her..
+
+0x52F55BF8 = ~z~All good?
+
+0x54A456A7 = ~z~Swanson.
+
+0x54BCB8EC = ~z~Don't say a word, Susan.
+
+0x54F1D8C2 = ~z~Get a hold of yourself, Reverend.
+
+0x57A074CD = ~z~Hi.
+
+0x59A4C05C = ~z~I have no problem resting up.
+
+0x61E06DB0 = ~z~Good, the fire was starting to look low.
+
+0x63A3D62C = ~z~Evening.
+
+0x63A82E23 = ~z~You staying warm?
+
+0x63F12326 = ~z~Are you drunk?
+
+0x64BB6195 = ~z~I ain't even gonna waste my time.
+
+0x65A23C7A = ~z~Buenos Dias a todos.
+
+0x67AEEDEC = ~z~Always something, Arthur.
+
+0x68D06D56 = ~z~Hi.
+
+0x68E7F777 = ~z~Do you want to sit, Arthur?
+
+0x69C28C52 = ~z~You're in the wrong line of work, cabrones!
+
+0x69E8911E = ~z~Pretty good.
+
+0x71B84BF8 = ~z~Hey, join me here.
+
+0x72A324D6 = ~z~This is getting real annyoing, now.
+
+0x72C4C36E = ~z~I'm not wasting any more time on you.
+
+0x72C70D32 = ~z~What, Trelawny?
+
+0x72DC0D60 = ~z~Go away, Trelawny.
+
+0x73D0F8A8 = ~z~What do you need, Arthur?
+
+0x73E89ABA = ~z~Good morning, Arthur.
+
+0x74B85BA2 = ~z~You're as bad... what happened to loyalty?
+
+0x74BB544F = ~z~~sl:2.1~What, what is it?
+
+0x74BD164B = ~z~Evening.
+
+0x74D5D082 = ~z~You okay?
+
+0x75F55E22 = ~z~Just leave me be.
+
+0x77F24F2B = ~z~I'm going back to sleep.
+
+0x77F721D5 = ~z~Okay, brother.
+
+0x78A34224 = ~z~We need to leave, now.
+
+0x80F03C64 = ~z~Very funny.
+
+0x81C6405E = ~z~Are you going to do something about this ?
+
+0x82B72AEE = ~z~Hey, Arthur.
+
+0x83C0B032 = ~z~So what happened to Trelawny.
+
+0x83F75F59 = ~z~Morning.
+
+0x84B47D23 = ~z~Hold up for the train.
+
+0x85AD9C5D = ~z~Oh, what are doing in here?
+
+0x86E9C3E0 = ~z~Alright?
+
+0x87AAB6A5 = ~z~Hey, there.
+
+0x87F76B11 = ~z~You are right there, aren't you?
+
+0x88BF5CDD = ~z~I like that one.
+
+0x88D6F15A = ~z~I'm starting to forget what you look like clean.
+
+0x90E20031 = ~z~Look at the size of that.
+
+0x90FC4778 = ~z~Hi Arthur.
+
+0x91BE36F0 = ~z~Hey, that ain't nice.
+
+0x91E92BC6 = ~z~Hi, Abigail.
+
+0x91EBE1A4 = ~z~Get the horse out of here.
+
+0x93D2DBB4 = ~z~Get away from me.
+
+0x93ED3CE8 = ~z~What happened to loyalty, Arthur.
+
+0x94B1E230 = ~z~Wrong mark, boys!
+
+0x96E5EC4D = ~z~Oh shut up.
+
+0x96F243E3 = ~z~I guess.
+
+0x98D97038 = ~z~Oh here we go.
+
+0x99BC69C6 = ~z~You're the one covered in shit.
+
+0x99C24D66 = ~z~What's your problem?
+
+0x103B5B93 = ~z~Morning.
+
+0x136CA999 = ~z~Good evening, senora.
+
+0x144A6DDD = ~z~Watch out for Bill!
+
+0x168A1FCB = ~z~Hey, Karen.
+
+0x185FE109 = ~z~Come on, Arthur.
+
+0x202FEA78 = ~z~Thanks.
+
+0x203D5294 = ~z~Hi, Karen.
+
+0x224F3E55 = ~z~In Spanish: Unbelievable...
+
+0x232ACDC4 = ~z~Shut up, Arthur, you're drunk.
+
+0x261EF1D9 = ~z~Ya estas muerto, Kieran.
+
+0x266DB055 = ~z~Hello?
+
+0x290C2481 = ~z~Not so good.
+
+0x295AEBBB = ~z~Hang in there, Abigail.
+
+0x296DE051 = ~z~I see you finally shaved, Arthur.
+
+0x307F4F22 = ~z~I'm not in the mood, Arthur.
+
+0x316C8881 = ~z~There's room here, if you want to sit?
+
+0x351E994C = ~z~Keep your mouth shut, Micah.
+
+0x363E3338 = ~z~Okay, Uncle?
+
+0x369E88F3 = ~z~Hey.
+
+0x369EA2D4 = ~z~What are you following me around for?
+
+0x398AD9CD = ~z~Yes, I heard you.
+
+0x404FA642 = ~z~Hi, Charles.
+
+0x406F1972 = ~z~Just leave her the hell alone.
+
+0x424DF4E7 = ~z~Don't say anything, Charles.
+
+0x446BB7B6 = ~z~Look at you, Reverend.
+
+0x449BA69E = ~z~Hey, Micah.
+
+0x451D2C90 = ~z~He's a problem. We all know it.
+
+0x456F5AE1 = ~z~Pearson.
+
+0x473D5A62 = ~z~I don't want to get into this with you right now.
+
+0x506ED1DF = ~z~Morning.
+
+0x516A31B9 = ~z~Good evening, Arthur.
+
+0x516B6D54 = ~z~Hey, Sean.
+
+0x534BC52A = ~z~Why don't you just sit, Arthur.
+
+0x534FF063 = ~z~At least show your face.
+
+0x586A3055 = ~z~Are you alright, miss?
+
+0x587DF71C = ~z~We'll be out of here, soon.
+
+0x601A635F = ~z~Hey, kid.
+
+0x618C219B = ~z~Hasta luego.
+
+0x630EF37C = ~z~Reverend.
+
+0x634A2E11 = ~z~Looks like I didn't need your help after all.
+
+0x644BDFEE = ~z~Not too bad, considering.
+
+0x657DF86E = ~z~Hey, Arthur.
+
+0x670F96C4 = ~z~Hey, Mary Beth.
+
+0x675C2353 = ~z~Maybe I don't understand the joke.
+
+0x680F18CA = ~z~Yeah, so, tell me, it was that bad in Valentine?
+
+0x681F6050 = ~z~I thought we said no hostages?
+
+0x693E0A5C = ~z~That's a good one.
+
+0x699BC7FA = ~z~What are you doing, Arthur?
+
+0x719A80E7 = ~z~Why don't you just sit, Arthur?
+
+0x719F9055 = ~z~Tomorrow's another day, Arthur.
+
+0x731E4FF7 = ~z~Oh, it's you.
+
+0x767CB5B4 = ~z~What are you smiling at, Bill?
+
+0x777B2503 = ~z~You good?
+
+0x778B375A = ~z~I was just about to move those.
+
+0x798AD973 = ~z~You okay, Arthur?
+
+0x805A1B1D = ~z~Ugh, me siento como muerto.
+
+0x818A389E = ~z~Why are you following me?
+
+0x824A4556 = ~z~You don't look so good, friend.
+
+0x835EEF45 = ~z~Got room here for you, Arthur.
+
+0x836AF8C2 = ~z~Why did they take so long to hang him?
+
+0x836CB4F6 = ~z~You joining me here, Arthur?
+
+0x902D56A8 = ~z~Why don't you go wash, then we can talk.
+
+0x904C091B = ~z~Just go wash off that blood, will you?
+
+0x906C53C1 = ~z~Morning, Arthur.
+
+0x925AE5CF = ~z~Real strange, and they don't like Cubans.
+
+0x937D7F32 = ~z~Arthur.
+
+0x956F9640 = ~z~Hey! Hey, outta the way.
+
+0x958C9D17 = ~z~Hi.
+
+0x970E75A4 = ~z~Hello, Jack
+
+0x974AE2C3 = ~z~Don't say it, Abigail.
+
+0x976C997F = ~z~I see you following me.
+
+0x983A3D8A = ~z~Of course not.
+
+0x983A65FE = ~z~Are you following me?
+
+0x983E2E74 = ~z~Morning, Arthur.
+
+0x1981D701 = ~z~People are hungry.
+
+0x2240E77F = ~z~Don't say it, Hosea.
+
+0x2766D163 = ~z~Are you drunk?
+
+0x3001FB9B = ~z~Evening.
+
+0x3120CF4D = ~z~Hola, Arthur.
+
+0x3230A4AE = ~z~You're no better, John
+
+0x3262C274 = ~z~I'm not waiting any more. Just come if you're coming.
+
+0x3431B5A9 = ~z~You shouldn't be so close to me.
+
+0x3577F7FF = ~z~I'm working on it.
+
+0x3938FCBC = ~z~Evening.
+
+0x4208B821 = ~z~Back off.
+
+0x4270FFC5 = ~z~Hi, Tilly.
+
+0x4367A0B2 = ~z~Que te pasa?
+
+0x4904DF83 = ~z~Will you back off?
+
+0x4965AD35 = ~z~My head is killing me.
+
+0x5344A827 = ~z~Look out. It's the law.
+
+0x5449E080 = ~z~Yeah, well... you coming?
+
+0x5465D616 = ~z~Yeah, the older I get the more I find that to be true.
+
+0x5766FF84 = ~z~Hey, stop that.
+
+0x5955D9F4 = ~z~Hey.
+
+0x6100D8A8 = ~z~I knew you wouldn't miss the party, Arthur!
+
+0x6119E572 = ~z~Next time it'll be a bullet.
+
+0x6638ABB8 = ~z~I'm trying to sleep, here.
+
+0x6919FD0C = ~z~Hi there.
+
+0x7034FA4C = ~z~Who do you think you are?
+
+0x7143B875 = ~z~When are we not, Arthur?
+
+0x7168BE6A = ~z~Bill.
+
+0x7178AA79 = ~z~Oh, hi, Jack.
+
+0x7359D550 = ~z~You're going after everyone today aren't you?
+
+0x7753DFDD = ~z~Como esta todos.
+
+0x8056C03D = ~z~I've had it with you now.
+
+0x8122A9ED = ~z~Stay away from me, Trelawny.
+
+0x8142DABD = ~z~Hey, Arthur.
+
+0x8312B2F6 = ~z~Good evening.
+
+0x8830D7E9 = ~z~You okay, Jack?
+
+0x9104E2CB = ~z~Hosea.
+
+0x9356AE48 = ~z~Can I get some space here?
+
+0x10030DDF = ~z~What?
+
+0x10236C2B = ~z~You picked a bad time, Arthur.
+
+0x22572CD7 = ~z~Don't give me that look.
+
+0x26063EC3 = ~z~Karen.
+
+0x26332F0A = ~z~You alright there, Arthur?
+
+0x27686D49 = ~z~Yeah, get 'em, Arthur!
+
+0x28510FBB = ~z~We gotta stay behind Dutch, it's the only way.
+
+0x30435B6A = ~z~Hola, Tilly.
+
+0x42131BCA = ~z~What are you waiting for?
+
+0x42749FB8 = ~z~Good morning, mister.
+
+0x43332C0E = ~z~Are you joining us?
+
+0x46702D44 = ~z~Won't even sit next to me no more?
+
+0x48262A4D = ~z~You should see if Pearson can make you something special out of that.
+
+0x49039F7D = ~z~Who goes there?
+
+0x52868BE0 = ~z~You alright?
+
+0x58047D49 = ~z~What, Karen?
+
+0x58159B62 = ~z~He said he was going hunting... never returned.
+
+0x58505E13 = ~z~Arthur Morgan.
+
+0x60469E72 = ~z~I don't have the energy for this.
+
+0x67357D49 = ~z~As for you, Reverend...
+
+0x70235FC7 = ~z~Are you okay there, miss?
+
+0x70307B2F = ~z~Morning, friend.
+
+0x83810BFD = ~z~Stop following me.
+
+0x84291E51 = ~z~Of course not.
+
+0x84953FE5 = ~z~Hey, how'd you get free?
+
+0x94748F18 = ~z~Dejame en paz.
+
+0x95489AB0 = ~z~Yeah, I wasn't saying I don't trust him.
+
+0x98956E2B = ~z~Just go away.
+
+0x124956FC = ~z~Not again, get out of here.
+
+0x230830EA = ~z~~sl:3.2~What, Arthur?
+
+0x251462BA = ~z~Morning, Arthur.
+
+0x301305C9 = ~z~Charles.
+
+0x306594DB = ~z~Just go away.
+
+0x315785F1 = ~z~Hi, Dutch.
+
+0x371820BC = ~z~Nice haul there, Arthur.
+
+0x480630A1 = ~z~We'll be okay, Jack.
+
+0x546959C7 = ~z~Don't you think that was a little bit overboard with the dynamite? Could've blown Bill to pieces.
+
+0x604808D4 = ~z~Good work, hopefully Pearson will stop complaining for five minutes.
+
+0x641266B7 = ~z~Always something, Arthur.
+
+0x802597FB = ~z~What else is there?
+
+0x812849F6 = ~z~Senor Strauss.
+
+0x911430A5 = ~z~Always stirring the pot aren't you?
+
+0x979113D5 = ~z~Arthur.
+
+0x1130343D = ~z~You best hope you freeze to death.
+
+0x2748650D = ~z~Evening Arthur.
+
+0x3077856C = ~z~You stop that right now.
+
+0x3840867E = ~z~Good, we need to keep those horses strong.
+
+0x5574385E = ~z~Hey, who's there?
+
+0x5883377B = ~z~Hola.
+
+0x6462563A = ~z~Who's that?
+
+0x6602929F = ~z~Don't take it out on her.
+
+0x7147367F = ~z~But only a matter of time before they decide to pick up camp, and head for town to collect the bounty.
+
+0x7550892F = ~z~I don't know why I bother sometimes.
+
+0x7566493A = ~z~That's a lot of meat. Well done.
+
+0x8740474D = ~z~Hijo de putas!
+
+0x8760938F = ~z~Miss Grimshaw.
+
+0x9041845B = ~z~And you make a pretty good oil man.
+
+0x9901778C = ~z~Leave it, Arthur.
+
+0x13559808 = ~z~We gotta stay behind Dutch, it's the only way.
+
+0x16198312 = ~z~You think you're a lawman now, do you?
+
+0x19705884 = ~z~Hey, Charles.
+
+0x20567753 = ~z~Bounty men. I found their camp nearby, they got Bill tied up. I'm gonna go take care of it. Come on.
+
+0x35230429 = ~z~Cual es tu problema?
+
+0x39124990 = ~z~Good morning.
+
+0x39173866 = ~z~Oh I see what's happening.
+
+0x39940928 = ~z~Sometimes.
+
+0x40083279 = ~z~What do you want now?
+
+0x41176024 = ~z~Look, you do what you want.
+
+0x44451026 = ~z~Why are you so close.
+
+0x45379774 = ~z~Thanks.
+
+0x46909396 = ~z~Hey, there.
+
+0x50649858 = ~z~And here we are.
+
+0x54044193 = ~z~It's hard to stay positive right now.
+
+0x56906652 = ~z~What is your problem with me?
+
+0x57555983 = ~z~Hey.
+
+0x58857837 = ~z~I almost wish we were back on Guarma.
+
+0x64261107 = ~z~Don't say it, Bill.
+
+0x71473007 = ~z~Just back off Arthur.
+
+0x73286755 = ~z~They won't wait forever, we gotta move!
+
+0x79778037 = ~z~What Sadie?
+
+0x91125041 = ~z~Room here if you want?
+
+0x93144091 = ~z~I am never drinking again.
+
+0x96517448 = ~z~Strauss.
+
+0xA0090D55 = ~z~What are you looking at, Karen?
+
+0xA0348355 = ~z~Mary Beth.
+
+0xA060C255 = ~z~Yeah, only because you want your money.
+
+0xA0896F2F = ~z~You wanna sit?
+
+0xA0B29CA8 = ~z~Something like that.
+
+0xA0D52CDB = ~z~Damn this place, Tilly.
+
+0xA1A66914 = ~z~There they are.
+
+0xA2E32BF5 = ~z~That's enough
+
+0xA3B7CF63 = ~z~Okay, Abigail?
+
+0xA3FE39FA = ~z~Hello.
+
+0xA4FB9E21 = ~z~Evening, compadre.
+
+0xA5A57D31 = ~z~Okay, Arthur.
+
+0xA5CD3DD1 = ~z~Dejame en paz.
+
+0xA5D750A9 = ~z~What do you want, Arthur?
+
+0xA7DBE999 = ~z~Why are you doing this?
+
+0xA7F34D41 = ~z~Are you feeling okay, Arthur?
+
+0xA8AE8FDE = ~z~I don't want to hear it, Arthur.
+
+0xA8E7B2D0 = ~z~Sadie.
+
+0xA40E5FCC = ~z~Of course not.
+
+0xA71D1A63 = ~z~Why are you poking around here?
+
+0xA72AEECC = ~z~Hello, Molly.
+
+0xA83C12C0 = ~z~Okay, glad not to be in a cage. Thanks... thanks for getting me out.
+
+0xA90A8B15 = ~z~What are you hanging around here for?
+
+0xA93D20A9 = ~z~What's your problem?
+
+0xA222CFE8 = ~z~Mr. Williamson.
+
+0xA231F74C = ~z~Morning.
+
+0xA430CF3D = ~z~That should keep the girls happy.
+
+0xA459D730 = ~z~See you're the one playing games round here.
+
+0xA550E334 = ~z~Hey, get away from her.
+
+0xA864A91D = ~z~Bunch of idiots.
+
+0xA911AA5A = ~z~Hi Arthur.
+
+0xA952B758 = ~z~Hey.
+
+0xA1639D91 = ~z~Yeah, can't argue that...
+
+0xA4069D6D = ~z~On foot from here.
+
+0xA6512C3B = ~z~Hey.
+
+0xA36278A7 = ~z~Okay, Arthur.
+
+0xA71634DE = ~z~Just shut up.
+
+0xA137098E = ~z~I just want some space here, Arthur.
+
+0xA1830835 = ~z~I'll ask him in a bit.
+
+0xA6300931 = ~z~Have you seen this, Dutch?
+
+0xAA35DF7E = ~z~No, get out.
+
+0xAA42DAF9 = ~z~Hi there.
+
+0xAAB817B7 = ~z~Sure.
+
+0xAAD01C68 = ~z~Senores.
+
+0xAAE4E78C = ~z~Your days are numbered, my friend.
+
+0xAB025E7D = ~z~What is it?
+
+0xAB9D6482 = ~z~Don't say anything.
+
+0xAB20CDB4 = ~z~Run along, Jack.
+
+0xAB203426 = ~z~They won't wait forever, we gotta move.
+
+0xABD48186 = ~z~Good to see you.
+
+0xABFDDA2F = ~z~What are you doing bringing that skunk in here?
+
+0xAC394AA9 = ~z~Leave me alone.
+
+0xACA7008D = ~z~Come on! It's time.
+
+0xACE468B0 = ~z~Evening Arthur.
+
+0xAD7DF361 = ~z~Go away, Uncle.
+
+0xAD64411F = ~z~Will you leave me alone?
+
+0xAE5AA9F8 = ~z~And don't you comment.
+
+0xAE6AD718 = ~z~Okay, Hosea?
+
+0xAE7E23C4 = ~z~Gentlemen.
+
+0xAE41760C = ~z~This is all starting to get to me.
+
+0xAEBAD72A = ~z~In Spanish: What an asshole.
+
+0xAFFA4623 = ~z~Just leave it.
+
+0xB01EAF82 = ~z~I'd say I had the upper hand.
+
+0xB0D29CC1 = ~z~Good morning, miss.
+
+0xB1F713FA = ~z~Stake out your position.
+
+0xB2C809EE = ~z~I can't take you seriously dressed like that.
+
+0xB2D5DC3D = ~z~Charles.
+
+0xB3EF4782 = ~z~Are you ever going to wash those clothes?
+
+0xB4BBE0EA = ~z~Not now, Jack.
+
+0xB4CBC930 = ~z~Arthur.
+
+0xB4D9E05B = ~z~Nice work, if I do say so myself...
+
+0xB5C4CF1A = ~z~Buenos Dias.
+
+0xB5D03B09 = ~z~What did you tie them up for?
+
+0xB5D5A4AB = ~z~What do  you need, Arthur?
+
+0xB5EC18F3 = ~z~In Spanish: Dammit...
+
+0xB6A6EE7F = ~z~Fine. I'm going. You come or you don't.
+
+0xB6A13C1A = ~z~So, I was saying...
+
+0xB6E30659 = ~z~Morning.
+
+0xB7C04426 = ~z~Quien te entiende...
+
+0xB7D98A23 = ~z~Ugh, why did I have that last drink?
+
+0xB7DD7755 = ~z~Can you give me some room here?
+
+0xB8B52D62 = ~z~Sure Arthur.
+
+0xB8BF8C3D = ~z~Why have you got that mask on?
+
+0xB15ECF6B = ~z~Here we go.
+
+0xB24DF7C0 = ~z~Getting good with that skinning knife, I see.
+
+0xB75DE811 = ~z~Only a matter of time before they decide to pick up camp, head for town to collect the bounty.
+
+0xB99F98E0 = ~z~What are you doing here?
+
+0xB113F807 = ~z~I'll get the ropes.
+
+0xB114C467 = ~z~Evening.
+
+0xB125D682 = ~z~It's up ahead. I can hear 'em.
+
+0xB181FAB3 = ~z~Why?
+
+0xB385B9FF = ~z~Hold up for the train!
+
+0xB1487C25 = ~z~You ain't helping the situation, Arthur.
+
+0xB8607BD3 = ~z~Hey, you can't just walk in here.
+
+0xB9459F2E = ~z~Hey, that ain't nice.
+
+0xB10614E9 = ~z~Yes, see you later.
+
+0xB48525DB = ~z~What's happening here, Dutch?
+
+0xB54827A0 = ~z~You don't want to play this game with me right now.
+
+0xB117542C = ~z~Hey.
+
+0xB914261C = ~z~Enough.
+
+0xB936773A = ~z~Susan.
+
+0xB2271815 = ~z~This place.
+
+0xB7040130 = ~z~Been hunting, huh?
+
+0xBA2F9017 = ~z~Hey.
+
+0xBA96A210 = ~z~In Spanish: Who do you think you are?
+
+0xBAB9F890 = ~z~I'll do it alone then. What's happened to you, Arthur?
+
+0xBAB25665 = ~z~Mrs. Adler.
+
+0xBAF9D551 = ~z~Just go away.
+
+0xBB1BBD53 = ~z~Can I get some privacy here?
+
+0xBBB5C23D = ~z~Why are you so close to me?
+
+0xBBD07E14 = ~z~Good times.
+
+0xBC093671 = ~z~John.
+
+0xBC26BC64 = ~z~Good evening.
+
+0xBC534687 = ~z~Cut your hair, I see.
+
+0xBD86FB38 = ~z~Change of heart?
+
+0xBDC8840D = ~z~What do you want?
+
+0xBE2FE28E = ~z~Leave me alone.
+
+0xBE4B421F = ~z~Hello.
+
+0xBE13D47B = ~z~Just keep quiet, okay?
+
+0xBEAD84CB = ~z~I know that's just the drink talking.
+
+0xBF7FDA9F = ~z~Hey, Bill.
+
+0xBF41F081 = ~z~Hola.
+
+0xBF27318F = ~z~Not too bad.
+
+0xBFC611A1 = ~z~He's in cover!
+
+0xC034C731 = ~z~Hi, boys.
+
+0xC05A54DE = ~z~Evening, mister.
+
+0xC09054B2 = ~z~I think you know the answer to that.
+
+0xC09DF112 = ~z~Que tal hermano?
+
+0xC2A492C5 = ~z~Hey, who's that?
+
+0xC2DE67FA = ~z~Good evening.
+
+0xC2E0FD53 = ~z~Well, that's about all of it.
+
+0xC3AD5002 = ~z~Mary Beth
+
+0xC3F0D892 = ~z~Hey, don't do that.
+
+0xC5B8359B = ~z~That's life.
+
+0xC6AF48D6 = ~z~Good evening Arthur.
+
+0xC6DEBD6D = ~z~Yes, what?
+
+0xC7E05579 = ~z~Well, I'm trying to get some peace here.
+
+0xC8B27C0A = ~z~Are you following me?
+
+0xC8E81411 = ~z~Good evening, miss.
+
+0xC9A72DBE = ~z~Me duele la cabeza.
+
+0xC9DC1AE4 = ~z~Stay out  of my way, Sean.
+
+0xC33D5F27 = ~z~I will.
+
+0xC55D60BA = ~z~Okay. Okay, we're getting close.
+
+0xC67CD110 = ~z~Evening.
+
+0xC72AFD85 = ~z~Fine.
+
+0xC140FCEA = ~z~Couldn't skip the party, eh? Good man.
+
+0xC299D604 = ~z~We need to get out of here.
+
+0xC533E68C = ~z~Hey, leave the dog alone.
+
+0xC838BD8C = ~z~In Spanish: Idiot.
+
+0xC2665FAD = ~z~Alright!
+
+0xC6394AD1 = ~z~Hi, John.
+
+0xC397402E = ~z~Haven't you get anything better to do?
+
+0xC488066A = ~z~What do you want, Arthur?
+
+0xC2947059 = ~z~Not now, Tilly.
+
+0xC3143905 = ~z~Sounds good.
+
+0xC6191916 = ~z~Do I have something on my face?
+
+0xC7081642 = ~z~Good work, Arthur.
+
+0xC7612980 = ~z~You don't need to hide your face here, Arthur.
+
+0xCA3BC7D3 = ~z~That's the best I got.
+
+0xCA4D98CB = ~z~What do you want, Molly?
+
+0xCA5D0BEC = ~z~Go read a book.
+
+0xCA8BD89B = ~z~Pray for us, Reverend.
+
+0xCA8D216C = ~z~Got another one!
+
+0xCA44FD10 = ~z~Join the party here, Arthur.
+
+0xCA85B581 = ~z~Molly.
+
+0xCA83382F = ~z~Hey, Lenny.
+
+0xCACCFDC4 = ~z~I've seen that look before.
+
+0xCB6CD920 = ~z~Muy bien.
+
+0xCBDF3D5F = ~z~Are you looking for something?
+
+0xCC04DDAE = ~z~Eh, well, see you later then?
+
+0xCC7C923B = ~z~Arthur. That's enough.
+
+0xCD87FCA2 = ~z~Don't look at me, Pearson.
+
+0xCDD9C011 = ~z~Why don't you change out of those ridiculous clothes?
+
+0xCE68FA39 = ~z~Unbelievable.
+
+0xCE73F079 = ~z~Oh, I couldn't be better.
+
+0xCE9581E6 = ~z~I was able to track 'em pretty easily.
+
+0xCE76782F = ~z~Here we go.
+
+0xCEB3D12E = ~z~You seen this, Mary Beth?
+
+0xCED3A282 = ~z~He's a problem. We all know it.
+
+0xCF2F58E1 = ~z~Yeah, yeah.
+
+0xCF9DCED4 = ~z~What are you looking at?
+
+0xD05288CC = ~z~Well?
+
+0xD08FBA2A = ~z~It'll be okay, Abigail.
+
+0xD09FB894 = ~z~Not too bad, considering.
+
+0xD0CD546F = ~z~Okay.
+
+0xD0D0CE84 = ~z~In Spanish: Son of a bitch!
+
+0xD1E9BF8B = ~z~Arthur.
+
+0xD2AA6D97 = ~z~Ah, good. I didn't want to move those.
+
+0xD2CEA2F7 = ~z~You need something, Arthur?
+
+0xD3D678D6 = ~z~That's going to spoil if you don't do something with it soon.
+
+0xD3F7737B = ~z~He's by the wagon!
+
+0xD4E236A8 = ~z~Why are you looking at me like that?
+
+0xD6C3F9B0 = ~z~What're you doing here?
+
+0xD6FCE5D8 = ~z~You know how to tell them.
+
+0xD7B43ED3 = ~z~You stopped shaving, have you, Arthur?
+
+0xD7DC867A = ~z~I won't ask where all that blood came from.
+
+0xD7EF370A = ~z~What are you looking at, Sean?
+
+0xD8A0588F = ~z~Hello.
+
+0xD8A8474E = ~z~I'm working on it.
+
+0xD8D275BB = ~z~Have a good evening.
+
+0xD8EB9E88 = ~z~Oh, don't start.
+
+0xD19FB9BD = ~z~Long day, Arthur.
+
+0xD25A9487 = ~z~Como esta hermano?
+
+0xD38D7B44 = ~z~Evening, friend.
+
+0xD44DDB06 = ~z~No, I'm not playing this game. Get out.
+
+0xD52EF002 = ~z~Are you lost? Get out of here.
+
+0xD60B95B4 = ~z~Now it's my turn?
+
+0xD60BF4BF = ~z~Hi, Mary Beth.
+
+0xD63E7D2D = ~z~Hey, what are you doing?
+
+0xD64DE7B7 = ~z~Morning, miss.
+
+0xD86E5152 = ~z~Hi, Molly.
+
+0xD87B8AD1 = ~z~Not so bad, I guess.
+
+0xD407E7CA = ~z~Why have you got it in for me today?
+
+0xD544DE7D = ~z~What are you trying to prove?
+
+0xD753F436 = ~z~Hola.
+
+0xD865F312 = ~z~Whatever.
+
+0xD866EF2C = ~z~Hey, John.
+
+0xD869EC4B = ~z~Gonna be a good night, Arthur.
+
+0xD5433DAE = ~z~You could make a good blanket out of that.
+
+0xD9651B50 = ~z~I'm not the one covered in blood.
+
+0xD98292A5 = ~z~Hey, there.
+
+0xD665674D = ~z~Yeah, I know.
+
+0xD5019932 = ~z~Whatever Arthur.
+
+0xDA12FCE3 = ~z~And you can keep your mouth shut.
+
+0xDA8390F4 = ~z~Hola but where you going?
+
+0xDAADB79C = ~z~Evening, lady.
+
+0xDB4BF983 = ~z~Hey, Mary Beth.
+
+0xDC183C60 = ~z~Go away, Molly.
+
+0xDCF137FA = ~z~You trying to get your hair to look like mine?
+
+0xDD45D6FE = ~z~I'm ready when you are, Arthur.
+
+0xDD944948 = ~z~See I think you're the one losing it.
+
+0xDDD4B68E = ~z~Tilly.
+
+0xDE057400 = ~z~I'm headed to camp as well. Thanks, Arthur.
+
+0xDE7A7C83 = ~z~You've gone too far, enough.
+
+0xDE8AA81D = ~z~I'm not in the mood, Tilly.
+
+0xDEABB5A4 = ~z~I hope you're not planning to eat that.
+
+0xDEC51117 = ~z~Oh, you know, freezing to death.
+
+0xDF08DE7F = ~z~Why are you prowling around here?
+
+0xDF2A6B37 = ~z~In Spanish: What a waste of time...
+
+0xDFA5ABF8 = ~z~You're one to talk.
+
+0xDFA44998 = ~z~Good evening, Arthur.
+
+0xDFAA22EC = ~z~Morning.
+
+0xDFE8444F = ~z~Gonna be another long day.
+
+0xE0A1737F = ~z~Oh, hey, I haven't seen you in a while.
+
+0xE0DE0FA0 = ~z~Your hair looks different.
+
+0xE0E21CF1 = ~z~Why so close, huh?
+
+0xE0E1251D = ~z~Not the time, Arthur.
+
+0xE1CA834F = ~z~Again with this crap?
+
+0xE3A8FAAD = ~z~Hello, Arthur.
+
+0xE3A796BB = ~z~Who's that? Doesn't look like a bounty.
+
+0xE3B4134D = ~z~I don't need this right now.
+
+0xE3C09AC0 = ~z~Hey, Lenny.
+
+0xE4B356D9 = ~z~Oh, you finally found your razor.
+
+0xE4C5A203 = ~z~I think it is, Arthur.
+
+0xE5E6C50F = ~z~Enough, Arthur. I won't tell you again.
+
+0xE6F21F0D = ~z~Are you still carrying that animal around?
+
+0xE6FC52DF = ~z~He said he was going hunting... never returned.
+
+0xE7BD20A3 = ~z~How long are you going to carry that around for?
+
+0xE7C8D0F9 = ~z~I've had enough of you now.
+
+0xE22AB106 = ~z~What are you talking about?
+
+0xE35F7993 = ~z~Alright, Arthur.
+
+0xE41FEC9D = ~z~You're the one dressed like an idiot.
+
+0xE47B1B60 = ~z~I've had better days.
+
+0xE89DF841 = ~z~Either take that off your face or go rob someone.
+
+0xE248DD24 = ~z~Another day in paradise.
+
+0xE281BDB4 = ~z~Hi, Uncle.
+
+0xE591F501 = ~z~You're making the rest of us look lazy.
+
+0xE922C8D6 = ~z~Try to rest that hand.
+
+0xE940FCAC = ~z~That just how it goes sometimes.
+
+0xE3642CCC = ~z~Get the hell away from me.
+
+0xE4453CC1 = ~z~You doing alright?
+
+0xE5773A58 = ~z~I think it is, Arthur.
+
+0xE7804ECB = ~z~No, no, don't start that mierda with me.
+
+0xE7886D9D = ~z~I don't know why I bother, sometimes.
+
+0xE7997BD5 = ~z~Hey, be nice.
+
+0xE8731F08 = ~z~Who do you think you are?
+
+0xE9070F6F = ~z~Are you drunk?
+
+0xE19488B5 = ~z~What, Arthur?
+
+0xE195039D = ~z~Is that for Pearson?
+
+0xE5699794 = ~z~You ever heard of soap, Arthur?
+
+0xEA2BB5E9 = ~z~What are you looking at?
+
+0xEA5FD282 = ~z~Another cold morning.
+
+0xEA508DD4 = ~z~Okay, I'm  bored of this now.
+
+0xEAA213B0 = ~z~Thanks Arthur.
+
+0xEAB2D37D = ~z~Your hair's getting long there, brother.
+
+0xEAD790CC = ~z~Good morning.
+
+0xEB3C8628 = ~z~Yes, hello, Arthur.
+
+0xEB85DF3D = ~z~Thank you, Arthur.
+
+0xEBA80B7C = ~z~What, Abigail?
+
+0xEBE9FF22 = ~z~Hi there.
+
+0xEC2BD100 = ~z~Hello, Uncle
+
+0xEC6E88C6 = ~z~What are you doing, Arthur?
+
+0xEC30A607 = ~z~What are you bringing that back here for?
+
+0xEC2812DD = ~z~What is it?
+
+0xEC704591 = ~z~Oh, not this again.
+
+0xEC725131 = ~z~Pearson should be able to make you something out of that.
+
+0xECCC58EE = ~z~Well, I am honored.
+
+0xED2A7AC2 = ~z~Are you feeling alright, Arthur?
+
+0xED38047A = ~z~Hello, Arthur.
+
+0xEDEB62B1 = ~z~Good, we needed some new water.
+
+0xEE047286 = ~z~Evening.
+
+0xEE74AACD = ~z~Did you cut your hair?
+
+0xEE95B918 = ~z~Hola.
+
+0xEE6190B6 = ~z~I'm done with this now!
+
+0xEF2FB98C = ~z~You could give me a little room here.
+
+0xEF151291 = ~z~Why are you in here?
+
+0xEFA50937 = ~z~Doing a good job there, Arthur.
+
+0xEFD1AA1E = ~z~Sean.
+
+0xEFDB1BAD = ~z~Okay, Arthur.
+
+0xF090B811 = ~z~You've done good here, Susan.
+
+0xF0964AC9 = ~z~Don't start that with me too.
+
+0xF0CCAFC7 = ~z~Why are you doing this?
+
+0xF1BE37EE = ~z~Fine. I'm going. You come or you don't.
+
+0xF1F37162 = ~z~Who's there?
+
+0xF2E710A8 = ~z~You okay?
+
+0xF4EACD54 = ~z~Okay then... hola Arturo.
+
+0xF5A209D8 = ~z~You joining me here?
+
+0xF6A43B4C = ~z~What is it, Arthur? You're acting strange.
+
+0xF6DF5D90 = ~z~Como esta amigo?
+
+0xF7E9156E = ~z~O'Driscoll.
+
+0xF9AFF980 = ~z~Yeah, well... add it to the tab.
+
+0xF9D9D72E = ~z~Hola.
+
+0xF26C4155 = ~z~What's the look for?
+
+0xF33EF5E8 = ~z~Wow, that beard grew fast.
+
+0xF45ECA4F = ~z~You think it's funny, Pearson?
+
+0xF50BC6AA = ~z~Don't look at me.
+
+0xF59B86EE = ~z~Hi.
+
+0xF64E0311 = ~z~What is it, Arthur?
+
+0xF64E64E9 = ~z~It's painful for me.
+
+0xF73FABE0 = ~z~Something like that.
+
+0xF90FCE47 = ~z~Hey, what did that dog do to you?
+
+0xF214ED01 = ~z~Hey.
+
+0xF544D327 = ~z~Yeah, real tough walking around with all that blood on you.
+
+0xF816DD36 = ~z~Hello, Arthur.
+
+0xF937FF53 = ~z~Hey, what are you staring at?
+
+0xF1107FD1 = ~z~Always fun times round here.
+
+0xF4643C55 = ~z~Look at us. What kind of question is that?
+
+0xF4668BCB = ~z~This is what it's come to, Hosea.
+
+0xF5610D73 = ~z~Trelawny.
+
+0xF8004BED = ~z~Hello.
+
+0xF35834D2 = ~z~Why are you being an idiot?
+
+0xF44561CC = ~z~Are you hearing me? Stop it.
+
+0xF269736A = ~z~That's enough, Arthur.
+
+0xF2559734 = ~z~You're getting to be quite the hunter, Arthur.
+
+0xF9742297 = ~z~Yes, I said hello.
+
+0xFA83EBE9 = ~z~Hey, leave her alone.
+
+0xFAD57575 = ~z~Why are you being like this?
+
+0xFB0E6749 = ~z~I'll head back, too.
+
+0xFB152A37 = ~z~Get the hell away from me.
+
+0xFCA4B863 = ~z~What happened to loyalty, Arthur.
+
+0xFCC00999 = ~z~Tilly.
+
+0xFD61B098 = ~z~I mean we gotta do something.
+
+0xFD86FC75 = ~z~Again with this? You idiot.
+
+0xFD182E2A = ~z~How do you deal with these idiots?
+
+0xFD662DAC = ~z~Okay then.
+
+0xFD550120 = ~z~Hey.
+
+0xFE5A445C = ~z~Mr. Strauss.
+
+0xFE7B16DA = ~z~You think this is funny?
+
+0xFE75FC41 = ~z~Well, we're still alive.
+
+0xFE557553 = ~z~Uncle.
+
+0xFF21AE2C = ~z~Not this again.
+
+0xFFC0C5A3 = ~z~Molly.
+
+0xFFE28D3B = ~z~Oh good, you shaved.
+
+0xFFE7781B = ~z~Hunting for fun now, are you?
+

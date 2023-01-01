@@ -1,0 +1,412 @@
+BOU1_ALIVE_1 = ~z~And we need him alive... that's an important point.
+
+BOU1_ALIVE_2 = ~z~Alive. I got it.
+
+BOU1_CALL2_01 = ~z~Get over to the bank.
+
+BOU1_CALL2_02 = ~z~Allbright!
+
+BOU1_CALL2_03 = ~z~Allbright, try!
+
+BOU1_CALL2_04 = ~z~Keep your head above water!
+
+BOU1_CALL2_05 = ~z~Don't you dare drown!
+
+BOU1_CALL_1 = ~z~Swim to the edge.
+
+BOU1_CALL_2 = ~z~Or... grab onto something.
+
+BOU1_CROSSRIVER_1 = ~z~Shit.
+
+BOU1_CROSSRIVER_2 = ~z~~sl:0.3~I-I gotta cross.
+
+BOU1_DANGLE_01 = ~z~Oh...
+
+BOU1_DANGLE_02 = ~z~Ah...
+
+BOU1_DANGLE_03 = ~z~No...
+
+BOU1_DANGLE_04 = ~z~Wait. Wait, wait, wait.
+
+BOU1_DANGLE_05 = ~z~Please.
+
+BOU1_DANGLE_06 = ~z~Uh...
+
+BOU1_EXT_1 = ~z~There's been some terrible mistake.
+
+BOU1_EXT_2 = ~z~I never did it...
+
+BOU1_EXT_3 = ~z~any of it.
+
+BOU1_EXT_4 = ~z~I thought I told you to shut up, partner.
+
+BOU1_EXT_5 = ~z~But I told...
+
+BOU1_EXT_6 = ~z~But nothing.
+
+BOU1_EXT_7 = ~z~Shut up...
+
+BOU1_EXT_8 = ~z~and err...
+
+BOU1_EXT_9 = ~z~good luck.
+
+BOU1_EXT_10 = ~z~It's been real fun.
+
+BOU1_EXT_11 = ~z~You ain't much of man.
+
+BOU1_EXT_12 = ~z~If you ask folks for forgiveness you remember this, partner.
+
+BOU1_EXT_13 = ~z~I've already forgotten it.
+
+BOU1_EXT_14 = ~z~Now, Sheriff...
+
+BOU1_EXT_15 = ~z~how much was you offering?
+
+BOU1_EXT_16 = ~z~Fifty dollars... here.
+
+BOU1_EXT_17 = ~z~Thank you.
+
+BOU1_EXT_18 = ~z~Madam.
+
+BOU1_EXT_19 = ~z~Now please, remember what I told you.
+
+BOU1_EXT_LI_A_1 = ~z~Well, he don't understand you, Moira, and that's the truth...
+
+BOU1_EXT_LI_A_2 = ~z~and we was meant to be together...
+
+BOU1_EXT_LI_B_1 = ~z~Oh, my Lord... I wasn't expecting you back so soon.
+
+BOU1_EXT_LI_B_2 = ~z~Uh, Mrs. Calthorpe was, uh... was just leaving.
+
+BOU1_EXT_LI_B_3 = ~z~Sure... where you want him?
+
+BOU1_EXT_LI_B_4 = ~z~~sl:0.5~Cell in the back.
+
+BOU1_EXT_LI_C_1 = ~z~
+
+BOU1_EXT_LI_D_1 = ~z~Just put him in the cell, partner.
+
+BOU1_FLEE_01 = ~z~Let me go. I'll disappear.
+
+BOU1_FLEE_02 = ~z~It is fate I should be free!
+
+BOU1_HELP_01 = ~z~
+
+BOU1_HELP_02 = ~z~Help!
+
+BOU1_HELP_03 = ~z~
+
+BOU1_HELP_04 = ~z~
+
+BOU1_HELP_05 = ~z~
+
+BOU1_HELP_06 = ~z~
+
+BOU1_HELP_CONT_01 = ~z~~sl:0.2~Please. Throw me a rope.
+
+BOU1_HELP_CONT_02 = ~z~Have you got a lasso?
+
+BOU1_HELP_CONT_03 = ~z~~sl:0.1~Save me... throw a rope or something, please.
+
+BOU1_IG2_A_1 = ~z~
+
+BOU1_IG2_B_1 = ~z~
+
+BOU1_IG3_1 = ~z~Who made you God, friend? Who made you judge?
+
+BOU1_IG3_2 = ~z~I'm only in it for the money.
+
+BOU1_IG3_3 = ~z~That's even worse.
+
+BOU1_IG3_4 = ~z~I'm sure it does seem that way.
+
+BOU1_IG3_GESTA_1 = ~z~Help... help!
+
+BOU1_IG3_GESTB_1 = ~z~Come here... come here.
+
+BOU1_IG4_HIT_1 = ~z~~sl:1.3~You do seem to keep blacking out.
+
+BOU1_IG4_NOHIT_1 = ~z~~sl:1.1~Sir, this isn't necessary. I'm a medical man, a healer.
+
+BOU1_IG4_NOHIT_2 = ~z~It's all just a big mistake. I don't feel very well.
+
+BOU1_IG4_NOHIT_3 = ~z~I told you to shut up.
+
+BOU1_IG4_NOHIT_4 = ~z~~sl:0.6~Who made you judge?
+
+BOU1_IG4_NOHIT_5 = ~z~~sl:0.7~I'm only in it for the money.
+
+BOU1_IG4_NOHIT_6 = ~z~Oh, I don't feel well at all... you're a bully, sir.
+
+BOU1_IG4_P1_1 = ~z~~sl:3.2~Sir... I think I must be suffering from exposure.
+
+BOU1_IG4_P2_1 = ~z~Suffer a little longer.
+
+BOU1_IG4_P3_1 = ~z~~sl:2.4~I seem to keep blacking out...
+
+BOU1_IG4_P3_2 = ~z~~sl:1.0~Sir, I must warn you, my temperature is subnormal.
+
+BOU1_IG4_P3_3 = ~z~I have medicine in my pocket, would you pass it to me, please?
+
+BOU1_LOCATE_1 = ~z~~sl:0.3~What we got here?
+
+BOU1_LOITER_A2_01 = ~z~~sl:0.0:1.8~You won't find Allbright in here...~sl:0.1~man said he saw him on the side of the gorge.
+
+BOU1_LOITER_A2_02 = ~z~What? You waiting to be deputized? Go find us our bounty, son.
+
+BOU1_LOITER_A2_03 = ~z~~sl:0.0:3.2~You want your money, you're gonna have to bring us that huckster...~sl:~so get on.
+
+BOU1_LOITER_A3_1 = ~z~So much for a sinner, I believe we got outselves an idiot here, deputy.
+
+BOU1_LOITER_A_1 = ~z~Ain't you getting us that bounty, son?
+
+BOU1_LOITER_A_2 = ~z~In good time.
+
+BOU1_MCS1_1 = ~z~Are you Benedict Allbright?
+
+BOU1_MCS1_2 = ~z~No, sir.
+
+BOU1_MCS1_3 = ~z~And I was told he'd be up here.
+
+BOU1_MCS1_4 = ~z~No... not me, sir.
+
+BOU1_MCS1_5 = ~z~Are you Benedict Allbright?
+
+BOU1_MCS1_6 = ~z~No, sir.
+
+BOU1_MCS1_7 = ~z~And I was told he'd be up here.
+
+BOU1_MCS1_8 = ~z~No... not me, sir.
+
+BOU1_MCS1_9 = ~z~It's because...
+
+BOU1_MCS1_10 = ~z~I wanna buy some medicine...
+
+BOU1_MCS1_11 = ~z~It's because...
+
+BOU1_MCS1_12 = ~z~I wanna buy some medicine...
+
+BOU1_MCS1_13 = ~z~and...
+
+BOU1_MCS1_14 = ~z~I heard...
+
+BOU1_MCS1_15 = ~z~I heard good things.
+
+BOU1_MCS1_16 = ~z~I'll pay...
+
+BOU1_MCS1_17 = ~z~in gold...
+
+BOU1_MCS1_18 = ~z~i-if you can help me find him.
+
+BOU1_MCS1_19 = ~z~It's just...
+
+BOU1_MCS1_20 = ~z~my mother's real sick.
+
+BOU1_MCS1_21 = ~z~Oh, well if that's the case...
+
+BOU1_MCS1_22 = ~z~if it's for a sick woman...
+
+BOU1_MCS1_23 = ~z~I'd be happy to help.
+
+BOU1_MCS1_24 = ~z~I'm a healer you know...
+
+BOU1_MCS1_25 = ~z~a medical man.
+
+BOU1_MCS1_26 = ~z~Finest medicine in the state.
+
+BOU1_MCS1_27 = ~z~Game's over, mister.
+
+BOU1_MCS1_28 = ~z~Put your hands up...
+
+BOU1_MCS1_29 = ~z~I'm taking you in.
+
+BOU1_MCS1_30 = ~z~Taking me in?
+
+BOU1_MCS1_31 = ~z~What for?
+
+BOU1_MCS1_32 = ~z~Apparently that stuff you're pushing is killing folk...
+
+BOU1_MCS1_33 = ~z~and there's a price on your head.
+
+BOU1_MCS1_34 = ~z~I don't know, it ain't my business.
+
+BOU1_MCS1_35 = ~z~Come on, partner, that's crap.
+
+BOU1_MCS1_36 = ~z~I'm a healer.
+
+BOU1_MCS1_37 = ~z~I've got an aura...
+
+BOU1_MCS1_38 = ~z~I speak to spirits...
+
+BOU1_MCS1_39 = ~z~I'm a scientist.
+
+BOU1_MCS1_40 = ~z~Folks get real angry for no good reason...
+
+BOU1_MCS1_41 = ~z~this... this is a mistake.
+
+BOU1_MCS1_42 = ~z~Keep your hands up buddy...
+
+BOU1_MCS1_43 = ~z~they only want you for questioning.
+
+BOU1_MCS1_44 = ~z~I have to insist that this is a mistake.
+
+BOU1_MCS1_45 = ~z~Don't be a fool.
+
+BOU1_MCS1_46 = ~z~Hold on.
+
+BOU1_MCS1_LI_1 = ~z~Are you Benedict Allbright?
+
+BOU1_MCS1_LI_2 = ~z~No, sir...
+
+BOU1_MCS1_LI_3 = ~z~~sl:2.4~You kinda look like him... and I was told he'd be up here.
+
+BOU1_MCS1_LI_4 = ~z~No... not me sir.
+
+BOU1_MCS2_1 = ~z~You saved me...
+
+BOU1_MCS2_2 = ~z~Now, come on, buddy, let's make this easy.
+
+BOU1_MCS2_3 = ~z~You're taking me in?
+
+BOU1_MCS2_4 = ~z~It's just for questioning.
+
+BOU1_MCS2_5 = ~z~You saved my life.
+
+BOU1_MCS2_6 = ~z~Ain't we had enough drama?
+
+BOU1_MCS2_7 = ~z~I-I'd be better off jumping.
+
+BOU1_MCS2_8 = ~z~They expressly told me not to kill you.
+
+BOU1_MCS2_9 = ~z~This is about you?
+
+BOU1_MCS2_10 = ~z~Don't jump...
+
+BOU1_MCS2_11 = ~z~O-or what?
+
+BOU1_MCS2_12 = ~z~You can't shoot me.
+
+BOU1_MCS2_13 = ~z~Please.
+
+BOU1_MCS2_14 = ~z~I'll take my chances.
+
+BOU1_MCS2_15 = ~z~Come here.
+
+BOU1_MCS2_16 = ~z~Bye, friend...
+
+BOU1_MCS2_17 = ~z~I really do not like you.
+
+BOU1_MCS2_18 = ~z~Shit...
+
+BOU1_MCS2_19 = ~z~Sorry...
+
+BOU1_MCS2_20 = ~z~Oi!
+
+BOU1_PERS1CELL_01 = ~z~You're back.
+
+BOU1_PERS1CELL_02 = ~z~It's you.
+
+BOU1_PERS1CELL_03 = ~z~Sir.
+
+BOU1_PERS1CELL_04 = ~z~You again.
+
+BOU1_PERS1NEG_1 = ~z~Ain't you got a magic potion to get you outta here?
+
+BOU1_PERS1NEG_2 = ~z~I'm not a magician, sir. I'm a medical man, a healer.
+
+BOU1_PERS1NEG_3 = ~z~~sl:0.0:3.0~And any suggestion that my tinctures could cause harm~sl:~is sheer balderdash.
+
+BOU1_PERS1NEG_4 = ~z~~sl:0.3~I'll let the judge figure that out. Good luck.
+
+BOU1_PERS1POS_1 = ~z~I thought I'd stop by to see you.
+
+BOU1_PERS1POS_2 = ~z~You've seen the error of your ways, I hope.
+
+BOU1_PERS1POS_3 = ~z~Never been very good at that, I'm afraid.
+
+BOU1_PERS1POS_4 = ~z~They're going to hang me. Please.
+
+BOU1_PERS2CELL_01 = ~z~Thank you for nothing.
+
+BOU1_PERS2CELL_02 = ~z~Unfeeling man, go.
+
+BOU1_PERS2CELL_03 = ~z~Be gone with you.
+
+BOU1_PERS2CELL_04 = ~z~You'll regret this one day.
+
+BOU1_PERS2NEG_1 = ~z~You could drink one of the medicines that killed them folks.
+
+BOU1_PERS2NEG_2 = ~z~Save the hangman the trouble.
+
+BOU1_PERS2NEG_3 = ~z~~sl:0.0:2.8~I-I heard a voice. In the night.~sl:0.7~It was your mother. She passed over, yes?
+
+BOU1_PERS2NEG_4 = ~z~She wanted me to tell you she loved you.
+
+BOU1_PERS2NEG_5 = ~z~And... and... that you should save me.
+
+BOU1_PERS2NEG_6 = ~z~~sl:1.6~That's funny, 'cause I heard from your mother...
+
+BOU1_PERS2NEG_7 = ~z~~sl:0.0:3.4~and she said you were a lying little wretch,~sl:~who was gonna get what he deserved.
+
+BOU1_PERS2POS_1 = ~z~I wanted to check you was still here, friend.
+
+BOU1_PERS2POS_2 = ~z~~sl:0.0:0.8~I am.~sl:0.1~Please, will you do something about this gross miscarriage of justice.
+
+BOU1_PERS2POS_3 = ~z~~sl:0.0:2.3~Look, I'd like to, but...~sl:0.5~what's one little man against the vast machine of government?
+
+BOU1_PERS2POS_4 = ~z~Please.
+
+BOU1_PERS3NEG_1 = ~z~~sl:0.0:1.9~Having saved you from drowning,~sl:0.3~I sure hope I get to see you hang.
+
+BOU1_PERS3NEG_2 = ~z~I'm an innocent medical practitioner, ruined by slander.
+
+BOU1_PERS3NEG_3 = ~z~I have done nothing to offend you, sir.
+
+BOU1_PERS3NEG_4 = ~z~But you have offended me. By killing folks just wanted to get well.
+
+BOU1_PERS3NEG_5 = ~z~And... more so by making me pull you out of that river.
+
+BOU1_PERS3POS_1 = ~z~They keeping you comfortable here?
+
+BOU1_PERS3POS_2 = ~z~~sl:0.0:2.6~You saved me once, will you save me again?~sl:~This... is all a big misunderstanding.
+
+BOU1_PERS3POS_3 = ~z~Looks pretty clear-cut from where I'm stood.
+
+BOU1_PERS3POS_4 = ~z~I didn't mean for any of this.
+
+BOU1_RAPIDS_1 = ~z~Look out, the rapids.
+
+BOU1_RAPIDS_2 = ~z~Hold your breath.
+
+BOU1_REGRET_1 = ~z~I shouldn't have done that. Help me!
+
+BOU1_ROPEDSHORE_01 = ~z~Stop!
+
+BOU1_ROPEDSHORE_02 = ~z~No!
+
+BOU1_ROPEDSHORE_03 = ~z~Don't!
+
+BOU1_SAVED_1 = ~z~You saved me. Let me go.
+
+BOU1_SCREAM_1 = ~z~~sl:0.0:1.6:1~Oh no!
+
+BOU1_SH_AFTERCS_01 = ~z~~sl:0.5~Uh, Mrs. Calthorpe's a resident in this town like any other...
+
+BOU1_SH_AFTERCS_02 = ~z~~sl:0.4~Uh, just doing my job, you see. Helping the people of Valentine.
+
+BOU1_SH_AFTERCS_03 = ~z~And now that Allbright's caught, I got business to attend to.
+
+BOU1_SH_CELL1_1 = ~z~You can't sell yourself outta this one, huckster.
+
+BOU1_SH_CELL2_1 = ~z~Save your sweet talk for the hanging judge, Mr. Allbright.
+
+BOU1_SH_CELL3_1 = ~z~~sl:0.0:2.0~If I'd known you was such a talker,~sl:~I'd have written “shoot on sight” on that bounty poster.
+
+BOU1_SH_CELL4_1 = ~z~~sl:0.0:2.5~If you got any more of that poison you sold...~sl:~can you drink it all yourself?
+
+BOU1_SUSPEND_1 = ~z~I'm slipping.
+
+BOU1_SUSPEND_2 = ~z~Shit.
+
+BOU1_TAKEIN_1 = ~z~Alright, let's take you in.
+

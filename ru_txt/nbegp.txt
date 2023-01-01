@@ -1,0 +1,6 @@
+NBEGP_H_FAIL = Находившиеся рядом коллекционные птичьи яйца были съедены.
+
+NBEGP_H_INVESTIGATE = Выясните, откуда идет звук ~COLOR_FRIENDLY~~BLIP_AMBIENT_COMPANION~~s~, и используйте «Орлиный глаз» ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ + ~INPUT_SPECIAL_ABILITY~, чтобы подсветить что-нибудь интересное вблизи.
+
+NBEGP_H_INVESTIGATE_KM = Выясните, откуда идет звук ~COLOR_FRIENDLY~~BLIP_AMBIENT_COMPANION~~s~, и используйте «Орлиный глаз» ~INPUT_SPECIAL_ABILITY~, чтобы подсветить что-нибудь интересное вблизи.
+

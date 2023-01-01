@@ -1,0 +1,26 @@
+CWDC4_ACTION_1 = ~z~Arthur... if you feel up to it, Bill's got something cooking with the Grey boys in Rhodes.
+
+CWDC4_ACTION_2 = ~z~Micah and Sean are in. I'd like you to be there too.
+
+CWDC4_ACTION_3 = ~z~Sure.
+
+CWDC4_ACTION_4 = ~z~And, son... I'm sorry... I feel like a fool.
+
+CWDC4_ACTION_5 = ~z~I'm alive.
+
+CWDC4_ACTION_6 = ~z~Yeah, well... It seemed like a good opportunity... Micah and I both feel like idiots.
+
+CWDC4_ACTION_7 = ~z~What happened to you?
+
+CWDC4_ACTION_8 = ~z~Well, the whole thing, it was... it was odd.
+
+CWDC4_ACTION_9 = ~z~We kept waiting for them to jump us, then they all left...
+
+CWDC4_ACTION_10 = ~z~So we figured we'd meet you on the trail back, but you never showed up...
+
+CWDC4_ACTION_11 = ~z~Yeah... I was getting the special guest treatment from Colm.
+
+CWDC4_ACTION_12 = ~z~I know... I know, I cannot believe... what an idiot I was and that happened...
+
+CWDC4_ACTION_13 = ~z~I guess forgiveness... there's some folks that don't deserve it...
+

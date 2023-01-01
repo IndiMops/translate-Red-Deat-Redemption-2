@@ -1,0 +1,28 @@
+CBL11_ACTA1_1 = ~z~
+
+CBL11_ACTA1_2 = ~z~You're back, I see... you are back.
+
+CBL11_ACTA1_3 = ~z~Yes, I'm back big man... back from the dead, the ginger Lazarus.
+
+CBL11_ACTA1_4 = ~z~Anything about Mac?
+
+CBL11_ACTA1_5 = ~z~No... my guess is he died... I didn't hear nothing, but... looks like he got shot up pretty bad.
+
+CBL11_ACTA1_6 = ~z~Man... them Callander boys... they were something else...
+
+CBL11_ACTA1_7 = ~z~
+
+CBL11_ACTA1_8 = ~z~Now... well, I'll miss 'em.
+
+CBL11_ACTA1_9 = ~z~Me too big man, me too.
+
+CBL11_ACTA1_10 = ~z~It's too bad.
+
+CBL11_ACTA1_11 = ~z~Ah, the world's too bad, big man.
+
+CBL11_ACTA2_1 = ~z~Even our old Arthur knows that.
+
+CBL11_ACT_B_1 = ~z~~sl:4.6~Callander boys...
+
+CBL11_ACT_B_2 = ~z~
+

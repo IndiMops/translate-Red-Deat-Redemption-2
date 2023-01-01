@@ -1,0 +1,16 @@
+CCSWN_6_A_1 = ~z~
+
+CCSWN_6_A_2 = ~z~~sl:0.0:0.9~You know,~sl:0.1~it's not too late to repent, my Mexican friend.
+
+CCSWN_6_A_3 = ~z~~sl:0.0:1.3~Oh, well in that case,~sl:~I'm sure there's priests who will happily take your confession.
+
+CCSWN_6_A_4 = ~z~You're doomed.
+
+CCSWN_6_B_1 = ~z~
+
+CCSWN_6_B_ALT_1 = ~z~
+
+CCSWN_6_B_ALT_2 = ~z~He's doomed.
+
+CCSWN_6_B_ALT_3 = ~z~We're all doomed, Reverend.
+

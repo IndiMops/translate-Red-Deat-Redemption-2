@@ -1,0 +1,12 @@
+LCCOL_CHAT_1 = ~z~What we doing here, Arthur?
+
+LCCOL_CHAT_2 = ~z~Freezing to death so we can eat each other?
+
+LCCOL_CHAT_3 = ~z~I hope not.
+
+LCCOL_CHAT_4 = ~z~Still, I doubt any lawmen'll be foolish enough to follow us up here.
+
+LCCOL_CHAT_5 = ~z~Exactly... but if you see anyone coming... shoot 'em.
+
+LCCOL_CHAT_6 = ~z~Of course.
+

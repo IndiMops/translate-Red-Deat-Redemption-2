@@ -1,0 +1,112 @@
+0x021FBE49 = Boo
+
+0x0C233284 = Cheer
+
+0x23FF48FF = You lost sight of Mr. Gillis.
+
+0x2043B49A = Wait for Mary
+
+0xA3301225 = Assault
+
+MRY3_BDIST_FAIL = The Buyer was abandoned.
+
+MRY3_BDIST_REMIN = Return to the ~o~Buyer~s~
+
+MRY3_BHARM_FAIL = You harmed the Buyer.
+
+MRY3_BKILL_FAIL = You killed the Buyer.
+
+MRY3_BLIP_BUYER = Buyer
+
+MRY3_BLIP_FATHER = Mr. Gillis
+
+MRY3_BLIP_MARY = Mary
+
+MRY3_BLIP_WAGON = Wagon
+
+MRY3_BROOCH = Get Mary's brooch from the ~o~Buyer~s~
+
+MRY3_CONFRONT_FAIL = You lost the Buyer.
+
+MRY3_CXT_ACC = Buy Brooch
+
+MRY3_CXT_DHELP = Don't help Mary
+
+MRY3_CXT_HELP = Help Mary
+
+MRY3_CXT_HIT = Beat
+
+MRY3_CXT_LEAVE = Exit Theater
+
+MRY3_CXT_MOVE = Make a move
+
+MRY3_CXT_NO = Decline
+
+MRY3_CXT_PULL = Pull Out
+
+MRY3_CXT_YES = Accept
+
+MRY3_DEST_FAIL = You destroyed the brooch.
+
+MRY3_DHARM_FAIL = You harmed a driver.
+
+MRY3_DKILL_FAIL = You killed a driver.
+
+MRY3_FATH_DIST_FAIL = You lost Mr. Gillis.
+
+MRY3_FHARM_FAIL = You harmed Mr. Gillis.
+
+MRY3_FKILL_FAIL = You killed Mr. Gillis.
+
+MRY3_FOLLOW_FAIL = You were spotted.
+
+MRY3_FOLLOW_HELP = Keep your distance or you'll be spotted.
+
+MRY3_FOLLOW_OBJ = Follow ~o~Mr. Gillis~s~
+
+MRY3_HON_MURDER = Murder
+
+MRY3_JACK_HELP = Move towards the Driver using ~INPUTGROUP_MOVE~ to jack the wagon.
+
+MRY3_JUMP_HELP = You can jump onto wagons by getting close to the side and pressing ~INPUT_JUMP~.
+
+MRY3_LAW_FAIL = The law were alerted.
+
+MRY3_MARY_FAIL_1 = Mary has died.
+
+MRY3_MARY_FAIL_2 = Mary was abandoned.
+
+MRY3_MATT_FAIL = You attacked Mary.
+
+MRY3_OBJ_CATCHUP = Catch up with the ~o~Buyer~s~
+
+MRY3_OBJ_CHASE = Chase after the ~o~wagon~s~
+
+MRY3_OBJ_DRIVE = Drive to a ~o~secluded spot~s~
+
+MRY3_OBJ_FRONT = Meet ~o~Mary~s~ at the stables
+
+MRY3_OBJ_JACK = Get into the drivers seat
+
+MRY3_OBJ_JUMP = Jump onto the ~o~wagon~s~
+
+MRY3_OBJ_MARY = Follow ~o~Mary~s~
+
+MRY3_OBJ_RETURN = Return to ~o~Mary~s~
+
+MRY3_OBJ_STABLE = Head to the ~o~stables~s~
+
+MRY3_OBJ_STOP = Stop the ~o~wagon~s~
+
+MRY3_OBJ_WAGON = Get on the ~o~wagon~s~
+
+MRY3_RETURN = Return the brooch to ~o~Mary~s~
+
+MRY3_SECL_FAIL = You drew attention to the camp.
+
+MRY3_TIME_FAIL = You didn't get to Mr. Gillis in time.
+
+MRY3_WAG_DIST_FAIL = The Buyer got away.
+
+MRY3_WAG_FAIL = Wagon destroyed.
+

@@ -1,0 +1,10 @@
+CCD20_ACTA_1 = ~z~There he is, my favorite son. The best man amongst us.
+
+CCD20_ACTA_2 = ~z~You okay, Arthur?
+
+CCD20_ACTB_1 = ~z~Never better.
+
+CCD20_ACTB_2 = ~z~~sl:0.3:1.0~Me neither...~sl:1.3~me neither.
+
+CCD20_ACTB_3 = ~z~~sl:0.0:3.2~This... Mr. Miller is a hell of a writer.~sl:1.3~Like a modern day Elijah.
+

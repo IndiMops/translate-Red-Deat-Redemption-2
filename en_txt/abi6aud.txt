@@ -1,0 +1,62 @@
+ABI6A_1 = ~z~~sl:0.0:2.3~So is there any point in me trying to get you~sl:0.0:3.4:1~to act like some kind of father to the boy, huh?
+
+ABI6A_2 = ~z~~sl:0.0:1.7~I'm... I'm...~sl:1.4~Listen, Abigail, you...
+
+ABI6A_3 = ~z~~sl:0.0:0.9~You deserve...~sl:0.7~so much more than I can manage.
+
+ABI6A_4 = ~z~~sl:0.0:0.7~I guess...~sl:0.4~I just don't know much about fathering.
+
+ABI6A_5 = ~z~Oh, it's real easy.
+
+ABI6A_6 = ~z~What do I do?
+
+ABI6B_1 = ~z~Pretty much the exact opposite of what you have been.
+
+ABI6B_2 = ~z~~sl:0.8:0.0~Real funny.
+
+ABI6B_3 = ~z~Oh, I ain't joking.
+
+ABI6B_4 = ~z~~sl:0.0:1.9~Just use that tiny brain of yours...~sl:0.0:2.6~and whatever you think is right and proper...~sl:~do the exact opposite.
+
+ABI6B_5 = ~z~Then... you'll raise a man!
+
+ABI6B_6 = ~z~~sl:0.6:1.5~Just like your momma did?~sl:0.4:1.0~Raise a real man?~sl:0.1~Like you?
+
+ABI6B_BK_ART_1 = ~z~Can you give us a little privacy here, please, Arthur?
+
+ABI6B_BK_ART_2 = ~z~You pretty much do the exact opposite of what you have been doing.
+
+ABI6B_BK_ART_3 = ~z~Real funny.
+
+ABI6B_BK_ART_4 = ~z~~sl:0.0:0.7~Oh, oh.~sl:~I ain't joking.
+
+ABI6B_BK_ART_5 = ~z~~sl:0.0:2.0~You take that tiny little brain of yours~sl:0.2~and whatever you think is right and proper,
+
+ABI6B_BK_ART_6 = ~z~~sl:0.0:1.6~and you do the exact opposite,~sl:0.2~that is how you will raise a man.
+
+ABI6B_BK_ART_7 = ~z~~sl:0.0:1.6~Just like your momma did?~sl:~Raise a real man, like you?
+
+ABI6B_FT_ART_1 = ~z~Can we have some privacy here, please, Arthur?
+
+ABI6B_FT_ART_2 = ~z~Pretty much the exact opposite of what you have been doing.
+
+ABI6B_FT_ART_3 = ~z~Real funny.
+
+ABI6B_FT_ART_4 = ~z~Oh... Oh, I ain't joking.
+
+ABI6B_FT_ART_5 = ~z~~sl:0.0:2.0~You take that little brain of yours~sl:0.2~and whatever you think is right and proper,
+
+ABI6B_FT_ART_6 = ~z~~sl:0.0:1.6~and you do the exact opposite,~sl:0.2~and that will make a real man.
+
+ABI6B_FT_ART_7 = ~z~~sl:0.0:1.6~Just like your momma did?~sl:~Raise a real man, like you?
+
+ABI6C_1 = ~z~
+
+ABI6C_2 = ~z~
+
+ABI6C_ART_1 = ~z~
+
+ABI6C_ART_2 = ~z~
+
+ABI6C_ART_3 = ~z~~sl:0.0:1.4:1~Arthur, do you mind?
+

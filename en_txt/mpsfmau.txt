@@ -1,0 +1,438 @@
+MPSFM_CE_CUE_1 = ~z~~sl:0.0:1.4~Very good.~sl:1.0:2.7~I got a lot of business just now...~sl:0.2:2.0~let me find something pressing.~sl:0.4:3.6:1~I know how you like to do the most good you can.
+
+MPSFM_CE_CUE_2 = ~z~~sl:0.0:3.3~A gentleman in this town reported his wagon stolen~sl:~near Gaptooth Ridge.
+
+MPSFM_CE_CUE_3 = ~z~~sl:0.0:4.5~Well, if it was out there, I imagine it was Del Lobos did it.~sl:0.3~Still, they left him alive, which is something I guess.
+
+MPSFM_CE_CUE_4 = ~z~~sl:0.0:5.5~Get it back for him. His name is Rowlands. Benedict Rowlands.~sl:1.0~And good luck.
+
+MPSFM_CE_GAPT_1 = ~z~Good... there's a lot of work out here, but this is most pressing.
+
+MPSFM_CE_GAPT_2 = ~z~~sl:0.0:3.2~Some decent citizens have applied for an escort...~sl:~they're travelling by wagon down to Gaptooth Ridge.
+
+MPSFM_CE_GAPT_3 = ~z~~sl:0.0:5.0~Feller's name is Hugh Gibbons. Seems nice enough. Pays his taxes.~sl:~Keep him safe. Country is full of Del Lobos. You see 'em, kill 'em.
+
+MPSFM_CE_GAPT_4 = ~z~~sl:0.0:1.9~You have my blessing on that.~sl:0.4~Just keep that feller and his property safe.
+
+MPSFM_CE_GAPT_5 = ~z~And good luck out there... this country ain't civilized yet.
+
+MPSFM_G1_OUT_1 = ~z~Okay... this just came in, a telegram. Have a look and go to work.
+
+MPSFM_G1_OUT_2 = ~z~~sl:0.0:2.9~Remember, justice must be served~sl:0.0:2.8~as harsh as the situation demands.~sl:0.4~Weakness is a tool of evil. Perhaps its greatest tool.
+
+MPSFM_G1_OUT_3 = ~z~So don't show weakness.
+
+MPSFM_G2_OUT_1 = ~z~~sl:0.0:0.6~Good.~sl:0.6~This just came in, down the wire. Take a read and go to work.
+
+MPSFM_G2_OUT_2 = ~z~~sl:0.0:2.6~You need to bring all hell and damnation~sl:0.0:2.4~to those who bring it forth to others.~sl:0.4~That's the very kindest thing you can do.
+
+MPSFM_G2_OUT_3 = ~z~Killing bastards is kindness.
+
+MPSFM_G3_OUT_1 = ~z~Good. So here, take a look at this... I reckon you can help out.
+
+MPSFM_G3_OUT_2 = ~z~~sl:0.0:2.6~Doesn't seem like a big problem, but...~sl:~head over there and use your best judgment.
+
+MPSFM_G3_OUT_3 = ~z~~sl:0.0:4.2~I think you know me well enough by now to act on my behalf.~sl:0.5~Be safe, stay good.
+
+MPSFM_G4_OUT_1 = ~z~Good... take a read of this. I need your help pretty urgently.
+
+MPSFM_G4_OUT_2 = ~z~~sl:0.0:2.4~This business don't sound too good...~sl:0.3:2.7~go out there and see what needs doing,~sl:0.0:1.3~and use your intuition.~sl:0.3~You see any fools, kill.
+
+MPSFM_G4_OUT_3 = ~z~The good folk here value your help.
+
+MPSFM_JB_CE_1 = ~z~Good. Okay... in particular, I got another convoy needs protecting...
+
+MPSFM_JB_CE_2 = ~z~These are decent people wanting to travel.
+
+MPSFM_JB_CE_3 = ~z~~sl:0.0:2.6~But if they head out alone into the wilderness...~sl:~the monsters and degenerates will come out to play.
+
+MPSFM_JB_CE_4 = ~z~I will not let that happen. Keep them safe for me.
+
+MPSFM_JB_CE_5 = ~z~~sl:0.0:1.4~Should be along, shortly.~sl:1.0~Good luck out there.
+
+MPSFM_JB_GEN_1 = ~z~~sl:0.0:4.3~Good... this just came in, down the wire.~sl:0.5~Take a read, and go to work.
+
+MPSFM_JB_GEN_2 = ~z~~sl:0.0:3.4~Do whatever you got to do out there to protect the innocent,~sl:0.3~the fallen have chosen their path.
+
+MPSFM_JB_GEN_3 = ~z~~sl:0.0:2.6~Don't show mercy, that's a big mistake.~sl:0.3~Be safe... and stay good.
+
+MPSFM_JB_REC_1 = ~z~~sl:0.0:1.0~Good.~sl:1.2:4.1~I've got so much vice and degeneracy around here,~sl:~there's work enough for an army. Let me see...
+
+MPSFM_JB_REC_2 = ~z~~sl:2.1:4.2~A citizen of this town had his wagon stolen out by Solomon's Folly.~sl:0.5~Decent feller. Andrew Wilton... nice man. Decent man.
+
+MPSFM_JB_REC_3 = ~z~~sl:0.0:2.2~Did not deserve to be robbed.~sl:0.4~Can you go try recover his wagon for him?
+
+MPSFM_JB_REC_4 = ~z~Good luck to you. Kill those as deserve it with my blessing.
+
+MPSFM_JB_WT_1 = ~z~Good. There's plenty of work, but this is probably most urgent.
+
+MPSFM_JB_WT_2 = ~z~~sl:0.0:2.0~Some thieves came through last night,~sl:0.0:2.6~stole the wagons of a local business owner.~sl:0.2~His name is Jake Aldereny.
+
+MPSFM_JB_WT_3 = ~z~~sl:0.0:1.1~The thief's name?~sl:0.0:2.7~I don't know and I don't particularly wanna know.~sl:~I just want 'em dead for the goddamn impudence.
+
+MPSFM_JB_WT_4 = ~z~In my town? I believe they rode off up towards Jorge's Gap...
+
+MPSFM_JB_WT_5 = ~z~~sl:0.0:2.2~Go get that poor man his property back.~sl:0.5~The decent people of Tumbleweed thank you.
+
+MPSFM_LEAVEN_01 = ~z~Time for you to go.
+
+MPSFM_LEAVEN_02 = ~z~Go on, get.
+
+MPSFM_LEAVEN_03 = ~z~Get out of here.
+
+MPSFM_LEAVEN_04 = ~z~On your way.
+
+MPSFM_LEAVEN_05 = ~z~On your way, get out of here.
+
+MPSFM_RW_GAPT_1 = ~z~~sl:0.0:6.1~Good. Okay... I've got a stolen wagon needs recovering.~sl:0.2~Taken out near Gaptooth Ridge.
+
+MPSFM_RW_GAPT_2 = ~z~Go see if you can bring it back to its rightful owner for me.
+
+MPSFM_RW_GAPT_3 = ~z~~sl:0.0:4.3~I cannot abide violent robbery of a person's property.~sl:0.3~It's a goddamn sin. And I do not like sin.
+
+MPSFM_RW_GAPT_4 = ~z~So go do your damn duty.
+
+MPSFM_RW_RIDG_1 = ~z~Good... I've got a job, but it's a little confusing... little unclear.
+
+MPSFM_RW_RIDG_2 = ~z~~sl:0.0:3.8~A dispute between cousins. Ownership of a wagon.~sl:0.4~Cousin Albert says it's his. Cousin Malcolm says it's his.
+
+MPSFM_RW_RIDG_3 = ~z~~sl:0.0:4.6~And he's paying to bring it. Go bring it in from Ridgewood Farm.~sl:0.3~But try, if possible, to avoid killing any of Albert's employees.
+
+MPSFM_RW_RIDG_4 = ~z~~sl:0.0:2.4~As I cannot yet determine who's lying.~sl:0.4~So get the wagon, but avoid unnecessary murdering.
+
+MPSFM_TAKEP_01 = ~z~Take it.
+
+MPSFM_TAKEP_02 = ~z~It's there.
+
+MPSFM_TAKEP_03 = ~z~Go on, take it.
+
+MPSFM_TAKEP_04 = ~z~There you go. Take it.
+
+MPSFM_TAKEP_05 = ~z~Take it already...
+
+MPSFM_WT_RIO_1 = ~z~~sl:0.0:3.1~Good... because something just came in.~sl:0.6~Stolen wagons and dead farmers.
+
+MPSFM_WT_RIO_2 = ~z~~sl:0.0:3.0~I believe it's the O'Driscoll's, if you know 'em.~sl:0.5:2.2~They went to a farm, killed a hand,~sl:~and a farm girl there and stole some wagons.
+
+MPSFM_WT_RIO_3 = ~z~~sl:0.0:4.6~Farmer's very upset. I need you go get back his property...~sl:~and enact the full authority of the law.
+
+MPSFM_WT_RIO_4 = ~z~I mean, go kill all of them as you find and bring back the wagons.
+
+MPSFM_WT_RIO_5 = ~z~I believe they're somewhere near Rio Bravo.
+
+SFM_ACCEPT_01 = ~z~Okay, get on with it for me.
+
+SFM_ACCEPT_02 = ~z~Good luck.
+
+SFM_ACCEPT_03 = ~z~Be just, but don't waste time on being merciful.
+
+SFM_ACCEPT_04 = ~z~Fight well and good luck.
+
+SFM_ACCEPT_05 = ~z~Kill any bastards get in your way.
+
+SFM_ACT_AGG_01 = ~z~What are you doing? Cut that out.
+
+SFM_ACT_AGG_02 = ~z~Don't you dare.
+
+SFM_ACT_AGG_03 = ~z~Watch yourself, you goddamn fool.
+
+SFM_ACT_AGG_04 = ~z~You be very careful.
+
+SFM_ACT_AGG_05 = ~z~No. Don't you dare.
+
+SFM_AGGRESS_01 = ~z~You watch yourself.
+
+SFM_AGGRESS_02 = ~z~Would you like me to kill you? Is that it?
+
+SFM_AGGRESS_03 = ~z~You want me to execute you, amigo?
+
+SFM_AIM_01 = ~z~Watch where you're aiming the gun.
+
+SFM_AIM_02 = ~z~Put that down.
+
+SFM_AIM_03 = ~z~You fool.
+
+SFM_AIM_04 = ~z~Don't point that at me.
+
+SFM_AIM_05 = ~z~You think I'm joking here, huh?
+
+SFM_APPROACH_01 = ~z~So you're back... Looking for work?
+
+SFM_APPROACH_02 = ~z~I'm glad you here... are you looking for a job?
+
+SFM_APPROACH_03 = ~z~Good to see you... you up for work? I got plenty...
+
+SFM_APPROACH_04 = ~z~Good to see you... you up for justice?
+
+SFM_APPROACH_05 = ~z~Hey, I've got a job you might be interested in.
+
+SFM_APPROACH_06 = ~z~Citizen, are you looking for work again?
+
+SFM_APPROACH_07 = ~z~You, friend, you want some work?
+
+SFM_APPROACH_08 = ~z~So are you looking for a business opportunity, my friend?
+
+SFM_APPROACH_09 = ~z~My friend, any chance you want to work again?
+
+SFM_APPROACH_10 = ~z~So, you want some work, partner? I've got some.
+
+SFM_APPROACH_11 = ~z~I've got plenty of work needs doing, friend.
+
+SFM_APPROACH_12 = ~z~I've got some more business, friend.
+
+SFM_APPR_FIRST_1 = ~z~Hey, citizen. I've got some business you may be interested in.
+
+SFM_BOUNTY_01 = ~z~You appear to have bounties after you, get the hell away from me.
+
+SFM_BOUNTY_02 = ~z~I serve justice, do not make me serve it upon you.
+
+SFM_BOUNTY_03 = ~z~You have a price on your head. Get out of here, before I'm holding that head up severed at the neck.
+
+SFM_COOLDOWN_01 = ~z~I can't talk right now.
+
+SFM_COOLDOWN_02 = ~z~I'm busy.
+
+SFM_COOLDOWN_03 = ~z~Not now.
+
+SFM_ESCALATE_01 = ~z~Stop that right now!
+
+SFM_ESCALATE_02 = ~z~Enough.
+
+SFM_ESCALATE_03 = ~z~You better stop that.
+
+SFM_ESCALATE_04 = ~z~You fool. Stop.
+
+SFM_ESCALATE_05 = ~z~Really? You fool.
+
+SFM_FAILED_LM_01 = ~z~What happened on that last job? I pray you will perform better next time.
+
+SFM_FAILED_LM_02 = ~z~Well, last time, you failed me, but perhaps this will go better.
+
+SFM_FAILED_LM_03 = ~z~Maybe you'll do a little better next time, eh?
+
+SFM_FAILED_LM_04 = ~z~If you're looking to work, I hope you're not planning to fail again.
+
+SFM_FAILED_LM_05 = ~z~Hm... well, it's you... you failed last time, I hope this will go better.
+
+SFM_FAILED_LM_06 = ~z~Let's hope it goes better than last time, eh?
+
+SFM_FAIL_01 = ~z~What happened? You failed.
+
+SFM_FAIL_02 = ~z~I cannot believe you messed that up so badly.
+
+SFM_FAIL_03 = ~z~Well you ain't dead... more's the pity.
+
+SFM_H_HIGH_01 = ~z~I've only got work appropriate to degenerates right now.
+
+SFM_H_HIGH_02 = ~z~I've nothing nice just now, just work for scum.
+
+SFM_H_HIGH_03 = ~z~I've only got work for scum just now.
+
+SFM_H_LOW_01 = ~z~You revolt me. Get the hell away from me.
+
+SFM_H_LOW_02 = ~z~Go on a course of self-improvement before you come near me.
+
+SFM_H_LOW_03 = ~z~You low life, get the hell away from me.
+
+SFM_IDLETIME_01 = ~z~Clock is ticking. You don't have much time left.
+
+SFM_IDLETIME_02 = ~z~Come on, move.
+
+SFM_IDLETIME_03 = ~z~Get moving.
+
+SFM_IDLETIME_04 = ~z~You're running out of time.
+
+SFM_IDLETIME_05 = ~z~Move, you moron.
+
+SFM_IDLE_01 = ~z~Hurry up and get moving. There's no time to waste.
+
+SFM_IDLE_02 = ~z~Go on, get moving.
+
+SFM_IDLE_03 = ~z~Get on with it.
+
+SFM_IDLE_04 = ~z~Are you dumb, my friend? Get to work.
+
+SFM_IDLE_05 = ~z~You turned idiot, partner? Get to work.
+
+SFM_ILO_01 = ~z~So you're interested in some work, huh?
+
+SFM_ILO_02 = ~z~So you are interested in work, eh?
+
+SFM_ILO_03 = ~z~You want to help out, partner?
+
+SFM_ILO_04 = ~z~You want work again, friend?
+
+SFM_ILO_05 = ~z~So you free to work, partner?
+
+SFM_INT_1 = ~z~Hold it right there.
+
+SFM_INT_2 = ~z~Are you here to cause trouble or to help me out?
+
+SFM_INT_3 = ~z~Because I've got more than enough trouble, my friend.
+
+SFM_INT_4 = ~z~So, if you intend on annoying me...
+
+SFM_INT_5 = ~z~let me know now so we can step outside...
+
+SFM_INT_6 = ~z~and spare one of us the trouble.
+
+SFM_INT_7 = ~z~Am I making myself understood?
+
+SFM_INT_8 = ~z~Good.
+
+SFM_INT_9 = ~z~I'll tell you...
+
+SFM_INT_10 = ~z~this whole county is not too keen on civilization.
+
+SFM_INT_11 = ~z~But they will be.
+
+SFM_INT_12 = ~z~If I have to string nine out of ten up...
+
+SFM_INT_13 = ~z~the tenth who remain will live calm and peaceful lives.
+
+SFM_INT_14 = ~z~Calm, peaceful lives, where their main form of entertainment...
+
+SFM_INT_15 = ~z~is public executions.
+
+SFM_INT_16 = ~z~So be it.
+
+SFM_INT_17 = ~z~I am not a man to be annoyed by the unjust and the uncivilized.
+
+SFM_INT_18 = ~z~Again, for the record, am I being clear?
+
+SFM_INT_19 = ~z~Good.
+
+SFM_INT_20 = ~z~Now...
+
+SFM_INT_21 = ~z~if you're looking to help out a poor town teetering on the abyss...
+
+SFM_INT_22 = ~z~then I'm always looking for guns to help out.
+
+SFM_INT_23 = ~z~In fact...
+
+SFM_INT_24 = ~z~let me see...
+
+SFM_INT_25 = ~z~right now there's some wagons outside...
+
+SFM_INT_26 = ~z~need escorting through some dangerous country.
+
+SFM_INT_27 = ~z~Decent fellers.
+
+SFM_INT_28 = ~z~I wish the world were different, but...
+
+SFM_INT_29 = ~z~until we make it so, it won't be.
+
+SFM_INT_30 = ~z~Good day to you.
+
+SFM_LEAVE_01 = ~z~You need to get out of here.
+
+SFM_LEAVE_02 = ~z~I will kill you if you don't calm down.
+
+SFM_LEAVE_03 = ~z~Damn you.
+
+SFM_LEAVE_04 = ~z~Damn you, you imbecile.
+
+SFM_LEAVE_05 = ~z~Idiot. Goddamn idiot.
+
+SFM_LOCKED_01 = ~z~Come back later.
+
+SFM_LOCKED_02 = ~z~Come back another time.
+
+SFM_LOCKED_03 = ~z~I ain't got no business for likes of you, just now.
+
+SFM_LOCKED_04 = ~z~I'm out of work just now, partner.
+
+SFM_LOCKED_05 = ~z~Nothing doing just now, my friend.
+
+SFM_M_COOLDOWN_01 = ~z~This job isn't available for you. Come back later.
+
+SFM_M_COOLDOWN_02 = ~z~Come back another time.
+
+SFM_M_COOLDOWN_03 = ~z~I've nothing for you just now.
+
+SFM_M_LOCKED_01 = ~z~I have nothing new for you.
+
+SFM_M_LOCKED_02 = ~z~I have nothing appropriate just now.
+
+SFM_M_LOCKED_03 = ~z~Another time, my friend.
+
+SFM_NOT_GL_01 = ~z~I don't have anything for you right now.
+
+SFM_NOT_GL_02 = ~z~I cannot do business with you right now.
+
+SFM_NOT_GL_03 = ~z~I don't have anyting for you, my friend.
+
+SFM_NOT_GL_04 = ~z~I have nothing for you just now.
+
+SFM_NOT_GL_05 = ~z~Nothing for the likes of you, partner.
+
+SFM_NO_AVAIL_01 = ~z~I don't have anything available for you right now.
+
+SFM_NO_AVAIL_02 = ~z~I don't have any work just now.
+
+SFM_NO_AVAIL_03 = ~z~I have nothing just now.
+
+SFM_PASSED_LM_01 = ~z~Great work completing that last business.
+
+SFM_PASSED_LM_02 = ~z~So you did good with that thing.
+
+SFM_PASSED_LM_03 = ~z~You did good last time.
+
+SFM_PASS_01 = ~z~Great work completing that job for me.
+
+SFM_PASS_02 = ~z~Well done, friend.
+
+SFM_PASS_03 = ~z~Good job, partner.
+
+SFM_POSSE_SMALL_01 = ~z~You need more guns in your posse for this one.
+
+SFM_POSSE_SMALL_02 = ~z~You need some more back up for this one, friend.
+
+SFM_POSSE_SMALL_03 = ~z~This needs more hired guns.
+
+SFM_PUSH_01 = ~z~What are you doing?
+
+SFM_PUSH_02 = ~z~Watch yourself.
+
+SFM_PUSH_03 = ~z~You be very careful.
+
+SFM_PUSH_04 = ~z~You stop that. Now.
+
+SFM_PUSH_05 = ~z~Enough, goddamn you.
+
+SFM_R_WO_OBJ_01 = ~z~What are you doing back here? Get on with the job.
+
+SFM_R_WO_OBJ_02 = ~z~Why are you here and not finishing your goddamn work?
+
+SFM_R_WO_OBJ_03 = ~z~Go get the job done, fool.
+
+SFM_R_W_OBJ_01 = ~z~Well done bringing that back to me.
+
+SFM_R_W_OBJ_02 = ~z~Good job.
+
+SFM_R_W_OBJ_03 = ~z~Well done, partner.
+
+SFM_SHOOT_01 = ~z~Excuse me?
+
+SFM_SHOOT_02 = ~z~Do that again. I dare you.
+
+SFM_SHOOT_03 = ~z~You be very careful.
+
+SFM_SHOOT_04 = ~z~Fool!
+
+SFM_SHOOT_05 = ~z~Don't you dare.
+
+SFM_SHOOT_06 = ~z~You goddamn fool.
+
+SFM_STREAK_01 = ~z~Nice work on those previous jobs.
+
+SFM_STREAK_02 = ~z~You're on a roll. Keep fighting for justice.
+
+SFM_STREAK_03 = ~z~We need more like you... keep going.
+
+SFM_WANTED_01 = ~z~I don't deal with wanted criminals.
+
+SFM_WANTED_02 = ~z~You appear to be wanted. Get the hell away from me.
+
+SFM_WANTED_03 = ~z~~sl:0.0:2.6~I hope your crime was not so ugly~sl:0.0:4.1~I shall regret not killing you here and now.~sl:0.2~Go.
+

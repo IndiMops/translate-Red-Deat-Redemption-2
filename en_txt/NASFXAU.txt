@@ -1,0 +1,48 @@
+NASFX_CVTALK_01 = ~z~~sl:0.0:3.7~You're all just vermin. Don't care about your damn pelt...~sl:~I'd gut you for free.
+
+NASFX_CVTALK_02 = ~z~~sl:0.0:2.6~You've torn up your last chicken coop, you little shit.~sl:0.5~Now let's see how you like getting your neck wrung.
+
+NASFX_CVTALK_03 = ~z~~sl:0.0:3.5~Who the hell wants a mangy fox pelt anyhow?~sl:~To think some idiot's gonna pay for it...
+
+NASFX_M1FHAREA1_1 = ~z~~sl:0.0:3.6~I swear when I stepped inside that coop, I turned green.~sl:~Couldn't move for blood, feathers and giblets.
+
+NASFX_M1FHAREA1_2 = ~z~~sl:0.0:1.2~You see the prints in the mud?~sl:0.4~I dunno, seemed different somehow. Than a regular fox I mean.
+
+NASFX_M1FHAREA2_1 = ~z~~sl:0.0:1.0~Now, listen to me.~sl:0.0:3.2~As I came out the door, I saw the damn thing hightail it out the coop.~sl:~I'm telling you, it wasn't a fox.
+
+NASFX_M1FHAREA2_2 = ~z~~sl:0.0:1.7~Well, it still eats chicken don't it?~sl:0.4~So, in all important respects, it seems like a damn fox to me...
+
+NASFX_M1FHAREA3_1 = ~z~~sl:0.0:1.2~How the hell did it get in there?~sl:0.4~I had that coop locked up tighter than a prison cell...
+
+NASFX_M1FHAREA3_2 = ~z~~sl:0.0:2.9~It's a fox, not goddamn magician.~sl:0.0:1.9~It sniffed out a way is all...~sl:0.4~It is strange though.
+
+NASFX_M1FHBTWN1_1 = ~z~~sl:0.0:3.2~I'm telling you... foxes is foxes is foxes.~sl:~Ain't nothing special about a single one of them varmints.
+
+NASFX_M1FHBTWN1_2 = ~z~~sl:0.0:2.2~Alright, you just stay put then.~sl:~I'll chance my arm on a rumor if there's money involved.
+
+NASFX_M1FHBTWN2_1 = ~z~~sl:0.0:3.6~Back when I ranched, lost a whole lot of livestock to foxes.~sl:~I hate them damn things...
+
+NASFX_M1FHBTWN2_2 = ~z~Well, get this one's skin on your wall, maybe you feel better...
+
+NASFX_M1FHBTWN3_1 = ~z~~sl:0.0:0.8~I don't know...~sl:~that farmer seemed pretty certain there was something different about this one.
+
+NASFX_M1FHBTWN3_2 = ~z~~sl:0.0:1.6~Bah, that's what they all say.~sl:0.4:2.3~They're too cheap to pay someone to clear out a den,~sl:~so they cook up some bull about a fox with a rare pelt.
+
+NASFX_M1FHBTWN3_3 = ~z~~sl:0.0:2.2~Then idiots like us come and do it for free.~sl:~Telling you, we're being duped here.
+
+NASFX_M1FHTHRT_01 = ~z~Go find your own damn critter!
+
+NASFX_M1FHTHRT_02 = ~z~That pelt is ours! Don't make me shoot you.
+
+NASFX_M1FHTHRT_03 = ~z~Back off! This one is ours.
+
+NASFX_M1FHTHRT_04 = ~z~We was here first, dammit!
+
+NASFX_M1FHTHRT_05 = ~z~You shoot that pelt, I'll make you regret it.
+
+NASFX_M2GFCOMT_01 = ~z~~sl:0.0:2.6~Hey! Watch where you're galumphing around.~sl:~You frightened them away!
+
+NASFX_M2GFCOMT_02 = ~z~~sl:0.0:1.8~Oh, you scared them off!~sl:0.4~Dammit, they were going to eat out of my hand.
+
+NASFX_M2GFCOMT_03 = ~z~Oh, they're gone! I swear they're the cutest little things in all creation.
+

@@ -1,0 +1,74 @@
+0x1C637DC3 = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the homesteader and his ~COLOR_MP_OBJECTIVE_NEUTRAL~valuables~s~
+
+0x1F420173 = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~valuables~s~ ~1~
+
+0x3DA5415E = You can only carry one bag at a time.
+
+0x3E18A2F4 = ~1~/~2~ valuables stolen
+
+0x4F7BB1C6 = Search the area for the valuables.
+
+0x5BF60F92 = The note has revealed where the valuables are being kept.
+
+0x5FA0C99B = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~valuables~s~ ~1~
+
+0x6B63A546 = Drop the ~COLOR_MP_OBJECTIVE_FRIENDLY~valuables~s~ on the ~COLOR_MP_OBJECTIVE~ground~s~
+
+0x8A4E72D8 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~valuables~s~
+
+0x8CC44189 = The homesteader's note to his son describes burying their valuables near the spot where they used to watch the trains go by.
+
+0x8DDE07E0 = Search the ~COLOR_MP_OBJECTIVE~homestead~s~ for the ~COLOR_MP_OBJECTIVE_NEUTRAL~valuables~s~
+
+0x8EE146EC = The note reveals the homesteader has hidden their valuables around Pleasance.
+
+0x9B1C6647 = Homestead robbed
+
+0x55DC6C62 = Valuables delivered
+
+0x87F89FCE = There's no sign of anything valuable here. Keep searching.
+
+0x212EF276 = Catch up to the homesteader along the ~COLOR_MP_OBJECTIVE~road~s~ to Blackwater
+
+0x230E85C6 = It appears someone was digging here but there is no sign of the valuables. Keep searching.
+
+0x305A009E = The owner will be somewhere on the road to Blackwater. There may still be time to catch up.
+
+0x607E344A = Valuables destroyed
+
+0x612F602D = The sacks may once have contained valuables but they're not here now. Keep searching.
+
+0x962AB696 = The location is likely on a cliff or overlook near the railway. Check out any high ground close to the tracks.
+
+0x2846B1E4 = ~COLOR_MP_OBJECTIVE_FRIENDLY~~1~~s~ inspected a clue
+
+0x8988C1ED = The note was left for the owner's wife and says he is headed to their safe deposit box in Blackwater to store their valuables.
+
+0x63094D22 = Valuables delivered
+
+0x39502126 = The location must be somewhere along the railway tracks towards Tumbleweed, with a good vantage point to watch trains coming.
+
+0x48706379 = The note only gives a vague description of where the valuables are. Keep searching for more clues.
+
+0xA4FAECCE = Search the homestead and steal the valuables.
+
+0xA6C9EAFD = You delivered the valuables
+
+0xC807A658 = The notes have given enough information to reveal the location of the valuables.
+
+0xC998A803 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~valuables~s~
+
+0xCA4FFEE5 = Failed
+
+0xCA8D1155 = Someone has dropped a backpack here but there is nothing of value. Keep searching.
+
+0xE3C921F6 = This note does not give any indication as to the whereabouts of the valuables.
+
+0xE7CBEDBD = Rob the homestead
+
+0xF4282FAF = ~1~ delivered the valuables
+
+0xFABB4BAB = Search the ~COLOR_MP_OBJECTIVE~homestead~s~ for the ~COLOR_MP_OBJECTIVE_NEUTRAL~valuables~s~
+
+0xFCE734DE = Search ~COLOR_MP_OBJECTIVE~Pleasance~s~ for the ~COLOR_MP_OBJECTIVE_NEUTRAL~valuables~s~
+

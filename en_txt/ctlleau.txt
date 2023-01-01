@@ -1,0 +1,90 @@
+CCTLL_EXT_1 = ~z~John Marston.
+
+CCTLL_EXT_2 = ~z~Miss Tilly.
+
+CCTLL_EXT_3 = ~z~That's Mrs. Tilly to you.
+
+CCTLL_EXT_4 = ~z~How are you?
+
+CCTLL_EXT_5 = ~z~I'm okay, how are you?
+
+CCTLL_EXT_6 = ~z~Congratulations.
+
+CCTLL_EXT_7 = ~z~Thank you, I'm well.
+
+CCTLL_EXT_8 = ~z~Well, and happy, and...
+
+CCTLL_EXT_9 = ~z~I miss you and Abigail.
+
+CCTLL_EXT_10 = ~z~She's well, Jack's well...
+
+CCTLL_EXT_11 = ~z~all is well I think.
+
+CCTLL_EXT_12 = ~z~I... I never thanked you for what you did.
+
+CCTLL_EXT_13 = ~z~Oh, there's the trolley.
+
+CCTLL_EXT_14 = ~z~John Marston.
+
+CCTLL_EXT_15 = ~z~Miss Tilly.
+
+CCTLL_EXT_16 = ~z~That's Mrs. Tilly to you.
+
+CCTLL_EXT_17 = ~z~How are you?
+
+CCTLL_EXT_18 = ~z~I'm okay, how are you?
+
+CCTLL_EXT_19 = ~z~Congratulations.
+
+CCTLL_EXT_20 = ~z~Thank you, I'm well.
+
+CCTLL_EXT_21 = ~z~Well, and happy, and...
+
+CCTLL_EXT_22 = ~z~I miss you and Abigail.
+
+CCTLL_EXT_23 = ~z~She's well, Jack's well...
+
+CCTLL_EXT_24 = ~z~all is well I think.
+
+CCTLL_EXT_25 = ~z~I... I never thanked you for what you did.
+
+CCTLL_EXT_26 = ~z~Oh, there's the trolley.
+
+CCTLL_EXT_27 = ~z~I still think about all of you all the time.
+
+CCTLL_EXT_28 = ~z~My life, it's different now.
+
+CCTLL_EXT_29 = ~z~Mine too...
+
+CCTLL_EXT_30 = ~z~but I still see a bunch of Charles and Uncle and Sadie...
+
+CCTLL_EXT_31 = ~z~so not quite so different as Abigail would like.
+
+CCTLL_EXT_32 = ~z~I married a lawyer, he's a fine man.
+
+CCTLL_EXT_33 = ~z~We live in a house.
+
+CCTLL_EXT_34 = ~z~Us too.
+
+CCTLL_EXT_35 = ~z~I'm sorry, I've got to go, I'm late...
+
+CCTLL_EXT_36 = ~z~but can I write to you and Abigail some place?
+
+CCTLL_EXT_37 = ~z~Yeah, we're up at Beecher's Hope...
+
+CCTLL_EXT_38 = ~z~over in Great Plains, West Elizabeth.
+
+CCTLL_EXT_39 = ~z~I'll try.
+
+CCTLL_EXT_40 = ~z~Be well, John Marston.
+
+CCTLL_EXT_CO_1 = ~z~John!
+
+CCTLL_EXT_LI_1 = ~z~John Marston.
+
+CCTLL_EXT_LI_2 = ~z~Miss Tilly.
+
+CCTLL_EXT_LI_3 = ~z~That's Mrs. Tilly to you.
+
+CCTLL_EXT_LI_4 = ~z~How are you?
+

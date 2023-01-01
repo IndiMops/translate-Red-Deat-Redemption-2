@@ -1,0 +1,282 @@
+0x02B3F98A = ~z~If you'd only helped, my brother Leroy might still have his foot.
+
+0x048269DD = ~z~No, don't leave! I'll die out here!
+
+0x04FE9166 = ~z~I'm not a bad man!
+
+0x093D69B5 = ~z~Please, don't.
+
+0x0977C87E = ~z~Any business, you'd better see the foreman.
+
+0x0BD960E5 = ~z~What you want me for?
+
+0x0C780C84 = ~z~Well, you're still walking. How do the wolves look?
+
+0x0F007DF6 = ~z~Look at all y'all, with your guns, bunch of damn cowards. Can't even handle some little wolves, but we did.
+
+0x1A6D921D = ~z~Felling!
+
+0x1C858CDB = ~z~Okay, okay. Your secret is safe with me.
+
+0x1FBA23E6 = ~z~Hell no, you ain't taking this horse.
+
+0x2A6216CC = ~z~This is torture it is!
+
+0x3ABC74C1 = ~z~Thank you. Make them wolves suffer.
+
+0x4A446858 = ~z~Relax, I'll keep my mouth shut.
+
+0x5CEC782A = ~z~I'm close to quitting. I'm tired, I'm hungry, money's shit, and I hate trees.
+
+0x5E9FE3DB = ~z~This might be it for me. This money ain't nearly good enough to get ate for.
+
+0x5EE5CEBF = ~z~I'm gonna get the law.
+
+0x6B1AC816 = ~z~Hey, friend, why you carrying me, huh?
+
+0x6BA8DCBF = ~z~Get the hell outta here, right now.
+
+0x6D4D33B4 = ~z~You mind keeping some space? Dangerous work out here. Wouldn't want you to end up like one of these trees...
+
+0x6E720EAA = ~z~Was this your doing?
+
+0x6F584F94 = ~z~It's pulling my arms awful tight...
+
+0x7B548475 = ~z~Time for you to get the hell outta here.
+
+0x7C4314EB = ~z~Will you move.
+
+0x8A96FCFD = ~z~I was too hot this morning. Now I think I'm 'bout to drop like these trees.
+
+0x8EF518B1 = ~z~Please, please friend, just put me down.
+
+0x9BFFD20B = ~z~Mind out.
+
+0x9E321B2D = ~z~Alright, why not?
+
+0x9E810636 = ~z~Tell me why I should stop for you.
+
+0x9EC870CE = ~z~I'm an innocent man! Just let me go...
+
+0x11CC74FD = ~z~Please, you gotta believe me. I'm the wrong man.
+
+0x14E4FCF9 = ~z~Alright, take the horse, goddammit.
+
+0x33B58DE1 = ~z~That was close.
+
+0x33C3EAB8 = ~z~Good work, fellers. Glad those wolves got sent back to hell.
+
+0x35F7A6B8 = ~z~Back to it. Damn trees won't fell themselves.
+
+0x39ADE651 = ~z~If I don't get a seat down and a drink in me soon there'll be hell.
+
+0x46D656AE = ~z~Hey friend, you do me a kindness and untie me?
+
+0x48AB4F1C = ~z~Who the hell do you think you are?
+
+0x52BAA197 = ~z~Are you deaf? I warned you once.
+
+0x56E5EB91 = ~z~Do you know who the hell you're talking to?
+
+0x77F1EAEE = ~z~Looking for the foreman? He's in the new office.
+
+0x78B7AF74 = ~z~Hey, get that gun away from me.
+
+0x83E132D2 = ~z~Do you need something from me?
+
+0x87E3BA9B = ~z~Hey, stop that right now.
+
+0x87FC366D = ~z~Phew... That was close.
+
+0x89AC0791 = ~z~Wolves hounding through the forest. They're getting real bold, too...
+
+0x90C0F083 = ~z~Fine. Take it all.
+
+0x91F1868A = ~z~Hey, you can't expect me to just give you all of this.
+
+0x98BC8007 = ~z~You got a real issue, don't ya?
+
+0x167CFFCA = ~z~Hell no, I ain't pulling over.
+
+0x271F6022 = ~z~Give me a break.
+
+0x406F58F7 = ~z~I'm a good man.
+
+0x484E76C2 = ~z~Cut it out, goddammit.
+
+0x537F40DF = ~z~Back up some, will ya?
+
+0x599CE224 = ~z~Hey, get out of here.
+
+0x752A3DA9 = ~z~I ain't done nothing! It was Petey, and this man here don't care. None of you damn well care!
+
+0x763E6ED7 = ~z~Seen wolves look like bears, but fast, like lions...
+
+0x771F194E = ~z~Are you in trouble?
+
+0x818AD43E = ~z~I don't like this... Won't be able to see the wolves in this rain...
+
+0x829D543C = ~z~Here, just take this.
+
+0x1687CC9A = ~z~We all owe you. Those wolves were taking us down.
+
+0x2191A2DB = ~z~Dammit, I got nothing for you! It's my brother you want.
+
+0x4239CBF7 = ~z~How'd that feel?
+
+0x4507B60A = ~z~What the hell are you following me for?
+
+0x5953A5C0 = ~z~You damn killers let wolves rampage the lot of us, and didn't do a damn thing.
+
+0x6348E1C9 = ~z~Back again to do 'business' but can't handle a wolf? You bastard.
+
+0x7924EBC6 = ~z~What the hell do you want?
+
+0x8233A731 = ~z~Do you want your hide hung?
+
+0x9482DE0C = ~z~It's time for you to go.
+
+0x9735E372 = ~z~How 'bout you get outta my sight?
+
+0x23015A92 = ~z~Hey, we can't let'em rob us.
+
+0x28247E06 = ~z~Jesus! Thank you. They had me mixed up with my brother.
+
+0x45168B63 = ~z~Foreman needs you. We all do, I think.
+
+0x54054AD5 = ~z~How 'bout I blow your lamp out?
+
+0x66635E1B = ~z~Keep back, tree's coming!
+
+0x71156A3A = ~z~I been in tougher places than this, let me tell you.
+
+0x129227D9 = ~z~You wanna lock horns with me?
+
+0x814706A1 = ~z~Please God, no.
+
+0x2404187A = ~z~I'll kill any animal gets in my way.
+
+0x3339912A = ~z~I don't got no money, but the Valentine doctor does. Something shady going on in his shop I hear.
+
+0x17583492 = ~z~Why you even untie me then?
+
+0x18531940 = ~z~Alright, y'all, go kill all them wolves.
+
+0x20880008 = ~z~Back up!
+
+0x26374234 = ~z~Thanks.
+
+0x32420834 = ~z~Bastard shoulda paid more attention.
+
+0x46876743 = ~z~Ain't safe to fell trees in this weather.
+
+0x69499098 = ~z~Hey, don't aim that at me.
+
+0xA8D63275 = ~z~You sick devil.
+
+0xA9816FDD = ~z~Damn you!
+
+0xAB2D7066 = ~z~Watch it.
+
+0xAB8456D2 = ~z~TIMBER!
+
+0xACCA938F = ~z~I can never stay in one place too long.
+
+0xAEFEAC8B = ~z~What's your goddamn problem?
+
+0xAFA2BE0E = ~z~Alright, why not.
+
+0xB06324AC = ~z~Tree's coming down! keep your distance.
+
+0xB2C5ACC5 = ~z~Please, I'm eating dirt here.
+
+0xB3C71AE2 = ~z~There's a high-rolling poker game above the Saint Denis gunsmith. Hopefully that can serve as a thank you.
+
+0xB249F698 = ~z~Can't you get me off this thing?
+
+0xB347B264 = ~z~Couldn't you put me down and untie me?
+
+0xB847A819 = ~z~We got a problem for you all to handle. Go see the foreman.
+
+0xB2392720 = ~z~Damn fool nearly got hisself killed by that tree.
+
+0xBFE291B9 = ~z~What the hell are you looking at?
+
+0xC3D50AEB = ~z~C'mon, we ain't got nothing worth stealing.
+
+0xC5FD7A44 = ~z~Careful. Once a wolf tastes human flesh, it won't rest until it's had more...
+
+0xC57DCC97 = ~z~Had it up to here with this place.
+
+0xCB61F96A = ~z~Look, I can't afford to take a loss.
+
+0xCC8ECFD0 = ~z~I killed a wolf once. Well, might've been a dog. Big dog, though...
+
+0xCFBA22B5 = ~z~C'mon, how about you just let us get by?
+
+0xD27B772B = ~z~Foreman's in the new office, fellers.
+
+0xD33FAD1D = ~z~Keep the hell away from me.
+
+0xD60F8CAF = ~z~Y'all looking for work, the best bet's the foreman.
+
+0xD194AF1E = ~z~How's it feel?
+
+0xD3366830 = ~z~Somebody help me!
+
+0xD6876708 = ~z~As long as I can start a fire, I'll never go hungry.
+
+0xDB46C440 = ~z~Get somebody else to pull over for you.
+
+0xDFA03EFD = ~z~When it's delivered to Saint Denis come right back. We got a lot more coming.
+
+0xE05130F3 = ~z~This'll go to the copper mine.
+
+0xE1A03BF6 = ~z~We got rid of those wolves without you, and we're better for it.
+
+0xE1AEB38C = ~z~Help! They got the wrong man! You're after my brother Petey... Petey's always getting into trouble.
+
+0xE3EB6053 = ~z~Tree's going down!
+
+0xE5D2A1D2 = ~z~Hey, I'm stuck on this horse!
+
+0xE6D26902 = ~z~I heard about a moonshine operation going on under the Strawberry general store. Might be worth checking out...
+
+0xE12CAA33 = ~z~I don't wanna die!
+
+0xE17D4998 = ~z~Leave me be, damn it.
+
+0xE35B7F93 = ~z~See the bodies out there in the trees? Looks like they slept with a saw...
+
+0xE297185E = ~z~Fine, take the damn horse.
+
+0xEA9270F0 = ~z~Wait, what's going on? What you doing?
+
+0xEAAED17B = ~z~You should be ashamed.
+
+0xEB0EE125 = ~z~Help, please.
+
+0xEBCDBC0E = ~z~Shit no, this horse belongs to me.
+
+0xEC25F525 = ~z~You're dead meat!
+
+0xEC1188DC = ~z~Hey, I'd go on about my business if I were you.
+
+0xED1C5920 = ~z~Holy shit!
+
+0xEF2DA3DE = ~z~Come on, please... this horse stinks.
+
+0xF0E59939 = ~z~Bout could use a week off.
+
+0xF4B726CB = ~z~Ain't paying you no more mind.
+
+0xF5B4E621 = ~z~Seems wrong to cut the whole forest down. Ah, well...
+
+0xF4435E26 = ~z~I don't believe we've seen the end of the wolves...
+
+0xFA379BD5 = ~z~You're as good as dead!
+
+0xFAF6CD28 = ~z~Oh God, no.
+
+0xFD3FB70A = ~z~Climb aboard.
+

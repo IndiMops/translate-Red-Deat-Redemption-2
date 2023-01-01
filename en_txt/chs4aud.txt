@@ -1,0 +1,6 @@
+CHSH_CNV4_1 = ~z~
+
+CHSH_CNV4_2 = ~z~You okay, old man?
+
+CHSH_CNV4_3 = ~z~~sl:0.0:0.8~Sure.~sl:1.7:2.7:1~Just dandy, partner, just dandy.
+

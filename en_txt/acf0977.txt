@@ -1,0 +1,56 @@
+977_AB_BCH_NEG_1 = ~z~Just hear me out, I know it sounds crazy.
+
+977_AB_BCH_POS_1 = ~z~I know, you wouldn't believe it.
+
+977_A_1 = ~z~Well, I'm glad of the company if I'm honest.
+
+977_A_2 = ~z~The past six months or so I ain't been around many people, regular folks at least.
+
+977_A_3 = ~z~Ain't sure if you heard of a group called the Chelonians? I-I guess you could call it a religion.
+
+977_A_4 = ~z~Obsessed with turtles... which maybe should have struck me stranger sooner.
+
+977_BC_BCH_NEG_1 = ~z~Come on. Don't judge me for it, mister.
+
+977_BC_BCH_POS_1 = ~z~Hell of a thing, right?
+
+977_B_1 = ~z~Folk always say I'm too trusting.
+
+977_B_2 = ~z~I mean I don't know you from Adam and here you are sitting at my fire.
+
+977_B_3 = ~z~Anyway, I'm more or less handing my life over to them.
+
+977_B_4 = ~z~I met a very persuasive feller in Saint Denis, Anders his name was... and he caught me at a bad time.
+
+977_CALL_1 = ~z~~sl:0.0:4.4~Would you look at that. That dog don't never like no one but me.~sl:0.5~Wanna rest up a while, friend?
+
+977_CD_BCH_NEG_1 = ~z~Okay, clearly I don't need to bore you with no more of this.
+
+977_C_1 = ~z~~sl:0.0:4.5~It's that, I'd... I'd been given over to some poor living,~sl:~real poor living. Kinda,
+
+977_C_2 = ~z~behavior the devil hisself would be ashamed of?
+
+977_C_3 = ~z~~sl:0.0:3.7~They promised me safety, salvation, paradise...~sl:0.6~all very appealing to a feller like me.
+
+977_D_1 = ~z~Got to the point where I'd given them every cent I had and I was ready to follow them off a cliff.
+
+977_D_2 = ~z~I just got out in time...
+
+977_D_3 = ~z~maybe it was the turtles, or maybe it was just I didn't have the spine to go through with it.
+
+977_D_4 = ~z~All seems ridiculous now looking back. The things we'll do for answers, huh?
+
+977_EXIT_DAY_1 = ~z~Anyway, sorry to ramble on, I should get back to it.
+
+977_INTRO_1 = ~z~So what brings you to these parts?
+
+977_INTRO_END_1 = ~z~That's fine, don't mean to pry.
+
+977_INTRO_NEG_1 = ~z~No reason, just... passing through.
+
+977_INTRO_NEG_J_1 = ~z~No reason... just passing through.
+
+977_INTRO_POS_1 = ~z~Just between towns, looking for work.
+
+977_INTRO_POS_J_1 = ~z~Just between towns, looking for work.
+

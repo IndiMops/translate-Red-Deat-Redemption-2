@@ -1,0 +1,218 @@
+0x00709C0A = ~z~Been a rash of foul customers...
+
+0x040E010A = ~z~I'll be the better man here, but you start anything and you're out.
+
+0x0713DA26 = ~z~There's no reason for all that.
+
+0x07FC8342 = ~z~Oh, why don't you move along?
+
+0x0DB9C3E2 = ~z~Welcome back.
+
+0x0EC038A9 = ~z~Slower than I like...
+
+0x0F6EFCE0 = ~z~I'll give you a nice discount. Always happy to serve a local.
+
+0x1F628286 = ~z~Please, please.
+
+0x2D06A66D = ~z~Hey, you-you gotta get out of here.
+
+0x3D9FEE88 = ~z~Okay, time for you to go now.
+
+0x4B1AD9F6 = ~z~D-Don't do this.
+
+0x4D833287 = ~z~You stupid or drunk? Leave!
+
+0x6AACD66B = ~z~Alright, don't need to worry about me, friend.
+
+0x6B4F71CE = ~z~Seem like a foul wind's come in, and I'm taking a beating for it.
+
+0x6B651965 = ~z~Oh, no, I know you ain't serious.
+
+0x6D26ECB1 = ~z~You drunk? Stop.
+
+0x6DA03CD8 = ~z~I know the law's been after you. I keep those things in mind.
+
+0x6F2E3605 = ~z~Sounds good.
+
+0x7C3BF989 = ~z~Okay, the-there's nothing to say about this.
+
+0x7C83E676 = ~z~Hey now, stop that.
+
+0x7D654167 = ~z~I ain't got to take this from you.
+
+0x8E535AD2 = ~z~Alright, got your room made up for you. Whenever you're in the mood.
+
+0x9A71B0E1 = ~z~You ain't even worth a glance.
+
+0x9ACE3308 = ~z~Hey. N-Now this is getting dangerous.
+
+0x9AF704E0 = ~z~Most of my customers are too rich to bother with guns or fights. Makes my job easy.
+
+0x9B7A7520 = ~z~Good, room's all yours when you're ready.
+
+0x9C47E3EE = ~z~Okay, that's enough of this.
+
+0x11EC8BBB = ~z~New to town? Haven't seen you around.
+
+0x17FF316B = ~z~Gimme some room, alright?
+
+0x26D02F31 = ~z~You're a wanted man, I hear. Hope that does not reflect your behavior.
+
+0x32C3503B = ~z~You get violent again, so help me...
+
+0x36D88015 = ~z~That's enough now.
+
+0x46CD359C = ~z~Looking well.
+
+0x71A8324F = ~z~Saint Denis likes their whiskey. Who am I to argue?
+
+0x87CA3AF3 = ~z~Alright, I'm going for the law.
+
+0x88A6604B = ~z~Doesn't seem like temperance'll catch on, so I'm happy.
+
+0x89C18F81 = ~z~You're a waste of my time.
+
+0x91F9CF52 = ~z~The police'll have some thoughts on this.
+
+0x92F10B2F = ~z~Hey, watch your step.
+
+0x164BA585 = ~z~Against my better judgments, I'll give you a second chance...
+
+0x202A2836 = ~z~Hello, welcome. First time?
+
+0x212FEACE = ~z~Hello again.
+
+0x241A184D = ~z~Oh, now see, you ain't got the right to talk to me that way.
+
+0x392B09D7 = ~z~You get the hell out of here, damn it.
+
+0x473AC870 = ~z~Hey now, that's a bad move.
+
+0x507AFD34 = ~z~I don't have anything.
+
+0x580B5818 = ~z~Nice to see you.
+
+0x647BF457 = ~z~I need a police.
+
+0x675D14DE = ~z~I hope this weren't you.
+
+0x763B0AA8 = ~z~You even think about robbing me again and you're done.
+
+0x770CDB88 = ~z~Hey, hey, stop that.
+
+0x789FB763 = ~z~You... you do this?
+
+0x881DE7F0 = ~z~Sure.
+
+0x906CA509 = ~z~I just tend bar. Don't do this.
+
+0x910BCA24 = ~z~A friendly face, hello.
+
+0x952A6F02 = ~z~Bet that cleaned you up.
+
+0x3389AC10 = ~z~You about to die.
+
+0x3716B4CB = ~z~Leave me be.
+
+0x4031CCBB = ~z~You can't be here.
+
+0x5569E4CE = ~z~Whoa, okay, now why don't you put that away, before, before you do something you regret?
+
+0x5775F39A = ~z~You look ready to take on the world.
+
+0x6740CFED = ~z~Step away, friend.
+
+0x8025BE77 = ~z~Okay, room's all set, just head upstairs when you're ready.
+
+0x8549A8C5 = ~z~I remember you, filcher.
+
+0x19567EAB = ~z~Don't do that.
+
+0x59828F43 = ~z~You won't get a damn cent.
+
+0x4838556D = ~z~You sure your aim is what you think?
+
+0x67334810 = ~z~Oh, you damned bum.
+
+0x91666969 = ~z~I don't want none of this.
+
+0xA11A9D53 = ~z~After all that, huh?
+
+0xA26B63CC = ~z~Leave off.
+
+0xA1450E8A = ~z~Cut that out! That's a foolish, that's-that's foolish behavior.
+
+0xA7629EE4 = ~z~Oh, you think you smart?
+
+0xA937577E = ~z~Hello, once again.
+
+0xAD11B91A = ~z~So I guess I'm gonna break your face, huh?
+
+0xB0CDC6E8 = ~z~Mind yourself.
+
+0xB75A7DD0 = ~z~You don't know what you're doing.
+
+0xB888C130 = ~z~I must have misheard you, right?
+
+0xB5058E62 = ~z~Here, here, okay?
+
+0xB8336C64 = ~z~Not worth any of my attention.
+
+0xB443077B = ~z~Get away from me.
+
+0xB3823304 = ~z~Stop all this.
+
+0xBE7C6245 = ~z~Look out.
+
+0xBF835DFD = ~z~Most people know not to try me, but I guess you ain't most people.
+
+0xC2DB811A = ~z~You mind not dogging my every step?
+
+0xC5E7B265 = ~z~You'll regret that.
+
+0xC87D842D = ~z~You... You're playing with your own life.
+
+0xC36665C3 = ~z~Guess you need some sense knocked in you?
+
+0xC7939356 = ~z~It's the customers that're rich, not me.
+
+0xCBDB5A54 = ~z~Come on now, this ain't smart.
+
+0xCBEF67FD = ~z~Excuse me? W-What did you say?
+
+0xD55CE162 = ~z~You looking at something?
+
+0xD62BA9C2 = ~z~Stop right now. Right now!
+
+0xD2814EB5 = ~z~I hope you don't aim for more troublemaking.
+
+0xDC25DEE1 = ~z~You make me sick!
+
+0xDF9FE396 = ~z~Jesus, just take it.
+
+0xE08BA4BB = ~z~Got places to be!
+
+0xE1F2BDE1 = ~z~It'll be fresh and ready at your convenience. Head up at your leisure.
+
+0xE4EB348C = ~z~I won't have any more fighting from you, got it?
+
+0xE184A10C = ~z~From the area? We always look out for our own.
+
+0xE225EDFE = ~z~We have enough troubles without you starting more of yours.
+
+0xEFB45964 = ~z~Just head upstairs, it's ready when you are.
+
+0xF0386F8B = ~z~This the wrong place to rob...
+
+0xF1E3E8D6 = ~z~And, uh... another hello.
+
+0xF2C6D8D7 = ~z~You've made your impression, we get it. Go home.
+
+0xF3BA26A4 = ~z~Okay, you want something, here. Here. That's all I got.
+
+0xF5D9EFE2 = ~z~I barely have enough to keep my uniform clean.
+
+0xF8ED36D8 = ~z~This is it, now.
+
+0xFD51749E = ~z~I'll have the girls make it for you. Just head on up.
+

@@ -1,0 +1,100 @@
+0x02ECC703 = ~z~Could I get some room?
+
+0x03881AB5 = ~z~Okay, I'll just pretend you're not here.
+
+0x1EC51815 = ~z~Ah, c'mon, you robbing kids now?
+
+0x2EC18712 = ~z~Get away from me, why don't you?
+
+0x2FB4E101 = ~z~~sl:0.5:0.0~Enjoy Saint Denis, cowboy!
+
+0x3CC872F4 = ~z~I'm gonna tell the law.
+
+0x4B8302FD = ~z~Picking on kids make you feel tough, huh?
+
+0x4C0F7A8A = ~z~Why you staring at me, huh?
+
+0x5A4BBCF7 = ~z~You leave me no choice.
+
+0x5BADE9BD = ~z~Hey, watch it.
+
+0x5E905F7B = ~z~No. Please don't.
+
+0x6D4355E7 = ~z~Yeah, for sure.
+
+0x7B8538D1 = ~z~Come on, cut it out.
+
+0x7CA946D6 = ~z~Hey, you ain't supposed to be here.
+
+0x7E89A6C1 = ~z~Please get away from me.
+
+0x14C3EAB1 = ~z~Gimme some space.
+
+0x47BB8EB3 = ~z~You're done for!
+
+0x51EF20AD = ~z~That's just wrong and you know it.
+
+0x89AB1E9D = ~z~Hey, stop doing that.
+
+0x178CC3AF = ~z~Give me a break.
+
+0x378DA709 = ~z~Hey, man, back off.
+
+0x382E442C = ~z~Alright, it's all yours.
+
+0x683B72D1 = ~z~You don't have to do this.
+
+0x784E2951 = ~z~Don't move! Let's get those hands up nice and high.
+
+0x796ABC33 = ~z~Don't get ideas, grandpa.
+
+0x954D9192 = ~z~Would you just leave me be?
+
+0x2520FC78 = ~z~Hold on, what I do to you?
+
+0x3971E426 = ~z~Get out the way, will you?
+
+0x5200D663 = ~z~Hey, look out.
+
+0x5900DB90 = ~z~Would you get away from me?
+
+0x9966BDA2 = ~z~Ugh, hey, I don't wanna get sick, mister.
+
+0x88051ADF = ~z~Ugh, you looking dead out, mister.
+
+0x90017F31 = ~z~I swear on my mama, I won't say nothing.
+
+0x189970D1 = ~z~Hey, stop following me.
+
+0xA2A1324E = ~z~What the hell did you do?
+
+0xA4283442 = ~z~Hey, what I do to deserve that, huh?
+
+0xA5913219 = ~z~Leave me alone, will ya?
+
+0xB7CAD68C = ~z~C'mon, ain't no need for this.
+
+0xB96A20CE = ~z~You back to cause more trouble, old man?
+
+0xBDBC5A80 = ~z~Oh, of course he's broke! Let's give him something to spend.
+
+0xC3A72744 = ~z~Okay, hi again.
+
+0xC18FCEF2 = ~z~Wait, wait, wait. Don't pull that trigger.
+
+0xC1355C41 = ~z~So, are we okay? Cause I got better things to do.
+
+0xCA12621B = ~z~This was you, wasn't it?
+
+0xCF4D6A6D = ~z~Whoa! You got the wrong kid.
+
+0xD2689E36 = ~z~I'm getting the police.
+
+0xE216DC14 = ~z~Hey, hey, hey, you're going too far.
+
+0xE9416EB1 = ~z~You got to go.
+
+0xF36A190B = ~z~Wait a minute, I ain't do nothing to you.
+
+MISBEHAVING_LOW_04 = ~z~Okay, okay. Here, take this.
+

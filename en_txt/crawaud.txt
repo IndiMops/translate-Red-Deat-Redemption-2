@@ -1,0 +1,352 @@
+CRW_ALL_A_1 = ~z~Goddamn evil.
+
+CRW_ALL_J_1 = ~z~Goddamn evil.
+
+CRW_ATSHACK_A_1 = ~z~There we go... up there... Night Folk up to all sorts...
+
+CRW_ATSHACK_A_2 = ~z~You go deal with them... I'll be here with my rat gun...
+
+CRW_ATSHACK_A_3 = ~z~Okay. Do what you can.
+
+CRW_ATSHACK_A_4 = ~z~Oh, they got someone.  Poor feller.
+
+CRW_ATSHACK_J_1 = ~z~There we go... up there... Night Folk up to all sorts...
+
+CRW_ATSHACK_J_2 = ~z~You go deal with them... I'll be here with my rat gun...
+
+CRW_ATSHACK_J_3 = ~z~Okay. Do what you can.
+
+CRW_ATSHACK_J_4 = ~z~Oh, they got someone.  Poor feller.
+
+CRW_ATTACK2_A_01 = ~z~Go!
+
+CRW_ATTACK2_A_02 = ~z~Leave!
+
+CRW_ATTACK2_A_03 = ~z~Away from here!
+
+CRW_ATTACK2_A_04 = ~z~Out, you devils!
+
+CRW_ATTACK2_J_01 = ~z~Go!
+
+CRW_ATTACK2_J_02 = ~z~Leave!
+
+CRW_ATTACK2_J_03 = ~z~Away from here!
+
+CRW_ATTACK2_J_04 = ~z~Out, you devils!
+
+CRW_ATTACK_A_01 = ~z~Away from me.
+
+CRW_ATTACK_A_02 = ~z~What in hell?
+
+CRW_ATTACK_A_03 = ~z~Damn you!
+
+CRW_ATTACK_A_04 = ~z~Shit.
+
+CRW_ATTACK_A_05 = ~z~Say something!
+
+CRW_ATTACK_A_06 = ~z~Hey! Hey!
+
+CRW_ATTACK_A_07 = ~z~Speak, goddamn you.
+
+CRW_ATTACK_J_01 = ~z~Away from me.
+
+CRW_ATTACK_J_02 = ~z~What in hell?
+
+CRW_ATTACK_J_03 = ~z~Damn you!
+
+CRW_ATTACK_J_04 = ~z~Shit.
+
+CRW_ATTACK_J_05 = ~z~Say something!
+
+CRW_ATTACK_J_06 = ~z~Hey! Hey!
+
+CRW_ATTACK_J_07 = ~z~Speak, goddamn you.
+
+CRW_CALL_A_1 = ~z~Hey, clear off of here!
+
+CRW_CALL_J_1 = ~z~Hey, clear off of here!
+
+CRW_GATOR_A_1 = ~z~Now, look out here, there's gators.
+
+CRW_GATOR_A_2 = ~z~What a place to make your home...
+
+CRW_GATOR_A_3 = ~z~It's nice, ain't it?
+
+CRW_GATOR_J_1 = ~z~Now, look out here, there's gators.
+
+CRW_GATOR_J_2 = ~z~What a place to make your home...
+
+CRW_GATOR_J_3 = ~z~It's nice, ain't it?
+
+CRW_ILO1_A_1 = ~z~Well, take care.
+
+CRW_ILO1_J_1 = ~z~Well, take care.
+
+CRW_ILO2_A_1 = ~z~Just... making sure it's all okay.
+
+CRW_ILO2_J_1 = ~z~Just... making sure it's all okay.
+
+CRW_KEEPGOING_01 = ~z~C'mon. C'mon.
+
+CRW_KEEPGOING_02 = ~z~Lickety split.
+
+CRW_MORE_A_1 = ~z~Oh no, more.
+
+CRW_MORE_J_1 = ~z~Oh no, more.
+
+CRW_NIGHTDEAD_1 = ~z~Oh, you got 'em. You got 'em alright. The place is ours.
+
+CRW_NIGHTDEAD_2 = ~z~Come get your reward.
+
+CRW_NOSAVE_1 = ~z~Too late for him. That's bad juju alright.
+
+CRW_PLAYERBEHND_01 = ~z~Come on then. Follow me.
+
+CRW_PLAYERBEHND_02 = ~z~It's this a way. Come on.
+
+CRW_PLAYERBEHND_03 = ~z~We're safer stuck together. Uh huh.
+
+CRW_PLAYERBEHND_04 = ~z~You coming, or what?
+
+CRW_PNOTATTACK_01 = ~z~You goin' deal with them?
+
+CRW_PNOTATTACK_02 = ~z~I thought you wasn't scared?
+
+CRW_PNOTATTACK_03 = ~z~Come on... that's my property.
+
+CRW_QUICK_1 = ~z~Come on. Quick. We gotta move fast.
+
+CRW_REACT_A_1 = ~z~Shit, they're coming!
+
+CRW_REACT_J_1 = ~z~Shit, they're coming!
+
+CRW_S1_IG1_CLL1_1 = ~z~Hey... you, crazy man.
+
+CRW_S1_IG1_CLL2_1 = ~z~Oh, boy. What you doing?
+
+CRW_S1_IG1_CLL3_1 = ~z~Goddamn, you loon.
+
+CRW_S1_IG1_CLL4_1 = ~z~You be careful, won't ya?
+
+CRW_S1_IG1_CLL5_1 = ~z~Hot damn, what you doing?
+
+CRW_S1_IG1_DEC1_1 = ~z~I'd pay you real handsome.
+
+CRW_S1_IG1_DEC2_1 = ~z~Make it worth your while, alright.
+
+CRW_S1_IG1_DEC3_1 = ~z~If you ain't scared, what's the trouble?
+
+CRW_S1_IG1_GRTA_1 = ~z~What's the commotion?
+
+CRW_S1_IG1_GRTA_2 = ~z~You a loon or something? This Night Folk country.
+
+CRW_S1_IG1_GRTA_3 = ~z~Night folk? I can look after myself.
+
+CRW_S1_IG1_GRTA_4 = ~z~Okay...
+
+CRW_S1_IG1_GRTA_5 = ~z~Maybe you should clear out though... if you're so troubled by... things in the night.
+
+CRW_S1_IG1_GRTA_6 = ~z~It's Night Folk. And I would... it's just... they on my property...
+
+CRW_S1_IG1_GRTA_7 = ~z~Hey... w-would you help me? Get 'em off? I-I'd pay you for your troubles.
+
+CRW_S1_IG1_GRTJ_1 = ~z~Hey. What's the commotion?
+
+CRW_S1_IG1_GRTJ_2 = ~z~You a loon or something? This Night Folk country.
+
+CRW_S1_IG1_GRTJ_3 = ~z~Night folk? I can handle myself.
+
+CRW_S1_IG1_GRTJ_4 = ~z~Okay...
+
+CRW_S1_IG1_GRTJ_5 = ~z~Maybe you should clear out though... if you're so troubled by... things in the night.
+
+CRW_S1_IG1_GRTJ_6 = ~z~It's Night Folk. And I would... it's just... they on my property...
+
+CRW_S1_IG1_GRTJ_7 = ~z~Hey... w-would you help me? Get 'em off? I-I'd pay you for your troubles.
+
+CRW_S1_IG1_LEVE_1 = ~z~You reconsider, you come back here and help. Oh, and look out for them Night Folk.
+
+CRW_S1_IG1_NOA_1 = ~z~I ain't gonna poke that bear. Good luck to you.
+
+CRW_S1_IG1_NOA_2 = ~z~God dang it.
+
+CRW_S1_IG1_NOA_3 = ~z~That's a crying shame...
+
+CRW_S1_IG1_NOJ_1 = ~z~I ain't gonna poke that bear. Good luck to you.
+
+CRW_S1_IG1_NOJ_2 = ~z~God dang it.
+
+CRW_S1_IG1_NOJ_3 = ~z~That's a crying shame...
+
+CRW_S1_IG1_RETR_1 = ~z~You had yourself a think? You gonna help me get my property?
+
+CRW_S1_IG1_YESA_1 = ~z~You'll pay me, huh? Maybe... wanna show me where this place is? We'll see...
+
+CRW_S1_IG1_YESA_2 = ~z~Alright. Let's go. It just over there. You a good man, partner.
+
+CRW_S1_IG1_YESJ_1 = ~z~Pay me, huh? Maybe... show me where this place is, we'll see...
+
+CRW_S1_IG1_YESJ_2 = ~z~Alright. Let's go. It just over there. You a good man, partner.
+
+CRW_S1_IG2_P1_1 = ~z~Them Night Folk would put me on a pike they got their paws on me.
+
+CRW_S1_IG2_P1_2 = ~z~Hang me up on a hardwood hammock. Boy, I'm lucky I ain't dead as it is.
+
+CRW_S1_IG2_P1_3 = ~z~Night Folk... oh, they bad people. Bad Folk. Animals, the lot of 'em.
+
+CRW_S1_IG2_P2_1 = ~z~You know, I ain't never heard no Night Folk speak.
+
+CRW_S1_IG2_P2_2 = ~z~There's not been one peep outta no Night Folk, not that I ain't heard at least.
+
+CRW_S1_IG2_P2_3 = ~z~Imagine not uttering a sound. Can you fathom that?
+
+CRW_S1_IG2_P2_4 = ~z~What kinda evil don't make no sound. It's bad alright. Bad.
+
+CRW_S1_IG2_P3_A_1 = ~z~I mean, I don't meet many folk out here. On my own the most part, but I still speak, you know?
+
+CRW_S1_IG2_P3_A_2 = ~z~I'll talk to myself ain't no one else around.
+
+CRW_S1_IG2_P3_A_3 = ~z~Chew my own goddamn ear off.
+
+CRW_S1_IG2_P3_A_4 = ~z~I can imagine.
+
+CRW_S1_IG2_P3_J_1 = ~z~I mean, I don't meet many folk out here. On my own the most part. But I still speak, you know.
+
+CRW_S1_IG2_P3_J_2 = ~z~I'll talk to myself there ain't no one else around.
+
+CRW_S1_IG2_P3_J_3 = ~z~Chew my own goddamn ear off.
+
+CRW_S1_IG2_P3_J_4 = ~z~I can imagine.
+
+CRW_S1_IG2_P4_A_1 = ~z~Now, used to be the gators was the worst thing in the bayou... gators and snakes.
+
+CRW_S1_IG2_P4_A_2 = ~z~I been snake bit more times I like to remember. Ain't been gator bit though.
+
+CRW_S1_IG2_P4_A_3 = ~z~Got that to be thankful for at least. Gator bites is nasty.
+
+CRW_S1_IG2_P4_A_4 = ~z~
+
+CRW_S1_IG2_P4_J_1 = ~z~Now, used to be the gators was the worst thing in the bayou... gators and snakes.
+
+CRW_S1_IG2_P4_J_2 = ~z~I been snake bit more times I like to remember. Ain't been gator bit though.
+
+CRW_S1_IG2_P4_J_3 = ~z~Got that to be thankful for at least. Gator bites is nasty.
+
+CRW_S1_IG2_P4_J_4 = ~z~
+
+CRW_S1_IG2_P5_1 = ~z~Them turtle bites is bad too. They call 'em snapping for a reason.
+
+CRW_S1_IG2_P6_A_1 = ~z~Yeah well, I been known to snap too, so... how bout we keep it down.
+
+CRW_S1_IG2_P6_A_2 = ~z~Yes, partner. Yup, uh huh. That's probably best.
+
+CRW_S1_IG2_P6_J_1 = ~z~I been known to snap too, so how 'bout... we keep it down.
+
+CRW_S1_IG2_P6_J_2 = ~z~Yes, partner. Yup, uh huh. That's probably best.
+
+CRW_S1_IG3_1 = ~z~Hey! Damn bats.
+
+CRW_S1_IG3_2 = ~z~Don't you worry about no bats. I'll tell you when you got to worry alright.
+
+CRW_S1_IG4_1 = ~z~Oh hell. Look at that. He fresh.
+
+CRW_S1_IG4_2 = ~z~You see what I mean? This Night Folk work.
+
+CRW_S1_IG4_3 = ~z~I knew this feller, good feller, didn't deserve this.
+
+CRW_S1_IG4_4 = ~z~Now, come on.
+
+CRW_S1_IG5_1 = ~z~
+
+CRW_S1_IG5_2 = ~z~More damn bats...
+
+CRW_S1_IG6_LAMP_1 = ~z~Lamps out. They might not speak, but they sure can see.
+
+CRW_S1_IG6_RE1_1 = ~z~Lamps out, come on.
+
+CRW_S1_IG6_RE2_1 = ~z~They like moths... they gonna come to your light. Get it out.
+
+CRW_S1_IG7_ATK1_1 = ~z~They coming for me!
+
+CRW_S1_IG7_ATK2_1 = ~z~Help! Help!
+
+CRW_S1_IG7_MREA_1 = ~z~Oh boy, oh boy. That's gotta be more of 'em.
+
+CRW_S1_IG7_MREA_2 = ~z~Wait here. I'll see.
+
+CRW_S1_IG7_MREJ_1 = ~z~~sl:0.0:2.1:1~Oh boy, oh boy. That's gotta be more of 'em.
+
+CRW_S1_IG7_MREJ_2 = ~z~~sl:0.6~Stay here. I'll see.
+
+CRW_S1_IG7_WV1_1 = ~z~I don't like this. Not at all.
+
+CRW_S1_IG7_WV2_1 = ~z~It's a bad evil!
+
+CRW_S1_IG7_WV3_1 = ~z~Don't let 'em get me, alright?
+
+CRW_S1_IG8_CMRE_1 = ~z~Come here and get it.
+
+CRW_S1_IG8_NG_A_1 = ~z~You might want to bury them bodies.
+
+CRW_S1_IG8_NG_A_2 = ~z~Don't worry about them. Food for the gators.
+
+CRW_S1_IG8_NG_J_1 = ~z~You might wanna bury them bodies.
+
+CRW_S1_IG8_NG_J_2 = ~z~Don't worry about them. Food for the gators.
+
+CRW_S1_IG8_P1_A_1 = ~z~That's gotta be them...
+
+CRW_S1_IG8_P1_A_2 = ~z~Okay, they're dead.
+
+CRW_S1_IG8_P1_A_3 = ~z~Well, well... okay. I got something for you now...
+
+CRW_S1_IG8_P1_A_4 = ~z~Want it?
+
+CRW_S1_IG8_P1_J_1 = ~z~That's gotta be them.
+
+CRW_S1_IG8_P1_J_2 = ~z~Okay, they're dead.
+
+CRW_S1_IG8_P1_J_3 = ~z~Well, well... okay. I got something for you now...
+
+CRW_S1_IG8_P1_J_4 = ~z~Want it?
+
+CRW_S1_IG8_P2_A_1 = ~z~Here you go, partner.
+
+CRW_S1_IG8_P2_A_2 = ~z~What is this? Swamp trash?
+
+CRW_S1_IG8_P2_A_3 = ~z~No, that's some of the good stuff, right there. You're a good man, mister. Damn decent.
+
+CRW_S1_IG8_P2_J_1 = ~z~Here you go, partner.
+
+CRW_S1_IG8_P2_J_2 = ~z~What is this? Swamp trash?
+
+CRW_S1_IG8_P2_J_3 = ~z~No, that's some of the good stuff, right there. You're a good man, mister. Damn decent.
+
+CRW_S1_IG8_PS_A_1 = ~z~You sure you're gonna be okay?
+
+CRW_S1_IG8_PS_A_2 = ~z~I'll be fine. Night Folk won't come here anymore. They dumb, but they ain't stupid.
+
+CRW_S1_IG8_PS_A_3 = ~z~Well... so long then.
+
+CRW_S1_IG8_PS_A_4 = ~z~Oh, it's good to be home.
+
+CRW_S1_IG8_PS_J_1 = ~z~You gonna be alright here?
+
+CRW_S1_IG8_PS_J_2 = ~z~I'll be fine. Night Folk won't come here anymore. They dumb, but they ain't stupid.
+
+CRW_S1_IG8_PS_J_3 = ~z~So long then.
+
+CRW_S1_IG8_PS_J_4 = ~z~Oh, it's good to be home.
+
+CRW_SEARCH_A_1 = ~z~How you doing?
+
+CRW_SEARCH_A_2 = ~z~Give me a moment.
+
+CRW_SEARCH_J_1 = ~z~How you doing?
+
+CRW_SEARCH_J_2 = ~z~Give me a moment.
+
+CRW_SLOW_1 = ~z~Slow down, hey, poor feller on the tree been here for years.
+
+CRW_TREES_1 = ~z~You think it's bad being a dead feller on a tree... it's worse when you a live one with a stick through ya.
+

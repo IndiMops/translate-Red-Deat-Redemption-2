@@ -1,0 +1,970 @@
+HN1_04_1_01 = ~z~Obediah...
+
+HN1_04_1_02 = ~z~The darkness...
+
+HN1_04_1_03 = ~z~Who're you?
+
+HN1_04_1_04 = ~z~Demons...
+
+HN1_04_1_05 = ~z~Devil.
+
+HN1_04_1_06 = ~z~You.
+
+HN1_04_1_07 = ~z~Quiet... voices.
+
+HN1_04_1_08 = ~z~
+
+HN1_04_1_09 = ~z~
+
+HN1_04_1_10 = ~z~
+
+HN1_04_1_11 = ~z~
+
+HN1_04_1_12 = ~z~Shh... shh...
+
+PW2_H1_01 = ~z~They're hounding the hogs!
+
+PW2_H1_02 = ~z~Get away, demons.
+
+PW2_H1_03 = ~z~Look at their eyes. They're devils.
+
+PW2_H1_04 = ~z~Not my hogs, you devils.
+
+PW2_H2_01 = ~z~Die, you devils!
+
+PW2_H2_02 = ~z~Kill the pig killers...
+
+PW2_H2_03 = ~z~Damn them! Oh Lord...
+
+PW2_H_M_A_1 = ~z~Shit. There's more alright.
+
+PW2_H_M_J_1 = ~z~Shit. There's more alright.
+
+PW2_H_PI_A_1 = ~z~They're killing my pigs! Help!
+
+PW2_H_PI_A_2 = ~z~Stay inside. Keep your door shut.
+
+PW2_H_PI_J_1 = ~z~They're killing my pigs! Help!
+
+PW2_H_PI_J_2 = ~z~Stay inside. Keep your door shut.
+
+PW2_H_TA_1 = ~z~Ma'am, you're safe now. I'll see if there's any more of them.
+
+PW2_H_TA_2 = ~z~Thank you, brother.
+
+PW2_H_TA_J_1 = ~z~Ma'am, you're safe now. I'll see if there's any more of them.
+
+PW2_H_TA_J_2 = ~z~Thank you, brother.
+
+PW2_R1_01 = ~z~Away from me, devils.
+
+PW2_R1_02 = ~z~Back I say.
+
+PW2_R1_03 = ~z~Help me!
+
+PW2_R1_04 = ~z~Oh, Lord above.
+
+PW2_R1_05 = ~z~Damned beasts.
+
+PW2_R1_A_1 = ~z~Thank the Lord.
+
+PW2_R1_A_2 = ~z~Brother, over here!
+
+PW2_R1_B_1 = ~z~There. On the bridge.
+
+PW2_R1_B_2 = ~z~Brother Kain!
+
+PW2_R_A1_1 = ~z~You two. Back to the village. I'll keep these dogs at bay.
+
+PW2_R_A1_J_1 = ~z~You two. Back to the village. I'll keep these dogs at bay.
+
+PW2_R_D_1 = ~z~Sent by the devil.
+
+PW2_R_D_2 = ~z~Pray, brother Kain.
+
+PW2_R_D_3 = ~z~Brother I am.
+
+PW2_R_D_4 = ~z~Oh lord.
+
+PW2_R_D_5 = ~z~Lord.
+
+PW2_R_D_6 = ~z~He sent us salvation.
+
+PW2_R_F4_1 = ~z~Praise be, brother. I didn't think I would make it.
+
+PW2_R_F7_1 = ~z~Oh no, a demon. Help us!
+
+PW2_R_FF_1 = ~z~More! They've found us!
+
+PW2_R_FR_01 = ~z~Help!
+
+PW2_R_FR_02 = ~z~Lord deliver us!
+
+PW2_R_FR_03 = ~z~You shall not drag us down to hell!
+
+PW2_R_FR_A_1 = ~z~I'm coming!
+
+PW2_R_FR_J_1 = ~z~I'm coming!
+
+PW2_R_M_A_1 = ~z~Shit. Hold on.
+
+PW2_R_M_J_1 = ~z~Shit. Hold on.
+
+PW5_MD_A_01 = ~z~Shit.
+
+PW5_MD_A_02 = ~z~No. Shit.
+
+PW5_MD_A_03 = ~z~No.
+
+PW5_MD_A_04 = ~z~Please, come on.
+
+PW5_MD_A_05 = ~z~No. No.
+
+PW5_MD_A_06 = ~z~Damnit, no.
+
+PW5_MD_J_01 = ~z~Shit.
+
+PW5_MD_J_02 = ~z~No. Shit.
+
+PW5_MD_J_03 = ~z~No.
+
+PW5_MD_J_04 = ~z~Please, come on.
+
+PW5_MD_J_05 = ~z~No. No.
+
+PW5_MD_J_06 = ~z~Damnit, no.
+
+PW5_ME_A_01 = ~z~Shit.
+
+PW5_ME_A_02 = ~z~Come on.
+
+PW5_ME_A_03 = ~z~Got to go somewhere.
+
+PW5_ME_A_04 = ~z~
+
+PW5_ME_A_05 = ~z~
+
+PW5_ME_A_06 = ~z~Come on, come on.
+
+PW5_ME_A_07 = ~z~Goddamn.
+
+PW5_ME_J_01 = ~z~Shit.
+
+PW5_ME_J_02 = ~z~Come on.
+
+PW5_ME_J_03 = ~z~Got to go somewhere.
+
+PW5_ME_J_04 = ~z~
+
+PW5_ME_J_05 = ~z~
+
+PW5_ME_J_06 = ~z~Come on, come on.
+
+PW5_ME_J_07 = ~z~Goddamn.
+
+PW5_ML_A_1 = ~z~Light? Light.
+
+PW5_ML_J_1 = ~z~~sl:0.0:1.0:1~Light?
+
+PW5_MW_A_1 = ~z~Where's this runoff heading huh?
+
+PW5_MW_J_1 = ~z~Where's this runoff heading huh?
+
+RHNTN_1_LFCALL_01 = ~z~Please! Help!
+
+RHNTN_1_LFCALL_02 = ~z~You! Please!
+
+RHNTN_1_LFCALL_03 = ~z~Need help!
+
+RHNTN_1_LFCALL_04 = ~z~Help! Me!
+
+RHNTN_1_LFLOC_01 = ~z~Uhhh... Butcher's Creek...
+
+RHNTN_1_LFLOC_02 = ~z~Butcher's... Creek...
+
+RHNTN_S1_EXT_1 = ~z~Please sit, please, sir.
+
+RHNTN_S1_EXT_2 = ~z~Lemuel he not well, sir.
+
+RHNTN_S1_EXT_3 = ~z~You got anything for me?
+
+RHNTN_S1_EXT_4 = ~z~Oh yeah, of course, sir...
+
+RHNTN_S1_EXT_5 = ~z~love and friendship in the darkness.
+
+RHNTN_S1_EXT_6 = ~z~What else are there?
+
+RHNTN_S1_EXT_7 = ~z~Obediah Hinton, that's me.
+
+RHNTN_S1_EXT_8 = ~z~Love and friendship...
+
+RHNTN_S1_EXT_9 = ~z~friendship and love.
+
+RHNTN_S1_EXT_10 = ~z~We're not a rich village, sir...
+
+RHNTN_S1_EXT_11 = ~z~but with love...
+
+RHNTN_S1_EXT_12 = ~z~rich.
+
+RHNTN_S1_EXT_13 = ~z~We thank you.
+
+RHNTN_S1_EXT_14 = ~z~You got anything for me?
+
+RHNTN_S1_EXT_15 = ~z~Okay.
+
+RHNTN_S1_IG1_1A_1 = ~z~It's in me!
+
+RHNTN_S1_IG1_1A_2 = ~z~
+
+RHNTN_S1_IG1_1J_1 = ~z~It's in me!
+
+RHNTN_S1_IG1_1J_2 = ~z~
+
+RHNTN_S1_IG1_2A_1 = ~z~
+
+RHNTN_S1_IG1_2A_2 = ~z~
+
+RHNTN_S1_IG1_2A_3 = ~z~
+
+RHNTN_S1_IG1_2J_1 = ~z~
+
+RHNTN_S1_IG1_2J_2 = ~z~
+
+RHNTN_S1_IG1_2J_3 = ~z~
+
+RHNTN_S1_IG1_3A_1 = ~z~
+
+RHNTN_S1_IG1_3A_2 = ~z~
+
+RHNTN_S1_IG1_3J_1 = ~z~
+
+RHNTN_S1_IG1_3J_2 = ~z~
+
+RHNTN_S1_IG1_4A_1 = ~z~
+
+RHNTN_S1_IG1_4A_2 = ~z~
+
+RHNTN_S1_IG1_4J_1 = ~z~
+
+RHNTN_S1_IG1_4J_2 = ~z~
+
+RHNTN_S1_INT_1 = ~z~It's in me...
+
+RHNTN_S1_INT_2 = ~z~they're in me.
+
+RHNTN_S1_INT_3 = ~z~You're not well, friend. ~n~~m~Butcher's Creek...
+
+RHNTN_S1_INT_4 = ~z~Butcher's Creek...
+
+RHNTN_S1_INT_5 = ~z~Butcher's Creek...
+
+RHNTN_S1_INT_6 = ~z~Where?
+
+RHNTN_S1_INT_7 = ~z~Butcher's Creek.
+
+RHNTN_S1_INT_8 = ~z~That where you're from?
+
+RHNTN_S1_INT_9 = ~z~Butcher's Creek...
+
+RHNTN_S1_INT_10 = ~z~You want me to take you there, or? ~n~~m~They're in me.
+
+RHNTN_S1_INT_11 = ~z~Come on, friend...
+
+RHNTN_S1_INT_12 = ~z~They're in me.
+
+RHNTN_S1_INT_13 = ~z~You're not well, friend.
+
+RHNTN_S1_INT_14 = ~z~Where?
+
+RHNTN_S1_INT_15 = ~z~That where you're from?
+
+RHNTN_S1_INT_16 = ~z~You want me to take you back, or?
+
+RHNTN_S1_INT_17 = ~z~Come on, let me get you home.
+
+RHNTN_S1_INT_CO_1 = ~z~Help! Help!
+
+RHNTN_S1_INT_GA_1 = ~z~You okay?
+
+RHNTN_S1_INT_GA_2 = ~z~Help...help...help!
+
+RHNTN_S1_INT_GA_3 = ~z~You sick, partner?
+
+RHNTN_S1_INT_GJ_1 = ~z~You okay?
+
+RHNTN_S1_INT_GJ_2 = ~z~Help... help!
+
+RHNTN_S1_INT_GJ_3 = ~z~You sick, partner?
+
+RHNTN_S1_INT_PN_1 = ~z~
+
+RHNTN_S1_INT_S1_1 = ~z~
+
+RHNTN_S1_INT_S2_1 = ~z~
+
+RHNTN_S1_MCS1_1 = ~z~Yeah, he seems calmer now.
+
+RHNTN_S1_MCS1_2 = ~z~I found him out in the woods.
+
+RHNTN_S1_MCS1_3 = ~z~Lemuel, sweet Lemuel...
+
+RHNTN_S1_MCS1_4 = ~z~such a nice man, such a good man.
+
+RHNTN_S1_MCS1_5 = ~z~Come here, come on let me help you up.
+
+RHNTN_S1_MCS1_6 = ~z~Since the troubles began, he's just...
+
+RHNTN_S1_MCS1_7 = ~z~he's not the same.
+
+RHNTN_S1_MCS1_8 = ~z~It's in me.
+
+RHNTN_S1_MCS1_9 = ~z~Why's he looking at me funny?
+
+RHNTN_S1_MCS1_10 = ~z~No, he-he's not well, it's...
+
+RHNTN_S1_MCS1_11 = ~z~it's-it's the darkness...
+
+RHNTN_S1_MCS1_12 = ~z~he said it's...
+
+RHNTN_S1_MCS1_13 = ~z~the darkness.
+
+RHNTN_S1_MCS1_14 = ~z~Who said it's the darkness?
+
+RHNTN_S1_MCS1_15 = ~z~Well the village is...
+
+RHNTN_S1_MCS1_16 = ~z~Thank you, sir...
+
+RHNTN_S1_MCS1_17 = ~z~th-thank you for Lem...
+
+RHNTN_S1_MCS1_18 = ~z~It's in me! In me!
+
+RHNTN_S1_MCS1_19 = ~z~Seems calmer now.
+
+RHNTN_S1_MCS1_20 = ~z~I found him out in the woods.
+
+RHNTN_S1_MCS1_21 = ~z~Why's he looking at me funny?
+
+RHNTN_S1_MCS1_22 = ~z~Who said it's the darkness?
+
+RHNTN_S1_MSC1_1_1 = ~z~Ah, Lemuel!
+
+RHNTN_S1_MSC1_1_2 = ~z~You found Lemuel! Well, come, come, come here!
+
+RHNTN_S1_MSC1_A_1 = ~z~He was in some distress...
+
+RHNTN_S1_MSC1_J_1 = ~z~He was in some distress...
+
+RHNTN_S2IG3_P2A_1 = ~z~They's got Kain... they's got brother Kain...
+
+RHNTN_S2IG3_P2A_2 = ~z~Where?
+
+RHNTN_S2IG3_P2A_3 = ~z~Over there!
+
+RHNTN_S2IG3_P2A_4 = ~z~Alright, I'll handle this... come on!
+
+RHNTN_S2IG3_P2J_1 = ~z~They's got Kain... they's got brother Kain...
+
+RHNTN_S2IG3_P2J_2 = ~z~Where?
+
+RHNTN_S2IG3_P2J_3 = ~z~Over there!
+
+RHNTN_S2IG3_P2J_4 = ~z~Alright, I'll handle this... come on!
+
+RHNTN_S2_EXT_1 = ~z~It ain't nice...
+
+RHNTN_S2_EXT_2 = ~z~get yourselves home.
+
+RHNTN_S2_EXT_3 = ~z~No, no, no, he said...
+
+RHNTN_S2_EXT_4 = ~z~he said they would come in many forms...
+
+RHNTN_S2_EXT_5 = ~z~and he, and he said his protection would come in...
+
+RHNTN_S2_EXT_6 = ~z~many forms.~n~~m~Many forms.
+
+RHNTN_S2_EXT_7 = ~z~What are you talking about?
+
+RHNTN_S2_EXT_8 = ~z~Just sick dogs...
+
+RHNTN_S2_EXT_9 = ~z~hydrophobia, or...
+
+RHNTN_S2_EXT_10 = ~z~some other poison.
+
+RHNTN_S2_EXT_11 = ~z~He said, we were not to doubt him.
+
+RHNTN_S2_EXT_12 = ~z~Not to doubt him.
+
+RHNTN_S2_EXT_13 = ~z~Get your people home, mister.
+
+RHNTN_S2_EXT_14 = ~z~Then get yourself a gun...
+
+RHNTN_S2_EXT_15 = ~z~shoot any sick animals you see.
+
+RHNTN_S2_EXT_16 = ~z~Life'll be just fine.
+
+RHNTN_S2_EXT_17 = ~z~The darkness has come for us.
+
+RHNTN_S2_EXT_18 = ~z~The darkness.~n~~m~The darkness.
+
+RHNTN_S2_EXT_19 = ~z~He was right.
+
+RHNTN_S2_EXT_20 = ~z~Who was right?
+
+RHNTN_S2_EXT_21 = ~z~I was.
+
+RHNTN_S2_EXT_22 = ~z~Protect us from evil.~n~~m~Protect us.
+
+RHNTN_S2_EXT_23 = ~z~Please protect us from evil.~n~~m~Protect us from evil.
+
+RHNTN_S2_EXT_24 = ~z~Save us.~n~~m~Protect us from the evil.
+
+RHNTN_S2_EXT_25 = ~z~Protect us from the evil.
+
+RHNTN_S2_EXT_26 = ~z~I shall save them.
+
+RHNTN_S2_EXT_27 = ~z~And who are you?
+
+RHNTN_S2_EXT_28 = ~z~There'll be no more four legged demons...
+
+RHNTN_S2_EXT_29 = ~z~the curse shall change.
+
+RHNTN_S2_EXT_30 = ~z~The curse has changed.
+
+RHNTN_S2_EXT_31 = ~z~What curse?
+
+RHNTN_S2_EXT_32 = ~z~These poor people...
+
+RHNTN_S2_EXT_33 = ~z~I will save you.
+
+RHNTN_S2_EXT_34 = ~z~I just saved 'em...
+
+RHNTN_S2_EXT_35 = ~z~and it weren't no curse, just sick dogs.
+
+RHNTN_S2_EXT_36 = ~z~Dark charms possess the woods...
+
+RHNTN_S2_EXT_37 = ~z~I told you.
+
+RHNTN_S2_EXT_38 = ~z~H-he did, he told me, he did, he told me.
+
+RHNTN_S2_EXT_39 = ~z~I found one.
+
+RHNTN_S2_EXT_40 = ~z~That?
+
+RHNTN_S2_EXT_41 = ~z~Don't touch it!
+
+RHNTN_S2_EXT_42 = ~z~He found the curse!
+
+RHNTN_S2_EXT_43 = ~z~He found it.
+
+RHNTN_S2_EXT_44 = ~z~So...
+
+RHNTN_S2_EXT_45 = ~z~The woods are full of these.
+
+RHNTN_S2_EXT_46 = ~z~While they remain...
+
+RHNTN_S2_EXT_47 = ~z~the curse will remain.
+
+RHNTN_S2_EXT_48 = ~z~Oh, the curse.~n~~m~The curse.
+
+RHNTN_S2_EXT_49 = ~z~Yet, the woods are also full of demons.
+
+RHNTN_S2_EXT_50 = ~z~I will find a way.
+
+RHNTN_S2_EXT_51 = ~z~Have I lied to you thus?
+
+RHNTN_S2_EXT_52 = ~z~He never lied to me.
+
+RHNTN_S2_EXT_53 = ~z~No.~n~~m~No, that's right.
+
+RHNTN_S2_EXT_54 = ~z~Come, Obediah...
+
+RHNTN_S2_EXT_55 = ~z~feed me.
+
+RHNTN_S2_EXT_56 = ~z~So you're saying...
+
+RHNTN_S2_EXT_57 = ~z~someone destroys all the charms...
+
+RHNTN_S2_EXT_58 = ~z~the curse is lifted?
+
+RHNTN_S2_EXT_59 = ~z~The woods are full of demons...
+
+RHNTN_S2_EXT_60 = ~z~and the demons protect the charms...
+
+RHNTN_S2_EXT_61 = ~z~and the charms protect the demons.
+
+RHNTN_S2_EXT_62 = ~z~It's impossible.
+
+RHNTN_S2_EXT_63 = ~z~I-I can see that it's impossible.
+
+RHNTN_S2_EXT_64 = ~z~There aint no demons.
+
+RHNTN_S2_EXT_65 = ~z~Don't disturb the woods.
+
+RHNTN_S2_EXT_66 = ~z~I told you...
+
+RHNTN_S2_EXT_67 = ~z~he would come...
+
+RHNTN_S2_EXT_68 = ~z~and he would help...
+
+RHNTN_S2_EXT_69 = ~z~and he would lie.
+
+RHNTN_S2_EXT_70 = ~z~You, you told us.
+
+RHNTN_S2_EXT_71 = ~z~It ain't nice...
+
+RHNTN_S2_EXT_72 = ~z~get yourselves home.
+
+RHNTN_S2_EXT_73 = ~z~W-what are you talking about?
+
+RHNTN_S2_EXT_74 = ~z~It's just sick dogs.
+
+RHNTN_S2_EXT_75 = ~z~Hydrophobia or some other poison.
+
+RHNTN_S2_EXT_76 = ~z~Get your people home, mister.
+
+RHNTN_S2_EXT_77 = ~z~Then get yourself a gun and kill any sick animals you see.
+
+RHNTN_S2_EXT_78 = ~z~Life will be just fine.
+
+RHNTN_S2_EXT_79 = ~z~Who was right?
+
+RHNTN_S2_EXT_80 = ~z~And who are you?
+
+RHNTN_S2_EXT_81 = ~z~What curse?
+
+RHNTN_S2_EXT_82 = ~z~I just saved 'em...
+
+RHNTN_S2_EXT_83 = ~z~and it weren't no curse.
+
+RHNTN_S2_EXT_84 = ~z~It was just sick dogs.
+
+RHNTN_S2_EXT_85 = ~z~That?
+
+RHNTN_S2_EXT_86 = ~z~So...
+
+RHNTN_S2_EXT_87 = ~z~So, you're saying if someone destroys those charms...
+
+RHNTN_S2_EXT_88 = ~z~the curse is lifted?
+
+RHNTN_S2_EXT_89 = ~z~There ain't no demons.
+
+RHNTN_S2_EXT_IA_1 = ~z~It's not demons, it's dogs, gone crazy...
+
+RHNTN_S2_EXT_IJ_1 = ~z~It ain't demons, just dogs gone crazy...
+
+RHNTN_S2_INT_1 = ~z~Be gone, sir.
+
+RHNTN_S2_INT_2 = ~z~Be gone.
+
+RHNTN_S2_INT_3 = ~z~N-not, not because we cares not...
+
+RHNTN_S2_INT_4 = ~z~no, b-but because we cares.
+
+RHNTN_S2_INT_5 = ~z~What are you talking about?
+
+RHNTN_S2_INT_6 = ~z~The demons have us by the throat, sir.
+
+RHNTN_S2_INT_7 = ~z~It's the darkness.
+
+RHNTN_S2_INT_8 = ~z~The darkness, it's, it's, it's everywhere.
+
+RHNTN_S2_INT_9 = ~z~He was right.
+
+RHNTN_S2_INT_10 = ~z~What are you talking about?
+
+RHNTN_S2_INT_11 = ~z~They come...
+
+RHNTN_S2_INT_12 = ~z~in darkness.~n~~m~Help!
+
+RHNTN_S2_INT_13 = ~z~Somebody please help!
+
+RHNTN_S2_INT_14 = ~z~They're coming.
+
+RHNTN_S2_INT_15 = ~z~My pigs!
+
+RHNTN_S2_INT_16 = ~z~Oh, somebody help!
+
+RHNTN_S2_INT_17 = ~z~What are you talking about?
+
+RHNTN_S2_INT_18 = ~z~What are you talking about?
+
+RHNTN_S4_INT_1 = ~z~Who's that?
+
+RHNTN_S4_INT_2 = ~z~Remember me?
+
+RHNTN_S4_INT_3 = ~z~Helped you with some dogs.
+
+RHNTN_S4_INT_4 = ~z~Been seeing about this curse of yours.
+
+RHNTN_S4_INT_5 = ~z~Who's that?
+
+RHNTN_S4_INT_6 = ~z~A friend of mine was here...
+
+RHNTN_S4_INT_7 = ~z~Helped you with some dogs.
+
+RHNTN_S4_INT_8 = ~z~I've been seeing about this curse of yours.
+
+RHNTN_S4_INT_9 = ~z~Welcome, brother.
+
+RHNTN_S4_INT_10 = ~z~It's a dark omen.
+
+RHNTN_S4_INT_11 = ~z~Those charms out in the woods...
+
+RHNTN_S4_INT_12 = ~z~they're all broken.
+
+RHNTN_S4_INT_13 = ~z~All of them?
+
+RHNTN_S4_INT_14 = ~z~So, I guess that's it for your suffering.
+
+RHNTN_S4_INT_15 = ~z~It's a miracle, we're saved.
+
+RHNTN_S4_INT_16 = ~z~The darkness lifted.
+
+RHNTN_S4_INT_17 = ~z~Not saved...
+
+RHNTN_S4_INT_18 = ~z~cursed.
+
+RHNTN_S4_INT_19 = ~z~He... broke the charms...
+
+RHNTN_S4_INT_20 = ~z~and the spirits are set loose.
+
+RHNTN_S4_INT_21 = ~z~W-w-we're doomed then?
+
+RHNTN_S4_INT_22 = ~z~Hold on...
+
+RHNTN_S4_INT_23 = ~z~but you said the charms was protecting the curse.
+
+RHNTN_S4_INT_24 = ~z~I said...
+
+RHNTN_S4_INT_25 = ~z~it was a dark omen.
+
+RHNTN_S4_INT_26 = ~z~I said he had the demon's tongue.
+
+RHNTN_S4_INT_27 = ~z~Now, I-I need, I need some light here now...
+
+RHNTN_S4_INT_28 = ~z~I don't know what to think.
+
+RHNTN_S4_INT_29 = ~z~Hey, look at me.
+
+RHNTN_S4_INT_30 = ~z~I'd think there's something going on in this holler...
+
+RHNTN_S4_INT_31 = ~z~and it ain't a curse...
+
+RHNTN_S4_INT_32 = ~z~and whatever else it ain't...
+
+RHNTN_S4_INT_33 = ~z~this feller don't want you to know.
+
+RHNTN_S4_INT_34 = ~z~Liar!
+
+RHNTN_S4_INT_35 = ~z~I told you he would lie and dissemble.
+
+RHNTN_S4_INT_36 = ~z~Something's up...
+
+RHNTN_S4_INT_37 = ~z~and this one wouldn't be so quick with ideas...
+
+RHNTN_S4_INT_38 = ~z~he didn't have some clue of it.
+
+RHNTN_S4_INT_39 = ~z~I have the gift...
+
+RHNTN_S4_INT_40 = ~z~my ancestors...
+
+RHNTN_S4_INT_41 = ~z~I got a gift myself.
+
+RHNTN_S4_INT_42 = ~z~I'm... going... to commune... with the spirits!
+
+RHNTN_S4_INT_43 = ~z~Dark, dark omens!
+
+RHNTN_S4_INT_44 = ~z~Dark spirits!
+
+RHNTN_S4_INT_45 = ~z~What's he hiding?
+
+RHNTN_S4_INT_46 = ~z~He, he all-he always spoke truthful to us.
+
+RHNTN_S4_INT_47 = ~z~There, there is a dig...
+
+RHNTN_S4_INT_48 = ~z~o-on the other side of the hill there...
+
+RHNTN_S4_INT_49 = ~z~there was a dig anyway, it's closed now.
+
+RHNTN_S4_INT_50 = ~z~He always said something about not going over there.
+
+RHNTN_S4_INT_51 = ~z~Well, maybe I'll go check it out for myself.
+
+RHNTN_S4_INT_52 = ~z~See if I can see anything.
+
+RHNTN_S4_INT_53 = ~z~Alright, alright.
+
+RHNTN_S4_INT_54 = ~z~Remember me?
+
+RHNTN_S4_INT_55 = ~z~I helped with those dogs.
+
+RHNTN_S4_INT_56 = ~z~I been seeing about this curse of yours.
+
+RHNTN_S4_INT_57 = ~z~Those charms...
+
+RHNTN_S4_INT_58 = ~z~out in the woods.
+
+RHNTN_S4_INT_59 = ~z~They all been broken.
+
+RHNTN_S4_INT_60 = ~z~So, I guess that's it for your suffering.
+
+RHNTN_S4_INT_61 = ~z~Hold on...
+
+RHNTN_S4_INT_62 = ~z~you said the charms was protecting the curse.
+
+RHNTN_S4_INT_63 = ~z~Hey, look at me.
+
+RHNTN_S4_INT_64 = ~z~I think something's going on in this holler...
+
+RHNTN_S4_INT_65 = ~z~and it ain't a curse...
+
+RHNTN_S4_INT_66 = ~z~and whatever else it ain't...
+
+RHNTN_S4_INT_67 = ~z~this feller don't want you to know.
+
+RHNTN_S4_INT_68 = ~z~Something's up...
+
+RHNTN_S4_INT_69 = ~z~and this one wouldn't be so quick with ideas...
+
+RHNTN_S4_INT_70 = ~z~he didn't have some clue of it.
+
+RHNTN_S4_INT_71 = ~z~Well I gotta gift right here.
+
+RHNTN_S4_INT_72 = ~z~What is he hiding?
+
+RHNTN_S4_INT_73 = ~z~Well, maybe I'll take a look at that dig.
+
+RHNTN_S4_INT_74 = ~z~See if I can see something.
+
+RHNTN_S4_LI_1 = ~z~Who's that?
+
+RHNTN_S4_LI_A1_1 = ~z~Remember me?
+
+RHNTN_S4_LI_J1_1 = ~z~Remember me?
+
+RHNTN_S5_IG1_A_1 = ~z~This is the dig.
+
+RHNTN_S5_IG1_J_1 = ~z~This is the dig.
+
+RHNTN_S5_IG2_A_1 = ~z~Hey, shoo! Shoo! Get outta here, it ain't safe.
+
+RHNTN_S5_IG2_J_1 = ~z~Shoo! Shoo! Get outta here, it ain't safe.
+
+RHNTN_S5_M1_OA1_1 = ~z~Goddamn you.
+
+RHNTN_S5_M1_OA1_2 = ~z~I'm getting out here!
+
+RHNTN_S5_M1_OJ2_1 = ~z~Goddamn you!
+
+RHNTN_S5_M1_OJ2_2 = ~z~I'm getting out of here!
+
+RHNTN_S5_MCS1_1 = ~z~Cursed alright.
+
+RHNTN_S5_MCS1_2 = ~z~Who's there?
+
+RHNTN_S5_MCS1_3 = ~z~I see you over there!
+
+RHNTN_S5_MCS1_4 = ~z~Game's up!
+
+RHNTN_S5_MCS1_5 = ~z~This is poison in this mine!
+
+RHNTN_S5_MCS1_6 = ~z~Yeah, looks cursed alright.
+
+RHNTN_S5_MCS1_7 = ~z~Yeah.
+
+RHNTN_S5_MCS1_8 = ~z~Who's there?
+
+RHNTN_S5_MCS1_9 = ~z~I see you over there!
+
+RHNTN_S5_MCS1_10 = ~z~The game's up!
+
+RHNTN_S5_MCS1_11 = ~z~There's poison in this mine!
+
+RHNTN_S6_IG1A_1 = ~z~It's in me! It's in me!
+
+RHNTN_S6_IG1B_1 = ~z~The darkness has a hold...
+
+RHNTN_S6_IG1C_1 = ~z~Get it out! Now! Get it out...
+
+RHNTN_S6_IG1D_1 = ~z~Dark spirits... evil omens. It's a curse, set loose!
+
+RHNTN_S6_IG1E_1 = ~z~He came and with him came, the blight!
+
+RHNTN_S6_IG1F_1 = ~z~Evil! Evil...
+
+RHNTN_S6_IG1G_1 = ~z~Evil! Evil!
+
+RHNTN_S6_IG1H_1 = ~z~Pray for me!
+
+RHNTN_S6_INT_1 = ~z~I told you I would save you...
+
+RHNTN_S6_INT_2 = ~z~said I would lead you out of the darkness.
+
+RHNTN_S6_INT_3 = ~z~Show us the light.
+
+RHNTN_S6_INT_4 = ~z~I shall. But first...
+
+RHNTN_S6_INT_5 = ~z~you have to mark your signs on this paper...
+
+RHNTN_S6_INT_6 = ~z~it's a powerful magic...
+
+RHNTN_S6_INT_7 = ~z~that will protect you on your journey.
+
+RHNTN_S6_INT_8 = ~z~I-I-I hereby r-release, absolve, a-and...
+
+RHNTN_S6_INT_9 = ~z~in-indemnify the aforementioned Roanoke Fuel Company.
+
+RHNTN_S6_INT_10 = ~z~Stop reading...
+
+RHNTN_S6_INT_11 = ~z~you didn't tell me you could read.
+
+RHNTN_S6_INT_12 = ~z~Kind of trick you pulling now?
+
+RHNTN_S6_INT_13 = ~z~Oh, you're back...
+
+RHNTN_S6_INT_14 = ~z~we thought the curse had got you.
+
+RHNTN_S6_INT_15 = ~z~Nope, but he nearly did.
+
+RHNTN_S6_INT_16 = ~z~Don't you go nowhere.
+
+RHNTN_S6_INT_17 = ~z~Found this, down the old dig...
+
+RHNTN_S6_INT_18 = ~z~leaking all the way to the lake.
+
+RHNTN_S6_INT_19 = ~z~You've been poisoned.
+
+RHNTN_S6_INT_20 = ~z~n-now w-we-we were warned not to heed what you say.
+
+RHNTN_S6_INT_21 = ~z~Then listen to him say it.
+
+RHNTN_S6_INT_22 = ~z~What's this?
+
+RHNTN_S6_INT_23 = ~z~It's nothing.
+
+RHNTN_S6_INT_24 = ~z~Nothing?
+
+RHNTN_S6_INT_25 = ~z~Then you won't mind drinking it.
+
+RHNTN_S6_INT_26 = ~z~No! No! Please!
+
+RHNTN_S6_INT_27 = ~z~Don't! No!
+
+RHNTN_S6_INT_28 = ~z~You've killed me, I'm poisoned.
+
+RHNTN_S6_INT_29 = ~z~Poison now is it?
+
+RHNTN_S6_INT_30 = ~z~The dig...
+
+RHNTN_S6_INT_31 = ~z~all they found was arsenic and lead.
+
+RHNTN_S6_INT_32 = ~z~They dug down into the cave system...
+
+RHNTN_S6_INT_33 = ~z~it spread...
+
+RHNTN_S6_INT_34 = ~z~I was meant to get you all to go.
+
+RHNTN_S6_INT_35 = ~z~Now you heard it.
+
+RHNTN_S6_INT_36 = ~z~It's taken me!
+
+RHNTN_S6_INT_37 = ~z~Oh dear, dear God...
+
+RHNTN_S6_INT_38 = ~z~there's no arguing, it's clear as day...
+
+RHNTN_S6_INT_39 = ~z~we're cursed.~n~~m~It's the curse.
+
+RHNTN_S6_INT_40 = ~z~Cursed?
+
+RHNTN_S6_INT_41 = ~z~What are you talking about?
+
+RHNTN_S6_INT_42 = ~z~Powerful forces have taken on this town.
+
+RHNTN_S6_INT_43 = ~z~Powerful forces have taken on this town.
+
+RHNTN_S6_INT_44 = ~z~Spirits?
+
+RHNTN_S6_INT_45 = ~z~It's a mining company.
+
+RHNTN_S6_INT_46 = ~z~No, it is spirits...
+
+RHNTN_S6_INT_47 = ~z~spirits talking through a mining company.
+
+RHNTN_S6_INT_48 = ~z~Brothers and sisters, we got some praying to do.
+
+RHNTN_S6_INT_49 = ~z~Pray? Do something...
+
+RHNTN_S6_INT_50 = ~z~you'll die, or worse.
+
+RHNTN_S6_INT_51 = ~z~Just go.
+
+RHNTN_S6_INT_52 = ~z~It's our curse, it's ours to deal with.
+
+RHNTN_S6_INT_53 = ~z~Now the medicine man left some money there...
+
+RHNTN_S6_INT_54 = ~z~just take it if you want it.
+
+RHNTN_S6_INT_55 = ~z~What kind of trick you pulling now?
+
+RHNTN_S6_INT_56 = ~z~Nope, but he nearly did.
+
+RHNTN_S6_INT_57 = ~z~Don't you go nowhere.
+
+RHNTN_S6_INT_58 = ~z~I was down that old dig and I found this...
+
+RHNTN_S6_INT_59 = ~z~leaking all the way into the lake.
+
+RHNTN_S6_INT_60 = ~z~You've been poisoned.
+
+RHNTN_S6_INT_61 = ~z~Well, let him tell you then.
+
+RHNTN_S6_INT_62 = ~z~What's this?
+
+RHNTN_S6_INT_63 = ~z~Nothing?
+
+RHNTN_S6_INT_64 = ~z~Oh, then you won't mind taking a drink.
+
+RHNTN_S6_INT_65 = ~z~Poison now is it?
+
+RHNTN_S6_INT_66 = ~z~Now you heard it.
+
+RHNTN_S6_INT_67 = ~z~Cursed?
+
+RHNTN_S6_INT_68 = ~z~What are you talking about?
+
+RHNTN_S6_INT_69 = ~z~It ain't spirits...
+
+RHNTN_S6_INT_70 = ~z~it's a mining company.
+
+RHNTN_S6_INT_71 = ~z~Don't pray... do something!
+
+RHNTN_S6_INT_72 = ~z~You'll die... or worse.
+
+RHNTN_S6_INT_LI_1 = ~z~I told you I would save you...~n~~m~Yes!
+
+RHNTN_S6_INT_LI_2 = ~z~I said I would lead you out of the darkness...~n~~m~Yes!
+
+RHNTN_S6_INT_LI_3 = ~z~Yes!
+
+RHNTN_S6_INT_LI_4 = ~z~Yes!
+
+RHNTN_S6_INT_LI_5 = ~z~Yes!
+
+RHNTN_S6_INT_LI_6 = ~z~Yes!
+
+RHNTN_S6_INT_LI_7 = ~z~Yes!
+
+RHNTN_S6_INT_LI_8 = ~z~Show us the light!
+
+RHNTN_S6_INT_LI_9 = ~z~Yes!
+
+RHNTN_S6_INT_LI_10 = ~z~Yes!
+
+RHNTN_S6_INT_LI_11 = ~z~Yes!
+
+RHNTN_S6_INT_LI_12 = ~z~Yes!
+
+RHNTN_S6_INT_LI_13 = ~z~Yes!
+
+RHNTN_S6_INT_LI_14 = ~z~I shall.
+

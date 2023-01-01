@@ -1,0 +1,812 @@
+ABI3_BACKGCALL_01 = ~z~It's an important decision, I know.
+
+ABI3_BACKGCALL_02 = ~z~As soon as you've decided we can take it.
+
+ABI3_BACKGCALL_03 = ~z~Pick one of them.
+
+ABI3_BACKGCYCLE_1 = ~z~Just pull the lever there to release the next one.
+
+ABI3_BACKGCYCLE_2 = ~z~It's a weighted system, you see.
+
+ABI3_BACKGCYCLE_3 = ~z~Pulleys.
+
+ABI3_BACKGCYCLE_4 = ~z~Like at the theatre.
+
+ABI3_BACKGCYCLE_5 = ~z~We have quite a number to choose from.
+
+ABI3_BACKGEND_1 = ~z~You've seen all of them. Anything you like?
+
+ABI3_BOAT_1 = ~z~Look there, a boat.
+
+ABI3_BOAT_2 = ~z~Well, ain't that convenient.
+
+ABI3_BOAT_3 = ~z~Let's take it out, huh?
+
+ABI3_BOAT_4 = ~z~If that's what you want.
+
+ABI3_IG1_1 = ~z~You're acting kinda... funny.
+
+ABI3_IG1_2 = ~z~I am "kind of funny."
+
+ABI3_IG1_3 = ~z~~sl:1.0:0.0~Different kinda funny.
+
+ABI3_IG1_4 = ~z~Am I annoying you?
+
+ABI3_IG1_5 = ~z~No...
+
+ABI3_IG1_6 = ~z~I like this version of you, it just... it just ain't you.
+
+ABI3_IG1_7 = ~z~Well, maybe I've changed.
+
+ABI3_IG1_8 = ~z~~sl:0.3:0.0~Finally?
+
+ABI3_IG1_9 = ~z~~sl:0.0:1.0~I don't know.~sl:1.5~Probably not.
+
+ABI3_IG1_10 = ~z~~sl:1.8:0.0~Come along with you.
+
+ABI3_IG4_AGREE_1 = ~z~Of course.
+
+ABI3_IG4_AGREE_2 = ~z~It's the marvel of the age.
+
+ABI3_IG4_AGREE_3 = ~z~~sl:0.1:0.0~I love marvels.
+
+ABI3_IG4_AGREE_4 = ~z~~sl:0.6:1.3~Okay, good.~sl:0.7~Let's go.
+
+ABI3_IG4_AGREE_5 = ~z~~sl:0.0:1.3~Thank you. It's...~sl:0.5~it's real fine doing normal things.
+
+ABI3_PERFECT_01 = ~z~Bravo!
+
+ABI3_PERFECT_02 = ~z~Perfect!
+
+ABI3_POSECHAIR_1 = ~z~Feel free to use the chairs, if you want.
+
+ABI3_POSECHOICE_01 = ~z~Feel free to change your pose.
+
+ABI3_POSECHOICE_02 = ~z~You'll have this portrait forever.
+
+ABI3_POSECHOICE_03 = ~z~You don't want to try anything... more romantic?
+
+ABI3_POSECHOICE_04 = ~z~It's your portrait, make sure you're happy with it.
+
+ABI3_POSECHOICE_05 = ~z~Feeling comfortable?
+
+ABI3_POSECHOICE_06 = ~z~Have a play around and tell me when you're ready.
+
+ABI3_POSECOMM_01 = ~z~Lovely.
+
+ABI3_POSECOMM_02 = ~z~Wonderful.
+
+ABI3_POSECOMM_03 = ~z~That might be the one.
+
+ABI3_POSECOMM_04 = ~z~Oh, I like it.
+
+ABI3_POSECOMM_05 = ~z~Excellent.
+
+ABI3_POSECOMM_06 = ~z~Very good.
+
+ABI3_POSECOMM_07 = ~z~Quite a pose.
+
+ABI3_POSECOMM_08 = ~z~You've done this before.
+
+ABI3_POSECOMM_09 = ~z~So natural. Particularly you, sir.
+
+ABI3_POSES2_01 = ~z~Have you made a decision yet?
+
+ABI3_POSES2_02 = ~z~Really, one pose is as good as any other.
+
+ABI3_POSESTAND_1 = ~z~Is that how you want to stand?
+
+ABI3_POSE_END_1 = ~z~I think you've covered all the permutations.
+
+ABI3_POSE_END_2 = ~z~Is there a pose you were happy with?
+
+ABI3_RSC2_1 = ~z~I had a real fine time, John Marston.
+
+ABI3_RSC2_2 = ~z~So did I...
+
+ABI3_RSC2_3 = ~z~real fine.
+
+ABI3_RSC2_4 = ~z~Come on...
+
+ABI3_RSC2_5 = ~z~let's get this stuff inside.
+
+ABI_IG4_SHOW_1 = ~z~~sl:0.0:1.4~There is one thing I hadn't done.~sl:0.6~I never been to see one of them moving picture shows.
+
+ABI_IG4_SHOW_2 = ~z~Never?
+
+ABI_IG4_SHOW_3 = ~z~No.
+
+ABI_IG4_SHOW_4 = ~z~Well, come on. Let's go do that.
+
+ABI_IG4_SHOW_5 = ~z~You sure?
+
+RABI3_ARGUE_1 = ~z~Be quiet.
+
+RABI3_ARGUE_2 = ~z~No, you be quiet.
+
+RABI3_ARGUE_3 = ~z~Well, I'm having a moment of repose.
+
+RABI3_ARGUE_4 = ~z~Well, you should be working.
+
+RABI3_ARGUE_5 = ~z~I've done my work.
+
+RABI3_ARGUE_6 = ~z~Not how I heard it.
+
+RABI3_ARGUE_7 = ~z~~sl:0.2~You should be grateful.
+
+RABI3_ARGUE_8 = ~z~I'll be grateful when you get off your behind.
+
+RABI3_ARGUE_9 = ~z~~sl:2.4:0.6~Shoo.~sl:1.1~Oh, "shoo myself"...
+
+RABI3_ARGUE_10 = ~z~Shoo yourself.
+
+RABI3_ARRIVE_1 = ~z~I'll just put us here.
+
+RABI3_BGPICK1_1 = ~z~What you think?
+
+RABI3_BGPICK1_2 = ~z~Let's see the others.
+
+RABI3_BGPICK2_1 = ~z~How about this one?
+
+RABI3_BGPICK2_2 = ~z~It's dramatic, ain't it? Let's see what else they got.
+
+RABI3_BGPICK3_1 = ~z~This is pretty.
+
+RABI3_BGPICK3_2 = ~z~Or spooky, maybe. Let's see everything.
+
+RABI3_BGPICK4_1 = ~z~That's nice.
+
+RABI3_BGPICK4_2 = ~z~It's like being back home. Was that all of them?
+
+RABI3_BGPICK5_1 = ~z~~sl:0.0:1.4~This is, uh...~sl:1.6~this is a bar.
+
+RABI3_BGPICK5_2 = ~z~Surely there's a photograph of you in a bar already.
+
+RABI3_BGPICK5_3 = ~z~Look, this was your idea, John. It's up to you.
+
+RABI3_BYE_1 = ~z~Be seeing you.
+
+RABI3_CHAT_1 = ~z~Is there anything you wanna do?
+
+RABI3_CHAT_2 = ~z~You said there was some things we still needed.
+
+RABI3_CHAT_3 = ~z~We can buy them from that catalogue. Let's go have some fun.
+
+RABI3_CHAT_4 = ~z~I know your idea of fun, John Marston.
+
+RABI3_CHAT_5 = ~z~~sl:2.0~I ain't had a drink in... well... I left those things behind me.
+
+RABI3_CHAT_6 = ~z~No, I mean good, wholesome fun. Like, uh... decent folk have.
+
+RABI3_CHAT_7 = ~z~~sl:0.2~We decent, now?
+
+RABI3_CHAT_8 = ~z~I guess.
+
+RABI3_CHAT_9 = ~z~~sl:0.3~Well, decent or not, I still got some errands to run.
+
+RABI3_CHAT_10 = ~z~That's fine.
+
+RABI3_CHAT_11 = ~z~What would you like to do?
+
+RABI3_CHAT_12 = ~z~Maybe get our portrait took for starters.
+
+RABI3_CHAT_13 = ~z~Portrait?
+
+RABI3_CHAT_14 = ~z~There's a feller in town takes photographs.
+
+RABI3_CHAT_15 = ~z~You wanna stare at a portrait of yourself all day long?
+
+RABI3_CHAT_16 = ~z~I hate to break it to you, but you ain't that much to look at.
+
+RABI3_CHAT_17 = ~z~No, I want a picture of us, me and you. Okay?
+
+RABI3_CHAT_18 = ~z~Okay then. Sure... is there anything else you want?
+
+RABI3_CHAT_19 = ~z~~sl:0.4~I don't know... let's just... walk around and see where it takes us.
+
+RABI3_CHAT_20 = ~z~I do have to be back by dinner time.
+
+RABI3_CHAT_21 = ~z~Uncle, Jack, and Charles will manage fine without you.
+
+RABI3_CHAT_22 = ~z~Hell, looking after themselves may even be good for them.
+
+RABI3_CHAT_23 = ~z~~sl:0.5~They'll starve.
+
+RABI3_CHAT_24 = ~z~~sl:0.0:2.0~And that may be good for them too.~sl:0.3~With any luck, Jack and Charles will eat Uncle.
+
+RABI3_CHAT_25 = ~z~~sl:0.5:1.6~Don't get my hopes up...~sl:1.7~so maybe you're right... we'll stay...
+
+RABI3_CHAT_26 = ~z~You know I am.
+
+RABI3_CHAT_27 = ~z~Okay, then. Portrait it is.
+
+RABI3_CHOOSE_01 = ~z~Time to choose, John.
+
+RABI3_CHOOSE_02 = ~z~What's it going to be?
+
+RABI3_CHOOSE_03 = ~z~This is a very important decision, clearly.
+
+RABI3_CIN_1 = ~z~What's playing?
+
+RABI3_CIN_2 = ~z~Something called 'Sketching For Sweetheart', I think.
+
+RABI3_CIN_ARM_1 = ~z~What are you doing with that arm?
+
+RABI3_CIN_ARM_2 = ~z~I thought you might be cold.
+
+RABI3_CIN_ARM_3 = ~z~John...
+
+RABI3_CIN_ARM_4 = ~z~
+
+RABI3_CIN_BUY_01 = ~z~I think you got to buy a ticket.
+
+RABI3_CIN_BUY_02 = ~z~What you waiting for? The show will start.
+
+RABI3_CIN_BUY_03 = ~z~Are we doing this? Buy some tickets.
+
+RABI3_CIN_CHAT1_1 = ~z~It looks so real.
+
+RABI3_CIN_CHAT1_2 = ~z~It's not.
+
+RABI3_CIN_CHAT1_3 = ~z~Don't be such a sourpuss.
+
+RABI3_CIN_CHAT1_4 = ~z~
+
+RABI3_CIN_CHAT2_1 = ~z~Ha. That's women for you.
+
+RABI3_CIN_CHAT2_2 = ~z~Don't you dare, John Marston.
+
+RABI3_CIN_CHAT2_3 = ~z~What? I'm watching.
+
+RABI3_CIN_CHAT2_4 = ~z~Please, shh.
+
+RABI3_CIN_CHAT3_1 = ~z~
+
+RABI3_CIN_CHAT3_2 = ~z~Stop it.
+
+RABI3_CIN_CHAT3_3 = ~z~She's a piece of work.
+
+RABI3_CIN_CHAT3_4 = ~z~Really?
+
+RABI3_CIN_CHAT3_5 = ~z~
+
+RABI3_CIN_CHAT4_1 = ~z~Oh my!
+
+RABI3_CIN_CHAT4_2 = ~z~Is it over?
+
+RABI3_CIN_CHAT4_3 = ~z~I think so.
+
+RABI3_CIN_CHAT4_4 = ~z~Come on.
+
+RABI3_CIN_DAWD_01 = ~z~Are we going?
+
+RABI3_CIN_DAWD_02 = ~z~The picture house is just there.
+
+RABI3_CIN_DAWD_03 = ~z~Come on, John. I'm excited to see it now.
+
+RABI3_CIN_DOOR_1 = ~z~Come in.
+
+RABI3_CIN_HOLD_1 = ~z~Come on in. A mystery awaits.
+
+RABI3_GREET_1 = ~z~Oh, hello.
+
+RABI3_IG3_EARLY_1 = ~z~Well, we've seen it.
+
+RABI3_IG3_EARLY_2 = ~z~Oh no you don't. You brought me here, we're staying till the end.
+
+RABI3_IG3_NOSEN_1 = ~z~It's just incredible. It's like they're really there.
+
+RABI3_IG3_NOSEN_2 = ~z~Hey, I'm trying to watch this.
+
+RABI3_IG3_NOSEN_3 = ~z~John Marston...
+
+RABI3_IG3_SEEN_1 = ~z~Isn't it incredible? It's like they're really there.
+
+RABI3_IG3_SEEN_2 = ~z~Once you seen one of these things, the effect kinda wears off.
+
+RABI3_IG3_SEEN_3 = ~z~You...
+
+RABI3_IG5_ROW_1 = ~z~Let me help you in.
+
+RABI3_IG5_ROW_2 = ~z~Like I said... mighty strange.
+
+RABI3_IG5_ROW_3 = ~z~I like to row.
+
+RABI3_IG5_ROW_4 = ~z~Since when? You can hardly swim.
+
+RABI3_IG5_ROW_5 = ~z~I don't plan on capsizing.
+
+RABI3_IG8_1 = ~z~Thank you.
+
+RABI3_IG9_1 = ~z~Thank you again.
+
+RABI3_IG10_1 = ~z~
+
+RABI3_IG10_2 = ~z~
+
+RABI3_IG10_DRIV_1 = ~z~
+
+RABI3_IG10_DRIV_2 = ~z~
+
+RABI3_LAKECHAT_1 = ~z~I wonder whose boat this is?
+
+RABI3_LAKECHAT_2 = ~z~It don't matter. We'll have it back.
+
+RABI3_LAKECHAT_3 = ~z~I hope they don't think we're...
+
+RABI3_LAKECHAT_4 = ~z~They won't think anything. They'll think we're borrowing it.
+
+RABI3_LAKECHAT_5 = ~z~I hope it don't got leaks or nothing.
+
+RABI3_LAKECHAT_6 = ~z~~sl:0.0:1.7~She's seaworthy, okay.~sl:0.9~Relax. Look around.
+
+RABI3_LAKECHAT_7 = ~z~All I can see is a strange man rowing.
+
+RABI3_LAKECHAT_8 = ~z~~sl:0.0:1.8~I thought he was John Marston, but...~sl:0.2~now I suspect he's been replaced with an imposter.
+
+RABI3_LAKECHAT_9 = ~z~Don't look at me. Look at the sky... the water...
+
+RABI3_LAKECHAT_10 = ~z~Okay... I'm looking...
+
+RABI3_LAKE_1 = ~z~~sl:0.9~Here is good.
+
+RABI3_NOCHOOSE_01 = ~z~Are you gonna show me the others or what?
+
+RABI3_NOCHOOSE_02 = ~z~Is there something wrong with the mechanism?
+
+RABI3_NOCHOOSE_03 = ~z~I think you just got to pull that thing.
+
+RABI3_NOWAGON_01 = ~z~Did you forget something? Come on, silly.
+
+RABI3_NOWAGON_02 = ~z~I thought we was getting on the wagon.
+
+RABI3_PHOTOPOSE_1 = ~z~This is dignified.
+
+RABI3_PHOTOPOSE_2 = ~z~Try to enjoy it.
+
+RABI3_PHOTOPOSE_3 = ~z~I think I'd rather be cleaning the outhouse.
+
+RABI3_PHOTOPOSE_4 = ~z~Be quiet.
+
+RABI3_PHOTOPOSE_5 = ~z~I thought you were a cowboy... not a poseur.
+
+RABI3_PHOTOPOSE_6 = ~z~Oh no... I'm a poseur. I learned from the best...
+
+RABI3_PHOTOPOSE_7 = ~z~That's is true.
+
+RABI3_PHOTO_1 = ~z~How's this?
+
+RABI3_POSE_01 = ~z~Does this work, John?
+
+RABI3_POSE_02 = ~z~I don't know how long I can hold this.
+
+RABI3_POSE_03 = ~z~John.
+
+RABI3_POSE_04 = ~z~John?
+
+RABI3_POSE_05 = ~z~Can we do this, John?
+
+RABI3_POSE_06 = ~z~Please.
+
+RABI3_PRETTY_1 = ~z~Ain't it pretty?
+
+RABI3_PROPOSE_01 = ~z~What is it?
+
+RABI3_PROPOSE_02 = ~z~What you asking?
+
+RABI3_PROPOSE_03 = ~z~John, you can't tease me like that.
+
+RABI3_PROPOSE_04 = ~z~If you're asking something, ask it.
+
+RABI3_RSC1_1 = ~z~You're just lucky I'm a soft touch.
+
+RABI3_RSC1_2 = ~z~I should sling you out by your ear!
+
+RABI3_RSC1_3 = ~z~You always was a cold hearted lizard of a woman.
+
+RABI3_RSC1_4 = ~z~And you always was someone willing to live off the efforts of others.
+
+RABI3_RSC1_5 = ~z~It's walk or work, old man.
+
+RABI3_RSC1_6 = ~z~I've got lumbago.
+
+RABI3_RSC1_7 = ~z~You'll have more than that in a minute.
+
+RABI3_RSC1_8 = ~z~John, tell her about my health.
+
+RABI3_RSC1_9 = ~z~Do what the lady says.
+
+RABI3_RSC1_10 = ~z~I worked my fingers to the bone building this place...
+
+RABI3_RSC1_11 = ~z~Abigail Roberts.
+
+RABI3_RSC1_12 = ~z~Marston!
+
+RABI3_RSC1_13 = ~z~Abigail Marston.
+
+RABI3_RSC1_14 = ~z~Miss Marston to you.
+
+RABI3_RSC1_15 = ~z~"Miss Marston to you."
+
+RABI3_RSC1_16 = ~z~Why you let him stay?
+
+RABI3_RSC1_17 = ~z~He's actually been pretty useful...
+
+RABI3_RSC1_18 = ~z~in a useless sort of way.
+
+RABI3_RSC1_19 = ~z~Who's that?
+
+RABI3_RSC1_20 = ~z~No idea.
+
+RABI3_RSC1_21 = ~z~Friend or foe?
+
+RABI3_RSC1_22 = ~z~We'll soon find out.
+
+RABI3_RSC1_23 = ~z~It's the Geddes boys.
+
+RABI3_RSC1_24 = ~z~From Pronghorn Ranch?
+
+RABI3_RSC1_25 = ~z~Yeah.
+
+RABI3_RSC1_26 = ~z~Mr. Milton, Mr. Milton!
+
+RABI3_RSC1_27 = ~z~Duncan.
+
+RABI3_RSC1_28 = ~z~Sir...
+
+RABI3_RSC1_29 = ~z~Ma found some old furniture in the attic.
+
+RABI3_RSC1_30 = ~z~Pa thought maybe you folks would want it...
+
+RABI3_RSC1_31 = ~z~as a house warming present, you know?
+
+RABI3_RSC1_32 = ~z~They send their regards.
+
+RABI3_RSC1_33 = ~z~How kind they are.
+
+RABI3_RSC1_34 = ~z~Tell your ma and pa we're very touched.
+
+RABI3_RSC1_35 = ~z~Where would you like the furniture?
+
+RABI3_RSC1_36 = ~z~Just... over here, then we can arrange.
+
+RABI3_RSC1_37 = ~z~This is real kind of y'all.
+
+RABI3_RSC1_38 = ~z~You saved the ranch.
+
+RABI3_RSC1_39 = ~z~Pa said this is the least he could do.
+
+RABI3_RSC1_40 = ~z~Well, that's about everything.
+
+RABI3_RSC1_41 = ~z~Send your pa my best regards.
+
+RABI3_RSC1_42 = ~z~Tell him, he's got friends for life in me and my family.
+
+RABI3_RSC1_43 = ~z~Bye, sir.
+
+RABI3_RSC1_44 = ~z~Ma'am.~n~~m~Ma'am.
+
+RABI3_RSC1_45 = ~z~I can't believe this...
+
+RABI3_RSC1_46 = ~z~it's so kind.
+
+RABI3_RSC1_47 = ~z~Sure, but there's still some more things that we need to get.
+
+RABI3_RSC1_48 = ~z~How about we take a ride into town?
+
+RABI3_RSC1_49 = ~z~It's been ages since we spent any time together.
+
+RABI3_RSC1_50 = ~z~It has.
+
+RABI3_RSC1_51 = ~z~Let's go get the wagon.
+
+RABI3_RSC1_LI_1 = ~z~I'll tell you what, woman, was a damn sight more peaceful 'round here, before you came back.
+
+RABI3_RSC1_LI_2 = ~z~You're just lucky I'm a soft touch, I should sling you out by your ear!
+
+RABI3_RSC1_LI_3 = ~z~~sl:0.5~You always was a cold-hearted lizard of a woman.
+
+RABI3_RSC1_LI_4 = ~z~And you always was someone willing to live off the efforts of others...
+
+RABI3_S1_EXT_1 = ~z~Sure, real pretty.
+
+RABI3_S1_EXT_2 = ~z~John Marston, what is wrong with you today?
+
+RABI3_S1_EXT_3 = ~z~Nothing.
+
+RABI3_S1_EXT_4 = ~z~Everything.
+
+RABI3_S1_EXT_5 = ~z~Can I ask you a question?
+
+RABI3_S1_EXT_6 = ~z~Course.
+
+RABI3_S1_EXT_7 = ~z~Will you...
+
+RABI3_S1_EXT_8 = ~z~Will you marry me?
+
+RABI3_S1_EXT_9 = ~z~Get up, I am married to you.
+
+RABI3_S1_EXT_10 = ~z~No, I mean, proper...
+
+RABI3_S1_EXT_11 = ~z~in front of God.
+
+RABI3_S1_EXT_12 = ~z~You serious?
+
+RABI3_S1_EXT_13 = ~z~I got this ring...
+
+RABI3_S1_EXT_14 = ~z~I've had it for a long time.
+
+RABI3_S1_EXT_15 = ~z~Take it.
+
+RABI3_S1_EXT_16 = ~z~You serious?
+
+RABI3_S1_EXT_17 = ~z~It would make me...
+
+RABI3_S1_EXT_18 = ~z~very happy...
+
+RABI3_S1_EXT_19 = ~z~if you would...
+
+RABI3_S1_EXT_20 = ~z~We've lived a lot of lives.
+
+RABI3_S1_EXT_21 = ~z~Let's just live this one from now on.
+
+RABI3_S1_EXT_22 = ~z~You and me, Jack...
+
+RABI3_S1_EXT_23 = ~z~a family, by law.
+
+RABI3_S1_EXT_24 = ~z~John, I...
+
+RABI3_S1_EXT_25 = ~z~I never...
+
+RABI3_S1_EXT_26 = ~z~I didn't know it mattered to you.
+
+RABI3_S1_EXT_27 = ~z~It didn't...
+
+RABI3_S1_EXT_28 = ~z~but now it does.
+
+RABI3_S1_EXT_29 = ~z~If you think this is dumb, I'm...
+
+RABI3_S1_EXT_30 = ~z~I'm sorry.
+
+RABI3_S1_EXT_31 = ~z~Shut up you silly man and kiss me.
+
+RABI3_S1_IG4_1 = ~z~Alright, we better get home.
+
+RABI3_S1_IG4_2 = ~z~Aw, we never get out... the farm'll be fine.
+
+RABI3_S1_IG4_3 = ~z~The farm... I love hearing that.
+
+RABI3_S1_IG4_4 = ~z~Let's go down to the lake for a minute.
+
+RABI3_S1_IG4_5 = ~z~The lake?
+
+RABI3_S1_IG4_6 = ~z~Sure.
+
+RABI3_S1_IG4_7 = ~z~Why? You finally gonna drown yourself?
+
+RABI3_S1_IG4_8 = ~z~In a manner of speaking, I guess, I am. Happily so.
+
+RABI3_S1_IG4_9 = ~z~You're acting real strange...
+
+RABI3_S1_IG4_10 = ~z~No, I'm not, come on.
+
+RABI3_S1_IG4_11 = ~z~You're a silly man, John Marston.
+
+RABI3_S1_IG4_12 = ~z~What ab-what about Jim Milton?
+
+RABI3_S1_IG4_13 = ~z~Oh, he's even worse.
+
+RABI3_S1_IG6_1 = ~z~Ah... this one.
+
+RABI3_S1_IG6_2 = ~z~Wonderful. That will be simply perfect.
+
+RABI3_S1_IG6_3 = ~z~You know, I wish I had the Congo River, but they require grass skirts I couldn't afford them.
+
+RABI3_S1_IG6_4 = ~z~It's just so exotic... stay there, and make a pose that you feel comfortable with.
+
+RABI3_S1_MCS1_1 = ~z~Let me help you down.
+
+RABI3_S1_MCS1_2 = ~z~Why you being so courteous?
+
+RABI3_S1_MCS1_3 = ~z~I don't know.
+
+RABI3_S1_MCS1_4 = ~z~There you go.
+
+RABI3_S1_MCS1_5 = ~z~I'm gonna head to the drapers for a minute.
+
+RABI3_S1_MCS1_6 = ~z~Let me help you down.
+
+RABI3_S1_MCS1_7 = ~z~Why you being so courteous?
+
+RABI3_S1_MCS1_8 = ~z~I don't know.
+
+RABI3_S1_MCS1_9 = ~z~There you go.
+
+RABI3_S1_MCS1_10 = ~z~I'm gonna head to the drapers for a minute.
+
+RABI3_S1_MCS1_11 = ~z~Won't take long, but I need to get some materials.
+
+RABI3_S1_MCS1_12 = ~z~You wanna come with me or wait here?
+
+RABI3_S1_MCS1_13 = ~z~And after that we can go get our photo taken?
+
+RABI3_S1_MCS1_14 = ~z~Yeah, after that we can get our photo taken.
+
+RABI3_S1_MCS1_15 = ~z~Alright, let's get that picture taken...
+
+RABI3_S1_MCS1_16 = ~z~if it means that much to you.
+
+RABI3_S1_MCS1_17 = ~z~It does...
+
+RABI3_S1_MCS1_18 = ~z~today it does.
+
+RABI3_S1_MCS2LI_1 = ~z~Hello, madam, sir.
+
+RABI3_S1_MCS2LI_2 = ~z~Hello, sir.
+
+RABI3_S1_MCS2_1 = ~z~Hello, madam.
+
+RABI3_S1_MCS2_2 = ~z~Sir.
+
+RABI3_S1_MCS2_3 = ~z~Hello, sir.
+
+RABI3_S1_MCS2_4 = ~z~How can I help you?
+
+RABI3_S1_MCS2_5 = ~z~We're...
+
+RABI3_S1_MCS2_6 = ~z~we'd like to get our photo taken.
+
+RABI3_S1_MCS2_7 = ~z~A photo?
+
+RABI3_S1_MCS2_8 = ~z~Yes, yes, that I can help you with...
+
+RABI3_S1_MCS2_9 = ~z~yes...
+
+RABI3_S1_MCS2_10 = ~z~So...
+
+RABI3_S1_MCS2_11 = ~z~what do we do?
+
+RABI3_S1_MCS2_12 = ~z~I'm sorry, what did...
+
+RABI3_S1_MCS2_13 = ~z~what did you want?
+
+RABI3_S1_MCS2_14 = ~z~Our... portrait taken.
+
+RABI3_S1_MCS2_15 = ~z~Oh, well we do that.
+
+RABI3_S1_MCS2_16 = ~z~Yes, wonderful.
+
+RABI3_S1_MCS2_17 = ~z~Handsome couple, quite...
+
+RABI3_S1_MCS2_18 = ~z~something...
+
+RABI3_S1_MCS2_19 = ~z~but you need a background.
+
+RABI3_S1_MCS2_20 = ~z~A background?
+
+RABI3_S1_MCS2_21 = ~z~Yes, we have Niagara Falls...
+
+RABI3_S1_MCS2_22 = ~z~Paris by night.
+
+RABI3_S1_MCS2_23 = ~z~We have Mount Vesuvius and its ruins.
+
+RABI3_S1_MCS2_24 = ~z~We have the open prairie.
+
+RABI3_S1_MCS2_25 = ~z~T-take a, take a look...
+
+RABI3_S1_MCS2_26 = ~z~pick one.
+
+RABI3_S1_MCS4_1 = ~z~Now, give me a minute...
+
+RABI3_S1_MCS4_2 = ~z~I'm going to develop this for you.
+
+RABI3_S1_MCS4_3 = ~z~Wait here.
+
+RABI3_S1_MCS4_4 = ~z~Take your time.
+
+RABI3_S1_MCS4_5 = ~z~What?
+
+RABI3_S1_MCS4_6 = ~z~Nothing, nothing at all.
+
+RABI3_S1_MCS4_7 = ~z~Tough guy.
+
+RABI3_S1_MCS4_8 = ~z~Gunslinger...
+
+RABI3_S1_MCS4_9 = ~z~Excuse me.
+
+RABI3_S1_MCS4_10 = ~z~Nothing, I didn't say anything.
+
+RABI3_S1_MCS4_11 = ~z~I just... posed.
+
+RABI3_S1_MCS4_12 = ~z~Shut up...
+
+RABI3_S1_MCS4_13 = ~z~you know, you're not very nice to me.
+
+RABI3_S1_MCS4_14 = ~z~Oh, I'm nicer than you deserve.
+
+RABI3_S1_MCS4_15 = ~z~True.
+
+RABI3_S1_MCS4_16 = ~z~Here...
+
+RABI3_S1_MCS4_17 = ~z~came out beautifully.
+
+RABI3_S1_MCS4_18 = ~z~Sure.
+
+RABI3_S1_MCS4_19 = ~z~Yeah.
+
+RABI3_S1_MCS4_20 = ~z~Oh, look at that face on you.
+
+RABI3_S1_MCS4_21 = ~z~Be quiet...
+
+RABI3_S1_MCS4_22 = ~z~what do I owe you?
+
+RABI3_S1_MCS4_23 = ~z~Five dollars.
+
+RABI3_S1_MCS4_24 = ~z~There you go.
+
+RABI3_S1_MCS4_25 = ~z~Thank you.
+
+RABI3_S1_MCS4_26 = ~z~I'll see you again.
+
+RABI3_S1_MCS4_27 = ~z~Oh yes, he'll probably come in for a pose...
+
+RABI3_S1_MCS4_28 = ~z~he seemed to enjoy himself.
+
+RABI3_S1_MCS4_29 = ~z~Bye now.
+
+RABI3_SCROLL_01 = ~z~Is there anything else?
+
+RABI3_SCROLL_02 = ~z~You tried pulling that thing again?
+
+RABI3_SCROLL_03 = ~z~Come on, let's see the next one.
+
+RABI3_SCROLL_04 = ~z~What else is there?
+
+RABI3_STOP_01 = ~z~Are we getting our picture took or what?
+
+RABI3_STOP_02 = ~z~I'm following you. The photographer's right there.
+
+RABI3_STOP_03 = ~z~You really are acting funny. Are we doing this?
+
+RABI3_TICKETS_1 = ~z~Two tickets please to see Sketching for Sweetheart.
+
+RABI3_TICKETS_2 = ~z~That'll be fifty cents, please.
+
+RABI3_TICKETS_3 = ~z~Okay... what's it about?
+
+RABI3_TICKETS_4 = ~z~I have no idea...
+
+RABI3_WAGONGO_1 = ~z~And now to Blackwater.
+
+RABI3_WAGONHELP_1 = ~z~May I help you, my lady?
+
+RABI3_WAGONHELP_2 = ~z~~sl:0.5~Oh, John.
+
+RABI3_WAGONWALK_1 = ~z~I feel like we ain't done nothing together like this since... since...
+
+RABI3_WAGONWALK_2 = ~z~Since forever?
+
+RABI3_WAGONWALK_3 = ~z~Maybe not forever, but a long time.
+
+RABI3_WAGONWALK_4 = ~z~We ain't had the time, you know. We've both been working... hard.
+
+RABI3_WAGONWALK_5 = ~z~And now we got something to show for it.
+
+RABI3_WAGONWALK_6 = ~z~The ranch, this life... it's so nice, John.
+
+RABI3_WAGONWALK_7 = ~z~I hope it will only get nicer.
+
+RABI3_WAGON_1 = ~z~Okay. Let's go.
+
+RABI3_WAGON_IN_01 = ~z~Ain't you getting up?
+
+RABI3_WAGON_IN_02 = ~z~If we're getting in the wagon, let's get to it.
+
+RABI3_WAGON_IN_03 = ~z~What you waiting on, John?
+
+RABI3_WHATNOW_1 = ~z~What shall we do now?
+
+RABI3_WHEREGO_1 = ~z~Now, where are you going?
+
+RADI2_REACT_1 = ~z~Oh my.
+

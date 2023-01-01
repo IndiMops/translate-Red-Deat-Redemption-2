@@ -1,0 +1,20 @@
+CFSNL_ACT_1 = ~z~I'm gonna miss them Callander boys, they had fight in 'em.
+
+CFSNL_ACT_2 = ~z~I won't. They were a liability.
+
+CFSNL_ACT_3 = ~z~It's not kind to talk poorly of the dead.
+
+CFSNL_ACT_4 = ~z~Davey Callander was a dangerous fool.
+
+CFSNL_ACT_5 = ~z~I imagine it was his fault things went so bad in Blackwater.
+
+CFSNL_ACT_6 = ~z~I can't remember, I was knocked unconscious almost as things kicked off.
+
+CFSNL_ACT_7 = ~z~What kicked 'em off?
+
+CFSNL_ACT_8 = ~z~We were spotted, or set up... wasn't clear which.
+
+CFSNL_ACT_9 = ~z~I didn't know that.
+
+CFSNL_ACT_10 = ~z~Well... what's done is done, I guess.
+

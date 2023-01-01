@@ -1,0 +1,16 @@
+CMBV1_ACTION_1 = ~z~So, you got tired of making money did you, Black Lung?
+
+CMBV1_ACTION_2 = ~z~Go to hell.
+
+CMBV1_ACTION_3 = ~z~Well, I guess it's true what they say... you can't take it with you...
+
+CMBV1_ACTION_4 = ~z~but Herr Strauss... I thought you liked helping the weak and unfortunate.
+
+CMBV1_ACTION_5 = ~z~You're unfortunate and I don't like helping you.
+
+CMBV1_ACTION_6 = ~z~Very amusing, just try to stop making more trouble for us...
+
+CMBV1_ACTION_7 = ~z~some of us are trying to save folk, not make unnecessary... dramas.
+
+CMBV1_ACTION_8 = ~z~All of you, get back to work!
+

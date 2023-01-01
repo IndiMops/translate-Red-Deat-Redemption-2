@@ -1,0 +1,24 @@
+CJH10_ACTION_A_1 = ~z~Have a drink with me, Karen.
+
+CJH10_ACTION_A_2 = ~z~I'm okay for now.
+
+CJH10_ACTION_A_3 = ~z~Oh... my company's not good enough for you?
+
+CJH10_ACTION_A_4 = ~z~No, but...
+
+CJH10_ACTION_A_5 = ~z~You're too fine and... mighty.
+
+CJH10_ACTION_A_6 = ~z~But Abigail.
+
+CJH10_ACTION_A_7 = ~z~We ain't married, you know...
+
+CJH10_ACTION_A_8 = ~z~Get off of me! You're being an idiot.
+
+CJH10_ACTION_A_9 = ~z~
+
+CJH10_ACT_B_ALT_1 = ~z~Am I being an idiot?
+
+CJH10_ACT_B_ALT_2 = ~z~Yes.
+
+CJH10_ACT_B_ALT_3 = ~z~I thought so...
+

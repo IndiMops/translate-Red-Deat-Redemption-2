@@ -1,0 +1,40 @@
+FETCH_PRISONER_ASSASSINATION_GOTO = Доберитесь до конвоя.
+
+FETCH_PRISONER_ASSASSINATION_HELP_INTRO = Чтобы получить полную награду, перехватите конвой ~1b~ и убейте заключенного за отведенное время.
+
+FETCH_PRISONER_ASSASSINATION_HELP_OBJECTIVE_ESCAPING = Заключенный ~1b~ ушел слишком далеко и скоро сможет скрыться.
+
+FETCH_PRISONER_ASSASSINATION_HELP_OBJECTIVE_ESCAPING_ON_FOOT = Заключенный ~1b~ сбежал из тюремной повозки. Убейте его до того, как он скроется.
+
+FETCH_PRISONER_ASSASSINATION_HELP_REMAINING_ATTACKERS = Заключенный убит. Уничтожьте оставшихся ~COLOR_ENEMY~охотников за головами~s~.
+
+FETCH_PRISONER_ASSASSINATION_HELP_UNLOCK_VEHICLE_APPROACH = Устраните охотников за головами, чтобы добраться до заключенного ~1b~, находящегося в повозке.
+
+FETCH_PRISONER_ASSASSINATION_OBJ_DESTROY = Убейте ~COLOR_MP_OBJECTIVE_ENEMY~заключенного~s~.
+
+FETCH_PRISONER_ASSASSINATION_OBJ_KILL_ATTACKERS = Убейте ~COLOR_ENEMY~охотников за головами~s~.
+
+FETCH_PRISONER_ASSASSINATION_OBJ_KILL_ATTACKERS_REMAINING = Убейте оставшихся ~COLOR_ENEMY~охотников за головами~s~.
+
+FETCH_PRISONER_ASSASSINATION_OBJ_LEAVE_AREA = Покиньте ~COLOR_ENEMY~область~s~.
+
+FETCH_PRISONER_ASSASSINATION_OBJ_LEAVE_AREA_POSSE = Дождитесь, пока ваш отряд покинет ~COLOR_ENEMY~область~s~.
+
+FETCH_PRISONER_ASSASSINATION_SCORETIMER_PRIMARY_PASS = Игрок ~1~ убил заключенного
+
+FETCH_PRISONER_ASSASSINATION_SCORETIMER_PRIMARY_PASS_NP = Заключенный был убит
+
+FETCH_PRISONER_ASSASSINATION_SCORETIMER_PRIMARY_PASS_YOU = Вы убили заключенного
+
+FETCH_PRISONER_ASSASSINATION_SCORETIMER_PRIMARY_PASS_YOUR = Ваш отряд убил заключенного
+
+FETCH_PRISONER_ASSASSINATION_SCORETIMER_TRIGGER_ACTION = Игрок ~1~ оповестил ~COLOR_ENEMY~охотников за головами~s~
+
+FETCH_PRISONER_ASSASSINATION_SHARD_DESC_PRIMARY = Убейте ~COLOR_MP_OBJECTIVE_ENEMY~заключенного~s~
+
+FETCH_PRISONER_ASSASSINATION_SHARD_DESC_SECONDARY = Помогите заключенному выжить
+
+FETCH_PRISONER_ASSASSINATION_SHARD_OVER = Заключенный выжил
+
+FETCH_PRISONER_ASSASSINATION_SHARD_PRIMARY_PASS = Заключенный убит
+

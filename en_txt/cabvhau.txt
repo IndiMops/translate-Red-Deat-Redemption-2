@@ -1,0 +1,50 @@
+CAMB_BVH_ARMY_1 = ~z~So this train...army payroll, you say?
+
+CAMB_BVH_ARMY_2 = ~z~That's right, and lots of it. This'll be worth it.
+
+CAMB_BVH_ARMY_3 = ~z~I sure hope so.
+
+CAMB_BVH_CLEAN_1 = ~z~You sure we need all these folks for this?
+
+CAMB_BVH_CLEAN_2 = ~z~Not at all...like I said, we'll be cleaning house soon enough.
+
+CAMB_BVH_DUTCH_1 = ~z~You boys alright?
+
+CAMB_BVH_DUTCH_2 = ~z~Yep.
+
+CAMB_BVH_DUTCH_3 = ~z~Reckon so.
+
+CAMB_BVH_DUTCH_4 = ~z~You need anything, you let me know.
+
+CAMB_BVH_DUTCH_5 = ~z~Appreciate it
+
+CAMB_BVH_GIRLS_1 = ~z~So what's the story with these girls? They in service?
+
+CAMB_BVH_GIRLS_2 = ~z~Don't even bother. They're all long spoiled.
+
+CAMB_BVH_JOB_1 = ~z~This place is miserable. When's this job happening, Micah?
+
+CAMB_BVH_JOB_2 = ~z~Soon, Joe, very soon. It'll be worth it, I promise you.
+
+CAMB_BVH_MISER_1 = ~z~Miserable bunch, ain't they?
+
+CAMB_BVH_MISER_2 = ~z~They sure are... they've all had a free ride for far too long.
+
+CAMB_BVH_RAT_1 = ~z~Sure sounds like you got a rat round here.
+
+CAMB_BVH_RAT_2 = ~z~Me and Dutch reckon we know who it is... I'll tell you later. Too many flapping ears.
+
+CAMB_BVH_TRAIN_1 = ~z~So this train job, how much you thinking we'll clear?
+
+CAMB_BVH_TRAIN_2 = ~z~Should be around twenty thousand, I reckon. It'll be a real good cut.
+
+CAMB_BVH_TRAIN_3 = ~z~I like the sound of that.
+
+CAMB_BVH_UTP1_1 = ~z~You hear about Skinny and Maddy? Both got killed over in Big Valley.
+
+CAMB_BVH_UTP1_2 = ~z~I did. Real shame, I always liked those two.
+
+CAMB_BVH_WOOD_1 = ~z~Looks like you got a lot of dead wood round here.
+
+CAMB_BVH_WOOD_2 = ~z~Yes, that will all be getting burned very soon.
+

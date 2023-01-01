@@ -1,0 +1,28 @@
+CDNJ7_ACTION_A_1 = ~z~Mr. Marston.
+
+CDNJ7_ACTION_A_2 = ~z~Dutch.
+
+CDNJ7_ACTION_A_3 = ~z~Oh, it's nice to see you happy.
+
+CDNJ7_ACTION_A_4 = ~z~Happy?
+
+CDNJ7_ACTION_A_5 = ~z~Playing at family... it's beautiful.
+
+CDNJ7_ACTION_A_6 = ~z~Why are you being strange with me?
+
+CDNJ7_ACTION_A_7 = ~z~Just... remember... the gang comes first...
+
+CDNJ7_ACTION_A_8 = ~z~we fight for each other... that's all I'm saying.
+
+CDNJ7_ACTION_A_9 = ~z~I don't... I don't really know what you're talking about.
+
+CDNJ7_ACTION_A_10 = ~z~No... no... I'm just being silly... odd...
+
+CDNJ7_ACTION_A_11 = ~z~You know me... and I know you.
+
+CDNJ7_ACTION_A_12 = ~z~I know you.
+
+CDNJ7_ACTION_B_1 = ~z~What's his problem?
+
+CDNJ7_ACTION_B_2 = ~z~I have no idea.
+

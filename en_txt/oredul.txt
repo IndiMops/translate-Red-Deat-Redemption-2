@@ -1,0 +1,4 @@
+NB_DUEL_BOUNTY_HUNTER_NAME = Bounty Hunter
+
+NB_DUEL_TARGET_NAME = Target
+

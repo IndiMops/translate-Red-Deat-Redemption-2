@@ -1,0 +1,156 @@
+0x038D6EBC = ~z~Come on now, let me take you in without a fight.
+
+0x04720151 = ~z~Help me out here, ain't you got something to say?
+
+0x05E5DAD6 = ~z~I'm done paying you my mind.
+
+0x1BB9AB1A = ~z~Mind your path, now.
+
+0x2DFFC212 = ~z~Fix your ways friend, that ain't no way to treat folks.
+
+0x3C92837C = ~z~What exactly is your business in these parts?
+
+0x3D86ECD6 = ~z~Hey now, stop that.
+
+0x3F6FF09C = ~z~Damn it, you stop now.
+
+0x4BC18E65 = ~z~Let's put this damn bastard in the ground.
+
+0x4C6065D1 = ~z~Damn it, get the hell out of here now.
+
+0x4D9A575D = ~z~Stay still.
+
+0x5B3E87EC = ~z~Hey now, what's all this trouble?
+
+0x5C4BF4C0 = ~z~Don't you dare move.
+
+0x5FA104F8 = ~z~Hey, get a move on now.
+
+0x5FD085E8 = ~z~Ain't sure why, but you just look guilty to me.
+
+0x7BA2D704 = ~z~Go on get outta here, you.
+
+0x8A12DA6C = ~z~Could be nothing, but my gut says you had a hand in this.
+
+0x8B4BADB1 = ~z~That's right, keep walking
+
+0x8E680F53 = ~z~Oh good God, no.
+
+0x9CBBF5FC = ~z~Get those goddamn hands up.
+
+0x9E82B785 = ~z~Get on down here, now.
+
+0x9FC8C095 = ~z~Guess you're free to go, then.
+
+0x17FA0741 = ~z~Citizens here been cut down everywhere you look recently. I need answers. Reckon you might give 'em to me.
+
+0x18E01656 = ~z~Why don't you point them eyes elsewhere?
+
+0x21FEFF61 = ~z~You forget something? Why you still here?
+
+0x34CB8E2A = ~z~This don't have to be hard, just come along quietly.
+
+0x34F48674 = ~z~Stop there, I got some questions.
+
+0x51E4D74F = ~z~Alright.
+
+0x62CBAF81 = ~z~You hear me? Stop now.
+
+0x66C3C4F0 = ~z~Someone kill this asshole!
+
+0x75FCFCEB = ~z~Hey. I'm gonna have to ask you to leave.
+
+0x83F2FF4E = ~z~Cave in his skull!
+
+0x84BD6F8C = ~z~You better treat people right, you hear me?
+
+0x87A02BCA = ~z~You just hang on, I wanna talk to you.
+
+0x89DE2FAF = ~z~I will shoot your teeth clean out of your head.
+
+0x417D2E06 = ~z~You keep moving and I will kill you where you stand.
+
+0x460D4517 = ~z~This is it, let's drop 'em.
+
+0x510A2386 = ~z~I swear, I don't need none of your shit right now.
+
+0x674BDEDF = ~z~Clear out and give me some room.
+
+0x760F77F7 = ~z~Damn lucky shooting your mouth off ain't a crime.
+
+0x1435B5CC = ~z~Just what the hell is your problem?
+
+0x3741BAE8 = ~z~Whoa now, you better give this more thought.
+
+0x5455E1A8 = ~z~That's them, we gotta put a stop to it.
+
+0x6859A4A3 = ~z~You see what took place here?
+
+0x9705CBE3 = ~z~Oh. Put the damn gun down, I mean it.
+
+0x51628C45 = ~z~Hold on a sec, let me take a good look at ya.
+
+0x63166ABF = ~z~Come on now, give up and make it easy on yourself.
+
+0x67254FBC = ~z~You better cooperate or else.
+
+0x96742BC4 = ~z~Goddammit, you come with me, now.
+
+0x2083420C = ~z~All right then, be on your way.
+
+0x63337172 = ~z~Last chance. You keep still unless you got a deathwish.
+
+0x63451062 = ~z~Hey now, no cause for that.
+
+0x74656136 = ~z~Come on. Just between us, you know something don't you?
+
+0xA29E00A1 = ~z~What are you doing hanging around?
+
+0xA82CB9D8 = ~z~Whoa, I ain't quite done. Let's see your face.
+
+0xA86BCFB3 = ~z~Alright, you piece of trash. You're coming with me.
+
+0xA206E4F8 = ~z~You move again and I'll make you regret it.
+
+0xAD723AA2 = ~z~You better be making trails quick.
+
+0xADFDC029 = ~z~Think about this now, come along easy.
+
+0xAE591936 = ~z~Hands up, now.
+
+0xAFC1806D = ~z~You deaf? Stop right where you are.
+
+0xB3763ADB = ~z~Any idea what went on here?
+
+0xBB3CD583 = ~z~Stop that now, you hear?
+
+0xBB385003 = ~z~Get those goddamn hands high.
+
+0xC02A6482 = ~z~No need to make things any worse, just come with me.
+
+0xC5EF1940 = ~z~You need help with that attitude?
+
+0xC8CFAF76 = ~z~Hey. Drawing on me is a bad idea, I promise you.
+
+0xCBA3B0B8 = ~z~Hands up or I swear to God I will shoot you.
+
+0xCD14F3BC = ~z~I wanna see those hands in the air, you heard me.
+
+0xD80EE7B8 = ~z~'Scuse me – are you unwell?
+
+0xDC46D47F = ~z~Oh, you are just begging to be shot.
+
+0xE235DDDC = ~z~I'm telling you, get them hands up or you're done for.
+
+0xEFD576C3 = ~z~Hustle on your way now.
+
+0xF7C48338 = ~z~Test me again and I will knock your teeth in.
+
+0xF159565A = ~z~Hey there, look out.
+
+0xFC1C2DB9 = ~z~You'll answer for this.
+
+0xFD94007A = ~z~Ain't no good reason for you to follow me.
+
+0xFE6C88B3 = ~z~Hey. Show some respect, hear?
+

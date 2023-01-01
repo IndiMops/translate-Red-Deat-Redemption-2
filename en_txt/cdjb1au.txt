@@ -1,0 +1,48 @@
+CDJB1_ACTION_1 = ~z~How you boys keeping?
+
+CDJB1_ACTION_2 = ~z~Good.
+
+CDJB1_ACTION_3 = ~z~Them scars still pretty raw.
+
+CDJB1_ACTION_4 = ~z~New ones or the old ones?
+
+CDJB1_ACTION_5 = ~z~Exactly.
+
+CDJB1_ACTION_6 = ~z~Oh, Marston, you are so tough with them scars...
+
+CDJB1_ACTION_7 = ~z~How'd you get them scars, John? Being tough...
+
+CDJB1_ACTION_8 = ~z~I ain't tough. I'm either... stupid or slow and I cannot decide which.
+
+CDJB1_ACTION_9 = ~z~Either way, I keep getting caught.
+
+CDJB1_ACTION_10 = ~z~We all get caught eventually, John, I guess the trick is to decide by who.
+
+CDJB1_ACTION_11 = ~z~What do you mean?
+
+CDJB1_ACTION_12 = ~z~Seems like you've been getting caught by a few things. Not just wolves and knives.
+
+CDJB1_ACTION_13 = ~z~Ain't nothing ever caught me, Dutch, didn't wanna eat me.
+
+CDJB1_ACTION_14 = ~z~Well exactly, I think that's the point.
+
+CDJB1_ACTION_15 = ~z~Listen... I didn't get these scars falling over in church.
+
+CDJB1_ACTION_16 = ~z~Not yet you didn't.
+
+CDJB1_ACTION_17 = ~z~Just what do you mean, Dutch?
+
+CDJB1_ACTION_18 = ~z~Jack... Jack, come to bed... come to bed now...
+
+CDJB1_ACTION_19 = ~z~I guess I should be going to bed.
+
+CDJB1_ACTION_20 = ~z~Don't you be an arrogant son of a bitch, John, you're better than that...
+
+CDJB1_ACTION_21 = ~z~Love gets us all in the end, you be grateful it got you.
+
+CDJB1_ACTION_22 = ~z~That man talks drivel sometimes.
+
+CDJB1_ACTION_23 = ~z~I guess...
+
+CDJB1_ACTION_24 = ~z~I wish I had a scar.
+

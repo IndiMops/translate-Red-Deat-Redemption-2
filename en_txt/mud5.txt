@@ -1,0 +1,124 @@
+0xAE47B655 = Bank teller
+
+0xD78C6E26 = Follow ~o~Bill~s~, ~o~Karen~s~ and ~o~Lenny~s~
+
+MUD5_BLOW = Blow up Safes
+
+MUD5_BTOPIC1 = Plan
+
+MUD5_BTOPIC2 = Back to Valentine?
+
+MUD5_BTOPIC3 = Cornwall problem?
+
+MUD5_BTOPIC4 = Need to move fast
+
+MUD5_CODES = Crack Safes
+
+MUD5_CRACK = Crack
+
+MUD5_F_DOWNES = You attacked the Downes.
+
+MUD5_GANG_ABANDON = The gang was abandoned.
+
+MUD5_GANG_RETURN = Return to ~o~Bill~s~~s~
+
+MUD5_HARLOT = Harlot
+
+MUD5_H_BEAT = Threaten the bank teller by hitting him or shooting next to him.
+
+MUD5_H_EXP = Get to cover before dynamite explodes.
+
+MUD5_H_MASK01 = To equip a bandana hold ~INPUT_OPEN_WHEEL_MENU~ , press ~INPUT_SELECT_NEXT_WHEEL~ and then select a bandana from the Item Wheel.
+
+MUD5_H_MASK02 = Bandanas and masks will conceal your identity during the robbery.
+
+MUD5_KTOPIC1 = Good to have you along
+
+MUD5_KTOPIC2 = Grays and Braithwaites
+
+MUD5_KTOPIC3 = Remember that Tuscon bank?
+
+MUD5_KTOPIC4 = Are you ready?
+
+MUD5_LAW = The law were alerted.
+
+MUD5_LIGHT = Light Fuse
+
+MUD5_LOST = Lost Girl
+
+MUD5_LTOPIC1 = How do you feel about this?
+
+MUD5_LTOPIC2 = Gang at Shady Belle
+
+MUD5_LTOPIC3 = Skip the saloon this time?
+
+MUD5_LTOPIC4 = What's the plan again?
+
+MUD5_O_ATB = Approach the ~o~bank door~s~
+
+MUD5_O_BOM = Wait for dynamite to explode~s~
+
+MUD5_O_BTV = Plant dynamite on the ~o~safes~s~
+
+MUD5_O_CHS = Choose how to open the safes~s~
+
+MUD5_O_CTL = Collect the ~o~loot~s~
+
+MUD5_O_DWN = Ride to ~o~Downes Ranch~s~
+
+MUD5_O_EFV = Escape the law with ~o~Bill~s~, ~o~Karen~s~ and ~o~Lenny~s~
+
+MUD5_O_ENT = Enter the bank~s~
+
+MUD5_O_EXP = Light the fuse~s~
+
+MUD5_O_FGH = Fight your way out of Valentine~s~
+
+MUD5_O_FLW = Follow the ~o~gang~s~ to the bank~s~
+
+MUD5_O_FTT = Force the ~o~teller~s~ to open the vault~s~
+
+MUD5_O_GNG = Wait for the gang to mount up~s~
+
+MUD5_O_GTH = Get to the ~o~horses~s~
+
+MUD5_O_OPN = Crack open the ~o~safes~s~
+
+MUD5_O_OTD = Open the ~o~teller's door~s~
+
+MUD5_O_RTN = Pick ~o~Karen's~s~ routine~s~
+
+MUD5_O_RTV = Follow ~o~Bill~s~ to Valentine~s~
+
+MUD5_O_RWG = Regroup with ~o~Bill~s~, ~o~Karen~s~ and ~o~Lenny~s~
+
+MUD5_O_SGN = Wait for Karen's signal~s~
+
+MUD5_O_VLT = Enter the vault~s~
+
+MUD5_ROB = Loot
+
+MUD5_ROBF = The bank robbery was abandoned.
+
+MUD5_ROBKILLF = You killed innocents.
+
+MUD5_SAFE = Safe
+
+MUD5_SHOTF = The townfolk were alerted.
+
+MUD5_TELLER = The bank teller has died.
+
+MUD5_TRAINF = You did not make it past the train.
+
+MUD5_TUT_P1 = Walk up to a safe and hold ~INPUT_CONTEXT_RT~ to plant dynamite on the safe door.
+
+MUD5_TUT_P3 = Walk up to a safe with planted dynamite on it and hold ~INPUT_CONTEXT_Y~ to light the planted dynamite's fuse.
+
+MUD5_TUT_P5 = Walk up to a safe and press ~INPUT_CONTEXT_Y~ to rob the safe.
+
+MUD5_TUT_P7 = As you rotate the safe dial, rotation on ~INPUTGROUP_MOVE~ will slow down the closer you are to the correct safe number.
+
+MUD5_TUT_P7_KM = As you rotate the safe dial, rotation using ~INPUT_RADIAL_MENU_NAV_LR~ will slow down the closer you are to the correct safe number.
+
+MUD5_VALF = You returned to Valentine.
+

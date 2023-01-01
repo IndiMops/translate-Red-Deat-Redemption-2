@@ -1,0 +1,92 @@
+CRP06_AM_MP005_01 = ~z~~sl:0.0:4.8~I've seen a lot of people roaming about the woods with strange flashing devices lately.~sl:~Ain't sure what's going on with that...
+
+CRP06_AM_MP005_02 = ~z~~sl:0.0:3.6~Have you heard about all these bounty hunters roaming around recently?~sl:~I don't know where they're all coming from...
+
+CRP06_AM_MP005_03 = ~z~~sl:0.0:3.3~You know, I keep hearing talk about this traveling mystic...~sl:0.0:2.7~uh, Madam Bazaar or something like that.~sl:~Seems to have folks running around after her left and right.
+
+CRP06_AM_MP005_04 = ~z~~sl:0.0:3.2~So... what is it with all these folks out digging 'round here?~sl:0.0:2.1~Is there some lost treasure I ain't aware of?~sl:0.5~Feels like everyone and their uncle's got a shovel of late...
+
+CRP06_AM_MP005_05 = ~z~~sl:0.0:3.8~Okay, you won't believe this crazy feller I ran into the other day...~sl:0.0:3.5~Begged me to take a photograph of him next to a wolf...~sl:~said he was trying to impress some lady. Well, the wolf had other ideas!
+
+CRP06_AM_MP005_06 = ~z~~sl:0.0:3.6~Can you believe I've come across two graverobbers just in the last week?~sl:0.3~I thought that was a dying art, no pun intended.
+
+CRP06_AM_NMOON_01 = ~z~Hey, uh, have you read that letter yet?
+
+CRP06_AM_NMOON_02 = ~z~Oh, uh, did you get that note I wrote ya?
+
+CRP06_AM_NMOON_03 = ~z~~sl:0.0:1.7~Don't forget that letter I sent.~sl:~I have something I think you'll be interested in.
+
+CRP06_AM_NMOON_04 = ~z~~sl:0.0:2.9~So, I still wanna set up a meeting with an old friend of mine.~sl:~It's all in that note I sent ya?
+
+CRP06_AM_RAMBLE_01 = ~z~So... has Maggie, uh... mentioned me at all?
+
+CRP06_AM_RAMBLE_02 = ~z~~sl:0.0:3.1~Oh, I was thinking I might pay a visit to Maggie's place,~sl:~just to see how it's all going, you know.
+
+CRP06_AM_RAMBLE_03 = ~z~~sl:0.0:3.8~Whatever that Maggie Fike's been saying about me, it's all lies.~sl:0.3~Most of it, anyway.
+
+CRP06_AM_RAMBLE_04 = ~z~~sl:0.0:2.6~Give Maggie my regards when you next see her, will ya?~sl:~Quite a woman, that one, quite a woman indeed.
+
+CRP06_AM_REMIND_1 = ~z~~sl:0.0:1.7~Alright, I'm just going to say it.~sl:~I know you've got your fingers in a few other pies now, and that's fine...
+
+CRP06_AM_REMIND_2 = ~z~just don't forget to make time for our business too.
+
+CRP06_AM_XMASTR_01 = ~z~I think the tree definitely adds a certain something, don't you?
+
+CRP06_AM_XMASTR_02 = ~z~~sl:0.0:1.1~Tree looks good.~sl:~Nothing wrong with a bit of festive spirit every now and again.
+
+CRP06_AM_XMAS_01 = ~z~~sl:0.0:3.8~You know, is it any wonder I drink so much during the festive season?~sl:0.4~It's the only way to get through the damn cold.
+
+CRP06_AM_XMAS_02 = ~z~~sl:0.0:1.8~Now I just wanna say, uh...~sl:0.0:3.4~I'm not expecting more than a token gift for yuletide this year.~sl:~Now, please don't go to too much trouble.
+
+CRP06_AM_YMOON_01 = ~z~Hey there. Hope things are going well with Maggie.
+
+CRP06_AM_YMOON_02 = ~z~How's the moonshine business treating ya?
+
+CRP06_AM_YMOON_03 = ~z~If it ain't my favorite moonshiner.
+
+CRP06_AM_YMOON_04 = ~z~Hi there. I assume, uh, miss Fike's keeping you busy?
+
+CRP06_GF_BYE_01 = ~z~Good luck out there.
+
+CRP06_GF_BYE_02 = ~z~See you soon.
+
+CRP06_GF_BYE_03 = ~z~I'll see you later then.
+
+CRP06_GF_BYE_04 = ~z~Take care.
+
+CRP06_GF_BYE_05 = ~z~Bye for now.
+
+CRP06_GF_BYE_06 = ~z~Watch yourself out there.
+
+CRP06_GF_FAMILR_01 = ~z~You know, I'm getting quite used to having you around.
+
+CRP06_GF_FAMILR_02 = ~z~Ah, you're back.
+
+CRP06_GF_FAMILR_03 = ~z~Hey, good to see you.
+
+CRP06_GF_FAMILR_04 = ~z~Welcome back.
+
+CRP06_GF_FAMILR_05 = ~z~Well, look who it is.
+
+CRP06_GF_FAMILR_06 = ~z~The wanderer returns...
+
+CRP06_GF_TRADER_01 = ~z~~sl:0.0:3.1~Told ya this business malarkey was a piece of cake, didn't I?~sl:~We are flying high now.
+
+CRP06_GF_TRADER_02 = ~z~~sl:0.0:3.1~You know, I don't know why I didn't start this business years ago.~sl:~We're going all the way to the top, you and me.
+
+CRP06_GF_TRADER_03 = ~z~That's my partner! Best traders in the West.
+
+CRP06_GF_TRADER_04 = ~z~~sl:0.0:3.7~Now, I have to say... I think we were both born to be entrepreneurs.~sl:~Way things have been going, there's no stopping us.
+
+CRP06_GF_UPGRDE_01 = ~z~~sl:0.0:2.1~I like the addition you made to camp.~sl:~A little change is always a good thing.
+
+CRP06_GF_UPGRDE_02 = ~z~~sl:0.0:1.7~I like what you've done with the camp.~sl:~Doesn't take much to brighten the place up a bit.
+
+CRP06_PA_DOG_01 = ~z~I never thought I'd say this, but... that thing is growing on me.
+
+CRP06_PA_DOG_02 = ~z~They're dumb, but they are loyal, I gotta say.
+
+CRP06_PA_DOG_03 = ~z~I think me and that dog have finally come to something of an understanding.
+
+CRP06_PA_DOG_04 = ~z~~sl:0.0:2.3~You know, that mutt ain't so bad.~sl:~So long as it don't try and lick me again.
+

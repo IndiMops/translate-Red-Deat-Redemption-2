@@ -1,0 +1,6 @@
+NBEGP_H_FAIL = The nearby collectible Bird Eggs have been eaten.
+
+NBEGP_H_INVESTIGATE = Investigate the sound ~COLOR_FRIENDLY~~BLIP_AMBIENT_COMPANION~~s~ and use Eagle Eye ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to highlight anything interesting nearby.
+
+NBEGP_H_INVESTIGATE_KM = Investigate the sound ~COLOR_FRIENDLY~~BLIP_AMBIENT_COMPANION~~s~ and use Eagle Eye ~INPUT_SPECIAL_ABILITY~ to highlight anything interesting nearby.
+

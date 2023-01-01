@@ -1,0 +1,178 @@
+SPSOT_IG1_A_1 = ~z~Welcome to Tumbleweed, son.
+
+SPSOT_IG1_A_2 = ~z~Treat us with respect and we'll love you like family. Misbehave and we'll slaughter you like a hog.
+
+SPSOT_IG1_A_3 = ~z~That clear, boy?
+
+SPSOT_IG1_A_4 = ~z~I said, is that clear boy?
+
+SPSOT_IG1_B_1 = ~z~Enjoy your time here, people. Enjoy it safely. Enjoy it respectfully and we shall respect you.
+
+SPSOT_IG1_C_1 = ~z~Enjoy your day, people, and enjoy it safely.
+
+SPSOT_IG1_D_1 = ~z~People... please obey the rules. From law and order good things follow.
+
+SPSOT_IG1_D_2 = ~z~From disobedience, only death shall be your reward.
+
+SPSOT_IG1_E_1 = ~z~All of you, this is Tumbleweed. We are the end of the civilized world.
+
+SPSOT_IG1_E_2 = ~z~Anarchy exists just outside this town... but here... here, life is good.
+
+SPSOT_IG1_E_3 = ~z~And life is good because we follow the rules.
+
+SPSOT_IG1_E_4 = ~z~Disobedience will be fatal.
+
+SPSOT_IG1_E_5 = ~z~None of you... none of you forget that.
+
+SPSOT_IG1_F_1 = ~z~This is a law abiding town, my friends. We follow the rules.
+
+SPSOT_IG1_F_2 = ~z~We live the rules. The rules make us happy.
+
+SPSOT_IG1_F_3 = ~z~The rules are America. America is a land of laws. I am the arbiter of the law. I am the rules.
+
+SPSOT_IG1_F_4 = ~z~And in this town, the rule of law shall be absolute. I hope that is clear.
+
+SPSOT_IG1_G_1 = ~z~I hope you're all having a wonderful day today. A wonderful, law abiding day.
+
+SPSOT_IG1_G_2 = ~z~We are building a great civilization out here in the desert.
+
+SPSOT_IG1_G_3 = ~z~And what is the hallmark of civilization, my friends? Let me tell you...
+
+SPSOT_IG1_G_4 = ~z~The hallmark is obedience to the law. The law is king. The law is emperor.
+
+SPSOT_IG1_G_5 = ~z~The law is a bastard who will strike you down, and a tender mother who'll nurse you if you let her.
+
+SPSOT_IG1_G_6 = ~z~So it's up to you... what you want from this life, and from your interactions with the law.
+
+SPSOT_IG2_APR1_1 = ~z~You, tough guy... welcome to Tumbleweed.
+
+SPSOT_IG2_APR1_2 = ~z~Make yourself at home. Treat this place with respect and we will respect you.
+
+SPSOT_IG2_APR2_1 = ~z~Here in Tumbleweed, there is one law... my law. The law.
+
+SPSOT_IG2_APR2_2 = ~z~My law is the law, and my law is just and fair, and extremely unforgiving.
+
+SPSOT_IG2_APR2_3 = ~z~Challenge me and you will discover a new definition of justice. My definition.
+
+SPSOT_IG2_A_1 = ~z~We are a law-abiding people here... remember that.
+
+SPSOT_IG2_A_2 = ~z~All of you, remember that the law and only the law, is king.
+
+SPSOT_IG2_B_1 = ~z~Together, we can make Tumbleweed a shining light of American obedience.
+
+SPSOT_IG2_B_2 = ~z~We can bring civilization to this land of dark savagery.
+
+SPSOT_IG2_B_3 = ~z~We, the obedient ones, are the civilized ones. Remember that, all of you!
+
+SPSOT_IG2_C_1 = ~z~God expects obedience. I demand obedience.
+
+SPSOT_IG2_C_2 = ~z~That, my friends is the difference.
+
+SPSOT_IG2_C_3 = ~z~His punishments shall be distributed for all eternity. Mine shall be instant, brief and extremely unfortunate.
+
+SPSOT_IG2_D_1 = ~z~This shall be a land of kindness, gentleness and intelligence.
+
+SPSOT_IG2_D_2 = ~z~In order to get there, I shall insist upon obedience.
+
+SPSOT_IG2_D_3 = ~z~Not to me as a man, but to me as a servant of the law that protects and ennobles us all.
+
+SPSOT_IG2_D_4 = ~z~Do as I say, and you shall all live as in heaven.
+
+SPSOT_IG2_D_5 = ~z~Disobey me, and you alone shall quickly alight in hell.
+
+SPSOT_IG2_E_1 = ~z~I am watching you. Every one of you, all of the time.
+
+SPSOT_IG2_E_2 = ~z~For I am the law and the law is relentless and remorseless in the execution of justice.
+
+SPSOT_IG2_E_3 = ~z~America is a nation of laws and Tumbleweed is an American city.
+
+SPSOT_IG2_E_4 = ~z~You are Americans and as such you shall follow the law, or suffer under its immense power.
+
+SPSOT_IG2_NEG_J_1 = ~z~Yes.
+
+SPSOT_IG2_POS_J_1 = ~z~No.
+
+SPSOT_IG2_POS_J_2 = ~z~No, sir, it is not, correct. No. Behave.
+
+SPSOT_IG2_QUES_1 = ~z~Do I seem like a joke to you? Is that it? Is it?
+
+SPSOT_IG2_WALK_1 = ~z~You walk away from me at your peril, my friend.
+
+SPSOT_IG3_A_1 = ~z~Let me tell you, your only consideration should be... "am I obeying the law?".
+
+SPSOT_IG3_A_2 = ~z~In obeying the law, we venerate America.
+
+SPSOT_IG3_A_3 = ~z~In disobeying it, we challenge its very future.
+
+SPSOT_IG3_A_4 = ~z~Only the fools amongst you shall be dumb enough to challenge America to a fight.
+
+SPSOT_IG3_B_1 = ~z~I am not a violent man. This land awoke in me a thirst for law and order.
+
+SPSOT_IG3_B_2 = ~z~I am a servant of the law and I shall make every one of you in my image.
+
+SPSOT_IG3_B_3 = ~z~Obey the law, or suffer the consequences. Them's the rules here. Don't forget it.
+
+SPSOT_IG3_C_1 = ~z~Anyone... and I mean anyone, who wants to disrupt the good conduct of civilized life in this town, will have me to answer to...
+
+SPSOT_IG3_C_2 = ~z~all are welcome.
+
+SPSOT_IG3_C_3 = ~z~Any form of misbehavior will be punished extremely harshly.
+
+SPSOT_IG3_C_4 = ~z~Do not push me, or you will find out precisely what I mean by harshly.
+
+SPSOT_IG3_DPUSH_1 = ~z~Do not push me, or you will find out precisely what I mean by harshly.
+
+SPSOT_IG3_D_1 = ~z~Remember, people, the law is king. King!
+
+SPSOT_IG3_E_1 = ~z~This is a law-abiding town, all of you, remember that, and give thanks to the Lord your God for that fact.
+
+SPSOT_IG3_PLAYR_1 = ~z~My authority is God-given and God is infinite.
+
+SPSOT_IG3_PLAYR_2 = ~z~Therefore my authority is infinite.
+
+SPSOT_IG3_PLAYR_3 = ~z~If you make that assumption. Your time here shall be enjoyable.
+
+SPSOT_IG3_PLAYR_4 = ~z~If you challenge that assumption, your time here will be brief. As you were.
+
+SPSOT_IG3_TROUB_1 = ~z~Whatever the hell you boys are thinking of doing here, don't.
+
+SPSOT_IG3_TROUB_2 = ~z~I'll kill the lot of you and feed you to the dogs. Do not push me!
+
+SPSOT_IG4_LING1_1 = ~z~No lingering there, partner. This town is a place of business.
+
+SPSOT_IG4_LING2_1 = ~z~Get the hell out of here... now!
+
+SPSOT_IG4_LING3_1 = ~z~You're starting to annoy me, boy.
+
+SPSOT_IG4_LING4_1 = ~z~I don't take kindly to your nonsense.
+
+SPSOT_IG4_LING5_1 = ~z~What are you, boy, dumb or deranged? Either way, get out of here! Get out of my town, now!
+
+SPSOT_IG5_MAJR1_1 = ~z~I will give you five seconds, to get your sorry ass the hell out of my town, boy!
+
+SPSOT_IG5_MAJR2_1 = ~z~Get the hell outta here!
+
+SPSOT_IG5_MAJR3_1 = ~z~You. Get! Now!
+
+SPSOT_IG5_MAJR4_1 = ~z~My reputation for patience is well earned.
+
+SPSOT_IG5_MAJR4_2 = ~z~I have no patience with miscreants or criminals! Get the hell out of my town!
+
+SPSOT_IG5_MINR1_1 = ~z~Hey you... I got my eye on you...
+
+SPSOT_IG5_MINR1_2 = ~z~Make sure you don't give me a reason to put a bullet in your head. Act respectfully here.
+
+SPSOT_IG5_MINR2_1 = ~z~I am watching you, tough guy. I am watching you.
+
+SPSOT_IG5_MINR3_1 = ~z~I'm watching you.
+
+SPSOT_IG5_MI_NT_1 = ~z~I never sleep. Do not think just because it's the middle of the night, you can challenge my authority.
+
+SPSOT_IG5_NORM1_1 = ~z~Hey, you! Don't think I've forgotten about you.
+
+SPSOT_IG5_NORM2_1 = ~z~As far as you're concerned, I am the angel of vengeance. Do not challenge my authority again.
+
+SPSOT_IG5_NORM3_1 = ~z~You, you're back. I remember you. Do not give me cause to put another bullet in your head.
+
+SPSOT_IG5_NORM_1 = ~z~If you've come for trouble again, I recommend leaving. Now.
+

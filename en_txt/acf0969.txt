@@ -1,0 +1,40 @@
+969_AB_BCH_NEG_1 = ~z~But maybe you are proving me wrong?
+
+969_AB_BCH_POS_1 = ~z~See, you know it too.
+
+969_A_1 = ~z~I am from Mexico. I left because my best friend, a man I'd known my whole life, betrayed me.
+
+969_A_2 = ~z~And why am I telling you this? Because often the company of strangers is the best kind.
+
+969_A_3 = ~z~The closer we get, the more cruel we become.
+
+969_BC_BCH_NEG_1 = ~z~Okay, okay, fine. If you don't believe me, I won't continue.
+
+969_BC_BCH_POS_1 = ~z~They say the brother marked the spot where he'd hidden the gold with tree carvings,
+
+969_BC_BCH_POS_2 = ~z~until he was followed there and shot dead by one of the other brothers.
+
+969_BC_BCH_POS_3 = ~z~~sl:0.0:2.6~As far as I know, it's never been found...~sl:0.6~and neither has the body of my best friend.
+
+969_B_1 = ~z~I don't know how well you know the town of, uh, Annesburg... but they tell a story of three brothers.
+
+969_B_2 = ~z~Close as can be, until greed destroyed them.
+
+969_B_3 = ~z~They'd found gold together, but one of them ran off with it all.
+
+969_B_4 = ~z~Now, the three of them lie dead.
+
+969_EXIT_DAY_1 = ~z~Well, I've rested long enough.
+
+969_INTRO_1 = ~z~~sl:0.6~So where are you from, friend?
+
+969_INTRO_END_1 = ~z~Esta bien, you don't need to answer.
+
+969_INTRO_NEG_1 = ~z~Why does that concern you?
+
+969_INTRO_NEG_J_1 = ~z~Why does that concern you?
+
+969_INTRO_POS_1 = ~z~Kinda all over the place.
+
+969_INTRO_POS_J_1 = ~z~Kinda all over the place.
+

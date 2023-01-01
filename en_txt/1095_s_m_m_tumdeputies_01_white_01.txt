@@ -1,0 +1,186 @@
+0x0037068A = ~z~Will you just shut up back there?
+
+0x00F5D405 = ~z~Whoa! You put that gun away.
+
+0x0840578F = ~z~Talk all you want, lady, it won't make no difference.
+
+0x0C2DAF53 = ~z~What's your problem?
+
+0x0D9C6CD2 = ~z~Like we haven't heard that before.
+
+0x0DC0BF74 = ~z~I said, leave! Now get going.
+
+0x0DDCEE17 = ~z~Fine. You're done!
+
+0x0F6F70F8 = ~z~Oh, you're close to making the worst decision of your life.
+
+0x0FA9F4C2 = ~z~I said don't move.
+
+0x2B8AC91B = ~z~Don't mess about, finish this quick.
+
+0x2BAEE44C = ~z~You wanna spend the night in jail, do you?
+
+0x2F1EEBDB = ~z~Clear the road. We need to pass.
+
+0x2FA2083C = ~z~Okay then.
+
+0x3C2978BE = ~z~We will put you down if you don't move right now!
+
+0x3D69207D = ~z~Hey, you ain't supposed to be here.
+
+0x3DFF9C6C = ~z~You cooperate with me or you pay the price.
+
+0x4C5D3927 = ~z~If I don't get your full attention on this, it's gonna end bad.
+
+0x4E709939 = ~z~You know you gotta come with me. Let's do this the easy way.
+
+0x6E85E4E2 = ~z~I won't ask again. Move out of the way!
+
+0x7ACBDA67 = ~z~Your choice... put 'im down!
+
+0x8A1B727F = ~z~We can't risk it. Kill him.
+
+0x8A2DA6E8 = ~z~If they don't shoot up this moment, I'll shoot you down.
+
+0x8FBE74E9 = ~z~I told you. Stay put.
+
+0x9BD824D4 = ~z~Drop it! Don't make this hard on yourself!
+
+0x9C3834C7 = ~z~I'm gonna have to take you in, so let's keep this civil.
+
+0x9EA7B52C = ~z~Stay exactly where you are.
+
+0x9EFAB0D3 = ~z~That's it, you're coming with me.
+
+0x9F1BF4F1 = ~z~Don't do it.
+
+0x9F9CA792 = ~z~No proof, but my gut says you're the one we need.
+
+0x9F46BCEA = ~z~Shut up and keep still.
+
+0x35E793A4 = ~z~That ain't right. You oughta be ashamed of yourself.
+
+0x37CAFBEA = ~z~He's gunning for the prisoner!
+
+0x53B91F50 = ~z~Hold it where you are.
+
+0x58D3F3B5 = ~z~You were one second away from a hole in the chest. Idiot.
+
+0x70A6D428 = ~z~I'm taking you in, one way or the other.
+
+0x73E86C4D = ~z~Drop the gun and surrender! Now!
+
+0x86DCC317 = ~z~You being clever with me?
+
+0x94BAEEAE = ~z~Just as I thought. Gutless.
+
+0x97A85338 = ~z~Are you sure you don't know nothing?
+
+0x177A373E = ~z~So, what exactly happened?
+
+0x248E8DDF = ~z~Where do you think you're going? Need a look at you.
+
+0x587FC38D = ~z~You wanna get shot? Hands up.
+
+0x666D6360 = ~z~You move another inch and I'll end your life right here.
+
+0x672E0BD6 = ~z~Hold it there. We ain't finished with you yet.
+
+0x3943A7E2 = ~z~Just who do you think you're talking to?
+
+0x6549C1EC = ~z~Move along sir, we're on a schedule.
+
+0x8329C6F9 = ~z~Well, shoot!
+
+0x9564E843 = ~z~Hang on a moment, I need to talk to you.
+
+0x12112DBB = ~z~Hey, enough out of you!
+
+0x84369F63 = ~z~What's your problem?
+
+0x433564B4 = ~z~That's him. Now shoot him, here.
+
+0x6689992F = ~z~Are you insane?
+
+0x9876585A = ~z~Hey, you sit down and shut your mouth!
+
+0x32582972 = ~z~Hey, hold on a second there. Let's see you good.
+
+0x49444198 = ~z~Surrender and you'll live!
+
+0x63899819 = ~z~Hey, don't be stupid.
+
+0xA3BE6873 = ~z~It's a breakout, shoot him!
+
+0xA4F7D018 = ~z~That was your last mistake.
+
+0xA45F5233 = ~z~Keep moving. You're blocking the way.
+
+0xA949F67B = ~z~Really? You didn't see anything?
+
+0xAEB045B9 = ~z~You look shifty as hell, that's all the proof I need.
+
+0xB5E394D5 = ~z~Don't make me ask you again. Hands.
+
+0xB246EAB6 = ~z~You gonna pay. Mark me.
+
+0xB6840559 = ~z~Oh, you're giving me a headache!
+
+0xC5A3C10A = ~z~Well then, this is on you!
+
+0xC42FE2F7 = ~z~Be quiet, you ain't going nowhere.
+
+0xC94AA05D = ~z~Move. Now. You've used up my patience.
+
+0xC3945419 = ~z~It's over. Hand yourself in, mister.
+
+0xCAFF47AE = ~z~I'm suspicious as to why you're still around here. Care to explain?
+
+0xCBABE52D = ~z~What business you got around here?
+
+0xCDB1EDB0 = ~z~We got you. Don't make this harder on yourself.
+
+0xCDDD32AF = ~z~You trying to rile me?
+
+0xD1C43A10 = ~z~Move another step and you're dead.
+
+0xD4FF267F = ~z~Sir? Would you mind moving aside?
+
+0xD6EB115C = ~z~Scare believe it.
+
+0xDBF87F4B = ~z~We've had some killings around here of late. You wouldn't know nothing about that, would you?
+
+0xDE6160B6 = ~z~I said leave. Now get going.
+
+0xE5E4C881 = ~z~I'll see you hang!
+
+0xE8C51DA8 = ~z~What the...
+
+0xE9C31AD7 = ~z~Stick 'em up and hold 'em there.
+
+0xE208F114 = ~z~I said quit that.
+
+0xE8455F28 = ~z~Hey, what's all this nonsense, huh?
+
+0xEED586B8 = ~z~I told you to get your darn hands up.
+
+0xF6A0A0AD = ~z~Can you get down from there a second please?
+
+0xF24CFA17 = ~z~Oh, just shut up! Shut up!
+
+0xF26DFBD0 = ~z~Are you trying to rile me?
+
+0xF35D5D3F = ~z~You better stop that.
+
+0xF62CB94D = ~z~You know we've got you. Surrender, now.
+
+0xF293BD75 = ~z~Hello again. You okay?
+
+0xF762770F = ~z~What the heck happened here?
+
+0xFB59BE04 = ~z~Get those hands high in the air.
+
+0xFCF006CF = ~z~You got a problem with the law or something?
+
+0xFE4CD7AA = ~z~Kill him! He's trying to stop the wagon!
+

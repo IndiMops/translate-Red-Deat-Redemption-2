@@ -1,0 +1,42 @@
+CCDH9_ACTA_1 = ~z~How you doing?
+
+CCDH9_ACTA_2 = ~z~Good, brother. How are you feeling?
+
+CCDH9_ACTA_3 = ~z~Much better.
+
+CCDH9_ACTA_4 = ~z~~sl:0.0:1.6~Thought those mountains were going to kill me...~sl:0.4~seems I'll live a while yet.
+
+CCDH9_ACTA_5 = ~z~Oh, I know.
+
+CCDH9_ACTA_6 = ~z~~sl:0.0:1.6~Found a couple things in town...~sl:1.2~made us some money.
+
+CCDH9_ACTA_7 = ~z~You always do.
+
+CCDH9_ACTA_8 = ~z~~sl:0.7:1.4:1~Yes. I'm good at that.
+
+CCDH9_ACTA_9 = ~z~~sl:0.5:1.2~I...~sl:1.8~I messed up in Blackwater.
+
+CCDH9_ACTA_10 = ~z~~sl:0.0:2.3:1~I made a goddamn fool out of myself.
+
+CCDH9_ACTA_11 = ~z~~sl:1.6:1.5:1~You done that before.
+
+CCDH9_ACTA_12 = ~z~I know.
+
+CCDH9_ACTB_1 = ~z~You'll get us out of this.
+
+CCDH9_ACTB_2 = ~z~We are out of this. We need to keep out of it.
+
+CCDH9_ACTB_3 = ~z~So what do you think?
+
+CCDH9_ACTB_4 = ~z~~sl:0.0:2.8~We need to make some money and find ourselves an escape route.~sl:~Same as usual.
+
+CCDH9_ACTB_5 = ~z~~sl:0.0:4.8~But we are making money. And we will find an escape.~sl:0.8~We are gonna be okay.
+
+CCDH9_ACTB_6 = ~z~~sl:0.0:4.8:1~I agree... we'll get some big money and.. get lost.
+
+CCDH9_ACTB_7 = ~z~
+
+CCDH9_ACTB_INT_1 = ~z~Tell him, Arthur. Tell him we're okay now.
+
+CCDH9_ACTB_INT_2 = ~z~~sl:0.4:0.0~We're okay, Dutch. Hosea's right, we're just getting back on our feet.
+

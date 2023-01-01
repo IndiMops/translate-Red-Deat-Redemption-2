@@ -1,0 +1,120 @@
+0x0095EC09 = ~z~Excuse me.
+
+0x0099B755 = ~z~I won't stand for this.
+
+0x05B52BE5 = ~z~Please stop.
+
+0x0750DF13 = ~z~Put that away.
+
+0x08677242 = ~z~Are you responsible for this?
+
+0x0B15CC4D = ~z~I am going to get the police.
+
+0x0C124601 = ~z~Ugh... watch out.
+
+0x0CF6BA6C = ~z~Don't.
+
+0x0D194AF3 = ~z~Stop that this instant.
+
+0x1E189DA4 = ~z~Did you do this?
+
+0x3AFAE103 = ~z~Terrible.
+
+0x5A25E539 = ~z~I don't want to fight you.
+
+0x5BA951FA = ~z~Okay, okay. I promise.
+
+0x5F40CDBA = ~z~I want no trouble. Just go now.
+
+0x6F6E6E15 = ~z~Please. You must leave now.
+
+0x8CE9D6EF = ~z~Be gone.
+
+0x9BEE3780 = ~z~Stay away from me.
+
+0x54C85E48 = ~z~Stop staring.
+
+0x66EB596D = ~z~Please, I don't want any trouble.
+
+0x83D016E8 = ~z~You are too close.
+
+0x87E9AE8A = ~z~Be civilized.
+
+0x95AB4A0D = ~z~Don't harass people.
+
+0x262E975B = ~z~Stop this now.
+
+0x357D35F8 = ~z~There's no need for all that.
+
+0x929DB483 = ~z~Give me some room here.
+
+0x930E3D64 = ~z~Please, stop that.
+
+0x5848CC26 = ~z~You can't be here.
+
+0x15167A9E = ~z~No guns please.
+
+0x19193DCA = ~z~Why did you say that?
+
+0x28648DE6 = ~z~In French: Leave me alone.
+
+0x365708E1 = ~z~Fine, no more of this.
+
+0x528532B0 = ~z~Move.
+
+0x672269D9 = ~z~Get out.
+
+0x3738594D = ~z~My apologies.
+
+0x56226961 = ~z~Go away.
+
+0x81289999 = ~z~Stop that now.
+
+0xA066B23D = ~z~In French: Please, no.
+
+0xA6668D14 = ~z~I should have killed you.
+
+0xAF55291A = ~z~In French: You vile beast.
+
+0xB71BDFA7 = ~z~Please, I beg you.
+
+0xBB3EF8DC = ~z~Please, no.
+
+0xBB39889F = ~z~Alright. Here.
+
+0xBF89FEB7 = ~z~Get away from me.
+
+0xC0611B64 = ~z~I say nothing.
+
+0xC9FF7769 = ~z~Please do not cause any more trouble.
+
+0xC177F4AD = ~z~Please, I have no money.
+
+0xC5810193 = ~z~Don't follow me.
+
+0xCBA7090B = ~z~I am poor. Please.
+
+0xCDBF9B22 = ~z~In French: Ah, get away.
+
+0xD6F3F1E0 = ~z~Yes, you said that.
+
+0xD288276E = ~z~What is this? No.
+
+0xDB9CC965 = ~z~Take this. It's all I have.
+
+0xDB63AA67 = ~z~Yes.
+
+0xDC499BFD = ~z~We do not need any more trouble from you.
+
+0xDD038476 = ~z~You have no heart.
+
+0xDF185B5A = ~z~I have better things to do with my time.
+
+0xE70D57E4 = ~z~Don't make me use this.
+
+0xE606B6EB = ~z~Pardon me.
+
+0xEDE76DFA = ~z~Okay, just take it.
+
+0xFF67AF90 = ~z~You there. Stop that.
+

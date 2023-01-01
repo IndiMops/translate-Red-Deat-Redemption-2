@@ -1,0 +1,18 @@
+BUWG4_ACTION_1 = ~z~How you getting on, John?
+
+BUWG4_ACTION_2 = ~z~Okay... I... you think this is too much?
+
+BUWG4_ACTION_3 = ~z~What?
+
+BUWG4_ACTION_4 = ~z~The ranch... this whole thing, it's... it feels beyond me.
+
+BUWG4_ACTION_5 = ~z~Nonsense! It's easy... even morons are farmers.
+
+BUWG4_ACTION_6 = ~z~Most farmers 'round here go broke... and I know nothing about farming.
+
+BUWG4_ACTION_7 = ~z~You know how to make money.
+
+BUWG4_ACTION_8 = ~z~Not legally... maybe I should go see Sadie again.
+
+BUWG4_ACTION_9 = ~z~Exactly... I mean, she'll put peace and joy back in your troubled heart.
+

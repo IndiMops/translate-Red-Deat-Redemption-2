@@ -1,0 +1,58 @@
+NASRA_CVTLKRAM_01 = ~z~~sl:0.0:4.8~I don't think I've ever met me a critter even half so foul tempered as you.~sl:~And I've strung a swamp croc up by the tail just to see it snap.
+
+NASRA_CVTLKRAM_02 = ~z~~sl:0.0:4.28~Go on, run into cage door again. Maybe you'll punch through it this time!
+
+NASRA_CVTLKRAM_03 = ~z~~sl:0.0:3.27~Far as I'm concerned, y'all ain't nothing but funny-colored sheep.~sl:0.6:1.0~Yeah you heard me.~sl:0.47~What're you gonna do about it?
+
+NASRA_M1DISRU1_1 = ~z~~sl:0.0:1.23~Last thing I need...~sl:0.31~Hard enough getting a day's work done without that thing dropping by.
+
+NASRA_M1DISRU1_2 = ~z~~sl:0.0:0.84~I swear.~sl:0.31~It'd take a run at a bear if it crossed it the wrong way.
+
+NASRA_M1DISRU2_1 = ~z~~sl:0.0:3.0~Where the hell did it come from, that's what I wanna know.~sl:~Ain't like any damn bighorn I've ever seen in these parts.
+
+NASRA_M1DISRU2_2 = ~z~~sl:0.0:3.83~And no bighorn I've ever seen takes a run at a goddamn stagecoach...~sl:1.35~that driver's face, though...
+
+NASRA_M1DISRU3_1 = ~z~~sl:0.0:2.86~“Oh, I'm sure you can handle yourself...~sl:0.0:2.92~Not scared of a jumped-up sheep, are you?"
+
+NASRA_M1DISRU3_2 = ~z~~sl:0.0:2.5~Huh, I'd like to see that blowhard do a day's work~sl:~after he seen a jet black bighorn break a coyote in two like it was nothing...
+
+NASRA_M2CONV1_1 = ~z~~sl:0.0:0.7~Shh.~sl:0.8~I see it.
+
+NASRA_M2CONV1_2 = ~z~Stop shushing and line up your shot.
+
+NASRA_M2CONV2_1 = ~z~There. I got eyes on it.
+
+NASRA_M2CONV2_2 = ~z~~sl:0.0:0.83~We ain't rushing.~sl:0.56~Last thing we need is you getting twitchy... again.
+
+NASRA_M2CONV3_1 = ~z~Alright, there he goes.
+
+NASRA_M2CONV3_2 = ~z~~sl:0.0:1.33~Back of the head, remember.~sl:0.6:2.04~We don't want them horns getting chipped by the bullet...~sl:0.6~nor the hide, neither.
+
+NASRA_M3CAPT_01 = ~z~~sl:0.0:2.74~Are you with those men who passed through? The hunters?~sl:0.75~They went south.
+
+NASRA_M3CAPT_02 = ~z~~sl:0.0:2.1~I bet you're after the bighorn as well, eh?~sl:0.96~Your friends had a good scent... to the south.
+
+NASRA_M3CAPT_03 = ~z~~sl:0.0:3.6~If you don't hurry up your friends will have sold those horns by the time you arrive.~sl:0.83~Keep going south, you might catch them.
+
+NASRA_M3CONV1_1 = ~z~Do you know how hard it's gonna be to get them horns off it?
+
+NASRA_M3CONV1_2 = ~z~~sl:0.0:1.65~Can't say as I've done it before, so...~sl:0.7~no.
+
+NASRA_M3CONV1_3 = ~z~~sl:0.0:1.22~Well, it's hard.~sl:0.2:1.38~They don't just pop off.~sl:0.31~You gotta saw through the whole damn skull around them...
+
+NASRA_M3CONV1_4 = ~z~~sl:0.0:1.71~and a ram skull is mighty thick.~sl:~It's gonna take us a while.
+
+NASRA_M3CONV2_1 = ~z~~sl:1.22~Did you see the way it hit Davy?
+
+NASRA_M3CONV2_2 = ~z~~sl:0.0:1.85~Yeah, and it wasn't funny.~sl:1.0~Poor bastard's bleeding hard.
+
+NASRA_M3CONV2_3 = ~z~Oh, come on, man. The way it got its horn full square up his ass?
+
+NASRA_M3CONV2_4 = ~z~~sl:0.0:2.0~And the way he hollered like a stuck pig?~sl:~You've got no sense of goddamn humor.
+
+NASRA_M3CONV3_1 = ~z~Alright. When the time comes, you're opening the cage.
+
+NASRA_M3CONV3_2 = ~z~~sl:0.0:2.0~Me? Why do I gotta do it?~sl:0.6:1.95~I got the damn thing in there in the first place...~sl:0.47~I got the limp to prove it.
+
+NASRA_M3CONV3_3 = ~z~~sl:0.0:3.0~Well, you got the benefit of experience then, don't you?~sl:~I ain't going in there. Damn thing is crazy.
+

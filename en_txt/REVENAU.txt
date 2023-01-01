@@ -1,0 +1,1346 @@
+REVEN_AGBECKON1_01 = ~z~Get over here now!
+
+REVEN_AGBECKON1_02 = ~z~You there! Hold up!
+
+REVEN_AGBECKON1_03 = ~z~Hold up your wagon! Time for an inspection.
+
+REVEN_AGBECKON1_04 = ~z~Hey! Stop that wagon!
+
+REVEN_AGBECKON1_05 = ~z~Stop that wagon! Gonna see what you have in there.
+
+REVEN_AGBECKON2_01 = ~z~Stop the wagon! Now!
+
+REVEN_AGBECKON2_02 = ~z~You there! Stop the wagon, we're gonna need to see what's in back.
+
+REVEN_AGBECKON2_03 = ~z~You stop that wagon right now! Bureau orders.
+
+REVEN_AGBECKON2_04 = ~z~Hey! Stop those horses! We're doing wagon inspections.
+
+REVEN_AGBECKON2_05 = ~z~You best stop that wagon right now! Gotta do an inspection.
+
+REVEN_AGBECKON3_01 = ~z~Halt right there! Your wagon's getting an inspection.
+
+REVEN_AGBECKON3_02 = ~z~Hold up! Gotta inspect that wagon. Now!
+
+REVEN_AGBECKON3_03 = ~z~Stop right there! Let's see what you're hauling.
+
+REVEN_AGBECKON3_04 = ~z~Alright you, gonna need to inspect what's in that wagon.
+
+REVEN_AGBECKON3_05 = ~z~Stop those horses! Bureau orders to inspect that wagon.
+
+REVEN_AGBECKON4_01 = ~z~Bring that wagon here, and now!
+
+REVEN_AGBECKON4_02 = ~z~Bring that wagon over here for inspection!
+
+REVEN_AGBECKON4_03 = ~z~Gonna inspect that wagon! Bring it here.
+
+REVEN_AGBECKON4_04 = ~z~Stop that wagon! Now.
+
+REVEN_AGBECKON4_05 = ~z~Bring that wagon over! Bureau inspection!
+
+REVEN_AGGRO1_01 = ~z~Slow down there.
+
+REVEN_AGGRO1_02 = ~z~Stop that wagon, now.
+
+REVEN_AGGRO1_03 = ~z~Hey. Stop that wagon.
+
+REVEN_AGGRO1_04 = ~z~You stop that wagon, hear me?
+
+REVEN_AGGRO1_05 = ~z~You need to slow that wagon down, now.
+
+REVEN_AGGRO2_01 = ~z~Slow down your wagon, now.
+
+REVEN_AGGRO2_02 = ~z~Easy that wagon right now.
+
+REVEN_AGGRO2_03 = ~z~Stop your wagon right now.
+
+REVEN_AGGRO2_04 = ~z~Pull over, you hear?
+
+REVEN_AGGRO2_05 = ~z~You best stop that wagon.
+
+REVEN_AGGRO3_01 = ~z~I need you to stop your wagon.
+
+REVEN_AGGRO3_02 = ~z~You better stop that wagon now.
+
+REVEN_AGGRO3_03 = ~z~Stop your wagon.
+
+REVEN_AGGRO3_04 = ~z~Stop up that wagon.
+
+REVEN_AGGRO3_05 = ~z~Hold that wagon right now.
+
+REVEN_AGGRO4_01 = ~z~Easy up that wagon. Now.
+
+REVEN_AGGRO4_02 = ~z~Halt the wagon.
+
+REVEN_AGGRO4_03 = ~z~Pull over.
+
+REVEN_AGGRO4_04 = ~z~Hey! Stop that wagon.
+
+REVEN_AGGRO4_05 = ~z~Hold that wagon immediately.
+
+REVEN_BACKIN1_01 = ~z~Hey, you'll need to step back up in that wagon.
+
+REVEN_BACKIN1_02 = ~z~Stay in the wagon until we're through.
+
+REVEN_BACKIN1_03 = ~z~Can't leave the wagon until we're done here.
+
+REVEN_BACKIN1_04 = ~z~This search isn't over. Back in the wagon.
+
+REVEN_BACKIN2_01 = ~z~Stay in the wagon until I tell you otherwise.
+
+REVEN_BACKIN2_02 = ~z~You need to get back in the wagon. Now.
+
+REVEN_BACKIN2_03 = ~z~Back in the wagon.
+
+REVEN_BACKIN2_04 = ~z~Stay in the wagon. Get me?
+
+REVEN_BACKIN3_01 = ~z~Hey, you can't leave the wagon. Stay put.
+
+REVEN_BACKIN3_02 = ~z~Get back in that wagon!
+
+REVEN_BACKIN3_03 = ~z~Back up, in the wagon.
+
+REVEN_BACKIN3_04 = ~z~Sit in that wagon until I say otherwise.
+
+REVEN_BACKIN4_01 = ~z~You'll need to get back in the wagon, now.
+
+REVEN_BACKIN4_02 = ~z~Sit back in that wagon, right now.
+
+REVEN_BACKIN4_03 = ~z~Back in the wagon.
+
+REVEN_BACKIN4_04 = ~z~Sit back in that wagon immediately.
+
+REVEN_BACKINES1_01 = ~z~You hear me? Back in that wagon, now!
+
+REVEN_BACKINES1_02 = ~z~I warned you. Back in the wagon or you're done for.
+
+REVEN_BACKINES1_03 = ~z~You don't get back in the wagon, I will treat you as a criminal.
+
+REVEN_BACKINES1_04 = ~z~You have been warned. Get in that damn wagon.
+
+REVEN_BACKINES2_01 = ~z~This is not a joke. Get back in the wagon or we open fire.
+
+REVEN_BACKINES2_02 = ~z~You testing me? Back in the wagon I said!
+
+REVEN_BACKINES2_03 = ~z~Back in the wagon! Now!
+
+REVEN_BACKINES2_04 = ~z~Get back in that damn wagon, or you're done!
+
+REVEN_BACKINES3_01 = ~z~You best get back in that wagon, or else!
+
+REVEN_BACKINES3_02 = ~z~You get back in that wagon. Final warning.
+
+REVEN_BACKINES3_03 = ~z~You testing me here? Back in the wagon, now!
+
+REVEN_BACKINES3_04 = ~z~Get back in that wagon immediately!
+
+REVEN_BACKINES4_01 = ~z~You get back in that wagon right now, dammit!
+
+REVEN_BACKINES4_02 = ~z~You don't get back in that wagon, you are finished.
+
+REVEN_BACKINES4_03 = ~z~Okay, I warned you. Back in the wagon.
+
+REVEN_BACKINES4_04 = ~z~This is your final warning. Back in that wagon, now.
+
+REVEN_BANT1_01 = ~z~I just hope these moonshiners try us.
+
+REVEN_BANT1_02 = ~z~Wish I'd more coffee, but... good enough.
+
+REVEN_BANT1_03 = ~z~Where the hell are these moonshiners, anyway?
+
+REVEN_BANT1_04 = ~z~Could use some fresh tobacco, I'll tell you what.
+
+REVEN_BANT1_05 = ~z~Nice out here. Better than the office.
+
+REVEN_BANT2_01 = ~z~~sl:0.9~Getting stiff, waiting...
+
+REVEN_BANT2_02 = ~z~Better not be wasting our time out here...
+
+REVEN_BANT2_03 = ~z~Bureau better pay overtime for this.
+
+REVEN_BANT2_04 = ~z~What I'd give for a fresh shave. Damn.
+
+REVEN_BANT2_05 = ~z~Better be action soon. Getting lazy out here.
+
+REVEN_BANT3_01 = ~z~~sl:0.6~I swear. Chief better not have sent us on a goose chase...
+
+REVEN_BANT3_02 = ~z~Where the hell are these lowlifes?
+
+REVEN_BANT3_03 = ~z~Come on, already... getting sore, waiting.
+
+REVEN_BANT3_04 = ~z~~sl:1.2~Where are these jokers?
+
+REVEN_BANT3_05 = ~z~Y'know... bet the shine's pretty good, this part of the country.
+
+REVEN_BANT4_01 = ~z~Jesus. Could use a bed.
+
+REVEN_BANT4_02 = ~z~Feels like we been here a week already.
+
+REVEN_BANT4_03 = ~z~Think that stew turned on me... damn.
+
+REVEN_BANT4_04 = ~z~How's anyone live out here? Honestly.
+
+REVEN_BANT4_05 = ~z~~sl:0.0:1.8~Where do these moonshiners get off?~sl:0.7~Smug sons of bitches...
+
+REVEN_BANTER1_1 = ~z~Area's going to hell. Straight to hell.
+
+REVEN_BANTER1_2 = ~z~~sl:0.8~You said it.
+
+REVEN_BANTER2_1 = ~z~~sl:0.0:1.7~Can't believe we were sent out here.~sl:0.8~Office must be desperate to stop these stills.
+
+REVEN_BANTER2_2 = ~z~~sl:0.0:3.4~You saw the reports. Guess word's come down.~sl:0.9~Job's a job, no point arguing it.
+
+REVEN_BANTER3_1 = ~z~Say, the chief back your off-work request?
+
+REVEN_BANTER3_2 = ~z~~sl:0.0:2.7~One week out by the coast, just me and the missus.~sl:0.5~Weekend, too. You better believe it.
+
+REVEN_BANTER4_1 = ~z~~sl:0.0:1.7~You know, most of these moonshiners~sl:~end up blowing themselves to hell or poisoning the batch.
+
+REVEN_BANTER4_2 = ~z~Maybe we should just leave 'em to it.
+
+REVEN_BANTER4_3 = ~z~~sl:0.0:2.7~Yeah, but then we'd just have to deal with that mess.~sl:0.3~No matter what, these bastards are giving us work.
+
+REVEN_BANTER5_1 = ~z~~sl:0.0:3.5~You know, one of these days I am gonna beat you at poker.~sl:0.6~And you're gonna pay up.
+
+REVEN_BANTER5_2 = ~z~Please. When it happens, you can worry about what's in my purse.
+
+REVEN_BANTER5_3 = ~z~~sl:0.0:2.7~For now, I'd worry about that idiot grin you have~sl:~whenever you pull a damn pair.
+
+REVEN_BANTER6_1 = ~z~~sl:0.0:2.9~I swear, I better get a raise when we're done on this assignment.~sl:0.5~I've been pulling dog duty for too long.
+
+REVEN_BANTER6_2 = ~z~~sl:0.0:2.5~Dog duty, huh? Well, I'm the one here with you,~sl:~so I'd watch what names you start calling.
+
+REVEN_BANTER7_1 = ~z~~sl:0.0:2.0~So, here's the situation as I see it.~sl:0.9~We've folk all over trying to wring this good country of every cent it has,
+
+REVEN_BANTER7_2 = ~z~~sl:0.0:4.8~and we have us, armed enough and smart enough to stop them.~sl:0.5~I say, why doesn't the Bureau take on these gangs?
+
+REVEN_BANTER7_3 = ~z~Help the Pinkertons and the sheriffs.
+
+REVEN_BANTER7_4 = ~z~~sl:0.0:1.5~You're feeling mighty big, aren't you?~sl:0.6:1.9~Listen, we stop these illegal stills...~sl:~then we can take on the gangs and all the bastards, okay?
+
+REVEN_BANTER8_1 = ~z~It is dull out here. Dull and dead.
+
+REVEN_BANTER8_2 = ~z~~sl:0.0:3.8~Yeah, well? That's the job. Don't worry.~sl:0.5~There'll be something to shoot soon enough, I'm sure.
+
+REVEN_BANTER9_1 = ~z~~sl:0.0:1.0~Ever think that...~sl:1.2:3.0~e-ever think maybe there's life out in space? Like...~sl:0.6~like other humans, from different planets?
+
+REVEN_BANTER9_2 = ~z~~sl:0.0:2.2~You been sampling the shine? Jesus.~sl:0.3~Maybe one too many dime novels.
+
+REVEN_BANTER9_3 = ~z~~sl:0.0:1.4~Other humans?~sl:~Best hope I don't tell the chief about your theory.
+
+REVEN_BANTER10_1 = ~z~You ever been to California? I hear it's pretty.
+
+REVEN_BANTER10_2 = ~z~Yup. It's not.
+
+REVEN_BECKON1_01 = ~z~Hey you, come over here and let us check what you got.
+
+REVEN_BECKON1_02 = ~z~You there! Hold up a minute. We're searching wagons.
+
+REVEN_BECKON1_03 = ~z~Alright traveler, head over for an inspection.
+
+REVEN_BECKON1_04 = ~z~Bureau stop here! Easy up for an inspection.
+
+REVEN_BECKON1_05 = ~z~Hey there. Head over for a minute, we're doing searches.
+
+REVEN_BECKON2_01 = ~z~You over there! Easy up that wagon for a minute.
+
+REVEN_BECKON2_02 = ~z~Easy up on your approach. We're doing searches over here.
+
+REVEN_BECKON2_03 = ~z~You there, hold up those horses. Wagon inspection.
+
+REVEN_BECKON2_04 = ~z~Hey there, gonna need to search that wagon...
+
+REVEN_BECKON2_05 = ~z~Whoa up there, easy. What's in the wagon?
+
+REVEN_BECKON3_01 = ~z~Alright, easy up there. What you got in the back?
+
+REVEN_BECKON3_02 = ~z~Hey there, hold up now. Doing inspections.
+
+REVEN_BECKON3_03 = ~z~You there! Bureau wagon inspections.
+
+REVEN_BECKON3_04 = ~z~Hey now, ease up a minute. Need to check your wagon.
+
+REVEN_BECKON3_05 = ~z~Hold your horses! Head on over for an inspection.
+
+REVEN_BECKON4_01 = ~z~Wagon inspection! Head over for an inspection.
+
+REVEN_BECKON4_02 = ~z~Stop now! Bureau of Internal Revenue inspection.
+
+REVEN_BECKON4_03 = ~z~Easy, easy. Gotta stop the wagon for an inspection.
+
+REVEN_BECKON4_04 = ~z~You there, gonna need to stop this wagon.
+
+REVEN_BECKON4_05 = ~z~Hey there, pull up here so we can take at look at your goods.
+
+REVEN_CALM1_01 = ~z~Slow down there.
+
+REVEN_CALM1_02 = ~z~Easy up.
+
+REVEN_CALM1_03 = ~z~Stop up.
+
+REVEN_CALM1_04 = ~z~Slow that wagon.
+
+REVEN_CALM1_05 = ~z~Easy that wagon.
+
+REVEN_CALM2_01 = ~z~Let's stop that wagon.
+
+REVEN_CALM2_02 = ~z~Easy up that wagon.
+
+REVEN_CALM2_03 = ~z~Slow down.
+
+REVEN_CALM2_04 = ~z~Slow, slow up.
+
+REVEN_CALM2_05 = ~z~Stop that wagon, now.
+
+REVEN_CALM3_01 = ~z~Mind stopping that wagon?
+
+REVEN_CALM3_02 = ~z~Let's slow up that wagon.
+
+REVEN_CALM3_03 = ~z~Could you stop a minute?
+
+REVEN_CALM3_04 = ~z~Slow that wagon there.
+
+REVEN_CALM3_05 = ~z~Stop up that wagon, alright?
+
+REVEN_CALM4_01 = ~z~Slow your wagon, alright?
+
+REVEN_CALM4_02 = ~z~Stop that wagon a minute.
+
+REVEN_CALM4_03 = ~z~Hold that wagon.
+
+REVEN_CALM4_04 = ~z~Let's stop that wagon.
+
+REVEN_CALM4_05 = ~z~Slow down.
+
+REVEN_CONSEQ1_01 = ~z~We'll be there soon.
+
+REVEN_CONSEQ1_02 = ~z~Don't get too comfortable. We're close.
+
+REVEN_CONSEQ1_03 = ~z~Nearly there.
+
+REVEN_CONSEQ1_04 = ~z~Hope you're praying. We're close.
+
+REVEN_CONSEQ1_05 = ~z~Almost there.
+
+REVEN_CONSEQ2_01 = ~z~Well on our way now.
+
+REVEN_CONSEQ2_02 = ~z~Getting close now.
+
+REVEN_CONSEQ2_03 = ~z~Not too much longer now.
+
+REVEN_CONSEQ2_04 = ~z~You're running out of time back there.
+
+REVEN_CONSEQ2_05 = ~z~Jail's close...
+
+REVEN_CONSEQ3_01 = ~z~Don't fret. Nearly there.
+
+REVEN_CONSEQ3_02 = ~z~Almost there. I could use a break.
+
+REVEN_CONSEQ3_03 = ~z~Not too much longer now.
+
+REVEN_CONSEQ3_04 = ~z~Not much more now.
+
+REVEN_CONSEQ3_05 = ~z~Getting there. You excited?
+
+REVEN_CONSEQ4_01 = ~z~Sick of this road. Almost done though.
+
+REVEN_CONSEQ4_02 = ~z~Won't be too much longer now.
+
+REVEN_CONSEQ4_03 = ~z~Be there in just a bit.
+
+REVEN_CONSEQ4_04 = ~z~Well, you're about to be free. Well, free from this wagon, at least.
+
+REVEN_CONSEQ4_05 = ~z~Not too much longer.
+
+REVEN_CONTROL1_01 = ~z~I'm taking this for inspection.
+
+REVEN_CONTROL1_02 = ~z~Gonna need to take this.
+
+REVEN_CONTROL1_03 = ~z~Commandeering this, Bureau orders.
+
+REVEN_CONTROL1_04 = ~z~Taking this for a closer inspection.
+
+REVEN_CONTROL1_05 = ~z~Need to take this wagon.
+
+REVEN_CONTROL2_01 = ~z~Taking the reins here.
+
+REVEN_CONTROL2_02 = ~z~Gonna be taking this wagon over for an inspection.
+
+REVEN_CONTROL2_03 = ~z~Bureau's going to need to inspect this wagon.
+
+REVEN_CONTROL2_04 = ~z~Don't worry. I won't crash your wagon. Just taking a look.
+
+REVEN_CONTROL2_05 = ~z~I'll be taking this for a Bureau inspection.
+
+REVEN_CONTROL3_01 = ~z~I've got the reins for inspection.
+
+REVEN_CONTROL3_02 = ~z~Be needing to take over for an inspection.
+
+REVEN_CONTROL3_03 = ~z~Taking this wagon for an inspection, alright?
+
+REVEN_CONTROL3_04 = ~z~Just an inspection. Not keeping it.
+
+REVEN_CONTROL3_05 = ~z~Need to do a full inspection of your wagon.
+
+REVEN_CONTROL4_01 = ~z~Going to need to search this wagon.
+
+REVEN_CONTROL4_02 = ~z~Going to take this over for a full inspection.
+
+REVEN_CONTROL4_03 = ~z~Need to take a thorough look at your cart here.
+
+REVEN_CONTROL4_04 = ~z~Going to take your reins for a search.
+
+REVEN_CONTROL4_05 = ~z~I'm taking a full look at the wagon. Bureau orders.
+
+REVEN_DETECT1_01 = ~z~They have moonshine, get them!
+
+REVEN_DETECT1_02 = ~z~We got moonshine! Light it up!
+
+REVEN_DETECT1_03 = ~z~Shit, jackpot! Open fire!
+
+REVEN_DETECT1_04 = ~z~We got shine here! Hot damn!
+
+REVEN_DETECT1_05 = ~z~Moonshine! You're done!
+
+REVEN_DETECT2_01 = ~z~Got us a moonshiner here! Bad day for you!
+
+REVEN_DETECT2_02 = ~z~Moonshine! Open fire!
+
+REVEN_DETECT2_03 = ~z~Got shine back here! Open up on 'em!
+
+REVEN_DETECT2_04 = ~z~Jesus, we got shine! Fire!
+
+REVEN_DETECT2_05 = ~z~Goddamn! You're done now, moonshiner!
+
+REVEN_DETECT3_01 = ~z~Well, well. Bad luck for you, moonshiner!
+
+REVEN_DETECT3_02 = ~z~What do we have here? Moonshine! Light it up!
+
+REVEN_DETECT3_03 = ~z~Oh, shit, happy day! Open fire!
+
+REVEN_DETECT3_04 = ~z~We got moonshine! Let loose, boys!
+
+REVEN_DETECT3_05 = ~z~We got lucky, boys! Fire!
+
+REVEN_DETECT4_01 = ~z~Moonshine, moonshine! Fire on 'em!
+
+REVEN_DETECT4_02 = ~z~Happy days, boys! Fire on 'em!
+
+REVEN_DETECT4_03 = ~z~Got a moonshiner! Fire!
+
+REVEN_DETECT4_04 = ~z~Moonshine here, boys! Let loose!
+
+REVEN_DETECT4_05 = ~z~We got moonshine! Attack!
+
+REVEN_DISMISS1_01 = ~z~Right, just move on.
+
+REVEN_DISMISS1_02 = ~z~Okay, keep it moving.
+
+REVEN_DISMISS1_03 = ~z~Fine. Move on then.
+
+REVEN_DISMISS1_04 = ~z~Looks fine. Get on to it then.
+
+REVEN_DISMISS1_05 = ~z~Yeah, you're alright. Go on.
+
+REVEN_DISMISS2_01 = ~z~Looks fine. Go on.
+
+REVEN_DISMISS2_02 = ~z~Okay, all good here.
+
+REVEN_DISMISS2_03 = ~z~You can go. "Travel safe".
+
+REVEN_DISMISS2_04 = ~z~Okay, wagon's clean. Go on.
+
+REVEN_DISMISS2_05 = ~z~Fine. Clear the road.
+
+REVEN_DISMISS3_01 = ~z~All fine. Go on then.
+
+REVEN_DISMISS3_02 = ~z~Nope, nothing here. Go on.
+
+REVEN_DISMISS3_03 = ~z~You can go.
+
+REVEN_DISMISS3_04 = ~z~Move along, move along.
+
+REVEN_DISMISS3_05 = ~z~Okay, keep on moving.
+
+REVEN_DISMISS4_01 = ~z~You can go. Move along.
+
+REVEN_DISMISS4_02 = ~z~Yeah, you're fine. Clear the road.
+
+REVEN_DISMISS4_03 = ~z~Move that wagon along.
+
+REVEN_DISMISS4_04 = ~z~You can go.
+
+REVEN_DISMISS4_05 = ~z~You're clear to go.
+
+REVEN_DISMISSA1_01 = ~z~Get out of here now!
+
+REVEN_DISMISSA1_02 = ~z~Move it!
+
+REVEN_DISMISSA1_03 = ~z~Get! Go on!
+
+REVEN_DISMISSA1_04 = ~z~You get outta here!
+
+REVEN_DISMISSA1_05 = ~z~Go on, now!
+
+REVEN_DISMISSA2_01 = ~z~Move the damn wagon!
+
+REVEN_DISMISSA2_02 = ~z~Go, go now!
+
+REVEN_DISMISSA2_03 = ~z~Get the hell outta here!
+
+REVEN_DISMISSA2_04 = ~z~You move it! Now!
+
+REVEN_DISMISSA2_05 = ~z~Get out the damn road!
+
+REVEN_DISMISSA3_01 = ~z~You want trouble? Move it!
+
+REVEN_DISMISSA3_02 = ~z~Get yourself and your wagon gone!
+
+REVEN_DISMISSA3_03 = ~z~Move your damn ass!
+
+REVEN_DISMISSA3_04 = ~z~Get!
+
+REVEN_DISMISSA3_05 = ~z~You move this wagon, and now!
+
+REVEN_DISMISSA4_01 = ~z~Git! Spur them nags!
+
+REVEN_DISMISSA4_02 = ~z~Get outta here now!
+
+REVEN_DISMISSA4_03 = ~z~Move! Move!
+
+REVEN_DISMISSA4_04 = ~z~Move the goddamn wagon.
+
+REVEN_DISMISSA4_05 = ~z~Move it!
+
+REVEN_DISMISSE1_01 = ~z~I told you, get out of here.
+
+REVEN_DISMISSE1_02 = ~z~I told you to go.
+
+REVEN_DISMISSE1_03 = ~z~You gotta move, I said.
+
+REVEN_DISMISSE1_04 = ~z~Move along, I said.
+
+REVEN_DISMISSE1_05 = ~z~Let's go! Go!
+
+REVEN_DISMISSE2_01 = ~z~We don't have time to waste with you here. Move!
+
+REVEN_DISMISSE2_02 = ~z~I told you to go. Go on!
+
+REVEN_DISMISSE2_03 = ~z~What're you waiting for? Move it!
+
+REVEN_DISMISSE2_04 = ~z~Oh, come on! Move the wagon.
+
+REVEN_DISMISSE2_05 = ~z~You waiting for something? Move along!
+
+REVEN_DISMISSE3_01 = ~z~You're trying my patience. Move it.
+
+REVEN_DISMISSE3_02 = ~z~You need to move this wagon. Now.
+
+REVEN_DISMISSE3_03 = ~z~Don't make me repeat myself. Move the wagon.
+
+REVEN_DISMISSE3_04 = ~z~You dumb? Move.
+
+REVEN_DISMISSE3_05 = ~z~I told you to move, so move!
+
+REVEN_DISMISSE4_01 = ~z~You stuck? Your horse gone stupid? Move!
+
+REVEN_DISMISSE4_02 = ~z~Let's go! You gotta clear this road.
+
+REVEN_DISMISSE4_03 = ~z~I said, move. Can't have you lounging.
+
+REVEN_DISMISSE4_04 = ~z~What's the holdup here? Move it.
+
+REVEN_DISMISSE4_05 = ~z~Move! Come on, already. Move!
+
+REVEN_DRUNK1_01 = ~z~You're drunk, pull over!
+
+REVEN_DRUNK1_02 = ~z~I can smell the drink on you!
+
+REVEN_DRUNK1_03 = ~z~Pull over your wagon before you crash!
+
+REVEN_DRUNK1_04 = ~z~You drunk on the road? Pull over!
+
+REVEN_DRUNK1_05 = ~z~Alright, you lush, pull over!
+
+REVEN_DRUNK2_01 = ~z~Stop that wagon! Damn drunk.
+
+REVEN_DRUNK2_02 = ~z~You're gonna crash that thing. Stop!
+
+REVEN_DRUNK2_03 = ~z~You bathe in liquor? Stop the wagon!
+
+REVEN_DRUNK2_04 = ~z~Easy there! You been drinking?
+
+REVEN_DRUNK2_05 = ~z~Stop now! You deaf, or just drunk?
+
+REVEN_DRUNK3_01 = ~z~Stop up, before I wring that liquor outta you.
+
+REVEN_DRUNK3_02 = ~z~Stop up before you run someone over!
+
+REVEN_DRUNK3_03 = ~z~You sober enough to pull over?
+
+REVEN_DRUNK3_04 = ~z~Pull over, you lush!
+
+REVEN_DRUNK3_05 = ~z~Stop that wagon! I can smell the drink on you.
+
+REVEN_DRUNK4_01 = ~z~Jesus, we got us a drunk. Pull over!
+
+REVEN_DRUNK4_02 = ~z~No way I'm letting you go on that drunk. Pull over!
+
+REVEN_DRUNK4_03 = ~z~Stop that wagon! We need a word.
+
+REVEN_DRUNK4_04 = ~z~Hold up! You been drinking?
+
+REVEN_DRUNK4_05 = ~z~Stop that wagon! If you can even control it.
+
+REVEN_FHDISMSS1_01 = ~z~Get out of here.
+
+REVEN_FHDISMSS1_02 = ~z~Move on.
+
+REVEN_FHDISMSS1_03 = ~z~Go on, hightail.
+
+REVEN_FHDISMSS1_04 = ~z~Get out of here.
+
+REVEN_FHDISMSS1_05 = ~z~Keep on.
+
+REVEN_FHDISMSS2_01 = ~z~Move along.
+
+REVEN_FHDISMSS2_02 = ~z~Keep the road clear.
+
+REVEN_FHDISMSS2_03 = ~z~No lounging, go on.
+
+REVEN_FHDISMSS2_04 = ~z~Go on.
+
+REVEN_FHDISMSS2_05 = ~z~You're good to go.
+
+REVEN_FHDISMSS3_01 = ~z~Looking for wagons. Move it.
+
+REVEN_FHDISMSS3_02 = ~z~Move.
+
+REVEN_FHDISMSS3_03 = ~z~Clear the road.
+
+REVEN_FHDISMSS3_04 = ~z~Go, go.
+
+REVEN_FHDISMSS3_05 = ~z~Go on, get.
+
+REVEN_FHDISMSS4_01 = ~z~Get out of here.
+
+REVEN_FHDISMSS4_02 = ~z~Can't have you stopping.
+
+REVEN_FHDISMSS4_03 = ~z~Go on, move.
+
+REVEN_FHDISMSS4_04 = ~z~Move! Get.
+
+REVEN_FHDISMSS4_05 = ~z~Let's go.
+
+REVEN_HIJACK1_01 = ~z~This wagon is under Revenue control, stop!
+
+REVEN_HIJACK1_02 = ~z~You insane? This is kidnapping!
+
+REVEN_HIJACK1_03 = ~z~Stop this wagon! You have to stop!
+
+REVEN_HIJACK1_04 = ~z~Don't you know what you're doing? Stop this!
+
+REVEN_HIJACK1_05 = ~z~Stop! Don't you know who I am?
+
+REVEN_HIJACK2_01 = ~z~This is kidnapping!
+
+REVEN_HIJACK2_02 = ~z~This wagon's under my command, stop this!
+
+REVEN_HIJACK2_03 = ~z~You're crossing the Bureau here, you get me?
+
+REVEN_HIJACK2_04 = ~z~You're making a big mistake!
+
+REVEN_HIJACK2_05 = ~z~What the hell are you doing?
+
+REVEN_HIJACK3_01 = ~z~Oh, this is a great plan you got. I'm onboard, you idiot!
+
+REVEN_HIJACK3_02 = ~z~~sl:0.0:0.9~Stop this wagon!~sl:~You're gonna have the whole Bureau after you for this.
+
+REVEN_HIJACK3_03 = ~z~Oh, you're kidnapping now, huh? This is your last mistake.
+
+REVEN_HIJACK3_04 = ~z~What in the hell are you doing? Stop this wagon at once!
+
+REVEN_HIJACK3_05 = ~z~Where the hell you think you're taking us, huh? Stop!
+
+REVEN_HIJACK4_01 = ~z~You stupid? I'm right here!
+
+REVEN_HIJACK4_02 = ~z~You stop this wagon! I am inspecting this wagon!
+
+REVEN_HIJACK4_03 = ~z~You halt this wagon right now! Goddammit now!
+
+REVEN_HIJACK4_04 = ~z~What the hell are you doing? Hold your horses!
+
+REVEN_HIJACK4_05 = ~z~~sl:0.0:1.3~Stop the wagon!~sl:~You're kidnapping an officer of the Bureau of Internal Revenue!
+
+REVEN_HOLDGUN1_01 = ~z~Stay right where you are!
+
+REVEN_HOLDGUN1_02 = ~z~Don't you move a muscle.
+
+REVEN_HOLDGUN1_03 = ~z~You stay put!
+
+REVEN_HOLDGUN1_04 = ~z~You move, you're catching a bullet.
+
+REVEN_HOLDGUN1_05 = ~z~Want to test my aim? Then don't move.
+
+REVEN_HOLDGUN2_01 = ~z~Hold up or I let loose.
+
+REVEN_HOLDGUN2_02 = ~z~I will fire if you move. Hear me?
+
+REVEN_HOLDGUN2_03 = ~z~Best not move, you want to live through this.
+
+REVEN_HOLDGUN2_04 = ~z~You stay, or I test the trigger of this gun.
+
+REVEN_HOLDGUN2_05 = ~z~You move, you're done for.
+
+REVEN_HOLDGUN3_01 = ~z~Go ahead, move. I'm looking for a reason to shoot.
+
+REVEN_HOLDGUN3_02 = ~z~You hold still or you're done.
+
+REVEN_HOLDGUN3_03 = ~z~You best make like a statue!
+
+REVEN_HOLDGUN3_04 = ~z~I don't want to see you so much as twitch!
+
+REVEN_HOLDGUN3_05 = ~z~You want to die? You move, you get your wish.
+
+REVEN_HOLDGUN4_01 = ~z~Hold still. I got no problem killing you.
+
+REVEN_HOLDGUN4_02 = ~z~Don't you move. Not an inch.
+
+REVEN_HOLDGUN4_03 = ~z~Stay put, hear me?
+
+REVEN_HOLDGUN4_04 = ~z~Moving would be a bad move for you.
+
+REVEN_HOLDGUN4_05 = ~z~I strongly advise you not to move.
+
+REVEN_HOLDMKN1_01 = ~z~You're all in our custody now.
+
+REVEN_HOLDMKN1_02 = ~z~Real team effort here...
+
+REVEN_HOLDMKN1_03 = ~z~Oh, y'all are just a picture.
+
+REVEN_HOLDMKN1_04 = ~z~Look at this. Got a whole crew.
+
+REVEN_HOLDMKN1_05 = ~z~Real bunch of jokers, you are.
+
+REVEN_HOLDMKN2_01 = ~z~Can't believe it was this easy, catching all of you.
+
+REVEN_HOLDMKN2_02 = ~z~Not much of a team here. I mean... look at y'all.
+
+REVEN_HOLDMKN2_03 = ~z~~sl:0.0:1.9~Hope the jail's got room for all of you.~sl:0.6~Else we might have to thin your ranks...
+
+REVEN_HOLDMKN2_04 = ~z~A whole bunch of you? I think I'm in for a promotion.
+
+REVEN_HOLDMKN2_05 = ~z~Not much of a team in the end.
+
+REVEN_HOLDMKN3_01 = ~z~Well, maybe they'll hang all y'all together. That'd be nice.
+
+REVEN_HOLDMKN3_02 = ~z~Nice of you to all come together.
+
+REVEN_HOLDMKN3_03 = ~z~I expected more from y'all, if I'm honest.
+
+REVEN_HOLDMKN3_04 = ~z~Good day for me. For you all, not so much.
+
+REVEN_HOLDMKN3_05 = ~z~Don't worry. We'll have y'all to jail real soon.
+
+REVEN_HOLDMKN4_01 = ~z~If any of y'all are religious folk , now might be the time to pray.
+
+REVEN_HOLDMKN4_02 = ~z~I thought you all would have more fight in you!
+
+REVEN_HOLDMKN4_03 = ~z~You're the moonshiners we heard about? I'm disappointed.
+
+REVEN_HOLDMKN4_04 = ~z~Well, you're all Bureau property now.
+
+REVEN_HOLDMKN4_05 = ~z~Thought you could escape the Bureau? Fat chance.
+
+REVEN_HOLDSKN1_01 = ~z~We got you now.
+
+REVEN_HOLDSKN1_02 = ~z~Bet you didn't expect this, huh?
+
+REVEN_HOLDSKN1_03 = ~z~Shoulda let the drink take you, I reckon.
+
+REVEN_HOLDSKN1_04 = ~z~Now's the time to start praying.
+
+REVEN_HOLDSKN1_05 = ~z~End of the road for you.
+
+REVEN_HOLDSKN2_01 = ~z~The Bureau gets their target. Always.
+
+REVEN_HOLDSKN2_02 = ~z~Look at that. You're done.
+
+REVEN_HOLDSKN2_03 = ~z~So, was it worth it? I'm guessing not.
+
+REVEN_HOLDSKN2_04 = ~z~You look real sad down there.
+
+REVEN_HOLDSKN2_05 = ~z~You know? This made my day.
+
+REVEN_HOLDSKN3_01 = ~z~Count yourself lucky. Least you ain't dead.
+
+REVEN_HOLDSKN3_02 = ~z~Look at the clever moonshiner now.
+
+REVEN_HOLDSKN3_03 = ~z~Not a wise move, crossing the Bureau of Internal Revenue.
+
+REVEN_HOLDSKN3_04 = ~z~What'd you expect? A letter saying 'stop'?
+
+REVEN_HOLDSKN3_05 = ~z~I thank you. This made my day.
+
+REVEN_HOLDSKN4_01 = ~z~Hey. Least you ain't shot.
+
+REVEN_HOLDSKN4_02 = ~z~If only you'd taken another road, huh?
+
+REVEN_HOLDSKN4_03 = ~z~You're done now.
+
+REVEN_HOLDSKN4_04 = ~z~You know, I almost pity you down there. Almost.
+
+REVEN_HOLDSKN4_05 = ~z~Crime always pays. Always and inevitably, as you're finding out.
+
+REVEN_INSPECT1_01 = ~z~Let's see what we've got here...
+
+REVEN_INSPECT1_02 = ~z~So, what's in the wagon?
+
+REVEN_INSPECT1_03 = ~z~What're you up to? I wonder.
+
+REVEN_INSPECT1_04 = ~z~~sl:1.5~Guess let's see what's in the wagon.
+
+REVEN_INSPECT1_05 = ~z~Wonder what's in the wagon?
+
+REVEN_INSPECT2_01 = ~z~Couldn't hurt to look inside the wagon, could it?
+
+REVEN_INSPECT2_02 = ~z~~sl:0.0:1.6~Might as well take a look in the wagon, huh?
+
+REVEN_INSPECT2_03 = ~z~Well well well, what do we have here?
+
+REVEN_INSPECT2_04 = ~z~~sl:0.0:3.1:1~Journeying wagon, in this part of the country?
+
+REVEN_INSPECT2_05 = ~z~Wonder what's in this here wagon?
+
+REVEN_INSPECT3_01 = ~z~Well, well... what're you hauling?
+
+REVEN_INSPECT3_02 = ~z~Can't imagine this wagon's empty...
+
+REVEN_INSPECT3_03 = ~z~Wonder what I've fished this time...
+
+REVEN_INSPECT3_04 = ~z~So, what should I expect to find in here?
+
+REVEN_INSPECT3_05 = ~z~Sure, hope this wagon ain't empty...
+
+REVEN_INSPECT4_01 = ~z~I wonder what it is I've caught...
+
+REVEN_INSPECT4_02 = ~z~Now, what could you be hauling? I wonder.
+
+REVEN_INSPECT4_03 = ~z~Let's see, let's see...
+
+REVEN_INSPECT4_04 = ~z~I got a guess what's in this wagon...
+
+REVEN_INSPECT4_05 = ~z~~sl:0.0:2.1:1~What do we have here in this wagon?
+
+REVEN_INTERRPT1_01 = ~z~Get back here now!
+
+REVEN_INTERRPT1_02 = ~z~Hey, hey where you going?
+
+REVEN_INTERRPT1_03 = ~z~We're not done here!
+
+REVEN_INTERRPT1_04 = ~z~The hell? What do you think this is?
+
+REVEN_INTERRPT1_05 = ~z~You can't do this! We're in the middle of something here!
+
+REVEN_INTERRPT2_01 = ~z~Hey, hey! You come back here!
+
+REVEN_INTERRPT2_02 = ~z~You kidding me? Get back here!
+
+REVEN_INTERRPT2_03 = ~z~This some kind of joke?
+
+REVEN_INTERRPT2_04 = ~z~You turn that wagon around!
+
+REVEN_INTERRPT2_05 = ~z~You're on my last nerve! Stop!
+
+REVEN_INTERRPT3_01 = ~z~What the hell you think you doing?
+
+REVEN_INTERRPT3_02 = ~z~You think you can make fools of us? I don't think so.
+
+REVEN_INTERRPT3_03 = ~z~You cut that shit right out!
+
+REVEN_INTERRPT3_04 = ~z~You best stop this, right now!
+
+REVEN_INTERRPT3_05 = ~z~You quit this nonsense!
+
+REVEN_INTERRPT4_01 = ~z~Oh, I don't believe this. Stop at once!
+
+REVEN_INTERRPT4_02 = ~z~Stop this nonense!
+
+REVEN_INTERRPT4_03 = ~z~You get back here now!
+
+REVEN_INTERRPT4_04 = ~z~You're asking for it now! Stop!
+
+REVEN_INTERRPT4_05 = ~z~You best quit while you can, you hear me?
+
+REVEN_LOCATE1_01 = ~z~Lemoyne doesn't need any more moonshine, that's for sure.
+
+REVEN_LOCATE1_02 = ~z~It is too muggy out here to be dealing with this.
+
+REVEN_LOCATE2_01 = ~z~Who makes illegal moonshine in Lemoyne of all places?
+
+REVEN_LOCATE2_02 = ~z~~sl:0.0:1.1~From what I hear,~sl:~we should just leave the law to the families down here.
+
+REVEN_LOCATE3_01 = ~z~Lemoyne. Foul state.
+
+REVEN_LOCATE3_02 = ~z~Real nasty place to make liquor. Or deal with the fools that try.
+
+REVEN_LOCATE4_01 = ~z~Doesn't this damn state have enough to deal with already?
+
+REVEN_LOCATE4_02 = ~z~If there's a business for more moonshine in these parts, I just... I don't know.
+
+REVEN_LOC_AMB1_01 = ~z~It's too cold to be hunting for moonshiners.
+
+REVEN_LOC_AMB1_02 = ~z~Who'd set up a still in a place like this?
+
+REVEN_LOC_AMB2_01 = ~z~Well. It's probably easy to sell moonshine in these parts.
+
+REVEN_LOC_AMB2_02 = ~z~It's pretty up here. I'll say that.
+
+REVEN_LOC_AMB3_01 = ~z~Wish I'd brought thicker socks.
+
+REVEN_LOC_AMB3_02 = ~z~Can't believe these moonshiners would risk all this snow...
+
+REVEN_LOC_AMB4_01 = ~z~Christ, is it cold up here.
+
+REVEN_LOC_AMB4_02 = ~z~If there was a place that needed illegal stills, it was this.
+
+REVEN_LOC_NAU1_01 = ~z~Air's dry out here. Fire must spread easy.
+
+REVEN_LOC_NAU1_02 = ~z~Moonshine stills in the desert. What a country.
+
+REVEN_LOC_NAU2_01 = ~z~Wonder if they put cactus into the shine out here...
+
+REVEN_LOC_NAU2_02 = ~z~Those big rises... mesas? Strange.
+
+REVEN_LOC_NAU3_01 = ~z~Awful close to Mexico. Lawless country.
+
+REVEN_LOC_NAU3_02 = ~z~No wonder they're making moonshine out here. You can tell it's devilish.
+
+REVEN_LOC_NAU4_01 = ~z~~sl:0.0:2.1~Thorns on these plants are unbelievable.~sl:0.6~Damn horses'll be shorn bloody by the time we're done.
+
+REVEN_LOC_NAU4_02 = ~z~~sl:0.0:2.3~Imagine being shine drunk out in this desert.~sl:0.4~And imagine paying for it. Jesus.
+
+REVEN_LOC_NHA1_01 = ~z~~sl:0.0:2.6~Suppose it makes sense to sell moonshine in these parts.~sl:0.6~Not much else to do but drink.
+
+REVEN_LOC_NHA1_02 = ~z~The sky is mighty big in New Hanover, I'll say that.
+
+REVEN_LOC_NHA2_01 = ~z~I haven't been through the Heartlands in some time. Sure is pretty.
+
+REVEN_LOC_NHA2_02 = ~z~~sl:0.0:2.9~If I sold moonshine, and thereby was an idiot...~sl:0.5~I'd, eh... I would sell it by Emerald Ranch.
+
+REVEN_LOC_NHA3_01 = ~z~Big country out here. Lots of places for these moonshiners to hide.
+
+REVEN_LOC_NHA3_02 = ~z~Bet those oil fields have a lot of excess equipment these bastards use for stills and the like.
+
+REVEN_LOC_NHA4_01 = ~z~~sl:0.0:1.0~If we have any time,~sl:~I wouldn't mind to try some fishing over Dewberry Creek.
+
+REVEN_LOC_NHA4_02 = ~z~~sl:0.0:1.4~Lots of moonshiners around.~sl:0.3~Lots of stills, I can smell 'em. I can just tell.
+
+REVEN_LOC_WEZ1_01 = ~z~I wonder if the prohibitions in Strawberry fuel business...
+
+REVEN_LOC_WEZ1_02 = ~z~Bet this part of the world'll look real different in a few years...
+
+REVEN_LOC_WEZ2_01 = ~z~Must be fancy moonshiners, building a business in West Elizabeth.
+
+REVEN_LOC_WEZ2_02 = ~z~You know, I heard a fair bit about the Montana River. I am not impressed.
+
+REVEN_LOC_WEZ3_01 = ~z~~sl:0.0:3.3~I hear business is good for the stills in this part of the country.~sl:0.7~Suppose that means more work for us.
+
+REVEN_LOC_WEZ3_02 = ~z~~sl:0.0:2.4~Where do these moonshiners get off?~sl:0.8~They think they get to make their laws?
+
+REVEN_LOC_WEZ4_01 = ~z~~sl:0.0:2.0~We're gonna get lost chasing these degenerates~sl:~up and down among all these trees.
+
+REVEN_LOC_WEZ4_02 = ~z~God, I do love the clean air.
+
+REVEN_LOOK1_01 = ~z~We're looking for moonshine. Won't take long.
+
+REVEN_LOOK1_02 = ~z~Bureau search. Checking for illicit liquor.
+
+REVEN_LOOK1_03 = ~z~We're looking for carts with moonshine.
+
+REVEN_LOOK1_04 = ~z~Bureau of Internal Revenue search. Need to check your wagon.
+
+REVEN_LOOK1_05 = ~z~We're checking wagons for moonshine. Official business.
+
+REVEN_LOOK2_01 = ~z~We're doing wagon sweeps for illegal moonshine.
+
+REVEN_LOOK2_02 = ~z~Bureau inspection, looking for moonshine. Nothing to worry on.
+
+REVEN_LOOK2_03 = ~z~Doing routine checks here. Just need to see what's in the wagon.
+
+REVEN_LOOK2_04 = ~z~Gonna need to check your wagon for contraband.
+
+REVEN_LOOK2_05 = ~z~This is a search by the Bureau of Internal Revenue. Won't take long.
+
+REVEN_LOOK3_01 = ~z~We're with the Bureau of Internal Revenue. Doing wagon searches.
+
+REVEN_LOOK3_02 = ~z~We're gonna need to check your wagon for any contraband. Hold tight.
+
+REVEN_LOOK3_03 = ~z~Doing wagon checks for moonshine and the like. Alright?
+
+REVEN_LOOK3_04 = ~z~I'll be searching your wagon for contraband, that's all.
+
+REVEN_LOOK3_05 = ~z~We're looking for illegal liquor in these parts. Need to check your wagon.
+
+REVEN_LOOK4_01 = ~z~No need to fret, I'm sure. Looking for moonshine, and the like.
+
+REVEN_LOOK4_02 = ~z~Bureau search. We're looking for contraband. Moonshine, mainly.
+
+REVEN_LOOK4_03 = ~z~We're with the Bureau of Internal Revenue. Checking wagons for moonshine.
+
+REVEN_LOOK4_04 = ~z~Going to need to check the goods in your wagon for any contraband.
+
+REVEN_LOOK4_05 = ~z~This is a Bureau checkpoint. We're going to search your wagon for moonshine.
+
+REVEN_MOVE1_01 = ~z~Keep it moving. Nothing to see here.
+
+REVEN_MOVE1_02 = ~z~Keep the road clear. Go on.
+
+REVEN_MOVE1_03 = ~z~Keep moving, keep moving.
+
+REVEN_MOVE1_04 = ~z~Push on through. Gotta keep the road clear.
+
+REVEN_MOVE1_05 = ~z~Move on.
+
+REVEN_MOVE2_01 = ~z~Keep traveling.
+
+REVEN_MOVE2_02 = ~z~No need to stop. Keep moving.
+
+REVEN_MOVE2_03 = ~z~Bureau business. Keep moving.
+
+REVEN_MOVE2_04 = ~z~Nothing for you here. Move along.
+
+REVEN_MOVE2_05 = ~z~Can't stop here. Bureau orders.
+
+REVEN_MOVE3_01 = ~z~Looking for trouble? Move it.
+
+REVEN_MOVE3_02 = ~z~Move along, move along.
+
+REVEN_MOVE3_03 = ~z~Keep on. Gotta have the roads clear.
+
+REVEN_MOVE3_04 = ~z~Can't have you stop here. Go on.
+
+REVEN_MOVE3_05 = ~z~Nothing going here. Keep on.
+
+REVEN_MOVE4_01 = ~z~Well? Move along.
+
+REVEN_MOVE4_02 = ~z~Move along, you hear? Go on.
+
+REVEN_MOVE4_03 = ~z~Can't have you loitering.
+
+REVEN_MOVE4_04 = ~z~Take it down the road.
+
+REVEN_MOVE4_05 = ~z~Bureau business here. Move along.
+
+REVEN_MOVERE1_01 = ~z~Come on, I told you to move.
+
+REVEN_MOVERE1_02 = ~z~You heard me, right? Move it.
+
+REVEN_MOVERE1_03 = ~z~Let's go already.
+
+REVEN_MOVERE1_04 = ~z~Time's wasting. Move the wagon.
+
+REVEN_MOVERE1_05 = ~z~Let's go, let's go.
+
+REVEN_MOVERE2_01 = ~z~Oh, come on, this ain't hard. Move it.
+
+REVEN_MOVERE2_02 = ~z~Can we get moving already?
+
+REVEN_MOVERE2_03 = ~z~I told you to go, so go.
+
+REVEN_MOVERE2_04 = ~z~You trying to annoy me? Move.
+
+REVEN_MOVERE2_05 = ~z~Let's get this going.
+
+REVEN_MOVERE3_01 = ~z~You're trying me here. Move the wagon.
+
+REVEN_MOVERE3_02 = ~z~Let's get to it then. Come on.
+
+REVEN_MOVERE3_03 = ~z~You're testing me here. Move the damn wagon.
+
+REVEN_MOVERE3_04 = ~z~Let's go already, come on.
+
+REVEN_MOVERE3_05 = ~z~Just move already.
+
+REVEN_MOVERE4_01 = ~z~You're wasting my time here. Move it.
+
+REVEN_MOVERE4_02 = ~z~Oh, move the wagon already.
+
+REVEN_MOVERE4_03 = ~z~Hurry up! Time's wasting.
+
+REVEN_MOVERE4_04 = ~z~Move the wagon! Simple enough.
+
+REVEN_MOVERE4_05 = ~z~This a problem for you? Move the wagon.
+
+REVEN_MOVEWAG1_01 = ~z~Take this wagon over there.
+
+REVEN_MOVEWAG1_02 = ~z~Okay, bring the wagon over.
+
+REVEN_MOVEWAG1_03 = ~z~Take the wagon over there.
+
+REVEN_MOVEWAG1_04 = ~z~Gonna need you to move this here wagon.
+
+REVEN_MOVEWAG1_05 = ~z~Okay, take this wagon over there.
+
+REVEN_MOVEWAG2_01 = ~z~Head over there.
+
+REVEN_MOVEWAG2_02 = ~z~Move this over there. And don't break my neck during it.
+
+REVEN_MOVEWAG2_03 = ~z~Bring the wagon over there.
+
+REVEN_MOVEWAG2_04 = ~z~Okay, drive the wagon over.
+
+REVEN_MOVEWAG2_05 = ~z~Move your horses over there.
+
+REVEN_MOVEWAG3_01 = ~z~Take this cart over there.
+
+REVEN_MOVEWAG3_02 = ~z~Think you can manage your wagon over there?
+
+REVEN_MOVEWAG3_03 = ~z~Move the wagon over.
+
+REVEN_MOVEWAG3_04 = ~z~Take this over there.
+
+REVEN_MOVEWAG3_05 = ~z~Take us over. And watch the road, I got a headache.
+
+REVEN_MOVEWAG4_01 = ~z~Move the wagon over there.
+
+REVEN_MOVEWAG4_02 = ~z~Head over there with the wagon.
+
+REVEN_MOVEWAG4_03 = ~z~Take this wagon over. No funny business, now.
+
+REVEN_MOVEWAG4_04 = ~z~Take us over there.
+
+REVEN_MOVEWAG4_05 = ~z~Over there with the wagon.
+
+REVEN_NEAR1_01 = ~z~I think I see your new home coming up on the horizon.
+
+REVEN_NEAR1_02 = ~z~Well, well, we're about to hand you off.
+
+REVEN_NEAR1_03 = ~z~I hear the accommodations in this jail are real fine.
+
+REVEN_NEAR1_04 = ~z~~sl:0.0:2.4~I bet you'll have plenty of time to write out some letters~sl:~before you swing. Oh, but I'm guessing you can't write.
+
+REVEN_NEAR1_05 = ~z~I heard the local sheriff's been looking forward to meeting you.
+
+REVEN_NEAR2_01 = ~z~Nearly there!
+
+REVEN_NEAR2_02 = ~z~~sl:0.0:2.3~Wonder if they cleaned the cells since last time.~sl:0.5:2.6~Awful mess in the cells, last time I was here.~sl:0.7~I'm sure they cleaned it.
+
+REVEN_NEAR2_03 = ~z~Been fun traveling with you, moonshiner.
+
+REVEN_NEAR2_04 = ~z~You been to this jail before? Have any friends here?
+
+REVEN_NEAR2_05 = ~z~Local law hates moonshiners, is what I hear.
+
+REVEN_NEAR3_01 = ~z~Can't wait to show you around. You're a prize.
+
+REVEN_NEAR3_02 = ~z~~sl:0.0:4.0~Now, when we arrive, I hope you don't try anything.~sl:0.4~Well, maybe I do. Then I could shoot you.
+
+REVEN_NEAR3_03 = ~z~Been quite a road, but here we are.
+
+REVEN_NEAR3_04 = ~z~That's jail up ahead. Home, I should say.
+
+REVEN_NEAR3_05 = ~z~~sl:0.0:2.8~Well, this is not as nice as our offices,~sl:~but it's the best you'll see for some time.
+
+REVEN_NEAR4_01 = ~z~I've had worse occupants in the back there. Thanks for that.
+
+REVEN_NEAR4_02 = ~z~Well, look at that. We nearly survived this ordeal.
+
+REVEN_NEAR4_03 = ~z~~sl:0.0:2.4~Wasn't sure we'd make it, but here we are.~sl:0.2~And to think I almost shot you outta boredom.
+
+REVEN_NEAR4_04 = ~z~~sl:0.0:1.4~I hear the sheriff here's nice.~sl:0.6~They'll give you a drink before they hang you.
+
+REVEN_NEAR4_05 = ~z~~sl:0.0:2.0~I am very tired.~sl:0.9:2.7~I think I'll rent a nice bed, get a good bottle of whiskey...~sl:~have a bath. Sounds nice, huh?
+
+REVEN_PRISONER1_01 = ~z~We'll be shipping you off to jail real soon!
+
+REVEN_PRISONER1_02 = ~z~Not the fine accommodations you were hoping for?
+
+REVEN_PRISONER1_03 = ~z~Feeling cozy in there?
+
+REVEN_PRISONER1_04 = ~z~~sl:0.0:2.6~How you like it back there? Don't worry.~sl:0.9~Sure you'll have plenty more room in the jail cell.
+
+REVEN_PRISONER1_05 = ~z~~sl:0.0:1.2:1~Wish we'd just shot you?
+
+REVEN_PRISONER2_01 = ~z~Want a book? Something to eat?
+
+REVEN_PRISONER2_02 = ~z~You best not throw up in there. I won't clean it.
+
+REVEN_PRISONER2_03 = ~z~Don't worry. You'll be heading to the noose sooner than you'd think.
+
+REVEN_PRISONER2_04 = ~z~Best hope the roads are good. It's mighty bumpy in back.
+
+REVEN_PRISONER2_05 = ~z~Moonshining is bad business.
+
+REVEN_PRISONER3_01 = ~z~Ain't you a pitiable picture?
+
+REVEN_PRISONER3_02 = ~z~~sl:0.7~You think they'll hang you? We're taking bets.
+
+REVEN_PRISONER3_03 = ~z~~sl:0.0:4.7~So, any requests we should pass along to the sheriff and judge?~sl:0.4:2.7:1~We hold a lot of sway here, us Bureau men.
+
+REVEN_PRISONER3_04 = ~z~I am impressed, it took longer to capture you than I thought it would.
+
+REVEN_PRISONER3_05 = ~z~What's the chance you piss yourself on the way to jail? Just curious.
+
+REVEN_PRISONER4_01 = ~z~Where you're going, your mammy can't save you. Good luck!
+
+REVEN_PRISONER4_02 = ~z~We'll get moving soon, don't fret.
+
+REVEN_PRISONER4_03 = ~z~So sorry, the plush coach is getting fixed up.
+
+REVEN_PRISONER4_04 = ~z~Sure we'll get moving soon. Don't get comfy now.
+
+REVEN_PRISONER4_05 = ~z~~sl:0.0:1.4~You're like a squirrel in there.~sl:0.3:3.1:1~Maybe we should poke you some, see if you start squealing.
+
+REVEN_PULLUP1_01 = ~z~Pull up closer.
+
+REVEN_PULLUP1_02 = ~z~Gonna need you here.
+
+REVEN_PULLUP1_03 = ~z~Closer. Come on.
+
+REVEN_PULLUP2_01 = ~z~Up here, come on.
+
+REVEN_PULLUP2_02 = ~z~Bring the wagon here. Let's go.
+
+REVEN_PULLUP2_03 = ~z~Bring the wagon up.
+
+REVEN_PULLUP3_01 = ~z~Bring your wagon up here.
+
+REVEN_PULLUP3_02 = ~z~Pull up some.
+
+REVEN_PULLUP3_03 = ~z~Bring it up to here.
+
+REVEN_PULLUP4_01 = ~z~Up here, come on.
+
+REVEN_PULLUP4_02 = ~z~Bring the wagon to this point. Let's go.
+
+REVEN_PULLUP4_03 = ~z~Little closer. Let's go.
+
+REVEN_SEARCH1_01 = ~z~What have we got here then?
+
+REVEN_SEARCH1_02 = ~z~What's this I wonder?
+
+REVEN_SEARCH1_03 = ~z~Best hope this is all fine and legal...
+
+REVEN_SEARCH1_04 = ~z~
+
+REVEN_SEARCH1_05 = ~z~What're you hiding...
+
+REVEN_SEARCH2_01 = ~z~Huh... let's see.
+
+REVEN_SEARCH2_02 = ~z~Well, well...
+
+REVEN_SEARCH2_03 = ~z~Huh... what could this be?
+
+REVEN_SEARCH2_04 = ~z~No point hurrying, is there?
+
+REVEN_SEARCH2_05 = ~z~Don't you mind me...
+
+REVEN_SEARCH3_01 = ~z~What's this?
+
+REVEN_SEARCH3_02 = ~z~
+
+REVEN_SEARCH3_03 = ~z~~sl:1.2~Dirty...
+
+REVEN_SEARCH3_04 = ~z~What else?
+
+REVEN_SEARCH3_05 = ~z~All looks good... so far...
+
+REVEN_SEARCH4_01 = ~z~Let's see here...
+
+REVEN_SEARCH4_02 = ~z~Huh...
+
+REVEN_SEARCH4_03 = ~z~What's this here?
+
+REVEN_SEARCH4_04 = ~z~Better be something in this wagon...
+
+REVEN_SEARCH4_05 = ~z~Real mess in here...
+
+REVEN_TIME1_01 = ~z~~sl:0.0:1.7~You are in a lot of trouble...~sl:~but you know that, don't you?
+
+REVEN_TIME1_02 = ~z~~sl:0.0:3.2~You been caught red-handed... the way I see it?~sl:0.6~You're just biding time for the noose.
+
+REVEN_TIME1_03 = ~z~Oh boy, you are done for, you know that?
+
+REVEN_TIME1_04 = ~z~~sl:0.0:1.5~Seeing you like this makes me feel~sl:~like I done some good with my day.
+
+REVEN_TIME1_05 = ~z~It's the end of the line for you, you know that, right?
+
+REVEN_TIME2_01 = ~z~~sl:0.0:2.6~You best be glad I'm not the judge here.~sl:0.2~My way? You'd be dead already.
+
+REVEN_TIME2_02 = ~z~~sl:0.0:3.6~Jesus, look at you. Real pathetic.~sl:0.6~Not worth the rags you're wearing.
+
+REVEN_TIME2_03 = ~z~How's those ropes? Not too tight, I hope...
+
+REVEN_TIME2_04 = ~z~~sl:0.0:2.0~You know, you could be a bit more thankful.~sl:0.4~You're still alive, more or less.
+
+REVEN_TIME2_05 = ~z~You got a cigarette on you? I could use a cigarette.
+
+REVEN_TIME3_01 = ~z~You still holding out hope? For what, I wonder?
+
+REVEN_TIME3_02 = ~z~Honestly, I don't know why you bother with all this business, fool way to make money.
+
+REVEN_TIME3_03 = ~z~Shoulda paid your taxes... you knew this day was coming.
+
+REVEN_TIME3_04 = ~z~~sl:0.0:4.0~You have more than enough contraband to keep you locked up...~sl:0.0~for a long, long time.
+
+REVEN_TIME3_05 = ~z~Aw, bet you're kicking yourself now, huh?
+
+REVEN_TIME4_01 = ~z~You hicks just never seem to learn
+
+REVEN_TIME4_02 = ~z~~sl:0.0:2.7~When will you moonshiners learn... really?~sl:0.8~The battle's been won. We're just mopping up. You'll see.
+
+REVEN_TIME4_03 = ~z~So, what, this some ideology for you? Or just foolishness?
+
+REVEN_TIME4_04 = ~z~Sure am glad we caught you. It's perked up this whole week.
+
+REVEN_TIME4_05 = ~z~We'll be going after your boss next. That one... I'm really looking forward to.
+
+REVEN_TRAP1_01 = ~z~You are ours now, moonshiners!
+
+REVEN_TRAP1_02 = ~z~Surprise, moonshiners!
+
+REVEN_TRAP1_03 = ~z~Hope you said your prayers!
+
+REVEN_TRAP1_04 = ~z~Afraid this operation's over!
+
+REVEN_TRAP1_05 = ~z~Hope this batch is done, moonshiners!
+
+REVEN_TRAP1_06 = ~z~Y'all are done for now!
+
+REVEN_TRAP2_01 = ~z~Looks like we're interrupting!
+
+REVEN_TRAP2_02 = ~z~Well, well! What do we got here?
+
+REVEN_TRAP2_03 = ~z~Y'all brewed your last batch!
+
+REVEN_TRAP2_04 = ~z~This operation's done and done!
+
+REVEN_TRAP2_05 = ~z~Think we couldn't sniff this out? Too bad!
+
+REVEN_TRAP2_06 = ~z~You got company, moonshiners!
+
+REVEN_TRAP3_01 = ~z~Greetings from the Bureau of Internal Revenue!
+
+REVEN_TRAP3_02 = ~z~Well, well! You fools think we wouldn't find you?
+
+REVEN_TRAP3_03 = ~z~We're shutting this operation down!
+
+REVEN_TRAP3_04 = ~z~No more business for this operation!
+
+REVEN_TRAP3_05 = ~z~Time to shut down! Moonshining's bad business!
+
+REVEN_TRAP3_06 = ~z~Y'all should've gotten into another business!
+
+REVEN_TRAP4_01 = ~z~You're done making shine now!
+
+REVEN_TRAP4_02 = ~z~Bureau's shutting you down!
+
+REVEN_TRAP4_03 = ~z~Look what we got here! You're done!
+
+REVEN_TRAP4_04 = ~z~This cook down is finished!
+
+REVEN_TRAP4_05 = ~z~You're all done now, shiners!
+
+REVEN_TRAP4_06 = ~z~We got you, moonshiners! Give up or die!
+

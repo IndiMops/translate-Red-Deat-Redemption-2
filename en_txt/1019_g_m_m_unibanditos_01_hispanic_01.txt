@@ -1,0 +1,462 @@
+0x011E60D5 = ~z~Here's your warning, get lost.
+
+0x02B6B5BF = ~z~Get out of here before I drag your corpse out of here.
+
+0x0375C5D5 = ~z~Get out of my sight.
+
+0x04EE69BE = ~z~Don't make no mistake. What no lawman says, what no judge says, no bounty hunter...
+
+0x05ED5C04 = ~z~Enough, okay? Now we find somewhere to sleep...
+
+0x06796813 = ~z~I'm done with your warnings! I'm just gonna kill you.
+
+0x0790F3D5 = ~z~You won't be happy you made me look for you, you bastard!
+
+0x07A570F4 = ~z~Stand still or die. It's that simple.
+
+0x08ECCE87 = ~z~I already warned you, now I'm getting angry.
+
+0x09992367 = ~z~Stop it now, goddammit.
+
+0x0FCCB024 = ~z~Out of our way! You don't know us, and you don't want to!
+
+0x1AB4F2C4 = ~z~Hey, you got a gun, don't you? Shoot the man!
+
+0x1B97856A = ~z~Hands up, nice and slow.
+
+0x1C27B939 = ~z~I won't tell you again, amigo. Move it.
+
+0x1D17739F = ~z~No time. We do the sheriff now.
+
+0x1DDCE0C3 = ~z~Get your goddamned hands up.
+
+0x1F4BBC59 = ~z~Alright then!
+
+0x2B09DB5F = ~z~Let's blow 'em to hell!
+
+0x2D768C88 = ~z~Hey, the map might say New Austin, but this is Del Lobo country. You been warned.
+
+0x2DA3D93C = ~z~Come on, Jorge, quit ruining our fun.
+
+0x3A73A0B8 = ~z~Get out of here.
+
+0x3A43939A = ~z~I'm gonna enjoy killing you.
+
+0x3B5736C8 = ~z~
+
+0x3BA0F098 = ~z~Hey, you ain't no Del Lobo!
+
+0x3CB71EFF = ~z~Jorge? Hello?
+
+0x3CC46CFA = ~z~Watch your damned step.
+
+0x3D356B09 = ~z~Hey, you can't be here.
+
+0x3E5BF18B = ~z~Stop 'em before they bust loose!
+
+0x3E7EA212 = ~z~Hands way up, reach.
+
+0x3E408C88 = ~z~What, you don't like how your sister smells on me?
+
+0x3EE939EA = ~z~Alright! Let's get off these damn horses.
+
+0x3EFD025A = ~z~Run away! The wolves always get their prey.
+
+0x3F5DC4EF = ~z~Why would you wanna do that?
+
+0x3FEECCE2 = ~z~I think we have a new friend.
+
+0x4A18D31A = ~z~Leave now.
+
+0x4B4D969F = ~z~We're here, Sheriff, and we got the money!
+
+0x4BD1BEC7 = ~z~We got prices on our heads would make our own mothers think twice. I ain't giving no farmer four hours to get the Rangers...
+
+0x4CDECC81 = ~z~You're funny. If you weren't funny, you'd be dead.
+
+0x4E12FCB0 = ~z~How about I bust all your teeth out?
+
+0x4F6EFA05 = ~z~I'm done with the warnings. I'm just gonna kill you.
+
+0x5A7E3AF5 = ~z~You're about to be another dead idiota.
+
+0x5DFCFA12 = ~z~If you're a soldier, sometimes you got to start your own war, right?
+
+0x5F87C508 = ~z~You're about to bleed out right here.
+
+0x6BD4A166 = ~z~But we don't want any new friends, do we?
+
+0x7AE3F6F1 = ~z~Me too!
+
+0x7F2254CB = ~z~Get that bastard!
+
+0x8AB8CA13 = ~z~There are bad things this way. You should leave while you can.
+
+0x8B0ECEF5 = ~z~Now, we're renegotiating!
+
+0x8BDFD1A4 = ~z~There it is. Open up some windows for them. Let some air in!
+
+0x8D0AE3EA = ~z~In Spanish: Get up, Jorge, you drunk bastard!
+
+0x8DFADED9 = ~z~There ain't no point in doing that?
+
+0x9BB19E35 = ~z~Don't put your hands on me!
+
+0x9CF36E88 = ~z~This isn't where you want to be. Turn back now.
+
+0x9E60C3A4 = ~z~Next time... we burn it! We burn it all!
+
+0x12CB914B = ~z~Alright.
+
+0x13C4908F = ~z~When we find the place, I'll tell you.
+
+0x15A2DE06 = ~z~You're funny. If you weren't funny, you'd be dead.
+
+0x19F7AD6B = ~z~You're surrounded, you idiot! It's all over!
+
+0x20DC515D = ~z~There! We got a pumped up vigilante here!
+
+0x20DCB32B = ~z~You're gonna bring him out?
+
+0x20E0620E = ~z~Hold up... Now!
+
+0x21EC1983 = ~z~How come when we kill and steal we're desperados, but when you do it, you're vigilantes?
+
+0x24F62F40 = ~z~Don't you move a bit.
+
+0x26CDA5BE = ~z~Enough of that, you're doing it all wrong.
+
+0x26DECB58 = ~z~Hands up now or I blow your useless brains out.
+
+0x35B71F20 = ~z~That's Jorge! In Spanish: I shit on your mother!
+
+0x36D9AA60 = ~z~I warned you already, you're pushing your luck.
+
+0x37E4A164 = ~z~Look out, there's banditos in these hills!
+
+0x38C656EE = ~z~The men you sent... send their best!
+
+0x38C83079 = ~z~Go on, get out of here.
+
+0x40AF87BD = ~z~If I'd thought you was worth a bullet, you'd be corpse.
+
+0x42D9F635 = ~z~We did!
+
+0x45B04665 = ~z~Hey! Move it, move it!
+
+0x46ABDAD8 = ~z~It was meant to inform, but, since it hasn't...
+
+0x46CF3E03 = ~z~You're as about weak as you look, little doggy.
+
+0x50E438C4 = ~z~What you want?
+
+0x52E3D304 = ~z~Oh, keep laughing, amigo! We'll see if you laugh with a blade in your neck.
+
+0x53D5A9BC = ~z~They're coming, and we'll be ready. Never underestimate their capacity for spite.
+
+0x53EBDD6F = ~z~We kill a cowboy, they send a posse.  A ranger shoots vaqueros and steals their cattle, he's gets himself a medal.
+
+0x53FF548E = ~z~Here's the place. I hope we doubled backed enough to lose them.
+
+0x54C6274D = ~z~Let's do this!
+
+0x56F13A0B = ~z~They're on the boat, they're on the boat!
+
+0x59ECDA34 = ~z~Oh, hell, get the hell away from me.
+
+0x61A20FF5 = ~z~Spend more time walking than shooting, that's for sure...
+
+0x62AD16DD = ~z~
+
+0x62DB304E = ~z~Did you get lost on the way to the outhouse, Jorge?
+
+0x64F075BB = ~z~Move.
+
+0x67D58F10 = ~z~Get down from there, now.
+
+0x67D61290 = ~z~You ain't gonna get anything harassing folk like that.
+
+0x71DE5D43 = ~z~Nowhere to go! You're surrounded!
+
+0x73D3CF49 = ~z~Hey, hey! Kill this bastardo!
+
+0x75B227C9 = ~z~I'll leave my boots up your stinking ass!
+
+0x76B92F79 = ~z~Who is this clown? Get rid of him.
+
+0x83F0E86B = ~z~I'm about to crack your stupid head open.
+
+0x96B7EA99 = ~z~You don't want to be part of this show, believe me.
+
+0x97F862B3 = ~z~So you're a talker? Well I'm a killer.
+
+0x98E49511 = ~z~
+
+0x107C514A = ~z~Get outta here before I drag your corpse out of here.
+
+0x123D117A = ~z~Fools like you don't live long around here.
+
+0x151A500C = ~z~I'm glad to see you're a man of your word... to us at least...
+
+0x194D1443 = ~z~Move again and I bleed you out, right here. Your choice.
+
+0x244EB79B = ~z~When we get there, you're bedding down before you talk yourself into trouble...
+
+0x293ECCEE = ~z~Gonna enjoy watching you burn!
+
+0x303DEACE = ~z~You'll want to listen to my words!
+
+0x303E94D4 = ~z~I don't like this. Let's look for him.
+
+0x321E9701 = ~z~I could cut that mouth even bigger, you like.
+
+0x374D6C35 = ~z~Last chance to put your hands up before I drop you right here.
+
+0x447CBBBD = ~z~So, you're a talker? Well, I'm a killer.
+
+0x620FB9A7 = ~z~You're real stupid to think you're free to come back here.
+
+0x638D2881 = ~z~This is our path, get out of it!
+
+0x773F1277 = ~z~Hey! Hey! Someone's here!
+
+0x779B3289 = ~z~We already met.
+
+0x803AE0B0 = ~z~Easy now, you sure you know how to use that?
+
+0x815F4813 = ~z~Move aside! We ain't the friendly types.
+
+0x876E82C4 = ~z~To the north you got the Rangers... to the south, Rurales. Here...
+
+0x960B6A32 = ~z~It's too quiet. I like to hear the sounds of scream and gunfire.
+
+0x979BBBA3 = ~z~Hey. What the hell are you doing?
+
+0x1788EDFB = ~z~Get gone.
+
+0x2448AFBF = ~z~Back to the boat! Don't let 'em take it!
+
+0x3882C928 = ~z~That's enough.
+
+0x3936F2F1 = ~z~Someone's here! Someone's here!
+
+0x5336ECA5 = ~z~There ain't no point in that.
+
+0x5462EB98 = ~z~Son of a bitch, I was enjoying myself!
+
+0x5844A3CE = ~z~We built Missions, they built slave markets, don't forget it. It hasn't changed, and it never will.
+
+0x6934D4D6 = ~z~Surrender now and I won't blow your brains out of your skull.
+
+0x7008E471 = ~z~You come back here, the Del Lobos will cut your head off!
+
+0x8851CEBF = ~z~We should get back out there, take what's ours.
+
+0x8982B5EC = ~z~You can see what we think of vigilantes hanging from a tree in the desert...
+
+0x9105B759 = ~z~You're already dead!
+
+0x43626E45 = ~z~I hate chasing shadows out here. We should be chasing tail.
+
+0x50435E9F = ~z~They always begging me, you know. What? They think a wolf's got a soft side?
+
+0x73861D93 = ~z~This ain't your land to wander, you understand?
+
+0x78631F87 = ~z~Can't you see we're occupied?
+
+0x88676CF6 = ~z~Trouble's all you'll find here. Now, move along.
+
+0x95865DCF = ~z~I could cut that mouth even bigger, if you like.
+
+0x116228BE = ~z~I'll end your wasted life.
+
+0x444647F4 = ~z~Huh? The fiesta's just about to start!
+
+0x546830BA = ~z~Don't be an idiot now. Stay right there.
+
+0x578649CD = ~z~They're heading to the boat!
+
+0x769279EA = ~z~Old man, we wiped our asses on a death warrant signed by the President of Mexico himself.
+
+0x8539240A = ~z~Oh, so you want to get beat to death?
+
+0x31395746 = ~z~Don't just let 'em free 'em!
+
+0x50827911 = ~z~We rode a long way, and not just to shoot up your jail house...
+
+0x51304174 = ~z~We only pay persons who will continue to be useful.
+
+0x77653975 = ~z~That's right, go.
+
+0x89898930 = ~z~This is bandito country! Vamos!
+
+0xA1C1CB6C = ~z~Don't you move another goddamned whisker.
+
+0xA327FD69 = ~z~Time to ring the bells, hombres!
+
+0xA570CF39 = ~z~I'm gonna make you pay.
+
+0xAA22ABBE = ~z~This one.
+
+0xAB1D7DD3 = ~z~Run and hide! Run and hide!
+
+0xABE083B9 = ~z~These patrols never end...
+
+0xAD13C57E = ~z~We didn't come here to kill, but we sure can.
+
+0xADD6905E = ~z~You're in the wrong place now. Get gone.
+
+0xB2B37083 = ~z~No visitors. Keep moving.
+
+0xB3E4DD50 = ~z~Wow, you should've never come back.
+
+0xB6E5F324 = ~z~Yours and your dime store gunmen, ha! They don't mean much to us.
+
+0xB16FF316 = ~z~This is the worst mistake you ever made.
+
+0xB76CE818 = ~z~Well, cut it off then! Quick!
+
+0xB82AD08F = ~z~Hey, you better put that down, now.
+
+0xB95F6632 = ~z~Open your eyes, idiota.
+
+0xB6279A29 = ~z~Hold up now! You just wait there.
+
+0xB4773533 = ~z~A mercenary's a mercenary.
+
+0xBA2478A4 = ~z~You're finished.
+
+0xBAE81B1F = ~z~The Del Lobos send their regards!
+
+0xBAF4497A = ~z~Don't you ruin my day!
+
+0xBB1D5D26 = ~z~That's the problem you see...
+
+0xBB2AC103 = ~z~That's it. Just like that.
+
+0xBBAA06D9 = ~z~This one is trudging through our camp!
+
+0xBC42CF07 = ~z~Take him out!
+
+0xC04A26AF = ~z~Come on, let's get there! I need to take these boots off, have a drink!
+
+0xC2BB7FF2 = ~z~Now, let's get out of here. I don't feel safe in a town without a sheriff.
+
+0xC5AB4D16 = ~z~Back to the camp, now!
+
+0xC5DD6CB1 = ~z~We told you we'd find you, old man! We're here to say hello!
+
+0xC6A3FA29 = ~z~Believe me, we ain't riding with you for your charming conversation.
+
+0xC7AE21EB = ~z~I don't like ropes!
+
+0xC9B54380 = ~z~Goddamn bastard!
+
+0xC51BBD2D = ~z~You're going to die you sack of shit!
+
+0xCA5ED3A3 = ~z~You don't want to know about us, senor. Turn around while you can.
+
+0xCA846B8A = ~z~Kill him already!
+
+0xCB37065B = ~z~It's a soldier's duty.
+
+0xCC0EA2DA = ~z~That was a warning, move.
+
+0xCD1F0142 = ~z~That's a nice little gun!
+
+0xCEBFDC6A = ~z~Get out of my sight.
+
+0xCFD74545 = ~z~Okay, okay. We might as well keep moving, eh?
+
+0xD0800882 = ~z~There's nothing out here. If there was we woulda killed it.
+
+0xD2B2FF81 = ~z~Run and hide! Run and hide...
+
+0xD6C1FBBC = ~z~Put your hands up for me.
+
+0xD23BFB12 = ~z~Get some rest Marco. I'm already sleeping...
+
+0xD428ACF8 = ~z~Move your ass! Before it can't move!
+
+0xD33582B4 = ~z~Keep your heads down, citizens, or you'll get in the way of our bullets!
+
+0xD188695B = ~z~
+
+0xD600914E = ~z~Stop there.
+
+0xD5190553 = ~z~You ain't too good at listening, here's your last chance.
+
+0xDD9EF1D7 = ~z~Do you know who's land you're strolling on?
+
+0xDDDD2BA7 = ~z~Just do your job and keep your mouth shut.
+
+0xDDE57AB5 = ~z~Get gone.
+
+0xDE4CDCF0 = ~z~The Del Lobo Gang... we own every one of you, and we do what we want with you.
+
+0xDFAFD4AC = ~z~You'll die right here!
+
+0xDFB180F1 = ~z~You just got us.
+
+0xE1F7B8C0 = ~z~They belong to us. Don't let 'em take 'em!
+
+0xE7F5376C = ~z~We wouldn't have to patrol if we'd wiped this whole varrio clean.
+
+0xE9E8278C = ~z~They're in the camp!
+
+0xE18A8B6D = ~z~I sleep light.
+
+0xE337A508 = ~z~This is a warning.
+
+0xE353A1C8 = ~z~I'm done with the warnings, I'm just gonna kill you.
+
+0xE8697EAC = ~z~Hey you! Stop for a second.
+
+0xE6359886 = ~z~There's only one thing you're staying for!
+
+0xEA0401E1 = ~z~Hey now! Slow down for a second.
+
+0xEA76AEB8 = ~z~Have you lost your damn mind?
+
+0xEBA74822 = ~z~Look at this man, he so tough... Kill the bastard.
+
+0xED1DD9E3 = ~z~Why you wasting air on him, when you could be wasting bullets?
+
+0xED837053 = ~z~You're done!
+
+0xEDC72C2D = ~z~This is what the turret's for! Vamos!
+
+0xEEDCCAB6 = ~z~I should cut your tongue out for that.
+
+0xF07B1FE0 = ~z~Go on. Get out of here.
+
+0xF0BDFB1F = ~z~You one of their gunmen? You'll die like one.
+
+0xF2E7C468 = ~z~I'm warning you, don't push me.
+
+0xF9B94D3D = ~z~What the hell?
+
+0xF11B2120 = ~z~Leave now.
+
+0xF37AC22E = ~z~If I were you, and I had done this, I would probably leave.
+
+0xF64CB7BA = ~z~You messed con los Del Lobos!
+
+0xF735C79D = ~z~You don't want to disappoint us, Sheriff.
+
+0xF3993DB9 = ~z~Stop that now, damn it.
+
+0xF9978047 = ~z~Who's shooting, eh?
+
+0xFA45CFAC = ~z~You ain't too good at listening. Here's your last chance.
+
+0xFAE5A76B = ~z~
+
+0xFB5BCDDE = ~z~Only one thing to do with a dog... you kick it!
+
+0xFCAA1153 = ~z~He probably passed out in the sand, drunk out of his head. I'm tired myself.
+
+0xFE17E6A8 = ~z~
+
+0xFF2C3E00 = ~z~Save it all for the wagon trains, okay? Let the liquor take the edge off.
+

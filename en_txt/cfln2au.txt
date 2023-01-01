@@ -1,0 +1,36 @@
+CFLN2_ACTA_1 = ~z~~sl:0.0:1.6~My ma was from field stock.~sl:0.9:1.2~But daddy?~sl:0.4~He worked indoors.
+
+CFLN2_ACTA_2 = ~z~~sl:0.0:1.6~He was a...~sl:0.2:1.3~house nigger.~sl:0.4~That's what they called him.
+
+CFLN2_ACTA_3 = ~z~~sl:0.0:2.2~I mean, he could read and write~sl:0.3~and he never worked in the fields.
+
+CFLN2_ACTA_4 = ~z~~sl:0.0:1.6~He was educated!~sl:0.3~His pa the same.
+
+CFLN2_ACTA_5 = ~z~~sl:0.0:1.4~They were uh...~sl:0.3~they were tutors.
+
+CFLN2_ACTA_6 = ~z~~sl:0.0:1.3~Meant nobody liked them.~sl:0.3~Not the whites and not the blacks.
+
+CFLN2_ACTA_7 = ~z~~sl:0.0:1.6~But he was smart, my pa.~sl:0.5:0.8~And I loved him.~sl:~And he,
+
+CFLN2_ACTA_8 = ~z~~sl:0.0:1.5~he taught me how to read...~sl:0.2:2.1~he taught me to judge people for what they are.~sl:0.6~Not how they look.
+
+CFLN2_ACTA_9 = ~z~~sl:0.0:1.2~But uh...~sl:1.5:2.1~one thing he couldn't teach me was...~sl:1.4~how not to care.
+
+CFLN2_ACTA_10 = ~z~Some drunks picked on him walking home one night,
+
+CFLN2_ACTA_11 = ~z~and they beat him...
+
+CFLN2_ACTA_12 = ~z~~sl:0.0:1.8~and killed him, so I...~sl:1.3~I was fifteen at the time.
+
+CFLN2_ACTA_13 = ~z~~sl:0.0:1.4~I stole a gun...~sl:0.7~and I shot 'em.
+
+CFLN2_ACTA_14 = ~z~~sl:0.0:1.7~So then they wanted me so I went on the run.~sl:~I ran right till I bumped into Dutch.
+
+CFLN2_ACTA_15 = ~z~~sl:0.0:1.2~Yeah, my pa, he...~sl:0.1~he wanted me to be a lawyer.
+
+CFLN2_ACTA_16 = ~z~~sl:0.0:1.0~Well...~sl:0.3:1.7~I guess I've ended up working in the law.~sl:0.3~In a way of seeing things.
+
+CFLN2_ACTB_1 = ~z~Any system that can kill my daddy...
+
+CFLN2_ACTB_2 = ~z~that ain't a system I want to be a part of.
+

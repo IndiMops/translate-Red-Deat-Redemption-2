@@ -1,0 +1,12 @@
+CCM26_ACT1_1 = ~z~I'm sorry, Arthur... we're, uhh... it's private, you know.
+
+CCM26_ACT1_2 = ~z~Don't mind me.
+
+CCM26_ACT2_1 = ~z~Don't act like a child, Arthur. Give us a minute.
+
+CCM26_ACT3_1 = ~z~I said give us a minute!
+
+CCM26_ACT3_2 = ~z~I just need some goddamn peace to think!
+
+CCM26_ACT3_3 = ~z~Well done, cowpoke, well done...
+

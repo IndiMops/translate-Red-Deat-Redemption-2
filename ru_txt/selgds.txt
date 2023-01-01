@@ -1,0 +1,118 @@
+0x854CA5AF = Товары уничтожены
+
+FETCH_CAMP_SELL_SCORETIMER_DESTROY = Повозка уничтожена
+
+FETCH_CAMP_SELL_SCORETIMER_DESTROY_YOU = Вы уничтожили ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~
+
+FETCH_CTX_TURN_IN_SELL_GOODS_STATIONARY = Сдайте товары
+
+FETCH_MAIL_SELL_GOODS_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Соперники~s~ могут украсть товары
+
+FETCH_MAIL_SELL_GOODS_PVP_GLOBAL_SIGNAL_PLURAL = ~COLOR_ENEMY~Соперники~s~ могут украсть товары
+
+FETCH_OBJ_DEFEND_SELL_GOODS_PACKAGE = Защищайте ~COLOR_MP_OBJECTIVE_FRIENDLY~товары~s~ на пути ~1~.
+
+FETCH_OBJ_DEFEND_SELL_GOODS_PACKAGE_PLURAL = Защищайте ~COLOR_MP_OBJECTIVE_FRIENDLY~товары~s~ на пути ~1~.
+
+FETCH_OBJ_DROP_SELL_GOODS_PACKAGE = Доставьте ~COLOR_MP_OBJECTIVE_NEUTRAL~товары~s~.
+
+FETCH_OBJ_RETURN_SELL_GOODS_PACKAGE = Доставьте товары ~1~.
+
+FETCH_OBJ_RETURN_SELL_GOODS_PACKAGE_SECONDARY = Доставьте товары ~1~.
+
+FETCH_OBJ_STEAL_SELL_GOODS_PACKAGE = Заберите ~COLOR_MP_OBJECTIVE_NEUTRAL~товары~s~.
+
+FETCH_OBJ_STEAL_SELL_GOODS_PACKAGE_FROM_POSSE = Заберите ~COLOR_MP_OBJECTIVE_ENEMY~товары~s~ у отряда ~COLOR_ENEMY~~1~~s~.
+
+FETCH_OBJ_STEAL_SELL_GOODS_PACKAGE_FROM_POSSE_PLURAL = Отберите ~COLOR_MP_OBJECTIVE_ENEMY~товары~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_OBJ_STEAL_SELL_GOODS_PACKAGE_FROM_POSSE_PVP = Украдите ~COLOR_MP_OBJECTIVE_ENEMY~товары~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_OBJ_STEAL_SELL_GOODS_PACKAGE_FROM_POSSE_PVP_PLURAL = Украдите ~COLOR_MP_OBJECTIVE_ENEMY~товары~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_OBJ_STEAL_SELL_GOODS_PACKAGE_PLURAL = Заберите ~COLOR_MP_OBJECTIVE_NEUTRAL~товары~s~.
+
+FETCH_OBJ_STEAL_SELL_GOODS_WAGON = Доберитесь до ~COLOR_MP_OBJECTIVE_NEUTRAL~повозки~s~.
+
+FETCH_OBJ_STEAL_SELL_GOODS_WAGON_PLURAL = Доберитесь до ~COLOR_MP_OBJECTIVE_NEUTRAL~повозки~s~.
+
+FETCH_PACKAGE_SELL_GOODS_DELIVER_TEAM_PRIMARY_FAIL = Игрок ~1~ украл товары
+
+FETCH_PACKAGE_SELL_GOODS_DELIVER_TEAM_PRIMARY_FAIL_NP = Товары были украдены
+
+FETCH_PACKAGE_SELL_GOODS_DELIVER_TEAM_PRIMARY_FAIL_YOU = Вы украли товары
+
+FETCH_PACKAGE_SELL_GOODS_DELIVER_TEAM_PRIMARY_FAIL_YOUR = Ваш отряд украл товары
+
+FETCH_PACKAGE_SELL_GOODS_DELIVER_TEAM_PRIMARY_PASS = Игрок ~1~ продал товары
+
+FETCH_PACKAGE_SELL_GOODS_DELIVER_TEAM_PRIMARY_PASS_NP = Сумка с товарами доставлена
+
+FETCH_PACKAGE_SELL_GOODS_DELIVER_TEAM_PRIMARY_PASS_YOU = Вы доставили товары
+
+FETCH_PACKAGE_SELL_GOODS_DELIVER_TEAM_PRIMARY_PASS_YOUR = Ваш отряд доставил товары
+
+FETCH_PACKAGE_SELL_GOODS_JOIN_TEAM_SECONDARY = ~COLOR_ENEMY~~1~~s~ пытаются украсть мешок с товарами.
+
+FETCH_PACKAGE_SELL_GOODS_JOIN_TEAM_SECONDARY_PLURAL = ~COLOR_ENEMY~~1~~s~ пытаются украсть мешок с товарами.
+
+FETCH_SELL_GOODS_BUYER_KILLED = Покупатели убиты
+
+FETCH_SELL_GOODS_HELP_HOLSTER = Уберите оружие и снаряжение, прежде чем разговаривать с покупателем.
+
+FETCH_SELL_GOODS_MAIL_MULTI_HELP_INTRO = Доставьте товары, чтобы совершить сделку. Если грузовая повозка ~1b~ будет уничтожена, вы все еще сможете доставить часть товара.
+
+FETCH_SELL_GOODS_MAIL_MULTI_HELP_INTRO_PLURAL = Доставьте товары, чтобы совершить сделку. Если грузовая повозка ~1b~ будет уничтожена, вы все еще сможете доставить часть товара.
+
+FETCH_SELL_GOODS_MAIL_MULTI_HELP_INTRO_SECONDARY = Игрок ~1~ начал противостояние с отрядом ~2~. Чтобы получить полную награду, украдите и доставьте товары ~3b~.
+
+FETCH_SELL_GOODS_MAIL_MULTI_HELP_INTRO_SECONDARY_PLURAL = Игрок ~1~ начал противостояние с отрядом ~2~. Чтобы получить полную награду, украдите и доставьте товары ~3b~.
+
+FETCH_SELL_GOODS_MAIL_MULTI_HELP_INTRO_SECONDARY_PLURAL_YOU = Вы начали противостояние с отрядом ~1~. Чтобы получить полную награду, украдите и доставьте товары ~2b~.
+
+FETCH_SELL_GOODS_MAIL_MULTI_HELP_INTRO_SECONDARY_YOU = Вы начали противостояние с отрядом ~1~. Чтобы получить полную награду, украдите и доставьте товары ~2b~.
+
+FETCH_SELL_GOODS_OBJ_KILL_ATTACKERS_BANDITS = Устраните ~COLOR_ENEMY~бандитов~s~.
+
+FETCH_SELL_GOODS_ONE_SUPPLIES_HELP = Нельзя нести больше одной сумки с товарами.
+
+FETCH_SELL_GOODS_PROTECT_FRIENDLY = Защитите покупателей ~1b~ от бандитов.
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_DESC_PRIMARY = Продайте ~COLOR_MP_OBJECTIVE_NEUTRAL~товары~s~
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_DESC_PRIMARY_PLURAL = Продайте ~COLOR_MP_OBJECTIVE_NEUTRAL~товары~s~
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_DESC_SECONDARY = Украдите ~COLOR_MP_OBJECTIVE_ENEMY~товары~s~.
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_DESC_SECONDARY_PLURAL = Украдите ~COLOR_MP_OBJECTIVE_ENEMY~товары~s~.
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_OVER = Товары уничтожены
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_OVER_PLURAL = Товары уничтожены
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_PRIMARY_FAIL = Товары украдены
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_PRIMARY_FAIL_PLURAL = Товары украдены
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_PRIMARY_PASS = Товары проданы
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_PRIMARY_PASS_PARTIAL = Товаров продано: ~1~ из ~2~
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_PRIMARY_PASS_PLURAL = Товары проданы
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_SECONDARY_FAIL = Товары не были украдены
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_SECONDARY_FAIL_PLURAL = Товары не были украдены
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_SECONDARY_FAIL_RIVALS = Товары украдены вражеским отрядом
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_SECONDARY_FAIL_RIVALS_PLURAL = Товары украдены вражеским отрядом
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_SECONDARY_PASS = Товары украдены
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_SECONDARY_PASS_PARTIAL = Товаров украдено: ~1~ из ~2~
+
+FETCH_SELL_GOODS_SHARD_PACKAGE_SECONDARY_PASS_PLURAL = Товары украдены
+
+FETCH_SELL_GOODS_WAGON_DESTROYED = Грузовая повозка уничтожена. Вы потеряли часть товара. Доставьте оставшийся товар ~1b~, чтобы получить хотя бы частичную оплату.
+

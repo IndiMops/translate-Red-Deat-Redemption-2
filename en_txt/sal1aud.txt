@@ -1,0 +1,604 @@
+SAL1_ARRIVE_1 = ~z~Here we are.
+
+SAL1_BANT2SHOUTED_8 = ~z~"y-you worry too much, kid", "just some business to attend to, kid"... you know how he is.
+
+SAL1_BANT2SHOUTED_14 = ~z~Couldn't even tell ya quite how. Happened like the strike of a match.
+
+SAL1_BANT2SPOKEN_8 = ~z~"you worry too much, kid", "just some business to attend to, kid"... you know how he is.
+
+SAL1_BANT2SPOKEN_14 = ~z~Couldn't even tell ya quite how. It happened like the strike of a match.
+
+SAL1_BANT2_1 = ~z~I rode as fast as I could. Didn't stop for nothing.
+
+SAL1_BANT2_2 = ~z~You look like you've been through it.
+
+SAL1_BANT2_3 = ~z~I'm beat...
+
+SAL1_BANT2_4 = ~z~We finally got off that mountain, then this... Micah's got a crazy side, Arthur.
+
+SAL1_BANT2_5 = ~z~What were you boys doing?
+
+SAL1_BANT2_6 = ~z~You're supposed to be scouting ahead for us.
+
+SAL1_BANT2_7 = ~z~I kept asking him what we was doing, but he was
+
+SAL1_BANT2_9 = ~z~Yes I do.
+
+SAL1_BANT2_10 = ~z~He was half-soaked before we even got there.
+
+SAL1_BANT2_11 = ~z~Then we ran into some fellers, one of them Micah knew, drank some more...
+
+SAL1_BANT2_12 = ~z~and this is supposed to be a dry town we're in too.
+
+SAL1_BANT2_13 = ~z~And then he shoots one of them... I know how that goes.
+
+SAL1_BANT2_15 = ~z~The law was on us fast too...
+
+SAL1_BANT2_16 = ~z~They was ready to string me up there and then but I got away, just about.
+
+SAL1_BANT2_17 = ~z~You're alright now. We'll take care of it.
+
+SAL1_BANT2_18 = ~z~So you're gonna go get him? I'll come with you.
+
+SAL1_BANT2_19 = ~z~No, you leave it to me. For now, let's drink something, forget about Micah.
+
+SAL1_BANT2_20 = ~z~It was drink that started all this.
+
+SAL1_BANT2_21 = ~z~We'll just have a couple, settle you down, then head back, okay?
+
+SAL1_BANT2_22 = ~z~Okay.
+
+SAL1_BANT2_23 = ~z~Now... I should warn you, me and a couple of the other boys got in a bit of a fight last time we was here.
+
+SAL1_BANT2_24 = ~z~What kind of fight?
+
+SAL1_BANT2_25 = ~z~Nothing big, we kept it clean. We're all good.
+
+SAL1_BANT2_26 = ~z~If you say so, Arthur.
+
+SAL1_BARTENDER_1 = ~z~You alright there, slugger?
+
+SAL1_BARTENDER_2 = ~z~Think your friend went upstairs.
+
+SAL1_BAR_LENNY_1 = ~z~Lenny? Maybe you should switch to water, my friend.
+
+SAL1_COMEHERE_1 = ~z~Come here, boy... come here.
+
+SAL1_DROWN_ALT_1 = ~z~
+
+SAL1_DROWN_ALT_2 = ~z~
+
+SAL1_EXT_1 = ~z~Arthur...
+
+SAL1_EXT_2 = ~z~you alive?
+
+SAL1_EXT_3 = ~z~Arthur...
+
+SAL1_EXT_4 = ~z~you alive, Arthur?~n~~m~Shut up.
+
+SAL1_EXT_5 = ~z~I wanna die.
+
+SAL1_EXT_6 = ~z~Where are we?
+
+SAL1_EXT_7 = ~z~What did we do?
+
+SAL1_EXT_8 = ~z~I don't know.
+
+SAL1_EXT_9 = ~z~Me neither.
+
+SAL1_EXT_10 = ~z~Shit.
+
+SAL1_EXT_11 = ~z~You pair of degenerates...
+
+SAL1_EXT_12 = ~z~there's a fine for drunken violence in this town.
+
+SAL1_EXT_13 = ~z~You're just lucky no one was killed.
+
+SAL1_EXT_14 = ~z~Hey we didn't start a thing.
+
+SAL1_EXT_15 = ~z~Yes you did.
+
+SAL1_EXT_16 = ~z~Well...
+
+SAL1_EXT_17 = ~z~I don't remember.
+
+SAL1_EXT_18 = ~z~Either of you fools got any money?
+
+SAL1_EXT_19 = ~z~It's ten dollars and you're free to walk.
+
+SAL1_EXT_20 = ~z~Sure.
+
+SAL1_EXT_21 = ~z~Now...
+
+SAL1_EXT_22 = ~z~get out of here...
+
+SAL1_EXT_23 = ~z~and I don't want to see either of you around here no more.
+
+SAL1_EXT_24 = ~z~Oh Jesus.
+
+SAL1_EXT_25 = ~z~So...
+
+SAL1_EXT_26 = ~z~that was a quiet drink?
+
+SAL1_EXT_27 = ~z~First one was pretty quiet.
+
+SAL1_EXT_28 = ~z~Yeah, the first one was pretty quiet.
+
+SAL1_EXT_29 = ~z~At least it took your mind off goddamn Micah...
+
+SAL1_EXT_30 = ~z~Well, that's certainly true.
+
+SAL1_EXT_31 = ~z~I gotta get out of here.
+
+SAL1_EXT_32 = ~z~I'm just gonna...
+
+SAL1_EXT_33 = ~z~have a little sit down and...
+
+SAL1_EXT_34 = ~z~feel sorry for myself.
+
+SAL1_EXT_IDLE1_1 = ~z~
+
+SAL1_EXT_IDLE2_1 = ~z~
+
+SAL1_EXT_IDLE3_1 = ~z~
+
+SAL1_EXT_LO_1 = ~z~
+
+SAL1_FAKELEN_F1_1 = ~z~Do I look like a Lenny to you?
+
+SAL1_FAKELEN_F2_1 = ~z~Lenny? Go away, you're drunk.
+
+SAL1_FAKELEN_F3_1 = ~z~You mean Jenny? She left with a john an hour ago.
+
+SAL1_FAKELEN_M1_1 = ~z~How many have you had, pal?
+
+SAL1_FAKELEN_M2_1 = ~z~I'm Clyde. You got the wrong feller.
+
+SAL1_FAKELEN_M3_1 = ~z~Lenny? What are you talking about?
+
+SAL1_FAKELEN_M4_1 = ~z~Just go home, will you?
+
+SAL1_FAKELEN_M5_1 = ~z~What? I ain't Lenny.
+
+SAL1_IG1_1 = ~z~~sl:0.0:1.0:1~Thank you.
+
+SAL1_IG1_2 = ~z~~sl:0.9:0.0~Micah seemed to know a lot of people... that was the problem.
+
+SAL1_IG1_3 = ~z~~sl:2.1:0.0~How you mean?
+
+SAL1_IG1_4 = ~z~I mean, I done seen a lot of crazy, crazy stuff, but Micah...
+
+SAL1_IG1_5 = ~z~"I seen a lot of crazy, crazy stuff."
+
+SAL1_IG1_6 = ~z~Will you shut up?
+
+SAL1_IG1_7 = ~z~"Will you shut up?"
+
+SAL1_IG1_8 = ~z~Be quiet, buddy.
+
+SAL1_IG1_9 = ~z~~sl:1.7:0.0~They're dullards.
+
+SAL1_IG1_10 = ~z~My Lord... you men is dull...
+
+SAL1_IG1_11 = ~z~
+
+SAL1_IG1_12 = ~z~Leave this fool alone.
+
+SAL1_IG1_DECIDE_1 = ~z~"Leave the fool alone".
+
+SAL1_IG1_DECIDE_2 = ~z~People been leaving me alone for the last ten years.
+
+SAL1_IG1_DECIDE_3 = ~z~~sl:0.0:2.0:1~I'm bored with being left alone.
+
+SAL1_IG1_DECIDE_4 = ~z~
+
+SAL1_IG1_DECIDE_5 = ~z~Don't... don't...  don't pay attention to that fool.
+
+SAL1_IG1_DECIDE_6 = ~z~"Don't pay attention to that fool..."
+
+SAL1_IG1_DECIDE_7 = ~z~~sl:0.0:2.0~People been not been paying attention to this fool~sl:~for the last ten years.
+
+SAL1_IG1_DECIDE_8 = ~z~I'm getting bored with not being paid attention to.
+
+SAL1_IG3_2_1 = ~z~
+
+SAL1_IG3_2_2 = ~z~
+
+SAL1_IG3_2_3 = ~z~What are you doin- where you go-
+
+SAL1_IG3_2_4 = ~z~
+
+SAL1_IG3_2_5 = ~z~
+
+SAL1_IG3_2_6 = ~z~Oh shi-
+
+SAL1_IG4_INTRO_2 = ~z~Get away from me!
+
+SAL1_IG4_INTRO_3 = ~z~Slippery little shit, ain't he?
+
+SAL1_IG4_INTRO_4 = ~z~
+
+SAL1_IG4_INTRO_5 = ~z~Get down from there.
+
+SAL1_IG4_P1_1 = ~z~Leave the kid alone, you goddamn animals...
+
+SAL1_IG4_P1_2 = ~z~Who do you think you're talking to?
+
+SAL1_IG4_P1_3 = ~z~Nobody... I'm talking to nobody...
+
+SAL1_IG4_P1_4 = ~z~What did you say?
+
+SAL1_IG4_P1_5 = ~z~What?
+
+SAL1_IG4_P1_6 = ~z~I said, what did you say?
+
+SAL1_IG4_P2_GET_1 = ~z~Get lost, buddy.
+
+SAL1_IG4_P2_GET_2 = ~z~Shut up, mister!
+
+SAL1_IG4_P2_GET_3 = ~z~Yeah... shut your mouth, mister.
+
+SAL1_IG5B_1 = ~z~
+
+SAL1_IG5B_2 = ~z~~sl:3.0:0.0~I got a big mouth! I got...
+
+SAL1_IG5C_1 = ~z~
+
+SAL1_IG5C_2 = ~z~~sl:1.0:1.2:1~I'm sorry!
+
+SAL1_IG5_1 = ~z~
+
+SAL1_IG5_2 = ~z~~sl:1.2:1.8:1~I didn't mean nothing by it.
+
+SAL1_IG5_ESC_1 = ~z~
+
+SAL1_IG7_1 = ~z~
+
+SAL1_IG7_2 = ~z~
+
+SAL1_IG7_3 = ~z~~sl:0.0:1.3~This way... this way...~sl:1.5~Th-there they are, there they are! Those are the men!
+
+SAL1_IG7_4 = ~z~~sl:3.7:2.5:1~I got him... I got the bastard.
+
+SAL1_IG7_5 = ~z~Come here, you drunk fool.
+
+SAL1_IG7_6 = ~z~Never!
+
+SAL1_IG8_B_1 = ~z~
+
+SAL1_IG8_B_2 = ~z~~sl:0.0:1.0~I've seen enough.~sl:2.9~Okay. Come here, you...
+
+SAL1_IG12_1 = ~z~
+
+SAL1_IG12_2 = ~z~~sl:0.0:3.2:1~Oh, you moron, Morgan...
+
+SAL1_IG12_3 = ~z~You moron... not again.
+
+SAL1_IG12_EXIT_1 = ~z~
+
+SAL1_IG12_PUKE_1 = ~z~
+
+SAL1_IG12_WALK_1 = ~z~
+
+SAL1_IG13_BEAT1_1 = ~z~Will you shut the hell up?
+
+SAL1_IG13_BEAT1_2 = ~z~Hey!
+
+SAL1_IG13_BEAT1_3 = ~z~Get the hell off me!
+
+SAL1_IG13_BEAT1_4 = ~z~Now get outta here, don't come back.
+
+SAL1_IG13_BEAT1_5 = ~z~Hey... one last drink.
+
+SAL1_IG13_BEAT1_6 = ~z~Yeah, just one more.
+
+SAL1_IG13_BEAT1_7 = ~z~Exactly.
+
+SAL1_IG13_CALM_1 = ~z~~sl:0.6:0.0~Listen, buddy... you're a charming fellow... one of the best.
+
+SAL1_IG13_CALM_2 = ~z~~sl:0.0:3.7~But me and the kid here, we're trying to talk business, so, could you...~sl:0.6~possibly leave us alone?
+
+SAL1_IG13_CALM_3 = ~z~No offense intended.
+
+SAL1_IG13_CALM_4 = ~z~~sl:0.0:2.8~Ain't no pleasing some folk.~sl:1.9~was, just... trying to be friendly.
+
+SAL1_IG13_THRET_1 = ~z~~sl:0.0:2.6~Hey, buddy. If you don't shut up,~sl:0.9~I'm gonna rip your head clean off your shoulders... is that clear?
+
+SAL1_IG13_THRET_2 = ~z~Now get outta here!
+
+SAL1_IG13_THRET_3 = ~z~~sl:0.0:2.6~Clear? Clear...~sl:0.8~very clear. I'm on my way...
+
+SAL1_IG15_A_1 = ~z~~sl:0.0:3.2:1~Hey... hey buddy...
+
+SAL1_IG15_A_2 = ~z~
+
+SAL1_IG15_B_1 = ~z~~sl:1.1~Hey... no hard feelings, huh?
+
+SAL1_IG15_B_2 = ~z~
+
+SAL1_IG15_C_1 = ~z~~sl:2.5:2.9:1~You ever wonder if life is a brutal waste of time?
+
+SAL1_IG15_C_2 = ~z~
+
+SAL1_IG15_D_1 = ~z~Yeah, I think you're right, partner.
+
+SAL1_IG16_1 = ~z~Arthur, Arthur, what are you doing?
+
+SAL1_IG16_2 = ~z~
+
+SAL1_IG16_3 = ~z~
+
+SAL1_IG16_ALIVE_1 = ~z~You'll never take me alive!
+
+SAL1_IG17_AMERI_1 = ~z~I'm an American!
+
+SAL1_IG17_CHASE_1 = ~z~You... stop right now, you drunken fool.
+
+SAL1_IG17_CHASE_2 = ~z~I said stop!
+
+SAL1_IG17_LIBER_1 = ~z~Life, liberty and the pursuit of happiness!
+
+SAL1_IG18_BITDK_1 = ~z~Lenny?
+
+SAL1_IG18_BITDK_2 = ~z~Get out!~n~~m~What the hell?
+
+SAL1_IG18_BITDK_3 = ~z~Sorry...
+
+SAL1_IG18_DRUNK_1 = ~z~Lenny?
+
+SAL1_IG18_DRUNK_2 = ~z~Lenny!
+
+SAL1_INT_1 = ~z~Arthur.
+
+SAL1_INT_2 = ~z~Dutch.
+
+SAL1_INT_3 = ~z~Miss O'Shea.
+
+SAL1_INT_4 = ~z~Well, it feels like we are finally getting back on our feet.
+
+SAL1_INT_5 = ~z~You find a buyer for them bonds we stole?
+
+SAL1_INT_6 = ~z~Not yet, but Hosea's working on it.
+
+SAL1_INT_7 = ~z~When we heading west?
+
+SAL1_INT_8 = ~z~Soon...
+
+SAL1_INT_9 = ~z~I don't know.
+
+SAL1_INT_10 = ~z~Feels like...
+
+SAL1_INT_11 = ~z~things have changed.
+
+SAL1_INT_12 = ~z~The whole world has changed.
+
+SAL1_INT_13 = ~z~That they don't want folk like us no more.
+
+SAL1_INT_14 = ~z~We're being hunted.
+
+SAL1_INT_15 = ~z~We are smarter than them.
+
+SAL1_INT_16 = ~z~Only the feeblest of men take jobs in the government.
+
+SAL1_INT_17 = ~z~I hope so.
+
+SAL1_INT_18 = ~z~Trust Dutch, Mr. Morgan.
+
+SAL1_INT_19 = ~z~You have to.
+
+SAL1_INT_20 = ~z~They got Micah.
+
+SAL1_INT_21 = ~z~Dutch...
+
+SAL1_INT_22 = ~z~Arthur...
+
+SAL1_INT_23 = ~z~What's going on?
+
+SAL1_INT_24 = ~z~They got Micah.
+
+SAL1_INT_25 = ~z~He, he's been arrested for murder.
+
+SAL1_INT_26 = ~z~He was in Strawberry and...
+
+SAL1_INT_27 = ~z~It's okay, son. Breathe...
+
+SAL1_INT_28 = ~z~They nearly lynched me.
+
+SAL1_INT_29 = ~z~They...
+
+SAL1_INT_30 = ~z~they got Micah in the sheriff's in Strawberry...
+
+SAL1_INT_31 = ~z~and there's talk of hanging him.
+
+SAL1_INT_32 = ~z~Here's hoping.
+
+SAL1_INT_33 = ~z~Arthur.
+
+SAL1_INT_34 = ~z~What?
+
+SAL1_INT_35 = ~z~That fool brought this on himself.
+
+SAL1_INT_36 = ~z~You know my feelings about him, Dutch.
+
+SAL1_INT_37 = ~z~You think I can't see past his bluster to the heart inside?
+
+SAL1_INT_38 = ~z~He is a fine man.
+
+SAL1_INT_39 = ~z~No, I ain't saving that fool.
+
+SAL1_INT_40 = ~z~I can't go.
+
+SAL1_INT_41 = ~z~My face will be all over West Elizabeth.
+
+SAL1_INT_42 = ~z~I am asking.
+
+SAL1_INT_43 = ~z~He would do it for you.
+
+SAL1_INT_44 = ~z~I don't think he would, but...
+
+SAL1_INT_45 = ~z~fine, alright.
+
+SAL1_INT_46 = ~z~Arthur...
+
+SAL1_INT_47 = ~z~You okay, Lenny?
+
+SAL1_INT_48 = ~z~Yeah, course I'm okay.
+
+SAL1_INT_49 = ~z~You don't seem okay.
+
+SAL1_INT_50 = ~z~You take that kid into town.
+
+SAL1_INT_51 = ~z~Valentine, not Strawberry...
+
+SAL1_INT_52 = ~z~get him drunk...
+
+SAL1_INT_53 = ~z~and Arthur...
+
+SAL1_INT_54 = ~z~no crazy business.
+
+SAL1_INT_55 = ~z~I've given that up.
+
+SAL1_INT_56 = ~z~And you get Micah out of that jail.
+
+SAL1_INT_57 = ~z~Come on, son.
+
+SAL1_INT_58 = ~z~I'll get to it, Dutch.
+
+SAL1_INT_59 = ~z~Just... can't drop everything.
+
+SAL1_INT_LIA_1 = ~z~Arthur.
+
+SAL1_INT_LIB_1 = ~z~Dutch... Miss O'Shea.
+
+SAL1_ISTHATYOU_01 = ~z~Lenny!
+
+SAL1_ISTHATYOU_02 = ~z~There you are, Lenny!
+
+SAL1_ISTHATYOU_03 = ~z~I've been looking all over for you, Lenny!
+
+SAL1_ISTHATYOU_04 = ~z~~sl:1.0:1.8:1~Found you, Lenny!
+
+SAL1_ISTHATYOU_05 = ~z~Lenny, my boy!
+
+SAL1_ISTHATYOU_06 = ~z~Damn it, Lenny, stop sloping off on me!
+
+SAL1_MCS1_1 = ~z~Just one or two...
+
+SAL1_MCS1_2 = ~z~right, Arthur?
+
+SAL1_MCS1_3 = ~z~Course, just a drink...
+
+SAL1_MCS1_4 = ~z~no big drama.
+
+SAL1_MCS1_5 = ~z~Can we get a couple of beers, please?
+
+SAL1_MCS1_6 = ~z~You...
+
+SAL1_MCS1_7 = ~z~I don't want no trouble.
+
+SAL1_MCS1_8 = ~z~And you'll get none from me...
+
+SAL1_MCS1_9 = ~z~I was defending myself.
+
+SAL1_MCS1_10 = ~z~Tommy, he's...
+
+SAL1_MCS1_11 = ~z~He'll be fine.
+
+SAL1_MCS1_12 = ~z~Here, have one for yourself.
+
+SAL1_MCS2_1 = ~z~That's great, partner.
+
+SAL1_MCS2_2 = ~z~Lenny?
+
+SAL1_MCS2_3 = ~z~Lenny, where are you?
+
+SAL1_MCS3_1 = ~z~Well, why ain't you never married?
+
+SAL1_MCS3_2 = ~z~No one would have me.
+
+SAL1_MCS3_3 = ~z~That's the thing you see, 'cause it...
+
+SAL1_MCS3_4 = ~z~Lenny?
+
+SAL1_MCS3_5 = ~z~Lenny!
+
+SAL1_MCS3_LI_1 = ~z~~sl:0.0:2.3:1~You know what, I don't know.
+
+SAL1_MCS3_LI_2 = ~z~
+
+SAL1_MCS3_LI_CO_1 = ~z~What are you doing, kid?
+
+SAL1_MCS3_LI_CO_2 = ~z~Hello, Arthur.
+
+SAL1_MCS4_1 = ~z~You... you're a...
+
+SAL1_MCS4_2 = ~z~you're a good friend to me, Arthur.
+
+SAL1_MCS4_3 = ~z~Shut up...
+
+SAL1_MCS4_4 = ~z~cheers!
+
+SAL1_MCS4_5 = ~z~Cheers.
+
+SAL1_MCS4_6 = ~z~Not you again.
+
+SAL1_MOUNTUP_01 = ~z~Are we going, Arthur?
+
+SAL1_MOUNTUP_02 = ~z~What's happening? I thought we were leaving?
+
+SAL1_MOUNTUP_03 = ~z~Can we... just get outta here?
+
+SAL1_NEVERTAKE_1 = ~z~You'll never take me alive!
+
+SAL1_SEENLENNY2_01 = ~z~Hey, you know where Lenny is?
+
+SAL1_SEENLENNY2_02 = ~z~You know where my friend is?
+
+SAL1_SEENLENNY2_03 = ~z~Hey, you seen my friend?
+
+SAL1_SEENLENNY2_04 = ~z~I lost my friend? You seen where he went?
+
+SAL1_SEENLENNY_01 = ~z~Hey, you seen my friend anywhere?
+
+SAL1_SEENLENNY_02 = ~z~You seen that feller I was with?
+
+SAL1_SEENLENNY_03 = ~z~Can't find my friend, you know where he went?
+
+SAL1_SEENLENNY_04 = ~z~You know which way my friend went?
+
+SAL1_SETOFF_01 = ~z~Alright, follow me.
+
+SAL1_SETOFF_02 = ~z~Okay, kid, let's go.
+
+SAL1_TOMMY_LENN_1 = ~z~Huh?
+
+SAL1_WAIT_01 = ~z~So... we going in?
+
+SAL1_WAIT_02 = ~z~This is the place, right?
+
+SAL1_WAIT_03 = ~z~~sl:0.5:0.0~What are you doing, Arthur?
+
+SAL1_WHERE_LEN2_01 = ~z~Lenny!
+
+SAL1_WHERE_LEN2_02 = ~z~Are you in here, Lenny?
+
+SAL1_WHERE_LEN2_03 = ~z~Lenny!
+
+SAL1_WHERE_LEN2_04 = ~z~Lenny, where you at?
+
+SAL1_WHERE_LEN3_01 = ~z~Lenny!
+
+SAL1_WHERE_LEN3_02 = ~z~Lenny... you... bastard!
+
+SAL1_WHERE_LEN3_03 = ~z~Oh Lenny!
+
+SAL1_WHERE_LEN3_04 = ~z~Lenny, where you hiding now?
+
+SAL1_WHERE_LENN_01 = ~z~Lenny!
+
+SAL1_WHERE_LENN_02 = ~z~Hey Lenny!
+
+SAL1_WHERE_LENN_03 = ~z~Lenny?
+
+SAL1_WHERE_LENN_04 = ~z~Lenny, where are you?
+

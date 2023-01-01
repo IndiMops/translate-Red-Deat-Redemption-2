@@ -1,0 +1,198 @@
+SPAH_IG2_A_1 = ~z~According to the great teachings of our master,
+
+SPAH_IG2_A_2 = ~z~this land is our heaven and the two oceans are our shells.
+
+SPAH_IG2_A_3 = ~z~It is only here that we can truly be ourselves where man can find his place in heaven.
+
+SPAH_IG2_A_4 = ~z~This... this is Chelonia.
+
+SPAH_IG2_A_5 = ~z~The one true American's religion. The one true bible that was handed down one hundred years ago this year,
+
+SPAH_IG2_A_6 = ~z~to our prophet from above.
+
+SPAH_IG2_B_1 = ~z~Hear the truth and rejoice, for you are saved and already in paradise.
+
+SPAH_IG2_B_2 = ~z~If only you had the wisdom to understand it.
+
+SPAH_IG2_B_3 = ~z~Chelonia. America. They are the same thing.
+
+SPAH_IG2_B_4 = ~z~If savages could prosper here, how much better shall the white man do in this sacred place?
+
+SPAH_IG2_B_5 = ~z~No more kings! We are all kings, our prophet told us this one hundred years ago.
+
+SPAH_IG2_CALL1_1 = ~z~Take a pamphlet, please. I want you to be safe.
+
+SPAH_IG2_CALL2_1 = ~z~Take a pamphlet...
+
+SPAH_IG2_CALL2_2 = ~z~learn all about our great religion and understand the importance of safety in nature.
+
+SPAH_IG2_CALL3_1 = ~z~Take a pamphlet and learn all you can about our wonderful approach to religion.
+
+SPAH_IG2_CALL4_1 = ~z~It's time to be saved... it's time to be safe.
+
+SPAH_IG2_CALL4_2 = ~z~You, one of you... please take a pamphlet.
+
+SPAH_IG2_CALL5_1 = ~z~Do you want to be safe? The answer is in Chelonianism.
+
+SPAH_IG2_C_1 = ~z~Let us pray together and give thanks for our redemption.
+
+SPAH_IG2_C_2 = ~z~The redemption of this sacred place; Chelonia.
+
+SPAH_IG2_C_3 = ~z~This is Chelonia. We are all Chelonians. Embrace your protector.
+
+SPAH_IG2_C_4 = ~z~Embrace all that is sacred in this place.
+
+SPAH_IG2_D_1 = ~z~Seek and ye shall find and what ye shall find is the great shell and the great shell is Chelonia.
+
+SPAH_IG2_D_2 = ~z~And this is Chelonia, the greatest shell of all.
+
+SPAH_IG2_D_3 = ~z~The two seas and the Isthmus and the frozen north thus we are safe to love,
+
+SPAH_IG2_D_4 = ~z~safe to seek greatest wisdom and the greatest wisdom will be revealed to us.
+
+SPAH_IG2_D_5 = ~z~That revelation states unequivocally that I, that we, all are of Chelonia, thus we are all Chelonians.
+
+SPAH_IG2_D_6 = ~z~This is the land of the great turtle.
+
+SPAH_IG2_D_7 = ~z~and that is how we will achieve lives of two hundred years or longer, like turtles.
+
+SPAH_IG2_D_8 = ~z~That is truth... hear it and weep!
+
+SPAH_IG2_ESA_1 = ~z~A new master has been found. He is leading our people to Chelonia. Rejoice!
+
+SPAH_IG2_ESB_1 = ~z~A great miracle has occurred. A new master has arrived and he is preparing to lead us to Chelonia.
+
+SPAH_IG2_ESB_2 = ~z~We can all go home now. Some of us will be saved. The rest of you... shall burn.
+
+SPAH_IG2_ESC_1 = ~z~Search in the grizzlies, down by the Dakota river and find the great master.
+
+SPAH_IG2_ESC_2 = ~z~Let him take you to Chelonia.
+
+SPAH_IG2_E_1 = ~z~A hundred years ago, a few lucky pilgrims left for Chelonia.
+
+SPAH_IG2_E_2 = ~z~Now we can all go and join their descendants in the woods.
+
+SPAH_IG2_E_3 = ~z~Our master is calling us. He will now be one hundred and fifty-three years old and is ready for us.
+
+SPAH_IG2_E_4 = ~z~I intend to make the journey. I hope you will travel with me.
+
+SPAH_IG2_F_1 = ~z~Seek and find the answers in Chelonia; the future of a better America. A safe future.
+
+SPAH_IG2_G_1 = ~z~America can rise to where it was always supposed to be.
+
+SPAH_IG2_G_2 = ~z~One hundred years ago, our master foresaw this.
+
+SPAH_IG2_G_3 = ~z~He foresaw the decline and the rise again, not as the United States, but as a great Chelonian paradise.
+
+SPAH_IG2_G_4 = ~z~A place of safety. A place of wisdom. A place for the selected.
+
+SPAH_IG2_H_1 = ~z~You are lost, my friends, but I can ensure you are found.
+
+SPAH_IG2_H_2 = ~z~Or you will be found, happy and free in Chelonia. A safe alternative to America's many problems.
+
+SPAH_IG2_H_3 = ~z~ We will found a great nation. For those wise enough to want safety above all else.
+
+SPAH_IG2_I_1 = ~z~And what is Chelonianism, I hear you ask?
+
+SPAH_IG2_I_2 = ~z~Nothing less than recently re-discovered theology.
+
+SPAH_IG2_I_3 = ~z~One hundred years ago, the great Chelonian master led pilgrims across the Lanahasee into the wilderness to found a great place of safety.
+
+SPAH_IG2_I_4 = ~z~And thanks to his teachings, we can now join them in paradise.
+
+SPAH_IG2_J_1 = ~z~And what is paradise? I hear you ask yourself, and ask you might.
+
+SPAH_IG2_J_2 = ~z~For paradise is unclear.
+
+SPAH_IG2_J_3 = ~z~But one thing is clear about paradise, it is a place of safety.
+
+SPAH_IG2_J_4 = ~z~We shall be safe there, above all else. And that is the essence of Chelonianism.
+
+SPAH_IG2_K_1 = ~z~We can be safe... we can all be safe... thanks to the wisdom of the master.
+
+SPAH_IG2_L_1 = ~z~America has not proved itself to be a safe country.
+
+SPAH_IG2_L_2 = ~z~Great evil lurks within our hearts. I know it does in mine.
+
+SPAH_IG2_L_3 = ~z~But thanks to our master, we can be safe.
+
+SPAH_IG2_L_4 = ~z~And what is more American than subjecting yourself to the rule of a great man.
+
+SPAH_IG2_L_5 = ~z~And the great man subjects us all to Chelonianism. It will save us all.
+
+SPAH_IG2_M_1 = ~z~You need to be safe. Life can be safe.
+
+SPAH_IG2_M_2 = ~z~Make your family safe. I implore you, safety above all else.
+
+SPAH_IG2_N_1 = ~z~We must find safety inside a shell of truth. That's the key to life. Safety.
+
+SPAH_IG2_N_2 = ~z~The great shell of truth is safety. That's the key to Chelonianism.
+
+SPAH_IG2_O_1 = ~z~We need to be safe. We must be safe.
+
+SPAH_IG2_O_2 = ~z~Europeans die every day. So do animals.
+
+SPAH_IG2_O_3 = ~z~Neither nature nor the ways of the old world have made us safe.
+
+SPAH_IG2_O_4 = ~z~We must learn a new way, and that way is Chelonia.
+
+SPAH_IG2_O_5 = ~z~It's very simple... have a book.
+
+SPAH_IG3_HELLO1_1 = ~z~Hello, sir... can I interest you in Chelonianism?
+
+SPAH_IG3_HELLO1_2 = ~z~I don't know... can you?
+
+SPAH_IG3_HELLO1_3 = ~z~Well I hope so!
+
+SPAH_IG3_HELLO1_4 = ~z~It is a fascinating religion that was taught to a very wise master, about a hundred years ago... in a land not very far from here...
+
+SPAH_IG3_HELLO1_5 = ~z~Take a book, please...
+
+SPAH_IG3_NO1_1 = ~z~No, thanks.
+
+SPAH_IG3_NO1_2 = ~z~Oh... have a wonderful day, be safe!
+
+SPAH_IG3_OKAY1_1 = ~z~Okay.
+
+SPAH_IG3_OKAY1_2 = ~z~~sl:0.5~You've made a wonderful choice!
+
+SPAH_IG3_OKAY1_3 = ~z~It is a religion of safety... a religion made by gods who understood what life is.
+
+SPAH_IG3_OKAY1_4 = ~z~Not what life it could be, but, what it is... it is very dangerous...
+
+SPAH_IG3_OKAY1_5 = ~z~But, with Chelonianism... it can be safe...
+
+SPAH_IG3_OKAY1_6 = ~z~Oh, it's all in this book... am I boring you?
+
+SPAH_IG3_OKAY1_7 = ~z~~sl:0.3~A little.
+
+SPAH_IG3_OKAY1_8 = ~z~I'm sorry... have a wonderful day.
+
+SPAH_IG4_HOW_1 = ~z~How are you, sir?
+
+SPAH_IG4_HOW_2 = ~z~Okay.
+
+SPAH_IG4_HOW_3 = ~z~A great and wonderful event is happening in Chelonianism.
+
+SPAH_IG4_HOW_4 = ~z~It is quite wonderful... can I tell you more?
+
+SPAH_IG4_NO_1 = ~z~No.
+
+SPAH_IG4_NO_2 = ~z~Okay, well don't blame me, when the world ends and you die in ignorance.
+
+SPAH_IG4_NO_3 = ~z~Trust me... I won't.
+
+SPAH_IG4_YES_1 = ~z~Sure, why not?
+
+SPAH_IG4_YES_2 = ~z~The world is coming to an end!
+
+SPAH_IG4_YES_3 = ~z~I am so happy, a new master has arrived and he is leading those, who know, to safety... I plan on joining him myself!
+
+SPAH_IG4_YES_4 = ~z~He's in the hills... near Granite Pass, it's not too late!
+
+SPAH_IG4_YES_5 = ~z~I've been trying to warn everyone, but no one will listen!
+
+SPAH_IG4_YES_6 = ~z~Believe me... safety is all that we have.
+
+SPAH_IG4_YES_7 = ~z~Okay... good luck.
+

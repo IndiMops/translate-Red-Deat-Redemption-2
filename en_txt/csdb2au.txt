@@ -1,0 +1,34 @@
+CSDB2_ACTION_1 = ~z~How've you been, Arthur?
+
+CSDB2_ACTION_2 = ~z~Okay... you seem well, reverend?
+
+CSDB2_ACTION_3 = ~z~Yes... well, maybe I've been okay before, but then...
+
+CSDB2_ACTION_4 = ~z~I make a fool of myself again.
+
+CSDB2_ACTION_5 = ~z~So do I.
+
+CSDB2_ACTION_6 = ~z~I went into town...
+
+CSDB2_ACTION_7 = ~z~So did I.
+
+CSDB2_ACTION_8 = ~z~If I was still a... a religious man, I'd say there are too many Catholics, but I...
+
+CSDB2_ACTION_9 = ~z~I given up on all that.
+
+CSDB2_ACTION_10 = ~z~Me too, reverend.
+
+CSDB2_ACTION_11 = ~z~I met this monk there... kindly fellow, took me back to my days in College.
+
+CSDB2_ACTION_12 = ~z~Is there any purpose to this conversation, reverend?
+
+CSDB2_ACTION_13 = ~z~Not really, but... he said the strangest things about all manner of bad things happening in town.
+
+CSDB2_ACTION_14 = ~z~Bad things happening in a city... who would have thought it possible?
+
+CSDB2_ACTION_15 = ~z~Yes. Well, maybe If you're there, you could have a chat with him.
+
+CSDB2_ACTION_16 = ~z~He's hanging about outside the marketplace collecting alms for the poor.
+
+CSDB2_ACTION_17 = ~z~Sounds thrilling...
+

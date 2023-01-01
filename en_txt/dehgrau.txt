@@ -1,0 +1,70 @@
+DEHGR_AAPPRCH_1 = ~z~I'm gonna get what I need and we can both forget this ever happened.
+
+DEHGR_AATTACK_1 = ~z~See? I ain't the one dying in the desert today!
+
+DEHGR_ADISMOUNT_01 = ~z~Down, or I shoot.
+
+DEHGR_ADISMOUNT_02 = ~z~Down off there. I wanna see you straight.
+
+DEHGR_AGREE_1 = ~z~~sl:0.0:0.8~Oh...
+
+DEHGR_AGUN_1 = ~z~Alright, okay. Let's not make this complicated.
+
+DEHGR_APAT_1 = ~z~~sl:0.0:2.5~Bet you're thinking, I'm gonna get her for this...~sl:0.5~Stay alive instead.
+
+DEHGR_APPROACH_1 = ~z~Hey, my horse just dropped dead on me.
+
+DEHGR_APPROACH_2 = ~z~~sl:0.0:1.3~You seem decent enough.~sl:0.4~You think you could take me someplace?
+
+DEHGR_DECLINE_1 = ~z~Fine then. Let me die with my horse...
+
+DEHGR_HARRIVE_1 = ~z~Thanks. I mean it, really. Thank you.
+
+DEHGR_HBANT_1 = ~z~I hate the desert...
+
+DEHGR_HBANT_2 = ~z~~sl:0.0:1.9~My cousin's horse, that was.~sl:0.3~~rp~Now they're gonna say I owe them for a new one...
+
+DEHGR_HBANT_3 = ~z~~sl:0.0:5.6~Truth is, ~rp~I liked that horse more'n he did. ~rp~I really cared about the damn thing.~sl:0.9~~rp~Horrible to watch it die.
+
+DEHGR_HBANT_4 = ~z~~sl:0.0:4.7~Cousin probably fed it rotted corn when he fed it anything. Looked thin.~sl:1.0~~rp~What can I do? Ain't my horse.
+
+DEHGR_HBANT_5 = ~z~~sl:0.0:3.5~And what do you care? ~rp~What do I care, neither? It's dead.~sl:0.6~~rp~Can't get no deader...
+
+DEHGR_HCLEAR_1 = ~z~I need someplace to sit here.
+
+DEHGR_HDIRECT_1 = ~z~~sl:0..0:2.1~Can you give me a ride to Fort Mercer?~sl:~My brother's stationed there.
+
+DEHGR_HFOOT_1 = ~z~Where's your horse?
+
+DEHGR_HGIVEUP_1 = ~z~Know what? I'll take my chances walking.
+
+DEHGR_HMOUNT_1 = ~z~Glad to rest a spell.
+
+DEHGR_HNEAR_1 = ~z~Fort's coming up...
+
+DEHGR_HTHANKS_1 = ~z~~sl:0.0:2.2~Can you believe that horse died on me?~sl:0.4~Wasn't even that old.
+
+DEHGR_HTIP_1 = ~z~~sl:0.0:0.6~Take this.~sl:0.4~You deserve it.
+
+DEHGR_SPOT1_01 = ~z~Oh? Oh, hey, hey, you!
+
+DEHGR_SPOT1_02 = ~z~Hey, hey! Just in time.
+
+DEHGR_SPOT2_01 = ~z~Please. I really need a hand here.
+
+DEHGR_SPOT2_02 = ~z~Hey, help me out here.
+
+DEHGR_STANDING_1 = ~z~Oh, you poor thing...
+
+DEHGR_UNSEEN_01 = ~z~He's gonna blame me.
+
+DEHGR_UNSEEN_02 = ~z~What am I gonna do?
+
+DEHGR_UNSEEN_03 = ~z~
+
+DEHGR_WAIT1_1 = ~z~Help me out, okay? This is no place to be stranded...
+
+DEHGR_WAIT2_01 = ~z~You'll just leave me out in the desert?
+
+DEHGR_WAIT2_02 = ~z~Please? I'm in a rough place here...
+

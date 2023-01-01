@@ -1,0 +1,24 @@
+CPRI1_ACTION_1 = ~z~Mr. Pearson.
+
+CPRI1_ACTION_2 = ~z~You alright there, Mr. Morgan?
+
+CPRI1_ACTION_3 = ~z~Sure.
+
+CPRI1_ACTION_4 = ~z~You look a little peaky.
+
+CPRI1_ACTION_5 = ~z~Peaky?
+
+CPRI1_ACTION_6 = ~z~Peaky. I'll tell you what, you find me a rabbit, I'll make you my special soup.
+
+CPRI1_ACTION_7 = ~z~Put the hair on your chest, get you feeling perfect.
+
+CPRI1_ACTION_8 = ~z~And I just need a rabbit?
+
+CPRI1_ACTION_9 = ~z~It's my special rabbit soup, it's a work of art, I learnt the recipe in the Indies.
+
+CPRI1_ACTION_10 = ~z~Riddled with scurvy I was, then one bowl... and I was fine.
+
+CPRI1_ACTION_11 = ~z~Thank you.
+
+CPRI1_ACTION_12 = ~z~
+

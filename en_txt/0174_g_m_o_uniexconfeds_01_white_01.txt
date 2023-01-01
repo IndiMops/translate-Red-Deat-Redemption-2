@@ -1,0 +1,318 @@
+0x0121C234 = ~z~You leave them alone, damn it.
+
+0x013DF489 = ~z~Let them go. Ain't worth the trouble.
+
+0x01954208 = ~z~Dammit! Y'all better end him now.
+
+0x027EFAA9 = ~z~Don't let 'em break 'em out.
+
+0x04C20759 = ~z~Hey, you put that gun down before things get ugly.
+
+0x05EE551C = ~z~You. Stop there.
+
+0x0978DF67 = ~z~Your journey's over.
+
+0x0AB577D4 = ~z~Bunch of hot air, that's all.
+
+0x0BF8E393 = ~z~You are one dumb, dead man.
+
+0x0C7BDE62 = ~z~You move around in darkness, you might get mistaken for a spy.
+
+0x0C8CF340 = ~z~Don't dawdle, now.
+
+0x0EC94667 = ~z~You goddamn devil.
+
+0x0FAF3CE4 = ~z~Just put 'em in the ground already.
+
+0x1AB27ACF = ~z~All sort of unsavory things been done down here under cover of darkness...
+
+0x1F3AF474 = ~z~Holy shit!
+
+0x2BB179CB = ~z~Take this warning.
+
+0x3C3BECF4 = ~z~Hey. That ain't a wise idea.
+
+0x4C24DACD = ~z~Get him, for Lemoyne!
+
+0x4D15A903 = ~z~Kill that rotten asshole!
+
+0x4EEC5922 = ~z~You let them be.
+
+0x4F18DA09 = ~z~Let him run 'til his legs fall off, for all I care.
+
+0x4F361D98 = ~z~Giving you one last chance.
+
+0x5A53709E = ~z~Let him run 'til his legs fall off for all I care.
+
+0x5C48D1AD = ~z~I want you outta here.
+
+0x5D8EC042 = ~z~Imagination, I guess.
+
+0x5E6DE817 = ~z~I need help here.
+
+0x5E467864 = ~z~Oh, let the bastard go. He ain't worth none.
+
+0x6B38C22F = ~z~Hmm, I could've sworn I saw...
+
+0x6D827420 = ~z~Leave or else.
+
+0x6F0BBFB0 = ~z~Sheesh.
+
+0x7D9ABDB8 = ~z~Get him. For Lemoyne!
+
+0x7D395C0B = ~z~Well I'll be.
+
+0x7DC4E5B2 = ~z~The sumbitch took Shady Belle, blow him to kingdom come!
+
+0x7F3F9BB7 = ~z~The hell you doing back here?
+
+0x8A3FF32D = ~z~Guess you just got a new lease on life.
+
+0x8E9FB940 = ~z~No more warnings, this is it.
+
+0x8F40E1AB = ~z~That mouth you got's a real firestarter, huh?
+
+0x9A594264 = ~z~One more move.
+
+0x13EBE6B5 = ~z~Shit! Will somebody finish this bastard?
+
+0x14ED7E76 = ~z~Get down from there, now.
+
+0x17BB7BEC = ~z~You're gonna buy it.
+
+0x20ED2A65 = ~z~Now you know I warned you already.
+
+0x25A4F98D = ~z~Oh, heck.
+
+0x27B3971D = ~z~Wake up, you.
+
+0x33CEAF46 = ~z~Don't do this. Please.
+
+0x35B94598 = ~z~That's right. Keep going.
+
+0x37D3F4CD = ~z~I guess it were nothing.
+
+0x38A71800 = ~z~Let's take a look, find out who's culpable.
+
+0x38EA8651 = ~z~Now! Open up with that Maxim!
+
+0x40D9CAA0 = ~z~I'll break you like a chicken bone.
+
+0x47E0B7AC = ~z~Here comes the big bastard. Get in position.
+
+0x47F4ABEB = ~z~I'm through warning you.
+
+0x49F356D8 = ~z~Come on! We'll jump him some other time!
+
+0x54BC0E59 = ~z~Here we are to send you to your grave.
+
+0x59DF0B67 = ~z~Who's there?
+
+0x61F5AFA9 = ~z~I could've sworn I saw...
+
+0x64B86BE0 = ~z~I'm giving you a chance here.
+
+0x67CB921A = ~z~Notch one of 'em for Lemoyne!
+
+0x69F3B12A = ~z~Damn the plan! Just kill him!
+
+0x70C657B4 = ~z~Who's hiding here? Come on out!
+
+0x70CC045C = ~z~Stop moving, damn you.
+
+0x71C5F263 = ~z~I wanna see him gone!
+
+0x71DA8A61 = ~z~Hands in the sky, now.
+
+0x72DA10EF = ~z~Over here, c'mon.
+
+0x80BF4506 = ~z~I can make your troubles end real fast.
+
+0x81EAEF93 = ~z~Huh? What was that?
+
+0x83D189CC = ~z~You done this, then?
+
+0x86CFF625 = ~z~You been warned, ain'tcha?
+
+0x86E0B472 = ~z~Gotta find who caused this.
+
+0x88D07929 = ~z~Stay still.
+
+0x95F06F68 = ~z~You're about to be on the wrong end of this here gun.
+
+0x118CD918 = ~z~Jesus!
+
+0x134D668B = ~z~You better stop that, now.
+
+0x170E2441 = ~z~Get outta the shadows and show yourself!
+
+0x211EDC8D = ~z~What, hello again?
+
+0x343F1258 = ~z~You leave, I mean it.
+
+0x370C6BED = ~z~Hey, don't you point that thing at me.
+
+0x426C8FFB = ~z~Fight, damn you!
+
+0x643A8BFD = ~z~Count your breaths, ain't too many left.
+
+0x706CB2E6 = ~z~Off me, sick man.
+
+0x770E173C = ~z~Listen here. You got a moment?
+
+0x862C5548 = ~z~I'm gonna spread your guts in the dirt.
+
+0x945AF1A5 = ~z~I'll break you like a chicken bone.
+
+0x3190E24E = ~z~You wanna go in the dirt?
+
+0x3369A9FE = ~z~I ain't the type a man to stand for that.
+
+0x4047A2FF = ~z~I'm warning you.
+
+0x7220ABED = ~z~Stop it, damn you.
+
+0x7694D52D = ~z~Quick men, into positions!
+
+0x17273C02 = ~z~You quit or I'll end you.
+
+0x50112B44 = ~z~Come at me!
+
+0x84972BF2 = ~z~You hear me? Quit moving.
+
+0x361533E0 = ~z~Watch your path.
+
+0x939693C0 = ~z~Hey, you wanna get done in?
+
+0x2189197D = ~z~You're off your nut.
+
+0x18297992 = ~z~Hey. Wait just right there.
+
+0x25558528 = ~z~Turn around. This up here's Lemoyne Raider command.
+
+0x30445633 = ~z~Hey! They're after our prisoner!
+
+0x36742765 = ~z~You ain't welcome here. This is Lemoyne Raiders' property.
+
+0x87069885 = ~z~What a fine reunion. You forgot this!
+
+0xA2E79C24 = ~z~You're deranged.
+
+0xA925E2EC = ~z~That's Lemoyne air you're breathing. Don't you forget it.
+
+0xA24937DD = ~z~Damn you, move.
+
+0xACC4F6C1 = ~z~You made a mistake coming back.
+
+0xAD52394D = ~z~Whoa, you stop that now.
+
+0xB5EFFD44 = ~z~Tennerson's killed! Maxim's down!
+
+0xB16E2663 = ~z~Coun your breaths. Ain't too many left.
+
+0xB59B3527 = ~z~Grimy hands up, I said.
+
+0xB93F0B94 = ~z~Get gone.
+
+0xB550424C = ~z~Who's there?
+
+0xBABBF27F = ~z~You don't quit it, you're done for.
+
+0xBAC3862B = ~z~Step careful when you in the state of Lemoyne.
+
+0xBC325E6C = ~z~Get ready... they're coming!
+
+0xBE7EA0D0 = ~z~TNT didn't work! It's bullets instead!
+
+0xC0A30291 = ~z~Bastard took our gun!
+
+0xC3CF97FB = ~z~Okay, blow it!
+
+0xC3E0D1B2 = ~z~Put them goddamn hands up.
+
+0xC482E0B1 = ~z~Someone around here?
+
+0xC900A0DB = ~z~Sunder the bastard!
+
+0xC957FF42 = ~z~You don't so much as look at us wrong, you hear?
+
+0xCB01AF19 = ~z~You best turn tail.
+
+0xCE429256 = ~z~One more chance, before this goes ugly.
+
+0xCFBA6BEA = ~z~Hey, get yourself right outta here.
+
+0xD5E43B14 = ~z~Look alive... it's one of Dutch's!
+
+0xD343BE20 = ~z~To your places, men!
+
+0xD389D032 = ~z~Hey now. Wait a minute there.
+
+0xD706AF88 = ~z~He'll remember the dead of Shady Belle...
+
+0xD5181FDC = ~z~Raiders don't lose their captives.
+
+0xD70679BB = ~z~Hell, partner, you just signed your death warrant.
+
+0xDA4F8EC6 = ~z~That's right. Keep going!
+
+0xDA59A570 = ~z~Open up on him!
+
+0xDBC02759 = ~z~We got you surrounded, genius.
+
+0xDC7BAEC8 = ~z~You're about to spend your last warning.
+
+0xDCCAB8A6 = ~z~There he is! Blast that son of a bitch.
+
+0xE05E5E43 = ~z~You pay him mind, now.
+
+0xE0FCE8A4 = ~z~Get them hands up, you.
+
+0xE3AA702A = ~z~You're dying for that.
+
+0xE7B19BD9 = ~z~Die!
+
+0xE75AA8DC = ~z~Don't dawdle now.
+
+0xE89DE101 = ~z~Do it for your brothers!
+
+0xE90F14A3 = ~z~Take him, Raiders!
+
+0xE94E3585 = ~z~It's the bastard from Shady Belle! Blow the TNT!
+
+0xE29208AA = ~z~I can make your troubles end real fast.
+
+0xE5957449 = ~z~Hey there. Hold up.
+
+0xE7073599 = ~z~Hold it right there.
+
+0xEA6B1B0F = ~z~Give yourself up and we'll treat you honorable.
+
+0xEA80D412 = ~z~That's him! Kill him, quick.
+
+0xEC2475CF = ~z~You better listen real good.
+
+0xECB8003F = ~z~Pull back! It's a busted flush!
+
+0xED314A3B = ~z~You penned in, ain't nowhere to go.
+
+0xF3E7AD3E = ~z~Alright.
+
+0xF9BF3704 = ~z~You're about to be on the wrong end of this here gun.
+
+0xF62CA7A4 = ~z~That don't make you tough.
+
+0xF74E378A = ~z~I'm gonna spread your guts in the dirt.
+
+0xFB53328F = ~z~Oh, let the bastard go. He ain't worth none.
+
+0xFBE5A60F = ~z~What the?
+
+0xFCA60927 = ~z~Damn fleabag.
+
+0xFDF19969 = ~z~This is nonsense. Just kill 'em.
+
+0xFF573D8C = ~z~Dammit! Y'all better end him now.
+
+0xFF97425A = ~z~You got any more venom to spit, or you done?
+

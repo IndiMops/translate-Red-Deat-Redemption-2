@@ -1,0 +1,104 @@
+0x40BC965F = Sedate the ~COLOR_MP_OBJECTIVE~Legendary Icahi Boar~s~
+
+FETCH_NAT_SIGHTING_HELP_BOAR_BAIT = The Legendary Icahi Boar is nearby but must be lured out into the open using a dead body.
+
+FETCH_NAT_SIGHTING_HELP_EAVESDROP_BOAR = Find poachers and eavesdrop for information on the Legendary Icahi Boar.
+
+FETCH_NAT_SIGHT_BOAR_END_TRAIL = The poachers dismounted here and continued into the Legendary Icahi Boar's lair on foot.
+
+FETCH_NAT_SIGHT_BOAR_FOLLOW_HORSE = You found a trail ~1b~. The poachers left on horseback following the Legendary Icahi Boar.
+
+FETCH_NAT_SIGHT_BOAR_GARBAGE = Poachers have been here recently. Keep searching for signs of the Legendary Icahi Boar.
+
+FETCH_NAT_SIGHT_BOAR_HELP_FIND_LAIR = The Legendary Icahi Boar lair is nearby.
+
+FETCH_NAT_SIGHT_BOAR_HELP_FIND_TRAIL = The Legendary Icahi Boar was recently nearby. Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for its trail ~1b~.
+
+FETCH_NAT_SIGHT_BOAR_HELP_FIND_TRAIL_KM = The Legendary Icahi Boar was recently nearby. Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for its trail ~1b~.
+
+FETCH_NAT_SIGHT_BOAR_HELP_INVESTIGATE_SOUND = Find the Legendary Icahi Boar ~COLOR_MP_OBJECTIVE~lair~s~
+
+FETCH_NAT_SIGHT_BOAR_HELP_LOOK_AT_CLUE = Focus on the clue
+
+FETCH_NAT_SIGHT_BOAR_HELP_OBJECTIVE_DEAD = The Legendary Icahi Boar has been sedated. Collect the sample.
+
+FETCH_NAT_SIGHT_BOAR_HELP_OBJECTIVE_ESCAPING = The ~COLOR_MP_OBJECTIVE~Legendary Icahi Boar~s~ is getting too far away and will soon escape.
+
+FETCH_NAT_SIGHT_BOAR_HELP_PRIMARY = Search the area for the Legendary Icahi Boar ~1b~. Sedate it and take a sample.
+
+FETCH_NAT_SIGHT_BOAR_HELP_SEARCH = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the Legendary Icahi Boar.
+
+FETCH_NAT_SIGHT_BOAR_HELP_SEARCH_1 = The Legendary Icahi Boar was spotted along one of the train tracks in this area. Search for clues and find the correct train track to follow.
+
+FETCH_NAT_SIGHT_BOAR_HELP_SEARCH_CLUE_CORRECT_1 = The dead boar looks like it was hit hard by something. It must have been struck by a passing train.
+
+FETCH_NAT_SIGHT_BOAR_HELP_SEARCH_CLUE_CORRECT_2 = Boars have been here recently. Keep searching for more signs.
+
+FETCH_NAT_SIGHT_BOAR_HELP_SEARCH_CLUE_CORRECT_3 = There are signs that an animal has been foraging here regularly.
+
+FETCH_NAT_SIGHT_BOAR_HELP_SEARCH_CLUE_DEAD_END = There wasn't any evidence of the Legendary Icahi Boar along this train track. Head back and search for other signs in the area.
+
+FETCH_NAT_SIGHT_BOAR_HELP_SEARCH_CLUE_DEAD_END_2 = This clue does not appear to have been left by the Legendary Icahi Boar. Keep searching for more signs.
+
+FETCH_NAT_SIGHT_BOAR_HELP_SEARCH_CLUE_WRONG_1 = The squirrel looks like it was killed by an animal but the bite marks are not from a boar.
+
+FETCH_NAT_SIGHT_BOAR_HELP_SEARCH_CLUE_WRONG_2 = The animal was killed and eaten by something. The remains are too destroyed to identify the hunter.
+
+FETCH_NAT_SIGHT_BOAR_HELP_SEARCH_CLUE_WRONG_3 = The buck appears to have been killed by wolves. There are no signs of the Legendary Icahi Boar here.
+
+FETCH_NAT_SIGHT_BOAR_HELP_SEARCH_KM = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the Legendary Icahi Boar.
+
+FETCH_NAT_SIGHT_BOAR_HELP_SKIN = Hold ~INPUT_CONTEXT_Y~ to collect the sample.
+
+FETCH_NAT_SIGHT_BOAR_HELP_WAIT_BAIT = Stay hidden and wait for the Legendary Icahi Boar to approach the bait.
+
+FETCH_NAT_SIGHT_BOAR_INSPECT_CLUE = Inspect
+
+FETCH_NAT_SIGHT_BOAR_OBJ_CARRY_BAIT = Carry the dead poacher to the bait ~COLOR_MP_OBJECTIVE~area~s~
+
+FETCH_NAT_SIGHT_BOAR_OBJ_DROP_BAIT = Drop the dead poacher in the bait ~COLOR_MP_OBJECTIVE~area~s~
+
+FETCH_NAT_SIGHT_BOAR_OBJ_EAVESDROP = Eavesdrop on poachers in the ~COLOR_MP_OBJECTIVE~area~s~ for sighting information.
+
+FETCH_NAT_SIGHT_BOAR_OBJ_FIND = Search the ~COLOR_MP_OBJECTIVE~area~s~ for signs of the Legendary Icahi Boar
+
+FETCH_NAT_SIGHT_BOAR_OBJ_FIND_LAIR = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the Legendary Icahi Boar lair
+
+FETCH_NAT_SIGHT_BOAR_OBJ_FIND_TRAINS = Search the train tracks in the ~COLOR_MP_OBJECTIVE~area~s~ for signs of the Legendary Icahi Boar
+
+FETCH_NAT_SIGHT_BOAR_OBJ_GET_BAIT = Place a dead poacher in the bait ~COLOR_MP_OBJECTIVE~area~s~
+
+FETCH_NAT_SIGHT_BOAR_OBJ_GOTO_0 = Go ~1~
+
+FETCH_NAT_SIGHT_BOAR_OBJ_GOTO_1 = Follow the Legendary Icahi Boar ~COLOR_MP_OBJECTIVE~trail~s~
+
+FETCH_NAT_SIGHT_BOAR_OBJ_GOTO_3 = Follow the poachers' horse ~COLOR_MP_OBJECTIVE~trail~s~
+
+FETCH_NAT_SIGHT_BOAR_OBJ_GOTO_SOUTH = Go to the poachers' ~COLOR_MP_OBJECTIVE~search area~s~
+
+FETCH_NAT_SIGHT_BOAR_OBJ_KILL_POACHERS = Take out the ~COLOR_ENEMY~poachers~s~
+
+FETCH_NAT_SIGHT_BOAR_OBJ_LEAVE_AREA = Leave the bait ~COLOR_MP_OBJECTIVE~area~s~
+
+FETCH_NAT_SIGHT_BOAR_OBJ_LEAVE_AREA_POSSE = Wait for your Posse to leave the ~COLOR_MP_OBJECTIVE~area~s~
+
+FETCH_NAT_SIGHT_BOAR_OBJ_LOOT = Collect the ~COLOR_MP_OBJECTIVE~Legendary Icahi Boar~s~ sample
+
+FETCH_NAT_SIGHT_BOAR_OBJ_WAIT_BAIT = Wait for the Legendary Icahi Boar to approach the bait
+
+FETCH_NAT_SIGHT_BOAR_SCORETIMER_CLUE_INSPECTED = ~COLOR_MP_OBJECTIVE_FRIENDLY~~1~~s~ inspected a clue
+
+FETCH_NAT_SIGHT_BOAR_SHARD_DESTROYED = Legendary Icahi Boar was too damaged
+
+FETCH_NAT_SIGHT_BOAR_SHARD_ESCAPED = Legendary Icahi Boar escaped
+
+FETCH_NAT_SIGHT_BOAR_SHARD_PRIMARY_INTRO = Retrieve a sample from the Legendary Icahi Boar
+
+FETCH_NAT_SIGHT_BOAR_SHARD_PRIMARY_PASS = Legendary Icahi Boar sample retrieved
+
+FETCH_NAT_SIGHT_BOAR_SHARD_PRIMARY_PASS_PARTIAL = Legendary Icahi Boar skinned
+
+FETCH_NAT_SIGHT_BOAR_USED_BAIT = Poachers have been hunting in this area. They could still be nearby.
+
+FETCH_NAT_SIGHT_RAM_DEAD_BOAR_FRESH = This looks like a fresh kill. The poachers must be nearby.
+

@@ -1,0 +1,76 @@
+0x7CBE59E6 = Bring an eagle talon to Trelawny at camp.
+
+0x87EE06EF = Wait for the stagecoach to arrive
+
+0xEF1BE190 = Trelawny
+
+CHRB1_CLO_HELP = Stay back from the coach to avoid being spotted.
+
+CR1_CAM_F = Trelawny
+
+RCHRB1_ABAN = Trelawny was abandoned.
+
+RCHRB1_CABAN = The stagecoach was abandoned.
+
+RCHRB1_CDEAD = The clerk has died.
+
+RCHRB1_CSPOK = The clerk was spooked.
+
+RCHRB1_DAMSEN_W = Wait for Mrs. Damsen to exit the ~o~stagecoach~s~
+
+RCHRB1_ESCP = The stagecoach escaped.
+
+RCHRB1_FLAW = The law were alerted.
+
+RCHRB1_FRHO = You didn't go to Rhodes.
+
+RCHRB1_HATT = Trelawny's horse was injured.
+
+RCHRB1_HDEAD = Trelawny's horse has died.
+
+RCHRB1_LDES = The loot was destroyed.
+
+RCHRB1_LOOT = Loot the ~o~strongbox~s~
+
+RCHRB1_LOOT_S = Loot the ~o~strongbox~s~ without being detected
+
+RCHRB1_OBJ1 = Follow ~o~Trelawny~s~
+
+RCHRB1_OBJ1A = Go to ~o~Rhodes station~s~
+
+RCHRB1_OBJ1B = Hitch your horse at the ~o~hitching post~s~
+
+RCHRB1_OBJ1C = Leave undetected
+
+RCHRB1_OBJ1H = Mount your ~o~Horse~s~
+
+RCHRB1_OBJ2 = Follow ~o~Trelawny~s~ to Siltwater Strand
+
+RCHRB1_OBJ3 = Force the ~o~stagecoach~s~ to stop
+
+RCHRB1_OBJ5 = Go to ~o~Trelawny~s~
+
+RCHRB1_OBJ6 = Tail the ~o~stagecoach~s~
+
+RCHRB1_OBJ7 = Take out the ~e~guards~s~
+
+RCHRB1_OBJ8 = Meet Trelawny at the ~o~crossroads~s~
+
+RCHRB1_OBJ9 = Wait for the coach
+
+RCHRB1_PHDEAD = Your horse was injured.
+
+RCHRB1_RET2 = Return to ~o~Trelawny~s~
+
+RCHRB1_TATT = You attacked Trelawny.
+
+RCHRB1_TDEAD = Trelawny has died.
+
+RCHRB1_WTCL = Wait for the stagecoach to leave
+
+RCHRB_GREET = Greet
+
+RCHRB_O_PAYTIP = Pay ~o~Alden~s~
+
+RCHRB_PAYTIP = Pay Alden
+

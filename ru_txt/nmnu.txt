@@ -1,0 +1,1436 @@
+0x0204DEBA = ЗАВЕРШЕНО ДЕЛ
+
+0x028EE3F9 = Экипажи
+
+0x03EBE39B = Телеги
+
+0x04078B4A = Приглашает вас в свой отряд
+
+0x04943DCA = Большой город
+
+0x059AE7D6 = ~_~Предложено
+
+0x06297212 = Домино в Сен-Дени
+
+0x067C7E20 = Тип игры: ~1~
+
+0x06F0166C = Коляски
+
+0x072A8760 = Тип отряда
+
+0x078C116F = Открыт для всех
+
+0x094B6FAC = Предложить
+
+0x0CBFC427 = Прогрессивная
+
+0x0DAEB7FB = ТРЕБОВАНИЯ ДЛЯ КОНТРАКТА
+
+0x0FB154E4 = Название отряда
+
+0x0FD66470 = Купить боеприпасы для вашего лука.
+
+0x1A5C3D79 = Каждый день с вас взимается плата за содержание лагеря. Маленький лагерь вмещает до 4 членов отряда.
+
+0x1A222E89 = Выбывание
+
+0x1C0B806A = Событие свободного режима
+
+0x1C0CACCF = Отключено
+
+0x1EAEE596 = Чтобы приглашать новых участников, отряд должен быть активен
+
+0x2A2ADA4F = Play series 1 for testing
+
+0x2AE26FF0 = Строй
+
+0x2BE74EF4 = Повозки
+
+0x2BF8101C = По умолчанию
+
+0x2DFD69A6 = Каждый день с вас взимается плата за содержание лагеря. Большой лагерь вмещает до 7 членов постоянного отряда.
+
+0x2FA5DCFA = ОТРЯД
+
+0x3A2E61D6 = Боеприпасы
+
+0x3AE36B27 = Выберите, какие отмеченные режимы вы хотите предложить. Отметить режим можно в разделе «Режимы» Social Club.
+
+0x3C3CDFDC = 10
+
+0x3C965315 = Нет предложенных режимов.
+
+0x3CDFD4B0 = Размер и место расположения
+
+0x3EC8110F = Блэкджек в Блэкуотере
+
+0x4A2B817E = Режим перестрелки
+
+0x4A840565 = Купить боеприпасы для вашего револьвера.
+
+0x4C1F36E5 = Выберите, какие отмеченные режимы вы хотите предложить. Отметить режим можно в разделе «Режимы» Social Club.
+
+0x4DA18512 = Недавние
+
+0x4E2B6D36 = Camp Description
+
+0x4ED4F3D4 = Скаковая
+
+0x4F7CD287 = Вступительный взнос (фишки): ~1~
+
+0x5A32282B = По приглашению
+
+0x5B760599 = Вкл.
+
+0x5D572210 = 15
+
+0x5F1A8320 = Игрок состоит в другом отряде.
+
+0x6A2AEFE9 = Гонка
+
+0x6B87794A = Пригласить в банду
+
+0x7A4FCD72 = Оружие
+
+0x7B916120 = Карта игрока
+
+0x7D5E5B26 = Выкл.
+
+0x7DE21D27 = Банда
+
+0x7E7F7981 = Оскорбительное имя в SC
+
+0x7E47696C = Защитный
+
+0x8A96D6A6 = Мои дилижансы
+
+0x8A162309 = Приглашение в отряд
+
+0x8C48953D = Для продолжения требуется не меньше ~1~ игроков. Нажмите ~INPUT_FRONTEND_X~, чтобы пригласить больше игроков.
+
+0x8DB0DDEC = Коляски
+
+0x8F034E81 = Нет
+
+0x8F4D39E7 = Утро
+
+0x8F539B10 = Покер на станции Флэтнек
+
+0x9A76BE1A = ~_~Предложено командиром отряда
+
+0x9D3E1672 = ЧЛЕНЫ БАНДЫ
+
+0x9D3491AB = Режим не выбран.
+
+0x9E04AEE0 = В данный момент игрок участвует в занятии.
+
+0x9EEEA8D5 = Ожидание игрока...
+
+0x9FB3FB43 = Только друзья
+
+0x17CC9A6D = 4
+
+0x19C60277 = Вы не отметили ни один режим. Можете продолжить играть, но без отмеченных режимов вы не сможете предложить контент в предложенной серии. Хотите продолжить?
+
+0x25BD4A7D = ДРУЗЬЯ
+
+0x27B6BB16 = День
+
+0x29D6A081 = Домино на ранчо Эмеральд
+
+0x30CE32DE = Купить боеприпасы для вашего карабина.
+
+0x42A84A31 = Стандартн.
+
+0x45EB46BE = Режим гонки
+
+0x47FB8B33 = НАСТРОЙКИ КОНЮШНИ
+
+0x52C9ECD2 = Опущен
+
+0x52E30442 = Ненормативная лексика
+
+0x56E9E207 = Вести
+
+0x67DFDB4A = Должность
+
+0x72C8230D = Репутация
+
+0x74D6A6D3 = ОЧИЩЕНО ДОРОГ
+
+0x76C1E36F = Нет
+
+0x76CBEFFF = Предложить режим из числа отмеченных в Social Club.
+
+0x76D8F0E4 = Купить боеприпасы для вашей винтовки.
+
+0x78C2D30C = В данный момент игрок не находится в Red Dead Online.
+
+0x81D5ECE3 = По умолчанию
+
+0x83A050C8 = Текущее
+
+0x88A173BA = Характеристики игрока
+
+0x88A16503 = У вас нет отмеченных режимов.
+
+0x89A64B2D = Подбор игроков (~1~)
+
+0x89EADF57 = Упряжная
+
+0x92E78246 = 3
+
+0x93D0DB1D = В данный момент отряд расформирован.
+
+0x94BA87FE = Предложение командира отряда добавлено в очередь.
+
+0x95AB2E21 = В данный момент у вас нет отмеченных режимов. Их можно отмечать в разделе «Режимы» Social Club.
+
+0x95D2FEEC = Набор в этот отряд открыт, и к нему можно присоединиться
+
+0x137E6A7E = Мест: ~1~
+
+0x170C0529 = Костюмы лесоруба
+
+0x217E23B3 = 20
+
+0x238CCD08 = Домино в Блэкуотере
+
+0x393D1CCE = Управление отрядом в данный момент недоступно
+
+0x402B3A27 = Ясно
+
+0x433C9A9D = Суровый вид
+
+0x467BF7CB = 3
+
+0x483C34DE = Оскорбительная эмблема банды
+
+0x505C7083 = Управление лагерем в данный момент недоступно
+
+0x514F6863 = Все
+
+0x542B2E7D = Захват
+
+0x543FA529 = Включено
+
+0x568E5042 = Загружаемый контент
+
+0x670CAA0B = Соревноваться в различных режимах игры, предложенных вами и другими игроками.
+
+0x693A19F2 = Комиссия зала: ~1~%
+
+0x722AF497 = Рабочая
+
+0x743A720A = Телеги
+
+0x758DAC9D = Только я
+
+0x811A3EBD = ДОСТУПНАЯ РАБОТА
+
+0x890FE0B0 = Повысить до помощника командира
+
+0x967CCE27 = Боевая
+
+0x1832F4A8 = 15
+
+0x5385C53D = Купить боеприпасы для вашего дробовика.
+
+0x5394D592 = Покер в Валентайне
+
+0x5572F165 = Отключено вследствие агрессивного поведения.
+
+0x6083F0CD = Ваше предложение – следующее.
+
+0x6729E217 = По умолчанию
+
+0x7813E9FE = Характеристики игрока
+
+0x7887B1D8 = Список дел
+
+0x8564AF9C = Нельзя приглашать игроков в ваш отряд, пока вы участвуете в занятии.
+
+0x8767BED4 = От третьего лица
+
+0x8958C696 = Игрок уже находится в вашем сеансе.
+
+0x9738AAF6 = Предложенная серия, 8 игроков
+
+0x24938E04 = 5
+
+0x36462C87 = Агрессивный
+
+0x37105F15 = Предложить режим
+
+0x40943AB5 = Откл.
+
+0x47970D41 = ПОЛУЧЕНО ДЕНЕГ
+
+0x71972DE8 = Мультикласс
+
+0x88791A26 = ДОРОГА ПЕРЕКРЫТА
+
+0x93136EBB = Измените место вашего возрождения в Red Dead Online
+
+0x237153CE = Покер в Блэкуотере
+
+0x418608D5 = Только отряд
+
+0x529726B0 = Общий
+
+0x571435B8 = Блайнды: ~1~/~2~
+
+0x701556F8 = Обязанность отряда
+
+0x2917993A = Откл.
+
+0x4569200F = Лодки
+
+0x33134485 = Чтобы предложить режим, отметьте его в разделе «Режимы» Social Club.
+
+0x68081141 = 20
+
+0xA04EED02 = Соревноваться в различных режимах игры, предложенных вами и другими игроками.
+
+0xA1F7978C = Вход открыт
+
+0xA6BD3289 = Пригласить всех
+
+0xA6FA3C64 = Лагерь
+
+0xA8D14A52 = Разбить лагерь на отряд из семи игроков.
+
+0xA8F38C63 = По умолчанию
+
+0xA44F68C9 = Ночь
+
+0xA53C9D8A = Нельзя покинуть отряд, пока вы участвуете в занятии.
+
+0xA4306D50 = Блэкджек в Роудсе
+
+0xA4606C94 = Play series 3 for testing
+
+0xA8633DAB = Ваше предложение добавлено в очередь.
+
+0xAA81E3EE = Только командир отряда может предложить режим.
+
+0xAC2E2CDB = Костюмы банды
+
+0xAD8CFC8E = Пока дорога перекрыта, все дела приостанавливаются.
+
+0xADA5E1F5 = Нет
+
+0xAF2659E1 = Костюмы дикой банды
+
+0xB4FDA85F = Оскорбительное название уровня
+
+0xB9A35C64 = Купить все: (~1$~)
+
+0xB9ED2DA6 = Все
+
+0xB880FF72 = Частный
+
+0xB2254FA0 = УЧАСТНИКИ ОТРЯДА
+
+0xB42202B8 = Поднят
+
+0xB9109790 = Предложено: ~a~.
+
+0xBA03267D = Осмотреть
+
+0xBA53E080 = В данный момент игрок не состоит в этом отряде.
+
+0xBAEB1D39 = ВИДЫ ТРАНСПОРТА
+
+0xBB8A9AE2 = ОБЪЯВЛЕНИЯ ДЛЯ КУРЬЕРОВ
+
+0xBD08541A = Каждый день с вас взимается плата за содержание лагеря. Создайте постоянный отряд, чтобы разбить большой лагерь.
+
+0xBD53CC26 = Индивидуальные костюмы
+
+0xBF1CD316 = Продолжить
+
+0xC2CD2A02 = Оскорбительное название банды
+
+0xC5A555DE = Пригласить игроков
+
+0xC5D2DFD4 = Блэкджек в Ван-Хорне
+
+0xC54CB770 = По умолчанию
+
+0xC85272FC = Костюмы охотника за головами
+
+0xCACED91A = Повозки
+
+0xCDF1C62C = НЕПРАВИЛЬНОЕ НАЗВАНИЕ
+
+0xCED7A6F1 = Банда
+
+0xCF0EC9AC = В данный момент Криппс подготавливает ваш лагерь
+
+0xD0C3BC3A = Только командир отряда может предложить режим.
+
+0xD7C1C9E8 = Нельзя вернуться в отряд, когда начинается задание.
+
+0xD26AE083 = Дождь
+
+0xD42F2ECC = Вы собираетесь подать на игрока ~1p~ жалобу в категории «~2a~». Мы рассмотрим жалобу и проверим, нарушил ли этот игрок Правила поведения в сети. Злоупотребление функцией отправки жалоб также является нарушением Правил поведения в сети и может привести к блокировке или удалению вашей учетной записи.
+
+0xD78E86C5 = Бесплатно изменить внешность один раз
+
+0xD91A0146 = НЕПРАВИЛЬНОЕ ОПИСАНИЕ
+
+0xD289CBD4 = У вас нет отмеченных режимов.
+
+0xD597AB0B = ПРЕДЛОЖИТЬ
+
+0xD2148EFA = 1
+
+0xD5080B49 = Костюмы горного шерифа
+
+0xD8139F1E = Надоедает мне
+
+0xD4343058 = Игрок состоит в этом отряде.
+
+0xDA57FDC5 = Припасы
+
+0xDB293E94 = Высший класс
+
+0xDBD45FE9 = Только банда
+
+0xDD8CA1F7 = ДИЛИЖАНСЫ
+
+0xDF4F1A20 = Противоборство
+
+0xE0B7F480 = НЕПРАВИЛЬНЫЙ ЗАГОЛОВОК
+
+0xE0F486DC = По умолчанию
+
+0xE4D03B36 = Изменить стиль участников отряда.
+
+0xE4E33EAB = Подбор игроков (~1~)
+
+0xE16C2DA9 = 2
+
+0xE65A10F7 = 10
+
+0xE894F017 = Просмотреть статистику вашего отряда
+
+0xE8521FA0 = Подбор игроков недоступен, пока вы участвуете в занятии
+
+0xE8751FD2 = Дилижансы
+
+0xEAE7846E = КТО УГОДНО
+
+0xECE1D8D2 = Текущая
+
+0xED291558 = Невозможно предложить режим во время запуска режима.
+
+0xEE298324 = Вкл.
+
+0xEEF3AA3B = У вас нет отмеченных режимов.
+
+0xEF53E8F6 = Недостойное поведение
+
+0xF056BD23 = 5
+
+0xF085D617 = От первого лица
+
+0xF3DF306E = Купить боеприпасы для вашего пистолета.
+
+0xF4AA0F0A = Play series 2 for testing
+
+0xF9FAE60B = Заблокирована
+
+0xF568A3E4 = Покер в Сен-Дени
+
+0xF5382F88 = В данный момент игрок выполняет вступительное задание.
+
+0xF94899BB = Покер в Тамблвиде
+
+0xF609535B = Лимит: ~1~
+
+0xFA242CA3 = Приглашает вас в свою банду
+
+0xFAF2B130 = Друзья
+
+0xFC638B36 = Пригласить
+
+0xFC86189E = По умолчанию
+
+BOUNTY_REPLAY_SUBH = Легендарные преступники
+
+EXIT_ALONE = Выйти в одиночку
+
+EXIT_WITH_POSSE = Выйти с отрядом
+
+GAMERTAG_DEFENSIVE_PLAYER = ~COLOR_WHITE~¦~s~ ~1p~
+
+HIERARCHY_SUBH = Иерархия
+
+HOSTILITY_LEVEL = Враждебность
+
+HOSTILITY_NHIGH = Высокая
+
+HOSTILITY_NLOW = Низкая
+
+HOSTILITY_NMED = Средняя
+
+KICKED_FROM_LOBBY_POSSE_LEADER = Ваш отряд был исключен и вернется в свободный режим.
+
+KICKED_FROM_LOBBY_POSSE_MEMBER = Вы были исключены.~n~ Вы удалены из вашего отряда и вернетесь в свободный режим.
+
+KICKED_FROM_LOBBY_SOLO = Вы были исключены и вернетесь в свободный режим.
+
+KICKED_TITLE = ИСКЛЮЧИЛИ
+
+KICK_PLAYER_BODY = Вы действительно хотите исключить игрока ~1~ из лобби?~n~Отменить это действие невозможно. Такое же решение должны принять 51% игроков.
+
+KICK_PLAYER_TICKER = ~1~/~2~ проголосовало за исключение игрока ~3~
+
+KICK_PLAYER_TITLE = ИСКЛЮЧИТЬ ИГРОКА
+
+MP_CAMERALOCK = Фиксация камеры
+
+MP_LOBBY_ADD_FRIEND = Добавить друга
+
+MP_LOBBY_CAMERA_LOCK = Ракурс камеры для данного матча
+
+MP_LOBBY_CANCEL_JOIN_TEAM = Отменить вступление в команду
+
+MP_LOBBY_DETAILS_TOOLTIP = Просмотреть информацию об игровом режиме.
+
+MP_LOBBY_GAMBLE_DESCRIPTION = Положиться на волю случая. Стоит ли рисковать начать ни с чем, если это даст шанс начать с чем-то?
+
+MP_LOBBY_GAME_DETAILS = Подробности игры
+
+MP_LOBBY_GAME_DETAILS_CREATOR = Создатель: ~1~
+
+MP_LOBBY_GAME_OPTIONS = Параметры игры
+
+MP_LOBBY_GAME_OPTIONS_SUBHEADER = Параметры игры
+
+MP_LOBBY_GREY_OUT_TOOLTIP = Игра сейчас начнется.
+
+MP_LOBBY_INVENTORY_TOOLTIP = Выбрать, что у вас будет в начале игры.
+
+MP_LOBBY_INVITE = Пригласить
+
+MP_LOBBY_INVITES = Приглашения
+
+MP_LOBBY_INVITES_TOOLTIP = Просмотреть приглашения.
+
+MP_LOBBY_INVITE_ALL_PLAYERS = Пригласить всех
+
+MP_LOBBY_INVITE_CREW_TOOLTIP = Пригласить членов банды в лобби.
+
+MP_LOBBY_INVITE_FRIENDS_TOOLTIP = Пригласить друзей в лобби.
+
+MP_LOBBY_INVITE_HEADER = ПРИГЛАСИТЬ
+
+MP_LOBBY_INVITE_HORSE_TOOLTIP = Ваши лошади.
+
+MP_LOBBY_INVITE_OUTFIT_TOOLTIP = Надеть этот костюм на время режима.
+
+MP_LOBBY_INVITE_PLAYERS = Пригласить игроков
+
+MP_LOBBY_INVITE_PLAYERS_TOOLTIP = Пригласить игроков в лобби.
+
+MP_LOBBY_INVITE_RECENT_TOOLTIP = Пригласить недавно встреченных игроков в лобби.
+
+MP_LOBBY_INVITE_TO_CREW = Пригласить в банду
+
+MP_LOBBY_JOIN_TEAM = Вступить в команду
+
+MP_LOBBY_JOIN_TEAM_CANCEL_QUEUE_TICKER = Вы больше не в очереди на присоединение к ~1~
+
+MP_LOBBY_JOIN_TEAM_QUEUED = Вступить в команду (очередь)
+
+MP_LOBBY_JOIN_TEAM_QUEUE_TICKER = Вы в очереди на присоединение к ~1~
+
+MP_LOBBY_JOIN_TEAM_TICKER = Вы присоединились к команде ~1~
+
+MP_LOBBY_KICK = Исключить из лобби
+
+MP_LOBBY_KICK_VOTE = Исключить
+
+MP_LOBBY_MATCHMAKING_OFF_TOOLTIP = Вы не участвуете в подборе игроков.
+
+MP_LOBBY_MATCHMAKING_ON_TOOLTIP = В данный момент идет подбор игроков.
+
+MP_LOBBY_MESSAGE = Сообщение
+
+MP_LOBBY_MUTE = Выключить звук
+
+MP_LOBBY_OPTIONS_TOOLTIP = Задать параметры режима.
+
+MP_LOBBY_OUTFITS = Костюмы
+
+MP_LOBBY_OUTFITS_HEADER = КОСТЮМЫ
+
+MP_LOBBY_OUTFITS_TOOLTIP = Выбрать костюм для режима.
+
+MP_LOBBY_OUTFIT_OVERRIDE_DISABLED = Выбрать костюм для этого режима игры
+
+MP_LOBBY_OUTFIT_OVERRIDE_ENABLED = Изменен тип костюмов для этого режима игры
+
+MP_LOBBY_PLAYERS = Игроки
+
+MP_LOBBY_PLAYERS_ALL = Все
+
+MP_LOBBY_PLAYERS_TOOLTIP = Просмотреть список игроков в лобби.
+
+MP_LOBBY_PLAYER_OPTIONS_HEADER = Параметры игрока
+
+MP_LOBBY_PLYR_OPTIONS_KICK_TOOLTIP = Проголосовать за исключение этого игрока из лобби.
+
+MP_LOBBY_POSITION_TOOLTIP = Выбрать предпочтительную стартовую позицию.
+
+MP_LOBBY_POSSE_OUTFIT_EQUIPPED_TOOLTIP = Форму отряда нельзя изменить.
+
+MP_LOBBY_PREFERRED_POSITION = Предпочитаемая позиция
+
+MP_LOBBY_PREFER_TEAM = Предпочесть команду
+
+MP_LOBBY_PREFER_TEAM_TICKER = Текущая команда помечена как предпочитаемая
+
+MP_LOBBY_PURCHASE = Покупки
+
+MP_LOBBY_PURCHASES_ALL_AMMO = Все боеприпасы
+
+MP_LOBBY_PURCHASES_CLEAN = Почистить
+
+MP_LOBBY_PURCHASES_CLEAN_ALL = Почистить все оружие
+
+MP_LOBBY_PURCHASES_CLEAN_ALL_INFO = За дополнительную плату привести все оружие в идеальный вид.
+
+MP_LOBBY_PURCHASES_HEADER = ПОКУПКИ
+
+MP_LOBBY_PURCHASES_PURCHASES_FREEROAM_VALID = Совершенные покупки актуальны и для свободного режима.
+
+MP_LOBBY_PURCHASES_REFILL = Пополнить запасы
+
+MP_LOBBY_PURCHASES_REFILL_ALL_INFO = Позволяет пополнить все типы имеющихся боеприпасов и метательного оружия за дополнительную плату.
+
+MP_LOBBY_PURCHASES_TOOLTIP = Купить боеприпасы и расходуемые предметы.
+
+MP_LOBBY_QUIT_TO_FREEMODE = Выйти в свободный режим
+
+MP_LOBBY_QUIT_TO_FREEROAM_TOOLTIP = Покинуть лобби и вернуться в свободный режим.
+
+MP_LOBBY_READY_UP = Готовность (~1~/~2~)
+
+MP_LOBBY_REMOVE_FRIEND = Удалить друга
+
+MP_LOBBY_REPORT = Пожаловаться
+
+MP_LOBBY_SHOW_PLAYERS = Показать игроков
+
+MP_LOBBY_SHOW_STABLE = Показать конюшню
+
+MP_LOBBY_STABLE = Конюшня
+
+MP_LOBBY_STABLE_CAT_MY_HORSES = Мои лошади
+
+MP_LOBBY_STABLE_HEADER = КОНЮШНЯ
+
+MP_LOBBY_STABLE_TOOLTIP = Выбрать лошадь для этого занятия.
+
+MP_LOBBY_STARTING_INVENTORY = Стартовые вещи
+
+MP_LOBBY_STARTING_INVENTORY_HEADER = СТАРТОВЫЕ ВЕЩИ
+
+MP_LOBBY_STARTING_INVENTORY_SUBHEADER = Предпочтения
+
+MP_LOBBY_TARGET_SCORE = Сколько очков нужно заработать для победы в раунде
+
+MP_LOBBY_TARGET_WINS = В скольких раундах нужно выиграть для победы в матче
+
+MP_LOBBY_TEAM = Команда
+
+MP_LOBBY_TEAMS_TOOLTIP = Выбрать команду «~1~» или посмотреть, кто в ней.
+
+MP_LOBBY_TEAM_COUNT = ~1~/~2~
+
+MP_LOBBY_TIME_CYCLE = Разрешить смену времени суток в данном матче
+
+MP_LOBBY_TIME_LIMIT = Длительность раундов
+
+MP_LOBBY_TOD = Время суток для данного матча
+
+MP_LOBBY_TOGGLE_BACKFILL = Включить подбор игроков
+
+MP_LOBBY_TOGGLE_BACKFILL_DISABLE = Отключить подбор игроков
+
+MP_LOBBY_TOGGLE_BACKFILL_PROMPT = Включить/выключить
+
+MP_LOBBY_UNREADY_UP = Отменить готовность (~1~/~2~)
+
+MP_LOBBY_VIEW_PLAYERS = Просмотр игроков
+
+MP_LOBBY_VIEW_PLYR_CARD = Наборы способностей
+
+MP_LOBBY_WEAPON_LOADOUT = Комплект вооружения
+
+MP_LOBBY_WEAPON_LOADOUT_EQUIPPED_COUNT = Выбрано ~1~ из ~2~
+
+MP_LOBBY_WEAPON_LOADOUT_HEADER = ОРУЖИЕ
+
+MP_LOBBY_WEAPON_LOADOUT_LONG_ARM = За спиной
+
+MP_LOBBY_WEAPON_LOADOUT_LONG_ARM_BACKUP = На плече
+
+MP_LOBBY_WEAPON_LOADOUT_LONG_ARM_BACKUP_TOOLTIP = Выбрать крупноразмерное
+
+MP_LOBBY_WEAPON_LOADOUT_LONG_ARM_TOOLTIP = Выбрать крупноразмерное на спине
+
+MP_LOBBY_WEAPON_LOADOUT_MELEE_WEAPONS = Ближний бой
+
+MP_LOBBY_WEAPON_LOADOUT_MELEE_WEAPONS_TOOLTIP = Выбрать оружие ближнего боя
+
+MP_LOBBY_WEAPON_LOADOUT_SHORT_ARM_LEFT = Личное 2-е
+
+MP_LOBBY_WEAPON_LOADOUT_SHORT_ARM_LEFT_TOOLTIP = Выбрать личное оружие
+
+MP_LOBBY_WEAPON_LOADOUT_SHORT_ARM_RIGHT = Личное
+
+MP_LOBBY_WEAPON_LOADOUT_SHORT_ARM_RIGHT_TOOLTIP = Выбрать личное оружие
+
+MP_LOBBY_WEAPON_LOADOUT_SUBHEADER = Комплект вооружения
+
+MP_LOBBY_WEAPON_LOADOUT_THROWABLES = Метательное
+
+MP_LOBBY_WEAPON_LOADOUT_THROWABLES_TOOLTIP = Выбрать метательное
+
+MP_LOBBY_WEAPON_LOADOUT_TOOLTIP = Изменить комплект оружия.
+
+MP_LOBBY_WEATHER = Погодные условия для данного матча
+
+MP_STABLE_AGILITY = Резвость
+
+MP_STABLE_COAT = Масть
+
+MP_STABLE_GENDER = Пол
+
+MP_STABLE_SPEED = Скорость
+
+MP_STARTING_WEAPON_CONTENTS = Содержание
+
+MP_STARTING_WEAPON_CONTENTS_LINE = ~1~ x ~2~~n~
+
+MP_STARTING_WEAPON_OPTION_DEFAULT = По умолчанию
+
+MP_STARTING_WEAPON_OPTION_GAMBLE = Испытать удачу
+
+MP_TARGET_SCORE = Счет для победы
+
+MP_TARGET_WINS = Цель побеждает
+
+MP_TIMECYCLE = Длительность цикла
+
+MP_TIME_LIMIT = Лимит времени
+
+MP_TIME_OF_DAY = Время суток
+
+MP_WEATHER = Погода
+
+NET_CAMP_ALREADY_REQUESTED_FOOTER = Ваш лагерь размещается.
+
+NET_CAMP_CAMP_STATS = Характеристики лагеря
+
+NET_CAMP_CAMP_STATS_FOOTER = Посмотреть дополнительную информацию о лагере.
+
+NET_CAMP_DISABLED_ACTIVITY_FOOTER = Информация о лагере недоступна, пока вы участвуете в занятии
+
+NET_CAMP_DISTRICT_INVALID = В этом районе нет доступных лагерей
+
+NET_CAMP_FLAG_STATUS = Белый флаг
+
+NET_CAMP_FLAG_STATUS_FOOTER_INVALID = Выберите место для лагеря, чтобы активировать эту опцию.
+
+NET_CAMP_FLAG_STATUS_FOOTER_LOCKED = Сейчас поднять ваш флаг нельзя.
+
+NET_CAMP_FLAG_STATUS_FOOTER_LOWERED = Соперники могут атаковать ваш лагерь.
+
+NET_CAMP_FLAG_STATUS_FOOTER_LOWERED_COOLDOWN = Доступно через ~1~ сек.
+
+NET_CAMP_FLAG_STATUS_FOOTER_LOWERED_COOLDOWN_SINGULAR = Доступно через ~1~ сек.
+
+NET_CAMP_FLAG_STATUS_FOOTER_LOWERED_MEMBER = Соперники могут атаковать ваш лагерь.
+
+NET_CAMP_FLAG_STATUS_FOOTER_RAISED = Соперники не могут атаковать ваш лагерь.
+
+NET_CAMP_FLAG_STATUS_FOOTER_RAISED_COOLDOWN = Доступно через ~1~ сек.
+
+NET_CAMP_FLAG_STATUS_FOOTER_RAISED_COOLDOWN_SINGULAR = Доступно через ~1~ сек.
+
+NET_CAMP_FLAG_STATUS_FOOTER_RAISED_MEMBER = Соперники не могут атаковать ваш лагерь.
+
+NET_CAMP_INTRO_MISSION_DISABLED_FOOTER = Информация о лагере недоступна во время вступительного задания
+
+NET_CAMP_LOCATION_ENTRY_FOOTER = Ваш лагерь будет разбит в этом месте.
+
+NET_CAMP_LOCATION_NO_CASH_FOOTER = У вас недостаточно денег, чтобы разбить лагерь.
+
+NET_CAMP_LOCATION_PITCHED_FOOTER = Ваш лагерь находится здесь.
+
+NET_CAMP_LOCATION_TOO_SMALL = Этот лагерь слишком мал для вашего отряда
+
+NET_CAMP_SETTINGS_LOCATION_FOOTER = Изменить местоположение и размер своего лагеря.
+
+NET_CAMP_SET_CAMP_LOCATION = Выбрать место для лагеря
+
+NET_CAMP_SET_CAMP_LOCATION_FOOTER = Выбрать местоположение и размер своего лагеря.
+
+NET_CAMP_SET_CAMP_LOCATION_FOOTER_MEMBER = Только командир отряда может разбить лагерь.
+
+NET_CAMP_SET_CAMP_SIZE = Задать размер лагеря.
+
+NET_CAMP_SET_CAMP_SIZE_NEED_UPGRADE = Большой лагерь доступен только для постоянного отряда.
+
+NET_CAMP_SET_LOC_CONTENT_LOCK = Невозможно переместить лагерь, пока он используется
+
+NET_CAMP_SET_LOC_FAIL_CHALLENGE = Вы не можете разбить лагерь во время испытания
+
+NET_CAMP_SET_LOC_FAIL_EVENT = Вы не можете разбить лагерь во время события свободного режима
+
+NET_CAMP_SET_LOC_FAIL_POSSE_VERSUS = Вы не можете разбить лагерь во время противостояния отрядов
+
+NET_CAMP_SET_LOC_FOLLOWER_DEAD = Нельзя разбить лагерь, когда ваш спутник мертв.
+
+NET_CAMP_SIZE_LARGEST = Большой лагерь
+
+NET_CAMP_SIZE_SMALLEST = Маленький лагерь
+
+NET_MOONSHINE_HAVE_SHACK_COUPON = Эту покупку вы получите бесплатно вместе с наградой
+
+NET_MOONSHINE_INVITE_TO_SHACK_FOOTER = Пригласить в хижину самогонщика.
+
+NET_MOONSHINE_INVITE_TO_SHACK_LEADER_ONLY_FOOTER = Отсылать приглашения может только командир отряда.
+
+NET_MOONSHINE_INVITE_TO_SHACK_NO_SHACK_FOOTER = Сначала обустройте хижину самогонщика.
+
+NET_MOONSHINE_INVITE_TO_SHACK_YOUR_SHACK_FOOTER = Войдите в хижину, чтобы пригласить игроков.
+
+NET_MOONSHINE_SET_SHACK_LOCATION_FOOTER = Выбрать местоположение своей хижины самогонщика.
+
+NET_STABLES_UGC_DISABLED_FOOTER = Управление конюшней в данный момент недоступно.
+
+NM_BUCKET_ADVERSARIAL = Серия противоборств
+
+NM_BUCKET_EIGHT_PLAYER = Серии для 8 игроков
+
+NM_BUCKET_FOUR_PLAYER = Серии для 4 игроков
+
+NM_BUCKET_NOMINATED_SERIES_LARGE = Предложенная серия, 32 игрока
+
+NM_BUCKET_NOMINATED_SERIES_MEDIUM = Предложенная серия, 16 игроков
+
+NM_BUCKET_NOMINATED_SERIES_SMALL = Предложенная серия, 4 игрока
+
+NM_BUCKET_RACE = Серия гонок
+
+NM_BUCKET_TWELVE_PLAYER = Серии для 12 игроков
+
+NM_CAMP_DAILY_FEE = Ежедневная плата
+
+NM_CAMP_PRICE = Цена
+
+NM_CAMP_SIZE_VALUE = ~1~
+
+NM_FR_CHARACTER_DETAILS_INFO = Оплата услуги взимается после внесения изменений.
+
+NM_FR_CHARACTER_REROLL_FAIL_CONTENT = Вы не можете изменить свою внешность, пока участвуете в активном задании.
+
+NM_FR_CHARACTER_REROLL_FAIL_GENERIC = Сейчас вы не можете изменить свою внешность.
+
+NM_FR_CHARACTER_REROLL_FAIL_INSUFFICIENT_FUND = Недостаточно RDO $, золота или наград.
+
+NM_FR_CHARACTER_REROLL_INFO = Изменить внешность
+
+NM_FR_CHAR_CREATOR = Изменить внешность
+
+NM_FR_EMOTES_TYPE_ACTION_FOOTER = Ваше любимое действие: ~1~
+
+NM_FR_EMOTES_TYPE_ANTAGONIZE_FOOTER = Ваша любимая насмешка: ~1~
+
+NM_FR_EMOTES_TYPE_GREET_FOOTER = Ваше любимое приветствие: ~1~
+
+NM_FR_EMOTES_TYPE_NONE_FOOTER = Для этого типа жестов не выбран любимый жест.
+
+NM_FR_EMOTES_TYPE_ONE_FOOTER = Сделать любимым можно только один жест каждого типа.
+
+NM_FR_EMOTES_TYPE_REACTION_FOOTER = Ваша любимая реакция: ~1~
+
+NM_FR_KILL_YOURSELF_FOOTER = Выберите, чтобы возродиться
+
+NM_FR_KILL_YOURSELF_FOOTER_DISABLED_CONTENT = Текущий игровой режим не позволяет возродиться вручную
+
+NM_FR_KILL_YOURSELF_FOOTER_DISABLED_JAIL = Вы не можете возродиться вручную, пока находитесь за решеткой.
+
+NM_FR_KILL_YOURSELF_LINK = Возродиться
+
+NM_FR_PASSIVE_OPTIONS_LINK = Стиль игры
+
+NM_FR_PASSIVE_OPTION_DETAILS_NOT_PASSIVE = Дополнительная защита от других игроков отсутствует. Все миссии доступны.
+
+NM_FR_PASSIVE_OPTION_DETAILS_PASSIVE = Другие игроки не могут на вас сфокусироваться и наносят меньше урона. Миссии без конфликтов с игроками предлагаются чаще.
+
+NM_FR_PASSIVE_OPTION_FOOTER_HIGH_HOSTILITY = Недоступно из-за высокого уровня враждебности.
+
+NM_FR_PASSIVE_OPTION_FOOTER_HIGH_HOSTILITY_GANG = Недоступно из-за высокого уровня враждебности отряда.
+
+NM_FR_PASSIVE_OPTION_FOOTER_NOT_PASSIVE = Доступно при любом уровне враждебности.
+
+NM_FR_PASSIVE_OPTION_FOOTER_NOT_PASSIVE_DISABLED = Эту опцию нельзя изменить во время занятий.
+
+NM_FR_PASSIVE_OPTION_FOOTER_NOT_PASSIVE_DISABLED_AGGRESION = Отключено вследствие агрессивного поведения
+
+NM_FR_PASSIVE_OPTION_FOOTER_NOT_PASSIVE_DISABLED_BOUNTY_HUNT = Недоступно, пока за вами охотятся.
+
+NM_FR_PASSIVE_OPTION_FOOTER_NOT_PASSIVE_DISABLED_GANG = Только командир отряда может поменять стиль игры
+
+NM_FR_PASSIVE_OPTION_FOOTER_NOT_PASSIVE_DISABLED_INTRO = Эту опцию нельзя изменить во время вступительного задания.
+
+NM_FR_PASSIVE_OPTION_FOOTER_NOT_PASSIVE_DISABLED_MATCH = Недоступно, пока идет подбор игроков.
+
+NM_FR_PASSIVE_OPTION_FOOTER_NOT_PASSIVE_WAITING = Доступно через ~1~ сек.
+
+NM_FR_PASSIVE_OPTION_FOOTER_NOT_PASSIVE_WAITING_SINGULAR = Доступно через ~1~ сек.
+
+NM_FR_PASSIVE_OPTION_FOOTER_PASSIVE = Доступно при низком или среднем уровне враждебности.
+
+NM_FR_PASSIVE_OPTION_FOOTER_PASSIVE_WAITING = Доступно через ~1~ сек.
+
+NM_FR_PASSIVE_OPTION_FOOTER_PASSIVE_WAITING_MINUTES = Доступно через ~1~ мин. ~2~ сек.
+
+NM_FR_PASSIVE_OPTION_FOOTER_PASSIVE_WAITING_MINUTES_SINGULAR = Доступно через ~1~ мин. ~2~ сек.
+
+NM_FR_PASSIVE_OPTION_FOOTER_PASSIVE_WAITING_SINGULAR = Доступно через ~1~ сек.
+
+NM_FR_SESSION_PREFERENCE_FOOTER = Отдайте предпочтение игре с друзьями и членами банды.
+
+NM_FR_SESSION_PREFERENCE_LINK = Социальная игра
+
+NM_FR_SPAWN_LOCATION_LINK = Место возрождения
+
+NM_FR_VOICE_CHAT_FILTER_FOOTER = Выберите, кого вы будете слышать и с кем сможете разговаривать.
+
+NM_FR_VOICE_OPTIONS_LINK = Голосовой чат
+
+NM_GC_CREATE_PERSISTENT = Создать постоянный отряд
+
+NM_GC_CREATE_TEMPORARY = Создать временный отряд
+
+NM_GC_FOOTER_CAMP_CHANGE = Выберите местоположение и размер вашего лагеря.
+
+NM_GC_FOOTER_KEYBOARD_SERVICES_DOWN = В данный момент сервисы недоступны.
+
+NM_GC_FOOTER_NAME_CHANGE = Выбрать название отряда.
+
+NM_GC_FOOTER_NAME_CHANGE_MEMBER = Только командир отряда может выбрать имя отряда.
+
+NM_GC_FOOTER_NAME_CHANGE_TEMP = Только постоянные отряды могут выбрать свое имя.
+
+NM_GC_FOOTER_RESTRICT_ACCOUNT_P_NAME = Функция выбора названия отключена в настройках родительского контроля.
+
+NM_GC_FOOTER_SET_OUTFIT_ACTIVE = Члены отряда носят тематические костюмы.
+
+NM_GC_FOOTER_STEP_FRIENDLY_FIRE_OFF = Участники отряда не могут наносить урон друг другу.
+
+NM_GC_FOOTER_STEP_FRIENDLY_FIRE_OFF_PASSIVE = Чтобы включить эту опцию, выберите агрессивный стиль игры.
+
+NM_GC_FOOTER_STEP_FRIENDLY_FIRE_ON = Участники отряда могут наносить урон друг другу.
+
+NM_GC_FOOTER_STEP_OUTFIT_NONE = Члены отряда одеваются по своему усмотрению.
+
+NM_GC_FOOTER_STEP_PRIVACY_CLOSED = В этот отряд могут вступить только приглашенные вами игроки.
+
+NM_GC_FOOTER_STEP_PRIVACY_OPEN = Другие игроки могут автоматически вступить в ваш отряд.
+
+NM_GC_FOOTER_STEP_TYPE_PERSISTENT = Отряд сохраняется, настройки не ограничены.
+
+NM_GC_FOOTER_STEP_TYPE_TEMPORARY = Этот отряд и его статистика не сохраняются, настройки ограничены.
+
+NM_GC_FOOTER_TEMP_OUTFIT = Тематические костюмы доступны только для постоянных отрядов.
+
+NM_GC_REQ_MAX_MEMBERSHIP = Вы состоите в слишком многих отрядах
+
+NM_GC_REQ_NO_CAMP = Выберите место для своего лагеря
+
+NM_GC_REQ_NO_COST = У вас должно быть достаточно денег, чтобы заплатить за создание отряда
+
+NM_GC_REQ_POSSE_CREATE_COOLDOWN = Чтобы создать создать новый отряд, нужно подождать
+
+NM_GC_REQ_POSSE_CREATE_LOCKED = Сейчас нельзя создать отряд
+
+NM_GC_REQ_TOO_MANY_P_MEMBERS = В этом отряде нет места для еще одного постоянного члена
+
+NM_GC_TEXT_CAMP_NONE = Нет
+
+NM_GC_UGC_RESTRICT = Данной учетной записи запрещен доступ к указанному сервису Rockstar.
+
+NM_GW_DEMOTE = Понизить
+
+NM_GW_KICK = Исключить из отряда
+
+NM_GW_KICK_BLOCK_FOOTER = Исключение из отряда в данный момент недоступно
+
+NM_GW_KICK_FOOTER = Исключить из отряда
+
+NM_GW_PROMOTE = Повысить
+
+NM_HONOR_BAD = Бесчестный
+
+NM_HONOR_GOOD = Честный
+
+NM_LBM_TOAST_INTERACTION = Удерживайте ~INPUT_FEED_INTERACT~, чтобы увидеть местоположение доски с плакатами.
+
+NM_LBM_TOAST_TITLE = Доступен легендарный преступник
+
+NM_MATCHMAKING_ASYNC_START = Вы перейдете в свободный режим. Подбор игроков продолжится в фоновом режиме.
+
+NM_MATCHMAKING_DISBAND_POSSE_WARNING = Если начнете подбор игроков в одиночку, то распустите отряд. Продолжить?
+
+NM_MATCHMAKING_FME_ERROR = Не удалось выполнить подбор игроков и присоединиться к другому игроку. Попробуйте еще раз. (Ошибка: ~1~)
+
+NM_MATCHMAKING_JIP_FAILED = Не удалось присоединиться к системе подбора игроков с командиром вашего отряда. Повторите попытку позже.
+
+NM_MATCHMAKING_LEAVE_MATCH_WARNING = Если задействовать систему подбора игроков, вы покинете текущую игру. Продолжить?
+
+NM_MATCHMAKING_LEAVE_POSSE_WARNING = Если начнете подбор игроков в одиночку, то покинете отряд. Продолжить?
+
+NM_MATCHMAKING_PLAYLIST_LOCKED = Не удалось выполнить подбор игроков, поскольку плейлист закрыт.
+
+NM_MATCHMAKING_PQRR_NOT_FOUND = Не удалось отправить запрос. Попробуйте еще раз.
+
+NM_MATCHMAKING_PQRR_OTHER = Подбор игроков был прерван, потому что не удалось подключиться к игровым сервисам Rockstar (Ошибка: ~1~)
+
+NM_MATCHMAKING_PQRR_PLAYER_CANCELLED = Подбор игроков был прерван, потому что один из членов вашего отряда отказался от участия. Попробуйте еще раз.
+
+NM_MATCHMAKING_PQRR_PLAYER_OFFLINE = Подбор игроков был прерван, потому что один из членов вашего отряда вышел из игры. Попробуйте еще раз.
+
+NM_MATCHMAKING_PQRR_TIMEOUT = Не удалось выполнить подбор игроков за отведенное время. Попробуйте еще раз.
+
+NM_MW_ENTRY_PLAYER_ALL_MUTED_FOOTER = У всех игроков выключен звук, нельзя включить/выключить звук для отдельного игрока
+
+NM_MW_ENTRY_PLAYER_MUTE = Выключить звук (игрок)
+
+NM_MW_ENTRY_PLAYER_MUTE_ALL = Выключить звук (все)
+
+NM_MW_ENTRY_PLAYER_MUTE_FOOTER = Перестать слышать голосовой чат этого игрока
+
+NM_MW_ENTRY_PLAYER_UNMUTE = Включить звук (игрок)
+
+NM_MW_ENTRY_PLAYER_UNMUTE_ALL = Включить звук (все)
+
+NM_MW_ENTRY_PLAYER_UNMUTE_FOOTER = Начать слышать голосовой чат этого игрока
+
+NM_MW_EXIT_TO_FREEROAM_FOOTER = Покинуть этот режим и вернуться в свободный режим.
+
+NM_MW_MEMBERS_LINK = Члены отряда
+
+NM_MW_OUTFIT_STYLE = Стиль костюма
+
+NM_MW_POSSE_ABANDON_LINK = Выйти из отряда
+
+NM_MW_POSSE_ABANDON_LINK_FOOTER = Навсегда покинуть отряд
+
+NM_MW_POSSE_ACTIVATE = Пересобрать отряд
+
+NM_MW_POSSE_ACTIVATE_FOOTER = Пересобрать этот отряд
+
+NM_MW_POSSE_ACTIVATE_FOOTER_M = Вернуться в ваш постоянный отряд
+
+NM_MW_POSSE_ACTIVATE_FOOTER_SM = Произвести подбор игроков, чтобы вернуться в ваш постоянный отряд
+
+NM_MW_POSSE_ACTIVATE_M = Вернуться в отряд
+
+NM_MW_POSSE_CAMP_FOOTER = Местонахождение лагеря отряда: ~1~
+
+NM_MW_POSSE_CAMP_NONE_FOOTER = В данный момент лагерь отряда не разбит
+
+NM_MW_POSSE_CONTENT_ACTIVE_FOOTER = Нельзя выполнять действия в активном задании
+
+NM_MW_POSSE_CONTENT_JOIN_LOCK = Нельзя вступить в отряд, если он на активном задании.
+
+NM_MW_POSSE_CONTENT_LOCK_ABANDON_FOOTER = Нельзя бросить отряд во время начала задания
+
+NM_MW_POSSE_CONTENT_LOCK_ACTIVATE_FOOTER = Нельзя активировать отряд во время начала задания
+
+NM_MW_POSSE_CONTENT_LOCK_DISBAND_FOOTER = Нельзя распустить отряд во время начала задания
+
+NM_MW_POSSE_CONTENT_LOCK_INVITE_FOOTER = Нельзя приглашать игроков, когда начинается задание.
+
+NM_MW_POSSE_CONTENT_LOCK_JOIN_FOOTER = Нельзя присоединиться к отряду, когда начинается задание.
+
+NM_MW_POSSE_CONTENT_LOCK_LEAVE_FOOTER = Нельзя покинуть отряд во время начала задания
+
+NM_MW_POSSE_CONTENT_LOCK_STANDDOWN_FOOTER = Нельзя сдаться во время начала задания
+
+NM_MW_POSSE_CREATE = Создать отряд
+
+NM_MW_POSSE_CREATE_FEE = Административный сбор
+
+NM_MW_POSSE_CREW_FOOTER = Банда командира отряда
+
+NM_MW_POSSE_DISBAND_LINK = Распустить отряд
+
+NM_MW_POSSE_DISBAND_LINK_FOOTER = Навсегда распустить отряд
+
+NM_MW_POSSE_DISBAND_WARNING_HEADER = Роспуск отряда
+
+NM_MW_POSSE_DISBAND_WARNING_SUBHEADER = После роспуска этот отряд будет удален навсегда.
+
+NM_MW_POSSE_ENTRY_FOOTER = Список ваших отрядов и находящихся поблизости отрядов других игроков
+
+NM_MW_POSSE_FRIENDLY_FIRE = Огонь по своим
+
+NM_MW_POSSE_JAIL_LOCK_REJOIN_FOOTER = Нельзя вступить в этот отряд, находясь за решеткой.
+
+NM_MW_POSSE_JOIN = Вступить в отряд
+
+NM_MW_POSSE_JOIN_BLOCKED_FOOTER = Нельзя вступить в этот отряд
+
+NM_MW_POSSE_JOIN_BLOCKED_PRIVACY_FOOTER = Этот отряд закрыт и в него нельзя вступить
+
+NM_MW_POSSE_JOIN_CONTENT_BLOCK_FOOTER = Нельзя вступить в этот отряд, пока вы на задании
+
+NM_MW_POSSE_JOIN_FOOTER = Вступить в этот отряд и стать членом отряда
+
+NM_MW_POSSE_JOIN_INACTIVE_POSSE_FOOTER = Нельзя вступить: командир не активировал отряд.
+
+NM_MW_POSSE_JOIN_LEADER_FOOTER = Вы являетесь командиром этого отряда
+
+NM_MW_POSSE_JOIN_MEMBER_FOOTER = Вы являетесь членом этого отряда
+
+NM_MW_POSSE_JOIN_TOO_MANY_FOOTER = Вы не можете вступить в отряд, так как в отряде нет места
+
+NM_MW_POSSE_KICKED_FOOTER = Вы не можете присоединиться к отряду после того, как вас исключили из него
+
+NM_MW_POSSE_LEADER = Командир
+
+NM_MW_POSSE_LEAVE_INACTIVE_FOOTER = Нельзя покинуть отряд в активном задании
+
+NM_MW_POSSE_LEAVE_LINK = Покинуть отряд
+
+NM_MW_POSSE_LEAVE_L_LINK_FOOTER = Временно закрыть отряд и пересобрать его позже
+
+NM_MW_POSSE_LEAVE_M_LINK_FOOTER = Временно покинуть отряд и вернуться в него позже
+
+NM_MW_POSSE_MEMBERS_FOOTER = Просмотреть членов отряда.
+
+NM_MW_POSSE_MEMBER_GENERIC_DISABLE = Только командир отряда может поменять этот параметр
+
+NM_MW_POSSE_MEMBER_LOCKED_FOOTER = Чтобы открыть, увеличьте размер лагеря
+
+NM_MW_POSSE_NAME = Название
+
+NM_MW_POSSE_OTHER_CONTENT_LOCK_REJOIN_FOOTER = Нельзя вернуться в отряд, когда начинается его задание.
+
+NM_MW_POSSE_PERSISTENCE_FOOTER = Переключить постоянный отряд
+
+NM_MW_POSSE_PERS_LEADER = Вы – командир этого постоянного отряда и можете пересобрать его
+
+NM_MW_POSSE_PERS_MEMB_BLOCK = Вы – член этого постоянного отряда, но командир не пересобрал его
+
+NM_MW_POSSE_PERS_MEMB_JOINABLE = Вы являетесь членом этого постоянного отряда и можете вернуться в него
+
+NM_MW_POSSE_PERS_MEMB_JOIN_SESS = Вы – член этого отряда и можете произвести подбор игроков, чтобы вернуться в него
+
+NM_MW_POSSE_REPUTATION = Репутация
+
+NM_MW_POSSE_SETTINGS_FOOTER = Просмотреть настройки отряда.
+
+NM_MW_POSSE_SETTINGS_LINK = Настройки
+
+NM_MW_POSSE_STATS_LINK = Статистика
+
+NM_MW_POSSE_TYPE = Тип
+
+NM_MW_POSSE_TYPE_PERSISTENT = Постоянный
+
+NM_MW_POSSE_TYPE_TEMPORARY = Временный
+
+NM_MW_POSSE_VERSUS_CHANGE_TEAM = Сменить команду
+
+NM_MW_POSSE_VERSUS_FOOTER = Запустить противостояние отрядов.
+
+NM_MW_POSSE_VERSUS_FOOTER_BLOCKED_JAIL = Недоступно, пока вы – или кто-либо из вашего отряда – за решеткой.
+
+NM_MW_POSSE_VERSUS_LINK = Противостояние отрядов
+
+NM_MW_POSSE_VERSUS_NO_PERSISTENT_POSSE_FOOTER = Доступно только постоянным отрядам.
+
+NM_MW_QUIT_TO_FREEROAM = Вернуться в свободный режим
+
+NM_MW_VERIFY_EXIT_POSSE_MEMBER = Вы действительно хотите вернуться в свободный режим?~n~Вы покинете текущий отряд.
+
+NM_MW_VERIFY_EXIT_SOLO = Вы действительно хотите вернуться в свободный режим?
+
+NM_OPTION_DISABLED_ACTIVITY_TOOLTIP = Это действие недоступно, пока вы участвуете в занятии.
+
+NM_OPTION_DISABLED_INTRO_TOOLTIP = Это действие недоступно во время вступительного задания.
+
+NM_PLAYER_INFO_IN_SESSION_TOOLTIP = Игрок находится в вашем сеансе.
+
+NM_PLAYER_INFO_NOT_IN_SESSION_TOOLTIP = Игрок не находится в вашем сеансе.
+
+NM_PLAYER_REPORT_ABUSIVE = Неподобающее поведение в чате
+
+NM_PLAYER_REPORT_ABUSIVE_DESC = Под неподобающим поведением в чате подразумевается выраженные устно или письменно оскорбления, ненормативная лексика, угрозы, насмешки и обидные комментарии. Кроме того, хотим напомнить о следующем: вы можете отключить звук неподобающе ведущих себя игроков через меню игрока.
+
+NM_PLAYER_REPORT_ABUSIVE_FOOTER = Пожаловаться на неподобающее поведение в чате
+
+NM_PLAYER_REPORT_CHEATING = Читерство
+
+NM_PLAYER_REPORT_CHEATING_DESC = Под читерством подразумевается применение сторонних программ или использование серьезных программных ошибок, позволяющих получить незаслуженное преимущество во время игры.
+
+NM_PLAYER_REPORT_CHEATING_FOOTER = Пожаловаться на читерство
+
+NM_PLAYER_REPORT_CONFIRM = При вынесении решения о том, были ли нарушены наши правила, мы рассмотрим предоставленную нам информацию. Хотя мы не будем комментировать отправленную вами жалобу и ее результат, мы хотели бы поблагодарить вас за прилагаемые усилия к тому, чтобы наша игра оставалась честной, дружелюбной к игрокам и доставляла удовольствие.
+
+NM_PLAYER_REPORT_DISRUPTIVE = Хулиганство
+
+NM_PLAYER_REPORT_DISRUPTIVE_DESC = Под хулиганством подразумеваются любые действия, мешающие другим игрокам нормально играть (включая грифинг).
+
+NM_PLAYER_REPORT_DISRUPTIVE_FOOTER = Пожаловаться на хулиганство
+
+NM_PLAYER_REPORT_OFFENSIVE = Оскорбительные материалы
+
+NM_PLAYER_REPORT_OFFENSIVE_DESC = Под оскорбительными материалами подразумеваются названия отрядов и имена лошадей, содержащие оскорбления или ненормативную лексику.
+
+NM_PLAYER_REPORT_OFFENSIVE_FOOTER = Пожаловаться на оскорбительные материалы
+
+NM_PLAYER_REPORT_OHN = Оскорбительное имя лошади
+
+NM_PLAYER_REPORT_OPN = Оскорбительное название отряда
+
+NM_PLAYER_REPORT_SUBMIT = Отправить жалобу
+
+NM_PLAYLIST_ADVERSARY_LARGE = Серия противоборств (бол.)
+
+NM_PLAYLIST_ADVERSARY_LARGE_FOOTER = Соревноваться с другими игроками в серии разных игр
+
+NM_PLAYLIST_ADVERSARY_MEDIUM = Серия противоборств
+
+NM_PLAYLIST_ADVERSARY_MEDIUM_FOOTER = Соревноваться в одиночку или командами в серии разных игр
+
+NM_PLAYLIST_ADVERSARY_SMALL = Серия противоборств (мал.)
+
+NM_PLAYLIST_ADVERSARY_SMALL_FOOTER = Соревноваться с другими игроками в маленькой серии
+
+NM_PLAYLIST_CAPTURE = Серия захватов
+
+NM_PLAYLIST_CAPTURE_FOOTER = Захватите контроль в противоборствах на удержание цели.
+
+NM_PLAYLIST_CORONA = Начать подбор игроков (~1~)
+
+NM_PLAYLIST_DEBUG_PLAY_SERIES_1 = Debug Play Series 1
+
+NM_PLAYLIST_DEBUG_PLAY_SERIES_2 = Debug Play Series 2
+
+NM_PLAYLIST_DEBUG_PLAY_SERIES_3 = Debug Play Series 3
+
+NM_PLAYLIST_ELIMINATION_LARGE = Серия на выбывание (бол.)
+
+NM_PLAYLIST_ELIMINATION_LARGE_FOOTER = Сражаться с другими игроками в большой серии на выбывание.
+
+NM_PLAYLIST_ELIMINATION_MEDIUM = Серия на выбывание
+
+NM_PLAYLIST_ELIMINATION_MEDIUM_FOOTER = Сражаться с другими игроками в серии на выбывание.
+
+NM_PLAYLIST_ELIMINATION_SMALL = Серия на выбывание (мал.)
+
+NM_PLAYLIST_ELIMINATION_SMALL_FOOTER = Сражаться с другими игроками в малой серии на выбывание.
+
+NM_PLAYLIST_FEATURED_001 = Избранная серия
+
+NM_PLAYLIST_FEATURED_001_FOOTER = Участвуйте в новых режимах Red Dead Online.
+
+NM_PLAYLIST_FOOTER_UNAVAILABLE_MATCHMADE = Недоступно в данный момент в связи с подбором игроков.
+
+NM_PLAYLIST_FOOTER_UNAVAILABLE_UGC = Недоступно в данный момент в связи с выполнением задания
+
+NM_PLAYLIST_GUN_RUSH = Оружейная лихорадка
+
+NM_PLAYLIST_GUN_RUSH_FOOTER = Соревноваться в сужающемся игровом секторе. Побеждает последний выживший.
+
+NM_PLAYLIST_GUN_RUSH_TEAMS = Оружейная лихорадка (команд.)
+
+NM_PLAYLIST_GUN_RUSH_TEAMS_FOOTER = Соревноваться в сужающимся игровом секторе. Побеждает последняя выжившая команда.
+
+NM_PLAYLIST_HARDCORE_SERIES = Хардкорная серия
+
+NM_PLAYLIST_HARDCORE_SERIES_FOOTER = Соревноваться с другими игроками в серии игр на картах «Хардкор».
+
+NM_PLAYLIST_MATCHMADE_PLAYERS = Подобрано игроков: ~1~
+
+NM_PLAYLIST_NOMINATED = Предложенная серия
+
+NM_PLAYLIST_NOMINATED_FOOTER = Соревноваться в различных режимах игры, предложенных вами и другими игроками.
+
+NM_PLAYLIST_NOMINATED_LARGE = Предложенная серия – 32 чел.
+
+NM_PLAYLIST_NOMINATED_MEDIUM = Предложенная серия – 16 чел.
+
+NM_PLAYLIST_N_PLYR_MAX = Количество игроков: 1-~1~
+
+NM_PLAYLIST_RACE = Серия гонок
+
+NM_PLAYLIST_RACE_FOOTER = Поднять пыль в серии гонок.
+
+NM_PLAYLIST_SERIES_ON_CALL = Случайный плейлист серий
+
+NM_PLAYLIST_SERIES_ON_CALL_FOOTER = Присоединитесь к любому плейлисту серий.
+
+NM_PLAYLIST_SHOOTOUT = Серия перестрелок
+
+NM_PLAYLIST_SHOOTOUT_FOOTER = Проверьте свою меткость в серии боевых противоборств.
+
+NM_PLAYLIST_STORY_MISSION_ON_CALL = Случайное сюжетное задание
+
+NM_PLAYLIST_STORY_MISSION_ON_CALL_FOOTER = Присоединиться к случайному сюжетному заданию.
+
+NM_POSSE_DEFENSIVE_LEADER = ~fg~¦~fo~ ~1p~
+
+NM_POSSE_INFO_DISABLED_ACTIVITY_TOOLTIP = Информация об отряде недоступна, пока вы участвуете в занятии.
+
+NM_POSSE_INFO_DISABLED_INTRO_MISSION_TOOLTIP = Информация об отряде недоступна во время вступительного задания.
+
+NM_POSSE_NAME_DEFAULT = Отряд ~1p~
+
+NM_POSSE_REFORM_TOOLTIP = Чтобы получить доступ к этому действию, пересоберите данный отряд.
+
+NM_PW_ABILITY_LOAD = Наборы способностей
+
+NM_PW_ABILITY_LOAD_FOOTER = Посмотреть набор способностей
+
+NM_PW_ADD_FRIEND = Добавить в друзья
+
+NM_PW_ADD_FRIEND_TOOLTIP = Отправить запрос на добавление друга
+
+NM_PW_C_NO_ACTIVE = Для того чтобы приглашать других игроков, нужно быть активным членом банды
+
+NM_PW_C_NO_SC_LOCAL = Для банды необходима учетная запись, привязанная к Social Club.
+
+NM_PW_INVG = Пригласить в отряд
+
+NM_PW_INVITE_TO_CREW_FOOTER = Пригласить игроков в вашу банду
+
+NM_PW_INVS = Пригласить в сеанс
+
+NM_PW_JOIN_SESSION = Присоединиться к сеансу
+
+NM_PW_MEMBER_EARN = Доход отряда
+
+NM_PW_MEMBER_POS = Позиция игрока
+
+NM_PW_MESSAGE = Сообщение
+
+NM_PW_MESSAGE_FOOTER = Отправить этому игроку сообщение
+
+NM_PW_PLAYER_LIST_PAGE = Стр. ~1~ из ~2~
+
+NM_PW_PLAYER_SLOT_EMPTY = Пусто
+
+NM_PW_PLAYER_SLOT_LOCKED = Недоступно
+
+NM_PW_REMOVE_FRIEND = Удалить друга
+
+NM_PW_REMOVE_FRIEND_TOOLTIP = Убрать этого игрока из списка
+
+NM_PW_REPORT = Пожаловаться
+
+NM_PW_REPORT_PLAYER_FOOTER = Пожаловаться на неподобающее поведение
+
+NM_PW_SHOW_GAMER_CARD_FOOTER = Просмотреть профиль этого игрока
+
+NM_PW_VIEW_ABILITY_LOADOUT_FOOTER = Просмотреть набор карт способностей.
+
+NM_PW_VIEW_POSSE = Просмотр отряда
+
+NM_STABLE_FILTER_ALL_COACHES = Все повозки
+
+NM_STABLE_FILTER_ALL_HORSES = Все лошади
+
+NM_STABLE_FILTER_DRAFT_HORSE = Упряжные лошади
+
+NM_STABLE_FILTER_GENERIC_HORSE = Верховые лошади
+
+NM_STABLE_FILTER_OWNED_HORSES = Ваши лошади
+
+NM_STABLE_FILTER_OWNED_VEHICLES = Ваш транспорт
+
+NM_STABLE_FILTER_RACE_HORSE = Скаковые лошади
+
+NM_STABLE_FILTER_SUPERIOR_HORSE = Лошади высшего класса
+
+NM_STABLE_FILTER_WAR_HORSE = Боевые лошади
+
+NM_STABLE_FILTER_WORK_HORSE = Рабочие лошади
+
+NM_STABLE_NO_MOUNT = В данный момент на вашей лошади нет ездока.
+
+NM_STABLE_VEHICLE_NO_MOUNT = В данный момент вашим транспортом никто не пользуется.
+
+NS_OSK_ENTER_NAME_DESC = Введите название отряда
+
+NS_OSK_ENTER_NAME_TITLE = Введите новое название отряда
+
+NW_PW_C_CANT_INVITE = В данный момент этот игрок не может получать приглашения
+
+NW_PW_C_CURRENT_MEMBER = Уже в вашей банде на данный момент
+
+NW_PW_C_NO_SC_REMOTE = Игроку нужна учетная запись Social Club
+
+PLAYER_MENU_WARNING_ALERT_REROLL = При переходе в меню изменения внешности вы покинете текущий игровой сеанс и активное задание. Продолжить?
+
+POSSE_DEPUTY = Помощник командира
+
+POSSE_HIRED_MEMBER = Участник
+
+POSSE_LEADER = Командир
+
+POSSE_PRIVACY = Доступ
+
+POSSE_SETTINGS_SUBH = Настройки отряда
+
+POSSE_VERSUS_INFIGHTING_SUBH = Деление на команды
+
+POSSE_VERSUS_SUBH = Противостояние отрядов
+
+UGC_RACE_SUB_TYPE_COMBAT = Бой
+
+UGC_RACE_SUB_TYPE_OPEN_RACE = Открыть
+
+UGC_RACE_SUB_TYPE_STANDARD = Стандартно
+
+UGC_TYPE_DM_EXC = Береги оружие
+
+UGC_TYPE_DM_FTB = ОНС
+
+UGC_TYPE_DM_GR = Оружейная лихорадка
+
+UGC_TYPE_DM_LMS = ОВЖ
+
+UGC_TYPE_DM_LTS = КУ
+
+UGC_TYPE_DM_MM = Меченый
+
+UGC_TYPE_DM_STANDARD = Стандартный
+
+UGC_TYPE_DM_TEAM = Команда
+
+UGC_TYPE_DM_TGR = Оружейная лихорадка (команд.)
+
+UGC_TYPE_DM_TWOC = Оружие победы (команды)
+
+UGC_TYPE_DM_WOC = Оружие победы (каждый за себя)
+
+VERIFY_EXIT_LOBBY = Вы действительно хотите выйти?
+
+VERIFY_EXIT_LOBBY_POSSE_LEADER = Вы действительно хотите выйти?~n~Если выйдете в одиночку, будете разделены со своим отрядом.
+
+VERIFY_EXIT_LOBBY_POSSE_MEMBER = Вы действительно хотите выйти?~n~Ваш текущий отряд останется позади.
+

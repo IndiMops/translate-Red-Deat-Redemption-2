@@ -1,0 +1,84 @@
+0x6D0C37C1 = Eliminate the ~e~guards~s~
+
+0x4341CE3E = Did not hold off the guards.
+
+0xB6ED8D8C = Javier has died.
+
+FUS1_BLIP_GLR = Gloria
+
+FUS1_FAIL_FSGD = Fussar's guards were alerted.
+
+FUS1_FAIL_GLAB = Gloria has been abandoned.
+
+FUS1_FAIL_GLIJ = Gloria has been injured.
+
+FUS1_FAIL_GLKL = Gloria has died.
+
+FUS1_OBJ_ACHDTC = Approach ~o~Dutch~s~
+
+FUS1_OBJ_CVRDCH = Cover ~o~Dutch~s~
+
+FUS1_OBJ_DFNDJ = Defend ~o~Javier~s~
+
+FUS1_OBJ_DPBD = Drop the body in the ~o~bushes~s~
+
+FUS1_OBJ_ESCDCH = Escape the compound with ~o~Dutch~s~
+
+FUS1_OBJ_ESCFLD = Escape through the sugar cane fields with ~o~Dutch~s~
+
+FUS1_OBJ_FLWDCH = Follow ~o~Dutch~s~
+
+FUS1_OBJ_FLWLDY = Follow ~o~Gloria~s~ through the caves~s~
+
+FUS1_OBJ_GATE = Lift the broken gate with ~o~Dutch~s~
+
+FUS1_OBJ_GTJV = Go to ~o~Javier~s~
+
+FUS1_OBJ_HLDGRD = Hold off the remaining ~e~guards~s~
+
+FUS1_OBJ_KLRT = Kill the ~e~guard~s~ on the right
+
+FUS1_OBJ_PKUP = Pick up the ~o~body~s~
+
+FUS1_OBJ_RGRDCH = Regroup with ~o~Dutch~s~
+
+FUS1_OBJ_RHLDGD = Return and hold off the remaining ~e~guards~s~
+
+FUS1_OBJ_RMCVR = Wait for the ~e~guards~s~ to leave
+
+FUS1_OBJ_RMNDCH = Remain with ~o~Dutch~s~
+
+FUS1_OBJ_SABFR = Wait ~o~outside~s~ for Dutch
+
+FUS1_OBJ_SABO = Sabotage the ~o~sugar refinery~s~ with Dutch
+
+FUS1_OBJ_SHTLCK = Shoot the ~o~lock~s~
+
+FUS1_OBJ_SNKRT = Sneak up on the ~e~guards~s~
+
+FUS1_OBJ_TKCVR = Take ~o~cover~s~
+
+FUS1_OBJ_TKOT = Take out the ~e~guard~s~ on the left
+
+FUS1_UC_GGAT = Gate
+
+FUS1_UC_GSGR = Sugar Sack
+
+FUS1_UC_GSHT = Shutters
+
+FUS1_UC_GVLV = Valve
+
+FUS1_UC_LIFT = Lift
+
+FUS1_UC_OPEN = Open
+
+FUS1_UC_SHIM = Shimmy
+
+FUS1_UC_SHTR = Close
+
+FUS1_UC_SLSH = Slash
+
+FUS1_UC_VLV = Release
+
+FUS1_WARN_GLR = Return to ~o~Gloria~s~
+

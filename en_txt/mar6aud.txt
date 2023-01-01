@@ -1,0 +1,418 @@
+GH23CHJHNBNT0_1 = ~z~~sl:0.8~My bag's on the dockside.
+
+GH23CHJHNBNT1B_1 = ~z~So... what happened?
+
+GH23CHJHNBNT1B_2 = ~z~~sl:0.0:0.8~You mean?~sl:1.4:4.4~Arthur and me, we were together... I had to get out, but...~sl:0.7~he went back... for the money...
+
+GH23CHJHNBNT1B_3 = ~z~You... you know that Arthur...
+
+GH23CHJHNBNT1B_4 = ~z~~sl:0.0:3.0~Sure. Word got to me up North,~sl:~so I went back and buried him and Miss Grimshaw.
+
+GH23CHJHNBNT1B_5 = ~z~I had to run... if any of us had been found we'd have...
+
+GH23CHJHNBNT1B_6 = ~z~Of course. I understand...
+
+GH23CHJHNBNT1B_7 = ~z~~sl:0.0:1.6~He's where he would have wanted to be...~sl:0.5~a pretty hillside... facing the evening sun.
+
+GH23CHJHNBNT1C_1 = ~z~He gave me his satchel. With some of his things in it.
+
+GH23CHJHNBNT1C_2 = ~z~Remember that journal he always drew in? I got it...
+
+GH23CHJHNBNT1C_3 = ~z~I'm a bit of a draftsman myself nowadays.
+
+GH23CHJHNBNT1_1 = ~z~So... what happened?
+
+GH23CHJHNBNT1_2 = ~z~~sl:0.0:4.2~You mean, back then? Arthur helped me get out...~sl:~gave me a chance to... live, I guess.
+
+GH23CHJHNBNT1_3 = ~z~You-you know that, Arthur...
+
+GH23CHJHNBNT1_4 = ~z~~sl:0.0:2.8~Sure. Word got to me up North,~sl:~so I went back and buried him and Miss Grimshaw.
+
+GH23CHJHNBNT1_5 = ~z~I had to run... if any of us had been found we'd have...
+
+GH23CHJHNBNT1_6 = ~z~Of course. I understand...
+
+GH23CHJHNBNT1_7 = ~z~~sl:0.0:2.1~He's where he would have wanted to be...~sl:~a pretty hillside... facing the evening sun...
+
+GH23CHJHNBNT2B_1 = ~z~~sl:1.4:3.8~He wasn't a good man... none of us were, but, uh...~sl:0.5~maybe he was true to himself...
+
+GH23CHJHNBNT2B_2 = ~z~~sl:0.0:1.5~Him and his code...~sl:1.0~that pigheaded bastard...
+
+GH23CHJHNBNT2B_3 = ~z~~sl:.0.0:2.0~You get sick like that, I guess you...~sl:0.5~you gotta cling to something.
+
+GH23CHJHNBNT2B_4 = ~z~~sl:0.0:4.0~He was hoping to come out of it... hope was about all he had left...~sl:0.8~maybe all any of us have.
+
+GH23CHJHNBNT2B_5 = ~z~
+
+GH23CHJHNBNT2_1 = ~z~He was a good man... as much as any of us could be...
+
+GH23CHJHNBNT2_2 = ~z~Getting sick like that has to rattle a feller.
+
+GH23CHJHNBNT2_3 = ~z~~sl:0.4:4.1~Rattle him or... give him some kind of understanding...~sl:0.7~what his life was really all about.
+
+GH23CHJHNBNT2_4 = ~z~~sl:0.0:0.7~Yeah...~sl:1.9~that makes sense.
+
+GH23CHJHNBNT3B_1 = ~z~They picked up Strauss. The agents. Made a real mess of him.
+
+GH23CHJHNBNT3B_2 = ~z~I heard he died in custody, never said a word.
+
+GH23CHJHNBNT3B_3 = ~z~~sl:0.8~I guess some folk is strong in ways you can't see.
+
+GH23CHJHNBNT3C_1 = ~z~Everything that happened... all those deaths... Micah?
+
+GH23CHJHNBNT3C_2 = ~z~None of us is innocent in that... Dutch least of all...
+
+GH23CHJHNBNT3C_3 = ~z~~sl:0.0:2.8~but I don't think we would'a had to make those calls.~sl:~All that mayhem. If it wasn't for...
+
+GH23CHJHNBNT3C_4 = ~z~We were on a very bad path...
+
+GH23CHJHNBNT3C_5 = ~z~And Micah Bell dragged us into the abyss.
+
+GH23CHJHNBNT3C_6 = ~z~~sl:1.0:4.9~It never ends well... gangs like ours don't ride off into the sunset.~sl:0.8~Not these days.
+
+GH23CHJHNBNT3C_7 = ~z~Maybe Arthur's sunset's the best we can hope for.
+
+GH23CHJHNBNT3C_8 = ~z~I actually believed it, you know... once...
+
+GH23CHJHNBNT3C_9 = ~z~~sl:0.0:3.4~The original plan... that we'd have a ranch one day...~sl:~horses, cattle, big noisy dinners...
+
+GH23CHJHNBNT3C_10 = ~z~~sl:0.6~all of us living free and honest.
+
+GH23CHJHNBNT3C_11 = ~z~~sl:0.0:1.6~Funny you should say that.~sl:0.4~That's what I'm hoping for this place in the high country.
+
+GH23CHJHNBNT3C_12 = ~z~~sl:0.0:3.8~Only, it's just me and Uncle at the moment.~sl:0.3~And maybe Abigail and Jack if they'll take me back.
+
+GH23CHJHNBNT3C_13 = ~z~And the ranch is... well, wait 'til you see the ranch.
+
+GH23CHJHNBNT3C_14 = ~z~~sl:0.0:1.9~I'll let you decide what you think.~sl:0.3~I think it's mighty fine. Or has the potential to be.
+
+GH23CHJHNBNT3C_15 = ~z~~sl:1.2~You're a lucky man, John. I always thought you might be.
+
+GH23CHJHNBNT3C_16 = ~z~I hope you'll stay with us.
+
+GH23CHJHNBNT3C_17 = ~z~I will... for a while.
+
+GH23CHJHNBNT3_1 = ~z~Anyway, I heard all of you were dead, or I might have come looking...
+
+GH23CHJHNBNT3_2 = ~z~And me the same about you.
+
+GH23CHJHNBNT3_3 = ~z~Dutch?
+
+GH23CHJHNBNT3_4 = ~z~Who knows? Dead, maybe. I'm not sure...
+
+GH23CHJHNBNT3_5 = ~z~~sl:0.0:4.1~I heard all kind of things, but one thing I know,~sl:~he ain't around here...
+
+GH23CHJHNBNT3_6 = ~z~I ain't heard nothing real in years, since... well... that time.
+
+GH23CHJHNBNT3_7 = ~z~Nor me. Micah?
+
+GH23CHJHNBNT3_8 = ~z~~sl:0.0:2.5~I hope that bastard is dead.~sl:~You know he was the one speaking to them agents?
+
+GH23CHJHNBNT3_9 = ~z~What?
+
+GH23CHJHNBNT3_10 = ~z~Putting them on us the whole time... or since before I got off Sisika.
+
+MAR6FCHBO_01 = ~z~Lone Wolf's gonna kill this fool.
+
+MAR6FCHBO_02 = ~z~I seen you hit whiskey jars harder than that!
+
+MAR6FCHBO_03 = ~z~What are you two, sweethearts? Let's have a fight here.
+
+MAR6FCHBO_04 = ~z~Boo! Knock his sideburns off!
+
+MAR6FCHBO_05 = ~z~You're fighting with a hand behind your back.
+
+MAR6FCHBO_06 = ~z~You ain't no kind of fighter!
+
+MAR6FCHBO_07 = ~z~Boo, you're about to see some stars.
+
+MAR6FCHCH_01 = ~z~Lone Wolf.
+
+MAR6FCHCH_02 = ~z~Hit him, Lone Wolf.
+
+MAR6FCHCH_03 = ~z~Hit him, Charles.
+
+MAR6FCHCH_04 = ~z~Pretend he's Micah.
+
+MAR6FCHCH_05 = ~z~Knock. Him. Out.
+
+MAR6FCHCH_06 = ~z~Try and stay on your feet, you hear?
+
+MAR6FCHCH_07 = ~z~Don't blackout just yet.
+
+MAR6GTTDCU_01 = ~z~We need to get out of here, come on.
+
+MAR6GTTDCU_02 = ~z~Sooner we get out of Saint Denis, John...
+
+MAR6GTTDCU_03 = ~z~It's only a short walk. Come on.
+
+MAR6METU2_1 = ~z~~sl:1.2~I think we're clear.
+
+MAR6_BETAGLW_1 = ~z~You know what, I seen him in better condition. I'll bet against him.
+
+MAR6_BETLW_1 = ~z~Sure, I'm a fan of the Wolf. Give me a bet on him.
+
+MAR6_CGOTOWAG1_1 = ~z~Let's go. There's a wagon up there. I'll get my bag.
+
+MAR6_CGOTOWAG1_2 = ~z~Okay.
+
+MAR6_CGOTOWAG2_1 = ~z~Come on. The cops will be on their way.
+
+MAR6_CJINWAGON_1 = ~z~You see any law?
+
+MAR6_CJINWAGON_2 = ~z~Not yet.
+
+MAR6_CJINWAGON_3 = ~z~Keep your eye out. Saint Denis ain't short on police.
+
+MAR6_CJINWAGON_4 = ~z~I remember that... only too well.
+
+MAR6_CJINWAGON_5 = ~z~Anyone?
+
+MAR6_CJINWAGON_6 = ~z~Good so far.
+
+MAR6_CJINWAGON_7 = ~z~~sl:0.0:2.9~Further we get from those gunshots, better chance we have...~sl:0.4~of denying it, at least.
+
+MAR6_CJINWAGON_8 = ~z~No. We can't get caught. Martelli has the Police Chief in his pocket.
+
+MAR6_CJINWAGON_9 = ~z~If they take us in, we won't get out of the interview room.
+
+MAR6_CJINWAGON_10 = ~z~~sl:0.0:1.8~I don't wanna get in a shootout over this.~sl:0.2~That's not the man I try to be anymore.
+
+MAR6_CJINWAGON_11 = ~z~~sl:0.0:1.4~No, I don't want that either.~sl:1.5~You see anything?
+
+MAR6_CJINWAGON_12 = ~z~Nothing near us.
+
+MAR6_CJINWAGON_13 = ~z~Okay. Let's keep going.
+
+MAR6_CJINWAGON_14 = ~z~Good.
+
+MAR6_DOCKS_1 = ~z~Okay. Where's your bag?
+
+MAR6_DOCKS_2 = ~z~Over there.
+
+MAR6_DOCKS_3 = ~z~It's where I left it.
+
+MAR6_DRIVEBANT_1 = ~z~If I ever wanna go back, remind me that I hate Saint Denis.
+
+MAR6_DRIVEBANT_2 = ~z~Guido Martelli will happily remind you of that.
+
+MAR6_DRIVEBANT_3 = ~z~Give me some simple folk and wide open spaces...
+
+MAR6_DRIVE_1 = ~z~Heya!
+
+MAR6_DRIVE_2 = ~z~Okay. Where was Uncle gonna meet us?
+
+MAR6_DRIVE_3 = ~z~Over the bridge going out of town. West.
+
+MAR6_DRIVE_4 = ~z~Hold on.
+
+MAR6_GUNBANT1_1 = ~z~You couldn't have thrown that fight?
+
+MAR6_GUNBANT1_2 = ~z~It's never just one fight.
+
+MAR6_GUNBANT1_3 = ~z~Evidently.
+
+MAR6_GUNBANT2_1 = ~z~Now you can't say I didn't save you.
+
+MAR6_GUNBANT2_2 = ~z~If this is saving me, can you do it better please?
+
+MAR6_GUNS_1 = ~z~What are those guns they have?
+
+MAR6_GUNS_2 = ~z~~sl:0.0:2.1~What, you don't have them in the high country?~sl:0.2~Invention moves real quick.
+
+MAR6_GUNS_3 = ~z~~sl:0.0:1.0~Here it does.~sl:0.6~Frightening.
+
+MAR6_IG1_P1_1 = ~z~~sl:0.0:2.5:1~Bonjour, how can I help you today, sir?
+
+MAR6_IG1_P1_2 = ~z~Listen... you seen a big Indian feller?
+
+MAR6_IG1_P1_3 = ~z~~sl:0.6~Indian?
+
+MAR6_IG1_P1_4 = ~z~Yeah... a boxer...
+
+MAR6_IG1_P1_5 = ~z~~sl:0.0:3.9~No, sorry mister. No.~sl:0.6:4.7~Actually... yes. He, I think he's fighting I believe.~sl:0.3~Fighting out behind Saint Saturnines.
+
+MAR6_IG1_P1_6 = ~z~Thank you. Thanks a lot.
+
+MAR6_IG1_P1_7 = ~z~No problem.
+
+MAR6_INST2_1 = ~z~This way.
+
+MAR6_M1_CHEER1_01 = ~z~Looking slow, Lone Wolf.
+
+MAR6_M1_CHEER1_02 = ~z~You know what to do, Signor Smith.
+
+MAR6_M1_CHEER2_01 = ~z~What's he doing?
+
+MAR6_M1_CHEER2_02 = ~z~Don't be stupid, Lone Wolf.
+
+MAR6_M2_CHEER1_01 = ~z~~sl:0.0:1.4:1~It's the Welshman's day.
+
+MAR6_M2_CHEER1_02 = ~z~Come on.
+
+MAR6_M2_CHEER2_01 = ~z~Eh?
+
+MAR6_M2_CHEER2_02 = ~t~In Italian: Shit!
+
+MAR6_M3_CHEER1_01 = ~t~In Italian: Come on!
+
+MAR6_M3_CHEER1_02 = ~t~In Italian: Come on! Come on!
+
+MAR6_M3_CHEER2_01 = ~z~What the hell?
+
+MAR6_M3_CHEER2_02 = ~z~Dumb redskin.
+
+MAR6_MEETUNC_1 = ~z~You boys been off getting up to no good?
+
+MAR6_MEETUNC_2 = ~z~~sl:0.0:0.6~Kind of...~sl:0.7~been getting shot at.
+
+MAR6_MEETUNC_3 = ~z~~sl:0.8~Well, they... they weren't very good shots.
+
+MAR6_MEETUNC_4 = ~z~Come on, let's head for home.
+
+MAR6_OFFTRACK_01 = ~z~Let's stick together, okay?
+
+MAR6_OFFTRACK_02 = ~z~Hey. Stay close, won't you?
+
+MAR6_OFFTRACK_03 = ~z~Where you going? Over here.
+
+MAR6_PAWN_LINGR_01 = ~z~Enjoy the fight.
+
+MAR6_PAWN_LINGR_02 = ~z~I think they might be starting soon...
+
+MAR6_PAWN_LINGR_03 = ~z~I would head along that way... Saint Saturnines...
+
+MAR6_RSC2_1 = ~z~You wait here...
+
+MAR6_RSC2_2 = ~z~I'll get the tickets.
+
+MAR6_RSC2_3 = ~z~Okay.
+
+MAR6_RSC2_4 = ~z~Alright, let's go sit down...
+
+MAR6_RSC2_5 = ~z~train'll be here in a while.
+
+MAR6_RSC2_6 = ~z~Well...
+
+MAR6_RSC2_7 = ~z~here we go.
+
+MAR6_RSC2_8 = ~z~This the train?
+
+MAR6_RSC2_9 = ~z~I guess.
+
+MAR6_RSC2_10 = ~z~Let's take it anyway.
+
+MAR6_RSC2_11 = ~z~Conversation here's just too scintillating to wait another minute.
+
+MAR6_RSC2_12 = ~z~You ever think she left you 'cause you're...
+
+MAR6_RSC2_13 = ~z~simply too much fun?
+
+MAR6_RSC2_14 = ~z~No.
+
+MAR6_RSC2_LI_1 = ~z~You wait here... I-I'll get the tickets.
+
+MAR6_RSC3_1 = ~z~Here we are.
+
+MAR6_RSC3_2 = ~z~Come on, let's get off.
+
+MAR6_RSC3_3 = ~z~Alright, yeah.
+
+MAR6_RSC3_4 = ~z~Back in Saint Denis.
+
+MAR6_RSC3_5 = ~z~I never liked this place.
+
+MAR6_RSC3_6 = ~z~Well me neither.
+
+MAR6_UGOSLUM_01 = ~z~We were splitting up, weren't we?
+
+MAR6_UGOSLUM_02 = ~z~You go that way, I'll go this way.
+
+MAR6_UGOSLUM_03 = ~z~I've had enough of you, alright? Go... search somewhere else.
+
+MAR6_UNCLE_1 = ~z~Speaking of simple...
+
+MAR6_UNCLE_CO_1 = ~z~~sl:0.0:2.0:1~John. Charles.
+
+RHLP2_BAR_LINGR_1 = ~z~Saint Saturnines.
+
+RHLP2_BAR_LINGR_2 = ~z~Now... if you want a drink, you let me know.
+
+RHLP2_IG2_P1_1 = ~z~Hey partner, you seen a big Indian guy?
+
+RHLP2_IG2_P1_2 = ~z~Indian?
+
+RHLP2_IG2_P1_3 = ~z~Sure, I've seen hundreds.
+
+RHLP2_IG2_P1_4 = ~z~A big guy... a boxer maybe? Likes fighting?
+
+RHLP2_IG2_P1_5 = ~z~Yeah, yeah. Bare knuckle guy?
+
+RHLP2_IG2_P1_6 = ~z~Think he's... he's fighting tonight over at Saint Saturnines.
+
+RHLP2_IG2_P1_7 = ~z~Thank you, thanks a lot.
+
+RHLP2_IG2_P1_8 = ~z~No problem, bud.
+
+RHLP2_IG5_A_1 = ~z~Ladies and gentlemen, gather round, gather round... have I got a treat for you.
+
+RHLP2_IG5_A_2 = ~z~An epic battle between the descendant of ancient warriors and a not so noble savage.
+
+RHLP2_IG5_A_3 = ~z~On my left, the ferocious battler from the valleys, Simon of Wales.
+
+RHLP2_IG5_A_4 = ~z~And on my right, an Indian Hercules... the savage, the untamable, the unbeaten and dare I say the unbeatable, Lone Wolf.
+
+RHLP2_IG5_A_5 = ~z~You know how this works...
+
+RHLP2_IG5_A_6 = ~z~no weapons, no forfeiting, no crying like a beaten child. Everything else goes.
+
+RHLP2_IG5_A_7 = ~z~You win by knockout, you win by retirement or you win by death.
+
+RHLP2_IG5_A_8 = ~z~Let's have a good fight boys. Let's keep it clean. But not so clean.
+
+RHLP2_IG5_B_1 = ~z~What is this?
+
+RHLP2_IG5_B_2 = ~z~Come on... Simon... hit him.
+
+RHLP2_IG5_B_3 = ~z~What is this....
+
+RHLP2_IG5_B_4 = ~z~This is rigged or something.
+
+RHLP2_IG5_B_5 = ~z~Go, Lone Wolf! Kill that bastard!
+
+RHLP2_IG7_1 = ~z~Alright... let's go find that big sour bastard...
+
+RHLP2_IG7_2 = ~z~Sure... let's split up.
+
+RHLP2_IG7_3 = ~z~Good idea... I'll take the saloons, you take the slums.
+
+RHLP2_IG7_4 = ~z~Now how about I take the saloons and you take the slums?
+
+RHLP2_IG8_DRIVE_1 = ~z~~sl:0.0:0.9~Come on, John.~sl:2.1:0.8:1~I'll drive.
+
+RHLP2_IG9_GOODL_1 = ~z~Oh, good Lord. I was just beginning to enjoy some peace and quiet.
+
+RHLP2_IG9_GOODL_2 = ~z~~sl:1.4:3.6:1~Asked that first bar man I met. He told me Charles was here...
+
+RHLP2_IG9_GOODL_3 = ~z~~sl:0.0:2.7:1~Not one of life's great mysteries it turns out.
+
+RHLP2_IG9_WHAT_1 = ~z~~sl:1.0~What took you so long?
+
+RHLP2_WAGHURRY_01 = ~z~John.
+
+RHLP2_WAGHURRY_02 = ~z~Move.
+
+RHLP2_WAGHURRY_03 = ~z~Come on.
+
+RHLP2_WAGHURRY_04 = ~z~Hey.
+
+RHLP2_WAGHURRY_05 = ~z~Let's go.
+
+RHLP2_WAGHURRY_06 = ~z~What are you doing?
+
+RHLP2_WAGHURRY_07 = ~z~John!
+
+RHLP2_WAGHURRY_08 = ~z~We've got to go.
+
+RHLP2_WAGHURRY_09 = ~z~Get in the wagon.
+

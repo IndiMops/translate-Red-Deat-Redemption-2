@@ -1,0 +1,48 @@
+FME_GH_GOLDEN_ARMOR = Золотая броня
+
+FME_GH_HELP_FIRST_PLAYER = Убейте игрока ~COLOR_ENEMY~~1p~~s~ с золотой броней ~2b~ и заберите ее себе, чтобы набрать очки.
+
+FME_GH_HELP_FIRST_PLAYERS_ALLIES = ~COLOR_POSSE_ALLY~Союзники~s~ носят золотую броню. Защищайте их, пока они увеличивают свой счет.
+
+FME_GH_HELP_FIRST_PLAYER_ALLY = ~COLOR_POSSE_ALLY~~1p~ ~2b~ ~s~носит золотую броню. Защищайте союзника, пока он увеличивает свой счет.
+
+FME_GH_HELP_FIRST_WEAR = Когда на вас золотая броня, вы получаете меньше урона, но ваша подвижность ограничена. Убивайте игроков, чтобы набирать очки.
+
+FME_GH_HELP_HAT_ABANDON = ~COLOR_MP_OBJECTIVE_NEUTRAL~Золотая броня~s~ ~1b~ была перемещена и теперь ее можно подобрать в другом месте.
+
+FME_GH_HELP_HAT_IDLE = ~COLOR_MP_OBJECTIVE_NEUTRAL~Золотая броня~s~ ~1b~ была перемещена и теперь ее можно подобрать в другом месте.
+
+FME_GH_HELP_HAT_IDLE_WARN = ~COLOR_MP_OBJECTIVE_NEUTRAL~Золотая броня~s~ ~1b~ скоро переместится, если никто ее не подберет.
+
+FME_GH_HELP_HAT_LOST = Золотая броня потеряна. Можно подобрать новую ~COLOR_MP_OBJECTIVE_NEUTRAL~золотую броню~s~ ~1b~.
+
+FME_GH_OBJ_GET_HAT = Добудьте ~COLOR_MP_OBJECTIVE_NEUTRAL~золотую броню.
+
+FME_GH_OBJ_GET_HAT_ENEMY = Добудьте ~COLOR_ENEMY~золотую броню~s~.
+
+FME_GH_OBJ_GET_HAT_MULTIPLE = Добудьте ~COLOR_MP_OBJECTIVE_NEUTRAL~золотую броню~s~.
+
+FME_GH_OBJ_GET_HAT_MULTIPLE_ENEMY = Добудьте ~COLOR_ENEMY~золотую броню~s~.
+
+FME_GH_OBJ_OWNS_HAT = Убивайте ~COLOR_ENEMY~вражеских игроков~s~, чтобы набрать очки.
+
+FME_GH_OBJ_PROTECT_HAT = Защищайте игрока ~COLOR_POSSE_ALLY~~1p~.
+
+FME_GH_OBJ_PROTECT_HAT_MULTIPLE = Защищайте ~COLOR_POSSE_ALLY~членов вашего отряда.
+
+FME_GH_SCORETIMER_ALLY_GOT_HAT = ~COLOR_MP_OBJECTIVE_FRIENDLY~Золотая броня~s~ у игрока ~COLOR_POSSE_ALLY~~1p~~s~
+
+FME_GH_SCORETIMER_ENEMY_GOT_HAT = ~COLOR_MP_OBJECTIVE_ENEMY~Золотая броня~s~ у игрока ~COLOR_ENEMY~~1p~~s~
+
+FME_GH_SCORETIMER_HAT_DROPPED = Подберите ~COLOR_MP_OBJECTIVE_NEUTRAL~золотую броню~s~
+
+FME_GH_SCORETIMER_YOU_GOT_HAT = Вы подобрали золотую броню
+
+FME_GH_SHARD_OUTRO_PRIMARY_FAILED = ~1~ очков
+
+FME_GH_SHARD_OUTRO_PRIMARY_WON = Ваш счет: ~1~
+
+FME_GH_VARIATION_HAT_DESCRIP = Добудьте ~COLOR_MP_OBJECTIVE_NEUTRAL~золотую броню~s~ и убивайте ~COLOR_ENEMY~игроков~s~, чтобы набирать очки
+
+GH_HELP_RULES = Убивайте игроков, когда на вас ~COLOR_FREEMODE_EVENT~золотая броня~s~, чтобы набирать очки. Вам также зачислят дополнительные очки, если вы устраните игрока-соперника в золотой броне.
+

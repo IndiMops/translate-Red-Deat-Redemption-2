@@ -1,0 +1,168 @@
+GUN3_ALD_MET_1 = ~z~Hello, you. What can I help you with?
+
+GUN3_ALD_NOTMET_1 = ~z~What can I do for you, sir?
+
+GUN3_BECKON2A_1 = ~z~Alden, I need a word.
+
+GUN3_BECKON2J_1 = ~z~Alden, I need a word.
+
+GUN3_BECKONJ_1 = ~z~Hey, you there, a quick word.
+
+GUN3_BECKON_1 = ~z~Hey, you there, a quick word.
+
+GUN3_COMING_1 = ~z~Coming.
+
+GUN3_IG4_LI_DRK_1 = ~z~Excuse me. I'm trying to drink.
+
+GUN3_IG4_LI_EXA_1 = ~z~~sl:0.0:1.2:1~Mr. Midnight!
+
+GUN3_IG4_LI_EXJ_1 = ~z~Mr. Midnight! Oh, jeez...
+
+GUN3_IG4_LI_KNW_1 = ~z~I knew you'd come for me... get away from me!
+
+GUN3_IG4_LI_P1A_1 = ~z~Not a problem, I'm here about Jim 'Boy' Calloway... and no one's shot him, yet.
+
+GUN3_IG4_LI_P1J_1 = ~z~Not a problem. I'm here about Jim 'Boy' Calloway, no one's shot him, yet.
+
+GUN3_IG4_LI_P2A_1 = ~z~Mr. Midnight, listen, this won't take a moment.
+
+GUN3_IG4_LI_P2A_2 = ~z~I just wanna talk with you... 'bout your old days as a shoot-ist.
+
+GUN3_IG4_LI_P2J_1 = ~z~Mr. Midnight... won't take a moment.
+
+GUN3_IG4_LI_P2J_2 = ~z~I just wanna speak with you about your old days as a shoot-ist.
+
+GUN3_IG4_LI_P3A_1 = ~z~Geddaway from me.
+
+GUN3_IG4_LI_P3A_2 = ~z~Hey.
+
+GUN3_IG4_LI_P3A_3 = ~z~I didn't shoot him in his sleep.
+
+GUN3_IG4_LI_P3A_4 = ~z~No one's saying that...
+
+GUN3_IG4_LI_P3A_5 = ~z~I didn't shoot him in his sleep, and if I did, it was the only way.
+
+GUN3_IG4_LI_P3J_1 = ~z~Geddaway from me.
+
+GUN3_IG4_LI_P3J_2 = ~z~Hey.
+
+GUN3_IG4_LI_P3J_3 = ~z~I didn't shoot him in his sleep.
+
+GUN3_IG4_LI_P3J_4 = ~z~No one's saying...
+
+GUN3_IG4_LI_P3J_5 = ~z~I didn't shoot him in his sleep, and if I did, it was the only way.
+
+GUN3_INFOJ_1 = ~z~There's an old gunslinger I'm looking for, I heard he comes through here...
+
+GUN3_INFOJ_2 = ~z~name of Midnight, Billy.
+
+GUN3_INFOJ_3 = ~z~Oh, that old soak? Yeah, he spends days on board these trains, but he's going nowhere but the gutter.
+
+GUN3_INFOJ_4 = ~z~I imagine you'll find him riding the next one through here.
+
+GUN3_INFOJ_5 = ~z~Either that or the next one. Try them both. Look in the bar car...
+
+GUN3_INFOJ_6 = ~z~Alright, thank you.
+
+GUN3_INFO_1 = ~z~There's an old gunslinger I'm looking for, I heard he comes through here...
+
+GUN3_INFO_2 = ~z~name of Midnight, Billy.
+
+GUN3_INFO_3 = ~z~Oh, that old soak? Yeah, he spends days on board these trains, but he's going nowhere but the gutter.
+
+GUN3_INFO_4 = ~z~I imagine you'll find him riding the next one through here.
+
+GUN3_INFO_5 = ~z~Either that or the next one. Try 'em both. Look in the bar car...
+
+GUN3_MIDNGHT_A_1 = ~z~Mr. Midnight?
+
+GUN3_MIDNGHT_J_1 = ~z~Mr. Midnight?
+
+GUN3_S1_IG1_1 = ~z~~sl:0.0:4.0:1~I knew you'd come! But you ain't getting me, you ain't!
+
+GUN3_S1_IG3_1 = ~z~
+
+GUN3_S1_IG3_2 = ~z~~sl:0.5:0.0~Don't miss.
+
+GUN3_S1_IG5_1 = ~z~It weren't my fault!
+
+GUN3_S1_INT_1 = ~z~Excuse me, I'm trying to drink.
+
+GUN3_S1_INT_2 = ~z~Mr. Midnight, won't take a moment...
+
+GUN3_S1_INT_3 = ~z~I just wanna speak with you, about your old days as a shoot-ist.
+
+GUN3_S1_INT_4 = ~z~Get away from me.
+
+GUN3_S1_INT_5 = ~z~Hey.
+
+GUN3_S1_INT_6 = ~z~I didn't shoot him in his sleep.
+
+GUN3_S1_INT_7 = ~z~No one's saying...
+
+GUN3_S1_INT_8 = ~z~No one's saying...~n~~m~I didn't shoot him in his sleep!
+
+GUN3_S1_INT_9 = ~z~I didn't shoot him in his sleep!
+
+GUN3_S1_INT_10 = ~z~And if I did, it was the only way.
+
+GUN3_S1_INT_11 = ~z~Not a problem...
+
+GUN3_S1_INT_12 = ~z~I'm here about Jim 'Boy' Calloway...
+
+GUN3_S1_INT_13 = ~z~no one's shot him, yet.
+
+GUN3_S1_INT_14 = ~z~no one's shot him, yet.~n~~m~The drink, it helps...
+
+GUN3_S1_INT_15 = ~z~The drink, it helps...
+
+GUN3_S1_INT_16 = ~z~it helps you forget, but...
+
+GUN3_S1_INT_17 = ~z~I couldn't look him in his eyes...
+
+GUN3_S1_INT_18 = ~z~not after all he'd done for me.
+
+GUN3_S1_INT_19 = ~z~But what he'd done for me didn't matter...
+
+GUN3_S1_INT_20 = ~z~only what he'd done, you see?
+
+GUN3_S1_INT_21 = ~z~That makes some sense?
+
+GUN3_S1_INT_22 = ~z~I had to.
+
+GUN3_S1_INT_23 = ~z~Tell me about Jim Calloway, Mr. Midnight.
+
+GUN3_S1_INT_24 = ~z~I... I knew you'd come for me.
+
+GUN3_S1_INT_25 = ~z~Get away from me.
+
+GUN3_S1_INT_26 = ~z~Mr. Midnight!
+
+GUN3_S1_MCS1_1 = ~z~I knew you'd come for me!
+
+GUN3_S1_MCS1_2 = ~z~It weren't my fault!
+
+GUN3_S1_MCS1_3 = ~z~I knew...
+
+GUN3_S1_MCS1_4 = ~z~You don't know nothing, Mr. Midnight.
+
+GUN3_S1_MCS1_5 = ~z~I wanna talk.
+
+GUN3_S1_MCS1_6 = ~z~Don't do something foolish.
+
+GUN3_S1_MCS1_7 = ~z~You come for me...
+
+GUN3_S1_MCS1_8 = ~z~so come on!
+
+GUN3_S1_MCS1_9 = ~z~You don't know nothing, Mr. Midnight.
+
+GUN3_S1_MCS1_10 = ~z~I wanna talk.
+
+GUN3_S1_MCS1_11 = ~z~Don't do something foolish.
+
+GUN3_TRAINARRVE_01 = ~z~This is your train, the Midnight express, we call it.
+
+GUN3_TRAINARRVE_02 = ~z~You want that old soak, you'll find him on this one.
+
+GUN3_TRAINARRVE_03 = ~z~This is the train, just find the bar car.
+

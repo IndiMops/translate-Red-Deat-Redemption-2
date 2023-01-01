@@ -1,0 +1,14 @@
+CLNI1_ACTN_1 = ~z~What you doing there, kid?
+
+CLNI1_ACTN_2 = ~z~Making dynamite... it's easy enough.
+
+CLNI1_ACTN_3 = ~z~Does it work?
+
+CLNI1_ACTN_4 = ~z~Better than you can imagine. But I do need plenty of bear fat.
+
+CLNI1_ACTN_5 = ~z~Bear fat?
+
+CLNI1_ACTN_6 = ~z~Sure. You get me some bear fat, I'll make some for you... and teach you how to do it.
+
+CLNI1_ACTN_7 = ~z~Thank you.
+

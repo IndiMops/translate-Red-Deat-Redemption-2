@@ -1,0 +1,28 @@
+0x3C8FE7B5 = Low level crimes will be investigated by lawmen. Leave the area to avoid becoming wanted.
+
+MUD2_BIGGUY = Tommy
+
+MUD2_ENEMY = Brawler
+
+MUD2_HLP_BLK = Hold ~INPUT_MELEE_BLOCK~ to block.
+
+MUD2_HLP_GRP = While being grappled, tap ~INPUT_MELEE_ATTACK~ to escape.
+
+MUD2_HLP_INT1 = Press ~INPUT_MELEE_GRAPPLE~ to grapple.
+
+MUD2_HLP_INT2 = While grappling, press ~INPUT_MELEE_GRAPPLE_ATTACK~ to punch, or hold down ~INPUT_MELEE_GRAPPLE_CHOKE~ to choke them out.
+
+MUD2_HLP_INT3 = While grappling, use ~INPUT_MOVE_LR~ or ~INPUT_MOVE_UD~ and press ~INPUT_MELEE_GRAPPLE_BREAKOUT~ to throw in that direction.
+
+MUD2_HLP_PUN = Press ~INPUT_MELEE_ATTACK~ to punch.
+
+MUD2_OBJ_BIG = Fight ~e~Tommy~s~
+
+MUD2_OBJ_BRAWL = Defeat the ~e~Brawler~s~
+
+MUD2_OBJ_HELP = Help the Gang defeat the ~e~Brawlers~s~
+
+MUD2_OBJ_SAVE = Save ~o~Javier~s~
+
+MUD2_OBJ_STRUG = Escape the struggle
+

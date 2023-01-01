@@ -1,0 +1,32 @@
+CCM31_ACTN_A_1 = ~z~
+
+CCM31_ACTN_A_2 = ~z~Let me ask you a question.
+
+CCM31_ACTN_A_3 = ~z~Just what... exactly went on in Blackwater?
+
+CCM31_ACTN_A_4 = ~z~Nice to see you, old feller. Why you ask?
+
+CCM31_ACTN_A_5 = ~z~Just... what went on in Blackwater?
+
+CCM31_ACTN_A_6 = ~z~We got jumped, what do you think happened?
+
+CCM31_ACTN_A_7 = ~z~You said it was going to be easy.
+
+CCM31_ACTN_A_8 = ~z~I did the best I could, old man. I don't answer to you.
+
+CCM31_ACTN_A_9 = ~z~We're running for our lives because of a bad call you made.
+
+CCM31_ACTN_A_10 = ~z~We're bank robbers... way I see it, it's an occupational hazard.
+
+CCM31_ACTN_B_1 = ~z~Jenny... Mac... Davey... there were...
+
+CCM31_ACTN_B_2 = ~z~they mattered to me!
+
+CCM31_ACTN_B_3 = ~z~Well, I'm real sorry... but dying... that's part of the game. You know that!
+
+CCM31_ACTN_B_4 = ~z~This is unnecessary. Excuse me.
+
+CCM31_ACT_A_BK_1 = ~z~Old bastard has lost his nerve!
+
+CCM31_ACT_A_BK_2 = ~z~Watch your mouth, Micah.
+

@@ -1,0 +1,60 @@
+SPSBT_BINK_1 = ~z~One more big score, we got enough money to leave...
+
+SPSBT_BINK_2 = ~z~What do you think?
+
+SPSBT_BINK_3 = ~z~Rockstar Games presents
+
+SPSBT_BINK_4 = ~z~Nothing means more to me than this gang.
+
+SPSBT_BINK_5 = ~z~I would kill for it, I would happily die for it...
+
+SPSBT_BINK_6 = ~z~I wish things were different...
+
+SPSBT_BINK_7 = ~z~but it weren't us who changed.
+
+SPSBT_BINK_8 = ~z~Trust me, Arthur... just one more train.
+
+SPSBT_BINK_9 = ~z~And there's always a goddamn train.
+
+SPSBT_BINK_10 = ~z~I don't wanna kill all these folk, Dutch...
+
+SPSBT_BINK_11 = ~z~just you.
+
+SPSBT_BINK_12 = ~z~Come out!
+
+SPSBT_BINK_13 = ~z~What about loyalty?
+
+SPSBT_BINK_14 = ~z~Be loyal to what matters.
+
+SPSBT_BINK_15 = ~z~Do as you're goddamn told...
+
+SPSBT_BINK_16 = ~z~It is us, or him.
+
+SPSBT_PC_BINK_1 = ~z~Rockstar Games presents
+
+SPSBT_PC_BINK_2 = ~z~So... what next?
+
+SPSBT_PC_BINK_3 = ~z~Well, next I guess we're gonna get shot.
+
+SPSBT_PC_BINK_4 = ~z~We been on the run since Blackwater.
+
+SPSBT_PC_BINK_5 = ~z~Barely escaped with our lives in Saint Denis...
+
+SPSBT_PC_BINK_6 = ~z~Bounty hunters...
+
+SPSBT_PC_BINK_7 = ~z~Pinkertons, lawmen...
+
+SPSBT_PC_BINK_8 = ~z~They know who we are...
+
+SPSBT_PC_BINK_9 = ~z~and where we are...
+
+SPSBT_PC_BINK_10 = ~z~All of you will die.
+
+SPSBT_PC_BINK_11 = ~z~Can we trust you?
+
+SPSBT_PC_BINK_12 = ~z~I don't see you have any choice.
+
+SPSBT_PC_BINK_13 = ~z~If this is a tropical paradise...
+
+SPSBT_PC_BINK_14 = ~z~so far it ain't up to much.
+

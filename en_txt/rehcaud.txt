@@ -1,0 +1,86 @@
+REHC_RC1_1 = ~z~The name's William.
+
+REHC_RC1_2 = ~z~Arthur.
+
+REHC_RC1_3 = ~z~Are you familiar with the study of plants, my friend?
+
+REHC_RC1_4 = ~z~Familiar ain't quite the word I'd use.
+
+REHC_RC1_5 = ~z~Well, let me tell you.
+
+REHC_RC1_6 = ~z~This great earth beneath our feet...
+
+REHC_RC1_7 = ~z~can provide everything man ever needs.
+
+REHC_RC1_8 = ~z~But we've only reached a tiny bit of its potential.
+
+REHC_RC1_9 = ~z~You see, there are thousands, maybe millions of plants...
+
+REHC_RC1_10 = ~z~all across this vast country we share.
+
+REHC_RC1_11 = ~z~The mountains, the plains, the swamps...
+
+REHC_RC1_12 = ~z~I mean to explore them all.
+
+REHC_RC1_13 = ~z~To know all of nature's bounty...
+
+REHC_RC1_14 = ~z~and all of her wonder.
+
+REHC_RC1_15 = ~z~If I can.
+
+REHC_RC1_16 = ~z~Sure.
+
+REHC_RC1_17 = ~z~But I'm only one man.
+
+REHC_RC1_18 = ~z~Would you consider helping me...
+
+REHC_RC1_19 = ~z~with gathering herbs for my studies?
+
+REHC_RC1_20 = ~z~Why?
+
+REHC_RC1_21 = ~z~Knowledge...
+
+REHC_RC1_22 = ~z~kindness...
+
+REHC_RC1_23 = ~z~beauty.
+
+REHC_RC1_24 = ~z~Well, I'm...
+
+REHC_RC1_25 = ~z~ignorant...
+
+REHC_RC1_26 = ~z~ugly...
+
+REHC_RC1_27 = ~z~and nasty.
+
+REHC_RC1_28 = ~z~Well...
+
+REHC_RC1_29 = ~z~let's see if maybe we can do something about that.
+
+REHC_RC1_30 = ~z~I'll see.
+
+REHC_RC1_31 = ~z~John.
+
+REHC_RC1_32 = ~z~Familiar ain't quite the word I'd use.
+
+REHC_RC1_33 = ~z~Okay.
+
+REHC_RC1_34 = ~z~Why?
+
+REHC_RC1_35 = ~z~Well, I'm...
+
+REHC_RC1_36 = ~z~ignorant...
+
+REHC_RC1_37 = ~z~ugly....
+
+REHC_RC1_38 = ~z~and nasty.
+
+REHC_RC1_39 = ~z~Okay.
+
+REHC_RC1_LIB_1 = ~z~Arthur.
+
+REHC_RC1_LIC_1 = ~z~You familiar with the study of plants, my friend?
+
+REHC_RC1_LIJ_1 = ~z~John.
+
+REHC_RC1_LI_1 = ~z~The name's William.
+

@@ -1,0 +1,880 @@
+RODDF_2_IG3_C3J_1 = ~z~
+
+RODDF_2_IG3_C4J_1 = ~z~
+
+RODDF_2_IG3_C5J_1 = ~z~
+
+RODDF_ALLOKAYJ_1 = ~z~Everything okay?
+
+RODDF_ALLOKAY_1 = ~z~Everything okay?
+
+RODDF_BOO_A_01 = ~z~Get these weirdos off the stage.
+
+RODDF_BOO_A_02 = ~z~Less freaks, more dancing girls.
+
+RODDF_BOO_A_03 = ~z~These ain't no medical miracles.
+
+RODDF_BOO_J_01 = ~z~This ain't no circus!
+
+RODDF_BOO_J_02 = ~z~These freaks are boring!
+
+RODDF_BOO_J_03 = ~z~Take these freaks out back and shoot 'em!
+
+RODDF_CHEER_A_01 = ~z~Look at that big guy!
+
+RODDF_CHEER_A_02 = ~z~Bring out more freaks!
+
+RODDF_CHEER_J_01 = ~z~Bet he eats like a horse.
+
+RODDF_CHEER_J_02 = ~z~That's one odd feller.
+
+RODDF_PERF_P1_1 = ~z~Well hello Saint Denis.
+
+RODDF_PERF_P1_2 = ~z~Hello.
+
+RODDF_PERF_P1_3 = ~z~Oh, isn't this a fine looking place?
+
+RODDF_PERF_P1_4 = ~z~Now they told me you were all dandies and dancing girls.
+
+RODDF_PERF_P1_5 = ~z~Now that ain't true is it?
+
+RODDF_PERF_P1_6 = ~z~Well grab onto your seats and hold onto your lunches...
+
+RODDF_PERF_P1_7 = ~z~because we have a show for you.
+
+RODDF_PERF_P1_8 = ~z~Without further ado...
+
+RODDF_PERF_P1_9 = ~z~let me present Miss Marjorie's medical miracle...
+
+RODDF_PERF_P1_10 = ~z~Bertram, the pin-headed giant.
+
+RODDF_PERF_P1_11 = ~z~He ain't even as smart as he looks...
+
+RODDF_PERF_P1_12 = ~z~but what he lacks in brain he makes up for in brawn.
+
+RODDF_PERF_P1_13 = ~z~Our half-witted Hercules is as strong as a bull...
+
+RODDF_PERF_P1_14 = ~z~but as sweet as a baby.
+
+RODDF_PERF_P1_15 = ~z~You sir, would you assist?
+
+RODDF_PERF_P1_16 = ~z~Me?
+
+RODDF_PERF_P1_17 = ~z~Hell yeah, come on up.
+
+RODDF_PERF_P1_18 = ~z~Oh yeah.
+
+RODDF_PERF_P1_19 = ~z~Let's see it.
+
+RODDF_PERF_P1_20 = ~z~You look like a strapping young lad.
+
+RODDF_PERF_P1_21 = ~z~I want you to hit him, right here, right in the bread basket.
+
+RODDF_PERF_P1_22 = ~z~Go on, give him a real big sock.
+
+RODDF_PERF_P1_23 = ~z~Look, I don't know.
+
+RODDF_PERF_P1_24 = ~z~The only danger is breaking your arm.
+
+RODDF_PERF_P1_25 = ~z~What are you afraid of?
+
+RODDF_PERF_P1_26 = ~z~Come on, man, do it, do it.
+
+RODDF_PERF_P1_27 = ~z~Alright.
+
+RODDF_PERF_P1_28 = ~z~Oh no, Bertram.
+
+RODDF_PERF_P1_29 = ~z~Bertram, Bertram.
+
+RODDF_PERF_P1_30 = ~z~Bad Bertram.
+
+RODDF_PERF_P1_31 = ~z~Sometimes he gets carried away.
+
+RODDF_PERF_P1_32 = ~z~What kind a two-bit show is this?
+
+RODDF_PERF_P1_33 = ~z~Your freak nearly killed me.
+
+RODDF_PERF_P1_34 = ~z~No, no, no, no, no...
+
+RODDF_PERF_P1_35 = ~z~Leave her alone.~n~~m~Bertram! Bertram! Bertram!
+
+RODDF_PERF_P1_36 = ~z~Bertram, put him down.
+
+RODDF_PERF_P1_37 = ~z~Bertram, Bertram!
+
+RODDF_PERF_P1_38 = ~z~Get him, get him!
+
+RODDF_PERF_P1_39 = ~z~Yeah!
+
+RODDF_PERF_P2L1_1 = ~z~
+
+RODDF_PERF_P2L1_2 = ~z~Mezmero!
+
+RODDF_PERF_P2L1_3 = ~z~'Tis I, Magnifico the Magnificent. And I have tamed the beast.
+
+RODDF_PERF_P2L1_4 = ~z~Drop him.
+
+RODDF_PERF_P2L1_5 = ~z~Ladies and gentlemen, I, Magnifico the Magnificent, am a master of apparition...
+
+RODDF_PERF_P2L1_6 = ~z~And... dissipation.
+
+RODDF_PERF_P2L1_7 = ~z~And even the art of... transfiguration. Poof.
+
+RODDF_PERF_P2L1_8 = ~z~I have mastered hypnosis, telekinesis, telepathy, and escapology.
+
+RODDF_PERF_P2L1_9 = ~z~And now, for my next feat, I will relieve Miss Marjorie of her frock.
+
+RODDF_PERF_P2L1_10 = ~z~Disrobe-io.
+
+RODDF_PERF_P2L1_11 = ~z~What you doing? You nasty little pervert.
+
+RODDF_PERF_P2L1_12 = ~z~What? Damnit. We were going to give them a show.
+
+RODDF_PERF_P2L1_13 = ~z~Not like that you're not.
+
+RODDF_PERF_P2L1_14 = ~z~I give up. Amateurs.
+
+RODDF_PERF_P2L1_15 = ~z~
+
+RODDF_PERF_P2L1_16 = ~z~Go follow your brother.
+
+RODDF_PERF_P2L1_17 = ~z~Well, that's our show. Thanks, Saint Denis.
+
+RODDF_PERF_P2L1_18 = ~z~All tickets sales are final.
+
+RODDF_S1_EXT_1 = ~z~Come here, Bertram.
+
+RODDF_S1_EXT_2 = ~z~Oh, yes, Marjorie's here.
+
+RODDF_S1_EXT_3 = ~z~No one's gonna hurt you ever again.
+
+RODDF_S1_EXT_4 = ~z~Momma.
+
+RODDF_S1_EXT_5 = ~z~You should keep that thing in a cage.
+
+RODDF_S1_EXT_6 = ~z~You should think about who you're serving.
+
+RODDF_S1_EXT_7 = ~z~Gimme a beer will you?
+
+RODDF_S1_EXT_8 = ~z~Don't worry, we'll pay for what we broke.
+
+RODDF_S1_EXT_9 = ~z~Come here, Bertram.
+
+RODDF_S1_EXT_10 = ~z~No one looks after you like momma does.
+
+RODDF_S1_EXT_11 = ~z~No one cares for you like I do...
+
+RODDF_S1_EXT_12 = ~z~especially not that Magnifico.
+
+RODDF_S1_EXT_13 = ~z~But, he's my friend.
+
+RODDF_S1_EXT_14 = ~z~Yes, well if he were your friend, he'd be here wouldn't he?
+
+RODDF_S1_EXT_15 = ~z~He wouldn't have abandoned us.
+
+RODDF_S1_EXT_16 = ~z~And you wouldn't have got that whoopsy, would you?
+
+RODDF_S1_EXT_17 = ~z~Whoopsy hurt.
+
+RODDF_S1_EXT_18 = ~z~I know, momma's gonna make it all better...
+
+RODDF_S1_EXT_19 = ~z~but first, you gotta tell me where that little worm ran off to.
+
+RODDF_S1_EXT_20 = ~z~But Bertram promised.
+
+RODDF_S1_EXT_21 = ~z~Yes, well, Magnifico made a promise too, huh?
+
+RODDF_S1_EXT_22 = ~z~He made more than a promise...
+
+RODDF_S1_EXT_23 = ~z~he made a contract, and he broke it.
+
+RODDF_S1_EXT_24 = ~z~So, you just tell me exactly where he is...
+
+RODDF_S1_EXT_25 = ~z~and then we will all be even.
+
+RODDF_S1_EXT_26 = ~z~That's my boy.
+
+RODDF_S1_EXT_27 = ~z~He's camping in the woods.
+
+RODDF_S1_EXT_28 = ~z~Why didn't you tell me in the first place?
+
+RODDF_S1_EXT_29 = ~z~You just apologize to these men.
+
+RODDF_S1_EXT_30 = ~z~I'm sorry.
+
+RODDF_S1_EXT_31 = ~z~I'm sorry.
+
+RODDF_S1_EXT_32 = ~z~You gave me a whoopsy.
+
+RODDF_S1_EXT_33 = ~z~Hey, you just stay away from that sherry now, you hear?
+
+RODDF_S1_EXT_34 = ~z~Bertram like sherry.
+
+RODDF_S1_EXT_35 = ~z~Oh, don't you get him started.
+
+RODDF_S1_EXT_36 = ~z~Thank you for all of your help, Mr. Stranger.
+
+RODDF_S1_EXT_37 = ~z~If you see that slippery little feller sleeping rough out there...
+
+RODDF_S1_EXT_38 = ~z~would you just make a little racket...
+
+RODDF_S1_EXT_39 = ~z~and then we'll come along, and we'll find you.
+
+RODDF_S1_EXT_40 = ~z~I could try.
+
+RODDF_S1_EXT_41 = ~z~Oh, his name is Magnifico.
+
+RODDF_S1_EXT_42 = ~z~You'll know him when you see him.
+
+RODDF_S1_EXT_43 = ~z~Come along, Bertram.
+
+RODDF_S1_EXT_44 = ~z~Maybe you should think about who you're serving.
+
+RODDF_S1_EXT_45 = ~z~Gimme a beer will you?
+
+RODDF_S1_EXT_46 = ~z~You just stay away from that sherry, you hear?
+
+RODDF_S1_EXT_47 = ~z~I could try.
+
+RODDF_S1_IG1_1 = ~z~Come on, Bertram, please.
+
+RODDF_S1_IG1_2 = ~z~No. Bertram say no.
+
+RODDF_S1_IG1_3 = ~z~Oh, that's nice, that's very nice.
+
+RODDF_S1_IG1_4 = ~z~"Friends for life," we said and now the two of you have betrayed me at once.
+
+RODDF_S1_IG1_5 = ~z~Do you know what betrayal means, Bertram?
+
+RODDF_S1_IG1_6 = ~z~No...
+
+RODDF_S1_IG1_7 = ~z~It means hurting Miss Marjorie...
+
+RODDF_S1_IG1_8 = ~z~Well, I thought you liked me? I've clothed you, I fed you.
+
+RODDF_S1_IG1_9 = ~z~Bertram does like Miss Marjorie.
+
+RODDF_S1_IG1_10 = ~z~Yes. And Miss Marjorie likes Bertram...
+
+RODDF_S1_IG1_11 = ~z~So why don't you go and tell me where that nasty little Magnifico has run off to so I can get on with whipping that snot nose runt into shape!
+
+RODDF_S1_IG1_12 = ~z~He owes me. He owes us, big time... Bertram and Marjorie.
+
+RODDF_S1_IG1_13 = ~z~Would Bertram like a sherry?
+
+RODDF_S1_IG1_14 = ~z~Bertram like sherry.
+
+RODDF_S1_IG1_15 = ~z~Yes he does... barkeep, sherry.
+
+RODDF_S1_IG1_16 = ~z~Make it the cheapest one you have... rat piss will do, he's pretty dense.
+
+RODDF_S1_INT_1 = ~z~Imagine saving people...
+
+RODDF_S1_INT_2 = ~z~taking them to your breast...
+
+RODDF_S1_INT_3 = ~z~metaphorically, I mean...
+
+RODDF_S1_INT_4 = ~z~like a mother.
+
+RODDF_S1_INT_5 = ~z~Caring and raising them...
+
+RODDF_S1_INT_6 = ~z~and then they go and stab you in the back.
+
+RODDF_S1_INT_7 = ~z~Have you ever betrayed a close friend?
+
+RODDF_S1_INT_8 = ~z~I hope not.
+
+RODDF_S1_INT_9 = ~z~Well, uh...
+
+RODDF_S1_INT_10 = ~z~Treachery...
+
+RODDF_S1_INT_11 = ~z~and these are sad, low, unlovable people...
+
+RODDF_S1_INT_12 = ~z~and I made them stars...
+
+RODDF_S1_INT_13 = ~z~dreamers...
+
+RODDF_S1_INT_14 = ~z~entertainers...
+
+RODDF_S1_INT_15 = ~z~and they...
+
+RODDF_S1_INT_16 = ~z~Oh no, now family's not enough, no...
+
+RODDF_S1_INT_17 = ~z~no, he's gone off alone.
+
+RODDF_S1_INT_18 = ~z~My little tiny magician has gone and stabbed his momma in the back.
+
+RODDF_S1_INT_19 = ~z~More!
+
+RODDF_S1_INT_20 = ~z~Oh, fucketty.
+
+RODDF_S1_INT_21 = ~z~No! Bertram!
+
+RODDF_S1_INT_22 = ~z~Bertram! Bertram!~n~~m~More!
+
+RODDF_S1_INT_23 = ~z~Woof, woof!
+
+RODDF_S1_INT_24 = ~z~Bertram!
+
+RODDF_S1_INT_25 = ~z~Put the nice man down!
+
+RODDF_S1_INT_26 = ~z~Do something, he'll eat him.
+
+RODDF_S1_INT_27 = ~z~Umm, uh...
+
+RODDF_S1_INT_28 = ~z~e-e-easy there.
+
+RODDF_S1_INT_29 = ~z~Easy there!
+
+RODDF_S1_INT_30 = ~z~Sherry!
+
+RODDF_S1_INT_31 = ~z~Bertram!
+
+RODDF_S1_INT_32 = ~z~Well, uh...
+
+RODDF_S1_INT_33 = ~z~Umm... e-e-easy there.
+
+RODDF_S1_INT_34 = ~z~Easy there!
+
+RODDF_S1_INT_LD_1 = ~z~Imagine saving people...
+
+RODDF_S2_EXT_1 = ~z~Damnit.
+
+RODDF_S2_EXT_2 = ~z~Oh, no. No, no, no!
+
+RODDF_S2_EXT_3 = ~z~Friend!
+
+RODDF_S2_EXT_4 = ~z~Friend!
+
+RODDF_S2_EXT_5 = ~z~Friend forever!
+
+RODDF_S2_EXT_6 = ~z~Well, look who's back.~n~~m~ Put me down!
+
+RODDF_S2_EXT_7 = ~z~I ain't back.
+
+RODDF_S2_EXT_8 = ~z~I'm gone, on the next train to the Great White Way.
+
+RODDF_S2_EXT_9 = ~z~Really? You got enough for a ticket?
+
+RODDF_S2_EXT_10 = ~z~Because the way Big Fanny tells it...
+
+RODDF_S2_EXT_11 = ~z~you spent all of our takings on a case of the French pox!
+
+RODDF_S2_EXT_12 = ~z~Maybe I did. So what?
+
+RODDF_S2_EXT_13 = ~z~What do you need a stump of a showman for?
+
+RODDF_S2_EXT_14 = ~z~Same bad jokes, the same cheap tricks...
+
+RODDF_S2_EXT_15 = ~z~in a package half the size?
+
+RODDF_S2_EXT_16 = ~z~You got Bertram. You got dummy over there.
+
+RODDF_S2_EXT_17 = ~z~Who is dummy anyway? The missing link?
+
+RODDF_S2_EXT_18 = ~z~Shut up, you dimwit! You sold me out.
+
+RODDF_S2_EXT_19 = ~z~You should watch your mouth.
+
+RODDF_S2_EXT_20 = ~z~You should watch your mouth.
+
+RODDF_S2_EXT_21 = ~z~You don't need me. You're better off without me.
+
+RODDF_S2_EXT_22 = ~z~Even you, dummy. Go on, clear off.
+
+RODDF_S2_EXT_23 = ~z~Aim for the top all of you.
+
+RODDF_S2_EXT_24 = ~z~I'm outta food, and I'm out of ideas.
+
+RODDF_S2_EXT_25 = ~z~Leave me for the bears. I won't be more than a mouthful.
+
+RODDF_S2_EXT_26 = ~z~You robbed me. You robbed your brother.
+
+RODDF_S2_EXT_27 = ~z~So you are gonna be pulling rabbits out of your ass...
+
+RODDF_S2_EXT_28 = ~z~until you are as old as you are tiny!
+
+RODDF_S2_EXT_29 = ~z~Put him up there.
+
+RODDF_S2_EXT_30 = ~z~Some friends. Some friends!
+
+RODDF_S2_EXT_31 = ~z~We ain't friends...
+
+RODDF_S2_EXT_32 = ~z~we're family, as much as it pains me to say it.
+
+RODDF_S2_EXT_33 = ~z~Family? Still, after everything?
+
+RODDF_S2_EXT_34 = ~z~Of course, you silly little man.
+
+RODDF_S2_EXT_35 = ~z~And him?
+
+RODDF_S2_EXT_36 = ~z~Met him at the bar, he agreed to help.
+
+RODDF_S2_EXT_37 = ~z~Ah, sleeping rough don't suit me much.
+
+RODDF_S2_EXT_38 = ~z~I know, come to momma.
+
+RODDF_S2_EXT_39 = ~z~I did miss you.
+
+RODDF_S2_EXT_40 = ~z~Now don't you ever run off on us like that again!
+
+RODDF_S2_EXT_41 = ~z~Back together. Back together!
+
+RODDF_S2_EXT_42 = ~z~Well, I'm glad everything worked out.
+
+RODDF_S2_EXT_43 = ~z~Well, I'm glad it all worked out.
+
+RODDF_S2_EXT_44 = ~z~Thanks to you. Thank him, boys.
+
+RODDF_S2_EXT_45 = ~z~Thank you!
+
+RODDF_S2_EXT_46 = ~z~Thanks for nothing, dummy.
+
+RODDF_S2_EXT_47 = ~z~No, get in the back.
+
+RODDF_S2_EXT_48 = ~z~We ought to give you a piece of the gate...
+
+RODDF_S2_EXT_49 = ~z~on our next show, you earned it.
+
+RODDF_S2_EXT_50 = ~z~We'll be playing Saint Denis next...
+
+RODDF_S2_EXT_51 = ~z~check with the box office.
+
+RODDF_S2_EXT_52 = ~z~No one said anything about splitting the gate.
+
+RODDF_S2_EXT_53 = ~z~Oh, shut up. Half-man and half-wit.
+
+RODDF_S2_EXT_54 = ~z~Bye bye.
+
+RODDF_S2_EXT_55 = ~z~What I done to deserve you two?
+
+RODDF_S2_IG2_01 = ~z~Vanishio!
+
+RODDF_S2_IG2_02 = ~z~Obscura!
+
+RODDF_S2_IG2_03 = ~z~Disappear!
+
+RODDF_S2_IG2_04 = ~z~Be gone!
+
+RODDF_S2_IG2_05 = ~z~Poof!
+
+RODDF_S2_IG2_06 = ~z~Too slow!
+
+RODDF_S2_IG2_07 = ~z~Zap!
+
+RODDF_S2_IG2_08 = ~z~Wooosh!
+
+RODDF_S2_IG2_09 = ~z~Oblivio!
+
+RODDF_S2_IG2_10 = ~z~In a puff of smoke!
+
+RODDF_S2_IG2_11 = ~z~He's gone!
+
+RODDF_S2_IG2_12 = ~z~Where's he gonna go?
+
+RODDF_S2_IG2_13 = ~z~Teleport!
+
+RODDF_S2_IG4_A_1 = ~z~I'm going it alone!
+
+RODDF_S2_IG4_B_1 = ~z~I'll be the top of the bill!
+
+RODDF_S2_IG4_C_1 = ~z~It's steak dinners and dancing girls for Magnifico!
+
+RODDF_S2_IG5_AA_1 = ~z~Ain't you led me on a merry old dance. C'mon down now. Lady said you had a contract.
+
+RODDF_S2_IG5_AA_2 = ~z~You want me? Come and get me.
+
+RODDF_S2_IG5_AA_3 = ~z~Hey, hold on there.
+
+RODDF_S2_IG5_AJ_1 = ~z~Ain't you led me on a merry old dance. C'mon down. Lady said you had a contract.
+
+RODDF_S2_IG5_AJ_2 = ~z~You want me? Come and get me.
+
+RODDF_S2_IG5_AJ_3 = ~z~Hey, hold on there.
+
+RODDF_S2_IG5_C1_1 = ~z~Over here, dummy.
+
+RODDF_S2_IG5_C2_1 = ~z~Want to see a trick?
+
+RODDF_S2_IG5_C3_1 = ~z~Roll up, roll up. I need a volunteer from the audience.
+
+RODDF_S2_IG5_C4_1 = ~z~Up here, dummy.
+
+RODDF_S2_IG5_D_1 = ~z~So long, dummy.
+
+RODDF_S2_IG5_GA_1 = ~z~Goddammit.
+
+RODDF_S2_IG5_GJ_1 = ~z~Goddammit.
+
+RODDF_S2_IG5_WA_1 = ~z~Where are ya?
+
+RODDF_S2_IG5_WJ_1 = ~z~Where are ya?
+
+RODDF_S2_IG5_YA_1 = ~z~You little...
+
+RODDF_S2_IG5_YJ_1 = ~z~You little...
+
+RODDF_S2_IG6_A_1 = ~z~Magnifico.
+
+RODDF_S2_IG6_C_1 = ~z~That's them alright.
+
+RODDF_S2_IG7_SB_1 = ~z~Oh... dammit. Dammit, shit. Oh God...
+
+RODDF_S2_IG7_SB_2 = ~z~Dammit, dammit. Oh hell, shit...
+
+RODDF_S2_IG7_SB_3 = ~z~God... oh, no.
+
+RODDF_S2_INT_1 = ~z~Be gone.
+
+RODDF_S2_INT_2 = ~z~Whoa.
+
+RODDF_S2_INT_3 = ~z~That's amazing.
+
+RODDF_S2_INT_4 = ~z~If you say so.
+
+RODDF_S2_INT_5 = ~z~Are you...
+
+RODDF_S2_INT_6 = ~z~Whoa.
+
+RODDF_S2_INT_7 = ~z~Are you Magnifico by any chance?
+
+RODDF_S2_INT_8 = ~z~I'm not going back.
+
+RODDF_S2_INT_9 = ~z~She's a witch, she's a witch!
+
+RODDF_S2_INT_10 = ~z~Who?
+
+RODDF_S2_INT_11 = ~z~Presta!
+
+RODDF_S2_INT_12 = ~z~Marjorie.~n~~m~ Well...
+
+RODDF_S2_INT_13 = ~z~Marjorie.
+
+RODDF_S2_INT_14 = ~z~she cares about you a lot.
+
+RODDF_S2_INT_15 = ~z~Well, I'm the talent.
+
+RODDF_S2_INT_16 = ~z~It's me, it's all me.
+
+RODDF_S2_INT_17 = ~z~I share the money with her...
+
+RODDF_S2_INT_18 = ~z~and you know, that thing.
+
+RODDF_S2_INT_19 = ~z~No, stay away.
+
+RODDF_S2_INT_20 = ~z~You've made love to her, haven't you?
+
+RODDF_S2_INT_21 = ~z~That's not it...
+
+RODDF_S2_INT_22 = ~z~She's a succubus. She's a succubus!
+
+RODDF_S2_INT_23 = ~z~Stay away from me.
+
+RODDF_S2_INT_24 = ~z~Whoa.
+
+RODDF_S2_INT_25 = ~z~That's amazing.
+
+RODDF_S2_INT_26 = ~z~Whoa.
+
+RODDF_S2_INT_27 = ~z~Are you Magnifico by any chance?
+
+RODDF_S2_INT_28 = ~z~Who?
+
+RODDF_S2_INT_29 = ~z~She cares about you a lot.
+
+RODDF_S2_INT_30 = ~z~That's not it...
+
+RODDF_S2_INT_LA_1 = ~z~
+
+RODDF_S2_INT_LD_1 = ~z~
+
+RODDF_S3_IG2_1A_1 = ~z~Hey, uh, the performers asked me to come see them here, I
+
+RODDF_S3_IG2_1A_2 = ~z~helped them out with something up in Van Horn.
+
+RODDF_S3_IG2_1A_3 = ~z~Alright, I'll... let 'em know you're in. Curtain's just about to come up, so...
+
+RODDF_S3_IG2_1A_4 = ~z~why don't you take a seat then come back and see me after the show? Alright.
+
+RODDF_S3_IG2_1J_1 = ~z~The performers asked me to come see them here.
+
+RODDF_S3_IG2_1J_2 = ~z~I helped them out with something up in Van Horn.
+
+RODDF_S3_IG2_1J_3 = ~z~Alright, I'll... let 'em know you're in. Curtain's just about to come up, so...
+
+RODDF_S3_IG2_1J_4 = ~z~why don't you take a seat then come back and see me after the show? Alright.
+
+RODDF_S3_IG2_JO_1 = ~z~Hey, uh, it's been some years, but a friend of mine helped the performers out. Up in Van Horn.
+
+RODDF_S3_IG2_JO_2 = ~z~He was meant to come see them here.
+
+RODDF_S3_IG2_JO_3 = ~z~Alright... well, uh... I'll let 'em know you're in. The curtain's about to come up, so...
+
+RODDF_S3_IG2_JO_4 = ~z~why don't you take a seat then come back and see me after the show.
+
+RODDF_S3_IG3_AR_1 = ~z~Quite something.
+
+RODDF_S3_IG3_AR_2 = ~z~Yeah, I gotta go deal with this. But there's something here for you.
+
+RODDF_S3_IG3_AR_3 = ~z~Oh, good luck.
+
+RODDF_S3_IG3_AR_4 = ~z~These novelty acts...
+
+RODDF_S3_IG3_AR_5 = ~z~You don't get this with dancing girls.
+
+RODDF_S3_IG3_JH_1 = ~z~Quite something.
+
+RODDF_S3_IG3_JH_2 = ~z~Yeah, I gotta go deal with this. But there's something here for you.
+
+RODDF_S3_IG3_JH_3 = ~z~Oh, thanks.
+
+RODDF_S3_IG3_JH_4 = ~z~These novelty acts...
+
+RODDF_S3_IG3_JH_5 = ~z~You don't get this with dancing girls.
+
+RODDF_S_IG3_C1A_1 = ~z~Dammit...
+
+RODDF_S_IG3_C2A_1 = ~z~Jesus... what the...
+
+RODDF_S_IG3_C3A_1 = ~z~What...
+
+RODF1_ARTH_BERT_1 = ~z~Easy, big guy.
+
+RODF1_BERT_BRW_01 = ~z~Silly little man.
+
+RODF1_BERT_BRW_02 = ~z~Bertram crush, squash, break.
+
+RODF1_BERT_BRW_03 = ~z~You have sherry. Bertram want.
+
+RODF1_BERT_BRW_04 = ~z~Bertram hurt you.
+
+RODF1_BERT_BRW_05 = ~z~Your head's gonna pop off.
+
+RODF1_BERT_BRW_06 = ~z~Pop goes the weasel.
+
+RODF1_BERT_BRW_07 = ~z~Bertram eat little man.
+
+RODF1_BERT_BRW_08 = ~z~Yum yum in my tum.
+
+RODF1_BERT_HURT_01 = ~z~Ouchie!
+
+RODF1_BERT_HURT_02 = ~z~Mean!
+
+RODF1_BERT_HURT_03 = ~z~Bertram get a whoopsie.
+
+RODF1_BERT_HURT_04 = ~z~No fair.
+
+RODF1_BERT_HURT_05 = ~z~Mean man!
+
+RODF1_BERT_HURT_06 = ~z~Not nice!
+
+RODF1_CHOKE_A_01 = ~z~He's strong alright.
+
+RODF1_CHOKE_A_02 = ~z~Bad... Bertram...
+
+RODF1_CHOKE_A_03 = ~z~Easy, boy.
+
+RODF1_CHOKE_J_01 = ~z~He's strong alright.
+
+RODF1_CHOKE_J_02 = ~z~Bad... Bertram...
+
+RODF1_CHOKE_J_03 = ~z~Easy, boy.
+
+RODF1_IDLE1_1 = ~z~My sherry?
+
+RODF1_IDLE1_2 = ~z~Just wait, he's making it.
+
+RODF1_IDLE2_1 = ~z~Sherry...
+
+RODF1_IDLE2_2 = ~z~You are not in my good books, Bertram.
+
+RODF1_IDLE3_1 = ~z~We're in this fix and it's all your fault, you numbskull.
+
+RODF1_IDLE3_2 = ~z~I'm sorry. Bertram very sorry.
+
+RODF1_IDLE4_1 = ~z~That tiny man is a big problem for us...
+
+RODF1_IDLE4_2 = ~z~Magnifico is my friend...
+
+RODF1_IDLE4_3 = ~z~Ha!
+
+RODF1_IDLE5_1 = ~z~Stuck in some rat piss town drinking cat piss liquor...
+
+RODF1_IDLE5_2 = ~z~Liquor, Bertram like liquor.
+
+RODF1_IDLE5_3 = ~z~Mhmm.
+
+RODF1_IDLE6_1 = ~z~Where my sherry?
+
+RODF1_IDLE6_2 = ~z~Just make him a damn sherry, alright?
+
+RODF1_IDLE6_3 = ~z~Jesus, he'll bite your head off.
+
+RODF1_JOHN_BERT_1 = ~z~Easy, big guy.
+
+RODF1_NEAR_MARJ_01 = ~z~Get back at him!
+
+RODF1_NEAR_MARJ_02 = ~z~What you coming over here for?
+
+RODF1_NEAR_MARJ_03 = ~z~I can't do anything when he's in this state. Stop him.
+
+RODF1_NOTFIGHT_01 = ~z~What you waiting for? Slug him.
+
+RODF1_NOTFIGHT_02 = ~z~What he needs is a good sleep. Knock him out.
+
+RODF1_NOTFIGHT_03 = ~z~Mister, I thought you was gonna deal with this?
+
+RODF1_NOTFIGHT_04 = ~z~There's no putting this off. Give him a whack.
+
+RODF1_PLY_BRW_A_01 = ~z~Listen to your mother...
+
+RODF1_PLY_BRW_A_02 = ~z~Let's be friends, okay?
+
+RODF1_PLY_BRW_A_03 = ~z~Now, I don't want to do this.
+
+RODF1_PLY_BRW_A_04 = ~z~You gonna behave? No?
+
+RODF1_PLY_BRW_A_05 = ~z~Sit down and be good.
+
+RODF1_PLY_BRW_A_06 = ~z~No one likes a tantrum, mister.
+
+RODF1_PLY_BRW_A_07 = ~z~Think about what you're doing here.
+
+RODF1_PLY_BRW_A_08 = ~z~You're a naughty boy.
+
+RODF1_PLY_BRW_J_01 = ~z~Listen to your mother...
+
+RODF1_PLY_BRW_J_02 = ~z~Let's be friends, okay?
+
+RODF1_PLY_BRW_J_03 = ~z~Now, I don't want to do this.
+
+RODF1_PLY_BRW_J_04 = ~z~You gonna behave? No?
+
+RODF1_PLY_BRW_J_05 = ~z~Sit down and be good.
+
+RODF1_PLY_BRW_J_06 = ~z~No one likes a tantrum, mister.
+
+RODF1_PLY_BRW_J_07 = ~z~Think about what you're doing here.
+
+RODF1_PLY_BRW_J_08 = ~z~You're a naughty boy.
+
+RODF1_WATCH1_01 = ~z~Bertram!
+
+RODF1_WATCH1_02 = ~z~Stop! Bad boy!
+
+RODF1_WATCH1_03 = ~z~Naughty! Naughty!
+
+RODF1_WATCH1_04 = ~z~Enough! Cut that out!
+
+RODF1_WATCH1_05 = ~z~Bad Bertram!
+
+RODF1_WATCH2_01 = ~z~Not his face, okay. That's his money maker.
+
+RODF1_WATCH2_02 = ~z~Dear Lord, he'll be even more stupid.
+
+RODF1_WATCH2_03 = ~z~You're in a lot of trouble, young man.
+
+RODF1_WATCH2_04 = ~z~You don't stop that, mommy will give you a spanking.
+
+RODF1_WATCH2_05 = ~z~So strong and so stupid...
+
+RODF2_BARMAN_A_1 = ~z~They seemed nice.
+
+RODF2_BARMAN_A_2 = ~z~Quite a place you got here.
+
+RODF2_BARMAN_J_1 = ~z~They seemed nice.
+
+RODF2_BARMAN_J_2 = ~z~Quite a place you got here.
+
+RODF2_CHASE_A2_1 = ~z~Too bad about that train!
+
+RODF2_CHASE_A_1 = ~z~Really? Really?
+
+RODF2_CHASE_J2_1 = ~z~Too bad about that train!
+
+RODF2_CHASE_J_1 = ~z~Really? Really?
+
+RODF2_CLEAR_A_1 = ~z~Now where you gone?
+
+RODF2_CLEAR_A_2 = ~z~Magnifico?
+
+RODF2_CLEAR_A_3 = ~z~Can't magic out of this, partner.
+
+RODF2_CLEAR_A_4 = ~z~Come on now. She ain't as bad as all that.
+
+RODF2_CLEAR_J_1 = ~z~Now where you gone?
+
+RODF2_CLEAR_J_2 = ~z~Magnifico?
+
+RODF2_CLEAR_J_3 = ~z~Can't magic out of this, partner.
+
+RODF2_CLEAR_J_4 = ~z~Come on now. She ain't as bad as all that.
+
+RODF2_CLOUD_A_01 = ~z~Very clever.
+
+RODF2_CLOUD_A_02 = ~z~That's a neat trick.
+
+RODF2_CLOUD_J_01 = ~z~Very clever.
+
+RODF2_CLOUD_J_02 = ~z~That's a neat trick.
+
+RODF2_ELSE_A_1 = ~z~Very good, very good. I'm gonna get you now.
+
+RODF2_ELSE_A_2 = ~z~Come here.
+
+RODF2_ELSE_J_1 = ~z~Very good, very good. I'm gonna get you now.
+
+RODF2_ELSE_J_2 = ~z~Come here.
+
+RODF2_ONROCK_A_1 = ~z~Hey... will you talk...
+
+RODF2_ONROCK_J_1 = ~z~Hey... will you talk...
+
+RODF2_PLYCMT_01 = ~z~She just wants to speak to you.
+
+RODF2_PLYCMT_02 = ~z~Where you running off...
+
+RODF2_PLYCMT_03 = ~z~Look, you got the wrong end of this...
+
+RODF2_PLYCMT_04 = ~z~Running ain't solving anything...
+
+RODF2_PLYCMT_J_01 = ~z~She just wants to speak to you.
+
+RODF2_PLYCMT_J_02 = ~z~Where you running off...
+
+RODF2_PLYCMT_J_03 = ~z~Look, you got the wrong end of this...
+
+RODF2_PLYCMT_J_04 = ~z~Running ain't solving anything...
+
+RODF2_REAPP_A_1 = ~z~How the hell?
+
+RODF2_REAPP_J_1 = ~z~How the hell?
+
+RODF2_RIVER_A_1 = ~z~You're starting to irritate...
+
+RODF2_RIVER_J_1 = ~z~You're starting to irritate me.
+
+RODF2_START_1 = ~z~Hey, partner, come back here.
+
+RODF2_START_J_1 = ~z~Hey, partner, come back here.
+
+RODF2_VANISH1_A_1 = ~z~What the hell...
+
+RODF2_VANISH1_J_1 = ~z~What the hell...
+
+RODF2_VANISH2_A_1 = ~z~Damn.
+
+RODF2_VANISH2_J_1 = ~z~Damn.
+
+RODF2_VANISH3_A_1 = ~z~What the hell you pulling here?
+
+RODF2_VANISH3_A_2 = ~z~If you're here, I'm going to find you.
+
+RODF2_VANISH3_J_1 = ~z~What the hell you pulling here?
+
+RODF2_VANISH3_J_2 = ~z~If you're here, I'm going to find you.
+
+RODF2_VANISH4_A_1 = ~z~Nah? Nah?
+
+RODF2_VANISH4_J_1 = ~z~Nah? Nah?
+

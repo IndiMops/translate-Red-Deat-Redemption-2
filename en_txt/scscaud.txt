@@ -1,0 +1,80 @@
+SCSC_0283A_1 = ~z~You're that bank robber, ain't you?
+
+SCSC_0283B_1 = ~z~Hey, hey, listen, I ain't gonna raise no fuss alright... I just seen your face on the poster.
+
+SCSC_0283B_2 = ~z~I'd do it myself, but I can't even steal an apple without getting caught.
+
+SCSC_0283B_3 = ~z~It was big news... they was calling you the "ghost robbers", way you just disappeared like that.
+
+SCSC_0283B_4 = ~z~Anyway, like I says, I ain't looking to bother you or make no trouble.
+
+SCSC_0283B_5 = ~z~You enjoy your drink, good luck to you...
+
+SCSC_0283B_6 = ~z~Ain't like no one round here had any money in that bank.
+
+SCSC_0775A_1 = ~z~You chased down the kid, didn't you? The one who robbed the nun?
+
+SCSC_0775B_1 = ~z~You know them ain't so bad... I was like that once.
+
+SCSC_0775B_2 = ~z~Half the time they're just bored or showing off.
+
+SCSC_0775B_3 = ~z~And some rich kid born into money, he can have what he wants... didn't have to earn it.
+
+SCSC_0775B_4 = ~z~So they think, why can't we?
+
+SCSC_0775B_5 = ~z~That Spanish nun, she's a nice enough lady, but she's giving them false hope, even the white boys.
+
+SCSC_0775B_6 = ~z~They ain't getting out of this place, ain't how it works.
+
+SCSC_0775B_7 = ~z~But what would you know about being a kid on the streets?
+
+SCSC_0775B_8 = ~z~Well, you should go easy on 'em then. Anyway, I've talked enough...
+
+SCSC_0789A_1 = ~z~Where you from, mister?
+
+SCSC_0789B_1 = ~z~Me, I'm Saint Denis born and bred.
+
+SCSC_0789B_2 = ~z~This the real city right here... might not look like much but St. Frances is the soul.
+
+SCSC_0789B_3 = ~z~Not the Mansion District with all those big old houses.
+
+SCSC_0789B_4 = ~z~You won't hear music like you do round here nowhere else in the world...
+
+SCSC_0789B_5 = ~z~ragtime, even puts rhythm in the white man.
+
+SCSC_0789B_6 = ~z~But what do you care? Not much, I'm guessing...
+
+SCSC_1016A_1 = ~z~You was here talking with that artist, wasn't you?
+
+SCSC_1016B_1 = ~z~He's always in here drunk, shooting his mouth.
+
+SCSC_1016B_2 = ~z~Vagina is art, vagina is art.
+
+SCSC_1016B_3 = ~z~Yeah, sure buddy... not after seven kids it ain't.
+
+SCSC_1016B_4 = ~z~All these artists are moving to St. Frances thinking they're doing us a favor...
+
+SCSC_1016B_5 = ~z~just means soon we won't be able to afford nothing.
+
+SCSC_1016B_6 = ~z~He says he likes to drink here with the 'real' people.
+
+SCSC_1016B_7 = ~z~Well, how about you give me all your money,
+
+SCSC_1016B_8 = ~z~I'll leave and never come back, and you can be as real as you want?
+
+SCSC_1016B_9 = ~z~Ah, forget it, mister... you don't care none.
+
+SCSC_1064A_1 = ~z~You look like a country boy.
+
+SCSC_1064B_1 = ~z~Didn't mean that in a bad way...
+
+SCSC_1064B_2 = ~z~Ain't sure if you hunt much, but I was over in Scarlett Meadows a couple of days back...
+
+SCSC_1064B_3 = ~z~west of an old outlaw hideout called Shady Belle... and saw a big old panther.
+
+SCSC_1064B_4 = ~z~A goddamn panther! No word of a lie.
+
+SCSC_1064B_5 = ~z~Tried to put a bullet in it, but the thing was damn fast.
+
+SCSC_1064B_6 = ~z~But you clearly don't believe me, so go to hell and enjoy your drink on the way...
+

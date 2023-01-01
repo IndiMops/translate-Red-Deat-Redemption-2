@@ -1,0 +1,44 @@
+CABI_A_1 = ~z~You okay?
+
+CABI_A_2 = ~z~Sure.
+
+CABI_B_1 = ~z~Why you walking around so sad?
+
+CABI_B_2 = ~z~I'm not sad, just bored.
+
+CABI_B_3 = ~z~~sl:0.0:0.8~You're bored?~sl:0.9:1.1~Bored's good.~sl:0.7~Bored means you ain't scared.
+
+CABI_B_4 = ~z~~sl:0.0:1.6~Be grateful for being bored, lady...~sl:0.5~'cause soon enough you're gonna be scared.
+
+CABI_B_5 = ~z~When I was a little girl, I guess I hoped for...
+
+CABI_B_ALT_1 = ~z~Why you walking around so sad?
+
+CABI_B_ALT_2 = ~z~I'm not sad, I'm bored.
+
+CABI_B_ALT_3 = ~z~You men have no idea just how small our lives are, Arthur.
+
+CABI_B_ALT_4 = ~z~You're bored?
+
+CABI_B_ALT_5 = ~z~~sl:0.0:1.6~Be grateful for being bored, lady...~sl:0.5~'cause soon enough you're gonna be scared.
+
+CABI_C_1 = ~z~I don't know. I used to dream a lot.
+
+CABI_C_2 = ~z~We all dreamt a lot.
+
+CABI_C_3 = ~z~~sl:0.0:3.8~Then we grew into women. Saw what the world was for us.~sl:1.0~How little it values us.
+
+CABI_D_1 = ~z~I guess...
+
+CABI_D_2 = ~z~Cheer up. Smile. Try to forget about things.
+
+CABI_D_3 = ~z~Okay.
+
+CABI_D_4 = ~z~Either that or start praying real hard...
+
+CABI_D_ALT_1 = ~z~I guess...
+
+CABI_D_ALT_2 = ~z~~sl:1.2:0.0~It ain't fun, Arthur.
+
+CABI_D_ALT_3 = ~z~Cheer up. Smile. Try to forget about things.
+

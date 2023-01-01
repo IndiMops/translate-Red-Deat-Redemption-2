@@ -1,0 +1,176 @@
+RMUD3A_CHASE1_1 = ~z~Stop that wagon now, or we will gun you down!
+
+RMUD3A_CHASE2_1 = ~z~That wagon is the property of Leviticus Cornwall!
+
+RMUD3A_CHASE3_1 = ~z~Stop! Come on, do not let that son of a bitch get away!
+
+RMUD3A_JACKED_1 = ~z~Hey, what the hell? Who are you?
+
+RMUD3A_JCBNT_1 = ~z~Hey Charles, we want you for a little job me and Arthur have put together. A train.
+
+RMUD3A_JCBNT_2 = ~z~Okay.
+
+RMUD3A_JCBNT_3 = ~z~Not right now... I'll let you know.
+
+RMUD3A_S1_INT_1 = ~z~Uncle told me something about a train.
+
+RMUD3A_S1_INT_2 = ~z~What did he say?
+
+RMUD3A_S1_INT_3 = ~z~Mary-Beth overheard something about a train...
+
+RMUD3A_S1_INT_4 = ~z~full of wealthy folk...
+
+RMUD3A_S1_INT_5 = ~z~rolling down through Scarlet Meadows...
+
+RMUD3A_S1_INT_6 = ~z~just south of the state border.
+
+RMUD3A_S1_INT_7 = ~z~Yes.
+
+RMUD3A_S1_INT_8 = ~z~You need help with it?
+
+RMUD3A_S1_INT_9 = ~z~I ain't even sure about doing it.
+
+RMUD3A_S1_INT_10 = ~z~Come on...
+
+RMUD3A_S1_INT_11 = ~z~at night, not too guarded, it's perfect.
+
+RMUD3A_S1_INT_12 = ~z~I ain't thought it through.
+
+RMUD3A_S1_INT_13 = ~z~You know, stopping a train...
+
+RMUD3A_S1_INT_14 = ~z~pain in the ass.
+
+RMUD3A_S1_INT_15 = ~z~Sure, but what if...
+
+RMUD3A_S1_INT_16 = ~z~we could force a train to stop.
+
+RMUD3A_S1_INT_17 = ~z~Well, of course.
+
+RMUD3A_S1_INT_18 = ~z~We get a wagon, full of something flammable...
+
+RMUD3A_S1_INT_19 = ~z~oil...
+
+RMUD3A_S1_INT_20 = ~z~put it on the tracks.
+
+RMUD3A_S1_INT_21 = ~z~They see it...
+
+RMUD3A_S1_INT_22 = ~z~they know they either have to stop, or die.
+
+RMUD3A_S1_INT_23 = ~z~Ain't no train driver wants to be cooked alive.
+
+RMUD3A_S1_INT_24 = ~z~That is...
+
+RMUD3A_S1_INT_25 = ~z~kinda brilliant.
+
+RMUD3A_S1_INT_26 = ~z~Uh, for you.
+
+RMUD3A_S1_INT_27 = ~z~And that is a real idea...
+
+RMUD3A_S1_INT_28 = ~z~I think that's the first time you ever had one of them.
+
+RMUD3A_S1_INT_29 = ~z~Shut up.
+
+RMUD3A_S1_INT_30 = ~z~You might be the first bastard to ever have half his...
+
+RMUD3A_S1_INT_31 = ~z~brains eaten by a wolf and end up more intelligent.
+
+RMUD3A_S1_INT_32 = ~z~So, we doing it?
+
+RMUD3A_S1_INT_33 = ~z~Yeah, we're gonna need ammunition, guns...
+
+RMUD3A_S1_INT_34 = ~z~look real frightening...
+
+RMUD3A_S1_INT_35 = ~z~and some dynamite to open up the train.
+
+RMUD3A_S1_INT_36 = ~z~I'll get the supplies...
+
+RMUD3A_S1_INT_37 = ~z~gotta head into town for Abigail anyway.
+
+RMUD3A_S1_INT_38 = ~z~Don't even ask.
+
+RMUD3A_S1_INT_39 = ~z~You go find us an oil wagon.
+
+RMUD3A_S1_INT_40 = ~z~Yeah, I know just the place.
+
+RMUD3A_S1_INT_41 = ~z~They're always heading into that refinery.
+
+RMUD3A_S1_INT_42 = ~z~There's an old rundown shack just over the border...
+
+RMUD3A_S1_INT_43 = ~z~north of a place called Dewberry Creek.
+
+RMUD3A_S1_INT_44 = ~z~Leave it hidden somewhere near there.
+
+RMUD3A_S1_INT_C_1 = ~z~Hey, Arthur.
+
+RMUD3A_S1_INT_G_1 = ~z~What you want?
+
+RMUD3A_S2_INT_1 = ~z~Get.
+
+RMUD3A_S3_INT2L_1 = ~z~You never got us that oil wagon did you?
+
+RMUD3A_S3_INT2_1 = ~z~You never got us that oil wagon did ya?
+
+RMUD3A_S3_INT2_2 = ~z~Ah, I'm sorry. I clean forgot.
+
+RMUD3A_S3_INT2_3 = ~z~Well don't worry, it's taken care of...
+
+RMUD3A_S3_INT2_4 = ~z~otherwise we'd miss that train.
+
+RMUD3A_S3_INT2_5 = ~z~Thank you.
+
+RMUD3A_S3_INT2_6 = ~z~You still interested in the job ain't ya?
+
+RMUD3A_S3_INT2_7 = ~z~Yes, but...
+
+RMUD3A_S3_INT2_8 = ~z~I think we'll need another man.
+
+RMUD3A_S3_INT2_9 = ~z~I like Charles Smith for this kind of thing.
+
+RMUD3A_S3_INT2_10 = ~z~I'll get him.
+
+RMUD3A_S3_INT2_11 = ~z~You meet us at the wagon when you can.
+
+RMUD3A_S3_INT2_12 = ~z~There's an old burnt out shack up near the border...
+
+RMUD3A_S3_INT2_13 = ~z~north of a place called Dewberry Creek.
+
+RMUD3A_S3_INT2_14 = ~z~We stashed it there.
+
+RMUD3A_S3_INT2_15 = ~z~Thank you.
+
+RMUD3A_S3_INT2_16 = ~z~See, Arthur...
+
+RMUD3A_S3_INT2_17 = ~z~even you make mistakes sometimes.
+
+RMUD3A_S3_INT2_18 = ~z~Sometimes...
+
+RMUD3A_S3_INTLI_1 = ~z~John.
+
+RMUD3A_S3_INT_1 = ~z~How did you get on?
+
+RMUD3A_S3_INT_2 = ~z~Good, and you?
+
+RMUD3A_S3_INT_3 = ~z~Got everything we need.
+
+RMUD3A_S3_INT_4 = ~z~Good.
+
+RMUD3A_S3_INT_5 = ~z~I think we need another man.
+
+RMUD3A_S3_INT_6 = ~z~Charles?
+
+RMUD3A_S3_INT_7 = ~z~I'll go get him.
+
+RMUD3A_S3_INT_8 = ~z~Meet us at the wagon when you can.
+
+RMUD3A_S3_INT_9 = ~z~Sure.
+
+RMUD3A_S3_INT_10 = ~z~See, Arthur...
+
+RMUD3A_S3_INT_11 = ~z~I ain't that dumb.
+
+RMUD3A_S3_INT_12 = ~z~Next time, let the wolves eat all your brain...
+
+RMUD3A_S3_INT_13 = ~z~then you'll be a genius.
+
+RMUD3A_STEAL_1 = ~z~Hey you, stop right there! Boys! Someone's stealing the wagon!
+

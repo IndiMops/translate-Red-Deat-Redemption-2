@@ -1,0 +1,372 @@
+TRN2_ARRIVE_1 = ~z~Okay, let's hold up here.
+
+TRN2_BECKON_1 = ~z~Come on, Arthur! Quick, let's get the explosives!
+
+TRN2_CAMP_BANT_1 = ~z~~sl:0.0:2.4~Killing a bunch of folks so we can rob~sl:~some dynamite to blow up a bridge.
+
+TRN2_CAMP_BANT_2 = ~z~~sl:1.0~This make any sense to you?
+
+TRN2_CAMP_BANT_3 = ~z~It's a distraction, so it ain't meant to make sense.
+
+TRN2_CAMP_BANT_4 = ~z~It should to us. It's our plan.
+
+TRN2_CAMP_BANT_5 = ~z~You know, I've had it with the moaning.
+
+TRN2_CRATE_01 = ~z~Ah shit! They're aiming for the dynamite!
+
+TRN2_CRATE_02 = ~z~Shoot them, Arthur, before they blow us to high hell!
+
+TRN2_CRATE_03 = ~z~Damn it! You need to take them out, Arthur!
+
+TRN2_EXT_1 = ~z~So, you got it?
+
+TRN2_EXT_2 = ~z~We got it.
+
+TRN2_EXT_3 = ~z~Yes, we got it.
+
+TRN2_EXT_4 = ~z~What's wrong, Arthur?
+
+TRN2_EXT_5 = ~z~Nothing at all, boss.
+
+TRN2_EXT_6 = ~z~John...
+
+TRN2_EXT_7 = ~z~go drive this over to Bacchus Bridge...
+
+TRN2_EXT_8 = ~z~get it hidden near there.
+
+TRN2_EXT_9 = ~z~He really does think...
+
+TRN2_EXT_10 = ~z~he's in charge.~n~~m~Bill...
+
+TRN2_EXT_11 = ~z~you go on ahead...
+
+TRN2_EXT_12 = ~z~I need to speak with Arthur.
+
+TRN2_EXT_13 = ~z~Good work, son.
+
+TRN2_EXT_14 = ~z~What's going on?
+
+TRN2_EXT_15 = ~z~Listen...
+
+TRN2_EXT_16 = ~z~I know we ain't always seen eye to eye, and...
+
+TRN2_EXT_17 = ~z~you find me irritating, and a threat...
+
+TRN2_EXT_18 = ~z~and I like to annoy you...
+
+TRN2_EXT_19 = ~z~but right now I need better from you, Arthur.
+
+TRN2_EXT_20 = ~z~Okay, Micah...
+
+TRN2_EXT_21 = ~z~whatever you say.
+
+TRN2_EXT_22 = ~z~I ain't the bad guy you think I am, Arthur...
+
+TRN2_EXT_23 = ~z~but, I am a survivor.
+
+TRN2_EXT_24 = ~z~Stick with me and you'll live.
+
+TRN2_EXT_25 = ~z~Oh, the bridge is probably a two man job...
+
+TRN2_EXT_26 = ~z~you should probably go help Marston.
+
+TRN2_EXT_27 = ~z~Why don't you?
+
+TRN2_EXT_28 = ~z~Like I said...
+
+TRN2_EXT_29 = ~z~Dutch and I got planning to do...
+
+TRN2_EXT_30 = ~z~for the train.
+
+TRN2_EXT_31 = ~z~There's a big picture here, Arthur.
+
+TRN2_EXT_32 = ~z~Trust me.
+
+TRN2_EXT_LEADIN_1 = ~z~Whoa...
+
+TRN2_FLEE_1 = ~z~One of them's making a run for it.
+
+TRN2_GET_DOWN_01 = ~z~Get down here!
+
+TRN2_GET_DOWN_02 = ~z~Come on! We need to go now!
+
+TRN2_GET_DOWN_03 = ~z~Get out here and let's go!
+
+TRN2_GET_ON_01 = ~z~Get on here, quick!
+
+TRN2_GET_ON_02 = ~z~Come on! We need to get out of here!
+
+TRN2_GET_ON_03 = ~z~What are you doing? Get on.
+
+TRN2_IG1_A_1 = ~z~Come on. Move you drunken bastard, move!
+
+TRN2_IG1_A_2 = ~z~Eric, go move him. Go on.
+
+TRN2_IG1_A_3 = ~z~This place... these people.
+
+TRN2_IG1_A_4 = ~z~Move, you idiot, move!
+
+TRN2_IG1_BILL_1 = ~z~
+
+TRN2_IG1_BILL_2 = ~z~
+
+TRN2_IG1_BILL_3 = ~z~
+
+TRN2_IG1_B_1 = ~z~Come on, let's get...
+
+TRN2_IG1_LAW_1 = ~z~Oh shit! Deal with them, Arthur!
+
+TRN2_IG1_LAW_2 = ~z~~sl:0.0:2.5~Well, quick... they get off one good shot~sl:~and they'll blow us both to kingdom come!
+
+TRN2_IG2_BILLBK_1 = ~z~Come on, Arthur! Quick, let's get the explosives!
+
+TRN2_IG3_1 = ~z~So... the wagon'll be coming from that way... down from Annesburg.
+
+TRN2_IG3_2 = ~z~And it'll take the two of us to stop it completely, or it'll never get done.
+
+TRN2_IMTRYING_A_1 = ~z~Okay, I'm trying!
+
+TRN2_INCOMING_1 = ~z~Here come more of them!
+
+TRN2_INCOMING_2 = ~z~On our right, Arthur!
+
+TRN2_INCOMING_3 = ~z~Goddamn it. Still more behind us!
+
+TRN2_INT_1 = ~z~Ah, there he is...
+
+TRN2_INT_2 = ~z~ole Black Lung Morgan.
+
+TRN2_INT_3 = ~z~Shut up.
+
+TRN2_INT_4 = ~z~Was you followed?
+
+TRN2_INT_5 = ~z~Excuse me?
+
+TRN2_INT_6 = ~z~Was... you followed?
+
+TRN2_INT_7 = ~z~Do you know who you're talking to?
+
+TRN2_INT_8 = ~z~I ain't sure...
+
+TRN2_INT_9 = ~z~I ain't sure about much no more.
+
+TRN2_INT_10 = ~z~All I know is there's law whenever you're around.
+
+TRN2_INT_11 = ~z~Oh, is that so?
+
+TRN2_INT_12 = ~z~Because it seems to me...
+
+TRN2_INT_13 = ~z~that since you been riding with us...
+
+TRN2_INT_14 = ~z~there ain't been nothing but trouble.
+
+TRN2_INT_15 = ~z~Stirring things up all the time, getting in Dutch's ear.
+
+TRN2_INT_16 = ~z~Seems wherever you is, there's Pinkertons, and vice versa.
+
+TRN2_INT_17 = ~z~So you better watch your goddamn mouth, boy...
+
+TRN2_INT_18 = ~z~or...
+
+TRN2_INT_19 = ~z~Take it easy, cowboy...
+
+TRN2_INT_20 = ~z~you're gonna do yourself a mischief way you're heading.
+
+TRN2_INT_21 = ~z~Micah, shut it.
+
+TRN2_INT_22 = ~z~He started it!
+
+TRN2_INT_23 = ~z~Dutch says we is to go on with plans to create a diversion.
+
+TRN2_INT_24 = ~z~We gotta get some explosives to blow up the bridge.
+
+TRN2_INT_25 = ~z~Keep the army out of here a few days.
+
+TRN2_INT_26 = ~z~I think it's a real bad idea.
+
+TRN2_INT_27 = ~z~I don't think Dutch cares too much what you think.
+
+TRN2_INT_28 = ~z~That's clear.
+
+TRN2_INT_29 = ~z~We gotta confuse them one last time...
+
+TRN2_INT_30 = ~z~then he and I will head to Blackwater...
+
+TRN2_INT_31 = ~z~collect the money and help everyone leave.
+
+TRN2_INT_32 = ~z~He's got a boat lined up.
+
+TRN2_INT_33 = ~z~Blackwater's a fool's errand, everyone knows it...
+
+TRN2_INT_34 = ~z~even a greedy moron like you.
+
+TRN2_INT_35 = ~z~It's Dutch's choice, Arthur.
+
+TRN2_INT_36 = ~z~You're just a senior gun...
+
+TRN2_INT_37 = ~z~same as the rest of us.
+
+TRN2_INT_38 = ~z~Only you ain't well.
+
+TRN2_INT_39 = ~z~I'm fine!
+
+TRN2_INT_40 = ~z~Then you'll do Dutch's bidding.
+
+TRN2_INT_41 = ~z~Which is robbing a stage that's coming from Annesburg...
+
+TRN2_INT_42 = ~z~full of explosives.
+
+TRN2_INT_43 = ~z~Rob a stage...
+
+TRN2_INT_44 = ~z~All we seem to ever do is rob a stage, you and me.
+
+TRN2_INT_45 = ~z~Not me...
+
+TRN2_INT_46 = ~z~you two.
+
+TRN2_INT_47 = ~z~I got my own planning to do.
+
+TRN2_INT_48 = ~z~You boys got this.
+
+TRN2_INT_49 = ~z~Shit.
+
+TRN2_INT_50 = ~z~Guess we have.
+
+TRN2_INT_51 = ~z~Come on, Arthur.
+
+TRN2_INT_52 = ~z~And, cowpoke...
+
+TRN2_INT_53 = ~z~take it easy.
+
+TRN2_INT_54 = ~z~You could do with a vacation.
+
+TRN2_INT_LI_1 = ~z~Ah, there he is... old black lung Morgan.
+
+TRN2_INT_LI_2 = ~z~Shut up.
+
+TRN2_INT_LI_3 = ~z~Was you followed?
+
+TRN2_INT_LI_4 = ~z~Excuse me?
+
+TRN2_KILL_LAW_1 = ~z~We need to deal with this, we're leading them right back to camp!
+
+TRN2_KILL_LAW_2 = ~z~What do you think I'm doing?
+
+TRN2_LAW_CHASE_1 = ~z~I thought there was no law in Van Horn!
+
+TRN2_LAW_CHASE_2 = ~z~Does that really matter right now, Bill?
+
+TRN2_MCH_CMMT_1 = ~z~Have fun, boys.
+
+TRN2_MCS1_1 = ~z~So I was thinking, you go play dead...
+
+TRN2_MCS1_2 = ~z~and I'll take care of 'em.
+
+TRN2_MCS1_3 = ~z~No...
+
+TRN2_MCS1_4 = ~z~I'm the better shot, and...
+
+TRN2_MCS1_5 = ~z~you, you're the better actor.
+
+TRN2_MCS1_6 = ~z~No, you play dead and I'll cover you.
+
+TRN2_MCS1_7 = ~z~I got that...
+
+TRN2_MCS1_8 = ~z~I got that.
+
+TRN2_MCS1_9 = ~z~Oh, that's them coming now, I think...
+
+TRN2_MCS1_10 = ~z~it'll be quite the show.
+
+TRN2_MNTUP1_01 = ~z~Are you going to sulk or mount up?
+
+TRN2_MNTUP1_02 = ~z~Hurry up or we'll miss it.
+
+TRN2_MNTUP1_03 = ~z~Don't worry about him, just get on the horse.
+
+TRN2_MNTUP_MCH_01 = ~z~When I said you could do with a vacation, I didn't mean start now.
+
+TRN2_MNTUP_MCH_02 = ~z~If you fellers don't get moving, that wagon will be long gone.
+
+TRN2_MNTUP_MCH_03 = ~z~~sl:0.0:1.1~Hurry up, Arthur.~sl:0.1~Every minute counts for a man in your condition.
+
+TRN2_MNTUP_MCH_04 = ~z~~sl:4.1~You almost make me miss Hosea.
+
+TRN2_NO_VANTAGE_01 = ~z~What are you doing? Find a spot to shoot from.
+
+TRN2_NO_VANTAGE_02 = ~z~I thought I was playing dead and you were shooting?
+
+TRN2_NO_VANTAGE_03 = ~z~Arthur, you better not screw this up.
+
+TRN2_NO_VANTAGE_04 = ~z~What the hell are you doing?
+
+TRN2_NO_VANTAGE_05 = ~z~You're supposed to be covering me, Morgan.
+
+TRN2_OBJ1_1 = ~z~Alright, let's go.
+
+TRN2_OBJ5_1 = ~z~~sl:0.0:2.3~Alright, let's see if we can get this back to camp~sl:~without blowing ourselves up.
+
+TRN2_PHEW_1 = ~z~Okay, I don't see any more of them.
+
+TRN2_PHEW_2 = ~z~~sl:0.0:0.9~Alright.~sl:2.0:1.9~Oh, that was close...~sl:1.0:3.6:1~Don't reckon I'm cut out to be a dynamite wagon driver.
+
+TRN2_PINK_CLEAR_1 = ~z~Okay, I think we're clear. Let's head on.
+
+TRN2_PINK_PAT_1 = ~z~Hey, hold up a second. Pinkerton patrol over there.
+
+TRN2_REINS_1 = ~z~Here, let me take the reins now.
+
+TRN2_REINS_2 = ~z~Why?
+
+TRN2_REINS_3 = ~z~I thought you weren't cut out to be a dynamite wagon driver.
+
+TRN2_REINS_4 = ~z~~sl:0.7~Okay, fine.
+
+TRN2_SHOOT_IDLE_01 = ~z~Help me out here, Morgan!
+
+TRN2_SHOOT_IDLE_02 = ~z~Why aren't you shooting?
+
+TRN2_SHOOT_IDLE_03 = ~z~Come on! Shoot them!
+
+TRN2_SHOOT_IDLE_04 = ~z~Will you shoot them, for chrissakes?
+
+TRN2_SHOT_1 = ~z~Nice shooting back there.
+
+TRN2_SHOT_2 = ~z~Nice drunk playing.
+
+TRN2_SHOT_3 = ~z~~sl:0.0:1.4~Comes naturally.~sl:2.4~I could use a drink after that.
+
+TRN2_SHOT_4 = ~z~Yeah, I know. Just never goes easy no more, does it?
+
+TRN2_SHOT_INNO_1 = ~z~Nice shooting... well, uh... apart from the townfolk.
+
+TRN2_SHOT_INNO_2 = ~z~There was a lot of movement.
+
+TRN2_SHOT_INNO_3 = ~z~And you're calling Dutch and Micah unhinged.
+
+TRN2_SHOT_INNO_4 = ~z~~sl:0.9~Guess it's catching.
+
+TRN2_SPOT_MICAH_1 = ~z~Look, there's Micah up ahead.
+
+TRN2_SPOT_MICAH_2 = ~z~Great.
+
+TRN2_VRIDE_BANTSHOUTED_1 = ~z~~sl:0.0:2.0~Micah says we should jump it~sl:~as soon as it comes through Van Horn.
+
+TRN2_VRIDE_BANTSHOUTED_4 = ~z~~sl:0.0:3.6~The pair of them are becoming unhinged.~lr:0.4~You hear about Dutch killing Cornwall?
+
+TRN2_VRIDE_BANTSHOUTED_5 = ~z~That needed to be done.
+
+TRN2_VRIDE_BANTSPOKEN_1 = ~z~~sl:0.0:2.1~Micah says we should jump it~sl:~as soon as it comes through Van Horn.
+
+TRN2_VRIDE_BANTSPOKEN_4 = ~z~~sl:1.0:2.7~The pair of them are becoming unhinged.~lr:0.4~You hear about Dutch killing Cornwall?
+
+TRN2_VRIDE_BANTSPOKEN_5 = ~z~Well that needed to be done.
+
+TRN2_VRIDE_BANT_2 = ~z~So ~rp~you're taking orders from him now?
+
+TRN2_VRIDE_BANT_3 = ~z~I'm taking orders from Dutch, same as always.
+
+TRN2_VRIDE_BANT_6 = ~z~Right now? ~rp~With the Pinkertons breathing down our necks.
+
+TRN2_VRIDE_BANT_7 = ~z~See, I'm starting to think that you've gone soft, Morgan.
+

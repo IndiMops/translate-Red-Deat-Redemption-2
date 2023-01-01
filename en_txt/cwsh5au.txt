@@ -1,0 +1,12 @@
+CWSH5_ACT_1 = ~z~I hear you saved Mr. Bell from a hanging?
+
+CWSH5_ACT_2 = ~z~I'm sorry.
+
+CWSH5_ACT_3 = ~z~Well, I suppose he'd do the same for you.
+
+CWSH5_ACT_4 = ~z~Exactly.
+
+CWSH5_ACT_5 = ~z~We're all in this together, Mr. Morgan. I know you know that.
+
+CWSH5_ACT_6 = ~z~Of course, Miss Grimshaw.
+

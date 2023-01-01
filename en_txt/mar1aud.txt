@@ -1,0 +1,604 @@
+MAR1_BLOCK_OUT_1 = ~z~Whoa. Whoa. All you had to do was ask.
+
+MAR1_BLOCK_WAG_1 = ~z~You're getting out of that wagon one way or another.
+
+MAR1_CALL_1 = ~z~Hey.
+
+MAR1_DNT_HURT_01 = ~z~And don't get yourself hurt! Or hurt them for that matter.
+
+MAR1_DNT_HURT_02 = ~z~Go easy on them! We can't have trouble here.
+
+MAR1_EXT_1 = ~z~Thank you.
+
+MAR1_EXT_2 = ~z~Milton, isn't it?
+
+MAR1_EXT_3 = ~z~Those boys are out of Laramie...
+
+MAR1_EXT_4 = ~z~work for Mr. Abel.
+
+MAR1_EXT_5 = ~z~Thank you.
+
+MAR1_EXT_6 = ~z~Don't mention it.
+
+MAR1_EXT_7 = ~z~Listen...
+
+MAR1_EXT_8 = ~z~I ain't looking for no charity or nothing, but...
+
+MAR1_EXT_9 = ~z~I was serious.
+
+MAR1_EXT_10 = ~z~You got work, we'll work.
+
+MAR1_EXT_11 = ~z~I can do anything.
+
+MAR1_EXT_12 = ~z~We got...
+
+MAR1_EXT_13 = ~z~we got robbed ourselves a few days back.
+
+MAR1_EXT_14 = ~z~We ain't got married hands here...
+
+MAR1_EXT_15 = ~z~you're married.
+
+MAR1_EXT_16 = ~z~We'll work harder than any one of them.
+
+MAR1_EXT_17 = ~z~I'm real honest...
+
+MAR1_EXT_18 = ~z~and my wife...
+
+MAR1_EXT_19 = ~z~even though she's got fancy thoughts...
+
+MAR1_EXT_20 = ~z~she'll work.
+
+MAR1_EXT_21 = ~z~You seem kinda desperate.
+
+MAR1_EXT_22 = ~z~What trouble you in?
+
+MAR1_EXT_23 = ~z~No trouble, sir...
+
+MAR1_EXT_24 = ~z~aside from her brother.
+
+MAR1_EXT_25 = ~z~He...
+
+MAR1_EXT_26 = ~z~tricked us and robbed her of her inheritance.
+
+MAR1_EXT_27 = ~z~We're good people.
+
+MAR1_EXT_28 = ~z~We'll work, even Lancelot.
+
+MAR1_EXT_29 = ~z~What does Mr. Geddes need with a boy?
+
+MAR1_EXT_30 = ~z~It's just another mouth to feed.
+
+MAR1_EXT_31 = ~z~Just...
+
+MAR1_EXT_32 = ~z~please give us a chance.
+
+MAR1_EXT_33 = ~z~I can handle myself okay, you know that already.
+
+MAR1_EXT_34 = ~z~Yeah...
+
+MAR1_EXT_35 = ~z~makes me wonder just who would have robbed you.
+
+MAR1_EXT_36 = ~z~But, we'll give you a chance.
+
+MAR1_EXT_37 = ~z~I'll let Mr. Geddes know when him and his wife return tomorrow.
+
+MAR1_EXT_38 = ~z~Thank you, Mr. Dickens.
+
+MAR1_EXT_39 = ~z~I'll go get my wife.
+
+MAR1_EXT_40 = ~z~Nah, no, you stay here.
+
+MAR1_EXT_41 = ~z~It's getting late.
+
+MAR1_EXT_42 = ~z~We'll go get her in Strawberry...
+
+MAR1_EXT_43 = ~z~and we'll bring her here tomorrow.
+
+MAR1_EXT_44 = ~z~We need you around in case any more of them Laramie boys turns up.
+
+MAR1_EXT_45 = ~z~There's a...
+
+MAR1_EXT_46 = ~z~a little cabin out yonder past the ranch house.
+
+MAR1_EXT_47 = ~z~Things work out, y'all can stay there.
+
+MAR1_EXT_48 = ~z~Thank you.
+
+MAR1_EXT_49 = ~z~You'll not regret this.
+
+MAR1_EXT_50 = ~z~Yep.
+
+MAR1_EXT_51 = ~z~Go get yourself settled.
+
+MAR1_EXT_52 = ~z~We'll have work for you tomorrow when Mr. Geddes returns.
+
+MAR1_EXT_LI_1 = ~z~Thank you.
+
+MAR1_FALL_01 = ~z~You okay, darling?
+
+MAR1_FALL_02 = ~z~Did we lose you there?
+
+MAR1_FALL_03 = ~z~You alright? Get back up here.
+
+MAR1_FALL_04 = ~z~I lose my co-driver? Come on.
+
+MAR1_FOLLOW1_1 = ~z~~sl:0.0:1.7~Hey, why don't you check back there?~sl:~We'll let you know if we find anything this way.
+
+MAR1_FOLLOW1_2 = ~z~Uh, okay... sure.
+
+MAR1_FOLLOW2_01 = ~z~That dry-goods store is as good of a place to start as any.
+
+MAR1_FOLLOW2_02 = ~z~Me and the boy will be fine on our own. Just... go back that way.
+
+MAR1_FOLLOW2_03 = ~z~John, are you serious about this? Go ask in that store.
+
+MAR1_GETBACK_01 = ~z~You ain't getting away with that!
+
+MAR1_GETBACK_02 = ~z~That's my damn wagon, you hear me?
+
+MAR1_GETBACK_03 = ~z~Come back here!
+
+MAR1_GETBACK_04 = ~z~Hey! Hey!
+
+MAR1_GETOFF2_1 = ~z~~sl:0.0:5.9~Like us... all we're asking is Mr. Geddes takes Mr. Abel's offer.~sl:~Or, well, we might not be so cooperative.
+
+MAR1_GETOFF_1 = ~z~~sl:0.0:2.6~Tell Geddes to take that offer off Mr. Abel.~sl:0.0:2.2:1~Or we get a whole lot more funny.
+
+MAR1_HORSE_01 = ~z~Take that horse if you need it.
+
+MAR1_HORSE_02 = ~z~You can use that horse...
+
+MAR1_IG1_1 = ~z~My whole life I've been surrounded by fools with moral codes.
+
+MAR1_IG1_2 = ~z~~sl:0.0:1.3~Here's a moral code:~sl:0.0:1.1~look out for folks!~sl:0.7~Stop trying to act like some hero in a book.
+
+MAR1_IG1_3 = ~z~What do you know about heroes and books?
+
+MAR1_IG1_4 = ~z~~sl:1.0:0.0~Jack's been reading to me sometimes.
+
+MAR1_IG1_5 = ~z~~sl:0.7:0.0~...read different books, then.
+
+MAR1_IG13_PARK_1 = ~z~I'm gonna go see what kinda good, honest work I can find...
+
+MAR1_IG13_PARK_2 = ~z~Grave digging or... polishing some rich fellers boots or some such.
+
+MAR1_IG13_PARK_3 = ~z~Me too... see if me and the boy can find some laundry work or something.
+
+MAR1_INT_1 = ~z~That was close...
+
+MAR1_INT_2 = ~z~too close.
+
+MAR1_INT_3 = ~z~We brought that trouble on ourselves.
+
+MAR1_INT_4 = ~z~By we, you mean me...
+
+MAR1_INT_5 = ~z~It wasn't me who went and shot him.
+
+MAR1_INT_6 = ~z~Seemed like he deserved shooting.
+
+MAR1_INT_7 = ~z~I'm sure he did but I been thinking...
+
+MAR1_INT_8 = ~z~ain't it about time you stopped being...
+
+MAR1_INT_9 = ~z~the man making them decisions?
+
+MAR1_INT_10 = ~z~I'm trying.
+
+MAR1_INT_11 = ~z~Are you?
+
+MAR1_INT_12 = ~z~I think so.
+
+MAR1_INT_13 = ~z~We gotta find some place to lay low...
+
+MAR1_INT_14 = ~z~keep quiet.
+
+MAR1_INT_15 = ~z~Maybe Dutch was right...
+
+MAR1_INT_16 = ~z~maybe we should just gone to Tahiti.
+
+MAR1_INT_17 = ~z~Is that it with you?
+
+MAR1_INT_18 = ~z~Tahiti or killing?
+
+MAR1_INT_19 = ~z~Come on, John...
+
+MAR1_INT_20 = ~z~please, try.
+
+MAR1_INT_21 = ~z~Try what?
+
+MAR1_INT_22 = ~z~We gotta live somewhere for more than just a few weeks.
+
+MAR1_INT_23 = ~z~Okay.
+
+MAR1_INT_24 = ~z~Let's see what we can find in...
+
+MAR1_INT_25 = ~z~in Strawberry.
+
+MAR1_INT_26 = ~z~What do you know about Strawberry?
+
+MAR1_INT_27 = ~z~I know they like good, honest, hard working men...
+
+MAR1_INT_28 = ~z~a whole lot more than angry killers.
+
+MAR1_INT_29 = ~z~So make yourself good and honest.
+
+MAR1_INT_30 = ~z~I am always honest...
+
+MAR1_INT_31 = ~z~maybe not always good...
+
+MAR1_INT_32 = ~z~but I'm always honest.
+
+MAR1_INT_33 = ~z~My whole life I've been surrounded by fools with moral codes.
+
+MAR1_INT_34 = ~z~Here's a moral code...
+
+MAR1_INT_35 = ~z~look out for folks.
+
+MAR1_INT_36 = ~z~Stop trying to act like some hero in a book.
+
+MAR1_INT_37 = ~z~What do you know about heroes in books?
+
+MAR1_INT_38 = ~z~My reading's getting pretty good.
+
+MAR1_INT_39 = ~z~Well read different books then.
+
+MAR1_LAW_01 = ~z~Oh Lord! I thought we was done with all this!
+
+MAR1_LAW_02 = ~z~We got the law after us? Jesus, John! You fool.
+
+MAR1_LEAD_MCS2_1 = ~z~~sl:0.4:1.5:1~Help you, son?
+
+MAR1_LEAD_MCS3_1 = ~z~Thank you, doctor.
+
+MAR1_LEAD_MCS3_2 = ~z~~sl:0.3:0.9~Hey!~sl:0.3:0.9:1~How you getting on?
+
+MAR1_LEAD_MCS3_3 = ~z~~sl:0.4:1.9:1~I found some work.
+
+MAR1_LEAD_MCS3_4 = ~z~Me too.
+
+MAR1_LOADED_1 = ~z~We loaded her up pretty good, Milton.
+
+MAR1_LOADED_2 = ~z~Good.
+
+MAR1_LOADED_3 = ~z~~sl:0.0:1.6~Now you ride slow now.~sl:~Geddes don't want his goods damaged.
+
+MAR1_LOADED_4 = ~z~Of course.
+
+MAR1_LOADGOODS_01 = ~z~I said, we'll load the goods. You find your wife.
+
+MAR1_LOADGOODS_02 = ~z~Goods ain't loaded yet, son.
+
+MAR1_LOADGOODS_03 = ~z~You got any errands to run, you run 'em now.
+
+MAR1_MCS1_1 = ~z~I'm gonna go see what kinda good honest work I can find...
+
+MAR1_MCS1_2 = ~z~grave digging or polishing some rich feller's boots or some such.
+
+MAR1_MCS1_3 = ~z~Me too...
+
+MAR1_MCS1_4 = ~z~see if me and the boy can find some laundry work or something.
+
+MAR1_MCS2_1 = ~z~Help you, son?
+
+MAR1_MCS2_2 = ~z~I'm hoping I can help you.
+
+MAR1_MCS2_3 = ~z~I saw the help wanted sign outside.
+
+MAR1_MCS2_4 = ~z~Sure, but, uh...
+
+MAR1_MCS2_5 = ~z~you're a bit old to be stacking groceries...
+
+MAR1_MCS2_6 = ~z~and running errands ain't you, son?
+
+MAR1_MCS2_7 = ~z~Well... uh... I ain't too proud to do nothing.
+
+MAR1_MCS2_8 = ~z~As long as it's honest, and it pays.
+
+MAR1_MCS2_9 = ~z~Times hard, Mr...
+
+MAR1_MCS2_10 = ~z~Milton. Jim Milton.
+
+MAR1_MCS2_11 = ~z~Yeah. My wife and I, and our boy...
+
+MAR1_MCS2_12 = ~z~we was robbed a few days ago.
+
+MAR1_MCS2_13 = ~z~Lucky to get out with our lives we was.
+
+MAR1_MCS2_14 = ~z~Now...
+
+MAR1_MCS2_15 = ~z~well, we need money.
+
+MAR1_MCS2_16 = ~z~There's bad folk out there.
+
+MAR1_MCS2_17 = ~z~Yeah, tell me about it.
+
+MAR1_MCS2_18 = ~z~Got a wagon by any chance?
+
+MAR1_MCS2_19 = ~z~Sure.
+
+MAR1_MCS2_20 = ~z~Well, then maybe you could run some goods...
+
+MAR1_MCS2_21 = ~z~up to Pronghorn Ranch for me.
+
+MAR1_MCS2_22 = ~z~You know head west past Owanjila, then follow the road north.
+
+MAR1_MCS2_23 = ~z~Lead you right there.
+
+MAR1_MCS2_24 = ~z~I... I don't know where that is, but I'm sure I can find it.
+
+MAR1_MCS2_25 = ~z~I can leave right now, if you'd like.
+
+MAR1_MCS2_26 = ~z~It's the Geddes' place. Fine feller.
+
+MAR1_MCS2_27 = ~z~Where's the wagon?
+
+MAR1_MCS2_28 = ~z~It's just outside.
+
+MAR1_MCS2_29 = ~z~You know, I should go tell my wife...
+
+MAR1_MCS2_30 = ~z~and then, I can come back and get loaded.
+
+MAR1_MCS2_31 = ~z~My boys can load you up while you go find your wife.
+
+MAR1_MCS2_32 = ~z~Okay.
+
+MAR1_MCS3_1 = ~z~Thank you, Doctor.
+
+MAR1_MCS3_2 = ~z~Hey, how you getting on?
+
+MAR1_MCS3_3 = ~z~Well, found some work.
+
+MAR1_MCS3_4 = ~z~Me too.
+
+MAR1_MCS3_5 = ~z~Delivering goods out to some ranch.
+
+MAR1_MCS3_6 = ~z~Cleaning a doctor's surgery.
+
+MAR1_MCS3_7 = ~z~Fine living.
+
+MAR1_MCS3_8 = ~z~It is, John, oh it is.
+
+MAR1_MCS3_9 = ~z~This is the way to it.
+
+MAR1_MCS3_10 = ~z~I'll take your word on that.
+
+MAR1_MCS3_11 = ~z~Well, what do you suggest now?
+
+MAR1_MCS3_12 = ~z~I'll stay here, and get on with the work.
+
+MAR1_MCS3_13 = ~z~You deliver them goods and then collect me.
+
+MAR1_MCS3_14 = ~z~Okay.
+
+MAR1_MCS3_15 = ~z~And, John...
+
+MAR1_MCS3_16 = ~z~I love you.
+
+MAR1_MCS3_17 = ~z~Don't you forget that...
+
+MAR1_MCS3_18 = ~z~not ever now.
+
+MAR1_MCS3_19 = ~z~I won't.
+
+MAR1_MCS4_1 = ~z~Whoa.
+
+MAR1_MCS4_2 = ~z~Can I help you there?
+
+MAR1_MCS4_3 = ~z~You Mr. Geddes?
+
+MAR1_MCS4_4 = ~z~No, sir.
+
+MAR1_MCS4_5 = ~z~I'm Mr. Dickens, his overseer.
+
+MAR1_MCS4_6 = ~z~Jim Milton.
+
+MAR1_MCS4_7 = ~z~I'm delivering some supplies from the store in Strawberry.
+
+MAR1_MCS4_8 = ~z~Okay.
+
+MAR1_MCS4_9 = ~z~This is quite a place.
+
+MAR1_MCS4_10 = ~z~Yes, it's beautiful.
+
+MAR1_MCS4_11 = ~z~They send everything?
+
+MAR1_MCS4_12 = ~z~Yeah, I think so.
+
+MAR1_MCS4_13 = ~z~So, partner...
+
+MAR1_MCS4_14 = ~z~your boss...
+
+MAR1_MCS4_15 = ~z~he looking for hands?
+
+MAR1_MCS4_16 = ~z~Why?
+
+MAR1_MCS4_17 = ~z~You looking for work?
+
+MAR1_MCS4_18 = ~z~Yeah.
+
+MAR1_MCS4_19 = ~z~My wife...
+
+MAR1_MCS4_20 = ~z~we was in business with her family, and...
+
+MAR1_MCS4_21 = ~z~turned sour.
+
+MAR1_MCS4_22 = ~z~It's a long story.
+
+MAR1_MCS4_23 = ~z~Yeah, I don't know.
+
+MAR1_MCS4_24 = ~z~Married hands...
+
+MAR1_MCS4_25 = ~z~it's a lot of trouble.
+
+MAR1_MCS4_26 = ~z~I'm a good worker.
+
+MAR1_MCS4_27 = ~z~My wife Agatha...
+
+MAR1_MCS4_28 = ~z~even our boy Lancelot...
+
+MAR1_MCS4_29 = ~z~we'll all work.
+
+MAR1_MCS4_30 = ~z~Big man around, boy?
+
+MAR1_MCS4_31 = ~z~Get the hell outta here.
+
+MAR1_MCS4_32 = ~z~Now...
+
+MAR1_MCS4_33 = ~z~that ain't very neighborly.
+
+MAR1_MCS4_34 = ~z~And threatening us is neighborly?
+
+MAR1_MCS4_35 = ~z~Hey, mind if I enjoy one of these apples?
+
+MAR1_MCS4_36 = ~z~Put that down.
+
+MAR1_MCS4_37 = ~z~Delicious.
+
+MAR1_MCS4_38 = ~z~When's the boss man gonna sell this place, boy?
+
+MAR1_MCS4_39 = ~z~I don't think there's any plans for that.
+
+MAR1_MCS4_40 = ~z~You boys want a drink?
+
+MAR1_MCS4_41 = ~z~It's some fine Scotch whiskey.
+
+MAR1_MCS4_42 = ~z~Put that down.
+
+MAR1_MCS4_43 = ~z~"Put that down."
+
+MAR1_MCS4_44 = ~z~These supplies for the season?
+
+MAR1_MCS4_45 = ~z~Get off the farm.
+
+MAR1_MCS4_46 = ~z~Come on, we know when we're not wanted.
+
+MAR1_MCS4_47 = ~z~Get down from there!
+
+MAR1_MCS4_48 = ~z~Bye, partner.
+
+MAR1_MCS4_49 = ~z~You come back here!
+
+MAR1_MCS4_LO_LA_1 = ~z~
+
+MAR1_MCS4_LO_LA_2 = ~z~
+
+MAR1_NO_WAGON_01 = ~z~You want that wagon back... now's your only chance.
+
+MAR1_NO_WAGON_02 = ~z~I'm sorry, but... if you lose those goods, that's on you.
+
+MAR1_NO_WAGON_03 = ~z~If only you could do something about this...
+
+MAR1_OUT_CHASE_01 = ~z~We got someone after us...
+
+MAR1_OUT_CHASE_02 = ~z~Can you catch us, feller?
+
+MAR1_OUT_CHASE_03 = ~z~
+
+MAR1_OUT_CHASE_04 = ~z~
+
+MAR1_OUT_CHASE_05 = ~z~
+
+MAR1_OUT_CHASE_06 = ~z~You want your wagon back? Huh?
+
+MAR1_OUT_CHASE_07 = ~z~Boss man's so rich, he don't need this stuff.
+
+MAR1_OUT_CHASE_08 = ~z~Look at this hand here...
+
+MAR1_PHR_DIR1_1 = ~z~West past Owanjila, then follow the road north. Okay.
+
+MAR1_PHR_DIR2_1 = ~z~Owanjila. We go past it... and north.
+
+MAR1_PHR_DIR3_1 = ~z~Now we go north.
+
+MAR1_PHR_DIR4_1 = ~z~This must be it.
+
+MAR1_PULLEDOFF_1 = ~z~Oh, shit.
+
+MAR1_PULLEDOFF_2 = ~z~This one's got a stone in his boot!
+
+MAR1_PULL_UP_1 = ~z~Why don't you pull up just here?
+
+MAR1_RIDEBANT1_1 = ~z~The book is Jack's... and, well... maybe he's doing most of the reading, but still.
+
+MAR1_RIDEBANT1_2 = ~z~You're a bad influence on your mother, boy.
+
+MAR1_RIDEBANT1_3 = ~z~Boy?
+
+MAR1_RIDEBANT1_4 = ~z~Sorry, sir. What was that?
+
+MAR1_RIDEBANT1_5 = ~z~I said you're a bad influence... on your mother... with your books.
+
+MAR1_RIDEBANT1_6 = ~z~Which books was that?
+
+MAR1_RIDEBANT1_7 = ~z~You know, that dime novel, Boy Calloway and the Men from the Moon, or whatever it was.
+
+MAR1_RIDEBANT1_8 = ~z~I'll do my best to find better reading material, Pa.
+
+MAR1_RIDEBANT1_9 = ~z~That what you like then... Western tales?
+
+MAR1_RIDEBANT1_10 = ~z~Boy?
+
+MAR1_RIDEBANT1_11 = ~z~What's that, sir?
+
+MAR1_RIDEBANT1_12 = ~z~Do you enjoy tales of the Wild West?
+
+MAR1_RIDEBANT1_13 = ~z~Not so much... any more... I been reading about Knights... you know, of the round table...
+
+MAR1_RIDEBANT1_14 = ~z~The king... what's his name?
+
+MAR1_RIDEBANT1_15 = ~z~There's King Arthur, and there's Sir Lancelot, and the Lady Guinevere, and a whole lot of others.
+
+MAR1_RIDEBANT1_16 = ~z~Those names...
+
+MAR1_RIDEBANT1_17 = ~z~I kind of like 'em.
+
+MAR1_RIDEBANT1_18 = ~z~You know what, so do I.
+
+MAR1_RUNAFTER_1 = ~z~That's my damn wagon!
+
+MAR1_SCARE_OUT_1 = ~z~Oh, whoa, whoa. You can't take a joke, mister.
+
+MAR1_SCARE_WAG_1 = ~z~Hey! This is your last chance to come out of this breathing!
+
+MAR1_SCARE_XTRA_1 = ~z~Get on with you!
+
+MAR1_STRAW_SIGN_1 = ~z~I bet that sign says 'Strawberry', don't it?
+
+MAR1_STRAW_SIGN_2 = ~z~I got a good feeling about this place. Been a long time.
+
+MAR1_VIS1_HANG_01 = ~z~If you got something to get, go get it.
+
+MAR1_VIS1_HANG_02 = ~z~I don't know why you're here, son.
+
+MAR1_VIS1_HANG_03 = ~z~~sl:0.0:1.8~You don't want me to think you're stupid,~sl:~go get whatever you're getting.
+
+MAR1_VISITOR1_1 = ~z~Can I help you there?
+
+MAR1_VISITOR1_2 = ~z~~sl:0.0:3.3~I got some... well, I had some...~sl:1.2~I really should go get my wagon.
+
+MAR1_VISITOR1_3 = ~z~Yep, you better go get it then.
+
+MAR1_VISITOR1_4 = ~z~Just a moment.
+
+MAR1_VISITOR2_1 = ~z~I'm starting to think there's something wrong with you, son.
+
+MAR1_VISITOR2_2 = ~z~~sl:0.0:2.5~You ever find those things, you come here with them.~sl:0.3~But if you don't, don't bother me.
+
+MAR1_WAGONFALL_01 = ~z~Damn.
+
+MAR1_WAGONFALL_02 = ~z~That didn't sound good.
+
+MAR1_WAGONFALL_03 = ~z~Oop, lost something.
+
+MAR1_WAGONFALL_04 = ~z~I guess I ain't much of a delivery boy.
+
+MAR1_WAGONFALL_05 = ~z~~sl:0.0:0.9:1~No...
+
+MAR1_WAG_DMG_1 = ~z~What have you done? Now we're stuck here.
+
+MAR1_WAITING_01 = ~z~Can we please go? I'd like to get somewhere today.
+
+MAR1_WAITING_02 = ~z~We've just given up, have we? Is that what this is?
+
+MAR1_WAITING_03 = ~z~~sl:0.0:2.8~John Marston, get this wagon moving please.~sl:0.2~The boy will be bored out of his mind.
+

@@ -1,0 +1,34 @@
+RJCK2_F_FIND = You failed to find Jack.
+
+RJCK2_F_JACK = Jack was frightened.
+
+RJCK2_F_RIVER = You failed to go to the river.
+
+RJCK2_F_RUFUS = Rufus has died.
+
+RJCK2_F_WATER = You scared the fish.
+
+RJCK2_HLP_EQRO = You can equip the fishing rod by pressing ~INPUT_SCRIPT_LB~.
+
+RJCK2_NOGUNS = While responsible for Jack, you will not be able to use any weapons.
+
+RJCK2_O_FISH = Fish with Jack
+
+RJCK2_O_FRUFU = Look for ~o~Jack~s~
+
+RJCK2_O_GRIVR = Go to the ~o~river~s~ with Jack
+
+RJCK2_O_HRUFU = Help ~f~Rufus~s~
+
+RJCK2_O_LOFOR = Look for ~o~Rufus~s~
+
+RJCK2_O_LOFOR_HIDDEN = Look for Rufus~s~
+
+RJCK2_RUFUS_BLIP = Rufus
+
+RJCK2_UC_SPIT = Spit
+
+RJCK2_UC_SUCK = Suck
+
+RJCK2_UC_SUST = Suck Venom
+

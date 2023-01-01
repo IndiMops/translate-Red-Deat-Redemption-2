@@ -1,0 +1,968 @@
+DST2ARTHCOMB_01 = ~z~Give us Colm, this is done!
+
+DST2ARTHCOMB_02 = ~z~Colm O'Driscoll, where are you?
+
+DST2ARTHCOMB_03 = ~z~None of them get out of here!
+
+DST2ARTHCOMB_04 = ~z~Clean 'em up, clean 'em out!
+
+DST2ARTHCOMB_05 = ~z~We got 'em. Close in!
+
+DST2BSNEAKA1_1 = ~z~He's down.
+
+DST2BSNEAKA2_1 = ~z~You screwed that up.
+
+DST2BSNEAKB_1 = ~z~The next two... what's the plan?
+
+DST2BSNEAKC1_1 = ~z~~sl:0.0:4.1~Keep back where they won't hear us... when I move, you move.~sl:0.4~Take 'em out at a distance.
+
+DST2BSNEAKC1_2 = ~z~I can do that.
+
+DST2BSNEAKC_1 = ~z~Let's get close to these two... make no mistakes here.
+
+DST2BSNEAKC_2 = ~z~That's what the knife's for.
+
+DST2BSNEAKC_3 = ~z~When we're there, we move at the same time.
+
+DST2CASHB_1 = ~z~Least you got something tucked away.
+
+DST2CLOSE1_1 = ~z~Follow me, alright? It ain't far.
+
+DST2CLOSE1_2 = ~z~We might'a shared a horse, but we ain't friends. Remember, I'm watching you. Every moment.
+
+DST2CLOSEC_1 = ~z~I ain't going to shop you now, come on. It'd be suicide.
+
+DST2CLOSEC_2 = ~z~You'll die, boy. But you'll lose your balls first.
+
+DST2CLOSEC_3 = ~z~Jesus Christ...
+
+DST2CLOSE_1 = ~z~This is it. The cabin's just the other side of this hill.
+
+DST2CLOSE_2 = ~z~Okay. Off your horses... let's go.
+
+DST2DECIDEA1_1 = ~z~I'm going to deal with this first feller.
+
+DST2DECIDEA1_2 = ~z~Okay, go to work.
+
+DST2DECIDEA2B_1 = ~z~I thought he was mine?
+
+DST2DECIDEA2B_2 = ~z~Change of plan.
+
+DST2DECIDEA2_1 = ~z~He's yours, Williamson.
+
+DST2DECIDEA2_2 = ~z~Okay, I got him.
+
+DST2DECIDEA_1 = ~z~You want me to take him?
+
+DST2DECIDEC1_1 = ~z~This one's mine. We need it done right.
+
+DST2DECIDEC1_2 = ~z~Go on and show us then.
+
+DST2DECIDEC2_1 = ~z~Take him quiet, Marston.
+
+DST2DECIDEC2_2 = ~z~Okay.
+
+DST2DECIDEC2_3 = ~z~Get your hands dirty for a change.
+
+DST2DECIDECJV_1 = ~z~Jesus.
+
+DST2DECIDECR_01 = ~z~What we doing?
+
+DST2DECIDECR_02 = ~z~What's the call?
+
+DST2DECIDECR_03 = ~z~Morgan.
+
+DST2DECIDEC_1 = ~z~Feller on the log... what we doing about him?
+
+DST2DIRCLIMB_1 = ~z~Save your horses, we got a climb, boys.
+
+DST2DIRCROSS_1 = ~z~Hey... hey... I-I-if I got my bearings, it's over here.
+
+DST2DIRFOREST_1 = ~z~Okay, now-now cut left up here. W-We go down the hill, into the forest.
+
+DST2DIRHILLS_1 = ~z~Those are the hills. Head for 'em.
+
+DST2DIRLEFT_1 = ~z~Veering left.
+
+DST2DIRTREES_1 = ~z~Through the trees here.
+
+DST2DIRUPROUND_1 = ~z~Now we go left... road'll take us up and round.
+
+DST2DIRUP_1 = ~z~Yeah... I know this country, take this track up through the rocks.
+
+DST2GOCABINA_1 = ~z~The boy said he'd be in the cabin, I'm gonna check. You all look out here.
+
+DST2GOCABINBR_01 = ~z~You ain't going to check the cabin, I will.
+
+DST2GOCABINBR_02 = ~z~You said you was looking for Colm?
+
+DST2GOCABINB_1 = ~z~He said he'd be hiding in the cabin.
+
+DST2GOCABINB_2 = ~z~I'm going to check it. Search out here, make sure we ain't missed anything.
+
+DST2GOCABINR_01 = ~z~Ain't you checking the cabin for Colm?
+
+DST2GOCABINR_02 = ~z~The boy said Colm'd be in the cabin.
+
+DST2GOCABIN_1 = ~z~Hey... he said Colm'd be in the cabin.
+
+DST2GOCABIN_2 = ~z~I'll check. You look out here.
+
+DST2JOHCOMB_01 = ~z~We catch you unawares?
+
+DST2JOHCOMB_02 = ~z~This is quite a hideout!
+
+DST2JOHCOMB_03 = ~z~He weren't lying, that little toad!
+
+DST2JOHCOMB_04 = ~z~Come on then. Come on!
+
+DST2JOHCOMB_05 = ~z~Don't run away from me!
+
+DST2JOHSEE_1 = ~z~What're we doing about the pisser, Morgan? One by the tree.
+
+DST2KNIVESSHOUTED_2 = ~z~~sl:0.0:1.3~Dutch said you might...~lr:0.8:2.2~I was asked to give them...~sl:0.3~and ~rp~I'm doing you the further courtesy of telling you about it.
+
+DST2KNIVESSHOUTED_4 = ~z~~sl:0.0:1.7~'Stead of hiding it somewhere,~lr:~hoping the opportunity comes up to mention it.
+
+DST2KNIVESSPOKEN_2 = ~z~~sl:0.0:1.2~Dutch said you might...~lr:1.0:1.7~I was asked to give them...~sl:0.3~and ~rp~I'm doing you the further courtesy of telling you about it.
+
+DST2KNIVESSPOKEN_4 = ~z~~sl:0.0:1.8~'Stead of hiding it somewhere,~lr:0.1~hoping the opportunity comes up to mention it.
+
+DST2KNIVES_1 = ~z~Morgan. ~rp~You got throwing knives in your saddle bag.
+
+DST2KNIVES_3 = ~z~Next time you wanna give me something, ~rp~how about you give it to me?
+
+DST2KNIVES_5 = ~z~Last goddamn favor I do you.
+
+DST2LASTONEBB_1 = ~z~We got 'em on the run.
+
+DST2LASTONEBJ_1 = ~z~That's it. They're turning tail!
+
+DST2LASTONEB_1 = ~z~Leave 'em. Colm's still here.
+
+DST2LENCOMB_01 = ~z~Your worthless O'Driscoll hides...
+
+DST2LENCOMB_02 = ~z~Come at me, you Irish bastards.
+
+DST2LENCOMB_03 = ~z~What're you hiding out in the woods for?
+
+DST2LENCOMB_04 = ~z~We caught 'em on the drink.
+
+DST2LENCOMB_05 = ~z~Die you drunk idiots!
+
+DST2MOREE2A_01 = ~z~Hold this ground!
+
+DST2MOREE2A_02 = ~z~Let them come!
+
+DST2MOREE2B_01 = ~z~Check the perimeter!
+
+DST2MOREE2B_02 = ~z~They're all around us!
+
+DST2MOREE2J_01 = ~z~There! Edge of the clearing.
+
+DST2MOREE2J_02 = ~z~You see them coming?
+
+DST2MOREEA_1 = ~z~That ain't all of them. We got more coming back!
+
+DST2MOREEB_1 = ~z~Look out... more of them. Coming out the woods!
+
+DST2MOREEJ_1 = ~z~Some fellers coming back into camp. Watch out!
+
+DST2RSC1_1 = ~z~Whoa, hold your horses there...
+
+DST2RSC1_2 = ~z~it seems the cat has got our friend here's tongue.
+
+DST2RSC1_3 = ~z~I was thinking Mr. Williamson could have a word.
+
+DST2RSC1_4 = ~z~You ready to talk boy?
+
+DST2RSC1_5 = ~z~I told you mister...
+
+DST2RSC1_6 = ~z~I told all of you.
+
+DST2RSC1_7 = ~z~I don't know nothing, okay?
+
+DST2RSC1_8 = ~z~They-They ain't no friends of mine.
+
+DST2RSC1_9 = ~z~I just been ridden with them for a while.
+
+DST2RSC1_10 = ~z~Horseshit.
+
+DST2RSC1_11 = ~z~You see, we heard that part...
+
+DST2RSC1_12 = ~z~so how about you tell the truth.
+
+DST2RSC1_13 = ~z~Dutch, what do you want me to do?
+
+DST2RSC1_14 = ~z~Hurt him.
+
+DST2RSC1_15 = ~z~So the next time he opens his mouth...
+
+DST2RSC1_16 = ~z~it is to tell us what is going on.
+
+DST2RSC1_17 = ~z~Ah...
+
+DST2RSC1_18 = ~z~who am I kidding?
+
+DST2RSC1_19 = ~z~One of O'Driscoll's boys couldn't open his mouth...
+
+DST2RSC1_20 = ~z~but he'd tell a lie.
+
+DST2RSC1_21 = ~z~Screw it.
+
+DST2RSC1_22 = ~z~Let's just have some fun...
+
+DST2RSC1_23 = ~z~geld him.
+
+DST2RSC1_24 = ~z~Oh yeah!
+
+DST2RSC1_25 = ~z~What's he doing?
+
+DST2RSC1_26 = ~z~Where's he going?
+
+DST2RSC1_27 = ~z~Oh, don't worry...
+
+DST2RSC1_28 = ~z~they're only balls boy...
+
+DST2RSC1_29 = ~z~just gonna cause you trouble.
+
+DST2RSC1_30 = ~z~You know, in Imperial Rome...
+
+DST2RSC1_31 = ~z~eunuchs was among the happiest...
+
+DST2RSC1_32 = ~z~and most loyal of courtiers.~n~~m~No, no, no, no...
+
+DST2RSC1_33 = ~z~You're kidding me right.
+
+DST2RSC1_34 = ~z~Of course.
+
+DST2RSC1_35 = ~z~You sick bastards!
+
+DST2RSC1_36 = ~z~What do you want from me?
+
+DST2RSC1_37 = ~z~Well, you are going to talk.
+
+DST2RSC1_38 = ~z~The only question is now...
+
+DST2RSC1_39 = ~z~or after we got these little fellers off?
+
+DST2RSC1_40 = ~z~Okay! Okay! Listen.
+
+DST2RSC1_41 = ~z~I know where O'Driscoll's holed up...
+
+DST2RSC1_42 = ~z~and you're right...
+
+DST2RSC1_43 = ~z~he don't like you...
+
+DST2RSC1_44 = ~z~any more than you like him.
+
+DST2RSC1_45 = ~z~He's at Six Point Cabin.
+
+DST2RSC1_46 = ~z~Aww...
+
+DST2RSC1_47 = ~z~I'll take you there...
+
+DST2RSC1_48 = ~z~serious.
+
+DST2RSC1_49 = ~z~I don't like him.
+
+DST2RSC1_50 = ~z~I mean, I like him even less than I like you.
+
+DST2RSC1_51 = ~z~No offense.
+
+DST2RSC1_52 = ~z~Oh, none taken.
+
+DST2RSC1_53 = ~z~Okay then, partner.
+
+DST2RSC1_54 = ~z~Why don't you take a few of us up there...
+
+DST2RSC1_55 = ~z~right now.
+
+DST2RSC1_56 = ~z~I got this, Dutch.
+
+DST2RSC1_57 = ~z~Should be fun.
+
+DST2RSC1_58 = ~z~Alright you...
+
+DST2RSC1_59 = ~z~come on...
+
+DST2RSC1_60 = ~z~let's go.
+
+DST2RSC1_61 = ~z~Geld him!
+
+DST2RSC2_1 = ~z~You alright?
+
+DST2RSC2_2 = ~z~Sure, thank you.
+
+DST2RSC2_3 = ~z~Colm O'Driscoll...
+
+DST2RSC2_4 = ~z~he ain't here.
+
+DST2RSC2_5 = ~z~You set us up.
+
+DST2RSC2_6 = ~z~Come here!
+
+DST2RSC2_7 = ~z~What?
+
+DST2RSC2_8 = ~z~You set us up.
+
+DST2RSC2_9 = ~z~No, I didn't.
+
+DST2RSC2_10 = ~z~You did, Colm O'Driscoll ain't here!
+
+DST2RSC2_11 = ~z~He was here, I swear, I sw...
+
+DST2RSC2_12 = ~z~If I was setting you up...
+
+DST2RSC2_13 = ~z~I-I wouldn't have saved your life.
+
+DST2RSC2_14 = ~z~It's a good point, Arthur.
+
+DST2RSC2_15 = ~z~Alright then, go on, get out of here.
+
+DST2RSC2_16 = ~z~Eh?
+
+DST2RSC2_17 = ~z~I won't kill ya.
+
+DST2RSC2_18 = ~z~I didn't set you up.
+
+DST2RSC2_19 = ~z~Get lost.
+
+DST2RSC2_20 = ~z~Get lost?
+
+DST2RSC2_21 = ~z~I'm letting you run away...
+
+DST2RSC2_22 = ~z~now go on, get out of here.
+
+DST2RSC2_23 = ~z~That's as good as killing me.
+
+DST2RSC2_24 = ~z~Out there...
+
+DST2RSC2_25 = ~z~without you...
+
+DST2RSC2_26 = ~z~Colm O'Driscoll's gonna lose his mind about this.
+
+DST2RSC2_27 = ~z~So?
+
+DST2RSC2_28 = ~z~So I'm one of you now.
+
+DST2RSC2_29 = ~z~Give me a break.
+
+DST2RSC2_30 = ~z~Alright then.
+
+DST2RSC2_31 = ~z~But I'm warning you...
+
+DST2RSC2_32 = ~z~Oh, I know.
+
+DST2RSC2_33 = ~z~Come on, let's get to camp.
+
+DST2RSC2_34 = ~z~So you got the cash then?
+
+DST2RSC2_35 = ~z~What cash?
+
+DST2RSC2_36 = ~z~Yeah, there's usually some cash...
+
+DST2RSC2_37 = ~z~in the chimney.
+
+DST2RSC2_38 = ~z~I'll check it.
+
+DST2RSC2_39 = ~z~Rest of you boys get to camp, quick.
+
+DST2RSC2_40 = ~z~See, Arthur...
+
+DST2RSC2_41 = ~z~I ain't so bad.
+
+DST2RSC2_42 = ~z~Hey, Bill...
+
+DST2RSC2_43 = ~z~you tell Dutch, old Kieran ain't worth killing...
+
+DST2RSC2_44 = ~z~just yet.
+
+DST2RSC2_45 = ~z~Yeah, right you are.
+
+DST2RSC3_1 = ~z~The cabin's in the clearing down there.
+
+DST2RSC3_2 = ~z~There'll be a bunch of fellers hiding out there too.
+
+DST2RSC3_3 = ~z~Are these fellers armed?
+
+DST2RSC3_4 = ~z~Armed.
+
+DST2RSC3_5 = ~z~Drunk.
+
+DST2RSC3_6 = ~z~Wary of strangers.
+
+DST2RSC3_7 = ~z~Yup.
+
+DST2RSC3_8 = ~z~And Colm O'Driscoll?
+
+DST2RSC3_9 = ~z~Oh, he'll be holed up in his cabin.
+
+DST2RSC3_10 = ~z~Be passed out, booze blind, likely as not.
+
+DST2RSC3_11 = ~z~Over there...
+
+DST2RSC3_12 = ~z~someone's coming.
+
+DST2RSC3_13 = ~z~So uh, who's gonna tell him we ain't got nothing for the pot?
+
+DST2RSC3_14 = ~z~Let...
+
+DST2RSC3_15 = ~z~me think.
+
+DST2RSC3_16 = ~z~Feller that spooked the game, I reckon.
+
+DST2RSC3_17 = ~z~I'm gonna drain it...
+
+DST2RSC3_18 = ~z~I-I'll catch up.
+
+DST2RSC3_19 = ~z~Nah, we ain't gonna fall for that...
+
+DST2RSC3_20 = ~z~we're gonna wait, so you can tell him yourself.
+
+DST2RSC3_21 = ~z~Yeah, yeah, yeah...
+
+DST2RSC3_22 = ~z~If...
+
+DST2RSC3_23 = ~z~anyone's actually gonna shoot the messenger...
+
+DST2RSC3_24 = ~z~it'd be that mean son of a bitch.
+
+DST2RSC3_25 = ~z~Umm... yes, sir.
+
+DST2RSC3_26 = ~z~Come on, shake it off.
+
+DST2RSC3_27 = ~z~Shh...
+
+DST2RSC3_28 = ~z~come on.
+
+DST2TURN_1 = ~z~Hey, we're real close. I'd leave your horses the other side of this clearing...
+
+DST2WAITSIG_1 = ~z~Wait on my mark... I'm going to take a look at these boys.
+
+DST2WAITSIG_2 = ~z~Sure thing.
+
+DST2_AADV_1 = ~z~Let's get closer.
+
+DST2_AATKSTART_1 = ~z~It's on. We move quick, we move hard!
+
+DST2_ANOMOVE_01 = ~z~~sl:0.6:0.0~He ain't goin' to piss forever.
+
+DST2_ANOMOVE_02 = ~z~Come on, let's go.
+
+DST2_ANPLAN_01 = ~z~Get to it then...
+
+DST2_ANPLAN_02 = ~z~You moving or not?
+
+DST2_ANPLAN_03 = ~z~What are you waiting for?
+
+DST2_ANRSPND_01 = ~z~You got lead on this. What're we doing?
+
+DST2_ANRSPND_02 = ~z~Make a call, won't you?
+
+DST2_ANRSPND_03 = ~z~We need orders.
+
+DST2_ANTAG1_1 = ~z~You got some speaking to do of your own... about that old gang of yours.
+
+DST2_ANTAG1_2 = ~z~I said... I told you... I don't know nothing.
+
+DST2_ANTAG1_3 = ~z~That's what I thought.
+
+DST2_ANTAG2_1 = ~z~Speak! Don't cry, boy. Speak. About your gang.
+
+DST2_ANTAG2_2 = ~z~~sl:3.5:2.0:1~I can't...
+
+DST2_ANTAG2_3 = ~z~Boy...
+
+DST2_ANTAG3_1 = ~z~I said... give up the information...
+
+DST2_ANTAG3_2 = ~z~You don't understand...
+
+DST2_ASOEND_01 = ~z~Give up, O'Driscolls. We got you beat!
+
+DST2_ASOEND_02 = ~z~You stay here, you're dead men!
+
+DST2_ASOEND_03 = ~z~Run and hide, if you know what's good for you!
+
+DST2_ATTACK_1 = ~z~Time to move on'em. You ready?
+
+DST2_ATTACK_2 = ~z~As I'll ever be.
+
+DST2_ATTACK_3 = ~z~Let's go.
+
+DST2_BEARLYATK_1 = ~z~Now we got a real fight... come on!
+
+DST2_BILLGUN_1 = ~z~I'll get my guns off my horse and I'm ready.
+
+DST2_BILLGUN_2 = ~z~Easy, Bill. Quiet.
+
+DST2_BILLKNIFE_1 = ~z~You gonna get them knives?
+
+DST2_BILLKNIFE_2 = ~z~I said easy.
+
+DST2_BLOOT_01 = ~z~You got supplies, you drunk dead bastard.
+
+DST2_BLOOT_02 = ~z~What you holding, O'Driscoll?
+
+DST2_BLOOT_03 = ~z~Give me some of that Irish gold.
+
+DST2_CAMP_01 = ~z~Hey. There, there. You see?
+
+DST2_CAMP_02 = ~z~Just over the ridge.
+
+DST2_CAMP_03 = ~z~Come on.
+
+DST2_GRD4TURNS_1 = ~z~Come on. Get down this hill, or I'll pull ya down it.
+
+DST2_GRD4WAITS_01 = ~z~Hurry up already.
+
+DST2_GRD4WAITS_02 = ~z~We're waiting.
+
+DST2_GRD4WAITS_03 = ~z~Sooner we get this over with...
+
+DST2_GRD7PISSR_01 = ~z~Steady on, just a minute.
+
+DST2_GRD7PISSR_02 = ~z~A moment of peace, give me that.
+
+DST2_GRD7PISS_1 = ~z~If the old man loses it, I won't get another chance in ages.
+
+DST2_GRD7PISS_2 = ~z~I'll be stood guard duty, sun up to sun down, soiling my drawers on the spot.
+
+DST2_JASKPLAN_1 = ~z~Okay, now what? We're at the perimeter.
+
+DST2_JBATK_1 = ~z~How you doing, O'Driscolls?
+
+DST2_JBATK_2 = ~z~Glad to see ya.
+
+DST2_JDWNHILL_1 = ~z~Now stay here, don't you damn move.
+
+DST2_JEARLYATK_1 = ~z~Guess they know we're here. Let's get 'em!
+
+DST2_JGETDOWN_1 = ~z~Okay, get down.
+
+DST2_JGUNK_01 = ~z~Hush... hush now...
+
+DST2_JGUNK_02 = ~z~You know what's really quiet? A knife.
+
+DST2_JGUNK_03 = ~z~Don't move.
+
+DST2_JGUNK_04 = ~z~We're here... we don't need nothing else from you.
+
+DST2_JHASK1_1 = ~z~You hold him there. Don't give him a chance.
+
+DST2_JHASK1_2 = ~z~Don't worry. I won't.
+
+DST2_JHASK2_1 = ~z~You got him?
+
+DST2_JHASK2_2 = ~z~I got him.
+
+DST2_JHURRY_01 = ~z~Arthur.
+
+DST2_JHURRY_02 = ~z~You seen something?
+
+DST2_JHURRY_03 = ~z~Come on, he's showing us.
+
+DST2_JLOOT_01 = ~z~What you got, O'Driscoll?
+
+DST2_JLOOT_02 = ~z~Give it up.
+
+DST2_JLOOT_03 = ~z~Now, what you stashing in here?
+
+DST2_JMENTK_1 = ~z~I left our guide up there. He's meek as a little lamb.
+
+DST2_JMENTK_2 = ~z~He better be.
+
+DST2_JOHNPSST_01 = ~z~
+
+DST2_JOHNPSST_02 = ~z~Over here.
+
+DST2_JOHNPSST_03 = ~z~Arthur.
+
+DST2_JTAKEDWN_1 = ~z~Good work. We moving on the camp?
+
+DST2_KBEGS_01 = ~z~I didn't move... please.
+
+DST2_KBEGS_02 = ~z~I ain't made a sound...
+
+DST2_KBEGS_03 = ~z~Colm's down there, I promise...
+
+DST2_KBEGS_04 = ~z~Like I told you... O'Driscolls. That was the deal.
+
+DST2_KBEGS_05 = ~z~Ain't ya gonna deal with them?
+
+DST2_KBEG_01 = ~z~Help me... speak to them for me...
+
+DST2_KBEG_02 = ~z~Put in a good word, would you?
+
+DST2_KBEG_03 = ~z~Please... come on, you brought me in, help me.
+
+DST2_KBEG_04 = ~z~Talk to them... to Dutch.
+
+DST2_KBEG_05 = ~z~My arms is going to fall off...
+
+DST2_KBEG_06 = ~z~I ain't cleaned myself in weeks...
+
+DST2_KBEG_07 = ~z~Mercy... come on... mercy...
+
+DST2_KBEG_08 = ~z~Please...
+
+DST2_KBEG_09 = ~z~When's this going to end...
+
+DST2_KBEG_10 = ~z~Oh Lord... please. End it...
+
+DST2_KIE_AFTER_01 = ~z~I didn't know they'd be so many here...
+
+DST2_KIE_AFTER_02 = ~z~I didn't lie to you... you see?
+
+DST2_KIE_AFTER_03 = ~z~It's just like I said, ain't it?
+
+DST2_KIE_AFTER_04 = ~z~I knew a few of these...
+
+DST2_KIE_ATTACK_01 = ~z~Protect me!
+
+DST2_KIE_ATTACK_02 = ~z~They know I led you here!
+
+DST2_KIE_ATTACK_03 = ~z~What the hell?
+
+DST2_KIE_ATTACK_04 = ~z~Shit... shit...
+
+DST2_KIE_ATTACK_05 = ~z~They know it was me!
+
+DST2_KIE_CABIN_01 = ~z~Ain't you checking the cabin?
+
+DST2_KIE_CABIN_02 = ~z~I told you, he'll be in the cabin.
+
+DST2_KIE_LOOT_01 = ~z~Shit.
+
+DST2_KIE_LOOT_02 = ~z~I'll take what I can get.
+
+DST2_KIE_LOOT_03 = ~z~Might have something on him...
+
+DST2_KIE_LOOT_04 = ~z~Just gonna check this guy...
+
+DST2_KMUFFL_01 = ~z~
+
+DST2_KMUFFL_02 = ~z~
+
+DST2_KMUFFL_03 = ~z~
+
+DST2_MNTUP_1 = ~z~He taking us to Colm?
+
+DST2_MNTUP_2 = ~z~That's what he says. Come on.
+
+DST2_MNTUP_3 = ~z~I'm taking you to him. Look, I-I-I'll give you more directions when we're close,
+
+DST2_MNTUP_4 = ~z~but if I know where we are, it's up past Valentine.
+
+DST2_MNTUP_5 = ~z~Alright, I'll lead.
+
+DST2_NORIDE_01 = ~z~We riding?
+
+DST2_NORIDE_02 = ~z~Let's go if we gonna go.
+
+DST2_NORIDE_03 = ~z~Well, c'mon on then.
+
+DST2_PLAN1SHOUTED_3 = ~z~but... ~rp~if it's what he says it is... ~rp~and Colm O'Driscoll's here... we can end years of fighting. Here and now.
+
+DST2_PLAN1SPOKEN_3 = ~z~but ~rp~if it's what he says it is... ~rp~and Colm O'Driscoll's here... we can end years of fighting. Here and now.
+
+DST2_PLAN1_1 = ~z~Boys, we're almost on 'em.
+
+DST2_PLAN1_2 = ~z~Now... ~rp~who knows if this son of a bitch we got with us is talking true...
+
+DST2_PLAN1_4 = ~z~Amen to that.
+
+DST2_PLAN1_5 = ~z~Hear, hear.
+
+DST2_PLAN1_6 = ~z~I swear, this is where he...
+
+DST2_PLAN1_7 = ~z~Shut up.
+
+DST2_PLAN2SHOUTED_1 = ~z~We're going in quiet, ~rp~taking them out as we find 'em, ~rp~trying not to set things off.
+
+DST2_PLAN2SHOUTED_2 = ~z~But if we do... ~rp~we move quick and hard, ~rp~we settle this like we know how. ~rp~Okay?
+
+DST2_PLAN2SPOKEN_1 = ~z~We're going in quiet, ~rp~taking them out as we find 'em,~rp~ trying not to set things off.
+
+DST2_PLAN2SPOKEN_2 = ~z~But if we do... ~rp~we move quick and hard. ~rp~We settle this like we know how. ~rp~Okay?
+
+DST2_PLAN2_3 = ~z~Okay by me.
+
+DST2_PLAN2_4 = ~z~With you, Morgan.
+
+DST2_PLAN2_5 = ~z~Alright then.
+
+DST2_RCHAT1AC_1 = ~z~Morgan. You didn't tell me what the O'Driscoll smelled like before you asked me to ride with him.
+
+DST2_RCHAT1AC_2 = ~z~That's because you wasn't asked to ride with us, you was told.
+
+DST2_RCHAT1AC_3 = ~z~I smell like a stall ain't been cleaned out in a month...
+
+DST2_RCHAT1AC_4 = ~z~I smell like that 'cause you had me tied up there about as long.
+
+DST2_RCHAT1AC_5 = ~z~You'd be smelling worse if we'd done what some was arguing for.
+
+DST2_RCHAT1AC_6 = ~z~Granted... granted... I was in with a bad lot, I'm trying to make amends... if I can.
+
+DST2_RCHAT1AC_7 = ~z~You don't know the half...
+
+DST2_RCHAT1AC_8 = ~z~I do know Colm killed Dutch's sweetheart...
+
+DST2_RCHAT1AC_9 = ~z~And that's the man you chose to ride with. A woman killer.
+
+DST2_RCHAT1AC_10 = ~z~Well, it was after he'd killed his brother... and the way I understood it...
+
+DST2_RCHAT1AC_11 = ~z~Making excuses for the man... and his crimes. What kind of trap you leading us into, boy?
+
+DST2_RCHAT1AC_12 = ~z~I ain't, I'm trying to help, honest.
+
+DST2_RCHAT1AC_13 = ~z~One thing goes wrong... one thing other than you smelling funny... you're the first O'Driscoll we'll shoot.
+
+DST2_RCHAT1AC_14 = ~z~
+
+DST2_RCHAT1AC_15 = ~z~And quit breathing on my neck.
+
+DST2_RCHAT1_1 = ~z~Sharing saddle with an O'Driscoll. Who'd have thought.
+
+DST2_RCHAT1_2 = ~z~How many times I gotta say? I ain't an O'Driscoll.
+
+DST2_RCHAT1_3 = ~z~You sure look like one and... you smell like... goddamn. You smell like one too.
+
+DST2_RCHAT1_4 = ~z~I smell like horse shit.
+
+DST2_RCHAT1_5 = ~z~That's right. Boy, are you high.
+
+DST2_RCHAT2_1 = ~z~You know... you all ain't that different from the O'Driscolls.
+
+DST2_RCHAT2_2 = ~z~What did you just say?
+
+DST2_RCHAT2_3 = ~z~I been watching you all these weeks and, uhh...
+
+DST2_RCHAT2_4 = ~z~You been tied to a tree... you don't know nothing about this gang...
+
+DST2_RCHAT2_5 = ~z~Yeah, well, I'd... I'd say you don't know much about the O'Driscolls...
+
+DST2_RCHAT2_6 = ~z~but maybe I know more about you than you know about them... and I know all about them, so...
+
+DST2_RCHAT2_7 = ~z~Tell us then... how we like those mongrel dogs?
+
+DST2_RCHAT2_8 = ~z~You're outlawed like them... you're out to survive like them... you live rough... you live hard...
+
+DST2_RCHAT2_9 = ~z~fighting the law... nature... you're out for yourselves...
+
+DST2_RCHAT2_10 = ~z~See? This is why you're an O'Driscoll, O'Driscoll. You're out to survive... we're out to live... free.
+
+DST2_RCHAT2_11 = ~z~Colm's a sneak thief and a killer... Dutch is... Dutch is more like a teacher.
+
+DST2_RCHAT2_12 = ~z~From where I been, you just look the same is all...
+
+DST2_RCHAT2_13 = ~z~Then you looked, but you ain't seen...
+
+DST2_RCHAT2_14 = ~z~John? Shut that boy up.
+
+DST2_RCHAT2_15 = ~z~Enough out of you.
+
+DST2_ROB_DIS_1A_1 = ~z~And then I said, and then I said, drop the gun and you won't get hurt.
+
+DST2_ROB_DIS_1A_2 = ~z~And then dropped it, didn't he?
+
+DST2_ROB_DIS_1A_3 = ~z~He dropped it. And I opened up on him anyway.
+
+DST2_ROB_DIS_1A_4 = ~z~Shot him full of holes. He's got more holes in him than an SD Bordella.
+
+DST2_ROB_DIS_1A_5 = ~z~Can you believe that stupid son of a bitch buy any of my crap? I can't believe it.
+
+DST2_ROB_DIS_1A_6 = ~z~
+
+DST2_ROB_DIS_1A_7 = ~z~
+
+DST2_ROB_DIS_1B_1 = ~z~~sl:3.0:5.2:1~How much we get then? Anyone of you fools think about counting it, huh?
+
+DST2_ROB_DIS_1B_2 = ~z~~sl:0.0:4.0:1~I'm too drunk to count anything... besides my drinks.
+
+DST2_ROB_DIS_1B_3 = ~z~~sl:0.2:3.9:1~You're so drunk... that you'd probably count double.
+
+DST2_ROB_DIS_1B_4 = ~z~~sl:5.2:7.0:1~It ain't being drunk is his problem, it's being dumb. Once it gets past his fingers the poor boy's lost!
+
+DST2_ROB_DIS_1B_5 = ~z~~sl:0.0:1.1:1~Hey...
+
+DST2_ROB_DIS_1B_6 = ~z~~sl:3.6:3.1~It don't matter how much we got, long as we got it...~sl:1.6:0.9:1~Right boys?
+
+DST2_ROB_DIS_1B_7 = ~z~
+
+DST2_ROB_DIS_1B_8 = ~z~
+
+DST2_ROB_DIS_2A_1 = ~z~We showed that town, didn't we?
+
+DST2_ROB_DIS_2A_2 = ~z~~sl:0.0:0.5:1~Yep.
+
+DST2_ROB_DIS_2A_3 = ~z~They ain't goin' to forget us.
+
+DST2_ROB_DIS_2A_4 = ~z~~sl:0.0:1.8:1~Not in a hurry they won't.
+
+DST2_ROB_DIS_2A_5 = ~z~~sl:2.5:4.8:1~D'you think they know my name? I turned most of'em into buzzard bait,
+
+DST2_ROB_DIS_2A_6 = ~z~~sl:0.0:0.7~didn't I?~sl:1.4:5.0:1~Everyone knows the O'Driscolls. They run and ride when they hear us coming.
+
+DST2_ROB_DIS_2A_7 = ~z~
+
+DST2_ROB_DIS_2A_8 = ~z~~sl:2.7:5.7:1~Mark it, boys. One of these days they're gonna know my name too.~sl:0.2~That's right.
+
+DST2_ROB_DIS_2A_9 = ~z~
+
+DST2_ROB_DIS_2B_1 = ~z~~sl:0.0:5.9:1~Hey... what... how much did we get in the end, anyway, huh?
+
+DST2_ROB_DIS_2B_2 = ~z~It don't matter how much we got.
+
+DST2_ROB_DIS_2B_3 = ~z~
+
+DST2_ROB_DIS_2B_4 = ~z~What matters is how many fools we left for the vultures.
+
+DST2_ROB_DIS_2B_5 = ~z~~sl:0.0:2.6:1~That's what gets ya in the Times Tribune.
+
+DST2_ROB_DIS_2B_6 = ~z~
+
+DST2_ROB_DIS_2B_7 = ~z~~sl:3.4:5.6:1~Th-the more column inches we get, the more star-toters they'll send after us,you dolts.
+
+DST2_ROB_DIS_2B_8 = ~z~~sl:0.0:4.9:1~That's how we like it... more lawdogs to get our guns going.
+
+DST2_ROB_DIS_2B_9 = ~z~
+
+DST2_ROB_DIS_2B_10 = ~z~
+
+DST2_ROB_DIS_2B_11 = ~z~
+
+DST2_ROB_DIS_2B_12 = ~z~
+
+DST2_WMN_BO_1_01 = ~z~They're trying to catch us with our pants down. Look out!
+
+DST2_WMN_BO_1_02 = ~z~Look it! They nearly caught me flagrante.
+
+DST2_WMN_LAP_1 = ~z~You hear that? That getting you hot, huh?
+
+DST2_WMN_LAP_2 = ~z~~sl:0.0:4.3:1~If you boys are rich, I'll be hot as you like.
+
+DST2_WMN_LAP_3 = ~z~~sl:0.8:3.6:1~You like running with bad men, little lady?
+
+DST2_WMN_LAP_4 = ~z~~sl:0.0:3.6:1~I like any man, as long as he's paying.
+
+DST2_WMN_LAP_5 = ~z~~sl:1.9:1.0:1~"Payin'..."
+
+DST2_WMN_RCT1_1 = ~z~Amen...
+
+DST2_WMN_RCT1_2 = ~z~That's right.
+
+DST2_WMN_RCT1_3 = ~z~
+
+DST2_WMN_RCT1_4 = ~z~O'Driscolls!
+
+DST2_WMN_RCT1_5 = ~z~~sl:0.0:2.9:1~O'Driscolls, that's right!
+
+DST2_WMN_RCT1_6 = ~z~~sl:0.4:0.0:1~Pow, pow, pow.
+
+DST2_WMN_RCT1_7 = ~z~~sl:0.0:3.6:1~So... how much you get, huh?
+
+DTS2_BILLPSST_01 = ~z~
+
+DTS2_BILLPSST_02 = ~z~Hey.
+
+DTS2_BILLPSST_03 = ~z~Morgan.
+
+DTS2_TALKBILLSHOUTED_7 = ~z~~sl:0.0:3.8~How wise you think beating a man to death woulda been...~sl:0.3~~rp~with all them folks looking on? ~rp~When we supposed to be laying low?
+
+DTS2_TALKBILLSHOUTED_9 = ~z~I'll take it... ~rp~after all, you are an authority on not being clever.
+
+DTS2_TALKBILLSHOUTED_10 = ~z~~sl:0.0:6.7~The captive gets a little cough in his throat, ~rp~looks at you with some big doe eyes...~sl:0.2~~rp~you gonna let Colm go free?
+
+DTS2_TALKBILLSHOUTED_14 = ~z~~sl:0.0:2.4~Why do you try and vex me, Morgan?~sl:0.8~~rp~You take pleasure in my torment?
+
+DTS2_TALKBILLSHOUTED_15 = ~z~~sl:1.4:0.0~Everyone does, Bill. ~rp~Every one of us.
+
+DTS2_TALKBILLSPOKEN_7 = ~z~~sl:0.0:3.3~How wise you think beating a man to death woulda been...~sl:0.2~~rp~with all them folks looking on? ~rp~When we supposed to be laying low?
+
+DTS2_TALKBILLSPOKEN_9 = ~z~~sl:0.9:0.0~I'll take it... ~rp~after all, you are an authority on not being clever.
+
+DTS2_TALKBILLSPOKEN_10 = ~z~~sl:0.0:5.4~The captive gets a little cough in his throat, ~rp~looks at you with some big doe eyes...~sl:0.4~~rp~you gonna let Colm go free?
+
+DTS2_TALKBILLSPOKEN_14 = ~z~~sl:0.0:2.3~Why do you try and vex me, Morgan?~sl:0.6~~rp~You take pleasure in my torment?
+
+DTS2_TALKBILLSPOKEN_15 = ~z~Everyone does, Bill. ~rp~Every one of us.
+
+DTS2_TALKBILL_1 = ~z~Williamson, Williamson.
+
+DTS2_TALKBILL_2 = ~z~What, Morgan?
+
+DTS2_TALKBILL_3 = ~z~Just... to say, ~rp~well... ~rp~even you can't screw up killing O'Driscolls.
+
+DTS2_TALKBILL_4 = ~z~Funny. ~rp~And I guess you're good here...
+
+DTS2_TALKBILL_5 = ~z~unless some soft-handed feller comes along ~rp~and tells you you've gone too far.
+
+DTS2_TALKBILL_6 = ~z~What you talking about? ~rp~Fighting that big bullock up in Valentine?
+
+DTS2_TALKBILL_8 = ~z~I saw your eyes, Morgan. ~rp~You didn't go clever, you went soft.
+
+DTS2_TALKBILL_11 = ~z~I was fighting Colm when you was pretending to fight Indians.
+
+DTS2_TALKBILL_12 = ~z~Don't call my record into question.
+
+DTS2_TALKBILL_13 = ~z~It's your abilities that call your "record into question", Bill.
+
+DTS2_TALKJOHNSHOUTED_9 = ~z~~sl:0.5~You see, O'Driscoll? ~rp~If this is how he treats his friends, imagine what he does to his enemies.
+
+DTS2_TALKJOHNSHOUTED_13 = ~z~Keep that in mind, young feller. Right at the forefront of it.
+
+DTS2_TALKJOHNSPOKEN_9 = ~z~You see, O'Driscoll? ~rp~If this is how he treats his friends, imagine what he does to his enemies.
+
+DTS2_TALKJOHNSPOKEN_13 = ~z~Keep that in your mind, young feller. Right at the forefront of it.
+
+DTS2_TALKJOHN_1 = ~z~How you holding up, John?
+
+DTS2_TALKJOHN_2 = ~z~Fine. ~rp~Still ain't right, but I'm fine.
+
+DTS2_TALKJOHN_3 = ~z~You damn well should be after all that bed rest.
+
+DTS2_TALKJOHN_4 = ~z~Hey, alright, ~rp~Abigail wouldn't let me up... you know her... ~rp~she won't be reasoned with.
+
+DTS2_TALKJOHN_5 = ~z~Well, ~rp~when you was having a failure of reason... and hiding behind your woman...
+
+DTS2_TALKJOHN_6 = ~z~we were getting shot at.
+
+DTS2_TALKJOHN_7 = ~z~And ~rp~I'd do the same for you... if you was in a bad way...
+
+DTS2_TALKJOHN_8 = ~z~I hope so, but I fear you don't know how to help anyone... excepting yourself.
+
+DTS2_TALKJOHN_10 = ~z~I got an inkling of what you all do to your enemies when you put those gelding tongs to my parts.
+
+DTS2_TALKJOHN_11 = ~z~Bill, you still got those tongs?
+
+DTS2_TALKJOHN_12 = ~z~I got a knife. ~rp~Won't be so clean, but it'll do the job.
+
+DTS2_TALKJOHN_14 = ~z~I swear... I promise. ~rp~I'm taking you to Colm as best as I can. ~rp~You'll see. I'll make good.
+
+RDST2_RSC3_P2PU_1 = ~z~That's the last time I go hunting with the pair of you.
+
+RDST2_RSC3_P2PU_2 = ~z~Three hours and a whole bag of nothing. Colm ain't gonna be happy.
+
+RDST2_RSC3_P2PU_3 = ~z~He sure ain't.
+
+RDTS2_RSC1_IG1_1 = ~z~Let's both hope you ain't trying to trick us, O'Driscoll.
+
+RDTS2_RSC1_IG1_2 = ~z~~sl:0.7:0.0~I ain't no O'Driscoll.
+
+RDTS2_RSC1_IG1_3 = ~z~But you sure as shit was.
+
+RDTS2_RSC1_IG1_4 = ~z~John, Bill, come here...
+
+RDTS2_RSC1_IG1_5 = ~z~~sl:0.2:0.0~we got a social call needs making.
+
+RDTS2_RSC1_IG1_6 = ~z~Where we heading?
+
+RDTS2_RSC1_IG1_7 = ~z~~sl:0.9:0.0~Up into the hills behind Valentine. I'll show you.
+
+RDTS2_RSC1_IG1_8 = ~z~John, you take this little rattlesnake with you... any nonsense, kill him.
+
+RDTS2_RSC1_IG1_9 = ~z~Sure.
+
+RDTS2_RSC1_IG1_10 = ~z~We're gonna pay your buddies our respects.
+

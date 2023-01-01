@@ -1,0 +1,540 @@
+GUA2_BILLCHAIN_01 = ~z~Just hold on.
+
+GUA2_BILLCHAIN_02 = ~z~I'm trying.
+
+GUA2_BILLCHAIN_03 = ~z~I'm going as fast as I can.
+
+GUA2_BILLCHAIN_04 = ~z~I know, damn it.
+
+GUA2_BILLCHAIN_05 = ~z~I'm working on it.
+
+GUA2_BILLCHAIN_06 = ~z~Just give me a damn second, will you?
+
+GUA2_DUTCHCHAIN_1 = ~z~We need to get these chains off, come on!
+
+GUA2_DUTCHHOLD_1 = ~z~Hold them off us, Arthur.
+
+GUA2_EXT_1 = ~z~Come on...
+
+GUA2_EXT_2 = ~z~follow me.
+
+GUA2_EXT_3 = ~z~Quick!
+
+GUA2_EXT_4 = ~z~What you doing here?
+
+GUA2_EXT_5 = ~z~I have no idea...
+
+GUA2_EXT_6 = ~z~running from somebody or something, I guess.
+
+GUA2_EXT_7 = ~z~Aren't we all.
+
+GUA2_EXT_8 = ~z~Hercule Fontaine.
+
+GUA2_EXT_9 = ~z~Dutch van der Linde...
+
+GUA2_EXT_10 = ~z~these drowned rats are Micah, Bill and Arthur.
+
+GUA2_EXT_11 = ~z~Okay.
+
+GUA2_EXT_12 = ~z~Well, Fussar will be desperate to find you.
+
+GUA2_EXT_13 = ~z~We must be very careful.
+
+GUA2_EXT_14 = ~z~So, who is this Fussar?
+
+GUA2_EXT_15 = ~z~A tyrant, driven by nothing but power and greed.
+
+GUA2_EXT_16 = ~z~Our only purpose is to work ourselves to death...
+
+GUA2_EXT_17 = ~z~to make him rich.
+
+GUA2_EXT_18 = ~z~Leon wants the people to stand up to Fussar...
+
+GUA2_EXT_19 = ~z~but most are too afraid.
+
+GUA2_EXT_20 = ~z~And you?
+
+GUA2_EXT_21 = ~z~I am not from here.
+
+GUA2_EXT_22 = ~z~I bring things in and off the islands...
+
+GUA2_EXT_23 = ~z~behind Colonel Fussar's back.
+
+GUA2_EXT_24 = ~z~Let's, uh...
+
+GUA2_EXT_25 = ~z~let's rest a moment.
+
+GUA2_EXT_26 = ~z~Down there is Aguadulces. Fussar's compound.
+
+GUA2_EXT_27 = ~z~The sugar cane these poor men kill themselves farming...
+
+GUA2_EXT_28 = ~z~gets processed in that factory there.
+
+GUA2_EXT_29 = ~z~They're little more than slaves shipped in from other islands.
+
+GUA2_EXT_30 = ~z~A group escaped yesterday into the jungle...
+
+GUA2_EXT_31 = ~z~hoping to find a way back to their homes.
+
+GUA2_EXT_32 = ~z~Now Fussar's men are out hunting them down.
+
+GUA2_EXT_33 = ~z~That old fort, Cinco Torres...
+
+GUA2_EXT_34 = ~z~my men and I use that as a hideout when we are here.
+
+GUA2_EXT_35 = ~z~Come on...
+
+GUA2_EXT_36 = ~z~I know somewhere you men can rest.
+
+GUA2_EXT_37 = ~z~Can we trust you?
+
+GUA2_EXT_38 = ~z~I don't see you have any choice.
+
+GUA2_EXT_39 = ~z~I am the only one who can arrange a boat for you.
+
+GUA2_EXT_40 = ~z~But...
+
+GUA2_EXT_41 = ~z~I need something in return.
+
+GUA2_EXT_42 = ~z~Help Leon with that group of escaped workers...
+
+GUA2_EXT_43 = ~z~and then come meet me at the fort.
+
+GUA2_EXT_44 = ~z~You help us get back our friend...
+
+GUA2_EXT_45 = ~z~and get outta here...
+
+GUA2_EXT_46 = ~z~we will do everything we can.
+
+GUA2_EXT_47 = ~z~Thank you.
+
+GUA2_EXT_48 = ~z~Gracias.
+
+GUA2_EXT_49 = ~z~If your friend is still alive...
+
+GUA2_EXT_50 = ~z~they will have him at Fussar's compound.
+
+GUA2_EXT_51 = ~z~There is a cave hidden below the cliffs.
+
+GUA2_EXT_52 = ~z~It will lead you right there.
+
+GUA2_EXT_53 = ~z~Thank you.
+
+GUA2_EXT_54 = ~z~The workers are somewhere in the jungle.
+
+GUA2_EXT_55 = ~z~Hopefully we can get to them before Fussar does.
+
+GUA2_EXT_56 = ~z~Of course.
+
+GUA2_EXT_57 = ~z~Gentlemen, goodbye.~n~~m~Well...
+
+GUA2_EXT_58 = ~z~if this is a tropical paradise...
+
+GUA2_EXT_59 = ~z~so far it ain't up to much.
+
+GUA2_EXT_60 = ~z~I'll go scope the...
+
+GUA2_EXT_61 = ~z~entrance to that cave.
+
+GUA2_EXT_62 = ~z~Arthur...
+
+GUA2_EXT_63 = ~z~I need to get some rest.
+
+GUA2_EXT_64 = ~z~Well you're right.
+
+GUA2_EXT_65 = ~z~We all need to relax.
+
+GUA2_EXT_66 = ~z~What a mess.
+
+GUA2_EXT_67 = ~z~I...
+
+GUA2_EXT_68 = ~z~am so sorry...
+
+GUA2_EXT_69 = ~z~boys.
+
+GUA2_EXT_70 = ~z~Get some sleep, Dutch.
+
+GUA2_EXT_71 = ~z~Micah, guard this spot.
+
+GUA2_EXT_72 = ~z~Bill...
+
+GUA2_EXT_73 = ~z~do some more scouting.
+
+GUA2_EXT_74 = ~z~Carefully.
+
+GUA2_GETMOVING_01 = ~z~That means move! You've got a long walk ahead of you.
+
+GUA2_GETMOVING_02 = ~z~Let's go! We got another group rounded up down the way.
+
+GUA2_GETUP_1 = ~z~~sl:0.9~Where the hell am I?
+
+GUA2_GUNCHAT1_1 = ~z~Thanks for getting us out of there.
+
+GUA2_GUNCHAT1_2 = ~z~Don't thank me yet.
+
+GUA2_GUNCHAT2_1 = ~z~Nice island you got here.
+
+GUA2_GUNCHAT2_2 = ~z~It's not my island.
+
+GUA2_GUNCHAT3_1 = ~z~This is a hell of a welcome.
+
+GUA2_GUNCHAT4_1 = ~z~So who are these bastards?
+
+GUA2_GUNCHAT4_2 = ~z~I will explain. Just not right now.
+
+GUA2_GUNCHAT5_1 = ~z~See, they are not used to people shooting back.
+
+GUA2_GUN_LEON_01 = ~t~In Spanish: Sons of bitches!
+
+GUA2_GUN_LEON_02 = ~t~In Spanish: Fussar can't defeat us!
+
+GUA2_GUN_LEON_03 = ~t~In Spanish: You cowards!
+
+GUA2_IG1_1 = ~z~I don't get your drift, mister, uh?
+
+GUA2_IG1_2 = ~z~~sl:2.3:0.0~Levi Simon. ~rp~Senior Overseer for Alberto Fussar.
+
+GUA2_IG1_3 = ~z~We run the third most productive sugar plantation in the Northern Caribbean.
+
+GUA2_IG1_4 = ~z~Of course, ~rp~where there's money to be made, there's trouble.
+
+GUA2_IG1_5 = ~z~What sort of trouble?
+
+GUA2_IG1_6 = ~z~~sl:0.0:1.6~Oh, the usual sort.~lr:0.6~People wanting what ain't theirs, and others telling them to take it.
+
+GUA2_IG1_7 = ~z~I don't get you?
+
+GUA2_IG1_8 = ~z~Labor troubles. ~rp~And other thieves and pirates looking to disrupt our ways of working.
+
+GUA2_IG1_9 = ~z~Well, how very upsetting for you.
+
+GUA2_IG1_10 = ~z~~sl:0.0:2.5~Not half as upsetting as it'll be for them.~lr:0.5~Mr. Fussar has a lot of very powerful friends.
+
+GUA2_IG1_11 = ~z~I will bet that he does.
+
+GUA2_IG1_12 = ~z~~sl:0.2:2.3~Bunch of Haitian pirates won't frighten him.~lr:0.6~They'll be strung up in the streets soon enough.
+
+GUA2_IG1_13 = ~z~And do we seem like Haitian pirates to you, Mr. Simon?
+
+GUA2_IG1_14 = ~z~You seem like someone or other...
+
+GUA2_IG1_15 = ~z~We was headed to Tahiti.
+
+GUA2_IG1_16 = ~z~~sl:0.2:0.0~You was going the scenic route! ~rp~Just as soon as I know exactly who you are, you'll be free.
+
+GUA2_IG1_17 = ~z~Meantime, you'll not starve.
+
+GUA2_IG1_18 = ~t~In Spanish: Corporal. Take these men to the jail, along with that peasant's group of cockroaches.
+
+GUA2_IG1_19 = ~t~~sl:0.0:1.8~In Spanish: Any nonsense from them...~sl:0.9~In Spanish: shoot them all.
+
+GUA2_IG1_20 = ~z~~sl:0.0:3.9:1~Welcome to Guarma, gentlemen. ~rp~Now, if you'll excuse me.
+
+GUA2_IG1_21 = ~z~So what now, "Aiden"?
+
+GUA2_IG1_22 = ~z~I don't know. What do you think?
+
+GUA2_IG1_23 = ~z~I think we gotta get out of here.
+
+GUA2_IG1_24 = ~z~Yes, but they can't find out who we are.
+
+GUA2_IG1_25 = ~z~Well, for now, we're stuck then.
+
+GUA2_IG2_1 = ~t~In Spanish: Malingerers. Debtors... and worse than that. Agitators. You make me sick, all of you.
+
+GUA2_IG2_2 = ~t~In Spanish: But especially you, Leon Fuentes.
+
+GUA2_IG3_P1_1 = ~z~Excuse me, sir! Who're our new friends here?
+
+GUA2_IG3_P1_2 = ~z~~sl:1.9:0.0~In Spanish: Criminals.
+
+GUA2_IG3_P1_3 = ~z~What crime did they commit?
+
+GUA2_IG3_P1_4 = ~z~In Spanish: Insurrection.
+
+GUA2_IG3_P1_5 = ~z~Insurrection? That's quite a word.
+
+GUA2_IG3_P1_6 = ~z~In Spanish: Be quiet, Mr. Fuentes. Move it, all of you!
+
+GUA2_IG3_P1_WHO_1 = ~z~Who are these people?
+
+GUA2_IG3_P1_WHO_2 = ~z~Who knows?
+
+GUA2_IG3_P1_WHO_3 = ~z~Well they got them chained and lashed, but they don't look too dangerous.
+
+GUA2_IG4_P1_1 = ~z~
+
+GUA2_IG4_P1_2 = ~t~In Spanish: Move! Come on!
+
+GUA2_IG4_P2_1 = ~z~
+
+GUA2_IG4_P2_2 = ~t~In Spanish: Move! Come!
+
+GUA2_IG4_P3_1 = ~z~
+
+GUA2_IG4_P3_2 = ~z~Hey! Hey, hey, hey! Leave him will you, you're gonna kill him!
+
+GUA2_IG4_P3_3 = ~z~
+
+GUA2_IG4_P3_4 = ~t~In Spanish: Calm down, you bastard! Hey, calm down!
+
+GUA2_IG4_P3_5 = ~z~
+
+GUA2_INT_1 = ~z~Dutch...
+
+GUA2_INT_2 = ~z~Boys...
+
+GUA2_INT_3 = ~z~You're alive.
+
+GUA2_INT_4 = ~z~Arthur...
+
+GUA2_INT_5 = ~z~you're...
+
+GUA2_INT_6 = ~z~you're alive!
+
+GUA2_INT_7 = ~z~Arthur, it is a miracle.
+
+GUA2_INT_8 = ~z~It is a goddamn miracle.
+
+GUA2_INT_9 = ~z~Here, have something to drink.
+
+GUA2_INT_10 = ~z~Have a drink.
+
+GUA2_INT_11 = ~z~Somebody give him a goddamn drink!
+
+GUA2_INT_12 = ~z~Oh, son.
+
+GUA2_INT_13 = ~z~Son, take it easy.
+
+GUA2_INT_14 = ~z~We got you...
+
+GUA2_INT_15 = ~z~we got you.
+
+GUA2_INT_16 = ~z~So...
+
+GUA2_INT_17 = ~z~where the hell are we?
+
+GUA2_INT_18 = ~z~We are on the island of Guarma.
+
+GUA2_INT_19 = ~z~Javier asked a local.
+
+GUA2_INT_20 = ~z~It's a...
+
+GUA2_INT_21 = ~z~old sugar plantation island.
+
+GUA2_INT_22 = ~z~Second island east of Cuba.
+
+GUA2_INT_23 = ~z~Is it anywhere near Australia or Tahiti?
+
+GUA2_INT_24 = ~z~It's on the way I guess...
+
+GUA2_INT_25 = ~z~So...
+
+GUA2_INT_26 = ~z~what next?
+
+GUA2_INT_27 = ~z~I don't know...
+
+GUA2_INT_28 = ~z~Well, next I guess we're gonna get shot.
+
+GUA2_INT_29 = ~t~In Spanish: Get these men in chains.
+
+GUA2_INT_30 = ~z~Gentlemen...
+
+GUA2_INT_31 = ~z~this is quite a welcome.
+
+GUA2_INT_32 = ~z~Who are you?
+
+GUA2_INT_33 = ~z~Senor, por favor.
+
+GUA2_INT_34 = ~z~We, are no one.
+
+GUA2_INT_35 = ~z~What's your name?
+
+GUA2_INT_36 = ~z~Aiden O'Malley.
+
+GUA2_INT_37 = ~z~Is that so?
+
+GUA2_INT_38 = ~z~What are you doing...
+
+GUA2_INT_39 = ~z~Mr. O'Malley?
+
+GUA2_INT_40 = ~z~Surviving.
+
+GUA2_INT_41 = ~z~We were lost at sea...
+
+GUA2_INT_42 = ~z~in the storm.
+
+GUA2_INT_43 = ~z~Is that so?
+
+GUA2_INT_44 = ~z~No, I'm in the habit of looking like this...
+
+GUA2_INT_45 = ~z~is all of this really necessary?
+
+GUA2_INT_46 = ~z~We got enough troubles around here right now, Mr. O'Malley...
+
+GUA2_INT_47 = ~z~without taking a chance on a bunch of vagabonds.
+
+GUA2_INT_48 = ~z~Behave yourselves, and no harm will befall you.
+
+GUA2_INT_49 = ~t~Vamos.
+
+GUA2_INT_CO_1 = ~z~Dut... Dutch...
+
+GUA2_INT_LDN_1 = ~z~
+
+GUA2_INT_LDN_2 = ~z~~sl:1.4:3.9:1~You're alive! Arthur, you're, you're alive!
+
+GUA2_INT_LDN_3 = ~z~Just about.
+
+GUA2_INT_LDN_4 = ~z~It is a goddamn miracle!
+
+GUA2_INT_LO_1 = ~t~~sl:0.0:0.7:1~In Spanish: Let's go!
+
+GUA2_INT_LO_2 = ~t~In Spanish: Let's go, move!
+
+GUA2_JAVIER_DIA_01 = ~z~Dale dale, dale dale. Let's go, let's go!
+
+GUA2_JAVIER_DIA_02 = ~z~~sl:0.8:0.0~Ay, que idiota! Let's go.
+
+GUA2_JAVIER_DIA_03 = ~z~Come on, you're moving como vieja!
+
+GUA2_JAVIER_DIA_04 = ~z~~sl:0.3:0.0~Turn it, turn it to the right, a la derecha. To the right.
+
+GUA2_JAVIER_DIA_05 = ~z~To the right! Come on, hurry up. What are you doing?
+
+GUA2_JAVIER_DIA_06 = ~z~Yeah, to the right, damn it! Let's go, vamos. Vamos.
+
+GUA2_JAVIER_DIA_07 = ~z~Why is this taking so long?
+
+GUA2_LEON_ROOM_01 = ~z~Give me some room here.
+
+GUA2_LEON_ROOM_02 = ~z~Spread out.
+
+GUA2_LEON_ROOM_03 = ~z~Not so close, friend.
+
+GUA2_MCS2_1 = ~z~Everyone okay?
+
+GUA2_MCS2_2 = ~z~Yeah...~n~~m~Yeah.
+
+GUA2_MCS2_3 = ~z~Damn...
+
+GUA2_MCS2_4 = ~z~reinforcements.
+
+GUA2_MCS2_5 = ~t~In French: My God.
+
+GUA2_MCS2_6 = ~z~We need to get out of here.
+
+GUA2_MCS2_7 = ~z~Now we're in trouble.
+
+GUA2_MCS2_8 = ~z~Come on. Come on.
+
+GUA2_MCS2_9 = ~z~Dammit.
+
+GUA2_MCS2_10 = ~z~Everyone follow me.
+
+GUA2_MCS2_11 = ~z~Quick dammit.
+
+GUA2_MCS2_12 = ~z~Come, come, come...
+
+GUA2_MCS2_13 = ~z~Javier?
+
+GUA2_MCS2_14 = ~z~Get outta here.
+
+GUA2_MCS2_15 = ~z~Get outta here...
+
+GUA2_MCS2_16 = ~z~there's a lot of 'em.
+
+GUA2_MCS2_17 = ~z~What you think?
+
+GUA2_MCS2_18 = ~z~We gotta move, Dutch!
+
+GUA2_MCS2_19 = ~z~Don't lose faith, son!
+
+GUA2_MCS2_20 = ~z~We'll find you!
+
+GUA2_MCS2_21 = ~t~In French: Run, run.
+
+GUA2_MCS2_22 = ~z~Go!
+
+GUA2_MCS2_23 = ~z~Go!
+
+GUA2_MCS2_24 = ~z~Come on, Arthur.
+
+GUA2_MCS2_25 = ~z~Quickly...
+
+GUA2_MCS2_26 = ~z~I have some guns stashed here.
+
+GUA2_MCS2_27 = ~z~Come.
+
+GUA2_MCS2_28 = ~z~Hey.
+
+GUA2_MCS3_1 = ~z~Are we all still alive?
+
+GUA2_MCS3_2 = ~z~I think so...
+
+GUA2_MCS3_3 = ~z~This is quite a place you've got here.
+
+GUA2_MCS3_4 = ~z~Guama is in trouble, I'm afraid.
+
+GUA2_MCS3_5 = ~z~The farmers treat the peasants like they are still indentured...
+
+GUA2_MCS3_6 = ~z~and the government will not allow peaceful protest...
+
+GUA2_MCS3_7 = ~z~so people on both sides die.
+
+GUA2_MCS3_8 = ~z~We better get you gentlemen hidden...
+
+GUA2_MCS3_9 = ~z~before more come looking...
+
+GUA2_MCS3_10 = ~z~come.
+
+GUA2_MICAH_DIA_01 = ~z~~sl:0.0:1.3~Come on, Bill.~sl:2.2~Come on, you idiot!
+
+GUA2_MICAH_DIA_02 = ~z~~sl:1.2:2.0:1~Gotta get this done, Bill!
+
+GUA2_MICAH_DIA_03 = ~z~~sl:1.6:0.0~Come on, crank it, Bill. Dammit!
+
+GUA2_MICAH_DIA_04 = ~z~Come on, Bill!
+
+GUA2_MICAH_DIA_05 = ~z~You gotta crank it, Bill! Come on, come on!
+
+GUA2_MICAH_DIA_06 = ~z~~sl:0.5:0.0~We can do this!
+
+GUA2_MICAH_DIA_07 = ~z~~sl:0.0:2.1~You gotta twist it, Bill!~sl:2.2~Jesus Christ, goddamn it!
+
+GUA2_MICAH_ENT_1 = ~z~
+
+GUA2_MICAH_ENT_2 = ~z~
+
+GUA2_MICAH_EXIT_1 = ~z~
+
+GUA2_PREFER_1 = ~z~~sl:0.0:1.1~Well...~sl:1.0~for what it's worth, I think I would have preferred Tahiti.
+
+GUA2_PREFER_2 = ~z~You and me both.
+
+GUA2_S3_END_1 = ~z~Good work, Arthur.
+
+GUA2_S3_GRDWHR_1 = ~t~In Spanish: Shit! Where is he? Does anybody have eyes on the shooter?
+
+GUA2_S3_GRDWHR_2 = ~z~For once, boys, I don't think they're shooting at us!
+
+GUA2_S5_FGHT_01 = ~z~Hold them back!
+
+GUA2_S5_FGHT_02 = ~z~Unload on them, fellers!
+
+GUA2_S6_CVR_1 = ~z~Bill, you're with me! Let's get up there!
+
+GUA2_S6_CVR_2 = ~z~Arthur, you too!
+
+GUA2_S6_CVR_3 = ~z~Come on, push up on them!
+
+GUA2_S6_FLEE_1 = ~z~~sl:0.0:1.1:1~They're running away!
+
+GUA2_S7_FLWME_1 = ~z~Follow me.
+
+GUA2_THREAT1_1 = ~t~In Spanish: Faster! Come on!
+
+GUA2_THREAT2_1 = ~t~In Spanish: Don't make me hit you again!
+
+GUA2_THREAT3_1 = ~t~In Spanish: I won't say it again!
+

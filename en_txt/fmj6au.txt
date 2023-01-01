@@ -1,0 +1,26 @@
+CFMJ6_ACT_1 = ~z~How we all doing?
+
+CFMJ6_ACT_2 = ~z~Man... we are in some shite now, ain't we?
+
+CFMJ6_ACT_3 = ~z~Even before Blackwater, I had my doubts but since then we've had folk drop like flies.
+
+CFMJ6_ACT_4 = ~z~Men I've ridden with for years, just dead. Gone.
+
+CFMJ6_ACT_5 = ~z~Women and children, too. This ain't nothing nice.
+
+CFMJ6_ACT_6 = ~z~Whole thing used to make some kind of sense, but now it feels like
+
+CFMJ6_ACT_7 = ~z~we're waiting on a miracle, or waiting to die and I can't tell which it is.
+
+CFMJ6_ACT_8 = ~z~I mean, we've always had problems but, never like this.
+
+CFMJ6_ACT_9 = ~z~Them folks in Blackwater... they was real mad and we responded...
+
+CFMJ6_ACT_10 = ~z~like animals. Like cornered animals.
+
+CFMJ6_ACT_11 = ~z~And all of a sudden... things don't make much sense no more.
+
+CFMJ6_ACT_12 = ~z~We have become what we set out to hate and it scares me.
+
+CFMJ6_ACT_13 = ~z~It does.
+

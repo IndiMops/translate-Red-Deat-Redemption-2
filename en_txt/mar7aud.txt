@@ -1,0 +1,648 @@
+MAR7_AMBUSHED_1 = ~z~It's the Skinners!
+
+MAR7_AMBUSHED_2 = ~z~You okay?
+
+MAR7_AMBUSHED_3 = ~z~Watch out for arrows!
+
+MAR7_ANIMALS_1 = ~z~Those goddamn animals.
+
+MAR7_BACKTOWAG1SHOUTED_1 = ~z~Goddammit. A few moments ago he was chewing my ear off.
+
+MAR7_BACKTOWAG1SHOUTED_2 = ~z~~sl:0.0:2.5:1~He knew what he was getting into.
+
+MAR7_BACKTOWAG1SHOUTED_3 = ~z~~sl:0.5~Did he?
+
+MAR7_BACKTOWAG1SHOUTED_4 = ~z~~sl:0.0:2.4:1~The Skinners? Everyone knows.
+
+MAR7_BACKTOWAG1SHOUTED_5 = ~z~~sl:0.6~Except me.
+
+MAR7_BACKTOWAG1SPOKEN_1 = ~z~Goddammit. A few minutes ago he was chewing my ear off.
+
+MAR7_BACKTOWAG1SPOKEN_2 = ~z~~sl:0.0:1.6:1~He knew what he was getting into.
+
+MAR7_BACKTOWAG1SPOKEN_3 = ~z~Did he?
+
+MAR7_BACKTOWAG1SPOKEN_4 = ~z~~sl:0.0:2.8:1~The Skinners. Everyone knows.
+
+MAR7_BACKTOWAG1SPOKEN_5 = ~z~~sl:0.4~Except me.
+
+MAR7_BACKTOWAG1_6 = ~z~~sl:0.2:1.2:1~Later, John.
+
+MAR7_BACKTOWAG2SHOUTED_1 = ~z~Charles, are you alright carrying him?
+
+MAR7_BACKTOWAG2SHOUTED_2 = ~z~~sl:0.2~I got it. There's no use in you getting bloody, too.
+
+MAR7_BACKTOWAG2SHOUTED_4 = ~z~~sl:0.0:1.5~They opened him up pretty good.~sl:0.9:1.9:1~Nearly chopped his head in two.
+
+MAR7_BACKTOWAG2SHOUTED_6 = ~z~~sl:0.0:1.0:1~Yeah.
+
+MAR7_BACKTOWAG2SPOKEN_1 = ~z~Charles, you alright carrying him?
+
+MAR7_BACKTOWAG2SPOKEN_2 = ~z~~sl:0.5~I got it. There's no use in you getting bloody, too.
+
+MAR7_BACKTOWAG2SPOKEN_4 = ~z~~sl:0.0:1.4~They opened him up pretty good.~sl:0.9:1.7:1~Nearly chopped his head in two.
+
+MAR7_BACKTOWAG2SPOKEN_6 = ~z~~sl:0.6~Uh huh.
+
+MAR7_BACKTOWAG2_3 = ~z~Is he? Is it? Bad?
+
+MAR7_BACKTOWAG2_5 = ~z~Goddamn them.
+
+MAR7_BEECHERS_1 = ~z~Those were the Skinner Brothers.
+
+MAR7_BEECHERS_2 = ~z~I told you I was worried.
+
+MAR7_BEECHERS_3 = ~z~~sl:0.0:1.8~Sadie said something too.~lr:0.3~What kind of land have I bought?
+
+MAR7_BEECHERS_4 = ~z~~sl:0.2:1.1~It's not the land.~lr:0.3~The Skinners move around, but they're here for now.
+
+MAR7_BEECHERS_5 = ~z~~sl:0.0:1.6~I thought... this...~lr:0.6~this kind of bloodshed was meant to be over with.
+
+MAR7_BEECHERS_6 = ~z~What was all the nonsense about civilization?
+
+MAR7_BEECHERS_7 = ~z~~sl:0.0:2.9~This kind of bloodshed... is different.~lr:0.5~Folks have been killed, sure... for good reason and bad.
+
+MAR7_BEECHERS_8 = ~z~But rarely just for the fun of it.
+
+MAR7_BEECHERS_9 = ~z~That was fun for them?
+
+MAR7_BEECHERS_10 = ~z~No. ~rp~Not that time. ~rp~Most folk don't usually put up such a fight.
+
+MAR7_BEECHERS_11 = ~z~Then I hope we put an end to it.
+
+MAR7_BEECHERS_12 = ~z~There was a caravan. Few months back. Massacred.
+
+MAR7_BEECHERS_13 = ~z~Men, women, children... ended up like Wayne, or worse.
+
+MAR7_BEECHERS_14 = ~z~Damn.
+
+MAR7_BELOWUS_01 = ~z~The bushes!
+
+MAR7_BELOWUS_02 = ~z~There down the hill!
+
+MAR7_CAFTERWAY_01 = ~z~Over there, come on!
+
+MAR7_CAFTERWAY_02 = ~z~I see him!
+
+MAR7_CAFTRFIRST_1 = ~z~Okay. Let's move. He took him down the hill.
+
+MAR7_CAFTRSECND_1 = ~z~Let's keep moving. We've got to be gaining on them.
+
+MAR7_CAFTRSECND_2 = ~z~I hope so.
+
+MAR7_CAMBUSH2_01 = ~z~They're coming out of the woods!
+
+MAR7_CAMBUSH2_02 = ~z~Check the tree line!
+
+MAR7_CAMBUSH3_01 = ~z~Shit! They got around us!
+
+MAR7_CAMBUSH3_02 = ~z~They're on the other side!
+
+MAR7_CBTOBEECH_1 = ~z~Get us back to Beecher's.
+
+MAR7_CFINDSMORE_1 = ~z~We've walked into something! Get some cover!
+
+MAR7_CFINDSMORE_2 = ~z~You mean they drew us in!
+
+MAR7_CGOONWAG_1 = ~z~Okay. John, I'm riding with you.
+
+MAR7_CJFALLBHND_01 = ~z~Come on. There could be more.
+
+MAR7_CJFALLBHND_02 = ~z~~sl:0.8~We don't wanna stay here. Let's go.
+
+MAR7_CJFALLBHND_03 = ~z~John, we've lost one man already. Can we keep moving?
+
+MAR7_CJSEARCHW_1 = ~z~Mr. Wayne!
+
+MAR7_CJSEARCHW_2 = ~z~Mr. Wayne!
+
+MAR7_CJSEARCHW_3 = ~z~Can you hear us?
+
+MAR7_CJSEARCHW_4 = ~z~Mr. Wayne!
+
+MAR7_CJWANDER_01 = ~z~Where are you going?
+
+MAR7_CJWANDER_02 = ~z~They went this way!
+
+MAR7_CJWANDER_03 = ~z~Over here, come on.
+
+MAR7_CLASTFIGHT_01 = ~z~Where is he?
+
+MAR7_CLASTFIGHT_02 = ~z~Where'd they take him?
+
+MAR7_CLASTFIGHT_03 = ~z~You see anything?
+
+MAR7_CLETSLOOK_1 = ~z~Let's search these trees.
+
+MAR7_CORPSE_1 = ~z~Jesus...
+
+MAR7_COTHERSIDE_01 = ~z~Look out!
+
+MAR7_COTHERSIDE_02 = ~z~Over here!
+
+MAR7_CRETREAT_1 = ~z~They're pulling back. Come to the wagons!
+
+MAR7_CSAYSCLEAR_01 = ~z~They're in our way!
+
+MAR7_CSAYSCLEAR_02 = ~z~We got to clear these fellers!
+
+MAR7_CSAYSCLEAR_03 = ~z~They're covering their retreat!
+
+MAR7_CSEESMORE_1 = ~z~More. We've come the right way.
+
+MAR7_CSHESDEAD_1 = ~z~~sl:0.0:0.9~It's Wayne...~sl:0.7~he's dead...
+
+MAR7_CSHESDEAD_2 = ~z~~sl:1.3~Can't have been quick either.
+
+MAR7_CTHETOOLS_01 = ~z~Put your tools in the wagon, let's go.
+
+MAR7_CTHETOOLS_02 = ~z~Load the wagon. We've got to move.
+
+MAR7_CTHEYCHARG_01 = ~z~He's charging!
+
+MAR7_CTHEYCHARG_02 = ~z~He's coming at you!
+
+MAR7_CTHEYCHARG_03 = ~z~Watch out!
+
+MAR7_CTHEYCHARG_04 = ~z~He's got a knife!
+
+MAR7_CTHEYCHARG_05 = ~z~Machete!
+
+MAR7_CWAITFORJ_01 = ~z~We've got to move, quick.
+
+MAR7_CWAITFORJ_02 = ~z~Let's go.
+
+MAR7_CWAITFORJ_03 = ~z~No time to stop.
+
+MAR7_CWAITFORJ_04 = ~z~We've got to get after him.
+
+MAR7_CWAITONWAG_01 = ~z~~sl:2.0~Come on.
+
+MAR7_CWAITONWAG_02 = ~z~You're driving, let's go.
+
+MAR7_CWAYNEDEAD_1 = ~z~Mr. Wayne didn't make it.
+
+MAR7_CWAYNEDEAD_2 = ~z~Dear Lord, no.
+
+MAR7_CWAYNEDEAD_3 = ~z~~sl:0.0:1.1~We have to get out of here.~sl:0.2~You take him in the back wagon. Come on, help me.
+
+MAR7_CWITHWAYNE_1 = ~z~~sl:1.9~Let's go. Back to the road.
+
+MAR7_DEV1STOVER_1 = ~z~Willard, how you holding up there? We'll get you out of here.
+
+MAR7_DEVAMBSH_01 = ~z~They're all around us!
+
+MAR7_DEVAMBSH_02 = ~z~God, stay down!
+
+MAR7_DEVAMBSH_03 = ~z~Goddamn bastards.
+
+MAR7_DEVAMBSH_04 = ~z~We got bushwhacked!
+
+MAR7_DEVAMBSH_05 = ~z~Damn bushwhacking!
+
+MAR7_DEVAMBSH_06 = ~z~Arrows!
+
+MAR7_DEVAMBSH_07 = ~z~Watch the arrows!
+
+MAR7_DEVCHARGE_01 = ~z~He's running at you!
+
+MAR7_DEVCHARGE_02 = ~z~Look out!
+
+MAR7_DEVCHARGE_03 = ~z~Watch it!
+
+MAR7_DEVCHARGE_04 = ~z~Look there!
+
+MAR7_DEVCHARGE_05 = ~z~Machete!
+
+MAR7_DEVGOCHASE_01 = ~z~Goddammit, get after him.
+
+MAR7_DEVGOCHASE_02 = ~z~They've got Mr. Wayne!
+
+MAR7_DEVGOCHASE_03 = ~z~What are you waiting for, mister?
+
+MAR7_DEVGOCHASE_04 = ~z~Save him, quick!
+
+MAR7_DEVKIAWAYN_01 = ~z~Willard.
+
+MAR7_DEVKIAWAYN_02 = ~z~Poor Mrs. Wayne.
+
+MAR7_DEVKIAWAYN_03 = ~z~Who are these fellers?
+
+MAR7_DEVKIAWAYN_04 = ~z~Christ.
+
+MAR7_DEVPLYCOVR_01 = ~z~Hope you're praying.
+
+MAR7_DEVPLYCOVR_02 = ~z~We'll weather this.
+
+MAR7_DEVPLYCOVR_03 = ~z~I don't like this one bit.
+
+MAR7_DEVPLYCOVR_04 = ~z~Who are these bastards?
+
+MAR7_DEVPLYWAG_01 = ~z~Sir, we do not have time.
+
+MAR7_DEVPLYWAG_02 = ~z~Can we move this caravan? Quick!
+
+MAR7_DEVTOWAYNE_01 = ~z~Mr. Wayne, are you okay?
+
+MAR7_DEVTOWAYNE_02 = ~z~Hold on, over there.
+
+MAR7_DEVTOWAYNE_03 = ~z~Willard, you'll be alright.
+
+MAR7_DEVTOWAYNE_04 = ~z~Hold tight, Willard.
+
+MAR7_DEVWAGSTOP_01 = ~z~We shouldn't stop!
+
+MAR7_DEVWAGSTOP_02 = ~z~Let's get out of here!
+
+MAR7_DEVWAGSTOP_03 = ~z~What are you playing at?
+
+MAR7_DEVWAGSTOP_04 = ~z~We should move.
+
+MAR7_EXT_1 = ~z~Uncle!
+
+MAR7_EXT_2 = ~z~Uncle!
+
+MAR7_EXT_3 = ~z~Uncle!
+
+MAR7_EXT_4 = ~z~I was...
+
+MAR7_EXT_5 = ~z~You useless sack of crap.
+
+MAR7_EXT_6 = ~z~I was keeping guard.
+
+MAR7_EXT_7 = ~z~Really?
+
+MAR7_EXT_8 = ~z~Oh...
+
+MAR7_EXT_9 = ~z~what happened?
+
+MAR7_EXT_10 = ~z~Skinner Brothers.
+
+MAR7_EXT_11 = ~z~Lot of 'em?
+
+MAR7_EXT_12 = ~z~Enough.
+
+MAR7_EXT_13 = ~z~Once this is done...
+
+MAR7_EXT_14 = ~z~I'll take Mr. Devon back to town...
+
+MAR7_EXT_15 = ~z~get poor Mr. Wayne buried.
+
+MAR7_EXT_16 = ~z~Okay...
+
+MAR7_EXT_17 = ~z~be careful.
+
+MAR7_EXT_18 = ~z~I will.
+
+MAR7_EXT_19 = ~z~But I'm fairly sure we scared 'em off for now.
+
+MAR7_EXT_20 = ~z~Bad business.
+
+MAR7_EXT_21 = ~z~Well, we'll be safe together.
+
+MAR7_EXT_22 = ~z~Sure...
+
+MAR7_EXT_23 = ~z~if you say so.
+
+MAR7_EXT_24 = ~z~And John...
+
+MAR7_EXT_25 = ~z~I love you.
+
+MAR7_EXT_26 = ~z~Don't you forget that.
+
+MAR7_FIGHTOVER1_1 = ~z~You hear anything?
+
+MAR7_FIGHTOVER1_2 = ~z~~sl:0.2~It's too quiet.
+
+MAR7_FIGHTOVER2_1 = ~z~We cleared them! Keep going.
+
+MAR7_FIGHTOVER2_2 = ~z~Where's Wayne?
+
+MAR7_IG0_A_1 = ~z~This is the spot. Just up ahead.
+
+MAR7_IG0_A_2 = ~z~Okay.
+
+MAR7_IG0_B_1 = ~z~You boys wait here... after you, Mr. Milton.
+
+MAR7_IG0_C_1 = ~z~Like I said, Nils is a... an acquired taste.
+
+MAR7_IG0_C_2 = ~z~Let me do the talking.
+
+MAR7_IG3_1 = ~z~Alright, let's get outta here.
+
+MAR7_IG4_COVER_1 = ~z~
+
+MAR7_IG4_COVER_2 = ~z~
+
+MAR7_IG4_COVER_3 = ~z~
+
+MAR7_IG6_1 = ~z~~sl:0.0:2.6:1~Oh my Lord... what they do to him?
+
+MAR7_IG6_2 = ~z~~sl:0.0:1.0~Nothing nice...~sl:3.1~Got it?
+
+MAR7_IG6_3 = ~z~~sl:4.5~Come on, we gotta go.
+
+MAR7_IG6_4 = ~z~Shit...
+
+MAR7_IG7_CHARLS_1 = ~z~~sl:0.5:1.1:1~Oh...
+
+MAR7_IG7_CHARLS_2 = ~z~~sl:0.0:0.8:1~Alright...
+
+MAR7_IG7_CHARLS_3 = ~z~
+
+MAR7_IG7_JOHN_1 = ~z~~sl:0.0:1.4:1~Charles, I found the tools.
+
+MAR7_IG7_JOHN_2 = ~z~Now where's Mr...
+
+MAR7_JOURNEY_01_1 = ~z~Say...~rp~ is your friend a negro or a redskin?
+
+MAR7_JOURNEY_01_2 = ~z~I think a bit of both, for what it's worth.
+
+MAR7_JOURNEY_01_3 = ~z~Cash is cash,~rp~ so it's all the same to me.
+
+MAR7_JOURNEY_01_4 = ~z~~sl:0.0:2.9~I saw you getting skittish there, but don't you worry,~sl:~we're not getting shot at.
+
+MAR7_JOURNEY_01_5 = ~z~~sl:0.0:3.1~Oh yeah,~rp~ I know Charles Smith,~sl:~and if he's got cause to be concerned, it's usually good cause.
+
+MAR7_JOURNEY_01_6 = ~z~You got a shotgun messenger sitting right beside you, alright?
+
+MAR7_JOURNEY_01_7 = ~z~Now, I suppose you don't know much about robbing caravans?
+
+MAR7_JOURNEY_01_8 = ~z~Not much, I guess... no.
+
+MAR7_JOURNEY_01_9 = ~z~Well, nor do I.~rp~ But... I know a thing or two about protecting them.
+
+MAR7_JOURNEY_01_10 = ~z~~sl:0.0:2.9~And if a robber sees some strong men sitting up front,~sl:0.3~two of them guns for hire,
+
+MAR7_JOURNEY_01_11 = ~z~then they're gonna wait for the next set of fools to come on through.
+
+MAR7_JOURNEY_01_12 = ~z~~sl:0.0:1.6~Unless they take the guns to mean...~sl:~they're carrying something valuable...
+
+MAR7_JOURNEY_01_13 = ~z~instead of precut timber, and some tools.
+
+MAR7_JOURNEY_01_14 = ~z~~sl:0.0:5.0~What?~rp~ No, wait. Trust me on this, you're over thinking it.~sl:0.2~~rp~You hire a gun, you hire peace of mind and a deterrence.
+
+MAR7_JOURNEY_01_15 = ~z~~sl:0.0:2.4~So, I'll sit here, looking big and scary,~sl:0.1~~rp~and you can concentrate on the horses.
+
+MAR7_JOURNEY_01_16 = ~z~~sl:0.7~Alright...~rp~ I'll do just that.
+
+MAR7_JOURNEY_01_17 = ~z~~sl:0.0:3.2~Maybe I've done this kind of thing before,~sl:0.2~~rp~and maybe I can handle a weapon.
+
+MAR7_JOURNEY_01_18 = ~z~But I'm not so different from you, partner.
+
+MAR7_JOURNEY_01_19 = ~z~I think you might be.
+
+MAR7_JOURNEY_01_20 = ~z~~sl:0.0:3.4~People wonder how you can handle it... living by your gun.~sl:0.8~~rp~But it's the same as any other occupation, really.
+
+MAR7_JOURNEY_01_21 = ~z~~sl:0.0:3.3~When I get home, I put my gun on the rack and it stays there.~sl:~I mean it, it really stays there...
+
+MAR7_JOURNEY_01_22 = ~z~I don't even think about it.~rp~ My mind's on my wife and the little ones.
+
+MAR7_JOURNEY_01_23 = ~z~I'm chopping wood, I'm mending the roof,~rp~ I'm putting the kids to bed.
+
+MAR7_JOURNEY_01_24 = ~z~~sl:0.0:3.1~But when I'm out here,~rp~ I'm watching the tree line,~sl:0.5~~rp~I got my gun at the ready.
+
+MAR7_JOURNEY_01_25 = ~z~And I'm trying to make my employer as comfortable as possible.
+
+MAR7_JOURNEY_01_26 = ~z~That's, uh, real good of you.
+
+MAR7_JOURNEY_01_27 = ~z~You're in good hands.~rp~ I know this country well.
+
+MAR7_JOURNEY_01_28 = ~z~Good.
+
+MAR7_JOURNEY_02_1 = ~z~Am I finally gonna meet this tool maker?
+
+MAR7_JOURNEY_02_2 = ~z~~sl:0.0:5.4~Now, Nils. ~rp~He's an acquired taste, but boy can he work metal.~lr:0.3~Norwegian, you see. Viking blood.
+
+MAR7_JOURNEY_02_3 = ~z~Fellers up there used to worship a god with a hammer...
+
+MAR7_JOURNEY_02_4 = ~z~~sl:0.0:2.0~guess it figures they'd still be making them.~lr:0.7~I'm not sure how much English he speaks, but Nils knows tools.
+
+MAR7_JOURNEY_02_5 = ~z~And he knows me. ~rp~So we'll see if we can get him to give you some.
+
+MAR7_JOURNEY_02_6 = ~z~~sl:0.0:2.8~They won't be free, and ~rp~they won't even be cheap,~sl:0.3~but they'll be worth what you pay.
+
+MAR7_JOURNEY_02_7 = ~z~~sl:0.0:3.2~I've already bought a house and hired you today,~sl:0.5~so might as well keep spending while I'm at it.
+
+MAR7_JOURNEY_02_8 = ~z~You won't regret it.
+
+MAR7_JOURNEY_02_9 = ~z~I hope not.
+
+MAR7_JOURNEY_02_10 = ~z~~sl:0.0:1.8~You can always earn more money,~sl:0.3~but good tools will last you a life time.
+
+MAR7_JSAYSCLEAR_01 = ~z~They're coming out of nowhere.
+
+MAR7_JSAYSCLEAR_02 = ~z~They're like ghosts.
+
+MAR7_JSAYSCLEAR_03 = ~z~Where they coming from?
+
+MAR7_JSAYSCLEAR_04 = ~z~They're on top of us!
+
+MAR7_JSHOOTOUT_01 = ~z~Where'd they come from?
+
+MAR7_JSHOOTOUT_02 = ~z~Who are these people?
+
+MAR7_JSHOOTOUT_03 = ~z~What the hell is going on?
+
+MAR7_JSHOUTS_01 = ~z~We got to get to Wayne.
+
+MAR7_JSHOUTS_02 = ~z~We have to get past them.
+
+MAR7_JSHOUTS_03 = ~z~They're getting away with him!
+
+MAR7_JTOCNOTN_01 = ~z~Get you tools so we can go.
+
+MAR7_JTOCNOTN_02 = ~z~Go speak to the man.
+
+MAR7_JTOCNOTN_03 = ~z~Buy your tools, John. I want to get out of here.
+
+MAR7_JTOWAYNE_01 = ~z~Mr. Wayne, we're coming!
+
+MAR7_JTOWAYNE_02 = ~z~Hold on, Mr. Wayne.
+
+MAR7_JTOWAYNE_03 = ~z~Mr. Wayne, we're right here!
+
+MAR7_JWAYSHOT1_1 = ~z~Goddamn!
+
+MAR7_JWAYSHOT2_1 = ~z~Keep your head down.
+
+MAR7_LEAVE_TOWN_1 = ~z~I know the quickest way, follow me.
+
+MAR7_MCS1_1 = ~z~Nils?
+
+MAR7_MCS1_2 = ~z~Nils, it's me...
+
+MAR7_MCS1_3 = ~z~Willard Wayne.
+
+MAR7_MCS1_4 = ~z~Okay...
+
+MAR7_MCS1_5 = ~z~This is my associate Jim Milton.
+
+MAR7_MCS1_6 = ~z~Okay...
+
+MAR7_MCS1_7 = ~z~He heard you was the best...
+
+MAR7_MCS1_8 = ~z~best smith around.
+
+MAR7_MCS1_9 = ~z~He needs some tools...
+
+MAR7_MCS1_10 = ~z~he's building a ranch house up at Beecher's Hope.
+
+MAR7_MCS1_11 = ~z~Beecher's Hope?
+
+MAR7_MCS1_12 = ~z~Okay.
+
+MAR7_MCS1_13 = ~z~Have you got any made?
+
+MAR7_MCS1_14 = ~z~Ah, okay.
+
+MAR7_MCS1_15 = ~z~Like I said, an acquired taste...
+
+MAR7_MCS1_16 = ~z~but a heart of gold and he's the best.
+
+MAR7_MCS1_17 = ~z~You off someplace, Nils?
+
+MAR7_MCS1_18 = ~z~Okay.
+
+MAR7_MCS1_19 = ~z~So Milton is working with Cakes Hardwood and Timber in town.
+
+MAR7_MCS1_20 = ~z~Should I get them to pay you and add it to his bill up there?
+
+MAR7_MCS1_21 = ~z~Okay.
+
+MAR7_MCS1_22 = ~z~Come on, let's get moving.
+
+MAR7_MCS1_23 = ~z~Okay...
+
+MAR7_MCS1_LI_1 = ~z~~sl:1.0~Nils...
+
+MAR7_MCS2_1 = ~z~Whoa!
+
+MAR7_MCS2_2 = ~z~Everyone find some cover!
+
+MAR7_MCS3_1 = ~z~Alright...
+
+MAR7_MCS3_2 = ~z~you alive?
+
+MAR7_MCS3_3 = ~z~For now.
+
+MAR7_MCS3_4 = ~z~Mr. Devon, you okay?
+
+MAR7_MCS3_5 = ~z~Yes.
+
+MAR7_MCS3_6 = ~z~That the last of 'em?
+
+MAR7_MCS3_7 = ~z~I think so.
+
+MAR7_MCS3_8 = ~z~There's more!
+
+MAR7_MCS3_9 = ~z~They got the tools.
+
+MAR7_MCS3_10 = ~z~They grabbed Mr. Wayne!
+
+MAR7_MCS3_11 = ~z~Alright, you stay here, guard the wagons.
+
+MAR7_MCS3_12 = ~z~Charles, come on!
+
+MAR7_MCS4_1 = ~z~Where are they?
+
+MAR7_MCS4_2 = ~z~Look out!
+
+MAR7_MCS4_3 = ~z~Up in the tree!
+
+MAR7_MOVEFAST_1 = ~z~We gotta move fast. Come on.
+
+MAR7_NILSRET_01 = ~z~Okay?
+
+MAR7_NILSRET_02 = ~z~Okay?
+
+MAR7_NILSRET_03 = ~z~Okay?
+
+MAR7_NILSRET_04 = ~z~Okay?
+
+MAR7_NILSRET_LT_1 = ~z~Okay.
+
+MAR7_NOTRIGHT_1 = ~z~~sl:0.0:3.1~They'd been trying to sell that property for some time, hadn't they?~lr:0.5~Took a look at it myself, as it so happens.
+
+MAR7_NOTRIGHT_2 = ~z~Seemed like a lot of work. ~rp~Too much for me, but more power to you.
+
+MAR7_NOTRIGHT_3 = ~z~~sl:0.0:1.9~Must have seen something in it I couldn't.~lr:0.7~The world needs men like you.
+
+MAR7_NOTRIGHT_4 = ~z~And men like me too, sadly.
+
+MAR7_NOTRIGHT_5 = ~z~Hey, wait, hold on.
+
+MAR7_NOTRIGHT_6 = ~z~Something's not right.
+
+MAR7_RIGHT_1 = ~z~Hey, we're taking the next right, up toward Manzanita Post.
+
+MAR7_SHIT_1 = ~z~Shit...
+
+MAR7_THATCRY1_1 = ~z~~sl:0.3~I don't like the sound of that.
+
+MAR7_THATCRY1_2 = ~z~Come on.
+
+MAR7_THATCRY2_01 = ~z~No, no.
+
+MAR7_THATCRY2_02 = ~z~What the hell are they doing?
+
+MAR7_THATCRY2_03 = ~z~~sl:0.7~Damn them.
+
+MAR7_TOBEECHERS_1 = ~z~Alright then. Beecher's Hope.
+
+MAR7_TO_NILS_1 = ~z~~sl:0.5~There he is, working away.
+
+MAR7_TREES2_01 = ~z~The one up there has an angle on us!
+
+MAR7_TREES2_02 = ~z~Shoot that bastard off his branch!
+
+MAR7_TREES2_03 = ~z~Up in the tree, get him!
+
+MAR7_TREES3_01 = ~z~They're still up there, high in the tree.
+
+MAR7_TREES3_02 = ~z~You see him? High up in the branches!
+
+MAR7_TREES_1 = ~z~They climbed up in the trees! Shoot the ones up there first!
+
+MAR7_WAYHELP1_01 = ~z~~sl:0.9~Help!
+
+MAR7_WAYHELP1_02 = ~z~Help me!
+
+MAR7_WAYHELP1_03 = ~z~They got me!
+
+MAR7_WAYHELP1_04 = ~z~Over here!
+
+MAR7_WAYHELP1_05 = ~z~Help!
+
+MAR7_WAYHELP1_06 = ~z~Mr. Devon!
+
+MAR7_WAYHELP1_07 = ~z~Mr. Devon!
+
+MAR7_WAYHELP1_08 = ~z~Mr. Milton! Mr. Smith!
+
+MAR7_WAYHELP1_09 = ~z~Help! Help me!
+
+MAR7_WAYHELP2_01 = ~z~No! No! No!
+
+MAR7_WAYHELP2_02 = ~z~Please! God! No!
+
+MAR7_WAYHELP2_03 = ~z~For all that's holy!
+
+MAR7_WAYHELP2_04 = ~z~No!
+
+MAR7_WAYHELP2_05 = ~z~
+
+MAR7_WAYSHOT_01 = ~z~My damn shoulder.
+
+MAR7_WAYSHOT_02 = ~z~
+
+MAR7_WAYSHOT_03 = ~z~I can't... move my arm.
+
+MAR7_WAYSHOT_04 = ~z~I didn't... think they'd attack.
+
+MAR7_WAYSHOT_05 = ~z~I'm not gonna be much use to you.
+
+MAR7_WAYSHOT_06 = ~z~~sl:0.8~Shit.
+
+MAR7_WAYSHOT_07 = ~z~Damn that hurts.
+

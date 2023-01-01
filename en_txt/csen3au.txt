@@ -1,0 +1,22 @@
+CSEN3_A_1 = ~z~You want another one?
+
+CSEN3_A_2 = ~z~No... fifteen is enough.
+
+CSEN3_A_3 = ~z~
+
+CSEN3_A_4 = ~z~Who's that? Better not be Bill.
+
+CSEN3_A_5 = ~z~Jesus, Bill. Lord save us from Bill.
+
+CSEN3_A_6 = ~z~
+
+CSEN3_A_7 = ~z~
+
+CSEN3_A_8 = ~z~That feller's a real fucking eejit.
+
+CSEN3_A_9 = ~z~
+
+CSEN3_A_10 = ~z~Excuse me.
+
+CSEN3_A_11 = ~z~
+

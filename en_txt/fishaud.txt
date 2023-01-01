@@ -1,0 +1,520 @@
+FISH_BAIT_A_01 = ~z~Let's try something new.
+
+FISH_BAIT_A_02 = ~z~How's about this bait? I wonder...
+
+FISH_BAIT_A_03 = ~z~This could work.
+
+FISH_BAIT_A_04 = ~z~Okay.
+
+FISH_BAIT_A_05 = ~z~
+
+FISH_BAIT_A_06 = ~z~Maybe...
+
+FISH_BAIT_J_01 = ~z~Let's try this.
+
+FISH_BAIT_J_02 = ~z~How's about this.
+
+FISH_BAIT_J_03 = ~z~Might work.
+
+FISH_BAIT_J_04 = ~z~Yup.
+
+FISH_BAIT_J_05 = ~z~Uh huh.
+
+FISH_BAIT_J_06 = ~z~Worth a shot.
+
+FISH_BLUEGILL_A_01 = ~z~A blue gill... okay.
+
+FISH_BLUEGILL_A_02 = ~z~Ah, a blue gill... nice.
+
+FISH_BLUEGILL_J_01 = ~z~A bluegill...
+
+FISH_BLUEGILL_J_02 = ~z~~sl:0.3~Bluegill.
+
+FISH_BULLCAT_A_01 = ~z~A decent catfish.
+
+FISH_BULLCAT_A_02 = ~z~I love catfish.
+
+FISH_BULLCAT_J_01 = ~z~Good ole' catfish.
+
+FISH_BULLCAT_J_02 = ~z~I love a catfish, come here.
+
+FISH_CAST_A_01 = ~z~Let's see if anything is biting.
+
+FISH_CAST_A_02 = ~z~Anything biting, I wonder...
+
+FISH_CAST_A_03 = ~z~Okay.
+
+FISH_CAST_A_04 = ~z~Here we go.
+
+FISH_CAST_A_05 = ~z~Come on.
+
+FISH_CAST_A_06 = ~z~Okay.
+
+FISH_CAST_J_01 = ~z~Come on.
+
+FISH_CAST_J_02 = ~z~Who's biting?
+
+FISH_CAST_J_03 = ~z~Anyone hungry, then?
+
+FISH_CAST_J_04 = ~z~Okay.
+
+FISH_CAST_J_05 = ~z~Here we go.
+
+FISH_CAST_J_06 = ~z~Okay... let's see what's what down there.
+
+FISH_CHANCAT_A_01 = ~z~A catfish of some kind. Maybe a channel catfish, huh?
+
+FISH_CHANCAT_A_02 = ~z~What are you? A catfish, but what kind... a channel, I reckon.
+
+FISH_CHANCAT_J_01 = ~z~A catfish of some kind...
+
+FISH_CHANCAT_J_02 = ~z~What are you, a catfish?
+
+FISH_CHAPICK_A_01 = ~z~What are you? A pickerel?
+
+FISH_CHAPICK_A_02 = ~z~A pickerel, huh?
+
+FISH_CHAPICK_J_01 = ~z~What are you? A pickerel?
+
+FISH_CHAPICK_J_02 = ~z~A pickerel, huh?
+
+FISH_CT_FH_A_01 = ~z~Wow.
+
+FISH_CT_FH_A_02 = ~z~Look at you.
+
+FISH_CT_FH_A_03 = ~z~Good to meet you!
+
+FISH_CT_FH_A_04 = ~z~Whoa. Okay.
+
+FISH_CT_FH_A_05 = ~z~You, sir, are a fish.
+
+FISH_CT_FH_A_06 = ~z~You're not bad at all.
+
+FISH_CT_FH_J_01 = ~z~Alright.
+
+FISH_CT_FH_J_02 = ~z~Look at you.
+
+FISH_CT_FH_J_03 = ~z~Pleased to meet you.
+
+FISH_CT_FH_J_04 = ~z~Whoa. Okay.
+
+FISH_CT_FH_J_05 = ~z~That is a fish.
+
+FISH_CT_FH_J_06 = ~z~You sir, are a fish.
+
+FISH_CT_GP_A_01 = ~z~Come here, you.
+
+FISH_CT_GP_A_02 = ~z~Got you, partner.
+
+FISH_CT_GP_A_03 = ~z~I got it.
+
+FISH_CT_GP_A_04 = ~z~Ha. Got you.
+
+FISH_CT_GP_A_05 = ~z~Yes. You're okay.
+
+FISH_CT_GP_A_06 = ~z~Ha. You'll do.
+
+FISH_CT_GP_J_01 = ~z~We meet at last.
+
+FISH_CT_GP_J_02 = ~z~Got you, partner.
+
+FISH_CT_GP_J_03 = ~z~I got it.
+
+FISH_CT_GP_J_04 = ~z~~sl:0.5~Got it.
+
+FISH_CT_GP_J_05 = ~z~Yeah. You're alright.
+
+FISH_CT_GP_J_06 = ~z~~sl:0.5~You're okay.
+
+FISH_CT_L_A_01 = ~z~Look at you! Yes!
+
+FISH_CT_L_A_02 = ~z~Damn.  That's... you.  Alright.
+
+FISH_CT_L_A_03 = ~z~Got you! I damn well got you.
+
+FISH_CT_L_A_04 = ~z~Beautiful.
+
+FISH_CT_L_A_05 = ~z~You're magnificent.
+
+FISH_CT_L_A_06 = ~z~You are one fine fish, my friend.
+
+FISH_CT_L_J_01 = ~z~You kidding me? Yes!
+
+FISH_CT_L_J_02 = ~z~Shit. That's... you. Alright.
+
+FISH_CT_L_J_03 = ~z~Got ya! I damn well got ya! Shit.
+
+FISH_CT_L_J_04 = ~z~Beautiful. Shit. Yes.
+
+FISH_CT_L_J_05 = ~z~Whoa. It's you.
+
+FISH_CT_L_J_06 = ~z~You're the damn fish.
+
+FISH_CT_L_T_A_01 = ~z~What the hell are you? I mean...
+
+FISH_CT_L_T_A_02 = ~z~Damn. What the hell are you?
+
+FISH_CT_L_T_J_01 = ~z~What is this abomination?
+
+FISH_CT_L_T_J_02 = ~z~Jesus. What the hell are you?
+
+FISH_CT_T_A_01 = ~z~~sl:0.5~You don't look too fine.
+
+FISH_CT_T_A_02 = ~z~You look pretty revolting.
+
+FISH_CT_T_A_03 = ~z~~sl:0.4~You don't look right.
+
+FISH_CT_T_J_01 = ~z~Ya ain't for eating, are you?
+
+FISH_CT_T_J_02 = ~z~Somehow, I don't think you're for eating.
+
+FISH_CT_T_J_03 = ~z~Ah. You might be for putting back.
+
+FISH_DIE_UHK_A_01 = ~z~Damn. You're dead, ain't you?
+
+FISH_DIE_UHK_A_02 = ~z~You've gone and died, ain't ya?
+
+FISH_DIE_UHK_A_03 = ~z~Damn. Dead.
+
+FISH_DIE_UHK_A_04 = ~z~You okay there? No... you're far from okay.
+
+FISH_DIE_UHK_J_01 = ~z~Dead.
+
+FISH_DIE_UHK_J_02 = ~z~You're dead, ain't ya?
+
+FISH_DIE_UHK_J_03 = ~z~Shit. Dead.
+
+FISH_DIE_UHK_J_04 = ~z~You okay there?
+
+FISH_GAR_A_01 = ~z~You're quite a fish... a gar? I think so...
+
+FISH_GAR_A_02 = ~z~What are you? A gar... and quite a fish, too.
+
+FISH_GAR_J_01 = ~z~You're quite a fish... a gar, I reckon.
+
+FISH_GAR_J_02 = ~z~What are you? A gar... and some fish.
+
+FISH_GROUND_A_01 = ~z~That's not very intelligent.
+
+FISH_GROUND_A_02 = ~z~Damn.
+
+FISH_GROUND_A_03 = ~z~Should probably try that again.
+
+FISH_GROUND_A_04 = ~z~That's not right.
+
+FISH_GROUND_A_05 = ~z~Damn, fool.
+
+FISH_GROUND_A_06 = ~z~Water might help proceedings.
+
+FISH_GROUND_J_01 = ~z~Won't catch nothing there.
+
+FISH_GROUND_J_02 = ~z~Missed.
+
+FISH_GROUND_J_03 = ~z~Can't swim in that.
+
+FISH_GROUND_J_04 = ~z~Oops.
+
+FISH_GROUND_J_05 = ~z~Shit.
+
+FISH_GROUND_J_06 = ~z~Water might help.
+
+FISH_HOOK_A_01 = ~z~Got you.
+
+FISH_HOOK_A_02 = ~z~That's set, I think. Yes.
+
+FISH_HOOK_A_03 = ~z~Hook's set.
+
+FISH_HOOK_A_04 = ~z~Oh, I got you. I got you...
+
+FISH_HOOK_A_05 = ~z~You're on, my friend.
+
+FISH_HOOK_A_06 = ~z~Got something hooked.
+
+FISH_HOOK_A_07 = ~z~Now I'm fishing. Got something.
+
+FISH_HOOK_I_A_01 = ~z~Oh crap.
+
+FISH_HOOK_I_A_02 = ~z~Oh, very impressive.
+
+FISH_HOOK_I_A_03 = ~z~Damn... snagged on nothing.
+
+FISH_HOOK_I_J_01 = ~z~Yeah, that ain't no fish.
+
+FISH_HOOK_I_J_02 = ~z~Ah. Not a fish after all.
+
+FISH_HOOK_I_J_03 = ~z~Shit. Snagged.
+
+FISH_HOOK_J_01 = ~z~Got ya.
+
+FISH_HOOK_J_02 = ~z~That's set.
+
+FISH_HOOK_J_03 = ~z~Hook's set.
+
+FISH_HOOK_J_04 = ~z~You're on.
+
+FISH_HOOK_J_05 = ~z~Got something.
+
+FISH_HOOK_J_06 = ~z~Now we're fishing.
+
+FISH_KEEP_A_01 = ~z~You're coming with me.
+
+FISH_KEEP_A_02 = ~z~Yeah... you can stay.
+
+FISH_KEEP_A_03 = ~z~I'm keeping you, I'm afraid.
+
+FISH_KEEP_A_04 = ~z~Afraid you're staying with me.
+
+FISH_KEEP_A_05 = ~z~I can't put you back.
+
+FISH_KEEP_A_06 = ~z~Sorry, but you're mine.
+
+FISH_KEEP_J_01 = ~z~You're coming with me.
+
+FISH_KEEP_J_02 = ~z~Yeah... you can come.
+
+FISH_KEEP_J_03 = ~z~'Fraid I'm keeping you.
+
+FISH_KEEP_J_04 = ~z~'Fraid you're coming.
+
+FISH_KEEP_J_05 = ~z~Can't put you back.
+
+FISH_KEEP_J_06 = ~z~Sorry, but you're coming.
+
+FISH_LARGBASS_A_01 = ~z~You're quite a bass! A largemouth, I believe.
+
+FISH_LARGBASS_A_02 = ~z~You're quite a largemouth.
+
+FISH_LARGBASS_J_01 = ~z~You're quite a bass!
+
+FISH_LARGBASS_J_02 = ~z~You're quite a largemouth.
+
+FISH_MID_BAT_A_01 = ~z~That's it. Come on.
+
+FISH_MID_BAT_A_02 = ~z~Little more. You're almost done...
+
+FISH_MID_BAT_A_03 = ~z~Come here.
+
+FISH_MID_BAT_A_04 = ~z~Don't fight too much.
+
+FISH_MID_BAT_A_05 = ~z~Give up already. You're mine.
+
+FISH_MID_BAT_A_06 = ~z~Easy does it. Easy.
+
+FISH_MID_BAT_A_07 = ~z~
+
+FISH_MID_BAT_A_08 = ~z~
+
+FISH_MID_BAT_A_09 = ~z~Here we go. Come on...
+
+FISH_MID_BAT_A_10 = ~z~Yep, yep, come on.
+
+FISH_MID_BAT_J_01 = ~z~Come on.
+
+FISH_MID_BAT_J_02 = ~z~Come on.
+
+FISH_MID_BAT_J_03 = ~z~Don't fight it.
+
+FISH_MID_BAT_J_04 = ~z~Give it up already.
+
+FISH_MID_BAT_J_05 = ~z~Easy does it.
+
+FISH_MID_BAT_J_06 = ~z~
+
+FISH_MID_BAT_J_07 = ~z~
+
+FISH_MID_BAT_J_08 = ~z~Here we go.
+
+FISH_MID_BAT_J_09 = ~z~Yup. Yup.
+
+FISH_MID_BAT_J_10 = ~z~That's it.
+
+FISH_MID_BAT_J_11 = ~z~Little more.
+
+FISH_MISSED_A_01 = ~z~Damn, didn't get him.
+
+FISH_MISSED_A_02 = ~z~Missed.
+
+FISH_MISSED_A_03 = ~z~Damn. Missed.
+
+FISH_MISSED_A_04 = ~z~Got away.
+
+FISH_MISSED_A_05 = ~z~Didn't set it right.
+
+FISH_MISSED_A_06 = ~z~Didn't get the hook set.
+
+FISH_MISSED_J_01 = ~z~Didn't hook him.
+
+FISH_MISSED_J_02 = ~z~Missed it.
+
+FISH_MISSED_J_03 = ~z~Shit. Missed.
+
+FISH_MISSED_J_04 = ~z~Didn't hook ya.
+
+FISH_MISSED_J_05 = ~z~Didn't set it.
+
+FISH_MISSED_J_06 = ~z~Didn't set the hook.
+
+FISH_MUSKIE_A_01 = ~z~A muskie, I reckon. Nice.
+
+FISH_MUSKIE_A_02 = ~z~You're a fine looking muskie.
+
+FISH_MUSKIE_J_01 = ~z~A muskie, I think.
+
+FISH_MUSKIE_J_02 = ~z~You're a fine muskie.
+
+FISH_NO_BAIT_A_01 = ~z~Might need some bait on there.
+
+FISH_NO_BAIT_A_02 = ~z~Got to bait the hook. Idiot.
+
+FISH_NO_BAIT_A_03 = ~z~Bait, you fool...
+
+FISH_NO_BAIT_A_04 = ~z~Idiot, Morgan.
+
+FISH_NO_BAIT_A_05 = ~z~Some bait might help.
+
+FISH_NO_BAIT_A_06 = ~z~What is wrong with me... bait the thing, you fool.
+
+FISH_NO_BAIT_J_01 = ~z~Might need some bait on there.
+
+FISH_NO_BAIT_J_02 = ~z~Got to bait the hook.
+
+FISH_NO_BAIT_J_03 = ~z~Ain't no bait on it.
+
+FISH_NO_BAIT_J_04 = ~z~Got to bait it. Fool...
+
+FISH_NO_BAIT_J_05 = ~z~Some bait might help. Idiot.
+
+FISH_NO_BAIT_J_06 = ~z~Yeah... the bait.
+
+FISH_PERCH_A_01 = ~z~Nice perch, ain't you?
+
+FISH_PERCH_A_02 = ~z~You're quite a perch.
+
+FISH_PERCH_J_01 = ~z~Nice perch.
+
+FISH_PERCH_J_02 = ~z~You're quite a perch.
+
+FISH_PIKE_A_01 = ~z~A pike, I think. Tough guy, huh?
+
+FISH_PIKE_A_02 = ~z~~sl:0.5~A pike. Real tough.
+
+FISH_PIKE_J_01 = ~z~~sl:0.2~Pike, I think.
+
+FISH_PIKE_J_02 = ~z~~sl:0.5~Pike.
+
+FISH_REDPICK_A_01 = ~z~A pickerel, okay.
+
+FISH_REDPICK_A_02 = ~z~What are you? A Redfin Pickerel, I think.
+
+FISH_REDPICK_J_01 = ~z~Damn, that's some pickerel.
+
+FISH_REDPICK_J_02 = ~z~What are you? A Redfin Pickerel, I guess?
+
+FISH_REL_DEAD_A_01 = ~z~Shoulda done that earlier.
+
+FISH_REL_DEAD_A_02 = ~z~Too late, I guess. Sorry...
+
+FISH_REL_DEAD_A_03 = ~z~Yeah, he'll be okay...
+
+FISH_REL_DEAD_A_04 = ~z~Bit late to release him but... sorry.
+
+FISH_REL_DEAD_J_01 = ~z~Shoulda done that earlier.
+
+FISH_REL_DEAD_J_02 = ~z~Too late, I guess.
+
+FISH_REL_DEAD_J_03 = ~z~Yeah, he'll be okay...
+
+FISH_REL_DEAD_J_04 = ~z~Bit late to release him, but...
+
+FISH_REL_FISH_A_01 = ~z~You can go.
+
+FISH_REL_FISH_A_02 = ~z~Off you go, then.
+
+FISH_REL_FISH_A_03 = ~z~Nah. Maybe next time.
+
+FISH_REL_FISH_A_04 = ~z~Swim away, little feller.
+
+FISH_REL_FISH_A_05 = ~z~I'mma let you off.
+
+FISH_REL_FISH_A_06 = ~z~You're in luck, my friend.
+
+FISH_REL_FISH_J_01 = ~z~You can go.
+
+FISH_REL_FISH_J_02 = ~z~Alright. Off you go then.
+
+FISH_REL_FISH_J_03 = ~z~Nah. Fatten up for next time.
+
+FISH_REL_FISH_J_04 = ~z~Swim away little buddy.
+
+FISH_REL_FISH_J_05 = ~z~I'ma let you go.
+
+FISH_REL_FISH_J_06 = ~z~You're in luck.
+
+FISH_REL_MM_A_1 = ~z~Damn. Jean-Marc? Is that you? I'm sorry, buddy.
+
+FISH_REL_MM_J_1 = ~z~The mayor wanted you to disappear.
+
+FISH_ROCKBASS_A_01 = ~z~You're a decent bass.
+
+FISH_ROCKBASS_A_02 = ~z~What are you? A bass?
+
+FISH_ROCKBASS_J_01 = ~z~You're quite a nice bass.
+
+FISH_ROCKBASS_J_02 = ~z~What are you? Bass?
+
+FISH_SALMON_A_01 = ~z~Quite a salmon, ain't you?
+
+FISH_SALMON_A_02 = ~z~Just what are you? A sockeye, great.
+
+FISH_SALMON_J_01 = ~z~Quite a salmon.
+
+FISH_SALMON_J_02 = ~z~What are you? A sockeye, marvelous.
+
+FISH_SMALBASS_A_01 = ~z~~sl:1.0~A smallmouth?
+
+FISH_SMALBASS_A_02 = ~z~You're a fine bass... what are you, a smallmouth?
+
+FISH_SMALBASS_J_01 = ~z~A small mouth?
+
+FISH_SMALBASS_J_02 = ~z~You're a fine bass.
+
+FISH_SNAP_F_A_01 = ~z~Shit... line's gone.
+
+FISH_SNAP_F_A_02 = ~z~Line. Damn.
+
+FISH_SNAP_F_A_03 = ~z~The line! Damn it!
+
+FISH_SNAP_F_A_04 = ~z~No! The line... damn.
+
+FISH_SNAP_F_A_05 = ~z~You kidding me?
+
+FISH_SNAP_F_J_01 = ~z~Line's gone.
+
+FISH_SNAP_F_J_02 = ~z~Damn line.
+
+FISH_SNAP_F_J_03 = ~z~The line. Dammit.
+
+FISH_SNAP_F_J_04 = ~z~Stupid line.
+
+FISH_SNAP_F_J_05 = ~z~You're kidding me! Damn line.
+
+FISH_SNAP_F_J_06 = ~z~No... no way.
+
+FISH_SNAP_F_J_07 = ~z~Oh, you gotta be kidding me.
+
+FISH_STURGEON_A_01 = ~z~And what exactly are you? A sturgeon? I think so.
+
+FISH_STURGEON_A_02 = ~z~Woah... what are you? A sturgeon, perhaps... yes.
+
+FISH_STURGEON_J_01 = ~z~What the hell are you? A sturgeon?
+
+FISH_STURGEON_J_02 = ~z~Woah... what are you? A sturgeon, perhaps...
+
+FISH_TROUT_A_01 = ~z~Steel head... wow. Nice.
+
+FISH_TROUT_A_02 = ~z~You're a fine steelhead, my friend.
+
+FISH_TROUT_J_01 = ~z~Steelhead... wow.
+
+FISH_TROUT_J_02 = ~z~You're a fine steelhead, my friend.
+

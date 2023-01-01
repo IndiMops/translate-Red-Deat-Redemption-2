@@ -1,0 +1,34 @@
+CUNC4_ACT_1 = ~z~So, how are you, Mr. Smith?
+
+CUNC4_ACT_2 = ~z~Fine.
+
+CUNC4_ACT_3 = ~z~Have you been up to much, have ya?
+
+CUNC4_ACT_4 = ~z~Not really.
+
+CUNC4_ACT_5 = ~z~Read any interesting books recently?
+
+CUNC4_ACT_6 = ~z~No.
+
+CUNC4_ACT_7 = ~z~Seen any plays?
+
+CUNC4_ACT_8 = ~z~No.
+
+CUNC4_ACT_9 = ~z~You heard any good jokes?
+
+CUNC4_ACT_10 = ~z~Yeah.
+
+CUNC4_ACT_11 = ~z~Well... fancy sharing it with me?
+
+CUNC4_ACT_12 = ~z~No.
+
+CUNC4_ACT_13 = ~z~You know... I'd wouldn't wanna be stuck in the wilderness with you, Charles.
+
+CUNC4_ACT_14 = ~z~I've had more fun, well, watching the grass grow.
+
+CUNC4_ACT_15 = ~z~Please, go watch it.
+
+CUNC4_ACT_16 = ~z~No, some day, you will warm up to me.
+
+CUNC4_ACT_17 = ~z~
+

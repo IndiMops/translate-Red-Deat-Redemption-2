@@ -1,0 +1,24 @@
+CABI7_ACTA_1 = ~z~How we get here, John?
+
+CABI7_ACTA_2 = ~z~~sl:0.0:1.4~Same way we end up anywhere,~sl:0.8~by annoying the wrong people.
+
+CABI7_ACTA_3 = ~z~~sl:0.0:0.8~No, I mean us.~sl:0.4:0.9~This...~sl:0.4~situation.
+
+CABI7_ACTA_4 = ~z~~sl:0.0:1.0~Look...~sl:1.5~I know I ain't acted right to you and the boy.
+
+CABI7_ACTBALT_1 = ~z~Ain't you ever heard 'three's a crowd'?
+
+CABI7_ACTBALT_2 = ~z~Well, ain't that a charming welcome.
+
+CABI7_ACTBALT_3 = ~z~Not now, Arthur, please?
+
+CABI7_ACTBALT_4 = ~z~~sl:0.0:1.5~Anyway. Uh...~sl:0.9:1.9~I'm going to get back to that...~sl:~thing I was doing.
+
+CABI7_ACTB_1 = ~z~Guess I can't make you want something you don't.
+
+CABI7_ACTB_2 = ~z~~sl:0.0:1.2~It ain't like that.~sl:1.1:1.0~Life ain't that simple.~sl:0.5~Not this life.
+
+CABI7_ACTB_3 = ~z~I know.
+
+CABI7_ACTB_4 = ~z~~sl:0.0:1.5~Anyway, I...~sl:1.1:2.4~best get back to, uh,~sl:.0.1~that thing I was doing.
+

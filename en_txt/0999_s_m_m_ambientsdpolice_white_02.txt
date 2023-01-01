@@ -1,0 +1,144 @@
+0x004640B2 = ~z~You sure you don't know nothing at all?
+
+0x0D21316E = ~z~Alright, don't make no fuss. Come along quiet now.
+
+0x0E02F662 = ~z~Reckon you could tell me why you're out here?
+
+0x1AE42F2F = ~z~That's it, I'll pull this trigger if you don't get them hands up.
+
+0x1CC60F9F = ~z~Don't do this.
+
+0x1D977857 = ~z~Whoa, I'm telling you to quit it.
+
+0x2B83DB31 = ~z~Time for you to get in line.
+
+0x2D763158 = ~z~You wanna die by my hand, right here, right now?
+
+0x3AD179CC = ~z~It ain't smart to mess with the law in Saint Denis.
+
+0x3D1BF855 = ~z~Any information you can give me on what went on here?
+
+0x3FF01689 = ~z~You're too damn close to me, move over.
+
+0x4AB1406D = ~z~One moment, I have to talk to ya.
+
+0x4B09017F = ~z~Don't you make one move, you hear me?
+
+0x5B7AE200 = ~z~Hold on, partner, we gotta talk.
+
+0x5E1AA7A2 = ~z~Quit moving, now.
+
+0x6B644C14 = ~z~You do that again and you're gonna be regretting it.
+
+0x6CE09DB2 = ~z~What in the hell d'you think you're doing?
+
+0x8DB6272B = ~z~Wait a minute, partner, let me get a better look at ya.
+
+0x14BAB098 = ~z~Not smart to get on the nerves of the law.
+
+0x17D12F1B = ~z~You move one more inch and I'll put this lead in ya.
+
+0x20A240BD = ~z~I'll hit ya dead if you move again.
+
+0x23C51DF6 = ~z~You know it's legal for me to shoot you dead, right?
+
+0x31E739EF = ~z~All right son, time to come with me.
+
+0x31FAEB18 = ~z~Listen, you trying to stir up something?
+
+0x32B93984 = ~z~I got a feeling you're who I'm looking for.
+
+0x51B33B16 = ~z~Yep, alright.
+
+0x61A89AEC = ~z~All right, we're square. Move on.
+
+0x62D6DCD8 = ~z~Okay, let's make this easy on each other. Come with me.
+
+0x64FD2A6E = ~z~Dismount quick now, that's an order.
+
+0x73DE5146 = ~z~You're disturbing the peace so get going.
+
+0x88BCB52E = ~z~Quit stalling and move it.
+
+0x94C71203 = ~z~You hard of hearing? Don't you dare move again.
+
+0x152C6A7E = ~z~Look, if you've got something to say, you should say it.
+
+0x183F3D98 = ~z~Perhaps you've heard about all the murders we had here lately. Like to offer up any information?
+
+0x541E8892 = ~z~I said both hands in the goddamn air, you hear me?
+
+0x789B381A = ~z~Enough of that. You're coming with me.
+
+0x1894A672 = ~z~Law 'round here don't tolerate that kind of behavior, so knock it off.
+
+0x2918CB98 = ~z~Not asking you again, put both hands up or I'll shoot.
+
+0x4668C172 = ~z~You got a real smart mouth on you.
+
+0x5878BCB1 = ~z~Hey, you, just wait a second there.
+
+0x6860BF7E = ~z~You best look away from me 'fore I put you in binds.
+
+0x6963B31C = ~z~Both hands up now, asshole.
+
+0x11738CD2 = ~z~I keep the law 'round here and I'm telling you to get.
+
+0x36567E28 = ~z~All right, I see you, you're coming with me.
+
+0x54367C38 = ~z~What are you still doing here?
+
+0x89966F2D = ~z~No mercy for this asshole. Kill him.
+
+0x91260CA0 = ~z~Don't drag this out now, keep on going.
+
+0x202451C4 = ~z~Don't start nothing here, let's do this the easy way, partner.
+
+0x20031418 = ~z~Trusting my instincts on this one, you don't look innocent to me.
+
+0xAD3F4480 = ~z~Do as I say and put your hands up, slow.
+
+0xBB1B5A72 = ~z~Hey, put that away, that is an order.
+
+0xBB3EE07F = ~z~Get them hands up.
+
+0xBB568C5E = ~z~What's the reason for all this nonsense?
+
+0xBD10EE06 = ~z~Hey. Get on out of here, that's an order.
+
+0xC1B49FD5 = ~z~Hey, you best stop that.
+
+0xC78E22DA = ~z~Get the hell out of here or you're gonna regret it.
+
+0xD01B7400 = ~z~Got something to say about this? Why else you hanging around?
+
+0xD784DC2C = ~z~Watch where you're going.
+
+0xDA0CE13C = ~z~Keep yer damn eyes open.
+
+0xE3D71F47 = ~z~Good enough, be on your way.
+
+0xE242ACFD = ~z~This ain't negotiable. Stay where you are.
+
+0xE7506F68 = ~z~You see 'em? Take 'em down, now.
+
+0xEB74F7C5 = ~z~That's them. Make 'em pay.
+
+0xF0B39E90 = ~z~Hey, you cut that out right now.
+
+0xF2B4499F = ~z~You don't pull a gun on a lawman. Stand down.
+
+0xF4BE3062 = ~z~That's it. You're going behind bars where you belong.
+
+0xF656EACC = ~z~You got anything to say 'bout what happened here?
+
+0xF833D220 = ~z~Was I mumbling? Cut it out.
+
+0xF6363B1C = ~z~I ain't looking for another shadow.
+
+0xF8407459 = ~z~You're just asking to be smacked down, huh?
+
+0xFBD32C48 = ~z~D'you know who I am? Show some respect.
+
+0xFDF7E642 = ~z~I don't wanna see hide nor hair of ya. Move it.
+

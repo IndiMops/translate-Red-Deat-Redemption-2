@@ -1,0 +1,40 @@
+CLNI2_ACTION_1 = ~z~You know, my father had welts all down his back...
+
+CLNI2_ACTION_2 = ~z~He was raised a slave.
+
+CLNI2_ACTION_3 = ~z~He taught all the kids how to read... a good old fashioned "house nigger" they called him, but he was beaten just the same.
+
+CLNI2_ACTION_4 = ~z~Now, it wasn't the master of the house, who my father loved, in a way...
+
+CLNI2_ACTION_5 = ~z~but his brother, who my father hated with an almighty passion...
+
+CLNI2_ACTION_6 = ~z~He'd beat the slaves almost nightly.
+
+CLNI2_ACTION_7 = ~z~Whip 'em... rape 'em...
+
+CLNI2_ACTION_8 = ~z~One night, my father was getting a whooping for the crime of being born, by this horrible bastard,
+
+CLNI2_ACTION_9 = ~z~when his sister in law, the master's wife, walks in.
+
+CLNI2_ACTION_10 = ~z~Now, fearing for my father's life, she told her brother in law to stop.
+
+CLNI2_ACTION_11 = ~z~Well... not only did he not stop, he beat her too.
+
+CLNI2_ACTION_12 = ~z~The next day, his brother, the master... shot him dead.
+
+CLNI2_ACTION_13 = ~z~The whole plantation cheered.
+
+CLNI2_ACTION_14 = ~z~The master gave my father his dead brother's watch and told him as he did so... “time will catch up with us all”.
+
+CLNI2_ACTION_15 = ~z~A year later, he set them free and hanged himself the very next night.
+
+CLNI2_ACTION_16 = ~z~My father... gave me that watch...
+
+CLNI2_ACTION_17 = ~z~Beautiful, big pocket watch it was...
+
+CLNI2_ACTION_18 = ~z~And now I gone and lost it fleeing Blackwater.
+
+CLNI2_ACTION_19 = ~z~When I get some spare money, I'mma buy myself another.
+
+CLNI2_ACTION_20 = ~z~To honor both my father and them folks that saved his life.
+

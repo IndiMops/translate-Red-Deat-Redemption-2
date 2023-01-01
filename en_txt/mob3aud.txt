@@ -1,0 +1,582 @@
+MOB3_ACHECK_1 = ~z~You alright, Dutch?
+
+MOB3_ACHECK_2 = ~z~I won't lie. I've been better, son.
+
+MOB3_ACHECK_3 = ~z~Lenny, you keep an eye on him.
+
+MOB3_ACHECK_4 = ~z~Of course.
+
+MOB3_ANTD_01 = ~z~Come on, stop toying with them.
+
+MOB3_ANTD_02 = ~z~Let's move this along, we don't have the time for games.
+
+MOB3_ANTL_01 = ~z~Sorry for my friend here. He's got a bad nature.
+
+MOB3_ANTL_02 = ~z~Always gotta mess with them, don't you?
+
+MOB3_ATTACKD_1 = ~z~~sl:0.5:0.0~Son of a bitch!
+
+MOB3_BLOWN_1 = ~z~~sl:0.5:0.0~That'll do it!
+
+MOB3_DCHECK1_1 = ~z~Stick with me, Dutch. I'll lead you out.
+
+MOB3_DCHECK2_01 = ~z~Let's go, Dutch.
+
+MOB3_DCHECK2_02 = ~z~Okay, boss, let's move.
+
+MOB3_DCHECK2_03 = ~z~Let's move up, Dutch.
+
+MOB3_DCHECK3_1 = ~z~~sl:1.5~How you doing there, boss?
+
+MOB3_DCHECK3_2 = ~z~I'm okay.
+
+MOB3_DEFENDL_01 = ~z~You take right, Lenny.
+
+MOB3_DEFENDL_02 = ~z~Lenny, go right of me.
+
+MOB3_DEFEND_02_01 = ~z~They're on the balcony! To my right!
+
+MOB3_DEFEND_02_02 = ~z~Watch out... got some on the balcony here!
+
+MOB3_DEFEND_03B_1 = ~z~Damn it, they're still coming!
+
+MOB3_DEFEND_03B_2 = ~z~We're gonna get outta here, 'kay?
+
+MOB3_DEFEND_03_1 = ~z~~sl:0.8:0.0~How many of them are there?
+
+MOB3_DEFEND_03_2 = ~z~Just keep shooting 'til nothing moves!
+
+MOB3_DEFEND_04_01 = ~z~Okay, let's move! Come on!
+
+MOB3_DEFEND_04_02 = ~z~This is our chance to move! Let's go!
+
+MOB3_DKILL_01 = ~z~Goddammit, what are you doing?
+
+MOB3_DKILL_02 = ~z~For Christ's sake, that's enough! We are here for the money.
+
+MOB3_DSHOUT_01 = ~z~Bronte is going to pay for this!
+
+MOB3_DSHOUT_02 = ~z~That bastard must have called in every cop in the city!
+
+MOB3_EXT_1 = ~z~You know what, Dutch...
+
+MOB3_EXT_2 = ~z~next time...
+
+MOB3_EXT_3 = ~z~let's not damn discretion.
+
+MOB3_EXT_4 = ~z~Seemed like a good lead.
+
+MOB3_EXT_5 = ~z~I know but...
+
+MOB3_EXT_6 = ~z~Well, we made it...
+
+MOB3_EXT_7 = ~z~thanks to you.
+
+MOB3_EXT_8 = ~z~Don't mention it.
+
+MOB3_EXT_9 = ~z~Yeah.
+
+MOB3_EXT_10 = ~z~You're a good kid.
+
+MOB3_EXT_11 = ~z~And we each got...
+
+MOB3_EXT_12 = ~z~fifteen dollars.
+
+MOB3_EXT_13 = ~z~Oh, and a quarter...
+
+MOB3_EXT_14 = ~z~don't forget the quarter.
+
+MOB3_EXT_15 = ~z~Shut up, Arthur.
+
+MOB3_EXT_16 = ~z~He set us up.
+
+MOB3_EXT_17 = ~z~Played me like a yokel.
+
+MOB3_EXT_18 = ~z~Put the law on us.
+
+MOB3_EXT_19 = ~z~What did we do to him?
+
+MOB3_EXT_20 = ~z~What did I do to him?
+
+MOB3_EXT_21 = ~z~I guess he thinks he's the king round here.
+
+MOB3_EXT_22 = ~z~He don't want the likes of you.
+
+MOB3_EXT_23 = ~z~So...
+
+MOB3_EXT_24 = ~z~what're we doing next, Dutch?
+
+MOB3_EXT_25 = ~z~We just need money...
+
+MOB3_EXT_26 = ~z~one more decent take and we're gone.
+
+MOB3_EXT_27 = ~z~The bank is our bet.
+
+MOB3_EXT_28 = ~z~Hosea agrees.
+
+MOB3_EXT_29 = ~z~Even after that?
+
+MOB3_EXT_30 = ~z~Especially after that.
+
+MOB3_EXT_31 = ~z~I don't feel so good.
+
+MOB3_EXT_32 = ~z~Ah, you just got a bash on the head.
+
+MOB3_EXT_33 = ~z~Come on, I'm taking you back to camp.
+
+MOB3_EXT_34 = ~z~Hey, you did real good there, Lenny...
+
+MOB3_EXT_35 = ~z~just wish it could have turned out better.
+
+MOB3_EXT_36 = ~z~Well, can't win 'em all.
+
+MOB3_EXT_LI_1 = ~z~~sl:1.7:0.0~I think we're clear!
+
+MOB3_GETON_01 = ~z~Arthur, come on! Before any more show up.
+
+MOB3_GETON_02 = ~z~Let's get out of here, Arthur!
+
+MOB3_GETON_03 = ~z~Shit, Arthur, let's go!
+
+MOB3_HEAD_1 = ~z~Head for that wagon!
+
+MOB3_HELPL_01 = ~z~Arthur, you need to help Lenny, now!
+
+MOB3_HELPL_02 = ~z~Need you on the left now, Arthur, come on!
+
+MOB3_HURT_1 = ~z~You okay, Dutch?
+
+MOB3_HURT_2 = ~z~~sl:0.0:2.2~Took a real bang on the head back there,~sl:~I'm seeing three of everything.
+
+MOB3_HURT_3 = ~z~You just stay down, I'll hold them off.
+
+MOB3_IG1_1 = ~z~I said open the gate and let my acquaintance in.
+
+MOB3_IG1_2 = ~z~Yes, of course.
+
+MOB3_IG2_1 = ~z~There's nothing much here!
+
+MOB3_IG2_2 = ~z~What?
+
+MOB3_IG2_3 = ~z~There's nothing really here!
+
+MOB3_IG2_4 = ~z~You're sure?
+
+MOB3_IG2_5 = ~z~Yes.
+
+MOB3_IG2_6 = ~z~Then get out here and get ready for company.
+
+MOB3_IG2_7 = ~z~All of you! Behave.
+
+MOB3_IG2_8 = ~z~We don't want to hurt any of you.
+
+MOB3_IG5_DUTCH_1 = ~z~Mr. M, check the safe.
+
+MOB3_IG5_DUTCH_2 = ~z~Sure...
+
+MOB3_IG5_OPEN_1 = ~z~Open it.
+
+MOB3_IG5_OPEN_2 = ~z~I don't think they keep much cash in there.
+
+MOB3_IG5_OPEN_3 = ~z~Open it!
+
+MOB3_IG10_1 = ~z~Damn, they blocked the road!
+
+MOB3_IG10_2 = ~z~~sl:0.0:0.8~Hold on...~sl:1.0~use this.
+
+MOB3_IG10_3 = ~z~~sl:0.7:0.0~Try to shoot it, Arthur!
+
+MOB3_IG11_A_1 = ~z~Damnit, do something!
+
+MOB3_IG11_B_1 = ~z~Arthur, come on!
+
+MOB3_IG11_C_1 = ~z~Do something!
+
+MOB3_INT_1 = ~z~There you are.
+
+MOB3_INT_2 = ~z~Come on, keep walking...
+
+MOB3_INT_3 = ~z~you're late.
+
+MOB3_INT_4 = ~z~A couple of days in this place...
+
+MOB3_INT_5 = ~z~you've turned into some clock watching city boy.
+
+MOB3_INT_6 = ~z~What's the urgency?
+
+MOB3_INT_7 = ~z~There you are.
+
+MOB3_INT_8 = ~z~Come on, keep walking...
+
+MOB3_INT_9 = ~z~you're late.
+
+MOB3_INT_10 = ~z~A couple of days in this place
+
+MOB3_INT_11 = ~z~you've turned into some clock watching city boy.
+
+MOB3_INT_12 = ~z~What's the urgency?
+
+MOB3_INT_13 = ~z~We need to leave...
+
+MOB3_INT_14 = ~z~forever.
+
+MOB3_INT_15 = ~z~We've been doing well, making money...
+
+MOB3_INT_16 = ~z~but for us all to leave together...
+
+MOB3_INT_17 = ~z~we need enough for a boat.
+
+MOB3_INT_18 = ~z~Now I found a friendly ship captain...
+
+MOB3_INT_19 = ~z~he's willing to take us to Australia, or Tahiti.
+
+MOB3_INT_20 = ~z~We just need to pay for passage and...
+
+MOB3_INT_21 = ~z~give him money for land when we get there.
+
+MOB3_INT_22 = ~z~No questions asked.
+
+MOB3_INT_23 = ~z~We will disappear.
+
+MOB3_INT_24 = ~z~ Be reborn.
+
+MOB3_INT_25 = ~z~Well, where the hell is Tahiti?
+
+MOB3_INT_26 = ~z~South Pacific.
+
+MOB3_INT_27 = ~z~An untouched paradise.
+
+MOB3_INT_28 = ~z~Who lives there?
+
+MOB3_INT_29 = ~z~Tahitians, I guess.
+
+MOB3_INT_30 = ~z~We made a bit of money on that riverboat job, but...
+
+MOB3_INT_31 = ~z~not enough for us to leave and live peacefully.
+
+MOB3_INT_32 = ~z~Where's the rest coming from?
+
+MOB3_INT_33 = ~z~In there.
+
+MOB3_INT_34 = ~z~How we gonna get enough money...
+
+MOB3_INT_35 = ~z~for the passage of a whole boat...
+
+MOB3_INT_36 = ~z~a captain's discretion, and land enough to keep us all?
+
+MOB3_INT_37 = ~z~In there.
+
+MOB3_INT_38 = ~z~So we are gonna rob that place?
+
+MOB3_INT_39 = ~z~Well, I didn't think we was fixing the plumbing.
+
+MOB3_INT_40 = ~z~I don't know if you have noticed, but we are on the clock.
+
+MOB3_INT_41 = ~z~I reckon we got a few days before the...
+
+MOB3_INT_42 = ~z~Pinkertons show and then, well, we're done.
+
+MOB3_INT_43 = ~z~Now, we need money...
+
+MOB3_INT_44 = ~z~Bronte said this place has got money.
+
+MOB3_INT_45 = ~z~Come on.
+
+MOB3_INT_46 = ~z~Ladies and gentlemen, this is a robbery...
+
+MOB3_INT_47 = ~z~behave as I tell you, and none of you will die.
+
+MOB3_INT_LI_1 = ~z~~sl:0.0:0.6~There you are.~sl:~Come on, keep walking. You're late.
+
+MOB3_INT_LO_1 = ~z~Annoy me, and you all will.
+
+MOB3_INT_LO_2 = ~z~Now, remember, we just want money. Don't make us kill you.
+
+MOB3_INT_LO_3 = ~z~Mr. M, relieve these fine folks of their valuables. Mr. S, check that room back there.
+
+MOB3_INT_LO_4 = ~z~I got this one.
+
+MOB3_INT_LO_5 = ~z~Dying is your choice, not mine. Kindly open that gate and let my acquaintance inside?
+
+MOB3_KILLCLERK_1 = ~z~Hey, that is not what we do, damn it! You know that.
+
+MOB3_LENGOOD_01 = ~z~I'm good.
+
+MOB3_LENGOOD_02 = ~z~I think so.
+
+MOB3_LENNYOK_01 = ~z~You alright there, kid?
+
+MOB3_LENNYOK_02 = ~z~Kid, you okay?
+
+MOB3_LKILL_01 = ~z~Damn, what was that for?
+
+MOB3_LKILL_02 = ~z~What the hell? Cool it down, alright?
+
+MOB3_MADEIT_1 = ~z~We're through!
+
+MOB3_MADEIT_2 = ~z~~sl:0.8:0.0~You see any more?
+
+MOB3_MADEIT_3 = ~z~Just keep going, kid.
+
+MOB3_MADEIT_4 = ~z~You okay back there?
+
+MOB3_MADEIT_5 = ~z~Don't worry about me, just get us out of here.
+
+MOB3_MCS1_1 = ~z~Damn!
+
+MOB3_MCS1_2 = ~z~We got a problem.
+
+MOB3_MCS1_3 = ~z~There's a ton of cops out there.
+
+MOB3_MCS1_4 = ~z~Come out now!
+
+MOB3_MCS1_5 = ~z~We got you surrounded!
+
+MOB3_MCS1_6 = ~z~That greasy son of a bitch...~n~~m~I said come out now!
+
+MOB3_MCS1_7 = ~z~he set us up.
+
+MOB3_MCS1_8 = ~z~You think?
+
+MOB3_MCS1_9 = ~z~This seem like a good time for sarcasm to you, Arthur?
+
+MOB3_MCS1_10 = ~z~What we gonna do gentlemen?
+
+MOB3_MCS1_11 = ~z~Something!
+
+MOB3_MCS1_12 = ~z~The trolley...
+
+MOB3_MCS1_13 = ~z~the trolley!
+
+MOB3_MCS1_14 = ~z~Follow me gentlemen!
+
+MOB3_MCS1_15 = ~z~Go...
+
+MOB3_MCS1_16 = ~z~now.
+
+MOB3_MCS1_17 = ~z~Does this trolley go to Tahiti?
+
+MOB3_MCS1_18 = ~z~I hope so!
+
+MOB3_MCS1_LI_1 = ~z~There's almost nothing here!
+
+MOB3_MCS1_LI_2 = ~z~There should be stacks of cash in there... he told us there was... look again...
+
+MOB3_MCS1_LI_3 = ~z~There's no stacks... a few dollars and coins, that's it.
+
+MOB3_MCS2_1 = ~z~Slow this thing down.
+
+MOB3_MCS2_2 = ~z~I'll try.
+
+MOB3_MCS2_3 = ~z~The thing's broke...
+
+MOB3_MCS2_4 = ~z~hold on!
+
+MOB3_MCS2_5 = ~z~Dutch...
+
+MOB3_MSC2_LO_1 = ~z~Are you okay, Dutch?
+
+MOB3_MSC2_LO_2 = ~z~~sl:0.0:2.6:1~Sure, just about.
+
+MOB3_MSC2_LO_3 = ~z~~sl:0.2:0.7:1~He's fine.
+
+MOB3_MSC2_LO_4 = ~z~
+
+MOB3_MSC2_LO_5 = ~z~~sl:0.0:1.9:1~Ahh, shit!
+
+MOB3_NOSHOOTD_01 = ~z~At least shoot something, Arthur!
+
+MOB3_NOSHOOTD_02 = ~z~What are you waiting for, Arthur?
+
+MOB3_NOSHOOTL_01 = ~z~Shoot, Arthur!
+
+MOB3_NOSHOOTL_02 = ~z~Why aren't you shooting, Arthur?
+
+MOB3_ODR4_1 = ~z~~sl:0.0:3.1~First the O'Driscolls jump us in camp, now this...~sl:~we need to wake up.
+
+MOB3_ODR4_2 = ~z~We'll wake up after we get the hell out of here!
+
+MOB3_OTHER_1 = ~z~I already checked in there. There's nothing.
+
+MOB3_PREBANT_1 = ~z~So you think they scooped him up or he turned on us?
+
+MOB3_PREBANT_2 = ~z~~sl:0.0:3.2~Kieran? There's no way he would have gone back~sl:~to Colm of his own volition.
+
+MOB3_PREBANT_3 = ~z~~sl:0.0:1.6~He'd been murdered on the spot.~sl:0.6~But if they got to him, got inside his head, who knows?
+
+MOB3_PREBANT_4 = ~z~And now they know where we're holed up...
+
+MOB3_PREBANT_5 = ~z~~sl:0.0:3.0~Maybe. They're a pretty scattered bunch and~sl:~we didn't leave no survivors.
+
+MOB3_PREBANT_6 = ~z~In any case, we'll be on our way soon.
+
+MOB3_PREBANT_7 = ~z~You mean... this boat you were talking about?
+
+MOB3_PREBANT_8 = ~z~~sl:0.0:3.5~How would you like to feel some sun on your bones~sl:~and sand beneath your feet?
+
+MOB3_PREBANT_9 = ~z~~sl:0.6~Sounds alright to me.
+
+MOB3_RECOVER1_1 = ~z~Dutch?
+
+MOB3_RECOVER1_2 = ~z~Yeah, I'm okay!
+
+MOB3_RECOVER2_1 = ~z~You okay there, Dutch?
+
+MOB3_RECOVER2_2 = ~z~I'm fine.
+
+MOB3_ROBD_01 = ~z~Why aren't you taking donations, Mr. M?
+
+MOB3_ROBD_02 = ~z~Why aren't their pockets empty yet, Mr. M?
+
+MOB3_ROBD_03 = ~z~Come on, these people are itching to part with their valuables.
+
+MOB3_ROBD_04 = ~z~Get their money, let's hurry this up.
+
+MOB3_ROBD_05 = ~z~Check them all, Mr. M, I don't want anyone feeling left out.
+
+MOB3_ROBL_01 = ~z~Come on, these folks must have something on them.
+
+MOB3_ROBL_02 = ~z~Do you want me to frisk them or you got this?
+
+MOB3_S3_OBJ1_01 = ~z~Hold them off, fellers!
+
+MOB3_S3_OBJ1_02 = ~z~Alright, shoot us some space, boys!
+
+MOB3_S3_REMIND_01 = ~z~Come on, Arthur, we need to get out of here!
+
+MOB3_S3_REMIND_02 = ~z~Let's go, Arthur, this way!
+
+MOB3_S3_REMIND_03 = ~z~This way, Arthur, come on!
+
+MOB3_S3_REMIND_04 = ~z~Hurry, Arthur, into the alleys!
+
+MOB3_S4_BALCONY_1 = ~z~Eyes up! On the balcony!
+
+MOB3_S4_COURT_1 = ~z~Shit, they're in here too.
+
+MOB3_S4_COURT_2 = ~z~We can't let them follow us!
+
+MOB3_S4_DOWN_1 = ~z~Look out, they blocked the road!
+
+MOB3_S4_HORSES_1 = ~z~Riders, watch out!
+
+MOB3_S4_MOVE_1 = ~z~Now's our chance, let's go!
+
+MOB3_S4_OBJ_1 = ~z~Through here, let's go.
+
+MOB3_S4_REMIND_01 = ~z~Come on, Arthur, let's go.
+
+MOB3_S4_REMIND_02 = ~z~Let's go, Arthur, stick with us.
+
+MOB3_S4_REMIND_03 = ~z~Stay with us, Arthur.
+
+MOB3_S4_REMIND_04 = ~z~We need to go, Arthur, stay with us.
+
+MOB3_S4_RIGHT_1 = ~z~Go right!
+
+MOB3_S4_STREET1_1 = ~z~This way, onto the street!
+
+MOB3_S4_STREET2_1 = ~z~We gotta move, boss, stay with me!
+
+MOB3_S5_BANT1_01 = ~z~Don't damage that wagon! We need a way out of here!
+
+MOB3_S5_BANT1_02 = ~z~Keep that wagon intact, okay? We might need it!
+
+MOB3_S5_BANT2_01 = ~z~Get on the damn wagon, Arthur!
+
+MOB3_S5_BANT2_02 = ~z~Hurry up! We need to get out of here, now!
+
+MOB3_S5_BANT2_03 = ~z~What are you doing? We gotta move!
+
+MOB3_S6_OBJ1_01 = ~z~Looks like they ain't giving up yet!
+
+MOB3_S6_OBJ1_02 = ~z~Look! We ain't done yet!
+
+MOB3_S6_WAVE1_01 = ~z~They're chasing us, take them out.
+
+MOB3_S6_WAVE1_02 = ~z~Coming from behind us, get rid of them.
+
+MOB3_S6_WAVE3_01 = ~z~There are more on my right!
+
+MOB3_S6_WAVE3_02 = ~z~To my right, shoot them down!
+
+MOB3_S6_WAVE4_01 = ~z~Street on the left! They're still coming!
+
+MOB3_S6_WAVE4_02 = ~z~On the left there, hold them off!
+
+MOB3_S6_WAVE5_01 = ~z~Look out on the right, fellers!
+
+MOB3_S6_WAVE5_02 = ~z~We got more on the right!
+
+MOB3_SEARCH_01 = ~z~Are you going to see what's in there?
+
+MOB3_SEARCH_02 = ~z~Clear that safe, let's go.
+
+MOB3_SEARCH_03 = ~z~What is taking so long here?
+
+MOB3_SHOOTD_01 = ~z~Oh for Christ's sake, are you trying to get us caught here?
+
+MOB3_SHOOTD_02 = ~z~What are you doing? Put the damn gun down.
+
+MOB3_SHOOTL_01 = ~z~What the hell are you shooting for?
+
+MOB3_SHOOTL_02 = ~z~Hey, stop that! Are you crazy?
+
+MOB3_SLOW_1 = ~z~Arthur, slow us down!
+
+MOB3_STATHELP_01 = ~z~What's the holdup Mr. M? Help our friend here open the safe.
+
+MOB3_STATHELP_02 = ~z~The safe, Mr. M., come on. Let these poor people get back to their lives.
+
+MOB3_STILLDAWD_01 = ~z~Like I said, we're on the clock here.
+
+MOB3_STILLDAWD_02 = ~z~Get the money and let's go. Come on.
+
+MOB3_STILLDAWD_03 = ~z~Are you hearing me? Hurry this along.
+
+MOB3_STOPD_01 = ~z~Okay, I think they got the message.
+
+MOB3_STOPD_02 = ~z~Hey, keep your cool now...
+
+MOB3_STOPL_01 = ~z~Hey, hey, go easy there.
+
+MOB3_STOPL_02 = ~z~Yeah, they're good now.
+
+MOB3_STRUGGLE_1 = ~z~Get the hell off of me!
+
+MOB3_THANKS_1 = ~z~Thank you, son!
+
+MOB3_TOLENNY_01 = ~z~You heard the boss, check the safe.
+
+MOB3_TOLENNY_02 = ~z~Hurry up, come on! We need to get outta here.
+
+MOB3_TROLLEY_01_01 = ~z~Look out on the right!
+
+MOB3_TROLLEY_01_02 = ~z~We got more on the right!
+
+MOB3_TROLLEY_02_1 = ~z~Watch those side alleys, Arthur!
+
+MOB3_TROLLEY_02_2 = ~z~We've got one on the balcony too!
+
+MOB3_TROLLEY_04_01 = ~z~Arthur, coming out of the bank... on the right.
+
+MOB3_TROLLEY_04_02 = ~z~Look out right, coming out of the bank.
+
+MOB3_TROLLEY_05_1 = ~z~We got some riders on the left!
+
+MOB3_TROLLEY_05_2 = ~z~Arthur, help Lenny out there!
+
+MOB3_TROLLEY_06_1 = ~z~Outside the saloon! Oh damn, we are really moving here!
+
+MOB3_TROLLEY_2B_1 = ~z~We got some in those alleyways, Arthur!
+
+MOB3_TROLLEY_2B_2 = ~z~And up on that balcony!
+
+MOB3_TROLLEY_5B_1 = ~z~Some riders coming on this side!
+
+MOB3_TROLLEY_5B_2 = ~z~Arthur, cover our left with Lenny!
+
+MOB3_WAGON_03_01 = ~z~Head for the bridge!
+
+MOB3_WAGON_03_02 = ~z~Just head straight for the bridge!
+

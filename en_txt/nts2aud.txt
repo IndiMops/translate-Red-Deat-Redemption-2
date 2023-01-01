@@ -1,0 +1,534 @@
+NTS2_00_CALL_01 = ~z~Arthur! Up here.
+
+NTS2_00_CALL_02 = ~z~We're up here.
+
+NTS2_00_CALL_03 = ~z~Come up top here, Arthur!
+
+NTS2_00_CALL_04 = ~z~Hey, go around and climb up.
+
+NTS2_01_BRAVESP_1 = ~z~My spotter will let us know when they're near.
+
+NTS2_01_EFRET_01 = ~z~Arthur, we need to plant that dynamite.
+
+NTS2_01_EFRET_02 = ~z~Get back down there, please.
+
+NTS2_01_EFRET_03 = ~z~What are you doing, Arthur? You aren't finished down there.
+
+NTS2_01_POSITN_01 = ~z~Quick now, Arthur, everyone into position.
+
+NTS2_01_POSITN_02 = ~z~The detonator's by me, here.
+
+NTS2_01_POSITN_03 = ~z~Over here, Arthur.
+
+NTS2_01_RETURN_1 = ~z~I think that should do it. Come on now, quick, get back up here.
+
+NTS2_01_RETURN_2 = ~z~Okay. Let's go, Arthur.
+
+NTS2_01_START_1 = ~z~~sl:0.0:1.6~We don't have a lot of time...~sl:0.2~the patrol should be coming in a few minutes.
+
+NTS2_01_START_2 = ~z~Okay. Hurry, Arthur, I'll plant the dynamite, you run the wire.
+
+NTS2_01_START_3 = ~z~We'll keep lookout from up here.
+
+NTS2_01_WARN1_01 = ~z~Please hurry.
+
+NTS2_01_WARN1_02 = ~z~Quick as you can.
+
+NTS2_01_WARN1_03 = ~z~Come on, we don't have long.
+
+NTS2_01_WARN2_01 = ~z~We're running out of time, they'll be here any minute!
+
+NTS2_01_WARN2_02 = ~z~Gentlemen, come on. You really need to hurry now!
+
+NTS2_01_WARN2_03 = ~z~You need to finish up, they'll be coming around that bend any second!
+
+NTS2_01_WARN3_01 = ~z~Come on, they're almost here.
+
+NTS2_01_WARN3_02 = ~z~Hurry before they see you.
+
+NTS2_01_WARN3_03 = ~z~Get back up here or they'll spot you.
+
+NTS2_02_HOLD_1 = ~z~There they are... looks like more than we thought.
+
+NTS2_02_HOLD_2 = ~z~~sl:0.0:2.1~It's fine, we're only here to talk...~sl:~and administer a little good old-fashioned humiliation.
+
+NTS2_02_HOLD_3 = ~z~You're owed that, son, at the very least.
+
+NTS2_02_HOLD_4 = ~z~Wait for my lead, men.
+
+NTS2_02_HOLD_5 = ~z~Everyone just stay calm. We've got the upper hand here.
+
+NTS2_02_PROMPT_1 = ~z~~sl:0.0:2.8~Okay, they've passed the first charge.~sl:~If we blow it now, we should have them trapped.
+
+NTS2_02_SIGNAL_1 = ~z~Okay, that's the signal. Here they come. Stay low and quiet.
+
+NTS2_02_SIGNAL_2 = ~z~You sure you don't want me to man that plunger, Arthur?
+
+NTS2_02_SIGNAL_3 = ~z~No, I got it.
+
+NTS2_02_SIGNAL_4 = ~z~~sl:0.0:1.5~Oh, remove the weight of the world~sl:~from your shoulders for a minute.
+
+NTS2_02_SIGNAL_5 = ~z~Like I said, we're just going to give them a bit of a scare...
+
+NTS2_03_COMBAT_1 = ~z~There's another patrol in the rear.
+
+NTS2_03_COMBAT_2 = ~z~Looks like we got a fight then, boys.
+
+NTS2_03_CORPSES_1 = ~z~This is crazy, why aren't we getting out of here?
+
+NTS2_03_CORPSES_2 = ~z~~sl:0.0:1.7~They might have information on them~sl:~that will help our friends with their cause.
+
+NTS2_03_CORPSES_3 = ~z~We need anything my father can use to strengthen our case.
+
+NTS2_03_CORPSES_4 = ~z~I ain't sure much is gonna strengthen your case after this...
+
+NTS2_03_DEFBNT1_1 = ~z~My father won't be happy about this.
+
+NTS2_03_DEFBNT1_2 = ~z~They fired first, son.
+
+NTS2_03_FLEE_1 = ~z~Look, they're running.
+
+NTS2_03_SHOUTEF_01 = ~z~You bastards!
+
+NTS2_03_SHOUTEF_02 = ~z~This has gone on long enough!
+
+NTS2_03_SHOUTEF_03 = ~z~Is this what you wanted?
+
+NTS2_03_SHOUTEF_04 = ~z~We'll kill you all if that's what it takes!
+
+NTS2_03_SHOUTEF_05 = ~z~You pushed us to this!
+
+NTS2_03_SHOUTP_01 = ~z~You started this!
+
+NTS2_03_SHOUTP_02 = ~z~Hold your ground!
+
+NTS2_03_SHOUTP_03 = ~z~Take them down!
+
+NTS2_03_UPTOP_1 = ~z~Look out! They're coming up on our left.
+
+NTS2_04_LOOT_EF_01 = ~z~Maybe now they'll take us seriously.
+
+NTS2_04_LOOT_EF_02 = ~z~Look for anything they have on Colonel Favours.
+
+NTS2_04_LOOT_EF_03 = ~z~Don't forget what these men did to our women, our children.
+
+NTS2_05_AMBUSH_1 = ~z~Shit! Everyone keep your heads down! We're gonna get out of this.
+
+NTS2_05_BATTLE_1 = ~z~What do we do here, Dutch? This is a lot of men.
+
+NTS2_05_BATTLE_2 = ~z~Just hold your ground. Surrender and they'll hang you all.
+
+NTS2_05_BLAST_1 = ~z~~sl:0.0:2.3~No! My brothers!~sl:0.4~Paytah! Are you alright?
+
+NTS2_05_BLAST_2 = ~z~~sl:0.3:1.1:1~I think so.
+
+NTS2_05_BLAST_3 = ~z~They'll pay for that!
+
+NTS2_05_CANNON1_1 = ~z~Up the hill, the cannon. Take out the spotter, Arthur.
+
+NTS2_05_CANNON2_1 = ~z~Try to flank them, Arthur. We'll shoot you some space.
+
+NTS2_05_CANNON2_2 = ~z~Yes, we need to take out that cannon.
+
+NTS2_05_SAFE_1 = ~z~Is that all of them?
+
+NTS2_06_FLEE_1 = ~z~~sl:0.0:3.2~This area's gonna be crawling with soldiers in a few minutes,~sl:~we gotta leave. Now.
+
+NTS2_06_FLEE_2 = ~z~What about Eagle Flies?
+
+NTS2_06_FLEE_3 = ~z~We gotta go, Arthur. Come on.
+
+NTS2_06_HIDE_1 = ~z~Left here. Into the trees!
+
+NTS2_06_LEAVE_1 = ~z~Okay, let's dismount here, we won't get the horses down this path.
+
+NTS2_06_RIDE_1 = ~z~We need to ride hard! Stay with me!
+
+NTS2_07_DECEND_1 = ~z~Let's see if we can lose them down here.
+
+NTS2_07_LEAVE_01 = ~z~We're being overrun. Get outta here!
+
+NTS2_07_LEAVE_02 = ~z~There's too many. Run, get moving!
+
+NTS2_07_LEAVE_03 = ~z~I'll hold them here. Move!
+
+NTS2_07_LETSGO_01 = ~z~Let's move! Come on!
+
+NTS2_07_LETSGO_02 = ~z~We gotta keep going!
+
+NTS2_07_LETSGO_03 = ~z~Let's go, Arthur. Come on!
+
+NTS2_07_OVERRUN_01 = ~z~I don't know how much longer we can hold out...
+
+NTS2_07_OVERRUN_02 = ~z~This is a losing battle, Arthur. Oh, we gotta do something.
+
+NTS2_07_PATH_A_1 = ~z~Come on! Let's see if there's a way out through here.
+
+NTS2_07_PATH_B_1 = ~z~Let's keep going! Follow the pass, it's got to spit us out somewhere.
+
+NTS2_07_WAVE1_1 = ~z~Shit. I guess not. Get behind something, Arthur!
+
+NTS2_07_WAVE2_1 = ~z~More on the left!
+
+NTS2_07_WAVE3_1 = ~z~Behind us. Hold them off.
+
+NTS2_07_WAVE4_1 = ~z~There's too many, Arthur! Fall back.
+
+NTS2_09_BECKON_01 = ~z~Come on, Arthur. Take my hand.
+
+NTS2_09_BECKON_02 = ~z~Here. Oh, don't give up now!
+
+NTS2_09_BECKON_03 = ~z~Grab on, we're almost home free.
+
+NTS2_BODIESCHAT_1 = ~z~I have a bad feeling about this. We said nobody would be killed.
+
+NTS2_BODIESCHAT_2 = ~z~It's done now.
+
+NTS2_BODIESCHAT_3 = ~z~If Colonel Favours finds out it was us...
+
+NTS2_BODIESCHAT_4 = ~z~Then so be it... we have tried talking.
+
+NTS2_BODIESCHAT_5 = ~z~We should get out of here soon, though.
+
+NTS2_BODIESCHAT_6 = ~z~I agree.
+
+NTS2_DONE_ODR5_1 = ~z~So, you finally got to see Colm hang...
+
+NTS2_DONE_ODR5_2 = ~z~Yeah... after all those years.
+
+NTS2_DONE_ODR5_3 = ~z~Hard to believe... oh, but it was worth the wait.
+
+NTS2_DONE_ODR5_4 = ~z~See, we're tying up the loose ends, Arthur, one by one.
+
+NTS2_DONE_TRN2_1 = ~z~~sl:0.0:1.7~I sent for some of that dynamite~sl:~you and Bill commandeered in Van Horn.
+
+NTS2_DONE_TRN2_2 = ~z~Good work with that, by the way.
+
+NTS2_DONE_TRN2_3 = ~z~Bill played drunk.
+
+NTS2_DONE_TRN2_4 = ~z~The perfect man for the job.
+
+NTS2_EXT_1 = ~z~We're okay.
+
+NTS2_EXT_2 = ~z~Come here, big boy...
+
+NTS2_EXT_3 = ~z~I got ya.
+
+NTS2_EXT_4 = ~z~We're okay.
+
+NTS2_EXT_5 = ~z~You're okay.
+
+NTS2_EXT_6 = ~z~What a mess.
+
+NTS2_EXT_7 = ~z~I know...
+
+NTS2_EXT_8 = ~z~but a mess is what we need.
+
+NTS2_EXT_9 = ~z~We just escaped from chaos.
+
+NTS2_EXT_10 = ~z~Eagle Flies must have been taken.
+
+NTS2_EXT_11 = ~z~Taken...
+
+NTS2_EXT_12 = ~z~or killed.
+
+NTS2_EXT_13 = ~z~Well, we can't go find out.
+
+NTS2_EXT_14 = ~z~No, not now.
+
+NTS2_EXT_15 = ~z~Charles...
+
+NTS2_EXT_16 = ~z~I'll...
+
+NTS2_EXT_17 = ~z~we'll send him.
+
+NTS2_EXT_18 = ~z~Where is he?
+
+NTS2_EXT_19 = ~z~He's probably back at camp.
+
+NTS2_EXT_20 = ~z~Let's split up.
+
+NTS2_EXT_21 = ~z~I'll go tell him.
+
+NTS2_EXT_22 = ~z~You rest up...
+
+NTS2_EXT_23 = ~z~keep a look out.
+
+NTS2_EXT_24 = ~z~We are gonna make it, brother...
+
+NTS2_EXT_25 = ~z~I can feel it.
+
+NTS2_EXT_26 = ~z~Faith, Arthur...
+
+NTS2_EXT_27 = ~z~I'll go tell him.
+
+NTS2_EXT_28 = ~z~You rest up...
+
+NTS2_EXT_29 = ~z~then go meet him up at the reservation.
+
+NTS2_EXT_30 = ~z~We are gonna make it, brother...
+
+NTS2_EXT_31 = ~z~I can feel it.
+
+NTS2_EXT_32 = ~z~Faith, Arthur...
+
+NTS2_EXT_33 = ~z~have faith.
+
+NTS2_GETTHIS_1 = ~z~Sure, we are. Come on, let's get this done.
+
+NTS2_IG0_P1_1 = ~z~Besides, it's perfect...
+
+NTS2_IG0_P1_2 = ~z~people will see these boys, they won't notice us and they'll think we're gone.
+
+NTS2_IG0_P1_3 = ~z~Everyone will blame everything on the Indian problem, and we'll disappear... up the river.
+
+NTS2_IG0_P1_4 = ~z~But first we need to trap them in this pass... help me dynamite up these trees.
+
+NTS2_IG0_P1_5 = ~z~So... you're using them?
+
+NTS2_IG0_P1_6 = ~z~No, sir, no... never... but, it is mutually beneficial to draw attention to one problem and a veil over another.
+
+NTS2_IG0_P1_7 = ~z~~sl:0.5:0.0~These are good people... but their situation is real complex, we ain't helping them.
+
+NTS2_IG3_1 = ~z~~sl:0.0:1.0~They're coming now...~sl:1.5:1.2~Oh, damn...~sl:0.9~the patrol is a lot larger than we thought it was gonna be...
+
+NTS2_IG3_2 = ~z~~sl:0.6~Don't worry... that's a good thing...
+
+NTS2_IG6_1 = ~z~~sl:0.0:0.8~Alright...~sl:0.1~let's carry on by foot, try and sell them a little snake oil.
+
+NTS2_IG6_2 = ~z~You think?
+
+NTS2_IG6_3 = ~z~~sl:0.0:2.4:1~It's all I got. Get outta here!
+
+NTS2_IG7_FJUMP_1 = ~z~
+
+NTS2_IG7_FJUMP_2 = ~z~
+
+NTS2_IG7_JUMP_1 = ~z~
+
+NTS2_IG7_JUMP_2 = ~z~
+
+NTS2_IG8_1 = ~z~Put your hands up!
+
+NTS2_IG8_2 = ~z~Hello, Captain...
+
+NTS2_IG8_3 = ~z~Keep your hands up and come here...
+
+NTS2_IG8_4 = ~z~come here...
+
+NTS2_IG8_5 = ~z~We, uh... we can't do that.
+
+NTS2_IG8_6 = ~z~~sl:0.0:1.0~Your men...~sl:2.1:1.4~those men they killed...~sl:1.8~they were good men.
+
+NTS2_IG8_7 = ~z~You're fighting nature, Captain.
+
+NTS2_IG8_8 = ~z~Get over here!
+
+NTS2_IG8_9 = ~z~~sl:0.0:1.7~Ask my friend here...~sl:1.1~my whole life I tried to fight change...
+
+NTS2_IG8_10 = ~z~It's a waste... I see that now... it's a waste.
+
+NTS2_IG8_11 = ~z~~sl:0.0:2.2~You can't fight nature, Captain...~sl:1.8~you can't fight change...
+
+NTS2_IG8_12 = ~z~You can't fight... gravity.
+
+NTS2_IG8_13 = ~z~What the hell are you talking about?
+
+NTS2_IG8_14 = ~z~~sl:0.0:0.7~Arthur...~sl:0.8~jump.
+
+NTS2_INT_1 = ~z~So good of you to join us.
+
+NTS2_INT_2 = ~z~What's going on?
+
+NTS2_INT_3 = ~z~Rebellion.
+
+NTS2_INT_4 = ~z~The smell of cordite and integrity.
+
+NTS2_INT_5 = ~z~It is a beautiful thing.
+
+NTS2_INT_6 = ~z~What are you all doing?
+
+NTS2_INT_7 = ~z~An eye for an eye.
+
+NTS2_INT_8 = ~z~We didn't start this, Arthur.
+
+NTS2_INT_9 = ~z~They did.
+
+NTS2_INT_10 = ~z~We? This ain't our fight.
+
+NTS2_INT_11 = ~z~It surely is.
+
+NTS2_INT_12 = ~z~Whatever it is you're planning...
+
+NTS2_INT_13 = ~z~it ain't a good idea.
+
+NTS2_INT_14 = ~z~They want you to fight.
+
+NTS2_INT_15 = ~z~Nobody will be killed.
+
+NTS2_INT_16 = ~z~We're just gonna trap a few of them in the valley...
+
+NTS2_INT_17 = ~z~disarm them...
+
+NTS2_INT_18 = ~z~tar and feather them...
+
+NTS2_INT_19 = ~z~and remind them to leave these boys alone.
+
+NTS2_INT_20 = ~z~You have energy for pranks?
+
+NTS2_INT_21 = ~z~Come on, Arthur.
+
+NTS2_INT_22 = ~z~It's just tweaking Uncle Sam's nose a little.
+
+NTS2_INT_23 = ~z~I need you to help me.
+
+NTS2_INT_LI_1 = ~z~So good of you to join us...
+
+NTS2_INT_LI_2 = ~z~What's going on?
+
+NTS2_MCS1_1 = ~z~Put your hands up.
+
+NTS2_MCS1_2 = ~z~You're surrounded.
+
+NTS2_MCS1_3 = ~z~Nobody need get hurt.
+
+NTS2_MCS1_4 = ~z~Your humiliation of us has gone on quite enough.
+
+NTS2_MCS1_5 = ~z~This ain't a good idea.
+
+NTS2_MCS1_6 = ~z~Put down your guns.
+
+NTS2_MCS1_7 = ~z~You are making a mistake, boy.
+
+NTS2_MCS1_8 = ~z~No, you're making a mistake...
+
+NTS2_MCS1_9 = ~z~put your hands up, soldier...
+
+NTS2_MCS1_10 = ~z~take a little humiliation and leave these fine folks alone.
+
+NTS2_MCS1_11 = ~z~Who are you?
+
+NTS2_MCS1_12 = ~z~A concerned citizen.
+
+NTS2_MCS1_13 = ~z~Is that so?
+
+NTS2_MCS1_14 = ~z~They're being ambushed!
+
+NTS2_MCS1_15 = ~z~What now?
+
+NTS2_MCS1_16 = ~z~We should move.
+
+NTS2_MCS1_17 = ~z~No, no, no, no, not quite yet...
+
+NTS2_MCS1_18 = ~z~Get ready to fire!
+
+NTS2_MCS1_19 = ~z~Soldier, you and your friends going to tuck tail and run off?
+
+NTS2_MCS1_20 = ~z~Run!
+
+NTS2_MCS1_21 = ~z~Excuse me?
+
+NTS2_MCS1_22 = ~z~I'm getting bored of this...
+
+NTS2_MCS1_23 = ~z~your friends fired first, soldier!
+
+NTS2_MCS2_1 = ~z~Find anything?
+
+NTS2_MCS2_2 = ~z~Yes...
+
+NTS2_MCS2_3 = ~z~some poor fool from New Jersey.
+
+NTS2_MCS2_4 = ~z~These boys ain't the problem...
+
+NTS2_MCS2_5 = ~z~they're only kids.
+
+NTS2_MCS2_6 = ~z~Keep looking...
+
+NTS2_MCS3_1 = ~z~Where's Paytah?
+
+NTS2_MCS3_2 = ~z~Damn...
+
+NTS2_MCS3_3 = ~z~they're sending riders from the fort, we need to leave.
+
+NTS2_MCS3_4 = ~z~But where's Paytah?
+
+NTS2_MCS3_5 = ~z~Was he killed?
+
+NTS2_MCS3_6 = ~z~He's alive...
+
+NTS2_MCS3_7 = ~z~Well...
+
+NTS2_MCS3_8 = ~z~that went just about according to plan.
+
+NTS2_MCS3_9 = ~z~I'm trying...
+
+NTS2_MCS3_10 = ~z~I'm trying, Arthur, with everything I have...
+
+NTS2_MCS3_11 = ~z~and I will keep trying...
+
+NTS2_MCS3_12 = ~z~and you'll keep doubting me...
+
+NTS2_MCS3_13 = ~z~and we'll keep failing.
+
+NTS2_MCS3_14 = ~z~It ain't like that, Dutch...
+
+NTS2_MCS3_15 = ~z~look at me.
+
+NTS2_MCS3_16 = ~z~Look at me!
+
+NTS2_MCS3_17 = ~z~I'm just...
+
+NTS2_MCS3_18 = ~z~I'm worried about folk.
+
+NTS2_MCS3_19 = ~z~I'm just...
+
+NTS2_MCS3_20 = ~z~This ain't how we do things.
+
+NTS2_MCS3_21 = ~z~I know, I...
+
+NTS2_MCS3_22 = ~z~We should go.
+
+NTS2_MCS3_23 = ~z~Where's Eagle Flies?
+
+NTS2_MCS3_24 = ~z~Run, son!
+
+NTS2_MCS3_25 = ~z~Run!
+
+NTS2_MCS3_26 = ~z~Come on.
+
+NTS2_MCS4_1 = ~z~It's a dead end!
+
+NTS2_MCS4_2 = ~z~This is it, this is...
+
+NTS2_MCS4_3 = ~z~Well, Arthur...
+
+NTS2_MCS4_4 = ~z~Put your hands up!
+
+NTS2_MCS4_5 = ~z~I said put your damn hands up!
+
+NTS2_MCS4_6 = ~z~Okay.
+
+NTS2_MCS4_7 = ~z~Okay.
+
+NTS2_MCS4_8 = ~z~Follow my lead.
+
+NTS2_MCS4_9 = ~z~I got a plan.
+
+NTS2_MCS4_10 = ~z~This is a good one.
+
+NTS2_MCS4_11 = ~z~Hello, officers.
+
+NTS2_MCS4_12 = ~z~You keep them hands up, and come here.
+
+NTS2_RUNTLK_1 = ~z~~sl:0.4~You fools, you damn fools, it's the army!
+
+NTS2_RUNTLK_2 = ~z~It is one regiment of pastry chefs and bullies, watch your goddamn mouth.
+
+NTS2_RUNTLK_3 = ~z~All of you... take what you can, and then we move out!
+
+NTS2_RUNTLK_4 = ~z~Move now, we have to move now.
+
+NTS2_RUNTLK_5 = ~z~Search these men quickly, then we move.
+
+NTS2_SPOT_1 = ~z~Hurry, I think I see some movement in the distance.
+

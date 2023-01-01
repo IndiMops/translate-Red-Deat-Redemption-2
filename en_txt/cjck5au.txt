@@ -1,0 +1,38 @@
+CJCK5_ACTION_A_1 = ~z~
+
+CJCK5_ACTION_A_2 = ~z~I thought you'd run off to join the circus.
+
+CJCK5_ACTION_A_3 = ~z~Huh? Circus? No...
+
+CJCK5_ACTION_A_4 = ~z~You worried your mother half to death.
+
+CJCK5_ACTION_A_5 = ~z~I was fine. Really, I was. I ate spaghetti.
+
+CJCK5_ACTION_A_6 = ~z~What?
+
+CJCK5_ACTION_A_7 = ~z~Oh, it's Italian food. It's... I don't know how to explain.
+
+CJCK5_ACTION_A_8 = ~z~Was it nice?
+
+CJCK5_ACTION_A_9 = ~z~Yeah... really nice.
+
+CJCK5_ACTION_A_10 = ~z~And the people?
+
+CJCK5_ACTION_A_11 = ~z~They were nice too... everything was very... well, different. I slept in a bed in a room.
+
+CJCK5_ACTION_A_12 = ~z~Like a cage?
+
+CJCK5_ACTION_A_13 = ~z~No, no, no... more like a palace in a story.
+
+CJCK5_ACTION_A_14 = ~z~Oh, how nice for ya... our little prince.
+
+CJCK5_ACTION_B_1 = ~z~Well, little prince, tomorrow we begin reading again.
+
+CJCK5_ACTION_B_2 = ~z~
+
+CJCK5_ACT_A_INT_1 = ~z~Boy's got used to fine living, Arthur.
+
+CJCK5_ACT_A_INT_2 = ~z~What could be finer than a home in a swamp surrounded by alligators?
+
+CJCK5_ACT_A_INT_3 = ~z~Very true.
+

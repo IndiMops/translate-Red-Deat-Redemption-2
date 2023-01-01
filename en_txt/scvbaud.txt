@@ -1,0 +1,42 @@
+SCVB_0050A_1 = ~z~Say, you that feller who bought the land at Beecher's Hope?
+
+SCVB_0050B_1 = ~z~Don't mean to pry... rode out that way a day or two back.
+
+SCVB_0050B_2 = ~z~Just glad someone's doing something with it, not easy land I'm sure.
+
+SCVB_0050B_3 = ~z~Anyways, didn't mean to interrupt you... best of luck with it all.
+
+SCVB_0928A_1 = ~z~Hey, this your first time in Blackwater?
+
+SCVB_0928B_1 = ~z~Some town, ain't it? Got that feel about it, that energy, a place on the up.
+
+SCVB_0928B_2 = ~z~New people arriving, new buildings going up.
+
+SCVB_0928B_3 = ~z~Wouldn't be surprised if we're giving Chicago a run for its money in the next ten years.
+
+SCVB_0928B_4 = ~z~Some folk here don't like the change, but it makes me proud.
+
+SCVB_0928B_5 = ~z~Anyway, don't you mind me. You enjoy your stay here.
+
+SCVB_0929A_1 = ~z~Don't know if I've seen you in here before. You new to town?
+
+SCVB_0929B_1 = ~z~It's amazing how Blackwater's come on the past few years... like a different town, and in a good way.
+
+SCVB_0929B_2 = ~z~You should have seen it back in '99... it was scary back then.
+
+SCVB_0929B_3 = ~z~Now, well some folk say it's too quiet... too calm. But calm is fine by me.
+
+SCVB_0929B_4 = ~z~Anyway, mister, didn't mean to disturb you...
+
+SCVB_0945A_1 = ~z~You married, mister?
+
+SCVB_0945B_1 = ~z~Well, heed my advice, don't never do it.
+
+SCVB_0945B_2 = ~z~If I had my time again... speak now and forever hold your peace...
+
+SCVB_0945B_3 = ~z~I'd have shot myself in the head right there and then.
+
+SCVB_0945B_4 = ~z~They can't turn us into men we ain't.
+
+SCVB_0945B_5 = ~z~Anyway, I'm sorry, I'll let you get back to your drink. Been a bad couple of days.
+

@@ -1,0 +1,34 @@
+CCWG1_ACTION_1 = ~z~Hey, Arthur.
+
+CCWG1_ACTION_2 = ~z~Charles. How you doing?
+
+CCWG1_ACTION_3 = ~z~Fine...
+
+CCWG1_ACTION_4 = ~z~Listen... I'll be taking off for a few days.
+
+CCWG1_ACTION_5 = ~z~Sure... what are you up to?
+
+CCWG1_ACTION_6 = ~z~Eagle Flies... the Chief's son.
+
+CCWG1_ACTION_7 = ~z~Yeah, I remember.
+
+CCWG1_ACTION_8 = ~z~He needs my help.
+
+CCWG1_ACTION_9 = ~z~Okay... there anything I can help with?
+
+CCWG1_ACTION_10 = ~z~No... I feel this it is something that means more to me than you.
+
+CCWG1_ACTION_11 = ~z~Well... you've saved my hide often enough, brother.
+
+CCWG1_ACTION_12 = ~z~Some boys he knows have been taken... they are being sent to reform school or someplace far away.
+
+CCWG1_ACTION_13 = ~z~I said I would see if there was some way I could help free 'em.
+
+CCWG1_ACTION_14 = ~z~Okay.
+
+CCWG1_ACTION_15 = ~z~This should be easy enough. I'll sneak in at night and send them home.
+
+CCWG1_ACTION_16 = ~z~This is just a one man job.
+
+CCWG1_ACTION_17 = ~z~Good luck.
+

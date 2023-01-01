@@ -1,0 +1,112 @@
+0x164F4653 = Cancel
+
+0x49374D85 = Demon
+
+0xEC9142A0 = Obediah Hinton
+
+HNTN1_BASH = Break Free
+
+HNTN1_BLIP = Stranger
+
+HNTN1_BLIP_B = Butcher Creek
+
+HNTN1_BLIP_L = Lemuel
+
+HNTN1_BLIP_P = Porch
+
+HNTN1_D_HLP = Be careful not to drown the stranger by taking him into deep water.
+
+HNTN1_F_0 = The stranger was killed.
+
+HNTN1_F_1 = Obediah was killed.
+
+HNTN1_F_2 = You scared a villager.
+
+HNTN1_F_2A = You attacked a villager.
+
+HNTN1_F_3 = The stranger was abandoned.
+
+HNTN1_F_3B = Lemuel was abandoned.
+
+HNTN1_OBJ_2 = Mount your ~o~horse~s~
+
+HNTN1_OBJ_3 = Pick up the ~o~stranger~s~
+
+HNTN1_OBJ_3B = Pick up ~o~Lemuel~s~
+
+HNTN1_OBJ_4 = Take the stranger to ~o~Butcher Creek~s~
+
+HNTN1_OBJ_4B = Take Lemuel to ~o~Butcher Creek~s~
+
+HNTN1_OBJ_5 = Place Lemuel on the ~o~porch~s~
+
+HNTN1_OBJ_6 = Fight off Lemuel
+
+HNTN1_OBJ_7 = Pick up Lemuel from the ~o~horse~s~
+
+HNTN1_OBJ_8 = Return to the ~o~stranger~s~
+
+HNTN1_OBJ_8B = Return to ~o~Lemuel~s~
+
+HNTN2_BLIP1B = Villager
+
+HNTN2_BLIP1C = Kain
+
+HNTN2_F_0 = Obediah was killed.
+
+HNTN2_F_1 = A villager was killed.
+
+HNTN2_F_2 = The villager was abandoned.
+
+HNTN2_OBJ0 = Investigate the ~o~barking~s~
+
+HNTN2_OBJ1 = Search for the ~o~demons~s~ behind the house
+
+HNTN2_OBJ2B = Save the ~o~villager~s~
+
+HNTN2_OBJ2C = Protect ~o~Kain~s~
+
+HNTN2_OBJ3 = Kill the ~e~demons~s~
+
+HNTN2_OBJ7A = Protect the ~o~villagers~s~
+
+HNTN2_OBJ8 = Return to the ~o~villagers~s~
+
+HNTN3_BLIP = Cursed Charm
+
+HNTN3_COUNT = ~1~/~2~ Cursed Charms Destroyed
+
+HNTN3_OBJ = Destroy the cursed charms
+
+HNTN5_BLIP = Mine
+
+HNTN5_BLIP_B = Butcher Creek
+
+HNTN5_F_1 = You left the mine.
+
+HNTN5_GRAB = Grab
+
+HNTN5_H_DEAD = Obediah was injured.
+
+HNTN5_OBJ0 = Search the ~o~mine ~s~for clues about the curse
+
+HNTN5_OBJ1 = Chase after the ~o~mysterious figure~s~
+
+HNTN5_OBJ2 = Escape the mine
+
+HNTN5_OBJ3 = Return to the ~o~mine~s~
+
+HNTN5_OBJ4 = Return to ~o~Butcher Creek~s~
+
+HNTN5_PULL = Pull
+
+HNTN5_S_DEAD = The Shaman was injured.
+
+HNTN5_V_DEAD = A villager was injured.
+
+HNTN5_V_SPOK = The villagers were spooked.
+
+POISONEDWEL5_HLP1 = The fumes are choking you. Follow the stream out of the caves before you suffocate.
+
+POISONEDWEL5_HLP2 = Your health is getting low. Follow the stream out of the caves before you suffocate.
+

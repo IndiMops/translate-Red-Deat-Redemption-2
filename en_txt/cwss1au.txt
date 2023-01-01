@@ -1,0 +1,8 @@
+CWSS1_ACT_1 = ~z~Thank you for your help with Miss Jackson.
+
+CWSS1_ACT_2 = ~z~Don't mention it, Miss Grimshaw.
+
+CWSS1_ACT_3 = ~z~You're a fine man, Mr. Morgan... sometimes at least.
+
+CWSS1_ACT_4 = ~z~Thank you, I think.
+

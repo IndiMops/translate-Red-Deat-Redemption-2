@@ -1,0 +1,200 @@
+CHRC1_C2_1 = ~z~What the hell did you do that for?
+
+CHRC1_C3_1 = ~z~Shit, get after 'em! Come on!
+
+CHRC1_HIT_1 = ~z~Let's go!
+
+CHRC1_IG1_COV_1 = ~z~Here they come.
+
+CHRC1_IG1_COV_2 = ~z~You gonna shoot the charges, Morgan? About time you did something.
+
+CHRC1_IG1_PLNT_1 = ~z~I'll get the explosives planted. Coach should be coming through any minute now.
+
+CHRC1_IG1_SPK_1 = ~z~Try to stay outta sight, we don't wanna spook 'em.
+
+CHRC1_L1_1 = ~z~Okay, fellers, we're good. Get in there and grab the loot, Morgan.
+
+CHRC1_L1_2 = ~z~Why me?
+
+CHRC1_L1_3 = ~z~Because I got the lead on this and Williamson's a halfwit.
+
+CHRC1_L1_4 = ~z~Hey!
+
+CHRC1_L1_5 = ~z~I'm joking, Bill.
+
+CHRC1_L2_1 = ~z~Got it, we're looking good.
+
+CHRC1_L2_2 = ~z~Alright, best we get out of here. We'll split that up later. I trust you, cowpoke.
+
+CHRC1_L2_3 = ~z~Go on, I'll see you back at camp.
+
+CHRC1_LOOT_DAWD_01 = ~z~Hurry up, Morgan.
+
+CHRC1_LOOT_DAWD_02 = ~z~Grab the loot and let's go.
+
+CHRC1_LOOT_DAWD_03 = ~z~Are you getting it or not?
+
+CHRC1_MOUNTUP_01 = ~z~Mount up then, Morgan.
+
+CHRC1_MOUNTUP_02 = ~z~We need to get going or we'll miss it.
+
+CHRC1_MOUNTUP_03 = ~z~Time to go, cowpoke. Come on.
+
+CHRC1_P1_1 = ~z~Probably a good idea.
+
+CHRC1_P1_2 = ~z~Bill, come on...
+
+CHRC1_P1_3 = ~z~What are we doing?
+
+CHRC1_P1_4 = ~z~Coach stickup.
+
+CHRC1_P1_5 = ~z~Excellent. I'm in.
+
+CHRC1_P1_6 = ~z~Micah and Bill? This is a death sentence...
+
+CHRC1_P1_7 = ~z~There's a good spot we can hit it as it comes over the river into the swamps north of here.
+
+CHRC1_P1_8 = ~z~You got an actual plan this time?
+
+CHRC1_P1_9 = ~z~I got three sticks of dynamite, I got two pistols,
+
+CHRC1_P1_10 = ~z~I got you and Bill, that count as a plan?
+
+CHRC1_P1_11 = ~z~Not really, but let's go.
+
+CHRC1_P1_12 = ~z~I'm joking.
+
+CHRC1_P2_1 = ~z~So who told you about this?
+
+CHRC1_P2_2 = ~z~Please tell me it wasn't an O'Driscoll this time.
+
+CHRC1_P2_3 = ~z~No, a man on the inside at Boles Overland.
+
+CHRC1_P2_4 = ~z~You can keep your funny little station friend in Rhodes,
+
+CHRC1_P2_5 = ~z~I go right to the source.
+
+CHRC1_P2_6 = ~z~Why did he tip you off?
+
+CHRC1_P2_7 = ~z~Charm, Bill...~rp~ not something you can learn, I regret to inform you.
+
+CHRC1_P2_8 = ~z~Very true, you're proof of that.
+
+CHRC1_P2_9 = ~z~Amusing...~rp~ Charm...and a little money.
+
+CHRC1_P2_10 = ~z~Right...
+
+CHRC1_P2_11 = ~z~Which I recovered the next day when he met with a tragic boating accident.
+
+CHRC1_P2_12 = ~z~See,~rp~ I don't like leaving trails... unlike the rest of you.
+
+CHRC1_P2_13 = ~z~What do you mean by that?
+
+CHRC1_P2_14 = ~z~We keep leading trouble right to us.~rp~ We're carrying too much dead weight.
+
+CHRC1_P2_15 = ~z~We need to be leaner so we can move faster, quieter.
+
+CHRC1_P2_16 = ~z~I prefer a tight crew...~rp~just five or six strong gunmen.
+
+CHRC1_P2_17 = ~z~Well, nobody's stopping you.~rp~ There's a whole world out there.
+
+CHRC1_P2_18 = ~z~Go find the strong men you want, and leave.
+
+CHRC1_P2_19 = ~z~Hey, I like you boys.~rp~ And with the price on our heads,
+
+CHRC1_P2_20 = ~z~we are wedded in this chaos for better or worse, at this point.
+
+CHRC1_P2_21 = ~z~It would be a coward's move to bail on Dutch now.~rp~ Not like John did...
+
+CHRC1_P2_22 = ~z~I heard about him disappearing on you fellers...
+
+CHRC1_P2_23 = ~z~for a year, wasn't it?
+
+CHRC1_P2_24 = ~z~Something like that.
+
+CHRC1_P2_25 = ~z~I don't trust him.~rp~ I've been talking to Dutch.~rp~ Feels to me like he's turned.
+
+CHRC1_P2_26 = ~z~Challenging every move Dutch makes.
+
+CHRC1_P2_27 = ~z~I know you have your doubts about him too, Morgan.
+
+CHRC1_P2_28 = ~z~I got no doubts about John.~rp~ I've known him for fifteen years.
+
+CHRC1_P2_29 = ~z~Well, if we really are gonna escape somewhere like me and Dutch have been talking about,
+
+CHRC1_P2_30 = ~z~we're gonna need to cut some loose.
+
+CHRC1_P2_31 = ~z~From what Dutch says the coffers are looking pretty good again.
+
+CHRC1_P2_32 = ~z~We could almost leave now, if we chopped half the dead wood.
+
+CHRC1_P2_33 = ~z~We ain't doing that.
+
+CHRC1_P2_34 = ~z~I mean, why the hell do we need a gaggle of girls
+
+CHRC1_P2_35 = ~z~who won't even fuck you if you put a gun to their head?
+
+CHRC1_P2_36 = ~z~I'm sure you've tried.
+
+CHRC1_P2_37 = ~z~Is it too much to ask considering they get a piece of every damn dollar I bring in?
+
+CHRC1_P2_38 = ~z~Everyone does their share.~rp~ I don't see you lifting a finger around camp.
+
+CHRC1_P2_39 = ~z~Swanson does his share?~rp~ Molly? Come on.
+
+CHRC1_P2_40 = ~z~That's different.
+
+CHRC1_P2_41 = ~z~See,~rp~ this is what I mean.
+
+CHRC1_P2_42 = ~z~I've always liked Abigail, though, that's my kind of girl.
+
+CHRC1_P2_43 = ~z~Sullied but strong.
+
+CHRC1_P2_44 = ~z~Well,~rp~ I don't get the sense the feeling is mutual.
+
+CHRC1_P2_45 = ~z~You just don't understand women, Morgan.
+
+CHRC1_P2_46 = ~z~You got that right.
+
+CHRC1_P2_47 = ~z~Who you got your eye on then, Bill?
+
+CHRC1_P2_48 = ~z~Oh, I don't believe in attachments. Never have.
+
+CHRC1_P2_49 = ~z~You get soft, you get dead, in my experience.
+
+CHRC1_P2_50 = ~z~I ain't talking about getting attached,~rp~ well not in that sense.
+
+CHRC1_P2_51 = ~z~I'm always likely to despise them more afterwards.
+
+CHRC1_P2_52 = ~z~You're gonna make somebody a real lucky lady one of these days, Micah.
+
+CHRC1_P2_53 = ~z~You know I had Jenny?
+
+CHRC1_P2_54 = ~z~What?
+
+CHRC1_P2_55 = ~z~Yeah,~rp~ round the back of the Blackwater camp.~rp~ Dirty little thing, too.
+
+CHRC1_P2_56 = ~z~Come to think of it, I wonder if Lenny knows...
+
+CHRC1_P2_57 = ~z~Don't tell him that.
+
+CHRC1_P2_58 = ~z~She could've been carrying Micah Bell the Fourth for all I know...
+
+CHRC1_P2_59 = ~z~shame...~rp~well, anyway, that's enough reminiscing about love.
+
+CHRC1_P2_60 = ~z~We gentlemen have ourselves a coach to rob.
+
+CHRC1_P4_1 = ~z~Okay, here we are.
+
+CHRC1_PLAN_1 = ~z~I'll set them in the road over here so we can blow it as it comes over the bridge.
+
+CHRC1_R1_1 = ~z~Come on, Morgan, we're on the clock here!
+
+CHRC1_REPLY_1 = ~z~Get behind something, Morgan.
+
+CHRC1_SC_1 = ~z~Let's cut across here, it'll be quicker.
+
+CHRC1_TREE_1 = ~z~Got some good cover here... you hide behind this tree to my left, Morgan.
+
+CHRC1_TREE_2 = ~z~Williamson, you take the other side.
+

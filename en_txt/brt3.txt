@@ -1,0 +1,32 @@
+BRT3_CAT = Catherine
+
+BRT3_DOOR = Door
+
+BRT3_DOOR_BARRED = Break
+
+BRT3_FAIL_CAT = Catherine Braithwaite has died.
+
+BRT3_FAIL_SHOT = The Braithwaites were alerted.
+
+BRT3_OBJ_BURN = Leave the manor with ~o~Dutch~s~
+
+BRT3_OBJ_DEFEND = Kill the ~e~attackers~s~
+
+BRT3_OBJ_GROUP = Go to ~o~Dutch~s~
+
+BRT3_OBJ_HELP = Help ~o~John~s~ break the door
+
+BRT3_OBJ_INSIDE = Search for Jack inside the ~o~manor~s~
+
+BRT3_OBJ_KILL = Take out the ~e~Guards~s~
+
+BRT3_OBJ_RIDE = Ride with ~o~Dutch~s~
+
+BRT3_OBJ_SONS = Kill the ~e~sons~s~
+
+BRT3_OBJ_UPSTAIRS = Go to ~o~Dutch~s~ upstairs
+
+BRT3_OBJ_WAIT = Wait for ~o~Dutch~s~
+
+BRT3_OBJ_WALK = Walk to the manor with ~o~Dutch~s~
+

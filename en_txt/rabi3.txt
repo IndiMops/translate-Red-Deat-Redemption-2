@@ -1,0 +1,84 @@
+0x68BB8558 = Abigail
+
+0x99F4B35E = Boat
+
+ABI31_B_BLACKW = Blackwater
+
+ABI31_B_CINEMA = Imperial Theatre
+
+ABI31_B_LAKE = Flat Iron Lake
+
+ABI31_B_PHOTO = Photo Studio
+
+ABI31_B_SHORE = Shore
+
+ABI31_B_TICKETS = Ticket Office
+
+ABI31_B_WAGON = Wagon
+
+ABI31_C_BACK = Confirm Backdrop
+
+ABI31_C_BACKS = Select Backdrop
+
+ABI31_C_HUG = Put arm around Abigail
+
+ABI31_C_LEAVE = Leave
+
+ABI31_C_POSES = Select Pose
+
+ABI31_C_PROP = Propose
+
+ABI31_C_SKIP = Skip
+
+ABI31_C_TAKE_PHOTO = Take Photo
+
+ABI31_C_VIEWFINDER = Preview Photo
+
+ABI31_F_ABA = Abigail was abandoned.
+
+ABI31_F_ABH = Abigail was injured.
+
+ABI31_F_ABI = Abigail has died.
+
+ABI31_F_BOA = The boat was wrecked.
+
+ABI31_F_CH = Charles was injured.
+
+ABI31_F_COMBAT = You attracted the attention of the law.
+
+ABI31_F_JH = Jack was frightened.
+
+ABI31_F_LAKE = You rowed too far away.
+
+ABI31_F_PHO = The photographer has died.
+
+ABI31_F_SCARE = You scared Abigail.
+
+ABI31_F_UH = Uncle was injured.
+
+ABI31_F_WAG = The wagon became inoperable.
+
+ABI31_F_WAN = You became wanted.
+
+ABI31_H_SC = Photographs can be viewed on the Social Club section of the Pause menu and online on the Rockstar Games Social Club website.
+
+ABI31_ILO_TICKETS = Buy Tickets
+
+ABI31_O_GCINEMA = Go to the ~o~Imperial Theatre~s~
+
+ABI31_O_GETBOAT = Get in the ~o~boat~s~
+
+ABI31_O_GETWAGON = Get on the ~o~Wagon~s~
+
+ABI31_O_GPHOTO = Go to the ~o~photo studio~s~
+
+ABI31_O_GRIDGE = Go to the ~o~shore~s~
+
+ABI31_O_PROP = Propose to ~o~Abigail~s~
+
+ABI31_O_RIDEBLAC = Ride to ~o~Blackwater~s~
+
+ABI31_O_ROWSEA = Row out onto the ~o~lake~s~
+
+ABI31_O_TICKETS = Buy ~o~tickets~s~
+

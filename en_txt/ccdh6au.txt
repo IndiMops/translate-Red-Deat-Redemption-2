@@ -1,0 +1,22 @@
+CCDH6_P1A1_1 = ~z~~sl:0.0:2.3~Hey, you're the most practical one of us.~sl:~Do you wish that we were still freezing up there?
+
+CCDH6_P1A1_2 = ~z~I'm just glad we ain't swinging.
+
+CCDH6_P1_A_1 = ~z~Well, least we ain't freezing.
+
+CCDH6_P1_A_2 = ~z~Not yet.
+
+CCDH6_P1_A_3 = ~z~But we're a long way from anywhere we could call home.
+
+CCDH6_P1_A_4 = ~z~This is home.
+
+CCDH6_P1_A_5 = ~z~We're east of the Grizzlies!
+
+CCDH6_P1_A_6 = ~z~I know!
+
+CCDH6_P1_B_1 = ~z~A "Great American Western Adventure," that was your pitch.
+
+CCDH6_P1_B_2 = ~z~~sl:0.0:0.9~I know.~sl:1.5~But we ain't dead yet.
+
+CCDH6_P1_B_3 = ~z~~sl:2.0:1.3:1~Not quite.
+

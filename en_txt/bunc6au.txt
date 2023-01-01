@@ -1,0 +1,30 @@
+BUNC6_ACTION_A_1 = ~z~Oh... come here, kid.
+
+BUNC6_ACTION_A_2 = ~z~Sure.
+
+BUNC6_ACTION_A_3 = ~z~What're you up to?
+
+BUNC6_ACTION_A_4 = ~z~I was... going for a walk.
+
+BUNC6_ACTION_A_5 = ~z~Heading into town?
+
+BUNC6_ACTION_A_6 = ~z~I wasn't planning on it...
+
+BUNC6_ACTION_A_7 = ~z~Well, if you do, buy me a bottle of hooch, will ya? Oh, and don't tell your momma.
+
+BUNC6_ACTION_A_8 = ~z~Why should I?
+
+BUNC6_ACTION_A_9 = ~z~Why should you? One day, kid, you'll be very, very old. Then you'll understand...
+
+BUNC6_ACTION_A_10 = ~z~I ain't got any money.
+
+BUNC6_ACTION_A_11 = ~z~Just ask them to give you some credit.
+
+BUNC6_ACTION_A_12 = ~z~W-what's credit?
+
+BUNC6_ACTION_A_13 = ~z~Oh, never mind... but try steal a bottle if you can.
+
+BUNC6_ACT_B_ALT_1 = ~z~What? Don't look at me like that.
+
+BUNC6_ACT_B_ALT_2 = ~z~Be careful...
+

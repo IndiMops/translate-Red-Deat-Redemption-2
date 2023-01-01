@@ -1,0 +1,158 @@
+0x0717F397 = Recover the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ from ~COLOR_ENEMY~~1~
+
+0x2E2C6F3E = Help hide the ~COLOR_ENEMY~bandit~s~
+
+0x6D3748AB = Pick up the ~COLOR_ENEMY~bandit~s~
+
+0x30AC1C72 = Capture ~COLOR_ENEMY~~1~~s~ dead or alive
+
+0x296ADF64 = ~1~/~2~ targets were delivered
+
+0x9416E29D = Hide the ~COLOR_MP_OBJECTIVE_ENEMY~bandit~s~ out of sight before his friends arrive.
+
+0x278386F4 = Go to the target's last known ~COLOR_MP_OBJECTIVE~location~s~ to get info on where they went.
+
+0x401052AD = Capture ~COLOR_ENEMY~~1~~s~ dead or alive
+
+0xA8D2A794 = The target was lost
+
+0xB6692A79 = Hide the ~COLOR_ENEMY~bandit~s~ ~COLOR_MP_OBJECTIVE~out of sight~s~
+
+0xC470C725 = Loot the bodies
+
+0xE5F6E318 = The targets were lost
+
+0xE8D44C6E = Capture ~COLOR_MP_OBJECTIVE_ENEMY~The Jailbreaker~s~ dead or alive
+
+0xED2638BF = The target was delivered
+
+0xEE1D5EE4 = Drop the ~COLOR_ENEMY~bandit~s~
+
+0xF77061B2 = The targets were delivered
+
+FETCH_BOUNTY_BOARD_OBJ_DEFEND = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~target~s~ ~1~
+
+FETCH_BOUNTY_BOARD_OBJ_DEFEND_PLURAL = Help deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~ ~1~
+
+FETCH_BOUNTY_BOARD_OBJ_DROP_TARGET = Drop off the target
+
+FETCH_BOUNTY_BOARD_OBJ_FIND_TARGET = Find the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+FETCH_BOUNTY_BOARD_OBJ_FIND_TARGET_PLURAL = Find the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~
+
+FETCH_BOUNTY_BOARD_OBJ_GET_ON_MOUNT = Get on the horse
+
+FETCH_BOUNTY_BOARD_OBJ_HIDE = Find a scouting spot before the target arrives
+
+FETCH_BOUNTY_BOARD_OBJ_HIDE_PLURAL = Find a scouting spot before the targets arrive
+
+FETCH_BOUNTY_BOARD_OBJ_KILL_CAPTURE = Kill or capture the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+FETCH_BOUNTY_BOARD_OBJ_KILL_CAPTURE_PLURAL = Kill or capture the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~
+
+FETCH_BOUNTY_BOARD_OBJ_RETURN = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~target~s~ ~1~
+
+FETCH_BOUNTY_BOARD_OBJ_WAIT_TARGET = Wait for the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+FETCH_BOUNTY_BOARD_OBJ_WAIT_TARGET_PLURAL = Wait for the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~
+
+FETCH_BOUNTY_BOARD_SCOUT_GO_TO_0 = Go ~1~
+
+FETCH_BOUNTY_BOARD_SCOUT_HELP_FIND_SPOT = Alerting the enemies may cause the target to flee. Stay undetected and on the lookout for the target arriving.
+
+FETCH_BOUNTY_BOARD_SCOUT_HELP_FIND_SPOT_PLURAL = Alerting the enemies may cause the targets to flee. Stay undetected and on the lookout for the targets arriving.
+
+FETCH_BOUNTY_BOARD_SCOUT_HELP_TEAM_PRIMARY = Stakeout the area ~o~~BLIP_OBJECTIVE~~s~ undetected and wait for the target to arrive. Deliver the target ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ alive for the full reward. Dead targets are worth less.
+
+FETCH_BOUNTY_BOARD_SCOUT_HELP_TEAM_PRIMARY_PLURAL = Stakeout the area ~o~~BLIP_OBJECTIVE~~s~ undetected and wait for the targets to arrive. Deliver the targets ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ alive for the full reward. Dead targets are worth less.
+
+FETCH_BOUNTY_BOARD_SCOUT_PRIMARY_JOIN = ~1~ has joined in the bounty hunt
+
+FETCH_BOUNTY_BOARD_SCOUT_SCORETIMER_OBJ_REACHED_DRIVE_TO = Bounty has arrived
+
+FETCH_BOUNTY_BOARD_SCOUT_SCORETIMER_OBJ_REACHED_DRIVE_TO_PLURAL = Bounties have arrived
+
+FETCH_BOUNTY_BOARD_SCOUT_SCORETIMER_TRIGGER_ACTION = ~1~ alerted the target
+
+FETCH_BOUNTY_BOARD_SCOUT_SHARD_OVER_TARGET_ESCAPE = The target escaped
+
+FETCH_BOUNTY_BOARD_SCOUT_SHARD_OVER_TARGET_ESCAPE_PLURAL = The targets escaped
+
+FETCH_BOUNTY_BOARD_SCOUT_STKOUT_NAME = Bounty Hunter
+
+FETCH_BOUNTY_BOARD_SCOUT_TARGET_ESCAPING = A ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ is getting away. Targets that get too far from you will escape and their bounty may no longer be collected.
+
+FETCH_BOUNTY_BOARD_SCOUT_TARGET_TICKER_ESCAPE = A ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ has escaped
+
+FETCH_BOUNTY_BOARD_SCOUT_TICKER_DESTROY = A ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ was lost
+
+FETCH_BOUNTY_BOARD_SCOUT_TICKER_DESTROY_YOU = You lost a ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+FETCH_BOUNTY_STAKEOUT_BLACKWATER_COVER = ~COLOR_MP_OBJECTIVE~Hide~s~ near the poker game
+
+FETCH_BOUNTY_STAKEOUT_BLACKWATER_HELP_COVER = Hide in Thieves Landing and wait for the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~ to approach.
+
+FETCH_BOUNTY_STAKEOUT_BLACKWATER_HELP_INTRO = Two members of ~COLOR_MP_OBJECTIVE_ENEMY~Thaddeus Walter's Men~s~ are joining a poker game at Thieves Landing. Find the targets and deliver them alive for the full reward.
+
+FETCH_BOUNTY_STAKEOUT_COVER = Take ~COLOR_MP_OBJECTIVE~cover~s~ and wait for the target to arrive
+
+FETCH_BOUNTY_STAKEOUT_COVER_VALENTINE = Hide ~COLOR_MP_OBJECTIVE~nearby~s~ and wait for the target to arrive
+
+FETCH_BOUNTY_STAKEOUT_FORT_MERCER = Go to ~COLOR_MP_OBJECTIVE~Fort Mercer~s~
+
+FETCH_BOUNTY_STAKEOUT_GILLS_LANDING = Go to ~COLOR_MP_OBJECTIVE~Gill Landing~s~
+
+FETCH_BOUNTY_STAKEOUT_MERCER_HIDE = Hide the ~COLOR_ENEMY~bandit~s~
+
+FETCH_BOUNTY_STAKEOUT_MERCER_HOGTIE = Capture the ~COLOR_ENEMY~bandit~s~
+
+FETCH_BOUNTY_STAKEOUT_MERCER_INTRO = The ~COLOR_MP_OBJECTIVE_ENEMY~Jailbreakers~s~ are planning on releasing a bandit captured by some bounty hunters. Follow their trail to find the target and deliver him alive for the full reward.
+
+FETCH_BOUNTY_STAKEOUT_MERCER_LOOT_HELP = These bounty hunters have come from Fort Mercer. Continue searching for the target there.
+
+FETCH_BOUNTY_STAKEOUT_MERCER_LOOT_HELP_DEAD_END = This bounty hunter appears to have been killed attempting to catch a bounty target.
+
+FETCH_BOUNTY_STAKEOUT_MERCER_REACHED_HELP = Deal with the ~COLOR_MP_OBJECTIVE_ENEMY~bandit~s~ and wait for the ~COLOR_MP_OBJECTIVE_ENEMY~Jailbreakers~s~ to arrive for him.
+
+FETCH_BOUNTY_STAKEOUT_OBJ_CARRY_BAIT = Carry the ~COLOR_ENEMY~bandit~s~ ~COLOR_MP_OBJECTIVE~out of sight~s~
+
+FETCH_BOUNTY_STAKEOUT_OBJ_GILLS_TAKE_OUT = Take out the ~COLOR_ENEMY~cultists~s~
+
+FETCH_BOUNTY_STAKEOUT_OBJ_LEAVE_AREA = Leave the ~COLOR_MP_OBJECTIVE~area~s~
+
+FETCH_BOUNTY_STAKEOUT_OBJ_LEAVE_AREA_POSSE = Wait for your Posse to leave the ~COLOR_MP_OBJECTIVE~area~s~
+
+FETCH_BOUNTY_STAKEOUT_OBJ_SEARCH_AREA = Inspect the dead bounty hunters
+
+FETCH_BOUNTY_STAKEOUT_SEARCH_AREA_HELP_MERCER = Search the area for signs of the target's location
+
+FETCH_BOUNTY_STAKEOUT_VALENTINE_HELP_INTRO = ~COLOR_MP_OBJECTIVE_ENEMY~Obadiah Fitch~s~ and several missing persons have been spotted near Flat Iron Lake. Find and deliver him alive for the full reward.
+
+FETCH_BOUNTY_STAKEOUT_VALENTINE_LOOT_HELP = ~COLOR_MP_OBJECTIVE_ENEMY~Obadiah Fitch~s~ is expected to meet with new followers soon at a location by the shore.
+
+FETCH_BOUNTY_STAKEOUT_VALENTINE_OBJ_LOOT = Loot the cultists
+
+FETCH_BOUNTY_STAKEOUT_VALENTINE_SEARCH_HELP = Search ~COLOR_MP_OBJECTIVE_ENEMY~Obadiah Fitch's~s~ followers for information on his whereabouts.
+
+FETCH_BOUNTY_STAKEOUT_VALENTINE_STAKEOUT_HELP = Stake out the area undetected and wait for ~COLOR_MP_OBJECTIVE_ENEMY~Obadiah Fitch~s~ to arrive or risk losing him.
+
+FETCH_BOUNTY_STAKEOUT_VAN_HORN_HIDE_HELP = Hide within the Van Horn Mansion and wait for ~COLOR_MP_OBJECTIVE_ENEMY~Bo Bradshaw~s~ to arrive. Stay undetected and wait for an opportune moment to capture the target.
+
+FETCH_BOUNTY_STAKEOUT_VAN_HORN_INTRO_HELP = ~COLOR_MP_OBJECTIVE_ENEMY~Bo Bradshaw~s~ and his accomplices have been stealing from multiple homes each evening. Track him down and deliver alive for the full reward.
+
+FETCH_BOUNTY_STAKEOUT_VAN_HORN_LOOT_HELP = Loot the robber and find evidence of where ~COLOR_MP_OBJECTIVE_ENEMY~Bo Bradshaw~s~ is planning to burgle tonight.
+
+FETCH_BOUNTY_STAKEOUT_VAN_HORN_MANSION = Go to the ~COLOR_MP_OBJECTIVE~Van Horn Mansion~s~
+
+FETCH_BOUNTY_STAKEOUT_VAN_HORN_MANSION_COVER = Hide inside the ~COLOR_MP_OBJECTIVE~Van Horn Mansion~s~
+
+FETCH_BOUNTY_STAKEOUT_VAN_HORN_MANSION_HELP = ~COLOR_MP_OBJECTIVE_ENEMY~Bo Bradshaw~s~ is planning to raid the mansion south of Van Horn.
+
+FETCH_BOUNTY_STAKEOUT_VAN_HORN_PIT_STOP = Take out the ~COLOR_ENEMY~robber~s~
+
+FETCH_BOUNTY_STAKEOUT_VAN_HORN_PIT_STOP_LOOT = Loot the robber
+
+FETCH_NAT_SIGHTING_HELP_LOOK_AT_CLUE_MERCER = Focus on the bounty hunter
+
+FETCH_NAT_SIGHTING_INSPECT_CLUE_MERCER = Inspect
+

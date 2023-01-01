@@ -1,0 +1,40 @@
+CAMC4_ANSWER1_1 = ~z~I've been robbing a bunch of people who didn't deserve it. Taking the easy money.
+
+CAMC4_ANSWER2_1 = ~z~Hurting and robbing folks I didn't need to.
+
+CAMC4_ANSWER3_1 = ~z~Killing and robbing folks I didn't need to.
+
+CAMC4_ANSWER4_1 = ~z~Hurting and killing folks I didn't need to.
+
+CAMC4_BUSY_1 = ~z~My, you have been busy.
+
+CAMC4_BUSY_2 = ~z~Well, that's one way of looking at it.
+
+CAMC4_BUSY_3 = ~z~You're a good man, Arthur... underneath, I mean.
+
+CAMC4_CALLOVER_1 = ~z~Hey, Arthur. You wanna talk?
+
+CAMC4_CALL_RESP_1 = ~z~You okay, Arthur?
+
+CAMC4_CALL_RESP_2 = ~z~Sure.
+
+CAMC4_CALL_RESP_3 = ~z~You don't look okay.
+
+CAMC4_IMFINE_1 = ~z~I'm fine.
+
+CAMC4_IMFINE_2 = ~z~What you been doing?
+
+CAMC4_IMFINE_3 = ~z~Acting like a fool.
+
+CAMC4_IMFINE_4 = ~z~How so?
+
+CAMC4_LOSTMIND_1 = ~z~I've lost my mind, Mary-Beth... it's finally happened. I... I don't feel in control.
+
+CAMC4_LOSTMIND_2 = ~z~Just stay calm and do what you do best.
+
+CAMC4_MAYHEM_1 = ~z~It seems I'm best at mayhem... sure, I'm no better than Micah.
+
+CAMC4_MAYHEM_2 = ~z~Yes you are... just do what you gotta do and stop getting into trouble.
+
+CAMC4_MAYHEM_3 = ~z~We'll see.
+

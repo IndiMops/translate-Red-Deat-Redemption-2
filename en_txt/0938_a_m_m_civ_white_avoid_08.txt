@@ -1,0 +1,110 @@
+0x011F6125 = ~z~Hey, now. I saw nothing to tell, okay?
+
+0x1AC1202C = ~z~Alright, time to get out. Go on. Now.
+
+0x1AF90A97 = ~z~Hey, stop this. What the hell's wrong with you?
+
+0x1D1689AD = ~z~I'll let the law take care of this one.
+
+0x1D204470 = ~z~Jesus, no.
+
+0x1FEBE03B = ~z~Stay far from me, you hear?
+
+0x2E182B90 = ~z~Let's leave this for the badges.
+
+0x2ED123A2 = ~z~Oh, Lord!
+
+0x3DB49EE8 = ~z~You're a little close,.
+
+0x6BCF7B1D = ~z~Care to give some distance, friend?
+
+0x6F62000A = ~z~I'm not bothering you, so quit.
+
+0x7D094011 = ~z~No! No!
+
+0x7DB626D8 = ~z~Oh, hell, ain't no need for that.
+
+0x7E395F08 = ~z~Hope you're about finished with those antics. We got enough problems round here.
+
+0x7F8C2B70 = ~z~I don't have time for this.
+
+0x8BA6C7E5 = ~z~Here, this is what I got. Happy?
+
+0x8FD14B0E = ~z~Okay, okay, okay, okay, I'm sure we don't need to go any further with that.
+
+0x12A4E565 = ~z~I don't like people following me.
+
+0x22D047F2 = ~z~This is it, huh? You ready to die?
+
+0x62D78E5B = ~z~What do you think I have, huh?
+
+0x76A38DA9 = ~z~Leave me be, damn you.
+
+0x80A52BA0 = ~z~Uh... hey, again.
+
+0x84ADC3CF = ~z~Moron.
+
+0x99A67A66 = ~z~Move! Move!
+
+0x701B956C = ~z~You kidding me? Fine. You just best watch it, friend.
+
+0x740EEA6E = ~z~We can still walk away.
+
+0x1602FF97 = ~z~Hey. What'd they do, huh?
+
+0x6160E97F = ~z~Excuse me?
+
+0x8402CBFD = ~z~Hey, hey. Stop it, now.
+
+0x9514A22E = ~z~You think I'm a pushover, is that it?
+
+0x38651D1F = ~z~You aren't worth any more of my attention.
+
+0x53994DF0 = ~z~You trying to rile me up, huh?
+
+0x85172B74 = ~z~Just leave me alone.
+
+0x27829620 = ~z~Get the hell outta here.
+
+0x84512904 = ~z~Keep away.
+
+0xA3D58DCE = ~z~See something interesting?
+
+0xA7CA4799 = ~z~I'm not taking much more of this.
+
+0xA9B1CB48 = ~z~Hey, you hear me? I said stop.
+
+0xA10C2AEE = ~z~Help!
+
+0xA34B1EFE = ~z~Sure.
+
+0xAC8F41F4 = ~z~Oh, Christ. Help!
+
+0xB9A61491 = ~z~I don't want trouble, damn it.
+
+0xB7743769 = ~z~You goddamn monster.
+
+0xBF10B807 = ~z~Watch yourself.
+
+0xC296EAC0 = ~z~Okay, here. Christ, just take it.
+
+0xCF0E5802 = ~z~Watch out.
+
+0xD9B39A3E = ~z~Hey, I gotta be somewhere.
+
+0xD92FBABF = ~z~What the hell do you want?
+
+0xE5380553 = ~z~Hope to God this wasn't you.
+
+0xF3BA71A1 = ~z~No. No, stop it.
+
+0xF13A2E9F = ~z~Hey. What's your damn problem?
+
+0xFC58991E = ~z~We done? Let's all just move on.
+
+0xFFA3532A = ~z~Hey, you can't be here.
+
+CASINO_DLC_GUARD_3 = ~z~Whoa, alright, let's all just relax a bit.
+
+CASINO_DLC_GUARD_4 = ~z~Okay, okay. Let's not be hasty.
+

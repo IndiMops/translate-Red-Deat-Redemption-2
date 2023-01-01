@@ -1,0 +1,22 @@
+CSE12_ACTA_INT_1 = ~z~Arthur, help.
+
+CSE12_ACTA_INT_2 = ~z~The boy's an idiot, you're wasting your time.
+
+CSE12_ACTA_INT_3 = ~z~See, Arthur knows an idiot when he sees one. He recognizes one of his own.
+
+CSE12_ACTB_1 = ~z~I'm not giving up on you.
+
+CSE12_ACTB_2 = ~z~Please kid, give up on me.
+
+CSE13_ACT_1 = ~z~You ready for that reading?
+
+CSE13_ACT_2 = ~z~I ain't doing it.
+
+CSE13_ACT_3 = ~z~You're ridiculous. You sound like a child.
+
+CSE13_ACT_4 = ~z~I am a child. A child of God... and God gave me the ability not to read.
+
+CSE13_ACT_5 = ~z~You gave me your word.
+
+CSE13_ACT_6 = ~z~I said I'd try and I've tried and it's not for me.
+

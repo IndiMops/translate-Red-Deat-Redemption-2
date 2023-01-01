@@ -1,0 +1,68 @@
+DRMTB_AGREE_1 = ~z~Oh good, thank you. This isn't my kind of thing.
+
+DRMTB_AMBUSH_01 = ~t~In Spanish: Who do these people think I am?
+
+DRMTB_AMBUSH_02 = ~z~Goddamn it, I don't believe this!
+
+DRMTB_APPROACH_1 = ~z~~sl:0.0:0.7~Hey, listen.~sl:1.0~Some outlaws grabbed a man by his camp over the way.
+
+DRMTB_APPROACH_2 = ~z~~sl:0.0:3.0~I'm not sure what to do and you look... well...~sl:~like you might be better at dealing with something like this than me.
+
+DRMTB_ARRIVE_1 = ~z~~sl:0.6:2.9~Never thought I'd feel safe in Thieves' Landing, but...~sl:0.3~I never thought I'd be in a shootout, neither.
+
+DRMTB_ARRIVE_2 = ~t~In Spanish: Funny how it goes...
+
+DRMTB_ARRIVE_3 = ~z~Thank you.
+
+DRMTB_CALLOUT1_1 = ~z~I'm not who you think I am! You gotta believe me.
+
+DRMTB_CALLOUT2_01 = ~z~My name's Juan Cardenas. I'm just a laborer, I swear to you.
+
+DRMTB_CALLOUT2_02 = ~z~Please, you're making a mistake!
+
+DRMTB_CALLOUT2_03 = ~t~In Spanish: You'll all go to hell for this... Every last one of you.
+
+DRMTB_DECLINE_1 = ~z~Ah, well.
+
+DRMTB_DECLINE_2 = ~t~In Spanish: Too late for him. Poor bastard.
+
+DRMTB_ESCORT_1 = ~z~~sl:0.0:4.8~Listen, I, uh... I can't stay around here. I know some people down in Thieves' Landing.~sl:~C-could I ask you to give me a ride?
+
+DRMTB_HURRY_1 = ~z~Just please hurry.
+
+DRMTB_IDLE_01 = ~t~In Spanish: What are you waiting for?
+
+DRMTB_IDLE_02 = ~z~Are you going then?
+
+DRMTB_IDLE_03 = ~z~I'd go quick, if I was you. They looked mean.
+
+DRMTB_IDLE_04 = ~z~I don't know what else to tell you.
+
+DRMTB_NEAR_1 = ~z~~sl:0.6~Nearly there...
+
+DRMTB_POSSEDIE_01 = ~t~In Spanish: Christ!
+
+DRMTB_POSSEDIE_02 = ~z~Mierda! Do you think we should run?
+
+DRMTB_REWARD_1 = ~z~Take this, please. Least I can do.
+
+DRMTB_SPOT1_1 = ~z~Hey? Oye! Over here.
+
+DRMTB_SPOT2_01 = ~z~Come on!
+
+DRMTB_SPOT2_02 = ~z~Over here I said.
+
+DRMTB_SPOT2_03 = ~z~Please, I need to speak to you.
+
+DRMTB_SURVIVE_01 = ~z~I must really look like someone bad.
+
+DRMTB_SURVIVE_02 = ~z~~sl:0.5~Here's hoping this twin of mine isn't sat at home having dinner with my wife.
+
+DRMTB_THANKS_1 = ~z~~sl:0.0:3.7~Dios mio. Thank you. Crazy bastards.~sl:0.2~They said I had a price on my head.
+
+DRMTB_THANKS_2 = ~z~Guess they think we all look the same.
+
+DRMTB_WAIT_01 = ~z~Can you help?
+
+DRMTB_WAIT_02 = ~z~We have to do something.
+

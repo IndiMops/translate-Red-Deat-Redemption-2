@@ -1,0 +1,12 @@
+RD_VAL_CNV_A_1 = ~z~Tell you I can't stand some of the lowlives come in here. Coulda killed that feller, shoving him like that.
+
+RD_VAL_CNV_A_2 = ~z~Guess there ain't much point complaining how your bread is buttered if you're getting bread at all.
+
+RD_VAL_CNV_BA_1 = ~z~Whoo, that Jenny's like honey for flies. Wonder how many men proposed to her this week?
+
+RD_VAL_CNV_BB_1 = ~z~One of the girls. Keeps a book on how many men ask to take her away.
+
+RD_VAL_CNV_B_A_1 = ~z~Who?
+
+RD_VAL_CNV_B_J_1 = ~z~Who?
+

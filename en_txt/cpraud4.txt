@@ -1,0 +1,8 @@
+CPRS4_BACK_1 = ~z~~sl:0.0:1.0~Hey!~sl:0.2~Living high on the hog now, sir.
+
+CPRS4_BACK_2 = ~z~That's good news.
+
+CPRS4_BACK_3 = ~z~~sl:0.0:1.1~Yes sir...~sl:~fine times for us all.
+
+CPRS4_BACK_4 = ~z~
+

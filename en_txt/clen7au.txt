@@ -1,0 +1,42 @@
+CLEN7_ACTA_1 = ~z~How you doing, kid?
+
+CLEN7_ACTA_2 = ~z~Fine...
+
+CLEN7_ACTA_3 = ~z~You know, I'm sorry about Jenny...
+
+CLEN7_ACTA_4 = ~z~Sure. Me too.
+
+CLEN7_ACTA_5 = ~z~I know you were sweet on her.
+
+CLEN7_ACTA_6 = ~z~~sl:1.9~Was it that obvious?
+
+CLEN7_ACTA_7 = ~z~Oh yeah, pretty obvious.
+
+CLEN7_ACTA_8 = ~z~I made sure we buried her carefully.
+
+CLEN7_ACTA_9 = ~z~I rode back and planted some flowers she would have liked.
+
+CLEN7_ACTA_10 = ~z~Did you?
+
+CLEN7_ACTA_11 = ~z~Of course... least I could do.
+
+CLEN7_ACTA_12 = ~z~Thank you.
+
+CLEN7_ACTA_13 = ~z~When I go, I hope they cover my grave with roses.
+
+CLEN7_ACTA_14 = ~z~~sl:3.3~When I die, I just want to be buried with friends.
+
+CLEN7_ACTA_15 = ~z~~sl:0.8~Me too... with friends or with family.
+
+CLEN7_ACTA_16 = ~z~I don't know if it matters more than that.
+
+CLEN7_ACTBINT_1 = ~z~What about you, Arthur?
+
+CLEN7_ACTBINT_2 = ~z~Me? I don't care about that nonsense...
+
+CLEN7_ACTBINT_3 = ~z~Come on.
+
+CLEN7_ACTCINT_1 = ~z~Face me to the west so I can watch the setting sun and remember all the fine times we had that way.
+
+CLEN7_ACTCINT_2 = ~z~See Tilly, I told you Arthur had a soul.
+

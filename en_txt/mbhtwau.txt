@@ -1,0 +1,36 @@
+MBHTW_ALIVE_01 = ~z~~sl:0.0:4.9~That's our bounty... and all is right in the world...~sl:~put them in a cell for me.
+
+MBHTW_ALIVE_02 = ~z~~sl:0.0:3.5~Put them in a cell. The time for running is over.~sl:0.2~The time for punishment has begun.
+
+MBHTW_ALIVE_03 = ~z~~sl:0.1~That's fine work. I can take it from here.
+
+MBHTW_ALIVE_04 = ~z~~sl:0.1~You did good with this. Tumbleweed thanks you.
+
+MBHTW_ALIVE_05 = ~z~People'll be real excited to see 'em go. Thanks.
+
+MBHTW_ALIVE_06 = ~z~~sl:0.0:2.2~Always better when they're alive.~sl:~Makes it look more... ethical, you see.
+
+MBHTW_DEADBEF_01 = ~z~~sl:0.5:2.7~From the looks of it, they've learned their lesson.~sl:0.0~Leave them outside, I'll get you your payment.
+
+MBHTW_DEADBEF_02 = ~z~~sl:0.3:2.5~Justice can be terrifying, can't it?~sl:0.6:2.2~Put the body out for the coyotes...~sl:~and I'll get your money together.
+
+MBHTW_DEADBEF_03 = ~z~~sl:0.4:2.2~Looks like I owe you some money.~sl:0.0:1.7~Get the body out of here...~sl:~and I'll arrange you some cash.
+
+MBHTW_DEAD_01 = ~z~~sl:0.6:2.9~Well, I guess that draws a line under that one.~sl:~Here's what we're paying for corpses.
+
+MBHTW_DEAD_02 = ~z~~sl:0.8:3.1~They lived violently and they died violently...~sl:~Here's what we promised you.
+
+MBHTW_DEAD_03 = ~z~~sl:1.1:2.1~Well, that's simple enough.~sl:0.0~Here's your due and nothing less.
+
+MBHTW_MID_01 = ~z~Throw 'em in a cell, I'll get your money.
+
+MBHTW_MID_02 = ~z~Put 'em in an open cell and we'll get you paid up.
+
+MBHTW_MID_03 = ~z~Alright, I'll gather your bounty. Toss 'em in a cell if you don't mind.
+
+MBHTW_REWARD_01 = ~z~That's the bounty, as agreed.
+
+MBHTW_REWARD_02 = ~z~I'll believe you'll find that figure to your liking.
+
+MBHTW_REWARD_03 = ~z~~sl:0.0:2.6~You can count it, or you can trust me.~sl:~It's all there.
+

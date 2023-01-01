@@ -1,0 +1,58 @@
+CATLL_DMNO1_1 = ~z~How are you?
+
+CATLL_DMNO1_2 = ~z~Alive...
+
+CATLL_DMNO1_3 = ~z~and you?
+
+CATLL_DMNO1_4 = ~z~Fine...
+
+CATLL_DMNO1_5 = ~z~Let me ask you a question...
+
+CATLL_DMNO1_6 = ~z~if I was to kill Miss Grimshaw...
+
+CATLL_DMNO1_7 = ~z~would Dutch be mad?
+
+CATLL_DMNO1_8 = ~z~I think...
+
+CATLL_DMNO1_9 = ~z~as a general rule...
+
+CATLL_DMNO1_10 = ~z~Dutch likes to avoid murder within the camp.
+
+CATLL_DMNO1_11 = ~z~I mean...
+
+CATLL_DMNO1_12 = ~z~there was one that one time, but...
+
+CATLL_DMNO1_13 = ~z~h-he was a traitor.
+
+CATLL_DMNO1_14 = ~z~But, Miss Grimshaw, well...
+
+CATLL_DMNO1_15 = ~z~Dutch has a soft spot for her.
+
+CATLL_DMNO1_16 = ~z~I thought as much.
+
+CATLL_DMNO1_17 = ~z~Was she always like this?
+
+CATLL_DMNO1_18 = ~z~I ain't quite old enough to know.
+
+CATLL_DMNO1_19 = ~z~No, of course...
+
+CATLL_DMNO1_20 = ~z~so as long as you've known her?
+
+CATLL_DMNO1_21 = ~z~She's always liked her swill of vinegar.
+
+CATLL_DMNO1_22 = ~z~I'd like to give her a swig of arsenic.
+
+CATLL_DMNO1_23 = ~z~Well, just do it discreetly.
+
+CATLL_DMNO1_24 = ~z~I will.
+
+CATLL_DMNO1_25 = ~z~You fancy a game of dominoes?
+
+CATLL_DMNO1_26 = ~z~Sure, why not.
+
+CATLL_DMNO1_27 = ~z~If I'm playing with you...
+
+CATLL_DMNO1_28 = ~z~she'll leave me alone.
+
+CATLL_DMNO1_LI_1 = ~z~Arthur.
+

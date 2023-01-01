@@ -1,0 +1,8 @@
+CSEN2_ACTAF_1 = ~z~There he is, the proud Englishman!
+
+CSEN2_ACTAF_2 = ~z~Don't fight other man's battles, boy.
+
+CSEN2_ACTAF_3 = ~z~~sl:0.0:0.6~And anyway,~sl:~my family weren't even English.
+
+CSEN2_ACTBF_1 = ~z~Whatever you say... King Arthur.
+

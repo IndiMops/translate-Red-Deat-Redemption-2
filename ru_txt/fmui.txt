@@ -1,0 +1,200 @@
+0x00E2C583 = ~COLOR_ENEMY~Не удалось начать: ~1~ – ~2~.
+
+0x031CA069 = Удерживайте ~INPUT_REVEAL_HUD~, чтобы увидеть счет.
+
+0x08ACC689 = животное
+
+0x2A7CB266 = Вы убили ~1~, заработав ~2~ очк.
+
+0x6D6DB716 = ~1~/~2~
+
+0x9C0AFB05 = животное средних размеров
+
+0x11E343DB = маленькое животное
+
+0x43A6F1B8 = Лобби
+
+0x98DE36BD = Игрок ~1p~ убил ~2~, заработав ~3~ очко
+
+0x681E2F2C = редкое животное
+
+0x4399F588 = Прокрутить
+
+0x811375DA = крупное животное
+
+0x80661262 = Игрок ~1p~ убил ~2~, заработав ~3~ очк.
+
+0xB2E20B18 = Вы убили ~1~, заработав ~2~ очко
+
+0xC1327FB9 = ~1m~
+
+0xCE817332 = Имя
+
+FMECHAL_VARIATION_HUNTING_GAME_UPDATE_KILL_SPECIAL_ANIMAL = Игрок ~1p~ убил ~COLOR_MP_OBJECTIVE~~2~~s~
+
+FME_COUNTDOWN = ~1~
+
+FME_GAME_UPDATE_NEW_LEADER = Игрок ~1p~~s~ выходит вперед
+
+FME_GAME_UPDATE_NEW_LEADER_SELF = Вы вышли вперед
+
+FME_HELP_CARGO = На вашу лошадь навьючен груз. Если вы присоединитесь к событию свободного режима, этот груз будет утерян.
+
+FME_HELP_OPTED_IN = ~COLOR_FREEMODE_EVENT~~1~~s~ скоро начнется.
+
+FME_HELP_OPTED_IN_CHALLENGES = ~COLOR_FREEMODE_EVENT~~1~~s~ скоро начнется.
+
+FME_HELP_OPTED_IN_LEADER = Игрок ~1p~ присоединяется к событию. Вы присоединитесь как член его отряда.
+
+FME_HELP_OPTED_IN_LEADER_CHALLENGES = Игрок ~1p~ присоединяется к событию. Вы присоединитесь как член его отряда.
+
+FME_HELP_SCORE = Во время события ~COLOR_FREEMODE_EVENT~~1~~s~ вы будете набирать очки и получать награды индивидуально. ~COLOR_POSSE_ALLY~Члены отряда~s~ набирают очки отдельно.
+
+FME_HELP_SCOREBOARD_1 = Счет отображается слева от таймера. Справа от таймера отображается игрок с самым большим результатом либо, если вы ведете, игрок на втором месте.
+
+FME_HELP_SCOREBOARD_2 = Нажмите ~INPUT_REVEAL_HUD~, чтобы отобразилась уменьшенная доска счета. Удерживайте ~INPUT_SELECT_RADAR_MODE~, чтобы доска счета отобразилась целиком.
+
+FME_HELP_SCORE_DRAW = Наберите больше очков, чем игрок ~1p~~s~, чтобы занять его место на доске счета.
+
+FME_HELP_SCORE_SURPASS = Наберите больше очков, чем другие игроки, чтобы занять их место на доске счета.
+
+FME_OBJECTIVE_ABANDON_BLIP_NAME = Игровая зона
+
+FME_OBJECTIVE_ABANDON_LOBBY_WARNING = Вернитесь в ~COLOR_MP_OBJECTIVE~лобби~s~.
+
+FME_OBJECTIVE_ABANDON_WARNING = Вернитесь в ~COLOR_MP_OBJECTIVE~игровую зону~s~.
+
+FME_OBJECTIVE_ENTER_AREA = Войдите в ~COLOR_FREEMODE_EVENT~игровую зону~s~.
+
+FME_OBJECTIVE_ENTER_AREA_POSSE_VERSUS = Войдите в ~COLOR_MP_OBJECTIVE~игровую зону~s~.
+
+FME_OBJECTIVE_FAST_TRAVEL_POSSE_VERSUS = ~INPUT_GAME_MENU_RIGHT~ – быстрое перемещение: ~COLOR_MP_OBJECTIVE~~1~~s~.
+
+FME_OBJECTIVE_WAIT = Дождитесь начала события: ~COLOR_FREEMODE_EVENT~~1~~s~.
+
+FME_OBJECTIVE_WAIT_CHALLENGES = Дождитесь начала события: ~COLOR_FREEMODE_EVENT~~1~~s~.
+
+FME_OBJECTIVE_WAIT_POSSE_VERSUS = Дождитесь начала задания: ~COLOR_MP_OBJECTIVE~~1~~s~.
+
+FME_OBJECTIVE_WAIT_ST = Дождитесь ~COLOR_FREEMODE_EVENT~поезда.
+
+FME_PROMPT_RETURN_TO_FREE_ROAM = Продолжить
+
+FME_PROMPT_RETURN_TO_FREE_ROAM_POSSE = Продолжить (~1~/~2~)
+
+FME_SHARD_OUTRO_PRIMARY_EXPIRED = Время истекло
+
+FME_SHARD_OUTRO_PRIMARY_EXPIRED_GANGS = Недостаточно отрядов
+
+FME_SHARD_OUTRO_PRIMARY_EXPIRED_PLAYERS = Недостаточно игроков
+
+FME_SHARD_OUTRO_PRIMARY_INVALID_GANG = Отряд был распущен
+
+FME_SHARD_OUTRO_TITLE_OVER = Событие «~1~» закончилось
+
+FME_SHARD_OUTRO_TITLE_OVER_POSSE_VERSUS = Противостояние завершено
+
+FME_SHARD_OUTRO_TITLE_PLACED = ~1~ место
+
+FME_SHARD_OUTRO_TITLE_WINNER = Победитель
+
+FME_SHARD_PRIMARY_POSSE_DISBANDED = ~COLOR_ENEMY~Отряд~s~ временно распущен
+
+FM_ESC_CONVICTS_LEADERBOARD_ALIVE = Живых
+
+FM_ESC_CONVICTS_LEADERBOARD_DEAD = Мертвых
+
+FM_FAST_TRAVEL = Быстрое перемещение
+
+FM_FISHING_LEADERBOARD_CAUGHT = Поймано
+
+FM_FISHING_LEADERBOARD_HOOKED = Подсечено
+
+FM_FISHING_LEADERBOARD_WEIGHT = Вес
+
+FM_GOODS_TRAIN_LEADERBOARD_GOODS = Товары
+
+FM_HUNTING_LEADERBOARD_KILLS = Убито животных
+
+FM_LEADERBOARD_DEATHS = Смертей
+
+FM_LEADERBOARD_KILLS = Убийств
+
+FM_LEADERBOARD_SCORE = Счет
+
+FM_PERCENT = ~1~%
+
+FM_PLACE_1 = 1-е
+
+FM_PLACE_2 = 2-е
+
+FM_PLACE_3 = 3-е
+
+FM_PLACE_4 = 4-е
+
+FM_PLACE_5 = 5-е
+
+FM_PLACE_6 = 6-е
+
+FM_PLACE_7 = 7-е
+
+FM_PLACE_8 = 8-е
+
+FM_PLACE_9 = 9-е
+
+FM_PLACE_10 = 10-е
+
+FM_PLACE_11 = 11-е
+
+FM_PLACE_12 = 12-е
+
+FM_PLACE_13 = 13-е
+
+FM_PLACE_14 = 14-е
+
+FM_PLACE_15 = 15-е
+
+FM_PLACE_16 = 16-е
+
+FM_PLACE_17 = 17-е
+
+FM_PLACE_18 = 18-е
+
+FM_PLACE_19 = 19-е
+
+FM_PLACE_20 = 20-е
+
+FM_PLACE_21 = 21-е
+
+FM_PLACE_22 = 22-е
+
+FM_PLACE_23 = 23-е
+
+FM_PLACE_24 = 24-е
+
+FM_PLACE_25 = 25-е
+
+FM_PLACE_26 = 26-е
+
+FM_PLACE_27 = 27-е
+
+FM_PLACE_28 = 28-е
+
+FM_PLACE_29 = 29-е
+
+FM_PLACE_30 = 30-е
+
+FM_PLACE_31 = 31-е
+
+FM_PLACE_32 = 32-е
+
+FM_POSSE_RACE_LEADERBOARD_DNF = Н/Ф
+
+FM_POSSE_RACE_LEADERBOARD_SCORE = Результаты
+
+FM_ROUNDUP_LEADERBOARD_TOTAL = Всего
+
+FM_WEIGHT = ~1W~
+
+FM_WRECKAGE_LEADERBOARD_FOUND = Найдено
+

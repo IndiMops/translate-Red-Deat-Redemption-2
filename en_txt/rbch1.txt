@@ -1,0 +1,42 @@
+0x2FB90BA2 = STRANGER
+
+0xC3E16D1D = TELLER
+
+BEECHERS11_OBJ_ENTB = Enter the ~o~bank
+
+BEECHERS11_OBJ_MYHO = Mount your ~o~horse
+
+BEECHERS12_ILO_G = GREET
+
+RBCH1_F_ABUN = Uncle was abandoned.
+
+RBCH1_F_BANK = You killed the banker.
+
+RBCH1_F_HRSD = Your horse has died.
+
+RBCH1_F_LEFT = You fled from the squatters.
+
+RBCH1_F_UNCD = Uncle has died.
+
+RBCH1_F_UNCMD = Uncle's mount has died.
+
+RBCH1_F_WNTD = You have committed a crime.
+
+RBCH1_GIVEM = Give Money
+
+RBCH1_INTIM = Intimidate
+
+RBCH1_O_CONF = Confront the ~o~squatters~s~
+
+RBCH1_O_KILL = Deal with the ~e~squatters~s~
+
+RBCH1_O_LSLW = Lose your Wanted level
+
+RBCH1_O_MNT = Mount your ~o~horse~s~
+
+RBCH1_O_RBCH = Return to ~o~Beecher's Hope~s~ with Uncle
+
+RBCH1_O_RTUN = Return to ~o~Uncle~s~
+
+RBCH1_O_SHCK = Return to ~o~Beecher's Hope~s~
+

@@ -1,0 +1,138 @@
+B_SPOT_CRST1_1 = ~z~Coach is in trouble!
+
+B_SPOT_CRST1_2 = ~z~I got you now!
+
+CRST1_DYNAMITE_1 = ~z~Oh, hell, that dynamite? We're in trouble here!
+
+CRST1_IG1_ARTH2_1 = ~z~Here...
+
+CRST1_IG1_ARTH2_2 = ~z~There's a stage heading up from Blackwater.
+
+CRST1_IG1_ARTH2_3 = ~z~Now, I hear it'll be heavily guarded so you might wanna try a more covert approach...
+
+CRST1_IG1_ARTH2_4 = ~z~or lay down some explosives...
+
+CRST1_IG1_ARTH2_5 = ~z~I don't know, you're the expert.
+
+CRST1_IG1_ARTH2_6 = ~z~Alright, Hector. Appreciate it. You enjoy the rest of your day.
+
+CRST1_IG1_ARTH2_7 = ~z~Alright, suit yourself.
+
+CRST1_IG1_JOHN2_1 = ~z~Here...
+
+CRST1_IG1_JOHN2_2 = ~z~There's a stage heading up from Blackwater.
+
+CRST1_IG1_JOHN2_3 = ~z~Now, I hear it'll be heavily guarded so you might wanna try a more covert approach...
+
+CRST1_IG1_JOHN2_4 = ~z~or lay down some explosives...
+
+CRST1_IG1_JOHN2_5 = ~z~I don't know, you're the expert.
+
+CRST1_IG1_JOHN2_6 = ~z~Alright, Hector. Appreciate it. You enjoy the rest of your day.
+
+CRST1_IG1_JOHN2_7 = ~z~Alright, suit yourself.
+
+D_BLOCKED_CRST1_1 = ~z~Hey! We gotta get through!
+
+D_ILOG_CRST1_1 = ~z~Hey.
+
+D_ILOR_CRST1_1 = ~z~This a joke? Someone deal with this idiot!
+
+D_ILOS_CRST1_1 = ~z~What's the matter? You better have a damn good reason!
+
+D_ILOT_CRST1_1 = ~z~Shit... Melvin, Eric, go take a look. We'll hold tight here.
+
+D_ILOT_CRST1_2 = ~z~You sure you trust this feller?
+
+D_ILOT_CRST1_3 = ~z~I ain't taking no chances. Now go on.
+
+D_ILOT_CRST1_4 = ~z~Alright...
+
+D_NERV_01_CRST1_1 = ~z~Hey, back off a bit.
+
+D_NERV_02_CRST1_1 = ~z~You lost or something? Back off!
+
+D_NERV_03_CRST1_1 = ~z~Ain't gonna tell you again, back off!
+
+D_RBLH_CRST1_1 = ~z~Out of the way, you dumb animal!
+
+D_RBLH_CRST1_2 = ~z~Yah! Out of the way!
+
+D_RBLV_CRST1_1 = ~z~What's that doing there?
+
+D_RBLV_CRST1_2 = ~z~This is all I need...
+
+D_RBLV_CRST1_3 = ~z~Out of the way! Come on!
+
+D_SHOCKED_CRST1_1 = ~z~Someone's after the cargo!
+
+D_THREAT_CRST1_1 = ~z~You can go to Hell! Take him there, boys!
+
+D_WORRYJ_CRST1_1 = ~z~Well? What happened?
+
+D_WORRYJ_CRST1_2 = ~z~Everything is fine. They are still looking.
+
+D_WORRY_CRST1_1 = ~z~Well? What happened?
+
+D_WORRY_CRST1_2 = ~z~Everything is fine. They are still looking.
+
+D_WRN_01_CRST1_1 = ~z~Well, thanks for that. Why don't you head on now.
+
+D_WRN_02_CRST1_1 = ~z~Go on. Ain't giving you no reward, if that's what you're after.
+
+D_WRN_03_CRST1_1 = ~z~Now I'm getting suspicious. Move it!
+
+E_ATT_CRST1_1 = ~z~Oh shit! You bastard!
+
+E_CHAT_01_CRST1_1 = ~z~Didn't see no ambush.
+
+E_CHAT_01_CRST1_2 = ~z~You sure you saw someone?
+
+E_TRICKJ_CRST1_1 = ~z~Not here, they were further down the road.
+
+E_TRICKJ_CRST1_2 = ~z~You better not be fooling with us now.
+
+E_TRICK_CRST1_1 = ~z~Not here, they were further down the road.
+
+E_TRICK_CRST1_2 = ~z~You better not be fooling with us now.
+
+G_ILOT_CRST1_1 = ~z~We went all the way to the station and back... nothing.
+
+G_ILOT_CRST1_2 = ~z~Well, he was lying or they moved on. Anyway. Keep an eye out. Let's move out.
+
+P_HUP_01J_CRST1_1 = ~z~Make a move and you're dead, you hear me?
+
+P_HUP_01_CRST1_1 = ~z~Make a move and you're dead, you hear me?
+
+P_HUP_02J_CRST1_1 = ~z~You better stay right there 'til I'm gone and keep your mouth shut.
+
+P_HUP_02_CRST1_1 = ~z~You better stay right there 'til I'm gone and keep your mouth shut.
+
+P_ILOGJ_CRST1_1 = ~z~Hey there.
+
+P_ILOG_CRST1_1 = ~z~Hey there.
+
+P_ILORJ_CRST1_1 = ~z~Step down from the coach and drop your weapons! Nobody has to get hurt here.
+
+P_ILOR_CRST1_1 = ~z~Step down from the coach and drop your weapons! Nobody has to get hurt here.
+
+P_ILOSJ_CRST1_1 = ~z~Hey, you! Stop the coach!
+
+P_ILOS_CRST1_1 = ~z~Hey, you! Stop the coach!
+
+P_ILOTJ_CRST1_1 = ~z~I saw some outlaws up ahead, look like Skinners.
+
+P_ILOTJ_CRST1_2 = ~z~Reckon... they might be fixing to rob you.
+
+P_ILOT_CRST1_1 = ~z~I saw some outlaws up ahead, they look like O'Driscolls.
+
+P_ILOT_CRST1_2 = ~z~Reckon they might be fixing to rob you.
+
+S_GRD_01_CRST1_1 = ~z~Hey! You back the hell off.
+
+S_GRD_02_CRST1_1 = ~z~Don't think I won't shoot you!
+
+S_GRD_03_CRST1_1 = ~z~Oh, we got a problem here!
+
+S_GRD_04_CRST1_1 = ~z~Shit! We're being robbed!
+

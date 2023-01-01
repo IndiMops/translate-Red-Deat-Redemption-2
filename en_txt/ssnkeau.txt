@@ -1,0 +1,48 @@
+SSNKE_BOO_A_01 = ~z~That ain't a real snake!
+
+SSNKE_BOO_A_02 = ~z~Turn that snake into boots!
+
+SSNKE_BOO_A_03 = ~z~Less snakes, more dancing girls!
+
+SSNKE_BOO_A_04 = ~z~Bite her and get it over with!
+
+SSNKE_BOO_A_05 = ~z~Fake snake!
+
+SSNKE_BOO_J_01 = ~z~Bite her!
+
+SSNKE_BOO_J_02 = ~z~I hope it bites you!
+
+SSNKE_BOO_J_03 = ~z~Ring her neck!
+
+SSNKE_BOO_J_04 = ~z~That snake's half dead!
+
+SSNKE_BOO_J_05 = ~z~She took that snake's teeth out!
+
+SSNKE_BRN_NEG_A_1 = ~z~Just bite her already!
+
+SSNKE_BRN_NEG_J_1 = ~z~Boo! I hate snakes!
+
+SSNKE_BRN_POS_A_1 = ~z~Snake lady!
+
+SSNKE_BRN_POS_J_1 = ~z~Alright, serpent lady!
+
+SSNKE_CHEER_A_01 = ~z~Serpent lady!
+
+SSNKE_CHEER_A_02 = ~z~Take care with that thing.
+
+SSNKE_CHEER_A_03 = ~z~Be careful with that snake!
+
+SSNKE_CHEER_A_04 = ~z~Getting that snake riled up!
+
+SSNKE_CHEER_A_05 = ~z~Some cities ain't all bad! I like this.
+
+SSNKE_CHEER_J_01 = ~z~Kiss that snake!
+
+SSNKE_CHEER_J_02 = ~z~You're dangerous, lady!
+
+SSNKE_CHEER_J_03 = ~z~That snake looks mad!
+
+SSNKE_CHEER_J_04 = ~z~Careful, it will bite ya!
+
+SSNKE_CHEER_J_05 = ~z~That's a big snake!
+

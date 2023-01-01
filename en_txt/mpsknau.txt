@@ -1,0 +1,40 @@
+MPSKN_AIM_01 = ~z~It's time!
+
+MPSKN_AIM_02 = ~z~Don't flinch!
+
+MPSKN_AIM_03 = ~z~Just make it quick.
+
+MPSKN_AIM_04 = ~z~Like a true Skinner!
+
+MPSKN_ALONE_01 = ~z~All dead and hellbound, every one...
+
+MPSKN_ALONE_02 = ~z~Every last brother in the dirt, I guess I'm impressed.
+
+MPSKN_ALONE_03 = ~z~Regular charnel house, you must be so proud.
+
+MPSKN_ALONE_04 = ~z~A butcher like you could have been one of us.
+
+MPSKN_COWER_01 = ~z~Well? Mercy or justice?
+
+MPSKN_COWER_02 = ~z~I won't beg.
+
+MPSKN_COWER_03 = ~z~Kill me or spare me, just don't waste my time.
+
+MPSKN_COWER_04 = ~z~Get it over with.
+
+MPSKN_PLEAD_01 = ~z~So... you gonna kill me too?
+
+MPSKN_PLEAD_02 = ~z~Still breath in my body, what're you gonna do about that?
+
+MPSKN_PLEAD_03 = ~z~I don't expect mercy.
+
+MPSKN_PLEAD_04 = ~z~Let me go, I'll change, I promise.
+
+MPSKN_SPARED_01 = ~z~Coward.
+
+MPSKN_SPARED_02 = ~z~Well... 'til we meet again.
+
+MPSKN_SPARED_03 = ~z~Hm, weak.
+
+MPSKN_SPARED_04 = ~z~~sl:1.0~You should have killed me.
+

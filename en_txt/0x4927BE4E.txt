@@ -1,0 +1,12 @@
+0x0B58FEF8 = Read letter
+
+0x9A2FB9DF = Read letter
+
+0x62060910 = Sometimes you will get a choice to help a companion or not. Your decision will affect your Honor Level.
+
+0xDA7811C2 = Read letter
+
+RMARY02_DECIDE_NEG = Don't help Mary
+
+RMARY02_DECIDE_POS = Help Mary
+

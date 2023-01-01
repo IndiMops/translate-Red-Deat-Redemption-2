@@ -1,0 +1,92 @@
+0xF700005C = The ~1~ has escaped. Return later or look elsewhere to find another.
+
+LA_ALLIGATOR = Legendary Gator
+
+LA_BEAR = Legendary Bear
+
+LA_BEAVER = Legendary Beaver
+
+LA_BEAVER_H_LASSO = The Legendary Beaver can be lassoed out of the water to be skinned or sampled.
+
+LA_BISON = Legendary Bison
+
+LA_BOAR = Legendary Boar
+
+LA_BUCK = Legendary Buck
+
+LA_CLUE = Legendary Animal Clue
+
+LA_COUGAR = Legendary Cougar
+
+LA_COYOTE = Legendary Coyote
+
+LA_ELK = Legendary Elk
+
+LA_ESCAPED_LEGEND_ALLIGATOR_01 = The Legendary Teca Gator has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_ALLIGATOR_02 = The Legendary Sun Gator has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_BEAR_01 = The Legendary Owiza Bear has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_BEAR_02 = The Legendary Ridgeback Spirit Bear has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_BEAVER_01 = The Legendary Zizi Beaver has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_BEAVER_02 = The Legendary Moon Beaver has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_BIG_HORN_01 = The Legendary Gabbro Horn Ram has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_BIG_HORN_02 = The Legendary Chalk Horn Ram has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_BISON_01 = The Legendary Tatanka Bison has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_BISON_02 = The Legendary Winyan Bison has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_BOAR_01 = The Legendary Cogi Boar has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_BOAR_02 = The Legendary Wakpa Boar has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_BUCK_01 = The Legendary Mud Runner Buck has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_BUCK_02 = The Legendary Snow Buck has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_COUGAR_01 = The Legendary Iguga Cougar has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_COUGAR_02 = The Legendary Maza Cougar has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_COYOTE_01 = The Legendary Red Streak Coyote has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_COYOTE_02 = The Legendary Midnight Paw Coyote has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_ELK_01 = The Legendary Katata Elk has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_ELK_02 = The Legendary Ozula Elk has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_FOX_01 = The Legendary Ota Fox has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_FOX_02 = The Legendary Marble Fox has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_MOOSE_01 = The Legendary Snowflake Moose has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_MOOSE_02 = The Legendary Knight Moose has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_PANTHER_01 = The Legendary Nightwalker Panther has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_PANTHER_02 = The Legendary Ghost Panther has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_WOLF_01 = The Legendary Emerald Wolf has escaped. Return later or look elsewhere to find another.
+
+LA_ESCAPED_LEGEND_WOLF_02 = The Legendary Onyx Wolf has escaped. Return later or look elsewhere to find another.
+
+LA_FOX = Legendary Fox
+
+LA_H_BLIPPED = A Legendary Animal ~o~~BLIP_AMBIENT_SECRET~~s~ is nearby.
+
+LA_MOOSE = Legendary Moose
+
+LA_PANTHER = Legendary Panther
+
+LA_RAM = Legendary Ram
+
+LA_WOLF = Legendary Wolf
+

@@ -1,0 +1,98 @@
+0x8A71789C = Press ~INPUT_HORSE_MELEE~ to hit your passenger.
+
+0x10E7EC52 = The job was abandoned.
+
+0x673C2F5D = Rapidly press ~INPUT_CONTEXT_A~ to pull the bounty back up onto the ridge.
+
+0x8038F0D4 = Mrs. Calthorpe
+
+0x61433C50 = ~INPUT_MOVE_UP_ONLY|PromptId=INPUT_BOU1_UC_PULL,Gutter~ pull
+
+0x8381825D = ~INPUT_CONTEXT_ACTION|PromptId=INPUT_BOU1_UC_LIFT~ lift
+
+0xAE4278E4 = Arthur's horse
+
+0xF5E26DE1 = Benedict's horse
+
+0xFCA3C110 = Fleeing targets can be slowed by shooting them in the leg. Aim with ~INPUT_AIM~ and then press ~INPUT_SPECIAL_ABILITY~ to enter Dead Eye.
+
+BOU1_BLIP_HELP = The last known location of the bounty is marked with ~1b~.
+
+BOU1_DEAD_BOUNTY = The bounty has died.
+
+BOU1_DEPUTY = You attacked the Deputy.
+
+BOU1_D_WITNESS = The Deputy witnessed you whilst wanted.
+
+BOU1_FOCUS = Hold ~INPUT_FOCUS_CAM~ to switch to the Cinematic Camera.
+
+BOU1_FOCUS_OUT = To exit Cinematic Camera press ~INPUT_FOCUS_CAM~.
+
+BOU1_GOTO_HELP = To turn in the bounty, carry him into the sheriff's station and drop him into an empty jail cell.
+
+BOU1_HELP_DROWN = Riding through deep water with a hogtied passenger will cause them to fall from the back of your horse and most likely drown.
+
+BOU1_HELP_HOGTIE1 = Hold ~INPUT_HORSE_AIM~ to keep the bounty lassoed and press ~INPUT_HOGTIE~ when standing nearby to hogtie them.
+
+BOU1_HELP_HOGTIE2 = Hold ~INPUT_PICKUP_CARRIABLE~ when standing near the hogtied bounty to pick him up.
+
+BOU1_HELP_LASSO0 = Press ~INPUT_HORSE_ATTACK~ to throw the lasso while aiming at the bounty.
+
+BOU1_HELP_LASSO1 = Hold ~INPUT_HORSE_ATTACK~ while stationary on a horse to drag the lassoed bounty towards you.
+
+BOU1_HELP_LASSO2 = Hold ~INPUT_HORSE_ATTACK~ while stationary to drag the lassoed bounty towards you.
+
+BOU1_JAIL = Holding Area
+
+BOU1_LOST_BOUNTY = You lost the bounty.
+
+BOU1_MOIRA = You attacked the Mrs. Calthorpe.
+
+BOU1_OBJ02A = Investigate the ~o~gorge~s~
+
+BOU1_OBJ02B = Locate the ~o~bounty~s~
+
+BOU1_OBJ02C = Confront the ~e~bounty~s~
+
+BOU1_OBJ03A = Save the ~e~bounty~s~
+
+BOU1_OBJ04A = Capture the ~e~bounty~s~
+
+BOU1_OBJ05A = Lasso the ~e~bounty~s~
+
+BOU1_OBJ05B = Pull the ~e~bounty~s~ out of the river
+
+BOU1_OBJ05C = Hogtie the ~e~bounty~s~
+
+BOU1_OBJ05D = Pickup the ~e~bounty~s~
+
+BOU1_OBJ06A = Return the bounty to the ~o~Sheriff's Office~s~
+
+BOU1_OBJ06B = Put the bounty in the ~o~holding area~s~
+
+BOU1_OBJ06C = Retrieve the ~e~bounty~s~
+
+BOU1_OFFICE = Sheriff's Office
+
+BOU1_SCARED = The bounty was spooked.
+
+BOU1_SEARCH_AREA = Bounty location
+
+BOU1_SEARCH_HELP = Search the area to locate the bounty target.
+
+BOU1_SHERIFF = You attacked the Sheriff.
+
+BOU1_SPOOK = The bounty was spooked by the law.
+
+BOU1_S_WITNESS = The Sheriff witnessed you whilst wanted.
+
+BOU1_UC_GREET = Confront
+
+BOU1_UC_HIT = Hit Bounty
+
+BOU1_UC_LIFT = Lift
+
+BOU1_UC_PULL = Pull
+
+BOU1_WARN = The ~e~bounty~s~ must be returned alive.
+

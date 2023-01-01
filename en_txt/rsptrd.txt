@@ -1,0 +1,252 @@
+0x2FF8E10D = Help deliver the coyote to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x3B30A81A = Help deliver the badger to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x7F0D2AEC = You have a coyote stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader ~BLIP_AMBIENT_NPC~ to exchange the coyote for supplies.
+
+0x8A76501A = Drop off the buck near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x8E82A77A = You have a badger stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader ~BLIP_AMBIENT_NPC~ to exchange the badger for supplies.
+
+0x9EA1D1F8 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~raccoon~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x22F80BE4 = Hunt a buck
+
+0x24E07317 = Drop off the moose pelt near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x202A5DF2 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~moose skin~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x514BE643 = The badger can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+0x525E9AC9 = Drop off the coyote near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x5065F685 = The coyote can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+0x141067AA = Badgers can be found near water, like Mattock Pond.
+
+0x76171013 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~buck~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0xA1BB8DD2 = Coyotes can be found stalking around the woods near Roanoke Ridge.
+
+0xA54CED60 = Coyotes can be found stalking around Ringneck Creek.
+
+0xB208DA91 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~coyote~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0xB85427FF = Hunt a raccoon
+
+0xBEFBADD5 = Hunt a badger
+
+0xD8AD031E = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~badger~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0xE9427868 = Hunt a coyote
+
+0xEB4A7162 = Help deliver the moose pelt to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0xF63EA06C = Collect a moose pelt
+
+0xFAFA9D2B = Help deliver the buck to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0xFB758CF6 = Drop off the badger near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_OBJ_FIND_BISON_PELT = Collect a bison pelt
+
+FETCH_RESUPPLY_OBJ_FIND_CONDOR = Hunt a condor
+
+FETCH_RESUPPLY_OBJ_FIND_DEER_CF = Hunt a Whitetail Deer
+
+FETCH_RESUPPLY_OBJ_FIND_DUCK = Hunt a duck
+
+FETCH_RESUPPLY_OBJ_FIND_ELK_PELT = Collect an elk pelt
+
+FETCH_RESUPPLY_OBJ_FIND_FOX = Hunt a fox
+
+FETCH_RESUPPLY_OBJ_FIND_GATOR_SKIN = Collect a large alligator skin
+
+FETCH_RESUPPLY_OBJ_FIND_IGUANA = Hunt a Desert Iguana
+
+FETCH_RESUPPLY_OBJ_FIND_PRONGHORN = Hunt a pronghorn
+
+FETCH_RESUPPLY_OBJ_FIND_TURKEY_V = Hunt an Eastern Wild Turkey
+
+FETCH_RESUPPLY_OBJ_FIND_TURTLE = Hunt a turtle
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_ALLIGATOR = You have a large alligator skin stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader ~BLIP_AMBIENT_NPC~ to exchange the large alligator skin for supplies.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_BISON = You have a bison pelt stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader ~BLIP_AMBIENT_NPC~ to exchange the bison pelt for supplies.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_CONDOR = You have a condor stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader ~BLIP_AMBIENT_NPC~ to exchange the condor for supplies.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_DUCK = You have a duck stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader ~BLIP_AMBIENT_NPC~ to exchange the duck for supplies.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_EASTERN_TURKEY = You have an Eastern Wild Turkey stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader ~BLIP_AMBIENT_NPC~ to exchange the Eastern Wild Turkey for supplies.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_ELK = You have an elk pelt stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader ~BLIP_AMBIENT_NPC~ to exchange the elk pelt for supplies.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_FOX = You have a fox stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader ~BLIP_AMBIENT_NPC~ to exchange the fox for supplies.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_IGUANA = You have an iguana stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader ~BLIP_AMBIENT_NPC~ to exchange the iguana for supplies.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_PRONGHORN = You have a pronghorn stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader ~BLIP_AMBIENT_NPC~ to exchange the pronghorn for supplies.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_TURTLE = You have a turtle stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader ~BLIP_AMBIENT_NPC~ to exchange the turtle for supplies.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_WHITETAIL_DEER = You have a Whitetail Deer stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader ~BLIP_AMBIENT_NPC~ to exchange the Whitetail Deer for supplies.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_BISON_GP = Bison can be found grazing in the Great Plains.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_CONDOR_RB = Condors can be found throughout the desert, including the top of Rio Del Lobo Rock.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_DEER_CF = Whitetail Deer can be found grazing near the hills in the Cumberland Forest.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_DEER_HENNIGAN = Whitetail Deer can be found grazing in Hennigan's Stead.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_DEER_KR = Whitetail Deer can be found throughout forest areas, including the hills north of Elysian Pool.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_DEER_NH = Whitetail Deer can be found grazing the grassy areas of New Hanover.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_DUCK_ATC = Ducks can be found near bodies of water, such as Owanjila.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_ELK_BH = Elk can be found by the Aurora Basin.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_FOX = Foxes can be found throughout the wilderness, including Ringneck Creek.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_GATOR = Alligators can be found in the Bluewater Marsh.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_IGUANA = Desert Iguanas can be found in Cholla Springs.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_PRONGHORN = Pronghorns can be found grazing in Cholla Springs.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_PRONGHORN_DESERT = Pronghorns can be found grazing throughout the desert.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_PRONGHORN_V = Pronghorns can be found grazing in Cumberland Forest.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_TURKEY_CF = Eastern Wild Turkey can be found feeding in grassy areas throughout Cumberland Forest.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_TURKEY_RR = Eastern Wild Turkey can be found feeding near the wooded areas of Roanoke Ridge.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_TURKEY_SM = Eastern Wild Turkey can be found feeding near the wooded areas of Scarlett Meadows.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_TURKEY_V = Eastern Wild Turkey can be found feeding in grassy areas of the Heartlands.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_TURKEY_WE = Eastern Wild Turkey can be found feeding near the wooded areas of West Elizabeth.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_TURTLE_HS = Turtles can be found near water, like Stillwater Creek.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON = Fulfill the request and deliver the supplies to Camp ~BLIP_CAMP~ to resume operations. Supplies returned will also add materials to Cripps Trading Co.
+
+FETCH_RESUPPLY_TRADE_HELP_NO_SKIN = The Trader ~BLIP_AMBIENT_NPC~ will not accept skinned animals.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_ALLIGATOR = The large alligator skin can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_BISON = The bison pelt can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_CONDOR = The condor can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_DUCK = The duck can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_EASTERN_TURKEY = The Eastern Wild Turkey can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_ELK = The elk pelt can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_FOX = The fox can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_GENERIC = Items can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_IGUANA = The iguana can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_PRONGHORN = The pronghorn can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_TURTLE = The turtle can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_WHITETAIL_DEER = The Whitetail Deer can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+FETCH_RESUPPLY_TRADE_OBJ_DEFEND_WAGON = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ on the way ~1~
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_BISON_PELT = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~bison pelt~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_CONDOR = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~condor~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_DEER = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~deer~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_DUCK = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~duck~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_ELK_PELT = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~elk pelt~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_FOX = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~fox~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_GATOR = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~large alligator skin~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_IGUANA = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~iguana~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_PRONGHORN = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~pronghorn~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_TURKEY_V = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~turkey~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_TURTLE = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~turtle~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_BISON_PELT = Drop off the bison pelt near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_CONDOR = Drop off the condor near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_DEER = Drop off the deer near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_DUCK = Drop off the duck near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_ELK_PELT = Drop off the elk pelt near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_FOX = Drop off the fox near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_GATOR = Drop off the large alligator skin near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_IGUANA = Drop off the iguana near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_PRONGHORN = Drop off the pronghorn near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_TURKEY_V = Drop off the turkey near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_TURTLE = Drop off the turtle near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_FIND_WAGON = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_GET_ON_HUNTING_WAGON = Get in the Hunting Wagon
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_BISON_PELT = Help deliver the bison pelt to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_CONDOR = Help deliver the condor to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_DEER = Help deliver the deer to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_DUCK = Help deliver the duck to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_ELK_PELT = Help deliver the elk pelt to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_FOX = Help deliver the fox to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_GATOR = Help deliver the large alligator skin to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_IGUANA = Help deliver the iguana to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_PRONGHORN = Help deliver the pronghorn to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_TURKEY_V = Help deliver the turkey to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_TURTLE = Help deliver the turtle to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+FETCH_RESUPPLY_TRADE_OBJ_RETURN_WAGON = Deliver the supplies ~1~
+
+FETCH_RESUPPLY_TRADE_OBJ_STEAL_WAGON = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+FETCH_RESUPPLY_TRADE_SHARD_DESTROYED_GENERIC = The items were lost
+
+FETCH_RESUPPLY_TRADE_SHARD_DESTROYED_WAGON = The supplies were destroyed
+
+FETCH_RESUPPLY_TRADE_SHARD_INTRO_PRIMARY = Earn the supplies
+
+FETCH_RESUPPLY_TRADE_SHARD_PRIMARY_PASS = The supplies were delivered
+
+FETCH_RESUPPLY_TRADE_STEAL_FROM_POSSE_WAGON = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~ from ~COLOR_ENEMY~~1~~s~
+
+FETCH_RESUPPLY_TRADE_TICKER_DESTROY_WAGON = The wagon was destroyed
+
+FETCH_RESUPPLY_TRADE_TICKER_DESTROY_YOU_WAGON = You destroyed the wagon
+

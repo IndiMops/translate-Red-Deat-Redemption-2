@@ -1,0 +1,136 @@
+0x0168659B = ~z~You really are settling in, huh? I give locals a nice price.
+
+0x0AB7AC48 = ~z~You've robbed from a lot of people, but you ain't robbing from me again.
+
+0x0B122872 = ~z~You don't come at me again. You hear me?
+
+0x0D275F48 = ~z~Feeling good about yourself?
+
+0x1B65FBC5 = ~z~Real piece of work you've turned into.
+
+0x1F96EB01 = ~z~Someone help. It's a hold up.
+
+0x2D0CA18D = ~z~Fine. Take it. The register is there.
+
+0x3D43CFCC = ~z~Stop bullying that animal.
+
+0x4AEF6B23 = ~z~Stop annoying the dog.
+
+0x4DD915D4 = ~z~I don't want to have to quarrel with you anymore. I'll give you a second chance.
+
+0x4F6CF045 = ~z~You're lucky I don't blow your head off for that. Get out of here.
+
+0x5B83B129 = ~z~Alright, I'll let you redeem yourself. Let's put it behind us.
+
+0x6B3F8255 = ~z~It's a robbery. Get help.
+
+0x6BC74497 = ~z~You damn thief. I've had it.
+
+0x6D50BD5D = ~z~Please. I'm barely making it by.
+
+0x6D96B288 = ~z~I should have moved to California.
+
+0x6E7F3D91 = ~z~Hello again.
+
+0x7CF90B8D = ~z~John. I don't believe it.
+
+0x7D5151FD = ~z~I can't stand this damn place.
+
+0x8BC16C78 = ~z~John, Rhodes could do without you raising hell.
+
+0x8DFE7EC1 = ~z~I like the local look. I'll give you a discount.
+
+0x9DCD28A6 = ~z~I'll see you hang, you lowdown thief.
+
+0x41AF54CA = ~z~You are an idiot. What was that? Get out.
+
+0x63D59F06 = ~z~What a bastard.
+
+0x66E4C24D = ~z~You will always be a lowdown thief. Don't pretend.
+
+0x77C15015 = ~z~John Marston.
+
+0x94E02148 = ~z~Does Jack know what a lowdown thief his father is?
+
+0x551B4112 = ~z~You've always been a thief. I should have guessed it. You ready to be civil now?
+
+0x598C880F = ~z~What's got into you? I thought you'd turned over a new leaf.
+
+0x641DB199 = ~z~You know what? To hell with this.
+
+0x7960DC1F = ~z~Actually, I don't think so.
+
+0x8256F931 = ~z~I hope you and your whole family die, you thief.
+
+0x45943C56 = ~z~What? Take the money and get it over with.
+
+0x578291C1 = ~z~Godammit. Do you have to ruin the one good thing I have?
+
+0x1862425D = ~z~John Marston. As I live and breathe.
+
+0x3089456E = ~z~Jesus. I'm getting you the money. You're a piece of shit.
+
+0xA4D43E5B = ~z~You're happy now? Feel like a big shot?
+
+0xA604AEC4 = ~z~I've never done anything to cross you, dammit.
+
+0xA5692B64 = ~z~Hey John. Welcome back.
+
+0xAA2A5ECE = ~z~Please. I got a wife. Don't kill me.
+
+0xAAB24CEC = ~z~Had your fun? Get out of here.
+
+0xACD02112 = ~z~All the money I have is in the register.
+
+0xB97F600A = ~z~You're gonna go to jail.
+
+0xB4647342 = ~z~Don't do this. Not here.
+
+0xBA6EA6F8 = ~z~Jesus. Really? Let me open the register.
+
+0xBF92C697 = ~z~Grab it out of the register there, dammit.
+
+0xC019970D = ~z~You've robbed from a lot of people, but you ain't robbing from me again.
+
+0xCB983C07 = ~z~Welcome.
+
+0xCC553936 = ~z~You ain't taking from me.
+
+0xD0E98264 = ~z~Good to see you.
+
+0xD2C7CA66 = ~z~Come in.
+
+0xD47B3B49 = ~z~Don't think you can gloss over your ugly behavior towards me...
+
+0xD15254BF = ~z~Alright. I'll open this up...
+
+0xD253174E = ~z~Don't shoot me. Please. Oh god.
+
+0xDA7A994A = ~z~I'm getting it. Calm down, dammit.
+
+0xDCF14C35 = ~z~Don't think you can gloss over your ugly behavior towards me...
+
+0xDF04F024 = ~z~Okay, okay. Thieving bastard. Hang on a second.
+
+0xE6A2923F = ~z~Abigail must be real proud.
+
+0xE9D96605 = ~z~You don't come at me again. You hear me?
+
+0xE32C26E9 = ~z~Well, look who's back.
+
+0xE111E6FA = ~z~Hello.
+
+0xE6912268 = ~z~Leave the dog alone, Mr. Morgan. Thank you.
+
+0xED62D2C4 = ~z~Word around town is you've been a wanted man. Keep it civil.
+
+0xF90E08F5 = ~z~You've always been a thief. I should have guessed it. You ready to be civil now?
+
+0xF1490E66 = ~z~Help. I'm being held up.
+
+0xF8947B9D = ~z~Oh God, no. Take anything.
+
+0xFA1794BA = ~z~I ain't going down that easy.
+
+0xFF1E763B = ~z~Folks with shiny stars on their chests been asking around about you. Hope you're gonna behave.
+

@@ -1,0 +1,256 @@
+0x013A6B84 = ~z~
+
+0x0896557D = ~z~I can't... I can't get free. Please, help me...
+
+0x0AC9FA10 = ~z~Run!
+
+0x0CED8F10 = ~z~Rich folk over on other side of town bet they don't even know what things are like over here...
+
+0x0E4D577F = ~z~Is something wrong? Why are we stopping?
+
+0x1B78E645 = ~z~I'm sure y'all are real busy, but... if one of you could help...
+
+0x1C0CACAE = ~z~Please, let's go.
+
+0x1D337293 = ~z~~sl:0.0:5.0~Guess he got... too curious. Poor Lucy was hollering all night...~sl:0.0:1.9~her arm never did heal straight...~sl:1.4~Anyway... glad my leg ain't broke is all.
+
+0x2F7EF4EA = ~z~I don't think my leg can handle being on the road too much longer.
+
+0x3A89FF22 = ~z~Do you think we can go any faster? I'm not feeling too good.
+
+0x3E7EB80E = ~z~Why are you shooting? Please, God, help me!
+
+0x3E41BA8B = ~z~What are you doing?
+
+0x4A9BA7E4 = ~z~Okay, I... I get it. Thank you for helping me as much as you did, I suppose...
+
+0x4AB89AAF = ~z~~sl:0.0:3.6~You know, I like to watch the boats sometimes, but~sl:0.0:2.4~the air stinks from them towers.~sl:1.9~Guess I should get used to it, if it's the future'n all...
+
+0x4BAAD6E0 = ~z~Please, mister? I don't think I'll make it alone.
+
+0x4BFC13C2 = ~z~
+
+0x4C2DFCE9 = ~z~I guess that's a no, then... okay... Well, thanks for helping me, anyway.
+
+0x4E5DABF6 = ~z~You ride like a madman!
+
+0x5C3AD245 = ~z~Sure is pretty round here...
+
+0x5C5E538B = ~z~~sl:0.0:4.4~I tell my father, "someday, we're all gonna live here."~sl:1.0~He laughs at that...
+
+0x5CBC5D87 = ~z~Do you know how to get there? This is the wrong way...
+
+0x5FB4E70C = ~z~Oh... Alright. Thanks, anyway...
+
+0x6BFC2D53 = ~z~We're here. I'd still be stuck there if not for you.
+
+0x6C10247A = ~z~I don't live too far, but I don't think I can make it without your help.
+
+0x6CEA68A7 = ~z~~sl:0.0:2.5~Guess I'm lucky my leg didn't break in the fall...~sl:0.7:2.2~My cousin, Lucy, broke her arm?~sl:0.7~They did her up in Plaster of Paris.
+
+0x6D059D7E = ~z~Please! I'm in real trouble here!
+
+0x6DC5E987 = ~z~We're here. Thank you mister, especially for helping me in your condition.
+
+0x7B6390F1 = ~z~~sl:0.4:2.5~One night some real fancy-looking feller~sl:0.0:2.1~got curious about that plaster cast.~sl:~Said he... wanted to know what it felt like.
+
+0x8A1E6C6E = ~z~Will you please slow your horse a little?
+
+0x8A3A43B1 = ~z~You know... I think I'll be able to find my own way, thank you... You go take care of yourself instead.
+
+0x8B46F835 = ~z~What was I talking about? Oh, yes.
+
+0x8C19CA2C = ~z~Hey, hey! Help me, please!
+
+0x8DA5A1AD = ~z~That's it, I'm done!
+
+0x9C286FCF = ~z~~sl:0.7:1.5:1~You crushed it!
+
+0x9D8B9CBE = ~z~Hmm... so...
+
+0x16B57E13 = ~z~You think I'm that stupid? Shove your ride. I'm just fine by myself.
+
+0x40F51BBA = ~z~I wonder what'll happen to Moses...
+
+0x45B69D30 = ~z~~sl:0.0:2.1~Oh, thank you!~sl:~I don't know what I would have done if you hadn't come by...
+
+0x51E90338 = ~z~You fellers are real generous... I wonder if I might ask you to help me out a little further by taking me home?
+
+0x75AE8587 = ~z~I might've been stuck there forever...
+
+0x81B1D7CC = ~z~Don't do that again, please!
+
+0x85BDCE66 = ~z~Oh, thank you, thank you! Those men would've killed me. You did good.
+
+0x251C183A = ~z~~sl:0.0:2.0~I headed out this morning to see my father~sl:0.0:2.9~but I heard some of those damn Raiders off ahead~sl:0.0:3.0~and... tore right through some thick brush.~sl:~Poor Moses twisted his leg.
+
+0x276F5FB3 = ~z~Who the hell you think you are? You don't have the right to talk to me like that.
+
+0x303DEC9F = ~z~Don't stop, please don't stop!
+
+0x306C7014 = ~z~What are you doing? Are you trying to kill your horse, too?
+
+0x441B3457 = ~z~What are you doing?
+
+0x470C17BE = ~z~Someone, help me!
+
+0x568B5943 = ~z~Don't do that!
+
+0x675B53EE = ~z~~sl:0.0:6.1~Look at all this. They say this is what the future looks like, and...~sl:~I say it's filthy.
+
+0x695E1896 = ~z~I'm helpless here!
+
+0x781F1851 = ~z~If you say so, mister...
+
+0x791B9F9D = ~z~~sl:1.8~Thanks for nothing.
+
+0x975C059B = ~z~~sl:0.0:7.5~Hey, mister... I know this is a lot to ask, but, could you do one more thing for me?~sl:~Could you help me home?
+
+0x995C2F92 = ~z~Can't that wait? Please, I need to get home.
+
+0x1459CF3A = ~z~~sl:0.0:4.8:1~Fine... I'll do it my goddamn self.
+
+0x1675D90D = ~z~Are you insane?
+
+0x2174B957 = ~z~Sir? I can see you're having a rough time, and... I'm impressed you moved that horse, but... could I ask you to help me home?
+
+0x2318B6E3 = ~z~~sl:0.0:3.8~All these buildings, and new ones every day...~sl:0.9:2.7~Can't imagine what it's like, living this fancy,~sl:1.2:2.0~waking up in a house that big...~sl:1.4~Imagine having all that money in your pocket.
+
+0x2391F26E = ~z~You take care of yourself, mister. I'll be just fine, thanks to you.
+
+0x3719BD3E = ~z~Me neither, mister, but what can we do? We just two people...
+
+0x5514A09E = ~z~My horse collapsed and now my leg's stuck! What does it look like?
+
+0x6439E493 = ~z~Please, please, I don't have anything...
+
+0x7646F5B4 = ~z~You know how to get to Annesburg? I know it's far...
+
+0x10247F24 = ~z~I know it sounds silly, just a horse. Anyway, better him than me I guess.
+
+0x30678BB0 = ~z~No, don't do that!
+
+0x40163F4F = ~z~I'll pray for your health, sir. Thank you.
+
+0x73958A4E = ~z~Could you take me to Saint Denis? It's far, I know...
+
+0x109275AC = ~z~This ain't the way back...
+
+0x242155D7 = ~z~We're close now... thank you...
+
+0x966890DE = ~z~We're close now, thank you.
+
+0x2539745E = ~z~You took me to the wrong town! Come on...
+
+0x40318851 = ~z~That's very kind, mister. I'd appreciate one, yes.
+
+0xA9BDBE8B = ~z~Oh, yes, thank God that's over...
+
+0xA11DC0A4 = ~z~Oh, shut up! Horrible man.
+
+0xA28CA62D = ~z~Please! I can't free my leg!
+
+0xA97CC3EC = ~z~Looks like home...
+
+0xA2759ACC = ~z~Turn around! This is the wrong way.
+
+0xA234467F = ~z~I know it ain't fair to ask... but my leg hurts real bad...
+
+0xA2804781 = ~z~Don't say anything! They don't know I'm here...
+
+0xAAFBDE65 = ~z~~sl:0.0:1.9~You familiar with Saint Denis at all?~sl:0.9~I'm over on the eastern side. Head toward the big cemetery.
+
+0xACFF35A9 = ~z~Not another horse! I'm cursed, I know it!
+
+0xAEB4FFFD = ~z~Will you just go away?
+
+0xB2B07F2F = ~z~What'll I tell my pa? He always worries about me...
+
+0xB6FAC487 = ~z~I wish you'd left me with Moses!
+
+0xB45CB2C0 = ~z~~sl:0.0:4.5~We went on as long as we could, but he gave out right where you found me.~sl:0.8~He just weren't meant for that kind of riding, and I just got scared...
+
+0xB99B7010 = ~z~Please, please take me home, I think my leg's swelling up.
+
+0xB5189F15 = ~z~I'm sorry...
+
+0xB940648A = ~z~I'm trapped! Help!
+
+0xBA0955B9 = ~z~Shoot, what was I on about? Oh, right.
+
+0xBA710B9B = ~z~
+
+0xBC8FF4CB = ~z~~sl:0.0:4.0~Ain't it pretty round here? Mansion District...~sl:1.3~feels like a different world...
+
+0xBC41D820 = ~z~What? For chrissakes, you think I'm doing this for show?
+
+0xBC85A7FB = ~z~Go on! Go on, you got it!
+
+0xBFC33DA0 = ~z~What did I do?
+
+0xC1E61C95 = ~z~I feel it! My leg's getting loose!
+
+0xC3B7785B = ~z~~sl:0.0:2.2~Oh, Moses...~sl:1.9~poor baby...
+
+0xC4EB6068 = ~z~Why are you torturing me like this?
+
+0xC5C3A0D0 = ~z~Why'd we stop?
+
+0xC7F61E76 = ~z~
+
+0xC14F3E21 = ~z~You got a horse? I don't think my leg'll take the walking...
+
+0xC91F8F14 = ~z~What are you doing? Get back on.
+
+0xCD8DD935 = ~z~Stop! Please stop!
+
+0xCE00E6F3 = ~z~Come on, please, take me home.
+
+0xCE522BDD = ~z~Why are you riding like this?
+
+0xCF40385B = ~z~Don't matter no more, anyway...
+
+0xD04E8063 = ~z~~sl:0.0:1.8~You're a real angel, you know?~sl:1.3~Two men gone by not long before you did and just kept right on going.
+
+0xD1A94A40 = ~z~Oh, thank you. You're a good man.
+
+0xD77CF0D4 = ~z~Don't shoot! I was just on the train...
+
+0xDA503D7D = ~z~I'm sure you're right about that...
+
+0xDC989FCB = ~z~Thank you again.
+
+0xDE4A7F09 = ~z~Slow the horse down, please!
+
+0xDF153B4E = ~z~~sl:0.0:4.1~I really loved that horse... poor baby.~sl:1.8:3.6~He liked carrots, you know? He'd eat 'em right out of my palm.~sl:1.5~He knew me by the sound of my voice, he did.
+
+0xE08AA592 = ~z~Hide, now!
+
+0xE1235742 = ~z~Oh, you stay away from me! Stay away!
+
+0xEAFA1AE7 = ~z~Mind making some space on here? I don't think I can fit on...
+
+0xEC04092D = ~z~You as well, mister.
+
+0xEC0B06DB = ~z~
+
+0xED490AD6 = ~z~Here, take this. Token of my appreciation'n all.
+
+0xEFA9F613 = ~z~~sl:0.0:3.3~I don't know what I'll do now without my Moses.~sl:0.0:3.5~I had been saving for a month to go visit my father.~sl:~Now he'll just be waiting on me...
+
+0xF0007EC9 = ~z~I can't wait no longer... I think my leg can take it from here, anyway.
+
+0xF5B9B037 = ~z~What? You ain't right!
+
+0xF8ED7D6A = ~z~Please! Don't just look at me...
+
+0xF33CFD79 = ~z~Sorry, I'm talking too much... I'm still too shook up...
+
+0xF96D8C47 = ~z~Be careful with your horse!
+
+0xF260C565 = ~z~Don't just stand there, help me!
+
+0xF954CE05 = ~z~Can someone help me?
+
+0xFDFA69BB = ~z~I live in Valentine. I know it's a long way.
+

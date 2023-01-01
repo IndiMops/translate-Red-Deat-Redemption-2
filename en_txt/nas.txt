@@ -1,0 +1,218 @@
+0x12F06271 = Event area
+
+0x40DF4E49 = Eliminate the ~COLOR_ENEMY~target~s~ before they escape
+
+0x870E1E8B = Paid Killing
+
+0x934E8957 = ~COLOR_MP_OBJECTIVE~Fort Wallace~s~
+
+0x3058F270 = ~COLOR_MP_OBJECTIVE~Ambarino~s~
+
+0x2775393D = ~COLOR_MP_OBJECTIVE~Annesburg~s~
+
+0xA3F7B974 = Possible target
+
+0xB1C5DAA8 = Eliminate the ~COLOR_ENEMY~target~s~ without alerting anyone
+
+0xB9D1C402 = ~COLOR_MP_OBJECTIVE~Cumberland Forest~s~
+
+0xB403E9BC = Target escaped
+
+0xBA07EBCD = Verify Identity
+
+0xBD1A1753 = Eliminate the ~COLOR_ENEMY~targets~s~ without alerting anyone
+
+0xCDED1801 = A target is fleeing the area. Look for the flashing ~1b~ and take them down quickly before they escape.
+
+0xDCA9EEE6 = Eliminate the ~COLOR_ENEMY~targets~s~ before they escape
+
+0xFF0764C8 = A ~COLOR_ENEMY~target~s~ has been eliminated
+
+NET_AS_BLIP_GO_TO_AREA = Destination
+
+NET_AS_BLIP_LAST_KNOWN_LOCATION = Last known location
+
+NET_AS_BLIP_SEARCH = Target search area
+
+NET_AS_BLIP_TARGET = Target
+
+NET_AS_HELP_ALLY_SELECTED = Your ally ~1~ has been marked for assassination by ~COLOR_ENEMY~~2~.~s~
+
+NET_AS_HELP_FOCUS_ON_TRAIL = Press ~INPUT_SPECIAL_ABILITY_ACTION~ while looking at a trail to follow it and track down the targets.
+
+NET_AS_HELP_GO_TO_LAST_KNOWN_LOCATION = Find the target within the area. Go to their last known location ~1b~ to start tracking them down.
+
+NET_AS_HELP_GO_TO_LAST_KNOWN_LOCATION_PLURAL = Find the targets within the area. Go to their last known location ~1b~ to start tracking them down.
+
+NET_AS_HELP_INTRO_PVP_PLAYER = Assassinate ~COLOR_ENEMY~~1~~s~ within the time limit to earn the reward.
+
+NET_AS_HELP_INTRO_PVP_POSSE = Assassinate all members of ~COLOR_ENEMY~~1~~s~ at least once within the time limit to earn the reward.
+
+NET_AS_HELP_INTRO_STANDARD = Assassinate all targets within the time limit to earn the full reward.
+
+NET_AS_HELP_INTRO_TRACKING = Search the area ~1b~ and assassinate all targets within the time limit to earn the full reward.
+
+NET_AS_HELP_LAST_KNOWN_LOCATION_FOUND = The target is no longer at this location ~1b~. Activate Eagle Eye using ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ + ~INPUT_SPECIAL_ABILITY~ to search for their tracks nearby.
+
+NET_AS_HELP_LAST_KNOWN_LOCATION_FOUND_KM = The target is no longer at this location ~1b~. Activate Eagle Eye using ~INPUT_SPECIAL_ABILITY~ to search for their tracks nearby.
+
+NET_AS_HELP_LAST_KNOWN_LOCATION_FOUND_PLURAL = The targets are no longer at this location ~1b~. Activate Eagle Eye using ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ + ~INPUT_SPECIAL_ABILITY~ to search for their tracks nearby.
+
+NET_AS_HELP_LAST_KNOWN_LOCATION_FOUND_PLURAL_KM = The targets are no longer at this location ~1b~. Activate Eagle Eye using ~INPUT_SPECIAL_ABILITY~ to search for their tracks nearby.
+
+NET_AS_HELP_RETURN_TO_LAST_KNOWN_LOCATION = Return to the last known location ~1b~ to search for the remaining target's tracks.
+
+NET_AS_HELP_RETURN_TO_LAST_KNOWN_LOCATION_PLURAL = Return to the last known location ~1b~ to search for the remaining targets' tracks.
+
+NET_AS_HELP_STEALTH_AVOID_DETECTION = Use the radar to avoid detection by the enemy ~1b~.
+
+NET_AS_HELP_TRACKING = Activate Eagle Eye using ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ to search the area for tracks.
+
+NET_AS_HELP_TRACKING_KM = Activate Eagle Eye using ~INPUT_SPECIAL_ABILITY~ to search the area for tracks.
+
+NET_AS_LOC_BENEDICT_POINT = ~COLOR_MP_OBJECTIVE~Benedict Point~s~
+
+NET_AS_LOC_BLACKWATER = ~COLOR_MP_OBJECTIVE~Blackwater~s~
+
+NET_AS_LOC_BRAITHWAITE_MANOR = the ~COLOR_MP_OBJECTIVE~manor~s~
+
+NET_AS_LOC_CHOLLA_SPRINGS = ~COLOR_MP_OBJECTIVE~Cholla Springs~s~
+
+NET_AS_LOC_CIVIL_WAR_FORT = the ~COLOR_MP_OBJECTIVE~fort~s~
+
+NET_AS_LOC_FORT_MERCER = ~COLOR_MP_OBJECTIVE~Fort Mercer~s~
+
+NET_AS_LOC_GAPTOOTH_BREACH = ~COLOR_MP_OBJECTIVE~Gaptooth Breach~s~
+
+NET_AS_LOC_GARDEN_DISTRICT = the ~COLOR_MP_OBJECTIVE~Garden District~s~
+
+NET_AS_LOC_HAMLINS_PASSING = ~COLOR_MP_OBJECTIVE~Hamlin's Passing~s~
+
+NET_AS_LOC_PIKES_BASIN = ~COLOR_MP_OBJECTIVE~Pike's Basin~s~
+
+NET_AS_LOC_PLEASANCE = ~COLOR_MP_OBJECTIVE~Pleasance~s~
+
+NET_AS_LOC_SAINT_DENIS = ~COLOR_MP_OBJECTIVE~Saint Denis~s~
+
+NET_AS_LOC_SAINT_DENIS_GRAVEYARD = the ~COLOR_MP_OBJECTIVE~Saint Denis Graveyard~s~
+
+NET_AS_LOC_SHADY_BELLE = ~COLOR_MP_OBJECTIVE~Shady Belle~s~
+
+NET_AS_LOC_STILLWATER_CREEK = ~COLOR_MP_OBJECTIVE~Stillwater Creek~s~
+
+NET_AS_LOC_TWO_CROWS = ~COLOR_MP_OBJECTIVE~Two Crows~s~
+
+NET_AS_OBJ_ASSASSINATE_PVP = Eliminate ~COLOR_ENEMY~~1~~s~
+
+NET_AS_OBJ_FIND_TARGETS = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the targets
+
+NET_AS_OBJ_FIND_TARGETS_ST = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the target
+
+NET_AS_OBJ_GO_TO_AREA = Go to the ~COLOR_MP_OBJECTIVE~location~s~
+
+NET_AS_OBJ_GO_TO_AREA_SPECIFIC = Go to ~1~
+
+NET_AS_OBJ_KILL_NONSTEALTH_TARGET = Eliminate the ~COLOR_ENEMY~targets~s~
+
+NET_AS_OBJ_KILL_NONSTEALTH_TARGET_ST = Eliminate the ~COLOR_ENEMY~target~s~
+
+NET_AS_OBJ_LEAVE_AREA = Leave the ~COLOR_MP_OBJECTIVE~area~s~
+
+NET_AS_OBJ_PLAYER_TARGET_HELP = Defend your ~COLOR_POSSE_ALLY~ally~s~
+
+NET_AS_OBJ_PLAYER_TARGET_HELP_SPECIFIC = Defend ~1~
+
+NET_AS_OBJ_PLAYER_TARGET_SURVIVE = Evade assassination by ~COLOR_ENEMY~~1~~s~
+
+NET_AS_OBJ_POSSE_LEAVE_AREA = Wait for your allies to leave the ~COLOR_MP_OBJECTIVE~area~s~
+
+NET_AS_OBJ_POSSE_TARGET_HELP = Defend your remaining ~COLOR_POSSE_ALLY~allies~s~
+
+NET_AS_OBJ_PROTECT_TARGETS = Defend the ~COLOR_ENEMY~targets~s~
+
+NET_AS_OBJ_PROTECT_TARGETS_ST = Defend the ~COLOR_MP_OBJECTIVE~target~s~
+
+NET_AS_OBJ_VERIFY_TARGET = Identify the ~COLOR_MP_OBJECTIVE~possible targets~s~
+
+NET_AS_SHARD_BODY_EXPIRED = Timer expired
+
+NET_AS_SHARD_BODY_FAIL_ABANDON_DISBAND_POSSE = Your Posse was disbanded
+
+NET_AS_SHARD_BODY_FAIL_SWITCH_POSSE = You left the Posse
+
+NET_AS_SHARD_BODY_OVER_ABANDONED = The assassins abandoned the mission
+
+NET_AS_SHARD_BODY_PVP_ALLY_FAIL = ~1~ eliminated
+
+NET_AS_SHARD_BODY_PVP_ALLY_WIN = ~1~ survived
+
+NET_AS_SHARD_BODY_PVP_FAIL_DC_PLAYER = ~1~ left the game
+
+NET_AS_SHARD_BODY_PVP_FAIL_DC_PLAYER_GEN = Target player left the game
+
+NET_AS_SHARD_BODY_PVP_FAIL_DC_POSSE = ~1~ left the game
+
+NET_AS_SHARD_BODY_PVP_FAIL_DC_POSSE_GEN = Target Posse left the game
+
+NET_AS_SHARD_BODY_PVP_OVER = ~1~/~2~ targets eliminated
+
+NET_AS_SHARD_BODY_PVP_POSSE_FAIL = Posse eliminated
+
+NET_AS_SHARD_BODY_PVP_POSSE_OVER = ~1~/~2~ of your Posse survived
+
+NET_AS_SHARD_BODY_PVP_TARGET_FAIL = You were eliminated
+
+NET_AS_SHARD_BODY_PVP_TARGET_POSSE_WIN = Posse survived
+
+NET_AS_SHARD_BODY_PVP_TARGET_WIN = You survived
+
+NET_AS_SHARD_BODY_PVP_WIN = ~1~ eliminated
+
+NET_AS_SHARD_BODY_START = Eliminate the ~COLOR_ENEMY~targets~s~
+
+NET_AS_SHARD_BODY_START_ALLY = ~1~ targeted for Assassination
+
+NET_AS_SHARD_BODY_START_C = Defend the ~COLOR_ENEMY~targets~s~ from the assassins
+
+NET_AS_SHARD_BODY_START_POSSE = Your Posse has been targeted for Assassination
+
+NET_AS_SHARD_BODY_START_PVP = Eliminate ~1~
+
+NET_AS_SHARD_BODY_START_SEARCH = Find & eliminate the ~COLOR_ENEMY~targets~s~
+
+NET_AS_SHARD_BODY_START_ST = Eliminate the ~COLOR_ENEMY~target~s~
+
+NET_AS_SHARD_BODY_START_ST_C = Defend the ~COLOR_ENEMY~target~s~ from assassins
+
+NET_AS_SHARD_BODY_START_ST_SEARCH = Find & eliminate the ~COLOR_ENEMY~target~s~
+
+NET_AS_SHARD_BODY_START_TARGET = You have been targeted for Assassination
+
+NET_AS_SHARD_BODY_STD_OVER = ~1~/~2~ targets eliminated
+
+NET_AS_SHARD_BODY_STD_SECONDARY_FAIL = Failed to protect targets
+
+NET_AS_SHARD_BODY_STD_SECONDARY_FAIL_SINGLE = Failed to protect target
+
+NET_AS_SHARD_BODY_STD_SECONDARY_OVER = ~1~/~2~ targets defended
+
+NET_AS_SHARD_BODY_STD_SECONDARY_WIN = Targets defended
+
+NET_AS_SHARD_BODY_STD_SECONDARY_WIN_SINGLE = Target defended
+
+NET_AS_SHARD_BODY_STD_WIN = Targets eliminated
+
+NET_AS_SHARD_BODY_STD_WIN_SINGLE = Target eliminated
+
+NET_AS_SHARD_PLAYER = Player Assassination
+
+NET_AS_SHARD_POSSE = Posse Assassination
+
+NET_AS_SHARD_STANDARD = Paid Killing
+
+NET_AS_UPDATE_PLAYER_KILLED = ~1~ has been eliminated
+
+NET_AS_UPDATE_TARGET_PLAYER_DISCONNECTED = ~1~ has left the game
+
+NET_AS_UPDATE_TARGET_PLAYER_DISCONNECTED_GEN = A ~COLOR_ENEMY~target player~s~ has left the game
+

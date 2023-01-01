@@ -1,0 +1,30 @@
+CFJM1_CNV_1 = ~z~Always good times with old Dutch.
+
+CFJM1_CNV_2 = ~z~~sl:0.0:1.3~Shoot innocent people,~sl:0.4:2.1~rob, kill, run,~sl:~all in the name of fun.
+
+CFJM1_CNV_3 = ~z~Dutch's fun.
+
+CFJM1_CNV_4 = ~z~Dutch is gonna save us all.
+
+CFJM1_CNV_5 = ~z~Dutch is gonna save us.
+
+CFJM1_CNV_6 = ~z~I mean, he saved me twice or more already.
+
+CFJM1_CNV_7 = ~z~Stopped the farmers from lynching me up in Illinois.
+
+CFJM1_CNV_8 = ~z~Just now he had saved me from wolves.
+
+CFJM1_CNV_9 = ~z~~sl:0.0:2.0~Hell, he saved us all from the Pinkertons or~sl:0.1:1.6~whoever it is on our tail,~sl:0.1~and still I doubt him.
+
+CFJM1_CNV_10 = ~z~~sl:0.0:4.0~"Blessed are they who... have faith, yet have still not seen."~sl:~Whatever that line he spouts is.
+
+CFJM1_CNV_11 = ~z~What do I know?
+
+CFJM1_CNV_12 = ~z~I don't know a thing.
+
+CFJM1_CNV_13 = ~z~~sl:0.0:1.0~I mean,~sl:0.2:1.2~that man I killed for,~sl:0.6:2.4~the man I ran for, the man I believed in,~sl:~is that still the same man I see now?
+
+CFJM1_CNV_14 = ~z~Guess about all I got left now is doubts.
+
+CFJM1_CNV_15 = ~z~Doubts and scars.
+

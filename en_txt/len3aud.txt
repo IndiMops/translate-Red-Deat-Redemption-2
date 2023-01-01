@@ -1,0 +1,8 @@
+CCLEN3_A_1 = ~z~Hey Arthur.
+
+CCLEN3_A_2 = ~z~Lenny. All good here?
+
+CCLEN3_A_3 = ~z~All fine.
+
+CCLEN3_A_4 = ~z~Good. Stay alert.
+

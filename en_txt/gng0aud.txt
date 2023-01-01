@@ -1,0 +1,220 @@
+GNG0_APPROACH1_1 = ~z~Hello?
+
+GNG0_APPROACH2_1 = ~z~Anybody here?
+
+GNG0_APPROACH3_1 = ~z~Charles? Susan?
+
+GNG0_IG1RLTR_1 = ~z~~sl:0.0:6.0~I found a letter! Mr... Tacitus Kilgore...~sl:0.8~that name mean anything to you?
+
+GNG0_IG1RLTR_2 = ~z~~sl:0.0:1.4:1~Nah, I don't think so.
+
+GNG0_IG1RLTR_3 = ~z~I've not yet read the case notes, I been working on a different case until last week.
+
+GNG0_IG1RLTR_4 = ~z~"Dear Uncle Tacitus...
+
+GNG0_IG1RLTR_5 = ~z~I do so hope you enjoyed your vacation.
+
+GNG0_IG1RLTR_6 = ~z~Lucky you, leaving like that and you always suggested you were too old for travel.
+
+GNG0_IG1RLTR_7 = ~z~I hope you and your cousins enjoyed yourselves.
+
+GNG0_IG1RLTR_8 = ~z~Me and your grandnieces have decided to take a trip...
+
+GNG0_IG1RLTR_9 = ~z~~sl:0.0:5.2:1~of our own as the place has become so dreary and godforsaken in your absence.
+
+GNG0_IG1RLTR_10 = ~z~We have... gone to visit relatives from Daddy's side,
+
+GNG0_IG1RLTR_11 = ~z~you are not yet aquainted with them, in Lakay.
+
+GNG0_IG1RLTR_12 = ~z~A small village just north of Saint Denis.
+
+GNG0_IG1RLTR_13 = ~z~~sl:0.0:7.1:1~It's buggy and muggy, but... apparently neither is too bad at this time of the year!
+
+GNG0_IG1RLTR_14 = ~z~Please come see us when you can.
+
+GNG0_IG1RLTR_15 = ~z~Yours sincerely, Caroline."
+
+GNG0_IG1RLTR_16 = ~z~~sl:0.9:1.1~It's a trap.~sl:0.7~So we gotta go find Lakay, that's where they're holed up.
+
+GNG0_IG1RLTR_17 = ~z~~sl:1.4:0.0~How can you tell?
+
+GNG0_IG1RLTR_18 = ~z~~sl:0.0:3.1~Even a child could see through that balderdash, keep looking.~sl:0.6~See what else you can find.
+
+GNG0_RSC1_1 = ~z~Well, what now?
+
+GNG0_RSC1_2 = ~z~W-What now?
+
+GNG0_RSC1_3 = ~z~What do you mean, what now?
+
+GNG0_RSC1_4 = ~z~I mean, we're heading back to Lemoyne, again...
+
+GNG0_RSC1_5 = ~z~and we're all wanted men.
+
+GNG0_RSC1_6 = ~z~We slip ashore one by one...
+
+GNG0_RSC1_7 = ~z~find out what's what.
+
+GNG0_RSC1_8 = ~z~And we don't cut and run now?
+
+GNG0_RSC1_9 = ~z~Head back to Blackwater.
+
+GNG0_RSC1_10 = ~z~No.
+
+GNG0_RSC1_11 = ~z~Why not?
+
+GNG0_RSC1_12 = ~z~Because...
+
+GNG0_RSC1_13 = ~z~the last thing they'll be thinking is for us to turn up.
+
+GNG0_RSC1_14 = ~z~We been on the run for a while now...
+
+GNG0_RSC1_15 = ~z~and it feels like...
+
+GNG0_RSC1_16 = ~z~like our luck has turned...
+
+GNG0_RSC1_17 = ~z~you know?
+
+GNG0_RSC1_18 = ~z~And it ain't turning back.
+
+GNG0_RSC1_19 = ~z~We had a good run of it, I guess.
+
+GNG0_RSC1_20 = ~z~We ain't even played our hand yet.
+
+GNG0_RSC1_21 = ~z~We just need to put some more money in our pockets...
+
+GNG0_RSC1_22 = ~z~make our escape.
+
+GNG0_RSC1_23 = ~z~Broke, alone, they're gonna pick us off, one by one...
+
+GNG0_RSC1_24 = ~z~and you know it.
+
+GNG0_RSC1_25 = ~z~Maybe.
+
+GNG0_RSC1_26 = ~z~Not. Maybe.
+
+GNG0_RSC1_27 = ~z~We need to split up...
+
+GNG0_RSC1_28 = ~z~keep a low profile...
+
+GNG0_RSC1_29 = ~z~try to track down the rest.
+
+GNG0_RSC1_30 = ~z~But... carefully.
+
+GNG0_RSC1_31 = ~z~See if they sent any mail...
+
+GNG0_RSC1_32 = ~z~Arthur, you check Shady Belle.
+
+GNG0_RSC1_33 = ~z~We'll find each other eventually, we always do.
+
+GNG0_RSC1_34 = ~z~And then what?
+
+GNG0_RSC1_35 = ~z~Then we meet up, we gather the family...
+
+GNG0_RSC1_36 = ~z~we get some money and get the hell outta there.
+
+GNG0_RSC1_37 = ~z~That's the plan.
+
+GNG0_RSC1_38 = ~z~We all acting crazy, and that...
+
+GNG0_RSC1_39 = ~z~that's not what I thought we were gonna be doing here.
+
+GNG0_RSC1_40 = ~z~We have been in a bad way.
+
+GNG0_RSC1_41 = ~z~Listen...
+
+GNG0_RSC1_42 = ~z~I will kill for my family.
+
+GNG0_RSC1_43 = ~z~Any of you wanna judge me for that, that's fine...
+
+GNG0_RSC1_44 = ~z~but that is who I am.
+
+GNG0_RSC1_45 = ~z~Anyone disagree?
+
+GNG0_RSC1_46 = ~z~Anyone?
+
+GNG0_S2_IG3_1 = ~z~Well, thank you... darling niece Caroline.
+
+GNG0_S2_IG3_2 = ~z~I guess I'm coming to see you in Lakay.
+
+GNG0_S2_INT_1 = ~z~Look...
+
+GNG0_S2_INT_2 = ~z~those are fresh foot prints.
+
+GNG0_S2_INT_3 = ~z~Looks like someone might be here right now.
+
+GNG0_S2_INT_4 = ~z~Sure, someone is here...
+
+GNG0_S2_INT_5 = ~z~back every day to search this place.
+
+GNG0_S2_INT_6 = ~z~There quite clearly isn't a gang of outlaws holed up here.
+
+GNG0_S2_INT_7 = ~z~Someone is here.
+
+GNG0_S2_INT_8 = ~z~Look...
+
+GNG0_S2_INT_9 = ~z~those are fresh foot prints.
+
+GNG0_S2_INT_10 = ~z~Looks like someone might be here right now.
+
+GNG0_S2_INT_11 = ~z~Sure, someone is here...
+
+GNG0_S2_INT_12 = ~z~there's always someone everywhere.
+
+GNG0_S2_INT_13 = ~z~Well, let's look around then...
+
+GNG0_S2_INT_14 = ~z~see if we can find something for Mr. Milton.
+
+GNG0_S2_INT_15 = ~z~Mr. Milton...
+
+GNG0_S2_INT_16 = ~z~I'd like to find a poisonous snake for him.
+
+GNG0_S2_INT_17 = ~z~That's enough, Mr. Johns.
+
+GNG0_S2_INT_18 = ~z~You take Mr. Bunter and search around back.
+
+GNG0_S2_INT_19 = ~z~Mr. Orly, let's head inside.
+
+GNG0_S2_INT_20 = ~z~Gentlemen, be careful.
+
+GNG0_S2_INT_21 = ~z~Mr. Orly, let's head inside.
+
+GNG0_S2_INT_22 = ~z~Gentlemen, be careful.
+
+GNG0_S2_INT_LI_1 = ~z~Milton keeps sending us back every day to search this place.
+
+GNG0_S2_INT_LI_2 = ~z~There quite clearly isn't a gang of outlaws holed up here.
+
+GNG0_S2_INT_LI_3 = ~z~Someone is here.
+
+GNG0_SADIE_LTTR_1 = ~z~"Dear Uncle Tacitus...
+
+GNG0_SADIE_LTTR_2 = ~z~I do so hope you enjoyed your vacation.
+
+GNG0_SADIE_LTTR_3 = ~z~~sl:0.0:2.9~Lucky you, leaving like that...~sl:0.4~and you always suggested you were too old for travel.
+
+GNG0_SADIE_LTTR_4 = ~z~I hope you and your cousins enjoyed yourselves.
+
+GNG0_SADIE_LTTR_5 = ~z~Me and your grandnieces have decided to take a trip of our own...
+
+GNG0_SADIE_LTTR_6 = ~z~as the place has become so dreary and godforsaken in your absence.
+
+GNG0_SADIE_LTTR_7 = ~z~We've gone to visit relatives... from my Daddy's side,
+
+GNG0_SADIE_LTTR_8 = ~z~you are not yet aquainted with them, in Lakay.
+
+GNG0_SADIE_LTTR_9 = ~z~A small village just north of Saint Denis.
+
+GNG0_SADIE_LTTR_10 = ~z~~sl:0.0:2.0~It's buggy and muggy...~sl:0.2~but apparently neither is too bad at this time of year.
+
+GNG0_SADIE_LTTR_11 = ~z~Please, come see us when you can.
+
+GNG0_SADIE_LTTR_12 = ~z~Yours sincerely, Caroline."
+
+GNG0_SEARCH1_1 = ~z~Hello? Anyone here?
+
+GNG0_SEARCH2_1 = ~z~Susan? Strauss? You here?
+
+GNG0_SEARCH3_1 = ~z~Hello?
+
+GNG0_SEARCH4_1 = ~z~Sadie? Pearson?
+

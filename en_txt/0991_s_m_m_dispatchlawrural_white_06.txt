@@ -1,0 +1,154 @@
+0x005709E0 = ~z~One more warning now... move it, or suffer the consequences.
+
+0x032171D7 = ~z~That's it, you're coming with me, you yellow varmint.
+
+0x0C05575E = ~z~I won't ask you again... move!
+
+0x0E8E8A45 = ~z~You sure that's all you got to say to me?
+
+0x0EFAAD7D = ~z~Not much to go on, but you sure do have a troublesome look about you.
+
+0x0FC0FA34 = ~z~You, uh, you got any idea what happened here?
+
+0x1ABB733B = ~z~Hey there, you're in our way.
+
+0x1C4BCD56 = ~z~He wants the prisoner... shoot him!
+
+0x1C5D70D4 = ~z~Get outta my way.
+
+0x2B9F1306 = ~z~You get those damn hands up if you wanna live.
+
+0x2BF0767F = ~z~Just wait, I need to have words with you.
+
+0x2C8F3A8F = ~z~Drop it, and we'll be real nice.
+
+0x3A9613CA = ~z~Hold on a spell, we need to talk.
+
+0x4B89C1CD = ~z~I asked you nice!
+
+0x4F5B21B0 = ~z~You got a particular reason to keep loitering around here?
+
+0x5AFC8FFE = ~z~You need to dismount and get down here, now.
+
+0x5B1A976D = ~z~Keep talking, and I'll tell the marshal you had an accident and tripped into a bullet.
+
+0x5C8A403B = ~z~Hey, 'callate'! I know Spanish, too.
+
+0x6B593926 = ~z~Will you quit with that damn Mexican garbage?
+
+0x6BB13717 = ~z~Whoever put you two together was planning long and hard to ruin my day.
+
+0x7B1FE12A = ~z~Disarm and surrender!
+
+0x7B35040B = ~z~Hold on, let me see your face.
+
+0x9B1BFC9D = ~z~Just keep still now, you hear?
+
+0x9C77E752 = ~z~Warned you! Open fire!
+
+0x9E7617A0 = ~z~You got any information about what transpired here?
+
+0x18C12A23 = ~z~You're all a bunch of crazies!
+
+0x18E18F9E = ~z~Listen here. Make another move and it'll be your last.
+
+0x29B17F8B = ~z~Alright then, kill him!
+
+0x29FF496E = ~z~Don't you make one more damn move.
+
+0x50EA2FB2 = ~z~Clunk your damn heads together, why don't you?
+
+0x55ED9A4B = ~z~Don't test me now. Meaner men than you have tried and failed.
+
+0x67BA3DE4 = ~z~Do as I say or you're looking at a heap of trouble.
+
+0x68B34E65 = ~z~Alright now, no need for trouble. Just come with me.
+
+0x83F27513 = ~z~Listen here now, you got a duty to tell me if you know something.
+
+0x84C6B2FA = ~z~Don't do this.
+
+0x193EDDBB = ~z~Listen, you don't want be looking for trouble with me.
+
+0x214AD976 = ~z~Shut your mouth.
+
+0x269D2B15 = ~z~Move again. Give me a reason to put you down like a dog.
+
+0x297B7E34 = ~z~The hell is your problem?
+
+0x315B8145 = ~z~On your way then.
+
+0x389C7274 = ~z~Shut your goddamn mouth!
+
+0x550CB90F = ~z~My people are scared witless these days, what with how many been butchered. You look like you might know something about that?
+
+0x565C6880 = ~z~If you don't get those hands in air I'll kill you.
+
+0x770DEB1A = ~z~Listen here, you come along with me and keep it quiet.
+
+0x941FFB25 = ~z~Get your hands up.
+
+0x2713F2BB = ~z~Hands up, you son of a bitch. Now.
+
+0x3290E10D = ~z~Drop the weapon and surrender. Do it!
+
+0x4748AD1F = ~z~Go on and make yourself scarce.
+
+0x8262D7AB = ~z~Hands to the sky now.
+
+0x9118BC53 = ~z~Fair warning: move it, or suffer at the hands of the law.
+
+0x719281DA = ~z~Hey, shut up back there!
+
+0x1444623B = ~z~Do we have a problem here?
+
+0x4299636B = ~z~Shit!
+
+0x26711349 = ~z~Don't even think of making a move.
+
+0x59344092 = ~z~Hey, you there, would you get the hell outta the way?
+
+0xA7E0E263 = ~z~What the devil?
+
+0xA46C740C = ~z~Listen, you don't want to be looking for trouble with me.
+
+0xA98EE0BE = ~z~Whoa now, I ain't done with you yet. Let me get a look at you.
+
+0xA88499E8 = ~z~He's going for the pair of marys in the back!
+
+0xAA915694 = ~z~Shoot him before he gets to her!
+
+0xB16F0E5D = ~z~Now's our chance. Get to plugging. End of the line.
+
+0xB4743BE0 = ~z~Sir, you can't block the way here.
+
+0xBE6527FD = ~z~The hell is your problem?
+
+0xBF02BB15 = ~z~Shut up, or I'll break your jaw.
+
+0xBFFDB9AF = ~z~The hell do you think you're doing?
+
+0xCA9D7E04 = ~z~Raiders on the horizon.
+
+0xD9B51202 = ~z~Well, damn.
+
+0xD84F1C33 = ~z~I'm giving you a chance to come with me before there's hell to pay.
+
+0xDAB82ADD = ~z~I told you not to darn it, don't try me.
+
+0xDB1F5AE8 = ~z~What's all this ruckus now?
+
+0xDFAD4B53 = ~z~This is your last good chance to get out of this alive, now come along with us, quietly.
+
+0xDFB5EAEA = ~z~That's our quarry there. Curl 'em up boys.
+
+0xF8B480F1 = ~z~I ain't got no leads, but I sure as hell don't like the looks of you.
+
+0xF16AEECE = ~z~Listen. Just end this here, and give it up.
+
+0xF37E6ED5 = ~z~What's your business here?
+
+0xF655113E = ~z~You hear me? Get your goddamn hands where I can see 'em.
+
+0xFBBC48DB = ~z~Stuff that mouth up or I'll do it for you, bitch.
+

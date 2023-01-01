@@ -1,0 +1,86 @@
+STRRG_FRESICK_1 = ~z~Oh it's you... didn't recognize you for a minute there.
+
+STRRG_FRESICK_2 = ~z~You lost a bit of weight or something?
+
+STRRG_FRESICK_3 = ~z~I don't know... maybe you just gained some?
+
+STRRG_FRESICK_4 = ~z~Maybe. Anyway, welcome back.
+
+STRRG_LIVSICK_1_2 = ~z~I'm fine, don't you worry about me.
+
+STRRG_LIVSICK_2_1 = ~z~Hey there, mister. You okay?
+
+STRRG_LIVSICK_2_2 = ~z~You don't look so good.
+
+STRRG_LIVSICK_2_3 = ~z~You worry about your horses, not me.
+
+STRRG_LIVSICK_2_4 = ~z~Alright, none of my business.
+
+STRRG_LIVSICK_3_1 = ~z~You, er, come down with something there, partner?
+
+STRRG_LIVSICK_3_2 = ~z~Some bad flu going around.
+
+STRRG_LIVSICK_3_3 = ~z~It's just a cough.
+
+STRRG_LIVSICK_3_4 = ~z~Well, unfortunately you ain't a horse so I can't help you with that. But what can I help you with?
+
+STRRG_NEARSHRF_01 = ~z~Can I help you?
+
+STRRG_NEARSHRF_02 = ~z~You alright there, friend?
+
+STRRG_NEARSHRF_03 = ~z~You need something, mister?
+
+STRRG_NEARSHRF_04 = ~z~You looking for anyone, partner?
+
+STRRG_NEARSHRF_05 = ~z~How you doing there, partner?
+
+STRRG_NEARSHRF_06 = ~z~Something you need, friend?
+
+STRRG_NEARSHRF_07 = ~z~Everything alright, sir?
+
+STRRG_RANWROB1_1 = ~z~You. You come with lady, save me from Mexican. Many thank you.
+
+STRRG_RANWROB2_1 = ~z~The Mexican. You save me, dead now. I read it. Thank lady for me.
+
+STRRG_RANWROB3_1 = ~z~Hey. I no get tie up again. No you worry. Yes.
+
+STRRG_SHOSICK_1 = ~z~Hellfire, you look like death.
+
+STRRG_SHOSICK_2 = ~z~What kind of welcome's that?
+
+STRRG_SHOSICK_3 = ~z~I'd refer you to the doctor, but he ain't been seen in weeks!
+
+STRRG_SHOSICK_4 = ~z~I'm fine.
+
+STRRG_TSW1SICK_1 = ~z~If you wouldn't mind coughing into your sleeve, sir.
+
+STRRG_TSW1SICK_2 = ~z~I really can't afford to get sick again this month.
+
+STRRG_TSW1SICK_3 = ~z~Why don't you just do your job?
+
+STRRG_TSW1SICK_4 = ~z~Of course, sir. Sorry. Just a polite request, that's all.
+
+STRRG_TSW2SICK_1 = ~z~Oh dear, have you come down with the flu as well, sir?
+
+STRRG_TSW2SICK_2 = ~z~Flu? No, what are you talking about?
+
+STRRG_TSW2SICK_3 = ~z~Nothing, it's just been going around, that's all. Anyway, how can I help you?
+
+STRRG_TSW3SICK_1 = ~z~You alright there, sir?
+
+STRRG_TSW3SICK_2 = ~z~Yes, why?
+
+STRRG_TSW3SICK_3 = ~z~Been some grippe going around here... and I just thought...
+
+STRRG_TSW3SICK_4 = ~z~you know what, never mind. What can I do for you?
+
+STRRG_WELSICK_1 = ~z~Oh, hello again, sir.
+
+STRRG_WELSICK_2 = ~z~You, er, look like a man in need of some of this fine Strawberry air.
+
+STRRG_WELSICK_3 = ~z~So you're the expert now?
+
+STRRG_WELSICK_4 = ~z~Oh, er, hardly. Just making conversation.
+
+STRRG_WELSICK_5 = ~z~Forget I said anything.
+

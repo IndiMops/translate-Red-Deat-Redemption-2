@@ -1,0 +1,146 @@
+CRB1SB_1 = ~z~Alright, suit yourself.
+
+CRB1S_1 = ~z~Alright, you know where I am if you change your mind.
+
+CRF1SJ_1 = ~z~Hey there, you Hector?
+
+CRF1SJ_2 = ~z~That's me.
+
+CRF1SJ_3 = ~z~I've been told you're a... discouraged man?
+
+CRF1SJ_4 = ~z~Ah, you must be a friend of that Josiah Trelawny.
+
+CRF1SJ_5 = ~z~Alright, in that case... I've got something here you might want to take a look at...
+
+CRF1SJ_6 = ~z~
+
+CRF1S_1 = ~z~Hey there, you Hector?
+
+CRF1S_2 = ~z~That's me.
+
+CRF1S_3 = ~z~Alden tells me you're a... discouraged man?
+
+CRF1S_4 = ~z~Ah, you must be a friend of that Josiah Trelawny.
+
+CRF1S_5 = ~z~Alright, in that case... I've got something here you might want to take a look at...
+
+CRG1S_1 = ~z~Hey there, come on over. I got something here that might be of interest.
+
+CRG2S_1 = ~z~Ah, hello, I don't think I gave a receipt last time, did I?
+
+CRG2S_2 = ~z~Let me do that right now.
+
+CRG3SJ_1 = ~z~Hey there, Hector, my name's John...
+
+CRG3SJ_2 = ~z~I knew Arthur, Alden's friend... I'm another, um... discouraged man?
+
+CRG3SJ_3 = ~z~Ah yes!
+
+CRG3SJ_4 = ~z~Say no more, I've got something here you might be interested in.
+
+CRL0S_1 = ~z~From what I hear you didn't move fast enough last time.
+
+CRL0S_2 = ~z~I've got another one here if you're interested?
+
+CRL1S_1 = ~z~I've got something here for you,
+
+CRL1S_2 = ~z~but you're going to have to move a bit faster on this than you did on the last one.
+
+CRL2S_1 = ~z~I hear you missed your chance on the last one.
+
+CRL2S_2 = ~z~Well, I got another here if you want to try your luck again?
+
+CRSRLJ_1 = ~z~Hey, uh, might be a little specific, but some fool's got me out looking for a wagon of moonshine...
+
+CRSRLJ_2 = ~z~to power some contraption he's making... don't got any ideas do you?
+
+CRSRLJ_3 = ~z~Well, you might just be in luck.
+
+CRSRL_1 = ~z~Hey, uh, might be a little specific, but some fool's got me out looking for a wagon of moonshine...
+
+CRSRL_2 = ~z~to power some contraption he's making... don't got any ideas do you?
+
+CRSRL_3 = ~z~Well, you might just be in luck.
+
+CRSTLJ_01 = ~z~So... er... do you want this?
+
+CRSTLJ_02 = ~z~Do you want this now then? Or... no?
+
+CRSTLJ_03 = ~z~Well, I haven't got all day?
+
+CRSTLJ_04 = ~z~I assume this you didn't just pop in to say hello?
+
+CRSTLJ_05 = ~z~So... erm... you want to take a look or not?
+
+CRSTLJ_06 = ~z~Right here for you, when you're ready.
+
+CRSTLJ_07 = ~z~Best I give it to you now, while there's no line.
+
+CRSTLJ_08 = ~z~I really think you'll want to take a look at this.
+
+CRSTL_01 = ~z~So... er... do you want this?
+
+CRSTL_02 = ~z~Do you want this now then? Or... no?
+
+CRSTL_03 = ~z~Well, I haven't got all day?
+
+CRSTL_04 = ~z~I assume this you didn't just pop in to say hello?
+
+CRSTL_05 = ~z~So... erm... you want to take a look or not?
+
+CRSTL_06 = ~z~Right here for you, when you're ready.
+
+CRSTL_07 = ~z~Best I give it to you now, while there's no line.
+
+CRSTL_08 = ~z~I really think you'll want to take a look at this.
+
+CRT1S_1 = ~z~Hey there friend, come back in a little while, I have something you might want to take a look at.
+
+CRT2S_1 = ~z~Bad news, I'm afraid. I'm out of the information business.
+
+CRT2S_2 = ~z~The law's just getting too suspicious. Was good while it lasted, but there we go.
+
+CRXS1BJ_1 = ~z~There's a stage heading up from Blackwater.
+
+CRXS1BJ_2 = ~z~Now I hear it'll be heavily guarded so you might want to try a more covert approach,
+
+CRXS1BJ_3 = ~z~or lay down some explosives...I don't know, you're the expert.
+
+CRXS1BJ_4 = ~z~Alright Hector. Appreciate it. You enjoy the rest of your day.
+
+CRXS1J_1 = ~z~Here...
+
+CRXS1_1 = ~z~Here...
+
+CRXS2J_1 = ~z~What you got for me this time Hector?
+
+CRXS2J_2 = ~z~Coach heading to Appleseed Timber. Supposed to be a lot of guns.
+
+CRXS2J_3 = ~z~Might want to catch them off guard.
+
+CRXS2J_4 = ~z~Okay, thanks.
+
+CRXS2_1 = ~z~What you got for me this time Hector?
+
+CRXS2_2 = ~z~Coach heading to Appleseed Timber. Supposed to be a lot of guns.
+
+CRXS2_3 = ~z~Might want to catch them off guard.
+
+CRXS2_4 = ~z~Okay...
+
+CRXS3J_1 = ~z~So what we looking at?
+
+CRXS3J_2 = ~z~This is a big one, armored banking coach headed into Strawberry.
+
+CRXS3J_3 = ~z~You'll probably need something to blow the doors.
+
+CRXS3J_4 = ~z~Alright. Good seeing you, Hector.
+
+CRXS3_1 = ~z~So what we looking at?
+
+CRXS3_2 = ~z~This is a big one, armored banking coach headed into Strawberry.
+
+CRXS3_3 = ~z~You'll probably need something to blow the doors.
+
+CRXS3_4 = ~z~Alright. Good seeing you, Hector.
+

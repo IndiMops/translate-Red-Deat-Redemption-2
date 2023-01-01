@@ -1,0 +1,16 @@
+CDHS1_ACT_1 = ~z~Oh, Arthur, my boy... my dear boy.
+
+CDHS1_ACT_2 = ~z~What's going on?
+
+CDHS1_ACT_3 = ~z~Nothing... nothing at all.
+
+CDHS1_ACT_4 = ~z~For the first time in weeks, nothing... we're free.
+
+CDHS1_ACT_5 = ~z~We're free to plan our own future once more.
+
+CDHS1_ACT_6 = ~z~I hope so, Dutch.
+
+CDHS1_ACT_7 = ~z~~sl:0.0:3.9:1~You kept the faith, Arthur... you always kept it.
+
+CDHS1_ACT_8 = ~z~And I ain't losing it now.
+

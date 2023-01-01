@@ -1,0 +1,28 @@
+CCAB16_P1A1_1 = ~z~~sl:0.0:3.1:1~Wh-what of it, cowpoke? She ain't yours...
+
+CCAB16_P1_1 = ~z~
+
+CCAB16_P1_2 = ~z~Mind if I sit?
+
+CCAB16_P1_3 = ~z~~sl:0.0:0.7:1~Guess not.
+
+CCAB16_P1_4 = ~z~
+
+CCAB16_P1_5 = ~z~~sl:0.0:3.5~So... Abigail...~sl:1.0:1.1~how about...~sl:~you and I go into town sometime?
+
+CCAB16_P1_6 = ~z~I'm afraid mothering don't leave me much spare time, Mr. Bell.
+
+CCAB16_P1_7 = ~z~~sl:0.0:2.2~Okay, okay.~sl:0.7:4.7~Well, if you change your mind, I'd show you a real good time.~sl:0.6~Real good.
+
+CCAB16_P1_8 = ~z~~sl:0.0:0.8~And, uh...~sl:1.3~I've always fancied fathering...
+
+CCAB16_P1_9 = ~z~The boy has a father, Mr. Bell.
+
+CCAB16_P1_10 = ~z~~sl:0.0:1.3:1~If you say so...
+
+CCAB16_P1_11 = ~z~If you say so!
+
+CCAB16_P1_12 = ~z~~sl:1.9:0.0~Come along, Jack. Lost my appetite.
+
+CCAB16_P1_13 = ~z~
+

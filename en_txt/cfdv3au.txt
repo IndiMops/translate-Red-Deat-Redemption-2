@@ -1,0 +1,28 @@
+CFDV3_ACT_1 = ~z~Let me see some more smiling, boys, c'mon.
+
+CFDV3_ACT_2 = ~z~Life is actually pretty good.
+
+CFDV3_ACT_3 = ~z~~sl:0.0:2.5~A hundred years ago we'd have been...~sl:0.4~indentured men.
+
+CFDV3_ACT_4 = ~z~My people were peasants starving in a field someplace...
+
+CFDV3_ACT_5 = ~z~my momma's were in Lincolnshire... my
+
+CFDV3_ACT_6 = ~z~daddy's were outside of Rotterdam...
+
+CFDV3_ACT_7 = ~z~at least that's what they told me.
+
+CFDV3_ACT_8 = ~z~~sl:0.0:2.7~The modern world is ugly...~sl:0.4:1.5~but the old world...~sl:0.9~was worse.
+
+CFDV3_ACT_9 = ~z~~sl:0.0:1.4~Our job...~sl:0.6:1.8~our job...~sl:1.3~is to make a better world for ourselves.
+
+CFDV3_ACT_10 = ~z~~sl:0.0:3.8~Not go backward but go forward.~sl:1.3:3.8~With hope and dreams...~sl:0.9~seriously.
+
+CFDV3_ACT_11 = ~z~And that hope...
+
+CFDV3_ACT_12 = ~z~that hope, begins now.
+
+CFDV3_ACT_13 = ~z~~sl:0.0:1.6~By being hopeful...~sl:1.6~and happy.
+
+CFDV3_ACT_14 = ~z~So cheer up, all of you cheer up.
+

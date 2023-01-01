@@ -1,0 +1,36 @@
+CCM25_ACT1_1 = ~z~
+
+CCM25_ACT1_2 = ~z~Micah.
+
+CCM25_ACT1_3 = ~z~William.
+
+CCM25_ACT1_4 = ~z~It ain't William... Bill comes from Williamson.
+
+CCM25_ACT1_5 = ~z~That so?
+
+CCM25_ACT1_6 = ~z~Sure.
+
+CCM25_ACT1_7 = ~z~So your first name comes from your surname... ain't that odd.
+
+CCM25_ACT1_8 = ~z~Guess I never put too much thought in it before.
+
+CCM25_ACT1_9 = ~z~What's your real first name then?
+
+CCM25_ACT1_10 = ~z~Marion.
+
+CCM25_ACT1_11 = ~z~Marion?
+
+CCM25_ACT1_12 = ~z~My oh my... what a nasty momma and daddy you must have had.
+
+CCM25_ACT1_13 = ~z~Oh, they must have hated you before they even met you... explains a lot.
+
+CCM25_ACT1_14 = ~z~It's a family name, actually.
+
+CCM25_ACT1_15 = ~z~That don't surprise me...
+
+CCM25_ACT1_16 = ~z~But I can see why you stick with Bill, Marion.
+
+CCM25_ACT1_17 = ~z~I know.
+
+CCM25_ACT1_18 = ~z~Don't worry, your secret is safe with me... Marion.
+

@@ -1,0 +1,136 @@
+0x00D5EC25 = ~z~You better drop that thing before I'm done blinking.
+
+0x1CDD256A = ~z~You raising your hand to a lawman? You lost your mind?
+
+0x1F9A903D = ~z~Well, on your way then.
+
+0x2C7065B0 = ~z~Hey, folk in my town don't have to take that kinda shit.
+
+0x2EB1BB87 = ~z~Wait, I want another look at you.
+
+0x3C6FD703 = ~z~Hey, I ain't done with you just yet.
+
+0x5A1D9A4A = ~z~You don't stay still, I'll ask your corpse to do it for ya.
+
+0x5AA4ACC1 = ~z~No one else here looks half as rotten as you, and that's good enough for me.
+
+0x5ABEA534 = ~z~Now why would you be just here?
+
+0x5AE48139 = ~z~Trust me I ain't joking, last warning.
+
+0x5E29DF75 = ~z~You deaf? Stay right there.
+
+0x7B60921A = ~z~Let me tell you, I'm in no mood for your shit.
+
+0x7BD7B4A4 = ~z~You trying to provoke me?
+
+0x8D5E535B = ~z~No one needs to get hurt here, just come with me.
+
+0x8DAF36B7 = ~z~Last person treated me this way only just lived to regret it.
+
+0x26BDFAD1 = ~z~Can you tell me what happened here?
+
+0x26F91E41 = ~z~Don't push me?I say raise your hands, you raise 'em.
+
+0x31A68BB3 = ~z~I wanna seem them hands.
+
+0x31BC3480 = ~z~Alright then, you can go.
+
+0x37B34EE9 = ~z~Don't move a damn muscle.
+
+0x44F8E974 = ~z~Don't you so much as twitch.
+
+0x73F7C643 = ~z~Hey, that's enough outta you.
+
+0x84D5E9C0 = ~z~This only ends well if you give yourself up.
+
+0x87CC9003 = ~z~Someone been cutting a swathe through this land recently. You wouldn't have blood on those hands of yours, would ya?
+
+0x99A91421 = ~z~Care to explain why you're still here?
+
+0x212D531E = ~z~You're duty bound to help the law. Don't know nothing?
+
+0x354FBAEE = ~z~Damn it, get your hands in the air, right now.
+
+0x461CB49F = ~z~Get your damn hands up.
+
+0x608A2AE7 = ~z~Hey, easy there.
+
+0x622E39D0 = ~z~Wait, I need to speak with you.
+
+0x758B4B2B = ~z~Get smart, friend. Surrender and we'll get worked out.
+
+0x832C9718 = ~z~Fast as you can.
+
+0x2304DB96 = ~z~They're here. Give no quarter.
+
+0x2637FAF5 = ~z~Alright.
+
+0x6999F659 = ~z~I told you to stay put, now get smart.
+
+0x7167F38F = ~z~That's it, I don't even wanna see your dust.
+
+0x37012AF8 = ~z~You got a problem with the law?
+
+0x39108D79 = ~z~What are you trying pull, crowding me like this?
+
+0x961643F7 = ~z~Come on. I reckon you got someplace to be, huh?
+
+0x4871085A = ~z~Well, I ain't leaving here empty handed, and you sure look like a crook to me.
+
+0x7790005E = ~z~Have another think. Nothing coming to mind?
+
+0x33971483 = ~z~You help me piece together what happened here?
+
+0xA6A1C2B6 = ~z~Hold up, I need word with you.
+
+0xA8598939 = ~z~Alright, let's keep this clean.
+
+0xABD5CEA3 = ~z~I ain't asking, I'm telling. You're coming with me.
+
+0xB0EC1996 = ~z~I'll put you in your place for free, if that's what you want.
+
+0xB8E2D018 = ~z~You. Rein yourself in, or I'll do it for you.
+
+0xB9FF8BC9 = ~z~I reckon you could use a change of scenery, now beat it.
+
+0xB27279C5 = ~z~Hey, who's behind this nonsense?
+
+0xBB406D78 = ~z~This only ends one way. Come with me, right now.
+
+0xBD4E9647 = ~z~What're you following me for? Something to tell me?
+
+0xC0AEFB9E = ~z~Not sure I like you keeping eyes on me.
+
+0xC811A800 = ~z~No, please.
+
+0xCFA93560 = ~z~You don't raise your hands, I will gun you down.
+
+0xD1D2B933 = ~z~I see 'em. Lay 'em out.
+
+0xD97D7E69 = ~z~I ain't giving you another chance.
+
+0xDA7D1B03 = ~z~You keep moving, this is gonna end real sudden.
+
+0xDD6BD0E5 = ~z~This is it. Hands up or die right here.
+
+0xE079AAC0 = ~z~C'mon, watch out.
+
+0xE7B0E65C = ~z~Hey, clear a path will ya?
+
+0xE86BC647 = ~z~You wanna die, you're on the right track.
+
+0xEBADE8F7 = ~z~You rile me up, you'll regret it all your days.
+
+0xEF1748A8 = ~z~Hey, hey, you just got real stupid.
+
+0xF5D99CE8 = ~z~You. Get down.
+
+0xF6D6631C = ~z~If I pull this trigger, I ain't gonna miss.
+
+0xF671CDD1 = ~z~What are you still lurking around here?
+
+0xFA1B8107 = ~z~Hey, you picked the wrong town to let off steam.
+
+0xFF4C1087 = ~z~How about you keep your mouth shut?
+

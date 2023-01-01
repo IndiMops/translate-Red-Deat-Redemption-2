@@ -1,0 +1,94 @@
+LSHRC_CHASE_01 = ~z~You don't want to get me angry, boy!
+
+LSHRC_CHASE_02 = ~z~The more I chase, the more you owe!
+
+LSHRC_CHASE_03 = ~z~You make me go much further, I'll get more than a debt off you!
+
+LSHRC_CHASE_04 = ~z~Last chance to save your hide, stop!
+
+LSHRC_CHASE_ELY_01 = ~z~You're too slow, old man.
+
+LSHRC_CHASE_ELY_02 = ~z~German shouldn't a lent to me then.
+
+LSHRC_CHASE_ELY_03 = ~z~The money's mine and I'm keeping it.
+
+LSHRC_CHASE_LTE_01 = ~z~Don't you give up?
+
+LSHRC_CHASE_LTE_02 = ~z~Leave it alright!
+
+LSHRC_CHASE_LTE_03 = ~z~How're you still there?
+
+LSHRC_COWER_01 = ~z~I knew I shouldn't have borrowed.
+
+LSHRC_COWER_02 = ~z~I'm honest... really... for the most part.
+
+LSHRC_COWER_03 = ~z~This is real uncharacteristic, I promise.
+
+LSHRC_COWER_04 = ~z~You'll find it there. Everything. I promise.
+
+LSHRC_DEAD_1 = ~z~This map better take me somewhere good, or...
+
+LSHRC_DEAD_2 = ~z~I suppose there ain't much I can do.
+
+LSHRC_DECY_FLEE_1 = ~z~It's not me you want. He the one who spends more than he got!
+
+LSHRC_HAND_FLEE_1 = ~z~I don't know anything about a debt!
+
+LSHRC_HAND_FLEE_2 = ~z~I didn't mention the debt! Chick Matthews.
+
+LSHRC_HAND_FLEE_3 = ~z~Come back here!
+
+LSHRC_HOGTIED_01 = ~z~Aren't you gonna untie me?
+
+LSHRC_HOGTIED_02 = ~z~You got the map, do the decent thing!
+
+LSHRC_IG1_1 = ~z~You Chick? I was told I could find a Chick Matthews up here?
+
+LSHRC_IG1_2 = ~z~Chick Matthews? Might wanna talk to that feller over there. I'm just here to work the season...
+
+LSHRC_IG2_ENT_1 = ~z~You Chick Matthews?
+
+LSHRC_IG2_ENT_2 = ~z~No, no, not me, sir. That's the greenhorn over there.
+
+LSHRC_IG2_ENT_3 = ~z~And there he goes.
+
+LSHRC_IG3_HAND_1 = ~z~God dang it. This map will take you to the money.
+
+LSHRC_IG3_TEETH_1 = ~z~You're lucky I ain't taking your teeth, as well.
+
+LSHRC_KILL_HAND_1 = ~z~Dammit. I shouldn'ta done that.
+
+LSHRC_KILL_HAND_2 = ~z~Well, let's hope you got something on you.
+
+LSHRC_PROX_DECY_1 = ~z~What do you want?
+
+LSHRC_PROX_DECY_2 = ~z~Guessing you ain't here to work.
+
+LSHRC_PROX_HAND_01 = ~z~Can I do something for you?
+
+LSHRC_PROX_HAND_02 = ~z~Why, I haven't seen you around here before.
+
+LSHRC_PROX_HAND_03 = ~z~To what do we owe the pleasure?
+
+LSHRC_REP_MAP_1 = ~z~Just take the map okay? It's right there in my pocket.
+
+LSHRC_RHESCAPE_1 = ~z~So long, loanshark! Hee-ya!
+
+LSHRC_RHESCAPE_2 = ~z~Dammit!
+
+LSHRC_STOP_HAND_1 = ~z~Hey! Get back here, you owe us money!
+
+LSHRC_TAKE_MAP_1 = ~z~A goddamn treasure hunt?
+
+LSHRC_TAKE_MAP_2 = ~z~You're lucky I ain't taking your teeth, as well.
+
+LSHRC_TIEDUP_1 = ~z~Look, look, I got the money... but it's hidden. Untie me I'll tell you where it is.
+
+LSHRC_TIEDUP_2 = ~z~You're in no place to bargain, boy!
+
+LSHRC_TIEDUP_3 = ~z~Just untie me, I'll tell you!
+
+LSHRC_TIEDUP_4 = ~z~Okay! Okay! There's a map... in my pocket.
+
+LSHRC_TIEDUP_5 = ~z~A map? Why can't none of you fools just pay?
+

@@ -1,0 +1,44 @@
+SFIRE_BOO_A_01 = ~z~That ain't real fire!
+
+SFIRE_BOO_A_02 = ~z~Set your backside on fire!
+
+SFIRE_BOO_A_03 = ~z~No matter how nice you ask, we ain't kissing!
+
+SFIRE_BOO_A_04 = ~z~Catch on fire!
+
+SFIRE_BOO_A_05 = ~z~Burn to a crisp!
+
+SFIRE_BOO_A_06 = ~z~Enough of this crazy fire lady!
+
+SFIRE_BOO_J_01 = ~z~Get this fire lady off the stage!
+
+SFIRE_BOO_J_02 = ~z~This fire lady is pullin our leg!
+
+SFIRE_BOO_J_03 = ~z~She's using mirrors, that ain't real fire!
+
+SFIRE_BOO_J_04 = ~z~Do something different.
+
+SFIRE_BOO_J_05 = ~z~That's fake fire!
+
+SFIRE_CHEER_A_01 = ~z~Come on, fire lady!
+
+SFIRE_CHEER_A_02 = ~z~Don't burn yourself!
+
+SFIRE_CHEER_A_03 = ~z~I like hot things too!
+
+SFIRE_CHEER_A_04 = ~z~She sure is hot!
+
+SFIRE_CHEER_A_05 = ~z~Yeah fire lady!
+
+SFIRE_CHEER_A_06 = ~z~You've gotta love yourself a fire!
+
+SFIRE_CHEER_J_01 = ~z~Go, fire lady!
+
+SFIRE_CHEER_J_02 = ~z~She's like a dragon!
+
+SFIRE_CHEER_J_03 = ~z~Don't burn yourself!
+
+SFIRE_CHEER_J_04 = ~z~She's good with that fire!
+
+SFIRE_CHEER_J_05 = ~z~Bet she's good with campfires!
+

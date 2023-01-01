@@ -1,0 +1,12 @@
+BRAN_CNTXT_N = Decline
+
+BRAN_CNTXT_Y = Accept
+
+BRAN_F_DEAD = Mark Johnson has died.
+
+BRAN_F_ESCP = Mark Johnson escaped.
+
+BRAN_F_KID = The kid was frightened.
+
+BRAN_F_LEFT_A = Mark Johnson was left behind.
+

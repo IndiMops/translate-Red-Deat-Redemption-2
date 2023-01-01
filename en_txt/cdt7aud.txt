@@ -1,0 +1,12 @@
+CCDTC_CNV7_A_1 = ~z~~sl:0.0:1.0~You know...~sl:4.5~you know something, Arthur?
+
+CCDTC_CNV7_A_2 = ~z~What?
+
+CCDTC_CNV7_A_3 = ~z~~sl:0.0:2.0~You was always special to me.~sl:0.9:1.5~All these years...~sl:1.2~all these things we done.
+
+CCDTC_CNV7_B_1 = ~z~~sl:0.5:1.3~Good things.~sl:0.9:1.3~Bad things.~sl:1.6:2.8~All these people we seen passed on.~sl:1.6~You was always special.
+
+CCDTC_CNV7_C_1 = ~z~~sl:1.9:0.0~Are we living or dying this time, Dutch?
+
+CCDTC_CNV7_C_2 = ~z~I guess we'll find out soon enough.
+

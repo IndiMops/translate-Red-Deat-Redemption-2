@@ -1,0 +1,24 @@
+RBT22_ABANDON = Вы покинули зону поисков.
+
+RBT22_BLIP = Осмотрите область
+
+RBT22_CLUES = Поищите улики в ~o~местности~s~.
+
+RBT22_FOLLOW = Идите по следам.
+
+RBT22_H_TRACK = Нажмите ~INPUT_SPECIAL_ABILITY~ и ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~, чтобы осмотреть следы.
+
+RBT22_H_TRACK_KM = Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы осмотреть следы.
+
+RBT22_INTER = Расспросите ~o~бандита «Дель Лобос»~s~.
+
+RBT22_NOTE = Осмотрите карту Арройо в вашей сумке.
+
+RBT22_QU_OBJ = Допросите ~e~«Дель Лобос»~s~.
+
+RBT22_RELEASE = Отпустить
+
+RBT22_RETURN = Вернитесь в ~o~район поисков~s~.
+
+RBT22_SEARCH = Ищите ~o~рядом с железной дорогой~s~.
+

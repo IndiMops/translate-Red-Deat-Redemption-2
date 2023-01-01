@@ -1,0 +1,60 @@
+HSHCNV7_A_1 = ~z~
+
+HSHCNV7_A_2 = ~z~How are you doing, my dear friend?
+
+HSHCNV7_A_3 = ~z~About how I look.
+
+HSHCNV7_A_4 = ~z~Then... not so well is my guess.
+
+HSHCNV7_A_5 = ~z~And mine.
+
+HSHCNV7_A_6 = ~z~I'm so sorry, Hosea.
+
+HSHCNV7_A_7 = ~z~Why?
+
+HSHCNV7_A_8 = ~z~For selfish reasons. You... you, uh... you been like a father to me.
+
+HSHCNV7_A_9 = ~z~You help me so much. Not just with the reading, but... with the living.
+
+HSHCNV7_A_10 = ~z~You'll be fine, you always have been.
+
+HSHCNV7_A_11 = ~z~I hope so.
+
+HSHCNV7_A_12 = ~z~~sl:0.0:1.3~No, trust me.~sl:1.1~Jack's going to be fine, you'll be fine...
+
+HSHCNV7_A_13 = ~z~~sl:0.0:3.8~If we can only get old John to see a little sense,~sl:~we might be able to make a proper family of you yet.
+
+HSHCNV7_A_14 = ~z~We both know that ain't gonna happen.
+
+HSHCNV7_A_15 = ~z~~sl:0.0:1.4:1~You never know.
+
+HSHCNV7_A_16 = ~z~So, what about your family?
+
+HSHCNV7_A_17 = ~z~~sl:0.0:1.7~My family, well, you know.~sl:0.8:1.5~They all died long ago.~sl:2.0:1.7~Guess I'm...~sl:1.2~kinda getting ready to being reunited.
+
+HSHCNV7_A_18 = ~z~~sl:0.0:1.0~Only...~sl:0.1:2.7~I fear my dear Bessie went to heaven~sl:~while I'll be heading south.
+
+HSHCNV7_BALT_1 = ~z~Isn't that so, Arthur?
+
+HSHCNV7_BALT_2 = ~z~~sl:0.0:1.9:1~I reckon all of us is heading that way.
+
+HSHCNV7_BALT_3 = ~z~~sl:0.0:1.6:1~At least we won't be lonely.
+
+HSHCNV7_BALT_4 = ~z~Away with the pair of you.
+
+HSHCNV7_B_1 = ~z~
+
+HSHCNV7_B_2 = ~z~Oh, nonsense.
+
+HSHCNV7_B_3 = ~z~~sl:1.1:1.5:1~It's probably all nonsense.
+
+HSHCNV7_B_4 = ~z~~sl:0.0:1.7~All the things I've seen have...~sl:0.5~made that seem hardest thing to understand.
+
+HSHCNV7_B_5 = ~z~Well, that's something neither of us know.
+
+HSHCNV7_B_6 = ~z~Not yet.
+
+HSHCNV7_B_7 = ~z~Real funny.
+
+HSHCNV7_B_8 = ~z~
+

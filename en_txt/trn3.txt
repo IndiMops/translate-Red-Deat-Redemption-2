@@ -1,0 +1,104 @@
+0x5ACA4A1A = Train
+
+0x21AE9ED2 = Use Plunger
+
+0x1425C30F = Pick up
+
+0xC1B2C720 = John
+
+0xDDE90126 = Push
+
+0xE1E16D7A = Press ~INPUT_MINIGAME_RIGHT_TRIGGER~ to push the plunger.
+
+0xF843190C = John
+
+0xFFF1086B = The handcar was destroyed.
+
+TRN3_BB_OBJ2 = Plant the rest of the ~o~dynamite~s~
+
+TRN3_B_BRIDG = Bridge
+
+TRN3_B_CART = Handcar
+
+TRN3_B_CRATE = Dynamite Crate
+
+TRN3_B_DET = Plunger
+
+TRN3_B_DYN = Dynamite
+
+TRN3_B_PILL = Pillars
+
+TRN3_C_DET = Detonate
+
+TRN3_C_TBUND = Pick up
+
+TRN3_EB_OBJ1 = Use ~o~plunger~s~
+
+TRN3_ET_OBJ1 = Flee the oncoming ~e~train~s~
+
+TRN3_FAIL_BRG = You left the bridge.
+
+TRN3_FL_DET = You left the plunger.
+
+TRN3_FL_DYN = The dynamite was destroyed.
+
+TRN3_FL_JOHND = John died.
+
+TRN3_FL_WAG = The wagon became inoperable.
+
+TRN3_GTB_OBJ1 = Move the handcar
+
+TRN3_GTB_OBJ2 = Get the first ~o~dynamite crate~s~
+
+TRN3_GTB_OBJ2A = Get the second ~o~dynamite crate~s~
+
+TRN3_GTB_OBJ3 = Lower the crate down the side of the ~o~bridge~s~
+
+TRN3_GTB_OBJ4 = Climb down the ~o~ladder~s~
+
+TRN3_G_CRATE = Crate
+
+TRN3_G_DYNAM = Dynamite
+
+TRN3_HELP3 = Hold down ~INPUT_VEH_ACCELERATE~ as Arthur pushes the bar down, release as he raises it. Not releasing in time will cause you to lose speed.
+
+TRN3_H_GRAB = Press ~INPUT_MINIGAME_LEFT_TRIGGER~ and ~INPUT_MINIGAME_RIGHT_TRIGGER~ to push the crate over the edge.
+
+TRN3_H_START = Alternate between holding ~INPUT_MINIGAME_LEFT_TRIGGER~ and ~INPUT_MINIGAME_RIGHT_TRIGGER~ to slowly lower the crate.
+
+TRN3_JOHN = John Marston
+
+TRN3_O_FOLLOW = Follow ~o~John~s~
+
+TRN3_PD_OBJ0 = Climb down and pick up some ~o~dynamite~s~
+
+TRN3_PD_OBJ1 = Plant dynamite on the ~o~pillars~s~
+
+TRN3_PD_PICK = Pick up some ~o~dynamite~s~
+
+TRN3_PLANT = Plant
+
+TRN3_RTC_OBJ1 = Return to the ~o~handcar~s~
+
+TRN3_R_BRIDGE = Return to the ~o~bridge~s~
+
+TRN3_R_DET = Return to the ~o~plunger~s~
+
+TRN3_T_HOLD_LT = Hold ~INPUT_MINIGAME_LEFT_TRIGGER~.
+
+TRN3_T_HOLD_RT = Hold ~INPUT_MINIGAME_LEFT_TRIGGER~.
+
+TRN3_T_RELEASE = Release ~INPUT_MINIGAME_LEFT_TRIGGER~ and ~INPUT_MINIGAME_RIGHT_TRIGGER~.
+
+TRN3_T_START = Hold ~INPUT_MINIGAME_LEFT_TRIGGER~ and ~INPUT_MINIGAME_RIGHT_TRIGGER~.
+
+TRN3_UC_CRATE = Pick up
+
+TRN3_UC_GRIPL = Grip Left Hand
+
+TRN3_UC_GRIPR = Grip Right Hand
+
+TRN3_UC_LOWCR = Lower
+
+TRN3_UC_USE = Use
+

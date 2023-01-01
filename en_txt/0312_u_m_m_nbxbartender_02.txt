@@ -1,0 +1,392 @@
+0x054E3EDF = ~z~Closed for business.
+
+0x05BB625B = ~z~I don't need this.
+
+0x081AEF01 = ~z~Oh, hey, it's you! Oh, am I glad you're here.
+
+0x085E5C56 = ~z~That's what I thought. You're lucky I don't beat you bloody.
+
+0x0A523B1F = ~z~Jesus, why won't anyone help me?
+
+0x0BEB6DD6 = ~z~Who do you think you're talking to?
+
+0x0D69B8F6 = ~z~Listen, I can't tell you anymore. I just can't let you in right now.
+
+0x0D77A513 = ~z~I don't know right now.
+
+0x0F6AB441 = ~z~Hey, the hell you thinking?
+
+0x0F86453B = ~z~Alright, I'm getting the damn police.
+
+0x1E9380D9 = ~z~If you don't want nothing, why you in here?
+
+0x1FA0B65C = ~z~Oh, I'm the last person you wanna do this with.
+
+0x2A43E9F3 = ~z~Whoa there! You're gonna regret this.
+
+0x2A466737 = ~z~Hey, if you act civil this time, I'm willing to put what happened in the past.
+
+0x2B8FB3FD = ~z~What could you possibly be mulling over?
+
+0x2BC7B0F6 = ~z~Look at this place, what do you think?
+
+0x2D4E9F31 = ~z~I just need a quick word, please.
+
+0x2EEA52CB = ~z~Listen, I just can't open the store today, alright? That's it.
+
+0x3B7E99AE = ~z~Undetermined as of now.
+
+0x3B24E8DC = ~z~Listen friend, the rats have taken over. It's much, much worse'n before.
+
+0x3E720812 = ~z~Yep.
+
+0x3E911358 = ~z~What do you want?
+
+0x3EFC2F28 = ~z~The saloon's closed. Some unexpected complications.
+
+0x3F6324F4 = ~z~Get out of here. No reason for your company.
+
+0x4A96F911 = ~z~Listen, whatever happened back there, I can't have that in here. Now why don't you take it someplace else, alright?
+
+0x4C4823BE = ~z~Yeah, sure.
+
+0x4D21C071 = ~z~The hell you doing here? Get out of here.
+
+0x4DCC0453 = ~z~Damn it, I ain't got nothing to give.
+
+0x4F5D7821 = ~z~Always something rotten happening in this place, you just can't always smell it.
+
+0x5C901ABD = ~z~This goddamn shithole...
+
+0x5DD0A45C = ~z~There is nothing for me to give you.
+
+0x5E83ACB4 = ~z~Oh, thank God... Head in there, but please, please try not to destroy the place.
+
+0x5FA4CECB = ~z~Yes, yes! Kill 'em all!
+
+0x6CE64821 = ~z~And there you go. That'll set you right, no doubt.
+
+0x7B6F1A23 = ~z~How about I break your jaw?
+
+0x7B62A344 = ~z~You good for nothing fool. How dare you?
+
+0x7E3F2A30 = ~z~Just know if you make any more trouble, I'll be on you like a hammer to a nail.
+
+0x7F632544 = ~z~We're closed.
+
+0x8A28AA17 = ~z~Know about what? I don't ask what Daisy gets into.
+
+0x8DD1BEE8 = ~z~You want to learn some manners the hard way, huh?
+
+0x8E084B92 = ~z~This about as good as it gets around here.
+
+0x9A16558E = ~z~Hey, must be new to town.
+
+0x9CE5E895 = ~z~Hey, I thought we had a damn deal! You don't start a job and not finish it.
+
+0x9E7DDF8C = ~z~The whole saloon's overrun with rats! I'm losing business left and right.
+
+0x9F6294C2 = ~z~You want to back that up with something?
+
+0x13C8C294 = ~z~Don't make this mistake again or I'll kill ya.
+
+0x14B15600 = ~z~Can't do nothing about it! I'm working on the situation.
+
+0x15A69C7D = ~z~Are you going to get started yet?
+
+0x15A90E47 = ~z~You looking guilty, was it you?
+
+0x16FE6322 = ~z~~sl:0.0:2.1:1~Don't destroy the damn place!
+
+0x18EA14CD = ~z~Did you have any part in this?
+
+0x22CDAC47 = ~z~You think you're up to taking care of 'em? Some good coin for you'n your troubles...
+
+0x22EC11BC = ~z~Yes! You show those little shits!
+
+0x27A09181 = ~z~I can't.
+
+0x29DA06B1 = ~z~It's only temporary. This'll all be sorted out soon, I promise!
+
+0x34D61CBF = ~z~Hey, I don't scare easy in my own saloon.
+
+0x34DAB325 = ~z~If this gets out, I'm finished.
+
+0x37F25600 = ~z~Well, back again, are we?
+
+0x41CDDD02 = ~z~Never a peaceful day around here.
+
+0x43DFBAD2 = ~z~Whoa there, you might want to rethink your course of action here.
+
+0x44F391DA = ~z~You can't.
+
+0x47AB88E1 = ~z~Oh, thank God. Just be sure not to bang around the place too much. I'll wait out here.
+
+0x47C824F8 = ~z~That's it! Damn vermin.
+
+0x48D4F553 = ~z~You show 'em, you show 'em!
+
+0x52D1CCE0 = ~z~Why are you toying with me like this?
+
+0x57A0EDB9 = ~z~Hey, stop the rats... the saloon's fine!
+
+0x69A8F7B9 = ~z~Yes, that's it!
+
+0x72D479D6 = ~z~Mind yourself.
+
+0x74B80F99 = ~z~Well, I've had about enough of this.
+
+0x74CCD66F = ~z~How the hell are these things back? What the hell'd I do?
+
+0x76BF8526 = ~z~Alright, you don't want a drink, fine.
+
+0x77DAE62C = ~z~You should know better than to do that to folk.
+
+0x79D38161 = ~z~Oh, they're gonna be the end of me...
+
+0x80A9BF19 = ~z~Come on, have a drink.
+
+0x82FC44F7 = ~z~Please, I need help here...
+
+0x84D07ED9 = ~z~Jesus! What the hell happened back there? Did I hear gunshots?
+
+0x91F91A6C = ~z~Quit harassing folks, you swine.
+
+0x97E7D074 = ~z~Look, I said I'm sorry. I'm doing everything I can.
+
+0x216D3B4C = ~z~Look, I get it. None of my business. No problem.
+
+0x269CE446 = ~z~Oh, God, I'm doomed...
+
+0x279DD305 = ~z~Alright, get out of here. I've had enough.
+
+0x352DC05A = ~z~You're in the wrong place to be running your mouth.
+
+0x567FB09A = ~z~Well, what's the wait? Get to killing!
+
+0x570A8C78 = ~z~Well, damn. Maybe you're right.
+
+0x600D1E96 = ~z~I appreciate it, mister, really.
+
+0x611EC3D0 = ~z~It's-it's only temporary, I promise! Come back in a day or two...
+
+0x709DEC69 = ~z~Yeah, sure.
+
+0x712E8B58 = ~z~Local discount. Keep it quiet.
+
+0x794E71D2 = ~z~Oh, hell, I thought we had a deal.
+
+0x895E99B0 = ~z~You going to say something or just stare, huh?
+
+0x899A3026 = ~z~How're you so good at that? And in your condition...
+
+0x942FCFBD = ~z~Guess I got some cleaning to do.
+
+0x956D0745 = ~z~You really don't want to take from this place. You'll be sorry.
+
+0x1932F618 = ~z~You need something yet, or what?
+
+0x2109E55A = ~z~You want me to break all your teeth?
+
+0x2217F536 = ~z~Get the hell out, or I'm getting the law.
+
+0x3196B250 = ~z~What the? Hello again.
+
+0x4603F223 = ~z~Alright, back for more I see.
+
+0x5057EFD2 = ~z~Yes, well, hello again, I guess.
+
+0x7075E4B4 = ~z~Well, that's it then. You need to leave.
+
+0x7093C3DB = ~z~Law's gonna deal with this...
+
+0x8046B80F = ~z~Are you crazy? What the hell is wrong with you? The place is destroyed!
+
+0x9318D492 = ~z~What are you doing? There's still some in there!
+
+0x9436BEA2 = ~z~I see you.
+
+0x9485B84E = ~z~Goddamn vermin are ruining my livelihood!
+
+0x12889D83 = ~z~Hey, hey, didn't really care to begin with.
+
+0x14193DC4 = ~z~Hey, watch the saloon! Jesus...
+
+0x35274CA7 = ~z~Well, thank you. Had to pocket a little, what with all the damage...
+
+0x38525EC1 = ~z~Well, shit. Thank you, mister. You earned this, that's for sure.
+
+0x45129E53 = ~z~Watch it.
+
+0x50874EC5 = ~z~I'm watching you, best not make any more trouble around here.
+
+0x55552E73 = ~z~Hey, now you need to hit the road.
+
+0x62634FF4 = ~z~Yep.
+
+0x63418D4B = ~z~I'm gonna bury you in an unmarked grave.
+
+0x73646B37 = ~z~Can't believe this is happening again.
+
+0x87029B41 = ~z~Yes!
+
+0x94991B8B = ~z~Hey, leave those folks be.
+
+0x288831E8 = ~z~Leave me the hell alone.
+
+0x460176DC = ~z~You goddamn son of a bitch!
+
+0x669543A1 = ~z~Now why are you riling folk up for?
+
+0x997489CF = ~z~Don't you have anything better to do?
+
+0x14929418 = ~z~Look at you, doing God's work!
+
+0x42458054 = ~z~Stop it. Don't.
+
+0x46406457 = ~z~Oh, you're kidding me! What did I do to deserve this?
+
+0x58952923 = ~z~Offer's still good, friend. The good stuff, too.
+
+0x92560166 = ~z~Well, guess it's nothing a drink can't fix. Next one's on me, feller.
+
+0xA055702C = ~z~I prefer it quiet.
+
+0xA3B3BDE1 = ~z~What's all this hell raising about?
+
+0xA3C6A3F8 = ~z~Come on. This is my livelihood, you'll ruin me.
+
+0xA7E1F125 = ~z~I don't forget a face. You new?
+
+0xA7F31BB6 = ~z~Come on, there's plenty of room there.
+
+0xA9D84609 = ~z~You better rein it in, there.
+
+0xA17D3A13 = ~z~Hey, you ain't the first fool I'm going to drop now.
+
+0xABED869F = ~z~Hell, you really let it rip in there... Had to keep some back for repairs.
+
+0xAC5C543C = ~z~You will pay for what you done with your blood.
+
+0xACED20A1 = ~z~You got a death wish, don't you?
+
+0xADA4F268 = ~z~I can't get near the damn things, scurrying around, but I need 'em gone. Give you a hefty reward?
+
+0xAE543C4C = ~z~You leave right now, you hear?
+
+0xAEB2AB54 = ~z~Hey, you there! I could really use some help.
+
+0xAEC84DC6 = ~z~Oh, hell, can my day not get any worse?
+
+0xB0D477DD = ~z~Hey there.
+
+0xB5F91998 = ~z~I got better things to do than be bothered by you.
+
+0xB7FD80DE = ~z~Oh, this is too much. Look at all these things... disgusting...
+
+0xB8B56D32 = ~z~What are you doing? Stop this.
+
+0xB27CF85D = ~z~I need to get someone to get rid of them for me. I'll pay very well, I just need it done.
+
+0xB58CF513 = ~z~Thanks mister, take this. You earned every cent.
+
+0xB88AFE94 = ~z~I can't.
+
+0xB28522FF = ~z~Come on, get, would ya?
+
+0xB434581C = ~z~Yes! Kill those bastards.
+
+0xBB76F271 = ~z~Now that was a mistake.
+
+0xBC3FF33C = ~z~Bastards... these little bastards!
+
+0xBC230E14 = ~z~Hey, I don't mind you've been wanted by the law. Just don't start in here.
+
+0xC0875D79 = ~z~I'm just trying to make ends meet here.
+
+0xC4D9336E = ~z~Here, I only got this to give ya.
+
+0xC4D33927 = ~z~Oh, just fine, I suppose.
+
+0xC9C339B6 = ~z~That ain't right. I'm getting the police on this.
+
+0xC46F03AC = ~z~I'm getting the law, right now!
+
+0xC392E6C9 = ~z~Go on, get the hell out of here
+
+0xCA60AA8F = ~z~We've all been wanted by the law in here. Just keep it quiet.
+
+0xCB394418 = ~z~I'll just pay you no mind.
+
+0xCC1417AD = ~z~I can't get near the damn things, scurrying around, but I need 'em gone. I'll pay double from the last time, huh?
+
+0xCCDF4684 = ~z~Hey! Just cause of this little situation don't mean you can degrade me.
+
+0xD1EA6DB3 = ~z~I appreciate it, 'specially in your condition. Have to keep some to take care of the shop, though.
+
+0xD18BE9DE = ~z~I will cut you to pieces like the swine you are.
+
+0xD92C1325 = ~z~Get away from me!
+
+0xD93C8CF0 = ~z~Take out the rats! Not the saloon...
+
+0xD392ACF8 = ~z~You saved me, mister, that's the truth.
+
+0xD7643F9E = ~z~Alright, alright. Here it's yours.
+
+0xD85056D0 = ~z~I've had enough. I'm getting the law.
+
+0xD422512A = ~z~You're a local? I'll give this to you on the cheap.
+
+0xD5207610 = ~z~Give me some room.
+
+0xDE2B6376 = ~z~Oh, dammit, look at this place. It was better with the rats!
+
+0xDEFF3FA8 = ~z~Better be the last of 'em. I don't think I can handle otherwise.
+
+0xE2BDCCF0 = ~z~Hey, where you going? I still see 'em lording around in there...
+
+0xE5CFDF73 = ~z~Be more careful.
+
+0xE54BDB6D = ~z~Fine. Take it.
+
+0xE766A4CD = ~z~What are you getting at, huh?
+
+0xE978ACE9 = ~z~What the hell are you doing? Quit it.
+
+0xE31875BE = ~z~I can't believe this is happening.
+
+0xE62871A1 = ~z~You'd better cut that out.
+
+0xEA41B0ED = ~z~Come on. This is my livelihood you'll ruin me.
+
+0xF09BC2F3 = ~z~Hey, hey, you! Would you like to earn some money?
+
+0xF4CF8EF7 = ~z~You best quit it, and quit it fast.
+
+0xF23EFD20 = ~z~You ain't got no business following me. Get lost.
+
+0xF30EBD02 = ~z~Mind your own business.
+
+0xF83DA59A = ~z~I knew Daisy had a temper, but that looks something special.
+
+0xF99505D5 = ~z~Hmph, you're a damned idiot for coming back in here after what you done. Fine then.
+
+0xF742487C = ~z~Hey, quit it, would you?
+
+0xF907833C = ~z~No, pal.
+
+0xFA29C6FC = ~z~I can't open today. It's only temporary, I promise.
+
+0xFB6F8863 = ~z~The saloon is absolutely overrun with rats. Worse'n I ever seen.
+
+0xFB116CE9 = ~z~The saloon is absolutely overrun with rats. Worse'n last time. Much, much worse...
+
+0xFBA191CE = ~z~Why won't anyone help me?
+
+0xFC6C267D = ~z~I ain't paying any more attention to you.
+
+0xFC2602C2 = ~z~Disgusting little bastards, good riddance... God, it's awful in here...
+
+0xFF9334A9 = ~z~Okay I've had enough. Whatever happened, you wore out my patience. Now get the hell outta here.
+

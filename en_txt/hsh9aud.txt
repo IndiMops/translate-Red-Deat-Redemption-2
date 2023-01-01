@@ -1,0 +1,92 @@
+HSHCNV9_A_1 = ~z~
+
+HSHCNV9_A_2 = ~z~You all right, old man?
+
+HSHCNV9_A_3 = ~z~~sl:2.4:1.3~Sure.
+
+HSHCNV9_A_4 = ~z~Good.
+
+HSHCNV9_A_5 = ~z~You know, we been riding a long time together, haven't we?
+
+HSHCNV9_A_6 = ~z~Sure.
+
+HSHCNV9_A_7 = ~z~~sl:1.3~When I first met you, I...
+
+HSHCNV9_A_8 = ~z~I used to think you were all stuck up.
+
+HSHCNV9_A_9 = ~z~I know.
+
+HSHCNV9_A_10 = ~z~~sl:0.0:2.0:1~You told me a fair few times.
+
+HSHCNV9_A_11 = ~z~I did?
+
+HSHCNV9_A_12 = ~z~~sl:0.0:0.8~Well, I'm...~sl:0.3~I'm sorry.
+
+HSHCNV9_A_13 = ~z~No, you ain't.
+
+HSHCNV9_A_14 = ~z~~sl:0.0:0.9~I don't blame you,~sl:~I used to think you was one sorry excuse for a man.
+
+HSHCNV9_A_15 = ~z~Well,
+
+HSHCNV9_A_16 = ~z~you've-you've changed your mind since then, right?
+
+HSHCNV9_B_1 = ~z~Absolutely, Bill.
+
+HSHCNV9_B_2 = ~z~~sl:0.0:2.7~Now I think you're a fine, upstanding gentleman~sl:~who got stuck in the wrong place and wrong time.
+
+HSHCNV9_B_3 = ~z~You do?
+
+HSHCNV9_B_4 = ~z~Sure.
+
+HSHCNV9_B_5 = ~z~Something like that.
+
+HSHCNV9_B_6 = ~z~Well thanks, Hosea.
+
+HSHCNV9_B_7 = ~z~
+
+HSHCNV9_B_8 = ~z~I like that.
+
+HSHCNV9_B_9 = ~z~Don't mention it.
+
+HSHCNV9_B_10 = ~z~
+
+HSHCNV9_B_ALTB_1 = ~z~Absolutely, Bill.
+
+HSHCNV9_B_ALTB_2 = ~z~We all have, ain't that so, Arthur?
+
+HSHCNV9_B_ALTB_3 = ~z~Sure.
+
+HSHCNV9_B_ALTB_4 = ~z~What is it you called him, uh...
+
+HSHCNV9_B_ALTB_5 = ~z~a sheep in wolf's clothing.
+
+HSHCNV9_B_ALTB_6 = ~z~That's it.
+
+HSHCNV9_B_ALTB_7 = ~z~Is that right?
+
+HSHCNV9_B_ALTB_8 = ~z~Well, thanks... thank you.
+
+HSHCNV9_B_ALTB_9 = ~z~Don't mention it.
+
+HSHCNV9_B_ALTB_10 = ~z~
+
+HSHCNV9_B_ALT_1 = ~z~Absolutely, Bill.
+
+HSHCNV9_B_ALT_2 = ~z~We all have, ain't that so, Arthur?
+
+HSHCNV9_B_ALT_3 = ~z~Sure.
+
+HSHCNV9_B_ALT_4 = ~z~What is it you called him, uh...
+
+HSHCNV9_B_ALT_5 = ~z~a sheep in wolf's clothing.
+
+HSHCNV9_B_ALT_6 = ~z~That's it.
+
+HSHCNV9_B_ALT_7 = ~z~Is that right?
+
+HSHCNV9_B_ALT_8 = ~z~Well, thanks... thank you.
+
+HSHCNV9_B_ALT_9 = ~z~Don't mention it.
+
+HSHCNV9_B_ALT_10 = ~z~
+

@@ -1,0 +1,174 @@
+0x04022C29 = ~z~Show a little mercy.
+
+0x086F2D91 = ~z~Will you let me alone?
+
+0x089B8AC1 = ~z~Please, don't bind me like this!
+
+0x09E99742 = ~z~Won't you leave me be?
+
+0x0C8E15D0 = ~z~Please give me some space.
+
+0x0CA506F2 = ~z~Please do not follow me so.
+
+0x0DA32628 = ~z~Stay clear of me, hear?
+
+0x0DEE0881 = ~z~I won't forget what you did for me...
+
+0x4A0178CA = ~z~You menace, leave them be.
+
+0x4C2FC598 = ~z~Christ have mercy!
+
+0x5AA56287 = ~z~Lord have mercy!
+
+0x5FCD9CD5 = ~z~Help me!
+
+0x6E855170 = ~z~You stay foolish, I'll keep silent.
+
+0x8AF958E1 = ~z~No, no, no, please. From violence comes shame.
+
+0x8D9B7870 = ~z~Please help!
+
+0x8F085819 = ~z~He's got me tied up!
+
+0x9B615C40 = ~z~Hey, what the hell?
+
+0x17E8295A = ~z~Please untie these bonds.
+
+0x22A53FB7 = ~z~You damn devil!
+
+0x68ED13C8 = ~z~You're a wicked man.
+
+0x70F1DF11 = ~z~That'd be nice.
+
+0x75E8E4AC = ~z~The prudent ignore insults.
+
+0x79F60816 = ~z~Whoa, whoa, stop this horse!
+
+0x84EACF7C = ~z~I can't take this no more!
+
+0x87DC9A9D = ~z~Keep away from me, hear?
+
+0x93B5AE95 = ~z~Take it, go on.
+
+0x102E9ACA = ~z~You damned devil!
+
+0x128C59DD = ~z~Is this your doing?
+
+0x149D9B1E = ~z~Stop all that foolishness, now!
+
+0x175E8C9F = ~z~Your stare is alarming me.
+
+0x575FFAED = ~z~Yes, thank you.
+
+0x635A3B1A = ~z~I won't study you a moment longer.
+
+0x707C86AF = ~z~Please, don't!
+
+0x719DBCF2 = ~z~Help, please, don't leave me like this!
+
+0x895E5427 = ~z~You done enough devilish deeds lately.
+
+0x904FE295 = ~z~This ain't no better than before!
+
+0x998E3E00 = ~z~Enough of your foolishness.
+
+0x1443A20D = ~z~Free me from these bonds, please.
+
+0x1861CB6A = ~z~Oh yes, cut me free!
+
+0x2130B444 = ~z~Stop all that foolishness now.
+
+0x2554E816 = ~z~Clear the way now, hear?
+
+0x4427AE73 = ~z~Please, I'd rather not quarrel with you.
+
+0x4891C04F = ~z~Leave here immediately.
+
+0x6839C94E = ~z~The wise woman remains silent.
+
+0x8480A3BE = ~z~Please untie me!
+
+0x43371A9D = ~z~It's taking me away!
+
+0x61670B01 = ~z~Don't do nothing wicked.
+
+0x724632EA = ~z~You scared me there for a bit, but I'm okay now. Thank you.
+
+0x3156406F = ~z~I have so little to give.
+
+0x28420055 = ~z~Oh God...
+
+0xA3BFED29 = ~z~Don't do this, please.
+
+0xA8E365F0 = ~z~It's going too fast, I can't get off!
+
+0xAAC952E3 = ~z~Quit carrying me now!
+
+0xACDB9F5D = ~z~Why won't you let me loose?
+
+0xB3C4C13F = ~z~Take me off this horse!
+
+0xB72D0BF4 = ~z~Shoot him down!
+
+0xB715B3D1 = ~z~Dammit, don't leave me like this.
+
+0xB36081DA = ~z~What are you doing round here?
+
+0xB6379224 = ~z~Don't do this, please...
+
+0xBB05B800 = ~z~Why can't you just leave me alone?
+
+0xC07F7E4F = ~z~Okay, lower me down, please!
+
+0xC2FF2C2C = ~z~Friend, I don't want no trouble now.
+
+0xC8D8AF4B = ~z~He's out of his damn mind!
+
+0xC67D66B0 = ~z~I can't stand being on this horse no longer.
+
+0xC6334F54 = ~z~No. Thou shalt not kill, said the Lord.
+
+0xCC4EE0D3 = ~z~This ain't worth your soul.
+
+0xCE9941E8 = ~z~I warn you, I'll defend myself.
+
+0xCEC182AC = ~z~Someone help!
+
+0xD390C3D5 = ~z~Leave me in peace!
+
+0xDA0CF60E = ~z~What's your problem?
+
+0xDA77C15D = ~z~Please stop doing that.
+
+0xDA224EE8 = ~z~Won't you untie me?
+
+0xDAD9BCDC = ~z~This all I got to offer.
+
+0xDB9A34A4 = ~z~Why won't you put me down?
+
+0xDC91D5D9 = ~z~I'll go head and turn my cheek.
+
+0xE0D39188 = ~z~Alright, I'll hold my peace.
+
+0xE0EFE695 = ~z~I will defend myself, you hear?
+
+0xE607C8C4 = ~z~A little space, if you don't mind.
+
+0xE3324FEC = ~z~Well, excuse you.
+
+0xE4209334 = ~z~I'm fixing to call the law.
+
+0xEB5C7452 = ~z~You have to get me out of there!
+
+0xEC4F6226 = ~z~The word is excuse me?
+
+0xECE6FF82 = ~z~Please, don't.
+
+0xF4DE34AF = ~z~I'm gonna fetch the law.
+
+0xF62588FE = ~z~Leave me alone, please.
+
+0xF6943762 = ~z~~sl:2.4:0.0:1~Oh praise be you came when you did! I don't know what would have happened...
+
+R_07__HD_0_3_1 = ~z~Why you bringing good people trouble?
+

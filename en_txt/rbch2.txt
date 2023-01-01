@@ -1,0 +1,6 @@
+BE21_OBJ_PULL = Demolish the shack
+
+BE21_UC_PULL = Lean Back
+
+BE21_UC_TAP = Pull Reins
+

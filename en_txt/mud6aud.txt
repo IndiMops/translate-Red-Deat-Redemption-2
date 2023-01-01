@@ -1,0 +1,672 @@
+MUD3B_ARTHHIT2_1 = ~z~Quick, come on!
+
+MUD3B_ARTHHIT3_1 = ~z~Money now! You son of a bitch.
+
+MUD3B_BAG2_1 = ~z~For Christ's sake. You ain't even taken a look yet?
+
+MUD3B_BAG_1 = ~z~What is it? You alright?
+
+MUD3B_BAG_2 = ~z~Found the baggage car.
+
+MUD3B_BOARD_01 = ~z~I'm going to board, make that quick and join us on there.
+
+MUD3B_BOARD_02 = ~z~I need to get up there. Finish up here and join us on board.
+
+MUD3B_BOUNCER_1 = ~z~All yours, captain, I'll go on ahead.
+
+MUD3B_CALL_01 = ~z~Alright, get on that train!
+
+MUD3B_CALL_02 = ~z~Go on, get on there!
+
+MUD3B_COUNT_1 = ~z~I'm going to count to three... one... two...
+
+MUD3B_EARLY_01 = ~z~That's it? You're done?
+
+MUD3B_EARLY_02 = ~z~Where are you going now?
+
+MUD3B_EARLY_03 = ~z~You been through everything in there?
+
+MUD3B_ENGK_1 = ~z~Hey, what was that for? Come on, keep your head.
+
+MUD3B_ESC2_01 = ~z~Come on boys, we gotta go!
+
+MUD3B_ESC2_02 = ~z~Let's get the hell outta here!
+
+MUD3B_ESC3_1 = ~z~What are you waiting for, Morgan? Let's get out of here!
+
+MUD3B_ESC3_2 = ~z~Come on, we need to move now!
+
+MUD3B_ESC3_3 = ~z~Let's go! What are you playing at?
+
+MUD3B_ESC4_01 = ~z~Ride! Let's lose them!
+
+MUD3B_ESC4_02 = ~z~Let's go! Stay with me!
+
+MUD3B_EXT_1 = ~z~Whoa!
+
+MUD3B_EXT_2 = ~z~Whoa!
+
+MUD3B_EXT_3 = ~z~That was fun boys, real fun.
+
+MUD3B_EXT_4 = ~z~I can see why they call you the professionals of the outfit.
+
+MUD3B_EXT_5 = ~z~Shut up.
+
+MUD3B_EXT_6 = ~z~At least we made some money...
+
+MUD3B_EXT_7 = ~z~and what did I get?
+
+MUD3B_EXT_8 = ~z~Gotta be a hundred dollars here, very nice.
+
+MUD3B_EXT_9 = ~z~And you weren't even invited.
+
+MUD3B_EXT_10 = ~z~What now?
+
+MUD3B_EXT_11 = ~z~We still need a real big take...
+
+MUD3B_EXT_12 = ~z~enough for us to get out of here.
+
+MUD3B_EXT_13 = ~z~Was that a set up?
+
+MUD3B_EXT_14 = ~z~Law turned up real fast.
+
+MUD3B_EXT_15 = ~z~I don't know.
+
+MUD3B_EXT_16 = ~z~I don't think so.
+
+MUD3B_EXT_17 = ~z~I'm starting to get nervous.
+
+MUD3B_EXT_18 = ~z~Think they followed us from Blackwater?
+
+MUD3B_EXT_19 = ~z~Maybe.
+
+MUD3B_EXT_20 = ~z~They found me already near Horseshoe, but...
+
+MUD3B_EXT_21 = ~z~I think this lot was just locals.
+
+MUD3B_EXT_22 = ~z~I hope so.
+
+MUD3B_EXT_23 = ~z~I'm gonna head into Valentine...
+
+MUD3B_EXT_24 = ~z~see if I can get something started there.
+
+MUD3B_EXT_25 = ~z~Good idea.
+
+MUD3B_EXT_26 = ~z~Either way, we should all go it alone right now.
+
+MUD3B_EXT_27 = ~z~You know the deal...
+
+MUD3B_EXT_28 = ~z~don't be followed.
+
+MUD3B_EXT_29 = ~z~Ah, course not, boss.
+
+MUD3B_EXT_LO_1 = ~z~Let's go earn some money.
+
+MUD3B_FILLBAG_01 = ~z~Keep it coming.
+
+MUD3B_FILLBAG_02 = ~z~That's it.
+
+MUD3B_FILLBAG_03 = ~z~Let's make this quick!
+
+MUD3B_FILLBAG_04 = ~z~Next one.
+
+MUD3B_FILLBAG_05 = ~z~Fill her up.
+
+MUD3B_FILLBAG_06 = ~z~Nice.
+
+MUD3B_FILLBAG_07 = ~z~They were right. These are rich folks.
+
+MUD3B_FILLBAG_08 = ~z~Got plenty of room in here.
+
+MUD3B_GETOFF_01 = ~z~We won't tell you again! Come out now with your hands up!
+
+MUD3B_GETOFF_02 = ~z~Last chance! Drop your weapons and get off the train!
+
+MUD3B_GETSUP_1 = ~z~~sl:0.0:2.0:1~Ah... I'm sorry...
+
+MUD3B_GETSUP_2 = ~z~~sl:0.3:2.4:1~C'mon, get up you little Irish shit, get up!
+
+MUD3B_GOODSTUFF_01 = ~z~We're looking good in here.
+
+MUD3B_GOODSTUFF_02 = ~z~These folks are rich alright.
+
+MUD3B_GOODSTUFF_03 = ~z~We'll take that...
+
+MUD3B_GOODSTUFF_04 = ~z~This is some decent stuff.
+
+MUD3B_IG1_1 = ~z~What's going on here? What's going on?
+
+MUD3B_IG1_2 = ~z~
+
+MUD3B_IG1_3 = ~z~Nothing good...
+
+MUD3B_IG1_ALT_1 = ~z~What's going on here? What's going on?
+
+MUD3B_IG1_ALT_2 = ~z~
+
+MUD3B_IG1_ALT_3 = ~z~Nothing good...
+
+MUD3B_IG2_ENT_1 = ~z~Everybody stay calm and nobody gets shot!
+
+MUD3B_IG2_KILL_1 = ~z~~sl:0.0:0.5~Hey!~sl:2.8~Don't make me kill you!
+
+MUD3B_IG3_DAZE_1 = ~z~
+
+MUD3B_IG3_DAZE_2 = ~z~~sl:0.0:3.8:1~For fuck's sake... for fuck's sake...
+
+MUD3B_IG3_KNOCK_1 = ~z~There's probably something in here, Arthur.
+
+MUD3B_IG3_KNOCK_2 = ~z~
+
+MUD3B_IG4_A_1 = ~z~I need some help here, boy.
+
+MUD3B_IG4_A_2 = ~z~~sl:0.4:1.0:1~I'm with you, brother.
+
+MUD3B_IG4_B_1 = ~z~This time I'll look and you provide the cover.
+
+MUD3B_IG4_B_2 = ~z~~sl:0.7~I'll try my best, brother, but... I'm seeing double here.
+
+MUD3B_IG4_B_3 = ~z~That gives you twice the chance of hitting someone.
+
+MUD3B_IG4_B_4 = ~z~~sl:1.2:2.1:1~Very funny...
+
+MUD3B_IG5_P1_1 = ~z~Everybody stay calm and nobody'll get shot!
+
+MUD3B_IG5_P3_1 = ~z~~sl:1.5:0.0~Here.
+
+MUD3B_IG5_P3_2 = ~z~~sl:0.2:0.8:1~Thank you.
+
+MUD3B_IG6_FIRST_1 = ~z~Don't do this. Just give it to him, Thomas, please!
+
+MUD3B_IG6_FIRST_2 = ~z~Okay, okay godammit!
+
+MUD3B_IG6_FRSTP_1 = ~z~Everything you got... money, valuables...
+
+MUD3B_IG6_FRSTP_2 = ~z~We ain't leaving 'til this bag's full.
+
+MUD3B_IG6_SECND_1 = ~z~
+
+MUD3B_IG6_SECND_2 = ~z~Sick is better than dead, lady. And I'm losing my goddamn patience.
+
+MUD3B_IG6_SECND_3 = ~z~Let's just do what he says so this can be over.
+
+MUD3B_IG7_ROB1_1 = ~z~Ladies and gentlemen, this is a robbery!
+
+MUD3B_IG7_ROB1_2 = ~z~Let's make this quick!
+
+MUD3B_IG9_1 = ~z~Hey!
+
+MUD3B_IG9_2 = ~z~
+
+MUD3B_IG9_3 = ~z~You bastard.
+
+MUD3B_IG10_1 = ~z~You boys need me?
+
+MUD3B_IG10_2 = ~z~No, you go ahead and look for the baggage car.
+
+MUD3B_IG10_3 = ~z~Right you are.
+
+MUD3B_IMPAT_01 = ~z~Are you going then?
+
+MUD3B_IMPAT_02 = ~z~So... am I keeping watch or you?
+
+MUD3B_INT_1 = ~z~Well, at least it ain't your job.
+
+MUD3B_INT_2 = ~z~Ah, shut up, Arthur.
+
+MUD3B_INT_3 = ~z~Yeah, your job's starting the fights...
+
+MUD3B_INT_4 = ~z~it ain't winning them.
+
+MUD3B_INT_5 = ~z~I can scrap, Arthur...
+
+MUD3B_INT_6 = ~z~I'm just no good at home work.
+
+MUD3B_INT_7 = ~z~I can see.
+
+MUD3B_INT_8 = ~z~Besides, what do you care, Englishman...
+
+MUD3B_INT_9 = ~z~you've got no time for me.
+
+MUD3B_INT_10 = ~z~I tried to find you work...
+
+MUD3B_INT_11 = ~z~but then you're off cutting jobs with other folks...
+
+MUD3B_INT_12 = ~z~and your boy Sean doesn't get a look in.
+
+MUD3B_INT_13 = ~z~Guess I don't wanna get shot, that's all.
+
+MUD3B_INT_14 = ~z~Ah, you're a real fucking funny shit, Arthur Morgan, huh?
+
+MUD3B_INT_15 = ~z~Real fucking funny.
+
+MUD3B_INT_16 = ~z~Calm down.
+
+MUD3B_INT_17 = ~z~You better sleep with your eyes open.
+
+MUD3B_INT_18 = ~z~Yeah, well you're gonna sleep with your chest open...
+
+MUD3B_INT_19 = ~z~if you ain't careful, boy.
+
+MUD3B_INT_20 = ~z~I love ya, Arthur Morgan...
+
+MUD3B_INT_21 = ~z~I love ya.
+
+MUD3B_INT_22 = ~z~Come on, take a shot.
+
+MUD3B_INT_23 = ~z~Come on, take your best shot, please.
+
+MUD3B_INT_24 = ~z~Grow up.
+
+MUD3B_INT_25 = ~z~Let me come on the raid with yous...
+
+MUD3B_INT_26 = ~z~Raid?
+
+MUD3B_INT_27 = ~z~Don't be playing coy with me, son, it's unbecoming.
+
+MUD3B_INT_28 = ~z~That bloody train you and him has set up.
+
+MUD3B_INT_29 = ~z~What you're doing out here, you're going to need guns...
+
+MUD3B_INT_30 = ~z~you're going to need men.
+
+MUD3B_INT_31 = ~z~Oh, that.
+
+MUD3B_INT_32 = ~z~So Marston told you?
+
+MUD3B_INT_33 = ~z~It ain't a big show...
+
+MUD3B_INT_34 = ~z~I need calmness.
+
+MUD3B_INT_35 = ~z~If I take you, I might as well bring Micah along.
+
+MUD3B_INT_36 = ~z~Compare me to that oily turd again...
+
+MUD3B_INT_37 = ~z~and you're a dead man.
+
+MUD3B_INT_38 = ~z~Fair enough.
+
+MUD3B_INT_39 = ~z~Anyway, Arthur...
+
+MUD3B_INT_40 = ~z~what's your problem with me?
+
+MUD3B_INT_41 = ~z~In fact don't tell me, I already know.
+
+MUD3B_INT_42 = ~z~You're threatened by me.
+
+MUD3B_INT_43 = ~z~Threatened by you?
+
+MUD3B_INT_44 = ~z~Yeah, my youthful vigor...
+
+MUD3B_INT_45 = ~z~it intimidates ya.
+
+MUD3B_INT_46 = ~z~Does it?
+
+MUD3B_INT_47 = ~z~It's a story as old as the hills.
+
+MUD3B_INT_48 = ~z~The changing of the guard...
+
+MUD3B_INT_49 = ~z~the fading of the light.
+
+MUD3B_INT_50 = ~z~You're toast, old man.
+
+MUD3B_INT_51 = ~z~Okay...
+
+MUD3B_INT_52 = ~z~and what are you?
+
+MUD3B_INT_53 = ~z~I'm the future, in all its glory.
+
+MUD3B_INT_54 = ~z~Yeah, well good luck.
+
+MUD3B_INT_55 = ~z~Good luck and shut up.
+
+MUD3B_INT_56 = ~z~I wanna get some rest before night fall.
+
+MUD3B_INT_57 = ~z~Wake up you lazy sod.
+
+MUD3B_INT_58 = ~z~What are you doing here, kid?
+
+MUD3B_INT_59 = ~z~I'm coming, John...
+
+MUD3B_INT_60 = ~z~on the job.
+
+MUD3B_INT_61 = ~z~I said you weren't coming.
+
+MUD3B_INT_62 = ~z~Yeah, well Arthur says I am...
+
+MUD3B_INT_63 = ~z~and it's his party, boy, so come on, let's go.
+
+MUD3B_INT_64 = ~z~Me and the big cheeses, love it.
+
+MUD3B_INT_65 = ~z~Can't wait to slit some bastard's throat.
+
+MUD3B_INT_66 = ~z~You sure about this?
+
+MUD3B_INT_67 = ~z~No...
+
+MUD3B_INT_68 = ~z~Are we ready?
+
+MUD3B_INT_69 = ~z~Yeah, train's due through tonight.
+
+MUD3B_INT_70 = ~z~Alright then, it's on.
+
+MUD3B_INT_71 = ~z~Charles?
+
+MUD3B_INT_72 = ~z~I'm ready.
+
+MUD3B_INT_73 = ~z~Gentlemen.
+
+MUD3B_JPROMPT_1 = ~z~Deal with this feller, will you?
+
+MUD3B_JROB1B_1 = ~z~There you go...
+
+MUD3B_JROB1B_2 = ~z~Let's make this quick, people, come on!
+
+MUD3B_JROB1B_3 = ~z~We ain't leaving 'til this bag's full!
+
+MUD3B_JROB1_1 = ~z~Let's go... everything you got!
+
+MUD3B_JROB1_2 = ~z~Money! Valuables!
+
+MUD3B_JROB2_1 = ~z~Come on! In the bag, everything you got.
+
+MUD3B_JROB2_2 = ~z~Keep it coming, don't be shy.
+
+MUD3B_JROB4_1 = ~z~Everything you got, let's go!
+
+MUD3B_JURGE_1 = ~z~C'mon, cough it up, people! Don't be shy.
+
+MUD3B_LEAVE_01 = ~z~Alright, we should probably be going now.
+
+MUD3B_LEAVE_02 = ~z~Come on, we should get outta here.
+
+MUD3B_LEFT_1 = ~z~Bear left here, towards Rhodes.
+
+MUD3B_LNOK_1 = ~z~I've got things under control here. Go see if the others need a hand.
+
+MUD3B_LOOTC_1 = ~z~Ugh, I'm gonna have a right old lump on me head.
+
+MUD3B_LOOTC_2 = ~z~Least you ain't got a hole in it.
+
+MUD3B_LOOTC_3 = ~z~Are those tennis rackets in there? Posh bastards.
+
+MUD3B_LOOTC_4 = ~z~Just keep your eyes peeled.
+
+MUD3B_LOOTC_5 = ~z~I'm doing me best, alright.
+
+MUD3B_LOOTC_6 = ~z~I know, that's what's worrying me.
+
+MUD3B_LOOTR_01 = ~z~Hurry up in there, will ya?
+
+MUD3B_LOOTR_02 = ~z~How's it looking in there? Let's go.
+
+MUD3B_LOOTR_03 = ~z~You nearly done?
+
+MUD3B_LOOTR_04 = ~z~Jesus, how long does it take?
+
+MUD3B_LOST_1 = ~z~I think we're clear, fellers!
+
+MUD3B_MCS1_1 = ~z~Mr. Marston...
+
+MUD3B_MCS1_2 = ~z~Mr. Smith...
+
+MUD3B_MCS1_3 = ~z~Mr. Macguire...
+
+MUD3B_MCS1_4 = ~z~get over there.
+
+MUD3B_MCS1_5 = ~z~When she slows...
+
+MUD3B_MCS1_6 = ~z~board her.
+
+MUD3B_MCS1_7 = ~z~And you?
+
+MUD3B_MCS1_8 = ~z~I'm gonna make sure she slows.
+
+MUD3B_MCS1_9 = ~z~It's do or die, with you...
+
+MUD3B_MCS1_10 = ~z~I like it.
+
+MUD3B_MCS1_11 = ~z~Get moving...
+
+MUD3B_MCS1_12 = ~z~here she comes...
+
+MUD3B_MCS2_1 = ~z~Arthur, we got a problem.
+
+MUD3B_MCS2_2 = ~z~There's two arseholes on horses.
+
+MUD3B_MCS2_3 = ~z~How many you say?
+
+MUD3B_MCS2_4 = ~z~I just see a pair of them.
+
+MUD3B_MCS2_5 = ~z~Alright, in that case, we're fighting...
+
+MUD3B_MCS2_6 = ~z~Marston, Smith, get ready.
+
+MUD3B_MCS2_7 = ~z~You men come off the train now, do you hear?
+
+MUD3B_MCS2_8 = ~z~We said you men come out now!
+
+MUD3B_MCS2_9 = ~z~There's only two of you, you fools...
+
+MUD3B_MCS2_10 = ~z~we got a whole lot less to lose.
+
+MUD3B_MCS2_11 = ~z~Why don't the two of you ride away?
+
+MUD3B_MCS2_12 = ~z~That way neither of you get killed.
+
+MUD3B_MCS2_13 = ~z~Goddamn liberties...
+
+MUD3B_MCS2_14 = ~z~There's a few more of them turning up.
+
+MUD3B_MCS2_15 = ~z~Me and my big mouth.
+
+MUD3B_MCS2_16 = ~z~Okay...
+
+MUD3B_MCS2_17 = ~z~let's deal with them.
+
+MUD3B_MOK_1 = ~z~I can handle this from here, you should check on Sean.
+
+MUD3B_MOK_2 = ~z~Okay
+
+MUD3B_MOK_JOHN_1 = ~z~Okay, none of you folks move a muscle, you hear me?
+
+MUD3B_MONEY_1 = ~z~Money, valuables, now!
+
+MUD3B_MOUNT_A_01 = ~z~Let's go, Arthur! Come on!
+
+MUD3B_MOUNT_A_02 = ~z~Mount up, Morgan, we gotta go!
+
+MUD3B_MOUNT_A_03 = ~z~We need to move now, Morgan, what are you doing?
+
+MUD3B_MOUNT_G_1 = ~z~Come on, boys, let's get the hell out of here!
+
+MUD3B_NOKILL_1 = ~z~~sl:0.0:1.9~Remember, these are innocent folks.~sl:~We handle this right, nobody needs to die here.
+
+MUD3B_NOKILL_2 = ~z~Yeah, yeah...
+
+MUD3B_NOTIFY_B_01 = ~z~Look out behind us! Coming in on horses!
+
+MUD3B_NOTIFY_B_02 = ~z~Behind us! We got more of the bastards riding in!
+
+MUD3B_NOTIFY_L_01 = ~z~Shit, we got more on the left!
+
+MUD3B_NOTIFY_L_02 = ~z~Look out on the left, here come their friends!
+
+MUD3B_NOTIFY_R_01 = ~z~More coming through the trees! You see 'em?
+
+MUD3B_NOTIFY_R_02 = ~z~And we got more coming out of the trees there!
+
+MUD3B_NRAM2_01 = ~z~No, not here, Morgan. Keep going.
+
+MUD3B_NRAM2_02 = ~z~This ain't a good spot, they'll never see us in time.
+
+MUD3B_NRAM2_03 = ~z~~sl:0.0:1.4~What are you stopping for?~sl:0.5~I'll tell you when we're at the right spot.
+
+MUD3B_NRAM_1 = ~z~We close, Marston? We're at the railroad.
+
+MUD3B_NRAM_2 = ~z~Just carry on a bit further.
+
+MUD3B_PCAR_01 = ~z~Behave yourselves, and this will all be over soon.
+
+MUD3B_PCAR_02 = ~z~Everyone keep your hands where I can see them.
+
+MUD3B_PREROB_01 = ~z~Come on, be smart about this.
+
+MUD3B_PREROB_02 = ~z~Don't be an idiot.
+
+MUD3B_PREROB_03 = ~z~Don't make me hurt you.
+
+MUD3B_PRE_MOK_01 = ~z~What are you doing, Mr. M? Get up here.
+
+MUD3B_PRE_MOK_02 = ~z~Come on, Mr. M, we're on the clock here.
+
+MUD3B_PRE_MOK_03 = ~z~Let's go, Mr. M. Next carriage.
+
+MUD3B_PRK1_01 = ~z~Here's good. Stop the wagon over the tracks.
+
+MUD3B_PRK2_01 = ~z~What are you doing, Arthur?
+
+MUD3B_PRK2_02 = ~z~Just park it right across the tracks.
+
+MUD3B_PRK2_03 = ~z~Get a move on, Arthur! ~rp~Or the train'll blow right through.
+
+MUD3B_PROBLEM_1 = ~z~What's the problem here?
+
+MUD3B_PSK1_1 = ~z~See that? That's what you'll get if you don't listen.
+
+MUD3B_QUICKA_01 = ~z~Get rid of them, quick, so we can make a run for it!
+
+MUD3B_QUICKB_01 = ~z~Come on! Let's make some space so we can get out of here!
+
+MUD3B_RESIST_1 = ~z~You won't get a damn cent from me.
+
+MUD3B_ROB_COUP_01 = ~z~Deal will these two will you, Mr. M?
+
+MUD3B_ROB_COUP_02 = ~z~It ain't worth dying over... tell them, Mr. M.
+
+MUD3B_ROB_DAWD_01 = ~z~Mr. M?
+
+MUD3B_ROB_DAWD_02 = ~z~Come on.
+
+MUD3B_ROB_DAWD_03 = ~z~We're on the clock.
+
+MUD3B_ROB_DAWD_04 = ~z~Stick a gun in their face.
+
+MUD3B_ROB_MAN_1 = ~z~Tough guy, huh? You sure about that?
+
+MUD3B_ROB_MAN_2 = ~z~Will you show this son of a bitch we ain't playing around here?
+
+MUD3B_SHIT_1 = ~z~~sl:0.0:0.5:1~Shit...
+
+MUD3B_SHP1_01 = ~z~Hey! Come take a look at this!
+
+MUD3B_SHP1_02 = ~z~Hey! Give me a hand back here!
+
+MUD3B_SHP2_01 = ~z~I got something here, come on!
+
+MUD3B_SHP2_02 = ~z~Quick, come on! Look at this!
+
+MUD3B_SHP2_03 = ~z~Morgan, get back here, will ya?
+
+MUD3B_TRACKS_1 = ~z~Let's get it on the tracks...
+
+MUD3B_UNCOP1_1 = ~z~I ain't got nothing.
+
+MUD3B_UNCOP1_2 = ~z~You wanna have a little chat with Romeo and Juliet here?
+
+MUD3B_UNCOP2_1 = ~z~People like you make me sick.
+
+MUD3B_UNCOP2_2 = ~z~These two seem to think we're playing games.
+
+MUD3B_UNCOP4_1 = ~z~Let me hand you over to my friend then.
+
+MUD3B_UNLOAD_01 = ~z~Jewelry, cash, guns! Anything of value's going in this bag!
+
+MUD3B_UNLOAD_02 = ~z~Okay, people! We're not leaving until this bag's full. Money, jewelry, we'll take it all!
+
+MUD3B_V1_ROB1_1 = ~z~Come on partner... come on, quick.
+
+MUD3B_V1_ROB2_1 = ~z~Goddamn it.
+
+MUD3B_V2_ROB1_1 = ~z~Why are you wasting our time, huh?
+
+MUD3B_WOAH_1 = ~z~Whoa, whoa.
+
+MUD3B_WPLN1_1 = ~z~Hey... all the horses untethered?
+
+MUD3B_WPLN1_2 = ~z~Think so.
+
+MUD3B_WPLN1_3 = ~z~Good, they should follow on behind us.
+
+MUD3B_WPLN1_4 = ~z~You find a good spot, Wolf Man?
+
+MUD3B_WPLN1_5 = ~z~Yeah, follow the trail south west,
+
+MUD3B_WPLN1_6 = ~z~there's a spot that's... remote, but ~rp~should still give 'em enough time to spot the oil wagon.
+
+MUD3B_WPLN1_7 = ~z~They see this blocking the tracks, they'll stop soon enough.
+
+MUD3B_WPLN1_8 = ~z~Apparently, it picks up a new team of guards at the state line, so shouldn't be much in the way of guns to deal with.
+
+MUD3B_WPLN1_9 = ~z~See, this is what I mean. ~rp~I disappear for a couple of weeks and you cut me out of all the action.
+
+MUD3B_WPLN1_10 = ~z~Just the action that requires a brain.
+
+MUD3B_WPLN1_11 = ~z~~sl:1.0~Oh, you're a funny feller, John Marston.
+
+MUD3B_WPLN1_12 = ~z~From what folk say,
+
+MUD3B_WPLN1_13 = ~z~you had your feet up the whole time playing sick, and ~rp~fondling that new scar like you're gonna buy it breakfast in the morning.
+
+MUD3B_WPLN1_14 = ~z~You don't know what you're talking about.
+
+MUD3B_WPLN1_15 = ~z~Stay close on this, ~rp~wouldn't want you getting scratched by a squirrel or something,
+
+MUD3B_WPLN1_16 = ~z~that could put you outta commission for the rest of the year.
+
+MUD3B_WPLN1_17 = ~z~Why do you have to speak so much? It's... incessant.
+
+MUD3B_WPLN1_18 = ~z~'Cause I've still got some blood in me veins! ~rp~You old bastards have forgotten how to live.
+
+MUD3B_WPLN1_19 = ~z~I blame you two for rescuing him.
+
+MUD3B_WPLN1_20 = ~z~Far too much trouble for what we got out of it.
+
+MUD3B_WPLN1_21 = ~z~Yeah, ~rp~takes a whole army of bounty hunters to bring in Sean Macguire.
+
+MUD3B_WPLN1_22 = ~z~And~rp~ look at me now, in the gunner's seat! Back in business, boys!
+
+MUD3B_WPLN1_23 = ~z~You know my da always used to say...
+
+MUD3B_WPLN1_24 = ~z~Not the da, please!
+
+MUD3B_WPLN1_25 = ~z~No, no...
+
+MUD3B_WPLN1_26 = ~z~Not this again.
+
+MUD3B_WPLN1_27 = ~z~Fine! Damn, you three... Sulky, Angry, Scar Face.
+
+MUD3B_WPLN1_28 = ~z~A right barrel of laughs.
+
+MUD3B_WPLN2_1 = ~z~So ~rp~we block the tracks with the wagon then jump 'em? ~rp~That's the plan?
+
+MUD3B_WPLN2_2 = ~z~Pretty much. ~rp~Charles, you deal with the engineer.
+
+MUD3B_WPLN2_3 = ~z~John,~rp~ secure the passenger car fast, ~rp~take charitable donations and ~rp~make sure everyone behaves.
+
+MUD3B_WPLN2_4 = ~z~Little Mr. Macguire, ~rp~you focus on the baggage car, ~rp~grab any valuables you can find.
+
+MUD3B_WPLN2_5 = ~z~And ~rp~shoot your mouth, ~rp~you'll get a bullet back.
+
+MUD3B_WPLN2_6 = ~z~So what are you doing?
+
+MUD3B_WPLN2_7 = ~z~I'll run point,~rp~ keep an eye out for outriders, and the law, ~rp~and help you three where I can.
+
+MUD3B_WPLN2_8 = ~z~Alright for some... ~rp~cherry picking, I call that...
+
+MUD3B_WPLN2_9 = ~z~We'll be out in the middle of nowhere, ~rp~so it'll take a while for any word to get to the law, but... ~rp~we should still move quick.
+
+MUD3B_WPLN2_10 = ~z~Aye, aye, Scar Face.
+
+MUD3B_WPLN2_11 = ~z~Oh, shut up, please...
+

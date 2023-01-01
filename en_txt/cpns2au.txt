@@ -1,0 +1,32 @@
+CPSN2_ACT_1 = ~z~Deep Blue Sea, Baby, Deep Blue Sea.
+
+CPSN2_ACT_2 = ~z~Deep Blue Sea, Baby, Deep Blue Sea.~n~~m~Deep Blue Sea, Baby, Deep Blue Sea.
+
+CPSN2_ACT_3 = ~z~Deep Blue Sea, Baby, Deep Blue Sea.~n~~m~Deep Blue Sea, Baby, Deep Blue Sea.
+
+CPSN2_ACT_4 = ~z~It was Willy what got drownded in the Deep Blue Sea.~n~~m~It was Willy what got drownded in the Deep Blue Sea.
+
+CPSN2_ACT_5 = ~z~Dig his grave with a silver spade.~n~~m~Dig his grave with a silver spade.
+
+CPSN2_ACT_6 = ~z~Dig his grave with a silver spade.~n~~m~Dig his grave with a silver spade.
+
+CPSN2_ACT_7 = ~z~Dig his grave with a silver spade.~n~~m~Dig his grave with a silver spade.
+
+CPSN2_ACT_8 = ~z~It was Willy what got drownded in the Deep Blue Sea.~n~~m~It was Willy what got drownded in the Deep Blue Sea.
+
+CPSN2_ACT_9 = ~z~Lower him down with a golden chain.~n~~m~Lower him down with a golden chain.
+
+CPSN2_ACT_10 = ~z~Lower him down with a golden chain.~n~~m~Lower him down with a golden chain.
+
+CPSN2_ACT_11 = ~z~Lower him down with a golden chain.~n~~m~Lower him down with a golden chain.
+
+CPSN2_ACT_12 = ~z~It was Willy what got drownded in the Deep Blue Sea.~n~~m~It was Willy what got drownded in the Deep Blue Sea.
+
+CPSN2_ACT_13 = ~z~Deep Blue Sea bring him back to me.~n~~m~Deep Blue Sea bring him back to me.
+
+CPSN2_ACT_14 = ~z~Deep Blue Sea bring him back to me.~n~~m~Deep Blue Sea bring him back to me.
+
+CPSN2_ACT_15 = ~z~Deep Blue Sea bring him back to me.~n~~m~Deep Blue Sea bring him back to me.
+
+CPSN2_ACT_16 = ~z~It was Willy what got drownded in the Deep Blue Sea.~n~~m~It was Willy what got drownded in the Deep Blue Sea.
+

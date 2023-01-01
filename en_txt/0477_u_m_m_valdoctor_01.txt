@@ -1,0 +1,300 @@
+0x00B7EF0D = ~z~Long as folks have ailments, I'll do well enough.
+
+0x0137A71D = ~z~That's how you get your kicks, huh? Shooting damn fools can't hardly hold a pistol much less use one?
+
+0x040EC71D = ~z~You cold-blooded maniac.
+
+0x047FC6FE = ~z~Fine, but you was this close to seeing my ugly side.
+
+0x04E3B564 = ~z~How can you live with yourself?
+
+0x052762C8 = ~z~Sure, sure... let me get my cash out.
+
+0x063B4F67 = ~z~Held myself back this time. Don't press me like that again.
+
+0x0A55EE55 = ~z~Help. Got a robber in here.
+
+0x0A474A3B = ~z~Hey there. Don't think I seen you in here before.
+
+0x0B8AA65F = ~z~You can't treat people like that.
+
+0x0F5FE612 = ~z~Wait. Think of the folk who need my help.
+
+0x1A4C552D = ~z~Alright, it's yours for Christ's sake.
+
+0x1C4BD146 = ~z~You sure do talk a load of bull, don't you?
+
+0x1C7D8B5A = ~z~Get the hell on out of here.
+
+0x1C890102 = ~z~Whoa. What the hell's the gun for?
+
+0x1CB2B25D = ~z~Get the hell away from me.
+
+0x1CFCD89D = ~z~Welcome.
+
+0x2B26F6E2 = ~z~Fine, take it, damn it.
+
+0x2BA85D11 = ~z~Hey, get out of here. Final warning!
+
+0x2C231890 = ~z~Watch it.
+
+0x2D06F7A5 = ~z~I heard you the first time.
+
+0x2E91C2B3 = ~z~You got what you wanted. Now get out of here.
+
+0x2FD6F1E9 = ~z~Real easy to take from folks. A lot harder to give something back.
+
+0x3B7AEFED = ~z~Away from me, goddammit.
+
+0x3B73C280 = ~z~Pretty bad. Truth is, when folks stay healthy, I go hungry.
+
+0x3C7C0801 = ~z~That is it. I'm going for the sheriff.
+
+0x3D5D0E15 = ~z~This ain't over.
+
+0x3D42BACF = ~z~Step careful.
+
+0x4B631951 = ~z~Okay, don't shoot. You'll get what you want.
+
+0x5AF6491D = ~z~No, no. Stop.
+
+0x5E4E5F6B = ~z~Okay then.
+
+0x5F2DD3D3 = ~z~Let me be.
+
+0x6E29C675 = ~z~Listen, friend, I ain't your mama, but now I gotta clean up after you, so please just get the hell out, okay?
+
+0x7CDA3232 = ~z~Ain't no medicine can fix what I'll do to you.
+
+0x7E77BAE8 = ~z~You ain't getting shit from me.
+
+0x7FBC92AD = ~z~Please don't.
+
+0x8A93E613 = ~z~Why are you doing this?
+
+0x8AD1DD92 = ~z~Hey. Put that damn gun down.
+
+0x9BC48A0B = ~z~You again? Knew I smelled liquor... Alright, have a seat, I'll be with you.
+
+0x9C4E1F50 = ~z~I hope you've left your troublesome ways behind you.
+
+0x9EB35613 = ~z~Somebody should wash that dirty mouth for you.
+
+0x10A39158 = ~z~I suppose you deserve a second chance. Don't make me regret it.
+
+0x19E1471E = ~z~This'll catch up to you real soon.
+
+0x19ECE986 = ~z~Howdy. New in town?
+
+0x35C42407 = ~z~You're gonna need more than a goddamn health cure when I'm done.
+
+0x35D4EACA = ~z~Okay, Okay. Go on and take what you want from the till.
+
+0x38F08A8F = ~z~You don't just insult a Calloway. You got any idea what that name means?
+
+0x52F1E62D = ~z~Well, excuse you.
+
+0x64CD353F = ~z~Dammit, I need a drink.
+
+0x74ADCD0D = ~z~You keep looking at me, something on your mind?
+
+0x77B7A658 = ~z~Least someone is. Well, he's in good hands, now. Go on, he'll be alright...
+
+0x80CC3BF2 = ~z~Shit. I'm hurrying, alright?
+
+0x93D73316 = ~z~Hey, always happy to give a local a friendly discount.
+
+0x97B7BB81 = ~z~The law will sort this out.
+
+0x97D8A6A8 = ~z~Hey, what in Sam Hill you doing here?
+
+0x191A57AC = ~z~Okay, you're done here. Head home.
+
+0x278B4E37 = ~z~Hey, alright. The register's right there, ok?
+
+0x319BFAF7 = ~z~Sir, gonna have to ask you to leave. I've got to take care of this... drunk.
+
+0x371D40AB = ~z~That's enough thought spent on you.
+
+0x411F67CE = ~z~What you waiting for? Go on, hightail it.
+
+0x415FDE8B = ~z~This calls for a lawman.
+
+0x513FF4DE = ~z~Damn it, get out.
+
+0x706E7634 = ~z~Just leave me alive, please.
+
+0x728B464D = ~z~Try not to bleed all over everything.
+
+0x735B2D77 = ~z~You'll be dead before you know it.
+
+0x968A98BD = ~z~You try and make an honest living...
+
+0x993BA797 = ~z~You just drift on after someone else, you hear?
+
+0x1208BCC0 = ~z~You want to get on the wrong side of the town's only doctor?
+
+0x1660D856 = ~z~I hope you hang.
+
+0x1705BCC9 = ~z~I ain't forgot you robbing from me. Long as you turned a new leaf, I'll let you back on a short leash.
+
+0x2399E202 = ~z~What the hell do you think you're doing. Get the hell out of here.
+
+0x2418E6D5 = ~z~Come on in there.
+
+0x2657DBF9 = ~z~Stop that rotten behavior.
+
+0x3329E930 = ~z~Get out of the way.
+
+0x5196A26D = ~z~Okay, okay. Take it, it's right there.
+
+0x44331DBE = ~z~Do what you want, but let me live.
+
+0x70251E43 = ~z~I got nothing, damn it.
+
+0x74028CD0 = ~z~Whoa, you can't do that.
+
+0x138074FE = ~z~Right, right, I'll forget it ever happened.
+
+0x5632591E = ~z~Look who's back.
+
+0x7602017B = ~z~I ain't taking this from you
+
+0x8259297D = ~z~Hey, don't do that.
+
+0x8584971B = ~z~Damn it, this is one for the law.
+
+0x9334923F = ~z~Come on. You want the money, I know it.
+
+0x46872069 = ~z~You'll pay, damn you.
+
+0x85120712 = ~z~You've been on the run before now, haven't you? Well, stick to business, you're okay with me.
+
+0x86170325 = ~z~Hey, you shouldn't be here.
+
+0x96746742 = ~z~Come on. You ain't making this any easier.
+
+0xA01BF8B5 = ~z~I'll pound you flat, don't you test me.
+
+0xA40092D9 = ~z~I can handle the likes of you myself.
+
+0xAA501BF4 = ~z~Wait, think of the folk who need my help.
+
+0xB05372E0 = ~z~You rob a doctor, that's a reputation you don't shift.
+
+0xB5A73626 = ~z~Thought you could rob from a Calloway?
+
+0xB5D36894 = ~z~Sheriff Malloy's warned us about you. I'll sell to you, but don't track trouble in here.
+
+0xB24C2469 = ~z~Is this your work?
+
+0xB40E14D0 = ~z~Ah, welcome back.
+
+0xB71BCB0D = ~z~You hear me? Stop that now.
+
+0xB78D8954 = ~z~Whoa, don't threaten me.
+
+0xB246709E = ~z~Alright, I'm getting the law.
+
+0xBA785678 = ~z~Listen, you think real careful about what you're doing.
+
+0xBC709BAA = ~z~Alright.
+
+0xBD7F4D75 = ~z~You ain't wasting no more of my time.
+
+0xBD1160D6 = ~z~Better not see you getting up to more trouble around here.
+
+0xBDFD81EB = ~z~Whoa. You can't do that to people.
+
+0xBE85CB06 = ~z~Fine, I just don't want any trouble.
+
+0xBF88CA98 = ~z~It's been slow going. Could be I'm just too good at healing folks, heh.
+
+0xC1FAEFCB = ~z~Come on, you want the money, I know it.
+
+0xC4DA5A9F = ~z~Won't you please stop?
+
+0xC4EB49AB = ~z~Did you do this?
+
+0xC80D358B = ~z~That's enough of you. Get on out of here.
+
+0xC558E787 = ~z~Quit it, I mean it.
+
+0xC5409FD7 = ~z~Please, don't kill me.
+
+0xC8307C08 = ~z~Dammit, I need a drink...
+
+0xCA84143E = ~z~Hey, alright. The register's right there, okay?
+
+0xD7D8B39D = ~z~You may be a dirty, rotten thug for what you did to me, but I'll still take your dirty, rotten money. Just watch it.
+
+0xD8DD9F55 = ~z~Business is just fine. Been a run on tonics lately.
+
+0xD624F7D0 = ~z~None too good, some folk been spreading rumors about my medical credentials again.
+
+0xDA03352D = ~z~Ah, to hell with you.
+
+0xDB6E9087 = ~z~Help. Got me a robber here.
+
+0xDCD6AAA5 = ~z~You no-account scoundrel.
+
+0xDFC9187C = ~z~Sorry, no customers right now. I got a patient here.
+
+0xE1E79C49 = ~z~Okay, just let me pop it open here...
+
+0xE9DA82A0 = ~z~Maybe you both will.
+
+0xE15C6829 = ~z~Now you've gone and done it. Time to leave.
+
+0xE35DD89B = ~z~Look, this is the only thing I got of value.
+
+0xE58D5681 = ~z~You stay around in these parts, yeah? You get my special local rate.
+
+0xE63AADFC = ~z~You got me figured wrong. This is a big mistake.
+
+0xE2374CAB = ~z~You mind? I could use some space.
+
+0xEA136E5F = ~z~No, I won't be bullied by the likes of you.
+
+0xEAB61C2F = ~z~Ain't cure for a goddamn bullet, now back down.
+
+0xEB82D82C = ~z~Know what? I'm not standing for this.
+
+0xEB9729A0 = ~z~Guess I'll just pretend you ain't here.
+
+0xED36212F = ~z~I'm serious here, are you?
+
+0xEDDF3568 = ~z~Hey, help me. There's a thief.
+
+0xEEF94B90 = ~z~Plenty of folks in need of patching up, these days.
+
+0xEFCC6588 = ~z~Hey. You leave folks in peace.
+
+0xF1DB22B6 = ~z~You'll see justice for that.
+
+0xF5E40697 = ~z~Disgusting idea of a joke. Get lost.
+
+0xF6FDC675 = ~z~Alright, whatever you say. I'll open it right up.
+
+0xF40B2F69 = ~z~Don't, please. People need my shop.
+
+0xF47C7135 = ~z~Hey, I need some room to breathe here.
+
+0xF53A880D = ~z~Um, yes, hello again, I suppose.
+
+0xF82A49FE = ~z~I need help. Getting robbed.
+
+0xF96F0853 = ~z~Leave me in peace.
+
+0xF5361609 = ~z~I'm trying to help people here, damn you.
+
+0xF6785897 = ~z~Christ, now to clean up...
+
+0xFA96144C = ~z~That a threat? Oh, I don't need this. I'm getting the sheriff.
+
+0xFDB08D9D = ~z~I used to be like you. Then I decided to help folk.
+
+0xFED544FD = ~z~Steal from a doctor? That's damn low.
+
+0xFEEE6DEE = ~z~Well, I don't exactly trust you, but I'll let you prove me wrong.
+

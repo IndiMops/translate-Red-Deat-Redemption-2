@@ -1,0 +1,10 @@
+REDD_VHT_CNV_1 = ~z~Hey, I know you. You took up Jim Lucas in that duel.
+
+REDD_VHT_CNV_A_1 = ~z~Didn't tell me his name. Yeah? What of it?
+
+REDD_VHT_CNV_B_1 = ~z~You know Jim was one of the finest shots I ever saw. That was 'til the drink got him.
+
+REDD_VHT_CNV_B_2 = ~z~He'd earned it after what he saw, but, still. Sad to see... He got worse'n he deserved.
+
+REDD_VHT_CNV_J_1 = ~z~Didn't tell me his name. Yeah? What of it?
+

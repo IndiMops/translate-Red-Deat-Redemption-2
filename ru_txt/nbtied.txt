@@ -1,0 +1,6 @@
+NB_NBTIED_BLIP_NAME_ENE = Враг
+
+NB_NBTIED_BLIP_NAME_STR = Незнакомый человек
+
+NB_NBTIED_INTERACT_CUT = Освободить
+

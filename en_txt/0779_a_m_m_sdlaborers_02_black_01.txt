@@ -1,0 +1,256 @@
+0x008BA235 = ~z~That'll do it! Now, quick, shoot the lock, or pick it open.
+
+0x015C47E3 = ~z~I sweated blood for that.
+
+0x01C17227 = ~z~Please. I'm a honest man.
+
+0x0256612F = ~z~Well I hope you enjoy watching a man suffer.
+
+0x03715E0C = ~z~Look out.
+
+0x074EE04A = ~z~So long.
+
+0x075ACC29 = ~z~La la la... get my... money right...
+
+0x0917B613 = ~z~My pockets is empty.
+
+0x0B5502B2 = ~z~What y'all following me for?
+
+0x0EF0EC0F = ~z~~sl:0.0:2.2~Overheard a feller up in jail talking about some~sl:0.0:1.9~big money farmhouse up north of Rhodes.~sl:0.3:3.3~Heard they got some money. Heard some other stuff, too...~sl:0.3~not too savory...
+
+0x1AB85329 = ~z~Come on, please, you can't leave us in here!
+
+0x1CED544D = ~z~~sl:0.0:4.1~You get any closer... I might have to just...~sl:0.9~give you a kiss.
+
+0x1D6376B1 = ~z~Was this y'all?
+
+0x1DEAFAFD = ~z~~sl:1.5:1.8:1~Any... little thing at all for me?
+
+0x1E8ADFB6 = ~z~Help us please! We was set up, honest.
+
+0x1E128E63 = ~z~You ain't supposed to be here.
+
+0x1FB1EC61 = ~z~You better be ready to use that.
+
+0x2BF04688 = ~z~C'mon. I'm a working man.
+
+0x2E363619 = ~z~I'll make short work of you if I got to.
+
+0x2F775C87 = ~z~I will put a hole in your head if I have to.
+
+0x3C7100D8 = ~z~What in the-
+
+0x3D9EDFF6 = ~z~Hurry the lock before anymore show up, please.
+
+0x3EA1CD18 = ~z~For sure.
+
+0x3FCDB80B = ~z~All of them, all of them did it!
+
+0x4AC597DC = ~z~What do I do?
+
+0x4BA390D0 = ~z~Hey, we're already stuck in a cage.
+
+0x4EB2A55B = ~z~Hell no!
+
+0x4FAEF19B = ~z~What you doing here?
+
+0x5F3F7927 = ~z~You don't know how close you came.
+
+0x6A727CED = ~z~~sl:0.6:3.3:1~I lost my money playing poker...
+
+0x6CF0D90F = ~z~La la la... wouldn't that be a... a sight?
+
+0x6D207260 = ~z~What you up to?
+
+0x6EB11D5B = ~z~Alright.
+
+0x7A3625E6 = ~z~I don't have no money, clearly, but maybe I know something of interest.
+
+0x7D2B4A85 = ~z~The great earth's tilting...
+
+0x8C6CE908 = ~z~I'm thoroughly... medicated.
+
+0x8C29CEA1 = ~z~Let's get some police over here.
+
+0x8CDE89F6 = ~z~Man, oh man.
+
+0x8DDE6056 = ~z~I can take a whipping alright.
+
+0x8DF3405E = ~z~~sl:0.0:4.2:1~Hey! Will you help... a feller out?
+
+0x8E88557F = ~z~Lying, rotten, sons of bitches!
+
+0x9E219D88 = ~z~Leave me be!
+
+0x11ACFA83 = ~z~Watch yo'self
+
+0x15A699F5 = ~z~C'mon. I'm a working man.
+
+0x22DC3A93 = ~z~Whatever then, screw you. Guess I'll just get comfortable.
+
+0x25CAB85C = ~z~~sl:0.0:2.1~I know you got a coin.~sl:0.6~You just being playsome.
+
+0x32E2A099 = ~z~~sl:0.0:7.4:1~You'll get... yours one day! Mark my words...
+
+0x34BC2562 = ~z~You do this?
+
+0x35E1C717 = ~z~Your momma'd be ashamed of you.
+
+0x45A439ED = ~z~You better hope you quick.
+
+0x50C50D67 = ~z~~sl:0.0:3.0~Back in the day I knew a feller went out to this shack north of Rhodes~sl:0.0:1.9~when he was hard up with some dangerous work.~sl:0.2~Apparently there's a gathering spot for those types...
+
+0x54E9D9EB = ~z~Come on, let's get out of here.
+
+0x58A776A2 = ~z~La la la la... grabbing life, taking a bite, hey...
+
+0x80D7DB53 = ~z~You going asking for this?
+
+0x88E2D192 = ~z~~sl:0.0:2.4~Come on, please?~sl:3.0:2.2:1~Look at me...
+
+0x199D6BDB = ~z~Say what now?
+
+0x347ED976 = ~z~You're the only one that weren't... cruel to me.
+
+0x602C84F3 = ~z~What you trying to prove?
+
+0x863EA0C7 = ~z~You made your point.
+
+0x993B50C8 = ~z~Thank you for that, friend.
+
+0x5420A83C = ~z~~sl:2.4~I want you to have it.
+
+0x6795DC67 = ~z~This ain't fair!
+
+0x6904C9A2 = ~z~La la la la... 'I can't get the honey all night...
+
+0x7064A519 = ~z~Hey, you there! Get us out of here.
+
+0x9701DD61 = ~z~This here a thoroughfare.
+
+0x32021C74 = ~z~They took all my money!
+
+0x55879B4D = ~z~
+
+0x72832A27 = ~z~That's a weeks work and then some.
+
+0x93157FCE = ~z~I ain't fronting. Come on.
+
+0x54254013 = ~z~~sl:2.3:1.4:1~Sumbitch.
+
+0x87321373 = ~z~~sl:0.0:2.3~I know where a good game is.~sl:1.2:1.9~Above the gunsmith...~sl:3.9~Real... hush hush...
+
+0xA0C13895 = ~z~~sl:0.0:2.7~You! I'll show you.~sl:0.5~I'll kick you for that.
+
+0xA4EC8C0B = ~z~No more funny business okay.
+
+0xA6B8C085 = ~z~You're no good.
+
+0xA23F91BA = ~z~Enough.
+
+0xA28CAE34 = ~z~Why you up in my business?
+
+0xA190365F = ~z~~sl:1.2~I want you to have it.
+
+0xA372123D = ~z~You going tussle with me? C'mon.
+
+0xAA8B8DCA = ~z~I got business to attend to.
+
+0xAE3CB3A8 = ~z~Easy now.
+
+0xAFB89C82 = ~z~~sl:0.0:2.2~I wish I could give you some funds to help with your...~sl:0.4:1.1~how you're doing...~sl:0.8~but I might know something valuable.
+
+0xB2A01A11 = ~z~Go on. Scram.
+
+0xB3DF10CD = ~z~Nice going.
+
+0xB5D43C26 = ~z~Fine. None of my business anyway.
+
+0xC05E3196 = ~z~~sl:0.0:1.5~Hear about the gunsmith in Rhodes?~sl:0.4:2.3~He's got some bad business going on in his basement.~sl:0.6~Least, that's the word...
+
+0xC1BAA08E = ~z~I ain't worth shit! Let me free.
+
+0xC4AA4E84 = ~z~This is all I got of any value.
+
+0xC6C2FDCF = ~z~~sl:0.0:2.3~You see... something up there?~sl:0.6~Something look like money?
+
+0xC9A9F49C = ~z~Don't trifle with me!
+
+0xC49D37D1 = ~z~I can't stand over here and watch this.
+
+0xC402D883 = ~z~Hey, I don't wanna stick my nose in your business no how.
+
+0xC525CE25 = ~z~Grippey son of a bitch.
+
+0xC1249F62 = ~z~I ain't done nothing to deserve this.
+
+0xCAD5D5DE = ~z~No... I don't... feel so good...
+
+0xCC2232B8 = ~z~You see... something... funny?
+
+0xCD4706F8 = ~z~Why you doing this?
+
+0xD0131CC7 = ~z~Listen. You have to take this.
+
+0xD7D4F1DB = ~z~Don't cause no more problems alright.
+
+0xD9AA0C77 = ~z~~sl:3.8:1.8:1~Just some coins to rub?
+
+0xD26ED374 = ~z~You gone too far.
+
+0xD80D916B = ~z~Leave me be.
+
+0xD313FA13 = ~z~Oh boy, it's a show!
+
+0xD661D3E4 = ~z~~sl:0.0:3.7~Once... once I had a good life.~sl:0.4:6.4:1~Don't you make no deals... with the devil. You hear?
+
+0xD27253BF = ~z~I'm straight to kill you dead.
+
+0xD6526175 = ~z~Get outta here.
+
+0xDA137F7F = ~z~We tussling then?
+
+0xDB3A5A61 = ~z~You can't get blood from a stone.
+
+0xDB35C2A0 = ~z~I don't got nothing no.
+
+0xDBF72B01 = ~z~You nasty.
+
+0xDC064C55 = ~z~Y'all can cut that out.
+
+0xDEB40AA6 = ~z~Enough already.
+
+0xE36A3579 = ~z~Please. I'm a honest man.
+
+0xE42BF732 = ~z~I ain't playing. I'll do this.
+
+0xE369392E = ~z~No, stop that.
+
+0xEBCF63CF = ~z~I look like I got anything?
+
+0xEC17F049 = ~z~Hey, what's going on here?
+
+0xED1E4352 = ~z~This too close for comfort.
+
+0xED23BB97 = ~z~Don't trifle with me.
+
+0xED676229 = ~z~Why you looking at me?
+
+0xEDF308E4 = ~z~Don't you draw that thing on me.
+
+0xEE6AB0B7 = ~z~~sl:0.0:2.8~Rumor's the gunsmith in Saint Denis has a hidden gambling room.~sl:0.4~Might be a good play for someone with your skills...
+
+0xEF6A9521 = ~z~I'm getting the police
+
+0xEF6F7BF7 = ~z~Untie these ropes!
+
+0xF0ED25B3 = ~z~Keep yo grippe to yo self.
+
+0xF72905D4 = ~z~~sl:0.0:0.8~Come on.~sl:2.0:2.2:1~I know you got some money.
+
+0xFA582254 = ~z~~sl:0.0:2.1~You finer than a good whiskey!~sl:2.5~Got any money?
+
+0xFE0CCDC6 = ~z~Be seeing you.
+
+0xFECC3639 = ~z~Am I hearing right?
+

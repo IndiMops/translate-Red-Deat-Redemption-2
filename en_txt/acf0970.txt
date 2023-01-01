@@ -1,0 +1,40 @@
+ACF_AB_BCH_NEG_1 = ~z~You got a problem with women or something?
+
+ACF_AB_BCH_POS_1 = ~z~I see how you like 'em too, friend.
+
+ACF_A_1 = ~z~Me neither... got my eye on one, though.
+
+ACF_A_2 = ~z~I was hunting north of Annesburg when I came across this cabin.
+
+ACF_A_3 = ~z~And there's no one there but this woman, bit bony but beautiful as the day is long.
+
+ACF_A_4 = ~z~Real elegant fancy type too...
+
+ACF_BC_BCH_NEG_1 = ~z~I won't tell you then, if that's how you wanna be, if ladies ain't your thing.
+
+ACF_BC_BCH_POS_1 = ~z~I think this is a place I could really hang my saddle.
+
+ACF_BC_BCH_POS_2 = ~z~A hot dinner and warm bed every night.
+
+ACF_BC_BCH_POS_3 = ~z~Mmm, don't sound bad to me at all.
+
+ACF_B_1 = ~z~Don't know what she's doing out there in the middle of nowhere, but turns out she's a widow...
+
+ACF_B_2 = ~z~She asked me to leave, but in a real nice way, m-made me feel good.
+
+ACF_B_3 = ~z~I watched her from the bushes for a while, saw her cry...
+
+ACF_CALL_1 = ~z~Hey there, friend. Wanna take the weight off? Fire's good and hot.
+
+ACF_EXIT_DAY_1 = ~z~Alright, I need to cool down a bit...
+
+ACF_INTRO_1 = ~z~So you got a girl, mister?
+
+ACF_INTRO_NEG_1 = ~z~Huh? What's it to you?
+
+ACF_INTRO_NEG_J_1 = ~z~Huh? What's it to you?
+
+ACF_INTRO_POS_1 = ~z~Eh... not anymore.
+
+ACF_INTRO_POS_J_1 = ~z~~sl:1.0~I wouldn't call her a girl...
+

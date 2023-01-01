@@ -1,0 +1,150 @@
+0x001A4673 = ~z~Stop, stop, you got the wrong idea here.
+
+0x039BE513 = ~z~Not seen you before. Who told you about me?
+
+0x080235BB = ~z~Mr. Wegner. There's a lunatic on the ranch.
+
+0x1CAC2A48 = ~z~Dammit, fine. Money's right over there.
+
+0x2B7547DA = ~z~Okay, all yours, it's right over there.
+
+0x3ABCBBB7 = ~z~Stop, stop. You got the wrong idea here.
+
+0x3AD8BA8F = ~z~Hell with it, come here.
+
+0x3CF5E6FC = ~z~S'going fine.
+
+0x4F71F972 = ~z~Get set for some country justice, you piece of shit.
+
+0x6A530D9B = ~z~You win, you win, just take everything.
+
+0x6E89D660 = ~z~I got a long memory.
+
+0x7D4F0A15 = ~z~You're back.
+
+0x8F160F1E = ~z~Okay, all yours. It's right over there.
+
+0x9D57ABA1 = ~z~Ah, hell. Go on, money's just there.
+
+0x12C49ED7 = ~z~Yeah, get used to running.
+
+0x20C7D4C7 = ~z~Trading?
+
+0x20D33AF4 = ~z~Your name is gonna be mud with everyone I know.
+
+0x41B85DFF = ~z~You'll get what's coming now.
+
+0x53BD3AB1 = ~z~Buying or selling?
+
+0x58B2543D = ~z~It'd be a lot faster if I wasn't shitting in my britches, jackass.
+
+0x58BD5730 = ~z~Help. Got a damn thief over here.
+
+0x59CF1F6C = ~z~We poorer than the dirt we standing on.
+
+0x61ACE238 = ~z~Don't you so much as look at me funny this time.
+
+0x70FE89A1 = ~z~Aha, my little thief. Keep them hands where I can see 'em, huh?
+
+0x73EF86BD = ~z~I still got bruises, you know. Lucky I went easy on you.
+
+0x74C2AE62 = ~z~You know what? The hell with you.
+
+0x86FC30D8 = ~z~I look like I'm dawdling? Shit...
+
+0x87F943BE = ~z~Well? You got what you came for.
+
+0x89DC2A7F = ~z~You about as funny as the flux, jackass. Get lost.
+
+0x98FC31C9 = ~z~Keep it at a simmer round here now, okay?
+
+0x237B8409 = ~z~I won't forget this.
+
+0x454A9DCC = ~z~Hello.
+
+0x514F5FB0 = ~z~Some thief, robbing your own damn fence...
+
+0x522D616C = ~z~I got friends... Watch your back.
+
+0x723ED56C = ~z~Dammit. Fine, money's right over there.
+
+0x892F573B = ~z~You know what, the hell with you.
+
+0x6317D5A7 = ~z~Hello again.
+
+0x8577ACD6 = ~z~Don't do it. I'm giving you the damn money.
+
+0x8806FBDB = ~z~Ain't no one said ranching was easy.
+
+0x9542A974 = ~z~Take it easy, I ain't dying for this.
+
+0x9671F1C0 = ~z~Hell with it, c'mere.
+
+0x300207A9 = ~z~If it ain't old molasses fingers... sticky bastard. Behave.
+
+0x565772EC = ~z~Shit, I knew I shouldn't've trusted you.
+
+0x789607F3 = ~z~Have you lost your damn mind? Get out of here.
+
+0x82773745 = ~z~What are you waiting for? Take the damn money.
+
+0xA7814DF1 = ~z~Okay, whatever you want.
+
+0xB7AA6928 = ~z~Local, huh? I'll cut a rate for you.
+
+0xB56B9EA2 = ~z~That's it. We're done here?
+
+0xB7660B5C = ~z~Now all I need is Wegner finding out...
+
+0xC6B1A9F3 = ~z~Next time I'm gonna shoot first...
+
+0xC103BAFB = ~z~Please, just leave me my life, alright?
+
+0xCC151C58 = ~z~You're gonna regret this.
+
+0xCCDC070E = ~z~I don't trust you, but I don't wanna stir the pot no more neither. Quits?
+
+0xCD40076A = ~z~Nothing to talk about. S'fine.
+
+0xCEBDD66F = ~z~Leave me alive, and you take whatever you damn well please.
+
+0xCFF39FD7 = ~z~No more trouble out of you, alright?
+
+0xD7032D1C = ~z~Take it easy. I ain't dying for this.
+
+0xDB093500 = ~z~Alright, stay calm, you can have it.
+
+0xDCD21434 = ~z~You're in the shit now.
+
+0xDD2F56EE = ~z~Should've never let my guard down.
+
+0xE485D2B9 = ~z~Had a bit of heat under you, ain't ya? Yeah, I hear things...
+
+0xE541C999 = ~z~Alright, stay calm. You can have it.
+
+0xE4748F28 = ~z~Don't, alright? I-I need this.
+
+0xEA678DC2 = ~z~You win, you win. Just take everything.
+
+0xED35FD4A = ~z~Be a lot faster if I wasn't shitting in my britches, jackass.
+
+0xF062DFF4 = ~z~You pull that trigger, you'll never make it off our land alive.
+
+0xF2E15F99 = ~z~From these parts, I see. I'll see what I can do for you.
+
+0xF5B79126 = ~z~Help me. Some crazy thief is after me.
+
+0xF579C8CF = ~z~New face, I don't trust new faces an inch.
+
+0xF9975F62 = ~z~Telling you, something's gotta give round here.
+
+0xF6327612 = ~z~Law taken an interest in you before now, ain't they?
+
+0xFBE7FBFD = ~z~You're gonna have to go through me.
+
+0xFC0BE56D = ~z~I ain't much of a one for second chance, so don't mess this one up.
+
+0xFE257B79 = ~z~You ain't the first to stick your neck out like this, you know...
+
+0xFF1B6B20 = ~z~Why? Fine, same as ever.
+

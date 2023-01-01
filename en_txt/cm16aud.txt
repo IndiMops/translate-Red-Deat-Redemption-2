@@ -1,0 +1,14 @@
+CCMC_A_1 = ~z~I shot a lot of folk like you.
+
+CCMC_A_2 = ~z~What you mean, "folk like me"?
+
+CCMC_A_3 = ~z~Oh... you know... cowards.
+
+CCMC_A_4 = ~z~
+
+CCMC_A_5 = ~z~
+
+CCMC_B_1 = ~z~You wanna get shot too, Morgan?
+
+CCMC_B_2 = ~z~I've seen you in action. From that range, you'd miss.
+

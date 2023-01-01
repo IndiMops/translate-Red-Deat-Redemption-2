@@ -1,0 +1,48 @@
+0xAF23C439 = Brawl with the rival moonshiners.
+
+FETCH_MOONSHINE_BRAWLING_HELP_HONOR_KILL = A moonshiner was killed.
+
+FETCH_MOONSHINE_BRAWLING_HELP_HONOR_WARNING = Brawl with and do not kill the rival moonshiners.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_ARMADILLO = Deal with but do not kill the rival moonshiners at the ~COLOR_MP_OBJECTIVE~Armadillo Saloon~s~ to benefit your Moonshine Operation.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_BLACKWATER = Deal with but do not kill the rival moonshiners at the ~COLOR_MP_OBJECTIVE~Blackwater Saloon~s~ to benefit your Moonshine Operation.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_PLAYER_ARMADILLO = Deal with but do not kill the rival moonshiners at the ~COLOR_MP_OBJECTIVE~Armadillo Saloon~s~ to benefit ~1~'s Moonshine Operation.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_PLAYER_BLACKWATER = Deal with but do not kill the rival moonshiners at the ~COLOR_MP_OBJECTIVE~Blackwater Saloon~s~ to benefit ~1~'s Moonshine Operation.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_PLAYER_RHODES = Deal with but do not kill the rival moonshiners at the ~COLOR_MP_OBJECTIVE~Rhodes Parlour House~s~ to benefit ~1~'s Moonshine Operation.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_PLAYER_SAINT_DENIS = Deal with but do not kill the rival moonshiners at the ~COLOR_MP_OBJECTIVE~Bastille Saloon~s~ to benefit ~1~'s Moonshine Operation.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_PLAYER_TUMBLEWEED = Deal with but do not kill the rival moonshiners at the ~COLOR_MP_OBJECTIVE~Tumbleweed Saloon~s~ to benefit ~1~'s Moonshine Operation.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_PLAYER_VALENTINE = Deal with but do not kill the rival moonshiners at ~COLOR_MP_OBJECTIVE~Smithfields Saloon~s~ to benefit ~1~'s Moonshine Operation.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_PLAYER_VAN_HORN = Deal with but do not kill the rival moonshiners at the ~COLOR_MP_OBJECTIVE~Old Light Saloon~s~ to benefit ~1~'s Moonshine Operation.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_RHODES = Deal with but do not kill the rival moonshiners at the ~COLOR_MP_OBJECTIVE~Rhodes Parlour House~s~ to benefit your Moonshine Operation.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_SAINT_DENIS = Deal with but do not kill the rival moonshiners at the ~COLOR_MP_OBJECTIVE~Bastille Saloon~s~ to benefit your Moonshine Operation.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_TUMBLEWEED = Deal with but do not kill the rival moonshiners at the ~COLOR_MP_OBJECTIVE~Tumbleweed Saloon~s~ to benefit your Moonshine Operation.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_VALENTINE = Deal with but do not kill the rival moonshiners at ~COLOR_MP_OBJECTIVE~Smithfields Saloon~s~ to benefit your Moonshine Operation.
+
+FETCH_MOONSHINE_BRAWLING_HELP_INTRO_VAN_HORN = Deal with but do not kill the rival moonshiners at the ~COLOR_MP_OBJECTIVE~Old Light Saloon~s~ to benefit your Moonshine Operation.
+
+FETCH_MOONSHINE_BRAWLING_OBJ_DESTROY = Brawl with the ~COLOR_ENEMY~rival moonshiners~s~
+
+FETCH_MOONSHINE_BRAWLING_OBJ_GOTO = Go ~1~
+
+FETCH_MOONSHINE_BRAWLING_OBJ_KILL_ATTACKERS = Take out the ~COLOR_ENEMY~leader~s~
+
+FETCH_MOONSHINE_BRAWLING_SHARD_DESC_PRIMARY = Brawl with the rival moonshiners
+
+FETCH_MOONSHINE_BRAWLING_SHARD_FAIL_ENTITY_KILLED = Too many rivals were killed
+
+FETCH_MOONSHINE_BRAWLING_SHARD_OVER_ABANDON = Timer expired
+
+FETCH_MOONSHINE_BRAWLING_SHARD_PRIMARY_PASS = Rival moonshiners were knocked out
+

@@ -1,0 +1,14 @@
+CCDG8_ACT_1 = ~z~Cain... Cain... Cain, where are you?
+
+CCDG8_ACT_2 = ~z~Hey kid... the dog is gone. You can be quiet now.
+
+CCDG8_ACT_3 = ~z~He'll... he'll come back. Cain... Cain!
+
+CCDG8_ACT_4 = ~z~Come here... come here, Jack.
+
+CCDG8_ACT_5 = ~z~The dog ain't coming back... now, get lost!
+
+CCDG8_ACT_6 = ~z~
+
+CCDG8_ACT_7 = ~z~Oh.
+

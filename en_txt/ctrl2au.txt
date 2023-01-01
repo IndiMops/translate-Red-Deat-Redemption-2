@@ -1,0 +1,26 @@
+CTRL2_ACTION_1 = ~z~Mr. Bell.
+
+CTRL2_ACTION_2 = ~z~Oh look, it's the "children's entertainer".
+
+CTRL2_ACTION_3 = ~z~And what is your job? To eat the children?
+
+CTRL2_ACTION_4 = ~z~
+
+CTRL2_ACTION_5 = ~z~You're a rat, my friend... I know it... you keep turning up here, bringing trouble.
+
+CTRL2_ACTION_6 = ~z~A rat?
+
+CTRL2_ACTION_7 = ~z~A rat or a... snake.
+
+CTRL2_ACTION_8 = ~z~A snake? In that case...
+
+CTRL2_ACTION_9 = ~z~I'm in your hat.
+
+CTRL2_ACTION_10 = ~z~
+
+CTRL2_ACTION_11 = ~z~They look for quiet, empty places to rest in, you know.
+
+CTRL2_ACTION_12 = ~z~
+
+CTRL2_ACTION_13 = ~z~Fool.
+

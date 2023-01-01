@@ -1,0 +1,16 @@
+REDD_CNV_APOS_1 = ~z~Who?
+
+REDD_CNV_A_1 = ~z~Well, looks like Reginald didn't get you.
+
+REDD_CNV_B_1 = ~z~Reginald Lewis. That whiskey rag challenged you to a duel just there.
+
+REDD_CNV_B_2 = ~z~That man's challenging every gunbelt so much as looks at him sideways.
+
+REDD_CNV_B_3 = ~z~Most people don't give him the satisfaction, but I guess you knew your odds. Serves him right.
+
+REDD_CNV_C_1 = ~z~A word of note, though. His cousin is real tore up about what you did.
+
+REDD_CNV_C_2 = ~z~She's been hollering for you.
+
+REDD_CNV_JPOS_1 = ~z~Who?
+

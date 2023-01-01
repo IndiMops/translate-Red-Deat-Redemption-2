@@ -1,0 +1,48 @@
+0x3FE952A1 = ~COLOR_RED~1 Point~s~
+
+0xCE8C8CC5 = ~COLOR_RED~~1~ Points~s~
+
+FME_WP_1PT = 1 Point
+
+FME_WP_COOLDOWN = You have to wait for the cooldown period to be over to take more photos.
+
+FME_WP_DESC = Take photos of wild animals to score points and win. Better quality photos will earn you more points.
+
+FME_WP_DESC_2 = Photo quality is based on factors like species of animal, proximity and composition. Photos of the same animal will result in a lower score.
+
+FME_WP_DESC_3 = The player with the highest scoring photo will be awarded an additional prize.
+
+FME_WP_DESC_4 = An Advanced Camera has been temporarily added to your inventory. Press ~INPUT_TOGGLE_HOLSTER~ or hold ~INPUT_OPEN_WHEEL_MENU~ to equip it from the Item Wheel and begin taking photos.
+
+FME_WP_HELP_EQUIP = Press ~INPUT_TOGGLE_HOLSTER~ or hold ~INPUT_OPEN_WHEEL_MENU~ to open the Item Wheel to equip the Advanced Camera to begin taking photos.
+
+FME_WP_LOSER_OUTRO = Got the highest score of ~1~ Points
+
+FME_WP_MAX_PHOTOS = You have taken the maximum number of photos for this animal. Any subsequent photos you take will only reward 1 point.
+
+FME_WP_OBJ_TAKE_PHOTO = Photograph the animals
+
+FME_WP_PTS = ~1~ Points
+
+FME_WP_RET_PHOTOGENIC = Photogenic +~1~
+
+FME_WP_SHARD_COMDIS = Combat Disabled
+
+FME_WP_SHARD_COOLDOWN = Camera ready in 10 seconds
+
+FME_WP_SHARD_OBJECTIVE = Take the best photographs of animals to earn points
+
+FME_WP_TICKER_1PT = ~1p~ scored 1 point
+
+FME_WP_TICKER_PTS = ~1p~ scored ~2~ points
+
+FME_WP_TICKER_PTS_R = ~1p~ ~COLOR_RED~scored ~2~ points~s~
+
+FME_WP_WINNER_OUTRO = You gained a score of ~1~ Points
+
+FM_WP_LEADERBOARD_BEST_PHOTO = Best Photo
+
+FM_WP_LEADERBOARD_PHOTOS_TAKEN = Photos Taken
+
+FM_WP_LEADERBOARD_POINTS = Points
+

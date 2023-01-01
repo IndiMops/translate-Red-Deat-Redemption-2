@@ -1,0 +1,202 @@
+0x7BD13D45 = ~1p~ has left the table.
+
+0x3825829A = Take your turn
+
+MGBLK_CTX_ALTER = Amount
+
+MGBLK_CTX_BUYIN = Buy-in (~1$~)
+
+MGBLK_CTX_DBLDOWN = Double Down
+
+MGBLK_CTX_DEALERCAM = Dealer's cards
+
+MGBLK_CTX_DECLINE = Decline
+
+MGBLK_CTX_FREE_LOOK = Camera
+
+MGBLK_CTX_HIT = Hit
+
+MGBLK_CTX_HOLECAM = Your cards
+
+MGBLK_CTX_PLACE_BET = Place Bet (~1$~)
+
+MGBLK_CTX_PLACE_INS = Place Insurance Bet (~1$~)
+
+MGBLK_CTX_SPLIT = Split
+
+MGBLK_CTX_STAND = Stand
+
+MGBLK_INFO_BET = Bet ~1$~
+
+MGBLK_INFO_BET_INS = Bet ~1$~ and ~2$~ insurance
+
+MGBLK_INFO_BJK = Blackjack
+
+MGBLK_INFO_CONCAT = ~1p~ and ~2p~
+
+MGBLK_INFO_PAYOUT_LOSS = Lost ~1$~
+
+MGBLK_INFO_PAYOUT_LOSS_LCASE = lost ~1$~
+
+MGBLK_INFO_PAYOUT_PUSH = Pushed
+
+MGBLK_INFO_PAYOUT_PUSH_LCASE = pushed
+
+MGBLK_INFO_PAYOUT_WIN = Won ~1$~
+
+MGBLK_INFO_PAYOUT_WIN_INSURANCE_LOSS = Lost ~1$~, and won ~2$~ from insurance
+
+MGBLK_INFO_PAYOUT_WIN_INSURANCE_PUSH = Pushed, and won ~1$~ from insurance
+
+MGBLK_INFO_PAYOUT_WIN_LCASE = won ~1$~
+
+MGBLK_INFO_RESULT_BUST = Bust with ~1~
+
+MGBLK_INFO_RESULT_BUST_LCASE = bust with ~1~
+
+MGBLK_INFO_RESULT_CHARLIE = 7-Card charlie
+
+MGBLK_INFO_RESULT_CHARLIE_LCASE = 7-card charlie
+
+MGBLK_INFO_RESULT_DOUBLE = Doubled down ~1~
+
+MGBLK_INFO_RESULT_DOUBLE_LCASE = doubled down ~1~
+
+MGBLK_INFO_RESULT_STOOD = Stood on ~1~
+
+MGBLK_INFO_RESULT_STOOD_LCASE = stood on ~1~
+
+MGBLK_INFO_SITTING_OUT = Sitting out
+
+MGBLK_INFO_THEIR_TURN = ~1~. ~2p~'s turn...
+
+MGBLK_INFO_THEIR_TURN_SPLIT1 = ~1~. ~2p~'s turn, first hand...
+
+MGBLK_INFO_THEIR_TURN_SPLIT2 = ~1~. ~2p~'s turn, second hand...
+
+MGBLK_INFO_WAITING_BET = Waiting for bet...
+
+MGBLK_INFO_WAITING_INS = Waiting for insurance...
+
+MGBLK_INFO_WAITING_TURN = ~1~. Waiting for turn...
+
+MGBLK_INFO_YOUR_TURN = ~1~. Your turn...
+
+MGBLK_INFO_YOUR_TURN_SPLIT1 = ~1~. Your turn, first hand...
+
+MGBLK_INFO_YOUR_TURN_SPLIT2 = ~1~. Your turn, second hand...
+
+MGBLK_MSG_ACE_11 = Aces can be worth 1 or 11.
+
+MGBLK_MSG_ACE_CANT_DOUBLE = Aces can be worth 1 or 11.~n~You don't have enough chips to double down.
+
+MGBLK_MSG_ACE_CANT_DOUBLE_SPLIT = Aces can be worth 1 or 11.~n~You don't have enough chips to double down or split.
+
+MGBLK_MSG_BETTING_STARTED = Players must place a bet to play.
+
+MGBLK_MSG_BETTING_STARTED_BUYIN = You have bought in for ~1$~. Players must place a bet to play. After betting you will receive two cards.
+
+MGBLK_MSG_BROKE = You cannot afford the minimum buy-in of ~1$~.
+
+MGBLK_MSG_BUYIN_REQUIRED = Select how much you would like to buy-in for.
+
+MGBLK_MSG_CANT_DOUBLE = You don't have enough chips to double down.
+
+MGBLK_MSG_CANT_DOUBLE_SPLIT = You don't have enough chips to double down or split.
+
+MGBLK_MSG_DEALER_BUST = Dealer busts with ~1~.
+
+MGBLK_MSG_DEALER_CARDS = Dealer has ~1~.
+
+MGBLK_MSG_DEALER_CHECK_BJ = The dealer is checking if he has blackjack. This happens when he is showing an ace, ten, or picture card.
+
+MGBLK_MSG_DEALER_HAS_BJ = The dealer has blackjack.
+
+MGBLK_MSG_DEALER_HAS_BJ_INS_LOSE = The dealer has blackjack.~n~Your insurance bet pays out, but you lose your main bet.
+
+MGBLK_MSG_DEALER_HAS_BJ_INS_PUSH = The dealer has blackjack, and so do you.~n~Your insurance bet pays out, and your main bet is 'pushed' which returns your chips.
+
+MGBLK_MSG_DEALER_HAS_BJ_PUSH = The dealer has blackjack, and so do you. Your bet is 'pushed' which returns your chips.
+
+MGBLK_MSG_DEALER_NO_BJ = The dealer doesn't have blackjack.
+
+MGBLK_MSG_DEALER_NO_BJ_INS = The dealer doesn't have blackjack.~n~All insurance bets lose.
+
+MGBLK_MSG_DEALER_STAND = Dealer stands on ~1~.
+
+MGBLK_MSG_DEALER_STAND_PUSH = Dealer stands on ~1~, which is the same as your score so your bet is 'pushed' which returns your chips.
+
+MGBLK_MSG_FIRST_DEAL = In blackjack everyone, including the dealer, is dealt two cards.
+
+MGBLK_MSG_FIRST_TURN_GOAL = The goal is for your cards to total as close as possible to 21 without going over.
+
+MGBLK_MSG_FIRST_TURN_INFO = Choose to "stand" if you are happy with your score, "hit" to be dealt another card, or "double down" to double your bet and be dealt only one more card.
+
+MGBLK_MSG_INSURANCE_STARTED = The dealer is showing an ace.~n~Players can protect themselves by placing an insurance bet, which will payout 2:1 if he has blackjack.
+
+MGBLK_MSG_OTHERS_BJ = Other players have blackjack, which pays 3:2.
+
+MGBLK_MSG_PLAYER_BJ = You have blackjack, which pays 3:2.~n~You won ~1$~.
+
+MGBLK_MSG_SPLIT_ACES = Aces can be worth 1 or 11.~n~If you split aces, your hand will end with no opportunity to hit.
+
+MGBLK_NAME_AMB_0 = George
+
+MGBLK_NAME_AMB_1 = Walter
+
+MGBLK_NAME_AMB_2 = Herman
+
+MGBLK_NAME_AMB_3 = Jacob
+
+MGBLK_NAME_AMB_4 = Harry
+
+MGBLK_NAME_AMB_5 = Fred
+
+MGBLK_NAME_AMB_6 = Ernest
+
+MGBLK_NAME_AMB_7 = Albert
+
+MGBLK_NAME_AMB_8 = Clarence
+
+MGBLK_NAME_AMB_9 = Clyde
+
+MGBLK_NAME_AMB_10 = Willis
+
+MGBLK_NAME_AMB_11 = Stanley
+
+MGBLK_NAME_AMB_12 = Dewey
+
+MGBLK_NAME_AMB_13 = Ira
+
+MGBLK_NAME_AMB_14 = Everett
+
+MGBLK_NAME_AMB_15 = Emil
+
+MGBLK_NAME_AMB_16 = Virgil
+
+MGBLK_NAME_AMB_17 = Bob
+
+MGBLK_NAME_AMB_18 = Sylvester
+
+MGBLK_NAME_AMB_19 = Curtis
+
+MGBLK_NAME_AMB_20 = Jake
+
+MGBLK_NAME_AMB_21 = Marvin
+
+MGBLK_NAME_AMB_22 = Perry
+
+MGBLK_NAME_ARTHUR = Arthur
+
+MGBLK_NAME_JOHN = John
+
+MGBLK_NAME_OPPONENT = Opponent
+
+MGBLK_OBJ_YOUR_BET = Place your bet
+
+MGBLK_OBJ_YOUR_INS = Place your insurance bet
+
+MGBLK_UI_CASH = ~1$~
+
+MGBLK_YOU = You
+

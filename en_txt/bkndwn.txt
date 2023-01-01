@@ -1,0 +1,72 @@
+0x51C872E9 = Deliver the supplies ~1~
+
+FETCH_BROKEN_DOWN_GOTO_DESTINATION = to the ~COLOR_MP_OBJECTIVE~broken down wagon~s~
+
+FETCH_BROKEN_DOWN_GO_TO_0 = Go ~1~
+
+FETCH_BROKEN_DOWN_HELP_INTRO = Steal the supplies and deliver them to Camp ~BLIP_CAMP~ to resume operations. Supplies returned will also add materials to Cripps Trading Co.
+
+FETCH_BROKEN_DOWN_HELP_INTRO_PLURAL = Steal the supplies and deliver them to Camp ~BLIP_CAMP~ to resume operations. Supplies returned will also add materials to Cripps Trading Co.
+
+FETCH_BROKEN_DOWN_OBJ_DEFEND = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ on the way to the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+FETCH_BROKEN_DOWN_OBJ_DEFEND_PLURAL = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ on the way to the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+FETCH_BROKEN_DOWN_OBJ_DROP_PLURAL = Drop the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~ in the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+FETCH_BROKEN_DOWN_OBJ_FIND = Find the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+FETCH_BROKEN_DOWN_OBJ_FIND_PLURAL = Find the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+FETCH_BROKEN_DOWN_OBJ_RETURN = Deliver the supplies ~1~
+
+FETCH_BROKEN_DOWN_OBJ_STEAL_SUPPLIES = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+FETCH_BROKEN_DOWN_OBJ_STOP_OBJECTIVE = Stop the ~COLOR_ENEMY~enemies~s~ from escaping with the supplies.
+
+FETCH_BROKEN_DOWN_ONE_BAG_HELP = You can only carry one supply bag at a time.
+
+FETCH_BROKEN_DOWN_SCORETIMER_DELIVER_PRIMARY_PASS = ~1~ delivered the supplies
+
+FETCH_BROKEN_DOWN_SCORETIMER_DELIVER_PRIMARY_PASS_NP = Some supplies have been delivered
+
+FETCH_BROKEN_DOWN_SCORETIMER_DELIVER_PRIMARY_PASS_YOU = You delivered the supplies
+
+FETCH_BROKEN_DOWN_SCORETIMER_DELIVER_PRIMARY_PASS_YOUR = Your Posse delivered the supplies
+
+FETCH_BROKEN_DOWN_SHARD_DESTROYED = The supplies were destroyed
+
+FETCH_BROKEN_DOWN_SHARD_DESTROYED_PLURAL = The supplies were destroyed
+
+FETCH_BROKEN_DOWN_SHARD_INTRO_PRIMARY = Find the supplies
+
+FETCH_BROKEN_DOWN_SHARD_INTRO_PRIMARY_PLURAL = Find the supplies
+
+FETCH_BROKEN_DOWN_SHARD_OVER = Supplies were destroyed
+
+FETCH_BROKEN_DOWN_SHARD_PRIMARY_FAIL = The supplies were not delivered
+
+FETCH_BROKEN_DOWN_SHARD_PRIMARY_FAIL_PLURAL = The supplies were not delivered
+
+FETCH_BROKEN_DOWN_SHARD_PRIMARY_PASS = The supplies were delivered
+
+FETCH_BROKEN_DOWN_SHARD_PRIMARY_PASS_PARTIAL = Some supplies were delivered
+
+FETCH_BROKEN_DOWN_SHARD_PRIMARY_PASS_PLURAL = The supplies were delivered
+
+FETCH_BROKEN_DOWN_TICKER_DESTROY = Some ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~ have been destroyed
+
+FETCH_BROKEN_DOWN_TICKER_DESTROY_YOU = You destroyed the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+NET_FETCH_TEXT_HELP_OBJECTIVE_ESCAPING_TEAM_PRIMARY = The ~COLOR_ENEMY~enemies~s~ are escaping with the supplies.
+
+NET_FETCH_TEXT_HELP_SEARCH_AREA = Search the area for the supplies.
+
+NET_FETCH_TEXT_OBJ_DROP = Drop the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~ in the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+NET_FETCH_TEXT_SCORETIMER_OUTSIDE_CLEANUP_RADIUS = An ~COLOR_ENEMY~enemy~s~ escaped with supplies.
+
+NET_FETCH_TEXT_SHARD_OUTSIDE_CLEANUP_RADIUS = An ~COLOR_ENEMY~enemy~s~ escaped with supplies.
+
+NET_FETCH_TEXT_SHARD_OUTSIDE_CLEANUP_RADIUS_PLURAL = The ~COLOR_ENEMY~enemies~s~ escaped with the supplies.
+

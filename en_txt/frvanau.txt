@@ -1,0 +1,80 @@
+FRVAN_1_COMBAT_01 = ~z~Shit, we been blown! Open up on 'em!
+
+FRVAN_1_COMBAT_02 = ~z~You stupid bastards let 'em follow you! Kill 'em!
+
+FRVAN_1_COMBAT_03 = ~z~Idiots! You been followed! Shoot 'em!
+
+FRVAN_1_HOGTIED_01 = ~z~Alright, what's it worth to set me loose, huh?
+
+FRVAN_1_HOGTIED_02 = ~z~~sl:0.0:1.2~Whatever you're getting paid,~sl:0.5~my old lady'll double it!
+
+FRVAN_1_HOGTIED_03 = ~z~~sl:0.0:2.8~We make more money in a day than you do in a year!~sl:~Get smart, come join us.
+
+FRVAN_1_NAZAR_01 = ~z~~sl:0.0:1.2~Check it over again.~sl:~Best have all our ducks in line before that vagabond gets her hands on it.
+
+FRVAN_1_NAZAR_02 = ~z~~sl:0.0:1.6~Alright, look it over again.~sl:~I sure as hell don't trust that damn foreigner to tell us what it's worth.
+
+FRVAN_1_NAZAR_03 = ~z~~sl:0.0:1.0~Double check it all.~sl:0.4~That crone ain't gonna tell us nothing about it we don't already know when we come to sell.
+
+FRVAN_1_SPREAD_01 = ~z~~sl:0.0:2.5~Well, now. What do we have here?~sl:0.0:2.0~You fellers been hard at work I see.~sl:~Miss Mary gonna be pleased with all this.
+
+FRVAN_1_SPREAD_02 = ~z~~sl:0.0:1.2~Not bad, fellers.~sl:~You keep on like this, we gonna have to give you some real work...
+
+FRVAN_1_SPREAD_03 = ~z~~sl:1.7~Rich folks do keep their share of trinkets don't they? You boys done good.
+
+FRVAN_2_NAZAR1B_1 = ~z~~sl:0.0:1.2~Well, I don't buy it.~sl:0.3:1.3~Not for a minute.~sl:~My pa knew one of her kind.
+
+FRVAN_2_NAZAR1B_2 = ~z~~sl:0.0:3.4~Never deal with 'em, he said. Never take their money,~sl:~never give 'em yours.
+
+FRVAN_2_NAZAR1B_3 = ~z~~sl:0.0:4.1~Now, we all know Mary got her head screwed on tighter than two coats of paint,~sl:~so why she's taking a chance on a goddamn witch?
+
+FRVAN_2_NAZAR2A_1 = ~z~~sl:0.0:1.6~You see them birds of hers?~sl:0.3~Know what she feeds 'em?
+
+FRVAN_2_NAZAR2A_2 = ~z~~sl:0.0:1.8~Little bits of cooked-up meat.~sl:~Now what kinda meat, that's what I want to know.
+
+FRVAN_2_NAZAR2B_1 = ~z~~sl:0.0:2.3~Oh come on, don't play dumb.~sl:0.4~You know what I'm talking about. It's human meat.
+
+FRVAN_2_NAZAR2B_2 = ~z~~sl:0.0:3.0~She feeds the goddamn birds human meat.~sl:~And this is the woman we decide to start dealing with.
+
+FRVAN_2_NAZAR2B_3 = ~z~Honest with ya, I'll walk before I spend another minute with her.
+
+FRVAN_2_NAZAR3A_1 = ~z~~sl:0.0:1.2~And here's another thing.~sl:~What the hell is that music she plays?
+
+FRVAN_2_NAZAR3A_2 = ~z~~sl:0.0:4.0~Dancing around all the time by the side of the road. It ain't decent.~sl:~You remember that feller Paulson?
+
+FRVAN_2_NAZAR3B_1 = ~z~~sl:0.0:2.5~She put him under a spell with dancing at him.~sl:0.5~We was up there doing a deal, and she just starts dancing.
+
+FRVAN_2_NAZAR3B_2 = ~z~~sl:0.0:2.8~Paulson, he was transfixed.~sl:~All he could do to keep from drooling.
+
+FRVAN_2_NAZAR3B_3 = ~z~Then she looks him dead in the eye and says: “show me your heart”.
+
+FRVAN_2_NAZAR3B_4 = ~z~~sl:0.0:4.7~Next thing we know they're off into the woods, ten minutes later she comes back alone.~sl:0.5~Never seen him since.
+
+FRVAN_2_NAZAR_1 = ~z~Alright, now hear me out. I'm not saying she put a curse on him.
+
+FRVAN_2_NAZAR_2 = ~z~~sl:0.0:4.0~I'm saying she kissed him on the cheek, and two days later he was dead.~sl:0.5~Tongue swole up in his head and he couldn't breathe.
+
+FRVAN_2_NAZAR_3 = ~z~You're gonna tell me that's just a coincidence, I suppose?
+
+FRVAN_3_CHATNAZ_1 = ~z~She better show this time...
+
+FRVAN_3_CHTNAZB_1 = ~z~~sl:1.0:2.5~Where the hell did you come from?~sl:2.0:3.0~I'm fine... thank you.~sl:1.1~We got it, all of it. Now, where's our money?
+
+FRVAN_3_CHTNAZC_1 = ~z~Wh-what? What is it?
+
+FRVAN_3_CHTNAZD_1 = ~z~~sl:0.0:3.0~What? What the hell does that mean?~sl:~Is something... hey, where the hell did you go?
+
+FRVAN_3_CHTNAZE_1 = ~z~~sl:0.0:4.5~Everybody stay calm. She's just playing her stupid games.~sl:~You... go check the entrance.
+
+FRVAN_3_COMBAT_01 = ~z~Shit! The goddamn witch set us up! Start shooting!
+
+FRVAN_3_COMBAT_02 = ~z~I knew that bitch would cross us! Kill 'em!
+
+FRVAN_3_COMBAT_03 = ~z~Bounty hunter! It's a goddamn trap!
+
+FRVAN_3_THREAT_01 = ~z~~sl:0.0:2.8~You're working for that goddamn harpy, aren't you?~sl:0.7~I knew we were being set up!
+
+FRVAN_3_THREAT_02 = ~z~I should've listened to Owen. Damn it to hell.
+
+FRVAN_3_THREAT_03 = ~z~~sl:0.0:3.0~You wait and see. I won't hang.~sl:~There ain't a lawman in this country who can't be bought if you got enough to buy 'em with...
+

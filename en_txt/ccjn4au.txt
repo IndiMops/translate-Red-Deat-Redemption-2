@@ -1,0 +1,16 @@
+CCJN4_ACT_1 = ~z~Will you go rest, please?
+
+CCJN4_ACT_2 = ~z~Quit fussing, I'm fine.
+
+CCJN4_ACT_3 = ~z~You almost got yourself eaten, you silly man!
+
+CCJN4_ACT_4 = ~z~You're a long ways from fine.
+
+CCJN4_ACT_5 = ~z~Just let me rest in the sun, it's good for me.
+
+CCJN4_ACT_6 = ~z~Only... talking, aint so good for me...
+
+CCJN4_ACT_7 = ~z~You silly little man...
+
+CCJN4_ACT_8 = ~z~Whatever you say!
+

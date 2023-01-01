@@ -1,0 +1,188 @@
+NBX_SDS_ALVJ_1 = ~z~Anthony Foreman...  he ain't society's problem no more. He's yours.
+
+NBX_SDS_ALVR_1 = ~z~Good to meet you finally, sir. I hope you find your accommodation suitable. Cell's back there.
+
+NBX_SDS_RWD_1 = ~z~You're going to want a hot bath, after taking that trip through the slums.
+
+NBX_SDS_RWD_J_1 = ~z~Actually, I like the slums.
+
+NBX_SDS_TKRWD_J_1 = ~z~But I'm going to need a hot bath after coming in here.
+
+RBT15_APPROACH_1 = ~z~Here's the station... ~rp~I'm guessing you ain't on this side of town much.
+
+RBT15_APPROACH_2 = ~z~I wouldn't piss on these people if they were burning.
+
+RBT15_BAR_RAT_1 = ~z~Look here... it's the ratcatcher. You looking for something?
+
+RBT15_CALLOUTA_1 = ~z~Foreman!
+
+RBT15_CALLOUT_1 = ~z~Mr. Foreman?
+
+RBT15_CELL1NEGR_1 = ~z~It would'a taken longer, if I'd had an iron to shoot you through that saloon door.
+
+RBT15_CELL1NEGR_2 = ~z~What could have been, eh? Gets in your head, don't it? Think on that, why don't you?
+
+RBT15_CELL1NEG_1 = ~z~It feels like a miracle to me... it taking all these years for your sins to catch up to you.
+
+RBT15_CELL1POSR_1 = ~z~Oh yeah, I had a gang... Foreman Brothers, only we was cousins.
+
+RBT15_CELL1POSR_2 = ~z~Boy, those were some times, riding and robbing. Why you interested?
+
+RBT15_CELL1POSR_3 = ~z~Oh, no reason, just... knew the name, I guess.
+
+RBT15_CELL1POS_1 = ~z~You had a gang... way back then... didn't you?
+
+RBT15_CELL1_1 = ~z~The man who caught Anthony Foreman.
+
+RBT15_CELL2NEGR_1 = ~z~Who are you to talk? You don't know about my life. You don't know what got me here.
+
+RBT15_CELL2NEGR_2 = ~z~That's true... I just know where you are.
+
+RBT15_CELL2NEG_1 = ~z~To think you got a second chance in life, and still... you ended up here.
+
+RBT15_CELL2POSR_1 = ~z~That woman was a banshee. And the man... had something in his eyes.
+
+RBT15_CELL2POSR_2 = ~z~But they let me live... and I kept my promise to them.
+
+RBT15_CELL2POSR_3 = ~z~Yeah, well, they was friends of mine. Ain't with us no more.
+
+RBT15_CELL2POSR_4 = ~z~Not many folk still is.
+
+RBT15_CELL2POS_1 = ~z~You was paid a visit wasn't you? By a man and a woman. When you took Tilly against her will?
+
+RBT15_CELL2_1 = ~z~You want to know where to spend that bounty money? I can give you some tips.
+
+RBT15_CELL3NEGR_1 = ~z~I know who you are, mister. You must have been in that gang.
+
+RBT15_CELL3NEGR_2 = ~z~What was it... the Dutch boys? Yeah, I asked around, found out all about you.
+
+RBT15_CELL3NEGR_3 = ~z~One day it's gonna be you in here, mister.
+
+RBT15_CELL3NEGR_4 = ~z~Shut your mouth, you don't know nothing.
+
+RBT15_CELL3NEGR_5 = ~z~Sure, sure. You sleep well at night. They'll get you, too.
+
+RBT15_CELL3NEG_1 = ~z~Folk round town, they're happy you're behind bars. And you know what? So am I.
+
+RBT15_CELL3POSR_1 = ~z~I'd take music and dancing and girls and booze in a Saint Denis slum
+
+RBT15_CELL3POSR_2 = ~z~over all this fancy crap any day of the week.
+
+RBT15_CELL3POSR_3 = ~z~Well, yeah, freedom is the thing I guess but, world is full of folk and things want to imprison us.
+
+RBT15_CELL3POS_1 = ~z~Tell me, this police station's pretty fancy. Your bed there beat the slums?
+
+RBT15_CELL3_1 = ~z~Hey, look. We meet again.
+
+RBT15_CHASE1_1 = ~z~Foreman, you're coming off that horse.
+
+RBT15_CHASE2_1 = ~z~Stop... or I'll bring you in with a broken neck.
+
+RBT15_CHASE3_1 = ~z~I ain't going to kill you, but I can rough you up some.
+
+RBT15_CHASE4_1 = ~z~Stop your damn horse!
+
+RBT15_CHASE5_1 = ~z~Foreman! Foreman, damn you!
+
+RBT15_ESCAPE_01 = ~z~I ain't going to make it easy on you.
+
+RBT15_ESCAPE_02 = ~z~If I had my piece, bounty hunter.
+
+RBT15_ESCAPE_03 = ~z~You ain't taking me in.
+
+RBT15_ESCAPE_04 = ~z~I got friends in these parts.
+
+RBT15_GO_01 = ~z~Now, you can go.
+
+RBT15_GO_02 = ~z~Get out of here, alright?
+
+RBT15_GO_03 = ~z~Now get, mister.
+
+RBT15_GO_04 = ~z~This conversation's over.
+
+RBT15_HOGCOMP_01 = ~z~What gives you the right?
+
+RBT15_HOGCOMP_02 = ~z~Damn this bounty.
+
+RBT15_HOGCOMP_03 = ~z~Damn this all.
+
+RBT15_HOGCOMP_04 = ~z~Lemoyne ain't what it used to be.
+
+RBT15_HOGCOMP_05 = ~z~Saint Denis stinks.
+
+RBT15_HOG_1 = ~z~Stop wriggling. And praise yourself lucky I want you alive.
+
+RBT15_HOG_2 = ~z~Oh, I'm lucky, alright! Real lucky.
+
+RBT15_IG1_CALL1_1 = ~z~Hey you, what you looking for?
+
+RBT15_IG1_FLEE_1 = ~z~This goddamn bounty!
+
+RBT15_IG1_NEG_J_1 = ~z~Anthony Foreman. Tell me where he is, or I'll start making things difficult.
+
+RBT15_IG1_NEG_J_2 = ~z~Ain't no Anthony Foreman in here, no matter how antsy you get.
+
+RBT15_IG1_POS_J_1 = ~z~Hey, could you help me find an Anthony Foreman?
+
+RBT15_IG1_POS_J_2 = ~z~Anthony Foreman? I... I don't recollect that name, I'd try the other place.
+
+RBT15_ONBED_1 = ~z~Sit down and get comfortable.
+
+RBT15_ONBED_2 = ~z~I ain't going anywhere.
+
+RBT15_ONHOR_1 = ~z~Come on. The chief wants to see you.
+
+RBT15_PICKUP_01 = ~z~Put me down.
+
+RBT15_PICKUP_02 = ~z~Let go of me.
+
+RBT15_PICKUP_03 = ~z~You got no right.
+
+RBT15_PTRIPPED_1 = ~z~Hey.
+
+RBT15_PTRIPPED_2 = ~z~Where you going?
+
+RBT15_RBANT1CNT_1 = ~z~But I ain't bringing you in for Tilly Jackson. I'm bringing you in 'cause they're paying me.
+
+RBT15_RBANT1_1 = ~z~Hey, ~rp~I think you knew a friend of mine, Tilly Jackson?
+
+RBT15_RBANT1_2 = ~z~Tilly Jackson... I ain't heard that name in a time.
+
+RBT15_RBANT1_3 = ~z~Hey, you're not the... no, he was bigger.
+
+RBT15_RBANT1_4 = ~z~Look, if you're with that other friend of hers, I promised to stay away... and I did.
+
+RBT15_RBANT1_5 = ~z~Don't bring me in 'cause of Tilly Jackson... things is long settled between us.
+
+RBT15_RBANT2_1 = ~z~~sl:1.0~If my cousin was still here, you wouldn't have got me.
+
+RBT15_RBANT2_2 = ~z~I wouldn't have had to hide out in no slum, avoiding no bounty.
+
+RBT15_RBANT2_3 = ~z~~sl:0.0:4.8~When he got killed and we lost them other boys at Radley's House...~sl:0.5~that's when things went sour.
+
+RBT15_RBANT2_4 = ~z~The Foremans ain't been quite so much since then.
+
+RBT15_ROPED_01 = ~z~Damn you.
+
+RBT15_ROPED_02 = ~z~Get off me.
+
+RBT15_ROPED_03 = ~z~Get this damn rope...
+
+RBT15_ROPED_04 = ~z~Who the hell?
+
+RBT15_ROPED_05 = ~z~Bastard.
+
+RBT15_ROPED_06 = ~z~Damn bounty...
+
+RBT15_SHUSH2J_1 = ~z~Save me your terrible tale of woe.
+
+RBT15_SHUSHJ_01 = ~z~That's a little thing for her.
+
+RBT15_SPOTTED_1 = ~z~Anthony, look out!
+
+RBT15_SPOTTED_2 = ~z~Anthony, get out of here.
+
+RBT15_TRIP_01 = ~z~You just trip me? Hey, I'm still gonna get ya!
+
+RBT15_TRIP_02 = ~z~Shit. Your pal just tripped me, but I'm still coming!
+

@@ -1,0 +1,362 @@
+MUD2_ARTH_BIG_01 = ~z~You must be the village idiot, huh?
+
+MUD2_ARTH_BIG_02 = ~z~Try that again.
+
+MUD2_ARTH_BIG_03 = ~z~You can't be the best this town has.
+
+MUD2_ARTH_BIG_04 = ~z~You're even slower than you look.
+
+MUD2_ARTH_BIG_05 = ~z~You're making a real fool of yourself.
+
+MUD2_ARTH_BIG_06 = ~z~Come on then, big boy.
+
+MUD2_BARTENDER_01 = ~z~Alright, boys, that's enough!
+
+MUD2_BARTENDER_02 = ~z~Come on, fellers, take it easy, please?
+
+MUD2_BARTENDER_03 = ~z~Just break it up, please?
+
+MUD2_BARTENDER_04 = ~z~Come on, you're gonna wreck the joint!
+
+MUD2_BARTENDER_05 = ~z~Just go easy on the tables!
+
+MUD2_BARTENDER_06 = ~z~Someone's paying for the damage!
+
+MUD2_BARTENDER_07 = ~z~I'm trying to run a business here, boys!
+
+MUD2_BARTENDER_08 = ~z~Come on, calm down, please!
+
+MUD2_BARTENDER_09 = ~z~Oh, please stop!
+
+MUD2_BB_BINT_1 = ~z~Hey! Watch where you're going!
+
+MUD2_BB_BINT_2 = ~z~Take it easy, pal.
+
+MUD2_BB_BINT_3 = ~z~Take it easy, huh? Huh?
+
+MUD2_BB_BINT_4 = ~z~
+
+MUD2_BB_BINT_5 = ~z~
+
+MUD2_BIG_ATK_01 = ~z~What you scared of, huh?
+
+MUD2_BIG_ATK_02 = ~z~I'll crack your damn skull open.
+
+MUD2_BIG_ATK_03 = ~z~I hope you got more than that.
+
+MUD2_BIG_ATK_04 = ~z~You're going down in the mud.
+
+MUD2_BIG_ATK_05 = ~z~Come on, let's see it.
+
+MUD2_BIG_ATK_06 = ~z~You won't be so pretty when I'm done.
+
+MUD2_BIG_ATK_07 = ~z~Come on, I ain't even started.
+
+MUD2_BILL_01 = ~z~Kill that peabrain, Morgan!
+
+MUD2_BILL_02 = ~z~Put that ape down, come on!
+
+MUD2_BILL_03 = ~z~I said this'd be fun, didn't I?
+
+MUD2_BILL_ATK_01 = ~z~You tell me to take it easy?
+
+MUD2_BILL_ATK_02 = ~z~Ain't there no men in this saloon?
+
+MUD2_BILL_ATK_03 = ~z~I'll beat this whole town if I have to.
+
+MUD2_BILL_GUN_1 = ~z~Let's just shoot these bastards!
+
+MUD2_BILL_GUN_2 = ~z~Oh come on, we can handle these fools!
+
+MUD2_BREAKUP1_1 = ~z~Stop being a killjoy, Downes.
+
+MUD2_BREAKUP2_1 = ~z~Stay out of this, Mr. Downes.
+
+MUD2_BRL_CMERE_1 = ~z~~sl:0.8~Come on.
+
+MUD2_CHARLES_01 = ~z~You've got this one, Arthur!
+
+MUD2_CHARLES_02 = ~z~Let's go, Arthur!
+
+MUD2_CHARLES_03 = ~z~Don't go easy on him!
+
+MUD2_CHA_ATK_01 = ~z~Come on, hit me!
+
+MUD2_CHA_ATK_02 = ~z~You wanna fight or not?
+
+MUD2_CHA_ATK_03 = ~z~Is that all you got?
+
+MUD2_CONFRONT_1 = ~z~Hey, tough guy!
+
+MUD2_CROWD1_01 = ~z~Go on, Tommy!
+
+MUD2_CROWD1_02 = ~z~Yeah, you got him now!
+
+MUD2_CROWD1_03 = ~z~Knock his head off!
+
+MUD2_CROWD2_01 = ~z~Kill him, Tommy!
+
+MUD2_CROWD2_02 = ~z~Don't take that from him!
+
+MUD2_CROWD2_03 = ~z~Show him how we do it in Valentine!
+
+MUD2_CROWD3_01 = ~z~You show him, Tommy!
+
+MUD2_CROWD3_02 = ~z~Put his face in the mud!
+
+MUD2_CROWD3_03 = ~z~Smash his face, Tommy!
+
+MUD2_CROWD4_01 = ~z~Come on, Tommy!
+
+MUD2_CROWD4_02 = ~z~Finish him, Tommy!
+
+MUD2_CROWD4_03 = ~z~Go on, kick his teeth in!
+
+MUD2_EXT_1 = ~z~Stop! Stop! Please!
+
+MUD2_EXT_2 = ~z~Please, I beg you.
+
+MUD2_EXT_3 = ~z~Stop.
+
+MUD2_EXT_4 = ~z~Come, sir.
+
+MUD2_EXT_5 = ~z~You won the fight already, surely that's enough?
+
+MUD2_EXT_6 = ~z~What business is it of yours?
+
+MUD2_EXT_7 = ~z~No business.
+
+MUD2_EXT_8 = ~z~No business, sir. But, please...
+
+MUD2_EXT_9 = ~z~I beg you.
+
+MUD2_EXT_10 = ~z~Making new friends again I see, Arthur.
+
+MUD2_EXT_11 = ~z~Look who we found sniffing about.
+
+MUD2_EXT_12 = ~z~Josiah Trelawny.
+
+MUD2_EXT_13 = ~z~The very same.
+
+MUD2_EXT_14 = ~z~Well, well...
+
+MUD2_EXT_15 = ~z~I thought you'd gone to New York.
+
+MUD2_EXT_16 = ~z~And miss all this glamour?
+
+MUD2_EXT_17 = ~z~You must be joking.
+
+MUD2_EXT_18 = ~z~How are you?
+
+MUD2_EXT_19 = ~z~Well.
+
+MUD2_EXT_20 = ~z~Quite well indeed.
+
+MUD2_EXT_21 = ~z~I went to Blackwater looking for you gentlemen.
+
+MUD2_EXT_22 = ~z~You're not very popular there it seems.
+
+MUD2_EXT_23 = ~z~Ah Javier and Charles.
+
+MUD2_EXT_24 = ~z~I've missed you...
+
+MUD2_EXT_25 = ~z~and Bill looking as well as can be.
+
+MUD2_EXT_26 = ~z~Gentlemen, always a pleasure.
+
+MUD2_EXT_27 = ~z~You're right, we ain't too popular in Blackwater.
+
+MUD2_EXT_28 = ~z~We left a lot of money there.
+
+MUD2_EXT_29 = ~z~And young Sean it seems.
+
+MUD2_EXT_30 = ~z~Sean?
+
+MUD2_EXT_31 = ~z~You've found him?
+
+MUD2_EXT_32 = ~z~Yes, I have.
+
+MUD2_EXT_33 = ~z~He's being held by some bounty hunters...
+
+MUD2_EXT_34 = ~z~trying to see how much money the government will pay them.
+
+MUD2_EXT_35 = ~z~I know he's in Blackwater...
+
+MUD2_EXT_36 = ~z~but there's talk of them moving.
+
+MUD2_EXT_37 = ~z~Well, if we step foot in Blackwater...
+
+MUD2_EXT_38 = ~z~well, then we're dead men for sure.
+
+MUD2_EXT_39 = ~z~There'll be Pinkertons all over the place, but...
+
+MUD2_EXT_40 = ~z~if he's alive we gotta try.
+
+MUD2_EXT_41 = ~z~Yeah, of course.
+
+MUD2_EXT_42 = ~z~It's you they want, Dutch.
+
+MUD2_EXT_43 = ~z~Always is.
+
+MUD2_EXT_44 = ~z~Charles, go find out what you can, carefully.
+
+MUD2_EXT_45 = ~z~Josiah, take Javier.
+
+MUD2_EXT_46 = ~z~Arthur, go get yourself cleaned up.
+
+MUD2_EXT_47 = ~z~Join them when you're ready.
+
+MUD2_EXT_48 = ~z~Well, what about me?
+
+MUD2_EXT_49 = ~z~Well exactly, what about you?
+
+MUD2_EXT_50 = ~z~W-What does that mean?
+
+MUD2_EXT_51 = ~z~Ah, Bill.
+
+MUD2_EXT_52 = ~z~Come on.
+
+MUD2_GOJAVIER_01 = ~z~Javier could use some help, Morgan!
+
+MUD2_GOJAVIER_02 = ~z~Arthur, give Javier a hand over there!
+
+MUD2_GOJAVIER_03 = ~z~We can deal with these fellers! Go get Javier!
+
+MUD2_INT_1 = ~z~Arthur!
+
+MUD2_INT_2 = ~z~Arthur, come here...
+
+MUD2_INT_3 = ~z~come here, come here, come over here.
+
+MUD2_INT_4 = ~z~I want you to, uh, to meet our friends.
+
+MUD2_INT_5 = ~z~Pleased to meet you.
+
+MUD2_INT_6 = ~z~Well ain't you just the tough as teak mountain man?
+
+MUD2_INT_7 = ~z~Oh, you be quiet, Anastasia...
+
+MUD2_INT_8 = ~z~anyone can tell this one is a pussy cat.
+
+MUD2_INT_9 = ~z~Exactly, yes he's a pussy... cat.
+
+MUD2_INT_10 = ~z~Ain't that so, Arthur?
+
+MUD2_INT_11 = ~z~Whatever you say.
+
+MUD2_INT_12 = ~z~How much you cost, anyway?
+
+MUD2_INT_13 = ~z~Well ain't that a nice way to talk to a lady?
+
+MUD2_INT_14 = ~z~Oh, I didn't know I was talking to a lady.
+
+MUD2_INT_15 = ~z~Excuse me.
+
+MUD2_INT_16 = ~z~Well, I must say...
+
+MUD2_INT_17 = ~z~you got a fine way with the women, amigo.
+
+MUD2_INT_18 = ~z~Yeah, a regular dandy and charmer.
+
+MUD2_INT_19 = ~z~Where's Bill?
+
+MUD2_INT_20 = ~z~Oh, man, I dread to think about it.
+
+MUD2_INT_LDI_1 = ~z~~sl:0.0:0.9~Oh, Arthur.~sl:0.1:1.1~Arthur, come here, come here.~sl:~Come over here, I want you to meet our friends.
+
+MUD2_INT_LDI_2 = ~z~Pleased to meet you.
+
+MUD2_INT_LDT_1 = ~z~
+
+MUD2_INT_LDT_2 = ~z~Hey hey hey, there he is.
+
+MUD2_INT_LDT_3 = ~z~
+
+MUD2_INT_LDT_4 = ~z~He about to kiss that guy or punch him?
+
+MUD2_INT_LDT_5 = ~z~Oh, and we have our answer.
+
+MUD2_INT_LDT_6 = ~z~Come here, you.
+
+MUD2_INT_TOAST_1 = ~z~
+
+MUD2_INT_TOAST_2 = ~z~~sl:0.0:0.9~Hey!~sl:0.4~Alright, there we go.
+
+MUD2_JAVIER_01 = ~z~Come on, Arthur, we got drinks waiting.
+
+MUD2_JAVIER_02 = ~z~Come on, Arthur, he's a moron.
+
+MUD2_JAVIER_03 = ~z~Stop playing with him, Arthur.
+
+MUD2_JAV_ATK_01 = ~t~In Spanish: I'm going to smash your face, bastard!
+
+MUD2_JAV_ATK_02 = ~z~Who are you fools, huh?
+
+MUD2_JAV_ATK_03 = ~z~Stop dancing around and fight!
+
+MUD2_MCS_1_1 = ~z~Come on, pretty boy...
+
+MUD2_MCS_1_2 = ~z~Pretty boy?
+
+MUD2_MCS_1_3 = ~z~You're kidding me?
+
+MUD2_MCS_1_4 = ~z~Pretty boy?
+
+MUD2_MCS_1_LI_1 = ~z~Come here, you little greaser.
+
+MUD2_MCS_1_LI_2 = ~z~
+
+MUD2_MCS_1_LI_3 = ~z~~sl:0.0:1.7~Ya hit like a girl.~sl:1.0:1.1:1~Ya bum.
+
+MUD2_MCS_1_LI_4 = ~z~
+
+MUD2_NOFIGHTB_01 = ~z~You just gonna watch, Morgan?
+
+MUD2_NOFIGHTB_02 = ~z~Morgan, get in here and fight!
+
+MUD2_NOFIGHTC_01 = ~z~What are you doing, Arthur?
+
+MUD2_NOFIGHTC_02 = ~z~You forget how to punch, Arthur?
+
+MUD2_NOFIGHTJ_01 = ~z~Come on, Arthur, hit someone!
+
+MUD2_NOFIGHTJ_02 = ~z~Are you joining us, Arthur?
+
+MUD2_NOMORE_1 = ~z~No more trouble from you now, you hear?
+
+MUD2_OKAY_1 = ~z~You okay there, Arthur?
+
+MUD2_OKAY_2 = ~z~Yeah, I got this son of a bitch.
+
+MUD2_SALOON_01 = ~z~Yeah!
+
+MUD2_SALOON_02 = ~z~We got a wild one here.
+
+MUD2_SALOON_03 = ~z~~sl:0.0:1.5:1~Drink up, ladies.
+
+MUD2_SALOON_04 = ~z~Come on, Charles.
+
+MUD2_SALOON_05 = ~z~Another round.
+
+MUD2_SALOON_06 = ~z~Muy bien.
+
+MUD2_STAIRS2_1 = ~z~No, Tommy, stay outta this!
+
+MUD2_STAIRS_1 = ~z~What the hell is going on down here?
+
+MUD2_STOPTHAT_1 = ~z~Hey, come on. Stop that.
+
+MUD2_STRUGGLE_01 = ~z~Get the hell off me!
+
+MUD2_STRUGGLE_02 = ~z~I'll kill you, you son of a bitch!
+
+MUD2_STRUG_01 = ~z~Get the hell off me!
+
+MUD2_STRUG_02 = ~t~In Spanish: Motherfucker!
+
+MUD2_STRUG_03 = ~z~Get away!
+
+MUD2_STRUG_04 = ~z~Get off me!
+
+MUD2_WANTSOME_1 = ~z~You want some too, huh?
+

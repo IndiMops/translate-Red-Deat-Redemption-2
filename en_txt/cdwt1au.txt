@@ -1,0 +1,12 @@
+CDWT1_ACTION_1 = ~z~Arthur, Arthur... people are talking... you've stopped...  you've stopped working for us all.
+
+CDWT1_ACTION_2 = ~z~How do you mean?
+
+CDWT1_ACTION_3 = ~z~No money in the box for ages, come on, son, you're the best man amongst us.
+
+CDWT1_ACTION_4 = ~z~Don't go weak on me now... please.
+
+CDWT1_ACTION_5 = ~z~I've been sort of busy Dutch... I'll get back to it.
+
+CDWT1_ACTION_6 = ~z~Thank you, son.
+

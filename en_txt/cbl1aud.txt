@@ -1,0 +1,6 @@
+CCBLL_CNV1_1 = ~z~~sl:0.0:0.7~Hey,~sl:0.0:1.3~if you're so goddamned cold~sl:~why don't you get up and do some work?
+
+CCBLL_CNV1_2 = ~z~~sl:0.0:1.1~You know what Arthur?~sl:0.3:2.2~Why don't you give me a break?~sl:0.7~In fact, why don't you give all of us a goddamned break?
+
+CCBLL_CNV1_3 = ~z~~sl:0.0:1.3~You want a break?~sl:0.0:1~Why don't you~sl:0.0:1.3~head back over that hill,~sl:0.0:1.8~go find yourself some pinkertons,~sl:0.0:2.7~and get yourself a nice little holiday in jail.~sl:0.0:1~Failing that, ~sl:0.0:1.4~do some goddamn work.~sl:0.7~All of ya!
+

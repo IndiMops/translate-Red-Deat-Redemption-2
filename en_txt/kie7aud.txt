@@ -1,0 +1,20 @@
+KIE_CNV_7_1 = ~z~So you're the O'Driscoll, huh?
+
+KIE_CNV_7_2 = ~z~~sl:0.0:1.7~I'm the feller tied to the tree so,~sl:0.6~I guess I must be.
+
+KIE_CNV_7_3 = ~z~I've met some of your boys before.
+
+KIE_CNV_7_4 = ~z~Oh yeah?
+
+KIE_CNV_7_5 = ~z~You must be hungry.
+
+KIE_CNV_7_6 = ~z~Like you wouldn't believe.
+
+KIE_CNV_7_7 = ~z~Well, I'll leave this here then.
+
+KIE_CNV_7_8 = ~z~~sl:0.0:1.0~In the dirt.~sl:1.0~Where those other O'Driscolls left my husband.
+
+KIE_CNV_7_9 = ~z~
+
+KIE_CNV_7_ARTH_1 = ~z~~sl:0.0:1.2:1~Yep.
+

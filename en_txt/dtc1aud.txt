@@ -1,0 +1,660 @@
+DCH1_APPR2_1 = ~z~Hang on a second... I think that must be it up ahead. The old dried up creek.
+
+DCH1_APPRB_1 = ~z~Seems very open.
+
+DCH1_APPRB_2 = ~z~Yeah, it does. Ain't sure it'd be the best in the rain, neither.
+
+DCH1_APPR_1 = ~z~I think that must be it up ahead. The old dried up creek.
+
+DCH1_ARRIVE_1 = ~z~Seems deserted. Let's take a look.
+
+DCH1_ARTH_FREE_1 = ~z~It's okay, we're getting you out of here
+
+DCH1_ASETTLER_1 = ~z~This looks like our feller, Charles.
+
+DCH1_ATENT_1 = ~z~Look, here it is. Few tents, but... place looks empty.
+
+DCH1_ATENT_2 = ~z~Let's have a look around and make sure.
+
+DCH1_BACK_1 = ~z~There they are.
+
+DCH1_BACK_2 = ~t~In German: Oh, thank god.
+
+DCH1_BANT1ASHOUTED_6 = ~z~Killed a lot of law,~rp~ killed a lot of Cornwall's men.
+
+DCH1_BANT1ASPOKEN_6 = ~z~Killed a lot of law. ~rp~Killed a lot of Cornwall's men.
+
+DCH1_BANT1A_1 = ~z~So where are we going?
+
+DCH1_BANT1A_2 = ~z~Find a new spot to camp. ~rp~We're packing up and moving on.
+
+DCH1_BANT1A_3 = ~z~Again?
+
+DCH1_BANT1A_4 = ~z~We have to. And fast. ~rp~We'd already pushed our luck too far before that mess we just made in Valentine.
+
+DCH1_BANT1A_5 = ~z~Ah, ~rp~that didn't sound good.
+
+DCH1_BANT1A_7 = ~z~They must know where we are by now.
+
+DCH1_BANT1BSHOUTED_1 = ~z~So we're heading south?
+
+DCH1_BANT1BSHOUTED_3 = ~z~Dutch wants us to give it a look, ~rp~make sure it's clear and a good place to lie low for a while.
+
+DCH1_BANT1BSHOUTED_7 = ~z~And ~rp~there ain't no way Dutch is gonna just hide away in a cave somewhere.
+
+DCH1_BANT1BSPOKEN_1 = ~z~So, we're heading south?
+
+DCH1_BANT1BSPOKEN_3 = ~z~~sl:0.0:1.6~Dutch wants us to give it a look,~sl:0.5~~rp~make sure it's clear and a good place to lie low for a while.
+
+DCH1_BANT1BSPOKEN_7 = ~z~~sl:0.0:3.1~And, ~rp~there ain't no way Dutch is gonna just...~sl:~hide away in a cave somewhere.
+
+DCH1_BANT1B_2 = ~z~Yeah, ~rp~area called Dewberry Creek.
+
+DCH1_BANT1B_4 = ~z~I've only known him a few months, but... the way he talks, I never thought I'd see him wanting to head south.
+
+DCH1_BANT1B_5 = ~z~Right... and ~rp~I know by now, there ain't no lying low.
+
+DCH1_BANT1B_6 = ~z~There's too many of us for that.
+
+DCH1_BANT1B_8 = ~z~Goes against everything he stands for.
+
+DCH1_BANT1B_9 = ~z~That'd be admitting we're nothing more than low-down criminals.
+
+DCH1_BANT1B_10 = ~z~Which... we are.
+
+DCH1_BANT1B_11 = ~z~You don't have to tell me.
+
+DCH1_BANT1CSHOUTED_7 = ~z~~sl:0.0:5.2~Before, put ~rp~enough time and distance between you and the problem,~sl:0.5~eventually it went away.
+
+DCH1_BANT1CSHOUTED_8 = ~z~~sl:0.0:8.0~This is a big country. But, ~rp~now with these Pinkertons, and better paid bounty hunters...~sl:0.7~I ain't so sure. ~rp~Maybe the price on our heads has got too big.
+
+DCH1_BANT1CSHOUTED_9 = ~z~They've certainly got money behind 'em.
+
+DCH1_BANT1CSPOKEN_7 = ~z~~sl:0.0:4.7~Before, put ~rp~enough time and distance between you and the problem,~sl:0.5~eventually it went away.
+
+DCH1_BANT1CSPOKEN_8 = ~z~~sl:0.0:6.4~This is a big country. But ~rp~now... with these Pinkertons...~sl:0.4:5.1~better paid bounty hunters... I ain't so sure.~sl:0.6~~rp~Maybe the price on our heads has got too big.
+
+DCH1_BANT1CSPOKEN_9 = ~z~Yeah, they've certainly got money behind 'em.
+
+DCH1_BANT1C_1 = ~z~So where does it end?
+
+DCH1_BANT1C_2 = ~z~Where does what end?
+
+DCH1_BANT1C_3 = ~z~The moving, the running...
+
+DCH1_BANT1C_4 = ~z~Dutch don't see it as running.
+
+DCH1_BANT1C_5 = ~z~Call it what you want.
+
+DCH1_BANT1C_6 = ~z~I don't know.
+
+DCH1_BANT1C_10 = ~z~They've got Cornwall's money behind 'em, for one, which guarantees even more trouble.
+
+DCH1_BANT2ASHOUTED_6 = ~z~Oh, come on, Arthur! ~rp~That's not how you are.
+
+DCH1_BANT2ASHOUTED_7 = ~z~Well, ~rp~maybe you don't know me s'well as you think you do.
+
+DCH1_BANT2ASPOKEN_6 = ~z~Come on, Arthur. ~rp~That's not how you are.
+
+DCH1_BANT2ASPOKEN_7 = ~z~Well, ~rp~maybe you don't know me as well as you think you do.
+
+DCH1_BANT2A_1 = ~z~What's going on with you?
+
+DCH1_BANT2A_2 = ~z~What you mean?
+
+DCH1_BANT2A_3 = ~z~You were just gonna send that woman and her children on their way?
+
+DCH1_BANT2A_4 = ~z~We're wanted men. ~rp~We got Pinkertons breathing down our necks.
+
+DCH1_BANT2A_5 = ~z~We should be moving camp, ~rp~not running off on some wild goose chase.
+
+DCH1_BANT2BSHOUTED_1 = ~z~So... ~rp~what happened with those Pinkertons, anyway? ~rp~When you were fishing with Jack?
+
+DCH1_BANT2BSHOUTED_2 = ~z~Said they were onto us, ~rp~offered me freedom if I turned Dutch in.
+
+DCH1_BANT2BSHOUTED_3 = ~z~They picked the wrong man there.
+
+DCH1_BANT2BSHOUTED_5 = ~z~Bastards told me they'd killed Mac! Said it right in front of Jack!
+
+DCH1_BANT2BSHOUTED_6 = ~z~That kid, it's gonna be tough for him.
+
+DCH1_BANT2BSHOUTED_7 = ~z~Yeah... but ~rp~he has more folk looking out for him than most of the rest of us had growing up.
+
+DCH1_BANT2BSPOKEN_1 = ~z~~sl:0.0:3.3~So... ~rp~what happened with those Pinkertons, anyway?~sl:0.4~~rp~When you were fishing with Jack?
+
+DCH1_BANT2BSPOKEN_2 = ~z~Said they were onto us. ~rp~Offered me freedom if I turned Dutch in.
+
+DCH1_BANT2BSPOKEN_3 = ~z~~sl:0.8:0.0~They picked the wrong man there.
+
+DCH1_BANT2BSPOKEN_5 = ~z~Bastards told me they'd killed Mac. Said it right in front of Jack.
+
+DCH1_BANT2BSPOKEN_6 = ~z~~sl:1.3:0.0~That kid... it's gonna be tough for him.
+
+DCH1_BANT2BSPOKEN_7 = ~z~~sl:0.0:4.0~Yeah... but ~rp~he has more folk looking out for him~sl:~than most of the rest of us had growing up.
+
+DCH1_BANT2B_4 = ~z~We should have moved right then, if you ask me.
+
+DCH1_BANT2CSHOUTED_3 = ~z~He reckoned he'd be able to slip in and out.
+
+DCH1_BANT2CSHOUTED_4 = ~z~Well! ~rp~If it's John's idea, must be a good one.
+
+DCH1_BANT2CSPOKEN_3 = ~z~~sl:0.7:0.0~He reckoned he'd be able to slip in and out.
+
+DCH1_BANT2CSPOKEN_4 = ~z~Oh, well... ~rp~if it's John's idea, it must be a good one.
+
+DCH1_BANT2C_1 = ~z~John said he was going back to the auction yard to collect the money for those sheep.
+
+DCH1_BANT2C_2 = ~z~He'd be a damn idiot going anywhere near that town right now.
+
+DCH1_BANT2C_5 = ~z~What is with you and him?
+
+DCH1_BANT2C_6 = ~z~Well, he disappeared on us for a while...
+
+DCH1_BANT2C_7 = ~z~when Jack was real young, a long while,  a year or more.
+
+DCH1_BANT2C_8 = ~z~He did?
+
+DCH1_BANT2C_9 = ~z~And we was... family, you know?
+
+DCH1_BANT2C_10 = ~z~Guess I still ain't fully forgiven him for that.
+
+DCH1_BODY_1 = ~z~You see it? Someone on the ground there.
+
+DCH1_CLOSER_1 = ~z~Hey, I see something over there.
+
+DCH1_COMEA2_1 = ~z~I think I saw a camp up ahead, let's go take a look.
+
+DCH1_COMEA2_2 = ~z~Alright.
+
+DCH1_COMEA_1 = ~z~Alright, Charles, let's go take a look.
+
+DCH1_COMEON_1 = ~z~Come on then, let's take a look.
+
+DCH1_FIND_01 = ~z~Hold up, let me check this.
+
+DCH1_FIND_02 = ~z~Wait a second, just want to look closer here.
+
+DCH1_FIND_03 = ~z~Wait, just let me make sure this is right.
+
+DCH1_FIND_04 = ~z~I think this is the right way. Give me a second.
+
+DCH1_FLEEING_1 = ~z~The last one making a run for it! Take him down!
+
+DCH1_GERMAN2_01 = ~t~In German: Oh my God!
+
+DCH1_GERMAN2_02 = ~t~In German: What the hell is going on?
+
+DCH1_GERMAN2_03 = ~t~In German: Just let me go!
+
+DCH1_GERMAN2_04 = ~t~In German: You're crazy!
+
+DCH1_GERMAN2_05 = ~t~In German: I just want to go back to my family!
+
+DCH1_GERMAN2_06 = ~t~In German: Stop this, please!
+
+DCH1_GERMAN3_01 = ~t~In German: They are all gone.
+
+DCH1_GERMAN3_02 = ~t~In German: Help me!
+
+DCH1_GERMAN3_03 = ~t~In German: Please let me go.
+
+DCH1_GERMAN3_04 = ~t~In German: Cut me free!
+
+DCH1_GERMAN3_05 = ~t~In German: Cut the ropes, please?
+
+DCH1_GERMAN3_06 = ~t~In German: Over here!
+
+DCH1_GERMAN_01 = ~t~In German: Shit.
+
+DCH1_GERMAN_02 = ~t~In German: My god.
+
+DCH1_GERMAN_03 = ~t~In German: No.
+
+DCH1_GERMAN_04 = ~t~In German: This is crazy.
+
+DCH1_GERMAN_05 = ~t~In German: Damn it.
+
+DCH1_GMNM_1 = ~t~In German: So I'm coming with you then?
+
+DCH1_GMNW_01 = ~t~In German: What are we doing now?
+
+DCH1_GMNW_02 = ~t~In German: Thank you for helping me.
+
+DCH1_GMNW_03 = ~t~In German: Did my family send you?
+
+DCH1_HEADOUT_01 = ~z~Charles, come with me. We got work to do.
+
+DCH1_HEADOUT_02 = ~z~Hey Charles, come on. I need you for something.
+
+DCH1_HILLA_1 = ~z~Looks like they cut off down the trail to the left.
+
+DCH1_HILLA_2 = ~z~You're right. Okay, come on.
+
+DCH1_HILL_1 = ~z~Okay, looks like they go down this way.
+
+DCH1_HOOFA_1 = ~z~Looks like they go along the shore there.
+
+DCH1_HOOFA_2 = ~z~I see them.
+
+DCH1_HOOF_1 = ~z~Continues along the shore here.
+
+DCH1_HORSES_01 = ~z~We got more riding in!
+
+DCH1_HORSES_02 = ~z~Look out! Riders coming in!
+
+DCH1_IG1_P1_1 = ~z~~sl:1.0:0.0~There's a camp just up ahead...
+
+DCH1_IG1_P1_2 = ~z~Sure. Let's get ready for business.
+
+DCH1_IG1_P1_3 = ~z~Any issues... shoot first, debate second.
+
+DCH1_IG1_P1_4 = ~z~I'm not gonna shoot for the sake of it.
+
+DCH1_IG1_P1_5 = ~z~Survival's for the sake of it. Quit talking.
+
+DCH1_IG1_P1_6 = ~z~You started it.
+
+DCH1_IG1_P2_1 = ~z~Where is everybody?
+
+DCH1_IG1_P2_2 = ~z~Maybe they heard us coming. Be careful.
+
+DCH1_IG1_P2_3 = ~z~I am being careful.
+
+DCH1_IG1_P2_A_1 = ~z~
+
+DCH1_IG2_P1_A2_1 = ~z~There he is.
+
+DCH1_IG2_P1_A_1 = ~z~So where is this guy?
+
+DCH1_IG2_P1_A_2 = ~z~I don't know... but you know something?
+
+DCH1_IG2_P1_A_3 = ~z~This is a better camp spot than back there. Much easier to defend.
+
+DCH1_IG2_P1_A_4 = ~z~Maybe...
+
+DCH1_IG2_P1_B_1 = ~t~~sl:2.5:0.0~In German: Careful! Careful! It's a trap! Careful!
+
+DCH1_IG2_P1_B_2 = ~z~Take cover!
+
+DCH1_IG3_LOUD_1 = ~z~Arthur.
+
+DCH1_IG3_QUIET_1 = ~z~Arthur...
+
+DCH1_LOOT_1 = ~z~Ah... you really have to do that?
+
+DCH1_LOOT_2 = ~z~He don't need it now.
+
+DCH1_MOUNT2_01 = ~z~Let's go!
+
+DCH1_MOUNT2_02 = ~z~You're doing this, come on.
+
+DCH1_MOUNT2_03 = ~z~Arthur, get on your horse.
+
+DCH1_MOUNT_01 = ~z~Are we going then?
+
+DCH1_MOUNT_02 = ~z~I thought you meant now, Arthur?
+
+DCH1_MOUNT_03 = ~z~So... are we riding there?
+
+DCH1_NEARA_1 = ~z~They continue onto that trail ahead of us.
+
+DCH1_NEARA_2 = ~z~Good eyes, Arthur, let's keep on them.
+
+DCH1_NEAR_1 = ~z~They carry on along this trail.
+
+DCH1_OVER_1 = ~z~Well, that's them dealt with.
+
+DCH1_OVER_2 = ~z~You get him untied and I'll see what they've left behind for us.
+
+DCH1_QUIET_1 = ~z~Hey, quiet now. There's a camp up ahead.
+
+DCH1_QUIET_2 = ~z~Be careful.
+
+DCH1_REPLY_01 = ~z~Now where have I heard that before...
+
+DCH1_REPLY_02 = ~z~Sure, this can wait.
+
+DCH1_RSC1_1 = ~z~And when do we stop?
+
+DCH1_RSC1_2 = ~z~When we reach Paris?
+
+DCH1_RSC1_3 = ~z~Oh, that'd be nice.
+
+DCH1_RSC1_4 = ~z~Join the commune?
+
+DCH1_RSC1_5 = ~z~We stop when we find someplace sensible...
+
+DCH1_RSC1_6 = ~z~shake them that's following us...
+
+DCH1_RSC1_7 = ~z~and lie low.
+
+DCH1_RSC1_8 = ~z~This is lying low?
+
+DCH1_RSC1_9 = ~z~Turned into a bunch of killers, I mean it.
+
+DCH1_RSC1_10 = ~z~We ain't even got the delusion of being anything but a bunch of killers.
+
+DCH1_RSC1_11 = ~z~We are just trying to survive, Hosea...
+
+DCH1_RSC1_12 = ~z~we don't have a choice.
+
+DCH1_RSC1_13 = ~z~This'll end soon.
+
+DCH1_RSC1_14 = ~z~Damn right it will.
+
+DCH1_RSC1_15 = ~z~Constipated as usual.
+
+DCH1_RSC1_16 = ~z~Micah told me of a place we can lie low.
+
+DCH1_RSC1_17 = ~z~Look here...
+
+DCH1_RSC1_18 = ~z~Dewberry Creek, he said.
+
+DCH1_RSC1_19 = ~z~Okay.
+
+DCH1_RSC1_20 = ~z~Maybe you and Charles can go take a look...
+
+DCH1_RSC1_21 = ~z~clear off anyone you find...
+
+DCH1_RSC1_22 = ~z~before the whole lot of us move in...
+
+DCH1_RSC1_23 = ~z~looking so conspicuous.
+
+DCH1_RSC1_24 = ~z~And how we gonna do that?
+
+DCH1_RSC1_25 = ~z~I don't know.
+
+DCH1_RSC1_26 = ~z~Start dancing?
+
+DCH1_RSC1_27 = ~z~Looks like I've turned into the goddamn errand boy.
+
+DCH1_RSC1_28 = ~z~You have turned into my son...
+
+DCH1_RSC1_29 = ~z~you worry, because I worry.
+
+DCH1_RSC1_30 = ~z~We are just the same.
+
+DCH1_RSC1_A1_1 = ~z~~sl:0.0:3.3:1~So... we keep heading east. Is that the plan?
+
+DCH1_RSC1_A1_2 = ~z~~sl:0.1:0.0~For now.
+
+DCH1_RSC1_A2_1 = ~z~And when do we stop, when we reach Paris?
+
+DCH1_RSC1_A3_1 = ~z~Oh that'd be nice, join the Commune?
+
+DCH1_RSC1_A4_1 = ~z~We stop when we find someplace sensible,
+
+DCH1_RSC1_A5_1 = ~z~shake them that's following us and lie low.
+
+DCH1_RSC1_A6_1 = ~z~This is lying low?
+
+DCH1_RSC1_A7_1 = ~z~We've turned into a bunch of killers, I mean it.
+
+DCH1_RSC1_A8_1 = ~z~We ain't even got the delusion of being anything but a bunch of killers.
+
+DCH1_RSC1_A9_1 = ~z~We are just trying to survive, Hosea.
+
+DCH1_RSC1_A10_1 = ~z~We don't have a choice.
+
+DCH1_RSC1_A101_1 = ~z~This'll end soon.
+
+DCH1_RSC1_A101_2 = ~z~Damn right it will.
+
+DCH1_RSC1_A101_3 = ~z~Constipated as usual.
+
+DCH1_RSC1_INT_1 = ~z~So, we moving?
+
+DCH1_RSC1_INT_2 = ~z~Yeah.
+
+DCH1_RSC2_1 = ~z~It's okay...
+
+DCH1_RSC2_2 = ~z~it's okay...
+
+DCH1_RSC2_3 = ~z~you can come outta there.
+
+DCH1_RSC2_4 = ~z~You okay?
+
+DCH1_RSC2_5 = ~z~We don't mean you no harm.
+
+DCH1_RSC2_6 = ~z~He said a-are you okay?
+
+DCH1_RSC2_7 = ~z~Sprechen sie Deutsch?
+
+DCH1_RSC2_8 = ~z~G-German?
+
+DCH1_RSC2_9 = ~z~No...
+
+DCH1_RSC2_10 = ~z~now go on, get out of here.
+
+DCH1_RSC2_11 = ~z~Go, we need the land. Go.
+
+DCH1_RSC2_12 = ~z~Get the hell outta here.
+
+DCH1_RSC2_13 = ~z~They took our father.
+
+DCH1_RSC2_14 = ~z~Who did?
+
+DCH1_RSC2_15 = ~z~M-men...
+
+DCH1_RSC2_16 = ~z~last night.
+
+DCH1_RSC2_17 = ~z~Where?
+
+DCH1_RSC2_18 = ~z~Where did they take him?
+
+DCH1_RSC2_19 = ~z~Ain't no business of ours.
+
+DCH1_RSC2_20 = ~z~I don't even speak their language.
+
+DCH1_RSC2_21 = ~z~You ain't as tough and dense as all that.
+
+DCH1_RSC2_22 = ~z~Come on, Arthur.
+
+DCH1_RSC2_LI_1 = ~z~Someone's been here.
+
+DCH1_RSC2_LI_2 = ~z~~sl:0.8:0.0~Sure.
+
+DCH1_RSC2_LI_3 = ~z~~sl:0.6~Someone's still here...
+
+DCH1_RSC2_LI_4 = ~z~There ain't no one here now.
+
+DCH1_RSC2_LI_5 = ~z~I ain't so sure about that.
+
+DCH1_RSC4_1 = ~z~Andreas!
+
+DCH1_RSC4_2 = ~z~Andreas!
+
+DCH1_RSC4_3 = ~t~In German: I thought you were dead...
+
+DCH1_RSC4_4 = ~t~In German: I nearly was.
+
+DCH1_RSC4_5 = ~t~In German: My darlings...
+
+DCH1_RSC4_6 = ~t~In German: my precious darlings.
+
+DCH1_RSC4_7 = ~t~In German: Wonderful.
+
+DCH1_RSC4_8 = ~t~In German: You are a great man...
+
+DCH1_RSC4_9 = ~t~In German: a great man.
+
+DCH1_RSC4_10 = ~t~In German: We are blessed...
+
+DCH1_RSC4_11 = ~t~In German: to have met you.~n~~m~Thanks.
+
+DCH1_RSC4_12 = ~z~Go on now, get outta here. This place ain't safe.
+
+DCH1_RSC4_13 = ~z~Get outta here!
+
+DCH1_RSC4_14 = ~t~In German: Yes, yes, we're leaving.~n~~m~Vamos!
+
+DCH1_RSC4_15 = ~z~Vamos.
+
+DCH1_RSC4_16 = ~t~In German: I have something for you.
+
+DCH1_RSC4_17 = ~t~In German: Just a second.
+
+DCH1_RSC4_18 = ~t~In German: Thank you.
+
+DCH1_RSC4_19 = ~z~Thank you.
+
+DCH1_RSC4_20 = ~t~In German: Thanks a lot. From the bottom of my heart.
+
+DCH1_RSC4_21 = ~z~Guess it was a pleasure.
+
+DCH1_RSC4_LI_1 = ~t~In German: Darling!
+
+DCH1_RSC5_1 = ~t~In German: I don't believe it...
+
+DCH1_RSC5_2 = ~t~In German: I think it's the man who helped us.
+
+DCH1_RSC5_3 = ~t~In German: He seems not well.
+
+DCH1_RSC5_4 = ~t~In German: No...
+
+DCH1_RSC5_5 = ~t~In German: he looks close to the end.
+
+DCH1_RSC5_6 = ~z~Please...
+
+DCH1_RSC5_7 = ~z~drink...
+
+DCH1_RSC5_8 = ~z~drink this.
+
+DCH1_RSC5_9 = ~z~Thanks.
+
+DCH1_RSC5_10 = ~z~Rest a minute.
+
+DCH1_RSC5_11 = ~t~In German: I wish my English were better...
+
+DCH1_RSC5_12 = ~z~I... I gotta go.
+
+DCH1_RSC5_13 = ~t~In German: you saved us...
+
+DCH1_RSC5_14 = ~t~In German: when we needed saving...
+
+DCH1_RSC5_15 = ~t~In German: and now we cannot save you...
+
+DCH1_RSC5_16 = ~t~In German: but... but...
+
+DCH1_RSC6_1 = ~z~You were right.
+
+DCH1_RSC6_2 = ~z~Oh, this place...
+
+DCH1_RSC6_3 = ~z~it'll be perfect for us.
+
+DCH1_RSC6_4 = ~z~Hello, Arthur.
+
+DCH1_RSC6_5 = ~z~Dutch.
+
+DCH1_RSC6_6 = ~z~Miss Grimshaw, Mr. Pearson...
+
+DCH1_RSC6_7 = ~z~put everyone to work.
+
+DCH1_RSC6_8 = ~z~Make this place a home.
+
+DCH1_RSC6_9 = ~z~Well, I don't know where the hell we are...
+
+DCH1_RSC6_10 = ~z~but, we are going to make the best of it.
+
+DCH1_SEARCH_1 = ~z~Well, let's take a look around.
+
+DCH1_SETOFF_1 = ~z~The girl was pointing this way, let's see if we can pick up a trail.
+
+DCH1_SHOTA_1 = ~z~He's been shot. Looks like trouble got here before us.
+
+DCH1_SHOT_1 = ~z~He's been shot. Let's be careful, Arthur.
+
+DCH1_SPOTS_1 = ~z~There's a camp up ahead.
+
+DCH1_SPOTS_2 = ~z~Be careful.
+
+DCH1_TALK_1 = ~t~In German: Thank you, my friend, thank you.
+
+DCH1_TALK_2 = ~z~Yeah okay. You wait there a second.
+
+DCH1_TALK_3 = ~z~Charles, go find Dutch, get the caravan to divert here. This spot should work for us.
+
+DCH1_TALK_4 = ~z~I agree.
+
+DCH1_TALK_5 = ~z~Alright, come on. I'll take you back to your family.
+
+DCH1_TENT_1 = ~z~You see there? Tents and a wagon. Looks deserted.
+
+DCH1_TENT_2 = ~z~Okay, well, let's have a look around and make sure.
+
+DCH1_THINK_1 = ~z~That all of'em?
+
+DCH1_THINK_2 = ~z~Doesn't look like it.
+
+DCH1_TRAILA_1 = ~z~I see a trail just ahead.
+
+DCH1_TRAILA_2 = ~z~Yes that's it. Come on let's go.
+
+DCH1_TRAIL_1 = ~z~There, tracks. Come on.
+
+DCH1_TRAIL_2 = ~z~I don't see nothing.
+
+DCH1_TRAIL_3 = ~z~Hoof marks, this way.
+
+DCH1_TREELINE_01 = ~z~I see three coming this way!
+
+DCH1_TREELINE_02 = ~z~Three coming right at us!
+
+DCH1_TREES_1 = ~z~Tracks head into those trees. Let's keep our eyes open.
+
+DCH1_UNTIE_1 = ~z~Quick, cut him free and let's get outta here.
+
+DCH1_VICTIM_01 = ~z~
+
+DCH1_VICTIM_02 = ~z~
+
+DCH1_VICTIM_03 = ~z~
+
+DCH1_VICTIM_04 = ~z~
+
+DCH1_VICTIM_05 = ~z~
+
+DCH1_VICTIM_06 = ~t~In German: Help.
+
+DCH1_VICTIM_07 = ~t~In German: Help.
+
+DCH1_VICTIM_08 = ~t~In German: Over here.
+
+DCH1_VICTIM_09 = ~t~In German: Over here.
+
+DCH1_WAITING_01 = ~z~Come on, he looks in some pain there.
+
+DCH1_WAITING_02 = ~z~Cut him free, let's get him back to his family.
+
+DCH1_WAITING_03 = ~z~I thought you wanted to get this over with, Arthur?
+
+DCH1_WAIT_01 = ~z~Are you gonna cut the ropes or me?
+
+DCH1_WAIT_02 = ~z~You got your knife there?
+
+DCH1_WAIT_03 = ~z~Come on, before someone comes back.
+
+DCH1_WAYBACK_1 = ~t~In German: Where are you taking me?
+
+DCH1_WAYBACK_2 = ~z~What the hell did you do to those fellers?
+
+DCH1_WAYBACK_3 = ~t~In German: What did you say?
+
+DCH1_WAYBACK_4 = ~z~Those men back there, why did they take you?
+
+DCH1_WAYBACK_5 = ~z~Geld. Money.
+
+DCH1_WAYBACK_6 = ~t~In German: My family has a gold mining business. They wanted to send a ransom.
+
+DCH1_WAYBACK_7 = ~z~How did someone even come up with them words?
+
+DCH1_WAYBACK_8 = ~t~In German: You're taking me to my family?
+
+DCH1_WAYBACK_9 = ~t~In German: Oh thank you...how did they find you?
+
+DCH1_WAYBACK_10 = ~z~Look I'm sorry, friend, I can barely speak English.
+
+DCH1_WHY_01 = ~z~Why the hell you drag us into this, Charles?
+
+DCH1_WHY_02 = ~z~What are we doing? This ain't even our goddamn fight!
+

@@ -1,0 +1,164 @@
+0x00863C9C = ~z~We won't stay to find out. Good luck to you.
+
+0x05237B14 = ~z~I can't believe we're leaving everything behind...
+
+0x0E88F67D = ~z~What do you want? Go away.
+
+0x0F961017 = ~z~That's kind of you.
+
+0x1FBA9421 = ~z~Hello, again.
+
+0x2AB9134B = ~z~I don't want this.
+
+0x2CAE1A40 = ~z~Oh my God! He's insane...
+
+0x2E17E033 = ~z~Alright. Please just take this.
+
+0x2F24DFFF = ~z~Someone needs to deal with this.
+
+0x3B6C9D0E = ~z~Don't touch me!
+
+0x3C774B30 = ~z~Oh, mister, you've been afflicted. God help you, sir. We cannot. Keep your distance.
+
+0x4B340EA0 = ~z~Did you feed the horses?
+
+0x4F928CB1 = ~z~No! No, I have to leave here...
+
+0x5A7301C1 = ~z~What have I done to deserve this?
+
+0x5BB5CF4A = ~z~And, we have enough food and water for the journey? Clean water?
+
+0x6A672E24 = ~z~Get away from me.
+
+0x6B6C6C80 = ~z~Where is the law?
+
+0x6CEAB77A = ~z~The fever's driven you mad!
+
+0x6DD8A02B = ~z~Yes, yes, alright. I will not tell a soul about this, I swear.
+
+0x8AD576EC = ~z~Honey... honey, someone's coming. Look!
+
+0x8CF757CA = ~z~Why are you doing this to me? Please.
+
+0x9A42F444 = ~z~Illness, sir. It's spreading fast. I'd move on if I were you.
+
+0x9BC990E8 = ~z~What are you doing? Get away from me.
+
+0x9C39AABE = ~z~Oh, God, no! When is enough enough?
+
+0x9CFE9A22 = ~z~I'll show you what.
+
+0x9E16F22A = ~z~You don't want to get sick. Keep your distance.
+
+0x25B18680 = ~z~Excuse us. We have to leave. Now.
+
+0x29B97319 = ~z~For the love of God, no!
+
+0x37DDF1CA = ~z~Here, take this, just don't hurt me...
+
+0x44BF1BF9 = ~z~Maniac! Get away from us.
+
+0x49E9AA64 = ~z~Oh no, no. Not me.
+
+0x55D98CC5 = ~z~Just leave me alone.
+
+0x63ABF752 = ~z~I don't have the energy to spend on you.
+
+0x64B9A4CC = ~z~Look at them. They don't deserve that.
+
+0x76D51D30 = ~z~I'm just going to mind my own.
+
+0x94EB8FB3 = ~z~Come on, let's go...
+
+0x95EAD7DA = ~z~Oh, come on. Let's go. Let's go...
+
+0x120A1043 = ~z~Will you move, please?
+
+0x172BD4E8 = ~z~Let's go already.
+
+0x394CC13F = ~z~I just wanna get far away from here. For all we know, we already got it.
+
+0x526A661A = ~z~We don't need any more trouble here...
+
+0x3909A6D0 = ~z~I can't take this. Stop.
+
+0x7034F0B6 = ~z~How could you say that to me?
+
+0x9986EA72 = ~z~Why did you do this?
+
+0x26081F76 = ~z~You should leave here.
+
+0x37917A53 = ~z~If you aren't scared you're a fool, sir. Lord help you.
+
+0x87821F54 = ~z~Why are you treating me this way?
+
+0x529892AC = ~z~How could you? You got no soul?
+
+0x544565F8 = ~z~Yeah, okay. I guess.
+
+0x847120CF = ~z~Clothes, food, money... Our wedding gift.
+
+0x1534971D = ~z~Fine. You were a waste of breath anyway.
+
+0x59584941 = ~z~Oh, whoa. Please put the gun down.
+
+0x61480878 = ~z~Goodness, please, be careful.
+
+0x83457717 = ~z~Come on, let's go...
+
+0xA2F88922 = ~z~Was this you?
+
+0xA914AE39 = ~z~Someone, anyone... I'm in danger...
+
+0xAA961B13 = ~z~Oh please, watch yourself.
+
+0xAB04EAB6 = ~z~Oh, God, is this a robbery?
+
+0xACDBA948 = ~z~Here. Here. This is it.
+
+0xADDF86CF = ~z~At least that's passed...
+
+0xAE82AE22 = ~z~No! No, no, no, no, no!
+
+0xAE885EC4 = ~z~I need the authorities. Anyone on this?
+
+0xAF453EAF = ~z~I-I ain't afraid to cuff you.
+
+0xB035E843 = ~z~You have to leave. Right now.
+
+0xB6EE546A = ~z~Please, enough! I cannot take any more.
+
+0xB848CFD6 = ~z~God bless you, sir. I hope you do not suffer long.
+
+0xBB7736D6 = ~z~What? What do you want?
+
+0xBBBCDD73 = ~z~No. I don't have anything.
+
+0xC02EE16E = ~z~Get away from me.
+
+0xC9DB409B = ~z~How long does it take to tie that?
+
+0xC752C4A5 = ~z~You should get away from me, if you don't wanna get sick.
+
+0xCA12F0CD = ~z~Stop. Stop following me.
+
+0xCD16E6F7 = ~z~Please stop staring at me. I know I'm not in a good state.
+
+0xD003D628 = ~z~And not a moment too soon. Disease is taking people left and right.
+
+0xD7D9C9FE = ~z~Oh no. You can't be serious?
+
+0xD24985AB = ~z~I don't want this. Please.
+
+0xE44B485E = ~z~Please. Please stop.
+
+0xE423E292 = ~z~Please. I don't want to get into this.
+
+0xE3485BA6 = ~z~Enough already, let's go.
+
+0xF47BB388 = ~z~What are you doing? Leave them alone.
+
+0xFC5E9D3D = ~z~Please, please, I beg of you...
+
+0xFF8D6A7D = ~z~How dare you.
+

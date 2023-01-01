@@ -1,0 +1,20 @@
+GRY3_GANG = Return to the ~o~gang~s~
+
+GRY3_GANG_FAIL = The gang was abandoned.
+
+GRY3_OBJ01 = Follow the ~o~gang~s~
+
+GRY3_OBJ02 = Fend off the ~e~ambushers~s~
+
+GRY3_OBJ02B = Enter the back of the ~o~gun store~s~
+
+GRY3_OBJ02C = Take out the ~e~enemies~s~ in the gun store
+
+GRY3_OBJ03 = Fend off the ~e~attackers~s~
+
+GRY3_OBJ04 = Follow ~o~Micah~s~
+
+GRY3_OBJ05 = Kill the ~e~Grays~s~
+
+GRY3_SHOT_HELP = This weapon is loaded with explosive slugs. Switch between ammo types with ~INPUT_QUICK_SELECT_SECONDARY_NAV_NEXT~ and ~INPUT_QUICK_SELECT_SECONDARY_NAV_PREV~ on the Weapon Wheel.
+

@@ -1,0 +1,68 @@
+D_BLOCKED_CRRH1_1 = ~z~Move it, feller. We're on a schedule here.
+
+D_ILOG_CRRH1_1 = ~z~Hello.
+
+D_ILOR_CRRH1_1 = ~z~We got ourselves a thief! Deal with him!
+
+D_ILOS_CRRH1_1 = ~z~What's the problem?
+
+D_ILOT_03_CRRH1_1 = ~z~Feels fine driving. Alright, let's just get to Rhodes and we'll ask one of the stable boys to look it over.
+
+D_ILOT_03_CRRH1_2 = ~z~Fair enough.
+
+D_ILOT_CRRH1_1 = ~z~Yeah? Huh... shit, Maxwell, go take a look.
+
+D_ILOT_CRRH1_2 = ~z~Right...
+
+D_NERV_01_CRRH1_1 = ~z~You lost or something?
+
+D_NERV_02_CRRH1_1 = ~z~Can't have you so close, alright? Delicate cargo...
+
+D_NERV_03_CRRH1_1 = ~z~Are you deaf? Get outta here!
+
+D_RBLH_CRRH1_1 = ~z~Out of the way!
+
+D_RBLH_CRRH1_2 = ~z~Out of the way I said!
+
+D_RBLV_CRRH1_1 = ~z~Hey, got something here in the road!
+
+D_RBLV_CRRH1_2 = ~z~I don't like this...
+
+D_RBLV_CRRH1_3 = ~z~Come on, we gotta move it!
+
+D_SHOCKED_CRRH1_1 = ~z~Shit! He's going for the haul!
+
+D_SURR_01_CRRH1_1 = ~z~Okay, okay! Take what you want, just don't hurt me!
+
+D_SURR_02_CRRH1_1 = ~z~I hear you, loud'n clear...
+
+D_SURR_03_CRRH1_1 = ~z~Listen. I didn't see nothing, I swear... please...
+
+D_THREAT_CRRH1_1 = ~z~No, you ain't getting shit!
+
+G_ILOT_CRRH1_1 = ~z~I ain't no expert, but it looks alright to me.
+
+P_HUP_01J_CRRH1_1 = ~z~Try anything clever and I'll kill you.
+
+P_HUP_01_CRRH1_1 = ~z~Try anything clever and I'll kill you.
+
+P_HUP_02J_CRRH1_1 = ~z~Stay right where you are 'til you don't see me no more, understand?
+
+P_HUP_02_CRRH1_1 = ~z~Stay right where you are 'til you don't see me no more, understand?
+
+P_ILOGJ_CRRH1_1 = ~z~Hey there.
+
+P_ILOG_CRRH1_1 = ~z~Hey there.
+
+P_ILORJ_CRRH1_1 = ~z~Get off of there, now! Do what I say and nobody gets hurt.
+
+P_ILOR_CRRH1_1 = ~z~Get off of there, now! Do what I say and nobody gets hurt.
+
+P_ILOSJ_CRRH1_1 = ~z~Hey! Stop!
+
+P_ILOS_CRRH1_1 = ~z~Hey! Stop!
+
+P_ILOTJ_CRRH1_1 = ~z~Your back left wheel seems shaky to me, looks like it's about to come off.
+
+P_ILOT_CRRH1_1 = ~z~Your back left wheel seems shaky to me, looks like it's about to come off.
+

@@ -1,0 +1,18 @@
+CJVI1_ACTION_1 = ~z~What you doing with them knives, my friend?
+
+CJVI1_ACTION_2 = ~z~Poisoning the tips.
+
+CJVI1_ACTION_3 = ~z~Why?
+
+CJVI1_ACTION_4 = ~z~Makes for a quicker kill. You can take down a bear with one of these...
+
+CJVI1_ACTION_5 = ~z~if you hit it in the right spot.
+
+CJVI1_ACTION_6 = ~z~Interesting.
+
+CJVI1_ACTION_7 = ~z~Get me some Oleander... I'll show you how to make some. Pretty easy.
+
+CJVI1_ACTION_8 = ~z~Thanks Javier.
+
+CJVI1_ACTION_9 = ~t~In Spanish: Of course.
+

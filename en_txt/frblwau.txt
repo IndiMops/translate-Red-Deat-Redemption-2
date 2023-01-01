@@ -1,0 +1,42 @@
+FRBLW_3_CALLS_01 = ~z~~sl:0.0:0.6~Hey!~sl:0.6:1.0~You know how to shoot?~sl:0.4~Wanna earn a buck?
+
+FRBLW_3_CALLS_02 = ~z~~sl:0.0:2.0~Hey, you! You know how to handle yourself?~sl:0.6~Got some work if you want it.
+
+FRBLW_3_DEPART_01 = ~z~Let's go!
+
+FRBLW_3_DEPART_02 = ~z~Let's move!
+
+FRBLW_3_EXPLAI2_1 = ~z~~sl:0.0:1.0~Take a look in there.~sl:~That sour-faced son of a bitch is none other than Thaddeus Walter.
+
+FRBLW_3_EXPLAI2_2 = ~z~~sl:0.0:3.5~Big price on his head... one I intend to claim.~sl:~Little repayment on account of his being a no-good cheating card shark.
+
+FRBLW_3_EXPLAI2_3 = ~z~~sl:0.0:3.0~But a man like this got some well-armed friends,~sl:~and that's where you come in.
+
+FRBLW_3_EXPLAI2_4 = ~z~~sl:0.0:2.0~You get us to the jailhouse alive,~sl:0.4:0.9~I cut you in.~sl:0.4~Fair?
+
+FRBLW_3_EXPLAIN_1 = ~z~~sl:0.0:3.0~See this piece of shit? Thaddeus Walter.~sl:~Yep, the Thaddeus Walter... scourge of five states.
+
+FRBLW_3_EXPLAIN_2 = ~z~~sl:0.0:1.4~I'm fixing to trade his head in,~sl:~recoup some of the money he swindled out of me at cards.
+
+FRBLW_3_EXPLAIN_3 = ~z~~sl:0.0:4.5~But I ain't stupid... he's got some friends, and his friends got some guns.~sl:~So, you ride with me, I'll cut you in.
+
+FRBLW_3_EXPLAIN_4 = ~z~What do you say?
+
+FRBLW_3_READY_01 = ~z~~sl:0.0:2.5~Come on! Who says no to easy money?~sl:~Ride up here if you like, or stick close. Just keep twitchy.
+
+FRBLW_3_READY_02 = ~z~~sl:0.0:1.5~I can see you're keen!~sl:0.5~Sit up shotgun with me, or ride close. Just keep on that trigger.
+
+FRBLW_3_SHOUT_01 = ~z~Maybe they'll have a deck of cards in your cell, Walter!
+
+FRBLW_3_SHOUT_02 = ~z~~sl:0.0:2.0~So long, Thaddeus!~sl:~Try swindling your way outta this one!
+
+FRBLW_3_THANKS_01 = ~z~~sl:0.0:1.6~Hell of a day's work!~sl:0.6~Thank you, stranger.
+
+FRBLW_3_THANKS_02 = ~z~~sl:0.0:1.6~Boy, am I glad you were there.~sl:0.8~Thank you.
+
+FRBLW_3_WARNS_01 = ~z~Over there!
+
+FRBLW_3_WARNS_02 = ~z~Here they come!
+
+FRBLW_3_WARNS_03 = ~z~Shit, over there!
+

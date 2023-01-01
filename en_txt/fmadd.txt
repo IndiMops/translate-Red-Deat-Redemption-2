@@ -1,0 +1,110 @@
+0x0140B1AE = Deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon
+
+0x25E1520C = Take control and deliver the ~COLOR_FREEMODE_EVENT~wagon~s~ to the drop off.
+
+0xC3E1E014 = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach the ~COLOR_MP_OBJECTIVE~~2~
+
+DD_BBUSH_TRAWL_A_H = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~MacFarlane's Ranch
+
+DD_BBUSH_TRAWL_D_H = Deliver the horse to ~COLOR_MP_OBJECTIVE~MacFarlane's Ranch
+
+DD_BRAITHWAITE_A_H = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Shady Belle
+
+DD_BRAITHWAITE_D_H = Deliver the horse to ~COLOR_MP_OBJECTIVE~Shady Belle
+
+DD_DROP_OFF = Drop Off
+
+DD_E_POSSESS_OBJ_H = Take the ~COLOR_MP_OBJECTIVE_ENEMY~horse~s~ from ~COLOR_ENEMY~~1p~~s~
+
+DD_E_POSSESS_OBJ_W = Take the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~ from ~COLOR_ENEMY~~1p~~s~
+
+DD_FAILED_H = Delivered the horse
+
+DD_FAIL_RESPAWN_H = Horse lost
+
+DD_FAIL_RESPAWN_W = Wagon lost
+
+DD_GAME_UPDATE_POSSESSION_H_E = ~1p~~s~ has the ~COLOR_MP_OBJECTIVE_ENEMY~horse~s~
+
+DD_GAME_UPDATE_POSSESSION_H_F = ~1p~~s~ has the ~COLOR_POSSE_ALLY~horse~s~
+
+DD_GAME_UPDATE_POSSESSION_SELF_H = You have the horse
+
+DD_GAME_UPDATE_POSSESSION_SELF_W = You have the wagon
+
+DD_GAME_UPDATE_POSSESSION_W_E = ~1p~~s~ has the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~
+
+DD_GAME_UPDATE_POSSESSION_W_F = ~1p~~s~ has the ~COLOR_POSSE_ALLY~wagon~s~
+
+DD_GAPTOOTH_RIDGE_A_H = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Benedict Point
+
+DD_GAPTOOTH_RIDGE_D_H = Deliver the horse to ~COLOR_MP_OBJECTIVE~Benedict Point
+
+DD_GRAB_H = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~horse~s~
+
+DD_GRAB_W = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+DD_HEARTLAND_A_H = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach the ~COLOR_MP_OBJECTIVE~abandoned oil derrick
+
+DD_HEARTLAND_D_H = Deliver the horse to the ~COLOR_MP_OBJECTIVE~abandoned oil derrick
+
+DD_HEARTLAND_D_W = Deliver the wagon to the ~COLOR_MP_OBJECTIVE~abandoned oil derrick
+
+DD_HELP_H_FIRST_COLLECT_KILL = ~1p~ has the ~COLOR_MP_OBJECTIVE_ENEMY~horse~BLIP_MP_GAME_RACE_HORSE~.~s~ Take them out before they deliver it to the destination.
+
+DD_HELP_H_FIRST_COLLECT_PROT = ~1p~ has the ~COLOR_POSSE_ALLY~horse~BLIP_MP_GAME_RACE_HORSE~.~s~ Help them deliver it to the destination.
+
+DD_HELP_RULES = Take control and deliver the ~COLOR_FREEMODE_EVENT~horse~s~ to the drop off.
+
+DD_HELP_W_FIRST_COLLECT_KILL = ~1p~ has the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~BLIP_AMBIENT_COACH~.~s~ Take them out before they deliver it to the destination.
+
+DD_HELP_W_FIRST_COLLECT_PROT = ~1p~ has the ~COLOR_POSSE_ALLY~wagon~BLIP_AMBIENT_COACH~.~s~ Help them deliver it to the destination.
+
+DD_HORSE = Horse
+
+DD_MACLEAN_A_H = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Bluewater Farm
+
+DD_MACLEAN_D_H = Deliver the horse to ~COLOR_MP_OBJECTIVE~Bluewater Farm
+
+DD_PAC_RAIL_A_H = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Manzanita Post
+
+DD_PAC_RAIL_D_H = Deliver the horse to ~COLOR_MP_OBJECTIVE~Manzanita Post
+
+DD_PAINTED_SKY_A_H = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Flatneck Station
+
+DD_PAINTED_SKY_D_H = Deliver the horse to ~COLOR_MP_OBJECTIVE~Flatneck Station
+
+DD_PLEASANCE_HOUSE_A_H = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Ridgewood Farm
+
+DD_PLEASANCE_HOUSE_D_H = Deliver the horse to ~COLOR_MP_OBJECTIVE~Ridgewood Farm
+
+DD_PLEASANCE_HOUSE_D_W = Deliver the wagon to ~COLOR_MP_OBJECTIVE~Ridgewood Farm
+
+DD_RIO_BRAVO_A_H = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Solomon's Folly
+
+DD_RIO_BRAVO_D_H = Deliver the horse to ~COLOR_MP_OBJECTIVE~Solomon's Folly
+
+DD_R_FORK_A_H = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Cholla Springs Railroad
+
+DD_R_FORK_D_H = Deliver the horse to ~COLOR_MP_OBJECTIVE~Cholla Springs railroad
+
+DD_R_FORK_D_W = Deliver the wagon to ~COLOR_MP_OBJECTIVE~Cholla Springs railroad
+
+DD_SHARD_OUTRO_TITLE_FAILED = Dispatch Rider Over
+
+DD_STRAWBERRY_A_H = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Riggs Station
+
+DD_STRAWBERRY_D_H = Deliver the horse to ~COLOR_MP_OBJECTIVE~Riggs Station
+
+DD_TURN_IN_H_S = Deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~horse
+
+DD_VETERAN_HOME_A_H = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Moonstone Pond
+
+DD_VETERAN_HOME_D_H = Deliver the horse to ~COLOR_MP_OBJECTIVE~Moonstone Pond
+
+DD_WAGON = Wagon
+
+DD_WON_H = Horse delivered
+
+DD_WON_W = Wagon delivered
+

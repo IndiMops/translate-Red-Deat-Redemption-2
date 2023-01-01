@@ -1,0 +1,176 @@
+SPPIC_GREETA_1 = ~z~Can you leave my cave, please?
+
+SPPIC_GREETB_1 = ~z~If I wanted a friend, I wouldn't choose you.
+
+SPPIC_GREETC_1 = ~z~Listen, if I wanted to make friends, I wouldn't live in a cave.
+
+SPPIC_GREETD_1 = ~z~I don't know you, I don't like you, I don't want you.
+
+SPPIC_GREETE_1 = ~z~I don't want friends, I don't want company and I particularly don't want you. Whoever you are.
+
+SPPIC_GREETE_2 = ~z~If I come out of the shadows, you'll be very, very, very frightened.
+
+SPPIC_GREETF_1 = ~z~I'm the devil. I'm the devil. I'm the devil!
+
+SPPIC_GREETG_1 = ~z~Will you stop annoying me? I've got my bloody thoughts. I'm a genius!
+
+SPPIC_GREETH_1 = ~z~I'm too intelligent for you. Go away.
+
+SPPIC_GREETI_1 = ~z~Get the hell out of my cave.
+
+SPPIC_GREETJ_1 = ~z~Just sod off, will you?
+
+SPPIC_GREETK_1 = ~z~Go away, go away, go away!
+
+SPPIC_GREETL_1 = ~z~You're a moron.
+
+SPPIC_GREETM_1 = ~z~Go away, go away!
+
+SPPIC_GREETN_1 = ~z~I've seen America. I'm happier in this cave.
+
+SPPIC_GREETO_1 = ~z~Only a moron would want to go out there when they could live in here.
+
+SPPIC_IG1_AA_1 = ~z~Leave me alone!
+
+SPPIC_IG1_AB_1 = ~z~You horrible pig!
+
+SPPIC_IG1_AC_1 = ~z~You beast! You monster!
+
+SPPIC_IG1_AD_1 = ~z~You philistine!
+
+SPPIC_IG1_AE_1 = ~z~Monster!
+
+SPPIC_IG1_SA_1 = ~z~Okay, I'm not the devil, but I want to be. I want to be... and that's even worse.
+
+SPPIC_IG1_SA_2 = ~z~I'm a nasty man... go away. I don't want you here.
+
+SPPIC_IG1_SA_3 = ~z~Is that so bad? Wanting solitude, wanting loneliness...
+
+SPPIC_IG1_SA_4 = ~z~wanting anything but you?
+
+SPPIC_IG1_SA_5 = ~z~Go away.
+
+SPPIC_IG1_SB_1 = ~z~I see you... man. You're just a man... I'm an immortal spirit...
+
+SPPIC_IG1_SB_2 = ~z~I am. I am. I am. And that's a fact.
+
+SPPIC_IG1_SB_3 = ~z~I am the spirit of living in a cave and laughing at idiots like you.
+
+SPPIC_IG1_SB_4 = ~z~I'm above humanity. Miles above it.
+
+SPPIC_IG1_SB_5 = ~z~I prove that by living in a cave.
+
+SPPIC_IG1_SB_6 = ~z~I'm above your feeble morality. I don't like you. I don't need you. I don't.
+
+SPPIC_IG1_SB_7 = ~z~I'm not lonely. I've never been lonely. I've got my thoughts and my memories.
+
+SPPIC_IG1_SB_8 = ~z~They are special. Special, special, special. You'll not get them. You won't.
+
+SPPIC_IG1_SB_9 = ~z~Leave me alone. Just go away.
+
+SPPIC_IG1_SC_1 = ~z~I don't want presents. I offered her presents. She didn't want them either.
+
+SPPIC_IG1_SC_2 = ~z~I'm not lonely. I'm a philosopher. Philosophers live in caves. Well, the good ones do.
+
+SPPIC_IG1_SC_3 = ~z~The bad ones, the ones people understand, they live in universities.
+
+SPPIC_IG1_SC_4 = ~z~Real intelligent men, we have to live in caves. We do.
+
+SPPIC_IG1_SC_5 = ~z~Now bugger off!
+
+SPPIC_IG1_SD_1 = ~z~My philosophy is that man doesn't know anything at all, and all knowledge is an illusion
+
+SPPIC_IG1_SD_2 = ~z~and life is an illusion and words have no true meaning and all language is a lie.
+
+SPPIC_IG1_SD_3 = ~z~It was too brilliant for Boston.
+
+SPPIC_IG1_SD_4 = ~z~I tried Oxford. Land of goddamn morons. They didn't understand me.
+
+SPPIC_IG1_SD_5 = ~z~She didn't understand me...
+
+SPPIC_IG1_SD_6 = ~z~I'm happy here. I'd rather eat bear shit than speak with human beings.
+
+SPPIC_IG1_SE_1 = ~z~Nothing... nothing makes me long for the time of kings more than this...
+
+SPPIC_IG1_SE_2 = ~z~the age of the common man. The age of democracy. The age of idiots.
+
+SPPIC_IG1_SE_3 = ~z~We've put the idiots in charge and we wonder why the world has turned stupid!
+
+SPPIC_IG1_SE_4 = ~z~Are we dumber than them? Are we really?
+
+SPPIC_IG1_SE_5 = ~z~Could we possibly be this stupid? Don't answer that... it's a rhetorical question.
+
+SPPIC_IG1_SE_6 = ~z~I imagine even that's lost on you.
+
+SPPIC_INTROA_1 = ~z~Go away, please.
+
+SPPIC_INTROB_1 = ~z~Why don't you turn around and go back to the light.
+
+SPPIC_INTROC_1 = ~z~This cave isn't for the likes of you. You'll not be happy here.
+
+SPPIC_INTROD_1 = ~z~Go and find your own cave.
+
+SPPIC_INTROE_1 = ~z~I really don't want company.
+
+SPPIC_INTROF_1 = ~z~Why don't you go away now?
+
+SPPIC_INTROG_1 = ~z~There are nasty things and nasty people down here.
+
+SPPIC_INTROG_2 = ~z~And I don't mean you.
+
+SPPIC_INTROH_1 = ~z~Imagine the worst place ever...
+
+SPPIC_INTROH_2 = ~z~Well that's what this cave is like, now go away.
+
+SPPIC_INTROI_1 = ~z~Please, turn around and head up to the fresh air, and to the happy Americans up in the world.
+
+SPPIC_INTROJ_1 = ~z~Goodbye!
+
+SPPIC_INTROK_1 = ~z~Please, not another step! You're not wanted here.
+
+SPPIC_INTROL_1 = ~z~Go, go, go!
+
+SPPIC_INTROM_1 = ~z~Go back now, please!
+
+SPPIC_INTRON_1 = ~z~Come on, go away!
+
+SPPIC_SPEECHF_1 = ~z~Oh, you're back... what are you going to do this time? Try and eat me?
+
+SPPIC_SPEECHF_2 = ~z~You sad fool. You should find your own cave and go live there.
+
+SPPIC_SPEECHF_3 = ~z~I'd talk to you, but quite frankly, I have no interest in anything you have to say... you attack people in caves!
+
+SPPIC_SPEECHF_4 = ~z~It's hard to imagine anything less interesting than talking to a man who attacks sad men living in caves.
+
+SPPIC_SPEECHF_5 = ~z~I bet you have a deep-seated sense of your own inadequacies, don't you?
+
+SPPIC_SPEECHF_6 = ~z~Goodbye.
+
+SPPIC_SPEECHG_1 = ~z~Oh, will you please, please, please stop coming here to annoy me? I don't like you.
+
+SPPIC_SPEECHG_2 = ~z~I won't listen to you, I don't want a friend like you!
+
+SPPIC_SPEECHG_3 = ~z~Even if I wasn't strange and odd and in a cave, I wouldn't like you or know you or be your friend.
+
+SPPIC_SPEECHG_4 = ~z~Even if I wasn't me, I still wouldn't like you!
+
+SPPIC_SPEECHG_5 = ~z~If you were Socrates and I was Plato, I'd give you the hemlock myself.
+
+SPPIC_SPEECHG_6 = ~z~Go away. Oh, and by the way, you smell awfully.
+
+SPPIC_SPEECHH_1 = ~z~Oh great, what a surprise, it's you, the silent killer, the monster.
+
+SPPIC_SPEECHH_2 = ~z~The person who is so desperate for friends, you keep annoying me!
+
+SPPIC_SPEECHH_3 = ~z~Me, when I was sane, I was dull, and now I'm insane and I'm very dull.
+
+SPPIC_SPEECHH_4 = ~z~I live in a cave... I rant about the meaning of meaninglessness!
+
+SPPIC_SPEECHH_5 = ~z~I know everything about nothing and nothing about anything!
+
+SPPIC_SPEECHH_6 = ~z~I've never been with a woman!
+
+SPPIC_SPEECHH_7 = ~z~I'm very lonely, and still I don't know how to be friends!
+
+SPPIC_SPEECHH_8 = ~z~Go away!
+

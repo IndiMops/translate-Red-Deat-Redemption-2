@@ -1,0 +1,368 @@
+ORERW_CHK_FAIL_1 = ~z~The wagon... Mrs. Bassey...
+
+ORERW_CHK_FAIL_2 = ~t~In Spanish: Shit!
+
+ORERW_CHK_FAIL_3 = ~z~I gotta get out of here...
+
+ORERW_CHK_FAIL_4 = ~t~In Spanish: Oh, God, oh God...
+
+ORERW_CHL_AGGD_01 = ~z~Stop, okay? I'm just a driver!
+
+ORERW_CHL_AGGD_02 = ~t~In Spanish: You're insane!
+
+ORERW_CHL_AGGH_01 = ~z~No, stop! What is wrong with you?
+
+ORERW_CHL_AGGH_02 = ~z~It's just a horse!
+
+ORERW_CHL_AGGP_01 = ~z~What are you doing to me?
+
+ORERW_CHL_AGGP_02 = ~z~Enough! Enough!
+
+ORERW_CHL_AGGW_01 = ~z~Hey! Don't break a good coach!
+
+ORERW_CHL_AGGW_02 = ~z~Stop that! What the hell are you doing?
+
+ORERW_CHL_AGPW_01 = ~z~What are you doing? You could hurt me!
+
+ORERW_CHL_AGPW_02 = ~z~That's enough! Stop at once!
+
+ORERW_CHL_BCK1_01 = ~z~Oh, oh, well done!
+
+ORERW_CHL_BCK2_01 = ~z~Take me back to my driver now, if you please.
+
+ORERW_CHL_BCK3_01 = ~z~~sl:0.0:2.5~Safe, no thanks to that Luis.~sl:~If he isn't lucky I'll hire you instead...
+
+ORERW_CHL_BCK4_01 = ~z~Hmm. Where are we going? Take me to my driver. Now.
+
+ORERW_CHL_BCK5_01 = ~z~Hello? Where are we going?
+
+ORERW_CHL_BCK6_01 = ~z~What is this? Take me back! You-you aren't planning anything untoward, are you?
+
+ORERW_CHL_BCK7_01 = ~z~This is absurd! Take me back to Luis this instant! Take me back!
+
+ORERW_CHL_BCK8_01 = ~z~Oh, oh, you're out for me! I know it! I know it!
+
+ORERW_CHL_BNTP1_1 = ~z~That is the last time we stop on the road, Luis. The last time.
+
+ORERW_CHL_BNTP1_2 = ~z~Yes, ma'am. I am very sorry.
+
+ORERW_CHL_BNTP1_3 = ~z~I have been kind to you, Luis. I even paid for new clothes for you,
+
+ORERW_CHL_BNTP1_4 = ~z~and I let you use the horses to run your errands when I was indisposed.
+
+ORERW_CHL_BNTP1_5 = ~z~You are. And you did, yes. You are very kind, ma'am.
+
+ORERW_CHL_BNTP1_6 = ~z~Yes, and this is how you repay my kindness? Nearly letting me break my back?
+
+ORERW_CHL_BNTP1_7 = ~z~Oh, part of me thinks I should have you punished, Luis.
+
+ORERW_CHL_BNTP1_8 = ~z~Yes, ma'am...
+
+ORERW_CHL_BNTP1_9 = ~z~Now. Drive fast, and silent. My head is pounding.
+
+ORERW_CHL_BNTP1_10 = ~z~Yes, ma'am...
+
+ORERW_CHL_BYE1_1 = ~z~Thank you again! Very impressive.
+
+ORERW_CHL_BYEF_1 = ~z~I... oh, this is bad... I gotta go...
+
+ORERW_CHL_CRSB_1 = ~z~And you! Lot of help you were. Get away from me.
+
+ORERW_CHL_CRSH_01 = ~z~Oh! I thought that might have been... Oh, God...
+
+ORERW_CHL_CRSH_02 = ~z~And where is that Luis? That layabout. I'll see him in irons for this! Nearly broke my back...
+
+ORERW_CHL_DEAD_1 = ~z~Oh! This is the end!
+
+ORERW_CHL_DESHW_1 = ~z~Oh! The horse! Help! I am under attack!
+
+ORERW_CHL_DESH_1 = ~z~In Spanish: Monster!
+
+ORERW_CHL_DESW_1 = ~z~In Spanish: Goddammit!
+
+ORERW_CHL_DESW_2 = ~z~I'm out of here...
+
+ORERW_CHL_FOLP_1 = ~z~I don't need you or anyone following me. Leave me alone.
+
+ORERW_CHL_FOLW1_1 = ~z~What are you doing? I don't know you, okay? Let me on my way.
+
+ORERW_CHL_HLP1_1 = ~z~Stop! Stop that coach! Stop the horses! Oh, God, Stop!
+
+ORERW_CHL_HLP2_1 = ~z~Someone, anyone, stop that coach!
+
+ORERW_CHL_HLP3_01 = ~z~There's someone inside! It will crash!
+
+ORERW_CHL_HLP3_02 = ~z~Please, stop that wagon right away!
+
+ORERW_CHL_HLP3_03 = ~z~Go on, get to the wagon, go!
+
+ORERW_CHL_HOPD_1 = ~z~Hey? This is a private coach! Get off!
+
+ORERW_CHL_HOPP_1 = ~z~Oh! My God, what are you doing in here? Get out!
+
+ORERW_CHL_HPP1_1 = ~z~I am trapped in here! Help! Help!
+
+ORERW_CHL_HPP2_1 = ~z~I cannot control this thing!
+
+ORERW_CHL_HPP3_01 = ~z~Will somebody please help me?
+
+ORERW_CHL_HPP3_02 = ~z~I'm going to die!
+
+ORERW_CHL_HPP3_03 = ~z~Please! I can't die like this!
+
+ORERW_CHL_ONWB_01 = ~z~Get a handle on the horses! There's no time!
+
+ORERW_CHL_ONWB_02 = ~z~Control this thing before it's too late!
+
+ORERW_CHL_ONW_1 = ~z~Oh, thank God! Please, stop this wagon! And quickly!
+
+ORERW_CHL_SCLD_1 = ~z~Luis! Reward this person. And be quick about it.
+
+ORERW_CHL_SCLD_2 = ~z~Yes, ma'am. Of course.
+
+ORERW_CHL_TAKE_01 = ~z~Here. Take this, and thank you... Dios... you really saved me here...
+
+ORERW_CHL_THK1_1 = ~t~In Spanish: Thank God.
+
+ORERW_CHL_THK1_2 = ~z~You got it! I am very glad to see you...
+
+ORERW_CHL_WSD_1 = ~z~What the? Oh, dios! Where are you going?
+
+ORERW_CHL_WSD_2 = ~t~In Spanish: God, no...
+
+ORERW_CHL_WSP_1 = ~z~Luis... what's happening... stop the wagon please...
+
+ORERW_CHL_WSP_2 = ~z~Oh, what? Stop this wagon at once!
+
+ORERW_CHS_AGGD_01 = ~t~In Spanish: Go to hell!
+
+ORERW_CHS_AGGD_02 = ~z~What are you doing?
+
+ORERW_CHS_AGGH_01 = ~z~Don't you touch Pistolero!
+
+ORERW_CHS_AGGH_02 = ~z~You leave that horse alone!
+
+ORERW_CHS_AGGP_01 = ~z~Ah! No, please, stop!
+
+ORERW_CHS_AGGP_02 = ~z~Enough!
+
+ORERW_CHS_AGGP_03 = ~t~In Spanish: God, save me!
+
+ORERW_CHS_AGGW_01 = ~z~Hey! That's a good wagon!
+
+ORERW_CHS_AGGW_02 = ~t~In Spanish: You piece of shit!
+
+ORERW_CHS_AGPW_01 = ~z~Please, I'm trapped in here! Don't hurt me!
+
+ORERW_CHS_AGPW_02 = ~z~You could hurt me! Please!
+
+ORERW_CHS_BCK1_1 = ~z~Ah, you did it! I'm saved.
+
+ORERW_CHS_BCK2_1 = ~z~Could you take me back where I came from? My prima will be worried for me.
+
+ORERW_CHS_BCK3_1 = ~z~~sl:0.0:3.2~You know, she drives me, but we're very close.~sl:0.3~She loves me very much, she will be worried.
+
+ORERW_CHS_BCK4_1 = ~z~Is this the right way? Hello? Is this the right way?
+
+ORERW_CHS_BCK5_1 = ~z~I-I think... my prima is in the other direction. Where are we going?
+
+ORERW_CHS_BCK6_1 = ~z~Turn around. Hello? This is not right! I am not comfortable with this.
+
+ORERW_CHS_BCK7_1 = ~z~Take me back to her this moment. Right away. Now!
+
+ORERW_CHS_BCK8_1 = ~z~Oh... I know what you are doing. You're going to kill me! No!
+
+ORERW_CHS_BNTP1_1 = ~z~I'm still shaking. I can't believe that happened.
+
+ORERW_CHS_BNTP1_2 = ~z~You're fine.
+
+ORERW_CHS_BNTP1_3 = ~z~And what happened anyway? You smack your horse, eh? Some bad joke!
+
+ORERW_CHS_BNTP1_4 = ~z~That would have been a good joke! I'm disappointed I didn't...
+
+ORERW_CHS_BNTP1_5 = ~z~Wait until your tio hears about this.
+
+ORERW_CHS_BNTP1_6 = ~z~He'll be glad Pistolero is still alive, that's true.
+
+ORERW_CHS_BNTP1_7 = ~z~Oh, very funny, very funny. My back hurts.
+
+ORERW_CHS_BNTP1_8 = ~t~In Spanish: So delicate, little baby.
+
+ORERW_CHS_BYE1_1 = ~z~You ain't interested in taking him off my hands, are you? Anyway...
+
+ORERW_CHS_BYEF_1 = ~z~Listen. You didn't see me, none of this...
+
+ORERW_CHS_BYEF_2 = ~t~In Spanish: Son of a bitch...
+
+ORERW_CHS_CRSB_1 = ~z~I might have died. And you look on? That isn't how you treat people. I am... I am respected!
+
+ORERW_CHS_CRSH_1 = ~z~Oh, oh! I am not dead? How... I should be dead...
+
+ORERW_CHS_CRSH_2 = ~z~Where am I... what do I do now?
+
+ORERW_CHS_CRSH_3 = ~z~In Spanish: Cousin? Cousin? Help!
+
+ORERW_CHS_DEAD_1 = ~z~Dios mio!
+
+ORERW_CHS_DESHW_1 = ~z~Oh my god, why did you do that?
+
+ORERW_CHS_DESH_1 = ~t~In Spanish: Goddamn you! Goddamn you!
+
+ORERW_CHS_DESW_1 = ~z~Dios, no!
+
+ORERW_CHS_FAIL_1 = ~z~You couldn't stop it? My horse? My cousin? Oh... goddammit, this will take some explaining. Shit.
+
+ORERW_CHS_FOLP_1 = ~z~Don't follow me...
+
+ORERW_CHS_FOLP_2 = ~z~In Spanish: Cousin?
+
+ORERW_CHS_FOLW1_1 = ~z~Hey. I don't want you following me. Go away.
+
+ORERW_CHS_HLP1_1 = ~z~Shit! Someone stop that coach!
+
+ORERW_CHS_HLP2_1 = ~z~Anyone? That coach!
+
+ORERW_CHS_HLP3_01 = ~z~My cousin's in there!
+
+ORERW_CHS_HLP3_02 = ~z~Someone's in that coach!
+
+ORERW_CHS_HLP3_03 = ~z~My horse is crazy, stop it! Stop that coach!
+
+ORERW_CHS_HOPD_1 = ~z~Hey, get off, now!
+
+ORERW_CHS_HOPP_1 = ~z~Who are you?
+
+ORERW_CHS_HPP1_1 = ~z~Help! Help! I am going to die!
+
+ORERW_CHS_HPP2_1 = ~z~I cannot do anything!
+
+ORERW_CHS_HPP3_01 = ~z~Oh, please, you must save me!
+
+ORERW_CHS_HPP3_02 = ~z~Help me! Quick!
+
+ORERW_CHS_HPP3_03 = ~z~I am going to die!
+
+ORERW_CHS_ONWB_01 = ~z~Why aren't we stopped yet? Stop it, stop it!
+
+ORERW_CHS_ONWB_02 = ~z~You have to control the, uh, control it!
+
+ORERW_CHS_ONW_01 = ~z~Oh, yes! You have been sent from God!
+
+ORERW_CHS_ONW_02 = ~z~Stop the wagon! Make it stop!
+
+ORERW_CHS_SCLD_1 = ~z~Prima! I nearly died! What happened? How could you scare me like this?
+
+ORERW_CHS_SCLD_2 = ~z~Oh, you're fine...
+
+ORERW_CHS_TAKE_1 = ~z~Here. And thank you for your help. I suppose I'm glad he's still alive...
+
+ORERW_CHS_THK1_1 = ~z~Ah! Pistolero is alive. And, uh... my cousin, too?
+
+ORERW_CHS_WSD_1 = ~z~Oh, come on... Pistolero, whoa! Whoa!
+
+ORERW_CHS_WSP_1 = ~z~Hey? Wait, what is happening? Cousin?
+
+ORERW_CHS_WSP_2 = ~z~Cousin! Where am I going? Where are you?
+
+ORERW_CTL_AGGD_01 = ~z~You kidding me?
+
+ORERW_CTL_AGGD_02 = ~z~You a piece of shit!
+
+ORERW_CTL_AGGH_01 = ~z~Hey, it's just an animal!
+
+ORERW_CTL_AGGH_02 = ~z~Hey, leave that horse alone.
+
+ORERW_CTL_AGGW_01 = ~z~Hey, that's my property!
+
+ORERW_CTL_AGGW_02 = ~z~You get your hands off my wagon!
+
+ORERW_CTL_BYE1_1 = ~z~Best to you.
+
+ORERW_CTL_BYEF_1 = ~z~Great. You're a real help. Real kind.
+
+ORERW_CTL_DESH_1 = ~z~What the hell is wrong with you?
+
+ORERW_CTL_DESW_1 = ~z~Shit! Goddamn you!
+
+ORERW_CTL_FAIL_1 = ~z~So where's my wagon? Did you get it or not?
+
+ORERW_CTL_FOLW1_1 = ~z~Not looking for a companion.
+
+ORERW_CTL_HLP1_1 = ~z~Hey! Stop that wagon!
+
+ORERW_CTL_HLP2_1 = ~z~Hurry, please. Go stop it!
+
+ORERW_CTL_HLP3_01 = ~z~Shit! It ain't gonna stop!
+
+ORERW_CTL_HLP3_02 = ~z~That damn horse is gone off, go get that wagon!
+
+ORERW_CTL_HLP3_03 = ~z~Do something, please! I can't lose that wagon!
+
+ORERW_CTL_HOP_1 = ~z~Hey, get the hell off my wagon.
+
+ORERW_CTL_STAY_1 = ~z~Oh, you just watch? Thanks for nothing.
+
+ORERW_CTL_STAY_2 = ~z~This won't go over good...
+
+ORERW_CTL_STAY_3 = ~z~Well, what can you do?
+
+ORERW_CTL_TAKE_1 = ~z~Here. Thanks for your help.
+
+ORERW_CTL_THK1_1 = ~z~Yes! You alright. Fool horse or not, I couldn't lose the wagon.
+
+ORERW_CTL_WSD1_1 = ~z~Shit, not today...
+
+ORERW_CTL_WSD1_2 = ~z~Stop! Stop!
+
+ORERW_CTS_AGGD_01 = ~z~Hey, what's your damn problem?
+
+ORERW_CTS_AGGD_02 = ~z~You lousy piece of trash!
+
+ORERW_CTS_AGGH_01 = ~z~Hey! I paid four dollars for that nag, you shit!
+
+ORERW_CTS_AGGH_02 = ~z~Kill your own damn horse!
+
+ORERW_CTS_AGGW_01 = ~z~Hey, that's my brother's cart you're breaking!
+
+ORERW_CTS_AGGW_02 = ~z~You quit wailing on that wagon!
+
+ORERW_CTS_BYE1_1 = ~z~Okay then.
+
+ORERW_CTS_BYEF_1 = ~z~Some help you was... Jesus. Goddamn scrape of a day.
+
+ORERW_CTS_DESH_1 = ~z~Oh, goddamn you! Goddamn you!
+
+ORERW_CTS_DESW_1 = ~z~Oh, you, you... goddamn you then! Shit!
+
+ORERW_CTS_FAIL_1 = ~z~What happened to my wagon? What the hell happened? You was supposed to help me!
+
+ORERW_CTS_FAIL_2 = ~z~That's some lousy shit that is. Not what I needed today. And I gotta walk too?
+
+ORERW_CTS_FOLW1_1 = ~z~We're done here? Quit bugging me.
+
+ORERW_CTS_HLP1_1 = ~z~You there! Stop that wagon!
+
+ORERW_CTS_HLP2_1 = ~z~What you waiting on? Get my damn wagon!
+
+ORERW_CTS_HLP3_01 = ~z~Hurry on, it's gonna crash!
+
+ORERW_CTS_HLP3_02 = ~z~The wagon's done for! Go! Go!
+
+ORERW_CTS_HLP3_03 = ~z~Help if you're gonna! Get to it!
+
+ORERW_CTS_HOP_1 = ~z~What are you doing? Get the hell off my wagon!
+
+ORERW_CTS_STAY_1 = ~z~You just gonna watch? Lousy shit you are.
+
+ORERW_CTS_STAY_2 = ~z~Shit. What'd I expect? Bunch of mud-sucking fools 'round this part. Figures the horse'd turn stupid.
+
+ORERW_CTS_STAY_3 = ~z~Least it's my fool brother's cart. Serves him right, the dummy... ugh.
+
+ORERW_CTS_TAKE_1 = ~z~Here. For your troubles and all.
+
+ORERW_CTS_THK1_1 = ~z~Huh.
+
+ORERW_CTS_THK1_2 = ~z~Well, shit. You did it. Horse, cart and all. You're alright.
+
+ORERW_CTS_WSD1_1 = ~z~Oh, goddamned horse. Where the hell you going, you lump of meat?
+

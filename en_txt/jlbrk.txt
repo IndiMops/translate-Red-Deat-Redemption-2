@@ -1,0 +1,68 @@
+FETCH_JAILBREAK_GO_TO_0 = Go ~1~
+
+FETCH_JAILBREAK_GO_TO_1_POLICE_DEPARTMENT = Enter the ~COLOR_MP_OBJECTIVE~Police Department~s~
+
+FETCH_JAILBREAK_GO_TO_1_SHERIFFS_OFFICE = Enter the ~COLOR_MP_OBJECTIVE~Sheriff's Office~s~
+
+FETCH_JAILBREAK_HELP_CONTROL = Use ~INPUT_INTERACT_LOCKON~ to lock on to the prisoner ~1b~ and lead them yourself.
+
+FETCH_JAILBREAK_HELP_FOLLOW = The prisoner ~1b~ is following you. Lead them to the drop off.
+
+FETCH_JAILBREAK_HELP_HOGTIED = Use ~INPUT_CUT_FREE~ to cut the prisoner free or ~INPUT_PICKUP_CARRIABLE~ to pick them up.
+
+FETCH_JAILBREAK_HELP_HONOR = Aim at the lawman ~1b~ to keep him quiet while freeing the prisoner.
+
+FETCH_JAILBREAK_HELP_TEAM_PRIMARY = Break the prisoner out of jail and help him escape within the time limit to earn the full reward.
+
+FETCH_JAILBREAK_OBJ_BLACKWATER_FOLLOWER_GOAL = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ to the ~COLOR_MP_OBJECTIVE~alley~s~
+
+FETCH_JAILBREAK_OBJ_DEFEND = Help your Posse take the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ ~1~
+
+FETCH_JAILBREAK_OBJ_DEFEND_KEY = Keep a lookout while the ~COLOR_MP_OBJECTIVE~jail cell~s~ is opened
+
+FETCH_JAILBREAK_OBJ_FIND = Break the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoner~s~ out of jail
+
+FETCH_JAILBREAK_OBJ_FIND_KEY = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~jail cell keys~s~
+
+FETCH_JAILBREAK_OBJ_FIND_PLURAL = Break the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoners~s~ out of jail
+
+FETCH_JAILBREAK_OBJ_FOLLOWER_GOAL_DEFEND = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ while he searches for his stash
+
+FETCH_JAILBREAK_OBJ_RETURN = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ ~1~
+
+FETCH_JAILBREAK_OBJ_RETURN_KEY = Unlock the ~COLOR_MP_OBJECTIVE~jail cell~s~
+
+FETCH_JAILBREAK_OBJ_SAINT_DENIS_FOLLOWER_GOAL = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ to the ~COLOR_MP_OBJECTIVE~gallows~s~ at the graveyard
+
+FETCH_JAILBREAK_OBJ_STRAWBERRY_FOLLOWER_GOAL = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ to the ~COLOR_MP_OBJECTIVE~stable~s~
+
+FETCH_JAILBREAK_OBJ_VALENTINE_FOLLOWER_GOAL = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ to the ~COLOR_MP_OBJECTIVE~Saints Hotel~s~
+
+FETCH_JAILBREAK_PICKUP_VIPS = PICKUP VIPS
+
+FETCH_JAILBREAK_SCORETIMER_ESCORT = ~1~ is now escorting the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~
+
+FETCH_JAILBREAK_SCORETIMER_ESCORT_YOU = You are escorting the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~
+
+FETCH_JAILBREAK_SCORETIMER_FOLLOWER_GOAL_COMPLETE = The ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ found his stash
+
+FETCH_JAILBREAK_SCORETIMER_TRIGGER_ACTION = The ~COLOR_ENEMY~Law~s~ has been alerted
+
+FETCH_JAILBREAK_SHARD_DESC_PRIMARY = Break the prisoner out of jail
+
+FETCH_JAILBREAK_SHARD_DESC_PRIMARY_PLURAL = Break the prisoners out of jail
+
+FETCH_JAILBREAK_SHARD_OVER_PRISONER_KILLED = The prisoner was killed
+
+FETCH_JAILBREAK_SHARD_PRIMARY_PASS = The prisoner was delivered
+
+FETCH_JAILBREAK_SHARD_PRIMARY_PLURAL = The prisoners were delivered
+
+FETCH_JAILBREAK_STEAL = Return to the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoner~s~
+
+FETCH_JAILBREAK_TICKER_DESTROY = The prisoner was killed
+
+FETCH_JAILBREAK_TICKER_DESTROY_YOU = You killed the prisoner
+
+FETCH_JAILBREAK_UNTIE = Untie the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~
+

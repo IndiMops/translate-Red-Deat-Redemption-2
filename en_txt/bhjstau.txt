@@ -1,0 +1,90 @@
+JCEL_ST_01 = ~z~How you getting on down there?
+
+JCEL_ST_02 = ~z~Anything the matter down below?
+
+JCEL_ST_03 = ~z~You been jumped or something? What's going on down there?
+
+JFIN_ST_01 = ~z~Hey, uh, no more posters going up here for a while. Mayor don't like the way it looks. We are a tourist town, after all.
+
+JFIN_ST_02 = ~z~Won't be any more bounty posters up on this wall. Makes the visitors nervous, I'm told.
+
+JFRT_ST_01 = ~z~Almost forgot your money, didn't you. It's on the table there.
+
+JFRT_ST_02 = ~z~I was about to send this money to the orphanage. It's on the table for you.
+
+JFRT_ST_03 = ~z~Hey, your money's just here. On the table. It ain't gone anywhere.
+
+JPAY_STA_01 = ~z~Thanks.
+
+JPAY_STA_02 = ~z~Obliged.
+
+JPAY_STA_03 = ~z~Honest of you.
+
+JPAY_STA_04 = ~z~That's fine.
+
+JPAY_STJ_01 = ~z~Thanks.
+
+JPAY_STJ_02 = ~z~Obliged.
+
+JPAY_STJ_03 = ~z~Honest of you.
+
+JPAY_STJ_04 = ~z~That's fine.
+
+JRAL_ST0_01 = ~z~You see the stairs? Take 'em down there.
+
+JRAL_ST0_02 = ~z~You didn't bring 'em this far not to put 'em in a cell. Come on, they're just down there.
+
+JRAL_ST0_03 = ~z~Down the stairs. Can't miss the cells.
+
+JRAL_ST0_04 = ~z~Get 'em out of here.
+
+JRAL_ST1_01 = ~z~You going to put 'em in a cell? Come on.
+
+JRAL_ST1_02 = ~z~We want the fugitive locked up. Get to it already!
+
+JRAL_ST1_03 = ~z~Put that outlaw in a goddamn cell!
+
+JRPY_ST_01 = ~z~Gonna take your money?
+
+JRPY_ST_02 = ~z~Hey, bounty's there.
+
+JRPY_ST_03 = ~z~I said the coins are on the desk.
+
+JRPY_ST_A_01 = ~z~Hey! Your bounty!
+
+JRPY_ST_A_02 = ~z~Don't leave without getting paid!
+
+JRPY_ST_A_03 = ~z~You forgot your payment!
+
+STR_REBNT_GRTJA_1 = ~z~Got a man here for you. He's got a warrant out.
+
+STR_REBNT_GRTJA_2 = ~z~Okay, nice work there. Get him into the cell downstairs and I'll see about your payment.
+
+STR_REBNT_GRTJB_1 = ~z~Know this man? I believe you've got a bounty out for him.
+
+STR_REBNT_GRTJB_2 = ~z~Ah, got him, eh? Hope he wasn't too much trouble for you. Get him in one of the cells and I'll get you your reward.
+
+STR_REBNT_GRT_A_1 = ~z~Got a man here for you. He's got a warrant out.
+
+STR_REBNT_GRT_A_2 = ~z~Okay, nice work there. Get him into the cell downstairs and I'll see about your payment.
+
+STR_REBNT_GRT_B_1 = ~z~Know this man? I believe you've got a bounty out for him.
+
+STR_REBNT_GRT_B_2 = ~z~Ah, got him, eh? Hope he wasn't too much trouble for you. Get him in one of the cells and I'll get you your reward.
+
+STR_REOT_EXCJA_1 = ~z~Got a Raider for you. His boys tried to free him from a wagon. They picked off the escort, I'm afraid...
+
+STR_REOT_EXCJA_2 = ~z~A Lemoyne Raider. Awful far from home for this one. Go get him in a cell if you don't mind.
+
+STR_REOT_EXC_1 = ~z~You got pretty far, didn't you? And for what?
+
+STR_REOT_EXC_A_1 = ~z~Got a Raider for you. His boys tried to free him from a wagon. They picked off the escort, I'm afraid...
+
+STR_REOT_EXC_A_2 = ~z~A Lemoyne Raider. Awful far from home for this one. Go get him in a cell if you don't mind.
+
+STR_REOT_ODR_1 = ~z~Damn O'Driscolls, at least you're all dumb as rocks.
+
+STR_REOT_ODR_A_1 = ~z~Got an O'Driscoll for you. Some of his friends attempted to free him from a wagon.
+
+STR_REOT_ODR_A_2 = ~z~More O'Driscolls behind bars or hanging from a noose, the better. Get him downstairs, I'll get you fixed up.
+

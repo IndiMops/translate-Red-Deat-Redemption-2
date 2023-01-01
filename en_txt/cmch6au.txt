@@ -1,0 +1,22 @@
+CMCH6_ACTA_1 = ~z~
+
+CMCH6_ACTA_2 = ~z~Looking good there, old feller.
+
+CMCH6_ACTA_3 = ~z~Go to hell.
+
+CMCH6_ACTA_4 = ~z~After you, old feller, after you.
+
+CMCH6_ACTBB_1 = ~z~What are you lingering about for, cowboy?
+
+CMCH6_ACTBB_2 = ~z~~sl:0.0:2.7~Why don't you get off your ass and work a little?~sl:~Goddamn fool.
+
+CMCH6_ACTBB_3 = ~z~Man, you is so goddamn tough.
+
+CMCH6_ACTBF_1 = ~z~What are you lingering about for, cowboy?
+
+CMCH6_ACTBF_2 = ~z~~sl:0.0:2.3~Why don't you get off your ass and work a little?~sl:~Goddamn fool.
+
+CMCH6_ACTBF_3 = ~z~Man, you is so goddamn tough.
+
+CMCH6_ACTB_1 = ~z~
+

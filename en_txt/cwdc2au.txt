@@ -1,0 +1,14 @@
+CWDC2_ACT_1 = ~z~What you think of the place?
+
+CWDC2_ACT_2 = ~z~I don't know... so far it seems okay, I guess.
+
+CWDC2_ACT_3 = ~z~I think there is rich pickings for some carpet baggers like us.
+
+CWDC2_ACT_4 = ~z~Is that what we are, is it?
+
+CWDC2_ACT_5 = ~z~Avenging your father's death after thirty years?
+
+CWDC2_ACT_6 = ~z~There's gold, Arthur. Gold.
+
+CWDC2_ACT_7 = ~z~If you say so.
+

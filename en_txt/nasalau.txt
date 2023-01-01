@@ -1,0 +1,6 @@
+NASAL_CAGE_01 = ~z~~sl:1.0:2.0~I hope that cage is tough.~sl:~I do not wanna dance with you again.
+
+NASAL_CAGE_02 = ~z~~sl:0.0:1.2~Gives me the willies.~sl:~Like a goddamn dinosaur prowling around in there.
+
+NASAL_CAGE_03 = ~z~~sl:0.0:1.0~Hey, croc.~sl:0.0:1.7~That feller you ate?~sl:0.0:3.1~I just want you to know, you did us all a favor.~sl:~He was a jackass.
+

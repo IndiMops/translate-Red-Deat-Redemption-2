@@ -1,0 +1,90 @@
+BMINF_BECKON_F1_01 = ~z~Hold up a minute.
+
+BMINF_BECKON_F1_02 = ~z~Wait there a minute.
+
+BMINF_BECKON_F1_03 = ~z~~sl:0.0:2.1~Hey, stay where you are.
+
+BMINF_BECKON_F1_04 = ~z~Hey... wait just there.
+
+BMINF_BECKON_F1_05 = ~z~You... wait up!
+
+BMINF_BECKON_V1_01 = ~z~Easy there... hold up a minute.
+
+BMINF_BECKON_V1_02 = ~z~Slow up, let's have a look at ya.
+
+BMINF_BECKON_V1_03 = ~z~Hold her up, let me have a look at ya.
+
+BMINF_BECKON_V1_04 = ~z~Whoa... stop a minute there.
+
+BMINF_BECKON_V1_05 = ~z~Easy up there... need a word.
+
+BMINF_GOODBYE1_01 = ~z~See you later.
+
+BMINF_GOODBYE1_02 = ~z~So long.
+
+BMINF_GOODBYE1_03 = ~z~Bye.
+
+BMINF_GOODBYE1_04 = ~z~Safe travels.
+
+BMINF_GOODBYE1_05 = ~z~Goodbye now.
+
+BMINF_MOVEON1_01 = ~z~What are you waiting for?
+
+BMINF_MOVEON1_02 = ~z~You got time to kill or something?
+
+BMINF_MOVEON1_03 = ~z~Suggest you hurry the hell up.
+
+BMINF_MOVEON1_04 = ~z~Let's go, like I said.
+
+BMINF_MOVEON1_05 = ~z~Hey... head on in, like I said.
+
+BMINF_NOSTOP_V1_01 = ~z~Shit! Intruder!
+
+BMINF_NOSTOP_V1_02 = ~z~Hey! Everyone, light 'em up!
+
+BMINF_NOSTOP_V1_03 = ~z~Dammit, what the... Kill 'em!
+
+BMINF_NOSTOP_V1_04 = ~z~Hey, you can't just... Intruder!
+
+BMINF_NOSTOP_V1_05 = ~z~What the hell? We got a break-in!
+
+BMINF_NOTREAL1_01 = ~z~Who the hell are you? We got an intruder!
+
+BMINF_NOTREAL1_02 = ~z~Who the hell are you supposed to be? Intruder!
+
+BMINF_NOTREAL1_03 = ~z~Hey, you ain't who we're waiting for! We got an imposter here!
+
+BMINF_NOTREAL1_04 = ~z~Lookie here! Some idiot trying to con us!
+
+BMINF_NOTREAL1_05 = ~z~You really think you were gonna fool us? Get 'em!
+
+BMINF_PASS1_01 = ~z~Fine... on you go.
+
+BMINF_PASS1_02 = ~z~Alright... go on.
+
+BMINF_PASS1_03 = ~z~Okay... in you go.
+
+BMINF_PASS1_04 = ~z~Alright then... in there.
+
+BMINF_PASS1_05 = ~z~Fine, you're good to go.
+
+BMINF_REJECTS1_01 = ~z~Nah, this is bullshit! You die right now!
+
+BMINF_REJECTS1_02 = ~z~Nah, you ain't gulling me! Boys!
+
+BMINF_REJECTS1_03 = ~z~Hell with ya, I smell shit a mile away!
+
+BMINF_REJECTS1_04 = ~z~Ah, to hell with this... something ain't right here!
+
+BMINF_REJECTS1_05 = ~z~Screw it... I ain't taking a chance on the likes of you!
+
+BMINF_WAIT1_01 = ~z~You the one we're expecting?
+
+BMINF_WAIT1_02 = ~z~So, you the one we're waiting for?
+
+BMINF_WAIT1_03 = ~z~So... you the arrival we're due, are ya?
+
+BMINF_WAIT1_04 = ~z~You the one been keeping us waiting?
+
+BMINF_WAIT1_05 = ~z~Something happen to the regular feller?
+

@@ -1,0 +1,176 @@
+0x021B12D0 = ~z~You too? Oh, God...
+
+0x0374ACDF = ~z~Why would you do this?
+
+0x08462064 = ~z~Oh God, please, no.
+
+0x08D6AB4B = ~z~Hey now. Let-let's just put that down.
+
+0x096C0B61 = ~z~You're an absolute monster.
+
+0x0AE2A89B = ~z~Fine, okay? Here.
+
+0x0D2E5F4A = ~z~Come on, stop this.
+
+0x1AD0167B = ~z~Look at me. I've got nothing you want.
+
+0x1DBCC39D = ~z~Sorry, I don't waste my time with rudeness.
+
+0x2B019AC2 = ~z~Why can't you leave me alone?
+
+0x2EE535B7 = ~z~Good. I'm not big on fighting.
+
+0x2F766710 = ~z~That don't mean much, coming from you.
+
+0x2FA6D1EB = ~z~Oh, what is the matter with you?
+
+0x3CED3E99 = ~z~Just go away.
+
+0x4E71B5B3 = ~z~Someone! Help!
+
+0x5EE89051 = ~z~I wasn't sure what you was up to, but... you saved me now. And that's what counts.
+
+0x6ACBA778 = ~z~Hey. Stop doing that.
+
+0x7A48C5C2 = ~z~Jesus... you're crazy, too...
+
+0x8ABE1214 = ~z~Stop! Stop! Stop! Stop...
+
+0x8D49EA17 = ~z~Help me off this goddamn horse!
+
+0x9B73A71E = ~z~Oh. Well, pardon.
+
+0x9CFA6416 = ~z~Hey, hey, they just wanna be left in peace, same as anyone.
+
+0x9E22092D = ~z~Thank the Lord you showed up when you did. All the things he said he'd do to me.
+
+0x46B0AA62 = ~z~Did you... did you do this?
+
+0x49C8D100 = ~z~Come on, already, stop it.
+
+0x54A825A6 = ~z~Please, stop following me.
+
+0x59DFE683 = ~z~You'll be sorry my brothers taught me to fight.
+
+0x62EDF458 = ~z~Uh, hello, again?
+
+0x67C0D6DB = ~z~Why won't you let me down?
+
+0x81BCBA9C = ~z~Put me down now.
+
+0x144B1B34 = ~z~Oh, not you as well...
+
+0x186F6E4E = ~z~Come on already, stop it.
+
+0x223EA8DC = ~z~I been kidnapped! Help, help me!
+
+0x340C65D2 = ~z~Hey! Untie me.
+
+0x468CFFB7 = ~z~What is wrong with you all?
+
+0x468FC36D = ~z~Sounds good.
+
+0x537E7647 = ~z~Come on, come on, why won't you untie me?
+
+0x887CC01A = ~z~Sir, please help me outta here.
+
+0x892E0293 = ~z~Be careful.
+
+0x1558D61F = ~z~~sl:0.3~I hope you're not contagious.
+
+0x2062F386 = ~z~I have had enough of being bullied around.
+
+0x5121C838 = ~z~Please, no!
+
+0x5756F667 = ~z~The horse won't stop!
+
+0x7248D045 = ~z~The-horse, the horse! Stop the horse!
+
+0x7775E3B0 = ~z~What did I do to deserve this?
+
+0x7883A362 = ~z~What business have you got behaving this way?
+
+0x8727D30D = ~z~Get away from me.
+
+0x9142D7A7 = ~z~Excuse me. I need to get by.
+
+0x28424E3E = ~z~Please, let me free!
+
+0x292094A4 = ~z~Please, cut me free.
+
+0x400498D9 = ~z~Oh, God... help!
+
+0x6946291A = ~z~Dolt.
+
+0x12042713 = ~z~You don't deserve my attention.
+
+0x45678888 = ~z~Cut these ropes offa me.
+
+0x49672705 = ~z~Stop this thing!
+
+0x59257767 = ~z~Please... please don't do this.
+
+0xA42F17E1 = ~z~Quick! Get me free!
+
+0xA174C07F = ~z~Th-th-there's no need for this.
+
+0xAA8ECE7D = ~z~This is not okay. I'm getting the law.
+
+0xACCB7ADB = ~z~Just leave me alone.
+
+0xB0F0F1B7 = ~z~Come on, you-you don't want to do this.
+
+0xB2DDB53E = ~z~Get me off this horse!
+
+0xB6AB06F5 = ~z~Hey. There's no need for guns.
+
+0xB88C4229 = ~z~I don't wanna die like this! Please help me!
+
+0xB4151E6F = ~z~Someone, anyone, oh God, please help me!
+
+0xB84069E0 = ~z~The law needs to hear about this.
+
+0xB3756480 = ~z~Oh, please, don't do this.
+
+0xC4BDB794 = ~z~Thank you, again.
+
+0xC30AB178 = ~z~Should you even be out looking like that?
+
+0xCB6A98E9 = ~z~Oh, oh! How could you do that?
+
+0xD00FA63B = ~z~Are you really gonna leave me tied up like this?
+
+0xD0FDCC95 = ~z~Look, I won't say nothing, I swear to you.
+
+0xD51F4B86 = ~z~I want nothing to do with you, okay?
+
+0xD1788FDE = ~z~I-I can't say I'm happy to see you back here again.
+
+0xD8585EFB = ~z~Excuse me. What do you think you're doing here?
+
+0xDA714ADF = ~z~Help! Help! Help!
+
+0xDD670BE2 = ~z~He's a goddamn lunatic!
+
+0xDFF442F4 = ~z~As far as I'm concerned, you're not here.
+
+0xE7B65AF5 = ~z~Please, just... Put me down!
+
+0xE9C11870 = ~z~Come on, stop this!
+
+0xE920E378 = ~z~There's no need to be so close to me.
+
+0xEDFB89C9 = ~z~I mean it, go away.
+
+0xEEBDAE8F = ~z~Kill that monster, please!
+
+0xEF332B37 = ~z~Is there a reason you're staring at me?
+
+0xF4954D6E = ~z~Thank you...
+
+0xF77033CE = ~z~Please. Please don't do this.
+
+0xFA4585BD = ~z~Could you please give me some room?
+
+0xFC8F0BF4 = ~z~Here, I don't have anything else.
+

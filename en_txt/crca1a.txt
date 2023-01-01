@@ -1,0 +1,12 @@
+D_BLOCKED_CRCA1_1 = ~z~Hey! Get out of the way!
+
+D_NERV_01_CRCA1_1 = ~z~You're too close there, pal.
+
+D_NERV_02_CRCA1_1 = ~z~What are you playing at? Make some distance now.
+
+D_NERV_03_CRCA1_1 = ~z~I don't like this feller's act at all...
+
+D_SHOCKED_CRCA1_1 = ~z~Shit!
+
+D_THREAT_CRCA1_1 = ~z~You ain't getting a damn cent!
+

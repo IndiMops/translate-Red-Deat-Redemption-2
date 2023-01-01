@@ -1,0 +1,4 @@
+PC_UC_NEG = Antagonize
+
+PC_UC_POS = Greet
+

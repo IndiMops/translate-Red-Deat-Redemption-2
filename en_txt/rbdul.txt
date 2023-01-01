@@ -1,0 +1,22 @@
+0x2F08E93E = ~s~Joshua Brown~s~
+
+BDUL_F_ADJL = You abandoned the jail.
+
+BDUL_F_ATCK = You attacked the sheriff.
+
+BDUL_F_ESCAPED = Joshua Brown escaped.
+
+BDUL_F_TARGDEAD = Joshua Brown has died.
+
+BDUL_F_TLEFT_A = Joshua Brown was left behind.
+
+BDUL_F_TLEFT_D = Joshua Brown's corpse was left behind.
+
+BDUL_F_TLOST = Joshua Brown's corpse could not be retrieved.
+
+BDUL_F_WANT = You became wanted.
+
+BDUL_O_CATCH = ~s~Capture ~e~Joshua Brown~s~ alive~s~
+
+BDUL_O_DISARM = ~s~Disarm ~e~Joshua Brown~s~
+

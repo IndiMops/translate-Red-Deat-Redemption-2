@@ -1,0 +1,670 @@
+MLLR5_RC5_1 = ~z~What's that smell?
+
+MLLR5_RC5_2 = ~z~Mr. Miller?
+
+MLLR5_RC5_3 = ~z~Shit.
+
+MLLR5_RC5_4 = ~z~Crazy bastard.
+
+MLLR5_RC5_5 = ~z~When I'm done...
+
+MLLR5_RC5_6 = ~z~just burn me.
+
+MLLR5_RC5_7 = ~z~I wanna soar in the air with the eagles...
+
+MLLR5_RC5_8 = ~z~not rot in the ground with the worms.
+
+MLLR5_RC5_9 = ~z~Evelyn Miller.
+
+RMLL1_GOAWAY1_01 = ~z~As I said, please will you leave me to write?
+
+RMLL1_GOAWAY1_02 = ~z~I really must ask you to leave, sir.
+
+RMLL1_GOAWAY1_03 = ~z~Please leave me, sir. These moments are so precious.
+
+RMLL1_GOAWAY2_1 = ~z~By all means, drop in on me sometime at Tanner's Reach. I would be very glad of the company.
+
+RMLL1_GOAWAY2_2 = ~z~But for now, I must work while I have the idea in my silly head.
+
+RMLL1_GOAWAY3_1 = ~z~I don't mean to be rude sir, but if you won't leave, I'll have to try to ignore you. Take no offense.
+
+RMLL1_LEAVE_01 = ~z~Sunset already. I should be getting back.
+
+RMLL1_LEAVE_02 = ~z~If the light is going, then so will I.
+
+RMLL2_ARIVE_1 = ~z~Look. Here they are. I will speak to them.
+
+RMLL2_ARIVE_2 = ~z~Are you sure that's a good idea?
+
+RMLL2_LEAVETRAP_01 = ~z~Please. Over here, Mr. Marston.
+
+RMLL2_LEAVETRAP_02 = ~z~The poor beast's in pain. Come, sir.
+
+RMLL2_LEAVETRAP_03 = ~z~How can you turn away from this suffering?
+
+RMLL2_LEAVETRAP_04 = ~z~Where are you going? It needs you, sir.
+
+RMLL2_MURDER0_1 = ~z~Don't spoil this great beauty, John!
+
+RMLL2_MURDER1_1 = ~z~I despair of you, John. The gift of nature is all around you, and you seek to destroy,
+
+RMLL2_MURDER1_2 = ~z~for so little reason.
+
+RMLL2_NAGTRAP_01 = ~z~Please. Do what you can for it?
+
+RMLL2_NAGTRAP_02 = ~z~Do you think you can release it?
+
+RMLL2_NAGTRAP_03 = ~z~It would be far too much for my feeble limbs, I am afraid.
+
+RMLL2_RIDE1SHOUTED_4 = ~z~That self-reliance, that harmony with nature that us... us modern men have so lamentably lost.
+
+RMLL2_RIDE1SPOKEN_4 = ~z~The self-reliance, the harmony with nature that us... us modern men have so lamentably lost.
+
+RMLL2_RIDE1_1 = ~z~Unless you're showing me Big Foot, you should know, I am not so easily shocked, Mr. Miller.
+
+RMLL2_RIDE1_2 = ~z~But you will be. Wait until you see the waste, the boundless appetites of these men.
+
+RMLL2_RIDE1_3 = ~z~I know you will be horribly shocked because I see that frontier spirit in you.
+
+RMLL2_RIDE1_5 = ~z~I hate to spoil your impression of me. But I been known to eat from a can just as often as from my gun.
+
+RMLL2_RIDE1_6 = ~z~You are not perfect. No sir, none of us is. But these men are abominable.
+
+RMLL2_RIDE2_1 = ~z~The men I'd like to show you, they could have set that trap.
+
+RMLL2_RIDE2_2 = ~z~Hunters? I seen hunters, sir. And, like I said, I been one myself.
+
+RMLL2_RIDE2_3 = ~z~Hunting for food or skins is one thing. But dredging rivers, burning out forests,
+
+RMLL2_RIDE2_4 = ~z~killing everything you find, and leaving all but the most valuable parts to rot. That is who these men are.
+
+RMLL2_RIDE2_5 = ~z~They are the rapaciousness of our financial markets let loose in the wilderness.
+
+RMLL2_RIDE2_6 = ~z~And a sign that our way of life has come to an end.
+
+RMLL2_RIDE2_7 = ~z~I seen plenty of those signs...
+
+RMLL2_RIDE3_1 = ~z~Yes, we are close. Can you smell the carrion?
+
+RMLL2_RIDE3_2 = ~z~Foul creatures. Such appetite. Such pathetic avarice.
+
+RMLL2_RIDE3_3 = ~z~What will be left if fools like this ransack nature for all that they can carry?
+
+RMLL2_SKINNING_1 = ~z~Yes, well... uh...  at least there will be some utility in its death.
+
+RMLL2_SPOTTRAP_1 = ~z~Oh no. Up there. The poor creature is caught in a bear trap. John, can you do something?
+
+RMLL2_SPOTTRAP_2 = ~z~Let me see.
+
+RMLL2_SPOTTRAP_3 = ~z~The cruelty of it. If you could pry it open, it may recover.
+
+RMLL2_START_1 = ~z~Come along, follow me.
+
+RMLL2_STP3_01 = ~z~Whatever are you doing?
+
+RMLL2_STP3_02 = ~z~John, please, can't that wait?
+
+RMLL2_STP3_03 = ~z~I would really like to show you this.
+
+RMLL2_STP3_04 = ~z~Can't you do that some other time?
+
+RMLL2_TRAPFAIL_1 = ~z~Alas... it's gone. Your efforts were for nothing.
+
+RMLL2_TRAPFAIL_2 = ~z~We tried, Mr. Miller.
+
+RMLL2_TRAPFREE_1 = ~z~You did it! It's free. A second chance at life.
+
+RMLL2_TRAPFREE_2 = ~z~Maybe... long as that wound don't go bad.
+
+RMLL2_TRAPFREE_3 = ~z~Still. Better to die free, than in the jaws of a machine.
+
+RMLL2_TRAPKILL_1 = ~z~Alas... it could have been saved.
+
+RMLL2_TRAPKILL_2 = ~z~It would have lived... for an hour or two with a leg like that. Death was the best thing for it.
+
+RMLL4_FOOD1_1 = ~z~Mr. Miller, I brought some more food.
+
+RMLL4_FOOD2_1 = ~z~Just... uh... leaving some more food for you, Mr. Miller.
+
+RMLLR1_RC1_LI_1 = ~z~Quite a view...
+
+RMLLR1_RC1_LI_2 = ~z~Uh huh...
+
+RMLLR1_RC1_LI_3 = ~z~You know...
+
+RMLLR_1_FOLLOW_01 = ~z~There's really no need to follow me.
+
+RMLLR_1_FOLLOW_02 = ~z~I should like to walk alone, if you don't mind.
+
+RMLLR_1_FOLLOW_03 = ~z~Goodbye, sir. I'm off this way.
+
+RMLLR_1_VIEW_01 = ~z~Ah...
+
+RMLLR_1_VIEW_02 = ~z~Magnificent.
+
+RMLLR_1_VIEW_03 = ~z~Such majesty.
+
+RMLLR_1_VIEW_04 = ~z~Well, well.
+
+RMLLR_1_VIEW_05 = ~z~Simply wonderous.
+
+RMLLR_1_VIEW_06 = ~z~Perfect.
+
+RMLLR_1_VIEW_07 = ~z~Yes, indeed.
+
+RMLLR_1_VIEW_08 = ~z~Sublime.
+
+RMLLR_2_CMON_01 = ~z~Do come, John.
+
+RMLLR_2_CMON_02 = ~z~Please. You really must see this.
+
+RMLLR_2_CMON_03 = ~z~Let's go. I am anxious to show this to you.
+
+RMLLR_2_CMON_04 = ~z~Come along, come along.
+
+RMLLR_2_COWER_01 = ~z~
+
+RMLLR_2_COWER_02 = ~z~Oh dear.
+
+RMLLR_2_COWER_03 = ~z~
+
+RMLLR_2_COWER_04 = ~z~My head.
+
+RMLLR_2_DISELK_01 = ~z~Easy there...
+
+RMLLR_2_DISELK_02 = ~z~You're okay.
+
+RMLLR_2_DISELK_03 = ~z~Stay calm.
+
+RMLLR_2_LEAVE_1 = ~z~Farewell, John. Follow me no further.
+
+RMLLR_2_LEAVE_2 = ~z~Thank you my friend. I shall have recovered my faculties when you return to see me.
+
+RMLLR_2_POSTCS2_1 = ~z~The muse, John, the muse has taken me.
+
+RMLLR_2_POSTCS3_1 = ~z~It's like a fever, I shan't be well again until it breaks.
+
+RMLLR_2_POSTCS4_1 = ~z~Violence meets violence, as industry meets nature. Ugliness pushes, but beauty pushes back.
+
+RMLLR_2_POSTCS5_1 = ~z~I want to run naked through the trees.
+
+RMLLR_2_POSTCS5_2 = ~z~To bathe naked in the stream, and howl at the moon. I feel rapturous!
+
+RMLLR_2_POSTCS6_1 = ~z~Leave me, John. I saw something magical, and now I must commune.
+
+RMLLR_2_POSTCS6_2 = ~z~The great goddess Gaea... mater omniparens et alma! She speaks with me.
+
+RMLLR_2_POSTCS_1 = ~z~I've never felt so inspired! Thank you, John. Come visit me again soon.
+
+RMLLR_2_POSTELK_1 = ~z~Now come on. We have further to ride.
+
+RMLLR_2_PRY_1 = ~z~Let me try and get you out of this.
+
+RMLLR_2_PRY_2 = ~z~Those contraptions... they are unforgiving and indiscriminate.
+
+RMLLR_2_STRAIN_01 = ~z~Come on.
+
+RMLLR_2_STRAIN_02 = ~z~Give.
+
+RMLLR_2_STRAIN_03 = ~z~
+
+RMLLR_2_THISWAY_01 = ~z~Through here.
+
+RMLLR_2_THISWAY_02 = ~z~We have to cut across.
+
+RMLLR_2_THISWAY_03 = ~z~They are deep in the woods.
+
+RMLLR_2_WRITE_01 = ~z~
+
+RMLLR_2_WRITE_02 = ~z~Yes.
+
+RMLLR_2_WRITE_03 = ~z~Ah.
+
+RMLLR_2_WRITE_04 = ~z~
+
+RMLLR_2_WRITE_05 = ~z~
+
+RMLLR_2_WRITE_06 = ~z~Uh.
+
+RMLLR_2_WRITE_07 = ~z~Hmm.
+
+RMLLR_2_WRITE_08 = ~z~That's it... yes...
+
+RMLLR_4_FILO1_1 = ~z~Mr. Miller, it's John.
+
+RMLLR_4_FILO1_2 = ~z~Can't talk. Must work. You understand.
+
+RMLLR_4_FILO1_3 = ~z~Okay.
+
+RMLLR_4_FILO2_1 = ~z~Hey, uh, how are you, sir?
+
+RMLLR_4_FILO2_2 = ~z~Never better. Never worse. But I'm really in the middle of something.
+
+RMLLR_4_FILO2_3 = ~z~Sure.
+
+RMLLR_4_FILO3_1 = ~z~I should like to see you, sir.
+
+RMLLR_4_FILO3_2 = ~z~Just as... soon as I finish this. It really requires the entirety of my concentration, you see.
+
+RMLLR_4_FILO3_3 = ~z~So if you please...
+
+RMLLR_4_FILO3_4 = ~z~Sometime soon then.
+
+RMLLR_4_FILO4_1 = ~z~Hello, sir.
+
+RMLLR_4_FILO4_2 = ~z~Goodbye, John. Goodbye for now. I'm working, you see.
+
+RMLLR_4_FILO4_3 = ~z~Don't work too hard.
+
+RMLLR_4_FILO5_1 = ~z~I'm worried about you, Mr. Miller.
+
+RMLLR_4_FILO5_2 = ~z~Well, you shouldn't be. I'm quite, quite well. Now if you'll excuse me.
+
+RMLLR_4_FILO5_3 = ~z~You haven't reassured me...
+
+RMLLR_4_GRIEF_N_01 = ~z~You'll find no enemy in this cabin.
+
+RMLLR_4_GRIEF_N_02 = ~z~There's nothing to take here, leave me alone.
+
+RMLLR_4_GRIEF_N_03 = ~z~You're wasting energies, whoever you may be.
+
+RMLLR_4_GRIEF_N_04 = ~z~I have nothing to rob except my small remaining vestige of sanity.
+
+RMLLR_4_GRIEF_N_05 = ~z~Who's that? Who goes there?
+
+RMLLR_4_GRIEF_N_06 = ~z~Don't torment me.
+
+RMLLR_4_GRIEF_N_07 = ~z~Whoever you are, leave me in peace.
+
+RMLLR_4_GRIEF_Y_01 = ~z~John, whatever are you doing?
+
+RMLLR_4_GRIEF_Y_02 = ~z~If you're trying to get me out of this state, that won't work I'm afraid.
+
+RMLLR_4_GRIEF_Y_03 = ~z~You are causing a commotion, my friend.
+
+RMLLR_4_GRIEF_Y_04 = ~z~John, whatever is the matter with you.
+
+RMLLR_4_GRIEF_Y_05 = ~z~Leave me, John. And stop this madness.
+
+RMLLR_4_GRIEF_Y_06 = ~z~Have I gone mad, or have you, John?
+
+RMLLR_4_LFOOD_01 = ~z~Thank you, John. I'll get it in a moment.
+
+RMLLR_4_LFOOD_02 = ~z~Good, good. I'll pick it up when I've finished this part.
+
+RMLLR_4_LFOOD_03 = ~z~Yes... I'll, yes, fetch it presently.
+
+RMLLR_4_LFOOD_04 = ~z~Just let me complete this thought, eh. There's a good man.
+
+RMLLR_4_WORKING_01 = ~z~Now, now.
+
+RMLLR_4_WORKING_02 = ~z~Almost.
+
+RMLLR_4_WORKING_03 = ~z~No, that's not it.
+
+RMLLR_4_WORKING_04 = ~z~Muse, don't abandon me.
+
+RMLLR_4_WORKING_05 = ~z~
+
+RMLLR_4_WORKING_06 = ~z~Hmm.
+
+RMLLR_4_WORKING_07 = ~z~
+
+RMLLR_4_WORKING_08 = ~z~
+
+RMLLR_4_WORKING_09 = ~z~Oh.
+
+RMLLR_4_WORKING_10 = ~z~
+
+RMLLR_BRWL_FHT_01 = ~z~You tougher than your pal there?
+
+RMLLR_BRWL_FHT_02 = ~z~This is my camp, you better know it.
+
+RMLLR_BRWL_FHT_03 = ~z~You lucky you just getting beat.
+
+RMLLR_BRWL_FHT_04 = ~z~Prissy idiots, the both of ya.
+
+RMLLR_BRWL_GAGR_01 = ~z~You want a shooting match? Come on.
+
+RMLLR_BRWL_GAGR_02 = ~z~I was provoked.
+
+RMLLR_BRWL_GAGR_03 = ~z~I ain't going to miss.
+
+RMLLR_BRWL_GAGR_04 = ~z~I'll get you, you bastard.
+
+RMLLR_BRWL_GSCR_1 = ~z~Hey. Don't shoot me, alright? You crazies!
+
+RMLLR_RC1_1 = ~z~Quite a view.
+
+RMLLR_RC1_2 = ~z~Uh huh.
+
+RMLLR_RC1_3 = ~z~You know...
+
+RMLLR_RC1_4 = ~z~this landscape...
+
+RMLLR_RC1_5 = ~z~these views...
+
+RMLLR_RC1_6 = ~z~this America...
+
+RMLLR_RC1_7 = ~z~it holds us tight...
+
+RMLLR_RC1_8 = ~z~and once we've seen it...
+
+RMLLR_RC1_9 = ~z~we'll never know ignorance again.
+
+RMLLR_RC1_10 = ~z~Maybe.
+
+RMLLR_RC1_11 = ~z~It is that beauty...
+
+RMLLR_RC1_12 = ~z~which really is the eternal beauty that is truth.
+
+RMLLR_RC1_13 = ~z~This...
+
+RMLLR_RC1_14 = ~z~is God.
+
+RMLLR_RC1_15 = ~z~Not the proof...
+
+RMLLR_RC1_16 = ~z~but the thing.
+
+RMLLR_RC1_17 = ~z~Not his work...
+
+RMLLR_RC1_18 = ~z~but him.
+
+RMLLR_RC1_19 = ~z~Wonderment is our morphine I suppose.
+
+RMLLR_RC1_20 = ~z~All us Americans dream of places.
+
+RMLLR_RC1_21 = ~z~They are our god...
+
+RMLLR_RC1_22 = ~z~our dreams...
+
+RMLLR_RC1_23 = ~z~us perhaps.
+
+RMLLR_RC1_24 = ~z~I suppose.
+
+RMLLR_RC1_25 = ~z~Forgive my crude naivete but, uh...
+
+RMLLR_RC1_26 = ~z~are you a cowboy, sir?
+
+RMLLR_RC1_27 = ~z~Not really.
+
+RMLLR_RC1_28 = ~z~Kind of...
+
+RMLLR_RC1_29 = ~z~I am that most worthless of all creatures...
+
+RMLLR_RC1_30 = ~z~a writer.
+
+RMLLR_RC1_31 = ~z~A second guesser of our creator.
+
+RMLLR_RC1_32 = ~z~Dreamer of others' dreams.
+
+RMLLR_RC1_33 = ~z~Okay...
+
+RMLLR_RC1_34 = ~z~Evelyn Miller.
+
+RMLLR_RC1_35 = ~z~Evelyn Miller?
+
+RMLLR_RC1_36 = ~z~A man I knew...
+
+RMLLR_RC1_37 = ~z~he was a great lover of your books.
+
+RMLLR_RC1_38 = ~z~Thank you...
+
+RMLLR_RC1_39 = ~z~but you are not?
+
+RMLLR_RC1_40 = ~z~Most went a little over my head I'm afraid, but...
+
+RMLLR_RC1_41 = ~z~some of the bits he read stuck with me.
+
+RMLLR_RC1_42 = ~z~I'm a terrible fraud, sir.
+
+RMLLR_RC1_43 = ~z~Your friend was deceived.
+
+RMLLR_RC1_44 = ~z~I am God's blithe plaything...
+
+RMLLR_RC1_45 = ~z~and what a feeble game he has begun in me.
+
+RMLLR_RC1_46 = ~z~My mentor never saw things quite like that.
+
+RMLLR_RC1_47 = ~z~You know, I used to write in a study...
+
+RMLLR_RC1_48 = ~z~and teach at a university.
+
+RMLLR_RC1_49 = ~z~I taught some Connecticut fops how best to appreciate their topiary.
+
+RMLLR_RC1_50 = ~z~I was a gilded ape...
+
+RMLLR_RC1_51 = ~z~I loathe the man I was...
+
+RMLLR_RC1_52 = ~z~the man I am...
+
+RMLLR_RC1_53 = ~z~Guess we all live with...
+
+RMLLR_RC1_54 = ~z~certain ways of coping with what we done in this life.
+
+RMLLR_RC1_55 = ~z~I enjoyed our conversation.
+
+RMLLR_RC1_56 = ~z~There's a truth in you, sir...
+
+RMLLR_RC1_57 = ~z~a rare truth.
+
+RMLLR_RC1_58 = ~z~Treasure it.
+
+RMLLR_RC1_59 = ~z~I'm... I-I'm living in a cabin over near Tanner's Reach.
+
+RMLLR_RC1_60 = ~z~Come by some time...
+
+RMLLR_RC1_61 = ~z~maybe we might talk some more.
+
+RMLLR_RC1_62 = ~z~Maybe I shall.
+
+RMLLR_RC1_63 = ~z~Good day.
+
+RMLLR_RC1_LO_A_1 = ~z~I must take these moments of inspiration when they come to me.
+
+RMLLR_RC1_LO_B_1 = ~z~We'll see each other again. Now go on now...
+
+RMLLR_RC1_LO_C_1 = ~z~Keep this up and you'll have me longing for the city.
+
+RMLLR_RC1_LO_D_1 = ~z~Please, if you'd leave me to write...
+
+RMLLR_RC1_LO_E_1 = ~z~The writer's life is a solitary one. If you could please leave me to it...
+
+RMLLR_RC1_LO_F_1 = ~z~You are testing my concentration.
+
+RMLLR_RC2A_1 = ~z~That...
+
+RMLLR_RC2A_2 = ~z~that was clarity, John.
+
+RMLLR_RC2A_3 = ~z~This...
+
+RMLLR_RC2A_4 = ~z~this place.
+
+RMLLR_RC2A_5 = ~z~This...
+
+RMLLR_RC2A_6 = ~z~this heaven and hell.
+
+RMLLR_RC2A_7 = ~z~The duality...
+
+RMLLR_RC2A_8 = ~z~I think you got hit on the head...
+
+RMLLR_RC2A_9 = ~z~Come on, let's get you outta here...
+
+RMLLR_RC2A_10 = ~z~before more of 'em show up.
+
+RMLLR_RC2A_11 = ~z~But...
+
+RMLLR_RC2A_12 = ~z~I think we've made our point.
+
+RMLLR_RC2A_13 = ~z~Now, come on. Let's go.
+
+RMLLR_RC2_1 = ~z~My, my, the reticent cowboy.
+
+RMLLR_RC2_2 = ~z~Hello.
+
+RMLLR_RC2_3 = ~z~I... you never told me your name.
+
+RMLLR_RC2_4 = ~z~Jim Milt...
+
+RMLLR_RC2_5 = ~z~John Marston.
+
+RMLLR_RC2_6 = ~z~Which?
+
+RMLLR_RC2_7 = ~z~John Marston.
+
+RMLLR_RC2_8 = ~z~Long story.
+
+RMLLR_RC2_9 = ~z~I'm a writer...
+
+RMLLR_RC2_10 = ~z~I love stories.
+
+RMLLR_RC2_11 = ~z~Ah, another time.
+
+RMLLR_RC2_12 = ~z~Guess I'm as big a fraud as you claim to be.
+
+RMLLR_RC2_13 = ~z~I'm trying, John.
+
+RMLLR_RC2_14 = ~z~My wife didn't understand.
+
+RMLLR_RC2_15 = ~z~Doesn't understand.
+
+RMLLR_RC2_16 = ~z~The Parish Priest has taken to writing me missives...
+
+RMLLR_RC2_17 = ~z~about the exact nature of my sins.
+
+RMLLR_RC2_18 = ~z~The Parish Priest...
+
+RMLLR_RC2_19 = ~z~can you imagine?
+
+RMLLR_RC2_20 = ~z~Oh, what a petty minded lot they are.
+
+RMLLR_RC2_21 = ~z~I was attracted by my fraudulent fame...
+
+RMLLR_RC2_22 = ~z~by the idea of me as some kind of provincial seer.
+
+RMLLR_RC2_23 = ~z~Makes me sick.
+
+RMLLR_RC2_24 = ~z~But here I live like a man.
+
+RMLLR_RC2_25 = ~z~I'm feeble, but alive.
+
+RMLLR_RC2_26 = ~z~I'm a man.
+
+RMLLR_RC2_27 = ~z~For the first time in my life, I'm a man.
+
+RMLLR_RC2_28 = ~z~Okay.
+
+RMLLR_RC2_29 = ~z~Or...
+
+RMLLR_RC2_30 = ~z~I'm still a coward...
+
+RMLLR_RC2_31 = ~z~but, a real man would...
+
+RMLLR_RC2_32 = ~z~happily die rather than live as I do.
+
+RMLLR_RC2_33 = ~z~I don't know about that.
+
+RMLLR_RC2_34 = ~z~We...
+
+RMLLR_RC2_35 = ~z~we're all scared of something...
+
+RMLLR_RC2_36 = ~z~something within us.
+
+RMLLR_RC2_37 = ~z~But me, I'm nothing but fear.
+
+RMLLR_RC2_38 = ~z~Fear and doubt and lies...
+
+RMLLR_RC2_39 = ~z~just a glimpse of how other men have coped...
+
+RMLLR_RC2_40 = ~z~and lived, and survived, and flourished.
+
+RMLLR_RC2_41 = ~z~There are days when I sit here and weep...
+
+RMLLR_RC2_42 = ~z~about all the things that I've lost.
+
+RMLLR_RC2_43 = ~z~We've lost, we...
+
+RMLLR_RC2_44 = ~z~true Americans, we peasants...
+
+RMLLR_RC2_45 = ~z~we are killing this place, John Marston.
+
+RMLLR_RC2_46 = ~z~Killing what?
+
+RMLLR_RC2_47 = ~z~This.
+
+RMLLR_RC2_48 = ~z~This great beauty.
+
+RMLLR_RC2_49 = ~z~This truth.
+
+RMLLR_RC2_50 = ~z~What are you talking about?
+
+RMLLR_RC2_51 = ~z~Come...
+
+RMLLR_RC2_52 = ~z~let me show you.
+
+RMLLR_RC2_53 = ~z~Where we headed?
+
+RMLLR_RC2_54 = ~z~Prepare to be shocked.
+
+RMLLR_RC2_IG2_1 = ~z~You men are heathens! Ignoble savages!
+
+RMLLR_RC2_IG2_2 = ~z~Animals, shit, look.
+
+RMLLR_RC2_IG2_3 = ~z~Look at what you... you... you're... you're...
+
+RMLLR_RC2_IG2_4 = ~z~What's your problem? Shut it!
+
+RMLLR_RC2_IG2_5 = ~z~Hey!
+
+RMLLR_RC2_LI_1 = ~z~My, my, the reticent cowboy.
+
+RMLLR_RC2_LI_2 = ~z~Hello.
+
+RMLLR_RC2_LI_3 = ~z~I - you never told me your name.
+
+RMLLR_RC3_LI2_1 = ~z~Maybe... I'll go get you something to eat.
+
+RMLLR_RC3_LI_1 = ~z~Mr. Miller? Mr. Miller, are you about?
+
+RMLLR_RC3_LI_2 = ~z~Hello, sir... I'm working I'm afraid.
+
+RMLLR_RC3_LI_3 = ~z~Okay...
+
+RMLLR_RC3_LI_4 = ~z~I'm desperately trying to finish my book.
+
+RMLLR_RC3_LI_5 = ~z~It's absolute tripe, you know, but... it's all I've got left.
+
+RMLLR_RC3_LI_6 = ~z~Well... I...
+
+RMLLR_RC3_LI_7 = ~z~I'm not eating, drinking liquor or leaving this cabin until this draft is complete.
+
+RMLLR_RC3_LI_8 = ~z~Okay...
+
+RMLLR_RC3_LI_9 = ~z~I feel amazing.
+
+RMLLR_RC3_LI_10 = ~z~Aside from the doubt and self-loathing. But...
+
+RMLLR_RC3_LI_11 = ~z~I've seen a great beauty, John.
+
+RMLLR_RC3_LI_12 = ~z~Okay. You take care of yourself... get yourself something to eat.
+
+RMLLR_RC3_LI_13 = ~z~I can't fight my own nature... none of us can.
+
+RMLLR_RC4_IG1_1 = ~z~I brought you some food, Mr. Miller.
+
+RMLLR_RC4_IG8A_1 = ~z~Another rewrite... that's all it'll take.
+
+RMLLR_RC4_IG8A_2 = ~z~It's there, it's-it's just... not quite right.
+
+RMLLR_RC4_IG8B_1 = ~z~I'm not leaving... I can't. Not until it's done.
+
+RMLLR_RC4_IG8C_1 = ~z~I'm... it's... just... a little while longer.
+
+RMLLR_RC4_IG8D_1 = ~z~This time I thought it might be different... I'm such a fool.
+
+RMLLR_RC4_IG8E_1 = ~z~This must look pathetic... but I'm almost there.
+
+RMLLR_RC4_IG8F_1 = ~z~It's not quite right... and I'm not done until it's right.
+
+RMLLR_RC5_LI_1 = ~z~I've brought you some food, Mr. Miller.
+

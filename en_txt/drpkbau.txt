@@ -1,0 +1,68 @@
+DRPKB_AGREE_1 = ~z~~sl:0.0:2.2~See, I knew just from looking at you.~sl:0.3~Good luck, but listen.
+
+DRPKB_AGREE_2 = ~z~~sl:0.0:1.6~They ask, you ain't seen me. Okay?~sl:0.5~I'm just a good Samaritan here.
+
+DRPKB_APPROACH_1 = ~z~~sl:0.0:2.0~Hey there. Take a look at this.~sl:0.5~There's a camper down in the basin, looks like he stepped in it.
+
+DRPKB_APPROACH_2 = ~z~Outlaws, maybe? Can't say, but it don't look good for him.
+
+DRPKB_ARRIVE_1 = ~z~~sl:0.0:1.4~Hey, you're alright.~sl:0.5~Sheriff's gonna round up a posse when he hears about this.
+
+DRPKB_CALLOUT1_1 = ~z~Hey? Cut me free, huh?
+
+DRPKB_CALLOUT2_01 = ~z~You ain't gonna leave me like this?
+
+DRPKB_CALLOUT2_02 = ~z~Come on, please, cut me loose.
+
+DRPKB_CALLOUT2_03 = ~z~Do something, quick, before any more of them show up.
+
+DRPKB_DECLINE_1 = ~z~Well, okay then. Just thought from the look of you... anyway.
+
+DRPKB_DECLINE_2 = ~z~~sl:0.0:2.6~Guess I'll watch the show'n pack up before they get hungry for more.~sl:0.6~Poor bastard.
+
+DRPKB_EMBUSH_01 = ~z~Oh, who the hell are they?
+
+DRPKB_EMBUSH_02 = ~z~Goddamn it, no, more of them?
+
+DRPKB_ESCORT_1 = ~z~~sl:0.0:3.3~Listen. Armadillo Sheriff's gonna wanna hear about this.~sl:~We go way back. Can you give me a ride to town?
+
+DRPKB_HOGTIED_01 = ~z~Damn you...
+
+DRPKB_HOGTIED_02 = ~z~You gonna kill me already?
+
+DRPKB_HOGTIED_03 = ~z~Ugh... come on...
+
+DRPKB_HOGTIED_04 = ~z~This is hogshit...
+
+DRPKB_HURRY_1 = ~z~Go on then, if you're going.
+
+DRPKB_IDLE_01 = ~z~I don't know what else you want me to tell you.
+
+DRPKB_IDLE_02 = ~z~You want a medal or something?
+
+DRPKB_IDLE_03 = ~z~Well, I think this is where we part ways, my friend.
+
+DRPKB_NEAR_1 = ~z~Almost there.
+
+DRPKB_POSSEDIE_01 = ~z~Oh no! They're taking you down!
+
+DRPKB_POSSEDIE_02 = ~z~That's one down! Oh, shit...
+
+DRPKB_REWARD_1 = ~z~Listen. Take this. Ain't exactly fair, but it's what I got.
+
+DRPKB_SPOT1_1 = ~z~Hey, you there. Come take a look at this.
+
+DRPKB_SPOT2_01 = ~z~Hey, I said come see this!
+
+DRPKB_SPOT2_02 = ~z~Hello? You hear me?
+
+DRPKB_SURVIVE_01 = ~z~Oh man... I've had it with this day.
+
+DRPKB_SURVIVE_02 = ~z~This better be as bad as it gets.
+
+DRPKB_THANKS_1 = ~z~~sl:0.6~I don't know who you are, but thank you... Last time I take this route...
+
+DRPKB_WAIT_01 = ~z~I bet you could take 'em easy.
+
+DRPKB_WAIT_02 = ~z~So, what are you thinking?
+

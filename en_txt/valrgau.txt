@@ -1,0 +1,202 @@
+BARB_MUD2_1 = ~z~I just have to say, that fight you had with Tommy in the street, that was something else!
+
+BARB_MUD2_2 = ~z~I never seen him lose to nobody.
+
+BARB_MUD2_3 = ~z~I thought I heard you cheering him on?
+
+BARB_MUD2_4 = ~z~Eh, well, y-you know. Local boy and all that...
+
+BARB_SAL1_1 = ~z~~sl:0.8:0.0~Last time you were in here, you hit this place like a tornado.
+
+BARB_SAL1_2 = ~z~Reckon you musta had a sore head in the morning, huh?
+
+BARB_SAL1_3 = ~z~Just... trying to put that one behind me.
+
+VALRG_AUC_ARTH_01 = ~z~You get around don't you?
+
+VALRG_AUC_ARTH_02 = ~z~What are you poking around here for?
+
+VALRG_DOCSICK_1 = ~z~Oh dear, look at you.
+
+VALRG_DOCSICK_2 = ~z~Well, you've come to the right place. What are the symptoms?
+
+VALRG_DOCSICK_3 = ~z~I ain't here for no examination or discussion. I already seen a doctor.
+
+VALRG_DOCSICK_4 = ~z~Okay, I'm not one to push. You just let me know what you need.
+
+VALRG_FBARSICK_1 = ~z~Oh hey there friend, you don't look so good.
+
+VALRG_FBARSICK_2 = ~z~Yeah, I been better.
+
+VALRG_FBARSICK_3 = ~z~Well Doc Calloway's just down the street there.
+
+VALRG_FBAR_APOL_01 = ~z~Sorry about him.
+
+VALRG_FBAR_APOL_02 = ~z~Just ignore him.
+
+VALRG_FBAR_APOL_03 = ~z~He's harmless really.
+
+VALRG_FBAR_APOL_04 = ~z~Apologies for the old drunk.
+
+VALRG_FBAR_MUD2_1 = ~z~No brawling this time, alright?
+
+VALRG_FBAR_MUD2_2 = ~z~I'm on my best behavior.
+
+VALRG_FBAR_SAL1_1 = ~z~Well, look who it is. You and your friend must have had one hell of a hangover.
+
+VALRG_FBAR_SAL1_2 = ~z~Yeah, I don't remember too much.
+
+VALRG_FBAR_SAL1_3 = ~z~Well maybe take it easy this time, huh?
+
+VALRG_FBAR_SAL1_4 = ~z~Yep, that's the plan.
+
+VALRG_FBAR_SAL1_5 = ~z~And don't call me Lenny...
+
+VALRG_GUNMUD2_1 = ~z~Oh wait, you're that feller who had the fight with Tommy outside Smithfields?
+
+VALRG_GUNMUD2_2 = ~z~Yep.
+
+VALRG_GUNMUD2_3 = ~z~People are still talking about that fight.
+
+VALRG_GUNMUD2_4 = ~z~I ain't.
+
+VALRG_GUNMUD2_5 = ~z~Fair enough. Neither's Tommy. Anyway, how can I help you today?
+
+VALRG_GUNMUD4_A_1 = ~z~So how did that sniper rifle work out for you?
+
+VALRG_GUNMUD4_A_2 = ~z~Yeah, did the job.
+
+VALRG_GUNMUD4_A_3 = ~z~Hunting trip?
+
+VALRG_GUNMUD4_A_4 = ~z~You could call it that.
+
+VALRG_GUNMUD4_A_5 = ~z~Okay, I won't ask.
+
+VALRG_GUNSICK_1 = ~z~Hell, mister, you look like you've been all whiskey and no stew. You alright?
+
+VALRG_GUNSICK_2 = ~z~I've been better, but I'm okay.
+
+VALRG_GUNSICK_3 = ~z~Alright, well let me know you need.
+
+VALRG_HOTSICK_1 = ~z~Oh I remember you... lost a bit of weight there, it looks like?
+
+VALRG_HOTSICK_2 = ~z~You should get yourself over to Smithfields for a hot meal.
+
+VALRG_HOTSICK_3 = ~z~If I wanted a doctor, I'd have gone across the street.
+
+VALRG_HOTSICK_4 = ~z~Of course, I didn't mean anything by it.
+
+VALRG_HOTSICK_5 = ~z~So how can I help you today?
+
+VALRG_HOT_MUD3_1 = ~z~Oh it's, er, you.
+
+VALRG_HOT_MUD3_2 = ~z~Yes it is, last time I checked.
+
+VALRG_HOT_MUD3_3 = ~z~I really don't need any more trouble...
+
+VALRG_HOT_MUD3_4 = ~z~I didn't come to make any... I was just protecting a lady.
+
+VALRG_HOT_MUD3_5 = ~z~Well, all behind us now, I suppose.
+
+VALRG_HOT_MUD3_6 = ~z~So, what is it you need? A bath perhaps?
+
+VALRG_LIVSICK_1_2 = ~z~I'm fine, don't you worry about me.
+
+VALRG_LIVSICK_2_1 = ~z~Hey there, mister. You okay?
+
+VALRG_LIVSICK_2_2 = ~z~You don't look so good.
+
+VALRG_LIVSICK_2_3 = ~z~You worry about your horses, not me.
+
+VALRG_LIVSICK_2_4 = ~z~Alright, none of my business.
+
+VALRG_LIVSICK_3_1 = ~z~You, er, come down with something there, partner?
+
+VALRG_LIVSICK_3_2 = ~z~Some bad flu going around.
+
+VALRG_LIVSICK_3_3 = ~z~It's just a cough.
+
+VALRG_LIVSICK_3_4 = ~z~Well, unfortunately you ain't a horse so I can't help you with that. But what can I help you with?
+
+VALRG_SBARSICK_1 = ~z~You look like hell, mister.
+
+VALRG_SBARSICK_2 = ~z~Likewise.
+
+VALRG_SBARSICK_3 = ~z~I'm in the prime of my life.
+
+VALRG_SBARSICK_4 = ~z~Right...
+
+VALRG_SBAR_CAL1_1 = ~z~Hey, weren't you the one in here talking to that feller with Jim 'Boy' Calloway?
+
+VALRG_SBAR_CAL1_2 = ~z~Yeah, that's right.
+
+VALRG_SBAR_CAL1_3 = ~z~More like Jim 'Drunk Old Man' Calloway.
+
+VALRG_SBAR_CAL1_4 = ~z~Sure seems that way.
+
+VALRG_SBAR_CAL2_1 = ~z~So you're helping Calloway track down his old rivals?
+
+VALRG_SBAR_CAL2_2 = ~z~Me? No, you must have heard that wrong.
+
+VALRG_SBAR_CAL2_3 = ~z~Oh I did, did I?
+
+VALRG_SBAR_MUD4_1 = ~z~Hey weren't you with those fellers in here before all that hell broke loose with Cornwall a while back?
+
+VALRG_SBAR_MUD4_2 = ~z~Cornwall? No, wasn't me...
+
+VALRG_SBAR_MUD4_3 = ~z~Alright, guess I must be mistaken.
+
+VALRG_SHOAU_ART_1 = ~z~Watch out for this one, he's trouble.
+
+VALRG_SHOAU_ART_2 = ~z~Becoming quite the regular face round here, ain't you?
+
+VALRG_SHOSICK_1 = ~z~Well, hell partner. You look like you've dropped some weight there?
+
+VALRG_SHOSICK_2 = ~z~Yeah, a bit.
+
+VALRG_SHOSICK_3 = ~z~Might want to pass by Doc Calloway while you're in town.
+
+VALRG_SHOSICK_4 = ~z~Maybe... thanks.
+
+VALRG_SHO_MUD23_1 = ~z~Did you and the old feller enjoy that whiskey?
+
+VALRG_SHO_MUD23_2 = ~z~Sure, I always enjoy whiskey... at the time.
+
+VALRG_SHO_MUD23_3 = ~z~Quite a commotion in town that day. You didn't have anything to do with that?
+
+VALRG_SHO_MUD23_4 = ~z~Commotion? No, weren't me.
+
+VALRG_SHO_MUD23_5 = ~z~Just wondered... after the Tommy fight and all... anyway.
+
+VALRG_SHO_SAL1_1 = ~z~So you recovered?
+
+VALRG_SHO_SAL1_2 = ~z~From what?
+
+VALRG_SHO_SAL1_3 = ~z~You and that colored boy, I've rarely seen a pair so roostered.
+
+VALRG_SHO_SAL1_4 = ~z~Yeah... that's all a bit hazy.
+
+VALRG_SHO_SAL1_5 = ~z~Well, these things happen...
+
+VALRG_TSW1SICK_1 = ~z~If you wouldn't mind coughing into your sleeve, sir.
+
+VALRG_TSW1SICK_2 = ~z~I really can't afford to get sick again this month.
+
+VALRG_TSW1SICK_3 = ~z~Why don't you just do your job?
+
+VALRG_TSW1SICK_4 = ~z~Of course, sir. Sorry. Just a polite request, that's all.
+
+VALRG_TSW2SICK_1 = ~z~Oh dear, have you come down with the flu as well, sir?
+
+VALRG_TSW2SICK_2 = ~z~Flu? No, what are you talking about?
+
+VALRG_TSW2SICK_3 = ~z~Nothing, it's just been going around, that's all. Anyway, how can I help you?
+
+VALRG_TSW3SICK_1 = ~z~You alright there, sir?
+
+VALRG_TSW3SICK_2 = ~z~Yes, why?
+
+VALRG_TSW3SICK_3 = ~z~Been some grippe going around here... and I just thought...
+
+VALRG_TSW3SICK_4 = ~z~you know what, never mind. What can I do for you?
+

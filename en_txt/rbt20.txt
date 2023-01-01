@@ -1,0 +1,10 @@
+RBT20_HELP_EE = Press ~INPUT_SPECIAL_ABILITY~ and ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ to view tracks.
+
+RBT20_HELP_EE_KM = Press ~INPUT_SPECIAL_ABILITY~ to view tracks.
+
+RBT20_OBJ_1 = Investigate the ~o~camp~s~
+
+RBT20_OBJ_2 = Search deeper into ~o~Skinner territory~s~
+
+RBT20_OBJ_2A = Investigate the gunshots in ~o~Skinner territory~s~
+

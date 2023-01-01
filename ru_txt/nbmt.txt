@@ -1,0 +1,1804 @@
+0x3D761535 = FOR THOSE ESTEEMED CITIZENS ALREADY KNOWN TO LAW ENFORCEMENT:~n~UPHOLD YOUR NAME AND PROGRESS YOUR CAREER WITH A PRESTIGIOUS BOUNTY HUNTER LICENSE~n~BRAVE AGENTS OF THE UNITED STATES WE SALUTE YOU
+
+0x6E1CF682 = DO NOT SIT IDLY WHILE FELONS AND REPROBATES ROAM FREE~n~BECOME A REGISTERED BOUNTY HUNTER OF THE UNITED STATES~n~
+
+0x6142DCCE = DUTIFUL GENTLEMEN AND LADIES OF LEMOYNE, NEW HANOVER, WEST ELIZABETH, NEW AUSTIN & AMBARINO~n~YOUR STATE NEEDS YOU! ~n~
+
+ANNESBURG_FLOW_TARGET_0_CRIME_00 = These men, once civic engineers of considerable repute, now abuse their skills in the service of industrial sabotage. They leave behind them a string of factories and mills reduced to ash, together with the innocent laborers therein.
+
+ANNESBURG_FLOW_TARGET_0_NAME_00 = TOBIN ANDERSON'S WRECKERS
+
+ANNESBURG_FLOW_TARGET_1_CRIME_00 = These men, once civic engineers of considerable repute, now abuse their skills in the service of industrial sabotage. They leave behind them a string of factories and mills reduced to ash, together with the innocent laborers therein.
+
+ANNESBURG_FLOW_TARGET_1_NAME_00 = TOBIN ANDERSON'S WRECKERS
+
+ANNESBURG_FLOW_TARGET_2_CRIME_00 = These men, once civic engineers of considerable repute, now abuse their skills in the service of industrial sabotage. They leave behind them a string of factories and mills reduced to ash, together with the innocent laborers therein.
+
+ANNESBURG_FLOW_TARGET_2_NAME_00 = TOBIN ANDERSON'S WRECKERS
+
+ARMADILLO_FLOW_TARGET_0_CRIME_00 = Once dutiful lawmen and soldiers, these men now exploit the respect due to their uniforms in order to gain the trust and compliance of their victims. These poor souls are not merely kidnapped, but mutilated beyond all recognition, their ruined corpses then fraudulently submitted as bounties.
+
+ARMADILLO_FLOW_TARGET_0_NAME_00 = THE BUTCHERS OF BENEDICT PASS
+
+ARMADILLO_FLOW_TARGET_1_CRIME_00 = Once dutiful lawmen and soldiers, these men now exploit the respect due to their uniforms in order to gain the trust and compliance of their victims. These poor souls are not merely kidnapped, but mutilated beyond all recognition, their ruined corpses then fraudulently submitted as bounties.
+
+ARMADILLO_FLOW_TARGET_1_NAME_00 = THE BUTCHERS OF BENEDICT PASS
+
+ARMADILLO_FLOW_TARGET_2_CRIME_00 = Once dutiful lawmen and soldiers, these men now exploit the respect due to their uniforms in order to gain the trust and compliance of their victims. These poor souls are not merely kidnapped, but mutilated beyond all recognition, their ruined corpses then fraudulently submitted as bounties.
+
+ARMADILLO_FLOW_TARGET_2_NAME_00 = THE BUTCHERS OF BENEDICT PASS
+
+BENEDICT_FLOW_TARGET_0_CRIME_00 = No ordinary train robbers, these enterprising bandits have commandeered a valuable locomotive belonging to the Southwestern Railroad Company, which they use to terrorize the region with impunity.
+
+BENEDICT_FLOW_TARGET_0_NAME_00 = "LOS PASAJEROS"
+
+BENEDICT_FLOW_TARGET_1_CRIME_00 = No ordinary train robbers, these enterprising bandits have commandeered a valuable locomotive belonging to the Southwestern Railroad Company, which they use to terrorize the region with impunity.
+
+BENEDICT_FLOW_TARGET_1_NAME_00 = "LOS PASAJEROS"
+
+BENEDICT_FLOW_TARGET_2_CRIME_00 = No ordinary train robbers, these enterprising bandits have commandeered a valuable locomotive belonging to the Southwestern Railroad Company, which they use to terrorize the region with impunity.
+
+BENEDICT_FLOW_TARGET_2_NAME_00 = "LOS PASAJEROS"
+
+BLACKWATER_FLOW_TARGET_0_CRIME_00 = Long-thought dead after their infamous plunge over Manteca Falls in the course of their flight from justice, Thaddeus Walter and his men are believed to be abroad once more. Relying on their skills as card sharps, they hope to amass enough funds to flee the country. They must be stopped at any cost.
+
+BLACKWATER_FLOW_TARGET_0_NAME_00 = THADDEUS WALTER'S MEN
+
+BLACKWATER_FLOW_TARGET_1_CRIME_00 = Long-thought dead after their infamous plunge over Manteca Falls in the course of their flight from justice, Thaddeus Walter and his men are believed to be abroad once more. Relying on their skills as card sharps, they hope to amass enough funds to flee the country. They must be stopped at any cost.
+
+BLACKWATER_FLOW_TARGET_1_NAME_00 = THADDEUS WALTER'S MEN
+
+BLACKWATER_FLOW_TARGET_2_CRIME_00 = Long-thought dead after their infamous plunge over Manteca Falls in the course of their flight from justice, Thaddeus Walter and his men are believed to be abroad once more. Relying on their skills as card sharps, they hope to amass enough funds to flee the country. They must be stopped at any cost.
+
+BLACKWATER_FLOW_TARGET_2_NAME_00 = THADDEUS WALTER'S MEN
+
+EMERALD_FLOW_TARGET_0_CRIME_00 = The widows of feared highwaymen Dean Brady, Jose Perez and Miles Stanton have taken up arms in lawless vengeance for the God-willed execution of their iniquitous husbands. Not to be underestimated, this villainous coven learned much from their spouses, and command the loyalty of their surviving accomplices.
+
+EMERALD_FLOW_TARGET_0_NAME_00 = THE THREE WIDOWS
+
+EMERALD_FLOW_TARGET_1_CRIME_00 = The widows of feared highwaymen Dean Brady, Jose Perez and Miles Stanton have taken up arms in lawless vengeance for the God-willed execution of their iniquitous husbands. Not to be underestimated, this villainous coven learned much from their spouses, and command the loyalty of their surviving accomplices.
+
+EMERALD_FLOW_TARGET_1_NAME_00 = THE THREE WIDOWS
+
+EMERALD_FLOW_TARGET_2_CRIME_00 = The widows of feared highwaymen Dean Brady, Jose Perez and Miles Stanton have taken up arms in lawless vengeance for the God-willed execution of their iniquitous husbands. Not to be underestimated, this villainous coven learned much from their spouses, and command the loyalty of their surviving accomplices.
+
+EMERALD_FLOW_TARGET_2_NAME_00 = THE THREE WIDOWS
+
+MP_U_F_M_BOUNTYTARGET_001_CRIME_00 = WANTED for CRIPPLING and NEARLY KILLING a man during the course of robbing him at KNIFEPOINT.
+
+MP_U_F_M_BOUNTYTARGET_001_CRIME_01 = Miss BLACK is wanted for the SLOW POISONING of her HUSBAND over a number of years, resulting in the gentleman's PAINFUL DEATH.
+
+MP_U_F_M_BOUNTYTARGET_001_CRIME_02 = WANTED for the ILLEGAL PRODUCTION and distribution of moonshine in STRAWBERRY. Now fugitive, believed vagrant.
+
+MP_U_F_M_BOUNTYTARGET_001_CRIME_03 = WANTED for ASSAULT with intent to GREVIOUSLY WOUND.
+
+MP_U_F_M_BOUNTYTARGET_001_CRIME_04 = POISONED her HUSBAND and her CHILDREN during Easter dinner. Poison acquired from traveling doctor and medicine show.
+
+MP_U_F_M_BOUNTYTARGET_001_CRIME_05 = A VAGRANT who has spent most of her adult life being turned out of towns across the south, Miss RIFE is wanted for ASSAULT and the MAIMING of livestock. Understood to be VIOLENT.
+
+MP_U_F_M_BOUNTYTARGET_001_CRIME_06 = SERIAL VANDAL of political buildings and offices pertaining to the law. Believed to be holding a GRUDGE against Mayor Townsend for the lifelong imprisonment of her husband.
+
+MP_U_F_M_BOUNTYTARGET_001_CRIME_07 = REWARD for bringing in DOROTHEA BARTON, DEAD or ALIVE, for the ASSAULT of her now deceased brother, Mads Barton. Left for DEAD after a minor scuffle and what is believed to be a PREMEDITATED MURDER.
+
+MP_U_F_M_BOUNTYTARGET_001_CRIME_08 = WANTED for the THEFT of tens of horses from the property of her husband, Michael Ball. REWARD contributed by Mr. Ball himself.
+
+MP_U_F_M_BOUNTYTARGET_001_CRIME_09 = Mrs. STANTON has been missing from federal prison for a month now. PREVIOUSLY IMPRISONED for undisclosed crimes. WANTED DEAD or ALIVE immediately.
+
+MP_U_F_M_BOUNTYTARGET_001_NAME_00 = MARY-ANNA MAY
+
+MP_U_F_M_BOUNTYTARGET_001_NAME_01 = IDA BLACK
+
+MP_U_F_M_BOUNTYTARGET_001_NAME_02 = JULIANNA DOUGLAS
+
+MP_U_F_M_BOUNTYTARGET_001_NAME_03 = SUSAN LEIBOVITZ
+
+MP_U_F_M_BOUNTYTARGET_001_NAME_04 = MARTHA TURNER
+
+MP_U_F_M_BOUNTYTARGET_001_NAME_05 = MARY-BETH RIFE
+
+MP_U_F_M_BOUNTYTARGET_001_NAME_06 = DOLORES DENNIS
+
+MP_U_F_M_BOUNTYTARGET_001_NAME_07 = DOROTHEA BARTON
+
+MP_U_F_M_BOUNTYTARGET_001_NAME_08 = MARY-ANN BALL
+
+MP_U_F_M_BOUNTYTARGET_001_NAME_09 = STEPHANIE STANTON
+
+MP_U_F_M_BOUNTYTARGET_002_CRIME_00 = ABIGAIL RUTHERFORD, known to her friends as ABBY, is sought after for the VIOLENT ATTACK upon and MUTILATION of Col. Jerimiah Rutherford, steward of the HAGEN ORCHARDS, BAYOU NWA. Now fugitive.
+
+MP_U_F_M_BOUNTYTARGET_002_CRIME_01 = WANTED for the POISONING and DISMEMBERMENT of her late employer Mme. Marie-Chantal DuBois of SAINT DENIS. Now at large.
+
+MP_U_F_M_BOUNTYTARGET_002_CRIME_02 = WANTED for the KIDNAPPING and TORTURE of Eloise Daniels McBride formerly of VAN HORN. Now fugitive and at large.
+
+MP_U_F_M_BOUNTYTARGET_002_CRIME_03 = WANTED for a series of GRUESOME and UNWARRANTED ATTACKS against prominent men of the community throughout SAINT DENIS and its environs.
+
+MP_U_F_M_BOUNTYTARGET_002_CRIME_04 = WANTED for the STABBING ATTACK against Monseigneur Reginald O'Sullivan as he heard her confession.
+
+MP_U_F_M_BOUNTYTARGET_002_CRIME_05 = WANTED for the SHOOTING DEATH of her husband Richard Miller and the disappearance of her twin sons, Richard Miller, Jr. & John Miller.
+
+MP_U_F_M_BOUNTYTARGET_002_CRIME_06 = WANTED for the DROWNING DEATH of her twin sister Olivia Tate outside of LEMOYNE. TATE is believed ARMED.
+
+MP_U_F_M_BOUNTYTARGET_002_CRIME_07 = WANTED for a campaign of PUBLIC HARASSMENT against the Honorable Judge David Livingston III of SAINT DENIS, leading to the unfortunate gentleman's DEATH by APOPLEXY OF THE HEART. At large, believed ARMED.
+
+MP_U_F_M_BOUNTYTARGET_002_CRIME_08 = WANTED for the PURPOSEFUL DEATH of Ms. Alexandra Mortimer in which Ms. Mortimer was pushed in front of a streetcar in downtown SAINT DENIS. CARTER has since sought the company of KNOWN CRIMINALS in her flight from arrest.
+
+MP_U_F_M_BOUNTYTARGET_002_CRIME_09 = WANTED for the hire of known HATCHET MAN, TOM BOWLES, to KILL Mr. Endicott Palmer of VALENTINE. Now fugitive and believed armed.
+
+MP_U_F_M_BOUNTYTARGET_002_NAME_00 = ABIGAIL RUTHERFORD
+
+MP_U_F_M_BOUNTYTARGET_002_NAME_01 = SHELLEY HIGGINS
+
+MP_U_F_M_BOUNTYTARGET_002_NAME_02 = GILDA LAWRENCE
+
+MP_U_F_M_BOUNTYTARGET_002_NAME_03 = CLEMENCE OLIVER
+
+MP_U_F_M_BOUNTYTARGET_002_NAME_04 = PATRICIA SAUNDERS
+
+MP_U_F_M_BOUNTYTARGET_002_NAME_05 = AMY MILLER
+
+MP_U_F_M_BOUNTYTARGET_002_NAME_06 = CHARLOTTE TATE
+
+MP_U_F_M_BOUNTYTARGET_002_NAME_07 = CATHERINE OSBORNE
+
+MP_U_F_M_BOUNTYTARGET_002_NAME_08 = EMILY CARTER
+
+MP_U_F_M_BOUNTYTARGET_002_NAME_09 = RACHEL GRANT
+
+MP_U_F_M_BOUNTYTARGET_003_CRIME_00 = WANTED for the smuggling of whiskey into tribal lands and FIRING on United States cavalry.
+
+MP_U_F_M_BOUNTYTARGET_003_CRIME_01 = WANTED for the AMBUSH and ARMED ROBBERY of a bank employee whilst he unloaded sums of money and valuables from a stagecoach. Said to be FOULMOUTHED, and of scruffy appearance, she is reported to refer to herself as “MURDERING MAGGIE.”
+
+MP_U_F_M_BOUNTYTARGET_003_CRIME_02 = WANTED for aiding, abetting and escaping with an unidentified man, after they conspired to DETONATE THE SAFE of her employer, a wealthy rancher, with LETHAL CONSEQUENCES for the latter. Her associate is BELIEVED DEAD.
+
+MP_U_F_M_BOUNTYTARGET_003_CRIME_03 = WANTED for the smuggling of rum between SAINT DENIS and GUARMA. Now a fugitive from JUSTICE.
+
+MP_U_F_M_BOUNTYTARGET_003_CRIME_04 = WANTED DEAD or ALIVE for luring an officer of the peace into a narrow back alley, wherein the lawman was set upon by VINDICTIVE CRIMINALS eager to repay prior slights with VIOLENCE. She is depicted as a taciturn woman of humble appearance.
+
+MP_U_F_M_BOUNTYTARGET_003_CRIME_05 = WANTED for MURDER, whereby she endeared herself to a string of PROSPEROUS WIDOWERS through service, only to bring about their DEATHS by means unknown. Believed to be ARMED and DANGEROUS.
+
+MP_U_F_M_BOUNTYTARGET_003_CRIME_06 = WANTED for her role as a lookout in a bank robbery in which at least two employees were KILLED. Mrs. SHERRY fled in the company of the bank robbers, SHAMELESSLY LEAVING behind her loving husband and family, but was not among their number when they were BROUGHT TO JUSTICE.
+
+MP_U_F_M_BOUNTYTARGET_003_CRIME_07 = WANTED for STABBING a sleeping and defenseless officer of the court until he BLED TO DEATH. Said officer presided over the lawful and WELL-DESERVED EXECUTION of her OUTLAW FATHER, Brian Grace, himself a MURDERER.
+
+MP_U_F_M_BOUNTYTARGET_003_CRIME_08 = WANTED for POISONING TO DEATH all but one of the horses of a rival ranch hand, absconding with his remaining horse and few worldly goods. She is depicted with long, soiled brown hair, SALLOW COMPLEXION, and may be armed.
+
+MP_U_F_M_BOUNTYTARGET_003_CRIME_09 = WANTED for MURDER.
+
+MP_U_F_M_BOUNTYTARGET_003_NAME_00 = JANE LYONEL
+
+MP_U_F_M_BOUNTYTARGET_003_NAME_01 = MARGARET SHELBOURNE
+
+MP_U_F_M_BOUNTYTARGET_003_NAME_02 = RACHEL POLANSKI
+
+MP_U_F_M_BOUNTYTARGET_003_NAME_03 = FRANCINE WILLIAMS
+
+MP_U_F_M_BOUNTYTARGET_003_NAME_04 = BETSY ROSSER
+
+MP_U_F_M_BOUNTYTARGET_003_NAME_05 = VIRGINIA ORWELL
+
+MP_U_F_M_BOUNTYTARGET_003_NAME_06 = SALLY SHERRY
+
+MP_U_F_M_BOUNTYTARGET_003_NAME_07 = SHARON GRACE
+
+MP_U_F_M_BOUNTYTARGET_003_NAME_08 = MICHELLE BASQUET
+
+MP_U_F_M_BOUNTYTARGET_003_NAME_09 = ALICE ROSEWOOD
+
+MP_U_F_M_BOUNTYTARGET_004_CRIME_00 = “MAMA” CRESSWELL is wanted for suspicion of counterfeiting, and the MURDER of her arresting officer. Mrs. CRESSWELL was last seen with short blonde hair, wearing a distinctive hat.
+
+MP_U_F_M_BOUNTYTARGET_004_CRIME_01 = Mrs. COLLINS is wanted for the DROWNING DEATH of her brother, Amos, in an alleged dispute over the ownership of a boat left to them in their late mother's will. BEWARE, she is trained with pistol and rifle.
+
+MP_U_F_M_BOUNTYTARGET_004_CRIME_02 = GUILTY of the MURDER of two men she suspected of rustling her cows from her farm. MAFFEY was last seen in pants with a gunbelt and a leather brimmed hat.
+
+MP_U_F_M_BOUNTYTARGET_004_CRIME_03 = TEBBETT is WANTED for the theft of an army supply wagon and the MURDER of a young army officer. TEBBETT is armed and DANGEROUS, last seen wearing a neckerchief and hat.
+
+MP_U_F_M_BOUNTYTARGET_004_CRIME_04 = Drunk and disorderly, “FIREFLY” SMITH is a woman OBSESSED WITH FIRE. Authorities believe she is the perpetrator of SORORICIDE, with the body of her sister lying in the center of a DELIBERATE HOME FIRE. She is also suspected of two other home fires.
+
+MP_U_F_M_BOUNTYTARGET_004_CRIME_05 = LANE is WANTED for the DEATH of a traveling salesman whom she SHOT for standing on her porch. The sheriff's office also believes she is GUILTY OF THEFT, having absconded with the salesman's wares.
+
+MP_U_F_M_BOUNTYTARGET_004_CRIME_06 = Known as a VIOLENT WOMAN, BARRELL is WANTED for the ASSAULT and ROBBERY of a man who splashed mud on her petticoat outside of town, and the SUBSEQUENT MURDER of his wife, who attempted to apprehend Miss BARRELL.
+
+MP_U_F_M_BOUNTYTARGET_004_CRIME_07 = A horsewoman of great renown, “THE GIRL” is WANTED for the theft of two prize stallions from a well-respected stud farm. She is KNOWN TO BE ARMED, and a fine shot.
+
+MP_U_F_M_BOUNTYTARGET_004_CRIME_08 = Miss BETSY WALKER is WANTED for the MURDER of her brother, whom she PUSHED INTO A FIREPLACE without cause. She is believed to be in possession of her late brother's firearms.
+
+MP_U_F_M_BOUNTYTARGET_004_CRIME_09 = A TRULY DEVIANT woman on the lam, Mrs. HADLEY-MASDEN is wanted for the MURDER of her husband, Bill, and her other husband, George. She is ALSO WANTED for bigamy.
+
+MP_U_F_M_BOUNTYTARGET_004_NAME_00 = MAEVE "MAMA" CRESSWELL
+
+MP_U_F_M_BOUNTYTARGET_004_NAME_01 = POPPY COLLINS
+
+MP_U_F_M_BOUNTYTARGET_004_NAME_02 = IDA MAFFEY
+
+MP_U_F_M_BOUNTYTARGET_004_NAME_03 = GRACE TEBBETT
+
+MP_U_F_M_BOUNTYTARGET_004_NAME_04 = MARY "FIREFLY" SMITH
+
+MP_U_F_M_BOUNTYTARGET_004_NAME_05 = HELEN LANE
+
+MP_U_F_M_BOUNTYTARGET_004_NAME_06 = ELIZA BARRELL
+
+MP_U_F_M_BOUNTYTARGET_004_NAME_07 = PEARL "THE GIRL" PHILIPS
+
+MP_U_F_M_BOUNTYTARGET_004_NAME_08 = BETSY WALKER
+
+MP_U_F_M_BOUNTYTARGET_004_NAME_09 = HANNAH HADLEY-MASDEN
+
+MP_U_F_M_BOUNTYTARGET_005_CRIME_00 = WANTED for the MURDER of over three dozen soldiers. HERNANDEZ and her gang have MERCILESSLY BUTCHERED American soldiers stationed across the Mexican border. She has entered United States territory for reasons unknown.
+
+MP_U_F_M_BOUNTYTARGET_005_CRIME_01 = SANCHEZ is wanted for the TRIPLE-MURDER of a government official, his advisor, and his mistress. Her machete was left at the scene.
+
+MP_U_F_M_BOUNTYTARGET_005_CRIME_02 = RODRIGUEZ is wanted in five states for MURDER, RAPE, ARSON, ROBBERY, and BRIBERY. She WEARS THE TEETH of those she's KILLED across her neck.
+
+MP_U_F_M_BOUNTYTARGET_005_CRIME_03 = SALVADOR is a CRAZED REVOLUTIONIST who has POISONED three politicians. Each body was found MANGLED under her gang's banner. Only one has survived. She is WANTED for MURDER, THEFT, and ATTEMPTED MURDER.
+
+MP_U_F_M_BOUNTYTARGET_005_CRIME_04 = ANA MARIA LOPEZ, also known as LA MADRE DEL INFIERNO, is on the run after DETONATING EXPLOSIVES inside three mine entrances outside of ANNESBURG. There were NO SURVIVORS.
+
+MP_U_F_M_BOUNTYTARGET_005_CRIME_05 = FEARED radicalist SOFIA JUAREZ interfered with the PUBLIC EXECUTION of her cousin and left three lawmen DEAD. The two escaped with the help of the ESPINOSA GANG.
+
+MP_U_F_M_BOUNTYTARGET_005_CRIME_06 = VALERIA FLORES and her "Senoras" are responsible for the recent string of DECAPITATIONS along the United States and Mexico border. FLORES is known to KEEP THE HEADS of her victims, leaving the bodies for the VULTURES.
+
+MP_U_F_M_BOUNTYTARGET_005_CRIME_07 = Her real name as yet untraced, the woman known only as "LA LOBA" is WANTED for the ASSAULT and ROBBERY of a visiting diplomat's family. The family was found BOUND and UNCONSCIOUS in their room, with all their belongings gone.
+
+MP_U_F_M_BOUNTYTARGET_005_CRIME_08 = WANTED for the SLAUGHTER of a police officer. ~n~INEZ MORALES interrupted a police raid of an underground gambling ring and took off with the winnings. One officer and two gambling suspects were KILLED in the shootout.
+
+MP_U_F_M_BOUNTYTARGET_005_CRIME_09 = DEADLY sharpshooter LUZ RIVERA is WANTED for the KIDNAPPING and MURDER of a wealthy oil tycoon, Eliot Morgan.
+
+MP_U_F_M_BOUNTYTARGET_005_NAME_00 = MARGARITA HERNANDEZ
+
+MP_U_F_M_BOUNTYTARGET_005_NAME_01 = TERESA SANCHEZ
+
+MP_U_F_M_BOUNTYTARGET_005_NAME_02 = MARTA RODRIGUEZ
+
+MP_U_F_M_BOUNTYTARGET_005_NAME_03 = GABRIELA SALVADOR
+
+MP_U_F_M_BOUNTYTARGET_005_NAME_04 = ANA MARIA LOPEZ
+
+MP_U_F_M_BOUNTYTARGET_005_NAME_05 = SOFIA JUAREZ
+
+MP_U_F_M_BOUNTYTARGET_005_NAME_06 = VALERIA FLORES
+
+MP_U_F_M_BOUNTYTARGET_005_NAME_07 = LA LOBA
+
+MP_U_F_M_BOUNTYTARGET_005_NAME_08 = INEZ MORALES
+
+MP_U_F_M_BOUNTYTARGET_005_NAME_09 = LUZ RIVERA
+
+MP_U_F_M_BOUNTYTARGET_008_CRIME_00 = WANTED for introducing POISONOUS SUBSTANCES into the drinks of patrons at the saloon in which she was formerly employed, with intent to cause INJURIOUS HARM and even DEATH.
+
+MP_U_F_M_BOUNTYTARGET_008_CRIME_01 = WANTED for THROTTLING her fraternal twin sister Emma by the neck over allegations of cheating in a game of whist.
+
+MP_U_F_M_BOUNTYTARGET_008_CRIME_02 = WANTED DEAD OR ALIVE for the STABBING DEATH of the local barber and surgeon, as well as a MURDEROUS ASSAULT upon his son and assistant, in retribution for their BOTCHED OPERATION on her own now-DECEASED son.
+
+MP_U_F_M_BOUNTYTARGET_008_CRIME_03 = A neighborhood cello teacher, JONES repeatedly STABBED a student to his DEATH with her bow. JUSTICE wanted for this SAVAGE crime.
+
+MP_U_F_M_BOUNTYTARGET_008_CRIME_04 = WANTED for the crime of luring lonely suitors via ardent love letters into a web of THEFT, FRAUD and DECEPTION resulting, in the cases of at least two young men, in their apparent SUICIDE.
+
+MP_U_F_M_BOUNTYTARGET_008_CRIME_05 = WANTED for BLINDING and nearly KILLING her close friend, Miss Agatha Brown, with HOT GREASE.
+
+MP_U_F_M_BOUNTYTARGET_008_CRIME_06 = WANTED for the SABOTAGE of a horse-drawn cart, causing a woman believed to be the wife of COLE'S paramour to fall and be TRAMPLED to DEATH.
+
+MP_U_F_M_BOUNTYTARGET_008_CRIME_07 = WANTED for the ATTEMPTED MURDER of her father by the elaborate staging of a hunting accident, in pursuit of her sizeable inheritance.
+
+MP_U_F_M_BOUNTYTARGET_008_CRIME_08 = WANTED for the STABBING DEATH of her American sponsor, a well-known Lemoyne gentleman who brought her all the way from Ireland to this GREAT NATION to win her heart.
+
+MP_U_F_M_BOUNTYTARGET_008_CRIME_09 = WANTED for horse theft, robbery, assaulting her court-appointed guardian with a DEADLY WEAPON with INTENT TO MAIM, and absconding with her sister MARY, whose BODY was recently discovered on a train passing through the HEARTLANDS.
+
+MP_U_F_M_BOUNTYTARGET_008_NAME_00 = JULY JOLIE
+
+MP_U_F_M_BOUNTYTARGET_008_NAME_01 = ANNA BORROUGHS
+
+MP_U_F_M_BOUNTYTARGET_008_NAME_02 = CHARLOTTE KIRKE
+
+MP_U_F_M_BOUNTYTARGET_008_NAME_03 = ROSA JONES
+
+MP_U_F_M_BOUNTYTARGET_008_NAME_04 = SWEET FISHER
+
+MP_U_F_M_BOUNTYTARGET_008_NAME_05 = ETHEL RHINEHART
+
+MP_U_F_M_BOUNTYTARGET_008_NAME_06 = ELIZABETH COLE
+
+MP_U_F_M_BOUNTYTARGET_008_NAME_07 = GAY MACBRIDE
+
+MP_U_F_M_BOUNTYTARGET_008_NAME_08 = RUTH COOGAN
+
+MP_U_F_M_BOUNTYTARGET_008_NAME_09 = MOLLY MILLER
+
+MP_U_F_M_BOUNTYTARGET_009_CRIME_00 = CROWDER is wanted for two STABBINGS and two HORSE THEFTS from the same DEBAUCHED night, during which the state and federal agents believe she was under the influence of her own ILLICITLY DISTILLED spirits.
+
+MP_U_F_M_BOUNTYTARGET_009_CRIME_01 = Quick-tempered MOSLEY is a dangerous woman WANTED for the ROBBERY of two passenger carriages. She is average height with long brown hair and blue eyes.
+
+MP_U_F_M_BOUNTYTARGET_009_CRIME_02 = WANTED for STEALING the horse of an officer of the law, and the subsequent PHYSICAL ASSAULT of said officer. She also stole his hat and uniform, but agents DO NOT believe she is wearing them.
+
+MP_U_F_M_BOUNTYTARGET_009_CRIME_03 = Miss THROPP is wanted for STEALING the carriage transferring money to the BANK OF RHODES. The carriage has been found, DESTROYED and ABANDONED, but Miss THROPP is still at large.
+
+MP_U_F_M_BOUNTYTARGET_009_CRIME_04 = Protean, HIGHLY VOLATILE, WYMAN is wanted for the HEINOUS crime of MATRICIDE. She is 25 years old, though she LOOKS OLDER, with a large hook nose and long brown hair.
+
+MP_U_F_M_BOUNTYTARGET_009_CRIME_05 = This WILD WOMAN is wanted for PUBLIC OBSCENITY and the PHYSICAL ASSAULT of two women with a RAW CHICKEN. Nor is this the first time she has perpetrated such a crime. A previous marshal sent in her pursuit was VICIOUSLY ASSAULTED.
+
+MP_U_F_M_BOUNTYTARGET_009_CRIME_06 = SUTTON was once widely known as a HARMLESS IF ECCENTRIC tinker, until she was discovered to be selling a casserole MADE FROM THE REMAINS of persons unknown. She is now a FUGITIVE from the law.
+
+MP_U_F_M_BOUNTYTARGET_009_CRIME_07 = Of UNKNOWN NAME and age, this woman is believed to have been raised near the KAMASSA RIVER, but has been seen as far afield as NEW AUSTIN. Her modus operandi is unknown, but her VICTIMS, invariably young men, all suffer the same fate of CATATONIC STUPOR. Approach with caution.
+
+MP_U_F_M_BOUNTYTARGET_009_CRIME_08 = A VAGRANT, believed to originate from the region of ROANOKE RIDGE, MCKEAN preys ruthlessly upon solitary travelers across the length of the southern states.
+
+MP_U_F_M_BOUNTYTARGET_009_CRIME_09 = Miss CRABB is WANTED for the MURDER of a carriage driver. MOTIVATION UNKNOWN, as both the victim and his carriage were found untouched, but Miss CRABB remains at large.
+
+MP_U_F_M_BOUNTYTARGET_009_NAME_00 = MATHILDA "MATTIE" CROWDER
+
+MP_U_F_M_BOUNTYTARGET_009_NAME_01 = LOUISE MOSLEY
+
+MP_U_F_M_BOUNTYTARGET_009_NAME_02 = DELLA CALDWELL
+
+MP_U_F_M_BOUNTYTARGET_009_NAME_03 = SALLY THROPP
+
+MP_U_F_M_BOUNTYTARGET_009_NAME_04 = MARGARET WYMAN
+
+MP_U_F_M_BOUNTYTARGET_009_NAME_05 = DOROTHEA SWIGGART
+
+MP_U_F_M_BOUNTYTARGET_009_NAME_06 = EUNICE SUTTON
+
+MP_U_F_M_BOUNTYTARGET_009_NAME_07 = "THE KAMASSA WITCH"
+
+MP_U_F_M_BOUNTYTARGET_009_NAME_08 = JOLENE MCKEAN
+
+MP_U_F_M_BOUNTYTARGET_009_NAME_09 = CLARA CRABB
+
+MP_U_F_M_BOUNTYTARGET_010_CRIME_00 = WANTED for MURDER and THEFT. ~n~TUCKER was last seen driving a stolen wagon full of chickens outside of VAN HORN. The wagon driver's body was found shortly after.
+
+MP_U_F_M_BOUNTYTARGET_010_CRIME_01 = For unknown reasons, BURNETT set FIRE to an ORPHANAGE. By the grace of God there were NO DEATHS, but the property was destroyed.  She was last seen running towards the mountains on foot.
+
+MP_U_F_M_BOUNTYTARGET_010_CRIME_02 = WANTED for THEFT and ASSAULT. ~n~MITCHELL robbed a general store at gunpoint, SHOOTING and MAIMING the right hand of the owner, with whom she was believed to be romantically involved.
+
+MP_U_F_M_BOUNTYTARGET_010_CRIME_03 = Witnesses caught BUNCH urinating on the graves of her in-laws. She is wanted for TRESPASSING, public LEWDNESS, and public OBSCENITY. She is believed to be VIOLENT.
+
+MP_U_F_M_BOUNTYTARGET_010_CRIME_04 = Known for her sticky fingers, MAE PURCELL walked off with TWO HUNDRED DOLLARS' worth of stolen goods hidden under her dress. Two shop boys were later found TIED UP in a back closet, unconscious.
+
+MP_U_F_M_BOUNTYTARGET_010_CRIME_05 = MABLE BABB was last seen running into the wilderness, after STEALING livestock from local farms. Two pigs were KILLED in the escape, and one farm hand was SEVERELY INJURED.
+
+MP_U_F_M_BOUNTYTARGET_010_CRIME_06 = MEREDITH HOPKINS fatally SHOT her neighbor's farm hand in a FIT OF RAGE. The boy was caught trespassing on her property.
+
+MP_U_F_M_BOUNTYTARGET_010_CRIME_07 = NELLIE OAKLEY is on the run after FATALLY STABBING a stagecoach driver. Passengers saw Mrs. OAKLEY denied passage, and reports suggest she fled the scene UNARMED.
+
+MP_U_F_M_BOUNTYTARGET_010_CRIME_08 = Once known for her beautiful singing voice, CHURCH was once recognized as a rare talent. Fallen into HARD TIMES, she is now WANTED for the MURDER of her sister and pianist LIZ WALLIS, whom she BLAMES for their reduction in quality of life.
+
+MP_U_F_M_BOUNTYTARGET_010_CRIME_09 = VICTORIA WEBBER, 42, knowingly FED her husband and his brother CONTAMINATED MEAT, KILLING THEM BOTH. She is now a FUGITIVE and at large.
+
+MP_U_F_M_BOUNTYTARGET_010_NAME_00 = HELEN TUCKER
+
+MP_U_F_M_BOUNTYTARGET_010_NAME_01 = AUGUSTA BURNETT
+
+MP_U_F_M_BOUNTYTARGET_010_NAME_02 = LOUISA MITCHELL
+
+MP_U_F_M_BOUNTYTARGET_010_NAME_03 = IDA BUNCH
+
+MP_U_F_M_BOUNTYTARGET_010_NAME_04 = MAE PURCELL
+
+MP_U_F_M_BOUNTYTARGET_010_NAME_05 = MABLE BABB
+
+MP_U_F_M_BOUNTYTARGET_010_NAME_06 = MEREDITH HOPKINS
+
+MP_U_F_M_BOUNTYTARGET_010_NAME_07 = NELLIE OAKLEY
+
+MP_U_F_M_BOUNTYTARGET_010_NAME_08 = ANN LOUISE CHURCH
+
+MP_U_F_M_BOUNTYTARGET_010_NAME_09 = VICTORIA WEBBER
+
+MP_U_F_M_BOUNTYTARGET_011_CRIME_00 = BRIGANDS, MURDERESSES and SUSPECTED DEVIANTS, every member of this so-called “sisterhood” of the southern states is WANTED DEAD OR ALIVE by federal order.
+
+MP_U_F_M_BOUNTYTARGET_011_CRIME_01 = WANTED for a string of robberies, the four women here depicted are known to be ARMED and DANGEROUS. They strike trains and carriages on their overnight shifts, with the stolen money totaling over FOUR THOUSAND DOLLARS.
+
+MP_U_F_M_BOUNTYTARGET_011_CRIME_02 = Formerly employed at a brothel in SAINT DENIS, these CRUEL TERMAGANTS, led by a “Mrs. Johnson”, are now engaged upon a campaign of ARMED BANDITRY and KIDNAP against the wealthiest of their former clients.
+
+MP_U_F_M_BOUNTYTARGET_011_CRIME_03 = WANTED for the MURDER of respected lawman Sheriff Cal. Two of these women broke into the jail and MURDERED the sleeping lawman in his chair, before breaking the other members of their gang out of jail BY FORCE.
+
+MP_U_F_M_BOUNTYTARGET_011_CRIME_04 = Once believed to be DEAD, these UNNATURAL WOMEN have come out of YEARS-LONG HIDING and robbed at least two passenger trains across the county, as well as MURDERING one train conductor.
+
+MP_U_F_M_BOUNTYTARGET_011_CRIME_05 = All four of these RUTHLESS CON-WOMEN are WANTED for creating and selling counterfeit gold nuggets and false gold claims. The leader of the gang, Mrs. ALICE MCMURPHY, is wanted for two charges of MURDER.
+
+MP_U_F_M_BOUNTYTARGET_011_CRIME_06 = These four women - BETTY MALONE, BETTY MCCRUM, BEATRIZ ABRIL, and ELIZABETH MORTON - have made their career deceiving, defrauding, duping, swindling and publicly disgracing respected landowners across the south. They are ARMED, and HIGHLY DANGEROUS.
+
+MP_U_F_M_BOUNTYTARGET_011_CRIME_07 = WANTED for a swindling operation in which NEARLY A DOZEN citizens bought expensive plots of land out West, and which the federal law subsequently found to be ENTIRELY FABRICATED. Rather than submit to custody, these women have taken up arms, are UNAFRAID to KILL, and remain at large.
+
+MP_U_F_M_BOUNTYTARGET_011_CRIME_08 = Under the leadership of the NOTORIOUS DOLORES CAINE, these women have repeatedly infiltrated the Supreme Court of Lemoyne, through means unknown, each time painting their DERANGED MANIFESTO on the desk of the CHIEF JUSTICE.
+
+MP_U_F_M_BOUNTYTARGET_011_CRIME_09 = These four women are known to challenge DRUNKEN and VULNERABLE men to shooting competitions, only to MURDER their competitors and ABSCOND with their money. They are wanted for SIXTEEN SUCH CHARGES of MURDER and THEFT.
+
+MP_U_F_M_BOUNTYTARGET_011_NAME_00 = "THE SISTERHOOD OF DOROTHEA SHAW"
+
+MP_U_F_M_BOUNTYTARGET_011_NAME_01 = THE DAISY REEVES GANG
+
+MP_U_F_M_BOUNTYTARGET_011_NAME_02 = MRS. JOHNSON'S GIRLS
+
+MP_U_F_M_BOUNTYTARGET_011_NAME_03 = THE MURDERESSES OF SHERIFF CAL
+
+MP_U_F_M_BOUNTYTARGET_011_NAME_04 = THE EDITH JONES GANG
+
+MP_U_F_M_BOUNTYTARGET_011_NAME_05 = THE MCMURPHY GANG
+
+MP_U_F_M_BOUNTYTARGET_011_NAME_06 = THE FOUR BETTIES
+
+MP_U_F_M_BOUNTYTARGET_011_NAME_07 = THE AMBARINO ROSES
+
+MP_U_F_M_BOUNTYTARGET_011_NAME_08 = THE FOUR FINGERS GANG
+
+MP_U_F_M_BOUNTYTARGET_011_NAME_09 = THE "SALOON DOOR" KILLERS
+
+MP_U_M_M_BOUNTYTARGET_001_CRIME_00 = For his attempts to fence items stolen from the buried dead, IAN F. MCKINNY must be brought to JUSTICE.
+
+MP_U_M_M_BOUNTYTARGET_001_CRIME_01 = JAMES, who goes by the name of "LOU", is a MANY-TONGUED CHARLATAN wanted for his efforts in SWINDLING the elderly out of finance.
+
+MP_U_M_M_BOUNTYTARGET_001_CRIME_02 = Witnesses state that DONAHUE has been seen STEALING DONATIONS from CHURCHES and the HOMELESS across a number of towns. Resisting arrest, he fled and remains at large.
+
+MP_U_M_M_BOUNTYTARGET_001_CRIME_03 = GUTHRIE has been known to STEAL various items from the saddlebags and storage of members of the public. He FLED COURT, after ABUSING the judge.
+
+MP_U_M_M_BOUNTYTARGET_001_CRIME_04 = Of a theatrical bent, MCDERMOTT has several times IMPERSONATED A LAWMAN to demand food and financial gain from trusting members of the public.
+
+MP_U_M_M_BOUNTYTARGET_001_CRIME_05 = For DRUNKENLY riding his wagon and TRAMPLING a civilian under wheel and horse hoof.
+
+MP_U_M_M_BOUNTYTARGET_001_CRIME_06 = SAMUEL S. MORGAN has been known to provide home and hospitality to the so-called "THE BROTHERHOOD OF REGISTER ROCK".
+
+MP_U_M_M_BOUNTYTARGET_001_CRIME_07 = Witnesses say TINNY has been spotted looting the homes of DECEASED PERSONS in ARMADILLO. He is now a fugitive, and at large. Approach with extreme caution due to the RISK OF INFECTION.
+
+MP_U_M_M_BOUNTYTARGET_001_CRIME_08 = WANTED for his part in a FOILED CONSPIRACY to orchestrate a fake kidnapping and secure ransom.
+
+MP_U_M_M_BOUNTYTARGET_001_CRIME_09 = THREATENED a number of patrons in a saloon with a KNIFE after losing a number of rounds of five-finger fillet.
+
+MP_U_M_M_BOUNTYTARGET_001_NAME_00 = IAN F. MCKINNY
+
+MP_U_M_M_BOUNTYTARGET_001_NAME_01 = LOUIS JAMES
+
+MP_U_M_M_BOUNTYTARGET_001_NAME_02 = OSCAR DONAHUE
+
+MP_U_M_M_BOUNTYTARGET_001_NAME_03 = ARTHUR GUTHRIE
+
+MP_U_M_M_BOUNTYTARGET_001_NAME_04 = HAMPTON MCDERMOTT
+
+MP_U_M_M_BOUNTYTARGET_001_NAME_05 = CARTER COVINGTON
+
+MP_U_M_M_BOUNTYTARGET_001_NAME_06 = SAMUEL S. MORGAN
+
+MP_U_M_M_BOUNTYTARGET_001_NAME_07 = MASON TINNY
+
+MP_U_M_M_BOUNTYTARGET_001_NAME_08 = HAP MOORHOUSE
+
+MP_U_M_M_BOUNTYTARGET_001_NAME_09 = WILLIAM P. SCORNTON
+
+MP_U_M_M_BOUNTYTARGET_002_CRIME_00 = WANTED for the BRUTAL BEATING of his wife and children near unto DEATH, and the SLAYING of his mother-in-law.
+
+MP_U_M_M_BOUNTYTARGET_002_CRIME_01 = For the KILLING of several heads of cattle and one hand in an act of vengeance DONALD SVENSON is WANTED DEAD OR ALIVE. Last seen with shorn head and black beard.
+
+MP_U_M_M_BOUNTYTARGET_002_CRIME_02 = WANTED for drunkenly causing HUNDREDS OF DOLLARS in damages, including the RUIN of a saloon piano and the front glass of several shops, and furthermore causing a carriage to WRECK, resulting in the INJURY OF FOUR, and the DEATH of the carriage driver.
+
+MP_U_M_M_BOUNTYTARGET_002_CRIME_03 = While attempting to steal SEVERAL HORSES from the local stable where he worked, BOLARD beat the stable boy to the POINT OF UNCONSCIOUSNESS and later DEATH.
+
+MP_U_M_M_BOUNTYTARGET_002_CRIME_04 = Wanted for STARTING A FIRE through NEGLIGENCE and IRRESPONSIBILITY that burnt down his neighbor's homestead. All their worldly possessions LOST, and their youngest child DEAD.
+
+MP_U_M_M_BOUNTYTARGET_002_CRIME_05 = Found GUILTY of the MURDER of his DAUGHTER'S BETROTHED. Known to keep a beard, CHAMBERS was last seen wearing a red scarf.
+
+MP_U_M_M_BOUNTYTARGET_002_CRIME_06 = ABSCONDED with his father-in-law's prized carriage and other valuables. TRAMPLED a farm hand in the process, CRIPPLING HIM.
+
+MP_U_M_M_BOUNTYTARGET_002_CRIME_07 = Found GUILTY of the DEATH BY MANSLAUGHTER of a well-respected schoolmistress, Miss Avaline Baxter. CARROL recklessly discharged his weapon following drunken success in an unlawful duel, STRIKING MISS BAXTER DEAD. He fled unarmed.
+
+MP_U_M_M_BOUNTYTARGET_002_CRIME_08 = STOLE a wagon of goods bound for export, before TRAMPLING a deputy attempting to prevent his flight.
+
+MP_U_M_M_BOUNTYTARGET_002_CRIME_09 = KILLED one and SEVERELY INJURED several others after being accused of cheating at cards.
+
+MP_U_M_M_BOUNTYTARGET_002_NAME_00 = ROBERT VON KURTZ
+
+MP_U_M_M_BOUNTYTARGET_002_NAME_01 = DONALD SVENSON
+
+MP_U_M_M_BOUNTYTARGET_002_NAME_02 = ALBERT "BERT" DANIELS
+
+MP_U_M_M_BOUNTYTARGET_002_NAME_03 = JAMES BOLARD
+
+MP_U_M_M_BOUNTYTARGET_002_NAME_04 = LEO SOMMERS
+
+MP_U_M_M_BOUNTYTARGET_002_NAME_05 = STEVEN CHAMBERS
+
+MP_U_M_M_BOUNTYTARGET_002_NAME_06 = MICHAEL LA BEAU
+
+MP_U_M_M_BOUNTYTARGET_002_NAME_07 = DANIEL CARROL
+
+MP_U_M_M_BOUNTYTARGET_002_NAME_08 = DARYL BURTON
+
+MP_U_M_M_BOUNTYTARGET_002_NAME_09 = WILLIAM DENSON
+
+MP_U_M_M_BOUNTYTARGET_003_CRIME_00 = Several eyewitnesses and families of the DECEASED attest to HOWARD'S BLASPHEMOUS DESECRATION of their eternal rest.
+
+MP_U_M_M_BOUNTYTARGET_003_CRIME_01 = The NOTORIOUS CON ARTIST and TRICKSTER is wanted for a SAVAGE ATTACK on a deputy sheriff that left the respected lawman BLINDED and PARALYZED.
+
+MP_U_M_M_BOUNTYTARGET_003_CRIME_02 = WANTED for the VICIOUS MURDER of his OWN WIFE in their marital home.
+
+MP_U_M_M_BOUNTYTARGET_003_CRIME_03 = WANTED for the commission of VIOLENT EXTORTION in connection with his salary lending business.
+
+MP_U_M_M_BOUNTYTARGET_003_CRIME_04 = WANTED for a cold and premeditated REVENGE KILLING.
+
+MP_U_M_M_BOUNTYTARGET_003_CRIME_05 = WANTED for the KIDNAP and FAILED RANSOM of a government official.
+
+MP_U_M_M_BOUNTYTARGET_003_CRIME_06 = WANTED for the VICIOUS and WANTON DESTRUCTION of his employer's property and livestock, including barns, stables, pens, henhouses and other locales, as well as many horses, cattle, swine and poultry.
+
+MP_U_M_M_BOUNTYTARGET_003_CRIME_07 = WANTED for the unconscionably BLOODY MURDER of his own mother while apparently suffering from a DERANGEMENT of the senses.
+
+MP_U_M_M_BOUNTYTARGET_003_CRIME_08 = WANTED for a series of acts of arson in pursuance of insurance fraud, and one count of accidental KILLING OF A CHILD.
+
+MP_U_M_M_BOUNTYTARGET_003_CRIME_09 = WANTED for a series of VICIOUS MUTILATIONS perpetrated on young men in and around BLACKWATER. Mr. MOORE has been on the run for some months so may have grown his hair longer, and could well have traveled far.
+
+MP_U_M_M_BOUNTYTARGET_003_NAME_00 = JOSEPH HOWARD
+
+MP_U_M_M_BOUNTYTARGET_003_NAME_01 = CLIVE WELLS
+
+MP_U_M_M_BOUNTYTARGET_003_NAME_02 = GEORGE CLARK
+
+MP_U_M_M_BOUNTYTARGET_003_NAME_03 = ERNEST THOMPSON
+
+MP_U_M_M_BOUNTYTARGET_003_NAME_04 = PHILIP DOUCET
+
+MP_U_M_M_BOUNTYTARGET_003_NAME_05 = LAWRENCE FOSTER SMITH
+
+MP_U_M_M_BOUNTYTARGET_003_NAME_06 = ISAAC JENSEN
+
+MP_U_M_M_BOUNTYTARGET_003_NAME_07 = AUGUST BRYANT
+
+MP_U_M_M_BOUNTYTARGET_003_NAME_08 = EVERETT JONES
+
+MP_U_M_M_BOUNTYTARGET_003_NAME_09 = CUTHBERT MOORE
+
+MP_U_M_M_BOUNTYTARGET_005_CRIME_00 = WANTED for theft and the BRUTAL ASSAULT of an officer of the law.
+
+MP_U_M_M_BOUNTYTARGET_005_CRIME_01 = The famous bareknuckle champion, CARTWRIGHT is wanted for the PUBLIC MURDER of his manager, Mr. Bob Bickett.
+
+MP_U_M_M_BOUNTYTARGET_005_CRIME_02 = WANTED for the ATTEMPTED MURDER of well-liked saloon proprietor, Carl Evans, and the abduction of Mrs. Evans, who has since escaped CORBETT'S custody.
+
+MP_U_M_M_BOUNTYTARGET_005_CRIME_03 = WANTED for a long career as a HIRED THUG on behalf of numerous criminal organizations operating out of SAINT DENIS, CRABTREE is now fugitive and at large.
+
+MP_U_M_M_BOUNTYTARGET_005_CRIME_04 = WANTED for the STRANGULATION MURDER of his brother-in-law, State Marshal Alan Peters.
+
+MP_U_M_M_BOUNTYTARGET_005_CRIME_05 = WANTED for the STABBING DEATH of Rev. William Johnson.
+
+MP_U_M_M_BOUNTYTARGET_005_CRIME_06 = A notorious brawler and scoundrel, HARPER is wanted for the PUBLIC KILLING of Miss Ethel Pickering in a fit of DRUNKEN RAGE.
+
+MP_U_M_M_BOUNTYTARGET_005_CRIME_07 = HOLLAND works as a personal doctor and surgeon for some of the MOST WANTED criminals in the country.
+
+MP_U_M_M_BOUNTYTARGET_005_CRIME_08 = The so-called "bear-baiter extraordinaire", LYERLY recently set his bear to MURDEROUS WORK on a fellow circus performer.
+
+MP_U_M_M_BOUNTYTARGET_005_CRIME_09 = A traveling farrier, GARDENER was seen by multiple witnesses BLUDGEONING to DEATH first Mr. John Hepton, then Mr. Hepton's famous white Arabian horse, ACHILLES.
+
+MP_U_M_M_BOUNTYTARGET_005_NAME_00 = CLINT HARGROVE
+
+MP_U_M_M_BOUNTYTARGET_005_NAME_01 = VIRGIL "BLUE" CARTWRIGHT
+
+MP_U_M_M_BOUNTYTARGET_005_NAME_02 = JOE CORBETT
+
+MP_U_M_M_BOUNTYTARGET_005_NAME_03 = JOSHUA CRABTREE
+
+MP_U_M_M_BOUNTYTARGET_005_NAME_04 = MAC FARRELLY
+
+MP_U_M_M_BOUNTYTARGET_005_NAME_05 = JOHN ANDERSON
+
+MP_U_M_M_BOUNTYTARGET_005_NAME_06 = JAMES R. HARPER
+
+MP_U_M_M_BOUNTYTARGET_005_NAME_07 = DAVID "DOC" HOLLAND
+
+MP_U_M_M_BOUNTYTARGET_005_NAME_08 = DW LYERLY
+
+MP_U_M_M_BOUNTYTARGET_005_NAME_09 = SAM GARDENER
+
+MP_U_M_M_BOUNTYTARGET_008_CRIME_00 = Eyewitnesses saw HOPKINSON MORTALLY WOUNDING a government official's horse in the town of SAINT DENIS. His motive remains UNKNOWN. Now FUGITIVE and at large.
+
+MP_U_M_M_BOUNTYTARGET_008_CRIME_01 = WANTED for HORSE ROBBERY.
+
+MP_U_M_M_BOUNTYTARGET_008_CRIME_02 = WANTED for repeated disruptive behavior and ASSAULT throughout the state.
+
+MP_U_M_M_BOUNTYTARGET_008_CRIME_03 = WANTED for MANSLAUGHTER in a saloon brawl.
+
+MP_U_M_M_BOUNTYTARGET_008_CRIME_04 = WANTED for the MURDER of a customs official while trucking in contraband.
+
+MP_U_M_M_BOUNTYTARGET_008_CRIME_05 = WANTED for SERIAL BURGLARY.
+
+MP_U_M_M_BOUNTYTARGET_008_CRIME_06 = WANTED for ARMED ROBBERY at three LANNAHECHEE DOCKS. Last seen on the move.
+
+MP_U_M_M_BOUNTYTARGET_008_CRIME_07 = WANTED for vagrancy, unpaid rents, and the KILLING of his female cousin, a NOTED SINGER.
+
+MP_U_M_M_BOUNTYTARGET_008_CRIME_08 = WANTED for MANSLAUGHTER and public intoxication in VALENTINE. Last seen traveling.
+
+MP_U_M_M_BOUNTYTARGET_008_CRIME_09 = WANTED for the BODILY ASSAULT of a US Federal Marshal.
+
+MP_U_M_M_BOUNTYTARGET_008_NAME_00 = PRESTER HOPKINSON
+
+MP_U_M_M_BOUNTYTARGET_008_NAME_01 = CAESAR WASHINGTON
+
+MP_U_M_M_BOUNTYTARGET_008_NAME_02 = KURSON GEORGE
+
+MP_U_M_M_BOUNTYTARGET_008_NAME_03 = CHARLIE SOFT
+
+MP_U_M_M_BOUNTYTARGET_008_NAME_04 = GEOFF EAGLETON
+
+MP_U_M_M_BOUNTYTARGET_008_NAME_05 = JED SMITH
+
+MP_U_M_M_BOUNTYTARGET_008_NAME_06 = SUN MILLBANK
+
+MP_U_M_M_BOUNTYTARGET_008_NAME_07 = ISAAC TOWNSHEND
+
+MP_U_M_M_BOUNTYTARGET_008_NAME_08 = EARNEST MORRISON
+
+MP_U_M_M_BOUNTYTARGET_008_NAME_09 = BILL MAXWELL
+
+MP_U_M_M_BOUNTYTARGET_009_CRIME_00 = A warrant has been issued for the apprehension and return of JIM LARSON, DEAD or ALIVE. WANTED for the theft of payroll and MURDER of his foreman, Anthony O'Day, who surprised him in the act.
+
+MP_U_M_M_BOUNTYTARGET_009_CRIME_01 = PRISONER ON THE RUN! MOORE escaped from SISIKA PENITENTIARY on FEBRUARY 22, while serving a sentence of one year for theft.
+
+MP_U_M_M_BOUNTYTARGET_009_CRIME_02 = SAUER is sought for the DROWNING of his former friend and business partner, Jurgen Vogt. A GERMAN oil speculator, he nevertheless speaks English with nary an accent, and has PROMINENT WHISKERS if he has not yet visited a barber.
+
+MP_U_M_M_BOUNTYTARGET_009_CRIME_03 = WANTED for criminal trespass and FATAL ASSAULT of a guard at the CASTILLE COTTON CO.
+
+MP_U_M_M_BOUNTYTARGET_009_CRIME_04 = WANTED for FRATRICIDE! Last seen departing the town of VALENTINE shortly after he SHOT HIS BROTHER, Will Barber, DEAD in a disagreement over a cattle auction.
+
+MP_U_M_M_BOUNTYTARGET_009_CRIME_05 = KILLED a man during a bare-handed brawl at the OLD LIGHT SALOON in VAN HORN. Committed horse theft on his way out of town; currently fugitive, likely ARMED.
+
+MP_U_M_M_BOUNTYTARGET_009_CRIME_06 = WANTED for MURDER. ~n~WARD SHOT his neighbor, Jed Pitts, during a dispute about their shared property line. Mrs. Agnes Pitts, now a WIDOW, was INJURED in the ATTACK.
+
+MP_U_M_M_BOUNTYTARGET_009_CRIME_07 = WANTED for AGGRAVATED ASSAULT. HAYES became ENRAGED during a game of five finger fillet and SLASHED Mr. Patrick Lee MULTIPLE TIMES across the face and chest. Mr. Lee now CLINGS TO LIFE. Hayes is known to be armed.
+
+MP_U_M_M_BOUNTYTARGET_009_CRIME_08 = WANTED for KIDNAPPING. ~n~A REWARD is offered by Mr. and Mrs. Burk of STRAWBERRY after CURT HAMMOND abducted their daughter and LEFT HER FOR DEAD in the wilderness.
+
+MP_U_M_M_BOUNTYTARGET_009_CRIME_09 = DEPUTY KILLER! When confronted by Deputy Ewing about his public drunkenness and indecency, CRAWFORD pushed the deputy in way of an oncoming wagon. The deputy DIED shortly thereafter, CRAWFORD having already absconded.
+
+MP_U_M_M_BOUNTYTARGET_009_NAME_00 = JIM LARSON
+
+MP_U_M_M_BOUNTYTARGET_009_NAME_01 = VIC MOORE
+
+MP_U_M_M_BOUNTYTARGET_009_NAME_02 = GUSTAV SAUER
+
+MP_U_M_M_BOUNTYTARGET_009_NAME_03 = HENRY EATON
+
+MP_U_M_M_BOUNTYTARGET_009_NAME_04 = ED BARBER
+
+MP_U_M_M_BOUNTYTARGET_009_NAME_05 = FINN GREEN
+
+MP_U_M_M_BOUNTYTARGET_009_NAME_06 = JONAH WARD
+
+MP_U_M_M_BOUNTYTARGET_009_NAME_07 = PAUL HAYES
+
+MP_U_M_M_BOUNTYTARGET_009_NAME_08 = CURT HAMMOND
+
+MP_U_M_M_BOUNTYTARGET_009_NAME_09 = ART CRAWFORD
+
+MP_U_M_M_BOUNTYTARGET_010_CRIME_00 = This respected businessman became a MURDERER when he KILLED a store clerk after a dispute. Fugitive and ARMED.
+
+MP_U_M_M_BOUNTYTARGET_010_CRIME_01 = WANTED for the VICIOUS MURDER of his brother over a contested inheritance.
+
+MP_U_M_M_BOUNTYTARGET_010_CRIME_02 = WANTED for MURDER and animal cruelty after he TRAMPLED a man, two sheep and a dog while absconding from a bank.
+
+MP_U_M_M_BOUNTYTARGET_010_CRIME_03 = REWARD for the CAPTURE OR KILLING of this unscrupulous thief and MURDERER who SLAYED an innocent wagon driver.
+
+MP_U_M_M_BOUNTYTARGET_010_CRIME_04 = Mr. WATERS is a salesman and huckster who, incurring the WRATH of a small town when he was discovered to be selling shoddy ammunition, SHOT A WOMAN while trying to escape the ANGRY MOB.
+
+MP_U_M_M_BOUNTYTARGET_010_CRIME_05 = MURDERER and horse thief. MITCHELL attempted to steal a farmer's horse and TRAMPLED the farmer to DEATH when he dared to stand in MITCHELL'S way.
+
+MP_U_M_M_BOUNTYTARGET_010_CRIME_06 = WANTED for the GRIEVOUS INJURY of three people and the MURDER of one during a botched attempt to rob a wagon at GUNPOINT.
+
+MP_U_M_M_BOUNTYTARGET_010_CRIME_07 = WANTED for MURDER and the RUSTLING of prize livestock.
+
+MP_U_M_M_BOUNTYTARGET_010_CRIME_08 = WANTED for the MURDER of saloon owner and family-man Ellis Richards, whom HOLT threw from a SECOND STORY WINDOW during a dispute over payment.
+
+MP_U_M_M_BOUNTYTARGET_010_CRIME_09 = During a tussle with the law following a petty theft, GORDON pitched a sheriff's deputy into FLAT IRON LAKE, resulting in the deputy's DROWNING. He is WANTED for MURDER, DEAD or ALIVE.
+
+MP_U_M_M_BOUNTYTARGET_010_NAME_00 = HERMAN HILL
+
+MP_U_M_M_BOUNTYTARGET_010_NAME_01 = ALVIN REED
+
+MP_U_M_M_BOUNTYTARGET_010_NAME_02 = PERCY CHAPMAN
+
+MP_U_M_M_BOUNTYTARGET_010_NAME_03 = EARNEST BISHOP
+
+MP_U_M_M_BOUNTYTARGET_010_NAME_04 = ROSS WATERS
+
+MP_U_M_M_BOUNTYTARGET_010_NAME_05 = WILLARD MITCHELL
+
+MP_U_M_M_BOUNTYTARGET_010_NAME_06 = MARVIN ALLISON
+
+MP_U_M_M_BOUNTYTARGET_010_NAME_07 = ELBERT BABCOCK
+
+MP_U_M_M_BOUNTYTARGET_010_NAME_08 = OLIVER HOLT
+
+MP_U_M_M_BOUNTYTARGET_010_NAME_09 = THEODORE GORDON
+
+MP_U_M_M_BOUNTYTARGET_011_CRIME_00 = On the run from BLACKWATER JAIL for the crime of public intoxication and LECHERY. Possibly armed. Reportedly GODLESS AND INHUMANE, DEWITTE should be pursued WITHOUT CLEMENCY.
+
+MP_U_M_M_BOUNTYTARGET_011_CRIME_01 = WANTED for the rustling of prize-winning stallions from GOOD AND HONEST farmers.
+
+MP_U_M_M_BOUNTYTARGET_011_CRIME_02 = WANTED for the ABDUCTION of a working woman from Smithfield's Saloon in VALENTINE, N.H. Said woman was later found ALIVE south of CALIBAN'S SEAT. DRUMMOND is now believed to be traveling alone and is at large.
+
+MP_U_M_M_BOUNTYTARGET_011_CRIME_03 = WANTED for MURDER. WILLIS was seen emerging from a farmhouse with BLOOD STAINS, traveling alone. Later examination of the property by authorities revealed the SLAIN Mr. Jacob Beauregard and his wife. Their children were LEFT UNHARMED.
+
+MP_U_M_M_BOUNTYTARGET_011_CRIME_04 = WANTED for intolerable behaviors including LOUTISHNESS, INDECENCY, and ARMED THEFT. During an altercation with authorities WEST denigrated The Lord God and fired his weapon before taking to his horse. Considered DANGEROUS and UNPREDICTABLE.
+
+MP_U_M_M_BOUNTYTARGET_011_CRIME_05 = This is the most recent photograph of JULIUS HEATHERS. WANTED for ASSAULTING a barman in SAINT DENIS with a knife. Fugitive, likely armed.
+
+MP_U_M_M_BOUNTYTARGET_011_CRIME_06 = WANTED for the SHOOTING of Angela Shirewood. Known to have a TREMULOUS ATTITUDE and previously refused to speak to Sheriff's Deputies when approached in NORTHERN LEMOYNE. At large and likely armed.
+
+MP_U_M_M_BOUNTYTARGET_011_CRIME_07 = WANTED for the ABDUCTION of Claudia Matthews and the theft of $200 worth of ammunition from Miss Matthews' father's shop. The ROBBERY and ABDUCTION occurred in NEW YORK CITY. DEROUGE is believed to be traveling southwest.
+
+MP_U_M_M_BOUNTYTARGET_011_CRIME_08 = WANTED for the MURDER of one Matthew Bragg. Reports seen in VALENTINE and SAINT DENIS, not to be considered reliable. Considered at large.
+
+MP_U_M_M_BOUNTYTARGET_011_CRIME_09 = WANTED FUGITIVE! ~n~Moonshiner JUNIPER LUCAS caught fleeing from fire in nearby woods in LEMOYNE leaving the bodies of two young women, Abigail and Rebecca Peters, to be CONSUMED BY THE FLAMES.
+
+MP_U_M_M_BOUNTYTARGET_011_NAME_00 = JAKE DEWITTE
+
+MP_U_M_M_BOUNTYTARGET_011_NAME_01 = JIMMIE SIMPLESON
+
+MP_U_M_M_BOUNTYTARGET_011_NAME_02 = BURNSIDE DRUMMOND
+
+MP_U_M_M_BOUNTYTARGET_011_NAME_03 = "WHITE HAT" WILLIS
+
+MP_U_M_M_BOUNTYTARGET_011_NAME_04 = HORACE WEST
+
+MP_U_M_M_BOUNTYTARGET_011_NAME_05 = JULIUS HEATHERS
+
+MP_U_M_M_BOUNTYTARGET_011_NAME_06 = ALPHONSE ROGERS
+
+MP_U_M_M_BOUNTYTARGET_011_NAME_07 = CLEMENT DEROUGE
+
+MP_U_M_M_BOUNTYTARGET_011_NAME_08 = PRITCHETT ROGERS
+
+MP_U_M_M_BOUNTYTARGET_011_NAME_09 = JUNIPER LUCAS
+
+MP_U_M_M_BOUNTYTARGET_012_CRIME_00 = WANTED for incitement to RIOT and the MURDER of an officer of the law.
+
+MP_U_M_M_BOUNTYTARGET_012_CRIME_01 = Has been found GUILTY in absentia of FELONIOUS ASSAULT upon a traveler, stealing their valuables and LEAVING THEM FOR DEAD.
+
+MP_U_M_M_BOUNTYTARGET_012_CRIME_02 = MURDERER and HORSE THIEF.
+
+MP_U_M_M_BOUNTYTARGET_012_CRIME_03 = WANTED for the theft of several livestock and MURDER of Rancher Allan P. Wallace.
+
+MP_U_M_M_BOUNTYTARGET_012_CRIME_04 = REWARD is hereby offered for the capture DEAD or ALIVE of the COWARDLY horse thief FREDERICH PAINE.
+
+MP_U_M_M_BOUNTYTARGET_012_CRIME_05 = WANTED for public disturbance of the peace and the MURDER of several patrons in VALENTINE. Last seen fleeing the scene of the crime. Fugitive, believed armed.
+
+MP_U_M_M_BOUNTYTARGET_012_CRIME_06 = REWARD for the apprehension DEAD OR ALIVE of one JIM DUNN, a prowler of KNOWN DEPRAVITY. Caught stealing women's valuables under the cover of darkness. Believed armed.
+
+MP_U_M_M_BOUNTYTARGET_012_CRIME_07 = WANTED for forgery after caught attempting to pay for goods with PAINTED GRAVEL. Although a PHYSICAL COWARD, SHAW is armed, having sought the protection of KNOWN CRIMINALS.
+
+MP_U_M_M_BOUNTYTARGET_012_CRIME_08 = After a failed attempt at robbery the coward JOHN ROSS STABBED his victim, one Bernard Wilcox, and stole his valuables. WANTED DEAD OR ALIVE.
+
+MP_U_M_M_BOUNTYTARGET_012_CRIME_09 = WANTED DEAD or ALIVE for the unjust and BLOODY MURDER of his WIFE Margret Porter.
+
+MP_U_M_M_BOUNTYTARGET_012_NAME_00 = EDGAR CRANE
+
+MP_U_M_M_BOUNTYTARGET_012_NAME_01 = HARVEY PECK
+
+MP_U_M_M_BOUNTYTARGET_012_NAME_02 = JACK FOWLER
+
+MP_U_M_M_BOUNTYTARGET_012_NAME_03 = JONATHAN BIRD
+
+MP_U_M_M_BOUNTYTARGET_012_NAME_04 = FREDERICH PAINE
+
+MP_U_M_M_BOUNTYTARGET_012_NAME_05 = TURNER WATTS
+
+MP_U_M_M_BOUNTYTARGET_012_NAME_06 = JIM DUNN
+
+MP_U_M_M_BOUNTYTARGET_012_NAME_07 = HENRY SHAW
+
+MP_U_M_M_BOUNTYTARGET_012_NAME_08 = JOHN ROSS
+
+MP_U_M_M_BOUNTYTARGET_012_NAME_09 = ARNOLD PORTER
+
+MP_U_M_M_BOUNTYTARGET_013_CRIME_00 = A well-known pistolier, BROOKS is wanted for KILLING one of his fellow drinkers at the saloon by PUSHING HIM down the stairs when he lost at poker.
+
+MP_U_M_M_BOUNTYTARGET_013_CRIME_01 = WANTED for the looting of a wagon parked at the roadside while its owner was relieving himself nearby, and for FIRING UPON officers of the law.
+
+MP_U_M_M_BOUNTYTARGET_013_CRIME_02 = WANTED for the ABDUCTION and VIOLENT MURDER of the graceful and sweet Miss Elizabeth Porter.
+
+MP_U_M_M_BOUNTYTARGET_013_CRIME_03 = WANTED for threatening and DRAGGING the respectable Mrs. Beatrice Perkins into a DARK ALLEY where the rogue did relieve her of her jewelry.
+
+MP_U_M_M_BOUNTYTARGET_013_CRIME_04 = WANTED for the ARMED ROBBERY of a gunsmith, and the selling of DEADLY WEAPONS to a known criminal gang.
+
+MP_U_M_M_BOUNTYTARGET_013_CRIME_05 = WANTED for the MURDER of his brother Pete Bell with the FAMILY'S SHOTGUN following an argument over the marriage of their sister, the actress Bella Bell.
+
+MP_U_M_M_BOUNTYTARGET_013_CRIME_06 = WANTED for stealing Mr. Jebediah Cox's wagon while he was visiting the gentleman's hotel.
+
+MP_U_M_M_BOUNTYTARGET_013_CRIME_07 = WANTED for his role as wagon driver and henchman in the KIDNAPPING and EVENTUAL MURDER of Eleanor Gatz, daughter of MAYOR Seymour Gatz.
+
+MP_U_M_M_BOUNTYTARGET_013_CRIME_08 = WANTED for the RECKLESS ASSAULT of numerous passersby with a knife while deep in his cups.
+
+MP_U_M_M_BOUNTYTARGET_013_CRIME_09 = WANTED for the SHOOTING MURDER of a graveyard keeper whom BUTLER found BURYING A BODY near his family's graves.
+
+MP_U_M_M_BOUNTYTARGET_013_NAME_00 = ROY BROOKS
+
+MP_U_M_M_BOUNTYTARGET_013_NAME_01 = RALPH MILLER
+
+MP_U_M_M_BOUNTYTARGET_013_NAME_02 = LOUIS WARD
+
+MP_U_M_M_BOUNTYTARGET_013_NAME_03 = RUSS BAILEY
+
+MP_U_M_M_BOUNTYTARGET_013_NAME_04 = STAN BARNES
+
+MP_U_M_M_BOUNTYTARGET_013_NAME_05 = WILLIAM "WILLIE" BELL
+
+MP_U_M_M_BOUNTYTARGET_013_NAME_06 = ALVIN SANDERS
+
+MP_U_M_M_BOUNTYTARGET_013_NAME_07 = OTIS MARTIN
+
+MP_U_M_M_BOUNTYTARGET_013_NAME_08 = LEON COOPER
+
+MP_U_M_M_BOUNTYTARGET_013_NAME_09 = CURTIS BUTLER
+
+MP_U_M_M_BOUNTYTARGET_014_CRIME_00 = WELL-KNOWN wrestler and exhibition shootist, DUFRESNE recently choked to death Bill “Flurry” Matthews, who had BESTED HIM in a tournament.
+
+MP_U_M_M_BOUNTYTARGET_014_CRIME_01 = WANTED for giving aid and succor to the NOTORIOUS Brotherhood of Register Rock, JOSEPH is a retired army corporal more than CAPABLE WITH A FIREARM.
+
+MP_U_M_M_BOUNTYTARGET_014_CRIME_02 = Longtime THUG and a transient, BRADSHAW recently lifted his thwarted ambitions from petty larceny with his COMICALLY BOTCHED ATTEMPT at the robbery of WEST ELIZABETH Co-Operative Bank.
+
+MP_U_M_M_BOUNTYTARGET_014_CRIME_03 = LEWIS is known under the alias “RED WELSH”, which he invented, along with his ENTIRELY FABRICATED life story of gunslinging, law-breaking and romantic endeavor. Challenged to a duel, LEWIS shot his rival IN THE BACK, and fled.
+
+MP_U_M_M_BOUNTYTARGET_014_CRIME_04 = NOTORIOUS DRUNK, his only boast is to have been barred from every saloon in the HEARTLANDS and WEST ELIZABETH. WANTED for ASSAULT and the THEFT of his victim's pistols.
+
+MP_U_M_M_BOUNTYTARGET_014_CRIME_05 = WANTED for MURDER committed in COLD BLOOD.
+
+MP_U_M_M_BOUNTYTARGET_014_CRIME_06 = Little is known of this man other than his suspected RUSSIAN ANCESTRY and unaccented speech. He entices drunken men into a LETHAL game of chance with half-loaded pistols, laying claim to all their worldly goods ONCE VICTORIOUS. Pursue with caution.
+
+MP_U_M_M_BOUNTYTARGET_014_CRIME_07 = WANTED for acts of VANDALISM against the Central Union Railroad, and the harassment of its staff. BAVARIAN BORN, RAITH was raised AMERICAN, but retains the CHOLERIC TEMPERAMENT of his ancestors.
+
+MP_U_M_M_BOUNTYTARGET_014_CRIME_08 = NIELSEN is wanted for the STRANGULATION DEATH of his wife, recently immigrated, and SUBSEQUENT ELOPEMENT with Mrs. Astrid Hansen of Manzanita Post.
+
+MP_U_M_M_BOUNTYTARGET_014_CRIME_09 = The HEARTLANDS auctioneer is wanted for the BLUDGEONING of his adult SON, Tom. Now fugitive and at large.
+
+MP_U_M_M_BOUNTYTARGET_014_NAME_00 = JEREMIAH DUFRESNE
+
+MP_U_M_M_BOUNTYTARGET_014_NAME_01 = BILL JOSEPH
+
+MP_U_M_M_BOUNTYTARGET_014_NAME_02 = THOMAS BRADSHAW
+
+MP_U_M_M_BOUNTYTARGET_014_NAME_03 = DYLAN LEWIS
+
+MP_U_M_M_BOUNTYTARGET_014_NAME_04 = GREGORY MACFARLANE
+
+MP_U_M_M_BOUNTYTARGET_014_NAME_05 = CONOR HOPE
+
+MP_U_M_M_BOUNTYTARGET_014_NAME_06 = IVAN ORLOV
+
+MP_U_M_M_BOUNTYTARGET_014_NAME_07 = FLORIAN RAITH
+
+MP_U_M_M_BOUNTYTARGET_014_NAME_08 = LARS NIELSEN
+
+MP_U_M_M_BOUNTYTARGET_014_NAME_09 = BEAU WARRICK
+
+MP_U_M_M_BOUNTYTARGET_015_CRIME_00 = WANTED for aiding and abetting a known rustler in NEW AUSTIN. Often travels.
+
+MP_U_M_M_BOUNTYTARGET_015_CRIME_01 = WANTED for UNLICENSED distillation and sales of spirits.
+
+MP_U_M_M_BOUNTYTARGET_015_CRIME_02 = WANTED for the ARMED ROBBERY of luggage at multiple stagecoach depots.
+
+MP_U_M_M_BOUNTYTARGET_015_CRIME_03 = WANTED for REPEATED vagrancy, larceny, CRIMINAL trespass, PUBLIC drunkenness, and LEWD behavior.
+
+MP_U_M_M_BOUNTYTARGET_015_CRIME_04 = WANTED for resisting arrest and ESCAPING CUSTODY in VALENTINE. Last seen on the road.
+
+MP_U_M_M_BOUNTYTARGET_015_CRIME_05 = WANTED for multiple counts of hosting illegal games and RESISTING ARREST.
+
+MP_U_M_M_BOUNTYTARGET_015_CRIME_06 = WANTED for non-payment of debts in 3 states and the KILLING of a town comptroller.
+
+MP_U_M_M_BOUNTYTARGET_015_CRIME_07 = WANTED for SHOOTING at a Federal Official with INTENT TO KILL.
+
+MP_U_M_M_BOUNTYTARGET_015_CRIME_08 = WANTED for MANSLAUGHTER and multiple counts of fraud.
+
+MP_U_M_M_BOUNTYTARGET_015_CRIME_09 = WANTED for dealing in contraband livestock.
+
+MP_U_M_M_BOUNTYTARGET_015_NAME_00 = CHARLIE CORKER
+
+MP_U_M_M_BOUNTYTARGET_015_NAME_01 = ARTHUR SWINDELL
+
+MP_U_M_M_BOUNTYTARGET_015_NAME_02 = TARCER "TUGS" MCGRATH
+
+MP_U_M_M_BOUNTYTARGET_015_NAME_03 = RUSSELL "CLOUDY" MCCLINTON
+
+MP_U_M_M_BOUNTYTARGET_015_NAME_04 = TOR OLSON
+
+MP_U_M_M_BOUNTYTARGET_015_NAME_05 = WEN WILGARDT
+
+MP_U_M_M_BOUNTYTARGET_015_NAME_06 = PETER RICHTER
+
+MP_U_M_M_BOUNTYTARGET_015_NAME_07 = ALFRED "AL" O'TOOLE
+
+MP_U_M_M_BOUNTYTARGET_015_NAME_08 = COL DEAN
+
+MP_U_M_M_BOUNTYTARGET_015_NAME_09 = RONNIE MURRAY
+
+MP_U_M_M_BOUNTYTARGET_016_CRIME_00 = WANTED for armed robbery of a stable. ~n~SORELY was last seen on horseback, HEADING SOUTH.
+
+MP_U_M_M_BOUNTYTARGET_016_CRIME_01 = PARRY is wanted for instigating a FATAL SALOON FIGHT. He is armed and CONSIDERED DANGEROUS.
+
+MP_U_M_M_BOUNTYTARGET_016_CRIME_02 = MATHERSON CHOKED his wife to DEATH after catching her with another man. He is WANTED for MURDER and ARSON.
+
+MP_U_M_M_BOUNTYTARGET_016_CRIME_03 = WANTED for MANSLAUGHTER and THEFT. ~n~BAKER hit and KILLED A CHILD with his horse while making his escape after ROBBING the ANNESBURG BANK.
+
+MP_U_M_M_BOUNTYTARGET_016_CRIME_04 = THOMAS WOOD is wanted for MURDER and wagon theft. Employed as a ranch hand, where witnesses say he constantly fought with the wagon driver. The driver's body was found outside of SAINT DENIS.
+
+MP_U_M_M_BOUNTYTARGET_016_CRIME_05 = Recently released from SISIKA PENITENTIARY, TYSON is wanted for the MURDER of a local innkeeper who refused him board. This photograph was taken by the Sisika guards before his release.
+
+MP_U_M_M_BOUNTYTARGET_016_CRIME_06 = WANTED for the MURDER of two deputies. ~n~BERGER is carrying stolen weapons and is PRONE TO VIOLENCE.
+
+MP_U_M_M_BOUNTYTARGET_016_CRIME_07 = WANTED for MURDER. ~n~WILSON repeatedly SHOT Elias Jones, son of John Jones, the latter having ACCIDENTALLY KILLED Wilson's only daughter one year ago.
+
+MP_U_M_M_BOUNTYTARGET_016_CRIME_08 = WANTED for KILLING his brother, Lyle Hudson, over their father's will. Lyle was STABBED TO DEATH. This is REGINALD'S last known photograph.
+
+MP_U_M_M_BOUNTYTARGET_016_CRIME_09 = Architect CLEMENT SMITH is wanted for MURDER. He FATALLY SHOT his contractor during a heated game of poker.
+
+MP_U_M_M_BOUNTYTARGET_016_NAME_00 = RONALD SORELY
+
+MP_U_M_M_BOUNTYTARGET_016_NAME_01 = HARRISON PARRY
+
+MP_U_M_M_BOUNTYTARGET_016_NAME_02 = ELI MATHERSON
+
+MP_U_M_M_BOUNTYTARGET_016_NAME_03 = ERNEST BAKER
+
+MP_U_M_M_BOUNTYTARGET_016_NAME_04 = THOMAS WOOD
+
+MP_U_M_M_BOUNTYTARGET_016_NAME_05 = BILL TYSON
+
+MP_U_M_M_BOUNTYTARGET_016_NAME_06 = NOAH BERGER
+
+MP_U_M_M_BOUNTYTARGET_016_NAME_07 = VICTOR WILSON
+
+MP_U_M_M_BOUNTYTARGET_016_NAME_08 = REGINALD HUDSON
+
+MP_U_M_M_BOUNTYTARGET_016_NAME_09 = CLEMENT SMITH
+
+MP_U_M_M_BOUNTYTARGET_017_CRIME_00 = A known drunk and troublemaker, HICKMAN was seen assisting the DAISY REEVES GANG during their BLOODY RAID on a supply wagon.
+
+MP_U_M_M_BOUNTYTARGET_017_CRIME_01 = WANTED for the HIJACK and ROBBERY of a train belonging to the CORNWALL SOUTHERN and EASTERN RAILROAD COMPANY. The attack resulted in a number of SERIOUS INJURIES to train staff and passengers.
+
+MP_U_M_M_BOUNTYTARGET_017_CRIME_02 = “MEAN GENE” BARNETT attempted to stick-up a saloon and the poker game taking place there. This resulted in BARNETT INJURING TWO patrons and KILLING ANOTHER in his ill-conceived heist.
+
+MP_U_M_M_BOUNTYTARGET_017_CRIME_03 = GARDNER was seen assisting the DICKINSON BROTHERS in the rustling of over fifty head of cattle. He no longer rides with that GANG OF KILLERS, but neither has he PAID THE PRICE for his part in their crimes.
+
+MP_U_M_M_BOUNTYTARGET_017_CRIME_04 = WANTED THUG and ARSONIST. ~n~STRICKLAND attempted to EXTORT a shop owner by burning his store front. The fire SPREAD TO CONSUME the store, three homes, and two outhouses.
+
+MP_U_M_M_BOUNTYTARGET_017_CRIME_05 = FORMER MEMBER of the DUNCAN GANG and their smuggling operations. Has sold explosives and ammunition to COUNTLESS VIOLENT INDIVIDUALS and gangs. COOPER is also party to the MURDER of up to three officers of the law.
+
+MP_U_M_M_BOUNTYTARGET_017_CRIME_06 = A TRICKSTER, THIEF, and KILLER, COLLINS poses as a wagon driver and then ROBS his passengers once they are far from civilization.
+
+MP_U_M_M_BOUNTYTARGET_017_CRIME_07 = The LONE SURVIVING member of the Bloodstone Boys, ROGERS is ever more DESPERATE now that he rides alone. Along with the robberies he committed with the gang, he has RECENTLY SLAIN a local gunsmith.
+
+MP_U_M_M_BOUNTYTARGET_017_CRIME_08 = HUDSON is a known smuggler who RECENTLY DROWNED an associate after a dispute concerning missing supplies.
+
+MP_U_M_M_BOUNTYTARGET_017_CRIME_09 = BARBER is a VIOLENT THUG who was hired by a wealthy explorer as a guide for an expedition, only to rob his employer and LEAVE HIM FOR DEAD in the wilderness.
+
+MP_U_M_M_BOUNTYTARGET_017_NAME_00 = HARRY HICKMAN
+
+MP_U_M_M_BOUNTYTARGET_017_NAME_01 = FREDERICK RAMSEY
+
+MP_U_M_M_BOUNTYTARGET_017_NAME_02 = EUGENE BARNETT
+
+MP_U_M_M_BOUNTYTARGET_017_NAME_03 = LEONARD GARDNER
+
+MP_U_M_M_BOUNTYTARGET_017_NAME_04 = WALLACE STRICKLAND
+
+MP_U_M_M_BOUNTYTARGET_017_NAME_05 = CLEVELAND COOPER
+
+MP_U_M_M_BOUNTYTARGET_017_NAME_06 = RUDOLPH COLLINS
+
+MP_U_M_M_BOUNTYTARGET_017_NAME_07 = NICHOLAS ROGERS
+
+MP_U_M_M_BOUNTYTARGET_017_NAME_08 = RUSSELL HUDSON
+
+MP_U_M_M_BOUNTYTARGET_017_NAME_09 = MAURICE BARBER
+
+MP_U_M_M_BOUNTYTARGET_018_CRIME_00 = WANTED for EXTORTION, ROBBERY, LARCENY, ASSAULT and BATTERY. ~n~This is a VICIOUS and HABITUAL criminal responsible for countless acts of VIOLENCE and DEGRADATION.
+
+MP_U_M_M_BOUNTYTARGET_018_CRIME_01 = RINGLEADER of the Powell Gang and CONVICTED MURDERER. Shortly before the hanging of his accomplices POWELL escaped custody and is CURRENTLY AT LARGE.
+
+MP_U_M_M_BOUNTYTARGET_018_CRIME_02 = WANTED for the MURDER of four laborers in SCARLETT MEADOWS. ~n~BENNETT may have moved further afield and changed his appearance, though this likeness is considered to be a good one as of last sighting.
+
+MP_U_M_M_BOUNTYTARGET_018_CRIME_03 = A smuggler of DANGEROUS CONTRABAND, originally from RHODES, KELLY SHOT a police officer while RESISTING ARREST in SAINT DENIS. Now fugitive and at large.
+
+MP_U_M_M_BOUNTYTARGET_018_CRIME_04 = WANTED for BEATING two highly trained soldiers to DEATH with his bare hands while the latter were on leave. BE WARNED, the suspect is a former prizefighter and should UNDER NO CIRCUMSTANCES be approached unarmed.
+
+MP_U_M_M_BOUNTYTARGET_018_CRIME_05 = WANTED formerly for horse rustling, and presently for ARSON and MURDER after five men were locked in a barn which was subsequently set alight. Four of the five PERISHED and the fifth is much INJURED.
+
+MP_U_M_M_BOUNTYTARGET_018_CRIME_06 = This HABITUAL CRIMINAL, responsible for a string of robberies across two states, is now sought following his latest break-in during which an ELDERLY GENTLEMAN was forced to endure UNSPEAKABLE ACTS upon his person.
+
+MP_U_M_M_BOUNTYTARGET_018_CRIME_07 = WANTED for the robbery of SIGNIFICANT SUMS of money and goods from the Parlour House of RHODES, the offices of THEATRE RALEUR, SAINT DENIS, and the Welcome Center of STRAWBERRY.
+
+MP_U_M_M_BOUNTYTARGET_018_CRIME_08 = WANTED for a series of VICIOUS and TERRIFYING MURDERS by GARROTING WITH WIRE.
+
+MP_U_M_M_BOUNTYTARGET_018_CRIME_09 = Having MURDERED two prison guards while in transit, infamous bootlegger CLEVELAND MOORE is now fugitive and at large.
+
+MP_U_M_M_BOUNTYTARGET_018_NAME_00 = SAMUEL "HATCHET" BUTLER
+
+MP_U_M_M_BOUNTYTARGET_018_NAME_01 = JOE POWELL
+
+MP_U_M_M_BOUNTYTARGET_018_NAME_02 = BENJAMIN BENNETT
+
+MP_U_M_M_BOUNTYTARGET_018_NAME_03 = EUGENE KELLY
+
+MP_U_M_M_BOUNTYTARGET_018_NAME_04 = GROVER JOHNSON
+
+MP_U_M_M_BOUNTYTARGET_018_NAME_05 = MILTON REED
+
+MP_U_M_M_BOUNTYTARGET_018_NAME_06 = HARRISON ROGERS
+
+MP_U_M_M_BOUNTYTARGET_018_NAME_07 = GUS PARKER EDWARDS
+
+MP_U_M_M_BOUNTYTARGET_018_NAME_08 = MORRIS BROWN
+
+MP_U_M_M_BOUNTYTARGET_018_NAME_09 = CLEVELAND MOORE
+
+MP_U_M_M_BOUNTYTARGET_019_CRIME_00 = PORTOUGH is wanted for the crime of SYSTEMATICALLY DECEIVING federal agents in his capacity as their informant. Now fugitive, armed and likely in company.
+
+MP_U_M_M_BOUNTYTARGET_019_CRIME_01 = MCMAHON must be apprehended for his part in a failed train robbery at RHODES that left SEVERAL DEAD.
+
+MP_U_M_M_BOUNTYTARGET_019_CRIME_02 = A TORMENTOR of the poor and homeless, NO MERCY should be spared in the apprehension of one ALISTAIR MCELROY, lately of SAINT DENIS, now fugitive and at large.
+
+MP_U_M_M_BOUNTYTARGET_019_CRIME_03 = A former member of the SILVER WATER gang, a REWARD awaits the one who brings JUSTICE to this WANTED MURDERER.
+
+MP_U_M_M_BOUNTYTARGET_019_CRIME_04 = WANTED for MURDER.
+
+MP_U_M_M_BOUNTYTARGET_019_CRIME_05 = For his part in a recent train robbery and the DEATH of a train conductor, EVERETT MORGAN is wanted by law.
+
+MP_U_M_M_BOUNTYTARGET_019_CRIME_06 = For the ATTEMPTED MURDER of his twin brother and subsequent attempt at ASSUMING HIS LIVELIHOOD as teller in a small bank.
+
+MP_U_M_M_BOUNTYTARGET_019_CRIME_07 = This DESPICABLE CRIMINAL is wanted on account of his role in POISONING valuable livestock in order to SABOTAGE and DISCREDIT a rival farm.
+
+MP_U_M_M_BOUNTYTARGET_019_CRIME_08 = A liar and cheat, SIDNEY METCALF has VIOLENTLY robbed high stakes card games across several states.
+
+MP_U_M_M_BOUNTYTARGET_019_CRIME_09 = Witnesses assert that STRAIN has LYNCHED many an unwitting journeyman, seemingly FOR SPORT.
+
+MP_U_M_M_BOUNTYTARGET_019_NAME_00 = RILEY PORTOUGH
+
+MP_U_M_M_BOUNTYTARGET_019_NAME_01 = DARRAGH MCMAHON
+
+MP_U_M_M_BOUNTYTARGET_019_NAME_02 = ALISTAIR MCELROY
+
+MP_U_M_M_BOUNTYTARGET_019_NAME_03 = THOMAS SUNFORD
+
+MP_U_M_M_BOUNTYTARGET_019_NAME_04 = JEREMIAH ROWLAND
+
+MP_U_M_M_BOUNTYTARGET_019_NAME_05 = EVERETT MORGAN
+
+MP_U_M_M_BOUNTYTARGET_019_NAME_06 = OSCAR BALLARD
+
+MP_U_M_M_BOUNTYTARGET_019_NAME_07 = BENJAMIN TEMPLE JNR.
+
+MP_U_M_M_BOUNTYTARGET_019_NAME_08 = SIDNEY METCALF
+
+MP_U_M_M_BOUNTYTARGET_019_NAME_09 = JESSE STRAIN
+
+MP_U_M_M_BOUNTYTARGET_020_CRIME_00 = WANTED DEAD or ALIVE for TERRORIZING several farmsteads and extorting them for money or valuables upon THREAT OF VIOLENCE.
+
+MP_U_M_M_BOUNTYTARGET_020_CRIME_01 = Found GUILTY of the THEFT of several herds of cattle across several states, the MURDER of 5 hands, and 2 deputies of the law. Believed to operate with associates, IDENTITIES UNKNOWN. Keeps a large mustache with long sideburns.
+
+MP_U_M_M_BOUNTYTARGET_020_CRIME_02 = WANTED for the COLD-BLOODED SLAYING of a family of four in New Hanover. Believed to be a paid gun, attempting to settle land disputes. Suspected in SEVERAL OTHER KILLINGS across the state, now fugitive and at large.
+
+MP_U_M_M_BOUNTYTARGET_020_CRIME_03 = A known forger and fraudster, BURNETT is wanted in connection with a series of crimes including FORGERY, FRAUD, EXTORTION and ASSAULT. This picture is considered a recent likeness.
+
+MP_U_M_M_BOUNTYTARGET_020_CRIME_04 = NOTORIOUS conman JONATHAN BREEN recently escaped from Sisika Penitentiary, BEATING TWO BRAVE GUARDS to the point of unconsciousness in the course of his flight.
+
+MP_U_M_M_BOUNTYTARGET_020_CRIME_05 = WANTED for the MURDER of several affluent widows across WEST ELIZABETH, NEW AUSTIN, and NEW HANOVER. It is suspected ANDERSON marries or otherwise courts these women to gain access to their fortunes before MURDERING THEM in their SLEEP.
+
+MP_U_M_M_BOUNTYTARGET_020_CRIME_06 = WANTED for the production, distribution, and sale of ILLICIT ALCOHOL, selling without a license, and the non-payment of THOUSANDS OF DOLLARS in taxes for those goods. LIKELY ARMED.
+
+MP_U_M_M_BOUNTYTARGET_020_CRIME_07 = ROBERT LE SALLE is known to have absconded from his position at the Lemoyne National Bank in SAINT DENIS having forged his employer's signature and stolen several TENS OF THOUSANDS OF DOLLARS. Believed to have taken refuge with known criminals.
+
+MP_U_M_M_BOUNTYTARGET_020_CRIME_08 = CONFESSED to the smuggling of a LARGE NUMBER of weapons and explosives from Mexico over the course of several years.
+
+MP_U_M_M_BOUNTYTARGET_020_CRIME_09 = Confessed to IMPERSONATING SEVERAL affluent ranchers at different livestock auctions, and STEALING a total of $15,000 in sheep and cattle. CERTAINLY ARMED, with probable accomplices.
+
+MP_U_M_M_BOUNTYTARGET_020_NAME_00 = JACOB SULLIVAN
+
+MP_U_M_M_BOUNTYTARGET_020_NAME_01 = ROLAND HAROLD
+
+MP_U_M_M_BOUNTYTARGET_020_NAME_02 = ALEXANDER CASTLE
+
+MP_U_M_M_BOUNTYTARGET_020_NAME_03 = STEPHAN L. BURNETT
+
+MP_U_M_M_BOUNTYTARGET_020_NAME_04 = JONATHAN BREEN
+
+MP_U_M_M_BOUNTYTARGET_020_NAME_05 = PATRICK IAN ANDERSON
+
+MP_U_M_M_BOUNTYTARGET_020_NAME_06 = JASON ALVERSON
+
+MP_U_M_M_BOUNTYTARGET_020_NAME_07 = ROBERT LE SALLE
+
+MP_U_M_M_BOUNTYTARGET_020_NAME_08 = ANDREW JAY LEE
+
+MP_U_M_M_BOUNTYTARGET_020_NAME_09 = BRENDAN LAWRENCE
+
+MP_U_M_M_BOUNTYTARGET_021_CRIME_00 = A career criminal, MACKENZIE is responsible for a series of bank and stagecoach robberies. He is believed to lead a team of ARMED men. DO NOT approach alone.
+
+MP_U_M_M_BOUNTYTARGET_021_CRIME_01 = REILLY has escaped prison twice and is believed responsible for horse thefts throughout the county. Known to be ARMED and HIGHLY DANGEROUS.
+
+MP_U_M_M_BOUNTYTARGET_021_CRIME_02 = Convicted for the DEATHS of multiple ladies of ill-repute, HERD STRANGLED his jailor and escaped. EXTREMELY DANGEROUS.
+
+MP_U_M_M_BOUNTYTARGET_021_CRIME_03 = TOPACE is a weapons smuggler who has MURDERED at least 3 farmers while on the run from US Marshals. Armed and accompanied by UNKNOWN HENCHMEN.
+
+MP_U_M_M_BOUNTYTARGET_021_CRIME_04 = Among other crimes, MCCLOUD is known to be responsible for the KIDNAP, RANSOM, and SUBSEQUENT MURDER of the Rogers heir. Very dangerous to approach.
+
+MP_U_M_M_BOUNTYTARGET_021_CRIME_05 = Ran a team of ASSASSINS-FOR-HIRE in SAINT DENIS, NEWTON has been on the run for over a year, killing every officer of the law sent to track him.
+
+MP_U_M_M_BOUNTYTARGET_021_CRIME_06 = WOODS was a gang enforcer in WEST ELIZABETH responsible for COUNTLESS ACTS OF TERROR, now WANTED for the MURDER of a US Secret Service official.
+
+MP_U_M_M_BOUNTYTARGET_021_CRIME_07 = HIGHLY DANGEROUS mastermind behind a spate of coordinated jewel robberies around the state. Believed to travel with associates. APPROACH WITH CAUTION.
+
+MP_U_M_M_BOUNTYTARGET_021_CRIME_08 = FUGITIVE FROM IRELAND allegedly responsible for MURDERING 6 Englishmen. Now wanted for the ASSASSINATION of a Federal Marshal.
+
+MP_U_M_M_BOUNTYTARGET_021_CRIME_09 = WANTED for the holdup of two bank cars in the past three years. An expert with explosives and firearms. EXTREMELY DANGEROUS.
+
+MP_U_M_M_BOUNTYTARGET_021_NAME_00 = LUCIUS MACKENZIE
+
+MP_U_M_M_BOUNTYTARGET_021_NAME_01 = MATTHIAS REILLY
+
+MP_U_M_M_BOUNTYTARGET_021_NAME_02 = CAP HERD
+
+MP_U_M_M_BOUNTYTARGET_021_NAME_03 = JERIMIAH TOPACE
+
+MP_U_M_M_BOUNTYTARGET_021_NAME_04 = BEN MCCLOUD
+
+MP_U_M_M_BOUNTYTARGET_021_NAME_05 = SOLOMON NEWTON
+
+MP_U_M_M_BOUNTYTARGET_021_NAME_06 = RUTHERFORD WOOD
+
+MP_U_M_M_BOUNTYTARGET_021_NAME_07 = DEV JONES
+
+MP_U_M_M_BOUNTYTARGET_021_NAME_08 = JOHNNY EUSTACE
+
+MP_U_M_M_BOUNTYTARGET_021_NAME_09 = PAUL O'DONNELL
+
+MP_U_M_M_BOUNTYTARGET_022_CRIME_00 = The HALF-BLIND shootist WANTED for the BRUTAL MURDER of Hattie and Mattie Taylor on Christmas Day – each SHOT, BURNED, then HANGED. REWARD contributed by the parents of the Taylor sisters. Approach with caution. Although he is blind in one eye he is reported to be an EXCELLENT SHOT.
+
+MP_U_M_M_BOUNTYTARGET_022_CRIME_01 = WANTED DEAD or ALIVE. ~n~Five year prison escapee. Believed to be on the run with a large group of young outlaws. VERY experienced shot.
+
+MP_U_M_M_BOUNTYTARGET_022_CRIME_02 = WANTED DEAD or ALIVE with NO CLEMENCY. CLYDE TURNER has single handedly made the road from BLACKWATER to SAINT DENIS unsafe to travel, REGARDLESS of any expense lavished on protection.
+
+MP_U_M_M_BOUNTYTARGET_022_CRIME_03 = KIMBALL is a disgruntled EX-SHERIFF who has previously been in prison for the ATTEMPTED MURDER of his former deputies. Since his release, he has been BREAKING and ENTERING the homes of lawmen across the state.
+
+MP_U_M_M_BOUNTYTARGET_022_CRIME_04 = Responsible for manipulating INNOCENT young adults, both male and female, into the BRUTAL MURDERS of family members of high stature. Approach with caution – he is EXTREMELY DANGEROUS and ARMED.
+
+MP_U_M_M_BOUNTYTARGET_022_CRIME_05 = HOMER BATES is WANTED DEAD or ALIVE for SERIAL MURDER, undertaken in the NAME OF GOD. Any survivors were left SAVAGELY UNMANNED.
+
+MP_U_M_M_BOUNTYTARGET_022_CRIME_06 = Nicknamed the “STRAIGHT SHOT KING” for his skill with pistols, KING is responsible for the DEATHS of at least A DOZEN bounty hunters, the KILLING of whom he considers sport.
+
+MP_U_M_M_BOUNTYTARGET_022_CRIME_07 = This portrait has been confirmed a good likeness of LEWIS, the professionally trained shootist responsible for the SUPPOSEDLY "IMPOSSIBLE" KILLING of industrialist James Brice in his guarded compound.
+
+MP_U_M_M_BOUNTYTARGET_022_CRIME_08 = Son of the late Foster Cooper Senior, copper mogul, COOPER crafts DEVASTATING EXPLOSIVES, for use in train and bank robberies. To date, his crimes have NO SURVIVORS.
+
+MP_U_M_M_BOUNTYTARGET_022_CRIME_09 = This drawing is said to be a good likeness of the NOTORIOUS ASSASSIN, COLE WARD, who has been at large for ten long years, during which time he has KILLED WITH IMPUNITY and VANISHED WITHOUT TRACE.
+
+MP_U_M_M_BOUNTYTARGET_022_NAME_00 = OTTO WARD
+
+MP_U_M_M_BOUNTYTARGET_022_NAME_01 = CLIFFORD PORTER
+
+MP_U_M_M_BOUNTYTARGET_022_NAME_02 = CLYDE TURNER
+
+MP_U_M_M_BOUNTYTARGET_022_NAME_03 = THOMAS KIMBALL
+
+MP_U_M_M_BOUNTYTARGET_022_NAME_04 = ALFRED BIRD
+
+MP_U_M_M_BOUNTYTARGET_022_NAME_05 = HOMER BATES
+
+MP_U_M_M_BOUNTYTARGET_022_NAME_06 = LEE KING
+
+MP_U_M_M_BOUNTYTARGET_022_NAME_07 = ANDERSON LEWIS
+
+MP_U_M_M_BOUNTYTARGET_022_NAME_08 = FOSTER COOPER JUNIOR
+
+MP_U_M_M_BOUNTYTARGET_022_NAME_09 = COLE WARD
+
+MP_U_M_M_BOUNTYTARGET_023_CRIME_00 = WANTED for prison break and the MURDER of Judge Albert Fitzgerald, the presiding judge over Grant's case concerning a string of GRISLY HATCHET MURDERS.
+
+MP_U_M_M_BOUNTYTARGET_023_CRIME_01 = Former leader of the WESTMORELAND GANG, he is wanted for a plethora of crimes, from MURDER, EXTORTION, ARMED ROBBERY to TREASON. EXTREMELY DANGEROUS and most likely ARMED to the teeth.
+
+MP_U_M_M_BOUNTYTARGET_023_CRIME_02 = An ARMY DESERTER who has exacted MURDEROUS “REVENGE” on Lt. Colonel Beauregard Johnson of the US Army, former Commander of the 2nd Saint Denis Regiment Infantry.
+
+MP_U_M_M_BOUNTYTARGET_023_CRIME_03 = WANTED for the ARMED ROBBERY of several postal facilities and the SHOOTOUTS which ensued with SEVERAL CASUALTIES.
+
+MP_U_M_M_BOUNTYTARGET_023_CRIME_04 = WANTED for the KIDNAPPING and TORTURE of several seemingly unconnected innocents. LOCKLEAR'S calling card is the REMOVAL of his victim's EYES.
+
+MP_U_M_M_BOUNTYTARGET_023_CRIME_05 = WANTED for the NEEDLESS SHOOTING DEATHS of five members of the Rafferty family after a heated argument over land leases. The DEATHS included RAFFERTY'S own WIFE and two CHILDREN. Beware, he is a trained marksman.
+
+MP_U_M_M_BOUNTYTARGET_023_CRIME_06 = WANTED for the PREMEDITATED BLUDGEONING of Sister Marie-Elodie Rignault of St. Etienne's Parish in SAINT DENIS. GLADWELL'S motive remains unknown, but he is understood to have enlisted armed support and gone to ground.
+
+MP_U_M_M_BOUNTYTARGET_023_CRIME_07 = WANTED for MATRICIDE and PATRICIDE after a DRUNKEN RAMPAGE in which his parents' bodies were DISMEMBERED and their REMAINS SCATTERED throughout the family homestead and fed to livestock.
+
+MP_U_M_M_BOUNTYTARGET_023_CRIME_08 = WANTED for ESPIONAGE against the US Government, in his attacks against several governmental installations throughout the territory on behalf of an unidentified foreign agent.
+
+MP_U_M_M_BOUNTYTARGET_023_CRIME_09 = An ASSASSIN, WANTED for the PREMEDITATED AMBUSH and MURDER of District Attorney William Lefferts IV of SAINT DENIS and his female companion.
+
+MP_U_M_M_BOUNTYTARGET_023_NAME_00 = REGINALD GRANT
+
+MP_U_M_M_BOUNTYTARGET_023_NAME_01 = JAMES ERICKSON
+
+MP_U_M_M_BOUNTYTARGET_023_NAME_02 = JONATHAN DOUGHERTY
+
+MP_U_M_M_BOUNTYTARGET_023_NAME_03 = GREGORY HARRIS
+
+MP_U_M_M_BOUNTYTARGET_023_NAME_04 = HUGH LOCKLEAR
+
+MP_U_M_M_BOUNTYTARGET_023_NAME_05 = STEVEN RAFFERTY
+
+MP_U_M_M_BOUNTYTARGET_023_NAME_06 = LIONEL GLADWELL
+
+MP_U_M_M_BOUNTYTARGET_023_NAME_07 = PAUL CAVENDISH
+
+MP_U_M_M_BOUNTYTARGET_023_NAME_08 = ALEXANDER KRASNOFF
+
+MP_U_M_M_BOUNTYTARGET_023_NAME_09 = HENRY FITZROY
+
+MP_U_M_M_BOUNTYTARGET_024_CRIME_00 = WANTED for KIDNAPPING and TORTURE of several lawmen and government agents. RUIZ claims to recognize no authority or government, and is often in the company of DANGEROUS KILLERS. A REWARD to those who put an end to his SEDITIOUS WAYS.
+
+MP_U_M_M_BOUNTYTARGET_024_CRIME_01 = Approach this KILLER with UTMOST CAUTION! Victims of CASTILLO'S DISMEMBERMENT number in the dozens, at lowest estimate.
+
+MP_U_M_M_BOUNTYTARGET_024_CRIME_02 = A KILLER for hire, MEDINA was last seen exiting ANNESBURG after MURDERING a local labor organizer, though he could have since traveled far. At least FOURTEEN DEATHS have been linked to this MENACE.
+
+MP_U_M_M_BOUNTYTARGET_024_CRIME_03 = MEN, WOMEN AND CHILDREN are not safe from RIVERA! A two-faced kidnapper who KILLS HIS CAPTIVES after receiving ransom. Put an end to his ABDUCTIONS and let the grieving hearts of his poor victims' families finally rest.
+
+MP_U_M_M_BOUNTYTARGET_024_CRIME_04 = A former soldier and deserter. ROJAS is an opportunist who prefers to AMBUSH LONE WANDERERS in the wilderness and leave them to HANG. May be accompanied by other DESERTERS and LOWLIFES.
+
+MP_U_M_M_BOUNTYTARGET_024_CRIME_05 = WANTED for a string of HIGHWAY MURDERS and ROBBERIES, this MEXICAN BANDIT is known to BURY HIS VICTIMS ALIVE. Photo is an older likeness; he is known to wear his hair long in WOMANLY FASHION, upon occasion.
+
+MP_U_M_M_BOUNTYTARGET_024_CRIME_06 = NOTORIOUS gang leader RAFAEL SUAREZ shall evade the law no longer. WANTED for a litany of crimes conducted by him and his men, all involving BLOODSHED.
+
+MP_U_M_M_BOUNTYTARGET_024_CRIME_07 = VICIOUS KILLER on the loose! The law seeks out this BUTCHER, infamous for the despicable TORTURE BY SKINNING of over 10 lawmen. Warning: may be found in the company of other such contemptibles.
+
+MP_U_M_M_BOUNTYTARGET_024_CRIME_08 = A REWARD for the CAPTURE or KILLING of this DANGEROUS FUGITIVE. Practiced in the craft of lockpicking, SEGURA breaches the safety of homes under cover of darkness to ROB and KILL. NO FAMILY IS SAFE while this MURDERER roams.
+
+MP_U_M_M_BOUNTYTARGET_024_CRIME_09 = Believing himself a PROPHET, this MADMAN compels WEAK-MINDED FOLK to follow him, and KILLS those he judges unrighteous. Good money to whoever sends him to his OWN JUDGMENT.
+
+MP_U_M_M_BOUNTYTARGET_024_NAME_00 = GASPAR RUIZ
+
+MP_U_M_M_BOUNTYTARGET_024_NAME_01 = JAIME CASTILLO
+
+MP_U_M_M_BOUNTYTARGET_024_NAME_02 = SIMON MEDINA
+
+MP_U_M_M_BOUNTYTARGET_024_NAME_03 = TOMAS RIVERA
+
+MP_U_M_M_BOUNTYTARGET_024_NAME_04 = JUAN ROJAS
+
+MP_U_M_M_BOUNTYTARGET_024_NAME_05 = VICENTE MORA
+
+MP_U_M_M_BOUNTYTARGET_024_NAME_06 = RAFAEL SUAREZ
+
+MP_U_M_M_BOUNTYTARGET_024_NAME_07 = EFRAIN BAUTISTA
+
+MP_U_M_M_BOUNTYTARGET_024_NAME_08 = ISIAS SEGURA
+
+MP_U_M_M_BOUNTYTARGET_024_NAME_09 = MANOLO TELLEZ
+
+MP_U_M_M_BOUNTYTARGET_025_CRIME_00 = WANTED: MURDEROUS VAGABOND. FRY is a known danger to any who crosses his path. His most recent act of WANTON BARBARISM was DROWNING a man just for his boots. Expect to find him in EVIL company.
+
+MP_U_M_M_BOUNTYTARGET_025_CRIME_01 = WANTED KILLER, THIEF, and KIDNAPPER. ~n~HUNT is known to target transport wagons, and KIDNAP those he does not MURDER. Survivors bear witness that DEATH would have been preferable.
+
+MP_U_M_M_BOUNTYTARGET_025_CRIME_02 = BROOKS is a military imposter, WANTED for posing as a cavalryman and ROBBING travelers under the guise of collecting a tax, KILLING two who doubted him. WANTED ALIVE or DEAD for the good of the country.
+
+MP_U_M_M_BOUNTYTARGET_025_CRIME_03 = HAYS was riding with the HOLLAND GANG when, after an unknown dispute, he murdered all seven of his comrades in a shootout that caused MAJOR DAMAGE to the warehouse district of SAINT DENIS. Considered unusually dangerous alone, even more so in company.
+
+MP_U_M_M_BOUNTYTARGET_025_CRIME_04 = WANTED for MURDER and THEFT. TODD and two accomplices robbed a train, KILLING the conductor. Thereafter, TODD added those same accomplices to his list of VICTIMS, to avoid sharing the stolen goods.
+
+MP_U_M_M_BOUNTYTARGET_025_CRIME_05 = BLAKE is a VINDICTIVE KILLER who robbed a general store and CAPTURED a deputy that attempted to stop him, DRAGGING the unfortunate lawman and father of four behind his horse for many miles before leaving him to DIE IN THE SUN.
+
+MP_U_M_M_BOUNTYTARGET_025_CRIME_06 = HUGHES set fire to a sheriff's office and then took SHOTS at the DAZED and BLINDED lawmen as they fled the building, KILLING TWO and INJURING FIVE.
+
+MP_U_M_M_BOUNTYTARGET_025_CRIME_07 = WEST is now revealed as the MANIAC who, working in Jolly Jack's tobacco company, did LACE VARIOUS PRODUCTS with strings of cordite. EXPOSED, he fled and has taken up with a gang of lowlifes.
+
+MP_U_M_M_BOUNTYTARGET_025_CRIME_08 = Once a cowhand of some repute, PRICE has been found GUILTY of switching prize cattle for SICKLY and DISEASED animals during his drives. Known to be hard-nosed and a DEADLY SHOT, he is now fugitive in criminal company.
+
+MP_U_M_M_BOUNTYTARGET_025_CRIME_09 = Posing as a worker at Lambert Machine Works, PECK did knowingly COMMIT SABOTAGE, causing a machine to collapse upon many honest workers who LOST THEIR LIVES. His patron in this HEINOUS ACT remains unknown.
+
+MP_U_M_M_BOUNTYTARGET_025_NAME_00 = SIMON FRY
+
+MP_U_M_M_BOUNTYTARGET_025_NAME_01 = LEON HUNT
+
+MP_U_M_M_BOUNTYTARGET_025_NAME_02 = DAN BROOKS
+
+MP_U_M_M_BOUNTYTARGET_025_NAME_03 = MACK HAYS
+
+MP_U_M_M_BOUNTYTARGET_025_NAME_04 = OLLIE TODD
+
+MP_U_M_M_BOUNTYTARGET_025_NAME_05 = DAN BLAKE
+
+MP_U_M_M_BOUNTYTARGET_025_NAME_06 = BERT HUGHES
+
+MP_U_M_M_BOUNTYTARGET_025_NAME_07 = JASPER "CORDITE" WEST
+
+MP_U_M_M_BOUNTYTARGET_025_NAME_08 = WILEY PRICE
+
+MP_U_M_M_BOUNTYTARGET_025_NAME_09 = WILSON PECK
+
+MP_U_M_M_BOUNTYTARGET_026_CRIME_00 = This pair of NOTORIOUS counterfeiters KILLED TWO Pinkerton agents during a raid on their operation in THIEVES LANDING. On the run and DANGEROUS.
+
+MP_U_M_M_BOUNTYTARGET_026_CRIME_01 = WANTED for BLACKMAIL and INVOLUNTARY MANSLAUGHTER. Their forgeries and lies have driven at least one man to take his own life, and they have ruined COUNTLESS LIVES and fortunes.
+
+MP_U_M_M_BOUNTYTARGET_026_CRIME_02 = CHARLIE and LAURA BAXTER have committed a string of burglaries throughout the area, the latest resulting in the DEATH of Mrs. Gertrude Davis, widow.
+
+MP_U_M_M_BOUNTYTARGET_026_CRIME_03 = Former boxer ELLIOT LYMAN and his wife REBECCA are WANTED in conjunction with the STABBING MURDER of the Glodinski family, and their maid Ms. Maggie Sherman.
+
+MP_U_M_M_BOUNTYTARGET_026_CRIME_04 = ZACHARY and PATRICIA LADD are sought after for the BRUTAL ASSAULT of Mr. J. M. Howley, as well as defrauding and embezzling from the LAMARQUE HOTEL, where they were briefly employed as porters. May seek refuge with relatives.
+
+MP_U_M_M_BOUNTYTARGET_026_CRIME_05 = WANTED for BURGLARY and FIRING upon officers of the law.
+
+MP_U_M_M_BOUNTYTARGET_026_CRIME_06 = WANTED for MURDER and SOLICITATION. Caution yourself AGAINST BEGUILEMENT at the hands of TRACY, lest you fall into BEN'S murderous clutches. REWARD for putting an end to their DEPRAVITY.
+
+MP_U_M_M_BOUNTYTARGET_026_CRIME_07 = TWO KILLERS are on the run after the GRUESOME and PLANNED MURDER of each other's spouse. The deceased are survived by two boys - Albert Dunn, 10, and Cal Pope, 8 - ABANDONED by the MURDEROUS PAIR.
+
+MP_U_M_M_BOUNTYTARGET_026_CRIME_08 = This ROTTEN DUO blasted their way out of three separate jailhouses with the same dynamite they used to crack safes across the state of NEW HANOVER. Be wary, their REGARD FOR HUMAN LIFE is negligible.
+
+MP_U_M_M_BOUNTYTARGET_026_CRIME_09 = BEWARE THIS COUPLE! They have been known to present a false front, with VIRGINIA playacting a lady in distress and SHANE lying in wait to ambush. ~n~WANTED for ROBBERY, ASSAULT and MURDER.
+
+MP_U_M_M_BOUNTYTARGET_026_NAME_00 = HARLAN AND EMMA GILL
+
+MP_U_M_M_BOUNTYTARGET_026_NAME_01 = PHIL AND SHELBY HOAG
+
+MP_U_M_M_BOUNTYTARGET_026_NAME_02 = THE BAXTERS
+
+MP_U_M_M_BOUNTYTARGET_026_NAME_03 = ELLIOT AND REBECCA LYMAN
+
+MP_U_M_M_BOUNTYTARGET_026_NAME_04 = THE LADDS
+
+MP_U_M_M_BOUNTYTARGET_026_NAME_05 = NATE AND EMILY MEAD
+
+MP_U_M_M_BOUNTYTARGET_026_NAME_06 = BEN AND TRACY POTTS
+
+MP_U_M_M_BOUNTYTARGET_026_NAME_07 = CHESTER DUNN AND HELEN POPE
+
+MP_U_M_M_BOUNTYTARGET_026_NAME_08 = ELI AND ADELIA MOTT
+
+MP_U_M_M_BOUNTYTARGET_026_NAME_09 = SHANE AND VIRGINIA MYER
+
+MP_U_M_M_BOUNTYTARGET_027_CRIME_00 = Believed to be brother and sister, they are WANTED for the KIDNAP and MURDER of the sweet Billy Miles, a boy of a MERE TEN YEARS of age.
+
+MP_U_M_M_BOUNTYTARGET_027_CRIME_01 = These SADISTIC LOVERS are WANTED for the ROBBERY AT GUNPOINT of a number of hotels and brothels.
+
+MP_U_M_M_BOUNTYTARGET_027_CRIME_02 = This RUTHLESS husband and wife are WANTED for the attempted robbery of a bank and the KIDNAP of its manager, Mr. Theodore Smith, whom they HANGED FROM A TREE once his usefulness had expired.
+
+MP_U_M_M_BOUNTYTARGET_027_CRIME_03 = This brother and sister have been ACCUSED OF KILLING the youngest son of the infamous Solano family after ROBBING him at GUNPOINT. Descendants of the late and noble Pedro Montoya, they were BORN INTO THE CONFLICT between both families.
+
+MP_U_M_M_BOUNTYTARGET_027_CRIME_04 = These ranchers, husband and wife, are WANTED for MURDERING THE UNPRIVILEGED in their ranch, having LURED them thither with offers of food and a warm bed, before SELLING THEIR MEAT as mutton.
+
+MP_U_M_M_BOUNTYTARGET_027_CRIME_05 = These siblings are WANTED for their role in the JAILBREAK of the infamous Roberto Martinez.
+
+MP_U_M_M_BOUNTYTARGET_027_CRIME_06 = Husband and wife, they are WANTED for hiding and defending the infamous Lope de Infante in their house while he was escaping the law during his last bank heist. BEWARE - they are CERTAINLY ARMED.
+
+MP_U_M_M_BOUNTYTARGET_027_CRIME_07 = These DEPRAVED COUSINS are WANTED for ASSAULTING elderly townsfolk in broad daylight, stealing their belongings, and making good on their PERVERSE THREATS against any witnesses who dare to report them.
+
+MP_U_M_M_BOUNTYTARGET_027_CRIME_08 = This couple is WANTED for the MURDER of Miss Angela Porter, whom AGAPITA found in her husband's CARNAL EMBRACES, before cutting her REMAINS INTO PIECES to aid in their disposal.
+
+MP_U_M_M_BOUNTYTARGET_027_CRIME_09 = Husband and wife, they are WANTED FOR DISFIGURING several fellow patrons with broken glass bottles after a fight broke out in the local saloon. APPROACH WITH CAUTION.
+
+MP_U_M_M_BOUNTYTARGET_027_NAME_00 = THE KILLERS OF BILLY MILES
+
+MP_U_M_M_BOUNTYTARGET_027_NAME_01 = JAVIER GARCIA AND ROSA DEL RIO
+
+MP_U_M_M_BOUNTYTARGET_027_NAME_02 = JOSE AND CLARA MARIN
+
+MP_U_M_M_BOUNTYTARGET_027_NAME_03 = DAVID AND CARMEN MONTOYA
+
+MP_U_M_M_BOUNTYTARGET_027_NAME_04 = JORGE AND ANA ORTIZ
+
+MP_U_M_M_BOUNTYTARGET_027_NAME_05 = ALEJANDRO AND CONCHA GUILLEN
+
+MP_U_M_M_BOUNTYTARGET_027_NAME_06 = ANICETO AND TOMASA CARRILLO
+
+MP_U_M_M_BOUNTYTARGET_027_NAME_07 = NEMESIO AND CASILDA ROLDAN
+
+MP_U_M_M_BOUNTYTARGET_027_NAME_08 = FELICIANO AND AGAPITA CORRALES
+
+MP_U_M_M_BOUNTYTARGET_027_NAME_09 = JESUS AND MARIA GUERRA
+
+MP_U_M_M_BOUNTYTARGET_028_CRIME_00 = The leaders of a gang of ARTFUL HIGHWAYMEN, they rob GOOD SAMARITANS who stop at the side of the road to help a woman apparently in DISTRESS. The woman in question, once in league with the gang, is now in custody.
+
+MP_U_M_M_BOUNTYTARGET_028_CRIME_01 = WANTED for the PREMEDITATED MURDER of three of their own cousins in a BRAZEN ATTEMPT to claim a large inheritance.
+
+MP_U_M_M_BOUNTYTARGET_028_CRIME_02 = This uncle and nephew pair are WANTED in connection with a series of INCREASINGLY FRENZIED robberies, leaving INNOCENT bystanders DEAD in their wake.
+
+MP_U_M_M_BOUNTYTARGET_028_CRIME_03 = WANTED for the MURDER of FIVE INNOCENTS during the burglary of a residence. The pair were interrupted during their work, and after a struggle all five occupants were SHOT DEAD.
+
+MP_U_M_M_BOUNTYTARGET_028_CRIME_04 = WANTED for BANK ROBBERY.
+
+MP_U_M_M_BOUNTYTARGET_028_CRIME_05 = WANTED for cattle and horse rustling on a large scale across four states. WHITE and HARRIS have been working together for two years, and are known to FLAUNT their CONTINUED EVASION of the law.
+
+MP_U_M_M_BOUNTYTARGET_028_CRIME_06 = HALL and EVANS are wanted for CONSPIRACY TO POISON a federal official in his own home.
+
+MP_U_M_M_BOUNTYTARGET_028_CRIME_07 = WARD and GRAY, who were under sentence for MURDER, are WANTED following their escape while in transit.
+
+MP_U_M_M_BOUNTYTARGET_028_CRIME_08 = Formerly wanted for sundry petty crimes and misdemeanors, CLARK and BROWN have reportedly come under the sway of a GODLESS AND MALEVOLENT CULT, in whose service they have committed a string of FOUL MURDERS.
+
+MP_U_M_M_BOUNTYTARGET_028_CRIME_09 = The last remaining members of the notorious "GOLDEN JAW" bank robbers, ANDERS and TAYLOR are advanced in years but still HIGHLY DANGEROUS.
+
+MP_U_M_M_BOUNTYTARGET_028_ILO_NAME_00 = MILLER BROTHER
+
+MP_U_M_M_BOUNTYTARGET_028_ILO_NAME_01 = DAVIS BROTHER
+
+MP_U_M_M_BOUNTYTARGET_028_ILO_NAME_02 = YOUNGER ANDERSON
+
+MP_U_M_M_BOUNTYTARGET_028_ILO_NAME_03 = HARRY LEE IRVING
+
+MP_U_M_M_BOUNTYTARGET_028_ILO_NAME_04 = JACK DAVIS
+
+MP_U_M_M_BOUNTYTARGET_028_ILO_NAME_05 = ALLEN WHITE
+
+MP_U_M_M_BOUNTYTARGET_028_ILO_NAME_06 = LEON HALL
+
+MP_U_M_M_BOUNTYTARGET_028_ILO_NAME_07 = LUKE WARD
+
+MP_U_M_M_BOUNTYTARGET_028_ILO_NAME_08 = WILBUR CLARK
+
+MP_U_M_M_BOUNTYTARGET_028_ILO_NAME_09 = OLLIE ANDERS
+
+MP_U_M_M_BOUNTYTARGET_028_NAME_00 = THE MILLER BROTHERS
+
+MP_U_M_M_BOUNTYTARGET_028_NAME_01 = THE DAVIS BROTHERS
+
+MP_U_M_M_BOUNTYTARGET_028_NAME_02 = THE ANDERSONS
+
+MP_U_M_M_BOUNTYTARGET_028_NAME_03 = HARRY LEE AND CLAUDE IRVING
+
+MP_U_M_M_BOUNTYTARGET_028_NAME_04 = JACK DAVIS AND JACK ANDERSON
+
+MP_U_M_M_BOUNTYTARGET_028_NAME_05 = ALLEN WHITE AND STEPHEN HARRIS
+
+MP_U_M_M_BOUNTYTARGET_028_NAME_06 = LEON HALL AND VICTOR EVANS
+
+MP_U_M_M_BOUNTYTARGET_028_NAME_07 = LUKE WARD AND NORMAN GRAY
+
+MP_U_M_M_BOUNTYTARGET_028_NAME_08 = WILBUR CLARK AND FELIX BROWN
+
+MP_U_M_M_BOUNTYTARGET_028_NAME_09 = OLLIE ANDERS AND CECIL TAYLOR
+
+MP_U_M_M_BOUNTYTARGET_029_ILO_NAME_00 = MILLER BROTHER
+
+MP_U_M_M_BOUNTYTARGET_029_ILO_NAME_01 = DAVIS BROTHER
+
+MP_U_M_M_BOUNTYTARGET_029_ILO_NAME_02 = ELDER ANDERSON
+
+MP_U_M_M_BOUNTYTARGET_029_ILO_NAME_03 = CLAUDE IRVING
+
+MP_U_M_M_BOUNTYTARGET_029_ILO_NAME_04 = JACK ANDERSON
+
+MP_U_M_M_BOUNTYTARGET_029_ILO_NAME_05 = STEPHEN HARRIS
+
+MP_U_M_M_BOUNTYTARGET_029_ILO_NAME_06 = VICTOR EVANS
+
+MP_U_M_M_BOUNTYTARGET_029_ILO_NAME_07 = NORMAN GRAY
+
+MP_U_M_M_BOUNTYTARGET_029_ILO_NAME_08 = FELIX BROWN
+
+MP_U_M_M_BOUNTYTARGET_029_ILO_NAME_09 = CECIL TAYLOR
+
+MP_U_M_M_BOUNTYTARGET_030_CRIME_00 = WANTED for smuggling contraband in and out of forts under the control of the United States Army, and the BRIBERY of two uniformed officers.
+
+MP_U_M_M_BOUNTYTARGET_030_CRIME_01 = WANTED for conspiring to SWINDLE GULLIBLE MEN in the sale of a Guaranteed Miracle Hair Tonic that was in truth a TOXIC BELLADONNA. These CHARLATANS are responsible for NINE DEATHS.
+
+MP_U_M_M_BOUNTYTARGET_030_CRIME_02 = WANTED for attempting to derail a train transporting a GUBERNATORIAL CANDIDATE on a local “whistle-stop” campaign tour, after accepting payment from a wealthy but UNDISCLOSED RIVAL to said candidate's platform.
+
+MP_U_M_M_BOUNTYTARGET_030_CRIME_03 = WANTED for running a gambling ring that FLEECED at least seven factory town workers of their earnings; a collaborator was ALLEGEDLY KILLED by the duo after confessing the scheme to the authorities.
+
+MP_U_M_M_BOUNTYTARGET_030_CRIME_04 = WANTED for disguising as a SUICIDE their KILLING of a wealthy but UNFAITHFUL HUSBAND of a local heiress, at her direction, they are also suspects in a number of other HIRED KILLINGS.
+
+MP_U_M_M_BOUNTYTARGET_030_CRIME_05 = WANTED for various acts of THEFT and ASSAULT in the escalation of a cattle rustling feud, which resulted in the CLAYTON brothers AMBUSHING and KILLING every adult male in the rival clan.
+
+MP_U_M_M_BOUNTYTARGET_030_CRIME_06 = The so-called "DEVIL TWINS" of NEW HANOVER, DONNCHA and PADRAIG O'REILY are responsible for the settlement of an ancient feud by the PUBLIC DISMEMBERMENT of their chief rival, Angela di Costa.
+
+MP_U_M_M_BOUNTYTARGET_030_CRIME_07 = WANTED for the PREMEDITATED KILLING of their erstwhile associate, a fellow thug who had recently come into a LARGE SUM of money robbing stagecoaches.
+
+MP_U_M_M_BOUNTYTARGET_030_CRIME_08 = TOM and BOB ELIOT are the men responsible for the recent DEADLY FIRE in the slums of SAINT DENIS, which they started with MALICE AFORETHOUGHT.
+
+MP_U_M_M_BOUNTYTARGET_030_CRIME_09 = WANTED DEAD or ALIVE, these DEGENERATE SCHEMERS are responsible for the POISONING of various wells and springs, and the sale of MIRACULOUS "CURES" to the inhabitants of nearby settlements.
+
+MP_U_M_M_BOUNTYTARGET_030_NAME_00 = KARL MATTHEWS AND DAVID HUMBOLDT
+
+MP_U_M_M_BOUNTYTARGET_030_NAME_01 = FRANCIS AND BRYAN BLUE
+
+MP_U_M_M_BOUNTYTARGET_030_NAME_02 = BERT JENNER AND BOB SPRINGFIELD
+
+MP_U_M_M_BOUNTYTARGET_030_NAME_03 = WILLIAM AND HENRY BAKER
+
+MP_U_M_M_BOUNTYTARGET_030_NAME_04 = GERALD AND BENJAMIN DAY
+
+MP_U_M_M_BOUNTYTARGET_030_NAME_05 = TED AND GEORGE CLAYTON
+
+MP_U_M_M_BOUNTYTARGET_030_NAME_06 = THE O'REILY TWINS
+
+MP_U_M_M_BOUNTYTARGET_030_NAME_07 = ANDREW AND ZACHARIAH BLACK
+
+MP_U_M_M_BOUNTYTARGET_030_NAME_08 = THE ELIOT BROTHERS
+
+MP_U_M_M_BOUNTYTARGET_030_NAME_09 = THE COOPER BROTHERS
+
+MP_U_M_M_BOUNTYTARGET_032_CRIME_00 = WANTED: DAVIS GOFF and JIMMY SNITT, also known as "THE HANGMEN", have KILLED over thirteen men by HANGING them up by trees.
+
+MP_U_M_M_BOUNTYTARGET_032_CRIME_01 = WANTED: a pair of bank thieves last encountered in a DEADLY FIRING RANGE with deputies east of BLACKWATER two weeks ago. Well-armed and dangerous. PROCEED WITH CAUTION.
+
+MP_U_M_M_BOUNTYTARGET_032_CRIME_02 = Rogue members of the THORN CHAIN GANG. Surnames unknown. The THORN GANG was known for braiding glass through cattle ropes and using these fashioned arms to TERRIFY shopkeepers and women. Fugitive and at large.
+
+MP_U_M_M_BOUNTYTARGET_032_CRIME_03 = WANTED, the four-times over train robbers broke free from a chain line in WEST ELIZABETH. They stole three carbines and a pair of pistols from the guardsmen during their DARING ESCAPE. Considered EXTREMELY dangerous.
+
+MP_U_M_M_BOUNTYTARGET_032_CRIME_04 = The bootleggers HEATH and HALE are on the lam after a SHOOTOUT with police in the outskirts of SAINT DENIS. To be considered highly armed and dangerous.
+
+MP_U_M_M_BOUNTYTARGET_032_CRIME_05 = RICHARD BOIL, known as 'KITTY' due to the appearance of his facial hair, KILLED TWO MEN in COLD BLOOD before joining up with notorious thief JOHN TEASE. These men are a MAGNET for DEVIANTS and REPROBATES across the south.
+
+MP_U_M_M_BOUNTYTARGET_032_CRIME_06 = WANTED for the MURDER of two families in BLACKWATER.
+
+MP_U_M_M_BOUNTYTARGET_032_CRIME_07 = As a pair these two men have STOLEN OVER $1000 worth of alcohol en route NORTH to NEW YORK and are still at large. In previous spottings the men have OPENED FIRE and should be considered VERY DANGEROUS.
+
+MP_U_M_M_BOUNTYTARGET_032_CRIME_08 = WANTED for GRISLY MURDER! Authorities report HICKOCK and RICKEY are sharp aims and are MERCILESS and WITHOUT FEAR of God. “SAVAGES”, said one deputy.
+
+MP_U_M_M_BOUNTYTARGET_032_CRIME_09 = WANTED for the ABDUCTION of God-fearing women across NEW AUSTIN, WEST ELIZABETH and AMBARINO. At large, these SWINE are known to have the support of their fellow criminals wherever they travel.
+
+MP_U_M_M_BOUNTYTARGET_032_NAME_00 = "THE HANGMEN" GOFF AND SNITT
+
+MP_U_M_M_BOUNTYTARGET_032_NAME_01 = TIM HOBBS AND RUFUS TEALE
+
+MP_U_M_M_BOUNTYTARGET_032_NAME_02 = ANTHONY AND ELIAS THORN
+
+MP_U_M_M_BOUNTYTARGET_032_NAME_03 = JEMSON WEED AND HAVERFORD CARRUTHERS
+
+MP_U_M_M_BOUNTYTARGET_032_NAME_04 = LOUIS HEATH AND THOMAS HALE
+
+MP_U_M_M_BOUNTYTARGET_032_NAME_05 = JOHN TEASE AND RICHARD 'KITTY' BOIL
+
+MP_U_M_M_BOUNTYTARGET_032_NAME_06 = THE BLACKWATER KILLERS
+
+MP_U_M_M_BOUNTYTARGET_032_NAME_07 = THE NEW HANOVER BOOTLEGGERS
+
+MP_U_M_M_BOUNTYTARGET_032_NAME_08 = CLEM HICKOCK AND ODELL RICKEY
+
+MP_U_M_M_BOUNTYTARGET_032_NAME_09 = HORATIO WALLACE AND JB TILLS
+
+MP_U_M_M_BOUNTYTARGET_034_CRIME_00 = WANTED in several states for the HEINOUS ACT of ARSON. Quick to PROVOCATION and VIOLENCE. If seen treat as EXTREMELY HOSTILE.
+
+MP_U_M_M_BOUNTYTARGET_034_CRIME_01 = The DISREPUTABLE DUO otherwise known as The BAKER BROTHERS are wanted by the law, for the SLAUGHTER of the very jury that was to see them HANGED.
+
+MP_U_M_M_BOUNTYTARGET_034_CRIME_02 = WANTED for as many as FIFTEEN MURDERS, these two ODIOUS SCOUNDRELS have yet to be KILLED or CAPTURED. All precautions must be taken as they do not travel alone.
+
+MP_U_M_M_BOUNTYTARGET_034_CRIME_03 = WANTED for the FELONIOUS ASSAULT of a minister as well as the ABHORRENT KIDNAPPING and MURDER of his wife. Known to be armed, dangerous and rich in accomplices.
+
+MP_U_M_M_BOUNTYTARGET_034_CRIME_04 = After depositing FORGED BILLS in the amount of $2,000 and being questioned in their authenticity, these men TOOK TO VIOLENCE, MURDERING a half dozen officers of the law as well as the bank clerks in the town of RHODES. At large.
+
+MP_U_M_M_BOUNTYTARGET_034_CRIME_05 = The swaggering TOWNSEND BROTHERS, known to be BRIGANDS and FOOLS, have added ARSON and LARCENY to their list of misdeeds. Pursue with extreme caution.
+
+MP_U_M_M_BOUNTYTARGET_034_CRIME_06 = Upon PILLAGING the local hospital for its supplies of morphine, these two degenerates covered their tracks by setting the structure ABLAZE, KILLING a dozen INFIRMED RESIDENTS.
+
+MP_U_M_M_BOUNTYTARGET_034_CRIME_07 = The VILLAINOUS ASSASSINS that GUNNED DOWN this county's esteemed mayor and several of his clerks during a broad daylight celebration have been named. AARON CLARKE and OLIVER LYON are WANTED KILLED or CAPTURED.
+
+MP_U_M_M_BOUNTYTARGET_034_CRIME_08 = WANTED for over a DOZEN GRISLY MURDERS in several counties, their motives, means and accomplices REMAIN UNKNOWN.
+
+MP_U_M_M_BOUNTYTARGET_034_CRIME_09 = The apprehension of the DEPRAVED GRISWALD BROTHERS is paramount to the safety of the public. WANTED on counts of mass ARSON, MURDER and LARCENY. They are known to travel with EQUALLY HEINOUS compatriots.
+
+MP_U_M_M_BOUNTYTARGET_034_NAME_00 = RALPH AND FRED WILSON
+
+MP_U_M_M_BOUNTYTARGET_034_NAME_01 = THE BAKER BROTHERS
+
+MP_U_M_M_BOUNTYTARGET_034_NAME_02 = HARRIS YOUNG AND MASON COOK
+
+MP_U_M_M_BOUNTYTARGET_034_NAME_03 = JERRY AND FLOYD STEWART
+
+MP_U_M_M_BOUNTYTARGET_034_NAME_04 = BRYANT HUNT AND OSBORN BELL
+
+MP_U_M_M_BOUNTYTARGET_034_NAME_05 = WADE AND MITCHELL TOWNSEND
+
+MP_U_M_M_BOUNTYTARGET_034_NAME_06 = MARTIN AND PATRICK FARMER
+
+MP_U_M_M_BOUNTYTARGET_034_NAME_07 = AARON CLARKE AND OLIVER LYON
+
+MP_U_M_M_BOUNTYTARGET_034_NAME_08 = MATHEW AND WARREN VANCE
+
+MP_U_M_M_BOUNTYTARGET_034_NAME_09 = THE GRISWALD BROTHERS
+
+MP_U_M_M_BOUNTYTARGET_036_CRIME_00 = WANTED for the DESECRATION OF CHURCHES and MURDER OF CLERGYMEN throughout the HEARTLANDS and GRIZZLIES.
+
+MP_U_M_M_BOUNTYTARGET_036_CRIME_01 = WANTED for a string of train derailments across the southeastern states, enacted with the INTENT OF LOOTING the wreckage.
+
+MP_U_M_M_BOUNTYTARGET_036_CRIME_02 = Known to single out honest lawmen for DEATHS TOO GROTESQUE to reproduce in print, these RUTHLESS MURDERERS have undertaken a SAVAGE CAMPAIGN of intimidation against the rightful authorities of three states.
+
+MP_U_M_M_BOUNTYTARGET_036_CRIME_03 = These men have RAIDED and FREED chain gangs across the south, leaving lawmen DEAD in their wake, and WANTED criminals at large.
+
+MP_U_M_M_BOUNTYTARGET_036_CRIME_04 = WANTED for BRIGANDAGE and MURDER.
+
+MP_U_M_M_BOUNTYTARGET_036_CRIME_05 = Calling themselves "New American Settlers", these SCABROUS TREASONISTS have embarked on a campaign of CIVIL UNREST and MUTINOUS SABOTAGE across the southern states.
+
+MP_U_M_M_BOUNTYTARGET_036_CRIME_06 = Led by two brothers, DICK and FRANCIS JAKES, these four highwaymen have KILLED or ELUDED every lawman, deputy and marshal sent in their pursuit.
+
+MP_U_M_M_BOUNTYTARGET_036_CRIME_07 = These four men, all known to the law for prior offences, undertook to AMBUSH the traveling party of Senator Sharpe as it crossed NEW HANOVER, leaving NONE ALIVE. Now fugitive and at large.
+
+MP_U_M_M_BOUNTYTARGET_036_CRIME_08 = Rustlers, extortioners and brigands to a man, this GALLERY OF SCOUNDRELS have no purpose but UNLAWFUL GAIN and CONTEMPT for the rule of law.
+
+MP_U_M_M_BOUNTYTARGET_036_CRIME_09 = A self-styled BAND OF DISSIDENTS, these men are WANTED DEAD OR ALIVE for the MURDER of Mayor Bowman and a number of city councilmen.
+
+MP_U_M_M_BOUNTYTARGET_036_NAME_00 = THE JENSON BONES BOYS
+
+MP_U_M_M_BOUNTYTARGET_036_NAME_01 = THE BRAMPTON HAWK GANG
+
+MP_U_M_M_BOUNTYTARGET_036_NAME_02 = THE BLUE RIVER SAINTS
+
+MP_U_M_M_BOUNTYTARGET_036_NAME_03 = THE HENRY ST. JOHN GANG
+
+MP_U_M_M_BOUNTYTARGET_036_NAME_04 = THE DAKOTA MONITORS
+
+MP_U_M_M_BOUNTYTARGET_036_NAME_05 = THE "NEW HANOVERIANS"
+
+MP_U_M_M_BOUNTYTARGET_036_NAME_06 = THE DICK FRANCIS BOYS
+
+MP_U_M_M_BOUNTYTARGET_036_NAME_07 = THE KILLERS OF SENATOR THOMAS SHARPE
+
+MP_U_M_M_BOUNTYTARGET_036_NAME_08 = THE DAVE MARTIN BAND
+
+MP_U_M_M_BOUNTYTARGET_036_NAME_09 = THE LEWIS SINGLETON GANG
+
+MP_U_M_M_BOUNTYTARGET_044_CRIME_00 = The NOTORIOUS GANG responsible for the BURNING of six congregations of GODLY PROTESTANTS on their way south from Massachusetts. Highly mobile, reports have them FLEEING up from Mexico two months ago.
+
+MP_U_M_M_BOUNTYTARGET_044_CRIME_01 = So named for their allegiance to their former ship's captain, JOHN JONES, these six men have PLUNDERED supply trains in three states. They are at large and should be approached with GREAT CAUTION.
+
+MP_U_M_M_BOUNTYTARGET_044_CRIME_02 = These men fought for the NORTH in the States' War but have since turned to BOOTLEGGING and BRIGANDAGE. Judge's report from Lemoyne lists their CLAIMED LIVES at FIFTEEN.
+
+MP_U_M_M_BOUNTYTARGET_044_CRIME_03 = These men have been RUNNING FUGITIVE since robbing a gambling vessel, leaving four men and a young lady DEAD in their WAKE. They are at large and HIGHLY DANGEROUS.
+
+MP_U_M_M_BOUNTYTARGET_044_CRIME_04 = Under the leadership of their leader, JOSEPH ALDO, these men have campaigned through several states on a RAMPAGE of THIEVERY and BOOTLEGGING.
+
+MP_U_M_M_BOUNTYTARGET_044_CRIME_05 = Brothers HAMISH, DUNCAN, and SHELTON RAINES have harbored a gang of killers, ABDUCTING travelers in the mountains. They are reported to have left down from the mountains of AMBARINO, but are fugitive and well resourced.
+
+MP_U_M_M_BOUNTYTARGET_044_CRIME_06 = The gang of six hail from the New Hanover trading post after which they are so named, and have carried out a campaign of reckless and irredeemable cruelty on the citizens of the state. They are fugitive after several terrible incidents with the law.
+
+MP_U_M_M_BOUNTYTARGET_044_CRIME_07 = These men consider themselves REVOLUTIONARIES and have posted tracts on their aims and enemies, but they are nothing more than a brigand crew of HOOLIGANS and should be treated as such. They are armed with carbines and other weaponry and should be considered ENEMIES of the AMERICAN PEOPLE.
+
+MP_U_M_M_BOUNTYTARGET_044_CRIME_08 = These six men, FORMER INMATES at Fort Riggs Holding Camp, W.E., have banded together in a gang referred to by newsmen now as the 'FORT RIGGS SIX'. They are WANTED for the KILLING of seven lawmen, and the freeing of OVER TWO DOZEN convicted felons.
+
+MP_U_M_M_BOUNTYTARGET_044_CRIME_09 = These men, self-named the DEAD ROAD GANG, have set up GRUESOME TRAPS on major roadways and thoroughfares, leaving a TRAIL OF TERROR in their wake. They are WITHOUT REMORSE and should be pursued likewise.
+
+MP_U_M_M_BOUNTYTARGET_044_NAME_00 = THE "DEAD SAINTS" GANG
+
+MP_U_M_M_BOUNTYTARGET_044_NAME_01 = THE PIRATE JONES BOYS
+
+MP_U_M_M_BOUNTYTARGET_044_NAME_02 = "THE NORTHMEN"
+
+MP_U_M_M_BOUNTYTARGET_044_NAME_03 = THE PHILIPSON-MATTHEWS GANG
+
+MP_U_M_M_BOUNTYTARGET_044_NAME_04 = JOSEPH ALDO GANG
+
+MP_U_M_M_BOUNTYTARGET_044_NAME_05 = THE RAINES GANG
+
+MP_U_M_M_BOUNTYTARGET_044_NAME_06 = THE "VAN HORN HONORS"
+
+MP_U_M_M_BOUNTYTARGET_044_NAME_07 = THE "FLAT IRON RIDERS"
+
+MP_U_M_M_BOUNTYTARGET_044_NAME_08 = THE "FORT RIGGS SIX"
+
+MP_U_M_M_BOUNTYTARGET_044_NAME_09 = THE "DEAD ROAD" GANG
+
+MP_U_M_M_BOUNTYTARGET_050_CRIME_00 = TOM BARKER is the ringleader of this hand-picked troupe of MISCREANTS, sprung from the HANGMAN'S CLUTCHES in a rabble-pleasing show of sedition. Each individually deserving a high bounty, together they are a PUBLIC MENACE and must be brought to JUSTICE without delay.
+
+MP_U_M_M_BOUNTYTARGET_050_CRIME_01 = This band of vigilantes call themselves “PILGRIMS”, yet there is NOTHING HOLY about their CAMPAIGN of DESTRUCTION against law-abiding industries from NEW AUSTIN to LEMOYNE. Luddites to a man, expert survivalists and hunters, they have gathered to themselves a DANGEROUS COTERIE of impressionable young followers.
+
+MP_U_M_M_BOUNTYTARGET_050_CRIME_02 = Be warned, despite their STRANGE APPELLATION, there is nothing naive or inexperienced about these men, nor are they any longer confined to the territory of AMBARINO. RUTHLESS CUTTHROATS, their ambitions for BLOODY ANARCHY across the south must be QUASHED.
+
+MP_U_M_M_BOUNTYTARGET_050_CRIME_03 = Though their leader, the infamous “gentleman” BUSTER MAY, has met with JUSTICE at the bottom of short drop, his six lieutenants are still at large. LEADERLESS, GRIEF-STRICKEN and VENGEFUL, they must be CAPTURED or KILLED WITHOUT DELAY.
+
+MP_U_M_M_BOUNTYTARGET_050_CRIME_04 = “BOOTLEG” ELLERTON continues his smuggling operation across every frontier and check the federal authorities place in his way. He and ALL FIVE of his most trusted associates MUST be CAPTURED or KILLED.
+
+MP_U_M_M_BOUNTYTARGET_050_CRIME_05 = Once proud soldiers, these DEGENERATE CURS are the six men responsible for staging THEIR OWN DEATHS in the great BACCHUS BRIDGE train disaster, leaving a dozen of their comrades in arms to PLUNGE TO THEIR DEATHS.
+
+MP_U_M_M_BOUNTYTARGET_050_CRIME_06 = To the REGRET of all peaceful citizens, the truce between the RIVAL GANGS of JOHN FORBES and WALTER SPARROW continues. Their HATRED of each other being the only check on their bloodlust, their combined front must be stopped, by force, at ANY and ALL COSTS.
+
+MP_U_M_M_BOUNTYTARGET_050_CRIME_07 = Since their arrival on these shores as stowaways some three years ago, the ELABORATE CRIMES of this MYSTERIOUS BROTHERHOOD have come to the attention of state and federal authorities. The authorities of CUBA and GUARMA have both GENEROUSLY CONTRIBUTED to the price on the head of the man known as “DOMINO”.
+
+MP_U_M_M_BOUNTYTARGET_050_CRIME_08 = This gang of six men, now JUSTLY NOTORIOUS, were once the most FEARED and DECORATED bounty hunters in the southern states. Following their refusal to hand over the adulteress AVA BEAUMONT to her lawful hanging, the gang went on the run, and their SUBSEQUENT DESCENT into the BASEST of VILLAINIES is well known.
+
+MP_U_M_M_BOUNTYTARGET_050_CRIME_09 = Brought together in the confines of SISIKA PENITENTIARY, the crimes of this FUGITIVE RABBLE are too numerous to detail. They are principally wanted for the BLOODY PATH they CARVED in their escape.
+
+MP_U_M_M_BOUNTYTARGET_050_NAME_00 = THE BARKER GANG
+
+MP_U_M_M_BOUNTYTARGET_050_NAME_01 = THE BROTHERHOOD OF REGISTER ROCK
+
+MP_U_M_M_BOUNTYTARGET_050_NAME_02 = THE AMBARINO GREENHORNS
+
+MP_U_M_M_BOUNTYTARGET_050_NAME_03 = BUSTER MAY'S MEN
+
+MP_U_M_M_BOUNTYTARGET_050_NAME_04 = THE ELLERTON GANG
+
+MP_U_M_M_BOUNTYTARGET_050_NAME_05 = THE BACCHUS BRIDGE DESERTERS
+
+MP_U_M_M_BOUNTYTARGET_050_NAME_06 = THE FORBES-SPARROW GANG
+
+MP_U_M_M_BOUNTYTARGET_050_NAME_07 = THE DOMINO GANG
+
+MP_U_M_M_BOUNTYTARGET_050_NAME_08 = HAVERTON MANNERS' POSSE
+
+MP_U_M_M_BOUNTYTARGET_050_NAME_09 = "THE SISIKA SIX"
+
+MP_U_M_M_BOUNTY_WANTED = WANTED DEAD OR ALIVE
+
+RHODES_FLOW_TARGET_0_CRIME_00 = The brothers Patrick, Ned, Tobias and Dan Bellingham have abandoned their respectable family business in Rhodes to begin the unlicensed distillation of spirits. Officials report that the men are in a state of near-constant inebriation, and prone to visit uncontrolled violence upon any travelers who happen across their stills.
+
+RHODES_FLOW_TARGET_0_NAME_00 = THE BELLINGHAM BROTHERS
+
+RHODES_FLOW_TARGET_1_CRIME_00 = The brothers Patrick, Ned, Tobias and Dan Bellingham have abandoned their respectable family business in Rhodes to begin the unlicensed distillation of spirits. Officials report that the men are in a state of near-constant inebriation, and prone to visit uncontrolled violence upon any travelers who happen across their stills.
+
+RHODES_FLOW_TARGET_1_NAME_00 = THE BELLINGHAM BROTHERS
+
+RHODES_FLOW_TARGET_2_CRIME_00 = The brothers Patrick, Ned, Tobias and Dan Bellingham have abandoned their respectable family business in Rhodes to begin the unlicensed distillation of spirits. Officials report that the men are in a state of near-constant inebriation, and prone to visit uncontrolled violence upon any travelers who happen across their stills.
+
+RHODES_FLOW_TARGET_2_NAME_00 = THE BELLINGHAM BROTHERS
+
+RIGGS_FLOW_TARGET_0_CRIME_00 = Pretending to high birth and delicate manners, yet surrounding themselves with thugs and cut-throats, these viperous dandies have orchestrated a ruthless web of blackmail and extortion throughout West Elizabeth, leaving their hard-working victims with nothing to their name but debt and rags.
+
+RIGGS_FLOW_TARGET_0_NAME_00 = BARTHOLOMEW BROWN'S "GENTLEMEN"
+
+RIGGS_FLOW_TARGET_1_CRIME_00 = Pretending to high birth and delicate manners, yet surrounding themselves with thugs and cut-throats, these viperous dandies have orchestrated a ruthless web of blackmail and extortion throughout West Elizabeth, leaving their hard-working victims with nothing to their name but debt and rags.
+
+RIGGS_FLOW_TARGET_1_NAME_00 = BARTHOLOMEW BROWN'S "GENTLEMEN"
+
+RIGGS_FLOW_TARGET_2_CRIME_00 = Pretending to high birth and delicate manners, yet surrounding themselves with thugs and cut-throats, these viperous dandies have orchestrated a ruthless web of blackmail and extortion throughout West Elizabeth, leaving their hard-working victims with nothing to their name but debt and rags.
+
+RIGGS_FLOW_TARGET_2_NAME_00 = BARTHOLOMEW BROWN'S "GENTLEMEN"
+
+SAINT_DENIS_FLOW_TARGET_0_CRIME_00 = Resurrectionists strike Saint Denis! These ghouls rob graves not for valuables, but for the very bodies of the recently deceased, which they sell to unscrupulous anatomists. Nor is this the height of their depravity: they are also believed to murder innocents in pursuit of fresh cadavers, and even to kidnap live victims for vivisection.
+
+SAINT_DENIS_FLOW_TARGET_0_NAME_00 = HOARE, ROACHE AND GAULT
+
+SAINT_DENIS_FLOW_TARGET_1_CRIME_00 = Resurrectionists strike Saint Denis! These ghouls rob graves not for valuables, but for the very bodies of the recently deceased, which they sell to unscrupulous anatomists. Nor is this the height of their depravity: they are also believed to murder innocents in pursuit of fresh cadavers, and even to kidnap live victims for vivisection.
+
+SAINT_DENIS_FLOW_TARGET_1_NAME_00 = HOARE, ROACHE AND GAULT
+
+SAINT_DENIS_FLOW_TARGET_2_CRIME_00 = Resurrectionists strike Saint Denis! These ghouls rob graves not for valuables, but for the very bodies of the recently deceased, which they sell to unscrupulous anatomists. Nor is this the height of their depravity: they are also believed to murder innocents in pursuit of fresh cadavers, and even to kidnap live victims for vivisection.
+
+SAINT_DENIS_FLOW_TARGET_2_NAME_00 = HOARE, ROACHE AND GAULT
+
+STRAWBERRY_FLOW_TARGET_0_CRIME_00 = Responsible for the sudden wave of kidnap, murder and savagery across West Elizabeth. Survivors of their ferocious assaults speak of their commitment to passing a mysterious "initiation" into a "brotherhood of skinners". The meaning of these words, and of the savagery they have exhorted, remains unknown.
+
+STRAWBERRY_FLOW_TARGET_0_NAME_00 = THE "INITIATES"
+
+STRAWBERRY_FLOW_TARGET_1_CRIME_00 = Responsible for the sudden wave of kidnap, murder and savagery across West Elizabeth. Survivors of their ferocious assaults speak of their commitment to passing a mysterious "initiation" into a "brotherhood of skinners". The meaning of these words, and of the savagery they have exhorted, remains unknown.
+
+STRAWBERRY_FLOW_TARGET_1_NAME_00 = THE "INITIATES"
+
+STRAWBERRY_FLOW_TARGET_2_CRIME_00 = Responsible for the sudden wave of kidnap, murder and savagery across West Elizabeth. Survivors of their ferocious assaults speak of their commitment to passing a mysterious "initiation" into a "brotherhood of skinners". The meaning of these words, and of the savagery they have exhorted, remains unknown.
+
+STRAWBERRY_FLOW_TARGET_2_NAME_00 = THE "INITIATES"
+
+TUMBLEWEED_FLOW_TARGET_0_CRIME_00 = Former wardens at Sisika Penitentiary, these men have turned their knowledge of modern techniques of incarceration against the very institutions they once policed. Jailbreakers for hire, they are responsible for the escape of, among others, notorious arsonists Cole Reeves and Pattie McGovern.
+
+TUMBLEWEED_FLOW_TARGET_0_NAME_00 = ADDISON WYE'S "JAILBREAKERS"
+
+TUMBLEWEED_FLOW_TARGET_1_CRIME_00 = Former wardens at Sisika Penitentiary, these men have turned their knowledge of modern techniques of incarceration against the very institutions they once policed. Jailbreakers for hire, they are responsible for the escape of, among others, notorious arsonists Cole Reeves and Pattie McGovern.
+
+TUMBLEWEED_FLOW_TARGET_1_NAME_00 = ADDISON WYE'S "JAILBREAKERS"
+
+TUMBLEWEED_FLOW_TARGET_2_CRIME_00 = Former wardens at Sisika Penitentiary, these men have turned their knowledge of modern techniques of incarceration against the very institutions they once policed. Jailbreakers for hire, they are responsible for the escape of, among others, notorious arsonists Cole Reeves and Pattie McGovern.
+
+TUMBLEWEED_FLOW_TARGET_2_NAME_00 = ADDISON WYE'S "JAILBREAKERS"
+
+VALENTINE_FLOW_TARGET_0_CRIME_00 = Wanted for the corruption of youth throughout the Heartlands region, and in connection with several missing persons. Although these highly charismatic individuals are not independent actors, the link between them is, as yet, poorly documented. The same cannot be said for their fervor and cunning.
+
+VALENTINE_FLOW_TARGET_0_NAME_00 = ALLEN, DE LA MARE AND FITCH
+
+VALENTINE_FLOW_TARGET_1_CRIME_00 = Wanted for the corruption of youth throughout the Heartlands region, and in connection with several missing persons. Although these highly charismatic individuals are not independent actors, the link between them is, as yet, poorly documented. The same cannot be said for their fervor and cunning.
+
+VALENTINE_FLOW_TARGET_1_NAME_00 = ALLEN, DE LA MARE AND FITCH
+
+VALENTINE_FLOW_TARGET_2_CRIME_00 = Wanted for the corruption of youth throughout the Heartlands region, and in connection with several missing persons. Although these highly charismatic individuals are not independent actors, the link between them is, as yet, poorly documented. The same cannot be said for their fervor and cunning.
+
+VALENTINE_FLOW_TARGET_2_NAME_00 = ALLEN, DE LA MARE AND FITCH
+
+VAN_HORN_FLOW_TARGET_0_CRIME_00 = Long known to residents of Van Horn on account of domestic arrangements scandalous to the public conscience, this cutthroat trio and their associates form the keystone of the region's trade in stolen goods. The authorities also wish to learn the identity of their principal buyer.
+
+VAN_HORN_FLOW_TARGET_0_NAME_00 = BRADSHAW, COLT AND PENN
+
+VAN_HORN_FLOW_TARGET_1_CRIME_00 = Long known to residents of Van Horn on account of domestic arrangements scandalous to the public conscience, this cutthroat trio and their associates form the keystone of the region's trade in stolen goods. The authorities also wish to learn the identity of their principal buyer.
+
+VAN_HORN_FLOW_TARGET_1_NAME_00 = BRADSHAW, COLT AND PENN
+
+VAN_HORN_FLOW_TARGET_2_CRIME_00 = Long known to residents of Van Horn on account of domestic arrangements scandalous to the public conscience, this cutthroat trio and their associates form the keystone of the region's trade in stolen goods. The authorities also wish to learn the identity of their principal buyer.
+
+VAN_HORN_FLOW_TARGET_2_NAME_00 = BRADSHAW, COLT AND PENN
+
+WALLACE_FLOW_TARGET_0_CRIME_00 = Mr. Xavier has defied all attempts by state authorities to license, regulate and tax his hunting of unusual fauna. The revenue agents sent to discuss these matters with Mr. Xavier remain unaccounted for. The bounty for his capture was kindly provided to the state of West Elizabeth by Miss Harriet Davenport.
+
+WALLACE_FLOW_TARGET_0_NAME_00 = THEODORE XAVIER'S HUNT
+
+WALLACE_FLOW_TARGET_1_CRIME_00 = Mr. Xavier has defied all attempts by state authorities to license, regulate and tax his hunting of unusual fauna. The revenue agents sent to discuss these matters with Mr. Xavier remain unaccounted for. The bounty for his capture was kindly provided to the state of West Elizabeth by Miss Harriet Davenport.
+
+WALLACE_FLOW_TARGET_1_NAME_00 = THEODORE XAVIER'S HUNT
+
+WALLACE_FLOW_TARGET_2_CRIME_00 = Mr. Xavier has defied all attempts by state authorities to license, regulate and tax his hunting of unusual fauna. The revenue agents sent to discuss these matters with Mr. Xavier remain unaccounted for. The bounty for his capture was kindly provided to the state of West Elizabeth by Miss Harriet Davenport.
+
+WALLACE_FLOW_TARGET_2_NAME_00 = THEODORE XAVIER'S HUNT
+

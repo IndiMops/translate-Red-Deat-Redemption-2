@@ -1,0 +1,22 @@
+CFJM3_CNV_1 = ~z~So this is it, huh?
+
+CFJM3_CNV_2 = ~z~~sl:0.0:2.3~We all gonna die and never see no promised land.~sl:0.6~No heaven on Earth.
+
+CFJM3_CNV_3 = ~z~~sl:0.0:1.4~No man unleashed,~sl:0.0:2.3~no real land, no pure land,~sl:~or none of that stuff Dutch spouts.
+
+CFJM3_CNV_4 = ~z~We all just gonna get shot like any other hoodlum.
+
+CFJM3_CNV_5 = ~z~~sl:0.0:1.5~Put down like any other pest~sl:~and all that stuff we believed in,
+
+CFJM3_CNV_6 = ~z~~sl:0.0:1.8~was just something to make us better at killing folk,~sl:~faster at running away.
+
+CFJM3_CNV_7 = ~z~~sl:0.0:1.1~Well...~sl:0.8:1.4~I guess it is what it is and~sl:1.0~right now this is it.
+
+CFJM3_CNV_8 = ~z~Ain't never gonna see my son grow up,
+
+CFJM3_CNV_9 = ~z~~sl:0.0:1.8~ain't never gonna atone for my sins,~sl:~ain't never nothing but gonna get shot for 'em.
+
+CFJM3_CNV_10 = ~z~~sl:0.0:2.5~ I hope God can forgive me for what I done on this earth~sl:~'cause ain't much I'm proud of.
+
+CFJM3_CNV_11 = ~z~And a whole lot I hope he's forgotten about.
+

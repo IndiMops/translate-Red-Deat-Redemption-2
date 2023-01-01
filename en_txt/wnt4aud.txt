@@ -1,0 +1,886 @@
+WNT4_ATTACK_01 = ~z~Goddamn it, I thought that was all of them!
+
+WNT4_ATTACK_02 = ~z~Oh shit... look, they're coming outta that last car!
+
+WNT4_BACK_1 = ~z~Alright, that should do it. You head back up to the others, I've got it from here.
+
+WNT4_BNTR_1SHOUTED_1 = ~z~Okay gentlemen. Listen up, all of you. According to the information so kindly provided to us by the O'Driscolls,
+
+WNT4_BNTR_1SHOUTED_8 = ~z~Lenny and Javier, you two take the front cars and deal with any guards.
+
+WNT4_BNTR_1SHOUTED_9 = ~z~Arthur and Micah, you head straight for the back. That's what we're after... Mr. Cornwall's private car.
+
+WNT4_BNTR_1SHOUTED_15 = ~z~Enough! After Bill blows the tracks, we're gonna need to move fast.
+
+WNT4_BNTR_1SHOUTED_19 = ~z~Yes boss.
+
+WNT4_BNTR_1SPOKEN_1 = ~z~~sl:0.0:3.2~Okay gentlemen. Listen up, all of you.~sl:0.6~According to the information so kindly provided to us by the O'Driscolls,
+
+WNT4_BNTR_1SPOKEN_8 = ~z~Lenny and Javier, you two take the front cars, deal with any guards.
+
+WNT4_BNTR_1SPOKEN_9 = ~z~~sl:0.0:2.8~Arthur and Micah, you head straight for the back.~sl:0.1~That's what we're after... Mr. Cornwall's private car.
+
+WNT4_BNTR_1SPOKEN_15 = ~z~~sl:0.0:0.9~Enough!~sl:0.8~After Bill blows the tracks, we're gonna need to move fast.
+
+WNT4_BNTR_1SPOKEN_19 = ~z~Yes, boss.
+
+WNT4_BNTR_1_2 = ~z~the train will be coming north, from Big Valley.
+
+WNT4_BNTR_1_3 = ~z~We're going to pick it off after it crosses the border into the Grizzlies.
+
+WNT4_BNTR_1_4 = ~z~There's a raised spot there that should give us good vantage.
+
+WNT4_BNTR_1_5 = ~z~Charles, you'll keep lookout for any outriders. How's that hand, by the way?
+
+WNT4_BNTR_1_6 = ~z~I'll be fine.
+
+WNT4_BNTR_1_7 = ~z~Good. I'll take the driver and engineer, then run point.
+
+WNT4_BNTR_1_10 = ~z~You and me, Morgan.
+
+WNT4_BNTR_1_11 = ~z~Great.
+
+WNT4_BNTR_1_12 = ~z~Have you got a problem with that?
+
+WNT4_BNTR_1_13 = ~z~Not if you keep your head for once.
+
+WNT4_BNTR_1_14 = ~z~You worry about yourself.
+
+WNT4_BNTR_1_16 = ~z~Is everyone clear on what they're doing?
+
+WNT4_BNTR_1_17 = ~z~Yep.
+
+WNT4_BNTR_1_18 = ~z~Crystal.
+
+WNT4_BNTR_1_20 = ~z~Good. Now, come on. Let's ride.
+
+WNT4_BNTR_2SHOUTED_4 = ~z~~sl:0.0:2.4~Look at you boys. See?~lr:0.0:2.5~This is what I call a crew.~lr:~Micah Bell, Charles Smith, Arthur Morgan, Javier Escuella,
+
+WNT4_BNTR_2SHOUTED_6 = ~z~Just happy we're back at'em, Dutch.
+
+WNT4_BNTR_2SHOUTED_17 = ~z~~sl:0.0:2.4~And if the O'Driscolls are right,~lr:~there'll be a stack of railroad bonds on this train,
+
+WNT4_BNTR_2SHOUTED_19 = ~z~Now everyone shut up and get your mind on the job in hand. ~rp~Come on.
+
+WNT4_BNTR_2SPOKEN_4 = ~z~~sl:0.0:2.3~Look at you boys. See?~lr:0.5:1.8~This is what I call a crew.~lr:0.3~Micah Bell, Charles Smith, Arthur Morgan, Javier Escuella,
+
+WNT4_BNTR_2SPOKEN_6 = ~z~~sl:0.3~Just happy we're back at'em, Dutch.
+
+WNT4_BNTR_2SPOKEN_17 = ~z~~sl:0.0:1.7~And if the O'Driscolls are right,~lr:0.2~there'll be a stack of railroad bonds on this train,
+
+WNT4_BNTR_2SPOKEN_19 = ~z~Now everyone shut up and get your mind on the job at hand. ~rp~Come on.
+
+WNT4_BNTR_2_1 = ~z~Out of the snow, finally.
+
+WNT4_BNTR_2_2 = ~z~Feels good, doesn't it?
+
+WNT4_BNTR_2_3 = ~z~But we need to get this done fast now it's thawing... before anyone gets up here after us.
+
+WNT4_BNTR_2_5 = ~z~and what about young Lenny here? ~rp~Always the first man on his horse.
+
+WNT4_BNTR_2_7 = ~z~You sure you're ready for this, kid?
+
+WNT4_BNTR_2_8 = ~z~'Course I'm ready.
+
+WNT4_BNTR_2_9 = ~z~Just stay calm, keep your eye sharp.
+
+WNT4_BNTR_2_10 = ~z~That goes for all of you. ~rp~No mistakes, not again.
+
+WNT4_BNTR_2_11 = ~z~So we do this, ~rp~then we go back to Blackwater to collect?
+
+WNT4_BNTR_2_12 = ~z~How many times are you going to ask the same question, Micah?
+
+WNT4_BNTR_2_13 = ~z~That's a lot of damn money to leave sitting for too long.
+
+WNT4_BNTR_2_14 = ~z~~sl:0.0:2.1~It would be crazy to go back there now.~lr:0.1~ The place will be swarming with Pinkertons.
+
+WNT4_BNTR_2_15 = ~z~We go back when I say we go back, and that's the end of it.
+
+WNT4_BNTR_2_16 = ~z~The money's safe, you'll just have to trust me.
+
+WNT4_BNTR_2_18 = ~z~good money, ~rp~once we work out how to cash them.
+
+WNT4_BONDS_IDLE_01 = ~z~Are you done in there?
+
+WNT4_BONDS_IDLE_02 = ~z~Let's hurry this along now.
+
+WNT4_BONDS_IDLE_03 = ~z~Just waiting on you, Arthur.
+
+WNT4_CALL2_1 = ~z~~sl:1.0:0.0~You're done now!
+
+WNT4_CALL2_2 = ~z~Hey! Over here, fellers!
+
+WNT4_CALLOUT_01 = ~z~Come on, clean this up, boys!
+
+WNT4_CALLOUT_02 = ~z~Alright! Finish those sons of bitches!
+
+WNT4_CALLWAIT_01 = ~z~Come on!
+
+WNT4_CALLWAIT_02 = ~z~What are you doing? Get over here!
+
+WNT4_CALLWAIT_03 = ~z~We don't have time to play games!
+
+WNT4_CALL_1 = ~z~Arthur, get over here!
+
+WNT4_CHECK1_1 = ~z~You alright?
+
+WNT4_CHECK1_2 = ~z~Yeah, I'm good.
+
+WNT4_CHECK2_1 = ~z~How you doing there?
+
+WNT4_CHECK2_2 = ~z~I'm okay.
+
+WNT4_CHECK3_1 = ~z~You still okay?
+
+WNT4_CHECK3_2 = ~z~I think so!
+
+WNT4_CHECK3_3 = ~z~Good.
+
+WNT4_CHECK4_1 = ~z~Damn, he's got an army! Who is this guy?
+
+WNT4_CHECK4_2 = ~z~You're doing good, kid.
+
+WNT4_CHECK5_1 = ~z~We're gonna get out of this.
+
+WNT4_CHECK5_2 = ~z~Oh, I know we are.
+
+WNT4_CHECK_01 = ~z~Well? Go on, then.
+
+WNT4_CHECK_02 = ~z~Is there a problem, Arthur?
+
+WNT4_CHECK_03 = ~z~What are you waiting for?
+
+WNT4_CHECK_ALT_1 = ~z~You alright?
+
+WNT4_CHECK_ALT_2 = ~z~~sl:0.0:1.4~Why didn't you ask me that~sl:~when I was hanging off the side of the train?
+
+WNT4_CHECK_ALT_3 = ~z~I knew you'd be fine.
+
+WNT4_CLRSHT_1 = ~z~You got him? I ain't got a clear shot!
+
+WNT4_CLSE_TRAIN_1 = ~z~~sl:0.0:3.3~If I hear so much as a footstep from this car,~sl:0.3~you'll end up like all your friends out here.
+
+WNT4_CMBTBANT1_1 = ~z~There better be some money at the end of this.
+
+WNT4_CMBTBANT1_2 = ~z~All these bastards must be guarding something.
+
+WNT4_CMBTBANT2_1 = ~z~~sl:0.0:1.3~What the hell was Bill doing?~sl:~He had long enough to set that charge.
+
+WNT4_CMBTBANT2_2 = ~z~Well, I hooked up the wire, but we won't mention that.
+
+WNT4_CMBTBANT3_1 = ~z~Good shooting, kid.
+
+WNT4_CMBTBANT3_2 = ~z~~sl:0.0:1.6~I can see now why the O'Driscolls~sl:~brought so many boys up here for this.
+
+WNT4_CMBTBANT4_1 = ~z~This ain't what I'd call a two-man job, Arthur.
+
+WNT4_CMBTBANT4_2 = ~z~We can handle it. Just don't leave yourself open.
+
+WNT4_CMBTBANT5_1 = ~z~We need the car at the back, right?
+
+WNT4_CMBTBANT5_2 = ~z~Yep, keep pushing on 'em.
+
+WNT4_DTCGRDR_01 = ~z~Just stay quiet and calm and this will be over soon.
+
+WNT4_DTCGRDR_02 = ~z~Hey, hey, keep your hands where I can see them.
+
+WNT4_DTCGRDR_03 = ~z~Next time we rob you, open the goddamn door when I say so, alright?
+
+WNT4_DTCGRDR_04 = ~z~See, this is unfortunately what happens when you work for a greedy son of a bitch.
+
+WNT4_DTCGRD_1 = ~z~Just don't kill us, mister!
+
+WNT4_DTCGRD_2 = ~z~What's your name?
+
+WNT4_DTCGRD_3 = ~z~Jeb Jones, the Third.
+
+WNT4_DTCGRD_4 = ~z~~sl:0.0:5.5~Well, "Jeb Jones, the Third", you don't tell Mr. Cornwall no particulars about us...~sl:0.2~and we won't come after you. You get me?
+
+WNT4_DTCGRD_5 = ~z~I get you, sir!
+
+WNT4_DYNTUT2_1 = ~z~Seems good enough. Now light the fuse.
+
+WNT4_DYNTUT3_1 = ~z~Unless you got a death wish, I'd step back, fellers.
+
+WNT4_EXT_1 = ~z~You boys should be proud,
+
+WNT4_EXT_2 = ~z~you put up a hell of a fight.
+
+WNT4_EXT_3 = ~z~Gents, search the train.
+
+WNT4_EXT_4 = ~z~Just don't kill us, mister.
+
+WNT4_EXT_5 = ~z~What's your name, partner?
+
+WNT4_EXT_6 = ~z~Jeb Jones the third.
+
+WNT4_EXT_7 = ~z~Well Jeb Jones the third...
+
+WNT4_EXT_8 = ~z~you don't tell Mr. Cornwall no particulars about us...
+
+WNT4_EXT_9 = ~z~and we won't come after you.
+
+WNT4_EXT_10 = ~z~Get me?
+
+WNT4_EXT_11 = ~z~I get you, sir.
+
+WNT4_EXT_12 = ~z~Alright.
+
+WNT4_EXT_13 = ~z~You boys go sit by that rock.
+
+WNT4_EXT_14 = ~z~What did you find?
+
+WNT4_EXT_15 = ~z~Enough.
+
+WNT4_EXT_16 = ~z~Let's get out of here.
+
+WNT4_EXT_A_1 = ~z~Alright, come on...
+
+WNT4_EXT_A_2 = ~z~just walk on out here.
+
+WNT4_EXT_A_3 = ~z~We don't want to kill you...
+
+WNT4_EXT_A_4 = ~z~we just want to rob your boss.
+
+WNT4_EXT_A_5 = ~z~Get on up there...
+
+WNT4_EXT_A_6 = ~z~search that train.
+
+WNT4_EXT_A_LO1_1 = ~z~~sl:3.0~My, oh my...
+
+WNT4_EXT_A_LO2_1 = ~z~~sl:0.0:2.7:1~Look at this place. It's like a palace.
+
+WNT4_EXT_A_LO2_2 = ~z~~sl:0.2~Now I've seen everything.
+
+WNT4_EXT_A_LO2_3 = ~z~~sl:0.0:2.0:1~You two got the safe? I'll search the rest.
+
+WNT4_EXT_A_LO2_4 = ~z~~sl:0.2:3.1:1~Oh yes, should be easy as cake.
+
+WNT4_EXT_A_LO2_5 = ~z~~sl:0.0:2.9~You're just gonna stand there, kid, pour me some brandy will ya?~sl:0.0:1.0:1~I'm parched.
+
+WNT4_EXT_A_LO2_6 = ~z~~sl:0.2:2.1:1~Shut up. Me and Arthur did all the work.
+
+WNT4_EXT_A_LO2_7 = ~z~~sl:0.1~Yeah... kid did good. Didn't see you rushing to jump on that train.
+
+WNT4_EXT_A_LO2_8 = ~z~He's keen, I'll give you that.
+
+WNT4_EXT_B_1 = ~z~What did you find?
+
+WNT4_EXT_B_2 = ~z~Enough.
+
+WNT4_EXT_B_3 = ~z~Let's get out of here.
+
+WNT4_FALLS_1 = ~z~~sl:0.9:0.0~I can't hold on!
+
+WNT4_GFIGHT_01 = ~z~Look out, we got more coming off the train!
+
+WNT4_GFIGHT_02 = ~z~Shit, more guards coming out of that train car!
+
+WNT4_GIDLE1_1 = ~z~~sl:1.3~This is a good spot.
+
+WNT4_GIDLE1_2 = ~z~~sl:0.0:4.0~Yeah, I must remember to thank Colm O'Driscoll~sl:~for planning it out so well for us.
+
+WNT4_GIDLE1_3 = ~z~~sl:0.0:3.1~And for providing all the explosives.~sl:0.9~Real generous of the feller.
+
+WNT4_GIDLE2_1 = ~z~Come on, Bill.
+
+WNT4_GIDLE2_2 = ~z~When is it due?
+
+WNT4_GIDLE2_3 = ~z~Half an hour, at most, if it's on time.
+
+WNT4_GIDLE3_1 = ~z~Here comes Arthur.
+
+WNT4_GIDLE3_2 = ~z~About time. I have to say, I am rather looking forward to this.
+
+WNT4_GIDLE3_3 = ~z~~sl:0.0:4.6~Just be ready to move quick, and remember the plan... all of you.~sl:0.3~No mistakes.
+
+WNT4_GOOD_1 = ~z~Okay, this is good.
+
+WNT4_GO_TRAIN2_01 = ~z~I said quick!
+
+WNT4_GO_TRAIN2_02 = ~z~Go on!
+
+WNT4_GO_TRAIN2_03 = ~z~Get a move on!
+
+WNT4_GRAB_1 = ~z~I've got you. Now stop yelling.
+
+WNT4_GRD1_RESP_1 = ~z~We won't tell a soul, I swear!
+
+WNT4_GRDRESIST_1 = ~z~We ain't coming out!
+
+WNT4_GRDRESIST_2 = ~z~You got no way in here!
+
+WNT4_GRD_RUN2_1 = ~z~Stop! Please no!
+
+WNT4_GRD_RUN3_1 = ~z~No, stop! We won't tell nobody!
+
+WNT4_GRD_RUN_1 = ~z~I thought we had a deal!
+
+WNT4_HOLDUP_1 = ~z~There's the water tower. Hold up here on the ridge.
+
+WNT4_HURRY_01 = ~z~Come on then.
+
+WNT4_HURRY_02 = ~z~Are you taking this off me or not?
+
+WNT4_HURRY_03 = ~z~If you want it, you can come get it.
+
+WNT4_IG1_1 = ~z~Is Bill there?
+
+WNT4_IG1_2 = ~z~Yeah.
+
+WNT4_IG1_3 = ~z~~sl:0.0:1.1~You wanna head down?~sl:~See how he's getting on?
+
+WNT4_IG1_4 = ~z~Okay.
+
+WNT4_IG14_1 = ~z~
+
+WNT4_IG15_1 = ~z~~sl:0.0:0.9~Hey!
+
+WNT4_IG16_A_1 = ~z~Shoot him. Shoot him!
+
+WNT4_IG16_B_1 = ~z~~sl:0.8~Shoot 'em! Shoot 'em!
+
+WNT4_IG16_STUMB_1 = ~z~
+
+WNT4_IG18_1 = ~z~Okay, get on the train, quick, all of you.
+
+WNT4_IG18_2 = ~z~Any bright ideas, I'll kill all three of you... so behave.
+
+WNT4_IG18_3 = ~z~Come on, move.
+
+WNT4_IG22_ANYLK_1 = ~z~Any luck, Arthur?
+
+WNT4_IG22_ANYLK_2 = ~z~Nothing much yet.
+
+WNT4_IG22_ANYLK_3 = ~z~Well let's keep looking.
+
+WNT4_IG22_ANYLK_4 = ~z~Those goddamn O'Driscolls...
+
+WNT4_IG22_CRACK_1 = ~z~~sl:2.3:0.0~There. See? That's how it's done.
+
+WNT4_IG22_CRACK_2 = ~z~Shit, just a pile of papers.
+
+WNT4_IG22_CRACK_3 = ~z~Bonds?
+
+WNT4_IG22_CRACK_4 = ~z~I don't think so.
+
+WNT4_IG22_CRACK_5 = ~z~Here, make yourself useful. Least we all know you can read.
+
+WNT4_IG22_CRACK_6 = ~z~~sl:0.3:0.0~Gimme those.
+
+WNT4_IG22_GOTEM_1 = ~z~Think I got 'em.
+
+WNT4_IG22_GOTEM_2 = ~z~Nice.
+
+WNT4_IG22_GOTEM_3 = ~z~~sl:0.0:1.8:1~Well thank God. Come on.
+
+WNT4_IG22_GOTEM_4 = ~z~
+
+WNT4_IG22_LOOK1_1 = ~z~Have you checked all the drawers and cabinets?
+
+WNT4_IG22_LOOK2_1 = ~z~~sl:0.7:0.0~Well keep looking, there must be something.
+
+WNT4_IG22_LOOK3_1 = ~z~~sl:0.2:0.0~These just seem to be contracts... Arthur, have you looked down the end there?
+
+WNT4_IG22_PAPER_1 = ~z~Railroad contracts... invoices... blah blah blah. You got anything?
+
+WNT4_IG22_PAPER_2 = ~z~~sl:0.5:0.0~Not really. Sugar imports from the Spanish West Indies... a lot of sugar.
+
+WNT4_IG22_PAPER_3 = ~z~Some fancy new boat he's ordered from Europe.
+
+WNT4_IG22_PAPER_4 = ~z~~sl:0.7:0.0~I am not robbing another boat as long as I live...
+
+WNT4_IG22_SHFFL_1 = ~z~
+
+WNT4_IG22_SHFFL_2 = ~z~
+
+WNT4_IG26_BOOM_1 = ~z~Here we go...
+
+WNT4_IG26_DYN_1 = ~z~That's enough!
+
+WNT4_IG26_DYN_2 = ~z~~sl:0.0:3.2~Mr. Williamson, give Mr. Morgan and Mr. Smith some dynamite...~sl:0.5~you two boys, go blow that door open.
+
+WNT4_IG26_STPBK_1 = ~z~~sl:0.0:3.8~Now don't matter too much to us, but you boys in there,~sl:0.2~might wanna take a step back...
+
+WNT4_IG26_WAIT_1 = ~z~Everything okay?
+
+WNT4_IG26_WAIT_2 = ~z~I think so.
+
+WNT4_IG28_1 = ~z~Go loot the train... quick!
+
+WNT4_IG28_2_1 = ~z~Go on, loot the train... quick.
+
+WNT4_IG29_1 = ~z~How you getting on?
+
+WNT4_IG29_2 = ~z~~sl:0.0:0.6~Yeah...~sl:0.9~I'm okay.
+
+WNT4_IG29_3 = ~z~You sure?
+
+WNT4_IG29_4 = ~z~~sl:0.6~Of course.
+
+WNT4_IG29_5 = ~z~Can I help a little?
+
+WNT4_IG29_6 = ~z~~sl:1.4~Alright.
+
+WNT4_IG29_7 = ~z~Go ahead... and set up the detonator by those rocks over there.
+
+WNT4_IG29_8 = ~z~Okay, sure.
+
+WNT4_IG29_9 = ~z~Now, just unspool the wire and then attach it to said detonator.
+
+WNT4_IG37_1 = ~z~Alright, come on... just walk on out here.
+
+WNT4_IG37_2 = ~z~We don't want to kill you... we just wanna rob your boss.
+
+WNT4_IG37_3 = ~z~Get on up there, search that train.
+
+WNT4_IG37_4 = ~z~
+
+WNT4_IG37_5 = ~z~
+
+WNT4_IG_3_ARTLF_1 = ~z~
+
+WNT4_IG_4_JAV_1 = ~z~~sl:0.0:1.4:1~Here we go!
+
+WNT4_IG_4_LENNY_1 = ~z~~sl:0.0:0.7:1~Here we go!
+
+WNT4_IG_4_LENNY_2 = ~z~
+
+WNT4_IG_5_PULL_1 = ~z~You're okay... now let's go slow this thing down.
+
+WNT4_INT_1 = ~z~I thought you was reading him his last rites...
+
+WNT4_INT_2 = ~z~now I see you're introducing him to your other passion.
+
+WNT4_INT_3 = ~z~I'll mind you to show me some respect, Mr. Morgan.
+
+WNT4_INT_4 = ~z~Mind away, Reverend.
+
+WNT4_INT_5 = ~z~You're still here, then?
+
+WNT4_INT_6 = ~z~I owe you.
+
+WNT4_INT_7 = ~z~And you'll pay me...
+
+WNT4_INT_8 = ~z~but for the moment, just rest.
+
+WNT4_INT_9 = ~z~Arthur...
+
+WNT4_INT_10 = ~z~I think it's time for the train.
+
+WNT4_INT_11 = ~z~You want me to come?
+
+WNT4_INT_12 = ~z~Of course I do, but...
+
+WNT4_INT_13 = ~z~look at you.
+
+WNT4_INT_14 = ~z~I was always ugly, Dutch...
+
+WNT4_INT_15 = ~z~it's just a scratch.
+
+WNT4_INT_16 = ~z~Lie still, son.
+
+WNT4_INT_17 = ~z~Hello, Abigail.
+
+WNT4_INT_18 = ~z~Dutch.
+
+WNT4_INT_19 = ~z~Jackie.
+
+WNT4_INT_20 = ~z~The boy wanted to see you, John.
+
+WNT4_INT_21 = ~z~He's seen me now...
+
+WNT4_INT_22 = ~z~or what's left of me.
+
+WNT4_INT_23 = ~z~What about you?
+
+WNT4_INT_24 = ~z~Guess I was hoping to see a corpse.
+
+WNT4_INT_25 = ~z~Bide your time, you'll see plenty of them.
+
+WNT4_INT_26 = ~z~You're a rotten man, John Marston.
+
+WNT4_INT_27 = ~z~He is an idiot, Abigail, we all know it.
+
+WNT4_INT_28 = ~z~Now, railway men.
+
+WNT4_INT_29 = ~z~Bill, now you ride ahead and set the charge...
+
+WNT4_INT_30 = ~z~at the water tower, just before the tunnel.
+
+WNT4_INT_31 = ~z~Ain't a problem.
+
+WNT4_INT_32 = ~z~Why are we doing this?
+
+WNT4_INT_33 = ~z~Weather's breaking, we could leave.
+
+WNT4_INT_34 = ~z~I-I thought we was lying low.
+
+WNT4_INT_35 = ~z~Hyah... come on.
+
+WNT4_INT_36 = ~z~What do you want from me, Hosea?
+
+WNT4_INT_37 = ~z~I just don't want any more folks to die, Dutch.
+
+WNT4_INT_38 = ~z~We're living, Hosea, we're living...
+
+WNT4_INT_39 = ~z~look at me, we're living... even you.
+
+WNT4_INT_40 = ~z~But we need money, everything we have's in Blackwater.
+
+WNT4_INT_41 = ~z~You fancy heading back there?
+
+WNT4_INT_42 = ~z~No.
+
+WNT4_INT_43 = ~z~Listen, Dutch, I ain't trying to undermine you, I just...
+
+WNT4_INT_44 = ~z~I just want to stick to the plan...
+
+WNT4_INT_45 = ~z~which was to lie low, then head back out west.
+
+WNT4_INT_46 = ~z~Now suddenly, we're about to rob a train.
+
+WNT4_INT_47 = ~z~What choice have we got?
+
+WNT4_INT_48 = ~z~Leviticus Cornwall's no joke, Dutch, he's...
+
+WNT4_INT_49 = ~z~Who is Leviticus Cornwall?
+
+WNT4_INT_50 = ~z~He's a big railway magnate, sugar dealer, oil man.
+
+WNT4_INT_51 = ~z~Well how good for him.
+
+WNT4_INT_52 = ~z~Sounds like he has more than enough to share.
+
+WNT4_INT_53 = ~z~Dutch!
+
+WNT4_INT_54 = ~z~Gentlemen, it is time to make something of ourselves.
+
+WNT4_INT_55 = ~z~Get your horses ready, we have a train to rob.
+
+WNT4_INT_LO_1 = ~z~I promise you that.
+
+WNT4_INT_LO_2 = ~z~~sl:0.0:2.5~Micah is a dangerous fool.~sl:0.4~But I'll do as you bid.
+
+WNT4_JAVFELL_1 = ~z~Where's Javier?
+
+WNT4_JAVFELL_2 = ~z~He fell, the others'll get him.
+
+WNT4_LENMOVE_1 = ~z~I'm going up! Look, we have to stop this train!
+
+WNT4_LENNYHNG_01 = ~z~~sl:1.2~Shit! Shit! Shit!
+
+WNT4_LENNYHNG_02 = ~z~~sl:1.0~Shit!
+
+WNT4_LENNYHNG_03 = ~z~~sl:0.8~Help!
+
+WNT4_LENNYHNG_04 = ~z~~sl:0.3:1.5:1~Arthur, help me!
+
+WNT4_LENNY_01 = ~z~~sl:0.7:0.0~Oh shit!
+
+WNT4_LENNY_02 = ~z~~sl:0.4:0.0~Help!
+
+WNT4_LENNY_03 = ~z~Hey, down here!
+
+WNT4_LENNY_04 = ~z~~sl:0.6:0.0~Pull me up!
+
+WNT4_LENNY_05 = ~z~I'm slipping!
+
+WNT4_LENREACT_01 = ~z~There's still more coming off the train!
+
+WNT4_LENREACT_02 = ~z~Watch it, more of them ahead!
+
+WNT4_LEN_ASK_1 = ~z~There's another guard up ahead, you want me to take him?
+
+WNT4_LEN_NO_1 = ~z~No, I'll go...you cover me.
+
+WNT4_LEN_NO_2 = ~z~Okay...
+
+WNT4_LEN_TIMEO_1 = ~z~Okay, I'll just deal with him.
+
+WNT4_LEN_TIME_1 = ~z~Arthur? Who's going?
+
+WNT4_LEN_YES_1 = ~z~Yes, you go.
+
+WNT4_LEN_YES_2 = ~z~Okay...
+
+WNT4_LIGHT_01 = ~z~Let's do this then.
+
+WNT4_LIGHT_02 = ~z~We're waiting.
+
+WNT4_LIGHT_03 = ~z~Come on, it's not gonna light itself.
+
+WNT4_LOITER_01 = ~z~Train's gonna be here any minute.
+
+WNT4_LOITER_02 = ~z~We're all good here, head back up there.
+
+WNT4_LOITER_03 = ~z~Don't need you distracting me here, Morgan.
+
+WNT4_LOOTLONG_01 = ~z~How's it looking in there?
+
+WNT4_LOOTLONG_02 = ~z~Come on. Let's hurry this along, boys.
+
+WNT4_LOOT_01 = ~z~I think that's what they're looking for. Go show it to Dutch.
+
+WNT4_LOOT_02 = ~z~Nice find, Arthur. Haul it out of here.
+
+WNT4_MASKRE_1 = ~z~That includes you, Arthur.
+
+WNT4_MASKRE_ESC_01 = ~z~Cover your face, Arthur.
+
+WNT4_MASKRE_ESC_02 = ~z~Have you forgotten the price on our heads?
+
+WNT4_MASKRE_ESC_03 = ~z~Why are you doing this, Arthur? Just pull up your bandana.
+
+WNT4_MASK_1 = ~z~Okay, cover your faces. Train should be here any minute now.
+
+WNT4_MCS2_LI_1 = ~z~How you getting on?
+
+WNT4_MCS2_LI_2 = ~z~Yeah, I'm okay.
+
+WNT4_MCS2_LI_3 = ~z~You sure?
+
+WNT4_MCS7_1 = ~z~What did you find?
+
+WNT4_MCS7_2 = ~z~These...
+
+WNT4_MCS7_3 = ~z~bonds.
+
+WNT4_MCS7_4 = ~z~They worth anything?
+
+WNT4_MCS7_5 = ~z~Oh, sure...
+
+WNT4_MCS7_6 = ~z~bearer bonds.
+
+WNT4_MCS7_7 = ~z~I think we can probably sell these pretty easily.
+
+WNT4_MCS7_8 = ~z~Well done.
+
+WNT4_MCS7_9 = ~z~Now would you get rid of all of this?
+
+WNT4_MCS7_10 = ~z~The train?
+
+WNT4_MCS7_11 = ~z~Yeah, get it out of here.
+
+WNT4_MCS7_12 = ~z~What about them?
+
+WNT4_MCS7_13 = ~z~What do you think?
+
+WNT4_MCS7_14 = ~z~I don't know.
+
+WNT4_MCS7_15 = ~z~It's up to you.
+
+WNT4_MCS7_16 = ~z~Kill 'em...
+
+WNT4_MCS7_17 = ~z~leave 'em here...
+
+WNT4_MCS7_18 = ~z~take 'em with you on the train...
+
+WNT4_MCS7_19 = ~z~Just make sure they don't send no folk after us.
+
+WNT4_MCS7_20 = ~z~Okay.
+
+WNT4_MCS7_21 = ~z~See you back at camp.
+
+WNT4_MCS7_22 = ~z~When you get back...
+
+WNT4_MCS7_23 = ~z~we'll be moving on.
+
+WNT4_MCS7_24 = ~z~The rest of you...
+
+WNT4_MCS7_25 = ~z~let's ride!
+
+WNT4_MCS_2A_1 = ~z~How you getting on?
+
+WNT4_MCS_2A_2 = ~z~Yeah, I'm okay.
+
+WNT4_MCS_2A_3 = ~z~You sure?
+
+WNT4_MCS_2A_4 = ~z~Of course.
+
+WNT4_MCS_2A_5 = ~z~Look, I'll have you know, that I was trained...
+
+WNT4_MCS_2A_6 = ~z~Yeah, you were trained in the army, I know.
+
+WNT4_MCS_2A_7 = ~z~Can I help a little?
+
+WNT4_MCS_2A_8 = ~z~Alright.
+
+WNT4_MCS_2A_9 = ~z~Go ahead...
+
+WNT4_MCS_2A_10 = ~z~and set up the detonator by those rocks over there.
+
+WNT4_MCS_2A_11 = ~z~Okay, sure.
+
+WNT4_MCS_2A_12 = ~z~Now, just unspool the wire...
+
+WNT4_MCS_2A_13 = ~z~and then attach it to said detonator.
+
+WNT4_MCS_2A_14 = ~z~Of course.
+
+WNT4_MCS_2B_1 = ~z~All good.
+
+WNT4_MCS_3_1 = ~z~Gentlemen, it's time.
+
+WNT4_MCS_3_2 = ~z~Good luck, all of you.
+
+WNT4_MCS_3_3 = ~z~You all know what to do.
+
+WNT4_MCS_3_4 = ~z~Here we go.
+
+WNT4_MCS_3_5 = ~z~Shit, no!
+
+WNT4_MCS_3_6 = ~z~What? God.
+
+WNT4_MCS_3_7 = ~z~Oh, you have got to be kidding me.
+
+WNT4_MCS_3_8 = ~z~Where did you find that moron?
+
+WNT4_MCS_3_9 = ~z~You said it was fine.
+
+WNT4_MCS_3_10 = ~z~So it's my fault?~n~~m~Well, come on!
+
+WNT4_MCS_3_11 = ~z~You're pathetic. You know that?
+
+WNT4_MCS_3_LI_1 = ~z~What's going on?
+
+WNT4_MCS_3_LI_2 = ~z~He says all fine.
+
+WNT4_MCS_3_LI_3 = ~z~We'll soon find out.
+
+WNT4_MCS_5A_1 = ~z~There, you okay?
+
+WNT4_MCS_5A_2 = ~z~Yeah fine.
+
+WNT4_MCS_5A_3 = ~z~Well done.
+
+WNT4_MCS_5A_4 = ~z~Okay...
+
+WNT4_MCS_5A_5 = ~z~let's go see how well guarded this thing is.
+
+WNT4_MCS_5_1 = ~z~Okay.
+
+WNT4_MCS_5_2 = ~z~Now, let's go see how well guarded this thing is.
+
+WNT4_MCS_6_1 = ~z~You two alright?
+
+WNT4_MCS_6_2 = ~z~Yes.
+
+WNT4_MCS_6_3 = ~z~Lets get the money and go.
+
+WNT4_MCS_6_4 = ~z~We got some fellers holed up in this last car.
+
+WNT4_MCS_6_5 = ~z~What are you boys planning on doing in there?
+
+WNT4_MCS_6_6 = ~z~Listen to me, we don't want to kill any of ya...
+
+WNT4_MCS_6_7 = ~z~any more of ya.
+
+WNT4_MCS_6_8 = ~z~I give you my word, but trust me...
+
+WNT4_MCS_6_9 = ~z~we will.
+
+WNT4_MCS_6_10 = ~z~I work for Leviticus Cornwall.
+
+WNT4_MCS_6_11 = ~z~Come on, boys.
+
+WNT4_MCS_6_12 = ~z~We got our orders.
+
+WNT4_MCS_6_13 = ~z~Okay. You asked for it.
+
+WNT4_MCS_6_14 = ~z~Five... ~n~~m~ We ain't opening this door.
+
+WNT4_MCS_6_15 = ~z~Four...
+
+WNT4_MCS_6_16 = ~z~Three, Two, One.
+
+WNT4_MCS_6_LO_1 = ~z~Seems our friends have gone deaf.
+
+WNT4_MCS_6_LO_2 = ~z~Wake 'em up a little!
+
+WNT4_MOVEUP_01 = ~z~~sl:0.4:0.0~Are we moving up?
+
+WNT4_MOVEUP_02 = ~z~Shouldn't we push up?
+
+WNT4_MOVEUP_03 = ~z~We best get up there!
+
+WNT4_MOVEUP_04 = ~z~Let's keep moving!
+
+WNT4_MOVEUP_05 = ~z~Should we move up?
+
+WNT4_MOVEUP_06 = ~z~Come on, let's get to the front!
+
+WNT4_MSAFE1_1 = ~z~Okay, let's see if we can get this open.
+
+WNT4_MSAFE2_1 = ~z~Come on, come on.
+
+WNT4_MSAFE3_1 = ~z~Getting there...
+
+WNT4_PRE_MCS6_1 = ~z~Are you two alright?
+
+WNT4_PRE_MCS6_2 = ~z~Yes, let's get the money and go.
+
+WNT4_PRE_MCS6_3 = ~z~We got some fellers holed in up this last car.
+
+WNT4_PRE_MCS6_4 = ~z~Ah, shit.
+
+WNT4_PRE_MCS6_5 = ~z~What are you boys planning on doing in there?
+
+WNT4_PULL_1 = ~z~Come on, we need to stop this train.
+
+WNT4_PULL_SELF_1 = ~z~~sl:4.8~Thanks for helping, Arthur... really appreciate that.
+
+WNT4_RALLY_01 = ~z~You and me, big man.
+
+WNT4_RALLY_02 = ~z~Let's go.
+
+WNT4_RUNREM_01 = ~z~Get away from there!
+
+WNT4_RUNREM_02 = ~z~What are you doing, Arthur? Move!
+
+WNT4_RUN_01 = ~z~Go, go!
+
+WNT4_RUN_02 = ~z~Come on! I thought you were going!
+
+WNT4_RUN_03 = ~z~Now, Arthur!
+
+WNT4_SAVE_01 = ~z~~sl:1.0:0.0~Help!
+
+WNT4_SAVE_02 = ~z~Shoot him, damn it!
+
+WNT4_SAVE_03 = ~z~~sl:0.3:0.0~Get him off me!
+
+WNT4_SEE_BOX_1 = ~z~Now this looks like something...
+
+WNT4_SETSOFF_01 = ~z~Everyone ready? Alright, let's head out.
+
+WNT4_SETSOFF_02 = ~z~Alright, we're moving out. Follow me!
+
+WNT4_SPOOL_01 = ~z~What's taking so long?
+
+WNT4_SPOOL_02 = ~z~We should get a move on here.
+
+WNT4_SPOOL_03 = ~z~Train'll have been and gone if you don't hurry up.
+
+WNT4_SPOTGANG_1 = ~z~Hey! There's the other boys.
+
+WNT4_STOP2_1 = ~z~If we don't stop this train soon, the other boys'll never catch us.
+
+WNT4_STOP2_2 = ~z~I know, just stay calm.
+
+WNT4_STOP_1 = ~z~We gotta hurry! W-we have to stop this train!
+
+WNT4_STOP_2 = ~z~That's what we're doing, kid.
+
+WNT4_TIMELAPSE_1 = ~z~It's been a bad few weeks, but...
+
+WNT4_TIMELAPSE_2 = ~z~Dutch being Dutch, he is busy making plans and...
+
+WNT4_TIMELAPSE_3 = ~z~Dutch being Dutch, those plans involve robbery and dreams.
+
+WNT4_UPTOP_1 = ~z~Watch out! There's some shooters up top!
+
+WNT4_WHERE_1 = ~z~Where the hell are the others?
+
+WNT4_WHERE_2 = ~z~I don't know!
+

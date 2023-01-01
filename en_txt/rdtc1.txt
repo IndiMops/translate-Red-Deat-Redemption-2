@@ -1,0 +1,98 @@
+0x0265946C = Subdue the ~o~bolting horse~s~
+
+0x1C9AA7F0 = Settler's wagon was destroyed.
+
+0x2FF8734F = Approach the ~o~captive settler~s~
+
+0x6F1C80C8 = Aim a gun at a settler to threaten them.
+
+0x8EFB2661 = Follow ~f~Charles
+
+0x9679EB15 = Talk to ~f~Dutch~s~
+
+0x79946DB8 = Dutch
+
+0xAF1E96F7 = Your horse has died.
+
+0xC0DB4A2B = Approach the ~o~settler~s~
+
+0xE0076A98 = Mount your ~f~horse~s~
+
+0xF0EB45AA = Head to the ~o~settler's camp ~s~at Clements Point
+
+DCH1_INS01 = Ride to ~o~Dewberry Creek~s~
+
+DCH1_INS02 = Search ~o~Dewberry Creek~s~ for any inhabitants
+
+DCH1_INS03 = Investigate the ~o~body~s~
+
+DCH1_INS04 = Search the ~o~camp
+
+DCH1_MNT = Mount your ~o~horse~s~
+
+DCH1_SRCH = Search Crates
+
+DCH11_GRT = Greet
+
+DUTCH11_ATTACKED = Defend against the ~e~attackers~s~
+
+DUTCH11_FA01 = Charles was abandoned.
+
+DUTCH11_FCR = The creek was abandoned.
+
+DUTCH11_GO_CHARLES = Follow ~o~Charles~s~
+
+DUTCH11_GO_UNTIE = Free the ~o~captive settler~s~
+
+DUTCH11_H_TRK = ~s~Press ~INPUT_SPECIAL_ABILITY~ and ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ to view the tracks.~s~
+
+DUTCH11_H_TRK_KM = ~s~Press ~INPUT_SPECIAL_ABILITY~ to view the tracks.~s~
+
+DUTCH11_LOOK_HOSTAGE = Search the ~o~camp ~s~for the settler
+
+DUTCH11_OBJ = Tell ~q~Charles~s~ to follow you to Clemens Point
+
+DUTCH11_RE = Return to ~o~Charles~s~
+
+DUTCH11_REBO = Return to the ~o~body
+
+DUTCH11_RECR = Return to the ~o~creek
+
+DUTCH11_REH = Return to your ~o~horse~s~
+
+DUTCH11_RESE = Return to the ~o~settler~s~
+
+DUTCH11_RETURN = Return the settler to his ~o~family~s~
+
+DUTCH11_RET_OBJ = Return to the ~o~camp
+
+DUTCH11_RE_HOSTAGE = Return to the ~o~captive settler~s~
+
+DUTCH11_SPACE = Remove carried items slung over the back of your horse to let passengers mount with you.
+
+DUTCH12_OBJ = Follow ~f~Dutch~s~
+
+RDTC1F_ABDCMP = The camp was abandoned.
+
+RDTC1F_ABDSET = The settler was abandoned.
+
+RDTC1F_CHLSDEAD = Charles has died.
+
+RDTC1F_CHLSHRS = Charles' horse has died.
+
+RDTC1F_DTCHDEAD = Dutch has died.
+
+RDTC1F_FACAMP = The camp was attacked.
+
+RDTC1F_FAMAGGR = The family was aggravated.
+
+RDTC1F_FAMDEAD = The family was attacked.
+
+RDTC1F_HRS = Your horse was abandoned.
+
+RDTC1F_HSTGATTK = The settler was attacked.
+
+RDTC1F_HSTGDEAD = The settler has died.
+
+RDTC1F_LAW = You alerted the law.
+

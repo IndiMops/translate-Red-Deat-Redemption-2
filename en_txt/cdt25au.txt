@@ -1,0 +1,20 @@
+CDT25_ACTA_1 = ~z~~sl:6.5~Still reading I see?
+
+CDT25_ACTA_2 = ~z~Yes. I'm done working.
+
+CDT25_ACTA_3 = ~z~~sl:0.0:5.0:1~I'm not Miss Grimshaw. I know you work hard.
+
+CDT25_ACTA_4 = ~z~~sl:0.0:1.2~There is...~sl:2.5~there is something about you, Mary-Beth.
+
+CDT25_ACTA_5 = ~z~There really is.
+
+CDT25_ACTA_6 = ~z~Thank you.
+
+CDT25_ACTBALT_1 = ~z~Quite a lady she's becoming.
+
+CDT25_ACTBALT_2 = ~z~Really... quite something.
+
+CDT25_ACTB_1 = ~z~Really... quite something.
+
+CDT25_ACTB_2 = ~z~
+

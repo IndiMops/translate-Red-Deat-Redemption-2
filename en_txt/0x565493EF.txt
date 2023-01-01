@@ -1,0 +1,44 @@
+0x3A08304D = ~z~You there?
+
+0x3ADE3439 = ~z~~sl:0.0:3.5~He's up in Big Valley! My boss, that's who you're after, right?~sl:0.5~He's getting a train out east! Just... just don't kill me, please!
+
+0x3CCFA82D = ~z~There! Guards! What're you waiting for, kill them!
+
+0x3D5D0090 = ~z~What the hell was that? Go, go, go, get over there!
+
+0x6A5B0D3C = ~z~Please... ~rp~Don't hand me over to those savages!
+
+0x73E52050 = ~z~~sl:0.0:2.8~However much Bronte is paying you, I'll double it!~sl:~~rp~I'll triple it! ~rp~Just name your price!
+
+0x93F844D2 = ~z~There! That must be them!
+
+0x572BEA94 = ~z~Hello?
+
+0x29730F23 = ~z~Tommy?
+
+0x35953710 = ~z~No! I-I don't wanna die! This is all a terrible mistake...
+
+0xA371FF69 = ~z~~sl:0.0:2.0~This is all because of the Capitale, isn't it?~sl:0.6:2.5~~rp~Look, I swear, I won't touch it again!~sl:0.4~~rp~I won't have anything to do with it! ~rp~Please!
+
+0xBB2DCFAB = ~z~Hey! Come back! I'm right here! Where're you going?
+
+0xBF2D50A2 = ~z~Who the hell is this? Fellers, we got trouble here!
+
+0xC33BE952 = ~z~~sl:0.0:0.6~Hello?~sl:1.3:0.6~Tommy?~sl:1.5~You there?
+
+0xC9086B60 = ~z~That it? You just gonna leave your buddy here? Huh?
+
+0xDDAD94A2 = ~z~Yeah, how d'you like that, you filthy mutt!
+
+0xE3D8217B = ~z~~sl:0.0:3.2~Well, well! You must be our little saboteur!~sl:0.4:1.4~Too late, I'm afraid!~sl:1.1~So long! Regards to Mr. Martelli!
+
+0xEBF02AA6 = ~z~Oh hell! Get away from me!
+
+0xEBF3312D = ~z~~sl:0.0:2.5~Come on, you mangy goddamn pups!~sl:0.8~I got enough bullets for all of ya!
+
+0xEEC96C79 = ~z~Ah shit! You goddamn bandits sure pick your moments!
+
+0xF9BF2EEC = ~z~Shit! Wolves! Go, go, go!
+
+0xFB068280 = ~z~~sl:0.0:3.2~You're the one aren't you? Who's been coming after us?~sl:~Please... don't kill me!
+

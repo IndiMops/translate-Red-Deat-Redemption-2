@@ -1,0 +1,16 @@
+CHCL1_ACTION_1 = ~z~So... what do you think?
+
+CHCL1_ACTION_2 = ~z~What do you mean?
+
+CHCL1_ACTION_3 = ~z~About those two families... the rich ones in the big houses.
+
+CHCL1_ACTION_4 = ~z~I don't know...
+
+CHCL1_ACTION_5 = ~z~Go have a look around... see what you can find out. Calmly, I mean.
+
+CHCL1_ACTION_6 = ~z~Sure.
+
+CHCL1_ACTION_7 = ~z~Dutch and I... we both think there's money to be made.
+
+CHCL1_ACTION_8 = ~z~I hope so. I'll see what I can find out.
+

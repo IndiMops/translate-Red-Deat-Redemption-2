@@ -1,0 +1,56 @@
+BLW_REBNT_GRTJA_1 = ~z~Bounty here for you.
+
+BLW_REBNT_GRTJA_2 = ~z~Good work. Put him in a cell if you don't mind. I'll see to your payment.
+
+BLW_REBNT_GRTJB_1 = ~z~Got someone you want here.
+
+BLW_REBNT_GRTJB_2 = ~z~This one was a handful, I imagine? Drop him in a cell and I'll get your reward together.
+
+JFIN_BW_1 = ~z~~sl:0.0:3.8~You should know, there has been a cessation in the issuance of bounties~sl:0.0:3.8~in Blackwater... apparently, we have the budget to build a city,~sl:0.3~but not to protect one.
+
+JFRT_BW_01 = ~z~I was wondering if you were gonna come back for this. It's all there.
+
+JFRT_BW_02 = ~z~The money's right there where you left it. Every cent.
+
+JMRE_BW_01 = ~z~You're making an old chief's life a little easier, you know. How bout coming back in while, picking up another poster?
+
+JMRE_BW_02 = ~z~You don't go after these bounties, I'm gonna have to. There's another poster going to be up right quick. Come back for it.
+
+JMRE_BW_03 = ~z~You come back soon, you'll find another poster on that wall. This fledgling community needs your kind.
+
+JPAY_BWJ_01 = ~z~I'll take it.
+
+JPAY_BWJ_02 = ~z~It's only fair.
+
+JPAY_BWJ_03 = ~z~Honest work for honest pay.
+
+JRAL_BW0_01 = ~z~Put 'em in a cell and we'll talk about compensation.
+
+JRAL_BW0_02 = ~z~Alright, march them into a cell there and we'll settle up.
+
+JRAL_BW0_03 = ~z~Just stick 'em in a cell there and I'll organize your payment.
+
+JRAL_BW1_01 = ~z~We got no business unless they're in a cell, friend.
+
+JRAL_BW1_02 = ~z~What're you waiting for? Get 'em in a cell and then I can pay you.
+
+JRAL_BW1_03 = ~z~I ain't going to live forever. Could you put them in cell please.
+
+JRDE_BW0_01 = ~z~You want to be paid, you'll have to take 'em outside.
+
+JRDE_BW0_02 = ~z~I'm too old to drag that body out. Dump it for me, I'll get your pay.
+
+JRDE_BW0_03 = ~z~You're a bounty hunter, not an undertaker. Take 'em outside.
+
+JRDE_BW1_01 = ~z~Stop fooling and get 'em out.
+
+JRDE_BW1_02 = ~z~Please... the bodies go outside.
+
+JRDE_BW1_03 = ~z~You're testing an old man's patience, take it out.
+
+JRPY_BW_01 = ~z~Hey, you forgot your reward, friend!
+
+JRPY_BW_02 = ~z~Your money's right here, don't go forgetting it!
+
+JRPY_BW_03 = ~z~Hey, but what about your payment?
+

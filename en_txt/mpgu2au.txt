@@ -1,0 +1,494 @@
+MPGU2_BEFMON_01 = ~z~Where's Montez?
+
+MPGU2_BEFMON_02 = ~z~I hope he's coming.
+
+MPGU2_BEFMON_03 = ~z~He better be here soon.
+
+MPGU2_CORNER_1 = ~z~~sl:0.0:1.5~You think you're good...~sl:~killing some drunken fools for the law?
+
+MPGU2_CORNER_2 = ~z~One of these days they'll come for you.
+
+MPGU2_CORNER_3 = ~z~Fuck your mothers!
+
+MPGU2_CORNER_4 = ~z~Come at me, then.
+
+MPGU2_DCLOSESHOUTED_2 = ~z~~sl:0.0:1.9~Do not fraternize with the prisoner.~sl:~~rp~He has heard all we've got to say, believe me.
+
+MPGU2_DCLOSESPOKEN_2 = ~z~~sl:0.0:1.7~Do not fraternize with the prisoner.~sl:~~rp~He has heard all we've got to say, believe me.
+
+MPGU2_DCLOSE_1 = ~z~Your silence might just be a virtue.
+
+MPGU2_DONTKILL_01 = ~z~Hey, you might hit him.
+
+MPGU2_DONTKILL_02 = ~z~Look out for Montez.
+
+MPGU2_DONTKILL_03 = ~z~Hey, we can't hang Alfredo if he's dead already.
+
+MPGU2_DONTKILL_04 = ~z~You put a bullet in Montez, there'll be trouble.
+
+MPGU2_DRSHOUT_01 = ~z~Vamos!
+
+MPGU2_DRSHOUT_02 = ~z~Vamos!
+
+MPGU2_DRSHOUT_03 = ~z~Come on.
+
+MPGU2_DRSHOUT_04 = ~z~Faster!
+
+MPGU2_DRSHOUT_05 = ~z~Get away from these putas.
+
+MPGU2_DRSHOUT_06 = ~z~Go. Andale!
+
+MPGU2_DRSHOUT_07 = ~z~Arriba!
+
+MPGU2_DRUN1_1 = ~z~There he goes, he's running.
+
+MPGU2_DRUN1_2 = ~z~Hey, somebody chase that son of a bitch down!
+
+MPGU2_DRUN2_01 = ~z~Get him.
+
+MPGU2_DRUN2_02 = ~z~Get a rope around him.
+
+MPGU2_DRUN2_03 = ~z~Rope that bastard.
+
+MPGU2_FOLLOW_01 = ~z~Follow me, come on.
+
+MPGU2_FOLLOW_02 = ~z~You're on me.
+
+MPGU2_GAWAY_01 = ~z~They're getting away.
+
+MPGU2_GAWAY_02 = ~z~We're losing 'em.
+
+MPGU2_GAWAY_03 = ~z~After them, come on!
+
+MPGU2_GAWAY_04 = ~z~He will not escape me now. Get after them!
+
+MPGU2_IG2_P1_1 = ~z~~sl:0.0:0.8~There y'are.~sl:1.3~Come along.
+
+MPGU2_IG2_P2_1 = ~z~That wasn't Montez...
+
+MPGU2_INSTRUCT_1 = ~z~Looks like we got him. Okay.
+
+MPGU2_INSTRUCT_2 = ~z~~sl:0.0:2.4~Put him on a horse, and let's all get to Emerald Ranch.~sl:~I can take him from there.
+
+MPGU2_JUSTSEEN_1 = ~z~~sl:0.0:3.0~He was just seen on the road in the country,~sl:~with some of his boys.
+
+MPGU2_JUSTSEEN_2 = ~z~We can get him.
+
+MPGU2_JUSTSEEN_3 = ~z~This is it, Montez.
+
+MPGU2_KILLEDM_01 = ~z~Dammit, he's dead.
+
+MPGU2_KILLEDM_02 = ~z~You killed him!
+
+MPGU2_LETSRIDE_1 = ~z~Justice will be mine.
+
+MPGU2_LETSRIDE_2 = ~z~Let's ride!
+
+MPGU2_LOSING_01 = ~z~We're losing 'em.
+
+MPGU2_LOSING_02 = ~z~He's getting away.
+
+MPGU2_LOSING_03 = ~z~This ain't going well.
+
+MPGU2_LOSING_04 = ~z~He's about to get away.
+
+MPGU2_LOSING_05 = ~z~We got to move quicker.
+
+MPGU2_LOST_01 = ~z~We lost him!
+
+MPGU2_LOST_02 = ~z~Dammit, he's gone.
+
+MPGU2_MHORSEA1_1 = ~z~Follow me.
+
+MPGU2_MHORSEA2_1 = ~z~I'll take up the rear.
+
+MPGU2_MHORSE_1 = ~z~Come on.
+
+MPGU2_MONARRIV2_01 = ~z~Bring him over here.
+
+MPGU2_MONARRIV2_02 = ~z~Come on, I'll take him.
+
+MPGU2_MONARRIV2_03 = ~z~Over here.
+
+MPGU2_MONARRIV_1 = ~z~There's the prisoner.
+
+MPGU2_MONARRIV_2 = ~z~Ain't justice sweet?
+
+MPGU2_MONBACK_1 = ~z~~sl:0.2~He's mister Marshal, uh... Tomas Davies, right?
+
+MPGU2_MONBACK_2 = ~z~Yeah, I know him. I know all of you.
+
+MPGU2_MONBACK_3 = ~z~You killed my brother.
+
+MPGU2_MONBACK_4 = ~z~Just try and take my head, okay?
+
+MPGU2_MONBACK_5 = ~z~I'll take the marshal's other eye and both of yours.
+
+MPGU2_MONBACK_6 = ~z~I'll burn your house down and fuck your mothers.
+
+MPGU2_MONBACK_7 = ~z~~sl:0.0:3.3~Putas... all of you. You think you're so good.~sl:~You think you're so righteous. It don't mean nothing!
+
+MPGU2_MONBACK_8 = ~z~
+
+MPGU2_MONBACK_9 = ~t~In Spanish: Bastards!
+
+MPGU2_MONBACK_10 = ~t~In Spanish: Dammit!
+
+MPGU2_MONBACK_11 = ~z~Up your asses.
+
+MPGU2_MONDEST_1 = ~z~The marshal. He's after me, quick.
+
+MPGU2_MONTEZ_01 = ~z~Alfredo Montez!
+
+MPGU2_MONTEZ_02 = ~z~Don't run away from me, Montez.
+
+MPGU2_MONTEZ_03 = ~z~Montez, we killed your brother, we're here for you!
+
+MPGU2_MONTEZ_04 = ~z~~sl:0.0:2.9~We got a warrant for Alfredo Montez.~sl:0.0:~The rest of you can leave. Leave, or die.
+
+MPGU2_MOUNT_01 = ~z~Get back on your horse.
+
+MPGU2_MOUNT_02 = ~z~Mount up. We don't have time to lose.
+
+MPGU2_MOUNT_03 = ~z~Mount up, while the trail's still hot.
+
+MPGU2_MRUN_01 = ~z~Where are my men?
+
+MPGU2_MRUN_02 = ~z~~sl:0.7~In Spanish: Dammit!
+
+MPGU2_MRUN_03 = ~t~Try and get me.
+
+MPGU2_MRUN_04 = ~z~Ay...
+
+MPGU2_MRUN_05 = ~z~
+
+MPGU2_MRUN_06 = ~z~
+
+MPGU2_MRUN_07 = ~z~You'll pay for this.
+
+MPGU2_MTZHT1_01 = ~z~Get your hands off me.
+
+MPGU2_MTZHT1_02 = ~z~Carajo, take your hands off me!
+
+MPGU2_SHTDR_1 = ~z~Carajo, you idiot.
+
+MPGU2_SHTDR_2 = ~z~What the hell?
+
+MPGU2_STARTRUN_01 = ~z~You ain't taking my head.
+
+MPGU2_STARTRUN_02 = ~z~You ain't catching me.
+
+MPGU2_TIEDUP_01 = ~z~
+
+MPGU2_TIEDUP_02 = ~z~You'll pay.
+
+MPGU2_TIEDUP_03 = ~z~~sl:0.7~Dead, all of you.
+
+MPGU2_TIEDUP_04 = ~z~In Spanish: Motherfuckers.
+
+MPGU2_TIEDUP_05 = ~z~
+
+MPGU2_VHT1_1 = ~z~Hey, I'm going to go find that old lady...
+
+MPGU2_VHT1_2 = ~z~~sl:0.0:1.7~and tell her I'm gonna shoot her...~sl:~if she doesn't make you a meal.
+
+MPGU2_VHT1_3 = ~z~You all got to sober up.
+
+MPGU2_VHT2_1 = ~z~~sl:0.0:2.3~You wonder why these raids don't work?~sl:~Back in that saloon is why.
+
+MPGU2_VHT2_2 = ~z~We should be robbing, not drinking.
+
+MPGU2_VHT2_3 = ~z~~sl:0.0:2.0~I bet Jorge's head was half pickled...~sl:0.3~before they even cut it off.
+
+MPGU2_VHT3_1 = ~z~I got this, okay? I'll see you later.
+
+MPGU2_VHT4_1 = ~z~I hope you men are sober... some of us should be if we want to last a day in this hell hole...
+
+MPGU2_VHT4_2 = ~z~
+
+MPGU2_VHT4_3 = ~z~That old lady still in there?
+
+MPGU2_VHT4_4 = ~z~
+
+MPGU2_VHT4_5 = ~z~Okay. I got a job for her.
+
+MPGU2_VHTA_01 = ~z~Carajo... shit.
+
+MPGU2_VHTA_02 = ~z~We're about to get fucked!
+
+MPGU2_VHTPM_01 = ~z~Stop them, you drunk fools!
+
+MPGU2_VHTPM_02 = ~z~Kill these putas!
+
+MPGU2_VHTPM_03 = ~z~Don't be idiots, kill them!
+
+MPGU2_VHTPM_04 = ~z~It's the ones who killed little Montez.
+
+MPGU2_VHTPM_05 = ~z~Look out! Look out, okay?
+
+MPGU2_VHTPM_06 = ~z~Fight, you bastards!
+
+MPGU2_VHTPM_07 = ~z~Fight, goddamn you.
+
+MPGU2_VHTPM_08 = ~z~Get on top of this! Come on.
+
+MPGU2_VHTPM_09 = ~z~~sl:0.6~Useless pricks!
+
+MPGU2_VHTSAL_1 = ~z~~sl:0.0:1.6~Hey, hey...~sl:0.4~it's chaos in here without this bar lady.
+
+MPGU2_VHTSAL_2 = ~z~~sl:0.0:1.7~You fools are gonna drink them dry~sl:~if you don't smash every bottle first.
+
+MPGU2_VHTSAL_3 = ~z~I never been so happy they watered down the liquor.
+
+MPGU2_VHTSAL_4 = ~z~That were real booze...
+
+MPGU2_VHTSAL_5 = ~z~you'd be rolling in the street before you met Montez.
+
+MPGU2_WAGON1_01 = ~z~He's in that coach, take out the driver.
+
+MPGU2_WAGON1_02 = ~z~Montez is in the coach, we need to stop it.
+
+MPGU2_WAGON2_01 = ~z~Stop the coach.
+
+MPGU2_WAGON2_02 = ~z~Stop him.
+
+MPGU2_WAGON2_03 = ~z~He's in the back of it, alright.
+
+MPGU2_WAGON2_04 = ~z~Let's get Montez out that coach.
+
+MPGU2_WAGO_1 = ~z~I'm falling back! Hold them here!
+
+MPGU2_WAGO_2 = ~z~Cover my retreat!
+
+MPGU2_WAT1_1 = ~z~~sl:0.0:2.6~Relax, okay? Tranquillo.~sl:0.5~No one's going to come and take your heads away.
+
+MPGU2_WAT1_2 = ~z~Jorge was a drunk. We're smarter than he was.
+
+MPGU2_WAT1_3 = ~z~~sl:0.0:1.5~We ain't going to let some~sl:~deer-shit stinking marshal tracker get the jump on us.
+
+MPGU2_WAT1_4 = ~z~~sl:0.0:0.6~Hey!~sl:1.5~You see that in the chaparral?
+
+MPGU2_WAT1_5 = ~z~~sl:0.0:2.1:1~It's... it's the headless horseman!
+
+MPGU2_WAT1_6 = ~z~You idiots. They want Alfredo Montez, not us.
+
+MPGU2_WAT4_01 = ~z~Don't you come near me!
+
+MPGU2_WAT4_02 = ~z~Come any closer, you're dead.
+
+MPGU2_WAT4_03 = ~z~I ain't like the others.
+
+MPGU2_WAT4_04 = ~z~You want Montez, not me.
+
+MPGU2_WATA2_1 = ~z~Someone's here, this ain't a joke!
+
+MPGU2_WATA2_2 = ~z~Shit, they're after us!  Look out.
+
+MPGU2_WATA3_01 = ~z~They aren't going to get us.
+
+MPGU2_WATA3_02 = ~z~Hold them back.
+
+MPGU2_WATA3_03 = ~z~Get them!
+
+MPGU2_WATA3_04 = ~z~Come on,
+
+MPGU2_WATA3_05 = ~z~Everyone, up! This is an attack.
+
+MPGU2_WRONG_01 = ~z~What are you doing?
+
+MPGU2_WRONG_02 = ~z~The hell are you doing?
+
+MPGU2_WRONG_03 = ~z~What is the plan here ,exactly?
+
+MPGU2_WRONG_04 = ~z~Goddamn, we got to get after him.
+
+MPGUN2_EXT_1 = ~z~Alfredo Montez...
+
+MPGUN2_EXT_2 = ~z~it's been quite a time chasing you, my friend.
+
+MPGUN2_EXT_3 = ~z~I know you.
+
+MPGUN2_EXT_4 = ~z~I will kill you.
+
+MPGUN2_EXT_5 = ~z~I think that's unlikely.
+
+MPGUN2_EXT_6 = ~z~A whole lot more likely is you're gonna...
+
+MPGUN2_EXT_7 = ~z~have your neck broken.
+
+MPGUN2_EXT_8 = ~z~While these folks here watch and laugh and...
+
+MPGUN2_EXT_9 = ~z~say what a nasty bastard you were.
+
+MPGUN2_EXT_10 = ~z~We shall see.
+
+MPGUN2_EXT_11 = ~z~A thousand dollars to whoever sets me free.
+
+MPGUN2_EXT_12 = ~z~Well these folks here have something money can't buy...
+
+MPGUN2_EXT_13 = ~z~honor...
+
+MPGUN2_EXT_14 = ~z~dignity...
+
+MPGUN2_EXT_15 = ~z~and a sense that not everything is for sale.
+
+MPGUN2_EXT_16 = ~z~Then they are as foolish as you.
+
+MPGUN2_EXT_17 = ~z~That they are.
+
+MPGUN2_EXT_18 = ~z~But they're still getting paid a fair price...
+
+MPGUN2_EXT_19 = ~z~for a job well done.
+
+MPGUN2_INT_1 = ~z~There you are.
+
+MPGUN2_INT_2 = ~z~Look, I'm a marshal...
+
+MPGUN2_INT_3 = ~z~so my jurisdiction ends at the city limits...
+
+MPGUN2_INT_4 = ~z~even if the town in question is a no good dump like Van Horn.
+
+MPGUN2_INT_5 = ~z~I go in there, I got even less rights than you do...
+
+MPGUN2_INT_6 = ~z~any decent hoodlum knows that.
+
+MPGUN2_INT_7 = ~z~Montez is in there...
+
+MPGUN2_INT_8 = ~z~at least, I think he is.
+
+MPGUN2_INT_9 = ~z~Or some of his boys are in there, so...
+
+MPGUN2_INT_10 = ~z~He's in there, mister Marshal, like I told ya.
+
+MPGUN2_INT_11 = ~z~This is Josie Dawson.
+
+MPGUN2_INT_12 = ~z~He's in there, or his boys are.
+
+MPGUN2_INT_13 = ~z~Holed up in my saloon.
+
+MPGUN2_INT_14 = ~z~We'll get your saloon back, or...
+
+MPGUN2_INT_15 = ~z~they will.
+
+MPGUN2_INT_16 = ~z~Thank you kindly.
+
+MPGUN2_INT_17 = ~z~Now, the others said there'll be more coming down from up north.
+
+MPGUN2_INT_18 = ~z~They's talking about some folks killed Jorge Montez.
+
+MPGUN2_INT_19 = ~z~Now you go...
+
+MPGUN2_INT_20 = ~z~Well that was us.
+
+MPGUN2_INT_21 = ~z~You go see if you can find the bastard...
+
+MPGUN2_INT_22 = ~z~or kill some of his men as they head into town.
+
+MPGUN2_INT_23 = ~z~Do both...
+
+MPGUN2_INT_24 = ~z~just don't get caught by any law.
+
+MPGUN2_INT_25 = ~z~What you're doing is highly illegal...
+
+MPGUN2_INT_26 = ~z~highly moral, too.
+
+MPGUN2_INT_27 = ~z~So in my book, it's okay.
+
+MPGUN2_INT_28 = ~z~I just can't do it myself.
+
+MPGUN2_INT_29 = ~z~Good luck.
+
+MPGUN2_INT_30 = ~z~Well, I made some food if you're hungry.
+
+MPGUN2_INT_31 = ~z~Oh, yes, ma'am. That would be mighty fine.
+
+MPGUN2_INT_32 = ~z~Oh, hey.
+
+MPGUN2_INT_33 = ~z~I heard from your friend Mr. Horley.
+
+MPGUN2_INT_34 = ~z~He said his mistress really needs something...
+
+MPGUN2_INT_35 = ~z~and wanted me to remind you to meet him south of Armadillo.
+
+MPGUN2_INT_36 = ~z~He said that would make sense to you.
+
+MPGUN2_INT_37 = ~z~Anyway, you should get going.
+
+MPGUN2_INT_38 = ~z~Well, I made some food if you're hungry.
+
+MPGUN2_INT_39 = ~z~Oh, yes, ma'am. That would be mighty fine.
+
+MPGUN2_INT_40 = ~z~Oh, hey.
+
+MPGUN2_INT_41 = ~z~I heard from your friend Mr. Horley.
+
+MPGUN2_INT_42 = ~z~He said thank you for helping his mistress.
+
+MPGUN2_INT_43 = ~z~She and he are very grateful.
+
+MPGUN2_INT_44 = ~z~Anyway, you should get going.
+
+MPGUN2_KNOCK1_1 = ~z~Hey, old lady. Old lady, you in there?
+
+MPGUN2_KNOCK1_2 = ~z~~sl:0.0:2.2~We ain't going to hurt you, or rob you, even...~sl:0.3~or, maybe we'll rob you a little.
+
+MPGUN2_KNOCK1_3 = ~z~You got food in there?  Rice and beans? Jerky?
+
+MPGUN2_KNOCK1_4 = ~z~~sl:0.0:2.8~I need you to make up a pot... for about twenty.~sl:0.2~You can do that, right?
+
+MPGUN2_KNOCK2_1 = ~z~Cause if you can't, it might get real nasty for you.
+
+MPGUN2_KNOCK2_2 = ~z~My men get mean when they're hungry.
+
+MPGUN2_KNOCK2_3 = ~z~Old lady. Old lady! You better be cooking.
+
+MPGUN2_KNOCK2_4 = ~z~Hey, come on. Speak to me.
+
+MPGUN2_KNOCK3_1 = ~z~Just a big pot of beans... it ain't worth dying over.
+
+MPGUN2_KNOCK4_1 = ~z~Puta.
+
+MPGUN2_TDBANTSHOUTED_1 = ~z~You deal with those men okay? ~rp~I'll bet you did.
+
+MPGUN2_TDBANTSHOUTED_2 = ~z~~sl:0.0:2.1~I guess we returned the city of Van Horn~sl:~to the bunch of degenerates that call it home.
+
+MPGUN2_TDBANTSHOUTED_3 = ~z~~sl:0.0:2.0~Doesn't matter that it weren't Montez.~sl:0.0:1.9~~rp~They was almost as bad as him,~sl:~and deserving of what they got.
+
+MPGUN2_TDBANTSHOUTED_4 = ~z~~sl:0.0:3.4:1~When we're done, he won't have a friend left in three states.
+
+MPGUN2_TDBANTSHOUTED_5 = ~z~~sl:0.0:2.0~Yeah, this is a job like any other.~sl:0.3~~rp~But I ain't gonna pretend to you that I don't enjoy aspects of it.
+
+MPGUN2_TDBANTSHOUTED_6 = ~z~~sl:0.0:3.7~Alfredo Montez is a right proper bastard.~sl:0.1:2.7~~rp~You met his men,~rp~ you certainly met his brother.~sl:0.1~He's a damn sight worse.
+
+MPGUN2_TDBANTSHOUTED_8 = ~z~~sl:0.0:3.1~First off, Montez survives this.~sl:0.0:1.4~~rp~We get a rope around his hands,~sl:~and put him on the back of a horse.
+
+MPGUN2_TDBANTSHOUTED_9 = ~z~~sl:0.0:2.7~Second off... his people don't.~sl:0.2:1.9~~rp~ The warrant says we need one man~sl:~on the gallows at Tumbleweed.~rp~ One will suffice.
+
+MPGUN2_TDBANTSHOUTED_10 = ~z~~sl:0.0:2.7~And thirdly, that's all there is to say.~sl:0.5:2.3~~rp~Hit them hard and make it ugly.~sl:0.0:2.1:1~~rp~We sure as hell want to leave a mark.
+
+MPGUN2_TDBANTSPOKEN_1 = ~z~~sl:0.0:1.5~You deal with those men okay?~sl:0.6~~rp~I bet you did.
+
+MPGUN2_TDBANTSPOKEN_2 = ~z~~sl:0.0:1.8~Guess we returned the city of Van Horn~sl:0.0:2.2:1~to the bunch of degenerates that call it home.
+
+MPGUN2_TDBANTSPOKEN_3 = ~z~~sl:0.0:1.9~Don't matter that it weren't Montez.~sl:0.4:1.7~~rp~They was almost as bad as him,~sl:~and deserving of what they got.
+
+MPGUN2_TDBANTSPOKEN_4 = ~z~~sl:0.0:2.7:1~When we're done, he won't have a friend left in three states.
+
+MPGUN2_TDBANTSPOKEN_5 = ~z~~sl:0.0:2.4~This is a job like any other, but...~sl:~~rp~I ain't gonna pretend to you that I don't enjoy aspects of it.
+
+MPGUN2_TDBANTSPOKEN_6 = ~z~~sl:0.0:3.8~Alfredo Montez is a right proper bastard.~sl:0.0:2.9~~rp~You met his men...~rp~ you certainly met his brother...~sl:0.5~he's a damn sight worse.
+
+MPGUN2_TDBANTSPOKEN_8 = ~z~~sl:0.0:3.1~First off, Montez survives this.~sl:0.2:1.5~~rp~We get a rope around his hands,~sl:~we put him on the back of a horse.
+
+MPGUN2_TDBANTSPOKEN_9 = ~z~~sl:0.0:2.7~Second off, his people don't.~sl:0.2:1.8~~rp~The warrant says we need one man~sl:~on the gallows at Tumbleweed. ~rp~One will suffice.
+
+MPGUN2_TDBANTSPOKEN_10 = ~z~~sl:0.0:3.0~And thirdly... that's all there is to say.~sl:0.1:2.5~~rp~Hit them hard and make it ugly.~sl:0.0:1.6:1~~rp~We sure as hell want to leave a mark.
+
+MPGUN2_TDBANT_7 = ~z~Today, we're gonna make sure he gets his due.
+
+MPGUN2_TDCONV_1 = ~z~That has to be them, up ahead.
+
+MPGUN2_TDCONV_2 = ~z~Remember, Montez survives. ~rp~The rest don't.
+
+MPGUN2_TDCONV_3 = ~z~Let's take this caravan.
+

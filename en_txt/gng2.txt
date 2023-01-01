@@ -1,0 +1,70 @@
+0xDF273F6E = You failed to pick up Sadie in time.
+
+GNG2_FAIL_ALE = The guards were alerted.
+
+GNG2_FAIL_CSH = The balloon crashed.
+
+GNG2_FAIL_LOW = Failed to maintain altitude.
+
+GNG2_FAIL_PLTD = The pilot was killed.
+
+GNG2_FAIL_PLTS = You scared the pilot.
+
+GNG2_FAIL_SAD = Sadie was abandoned.
+
+GNG2_FAIL_SH = Sadie's horse died.
+
+GNG2_FAIL_WTR = The balloon crashed into the water.
+
+GNG2_HLP_BAL0 = The Ascend prompt ~INPUT_VEH_FLY_THROTTLE_UP~ shows your current altitude as it fills. The yellow marker shows the desired altitude.
+
+GNG2_HLP_BAL1 = The Ascend prompt will turn red if you are too high. Release ~INPUT_VEH_FLY_THROTTLE_UP~ to descend to the desired altitude.
+
+GNG2_HLP_BAL2 = The Ascend prompt will flash when you are too low. Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to ascend to the desired altitude.
+
+GNG2_HLP_BAL3 = You are at the altitude with best wind flow. Remain at this altitude to keep your speed up.
+
+GNG2_HLP_BAL4 = The hot air balloon will descend while you are not holding ~INPUT_VEH_FLY_THROTTLE_UP~.
+
+GNG2_MG_LIFT = Lift
+
+GNG2_MG_PULL = Grab
+
+GNG2_MG_ROPE = Rope
+
+GNG2_OBJ_ASC = Use ~INPUT_VEH_FLY_THROTTLE_UP~ to ascend to the desired altitude
+
+GNG2_OBJ_BC = Help ~o~Sadie~s~ into the Hot Air Balloon
+
+GNG2_OBJ_DSC = Descend to ~o~Sisika Penitentiary~s~
+
+GNG2_OBJ_FTA = Escape the ~e~law~s~
+
+GNG2_OBJ_FTPI = Fly to ~o~Sisika Penitentiary~s~
+
+GNG2_OBJ_GS = Go to ~o~Sadie~s~
+
+GNG2_OBJ_IP = Use the binoculars to identify the ~o~prisoner~s~
+
+GNG2_OBJ_LJ = Use the binoculars to search the ~o~fields~s~ for John
+
+GNG2_OBJ_MH = Mount your ~o~horse~s~
+
+GNG2_OBJ_PS = Take out the ~e~O'Driscolls~s~
+
+GNG2_OBJ_RS = Return to ~o~Sadie~s~
+
+GNG2_OBJ_RTB = Follow ~o~Sadie~s~
+
+GNG2_OBJ_SCR = Use the rope to pick up ~o~Sadie~s~
+
+GNG2_OBJ_SPC = Take out the pursuing ~e~O'Driscolls~s~
+
+GNG2_OBJ_UB = Use binoculars
+
+GNG2_OBJ_ZM = Zoom in on the ~o~prisoner~s~
+
+GNG2_THROT = Ascend
+
+GNG2_UC_EQPBIN = Equip binoculars
+

@@ -1,0 +1,30 @@
+CSNU1_ACT_A_1 = ~z~There you are!
+
+CSNU1_ACT_A_2 = ~z~Me?
+
+CSNU1_ACT_A_3 = ~z~You.
+
+CSNU1_ACT_A_4 = ~z~Me?
+
+CSNU1_ACT_A_5 = ~z~Yes, you! When you gonna let me take you out for an evening, into town...
+
+CSNU1_ACT_A_6 = ~z~You know, to a-like a magic lantern show or some such?
+
+CSNU1_ACT_A_7 = ~z~Well, I don't... I think... I'm getting a little long in the tooth for...
+
+CSNU1_ACT_A_8 = ~z~Oh, nonsense! How about tomorrow?
+
+CSNU1_ACT_A_9 = ~z~Well, let me think.
+
+CSNU1_ACT_A_10 = ~z~So that's a yes?
+
+CSNU1_ACT_A_11 = ~z~Okay.
+
+CSNU1_ACT_A_12 = ~z~Well... now, if I'm gonna go out with you, I'm gonna have to look my best, so... Can I borrow ten dollars?
+
+CSNU1_ACT_A_13 = ~z~Can I borrow a few dollars? I'm good for it.
+
+CSNU1_ACT_A_14 = ~z~Borrow money? Oh, you horrible man!
+
+CSNU1_ACT_B_ALT_1 = ~z~Well, you can't blame a feller for trying.
+

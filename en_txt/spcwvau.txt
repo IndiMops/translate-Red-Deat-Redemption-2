@@ -1,0 +1,312 @@
+SPCWV_IG1_COUGH_1 = ~z~
+
+SPCWV_IG1_P1A_1 = ~z~Excuse me? Excuse me, but I need some money.
+
+SPCWV_IG1_P1A_2 = ~z~I fought in the war. I fought for you.
+
+SPCWV_IG1_P1B_1 = ~z~I need some money... can't you help a feller out?
+
+SPCWV_IG1_P1C_1 = ~z~Help a feller out...
+
+SPCWV_IG1_P1D_1 = ~z~Give a feller a nickel.
+
+SPCWV_IG1_P1E_1 = ~z~Can I get a few cents?
+
+SPCWV_IG1_P1F_1 = ~z~Ain't nobody got a heart?
+
+SPCWV_IG1_P1G_1 = ~z~~sl:0.0:1.8~Someone gonna help a feller out?~sl:1.7~Somebody, please.
+
+SPCWV_IG1_P1H_1 = ~z~~sl:0.0:2.6~Come on, give a feller a nickel.~sl:0.5:1.0~Give me a dime.~sl:1.3~Give me something.
+
+SPCWV_IG1_P1_1 = ~z~Hey buddy... can I get some money here? Please?
+
+SPCWV_IG1_P2A_1 = ~z~I just want to get a drink, I'm parched!
+
+SPCWV_IG1_P2B_1 = ~z~~sl:0.0:1.6~Will somebody help me out...~sl:0.9~I was in the army!
+
+SPCWV_IG1_P2C_1 = ~z~I'm real hungry here.
+
+SPCWV_IG1_P2D_1 = ~z~~sl:0.0:1.3~I got real bad nerves.~sl:0.2~I can't work, can you give me some money?
+
+SPCWV_IG1_P3A_R_1 = ~z~Hey, buddy!
+
+SPCWV_IG1_P3B_R_1 = ~z~Hey, brother.
+
+SPCWV_IG1_P4B_1 = ~z~I just need some money, mister. Money and a friend.
+
+SPCWV_IG1_P4B_2 = ~z~Had a friend once, but he didn't want to be my friend.
+
+SPCWV_IG1_P4B_3 = ~z~No, he said I talked too much, but I don't think I do.
+
+SPCWV_IG1_P4B_4 = ~z~Anyway, I followed him for a while. Then he left and went to Canada!
+
+SPCWV_IG1_P4B_5 = ~z~Not to get away from me, but because he likes snow. And there's lots of it there.
+
+SPCWV_IG1_P4B_6 = ~z~Anyway, it's been real fun talking to you. I'll see you again!
+
+SPCWV_IG2_CNVN_1 = ~z~Get outta here!
+
+SPCWV_IG2_CNVN_2 = ~z~~sl:0.0:2.0~You're not kind, mister.~sl:0.5~You're not kind at all!
+
+SPCWV_IG2_CNVP_1 = ~z~~sl:1.2~Sure.
+
+SPCWV_IG2_CNVP_2 = ~z~I'm so happy, I ain't had a friend in a long time.
+
+SPCWV_IG2_CNVP_3 = ~z~Long, long time...
+
+SPCWV_IG2_CNVP_4 = ~z~~sl:0.0:3.3~My last friend died... weren't my fault.~sl:0.9~They said it was but they was wrong.
+
+SPCWV_IG2_CNVP_5 = ~z~It's fun being with you, mister.
+
+SPCWV_IG2_CNVP_6 = ~z~Can I hold you a second, mister? Can I?
+
+SPCWV_IG2_HUGN_1 = ~z~Get lost!
+
+SPCWV_IG2_HUGN_2 = ~z~~sl:0.0:1.1~I'm sorry mister,~sl:1.3:1.1~I'll see you again.~sl:1.1~I guess...
+
+SPCWV_IG2_HUGP_1 = ~z~~sl:2.9~Okay, just... quickly.
+
+SPCWV_IG2_HUGP_2 = ~z~~sl:0.0:1.5~That felt good... ~sl:0.6~it's nice to be held sometimes.
+
+SPCWV_IG2_HUGP_3 = ~z~Oh, we used to hold each other in the war.
+
+SPCWV_IG2_HUGP_4 = ~z~~sl:0.0:1.5~You got sad eyes, mister.~sl:0.9~Like you seen sad things.
+
+SPCWV_IG2_HUGP_5 = ~z~Remember with kindness.
+
+SPCWV_IG2_HUGP_6 = ~z~
+
+SPCWV_IG2_HUGP_7 = ~z~
+
+SPCWV_IG3_ARTH_1 = ~z~Arthur.
+
+SPCWV_IG3_NEG1_1 = ~z~Come on, mister, come on... let a feller know.
+
+SPCWV_IG3_NEG1_2 = ~z~My name's Mickey... can't we be friends?
+
+SPCWV_IG3_NEG2_1 = ~z~Ain't no one in this whole damn place wants to be my friend!
+
+SPCWV_IG3_NEG2_2 = ~z~I'm sad, mister... real sad.
+
+SPCWV_IG3_NEG2_3 = ~z~Guess... guess I'll go now...
+
+SPCWV_IG3_POS_1 = ~z~Arthur?
+
+SPCWV_IG3_POS_2 = ~z~My uncle's name was Arthur! Uncle Arthur we called him! On account of his name.
+
+SPCWV_IG3_POS_3 = ~z~It's a fine name, a strong name. Like a king.
+
+SPCWV_IG3_POS_4 = ~z~You could be my king, mister Arthur. Yes, you could!
+
+SPCWV_IG3_QUES_1 = ~z~Hey mister, mister... I never learnt your name... I never did!
+
+SPCWV_IG3_QUES_2 = ~z~You're like a brother... but I didn't learn your name, and I said to myself, Mickey, you never learnt that fella's name.
+
+SPCWV_IG3_QUES_3 = ~z~Now, you'll never see him again and you'll be sad like... when your puppy passed, cause you slept on it...
+
+SPCWV_IG3_QUES_4 = ~z~What's your name, mister?
+
+SPCWV_IG4_CANI_1 = ~z~Can I get a buck, mister?
+
+SPCWV_IG4_DONT_1 = ~z~~sl:0.0:1.5~Don't hit me again, mister...~sl:0.5~I don't mean no harm of it.
+
+SPCWV_IG4_DONT_2 = ~z~I'm just kind of lonely, and... want a friend.
+
+SPCWV_IG4_DONT_3 = ~z~I'll leave you in peace...
+
+SPCWV_IG4_DONT_4 = ~z~Can I get a buck, mister?
+
+SPCWV_IG4_NEG_1 = ~z~No!
+
+SPCWV_IG4_NEG_2 = ~z~Sorry I asked.
+
+SPCWV_IG4_POS_1 = ~z~Sure...
+
+SPCWV_IG4_POS_2 = ~z~Thank you... oh, thank you, mister!
+
+SPCWV_IG5_END_1 = ~z~I fought in a war, mister.
+
+SPCWV_IG5_END_2 = ~z~I did. Sent me strange seeing all them... fellers die.
+
+SPCWV_IG5_END_3 = ~z~Which war was that, exactly?
+
+SPCWV_IG5_END_4 = ~z~A bad one, Mister Arthur. Oh, a real bad.
+
+SPCWV_IG5_END_5 = ~z~There's good wars?
+
+SPCWV_IG5_END_6 = ~z~I... I saw terrible things. I ain't been the same since.
+
+SPCWV_IG5_END_7 = ~z~I get... I get funny.
+
+SPCWV_IG5_END_8 = ~z~I'll go now. Don't act crazy now.
+
+SPCWV_IG5_NEG_1 = ~z~Are you really calling me crazy?
+
+SPCWV_IG5_POS_1 = ~z~I'm talking to you so I must be crazy.
+
+SPCWV_IG5_START_1 = ~z~Hey mister. Mister Arthur.
+
+SPCWV_IG5_START_2 = ~z~Why you always so mad?
+
+SPCWV_IG5_START_3 = ~z~~sl:0.0:0.7~You're crazy...~sl:0.7~all that shooting.
+
+SPCWV_IG5_START_4 = ~z~~sl:0.0:1.4~And they said I was crazy.~sl:0.3~I'm not crazy... not like you.
+
+SPCWV_IG5_START_5 = ~z~You beat up the big feller.
+
+SPCWV_IG5_START_6 = ~z~~sl:0.0:1.0~He once beat me up...~sl:0.5~I asked for it.
+
+SPCWV_IG5_START_7 = ~z~You think you're real crazy, mister?
+
+SPCWV_IG6_NEG_1 = ~z~No.
+
+SPCWV_IG6_NEG_2 = ~z~So it's just me...
+
+SPCWV_IG6_NEG_3 = ~z~~sl:0.0:2.1~they said I was strange back in the army,~sl:0.5~and that's why they kicked me out!
+
+SPCWV_IG6_NEG_4 = ~z~~sl:0.0:3.9~I was the only feller got kicked out during a...~sl:0.5~siege.
+
+SPCWV_IG6_NEG_5 = ~z~~sl:0.0:2.1~While being sieged!~sl:1.5~That were no fun.
+
+SPCWV_IG6_POS_1 = ~z~Sure.
+
+SPCWV_IG6_POS_2 = ~z~~sl:0.0:2.5~See? We're made for each other!~sl:0.3~I mean, as friends.
+
+SPCWV_IG6_POS_3 = ~z~~sl:0.0:0.7~I knew it!~sl:0.7~There's a big crazy feller with a gun.
+
+SPCWV_IG6_POS_4 = ~z~~sl:0.0:1.9~And I'm a little crazy feller...~sl:0.3~can't afford a gun no more...
+
+SPCWV_IG6_POS_5 = ~z~"Stick with him, Jimmy." I said.
+
+SPCWV_IG6_POS_6 = ~z~~sl:0.0:1.2~And then I said,~sl:0.2~"Your name ain't Jimmy, it's Mickey."
+
+SPCWV_IG6_POS_7 = ~z~And then... the feller I was talking to in my head,
+
+SPCWV_IG6_POS_8 = ~z~even he didn't want to talk to me no more.
+
+SPCWV_IG6_POS_9 = ~z~~sl:0.0:1.3~I'll see you around.~sl:0.5~I've gotten real confused.
+
+SPCWV_IG6_POS_10 = ~z~Okay then...
+
+SPCWV_IG6_QUES_1 = ~z~Good to see you again, friend!
+
+SPCWV_IG6_QUES_2 = ~z~I've only gone and forgotten your name...
+
+SPCWV_IG6_QUES_3 = ~z~but worse from that, I've forgotten my own name too.
+
+SPCWV_IG6_QUES_4 = ~z~It happens to me. You ever forget your name, mister?
+
+SPCWV_IG7_1 = ~z~~sl:0.0:1.7~Well, not really...
+
+SPCWV_IG7_2 = ~z~Oh, that's too bad, buddy.
+
+SPCWV_IG7_3 = ~z~They told me I was dying, only I never did.
+
+SPCWV_IG7_4 = ~z~~sl:0.0:1.1~You ever die, friend?~sl:0.3:0.8~Well, no.~sl:0.7~Of course not. Of course you didn't.
+
+SPCWV_IG7_5 = ~z~~sl:0.0:1.8~But, well...~sl:1.2~we're all gonna die.
+
+SPCWV_IG7_6 = ~z~I guess so.
+
+SPCWV_IG7_7 = ~z~~sl:0.0:2.7~I'm sorry I always say dumb things.~sl:0.5~I'm a dumb feller.
+
+SPCWV_IG7_8 = ~z~~sl:0.0:0.8~You're smart,~sl:0.3:1.0~and you're dying,~sl:0.3:1.0~and I'm dumb,~sl:0.3:1.0~and I ain't died yet,
+
+SPCWV_IG7_9 = ~z~~sl:0.0:4.1~and, well, here's the thing...~sl:1.2~I never was in the army, friend.
+
+SPCWV_IG7_10 = ~z~~sl:0.0:1.2~I told folk I was!~sl:1.2:0.7~But I lied.~sl:0.9~I don't know why I did.
+
+SPCWV_IG7_11 = ~z~~sl:0.0:1.0~And now I feel better!~sl:0.7~But, well, here's another thing...
+
+SPCWV_IG7_HEY_1 = ~z~~sl:0.0:0.8~Hey friend!~sl:0.4~Hey friend, long time no see.
+
+SPCWV_IG7_HEY_2 = ~z~~sl:0.0:1.7~You don't look so well, friend.~sl:1.0~You okay?
+
+SPCWV_IG7_MISS_1 = ~z~~sl:0.0:4.5~You, well, you've always been, or,~sl:1.0~you've mostly been nice to me.
+
+SPCWV_IG7_MISS_2 = ~z~At least you spoke to me.
+
+SPCWV_IG7_MISS_3 = ~z~~sl:0.0:1.9~And now, you're dying,~sl:1.1:1.2~and I'm real sad.~sl:1.1~Real sad...
+
+SPCWV_IG7_MISS_4 = ~z~~sl:0.0:1.0~Sure ain't fair.~sl:1.4~Ain't fair at all.
+
+SPCWV_IG7_MISS_5 = ~z~~sl:0.0:1.2~I'll miss you, friend.~sl:2.1~You're a good man.
+
+SPCWV_IG8_DMND_1 = ~z~I don't mind.
+
+SPCWV_IG8_NO_1 = ~z~Get the hell out of here.
+
+SPCWV_IG8_QUES_1 = ~z~Hey there mister... hey there.
+
+SPCWV_IG8_QUES_2 = ~z~Mind if I join you... mind if I... if I talk to you.
+
+SPCWV_IG8_QUES_3 = ~z~Fellers sometimes mind and sometimes they don't mind and...
+
+SPCWV_IG8_QUES_4 = ~z~ain't no way of knowing.
+
+SPCWV_IG8_YES_1 = ~z~Oh, I like you, you're kind. I like kindness.
+
+SPCWV_IG8_YES_2 = ~z~I ain't so kind.
+
+SPCWV_IG8_YES_3 = ~z~Now, that ain't true... ain't true at all.
+
+SPCWV_IG8_YES_4 = ~z~Most folk won't spare me the time of day,
+
+SPCWV_IG8_YES_5 = ~z~but you did... you did and it was real nice... real nice.
+
+SPCWV_IG8_YES_6 = ~z~Can I... can I hold you, mister?
+
+SPCWV_IG8_YES_7 = ~z~Whoa, I'm... I got a woman.
+
+SPCWV_IG8_YES_8 = ~z~Aw, I'm sorry, mister... I didn't mean nothing by it.
+
+SPCWV_IG8_YES_9 = ~z~I just kinda like folk but... most folk don't like me.
+
+SPCWV_IG8_YES_10 = ~z~No harm done.
+
+SPCWV_IG8_YES_11 = ~z~Ain't ever harmful to be held mister,
+
+SPCWV_IG8_YES_12 = ~z~only most folk find me creepy and strange which ain't nice.
+
+SPCWV_IG8_YES_13 = ~z~I guess not.
+
+SPCWV_IG8_YES_14 = ~z~What's your name?
+
+SPCWV_IG8_YES_15 = ~z~John... Jim...
+
+SPCWV_IG8_YES_16 = ~z~You don't know?
+
+SPCWV_IG8_YES_17 = ~z~That's funny... used to know a fella a bit like you... a few years back.
+
+SPCWV_IG8_YES_18 = ~z~Crazy kind of feller but he had a heart on him.
+
+SPCWV_IG8_YES_19 = ~z~What was his name?
+
+SPCWV_IG8_YES_20 = ~z~I forget... funny face... Alan, or something I think.
+
+SPCWV_IG8_YES_21 = ~z~He didn't like me much neither... but he was okay.
+
+SPCWV_IG8_YES_22 = ~z~I think he died...
+
+SPCWV_IG8_YES_23 = ~z~They always do... the good ones.
+
+SPCWV_IG8_YES_24 = ~z~He weren't a good one.
+
+SPCWV_IG8_YES_25 = ~z~He was... well, he was good and bad, and it's...
+
+SPCWV_IG8_YES_26 = ~z~Hard to say quite what he was in the end.
+
+SPCWV_IG8_YES_27 = ~z~That so?
+
+SPCWV_IG8_YES_28 = ~z~Sure.... that's so.
+
+SPCWV_IG8_YES_29 = ~z~I can kind of see that.
+
+SPCWV_IG8_YES_30 = ~z~Well, it's been fun talking mister...
+
+SPCWV_IG8_YES_31 = ~z~my name's Mickey.
+
+SPCWV_IG_INTIAL_1 = ~z~~sl:0.0:4.0~I'm too old to get a job, mister. Way too old...~sl:0.8~can't we be friends?
+
+SPCWV_SORRYMR_1 = ~z~Sorry, mister.
+

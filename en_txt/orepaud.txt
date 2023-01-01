@@ -1,0 +1,1030 @@
+OREPHT_AN_ATTCK_01 = ~z~Shit, it's after me!
+
+OREPHT_AN_ATTCK_02 = ~z~The thing's huge!
+
+OREPHT_AN_ATTCK_03 = ~z~I'm gonna die!
+
+OREPHT_AN_BACK1_01 = ~z~Okay. Best not step into an open mouth...
+
+OREPHT_AN_BACK1_02 = ~z~You best not be fooling with me, friend...
+
+OREPHT_AN_BACK1_03 = ~z~Back? Really. Okay...
+
+OREPHT_AN_CAL1A_1 = ~z~~sl:0.0:5.0~Hey, uh... remember me? Let's forget about last time,~sl:0.3~just... give me a hand, will ya?
+
+OREPHT_AN_CAL1M_1 = ~z~Oh, you again? Alright, good, c'mere.
+
+OREPHT_AN_CAL1R_1 = ~z~Shit, you again? Just... just leave me alone!
+
+OREPHT_AN_CALL1_01 = ~z~Hey! Over here.
+
+OREPHT_AN_CALL1_02 = ~z~You there, c'mere.
+
+OREPHT_AN_CALL2_01 = ~z~C'mon, you can hear me...
+
+OREPHT_AN_CALL2_02 = ~z~Gimme a minute, just one minute.
+
+OREPHT_AN_IDLE_01 = ~z~Jesus, it's big...
+
+OREPHT_AN_IDLE_02 = ~z~You hungry? You look stupid. I could take you.
+
+OREPHT_AN_IDLE_03 = ~z~Wonder if it smells me... nah...
+
+OREPHT_AN_OFFR1_1 = ~z~~sl:0.0:2.1~Want some money? Okay.~sl:0.3:3.4~You see that creature there? Real impressive, huh?~sl:0.9~I want a picture with it.
+
+OREPHT_AN_OFFR1_2 = ~z~If there's one thing a lady admires, it's a fearsome animal.
+
+OREPHT_AN_OFFR2_1 = ~z~~sl:0.0:1.5~You gonna take the photo, then?~sl:~We gotta go fast, but not too loud, neither.
+
+OREPHT_AN_OFFR3_1 = ~z~C'mon, take the picture before it hears us and heads off. C'mon.
+
+OREPHT_AN_OFFRB_1 = ~z~Make sure you got the bear in frame. That's the whole point.
+
+OREPHT_AN_OFFRC_1 = ~z~Make sure the coyote's in frame.
+
+OREPHT_AN_OFFRK_1 = ~z~Don't leave the buck out, now. Gotta get that buck.
+
+OREPHT_AN_OFFRO_1 = ~z~I better see that cougar in the picture.
+
+OREPHT_AN_OFFRW_1 = ~z~You can see me and that wolf, right?
+
+OREPHT_AN_PHFRM_01 = ~z~Sure the animal's in the picture?
+
+OREPHT_AN_PHFRM_02 = ~z~I want the animal in the picture. Make sure.
+
+OREPHT_AN_PHFRM_03 = ~z~Make sure the animal's in frame, okay?
+
+OREPHT_AN_PLCLS_01 = ~z~You gonna scare it away. Keep some distance.
+
+OREPHT_AN_PLCLS_02 = ~z~~sl:0.0:2.2~Hey, keep clear of the animal!~sl:~Don't you ruin this shot for me, now.
+
+OREPHT_AN_PLSCR_01 = ~z~~sl:0.0:3.2~Goddammit. All that waiting, ruined.~sl:~Thanks for nothing.
+
+OREPHT_AN_PLSCR_02 = ~z~~sl:0.3~Son of a bitch ran off! What the hell you scare it for?
+
+OREPHT_AN_SAVED_1 = ~z~Holy hell... thing near got me...
+
+OREPHT_AN_SVRD1_1 = ~z~~sl:1.2:3.6~I think... I think that's it for me today.~sl:0.3~Appreciate you stepping in, I suppose.
+
+OREPHT_AN_SVRD2_1 = ~z~I don't got nothing for you...
+
+OREPHT_AN_SVRD3_1 = ~z~Bye now. I'm going solo...
+
+OREPHT_AN_TODO_1 = ~z~Okay, I'm ready. Lemme know if I should get closer...
+
+OREPHT_CL_BACK1_01 = ~z~Alright... edge is back a ways, right?
+
+OREPHT_CL_BACK1_02 = ~z~Back? Fine...
+
+OREPHT_CL_BACK1_03 = ~z~Okay, back, you got it... big cliff...
+
+OREPHT_CL_CAL1A_1 = ~z~Oh, you! I remember you. You're a piece of work.
+
+OREPHT_CL_CAL1A_2 = ~z~But, uh... well. Help me out, I forget I owe you a gut punch.
+
+OREPHT_CL_CAL1M_1 = ~z~Oh, hey! I know you. You helped me with the photograph.
+
+OREPHT_CL_CAL1R_1 = ~z~You? Oh, shit... you keep away from me!
+
+OREPHT_CL_CALL1_01 = ~z~Oh, hey, you! You got a minute?
+
+OREPHT_CL_CALL1_02 = ~z~Hey, hey. I, uh... you wanna make some money?
+
+OREPHT_CL_CALL2_01 = ~z~C'mon, don't you ignore me now.
+
+OREPHT_CL_CALL2_02 = ~z~You stuffed upstairs? Come over!
+
+OREPHT_CL_CALL2_03 = ~z~Hey, come on, just gimme a minute.
+
+OREPHT_CL_FALL_1 = ~z~Oh, oh... shit, shit!
+
+OREPHT_CL_IDLE_01 = ~z~Now this. This here's a view.
+
+OREPHT_CL_IDLE_02 = ~z~Looks real fine.
+
+OREPHT_CL_IDLE_03 = ~z~Air's nice, too...
+
+OREPHT_CL_OFFR1_1 = ~z~~sl:0.0:3.3~Yeah. I found this beautiful view and I want a picture by it.~sl:~Real heroic, real manly.
+
+OREPHT_CL_OFFR2_1 = ~z~~sl:0.0:2.2~Just one good camera picture, that's all,~sl:~and you're on your way. I'll pay you.
+
+OREPHT_CL_OFFR3_1 = ~z~~sl:0.0:2.1~Well? What's the word?~sl:~You gonna take my picture, or what?
+
+OREPHT_CL_POSE1_1 = ~z~Yeah, this'll look real fine.
+
+OREPHT_CL_POSE2_1 = ~z~Something like this?
+
+OREPHT_CL_POSE3_1 = ~z~I like this one for catching farmgirls.
+
+OREPHT_CL_POSE4_1 = ~z~Okay. I think I know where you're going...
+
+OREPHT_CL_SCRM_1 = ~z~
+
+OREPHT_CL_TODO_1 = ~z~You tell me how I'm looking, alright? This gotta look good.
+
+OREPHT_CL_TODO_2 = ~z~How's my position? Should I do something? Go on.
+
+OREPHT_DA_ATTCK_01 = ~t~In Spanish: Jesus Christ!
+
+OREPHT_DA_ATTCK_02 = ~z~No, no!
+
+OREPHT_DA_ATTCK_03 = ~t~In Spanish: Oh my God!
+
+OREPHT_DA_BACK1_01 = ~z~Okay... no problem...
+
+OREPHT_DA_BACK1_02 = ~z~Closer to the... the animal? Fine... no problem.
+
+OREPHT_DA_BACK1_03 = ~z~Back? Uh... sure. Why not?
+
+OREPHT_DA_CAL1A_1 = ~z~~sl:0.0:3.1~Hey, listen... you keep to yourself,~sl:0.0:2.0~maybe we can work together again...~sl:~but you have to be fast.
+
+OREPHT_DA_CAL1M_1 = ~z~Oh, hey! I need your help again.
+
+OREPHT_DA_CAL1R_1 = ~z~It's you?
+
+OREPHT_DA_CAL1R_2 = ~t~In Spanish: Son of a bitch...
+
+OREPHT_DA_CAL1R_3 = ~z~Get away from me!
+
+OREPHT_DA_CALL1_01 = ~z~Psst. You there! C'mon.
+
+OREPHT_DA_CALL1_02 = ~z~Hey! Come here a minute.
+
+OREPHT_DA_CALL2_01 = ~z~Come on, please. I need some help here.
+
+OREPHT_DA_CALL2_02 = ~z~Just come here, it won't take long, I promise.
+
+OREPHT_DA_IDLE_01 = ~z~Could kill any man...
+
+OREPHT_DA_IDLE_02 = ~t~In Spanish: Incredible.
+
+OREPHT_DA_IDLE_03 = ~z~What a beauty...
+
+OREPHT_DA_OFFR1_1 = ~z~~sl:0.0:2.0~Okay, you see that animal?~sl:0.2:3.0~Can you take a photograph of me by it? I'll pay you.~sl:~It's for the newspaper.
+
+OREPHT_DA_OFFR2_1 = ~z~Just do it quick and we'll be fine.
+
+OREPHT_DA_OFFR3_1 = ~z~Come on. What are you waiting for? Take the photograph.
+
+OREPHT_DA_OFFRB_1 = ~z~You make sure to see the whole bear, okay?
+
+OREPHT_DA_OFFRC_1 = ~z~Make sure the coyote is in the picture?
+
+OREPHT_DA_OFFRK_1 = ~z~Can you see all of the buck in the frame?
+
+OREPHT_DA_OFFRO_1 = ~z~You see me and the cougar, yes?
+
+OREPHT_DA_OFFRW_1 = ~z~The wolf is in the picture, yes?
+
+OREPHT_DA_PHFRM_01 = ~z~You see the animal in the frame? We have to get this right!
+
+OREPHT_DA_PHFRM_02 = ~z~Make sure you've got the whole animal in the frame.
+
+OREPHT_DA_PHFRM_03 = ~z~You need to have me and the animal in the picture.
+
+OREPHT_DA_PLCLS_01 = ~z~Hey, hey, stupid! Don't get so close to it.
+
+OREPHT_DA_PLCLS_02 = ~z~Stay back from it. It will run.
+
+OREPHT_DA_PLSCR_01 = ~t~In Spanish: Goddamn idiot!
+
+OREPHT_DA_PLSCR_02 = ~z~It ran away. Thanks for nothing.
+
+OREPHT_DA_PLSCR_03 = ~z~Oh, it's gone. Ruined! Idiota.
+
+OREPHT_DA_SAVED_1 = ~t~In Spanish: Mother of God...
+
+OREPHT_DA_SAVED_2 = ~z~You saved my life.
+
+OREPHT_DA_SVRD1_1 = ~z~Well... that was exciting... okay. Enough for today.
+
+OREPHT_DA_SVRD2_1 = ~z~You did okay by me here. Thank you.
+
+OREPHT_DA_SVRD3_1 = ~z~Some other time, alright? Hasta luego.
+
+OREPHT_DA_TODO_1 = ~z~~sl:0.0:2.2~I'm ready. Do I need to be closer?~sl:~I can do it. I'm not scared...
+
+OREPHT_DH_DMNT1_1 = ~z~You need to get off the horse now.
+
+OREPHT_DH_DMNT2_1 = ~z~I'm not taking a picture with both of us on the horse.
+
+OREPHT_DH_DMNT3_1 = ~z~Dismount, come on! Don't you see how this works?
+
+OREPHT_DH_HTCH1_1 = ~z~Okay, okay, bring your horse over here.
+
+OREPHT_DH_HTCH2_1 = ~z~Let's go. The light is changing.
+
+OREPHT_DH_HTCH3_1 = ~z~Bring your horse over. Now. Come on.
+
+OREPHT_DH_IDLE_01 = ~z~This is taking too long.
+
+OREPHT_DH_IDLE_02 = ~z~Must be a horse somewhere 'round here.
+
+OREPHT_DH_IDLE_03 = ~t~In Spanish: Cocksuckers.
+
+OREPHT_DH_NOHR_1 = ~z~No horse. You will die out here with no horse, friend.
+
+OREPHT_DH_OFFR1_1 = ~z~~sl:0.0:2.9~I want to take a photograph here with me mounted on a horse.~sl:~It's for a magazine. Can I use yours? I'll pay you.
+
+OREPHT_DH_OFFR2_1 = ~z~Come on. I'm clean enough, and good with animals.
+
+OREPHT_DH_OFFR3_1 = ~z~What is there to decide?
+
+OREPHT_DH_OFFR3_2 = ~t~In Spanish: We're friends, no?
+
+OREPHT_DH_PHFRM_01 = ~z~You have the horse and me both in the picture?
+
+OREPHT_DH_PHFRM_02 = ~z~Don't leave me out. Or the horse.
+
+OREPHT_DH_PHFRM_03 = ~z~Make sure the horse and me are both in the frame, okay?
+
+OREPHT_DH_POSE1_1 = ~z~Oh, yes. I look dangerous.
+
+OREPHT_DH_POSE2_1 = ~z~I am a queen!
+
+OREPHT_DH_POSE3_1 = ~z~Good idea.
+
+OREPHT_DH_POSE4_1 = ~t~In Spanish: Perfect!
+
+OREPHT_DH_REAR_1 = ~t~In Spanish: Goddamn idiot!
+
+OREPHT_DH_WHER1_1 = ~z~~sl:0.0:4.6~You don't have a horse? C'mon. You have one, yes?~sl:~I need a horse. Not to keep, just for a minute. I'll pay you.
+
+OREPHT_DH_WHER2_1 = ~z~Well? Do you have a horse or not?
+
+OREPHT_DH_WHER3_1 = ~t~In Spanish: Jesus.
+
+OREPHT_DH_WHER3_2 = ~z~Yes or no?
+
+OREPHT_DH_YAYHR_1 = ~z~Oh! Okay.
+
+OREPHT_DS_ACCPT_01 = ~z~I'll get ready.
+
+OREPHT_DS_ACCPT_02 = ~z~Ah, I knew it! Let me set up, okay?
+
+OREPHT_DS_ACCPT_03 = ~z~Yes! Okay, I need to get myself set, eh?
+
+OREPHT_DS_AGGDK_1 = ~t~In Spanish: Donkey!
+
+OREPHT_DS_AGGHR_1 = ~t~In Spanish: My horse!
+
+OREPHT_DS_AGGRO_01 = ~z~What are you doing?
+
+OREPHT_DS_AGGRO_02 = ~t~In Spanish: What the hell?
+
+OREPHT_DS_AGGRO_03 = ~z~Goddamn you!
+
+OREPHT_DS_ANNOY_01 = ~z~I asked for a simple favor! What is wrong with you?
+
+OREPHT_DS_ANNOY_02 = ~z~In Spanish: Stupid fool.
+
+OREPHT_DS_ANNOY_03 = ~z~What are you doing? If you won't help why say so?
+
+OREPHT_DS_ANPOS_01 = ~z~You're all wasting my time.
+
+OREPHT_DS_ANPOS_02 = ~t~In Spanish: Worthless pigs.
+
+OREPHT_DS_DECLN_01 = ~z~What? Fine. Then go away.
+
+OREPHT_DS_DECLN_02 = ~z~Psh. I should have known.
+
+OREPHT_DS_DECLN_03 = ~z~No? You a coward? It's just a picture.
+
+OREPHT_DS_FAIL1_01 = ~z~Why are you following me, eh?
+
+OREPHT_DS_FAIL1_02 = ~z~I don't want your company.
+
+OREPHT_DS_FAIL2_01 = ~z~You leave me alone.
+
+OREPHT_DS_FAIL2_02 = ~z~What do you want? Let me be.
+
+OREPHT_DS_FAIL3_01 = ~t~In Spanish: Damn you!
+
+OREPHT_DS_FAIL3_02 = ~z~Go away!
+
+OREPHT_DS_FILM_01 = ~z~Give me the picture.
+
+OREPHT_DS_FILM_02 = ~z~The picture. I want it.
+
+OREPHT_DS_FILM_03 = ~z~I'll take the picture.
+
+OREPHT_DS_FILM_04 = ~z~I'm keeping the picture.
+
+OREPHT_DS_HOGTD_01 = ~t~In Spanish: Goddamn you!
+
+OREPHT_DS_HOGTD_02 = ~z~You cut me free!
+
+OREPHT_DS_HOGTD_03 = ~t~In Spanish: Goddamned monster!
+
+OREPHT_DS_HOGUT_1 = ~t~In Spanish: Go to hell!
+
+OREPHT_DS_OFFR4_01 = ~z~You then. You will help me?
+
+OREPHT_DS_OFFR4_02 = ~z~Okay... you! Help me out?
+
+OREPHT_DS_OFFR5_01 = ~z~Will any of you do this for me?
+
+OREPHT_DS_OFFR5_02 = ~z~Anyone willing to help?
+
+OREPHT_DS_PHBAD_01 = ~z~Ugh. No good. But... eh...
+
+OREPHT_DS_PHBAD_02 = ~z~Great. You are bad at this.
+
+OREPHT_DS_PHCAM_01 = ~z~Where's your camera anyway?
+
+OREPHT_DS_PHCAM_02 = ~z~Get your camera out.
+
+OREPHT_DS_PHCAM_03 = ~z~Get your camera ready.
+
+OREPHT_DS_PHCAM_04 = ~t~In Spanish: Come on...
+
+OREPHT_DS_PHCLS_01 = ~z~Too close! Step back.
+
+OREPHT_DS_PHCLS_02 = ~z~Make sure you can see me.
+
+OREPHT_DS_PHCLS_03 = ~z~Take a step back, okay? Make a good picture.
+
+OREPHT_DS_PHFAR_01 = ~z~You are too far.
+
+OREPHT_DS_PHFAR_02 = ~z~Get closer! I want to be big.
+
+OREPHT_DS_PHFAR_03 = ~z~You can't see me from that far.
+
+OREPHT_DS_PHFRM_01 = ~z~Make sure you can see me.
+
+OREPHT_DS_PHFRM_02 = ~z~Don't cut me out of the picture.
+
+OREPHT_DS_PHFRM_03 = ~z~I better be in the picture, okay?
+
+OREPHT_DS_PHGOD_01 = ~z~Ay, yes! Just what I wanted.
+
+OREPHT_DS_PHGOD_02 = ~z~That's good!
+
+OREPHT_DS_PHNOW_01 = ~z~Okay, okay. Take the picture.
+
+OREPHT_DS_PHNOW_02 = ~z~Now! Take it.
+
+OREPHT_DS_PHNOW_03 = ~z~Okay, now.
+
+OREPHT_DS_PHOK_01 = ~z~Okay. That's fine.
+
+OREPHT_DS_PHOK_02 = ~z~Pretty good...
+
+OREPHT_DS_PHOK_03 = ~z~In Spanish: More or less...
+
+OREPHT_DS_PHRDY_01 = ~z~I wasn't ready.
+
+OREPHT_DS_PHRDY_02 = ~z~Hey! Too soon. Wait.
+
+OREPHT_DS_PHRDY_03 = ~z~You are too fast! Wait until I'm ready...
+
+OREPHT_DS_PHRWB_01 = ~z~Here. For the time.
+
+OREPHT_DS_PHRWB_02 = ~z~Well. Take this anyway.
+
+OREPHT_DS_PHRWG_01 = ~z~Okay, here. You earned this.
+
+OREPHT_DS_PHRWG_02 = ~z~Here, here, okay? You did good.
+
+OREPHT_DS_PHRWO_01 = ~z~Here. Could be decent.
+
+OREPHT_DS_PHRWO_02 = ~z~Very good. Take this, okay?
+
+OREPHT_DS_PHWAT_01 = ~z~I need to get ready.
+
+OREPHT_DS_PHWAT_02 = ~z~Wait until I'm ready.
+
+OREPHT_DS_PHWAT_03 = ~z~Don't take the picture yet.
+
+OREPHT_DS_RIDB1_1 = ~z~It was nice of you to try, even if you were bad at it.
+
+OREPHT_DS_RIDB2_1 = ~z~Just go away now, okay?
+
+OREPHT_DS_RIDB3_1 = ~z~Leave me alone.
+
+OREPHT_DS_RIDB3_2 = ~t~In Spanish: Stupid.
+
+OREPHT_DS_RIDE1_01 = ~z~It was good of you to help me.
+
+OREPHT_DS_RIDE1_02 = ~z~Most people don't help, but you did.
+
+OREPHT_DS_RIDE2_01 = ~z~This is what I was hoping to get.
+
+OREPHT_DS_RIDE2_02 = ~z~Maybe I will see you again sometime.
+
+OREPHT_DS_RIDE3_01 = ~z~I think we're done now, okay?
+
+OREPHT_DS_RIDE3_02 = ~z~~sl:0.0:1.9~Okay, goodbye then.~sl:~Don't let me hold you up any longer.
+
+OREPHT_DS_WAIT_01 = ~z~Well? What is the wait?
+
+OREPHT_DS_WAIT_02 = ~z~Take the picture already.
+
+OREPHT_DS_WAIT_03 = ~z~Okay, take the photograph.
+
+OREPHT_DT_AGATK_01 = ~z~Leave me alone!
+
+OREPHT_DT_AGATK_02 = ~z~Bad mistake!
+
+OREPHT_DT_AGATK_03 = ~t~In Spanish: Stupid, stupid!
+
+OREPHT_DT_CHS1_01 = ~z~No! Fair is fair! You gave it to me!
+
+OREPHT_DT_CHS1_02 = ~z~Get the hell away from me!
+
+OREPHT_DT_CHS1_03 = ~z~Sorry, this is mine now!
+
+OREPHT_DT_FLEE_1 = ~z~Just keep your horse, okay?
+
+OREPHT_DT_THRN1_1 = ~z~In Spanish: Stupid piece of shit!
+
+OREPHT_DT_THRN1_2 = ~z~I should kill you!
+
+OREPHT_DT_TNT1_1 = ~z~Oh, gracias! You had this coming!
+
+OREPHT_DT_TNT1_2 = ~t~In Spanish: Idiot!
+
+OREPHT_DT_TNT1_3 = ~z~I'll shoot you, you try anything!
+
+OREPHT_DT_TNT2_1 = ~t~In Spanish: Nice horse!
+
+OREPHT_DT_TNT3_1 = ~z~Adios!
+
+OREPHT_FH_CATCH_1 = ~z~Whoa! You're ugly!
+
+OREPHT_FH_IDLE_01 = ~z~So bored...
+
+OREPHT_FH_IDLE_02 = ~z~Come on...
+
+OREPHT_FH_IDLE_03 = ~z~Should just buy a dead one...
+
+OREPHT_FH_OFFR1_1 = ~z~Hey, I could use a photo with this fish I caught.
+
+OREPHT_FH_OFFR1_2 = ~z~Impressive, right? Can you take one?
+
+OREPHT_FH_OFFR2_1 = ~z~~sl:0.0:3.6~Well? Just one picture, me and this fish.~sl:~I, I know you wanna. C'mon...
+
+OREPHT_FH_OFFR3_1 = ~z~~sl:0.0:3.3~What do you say? Before it starts to stink...~sl:~it's just the one photo.
+
+OREPHT_FH_PHFRM_01 = ~z~You sure you got this thing in the frame?
+
+OREPHT_FH_PHFRM_02 = ~z~Make sure it's in the frame, I'm not holding it up for fun.
+
+OREPHT_FH_PHFRM_03 = ~z~You got the fish in the frame? I'm not sure...
+
+OREPHT_FH_REEL_1 = ~z~Oh? Oh... something here...
+
+OREPHT_FH_REEL_2 = ~z~Okay... okay, I got you...
+
+OREPHT_FH_REEL_3 = ~z~Let's see what you are...
+
+OREPHT_FH_WHOO_1 = ~z~Alright!
+
+OREPHT_FS_ACCPT_01 = ~z~You will? Good news!
+
+OREPHT_FS_ACCPT_02 = ~z~Alright! I knew you looked kind.
+
+OREPHT_FS_ACCPT_03 = ~z~Oh, perfect. Happy to hear it.
+
+OREPHT_FS_ACCPT_04 = ~z~Okay! What I wanted to hear.
+
+OREPHT_FS_AGGDK_01 = ~z~How could you hurt a dumb animal?
+
+OREPHT_FS_AGGDK_02 = ~z~Leave that poor donkey alone!
+
+OREPHT_FS_AGGHR_01 = ~z~Hey, that's my horse!
+
+OREPHT_FS_AGGHR_02 = ~z~My horse!
+
+OREPHT_FS_AGGRO_01 = ~z~I just wanted to take a picture!
+
+OREPHT_FS_AGGRO_02 = ~z~Oh, please!
+
+OREPHT_FS_AGGRO_03 = ~z~Don't hurt me!
+
+OREPHT_FS_ANNOY_01 = ~z~If you don't want to help, I'm finished here.
+
+OREPHT_FS_ANNOY_02 = ~z~You're wasting my time, and yours. I'm done.
+
+OREPHT_FS_ANPOS_01 = ~z~You're just a group of low-lives. Never mind this.
+
+OREPHT_FS_ANPOS_02 = ~z~Y'all are fools. I'm done with it.
+
+OREPHT_FS_CAL1A_01 = ~z~~sl:0.0:3.0~Oh... didn't recognize you for a moment...~sl:~why don't we bury the hatchet?
+
+OREPHT_FS_CAL1A_02 = ~z~Hey, listen... why don't we start fresh? Help me out?
+
+OREPHT_FS_CAL1M_01 = ~z~Oh, oh, you again! Come here, help me out!
+
+OREPHT_FS_CAL1M_02 = ~z~Remember me? I need some help with another photo!
+
+OREPHT_FS_CAL1R_01 = ~z~Oh, God, not you again! Get away from me!
+
+OREPHT_FS_CAL1R_02 = ~z~No, not you! Pretend you didn't see me!
+
+OREPHT_FS_CALL1_01 = ~z~Hey, hello! You got a minute?
+
+OREPHT_FS_CALL1_02 = ~z~~sl:0.0:1.7~Hey, I could use a hand here?~sl:~It won't take you long.
+
+OREPHT_FS_CALL2_01 = ~z~C'mon, I know you can hear me.
+
+OREPHT_FS_CALL2_02 = ~z~It won't take long! Help out, huh?
+
+OREPHT_FS_CALL2_03 = ~z~What're you, scared? Help me out!
+
+OREPHT_FS_CALL2_04 = ~z~I'm not asking for a lot. Help me out.
+
+OREPHT_FS_CALL2_05 = ~z~What, are you ignoring me?
+
+OREPHT_FS_CALL2_06 = ~z~Hey, hello! Hello! Come on already!
+
+OREPHT_FS_CALL2_07 = ~z~Don't be shy! Just a minute!
+
+OREPHT_FS_DECLN_01 = ~z~Oh. Well then.
+
+OREPHT_FS_DECLN_02 = ~z~Why not? Too good to help a lady.
+
+OREPHT_FS_DECLN_03 = ~z~Well. That's pretty low. Thought we was all kin out here.
+
+OREPHT_FS_DECLN_04 = ~z~Okay, fine.
+
+OREPHT_FS_FAIL1_01 = ~z~Okay, no picture. Let's let that be the end of it.
+
+OREPHT_FS_FAIL1_02 = ~z~Clearly we're done here. I'm heading off.
+
+OREPHT_FS_FAIL2_01 = ~z~Come on. Let me on my way.
+
+OREPHT_FS_FAIL2_02 = ~z~Enough of you. I'm going alone, alright?
+
+OREPHT_FS_FAIL3_01 = ~z~Listen. We ain't friends here. Leave me be.
+
+OREPHT_FS_FAIL3_02 = ~z~Oh, enough of you.
+
+OREPHT_FS_FILM_01 = ~z~I'll take the film.
+
+OREPHT_FS_FILM_02 = ~z~I'll deal with the printing.
+
+OREPHT_FS_FILM_03 = ~z~The film, friend.
+
+OREPHT_FS_FILM_04 = ~z~I'll take the film, print it, frame it.
+
+OREPHT_FS_HOGTD_01 = ~z~C'mon... cut me loose.
+
+OREPHT_FS_HOGTD_02 = ~z~Get these ropes off, c'mon!
+
+OREPHT_FS_HOGTD_03 = ~z~Cut me free! Cut me free!
+
+OREPHT_FS_HOGUT_1 = ~z~I just wanted my picture taken.
+
+OREPHT_FS_OFFR4_01 = ~z~Okay, how about you? You willing to help?
+
+OREPHT_FS_OFFR4_02 = ~z~You look more agreeable. You willing to help?
+
+OREPHT_FS_OFFR4_03 = ~z~Well, how about you? What d'you say?
+
+OREPHT_FS_OFFR5_01 = ~z~Any of you willing to help out a lady?
+
+OREPHT_FS_OFFR5_02 = ~z~I know one of you wants to help...
+
+OREPHT_FS_OFFR5_03 = ~z~Who's gonna help me? Hmm?
+
+OREPHT_FS_PHBAD_01 = ~z~You aren't much good at this, huh?
+
+OREPHT_FS_PHBAD_02 = ~z~Well. It's a picture. That's something.
+
+OREPHT_FS_PHBAD_03 = ~z~Not great.
+
+OREPHT_FS_PHCAM_01 = ~z~Okay, get your camera ready.
+
+OREPHT_FS_PHCAM_02 = ~z~Well? Where's that camera?
+
+OREPHT_FS_PHCAM_03 = ~z~You need to equip your camera...
+
+OREPHT_FS_PHCLS_01 = ~z~Okay, I think you're too close.
+
+OREPHT_FS_PHCLS_02 = ~z~Take a step back, maybe.
+
+OREPHT_FS_PHCLS_03 = ~z~Make some room. It'll make a better shot.
+
+OREPHT_FS_PHFAR_01 = ~z~You're too far to get the details.
+
+OREPHT_FS_PHFAR_02 = ~z~I wanna recognize myself! Get closer.
+
+OREPHT_FS_PHFAR_03 = ~z~Close in, you're too far.
+
+OREPHT_FS_PHFRM_01 = ~z~Am I in the picture?
+
+OREPHT_FS_PHFRM_02 = ~z~Don't think you can see me...
+
+OREPHT_FS_PHFRM_03 = ~z~I need to be in the picture!
+
+OREPHT_FS_PHGOD_01 = ~z~A beauty!
+
+OREPHT_FS_PHGOD_02 = ~z~Oh, you got an eye!
+
+OREPHT_FS_PHGOD_03 = ~z~That's a keeper!
+
+OREPHT_FS_PHNOW_01 = ~z~Okay, ready to go!
+
+OREPHT_FS_PHNOW_02 = ~z~All set. Take the shot.
+
+OREPHT_FS_PHNOW_03 = ~z~Ready when you are.
+
+OREPHT_FS_PHOK_01 = ~z~Decent. That was decent.
+
+OREPHT_FS_PHOK_02 = ~z~Seen worse. I could show it around, I suppose.
+
+OREPHT_FS_PHOK_03 = ~z~Okay, fair enough. Serviceable, I'd say.
+
+OREPHT_FS_PHRDY_01 = ~z~I wasn't ready!
+
+OREPHT_FS_PHRDY_02 = ~z~So impatient! Wait until I'm ready.
+
+OREPHT_FS_PHRDY_03 = ~z~I was not ready. Take another picture.
+
+OREPHT_FS_PHRWB_01 = ~z~You tried. I guess.
+
+OREPHT_FS_PHRWB_02 = ~z~Thanks for the effort...
+
+OREPHT_FS_PHRWG_01 = ~z~Swell picture. Thank you much.
+
+OREPHT_FS_PHRWG_02 = ~z~You did nicely. Well earned.
+
+OREPHT_FS_PHRWO_01 = ~z~That's alright, alright. Here you go.
+
+OREPHT_FS_PHRWO_02 = ~z~Thanks for your trouble.
+
+OREPHT_FS_PHWAT_01 = ~z~Let me get ready...
+
+OREPHT_FS_PHWAT_02 = ~z~Let me get into place.
+
+OREPHT_FS_PHWAT_03 = ~z~Don't take the photo quite yet.
+
+OREPHT_FS_RIDB1_1 = ~z~Forget about the picture, alright? You tried. Now go on.
+
+OREPHT_FS_RIDB2_1 = ~z~We don't have business. You did your best. Bye.
+
+OREPHT_FS_RIDB3_1 = ~z~~sl:0.0:1.8~Come on, leave me be.~sl:~Make yourself feel better without me.
+
+OREPHT_FS_RIDE1_01 = ~z~Yep, I'm gonna do well with this picture. Damn well.
+
+OREPHT_FS_RIDE1_02 = ~z~Looking forward to showing this picture around, let me tell you.
+
+OREPHT_FS_RIDE2_01 = ~z~Not looking for any more photographs today, though...
+
+OREPHT_FS_RIDE2_02 = ~z~What are you looking for? I think we're done here...
+
+OREPHT_FS_RIDE3_01 = ~z~Okay, why don't you maybe leave me alone, alright?
+
+OREPHT_FS_RIDE3_02 = ~z~Starting to lose my patience with you here...
+
+OREPHT_FS_WAIT_01 = ~z~Well? Take the picture already!
+
+OREPHT_FS_WAIT_02 = ~z~I don't got all day. Take the picture.
+
+OREPHT_FS_WAIT_03 = ~z~I can't wait all day. Take the picture.
+
+OREPHT_GN_GTHR1_01 = ~z~Okay, come over here.
+
+OREPHT_GN_GTHR1_02 = ~z~One of you, over here to me.
+
+OREPHT_GN_GTHR1_03 = ~z~I need one of you over here with me.
+
+OREPHT_GN_GTHR2_01 = ~z~Come on, y'all gather by me.
+
+OREPHT_GN_GTHR2_02 = ~z~I need y'all over here so we can take the picture.
+
+OREPHT_GN_GTHR2_03 = ~z~~sl:0.0:1.8~If we're gonna take this picture,~sl:~y'all need to be here by me.
+
+OREPHT_GN_HOGCR_01 = ~z~Hey, hey. I said tie me, not carry me.
+
+OREPHT_GN_HOGCR_02 = ~z~Put me down now.
+
+OREPHT_GN_HOGCR_03 = ~z~No, no, I don't want to be carried.
+
+OREPHT_GN_HOGCT_01 = ~z~Okay, the picture's done. Untie me.
+
+OREPHT_GN_HOGCT_02 = ~z~We're all done except I need to be untied.
+
+OREPHT_GN_HOGCT_03 = ~z~Could you cut me free now?
+
+OREPHT_GN_HOGRL_01 = ~z~You're playing a foolish game here. Untie me.
+
+OREPHT_GN_HOGRL_02 = ~z~Untie me now!
+
+OREPHT_GN_HOGRL_03 = ~z~Cut me free! This is starting to hurt.
+
+OREPHT_GN_IDLE_01 = ~z~No one coming...
+
+OREPHT_GN_IDLE_02 = ~z~This is a bust...
+
+OREPHT_GN_IDLE_03 = ~z~Wasting light...
+
+OREPHT_GN_NOCAM_01 = ~z~Okay, one of you needs to take the picture.
+
+OREPHT_GN_NOCAM_02 = ~z~We need one of y'all to take the picture.
+
+OREPHT_GN_NOCAM_03 = ~z~Who's got the camera?
+
+OREPHT_GN_NOPED_1 = ~z~Well, fine. Guess this picture's a bust.
+
+OREPHT_GN_NOPSE_1 = ~z~You won't take this seriously? I'm done with it.
+
+OREPHT_GN_OFFR1_1 = ~z~~sl:0.0:1.4~Oh, okay, listen.~sl:0.0:3.5~Let's all of us do a photo like a theater scene?~sl:~Something dramatic...
+
+OREPHT_GN_OFFR1_2 = ~z~What's life without a bit of fun, right?
+
+OREPHT_GN_OFFR2_1 = ~z~~sl:0.0:1.8~Come on, let's set up a scene here.~sl:~Something fun, a little dangerous.
+
+OREPHT_GN_OFFR2_2 = ~z~~sl:0.0:3.6~One of you can take the picture, the other poses with me.~sl:~What the hell, right?
+
+OREPHT_GN_OFFR3_1 = ~z~~sl:0.0:2.8~It won't take long! Let's have some fun.~sl:~Life's too short.
+
+OREPHT_GN_OFR2B_1 = ~z~~sl:0.0:2.6~Come on. Let's set up a scene, all of us.~sl:0.1~Something fun, a little dangerous.
+
+OREPHT_GN_OFR2B_2 = ~z~One of you can take the picture. What the hell, right?
+
+OREPHT_GN_PHFR1_01 = ~z~Not sure you're in the frame yet...
+
+OREPHT_GN_PHFR1_02 = ~z~Are we both in frame?
+
+OREPHT_GN_PHFR1_03 = ~z~This picture's got to have both of us in it...
+
+OREPHT_GN_PHFR2_01 = ~z~Can you see everyone?
+
+OREPHT_GN_PHFR2_02 = ~z~Everyone in frame now?
+
+OREPHT_GN_PHFR2_03 = ~z~This picture's got to have everyone in it...
+
+OREPHT_GN_PSEAT_01 = ~z~Guns at my head. I'm trusting you here...
+
+OREPHT_GN_PSEAT_02 = ~z~Okay, guns at my head...
+
+OREPHT_GN_PSEAT_03 = ~z~Guns at my head, like it's a holdup.
+
+OREPHT_GN_PSEUP_01 = ~z~Okay, guns to the air!
+
+OREPHT_GN_PSEUP_02 = ~z~Guns out and raise 'em high.
+
+OREPHT_GN_PSEUP_03 = ~z~Get those weapons out and point 'em up!
+
+OREPHT_GN_PSHOG_01 = ~z~Okay, now. One of you needs to tie me.
+
+OREPHT_GN_PSHOG_02 = ~z~Someone's gotta tie me up. Not too tight.
+
+OREPHT_GN_PSHOG_03 = ~z~So, one of you gonna tie me, or what?
+
+OREPHT_GN_TDAT1_1 = ~z~~sl:0.0:2.3~Okay, one of you point your gun at me.~sl:~But... just point it.
+
+OREPHT_GN_TDAT1_2 = ~z~And the other one, you take the picture.
+
+OREPHT_GN_TDAT2_1 = ~z~~sl:0.0:2.8~So y'all gather round and point guns at my head.~sl:~Gonna look like real artwork.
+
+OREPHT_GN_TDAT2_2 = ~z~And one of you, stand back so you can take the picture.
+
+OREPHT_GN_TDHG1_1 = ~z~~sl:0.0:2.5~Okay, one of you, tie me up and stand beside me,~sl:~like I'm a captured bounty.
+
+OREPHT_GN_TDHG1_2 = ~z~The other one, take the picture. It'll be great.
+
+OREPHT_GN_TDHG2_1 = ~z~~sl:0.0:2.3~I want one of you to tie me up, and then have~sl:~the rest of y'all stand by me, like I'm captured.
+
+OREPHT_GN_TDHG2_2 = ~z~One's gotta take the picture though, remember?
+
+OREPHT_GN_TDUP1_1 = ~z~Okay, one of you stand by me and hold your gun up.
+
+OREPHT_GN_TDUP1_2 = ~z~Look dangerous. The other one, you take the picture.
+
+OREPHT_GN_TDUP2_1 = ~z~~sl:0.0:1.2~Okay, how about this?~sl:~Y'all come over by me and hold your guns up.
+
+OREPHT_GN_TDUP2_2 = ~z~~sl:0.0:3.3~But one of you has to stay back and take the photograph.~sl:0.4~Goes without saying.
+
+OREPHT_HR_DMNT1_1 = ~z~Well, hop off then.
+
+OREPHT_HR_DMNT2_1 = ~z~You gotta get down so I can mount up.
+
+OREPHT_HR_DMNT3_1 = ~z~Well? Get off the horse already!
+
+OREPHT_HR_HTCH1_1 = ~z~Alright, bring your horse over and I'll hop right on.
+
+OREPHT_HR_HTCH2_1 = ~z~C'mon, over here. Move that animal!
+
+OREPHT_HR_HTCH3_1 = ~z~What's the holdup? Bring that pretty thing over.
+
+OREPHT_HR_IDLE_01 = ~z~Where's a horse when you need one...
+
+OREPHT_HR_IDLE_02 = ~z~Losing light...
+
+OREPHT_HR_IDLE_03 = ~z~C'mon... c'mon...
+
+OREPHT_HR_NOHR_1 = ~z~Alright, horseless. Leave me alone.
+
+OREPHT_HR_OFFR1_1 = ~z~~sl:0.0:3.4~That fine animal there. How about letting me~sl:~mount up for a photograph with it?
+
+OREPHT_HR_OFFR2_1 = ~z~~sl:0.0:3.8~Won't take long. I hop on, you take the picture.~sl:~C'mon. This here's the perfect spot.
+
+OREPHT_HR_OFFR3_1 = ~z~~sl:0.0:4.4~Well? What d'you say? I think it'd be a real fine picture.~sl:~And I'm great with horses.
+
+OREPHT_HR_PHFRM_01 = ~z~We're both in the frame, right? Me and the animal?
+
+OREPHT_HR_PHFRM_02 = ~z~I want both me and your animal in the photograph.
+
+OREPHT_HR_PHFRM_03 = ~z~You got the whole picture, right? Me? Your horse?
+
+OREPHT_HR_POSE1_1 = ~z~How about it? Sharp?
+
+OREPHT_HR_POSE2_1 = ~z~This feels right. Fine, I bet.
+
+OREPHT_HR_POSE3_1 = ~z~I like what you're thinking.
+
+OREPHT_HR_POSE4_1 = ~z~Okay! How's it look?
+
+OREPHT_HR_REAR_1 = ~z~Whoa, hey!
+
+OREPHT_HR_WHER1_1 = ~z~~sl:0.0:2.8~Hey, you have a horse nearby?~sl:~I need one for something I'm working on.
+
+OREPHT_HR_WHER1_2 = ~z~~sl:0.0:2.0~Not for long and I'll pay.~sl:~Nothing dangerous, don't worry...
+
+OREPHT_HR_WHER2_1 = ~z~Well? You got a horse or not?
+
+OREPHT_HR_WHER3_1 = ~z~~sl:0.0:1.5~You don't have a horse, fine.~sl:~I'm sure you're curious, but I've got no interest in idlers.
+
+OREPHT_HR_YAYHR_1 = ~z~Hey, look at that! Pretty thing, too.
+
+OREPHT_ST_AGATK_01 = ~z~Shoulda let it be!
+
+OREPHT_ST_AGATK_02 = ~z~I always get my way!
+
+OREPHT_ST_AGATK_03 = ~z~Oh, you're done now.
+
+OREPHT_ST_CHS1_01 = ~z~You stay back, now!
+
+OREPHT_ST_CHS1_02 = ~z~Just give up! My animal now!
+
+OREPHT_ST_CHS1_03 = ~z~It's over, this horse is mine now!
+
+OREPHT_ST_FLEE_1 = ~z~Fine, fine! I made a mistake, okay? Don't kill me.
+
+OREPHT_ST_THRN1_1 = ~z~Dammit! Lousy animal!
+
+OREPHT_ST_TNT1_1 = ~z~~sl:0.0:3.4~Alright! Found me a dummy. Thanks for the horse.~sl:~Really is a pretty thing.
+
+OREPHT_ST_TNT1_2 = ~z~You try me, I'll shoot! And I'm a great shot.
+
+OREPHT_ST_TNT2_1 = ~z~Rides like a dream!
+
+OREPHT_ST_TNT3_1 = ~z~World full of fools!
+
+OREPHT_TS_ACCPT_01 = ~z~Right, good. Let me get ready.
+
+OREPHT_TS_ACCPT_02 = ~z~Alright. I'll get into place.
+
+OREPHT_TS_ACCPT_03 = ~z~Yeah? Good. Lemme get set, hold on.
+
+OREPHT_TS_AGGHR_1 = ~z~Goddammit that ain't your horse!
+
+OREPHT_TS_AGGRO_01 = ~z~It's just a picture!
+
+OREPHT_TS_AGGRO_02 = ~z~Oh, come on! What the hell?
+
+OREPHT_TS_AGGRO_03 = ~z~You're making a damn mistake here.
+
+OREPHT_TS_ANNOY_01 = ~z~Forget it. You ain't taking this seriously.
+
+OREPHT_TS_ANNOY_02 = ~z~Thought you was friendly. Guess not.
+
+OREPHT_TS_ANPOS_01 = ~z~None of you are help at all.
+
+OREPHT_TS_ANPOS_02 = ~z~What'd I expect from you bunch...
+
+OREPHT_TS_DECLN_01 = ~z~Fine. Quit wasting my time, then.
+
+OREPHT_TS_DECLN_02 = ~z~Oh, I get it. You're scared of danger? Figures.
+
+OREPHT_TS_DECLN_03 = ~z~~sl:1.0~Fine. Shoulda known.
+
+OREPHT_TS_FAIL1_01 = ~z~You refuse to help, fine. Leave it at that.
+
+OREPHT_TS_FAIL1_02 = ~z~Our business is done.
+
+OREPHT_TS_FAIL2_01 = ~z~Ain't got shit else to do with you.
+
+OREPHT_TS_FAIL2_02 = ~z~C'mon. Leave me on my way.
+
+OREPHT_TS_FAIL3_01 = ~z~Leave me be, dammit.
+
+OREPHT_TS_FAIL3_02 = ~z~Get yourself the hell away from me.
+
+OREPHT_TS_FILM_01 = ~z~I'll handle the picture.
+
+OREPHT_TS_FILM_02 = ~z~I'll take it.
+
+OREPHT_TS_FILM_03 = ~z~I'll take the picture from you.
+
+OREPHT_TS_FILM_04 = ~z~I'll take the picture with me.
+
+OREPHT_TS_HOGTD_01 = ~z~Hey, hey! You let me go! I done nothing to you.
+
+OREPHT_TS_HOGTD_02 = ~z~You get me loose goddammit.
+
+OREPHT_TS_HOGTD_03 = ~z~What the hell you doing this for anyway?
+
+OREPHT_TS_HOGUT_1 = ~z~Lousy shit! I just wanted a picture.
+
+OREPHT_TS_OFFR4_01 = ~z~How 'bout you? You take my picture?
+
+OREPHT_TS_OFFR4_02 = ~z~You, how about you? Gonna help me?
+
+OREPHT_TS_OFFR5_01 = ~z~Any of you want to help? I got money.
+
+OREPHT_TS_OFFR5_02 = ~z~Any of you? C'mon...
+
+OREPHT_TS_PHBAD_01 = ~z~Shit... you are damn terrible.
+
+OREPHT_TS_PHBAD_02 = ~z~You ain't much good at this, huh?
+
+OREPHT_TS_PHCAM_01 = ~z~You'll need your camera.
+
+OREPHT_TS_PHCAM_02 = ~z~Get your camera ready. Know you got one.
+
+OREPHT_TS_PHCAM_03 = ~z~Alright. Get the camera out, c'mon.
+
+OREPHT_TS_PHCLS_01 = ~z~Get back some. You're real close.
+
+OREPHT_TS_PHCLS_02 = ~z~Too close for a picture. I know that.
+
+OREPHT_TS_PHCLS_03 = ~z~Why you so close in? Back up.
+
+OREPHT_TS_PHFAR_01 = ~z~I want you to see me. That's too far.
+
+OREPHT_TS_PHFAR_02 = ~z~You're too far off for a good picture.
+
+OREPHT_TS_PHFAR_03 = ~z~You won't take a good 'un from that distance. C'mon!
+
+OREPHT_TS_PHFRM_01 = ~z~You see me in the picture?
+
+OREPHT_TS_PHFRM_02 = ~z~You aiming at me or what?
+
+OREPHT_TS_PHFRM_03 = ~z~Best see me in the picture there.
+
+OREPHT_TS_PHGOD_01 = ~z~Oh, that's a good one!
+
+OREPHT_TS_PHGOD_02 = ~z~Nice shot there. That'll look good.
+
+OREPHT_TS_PHNOW_01 = ~z~Alright. I'm ready to go. Take the picture.
+
+OREPHT_TS_PHNOW_02 = ~z~Take the photo now.
+
+OREPHT_TS_PHNOW_03 = ~z~I am ready. Go on.
+
+OREPHT_TS_PHOK_01 = ~z~Alright. That'll do fine.
+
+OREPHT_TS_PHOK_02 = ~z~Pretty pretty.
+
+OREPHT_TS_PHRDY_01 = ~z~You shot too soon! Wait 'til I say so.
+
+OREPHT_TS_PHRDY_02 = ~z~Wait 'til I'm set, dammit.
+
+OREPHT_TS_PHRDY_03 = ~z~You shot off early, heh. Wait up a minute.
+
+OREPHT_TS_PHRWB_01 = ~z~Here. You tried at least.
+
+OREPHT_TS_PHRWB_02 = ~z~Here. Guess you did your best...
+
+OREPHT_TS_PHRWG_01 = ~z~Sure appreciate it. Here.
+
+OREPHT_TS_PHRWG_02 = ~z~Here you go. Damn, I'm a comely feller.
+
+OREPHT_TS_PHRWO_01 = ~z~Here, take this. For what you did.
+
+OREPHT_TS_PHRWO_02 = ~z~Thanks for it.
+
+OREPHT_TS_PHWAT_01 = ~z~Lemme get ready.
+
+OREPHT_TS_PHWAT_02 = ~z~Hold up 'til I'm ready.
+
+OREPHT_TS_PHWAT_03 = ~z~I'll tell you when I'm ready.
+
+OREPHT_TS_RIDB1_1 = ~z~Better next time...
+
+OREPHT_TS_RIDB2_1 = ~z~~sl:0.0:2.3~Listen. The picture was terrible.~sl:~Let's just go our separate ways, huh?
+
+OREPHT_TS_RIDB3_1 = ~z~Leave me be already.
+
+OREPHT_TS_RIDE1_01 = ~z~~sl:0.2:1.6~Good of you helping me out back there.~sl:0.6~Good eye, you got.
+
+OREPHT_TS_RIDE1_02 = ~z~~sl:0.0:1.8~Y'know, most folk's too stupid~sl:~to help out with something like this.
+
+OREPHT_TS_RIDE2_01 = ~z~~sl:0.9~I'll enjoy showing these off to the fellers back in town.
+
+OREPHT_TS_RIDE2_02 = ~z~Maybe we'll cross paths again sometime...
+
+OREPHT_TS_RIDE3_01 = ~z~I'm going solo now.
+
+OREPHT_TS_RIDE3_02 = ~z~Okay. I'm a real lonesome sort... get me?
+
+OREPHT_TS_WAIT_01 = ~z~C'mon, take the picture already.
+
+OREPHT_TS_WAIT_02 = ~z~Time's wasting here. Take the picture.
+
+OREPHT_TS_WAIT_03 = ~z~What's the damn holdup here?
+

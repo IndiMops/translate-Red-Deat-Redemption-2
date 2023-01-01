@@ -1,0 +1,32 @@
+CFDV2_ACT_1 = ~z~~sl:0.0:1.0~See?~sl:0.4~See!
+
+CFDV2_ACT_2 = ~z~What I tell you?
+
+CFDV2_ACT_3 = ~z~~sl:0.0:1.0~Listen.~sl:0.3~Next time, listen.
+
+CFDV2_ACT_4 = ~z~~sl:0.0:1.1~Faith.~sl:0.7~Faith is all that matters.
+
+CFDV2_ACT_5 = ~z~We had faith and we made it.
+
+CFDV2_ACT_6 = ~z~We are gonna make it.
+
+CFDV2_ACT_7 = ~z~~sl:0.0:1.2~We have a plan.~sl:0.5:1.1:1~My friends.
+
+CFDV2_ACT_8 = ~z~~sl:0.0:1.2~My loved ones.~sl:0.8~A plan.
+
+CFDV2_ACT_9 = ~z~There's a real plan.
+
+CFDV2_ACT_10 = ~z~~sl:0.0:2.6~We are going to leave this place,~sl:0.3~and we are going to find our own paradise.
+
+CFDV2_ACT_11 = ~z~Our own heaven.
+
+CFDV2_ACT_12 = ~z~~sl:0.0:1.0~Tahiti.~sl:0.4:1.1~Fiji.~sl:0.4~Australia.
+
+CFDV2_ACT_13 = ~z~The real new world.
+
+CFDV2_ACT_14 = ~z~~sl:0.0:2.6~Not this godforsaken dump~sl:~that all of Europe's detritus has acted out its peasant's vengeance on!
+
+CFDV2_ACT_15 = ~z~We are gonna be free!
+
+CFDV2_ACT_16 = ~z~Free.
+

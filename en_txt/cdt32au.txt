@@ -1,0 +1,82 @@
+CDT32_ACCEPT_1 = ~z~Sure, but I ain't much of a dancer.
+
+CDT32_DANCE_1 = ~z~See, Arthur, it's okay to dance... doesn't mean we won't stop thinking you're angry and sad.
+
+CDT32_DANCE_2 = ~z~That what you think of me?
+
+CDT32_DANCE_3 = ~z~Sad in a good way, like a romantic poet.
+
+CDT32_DANCE_4 = ~z~Well... that's about all I can muster.
+
+CDT32_DANDM_1 = ~z~Miss O'Shea... dance with me
+
+CDT32_DANDM_2 = ~z~Of course, Dutch.
+
+CDT32_DANDM_3 = ~z~
+
+CDT32_DANDM_4 = ~z~
+
+CDT32_DANDM_5 = ~z~
+
+CDT32_DANDM_6 = ~z~Well...
+
+CDT32_DANDM_7 = ~z~
+
+CDT32_DANDM_8 = ~z~
+
+CDT32_DANDM_9 = ~z~Well... well, well...
+
+CDT32_DANDM_10 = ~z~
+
+CDT32_DANDM_11 = ~z~
+
+CDT32_DANDM_12 = ~z~
+
+CDT32_DANDM_13 = ~z~
+
+CDT32_DANDM_14 = ~z~
+
+CDT32_DANDM_15 = ~z~
+
+CDT32_DANDM_16 = ~z~
+
+CDT32_DANDM_17 = ~z~
+
+CDT32_DANDM_18 = ~z~
+
+CDT32_DANDM_19 = ~z~
+
+CDT32_DANDM_20 = ~z~
+
+CDT32_DANDM_21 = ~z~I mean it.
+
+CDT32_DANDM_22 = ~z~Beautiful.
+
+CDT32_DANDM_23 = ~z~
+
+CDT32_DANDM_24 = ~z~
+
+CDT32_DANDM_25 = ~z~
+
+CDT32_DANDM_26 = ~z~
+
+CDT32_DANDM_27 = ~z~Oh, look at you.
+
+CDT32_DANDM_28 = ~z~
+
+CDT32_DANDM_29 = ~z~
+
+CDT32_DANDM_30 = ~z~There you go. Oh...
+
+CDT32_DANDM_31 = ~z~My dear.
+
+CDT32_DANDM_32 = ~z~
+
+CDT32_FINISHED_1 = ~z~Okay. Well, thank you, Mr. Morgan.
+
+CDT32_REJECT_1 = ~z~Another time...
+
+CDT32_REJECT_2 = ~z~Alright.
+
+CDT32_REQUEST_1 = ~z~Will you dance with me, Arthur?
+

@@ -1,0 +1,24 @@
+CPS15_ACTA_1 = ~z~What's wrong, Mr. Pearson?
+
+CPS15_ACTA_2 = ~z~Nothing... oh, nothing.
+
+CPS15_ACTA_3 = ~z~Well then, why do you look like a beaten dog?
+
+CPS15_ACTA_4 = ~z~Because... I don't know, it's hard to say, the mud... the swamps...
+
+CPS15_ACTA_5 = ~z~do you know, I once saw the cape from a fourty foot swell?
+
+CPS15_ACTA_6 = ~z~I once crossed the equator during a meteor shower,
+
+CPS15_ACTA_7 = ~z~I rode into harbors surrounded by beautiful maidens selling pineapple,
+
+CPS15_ACTA_8 = ~z~and colors, colors so brilliant they'd burn you eyes...
+
+CPS15_ACTA_9 = ~z~and now, I live in a swamp, waiting to get shot for riding with outlaws.
+
+CPS15_ACTA_10 = ~z~Well, I never took you for the self-pitying sort.
+
+CPS15_ACTA_11 = ~z~I never was... it's the mud and the swamps... sometimes it gets to me.
+
+CPS15_ACTA_12 = ~z~Actually... I'm fine Miss Grimshaw... nothing like good honest labour... back to work.
+

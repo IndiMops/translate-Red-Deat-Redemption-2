@@ -1,0 +1,232 @@
+0x0137B344 = ~z~Look, I'll be hospitable with you again, as long as you do me the courtesy of acting proper.
+
+0x02571848 = ~z~I'll shoot you if I must.
+
+0x026FF847 = ~z~Hey, now that's awful rude.
+
+0x036A13C3 = ~z~Please, don't.
+
+0x051A8AF6 = ~z~I've got nothing.
+
+0x05EC887F = ~z~Did you do this?
+
+0x0632A53B = ~z~This is what the law is for.
+
+0x0690F192 = ~z~Come now, I think it's best if you head off.
+
+0x07944673 = ~z~I'm sorry, but you're just too close.
+
+0x084A538A = ~z~I know you been on the run from the law. I'll serve you, long as you don't bring trouble under this roof.
+
+0x09BD7C2E = ~z~I don't need this. Please let me alone.
+
+0x0E2D5B29 = ~z~Excellent choice. Head in whenever you're ready.
+
+0x1B17BB1C = ~z~Please, fellers!
+
+0x1D1D12DD = ~z~You look fresh as the morning dew.
+
+0x2C5A87C4 = ~z~Do I look funny or something?
+
+0x3FC45B4A = ~z~Okay then.
+
+0x4E825131 = ~z~Howdy and welcome.
+
+0x4F5BB78C = ~z~Well, I'd like to see what the law says about this.
+
+0x5AFF3885 = ~z~Sure, sure, I know what's best for me.
+
+0x6DB483E8 = ~z~All yours. Have a pleasant stay.
+
+0x6F1DAD44 = ~z~Fine, fine, take it.
+
+0x7EBCF0E3 = ~z~That's enough of that kind of talk.
+
+0x7FE44ED1 = ~z~Okay, okay, it's yours.
+
+0x8A955DE2 = ~z~I'm holding myself back from stomping you.
+
+0x8B96E7AE = ~z~Howdy. First time?
+
+0x8BDA0F0E = ~z~Uh, yeah, hello again.
+
+0x8C337108 = ~z~Now, wasn't that simply transformative?
+
+0x8D8E9A44 = ~z~What d'you boys need?
+
+0x9A541D59 = ~z~Please just leave me to my own.
+
+0x9BA44A1A = ~z~Hello again.
+
+0x9E58CF68 = ~z~Pardon.
+
+0x22BC1872 = ~z~Wait, I'm sure we can resolve this.
+
+0x23C6C10B = ~z~Hey, h-hey! Let people live in peace.
+
+0x34A9FCED = ~z~You want to die over this?
+
+0x36EFF4AE = ~z~I'm watching you close. You better not try to steal anything else.
+
+0x39D3065E = ~z~My fault.
+
+0x40E9E64B = ~z~You're spoiling the mood here. Please leave.
+
+0x60C7F5BC = ~z~Hey there, friend.
+
+0x69B70D30 = ~z~I need you to leave.
+
+0x70AC63D3 = ~z~No one is impressed by that kind of behavior.
+
+0x73AD0033 = ~z~Get away from me, damn you!
+
+0x77CA57CF = ~z~Ah, you're a local. I'll give you the friends and neighbors discount.
+
+0x87A6437C = ~z~Glad you're here.
+
+0x89D3976F = ~z~Can't you see I don't want to be followed?
+
+0x93C227B7 = ~z~It's high time for me to ignore you.
+
+0x93CB704E = ~z~How about I put you on the ground where you belong?
+
+0x179FEC70 = ~z~Come now, leave them alone.
+
+0x220B0156 = ~z~There's no cause to treat them like that.
+
+0x237D8CB8 = ~z~Hey, p-p-put that gun down.
+
+0x261CBE80 = ~z~Whoa-oh, don't be doing that.
+
+0x263C152D = ~z~You want to see the back of my hand?
+
+0x322B5806 = ~z~We've fallen on difficult times, I'm afraid.
+
+0x343DA5BB = ~z~What'd they do to you?
+
+0x380A03A9 = ~z~Are you ready to die, right now?
+
+0x470DA20D = ~z~Hey, you should not be here.
+
+0x926A3DAD = ~z~Oh God, please leave me alone!
+
+0x949EC219 = ~z~I think I'll go get the law.
+
+0x1309A6D4 = ~z~I don't have anything for you.
+
+0x1416D050 = ~z~Hey, now. Settle down, feller.
+
+0x1980C6F8 = ~z~Excuse me, you're gonna have to leave.
+
+0x7576E4F9 = ~z~No. How could you?
+
+0x943384E8 = ~z~Please, no more.
+
+0x996701DA = ~z~Okay, okay, here. This is all I have.
+
+0x1588248E = ~z~You! Stop causing folk misery.
+
+0x4381010E = ~z~My God, no. What-what... Why have you done this?
+
+0x6235410F = ~z~Is this your work?
+
+0x20009448 = ~z~P-please, I-I put every p-penny I had into this place.
+
+0x25425153 = ~z~Don't think I'm going to trust you that easy. You nick anything again and you'll hear it from me.
+
+0x50671438 = ~z~Whatever makes you say that?
+
+0x52467786 = ~z~Hold on, don't get all excited.
+
+0xA0DE0084 = ~z~Magnificent. You'll feel renewed in no time.
+
+0xA9ED03CD = ~z~As long as you're peaceful this time, you're welcome back.
+
+0xA55A1B38 = ~z~Hello, stranger. Welcome.
+
+0xA4859D50 = ~z~No, no, no! I-I can't afford to be robbed.
+
+0xA5580A9A = ~z~I'm serious, quit it.
+
+0xA863448C = ~z~Between you and me, it's been difficult to keep afloat, these days.
+
+0xA8872885 = ~z~Where is your dignity?
+
+0xB2CD39DF = ~z~Please, please d-don't. The job is hard enough as it is.
+
+0xB8FF9CF6 = ~z~Please stay on your best behavior this time.
+
+0xB73CEEAC = ~z~That's all the time I'm going to spend on you.
+
+0xB82BCCA6 = ~z~I am trying to run a respectable establishment here!
+
+0xB265FDA7 = ~z~The law will settle this.
+
+0xB398A5F9 = ~z~Wonderful. I envy your imminent bliss.
+
+0xB925F8C4 = ~z~Why can't you Raiders leave it at the door? Please, fellers!
+
+0xBC13A31E = ~z~I do hope you ain't back to be a menace again.
+
+0xBE8FC2DE = ~z~Whoa! You don't need that.
+
+0xC6E39135 = ~z~Good, folks have taken a real shine to this place.
+
+0xC7FD22AC = ~z~Excuse me.
+
+0xC8DB11E8 = ~z~I'm done paying you attention.
+
+0xC53DEEFD = ~z~You like to play with fire or something?
+
+0xCA8BA7E8 = ~z~Back for more?
+
+0xCB6B891F = ~z~Hey, you shouldn't do that.
+
+0xCDD0DEA0 = ~z~Listen, I don't want any trouble with outlaws. You going to behave in here?
+
+0xCE79852C = ~z~Folks like you from Rhodes don't have to pay the full rate.
+
+0xD6D3216B = ~z~Some trouble we had has kept folks away. Damn shame.
+
+0xD477D16D = ~z~Go ahead, your room's ready when you are.
+
+0xDAB1754C = ~z~I need you to stop that.
+
+0xDBE1F184 = ~z~Go. I'm not asking, I'm telling.
+
+0xDC26BAD2 = ~z~Okay, I know how to look the other way.
+
+0xDDB9C863 = ~z~Don't do this.
+
+0xDF01E67D = ~z~It's ready for you now. Do enjoy.
+
+0xE09FC4AD = ~z~I'm busy as a bee, just the way I like it.
+
+0xE0DEFEEF = ~z~Can't you just be kind?
+
+0xE4A434FF = ~z~Whoa now, that's not such a great idea.
+
+0xE7DFB425 = ~z~Come on, move along.
+
+0xE88D2DA2 = ~z~Why won't you stop?
+
+0xE949C5FB = ~z~Careful, you'll hurt my feelings.
+
+0xEB1C3AA9 = ~z~Please, I'm going to have to insist you head out.
+
+0xEB40C238 = ~z~Hold on, you sure you've thought this through?
+
+0xEE1CB7FC = ~z~Sure.
+
+0xEF078E05 = ~z~No, no, no, no. No more violence in my saloon, we got a deal?
+
+0xF1AA1429 = ~z~I'll give you another shot, but you behave if you want to earn my trust back.
+
+0xF71CA584 = ~z~Um, could you give me some space, please?
+
+0xF80FD8D3 = ~z~I would like to be left alone, please.
+
+0xF891687B = ~z~Hm. Didn't we just say hello?
+
+0xFADAF923 = ~z~Steady enough. Thanks for asking.
+

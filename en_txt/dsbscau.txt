@@ -1,0 +1,234 @@
+DSBSC_BASE_A_1 = ~z~~sl:2.2:0.0~Now then...
+
+DSBSC_BASE_A_2 = ~z~Oh, bad, bad, bad girl...
+
+DSBSC_BASE_A_3 = ~z~~sl:0.5:2.5:1~Mother won't like that, no...
+
+DSBSC_BASE_A_4 = ~z~~sl:0.0:3.4:1~Silly... silly...
+
+DSBSC_BASE_A_5 = ~z~~sl:0.0:1.2:1~Sleepy...
+
+DSBSC_BASE_A_6 = ~z~~sl:0.0:0.4~Oh...~sl:1.0:0.5~oh...~sl:0.3:1.0:1~poop coming...
+
+DSBSC_BASE_A_7 = ~z~Feel sick...
+
+DSBSC_BASE_A_8 = ~z~~sl:0.0:2.0~Oh, you did it again...~sl:0.3~"Stop," mother told you, mother won't like that.
+
+DSBSC_BASE_A_9 = ~z~Oh, there, there... that's better.
+
+DSBSC_BASE_A_10 = ~z~No supper for you!
+
+DSBSC_BASE_A_11 = ~z~~sl:0.0:1.9:1~Oh, good girl...
+
+DSBSC_BASE_A_12 = ~z~~sl:1.1:0.0~That's a nice one!
+
+DSBSC_BASE_A_13 = ~z~Where's the birdies? Stop it, stop it!
+
+DSBSC_BASE_A_14 = ~z~
+
+DSBSC_BASE_B_1 = ~z~I'm tired, but I better not sleep...
+
+DSBSC_BASE_B_2 = ~z~~sl:0.0:2.6:1~I'm tired, but I better not sleep.
+
+DSBSC_BASE_B_3 = ~z~~sl:0.0:0.8:1~Where's the birdies?
+
+DSBSC_BASE_B_4 = ~z~~sl:0.0:1.7:1~Oh, I hear birdies...
+
+DSBSC_BASE_B_5 = ~z~~sl:5.1:0.0~Mother said not to, mother said not to, so I won't, I'm a good girl.
+
+DSBSC_BASE_B_6 = ~z~Don't... talk to me like... okay, you,  I didn't mean it, I didn't...
+
+DSBSC_BASE_B_7 = ~z~~sl:0.0:4.6:1~It's okay... oh, it's okay, sweetie...
+
+DSBSC_BASE_B_8 = ~z~~sl:5.1:0.8~I'm gonna barf...~sl:0.0:4.5~oh you, you, you better not throw up, little girl...~sl:~little lady...
+
+DSBSC_BASE_B_9 = ~z~~sl:0.0:1.4~Early bird gets the worms...~sl:~but I get worms every day, in here, that's right.
+
+DSBSC_BASE_B_10 = ~z~Where's my friends... I'll keep you from the birds...
+
+DSBSC_BT_COUNT_1 = ~z~~sl:0.0:7.2~One, two, three, seven, six... four, five, eleven...~sl:0.6:~two... uh, one, two, ten, three, five, eight, thirteen, fourteen...
+
+DSBSC_BT_COUNT_2 = ~z~One, two...
+
+DSBSC_COUNT_1 = ~z~~sl:0.0:8.0:1~Three... four... seventeen... tw-tw-twenty-nine, thirteen...
+
+DSBSC_COUNT_2 = ~z~~sl:0.0:4.2~One, two, three, four, five, seventeen, eight, nine, three...~sl:0.3~one, two, four, seven... five, nine, one...
+
+DSBSC_COUNT_3 = ~z~One, one... one...
+
+DSBSC_COUNT_4 = ~z~~sl:0.0:6.5:1~One, two, three... s-seven, six, three...
+
+DSBSC_COUNT_5 = ~z~~sl:0.3:6.2~Five, eleven... t-two... one, two, ten, three...~sl:1.0~four, five, eight, thirteen, fourteen, one...
+
+DSBSC_COUNT_6 = ~z~One, two... one, two, three, four...
+
+DSBSC_COUNT_7 = ~z~~sl:1.8:0.0~One, two, three... four, seven, three, six!
+
+DSBSC_COUNT_8 = ~z~~sl:0.3:0.0~One, two, three, four, five... seventeen?
+
+DSBSC_COUNT_TB_1 = ~z~Eight, nine, three...
+
+DSBSC_COUNT_TB_2 = ~z~One, two, three, four... one, two... one...
+
+DSBSC_DIA_A_FAR_1 = ~z~~sl:1.3:2.7:1~Comb my hair... mother!~sl:0.8:0.6:1~Mother...
+
+DSBSC_DIA_A_FAR_2 = ~z~Where are you?
+
+DSBSC_DIA_A_FAR_3 = ~z~~sl:0.9:1.0~Penelope...~sl:0.3:1.2:1~you bitch!
+
+DSBSC_DIA_A_FAR_4 = ~z~~sl:0.0:1.7:1~Oh, I'm wet again...
+
+DSBSC_DIA_A_FAR_5 = ~z~~sl:0.8:1.7:1~I hate you!
+
+DSBSC_DIA_A_FAR_6 = ~z~~sl:0.0:2.1~Gerald... Gerald!~sl:1.5~Where's my tea?
+
+DSBSC_DIA_A_FAR_7 = ~z~~sl:2.1:0.0~I'll kill you, I'll kill you...
+
+DSBSC_DIA_A_FAR_8 = ~z~~sl:1.5:1.1:1~Bathe me!
+
+DSBSC_DIA_A_FAR_9 = ~z~~sl:0.7:1.1:1~Gareth...
+
+DSBSC_DIA_A_FAR_10 = ~z~~sl:0.0:4.1:1~Mother? Where are you?
+
+DSBSC_DIA_A_FAR_11 = ~z~~sl:0.0:3.7:1~Bartho-Bartholemew... Bartholemew...
+
+DSBSC_DIA_A_FAR_12 = ~z~
+
+DSBSC_DIA_A_FAR_13 = ~z~~sl:0.0:5.4:1~Where's Daddy? Daddy? Bitch! Kill dad...
+
+DSBSC_DIA_A_FAR_14 = ~z~~sl:0.0:6.3:1~Who's coming? Oh! Oh, I'm a-I'm a good girl! I know cows, I see cows!
+
+DSBSC_DIA_A_FAR_15 = ~z~~sl:0.0:3.8:1~I've been... I've been bad again...
+
+DSBSC_DIA_A_FAR_16 = ~z~Who's there? Oh... I, I hear you...
+
+DSBSC_DIA_A_FAR_17 = ~z~~sl:0.0:1.9:1~Who's creeping around?
+
+DSBSC_DIA_B_FAR_1 = ~z~~sl:0.0:1.6:1~Mother!
+
+DSBSC_DIA_B_FAR_2 = ~z~~sl:2.6:1.1:1~Mother...
+
+DSBSC_DIA_B_FAR_3 = ~z~Mother...
+
+DSBSC_DIA_B_FAR_4 = ~z~
+
+DSBSC_DIA_B_FAR_5 = ~z~~sl:0.0:1.0:1~Killers!
+
+DSBSC_DIA_B_FAR_6 = ~z~~sl:0.2:1.3:1~Killer!
+
+DSBSC_DIA_B_FAR_7 = ~z~Oh, it's okay... it's okay... oh it's...
+
+DSBSC_DIA_B_FAR_8 = ~z~~sl:0.0:0.9:1~Killer!
+
+DSBSC_MIDCHAT_A_1 = ~z~
+
+DSBSC_MIDCHAT_A_2 = ~z~~sl:1.2:0.0~Who are you?
+
+DSBSC_MIDCHAT_A_3 = ~z~~sl:0.6:0.0~Who's out there, somebody's out there...
+
+DSBSC_MIDCHAT_A_4 = ~z~~sl:0.0:2.1:1~What do you want?
+
+DSBSC_MIDCHAT_A_5 = ~z~~sl:0.0:0.9:1~Wanna kiss?
+
+DSBSC_MIDCHAT_A_6 = ~z~~sl:0.5:3.2:1~Kill you! I'll kill you!
+
+DSBSC_MIDCHAT_A_7 = ~z~~sl:0.3:2.4~Yeah... oh yeah...~sl:1.3:1.1:1~You like that?
+
+DSBSC_MIDCHAT_A_8 = ~z~~sl:0.0:2.0:1~You like... you like my hair?
+
+DSBSC_MIDCHAT_A_9 = ~z~~sl:1.1:2.3:1~You stink, you stink!
+
+DSBSC_MIDCHAT_A_10 = ~z~~sl:0.0:1.5:1~Where's my mother?
+
+DSBSC_MIDCHAT_A_11 = ~z~~sl:0.6:0.0~You bastard... bastard...
+
+DSBSC_MIDCHAT_A_12 = ~z~~sl:0.3:1.6:1~You sumbitch!
+
+DSBSC_MIDCHAT_A_13 = ~z~~sl:1.0:5.8:1~Hey, hey, here... uh, yeah, what about this? You wanna marry me?
+
+DSBSC_MIDCHAT_A_14 = ~z~
+
+DSBSC_MIDCHAT_A_15 = ~z~~sl:0.3:4.1~Yeah... do it... do it!~sl:0.6:1.6:1~I'll kill you!
+
+DSBSC_MIDCHAT_B_1 = ~z~
+
+DSBSC_MIDCHAT_B_2 = ~z~~sl:0.0:1.0:1~Who's there?
+
+DSBSC_MIDCHAT_B_3 = ~z~I'll kill you!
+
+DSBSC_MIDCHAT_B_4 = ~z~
+
+DSBSC_MIDCHAT_B_5 = ~z~I can hear you...
+
+DSBSC_MIDCHAT_B_6 = ~z~~sl:0.0:2.8~There's someone out there, isn't there? There's someone out there...~sl:0.2~I think there's someone out there.
+
+DSBSC_MIDCHAT_B_7 = ~z~Yes! I know I'll kill you.
+
+DSBSC_MIDCHAT_B_8 = ~z~~sl:0.9:1.5:1~Be, be my friend!
+
+DSBSC_MIDCHAT_B_9 = ~z~~sl:0.3:5.2:1~Penelope said, Penelope said don't make friends anymore, it's not fair to the cows...
+
+DSBSC_MIDCHAT_B_10 = ~z~~sl:0.0:0.9:1~Who's there?
+
+DSBSC_MIDCHAT_B_11 = ~z~~sl:0.8:2.5:1~Who are you... who are you?
+
+DSBSC_MIDCHAT_B_12 = ~z~~sl:0.0:3.6:1~Oh! Oh, oh! Wanna kiss?
+
+DSBSC_MIDCHAT_B_13 = ~z~~sl:0.0:1.2:1~I'll kill you!
+
+DSBSC_MIDCHAT_B_14 = ~z~~sl:0.4:0.0~Always... always you...
+
+DSBSC_MIDCHAT_B_15 = ~z~
+
+DSBSC_MIDCHAT_C_1 = ~z~~sl:5.0:0.0~Oh, I can smell 'em coming from a mile away...
+
+DSBSC_MIDCHAT_C_2 = ~z~~sl:0.0:2.9~They think I can't tell what's going on out there...~sl:~I know what's going on out there...
+
+DSBSC_MIDCHAT_C_3 = ~z~I can smell'em...
+
+DSBSC_MIDCHAT_C_4 = ~z~~sl:0.0:1.1:1~I'll kill you...
+
+DSBSC_MIDCHAT_C_5 = ~z~
+
+DSBSC_MIDCHAT_C_6 = ~z~~sl:3.4:1.9~It's not been very long at all though...~sl:~I don't think, I don't, I don't think it's been,
+
+DSBSC_MIDCHAT_C_7 = ~z~~sl:0.0:2.9:1~I don't think it's been very long at all. I just got here, basically.
+
+DSBSC_MIDCHAT_C_8 = ~z~~sl:0.0:1.0:1~Who's out there?
+
+DSBSC_MIDCHAT_C_9 = ~z~I can... I can hear you.
+
+DSBSC_PEEK_LNGE_1 = ~z~~sl:1.6:1.3:1~Asshole!
+
+DSBSC_PEEK_LNGE_2 = ~z~~sl:0.0:2.7~You should stick your finger up your ass!~sl:0.3~"Good idea," Mama said.
+
+DSBSC_PEEK_LNGE_3 = ~z~~sl:0.3:1.3:1~You stink!
+
+DSBSC_PEEK_LNGE_4 = ~z~~sl:0.3:0.0~I'll find it, I'll find it... I'll find it up there somewhere...
+
+DSBSC_PEEK_N_1 = ~z~
+
+DSBSC_PEEK_N_2 = ~z~~sl:0.0:1.9:1~I'll find a way home!
+
+DSBSC_PEEK_N_3 = ~z~~sl:0.2:2.1:1~You silly old bastard!
+
+DSBSC_PEEK_N_4 = ~z~
+
+DSBSC_PEEK_R_1 = ~z~~sl:1.6:0.0~You! Marry me!
+
+DSBSC_PEEK_R_2 = ~z~~sl:0.6:0.0~I'll fuck you! You know I will.
+
+DSBSC_PEEK_R_3 = ~z~~sl:0.0:2.4:1~Why, why... where'd you go?
+
+DSBSC_PEEK_R_4 = ~z~~sl:0.0:2.9:1~Who... who are you? Please!
+
+DSBSC_PEEK_R_5 = ~z~~sl:0.8:0.0~Oh, mother...
+
+DSBSC_PEEL_L_1 = ~z~~sl:0.9:1.4:1~Someone there!
+
+DSBSC_PEEL_L_2 = ~z~I smell you!
+
+DSBSC_PEEL_L_3 = ~z~Oh, where... is that smell coming from?
+
+DSBSC_PEEL_L_4 = ~z~~sl:0.0:4.1:1~Oh! Fine, fine... I'll find you!
+

@@ -1,0 +1,52 @@
+0x3D2907A9 = Follow ~o~Charles~s~
+
+0x92D2C717 = Look at the money lenders
+
+0x96469EA1 = Charles left.
+
+0xA5C3ECF9 = Look at the catcallers
+
+FMA3_BLIP_C = Charles Chatenay
+
+FMA3_F_ART = Charles Chatenay has died.
+
+FMA3_F_DIST = Charles was abandoned.
+
+FMA3_F_DMG = You attacked Charles.
+
+FMA3_GOTO_ARTIST = Approach the ~o~workshop~s~
+
+FMA3_O_SAVE = Save ~o~Charles Chatenay~s~
+
+FMA3_THREAT = Threaten
+
+FMA4_BLIP_GALLERY = Gallery
+
+FMA4_F_ALERT = Charles was spotted.
+
+FMA4_F_ART = Charles Chatenay has died.
+
+FMA4_F_DIST = Left Charles Chatenay behind.
+
+FMA4_F_DOORMAN = The doorman was scared.
+
+FMA4_F_PATRO = You disrupted the exhibition.
+
+FMA4_F_SCAR = You caused too much of a commotion.
+
+FMA4_O_GOTO = Find ~o~Charles~s~
+
+FMA4_O_LEAVE = Follow ~o~Charles~s~
+
+FMA4_O_PROT = Fend off the ~e~attackers~s~
+
+FMA4_O_SEARCH = Search the ~o~gallery~s~ for Charles
+
+FMA5_HLP_LAW = Low level crimes will be investigated by lawmen. Leave the area to avoid becoming wanted.
+
+FMA5_O_DOCK = Escort ~o~Charles~s~
+
+FMA5_O_FIGHT = Fight the ~e~attackers~s~
+
+FMA5_O_RETURN = Return to ~o~Charles~s~
+

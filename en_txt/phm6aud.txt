@@ -1,0 +1,570 @@
+HCP_D_COMBAT1_1 = ~z~Swinkin cur!
+
+HCP_D_COMBAT2_1 = ~z~Stepping on our land!
+
+HCP_D_COMBAT3_1 = ~z~Sends you back to the shadows!
+
+HCP_D_COMBAT4_1 = ~z~I'll square you up, don't ya!
+
+HCP_D_COMBAT5_1 = ~z~Godless outlander!
+
+HCP_D_COMBAT6_1 = ~z~Bury him with the rest!
+
+HCP_D_HEARD1_1 = ~z~Encroachers! Keeps them out of the shed!
+
+HCP_D_SEENPLY_1 = ~z~Who the hickory are you?
+
+HCP_EXT_1 = ~z~Look what we have here.
+
+HCP_EXT_2 = ~z~I told you it was worth the trouble, didn't I?
+
+HCP_EXT_3 = ~z~Here...
+
+HCP_EXT_4 = ~z~you take this.
+
+HCP_EXT_5 = ~z~Let's split up...
+
+HCP_EXT_6 = ~z~I'll meet you back at camp.
+
+HCP_EXT_7 = ~z~Sounds good.
+
+HCP_FIRSTBLOOD_1 = ~t~In Spanish: Over here, fools.
+
+HCP_F_COMBAT1_1 = ~z~End that mooching cur!
+
+HCP_F_COMBAT2_1 = ~z~Flagger his felt, why don't ya!
+
+HCP_F_COMBAT3_1 = ~z~The reckoning will come for you early, outlander!
+
+HCP_F_COMBAT4_1 = ~z~Return to the shadows!
+
+HCP_F_COMBAT5_1 = ~z~We'll show you we cants be undone!
+
+HCP_F_COMBAT6_1 = ~z~You comes to kill my brood!
+
+HCP_F_HEARD1_1 = ~z~Encroachers? Kill them!
+
+HCP_F_S2DEAD_1 = ~z~Mal!
+
+HCP_F_SEENPLY_1 = ~z~No, no you slinkin skulkbobber, you can't be stepping here!
+
+HCP_F_SEENPLY_2 = ~z~Encroacher! Kills him!
+
+HCP_F_STARTCOM1_1 = ~z~Danger is upon us. Defend yours, don't ya.
+
+HCP_GOTOSHED_1 = ~z~I don't see any more of them. Alright, quick, let's look for the stash.
+
+HCP_GOTOSHED_2 = ~z~They weren't shy about defending that barn. Let's check in there first.
+
+HCP_J_ATTACK_1 = ~z~Now, Arthur!
+
+HCP_J_ATTACK_2 = ~z~Let's take 'em out quick. The rest will be on their way.
+
+HCP_J_CLOSE1_1 = ~z~Arthur, stay close.
+
+HCP_J_CLOSE2_1 = ~z~What are you doing? Let's stick together.
+
+HCP_J_CLOSE3_1 = ~z~Damn it, Arthur. Come back here, you're going to blow the whole thing.
+
+HCP_J_CMBT_1_1 = ~z~Arthur, watch out! Shooters near the barn!
+
+HCP_J_CMBT_2_1 = ~z~We got at least one in the cabin, at the window.
+
+HCP_J_CMBT_3_1 = ~z~That barn, they're protecting it good.
+
+HCP_J_CMBT_4_1 = ~z~Great shot, Arthur.
+
+HCP_J_CMBT_5_1 = ~z~Mierda, this is taking too long.
+
+HCP_J_CMBT_5_2 = ~z~We need to finish this, find the money and get the hell out of here.
+
+HCP_J_CMBT_6_1 = ~z~Last one's in the cabin.
+
+HCP_J_CMBT_7_1 = ~z~Just the ones in the barn left, Arthur.
+
+HCP_J_CMBT_7_2 = ~z~Let's finish this so we can find the cash.
+
+HCP_J_CROUCH1_1 = ~z~Stay low, Arthur.
+
+HCP_J_CROUCH2_1 = ~z~What are you doing? Get down.
+
+HCP_J_CROUCH3_1 = ~z~Damn it, if we get caught, it's on you.
+
+HCP_J_LISTEN_1_1 = ~z~Come on, let's hide behind this shed, see if we can hear what they're saying.
+
+HCP_J_LISTEN_2_1 = ~z~Just stay quiet.
+
+HCP_J_LISTEN_3_1 = ~z~You understand what they're saying?
+
+HCP_J_LISTEN_3_2 = ~z~Not much of it.
+
+HCP_J_LOOKOUT_1 = ~z~Just up the hill this way. Follow me.
+
+HCP_J_PUSHED1_1 = ~z~What the hell, Arthur?
+
+HCP_J_PUSHED2_1 = ~t~In Spanish: Watch out.
+
+HCP_J_PUSHED3_1 = ~z~What is your problem?
+
+HCP_J_SUSH1_1 = ~z~Be quiet.
+
+HCP_J_SUSH2_1 = ~z~They're gonna hear us.
+
+HCP_J_SUSH3_1 = ~z~I don't know what the hell you're playing at.
+
+HCP_J_TOSCOUT1_1 = ~z~There's a spot up ahead where we should be able to get a good look at the place.
+
+HCP_J_TOSCOUT1_2 = ~z~I want to make sure we don't run into any surprises.
+
+HCP_J_TOSCOUT1_3 = ~z~Sure.
+
+HCP_S1_COMBAT1_1 = ~z~Flagger that gutterfunk!
+
+HCP_S1_COMBAT2_1 = ~z~Swinkin' outlander!
+
+HCP_S1_COMBAT3_1 = ~z~Back to hell, don't ya!
+
+HCP_S1_COMBAT4_1 = ~z~Blenching encroacher!
+
+HCP_S1_COMBAT5_1 = ~z~He bring the eye of the demon, don't ya!
+
+HCP_S1_FDEAD_1 = ~z~Pappy, no!
+
+HCP_S1_S2DEAD_1 = ~z~Mal! No!
+
+HCP_S1_SEENPLY_1 = ~z~Hey you can't be stepping in here, don't you!
+
+HCP_S2_COMBAT1_1 = ~z~Come stepping on our soil, don't you!
+
+HCP_S2_COMBAT2_1 = ~z~You swinkin' gutterfunk!
+
+HCP_S2_COMBAT3_1 = ~z~Flagger that skulkbobber!
+
+HCP_S2_COMBAT4_1 = ~z~Don't thinks you're slinking outta here!
+
+HCP_S2_COMBAT5_1 = ~z~You're mine, outlander!
+
+HCP_S2_S1DEAD_1 = ~z~No! Pappy!
+
+HCP_S2_SEENPLY_1 = ~z~Blenching worm, toe-tipping up on us!
+
+HCP_S3_COMBAT1_1 = ~z~Leave us alone, outlander!
+
+HCP_S3_COMBAT2_1 = ~z~We falls for nobody!
+
+HCP_S3_COMBAT3_1 = ~z~Step off our soil, don't ya!
+
+HCP_S3_COMBAT4_1 = ~z~You'll join the perished!
+
+HCP_S3_COMBAT5_1 = ~z~Slinkin' gutterfunk!
+
+HCP_S3_SEENPLY_1 = ~z~Encroacher!
+
+HCP_TOOSOON_1 = ~z~Damn it, Arthur. You went too soon!
+
+HCP_TOOSOON_2 = ~z~I decided to improvise.
+
+PHRM6_D_ANGER_01 = ~z~I'll flagger your felt!
+
+PHRM6_D_ANGER_02 = ~z~You blenching cur!
+
+PHRM6_D_ANGER_03 = ~z~You mooching worm!
+
+PHRM6_D_CARRY_01 = ~z~Beware the reckoning!
+
+PHRM6_D_CARRY_02 = ~z~Down me or elsewise!
+
+PHRM6_D_CARRY_03 = ~z~Where the hickory takes me?
+
+PHRM6_D_SHOCK_01 = ~z~What the hickory?
+
+PHRM6_D_SHOCK_02 = ~z~Swinkin heck!
+
+PHRM6_D_SHOCK_03 = ~z~Damnation!
+
+PHRM6_D_TIED_01 = ~z~Unhand me, outlander!
+
+PHRM6_D_TIED_02 = ~z~Slinkin gutterfunk.
+
+PHRM6_D_TIED_03 = ~z~Loose me, don't ya!
+
+PHRM6_EXT_LI_1 = ~z~
+
+PHRM6_EXT_LI_2 = ~z~
+
+PHRM6_EXT_LI_3 = ~z~Ah, well...
+
+PHRM6_F_ANGER_01 = ~z~Blenching gutterfunk!
+
+PHRM6_F_ANGER_02 = ~z~Damnation!
+
+PHRM6_F_ANGER_03 = ~z~Be gone, outlander!
+
+PHRM6_F_CARRY_01 = ~z~Lets me off, darn you!
+
+PHRM6_F_CARRY_02 = ~z~Frees me or elsewise, outlander!
+
+PHRM6_F_CARRY_03 = ~z~Darn it. Down me, gutterfunk!
+
+PHRM6_F_SHOCK_01 = ~z~What the hickory?
+
+PHRM6_F_SHOCK_02 = ~z~Swinkin heck!
+
+PHRM6_F_SHOCK_03 = ~z~Lancers!
+
+PHRM6_F_TIED_01 = ~z~Frees me now!
+
+PHRM6_F_TIED_02 = ~z~Mooching cur!
+
+PHRM6_F_TIED_03 = ~z~Unhand me, you swinkin gutterfunk!
+
+PHRM6_S1_ANGER_01 = ~z~You blenching cur!
+
+PHRM6_S1_ANGER_02 = ~z~Hellborn gutterfunk!
+
+PHRM6_S1_ANGER_03 = ~z~You damn skulkbobber!
+
+PHRM6_S1_CARRY_01 = ~z~You puts me down, outlander!
+
+PHRM6_S1_CARRY_02 = ~z~He knows not the awakening!
+
+PHRM6_S1_CARRY_03 = ~z~Lets me off, don't you!
+
+PHRM6_S1_SHOCK_01 = ~z~What the hickory?
+
+PHRM6_S1_SHOCK_02 = ~z~Swinkin heck!
+
+PHRM6_S1_SHOCK_03 = ~z~Dingbust it!
+
+PHRM6_S1_TIED_01 = ~z~Lets me free, don't you!
+
+PHRM6_S1_TIED_02 = ~z~Damn now, loose me!
+
+PHRM6_S1_TIED_03 = ~z~What the hickory you doing?
+
+PHRM6_S2_ANGER_01 = ~z~Damn you!
+
+PHRM6_S2_ANGER_02 = ~z~Hey!
+
+PHRM6_S2_ANGER_03 = ~z~You blenching worm!
+
+PHRM6_S2_CARRY_01 = ~z~Leaves me on the ground, don't you!
+
+PHRM6_S2_CARRY_02 = ~z~Blenching gutterfunk!
+
+PHRM6_S2_CARRY_03 = ~z~He takes me to the shadows!
+
+PHRM6_S2_SHOCK_01 = ~z~What the hickory?
+
+PHRM6_S2_SHOCK_02 = ~z~Hellfire!
+
+PHRM6_S2_SHOCK_03 = ~z~Dingbust it!
+
+PHRM6_S2_TIED_01 = ~z~Untie this now!
+
+PHRM6_S2_TIED_02 = ~z~Loose me!
+
+PHRM6_S2_TIED_03 = ~z~Hellborn fiend!
+
+PHRM6_S3_ANGER_01 = ~z~I'll flagger your felt!
+
+PHRM6_S3_ANGER_02 = ~z~Swinkin cur!
+
+PHRM6_S3_ANGER_03 = ~z~Hey now!
+
+PHRM6_S3_CARRY_01 = ~z~Put me away from you, don't ya!
+
+PHRM6_S3_CARRY_02 = ~z~Damnation cometh for thee!
+
+PHRM6_S3_CARRY_03 = ~z~What the hickory? Lets me down!
+
+PHRM6_S3_SHOCK_01 = ~z~What the hickory?
+
+PHRM6_S3_SHOCK_02 = ~z~Swinkin heck!
+
+PHRM6_S3_SHOCK_03 = ~z~Hellfire!
+
+PHRM6_S3_TIED_01 = ~z~No! I don't like feeling trapped!
+
+PHRM6_S3_TIED_02 = ~z~Stop twiddling me!
+
+PHRM6_S3_TIED_03 = ~z~Loose me, don't ya!
+
+PRHM6_APPR_1_1 = ~z~All these trees, I can't get a proper look at the place.
+
+PRHM6_APPR_1_2 = ~z~Hopefully it'll make it harder for them to spot us too.
+
+PRHM6_APPR_2_1 = ~z~The coast seems clear so far.
+
+PRHM6_APPR_2_2 = ~z~Yeah, so far.
+
+PRHM6_APPR_3_1 = ~z~Hey, keep it down. I hear voices.
+
+PRHM6_BINO_1_1 = ~z~You got your binoculars with you, don't you?
+
+PRHM6_BINO_2_1 = ~z~See if you can spot anyone.
+
+PRHM6_BINO_3_1 = ~z~We shouldn't go in blind, Arthur.
+
+PRHM6_BINO_HSE_1 = ~z~There must be a lot of people living here... large house.
+
+PRHM6_BINO_NO_1 = ~z~Dammit, alright. Let's just get down there and take a closer look.
+
+PRHM6_BINO_SHED_1 = ~z~Pretty big barn in the back. Not a bad place to start looking.
+
+PRHM6_BINO_SONS_1 = ~z~I see at least three of them outside.
+
+PRHM6_EXT_CALL1_1 = ~z~Do you want the money or not? Come on.
+
+PRHM6_EXT_CALL2_1 = ~z~Come on, we didn't come all this way for nothing.
+
+PRHM6_EXT_CALL3_1 = ~z~Arthur, we need to find the money, get the hell out of here.
+
+PRHM6_EXT_WAIT_1 = ~z~Has to be under here.
+
+PRHM6_EXT_WAIT_2 = ~z~There's no place else they could store it.
+
+PRHM6_EXT_WAIT_3 = ~z~Hey Arthur... give me a hand here.
+
+PRHM6_HURRY_1_1 = ~z~Hey, hey, stay with me, Arthur.
+
+PRHM6_HURRY_2_1 = ~z~Okay, stick close now.
+
+PRHM6_HURRY_3_1 = ~z~Are you alright? Come on, before we get spotted.
+
+PRHM6_IG1_CALL1_1 = ~z~Arthur, come here.
+
+PRHM6_IG1_CALL2_1 = ~z~We need to get a good look at this place.
+
+PRHM6_IG1_CALL3_1 = ~z~What are you doing? Get over here!
+
+PRHM6_IG1_CLOSE_1 = ~z~See if you get a closer look...
+
+PRHM6_IG1_CLOSE_2 = ~z~
+
+PRHM6_IG1_COME1_1 = ~z~Arthur, come here.
+
+PRHM6_IG1_COME2_1 = ~z~We need to get a good look at this place.
+
+PRHM6_IG1_COME3_1 = ~z~What are you doing? Get over here.
+
+PRHM6_IG1_FINIS_1 = ~z~The stash could be in any one of them buildings and who knows how many people are in there.
+
+PRHM6_IG1_FINIS_2 = ~z~I ain't sure about this...
+
+PRHM6_IG1_FINIS_3 = ~z~I-I think we need to draw them out somehow.
+
+PRHM6_IG1_FINIS_4 = ~z~I got an idea. Follow me.
+
+PRHM6_IG1_JOIN_1 = ~z~Now... big place, right?
+
+PRHM6_IG1_JOIN_2 = ~z~You got your binoculars?
+
+PRHM6_IG2_1 = ~z~Where you been now, Newt?
+
+PRHM6_IG2_2 = ~z~Don't be boiling now, Pappy. I was gone but ten minutes, I was.
+
+PRHM6_IG2_3 = ~z~You can lollygag all the now day long 'cause Edie takes patrol now, don't you!
+
+PRHM6_IG2_4 = ~z~What? No, Edie get all the jam!
+
+PRHM6_IG2_5 = ~z~You shut your gulper or I'll flagger your felt, I will.
+
+PRHM6_IG2_6 = ~z~You needs to pull it up, boy. Up.
+
+PRHM6_IG2_7 = ~z~Go guard the shed. Go!
+
+PRHM6_IG2_R_1 = ~z~What the hickory was that?
+
+PRHM6_IG2_R_2 = ~z~Go at 'em!
+
+PRHM6_IG3_LONG1_1 = ~z~Go on, take cover over there.
+
+PRHM6_IG3_LONG2_1 = ~z~Go! Hide, will you.
+
+PRHM6_IG3_LONG3_1 = ~z~Hurry, before they spot us.
+
+PRHM6_IG3_SHACK_1 = ~z~What we doing, Javier?
+
+PRHM6_IG3_SHACK_2 = ~z~Okay, you take cover by the rock over there.
+
+PRHM6_IG3_SHACK_3 = ~z~I'll create a little distraction then you jump 'em, okay?
+
+PRHM6_IG3_SHACK_4 = ~z~What kind of distraction?
+
+PRHM6_IG3_SHACK_5 = ~z~You'll see.
+
+PRHM6_IG4_FIN2_1 = ~z~We gots to put this out, don't you?
+
+PRHM6_IG4_MAL2_1 = ~z~What the hickory happened here?
+
+PRHM6_IG4_NEW2_1 = ~z~Swinkin' heck.
+
+PRHM6_IG5_ARGUE_1 = ~z~You see that girl at the market... guggling at me again?
+
+PRHM6_IG5_ARGUE_2 = ~z~Guggling at what a raggedy squirler you is.
+
+PRHM6_IG5_ARGUE_3 = ~z~You sees when I gets a woman like that, don't you? Frazzle-dipping all the night.
+
+PRHM6_IG5_ARGUE_4 = ~z~Frazzle-dipping your little pullywag more like!
+
+PRHM6_IG5_ARGUE_5 = ~z~We has that one we keeps in the woods.
+
+PRHM6_IG5_ARGUE_6 = ~z~Pappy was boiling when he sees her, don't you?
+
+PRHM6_IG5_ARGUE_7 = ~z~Ooh what the hickory's her names now?
+
+PRHM6_IG5_ARGUE_8 = ~z~Digs her up and ask, don't you?
+
+PRHM6_IG5_ARGUE_9 = ~z~Next run to market I combs my hairs all flowy like, I says to the girl "Good morning" and you watch now.
+
+PRHM6_IG5_ARGUE_10 = ~z~I tells you every time, no yakketing in the market!
+
+PRHM6_IG5_ARGUE_11 = ~z~Newt and Edie takes the wagon now, don't you!
+
+PRHM6_IG5_ARGUE_12 = ~z~Now shut your gulpers and do it right on that ginseng!
+
+PRHM6_IG5_ARGUE_13 = ~z~We makes a right tangle of that, Mal.
+
+PRHM6_IG5_ARGUE_14 = ~z~We's surely stuck here like hog pins now.
+
+PRHM6_IG6_CONV_1 = ~z~We gots all we envys right here.
+
+PRHM6_IG6_CONV_2 = ~z~I don't wants no different.
+
+PRHM6_IG6_CONV_3 = ~z~But you, me, Mal, Finney, we's full growed now.
+
+PRHM6_IG6_CONV_4 = ~z~The outlanders'll blandish you, surely they will.
+
+PRHM6_IG6_CONV_5 = ~z~Now you gots to keep strongly for the awakening.
+
+PRHM6_IG6_CONV_6 = ~z~But on twenty years we waits.
+
+PRHM6_IG6_CONV_7 = ~z~We gots to keep clean now, don't you?
+
+PRHM6_IG6_CONV_8 = ~z~Now goes watch the shed, you dippy plimick, fore Pappy spunks his top again.
+
+PRHM6_IG6_CONV_9 = ~z~Any folks steps on this soil... they don't leaves. Okay now?
+
+PRHM6_IG6_CONV_10 = ~z~Okay, Edie.
+
+PRHM6_IG7_CONV_1 = ~z~I needs you to be the tall man here, Finney, now don't you?
+
+PRHM6_IG7_CONV_2 = ~z~Mal and Newt, they sees you veering squirly, they veer squirly likewise.
+
+PRHM6_IG7_CONV_3 = ~z~When they fails me, you fails me.
+
+PRHM6_IG7_CONV_4 = ~z~Don't bend to the blandishing 'cause there's nothing but damnation out there.
+
+PRHM6_IG7_CONV_5 = ~z~We sells to 'em, don't you?
+
+PRHM6_IG7_CONV_6 = ~z~But we keeps apart like we always keeps. The outland's in the shadows, like I says it is.
+
+PRHM6_IG7_CONV_7 = ~z~We're free and freer still surely in the world to come.
+
+PRHM6_IG7_CONV_8 = ~z~So no more of this dippy yakketing, you hears?
+
+PRHM6_IG7_CONV_9 = ~z~I hears.
+
+PRHM6_IG7_CONV_10 = ~z~Go on with you now. Sleep deep.
+
+PRHM6_IG7_CONV_11 = ~z~Sleep deep, Papa.
+
+PRHM6_INT_1 = ~z~I heard about a house...
+
+PRHM6_INT_2 = ~z~could be interesting.
+
+PRHM6_INT_3 = ~z~What kind of a house?
+
+PRHM6_INT_4 = ~z~I don't know...
+
+PRHM6_INT_5 = ~z~couple of fellers I heard in town they said...
+
+PRHM6_INT_6 = ~z~said it was really freakish.
+
+PRHM6_INT_7 = ~z~Family local bogeymen, I guess...
+
+PRHM6_INT_8 = ~z~but they're crooked in every way.
+
+PRHM6_INT_9 = ~z~So?
+
+PRHM6_INT_10 = ~z~So, these boys thought they was sitting on a lot of cash...
+
+PRHM6_INT_11 = ~z~they're highway robbers, kidnappers, apparently.
+
+PRHM6_INT_12 = ~z~They're well hidden in the woods.
+
+PRHM6_INT_13 = ~z~Sounds pretty dubious.
+
+PRHM6_INT_14 = ~z~Of course, it's dubious, but...
+
+PRHM6_INT_15 = ~z~there ain't much risk of getting caught.
+
+PRHM6_INT_16 = ~z~Okay then...
+
+PRHM6_INT_17 = ~z~let's go take a look.
+
+PRHM6_INT_18 = ~z~Exactly...
+
+PRHM6_INT_19 = ~z~just take a look.
+
+PRHM6_INT_LI_1 = ~z~Not too busy, why?
+
+PRHM6_INT_LI_CO_1 = ~z~You busy, Arthur?
+
+PRHM6_INWAY_1_1 = ~z~Move over, I want to listen to this.
+
+PRHM6_INWAY_2_1 = ~z~Will you move so I can get in there?
+
+PRHM6_J_CAEARL_1 = ~z~What the hell, Arthur? You just made this a lot harder for us.
+
+PRHM6_J_NOISE_1_1 = ~z~Keep quiet.
+
+PRHM6_J_NOISE_2_1 = ~z~What are you doing?
+
+PRHM6_MOUNTUP_01 = ~z~Mount up, come on.
+
+PRHM6_MOUNTUP_02 = ~z~Let's get going.
+
+PRHM6_MOUNTUP_03 = ~z~You got all you need, let's go.
+
+PRHM6_ONFOOT_1 = ~z~Okay, we're pretty close now. Let's stop and go on foot from here.
+
+PRHM6_PREARGUE1_1 = ~z~Now square's not what this is!
+
+PRHM6_PREARGUE1_2 = ~z~Square don't put gristle in your gizzard like Pappy tells you.
+
+PRHM6_PREARGUE1_3 = ~z~Mal's right, no more yakketing.
+
+PRHM6_PREARGUE1_4 = ~z~But why's me every time hunting the swinkin' pig?
+
+PRHM6_PREARGUE1_5 = ~z~Cause you's callow as a pup, don't you?
+
+PRHM6_PREARGUE1_6 = ~z~Callow? You's guggling the girls at the market, no work to pride on!
+
+PRHM6_PREARGUE1_7 = ~z~Shut your gulper, Newt, don't you!
+
+PRHM6_PREARGUE1_8 = ~z~Pappy hears and I'll be munching doodle from the horses.
+
+PRHM6_PREARGUE1_9 = ~z~Maybe you's hunt a pig this time once, Mal?
+
+PRHM6_PREARGUE1_10 = ~z~Creepers, Fin, don't score notions in the dippy plimick's head!
+
+PRHM6_SCOUTBANT_1 = ~z~Apparently, this family's been isolated for so long they've started talking in their own weird dialect.
+
+PRHM6_SCOUTBANT_2 = ~z~They really don't like outsiders, especially on their turf.
+
+PRHM6_SCOUTBANT_3 = ~z~You just keep selling me on this job, don't you?
+
+PRHM6_TOHORSES_1 = ~z~It's up north, on the other side of the river from Valentine.
+
+PRHM6_TOHORSES_2 = ~z~Best way there is through Cumberland Falls, though. You know it?
+
+PRHM6_TOHORSES_3 = ~z~Sure, more or less.
+
+PRHM6_TOOFAST_1_1 = ~z~Arthur, wait up. Don't just go running in there.
+
+PRHM6_TOOFAST_2_1 = ~z~Just take it slow, we need to know what we're dealing with.
+
+PRHM6_TOOFAST_3_1 = ~z~Goddamn it. Wait, Arthur. What has gotten into you?
+

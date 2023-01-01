@@ -1,0 +1,26 @@
+CDH12_ACTION_A_1 = ~z~You still confident?
+
+CDH12_ACTION_A_2 = ~z~Very confident... as long as there's enough time.
+
+CDH12_ACTION_A_3 = ~z~But cities... they're strange beasts, there's more unknowns in a small town.
+
+CDH12_ACTION_A_4 = ~z~Well, It's like I said, Dutch, if Abigail and I make enough of a diversion,
+
+CDH12_ACTION_A_5 = ~z~and I've every reason to believe we shall,
+
+CDH12_ACTION_A_6 = ~z~every law man, fireman and busybody in a five mile radius will be focused here.
+
+CDH12_ACTION_A_7 = ~z~Should give you and boys... eight minutes at least to get in, get out before anyone is focused on a problem at a bank.
+
+CDH12_ACTION_A_8 = ~z~I hope so.
+
+CDH12_ACTION_A_9 = ~z~Faith Dutch... for once show a little faith!
+
+CDH12_ACTION_A_10 = ~z~Very funny.
+
+CDH12_ACTION_B_1 = ~z~This is it, Arthur... all being well... the job we've been waiting for...
+
+CDH12_ACTION_B_2 = ~z~Let's see.
+
+CDH12_ACTION_B_3 = ~z~
+

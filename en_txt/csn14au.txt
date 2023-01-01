@@ -1,0 +1,20 @@
+CSN14_ACTION_A_1 = ~z~You're a nasty woman, Miss Grimshaw, a nasty woman.
+
+CSN14_ACTION_A_2 = ~z~You think I wanted to shoot her?
+
+CSN14_ACTION_A_3 = ~z~You seemed to like it, I saw that... beady look in your eye.
+
+CSN14_ACTION_A_4 = ~z~You're drunk again.
+
+CSN14_ACTION_A_5 = ~z~And you're a fucking murderer!
+
+CSN14_ACTION_A_6 = ~z~She broke the rules!
+
+CSN14_ACTION_A_7 = ~z~She did no such thing, she was in love, you sour-faced old crone!
+
+CSN14_ACTION_A_8 = ~z~Goddamn you... murderer... murderer!
+
+CSN14_ACTION_B_1 = ~z~I did what I had to do, Mr. Morgan.
+
+CSN14_ACTION_B_2 = ~z~Perhaps.
+

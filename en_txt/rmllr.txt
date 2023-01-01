@@ -1,0 +1,54 @@
+0x509947C2 = Visit Evelyn Miller
+
+0xA0501050 = Visit Evelyn Miller
+
+MLLR2_BLIP = Evelyn Miller
+
+MLLR2_DEALH = Deal with the ~e~hunters~s~
+
+MLLR2_DISARM = Disarm
+
+MLLR2_FOLLOW = Follow ~o~Miller~s~
+
+MLLR2_FREETRAP = Free the ~o~trapped animal~s~
+
+MLLR2_F_A = Evelyn Miller was abandoned.
+
+MLLR2_F_AT = You attacked Evelyn Miller.
+
+MLLR2_F_D = Evelyn Miller has died.
+
+MLLR2_F_HD = Evelyn Miller's horse has died.
+
+MLLR2_F_PHD = Your horse has died.
+
+MLLR2_F_SC = You scared Evelyn Miller.
+
+MLLR2_MOUNT = Mount your ~o~horse~s~
+
+MLLR2_TRAP = Trap
+
+MLLR2_TRAPPED = Trapped Animal
+
+MLLR2_W_A = Return to ~o~Evelyn Miller~s~
+
+MLLR4_FOOD = Food
+
+MLLR4_HLP = John needs to bring food supplies for Evelyn Miller.
+
+MLLR4_TAKEMEAT = John has food available which he could deliver to Evelyn Miller's cabin.
+
+MLLR4_USE = Leave
+
+MLLR5_BURN = Burn
+
+MLLR5_CURTAINS = Curtains
+
+MLLR5_F_A = You didn't burn the cabin.
+
+MLLR5_OBJ1 = Burn the ~o~curtains~s~
+
+MLLR5_OBJ2 = Leave the cabin
+
+MLLR5_W_A = Return to the ~o~cabin~s~
+

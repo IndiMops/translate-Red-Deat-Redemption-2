@@ -1,0 +1,536 @@
+0x029B41E0 = ~z~That's it, one foot in front of the other, keep it up.
+
+0x03F856E8 = ~z~Don't you dare disobey me. I said stop.
+
+0x04CC8569 = ~z~He drowned his own wife in a trough. Hanging's too good for him.
+
+0x050FC7FE = ~z~I will gun you down where you stand.
+
+0x05DEB9CC = ~z~This is it. Raise your hands or die.
+
+0x06DD00E8 = ~z~My boot is more than you deserve.
+
+0x07E64765 = ~z~We got you this time, you bitch. You're coming with me.
+
+0x09CD4151 = ~z~Come on, you ain't deaf, dumb, and blind. What do you know?
+
+0x0BF06E45 = ~z~I won't lose any sleep, I'll tell you that.
+
+0x0D3F2172 = ~z~Let me tell you something, you have not thought this through.
+
+0x0EEF620F = ~z~This one ain't gonna surrender. Drop him.
+
+0x0F15A796 = ~z~You! Thought you could do what you wanted, huh? Not in my town, boy.
+
+0x1A6EC564 = ~z~Think real carefully now. You gonna stonewall me?
+
+0x1C0AE5CC = ~z~Don't go lying to me. I'll sure as hell know.
+
+0x1C34DA8F = ~z~Valentine got a lot of grieving families these days. If you knew something, you'd come and tell me, wouldn't you?
+
+0x1E9CCF8A = ~z~Suppose so. That poor woman... Well, feller, good luck to you.
+
+0x1F62C5B9 = ~z~You have any idea what'll happen to you if you shoot me?
+
+0x2A86F733 = ~z~Seen a lot of good folk laid in their graves this past while. Seems like you might be worth asking about that.
+
+0x2C6CA744 = ~z~Why don't you check the purse on the desk there. You be well.
+
+0x2C91C9C7 = ~z~Stabbing. Real nasty work. See anything?
+
+0x2DD170C4 = ~z~Alright, everybody! Listen up!
+
+0x2E5683F3 = ~z~Hold on there, let's see that face of yours up close.
+
+0x2F27A2E8 = ~z~Well, for lack of better idea, I guess you'll have to do.
+
+0x2F83AC04 = ~z~He brazenly did so, in town, in an act of uncontrollable rage...
+
+0x2FFB731D = ~z~Uh-uh. No one acts like that in my town.
+
+0x3A6CD1DA = ~z~Yeah. Bitch got what was coming, pardon my language.
+
+0x3B9D837E = ~z~Hey now, I got a bone to pick with you.
+
+0x3C1D6CEB = ~z~Alright, hands up.
+
+0x3CA247E3 = ~z~Don't you go bringing no fever to my town.
+
+0x3D2B81BA = ~z~Posing as a lady of ill repute to lure innocent men...
+
+0x3D14C4FD = ~z~I sure don't like repeating myself. Now beat it.
+
+0x3DF652D1 = ~z~Not as nice as the saloon bed, but it ain't covered in blood. That's something.
+
+0x3E152989 = ~z~I don't care what you look like. You kill an innocent man in my town, you hang.
+
+0x3F175559 = ~z~I'm sure you have a good reason for being here, don't you?
+
+0x4A9C4A64 = ~z~There will be no further warnings. Am I understood?
+
+0x4A928CC4 = ~z~Boy, you got about half a chance left. Turn yourself in.
+
+0x4AE73B1F = ~z~We will not tolerate detritus like this in our community!
+
+0x4B390C98 = ~z~Let it be known that Valentine will not accept this behavior.
+
+0x4C175DD3 = ~z~And left her body in the trough, and walked away without remorse.
+
+0x4D55F1D6 = ~z~Alright, tell old Sheriff Malloy just what you're doing here.
+
+0x4F7D4AC6 = ~z~The hell you think you're doing here?
+
+0x4FA5A22E = ~z~Don't you get soft on me now. She's up there cause of you, and good on you for it.
+
+0x4FAE2270 = ~z~Hey. Get your head outta your ass and move.
+
+0x4FE3801A = ~z~You are here to pay for what you've done.
+
+0x5BA0B6E3 = ~z~Go on, mister. Don't ruin my good mood.
+
+0x5C4A8FA9 = ~z~You staring me down? Am I supposed to be scared?
+
+0x5C59F767 = ~z~Oh, you just about to quit that, am I right?
+
+0x6C0580C0 = ~z~Don't be a damn fool.
+
+0x6F4E7F3D = ~z~This your doing?
+
+0x7A2AA511 = ~z~We will not sit idly by as people take the law into their own hands!
+
+0x7B1513A1 = ~z~You ever been put on your back by a lawman?
+
+0x7C79E705 = ~z~Well, you was warned!
+
+0x7ED79D5E = ~z~Bastard had it coming.
+
+0x7F467E05 = ~z~I don't care if you got Jack the Goddamned Ripper to report. I said get out of here.
+
+0x7F1603A4 = ~z~Back up there.
+
+0x7FD984A9 = ~z~You heartless dog.
+
+0x8A1D8C32 = ~z~Do not play this game. Hands up.
+
+0x8A6363BC = ~z~You are pushing the wrong man. Knock it off.
+
+0x8B65C81C = ~z~You again? You get the hell outta here, right now.
+
+0x8B88D221 = ~z~Stabbing them to death at their most vulnerable, then disposing of their bodies...
+
+0x8BB15FD7 = ~z~Something got your tongue? What brought you here?
+
+0x8C6778FA = ~z~Lord give me strength.
+
+0x8FBD7A25 = ~z~Huh. One of the knives from the saloon. Christ, what a way to go...
+
+0x8FC2FBAF = ~z~Glad you made it, friend. Hell, you practically tied the noose, eh? Good man.
+
+0x8FDBF677 = ~z~You did good, friend. The town thanks you. Listen, there's a purse over there by my desk. Take it. You earned it.
+
+0x9A8A24E1 = ~z~You just mind your own business, and I'll mind the law's, okay?
+
+0x9A57A218 = ~z~Stay where you are.
+
+0x9A945D51 = ~z~Hey, boy!
+
+0x9ADCD661 = ~z~You responsible for this?
+
+0x9BF559DC = ~z~Okay, I will have your attention!
+
+0x9C864040 = ~z~I am ordering you to dismount and remain where you are.
+
+0x9D3B054C = ~z~You are misjudging me. Leave.
+
+0x9DBDB62B = ~z~For sure. She deserved to hang just as much as any man. Go on, have a drink. You earned it.
+
+0x9E4C6135 = ~z~Alright, what's all this? Speak up.
+
+0x9E40CBEE = ~z~Nothing to see, folks.
+
+0x9E221C6F = ~z~Oh, come on....
+
+0x9F4B0312 = ~z~Move any further and I shoot.
+
+0x13E1E46D = ~z~Very good, you must've done this before. Keep going.
+
+0x16A4100E = ~z~Listen, son, it's late, and I'm about out of patience. Now, speak up, or get out.
+
+0x21FD7C90 = ~z~So, who you got there?
+
+0x29A4B62E = ~z~No need to wait. Release the floor.
+
+0x29B7C820 = ~z~Hands up, nothing sudden.
+
+0x36C1DBC8 = ~z~I ain't fixing to open old wounds with you. You got the freedom of my streets... for now.
+
+0x37EF947D = ~z~Alright, who's behind this ruckus?
+
+0x42FC31AE = ~z~Alright. Better on all of us, if you just come on easy.
+
+0x48BFD618 = ~z~Might not be this here, but you're sure as hell guilty of something.
+
+0x49C6135B = ~z~Another one? I'll be damned. Leave the body out back. I'll go see to the woman.
+
+0x49D6301F = ~z~Go on, don't cooperate. See where it lands you.
+
+0x50B6CA7D = ~z~I appreciate the work, but I can't have you waiting around here all day.
+
+0x53E43AEA = ~z~You dare treat folk like that in front of me.
+
+0x59F0F998 = ~z~Get out of here. Go on.
+
+0x63DFCE3F = ~z~The good people of Valentine will not allow such ruthless criminality!
+
+0x64DBE7C9 = ~z~Alright, I wanna see you making tracks, let's go.
+
+0x68A6B7F5 = ~z~Left a family, too. I'm sure a man in your condition knows to put his affairs together, sooner rather'n later.
+
+0x69F3DB4E = ~z~Justice prevailed today!
+
+0x70E78843 = ~z~Not again. These women are insane... Alright, leave it with me.
+
+0x70F04F4A = ~z~Do not move.
+
+0x72AD836C = ~z~I reckon it's time you were gone, what do you think?
+
+0x74D2E19D = ~z~Put your goddamn hands in the air.
+
+0x74DB90F8 = ~z~Wait a minute, I need a good look at you.
+
+0x76DCC4CF = ~z~Alright, tell old Sheriff Malloy just what you're doing here.
+
+0x85C7E2A3 = ~z~Go park them beady eyes of yours someplace else.
+
+0x86FFBB57 = ~z~Do not defy me. Stop right there.
+
+0x87E65EC2 = ~z~Don't you dare disobey me! I said stop.
+
+0x89B2B0DC = ~z~How about I shove this badge down your throat?
+
+0x90D28426 = ~z~Don't do it.
+
+0x93D4D501 = ~z~You will stop moving and comply.
+
+0x94BA5E9F = ~z~You will comply with my demands. Final warning.
+
+0x98A359D5 = ~z~As punishment for the crime of murdering his wife in cold blood...
+
+0x99BA4FA5 = ~z~Do you have any last words before you meet your judgment?
+
+0x126BE38C = ~z~Nah, you can cut that out right now.
+
+0x197AD108 = ~z~Okay, move yourself along, no fuss now.
+
+0x273AF99D = ~z~Guess it's up to the son, now. Near breaks my heart.
+
+0x364E2A7A = ~z~You want a faster way to die than the gallows, is that it?
+
+0x366C29A1 = ~z~Painted cat got sharp claws, has she?
+
+0x400B275C = ~z~Oh, you ain't free to go just yet. Let's have a look at you.
+
+0x410A7B37 = ~z~You deaf? Final warning, feller.
+
+0x462D28C9 = ~z~You bating me here? That is not smart.
+
+0x518DA055 = ~z~Alright, enough. You will stand down and come with me.
+
+0x523F92C7 = ~z~Consider this a truce between us. Let me tell you, you don't want a war.
+
+0x586C8BC2 = ~z~No more delay. Pull the lever.
+
+0x603DD0A6 = ~z~Well, tonight at least you ain't wrong. What are you doing out here, anyway?
+
+0x613FEE4B = ~z~You really fixing to intimidate me?
+
+0x723C0C35 = ~z~You got any idea who you're flapping your gums at?
+
+0x779D464E = ~z~Go stare at someone pretty, you're getting my hackles up.
+
+0x781E3A2E = ~z~Could've sworn you was told to move on. Yet here you are.
+
+0x784E89B1 = ~z~Sure was. Hope you find justice for your ailment, friend.
+
+0x818AC79D = ~z~Well, ain't exactly watertight, but my gut says it's you.
+
+0x828E9163 = ~z~Wait just a moment, I need a word.
+
+0x866AF27F = ~z~We meet today to see the great hand of justice in action!
+
+0x875D1AB9 = ~z~Self-defense, is that right? Self-defense all those other times, too? You got a lot of blood on you, woman.
+
+0x937A733F = ~z~Damn you!
+
+0x942DDABC = ~z~This lady here is guilty of multiple counts of murder...
+
+0x945EE35E = ~z~We have come to see the rule of law enacted.
+
+0x973ADA2A = ~z~Okay, I figure you know how this goes. No need for a mess.
+
+0x984CBCDF = ~z~Easy there, I ain't done with you yet.
+
+0x984F8C35 = ~z~Y'know, I really can't thank you enough, partner. Things like this might give Valentine a sour reputation.
+
+0x1117F46C = ~z~Shit, no one here. Better check out that room, though.
+
+0x1132BA82 = ~z~Put her in the cell. I'll take care of her from here.
+
+0x2223D76E = ~z~You show my citizens some damn respect.
+
+0x2483ED57 = ~z~The time has come for your judgment.
+
+0x4058B5DD = ~z~I am giving you one last chance.
+
+0x4312E668 = ~z~Alright, I'm done with you. Get out, or you're going in a cell.
+
+0x4759A346 = ~z~Yeah, I'm sure all of them were real monsters. Anyone ever tell you that you ain't well?
+
+0x6810FCAF = ~z~No talking this bastard down. Put a bullet in him.
+
+0x8775A474 = ~z~Quiet as can be, friend.
+
+0x8950E63E = ~z~You will desist and beg for mercy. Now.
+
+0x23788B8A = ~z~Well, I sure ain't going back empty handed, and you're better than nothing.
+
+0x38908D94 = ~z~Funny, I find innocent folks tend to cooperate.
+
+0x48402E92 = ~z~Right. I suggest you hit the road.
+
+0x83209A3D = ~z~Getting a little close for my liking there, friend.
+
+0x94582E28 = ~z~Hey, easy.
+
+0x95014E9F = ~z~You. What's this about?
+
+0x95423E80 = ~z~I don't about where you're from, but in this town we give folks some room.
+
+0x97291C2E = ~z~You lost your damn mind?
+
+0x99825BB9 = ~z~You do this, you'll die for it.
+
+0x251908E6 = ~z~Hey, the hell you think you're doing?
+
+0x341365F0 = ~z~You best not be screwing with me, feller.
+
+0x890932BA = ~z~This your doing?
+
+0x2365696F = ~z~The heartless act of drowning the poor woman in a water trough...
+
+0x6199317A = ~z~Against my better judgement, I'm offering you a clean slate. Suggest you take it.
+
+0x15175529 = ~z~For these crimes you must hang.
+
+0x21957660 = ~z~Wouldn't know anything about all this, would you?
+
+0x57540245 = ~z~Hey. I've strung men up for less.
+
+0x83435078 = ~z~Can't help but notice you're still here. Now why would that be?
+
+0x84956040 = ~z~You care to explain what you're doing here?
+
+0xA0CF2252 = ~z~What the hell? Are you in cahoots?
+
+0xA4A2EC6D = ~z~That right? I think you work's done here. Not that I don't appreciate it, but why don't you go get a drink, huh?
+
+0xA7DAC4B2 = ~z~Okay, okay, hush up now...
+
+0xA8C5A708 = ~z~This is justice! Let his body serve as a testament to all.
+
+0xA29A728C = ~z~Hey, when the law tells you to stop, you stop.
+
+0xA56EB550 = ~z~Well, thank you very much, partner. Killer prostitute is a problem Valentine can do without.
+
+0xA642BA61 = ~z~You off your head?
+
+0xA736C60F = ~z~Got you bang to rights, son. We're taking you in.
+
+0xA3270DB0 = ~z~What the hell's gotten into you, goddammit?
+
+0xA6135029 = ~z~Oh, I'll be back for you in a minute.
+
+0xA6687885 = ~z~Now, you're gonna come with me. Settle this civilized.
+
+0xA9152742 = ~z~Christ, the woman, too? This is a damned massacre!
+
+0xAADEA4B2 = ~z~Listen up! You will desist, or you will tick me off.
+
+0xABC81BD8 = ~z~You got one more chance. Don't move.
+
+0xAC196B87 = ~z~Sounds like your ailment's made you kind. That man there drowned his wife. Hanging's letting him off easy.
+
+0xAD223612 = ~z~Job ain't done 'til they're in the cell.
+
+0xB19DF737 = ~z~Why are you hanging around me? Something to say?
+
+0xB74E50C4 = ~z~From you? That might be a compliment.
+
+0xB196F83C = ~z~Well, hey there. What can I do for you this evening?
+
+0xB58762B0 = ~z~You're done here, feller. Surrender.
+
+0xB6201632 = ~z~Yup.
+
+0xBA2E79D4 = ~z~Get off me.
+
+0xBAA1721B = ~z~Right. Well, move along then. This is the law's business.
+
+0xBCFF8601 = ~z~Really now? Gonna strong-arm me?
+
+0xBDB3CA5C = ~z~You are pushing the wrong man. Knock it off.
+
+0xBE9AAB45 = ~z~You will raise your hands or you will die where you stand.
+
+0xBE761A1D = ~z~Keep following me, I'll lead you right into a cell.
+
+0xBFF437D7 = ~z~Well, this ain't a saloon, boy. Get out of here!
+
+0xC3FC5182 = ~z~You took three innocent lives and for that the law demands that you shall pay with your own.
+
+0xC8B96515 = ~z~She shows no remorse... neither shall we.
+
+0xC9CD86AA = ~z~Heh. Feel better'n you, I'd wager.
+
+0xC69DC072 = ~z~You know anything about what happened here?
+
+0xC168AED0 = ~z~We have some grave business to attend to.
+
+0xC624ACF0 = ~z~You responsible for this?
+
+0xC6277A82 = ~z~This is all over. Best thing you can do is give yourself up.
+
+0xC85223AB = ~z~Let it be known that Valentine is a community of law and order!
+
+0xCA782D6A = ~z~Oh, hell, another one...
+
+0xCB9AF9B6 = ~z~Stop it. Just stop it.
+
+0xCC58C6C1 = ~z~If you don't raise your hands, I will put you to death right here.
+
+0xCC5295E1 = ~z~Alright, I'm through. I'm taking your stinking hide to a cold cell.
+
+0xCCC99B26 = ~z~Nah, I reckon one hello is all you're good for, boy.
+
+0xCCC506FA = ~z~Halt. Stay right there.
+
+0xCEF5459E = ~z~I don't think you understand who I am, boy.
+
+0xCF6A03B0 = ~z~You son of a bitch!
+
+0xCF803E3B = ~z~And you! Today, believe me, you will see the rule of law.
+
+0xCF6246F4 = ~z~You! We got some business, boy.
+
+0xCFAE8E4E = ~z~Justice will be served in this town today!
+
+0xD8ADD5AB = ~z~Hey! You carry a corpse through my jurisdiction, you better have some answers.
+
+0xD9EAD106 = ~z~You stalking me? Doing a piss poor job.
+
+0xD66EDA95 = ~z~Come on. You afraid of being seen cooperating with me?
+
+0xD618D8B5 = ~z~This boy ain't coming quietly. I want him dead.
+
+0xD5791925 = ~z~Okay, I think you're done here. Now turn yourself in.
+
+0xDCBEE131 = ~z~Take another look at this badge, deadbeat.
+
+0xDD8B034E = ~z~Christ, boy. No one told you whores could be dangerous?
+
+0xDD73FF2F = ~z~I'm giving you a final warning. Now stop.
+
+0xDE508259 = ~z~Make yourself scarce, come on.
+
+0xDF143FBB = ~z~You playing, boy? I ain't saying hello again.
+
+0xDFB7FAF7 = ~z~Hey, shut your damn mouth, you know what's good for you.
+
+0xE00E10EE = ~z~Yep. More fellers like you this might be a respectable place to live. Listen, why don't you grab yourself what's in the purse there? Not much, but you earned it.
+
+0xE2AE3212 = ~z~I got a corpse and a lot of questions over here. You help with that?
+
+0xE5A2D0AC = ~z~Pay attention.
+
+0xE5C50FBB = ~z~There. Put 'em down before it gets any worse.
+
+0xE5E352F9 = ~z~You will dismount and keep your hands where I can see 'em.
+
+0xE7DA7C38 = ~z~This feller comes in a box or not at all. Kill him.
+
+0xE9A42A74 = ~z~You care to explain what you're doing here?
+
+0xE19F6B6E = ~z~Yeah, you, you son of a bitch.
+
+0xE24E6D54 = ~z~You will bring hot hell down on yourself.
+
+0xE66A7124 = ~z~Oh, there better be a perfect explanation for this here.
+
+0xE94D5923 = ~z~Well, now. Someone looking to meet their maker.
+
+0xE552FDDC = ~z~Wouldn't know anything about all this, would you?
+
+0xE1343726 = ~z~Okay, I wanna see them hands.
+
+0xEAA7C205 = ~z~The stiff over there? You shed any light on what happened to him?
+
+0xEACAA066 = ~z~Do not test me. I'm giving you a chance to leave.
+
+0xEB5C62BA = ~z~You can't be serious.
+
+0xEBA78A79 = ~z~So, what do you know about this business?
+
+0xECB069E8 = ~z~You setting your face against me?
+
+0xECD80767 = ~z~Yeah, I'm sure butter wouldn't melt in your mouth. Now tell me the truth.
+
+0xED4577BB = ~z~You want something, spit it out. Quit trailing after me.
+
+0xEEFA4AF4 = ~z~You get the hell outta here or I'll have you for contempt.
+
+0xEF8EABDA = ~z~You don't leave right now, and I will put you in a cell or a whole lot worse, buddy.
+
+0xF0279385 = ~z~So, what do you know about this business?
+
+0xF039262A = ~z~When I'm done blinking, you better be gone.
+
+0xF1C2B27D = ~z~Listen up. You will desist or you will tick me off.
+
+0xF4EB92B4 = ~z~I owe you for this, don't think otherwise.
+
+0xF8F5A515 = ~z~You know anything about what happened here?
+
+0xF9B3D0B9 = ~z~Watch your tone. You don't have a free pass, far as I'm concerned.
+
+0xF46C935B = ~z~Feel better'n you do. Go see a doctor, man.
+
+0xF83DE875 = ~z~This is not a request. Put your hands up.
+
+0xF85B5042 = ~z~Oh, hell. Who's this now?
+
+0xF410F7C6 = ~z~Ladies and Gentlemen of Valentine!
+
+0xF896CE2F = ~z~That's it, I warned you!
+
+0xF940C614 = ~z~Enough. You came to the wrong town, roughneck.
+
+0xF8054736 = ~z~I'm sure you have a good reason for being here, don't you?
+
+0xFA00E46E = ~z~And today, law and order won out! Leave her body here to rot.
+
+0xFA057146 = ~z~Damn it, you are coming with me dead or alive. Your choice.
+
+0xFA5F7A02 = ~z~Listen up, and mark my words!
+
+0xFD5A676A = ~z~I got a body over there! You know anything about that?
+
+0xFDA23923 = ~z~It'd be a pleasure to scrape you off my streets.
+
+0xFDCA0C1B = ~z~You gonna dig your heels in here, huh?
+
+0xFDEBA7A0 = ~z~You fixing to get on the wrong side of me?
+
+0xFF7B7221 = ~z~Oh, putting you right will be a pleasure.
+
+0xFF53DA74 = ~z~You deaf? Get 'em in the cell.
+

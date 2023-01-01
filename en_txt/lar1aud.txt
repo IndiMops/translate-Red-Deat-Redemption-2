@@ -1,0 +1,212 @@
+LAR1_ABEEARLY_01 = ~z~
+
+LAR1_ABEEARLY_02 = ~z~Mr. Milton.
+
+LAR1_ABEEARLY_03 = ~z~I couldn't stop them, Jim.
+
+LAR1_ABEEARLY_04 = ~z~Come on.
+
+LAR1_ABEEARLY_05 = ~z~Get that feller.
+
+LAR1_ABEEARLY_06 = ~z~
+
+LAR1_ABELATE_01 = ~z~You got him, Mr. Milton.
+
+LAR1_ABELATE_02 = ~z~Jim Milton, I knew you was a fighter.
+
+LAR1_ABELATE_03 = ~z~He's tough, isn't he?
+
+LAR1_FIGHT_01 = ~z~They didn't hire you 'cause you're tough... it's 'cause you're stupid.
+
+LAR1_FIGHT_02 = ~z~I'm gonna smell like cow dung, boys.
+
+LAR1_FIGHT_03 = ~z~When we was the last time you had a bath?
+
+LAR1_FIGHT_04 = ~z~You couldn't clean my boots.
+
+LAR1_FIGHT_05 = ~z~Geddes spends on women, saves on hands.
+
+LAR1_HIT_01 = ~z~
+
+LAR1_HIT_02 = ~z~Yeah?
+
+LAR1_HIT_03 = ~z~It's like that, huh?
+
+LAR1_HIT_04 = ~z~Oh, boy.
+
+LAR1_IG1_ABE1_1 = ~z~Oh heck...
+
+LAR1_IG1_ABE2_1 = ~z~~sl:0.8~Mr. Milton...
+
+LAR1_IG1_ABE3_1 = ~z~~sl:0.0:1.0~Mr. Milton...~sl:1.2:1.2~Mr. Milton...~sl:1.0~get him!
+
+LAR1_IG1_ABE4_1 = ~z~Oh dear...
+
+LAR1_IG1_ABE5_1 = ~z~~sl:0.0:2.2:1~Should I run and... this is...
+
+LAR1_IG1_FIGHT1_1 = ~z~Oh, kick his head in, boss!
+
+LAR1_IG1_FIGHT2_1 = ~z~Teach that boy a lesson.
+
+LAR1_IG1_FIGHT3_1 = ~z~Knock his goddamn brains out!
+
+LAR1_IG1_WORRY1_1 = ~z~Oh he's licking you, boss.
+
+LAR1_IG1_WORRY2_1 = ~z~Boss... boss, you need help?
+
+LAR1_IG1_WORRY3_1 = ~z~That boy can punch!
+
+LAR1_IG_OUTRO_1 = ~z~We all get caught eventually, John, I guess the trick is to decide by who.
+
+LAR1_LEADRFIGHT_01 = ~z~
+
+LAR1_LEADRFIGHT_02 = ~z~
+
+LAR1_LEADRFIGHT_03 = ~z~
+
+LAR1_LEADRFIGHT_04 = ~z~
+
+LAR1_LEADRFIGHT_05 = ~z~
+
+LAR1_LEADRFIGHT_06 = ~z~
+
+LAR1_LEADRFIGHT_07 = ~z~
+
+LAR1_LEADRFIGHT_08 = ~z~
+
+LAR1_LEADRFIGHT_09 = ~z~
+
+LAR1_LEADRFIGHT_10 = ~z~
+
+LAR1_LEADRFIGHT_11 = ~z~
+
+LAR1_LEADRFIGHT_12 = ~z~
+
+LAR1_LEADRFIGHT_13 = ~z~
+
+LAR1_LEADRFIGHT_14 = ~z~
+
+LAR1_LEADRFIGHT_15 = ~z~
+
+LAR1_LEADRFIGHT_16 = ~z~
+
+LAR1_LEADRFIGHT_17 = ~z~
+
+LAR1_LEADRFIGHT_18 = ~z~
+
+LAR1_MCS1_1 = ~z~Whoa.
+
+LAR1_MCS1_2 = ~z~You wanna watch your mouth, boy.
+
+LAR1_MCS1_3 = ~z~You will be the first one we kill.
+
+LAR1_MCS1_4 = ~z~Leave him alone.
+
+LAR1_MCS1_5 = ~z~Oh, careful boys...
+
+LAR1_MCS1_6 = ~z~careful.
+
+LAR1_MCS1_7 = ~z~Look at this tough guy.
+
+LAR1_MCS1_8 = ~z~Get outta here.
+
+LAR1_MCS1_9 = ~z~Oh, fancy pants Geddes paying you...
+
+LAR1_MCS1_10 = ~z~to be tough for him, huh?
+
+LAR1_MCS1_11 = ~z~No, he's paying me to keep the place clean.
+
+LAR1_MCS1_12 = ~z~Said he had some problems...
+
+LAR1_MCS1_13 = ~z~with vermin.
+
+LAR1_MCS1_14 = ~z~Oh, listen to this...
+
+LAR1_MCS1_15 = ~z~real funny.
+
+LAR1_MCS1_16 = ~z~Alright boss, are you gonna get him now?
+
+LAR1_MCS1_17 = ~z~Come on, get him.
+
+LAR1_MCS1_LI_A_1 = ~z~You know, boy, you'd look fine nailed up on that wall.
+
+LAR1_MCS1_LI_A_2 = ~z~~sl:0.0:3.9:1~This is private property. Mr. Geddes don't like trespassers.
+
+LAR1_MCS1_LI_A_3 = ~z~That so?
+
+LAR1_MCS1_LI_A_4 = ~z~Yes.
+
+LAR1_MCS1_LI_B_1 = ~z~~sl:0.0:2.1:1~He don't like trespassers.
+
+LAR1_MCS1_LI_B_2 = ~z~That's what I said.
+
+LAR1_MCS1_LI_B_3 = ~z~Does he like dead bodies on his property?
+
+LAR1_MCS1_LI_B_4 = ~z~Now, come on, mister...
+
+LAR1_MCS1_LI_C_1 = ~z~Tell your friend, Mr. Geddes, he's gonna sell this place...
+
+LAR1_MCS1_LI_C_2 = ~z~only thing he needs to decide, is what he's gonna lose before he sells.
+
+LAR1_MCS1_LI_C_3 = ~z~~sl:0.2~I'm real frightened of you.
+
+LAR1_MCS2_1 = ~z~Jim Milton, get off that man.
+
+LAR1_MCS2_2 = ~z~Get off him.
+
+LAR1_MCS2_3 = ~z~He hit me first.
+
+LAR1_MCS2_4 = ~z~Oh, you can fight boy. I'll give you that.
+
+LAR1_MCS2_5 = ~z~Well, how's your wife in a brawl?
+
+LAR1_MCS2_6 = ~z~Leave my wife alone.
+
+LAR1_MCS2_7 = ~z~Oh, she's real pretty.
+
+LAR1_MCS2_8 = ~z~Get outta here.
+
+LAR1_MCS2_9 = ~z~Quite a temper you got.
+
+LAR1_MCS2_10 = ~z~Imagine you're, you're frustrated with your lot in life...
+
+LAR1_MCS2_11 = ~z~married to a shit shoveling farm hand.
+
+LAR1_MCS2_12 = ~z~Well what you do wrong to end up here?
+
+LAR1_MCS2_13 = ~z~Leave my wife alone.
+
+LAR1_MCS2_14 = ~z~Welcome to Big Valley, Jim Milton.
+
+LAR1_MCS2_15 = ~z~Pleasure to meet you both.
+
+LAR1_MCS2_16 = ~z~We'll see you again.
+
+LAR1_MCS2_17 = ~z~And you, boy...
+
+LAR1_MCS2_18 = ~z~tell Mr. Geddes we called.
+
+LAR1_MCS2_19 = ~z~We'll be back.
+
+LAR1_MCS2_20 = ~z~Thank you, Mr. Milton.
+
+LAR1_MCS2_21 = ~z~Thank you.
+
+LAR1_MCS2_22 = ~z~Don't worry about it.
+
+LAR1_MCS2_23 = ~z~You stop acting like a goddamn storybook hero, will you?
+
+LAR1_MCS2_24 = ~z~What choice did I have?
+
+LAR1_MCS2_25 = ~z~Plenty, you moron.
+
+LAR1_MCS2_26 = ~z~Plenty.
+
+LAR1_STOPIT_01 = ~z~Stop it!
+
+LAR1_STOPIT_02 = ~z~Stop!
+
+LAR1_STOPIT_03 = ~z~John... Jim, don't you dare!
+
+LAR1_STOPIT_04 = ~z~Hey! Hey!
+

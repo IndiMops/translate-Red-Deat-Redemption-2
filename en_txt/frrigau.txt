@@ -1,0 +1,36 @@
+FRRIG_3_ALLDEAD_01 = ~z~~sl:0.0:3.5~Still alive! Not bad. Okay.~sl:1.0~Brown's corked up tight in a mansion northwest of town. You wanna finish this, follow me.
+
+FRRIG_3_ALLDEAD_02 = ~z~~sl:0.0:4.5~Well now, I can see why Brown ain't taking no chances on you...~sl:0.8~He's sitting pretty in a mansion northwest of town. Let's go pay him a visit.
+
+FRRIG_3_CLOSE_01 = ~z~Just up ahead!
+
+FRRIG_3_CLOSE_02 = ~z~It's the big house up yonder!
+
+FRRIG_3_EXPLAIN_01 = ~z~~sl:0.0:1.0~Oh, I know who you are.~sl:~You're the one who got Mr. Bartholomew Brown shitting in his fancy britches.
+
+FRRIG_3_EXPLAIN_02 = ~z~~sl:0.0:2.9~Don't be surprised... way you been carving up Bartholomew Brown's boys,~sl:~just about everybody's heard of you.
+
+FRRIG_3_HAILS_01 = ~z~Hey! Bounty Hunter!
+
+FRRIG_3_HAILS_02 = ~z~You! Bounty Hunter!
+
+FRRIG_3_TELLS1_1 = ~z~~sl:0.0:2.0~Now, listen good, we don't got long.~sl:~You got that bastard so spooked he fled halfway across the country, holed up right here in Saint Denis.
+
+FRRIG_3_TELLS1_2 = ~z~~sl:0.0:1.5~He knows you're coming.~sl:~Got men on every street corner watching for you, now,
+
+FRRIG_3_TELLS1_3 = ~z~I got my own reasons for wanting to see a noose round his chubby neck.
+
+FRRIG_3_TELLS1_4 = ~z~~sl:0.0:1.4~Right now we need to get...~sl:~oh, shit. That's them!
+
+FRRIG_3_TELLS2_1 = ~z~~sl:0.0:4.5~Alright, listen up, we ain't got but a few seconds. You hit that son of a bitch~sl:~so hard he got out of West Elizabeth...
+
+FRRIG_3_TELLS2_2 = ~z~~sl:0.0:2.5~came all the way here to Saint Denis.~sl:0.5~He's spooked, alright, got a thug on every street corner watching for you.
+
+FRRIG_3_TELLS2_3 = ~z~~sl:0.0:1.5~I don't want money,~sl:~alright, I just wanna see his face when it hangs.
+
+FRRIG_3_TELLS2_4 = ~z~~sl:0.0:1.8~Alright? Now we need to get the...~sl:0.5~ah hell! They're onto us!
+
+FRRIG_3_WAIT_01 = ~z~Good hunting! Put an extra one through his skull for me.
+
+FRRIG_3_WAIT_02 = ~z~Get him alive, I wanna be there when he swings.
+

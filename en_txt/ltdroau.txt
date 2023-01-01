@@ -1,0 +1,610 @@
+LTDRO_AREARLY_01 = ~z~Back already? What's going on?
+
+LTDRO_AREARLY_02 = ~z~I didn't expect you back so soon. Everything okay?
+
+LTDRO_AREARLY_03 = ~z~You done what you need to do?
+
+LTDRO_AREARLY_04 = ~z~What are you doing back here? Did something go wrong?
+
+LTDRO_AREARLY_05 = ~z~You can't be done already?
+
+LTDRO_ARIDLEOBJ_01 = ~z~Well, come on then, let me get a look at it.
+
+LTDRO_ARIDLEOBJ_02 = ~z~C'mon. Stop dawdling and show me the goods, will you?
+
+LTDRO_ARIDLEOBJ_03 = ~z~What you waiting for? Bring it here then.
+
+LTDRO_ARIDLEOBJ_04 = ~z~Are you going hand it over or just chew the cud?
+
+LTDRO_ARIDLEOBJ_05 = ~z~Well let's see it then. Ain't none of us getting any younger here.
+
+LTDRO_ARIDLE_01 = ~z~~sl:0.0:0.9~Well, come on then,~sl:~don't keep me in suspense here.
+
+LTDRO_ARIDLE_02 = ~z~Why you just sniffing about like that? You get it done or not?
+
+LTDRO_ARIDLE_03 = ~z~~sl:0.0:0.5~Are we good?~sl:0.7~What you skulking around for?
+
+LTDRO_ARIDLE_04 = ~z~~sl:0.0:2.6~So... you here to conclude our business or not?~sl:0.6~I'm a busy feller.
+
+LTDRO_ARIDLE_05 = ~z~~sl:0.0:2.0~Well, come on, what you waiting for?~sl:0.0:1.4~I don't usually bite.
+
+LTDRO_ARNOPL2_01 = ~z~Howdy there. Where's your partner?
+
+LTDRO_ARNOPL2_02 = ~z~Good to see you. Where's your friend?
+
+LTDRO_ARNOPL2_03 = ~z~What happened to your friend?
+
+LTDRO_ARNOPL2_04 = ~z~Hey there. Lose your friend along the way?
+
+LTDRO_ARNOPL2_05 = ~z~Oh, you're by yourself, you ditch your friend?
+
+LTDRO_ARNOTEAM_01 = ~z~Oh, hey there. What happened to your friends?
+
+LTDRO_ARNOTEAM_02 = ~z~Oh, you're by yourself?
+
+LTDRO_ARNOTEAM_03 = ~z~Where are your friends?
+
+LTDRO_ARNOTEAM_04 = ~z~Just you this time? Where are the others?
+
+LTDRO_ARNOTEAM_05 = ~z~Wait, you split up? Where's the rest of your posse?
+
+LTDRO_ARRIVE_01 = ~z~Ah, there you are.
+
+LTDRO_ARRIVE_02 = ~z~Well howdy.
+
+LTDRO_ARRIVE_03 = ~z~How'd it go?
+
+LTDRO_ARRIVE_04 = ~z~Just the person I was hoping to see.
+
+LTDRO_ARRIVE_05 = ~z~All good?
+
+LTDRO_BOATBLST_01 = ~z~One more to go.
+
+LTDRO_BOATBLST_02 = ~z~Just need one more now.
+
+LTDRO_BOATBLST_03 = ~z~Just one more boat to go now.
+
+LTDRO_BOATBLST_04 = ~z~Good job. Just need one more after this.
+
+LTDRO_BOATBLST_05 = ~z~Okay, good. Last boat now.
+
+LTDRO_BOATLST_01 = ~z~That's all of them. Well done.
+
+LTDRO_BOATLST_02 = ~z~I reckon that completes the fleet. Good work.
+
+LTDRO_BOATLST_03 = ~z~That's the last one. Good job.
+
+LTDRO_BOATLST_04 = ~z~There we go, last one. Bring her into dock.
+
+LTDRO_BOATLST_05 = ~z~Okay, that should be the last boat. Bring her in carefully.
+
+LTDRO_DBOAT1ST_01 = ~z~~sl:0.0:1.3~Good, moor that one there~sl:~and then head out for the others.
+
+LTDRO_DBOAT1ST_02 = ~z~~sl:0.0:1.4~You got it? Good job.~sl:0.4~Pull in over here then head back out for the rest.
+
+LTDRO_DBOAT1ST_03 = ~z~~sl:0.0:2.4~Dock that as quick as you can so you can get back out there~sl:~and track down the rest.
+
+LTDRO_DBOAT1ST_04 = ~z~~sl:0.0:2.7~Looks good. If the rest of the boats are in this condition,~sl:~we'll be sitting pretty.
+
+LTDRO_DBOAT1ST_05 = ~z~~sl:0.0:2.2~We are up and running. Good work.~sl:~Sooner you can find me the other boats, the better.
+
+LTDRO_DBOATS_01 = ~z~You can moor them up over there.
+
+LTDRO_DBOATS_02 = ~z~Good work. You can dock them over here.
+
+LTDRO_DBOATS_03 = ~z~Alright, steady there. Don't capsize them at the last minute.
+
+LTDRO_DBOATS_04 = ~z~I knew you'd get those boats for me!
+
+LTDRO_DBOATS_05 = ~z~And they still look seaworthy too. This is some good work.
+
+LTDRO_DBOAT_01 = ~z~Moor up over there.
+
+LTDRO_DBOAT_02 = ~z~Nice work. You can dock over here.
+
+LTDRO_DBOAT_03 = ~z~Okay now. Just be careful as you dock.
+
+LTDRO_DBOAT_04 = ~z~Just bring her in nice and steady.
+
+LTDRO_DBOAT_05 = ~z~You got the boat? Well done.
+
+LTDRO_DEADFEMLE_01 = ~z~~sl:0.0:2.4~That woman was gonna meaet her end sooner or later.~sl:0.4~I'm surprised she made it this long.
+
+LTDRO_DEADFEMLE_02 = ~z~Well clearly she ain't got so much to say for herself now.
+
+LTDRO_DEADFEMLE_03 = ~z~~sl:0.0:1.3~You got her. Good.~sl:0.4:2.9~Every death deserves to be mourned, but, uh...~sl:~some less than others.
+
+LTDRO_DEADFEMLE_04 = ~z~~sl:0.0:2.8~Unfortunately, I think killing's the only language~sl:~she was ever gonna understand.
+
+LTDRO_DEADFEMLE_05 = ~z~~sl:0.0:1.5~Ah, it was only a matter of time~sl:~before death caught up with that woman.
+
+LTDRO_DEADMALE_01 = ~z~~sl:0.0:2.9~Well, looks like he won't be talking his way outta this one.~sl:~Good work.
+
+LTDRO_DEADMALE_02 = ~z~~sl:0.0:2.6~Just how it goes, his time'd come.~sl:~You done good.
+
+LTDRO_DEADMALE_03 = ~z~Yeah, won't be many folks'll miss this bastard, let me tell you.
+
+LTDRO_DEADMALE_04 = ~z~~sl:0.0:1.7~That son of a bitch had it coming to him.~sl:0.4~You done the world a favor.
+
+LTDRO_DEADMALE_05 = ~z~~sl:0.5~End of the line for him, in more ways than one.
+
+LTDRO_DEADMULT_01 = ~z~~sl:0.0:2.3~Well, you found 'em, and did what you had to do.~sl:0.5~I ain't got nothing but respect for that.
+
+LTDRO_DEADMULT_02 = ~z~~sl:0.6~Looks like the undertaker's gonna have a busy day. Good work.
+
+LTDRO_DEADMULT_03 = ~z~~sl:0.0:3.1~I'd ask you if you killed all these birds with one stone, but...~sl:0.4~the stone ain't my concern in this matter.
+
+LTDRO_DEADMULT_04 = ~z~Won't be much of a eulogy for these folks, believe me.
+
+LTDRO_DEADMULT_05 = ~z~~sl:0.0:3.0~Times like this reminds of what my brother always says...~sl:0.4~“you have to get dirty to work clean sometimes”.
+
+LTDRO_DENPEDF_01 = ~z~I bet she didn't come quietly.
+
+LTDRO_DENPEDF_02 = ~z~I knew you'd track her down sooner or later.
+
+LTDRO_DENPEDF_03 = ~z~~sl:0.0:1.4~Oh, there she is.~sl:~This lady ain't even fit for a drinking man to hole up with.
+
+LTDRO_DENPEDF_04 = ~z~I hope she didn't cause too much of a ruckus for ya.
+
+LTDRO_DENPEDF_05 = ~z~~sl:0.3:2.0~Not so full of herself now, huh?
+
+LTDRO_DENPEDM_01 = ~z~Hope the bastard didn't give you too much trouble.
+
+LTDRO_DENPEDM_02 = ~z~About as sociable as an ulcerated back tooth, ain't he?
+
+LTDRO_DENPEDM_03 = ~z~~sl:0.0:2.2~I am sorry you had to spend even a minute~sl:~in the company of this son of a bitch.
+
+LTDRO_DENPEDM_04 = ~z~Good, it's high time this feller learned his lesson the hard way.
+
+LTDRO_DENPEDM_05 = ~z~You got the bastard? Well done.
+
+LTDRO_DEPEDS_01 = ~z~~sl:0.4~What a sorry bunch.
+
+LTDRO_DEPEDS_02 = ~z~So nice of you folks to pay me a visit.
+
+LTDRO_DEPEDS_03 = ~z~I knew they'd see reason with a little persuasion.
+
+LTDRO_DEPEDS_04 = ~z~Now these are some lowdowns if ever I've seen 'em.
+
+LTDRO_DEPEDS_05 = ~z~~sl:0.5~I'm sure these undesirables were anything but civil.
+
+LTDRO_DFPEDS_01 = ~z~Glad to see you folks back safe.
+
+LTDRO_DFPEDS_02 = ~z~Good to see you folks back in one piece.
+
+LTDRO_DFPEDS_03 = ~z~You folks can count yourself lucky you ran into my friend here.
+
+LTDRO_DFPEDS_04 = ~z~Happy you folks made it back safe and sound.
+
+LTDRO_DFPEDS_05 = ~z~Was starting to get worried about these folks. Good work.
+
+LTDRO_DFRPEDF_01 = ~z~Oh, you found her. Thank God.
+
+LTDRO_DFRPEDF_02 = ~z~Oh, glad you got her back safe.
+
+LTDRO_DFRPEDF_03 = ~z~I just knew you'd get her back her safe and sound.
+
+LTDRO_DFRPEDF_04 = ~z~~sl:0.0:2.3~You got her. Well, as I live and breathe.~sl:0.4~I'd say you've done your good deed for today, my friend.
+
+LTDRO_DFRPEDF_05 = ~z~~sl:0.0:2.3~I'm glad you was able to get her outta there.~sl:~Clearly I sent the right person for the job.
+
+LTDRO_DFRPEDM_01 = ~z~You got him? Well done.
+
+LTDRO_DFRPEDM_02 = ~z~Glad you got him back safe.
+
+LTDRO_DFRPEDM_03 = ~z~Real glad you got to him in time. Folk was getting worried.
+
+LTDRO_DFRPEDM_04 = ~z~Well done. I wasn't sure I'd see this feller back in one piece.
+
+LTDRO_DFRPEDM_05 = ~z~Well I'd say this feller owes you one, my friend. As do I.
+
+LTDRO_DHIVOBJS_01 = ~z~Would you look at that. Very nice. Good work.
+
+LTDRO_DHIVOBJS_02 = ~z~Well done. Now, that should fetch us a very tidy price.
+
+LTDRO_DHIVOBJS_03 = ~z~Very good. I see you have a keen eye for quality.
+
+LTDRO_DHIVOBJS_04 = ~z~~sl:0.0:1.7~Something to be treasured dearly...~sl:0.9~and sold dearly.
+
+LTDRO_DHIVOBJS_05 = ~z~~sl:0.0:4.8~Now, who would be so careless as to misplace a fine piece like this?
+
+LTDRO_DHIVOBJ_01 = ~z~Well, these should fetch a pretty penny, alright. Well done.
+
+LTDRO_DHIVOBJ_02 = ~z~~sl:0.6~Folk really should take better care of their valuables.
+
+LTDRO_DHIVOBJ_03 = ~z~These are some fine pieces. Very nice indeed.
+
+LTDRO_DHIVOBJ_04 = ~z~~sl:0.0:3.5~Some folks only learn the value of what they got when it's gone.~sl:~So... let this be a lesson to us all.
+
+LTDRO_DHIVOBJ_05 = ~z~~sl:0.0:1.8~You have outdone yourself here.~sl:~You wouldn't believe what some folk'll pay for these.
+
+LTDRO_DHIVOLOBJ_01 = ~z~Would you look at all that. Good work.
+
+LTDRO_DHIVOLOBJ_02 = ~z~~sl:0.7~That is quite the haul. I'm impressed.
+
+LTDRO_DHIVOLOBJ_03 = ~z~Well, I sure can't accuse you of being light with this one.
+
+LTDRO_DHIVOLOBJ_04 = ~z~Look at all this, you been busy.
+
+LTDRO_DHIVOLOBJ_05 = ~z~~sl:0.5:1.3~Had your hands full, huh?~sl:0.6~Well, this is all a sight for sore eyes, I must say.
+
+LTDRO_DHORSES_01 = ~z~Now, these sure look like some fine animals. Good work.
+
+LTDRO_DHORSES_02 = ~z~Well, I'd say you outdone yourself with these.
+
+LTDRO_DHORSES_03 = ~z~Just wait 'til my brother claps eyes on these beauties.
+
+LTDRO_DHORSES_04 = ~z~Nicely done. Those are some decent-looking horses.
+
+LTDRO_DHORSES_05 = ~z~Quick brush and some feed, and these'll do just fine.
+
+LTDRO_DHORSE_01 = ~z~That's a fine animal, alright. Good work.
+
+LTDRO_DHORSE_02 = ~z~What a beauty. Fine as cream gravy.
+
+LTDRO_DHORSE_03 = ~z~This is one decent hoss. You done good.
+
+LTDRO_DHORSE_04 = ~z~A sturdy hoss if ever I seen one. Good job.
+
+LTDRO_DHORSE_05 = ~z~Not a scratch on 'em. Well done.
+
+LTDRO_DLOVOBJS_01 = ~z~Well, won't get much for these, but it all counts.
+
+LTDRO_DLOVOBJS_02 = ~z~~sl:0.0:2.7~Well, they ain't worth much, but money's money, am I right?
+
+LTDRO_DLOVOBJS_03 = ~z~You got 'em. Alright, good.
+
+LTDRO_DLOVOBJS_04 = ~z~~sl:0.0:2.5~Well, sometimes you go after big potatoes,~sl:~sometimes you go after little potatoes. But it's all good eating.
+
+LTDRO_DLOVOBJS_05 = ~z~Well, these'll do fine, thank you.
+
+LTDRO_DLOVOBJ_01 = ~z~Alright, that'll do.
+
+LTDRO_DLOVOBJ_02 = ~z~You got it. Good.
+
+LTDRO_DLOVOBJ_03 = ~z~That'll do nicely. Beggars can't be choosers.
+
+LTDRO_DLOVOBJ_04 = ~z~Something's better than nothing, I always say.
+
+LTDRO_DLOVOBJ_05 = ~z~Must be worth something, huh?
+
+LTDRO_DWAGONS_01 = ~z~Those are some decent-looking wagons.
+
+LTDRO_DWAGONS_02 = ~z~Those should do us nicely. Just park 'em over there.
+
+LTDRO_DWAGONS_03 = ~z~~sl:0.0:1.7~See, I knew you wouldn't have a problem~sl:~getting hold of them wagons.
+
+LTDRO_DWAGONS_04 = ~z~Our own little wagon train, now this is what I like to see.
+
+LTDRO_DWAGONS_05 = ~z~~sl:0.0:2.4~Now, this is a sight for sore eyes.~sl:0.4~You can leave the wagons over there.
+
+LTDRO_DWAGON_01 = ~z~Good job. You can pull up over there.
+
+LTDRO_DWAGON_02 = ~z~Looks like just what we need. You can park it over there.
+
+LTDRO_DWAGON_03 = ~z~And you even made it with all four wheels. Good job.
+
+LTDRO_DWAGON_04 = ~z~Got the wagon here in one piece, I see. Nicely done.
+
+LTDRO_DWAGON_05 = ~z~There we go. Looks perfect. Just pull up here.
+
+LTDRO_EPEDS1ST_01 = ~z~Okay, you leave this one to me and go get the rest of 'em.
+
+LTDRO_EPEDS1ST_02 = ~z~~sl:0.0:1.5~You found 'em? Good.~sl:~Now... see if you can round up the others.
+
+LTDRO_EPEDS1ST_03 = ~z~Good work, but there's still more of 'em out there.
+
+LTDRO_EPEDS1ST_04 = ~z~~sl:0.0:1.6~Now, if you can round up the rest of 'em,~sl:~I'll be a very happy man.
+
+LTDRO_EPEDS1ST_05 = ~z~~sl:0.0:2.6~Good. Now... no rest for wicked.~sl:~Go round up the rest of these fools.
+
+LTDRO_EPEDSBLST_01 = ~z~Good work. Just one more to go now.
+
+LTDRO_EPEDSBLST_02 = ~z~I think we're just missing one now.
+
+LTDRO_EPEDSBLST_03 = ~z~Just missing one of them now by my count.
+
+LTDRO_EPEDSBLST_04 = ~z~Now, if you can just track down the last of these rats for me.
+
+LTDRO_EPEDSBLST_05 = ~z~Just one more of these weasels still out there. Let's finish this.
+
+LTDRO_EPEDSLST_01 = ~z~That's all of the snakes, well done.
+
+LTDRO_EPEDSLST_02 = ~z~Well done. We've got them all.
+
+LTDRO_EPEDSLST_03 = ~z~Okay, that's the last of these undesirables. Good job.
+
+LTDRO_EPEDSLST_04 = ~z~The last rotten apple in the barrel. Good work.
+
+LTDRO_EPEDSLST_05 = ~z~That's the last of the fools. And they'll all get their reckoning, believe me.
+
+LTDRO_FIRSTDEAD_01 = ~z~Alright, one down. Now, deal with the rest of 'em.
+
+LTDRO_FIRSTDEAD_02 = ~z~Well, this one'll do for starters, good work.
+
+LTDRO_FIRSTDEAD_03 = ~z~Good start, hope the rest of them'll be just as unlucky.
+
+LTDRO_FIRSTDEAD_04 = ~z~Good, now go hunt down the rest of 'em.
+
+LTDRO_FIRSTDEAD_05 = ~z~~sl:0.0:2.7~You are colder than a mother-in-law's kiss...~sl:0.0:1.7~I wholly approve.~sl:~Now go track down the rest of these reprobates.
+
+LTDRO_FPEDBLST_01 = ~z~Alright, just one more to go now.
+
+LTDRO_FPEDBLST_02 = ~z~Now, if you can just find this last one for me.
+
+LTDRO_FPEDBLST_03 = ~z~I think there's just one more out there now.
+
+LTDRO_FPEDBLST_04 = ~z~Now, if you can just track down the last one...
+
+LTDRO_FPEDBLST_05 = ~z~Just one more to go now. Let's finish this while the going's good.
+
+LTDRO_FPEDLST_01 = ~z~Okay, that's all of them. You should be proud of yourself.
+
+LTDRO_FPEDLST_02 = ~z~Well done. You got 'em all back safe and sound.
+
+LTDRO_FPEDLST_03 = ~z~That's the last one. You did it.
+
+LTDRO_FPEDLST_04 = ~z~That's all of them. I'm very impressed.
+
+LTDRO_FPEDLST_05 = ~z~I don't believe it. You got 'em all. Very well done, my friend.
+
+LTDRO_FPEDS1ST_01 = ~z~Good work. Now, see if you can get to the others.
+
+LTDRO_FPEDS1ST_02 = ~z~~sl:0.0:1.4~They made it...~sl:~just hope we can save the rest of 'em.
+
+LTDRO_FPEDS1ST_03 = ~z~Well done. Now, let's get the others back safe too.
+
+LTDRO_FPEDS1ST_04 = ~z~~sl:0.0:1.6~Oh, you found 'em. Good work.~sl:0.5~Just hope you can get to the rest of 'em.
+
+LTDRO_FPEDS1ST_05 = ~z~Glad they're safe. But the rest are still out there.
+
+LTDRO_GENTHANKS_01 = ~z~Good work, thank you.
+
+LTDRO_GENTHANKS_02 = ~z~Thanks for taking care of this.
+
+LTDRO_GENTHANKS_03 = ~z~This is a job well done, appreciate it.
+
+LTDRO_GENTHANKS_04 = ~z~Damn fine job, couldn't have done it better myself.
+
+LTDRO_GENTHANKS_05 = ~z~You done good, thank you.
+
+LTDRO_HIVO1ST_01 = ~z~~sl:0.0:3.1~Exactly the kind of quality I'm looking for.~sl:~Now, keep it coming.
+
+LTDRO_HIVO1ST_02 = ~z~A fine piece. Well done. Now... go fetch me the rest.
+
+LTDRO_HIVO1ST_03 = ~z~~sl:0.9~Very fancy. You've made a good start here. Now keep at it.
+
+LTDRO_HIVO1ST_04 = ~z~~sl:0.7:3.5~This is a beauty. Just what I'm looking for.~sl:~If you can get me the rest, we will be sitting pretty.
+
+LTDRO_HIVO1ST_05 = ~z~~sl:0.0:4.3~Ooh, this'll sell high. Very nice indeed.~sl:~This is exactly what I'm after, keep it coming.
+
+LTDRO_HIVOBLST_01 = ~z~One more to go.
+
+LTDRO_HIVOBLST_02 = ~z~I just need one more now.
+
+LTDRO_HIVOBLST_03 = ~z~We're nearly there. One more and we're good.
+
+LTDRO_HIVOBLST_04 = ~z~Almost done. One more.
+
+LTDRO_HIVOBLST_05 = ~z~~sl:0.4:1.1~Very good.~sl:~Just need to get hold of one more now.
+
+LTDRO_HIVOJLST_01 = ~z~That's all of them. Nicely done.
+
+LTDRO_HIVOJLST_02 = ~z~Well done, that should do it.
+
+LTDRO_HIVOJLST_03 = ~z~Okay, that's the last one. Fine work, my friend.
+
+LTDRO_HIVOJLST_04 = ~z~Look at that, saved the best for last. You did good.
+
+LTDRO_HIVOJLST_05 = ~z~I reckon that should do it. Good job.
+
+LTDRO_HIVOLBLST_01 = ~z~Just one more batch to go.
+
+LTDRO_HIVOLBLST_02 = ~z~Alright, one more delivery like this and we should be good.
+
+LTDRO_HIVOLBLST_03 = ~z~Okay, good. One more set like this, and I reckon we'll be good to go.
+
+LTDRO_HIVOLBLST_04 = ~z~Quite the haul. One more and we'll be set.
+
+LTDRO_HIVOLBLST_05 = ~z~We're getting there. Just need one more batch now.
+
+LTDRO_HIVOLLST_01 = ~z~Okay, that should be more than enough now. Good work.
+
+LTDRO_HIVOLLST_02 = ~z~Alright then. This last batch should more than do it.
+
+LTDRO_HIVOLLST_03 = ~z~~sl:0.0:2.4~Well, another very decent batch.~sl:~That should be all the inventory I need for now. Appreciate it.
+
+LTDRO_HIVOLLST_04 = ~z~~sl:0.0:0.9~Wait, is that the lot?~sl:1.7~Yep, I think it is. Well done.
+
+LTDRO_HIVOLLST_05 = ~z~~sl:0.0:1.8~Oh, more for the pile.~sl:0.0:2.1~I think that should do it for now, my friend.~sl:~Very good work.
+
+LTDRO_HIVOLO1ST_01 = ~z~~sl:0.0:2.0~Well, that's a decent haul alright.~sl:~If the rest are like this, I'll be more than happy.
+
+LTDRO_HIVOLO1ST_02 = ~z~~sl:0.0:1.7~Well now, that's a very good start.~sl:0.4~I hope the rest are just as substantial.
+
+LTDRO_HIVOLO1ST_03 = ~z~~sl:0.0:3.3~Oh, I like the look of all this. Very nice.~sl:~Now... please push on with getting me the rest.
+
+LTDRO_HIVOLO1ST_04 = ~z~~sl:0.0:2.4~Well, this is more than enough to start with.~sl:~Now, keep it coming.
+
+LTDRO_HIVOLO1ST_05 = ~z~~sl:0.6:3.7~Bet you'll be glad to offload all that! Just what I'm after.~sl:~Now... how soon can you get me the rest?
+
+LTDRO_HRS1ST_01 = ~z~Oh, one down, now I just need the rest of 'em.
+
+LTDRO_HRS1ST_02 = ~z~Ooh, a beauty. Keep 'em coming.
+
+LTDRO_HRS1ST_03 = ~z~Looks good. How soon can you get me the others?
+
+LTDRO_HRS1ST_04 = ~z~This is a very good start. Now keep at it.
+
+LTDRO_HRS1ST_05 = ~z~~sl:0.6:2.4~Good. If the rest of them are all this decent,~sl:~I'll be a happy feller.
+
+LTDRO_HRSBFLST_01 = ~z~Okay, good. Just one more to go.
+
+LTDRO_HRSBFLST_02 = ~z~Last one now. Nearly there.
+
+LTDRO_HRSBFLST_03 = ~z~Almost there. One more and we're done.
+
+LTDRO_HRSBFLST_04 = ~z~Alright, well done. Just need to get me one more now.
+
+LTDRO_HRSBFLST_05 = ~z~Getting the hang of this, ain't you? Just one more to go.
+
+LTDRO_HRSLST_01 = ~z~Okay, that's the lot. Excellent work.
+
+LTDRO_HRSLST_02 = ~z~Well done. That's it, we got them all.
+
+LTDRO_HRSLST_03 = ~z~That's the last one. Fine work, my friend, fine work indeed.
+
+LTDRO_HRSLST_04 = ~z~Well, I do believe that's all of them. Good job.
+
+LTDRO_HRSLST_05 = ~z~There we go, last one. That's a job well done.
+
+LTDRO_INTIDLE_01 = ~z~Well... no time like the present.
+
+LTDRO_INTIDLE_02 = ~z~Go on then. Less we're seen together, the better.
+
+LTDRO_INTIDLE_03 = ~z~So, you should probably make tracks then, huh?
+
+LTDRO_INTIDLE_04 = ~z~Well... sooner you hit the trail the better, I'd say.
+
+LTDRO_INTIDLE_05 = ~z~See, now you're just cluttering up the place.
+
+LTDRO_INTRO_01 = ~z~Watch yourself out there.
+
+LTDRO_INTRO_02 = ~z~Just keep your wits about you.
+
+LTDRO_INTRO_03 = ~z~Don't get yourself in too much trouble.
+
+LTDRO_INTRO_04 = ~z~You have yourself a good time.
+
+LTDRO_INTRO_05 = ~z~Don't do anything I wouldn't do.
+
+LTDRO_LASTDEAD_01 = ~z~~sl:0.0:1.8~That's the last of 'em, well done.~sl:0.4~You know how to handle your business, my friend.
+
+LTDRO_LASTDEAD_02 = ~z~~sl:0.0:2.8~Last one for the pile. Well done.~sl:~I can assure you, they won't be missed.
+
+LTDRO_LASTDEAD_03 = ~z~~sl:0.0:1.4~Okay, that's the last of 'em.~sl:0.4~I'd say you're quite the natural for this kind of work.
+
+LTDRO_LASTDEAD_04 = ~z~Alright, this completes our quarry. Good work, my friend.
+
+LTDRO_LASTDEAD_05 = ~z~~sl:0.0:2.2~Very good, now that should be the lot.~sl:0.5~Now their fate lies above us or, uh... more likely, below.
+
+LTDRO_LOVO1ST_01 = ~z~Well, thanks for that, now keep 'em coming.
+
+LTDRO_LOVO1ST_02 = ~z~You got it. Good. Now, I just need the rest.
+
+LTDRO_LOVO1ST_03 = ~z~~sl:0.0:1.0~Well, not too bad.~sl:0.4:3.3~Few more like this and we'll be able to string a couple of dollars together.
+
+LTDRO_LOVO1ST_04 = ~z~~sl:0.0:1.2~You got it?~sl:~Well done. Just need the rest of them now.
+
+LTDRO_LOVO1ST_05 = ~z~Well, it ain't much, I know, but it's a start. Keep at it.
+
+LTDRO_LOVOBLST_01 = ~z~One more to go.
+
+LTDRO_LOVOBLST_02 = ~z~Good, just need one more now.
+
+LTDRO_LOVOBLST_03 = ~z~Okay, one more like this and we can call it a day.
+
+LTDRO_LOVOBLST_04 = ~z~Nearly there. If you can just find me one more.
+
+LTDRO_LOVOBLST_05 = ~z~Good. Almost done. One more to go.
+
+LTDRO_LOVOLST_01 = ~z~That's all of them.
+
+LTDRO_LOVOLST_02 = ~z~Okay, good, that's the lot.
+
+LTDRO_LOVOLST_03 = ~z~That's the last one. Well done.
+
+LTDRO_LOVOLST_04 = ~z~Okay, that should do it. Good work.
+
+LTDRO_LOVOLST_05 = ~z~Good job. I think that should do it for now.
+
+LTDRO_OUTRO_01 = ~z~Okay, I'll be seeing you then. Thanks again.
+
+LTDRO_OUTRO_02 = ~z~Alright, I'll see you soon, I'm sure.
+
+LTDRO_OUTRO_03 = ~z~Well, guess this is where we part ways, friend. For now, anyway.
+
+LTDRO_OUTRO_04 = ~z~Pleasure doing business with you.
+
+LTDRO_OUTRO_05 = ~z~Alright, well all the best now. I'll see you next time.
+
+LTDRO_PRELSTDED_01 = ~z~~sl:0.7:1.2~Don't mess around, do ya?~sl:0.4~Just one more now, and we're rid of these fools.
+
+LTDRO_PRELSTDED_02 = ~z~Just one more to hunt down now.
+
+LTDRO_PRELSTDED_03 = ~z~~sl:0.0:2.0~Well done. Last one now.~sl:0.4~Quick as you can... before our friend here starts to smell.
+
+LTDRO_PRELSTDED_04 = ~z~~sl:0.0:2.6~One more to go, and we can put this all behind us.~sl:0.6~Not that you seem overly troubled by it.
+
+LTDRO_PRELSTDED_05 = ~z~~sl:0.0:3.3~Very good. Almost done with this particular hunt.~sl:~Just one more to go.
+
+LTDRO_REACTLAW_01 = ~z~Why the hell would you come here with the law on your tail?
+
+LTDRO_REACTLAW_02 = ~z~~sl:0.0:1.0~What the hell?~sl:~Are you trying to get me in trouble with the law?
+
+LTDRO_REACTLAW_03 = ~z~~sl:0.0:1.2~What are you doing? Get the hell outta here.~sl:~This is trouble I don't need.
+
+LTDRO_REACTLAW_04 = ~z~Until you lose that tail, I don't know you, my friend.
+
+LTDRO_REACTLAW_05 = ~z~~sl:0.0:1.5~You need to get outta here,~sl:~I don't need no problems with the damn law.
+
+LTDRO_REACTSHOT_01 = ~z~What the hell?
+
+LTDRO_REACTSHOT_02 = ~z~Hey, cut that out!
+
+LTDRO_REACTSHOT_03 = ~z~What the hell are you doing?
+
+LTDRO_REACTSHOT_04 = ~z~Hey, stop helling around!
+
+LTDRO_REACTSHOT_05 = ~z~Are you outta your damn mind?
+
+LTDRO_WAG1ST_01 = ~z~~sl:0.0:1.9~Well, this is a very good start.~sl:0.4~If the other wagons come in looking like this, we'll be set.
+
+LTDRO_WAG1ST_02 = ~z~~sl:0.0:0.6~Looks good.~sl:0.4~Pull up there and then head out for the rest.
+
+LTDRO_WAG1ST_03 = ~z~~sl:0.0:2.3~Oh, you got the first wagon, good.~sl:~Now, keep 'em coming.
+
+LTDRO_WAG1ST_04 = ~z~~sl:0.0:2.6~Good job. If all rest of the wagons look like this,~sl:~we'll be sitting very pretty.
+
+LTDRO_WAG1ST_05 = ~z~~sl:0.0:1.1~Just park it over here~sl:0.0:2.3~so you can head straight off to see to the rest of 'em.~sl:~Sooner we get this done, the better.
+
+LTDRO_WAGALIVE_01 = ~z~~sl:0.0:0.6~You all made it!~sl:0.4~And looks the cargo did too. Just about. Well done.
+
+LTDRO_WAGALIVE_02 = ~z~Glad you all made it here in one piece.
+
+LTDRO_WAGALIVE_03 = ~z~~sl:0.0:2.3~Ah, looks like a few bumps and scrapes on the way,~sl:~but least you all made it.
+
+LTDRO_WAGALIVE_04 = ~z~~sl:0.0:1.0~From the look of that wagon,~sl:~I'd say you folks had an eventful journey. But you're here now.
+
+LTDRO_WAGALIVE_05 = ~z~~sl:0.0:1.1~Are you all okay there?~sl:0.6~Well done for getting that cargo here in one piece.
+
+LTDRO_WAGBLST_01 = ~z~One more to go.
+
+LTDRO_WAGBLST_02 = ~z~Alright, just one more now.
+
+LTDRO_WAGBLST_03 = ~z~Nearly there, one more to go.
+
+LTDRO_WAGBLST_04 = ~z~Just need you to get more one more now.
+
+LTDRO_WAGBLST_05 = ~z~Okay. Pull that up, then head out for the last one. Almost done.
+
+LTDRO_WAGDEAD_01 = ~z~~sl:0.0:2.3~You made it... wait, where is the driver?~sl:0.4~Actually, I don't need to know the answer to that.
+
+LTDRO_WAGDEAD_02 = ~z~I won't ask what happened to the driver.
+
+LTDRO_WAGDEAD_03 = ~z~No driver? Well, so long as the cargo got here in one piece.
+
+LTDRO_WAGDEAD_04 = ~z~~sl:0.0:1.6~Looks like the driver didn't make it, huh?~sl:0.6~Well, these things happen.
+
+LTDRO_WAGDEAD_05 = ~z~~sl:0.0:1.8~Looks like we're missing a driver there, huh?~sl:0.8~Well, main thing is you and the wagon made it here in one piece.
+
+LTDRO_WAGLST_01 = ~z~Alright. That's all of them.
+
+LTDRO_WAGLST_02 = ~z~That's the last wagon. Well done.
+
+LTDRO_WAGLST_03 = ~z~That's the last one. Good work.
+
+LTDRO_WAGLST_04 = ~z~Now, that'll do it. Thank you.
+
+LTDRO_WAGLST_05 = ~z~You got it. Good job. I think that should do us for now.
+

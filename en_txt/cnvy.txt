@@ -1,0 +1,88 @@
+0xBC0967CB = The driver has stopped the wagon because you are too far away. Approach the wagon and hold ~INPUT_CONTEXT_B~ to get the wagon moving again.
+
+FETCH_CONVOY_ESCORT_DELIVER = Deliver the caravan wagon ~1~
+
+FETCH_CONVOY_ESCORT_DELIVER_TEAM_PRIMARY_FAIL = ~1~ has destroyed a wagon
+
+FETCH_CONVOY_ESCORT_DELIVER_TEAM_PRIMARY_FAIL_NP = A wagon has been destroyed
+
+FETCH_CONVOY_ESCORT_DELIVER_TEAM_PRIMARY_FAIL_YOU = You have destroyed a wagon
+
+FETCH_CONVOY_ESCORT_DELIVER_TEAM_PRIMARY_FAIL_YOUR = Your Posse has destroyed a wagon
+
+FETCH_CONVOY_ESCORT_DELIVER_TEAM_PRIMARY_PASS = ~1~ delivered a wagon
+
+FETCH_CONVOY_ESCORT_DELIVER_TEAM_PRIMARY_PASS_NP = A wagon has been delivered
+
+FETCH_CONVOY_ESCORT_DELIVER_TEAM_PRIMARY_PASS_YOU = You delivered a wagon
+
+FETCH_CONVOY_ESCORT_DELIVER_TEAM_PRIMARY_PASS_YOUR = Your Posse delivered a wagon
+
+FETCH_CONVOY_ESCORT_DESTROY = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~caravan~s~
+
+FETCH_CONVOY_ESCORT_ESCORTING = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~caravan~s~ ~1~
+
+FETCH_CONVOY_ESCORT_FIND = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~caravan~s~
+
+FETCH_CONVOY_ESCORT_HELP_AI_ESCORTING_PED_KILLED = A wagon driver has been killed. Take control of the wagon ~1b~ and continue the caravan.
+
+FETCH_CONVOY_ESCORT_HELP_INTRO = Get all the caravan wagons ~1b~ to the drop off within the time limit to earn the full reward.
+
+FETCH_CONVOY_ESCORT_HELP_SECONDARY_INTRO = ~1~ triggered a rival mission against ~2~. Destroy the caravan wagons ~3b~ to gain the full reward.
+
+FETCH_CONVOY_ESCORT_HELP_SECONDARY_INTRO_YOU = You triggered a rival mission against ~1~. Destroy the caravan wagons ~2b~ to gain the full reward.
+
+FETCH_CONVOY_ESCORT_JOIN_TEAM_SECONDARY = ~COLOR_ENEMY~~1~~s~ is intercepting the caravan
+
+FETCH_CONVOY_ESCORT_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Rival players~s~ can attack the caravan
+
+FETCH_CONVOY_ESCORT_RETURN = Return to the ~COLOR_MP_OBJECTIVE_FRIENDLY~caravan~s~
+
+FETCH_CONVOY_ESCORT_SHARD_OVER = Caravan destroyed
+
+FETCH_CONVOY_ESCORT_SHARD_PRIMARY_FAIL = Caravan wagon destroyed
+
+FETCH_CONVOY_ESCORT_SHARD_PRIMARY_FAIL_PLURAL = Caravan destroyed
+
+FETCH_CONVOY_ESCORT_SHARD_PRIMARY_PASS = Caravan wagon reached destination
+
+FETCH_CONVOY_ESCORT_SHARD_PRIMARY_PASS_PARTIAL = ~1~/~2~ wagons reached destination
+
+FETCH_CONVOY_ESCORT_SHARD_PRIMARY_PASS_PLURAL = Caravan reached destination
+
+FETCH_CONVOY_ESCORT_SHARD_SECONDARY_FAIL = Caravan wagon reached destination
+
+FETCH_CONVOY_ESCORT_SHARD_SECONDARY_FAIL_PLURAL = Caravan reached destination
+
+FETCH_CONVOY_ESCORT_SHARD_SECONDARY_FAIL_RIVALS = Caravan wagon destroyed by rival Posse
+
+FETCH_CONVOY_ESCORT_SHARD_SECONDARY_FAIL_RIVALS_PLURAL = Caravan destroyed by rival Posse
+
+FETCH_CONVOY_ESCORT_SHARD_SECONDARY_PASS = Caravan wagon destroyed
+
+FETCH_CONVOY_ESCORT_SHARD_SECONDARY_PASS_PARTIAL = ~1~/~2~ wagons destroyed
+
+FETCH_CONVOY_ESCORT_SHARD_SECONDARY_PASS_PLURAL = Caravan destroyed
+
+FETCH_CONVOY_ESCORT_SHARD_WAGON_DESC_PRIMARY = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~caravan~s~ to the ~COLOR_MP_OBJECTIVE~destination~s~
+
+FETCH_CONVOY_ESCORT_SHARD_WAGON_DESC_SECONDARY = Destroy the caravan wagons
+
+FETCH_CONVOY_ESCORT_STEAL = Get in the ~COLOR_MP_OBJECTIVE_NEUTRAL~caravan wagon
+
+FETCH_CONVOY_ESCORT_STEAL_PLURAL = Get in a ~COLOR_MP_OBJECTIVE_NEUTRAL~caravan wagon
+
+FETCH_CONVOY_ESCORT_STEAL_POSSE = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~caravan wagon~s~ from ~COLOR_ENEMY~~1~
+
+FETCH_CONVOY_ESCORT_STEAL_POSSE_PLURAL = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~caravan wagons~s~ from ~COLOR_ENEMY~~1~
+
+FETCH_CONVOY_ESCORT_TICKER_DESTROY = A wagon has been destroyed
+
+FETCH_CONVOY_ESCORT_TICKER_DESTROY_YOU = You have destroyed a wagon
+
+FETCH_DRIVER_START_CONVOY = Start Caravan Wagon
+
+FETCH_DRIVER_STOP_CONVOY = Stop Caravan Wagon
+
+FETCH_HELP_STOP_VEHICLE_CONVOY = Holding ~INPUT_CONTEXT_B~ while unarmed and near the lead wagon will allow you to stop the caravan.
+

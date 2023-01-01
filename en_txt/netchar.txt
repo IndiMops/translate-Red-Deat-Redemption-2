@@ -1,0 +1,18 @@
+0x9E2E8FC6 = Are you sure you want to use this character in Red Dead Online?
+
+0x63E3D441 = Gender
+
+0x775A5B53 = Are you sure you want to exit to the character selection screen?
+
+CONFIRM_CHAR_T = CONFIRM
+
+CONFIRM_QT_FR = Are you sure you want to exit to Free Roam? All changes will be discarded and you will not be charged.
+
+CONFIRM_QT_LND = Are you sure you want to exit to the main menu?
+
+FLOW_SKIP_ST = Are you sure you want to skip the intro?
+
+FLOW_SKIP_T = SKIP INTRO
+
+NETCHAR_UC_SELECT_CHARACTER = Character
+

@@ -1,0 +1,14 @@
+CWUB1_ACT1_1 = ~z~Hey, big man, I'm worried... I'm really worried.
+
+CWUB1_ACT1_2 = ~z~Me too, Uncle.
+
+CWUB1_ACT1_3 = ~z~What's going to happen, you know... to everybody?
+
+CWUB1_ACT1_4 = ~z~I guess... folks is gonna make a choice... whether they live... or die.
+
+CWUB1_ACT1_5 = ~z~And you?
+
+CWUB1_ACT1_6 = ~z~I don't have that choice no more... I'm just... trying to help others see clearly. That's my choice.
+
+CWUB1_ACT1_7 = ~z~You're a good man, Arthur Morgan... good man.
+

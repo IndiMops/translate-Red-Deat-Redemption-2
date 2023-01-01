@@ -1,0 +1,40 @@
+CUNP1_ACT_1 = ~z~All day long on the praries I ride;
+
+CUNP1_ACT_2 = ~z~Not even a dog to trot by my side;
+
+CUNP1_ACT_3 = ~z~My fire I kindle with cow chips round;
+
+CUNP1_ACT_4 = ~z~My coffee I boil without being ground.
+
+CUNP1_ACT_5 = ~z~I wash in a pool and wipe on a sack;~n~~m~on a sack...
+
+CUNP1_ACT_6 = ~z~I carry my wardrobe all on my back;
+
+CUNP1_ACT_7 = ~z~For want of an oven I cook bread in a pot;
+
+CUNP1_ACT_8 = ~z~And I sleep on the ground for want of a cot;
+
+CUNP1_ACT_9 = ~z~My ceiling's a sky, my floor is the grass;
+
+CUNP1_ACT_10 = ~z~My music's the lowering of my shiney white ass;
+
+CUNP1_ACT_11 = ~z~My books are guns; my sermons the stones;
+
+CUNP1_ACT_12 = ~z~My parson's a wolf on his pulpit of bones;
+
+CUNP1_ACT_13 = ~z~Ah, sometimes I rob a bank on main street;~n~~m~on main street...
+
+CUNP1_ACT_14 = ~z~You can't blame me for wanting to eat.
+
+CUNP1_ACT_15 = ~z~But show me a man that sleeps more profound;
+
+CUNP1_ACT_16 = ~z~Than big ol' uncle lyin' out on the ground.
+
+CUNP1_ACT_17 = ~z~Ah, the newspapers call for our gang's demise;~n~~m~our gang's demise!
+
+CUNP1_ACT_18 = ~z~Says we're no good thieves that you should despise;~n~~m~you should despise...
+
+CUNP1_ACT_19 = ~z~My parson remarks from his pulpit of bones;~n~~m~his pulpit of bones...
+
+CUNP1_ACT_20 = ~z~fortune favors those who look out for their own.
+

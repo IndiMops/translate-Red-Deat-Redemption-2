@@ -1,0 +1,88 @@
+CUNSJ_ACT_1 = ~z~O Mollie, O Mollie, it's for your sake alone;
+
+CUNSJ_ACT_2 = ~z~That I leave my old parents, my house and my home;
+
+CUNSJ_ACT_3 = ~z~My love for you, it has caused me to roam;
+
+CUNSJ_ACT_4 = ~z~I'm a rabble rouser and Dixie's my home.
+
+CUNSJ_ACT_5 = ~z~Jack o' diamonds, Jack o' diamonds;~n~~m~Jack o' diamonds, Jack o' diamonds;
+
+CUNSJ_ACT_6 = ~z~I know you of old;~n~~m~I know you of old;
+
+CUNSJ_ACT_7 = ~z~You robbed my poor pockets;~n~~m~You robbed my poor pockets;
+
+CUNSJ_ACT_8 = ~z~Of silver and gold;~n~~m~Of silver and gold;
+
+CUNSJ_ACT_9 = ~z~O Whiskey, you villian;~n~~m~O Whiskey, you villian;
+
+CUNSJ_ACT_10 = ~z~You've been my downfall;~n~~m~You've been my downfall;
+
+CUNSJ_ACT_11 = ~z~You've kicked me, you've cuffed me;~n~~m~You've kicked me, you've cuffed me;
+
+CUNSJ_ACT_12 = ~z~And cause me to brawl.~n~~m~And cause me to brawl.
+
+CUNSJ_ACT_13 = ~z~My foot's in a stirrup, my bridle's in my hand;
+
+CUNSJ_ACT_14 = ~z~I'm leaving sweet Mollie, the fairest in the land.
+
+CUNSJ_ACT_15 = ~z~Her parents don't like me, they say I'm too poor;
+
+CUNSJ_ACT_16 = ~z~They say I'm unworthy to enter her door.
+
+CUNSJ_ACT_17 = ~z~They say I drink whiskey, my money's my own;
+
+CUNSJ_ACT_18 = ~z~And them that don't like me can leave me alone.
+
+CUNSJ_ACT_19 = ~z~I'll eat when I'm hungry, I'll drink when I'm dry;
+
+CUNSJ_ACT_20 = ~z~And when I get thirsty, I'll lay down and cry.
+
+CUNSJ_ACT_21 = ~z~It's beefsteak when I'm hungry;~n~~m~It's beefsteak when I'm hungry;
+
+CUNSJ_ACT_22 = ~z~And whiskey when I'm dry;~n~~m~And whiskey when I'm dry;
+
+CUNSJ_ACT_23 = ~z~Green backs when I'm hard up;~n~~m~Green backs when I'm hard up;
+
+CUNSJ_ACT_24 = ~z~And hell when I die.~n~~m~And hell when I die.
+
+CUNSJ_ACT_25 = ~z~Rye whiskey, rye whiskey;~n~~m~Rye whiskey, rye whiskey;
+
+CUNSJ_ACT_26 = ~z~Rye whiskey I cry;~n~~m~Rye whiskey I cry;
+
+CUNSJ_ACT_27 = ~z~If I don't get rye whiskey;~n~~m~If I don't get rye whiskey;
+
+CUNSJ_ACT_28 = ~z~I surely will die.~n~~m~I surely will die.
+
+CUNSJ_ACT_29 = ~z~O baby, O baby, I've told you before;~n~~m~O baby, O baby, I've told you before;
+
+CUNSJ_ACT_30 = ~z~Do make me a pallet, I'll lie on the floor.~n~~m~Do make me a pallet, I'll lie on the floor.
+
+CUNSJ_ACT_31 = ~z~I've rambled and trambled this wide world round;
+
+CUNSJ_ACT_32 = ~z~Raising hell with the gang, that's where I am bound;
+
+CUNSJ_ACT_33 = ~z~It's with these gunslingers, dear Mollie, I'll roam;
+
+CUNSJ_ACT_34 = ~z~I'm a rabble rouser and Dixie's my home.
+
+CUNSJ_ACT_35 = ~z~If the ocean were whiskey;
+
+CUNSJ_ACT_36 = ~z~And I were a duck;
+
+CUNSJ_ACT_37 = ~z~I'd dive to the bottom;
+
+CUNSJ_ACT_38 = ~z~And get one sweet sup;
+
+CUNSJ_ACT_39 = ~z~But the ocean ain't whiskey;
+
+CUNSJ_ACT_40 = ~z~And I ain't no duck;
+
+CUNSJ_ACT_41 = ~z~So I'll play Jack o' diamonds
+
+CUNSJ_ACT_42 = ~z~And then we'll get drunk;
+
+CUNSJ_ACT_43 = ~z~O Baby, O Baby, I've told you before~n~~m~O Baby, O Baby, I've told you before
+
+CUNSJ_ACT_44 = ~z~Do make me a pallet, I'll lie on the floor.~n~~m~Do make me a pallet, I'll lie on the floor.
+

@@ -1,0 +1,14 @@
+INTRO_HIDEOUT_CTX_SPARE_ENEMY = Spare
+
+INTRO_HIDEOUT_HELP_TEAM_PRIMARY = The hideout ~1b~ is guarded by a number of enemies. Kill all the enemies to complete the mission.
+
+INTRO_HIDEOUT_OBJ_DESTROY = Take out the ~COLOR_ENEMY~outlaws~s~
+
+INTRO_HIDEOUT_OBJ_LOOT = Loot the ~COLOR_MP_OBJECTIVE~bandit~s~
+
+INTRO_HIDEOUT_OBJ_SECONDARY_GOAL = Go to the ~COLOR_ENEMY~hideout~s~
+
+INTRO_HIDEOUT_SHARD_TEAM_PRIMARY_INTRO = Assault the ~COLOR_ENEMY~gang hideout~s~
+
+INTRO_HIDEOUT_SHARD_TEAM_PRIMARY_PASS = All outlaws were taken out
+

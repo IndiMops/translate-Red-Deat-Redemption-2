@@ -1,0 +1,18 @@
+CCABI8_A_1 = ~z~He's only a boy, he ain't even half grown!
+
+CCABI8_A_2 = ~z~He'll be alright.
+
+CCABI8_A_3 = ~z~~sl:0.0:2.3~If they so much as put one bruise on him I swear,~sl:~I'll bring the fires of hell on 'em myself.
+
+CCABI8_A_4 = ~z~Ain't like nobody else around here's up for the task!
+
+CCABI8_A_5 = ~z~We'll get him back, I promise.
+
+CCABI8_A_6 = ~z~
+
+CCABI8_B_1 = ~z~Just leave me alone.
+
+CCABI8_B_ALT_1 = ~z~You ain't no better, neither.
+
+CCABI8_B_ALT_2 = ~z~~sl:0.0:2.9:1~A gang of supposed 'strong men', you can't protect one boy!
+

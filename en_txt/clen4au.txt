@@ -1,0 +1,28 @@
+CLEN4_ACT_1 = ~z~
+
+CLEN4_ACT_2 = ~z~Hey, can I get you anything, Hosea?
+
+CLEN4_ACT_3 = ~z~How kind you are, son. No, I'm fine.
+
+CLEN4_ACT_4 = ~z~I heard you coughing a lot last night.
+
+CLEN4_ACT_5 = ~z~Yes... that cold air. It's not helped my lungs. I'm...
+
+CLEN4_ACT_6 = ~z~Well, I'll be dead, but before that I'll be fine again.
+
+CLEN4_ACT_7 = ~z~
+
+CLEN4_ACT_8 = ~z~
+
+CLEN4_ACT_9 = ~z~Yeah, I hope so.
+
+CLEN4_ACT_10 = ~z~And, you know... Dutch did a good thing with you.
+
+CLEN4_ACT_11 = ~z~He's taken on more murderers and degenerates than I care to count, but he was right with you.
+
+CLEN4_ACT_12 = ~z~I didn't see it at first, but I was very wrong.
+
+CLEN4_ACT_13 = ~z~I want you to know that.
+
+CLEN4_ACT_14 = ~z~Thank you.
+

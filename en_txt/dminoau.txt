@@ -1,0 +1,92 @@
+DMINO_ABI1_1 = ~z~So where did you learn to play?
+
+DMINO_ABI1_2 = ~z~Saloons, dives growing up... by eight, I was playing piano every night in a cathouse.
+
+DMINO_ABI1_3 = ~z~Really?
+
+DMINO_ABI1_4 = ~z~It weren't no life for a child, but... I learned a few things.
+
+DMINO_ABI2_1 = ~z~I remember you used to play dominoes with Mary.
+
+DMINO_ABI2_2 = ~z~Yeah sometimes.
+
+DMINO_ABI2_3 = ~z~I always liked her.
+
+DMINO_ABI2_4 = ~z~Me too... but you know how this life is. You know it ain't easy.
+
+DMINO_ABI2_5 = ~z~Oh I do.
+
+DMINO_HOSEA1_1 = ~z~I'm watching you like a hawk, Matthews.
+
+DMINO_HOSEA1_2 = ~z~What are you insinuating? I am a man of honor.
+
+DMINO_HOSEA1_3 = ~z~You're a conman.
+
+DMINO_HOSEA1_4 = ~z~It's pretty hard to cheat at dominoes.
+
+DMINO_HOSEA1_5 = ~z~You can cheat at anything.
+
+DMINO_HOSEA1_6 = ~z~That might be the nicest thing anybody's ever said to me.
+
+DMINO_HOSEA2_1 = ~z~Bessie and I would play this for hours back in the day.
+
+DMINO_HOSEA2_2 = ~z~I remember. I think she might have even taught me to play.
+
+DMINO_HOSEA2_3 = ~z~You know, you might be right. A lifetime ago...
+
+DMINO_HOSEA2_4 = ~z~Sure feels like it.
+
+DMINO_MBETH1_1 = ~z~So I been meaning to ask... what's that flower you keep by your bed?
+
+DMINO_MBETH1_2 = ~z~Something my ma always liked. It's kind of a good luck charm, I suppose.
+
+DMINO_MBETH1_3 = ~z~They only grow out west, in parts of California and Oregon...
+
+DMINO_MBETH1_4 = ~z~I always try to grab one when I'm out that way.
+
+DMINO_MBETH1_5 = ~z~That's nice.
+
+DMINO_MBETH1_6 = ~z~I don't remember too much from back then. I was so young when she passed...
+
+DMINO_MBETH1_7 = ~z~but I remember that for some reason.
+
+DMINO_MBETH2_1 = ~z~How about we make this interesting? Whoever wins gets to read the other one's journal.
+
+DMINO_MBETH2_2 = ~z~Oh no, I don't think so.
+
+DMINO_MBETH2_3 = ~z~What have you got to hide?
+
+DMINO_MBETH2_4 = ~z~Plenty.
+
+DMINO_MBETH2_5 = ~z~Now I really want to read it.
+
+DMINO_PEARSON1_1 = ~z~You know when we were at sea, we'd dab jam on the back of the dominoes to stop them sliding around.
+
+DMINO_PEARSON1_2 = ~z~That's a strange story.
+
+DMINO_PEARSON1_3 = ~z~It's always smelled like strawberries below deck on domino night.
+
+DMINO_PEARSON1_4 = ~z~Was this the navy or Goldilocks and the Three Bears?
+
+DMINO_PEARSON1_5 = ~z~We always knew how to improvise, Mr. Morgan.
+
+DMINO_TILLY1_1 = ~z~Can't believe the dominoes survived Blackwater but my necklace didn't.
+
+DMINO_TILLY1_2 = ~z~Oh yeah... I thought something looked different.
+
+DMINO_TILLY1_3 = ~z~Well, I stole that one... I'm sure I can steal another easy enough.
+
+DMINO_TILLY1_4 = ~z~I'll keep my eye out for you too.
+
+DMINO_TILLY2_1 = ~z~If the Pinkertons could see you now.
+
+DMINO_TILLY2_2 = ~z~Killer, bank robber, dominoes player...
+
+DMINO_TILLY2_3 = ~z~Gotta keep them on their toes.
+
+DMINO_TILLY2_4 = ~z~Not the way you want to get arrested, though.
+
+DMINO_TILLY2_5 = ~z~Imagine the newspaper headlines.
+
+DMINO_TILLY2_6 = ~z~Well, keep your eye out then.
+

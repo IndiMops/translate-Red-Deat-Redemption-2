@@ -1,0 +1,528 @@
+REV1_ATTENTION_01 = ~z~Swanson!
+
+REV1_ATTENTION_02 = ~z~Hey, Reverend!
+
+REV1_ATTENTION_03 = ~z~Hey!
+
+REV1_ATTENTION_04 = ~z~What are you doing?
+
+REV1_ATTENTION_05 = ~z~Are you crazy?
+
+REV1_ATTENTION_06 = ~z~Reverend, stop!
+
+REV1_ATTENTION_07 = ~z~Reverend, over here!
+
+REV1_ATTENTION_08 = ~z~Have you lost your mind?
+
+REV1_ATTENTION_09 = ~z~Reverend!
+
+REV1_CAMP_ABI_1 = ~z~You've always had a soft spot for that old fool.
+
+REV1_CAMP_BILL_1 = ~z~Don't remember you ever carrying me home, Morgan.
+
+REV1_CAMP_CHARL_1 = ~z~What's he done now?
+
+REV1_CAMP_DUTCH_1 = ~z~~sl:0.6:1.2~I should have known.~sl:0.3~Get that fool back to his tent to sleep it off.
+
+REV1_CAMP_HOSEA_1 = ~z~I see he's been out there working hard again.
+
+REV1_CAMP_JACK_1 = ~z~Is he asleep?
+
+REV1_CAMP_JAVI_1 = ~z~~sl:1.2~Not again.
+
+REV1_CAMP_JOHN_1 = ~z~You're too easy on him, Arthur.
+
+REV1_CAMP_KAREN_1 = ~z~That man really needs to learn how to hold his liquor.
+
+REV1_CAMP_KIER_1 = ~z~Who's that? The Reverend?
+
+REV1_CAMP_LENNY_1 = ~z~He ain't going to feel good when he wakes up.
+
+REV1_CAMP_MARYB_1 = ~z~Oh, Reverend...
+
+REV1_CAMP_MICAH_1 = ~z~~sl:0.0:2.0~Just throw him off the side of the cliff~sl:0.0:2.0:1~and we'll all pretend it never happened.
+
+REV1_CAMP_MOLLY_1 = ~z~~sl:1.2~I was wondering when he'd show up.
+
+REV1_CAMP_PEARS_1 = ~z~Somebody had a good time.
+
+REV1_CAMP_SADIE_1 = ~z~I won't even ask.
+
+REV1_CAMP_SEAN_1 = ~z~Look who it is. I missed that crazy bastard.
+
+REV1_CAMP_STRAU_1 = ~z~I can smell the whiskey from here.
+
+REV1_CAMP_TILLY_1 = ~z~Is he alright?
+
+REV1_CAMP_UNCLE_1 = ~z~~sl:0.0:1.7:1~How did I miss all the fun?
+
+REV1_EXT_1 = ~z~You better sleep your way to salvation, my friend.
+
+REV1_EXT_2 = ~z~Oh, what happened?
+
+REV1_EXT_3 = ~z~Just... the usual.
+
+REV1_EXT_4 = ~z~Poor bastard.
+
+REV1_EXT_5 = ~z~Exactly.
+
+REV1_EXT_6 = ~z~Well, thank you, Mr. Morgan.
+
+REV1_EXT_7 = ~z~I'll keep an eye on him.
+
+REV1_EXT_8 = ~z~He was lucky this time.
+
+REV1_EXT_9 = ~z~Real lucky.
+
+REV1_FIG_ART_1 = ~z~What the hell is your problem?
+
+REV1_FIG_ART_2 = ~z~He's with me.
+
+REV1_FIG_CONF_1 = ~z~You stay out of it!
+
+REV1_FIG_CONF_2 = ~z~Get your hands off him now, you son of a bitch.
+
+REV1_FIG_FIND_1 = ~z~Hey! Get your hands off him!
+
+REV1_FIG_IDLE2_1 = ~z~Yes you did, you bastard. I heard you.
+
+REV1_FIG_IDLE2_2 = ~z~Get off me, you dumb ape!
+
+REV1_FIG_IDLE3_1 = ~z~I am a man of God!
+
+REV1_FIG_IDLE3_2 = ~z~You're a goddamn drunk!
+
+REV1_FIG_IDLE_1 = ~z~Hey, calm down.
+
+REV1_FIG_IDLE_2 = ~z~What the hell did you just say to me?
+
+REV1_FIG_IDLE_3 = ~z~I didn't say a word.
+
+REV1_FIG_REL_1 = ~z~You'll keep!
+
+REV1_FIG_TAUNT_01 = ~z~Pair of damn fools.
+
+REV1_FIG_TAUNT_02 = ~z~You bastard.
+
+REV1_FIG_TAUNT_03 = ~z~Come on.
+
+REV1_FIG_TAUNT_04 = ~z~I'll kill you both.
+
+REV1_FIG_TAUNT_05 = ~z~You're going down.
+
+REV1_FIG_WATCH_01 = ~z~Just a big misunderstanding.
+
+REV1_FIG_WATCH_02 = ~z~Can't we all just get along here?
+
+REV1_FIG_WATCH_03 = ~z~Everyone takes things so seriously.
+
+REV1_FIG_WATCH_04 = ~z~Why's it all spinning?
+
+REV1_FIG_WATCH_05 = ~z~I see four of you fellers now.
+
+REV1_FIG_WATCH_06 = ~z~This is all entirely unnecessary.
+
+REV1_FOOT_1 = ~z~~sl:0.0:1.7:1~What have you done with your foot?
+
+REV1_FOOT_2 = ~z~It appears to like this place and wants to stay.
+
+REV1_GRIEF_01 = ~z~Huh?
+
+REV1_GRIEF_02 = ~z~What?
+
+REV1_GRIEF_03 = ~z~What's going on...
+
+REV1_GRIEF_04 = ~z~What's happening?
+
+REV1_GRIEF_05 = ~z~What's that?
+
+REV1_GRIEF_06 = ~z~Oh!
+
+REV1_GROANS_01 = ~z~
+
+REV1_GROANS_02 = ~z~
+
+REV1_GROANS_03 = ~z~
+
+REV1_GROANS_04 = ~z~
+
+REV1_GROANS_05 = ~z~
+
+REV1_GROANS_06 = ~z~
+
+REV1_GROANS_07 = ~z~
+
+REV1_GROANS_08 = ~z~
+
+REV1_GROANS_09 = ~z~
+
+REV1_GROANS_10 = ~z~
+
+REV1_GROANS_11 = ~z~
+
+REV1_GROANS_12 = ~z~
+
+REV1_GROANS_13 = ~z~
+
+REV1_GROANS_14 = ~z~
+
+REV1_GROANS_15 = ~z~
+
+REV1_GROANS_16 = ~z~
+
+REV1_GROANS_17 = ~z~
+
+REV1_GROANS_18 = ~z~
+
+REV1_GROANS_19 = ~z~
+
+REV1_GROANS_20 = ~z~
+
+REV1_IG1_P1A1A_1 = ~z~Hey, you... have you seen a priest?
+
+REV1_IG1_P1A1A_2 = ~z~What's your problem?
+
+REV1_IG1_P1A1A_3 = ~z~Have you seen a priest, all... drunk and crazy?
+
+REV1_IG1_P1A1A_4 = ~z~Leave me alone...
+
+REV1_IG1_P1A1A_5 = ~z~Don't make me shoot you.
+
+REV1_IG1_P1A1A_6 = ~z~Shoot me? Why would you shoot me?
+
+REV1_IG1_P1A1A_7 = ~z~Have you seen a priest?
+
+REV1_IG1_P1A1A_8 = ~z~~sl:0.0:2.0~Yes, he went that way...~sl:1.7~...angry jackass...
+
+REV1_IG1_P1A1B_1 = ~z~Just get outta here, will you?
+
+REV1_IG1_P1A1B_2 = ~z~Why don't you go find your priest and leave us alone?
+
+REV1_IG1_P1A1C_1 = ~z~For Christ's sake, I told you! He went that way.
+
+REV1_IG1_P1A1C_2 = ~z~What else do you want from us?
+
+REV1_IG1_P1A1D_1 = ~z~You're as crazy as your friend!
+
+REV1_IG1_P1A1E_1 = ~z~What is wrong with you?
+
+REV1_IG1_P1A1F_1 = ~z~Goddamn lunatic!
+
+REV1_IG1_P1A1G_1 = ~z~You fellers need to learn how to hold your liquor.
+
+REV1_IG1_P1A_1 = ~z~'Scuse me, I'm sorry... y-you see a drunken idiot, a priest, wandering about?
+
+REV1_IG1_P1A_2 = ~z~~sl:0.0:4.3~Sure, we saw him... smelt him... and avoided him.~sl:1.1~He went that way, I think.
+
+REV1_IG1_P1A_3 = ~z~Thanks...
+
+REV1_IG1_P1A_4 = ~z~Guy looked kinda crazy, mister.
+
+REV1_IG1_P1A_5 = ~z~Oh, you have no idea.
+
+REV1_IG1_P1A_6 = ~z~
+
+REV1_IG1_P1A_7 = ~z~
+
+REV1_IG1_P1B_1 = ~z~Like I said, he went that way.
+
+REV1_IG1_P1B_2 = ~z~You should get after him, he was two sheets to the wind.
+
+REV1_IG1_P1C_1 = ~z~~sl:0.4:0.0~Hey, that's all I saw. I swear.
+
+REV1_IG1_P1C_2 = ~z~Whoa, easy now. Whatever this is, leave us out of it.
+
+REV1_IG1_P1D_1 = ~z~What the hell?
+
+REV1_IG1_P1E_1 = ~z~What's your problem?
+
+REV1_IG1_P1F_1 = ~z~What is going on round here?
+
+REV1_IG1_P1G_1 = ~z~I've had enough of this.
+
+REV1_IG5_FREE_1 = ~z~~sl:0.0:1.4:1~Got it, come on!
+
+REV1_IG5_FREE_2 = ~z~
+
+REV1_IG5_FREE_3 = ~z~
+
+REV1_IG5_LOOP1_1 = ~z~
+
+REV1_MCS1_1 = ~z~Well, gentlemen...
+
+REV1_MCS1_2 = ~z~time to move along.
+
+REV1_MCS1_3 = ~z~Aw, hell...
+
+REV1_MCS1_4 = ~z~you're one lucky son of a bitch, you know that?
+
+REV1_MCS1_5 = ~z~Oh, I'm surely a son of a bitch, but lucky?
+
+REV1_MCS1_6 = ~z~I ain't so sure.
+
+REV1_MCS1_7 = ~z~Come on you...
+
+REV1_MCS1_8 = ~z~let's move along.
+
+REV1_MCS1_9 = ~z~Where is he?
+
+REV1_MCS1_10 = ~z~Who?
+
+REV1_MCS1_11 = ~z~The reverend, where'd he go?
+
+REV1_MCS1_12 = ~z~I don't know.
+
+REV1_MCS1_13 = ~z~Ah, shit.
+
+REV1_MCS1_14 = ~z~Excuse me, gentlemen.
+
+REV1_MCS1_15 = ~z~Gentlemen, this is getting too rich for me.
+
+REV1_MCS1_16 = ~z~Sit down.
+
+REV1_MCS1_17 = ~z~Oh, I'm done, friend. It's been a real education.
+
+REV1_MCS1_18 = ~z~Come on, Rev...
+
+REV1_MCS1_19 = ~z~Where is he?
+
+REV1_MCS1_20 = ~z~Where'd he go?
+
+REV1_MCS1_21 = ~z~Who?
+
+REV1_MCS1_22 = ~z~The reverend, where is...
+
+REV1_MCS1_23 = ~z~Excuse me, gentlemen.
+
+REV1_MCS1_24 = ~z~Reverend!
+
+REV1_MCS1_25 = ~z~Reverend Swanson!
+
+REV1_MCS1_26 = ~z~Where'd you go?
+
+REV1_MCS3_1 = ~z~Thank you, sir.
+
+REV1_MCS3_2 = ~z~Ah-ah-ah., oh no you don't!
+
+REV1_MCS3_3 = ~z~What the hell is wrong with you?
+
+REV1_MCS3_4 = ~z~What the hell is wrong with you?
+
+REV1_MCS3_5 = ~z~Throwing me off a bridge like that.
+
+REV1_MCS3_6 = ~z~There was a goddamn train you crazy bastard!
+
+REV1_MCS3_7 = ~z~Have I been bad again, Mr. Morgan?
+
+REV1_MCS3_8 = ~z~I'm sorry.
+
+REV1_MCS3_9 = ~z~I wish I was different.
+
+REV1_MCS3_10 = ~z~Let's get you home.
+
+REV1_MCS3_11 = ~z~Home...
+
+REV1_MCS3_12 = ~z~Yeah, that's a wonderful idea.
+
+REV1_MCS3_13 = ~z~I could have tea with Margaret.
+
+REV1_MCS3_14 = ~z~Margaret? Who's Margaret?
+
+REV1_MCS3_15 = ~z~My...
+
+REV1_MUMBLE_01 = ~z~Margaret...
+
+REV1_MUMBLE_02 = ~z~Tea, please.
+
+REV1_MUMBLE_03 = ~z~Amen.
+
+REV1_MUMBLE_04 = ~z~I told him...
+
+REV1_MUMBLE_05 = ~z~Where am I?
+
+REV1_MUMBLE_06 = ~z~
+
+REV1_MUMBLE_07 = ~z~Wonderful!
+
+REV1_MUMBLE_08 = ~z~One for the road?
+
+REV1_MUMBLE_09 = ~z~Close the drapes...
+
+REV1_MUMBLE_10 = ~z~So sleepy...
+
+REV1_MUMBLE_11 = ~z~Don't mind if I do.
+
+REV1_MUMBLE_12 = ~z~A flush of diamonds.
+
+REV1_MUMBLE_13 = ~z~Kippers, please...
+
+REV1_POKR_BANT1_1 = ~z~Fortunate for you both we're being gentlemen about this.
+
+REV1_POKR_BANT1_2 = ~z~Same goes for you.
+
+REV1_POKR_BANT2_1 = ~z~~sl:0.0:0.6~So...~sl:0.6~how you two know each other anyway?
+
+REV1_POKR_BANT2_2 = ~z~Don't seem like the likeliest of friends, if you don't mind me saying.
+
+REV1_POKR_BANT2_3 = ~z~We go a long way back.
+
+REV1_POKR_BANT2_4 = ~z~And now you're his chaperone?
+
+REV1_POKR_BANT2_5 = ~z~I guess it's something like that... can we play?
+
+REV1_POKR_BANT3_1 = ~z~~sl:0.0:1.5~He can't be no real clergyman...~sl:0.3~he committed about five cardinal sins just in that chair you're sitting in.
+
+REV1_POKR_BANT3_2 = ~z~~sl:0.0:5.9~I think he used to be. He's... drifted a little in recent years.~sl:0.6~Life is a challenge... to all of us.
+
+REV1_POKR_BANT4_1 = ~z~Can you imagine him at the pulpit? If he could stand up...
+
+REV1_POKR_BANT4_2 = ~z~~sl:0.0:3.9~“On the fourth day, he turned water into whiskey~sl:0.0:2.5:1~and I don't remember much after that”.
+
+REV1_POKR_BANT4_3 = ~z~
+
+REV1_POKR_BANT5_1 = ~z~He's a decent feller going through a bad time.
+
+REV1_POKR_BANT5_2 = ~z~Disrespect him again, and you'll find yourself in a bad time too.
+
+REV1_POKR_BANT5_3 = ~z~~sl:0.0:2.5~Alright, alright... just trying to have a little fun here.~sl:0.5~It is a game after all, mister.
+
+REV1_POKR_ENTER_1 = ~z~~sl:0.0:0.8~I'm Luther,~sl:0.2~this is Marvin.
+
+REV1_POKR_GRIEF_01 = ~z~Hey!
+
+REV1_POKR_GRIEF_02 = ~z~You son of a bitch!
+
+REV1_POKR_GRIEF_03 = ~z~Get the hell away from me!
+
+REV1_POKR_RET1_1 = ~z~I thought you was looking for your friend?
+
+REV1_POKR_RET2_1 = ~z~He can't have gotten far, not in that state.
+
+REV1_POKR_RET3_1 = ~z~Maybe he floated up to heaven on his own vapors.
+
+REV1_POKR_RET3_2 = ~z~
+
+REV1_REVMONO_1 = ~z~~sl:0.0:5.2~But I have no light... I'm in darkness...~sl:0.8~and I must find the light, for only then will I find salvation.
+
+REV1_REVMONO_2 = ~z~I must towards the light... towards the noise.
+
+REV1_REVSHOUT1_1 = ~z~Reverend!
+
+REV1_REVSHOUT2_1 = ~z~Reverend!
+
+REV1_REVSHOUT3_1 = ~z~Come on, my friend...
+
+REV1_REVSHOUT4_1 = ~z~It's just a simple mistake...
+
+REV1_REVSHOUT5_1 = ~z~You can... still be... s-saved...
+
+REV1_SHOUT_01 = ~z~Swanson, you in here?
+
+REV1_SHOUT_02 = ~z~Reverend!
+
+REV1_SHOUT_03 = ~z~Reverend, where are you?
+
+REV1_SHOUT_04 = ~z~Swanson!
+
+REV1_SHOUT_05 = ~z~You here, Reverend?
+
+REV1_SHOUT_06 = ~z~Swanson, you hear me?
+
+REV1_SHT_RSP0_1 = ~z~Reverend!
+
+REV1_SHT_RSP0_2 = ~z~Mr. Morgan! A hand here, please!
+
+REV1_SHT_RSP1_1 = ~z~Reverend!
+
+REV1_SHT_RSP1_2 = ~z~Help!
+
+REV1_SHUTUP_01 = ~z~Will you shut up?
+
+REV1_SHUTUP_02 = ~z~Hey, shut it back there.
+
+REV1_SHUTUP_03 = ~z~~sl:0.4~What are you mumbling about now?
+
+REV1_STRE_AGGRO_1 = ~z~What are you doing?
+
+REV1_STRE_AWAY_1 = ~z~Just get away from me.
+
+REV1_STRE_DEM_1 = ~z~You there, you seen a drunken priest staggering around here?
+
+REV1_STRE_DEM_2 = ~z~Uh, yeah. I saw him headed towards the train tracks.
+
+REV1_STRE_HANG_1 = ~z~Like I said, you should go check near the railroad.
+
+REV1_STRE_INQ_1 = ~z~~sl:0.0:0.7~Excuse me,~sl:0.2~you seen a drunken priest staggering around here?
+
+REV1_STRE_INQ_2 = ~z~Yeah, I saw him headed towards the train tracks.
+
+REV1_STRE_WEAP_1 = ~z~Hey! That's all I know, I swear.
+
+REV1_STRUGGLE1_1 = ~z~~sl:0.2:4.1:1~Get your foot outta here, twist your leg, you drunken bastard!
+
+REV1_STRUGGLE2_1 = ~z~
+
+REV1_STRUGGLE3_1 = ~z~Help! Help me or we're both dead!
+
+REV1_WARNING_1 = ~z~~sl:0.0:0.7~Reverend!~sl:0.3~Get off the damn tracks!
+
+REV1_WH_PR_1 = ~z~~sl:0.7~Now, what... where's Reverend?
+
+REV1_WIT_AGGRO_1 = ~z~What the hell? I told you I'd keep quiet.
+
+REV1_WIT_CHA0_1 = ~z~Hey, you! Get back here.
+
+REV1_WIT_CHA1_1 = ~z~You better stop right there.
+
+REV1_WIT_CHA1_2 = ~z~Stay away from me!
+
+REV1_WIT_CHA2_1 = ~z~Stop, you son of a bitch!
+
+REV1_WIT_DIS_1 = ~z~Good, get the hell outta here.
+
+REV1_WIT_FEAR_01 = ~z~No!
+
+REV1_WIT_FEAR_02 = ~z~Please.
+
+REV1_WIT_FEAR_03 = ~z~Please, no.
+
+REV1_WIT_FEAR_04 = ~z~Please don't kill me.
+
+REV1_WIT_IDLE2_01 = ~z~Please...
+
+REV1_WIT_IDLE2_02 = ~z~What are you going to do?
+
+REV1_WIT_IDLE2_03 = ~z~Don't kill me.
+
+REV1_WIT_IDLE2_04 = ~z~I have a family.
+
+REV1_WIT_IDLE_01 = ~z~Did he say he was going for the law?
+
+REV1_WIT_IDLE_02 = ~z~That man appears to have run off on us.
+
+REV1_WIT_IDLE_03 = ~z~I hope I haven't got us into any trouble.
+
+REV1_WIT_INT_1 = ~z~You tell anyone what you saw back there, you're a dead man. Understand me?
+
+REV1_WIT_INT_2 = ~z~Yes! I... I won't tell a soul, I promise.
+
+REV1_WIT_LEAVE_1 = ~z~Last thing I needed.
+
+REV1_WIT_REAC_1 = ~z~Oh, my God. You killed him. I'm gonna get the law on you.
+
+REV1_WIT_ROB_1 = ~z~On second thoughts, you can give me all your money too.
+
+REV1_WIT_ROB_2 = ~z~Okay! Here, take it. Just please let me go.
+
+REV1_WIT_RUN_1 = ~z~You're a fine man, Arthur.
+
+REV1_WIT_RUN_2 = ~z~Damn it, Reverend.
+
+REV1_WIT_SHOT_1 = ~z~Oh my God! What the hell are you doing?
+
+REV1_WIT_STOP_1 = ~z~I said stop, dammit.
+
+REV1_WIT_STOP_2 = ~z~Okay, okay... please don't hurt me.
+
+REV1_WIT_TACK_1 = ~z~Hey, take it easy!
+

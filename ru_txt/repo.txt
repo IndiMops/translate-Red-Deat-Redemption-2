@@ -1,0 +1,382 @@
+0x43932D37 = Покиньте каноэ.
+
+0x8583585E = Покиньте лодку.
+
+0xAE210B37 = Перехватите ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~.
+
+FETCH_REPO_BOAT_HELP_DESTROY = Игрок ~1~ начал противостояние с ~2~. Чтобы получить полную награду, уничтожьте лодку ~3b~.
+
+FETCH_REPO_BOAT_HELP_DESTROY_PLURAL = Игрок ~1~ начал противостояние с ~2~. Чтобы получить полную награду, уничтожьте лодки ~3b~.
+
+FETCH_REPO_BOAT_HELP_DESTROY_PLURAL_YOU = Вы начали противостояние с ~1~. Чтобы получить полную награду, уничтожьте лодки ~2b~.
+
+FETCH_REPO_BOAT_HELP_DESTROY_YOU = Вы начали противостояние с ~1~. Чтобы получить полную награду, уничтожьте лодку ~2b~.
+
+FETCH_REPO_BOAT_HELP_INTRO = Чтобы получить полную награду, за отведенное время конфискуйте лодку, не убивая владельцев.
+
+FETCH_REPO_BOAT_HELP_INTRO_PLURAL = Чтобы получить полную награду, за отведенное время конфискуйте лодки, не убивая владельцев.
+
+FETCH_REPO_BOAT_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Соперники~s~ могут атаковать лодку
+
+FETCH_REPO_BOAT_PVP_GLOBAL_SIGNAL_PLURAL = ~COLOR_ENEMY~Соперники~s~ могут атаковать лодки
+
+FETCH_REPO_BUGGY_HELP_DESTROY = Игрок ~1~ начал противостояние с ~2~. Чтобы получить полную награду, уничтожьте бричку ~3b~.
+
+FETCH_REPO_BUGGY_HELP_DESTROY_YOU = Вы начали противостояние с ~1~. Чтобы получить полную награду, уничтожьте бричку ~2b~.
+
+FETCH_REPO_BUGGY_HELP_INTRO_INTERCEPT = Конфискуйте бричку ~1b~, не убивая ее владельца, чтобы получить полную награду.
+
+FETCH_REPO_BUGGY_HELP_INTRO_INTERCEPT_MOVING = Бричка в пути. Заберите ее, прежде чем она достигнет места назначения.
+
+FETCH_REPO_BUGGY_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Соперники~s~ могут атаковать бричку
+
+FETCH_REPO_CANOE_HELP_DESTROY = Игрок ~1~ начал противостояние с ~2~. Чтобы получить полную награду, уничтожьте каноэ ~3b~.
+
+FETCH_REPO_CANOE_HELP_DESTROY_PLURAL = Игрок ~1~ начал противостояние с ~2~. Чтобы получить полную награду, уничтожьте все каноэ ~3b~.
+
+FETCH_REPO_CANOE_HELP_DESTROY_PLURAL_YOU = Вы начали противостояние с ~1~. Чтобы получить полную награду, уничтожьте несколько каноэ ~2b~.
+
+FETCH_REPO_CANOE_HELP_DESTROY_YOU = Вы начали противостояние с ~1~. Чтобы получить полную награду, уничтожьте каноэ ~2b~.
+
+FETCH_REPO_CANOE_HELP_INTRO = Чтобы получить полную награду, за отведенное время конфискуйте каноэ, не убивая владельцев.
+
+FETCH_REPO_CANOE_HELP_INTRO_PLURAL = Чтобы получить полную награду, за отведенное время конфискуйте каноэ, не убивая владельцев.
+
+FETCH_REPO_CANOE_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Соперники~s~ могут атаковать каноэ
+
+FETCH_REPO_CANOE_PVP_GLOBAL_SIGNAL_PLURAL = ~COLOR_ENEMY~Соперники~s~ могут атаковать каноэ
+
+FETCH_REPO_COACH_HELP_DESTROY = Игрок ~1~ начал противостояние с ~2~. Чтобы получить полную награду, уничтожьте дилижанс ~3b~.
+
+FETCH_REPO_COACH_HELP_DESTROY_YOU = Вы начали противостояние с ~1~. Чтобы получить полную награду, уничтожьте дилижанс ~2b~.
+
+FETCH_REPO_COACH_HELP_INTRO_INTERCEPT = Конфискуйте дилижанс ~1b~, не убивая его владельца, чтобы получить полную награду.
+
+FETCH_REPO_COACH_HELP_INTRO_INTERCEPT_MOVING = Дилижанс в пути. Заберите его, прежде чем он достигнет места назначения.
+
+FETCH_REPO_COACH_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Соперники~s~ могут атаковать дилижанс
+
+FETCH_REPO_DELIVER_BOAT_TEAM_PRIMARY_FAIL = Игрок ~1~ уничтожил лодку
+
+FETCH_REPO_DELIVER_BOAT_TEAM_PRIMARY_FAIL_NP = Лодка уничтожена
+
+FETCH_REPO_DELIVER_BOAT_TEAM_PRIMARY_FAIL_YOU = Вы уничтожили лодку
+
+FETCH_REPO_DELIVER_BOAT_TEAM_PRIMARY_FAIL_YOUR = Ваш отряд уничтожил лодку
+
+FETCH_REPO_DELIVER_BOAT_TEAM_PRIMARY_PASS = Игрок ~1~ доставил лодку
+
+FETCH_REPO_DELIVER_BOAT_TEAM_PRIMARY_PASS_NP = Лодка пригнана
+
+FETCH_REPO_DELIVER_BOAT_TEAM_PRIMARY_PASS_YOU = Вы доставили лодку
+
+FETCH_REPO_DELIVER_BOAT_TEAM_PRIMARY_PASS_YOUR = Ваш отряд доставил лодку
+
+FETCH_REPO_DELIVER_BUGGY_TEAM_PRIMARY_FAIL = Игрок ~1~ уничтожил бричку
+
+FETCH_REPO_DELIVER_BUGGY_TEAM_PRIMARY_PASS = Игрок ~1~ доставил бричку
+
+FETCH_REPO_DELIVER_CANOE_TEAM_PRIMARY_FAIL = Игрок ~1~ уничтожил каноэ
+
+FETCH_REPO_DELIVER_CANOE_TEAM_PRIMARY_FAIL_NP = Каноэ уничтожено
+
+FETCH_REPO_DELIVER_CANOE_TEAM_PRIMARY_FAIL_YOU = Вы уничтожили каноэ
+
+FETCH_REPO_DELIVER_CANOE_TEAM_PRIMARY_FAIL_YOUR = Ваш отряд уничтожил каноэ
+
+FETCH_REPO_DELIVER_CANOE_TEAM_PRIMARY_PASS = Игрок ~1~ пригнал каноэ
+
+FETCH_REPO_DELIVER_CANOE_TEAM_PRIMARY_PASS_NP = Каноэ пригнано
+
+FETCH_REPO_DELIVER_CANOE_TEAM_PRIMARY_PASS_YOU = Вы доставили каноэ
+
+FETCH_REPO_DELIVER_CANOE_TEAM_PRIMARY_PASS_YOUR = Ваш отряд доставил каноэ
+
+FETCH_REPO_DELIVER_COACH_TEAM_PRIMARY_FAIL = Игрок ~1~ уничтожил дилижанс
+
+FETCH_REPO_DELIVER_COACH_TEAM_PRIMARY_PASS = Игрок ~1~ доставил дилижанс
+
+FETCH_REPO_DELIVER_WAGON_TEAM_PRIMARY_FAIL = Игрок ~1~ уничтожил повозку
+
+FETCH_REPO_DELIVER_WAGON_TEAM_PRIMARY_PASS = Игрок ~1~ доставил повозку
+
+FETCH_REPO_HELP_DESTROY = Игрок ~1~ начал противостояние с ~2~. Чтобы получить полную награду, уничтожьте повозку ~3b~.
+
+FETCH_REPO_HELP_DESTROY_YOU = Вы начали противостояние с ~1~. Чтобы получить полную награду, уничтожьте повозку ~2b~.
+
+FETCH_REPO_HELP_HONOR_WARNING_MOVING_BUGGY = Используйте лассо, чтобы сбросить кучера с брички ~1b~, не убивая его.
+
+FETCH_REPO_HELP_HONOR_WARNING_MOVING_COACH = Используйте лассо, чтобы сбросить кучера с дилижанса ~1b~, не убивая его.
+
+FETCH_REPO_HELP_HONOR_WARNING_MOVING_WAGON = Используйте лассо, чтобы сбросить кучера с повозки ~1b~, не убивая его.
+
+FETCH_REPO_HELP_HONOR_WARNING_STATIONARY_BOAT = Чтобы конфисковать лодку ~1b~, вырубите сопротивляющихся владельцев или свяжите их при помощи лассо.
+
+FETCH_REPO_HELP_HONOR_WARNING_STATIONARY_CANOE = Чтобы конфисковать каноэ ~1b~, вырубите сопротивляющихся владельцев или свяжите их при помощи лассо.
+
+FETCH_REPO_HELP_HONOR_WARNING_STATIONARY_WAGON = Чтобы конфисковать повозку ~1b~, вырубите сопротивляющихся владельцев или свяжите их при помощи лассо.
+
+FETCH_REPO_HELP_INTRO = Чтобы получить полную награду, за отведенное время конфискуйте повозку, не убивая владельцев.
+
+FETCH_REPO_HELP_INTRO_INTERCEPT = Конфискуйте повозку ~1b~, не убивая ее владельца, чтобы получить полную награду.
+
+FETCH_REPO_HELP_INTRO_INTERCEPT_MOVING = Повозка в пути. Заберите ее, прежде чем она достигнет места назначения.
+
+FETCH_REPO_JOIN_TEAM_PRIMARY_BOAT = Игрок ~1~ конфисковал лодку
+
+FETCH_REPO_JOIN_TEAM_PRIMARY_CANOE = Игрок ~1~ конфисковал каноэ
+
+FETCH_REPO_JOIN_TEAM_SECONDARY_BOAT = ~COLOR_ENEMY~~1~~s~ атакует лодку
+
+FETCH_REPO_JOIN_TEAM_SECONDARY_BOAT_PLURAL = ~COLOR_ENEMY~~1~~s~ атакует лодки
+
+FETCH_REPO_JOIN_TEAM_SECONDARY_BUGGY = ~COLOR_ENEMY~~1~~s~ атакует бричку
+
+FETCH_REPO_JOIN_TEAM_SECONDARY_CANOE = ~COLOR_ENEMY~~1~~s~ атакует каноэ
+
+FETCH_REPO_JOIN_TEAM_SECONDARY_CANOE_PLURAL = ~COLOR_ENEMY~~1~~s~ атакует каноэ
+
+FETCH_REPO_JOIN_TEAM_SECONDARY_COACH = ~COLOR_ENEMY~~1~~s~ атакует дилижанс
+
+FETCH_REPO_JOIN_TEAM_SECONDARY_WAGON = ~COLOR_ENEMY~~1~~s~ атакует повозку
+
+FETCH_REPO_LOSE_LAW_POSSE = Дождитесь, пока остальные члены вашего отряда оторвутся от ~COLOR_ENEMY~законников~s~.
+
+FETCH_REPO_OBJ_DEFEND_BOAT = Помогите защитить ~COLOR_MP_OBJECTIVE_FRIENDLY~лодку~s~ по пути ~1~.
+
+FETCH_REPO_OBJ_DEFEND_BOAT_PLURAL = Помогите своему отряду защищать ~COLOR_MP_OBJECTIVE_FRIENDLY~лодки~s~ по пути ~1~.
+
+FETCH_REPO_OBJ_DEFEND_BUGGY_INTERCEPT = Помогите защитить ~COLOR_MP_OBJECTIVE_FRIENDLY~бричку~s~ по пути ~1~.
+
+FETCH_REPO_OBJ_DEFEND_CANOE = Помогите защитить ~COLOR_MP_OBJECTIVE_FRIENDLY~каноэ~s~ по пути ~1~.
+
+FETCH_REPO_OBJ_DEFEND_CANOE_PLURAL = Помогите защитить ~COLOR_MP_OBJECTIVE_FRIENDLY~каноэ~s~ по пути ~1~.
+
+FETCH_REPO_OBJ_DEFEND_COACH_INTERCEPT = Помогите защитить ~COLOR_MP_OBJECTIVE_FRIENDLY~дилижанс~s~ на пути ~1~.
+
+FETCH_REPO_OBJ_DEFEND_WAGON = Помогите защитить ~COLOR_MP_OBJECTIVE_FRIENDLY~повозку~s~ по пути ~1~.
+
+FETCH_REPO_OBJ_DEFEND_WAGON_INTERCEPT = Помогите защитить ~COLOR_MP_OBJECTIVE_FRIENDLY~повозку~s~ по пути ~1~.
+
+FETCH_REPO_OBJ_DESTROY_BOAT = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~лодку~s~.
+
+FETCH_REPO_OBJ_DESTROY_BOAT_PLURAL = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~лодки~s~.
+
+FETCH_REPO_OBJ_DESTROY_BUGGY = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~бричку~s~.
+
+FETCH_REPO_OBJ_DESTROY_CANOE = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~каноэ~s~.
+
+FETCH_REPO_OBJ_DESTROY_CANOE_PLURAL = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~каноэ~s~.
+
+FETCH_REPO_OBJ_DESTROY_COACH = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~дилижанс~s~.
+
+FETCH_REPO_OBJ_DESTROY_WAGON = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~повозку~s~.
+
+FETCH_REPO_OBJ_FIND_BUGGY_INTERCEPT_SECONDARY = Перехватите ~COLOR_MP_OBJECTIVE_NEUTRAL~бричку~s~.
+
+FETCH_REPO_OBJ_FIND_COACH_INTERCEPT_SECONDARY = Перехватите ~COLOR_MP_OBJECTIVE_NEUTRAL~дилижанс~s~.
+
+FETCH_REPO_OBJ_GO_TO = Направляйтесь ~1~.
+
+FETCH_REPO_OBJ_LOSE_LAW = Оторвитесь от ~COLOR_ENEMY~законников~s~.
+
+FETCH_REPO_OBJ_PROTECT_BOAT = Помогите защитить ~COLOR_MP_OBJECTIVE_FRIENDLY~лодку~s~.
+
+FETCH_REPO_OBJ_PROTECT_BUGGY = Помогите защитить ~COLOR_MP_OBJECTIVE_FRIENDLY~бричку~s~ по пути ~1~.
+
+FETCH_REPO_OBJ_PROTECT_CANOE = Помогите защитить ~COLOR_MP_OBJECTIVE_FRIENDLY~каноэ~s~.
+
+FETCH_REPO_OBJ_PROTECT_COACH = Помогите защитить ~COLOR_MP_OBJECTIVE_FRIENDLY~дилижанс~s~ на пути ~1~.
+
+FETCH_REPO_OBJ_PROTECT_SUPPLIES = Помогите защитить ~COLOR_MP_OBJECTIVE_FRIENDLY~повозку~s~ по пути ~1~.
+
+FETCH_REPO_OBJ_RETURN_BOAT = Пригоните лодку ~1~.
+
+FETCH_REPO_OBJ_RETURN_BUGGY_SUPPLIES_INTERCEPT = Пригоните бричку ~1~.
+
+FETCH_REPO_OBJ_RETURN_CANOE = Пригоните каноэ ~1~.
+
+FETCH_REPO_OBJ_RETURN_COACH_SUPPLIES_INTERCEPT = Пригоните дилижанс ~1~.
+
+FETCH_REPO_OBJ_RETURN_SUPPLIES = Пригоните повозку ~1~.
+
+FETCH_REPO_OBJ_RETURN_SUPPLIES_INTERCEPT = Пригоните повозку ~1~.
+
+FETCH_REPO_OBJ_STEAL_BOAT = Верните ~COLOR_MP_OBJECTIVE_NEUTRAL~лодку~s~.
+
+FETCH_REPO_OBJ_STEAL_BOAT_PLURAL = Верните ~COLOR_MP_OBJECTIVE_NEUTRAL~лодки~s~.
+
+FETCH_REPO_OBJ_STEAL_BUGGY_INTERCEPT_TAKE = Верните ~COLOR_MP_OBJECTIVE_NEUTRAL~бричку~s~.
+
+FETCH_REPO_OBJ_STEAL_CANOE = Верните ~COLOR_MP_OBJECTIVE_NEUTRAL~каноэ~s~.
+
+FETCH_REPO_OBJ_STEAL_CANOE_PLURAL = Верните ~COLOR_MP_OBJECTIVE_NEUTRAL~каноэ~s~.
+
+FETCH_REPO_OBJ_STEAL_COACH_INTERCEPT_TAKE = Верните ~COLOR_MP_OBJECTIVE_NEUTRAL~дилижанс~s~.
+
+FETCH_REPO_OBJ_STEAL_FROM_POSSE_BOAT = Отберите ~COLOR_MP_OBJECTIVE_ENEMY~лодку~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_REPO_OBJ_STEAL_FROM_POSSE_BOAT_PLURAL = Отберите ~COLOR_MP_OBJECTIVE_ENEMY~лодки~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_REPO_OBJ_STEAL_FROM_POSSE_BUGGY = Отбейте ~COLOR_MP_OBJECTIVE_ENEMY~бричку~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_REPO_OBJ_STEAL_FROM_POSSE_CANOE = Отберите ~COLOR_MP_OBJECTIVE_ENEMY~каноэ~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_REPO_OBJ_STEAL_FROM_POSSE_CANOE_PLURAL = Отберите ~COLOR_MP_OBJECTIVE_ENEMY~каноэ~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_REPO_OBJ_STEAL_FROM_POSSE_COACH = Отбейте ~COLOR_MP_OBJECTIVE_ENEMY~дилижанс~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_REPO_OBJ_STEAL_FROM_POSSE_WAGON = Отбейте ~COLOR_MP_OBJECTIVE_ENEMY~повозку~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_REPO_OBJ_STEAL_WAGON = Отберите ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~.
+
+FETCH_REPO_OBJ_STEAL_WAGON_INTERCEPT_TAKE = Верните ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~.
+
+FETCH_REPO_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Соперники~s~ могут атаковать повозку
+
+FETCH_REPO_SHARD_BOAT_DESC_PRIMARY = Отберите ~COLOR_MP_OBJECTIVE_NEUTRAL~лодку~s~
+
+FETCH_REPO_SHARD_BOAT_DESC_PRIMARY_PLURAL = Отберите ~COLOR_MP_OBJECTIVE_NEUTRAL~лодки~s~
+
+FETCH_REPO_SHARD_BOAT_DESC_SECONDARY = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~лодку~s~
+
+FETCH_REPO_SHARD_BOAT_DESC_SECONDARY_PLURAL = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~лодки~s~
+
+FETCH_REPO_SHARD_BOAT_OVER = Лодка уничтожена
+
+FETCH_REPO_SHARD_BOAT_OVER_PLURAL = Лодки уничтожены
+
+FETCH_REPO_SHARD_BOAT_PRIMARY_FAIL = Лодка уничтожена
+
+FETCH_REPO_SHARD_BOAT_PRIMARY_FAIL_PLURAL = Лодки уничтожены
+
+FETCH_REPO_SHARD_BOAT_PRIMARY_PASS = Лодка пригнана
+
+FETCH_REPO_SHARD_BOAT_PRIMARY_PASS_PARTIAL = Лодок пригнано: ~1~/~2~
+
+FETCH_REPO_SHARD_BOAT_PRIMARY_PASS_PLURAL = Лодки пригнаны
+
+FETCH_REPO_SHARD_BOAT_SECONDARY_FAIL = Лодка пригнана
+
+FETCH_REPO_SHARD_BOAT_SECONDARY_FAIL_PLURAL = Лодки пригнаны
+
+FETCH_REPO_SHARD_BOAT_SECONDARY_FAIL_RIVALS = Лодка уничтожена вражеским отрядом
+
+FETCH_REPO_SHARD_BOAT_SECONDARY_FAIL_RIVALS_PLURAL = Лодки уничтожены вражеским отрядом
+
+FETCH_REPO_SHARD_BOAT_SECONDARY_PASS = Лодка уничтожена
+
+FETCH_REPO_SHARD_BOAT_SECONDARY_PASS_PARTIAL = Лодок уничтожено: ~1~/~2~
+
+FETCH_REPO_SHARD_BOAT_SECONDARY_PASS_PLURAL = Лодки уничтожены
+
+FETCH_REPO_SHARD_BUGGY_DESC_PRIMARY = Отберите ~COLOR_MP_OBJECTIVE_NEUTRAL~бричку~s~
+
+FETCH_REPO_SHARD_BUGGY_DESC_SECONDARY = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~бричку~s~
+
+FETCH_REPO_SHARD_BUGGY_OVER = Бричка уничтожена
+
+FETCH_REPO_SHARD_BUGGY_PRIMARY_FAIL = Бричка уничтожена
+
+FETCH_REPO_SHARD_BUGGY_PRIMARY_PASS = Бричка пригнана
+
+FETCH_REPO_SHARD_BUGGY_REACHED_DESTINATION = Бричка достигла места назначения
+
+FETCH_REPO_SHARD_BUGGY_SECONDARY_FAIL = Бричка пригнана
+
+FETCH_REPO_SHARD_BUGGY_SECONDARY_FAIL_RIVALS = Бричка уничтожена вражеским отрядом
+
+FETCH_REPO_SHARD_BUGGY_SECONDARY_PASS = Бричка уничтожена
+
+FETCH_REPO_SHARD_CANOE_DESC_PRIMARY = Отберите ~COLOR_MP_OBJECTIVE_NEUTRAL~каноэ~s~
+
+FETCH_REPO_SHARD_CANOE_DESC_PRIMARY_PLURAL = Отберите ~COLOR_MP_OBJECTIVE_NEUTRAL~каноэ~s~
+
+FETCH_REPO_SHARD_CANOE_DESC_SECONDARY = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~каноэ~s~
+
+FETCH_REPO_SHARD_CANOE_DESC_SECONDARY_PLURAL = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~каноэ~s~
+
+FETCH_REPO_SHARD_CANOE_OVER = Каноэ уничтожено
+
+FETCH_REPO_SHARD_CANOE_OVER_PLURAL = Каноэ уничтожены
+
+FETCH_REPO_SHARD_CANOE_PRIMARY_FAIL = Каноэ уничтожено
+
+FETCH_REPO_SHARD_CANOE_PRIMARY_FAIL_PLURAL = Каноэ уничтожены
+
+FETCH_REPO_SHARD_CANOE_PRIMARY_PASS = Каноэ пригнано
+
+FETCH_REPO_SHARD_CANOE_PRIMARY_PASS_PARTIAL = Каноэ пригнано: ~1~/~2~
+
+FETCH_REPO_SHARD_CANOE_PRIMARY_PASS_PLURAL = Каноэ пригнаны
+
+FETCH_REPO_SHARD_CANOE_SECONDARY_FAIL = Каноэ пригнано
+
+FETCH_REPO_SHARD_CANOE_SECONDARY_FAIL_PLURAL = Каноэ пригнаны
+
+FETCH_REPO_SHARD_CANOE_SECONDARY_FAIL_RIVALS = Каноэ уничтожено вражеским отрядом
+
+FETCH_REPO_SHARD_CANOE_SECONDARY_FAIL_RIVALS_PLURAL = Каноэ уничтожены вражеским отрядом
+
+FETCH_REPO_SHARD_CANOE_SECONDARY_PASS = Каноэ уничтожено
+
+FETCH_REPO_SHARD_CANOE_SECONDARY_PASS_PARTIAL = Каноэ уничтожено: ~1~/~2~
+
+FETCH_REPO_SHARD_CANOE_SECONDARY_PASS_PLURAL = Каноэ уничтожены
+
+FETCH_REPO_SHARD_COACH_DESC_PRIMARY = Отберите ~COLOR_MP_OBJECTIVE_NEUTRAL~дилижанс~s~
+
+FETCH_REPO_SHARD_COACH_DESC_SECONDARY = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~дилижанс~s~
+
+FETCH_REPO_SHARD_COACH_OVER = Дилижанс уничтожен
+
+FETCH_REPO_SHARD_COACH_PRIMARY_FAIL = Дилижанс уничтожен
+
+FETCH_REPO_SHARD_COACH_PRIMARY_PASS = Дилижанс доставлен
+
+FETCH_REPO_SHARD_COACH_REACHED_DESTINATION = Дилижанс достиг места назначения
+
+FETCH_REPO_SHARD_COACH_SECONDARY_FAIL = Дилижанс доставлен
+
+FETCH_REPO_SHARD_COACH_SECONDARY_FAIL_RIVALS = Дилижанс уничтожен вражеским отрядом
+
+FETCH_REPO_SHARD_COACH_SECONDARY_PASS = Дилижанс уничтожен
+
+FETCH_REPO_SHARD_DESC_PRIMARY = Отберите ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~
+
+FETCH_REPO_SHARD_DESC_SECONDARY = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~повозку~s~
+
+FETCH_REPO_SHARD_OVER = Повозка уничтожена
+
+FETCH_REPO_SHARD_PRIMARY_FAIL = Повозка уничтожена
+
+FETCH_REPO_SHARD_PRIMARY_PASS = Повозка пригнана
+
+FETCH_REPO_SHARD_REACHED_DESTINATION = Повозка достигла места назначения
+
+FETCH_REPO_SHARD_SECONDARY_FAIL = Повозка пригнана
+
+FETCH_REPO_SHARD_SECONDARY_FAIL_RIVALS = Повозка уничтожена вражеским отрядом
+
+FETCH_REPO_SHARD_SECONDARY_PASS = Повозка уничтожена
+
+FETCH_REPO_TICKER_DESTROY = Повозка уничтожена
+
+FETCH_REPO_TICKER_DESTROY_BUGGY = Бричка уничтожена
+
+FETCH_REPO_TICKER_DESTROY_BUGGY_YOU = Вы уничтожили бричку
+
+FETCH_REPO_TICKER_DESTROY_COACH = Дилижанс уничтожен
+
+FETCH_REPO_TICKER_DESTROY_COACH_YOU = Вы уничтожили дилижанс
+
+FETCH_REPO_TICKER_DESTROY_YOU = Вы уничтожили повозку
+
+FETCH_REPO_UPDATE_BOAT_DESTROYED = Лодка уничтожена
+
+FETCH_REPO_UPDATE_BOAT_DESTROYED_YOU = Вы уничтожили лодку
+
+FETCH_REPO_UPDATE_CANOE_DESTROYED = Каноэ было уничтожено.
+
+FETCH_REPO_UPDATE_CANOE_DESTROYED_YOU = Вы уничтожили каноэ
+

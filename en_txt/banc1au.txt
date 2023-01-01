@@ -1,0 +1,26 @@
+BANC1_ACTA_1 = ~z~The farm looks good.
+
+BANC1_ACTA_2 = ~z~You won't need my help round here much longer.
+
+BANC1_ACTA_3 = ~z~Oh, we can always use your help.
+
+BANC1_ACTA_4 = ~z~It's time I moved on soon anyway. Leave this country once and for all.
+
+BANC1_ACTA_5 = ~z~Go somewhere where the people can hate me for the right reasons.
+
+BANC1_ACTA_6 = ~z~You always have a home here. You know that, you're family.
+
+BANC1_ACTBALT_1 = ~z~Ain't that right, John?
+
+BANC1_ACTBALT_2 = ~z~Of course. And either way, stay a while longer.
+
+BANC1_ACTBALT_3 = ~z~You can't leave me here with the drunkest, oldest ranchhand in West Elizabeth just yet.
+
+BANC1_ACTBALT_4 = ~z~You love him, really.
+
+BANC1_ACTBALT_5 = ~z~Well, I best get back to it.
+
+BANC1_ACTB_1 = ~z~Thank you.
+
+BANC1_ACTB_2 = ~z~Anyway, I best get back to it.
+

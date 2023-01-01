@@ -1,0 +1,6 @@
+LAR1_F_ABE = Abe died
+
+LAR1_OBJ_1 = Beat up the ~e~Laramie gang member
+
+LAR1_OBJ_SEARCH = Investigate the disturbance
+

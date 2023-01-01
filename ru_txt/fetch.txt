@@ -1,0 +1,2166 @@
+0x00C307EC = Покиньте ~COLOR_MP_OBJECTIVE~сектор~s~.
+
+0x01172017 = на ~HC_~1p~~ранчо~s~
+
+0x038B8EB0 = Контракт - Джеб Фелпс
+
+0x0769EDBA = Левит Корнуолл занялся торговлей капитале. Помогите Мартелли нанести удар по нефтяному магнату.
+
+0x077C18D9 = Вы пригнали телегу ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+0x07884C40 = в ~HC_~1p~~схрон~s~
+
+0x09BB3EDA = Вынос имущества
+
+0x0A7DA6BD = Армейская повозка
+
+0x0ACD7BEE = ~COLOR_MP_OBJECTIVE_ENEMY~Тобиас Беллингем~s~ выгружает припасы с поездов, идущих в сторону Сен-Дени. Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы задействовать «Орлиный глаз», и поищите его.
+
+0x0D1ACEFB = Игрок ~1~ нашел сумку с деньгами
+
+0x0D5F4332 = Волчья шкура
+
+0x0E49AC22 = в ~HC_~1p~~док~s~
+
+0x0EFE7B84 = Сами вершите правосудие и выносите смертный приговор бандитам.
+
+0x0F33E200 = Железнодорожный директор
+
+0x0F67F761 = Реквизируйте повозки на дороге.
+
+0x1A8F6F22 = Контракт - Корнуолл
+
+0x1BFFD62C = Отказаться от задания
+
+0x1C412D2F = Остановите ~COLOR_MP_OBJECTIVE~поезд~s~.
+
+0x1D709A94 = Создавайте хаос и уничтожайте припасы.
+
+0x1DBBAAC5 = Оплата с опозданием
+
+0x1DF1951B = в ~HC_~1p~~Дэд-Снейк-Вудс~s~
+
+0x1F9F193F = Белый волк
+
+0x2B2FD68A = Возвращайте украденное имущество.
+
+0x2B18294F = Вы заработали ~1$~
+
+0x2BC48128 = Освобождайте ценные лодки от их законных владельцев.
+
+0x2BEF8456 = Чужая собственность
+
+0x2C7C7082 = Джеб Фелпс
+
+0x2C91FBC0 = Повозка с припасами
+
+0x2D311020 = Вы нашли заначку с капитале
+
+0x3A770981 = Дождитесь, пока отряд скроется от ~COLOR_ENEMY~законников~s~.
+
+0x3E5776D9 = Дилижанс
+
+0x3F655DF3 = Продажа товаров
+
+0x3FF82641 = Бочка с самогоном
+
+0x4C964450 = Игрок ~1~ нашел ценности
+
+0x4D7BE2A1 = Вы пригнали дилижанс ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+0x4DEBAA46 = Выследите цель.
+
+0x4F7CE0D1 = ~COLOR_ENEMY~Противники~s~ пригнали бричку ~1b~ в зону доставки, и с ней больше нельзя взаимодействовать.
+
+0x5A4EF9AC = Цели убиты
+
+0x5A46FD42 = Помогите бывшему главарю банды Джебу Фелпсу, чтобы найти его тайник. По слухам, в тайнике лежат банкноты капитале.
+
+0x5ACA37B1 = Припасы
+
+0x5BCF37CC = ~COLOR_ENEMY~Противники~s~ пригнали дилижанс ~1b~ в зону доставки, и с ним больше нельзя взаимодействовать.
+
+0x5BD7A3EA = Поезд
+
+0x5FDADEB2 = Чтобы мешать сопернику выполнить задание «Наемный стрелок», используйте ~INPUT_INTERACT_LOCKON~ для защиты цели ~1b~.
+
+0x5FFBC3BC = Бандит
+
+0x6A1B266E = Заначка с капитале
+
+0x6A703853 = Повозка с лекарствами
+
+0x6B04BE00 = на ~HC_~1p~~фабрику Cornwall Kerosene & Tar во Внутренних землях~s~
+
+0x6B697464 = Шлюпка
+
+0x6C1F1FAD = Ван-Хорн
+
+0x6D7CBA37 = Охрана бара
+
+0x6EE220BD = Оторвитесь от ~COLOR_ENEMY~законников~s~.
+
+0x7BD378BF = к ~HC_~1p~~нагорью Уоллес~s~
+
+0x7F9A311A = Саботажник
+
+0x8AB46D1E = Зажженный фитиль
+
+0x8B535543 = Игрок ~1~ нашел последнюю заначку с капитале
+
+0x8FD487DC = к ~HC_~1p~~месту назначения~s~
+
+0x9CB42DB7 = Вы нашли ценности
+
+0x9F2D387D = Контракт - Доки
+
+0x9FFCAC88 = Тюремная лодка
+
+0x11ED4BB6 = Тигр
+
+0x15B4FEA7 = Доставьте ценные товары любой ценой.
+
+0x25A66B1D = Наемный стрелок
+
+0x53AED523 = Зона запугивания
+
+0x59C80ECA = Отдать предмет
+
+0x64BB282A = Забрать сумку с добычей
+
+0x69C88487 = Ценности
+
+0x73AE79A1 = Завершено
+
+0x73DDD168 = Вы нашли последнюю сумку с деньгами
+
+0x73E89EB1 = к ~HC_~1p~~шерифу~s~
+
+0x80F7228E = к ~HC_~1p~~сортировочной станции Корнуолла~s~
+
+0x81A777A9 = ~1~/~2~
+
+0x96A23846 = Помогите Мартелли в его конфликте с продажными магнатами железной дороги Central Union, которые решили заняться капитале.
+
+0x98A6CE92 = Сфокусироваться на зацепке
+
+0x110CBECF = Верните то, что задолжал таинственный музыкант Джон из Блюуотера и его бывшая банда.
+
+0x143D2BE2 = ~COLOR_ENEMY~Противники~s~ привели одного из незнакомцев ~1b~ в зону доставки, и с ними больше нельзя взаимодействовать.
+
+0x177E346B = Вы нашли сумку с деньгами
+
+0x256A570E = Уничтожьте повозку
+
+0x286D8BEA = Помогите Мартелли отомстить тем, кто мешал ему вести дела в доках Сен-Дени.
+
+0x477F8F22 = Игрок ~1~ нашел заначку с капитале
+
+0x520D4F0E = Находите и возвращайте пропавших людей.
+
+0x795E5FF7 = Награда
+
+0x836D4DAF = Удерживайте ~INPUT_CONTEXT_B~, чтобы дать кучеру команду остановиться.
+
+0x3034B6CC = к ~HC_~1p~~перевалу Твин-Стэк~s~
+
+0x3134F06E = Повозка с товарами
+
+0x3917BCE8 = к ~HC_~1p~~месту назначения~s~
+
+0x3960B3AB = Вы нашли заначки с капитале
+
+0x3992C038 = ~1~ $
+
+0x4175A77F = Владелец салуна
+
+0x4866B5DA = к ~HC_~1p~~докам в Пристани разбойников~s~
+
+0x5154CAB7 = в ~HC_~1p~~Рио-Браво~s~
+
+0x5288DB3A = Отбивайте арестованных у законников.
+
+0x5862C792 = Коза
+
+0x7114EE6C = Вы пригнали бричку ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+0x7863DC53 = Вы доставили сумку с припасами
+
+0x8188DB16 = Контракт - Железная дорога
+
+0x8751B461 = Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» и поискать следы в лагере.
+
+0x9609DBF3 = на ~HC_~1p~~«Антенор»~s~
+
+0x9614E873 = Игрок ~1~ нашел заначки с капитале
+
+0x28544D77 = Пленник
+
+0x53483B33 = Принять задание
+
+0x259501AB = к ~HC_~1p~~конвою с припасами~s~
+
+0x649493A7 = Забирайте угнанные повозки – желательно без кровопролития.
+
+0x826207FE = Сядьте на ~COLOR_MP_OBJECTIVE~поезд~s~.
+
+0x938473B9 = Ваш отряд доставил сумку с припасами
+
+0x73442756 = Вор
+
+0x81702416 = Осел
+
+0xA0D001BB = ~COLOR_ENEMY~Противники~s~ привели незнакомого человека ~1b~ в зону доставки, и с ним больше нельзя взаимодействовать.
+
+0xA0E4939E = Цирковая повозка
+
+0xA3ED16E5 = Возвращайте владельцам угнанные повозки.
+
+0xA4BB7CFA = Игрок ~1~ нашел сумки с деньгами
+
+0xA4C08E8D = Лошадь
+
+0xA6FC7D4B = Дверь тюрьмы
+
+0xA6FEDA04 = Гитара
+
+0xA8F97207 = Заберите банкноты капитале и другие ценности из салунов, в которых засели преступники.
+
+0xA9C3A891 = Ограбление завершилось успехом
+
+0xA9FA9CA2 = Отбивайте нападения на караваны.
+
+0xA37D3762 = Вы нашли оставшиеся ценности
+
+0xA95C2CC2 = Разыскиваемая цель
+
+0xA764F031 = Вы нашли последнюю заначку с капитале
+
+0xA1812FCA = Освобождайте преступников из тюрьмы.
+
+0xA18487A7 = Обыщите бандитов.
+
+0xAAC22C8B = Выслеживайте и угоняйте ценные повозки.
+
+0xAEA9D7D2 = Оставшееся время
+
+0xAF2C3000 = в ~HC_~1p~~убежище~s~
+
+0xB025E4E1 = Укромное место
+
+0xB0B90390 = в ~HC_~1p~~конюшню Брейтуэйтов~s~
+
+0xB1DB7203 = Нападите на лагерь отщепенцев, которые, по слухам, прячут банкноты капитале.
+
+0xB38B7EAD = на ~HC_~1p~~побережье у Щербатой гряды~s~
+
+0xB67EA5D7 = Направляйтесь ~1~.
+
+0xB980C760 = Взять заначку с капитале
+
+0xB7334950 = Ищите спрятанные банкноты капитале в заданиях «Кровавые деньги – «Преступления». Преступники часто прячут ценности в тайниках, а известные персоны носят их с собой.
+
+0xBE88E8AD = Контракт - Салун
+
+0xC070561F = Бричка ~1b~ теперь в безопасности в зоне доставки.
+
+0xC6A6F917 = Нападите на фермеров, которые прячут у себя банкноты капитале.
+
+0xC7BCB7E8 = Овца
+
+0xC8A9184C = Грязные деньги, грязные дела
+
+0xC9EDBF2C = Барсук
+
+0xCB843EAC = Игрок ~1~ нашел последнюю сумку с деньгами
+
+0xCD628D48 = Задание провалено
+
+0xCDA515B1 = Ограбление завершено
+
+0xCFA54CD0 = Ованджильская плотина
+
+0xCFE56CA7 = Игрок ~COLOR_MP_OBJECTIVE_FRIENDLY~~1~~s~ осмотрел следы
+
+0xD3A78236 = Держите поводья крепко и доставьте ценные товары.
+
+0xD63DDD63 = Осмотреть
+
+0xD752A453 = Нападите на дилижанс, который якобы перевозит банкноты капитале.
+
+0xD9172FC4 = Цель схвачена и доставлена властям
+
+0xDC08A541 = Станция Флэтнек
+
+0xDC815A80 = Осталось важных персон
+
+0xDCAE1103 = Шкура пумы
+
+0xDE370248 = Серый волк
+
+0xDFC9C4C4 = Выследите цель и доставьте ее властям
+
+0xE3F7A522 = Ищите и захватывайте ценных лошадей.
+
+0xE5BE450C = Налет на дилижанс
+
+0xE6C04566 = к покупателю
+
+0xE8CCCA10 = Повозка с зарплатой
+
+0xE8E78C29 = Игрок ~1~ нашел оставшиеся ценности
+
+0xE25E72A1 = Член банды
+
+0xE86B6BAD = Товары ~1b~ были повреждены. Безрассудная езда по бездорожью или столкновения с препятствиями повредят транспортное средство.
+
+0xE89DEE60 = Телега ~1b~ теперь в безопасности в зоне доставки.
+
+0xE92FF8AA = Вы нашли сумки с деньгами
+
+0xE13065FF = Долина Хэмлина
+
+0xE191772B = Ваш уровень чести понизился, поскольку вы или ваши товарищи убили невинного человека или животное.
+
+0xEAAAF709 = Джон из Блюуотера
+
+0xEB708DC6 = Олень (самец)
+
+0xEE45A772 = к ~HC_~1p~~ж/д переезду Байю~s~
+
+0xEEA1E381 = Перехватите колонну, которая везет взрывчатку на станцию Бахус. Поищите там банкноты капитале.
+
+0xEEAC0F85 = в ~HC_~1p~~восточные доки Сен-Дени~s~
+
+0xEF9F8575 = к ~HC_~1p~~департаменту полиции в Блэкуотере~s~
+
+0xEFE510C4 = Военная повозка
+
+0xF2D8EF24 = ~COLOR_ENEMY~Противники~s~ пригнали телегу ~1b~ в зону доставки, и с ней больше нельзя взаимодействовать.
+
+0xF31B8944 = Контракт - Блюуотер
+
+0xF39A0640 = Найдите повозку с зарплатой и заберите ее груз. По слухам, она перевозит и капитале.
+
+0xF64E7085 = Начальник порта
+
+0xF377E087 = к ~HC_~1p~~реке Литтл-Крик~s~
+
+0xFB4A9A39 = Дилижанс ~1b~ теперь в безопасности в зоне доставки.
+
+0xFC86F440 = Захватите украденные товары у банды, которая припрятала банкноты капитале.
+
+0xFC3310D0 = Корова
+
+0xFE7AE6F4 = Зебра
+
+BOUNTY_ESCORT_TARGET_HELP_VEHICLE_HALTED = Кучер остановил фургон, так как вы слишком далеко. Подойдите к фургону и удерживайте ~INPUT_CONTEXT_B~, чтобы он снова поехал.
+
+FETCH_AMMO_BOX_FOOTER_FIRE_BOTTLES = Зажигательная смесь
+
+FETCH_AMMO_BOX_FOOTER_SEDATIVE_ROUNDS = Снотворные патроны
+
+FETCH_AMMO_BOX_TAKE = Взять
+
+FETCH_BLIP_ALLIGATOR = Аллигатор
+
+FETCH_BLIP_ALLIGATOR_SKIN = Кожа аллигатора
+
+FETCH_BLIP_AMBUSH_LOCATION = Место засады
+
+FETCH_BLIP_BAIT_AREA = Место для приманки
+
+FETCH_BLIP_BANDIT = Враг
+
+FETCH_BLIP_BARTENDER = Бармен
+
+FETCH_BLIP_BEAR = Медведь
+
+FETCH_BLIP_BEAR_LEGENDARY = Легендарный медведь
+
+FETCH_BLIP_BEAR_SKIN = Медвежья шкура
+
+FETCH_BLIP_BEAVER = Бобр
+
+FETCH_BLIP_BEAVER_LEGENDARY = Легендарный бобр
+
+FETCH_BLIP_BISON = Бизон
+
+FETCH_BLIP_BISON_LEGENDARY = Легендарный бизон
+
+FETCH_BLIP_BISON_PELT = Шкура бизона
+
+FETCH_BLIP_BOAR = Кабан
+
+FETCH_BLIP_BOAR_LEGENDARY = Легендарный кабан
+
+FETCH_BLIP_BOOTLEGGER = Бутлегер
+
+FETCH_BLIP_BOUNTY = Разыскиваемая цель
+
+FETCH_BLIP_BOUNTY_HUNTER = Охотник за головами
+
+FETCH_BLIP_BURN = Сжечь
+
+FETCH_BLIP_BUYER = Покупатель
+
+FETCH_BLIP_CAGE = Клетка для животных
+
+FETCH_BLIP_CAMP = Лагерь
+
+FETCH_BLIP_CAMPSITE = Лагерь
+
+FETCH_BLIP_CAVE = Пещера
+
+FETCH_BLIP_COUGAR = Пума
+
+FETCH_BLIP_COUGAR_LEGENDARY = Легендарная пума
+
+FETCH_BLIP_COW = Корова
+
+FETCH_BLIP_COYOTE = Койот
+
+FETCH_BLIP_COYOTE_LEGENDARY = Легендарный койот
+
+FETCH_BLIP_CRIPPS = Криппс
+
+FETCH_BLIP_CROPS = Посевы
+
+FETCH_BLIP_DEER = Олень
+
+FETCH_BLIP_DEER_LEGENDARY = Легендарный олень
+
+FETCH_BLIP_DESTINATION = Место назначения
+
+FETCH_BLIP_DESTROYED_CAMP = Разгромленный лагерь
+
+FETCH_BLIP_DESTROYED_WAGON = Разгромленная повозка
+
+FETCH_BLIP_DOG = Собака
+
+FETCH_BLIP_DOOR = Дверь
+
+FETCH_BLIP_ELK = Вапити
+
+FETCH_BLIP_ELK_LEGENDARY = Легендарный вапити
+
+FETCH_BLIP_ELK_PELT = Шкура вапити
+
+FETCH_BLIP_FARMER = Фермер
+
+FETCH_BLIP_FOREMAN = Бригадир
+
+FETCH_BLIP_FOX_LEGENDARY = Легендарная лиса
+
+FETCH_BLIP_GATOR_LEGENDARY = Легендарный аллигатор
+
+FETCH_BLIP_GUARD = Опасная область
+
+FETCH_BLIP_HIDEOUT = Логово
+
+FETCH_BLIP_HIDE_AREA = Укрытие
+
+FETCH_BLIP_HORSE = Лошадь
+
+FETCH_BLIP_HOUND = Гончая
+
+FETCH_BLIP_HUB = Последнее местоположение
+
+FETCH_BLIP_IGUANA = Игуана
+
+FETCH_BLIP_INFORMANT = Информатор
+
+FETCH_BLIP_INSPECTED_CLUE = Исследованный объект
+
+FETCH_BLIP_JAIL = Тюрьма
+
+FETCH_BLIP_LABORER = Рабочий
+
+FETCH_BLIP_LAIR = Логово
+
+FETCH_BLIP_LAST_KNOWN = Упомянутое место
+
+FETCH_BLIP_LAWMAN = Законник
+
+FETCH_BLIP_LEADER = Главарь
+
+FETCH_BLIP_LEAVE_AREA = Опасная область
+
+FETCH_BLIP_MOONSHINER = Самогонщик
+
+FETCH_BLIP_MOONSHINE_COOK = Марсель
+
+FETCH_BLIP_MOONSHINE_PROPERTY = Самогонное предприятие
+
+FETCH_BLIP_MOOSE_LEGENDARY = Легендарный лось
+
+FETCH_BLIP_MOUNTAINMAN = Горец
+
+FETCH_BLIP_NAME_WITH_PLAYER = ~1~ (~2p~)
+
+FETCH_BLIP_OUTLAW = Труп
+
+FETCH_BLIP_OX = Вол
+
+FETCH_BLIP_PANTHER = Пантера
+
+FETCH_BLIP_PANTHER_LEGENDARY = Легендарная пантера
+
+FETCH_BLIP_PASSENGER = Пассажир
+
+FETCH_BLIP_PATRON = Посетитель
+
+FETCH_BLIP_PHOTOGRAPHER = Фотограф
+
+FETCH_BLIP_PIG = Свинья
+
+FETCH_BLIP_POACHER = Браконьер
+
+FETCH_BLIP_PRISONER = Заключенный
+
+FETCH_BLIP_PRISON_WAGON = Тюремная повозка
+
+FETCH_BLIP_PRONGHORN = Вилорог
+
+FETCH_BLIP_RAM = Толсторог
+
+FETCH_BLIP_RAM_LEGENDARY = Легендарный толсторог
+
+FETCH_BLIP_RANCHER = Работник ранчо
+
+FETCH_BLIP_RECIPIENT = Получатель
+
+FETCH_BLIP_RESIDENT = Житель
+
+FETCH_BLIP_REVENUE_AGENT = Налоговый агент
+
+FETCH_BLIP_RIVAL_MOONSHINE_CABIN = Хижина конкурентов
+
+FETCH_BLIP_RIVAL_MOONSHINE_CAMP = Лагерь конкурентов
+
+FETCH_BLIP_ROBBER = Ограбить
+
+FETCH_BLIP_SAINT_DENIS_MARKET = Рынок Сен-Дени
+
+FETCH_BLIP_SEARCH = Зона поиска
+
+FETCH_BLIP_SIGHTING_LOCATION = Замеченное животное
+
+FETCH_BLIP_STRANGER = Незнакомый человек
+
+FETCH_BLIP_TARGET = Цель
+
+FETCH_BLIP_TOWNFOLK = Горожанин
+
+FETCH_BLIP_TRADER = Торговец
+
+FETCH_BLIP_TRAIL = След
+
+FETCH_BLIP_TRAIL_HINT = Следы
+
+FETCH_BLIP_TRAIN_CLERK = Железнодорожный клерк
+
+FETCH_BLIP_TRAVELER = Путешественник
+
+FETCH_BLIP_TREASURE_HUNTER = Охотник за сокровищами
+
+FETCH_BLIP_TURN_IN = Место доставки
+
+FETCH_BLIP_VICTIM = Жертва
+
+FETCH_BLIP_VIP = Пленник
+
+FETCH_BLIP_WOLF = Волк
+
+FETCH_BLIP_WOLF_BLACK = Черный волк
+
+FETCH_BLIP_WOLF_LEGENDARY = Легендарный волк
+
+FETCH_BLIP_WORKER = Работник
+
+FETCH_BOUNTY_BOARD = Охота за головами
+
+FETCH_BOUNTY_BOARD_SCORETIMER_ESCORT_TEAM_PRIMARY = ~1~ сопровождает тюремный фургон
+
+FETCH_BOUNTY_BOARD_SCORETIMER_ESCORT_YOU_TEAM_PRIMARY = Вы сопровождаете ~COLOR_MP_OBJECTIVE_FRIENDLY~тюремный фургон~s~
+
+FETCH_BOUNTY_BOARD_SCORETIMER_KILLED = Преступник убит
+
+FETCH_BOUNTY_BOARD_SCORETIMER_OBJ_REACHED_DRIVE_TO = Преступник прибыл
+
+FETCH_BOUNTY_BOARD_SCORETIMER_OBJ_REACHED_DRIVE_TO_PLURAL = Преступники прибыли
+
+FETCH_BOUNTY_BOARD_SCORETIMER_PRIMARY_PASS = Игрок ~1~ доставил цель мертвой
+
+FETCH_BOUNTY_BOARD_SCORETIMER_PRIMARY_PASS_ALIVE = Игрок ~1~ доставил преступника живьем
+
+FETCH_BOUNTY_BOARD_SCORETIMER_PRIMARY_PASS_ALIVE_NP = Преступник доставлен живым
+
+FETCH_BOUNTY_BOARD_SCORETIMER_PRIMARY_PASS_ALIVE_YOU = Вы доставили преступника живым
+
+FETCH_BOUNTY_BOARD_SCORETIMER_PRIMARY_PASS_ALIVE_YOUR = Ваш отряд доставил преступника живым
+
+FETCH_BOUNTY_BOARD_SCORETIMER_PRIMARY_PASS_NP = Цель была доставлена мертвой
+
+FETCH_BOUNTY_BOARD_SCORETIMER_PRIMARY_PASS_YOU = Вы доставили цель мертвой
+
+FETCH_BOUNTY_BOARD_SCORETIMER_PRIMARY_PASS_YOUR = Ваш отряд доставил цель мертвой
+
+FETCH_BOUNTY_CAGED_TARGET_SHARD_NAME = Пойманная цель
+
+FETCH_BOUNTY_DYNAMIC = Разыскиваемая цель
+
+FETCH_BOUNTY_ESCORT_TARGET_SHARD_NAME = Сопроводите цель
+
+FETCH_BOUNTY_HORDE_SHARD_NAME = Орда
+
+FETCH_BOUNTY_INFILTRATION_SHARD_NAME = Проникновение
+
+FETCH_BOUNTY_KNOWN_TARGET_MOVING_SHARD_NAME = Известная цель – в движении
+
+FETCH_BOUNTY_KNOWN_TARGET_SHARD_NAME = Известная цель
+
+FETCH_BROKEN_DOWN_SHARD_NAME = ПОСТАВКА
+
+FETCH_BTY_GOTO_REACHED = Цель находится поблизости. Осмотрите место ~o~~BLIP_AMBIENT_SECRET~~s~, где ее видели в последний раз, чтобы вычислить, где она находится.
+
+FETCH_BTY_GOTO_REACHED_ARMADILLO_TRACK = Осмотрите логово ~COLOR_MP_OBJECTIVE_ENEMY~«мясников»~s~.
+
+FETCH_BTY_GOTO_REACHED_PLURAL = Цели находятся поблизости. Осмотрите место ~o~~BLIP_AMBIENT_SECRET~~s~, где их видели в последний раз, чтобы вычислить, где они находятся.
+
+FETCH_BTY_GOTO_REACHED_RHODES_TRACK = ~COLOR_MP_OBJECTIVE_ENEMY~Тобиас Беллингем~s~ выгружает припасы с поездов, идущих в сторону Сен-Дени. Нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~, чтобы задействовать «Орлиный глаз», и поищите его.
+
+FETCH_BTY_GOTO_REACHED_TRACK_ANNESBURG = Цель покинула эту область. Чтобы получить информацию, подойдите к ~COLOR_MP_OBJECTIVE~связанному пленнику~s~ и освободите его.
+
+FETCH_BTY_GOTO_REACHED_VAN_HORN_TRACK = Осмотрите хижину и выясните, где искать ~COLOR_MP_OBJECTIVE_ENEMY~Оуэна Кольта~s~.
+
+FETCH_BTY_GOTO_REACHED_WALLACE_STATION_TRACK = Нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» и поискать следы в лагере.
+
+FETCH_BTY_GO_TO_LAST_KNOWN_LOCATION = Направляйтесь к ~COLOR_MP_OBJECTIVE~указанному месту~s~.
+
+FETCH_BTY_HELP_ANNESBURG_TRACK_UNTIED = ~COLOR_MP_OBJECTIVE_ENEMY~«Мародер»~s~, которого вы ищете, отправился в Ван-Хорн за припасами.
+
+FETCH_BTY_HELP_DEAD_END = Следов цели здесь нет. Вернитесь к~COLOR_MP_OBJECTIVE~~BLIP_AMBIENT_SECRET~~s~и обследуйте другой след.
+
+FETCH_BTY_HELP_DISMOUNT = Чтобы осмотреть зацепку, нужно спешиться.
+
+FETCH_BTY_HELP_LOOK_AT_CLUE = Сфокусироваться на зацепке
+
+FETCH_BTY_HELP_OBJECTIVE_ESCAPING = ~COLOR_MP_OBJECTIVE_ENEMY~Цель~s~ ~1b~ убегает. Схватите ее, пока она не ушла.
+
+FETCH_BTY_HELP_RIGGS_TRACK_LOOTED = Бандиты, которых вы ищете, орудуют в южной части Блэкуотера. Идите по их следу.
+
+FETCH_BTY_HELP_SEARCH_CLUE_ANNESBURG_CIGAR = ~COLOR_MP_OBJECTIVE_ENEMY~«Мародер»~s~ оставил после себя пустую бутылку и сигару. Идите по следу.
+
+FETCH_BTY_HELP_SEARCH_CLUE_FOUND_TARGET = Цель покинула данную местность. Чтобы найти новые зацепки, идите по оставленному следу.
+
+FETCH_BTY_HELP_SEARCH_CLUE_FOUND_WALLACE_STATION_TRACK = Костер затушили совсем недавно. Идите по следу, чтобы найти ~COLOR_MP_OBJECTIVE_ENEMY~браконьеров~s~.
+
+FETCH_BTY_HELP_SEARCH_CLUE_RHODES_BARREL = Эта бочка недавно вывалилась из повозки. ~COLOR_MP_OBJECTIVE_ENEMY~Тобиас Беллингем~s~ где-то рядом.
+
+FETCH_BTY_HELP_SEARCH_CLUE_RHODES_BOTTLE = Эту полупустую бутылку самогона оставил здесь ~COLOR_MP_OBJECTIVE_ENEMY~Тобиас Беллингем~s~. Идите дальше по следу.
+
+FETCH_BTY_HELP_SEARCH_CLUE_RHODES_DROPPED_BOTTLE = Эту полупустую бутылку кто-то недавно обронил в спешке. Идите дальше по следу ~COLOR_MP_OBJECTIVE_ENEMY~Тобиаса Беллингема~s~.
+
+FETCH_BTY_HELP_SEARCH_CLUE_RHODES_DUMPED_BATCH = Этот самогон здесь бросили уже давно. Вернитесь и поищите другие следы.
+
+FETCH_BTY_HELP_SEARCH_CLUE_RHODES_MASH = Кто-то оставил тут ингредиенты для самогонной браги. Один из этих следов должен привести вас к ~COLOR_MP_OBJECTIVE_ENEMY~Тобиасу Беллингему~s~.
+
+FETCH_BTY_HELP_SEARCH_CLUE_RHODES_STILL = У этого поврежденного дистиллятора недавно кто-то побывал.
+
+FETCH_BTY_HELP_SEARCH_CLUE_RIGGS_BLOOD = Бандиты собрались здесь и двинулись дальше. Идите по их следу и выясните, куда они ушли.
+
+FETCH_BTY_HELP_SEARCH_CLUE_SAINT_DENIS_BLOOD = Недавно ~COLOR_MP_OBJECTIVE_ENEMY~Голт~s~ напал здесь на жертву.
+
+FETCH_BTY_HELP_SEARCH_CLUE_SAINT_DENIS_HAT = Вы нашли признаки недавней борьбы. Идите по следу и узнайте, куда ~COLOR_MP_OBJECTIVE_ENEMY~Голт~s~ понес свою очередную жертву.
+
+FETCH_BTY_HELP_SEARCH_TARGET = Чтобы активировать «Орлиный глаз» и поискать следы цели, нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~.
+
+FETCH_BTY_HELP_SEARCH_TARGET_KM = Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» и поискать следы пребывания цели.
+
+FETCH_BTY_HELP_SEARCH_TARGET_PLURAL = Чтобы активировать «Орлиный глаз» и поискать следы целей, нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~.
+
+FETCH_BTY_HELP_SEARCH_TARGET_PLURAL_KM = Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» и поискать следы пребывания целей.
+
+FETCH_BTY_HELP_TARGET_STOW = Для облегчения перевозки цели ее можно положить на лошадь, если та не перегружена.
+
+FETCH_BTY_HELP_VAN_HORN_TRACK_TARGET_FOUND = Незаметно подкрадитесь и застаньте ~COLOR_MP_OBJECTIVE_ENEMY~Оуэна Кольта~s~ ~1b~ врасплох во время ограбления лагеря.
+
+FETCH_BTY_INSPECT_CLUE = Осмотреть
+
+FETCH_BTY_OBJ_CARRY = Возьмите ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~.
+
+FETCH_BTY_OBJ_CARRY_PLURAL = Возьмите ~COLOR_MP_OBJECTIVE_ENEMY~цели~s~.
+
+FETCH_BTY_OBJ_DEFEND_TARGET = Помогите доставить ~COLOR_MP_OBJECTIVE_FRIENDLY~цель~s~ ~1~.
+
+FETCH_BTY_OBJ_DEFEND_TARGET_PLURAL = Помогите доставить ~COLOR_MP_OBJECTIVE_FRIENDLY~цели~s~ ~1~.
+
+FETCH_BTY_OBJ_DELIVERY_TARGET = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~цель~s~ ~1~.
+
+FETCH_BTY_OBJ_DELIVERY_TARGET_PLURAL = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~цели~s~ ~1~.
+
+FETCH_BTY_OBJ_DROP_TARGET = Сдайте цель.
+
+FETCH_BTY_OBJ_DROP_TARGET_PLURAL = Сдайте цели.
+
+FETCH_BTY_OBJ_FIND = Обыщите ~COLOR_MP_OBJECTIVE~местность~s~, чтобы найти цель.
+
+FETCH_BTY_OBJ_FIND_PLURAL = Обыщите ~COLOR_MP_OBJECTIVE~местность~s~ и найдите цели.
+
+FETCH_BTY_OBJ_FOLLOW_TRAIL = Идите по следам, оставленным целью.
+
+FETCH_BTY_OBJ_GET_ON_MOUNT = Садитесь на лошадь.
+
+FETCH_BTY_OBJ_GOTO = Направляйтесь ~1~.
+
+FETCH_BTY_OBJ_KILL_CAPTURE = Убейте или схватите ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~.
+
+FETCH_BTY_OBJ_KILL_CAPTURE_PLURAL = Убейте или схватите ~COLOR_MP_OBJECTIVE_ENEMY~цели~s~.
+
+FETCH_BTY_OBJ_KILL_ENEMIES = Перебейте ~COLOR_MP_OBJECTIVE_ENEMY~бандитов~s~.
+
+FETCH_BTY_OBJ_STEAL_FROM_POSSE_TARGET = Отбейте ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_BTY_OBJ_STEAL_FROM_POSSE_TARGET_PLURAL = Отбейте ~COLOR_MP_OBJECTIVE_ENEMY~цели~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_BTY_OBJ_STEAL_TARGET = Возьмите ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~.
+
+FETCH_BTY_OBJ_STEAL_TARGET_PLURAL = Возьмите ~COLOR_MP_OBJECTIVE_ENEMY~цели~s~.
+
+FETCH_BTY_OBJ_UNTIE_STRANGER = Развяжите ~COLOR_MP_OBJECTIVE~незнакомца~s~.
+
+FETCH_BTY_PRIMARY_TARGET = Ищите рядом с местом ~o~~BLIP_OBJECTIVE~~s~, где в последний раз видели цель. Чтобы получить полную награду, доставьте цель ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ живой. За мертвых платят меньше.
+
+FETCH_BTY_PRIMARY_TARGET_ANNESBURG_TRACK = Один из ~COLOR_MP_OBJECTIVE_ENEMY~«мародеров»~s~ украл партию взрывчатки, предназначавшейся для взрывных работ в шахтах Аннесберга. Чтобы получить полную награду, доставьте его живым.
+
+FETCH_BTY_PRIMARY_TARGET_ARMADILLO_TRACK = ~COLOR_MP_OBJECTIVE_ENEMY~«Мясники»~s~, как говорят, уводят своих жертв в Твин-Рокс. Чтобы получить полную награду, доставьте преступника живым.
+
+FETCH_BTY_PRIMARY_TARGET_PLURAL = Ищите рядом с местом ~o~~BLIP_OBJECTIVE~~s~, где в последний раз видели цели. Чтобы получить полную награду, доставьте цели ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ живыми. За мертвых платят меньше.
+
+FETCH_BTY_PRIMARY_TARGET_PLURAL_RIGGS_TRACK = Члены ~COLOR_MP_OBJECTIVE_ENEMY~банды Брауна~s~ отправились выбивать деньги из своих жертв в Блэкуотере. Чтобы получить полную награду, доставьте их живыми.
+
+FETCH_BTY_PRIMARY_TARGET_PLURAL_WALLACE_STATION_TRACK = ~COLOR_MP_OBJECTIVE_ENEMY~Браконьеры~s~ Теодора Ксавье, по слухам, охотятся в Западных Гризли. Чтобы получить полную награду, доставьте их живыми.
+
+FETCH_BTY_PRIMARY_TARGET_RHODES_TRACK = ~COLOR_MP_OBJECTIVE_ENEMY~Тобиас Беллингем~s~ хочет обустроить поблизости перегонный цех. Чтобы получить полную награду, доставьте его живым.
+
+FETCH_BTY_PRIMARY_TARGET_SAINT_DENIS_TRACK = Недавно ~COLOR_MP_OBJECTIVE_ENEMY~Голт~s~ стал нападать на людей на востоке Сен-Дени. Найдите и доставьте его живым, чтобы получить полную награду.
+
+FETCH_BTY_PRIMARY_TARGET_VAN_HORN_TRACK = По словам путешественников, в западной части хребта Роанок орудует вор, по описанию похожий на ~COLOR_MP_OBJECTIVE_ENEMY~Оуэна Кольта~s~. Чтобы получить полную награду, доставьте его живым.
+
+FETCH_BTY_RIGGS_TRACK_OBJ_KILL_ENEMIES = Убейте ~COLOR_MP_OBJECTIVE_ENEMY~бандитов~s~.
+
+FETCH_BTY_RIGGS_TRACK_OBJ_LOOT_ENEMIES = Ограбьте бандитов.
+
+FETCH_BTY_SCORETIMER_CLUE_INSPECTED = Игрок ~COLOR_MP_OBJECTIVE_FRIENDLY~~1~~s~ осмотрел зацепку
+
+FETCH_BTY_SCORETIMER_OBJECTIVE_ESCAPED = ~COLOR_MP_OBJECTIVE_ENEMY~Цель~s~ сбежала
+
+FETCH_BTY_SCORETIMER_OBJECTIVE_LOST = ~COLOR_MP_OBJECTIVE_ENEMY~Цель~s~ потеряна.
+
+FETCH_BTY_SCORETIMER_OBJECTIVE_LOST_YOU = Вы потеряли ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~.
+
+FETCH_BTY_SCORETIMER_PRIMARY_JOIN = Игрок ~1~ присоединился к охоте
+
+FETCH_BTY_SCORETIMER_TRIGGER_ACTION = Игрок ~1~ спугнул цель
+
+FETCH_BTY_SCORETIMER_TRIGGER_ACTION_PLURAL = Игрок ~1~ спугнул цели
+
+FETCH_BTY_SHARD_ANNESBURG_HOGTIED_STRANGER_KILLED = Незнакомый человек убит
+
+FETCH_BTY_SHARD_OUTSIDE_CLEANUP_RADIUS = Цель сбежала
+
+FETCH_BTY_SHARD_OUTSIDE_CLEANUP_RADIUS_PLURAL = Цели сбежали
+
+FETCH_CAMPSITE_DEFEND_HELP_DYNAMIC_NEARBY = Незнакомый человек ~1b~ попросил о помощи. Помогите отбить нападение на лагерь.
+
+FETCH_CAMPSITE_DEFEND_SHARD_NAME = Защита лагеря
+
+FETCH_CAMP_RAID = Налет на лагерь
+
+FETCH_CAMP_RAID_SHARD_NAME = Налет на лагерь
+
+FETCH_CAMP_RESUPPLY = Поставка
+
+FETCH_CAMP_RESUPPLY_CHEMICAL_WAGON_SHARD_NAME = ПОСТАВКА
+
+FETCH_CAMP_RESUPPLY_INTRO_SHARD_NAME = ПОСТАВКА ПРИПАСОВ
+
+FETCH_CAMP_RESUPPLY_STATIONARY_SHARD_NAME = ПОСТАВКА
+
+FETCH_CAMP_RESUPPLY_UNLOADING_HELP_HONOR_KILL = Ваша честь понизилась, поскольку вы убили охранника.
+
+FETCH_CAMP_RESUPPLY_UNLOADING_HELP_HONOR_WARNING = С каждым убитым охранником ваша честь будет понижаться.
+
+FETCH_CAMP_RESUPPLY_UNLOADING_HELP_INTRO = Чтобы возобновить работу, украдите припасы и доставьте их в лагерь ~1b~. Это также пополнит запас материалов торговой компании Криппса.
+
+FETCH_CAMP_RESUPPLY_UNLOADING_OBJ_STEAL_SUPPLIES_PLURAL = Заберите ~COLOR_MP_OBJECTIVE_NEUTRAL~припасы~s~.
+
+FETCH_CAMP_RESUPPLY_UNLOADING_ONE_BAG_HELP = Нельзя нести больше одной сумки с припасами.
+
+FETCH_CAMP_RESUPPLY_UNLOADING_SHARD_DESC_PRIMARY = Украдите ~COLOR_MP_OBJECTIVE_NEUTRAL~припасы~s~.
+
+FETCH_CAMP_RESUPPLY_UNLOADING_SHARD_DESC_PRIMARY_PLURAL = Украдите ~COLOR_MP_OBJECTIVE_NEUTRAL~припасы~s~.
+
+FETCH_CAMP_RESUPPLY_UNLOADING_SHARD_PRIMARY_PASS = Сумка с припасами доставлена
+
+FETCH_CAMP_RESUPPLY_UNLOADING_SHARD_PRIMARY_PASS_PARTIAL = Сумок доставлено: ~1~/~2~
+
+FETCH_CAMP_RESUPPLY_UNLOADING_SHARD_PRIMARY_PASS_PLURAL = Сумки с припасами доставлены
+
+FETCH_CAMP_RESUPPLY_UNLOADING_SUPPLIES = Поставка
+
+FETCH_CAMP_RESUPPLY_UNLOADING_SUPPLIES_DELIVER_PRIMARY_PASS = ~1~ доставляет сумку с припасами
+
+FETCH_CAMP_RESUPPLY_UNLOADING_SUPPLIES_SHARD_NAME = Поставка
+
+FETCH_CAMP_SELL = Продажа товаров
+
+FETCH_CAMP_SETUP = Поход за припасами
+
+FETCH_COMPANION_FOLLOW_ME = Следуй за мной
+
+FETCH_CONTESTED_SHARD_NAME = Продажа товаров
+
+FETCH_CONVOY_ESCORT_SHARD_WAGON_NAME = Сопровождение каравана
+
+FETCH_CTX_DEFEND = Защита
+
+FETCH_CTX_DEFEND_TARGET = Защита цели
+
+FETCH_CTX_PICK_UP_PACKAGE = Взять сумку
+
+FETCH_CTX_SABOTAGE_MOONSHINE = Отравить самогон
+
+FETCH_CTX_TURN_IN_CAMP_RESUPPLY_UNLOADING = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~припасы~s~ ~1~.
+
+FETCH_CTX_TURN_IN_PACKAGE = Отдать сумку
+
+FETCH_CTX_TURN_IN_PACKAGE_MAIL = Доставить почту
+
+FETCH_DEFEND_AGAINST_SHARD_NAME = Поставка
+
+FETCH_DELIVERY_SHARD_NAME = Доставка
+
+FETCH_DESTROY_SHARD_NAME = Уничтожение припасов
+
+FETCH_DRIVER_START_WAGON = Начать движение
+
+FETCH_DRIVER_STOP_WAGON = Остановить повозку
+
+FETCH_DYNAMIC_AMBUSH_PROMPT = Согласиться сопровождать
+
+FETCH_DYNAMIC_AMBUSH_SHARD_NAME = Засада
+
+FETCH_DYNAMIC_RESCUE_PED_SCORETIMER_ESCORT_TEAM_PRIMARY = ~1~ сопровождает искомого человека
+
+FETCH_DYNAMIC_RESCUE_PED_SCORETIMER_ESCORT_YOU_TEAM_PRIMARY = Вы сопровождаете ~COLOR_MP_OBJECTIVE_FRIENDLY~незнакомого человека~s~
+
+FETCH_GOTO_ABANDONED_BUILDING = в ~HC_~1p~~заброшенное здание~s~
+
+FETCH_GOTO_ABANDONED_DERRICK = к ~HC_~1p~~заброшенной нефтяной вышке~s~
+
+FETCH_GOTO_ABANDONED_FORT = в ~HC_~1p~~форт~s~
+
+FETCH_GOTO_ABERDEEN = на ~HC_~1p~~свиноферму Абердинов~s~
+
+FETCH_GOTO_ADLERS_RANCH = на ~HC_~1p~~ранчо~s~
+
+FETCH_GOTO_ALCHEMIST_HOUSE = к ~HC_~1p~~месту назначения~s~
+
+FETCH_GOTO_ALLEY = к ~HC_~1p~~переулку~s~
+
+FETCH_GOTO_AMBARINO = в ~HC_~1p~~Амбарино~s~
+
+FETCH_GOTO_ANNESBURG = в ~HC_~1p~~Аннесберг~s~
+
+FETCH_GOTO_ANNESBURG_MINES = к ~HC_~1p~~шахтам Аннесберга~s~
+
+FETCH_GOTO_ANNESBURG_STATION = на ~HC_~1p~~станцию Аннесберг~s~
+
+FETCH_GOTO_ARMADILLO = в ~HC_~1p~~Армадилло~s~
+
+FETCH_GOTO_ARMADILLO_SALOON = в ~HC_~1p~~салун в Армадилло~s~
+
+FETCH_GOTO_ARMADILLO_STATION = на ~HC_~1p~~станцию Армадилло~s~
+
+FETCH_GOTO_AURORA_BASIN = к ~HC_~1p~~озеру Аврора~s~
+
+FETCH_GOTO_BACCHUS_STATION = на ~HC_~1p~~станцию Бахус~s~
+
+FETCH_GOTO_BARDS_CROSSING = к ~HC_~1p~~Бардс-Кроссинг~s~
+
+FETCH_GOTO_BARROW_LAGOON = к ~HC_~1p~~лагуне Барроу~s~
+
+FETCH_GOTO_BAYOU_NWA = в ~HC_~1p~~Байю-Нва~s~
+
+FETCH_GOTO_BB_AURORA_BASIN = к ~HC_~1p~~озеру Аврора~s~
+
+FETCH_GOTO_BB_BENEDICT_POINT = в ~HC_~1p~~Бенедикт-Пойнт~s~
+
+FETCH_GOTO_BB_BLACKWATER = в ~HC_~1p~~лагерь в Блэкуотере~s~
+
+FETCH_GOTO_BB_BRAITHWAITE_ESTATE = в ~HC_~1p~~поместье Брейтуэйтов~s~
+
+FETCH_GOTO_BB_BUTCHER_CREEK = в ~HC_~1p~~Бутчер-Крик~s~
+
+FETCH_GOTO_BB_CARMODY_DELL = в ~HC_~1p~~Кармоди-Делл~s~
+
+FETCH_GOTO_BB_CHOLLA_SPRINGS = в ~HC_~1p~~Чолья-Спрингз~s~
+
+FETCH_GOTO_BB_GRAVEYARD = на ~HC_~1p~~кладбище Сен-Дени~s~
+
+FETCH_GOTO_BB_HEARTLAND_OVERFLOW = к ~HC_~1p~s~Разливу Внутренних земель~~
+
+FETCH_GOTO_BB_LAKE_ISABELLA = к ~HC_~1p~~озеру Исабелла~s~
+
+FETCH_GOTO_BB_MONTOS_REST = на ~HC_~1p~~привал Монто~s~
+
+FETCH_GOTO_BB_OLD_TOMS = в ~HC_~1p~~лагерь в Убежище Старого Тома~s~
+
+FETCH_GOTO_BB_RILEYS_CHARGE = в ~HC_~1p~~Райлиз-Чардж~s~
+
+FETCH_GOTO_BB_RINGNECK_CREEK = в ~HC_~1p~~Рингнек-Крик~s~
+
+FETCH_GOTO_BB_STILLWATER_CREEK = в ~HC_~1p~~Стиллуотер-Крик~s~
+
+FETCH_GOTO_BB_VIKING_TOMB = на ~HC_~1p~~могилу викинга~s~
+
+FETCH_GOTO_BB_WINDOW_ROCK = к ~HC_~1p~~скале Уиндоу~s~
+
+FETCH_GOTO_BEAVER_HOLLOW = в ~HC_~1p~~Бивер-Холлоу~s~
+
+FETCH_GOTO_BEECHERS_HOPE = к ~HC_~1p~~месту назначения~s~
+
+FETCH_GOTO_BENEDICT = до ~HC_~1p~~Бенедикт-Пойнт~s~
+
+FETCH_GOTO_BENEDICT_PASS = к ~HC_~1p~~перевалу Бенедикта~s~
+
+FETCH_GOTO_BERYLS_DREAM = на ~HC_~1p~~шахту~s~
+
+FETCH_GOTO_BIG_VALLEY = в ~HC_~1p~~Большую долину~s~
+
+FETCH_GOTO_BLACKWATER = в ~HC_~1p~~Блэкуотер~s~
+
+FETCH_GOTO_BLACKWATER_DOCK = в ~HC_~1p~~док Блэкуотера~s~
+
+FETCH_GOTO_BLACKWATER_SALOON = в ~HC_~1p~~салун в Блэкуотере~s~
+
+FETCH_GOTO_BLACK_BONE = к ~HC_~1p~~лесу Блэк-Боун~s~
+
+FETCH_GOTO_BLUEWATER_MARSH = в ~HC_~1p~~болото Блюуотер~s~
+
+FETCH_GOTO_BOLGER_GLADE = к ~HC_~1p~~Болджер-Глейд~s~
+
+FETCH_GOTO_BRAITHWAITE = в ~HC_~1p~~поместье~s~
+
+FETCH_GOTO_BRANDYWINE = к ~HC_~1p~~Брендивайнскому водопаду~s~
+
+FETCH_GOTO_BRIDGE = к ~HC_~1p~~мосту~s~
+
+FETCH_GOTO_BRITTLEBUSH = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_BUTCHER_CREEK = в ~HC_~1p~~Бутчер-Крик~s~
+
+FETCH_GOTO_BUTTER_BRIDGE = к ~HC_~1p~~мосту Баттер~s~
+
+FETCH_GOTO_CABIN = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_CALIGA_HALL = к ~HC_~1p~~поместью~s~
+
+FETCH_GOTO_CAMP = в ~HC_~1p~~лагерь~s~
+
+FETCH_GOTO_CANEBREAK = в ~HC_~1p~~поместье Кейнбрейк~s~
+
+FETCH_GOTO_CARMODY_DELL = на ~HC_~1p~~ферму~s~
+
+FETCH_GOTO_CASTORS_POND = на ~HC_~1p~~хребет Кастора~s~
+
+FETCH_GOTO_CATFISH = на ~HC_~1p~~ферму~s~
+
+FETCH_GOTO_CENTRAL_UNION = в ~HC_~1p~~лагерь «Сентрал Юнион»~s~
+
+FETCH_GOTO_CHEZ_PORTER = на ~HC_~1p~~ферму~s~
+
+FETCH_GOTO_CHOLLA_SPRINGS = в ~HC_~1p~~Чолья-Спрингз~s~
+
+FETCH_GOTO_CIVIL_WAR_BRIDE = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_CLAWSONS_REST = в ~HC_~1p~~Клоусон-Рест~s~
+
+FETCH_GOTO_CLEMENS_POINT = на ~HC_~1p~~полуостров Клеменса~s~
+
+FETCH_GOTO_COCHINAY = к ~HC_~1p~~месту назначения~s~
+
+FETCH_GOTO_COLTER = в ~HC_~1p~~Колтер~s~
+
+FETCH_GOTO_COMPSONS_STEAD = на ~HC_~1p~~ферму~s~
+
+FETCH_GOTO_COOTS = к ~HC_~1p~~часовне~s~
+
+FETCH_GOTO_COPPERHEAD = в ~HC_~1p~~Копперхед-Лэндинг~s~
+
+FETCH_GOTO_CORNWALL = на ~HC_~1p~~нефтяные поля~s~
+
+FETCH_GOTO_CORNWALL_FREIGHT = на ~HC_~1p~~сортировочную станцию~s~
+
+FETCH_GOTO_CORNWALL_KEROSENE = на ~HC_~1p~~фабрику Cornwall Kerosene & Tar~s~
+
+FETCH_GOTO_CRAWDAD = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_CROP_FARM = на ~HC_~1p~~ферму~s~
+
+FETCH_GOTO_CUEVA_SECO = в ~HC_~1p~~Куэва-Сека~s~
+
+FETCH_GOTO_CUMBERLAND = в ~HC_~1p~~Камберлендский лес~s~
+
+FETCH_GOTO_CUMBERLAND_LAKE = к ~HC_~1p~~О'Кригс-Ран~s~
+
+FETCH_GOTO_DEADBOOT = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_DEAD_RIVALS = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_DEAD_SETTLER = к ~HC_~1p~~месту назначения~s~
+
+FETCH_GOTO_DESTROYED_CAMP = к ~HC_~1p~~разгромленному лагерю~s~
+
+FETCH_GOTO_DESTROYED_WAGON = к ~HC_~1p~~разгромленной повозке~s~
+
+FETCH_GOTO_DEWBERRY = в ~HC_~1p~~Дьюберри-Крик~s~
+
+FETCH_GOTO_DOVERHILL = в ~HC_~1p~~Довер-Хилл~s~
+
+FETCH_GOTO_DOWNES_RANCH = на ~HC_~1p~~ранчо~s~
+
+FETCH_GOTO_DOWNES_RANCH_FULL = до ~HC_~1p~~ранчо Даунсов~s~
+
+FETCH_GOTO_DOYLES_TAVERN = к ~HC_~1p~~таверне Дойла~s~
+
+FETCH_GOTO_ELYSIAN_POOL = к ~HC_~1p~~Элизианскому пруду~s~
+
+FETCH_GOTO_ELYSIAN_POOL_CAVE = в ~HC_~1p~~пещеру у Элизианского пруда~s~
+
+FETCH_GOTO_EMERALD_GS = к ~HC_~1p~~магазину на ранчо Эмеральд~s~
+
+FETCH_GOTO_EMERALD_RANCH = на ~HC_~1p~~ранчо Эмеральд~s~
+
+FETCH_GOTO_EMERALD_RANCH_FENCE = к ~HC_~1p~~скупщику на ранчо Эмеральд~s~
+
+FETCH_GOTO_EMERALD_STATION = на ~HC_~1p~~станцию Эмеральд~s~
+
+FETCH_GOTO_EMR_STATION = на ~HC_~1p~~станцию Эмеральд~s~
+
+FETCH_GOTO_ERIS_FIELD = в ~HC_~1p~~Эрис-Филд~s~
+
+FETCH_GOTO_EWING_BASIN = в ~HC_~1p~~Юинг-Бейзин~s~
+
+FETCH_GOTO_FIRWOOD_RISE = в ~HC_~1p~~Фервуд-Райз~s~
+
+FETCH_GOTO_FLATNECK_STATION = на ~HC_~1p~~станцию Флэтнек~s~
+
+FETCH_GOTO_FOREMAN_HOUSE = к ~HC_~1p~~дому бригадира~s~
+
+FETCH_GOTO_FORT_BRENNAND = в ~HC_~1p~~Форт-Бреннанд~s~
+
+FETCH_GOTO_FORT_MERCER = в ~HC_~1p~~Форт-Мерсер~s~
+
+FETCH_GOTO_FORT_RIGGS = в ~HC_~1p~~Форт-Риггс~s~
+
+FETCH_GOTO_FORT_WALLACE = в ~HC_~1p~~Форт-Уоллес~s~
+
+FETCH_GOTO_FRONTERA = на ~HC_~1p~~нагорье Фронтера~s~
+
+FETCH_GOTO_FROZEN_EXPLORER = к ~HC_~1p~~лагуне Барроу~s~
+
+FETCH_GOTO_GALLOWS = к ~HC_~1p~~виселице~s~
+
+FETCH_GOTO_GAPTOOTH_BREACH = к ~HC_~1p~~Щербатому разлому~s~
+
+FETCH_GOTO_GAPTOOTH_RIDGE = к ~HC_~1p~~Щербатой гряде~s~
+
+FETCH_GOTO_GILL_LANDING = на ~HC_~1p~~пристань Гилла~s~
+
+FETCH_GOTO_GRANGERS = на ~HC_~1p~~ферму~s~
+
+FETCH_GOTO_GRAVEYARD = к ~HC_~1p~~кладбищу~s~
+
+FETCH_GOTO_GRAY_WOOLEN_MILL = на ~HC_~1p~~суконную фабрику Грея~s~
+
+FETCH_GOTO_GREAT_PLAINS = в ~HC_~1p~~Великие долины~s~
+
+FETCH_GOTO_GREENBANK = к ~HC_~1p~~заброшенной мельнице~s~
+
+FETCH_GOTO_GREEN_HOLLOW = в ~HC_~1p~~зеленую долину~s~
+
+FETCH_GOTO_GRIZZLIES = в ~HC_~1p~~Гризли~s~
+
+FETCH_GOTO_GRIZZ_LAKE = к ~HC_~1p~~озеру Кеан~s~
+
+FETCH_GOTO_GUNFIGHT = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_GUTHRIE_FARM = на ~HC_~1p~~ферму~s~
+
+FETCH_GOTO_HAGEN_ORCHARDS = в ~HC_~1p~~сады~s~
+
+FETCH_GOTO_HAMLIN = в ~HC_~1p~~долину Хэмлина~s~
+
+FETCH_GOTO_HANGING_DOG = на ~HC_~1p~~ранчо~s~
+
+FETCH_GOTO_HANGING_ROCK = в ~HC_~1p~~Хэнгинг-Рок~s~
+
+FETCH_GOTO_HANIS_BETHEL = в ~HC_~1p~~часовню Хани~s~
+
+FETCH_GOTO_HAPPY_FAMILY = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_HEARTLANDS = во ~HC_~1p~~Внутренние земли~s~
+
+FETCH_GOTO_HIDEOUT = к ~HC_~1p~~логову~s~
+
+FETCH_GOTO_HILL_HAVEN = на ~HC_~1p~~ранчо Хилл-Хэвен~s~
+
+FETCH_GOTO_HOMESTEAD = на ~HC_~1p~~ферму~s~
+
+FETCH_GOTO_HORSESHOE = к ~HC_~1p~~месту назначения~s~
+
+FETCH_GOTO_HOTEL_LICORNE = к ~HC_~1p~~отелю «Ла Ликорн»~s~
+
+FETCH_GOTO_HOTSPRINGS = в ~HC_~1p~~Которра-Спрингз~s~
+
+FETCH_GOTO_HUNGRY_BEAR = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_HUNTING_GROUND = к ~HC_~1p~~месту охоты~s~
+
+FETCH_GOTO_IDENTICAL_A = к ~HC_~1p~~коттеджу~s~
+
+FETCH_GOTO_IDENTICAL_B = к ~HC_~1p~~коттеджу~s~
+
+FETCH_GOTO_ISOLATIONIST = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_JACKSON_AUCTION_YARD = к ~HC_~1p~~торговому двору Джексона Уорта~s~
+
+FETCH_GOTO_JORGES_GORGE = к ~HC_~1p~~ущелью Хорхе~s~
+
+FETCH_GOTO_KAMASSA_RIVER = к ~HC_~1p~~реке Камасса~s~
+
+FETCH_GOTO_KEANS_SALOON = к ~HC_~1p~~салуну Кина~s~
+
+FETCH_GOTO_LAGRAS = в ~HC_~1p~~Лаграс~s~
+
+FETCH_GOTO_LAKAY = в ~HC_~1p~~Лаке~s~
+
+FETCH_GOTO_LAKE_DON_JULIO = к ~HC_~1p~~озеру Дон Хулио~s~
+
+FETCH_GOTO_LARNED_SOD = в ~HC_~1p~~Ларнд-Сод~s~
+
+FETCH_GOTO_LAST_KNOWN_LOCATION = к ~HC_~1p~~месту, где замечена цель~s~
+
+FETCH_GOTO_LAW = к ~HC_~1p~~участку шерифа~s~
+
+FETCH_GOTO_LAWMAN = к ~HC_~1p~~законнику~s~
+
+FETCH_GOTO_LAW_ANNESBURG = к ~HC_~1p~~участку шерифа в Аннесберге~s~
+
+FETCH_GOTO_LAW_ARMADILLO = к ~HC_~1p~~участку шерифа в Армадилло~s~
+
+FETCH_GOTO_LAW_BLACKWATER = к ~HC_~1p~~департаменту полиции в Блэкуотере~s~
+
+FETCH_GOTO_LAW_RHODES = к ~HC_~1p~~участку шерифа в Роудсе~s~
+
+FETCH_GOTO_LAW_SAINT_DENIS = к ~HC_~1p~~полицейскому участку в Сен-Дени~s~
+
+FETCH_GOTO_LAW_STRAWBERRY = к ~HC_~1p~~участку шерифа в Строберри~s~
+
+FETCH_GOTO_LAW_TUMBLEWEED = к ~HC_~1p~~участку шерифа в Тамблвиде~s~
+
+FETCH_GOTO_LAW_VALENTINE = к ~HC_~1p~~участку шерифа в Валентайне~s~
+
+FETCH_GOTO_LIMPANY = в ~HC_~1p~~Лимпани~s~
+
+FETCH_GOTO_LOGGING_CAMP = к ~HC_~1p~~лесозаготовительному лагерю~s~
+
+FETCH_GOTO_LONE_MULE_STEAD = на ~HC_~1p~~ферму~s~
+
+FETCH_GOTO_LONNIES = к ~HC_~1p~~хижине Лонни~s~
+
+FETCH_GOTO_LOVE_TRIANGLE = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_LUCKYS_CABIN = к ~HC_~1p~~месту назначения~s~
+
+FETCH_GOTO_MACFARLANE = на ~HC_~1p~~ранчо Макфарлейнов~s~
+
+FETCH_GOTO_MACFARLANE_STATION = на ~HC_~1p~~станцию у ранчо Макфарлейнов~s~
+
+FETCH_GOTO_MACLEANS = к ~HC_~1p~~дому Маклина~s~
+
+FETCH_GOTO_MACOMBS_END = в ~HC_~1p~~Мэкомз-Энд~s~
+
+FETCH_GOTO_MANITO_GLADE = к ~HC_~1p~~Манито-Глейд~s~
+
+FETCH_GOTO_MANZANITA_POST = на ~HC_~1p~~пост Мансанита~s~
+
+FETCH_GOTO_MCF_STATION = на ~HC_~1p~~станцию~s~
+
+FETCH_GOTO_MERCER_STATION = на ~HC_~1p~~станцию Мерсер~s~
+
+FETCH_GOTO_METEOR_CRATER = к ~HC_~1p~~кратеру~s~
+
+FETCH_GOTO_MILLESANI_CLAIM = к ~HC_~1p~~шахте Миллесани~s~
+
+FETCH_GOTO_MISSING_HUSBAND = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_MOONSHINE_BARN = к ~HC_~1p~~амбару~s~
+
+FETCH_GOTO_MOONSHINE_CABIN = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_MOONSHINE_HOMESTEAD = на ~HC_~1p~~ферму~s~
+
+FETCH_GOTO_MOONSHINE_PROPERTY = на ~HC_~1p~~самогонное предприятие~s~
+
+FETCH_GOTO_MOONSHINE_SHACK = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_MOONSTONE_POND = к ~HC_~1p~~Мунстоунскому пруду~s~
+
+FETCH_GOTO_MOUNTAIN_MAN = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_MT_HAGEN = на ~HC_~1p~~гору Хаген~s~
+
+FETCH_GOTO_NED_BELLINGHAMS_HIDEOUT = к ~HC_~1p~~логову Неда Беллингема~s~
+
+FETCH_GOTO_NEKOTI_ROCK = к ~HC_~1p~~Некоти-Рок~s~
+
+FETCH_GOTO_NEW_HANOVER = в ~HC_~1p~~Нью-Ганновер~s~
+
+FETCH_GOTO_OBJ_DESTINATION = к ~HC_~1p~~месту доставки~s~
+
+FETCH_GOTO_ODDFELLOWS_REST = в ~HC_~1p~~Оддфеллоус-Рест~s~
+
+FETCH_GOTO_OLD_BACCHUS = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_OLD_FIREPLACE = к ~HC_~1p~~месту назначения~s~
+
+FETCH_GOTO_OLD_LIGHT_SALOON = в ~HC_~1p~~салун «Старый маяк»~s~
+
+FETCH_GOTO_OSMAN_GROVE = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_OWANJILA_DAM = к ~HC_~1p~~Ованджильской плотине~s~
+
+FETCH_GOTO_PACIFIC_UNION = в ~HC_~1p~~Лагерь «Пасифик Юнион»~s~
+
+FETCH_GOTO_PAINTED_SKY = на ~HC_~1p~~ранчо «Багряный небосвод»~s~
+
+FETCH_GOTO_PIKES = в ~HC_~1p~~Скалистое ущелье~s~
+
+FETCH_GOTO_PLAINVIEW = в ~HC_~1p~~Плэйнвью~s~
+
+FETCH_GOTO_PLEASANCE_HOUSE = к ~HC_~1p~~Плэзанс-Хаус~s~
+
+FETCH_GOTO_PLEASANCE_SETTLE = к ~HC_~1p~~поселению Плэзанс~s~
+
+FETCH_GOTO_POLICE_STATION = к ~HC_~1p~~полицейскому участку~s~
+
+FETCH_GOTO_PRISON_WAGON = к ~HC_~1p~~тюремной повозке~s~
+
+FETCH_GOTO_PRONGHORN = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_QUAKERS_COVE = к ~HC_~1p~~Куэйкерс-Коув~s~
+
+FETCH_GOTO_RATHSKALLER_FORK = к ~HC_~1p~~Ратскеллер-Форк~s~
+
+FETCH_GOTO_RATHSKELLER = к ~HC_~1p~~Ратскеллер-Форк~s~
+
+FETCH_GOTO_REED = к ~HC_~1p~~коттеджу~s~
+
+FETCH_GOTO_RHODES = в ~HC_~1p~~Роудс~s~
+
+FETCH_GOTO_RHODES_FENCE = к ~HC_~1p~~скупщику в Роудсе~s~
+
+FETCH_GOTO_RHODES_GRANARY = в ~HC_~1p~~амбар в Роудсе~s~
+
+FETCH_GOTO_RHODES_GS = к ~HC_~1p~~магазину в Роудсе~s~
+
+FETCH_GOTO_RHODES_LAW_OFFICE = в ~HC_~1p~~участок шерифа в Роудсе~s~
+
+FETCH_GOTO_RHODES_PARLOR = к ~HC_~1p~~салуну в Роудсе~s~
+
+FETCH_GOTO_RHODES_PARLOUR = к ~HC_~1p~~салуну в Роудсе~s~
+
+FETCH_GOTO_RHODES_STATION = на ~HC_~1p~~ж/д станцию Роудса~s~
+
+FETCH_GOTO_RIDGEWOOD_FARM = на ~HC_~1p~~ферму Риджвуд~s~
+
+FETCH_GOTO_RIGGS_STATION = на ~HC_~1p~~станцию Риггс~s~
+
+FETCH_GOTO_RILEYS_CHARGE = в ~HC_~1p~~Райлиз-Чардж~s~
+
+FETCH_GOTO_RIVER_L_MONTANA = к ~HC_~1p~~Нижней Монтане~s~
+
+FETCH_GOTO_RIVER_U_MONTANA = к ~HC_~1p~~Верхней Монтане~s~
+
+FETCH_GOTO_ROANOKE_RIDGE = к ~HC_~1p~~хребту Роанок~s~
+
+FETCH_GOTO_ROANOKE_VALLEY = в ~HC_~1p~~долину Роанок~s~
+
+FETCH_GOTO_ROCKY_SEVEN = на ~HC_~1p~~ферму~s~
+
+FETCH_GOTO_SAINTS_HOTEL = к ~HC_~1p~~отелю «Сэйнтс»~s~
+
+FETCH_GOTO_SAINT_DENIS = в ~HC_~1p~~Сен-Дени~s~
+
+FETCH_GOTO_SAINT_DENIS_BASTILLE = в ~HC_~1p~~салун «Бастилия»~s~
+
+FETCH_GOTO_SAINT_DENIS_DOCKS = в ~HC_~1p~~доки Сен-Дени~s~
+
+FETCH_GOTO_SAINT_DENIS_DOYLES = к ~HC_~1p~~таверне Дойла~s~
+
+FETCH_GOTO_SAINT_DENIS_FENCE = к ~HC_~1p~~скупщику в Сен-Дени~s~
+
+FETCH_GOTO_SAINT_DENIS_MARKET = на ~HC_~1p~~рынок в Сен-Дени~s~
+
+FETCH_GOTO_SAINT_DENIS_PHARMACY = в ~HC_~1p~~аптеку~s~
+
+FETCH_GOTO_SAINT_DENIS_SALOON = в ~HC_~1p~~салун в Сен-Дени~s~
+
+FETCH_GOTO_SCARLETT = в ~HC_~1p~~Скарлетт-Медоуз~s~
+
+FETCH_GOTO_SCARLETT_CABIN = к ~HC_~1p~~хижине Скарлетт~s~
+
+FETCH_GOTO_SCRATCHING_POST = в ~HC_~1p~~Скрэтчинг-Пост~s~
+
+FETCH_GOTO_SEAN_CAMP = в ~HC_~1p~~лагерь Шона~s~
+
+FETCH_GOTO_SEARCH = в ~HC_~1p~~зону поиска~s~
+
+FETCH_GOTO_SERIAL_KILLER = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_SHACK = к ~HC_~1p~~хижине у озера Кеан~s~
+
+FETCH_GOTO_SHACK_ABANDONED = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_SHADY_BELLE = в ~HC_~1p~~Шейди-Бель~s~
+
+FETCH_GOTO_SHEPHERDS_RISE = в ~HC_~1p~~Шефердз-Райз~s~
+
+FETCH_GOTO_SIGHTING = к ~HC_~1p~~месту~s~, где заметили животное
+
+FETCH_GOTO_SILENT_STEAD = в ~HC_~1p~~Сайлент-Стед~s~
+
+FETCH_GOTO_SILTWATER = в ~HC_~1p~~Силтвотер-Странд~s~
+
+FETCH_GOTO_SIX_POINT = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_SLAUGHTERHOUSE = на ~HC_~1p~~скотобойню Prinz & Co~s~
+
+FETCH_GOTO_SLAVE_PEN = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_SMITHFIELDS = к ~HC_~1p~~салуну Смитфилда~s~
+
+FETCH_GOTO_SOLOMONS = в ~HC_~1p~~Соломонз-Фолли~s~
+
+FETCH_GOTO_SPIDER_GORGE = к ~HC_~1p~~Паучьему ущелью~s~
+
+FETCH_GOTO_STABLE = к ~HC_~1p~~конюшне~s~
+
+FETCH_GOTO_STABLES = в ~HC_~1p~~конюшни~s~
+
+FETCH_GOTO_STILLWATER = в ~HC_~1p~~Стиллуотер-Крик~s~
+
+FETCH_GOTO_STONEHENGE = в ~HC_~1p~~лес~s~
+
+FETCH_GOTO_STRAWBERRY = в ~HC_~1p~~Строберри~s~
+
+FETCH_GOTO_SWAMP = к ~HC_~1p~~болоту~s~
+
+FETCH_GOTO_TALL_TREES = в ~HC_~1p~~Толл-Триз~s~
+
+FETCH_GOTO_TANNERS_REACH = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_THEIR_CAMP = в их ~HC_~1p~~лагерь~s~
+
+FETCH_GOTO_THE_FARM = на ~HC_~1p~~ферму~s~
+
+FETCH_GOTO_THE_LOFT = к ~HC_~1p~~Лофту~s~
+
+FETCH_GOTO_THIEVES_LANDING = к ~HC_~1p~~Пристани разбойников~s~
+
+FETCH_GOTO_THIEVES_LANDING_FENCE = к ~HC_~1p~~скупщику на Пристани разбойников~s~
+
+FETCH_GOTO_TRAIN = на ~HC_~1p~~поезд~s~
+
+FETCH_GOTO_TRAPPERS_CABIN = к ~HC_~1p~~хижине охотника~s~
+
+FETCH_GOTO_TREE_HOUSE = к ~HC_~1p~~дому на дереве~s~
+
+FETCH_GOTO_TUMBLEWEED = в ~HC_~1p~~Тамблвид~s~
+
+FETCH_GOTO_TUMBLEWEED_SALOON = в ~HC_~1p~~салун в Тамблвиде~s~
+
+FETCH_GOTO_TWIN_ROCKS = в ~HC_~1p~~Твин Рокс~s~
+
+FETCH_GOTO_TWO_CROWS = к ~HC_~1p~~«Двум воронам»~s~
+
+FETCH_GOTO_UNDERGROUND_RR = к ~HC_~1p~~старой дороге~s~
+
+FETCH_GOTO_VALENTINE = в ~HC_~1p~~Валентайн~s~
+
+FETCH_GOTO_VALENTINE_GS = к ~HC_~1p~~магазину в Валентайне~s~
+
+FETCH_GOTO_VALENTINE_SALOON = в ~HC_~1p~~салун в Валентайне~s~
+
+FETCH_GOTO_VALENTINE_STATION = на ~HC_~1p~~станцию Валентайн~s~
+
+FETCH_GOTO_VAN_HORN = к ~HC_~1p~~торговому посту Ван-Хорн~s~
+
+FETCH_GOTO_VAN_HORN_DEPOT = на ~HC_~1p~~станцию Ван-Хорн~s~
+
+FETCH_GOTO_VAN_HORN_FENCE = к ~HC_~1p~~скупщику в Ван-Хорне~s~
+
+FETCH_GOTO_VAN_HORN_SALOON = в ~HC_~1p~~салун в Ван-Хорне~s~
+
+FETCH_GOTO_VAN_HORN_STABLE = к ~HC_~1p~~конюшне в Ван-Хорне~s~
+
+FETCH_GOTO_VAN_HORN_STATION = на ~HC_~1p~~станцию Ван-Хорн~s~
+
+FETCH_GOTO_VENTERS_PLACE = к ~HC_~1p~~Вентерс-Плэйс~s~
+
+FETCH_GOTO_VETERANS = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_WALLACE_STATION = к ~HC_~1p~~станции Уоллес~s~
+
+FETCH_GOTO_WAPITI = в ~HC_~1p~~резервацию Вапити~s~
+
+FETCH_GOTO_WATSONS_CABIN = к ~HC_~1p~~хижине~s~
+
+FETCH_GOTO_WEST_ELIZ = в ~HC_~1p~~Вест-Элизабет~s~
+
+FETCH_GOTO_WHISKEY_TREE = к ~HC_~1p~~виски-дереву~s~
+
+FETCH_GOTO_WILLARDS_REST = в ~HC_~1p~~Уиллардс-Рест~s~
+
+FETCH_HELP_BOUNTY_DELIVER_ALIVE = Занесите разыскиваемого преступника в тюрьму, чтобы доставить его живым.
+
+FETCH_HELP_BOUNTY_DELIVER_DEAD = Положите труп преступника рядом с тюрьмой, чтобы завершить доставку.
+
+FETCH_HELP_BOUNTY_DELIVER_WAGON = Пригоните тюремный фургон в указанную область, чтобы доставить преступника.
+
+FETCH_HELP_BOUNTY_DELIVER_WAGON_PLURAL = Пригоните тюремный фургон в указанную область, чтобы доставить преступников.
+
+FETCH_HELP_BOUNTY_FREE_UP_SEAT_FOR_TARGET = Схватите цель ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ и тихо покиньте логово, чтобы в одиночку арестовать ее.
+
+FETCH_HELP_BOUNTY_SATELLITE_ALIVE = Сгрузите разыскиваемого преступника в повозку, чтобы доставить его живым.
+
+FETCH_HELP_BOUNTY_SATELLITE_DEAD = Сгрузите труп преступника в повозку, чтобы завершить доставку.
+
+FETCH_HELP_BOUNTY_SATELLITE_WAGON = Подгоните тюремный фургон к повозке, чтобы доставить преступника.
+
+FETCH_HELP_BOUNTY_SATELLITE_WAGON_PLURAL = Подгоните тюремный фургон к повозке, чтобы доставить преступников.
+
+FETCH_HELP_BOUNTY_TARGET_DEAD = Мертвых преступников тоже можно сдать властям, но награда за них будет меньше.
+
+FETCH_HELP_DYNAMIC_MOONSHINE_NEARBY = Подойдите к объекту ~1b~, чтобы заняться самогоноварением и принести пользу вашему самогонному предприятию.
+
+FETCH_HELP_DYNAMIC_MOONSHINE_NEARBY_PLAYER = Подойдите к объекту ~2b~, чтобы заняться самогоноварением вместе с вашим отрядом и принести пользу самогонному предприятию игрока ~1~.
+
+FETCH_HELP_DYNAMIC_NEARBY = Незнакомому человеку ~1b~ нужна помощь. Подойдите ближе и удерживайте ~INPUT_INTERACT_LOCKON~, когда появится предложение поговорить с ним.
+
+FETCH_HELP_DYNAMIC_NEARBY_HOGTIED = Связанный человек ~1b~ попросил о помощи. Подойдите поближе и удерживайте ~INPUT_CONTEXT_B~, когда появится предложение развязать его.
+
+FETCH_HELP_DYNAMIC_REMOTE_PLAYER_STARTED_MISSION = ~1~ помогает человеку, попавшему в беду ~2b~. Доберитесь до этого игрока, чтобы тоже принять участие.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_BOAT = ~COLOR_ENEMY~Противники~s~ пригнали лодку ~1b~ в зону доставки, и с ней больше нельзя взаимодействовать.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_BOAT_PLURAL = ~COLOR_ENEMY~Противники~s~ пригнали лодку ~1b~ в зону доставки, и с ней больше нельзя взаимодействовать.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_BUGGY = ~COLOR_ENEMY~Противники~s~ пригнали бричку ~1b~ в зону доставки, и с ней больше нельзя взаимодействовать.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_CANOE = ~COLOR_ENEMY~Противники~s~ пригнали каноэ ~1b~ в зону доставки, и с ним больше нельзя взаимодействовать.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_CANOE_PLURAL = ~COLOR_ENEMY~Противники~s~ пригнали каноэ ~1b~ в зону доставки, и с ним больше нельзя взаимодействовать.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_CART = ~COLOR_ENEMY~Противники~s~ пригнали телегу ~1b~ в зону доставки, и с ней больше нельзя взаимодействовать.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_COACH = ~COLOR_ENEMY~Противники~s~ пригнали дилижанс ~1b~ в зону доставки, и с ним больше нельзя взаимодействовать.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_CONVOY = ~COLOR_ENEMY~Противники~s~ пригнали повозку из каравана~1b~ в зону доставки, и с ней больше нельзя взаимодействовать.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_HORSE = ~COLOR_ENEMY~Противники~s~ пригнали лошадь ~1b~ в зону доставки, и с ней больше нельзя взаимодействовать.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_HORSE_PLURAL = ~COLOR_ENEMY~Противники~s~ пригнали лошадь ~1b~ в зону доставки, и с ней больше нельзя взаимодействовать.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_PRISONER = ~COLOR_ENEMY~Противники~s~ привели заключенного ~1b~ в зону доставки, и с ним больше нельзя взаимодействовать.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_PRISONER_PLURAL = ~COLOR_ENEMY~Противники~s~ привели заключенного ~1b~ в зону доставки, и с ним больше нельзя взаимодействовать.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_PROOFKILL = ~COLOR_ENEMY~Противники~s~ принесли охотничий трофей ~1b~ в зону доставки, и с ним больше нельзя взаимодействовать.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_SUPPLIES = ~COLOR_ENEMY~Противники~s~ доставили припасы ~1b~ в зону доставки, и с ними больше нельзя взаимодействовать.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_SUPPLIES_PLURAL = ~COLOR_ENEMY~Противники~s~ доставили припасы ~1b~ в зону доставки, и с ними больше нельзя взаимодействовать.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_VIP = ~COLOR_ENEMY~Противники~s~ привели цель ~1b~ в зону доставки, и с ней больше нельзя взаимодействовать.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_VIP_PLURAL = ~COLOR_ENEMY~Противники~s~ привели цель ~1b~ в зону доставки, и с ней больше нельзя взаимодействовать.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_WAGON = ~COLOR_ENEMY~Противники~s~ пригнали повозку ~1b~ в зону доставки, и с ней больше нельзя взаимодействовать.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_WAGON_PLURAL = ~COLOR_ENEMY~Противники~s~ пригнали повозку ~1b~ в зону доставки, и с ней больше нельзя взаимодействовать.
+
+FETCH_HELP_HIT_HOGTIED_PED = Нажмите ~INPUT_INTERACT_HIT_CARRIABLE~, чтобы ударить пойманную цель и не дать сбежать.
+
+FETCH_HELP_HONOR_KILL = Ваша честь понизилась, поскольку вы решили не выполнять дополнительные задачи.
+
+FETCH_HELP_HONOR_KILL_INNOCENT = Убийство мирных жителей и животных понижает вашу честь.
+
+FETCH_HELP_HONOR_KILL_POSSE = Ваша честь понизилась, поскольку вы или ваш отряд решили не выполнять дополнительные задачи.
+
+FETCH_HELP_LA_SAMPLE = Подойдите к легендарному животному ~1b~ и удерживайте ~INPUT_CONTEXT_X~, чтобы взять образец.
+
+FETCH_HELP_LA_SAMPLE_POSSE = Подойдите к легендарному животному ~1b~ и удерживайте ~INPUT_CONTEXT_X~, чтобы взять образец. Все члены отряда получат этот образец.
+
+FETCH_HELP_LA_SEDATE = Усыпите легендарное животное ~1b~, чтобы добыть образец для Гарриет. Как вариант, убейте его и используйте шкуру для своих целей.
+
+FETCH_HELP_LA_SKIN_BEAR = Подойдите к ~COLOR_MP_OBJECTIVE~медведю Золотому Духу~s~ и удерживайте ~INPUT_CONTEXT_Y~, чтобы снять с него шкуру.
+
+FETCH_HELP_LA_SKIN_BEAVER = Подойдите к ~COLOR_MP_OBJECTIVE~бобру Ночному Шороху~s~ и удерживайте ~INPUT_CONTEXT_Y~, чтобы снять с него шкуру.
+
+FETCH_HELP_LA_SKIN_BISON = Подойдите к ~COLOR_MP_OBJECTIVE~бизону Пэйте~s~ и удерживайте ~INPUT_CONTEXT_Y~, чтобы снять с него шкуру.
+
+FETCH_HELP_LA_SKIN_BOAR = Подойдите к ~COLOR_MP_OBJECTIVE~кабану Икахи~s~ и удерживайте ~INPUT_CONTEXT_Y~, чтобы снять с него шкуру.
+
+FETCH_HELP_LA_SKIN_BUCK = Подойдите к ~COLOR_MP_OBJECTIVE~оленю Быстрой Тени~s~ и удерживайте ~INPUT_CONTEXT_Y~, чтобы снять с него шкуру.
+
+FETCH_HELP_LA_SKIN_COUGAR = Подойдите к ~COLOR_MP_OBJECTIVE~пуме Сапе~s~ и удерживайте ~INPUT_CONTEXT_Y~, чтобы снять с нее шкуру.
+
+FETCH_HELP_LA_SKIN_COYOTE = Подойдите к ~COLOR_MP_OBJECTIVE~койоту Млечному Пути~s~ и удерживайте ~INPUT_CONTEXT_Y~, чтобы снять с него шкуру.
+
+FETCH_HELP_LA_SKIN_ELK = Подойдите к ~COLOR_MP_OBJECTIVE~вапити Инаме~s~ и удерживайте ~INPUT_CONTEXT_Y~, чтобы снять с него шкуру.
+
+FETCH_HELP_LA_SKIN_FOX = Подойдите к ~COLOR_MP_OBJECTIVE~лисе Пестрый Крест~s~ и удерживайте ~INPUT_CONTEXT_Y~, чтобы снять с нее шкуру.
+
+FETCH_HELP_LA_SKIN_GATOR = Подойдите к ~COLOR_MP_OBJECTIVE~аллигатору Бурой Крови~s~ и удерживайте ~INPUT_CONTEXT_Y~, чтобы снять с него шкуру.
+
+FETCH_HELP_LA_SKIN_MOOSE = Подойдите к ~COLOR_MP_OBJECTIVE~лосю Табачному Боку~s~ и удерживайте ~INPUT_CONTEXT_Y~, чтобы снять с него шкуру.
+
+FETCH_HELP_LA_SKIN_PANTHER = Подойдите к ~COLOR_MP_OBJECTIVE~пантере Ивакте~s~ и удерживайте ~INPUT_CONTEXT_Y~, чтобы снять с нее шкуру.
+
+FETCH_HELP_LA_SKIN_RAM = Подойдите к ~COLOR_MP_OBJECTIVE~толсторогу Рогу Крови~s~ и удерживайте ~INPUT_CONTEXT_Y~, чтобы снять с него шкуру.
+
+FETCH_HELP_LA_SKIN_WOLF = Подойдите к ~COLOR_MP_OBJECTIVE~волку Лунному Камню~s~ и удерживайте ~INPUT_CONTEXT_Y~, чтобы снять с него шкуру.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_BOAT = Вы пригнали лодку ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_BOAT_PLURAL = Вы пригнали лодку ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_BOUNTY = Вы привезли цель ~1b~ в зону доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_BOUNTY_PLURAL = Вы привезли цель ~1b~ в зону доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_BUGGY = Вы пригнали бричку ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_BUYER = Вы привели покупателя ~1b~ в зону доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_BUYER_PLURAL = Вы привели покупателя ~1b~ в зону доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_CANOE = Вы пригнали каноэ ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_CANOE_PLURAL = Вы пригнали каноэ ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_CART = Вы пригнали телегу ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_COACH = Вы пригнали дилижанс ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_CONVOY = Вы пригнали повозку из каравана~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_HORSE = Вы пригнали лошадь ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_HORSE_PLURAL = Вы пригнали лошадь ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_PRISONER = Вы привели заключенного ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_PRISONER_PLURAL = Вы привели заключенного ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_PROOFKILL = Вы принесли охотничий трофей ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_STRANGER = Вы привели человека ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_STRANGER_PLURAL = Вы привели одного из спасаемых людей ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_SUPPLIES = Вы подвезли припасы ~1b~ в зону доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_SUPPLIES_PLURAL = Вы подвезли часть припасов ~1b~ в зону доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_VIP = Вы доставили цель ~1b~ к месту назначения. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_VIP_PLURAL = Вы привели цель ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_WAGON = Вы пригнали повозку ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_WAGON_PLURAL = Вы пригнали повозку ~1b~ к месту доставки. Враги не могут взаимодействовать с вами, пока вы находитесь в зоне доставки.
+
+FETCH_HELP_MOONSHINE_MINIMUM_MASH_COST = Ваша цена на ингредиенты для самогонной браги уже самая низкая. Она больше не будет снижаться за выполнение бутлегерских заданий ~1b~.
+
+FETCH_HELP_OBJECTIVE_CONTROLS_BOAT = Управляйте лодкой с помощью ~INPUT_VEH_BOAT_TURN_LR~.~n~Чтобы грести быстрее, нажмите ~INPUT_VEH_BOAT_ACCELERATE~.
+
+FETCH_HELP_OBJECTIVE_CONTROLS_CANOE = Управляйте каноэ с помощью ~INPUT_VEH_BOAT_TURN_LR~.~n~Чтобы грести быстрее, нажмите ~INPUT_VEH_BOAT_ACCELERATE~.
+
+FETCH_HELP_OBJECTIVE_KILL_ZONE_BOAT = Если лодка попадет на быстрину, она затонет.
+
+FETCH_HELP_OBJECTIVE_KILL_ZONE_CANOE = Если каноэ попадет на быстрину, оно затонет.
+
+FETCH_HELP_SEARCH_AREA = Нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» для временного обострения ваших чувств.
+
+FETCH_HELP_SEARCH_AREA_KM = Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» для временного обострения ваших чувств.
+
+FETCH_HELP_SWAP_REINS_WAGON = Нажмите ~INPUT_VEH_SHUFFLE~, чтобы взять поводья у кучера и управлять повозкой самостоятельно.
+
+FETCH_HELP_TEAMMATE_GHOSTED_BOAT = Лодка ~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HELP_TEAMMATE_GHOSTED_BOAT_PLURAL = Лодка ~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HELP_TEAMMATE_GHOSTED_BUGGY = Бричка ~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HELP_TEAMMATE_GHOSTED_BUYER = Покупатель ~1b~ теперь находится в зоне доставки, где ему ничто не угрожает.
+
+FETCH_HELP_TEAMMATE_GHOSTED_CANOE = Каноэ ~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HELP_TEAMMATE_GHOSTED_CANOE_PLURAL = Каноэ ~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HELP_TEAMMATE_GHOSTED_CART = Телега ~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HELP_TEAMMATE_GHOSTED_COACH = Дилижанс ~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HELP_TEAMMATE_GHOSTED_CONVOY = Повозка из каравана~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HELP_TEAMMATE_GHOSTED_HORSE = Лошадь ~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HELP_TEAMMATE_GHOSTED_HORSE_PLURAL = Лошадь ~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HELP_TEAMMATE_GHOSTED_PRISONER = Заключенный ~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HELP_TEAMMATE_GHOSTED_PRISONER_PLURAL = Заключенный ~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HELP_TEAMMATE_GHOSTED_PROOFKILL = Охотничий трофей ~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HELP_TEAMMATE_GHOSTED_STRANGER = Спасенный человек ~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HELP_TEAMMATE_GHOSTED_SUPPLIES = Припасы ~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HELP_TEAMMATE_GHOSTED_SUPPLIES_PLURAL = Часть припасов ~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HELP_TEAMMATE_GHOSTED_VIP = Цель ~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HELP_TEAMMATE_GHOSTED_VIP_PLURAL = Цель~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HELP_TEAMMATE_GHOSTED_WAGON = Повозка ~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HELP_TEAMMATE_GHOSTED_WAGON_PLURAL = Повозка ~1b~ теперь в безопасности в зоне доставки.
+
+FETCH_HIDEOUT = Логово
+
+FETCH_HIDEOUT_LOC_BACCHUS_STATION = Станция Бахус
+
+FETCH_HIDEOUT_LOC_BEAVER_HOLLOW = Бивер-Холлоу
+
+FETCH_HIDEOUT_LOC_CHOLLA_SPRINGS = Чолья-Спрингз
+
+FETCH_HIDEOUT_LOC_CLEMENS_COVE = Бухта Клеменса
+
+FETCH_HIDEOUT_LOC_COLTER = Колтер
+
+FETCH_HIDEOUT_LOC_CUERA_SECO = Куэва-Сека
+
+FETCH_HIDEOUT_LOC_CUMBERLAND_FALLS = Камберлендский водопад
+
+FETCH_HIDEOUT_LOC_EWING_BASIN = Гризлиз-Майн
+
+FETCH_HIDEOUT_LOC_FIRWOOD_RISE = Фервуд-Райз
+
+FETCH_HIDEOUT_LOC_FORT_MERCER = Форт-Мерсер
+
+FETCH_HIDEOUT_LOC_FORT_RIGGS = Форт-Риггс
+
+FETCH_HIDEOUT_LOC_GAPTOOTH_BREACH = Щербатый разлом
+
+FETCH_HIDEOUT_LOC_HANGING_DOG_RANCH = Ранчо Хэнгинг-Дог
+
+FETCH_HIDEOUT_LOC_KAMASSA_RIVER = Река Камасса
+
+FETCH_HIDEOUT_LOC_LAKAY = Лаке
+
+FETCH_HIDEOUT_LOC_MANTECA_FALLS = Водопад Мантека
+
+FETCH_HIDEOUT_LOC_MILLISANI_CLAIM = Шахта Миллесани
+
+FETCH_HIDEOUT_LOC_MOSSY_FLATS = Форт-Бреннанд
+
+FETCH_HIDEOUT_LOC_OLD_BACCHUS_PLACE = Старый Бахус
+
+FETCH_HIDEOUT_LOC_PIKES_BASIN = Скалистое ущелье
+
+FETCH_HIDEOUT_LOC_QUAKERS_COVE = Куэйкерс-Коув
+
+FETCH_HIDEOUT_LOC_RATTLESNAKE_HOLLOW = Рэттлснэйк-Холлоу
+
+FETCH_HIDEOUT_LOC_REPENTANCE = Репентенс
+
+FETCH_HIDEOUT_LOC_ROCKY_SEVEN = Уиллардс-Рест
+
+FETCH_HIDEOUT_LOC_SEA_OF_CORONADO = Море Коронадо
+
+FETCH_HIDEOUT_LOC_SHADY_BELLE = Шейди-Бель
+
+FETCH_HIDEOUT_LOC_SILTWATER_STRAND = Силтвотер-Странд
+
+FETCH_HIDEOUT_LOC_SIX_POINT_CABIN = Хижина в Сикс-Пойнт
+
+FETCH_HIDEOUT_LOC_SOLOMONS_FOLLY = Соломонз-Фолли
+
+FETCH_HIDEOUT_LOC_TALL_TREES = Медвежий коготь
+
+FETCH_HIDEOUT_LOC_THE_LOFT = Лофт
+
+FETCH_HIDEOUT_LOC_TWIN_ROCKS = Твин Рокс
+
+FETCH_HIDEOUT_SHARD_NAME = Логово
+
+FETCH_HONOURABLE_DEFEND_SHARD_NAME = Поставка
+
+FETCH_INTERCEPT_SHARD_NAME = Перехват
+
+FETCH_JAILBREAK_SHARD_NAME = Побег из тюрьмы
+
+FETCH_KIDNAPPED_BUYERS_SCORETIMER_ESCORT_TEAM_PRIMARY = Игрок ~1~ сопровождает покупателя.
+
+FETCH_KIDNAPPED_BUYERS_SCORETIMER_ESCORT_YOU_TEAM_PRIMARY = Вы сопровождаете ~COLOR_MP_OBJECTIVE_FRIENDLY~покупателя~s~.
+
+FETCH_MISSION_TESTBED = Тестовая миссия
+
+FETCH_MOONSHINE = Самогонщик
+
+FETCH_MOONSHINE_BAR_DRUNK_PED_SCORETIMER_ESCORT_TEAM_PRIMARY = ~1~ сопровождает искомого человека
+
+FETCH_MOONSHINE_BAR_DRUNK_SCORETIMER_ESCORT_TEAM_PRIMARY_YOU = Вы сопровождаете ~COLOR_MP_OBJECTIVE_FRIENDLY~незнакомого человека~s~
+
+FETCH_MOONSHINE_ROADBLOCK_SCORETIMER_PRIMARY_PASS = Игрок ~1~ устранил блокпост
+
+FETCH_MOONSHINE_ROADBLOCK_SCORETIMER_PRIMARY_PASS_NP = Блокпост устранен
+
+FETCH_MOONSHINE_ROADBLOCK_SCORETIMER_PRIMARY_PASS_YOU = Вы устранили блокпост
+
+FETCH_MOONSHINE_ROADBLOCK_SCORETIMER_PRIMARY_PASS_YOUR = Ваш отряд устранил блокпост
+
+FETCH_MOONSHINE_SELL = Доставка самогона
+
+FETCH_MOONSHINE_SELL_SHARD_NAME = Самогонщик
+
+FETCH_MOVING_TARGET_SHARD_NAME = Поставка
+
+FETCH_NATURALIST_HIDEOUT = Натуралист
+
+FETCH_NATURALIST_HIDEOUT_POACHERS_NAME = Пойманные животные
+
+FETCH_NATURALIST_SIGHTING = Натуралист
+
+FETCH_NAT_SIGHT_BEAR_NAME = Медведь Золотой Дух
+
+FETCH_NAT_SIGHT_BEAVER_NAME = Бобр Ночной Шорох
+
+FETCH_NAT_SIGHT_BISON_NAME = Бизон Пэйта
+
+FETCH_NAT_SIGHT_BOAR_NAME = Кабан Икахи
+
+FETCH_NAT_SIGHT_BUCK_NAME = Олень Быстрая Тень
+
+FETCH_NAT_SIGHT_COUGAR_NAME = Пума Сапа
+
+FETCH_NAT_SIGHT_COYOTE_NAME = Койот Млечный Путь
+
+FETCH_NAT_SIGHT_ELK_NAME = Вапити Инаме
+
+FETCH_NAT_SIGHT_FOX_NAME = Лиса Пестрый Крест
+
+FETCH_NAT_SIGHT_GATOR_NAME = Аллигатор Бурая Кровь
+
+FETCH_NAT_SIGHT_HELP_DISMOUNT = Чтобы осмотреть зацепку, нужно спешиться.
+
+FETCH_NAT_SIGHT_HELP_SEDATIVE_ROUNDS = Достаньте еще снотворных патронов, чтобы усыпить легендарное животное. Удерживайте ~INPUT_MAP~, чтобы увидеть местоположение боеприпасов ~1b~ на карте.
+
+FETCH_NAT_SIGHT_MOOSE_NAME = Лось Табачный Бок
+
+FETCH_NAT_SIGHT_PANTHER_NAME = Пантера Ивакта
+
+FETCH_NAT_SIGHT_RAM_NAME = Толсторог Рог Крови
+
+FETCH_NAT_SIGHT_RETURN_TO_MISSION = Вернитесь в ~COLOR_MP_OBJECTIVE~область~s~.
+
+FETCH_NAT_SIGHT_WOLF_NAME = Волк Лунный Камень
+
+FETCH_NAT_SIGHT_WOLF_WINDOW_ROCK = Скала Уиндоу
+
+FETCH_OBJ_ASSASSINATION_TARGET = Заключенный
+
+FETCH_OBJ_DEFEND_UNLOADING_CAMP_RESUPPLY = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~припасы~s~ ~1~.
+
+FETCH_OBJ_DEFEND_UNLOADING_CAMP_RESUPPLY_PLURAL = Помогите доставить ~COLOR_MP_OBJECTIVE_FRIENDLY~сумку с припасами~s~.
+
+FETCH_OBJ_DISMOUNT_HORSE = Слезьте с лошади.
+
+FETCH_OBJ_DISMOUNT_VEHICLE = Покиньте транспорт.
+
+FETCH_OBJ_DROP_CAMP_RESUPPLY_UNLOADING = Положите на землю ~COLOR_MP_OBJECTIVE_NEUTRAL~сумку с припасами~s~.
+
+FETCH_OBJ_ENTER_DRIVER_SEAT = Сядьте на место кучера.
+
+FETCH_OBJ_ENTER_DRIVER_SEAT_ROWBOAT = Сядьте на место гребца.
+
+FETCH_OBJ_GET_ON_MOUNT = Садитесь на лошадь.
+
+FETCH_OBJ_GET_ON_WAGON = Садитесь на повозку.
+
+FETCH_OBJ_LA_FREE_BEAR = Освободите ~COLOR_MP_OBJECTIVE~медведя Золотого Духа~s~ из клетки.
+
+FETCH_OBJ_LA_FREE_BEAVER = Освободите ~COLOR_MP_OBJECTIVE~бобра Ночного Шороха~s~ из клетки.
+
+FETCH_OBJ_LA_FREE_BISON = Освободите ~COLOR_MP_OBJECTIVE~бизона Пэйту~s~ из клетки.
+
+FETCH_OBJ_LA_FREE_BOAR = Освободите ~COLOR_MP_OBJECTIVE~кабана Икахи~s~ из клетки.
+
+FETCH_OBJ_LA_FREE_BUCK = Освободите ~COLOR_MP_OBJECTIVE~оленя Быструю Тень~s~ из клетки.
+
+FETCH_OBJ_LA_FREE_COUGAR = Освободите ~COLOR_MP_OBJECTIVE~пуму Сапу~s~ из клетки.
+
+FETCH_OBJ_LA_FREE_COYOTE = Освободите ~COLOR_MP_OBJECTIVE~койота Млечный Путь~s~ из клетки.
+
+FETCH_OBJ_LA_FREE_ELK = Освободите ~COLOR_MP_OBJECTIVE~вапити Инаме~s~ из клетки.
+
+FETCH_OBJ_LA_FREE_FOX = Освободите ~COLOR_MP_OBJECTIVE~лису Пестрый Крест~s~ из клетки.
+
+FETCH_OBJ_LA_FREE_GATOR = Освободите ~COLOR_MP_OBJECTIVE~аллигатора Бурую Кровь~s~ из клетки.
+
+FETCH_OBJ_LA_FREE_MOOSE = Освободите ~COLOR_MP_OBJECTIVE~лося Табачного Бока~s~ из клетки.
+
+FETCH_OBJ_LA_FREE_PANTHER = Освободите ~COLOR_MP_OBJECTIVE~пантеру Ивакту~s~ из клетки.
+
+FETCH_OBJ_LA_FREE_RAM = Освободите ~COLOR_MP_OBJECTIVE~толсторога Рога Крови~s~ из клетки.
+
+FETCH_OBJ_LA_FREE_WOLF = Освободите ~COLOR_MP_OBJECTIVE~волка Лунного Камня~s~ из клетки.
+
+FETCH_OBJ_LA_FREE_WOLF_CAGE = Освободите ~COLOR_MP_OBJECTIVE~волка Лунного Камня~s~ из клетки.
+
+FETCH_OBJ_LA_SAMPLE_BEAR = Возьмите образец ~COLOR_MP_OBJECTIVE~медведя Золотого Духа~s~.
+
+FETCH_OBJ_LA_SAMPLE_BEAVER = Возьмите образец ~COLOR_MP_OBJECTIVE~бобра Ночного Шороха~s~.
+
+FETCH_OBJ_LA_SAMPLE_BISON = Возьмите образец ~COLOR_MP_OBJECTIVE~бизона Пэйты~s~.
+
+FETCH_OBJ_LA_SAMPLE_BOAR = Возьмите образец ~COLOR_MP_OBJECTIVE~кабана Икахи~s~.
+
+FETCH_OBJ_LA_SAMPLE_BUCK = Возьмите образец ~COLOR_MP_OBJECTIVE~оленя Быстрой Тени~s~.
+
+FETCH_OBJ_LA_SAMPLE_COUGAR = Возьмите образец ~COLOR_MP_OBJECTIVE~пумы Сапы~s~.
+
+FETCH_OBJ_LA_SAMPLE_COYOTE = Возьмите образец ~COLOR_MP_OBJECTIVE~койота Млечного Пути~s~.
+
+FETCH_OBJ_LA_SAMPLE_ELK = Возьмите образец ~COLOR_MP_OBJECTIVE~вапити Инаме~s~.
+
+FETCH_OBJ_LA_SAMPLE_FOX = Возьмите образец ~COLOR_MP_OBJECTIVE~лисы Пестрого Креста~s~.
+
+FETCH_OBJ_LA_SAMPLE_GATOR = Возьмите образец ~COLOR_MP_OBJECTIVE~аллигатора Бурой Крови~s~.
+
+FETCH_OBJ_LA_SAMPLE_MOOSE = Возьмите образец ~COLOR_MP_OBJECTIVE~лося Табачного Бока~s~.
+
+FETCH_OBJ_LA_SAMPLE_PANTHER = Возьмите образец ~COLOR_MP_OBJECTIVE~пантеры Ивакты~s~.
+
+FETCH_OBJ_LA_SAMPLE_RAM = Возьмите образец ~COLOR_MP_OBJECTIVE~толсторога Рога Крови~s~.
+
+FETCH_OBJ_LA_SAMPLE_WOLF = Возьмите образец ~COLOR_MP_OBJECTIVE~волка Лунного Камня~s~.
+
+FETCH_OBJ_LA_SEDATE_BEAR = Усыпите ~COLOR_MP_OBJECTIVE~медведя Золотого Духа~s~.
+
+FETCH_OBJ_LA_SEDATE_BEAVER = Усыпите ~COLOR_MP_OBJECTIVE~бобра Ночного Шороха~s~.
+
+FETCH_OBJ_LA_SEDATE_BISON = Усыпите ~COLOR_MP_OBJECTIVE~бизона Пэйту~s~.
+
+FETCH_OBJ_LA_SEDATE_BOAR = Усыпите ~COLOR_MP_OBJECTIVE~кабана Икахи~s~.
+
+FETCH_OBJ_LA_SEDATE_BUCK = Усыпите ~COLOR_MP_OBJECTIVE~оленя Быструю Тень~s~.
+
+FETCH_OBJ_LA_SEDATE_COUGAR = Усыпите ~COLOR_MP_OBJECTIVE~пуму Сапу~s~.
+
+FETCH_OBJ_LA_SEDATE_COYOTE = Усыпите ~COLOR_MP_OBJECTIVE~койота Млечный Путь~s~.
+
+FETCH_OBJ_LA_SEDATE_ELK = Усыпите ~COLOR_MP_OBJECTIVE~вапити Инаме~s~.
+
+FETCH_OBJ_LA_SEDATE_FOX = Усыпите ~COLOR_MP_OBJECTIVE~лису Пестрый Крест~s~.
+
+FETCH_OBJ_LA_SEDATE_GATOR = Усыпите ~COLOR_MP_OBJECTIVE~аллигатора Бурую Кровь~s~.
+
+FETCH_OBJ_LA_SEDATE_MOOSE = Усыпите ~COLOR_MP_OBJECTIVE~лося Табачного Бока~s~.
+
+FETCH_OBJ_LA_SEDATE_PANTHER = Усыпите ~COLOR_MP_OBJECTIVE~пантеру Ивакту~s~.
+
+FETCH_OBJ_LA_SEDATE_RAM = Усыпите ~COLOR_MP_OBJECTIVE~толсторога Рога Крови~s~.
+
+FETCH_OBJ_LA_SEDATE_WOLF = Усыпите ~COLOR_MP_OBJECTIVE~волка Лунного Камня~s~.
+
+FETCH_OBJ_LA_SKIN_BEAR = Освежуйте ~COLOR_MP_OBJECTIVE~медведя Золотого Духа~s~.
+
+FETCH_OBJ_LA_SKIN_BEAVER = Освежуйте ~COLOR_MP_OBJECTIVE~бобра Ночного Шороха~s~.
+
+FETCH_OBJ_LA_SKIN_BISON = Освежуйте ~COLOR_MP_OBJECTIVE~бизона Пэйту~s~.
+
+FETCH_OBJ_LA_SKIN_BOAR = Освежуйте ~COLOR_MP_OBJECTIVE~кабана Икахи~s~.
+
+FETCH_OBJ_LA_SKIN_BUCK = Освежуйте ~COLOR_MP_OBJECTIVE~оленя Быструю Тень~s~.
+
+FETCH_OBJ_LA_SKIN_COUGAR = Освежуйте ~COLOR_MP_OBJECTIVE~пуму Сапу~s~.
+
+FETCH_OBJ_LA_SKIN_COYOTE = Освежуйте ~COLOR_MP_OBJECTIVE~койота Млечный Путь~s~.
+
+FETCH_OBJ_LA_SKIN_ELK = Освежуйте ~COLOR_MP_OBJECTIVE~вапити Инаме~s~.
+
+FETCH_OBJ_LA_SKIN_FOX = Освежуйте ~COLOR_MP_OBJECTIVE~лису Пестрый Крест~s~.
+
+FETCH_OBJ_LA_SKIN_GATOR = Освежуйте ~COLOR_MP_OBJECTIVE~аллигатора Бурую Кровь~s~.
+
+FETCH_OBJ_LA_SKIN_MOOSE = Освежуйте ~COLOR_MP_OBJECTIVE~лося Табачного Бока~s~.
+
+FETCH_OBJ_LA_SKIN_PANTHER = Освежуйте ~COLOR_MP_OBJECTIVE~пантеру Ивакту~s~.
+
+FETCH_OBJ_LA_SKIN_RAM = Освежуйте ~COLOR_MP_OBJECTIVE~толсторога Рога Крови~s~.
+
+FETCH_OBJ_LA_SKIN_WOLF = Освежуйте ~COLOR_MP_OBJECTIVE~волка Лунного Камня~s~.
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_BEAR = Дождитесь, пока ~COLOR_POSSE_ALLY~член отряда~s~ возьмет образец ~COLOR_MP_OBJECTIVE~легендарного медведя Золотого Духа~s~.
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_BEAVER = Дождитесь, пока ~COLOR_POSSE_ALLY~член отряда~s~ возьмет образец ~COLOR_MP_OBJECTIVE~легендарного бобра Ночного Шороха~s~.
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_BISON = Дождитесь, пока ~COLOR_POSSE_ALLY~член отряда~s~ возьмет образец ~COLOR_MP_OBJECTIVE~легендарного бизона Пэйты~s~.
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_BOAR = Дождитесь, пока ~COLOR_POSSE_ALLY~член отряда~s~ возьмет образец ~COLOR_MP_OBJECTIVE~легендарного кабана Икахи~s~.
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_BUCK = Дождитесь, пока ~COLOR_POSSE_ALLY~член отряда~s~ возьмет образец ~COLOR_MP_OBJECTIVE~легендарного оленя Быстрой Тени~s~.
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_COUGAR = Дождитесь, пока ~COLOR_POSSE_ALLY~член отряда~s~ возьмет образец ~COLOR_MP_OBJECTIVE~легендарной пумы Сапы~s~.
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_COYOTE = Дождитесь, пока ~COLOR_POSSE_ALLY~член отряда~s~ возьмет образец ~COLOR_MP_OBJECTIVE~легендарного койота Млечного Пути~s~.
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_ELK = Дождитесь, пока ~COLOR_POSSE_ALLY~член отряда~s~ возьмет образец ~COLOR_MP_OBJECTIVE~легендарного вапити Инаме~s~.
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_FOX = Дождитесь, пока ~COLOR_POSSE_ALLY~член отряда~s~ возьмет образец ~COLOR_MP_OBJECTIVE~легендарной лисы Пестрого Креста~s~.
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_GATOR = Дождитесь, пока ~COLOR_POSSE_ALLY~член отряда~s~ возьмет образец ~COLOR_MP_OBJECTIVE~легендарного аллигатора Бурой Крови~s~.
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_MOOSE = Дождитесь, пока ~COLOR_POSSE_ALLY~член отряда~s~ возьмет образец ~COLOR_MP_OBJECTIVE~легендарного лося Табачного Бока~s~.
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_PANTHER = Дождитесь, пока ~COLOR_POSSE_ALLY~член отряда~s~ возьмет образец ~COLOR_MP_OBJECTIVE~легендарной пантеры Ивакты~s~.
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_RAM = Дождитесь, пока ~COLOR_POSSE_ALLY~член отряда~s~ возьмет образец ~COLOR_MP_OBJECTIVE~легендарного толсторога Рога Крови~s~.
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_WOLF = Дождитесь, пока ~COLOR_POSSE_ALLY~член отряда~s~ возьмет образец ~COLOR_MP_OBJECTIVE~легендарного волка Лунного Камня~s~.
+
+FETCH_OBJ_MOONSHINE_STILL = Дистиллятор
+
+FETCH_OBJ_MOONSHINE_VAT = Самогон
+
+FETCH_OBJ_PRISONER = Заключенный
+
+FETCH_OBJ_RETURN_CAMP_RESUPPLY_UNLOADING = Отвезите припасы ~1~.
+
+FETCH_OBJ_STEAL_CAMP_RESUPPLY_UNLOADING = Украдите ~COLOR_MP_OBJECTIVE_NEUTRAL~сумку с припасами~s~.
+
+FETCH_OBJ_STEAL_CAMP_RESUPPLY_UNLOADING_PLURAL = Украдите ~COLOR_MP_OBJECTIVE_NEUTRAL~сумки с припасами~s~ для лагеря.
+
+FETCH_OPEN_CAGE = Открыть клетку
+
+FETCH_OTH_SHARD_NAME = Охота
+
+FETCH_PLAYER_BOUNTY_REQUEST_BODY = Поблизости разыскиваемый игрок. Награда: ~1$~
+
+FETCH_PLAYER_BOUNTY_REQUEST_TITLE = Разыскиваемый игрок
+
+FETCH_PLAYER_BOUNTY_SHARD_END = ~COLOR_ENEMY~Охота завершена~s~
+
+FETCH_PLAYER_BOUNTY_SHARD_NAME = Разыскиваемый
+
+FETCH_PLAYER_BOUNTY_SHARD_POSSE_ABANDONED = Отряд бросил отоху
+
+FETCH_PLAYER_BOUNTY_SHARD_START_FEMALE = ~COLOR_ENEMY~Охота~s~
+
+FETCH_PLAYER_BOUNTY_SHARD_START_MALE = ~COLOR_ENEMY~Охота~s~
+
+FETCH_PLAYER_BOUNTY_SHARD_YOUR_POSSE_ABANDONED = Ваш отряд бросил охоту
+
+FETCH_PLAYER_BOUNTY_SHARD_YOU_ABANDONED = Вы бросили охоту
+
+FETCH_PRISONER_ASSASSINATION_SHARD_NAME = Досрочная казнь
+
+FETCH_PROP_GOODS_BAG = Товары
+
+FETCH_PROP_GOODS_SACK = Мешок с товарами
+
+FETCH_PROP_HERBALIST_GOODS = Товары травника
+
+FETCH_PROP_KEY = Ключи
+
+FETCH_PROP_MAIL = Сумка с почтой
+
+FETCH_PROP_MAILBOX = Почтовый ящик
+
+FETCH_PROP_MONEYBAG = Сумка с деньгами
+
+FETCH_PROP_PACKAGE = Сумка
+
+FETCH_PROP_PAYROLL_BAG = Сумка с деньгами на зарплату
+
+FETCH_PROP_SUPPLIES_SACK = Сумка с припасами
+
+FETCH_PROP_SUPPLY_CRATE = Припасы
+
+FETCH_RECOVER_SHARD_NAME = Возвращение
+
+FETCH_REPO_SHARD_NAME = Конфискация
+
+FETCH_RESCUE_PED_SCORETIMER_ESCORT_TEAM_PRIMARY = ~1~ сопровождает пленника
+
+FETCH_RESCUE_PED_SCORETIMER_ESCORT_TEAM_SECONDARY = ~1~ похищает пленника
+
+FETCH_RESCUE_PED_SCORETIMER_ESCORT_YOU_TEAM_PRIMARY = Вы сопровождаете ~COLOR_MP_OBJECTIVE_FRIENDLY~пленника~s~
+
+FETCH_RESCUE_PED_SHARD_NAME = Спасение
+
+FETCH_RESUPPLY_SHARD_NAME = Припасы
+
+FETCH_RESUPPLY_TRADE_SHARD_NAME = Поставка
+
+FETCH_RIVAL_POSSES = вражеские отряды
+
+FETCH_SELL_GOODS_SHARD_NAME = Продажа товаров
+
+FETCH_SHARD_BOUNTY_BOARD_DESTROYED = Вы потеряли ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~
+
+FETCH_SHARD_BOUNTY_BOARD_DESTROYED_PLURAL = Вы потеряли ~COLOR_MP_OBJECTIVE_NEUTRAL~цели~s~
+
+FETCH_SHARD_BOUNTY_BOARD_INTRO_FEMALE = Схватить живой или мертвой: ~COLOR_ENEMY~~1~~s~
+
+FETCH_SHARD_BOUNTY_BOARD_INTRO_FEMALE_PLURAL = Схватить живыми или мертвыми: ~COLOR_ENEMY~~1~~s~
+
+FETCH_SHARD_BOUNTY_BOARD_INTRO_INITIATE = Схватите ~COLOR_ENEMY~«Посвященных»~s~ живыми или мертвыми
+
+FETCH_SHARD_BOUNTY_BOARD_INTRO_LOS_PASAJEROS = Схватите ~COLOR_ENEMY~бандита «Лос Пасахерос»~s~ живым или мертвым
+
+FETCH_SHARD_BOUNTY_BOARD_INTRO_MALE = Схватить живым или мертвым: ~COLOR_ENEMY~~1~~s~
+
+FETCH_SHARD_BOUNTY_BOARD_INTRO_MALE_PLURAL = Схватить живыми или мертвыми: ~COLOR_ENEMY~~1~~s~
+
+FETCH_SHARD_BOUNTY_BOARD_INTRO_NED_BELLINGHAM = Схватите ~COLOR_ENEMY~Неда Беллингема~s~ живым или мертвым
+
+FETCH_SHARD_BOUNTY_BOARD_INTRO_POACHER = Схватите ~COLOR_ENEMY~браконьера~s~ живым или мертвым
+
+FETCH_SHARD_BOUNTY_BOARD_OVER = Задание завершено
+
+FETCH_SHARD_BOUNTY_BOARD_PASSED = Задание выполнено
+
+FETCH_SHARD_BOUNTY_BOARD_PASSED_ALIVE = Цель доставлена живой
+
+FETCH_SHARD_BOUNTY_BOARD_PASSED_DEAD = Цель доставлена мертвой
+
+FETCH_SHARD_BOUNTY_BOARD_PASSED_PARTIAL = Доставлено живыми: ~1~, мертвыми: ~2~
+
+FETCH_SHARD_BOUNTY_BOARD_PASSED_PARTIAL_AND_LOST = Доставлено живыми: ~1~, мертвыми: ~2~, потеряно: ~3~
+
+FETCH_SHARD_FAIL_ON_AGGRO = Отряд вступил в бой
+
+FETCH_SHARD_HIDEOUT_CLEARED = Логово разгромлено
+
+FETCH_SHARD_MATERIALS_INCREASED = Материалов добавлено: ~1~
+
+FETCH_SHARD_MATERIALS_INCREASED_NO_VALUE = Добавлены материалы
+
+FETCH_SHARD_MOONSHINE_MASH_COST = Приготовить брагу ~1$~
+
+FETCH_SHARD_MOONSHINE_MASH_COST_NO_VALUE = Стоимость изготовления браги снижена
+
+FETCH_SHARD_OVER = Задание закончено
+
+FETCH_SHARD_PASSED = Задание выполнено
+
+FETCH_SHARD_POSSE_ABANDONED = Отряд бросил дело
+
+FETCH_SHARD_PRODUCTION_HALTED = Производство остановлено
+
+FETCH_SHARD_ROADBLOCK_DESTROYED = Вы не устранили блокпост
+
+FETCH_SHARD_ROADBLOCK_DESTROYED_PLURAL = Вы не устранили блокпосты
+
+FETCH_SHARD_TIME_LIMIT = Время истекло
+
+FETCH_SHARD_YOUR_POSSE_ABANDONED = Ваш отряд бросил дело
+
+FETCH_SHARD_YOU_ABANDONED = Вы вышли из дела
+
+FETCH_SHERIFFS_SUPPLIES_SHARD_NAME = Поставка
+
+FETCH_STEAL_BOAT_SHARD_NAME = Кража лодки
+
+FETCH_STEAL_HORSES_SHARD_NAME = Конокрадство
+
+FETCH_STEAL_WAGON_SHARD_NAME = Кража повозки
+
+FETCH_SUPPLY_TRAIN_SHARD_NAME = Поставка
+
+FETCH_TESTBED = Тестовая площадка
+
+FETCH_TRAIN = Поезд
+
+FETCH_UNLOADING_SUPPLIES_DESTROYED = Припасы уничтожены
+
+FETCH_UNLOADING_SUPPLIES_DESTROYED_PLURAL = Припасы уничтожены
+
+FETCH_UNLOADING_SUPPLIES_GO_TO_0 = Направляйтесь ~1~.
+
+FETCH_UNLOCK = Открыть
+
+FETCH_UNTIE_BUYER_FOOTER = Покупатель
+
+FETCH_VEH_BOAT_GUARD = Сторожевая лодка
+
+FETCH_VEH_BUGGY = Бричка
+
+FETCH_VEH_CANOE = Каноэ
+
+FETCH_VEH_CART = Телега
+
+FETCH_VEH_CART_SUPPLY = Телега с припасами
+
+FETCH_VEH_COACH = Дилижанс
+
+FETCH_VEH_CONVOY_WAGON = Повозка каравана
+
+FETCH_VEH_EQUIPMENT = Оборудование
+
+FETCH_VEH_REPO = Повозка
+
+FETCH_VEH_ROWBOAT = Лодка
+
+FETCH_VEH_STAGECOACH = Дилижанс
+
+FETCH_VEH_SUPPLIES = Припасы
+
+FETCH_VEH_WAGON = Повозка
+
+FETCH_VEH_WAGON_DELIVERY = Грузовая повозка
+
+FETCH_VEH_WAGON_OIL = Цистерна
+
+FETCH_VEH_WAGON_POLICE = Полицейская повозка
+
+FETCH_VEH_WAGON_PRISONER = Тюремная повозка
+
+FETCH_VEH_WAGON_SUPPLY = Повозка с припасами
+
+FETCH_WAGON_BREAK_SHARD_NAME = Досрочное освобождение
+
+FETCH_WAGON_THIEVES_SHARD_NAME = Похищенная повозка
+
+MOONSHINE_MARKETING_BAR_BRAWL_SHARD_NAME = Драка в баре
+

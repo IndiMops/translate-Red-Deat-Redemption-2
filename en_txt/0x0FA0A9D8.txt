@@ -1,0 +1,320 @@
+0x001F6B1F = ~z~~sl:0.0:3.2~There's a letter there all about the hell that stone's caused,~sl:0.0:2.3~and how it brings out a man's true feelings,~sl:0.5~and where they're hiding it.
+
+0x00ABB95D = ~z~And I don't like to explain myself, so now what?
+
+0x023599E9 = ~z~~sl:0.0:1.5~I... I don't...~sl:1.0~I don't have good enough insight to give you a worthy perspective.
+
+0x03623CB8 = ~z~So you told that man what for, huh.
+
+0x0683A285 = ~z~~sl:0.0:3.4~That business with him needing to hold on to his office keys...~sl:~was a little odd.
+
+0x0689C25C = ~z~Get this thing off!
+
+0x07F948F3 = ~z~You wicked devil.
+
+0x080EAAE2 = ~z~~sl:0.0:1.2~Damned.~sl:0.6~We're all damned.
+
+0x0A224A38 = ~z~I remember, I said them doors are old and won't hold against a booting.
+
+0x0B385237 = ~z~He shouldn't have been talking to you and neither should I.
+
+0x0CD90019 = ~z~~sl:0.0:3.0~That make you proud and humble at the same time.~sl:1.0:~Come down to it though, and you gotta be one or the other.
+
+0x0DC8D189 = ~z~~sl:0.0:1.5~But man, I'm jumpy...~sl:0.0:2.5~Hey... Hey...~sl:0.5:2.5~you believe in a higher power? I mean,~sl:1.0~could you pray for us?
+
+0x0EA6B948 = ~z~~sl:0.0:2.0~Yes... I am, sir...~sl:~and sir, let me reassure you, nothing will happen...
+
+0x1AD53A27 = ~z~Oh... okay.
+
+0x1B4D6F8F = ~z~Sure curious on seeing what you do.
+
+0x1BD2B8EB = ~z~Listen, this isn't our fight! We need guards in the mine now!
+
+0x1BDA1372 = ~z~~sl:0.0:1.0~Young man...~sl:~I am certain of it.
+
+0x1C6CEED1 = ~z~~sl:0.0:1.8~I wish I could say yes,~sl:0.8~but I can't.
+
+0x1D371620 = ~z~You are, then they'll find somebody else.
+
+0x1DE0F788 = ~z~~sl:0.0:3.5~Says the stone brings out a man's true feelings...~sl:~and where they're hiding it.
+
+0x2A5A70AF = ~z~~sl:0.0:2.5~I... I feel so pitiful and ashamed.~sl:0.0:2.0~I abused your trust...~sl:~an-an-an-and... truly, I am sorry for my lack of discretion.
+
+0x2AC79FBC = ~z~No, don't!
+
+0x2B7DB2AD = ~z~~sl:0.0:4.5~Because my men and their families depend on me and two men have died already.~sl:~What if I'm next?
+
+0x2DC09174 = ~z~~sl:0.0:2.4~Thing is, I wouldn't let him have my key.~sl:0.5~Made sure I kept it on me, too.
+
+0x4BA0320C = ~z~There's really nothing I can do...
+
+0x4E7C65EE = ~z~~sl:0.0:4.0~I was too scared to let 'em know about the weak lock on the doors.~sl:0.5~A good boot and they'll bust right open.
+
+0x4EA632C9 = ~z~Understood.
+
+0x5A9A6D39 = ~z~With experience, you learn killing is much more than just something you have a duty to.
+
+0x5BD301B6 = ~z~God, help!
+
+0x5CC24F01 = ~z~~sl:0.0:2.5~Thought it irregular for a man like him~sl:0.0:3.5~to submit so easily to outside authority, too.~sl:0.5~Again, what do I know.
+
+0x5D9B19C8 = ~z~~sl:0.0:1.8~Get to the foreman's office you fools!~sl:~The stone stays in Annesburg! It stays with me!
+
+0x6A5E4216 = ~z~You're not supposed to be here!
+
+0x6B461B7B = ~z~I'll carve you limb to limb!
+
+0x7E4C5855 = ~z~~sl:0.0:0.5~'Cause...~sl:0.7~we all die...
+
+0x8A1B591D = ~z~I'll make you wish you'd never been born!
+
+0x8B3EC191 = ~z~We're dead... we're all dead.
+
+0x8B14A3AF = ~z~~sl:0.0:1.5~Check barrels... stay alert...~sl:0.0:1.3~kill or capture.~sl:~Check barrels... stay alert... kill or capture.
+
+0x8BE00577 = ~z~The stone is yours, nobody has to die.
+
+0x8D6C813E = ~z~~sl:0.0:1.0~You know...~sl:0.0:4.0~I was thinking just now on how they gave me this thing,~sl:~and I ain't ever shot a man before.
+
+0x9CAD26B3 = ~z~You don't belong here!
+
+0x9CC90E1F = ~z~~sl:0.0:1.4~Get to the sheriff's office.~sl:~Shoot the face off anyone you see!
+
+0x9CEF54A9 = ~z~~sl:0.0:1.4~I done traveled enough to know,~sl:0.0:2.0~don't matter what nobody does,~sl:~things don't change.
+
+0x9D0E1E62 = ~z~And go see about the faulty lock on the doors after we're done here.
+
+0x9EAE574E = ~z~~sl:0.0:1.0~Right.~sl:0.0:4.5~I myself fail in even the most minor of tasks...~sl:~it's unusual for me. In fact, it's the first time...
+
+0x15A938DE = ~z~~sl:0.0:2.4~Check barrels... stay alert... kill or capture.~sl:~Check barrels... stay alert... kill or capture.
+
+0x18C96786 = ~z~Make no difference if he don't really see or hear you.
+
+0x23FCDD77 = ~z~Yes, sir?
+
+0x24CE1292 = ~z~As long as he keeps the hell away from me, I don't care.
+
+0x31A03EFE = ~z~~sl:0.0:1.0~Oh, what,~sl:0.6~so you think I might die too?
+
+0x31DFD376 = ~z~Get to the mine! Shoot the face off anyone you see!
+
+0x33EF7D5C = ~z~Your opinion on the foreman.
+
+0x40E39744 = ~z~~sl:0.0:1.6~I want you to keep watch of him,~sl:~and have the others do the same.
+
+0x54F80E47 = ~z~~sl:0.0:2.2~I don't remember who had them last...~sl:~was it you? O-o-or... I?
+
+0x62BB46CB = ~z~Where're all the guards? The stone's hidden in the mine, hurry!
+
+0x63AA6147 = ~z~My patience for ineptitude has long run dry.
+
+0x73DD0BAD = ~z~~sl:0.0:1.6~Listen, this isn't our fight!~sl:~We need guards at the sheriff's office, now!
+
+0x76A23639 = ~z~~sl:0.0:1.8~That senator liaison...~sl:~I don't think any good is in that man.
+
+0x81F32EF2 = ~z~This is a living nightmare...
+
+0x81F6627E = ~z~~sl:0.0:2.4~Get to the foreman's office and protect the stone.~sl:~Shoot and kill! Shoot and kill!
+
+0x82C4E5C5 = ~z~~sl:0.0:2.5~Oh... you don't sound too sure.~sl:0.0:3.5~I get back to work, give you some time to think on what I've said.
+
+0x83B3EDCD = ~z~~sl:0.0:1.4~I'm a foreman, not a...~sl:1.0~killer.
+
+0x84D3D29C = ~z~~sl:0.0:1.2~Ain't much in most men.~sl:0.5~What make you think he different?
+
+0x94E429B0 = ~z~Sooner I leave this mud pit the better.
+
+0x99E3A186 = ~z~Spare the miners.
+
+0x199B4F31 = ~z~~sl:0.0:1.5~I hope you'll understand,~sl:~I've never felt anything like this before, sir. I...
+
+0x241E37F3 = ~z~Get to the mine! Get to the mine!
+
+0x249A63F9 = ~z~~sl:0.0:3.5~It's the stone. All of this because of that stone.~sl:0.5~As long as it's here our lives are at risk...
+
+0x372A0847 = ~z~~sl:0.0:3.4~Senator Ricard appointed me personally as his liaison~sl:~and commander in safeguarding the stone.
+
+0x437E22F6 = ~z~~sl:0.0:1.6~You just keep.~sl:0.0:1.6~Your mouth.~sl:~Shut.
+
+0x631B24C8 = ~z~Get to the foreman's office. Shoot the face off anyone you see.
+
+0x641E0F3A = ~z~Call guards to my office! Call guards to my office, now!
+
+0x663B2B20 = ~z~Get to the foreman's office! The foreman's office!
+
+0x901C3A2A = ~z~Well, this lapse you're suffering, I've no use for it.
+
+0x976D1C33 = ~z~Robber!
+
+0x984D7581 = ~z~I'm going to bash your skull!
+
+0x1260BEB5 = ~z~~sl:0.0:2.4~Stare down the barrel of a gun and hesitate,~sl:~I'll shoot straight through you and anyone else.
+
+0x2213C56D = ~z~Call guards to the mine! Call guards to the mine, hurry!
+
+0x2340FE87 = ~z~If money is the root of all evil, then that is what we're protecting here.
+
+0x4302EC70 = ~z~~sl:0.0:1.8~A man lives by what's in his heart,~sl:~no matter what he suppose...
+
+0x4806FFC4 = ~z~~sl:0.0:1.7~Get to the mine you fools!~sl:~The stone stays in Annesburg! It stays with me!
+
+0x5559FFCC = ~z~Shit. Blast came from the mine!
+
+0x6350AAF8 = ~z~~sl:0.0:3.5~Sir, I know... I know your mind's preoccupied right now, but...~sl:0.0:3.4~I-I-I can't help thinking about those keys...~sl:~to the sheriff's office.
+
+0x7183E783 = ~z~You wait.
+
+0x8331D093 = ~z~What's this?
+
+0x12985D36 = ~z~I... I don't follow, sir.
+
+0x47370E53 = ~z~It's as if the world's lazy and stupid gathered in this town and reproduced.
+
+0x57579E61 = ~z~~sl:0.0:3.0~Caught you! Get to the mine and protect the stone!~sl:~Shoot and kill! Shoot and kill!
+
+0x59097C3F = ~z~No!
+
+0x69591BA7 = ~z~~sl:0.0:2.0~Give him all the reason to punish me.~sl:0.0:2.5~I strongly insisted he have them...~sl:0.5~only...
+
+0x72564B12 = ~z~But come down to it?
+
+0x85165EBA = ~z~~sl:0.0:1.5~The stone's in the sheriff's office!~sl:~The stone's in the sheriff's office! Get to it!
+
+0x174758B3 = ~z~Hey, get away from here!
+
+0x331541DC = ~z~Come on. Why are you so afraid?
+
+0x517858E3 = ~z~~sl:0.0:3.0~Yeah, thing is... I's so nervous...~sl:~I told 'em about the locks. Loose enough to bust open, and I told 'em that.
+
+0x561507E7 = ~z~Why... why would you say that?
+
+0x577652E0 = ~z~We need guards at the sheriff's office, hurry!
+
+0x598432ED = ~z~~sl:0.0:3.0~Further lockdown restrictions are required.~sl:~These people and their freedoms are not a priority.
+
+0x600075F3 = ~z~~sl:0.0:2.5~You know that senator liaison,~sl:0.5:2.2~he wanted to use my office.~sl:~No telling what for.
+
+0x637762E8 = ~z~~sl:0.0:2.0~You don't need to reassure me.~sl:~You just have to keep your mouth shut.
+
+0x672734B4 = ~z~~sl:0.0:2.2~I suppose I do what I need to,~sl:~and defend my own.
+
+0x797437D7 = ~z~~sl:0.8~You'll rot in the mud!
+
+0x865553A8 = ~z~We need more men in my office, call more men here now!
+
+0x1730837A = ~z~Blasts from the dynamite!
+
+0x3529864D = ~z~Th-th-the... the stone's safeguarding is our top...
+
+0x7046351A = ~z~~sl:0.0:2.5~The stone's in the sheriff's office! Protect it!~sl:~Shoot and kill! Kill!
+
+0x9681580E = ~z~I must stand up for them, I must.
+
+0x40064902 = ~z~Only what?
+
+0x96997627 = ~z~You gave that man power over your tongue so he took it.
+
+0xA6A6CD35 = ~z~Ugh, the smells around here are unbearable.
+
+0xA7AB0B1E = ~z~~sl:0.0:1.0~Don't believe me?~sl:0.5:2.0~Just peek in the sheriff's house.~sl:~One of your comrades told me about a little letter in there.
+
+0xA8FDFD0F = ~z~Just make it through the day... Just make it through the day.
+
+0xA9C20C7A = ~z~Oh, there's fire in your eyes.
+
+0xA52B7562 = ~z~We can't work this way. It's unreasonable.
+
+0xA222E838 = ~z~~sl:0.0:2.3~Call the guards into the sheriff's office!~sl:~Hey, call the guards to the sheriff's office, hurry!
+
+0xA9706CD2 = ~z~~sl:0.0:1.6~I have a reputation.~sl:0.8~I will not dishonor it.
+
+0xA6832193 = ~z~~sl:0.0:3.7~The stone's in the sheriff's office, you fools! It stays in Annesburg!~sl:~It stays with me!
+
+0xAAD3B9ED = ~z~~sl:0.0:0.6~Me?~sl:0.5~O-okay, sir...
+
+0xAF3C7943 = ~z~Besides, what ain't remembered never really happened anyway.
+
+0xB067FD7B = ~z~Stay.
+
+0xB2A901FD = ~z~~sl:0.0:2.0~Right. Uh, I'll be...~sl:0.6~here.
+
+0xB2F39B31 = ~z~Get it off!
+
+0xB6C74DC9 = ~z~~sl:2.0~I guess I'll get back to work then.
+
+0xB7E7A8C5 = ~z~My God, this a shocker alright.
+
+0xB8BAA6BF = ~z~Release me!
+
+0xB23D0E9C = ~z~Hey, you shouldn't be here!
+
+0xB599E114 = ~z~Don't follow me.
+
+0xB837D4B5 = ~z~Idiot.
+
+0xB868ACA1 = ~z~~sl:0.0:3.0~Someone's put you up to testing me, but I won't allow it.~sl:~You won't hold my attention.
+
+0xB9578CA0 = ~z~You don't have the nerve to even imagine.
+
+0xB41855EF = ~z~We don't deserve this.
+
+0xB5802307 = ~z~~sl:0.0:1.5~Pardon me, sir.~sl:0.0:4.0~Though, it'd be useful to know what it is exactly you mean.~sl:~To improve in any way I can...
+
+0xB6492495 = ~z~~sl:0.0:2.2~We'll kill anyone attempting to take it,~sl:~and take pleasure in doing so.
+
+0xBD516861 = ~z~I'm sorry! Just take that stone and leave!
+
+0xC5F87036 = ~z~~sl:0.0:1.0~Oh!~sl:0.0:1.5~Of course. Of course!~sl:0.5~You have the keys. Right.
+
+0xC21F7197 = ~z~Huh, who are you?
+
+0xC247746E = ~z~~sl:0.0:1.5~You talk like we're familiar,~sl:0.0:2.2~I don't even know your name.~sl:0.0:2.0~You wanna disturb my mind?~sl:0.0:1.0~Well...~sl:~you can't.
+
+0xC726283D = ~z~I know the burden you bear, sir.
+
+0xC4049592 = ~z~~sl:0.0:2.5~Well, let's face it, you're here to kill.~sl:~Only reason why you're carrying that thing around.
+
+0xCA073E34 = ~z~Hey, you don't belong here!
+
+0xCA8B4A60 = ~z~Let me go!
+
+0xCD2C00C4 = ~z~Then I guess my fate's already decided.
+
+0xCEE83313 = ~z~Report to me.
+
+0xCF9E4A47 = ~z~Dammit, don't we suffer enough...
+
+0xD5E545BB = ~z~~sl:0.0:2.5~I see this miserable town for what it is.~sl:0.4~How pathetic these people are.
+
+0xD9FD7CF2 = ~z~~sl:0.0:3.0~He's got a look in his eye and a strange way of talking.~sl:0.5~Wanted me to hold the keys to the sheriff's office, as if he knew I'd screw up.
+
+0xDCC863B6 = ~z~Hey, you need to leave here now!
+
+0xDFE8B5B5 = ~z~~sl:0.0:0.8~Yes, sir.~sl:~I-I-I'll... just be right here.
+
+0xE2EFD368 = ~z~~sl:0.0:2.5~The senator liaison knows it,~sl:0.0:3.0~the foreman knows it, you and I knows it...~sl:~we're all in for a bloodbath.
+
+0xE6B33D45 = ~z~~sl:0.0:1.0~Don't believe me?~sl:0.5:2.0~Just peek in the workshop.~sl:~Foreman's got a letter in there that turned him pale as ice.
+
+0xEDE946B3 = ~z~~sl:0.0:1.0~Don't believe me?~sl:0.6~Just take a little nosey in that mine.
+
+0xF1C47111 = ~z~Shut up! I-I can't focus.
+
+0xF2EC809E = ~z~~sl:0.0:1.0~Now, you could say that.~sl:0.5:3.5~Though truth is, stone only exists to those aware of it.~sl:0.5~People what give it purpose and power.
+
+0xF8C4DC66 = ~z~~sl:0.0:3.0~You want me to abandon my post for your silly game.~sl:~You want to make a fool of me. I won't let you, you understand?
+
+0xF8F361C5 = ~z~~sl:0.0:2.8~Bet it's about all the hell that stone's caused...~sl:~and where they're hiding it.
+
+0xF93CF3C0 = ~z~We need guards at the mine, hurry!
+
+0xF16706C7 = ~z~~sl:0.0:1.4~Where're all the guards?~sl:~The stone's in the sheriff's office, hurry!
+
+0xFB073D02 = ~z~Where're all the guards? The stone's in my office, hurry!
+
+0xFC75E3C8 = ~z~~sl:0.0:2.0~Had me a gun like you,~sl:~it'd be easy enough take that jewel my damn self.
+
+0xFCD495A4 = ~z~You're a fool, aren't you.
+
+0xFD5841A4 = ~z~Listen, this isn't our fight! We need guards at my office, now!
+

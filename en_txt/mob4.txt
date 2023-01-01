@@ -1,0 +1,120 @@
+0x02717787 = Brace
+
+0x5C5FC8A0 = You can press ~INPUT_OPEN_WHEEL_MENU~ to stash your lantern.
+
+0x6B1428AA = Jules was eaten.
+
+0x72AB7F61 = Return to ~o~Dutch~s~
+
+0x9560FAC7 = Hold
+
+0x56261D3B = The Lantern is located in the melee section of the Weapon Wheel.
+
+0xA3DBCC3F = Jules
+
+0xAE42DE92 = Thomas
+
+0xB9D738C9 = Tighten
+
+0xCC92D454 = Alligator
+
+MOB4_ABANDONED = Dutch was abandoned.
+
+MOB4_AHORSE = Your horse has died.
+
+MOB4_ATTACK_AHORSE = You attacked your horse.
+
+MOB4_ATTACK_DHORSE = You attacked Dutch's horse.
+
+MOB4_ATTACK_DUTCH = You attacked Dutch.
+
+MOB4_ATTACK_JULES = You attacked Jules.
+
+MOB4_ATTACK_THOMAS = You attacked Thomas.
+
+MOB4_BLEED_JULES = Jules has bled out.
+
+MOB4_DEAD_SKIFF = The Skiff has been damaged.
+
+MOB4_DHORSE = Dutch's horse has died.
+
+MOB4_DROWN_JULES = Jules has drowned.
+
+MOB4_HELP_PRESSURE = Hold ~INPUT_CONTEXT_LT|PromptId=INPUT_MOB4_UC_PRESSURE_L,Gutter~ and ~INPUT_CONTEXT_RT|PromptId=INPUT_MOB4_UC_PRESSURE_R,Gutter~ to apply pressure
+
+MOB4_HELP_WRAP = Use ~INPUT_LOOK_LR|PromptId=INPUT_MOB4_UC_WRAP,PromptStyle=3~ to apply the bandage
+
+MOB4_HELP_WRAP_PC = Use ~INPUT_CONTEXT_Y|PromptId=INPUT_MOB4_UC_WRAP_PC,Gutter~ to apply the bandage
+
+MOB4_JULES = Jules
+
+MOB4_OBJ01A = Follow ~o~Dutch~s~
+
+MOB4_OBJ01B = Mount your ~o~Horse~s~
+
+MOB4_OBJ02A = Follow ~o~Dutch~s~ to Lagras
+
+MOB4_OBJ02B = Speak with ~o~Thomas~s~
+
+MOB4_OBJ03A = Follow ~o~Thomas~s~
+
+MOB4_OBJ03B = Search the ~o~Trap~s~
+
+MOB4_OBJ03C = Investigate the ~o~Trap~s~
+
+MOB4_OBJ04A = Wait for the Alligators to pass
+
+MOB4_OBJ04B = Find ~o~Jules~s~
+
+MOB4_OBJ04C = Beckon ~o~Jules~s~
+
+MOB4_OBJ04D = Get into the ~o~Skiff~s~
+
+MOB4_OBJ05A = Escort the Skiff to the ~o~Dock~s~
+
+MOB4_OBJ07A = Save ~o~Jules~s~
+
+MOB4_OBJ07B = Search for ~o~Jules~s~
+
+MOB4_OBJ07C = Return to the ~o~Skiff~s~
+
+MOB4_OBJ08A = Kill the ~e~Giant Alligator~s~
+
+MOB4_OBJ08B = Slow ~o~Jules'~s~ bleeding
+
+MOB4_OBJ08C = Dress ~o~Jules'~s~ wound
+
+MOB4_OBJ08D = Stop ~o~Jules'~s~ bleeding
+
+MOB4_OBJ09A = Escort the Skiff to the ~o~Dock~s~
+
+MOB4_SEARCH = Search Area
+
+MOB4_SEARCH_FAIL = The search was abandoned.
+
+MOB4_SEARCH_WARN = Return to the ~o~Search~s~
+
+MOB4_SKIFF = Skiff
+
+MOB4_SPOOK = Thomas was spooked by the law.
+
+MOB4_THOMAS = Thomas
+
+MOB4_THOMAS_WARN = Return to ~o~Thomas~s~
+
+MOB4_TRAP = Trap
+
+MOB4_UC_BECKON = Beckon
+
+MOB4_UC_CALL = Callout
+
+MOB4_UC_EXITSKIFF = Exit Skiff
+
+MOB4_UC_HELP = Help
+
+MOB4_UC_LOOT = Search
+
+MOB4_UC_PRESSURE = Pressure
+
+MOB4_UC_WRAP = Wrap
+

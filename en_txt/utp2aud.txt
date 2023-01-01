@@ -1,0 +1,402 @@
+UT2P_IG5_LOOT1_1 = ~z~That should do it!
+
+UTP2_AFTER_1 = ~z~You okay?
+
+UTP2_AFTER_2 = ~z~I think so, just keep your head down.
+
+UTP2_AFTER_3 = ~z~Let's finish 'em.
+
+UTP2_APPROACH_1 = ~z~This is a robbery! Stop that coach right now!
+
+UTP2_BANT01SHOUTED_5 = ~z~~sl:0.0:0.8~What do you mean?~lr:0.3:3.3~Comes through about this time every day, like I said.~sl:0.4~The end.
+
+UTP2_BANT01SHOUTED_8 = ~z~~sl:0.0:4.7~I heard the banks been hiring every trigger man they can get of late.~lr:0.4~The meaner the better.
+
+UTP2_BANT01SHOUTED_15 = ~z~The bastards got a hold of most of Big Valley.
+
+UTP2_BANT01SHOUTED_18 = ~z~~sl:0.4~You know how it is.~rp~ A few loose ends, drink here, a drink there.
+
+UTP2_BANT01SHOUTED_21 = ~z~~sl:0.0:1.8~It concerns me,~lr:~when you put us in danger and we don't realize till it's too late.
+
+UTP2_BANT01SHOUTED_22 = ~z~~sl:0.0:3.4~Like that move you pulled in Strawberry,~lr:0.4~making me kill half the town just for your precious guns.
+
+UTP2_BANT01SHOUTED_24 = ~z~~sl:0.0:0.8~Looser?~lr:0.6~I seen you come full undone more than once now.
+
+UTP2_BANT01SPOKEN_5 = ~z~~sl:0.0:0.6~What do you mean?~lr:0.5:3.4~Comes through about this time every day, like I said.~sl:0.1~The end.
+
+UTP2_BANT01SPOKEN_8 = ~z~~sl:0.0:4.4~I heard the banks been hiring every trigger man they can get of late.~lr:0.2~The meaner the better.
+
+UTP2_BANT01SPOKEN_15 = ~z~Bastards got a hold of most of Big Valley.
+
+UTP2_BANT01SPOKEN_18 = ~z~You know how it is.~rp~ A few loose ends, drink here, drink there.
+
+UTP2_BANT01SPOKEN_21 = ~z~~sl:0.0:1.6~It concerns me,~lr:~when you put us in danger and we don't realize till it's too late.
+
+UTP2_BANT01SPOKEN_22 = ~z~~sl:0.0:2.0~Like that move you pulled in Strawberry,~lr:0.4~making me kill half the town just for your precious guns.
+
+UTP2_BANT01SPOKEN_24 = ~z~~sl:0.0:0.8~Looser?~lr:0.7~I seen you come full undone more than once now.
+
+UTP2_BANT01_1 = ~z~What are you doing anyway, ~rp~camping out here like some crazy hermit?
+
+UTP2_BANT01_2 = ~z~Can't exactly stay in town now, can I? And ~rp~like I told you,
+
+UTP2_BANT01_3 = ~z~I ain't going back to Dutch without a peace offering.
+
+UTP2_BANT01_4 = ~z~So ~rp~what's the deal with this coach?
+
+UTP2_BANT01_6 = ~z~I mean... how many men? Guns? Riders?
+
+UTP2_BANT01_7 = ~z~Nothing serious. ~rp~It'll be fine.
+
+UTP2_BANT01_9 = ~z~You worry too much.
+
+UTP2_BANT01_10 = ~z~Forgive me if I ain't wholly faithful in something an O'Driscoll told you,
+
+UTP2_BANT01_11 = ~z~when you was half-drunk in a jail cell.
+
+UTP2_BANT01_12 = ~z~He kept yapping about it, ~rp~saying how they been hitting it on the regular.
+
+UTP2_BANT01_13 = ~z~That's a good lead in my book.
+
+UTP2_BANT01_14 = ~z~Damn O'Driscolls are everywhere now.
+
+UTP2_BANT01_16 = ~z~Heard they took over some big ranch, north of here.
+
+UTP2_BANT01_17 = ~z~How the hell you and Lenny end up down here anyway?
+
+UTP2_BANT01_19 = ~z~What loose ends?
+
+UTP2_BANT01_20 = ~z~Nothing that needs to concern you. ~rp~I always pay my share.
+
+UTP2_BANT01_23 = ~z~Precious, they are... you need to roll a little looser, Morgan.
+
+UTP2_BANT01_25 = ~z~And you only been running with us a few months.
+
+UTP2_BANT01_26 = ~z~Are we gonna rob this coach or bicker about it?~rp~ What's done is done.
+
+UTP2_BANT01_27 = ~z~Guess we're robbing it.
+
+UTP2_BANT01_28 = ~z~Then let's do it.
+
+UTP2_BANT04_1 = ~z~What did I tell ya? ~rp~Like licking butter off a knife.
+
+UTP2_BANT04_2 = ~z~~sl:0.0:1.4~Something like that.~lr:0.6~You don't want to just break it open here, be done with it?
+
+UTP2_BANT04_3 = ~z~~sl:0.0:1.8~Could be more than we can carry.~sl:0.2~And... ~rp~there might be a second crew of riders tailing.
+
+UTP2_BANT04_4 = ~z~Alright then.
+
+UTP2_BANT04_5 = ~z~~sl:0.0:0.8~Not to mention...~sl:0.4~we ride back in with a big take and a new wagon to boot,
+
+UTP2_BANT04_6 = ~z~Dutch can't say we ain't pulling our weight no more, can he?
+
+UTP2_BANT04_7 = ~z~I ain't sure I trust this new act of yours one bit.
+
+UTP2_BANT04_8 = ~z~Listen, ~rp~I know we got off on the wrong foot, but ~rp~I got no beef with you.
+
+UTP2_BANT04_9 = ~z~I reckon we're a lot alike, you and me.
+
+UTP2_BANT04_10 = ~z~Now hold up there...
+
+UTP2_BANT04_11 = ~z~Dutch knows I'm a feller that gets things done, same as you.
+
+UTP2_BANT04_12 = ~z~~sl:0.0:1.7~Gets things done?~lr:0.7:2.3~You'd be wearing a California Collar now,~sl:~if I hadn't broken you out of jail.
+
+UTP2_BANT04_13 = ~z~And I have expressed my gratitude, have I not? It's done.
+
+UTP2_BANT04_14 = ~z~Main thing now, is getting this haul back in one piece.
+
+UTP2_BDANA_1 = ~z~~sl:0.0:2.4~No need to keep your face covered now.~sl:0.4~It's just you and me, sweetheart.
+
+UTP2_CMBT_BANT1_1 = ~z~See, I told you this'd be fun, Morgan!
+
+UTP2_CMBT_BANT1_2 = ~z~This is fun for you?
+
+UTP2_CMBT_BANT2_1 = ~z~~sl:0.0:1.2~They ain't stopping!~sl:1.2~We need to take out the driver!
+
+UTP2_CMBT_BANT2_2 = ~z~You think I don't see this?
+
+UTP2_CMBT_BANT3_1 = ~z~Come on, Morgan! Finish them off!
+
+UTP2_CMBT_BANT3_2 = ~z~Stop using my name!
+
+UTP2_CMBT_BANT3_3 = ~z~Why? They're only taking it with them to hell!
+
+UTP2_DEAD_1 = ~z~That'll show 'em!
+
+UTP2_DEAD_2 = ~z~Why is it every job I do with you ends in a pile of dead bodies?
+
+UTP2_DEAD_3 = ~z~Since when did you have a problem killing O'Driscolls?
+
+UTP2_DEAD_4 = ~z~You've got a point.
+
+UTP2_DEAD_ALT_1 = ~z~That'll show 'em!
+
+UTP2_ENEMY_01 = ~z~There's more of 'em!
+
+UTP2_ENEMY_02 = ~z~Here come more of them!
+
+UTP2_EXT_1 = ~z~Come on. Let's see if all this was worth it.
+
+UTP2_EXT_2 = ~z~All I see is you, me, a river full of dead O'Driscolls and a lockbox.
+
+UTP2_EXT_3 = ~z~I'd say we're golden here, Morgan.
+
+UTP2_EXT_4 = ~z~Look at that.
+
+UTP2_EXT_5 = ~z~What's the cut here?
+
+UTP2_EXT_6 = ~z~It's good.
+
+UTP2_EXT_7 = ~z~Just make sure the gang gets its piece.
+
+UTP2_EXT_8 = ~z~Yeah, yeah.
+
+UTP2_EXT_9 = ~z~Like I said...
+
+UTP2_EXT_10 = ~z~big shadow, tiny tree.
+
+UTP2_EXT_11 = ~z~Yeah, and like I said...
+
+UTP2_EXT_12 = ~z~that still don't mean nothing.
+
+UTP2_EXT_13 = ~z~Now, get out of here.
+
+UTP2_EXT_14 = ~z~Go see Dutch...
+
+UTP2_EXT_15 = ~z~but make sure you ain't followed.
+
+UTP2_EXT_16 = ~z~I know, boss. I know.
+
+UTP2_EXT_17 = ~z~It's been fun!
+
+UTP2_FLEEA_1 = ~z~~sl:0.0:3.1:1~Look at the cowards! They're running away!
+
+UTP2_HIJACK_01 = ~z~Let's go, damn it!
+
+UTP2_HIJACK_02 = ~z~Let's get after it, Morgan!
+
+UTP2_HIJACK_03 = ~z~What the hell are you waiting for?
+
+UTP2_IG2_RIFLE1_1 = ~z~How long does it take?
+
+UTP2_IG2_RIFLE1_2 = ~z~Next time I'll leave you in the dust.
+
+UTP2_IG2_RIFLE2_1 = ~z~I'm hoping there won't be a next time.
+
+UTP2_IG2_RIFLE2_2 = ~z~~sl:0.9:0.0~You don't mean that.
+
+UTP2_IG2_RIFLE3_1 = ~z~Ya!
+
+UTP2_IG2_RIFLE3_2 = ~z~Baylock! Come on boy.
+
+UTP2_IG2_RIFLE4_1 = ~z~~sl:2.0:3.4:1~Lookie here, a fine new rifle too.
+
+UTP2_IG2_RIFLE4_2 = ~z~Here you go Arthur, from me to you. That's more your style than mine.
+
+UTP2_IG2_WAIT1_1 = ~z~Are you getting on?
+
+UTP2_IG2_WAIT2_1 = ~z~Come on, Morgan!
+
+UTP2_IG2_WAIT3_1 = ~z~Come on, we need to get out of here, now!
+
+UTP2_IG2_WAIT4_1 = ~z~What the hell are you doing? Let's go!
+
+UTP2_IG2_WAIT5_1 = ~z~~sl:0.0:2.3:1~Devil be, but you're an annoying son of a bitch.
+
+UTP2_IG4_BACKON_1 = ~z~What the hell was that for?
+
+UTP2_IG4_BACKON_2 = ~z~Just keep your cool and drive.
+
+UTP2_IG4_WAIT_A_1 = ~z~What the hell's wrong with you? Let's go.
+
+UTP2_IG4_WAIT_B_1 = ~z~What are you doing? Are you forgetting that pile of bodies back there?
+
+UTP2_IG4_WAIT_C_1 = ~z~Is this because of what happened in Strawberry?
+
+UTP2_IG4_WAIT_C_2 = ~z~'Cause now ain't the time to be proving a point.
+
+UTP2_IG4_WAIT_D_1 = ~z~Just get back on the damn wagon, Morgan!
+
+UTP2_IG4_WAIT_E_1 = ~z~I swear, one of these days...
+
+UTP2_IG5_LOOT2_1 = ~z~Hey, give me a hand with this, will ya?
+
+UTP2_IG5_LOOT3_1 = ~z~Let's just finish this and get outta here.
+
+UTP2_IG5_LOOT4_1 = ~z~What the hell are you doing? Get over here!
+
+UTP2_IG5_LOOT5_1 = ~z~~sl:0.0:2.5:1~I'm done wasting my breath on you.
+
+UTP2_IG5_LTART_1 = ~z~Let's take what we can and get the hell outta here.
+
+UTP2_IG5_LTART_2 = ~z~That lock should shoot off easy enough.
+
+UTP2_IG5_LTART_3 = ~z~I'll give you the honors, on account of... well, this little mess.
+
+UTP2_INTRO_1 = ~z~~sl:0.0:0.8~Hey Arthur.~sl:0.4~Good to see you.
+
+UTP2_INTRO_2 = ~z~~sl:0.0:0.9~Why?~sl:~You want rescuing again, do ya?
+
+UTP2_INTRO_3 = ~z~~sl:0.8:0.0~No. I got a plan to make it up to you.
+
+UTP2_INT_1 = ~z~Hey, Arthur. Good to see you.
+
+UTP2_INT_2 = ~z~Why? You want rescuing again do you?
+
+UTP2_INT_3 = ~z~No, I got a plan to make it up to you.
+
+UTP2_INT_4 = ~z~A plan like the Blackwater ferry job? Or...
+
+UTP2_INT_5 = ~z~like you going off scouting and ending up in jail?
+
+UTP2_INT_6 = ~z~Dutch said you was a big shadow cast by a tiny tree.
+
+UTP2_INT_7 = ~z~I don't even know what that means.
+
+UTP2_INT_8 = ~z~I thought you was a tough boy...
+
+UTP2_INT_9 = ~z~not one of those gentlemen...
+
+UTP2_INT_10 = ~z~trying to protect his riding clothes.
+
+UTP2_INT_11 = ~z~I just know whenever things get real...
+
+UTP2_INT_12 = ~z~you turn yellow, and lose your head.
+
+UTP2_INT_13 = ~z~Yellow?
+
+UTP2_INT_14 = ~z~Sure seems that way.
+
+UTP2_INT_15 = ~z~So I guess you won't be riding with me to rob the banking coach...
+
+UTP2_INT_16 = ~z~comes about this time into Strawberry?
+
+UTP2_INT_17 = ~z~I heard one of the O'Driscoll boys...
+
+UTP2_INT_18 = ~z~yapping about it while I was inside.
+
+UTP2_INT_19 = ~z~You and me? Do a robbery?
+
+UTP2_INT_20 = ~z~That's what I said didn't I?
+
+UTP2_INT_21 = ~z~After you.
+
+UTP2_MCH_YELL1_01 = ~z~Stop that coach right now or you're all dead!
+
+UTP2_MCH_YELL1_02 = ~z~Sorry, it's pay day, fellers!
+
+UTP2_MCH_YELL1_03 = ~z~~sl:0.8~Is this the best you got, boys?
+
+UTP2_MCH_YELL1_04 = ~z~Yeah!
+
+UTP2_MCH_YELL1_05 = ~z~So you wanna do this the hard way, do ya?
+
+UTP2_MCH_YELL1_06 = ~z~Here we go!
+
+UTP2_MCH_YELL2_01 = ~z~Look like they ain't gonna play nice!
+
+UTP2_MCH_YELL2_02 = ~z~Stay on'em!
+
+UTP2_MCH_YELL2_03 = ~z~Let's show these bastards!
+
+UTP2_MCH_YELL2_04 = ~z~You and me, Morgan!
+
+UTP2_MCH_YELL2_05 = ~z~Take'em down!
+
+UTP2_MCS1_1 = ~z~They should be here, in a little bit.
+
+UTP2_MCS1_2 = ~z~Hold tight.
+
+UTP2_MCS1_3 = ~z~Which way will they be coming in?
+
+UTP2_MCS1_4 = ~z~Should be from over there.
+
+UTP2_MCS1_5 = ~z~We'll need to hit them fast, before they get into town.
+
+UTP2_MCS1_6 = ~z~Just don't lose your head this time.
+
+UTP2_MCS1_7 = ~z~Course, tough guy.
+
+UTP2_MCS1_8 = ~z~They should be here any minute.
+
+UTP2_MCS1_9 = ~z~Look, there they are...
+
+UTP2_MCS1_10 = ~z~right on time.
+
+UTP2_MCS1_11 = ~z~Get covered up.
+
+UTP2_MCS1_12 = ~z~Come on...
+
+UTP2_MCS1_13 = ~z~ride!
+
+UTP2_MCS1_LI_1 = ~z~Hold up on this ridge.
+
+UTP2_MCS2_1 = ~z~What the hell?
+
+UTP2_MCS2_2 = ~z~Come on, Arthur. Get out of there!
+
+UTP2_MCS2_3 = ~z~You dumb bastards!
+
+UTP2_MCS2_4 = ~z~Damn.
+
+UTP2_MOVEUP_01 = ~z~Let's get across!
+
+UTP2_MOVEUP_02 = ~z~Let's get over there!
+
+UTP2_MOVEUP_03 = ~z~Move up, Morgan!
+
+UTP2_MOVEUP_04 = ~z~With me, Morgan!
+
+UTP2_MOVEUP_05 = ~z~Let's go!
+
+UTP2_MSC2_LI_1 = ~z~Shit, now we're being robbed!
+
+UTP2_MSC2_LI_2 = ~z~~sl:0.0:0.6:1~Get across the river!
+
+UTP2_MSC2_LI_3 = ~z~
+
+UTP2_OBJ01_01 = ~z~There's a spot up this way with a good view of the trail.
+
+UTP2_OBJ01_02 = ~z~Come on. I know an overlook where we can watch for them coming in.
+
+UTP2_OBJ03A_01 = ~z~They're crossing the river!
+
+UTP2_OBJ03A_02 = ~z~Look, they're going over the river!
+
+UTP2_OBJ04A_01 = ~z~Hurry, get on. I'll drive.
+
+UTP2_OBJ04A_02 = ~z~Good, come on. Let's get this outta here.
+
+UTP2_OBJ06_1 = ~z~Let's strip this coach then, it clearly ain't going nowhere now.
+
+UTP2_OBJ06_2 = ~z~~sl:0.0:4.3~You know, we should really pick up a lockbreaker one of these days.~sl:~Save ourselves some bullets.
+
+UTP2_OBJ06_3 = ~z~~sl:0.3~Because saving bullets is such a concern of yours...
+
+UTP2_OBJ07_01 = ~z~Go on, then.
+
+UTP2_OBJ07_02 = ~z~You shooting it or not?
+
+UTP2_OBJ07_03 = ~z~Just thought you'd want the honors?
+
+UTP2_OBJ07_04 = ~z~Come on, I'm happy to do it myself.
+
+UTP2_ODRISC_1 = ~z~~sl:0.8~They're goddamn O'Driscolls!
+
+UTP2_ODRISC_2 = ~z~I can see that.
+
+UTP2_ONELEFT_1 = ~z~It's just the driver left! Come on!
+
+UTP2_ONFAST_01 = ~z~I'll give it to them, they put up half a fight at least.
+
+UTP2_SPOT_1 = ~z~Alright, this is the spot. Hold up on this ridge.
+
+UTP2_WAGON_1 = ~z~Look out, Morgan. Wagon coming down the track.
+
+UTP2_WARN_01 = ~z~Could use a hand over here!
+
+UTP2_WARN_02 = ~z~Help me out here, Morgan!
+
+UTP2_WARN_03 = ~z~I need some help here!
+

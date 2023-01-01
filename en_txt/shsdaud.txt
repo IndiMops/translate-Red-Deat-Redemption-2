@@ -1,0 +1,24 @@
+SHSD_BOO_A_01 = ~z~That thing ain't sharp!
+
+SHSD_BOO_A_02 = ~z~Swing that sword around!
+
+SHSD_BOO_A_03 = ~z~I got a sword for ya, lady!
+
+SHSD_BOO_J_01 = ~z~That ain't a real sword!
+
+SHSD_BOO_J_02 = ~z~Cut yourself and be done with it!
+
+SHSD_BOO_J_03 = ~z~Bring out the fire lady! She's better!
+
+SHSD_CHEER_A_01 = ~z~Sword lady!
+
+SHSD_CHEER_A_02 = ~z~She's gonna cut her leg off!
+
+SHSD_CHEER_A_03 = ~z~That thing is sharp!
+
+SHSD_CHEER_J_01 = ~z~She's exotic!
+
+SHSD_CHEER_J_02 = ~z~Swing it around!
+
+SHSD_CHEER_J_03 = ~z~Alright! She's good with that thing!
+

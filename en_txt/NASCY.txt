@@ -1,0 +1,66 @@
+0x2D14BEBD = Sedate the ~COLOR_MP_OBJECTIVE~Legendary Milk Coyote~s~
+
+0x567BC8BB = Chase the ~COLOR_MP_OBJECTIVE~Legendary Milk Coyote~s~
+
+0x821569E0 = You must dismount your horse to inspect the clue.
+
+FETCH_NAT_SIGHTING_COYOTE_CLUE_CHICKEN = This chicken appears to have been recently killed by a coyote. The Legendary Milk Coyote must be nearby.
+
+FETCH_NAT_SIGHTING_COYOTE_CLUE_DOG = This dog appears to have been recently killed by a coyote. The Legendary Milk Coyote must be nearby.
+
+FETCH_NAT_SIGHTING_COYOTE_CLUE_MEAT = This meat appears to have been recently scavenged by a coyote. The Legendary Milk Coyote must be nearby.
+
+FETCH_NAT_SIGHTING_COYOTE_SHARD_DESTROYED_COYOTE = Legendary Milk Coyote was too damaged
+
+FETCH_NAT_SIGHTING_COYOTE_SHARD_PRIMARY_PASS = Legendary Milk Coyote sample retrieved
+
+FETCH_NAT_SIGHTING_FOLLOW_TRAIL_COYOTE = Follow the ~COLOR_MP_OBJECTIVE~trail~s~
+
+FETCH_NAT_SIGHTING_HELP_INVESTIGATE_SOUND_COYOTE = Investigate the ~COLOR_MP_OBJECTIVE~coyote calls~s~
+
+FETCH_NAT_SIGHTING_HELP_KILL_COYOTE = Find the Legendary Milk Coyote ~COLOR_MP_OBJECTIVE~~BLIP_OBJECTIVE~~s~.
+
+FETCH_NAT_SIGHTING_HELP_LOOK_AT_CLUE_COYOTE = Focus on the clue
+
+FETCH_NAT_SIGHTING_HELP_OBJECTIVE_DEAD_COYOTE = The ~COLOR_MP_OBJECTIVE~Legendary Milk Coyote~s~ has been sedated. Collect the sample.
+
+FETCH_NAT_SIGHTING_HELP_PRIMARY_COYOTE = Search the area for the Legendary Milk Coyote ~1b~. Sedate it and take a sample.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_CLUE_FOUND_COYOTE = This appears to be a fresh clue, the Legendary Milk Coyote must be nearby.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_COYOTE = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the Legendary Milk Coyote.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_COYOTE_KM = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the Legendary Milk Coyote.
+
+FETCH_NAT_SIGHTING_INSPECT_CLUE_COYOTE = Inspect
+
+FETCH_NAT_SIGHTING_OBJ_FIND_COYOTE = Search the ~COLOR_MP_OBJECTIVE~area~s~ for signs of the Legendary Milk Coyote
+
+FETCH_NAT_SIGHTING_OBJ_FIND_COYOTE_POACHERS = Take out the ~COLOR_ENEMY~poachers~s~
+
+FETCH_NAT_SIGHTING_OBJ_FIND_POACHERS = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the Poacher Camp
+
+FETCH_NAT_SIGHTING_OBJ_GOTO_COYOTE = Go to ~COLOR_MP_OBJECTIVE~Blackwater~s~
+
+FETCH_NAT_SIGHTING_OBJ_GOTO_COYOTE_CAGED = Go to the ~COLOR_MP_OBJECTIVE~sighting location~s~
+
+FETCH_NAT_SIGHTING_OBJ_GOTO_COYOTE_POACHERS = Go to the ~COLOR_MP_OBJECTIVE~sighting location~s~
+
+FETCH_NAT_SIGHTING_OBJ_LOOT_COYOTE = Collect the ~COLOR_MP_OBJECTIVE~Legendary Milk Coyote~s~ sample
+
+FETCH_NAT_SIGHTING_SHARD_PRIMARY_INTRO_COYOTE = Retrieve a sample from the Legendary Milk Coyote
+
+FETCH_NAT_SIGHT_COYOTE_HELP_OBJECTIVE_ESCAPING = The ~COLOR_MP_OBJECTIVE~Legendary Milk Coyote~s~ is getting too far away and will soon escape.
+
+FETCH_NAT_SIGHT_COYOTE_HELP_SEARCH_CLUE_TRAIL = You found a trail ~1b~. Use Eagle Eye to follow the Legendary Milk Coyote tracks.
+
+FETCH_NAT_SIGHT_COYOTE_OBJ_FIND = Follow the Legendary Milk Coyote ~COLOR_MP_OBJECTIVE~trail~s~
+
+FETCH_NAT_SIGHT_COYOTE_OBJ_SEARCH_AREA = Search the ~COLOR_MP_OBJECTIVE~area~s~ for signs of the Legendary Milk Coyote
+
+FETCH_NAT_SIGHT_COYOTE_SHARD_ESCAPED = Legendary Milk Coyote escaped
+
+FETCH_NAT_SIGHT_COYOTE_SHARD_PRIMARY_PASS_PARTIAL = Legendary Milk Coyote skinned
+
+NET_FETCH_TEXT_HELP_OBJECTIVE_ESCAPING_TEAM_PRIMARY_COYOTE = The ~COLOR_MP_OBJECTIVE~Legendary Milk Coyote~s~ is escaping.
+

@@ -1,0 +1,252 @@
+0x2FF8E10D = Помогите доставить койота ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+0x3B30A81A = Помогите доставить барсука ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+0x7F0D2AEC = В вашей охотничьей повозке ~BLIP_MP_PLAYER_WAGON~ хранится туша койота. Доставьте повозку к торговцу ~BLIP_AMBIENT_NPC~, чтобы обменять тушу койота на припасы.
+
+0x8A76501A = Положите оленя-самца рядом с ~COLOR_MP_OBJECTIVE~торговцем~s~.
+
+0x8E82A77A = В вашей охотничьей повозке ~BLIP_MP_PLAYER_WAGON~ хранится туша барсука. Доставьте повозку к торговцу ~BLIP_AMBIENT_NPC~, чтобы обменять тушу барсука на припасы.
+
+0x9EA1D1F8 = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~енота~s~ ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+0x22F80BE4 = Добудьте оленя-самца.
+
+0x24E07317 = Положите лося рядом с ~COLOR_MP_OBJECTIVE~торговцем~s~.
+
+0x202A5DF2 = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~шкуру лося~s~ ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+0x514BE643 = Тушу барсука можно хранить на лошади или в охотничьей повозке, если они не перегружены.
+
+0x525E9AC9 = Положите койота рядом с ~COLOR_MP_OBJECTIVE~торговцем~s~.
+
+0x5065F685 = Тушу койота можно хранить на лошади или в охотничьей повозке, если они не перегружены.
+
+0x141067AA = Барсуки обитают около воды, например у Мэтток-Понд.
+
+0x76171013 = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~оленя-самца~s~ ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+0xA1BB8DD2 = Койоты обитают в лесах у хребта Роанок.
+
+0xA54CED60 = Койоты обитают у Рингнек-Крик.
+
+0xB208DA91 = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~койота~s~ ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+0xB85427FF = Добудьте енота.
+
+0xBEFBADD5 = Добудьте барсука.
+
+0xD8AD031E = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~барсука~s~ ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+0xE9427868 = Добудьте койота.
+
+0xEB4A7162 = Помогите доставить шкуру лося ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+0xF63EA06C = Добудьте шкуру лося.
+
+0xFAFA9D2B = Помогите доставить оленя-самца ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+0xFB758CF6 = Положите барсука рядом с ~COLOR_MP_OBJECTIVE~торговцем~s~.
+
+FETCH_RESUPPLY_OBJ_FIND_BISON_PELT = Добудьте шкуру бизона.
+
+FETCH_RESUPPLY_OBJ_FIND_CONDOR = Раздобудьте кондора.
+
+FETCH_RESUPPLY_OBJ_FIND_DEER_CF = Добудьте белохвостого оленя.
+
+FETCH_RESUPPLY_OBJ_FIND_DUCK = Раздобудьте утку.
+
+FETCH_RESUPPLY_OBJ_FIND_ELK_PELT = Добудьте шкуру вапити.
+
+FETCH_RESUPPLY_OBJ_FIND_FOX = Добудьте лису.
+
+FETCH_RESUPPLY_OBJ_FIND_GATOR_SKIN = Добудьте кожу крупного аллигатора.
+
+FETCH_RESUPPLY_OBJ_FIND_IGUANA = Добудьте пустынную игуану.
+
+FETCH_RESUPPLY_OBJ_FIND_PRONGHORN = Добудьте вилорога.
+
+FETCH_RESUPPLY_OBJ_FIND_TURKEY_V = Добудьте восточную дикую индейку.
+
+FETCH_RESUPPLY_OBJ_FIND_TURTLE = Раздобудьте черепаху.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_ALLIGATOR = В вашей охотничьей повозке ~BLIP_MP_PLAYER_WAGON~ хранится кожа крупного аллигатора. Доставьте повозку к торговцу ~BLIP_AMBIENT_NPC~, чтобы обменять кожу аллигатора на припасы.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_BISON = В вашей охотничьей повозке ~BLIP_MP_PLAYER_WAGON~ хранится шкура бизона. Доставьте повозку к торговцу ~BLIP_AMBIENT_NPC~, чтобы обменять шкуру бизона на припасы.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_CONDOR = В вашей охотничьей повозке ~BLIP_MP_PLAYER_WAGON~ хранится тушка кондора. Доставьте повозку к торговцу ~BLIP_AMBIENT_NPC~, чтобы обменять тушку кондора на припасы.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_DUCK = В вашей охотничьей повозке ~BLIP_MP_PLAYER_WAGON~ хранится тушка утки. Доставьте повозку к торговцу ~BLIP_AMBIENT_NPC~, чтобы обменять тушку утки на припасы.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_EASTERN_TURKEY = В вашей охотничьей повозке ~BLIP_MP_PLAYER_WAGON~ хранится тушка восточной дикой индейки. Доставьте повозку к торговцу ~BLIP_AMBIENT_NPC~, чтобы обменять тушку восточной дикой индейки на припасы.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_ELK = В вашей охотничьей повозке ~BLIP_MP_PLAYER_WAGON~ хранится шкура оленя-вапити. Доставьте повозку к торговцу ~BLIP_AMBIENT_NPC~, чтобы обменять шкуру оленя-вапити на припасы.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_FOX = В вашей охотничьей повозке ~BLIP_MP_PLAYER_WAGON~ хранится туша лисы. Доставьте повозку к торговцу ~BLIP_AMBIENT_NPC~, чтобы обменять тушу лисы на припасы.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_IGUANA = В вашей охотничьей повозке ~BLIP_MP_PLAYER_WAGON~ хранится игуана. Доставьте повозку к торговцу ~BLIP_AMBIENT_NPC~, чтобы обменять игуану на припасы.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_PRONGHORN = В вашей охотничьей повозке ~BLIP_MP_PLAYER_WAGON~ хранится туша вилорога. Доставьте повозку к торговцу ~BLIP_AMBIENT_NPC~, чтобы обменять тушу вилорога на припасы.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_TURTLE = В вашей охотничьей повозке ~BLIP_MP_PLAYER_WAGON~ хранится тушка черепахи. Доставьте повозку к торговцу ~BLIP_AMBIENT_NPC~, чтобы обменять тушку черепахи на припасы.
+
+FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_WHITETAIL_DEER = В вашей охотничьей повозке ~BLIP_MP_PLAYER_WAGON~ хранится туша белохвостого оленя. Доставьте повозку к торговцу ~BLIP_AMBIENT_NPC~, чтобы обменять тушу белохвостого оленя на припасы.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_BISON_GP = Бизоны пасутся в Великих долинах.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_CONDOR_RB = Кондоров можно встретить в пустыне, в том числе на вершине скалы Рио-Дель-Лобо.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_DEER_CF = Белохвостые олени пасутся у холмов в Камберлендском лесу.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_DEER_HENNIGAN = Белохвостые олени пасутся в Хенниган-Стед.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_DEER_KR = Белохвостые олени водятся в лесистой местности, в том числе на холмах к северу от Элизианского пруда.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_DEER_NH = Белохвостые олени пасутся на лугах Нью-Ганновера.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_DUCK_ATC = Утки обитают возле водоемов, таких как Ованджила.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_ELK_BH = Вапити можно найти у озера Аврора.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_FOX = Лисы обитают в дикой местности, в том числе у Рингнек-Крик.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_GATOR = Аллигаторы встречаются на болоте Блюуотер.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_IGUANA = Пустынных игуан можно встретить в Чолья-Спрингз.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_PRONGHORN = Вилороги пасутся в Чолья-Спрингз.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_PRONGHORN_DESERT = Вилороги пасутся в пустыне.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_PRONGHORN_V = Вилороги пасутся в Камберлендском лесу.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_TURKEY_CF = Восточные дикие индейки встречаются на зеленых полянах в Камберлендском лесу.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_TURKEY_RR = Восточные дикие индейки встречаются рядом с лесами хребта Роанок.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_TURKEY_SM = Восточные дикие индейки встречаются рядом с лесами Скарлетт-Медоуз.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_TURKEY_V = Восточные дикие индейки встречаются на зеленых полянах во Внутренних землях.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_TURKEY_WE = Восточные дикие индейки встречаются рядом с лесами Вест-Элизабет.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_TURTLE_HS = Черепахи обитают около воды, например у Стиллуотер-Крик.
+
+FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON = Чтобы возобновить работу, выполните поручение и доставьте припасы в лагерь ~BLIP_CAMP~. Это также пополнит запас материалов торговой компании Криппса.
+
+FETCH_RESUPPLY_TRADE_HELP_NO_SKIN = Торговец ~BLIP_AMBIENT_NPC~ не принимает освежеванных животных.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_ALLIGATOR = Кожу крупного аллигатора можно хранить на лошади или в охотничьей повозке, если они не перегружены.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_BISON = Шкуру бизона можно хранить на лошади или в охотничьей повозке, если они не перегружены.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_CONDOR = Тушку кондора можно хранить на лошади или в охотничьей повозке, если они не перегружены.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_DUCK = Тушку утки можно хранить на лошади или в охотничьей повозке, если они не перегружены.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_EASTERN_TURKEY = Тушку восточной дикой индейки можно хранить на лошади или в охотничьей повозке, если они не перегружены.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_ELK = Шкуру оленя-вапити можно хранить на лошади или в охотничьей повозке, если они не перегружены.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_FOX = Тушу лисы можно хранить на лошади или в охотничьей повозке, если они не перегружены.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_GENERIC = Предметы можно хранить на лошади или в охотничьей повозке, если они не перегружены.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_IGUANA = Игуану можно хранить на лошади или в охотничьей повозке, если они не перегружены.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_PRONGHORN = Тушу вилорога можно хранить на лошади или в охотничьей повозке, если они не перегружены.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_TURTLE = Тушку черепахи можно хранить на лошади или в охотничьей повозке, если они не перегружены.
+
+FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_WHITETAIL_DEER = Тушу белохвостого оленя можно хранить на лошади или в охотничьей повозке, если они не перегружены.
+
+FETCH_RESUPPLY_TRADE_OBJ_DEFEND_WAGON = Охраняйте ~COLOR_MP_OBJECTIVE_FRIENDLY~припасы~s~ на пути ~1~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_BISON_PELT = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~шкуру бизона~s~ ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_CONDOR = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~кондора~s~ к ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_DEER = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~оленя~s~ ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_DUCK = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~утку~s~ к ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_ELK_PELT = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~шкуру вапити~s~ ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_FOX = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~лису~s~ ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_GATOR = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~кожу крупного аллигатора~s~ ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_IGUANA = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~игуану~s~ ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_PRONGHORN = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~вилорога~s~ ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_TURKEY_V = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~индейку~s~ ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_TURTLE = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~черепаху~s~ к ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_BISON_PELT = Положите шкуру бизона рядом с ~COLOR_MP_OBJECTIVE~торговцем~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_CONDOR = Положите кондора рядом с ~COLOR_MP_OBJECTIVE~торговцем~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_DEER = Положите оленя рядом с ~COLOR_MP_OBJECTIVE~торговцем~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_DUCK = Положите утку рядом с ~COLOR_MP_OBJECTIVE~торговцем~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_ELK_PELT = Положите шкуру вапити рядом с ~COLOR_MP_OBJECTIVE~торговцем~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_FOX = Положите лису рядом с ~COLOR_MP_OBJECTIVE~торговцем~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_GATOR = Положите кожу крупного аллигатора рядом с ~COLOR_MP_OBJECTIVE~торговцем~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_IGUANA = Положите игуану рядом с ~COLOR_MP_OBJECTIVE~торговцем~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_PRONGHORN = Положите вилорога рядом с ~COLOR_MP_OBJECTIVE~торговцем~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_TURKEY_V = Положите индейку рядом с ~COLOR_MP_OBJECTIVE~торговцем~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_DROP_TURTLE = Положите черепаху рядом с ~COLOR_MP_OBJECTIVE~торговцем~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_FIND_WAGON = Заберите ~COLOR_MP_OBJECTIVE_NEUTRAL~припасы~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_GET_ON_HUNTING_WAGON = Садитесь в охотничью повозку.
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_BISON_PELT = Помогите доставить шкуру бизона ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_CONDOR = Помогите доставить кондора ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_DEER = Помогите доставить оленя ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_DUCK = Помогите доставить утку ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_ELK_PELT = Помогите доставить шкуру вапити ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_FOX = Помогите доставить лису ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_GATOR = Помогите доставить кожу крупного аллигатора ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_IGUANA = Помогите доставить игуану ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_PRONGHORN = Помогите доставить вилорога ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_TURKEY_V = Помогите доставить индейку ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_HELP_TURTLE = Помогите доставить черепаху ~COLOR_MP_OBJECTIVE~торговцу~s~.
+
+FETCH_RESUPPLY_TRADE_OBJ_RETURN_WAGON = Доставьте припасы ~1~.
+
+FETCH_RESUPPLY_TRADE_OBJ_STEAL_WAGON = Заберите ~COLOR_MP_OBJECTIVE_NEUTRAL~припасы~s~.
+
+FETCH_RESUPPLY_TRADE_SHARD_DESTROYED_GENERIC = Предметы утеряны
+
+FETCH_RESUPPLY_TRADE_SHARD_DESTROYED_WAGON = Припасы уничтожены
+
+FETCH_RESUPPLY_TRADE_SHARD_INTRO_PRIMARY = Заберите припасы
+
+FETCH_RESUPPLY_TRADE_SHARD_PRIMARY_PASS = Припасы доставлены
+
+FETCH_RESUPPLY_TRADE_STEAL_FROM_POSSE_WAGON = Перехватите ~COLOR_MP_OBJECTIVE_ENEMY~повозку~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_RESUPPLY_TRADE_TICKER_DESTROY_WAGON = Повозка уничтожена
+
+FETCH_RESUPPLY_TRADE_TICKER_DESTROY_YOU_WAGON = Вы уничтожили повозку
+

@@ -1,0 +1,118 @@
+0x23000E65 = Return to the ~o~barn~s~
+
+0x589892AA = Drop Moonshine Jug
+
+0x2245282F = The moonshine bottles were destroyed.
+
+0xAFD441BF = Sean
+
+0xD5A41749 = Tap ~INPUT_QUICK_EQUIP_ITEM~ to drop the moonshine jug.
+
+BRT2_AOBJ1 = Get on the ~o~wagon~s~
+
+BRT2_AOBJ1B = Go to ~o~Caliga Hall~s~
+
+BRT2_AOBJ1C = Wait for ~o~Sean~s~ to get on the wagon
+
+BRT2_AOBJ1D = Hide in the wagon while ~f~Sean~s~ drives into ~o~Caliga Hall~s~
+
+BRT2_AOBJ1E = Hide in the wagon until it's safe to exit
+
+BRT2_AOBJ2 = Take out the ~e~guard~s~ silently
+
+BRT2_AOBJ3 = Help Sean to hide the ~o~body~s~
+
+BRT2_AOBJ4A = Pick up the ~o~moonshine~s~
+
+BRT2_AOBJ4B = Douse the ~o~tobacco fields~s~ with moonshine
+
+BRT2_AOBJ4C = Burn the ~o~tobacco fields~s~
+
+BRT2_AOBJ4D = Burn the ~o~barn~s~
+
+BRT2_AOBJ4E = Meet Sean at the ~o~barn~s~
+
+BRT2_AOBJ4F = Wait for ~f~Sean~s~ to douse the ~o~barn~s~
+
+BRT2_AOBJ5 = Follow ~o~Sean~s~
+
+BRT2_B_CLHL = Caliga Hall
+
+BRT2_B_FLD = Tobacco Field
+
+BRT2_B_GRD = Guard
+
+BRT2_B_SHD = Drying Barn
+
+BRT2_B_WGN = Wagon
+
+BRT2_B_WST = Carriage barn
+
+BRT2_CONEHELP = When hiding amongst tobacco plants guards will not be able to see you as easily.
+
+BRT2_ESCOBJ2 = Escape with ~o~Sean~s~
+
+BRT2_ESCOBJ11 = Free the ~o~horses~s~ while Sean looks for the payroll
+
+BRT2_ESCOBJ12 = Wait for ~o~Sean~s~
+
+BRT2_FAIL_BARN_FIRE = The barn was not doused.
+
+BRT2_FAIL_BRT = You attacked the Braithwaites.
+
+BRT2_FAIL_BRT_MNR = You attacked the Braithwaite's manor.
+
+BRT2_FAIL_CAMP = The wagon was driven in to camp.
+
+BRT2_FAIL_ESCHR = An escape horse has died.
+
+BRT2_FAIL_FIRE = The wagon caught fire.
+
+BRT2_FAIL_LEVE = Sean was abandoned.
+
+BRT2_FAIL_LOUD = The guards were alerted.
+
+BRT2_FAIL_NOSHNE = All the moonshine was used.
+
+BRT2_FAIL_WAG = The wagon was destroyed.
+
+BRT2_FAIL_WAGON = You lost a horse.
+
+BRT2_HAMISH = Hamish
+
+BRT2_H_FIRE = Tap ~INPUT_QUICK_EQUIP_ITEM~ to quickly equip a required item.
+
+BRT2_MNSH = Moonshine
+
+BRT2_MSHELP = Pour
+
+BRT2_OUT_N = Decline
+
+BRT2_OUT_Y = Accept
+
+BRT2_POV = Tap ~INPUT_NEXT_CAMERA~ to change to Arthur's point of view.
+
+BRT2_POVWAGON = Use ~INPUTGROUP_LOOK~ to look around.
+
+BRT2_SHTOUTOBJ1 = Take out the ~e~Grays' guards~s~
+
+BRT2_SHTOUTOBJ2 = Follow ~o~Sean~s~ to the horses
+
+BRT2_UC_BRDCRMB1 = Hold ~INPUT_AIM|PromptId=IloInteractPrompt,Gutter~ to focus on the horse
+
+BRT2_UC_BRDCRMB2 = ~INPUT_INTERACT_LOCKON_DETACH_HORSE|PromptId=HorseCutFreePrompt~ to cut the horse free
+
+BRT2_UC_BRDCRMB3 = Use ~INPUT_ENTER|PromptId=BRT2MountPrompt~ to mount the horse
+
+BRT2_UC_EQPBOT = Equip Fire Bottles
+
+BRT2_UC_EXIT = Exit
+
+BRT2_UC_FRHRSS = Free Horse
+
+BRT2_UC_HIDE = Hide in the wagon
+
+BRT2_WARN_FIEL = Return to the ~o~fields~s~
+
+BRT2_WARN_LEVE = Return to the ~o~carriage barn~s~
+

@@ -1,0 +1,18 @@
+CSTR4_ACTION_1 = ~z~Did you... did you go and collect any of the debts?
+
+CSTR4_ACTION_2 = ~z~No... I did not.
+
+CSTR4_ACTION_3 = ~z~Well... don't worry... I'm...
+
+CSTR4_ACTION_4 = ~z~Running away?
+
+CSTR4_ACTION_5 = ~z~I suppose so.
+
+CSTR4_ACTION_6 = ~z~That sounds about right... well...
+
+CSTR4_ACTION_7 = ~z~I'd like to say I'll miss you, but... really I won't, get outta here.
+
+CSTR4_ACTION_8 = ~z~Your charm is your best feature.
+
+CSTR4_ACTION_9 = ~z~Likewise...
+

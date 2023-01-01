@@ -1,0 +1,72 @@
+CUNS2_SNG1_1 = ~z~Oh! I'm a wild free-ranging rover,
+
+CUNS2_SNG1_2 = ~z~I roam, and sing a merry song;
+
+CUNS2_SNG1_3 = ~z~The wide, wide world I wander over,
+
+CUNS2_SNG1_4 = ~z~With a light, light heart, I rove along.
+
+CUNS2_SNG1_5 = ~z~Oh! I'm a wild free rover,~n~~m~Oh! I'm a wild free rover,
+
+CUNS2_SNG1_6 = ~z~I sing a merry song;~n~~m~I sing a merry song
+
+CUNS2_SNG1_7 = ~z~The wide, wide world, I wander over,~n~~m~The wide, wide world, I wander over,
+
+CUNS2_SNG1_8 = ~z~With a light, light heart, I rove along.~n~~m~With a light, light heart, I rove along.
+
+CUNS2_SNG1_9 = ~z~With a light, light heart, I rove along.~n~~m~With a light, light heart, I rove along.
+
+CUNS2_SNG1_10 = ~z~The wind roves free over hill and river;
+
+CUNS2_SNG1_11 = ~z~And the clouds roam free along the sky;
+
+CUNS2_SNG1_12 = ~z~Each little bird is a wild free rover.
+
+CUNS2_SNG1_13 = ~z~And a rover wild and free am I.
+
+CUNS2_SNG1_14 = ~z~Oh! I'm a wild free rover,~n~~m~Oh! I'm a wild free rover,
+
+CUNS2_SNG1_15 = ~z~I sing a merry song;~n~~m~I sing a merry song
+
+CUNS2_SNG1_16 = ~z~The wide, wide world, I wander over,~n~~m~The wide, wide world, I wander over,
+
+CUNS2_SNG1_17 = ~z~With a light, light heart, I rove along.~n~~m~With a light, light heart, I rove along.
+
+CUNS2_SNG1_18 = ~z~With a light, light heart, I rove along.~n~~m~With a light, light heart, I rove along.
+
+CUNS2_SNG1_19 = ~z~The wind roams free its wild song singing,
+
+CUNS2_SNG1_20 = ~z~And softly murmuring flows, the stream;~n~~m~C'mon!
+
+CUNS2_SNG1_21 = ~z~The bird roves free, its wild way winging,
+
+CUNS2_SNG1_22 = ~z~And I rove and sing with morn's first beam.
+
+CUNS2_SNG1_23 = ~z~Oh! I'm a wild free rover,~n~~m~Oh! I'm a wild free rover,
+
+CUNS2_SNG1_24 = ~z~I sing a merry song;~n~~m~I sing a merry song
+
+CUNS2_SNG1_25 = ~z~The wide, wide world, I wander over,~n~~m~The wide, wide world, I wander over,
+
+CUNS2_SNG1_26 = ~z~With a light, light heart, I rove along.~n~~m~With a light, light heart, I rove along.
+
+CUNS2_SNG1_27 = ~z~With a light, light heart, I rove along.~n~~m~With a light, light heart, I rove along.
+
+CUNS2_SNG1_28 = ~z~The good Earth loves the wild free rover,
+
+CUNS2_SNG1_29 = ~z~For a roving bird is never dumb;
+
+CUNS2_SNG1_30 = ~z~He sings to please the dear old Mother,
+
+CUNS2_SNG1_31 = ~z~And she aye rewards him with a crumb.
+
+CUNS2_SNG1_32 = ~z~Oh! I'm a wild free rover,~n~~m~Oh! I'm a wild free rover,
+
+CUNS2_SNG1_33 = ~z~I sing a merry song;~n~~m~I sing a merry song
+
+CUNS2_SNG1_34 = ~z~The wide, wide world, I wander over,~n~~m~The wide, wide world, I wander over,
+
+CUNS2_SNG1_35 = ~z~And, with a light, light heart, I rove along.~n~~m~And, with a light, light heart, I rove along.
+
+CUNS2_SNG1_36 = ~z~With a light, light heart, I rove along.~n~~m~With a light, light heart, I rove along.
+

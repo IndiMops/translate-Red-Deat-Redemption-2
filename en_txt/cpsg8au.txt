@@ -1,0 +1,32 @@
+CCPRS_SNG8_1 = ~z~It's of a flash packet, a packet I've seen,
+
+CCPRS_SNG8_2 = ~z~Goodbye fare ye well, goodbye fare ye well...
+
+CCPRS_SNG8_3 = ~z~She's a hardy flash packet, the Dreadnaught's her name,
+
+CCPRS_SNG8_4 = ~z~Hurrah, me boys, we're bound to go...
+
+CCPRS_SNG8_5 = ~z~She sails to the westward, where stormy winds blow,
+
+CCPRS_SNG8_6 = ~z~Goodbye fare ye well, goodbye fare ye well...
+
+CCPRS_SNG8_7 = ~z~Bound away in the Dreadnaught, to the westward we'll go,
+
+CCPRS_SNG8_8 = ~z~Hurrah, me boys, we're bound to go...
+
+CCPRS_SNG8_9 = ~z~It's now we are hauling, right out of the dock,
+
+CCPRS_SNG8_10 = ~z~Goodbye fare ye well, goodbye fare ye well...
+
+CCPRS_SNG8_11 = ~z~Where the boys and girls on the pier head do flock,
+
+CCPRS_SNG8_12 = ~z~Hurrah, me boys, we're bound to go...
+
+CCPRS_SNG8_13 = ~z~They give three loud cheers, while the tears downward flow,
+
+CCPRS_SNG8_14 = ~z~Goodbye fare ye well, goodbye fare ye well...
+
+CCPRS_SNG8_15 = ~z~Bound away in the Dreadnaught, to westward we'll go
+
+CCPRS_SNG8_16 = ~z~Hurrah, me boys, we're bound to go...
+

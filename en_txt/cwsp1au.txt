@@ -1,0 +1,14 @@
+CWSP1_ACT_1 = ~z~Are you having fun, Arthur?
+
+CWSP1_ACT_2 = ~z~Sure.
+
+CWSP1_ACT_3 = ~z~You don't look like so much fun, boy... let your fucking hair down, like a man.
+
+CWSP1_ACT_4 = ~z~Hell, even old man Strauss is more of a laugh than you, boy.
+
+CWSP1_ACT_5 = ~z~Well, thank you, kid.
+
+CWSP1_ACT_6 = ~z~I-I-I'm sorry, Arthur, I... I-I didn't mean it. It's just because I care...
+
+CWSP1_ACT_7 = ~z~Oh, it's because I love you, Arthur. Really it is.
+

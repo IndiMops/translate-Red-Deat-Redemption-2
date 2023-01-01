@@ -1,0 +1,24 @@
+RBT22_ABANDON = The search area was abandoned.
+
+RBT22_BLIP = Search area
+
+RBT22_CLUES = Search for clues in the ~o~area~s~
+
+RBT22_FOLLOW = Follow the trail
+
+RBT22_H_TRACK = Press ~INPUT_SPECIAL_ABILITY~ and ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ to view tracks.
+
+RBT22_H_TRACK_KM = Press ~INPUT_SPECIAL_ABILITY~ to view tracks.
+
+RBT22_INTER = Interrogate the ~o~Del Lobo~s~
+
+RBT22_NOTE = Examine Arroyo's map in your Satchel
+
+RBT22_QU_OBJ = Question the ~e~Del Lobos~s~
+
+RBT22_RELEASE = Dismiss
+
+RBT22_RETURN = Return to the ~o~search area~s~
+
+RBT22_SEARCH = Search ~o~near the railroad~s~
+

@@ -1,0 +1,374 @@
+GUA3_ALARM_1 = ~t~In Spanish: It's the Americans. I need reinforcements!
+
+GUA3_EXT_1 = ~z~I got him for you, Javier.
+
+GUA3_EXT_2 = ~z~Captain, can you handle the ship?
+
+GUA3_EXT_3 = ~z~I'll be fine.
+
+GUA3_EXT_4 = ~z~Come on, we'll get going with the tide...
+
+GUA3_EXT_5 = ~z~before I get any more surprise interviews with local officials.
+
+GUA3_EXT_6 = ~z~Are you gonna be okay?
+
+GUA3_EXT_7 = ~z~We'll be like you.
+
+GUA3_EXT_8 = ~z~We'll disappear probably...
+
+GUA3_EXT_9 = ~z~back to Haiti.
+
+GUA3_EXT_10 = ~z~Believe me, we'll be long gone by morning.
+
+GUA3_EXT_11 = ~z~Good.
+
+GUA3_EXT_12 = ~z~Thank you.
+
+GUA3_EXT_13 = ~z~We survived.
+
+GUA3_EXT_14 = ~z~Just about...
+
+GUA3_GUARD_1 = ~t~In Spanish: Who's there?
+
+GUA3_IG2_1 = ~z~Head up the stairs, and get the rest of them.
+
+GUA3_IG3_LFUSE_1 = ~z~
+
+GUA3_IG3_LLOOP_1 = ~z~
+
+GUA3_IG3_RLOOP_1 = ~z~
+
+GUA3_IG3_RTOL_1 = ~z~
+
+GUA3_IG4_INT_1 = ~z~~sl:0.0:2.7~Eventually, I'm sure we will...~sl:0.6~but not today, and not because of you.
+
+GUA3_IG4_INT_2 = ~z~~sl:0.0:2.0:1~The US Navy is on the way.
+
+GUA3_IG4_INT_3 = ~z~~sl:0.0:5.7~I am sure they are, which is why you're going to let us leave,~sl:~or you are dying right here, my friend.
+
+GUA3_IG4_INT_4 = ~z~We've killed better men than you fools.
+
+GUA3_IG4_INT_5 = ~z~~sl:0.0:0.7~Enough...~sl:1.2:2.5~I've had enough of this. Arthur...~sl:1.2:0.9:1~the rifle?
+
+GUA3_IG4_INT_6 = ~z~~sl:0.0:0.7~Sure.~sl:1.4:2.7~Are you men gonna give up and let us leave?~sl:1.5~Or you gonna die?
+
+GUA3_IG4_INT_7 = ~z~Put your guns down.
+
+GUA3_IG4_INT_CP_1 = ~z~~sl:0.0:0.7~Enough...~sl:1.2:2.5~I've had enough of this. Arthur...~sl:1.2:0.9:1~the rifle?
+
+GUA3_IG4_INT_CP_2 = ~z~~sl:0.0:4.9~Sure. Are you men gonna give up and let us leave?~sl:1.4~Or you gonna die?
+
+GUA3_IG4_INT_CP_3 = ~z~Put your guns down.
+
+GUA3_IG5_P1_1 = ~z~Die!
+
+GUA3_IG5_P1_2 = ~z~
+
+GUA3_IG5_P1_3 = ~z~
+
+GUA3_IG5_P1_4 = ~z~
+
+GUA3_IG5_P2_1 = ~z~
+
+GUA3_IG5_P2_2 = ~z~
+
+GUA3_IG5_P2_3 = ~z~
+
+GUA3_IG5_P2_4 = ~z~
+
+GUA3_INT_1 = ~z~I thought I was dead for sure.
+
+GUA3_INT_2 = ~z~Boys, we got a real problem.
+
+GUA3_INT_3 = ~z~Nice Mr. Fussar don't want us going nowhere.
+
+GUA3_INT_4 = ~z~He knows just who we are...
+
+GUA3_INT_5 = ~z~if he can keep us here for a few more days, well...
+
+GUA3_INT_6 = ~z~And what about the captain of the ship here?
+
+GUA3_INT_7 = ~z~They got him trussed up like a hog...
+
+GUA3_INT_8 = ~z~guards all over the place.
+
+GUA3_INT_9 = ~z~Got us surrounded with gun positions...
+
+GUA3_INT_10 = ~z~so when we try to sail out...
+
+GUA3_INT_11 = ~z~he's gonna blow holes in us.
+
+GUA3_INT_12 = ~z~This feller is really beginning to try my patience.
+
+GUA3_INT_13 = ~z~And he ain't even had you tortured yet.
+
+GUA3_INT_14 = ~z~I like the man's style...
+
+GUA3_INT_15 = ~z~he's thorough, nasty and vindictive.
+
+GUA3_INT_16 = ~z~However...
+
+GUA3_INT_17 = ~z~in this instance, I don't see we got any alternative...
+
+GUA3_INT_18 = ~z~but we go and free our friendly captain...
+
+GUA3_INT_19 = ~z~and destroy the artillery.
+
+GUA3_INT_20 = ~z~For once, I agree with you.
+
+GUA3_INT_21 = ~z~Hercule?
+
+GUA3_INT_22 = ~z~Oh, I'll fight Alberto Fussar every day I can.
+
+GUA3_INT_23 = ~z~Alright.
+
+GUA3_INT_24 = ~z~Bill, you're gonna guard Javier on the ship here...
+
+GUA3_INT_25 = ~z~Micah, Arthur, let's get to work.
+
+GUA3_INT_26 = ~z~Hercule, we follow you.
+
+GUA3_INT_27 = ~z~En allez. This way.
+
+GUA3_MCS1_1 = ~z~You got it secured properly, cowpoke?
+
+GUA3_MCS1_2 = ~z~I think so.
+
+GUA3_MCS1_3 = ~z~Knowing you, I have my doubts.
+
+GUA3_MCS1_4 = ~z~Shut up, Micah.
+
+GUA3_MCS1_5 = ~z~Come on, partner, run!
+
+GUA3_MCS1_6 = ~z~You got it secured properly, cowpoke?
+
+GUA3_MCS1_7 = ~z~I think so.
+
+GUA3_MCS1_8 = ~z~Knowing you, I have my doubts.
+
+GUA3_MCS1_9 = ~z~Shut up, Micah.
+
+GUA3_MCS1_10 = ~z~Come on, run!
+
+GUA3_MCS2_1 = ~z~I got you now, you bastard.
+
+GUA3_MCS2_2 = ~z~We are all bastards, my friend...
+
+GUA3_MCS2_3 = ~z~but only one of us...
+
+GUA3_MCS2_4 = ~z~is some would be emperor's whore.
+
+GUA3_MCS2_5 = ~z~We know who you are.
+
+GUA3_MCS2_6 = ~z~And nobody knows who you are...
+
+GUA3_MCS2_7 = ~z~not even your goddamn father.
+
+GUA3_MCS2_8 = ~z~You maggots are going to die.
+
+GUA3_MCS3_1 = ~z~Here!
+
+GUA3_MCS3_2 = ~z~Damn!
+
+GUA3_MCS3_3 = ~z~You saved my life...
+
+GUA3_MCS3_4 = ~z~thank you, Captain.
+
+GUA3_MCS3_5 = ~z~I suppose you men are my cargo.
+
+GUA3_MCS3_6 = ~z~Dutch van der Linde.
+
+GUA3_MCS3_7 = ~z~I am sorry you got hurt.
+
+GUA3_MCS3_8 = ~z~Captain...
+
+GUA3_MCS3_9 = ~z~Let's go.
+
+GUA3_MCS3_10 = ~z~Gentlemen...
+
+GUA3_MCS5_1 = ~z~Here.
+
+GUA3_MCS5_2 = ~z~Fussar is up there I think.
+
+GUA3_MCS5_3 = ~z~In the tower?
+
+GUA3_MCS5_4 = ~z~Yes.
+
+GUA3_MCS5_5 = ~z~Yes, that's him.
+
+GUA3_MCS5_6 = ~z~This goddamn idiot.
+
+GUA3_MCS5_7 = ~z~Come on!
+
+GUA3_MCS5_8 = ~z~Let's go.
+
+GUA3_SPOT_1 = ~t~In Spanish: They're attacking us!
+
+GUA3_ST1_MICAH0_1 = ~z~Quick, let's get up around the back of that artillery post.
+
+GUA3_ST1_MICAH2_1 = ~z~Damn it! Kill the bastards!
+
+GUA3_ST1_MICAH3_1 = ~z~Okay, we're clear. Let's plant the explosives.
+
+GUA3_ST1_MICAH4_01 = ~z~What are you waiting for? Plant it.
+
+GUA3_ST1_MICAH4_02 = ~z~Hurry up, Arthur.
+
+GUA3_ST1_MICAH4_03 = ~z~Come on, we need to blow these cannons.
+
+GUA3_ST1_MICAH5_1 = ~z~Micah, get in here and hook up the dynamite.
+
+GUA3_ST1_MOVE0_01 = ~z~Are you going?
+
+GUA3_ST1_MOVE0_02 = ~z~Go on then.
+
+GUA3_ST1_MOVE0_03 = ~z~Make a move, Morgan.
+
+GUA3_ST1_STEAL1_1 = ~z~You take out the first guy and I'll get the other one. Okay?
+
+GUA3_ST1_STEL0_1 = ~z~There's two guards. Arthur, come on. Get your knife ready.
+
+GUA3_ST2HER2B_1 = ~z~Look out, one coming down the stairs.
+
+GUA3_ST2HER2C_1 = ~z~Guard up in the tower.
+
+GUA3_ST2_DUTCH1_01 = ~z~Get up here, Arthur.
+
+GUA3_ST2_DUTCH1_02 = ~z~Arthur, come on. Stick tight.
+
+GUA3_ST2_DUTCH1_03 = ~z~Up here, Arthur, quick.
+
+GUA3_ST2_DUTCH2_1 = ~z~Arthur, get back from there!
+
+GUA3_ST2_DUTCH3_1 = ~z~How are you getting on with those cannons, Micah?
+
+GUA3_ST2_DUTCH3_2 = ~z~Nearly there!
+
+GUA3_ST2_DUTCH4_01 = ~z~Come on, Arthur.
+
+GUA3_ST2_DUTCH4_02 = ~z~Get a move on, Arthur.
+
+GUA3_ST2_DUTCH4_03 = ~z~Get up here, Arthur.
+
+GUA3_ST2_DUTCH5_01 = ~z~What are you doing, Arthur?
+
+GUA3_ST2_DUTCH5_02 = ~z~What is taking so long here?
+
+GUA3_ST2_DUTCH5_03 = ~z~Can we just get this done?
+
+GUA3_ST2_HER0_1 = ~z~Look out above us! One on the roof!
+
+GUA3_ST2_HER1_1 = ~z~Come on. There's another set of cannons up ahead.
+
+GUA3_ST2_HER2_01 = ~z~Let's move!
+
+GUA3_ST2_HER2_02 = ~z~Let's go!
+
+GUA3_ST2_HER2_03 = ~z~Come on!
+
+GUA3_ST2_HER2_04 = ~z~Push forward!
+
+GUA3_ST2_HER2_05 = ~z~Let's keep moving!
+
+GUA3_ST2_HER2_06 = ~z~Let's go, push up on them!
+
+GUA3_ST2_HER3B_01 = ~z~Are you going up, Arthur?
+
+GUA3_ST2_HER3B_02 = ~z~Up the stairs, Arthur, I've got you covered.
+
+GUA3_ST2_HER3B_03 = ~z~Quick, Arthur, get up there.
+
+GUA3_ST2_HER3_1 = ~z~Arthur, head up the stairs here, I'll cover you.
+
+GUA3_ST2_HER4_1 = ~z~Wait here for a second for the others to catch up.
+
+GUA3_ST2_HER5_1 = ~z~Look, more of Fussar's men coming through the fields.
+
+GUA3_ST2_HER5_2 = ~z~Okay, come on, let's pick them off before they get too close!
+
+GUA3_ST2_HER6_01 = ~z~Let's go!
+
+GUA3_ST2_HER6_02 = ~z~Come on!
+
+GUA3_ST2_HER6_03 = ~z~Let's keep moving.
+
+GUA3_ST2_MICAH0_1 = ~z~Take cover, Morgan!
+
+GUA3_ST2_MICAH1_1 = ~z~I'll get the dynamite rigged on these cannons.
+
+GUA3_ST2_MICAH1_2 = ~z~There'll be more coming.
+
+GUA3_ST2_MICAH1_3 = ~z~We'll hold them off.
+
+GUA3_ST2_MICAH1_4 = ~z~Up here, Arthur, we'll have a better view.
+
+GUA3_ST2_MICAH2_1 = ~z~Okay boys we are live, stand back.
+
+GUA3_ST3_DUTCH0_1 = ~z~We going in?
+
+GUA3_ST3_DUTCH0_2 = ~z~Yeah, on your mark, Arthur.
+
+GUA3_ST3_DUTCH1_1 = ~z~Let's go!
+
+GUA3_ST3_DUTCH1_2 = ~z~The captain's in that blue building, straight ahead.
+
+GUA3_ST3_DUTCH1_3 = ~z~Okay, let's deal with these bastards first!
+
+GUA3_ST3_DUTCH2_1 = ~z~Come on! Push up on them!
+
+GUA3_ST3_DUTCH3_1 = ~z~Alright, you get the captain out of that cabin.
+
+GUA3_ST3_DUTCH3_2 = ~z~We'll cover things out here.
+
+GUA3_ST3_DUTCH4_01 = ~z~Quick, Arthur, go get him.
+
+GUA3_ST3_DUTCH4_02 = ~z~What are you waiting for? He's in the blue building.
+
+GUA3_ST3_DUTCH4_03 = ~z~Arthur? Will you grab that captain, so we can get outta here?
+
+GUA3_ST3_MICAH0_1 = ~z~The captain's being held in the workers' compound. This way!
+
+GUA3_ST4_DUTCH1_1 = ~z~Back to the ship, come on!
+
+GUA3_ST4_DUTCH2_1 = ~z~What happened to Fussar? He escaped?
+
+GUA3_ST4_DUTCH2_2 = ~z~I didn't see him!
+
+GUA3_ST4_DUTCH2_3 = ~z~Damn it!
+
+GUA3_ST4_HER0_1 = ~z~They have sent reinforcements!
+
+GUA3_ST4_HER1_1 = ~z~Keep going, just get to that boat!
+
+GUA3_ST4_HER9_1 = ~z~Okay, let's get out of here.
+
+GUA3_ST4_HERC2_01 = ~z~Keep going!
+
+GUA3_ST4_HERC2_02 = ~z~Let's move!
+
+GUA3_ST4_HERC2_03 = ~z~Push up!
+
+GUA3_ST4_HERC2_04 = ~z~Come on!
+
+GUA3_ST4_HERC2_05 = ~z~Let's go!
+
+GUA3_ST4_HERC3_1 = ~z~Another one, shoot him.
+
+GUA3_ST4_HERC4_1 = ~z~Look out on the left! There's one on the rock!
+
+GUA3_ST4_HERC5_1 = ~z~Come on, let's finish these connards!
+
+GUA3_ST4_HERC7_1 = ~z~He's shooting, we have to take him down!
+
+GUA3_ST4_HERC8_1 = ~z~Arthur, there's another cannon up ahead on our left. Can you get to that?
+
+GUA3_ST4_HERC8_2 = ~z~I'll try!
+
+GUA3_ST4_HERC10_01 = ~z~Use the cannon, Arthur!
+
+GUA3_ST4_HERC10_02 = ~z~Hurry, Arthur! We don't have a shot on him.
+
+GUA3_ST4_HERC10_03 = ~z~You need to get that cannon, Arthur!
+
+GUA3_WELLDONE_1 = ~z~Well done, son.
+

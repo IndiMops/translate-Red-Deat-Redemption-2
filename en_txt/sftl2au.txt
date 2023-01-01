@@ -1,0 +1,24 @@
+CFTL2_A_1 = ~z~~sl:0.0:1.2~How you boys doing?~sl:0.2~Mind if I stand a while?
+
+CFTL2_A_2 = ~z~~sl:0.0:1.2~My Lord...~sl:0.1:1.0~but mark my words,~sl:0.2~one of these days Karen will slit old Grimshaw's throat.
+
+CFTL2_A_3 = ~z~~sl:0.0:1.4~We all hate her.~sl:0.4~but Mary-Beth is sort of peaceful and Abigail,
+
+CFTL2_A_4 = ~z~she doesn't have time for that kind of nonsense.
+
+CFTL2_A_5 = ~z~And I don't care enough and Ms. Adler...
+
+CFTL2_A_6 = ~z~Well, she may slit any one of our throats come to think of it.
+
+CFTL2_A_7 = ~z~~sl:0.0:1.4~But-but Karen,~sl:0.3:2.5~Karen hates her more than anyone,~sl:0.2~and she hates Karen.
+
+CFTL2_A_8 = ~z~~sl:0.0:2.1~And Karen ain't one to hate unwisely,~sl:0.2:1.7~I've seen her cut men up.~sl:0.6~More than once.
+
+CFTL2_A_9 = ~z~~sl:0.0:1.5~If Grimshaw goes missing,~sl:0.7~I'll give you twenty to one Karen did it.
+
+CFTL2_A_10 = ~z~Only she won't slit her throat.
+
+CFTL2_A_11 = ~z~She'll cut her throat clean out and drink her blood.
+
+CFTL2_A_12 = ~z~Mark my words, boys.
+

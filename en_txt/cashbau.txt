@@ -1,0 +1,204 @@
+CASHB_BAM1_1 = ~z~~sl:0.0:3.0~God, I hate this swampy shithole!~sl:1.0~You know I even got a mosquito bite on my pecker?
+
+CASHB_BAM1_2 = ~z~I didn't and definitely didn't need to.
+
+CASHB_BAM2_1 = ~z~I still feel bad... about Sean... how was I to know?
+
+CASHB_BAM2_2 = ~z~It's done now. No changing it.
+
+CASHB_BAM3_1 = ~z~Listen, uh... you think Karen is sweet on me?
+
+CASHB_BAM3_2 = ~z~What? No, not in the slightest.
+
+CASHB_BAM3_3 = ~z~~sl:0.0:3.9~Well I don't know... way she looks at me sometimes.~sl:1.4~I get that with women a lot.
+
+CASHB_BAM4_1 = ~z~So how come you get the fancy room in the mansion and I have to sleep out here?
+
+CASHB_BAM4_2 = ~z~Ask Susan, or Dutch, not me.
+
+CASHB_BAM5_1 = ~z~~sl:0.0:3.8~I swear, my feet are rotting in this dank climate.~sl:2.8~They stink like old cabbage.
+
+CASHB_BAM5_2 = ~z~Why did I sit here?
+
+CASHB_BHSM1_1 = ~z~When's Pearson gonna cook us some alligator then?
+
+CASHB_BHSM1_2 = ~z~You wanna go out catch one? No one's stopping you.
+
+CASHB_BJ_ODR4_1 = ~z~You think he went back to the O'Driscolls?
+
+CASHB_BJ_ODR4_2 = ~z~No, they must have got to him somehow
+
+CASHB_BJ_ODR4_3 = ~z~If they found us here, what about the Pinkertons?
+
+CASHB_BJ_ODR4_4 = ~z~Yeah, we need to keep our guard up real high from here on out.
+
+CASHB_BL_PARTY1_1 = ~z~Yes we are, Dutch.
+
+CASHB_HO_PARTY1_1 = ~z~Well done, John.
+
+CASHB_HO_PARTY1_2 = ~z~Couldn't have done it without Dutch and Arthur.
+
+CASHB_HO_PARTY1_3 = ~z~The old guard... I'm very relieved, we are all.
+
+CASHB_HO_PARTY1_4 = ~z~Yes, thank God it worked out.
+
+CASHB_HO_PARTY2_1 = ~z~Welcome back, Jack.
+
+CASHB_HO_PARTY2_2 = ~z~Thanks, Uncle Hosea.
+
+CASHB_HO_PARTY3_1 = ~z~Well, I'll let you fine folks get reacquainted.
+
+CASHB_JV_PARTY1_1 = ~t~In Spanish: Yeah, boss!
+
+CASHB_KA1_1 = ~z~So Sadie fancies herself as one of the big guns now, does she?
+
+CASHB_KA1_2 = ~z~We're all just doing our bit.
+
+CASHB_KA1_3 = ~z~Yeah, I know how that goes.
+
+CASHB_KA2_1 = ~z~Just ain't the same without Sean.
+
+CASHB_KA2_2 = ~z~~sl:0.0:0.9~I know.~sl:0.9~He had a real soft spot for you.
+
+CASHB_KA2_3 = ~z~He was full of it... but I liked him.
+
+CASHB_KA3_1 = ~z~So, Molly's been acting pretty crazy.
+
+CASHB_KA3_2 = ~z~Yeah, I've seen a bit of it. Crazy in a bad way?
+
+CASHB_KA3_3 = ~z~Definitely crazy in a worse way than before.
+
+CASHB_KA4_1 = ~z~So when are we going to do another job, me and you? That bank was fun.
+
+CASHB_KA4_2 = ~z~Soon, I'm sure.
+
+CASHB_KA4_3 = ~z~Good, 'cause I'm going crazy here, Arthur.
+
+CASHB_KA5_1 = ~z~So are you and Mary gonna get back together?
+
+CASHB_KA5_2 = ~z~What? No, reckon it's too late for that.
+
+CASHB_KA5_3 = ~z~We all left it too late.
+
+CASHB_KAC_1 = ~z~Why did it all have to go to shit, Charles? It was fun for a while.
+
+CASHB_KAC_2 = ~z~Well, aren't you a ray of sunshine this morning?
+
+CASHB_KAJAV_1 = ~z~You've been drinking a lot, Karen... are you okay?
+
+CASHB_KAJAV_2 = ~z~You've been killing a lot, so don't judge me.
+
+CASHB_KAJAV_3 = ~z~Okay, just trying to look out for you.
+
+CASHB_KAJHN_1 = ~z~So glad Jack's back safe.
+
+CASHB_KAJHN_2 = ~z~Me too.
+
+CASHB_KAJHN_3 = ~z~Nice to see you and Abigail getting along.
+
+CASHB_KAJHN_4 = ~z~Nice to know everyone's watching.
+
+CASHB_KAMC_1 = ~z~~sl:1.0~Hope this wakes me up, I feel like shit.
+
+CASHB_KAMC_2 = ~z~It's not my business but maybe you should go easy, Karen.
+
+CASHB_KAMC_3 = ~z~Go easy? I'm just getting started.
+
+CASHB_KAM_1 = ~z~Hey, you know what I'd tell the old Karen.
+
+CASHB_KAM_2 = ~z~What?
+
+CASHB_KAM_3 = ~z~Drink more while life's still fun, 'cause it won't be for long.
+
+CASHB_KAM_4 = ~z~Come on, it ain't that bad.
+
+CASHB_KA_PARTY1_1 = ~z~Come on! How about another one?
+
+CASHB_KA_PARTY2_1 = ~z~Another song! Come on, fellers, what you got for me?
+
+CASHB_KI_PARTY1_1 = ~z~Welcome back, Jack.
+
+CASHB_KI_PARTY1_2 = ~z~Thanks.
+
+CASHB_KI_PARTY2_1 = ~z~Get some drinks down you. Live a little.
+
+CASHB_KI_PARTY2_2 = ~z~I might have a couple.
+
+CASHB_KI_PARTY2_3 = ~z~This is a party, come on.
+
+CASHB_KI_PARTY2_4 = ~z~Alright, alright.
+
+CASHB_KI_PARTY2_5 = ~z~Boring bastard.
+
+CASHB_KI_PARTY3_1 = ~z~Come on, Kieran. Join in!
+
+CASHB_KI_PARTY3_2 = ~z~Oh no I'm okay... thank you... I'll just watch.
+
+CASHB_KI_PARTY3_3 = ~z~Suit yourself then.
+
+CASHB_KMS1_1 = ~z~You know I used to love the excitement, the danger.
+
+CASHB_KMS1_2 = ~z~Running scams, robbing banks, screwing over the rich and horrible.
+
+CASHB_KMS1_3 = ~z~Now I don't know.
+
+CASHB_KMS1_4 = ~z~That's still what we do.
+
+CASHB_KMS1_5 = ~z~That's some of what we do.
+
+CASHB_KMS2_1 = ~z~The outlaw life, huh? So exciting, living free.
+
+CASHB_KMS2_2 = ~z~But it's mostly just sleeping in the dirt waiting for someone to put a bullet in your head.
+
+CASHB_KMS2_3 = ~z~Jesus, what happened to the old Karen?
+
+CASHB_KMS2_4 = ~z~I opened my eyes.
+
+CASHB_KTE_1 = ~z~You know... my mom used to make something like this, when I was a girl.
+
+CASHB_KTE_2 = ~z~She did?
+
+CASHB_KTE_3 = ~z~Yes, I hated it.
+
+CASHB_KTS_1 = ~z~Are you alright, Karen? You used to be the happy one.
+
+CASHB_KTS_2 = ~z~I don't know...
+
+CASHB_KTS_3 = ~z~I'm starting to think maybe even the good times weren't as good as I remember them.
+
+CASHB_KTS_4 = ~z~It's going to be okay.
+
+CASHB_LA1_1 = ~z~You know, I wish my head was as screwed on at your age.
+
+CASHB_LA1_2 = ~z~Thanks, I guess... doesn't always feel that screwed on.
+
+CASHB_LA2_1 = ~z~Hey listen, try not to get too bogged down in all this. You got your whole life ahead of you.
+
+CASHB_LA2_2 = ~z~What do you mean?
+
+CASHB_LA2_3 = ~z~Just that this life'll wear you quick if you ain't careful.
+
+CASHB_LA3_1 = ~z~Just think... we wouldn't be here if you and me hadn't cleared the place out.
+
+CASHB_LA3_2 = ~z~I'll be happy when we move on to be honest.
+
+CASHB_LA4_1 = ~z~You know, Sean was just starting to get good at the reading...
+
+CASHB_LA4_2 = ~z~Yeah, he liked you... in his own crazy way.
+
+CASHB_LA4_3 = ~z~Ain't the same.
+
+CASHB_LA5_1 = ~z~So what do you think it's going to be like? Tahiti...
+
+CASHB_LA5_2 = ~z~Can't even picture it... all of us, a place like that.
+
+CASHB_LA5_3 = ~z~Me neither.
+
+CASHB_LN_PARTY1_1 = ~z~Too right, Dutch.
+
+CASHB_MC_PARTY1_1 = ~z~That's right, boss.
+
+CASHB_SU_PARTY1_1 = ~z~Hooray!
+
+CASHB_SU_PARTY2_1 = ~z~Welcome home, little Jack.
+

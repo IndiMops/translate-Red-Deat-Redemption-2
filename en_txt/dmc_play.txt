@@ -1,0 +1,686 @@
+0x00AB2298 = 5
+
+0x01FFC8AF = (BOT) MacMartin
+
+0x022742B0 = (BOT) Broncho
+
+0x02784D97 = You Won the SHOWDOWN!
+
+0x031507D0 = WINNER
+
+0x04A384AE = (BOT) Silver
+
+0x04B06284 = Weapons that are harder to use will gain you more points. Choose a weapon wisely.
+
+0x063850A3 = TEAM DEATHMATCH
+
+0x0681E5FD = (BOT) Pickett
+
+0x06CA9D73 = Player
+
+0x07367544 = Headshot (X~1~)
+
+0x07F442F9 = Hog Tie Kill (X~1~)
+
+0x0ABF5CB1 = Bonus points are awarded when one Public Enemy takes out the other.
+
+0x0B077758 = (BOT) Cortez
+
+0x0C03EAD9 = Arrows will kill players in a single hit.
+
+0x0C1285D2 = (BOT) Hawkeye
+
+0x0E23C3CD = (BOT) One-eye
+
+0x0EFDB5C1 = Team Score
+
+0x0F70E652 = You scored 7 points
+
+0x1B099BAF = You scored 14 points
+
+0x1B6A645E = ~1p~
+
+0x1B9E6929 = YOUR TEAM CAME SEVENTH
+
+0x1BD33802 = KILL REWARD
+
+0x1BFFFD31 = KILL OPPONENTS!
+
+0x2C884C72 = (BOT) Black-eye
+
+0x2CBA3F10 = You scored 15 points
+
+0x2D4898F2 = (BOT) Domino
+
+0x2E76A4CA = Stealth Kill (X~1~)
+
+0x2E858647 = A play area section will be removed in ~1~s
+
+0x2EF4004E = ~1~s until the area shrinks at sudden death
+
+0x2F4D0114 = ~1~m until the area shrinks at sudden death
+
+0x2F321A82 = BE THE LAST PLAYER STANDING!
+
+0x3A2BAE72 = (BOT) Fez
+
+0x3E9E3B9D = (BOT) Murphy
+
+0x4BA85876 = STANDINGS
+
+0x4BBA402B = (BOT) High Noon
+
+0x4D00E95B = (BOT) Deadwood
+
+0x4D2FFA50 = (BOT) Holt
+
+0x5ADB2917 = (BOT) Cartwright
+
+0x5AE506E5 = You are the Public Enemy. Take down ~1p~
+
+0x5B72C7DA = (BOT) Bandit
+
+0x5B7410DD = (BOT) Bitter Creek
+
+0x5BAA716F = (BOT) Canton
+
+0x5F4E9E95 = (BOT) Broxey
+
+0x5FE632C2 = (BOT) The Kid
+
+0x6AB724C7 = (BOT) Rising Sun
+
+0x6B039362 = Team 7
+
+0x6CA08994 = MISSION FAILED
+
+0x6E61E028 = DEATHSTREAK
+
+0x6F61067E = (BOT) Bort
+
+0x7BA1C475 = (BOT) Comanche
+
+0x7C0A31B3 = (BOT) Buckshot
+
+0x7C1A649A = 0
+
+0x7C4AC008 = You scored 5 points
+
+0x7C112CE4 = (BOT) Chisholm
+
+0x7CAF5EF9 = You scored 12 points
+
+0x7FABE18E = (BOT) Bear
+
+0x7FC9BCEE = Team 8
+
+0x8AD4DCDE = Points are awarded for taking down the Public Enemy and for your Public Enemy to take down enemy players.
+
+0x8DB6D1AB = RIVAL
+
+0x8DDAD554 = (BOT) Potato
+
+0x8E2FCC5E = Time Until Bounds Update:
+
+0x8E3AA292 = KILL THE OTHER TEAMS!
+
+0x8E5CE9EB = (BOT) Flat Nose
+
+0x8EA264B7 = You scored 4 points
+
+0x9A0B35F8 = (BOT) Arkansas
+
+0x9A3D86F3 = (BOT) Wyatt
+
+0x9A17DD6A = A play area section will be removed in ~1~m
+
+0x11A33671 = MAKE IT COUNT (ANCIENT TOMAHAWK)
+
+0x13B86C20 = (BOT) Leadbelly
+
+0x15B565F9 = (BOT) Babyface
+
+0x27FA7361 = (BOT) Tulsa
+
+0x32AFB4B9 = (BOT) Jesse
+
+0x33A967AE = LEADER
+
+0x33C4D536 = (BOT) Six-gun
+
+0x33D2630B = (BOT) Cisco
+
+0x34FE6505 = Return to Play Area
+
+0x35FA0F4C = (BOT) Arizona
+
+0x36F4D215 = ~a~ ~1~
+
+0x38F4BF79 = MISSION PASSED
+
+0x49C334C7 = 8
+
+0x51B1C19D = (BOT) Cactus
+
+0x51B30901 = You scored 10 points
+
+0x54AC80C8 = KILL THE OTHER TEAM WITH SPECIFIC WEAPONS TO SCORE MORE POINTS!
+
+0x61A1B134 = (BOT) Doc
+
+0x63B2D0BF = GUN RUSH TEAMS!
+
+0x65B70619 = ~1~
+
+0x66ED8B3A = Team 6
+
+0x67C97BA5 = (BOT) Kingfisher
+
+0x72D29790 = YOUR TEAM CAME FIRST
+
+0x78DC6519 = (BOT) Moonlight
+
+0x80A2332F = YOUR TEAM CAME SECOND
+
+0x82B342C5 = Team 4
+
+0x83EDFEC0 = Draw!
+
+0x85DB45D0 = (BOT) Sweet Chain
+
+0x86A072DB = You scored 13 points
+
+0x93C4F9FE = (BOT) Bronze
+
+0x94C0CB85 = (BOT) Blaze
+
+0x94EF3006 = SHOWDOWN
+
+0x95EDF72C = Play area shrinking in ~1~ minutes
+
+0x96A2E3C1 = KILL OPPONENTS!
+
+0x124C5F27 = (BOT) Rustles
+
+0x125CF5BA = Your value is shown in the top right and is determined by your position in the match. The better your position, the higher your value.
+
+0x241C3CDA = TIME
+
+0x277B93A6 = (BOT) Black Arrow
+
+0x398E9F30 = (BOT) Blackjack
+
+0x454C9AE9 = Return to ~o~~a~
+
+0x471EAC7B = (BOT) Winston
+
+0x497DE0AB = Get Ready!
+
+0x554D9B90 = KILL YOUR TARGET WITHIN THE TIME LIMIT TO SCORE EXTRA POINTS!
+
+0x625CE40A = READY
+
+0x630AEA07 = Headshots
+
+0x706B02DA = (BOT) Dice
+
+0x716E4513 = (BOT) The Wild One
+
+0x733AADE8 = You scored 2 points
+
+0x836D281E = 2
+
+0x852D784B = (BOT) Tex
+
+0x886DFD3A = .
+
+0x1484B9FB = (BOT) Littlefield
+
+0x2350C313 = GUN RUSH!
+
+0x2918E064 = KILL THE HIGHER RANKED PLAYERS TO SCORE MORE POINTS!
+
+0x5810D162 = 9
+
+0x5830B871 = LOST
+
+0x6219B1E3 = (BOT) Texas
+
+0x6269AA6E = You scored 11 points
+
+0x7777DCE0 = (BOT) Phantom
+
+0x11008E56 = WON
+
+0x12674D12 = LOSER
+
+0x15192BA9 = Return to Shootout
+
+0x42842DBF = (BOT) Burns
+
+0x71381C0F = (BOT) Calamity
+
+0x79474E57 = TARGET
+
+0x95010C38 = (BOT) Starr
+
+0x99306FBF = Team 5
+
+0x143797A5 = (BOT) Rodeo
+
+0x528255BC = (BOT) Rocko
+
+0x799723E5 = (BOT) Lawless
+
+0x6775142F = ~1~/~2~
+
+0x9076851B = ~a~
+
+0x29518493 = YOUR TEAM CAME EIGHTH
+
+0x43972568 = (BOT) Thunder
+
+0x61000973 = You scored 3 points
+
+0x69316357 = (BOT) Curly
+
+0x88384127 = (BOT) Rowdy
+
+0xA0E32A28 = POSITION
+
+0xA7D3865F = Killed in Vehicle (X~1~)
+
+0xA8E7C696 = MATCH OVER
+
+0xA9D7A0E0 = (BOT) Buffalo
+
+0xA65B8178 = (BOT) Lucky
+
+0xA82C0246 = YOUR TEAM CAME FIFTH
+
+0xA97A256C = (BOT) Harley
+
+0xA200F8C5 = Part of the bounds have been removed
+
+0xA222E649 = (BOT) Gunsmoke
+
+0xA241C813 = (BOT) Apache
+
+0xA9841A7A = You scored 6 points
+
+0xA87953F5 = My Team
+
+0xAA190782 = You have collected some armor. It will protect you from losing health, at the expense of mobility, until it breaks from taking too much damage.
+
+0xAB3477AC = 3
+
+0xAE07196C = Team 2
+
+0xAE560229 = Killed from Vehicle (X~1~)
+
+0xAF8232D0 = BE THE LAST PLAYER STANDING!
+
+0xB0E0073E = 1
+
+0xB0E4818F = (BOT) Razor
+
+0xB7A5A139 = YOUR TEAM CAME SIXTH
+
+0xB7EE62D1 = (BOT) Dakota
+
+0xB16ABCC1 = (BOT) Tinman
+
+0xB18A1F6F = Sudden death will trigger if there are multiple players alive at the end of the round. All players will be blipped during this period.
+
+0xB61B1EA7 = Throwing Knives will kill players in a single hit.
+
+0xB90C135B = 0
+
+0xB6665FC1 = (BOT) Hoot
+
+0xB2092170 = Team 3
+
+0xB8927306 = (BOT) White Wolf
+
+0xBAE4BD3B = You scored 9 points
+
+0xBC66B35D = (BOT) Donner
+
+0xBECA8124 = (BOT) Cool Hand
+
+0xBFC7597A = (BOT) Outlaw
+
+0xC0494848 = Assists
+
+0xC0916121 = (BOT) Jerome
+
+0xC0A607B2 = TIED FOR LEAD
+
+0xC1C27D6E = OUT OF BOUNDS
+
+0xC2AD2520 = (BOT) Cassidy
+
+0xC5B5D2DD = You scored 8 points
+
+0xC5F3ED32 = (BOT) Silverheels
+
+0xC20FACD4 = (BOT) Crazy Fox
+
+0xC64F8E80 = (BOT) Stonewall
+
+0xC857E34E = The Showdown Is Over
+
+0xC960C782 = (BOT) Jayne
+
+0xC88730D0 = (BOT) Aces
+
+0xCAEBBFCA = Team Total
+
+0xCB8D67D0 = (BOT) Iron Eyes
+
+0xCEC23EC7 = 1
+
+0xD0B69CE8 = KILLSTREAK
+
+0xD0ECBF1D = ~1p~
+
+0xD1D293FD = Molotov kills are worth ~1~ points
+
+0xD5EACAA4 = Selecting a new Public Enemy
+
+0xD5EB8C6D = Takedown Kill (X~1~)
+
+0xD7BC2AE0 = (BOT) Bullwhip
+
+0xD9B73670 = Enemy Team
+
+0xD42B89A1 = (BOT) Rockford
+
+0xD81F76B7 = Killed from Mount (X~1~)
+
+0xD87F35DA = Ancient Tomahawks will kill players in a single hit.
+
+0xD88C789A = You scored 1 point
+
+0xD998DAEC = (BOT) Wayne
+
+0xD8132B2D = KILL THE OTHER PLAYERS!
+
+0xD5545026 = 3
+
+0xD6497836 = Play area shrinking in ~1~ seconds
+
+0xDAE7A50A = (BOT) Crow Dog
+
+0xDB0A680A = YOUR TEAM CAME LAST
+
+0xDBB773C9 = If the bout goes to sudden death, the play area will shrink: players out of bounds will be eliminated. All players will be blipped.
+
+0xDBC2D5CA = Killed on Mount (X~1~)
+
+0xDC1CD97C = 6
+
+0xDDFAA18A = You scored 16 points
+
+0xDE6E5182 = Your armor has become too damaged.
+
+0xE045FDE9 = Team 1
+
+0xE0EFE6B7 = Score
+
+0xE4B8FB5F = YOUR TEAM CAME THIRD
+
+0xE4E09A76 = (BOT) Cherokee
+
+0xE4FD760B = (BOT) Sundance
+
+0xE8C62A86 = (BOT) Snake
+
+0xE9B85AC5 = DRAW
+
+0xE247E5D2 = 7
+
+0xE494DBEC = Kill the opposing team's Target while defending your own.
+
+0xE919BEEF = Close Leaderboard
+
+0xE7765CDF = KILL OPPONENTS!
+
+0xE929418D = (BOT) Pat
+
+0xEB957CA8 = 2
+
+0xEC9CF13B = WINNERS
+
+0xF6B5FEF6 = DEATHMATCH
+
+0xF46BC1FB = Tomahawks will kill players in a single hit.
+
+0xF77D00EC = Kills
+
+0xF80CC913 = (BOT) Jackson
+
+0xF27816DD = YOUR TEAM CAME FOURTH
+
+0xF40438BD = (BOT) Younger
+
+0xF108659F = (BOT) Perry
+
+0xF2998675 = 4
+
+0xFA2C97C6 = (BOT) Rawhide
+
+0xFBA70B78 = Deaths
+
+0xFC87AB48 = Mission Failed: Out of Bounds
+
+0xFD1C728F = K/D Ratio
+
+0xFF191FFE = KILL PLAYERS WITH SPECIFIC WEAPONS TO SCORE MORE POINTS!
+
+BR_B_SHRINK = Play area shrinking in ~1~ minutes ~2~ seconds
+
+BR_B_SHRUNK = Play area shrunk
+
+BR_B_SUDDEN = ~1~m ~2~s until the area shrinks at sudden death
+
+BR_B_SUDDEN_SHARD = GET TO THE SAFE AREA
+
+BR_B_UPDATE = A play area section will be removed in ~1~m ~2~s
+
+BR_SHA_NWG = You haven't received any weapon.
+
+BR_SHA_WIB = You have received a ~a~
+
+BR_SHA_WIT = Chance
+
+DMC_BLIP_CHEST = Chest
+
+DMC_CHS_OPEN = Open Chest
+
+DMC_FTB_H1 = Each player's value is based on their position on the scoreboard. Kill a player to earn their value in points.
+
+DMC_FTB_H2 = Only players who have earned a kill contribute to the value scoreboard.
+
+DMC_FTB_OBJ_T = You are worth ~1~ points
+
+DMC_FTB_OBJ_T_1 = You are worth ~1~ point
+
+DMC_HUD_JL_LD = Tied for lead
+
+DMC_HUD_KL_LD = You took the lead
+
+DMC_HUD_WMP = Weapon Value
+
+DMC_HUD_WOR = VALUE
+
+DMC_HUD_WOR_H = VALUE: ~1~
+
+DMC_OBJ_PRI = Dispatch your ~COLOR_ENEMY~opponents~s~
+
+DMC_OBJ_PRIGR = Be the last person standing
+
+DMC_OBJ_PRIGRT = Be the last team standing
+
+DMC_OBJ_PRI_O = Dispatch your ~COLOR_NET_PLAYER4~opponents~s~
+
+DMC_OBJ_PRI_P = Dispatch your ~COLOR_NET_PLAYER3~opponents~s~
+
+DMC_OBJ_PRI_W = Dispatch your opponents~s~
+
+DMC_PLY_LFT = ~1p~ has left the session
+
+DMC_RTN_AREA = Return to ~COLOR_OBJECTIVE~Shootout
+
+DMC_SAFE_AREA = Reach ~COLOR_OBJECTIVE~safe area
+
+DMC_SDNDTH = SUDDEN DEATH
+
+DMC_SDNDTH_K = Next kill wins
+
+DMC_SDNDTH_LS = Time extended
+
+DMC_SDNDTH_OBJ = Dispatch opponent to win
+
+DMC_SDT_ELI = ELIMINATED
+
+DMC_SD_OBJ_E = Dispatch ~COLOR_ENEMY~opponent~s~ to win
+
+DMC_SD_OBJ_O = Dispatch ~COLOR_NET_PLAYER4~opponent~s~ to win
+
+DMC_SD_OBJ_P = Dispatch ~COLOR_NET_PLAYER3~opponent~s~ to win
+
+DMC_TYPE_EXC = MAKE IT COUNT
+
+DMC_TYPE_GR = GUN RUSH
+
+DMC_TYPE_HT = PUBLIC ENEMY
+
+DMC_TYPE_STD = SHOOTOUT
+
+DMC_TYPE_TEAM = TEAM SHOOTOUT
+
+DMC_TYPE_TGR = GUN RUSH TEAMS
+
+DMC_TYPE_TWOC = NAME YOUR WEAPON (TEAMS)
+
+DMC_TYPE_WOC = NAME YOUR WEAPON (FREE-FOR-ALL)
+
+EXC_SHRINK = ~o~Play area~s~ shrinking in ~1~ seconds
+
+HT_HEAD = Attack
+
+HT_INTRO = Take down the ~1p~Public Enemy~s~ for points
+
+HT_TARG = ~1p~ is the Public Enemy you're after
+
+HT_TARG_K = You took down the Public Enemy
+
+HT_TARG_OBJ = Eliminate the ~1p~Public Enemy
+
+HT_TARG_TK = Your team took down the Public Enemy!
+
+HT_TARG_YTK = Your team's Public Enemy was taken down!
+
+HT_TARK = Public Enemy Killed!
+
+HT_YHEAD = You are the Public Enemy
+
+H_D_BLIPPED = Visible to other players
+
+H_IDLEBLIP = Standing still for too long will reveal your position on the enemy's radar. Your player blip will flash if you've been idle for too long.
+
+OOB_PAS_BLIP = ~COLOR_OBJECTIVE~Shootout~s~
+
+OOB_PA_BLIP = ~COLOR_OBJECTIVE~Play Area
+
+OOB_RTN_PA = Return to ~COLOR_OBJECTIVE~Play Area
+
+RET_FED_KS = ~1~ points
+
+RET_FED_KS1 = ~1~ point
+
+SB_TIMER = Time Until New Bounds:
+
+WOC_BOW_KILL = Bow Kill (X~1~)
+
+WOC_BOW_TRAN = Bow kills are worth ~1~ points
+
+WOC_BOW_TRAN1 = Bow kills are worth ~1~ point
+
+WOC_CAN_KILL = Cannon Kill (X~1~)
+
+WOC_CAN_TRAN = Cannon kills are worth ~1~ points
+
+WOC_CAN_TRAN1 = Cannon kills are worth ~1~ point
+
+WOC_EX_KILL = Explosive Kill (X~1~)
+
+WOC_EX_TRAN = Explosive kills are worth ~1~ points
+
+WOC_EX_TRAN1 = Explosive kills are worth ~1~ point
+
+WOC_MELW_KILL = Melee Weapon Kill (X~1~)
+
+WOC_MELW_TRAN = Melee weapon kills are worth ~1~ points
+
+WOC_MELW_TRAN1 = Melee weapon kills are worth ~1~ point
+
+WOC_MEL_KILL = Melee Kill (X~1~)
+
+WOC_MEL_TRAN = Melee kills are worth ~1~ points
+
+WOC_MEL_TRAN1 = Melee kills are worth ~1~ point
+
+WOC_MOL_KILL = Molotov Kill (X~1~)
+
+WOC_MOL_TRAN1 = Molotov kills are worth ~1~ point
+
+WOC_PIS_KILL = Pistol Kill (X~1~)
+
+WOC_PIS_TRAN = Pistol kills are worth ~1~ points
+
+WOC_PIS_TRAN1 = Pistol Kills are worth ~1~ point
+
+WOC_REP_KILL = Repeater Kill (X~1~)
+
+WOC_REP_TRAN = Repeater kills are worth ~1~ points
+
+WOC_REP_TRAN1 = Repeater kills are worth ~1~ point
+
+WOC_REV_KILL = Revolver Kill (X~1~)
+
+WOC_REV_TRAN = Revolver kills are worth ~1~ points
+
+WOC_REV_TRAN1 = Revolver Kills are worth ~1~ point
+
+WOC_RIF_KILL = Rifle Kill (X~1~)
+
+WOC_RIF_TRAN = Rifle kills are worth ~1~ points
+
+WOC_RIF_TRAN1 = Rifle kills are worth ~1~ point
+
+WOC_SHO_KILL = Shotgun Kill (X~1~)
+
+WOC_SHO_TRAN = Shotgun kills are worth ~1~ points
+
+WOC_SHO_TRAN1 = Shotgun kills are worth ~1~ point
+
+WOC_SNI_KILL = Sniper Kill (X~1~)
+
+WOC_SNI_TRAN = Sniper kills are worth ~1~ points
+
+WOC_SNI_TRAN1 = Sniper kills are worth ~1~ point
+
+WOC_THR_KILL = Thrown Weapon Kill (X~1~)
+
+WOC_THR_TRAN = Tomahawk kills are worth ~1~ points
+
+WOC_THR_TRAN1 = Tomahawk kills are worth ~1~ point
+
+WOC_TUR_KILL = Turret Kill (X~1~)
+
+WOC_TUR_TRAN = Turret kills are worth ~1~ points
+
+WOC_TUR_TRAN1 = Turret kills are worth ~1~ point
+

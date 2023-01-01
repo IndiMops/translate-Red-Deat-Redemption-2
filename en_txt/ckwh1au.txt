@@ -1,0 +1,16 @@
+CKWH1_ACTION_1 = ~z~Thank you, Mr. Morgan...
+
+CKWH1_ACTION_2 = ~z~for sparing like me that... I'll work hard,  I am not a bad feller... you'll soon warm to me.
+
+CKWH1_ACTION_3 = ~z~Just see that I do.
+
+CKWH1_ACTION_4 = ~z~Oh, you will!
+
+CKWH1_ACTION_5 = ~z~And boy...
+
+CKWH1_ACTION_6 = ~z~
+
+CKWH1_ACTION_7 = ~z~Thank you... for saving my life.
+
+CKWH1_ACTION_8 = ~z~Well yeah, of course.
+

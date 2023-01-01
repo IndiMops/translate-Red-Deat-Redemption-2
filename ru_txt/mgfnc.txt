@@ -1,0 +1,12 @@
+0x8437B881 = Размахнуться
+
+MGFNC_B_POST = Столб
+
+MGFNC_UC_PLACE = Установить
+
+MGFNC_UC_POSITION = Разместить
+
+MGFNC_UC_POST = Поднять
+
+MGFNC_UC_SWING = Ударить
+

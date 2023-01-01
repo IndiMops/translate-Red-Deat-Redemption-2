@@ -1,0 +1,220 @@
+BTUP_C1_AGG_1 = ~z~Not you too?
+
+BTUP_C1_BUMP_1 = ~z~I ain't in no kind of mood.
+
+BTUP_C1_CLEAR_1 = ~z~~sl:0.0:2.9~Look. Them Raiders blindsided me.~sl:~Tied me up for some kind of ransom, I suppose.
+
+BTUP_C1_CLEAR_2 = ~z~Guess that was paid though, wasn't it? Now, come on.
+
+BTUP_C1_GIVEUP_1 = ~z~~sl:0.0:2.5~I'm going to get out of this, and when I do~sl:~you'll have something to answer for.
+
+BTUP_C1_HELP1_01 = ~z~Over here!
+
+BTUP_C1_HELP1_02 = ~z~I'm a policeman!
+
+BTUP_C1_HELP1_03 = ~z~They got me tied up!
+
+BTUP_C1_HELP1_04 = ~z~Officer in need of help!
+
+BTUP_C1_HELP2_1 = ~z~It is your duty to free me.
+
+BTUP_C1_HELP3_1 = ~z~Stranger, you are obliged to liberate me.
+
+BTUP_C1_HELP4_01 = ~z~Untie me. And be quick.
+
+BTUP_C1_HELP4_02 = ~z~What are you waiting for? Cut me free.
+
+BTUP_C1_HELP4_03 = ~z~Stop with that and help me.
+
+BTUP_C1_LAW1_1 = ~z~I'm an officer of the law, and I've been detained.
+
+BTUP_C1_LAWAIM2_1 = ~z~Don't.
+
+BTUP_C1_LAWAIM2_2 = ~z~If you do that, you're no better than them lot.
+
+BTUP_C1_LAW_AIM_1 = ~z~~sl:0.0:0.9~Please...~sl:2.3~you're no better than them lot.
+
+BTUP_C1_LAW_GUN_1 = ~z~Aw, hell fire.
+
+BTUP_C1_LOOTED_01 = ~z~Okay. You are welcome to those things you took.
+
+BTUP_C1_THXBYE_1 = ~z~Thanks again, citizen.
+
+BTUP_C1_THXLOOT_01 = ~z~Okay. There might be some things here if you want them.
+
+BTUP_C1_THX_01 = ~z~~sl:0.6~Thank you. Goddamn these bastards.
+
+BTUP_C1_THX_02 = ~z~At last. Thank you.
+
+BTUP_C2_AGG_1 = ~z~~sl:0.1~Not you too.
+
+BTUP_C2_AIM_01 = ~z~Please.
+
+BTUP_C2_AIM_02 = ~z~I haven't done anything to anybody.
+
+BTUP_C2_AIM_03 = ~z~This is all just a big misunderstanding.
+
+BTUP_C2_BUMP_1 = ~z~~sl:0.1~I just want to go home, okay?
+
+BTUP_C2_CLEAR_1 = ~z~~sl:0.0:1.8~They came out of nowhere, okay?~sl:~Next thing I was regaining my facilities, tied up here.
+
+BTUP_C2_CLEAR_2 = ~z~Please. Cut me free.
+
+BTUP_C2_GIVEUP_1 = ~z~~sl:0.2:2.2~I don't want to die like this.~sl:0.8~Why won't anyone help me?
+
+BTUP_C2_HELP2_1 = ~z~Come on. Let me outta this.
+
+BTUP_C2_HELP3_01 = ~z~Help me!
+
+BTUP_C2_HELP3_02 = ~z~They got me tied up here!
+
+BTUP_C2_HELP3_03 = ~z~They got me captive!
+
+BTUP_C2_HELP3_04 = ~z~I'm a prisoner of these men!
+
+BTUP_C2_HELP4_01 = ~z~Would you kindly just untie me?
+
+BTUP_C2_HELP4_02 = ~z~Please... come help me!
+
+BTUP_C2_HELP4_03 = ~z~Free me. Please.
+
+BTUP_C2_THXBYE_1 = ~z~Good luck to you.
+
+BTUP_C2_THX_01 = ~z~You have no idea how thankful I am.
+
+BTUP_C2_THX_02 = ~z~Oh dear Lord. Thank God for this.
+
+BTUP_C2_WAKE_1 = ~z~What's going on?
+
+BTUP_GX_CAP2_1 = ~z~We got company... keep the idiot secure!
+
+BTUP_GX_CAP3_1 = ~z~The official's our leverage. We can't lose him!
+
+BTUP_GX_CAP4_1 = ~z~Someone's here for the officer! Don't let 'em have him.
+
+BTUP_GX_CAP5_1 = ~z~We got company... keep the lawman secure!
+
+BTUP_GX_CAP6_M_1 = ~z~He can't get his claws on this idiot.
+
+BTUP_GX_CAP_1 = ~z~Someone's coming to free him, that will not happen!
+
+BTUP_GX_DONEW_01 = ~z~You know what, boys? Shoot 'em!
+
+BTUP_GX_DONEW_02 = ~z~All right. Fire on 'em, boys.
+
+BTUP_GX_KILL1_1 = ~z~~sl:1.8:2.8~You made a mistake taking me, but it ain't too late.~sl:0.4:2.3~Lemme go and there's no bad blood.
+
+BTUP_GX_KILL1_2 = ~z~~sl:1.6:1.9~No bad blood?~sl:3.0~There's more than forty years of bad blood between you and us.
+
+BTUP_GX_KILL1_3 = ~z~
+
+BTUP_GX_KILL1_4 = ~z~~sl:0.0:1.1~Maybe more.~sl:2.8:1.4:1~What are we gonna do with him?
+
+BTUP_GX_KILL1_5 = ~z~~sl:0.0:2.0~Leave him alone... for now.~sl:1.1~He's worth more when he's breathing.
+
+BTUP_GX_KILL1_6 = ~z~~sl:3.2:3.0:1~You're a disgrace to Lemoyne... the lot of ya.
+
+BTUP_GX_KILL1_7 = ~z~~sl:1.2:1.7~I don't care what he's worth.~sl:0.5~You don't disrespect the cause like that.
+
+BTUP_GX_KILL1_8 = ~z~You young'uns sure get fired up and stupid, don't you?
+
+BTUP_GX_KILL1_9 = ~z~~sl:0.1~He disrespected the cause...
+
+BTUP_GX_KILL1_10 = ~z~
+
+BTUP_GX_KNOCK1_1 = ~z~~sl:0.4:2.4~You got the wrong feller.~sl:1.2~I ain't political.
+
+BTUP_GX_KNOCK1_2 = ~z~~sl:0.6:1.9~If you wasn't political,~sl:0.0:3.1~you wouldn't be no federal tax collector.
+
+BTUP_GX_KNOCK1_3 = ~z~~sl:0.6:2.1~I ain't federal!~sl:0.9~It's a state poll tax.
+
+BTUP_GX_KNOCK1_4 = ~z~~sl:0.6~But y'all won't take the time to learn the difference.
+
+BTUP_GX_KNOCK1_5 = ~z~
+
+BTUP_GX_KNOCK1_6 = ~z~
+
+BTUP_GX_KNOCK1_7 = ~z~~sl:0.0:2.1:1~I ain't goin' listen to your lies.
+
+BTUP_GX_KNOCK1_8 = ~z~
+
+BTUP_GX_KNOCK1_9 = ~z~Damn collaborator.
+
+BTUP_GX_KNOCK1_10 = ~z~
+
+BTUP_GX_LEFT_1 = ~z~Good work. Stay vigilant.
+
+BTUP_GX_LEFT_M2_1 = ~z~~sl:0.0:2.9:1~He's gone. Leave it for later.
+
+BTUP_GX_LEFT_M_1 = ~z~Off he goes. Stand down, men.
+
+BTUP_GX_RETURNB_1 = ~z~The agitator's back, give 'em what for!
+
+BTUP_GX_RETURN_1 = ~z~Look who came back. Take 'em, men!
+
+BTUP_GX_STORY_A_1 = ~z~~sl:0.0:2.1~What the hell's wrong with you all?~sl:1.0~You've hardly said a word.
+
+BTUP_GX_STORY_A_2 = ~z~Just feels like we ain't getting nowhere.
+
+BTUP_GX_STORY_A_3 = ~z~~sl:0.0:2.2~It's the end of the century and it seems like~sl:~we ain't much further on than we was in '65.
+
+BTUP_GX_STORY_A_4 = ~z~~sl:0.0:1.0~Yeah, maybe...~sl:1.2~maybe not.
+
+BTUP_GX_STORY_A_5 = ~z~~sl:0.0:1.5~We can still live free.~sl:1.3:2.3~We can still say we don't recognize you~sl:~or answer to your laws.
+
+BTUP_GX_STORY_A_6 = ~z~~sl:0.0:2.1~It's better to be one man living the truth~sl:~than a million living a lie.
+
+BTUP_GX_STORY_B_1 = ~z~Let me tell you something.
+
+BTUP_GX_STORY_B_2 = ~z~~sl:0.0:1.8~Now, you all know that most of us old-timers,~sl:0.0:1.9~we fought alongside each other?~sl:1.1~3rd Lemoyne Regiment.
+
+BTUP_GX_STORY_B_3 = ~z~~sl:0.0:4.0~It was the summer of '62... we was hunkered down~sl:~by Copperhead Landing for weeks.
+
+BTUP_GX_STORY_C_1 = ~z~It was a terrible time, it was terrible.
+
+BTUP_GX_STORY_C_2 = ~z~~sl:0.0:1.4~Food was rotten...~sl:0.9:2.0~humidity was unbearable...~sl:0.9~nothing we had ever got dry.
+
+BTUP_GX_STORY_C_3 = ~z~But we knew... that sooner or later, the enemy...
+
+BTUP_GX_STORY_C_4 = ~z~~sl:0.0:1.7~would be coming down the Lannahechee~sl:~if they wanted to take Saint Denis.
+
+BTUP_GX_STORY_D_1 = ~z~~sl:0.0:1.3~And, sure enough...~sl:1.3:1.0~one morning...~sl:0.6~we woke to the distant sound.
+
+BTUP_GX_STORY_D_2 = ~z~The boom of a cannon.
+
+BTUP_GX_STORY_D_3 = ~z~~sl:0.0:1.1~And next thing you know,~sl:0.0:2.6~there's grenades raining down on us,~sl:~modified artillery shells...
+
+BTUP_GX_STORY_D_4 = ~z~~sl:0.0:1.6~leave a man with the most horrific wounds.~sl:~Just like nothing you ever seen.
+
+BTUP_GX_STORY_D_5 = ~z~~sl:0.0:2.5~And then I get blown up into the air,~sl:0.0:2.2~and I'm as high as a house...~sl:~and then everything goes black.
+
+BTUP_GX_STORY_D_6 = ~z~~sl:0.0:1.1~Then I come to...~sl:1.2~in a cloud of smoke...
+
+BTUP_GX_STORY_D_7 = ~z~I think I must be at the gates of hell.
+
+BTUP_GX_STORY_E_1 = ~z~And then it clears...
+
+BTUP_GX_STORY_E_2 = ~z~~sl:0.0:2.6~and I see a swarm of them damn blue-bellies,~sl:~they'te not twenty feet from me.
+
+BTUP_GX_STORY_E_3 = ~z~~sl:0.0:1.5~And I ain't got no rifle,~sl:~I ain't got no gun, ain't got no nothing.
+
+BTUP_GX_STORY_E_4 = ~z~~sl:0.0:1.9~So I just turn and I run at 'em.~sl:1.1:2.5~And they raise their rifles and they fire,~sl:~but it don't make no sound.
+
+BTUP_GX_STORY_E_5 = ~z~Their powder was too damp!
+
+BTUP_GX_STORY_E_6 = ~z~~sl:0.0:1.1~So I get in there,~sl:0.0:2.8~and I take 'em with my fists one by one,~sl:~until I know they're dead.
+
+BTUP_GX_STORY_E_7 = ~z~And I just walk out of there, as calm as the night.
+
+BTUP_GX_STORY_E_8 = ~z~Something's only lost if you let it be.
+
+BTUP_GX_STORY_E_9 = ~z~~sl:0.0:3.4~And as far as I can tell, you're all still breathing.~sl:0.4~Even though you're a bunch of lifeless saps.
+
+BTUP_GX_STORY_E_10 = ~z~So buck the hell up!
+
+BTUP_GX_STORY_E_11 = ~z~You hear me?
+
+BTUP_GX_WARN1_1 = ~z~~sl:0.0:0.9~Someone's coming...~sl:1.8~Hey, I see you there. Turn on your heels.
+
+BTUP_GX_WARN2_1 = ~z~~sl:0.0:1.8~You stick around much longer,~sl:~you're gonna be buried here. Go on!
+

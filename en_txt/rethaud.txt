@@ -1,0 +1,108 @@
+RETH_INT_1 = ~z~What's the problem?
+
+RETH_INT_2 = ~z~Problem? No, there's no problem.
+
+RETH_INT_3 = ~z~Quite the contrary.
+
+RETH_INT_4 = ~z~Well, there is a problem...
+
+RETH_INT_5 = ~z~for me, but not for you.
+
+RETH_INT_6 = ~z~Alright, I ain't got time for this.
+
+RETH_INT_7 = ~z~No, wait, no, wait...
+
+RETH_INT_8 = ~z~give me a minute of your life.
+
+RETH_INT_9 = ~z~I might just change it forever.
+
+RETH_INT_10 = ~z~I'm sure you will have heard of me...
+
+RETH_INT_11 = ~z~Maximo Cristobal Valdespino.
+
+RETH_INT_12 = ~z~The renowned explorer.
+
+RETH_INT_13 = ~z~Can't say I have.
+
+RETH_INT_14 = ~z~There has been much written about me.
+
+RETH_INT_15 = ~z~I once had high tea with the Viceroy of India.
+
+RETH_INT_16 = ~z~I helped liberate South America.
+
+RETH_INT_17 = ~z~I've climbed mountains, and swam across seas.
+
+RETH_INT_18 = ~z~I have had... many women.
+
+RETH_INT_19 = ~z~I have spent the last three months...
+
+RETH_INT_20 = ~z~hunting treasure on the American frontier.
+
+RETH_INT_21 = ~z~Beautiful country, reminds me a lot of Almeria...
+
+RETH_INT_22 = ~z~but, tomorrow I set sail for the island of Shikoku...
+
+RETH_INT_23 = ~z~in the Japanese archipelago...
+
+RETH_INT_24 = ~z~in search of the legendary Tokushima Sapphire.
+
+RETH_INT_25 = ~z~Well, good for you.
+
+RETH_INT_26 = ~z~No, no, hold on.
+
+RETH_INT_27 = ~z~You see this map here?
+
+RETH_INT_28 = ~z~It was made by the Jack Hall Gang.
+
+RETH_INT_29 = ~z~They robbed banks all the way from here to California.
+
+RETH_INT_30 = ~z~Yeah, I know who the Jack Hall Gang are.
+
+RETH_INT_31 = ~z~Oh, them you have heard of, but me...
+
+RETH_INT_32 = ~z~Well, rumor has it, they buried gold somewhere in this area...
+
+RETH_INT_33 = ~z~but were killed before they could retrieve it.
+
+RETH_INT_34 = ~z~They created two maps to ensure it was well hidden...
+
+RETH_INT_35 = ~z~this is the first, and should lead you to the second.
+
+RETH_INT_36 = ~z~You just need to follow the landmarks drawn here.
+
+RETH_INT_37 = ~z~Me?
+
+RETH_INT_38 = ~z~Yes.
+
+RETH_INT_39 = ~z~Unfortunately I am out of time now.
+
+RETH_INT_40 = ~z~But I am prepared to sell it to you for the low price of...
+
+RETH_INT_41 = ~z~ten dollars.
+
+RETH_INT_42 = ~z~A trifle in investment for a man such as you...
+
+RETH_INT_43 = ~z~given the potential returns.
+
+RETH_INT_44 = ~z~What's the problem?
+
+RETH_INT_45 = ~z~Alright, I don't have time for this.
+
+RETH_INT_46 = ~z~No, can't say I have.
+
+RETH_INT_47 = ~z~Okay, good for you.
+
+RETH_INT_48 = ~z~I know who the Jack Hall Gang are.
+
+RETH_INT_49 = ~z~Me?
+
+RETH_INT_LI_CO1_1 = ~z~Senor, can I show you something?
+
+RETH_INT_LI_CO2_1 = ~z~You there, come here a minute!
+
+RETH_INT_LI_CO3_1 = ~z~Hey, over here!
+
+RETH_INT_LI_GRA_1 = ~z~What's the problem?
+
+RETH_INT_LI_GRJ_1 = ~z~What's the problem?
+

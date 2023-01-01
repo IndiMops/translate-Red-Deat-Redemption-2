@@ -1,0 +1,12 @@
+MGCLS_BLIP_MANURE = Навоз
+
+MGCLS_BLIP_WHEEL = Тачка
+
+MGCLS_HLP_MANURE = Подойдите к навозу и нажмите ~INPUT_MINIGAME_ACTION_X~, чтобы загрести его вилами.
+
+MGCLS_HLP_WHEEL = Подойдите к тачке и нажмите ~INPUT_MINIGAME_ACTION_X~, чтобы бросить в нее навоз.
+
+MGCLS_UC_DROP = Сбросить навоз
+
+MGCLS_UC_PICK = Навоз
+

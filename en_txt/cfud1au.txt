@@ -1,0 +1,44 @@
+CFUD1_ACT1_1 = ~z~How you gentlemen doing?
+
+CFUD1_ACT1_2 = ~z~~sl:0.0:1.3:1~Fine and dandy.
+
+CFUD1_ACT1_3 = ~z~Good... that's real good... I just read something.
+
+CFUD1_ACT1_4 = ~z~That's the problem with you, Dutch. Always reading. Always been an issue with you.
+
+CFUD1_ACT1_5 = ~z~Not with you.
+
+CFUD1_ACT1_6 = ~z~~sl:0.9:0.0~I got common sense. I don't need to read. In fact, I need not to read. It pollutes the mind.
+
+CFUD1_ACT1_7 = ~z~Does it?
+
+CFUD1_ACT1_8 = ~z~~sl:1.3:3.6:1~I've seen it do it, to you.
+
+CFUD1_ACT1_9 = ~z~I'd be careful, old man, that that court jester act doesn't wear... a little thin.
+
+CFUD1_ACT1_10 = ~z~~sl:2.9:6.9:1~That's his problem, in one... he wants to be an American king... with his knights.
+
+CFUD1_ACT1_11 = ~z~I heard that! I want no such thing.
+
+CFUD1_ACT1_12 = ~z~You do.
+
+CFUD1_ACT1_13 = ~z~I don't! I just want better than this, for us.
+
+CFUD1_ACT1_14 = ~z~Better? Your kinda better.
+
+CFUD1_ACT1_15 = ~z~
+
+CFUD1_ACT1_16 = ~z~~sl:0.0:4.6~Oh, I can't stay mad at you, old man, but right now...~sl:2.1~I'd like to kill you.
+
+CFUD1_ACT1_17 = ~z~
+
+CFUD1_ACT1_18 = ~z~~sl:0.4:3.5:1~Put me out of my majesty, your misery.
+
+CFUD1_ACT1_19 = ~z~~sl:3.8:4.9:1~Away with you!
+
+CFUD1_ACT1_20 = ~z~~sl:2.6:5.1~There... you see, gentlemen... there goes the greatest man we know...~sl:1.1~...even he is lost.
+
+CFUD1_ACT1_21 = ~z~~sl:1.1:0.0~This is the age of being lost. The age of running to avoid thinking.
+
+CFUD1_ACT1_22 = ~z~I've said it before, but you all got it. This sense of being lost, all of you... well, apart from old Uncle here, but you got it. And that's a fact.
+

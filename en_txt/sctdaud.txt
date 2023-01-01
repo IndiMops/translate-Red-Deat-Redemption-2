@@ -1,0 +1,48 @@
+SCTD_0913_A_1 = ~z~You new to these parts, mister?
+
+SCTD_0913_B_1 = ~z~Well, there ain't been much work around of late, what with all that sickness in Armadillo.
+
+SCTD_0913_B_2 = ~z~I'm thinking of heading east to MacFarlane's Ranch myself.
+
+SCTD_0913_B_3 = ~z~The rancher there has up and left for a while... had a bad run the past few years, poor feller, lost some sons.
+
+SCTD_0913_B_4 = ~z~So a tenant farmer's on the land for now and is struggling, by all accounts.
+
+SCTD_0913_B_5 = ~z~Figure he might need an extra hand.
+
+SCTD_0913_B_6 = ~z~Anyway, I can see you ain't much in the mood for conversating.
+
+SCTD_0927_A_1 = ~z~Hey, you ain't come from Armadillo, have you?
+
+SCTD_0927_B_1 = ~z~Used to be a fine little town, but this cholera breakout has all but destroyed it.
+
+SCTD_0927_B_2 = ~z~Won't be nobody left there soon, apart from probably that bastard at the general store, Herbert Moon.
+
+SCTD_0927_B_3 = ~z~We'll never get rid of him.
+
+SCTD_0927_B_4 = ~z~Well, anyway, now folk are saying that it must be some curse, that this is beyond the natural course of things.
+
+SCTD_0927_B_5 = ~z~I don't believe in such things myself.
+
+SCTD_0927_B_6 = ~z~Well, anyway, you enjoy your drink, mister.
+
+SCTD_1093_A_1 = ~z~Good to see there's still some new faces passing through.
+
+SCTD_1093_B_1 = ~z~Used to be teeming with people here... merchants, traders...
+
+SCTD_1093_B_2 = ~z~then the railroad came and passed us by and most folk passed by with it.
+
+SCTD_1093_B_3 = ~z~But we're doing alright... gotta move with the times, don't you?
+
+SCTD_1093_B_4 = ~z~Well, you enjoy your drink, mister...
+
+SCTD_1094_A_1 = ~z~Word of advice, friend.
+
+SCTD_1094_B_1 = ~z~Don't make an enemy of the sheriff here... he's a damn lunatic.
+
+SCTD_1094_B_2 = ~z~Will happily hang a feller for stealing a glance.
+
+SCTD_1094_B_3 = ~z~I moved here thinking there might be more freedom for a man like me... sharing the same skin as the sheriff and all... but was I wrong. The man's a tyrant.
+
+SCTD_1094_B_4 = ~z~Anyway, just thought you should know... I've seen too many folks learn it the hard way.
+

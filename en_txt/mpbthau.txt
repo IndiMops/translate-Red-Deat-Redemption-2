@@ -1,0 +1,158 @@
+MPBTH_INT_1 = ~z~I thought you said they'd be here?
+
+MPBTH_INT_2 = ~z~That's what I thought.
+
+MPBTH_INT_3 = ~z~Is this them?
+
+MPBTH_INT_4 = ~z~Nope.
+
+MPBTH_INT_5 = ~z~Well there they are, in the wagon.
+
+MPBTH_INT_6 = ~z~That's her.
+
+MPBTH_INT_7 = ~z~Whoa there.
+
+MPBTH_INT_8 = ~z~You all looking for the Twin Rocks Gang?
+
+MPBTH_INT_9 = ~z~Isn't everybody?
+
+MPBTH_INT_10 = ~z~I got 'em for you.
+
+MPBTH_INT_11 = ~z~In the back.
+
+MPBTH_INT_12 = ~z~Go ahead.
+
+MPBTH_INT_13 = ~z~Count them up.
+
+MPBTH_INT_14 = ~z~They're all there.
+
+MPBTH_INT_15 = ~z~God damn.
+
+MPBTH_INT_16 = ~z~One.
+
+MPBTH_INT_17 = ~z~Two.
+
+MPBTH_INT_18 = ~z~Two and a half.
+
+MPBTH_INT_19 = ~z~Let me get you your money.
+
+MPBTH_INT_20 = ~z~That's something, bringing all them boys in you know.
+
+MPBTH_INT_21 = ~z~Bounty hunting ain't so hard.
+
+MPBTH_INT_22 = ~z~Any fool can do it.
+
+MPBTH_INT_23 = ~z~I ain't so sure.
+
+MPBTH_INT_24 = ~z~How about you there.
+
+MPBTH_INT_25 = ~z~You fool enough to try?
+
+MPBTH_INT_26 = ~z~Become a bounty hunter?
+
+MPBTH_INT_27 = ~z~There's a board up at most every jail house and post office...
+
+MPBTH_INT_28 = ~z~with sheets going up regular.
+
+MPBTH_INT_29 = ~z~All you need is a license, which the Sheriff will sell you...
+
+MPBTH_INT_30 = ~z~and you can take down a poster and go.
+
+MPBTH_INT_31 = ~z~Alive gets you full price, dead a little less.
+
+MPBTH_INT_32 = ~z~You go after one of the big ones...
+
+MPBTH_INT_33 = ~z~I'll tell you what I know about 'em.
+
+MPBTH_INT_34 = ~z~As a favor.
+
+MPBTH_INT_35 = ~z~The worst that can happen is they kill you.
+
+MPBTH_INT_36 = ~z~Hey, there's only nine.
+
+MPBTH_INT_37 = ~z~I counted them twice.
+
+MPBTH_INT_38 = ~z~There was ten when I pulled up.
+
+MPBTH_INT_39 = ~z~I know you're hiding out there.
+
+MPBTH_INT_40 = ~z~You got ten seconds to turn yourself in.
+
+MPBTH_INT_41 = ~z~Ten.
+
+MPBTH_INT_42 = ~z~Nine.
+
+MPBTH_INT_43 = ~z~Eight.
+
+MPBTH_INT_44 = ~z~Seven.
+
+MPBTH_INT_45 = ~z~Six.
+
+MPBTH_INT_46 = ~z~Five.
+
+MPBTH_INT_47 = ~z~Four.
+
+MPBTH_INT_48 = ~z~Three.
+
+MPBTH_INT_49 = ~z~Oh, no.
+
+MPBTH_INT_50 = ~z~Two.
+
+MPBTH_INT_51 = ~z~No, please.
+
+MPBTH_INT_52 = ~z~One.
+
+MPBTH_INT_53 = ~z~Please, no.
+
+MPBTH_INT_54 = ~z~There's your ten.
+
+MPBTH_INT_55 = ~z~Clean it up, Archibald.
+
+MPBTH_INT_56 = ~z~If it ain't all here, I will be back.
+
+MPBTH_INT_57 = ~z~I'm sure you will.
+
+MPBTH_INT_58 = ~z~That one there might want a bounty hunting license.
+
+MPBTH_INT_59 = ~z~Help 'em out, won't you.
+
+MPBTH_INT_60 = ~z~That true?
+
+MPBTH_INT_61 = ~z~You want a license?
+
+MPBTH_INT_62 = ~z~You wanna get registered, you're gonna have to say.
+
+MPBTH_INT_63 = ~z~Well, do you or don't you?
+
+MPBTH_INT_64 = ~z~She makes it look easy, I know.
+
+MPBTH_INT_65 = ~z~But really, it ain't.
+
+MPBTH_INT_66 = ~z~Here you go then.
+
+MPBTH_INT_67 = ~z~You are now permitted to use all appropriate force...
+
+MPBTH_INT_68 = ~z~in the apprehension of outlaws in these states.
+
+MPBTH_INT_69 = ~z~You are a bounty hunter.
+
+MPBTH_INT_70 = ~z~Good luck.
+
+MPBTH_INT_71 = ~z~Okay then.
+
+MPBTH_INT_72 = ~z~Should you change your mind, you can get licensed...
+
+MPBTH_INT_73 = ~z~for the same fee wherever they hang them posters.
+
+MPBTH_INT_74 = ~z~Good luck then.
+
+MPBTH_INT_75 = ~z~Out of money, huh?
+
+MPBTH_INT_76 = ~z~Well, if you don't have it now...
+
+MPBTH_INT_77 = ~z~you can come and get a license when you do.
+
+MPBTH_INT_78 = ~z~They sell 'em wherever they hang them posters.
+
+MPBTH_INT_79 = ~z~Good luck now.
+

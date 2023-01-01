@@ -1,0 +1,40 @@
+MPODR_AIM_01 = ~z~No, no... wait!
+
+MPODR_AIM_02 = ~z~Don't! I swear I'll just go!
+
+MPODR_AIM_03 = ~z~Wait, wait, wait! You don't need to kill me.
+
+MPODR_AIM_04 = ~z~Woah, woah! Don't do it.
+
+MPODR_ALONE_01 = ~z~Oh shite, look you won, right? Enough, now take a breath.
+
+MPODR_ALONE_02 = ~z~Well you made short fecking work of us didn't ya?
+
+MPODR_ALONE_03 = ~z~Who the hell are you?
+
+MPODR_ALONE_04 = ~z~Alright now take it easy... I know when I'm beat.
+
+MPODR_COWER_01 = ~z~Hey, how about I just make tracks, eh?
+
+MPODR_COWER_02 = ~z~You just say the word, I'll hightail.
+
+MPODR_COWER_03 = ~z~You got nothing to worry about from me, I swear it.
+
+MPODR_COWER_04 = ~z~Don't keep a feller in suspense for his life now...
+
+MPODR_PLEAD_01 = ~z~Listen... how about you throw me a second chance here, huh?
+
+MPODR_PLEAD_02 = ~z~So, you gonna kill a senior O'Driscoll after he surrendered? Not so smart.
+
+MPODR_PLEAD_03 = ~z~Look here, you spare me, you won't have cause to look back.
+
+MPODR_PLEAD_04 = ~z~Don't suppose you're suddenly in a merciful mood, eh, friend?
+
+MPODR_SPARED_01 = ~z~Yes! Luck of the feckin Irish!
+
+MPODR_SPARED_02 = ~z~Phew! If this ain't a new leaf I don't know what is.
+
+MPODR_SPARED_03 = ~z~Alright then! Let me just get out of your hair, eh?
+
+MPODR_SPARED_04 = ~z~Got a merciful streak too, no less... well, thanks.
+

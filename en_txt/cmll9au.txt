@@ -1,0 +1,40 @@
+CMLL9_ACT_A_1 = ~z~So, Miss Molly O'Shea...
+
+CMLL9_ACT_A_2 = ~z~We've both come a long way from home, eh?
+
+CMLL9_ACT_A_3 = ~z~It's America, everyone's come a long way... or their parents did.
+
+CMLL9_ACT_A_4 = ~z~You didn't like me very much, do ya?
+
+CMLL9_ACT_A_5 = ~z~I don't have much opinion on you.
+
+CMLL9_ACT_A_6 = ~z~Ah, but you don't like me. I can see it in your eyes.
+
+CMLL9_ACT_A_7 = ~z~I don't know what you're talking about, Mr. Macguire.
+
+CMLL9_ACT_A_8 = ~z~But you look down your pretty little stuck up nose at me.
+
+CMLL9_ACT_A_9 = ~z~I guess I didn't come to America to meet boys who crawled out of the local bog,
+
+CMLL9_ACT_A_10 = ~z~when I could have paid them to sweep my chimneys at home.
+
+CMLL9_ACT_A_11 = ~z~I knew it. You're a snotty nosed little West Briton.
+
+CMLL9_ACT_A_12 = ~z~I am no such thing.
+
+CMLL9_ACT_A_13 = ~z~'Course you are. I see it now...
+
+CMLL9_ACT_A_14 = ~z~You probably have a family with big farmhouses and titles...
+
+CMLL9_ACT_B_1 = ~z~Ah, you're all the same.
+
+CMLL9_ACT_B_2 = ~z~Hey! Don't you spread lies about me!
+
+CMLL9_ACT_B_3 = ~z~
+
+CMLL9_ACT_B_ALT_1 = ~z~Right little madam she is, isn't she?
+
+CMLL9_ACT_B_ALT_2 = ~z~You can leave me outta this.
+
+CMLL9_ACT_B_ALT_3 = ~z~
+

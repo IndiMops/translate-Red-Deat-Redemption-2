@@ -1,0 +1,88 @@
+0x95A74A72 = Отыщите логово ~COLOR_MP_OBJECTIVE~~BLIP_OBJECTIVE~~s~ медведя Золотого Духа. Убейте находящихся рядом медведей, чтобы его выманить.
+
+0x4156FAB9 = Убейте ~COLOR_ENEMY~медведей~s~.
+
+0xBE9C7F9E = Усыпите ~COLOR_MP_OBJECTIVE~медведя Золотого Духа~s~.
+
+0xBE49E997 = Возьмите бутылки с зажигательной смесью ~1b~ и выкурите медведя Золотого Духа.
+
+0xE45E1255 = Отыщите логово ~COLOR_MP_OBJECTIVE~~BLIP_OBJECTIVE~~s~ медведя Золотого Духа. Убейте находящихся рядом браконьеров, чтобы его выманить.
+
+0xF541C015 = Отыщите логово ~COLOR_MP_OBJECTIVE~~BLIP_OBJECTIVE~~s~ пумы Сапы. Убейте браконьеров, чтобы выманить легендарную пуму.
+
+FETCH_NAT_SIGHT_BEAR_GOTO_REACHED = Нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз». Идите по следу ~1b~, чтобы узнать, что случилось с остальными браконьерами.
+
+FETCH_NAT_SIGHT_BEAR_GOTO_REACHED_KM = Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз». Идите по следу ~1b~, чтобы узнать, что случилось с остальными браконьерами.
+
+FETCH_NAT_SIGHT_BEAR_HELP_AMMO_FAKE_CLUE = Браконьер выстрелил из этого оружия в какого-то крупного зверя, но в какого именно – неизвестно.
+
+FETCH_NAT_SIGHT_BEAR_HELP_BACKPACK_FAKE_CLUE = Похоже, что этого человека съел легендарный медведь Золотой Дух, но его следов тут нет.
+
+FETCH_NAT_SIGHT_BEAR_HELP_BEAR_TRAP_REAL_CLUE = Легендарный медведь Золотой Дух попал в этот капкан, но выбрался из него. Идите по его следам.
+
+FETCH_NAT_SIGHT_BEAR_HELP_BROKEN_TENT_FAKE_CLUE = Легендарный медведь Золотой Дух напал на браконьеров, пока они спали. Куда ведут следы, неясно.
+
+FETCH_NAT_SIGHT_BEAR_HELP_CAGE_INVESTIGATE_SOUND = Найдите ~COLOR_MP_OBJECTIVE~медведя Золотого Духа~s~.
+
+FETCH_NAT_SIGHT_BEAR_HELP_DEAD_DOG_REAL_CLUE = Этот охотничий пес браконьеров пытался драться с легендарным медведем Золотым Духом. Идите по следам.
+
+FETCH_NAT_SIGHT_BEAR_HELP_DEAD_HORSE_REAL_CLUE = Легендарный медведь Золотой Дух убил эту лошадь и двинулся дальше. Едва заметный след тянется вдаль.
+
+FETCH_NAT_SIGHT_BEAR_HELP_DEAD_POACHER_REAL_CLUE = Этот браконьер не успел выстрелить, и его задрал легендарный медведь Золотой Дух. Идите по следам зверя.
+
+FETCH_NAT_SIGHT_BEAR_HELP_DYING_POACHER_REAL_CLUE = Легендарный медведь Золотой Дух ранил этого браконьера и пошел дальше. Едва заметный след тянется вдаль.
+
+FETCH_NAT_SIGHT_BEAR_HELP_FISH_FAKE_CLUE = Легендарный медведь Золотой Дух охотился здесь недавно, но его следов здесь нет.
+
+FETCH_NAT_SIGHT_BEAR_HELP_GUTS_FAKE_CLUE = Здесь недавно что-то съел медведь Золотой Дух, но его след уже остыл.
+
+FETCH_NAT_SIGHT_BEAR_HELP_HAT_FAKE_CLUE = Эта вещь принадлежала одному из браконьеров, но никаких следов тут нет.
+
+FETCH_NAT_SIGHT_BEAR_HELP_INVESTIGATE_SOUND = Найдите ~COLOR_MP_OBJECTIVE~логово~s~ медведя Золотого Духа.
+
+FETCH_NAT_SIGHT_BEAR_HELP_LOOK_AT_CLUE = Сфокусироваться на следе
+
+FETCH_NAT_SIGHT_BEAR_HELP_OBJECTIVE_DEAD = Медведь Золотой Дух усыплен. Добудьте образец.
+
+FETCH_NAT_SIGHT_BEAR_HELP_OBJECTIVE_ESCAPING = ~COLOR_MP_OBJECTIVE~Легендарный медведь Золотой Дух~s~ ушел слишком далеко и скоро сможет скрыться.
+
+FETCH_NAT_SIGHT_BEAR_HELP_POACHER_ITEM_FAKE_CLUE = Эта вещь принадлежала одному из браконьеров, след уже остыл.
+
+FETCH_NAT_SIGHT_BEAR_HELP_PRIMARY = Медведь Золотой Дух ~1b~ атаковал лагеря браконьеров. Изучите последний атакованный лагерь.
+
+FETCH_NAT_SIGHT_BEAR_HELP_SEARCH = Вы потеряли след. Нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» и поискать следы пребывания медведя Золотого Духа.
+
+FETCH_NAT_SIGHT_BEAR_HELP_SEARCH_CLUE_DEAD_END = Здесь недавно побывал медведь Золотой Дух, но его след уже остыл. Используйте «Орлиный глаз», чтобы найти еще зацепки.
+
+FETCH_NAT_SIGHT_BEAR_HELP_SEARCH_CLUE_FOUND = Вы нашли след медведя Золотого Духа. Идите по нему, чтобы найти логово медведя.
+
+FETCH_NAT_SIGHT_BEAR_HELP_SEARCH_KM = Вы потеряли след. Активируйте «Орлиный глаз», нажав ~INPUT_SPECIAL_ABILITY~, и поищите следы медведя Золотого Духа.
+
+FETCH_NAT_SIGHT_BEAR_HELP_SKIN = Чтобы добыть образец, удерживайте ~INPUT_CONTEXT_Y~.
+
+FETCH_NAT_SIGHT_BEAR_INSPECT_CLUE = Осмотреть
+
+FETCH_NAT_SIGHT_BEAR_OBJ_FIND = Идите по ~COLOR_MP_OBJECTIVE~следу~s~ медведя Золотого Духа.
+
+FETCH_NAT_SIGHT_BEAR_OBJ_GOTO = Направляйтесь ~1~.
+
+FETCH_NAT_SIGHT_BEAR_OBJ_KILL_POACHERS = Перебейте ~COLOR_ENEMY~браконьеров~s~.
+
+FETCH_NAT_SIGHT_BEAR_OBJ_LOOT = Добудьте образец ~COLOR_MP_OBJECTIVE~медведя Золотого Духа~s~.
+
+FETCH_NAT_SIGHT_BEAR_OBJ_SEARCH = Осмотрите ~COLOR_MP_OBJECTIVE~местность~s~ в поисках следов медведя Золотого Духа.
+
+FETCH_NAT_SIGHT_BEAR_RELEASE = Открыть клетку
+
+FETCH_NAT_SIGHT_BEAR_SCORETIMER_CLUE_INSPECTED = Игрок ~COLOR_MP_OBJECTIVE_FRIENDLY~~1~~s~ осмотрел следы
+
+FETCH_NAT_SIGHT_BEAR_SHARD_DESTROYED = Шкура медведя Золотого Духа повреждена
+
+FETCH_NAT_SIGHT_BEAR_SHARD_ESCAPED = Легендарный медведь Золотой Дух сбежал
+
+FETCH_NAT_SIGHT_BEAR_SHARD_PRIMARY_INTRO = Добудьте образец из медведя Золотого Духа
+
+FETCH_NAT_SIGHT_BEAR_SHARD_PRIMARY_PASS = Образец из медведя Золотого Духа получен
+
+FETCH_NAT_SIGHT_BEAR_SHARD_PRIMARY_PASS_PARTIAL = Медведь Золотой Дух освежеван
+

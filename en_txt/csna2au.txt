@@ -1,0 +1,14 @@
+CSNA2_ACTION_1 = ~z~It's good to see you again, Mr. Morgan.
+
+CSNA2_ACTION_2 = ~z~Did you miss me?
+
+CSNA2_ACTION_3 = ~z~Of course! But we've been very busy.
+
+CSNA2_ACTION_4 = ~z~Did you have fun on your adventures?
+
+CSNA2_ACTION_5 = ~z~Sure, always. But this is home.
+
+CSNA2_ACTION_6 = ~z~You're my family, Miss. Grimshaw.
+
+CSNA2_ACTION_7 = ~z~
+

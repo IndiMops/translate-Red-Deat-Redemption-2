@@ -1,0 +1,138 @@
+0x0ADAB8C9 = Some supplies have been delivered
+
+0x0F8C0283 = ~1~ delivered supplies
+
+0x1DE22032 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0x3C067305 = Deliver the supplies to the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+0x3CFE53C2 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~
+
+0x6EB03F48 = The supplies were lost
+
+0x7B4C059D = Deliver the supplies to the ~COLOR_MP_OBJECTIVE~Lockbox~s~
+
+0x7E7E1DCB = Some supplies have been stolen
+
+0x8B7F61FE = ~COLOR_ENEMY~~1~~s~ is trying to steal the supplies
+
+0x9E05B4C3 = ~COLOR_ENEMY~~1~~s~ is trying to steal the supplies
+
+0x34BB16D1 = ~COLOR_ENEMY~~1~~s~ is trying to steal the supplies
+
+0x64CB2A43 = Deliver the supplies to the ~COLOR_MP_OBJECTIVE~Lockbox~s~
+
+0x73FF6F24 = Some supplies were delivered
+
+0x93F63ADD = Your Posse delivered some supplies
+
+0x177B37A6 = Deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0x773BECAA = ~1~/~2~ supply deliveries stolen
+
+0x926C0BAF = Deliver the supplies to the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+0x1608D135 = ~1~ stole some supplies
+
+0x3067FF70 = Pick up a ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0x7250B870 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~
+
+0x312816D2 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~
+
+0x21948317 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies
+
+0xBBC77DE7 = The supplies were destroyed
+
+0xC9BE7B36 = You delivered some supplies
+
+0xCACAC982 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies
+
+0xCB6B3A25 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~
+
+0xCE8D46F3 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies
+
+0xCF12DF37 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~
+
+0xDAF5A92C = The supplies were not delivered
+
+0xDEC067EF = You stole some supplies
+
+0xE27159BA = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~
+
+0xF323F1B1 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~
+
+0xFA12F7D0 = Your Posse stole some supplies
+
+0xFC3FDB16 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~
+
+0xFD2A8973 = The supplies were delivered
+
+FETCH_DEFEND_AGAINST_HELP_HOLSTER = Holster weapons and equipment before speaking with Cripps.
+
+FETCH_DEFEND_AGAINST_HELP_INTRO = Find the supplies and deliver them to Camp ~COLOR_MP_OBJECTIVE~~BLIP_CAMP~~s~ to resume operations. Supplies returned will also add materials to Cripps Trading Co.
+
+FETCH_DEFEND_AGAINST_HELP_INTRO_PLURAL = Find the supplies and deliver them to Camp ~COLOR_MP_OBJECTIVE~~BLIP_CAMP~~s~ to resume operations. Supplies returned will also add materials to Cripps Trading Co.
+
+FETCH_DEFEND_AGAINST_OBJ_DROP = Drop the supplies
+
+FETCH_DEFEND_AGAINST_OBJ_FIND_SUPPLIES = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the supplies
+
+FETCH_DEFEND_AGAINST_OBJ_GOTO = Go to the ~COLOR_MP_OBJECTIVE~search area~s~
+
+FETCH_DEFEND_AGAINST_ONE_BAG_HELP = You can only carry one supply bag at a time.
+
+FETCH_DEFEND_AGAINST_SHARD_PACKAGE_DESC_PRIMARY = Find the supplies
+
+FETCH_DEFEND_AGAINST_SHARD_PACKAGE_DESC_PRIMARY_PLURAL = Find the supplies
+
+FETCH_DEFEND_AGAINST_SHARD_PACKAGE_OVER = The supplies were lost
+
+FETCH_DEFEND_AGAINST_SHARD_PACKAGE_OVER_PLURAL = The supplies were lost
+
+FETCH_DEFEND_AGAINST_SHARD_PACKAGE_PRIMARY_FAIL = The supplies were destroyed
+
+FETCH_DEFEND_AGAINST_SHARD_PACKAGE_PRIMARY_FAIL_PLURAL = The supplies were not delivered
+
+FETCH_DEFEND_AGAINST_SHARD_PACKAGE_PRIMARY_PASS = The supplies were delivered
+
+FETCH_DEFEND_AGAINST_SHARD_PACKAGE_PRIMARY_PASS_PARTIAL = Some supplies were delivered
+
+FETCH_DEFEND_AGAINST_SHARD_PACKAGE_PRIMARY_PASS_PLURAL = The supplies were delivered
+
+FETCH_MAIL_DEFEND_AGAINST_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Rival players~s~ can steal the supplies
+
+FETCH_MAIL_DEFEND_AGAINST_PVP_GLOBAL_SIGNAL_PLURAL = ~COLOR_ENEMY~Rival players~s~ can steal the supplies
+
+FETCH_OBJ_DEFEND_DEFEND_AGAINST_PACKAGE = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ to the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+FETCH_OBJ_DEFEND_DEFEND_AGAINST_PACKAGE_PLURAL = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ to the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+FETCH_OBJ_RETURN_DEFEND_AGAINST_PACKAGE = Deliver the supplies to the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+FETCH_OBJ_RETURN_DEFEND_AGAINST_PACKAGE_SECONDARY = Deliver the supplies to the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+FETCH_OBJ_STEAL_DEFEND_AGAINST_PACKAGE = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+FETCH_OBJ_STEAL_DEFEND_AGAINST_PACKAGE_FROM_POSSE = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~
+
+FETCH_OBJ_STEAL_DEFEND_AGAINST_PACKAGE_FROM_POSSE_PLURAL = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~
+
+FETCH_OBJ_STEAL_DEFEND_AGAINST_PACKAGE_PLURAL = Pick up one of the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+FETCH_PACKAGE_DEFEND_AGAINST_DELIVER_TEAM_PRIMARY_FAIL = ~1~ stole some supplies
+
+FETCH_PACKAGE_DEFEND_AGAINST_DELIVER_TEAM_PRIMARY_FAIL_NP = Some supplies have been stolen
+
+FETCH_PACKAGE_DEFEND_AGAINST_DELIVER_TEAM_PRIMARY_FAIL_YOU = You stole some supplies
+
+FETCH_PACKAGE_DEFEND_AGAINST_DELIVER_TEAM_PRIMARY_FAIL_YOUR = Your Posse stole some supplies
+
+FETCH_PACKAGE_DEFEND_AGAINST_DELIVER_TEAM_PRIMARY_PASS = ~1~ delivered supplies
+
+FETCH_PACKAGE_DEFEND_AGAINST_DELIVER_TEAM_PRIMARY_PASS_NP = Some supplies have been delivered
+
+FETCH_PACKAGE_DEFEND_AGAINST_DELIVER_TEAM_PRIMARY_PASS_YOU = You delivered some supplies
+
+FETCH_PACKAGE_DEFEND_AGAINST_DELIVER_TEAM_PRIMARY_PASS_YOUR = Your Posse delivered some supplies
+

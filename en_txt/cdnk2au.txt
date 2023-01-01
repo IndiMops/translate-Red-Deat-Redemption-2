@@ -1,0 +1,34 @@
+CDNK2_ACTA_1 = ~z~
+
+CDNK2_ACTA_2 = ~z~What you reading, Dutch?
+
+CDNK2_ACTA_3 = ~z~Evelyn Miller, of course.
+
+CDNK2_ACTA_4 = ~z~That old windbag?
+
+CDNK2_ACTA_INT_1 = ~z~Tell him about Evelyn Miller, Arthur.
+
+CDNK2_ACTA_INT_2 = ~z~Mostly goes over my head, Dutch. And Micah's even dumber than me.
+
+CDNK2_ACTA_INT_3 = ~z~Real funny, Arthur.
+
+CDNK2_ACTB_1 = ~z~He's no windbag, son. He is a... a seer.
+
+CDNK2_ACTB_2 = ~z~He sees things that we don't know yet.
+
+CDNK2_ACTB_3 = ~z~I know, I'm just teasing.
+
+CDNK2_ACTB_4 = ~z~You're just afraid of opening your mind because you might not like what you find.
+
+CDNK2_ACTB_5 = ~z~You're probably right...
+
+CDNK2_ACTB_6 = ~z~You know... you know you always had the most incredible way of putting things.
+
+CDNK2_ACTB_7 = ~z~Mr. Miller has the way of putting things. Me? I...
+
+CDNK2_ACTB_8 = ~z~I'm just an old outlaw, not prepared to go quietly.
+
+CDNK2_ACTB_9 = ~z~Oh, you're more than that, Dutch. You're... you're...
+
+CDNK2_ACTB_10 = ~z~Well... you're amazing.
+

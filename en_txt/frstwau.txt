@@ -1,0 +1,50 @@
+FRSTW_3_ADMITS_1 = ~z~~sl:0.0:1.0~You know what?~sl:0.5:1.0~Fine...~sl:~after all this, I'll take my chances with the rope.
+
+FRSTW_3_BEGS_01 = ~z~You gotta get me out of here! I'm begging you!
+
+FRSTW_3_BEGS_02 = ~z~Hey, you! Shoot the lock! Please, before more come!
+
+FRSTW_3_CLOSE_1 = ~z~~sl:0.0:3.5~What a field of calves to have laid on our bloody stone.~sl:~Glory be.
+
+FRSTW_3_CLOSE_2 = ~z~~sl:0.0:0.8~Please!~sl:0.4:1.4~We did what you asked!~sl:0.3~Just let me go...
+
+FRSTW_3_CLOSE_3 = ~z~Hush now.
+
+FRSTW_3_CLOSE_4 = ~z~I can hear your heart a'beating in your chest.
+
+FRSTW_3_CLOSE_5 = ~z~~sl:0.0:2.0~Just... give me another chance.~sl:0.0:4.5~I'll do anything. To anyone. I am worthy, I swear.~sl:~Just... let me live.
+
+FRSTW_3_CLOSE_6 = ~z~~sl:0.0:1.0~Don't fret...~sl:0.3~this will be over soon.
+
+FRSTW_3_CLOSE_7 = ~z~~sl:0.0:2.4~You goddamn savages!~sl:0.0:1.2~After all we did.~sl:0.9~Oh... God forgive me...
+
+FRSTW_3_DROPOFF_01 = ~z~~sl:0.0:4.0~You don't understand. We was trying to join 'em, I admit it.~sl:0.0:5.0~They told us we'd passed! Then we arrived and they...~sl:0.7~Oh God... we suffered enough, I swear!
+
+FRSTW_3_DROPOFF_02 = ~z~~sl:0.0:0.5~Please!~sl:0.5:2.0~I done some awful things, but...~sl:0.0:4.5~nothing like those animals back there. If you let me go, I swear...~sl:~I learned my lesson.
+
+FRSTW_3_FATE_01 = ~z~~sl:0.0:1.0~Shit.~sl:0.0:2.0~You're a bounty hunter, aren't you?~sl:0.0:1.5~You're here for me!~sl:~Please... just let me explain...
+
+FRSTW_3_FATE_02 = ~z~~sl:0.0:1.0~No.~sl:0.0:1.5~You're here for me?~sl:~No, please, you don't understand!
+
+FRSTW_3_FLEES_01 = ~z~Well, I ain't swinging! You can go to hell!
+
+FRSTW_3_FLEES_02 = ~z~Well, I ain't lived through this just to swing!
+
+FRSTW_3_HOGTIE_01 = ~z~~sl:0.0:1.6~You better have a fast horse!~sl:0.3~There are more of 'em, and they'll come for ya!
+
+FRSTW_3_HOGTIE_02 = ~z~~sl:0.0:0.8~You're dead!~sl:0.4~These hills are full of 'em, and they'll find you!
+
+FRSTW_3_INTENT_01 = ~z~~sl:0.0:0.6~So...~sl:0.6~How did you come to find me?
+
+FRSTW_3_INTENT_02 = ~z~~sl:0.0:0.8~So...~sl:0.3~What brings you out here, stranger?
+
+FRSTW_3_RELIEF_01 = ~z~Oh thank you, God!
+
+FRSTW_3_RELIEF_02 = ~z~Oh, God, I can't believe it...
+
+FRSTW_3_SAVIOR_1 = ~z~~sl:0.0:1.2~I gotta get home.~sl:1.2~God bless you, stranger.
+
+FRSTW_3_THANKS1_01 = ~z~~sl:0.0:2.0~Those savages killed my friends.~sl:0.5:2.5~Skinned 'em and burned 'em and...~sl:1.0~oh, God, what have I done...
+
+FRSTW_3_THANKS1_02 = ~z~~sl:0.0:2.5~They... They skinned 'em.~sl:0.5:1.5~Burned 'em alive.~sl:0.5:1.0~My friends.~sl:0.6~Oh God, the... smell.
+

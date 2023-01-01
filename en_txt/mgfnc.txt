@@ -1,0 +1,12 @@
+0x8437B881 = Heft
+
+MGFNC_B_POST = Post
+
+MGFNC_UC_PLACE = Place
+
+MGFNC_UC_POSITION = Position
+
+MGFNC_UC_POST = Pick Up
+
+MGFNC_UC_SWING = Swing
+

@@ -1,0 +1,394 @@
+FIHJ1ARVDSMT_1 = ~z~Are you getting off?
+
+FIHJ1CHT2_1 = ~z~Another small one. I'd throw that back.
+
+FIHJ1CHT_1 = ~z~He's small but might make a nice meal.
+
+FIHJ1ESC2_1 = ~z~Too bad.
+
+FIHJ1ESC_1 = ~z~Maybe next time.
+
+FIHJ1FSHDNHR_1 = ~z~Okay, it's just down the hill here.
+
+FIHJ1FSHLCTRN_1 = ~z~Off the road here.
+
+FIHJ1FSHLFT_1 = ~z~Bear left here.
+
+FIHJ1FSHRT_1 = ~z~We'll cut through to the right here.
+
+FIHJ1HOOK2_01 = ~z~Another one.
+
+FIHJ1HOOK2_02 = ~z~Let me get out of your way.
+
+FIHJ1HOOK2_03 = ~z~You're better than you let on.
+
+FIHJ1HOOK_01 = ~z~You got one!
+
+FIHJ1HOOK_02 = ~z~There you go, Arthur.
+
+FIHJ1HOOK_03 = ~z~Told you it wasn't that hard.
+
+FIHJ1JAVMNT_1 = ~z~I thought you said it wasn't far?
+
+FIHJ1JAVMNT_2 = ~z~Too far to walk, though. Yeah, come on.
+
+FIHJ1JVCLSWN_1 = ~z~Whoa! Not bad Arthur! You were close!
+
+FIHJ1JVCLSWN_2 = ~z~Ah, I blame it on the horse.
+
+FIHJ1JVCLSWN_3 = ~z~Alright, I'll see you around. I had fun today.
+
+FIHJ1JVWON_1 = ~z~I don't know what you're worse at, riding or fishing.
+
+FIHJ1JVWON_2 = ~z~Don't rub it in.
+
+FIHJ1JVWON_3 = ~z~Alright, I'll see you around, Arthur. I had fun today.
+
+FIHJ1LIFE_1 = ~z~Well I guess it's still relaxing even if I don't catch anything.
+
+FIHJ1PLCLSWN_1 = ~z~Glad my riding is better than my fishing.
+
+FIHJ1PLCLSWN_2 = ~z~You only just won.
+
+FIHJ1PLCLSWN_3 = ~z~A win is a win, my friend.
+
+FIHJ1PLCLSWN_4 = ~z~Alright, I'll see you around, Arthur. I had fun today.
+
+FIHJ1PLWON_1 = ~z~What took you so long?
+
+FIHJ1PLWON_2 = ~z~I think maybe all these fish I caught weighed me down.
+
+FIHJ1PLWON_3 = ~z~Oh sure, that was it.
+
+FIHJ1PLWON_4 = ~z~Alright, I'll see you around, Arthur. I had fun today.
+
+FIHJ1REEL2_01 = ~z~Pull to the left as he goes right.
+
+FIHJ1REEL2_02 = ~z~Slowly... slowly...
+
+FIHJ1REEL2_03 = ~z~You got this one.
+
+FIHJ1REEL_01 = ~z~He's a fighter.
+
+FIHJ1REEL_02 = ~z~Don't rush it Arthur.
+
+FIHJ1REEL_03 = ~z~Make sure he's tired before you reel in.
+
+FIHJ1_ABANDON1_1 = ~z~Hey. Where are you going?
+
+FIHJ1_ABANDON2_1 = ~z~Don't give up.
+
+FIHJ1_ABANDON3_1 = ~z~Arthur, come on. Don't leave.
+
+FIHJ1_ARTCATCH_1 = ~z~Keeping you.
+
+FIHJ1_ARTCMNT2_01 = ~z~Surprise, surprise.
+
+FIHJ1_ARTCMNT2_02 = ~z~Good for you.
+
+FIHJ1_ARTHLEAD_01 = ~z~I reckon you should stick to fishing.
+
+FIHJ1_ARTHLEAD_02 = ~z~And to think, this was your idea.
+
+FIHJ1_ARTHLEAD_03 = ~z~So much for this lightning fast horse of yours.
+
+FIHJ1_ARTHLEAD_04 = ~z~What are you doing back there, Javier?
+
+FIHJ1_ARTHLEAD_05 = ~z~Don't make this too easy on me.
+
+FIHJ1_ARTHLEAD_06 = ~z~What are you waiting for, Javier?
+
+FIHJ1_ARTRELEAS_1 = ~z~Lucky.
+
+FIHJ1_A_GO_1 = ~z~Okay, let's go.
+
+FIHJ1_A_STAY_1 = ~z~No problem, I'll see you back there.
+
+FIHJ1_CHT3_1 = ~z~Good job, Arthur.
+
+FIHJ1_CHT4_1 = ~z~Whoa! Look at that one.
+
+FIHJ1_CLM_WNT_1 = ~z~There's a spot not too far from here that I've been wanting to try out.
+
+FIHJ1_CLM_WNT_2 = ~z~Glad you're so excited about this.
+
+FIHJ1_CLM_WNT_3 = ~z~You will be too when you start pulling out smallmouth.
+
+FIHJ1_DEPART_1 = ~z~Alright, come on.
+
+FIHJ1_DPART_EVN_1 = ~z~Come on, the fish should be hungry for their dinner.
+
+FIHJ1_DPART_MRN_1 = ~z~Come on, the fish should be hungry for their breakfast.
+
+FIHJ1_EQUIP_CRK_1 = ~z~Use those crickets, Arthur, these fish love them.
+
+FIHJ1_EQUIP_FP_1 = ~z~Where's your pole, Arthur?
+
+FIHJ1_EQUIP_FP_2 = ~z~The fish won't just jump into your bag.
+
+FIHJ1_ESC3_1 = ~z~Almost got it. Don't give up... you'll get one.
+
+FIHJ1_ESC4_1 = ~z~Happens to the best of us.
+
+FIHJ1_FALLBACK_01 = ~z~You coming?
+
+FIHJ1_FALLBACK_02 = ~z~Let's get started.
+
+FIHJ1_FALLBACK_03 = ~z~Come on.
+
+FIHJ1_FLW_FSPOT_1 = ~z~Okay, come on. Let's go try our luck.
+
+FIHJ1_HOOK30_1 = ~z~Looks like a big one.
+
+FIHJ1_HOOK31_1 = ~z~I think it's a smallmouth. Hold on tight.
+
+FIHJ1_HOOK32_1 = ~z~And you're off. Hold on tight.
+
+FIHJ1_HOOK40_1 = ~z~Again.
+
+FIHJ1_HOOK41_1 = ~z~This one looks bigger than the last one.
+
+FIHJ1_HOOK42_1 = ~t~In Spanish: Very good.
+
+FIHJ1_IG1_1 = ~z~Pretty country.
+
+FIHJ1_IG1_2 = ~z~Ah, beautiful.
+
+FIHJ1_IG1_3 = ~z~Come on, let's go see what's biting.
+
+FIHJ1_IG2_1 = ~z~Not bad, you see? It's the bait.
+
+FIHJ1_IG2_2 = ~z~~sl:0.9~It ain't just the bait...
+
+FIHJ1_IG2_3 = ~z~~sl:0.0:2.8~I'm gonna head back, you wanna join me or, uh...~sl:~you keep trying for these bastards?
+
+FIHJ1_IG2_NEG_1 = ~z~Ah, I'll stay.
+
+FIHJ1_IG2_POS_1 = ~z~I'll come.
+
+FIHJ1_INT_1 = ~z~Going fishing.
+
+FIHJ1_INT_2 = ~z~The rivers round here...
+
+FIHJ1_INT_3 = ~z~famous for the small mouth bass.
+
+FIHJ1_INT_4 = ~z~Feller I met showed me of a couple of spots.
+
+FIHJ1_INT_5 = ~z~You wanna join me?
+
+FIHJ1_INT_6 = ~z~I can't fish with you...
+
+FIHJ1_INT_7 = ~z~you're far too good.
+
+FIHJ1_INT_8 = ~z~Oh, come on, come on, hey. Join me...
+
+FIHJ1_INT_9 = ~z~I'll show you a couple of my tricks.
+
+FIHJ1_INT_LI_1 = ~z~What you doing?
+
+FIHJ1_JAVLEAD_01 = ~z~You okay back there?
+
+FIHJ1_JAVLEAD_02 = ~z~You need me to slow down?
+
+FIHJ1_JAVLEAD_03 = ~z~Come on, Arthur.
+
+FIHJ1_JAVLEAD_04 = ~z~I thought you wanted to win at something, Arthur?
+
+FIHJ1_JAVLEAD_05 = ~z~Don't give up on me.
+
+FIHJ1_JAVLEAD_06 = ~z~I don't think this is your day, Arthur.
+
+FIHJ1_JVRCAST02_1 = ~z~Okay, let's try for another.
+
+FIHJ1_JVRCTCH02_1 = ~z~Look at that. That's a good-looking fish.
+
+FIHJ1_JVRCTCH02_2 = ~z~Well done.
+
+FIHJ1_JVRHOOK01_1 = ~z~Got one.
+
+FIHJ1_JVRHOOK02_1 = ~z~Another one.
+
+FIHJ1_JVRREEL01_1 = ~z~He's a fighter. Trick is to let him tire himself out.
+
+FIHJ1_JVRREEL02_01 = ~z~Come on.
+
+FIHJ1_JVRREEL02_02 = ~z~This is an angry one.
+
+FIHJ1_LANRIVER_1 = ~z~The other day, I rode down to the Lannahechee River, caught some beautiful steelhead trout.
+
+FIHJ1_LANRIVER_2 = ~z~You mean the 'Lanna-ha-see' River.
+
+FIHJ1_LANRIVER_3 = ~z~No no no no no no, no, the Lannaheche. It runs right near here.
+
+FIHJ1_LANRIVER_4 = ~z~Yeah, but it's pronounced 'Lanna-hass-e'.
+
+FIHJ1_LANRIVER_5 = ~z~Why is everything in English said differently than it's written? To make us feel stupid?
+
+FIHJ1_LANRIVER_6 = ~z~You're asking the wrong feller...
+
+FIHJ1_LEGENDSM_1 = ~z~I've heard people talk about a huge smallmouth in Lake Owanjila,
+
+FIHJ1_LEGENDSM_2 = ~z~west of Strawberry over in Big Valley.
+
+FIHJ1_LEGENDSM_3 = ~z~You'd need a lure to catch one that big, though.
+
+FIHJ1_LOOKSPOT_1 = ~z~This is the place.
+
+FIHJ1_MCS1_1 = ~z~This is fun.
+
+FIHJ1_MCS1_2 = ~z~Sorta like...
+
+FIHJ1_MCS1_3 = ~z~staring at the sky.
+
+FIHJ1_MCS1_4 = ~z~It's your bait, I think...
+
+FIHJ1_MCS1_5 = ~z~come use some of mine.
+
+FIHJ1_MCS1_6 = ~z~Ah, it's not the bait. It's me.
+
+FIHJ1_MCS1_7 = ~z~I've always been a poor fisherman.
+
+FIHJ1_MCS1_8 = ~z~Especially compared with you and Hosea.
+
+FIHJ1_MCS1_9 = ~z~Just try some of my, here...
+
+FIHJ1_MCS1_10 = ~z~crickets.
+
+FIHJ1_MCS1_11 = ~z~Thanks.
+
+FIHJ1_MIDEVNING_1 = ~z~It's getting close to night fall.
+
+FIHJ1_MIDEVNING_2 = ~z~Fish will stop feeding soon.
+
+FIHJ1_MIDEVNING_3 = ~z~Let's catch a couple more and then head back.
+
+FIHJ1_MIDEVNING_4 = ~z~My fish bag is getting full.
+
+FIHJ1_MIDMORN_1 = ~z~It's almost noon. Fish will stop biting soon.
+
+FIHJ1_MIDMORN_2 = ~z~Because of the bugs?
+
+FIHJ1_MIDMORN_3 = ~z~Yes, they only feed in the morning and evening when it is cool and the bugs are out.
+
+FIHJ1_MIDMORN_4 = ~z~So maybe we try a few more and then head back?
+
+FIHJ1_MIDMORN_5 = ~z~Fine with me.
+
+FIHJ1_MOUNTUP2_01 = ~z~Mount up then.
+
+FIHJ1_MOUNTUP2_02 = ~z~Let's go, Arthur.
+
+FIHJ1_MOUNTUP2_03 = ~z~I thought you said you were coming?
+
+FIHJ1_MOUNTUP_01 = ~z~Come on Arthur, mount up.
+
+FIHJ1_MOUNTUP_02 = ~z~Let's get going.
+
+FIHJ1_MOUNTUP_03 = ~z~Are you coming or not?
+
+FIHJ1_RACE_1 = ~z~Hey, what do you think about racing back? You can try your luck against Boaz here.
+
+FIHJ1_RACE_2 = ~z~Sure, let's do it... maybe I can win at something today.
+
+FIHJ1_REEL30_1 = ~z~Damn, he's strong.
+
+FIHJ1_REEL31_1 = ~z~Lead him in.
+
+FIHJ1_REEL32_1 = ~z~Guide him in, Arthur.
+
+FIHJ1_REEL40_1 = ~z~Fight him hard, Arthur.
+
+FIHJ1_REEL41_1 = ~z~He'll tire before you do.
+
+FIHJ1_REEL42_1 = ~z~Hold on tight.
+
+FIHJ1_REM2_1 = ~z~I was thinking, you remember that stagecoach we held up in Nevada?
+
+FIHJ1_REM2_2 = ~z~Yeah, it was a tip from that crooked lawman in Reno.
+
+FIHJ1_REM2_3 = ~z~We open the door, and it's full of women and children. Rich, but women and children.
+
+FIHJ1_REM2_4 = ~z~So we let it go... and read in the newspaper that
+
+FIHJ1_REM2_5 = ~z~the O'Driscolls robbed and killed them all the next day further down the trail.
+
+FIHJ1_REM2_6 = ~z~Yep... you know, way back in the day,
+
+FIHJ1_REM2_7 = ~z~Colm O'Driscoll and Dutch were sort of friends.
+
+FIHJ1_REM2_8 = ~z~Friends?
+
+FIHJ1_REM2_9 = ~z~Well, not friends, but they had an understanding.
+
+FIHJ1_REM2_10 = ~z~Then Colm's mean streak got meaner and Dutch...
+
+FIHJ1_REM2_11 = ~z~Dutch wanted to try to live a different way.
+
+FIHJ1_REM2_12 = ~z~And now here we are...
+
+FIHJ1_REM_1 = ~z~Time of day really can make a difference.
+
+FIHJ1_REM_2 = ~z~They feed early morning or late evening because that's when the insects are more likely to be out.
+
+FIHJ1_RIDESHOUTED_2 = ~z~Probably since we went looking for John up on that mountain.
+
+FIHJ1_RIDESHOUTED_3 = ~z~~sl:1.0~That already seems long ago... How you feeling about everything?
+
+FIHJ1_RIDESHOUTED_5 = ~z~You know... I can't even return to my country because the price on my head is so big.
+
+FIHJ1_RIDESHOUTED_7 = ~z~He sees the world the same as I do. If we have to fight, we'll fight.
+
+FIHJ1_RIDESHOUTED_9 = ~z~If we must die, we'll die... but we'll stay free.
+
+FIHJ1_RIDESHOUTED_15 = ~z~Maybe you're right.
+
+FIHJ1_RIDESPOKEN_2 = ~z~Probably since we went looking for John on the mountain.
+
+FIHJ1_RIDESPOKEN_3 = ~z~~sl:1.7~Already seems long ago... How you feeling about everything?
+
+FIHJ1_RIDESPOKEN_5 = ~z~Hey, you know... I can't even return to my country because the price on my head is so big.
+
+FIHJ1_RIDESPOKEN_7 = ~z~He sees the world the same as I do. If we have to fight, we fight.
+
+FIHJ1_RIDESPOKEN_9 = ~z~If we must die, we'll die, but... we'll stay free.
+
+FIHJ1_RIDESPOKEN_15 = ~z~~sl:1.0~Maybe you're right.
+
+FIHJ1_RIDE_1 = ~z~Been a while since we rode out, just you and me.
+
+FIHJ1_RIDE_4 = ~z~Been a strange couple of months.
+
+FIHJ1_RIDE_6 = ~z~This... this is nothing exactly new to me. And I'll always be loyal to Dutch.
+
+FIHJ1_RIDE_8 = ~z~If we have to run, we'll run.
+
+FIHJ1_RIDE_10 = ~z~And Dutch, you... you don't feel like, well... that he's doing things a little differently now?
+
+FIHJ1_RIDE_11 = ~z~You saw what happened with that girl on the ferry.
+
+FIHJ1_RIDE_12 = ~z~No fight, good or bad, is won without blood. I know that better than most.
+
+FIHJ1_RIDE_13 = ~z~I think too many people are focusing on Dutch, when they should be looking at themselves.
+
+FIHJ1_RIDE_14 = ~z~What they could have done better.
+
+FIHJ1_SMLCATCH_01 = ~z~You should let that one go, Arthur. Give it a chance to grow into something worth catching.
+
+FIHJ1_SMLCATCH_02 = ~z~That's a baby, Arthur.  No point in keeping that little feller.
+
+FIHJ1_STRTFISH_1 = ~z~You take this spot, Arthur.
+
+FIHJ1_STRTFISH_2 = ~z~I'm going to cast from over to the right there, so we're not in each other's way.
+
+FIHJ1_TOLAKE_1 = ~z~Okay, follow me.
+
+FIHJ1_TRYAGN_1 = ~z~Let's try for one more and then head back. What do you say?
+
+FIHJ1_TRYAGN_2 = ~z~That's fine with me.
+
+FIHJ1_WEATHER_1 = ~z~We're lucky we got such nice weather.
+
+FIHJ1_WEATHER_2 = ~z~But rain can be good.
+
+FIHJ1_WEATHER_3 = ~z~Sometimes big fish think the rain drops are insects.
+

@@ -1,0 +1,12 @@
+CCMCH_CNV11_A_1 = ~z~I imagine you was quite something once, Miss Grimshaw.
+
+CCMCH_CNV11_A_2 = ~z~Thank you.
+
+CCMCH_CNV11_A_3 = ~z~~sl:0.0:1.0~Yes...~sl:0.2:1.4:1~a long time ago.
+
+CCMCH_CNV11_A_4 = ~z~~sl:0.0:3.3~We all know flowers wither.~sl:0.6~Ain't no shame in it.
+
+CCMCH_CNV11_A_5 = ~z~
+
+CCMCH_CNV11_A_6 = ~z~
+

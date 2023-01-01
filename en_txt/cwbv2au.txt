@@ -1,0 +1,14 @@
+CWBV2_ACT_1 = ~z~What's wrong with you, Arthur?
+
+CWBV2_ACT_2 = ~z~~sl:0.0:1.0:1~How you mean?
+
+CWBV2_ACT_3 = ~z~~sl:0.2:0.0~Causing all this trouble just when we need to be united.
+
+CWBV2_ACT_4 = ~z~~sl:1.0:2.2~I ain't causing no trouble...~sl:0.7~I just ain't standing for any more lies.
+
+CWBV2_ACT_5 = ~z~~sl:0.4:0.0~Ain't loyalty mean nothing to you?
+
+CWBV2_ACT_6 = ~z~~sl:0.3:4.6:1~I ain't dying for whatever nonsense Micah and Dutch have concocted...
+
+CWBV2_ACT_7 = ~z~~sl:0.0:4.0~and, well... I don't matter much anymore,~sl:~but I ain't letting the women here die for that, neither.
+

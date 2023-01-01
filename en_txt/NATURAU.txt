@@ -1,0 +1,1320 @@
+MSP_TRELAWNY2_FEMALES_01 = ~z~I'd be careful with this tonic, or you'll wisp away to nothing.
+
+NATUR_AFTERANIM_01 = ~z~Did you enjoy being so close to nature?
+
+NATUR_AFTERANIM_02 = ~z~There's no going back from that experience, is there?
+
+NATUR_AFTERANIM_03 = ~z~You've been on quite a journey. Illuminating, I'm sure.
+
+NATUR_AFTERANIM_04 = ~z~~sl:0.0:2.4~Your consciousness has been heightened since your communion.~sl:~I see it shimmering around you.
+
+NATUR_AFTERANIM_05 = ~z~~sl:0.0:1.7~I'm glad to see you after your journey,~sl:~now that you're alive for the first time.
+
+NATUR_AFTERANIM_06 = ~z~~sl:0.0:1.7~Your third eye has emerged.~sl:0.2~The world is much different once you open to it.
+
+NATUR_AMBIENTR_01 = ~z~~sl:1.4~Endless beauty in this world.
+
+NATUR_AMBIENTR_02 = ~z~~sl:0.0:1.4~Wouldn't Father be amazed...~sl:0.8~all that can be done with some paper.
+
+NATUR_AMBIENTR_03 = ~z~~sl:0.0:1.8~Who could turn their back on all this?~sl:0.5~I'll never understand.
+
+NATUR_AMBIENTR_04 = ~z~So many stories in the air...
+
+NATUR_AMBIENTR_05 = ~z~~sl:0.0:1.1~Three years out here,~sl:0.3~it's gone by so fast...
+
+NATUR_AMBIENTR_06 = ~z~~sl:0.0:2.3~Just watch the world turn on by...~sl:0.6~forever...
+
+NATUR_AMBIHENN_01 = ~z~~sl:0.3:1.4~The desert to the west,~sl:0.0:1.1~the creek to the east~sl:0.0:2.3~and the forest of Tall Trees to the north.~sl:0.4~Paradise.
+
+NATUR_AMBIHENN_02 = ~z~~sl:1.1:2.8~Dry air from the west crash over me,~sl:0.0:2.6~whisper of the wide bright desert...~sl:0.5:2.6~and the lizards that sip on the moonlight.
+
+NATUR_AMBIHENN_03 = ~z~~sl:0.0:3.3~Forest, creek and desert, scrapping away...~sl:0.3~there are beautiful secrets to this land...
+
+NATUR_AMBILEM_01 = ~z~~sl:1.0~These swamps and rivers host so many creatures.
+
+NATUR_AMBILEM_02 = ~z~All this humidity brings out some fascinating personalities...
+
+NATUR_AMBILEM_03 = ~z~~sl:0.0:2.2~Very much enjoyed the alligators 'round here.~sl:0.4~More intelligent than they're given credit for.
+
+NATUR_AMBIWEST_01 = ~z~These mountains and forests hide so many things.
+
+NATUR_AMBIWEST_02 = ~z~I could soar through these forests... forever.
+
+NATUR_AMBIWEST_03 = ~z~~sl:0.0:3.3~So much activity, hidden away in this land.~sl:0.5~Their voices are nearly deafening.
+
+NATUR_ANGESC1_01 = ~z~Please don't make me warn you again about your actions.
+
+NATUR_ANGESC1_02 = ~z~~sl:0.0:1.7~I have no respect for murderers.~sl:0.2~I hope you think about that next time you kill for your meal.
+
+NATUR_ANGESC1_03 = ~z~~sl:0.0:1.2~I keep hearing about some~sl:0.0:2.9~vicious traveler bleeding my poor friends.~sl:0.3~Turns out it's you.
+
+NATUR_ANGESC1_04 = ~z~~sl:0.0:1.0~I'm warning you...~sl:0.0:2.3~don't take out whatever violence is in your heart~sl:~on these beautiful creatures.
+
+NATUR_ANGESC2_01 = ~z~Someone will need to teach you a lesson!
+
+NATUR_ANGESC2_02 = ~z~~sl:0.0:3.4~The scales of the universe will see justice for your cruelty.~sl:0.1~Mark me!
+
+NATUR_ANGESC2_03 = ~z~~sl:0.6~You're no better than Gus or the rest of them. You're worse!
+
+NATUR_ANGESC2_04 = ~z~~sl:0.0:1.5~I can't believe you!~sl:~You've scorched the earth with innocent blood.
+
+NATUR_ANGESC_01 = ~z~I know what you've been doing!
+
+NATUR_ANGESC_02 = ~z~You savage! These poor creatures have done nothing to you.
+
+NATUR_ANGESC_03 = ~z~~sl:0.0:2.0~You think I don't know when you hurt my friends?~sl:~I always know.
+
+NATUR_ANGESC_04 = ~z~~sl:0.0:2.4~You think I can't smell the blood on your hands?~sl:0.4~Disgusting.
+
+NATUR_ANIMALS_01 = ~z~Hello, my lovelies out there.
+
+NATUR_ANIMALS_02 = ~z~~sl:0.0:2.4~Oh, don't think I missed you scampering about!~sl:0.3~Someone's looking for a treat.
+
+NATUR_ANIMALS_03 = ~z~What kind of trouble are you up to there, friend?
+
+NATUR_ANIMALS_04 = ~z~Thanks for coming to say hello, friends.
+
+NATUR_ANIMALS_05 = ~z~~sl:0.0:2.4~I heard that! Are you making fun of me?~sl:1.4~Very amusing.
+
+NATUR_ANIMALS_06 = ~z~~sl:0.0:2.1~You're a gossipy bunch today!~sl:0.5~Don't worry... I can keep a secret.
+
+NATUR_ANIMCONT_1 = ~z~~sl:0.0:1.1~I think you're ready.~sl:0.68~I have something to tell you.
+
+NATUR_BOUNTYCH_01 = ~z~~sl:0.0:2.4~So, how does it feel to be hunted for sport?~sl:0.2~Not good.
+
+NATUR_BOUNTYCH_02 = ~z~~sl:0.0:1.5~I'm not sure how comfortable I am~sl:~with the price on your head.
+
+NATUR_BOUNTYCH_03 = ~z~~sl:0.0:2.0~Those bounty men are good hunters, I hear.~sl:0.4~Hopefully you're faster.
+
+NATUR_COMPEND_01 = ~z~~sl:0.0:1.8~You can always collect more samples,~sl:0.2~there's always more to learn.
+
+NATUR_COMPEND_02 = ~z~Oh you can't stop now, can you? So much more to find.
+
+NATUR_COMPEND_03 = ~z~~sl:0.0:1.3~That's a full set!~sl:0.2~A perfect time to get started on the next one.
+
+NATUR_DEADANI2_01 = ~z~~sl:0.8~No! You murderer!
+
+NATUR_DEADANI2_02 = ~z~Oh, what did you do? What did you do?
+
+NATUR_DEADANI2_03 = ~z~Oh, God! How could you?
+
+NATUR_DEADANIM_01 = ~z~~sl:0.8~I hope you didn't kill that poor thing yourself.
+
+NATUR_DEADANIM_02 = ~z~Please, please tell me you found that creature like that.
+
+NATUR_DEADANIM_03 = ~z~What, you couldn't help yourself? Disgraceful.
+
+NATUR_DEADANIM_04 = ~z~Are you trying to offend me with that? Because it's a shining success.
+
+NATUR_DEADESCAL_01 = ~z~I'm not going to warn you again about hunting.
+
+NATUR_DEADESCAL_02 = ~z~~sl:0.0:2.0~If you insist on being part of the problem,~sl:0.1~I want nothing to do with you.
+
+NATUR_DEADESCAL_03 = ~z~~sl:0.0:2.1~You just cannot change your spots, huh?~sl:0.3~I can smell your killer's blood for miles.
+
+NATUR_DEADESCAL_04 = ~z~I've about had it with this. Enough killing, enough!
+
+NATUR_DEADFINAL_01 = ~z~Again? You really have pushed too far this time!
+
+NATUR_DEADFINAL_02 = ~z~~sl:0.0:2.2~Another animal? You murderer!~sl:0.2~What is wrong with you?
+
+NATUR_EXITMENU_01 = ~z~Well if that's everything for now...
+
+NATUR_EXITMENU_02 = ~z~All set, then?
+
+NATUR_EXITMENU_03 = ~z~Was there anything else, or...
+
+NATUR_EXITMENU_04 = ~z~That's that, then.
+
+NATUR_EXITMENU_05 = ~z~Simple enough, then.
+
+NATUR_EXITMENU_06 = ~z~Okay, if that's it.
+
+NATUR_EXITMENU_07 = ~z~Alright, that's fine.
+
+NATUR_EXITMENU_08 = ~z~You're all covered, then?
+
+NATUR_EXITMENU_09 = ~z~Hopefully you didn't forget anything!
+
+NATUR_EXITMENU_10 = ~z~Okay then, thank you.
+
+NATUR_FAREWELL_01 = ~z~Good luck out there.
+
+NATUR_FAREWELL_02 = ~z~Remember to keep your heart open.
+
+NATUR_FAREWELL_03 = ~z~Just keep an open mind.
+
+NATUR_FAREWELL_04 = ~z~Good luck.
+
+NATUR_FAREWELL_05 = ~z~Trust in nature, friend. Don't forget.
+
+NATUR_FAREWELL_06 = ~z~See you soon, I hope.
+
+NATUR_FAREWELL_07 = ~z~Travel safe.
+
+NATUR_FAREWELL_08 = ~z~Take care.
+
+NATUR_GREETCALL_01 = ~z~You there, you stopping?
+
+NATUR_GREETCALL_02 = ~z~You planning to say hello, or just trot by?
+
+NATUR_GREETCALL_03 = ~z~~sl:0.0:2.8~Hey there! I don't bite, you know.~sl:~I leave that to my friends...
+
+NATUR_GREETCALL_04 = ~z~Oh, why don't you stop for a minute?
+
+NATUR_GREETFIRS_1 = ~z~Good to see you.
+
+NATUR_GREETHIGH_01 = ~z~Someone has been behaving themselves, from what I hear.
+
+NATUR_GREETHIGH_02 = ~z~You're quite the respectable figure these days, I hear.
+
+NATUR_GREETHIGH_03 = ~z~You've been on your best behavior, I'm told.
+
+NATUR_GREETHIGH_04 = ~z~~sl:0.0:2.4~You've been carrying yourself well out there.~sl:~Word travels fast.
+
+NATUR_GREETING_01 = ~z~Oh, hi there.
+
+NATUR_GREETING_02 = ~z~Oh, good to see you.
+
+NATUR_GREETING_03 = ~z~Well, hello.
+
+NATUR_GREETING_04 = ~z~Hello there.
+
+NATUR_GREETING_05 = ~z~Not a long journey, I hope.
+
+NATUR_GREETING_06 = ~z~I've been expecting you.
+
+NATUR_GREETING_07 = ~z~Oh, hi.
+
+NATUR_GREETING_08 = ~z~Hello.
+
+NATUR_GREETLOW_01 = ~z~~sl:0.0:3.0~We live by our actions and yours, well...~sl:0.5~I won't judge you on hearsay.
+
+NATUR_GREETLOW_02 = ~z~~sl:0.0:1.6~You've been cruel, haven't you?~sl:0.1~Don't bother lying, your spirit says it all.
+
+NATUR_GREETLOW_03 = ~z~~sl:0.0:2.1~You've been bad I hear, but...~sl:0.7~I suppose we're all bound by our indiscretions.
+
+NATUR_GREETLOW_04 = ~z~~sl:0.0:2.2~Someone's been causing trouble out there...~sl:0.6~but I suppose a guilt-free life is too much to ask of any of us.
+
+NATUR_HAR_MCS1_1 = ~z~You know, this connection between us...
+
+NATUR_HAR_MCS1_2 = ~z~it's developed into something quite powerful...
+
+NATUR_HAR_MCS1_3 = ~z~don't you think?
+
+NATUR_HAR_MCS1_4 = ~z~The majority of people go through life...
+
+NATUR_HAR_MCS1_5 = ~z~believing they see everything.
+
+NATUR_HAR_MCS1_6 = ~z~When in fact, they see almost nothing.
+
+NATUR_HAR_MCS1_7 = ~z~Confined by the limits of their own consciousness.
+
+NATUR_HAR_MCS1_8 = ~z~Just imagine if you could scurry as a possum.
+
+NATUR_HAR_MCS1_9 = ~z~Hop as a rabbit.
+
+NATUR_HAR_MCS1_10 = ~z~Well, I've discovered a herb.
+
+NATUR_HAR_MCS1_11 = ~z~Scarlet and amethyst flowers.
+
+NATUR_HAR_MCS1_12 = ~z~Harrietum Officinalis, is what I've named it.
+
+NATUR_HAR_MCS1_13 = ~z~If you can make contact with a vestige of the animal...
+
+NATUR_HAR_MCS1_14 = ~z~while ingesting the herb and truly opening your mind...
+
+NATUR_HAR_MCS1_15 = ~z~to its vital forces, you will be transported...
+
+NATUR_HAR_MCS1_16 = ~z~in ways you can't even begin to fathom.
+
+NATUR_HAR_MCS1_17 = ~z~Trust me.
+
+NATUR_HAR_MCS1_18 = ~z~This will open your eyes.
+
+NATUR_HAR_MCS1_19 = ~z~Be free.
+
+NATUR_HAR_MCS1_20 = ~z~I wouldn't share this information...
+
+NATUR_HAR_MCS1_21 = ~z~with anyone but you.
+
+NATUR_HOGTIED_01 = ~z~Oh my Lord. That's no animal!
+
+NATUR_HOGTIED_02 = ~z~My God, what have you killed now?
+
+NATUR_IDLE_1_01 = ~z~~sl:0.0:1.6~Don't make me feel bad.~sl:1.0~You won't even look at me?
+
+NATUR_IDLE_1_02 = ~z~~sl:0.0:2.5~What'd you expect after chewing my socks?~sl:0.8~Well fine, if that's how you'll be...
+
+NATUR_IDLE_1_03 = ~z~~sl:0.0:2.5~Please, I'm doing my best here...~sl:1.2~Fine. Let's both take a minute.
+
+NATUR_IDLE_2_01 = ~z~~sl:0.0:2.3~Come on, nobody likes a sulker.~sl:0.6~I thought we were friends.
+
+NATUR_IDLE_2_02 = ~z~~sl:0.3:2.6~Okay now, you need to eat your food.~sl:0.8~Don't you trust me?
+
+NATUR_IDLE_2_03 = ~z~~sl:0.0:2.2~It'd get better if you stopped scratching.~sl:0.8:1.6~Or fine, just ignore me.~sl:0.6~What do I know?
+
+NATUR_IDLE_3_01 = ~z~~sl:0.0:2.2~It's just for a few days.~sl:0.3~If I let you out again, you'll only run off.
+
+NATUR_IDLE_3_02 = ~z~~sl:0.0:2.7~It's not perfect, but you need to heal.~sl:0.3~We'll be laughing about this next week.
+
+NATUR_IDLE_3_03 = ~z~~sl:0.0:2.6~What do you want me to say, you little thief?~sl:0.3:1.35~It wasn't you I saw?
+
+NATUR_IDLE_4_01 = ~z~~sl:0.0:1.4~Where's that acorn?~sl:1.7~You little tinker!
+
+NATUR_IDLE_4_02 = ~z~~sl:0.0:1.4~How'd you get so clean?~sl:0.2~I saw you in that campfire soot yesterday.
+
+NATUR_IDLE_4_03 = ~z~~sl:0.0:1.5~You came to see me?~sl:0.3:1.7~You're buttering me up, aren't you?~sl:0.2~Someone's looking for a treat.
+
+NATUR_IDLE_5_01 = ~z~~sl:0.0:1.5~What did you say?~sl:2.8:2.5~Oh, I can tell you're going to be trouble.
+
+NATUR_IDLE_5_02 = ~z~~sl:0.0:1.8~You did what now?~sl:0.0:3.8~You are too sneaky, I am going to have to watch you.
+
+NATUR_IDLE_5_03 = ~z~~sl:0.0:1.7~Is that right?~sl:1.8:2.5~Well, I'll believe it when I see it,~sl:~thank you very much.
+
+NATUR_IDLE_6_01 = ~z~~sl:0.0:2.0~Well, I wasn't born yesterday.~sl:1.4~Oh, you. You are just like an otter I know.
+
+NATUR_IDLE_6_02 = ~z~~sl:0.0:2.5~I think we're going to be fast friends.~sl:0.0:3.5~Now, wait... how about I make you your favorite for dinner?
+
+NATUR_IDLE_6_03 = ~z~~sl:0.0:3.0~Oh, please, what nonsense!~sl:0.0:3.1~You'll try anything to get one over on me, won't you?~sl:0.5~Naughty.
+
+NATUR_IDLE_7_01 = ~z~~sl:0.0:4.4~Okay, okay, stop changing your mind, Harriet.~sl:1.0:2.1~Stop changing your mind.
+
+NATUR_IDLE_7_02 = ~z~~sl:0.5:0.8~What am I doing?~sl:0.9~Just, just... calm down, Harriet. Calm down...
+
+NATUR_IDLE_7_03 = ~z~~sl:0.0:2.5~Yes, yes, that'll work.~sl:0.0:3.5~Don't overthink it. Just... just write it down.~sl:0.5~Yes... write it down.
+
+NATUR_IDLE_8_01 = ~z~~sl:1.0:1.5~That's enough of that...
+
+NATUR_IDLE_8_02 = ~z~~sl:1.0:1.0~Cold!~sl:2.0:2.2~Now... where was I?
+
+NATUR_IDLE_8_03 = ~z~~sl:1.2:1.8~Little luxuries.~sl:2.0:1.0~Anyway...
+
+NATUR_IDLE_9_01 = ~z~~sl:0.0:2.5~And... yes.~sl:0.5~That should do it.
+
+NATUR_IDLE_9_02 = ~z~~sl:0.0:0.8~Good.~sl:0.7~Now, for some muddling.
+
+NATUR_IDLE_9_03 = ~z~~sl:1.7~Well, let's see if that works.
+
+NATUR_IDLINGMEN_01 = ~z~Come on now, can't hang around all day.
+
+NATUR_IDLINGMEN_02 = ~z~Well? I've met more decisive hummingbirds.
+
+NATUR_IDLINGMEN_03 = ~z~~sl:0.9~I do have quite a lot to do here.
+
+NATUR_IG6_SPRY1_1 = ~z~You've got some nerve! You think that I wouldn't find out?
+
+NATUR_IG6_SPRY1_2 = ~z~You're no better than that savage Macmillan.
+
+NATUR_IG6_SPRY2_1 = ~z~~sl:0.0:2.0~I've heard what you've been doing, they tell me...~sl:~they tell me, you know?
+
+NATUR_IG6_SPRY2_2 = ~z~~sl:0.4~Disgraceful. You should be ashamed of yourself!
+
+NATUR_IG6_SPRY3_1 = ~z~Oh, I know what you've been up to, word travels fast in the forest.
+
+NATUR_IG6_SPRY3_2 = ~z~Well... I won't stand for it.
+
+NATUR_JB_2SPHI1_1 = ~z~~sl:0.0:3.4~I've received terrible news. A new pack has been spotted...~sl:~poachers, hunters, doesn't matter what the law calls them,
+
+NATUR_JB_2SPHI1_2 = ~z~~sl:0.0:3.4~these killers are conquering every living thing they can sell for a dollar.~sl:~I've tried to commune with them, and the nerve they had!
+
+NATUR_JB_2SPHI1_3 = ~z~~sl:0.0:3.6~“We're just trying to make a living, ma'am, this is our livelihood, miss...”.~sl:~Savages! Listen...
+
+NATUR_JB_2SPHI1_4 = ~z~~sl:0.0:2.5~I understand that means can be a struggle to come by...~sl:0.5~but there are ways to earn a living that do not involve bloodshed, or cruelty.
+
+NATUR_JB_2SPHI1_5 = ~z~~sl:0.0:3.7~I think they need to learn that their barbarism costs more than they realize.~sl:0.6~Much more. Don't you?
+
+NATUR_JB_2SPHI2_1 = ~z~~sl:0.0:1.5~I am simply livid.~sl:0.0:3.8~I don't know if they're Macmillan's boys or not, but they're killers for certain,~sl:~a squadron of bloody blisters waiting to be burst.
+
+NATUR_JB_2SPHI2_2 = ~z~~sl:0.0:2.8~These men will not stop cracking away with their guns~sl:~and stinking up the air with their cheap cigarettes.
+
+NATUR_JB_2SPHI2_3 = ~z~~sl:0.0:2.9~“We're not bad fellows, we're just making money for our families.”~sl:~At what cost?
+
+NATUR_JB_2SPHI2_4 = ~z~~sl:0.0:3.6~If you would be so kind... this troupe have camped nearby,~sl:0.0:2.3~and they'll be there long enough for you to pay them a visit.~sl:~One they'll remember, if you catch my meaning.
+
+NATUR_JB_2SPHI2_5 = ~z~~sl:0.0:3.4~I am not a violent person, but they deserve what's coming their way.~sl:0.6~Will you please see that they get it?
+
+NATUR_JB_2SPHI5_1 = ~z~~sl:0.0:2.3~They're at it again... they're at it again!~sl:0.0:3.2~Some heavy-browed sadists have been galumphing around the area,~sl:~and decided to set up camp to rest easy
+
+NATUR_JB_2SPHI5_2 = ~z~while they go about their massacres. They think they're entitled to everything.
+
+NATUR_JB_2SPHI5_3 = ~z~~sl:0.0:4.6~“America is the land of opportunity, free for the taking to those willing to take it...”.~sl:~Just despicable!
+
+NATUR_JB_2SPHI5_4 = ~z~~sl:0.0:1.7~If anyone deserved to be hunted,~sl:0.0:4.2~I think you'd agree that these fine fellows have earned their place.~sl:~How would you feel about dropping by and giving them a taste of their methods?
+
+NATUR_JB_2SPHI5_5 = ~z~~sl:0.0:3.9~I will do what I can to protect this land, and the animals that call it home.~sl:~With your help, I'm confident in my success.
+
+NATUR_JB_3SNSS2_1 = ~z~~sl:0.0:2.8~Oh, I just received wonderful news from Father.~sl:0.0:3.4~His oldest cat, Theodosia, had a healthy litter last week.~sl:~I'm so happy for her.
+
+NATUR_JB_3SNSS2_2 = ~z~~sl:0.0:3.2~Theodosia has always been a hard-headed little pussy,~sl:~but I knew she wanted kittens of her own...
+
+NATUR_JB_3SNSS2_3 = ~z~~sl:0.0:2.7~I'm surprised she was willing to settle down, even for a night...~sl:0.4~must have been someone special! Okay, okay.
+
+NATUR_JB_3SNSS2_4 = ~z~~sl:0.0:4.1~It's not my business to pry, and I'm sure you're not here for idle gossip.~sl:~This rumor might be of more interest...
+
+NATUR_JB_3SNSS2_5 = ~z~~sl:0.0:2.3~an unusual animal has been spotted.~sl:0.0:3.7~I can hardly believe what I've heard, but if it's true I'll need a sample.~sl:~It could be vital to our studies.
+
+NATUR_JB_3SPHI3_1 = ~z~~sl:0.0:3.4~I've been meaning to tell you... I've made a new friend.~sl:0.0:2.8~A fox, oh, so often a fox.~sl:~I know I'm not the easiest woman to get along with,
+
+NATUR_JB_3SPHI3_2 = ~z~~sl:0.0:5.2~but this animal, well... do you know what it's like, to be seen?~sl:~To feel accepted, without reservation, for who you are?
+
+NATUR_JB_3SPHI3_3 = ~z~~sl:0.0:2.6~And now I'm just terrified that they,~sl:~a cabal of skin-hunters, have set up camp nearby.
+
+NATUR_JB_3SPHI3_4 = ~z~~sl:0.0:2.5~They'll wipe out the whole region if they aren't stopped,~sl:0.4~including my Frances...
+
+NATUR_JB_3SPHI3_5 = ~z~~sl:0.0:1.8~you'll drop in on them, won't you?~sl:0.6~You are very convincing...
+
+NATUR_JB_3SPHI6_1 = ~z~~sl:0.0:4.1~Listen, before I tell you this... don't do anything rash, okay?~sl:0.6~I was tracking this beautiful, curmudgeonly bear the other day,
+
+NATUR_JB_3SPHI6_2 = ~z~~sl:0.0:4.5~I noted his markings, I heard him complaining, and I kept my distance... but...~sl:1.2~a whole group of hunters came along, and...
+
+NATUR_JB_3SPHI6_3 = ~z~~sl:0.0:1.5~and they were following me, and...~sl:0.7~I froze. I watched the whole thing from a distance, as they...
+
+NATUR_JB_3SPHI6_4 = ~z~~sl:0.0:3.5~I... I failed, but you can make things better.~sl:~They have a camp nearby. You'll take care of it, right?
+
+NATUR_JB_3SPHI6_5 = ~z~~sl:0.0:1.7~I know I can't help that poor bear...~sl:0.5~but you can avenge its death.
+
+NATUR_JB_BSIGH1_1 = ~z~~sl:0.0:2.4~Well, I sincerely hope you've stayed~sl:~well away from that neanderthal Gus Macmillan.
+
+NATUR_JB_BSIGH1_2 = ~z~~sl:0.0:2.4~Can you imagine if he took such delight~sl:0.0:2.9~in murdering his fellow men, and displaying~sl:~their severed heads on the wall?
+
+NATUR_JB_BSIGH1_3 = ~z~~sl:0.0:3.7~He'd be straight to the noose. Anyhow...~sl:0.2:1.3~I've heard rumors of a magnificent bear~sl:~that's been seen around these parts.
+
+NATUR_JB_BSIGH1_4 = ~z~~sl:0.0:1.1~You'll know it when you see it...~sl:0.5~a fox told me.
+
+NATUR_JB_BSIGH1_5 = ~z~~sl:0.0:2.2~If you could track it down and get me a sample,~sl:0.0:2.9~I'd love to study the physiology in more detail...~sl:0.4~just, please be gentle with it?
+
+NATUR_JB_BSIGH2_1 = ~z~~sl:0.0:2.4~Oh, you won't believe what he's done now.~sl:0.4~I went to pick up a package yesterday, expecting a new endowment from Father,
+
+NATUR_JB_BSIGH2_2 = ~z~~sl:0.0:2.5~only to find a stack of dry-aged steaks,~sl:~from Macmillan, with a note saying,
+
+NATUR_JB_BSIGH2_3 = ~z~~sl:0.0:3.2~"Something to keep you going while you're fondling the fauna!".~sl:1.5~Disgusting brute.
+
+NATUR_JB_BSIGH2_4 = ~z~~sl:0.0:3.3~Anyway... there have been some sightings in various areas~sl:~of a wolf pack with a very large and impressive leader, by all accounts.
+
+NATUR_JB_BSIGH2_5 = ~z~~sl:0.0:3.9~I'd very much appreciate it if you could get me a sample... to study.~sl:0.6~I will show that man if it's the last thing I do.
+
+NATUR_JB_BSIGH3_1 = ~z~~sl:0.0:4.3~I have to tell you... I spent last night out with a pack of peccaries...~sl:~it was magical. They let me in.
+
+NATUR_JB_BSIGH3_2 = ~z~~sl:0.0:4.0~Accepted me as one of them... we laughed... and we cried...~sl:~I-I feel like I'm so close to a breakthrough, but I need more research material.
+
+NATUR_JB_BSIGH3_3 = ~z~~sl:0.0:2.6~I've heard stories of a legendary beaver,~sl:0.0:3.8~very distinctive in appearance and unusual in behavior,~sl:~that I'd love to be able to study... if you can get me a sample.
+
+NATUR_JB_BSIGH3_4 = ~z~We are doing something truly beautiful here, you and me... we truly are.
+
+NATUR_JB_SBESP3_1 = ~z~~sl:0.0:3.9~You know, sometimes I awake naked in the woods far from here,~sl:0.0:2.5~to complete and utter silence...~sl:~eerie for a moment, until I realize that I
+
+NATUR_JB_SBESP3_2 = ~z~~sl:0.0:3.7~and every living being around me are breathing as one.~sl:0.5~I must continue this work. Which is why I need your help
+
+NATUR_JB_SBESP3_3 = ~z~~sl:0.0:1.9~tracking down another sample for me,~sl:0.0:4.6~from a bear, a blonde and ferocious beast that's been wreaking havoc~sl:~in the mountains near Strawberry.
+
+NATUR_JB_SBESP3_4 = ~z~~sl:0.0:3.1~It'll be dangerous, but so valuable to our studies.~sl:0.7~They all are, aren't they?
+
+NATUR_JB_SBIGE3_1 = ~z~~sl:0.0:0.8~Listen to this...~sl:2.1:1.3~Do you know what that means?~sl:~"My name is Harriet". Isn't that wonderful?
+
+NATUR_JB_SBIGE3_2 = ~z~~sl:0.0:4.1~To think, all those years I wasted learning French when I could have been out here.~sl:1.3~We must push on with our research.
+
+NATUR_JB_SBIGE3_3 = ~z~~sl:0.0:2.5~So, there's a bison I've been hearing about,~sl:0.0:2.7~a formidable specimen if the rumors are true.~sl:0.6~I'd very much like to study its physiology if you can get me a sample?
+
+NATUR_JB_SBIGE3_4 = ~z~~sl:0.0:2.2~Doesn't this make you feel good?~sl:~Hunting humanely in the name of science? It really does.
+
+NATUR_JB_SBISP2_1 = ~z~~sl:0.0:3.4~Finally, someone not here to mock me. I hope.~sl:0.5~The arrogance of people.
+
+NATUR_JB_SBISP2_2 = ~z~~sl:0.0:3.3~The blind refusal to entertain the idea that there is something~sl:~outside our meagre understanding, that maybe, just maybe,
+
+NATUR_JB_SBISP2_3 = ~z~~sl:0.0:3.3~our minds exist beyond us in a shared consciousness!~sl:0.6~It's just frustrating. Anyhow...
+
+NATUR_JB_SBISP2_4 = ~z~~sl:0.0:3.4~apparently there's a herd of bison led by a striking red Payta~sl:0.0:3.5~roaming the Little Creek valley, which sounds like a perfect specimen~sl:~to round out my bison studies!
+
+NATUR_JB_SBISP2_5 = ~z~~sl:0.0:2.5~I hear there are some good vantage points over the valley,~sl:~and look for signs of tree rubbing. They love to scratch.
+
+NATUR_JB_SBOGE2_1 = ~z~~sl:0.0:2.0~The things people say to me...~sl:0.0:2.1~Not you. I mean, do I smell?~sl:0.4~A-actually, don't answer that. I bathe with sap in the river,
+
+NATUR_JB_SBOGE2_2 = ~z~~sl:0.0:4.0~pick my teeth regularly with reeds and twigs. I'm as clean as nature intended.~sl:0.5~Who decided that a woman needs to cover herself in
+
+NATUR_JB_SBOGE2_3 = ~z~~sl:0.0:1.9~artificial powder and fragrance?~sl:0.7:1.0~It's all such a scam.~sl:0.5~Anyway, we can discuss the commercialization of personal hygiene another time.
+
+NATUR_JB_SBOGE2_4 = ~z~I've been hearing about a rare boar, not of the Gus Macmillan kind...
+
+NATUR_JB_SBOGE2_5 = ~z~~sl:0.0:3.2~B-O-A-R... a striking and powerful animal,~sl:0.6~could you track it and get me a sample?
+
+NATUR_JB_SBOSP3_1 = ~z~~sl:0.0:4.5~There was a young pig from Racine. Whose botanical interests were keen.~sl:~He planted a sock. In a bright window box.
+
+NATUR_JB_SBOSP3_2 = ~z~~sl:0.0:2.1~Where it blossomed and sprouted a bean.~sl:2.1:2.1~I don't know why t-that came into my head...~sl:~Oh, yes I do. The boar. I almost forgot.
+
+NATUR_JB_SBOSP3_3 = ~z~~sl:0.0:3.8~A beautiful black and white Icahi piebald that's been spotted~sl:~in the vicinity of MacFarlane's Ranch and Thieves Landing,
+
+NATUR_JB_SBOSP3_4 = ~z~~sl:0.0:2.9~which has attracted the interest of local hunters.~sl:0.5~I was thinking perhaps you could try to beat them to it? I'd love a sample.
+
+NATUR_JB_SBUGE3_1 = ~z~~sl:0.0:2.9~I had a wonderful experience last night...~sl:0.0:4.1~a group of chipmunks, a scurry of chipmunks, I should say...~sl:~sensed I was cold, and came to sleep with me.
+
+NATUR_JB_SBUGE3_2 = ~z~~sl:0.0:2.5~Such a gentle and generous act.~sl:0.6:3.0~We cannot abandon this work, it's too important.~sl:0.7~But... I'm short on deer samples.
+
+NATUR_JB_SBUGE3_3 = ~z~~sl:0.0:4.4~There have been sightings of an impressive buck that should make interesting study material,~sl:~if you think you can track it down for me?
+
+NATUR_JB_SBUGE3_4 = ~z~~sl:0.0:2.7~If we keep pushing, and work together...~sl:~there's really no knowing how far this journey will take us.
+
+NATUR_JB_SBUSP2_1 = ~z~~sl:0.0:3.6~I hear Macmillan's murder for hire business continues to grow.~sl:0.0:1.8~I should pay someone to kill him.~sl:0.4~I'm joking, of course.
+
+NATUR_JB_SBUSP2_2 = ~z~~sl:0.0:4.7~I would never sink to his level. It's just the greed and arrogance of that man.~sl:~These are sentient beings, with complex emotions!
+
+NATUR_JB_SBUSP2_3 = ~z~~sl:0.7:1.2~Such a struggle sometimes.~sl:0.6:1.7~But I was hoping you'd come by...~sl:~a man was telling me he was in Annesburg recently, and overheard some loggers there
+
+NATUR_JB_SBUSP2_4 = ~z~~sl:0.0:2.5~talking about a very unusual looking deer.~sl:~Sounds like maybe a Shadow Buck. Worth some further investigation at least?
+
+NATUR_JB_SBUSP2_5 = ~z~Together, I know we can do this. We can't give up.
+
+NATUR_JB_SBVSP2_1 = ~z~~sl:0.0:2.6~Well, the murderers are out in force again.~sl:0.4~There have been rumors in Van Horn about some men coming in to hunt a rare beaver that
+
+NATUR_JB_SBVSP2_2 = ~z~~sl:0.0:2.7~Gus Macmillan has put up a bounty for.~sl:~Another pelt that he'll probably just turn into a pair of gloves,
+
+NATUR_JB_SBVSP2_3 = ~z~~sl:0.0:2.0~and sell for an obscene amount of money.~sl:1.2~That man's greed! But, anyway. It does sound like a spectacular creature.
+
+NATUR_JB_SBVSP2_4 = ~z~~sl:0.0:4.6~A Night Beaver. Beautiful, jet black... a perfect specimen for my studies.~sl:0.4~Apparently, these men will be arriving by train into Annesburg.
+
+NATUR_JB_SBVSP2_5 = ~z~Maybe if you follow them, you can get to this poor beaver before they do.
+
+NATUR_JB_SCOGE2_1 = ~z~~sl:0.0:4.1~Yes, I'm still here. Crazy Harriet. That's what they call me.~sl:~But every pioneer seems crazy, it's the cross we bear.
+
+NATUR_JB_SCOGE2_2 = ~z~It amazes me how many people accept without question a higher power,
+
+NATUR_JB_SCOGE2_3 = ~z~~sl:0.0:4.6~but not the possibility of hidden rhythms within nature that connect us all.~sl:0.9:0.9~I could just scream.~sl:0.6~Well, I can't allow them to get to me. This work is too important.
+
+NATUR_JB_SCOGE2_4 = ~z~~sl:0.0:2.6~To that end, I spotted a cougar the other day,~sl:~one of the most impressive examples I've ever laid eyes on.
+
+NATUR_JB_SCOGE2_5 = ~z~~sl:0.0:2.7~Do you think you could track it down and prize a sample,~sl:~humanely of course? I'll show them who's really crazy.
+
+NATUR_JB_SCOSP3_1 = ~z~~sl:0.0:1.5~I know I shouldn't generalize,~sl:0.0:3.8~but the vole is really a rather fickle creature, don't you find?~sl:0.5~Best friend one day, a stranger the next.
+
+NATUR_JB_SCOSP3_2 = ~z~~sl:0.0:3.9~I mean I see it as a sign of intelligence more than anything else... No?~sl:0.6~Anyway, a conversation for another day.
+
+NATUR_JB_SCOSP3_3 = ~z~~sl:0.0:3.9~I just heard some livestock in New Austin were wiped out by a vicious predator~sl:~that sounds to me like it could be a rare Sapa Cougar.
+
+NATUR_JB_SCOSP3_4 = ~z~~sl:0.0:2.1~Do you think you could go and check it out for me?~sl:0.5:3.8~If we keep working together like this, we will have a breakthrough.~sl:0.7~I know it.
+
+NATUR_JB_SCYGE2_1 = ~z~~sl:0.0:0.9~What a day.~sl:0.4:3.0~I found a coyote I know... or knew, I should say.~sl:0.4~Torso blown wide open and just left there,
+
+NATUR_JB_SCYGE2_2 = ~z~~sl:0.0:3.2~presumably because the pelt was too damaged to be usable.~sl:0.4~The world has lost another beautiful soul, and for what?
+
+NATUR_JB_SCYGE2_3 = ~z~~sl:0.0:3.8~Murdered and left in the dirt to rot! Oh, it makes me so angry!~sl:0.8~Anyway, there's another coyote, alive as far as I know.
+
+NATUR_JB_SCYGE2_4 = ~z~~sl:0.0:2.6~Muscular and quite unusual in appearance.~sl:~If you could find a way to subdue it and get me a sample,
+
+NATUR_JB_SCYGE2_5 = ~z~~sl:0.0:1.4~I can study it in more detail.~sl:0.6~I'll find a way to convince people to stop all this mindless killing.
+
+NATUR_JB_SCYSP1_1 = ~z~~sl:0.0:3.1~You know, I seem to spend half my time out here trying to~sl:~apologize to my brothers and sisters for the sins of my species.
+
+NATUR_JB_SCYSP1_2 = ~z~~sl:0.0:3.2~What gives us the right to destroy life on a whim,~sl:0.0:2.5~with complete impunity, and where will it end?~sl:~Fifty? A hundred years from now? Ever?
+
+NATUR_JB_SCYSP1_3 = ~z~~sl:0.0:2.9~Well, there have been reports of a coyote leading its pack~sl:~on a rampage through the town of Blackwater.
+
+NATUR_JB_SCYSP1_4 = ~z~~sl:0.0:2.0~Revenge? Who can say...~sl:~but it sounds as unique as it is ferocious, white with blue eyes.
+
+NATUR_JB_SCYSP1_5 = ~z~~sl:0.0:2.2~Do you think you could track it and get me a sample?~sl:0.5~Before it's another head on someone's wall.
+
+NATUR_JB_SELSP3_1 = ~z~~sl:0.0:4.0~I have to tell you something... a coyote came into my camp last night,~sl:0.0:2.4~and what began as something of a standoff...~sl:0.4~ended as something quite magical.
+
+NATUR_JB_SELSP3_2 = ~z~~sl:0.0:2.2~An exchange of emotional gifts.~sl:0.5~It's truly amazing what we can achieve when we think outside ourselves.
+
+NATUR_JB_SELSP3_3 = ~z~~sl:0.0:3.8~Anyway, more importantly... or maybe less importantly,~sl:~a legendary white Inahme Elk has been spotted in the Grizzlies north of Colter.
+
+NATUR_JB_SELSP3_4 = ~z~~sl:0.0:3.0~Could you go and see if you can track it down and gather a sample?~sl:0.4~Dress warmly, though, I don't want you freezing to death.
+
+NATUR_JB_SFXSP3_1 = ~z~~sl:0.0:2.0~Have you ever sang to a fox?~sl:0.0:3.6~Sang while you looked deep into its eyes? It's quite beautiful.~sl:~It's like an invisible barrier melts away,
+
+NATUR_JB_SFXSP3_2 = ~z~~sl:0.0:3.4~and in that moment there is trust. Complete trust.~sl:0.5~Anyway, I've been hearing stories about a fox that been spotted in Saint Denis and Rhodes,
+
+NATUR_JB_SFXSP3_3 = ~z~~sl:0.0:3.4~with very unusual coloring. Something of a local legend.~sl:0.5:3.3~Only comes out at night and in thick fog, apparently.~sl:~Sounds very intelligent,
+
+NATUR_JB_SFXSP3_4 = ~z~~sl:0.0:3.0~I'd quite like to study it, if you think you might be able to track it down.~sl:0.7:1.7~I wouldn't sing to this one, though.
+
+NATUR_JB_SIAGE2_1 = ~z~~sl:0.0:2.7~I thought for a second you were those campers back again...~sl:~horrible men, drinking, cursing, roasting all manner of meat on the fire. Disgusting.
+
+NATUR_JB_SIAGE2_2 = ~z~~sl:0.0:2.3~These creatures are our brothers and sisters...~sl:~it's really no different from cannibalism when you think about it.
+
+NATUR_JB_SIAGE2_3 = ~z~~sl:2.1:1.1~It makes me so angry.~sl:0.5~Anyhow, one thing I heard them talking about was an alligator they'd spotted.
+
+NATUR_JB_SIAGE2_4 = ~z~~sl:0.0:4.1~Unlike anything they'd ever seen before in terms of size and markings, apparently.~sl:~I'd be very interested in studying its biology, if you think you could...
+
+NATUR_JB_SIAGE2_5 = ~z~~sl:0.0:1.9~track it down and get a sample?~sl:0.4~If other people only understood what I do.
+
+NATUR_JB_SIASP1_1 = ~z~~sl:0.0:1.7~Well, you won't believe what I've~sl:0.0:1.8~just been reading in the newspaper...~sl:0.0:1.6~apparently the new accessory du jour~sl:~for the lady this year is the alligator handbag.
+
+NATUR_JB_SIASP1_2 = ~z~~sl:0.0:3.4~Murdering these noble, prehistoric creatures for fashion?~sl:0.4:1.7~Would they wear one made of human skin?~sl:~I highly doubt it.
+
+NATUR_JB_SIASP1_3 = ~z~~sl:0.9:0.7~Anyway...~sl:0.5:3.0~there have been some sightings of a spectacular crocodilian~sl:~near an estate in Saint Denis.
+
+NATUR_JB_SIASP1_4 = ~z~~sl:0.0:1.0~A Banded Gator.~sl:~Beautiful red and white markings, by all accounts.
+
+NATUR_JB_SIASP1_5 = ~z~~sl:0.0:1.4~If you could source me a sample,~sl:0.0:1.5~I'd very much like to study it...~sl:0.0:~Before some brute turns it into a wallet, or pair of slippers.
+
+NATUR_JB_SIEGE1_1 = ~z~~sl:0.0:2.0~Sorry if I'm a little flustered...~sl:0.0:1.9~I just received a letter from my sister...~sl:~saying that I'm an embarrassment to the Davenport name...
+
+NATUR_JB_SIEGE1_2 = ~z~~sl:0.0:2.7~that I should be getting married and starting a family.~sl:~She's the embarrassment, not me! I'm on a voyage of discovery.
+
+NATUR_JB_SIEGE1_3 = ~z~~sl:0.0:4.2~Anyway, talking of which... some travelers were telling me about an elk,~sl:~that's become quite legendary by all accounts.
+
+NATUR_JB_SIEGE1_4 = ~z~Unique in appearance and size.
+
+NATUR_JB_SIEGE1_5 = ~z~~sl:0.0:2.6~If you could track it down and source me a sample,~sl:0.0:2.6~it sounds like a very interesting animal to study.~sl:0.4~Just please... treat it with kindness.
+
+NATUR_JB_SIFGE1_1 = ~z~~sl:0.0:4.1~I just can't believe how many people Gus Macmillan has working for him now.~sl:~And I very much hope that you're not one of them.
+
+NATUR_JB_SIFGE1_2 = ~z~~sl:0.0:2.8~It's nothing more than a mass murder for hire scheme,~sl:0.0:1.9~lining his pockets with blood money.~sl:~He should be hanged and quartered!
+
+NATUR_JB_SIFGE1_3 = ~z~~sl:0.0:3.3~Anyway, I can't allow myself to get too worked up by that boor.~sl:~So... in better news, I spotted a spectacular fox the other day,
+
+NATUR_JB_SIFGE1_4 = ~z~one of the most striking I've ever seen.
+
+NATUR_JB_SIFGE1_5 = ~z~~sl:0.0:3.2~I'm very keen to find out more about its genetics,~sl:0.0:1.2~if you can bring me a sample.~sl:0.5~Just... please don't hurt it.
+
+NATUR_JB_SIMSP2_1 = ~z~~sl:0.0:2.8~So, I ran into Gus Macmillan again.~sl:0.0:2.5~How that man delights in tormenting me.~sl:~Now he has his sights on a new trophy,
+
+NATUR_JB_SIMSP2_2 = ~z~~sl:0.0:3.3~a rare moose that he wants to slaughter and turn into slippers~sl:~or belts or whatever it is he does to make his blood money.
+
+NATUR_JB_SIMSP2_3 = ~z~~sl:0.0:2.1~Oh, he makes me sick!~sl:1.5:3.7~Anyway, this moose is apparently a spectacular specimen.~sl:~Cream with red antlers.
+
+NATUR_JB_SIMSP2_4 = ~z~~sl:0.0:3.6~I was hoping maybe you could try get to it before Macmillan's hunters do and...~sl:0.4~gather some information for me?
+
+NATUR_JB_SIMSP2_5 = ~z~We should be learning from these animals... not destroying them.
+
+NATUR_JB_SIPGE1_1 = ~z~~sl:0.0:2.0~I was starting to worry that Gus Macmillan~sl:0.0:2.7~might have lured you into his vile profiteering,~sl:~a man whom, I recently heard,
+
+NATUR_JB_SIPGE1_2 = ~z~~sl:0.0:2.9~once slaughtered twenty elephants in Africa~sl:0.0:1.4~just because he lost a drunken bet.~sl:0.5~One day this will all come back to him!
+
+NATUR_JB_SIPGE1_3 = ~z~So... I've been hearing about a panther, that no doubt he's got his eyes on, too.
+
+NATUR_JB_SIPGE1_4 = ~z~~sl:0.0:3.7~A majestic creature... if the reports are to be believed.~sl:~I'd be interested to do some genetic analysis on such a distinctive example,
+
+NATUR_JB_SIPGE1_5 = ~z~~sl:0.0:1.9~if you could track it down and get me a sample?~sl:0.5~I will pay you for your efforts, of course.
+
+NATUR_JB_SIRGE2_1 = ~z~~sl:0.0:2.2~Well, I should have seen it coming.~sl:0.0:2.1~Mother's now threatening to cancel my endowment,~sl:~solely because I refused to come home for Thanksgiving this year.
+
+NATUR_JB_SIRGE2_2 = ~z~~sl:0.0:4.2~I know she just wants to sit me next to that silly young doctor again.~sl:0.4~When will they understand the impact of what I'm doing out here?
+
+NATUR_JB_SIRGE2_3 = ~z~~sl:0.7:1.0~It makes me so mad!~sl:0.6:4.2~Sorry, I shouldn't vent. It's just you're one of the few who understands.~sl:~And this is good timing...
+
+NATUR_JB_SIRGE2_4 = ~z~~sl:0.0:2.7~I just heard about a ram that's been spotted,~sl:~a quite rare example if the rumors are true.
+
+NATUR_JB_SIRGE2_5 = ~z~~sl:0.0:1.8~Do you think you could try to track it and get me a sample?~sl:0.4~The work must go on.
+
+NATUR_JB_SIRSP1_1 = ~z~~sl:0.0:2.4~Have you been hearing about this ram in New Austin?~sl:0.4~Apparently, all number of people are out trying to track it and kill the poor thing...
+
+NATUR_JB_SIRSP1_2 = ~z~~sl:0.0:1.6~just because it showed some aggression.~sl:0.4:1.5~It's probably just defending itself.~sl:0.5~And what is more aggressive than a man with a gun?
+
+NATUR_JB_SIRSP1_3 = ~z~~sl:0.0:3.3~Anyway, it sounds like a truly spectacular animal.~sl:~A Rutile Horn. Jet black, impressive size, and very intelligent.
+
+NATUR_JB_SIRSP1_4 = ~z~~sl:0.0:3.4~Rumors is, it's been luring ovines away from other herds,~sl:~which is very unusual.
+
+NATUR_JB_SIRSP1_5 = ~z~~sl:0.0:2.4~It was spotted passing north of Venter's Place.~sl:~I'd love to study it, if you can get me a sample?
+
+NATUR_JB_SMOGE3_1 = ~z~~sl:0.0:1.7~Oh, before I forget...~sl:0.0:3.6~I've been consuming a woodpecker diet for the past couple of days...~sl:~and just made a delicious acorn and pine nut goulash.
+
+NATUR_JB_SMOGE3_2 = ~z~~sl:0.0:4.6~If you ever want the recipe. It's so important to eat as they do.~sl:0.5:1.4~Anyhow, onto business.~sl:0.4~A moose sighting, sounds like a rare one,
+
+NATUR_JB_SMOGE3_3 = ~z~~sl:0.0:2.2~certainly an impressive size.~sl:~Could you see if you can track it down and get a sample before it ends up on some hunter's wall?
+
+NATUR_JB_SMOGE3_4 = ~z~~sl:0.0:2.4~We're becoming quite the team, you and me.~sl:0.5~Quite the team.
+
+NATUR_JB_SNSS1_1 = ~z~~sl:0.0:2.0~Have you felt the air recently?~sl:~Not its wind, but its energy. The air itself.
+
+NATUR_JB_SNSS1_2 = ~z~~sl:0.0:2.2~All of life is caught up within it,~sl:0.0:3.2~a potent and ever-expanding web all around us...~sl:~you can reach out and touch it.
+
+NATUR_JB_SNSS1_3 = ~z~~sl:0.0:1.8~What? Don't you laugh!~sl:0.0:2.3~This world around us, everything is connected.~sl:0.5~You must accept that...
+
+NATUR_JB_SNSS1_4 = ~z~Perhaps this rare and beautiful animal will help convince you.
+
+NATUR_JB_SNSS1_5 = ~z~~sl:0.0:3.9~Find it, commune with it, and get me a sample.~sl:0.0:1.1~I need to know more.~sl:0.4:1.4~You need to know more, too.
+
+NATUR_JB_SNSS2_1 = ~z~~sl:0.0:3.8~Listen to this. Simply unbelievable. I was collecting firewood,~sl:~careful not to dislodge anyone from their homes,
+
+NATUR_JB_SNSS2_2 = ~z~~sl:0.0:2.4~when I turn and am greeted by some man,~sl:~bedecked in a mass of animal skins, who thinks fit to lecture me.
+
+NATUR_JB_SNSS2_3 = ~z~~sl:0.0:3.9~“You know this here's a habitat, ma'am. You could be upsetting the animals.”~sl:~The nerve! Him telling me my business...
+
+NATUR_JB_SNSS2_4 = ~z~~sl:0.0:4.7~But anyway, that 'expert naturalist' also said he was on the lookout~sl:~for some rare creature that had migrated recently.
+
+NATUR_JB_SNSS2_5 = ~z~~sl:0.0:1.9~Why don't you see if you could find it first?~sl:0.5~I don't trust that man's intentions for a second.
+
+NATUR_JB_SPASP2_1 = ~z~~sl:0.0:0.8~You know...~sl:0.0:4.2~I think back to when we first met, and I still can't get over the image of~sl:~Macmillan walking down those stairs, with that
+
+NATUR_JB_SPASP2_2 = ~z~~sl:0.0:2.5~poor panther slung over his shoulder.~sl:0.4~How smug and proud he looked, parading a corpse like a badge of honor...
+
+NATUR_JB_SPASP2_3 = ~z~~sl:0.0:2.4~Who does that? It's so infuriating.~sl:0.5:5.7~Anyway... I was reminded of this by reports of another panther active around Braithwaite manor.~sl:~An Iwakta.
+
+NATUR_JB_SPASP2_4 = ~z~Rare markings and majestic in stature, but very aggressive, I hear.
+
+NATUR_JB_SPASP2_5 = ~z~~sl:0.0:1.9~Could you try to locate it and get me a sample~sl:~before someone inevitably guns it down?
+
+NATUR_JB_SPHI1_1 = ~z~~sl:0.0:2.6~You know, this is profound work we're doing.~sl:0.4~This project may seem insignificant, but in time
+
+NATUR_JB_SPHI1_2 = ~z~~sl:0.0:2.6~we'll push these greedy killers to the margins,~sl:0.0:3.3~and they'll hang portraits of us on every wall in Congress.~sl:0.4~Mark those words.
+
+NATUR_JB_SPHI1_3 = ~z~~sl:0.0:2.1~Until that day, however...~sl:~those killers have set up camp nearby and are having their way with the local population.
+
+NATUR_JB_SPHI1_4 = ~z~~sl:0.0:1.6~You've got to take care of this.~sl:0.4~Don't worry, they'll never suspect a thing.
+
+NATUR_JB_SPHI1_5 = ~z~~sl:0.0:2.5~Men like that... oh, I could just wring their necks!~sl:0.5:1.8~But I'll leave that to you instead.~sl:0.7~Thank you.
+
+NATUR_JB_SPHI4_1 = ~z~~sl:0.0:1.1~We're in a war here.~sl:0.4~Gus Macmillan and his philistine horde are one spearpoint in an army of invaders
+
+NATUR_JB_SPHI4_2 = ~z~~sl:0.0:3.7~that want to rip this land up by its roots and plaster the ruins~sl:~with cheap houses and totems of their barbary. That can't happen.
+
+NATUR_JB_SPHI4_3 = ~z~~sl:0.0:2.6~A regiment of Macmillan's horde have settled in the area~sl:0.0:3.2~and are claiming the local wildlife as their prize.~sl:0.4~I need you to strike back.
+
+NATUR_JB_SPHI4_4 = ~z~~sl:0.0:2.3~I need you to remind Gus and his dead-eyed brutes~sl:~what it feels like to be on the receiving end.
+
+NATUR_JB_SPHI4_5 = ~z~~sl:0.0:2.9~Just be careful what gets caught in the crossfire...~sl:0.6~this war is already too costly.
+
+NATUR_JB_SPHI7_1 = ~z~~sl:0.0:1.3~You don't eat meat, do you?~sl:0.6~Just the other day, I had a fascinating interaction with a cougar,
+
+NATUR_JB_SPHI7_2 = ~z~~sl:0.0:2.7~who communicated to me in no uncertain terms~sl:~that she wished she could just live off fruits and seeds.
+
+NATUR_JB_SPHI7_3 = ~z~~sl:0.0:2.5~Imagine peeking round a bush and catching a cougar~sl:0.0:1.4~with a mouth full of blueberries!~sl:1.1~She doesn't have a choice.
+
+NATUR_JB_SPHI7_4 = ~z~~sl:0.0:3.8~But we do, which means we have a responsibility... you know that.~sl:~That's not why you're here. You're here because we have work to do.
+
+NATUR_JB_SPHI7_5 = ~z~~sl:0.0:2.1~Some poachers have made camp close by.~sl:0.4:2.7~If we can strike back, teach them a lesson...~sl:~maybe reduce some of this mindless killing.
+
+NATUR_JB_SWOSP3_1 = ~z~~sl:0.0:3.5~I have to tell you... if you never tried touching fresh dung,~sl:0.0:1.1~when it's still warm...~sl:~the reverberations you feel, it's like a beating heart.
+
+NATUR_JB_SWOSP3_2 = ~z~~sl:0.0:2.2~And even more so when it's an animal I know.~sl:0.5~Every day I'm discovering new connections, but I need more research material.
+
+NATUR_JB_SWOSP3_3 = ~z~~sl:0.0:4.0~There have been reports of an unusually aggressive wolf pack up in the Grizzlies,~sl:~led by a large white Moonstone, an animal I'd very much like to study.
+
+NATUR_JB_SWOSP3_4 = ~z~~sl:0.0:5.2~I know it's a lot to ask, but we are making discoveries that will live on forever.~sl:0.6~I truly believe that.
+
+NATUR_LEGENHOOD_01 = ~z~How could you support that monster Gus?
+
+NATUR_LEGENHOOD_02 = ~z~~sl:0.0:1.9~What are you wearing?~sl:~How could you?
+
+NATUR_LEGENHOOD_03 = ~z~~sl:0.0:1.6~Have you no shame?~sl:0.0:1.4~Treating that beautiful creature~sl:~like a bolt of cloth. It's terrible.
+
+NATUR_LEGENHOOD_04 = ~z~~sl:0.0:2.1~I can barely look at you in those bloodrags.~sl:0.4~Would you dress in a human skin, too?
+
+NATUR_MENUACC_01 = ~z~So much to discover out there.
+
+NATUR_MENUACC_02 = ~z~~sl:0.0:1.8~I've been studying my whole life,~sl:~and bats still see more than me.
+
+NATUR_MENUACC_03 = ~z~~sl:0.0:2.9~There are no wrong answers, only questions,~sl:~and more questions. Truth is an idea, not a goal.
+
+NATUR_MENUACC_04 = ~z~~sl:0.0:1.0~You're conflicted.~sl:0.0:2.2~I see the lashings around you,~sl:~every one pulling in another direction...
+
+NATUR_MENUACC_05 = ~z~~sl:0.0:1.7~It's amazing to think that right now~sl:~we're only seeing and hearing a mere fraction of what's around us.
+
+NATUR_MENUACC_06 = ~z~~sl:0.0:3.3~I've been enjoying the most spectacular berries.~sl:~There's so much food out here if you're willing to forage.
+
+NATUR_MENUACC_07 = ~z~I'd offer you some acorns but I just ran out.
+
+NATUR_MENUACC_08 = ~z~~sl:0.0:3.6~How anyone could be bored with all this out their window...~sl:~I'll never understand.
+
+NATUR_MENUACC_09 = ~z~Every day is a new journey.
+
+NATUR_MENUACC_10 = ~z~~sl:0.0:2.2~Take your time. The answer will come.~sl:~It always does.
+
+NATUR_MENUGEN_01 = ~z~Looking for some more guidance?
+
+NATUR_MENUGEN_02 = ~z~~sl:0.0:2.2~Pushing on the boundaries of consciousness.~sl:~Very good.
+
+NATUR_MENUGEN_03 = ~z~~sl:0.0:2.3~You are fascinated, I can tell.~sl:~Your spirit seeks a higher state of consciousness.
+
+NATUR_MENUGEN_04 = ~z~~sl:0.0:2.7~Remember, only the fool resists wisdom.~sl:~The wise know they always have more to learn.
+
+NATUR_MENUGEN_05 = ~z~~sl:0.0:2.5~What are you seeking? Truth?~sl:0.0:1.5~Connection?~sl:~This is the next step in your journey.
+
+NATUR_MENUGEN_06 = ~z~~sl:0.0:3.5~There's so much more to this world, so much more within it,~sl:~than most people can even imagine.
+
+NATUR_MENUGEN_07 = ~z~~sl:0.0:2.0~You're curious, I can tell.~sl:~You are ready to expand your horizons.
+
+NATUR_MENUGEN_08 = ~z~~sl:0.0:1.8~What do you truly seek?~sl:0.6~Manifest your journey.
+
+NATUR_MENUGEN_09 = ~z~~sl:0.0:2.7~This is how you transcend myth.~sl:~You must meet it head on.
+
+NATUR_MENUGEN_10 = ~z~Are you ready to embark on this journey?
+
+NATUR_MENUGEN_11 = ~z~~sl:0.0:1.6~You sure you're ready for this?~sl:0.5~You must be open to it.
+
+NATUR_MENUGEN_12 = ~z~~sl:0.0:1.5~There's no safety here.~sl:~Truth and beauty, but danger, too.
+
+NATUR_MPLAYANI2_01 = ~z~~sl:0.0:1.6~I've got something new to reveal.~sl:~Another breakthrough.
+
+NATUR_MPLAYANI2_02 = ~z~~sl:0.0:2.6~You've trusted me before... trust me again.~sl:~I have made a new discovery in my studies, and I want to share it with you.
+
+NATUR_MPLAYANI2_03 = ~z~I've a fresh success in my work! Something very exciting.
+
+NATUR_MPLAYANI3_1 = ~z~~sl:0.0:4.0~It's taken a long time, but I've made real progress with the bucks.~sl:~Nervous fellows, tough to research, but I think you'll be impressed with my findings.
+
+NATUR_MPLAYANI4_01 = ~z~I'll need the other ingredients for that.
+
+NATUR_MPLAYANI4_02 = ~z~I'll need more ingredients before this is ready.
+
+NATUR_MPLAYANI4_03 = ~z~~sl:0.6~I don't have all the materials on hand, I'm afraid...
+
+NATUR_MPLAYANI4_04 = ~z~I can't make that right now. My supplies are diminished...
+
+NATUR_MPLAYANI4_05 = ~z~You'll need to provide some ingredients before I can make that.
+
+NATUR_MPLAYANI5_01 = ~z~You can't do that just now.
+
+NATUR_MPLAYANI5_02 = ~z~Now is not the time. Cultivate patience.
+
+NATUR_MPLAYANI5_03 = ~z~You must wait on that. Timing is everything.
+
+NATUR_MPLAYANIM_01 = ~z~~sl:0.0:2.0~If you want to get closer to nature...~sl:~you have to try this.
+
+NATUR_MPLAYANIM_02 = ~z~~sl:0.0:3.0~Your current understanding will only take you so far.~sl:~It's time to manifest a new reality. I can guide you.
+
+NATUR_MPLAYANIM_03 = ~z~~sl:0.0:5.5~You cannot fathom the richness of the world until you open your body and mind to it.~sl:~Just take the first step.
+
+NATUR_MPLAYBOA_1 = ~z~~sl:0.0:2.1~I have had boars on the brain,~sl:0.0:3.4~talking to them and reading about them every waking hour,~sl:~and last night something clicked. Let me show you my research.
+
+NATUR_MPLAYOPO_1 = ~z~~sl:0.0:1.5~I've been studying opossum...~sl:0.0:4.8~bizarre creatures, but I've finally, finally gotten somewhere.~sl:~I must share what I've learned with you.
+
+NATUR_MPLAYRAB_1 = ~z~~sl:0.0:1.7~I think the rabbits are on to something.~sl:0.0:6.6~I've been studying them a few weeks now and the findings are spectacular.~sl:~Take a look.
+
+NATUR_MSMALLIGA_1 = ~z~~sl:0.0:3.5~There's an unusual alligator skulking somewhere out there.~sl:~It sounds like a very interesting specimen to add to our studies...
+
+NATUR_MSMBEAR_1 = ~z~~sl:0.0:3.1~I keep hearing rumors about this majestic bear.~sl:~Would make for fascinating study material.
+
+NATUR_MSMBEAVER_1 = ~z~~sl:0.0:2.2~So, a rare beaver has emerged,~sl:~which I'd very much like you to track.
+
+NATUR_MSMBIRD_1 = ~z~A rare bird's been spotted that I'd like to get a sample from.
+
+NATUR_MSMBISON_1 = ~z~I've heard about a rare bison, with unusual colorings...
+
+NATUR_MSMBOAR_1 = ~z~~sl:0.0:4.2~I've been hearing about a rare boar that's been scrounging around for territory.~sl:~You might want to take a look.
+
+NATUR_MSMBUCK_1 = ~z~~sl:0.0:2.1~Word is there's some new buck out there.~sl:~I could use some fresh deer samples.
+
+NATUR_MSMCOOL_01 = ~z~~sl:0.0:2.9~I have no recent sightings for you of anything special.~sl:~Check back soon.
+
+NATUR_MSMCOOL_02 = ~z~~sl:0.0:2.2~The animals are quiet. They must be resting.~sl:0.0:2.3~Take some time for yourself.~sl:~I'm sure I'll have news when you return.
+
+NATUR_MSMCOOL_03 = ~z~~sl:0.0:4.0~All this recent activity has our friends in hiding. Don't worry,~sl:~they won't stay idle for long. Come back soon, okay, my friend?
+
+NATUR_MSMCOUG_1 = ~z~~sl:0.0:2.4~A spectacular cougar has been spotted,~sl:~if you could try to track it down for me?
+
+NATUR_MSMCOYOT_1 = ~z~~sl:0.0:3.4~There's a new coyote about. Quite impressive, if the rumors are true.~sl:~I'd love a sample to study, if possible.
+
+NATUR_MSMELK_1 = ~z~An impressive elk has been spotted that I think you should investigate.
+
+NATUR_MSMFISH_1 = ~z~~sl:0.0:2.3~There's a rare fish I'd like you to try to find.~sl:~I'm very interested in adding it to my studies.
+
+NATUR_MSMFOX_1 = ~z~~sl:0.0:3.3~I keep hearing stories about this unusual fox.~sl:~Very beautiful... Maybe one you can track down for me?
+
+NATUR_MSMGENER_01 = ~z~So, I have some new information you'll probably be interested in.
+
+NATUR_MSMGENER_02 = ~z~I have some information for you on a new animal sighting.
+
+NATUR_MSMGENER_03 = ~z~So, I think I have another creature for you to track down.
+
+NATUR_MSMGENER_04 = ~z~There's been another sighting I'd like to tell you about.
+
+NATUR_MSMGENER_05 = ~z~~sl:0.0:1.8~Oh, an interesting new sighting...~sl:~something I could definitely use your help with.
+
+NATUR_MSMMOOSE_1 = ~z~~sl:0.0:1.5~It may be nothing, but...~sl:~I keep hearing rumors about a new moose out there.
+
+NATUR_MSMPANTH_1 = ~z~Apparently there's a rare panther out on the prowl.
+
+NATUR_MSMRAM_1 = ~z~So, there's a rather unusual ram I've been hearing about.
+
+NATUR_MSMREFRES_01 = ~z~~sl:0.0:1.3~The animals have moved.~sl:~They are always moving.
+
+NATUR_MSMREFRES_02 = ~z~Animals never stay still for long.
+
+NATUR_MSMREFRES_03 = ~z~~sl:0.0:2.6~I have fresh information on the animal sightings.~sl:~They move, you know.
+
+NATUR_MSMREFRES_04 = ~z~~sl:0.0:1.6~The animals have been migrating.~sl:~Lucky for you, my information has caught up to them.
+
+NATUR_MSMREFRES_05 = ~z~~sl:0.0:1.2~The animals have moved,~sl:~but I think I know where.
+
+NATUR_MSMUNAVAI_01 = ~z~I can't share that with you yet.
+
+NATUR_MSMUNAVAI_02 = ~z~I don't know enough to tell you about that yet.
+
+NATUR_MSMUNAVAI_03 = ~z~All good things to those who wait. So... wait.
+
+NATUR_MSMUNAVAI_04 = ~z~~sl:0.0:3.0~I don't mean to be coy, but you'll need to be patient.~sl:~I just can't tell you right now.
+
+NATUR_MSMUNAVAI_05 = ~z~It isn't the right time to speak to you about that.
+
+NATUR_MSMUNAVAI_06 = ~z~I'll speak to you about that another time.
+
+NATUR_MSMWOLF_1 = ~z~~sl:0.0:3.3~There's a new wolf out there, if the rumors are to be believed.~sl:~A distinctive pack leader. I think it would be worth the risk to get a sample...
+
+NATUR_NEGEMOTE_01 = ~z~Well, someone's sour.
+
+NATUR_NEGEMOTE_02 = ~z~Hey. There's no need for that kind of negative energy.
+
+NATUR_NEGEMOTE_03 = ~z~You're a grumpy pup, aren't you?
+
+NATUR_NEGEMOTE_04 = ~z~Oh, stop showing off.
+
+NATUR_NOTPOSSE_01 = ~z~~sl:0.0:3.3~Sorry, I'll need to speak to your higher up to provide any information~sl:~on new animals. Unless you're just here to buy or sell.
+
+NATUR_NOTPOSSE_02 = ~z~~sl:0.0:2.0~I'll need to speak to whoever's in charge~sl:0.0:1.82~before I share any information,~sl:~but if you're looking to shop, just let me know.
+
+NATUR_NOTPOSSE_03 = ~z~~sl:0.0:3.0~Are you looking for business, or information?~sl:~I can't tell you anything I've heard until your boss says so.
+
+NATUR_NOTWATCH_01 = ~z~~sl:0.0:2.13~I'm far too busy right now,~sl:~I need to leave for Strawberry shortly.
+
+NATUR_NOTWATCH_02 = ~z~~sl:0.0:2.78~I can't spare a moment right now, I'm afraid.~sl:~I'm heading to Strawberry. There's a man there I need to speak to.
+
+NATUR_NTPURCH1_1 = ~z~~sl:0.0:3.6~I have some goods for sale, but if you'd like to work together,~sl:~and if you're ready to expand the boundaries of understanding,
+
+NATUR_NTPURCH1_2 = ~z~~sl:0.0:1.7~you'll need proper materials.~sl:~The sample kit should set you off on the right path.
+
+NATUR_NTPURCH2_1 = ~z~~sl:0.0:2.8~Looking to trade, or seeking knowledge?~sl:~If you're seeking a new perspective, you'll need this kit.
+
+NATUR_NTPURCH2_2 = ~z~~sl:0.0:1.5~It has sampling tools,~sl:~and data you won't find anywhere else.
+
+NATUR_NTPURCH3_1 = ~z~~sl:0.0:1.3~Any true naturalist,~sl:0.0:4.2~any true explorer of the world, of their own consciousness,~sl:~needs sampling tools and a proper field guide.
+
+NATUR_NTPURCH3_2 = ~z~~sl:0.0:2.3~Now, I'm happy to trade,~sl:0.0:3.2~but if you're as serious as I think you are,~sl:~you'll want to take me up on this offer.
+
+NATUR_NTPURCH4_1 = ~z~~sl:0.0:2.8~I hope you've reconsidered helping me in my studies.~sl:~You'll need this sample kit to get started, and you won't regret the purchase.
+
+NATUR_NTPURCH4_2 = ~z~Trust me, I have information in there you won't find anywhere else.
+
+NATUR_PLAYSHOOT_01 = ~z~You're scaring these poor creatures!
+
+NATUR_PLAYSHOOT_02 = ~z~What are you shooting?
+
+NATUR_PLAYSHOOT_03 = ~z~Stop that! You'll scare everything away!
+
+NATUR_PLAYSHOOT_04 = ~z~~sl:0.0:2.2~Are you trying to terrify my friends?~sl:~Are you trying to terrify me?
+
+NATUR_POSEMOTE_01 = ~z~I like your spirit!
+
+NATUR_POSEMOTE_02 = ~z~Yes! I like that.
+
+NATUR_POSEMOTE_03 = ~z~You're in a good mood!
+
+NATUR_POSEMOTE_04 = ~z~I'm glad you're not afraid to impress yourself!
+
+NATUR_PURCHBLEN_01 = ~z~You'll be able to sneak up to even the most perceptive creatures with this.
+
+NATUR_PURCHBLEN_02 = ~z~~sl:0.0:2.1~You won't make any new animal friends with that...~sl:~they won't even know you're there.
+
+NATUR_PURCHBLEN_03 = ~z~~sl:0.0:4.65~Some of this tonic and you'll be silent and invisible to all animals.~sl:~You won't smell, either.
+
+NATUR_PURCHBLEN_04 = ~z~~sl:0.0:2.4~This is great when sneaking up to animals.~sl:~They won't be able to find you.
+
+NATUR_PURCHCAMP_1 = ~z~~sl:0.0:2.5~A good camp is a great thing to have.~sl:0.0:2.8~You never know when you'll need to rest a minute and...~sl:~feel the warmth of a good fire.
+
+NATUR_PURCHGEN_01 = ~z~Ah, good choice.
+
+NATUR_PURCHGEN_02 = ~z~Smart.
+
+NATUR_PURCHGEN_03 = ~z~Wise purchase.
+
+NATUR_PURCHGEN_04 = ~z~You will not regret it.
+
+NATUR_PURCHGEN_05 = ~z~Thinking ahead, very nice.
+
+NATUR_PURCHGEN_06 = ~z~
+
+NATUR_PURCHGEN_07 = ~z~A fine choice.
+
+NATUR_PURCHGEN_08 = ~z~Okay, good.
+
+NATUR_PURCHGEN_09 = ~z~Excellent.
+
+NATUR_PURCHGEN_10 = ~z~Very good.
+
+NATUR_PURCHGEN_11 = ~z~Great.
+
+NATUR_PURCHGEN_12 = ~z~Good, okay.
+
+NATUR_PURCHHARD_01 = ~z~This will allow you to weather any storm!
+
+NATUR_PURCHHARD_02 = ~z~You'll be unstoppable in any clime with this in you.
+
+NATUR_PURCHHARD_03 = ~z~Take this for difficult tasks in tough terrain.
+
+NATUR_PURCHHARD_04 = ~z~~sl:0.0:2.5~A drink of this and you'll be hardy as a bear~sl:~no matter the season.
+
+NATUR_PURCHINSF_01 = ~z~I'm sure you'll be able to afford this soon.
+
+NATUR_PURCHINSF_02 = ~z~~sl:0.0:2.2~I hate to make this about money, but...~sl:~come back with more.
+
+NATUR_PURCHINSF_03 = ~z~Looks like you're a little short there, I'm afraid.
+
+NATUR_PURCHINSF_04 = ~z~~sl:0.0:3.45~Money's such a trivial concern until you don't have enough,~sl:~isn't it?
+
+NATUR_PURCHINSF_05 = ~z~~sl:0.0:2.0~Waiting on your own endowment, I see.~sl:~I'm sure you'll round up the funds soon.
+
+NATUR_PURCHINSF_06 = ~z~~sl:0.0:2.3~I can't just give it away, I'm afraid.~sl:~You'll have to come back when you've got the money.
+
+NATUR_PURCHKIT_1 = ~z~~sl:0.0:4.3~This will keep any samples you find safe. An ideal tool for essential work,~sl:~and I thank you in advance for the study material.
+
+NATUR_PURCHLEGE_01 = ~z~~sl:0.0:3.4~This animal essence will reveal the rarest creatures.~sl:0.0:1.5~When they sense it in the air,~sl:~they will respond. Listen for it.
+
+NATUR_PURCHLEGE_02 = ~z~~sl:0.0:4.8~Even the rarest creatures and most feral of creatures will be intrigued by this concoction.~sl:~When you use it, they will answer.
+
+NATUR_PURCHLEGE_03 = ~z~~sl:0.0:3.6~I've created this using some of the finest samples in my possession.~sl:~It calls out to rare creatures, and they call out in response.
+
+NATUR_PURCHLEGE_04 = ~z~~sl:0.0:4.6~Release this when you're in legendary animal territory, and wait for their response.~sl:~A powerful tool for communication.
+
+NATUR_PURCHPAMP_01 = ~z~Pretty easy to make.
+
+NATUR_PURCHPAMP_02 = ~z~Good instructions in there.
+
+NATUR_PURCHPAMP_03 = ~z~Very useful, quite doable.
+
+NATUR_PURCHPAMP_04 = ~z~Smart purchase. Some good notes.
+
+NATUR_PURCHPREM_01 = ~z~Superb choice.
+
+NATUR_PURCHPREM_02 = ~z~This is money well spent.
+
+NATUR_PURCHPREM_03 = ~z~You won't regret it a moment.
+
+NATUR_PURCHPREM_04 = ~z~You're investing wisely.
+
+NATUR_PURCHPREM_05 = ~z~I appreciate it. You will, too.
+
+NATUR_PURCHPREM_06 = ~z~Fantastic.
+
+NATUR_PURCHPREM_07 = ~z~A wise decision.
+
+NATUR_PURCHPREM_08 = ~z~Ah, wise. Wise.
+
+NATUR_PURCHPREM_09 = ~z~You've made a good decision there.
+
+NATUR_PURCHPREM_10 = ~z~Worth every cent, I assure you.
+
+NATUR_PURCHPREM_11 = ~z~Oh, good choice. Very good choice.
+
+NATUR_PURCHPREM_12 = ~z~Perfect. You won't regret it.
+
+NATUR_PURCHREPE_01 = ~z~You're quite the devoted customer.
+
+NATUR_PURCHREPE_02 = ~z~You just can't get enough of this, can you?
+
+NATUR_PURCHREPE_03 = ~z~~sl:0.0:1.0~And another?~sl:0.5~I'll be sure to keep this in supply, just for you.
+
+NATUR_PURCHREPE_04 = ~z~~sl:0.0:1.8~You know what you want!~sl:~I like that.
+
+NATUR_PURCHSED_01 = ~z~Always better not to leave those poor animals prone.
+
+NATUR_PURCHSED_02 = ~z~~sl:0.0:1.2~A kind purchase.~sl:~You wouldn't want to leave an animal helpless, after all.
+
+NATUR_PURCHSED_03 = ~z~~sl:0.0:0.8~Good of you.~sl:~Cruel to leave an animal prostrate.
+
+NATUR_PURCHSED_04 = ~z~~sl:0.0:1.5~I'm glad you're buying this.~sl:~Anything we can do to help our brothers and sisters.
+
+NATUR_PURCHTRAN_01 = ~z~~sl:0.0:1.9~A must! But be careful,~sl:~these can be lethal to the smaller critters.
+
+NATUR_PURCHTRAN_02 = ~z~~sl:0.0:4.3~These are essential! Be careful using them on small animals, mind.~sl:~It's too much for them, and they'll be taken out same as any bullet.
+
+NATUR_PURCHTRAN_03 = ~z~~sl:0.0:1.3~Be careful with these.~sl:0.0:3.0~They can be lethal if used on our smallest friends.~sl:~Save it for our sturdier companions.
+
+NATUR_PURCHTRAN_04 = ~z~~sl:0.0:1.8~If only these were in all guns...~sl:0.0:3.0~Note, the impact will kill small creatures, so...~sl:~use your ammunition carefully.
+
+NATUR_PURCHWG_01 = ~z~Might be needing some bigger clothes after this one.
+
+NATUR_PURCHWG_02 = ~z~Your gun belt might start feeling tight after this.
+
+NATUR_PURCHWG_03 = ~z~Don't take too much. People might start mistaking you for a bear.
+
+NATUR_PURCHWG_04 = ~z~This will fill you out... and then some.
+
+NATUR_PURCHWL_01 = ~z~Be careful with this or there'll be nothing left.
+
+NATUR_PURCHWL_02 = ~z~You'll be skin and bones you take too much of this.
+
+NATUR_PURCHWL_03 = ~z~~sl:0.0:2.3~There's such a thing as too thin, you know.~sl:~Proceed with caution.
+
+NATUR_RUNOUT_01 = ~z~The clock is ticking.
+
+NATUR_RUNOUT_02 = ~z~I'd get to it, I was you.
+
+NATUR_RUNOUT_03 = ~z~You should really get going.
+
+NATUR_RUNOUT_04 = ~z~Are you going, or not?
+
+NATUR_RUNOUT_05 = ~z~Time is very much of the essence here.
+
+NATUR_SALEALLIG_01 = ~z~These can be tricky to spot in the swamps.
+
+NATUR_SALEALLIG_02 = ~z~~sl:0.0:2.3~What a fearsome, glorious animal!~sl:~A creature older than Man.
+
+NATUR_SALEALLIG_03 = ~z~~sl:0.0:2.3~Imagine living an inch off the ground,~sl:~covered in armor, hidden in the murk...
+
+NATUR_SALEBEAR_01 = ~z~Such majestic creatures behind those claws and teeth.
+
+NATUR_SALEBEAR_02 = ~z~~sl:0.0:1.8~Lonesome animals, bears.~sl:~They say they prefer the isolation, but who doesn't need a friend?
+
+NATUR_SALEBEAR_03 = ~z~~sl:0.0:2.89~I wonder what bears dream about in their long winters.~sl:0.54~It must be a profound experience.
+
+NATUR_SALEBEAV_01 = ~z~~sl:0.0:2.2~The builders of the natural world.~sl:~Sometimes I question the politics of such industry, but who am I to say?
+
+NATUR_SALEBEAV_02 = ~z~~sl:0.0:3.0~Have you ever tried to cut a tree with your teeth?~sl:0.5~It takes determination, I'll say that!
+
+NATUR_SALEBEAV_03 = ~z~~sl:0.0:2.0~I'm a bit envious of those tails...~sl:~I'll never be so skilled in water...
+
+NATUR_SALEBISON_01 = ~z~I wish people would stop killing these things.
+
+NATUR_SALEBISON_02 = ~z~~sl:0.0:2.0~Ancient animal, the bison.~sl:0.0:2.0~They carry history in them.~sl:~It's what weighs down those big heads.
+
+NATUR_SALEBISON_03 = ~z~~sl:0.0:2.0~Bison have a gentle heart.~sl:~Too gentle for this world.
+
+NATUR_SALEBOAR_01 = ~z~This is a rare one!
+
+NATUR_SALEBOAR_02 = ~z~~sl:0.0:2.3~Boars are much like us, you know.~sl:0.0:3.2~Omnivorous, social, sexual...~sl:~violent.
+
+NATUR_SALEBOAR_03 = ~z~~sl:0.0:2.8~I once saw a boar flip a stone the size of a child,~sl:0.0:2.55~right over its head! Just three feet in front of me.~sl:0.72~What a showoff.
+
+NATUR_SALEBUCK_01 = ~z~I don't know how people can stand to display buck antlers.
+
+NATUR_SALEBUCK_02 = ~z~Amazingly adaptable creatures.
+
+NATUR_SALEBUCK_03 = ~z~~sl:0.0:1.6~They say their antlers are unique,~sl:~each pair, to its owner.
+
+NATUR_SALECOUG_01 = ~z~It's a very striking cougar, isn't it!
+
+NATUR_SALECOUG_02 = ~z~Somewhat more intimidating than Father's little lap cats.
+
+NATUR_SALECOUG_03 = ~z~~sl:0.0:4.7~If I could be born anew as a different creature, it might be a cougar.~sl:~Gorgeous, fast, and powerful.
+
+NATUR_SALECOYO_01 = ~z~Coyote, I love spotting these things.
+
+NATUR_SALECOYO_02 = ~z~~sl:0.0:1.4~I love coyotes...~sl:~born tricksters, clever and deceptive.
+
+NATUR_SALECOYO_03 = ~z~~sl:0.0:1.8~The much-maligned coyote.~sl:~One of my favorite animals.
+
+NATUR_SALECPGEN_01 = ~z~~sl:0.0:2.4~And the compendium is one page closer.~sl:~Just wonderful.
+
+NATUR_SALECPGEN_02 = ~z~This is a full set, bravo!
+
+NATUR_SALECPGEN_03 = ~z~~sl:0.0:2.4~Ah, well done, well done!~sl:~Another complete set here.
+
+NATUR_SALECPGEN_04 = ~z~~sl:0.0:1.4~That's a full page!~sl:~Superb.
+
+NATUR_SALECPGEN_05 = ~z~Fantastic work. Bravo, my dear, bravo!
+
+NATUR_SALECPGEN_06 = ~z~You're well on your way with this, aren't you?
+
+NATUR_SALECPLA_01 = ~z~So rare and so precious!
+
+NATUR_SALECPLA_02 = ~z~~sl:0.0:2.3~The rarest animals the world has ever known,~sl:~captured humanely, right here.
+
+NATUR_SALECPLA_03 = ~z~You'll be a legend in your own right if you keep this up!
+
+NATUR_SALECPLA_04 = ~z~~sl:0.0:1.2~If God exists,~sl:~these animals are proof of His Glory.
+
+NATUR_SALECPLM_01 = ~z~Their size makes them even more magnificent!
+
+NATUR_SALECPLM_02 = ~z~What majestic creatures!
+
+NATUR_SALECPLM_03 = ~z~~sl:0.0:2.7~How can humans think themselves masters of this world~sl:~compared to animals like these?
+
+NATUR_SALECPLM_04 = ~z~We're all dwarves in the shadow of giants like these.
+
+NATUR_SALECPMM_01 = ~z~Ah, you found all of those mammals?
+
+NATUR_SALECPMM_02 = ~z~You've been busy! Wow. Gorgeous creatures.
+
+NATUR_SALECPMM_03 = ~z~Oh, I envy your quest! So many new friends out there...
+
+NATUR_SALECPMM_04 = ~z~This is a good thing you're doing.
+
+NATUR_SALECPR_01 = ~z~Why are so many people scared of these?
+
+NATUR_SALECPR_02 = ~z~~sl:0.0:2.1~Humans think they're so different from reptiles,~sl:~if they only knew how close they are...
+
+NATUR_SALECPR_03 = ~z~~sl:0.0:5.3~I have discovered some very interesting similarities between reptiles and birds.~sl:~Something I'm keen to explore further.
+
+NATUR_SALECPR_04 = ~z~~sl:0.0:3.0~I think our cold-blooded friends are most in need...~sl:~of love.
+
+NATUR_SALECPSM_01 = ~z~Impressive, finding all these little things.
+
+NATUR_SALECPSM_02 = ~z~Must've taken some scurrying to find all these little tinkers.
+
+NATUR_SALECPSM_03 = ~z~They really are adorable, aren't they?
+
+NATUR_SALECPSM_04 = ~z~Life feels very different at this size...
+
+NATUR_SALEELK_01 = ~z~A unique elk indeed.
+
+NATUR_SALEELK_02 = ~z~~sl:0.0:2.1~Unbelievable antlers on these creatures.~sl:~I can only imagine how big this pair was.
+
+NATUR_SALEELK_03 = ~z~~sl:0.0:2.5~Elk are considered strong and courageous.~sl:~But most of the elk I know are soft and gentle.
+
+NATUR_SALEFOX_01 = ~z~Such a beautiful fox.
+
+NATUR_SALEFOX_02 = ~z~~sl:0.0:3.2~How could anyone kill something so beautiful is...~sl:~beyond me.
+
+NATUR_SALEFOX_03 = ~z~~sl:0.0:3.0~I think I've spent more time with foxes than any other animals.~sl:0.8~Such natural communicators.
+
+NATUR_SALELMS_01 = ~z~Some large mammals are so graceful, despite their size.
+
+NATUR_SALELMS_02 = ~z~Gods among us, these incredible creatures. How anyone could kill them, wear them... I don't understand it.
+
+NATUR_SALELMS_03 = ~z~Around animals this magnificent, I am... humbled. I am in awe. Thank you for this.
+
+NATUR_SALELMS_04 = ~z~Gentle giants. They're far more patient with us than we deserve.
+
+NATUR_SALEMMS_01 = ~z~Every mammal I meet feels like looking in a mirror.
+
+NATUR_SALEMMS_02 = ~z~~sl:0.0:2.4~You know, 'mammal' comes from breast.~sl:~The giving power of the mother, the nurturing breast.
+
+NATUR_SALEMMS_03 = ~z~~sl:0.0:3.3~This beautiful creature is not so different from you, or me.~sl:~Practically the same.
+
+NATUR_SALEMMS_04 = ~z~~sl:0.0:0.8~Poor thing.~sl:~Hope it doesn't miss this.
+
+NATUR_SALEMOOSE_01 = ~z~Did you find this one alright?
+
+NATUR_SALEMOOSE_02 = ~z~~sl:0.0:3.1~Moose are always such grouches.~sl:~I bet this one was no different.
+
+NATUR_SALEMOOSE_03 = ~z~~sl:0.0:4.2~I had a dream once, where I was drinking out of the cup of a moose's antler,~sl:~and the water tasted sweet as apples...
+
+NATUR_SALEPANTH_01 = ~z~Tough to get close to but worth it to appreciate these things.
+
+NATUR_SALEPANTH_02 = ~z~~sl:0.0:3.2~Oh, you must have been very patient to get this close.~sl:~Fickle creatures, panthers.
+
+NATUR_SALEPANTH_03 = ~z~~sl:0.0:0.8~I confess...~sl:0.6:1.6~panthers scare me a little.~sl:~They keep their eyes silent.
+
+NATUR_SALEPRED_01 = ~z~~sl:0.0:1.1~They may look vicious,~sl:~but they're just fulfilling their role in the cycle.
+
+NATUR_SALEPRED_02 = ~z~~sl:0.0:1.8~Nature's predators keep the balance.~sl:~A far cry from hunters' rifles.
+
+NATUR_SALEPRED_03 = ~z~~sl:0.0:2.3~Thank you for the risk you took in getting this.~sl:~It will add greatly to my studies.
+
+NATUR_SALEPRED_04 = ~z~~sl:0.0:1.77~You were brave for getting this sample.~sl:0.5~Thank you.
+
+NATUR_SALERAM_01 = ~z~Such a rare find this one.
+
+NATUR_SALERAM_02 = ~z~Bet he was a bit of a hothead, eh?
+
+NATUR_SALERAM_03 = ~z~I'm very excited to study the ram in more detail.
+
+NATUR_SALEREPTI_01 = ~z~~sl:0.0:2.66~Did you know most reptiles are cold-blooded?~sl:0.5~Odd sensation.
+
+NATUR_SALEREPTI_02 = ~z~A fine sample... what a fascinating species.
+
+NATUR_SALEREPTI_03 = ~z~I can't wait to get these scales under a microscope.
+
+NATUR_SALEREPTI_04 = ~z~~sl:0.0:2.6~Can you imagine moulting as a human?~sl:~I wish I could, some days.
+
+NATUR_SALESMS_01 = ~z~Small, but often very fast!
+
+NATUR_SALESMS_02 = ~z~Impressive. These can be hard to catch.
+
+NATUR_SALESMS_03 = ~z~I bet this was a feisty little critter.
+
+NATUR_SALESMS_04 = ~z~One of our smaller friends, but no less important.
+
+NATUR_SALEWOLF_01 = ~z~~sl:0.0:2.0~Man doesn't hunt dog, does he?~sl:0.0:3.2~But Gus and his ilk kill wolves like it's nothing.~sl:~Terrible.
+
+NATUR_SALEWOLF_02 = ~z~~sl:0.0:1.5~An unusual animal.~sl:~I sense wisdom in them, and sadness.
+
+NATUR_SALEWOLF_03 = ~z~~sl:0.0:1.87~Sometimes, when I hear them howling...~sl:0.6~I join in. Very cathartic.
+
+NATUR_SEASONCHR_01 = ~z~~sl:0.0:2.3~We should celebrate the animals around us,~sl:~and not just on our dinner table!
+
+NATUR_SEASONCHR_02 = ~z~~sl:0.0:4.3~Such a festive season! So many friends hibernating, and yet,~sl:~here we are, cuddling bright-eyed around the lights.
+
+NATUR_SEASONCHR_03 = ~z~~sl:0.0:3.5~The cold, the stars, the silence...~sl:~what a joyful moment to share with the world around us.
+
+NATUR_SEASONHAL_01 = ~z~The animals can sense that this is a strange time of year.
+
+NATUR_SEASONHAL_02 = ~z~~sl:0.0:3.3~Nothing is as it seems right now, is it?~sl:~Something prickly in the air...
+
+NATUR_SEASONHAL_03 = ~z~~sl:0.0:2.0~We're in the season of deception.~sl:0.0:2.4~The animals speak of masks and demons...~sl:~but they are fond of hyperbole...
+
+NATUR_SHOPREOP_01 = ~z~~sl:0.0:2.5~I still remember what you did, by the way.~sl:0.53~Don't think me a fool just because we're doing business.
+
+NATUR_SHOPREOP_02 = ~z~~sl:0.0:2.6~I'm open for trade with you, but I will not forget,~sl:~or forgive, your behavior.
+
+NATUR_SHOPREOP_03 = ~z~~sl:0.0:2.8~I hope you don't think I forgot about previous actions.~sl:~I don't forget a thing.
+
+NATUR_SHOPREOP_04 = ~z~~sl:0.0:1.0~You listen here.~sl:~I have my eye on you after what you did.
+
+NATUR_SHOPUNAV_01 = ~z~~sl:0.0:1.8~I can't even look at you right now,~sl:~come back later, I might have calmed down.
+
+NATUR_SHOPUNAV_02 = ~z~~sl:0.0:2.7~I'm still too upset to do any business with you.~sl:0.5~I need time.
+
+NATUR_SHOPUNAV_03 = ~z~Sorry, I need some time before we can even attempt to work together again.
+
+NATUR_SHOPUNAV_04 = ~z~If you think I'll forgive you that quickly, you've got another thing coming.
+
+NATUR_SIGHTCAR_01 = ~z~You killed that rare animal and brought it to me?
+
+NATUR_SIGHTCAR_02 = ~z~No, no! You slaughtered it! Why would you show me that?
+
+NATUR_SIGHTCAR_03 = ~z~~sl:0.0:1.0~How could you?~sl:~You kill it, and then show off your murder? You have evil in you.
+
+NATUR_SIGHTCAR_04 = ~z~~sl:0.0:3.5~I cannot believe this... I am going to be sick.~sl:~A noble animal slaughtered for nothing.
+
+NATUR_SIGHTCAR_05 = ~z~~sl:0.0:3.0~You didn't even have the decency to bury the dead...~sl:~that animal is just a thing to you, isn't it? Just money.
+
+NATUR_SIGHTCAR_06 = ~z~~sl:0.0:3.5~You'd make Gus proud with that kill, butcher that you are.~sl:~How dare you bring that to me.
+
+NATUR_SIGHTGEN_01 = ~z~Did you find our friend out there?
+
+NATUR_SIGHTGEN_02 = ~z~Well? Did you meet the lovely creature?
+
+NATUR_SIGHTGEN_03 = ~z~So? How is our dear companion?
+
+NATUR_SIGHTGEN_04 = ~z~~sl:0.0:0.8~You've returned...~sl:~was the creature as majestic as promised?
+
+NATUR_SIGHTGEN_05 = ~z~So, did you find it?
+
+NATUR_SIGHTGEN_06 = ~z~Well? Success?
+
+NATUR_SIGHTKILL_01 = ~z~You killed it, didn't you?
+
+NATUR_SIGHTKILL_02 = ~z~Oh, I can see blood all over you. Murderer!
+
+NATUR_SIGHTKILL_03 = ~z~~sl:0.0:2.6~I felt that poor creature's last breath.~sl:~How could you?
+
+NATUR_SIGHTKILL_04 = ~z~~sl:0.0:1.5~Could you not stop yourself?~sl:~You might as well work for Gus, all the evil you're doing.
+
+NATUR_SIGHTKILL_05 = ~z~No, no... It's dead, I know it. How could you?
+
+NATUR_SIGHTKILL_06 = ~z~You took its life, didn't you?
+
+NATUR_SMALLHAT_01 = ~z~~sl:1.0~How can you stand to wear that thing on your head?
+
+NATUR_SMALLHAT_02 = ~z~~sl:0.0:2.5~Before it was a hat, that was a cousin of yours.~sl:~For shame.
+
+NATUR_SMALLHAT_03 = ~z~That was a living being you sacrificed to keep your skull warm.
+
+NATUR_SMALLHAT_04 = ~z~~sl:0.0:3.5~Are you trying to rile the spirits, wearing that on your head?~sl:~Maybe just my spirit...
+
+NATUR_SMALLHAT_05 = ~z~~sl:0.0:2.0~You might consider the morality, the...~sl:~the inhumanity of wearing that on your head.
+
+NATUR_SMALLHAT_06 = ~z~~sl:0.0:1.8~That hat disgusts me.~sl:~I'm rather surprised you'd wear it in my presence, to be honest.
+
+NATUR_SPRAYED_01 = ~z~~sl:0.0:2.94~Well, I hope that little experience taught you a lesson!~sl:0.69~Let us get back on track, yes?
+
+NATUR_SPRAYED_02 = ~z~~sl:0.0:3.0~Sorry, I don't have much respect for punishment,~sl:~but sometimes words are not sufficient. Let's hope that got the message across.
+
+NATUR_SPRAYED_03 = ~z~~sl:0.0:2.44~I hope you'll reconsider any further violence~sl:~to our sisters and brothers after that, hmm?
+
+NATUR_SPRAYED_04 = ~z~~sl:0.0:3.1~If you keep hurting our friends, that will happen again.~sl:~You won't be able to stop it.
+
+NATUR_SPRAYED_05 = ~z~~sl:0.0:3.1~I took no pleasure in that lesson, but you needed to learn it.~sl:~And if you start up with more brutality, you'll need to learn it again.
+
+NATUR_TRACKSKIL_1 = ~z~~sl:0.0:2.8~I feel like your tracking skills have improved,~sl:~you're more connected to the animals.
+
+NATUR_UPGRADEGC_01 = ~z~~sl:0.0:1.4~After all your hard work,~sl:0.0:3.62~I thought it was time to add some new locations to your maps.~sl:~Should be some rare sightings in these spots.
+
+NATUR_UPGRADEGC_02 = ~z~~sl:0.0:2.0~Ah, you've been doing well.~sl:~You'll see more information in your maps now, as befits your skills.
+
+NATUR_UPGRADEGC_03 = ~z~~sl:0.0:2.8~I think you're ready for some rarer sightings.~sl:~I've added some new notes to your map.
+
+NATUR_UPGRADEL1_1 = ~z~~sl:0.0:2.2~You have taken the first step in this journey.~sl:~Your map reveals new truths to explore, new legends to uncover.
+
+NATUR_UPGRADEL2_1 = ~z~~sl:0.0:1.4~More details for your map...~sl:~just keep finding me new samples.
+
+NATUR_UPGRADEL3_1 = ~z~~sl:0.0:2.1~So many mapped species,~sl:~your work has come along so far!
+
+NATUR_WANTED_01 = ~z~The last thing I need is problems with the law.
+
+NATUR_WANTED_02 = ~z~~sl:0.0:2.1~Are you trying to get me in trouble with the law?~sl:~Get out of here.
+
+NATUR_WANTED_03 = ~z~Why would you come here with lawmen on your tail?
+

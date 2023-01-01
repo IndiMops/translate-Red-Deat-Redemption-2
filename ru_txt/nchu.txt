@@ -1,0 +1,316 @@
+0x07D51AE0 = на ~COLOR_MP_OBJECTIVE~ферму~s~
+
+0x1C32DB3F = в ~COLOR_MP_OBJECTIVE~Аннесберг~s~
+
+0x5BF4791A = в ~COLOR_MP_OBJECTIVE~Уиллардс-Рест~s~
+
+0x8C8D5A22 = к ~COLOR_MP_OBJECTIVE~дому Рэдли~s~
+
+0x53F5B0E4 = в ~COLOR_MP_OBJECTIVE~Копперхед-Лэндинг~s~
+
+0x492AFF6D = к ~COLOR_MP_OBJECTIVE~логову Мики~s~
+
+0x66677D38 = к ~COLOR_MP_OBJECTIVE~месту назначения~s~
+
+0xA798AA7D = в ~COLOR_MP_OBJECTIVE~поместье Кренбрейк~s~
+
+0xD245F483 = на ~COLOR_MP_OBJECTIVE~ранчо Хилл-Хэвен~s~
+
+NET_CHU_BLIP_DROPOFF = Место доставки
+
+NET_CHU_BLIP_DROPOFF_GUARD = Союзник
+
+NET_CHU_BLIP_MONEY_BAG = Сумка с добычей
+
+NET_CHU_BLIP_PASSENGER = Пассажир
+
+NET_CHU_BLIP_VEHICLE = Дилижанс
+
+NET_CHU_BLIP_VIP = Цель
+
+NET_CHU_HELP_DELIVER_PED_ON_MOUNT = Снимите ~COLOR_POSSE_ALLY~цель~s~ с лошади и положите на место доставки.
+
+NET_CHU_HELP_INTRO_KIDNAP = Остановите дилижанс ~1b~ и похитьте ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~ за отведенное время, чтобы получить полную награду.
+
+NET_CHU_HELP_INTRO_KIDNAP_PLURAL = Остановите дилижансы ~1b~ и похитьте все ~COLOR_MP_OBJECTIVE_NEUTRAL~цели~s~ за отведенное время, чтобы получить полную награду.
+
+NET_CHU_HELP_INTRO_KIDNAP_PLURAL_S = Остановите дилижанс ~1b~ и похитьте все ~COLOR_MP_OBJECTIVE_NEUTRAL~цели~s~ за отведенное время, чтобы получить полную награду.
+
+NET_CHU_HELP_INTRO_KIDNAP_PLURAL_STATIONARY = Нападите на дилижансы ~1b~ и похитьте все ~COLOR_MP_OBJECTIVE_NEUTRAL~цели~s~ за отведенное время, чтобы получить полную награду.
+
+NET_CHU_HELP_INTRO_KIDNAP_PLURAL_STATIONARY_S = Нападите на дилижанс ~1b~ и похитьте все ~COLOR_MP_OBJECTIVE_NEUTRAL~цели~s~ за отведенное время, чтобы получить полную награду.
+
+NET_CHU_HELP_INTRO_KIDNAP_STATIONARY = Нападите на дилижанс ~1b~ и похитьте ~COLOR_MP_OBJECTIVE_NEUTRAL~цели~s~ за отведенное время, чтобы получить полную награду.
+
+NET_CHU_HELP_INTRO_ROBBERY = Остановите дилижанс ~1b~ и украдите ~COLOR_MP_OBJECTIVE_NEUTRAL~сумку с добычей~s~ за отведенное время, чтобы получить полную награду.
+
+NET_CHU_HELP_INTRO_ROBBERY_PLURAL = Остановите дилижанс ~1b~ и украдите ~COLOR_MP_OBJECTIVE_NEUTRAL~сумки с добычей~s~ за отведенное время, чтобы получить полную награду.
+
+NET_CHU_HELP_INTRO_ROBBERY_PLURAL_S = Остановите дилижанс ~1b~ и украдите ~COLOR_MP_OBJECTIVE_NEUTRAL~сумки с добычей~s~ за отведенное время, чтобы получить полную награду.
+
+NET_CHU_HELP_INTRO_ROBBERY_PLURAL_STATIONARY = Нападите на дилижансы ~1b~ и украдите ~COLOR_MP_OBJECTIVE_NEUTRAL~сумки с добычей~s~ за отведенное время, чтобы получить полную награду.
+
+NET_CHU_HELP_INTRO_ROBBERY_PLURAL_STATIONARY_S = Нападите на дилижанс ~1b~ и украдите ~COLOR_MP_OBJECTIVE_NEUTRAL~сумки с добычей~s~ за отведенное время, чтобы получить полную награду.
+
+NET_CHU_HELP_INTRO_ROBBERY_STATIONARY = Нападите на дилижанс ~1b~ и украдите ~COLOR_MP_OBJECTIVE_NEUTRAL~сумку с добычей~s~ за отведенное время, чтобы получить полную награду.
+
+NET_CHU_HELP_INTRO_SECONDARY_KIDNAP = Игрок ~1~ начал противостояние с отрядом ~2~. Похитьте и доставьте ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~ ~3b~, чтобы получить награду полностью.
+
+NET_CHU_HELP_INTRO_SECONDARY_KIDNAP_PLURAL = Игрок ~1~ начал противостояние с отрядом ~2~. Похитьте и доставьте ~COLOR_MP_OBJECTIVE_NEUTRAL~цели~s~ ~3b~, чтобы получить награду полностью.
+
+NET_CHU_HELP_INTRO_SECONDARY_KIDNAP_PLURAL_SELF = Вы начали противостояние с отрядом ~1~. Похитьте и доставьте ~COLOR_MP_OBJECTIVE_NEUTRAL~цели~s~ ~2b~, чтобы получить награду полностью.
+
+NET_CHU_HELP_INTRO_SECONDARY_KIDNAP_SELF = Вы начали противостояние с отрядом ~1~. Похитьте и доставьте ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~ ~2b~, чтобы получить награду полностью.
+
+NET_CHU_HELP_INTRO_SECONDARY_ROBBERY = Игрок ~1~ начал противостояние с отрядом ~2~. Украдите и доставьте ~COLOR_MP_OBJECTIVE_NEUTRAL~сумку с добычей~s~ ~3b~, чтобы получить награду полностью.
+
+NET_CHU_HELP_INTRO_SECONDARY_ROBBERY_PLURAL = Игрок ~1~ начал противостояние с отрядом ~2~. Украдите и доставьте ~COLOR_MP_OBJECTIVE_NEUTRAL~сумки с добычей~s~ ~3b~, чтобы получить награду полностью.
+
+NET_CHU_HELP_INTRO_SECONDARY_ROBBERY_PLURAL_SELF = Вы начали противостояние с отрядом ~1~. Украдите и доставьте ~COLOR_MP_OBJECTIVE_NEUTRAL~сумки с добычей~s~ ~2b~, чтобы получить награду полностью.
+
+NET_CHU_HELP_INTRO_SECONDARY_ROBBERY_SELF = Вы начали противостояние с отрядом ~1~. Украдите и доставьте ~COLOR_MP_OBJECTIVE_NEUTRAL~сумку с добычей~s~ ~2b~, чтобы получить награду полностью.
+
+NET_CHU_HELP_LASSO_VIP = Используйте лассо и свяжите ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~, чтобы похитить ее.
+
+NET_CHU_HELP_LASSO_VIP_PLURAL = Используйте лассо и свяжите ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~, чтобы похитить ее.
+
+NET_CHU_HELP_PVP_KIDNAP = ~1p~ начинает «Налет на дилижанс». Похитьте цели ~2b~ и доставьте их на место назначения, чтобы получить деньги и опыт.
+
+NET_CHU_HELP_PVP_ROBBERY = ~1p~ начинает «Налет на дилижанс». Украдите сумки с добычей ~2b~ и доставьте их на место назначения, чтобы получить деньги и опыт.
+
+NET_CHU_HELP_ROB = Используйте ~INPUT_INTERACT_LOCKON~, чтобы фокусироваться на пассажирах и забирать ~COLOR_MP_OBJECTIVE_NEUTRAL~сумки с добычей~s~. Учтите, что пассажиры могут попытаться сбежать с ~COLOR_MP_OBJECTIVE_NEUTRAL~добычей~s~, и их нужно будет остановить.
+
+NET_CHU_HELP_STOP_COACH = Убейте кучера и вооруженную охрану, чтобы остановить дилижанс ~1b~ и заставить пассажиров выйти.
+
+NET_CHU_HELP_STOP_COACH_PLURAL = Убейте кучеров и вооруженную охрану, чтобы остановить дилижанс ~1b~ и заставить пассажиров выйти.
+
+NET_CHU_HELP_STOP_COACH_PLURAL_STATIONARY = Убейте ~COLOR_ENEMY~охрану дилижанса~s~, чтобы заставить пассажиров выйти.
+
+NET_CHU_HELP_STOP_COACH_STATIONARY = Убейте ~COLOR_ENEMY~охрану дилижанса~s~, чтобы заставить пассажиров выйти.
+
+NET_CHU_LOC_ABERDEEN = на ~COLOR_MP_OBJECTIVE~свиноферму Абердинов~s~
+
+NET_CHU_LOC_BLACKWATER = в ~COLOR_MP_OBJECTIVE~Блэкуотер~s~
+
+NET_CHU_LOC_BRITTLEBRUSH_TRAWL = к ~COLOR_MP_OBJECTIVE~хижине~s~
+
+NET_CHU_LOC_CLAWSONS_REST = к ~COLOR_MP_OBJECTIVE~Клоусон-Рест~s~
+
+NET_CHU_LOC_CLINGMAN = в ~COLOR_MP_OBJECTIVE~Клингман~s~
+
+NET_CHU_LOC_COMPSONS_STEAD = на ~COLOR_MP_OBJECTIVE~ферму~s~
+
+NET_CHU_LOC_DEFAULT_DROPOFF = к ~COLOR_MP_OBJECTIVE~месту доставки~s~
+
+NET_CHU_LOC_FORT_RIGGS = в ~COLOR_MP_OBJECTIVE~Форт-Риггс~s~
+
+NET_CHU_LOC_LAKE_DON_JULIO = к ~COLOR_MP_OBJECTIVE~озеру Дон Хулио~s~
+
+NET_CHU_LOC_MACLEANS_HOUSE = к ~COLOR_MP_OBJECTIVE~дому Маклина~s~
+
+NET_CHU_LOC_MACOMBS_END = в ~COLOR_MP_OBJECTIVE~Мэкомз-Энд~s~
+
+NET_CHU_LOC_MANZANITA_POST = на ~COLOR_MP_OBJECTIVE~пост Мансанита~s~
+
+NET_CHU_LOC_OLD_GREENBANK_MILL = к ~COLOR_MP_OBJECTIVE~заброшенной мельнице~s~
+
+NET_CHU_LOC_OLD_TRAIL_ROAD = к ~COLOR_MP_OBJECTIVE~старой дороге~s~
+
+NET_CHU_LOC_RADLEYS_PASTURE = на ~COLOR_MP_OBJECTIVE~пастбище Рэдли~s~
+
+NET_CHU_LOC_RIDGEWOOD_FARM = на ~COLOR_MP_OBJECTIVE~ферму Риджвуд~s~
+
+NET_CHU_LOC_SCRATCHING_POST = на ~COLOR_MP_OBJECTIVE~пост Скрэтчинг~s~
+
+NET_CHU_LOC_SILENT_STEAD = в ~COLOR_MP_OBJECTIVE~Сайлент-Стед~s~
+
+NET_CHU_LOC_SILTWATER_STRAND = в ~COLOR_MP_OBJECTIVE~Силтвотер-Странд~s~
+
+NET_CHU_LOC_STILLWATER_HOUSE = к ~COLOR_MP_OBJECTIVE~Стиллуотер-Хаус~s~
+
+NET_CHU_LOC_WALLACE_STATION = на ~COLOR_MP_OBJECTIVE~станцию Уоллес~s~
+
+NET_CHU_NAME = Налет на дилижанс
+
+NET_CHU_OBJ_DROPOFF_KIDNAP = Поднимите ~COLOR_MP_OBJECTIVE_NEUTRAL~цели~s~.
+
+NET_CHU_OBJ_DROPOFF_KIDNAP_S = Поднимите ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~.
+
+NET_CHU_OBJ_DROPOFF_KIDNAP_S_CARRY = Доставьте ~COLOR_POSSE_ALLY~цель~s~ ~1~.
+
+NET_CHU_OBJ_DROP_BAG = Отвезите сумку с добычей ~1~.
+
+NET_CHU_OBJ_DROP_BAGS = Отвезите сумки с добычей ~1~.
+
+NET_CHU_OBJ_DROP_KIDNAP = Доставьте цель ~1~.
+
+NET_CHU_OBJ_GET_CASH = Заберите деньги у ~COLOR_MP_OBJECTIVE_NEUTRAL~пассажира~s~.
+
+NET_CHU_OBJ_GO_TO_COACH = Направляйтесь к ~COLOR_MP_OBJECTIVE~дилижансу~s~.
+
+NET_CHU_OBJ_GO_TO_COACH_PLURAL = Направляйтесь к ~COLOR_MP_OBJECTIVE~дилижансам~s~.
+
+NET_CHU_OBJ_GO_TO_PASSENGER = Идите к ~COLOR_MP_OBJECTIVE_NEUTRAL~пассажирам~s~.
+
+NET_CHU_OBJ_GO_TO_PASSENGER_S = Идите к ~COLOR_MP_OBJECTIVE_NEUTRAL~пассажиру~s~.
+
+NET_CHU_OBJ_GO_TO_VIP = Идите к ~COLOR_MP_OBJECTIVE_NEUTRAL~целям~s~.
+
+NET_CHU_OBJ_GO_TO_VIP_S = Идите к ~COLOR_MP_OBJECTIVE_NEUTRAL~цели~s~.
+
+NET_CHU_OBJ_HOGTIE = Набросьте лассо на ~COLOR_MP_OBJECTIVE_NEUTRAL~цели~s~ и свяжите их.
+
+NET_CHU_OBJ_HOGTIE_S = Набросьте лассо и свяжите ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~.
+
+NET_CHU_OBJ_KILL_GUARDS = Устраните оставшихся ~COLOR_RED~охранников~s~.
+
+NET_CHU_OBJ_KILL_GUARDS_STATIONARY = Устраните ~COLOR_RED~охрану дилижанса~s~.
+
+NET_CHU_OBJ_PVP_STEAL_BAGS = Украдите ~COLOR_ENEMY~сумки с добычей~s~ у ~COLOR_ENEMY~~1~~s~.
+
+NET_CHU_OBJ_PVP_STEAL_BAGS_MULTI = Украдите ~COLOR_ENEMY~сумки с добычей~s~ у ~COLOR_ENEMY~вражеских отрядов~s~.
+
+NET_CHU_OBJ_PVP_STEAL_BAGS_S = Украдите ~COLOR_ENEMY~сумку с добычей~s~ у ~COLOR_ENEMY~~1~~s~.
+
+NET_CHU_OBJ_PVP_STEAL_KIDNAP = Похитьте ~COLOR_ENEMY~цели~s~ у ~COLOR_ENEMY~~1~~s~.
+
+NET_CHU_OBJ_PVP_STEAL_KIDNAP_MULTI = Украдите ~COLOR_ENEMY~цель~s~ у ~COLOR_ENEMY~вражеских отрядов~s~.
+
+NET_CHU_OBJ_PVP_STEAL_KIDNAP_S = Похитьте ~COLOR_ENEMY~цель~s~ у ~COLOR_ENEMY~~1~~s~.
+
+NET_CHU_OBJ_SECURE_BAG = Возьмите ~COLOR_MP_OBJECTIVE_NEUTRAL~сумку с добычей~s~.
+
+NET_CHU_OBJ_SECURE_BAGS = Возьмите ~COLOR_MP_OBJECTIVE_NEUTRAL~сумки с добычей~s~.
+
+NET_CHU_OBJ_STOP_COACH = Остановите ~COLOR_MP_OBJECTIVE~дилижанс~s~.
+
+NET_CHU_OBJ_STOP_COACH_PLURAL = Остановите ~COLOR_MP_OBJECTIVE~дилижансы~s~.
+
+NET_CHU_OBJ_TAKE_BAG = Заберите ~COLOR_MP_OBJECTIVE_NEUTRAL~сумку с добычей~s~.
+
+NET_CHU_OBJ_TAKE_BAGS = Заберите ~COLOR_MP_OBJECTIVE_NEUTRAL~сумки с добычей~s~.
+
+NET_CHU_OBJ_TEAM_DROPOFF_KIDNAP = Помогите доставить ~COLOR_POSSE_ALLY~цели~s~ ~1~.
+
+NET_CHU_OBJ_TEAM_DROPOFF_KIDNAP_S = Помогите доставить ~COLOR_POSSE_ALLY~цель~s~ ~1~.
+
+NET_CHU_OBJ_TEAM_TURN_IN_BAG = Помогите доставить ~COLOR_POSSE_ALLY~сумку с добычей~s~ ~1~.
+
+NET_CHU_OBJ_TEAM_TURN_IN_BAGS = Помогите доставить ~COLOR_POSSE_ALLY~сумки с добычей~s~ ~1~.
+
+NET_CHU_OBJ_TURN_IN_BAG = Возьмите ~COLOR_MP_OBJECTIVE_NEUTRAL~сумки с добычей~s~.
+
+NET_CHU_OBJ_TURN_IN_BAGS_CARRY = Принесите сумки с добычей ~1~.
+
+NET_CHU_OBJ_TURN_IN_BAG_CARRY = Принесите сумку с добычей ~1~.
+
+NET_CHU_OBJ_TURN_IN_BAG_S = Возьмите ~COLOR_MP_OBJECTIVE_NEUTRAL~сумку с добычей~s~.
+
+NET_CHU_TOAST_END_BODY_ABANDON = Вы прекратили выполнение задания
+
+NET_CHU_TOAST_END_BODY_ABANDON_DISBAND_POSSE = Ваш отряд распущен
+
+NET_CHU_TOAST_END_BODY_ABANDON_LEFT_POSSE = Вы покинули отряд
+
+NET_CHU_TOAST_END_BODY_ABANDON_POSSE = Ваш отряд перестал выполнять задание
+
+NET_CHU_TOAST_END_BODY_EXPIRED = Время истекло
+
+NET_CHU_TOAST_END_BODY_FAILED_KIDNAP = Цель убита
+
+NET_CHU_TOAST_END_BODY_FAILED_KIDNAP_PLURAL = Цели убиты
+
+NET_CHU_TOAST_END_BODY_FAILED_KIDNAP_PVP = Игрок ~1~ похитил цель
+
+NET_CHU_TOAST_END_BODY_FAILED_KIDNAP_PVP_PLURAL = Игрок ~1~ похитил цели
+
+NET_CHU_TOAST_END_BODY_FAILED_KIDNAP_PVP_R = Цель похищена вражеским отрядом
+
+NET_CHU_TOAST_END_BODY_FAILED_KIDNAP_PVP_R_PLUR = Цели похищены вражеским отрядом
+
+NET_CHU_TOAST_END_BODY_FAILED_ROBBERY = Сумка с добычей уничтожена
+
+NET_CHU_TOAST_END_BODY_FAILED_ROBBERY_PLURAL = Сумки с добычей уничтожены
+
+NET_CHU_TOAST_END_BODY_FAILED_ROBBERY_PVP = Игрок ~1~ украл сумку с добычей
+
+NET_CHU_TOAST_END_BODY_FAILED_ROBBERY_PVP_PLURAL = Игрок ~1~ украл сумки с добычей
+
+NET_CHU_TOAST_END_BODY_FAILED_ROBBERY_PVP_R = Сумка с добычей украдена вражеским отрядом
+
+NET_CHU_TOAST_END_BODY_FAILED_ROBBERY_PVP_R_PLUR = Сумки с добычей украдены вражеским отрядом
+
+NET_CHU_TOAST_END_BODY_OVER_KIDNAP = Доставлено целей: ~1~/~2~
+
+NET_CHU_TOAST_END_BODY_OVER_ROBBERY = Доставлено сумок с добычей: ~1~/~2~
+
+NET_CHU_TOAST_END_BODY_WON_KIDNAP = Цель доставлена
+
+NET_CHU_TOAST_END_BODY_WON_KIDNAP_PLURAL = Цели похищены
+
+NET_CHU_TOAST_END_BODY_WON_ROBBERY = Сумка с добычей доставлена
+
+NET_CHU_TOAST_END_BODY_WON_ROBBERY_PLURAL = Сумки с добычей доставлены
+
+NET_CHU_TOAST_START_BODY_KIDNAP = Нападите на ~COLOR_MP_OBJECTIVE~дилижанс~s~ и похитьте ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~
+
+NET_CHU_TOAST_START_BODY_KIDNAP_PLURAL = Нападите на ~COLOR_MP_OBJECTIVE~дилижансы~s~ и похитьте ~COLOR_MP_OBJECTIVE_NEUTRAL~цели~s~
+
+NET_CHU_TOAST_START_BODY_KIDNAP_PLURAL_S = Нападите на ~COLOR_MP_OBJECTIVE~дилижанс~s~ и похитьте ~COLOR_MP_OBJECTIVE_NEUTRAL~цели~s~
+
+NET_CHU_TOAST_START_BODY_ROBBERY = Нападите и ограбьте ~COLOR_MP_OBJECTIVE~дилижанс~s~
+
+NET_CHU_TOAST_START_BODY_ROBBERY_PLURAL = Нападите и ограбьте ~COLOR_MP_OBJECTIVE~дилижансы~s~
+
+NET_CHU_UC_TAKE_MONEY = Забрать сумку с добычей
+
+NET_CHU_UPDATE_BAG_PVP_STOLEN = ~COLOR_ENEMY~~1p~~s~: ~COLOR_MP_OBJECTIVE_NEUTRAL~сумка с добычей~s~ украдена
+
+NET_CHU_UPDATE_BAG_RETURNED = Игрок ~COLOR_POSSE_ALLY~~1p~~s~ доставил ~COLOR_MP_OBJECTIVE_NEUTRAL~сумку с добычей~s~
+
+NET_CHU_UPDATE_BAG_RETURNED_YOU = Вы доставили ~COLOR_MP_OBJECTIVE_NEUTRAL~сумку с добычей~s~
+
+NET_CHU_UPDATE_KIDNAP_PVP_ACTIVE = ~COLOR_ENEMY~Соперники~s~ могут похитить ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~
+
+NET_CHU_UPDATE_KIDNAP_PVP_ACTIVE_PLURAL = ~COLOR_ENEMY~Соперники~s~ могут похитить ~COLOR_MP_OBJECTIVE_NEUTRAL~цели~s~
+
+NET_CHU_UPDATE_KIDNAP_PVP_PLAYER_JOIN = ~1~ пытается похитить ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~
+
+NET_CHU_UPDATE_KIDNAP_PVP_PLAYER_JOIN_PLURAL = ~1~ пытается похитить ~COLOR_MP_OBJECTIVE_NEUTRAL~цели~s~
+
+NET_CHU_UPDATE_KIDNAP_PVP_POSSE_JOIN = ~1~ пытается похитить ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~
+
+NET_CHU_UPDATE_KIDNAP_PVP_POSSE_JOIN_PLURAL = ~1~ пытается похитить ~COLOR_MP_OBJECTIVE_NEUTRAL~цели~s~
+
+NET_CHU_UPDATE_PASSENGER_ESCAPED = ~COLOR_MP_OBJECTIVE_NEUTRAL~Пассажир~s~ сбежал с ~COLOR_MP_OBJECTIVE_NEUTRAL~сумкой добычи~s~
+
+NET_CHU_UPDATE_PASSENGER_KILLED = ~COLOR_MP_OBJECTIVE_NEUTRAL~Пассажир~s~ убит
+
+NET_CHU_UPDATE_PASSENGER_KNOCKEDOUT = ~COLOR_MP_OBJECTIVE_NEUTRAL~Пассажир~s~ потерял сознание
+
+NET_CHU_UPDATE_ROBBERY_PVP_ACTIVE = ~COLOR_ENEMY~Соперники~s~ могут украсть ~COLOR_MP_OBJECTIVE_NEUTRAL~сумку с добычей~s~
+
+NET_CHU_UPDATE_ROBBERY_PVP_ACTIVE_PLURAL = ~COLOR_ENEMY~Соперники~s~ могут украсть ~COLOR_MP_OBJECTIVE_NEUTRAL~сумки с добычей~s~
+
+NET_CHU_UPDATE_ROBBERY_PVP_PLAYER_JOIN = ~1~ пытается украсть ~COLOR_MP_OBJECTIVE_NEUTRAL~сумку с добычей~s~
+
+NET_CHU_UPDATE_ROBBERY_PVP_PLAYER_JOIN_PLURAL = ~1~ пытается украсть ~COLOR_MP_OBJECTIVE_NEUTRAL~сумки с добычей~s~
+
+NET_CHU_UPDATE_ROBBERY_PVP_POSSE_JOIN = ~1~ пытается украсть ~COLOR_MP_OBJECTIVE_NEUTRAL~сумку с добычей~s~
+
+NET_CHU_UPDATE_ROBBERY_PVP_POSSE_JOIN_PLURAL = ~1~ пытается украсть ~COLOR_MP_OBJECTIVE_NEUTRAL~сумки с добычей~s~
+
+NET_CHU_UPDATE_VIP_ESCAPED = ~COLOR_MP_OBJECTIVE_NEUTRAL~Цель~s~ сбежала
+
+NET_CHU_UPDATE_VIP_KILLED = ~COLOR_MP_OBJECTIVE_NEUTRAL~Цель~s~ убита
+
+NET_CHU_UPDATE_VIP_KNOCKEDOUT = ~COLOR_MP_OBJECTIVE_NEUTRAL~Цель~s~ потеряла сознание
+
+NET_CHU_UPDATE_VIP_PVP_STOLEN = ~COLOR_ENEMY~~1p~~s~ похищает ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~
+
+NET_CHU_UPDATE_VIP_RETURNED = ~COLOR_POSSE_ALLY~~1p~~s~ похищает ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~
+
+NET_CHU_UPDATE_VIP_RETURNED_YOU = Вы похитили ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~
+
+NET_CHU_VAR_PLAYER_ESCORT = ~1~ (~2p~)
+

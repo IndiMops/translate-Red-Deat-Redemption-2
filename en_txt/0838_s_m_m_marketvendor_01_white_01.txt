@@ -1,0 +1,210 @@
+0x001DBB52 = ~z~Oh, poor baby, did Momma never hold you?
+
+0x0262A065 = ~z~Stop it, I have nothing.
+
+0x02CB8CAF = ~z~Give me some space here, will you?
+
+0x08B50D44 = ~z~I hate asking for money like a goddamn worm. Groveling here in the dirt...
+
+0x08E8B1A4 = ~z~Please. Stop.
+
+0x0D6E08BF = ~z~We can't keep this to ourselves, it would be wrong.
+
+0x0DB3F7E6 = ~z~Here, take it.
+
+0x1CDE21AE = ~z~It's nice to give something instead of just... begging.
+
+0x1F366F1F = ~z~Cut it out, now.
+
+0x2A96F802 = ~z~Please! Please...
+
+0x3A50AB55 = ~z~Quit it. Please.
+
+0x3E1963D4 = ~z~Whatever you can give... is fine with me.
+
+0x3EF06674 = ~z~Get out of here.  Now.
+
+0x4A915489 = ~z~What the hell was that for?
+
+0x4C65564E = ~z~Get away from me.
+
+0x5A214FE1 = ~z~I don't have anything for you.
+
+0x5CAED082 = ~z~What can we help you out with today?
+
+0x5FA78B9E = ~z~You know, my company costs...
+
+0x5FEF8D6D = ~z~Would you move out of the damn way?
+
+0x6A1B5197 = ~z~Ain't it bad enough?
+
+0x6D24EC19 = ~z~I ain't asking again. Stop it.
+
+0x6F031B89 = ~z~Get away from me!
+
+0x7AA432CB = ~z~Leave me be.
+
+0x7BBAA5D1 = ~z~Thank you, sir.
+
+0x7F553B5A = ~z~Why you carrying on like this?
+
+0x7F8665CD = ~z~Thanks for nothing! You lowdown, selfish...
+
+0x8AEB71FA = ~z~I will button my lip, I swear.
+
+0x8E19DD1E = ~z~Won't you lend a coin to a feller in need?
+
+0x8F9E0DD7 = ~z~No, please. What is this about?
+
+0x9A4422DC = ~z~Don't give me your plague.
+
+0x9C8FA68C = ~z~I'll die without help, mister...
+
+0x9D0C0D13 = ~z~Thank you. You're a kind man.
+
+0x9F210D71 = ~z~Watch your step.
+
+0x9F275603 = ~z~I bet this was you.
+
+0x9FC31B74 = ~z~Will you go away?
+
+0x11C5B632 = ~z~Oh, my God!
+
+0x13AD2E72 = ~z~If you ain't gonna buy something, beat it.
+
+0x15D7C149 = ~z~Hey. No need to have that thing pointed at me.
+
+0x24B3AE8B = ~z~Can't do nothing 'bout it, can you?
+
+0x58F9FAA2 = ~z~What are you staring at?
+
+0x62F3D7B7 = ~z~Did you hear me? I said stop.
+
+0x65DB4238 = ~z~What a relief.
+
+0x65EBF5C8 = ~z~This is your last chance to walk away in one piece.
+
+0x69A0A0CF = ~z~Would you move out of the damn way?
+
+0x74E30F51 = ~z~Thank you kindly!
+
+0x81AC0C9B = ~z~Sure.
+
+0x81C38D45 = ~z~Hey, what did I do to deserve that?
+
+0x82DF3C8D = ~z~A coin, a bite to eat, anything.
+
+0x98C752AC = ~z~Sir? I want you to have this.
+
+0x243CDDC5 = ~z~Hey, get out of here.
+
+0x291A82EB = ~z~You best stop.
+
+0x582EA6DF = ~z~That could've been ugly.
+
+0x600EF6D1 = ~z~Please leave me alone.
+
+0x829E44A2 = ~z~You bloody moron.
+
+0x2654D522 = ~z~That's something you don't see every day!
+
+0x2826ACCB = ~z~Okay. This is all I have.
+
+0x3614AEDA = ~z~I'm paying you no more mind.
+
+0x7992F0D2 = ~z~Okay, enough of this.
+
+0x8069D003 = ~z~You bumbling fool.
+
+0x74539F76 = ~z~Anything anyone can give me? Please help me...
+
+0x78114C46 = ~z~I won't tell a soul.
+
+0x89048C63 = ~z~A coin? Maybe two coins?
+
+0x89702A95 = ~z~You the cause of this?
+
+0x93002FBE = ~z~Hey, what was that for?
+
+0x253070EE = ~z~I'll die without help.
+
+0x6622535B = ~z~If you ain't gonna buy something, beat it.
+
+0x8454462B = ~z~Leave me be.
+
+0x67593745 = ~z~You better find someplace else to be.
+
+0x70659659 = ~z~Thank you.
+
+0xA85B0499 = ~z~You're a damn cretin.
+
+0xA2272FC7 = ~z~Ta ta, thank you.
+
+0xA6526CFC = ~z~Please! You, yes, please, a coin, please. Please, a coin?
+
+0xA921470F = ~z~Shit, come on.
+
+0xAB293F76 = ~z~But you don't care... fine! I don't want your money.
+
+0xAFFE2F23 = ~z~Watch your step.
+
+0xAFFFAF2E = ~z~You bumbling fool.
+
+0xB347E43B = ~z~We'll see about this.
+
+0xB4455725 = ~z~Whoa, we ain't got no quarrel here.
+
+0xBA791A41 = ~z~What's wrong with you? Stop!
+
+0xBC378A31 = ~z~No! No more.
+
+0xBEE71FA6 = ~z~Let me go! I ain't no animal.
+
+0xBF06C466 = ~z~Yeah, well... you ain't no better than me.
+
+0xC15727FD = ~z~Stop it, damn you!
+
+0xCA0D27BD = ~z~I don't like having a shadow, okay?
+
+0xCB582C4F = ~z~Whoa. Put the gun away.
+
+0xCD7A980D = ~z~Whatever you can give, mister... is fine with me.
+
+0xD2B0C535 = ~z~Don't do this.
+
+0xD8A6EE1B = ~z~
+
+0xD48884FE = ~z~Go to hell, will you?
+
+0xD90979F6 = ~z~Hey! Sticky-fingered bastard!
+
+0xDA8C099A = ~z~Thank you.
+
+0xDC57CDF8 = ~z~What? What do you want here?
+
+0xDF33558D = ~z~What can I get you today?
+
+0xE0E6B020 = ~z~Get off me, you leper.
+
+0xE9D47970 = ~z~Stop this foolishness this minute.
+
+0xE43FC9B4 = ~z~Come on, let's go. I can't take any more of this.
+
+0xE230FB23 = ~z~Can anybody show me some kindness?
+
+0xEB63C243 = ~z~Have yourself a good day.
+
+0xEB166901 = ~z~
+
+0xED24F170 = ~z~Good day for some shopping, eh?
+
+0xF5CCC818 = ~z~Okay, okay, take it then.
+
+0xF350CB86 = ~z~Good, that's much more sensible.
+
+0xFA22C8EC = ~z~I know it ain't much.
+
+0xFAC6C61A = ~z~I want you to have this.
+
+0xFDA866CC = ~z~Come again soon!
+

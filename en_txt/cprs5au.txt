@@ -1,0 +1,10 @@
+CPRS5_ACT_A_1 = ~z~Mr. Morgan!
+
+CPRS5_ACT_A_2 = ~z~The people are happy and well fed. I think perhaps we'll be okay.
+
+CPRS5_ACT_A_3 = ~z~Here's hoping, Pearson.
+
+CPRS5_ACT_B_1 = ~z~And perhaps we shall make it to the sea after all.
+
+CPRS5_ACT_B_2 = ~z~How I miss it... its flatness.
+

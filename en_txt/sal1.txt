@@ -1,0 +1,66 @@
+SAL1_BART = Bartender
+
+SAL1_BART_D = Bartedner
+
+SAL1_BEAT = Beat
+
+SAL1_CHARM = Charm
+
+SAL1_DRINK = Drink
+
+SAL1_DROWN = Drown
+
+SAL1_FAIL_SAL = You rode away from the saloon.
+
+SAL1_FAIL_SALR = You ran away from the saloon.
+
+SAL1_FAIL_VAL = You rode away from Valentine.
+
+SAL1_FAIL_VALR = You ran away from Valentine.
+
+SAL1_FINDL = Find Lenny in the ~o~saloon~s~
+
+SAL1_GODRINK = Go to the ~o~bar~s~
+
+SAL1_GOTO1 = Ride to the Valentine ~o~saloon~s~
+
+SAL1_GOTOL = Go to ~o~Lenny~s~
+
+SAL1_GREET1 = Great
+
+SAL1_GREET2 = Grate
+
+SAL1_GREET3 = teerG
+
+SAL1_GREET4 = Gret
+
+SAL1_ILO = Stranger
+
+SAL1_JUMP = Jump
+
+SAL1_LENNY = Lemmy?
+
+SAL1_LENNY2 = Lennie?
+
+SAL1_LENNY3 = Lneny?
+
+SAL1_LENNY4 = ynneL?
+
+SAL1_MOUNT = Mount your ~o~horse~s~
+
+SAL1_ORDER = Lean On Bar
+
+SAL1_REAL = Find Lenny in the ~o~saloon~s~
+
+SAL1_RET_SAL = Return to the ~o~Saloon~s~
+
+SAL1_SLAP = Slap
+
+SAL1_THREAT = Threaten
+
+SAL1_TOMMY = Tommy
+
+SAL1_UC_LEN = Lenny!
+
+SAL1_WATER = Dunk
+

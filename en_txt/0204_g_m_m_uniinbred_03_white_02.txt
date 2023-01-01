@@ -1,0 +1,406 @@
+0x001B7FD8 = ~z~You a cheat!
+
+0x00C3BEFE = ~z~Shoot him!
+
+0x04774024 = ~z~Dumb sumbitch!
+
+0x074DBC9D = ~z~He done seen the bodies! He's got to go in the cart, too...
+
+0x085CFEA2 = ~z~Gonna kill you.
+
+0x08F11714 = ~z~Scram.
+
+0x09238396 = ~z~Huh? Okay.
+
+0x097F30C9 = ~z~Why aren't that feller dead?
+
+0x0B047194 = ~z~Get you back, I'm gonna meet you up with some friends of mine.
+
+0x0B63F57D = ~z~Don't let 'em force you back.
+
+0x0D5323F8 = ~z~I'm sure... not even their momma'd know 'em.
+
+0x1BA603E4 = ~z~You hear us? We said to move along!
+
+0x1C5CA34F = ~z~And don't you come back.
+
+0x1DA2813B = ~z~It is! You're going underwater, mister!
+
+0x1DF28491 = ~z~Move away.
+
+0x1EEC87BA = ~z~I don't like this no more.
+
+0x2A90A363 = ~z~We got you now, boy...
+
+0x2BBB5CFC = ~z~I telled you to stay!
+
+0x2C0321E7 = ~z~I'm going home!
+
+0x2CBED8DE = ~z~Hey! Come on. Let me go.
+
+0x2D9BE5D1 = ~z~You don't get them hands up, I'm gonna get real cross.
+
+0x2EA5FB16 = ~z~You gonna scream like a girl!
+
+0x3A141CF7 = ~z~I don't get you, my cousins will.
+
+0x3B3991EF = ~z~We gonna eat well offa this boy.
+
+0x3C04B7CB = ~z~You a bad person.
+
+0x3C1F9A2B = ~z~
+
+0x3C2F8E8E = ~z~Hey, mind your business!
+
+0x3D2A1E4B = ~z~You not allowed there. Go.
+
+0x3E50001D = ~z~If it's shooting time, just tell me.
+
+0x3E188162 = ~z~Scram.
+
+0x3F04FBBA = ~z~You check. I did the hollering.
+
+0x4C616863 = ~z~Mister, I know y'had some disagreements with my kin... but I need help...
+
+0x4CE0BDD0 = ~z~
+
+0x4D1FC8FD = ~z~I says leave. Else Imma hurt you.
+
+0x5AB434E8 = ~z~Stop it! I don't like being tied.
+
+0x5AD2EAB2 = ~z~Oh, hey, you, mister!
+
+0x5AF061E5 = ~z~Hello? I'm dying out here!
+
+0x5B3A9EDC = ~z~This Murfree country. You'n yours ain't allowed.
+
+0x6A36D64D = ~z~He crazy!
+
+0x6B73A6D2 = ~z~Uh oh. They can't take our pets!
+
+0x6BE2CB39 = ~z~Help!
+
+0x6C855E3B = ~z~Get.
+
+0x6CD01044 = ~z~He's done. Let's go.
+
+0x6E5021E9 = ~z~But I wanted to smash you.
+
+0x6EC262B5 = ~z~Go to hell.
+
+0x7A29B88E = ~z~
+
+0x7D50F8FC = ~z~A gun? This gonna end bad for you.
+
+0x7D94CB14 = ~z~Hey! Is they, is they comin' for our toys?
+
+0x7D986EA4 = ~z~
+
+0x7DB467E2 = ~z~Hey, what are you looking at?
+
+0x7E2DA525 = ~z~I don't get you, my cousins will!
+
+0x8A5E4624 = ~z~I'm to hurt you if'n you stay here
+
+0x8B7E0356 = ~z~Come on! Just one person to lend a hand...
+
+0x8B9F08EF = ~z~I'm a coming.
+
+0x8C5C4182 = ~z~You messing with Murfrees now.
+
+0x8CFDEE73 = ~z~He won't play along!
+
+0x9B707066 = ~z~I'm about ready to smash your face.
+
+0x9C461CE5 = ~z~The Murfrees'll remember this!
+
+0x9F39172B = ~z~And my knee hurt.
+
+0x9FAF527D = ~z~We got a live one!
+
+0x9FB6DF7C = ~z~We in real trouble here!
+
+0x12CE94DA = ~z~Get offa me.
+
+0x16E558B1 = ~z~Shit!
+
+0x18F871BE = ~z~They hungry anyways. Like the all of us.
+
+0x19DB5AC5 = ~z~Leave me alone.
+
+0x21B7BEC2 = ~z~You wanna play?
+
+0x21D4F15A = ~z~I need help here.
+
+0x22C37B5C = ~z~You're horrible.
+
+0x23E984DC = ~z~It's real bad... I'm in pain!
+
+0x25BCFA95 = ~z~Lookie here, lookie here!
+
+0x27D2DA3F = ~z~Didn't I tell you? Hands up.
+
+0x29DA1376 = ~z~I don't like you.
+
+0x30DA38CC = ~z~
+
+0x36BCDB97 = ~z~You trying to get me mad?
+
+0x38C9C9FE = ~z~I wants you dead.
+
+0x46C3DAE7 = ~z~What are you doing with that?
+
+0x48D2B1E0 = ~z~Shit, he knows what's up!
+
+0x50B77EBD = ~z~You. Get down here.
+
+0x57DE87D1 = ~z~Anybody help a poor me?
+
+0x57FCE91C = ~z~Why you tying me? We just found these bodies!
+
+0x61A64885 = ~z~Get!
+
+0x61EC45BD = ~z~Should find your own woman!
+
+0x63BD29A6 = ~z~You moved. Stand still.
+
+0x64DCD179 = ~z~See, you ain't so big and scary.
+
+0x65C67D25 = ~z~You better go, or you'll get it.
+
+0x77D75B04 = ~z~What are you looking at, boy?
+
+0x78CA9C76 = ~z~Christ!
+
+0x79EA5600 = ~z~I said still.
+
+0x87C21304 = ~z~I got a gun of my own now, I'm itching to use.
+
+0x143CD363 = ~z~We should go back to Momma now!
+
+0x153F4D10 = ~z~Oh! You're one of them!
+
+0x158E63DE = ~z~It's plenty deep here. We gonna dump 'em?
+
+0x274F847C = ~z~You're mean.
+
+0x286EA1BF = ~z~Oh, shit!
+
+0x353C0CD5 = ~z~Last chance.
+
+0x486A9055 = ~z~You gotta let me free.
+
+0x491D6AA5 = ~z~Ain't you dead yet?
+
+0x505F25EF = ~z~Go away.
+
+0x536F7CE0 = ~z~The creek's for fishing. The creek's for drinking. Creek's for bathing.
+
+0x541FD9D8 = ~z~You go or else.
+
+0x573AFA58 = ~z~Fire, fire!
+
+0x636A1EBC = ~z~
+
+0x669CA313 = ~z~Uh... Okay.
+
+0x670F1AC2 = ~z~Close now.
+
+0x712C8C0E = ~z~You again? I says go and you're here?
+
+0x736FEC18 = ~z~Go to hell.
+
+0x765B5F88 = ~z~You wouldn't kill me!
+
+0x879B8793 = ~z~What was I doing?
+
+0x1617A457 = ~z~She was ours!
+
+0x1631EC26 = ~z~Don't understand. Sounds mean, though.
+
+0x2976BCD9 = ~z~You stay away, stranger. This lady, she's ours.
+
+0x4652DD87 = ~z~Momma!
+
+0x5081A480 = ~z~My gun makes a real loud bang.
+
+0x7584CF58 = ~z~Yeah, he too burnt for eating!
+
+0x29258BD2 = ~z~Keep at it. I likes to punch people.
+
+0x61590B3E = ~z~Yeah... We stay I might wanna do something else...
+
+0x496806C3 = ~z~Help... Me... The pox!
+
+0x701788F9 = ~z~You messing with Murfrees now!
+
+0x707663FD = ~z~You ever think about, maybe it ain't good to dump these bodies in the creek?
+
+0x5942026F = ~z~Hey! Is they comin' to take our captures?
+
+0x8465259E = ~z~You there, keep... hey, I know you!
+
+0x9535206F = ~z~Okay, let's move on. I'm done with this.
+
+0x24887542 = ~z~Alright, kill 'em!
+
+0x25023822 = ~z~Why you being mean?
+
+0x28357779 = ~z~What're you doing? Get off of me.
+
+0x72208318 = ~z~I ain't well!
+
+0x95562308 = ~z~Okay then.
+
+0xA07372D9 = ~z~Bullshit you was... We got you now, boy...
+
+0xA07C68B1 = ~z~You didn't move like we asked!
+
+0xA099DEF8 = ~z~You's gonna scream like a girl.
+
+0xA2C405AD = ~z~You gonna get killed real soon. Hands up. Now.
+
+0xA7E3CE25 = ~z~You like to play with guns?
+
+0xA49FD4E6 = ~z~Guess you right...
+
+0xA50BCB22 = ~z~Look what you did.
+
+0xA59BA924 = ~z~Uh oh... Hey!
+
+0xA61D55E0 = ~z~Don't you worry, pretty lady. They're just pets.
+
+0xA942D7BD = ~z~Go away.
+
+0xA4919E1F = ~z~Put them hands up.
+
+0xA24967D6 = ~z~Don't you move a muscle.
+
+0xAAB97E3C = ~z~I'ma make my momma proud.
+
+0xAE18B6CC = ~z~We got 'em surrounded good.
+
+0xAE937AEB = ~z~You's a dead man.
+
+0xAFA0B43D = ~z~Let me see them hands
+
+0xB3BD0546 = ~z~We gotta stick him good.
+
+0xB6B53A8E = ~z~I'll brain you!
+
+0xB42D65F4 = ~z~I'm stopping. Y'all can deal with her.
+
+0xB230CEF9 = ~z~Go on. Get.
+
+0xB555F558 = ~z~Hey, what you doing here?
+
+0xB2694B97 = ~z~Hey, you stop that.
+
+0xB292530E = ~z~I gotcha now!
+
+0xBADF9912 = ~z~You stay still now, y'hear?
+
+0xBC9514A0 = ~z~Oh, this boy's gonna be easy.
+
+0xBD7B90FF = ~z~Hey, mister? You! I know you...
+
+0xBD54E9CC = ~z~Hey.
+
+0xBE7CA53A = ~z~No good fishing this way, mister.
+
+0xBED179BF = ~z~Seems maybe ain't right it's for dumping, too.
+
+0xC4C6235A = ~z~Why don't we put the feuding behind us, huh? Bury 'em together?
+
+0xC5CB3D5C = ~z~Ain't I... Haven't we said hello?
+
+0xC6FA2081 = ~z~I'm suffering... I'm suffering... It's horrible!
+
+0xC7B41072 = ~z~You gots to pay for that.
+
+0xC297E3E6 = ~z~We gotta dig in, good.
+
+0xCFF0EB7D = ~z~I did it! You see?
+
+0xD0A14EF4 = ~z~Help me, I needs you!
+
+0xD0B9DEEB = ~z~He gots to die!
+
+0xD0CE54B2 = ~z~Hands up. You gotta do what I say now.
+
+0xD1DFAF1B = ~z~You just stupid, dammit. Gonna have to hunt you, now.
+
+0xD6D3BAF2 = ~z~You ain't wanted in these Murfree hills.
+
+0xD9A1F368 = ~z~I gets to shoot you, if you don't stick 'em hands up.
+
+0xD9E13949 = ~z~You gotta be real dumb!
+
+0xD61E1A25 = ~z~I gotcha now.
+
+0xD756CC79 = ~z~Die, bastard!
+
+0xD915675F = ~z~Who you, huh?
+
+0xDA7B5755 = ~z~I ain't for warning you no more.
+
+0xDA457DFA = ~z~I got you.
+
+0xDB581E5F = ~z~One more step and you's dead.
+
+0xDC3590D7 = ~z~You gonna be a mess when we done!
+
+0xDD9A2800 = ~z~Bullshit you was!
+
+0xDE6E7A54 = ~z~Make him die!
+
+0xE0D1EB5B = ~z~Ain't I tell you to go already?
+
+0xE1EE4401 = ~z~
+
+0xE4B66BCB = ~z~Last chance.
+
+0xE5EA69A0 = ~z~Why ain't that feller dead?
+
+0xE8C1B932 = ~z~If you move again, I's allowed to shoot you.
+
+0xE9ECBAB8 = ~z~But we was nice to you!
+
+0xE13EE9F9 = ~z~He ain't fall for it!
+
+0xE56DA991 = ~z~We gots to hold 'em off.
+
+0xE2591EF4 = ~z~You squealing got me all red. You fun.
+
+0xE70061D0 = ~z~No, wait... hey, where you going?
+
+0xED24C836 = ~z~Shoot you dead.
+
+0xEDE29292 = ~z~Can't go on much longer!
+
+0xEFDF2B5A = ~z~
+
+0xF3F08128 = ~z~I'm gonna get angry, you keep that up.
+
+0xF3F41599 = ~z~Help me! I needs you.
+
+0xF27EBD69 = ~z~I'ma make you die.
+
+0xF41AD29B = ~z~It's too hot!
+
+0xF3850B3C = ~z~
+
+0xF68436AD = ~z~You got Murfree blood on you! You're dead.
+
+0xFADED057 = ~z~You stuck here now.
+
+0xFC09E074 = ~z~Go away. Stranger, I'd run if I was you's.
+
+0xFC7296B0 = ~z~You's a dead man!
+
+0xFDBA1DD2 = ~z~I ain't for warning you no more.
+
+0xFE5EC416 = ~z~Hands up! You trying to rob a sick man?
+
+0xFFD1366F = ~z~We're hurting real bad.
+

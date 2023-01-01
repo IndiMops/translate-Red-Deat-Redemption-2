@@ -1,0 +1,14 @@
+CWMB2_ACT_1 = ~z~Hey, how have you been, Arthur?
+
+CWMB2_ACT_2 = ~z~Fine, Mary-Beth.
+
+CWMB2_ACT_3 = ~z~You see that Mary Gillis?
+
+CWMB2_ACT_4 = ~z~Sure, I saw her.
+
+CWMB2_ACT_5 = ~z~Get over her, Arthur.
+
+CWMB2_ACT_6 = ~z~Oh, it's all a long time ago.
+
+CWMB2_ACT_7 = ~z~Oh... I hope so.
+

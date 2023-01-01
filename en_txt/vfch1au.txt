@@ -1,0 +1,16 @@
+VFCH1_ACTION_1 = ~z~~sl:1.1~You're a hard man to find, Arthur.
+
+VFCH1_ACTION_2 = ~z~Hello, Charles.
+
+VFCH1_ACTION_3 = ~z~Been tracking you for days... and Dutch was worried.
+
+VFCH1_ACTION_4 = ~z~I've been, uh, well... I'm fine, as you see.
+
+VFCH1_ACTION_5 = ~z~~sl:0.4~Yeah, so I see...
+
+VFCH1_ACTION_6 = ~z~You coming back to camp?
+
+VFCH1_NEGATIVE_1 = ~z~Soon. I promise.
+
+VFCH1_POSITIVE_1 = ~z~Sure.
+

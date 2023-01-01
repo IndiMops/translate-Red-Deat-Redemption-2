@@ -1,0 +1,14 @@
+CUNC8_ACTN_1 = ~z~Mr. Pearson! Mr. Pearson!
+
+CUNC8_ACTN_2 = ~z~Yes?
+
+CUNC8_ACTN_3 = ~z~I think you're losing your touch.
+
+CUNC8_ACTN_4 = ~z~How so?
+
+CUNC8_ACTN_5 = ~z~Well... It's been at least 6 months since you killed anyone with your cooking.
+
+CUNC8_ACTN_6 = ~z~Don't tempt me, you repulsive little maggot!
+
+CUNC8_ACTN_7 = ~z~I love you, too!
+

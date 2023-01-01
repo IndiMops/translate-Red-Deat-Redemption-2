@@ -1,0 +1,18 @@
+BCCU3_ACT_A_1 = ~z~So... what you been doing all these years?
+
+BCCU3_ACT_A_2 = ~z~After, you know, things went down the way they did.
+
+BCCU3_ACT_A_3 = ~z~Drifting, stuck to myself mostly. Did what I had to, to get by.
+
+BCCU3_ACT_A_4 = ~z~Some of it I'd rather forget. You?
+
+BCCU3_ACT_A_5 = ~z~Oh, not much, you know. Got a little older, a little wiser and... a little more handsome.
+
+BCCU3_ACT_B_1 = ~z~Of course.
+
+BCCU3_ACT_B_2 = ~z~
+
+BCCU3_ACT_B_ALT_1 = ~z~Ain't that right, John?
+
+BCCU3_ACT_B_ALT_2 = ~z~And a little drunker.
+

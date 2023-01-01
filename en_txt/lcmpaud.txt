@@ -1,0 +1,464 @@
+LCMPF_IG1_1 = ~z~Hey, what in the hell do you want?
+
+LCMPF_IG1_2 = ~z~Ain't you raised enough hell around here?
+
+LCMPF_IG1_ALTR_1 = ~z~There ain't nothing for you here.
+
+LCMPF_IG1_ALT_1 = ~z~Hey, you get the hell away from here! We don't need you causing anymore trouble.
+
+LCMPF_IG1_R_1 = ~z~Just leave us alone. We're done.
+
+LCMPF_IG3_1 = ~z~Timber!
+
+LCMPF_IG_TFAIM_01 = ~z~Oh, God!
+
+LCMPF_IG_TFAIM_02 = ~z~What... what are you doing?
+
+LCMPF_IG_TFAIM_03 = ~z~No, I ain't ready yet!
+
+LCMPF_IG_TFATK_01 = ~z~Oh God, no!
+
+LCMPF_IG_TFATK_02 = ~z~You're crazy!
+
+LCMPF_IG_TFATK_03 = ~z~What the hell?
+
+LCMPF_IG_TFPLRN_1 = ~z~You better start praying for a miracle.
+
+LCMPF_IG_TFPLRN_2 = ~z~You think I don't know that? I'm done for!
+
+LCMPF_IG_TFPLRP_1 = ~z~That foreman's a real bastard, ain't he? Here, this should help you get back on your feet.
+
+LCMPF_IG_TFPLRP_2 = ~z~Thanks, mister. You're a good man.
+
+LCMPF_IG_TFR1N_1 = ~z~That leg is just gone.
+
+LCMPF_IG_TFR1N_2 = ~z~Yeah... I know...
+
+LCMPF_IG_TFR1P_1 = ~z~You gonna be alright there?
+
+LCMPF_IG_TFR1P_2 = ~z~I think so...
+
+LCMPF_IG_TFR2N_1 = ~z~If a tree falls on some feller in the woods... then that feller gets left all alone... did that feller ever exist?
+
+LCMPF_IG_TFR2N_2 = ~z~Why would you say that?
+
+LCMPF_IG_TFR2P_1 = ~z~Alright, take care of yourself.
+
+LCMPF_IG_TFR2P_2 = ~z~Thanks, mister.
+
+LCMPF_IG_TFRSH_1 = ~z~Thank you for your help, mister. I don't know what I'm gonna do now.
+
+LCMPF_IG_TFRSN_1 = ~z~Might as well put me out of my misery...
+
+LCMP_AGGRO1_1 = ~z~Okay, that's enough.
+
+LCMP_AGGRO2_1 = ~z~Now get off my site.
+
+LCMP_AGGRO3_1 = ~z~That's it, you're done.
+
+LCMP_AGGRO4_1 = ~z~You get the hell out of here right now.
+
+LCMP_ANGRRES1_1 = ~z~Now, is that any way to welcome a friend? Such a lack of hospitality.
+
+LCMP_ANGRRES2_1 = ~z~Alright, don't get your bonnet in a twist. Just passing through.
+
+LCMP_ANGR_2_1 = ~z~I ain't gonna tell you again, now get out of here.
+
+LCMP_BODY1_1 = ~z~I hope you got a real good reason to be carrying that around.
+
+LCMP_BODY2_1 = ~z~I got my eye on you.
+
+LCMP_FMN_EOS_1 = ~z~All right, dinner time. You can pack it in now.
+
+LCMP_FP_FPART_1 = ~z~Don't mention it. Me and wolves go way back.
+
+LCMP_FP_LATER_1 = ~z~If you come back in a day or so, we should have lumber for sale again.
+
+LCMP_GOODBYE_1 = ~z~I'm leaving. Don't work too hard.
+
+LCMP_GOODBYE_2 = ~z~There ain't much danger of that with this bunch, my friend.
+
+LCMP_IG_ACK_2_1 = ~z~Oh, welcome back again.
+
+LCMP_IG_ACK_2_2 = ~z~We're going great guns here, now. Really coming together.
+
+LCMP_IG_ACK_ACN_1 = ~z~Oh, hey. Can you believe those fools?
+
+LCMP_IG_ACK_ACN_2 = ~z~You'd think they'd have learned to get out of the way of a tree by now.
+
+LCMP_IG_ACK_ACP_1 = ~z~Oh. Thanks again for your help.
+
+LCMP_IG_ACK_ACP_2 = ~z~Half these workers don't know their ass from their armpit.
+
+LCMP_IG_FPACT2A_1 = ~z~Alright, you lazy bastards. You get back to work, first thing in the morning.
+
+LCMP_IG_FPACT2A_2 = ~z~The wolves are gone, so no more excuses.
+
+LCMP_IG_FPACT2_1 = ~z~Alright, you lazy bastards. Get back to work. Now!
+
+LCMP_IG_FPACT2_2 = ~z~The wolves are gone, so no more excuses.
+
+LCMP_IG_FPDW_1 = ~z~You not gonna take the money?
+
+LCMP_IG_FPDW_2 = ~z~ It's up to you.
+
+LCMP_IG_FPGNB_1 = ~z~There you are.
+
+LCMP_IG_FPGNB_2 = ~z~Can I assume this trophy means you've taken care of them all?
+
+LCMP_IG_FPGNB_3 = ~z~Yep, it's done.
+
+LCMP_IG_FPGNC_1 = ~z~There you are.
+
+LCMP_IG_FPGNC_2 = ~z~Please tell me there are dead wolves
+
+LCMP_IG_FPGNC_3 = ~z~and not just a dead's man corpse to show for this?
+
+LCMP_IG_FPGNC_4 = ~z~Yep, it's done.
+
+LCMP_IG_FPGND_1 = ~z~There you are.
+
+LCMP_IG_FPGND_2 = ~z~I take it that wolf pelt you're carrying means you've got some good news for me?
+
+LCMP_IG_FPGND_3 = ~z~Yep, it's done.
+
+LCMP_IG_FPGN_1 = ~z~There you are!
+
+LCMP_IG_FPGN_2 = ~z~I assumed from all the
+
+LCMP_IG_FPGN_3 = ~z~gunshots and howling, you got some good news for me?
+
+LCMP_IG_FPGN_4 = ~z~Yep, it's done.
+
+LCMP_IG_FPMT_1 = ~z~That's a relief, I'll tell ya.
+
+LCMP_IG_FPMT_2 = ~z~Excellent work.
+
+LCMP_IG_FPMT_3 = ~z~Money's right there on the table.
+
+LCMP_IG_NI2N_1 = ~z~I ain't here for any of your damn trees, alright?
+
+LCMP_IG_NI2N_2 = ~z~Alright, well, just make sure none of them fall on you, then.
+
+LCMP_IG_NIACT1_1 = ~z~Ah, look who it is.
+
+LCMP_IG_NIACT2_1 = ~z~Guess I'll come back some other time.
+
+LCMP_IG_NIACTB_1 = ~z~I'm sorry but I don't have anything for you right now.
+
+LCMP_IG_NIACTB_2 = ~z~We're good on supplies.
+
+LCMP_IG_NIACTB_3 = ~z~We run out of lumber a couple of hours ago!
+
+LCMP_IG_NIBA_1 = ~z~Back again?
+
+LCMP_IG_NICL_1 = ~z~You don't really need to keep checking up on us.
+
+LCMP_IG_NICL_2 = ~z~I got this whole operation running like clockwork.
+
+LCMP_IG_NIFM_1 = ~z~If you say so. Could've fooled me.
+
+LCMP_IG_NIFN_1 = ~z~I can go wherever I please.
+
+LCMP_IG_NIFN_2 = ~z~Okay, I don't need this kind of aggravation right now.
+
+LCMP_IG_NOAIN_1 = ~z~That you ain't...
+
+LCMP_IG_NOAIN_2 = ~z~Alright then.
+
+LCMP_IG_NOG_1 = ~z~Good to see ya!
+
+LCMP_IG_NOG_2 = ~z~Operation's looking pretty good, huh?
+
+LCMP_IG_NOG_3 = ~z~We don't need any supplies for the time being and,
+
+LCMP_IG_NOG_4 = ~z~I'm afraid all our lumber's already spoken for.
+
+LCMP_IG_NOG_5 = ~z~Oh, you can check back with us later though.
+
+LCMP_IG_NOSEE_1 = ~z~Alright, we'll see then.
+
+LCMP_IG_NOTI_1 = ~z~Well, I know I said come back later but,
+
+LCMP_IG_NOTI_2 = ~z~you got to give us a little bit more time here.
+
+LCMP_IG_NOTI_3 = ~z~I ain't no miracle worker.
+
+LCMP_IG_S2ACK_1 = ~z~Oh! I thought I'd see you again.
+
+LCMP_IG_S2ACK_2 = ~z~Pretty impressive out there, huh?
+
+LCMP_IG_S2AL_1 = ~z~Alright, I'll take it.
+
+LCMP_IG_S2BFM_1 = ~z~Back for some lumber, I assume?
+
+LCMP_IG_S2BFM_2 = ~z~I got a wagon out front, already loaded up and ready to go.
+
+LCMP_IG_S2BFM_3 = ~z~For you? Let's call it, eh, seventy-five dollars?
+
+LCMP_IG_S2BFM_4 = ~z~You won't beat that price anywhere.
+
+LCMP_IG_S2MNT_1 = ~z~Alright, well, we'll be here if you change your mind.
+
+LCMP_IG_S2OT_1 = ~z~Maybe some other time.
+
+LCMP_IG_S2VG_1 = ~z~Very good...
+
+LCMP_IG_S2VG_2 = ~z~The wagon's out front.
+
+LCMP_IG_S2VG_3 = ~z~See you next time.
+
+LCMP_IG_S2VG_4 = ~z~Plenty more trees where those came from!
+
+LCMP_IG_S2WS_1 = ~z~What do you say? You gonna take it?
+
+LCMP_IG_S3HELP_1 = ~z~Oh, yes... you.
+
+LCMP_IG_S3HELP_2 = ~z~You've been a real bastard to us in the past, but I gotta ask.
+
+LCMP_IG_S3HELP_3 = ~z~These wolves have got me at the end of my rope.
+
+LCMP_IG_S3MAN_1 = ~z~Oh... yes! Yes!
+
+LCMP_IG_S3MAN_2 = ~z~Maybe you're the man I need.
+
+LCMP_IG_S3MAN_3 = ~z~Can you believe these lazy lily livers?
+
+LCMP_IG_S3MAN_4 = ~z~Refusing to work on account of a few little wolves.
+
+LCMP_IG_S3_AW_1 = ~z~They've been attacking workers on the south side of the camp...
+
+LCMP_IG_S3_AW_2 = ~z~We need a real man to get rid of them.
+
+LCMP_IG_S3_AW_3 = ~z~What do you say?
+
+LCMP_IG_S3_AW_4 = ~z~You'll be very well rewarded.
+
+LCMP_IG_S3_NR_1 = ~z~
+
+LCMP_IG_S3_NR_2 = ~z~Just think about it!
+
+LCMP_IG_S3_PLNR_1 = ~z~This doesn't sound like any problem of mine.
+
+LCMP_IG_S3_PR_1 = ~z~Alright. If you're paying,
+
+LCMP_IG_S3_PR_2 = ~z~ I should be able to take care of that for you.
+
+LCMP_IG_TFHEL_1 = ~z~~sl:4.1~It hurts so bad!
+
+LCMP_IG_TFHEL_2 = ~z~Man on the ground! I need help over here, right now!
+
+LCMP_IG_TFHEL_3 = ~z~Please, someone, get it off!
+
+LCMP_IG_TFHEL_4 = ~z~Come on, don't just stand there. C'mon, sombody! Give me a hand with this.
+
+LCMP_IG_TFHEL_5 = ~z~~sl:2.5~Get this off me!
+
+LCMP_IG_TFHLS_1 = ~z~~sl:0.0:3.3:1~Oh God!
+
+LCMP_IG_TFHLS_2 = ~z~Alright, we've done all we can for you...
+
+LCMP_IG_TFHLS_3 = ~z~Come back for your money at the end of the week.
+
+LCMP_IG_TFHLS_4 = ~z~I can't pay you full for today, of course.
+
+LCMP_IG_TFHLS_5 = ~z~The rest of you, stop gawking! Get back to work.
+
+LCMP_IG_TFHLS_6 = ~z~Come on.
+
+LCMP_IG_TFPLNF_1 = ~z~You treat your workers like shit.
+
+LCMP_IG_TFPLNF_2 = ~z~It's none of your business how I run my site.
+
+LCMP_IG_TFSOM_1 = ~z~For the love of God! Somebody help us over here.
+
+LCMP_IG_TREE_P2_1 = ~z~Oh, shit, shit, shit, shit, shit. It's falling the wrong way!
+
+LCMP_IG_TREE_P2_2 = ~z~Oh... oh Christ alive...
+
+LCMP_IG_TREE_P2_3 = ~z~
+
+LCMP_INT_GRT_1 = ~z~Hey there.
+
+LCMP_MINATT1_1 = ~z~Hey, you leave my men alone.
+
+LCMP_MINATT2_1 = ~z~Alright, you need to leave now.
+
+LCMP_QUIT_1 = ~z~I've changed my mind, I don't have time for this right now.
+
+LCMP_QUIT_2 = ~z~Come on, please, I'm desperate here.
+
+LCMP_REASK_1 = ~z~Hey, glad you came back.
+
+LCMP_REASK_2 = ~z~So did you change your mind? Deal still stands.
+
+LCMP_REASK_3 = ~z~If you kill those wolves, I'll pay you well.
+
+LCMP_REASK_RESP_01 = ~z~I'm still working on it.
+
+LCMP_REASK_RESP_02 = ~z~Don't worry, I'll get to it.
+
+LCMP_REASK_RESP_03 = ~z~I just ain't got around to it yet, don't worry.
+
+LCMP_STEAL1_1 = ~z~Hey, you can't just take that.
+
+LCMP_STEAL2_1 = ~z~You try that again and there'll be trouble.
+
+LCMP_STEAL3_1 = ~z~Hey, I already told you about this.
+
+LCMP_STEAL4_1 = ~z~Thieving bastard.
+
+LOG_ACCPH_1 = ~z~And you, there! Thanks for your help.
+
+LOG_ACCPN_1 = ~z~As for you. We could have used your help.
+
+LOG_BUY_RET_1 = ~z~Hey, welcome back. You got any supplies for us?
+
+LOG_FMN_ORD_1_1 = ~z~Well, that's it.
+
+LOG_FMN_ORD_1_2 = ~z~You three, back to work!
+
+LOG_FMN_ORD_1_3 = ~z~We lost too much time on this already.
+
+LOG_FMN_ORD_1_4 = ~z~Mr. Appleseed is very unhappy.
+
+LOG_FMN_ORD_1_5 = ~z~Mr. Appleseed ain't out here getting mauled by wolves!
+
+LOG_FMN_ORD_1_6 = ~z~We lost two men already!
+
+LOG_FMN_ORD_2_1 = ~z~Well...
+
+LOG_FMN_ORD_2_2 = ~z~there ain't none of you getting paid for a single minute you didn't work.
+
+LOG_FMN_ORD_2_3 = ~z~Fine by me.
+
+LOG_FMN_ORD_2_4 = ~z~ I'd rather be poor than dead.
+
+LOG_FMN_ORD_3_1 = ~z~I... I've been around, I know this game. I tell you what...
+
+LOG_FMN_ORD_3_2 = ~z~any man goes back to work right now, gets double pay.
+
+LOG_FMN_ORD_3_3 = ~z~
+
+LOG_FMN_ORD_3_4 = ~z~We ain't budging on this.
+
+LOG_FMN_ORD_3_5 = ~z~So long as that pack of wolves is out there, we ain't working, 'kay?
+
+LOG_FMN_ORD_4_1 = ~z~~sl:0.7~Bunch of good-for-nothing cowards!
+
+LOG_FMN_ORD_4_2 = ~z~~sl:1.3~Yeah, yeah...
+
+LOG_FMN_ORD_4_3 = ~z~You call yourselves lumbermen? You afraid of a few damn critters.
+
+LOG_FMN_ORD_4_4 = ~z~It's a forest, what in the hell do you expect?
+
+LOG_LCMP_INT_1 = ~z~Can I help you?
+
+LOG_LCMP_INT_2 = ~z~Just taking a look.
+
+LOG_LCMP_INT_3 = ~z~We're with the Appleseed Timber Company.
+
+LOG_LCMP_INT_4 = ~z~Head Foreman.
+
+LOG_LCMP_INT_5 = ~z~We're still getting started on this site...
+
+LOG_LCMP_INT_6 = ~z~but we should have some...
+
+LOG_LCMP_INT_7 = ~z~fine Big Valley lumber for sale...
+
+LOG_LCMP_INT_8 = ~z~very soon if you're interested.
+
+LOG_LCMP_INT_9 = ~z~I'll keep that in mind.
+
+LOG_LCMP_INT_10 = ~z~We should be further along by now...
+
+LOG_LCMP_INT_11 = ~z~but what can you do?
+
+LOG_LCMP_INT_12 = ~z~I mean, look at these dolts...
+
+LOG_LCMP_INT_13 = ~z~there's not a brain between 'em.
+
+LOG_LCMP_INT_14 = ~z~Listen...
+
+LOG_LCMP_INT_15 = ~z~you got any supplies for sale...
+
+LOG_LCMP_INT_16 = ~z~food, medicine?
+
+LOG_LCMP_INT_17 = ~z~We're starting to run low, and...
+
+LOG_LCMP_INT_18 = ~z~I can't spare anyone to go into town...
+
+LOG_LCMP_INT_19 = ~z~not the way things are going.
+
+LOG_LCMP_INT_20 = ~z~Appreciate it.
+
+LOG_LCMP_INT_21 = ~z~That should help keep us going.
+
+LOG_LCMP_INT_A2_01 = ~z~Excellent, that's very helpful.
+
+LOG_LCMP_INT_A2_02 = ~z~Very good, we can really use these.
+
+LOG_LCMP_INT_A2_03 = ~z~Thank you, that's just what we need.
+
+LOG_LCMP_INT_A_1 = ~z~Appreciate it.
+
+LOG_LCMP_INT_A_2 = ~z~That should help keep us going.
+
+LOG_LCMP_INT_B0_1 = ~z~Nah. Sorry, partner.
+
+LOG_LCMP_INT_B_1 = ~z~Alright, well...
+
+LOG_LCMP_INT_B_2 = ~z~You check back with us in a few days if you're in the market for any lumber.
+
+LOG_LCMP_INT_LB_1 = ~z~Just taking a look.
+
+LOG_LCMP_INT_LB_2 = ~z~We're with the Appleseed Timber Company.
+
+LOG_LCMP_INT_LI_1 = ~z~Can I help you?
+
+LOG_LCMP_INT_LO_1 = ~z~I'd be happy to pay premium for 'em.
+
+LOG_LCMP_INT_LO_2 = ~z~
+
+LOG_LN01AT_1 = ~z~Hey, you. What the hell are you doing back here?
+
+LOG_LN01AT_2 = ~z~I don't know what you want, but you'd better get off my work site right now.
+
+LOG_LN01BT_1 = ~z~What do you want?
+
+LOG_LN01BT_2 = ~z~If you think I'm going to sell you any lumber, you got another thing coming.
+
+LOG_LN01CT_1 = ~z~Not you again. Well, guess I don't have much choice...
+
+LOG_LN01CT_2 = ~z~There's been some animals attacking the south side of camp.
+
+LOG_LN01CT_3 = ~z~If you can deal with them, I'll pay you well for it.
+
+LOG_SELL1_1 = ~z~Hey there. You here for more wood?
+
+LOG_SELL1_2 = ~z~We've got wagons loaded up and ready to go.
+
+LOG_WRK_CONV_1 = ~z~I still can't believe we lost Joe.
+
+LOG_WRK_CONV_2 = ~z~and did you see the state of him? Ripped his head clean off.
+
+LOG_WRK_CONV_3 = ~z~I don't want to think about it.
+
+LOG_WRK_CONV_4 = ~z~You know what? Let's have a toast. To Joe!
+
+LOG_WRK_CONV_5 = ~z~Yeah, to Joe. A more miserable bastard there never was.
+
+LOG_WRK_CONV_6 = ~z~To Joe!~n~~m~To Joe!
+
+LOG_WRK_CONV_7 = ~z~I don't know about you, but I'm ready to walk.
+
+LOG_WRK_CONV_8 = ~z~If the foreman don't do nothing about those wolves soon, I'm outta here.
+
+LOG_WRK_CONV_9 = ~z~Me and all.
+
+LOG_WRK_CONV_10 = ~z~Yup, me too.
+
+LOG_WRK_CONV_11 = ~z~We'll all go, see how they like it then.
+
+LOG_WRK_CONV_12 = ~z~Even the Foreman won't be able to bootlick his way out of that with Appleseed.
+

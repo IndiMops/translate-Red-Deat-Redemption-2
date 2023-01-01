@@ -1,0 +1,10 @@
+CWAH2_ACT_1 = ~z~Hey, I hear Mary's been seen again.
+
+CWAH2_ACT_2 = ~z~Sure.
+
+CWAH2_ACT_3 = ~z~Well, I always thought... well, she seems real nice.
+
+CWAH2_ACT_4 = ~z~She had better ideas than me... she ain't the only one.
+
+CWAH2_ACT_5 = ~z~
+

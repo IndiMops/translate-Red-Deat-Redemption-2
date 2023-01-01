@@ -1,0 +1,22 @@
+CFJE3_CNV_1 = ~z~~sl:0.0:0.9~When I was a boy~sl:~my mother told me about an animal that attacked cattle...
+
+CFJE3_CNV_2 = ~z~and drank their blood.
+
+CFJE3_CNV_3 = ~z~~sl:0.0:1.1~Of course you've all heard about this,~sl:0.0:1.4~every place has one of those but,~sl:0.3~my mother's version was a little different.
+
+CFJE3_CNV_4 = ~z~~sl:0.0:1.4~Along with farmyard animals,~sl:~her version also ate little boys who misbehaved.
+
+CFJE3_CNV_5 = ~z~
+
+CFJE3_CNV_6 = ~z~Oh, she tried everything she could to keep me in line.
+
+CFJE3_CNV_7 = ~z~Prepare me for a life of starving servitude
+
+CFJE3_CNV_8 = ~z~while picking corn and cotton for rich landowners.
+
+CFJE3_CNV_9 = ~z~Giving every penny I had to the church they used to keep us in line.
+
+CFJE3_CNV_10 = ~z~~sl:0.0:1.7~I loved my mother,~sl:0.3~but she never saw how things were.
+
+CFJE3_CNV_11 = ~z~~sl:0.0:2.3~Even after they killed her brother, still,~sl:1.4~she could not see how life was.
+

@@ -1,0 +1,32 @@
+CSTR3_ACT_1 = ~z~Mind if I sit?
+
+CSTR3_ACT_2 = ~z~No, be my guest.
+
+CSTR3_ACT_3 = ~z~
+
+CSTR3_ACT_4 = ~z~Money lending, hmm? It's not very dignified, is it?
+
+CSTR3_ACT_5 = ~z~I don't force anyone to take the money and I don't force anyone to not repay it.
+
+CSTR3_ACT_6 = ~z~But if they don't, you send one of us around to break their legs.
+
+CSTR3_ACT_7 = ~z~I send someone around to encourage them to comply, yes.
+
+CSTR3_ACT_8 = ~z~The way I see it, it's unseemly.
+
+CSTR3_ACT_9 = ~z~I did not take you for a man of mindless compassion, Mr. Bell.
+
+CSTR3_ACT_10 = ~z~Oh, I ain't. But I have the good grace to shoot a feller full in the face.
+
+CSTR3_ACT_11 = ~z~Not call myself his friend, then shoot him in the back.
+
+CSTR3_ACT_12 = ~z~Is that so?
+
+CSTR3_ACT_13 = ~z~Usually... not always.
+
+CSTR3_ACT_14 = ~z~Sometimes, there's nothing better than shooting a feller who thinks you like him, in the back.
+
+CSTR3_ACT_15 = ~z~So... watch yourself.
+
+CSTR3_ACT_16 = ~z~Please, excuse me.
+

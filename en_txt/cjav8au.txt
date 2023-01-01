@@ -1,0 +1,24 @@
+CJAV8_ACTION_A_1 = ~z~Can I-uh... talk to you a minute?
+
+CJAV8_ACTION_A_2 = ~z~Of course, partner.
+
+CJAV8_ACTION_B_1 = ~z~
+
+CJAV8_ACTION_B_2 = ~z~
+
+CJAV8_ACTION_B_3 = ~z~It's a pleasure!
+
+CJAV8_ACTION_B_4 = ~z~
+
+CJAV8_ACTION_D_1 = ~z~
+
+CJAV8_ACT_A_INT_1 = ~z~Arthur, this is a private conversation.
+
+CJAV8_ACT_C_ALT_1 = ~z~
+
+CJAV8_ACT_C_ALT_2 = ~z~That boy ain't dumb, no sir. Not dumb at all.
+
+CJAV8_INT_ACT_B_1 = ~z~
+
+CJAV8_INT_EXIT_1 = ~z~
+

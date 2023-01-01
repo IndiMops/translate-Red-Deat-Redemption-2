@@ -1,0 +1,78 @@
+0x0EA05512 = Talk to the ~o~Rancher~s~
+
+0x2A38343D = Lose the outlaws
+
+0x7DBAC39D = Check out the ~o~homestead.~s~
+
+0x231EDD68 = Outlaw
+
+0xAF217A4A = Mount a ~o~horse.~s~
+
+0xBBF3C693 = Return to ~o~Mr. Dickens~s~
+
+0xFADC9A03 = Some years later
+
+MAR1_ABIGAIL_JACK = Wait for ~o~Jack~s~
+
+MAR1_ABIGAIL_WAIT = Wait for ~o~Abigail~s~
+
+MAR1_ATTACK_ANGUS = You attacked Angus Geddes.
+
+MAR1_ATTACK_STROWN = You attacked the store owner.
+
+MAR1_ATTACK_STRWRK = You attacked a store worker.
+
+MAR1_DEAD_ANGUS = Angus Geddes has died.
+
+MAR1_DEAD_STROWN = You killed the store owner.
+
+MAR1_DEAD_STRWRK = You killed a store worker.
+
+MAR1_DICKENS = Mr. Dickens
+
+MAR1_FAIL_HAY = You lost too many of the goods.
+
+MAR1_FAIL_LAW = You broke the law.
+
+MAR1_FAIL_WAGON = The wagon became inoperable.
+
+MAR1_FAIL_WAGON_LOST = You lost the wagon.
+
+MAR1_GENERAL_STORE = Speak with the ~o~Shopkeeper~s~
+
+MAR1_GOTO_RANCH = Deliver the goods to ~o~Pronghorn Ranch~s~
+
+MAR1_HLP_STP_WAGON = To stop the wagon you can block its path or jump aboard from your horse.
+
+MAR1_ILO_CNTXT_FAR = Call Out
+
+MAR1_ILO_CONTEXT = Threaten
+
+MAR1_LOST = Retrieve the stolen ~o~wagon~s~.
+
+MAR1_MEET_ABIGAIL = Go to the ~o~Doctor's Office~s~ to meet with Abigail
+
+MAR1_PHR_RETURN = Return the wagon to ~o~Pronghorn Ranch~s~
+
+MAR1_RANCH_NAME = Pronghorn Ranch
+
+MAR1_STRAWBERRY = Go to ~o~Strawberry~s~
+
+MAR1_STRW_DIR_FAIL = You failed to bring your family to Strawberry.
+
+MAR1_STRW_FAIL = Your family were abandoned in Strawberry.
+
+MAR1_STRW_NAME = Strawberry
+
+MAR1_STRW_WARN = Return to ~o~Strawberry.~s~
+
+MAR1_STUCK_WAGON = The wagon became stuck.
+
+MAR1_THREAT_DICKENS = You threatened Mr. Dickens.
+
+MAR1_THREAT_RANCH = You threatened a rancher.
+
+MAR1_WAGON = Return to your ~o~wagon~s~
+
+MAR1_WARN_WAGON_LOST = Catch up to the stolen ~o~wagon~s~
+

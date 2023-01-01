@@ -1,0 +1,50 @@
+045_EXIT_DAY_1 = ~z~~sl:0.0:2.4~Well, while I'm still living,~sl:0.3~I should probably get things fixed up around here.
+
+045_INTR_1 = ~z~So, what brings you out here, friend?
+
+045_INTR_NEGJ_1 = ~z~No reason to concern you.
+
+045_INTR_NEGRES_1 = ~z~Hey, that's fine... so long as you mean me no harm, the rest I'm in no position to judge.
+
+045_INTR_NEG_1 = ~z~No reason to concern you.
+
+045_INTR_POSJ_1 = ~z~Just passing through.
+
+045_INTR_POS_1 = ~z~Just passing through.
+
+045_NEG_END_1 = ~z~Alright then, I ain't gonna say any more.
+
+045_NEG_END_2 = ~z~But I lived out here my whole life, so don't know what makes you such an expert.
+
+045_STRY1_NEGR_1 = ~z~Hey, hey, if you just listen, mister, you might learn something.
+
+045_STRY1_POSR_1 = ~z~Yeah, you know what I'm talking about.
+
+045_STRY2_NEGR_1 = ~z~You say what you want, I know what I saw.
+
+045_STRY2_POSR_1 = ~z~Yep, some people don't believe these things.
+
+045_STRY_1_1 = ~z~This place... I never known anywhere that can be so beautiful and so ugly all at once.
+
+045_STRY_1_2 = ~z~The moment you start thinking you own the Bayou, she'll remind you that you're just her guest.
+
+045_STRY_1_3 = ~z~What feeds you also feeds on you.
+
+045_STRY_1_4 = ~z~~sl:0.0:4.4~I been all over, the desert, the snow, but... I'm always drawn back here.~sl:1.0~There's a magic, like a, like a power here.
+
+045_STRY_2_1 = ~z~~sl:0.0:4.4~They say that life and death are more fluid here, like, more present.~sl:0.5~Like we're not quite in one place or the other.
+
+045_STRY_2_2 = ~z~There's a girl I see out here sometimes, just, floating out over the water.
+
+045_STRY_3_1 = ~z~Long white dress like you see on them fancy ladies in Saint Denis, but she ain't of the living world.
+
+045_STRY_3_2 = ~z~Way she talk, I reckon someone must have killed her, o-or she killed herself.
+
+045_STRY_3_3 = ~z~Chills me to the bone, every time.
+
+045_STRY_4_1 = ~z~Now, I ain't much of a religious man. I seen too much unnecessary suffering...
+
+045_STRY_4_2 = ~z~And if there's a divine purpose to that... well, I can't bring myself to celebrate it.
+
+045_STRY_4_3 = ~z~But this is where I want to die. Here, I know I'll live on.
+

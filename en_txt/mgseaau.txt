@@ -1,0 +1,590 @@
+0x0A5D1C4E = ~z~Off with you, now.
+
+0x1D28F4B3 = ~z~~sl:0.0:4.1~It's different, but... I reckon you might enjoy it, you know?~sl:2.0~Have a crack.
+
+0x5ED09D81 = ~z~~sl:0.0:2.5~Bit random, but, could be a nice earner for you, eh?~sl:0.5:1.2~See what you think.~sl:1.4~Go on then.
+
+0x7AB2680F = ~z~Take care then.
+
+0x61DA365F = ~z~~sl:0.0:1.7~I reckon that could be good for the likes of you...~sl:0.5~nothing too tough... just good times...
+
+0x93CEBFC5 = ~z~~sl:0.0:2.1~Could be a decent earner for you, I reckon.~sl:0.8:~From the looks of you... you need it.
+
+0x191FB9D3 = ~z~~sl:0.0:1.9~I was thinking it might be fun for ya.~sl:0.4~Different, but fun... you know?
+
+MGSEA_ASN_BLW_1 = ~z~~sl:0.0:3.4~Well, that's just fine because I've got something you'll like.~sl:~Being the angel of vengeance.
+
+MGSEA_ASN_BLW_2 = ~z~~sl:0.0:2.8~Look, it's a filthy job, but someone has to do it...~sl:0.3~these bastards need killing, they do.
+
+MGSEA_ASN_BLW_3 = ~z~~sl:0.0:2.5~And for a killing, you need professionals.~sl:0.3~So I thought of you as being well-suited.
+
+MGSEA_ASN_BLW_4 = ~z~~sl:0.0:2.9~That's a compliment, so feel free to smile...~sl:0.8~it's a bunch of bastards in Blackwater, so it is.
+
+MGSEA_ASN_BLW_5 = ~z~~sl:0.0:1.9~Bullies who have annoyed a lot of folk there,~sl:~and killed an acquaintance of mine. So vengeance must be sought.
+
+MGSEA_ASN_BLW_6 = ~z~~sl:0.0:2.8~And you're the seeker, on my behalf.~sl:0.4~He was a nice feller, Scottish lad he was.
+
+MGSEA_ASN_BLW_7 = ~z~~sl:0.0:2.8~Left a widow and two wee kiddies, he did.~sl:0.5~Yeah... real shame.
+
+MGSEA_ASN_PLYR_1 = ~z~~sl:0.0:1.8~Well that's just fine and dandy...~sl:0.6~as I've got something I wanted to tell you.
+
+MGSEA_ASN_PLYR_2 = ~z~~sl:0.0:3.0~So, I met this idiot the other night, right?~sl:0.4~ A real bloody moron they was...
+
+MGSEA_ASN_PLYR_3 = ~z~~sl:0.0:4.2~You know, one of these yapping dogs with opinions on everything.~sl:1.0~The absolute worst.
+
+MGSEA_ASN_PLYR_4 = ~z~And they particularly seemed to hate you.
+
+MGSEA_ASN_PLYR_5 = ~z~~sl:0.0:4.3~Now, I was tempted to kill them, then and there, on account of our friendship...~sl:~but in the end I decided against it.
+
+MGSEA_ASN_PLYR_6 = ~z~I had a better idea. I'd leave them for you.
+
+MGSEA_ASN_PLYR_7 = ~z~~sl:0.0:3.4~Because your boy Sean knows the only pleasure in shutting someone up,~sl:~is to shut them up personally.
+
+MGSEA_ASN_PLYR_8 = ~z~~sl:0.0:3.0~I mean, well, there's only one way to end a blood feud...~sl:~and that's you killing them for yourself.
+
+MGSEA_ASN_PSSE_1 = ~z~~sl:0.0:1.8~Well good work I've got for you...~sl:~something fine and true and necessary.
+
+MGSEA_ASN_PSSE_2 = ~z~The noble art of murder, no less. Yes, murder.
+
+MGSEA_ASN_PSSE_3 = ~z~~sl:0.0:2.4~Now don't go all fucking high and mighty on us, eh, now?~sl:0.4~I know murder is not usually a noble art. But bear with me.
+
+MGSEA_ASN_PSSE_4 = ~z~~sl:0.0:3.2~Some folks needs murdering, and that's a fact.~sl:~An undeniable fact. All these bastards needs killing.
+
+MGSEA_ASN_PSSE_5 = ~z~~sl:0.0:3.0~They've been acting like they're the kings of the country, so they have,~sl:~and yous need to teach them a lesson.
+
+MGSEA_ASN_PSSE_6 = ~z~~sl:0.0:2.9~So go kill them. Every one of them.~sl:0.4~There's many a folk 'round here will pat you on the back.
+
+MGSEA_ASN_PSSE_7 = ~z~~sl:0.0:2.6~You're doing the work of the police so right you are...~sl:0.4~trust old Sean on this one... he'll see you right.
+
+MGSEA_ASN_STLL_1 = ~z~~sl:0.0:3.2~Well, that's good, because there's a gang I want to tell you all about.~sl:0.4~Right nasty bastards they is. Awful.
+
+MGSEA_ASN_STLL_2 = ~z~~sl:0.0:2.8~Done all manner of almost unspeakable things...~sl:0.5~stolen kiddie milk, annoyed old ladies, worn hats in church.
+
+MGSEA_ASN_STLL_3 = ~z~~sl:0.0:2.7~And even danced with lassies they wasn't engaged too.~sl:1.2~Well, that and... far too much goddamn killing of folk.
+
+MGSEA_ASN_STLL_4 = ~z~~sl:0.0:1.9~So you're going to kill them for me,~sl:0.4~and we'll both make a packet, we will. So good luck.
+
+MGSEA_ASN_STLL_5 = ~z~~sl:0.0:3.3~Bastards are hiding out in Stillwater Creek and Manteca Falls,~sl:~south west of Thieves Landing...
+
+MGSEA_ASN_STLL_6 = ~z~~sl:0.0:3.1~Assume they're heavily armed and pretty nasty...~sl:~pretty nasty indeed. Okay?
+
+MGSEA_AST_TALL_1 = ~z~~sl:0.0:1.2~I guessed as much...~sl:~by the way... you ever run into Freddie O'Hallaghan?
+
+MGSEA_AST_TALL_2 = ~z~~sl:0.0:2.9~Right shite he is, him and his boys.~sl:~I cannot stand them. And I ain't the only one...
+
+MGSEA_AST_TALL_3 = ~z~There's a price on the streets for all their heads... pretty decent price and all.
+
+MGSEA_AST_TALL_4 = ~z~~sl:0.3:2.3~And this has been coming for quite a while.~sl:~They've annoyed too many folk, both good and bad.
+
+MGSEA_AST_TALL_5 = ~z~~sl:0.0:2.2~Done all manner of nasty shite.~sl:~Killed, robbed, molested animals. Been unkind to women and dogs.
+
+MGSEA_AST_TALL_6 = ~z~I ain't one to judge. But these fuckers have to go.
+
+MGSEA_AST_TALL_7 = ~z~~sl:0.0:4.0~By the way, I like you, I do... I really do...~sl:0.3:3.6~I'm developing a sort of a... a friendship for you...~sl:~even though you lack a certain charm.
+
+MGSEA_CH_BLW_1 = ~z~~sl:0.0:1.2~I supposed as much...~sl:1.6:3.7~You still ain't much of a conversationalist now, is you?
+
+MGSEA_CH_BLW_2 = ~z~~sl:0.0:3.5~Anyway, that ain't my concern. Unlike robbery.~sl:~Robbery is my concern. Especially the noble art of highway robbery.
+
+MGSEA_CH_BLW_3 = ~z~~sl:0.0:2.8~My family has been robbing stage coaches for three hundred years...~sl:0.4~on two continents, we have...
+
+MGSEA_CH_BLW_4 = ~z~~sl:0.0:3.6~So I speak as a man of rare experience in the matter.~sl:0.5~So... I've got a stagecoach for yous, another one.
+
+MGSEA_CH_BLW_5 = ~z~With plenty of loot hidden on it, so they was telling me, plenty of loot.
+
+MGSEA_CH_BLW_6 = ~z~~sl:0.0:3.0~Travelling towards the fair city of Blackwater~sl:0.0:2.6~through the Great Plains area to Manzanita Post...~sl:0.8~perfect.
+
+MGSEA_CH_BLW_7 = ~z~~sl:0.0:3.3~I reckons you go and rob the thing good and proper...~sl:~make yourself rich, eh?
+
+MGSEA_DM_MANZ_1 = ~z~Good. So, you ever been stabbed in the back by the government?
+
+MGSEA_DM_MANZ_2 = ~z~Me neither, but by all accounts, it leaves a sour taste in the mouth.
+
+MGSEA_DM_MANZ_3 = ~z~And my buddy Brendan is spitting vinegar and pissing bile.
+
+MGSEA_DM_MANZ_4 = ~z~~sl:0.0:2.1~He thought he had paid off some officials~sl:~to turn a blind eye to some... innocent smuggling.
+
+MGSEA_DM_MANZ_5 = ~z~~sl:0.0:2.3~But now the law has stabbed him in the back,~sl:~stolen his contraband and has a warrant out for his arrest.
+
+MGSEA_DM_MANZ_6 = ~z~~sl:0.0:2.8~So he needs yous to destroy all the evidence.~sl:0.4:2.0~It's on wagons from Manzanita~sl:~and passing through Tall Trees and Great Plains.
+
+MGSEA_DM_MANZ_7 = ~z~~sl:0.0:3.0~Now, I understand why he's so mad, I mean...~sl:0.3~if you cannot trust a bribed official...
+
+MGSEA_DM_MANZ_8 = ~z~Who can you trust? It's a bloody scandal, so it is.
+
+MGSEA_DM_NGP_1 = ~z~~sl:0.0:5.1~Good, now how do you feel about the police, dear friend?~sl:1.1~Because I'll level with you... I'm not much of a fan myself.
+
+MGSEA_DM_NGP_2 = ~z~~sl:0.0:3.4~Always sticking their noses in, they are.~sl:0.2~And for what exactly?
+
+MGSEA_DM_NGP_3 = ~z~To interfere and stop the natural order of things from playing out.
+
+MGSEA_DM_NGP_4 = ~z~~sl:0.0:4.0~Now, I've got one word for that, and that word is not right.~sl:0.5~It's not right.
+
+MGSEA_DM_NGP_5 = ~z~~sl:0.0:2.1~They've framed a friend of mine, Alan.~sl:0.4:2.3~They framed him for a crime he did commit.~sl:0.3~But... committed fair and square.
+
+MGSEA_DM_NGP_6 = ~z~And now they want to kill him, they do.
+
+MGSEA_DM_NGP_7 = ~z~~sl:0.0:2.8~So, you'll have to destroy all the evidence they're taking~sl:~from Blackwater... through Great Plains. Alright?
+
+MGSEA_DS_AURO_1 = ~z~~sl:0.0:1.8~Good... good...~sl:0.4~because I've got a fine bit of business you might be interested in.
+
+MGSEA_DS_AURO_2 = ~z~~sl:0.0:3.8~Something to sink your teeth into... deep into...~sl:0.6~you'll love it.
+
+MGSEA_DS_AURO_3 = ~z~~sl:0.0:1.5~You know about the Skinner brothers?~sl:0.0:3.7~Well, it's mostly bluster, as they are a bunch of fools,~sl:~but the bluster is loud, I'll grant you that.
+
+MGSEA_DS_AURO_4 = ~z~Folk get unnecessarily scared of cannibals, in my opinion.
+
+MGSEA_DS_AURO_5 = ~z~~sl:0.0:2.9~Anyone dumb enough to eat a feller is not to be scared of.~sl:0.7~Anyway, they get away with murder.
+
+MGSEA_DS_AURO_6 = ~z~~sl:0.0:2.0~They robbed some crates from a pal of mine.~sl:0.3:1.8~Them crates now need destroying,~sl:~what with discretion being the better part of valor.
+
+MGSEA_DS_AURO_7 = ~z~~sl:0.0:2.3~So how about you go destroy them for us?~sl:0.4~They're at a shack at Aurora Basin.
+
+MGSEA_DS_AURO_8 = ~z~~sl:0.0:3.3~And try not to get yourself served up as lunch, eh? ~sl:~I imagine it's an unpleasant experience... on the whole.
+
+MGSEA_DS_MANZ_1 = ~z~~sl:0.0:0.9~Well, that's good.~sl:0.2:4.0~As I've got something I think you'll probably enjoy.~sl:0.7:1.9~If you don't get yourselves killed.
+
+MGSEA_DS_MANZ_2 = ~z~~sl:0.2:2.1~It's them awful Skinner Brothers again.~sl:0.4~They keep robbing a pal of mine, and... he's not a bad feller.
+
+MGSEA_DS_MANZ_3 = ~z~~sl:0.0:3.6~Stealing shine of his and all sorts of nonsense, they is.~sl:0.6~He wants me to ask ya to go destroy it all for him.
+
+MGSEA_DS_MANZ_4 = ~z~~sl:0.0:3.2~And, you know... kill any of them you come across, of course.
+
+MGSEA_DS_MANZ_5 = ~z~~sl:0.2:1.0~As far as we know,~sl:0.2~they're holding the crates of liquor near Manzanita Post.
+
+MGSEA_DS_MANZ_6 = ~z~Go see what you can find out and cause some mayhem for me, eh?
+
+MGSEA_DS_MANZ_7 = ~z~~sl:0.0:3.8~Should be fun. Wrestling with cannibals, trying not to get eaten...~sl:1.5:1.1~what could be better?~sl:1.5:1.7~Fun for all the family...
+
+MGSEA_G1_OUT_1 = ~z~~sl:0.0:2.2~Okay... well...~sl:1.0:2.4~this came me way... see?~sl:1.2~Here you go.
+
+MGSEA_G1_TAKE_1 = ~z~~sl:0.0:2.5~Bit random, but, could be a nice earner for you, eh?~sl:0.5:1.2~See what you think.~sl:1.4~Go on then.
+
+MGSEA_G2_OUT_1 = ~z~~sl:0.0:1.4~Okay, well...~sl:0.5:1.0~so...~sl:0.5~I just got sent this by... a feller I know.
+
+MGSEA_G2_TAKE_1 = ~z~~sl:0.0:1.9~I was thinking it might be fun for ya.~sl:0.4~Different, but fun... you know?
+
+MGSEA_G2_TAKE_2 = ~z~Off with you, now.
+
+MGSEA_G3_OUT_1 = ~z~~sl:0.0:2.4~See, this just came my way, dear friend.~sl:0.6:2.0~Here, have a look.~sl:1.0~ Go on.
+
+MGSEA_G3_TAKE_1 = ~z~~sl:0.0:2.1~Could be a decent earner for you, I reckon.~sl:0.8:~From the looks of you... you need it.
+
+MGSEA_G4_OUT_1 = ~z~~sl:0.0:5.2:1~So... someone just sent me this, another of these notes.
+
+MGSEA_G4_TAKE_1 = ~z~~sl:0.0:4.1~It's different, but... I reckon you might enjoy it, you know?~sl:2.0~Have a crack.
+
+MGSEA_INT_1 = ~z~What the fuck, buddy!
+
+MGSEA_INT_2 = ~z~What the fuck do you want, eh?
+
+MGSEA_INT_3 = ~z~What is it?
+
+MGSEA_INT_4 = ~z~You want to get yourself killed or something, huh?
+
+MGSEA_INT_5 = ~z~I don't like getting surprised.
+
+MGSEA_INT_6 = ~z~Shit.
+
+MGSEA_INT_7 = ~z~You looking for...
+
+MGSEA_INT_8 = ~z~Ah, you looking for work, that it?
+
+MGSEA_INT_9 = ~z~I know the type.
+
+MGSEA_INT_10 = ~z~Strong, silent, real frightening.
+
+MGSEA_INT_11 = ~z~Still waters run deep.
+
+MGSEA_INT_12 = ~z~That type of shite, is it?
+
+MGSEA_INT_13 = ~z~I've temporarily lost me friends, it's a fucking disaster.
+
+MGSEA_INT_14 = ~z~I had them.
+
+MGSEA_INT_15 = ~z~I went away for a couple of days on a killing of a...
+
+MGSEA_INT_16 = ~z~of a bastard I owed a killing to.
+
+MGSEA_INT_17 = ~z~Ah, good man.
+
+MGSEA_INT_18 = ~z~And I lost the folk I ride with.
+
+MGSEA_INT_19 = ~z~Big bunch, not like you lot.
+
+MGSEA_INT_20 = ~z~Nah, we lived like sultans in our fucking tents.
+
+MGSEA_INT_21 = ~z~I'll find them again, I've lost them before, ya know.
+
+MGSEA_INT_22 = ~z~Once was for three months, it was.
+
+MGSEA_INT_23 = ~z~That's how it goes, I guess.
+
+MGSEA_INT_24 = ~z~Anyway, where was I?
+
+MGSEA_INT_25 = ~z~Ah, yeah, yeah...
+
+MGSEA_INT_26 = ~z~murder and mayhem.
+
+MGSEA_INT_27 = ~z~Now, I don't like to kill innocent folk myself.
+
+MGSEA_INT_28 = ~z~Gives me a real nasty feeling inside.
+
+MGSEA_INT_29 = ~z~But these bastards, well...
+
+MGSEA_INT_30 = ~z~I don't know how innocent these bastards are.
+
+MGSEA_INT_31 = ~z~There's a stage, runs out of Aurora Basin.
+
+MGSEA_INT_32 = ~z~Now, I heard a fella say it's laden with silver.
+
+MGSEA_INT_33 = ~z~I can't rob it...
+
+MGSEA_INT_34 = ~z~and I can't guarantee someone else isn't going to try...
+
+MGSEA_INT_35 = ~z~but it'd be a rotten shame to let it pass by.
+
+MGSEA_INT_36 = ~z~Anyways, on with ya's.
+
+MGSEA_IN_CRN_1 = ~z~Well, that's good, because I reckon I've got something I wanted to discuss.
+
+MGSEA_IN_CRN_2 = ~z~It's Colm O'Driscoll we'll be robbing.
+
+MGSEA_IN_CRN_3 = ~z~~sl:0.0:4.1~The fake Irish sack of shite always has himself a few things worth robbing,~sl:0.3~and his gang, well...
+
+MGSEA_IN_CRN_4 = ~z~~sl:0.0:3.0~Well, truth is, they can't fight for shit.~sl:0.4~ So we, well, you... well, you're going to rob them blind.
+
+MGSEA_IN_CRN_5 = ~z~~sl:0.0:2.4~He's taken possession of a wagon laden with booty and I...~sl:~I hear they're moving it from Strawberry to some place across West Elizabeth.
+
+MGSEA_IN_CRN_6 = ~z~~sl:0.0:1.4~So it should be ripe for the plucking.~sl:0.5:3.1~Head over there and see if you can requisition the thing from dear old Colm~sl:~and do all of us a favour.
+
+MGSEA_IN_CRN_7 = ~z~~sl:0.0:2.2~And if you see Colm, put a bullet in him and all.~sl:0.0:2.9~From a real Irishman to a pretend one.~sl:0.7~You got that?
+
+MGSEA_IN_LMS_1 = ~z~~sl:0.0:2.9~Good, so you ever meet Colm O'Driscoll?~sl:0.5~What a clown.
+
+MGSEA_IN_LMS_2 = ~z~~sl:0.0:3.2~I mean... he's not even really very Irish, but...~sl:~he gives the lot of us a bad name.
+
+MGSEA_IN_LMS_3 = ~z~~sl:0.0:2.9~And a dear pal of mine hates him something proper...~sl:~and my pal, he's a proper feller.
+
+MGSEA_IN_LMS_4 = ~z~~sl:0.0:3.4~So when the opportunity to rob some of O'Driscoll's boys came in...~sl:1.3~well, I jumped at it and I reckon you will too.
+
+MGSEA_IN_LMS_5 = ~z~~sl:0.0:2.9~Should be easy enough, them buggers can't fight,~sl:~and I reckon we should make a decent whack as well.
+
+MGSEA_IN_LMS_6 = ~z~There's a coach running from Blackwater to Lone Mule Stead, find it and take it.
+
+MGSEA_IN_LMS_7 = ~z~~sl:0.0:3.0~You'll make me happy and you'll make my mentor happy,~sl:0.5:2.1~if I ever find the bastard that is...~sl:0.8~good luck now.
+
+MGSEA_JB_ASN_PL_1 = ~z~Well, gainful I don't know about... but I've got something I wanted to discuss, so...
+
+MGSEA_JB_ASN_PL_2 = ~z~I was out drinking the other night, right...
+
+MGSEA_JB_ASN_PL_3 = ~z~And this loud mouth... you know, one of these annoying idiots talks way too much and says way too little...
+
+MGSEA_JB_ASN_PL_4 = ~z~and they're calling you all manner of things.
+
+MGSEA_JB_ASN_PL_5 = ~z~Was gonna put a hole in his head on account of us being friendly and all...
+
+MGSEA_JB_ASN_PL_6 = ~z~But their major complaint was that... you was yellow. You know, a coward.
+
+MGSEA_JB_ASN_PL_7 = ~z~That ain't something I feel qualified to discuss... just thought I'd pass it on... Yeah, he was a real annoying little bastard... I should have shot him, but I'm trying to be a good boy.
+
+MGSEA_JB_ASN_PL_8 = ~z~Anyway, good luck to you.
+
+MGSEA_JB_CH_1 = ~z~~sl:0.0:1.0~I guessed as much...~sl:0.4:4.1~on account of you being not overly interested in the social aspects of~sl:~killing and murdering folk.
+
+MGSEA_JB_CH_2 = ~z~~sl:0.0:1.3~Well, I ain't one to judge.~sl:0.6:3.4~As long as it's the right people are being killed and robbed...
+
+MGSEA_JB_CH_3 = ~z~Well, it's really a service to society. We're just misunderstood...
+
+MGSEA_JB_CH_4 = ~z~~sl:0.0:2.0~That's what my mentor'd say, you'd like him.~sl:0.4:3.2~Yeah, folks generally do... he's got a great, uh...~sl:~moustache.
+
+MGSEA_JB_CH_5 = ~z~~sl:0.0:3.0~Anyway... there's a stagecoach... another one.~sl:~Full of rich bastards with even richer bastards awaiting 'em.
+
+MGSEA_JB_CH_6 = ~z~~sl:0.0:2.5~One of them luxury ones, protected of course, but...~sl:0.3~that's nothing to a person with your proclivity.
+
+MGSEA_JB_CH_7 = ~z~~sl:0.0:2.9~Where I you and not trying to better myself, morally,~sl:0.4~I'd go and kidnap the whole lot of 'em.
+
+MGSEA_JB_CH_8 = ~z~~sl:1.0:3.0~Thing's running from New Austin to Blackwater.~sl:0.5~Good luck to you now.
+
+MGSEA_JB_GENAC_1 = ~z~~sl:0.0:1.7~I reckon that could be good for the likes of you...~sl:0.5~nothing too tough... just good times...
+
+MGSEA_JB_GENAC_2 = ~z~Take care then.
+
+MGSEA_JB_GENST_1 = ~z~~sl:0.0:3.3~Okay... well, I was just sent this.~sl:1.2~Might be interesting. Just take a look.
+
+MGSEA_JB_JAILB_1 = ~z~~sl:0.0:1.0~Guessed as much.~sl:0.4:2.9~By the way, did you ever meet Fineas Moss?
+
+MGSEA_JB_JAILB_2 = ~z~~sl:0.0:2.8~Nice boy he is... fine lad...~sl:0.7~be a real shame if got himself hanged...
+
+MGSEA_JB_JAILB_3 = ~z~It's murder he up on, murder charges.
+
+MGSEA_JB_JAILB_4 = ~z~~sl:0.0:3.4~It's bad because... I reckon he did do it, but...~sl:0.1:2.0~I also reckon the bastard he murdered...~sl:0.5~deserved killing.
+
+MGSEA_JB_JAILB_5 = ~z~~sl:0.0:2.1~Well, I know this because it was his brother he murdered, and...~sl:0.6~whereas you wouldn't find a kinder feller than Fineas,
+
+MGSEA_JB_JAILB_6 = ~z~~sl:0.0:2.1~Declan was a real sack of shit.~sl:0.5:1.8~I won't bore you with the details, but...~sl:0.6~you'd be doing me a real favor if you could save Fineas for me.
+
+MGSEA_JB_JAILB_7 = ~z~~sl:0.0:2.5~By the way, you haven't seen a strange bunch about?~sl:0.6~About twenty-five of them... men and women.
+
+MGSEA_JB_JAILB_8 = ~z~~sl:0.0:1.0~If you do see them...~sl:0.7~you let me know.
+
+MGSEA_LEAVEN_01 = ~z~Time for you to go.
+
+MGSEA_LEAVEN_02 = ~z~You best go, you fool.
+
+MGSEA_LEAVEN_03 = ~z~Be on your way.
+
+MGSEA_LEAVEN_04 = ~z~Bye now.
+
+MGSEA_LEAVEN_05 = ~z~So long, then.
+
+MGSEA_PAS_BLW_1 = ~z~~sl:0.0:6.0~Good. So, let me ask you a question, when is a murder not a murder?~sl:1.0~Think about it... no idea? Well I'll tell you...
+
+MGSEA_PAS_BLW_2 = ~z~When it's an assassination. That's when.
+
+MGSEA_PAS_BLW_3 = ~z~~sl:0.0:2.1~So you're going to do an assassination.~sl:0.5~Nasty feller you'll be killing, but that's not the point.
+
+MGSEA_PAS_BLW_4 = ~z~~sl:0.0:4.2~Point is, he's something in politics and some other worthy folk in politics~sl:~want him killed as that's how democracy works.
+
+MGSEA_PAS_BLW_5 = ~z~I'm choosing to play dumb on this one, to be frank.
+
+MGSEA_PAS_BLW_6 = ~z~~sl:0.0:1.9~But he's some big loud-mouthed feller~sl:~that other loud-mouthed fellers couldn't beat at being loud-mouthed...
+
+MGSEA_PAS_BLW_7 = ~z~~sl:0.0:4.9~So, they had him arrested and now he's going to testify, so they want him dead...~sl:0.5~whole thing sounds bloody awful, if you ask me.
+
+MGSEA_PAS_BLW_8 = ~z~~sl:0.0:1.8~But politics is bad business,~sl:~he's being taken across the Great Plains towards Blackwater.
+
+MGSEA_PAS_TALL_1 = ~z~~sl:0.0:0.6~Good...~sl:0.5~so you ever meet my old acquaintance Darragh from Tipperary on your travels?
+
+MGSEA_PAS_TALL_2 = ~z~~sl:0.0:2.0~No? Well lucky you.~sl:0.9~Darragh from Tipperary is a total arse of a man. Not a man at all, a louse.
+
+MGSEA_PAS_TALL_3 = ~z~~sl:0.0:1.5~Yes, a bloody louse~sl:~whose squealing about matters back home that are best left un-squealed about.
+
+MGSEA_PAS_TALL_4 = ~z~~sl:0.0:4.1~Thus, Darragh has go. Yes, he has to go.~sl:0.9~And you're going to send him on his merry way.
+
+MGSEA_PAS_TALL_5 = ~z~Put him six feet under where he belongs. Loud mouth bastard he is.
+
+MGSEA_PAS_TALL_6 = ~z~~sl:0.0:1.5~Some bounty hunters have him and...~sl:0.2:2.7~they're taking him across Tall Trees to Blackwater.~sl:0.9~You go find 'em.
+
+MGSEA_PAS_TALL_7 = ~z~~sl:0.0:2.7~And shut old Darragh up once and for all.~sl:0.7:3.0~Nobody likes a loud mouth in our game, eh? Eh?~sl:1.0~Exactly.
+
+MGSEA_TAKEP_01 = ~z~Take it.
+
+MGSEA_TAKEP_02 = ~z~Come on, take it.
+
+MGSEA_TAKEP_03 = ~z~Would you take it, already?
+
+MGSEA_TAKEP_04 = ~z~Just take it.
+
+MGSEA_TAKEP_05 = ~z~Bloody take it, won't you?
+
+SEA_ACCEPT_01 = ~z~Well, good luck out there.
+
+SEA_ACCEPT_02 = ~z~Enjoy yourself and try to stay alive, eh?
+
+SEA_ACCEPT_03 = ~z~Good luck out there, eh?
+
+SEA_ACCEPT_04 = ~z~The best of luck to ya, then.
+
+SEA_ACCEPT_05 = ~z~Get it done then, won't ya?
+
+SEA_ACCEPT_06 = ~z~How's about doing it then?
+
+SEA_ACT_AGG_01 = ~z~What are you doing? Cut that out.
+
+SEA_ACT_AGG_02 = ~z~Quit that, you fool.
+
+SEA_ACT_AGG_03 = ~z~Come on, quit that shit.
+
+SEA_AGGRESS_01 = ~z~I'm not working with you now, because of that.
+
+SEA_AGGRESS_02 = ~z~Go calm the fuck down, partner.
+
+SEA_AGGRESS_03 = ~z~Are you quite finished? Get out of here.
+
+SEA_AIM_01 = ~z~Watch where you're aiming the gun.
+
+SEA_AIM_02 = ~z~Are you joking?
+
+SEA_AIM_03 = ~z~Put that gun away.
+
+SEA_APPROACH_01 = ~z~~sl:0.0:1.0~Good to see ya...~sl:0.5:1.1~d'you want a spot of business,~sl:~or just a nice quiet chat about the finer things?
+
+SEA_APPROACH_02 = ~z~So, it's you. You looking for gainful employment?
+
+SEA_APPROACH_03 = ~z~~sl:0.0:2.6~So, you looking for some way to spend a little time,~sl:~or you just come for a chat?
+
+SEA_APPROACH_04 = ~z~So, you're back, eh? Work it is you'll be wanting, huh?
+
+SEA_APPROACH_05 = ~z~You know, maybe I got something you might be interested in.
+
+SEA_APPROACH_06 = ~z~You looking for business again, my friend?
+
+SEA_APPROACH_07 = ~z~You after ungainful employment, friend?
+
+SEA_APPROACH_08 = ~z~Look what the cat dragged in. Looking for work?
+
+SEA_APPROACH_09 = ~z~Someone's come crawling back. Looking for employment?
+
+SEA_APPROACH_10 = ~z~Well, I'm guessing you're in the market for some more work, is ya?
+
+SEA_BOUNTY_01 = ~z~I can't be seen speaking to you, while you have a bounty.
+
+SEA_BOUNTY_02 = ~z~I can't chat while you got a price on your head now, can I?
+
+SEA_BOUNTY_03 = ~z~Lose the bounty and maybe we can talk.
+
+SEA_COOLDOWN_01 = ~z~I can't talk to you right now.
+
+SEA_COOLDOWN_02 = ~z~I ain't chatting, right now.
+
+SEA_COOLDOWN_03 = ~z~I can't chat just now.
+
+SEA_ESCALATE_01 = ~z~Stop that right now.
+
+SEA_ESCALATE_02 = ~z~You stop that, you hear?
+
+SEA_ESCALATE_03 = ~z~Enough, you fool.
+
+SEA_FAILED_LM_01 = ~z~What happened on that last job? Right fool you made of yourself.
+
+SEA_FAILED_LM_02 = ~z~Let's hope you don't shit this one up like last time, eh?
+
+SEA_FAILED_LM_03 = ~z~~sl:0.0:2.4~Let's hope you just made a mistake last time...~sl:~and aren't actually a moron, eh?
+
+SEA_FAIL_01 = ~z~Damn... I heard things went real bad.
+
+SEA_FAIL_02 = ~z~Well, let's hope that wasn't your finest hour, eh?
+
+SEA_FAIL_03 = ~z~My Lord, but that was a bad business.
+
+SEA_H_HIGH_01 = ~z~~sl:0.0:2.9~I don't think this job would suit someone...~sl:~as fine as you.
+
+SEA_H_HIGH_02 = ~z~I'm a bad man, and you... well, you ain't... just now, is you?
+
+SEA_H_HIGH_03 = ~z~You're too high and mighty for the likes of me, friend.
+
+SEA_H_LOW_01 = ~z~You're not honorable enough to be talking with me right now.
+
+SEA_H_LOW_02 = ~z~You're a hard one, eh? Go be nice and maybe we can work.
+
+SEA_H_LOW_03 = ~z~~sl:0.0:2.4~Go clean that filthy conscience of yours.~sl:0.3~I'm a good boy, me.
+
+SEA_IDLETIME_01 = ~z~Clock is ticking. You don't have much time left.
+
+SEA_IDLETIME_02 = ~z~Come on, the clock is running.
+
+SEA_IDLETIME_03 = ~z~Go on,... you're on the clock here, friend.
+
+SEA_IDLE_01 = ~z~Away with you, go on.
+
+SEA_IDLE_02 = ~z~~sl:0.0:1.4~Stop hanging around.~sl:~You're freaking me out.
+
+SEA_IDLE_03 = ~z~Is everything alright in that head of yours?
+
+SEA_IDLE_04 = ~z~Get on with ya, ya eejit.
+
+SEA_IDLE_05 = ~z~Go on, ya daft bastard.
+
+SEA_IDLE_06 = ~z~Could ya just get on with it, then?
+
+SEA_ILO_01 = ~z~So, you... you're interested, eh?
+
+SEA_ILO_02 = ~z~So, you are in the hunt for business?
+
+SEA_ILO_03 = ~z~Good, so, you do want some work, eh?
+
+SEA_ILO_04 = ~z~I might be able to put you to work, you know...
+
+SEA_ILO_05 = ~z~If you asked nicely, I might be able to give you a job.
+
+SEA_LEAVE_01 = ~z~You need to get out of here.
+
+SEA_LEAVE_02 = ~z~Get the hell out of here.
+
+SEA_LEAVE_03 = ~z~Get out of here, you fool.
+
+SEA_LOCKED_01 = ~z~~sl:0.3~Come back another time.
+
+SEA_LOCKED_02 = ~z~I ain't got much right now, come see me n'other time.
+
+SEA_LOCKED_03 = ~z~Listen, I'm out of business right now... come see us another time.
+
+SEA_M_COOLDOWN_01 = ~z~I can't give you this bit of business again, yet.
+
+SEA_M_COOLDOWN_02 = ~z~You'll get yourself killed if you do this again.
+
+SEA_M_COOLDOWN_03 = ~z~You need to calm it for a bit, partner.
+
+SEA_M_LOCKED_01 = ~z~This job isn't available for you, yet. Come back another time.
+
+SEA_M_LOCKED_02 = ~z~I ain't got work for you, just as yet.
+
+SEA_M_LOCKED_03 = ~z~Come back later.
+
+SEA_NOT_GL_01 = ~z~I don't have anything for you, right now.
+
+SEA_NOT_GL_02 = ~z~Guess I don't have anything for you, friend.
+
+SEA_NOT_GL_03 = ~z~You know, I'm clean out of work for the likes of you, friend.
+
+SEA_NO_AVAIL_01 = ~z~I don't have anything available for you, right now.
+
+SEA_NO_AVAIL_02 = ~z~I'm clean out of work right now, friend.
+
+SEA_NO_AVAIL_03 = ~z~I ain't got nothing for you, just as now.
+
+SEA_PASSED_LM_01 = ~z~You did good with that last thing, eh?
+
+SEA_PASSED_LM_02 = ~z~You're a fine operator, eh?
+
+SEA_PASSED_LM_03 = ~z~You did real good with that last business, eh?
+
+SEA_PASS_01 = ~z~Aye, you did a good job, there.
+
+SEA_PASS_02 = ~z~Well done, my friend.
+
+SEA_PASS_03 = ~z~Didn't you do fine, eh?
+
+SEA_POSSE_SMALL_01 = ~z~~sl:0.5~You need more people in your posse for this one.
+
+SEA_POSSE_SMALL_02 = ~z~~sl:0.7~You'll need a few more guns if you want to do this, partner.
+
+SEA_POSSE_SMALL_03 = ~z~~sl:0.7~This requires a few more guns, friend.
+
+SEA_PUSH_01 = ~z~What are you doing?
+
+SEA_PUSH_02 = ~z~Look the fuck out.
+
+SEA_PUSH_03 = ~z~Look the hell out.
+
+SEA_R_WO_OBJ_01 = ~z~What are you doing back here? Get on with the job.
+
+SEA_R_WO_OBJ_02 = ~z~Why are you back and the job undone?
+
+SEA_R_WO_OBJ_03 = ~z~What's your problem, partner? Get the job done.
+
+SEA_R_W_OBJ_01 = ~z~~sl:0.2~Good work, bringing that back to me.
+
+SEA_R_W_OBJ_02 = ~z~Well done, friend... very well done.
+
+SEA_R_W_OBJ_03 = ~z~~sl:0.6~Nicely done.
+
+SEA_SHOOT_01 = ~z~Hey, cut that out.
+
+SEA_SHOOT_02 = ~z~Cut that shit out.
+
+SEA_SHOOT_03 = ~z~Stop that nonsense.
+
+SEA_STREAK_01 = ~z~Good work on those last jobs.
+
+SEA_STREAK_02 = ~z~Aren't you the cock of the walk and the belle of the ball?
+
+SEA_STREAK_03 = ~z~No stopping you, is there?
+
+SEA_WANTED_01 = ~z~Lose the law before speaking to me, partner.
+
+SEA_WANTED_02 = ~z~Are you fucking mad? Lose the law.
+
+SEA_WANTED_03 = ~z~I ain't talking to you while the law wants you.
+

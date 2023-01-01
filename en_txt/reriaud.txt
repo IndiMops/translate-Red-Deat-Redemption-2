@@ -1,0 +1,10 @@
+RERI_CONV_A_1 = ~z~Hey! Hey, there, friend.
+
+RERI_CONV_A_2 = ~z~Listen, uh, just between us...
+
+RERI_CONV_A_3 = ~z~you haven't been telling people about, uh, that little situation you helped me out with, have you?
+
+RERI_CONV_A_4 = ~z~Just something I'd rather not people knowing about...
+
+RERI_CONV_A_5 = ~z~hard enough maintaining my reputation in this part of town without rumors of... uninvited guests...
+

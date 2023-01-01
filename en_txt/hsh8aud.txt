@@ -1,0 +1,50 @@
+HSHCNV8_A_1 = ~z~
+
+HSHCNV8_A_2 = ~z~You okay, Hosea?
+
+HSHCNV8_A_3 = ~z~~sl:0.0:1.1~Sure.~sl:1.7~You keeping yourself out of trouble?
+
+HSHCNV8_A_4 = ~z~~sl:0.0:1.1~I guess.~sl:0.2:0.9~I mean,~sl:0.2~ain't been eaten or shot in a while.
+
+HSHCNV8_A_5 = ~z~Just shouted at and hit by Abigail.
+
+HSHCNV8_A_6 = ~z~Sure.
+
+HSHCNV8_A_7 = ~z~I just don't understand women I guess.
+
+HSHCNV8_A_8 = ~z~Ain't so hard...
+
+HSHCNV8_A_9 = ~z~You know it.
+
+HSHCNV8_A_10 = ~z~~sl:0.0:1.4~You ain't a fool till you...~sl:0.7~start pretending to be one.
+
+HSHCNV8_BALT_1 = ~z~Ain't that so, Arthur?
+
+HSHCNV8_BALT_2 = ~z~Seems to me he does a good job of playing the fool.
+
+HSHCNV8_BALT_3 = ~z~
+
+HSHCNV8_BALT_4 = ~z~Thank you.
+
+HSHCNV8_BALT_5 = ~z~Both of you.
+
+HSHCNV8_B_1 = ~z~What do you mean by that?
+
+HSHCNV8_B_2 = ~z~You know precisely what I mean.
+
+HSHCNV8_B_3 = ~z~I don't know what it is you think you're searching for but,
+
+HSHCNV8_B_4 = ~z~~sl:0.0:3.0~trust me, you can reach the ends of the earth and~sl:0.9~realize it was right here all along.
+
+HSHCNV8_B_5 = ~z~Proud to know you think of me as such a fool.
+
+HSHCNV8_B_6 = ~z~~sl:0.0:1.2~If I thought you was a fool~sl:0.0:1.4~I wouldn't bother trying to help you.~sl:0.5:1.2~The world is full of fools.~sl:~Me, I'm the biggest of the lot. You,
+
+HSHCNV8_B_7 = ~z~you ain't any kind of a fool so quit acting like one.
+
+HSHCNV8_B_8 = ~z~You hear me?
+
+HSHCNV8_B_9 = ~z~Sure.
+
+HSHCNV8_B_10 = ~z~Thank you.
+

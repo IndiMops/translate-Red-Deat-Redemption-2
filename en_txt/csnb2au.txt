@@ -1,0 +1,16 @@
+CSNB2_ACTION_1 = ~z~The reverend left, Arthur!
+
+CSNB2_ACTION_2 = ~z~Where'd he go?
+
+CSNB2_ACTION_3 = ~z~I-I don't know... he left me a note, told me I should do the same...
+
+CSNB2_ACTION_4 = ~z~Why?
+
+CSNB2_ACTION_5 = ~z~Well, I think he's worried.
+
+CSNB2_ACTION_6 = ~z~He's right to be worried... you worried?
+
+CSNB2_ACTION_7 = ~z~Sure, but... I still think... maybe things'll turn out okay, you... you'll steer Dutch right. I know you will.
+
+CSNB2_ACTION_8 = ~z~I'll try Miss Grimshaw... really I will.
+

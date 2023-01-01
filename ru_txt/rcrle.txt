@@ -1,0 +1,36 @@
+CREOLE1_GOMAC = Отправляйтесь в ~o~Мэкомз-Энд~s~.
+
+CREOLE1_GREET = Поздороваться
+
+CREOLE_BLIP_1 = Мэкомз-Энд
+
+CREOLE_BLIP_2 = Повозка
+
+CREOLE_BLIP_3 = Доктор
+
+CREOLE_FAIL1 = Доктор погиб.
+
+CREOLE_FAIL2 = Повозка доктора уничтожена.
+
+CREOLE_FAIL3 = Вы оставили повозку доктора.
+
+CREOLE_FAIL4 = Законники подняли тревогу.
+
+CREOLE_FAIL5 = Упряжные лошади умерли.
+
+CREOLE_FAIL6 = Вы разозлили обитателей лагеря.
+
+CREOLE_FAIL7 = Вы бросили доктора.
+
+CRL2_MAC_ILO_ANTAGONISE = Разозлить
+
+CRL2_MAC_ILO_GREET = Поздороваться
+
+CRL2_OBJ_FIN = ~s~Найдите ~o~повозку~s~ доктора.
+
+CRL2_OBJ_RID = ~s~Верните повозку ~o~доктору~s~ в Роудс.
+
+CRL2_OBJ_WAG = ~s~Залезьте в ~o~повозку~s~.
+
+CRL2_RET1 = Вернитесь к ~o~повозке~s~.
+

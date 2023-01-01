@@ -1,0 +1,290 @@
+0x03BBD9F3 = ~z~You want me to get involved, do you?
+
+0x03E37125 = ~z~In Spanish: Oh, pistolero? He's a pistolero!
+
+0x0418B0E5 = ~z~Jorge, how are you? More mescal?
+
+0x0819E1EB = ~z~In Spanish: This vigilante's charging through our camp!
+
+0x0969CDA2 = ~z~In Spanish: The invader's headed to the ship!
+
+0x0B113524 = ~z~In Spanish: Don't you know who you're talking to? We're banditos of the Del Lobos!
+
+0x0BEA801C = ~z~Go to hell, idiot.
+
+0x0BF41DAD = ~z~In Spanish: Good.
+
+0x0DEA209B = ~z~In Spanish: Why hasn't anyone shot him yet?
+
+0x1A788A59 = ~z~No, they are coming for the prisoner!
+
+0x1B4EEAC1 = ~z~In Spanish: I told you.
+
+0x1C7D93C4 = ~z~In Spanish: You better be dead, Jorge! Come on!
+
+0x1DF00ED9 = ~z~Seriously, final chance.
+
+0x2A77430D = ~z~~sl:0.9:3.2~In Spanish: No way this bastard is telling the truth.~sl:1.7~In Spanish: Make him talk!
+
+0x2B0608F7 = ~z~~sl:3.6~In Spanish: My God...
+
+0x2C6490A7 = ~z~
+
+0x2D55A29A = ~z~That's right, off you go.
+
+0x2E4AB669 = ~z~Mierda.
+
+0x2E7838EC = ~z~In Spanish: I'm going to kill you!
+
+0x2F715375 = ~z~You've been warned.
+
+0x2FC04FC5 = ~z~Shoot that hijo de puta!
+
+0x3A5F50BA = ~z~You're dead!
+
+0x3AA04331 = ~z~
+
+0x3C33F2CC = ~z~In Spanish: Alright.
+
+0x4B3B7CE4 = ~z~In Spanish: Oh, mother. No need to hurt you. God did that already.
+
+0x4C1DF437 = ~z~In Spanish: Take this!
+
+0x4D509BEB = ~z~In Spanish: You're tough, eh? I'll have your hands!
+
+0x5A227CC7 = ~z~Aha, puta madre!
+
+0x5D4AEF1C = ~z~Yeah! Run away with your tail between your legs.
+
+0x6A471936 = ~z~In Spanish: Jorge, where did you go?
+
+0x6B224B5A = ~z~In Spanish: And leave all this? The land of plenty? Miracle cures and hair pomade?
+
+0x6B9121DB = ~z~That's not very nice...
+
+0x6CAB4177 = ~z~In Spanish: Maybe too much mescal for you, little Jorge...
+
+0x8AF0B186 = ~z~In Spanish: Come on, you bastard.
+
+0x8D008375 = ~z~Don't do anything stupid.
+
+0x8D5455EA = ~z~In Spanish: I'll rest when I'm dead.
+
+0x8DEF7864 = ~z~In Spanish: These new men are slow.
+
+0x8FDDC90A = ~z~In Spanish: You are lucky we're in such a good mood, cabron.
+
+0x9A67BBD9 = ~z~In Spanish: To the camp, men!
+
+0x9BED7FC8 = ~z~And don't come back!
+
+0x9CEC8A79 = ~z~Where is that fool?
+
+0x9CF18130 = ~z~In Spanish: Chaps on, boys! It's killing time!
+
+0x9EB262D9 = ~z~In Spanish: Eh, something ain't right... we find him now.
+
+0x9EFC451F = ~z~
+
+0x11CB5DC5 = ~z~
+
+0x13D1C217 = ~z~Didn't I warn you already?
+
+0x22ADADA2 = ~z~Get moving, or else.
+
+0x33A3AA79 = ~z~In Spanish: I might be drunk, but I know you're aiming at me!
+
+0x33C2A073 = ~z~Oh.
+
+0x43D34EA2 = ~z~You don't get to leave, now!
+
+0x47B02EC1 = ~z~We waited, my friend. We had no fun in your absence.
+
+0x48B4DE72 = ~z~In Spanish: Whip them until they're bloody. And if they fall, whip them some more. You men are paid to be pistoleros, not mule drivers. The longer we spend on these cursed animals, in this cursed desert, less money we take.
+
+0x49C0575B = ~z~
+
+0x51BE3CAC = ~z~In Spanish: He's not drunk, he's dead!
+
+0x51E01408 = ~z~Take 'im out!
+
+0x51E8A475 = ~z~In Spanish: We'll string up every last goddamn motherless one of them that killed our friends. We will.
+
+0x51FA150D = ~z~You say something? I don't like you.
+
+0x52BC2100 = ~z~You see what you did? Put an end to the festivities.
+
+0x54BADBB2 = ~z~In Spanish: You think he wandered off somewhere?
+
+0x60A5B193 = ~z~Go get him!
+
+0x61D19CC1 = ~z~In Spanish: Get looking. Find Jorge. NOW!
+
+0x65B9F002 = ~z~Hey, you! Got any whiskey?
+
+0x66D00AA0 = ~z~In Spanish: You will bleed now!
+
+0x68D0D4A8 = ~z~In Spanish: What the fuck!
+
+0x81DEE0D3 = ~z~In Spanish: Jorge! Jorge, where are you?
+
+0x84AF9862 = ~z~In Spanish: He's just drunk out his brain! Idiot.
+
+0x87F1EE54 = ~z~In Spanish: I found him! On the ground, of course.
+
+0x87FD4B6B = ~z~He has a point!
+
+0x94CEC977 = ~z~In Spanish: Drunk and tied up – not good!
+
+0x96D6BA42 = ~z~In the mean time, shoot six bullets at a time, and shoot 'em wisely.
+
+0x151B0897 = ~z~We got you surrounded.
+
+0x380A435A = ~z~Ah, now that he's gone, we can get to what's important.
+
+0x400FED08 = ~z~In Spanish: Forget this. He'll turn up in the morning.
+
+0x465B9CD1 = ~z~In Spanish: Move it!
+
+0x491EAD9D = ~z~In Spanish: Son of a bitch!
+
+0x508DBE40 = ~z~In Spanish: I'm gonna blow his prick off!
+
+0x564BE83C = ~z~
+
+0x601AEBBE = ~z~In Spanish: We're all panning for gold here. Fat, rich, American stagecoach gold. And we'll keep panning until they're all dead in the ground. The President can keep Mexico.
+
+0x635D023C = ~z~In Spanish: Come on! Are they men or boys?
+
+0x689BB979 = ~z~You best clear off.
+
+0x848B82CD = ~z~Sweeatheart, I am just getting started... Ooh, why don't we wait for your friend, then we'll really have some fun.
+
+0x870E14E4 = ~z~Burn in Hell!
+
+0x891F8053 = ~z~In Spanish: You dumb as a mule? Move out of the way!
+
+0x932BC61A = ~z~In Spanish: Show him what we do to uninvited guests!
+
+0x947AD069 = ~z~In Spanish: Maybe their horses are just tired, eh?
+
+0x972E8CC0 = ~z~You got no hope. We got you corralled.
+
+0x2172C9F0 = ~z~In Spanish: I said, Move! Move! Move!
+
+0x2662C69C = ~z~I like this lady. I like her very much.
+
+0x4185F79E = ~z~I'm warning you.
+
+0x5373C9E6 = ~z~In Spanish: If you don't shut your mouth, I'll tie you to your horse and ship you to Tumbleweed. And speak Spanish, damn you!
+
+0x5719C159 = ~z~Have you ever seen a Mexican pistol?
+
+0x5893A5BD = ~z~This is your warning.
+
+0x8978B346 = ~z~In Spanish: Where did you come from, son of a bitch? I don't like you!
+
+0x9006F574 = ~z~In Spanish: Careful! They want to steal our prey.
+
+0x9633EAD9 = ~z~In Spanish: A lot of good men...
+
+0x21089BE5 = ~z~Dios!
+
+0x84419E89 = ~z~In Spanish: If a horse is tired, you whip it. If it's really tired, you whip it more. A horse is a horse.
+
+0x98465E7C = ~z~In Spanish: What do you expect?
+
+0x257553EC = ~z~In Spanish: That's cause it's quicker than these donkeys. If he was this slow, I would whip him hard.
+
+0x534431D7 = ~z~Shit! Someone's here!
+
+0x627344F8 = ~z~In Spanish: Someone killed Jorge! Find him!
+
+0x933005F7 = ~z~In Spanish: You ask me to pay again, you will goddamn pay, understand?
+
+0x2750131A = ~z~You quit following me, you mangy dog.
+
+0x3892439F = ~z~You want a real fight?
+
+0x6119524E = ~z~
+
+0x28953932 = ~z~Si.
+
+0x29972896 = ~z~Looks like someone's gonna try a rescue.
+
+0x85329661 = ~z~In Spanish: Faster, faster!
+
+0xA07CF52C = ~z~In Spanish: Son of a horrible bitch.
+
+0xA0BA8EA5 = ~z~In Spanish: Bastard! Come on.
+
+0xA3E59F12 = ~z~This'll hurt, amigo!
+
+0xA461DFEE = ~z~In Spanish: I'll kill you, vaquero!
+
+0xA533B948 = ~z~Hey, hey, gringo, we can't burn everywhere. We need somewhere to drink...
+
+0xA76084E4 = ~z~Hey... who the? Hey!In Spanish: I think this guy did something to Jorge!
+
+0xAFF0E74A = ~z~Oh?
+
+0xB7F9B00C = ~z~In Spanish: I am surprised more of these dumb Americans don't know Spanish.
+
+0xB64F54DF = ~z~Go on, get outta my sight.
+
+0xB220E747 = ~z~In Spanish: Leave me alone.
+
+0xB9156EDF = ~z~In Spanish: Boy must be afraid of a good time.
+
+0xBFDBD759 = ~z~I know this was you, you piece of shit.
+
+0xC9FA2E61 = ~z~What did I just warn you about?
+
+0xC9FB64A3 = ~z~Don't worry, your day will come.
+
+0xC47DDA18 = ~z~~sl:0.8~In Spanish: The box is open.
+
+0xC88D3914 = ~z~In Spanish: Let's go, men, let's go!
+
+0xCB9196B1 = ~z~In Spanish: To the boat, men!
+
+0xCBA9C1FD = ~z~In Spanish: You trying to rope me?
+
+0xCC914367 = ~z~
+
+0xCCC9A586 = ~z~What are you looking at? You never seen a real man before?
+
+0xCDAE9C20 = ~z~
+
+0xD05F1274 = ~z~In Spanish: Ha. And you believe it? Like an American telling a Mexican he can keep his land, his cattle, or his gold claim.
+
+0xD3F1EEA5 = ~z~We better... It's what we paid for...
+
+0xD9D360B5 = ~z~In Spanish: There you are.
+
+0xD2870F2E = ~z~In Spanish : Come on. No more talking, just riding!
+
+0xDA03C0FF = ~z~In Spanish: That goddamn American cowboy. I saw him once. If I'd only been a little bit closer.
+
+0xE04313A3 = ~z~In Spanish: You goddamned fool, come on!
+
+0xE1BA2D93 = ~z~In Spanish: You shouldn't have tried it!
+
+0xE9FC2BD6 = ~z~In Spanish: Let's put it down before it starts to bite....
+
+0xE14C9593 = ~z~Okay, this is your last warning, I mean it.
+
+0xE9713C55 = ~z~Your next decision could be your last.
+
+0xEF1218CC = ~z~Come on, gringo, I'm sick of this town...
+
+0xF5A55ADA = ~z~In Spanish: Useless sacks of shit.
+
+0xF95BE44B = ~z~In Spanish: Don't bother...  Killing pigs is killing pigs. Nothing's different.
+
+0xF9066417 = ~z~Hold it, hold it... Now!
+
+0xFAEFD017 = ~z~In Spanish: It's a thief! They want our boat!
+
+0xFE110208 = ~z~We've robbed our way all across two countries. We were wanted men in Mexico, now we're wanted men in America. We just buried half the men in Tumbleweed, and your problem is you can't kill quick enough?
+

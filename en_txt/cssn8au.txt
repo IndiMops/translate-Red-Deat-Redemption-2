@@ -1,0 +1,14 @@
+CSSN8_ACTN_1 = ~z~You know, Miss, I've killed girls as betrayed us, and done it happily.
+
+CSSN8_ACTN_2 = ~z~Is reading betrayal in your world, Miss Grimshaw?
+
+CSSN8_ACTN_3 = ~z~Not reading, Miss, idleness.
+
+CSSN8_ACTN_4 = ~z~Idleness is betrayal, because it means I work so you don't have to! That's not right, is it?
+
+CSSN8_ACTN_5 = ~z~I guess not, Miss.
+
+CSSN8_ACTN_6 = ~z~You're right not, missy!
+
+CSSN8_ACTN_7 = ~z~On!
+

@@ -1,0 +1,64 @@
+NTV0_INT_1 = ~z~Listen, I'm...
+
+NTV0_INT_2 = ~z~I'll be taking off for a few days.
+
+NTV0_INT_3 = ~z~Sure.
+
+NTV0_INT_4 = ~z~Eagle Flies, the Chief's son...
+
+NTV0_INT_5 = ~z~Yeah, I remember.
+
+NTV0_INT_6 = ~z~He came by...
+
+NTV0_INT_7 = ~z~he needs my help.
+
+NTV0_INT_8 = ~z~Well hang on, is there anything I can help with?
+
+NTV0_INT_9 = ~z~Probably, but...
+
+NTV0_INT_10 = ~z~maybe this is something that means more to me than to you.
+
+NTV0_INT_11 = ~z~Well you've saved my hide often enough, brother.
+
+NTV0_INT_12 = ~z~Some boys he knows have been taken...
+
+NTV0_INT_13 = ~z~they're being sent to reform school...
+
+NTV0_INT_14 = ~z~or someplace a long way away.
+
+NTV0_INT_15 = ~z~I said I'd see if there's some way I can help free them.
+
+NTV0_INT_16 = ~z~And it means something to you...
+
+NTV0_INT_17 = ~z~to help him?
+
+NTV0_INT_18 = ~z~Yes.
+
+NTV0_INT_19 = ~z~Well then it means something to me to help you.
+
+NTV0_INT_20 = ~z~Thank you.
+
+NTV0_INT_21 = ~z~So what's the plan?
+
+NTV0_INT_22 = ~z~Where do you wanna meet up?
+
+NTV0_INT_23 = ~z~I don't know yet...
+
+NTV0_INT_24 = ~z~maybe it is impossible.
+
+NTV0_INT_25 = ~z~I said I'd meet him and go investigate.
+
+NTV0_INT_26 = ~z~There's a grove to the west of the river...
+
+NTV0_INT_27 = ~z~by Emerald Ranch, near the bridge.
+
+NTV0_INT_28 = ~z~Meet me there in a couple of days.
+
+NTV0_INT_29 = ~z~Sure...
+
+NTV0_INT_30 = ~z~and good luck.
+
+NTV0_INT_LI_1 = ~z~How you doing?
+
+NTV0_INT_LI_2 = ~z~Fine. Just about finished packing.
+

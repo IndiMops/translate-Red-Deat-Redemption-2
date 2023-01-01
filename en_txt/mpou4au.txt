@@ -1,0 +1,304 @@
+MPOU4_ALCOWER_01 = ~z~Please.
+
+MPOU4_ALCOWER_02 = ~z~Have mercy.
+
+MPOU4_ALCOWER_03 = ~z~I've done what I can.
+
+MPOU4_ALCOWER_04 = ~z~Take what you want and leave me alone.
+
+MPOU4_ALERT2_1 = ~z~What's happening here? Who are you people, really?
+
+MPOU4_ALERT2_2 = ~z~Oh, please don't hurt me. I'll do anything you want.
+
+MPOU4_ALERT_1 = ~z~I'll do anything you want. Please. Don't kill me.
+
+MPOU4_ALROPED_01 = ~z~Please.
+
+MPOU4_ALROPED_02 = ~z~You don't have to...
+
+MPOU4_ALROPED_03 = ~z~
+
+MPOU4_ALUNLOCK_1 = ~z~The vault door, I'll unlock it for you. Just hold on... hold on.
+
+MPOU4_ALUNLOCK_2 = ~z~I'm going as fast as I can. Hold on.
+
+MPOU4_ALUNLOCK_3 = ~z~Almost there.
+
+MPOU4_ALVAULT2_01 = ~z~Take what you came for and go... please.
+
+MPOU4_ALVAULT2_02 = ~z~~sl:0.0:2.1~Open the boxes, take whatever you want.~sl:0.2~Just... don't hurt anyone.
+
+MPOU4_AROUND_1 = ~z~We can't get through, go around!
+
+MPOU4_ASK_1 = ~z~I believe the allocation request was for the regular amount...
+
+MPOU4_AUNLOCKB_1 = ~z~~sl:2.7~There. Okay?
+
+MPOU4_AUNLOCK_1 = ~z~~sl:1.0:1.3~I'm opening it, alright?~sl:1.6~I'm opening it.
+
+MPOU4_BANKLEAD_1 = ~z~Of course, our security protocols won't allow me to take you all in.
+
+MPOU4_COMBO_1 = ~z~~sl:0.0:2.8~I don't have the combinations for any of the large safes.~sl:~The bank owner has those.
+
+MPOU4_DOOR_1 = ~z~Come in.
+
+MPOU4_EXPLOSIVE_1 = ~z~Dear Lord!
+
+MPOU4_EXT_1 = ~z~We did it.
+
+MPOU4_EXT_2 = ~z~We did it!
+
+MPOU4_EXT_3 = ~z~We're home free.
+
+MPOU4_EXT_4 = ~z~Here's where I stab you all in the back.
+
+MPOU4_EXT_5 = ~z~ I'm joking.
+
+MPOU4_EXT_6 = ~z~Here's where we go our separate ways...
+
+MPOU4_EXT_7 = ~z~and remember each other fondly.
+
+MPOU4_EXT_8 = ~z~You stick to your code...
+
+MPOU4_EXT_9 = ~z~and kill any bastards who don't.
+
+MPOU4_FOLLOW_01 = ~z~Follow me.
+
+MPOU4_FOLLOW_02 = ~z~This way.
+
+MPOU4_FOLLOW_03 = ~z~It's over here.
+
+MPOU4_GAZEBO_1 = ~z~Catch your breath. I'd hazard this ain't over yet.
+
+MPOU4_IG4_ADV_1 = ~z~We got 'em! Advance, advance!
+
+MPOU4_IG4_ADV_2 = ~z~Follow 'em, follow 'em!
+
+MPOU4_IG4_HORSE_1 = ~z~There, there! Shoot the horses!
+
+MPOU4_IG5_CMON_1 = ~z~Come on.
+
+MPOU4_IG5_HERE_1 = ~z~In here.
+
+MPOU4_IG5_HEY_1 = ~z~~sl:0.0:0.7~Hey there!~sl:2.4~Okay...
+
+MPOU4_IG5_LGO_1 = ~z~Let's go.
+
+MPOU4_IG5_QUICK_1 = ~z~Quick.
+
+MPOU4_INT_1 = ~z~Now...
+
+MPOU4_INT_2 = ~z~if I'm right, we should be all set...
+
+MPOU4_INT_3 = ~z~and listen, usually I am right.
+
+MPOU4_INT_4 = ~z~Well, not always.
+
+MPOU4_INT_5 = ~z~Otherwise I'll be doing this with my so-called best friend.
+
+MPOU4_INT_6 = ~z~Instead of thinking about what he did to me...
+
+MPOU4_INT_7 = ~z~and the fact that we killed him.
+
+MPOU4_INT_8 = ~z~Only banks don't rob themselves...
+
+MPOU4_INT_9 = ~z~so let's get ready.
+
+MPOU4_INT_10 = ~z~You can go get changed behind the gallows there.
+
+MPOU4_INT_11 = ~z~Oh, and by the way. Horley came by...
+
+MPOU4_INT_12 = ~z~I said you was acquitting yourselves.
+
+MPOU4_INT_13 = ~z~Just disguise yourself as best you can.
+
+MPOU4_INT_14 = ~z~Ain't nobody gonna pay you too much attention.
+
+MPOU4_INT_15 = ~z~Well, well, well.
+
+MPOU4_INT_16 = ~z~You certainly look the part.
+
+MPOU4_INT_17 = ~z~Bank manager will see you pull up in the stage dressed like that...
+
+MPOU4_INT_18 = ~z~and he'll think you're from the Express Company...
+
+MPOU4_INT_19 = ~z~and let you right into the vault.
+
+MPOU4_INT_20 = ~z~Then it's happening.
+
+MPOU4_INT_21 = ~z~You blow the safes...
+
+MPOU4_INT_22 = ~z~or crack 'em if you don't wanna make a noise.
+
+MPOU4_INT_23 = ~z~Empty the bonds outta them...
+
+MPOU4_INT_24 = ~z~and run to meet me back there in the cemetery.
+
+MPOU4_INT_25 = ~z~Oh, and one more thing.
+
+MPOU4_INT_26 = ~z~The manager keeps some more bonds in his desk.
+
+MPOU4_INT_27 = ~z~We'll need them too.
+
+MPOU4_INT_28 = ~z~God willing I'll see you all shortly.
+
+MPOU4_KEEPFIGHT_01 = ~z~Just hold them off.
+
+MPOU4_KEEPFIGHT_02 = ~z~Hold them. We need to buy ourselves some time.
+
+MPOU4_KEEPFIGHT_03 = ~z~Keep them back!
+
+MPOU4_KEEPFIGHT_04 = ~z~This is as good a place as any.
+
+MPOU4_KEEPFIGHT_05 = ~z~There's only so many places they can come from.
+
+MPOU4_KEEPFIGHT_06 = ~z~Keep fighting, okay? Our chance will come.
+
+MPOU4_KICK_01 = ~z~~sl:1.0~Don't!
+
+MPOU4_KICK_02 = ~z~~sl:1.0~Stop!
+
+MPOU4_KICK_03 = ~z~~sl:0.8~Mercy...
+
+MPOU4_LAWFOUND_1 = ~z~You ready? Here goes.
+
+MPOU4_LEAVEVLT_1 = ~z~Are you leaving?
+
+MPOU4_LEAVEVLT_2 = ~z~Don't come back.
+
+MPOU4_LEAVEVLT_3 = ~z~You won't get away with this.
+
+MPOU4_MOREPLY_1 = ~z~Hey. I said you couldn't come in here. This is most unusual.
+
+MPOU4_NOFOLLOW_01 = ~z~Come on. Follow me.
+
+MPOU4_NOFOLLOW_02 = ~z~Catch up.
+
+MPOU4_NOFOLLOW_03 = ~z~From now on, we ought to stay together.
+
+MPOU4_NOFOLLOW_04 = ~z~Hey. Over here.
+
+MPOU4_OFFICE_1 = ~z~~sl:0.0:2.4~Hey, I knew there was something wrong with you.~sl:0.4~My God, this is a robbery.
+
+MPOU4_RETURN1_01 = ~z~~sl:0.0:1.4~No use delaying it.~sl:0.1~You're all dressed up and you've got somewhere to go.
+
+MPOU4_RETURN1_02 = ~z~Like I said, I'll meet you in the cemetery. Go rob that bank, okay?
+
+MPOU4_RETURN2_01 = ~z~~sl:0.0:1.5~Look, enough of all this,~sl:0.2~are you going to rob that bank like we agreed?
+
+MPOU4_RETURN2_02 = ~z~Go on. Get on with you.
+
+MPOU4_RETURN_01 = ~z~Shall we get on with it, then?
+
+MPOU4_RETURN_02 = ~z~Well, let's carry on, shall we?
+
+MPOU4_ROBBERY_1 = ~z~Oh no...
+
+MPOU4_ROBBERY_2 = ~z~Help,
+
+MPOU4_ROBBERY_3 = ~z~it's a robbery!
+
+MPOU4_ROPED_01 = ~z~No!
+
+MPOU4_ROPED_02 = ~z~Help!
+
+MPOU4_ROPED_03 = ~z~
+
+MPOU4_SAMCOVER_01 = ~z~Get on the train, I'll cover.
+
+MPOU4_SAMCOVER_02 = ~z~Move it, okay? I got you covered.
+
+MPOU4_SAMCOVER_03 = ~z~I'll hold them back, run for it!
+
+MPOU4_SAMGRAVE2_1 = ~z~You made some noise, alright. Least you got the bonds.
+
+MPOU4_SAMGRAVE2_2 = ~z~Come on, there's cover up here.
+
+MPOU4_SAMGRAVE3_1 = ~z~We can hold them off until we got a way out of here.
+
+MPOU4_SAMRUN_01 = ~z~Run!
+
+MPOU4_SAMRUN_02 = ~z~Go. Go. Go.
+
+MPOU4_SAMRUN_03 = ~z~Come on. Move!
+
+MPOU4_SAMRUN_04 = ~z~Move it!
+
+MPOU4_SAMTR1ALT_1 = ~z~Come on! Let's go.
+
+MPOU4_SAMTRAIN1_1 = ~z~You hear that? That's a train.
+
+MPOU4_SAMTRAIN1_2 = ~z~~sl:0.0:1.9~The tracks are just through the slums.~sl:0.1~Run and jump on board, I'm right behind ya.
+
+MPOU4_SAMTRAIN2_1 = ~z~You hear that? That's a train.
+
+MPOU4_SAMTRAIN2_2 = ~z~~sl:0.0:1.9~The tracks are just through the slums.~sl:~If we get there soon, there's a ride out of here.
+
+MPOU4_STRUGGLE_01 = ~z~
+
+MPOU4_STRUGGLE_02 = ~z~
+
+MPOU4_STRUGGLE_03 = ~z~
+
+MPOU4_STRUGGLE_04 = ~z~
+
+MPOU4_STRUGGLE_05 = ~z~
+
+MPOU4_STRUGGLE_06 = ~z~
+
+MPOU4_SUSPECT_01 = ~z~What's the meaning of this?
+
+MPOU4_SUSPECT_02 = ~z~Hold on a moment...
+
+MPOU4_SUSPECT_03 = ~z~What's this about?
+
+MPOU4_SUSPECT_04 = ~z~Steady on, now.
+
+MPOU4_SUSPECT_05 = ~z~What are you doing?
+
+MPOU4_TEAMBIG_1 = ~z~So, if some of you wouldn't mind waiting out here...
+
+MPOU4_TEAMTWO_1 = ~z~So, if one of you wouldn't mind waiting out here...
+
+MPOU4_TIEDUP_01 = ~z~~sl:0.6~I didn't see anything.
+
+MPOU4_TIEDUP_02 = ~z~~sl:0.3~Don't kill me, please.
+
+MPOU4_TIEDUP_03 = ~z~I don't want to die.
+
+MPOU4_TIEDUP_04 = ~z~I'm a gentleman. Please.
+
+MPOU4_TRAINRUN_01 = ~z~Go! We don't want to miss it.
+
+MPOU4_TRAINRUN_02 = ~z~Run. If we want to get away, the train's how we do it.
+
+MPOU4_UNLOCKB_1 = ~z~~sl:1.8~There you are.
+
+MPOU4_UNLOCK_1 = ~z~~sl:0.0:1.5~Let me get this open for you.~sl:1.5~Don't look, now.
+
+MPOU4_VAULTALRT_1 = ~z~There. Take whatever you're here for.
+
+MPOU4_VAULTALRT_2 = ~z~I don't have the combinations for any of the large safes.
+
+MPOU4_VAULTS_1 = ~z~Now, I don't need to tell you what to do in here.
+
+MPOU4_VAULTS_2 = ~z~~sl:0.0:1.2~You'll know where your box is~sl:~and have your code on hand, I'm sure.
+
+MPOU4_VAULTS_3 = ~z~~sl:0.0:0.6~You know, funny,~sl:~I thought I knew everyone at the Express Company...
+
+MPOU4_VAULTS_4 = ~z~but it's a high-turnover business, if ever there was one.
+
+MPOU4_VAULTS_5 = ~z~Too many bandits on the roads. Really, I shouldn't joke.
+
+MPOU4_VAULTS_6 = ~z~~sl:0.0:1.0:1~Now...
+
+MPOU4_VAULTS_7 = ~z~Well then.
+
+MPOU4_WELCOME_1 = ~z~~sl:0.0:1.8~Ah, the Express Company.~sl:0.8~I was expecting you a little later. No matter.
+
+MPOU4_WELCOME_2 = ~z~Let me escort you to the vault.
+
+MPOU4_WRNGWAY_01 = ~z~~sl:0.4~Where are you going?
+
+MPOU4_WRNGWAY_02 = ~z~~sl:0.5~Excuse me?
+

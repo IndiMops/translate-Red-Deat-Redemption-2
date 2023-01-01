@@ -1,0 +1,56 @@
+0x23B7029C = ~1~ ~2~ ~3~
+
+0xA8F40C88 = Sheriff
+
+0xE5261C7F = Examine
+
+KLR1_ABANCELL = The basement was abandoned.
+
+KLR1_CLUE = Knife
+
+KLR1_CTXOPEN = Open
+
+KLR1_CTXTHROW = Throw head
+
+KLR1_DISTRACT = Reach for the nearby head
+
+KLR1_DROP = Drop the stranger close to the ~o~Sheriff's desk~s~
+
+KLR1_EXPLORE = Explore the ~o~basement
+
+KLR1_HOGTIE = Hogtie the ~o~stranger
+
+KLR1_LBLBASEDOOR = Basement doors
+
+KLR1_LBLCELLAR = Basement
+
+KLR1_LBLEDMUND = Edmund Lowry Jr.
+
+KLR1_LBLREWARD = Reward
+
+KLR1_LBLSTRANGE = Stranger
+
+KLR1_LOOKKNIFE = Inspect the ~o~knife
+
+KLR1_OFFICE = Sheriff's Office
+
+KLR1_OPDOOROBJ = Open the basement ~o~door
+
+KLR1_PICKUP = Pick up the ~o~stranger~s~
+
+KLR1_REWARD = Collect your ~o~reward~s~ from the Sheriff's desk
+
+KLR1_SHOOT = Help the Sheriff by shooting ~e~Edmund~s~
+
+KLR1_SUBDUE = Subdue the ~e~stranger
+
+KLR1_TURNIN = Turn the stranger in at the ~o~Sheriff's Office~s~
+
+KRLR1_ABANDON = You abandoned the stranger.
+
+KRLR1_FAIL1 = The stranger has died.
+
+KRLR1_SHOTSHERIFF = The Sheriff has died.
+
+KRLR1_WANTED = You attracted the law.
+

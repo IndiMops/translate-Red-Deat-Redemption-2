@@ -1,0 +1,2068 @@
+MASN_1_JSHOUT_0_1 = ~z~Drop the bag!
+
+MASN_1_JSHOUT_1_1 = ~z~Leave the meat, mister!
+
+MASN_1_JSHOUT_2_1 = ~z~Leave it!
+
+MASN_1_JSHOUT_3_1 = ~z~You don't want me chasing you!
+
+MASN_1_JSHOUT_4_1 = ~z~Coyote! Heel!
+
+MASN_1_JSHOUT_5_1 = ~z~Damn you bushy-tailed bastard!
+
+MASN_1_SHOUT_0_1 = ~z~Drop the bag!
+
+MASN_1_SHOUT_1_1 = ~z~Leave the meat, mister!
+
+MASN_1_SHOUT_2_1 = ~z~Leave it!
+
+MASN_1_SHOUT_3_1 = ~z~You don't want me chasing you!
+
+MASN_1_SHOUT_4_1 = ~z~Coyote! Heel!
+
+MASN_1_SHOUT_5_1 = ~z~Damn you bushy-tailed bastard!
+
+MASN_3_TOD1_1 = ~z~Alas! We've lost the light. Have to save this photograph for another day!
+
+RMASN2_END1_1 = ~z~~sl:0.1:2.4~Just... checking this equipment, if...~sl:~only my hands weren't shaking quite so much.
+
+RMASN2_END1_2 = ~z~~sl:0.0:2.7~First I was scared of the wolves, and now it's hydrophobia.~sl:~I've got hydrophobia phobia.
+
+RMASN2_END1_3 = ~z~Perhaps a wildlife photographer needs steadier nerves...
+
+RMASN2_END1_4 = ~z~Or a longer tube for this shutter bulb.
+
+RMASN2_END1_5 = ~z~~sl:0.0:1.5~A much, much longer tube.~sl:~And a cave to hide in. With bars on the outside.
+
+RMASN2_END2_1 = ~z~I'll be some time... working on the mechanism.
+
+RMASN2_END2_2 = ~z~Good day to you, sir, and God speed.
+
+RMASN2_END3_1 = ~z~~sl:0.0:3.5~Don't worry about me. Lightning doesn't strike in the same place,~sl:0.1:1.2:1~and neither do wolves.
+
+RMASN2_END4_1 = ~z~Thank you again. Fare thee well.
+
+RMASN2_SKIN_01 = ~z~You're a collector of pelts? I hope only in cases of self-defense.
+
+RMASN2_SKIN_02 = ~z~The only trophy I need is a photograph. And I hope it catches on.
+
+RMASN_1_END1_1 = ~z~Please, if I'm to attract any wildlife, I'll need some privacy.
+
+RMASN_1_END2_1 = ~z~~sl:0.0:2.8~Photography, is not that interesting to the observer...~sl:~unless I am eaten that is.
+
+RMASN_1_END3_1 = ~z~~sl:0.0:2.4~Watching fresh paint dry is more interesting than watching...~sl:~a man with his head in a camera, sir. Really.
+
+RMASN_1_END4_1 = ~z~~sl:0.0:1.2~Well, I don't mean to be rude,~sl:~but this image making will require all my attention.
+
+RMASN_1_ILO_A_1 = ~z~~sl:0.0:2.4~Look, you think maybe you should...~sl:~leave the wildlife photography...
+
+RMASN_1_ILO_A_2 = ~z~to the fellers who know a little something about wildlife?
+
+RMASN_1_ILO_A_3 = ~z~~sl:0.0:1.9~If every great man had thought like that,~sl:~there wouldn't be any great men.
+
+RMASN_1_ILO_A_4 = ~z~A little ignorance can go a long way... at least that's what I tell myself.
+
+RMASN_1_ILO_A_5 = ~z~Or it can get you killed. But hey, good luck.
+
+RMASN_1_ILO_J_1 = ~z~~sl:0.0:0.6~Look,~sl:0.5~you think maybe you should leave the wildlife photography...
+
+RMASN_1_ILO_J_2 = ~z~to the fellers who know a little something about wildlife?
+
+RMASN_1_ILO_J_3 = ~z~~sl:0.0:1.9~If every great man had thought like that,~sl:~there wouldn't be any great men.
+
+RMASN_1_ILO_J_4 = ~z~A little ignorance can go a long way... at least that's what I tell myself.
+
+RMASN_1_ILO_J_5 = ~z~~sl:0.6~Or it can get you killed. But hey... good luck.
+
+RMASN_2_AIM_01 = ~z~You don't need to aim at them...
+
+RMASN_2_AIM_02 = ~z~Put the weapon down please. They've given no cause...
+
+RMASN_2_COWER_01 = ~z~
+
+RMASN_2_COWER_02 = ~z~
+
+RMASN_2_COWER_03 = ~z~No, no, no.
+
+RMASN_2_COWER_04 = ~z~Help!
+
+RMASN_2_DEAD_A_1 = ~z~Is that all of them? We might'a kept the wolves from the door.
+
+RMASN_2_DEAD_J_1 = ~z~~sl:0.9~Is that all of them? We might'a kept the wolves from the door.
+
+RMASN_2_HELP_A_1 = ~z~Do something, Mr. Morgan! Help!
+
+RMASN_2_HELP_J_1 = ~z~Do something, Mr. Marston! Help!
+
+RMASN_2_HORSE_01 = ~z~That horse is a distraction, if you don't mind, sir.
+
+RMASN_2_HORSE_02 = ~z~You don't need to be on that horse now, do you?
+
+RMASN_2_ILO_A_1 = ~z~So, you think that photograph will come out?
+
+RMASN_2_ILO_A_2 = ~z~~sl:0.0:2.2~I can't say with certainty, but I'm hopeful, sir.~sl:0.1:2.0:1~I'm due some good luck, no?
+
+RMASN_2_ILO_A_3 = ~z~Carry on like this, I'm not sure you are...
+
+RMASN_2_ILO_J_1 = ~z~So, you think that photograph will come out?
+
+RMASN_2_ILO_J_2 = ~z~~sl:0.0:2.2~I can't say with certainty, but I'm hopeful, sir.~sl:0.1:2.0:1~I'm due some good luck, no?
+
+RMASN_2_ILO_J_3 = ~z~~sl:0.5~Carry on like this, I'm not sure you are...
+
+RMASN_2_PRE1_1 = ~z~Come on. Come on.
+
+RMASN_2_PRE2_1 = ~z~Good boys... hungry boys. Come on.
+
+RMASN_2_PROV_A_1 = ~z~You provoked them, Mr. Morgan! Help!
+
+RMASN_2_PROV_A_2 = ~z~They ain't "provoked", they're just wolves!
+
+RMASN_2_PROV_J_1 = ~z~You provoked them, Mr. Marston! Help!
+
+RMASN_2_PROV_J_2 = ~z~They ain't "provoked", they're just wolves!
+
+RMASN_2_SAFE_A_1 = ~z~Come on. Snap out of it. You're safe.
+
+RMASN_2_SAFE_J_1 = ~z~Come on. Snap out of it. You're safe.
+
+RMASN_2_SCARE_01 = ~z~I'd rather you didn't.
+
+RMASN_2_SCARE_02 = ~z~Shame on you.
+
+RMASN_2_SEEWOLF_1 = ~z~Yes, yes. There they are... in the trees.
+
+RMASN_2_SEEWOLF_2 = ~z~Now, don't do anything. I'm going to take a few photographs.
+
+RMASN_2_TRBL_A_1 = ~z~Mr. Morgan! Help!
+
+RMASN_2_TRBL_J_1 = ~z~Mr. Marston! Help!
+
+RMASN_2_WIND_1 = ~z~If that's coming from there then...
+
+RMASN_2_WIND_2 = ~z~It's a westerly so...
+
+RMASN_2_WIND_3 = ~z~Or is it an easterly?
+
+RMASN_2_WIND_4 = ~z~We're fine... we're fine.
+
+RMASN_2_WIND_5 = ~z~Long as it doesn't pick up, we're fine.
+
+RMASN_3_CAM_01 = ~z~Now, now.
+
+RMASN_3_CAM_02 = ~z~You'd think I'd have figured this out by now.
+
+RMASN_3_CAM_03 = ~z~Damn blasted thing.
+
+RMASN_3_CAM_04 = ~z~~sl:0.1~Let's get this right, shall we?
+
+RMASN_3_CO_A_01 = ~z~Mr. Morgan!
+
+RMASN_3_CO_A_02 = ~z~Arthur!
+
+RMASN_3_CO_A_03 = ~z~Over here.
+
+RMASN_3_CO_J_01 = ~z~Mr. Marston!
+
+RMASN_3_CO_J_02 = ~z~~sl:0.5~John!
+
+RMASN_3_CO_J_03 = ~z~Over here.
+
+RMASN_3_DAWDLE_01 = ~z~Much appreciated, you know.
+
+RMASN_3_DAWDLE_02 = ~z~Don't know what I'd do without you. Start neighing, perhaps?
+
+RMASN_3_DAWDLE_03 = ~z~Jolly good work.
+
+RMASN_3_DAWDLE_04 = ~z~A gentleman through and through.
+
+RMASN_3_END1_1 = ~z~Now for a few final checks...
+
+RMASN_3_END2_1 = ~z~Don't mind me... I may be at this for some time.
+
+RMASN_3_END3_1 = ~z~At least there's nothing out here that's likely to eat me.
+
+RMASN_3_END3_2 = ~z~There isn't, is there?
+
+RMASN_3_END4_1 = ~z~~sl:0.0:3.1:1~Just say something if you see that herd of mustangs running back at me.
+
+RMASN_3_ILO_A_1 = ~z~You know, horses seem like a fine subject for you.
+
+RMASN_3_ILO_A_2 = ~z~~sl:0.0:2.9~You maybe think about documenting animal life...~sl:~of the farm yard variety?
+
+RMASN_3_ILO_A_3 = ~z~From now on?
+
+RMASN_3_ILO_A_4 = ~z~Oh, ah, yes. You had me there.
+
+RMASN_3_ILO_A_5 = ~z~A wild horse is a different beast to his domesticated brother.
+
+RMASN_3_ILO_A_6 = ~z~Very good. Very good.
+
+RMASN_3_ILO_A_7 = ~z~Hmm. Yeah...
+
+RMASN_3_ILO_J_1 = ~z~You know horses seem like a fine subject for you...
+
+RMASN_3_ILO_J_2 = ~z~maybe you should think about documenting animal life of the farm yard variety, from now on?
+
+RMASN_3_ILO_J_3 = ~z~Oh, ah, yes. You had me there.
+
+RMASN_3_ILO_J_4 = ~z~The wild horse is a different beast to his domesticated brother.
+
+RMASN_3_ILO_J_5 = ~z~Very good. Very good.
+
+RMASN_3_ILO_J_6 = ~z~Hmm. Yeah...
+
+RMASN_3_LAKE_A_1 = ~z~Now, run! Heya! Heya! Heya! Go on!
+
+RMASN_3_LAKE_A_2 = ~z~~sl:1.3~That's it!
+
+RMASN_3_LAKE_A_3 = ~z~I've got it! I've got it! Yes!
+
+RMASN_3_LAKE_J_1 = ~z~Now, run! Heya! Heya! Heya! Go on!
+
+RMASN_3_LAKE_J_2 = ~z~~sl:0.9~That's it!
+
+RMASN_3_LAKE_J_3 = ~z~I've got it! I've got it! Yes!
+
+RMASN_3_MHORSEJ_1 = ~z~Mr. Mason. I'm borrowing your horse.
+
+RMASN_3_MHORSEJ_2 = ~z~Of course, Mr. Marston. Whatever you need.
+
+RMASN_3_MHORSE_1 = ~z~Mr. Mason. I'm borrowing your horse.
+
+RMASN_3_MHORSE_2 = ~z~Of course, Mr. Morgan. Whatever you need.
+
+RMASN_3_WRNG_A_01 = ~z~Wrong way, you fools.
+
+RMASN_3_WRNG_A_02 = ~z~C'mon! I told this feller I could herd!
+
+RMASN_3_WRNG_A_03 = ~z~You all shy? Wrong way!
+
+RMASN_3_WRNG_J_01 = ~z~Wrong way, you fools.
+
+RMASN_3_WRNG_J_02 = ~z~C'mon! I told this feller I could herd!
+
+RMASN_3_WRNG_J_03 = ~z~You all shy? Wrong way!
+
+RMASN_3_YELLH_A_01 = ~z~Come on, horses.
+
+RMASN_3_YELLH_A_02 = ~z~You want your likeness taken? Go then!
+
+RMASN_3_YELLH_A_03 = ~z~Let's make you all famous.
+
+RMASN_3_YELLH_A_04 = ~z~Go on, and look pretty doing it!
+
+RMASN_3_YELLH_A_05 = ~z~Good mustangs, come on.
+
+RMASN_3_YELLH_A_06 = ~z~Git up! Go on now, all of you.
+
+RMASN_3_YELLH_J_01 = ~z~Come on, horses.
+
+RMASN_3_YELLH_J_02 = ~z~You want your likeness taken? Go then!
+
+RMASN_3_YELLH_J_03 = ~z~Let's make you all famous.
+
+RMASN_3_YELLH_J_04 = ~z~Go on, and look pretty doing it!
+
+RMASN_3_YELLH_J_05 = ~z~Good mustangs, come on.
+
+RMASN_3_YELLH_J_06 = ~z~Git up! Go on now, all of you.
+
+RMASN_4_AIM_01 = ~z~Don't you dare do that!
+
+RMASN_4_AIM_02 = ~z~You wouldn't!
+
+RMASN_4_AIM_03 = ~z~Don't hurt it!
+
+RMASN_4_AIM_04 = ~z~I would never forgive you!
+
+RMASN_4_CAM_01 = ~z~Okay... this is good work. It's God's work.
+
+RMASN_4_CAM_02 = ~z~Okay. Okay.
+
+RMASN_4_CAM_03 = ~z~Hang in there old boy, nothing to fear.
+
+RMASN_4_CAM_04 = ~z~Alright.
+
+RMASN_4_CAM_05 = ~z~~sl:0.0:2.8:1~It'll take more than a large reptile to consume you.
+
+RMASN_4_CAM_06 = ~z~Let's see now.
+
+RMASN_4_DIR_A_1 = ~z~~sl:0.0:1.0~Alright then...~sl:1.9~I saw movement to the north of us...
+
+RMASN_4_DIR_A_2 = ~z~oh, and to the west... oh, and to the northwest there...
+
+RMASN_4_DIR_A_3 = ~z~that's probably where we should look.
+
+RMASN_4_DIR_A_4 = ~z~Let's go look then...
+
+RMASN_4_DIR_A_5 = ~z~When we find one, line me up so I can get the shot.
+
+RMASN_4_DIR_A_6 = ~z~I'll try.
+
+RMASN_4_DIR_A_7 = ~z~But don't get too close... you'll scare them away.
+
+RMASN_4_DIR_A_8 = ~z~Close, but not too close, got it.
+
+RMASN_4_DIR_J_1 = ~z~~sl:0.0:1.0~Alright then...~sl:1.9~I saw movement to the north of us...
+
+RMASN_4_DIR_J_2 = ~z~oh, and to the west... oh, and to the northwest there...
+
+RMASN_4_DIR_J_3 = ~z~that's probably where we should look.
+
+RMASN_4_DIR_J_4 = ~z~Ok, let's go look then...
+
+RMASN_4_DIR_J_5 = ~z~When we find one, line me up so I can get the shot.
+
+RMASN_4_DIR_J_6 = ~z~I'll try.
+
+RMASN_4_DIR_J_7 = ~z~But don't get too close... you'll scare them away.
+
+RMASN_4_DIR_J_8 = ~z~Close, but not too close, I got it.
+
+RMASN_4_KILL1_A_1 = ~z~You killed him. I can't very well take a photograph of a carcass!
+
+RMASN_4_KILL1_A_2 = ~z~~sl:0.4~Let's try and find another, shall we?
+
+RMASN_4_KILL1_A_3 = ~z~I'm gonna worry about us first and the gators second.
+
+RMASN_4_KILL1_J_1 = ~z~You killed him. I can't very well take a photograph of a carcass!
+
+RMASN_4_KILL1_J_2 = ~z~~sl:0.4~Let's try and find another, shall we?
+
+RMASN_4_KILL1_J_3 = ~z~I'm gonna worry about us first and the gators second.
+
+RMASN_4_KILL2_A_1 = ~z~Oh! We're here to document living creatures, not their dead bodies!
+
+RMASN_4_KILL2_A_2 = ~z~Let's have a look at that other one... and remember that.
+
+RMASN_4_KILL2_A_3 = ~z~How about we prioritize our lives over the photographs, okay.
+
+RMASN_4_KILL2_J_1 = ~z~Oh! We're here to document living creatures, not their dead bodies!
+
+RMASN_4_KILL2_J_2 = ~z~Let's have a look at that other one... and remember that.
+
+RMASN_4_KILL2_J_3 = ~z~How about we prioritize our lives over the photographs, okay.
+
+RMASN_4_KILL3_A_1 = ~z~~sl:0.0:4.3~Well, that is a sour note to end on. A photograph of him now...~sl:~won't exactly save the species from extinction.
+
+RMASN_4_KILL3_A_2 = ~z~~sl:0.4~Let's go back to where we set off from.
+
+RMASN_4_KILL3_A_3 = ~z~~sl:0.2~I'm gonna cry for that gator all the way back.
+
+RMASN_4_KILL3_J_1 = ~z~~sl:0.0:4.3~Well, that is a sour note to end on. A photograph of him now...~sl:~won't exactly save the species from extinction.
+
+RMASN_4_KILL3_J_2 = ~z~~sl:0.4~Let's go back to where we set off from.
+
+RMASN_4_KILL3_J_3 = ~z~~sl:0.7~I'm gonna cry for that gator all the way back.
+
+RMASN_4_KILLFL_1 = ~z~One killing is forgivable, but two... I shan't be party to this... this hunt.
+
+RMASN_4_KILLFL_2 = ~z~Sadly our trip is over.
+
+RMASN_4_KILLPIC_01 = ~z~~sl:0.0:1.4~Did you really have to kill him?~sl:0.7~He will have to live on in my photograph.
+
+RMASN_4_KILLPIC_02 = ~z~~sl:0.0:3.4~I'll give you the benefit of the doubt, and assume that was necessary.~sl:0.7~At least I had him photographed.
+
+RMASN_4_KILLPIC_03 = ~z~~sl:0.0:1.7~That beautiful creature...~sl:0.9~I wouldn't have photographed him if I'd known it would be his death.
+
+RMASN_4_SHOT1_1 = ~z~For shame!
+
+RMASN_4_SHOT2_1 = ~z~Monster!
+
+RMASN_4_SHOT3_1 = ~z~Beast!
+
+RMASN_4_SHOT4_1 = ~z~Don't!
+
+RMASN_4_TURN_01 = ~z~Now turn us.
+
+RMASN_4_TURN_02 = ~z~Can we get the angle right.
+
+RMASN_4_TURN_03 = ~z~Now, rotate... rotate.
+
+RMASN_4_TURN_04 = ~z~Just a little turn, please.
+
+RMASN_4_TURN_05 = ~z~Turn, turn.
+
+RMASN_4_TURN_06 = ~z~Not quite there, turn.
+
+RMASN_4_WEP_01 = ~z~Put that away, we're conservationists, not killers.
+
+RMASN_4_WEP_02 = ~z~This isn't a hunting trip! Put it down please.
+
+RMASN_4_WEP_03 = ~z~I think you misunderstood our purpose here, put that away.
+
+RMASN_4_WEP_04 = ~z~They'll be no need for an instrument of killing!
+
+RMASN_4_WRN1_1 = ~z~Wherever are we off to?
+
+RMASN_4_WRN2_1 = ~z~I didn't see any movement over here...
+
+RMASN_4_WRN3_1 = ~z~~sl:0.0:2.8~If we could confine our search to the immediate area,~sl:~that would be marvelous.
+
+RMASN_4_WRN4_1 = ~z~Look, I'd much prefer it if we searched over there.
+
+RMASN_5_ILO_A_1 = ~z~The photographs, what are you gonna do with them?
+
+RMASN_5_ILO_A_2 = ~z~~sl:0.0:2.0~Find somewhere to exhibit them, I guess.~sl:0.4~I should hope you'll come and view them.
+
+RMASN_5_ILO_A_3 = ~z~Sure will... if I... if I can.
+
+RMASN_5_ILO_J_1 = ~z~The photographs, what are you gonna do with them?
+
+RMASN_5_ILO_J_2 = ~z~~sl:0.0:2.0~Find somewhere to exhibit them, I guess.~sl:0.4~I should hope you'll come and view them.
+
+RMASN_5_ILO_J_3 = ~z~Sure will... if I... if I can.
+
+RMASN_5_POST1_1 = ~z~Good luck, sir. Although, as we both know, I'm the one who needs it!
+
+RMASN_ABAG_DEAD_1 = ~z~This is what I'd call a robbery gone wrong, coyote...
+
+RMASN_ABAG_LIVE_1 = ~z~And coyote, don't think about coming back!
+
+RMASN_A_ATK_01 = ~z~You wanted wolves, you got wolves, Mr. Mason!
+
+RMASN_A_ATK_02 = ~z~They ain't so very friendly, are they?
+
+RMASN_A_ATK_03 = ~z~They was minding their own business too, 'til you strung that bait up!
+
+RMASN_A_ATK_04 = ~z~I hope you got what you came for!
+
+RMASN_A_ATK_05 = ~z~This was a fool of an idea! I tell you!
+
+RMASN_A_CHASE_1 = ~z~That “thing” is a coyote!
+
+RMASN_A_CHASE_2 = ~z~A sneaky one too.
+
+RMASN_A_CHASE_3 = ~z~"Wildlife” photographer.
+
+RMASN_A_COMBT_01 = ~z~Savage beast!
+
+RMASN_A_COMBT_02 = ~z~Hound a hell.
+
+RMASN_A_COMBT_03 = ~z~Now, I'm getting ate!
+
+RMASN_A_COMBT_04 = ~z~I don't like wolves!
+
+RMASN_BACK_01 = ~z~Too close, back up!
+
+RMASN_BACK_02 = ~z~Oh dear, back up a little.
+
+RMASN_BACK_03 = ~z~Not this close, back it up.
+
+RMASN_BACK_04 = ~z~The other way, we're getting too close.
+
+RMASN_BACK_05 = ~z~Uh oh. Reverse directions, quick.
+
+RMASN_BACK_06 = ~z~This won't do, pull the other way...
+
+RMASN_BAIT_01 = ~z~Come back please... away from the bait.
+
+RMASN_BAIT_02 = ~z~Back over here, please sir.
+
+RMASN_BAIT_03 = ~z~~sl:0.0:2.0~This, this is not the scene I designed.~sl:0.1~Join me behind the camera, please.
+
+RMASN_BAIT_04 = ~z~Please just... come back this way, and we'll wait for them.
+
+RMASN_CHASE1_1 = ~z~Go, go, go!
+
+RMASN_CHASE2_1 = ~z~He's making off with it!
+
+RMASN_CHASE3_1 = ~z~Run, if you're running! Quick!
+
+RMASN_CLSR_1_1 = ~z~Closer now... closer.
+
+RMASN_CLSR_2_1 = ~z~A little closer please.
+
+RMASN_CLSR_3_1 = ~z~Keep going.
+
+RMASN_CLSR_4_1 = ~z~Just a little further, if I may.
+
+RMASN_CLSR_5_1 = ~z~Onwards, please.
+
+RMASN_CLSR_6_1 = ~z~Advance... just a little.
+
+RMASN_CROUCH_01 = ~z~Duck a little, will you... make yourself inconspicuous.
+
+RMASN_CROUCH_02 = ~z~Can you keep your head down while I take the shot?
+
+RMASN_EAGLE_01 = ~z~Ah, yes. Yes.
+
+RMASN_EAGLE_02 = ~z~Majestic.
+
+RMASN_EAGLE_03 = ~z~Glorious.
+
+RMASN_EAGLE_04 = ~z~It's almost like I'm flying.
+
+RMASN_EAGLE_05 = ~z~Very good, very good.... very good.
+
+RMASN_G1_CALL_A_01 = ~z~Here, gator.
+
+RMASN_G1_CALL_A_02 = ~z~Over here, boy.
+
+RMASN_G1_CALL_A_03 = ~z~Got some juicy fat humans for you to eat.
+
+RMASN_G1_CALL_A_04 = ~z~Come on, you big dozy lizard. Rouse yourself.
+
+RMASN_G1_CALL_J_01 = ~z~Here, gator.
+
+RMASN_G1_CALL_J_02 = ~z~Over here, boy.
+
+RMASN_G1_CALL_J_03 = ~z~Got some juicy fat humans for you to eat.
+
+RMASN_G1_CALL_J_04 = ~z~Come on, you big dozy lizard. Rouse yourself.
+
+RMASN_G1_CHS_A_01 = ~z~No, no, no, no.
+
+RMASN_G1_CHS_A_02 = ~z~Come on, gator.
+
+RMASN_G1_CHS_A_03 = ~z~I hope you're slow.
+
+RMASN_G1_CHS_J_01 = ~z~No, no, no, no.
+
+RMASN_G1_CHS_J_02 = ~z~Come on, gator.
+
+RMASN_G1_CHS_J_03 = ~z~I hope you're slow.
+
+RMASN_G1_GOBACK_1 = ~z~~sl:0.3~He's awake!
+
+RMASN_G1_GOBACK_2 = ~z~Lead him back here, quick!
+
+RMASN_G1_GOBCKJ_1 = ~z~He's awake!
+
+RMASN_G1_GOBCKJ_2 = ~z~Lead him back here, quick!
+
+RMASN_G1_GPIC3A_1 = ~z~Got him! What a specimen!
+
+RMASN_G1_GPIC3A_2 = ~z~Nearly got him eating me!
+
+RMASN_G1_GPIC3A_3 = ~z~I don't know what I'd do without you, sir. I really don't.
+
+RMASN_G1_GPIC3J_1 = ~z~Got him! What a specimen!
+
+RMASN_G1_GPIC3J_2 = ~z~Nearly got him eating me!
+
+RMASN_G1_GPIC3J_3 = ~z~I don't know what I'd do without you, sir. I really don't.
+
+RMASN_G1_INPOS_01 = ~z~I need to face the island.
+
+RMASN_G1_INPOS_02 = ~z~Turn us around so I'm facing it, please.
+
+RMASN_G1_INPOS_03 = ~z~Now rotate us so I have a shot of the island.
+
+RMASN_G1_INPOS_04 = ~z~That's not the shot, can you rotate us a little.
+
+RMASN_G1_INST_1 = ~z~Keep going. Through the palms.
+
+RMASN_G1_INST_2 = ~z~It disappeared toward the back of the island.
+
+RMASN_G1_INST_3 = ~z~You'll be fine... just don't step on it.
+
+RMASN_G1_IN_1 = ~z~Quick, jump in the boat!
+
+RMASN_G1_IN_2 = ~z~In, in, in, in, in.
+
+RMASN_G1_OUTB_A_01 = ~z~I don't like this... not one bit.
+
+RMASN_G1_OUTB_A_02 = ~z~If I'm eaten I hope he eats you too.
+
+RMASN_G1_OUTB_J_01 = ~z~I don't like this... not one bit.
+
+RMASN_G1_OUTB_J_02 = ~z~If I'm eaten I hope he eats you too.
+
+RMASN_G1_OUTR_01 = ~z~What are you waiting for?
+
+RMASN_G1_OUTR_02 = ~z~Sooner you do it, the sooner we leave.
+
+RMASN_G1_OUTR_03 = ~z~~sl:0.0:3.4~If you don't go, I'll have to, and then assuredly I'll be eaten...~sl:~and all of this will have been for naught.
+
+RMASN_G1_OUT_A_1 = ~z~But maybe I want this monster stuffed and on display.
+
+RMASN_G1_OUT_A_2 = ~z~~sl:0.4:3.1~That's the spirit. Out you go then.~sl:~Get him... get him to notice you and... then turn tail and run.
+
+RMASN_G1_OUT_J_1 = ~z~But maybe I want this monster stuffed and on display.
+
+RMASN_G1_OUT_J_2 = ~z~~sl:0.4:3.1~That's the spirit. Out you go then.~sl:~Get him... get him to notice you and... then turn tail and run.
+
+RMASN_G1_SPINAG_01 = ~z~W-wait. Spin me back around.
+
+RMASN_G1_SPINAG_02 = ~z~Hold on, reorient me.
+
+RMASN_G1_SPINAG_03 = ~z~I've lost the shot! Redirect me first.
+
+RMASN_G1_SPOTA_1 = ~z~Now, look. There's an alligator back in those palms. Could you...
+
+RMASN_G1_SPOTA_2 = ~z~could you... run in there and coax him out?
+
+RMASN_G1_SPOTA_3 = ~z~Coax him?
+
+RMASN_G1_SPOTA_4 = ~z~Please, he's quite something...
+
+RMASN_G1_SPOTA_5 = ~z~If I could take that fellow's likeness... it might...
+
+RMASN_G1_SPOTA_6 = ~z~it might just save him from the taxidermist.
+
+RMASN_G1_SPOTA_7 = ~z~~sl:0.7~Fine.
+
+RMASN_G1_SPOTJ_1 = ~z~Now, look. There's an alligator back in those palms. Could you...
+
+RMASN_G1_SPOTJ_2 = ~z~could you... run in there and coax him out?
+
+RMASN_G1_SPOTJ_3 = ~z~Coax him?
+
+RMASN_G1_SPOTJ_4 = ~z~Please, he's quite something...
+
+RMASN_G1_SPOTJ_5 = ~z~If I could take that fellow's likeness... it might...
+
+RMASN_G1_SPOTJ_6 = ~z~it might just save him from the taxidermist.
+
+RMASN_G1_SPOTJ_7 = ~z~~sl:0.7~Fine.
+
+RMASN_GATR1_1 = ~z~It's coming for us!
+
+RMASN_GATR2_1 = ~z~It's attacking!
+
+RMASN_GATR3_1 = ~z~Help! Here it comes!
+
+RMASN_GATR4_1 = ~z~Oh dear! We're in trouble!
+
+RMASN_GPIC1_1 = ~z~Excellent! The beast in repose. All is calm as the predator lurks.
+
+RMASN_GPIC2_1 = ~z~We caught him... in the middle of his dinner!
+
+RMASN_GPIC2_2 = ~z~This is history making. Truly.
+
+RMASN_JBAG_DEAD_1 = ~z~This is what I'd call a robbery gone wrong, coyote...
+
+RMASN_JBAG_LIVE_1 = ~z~And coyote, don't think about coming back!
+
+RMASN_J_ATK_01 = ~z~You wanted wolves, you got wolves, Mr. Mason!
+
+RMASN_J_ATK_02 = ~z~They ain't so very friendly, are they?
+
+RMASN_J_ATK_03 = ~z~They was minding their own business too, 'til you strung that bait up!
+
+RMASN_J_ATK_04 = ~z~I hope you got what you came for!
+
+RMASN_J_ATK_05 = ~z~This was a fool of an idea! I tell you!
+
+RMASN_J_CHASE_1 = ~z~That “thing” is a coyote!
+
+RMASN_J_CHASE_2 = ~z~A sneaky one too.
+
+RMASN_J_CHASE_3 = ~z~"Wildlife” photographer.
+
+RMASN_J_COMBT_01 = ~z~Savage beast!
+
+RMASN_J_COMBT_02 = ~z~Now, I'm getting ate!
+
+RMASN_J_COMBT_03 = ~z~I don't like wolves!
+
+RMASN_J_COMBT_04 = ~z~Hound a hell.
+
+RMASN_L_ESE_1 = ~z~Alright, okay, now we go east of here, or back to the southeast.
+
+RMASN_L_E_1 = ~z~If we investigate the area to the east we can call it a day.
+
+RMASN_L_NE_1 = ~z~We have to head northeast, that's the last one.
+
+RMASN_L_NWNE_1 = ~z~Alright, now, the other spots were northwest and northeast of here.
+
+RMASN_L_NW_1 = ~z~The final sighting was to the northwest of here.
+
+RMASN_L_SE_1 = ~z~Head southeast, good man. We have a final spot to check.
+
+RMASN_L_SWW_1 = ~z~Okay, so, um, now it's southwest or due west.
+
+RMASN_L_SW_1 = ~z~Now the last one is southwest.
+
+RMASN_L_W_1 = ~z~Last spot was on the west of here.
+
+RMASN_MOVE1_1 = ~z~Don't mean to be rude, but you're blocking my shot of the bait.
+
+RMASN_MOVE2_1 = ~z~You're kind of in the way there, old boy.
+
+RMASN_MOVE3_1 = ~z~Not really looking for a shot of you... so if you could move a smidge...
+
+RMASN_MOVE4_1 = ~z~Out the way, quick.
+
+RMASN_MOVE5_1 = ~z~You're in the way. Move it.
+
+RMASN_MOVE6_1 = ~z~Umm... you're blocking the shot.
+
+RMASN_MOVED_01 = ~z~Good stuff.
+
+RMASN_MOVED_02 = ~z~Perfect.
+
+RMASN_MOVED_03 = ~z~Lovely stuff.
+
+RMASN_NSPT_GO_A_1 = ~z~Oh, look... on that little beach... boars.
+
+RMASN_NSPT_GO_A_2 = ~z~If we're in luck, an alligator won't be far away.
+
+RMASN_NSPT_GO_A_3 = ~z~Saving alligators, but you don't mind that pork chop getting butchered?
+
+RMASN_NSPT_GO_A_4 = ~z~Pork chop isn't in danger of extinction.
+
+RMASN_NSPT_GO_J_1 = ~z~Oh, look... on that little beach... boars.
+
+RMASN_NSPT_GO_J_2 = ~z~If we're in luck, an alligator won't be far away.
+
+RMASN_NSPT_GO_J_3 = ~z~Saving alligators, but you don't mind that pork chop gets butchered?
+
+RMASN_NSPT_GO_J_4 = ~z~Pork chop isn't in danger of extinction.
+
+RMASN_NWSP_GO_A_1 = ~z~Ah... yes... yes... there! No, he's gone!
+
+RMASN_NWSP_GO_A_2 = ~z~Can you stop the boat just there, off the island?
+
+RMASN_NWSP_GO_A_3 = ~z~Sure. But we stop too long, the locals are going to start getting curious.
+
+RMASN_NWSP_GO_A_4 = ~z~Just there please. So I'm facing the landmass.
+
+RMASN_NWSP_GO_J_1 = ~z~Ah... yes... yes... there! No, he's gone!
+
+RMASN_NWSP_GO_J_2 = ~z~Can you stop the boat just there, off the island?
+
+RMASN_NWSP_GO_J_3 = ~z~Sure. But we stop too long, the locals are going to start getting curious.
+
+RMASN_NWSP_GO_J_4 = ~z~Just there please. So I'm facing the landmass.
+
+RMASN_RC1_1 = ~z~Oh...
+
+RMASN_RC1_2 = ~z~hello.
+
+RMASN_RC1_3 = ~z~Hey.
+
+RMASN_RC1_4 = ~z~Quite a day, isn't it?
+
+RMASN_RC1_5 = ~z~Sure.
+
+RMASN_RC1_6 = ~z~What a country.
+
+RMASN_RC1_7 = ~z~I'm working on a project...
+
+RMASN_RC1_8 = ~z~photography.
+
+RMASN_RC1_9 = ~z~Yeah, I guessed that bit.
+
+RMASN_RC1_10 = ~z~Of course...
+
+RMASN_RC1_11 = ~z~Wildlife, that's my thing...
+
+RMASN_RC1_12 = ~z~Oh...
+
+RMASN_RC1_13 = ~z~hello.
+
+RMASN_RC1_14 = ~z~Hey.
+
+RMASN_RC1_15 = ~z~Quite a day, isn't it?
+
+RMASN_RC1_16 = ~z~Sure.
+
+RMASN_RC1_17 = ~z~What a country.
+
+RMASN_RC1_18 = ~z~I'm working on a project...
+
+RMASN_RC1_19 = ~z~photography.
+
+RMASN_RC1_20 = ~z~Yeah, I guessed that bit.
+
+RMASN_RC1_21 = ~z~Of course...
+
+RMASN_RC1_22 = ~z~Wildlife, that's my thing...
+
+RMASN_RC1_23 = ~z~or that's what I want to be my thing.
+
+RMASN_RC1_24 = ~z~If I have to take another picture...
+
+RMASN_RC1_25 = ~z~of a grumpy house frau, or...
+
+RMASN_RC1_26 = ~z~pompous middle class burgher...
+
+RMASN_RC1_27 = ~z~I will feed myself to the lions.
+
+RMASN_RC1_28 = ~z~Stand here.
+
+RMASN_RC1_29 = ~z~Here?
+
+RMASN_RC1_30 = ~z~Just...
+
+RMASN_RC1_31 = ~z~there.
+
+RMASN_RC1_32 = ~z~Albert Mason.
+
+RMASN_RC1_33 = ~z~Arthur Morgan.
+
+RMASN_RC1_34 = ~z~Pleasure.
+
+RMASN_RC1_35 = ~z~I'm trying to find and capture images...
+
+RMASN_RC1_36 = ~z~of our great predators...
+
+RMASN_RC1_37 = ~z~before our greatest predators...
+
+RMASN_RC1_38 = ~z~kill them all and stick them on some club house wall.
+
+RMASN_RC1_39 = ~z~Good luck with that.
+
+RMASN_RC1_40 = ~z~Yes...
+
+RMASN_RC1_41 = ~z~not the easiest...
+
+RMASN_RC1_42 = ~z~but, well...
+
+RMASN_RC1_43 = ~z~I love a challenge.
+
+RMASN_RC1_44 = ~z~The trick...
+
+RMASN_RC1_45 = ~z~is to leave a big load of meat...
+
+RMASN_RC1_46 = ~z~and relax, and pray they don't mistake me for lunch.
+
+RMASN_RC1_47 = ~z~Oh!
+
+RMASN_RC1_48 = ~z~Good heavens.
+
+RMASN_RC1_49 = ~z~My bag, that thing is robbing me!
+
+RMASN_RC1_50 = ~z~Go, good heavens.
+
+RMASN_RC1_51 = ~z~Don't worry.
+
+RMASN_RC1_52 = ~z~Hey.
+
+RMASN_RC1_53 = ~z~Sure.
+
+RMASN_RC1_54 = ~z~Yeah, I guessed that bit.
+
+RMASN_RC1_55 = ~z~Hey.
+
+RMASN_RC1_56 = ~z~Sure.
+
+RMASN_RC1_57 = ~z~Yeah, I guessed that bit.
+
+RMASN_RC1_58 = ~z~Here?
+
+RMASN_RC1_59 = ~z~John Marston.
+
+RMASN_RC1_60 = ~z~Well, good luck with that.
+
+RMASN_RC1_61 = ~z~Don't worry.
+
+RMASN_RC1_LI_1 = ~z~~sl:2.3~Hello.
+
+RMASN_RC1_LI_J_1 = ~z~~sl:2.3~Hello.
+
+RMASN_RC2IG2_LA_1 = ~z~Look at them... magnificent creatures...
+
+RMASN_RC2IG2_LA_2 = ~z~Especially when clawing at your eyeballs...
+
+RMASN_RC2IG2_LA_3 = ~z~~sl:0.4:3.0:1~Come on... stay still, my beauties...
+
+RMASN_RC2IG2_LJ_1 = ~z~Look at them... magnificent creatures...
+
+RMASN_RC2IG2_LJ_2 = ~z~Especially when they're clawing at your eyeballs...
+
+RMASN_RC2IG2_LJ_3 = ~z~~sl:0.4:3.0:1~Come on... stay still, my beauties...
+
+RMASN_RC2P1A1LI_1 = ~z~I'm sorry... I tried...
+
+RMASN_RC2P1A1LI_2 = ~z~Oh, I am such a fool.
+
+RMASN_RC2P1A1LJ_1 = ~z~I'm sorry... I tried...
+
+RMASN_RC2P1A1LJ_2 = ~z~Oh, I am such a fool.
+
+RMASN_RC2_1 = ~z~Oh, thank you, thank you, sir.
+
+RMASN_RC2_2 = ~z~Bag full of meat will tend to bring out...
+
+RMASN_RC2_3 = ~z~the worst in the local population.
+
+RMASN_RC2_4 = ~z~You are a gentleman.
+
+RMASN_RC2_5 = ~z~The bag also had a lot of my supplies, you've saved me days.
+
+RMASN_RC2_6 = ~z~I'm...
+
+RMASN_RC2_7 = ~z~Can't thank you enough.
+
+RMASN_RC2_8 = ~z~I'm... I'm...
+
+RMASN_RC2_9 = ~z~Thank you.
+
+RMASN_RC2_10 = ~z~Don't worry about it.
+
+RMASN_RC2_11 = ~z~I'm a...
+
+RMASN_RC2_12 = ~z~You take care, sir.
+
+RMASN_RC2_13 = ~z~I ain't the one trying to get myself eaten.
+
+RMASN_RC2_14 = ~z~Yes, I realize I am a fool.
+
+RMASN_RC2_15 = ~z~Forgive me...
+
+RMASN_RC2_16 = ~z~and thank you very much once again.
+
+RMASN_RC2_17 = ~z~I'm sorry, I tried.
+
+RMASN_RC2_18 = ~z~I am such a fool.
+
+RMASN_RC2_19 = ~z~Yeah, big bag of raw meat will tend to excite the locals.
+
+RMASN_RC2_20 = ~z~You are a gentleman.
+
+RMASN_RC2_21 = ~z~Thank you for trying.
+
+RMASN_RC2_22 = ~z~I tried and failed.
+
+RMASN_RC2_23 = ~z~I have to run into Strawberry and fetch fresh supplies.
+
+RMASN_RC2_24 = ~z~That bag also contained half my chemicals.
+
+RMASN_RC2_25 = ~z~I am such a fool.
+
+RMASN_RC2_26 = ~z~These things happen.
+
+RMASN_RC2_27 = ~z~Bag full of meat will tend to bring out...
+
+RMASN_RC2_28 = ~z~the worst in the local population.
+
+RMASN_RC2_29 = ~z~Don't worry about it.~n~~m~I'm a...
+
+RMASN_RC2_30 = ~z~I ain't the one trying to get myself eaten.
+
+RMASN_RC2_31 = ~z~I'm sorry, I tried.
+
+RMASN_RC2_32 = ~z~Yeah, big bag of raw meat will tend to excite the locals.
+
+RMASN_RC2_33 = ~z~I tried and failed.
+
+RMASN_RC2_34 = ~z~These things happen.
+
+RMASN_RC2_IG2_A_1 = ~z~Oh my... they don't seem to be fans of modern technology.
+
+RMASN_RC2_IG2_A_2 = ~z~On the other hand, looks like they may be fans of you.
+
+RMASN_RC2_IG2_A_3 = ~z~
+
+RMASN_RC2_IG2_A_4 = ~z~Please no! Don't hurt me! Don't eat me!
+
+RMASN_RC2_IG2_J_1 = ~z~Oh my... they don't seem to be fans of modern technology.
+
+RMASN_RC2_IG2_J_2 = ~z~On the other hand, they look like they may be fans of you.
+
+RMASN_RC2_IG2_J_3 = ~z~
+
+RMASN_RC2_IG2_J_4 = ~z~Please no! Don't hurt me! Don't eat me!
+
+RMASN_RC2_LI_1 = ~z~Oh thank you, thank you sir.
+
+RMASN_RC3_1 = ~z~Oh, hello...
+
+RMASN_RC3_2 = ~z~May I help you?
+
+RMASN_RC3_3 = ~z~I think I might be able to help you.
+
+RMASN_RC3_4 = ~z~My name's John Marston.
+
+RMASN_RC3_5 = ~z~I heard about your work through an old friend of mine...
+
+RMASN_RC3_6 = ~z~Arthur Morgan.
+
+RMASN_RC3_7 = ~z~He passed some time ago.
+
+RMASN_RC3_8 = ~z~Ah, yes, of course...
+
+RMASN_RC3_9 = ~z~I remember Arthur.
+
+RMASN_RC3_10 = ~z~Fine fellow.
+
+RMASN_RC3_11 = ~z~What a shame.
+
+RMASN_RC3_12 = ~z~Well, that is very kind of you, Mr. Marston.
+
+RMASN_RC3_13 = ~z~A little assistance here would certainly be appreciated.
+
+RMASN_RC3_14 = ~z~Hello again.
+
+RMASN_RC3_15 = ~z~Hello!
+
+RMASN_RC3_16 = ~z~Oh, hello...
+
+RMASN_RC3_17 = ~z~how are you, sir?
+
+RMASN_RC3_18 = ~z~Ah, Morgan...
+
+RMASN_RC3_19 = ~z~Mr. Morgan.
+
+RMASN_RC3_20 = ~z~I'm sorry my...
+
+RMASN_RC3_21 = ~z~Hello again.
+
+RMASN_RC3_22 = ~z~Hello!
+
+RMASN_RC3_23 = ~z~Oh, hello...
+
+RMASN_RC3_24 = ~z~how are you, sir?
+
+RMASN_RC3_25 = ~z~Ah, Marston...
+
+RMASN_RC3_26 = ~z~Mr. Marston.
+
+RMASN_RC3_27 = ~z~I'm sorry my...
+
+RMASN_RC3_28 = ~z~my nerves.
+
+RMASN_RC3_29 = ~z~I'm not quite the outdoor adventurer I thought.
+
+RMASN_RC3_30 = ~z~This is God's own country, and I feel...
+
+RMASN_RC3_31 = ~z~I'm in purgatory.
+
+RMASN_RC3_32 = ~z~I know the feeling.
+
+RMASN_RC3_33 = ~z~I know the feeling.
+
+RMASN_RC3_34 = ~z~Oh, I hope not.
+
+RMASN_RC3_35 = ~z~What you trying to take some pictures of?
+
+RMASN_RC3_36 = ~z~Some more greedy coyotes?
+
+RMASN_RC3_37 = ~z~What you trying to take a picture of?
+
+RMASN_RC3_38 = ~z~Some more greedy coyotes?
+
+RMASN_RC3_39 = ~z~No...
+
+RMASN_RC3_40 = ~z~wolves.
+
+RMASN_RC3_41 = ~z~Wolves?
+
+RMASN_RC3_42 = ~z~Well you really are trying to get yourself eaten.
+
+RMASN_RC3_43 = ~z~Wolves?
+
+RMASN_RC3_44 = ~z~So you're determined to get yourself eaten.
+
+RMASN_RC3_45 = ~z~Oh, I hope not.
+
+RMASN_RC3_46 = ~z~I left the meat over there.
+
+RMASN_RC3_47 = ~z~I thought I'd be safe...
+
+RMASN_RC3_48 = ~z~given the wind.
+
+RMASN_RC3_49 = ~z~Yeah, sure...
+
+RMASN_RC3_50 = ~z~if you manage to attract the world's least intelligent wolf.
+
+RMASN_RC3_51 = ~z~Sure...
+
+RMASN_RC3_52 = ~z~if you've managed to attract the world's least intelligent wolf.
+
+RMASN_RC3_53 = ~z~Well I-I...
+
+RMASN_RC3_54 = ~z~I'll stay with you a while.
+
+RMASN_RC3_55 = ~z~If anything comes, I'll...
+
+RMASN_RC3_56 = ~z~protect you as needed.
+
+RMASN_RC3_57 = ~z~I'll wait with you for a while.
+
+RMASN_RC3_58 = ~z~Anything shows up...
+
+RMASN_RC3_59 = ~z~I'll protect you as needed.
+
+RMASN_RC3_LIJ_1 = ~z~Hello again.
+
+RMASN_RC3_LIJ_2 = ~z~Hello!
+
+RMASN_RC3_LIJ_3 = ~z~Oh! Hello.
+
+RMASN_RC3_LIJ_4 = ~z~How are you, sir?
+
+RMASN_RC3_LIJ_5 = ~z~Marston, Mr. Marston...
+
+RMASN_RC3_LIJ_6 = ~z~I'm sorry my...
+
+RMASN_RC3_LI_1 = ~z~Hello again.
+
+RMASN_RC3_LI_2 = ~z~Hello!
+
+RMASN_RC3_LI_3 = ~z~Oh! Hello.
+
+RMASN_RC3_LI_4 = ~z~How are you, sir?
+
+RMASN_RC3_LI_5 = ~z~Ah... Morgan, Mr. Morgan.
+
+RMASN_RC3_LI_6 = ~z~I'm sorry my...
+
+RMASN_RC4_1 = ~z~My God.
+
+RMASN_RC4_2 = ~z~My whole futile existence flashed before my eyes.
+
+RMASN_RC4_3 = ~z~Yeah, they can be pretty aggressive.
+
+RMASN_RC4_4 = ~z~What a way to...
+
+RMASN_RC4_5 = ~z~literally a dog's dinner.
+
+RMASN_RC4_6 = ~z~Still, worse things happen at sea.
+
+RMASN_RC4_7 = ~z~Do they?
+
+RMASN_RC4_8 = ~z~Well, I imagine.
+
+RMASN_RC4_9 = ~z~Perhaps wolves do better at sea?
+
+RMASN_RC4_10 = ~z~Are they good swimmers?
+
+RMASN_RC4_11 = ~z~Well...
+
+RMASN_RC4_12 = ~z~who knows?
+
+RMASN_RC4_13 = ~z~I can't begin to repay my debt of gratitude.
+
+RMASN_RC4_14 = ~z~But know, I am eternally in your debt.
+
+RMASN_RC4_15 = ~z~And you too, sir.
+
+RMASN_RC4_16 = ~z~who knows?
+
+RMASN_RC4_17 = ~z~You have saved my poor foolish skin once again.
+
+RMASN_RC4_18 = ~z~Don't mention it.
+
+RMASN_RC4_19 = ~z~Well, I can't begin to repay my debt of gratitude.
+
+RMASN_RC4_20 = ~z~But know, I am eternally in your debt.
+
+RMASN_RC4_21 = ~z~I do, Mr. Mason, I do.
+
+RMASN_RC4_22 = ~z~You take care now.
+
+RMASN_RC4_23 = ~z~And you too, sir.
+
+RMASN_RC4_24 = ~z~Yeah, they can be pretty aggressive.
+
+RMASN_RC4_25 = ~z~Do they?
+
+RMASN_RC4_26 = ~z~Don't mention it.
+
+RMASN_RC4_27 = ~z~I do, Mr. Mason, I do.
+
+RMASN_RC4_28 = ~z~You take care now.
+
+RMASN_RC4_29 = ~z~Don't mention it.
+
+RMASN_RC4_30 = ~z~I do, Mr. Mason, I do.
+
+RMASN_RC4_31 = ~z~You take care now.
+
+RMASN_RC4_FAIL_1 = ~z~
+
+RMASN_RC4_HIT1_1 = ~z~Oh, oh...
+
+RMASN_RC4_HIT2_1 = ~z~~sl:0.6:2.0:1~Oh! Oh, that's a big one...
+
+RMASN_RC4_LIJ_1 = ~z~My whole futile existence flashed before my eyes.
+
+RMASN_RC4_LIJ_2 = ~z~Yeah, they can be pretty aggressive.
+
+RMASN_RC4_LIJ_3 = ~z~What a way to...
+
+RMASN_RC4_LI_1 = ~z~~sl:0.4~My whole futile existence flashed before my eyes.
+
+RMASN_RC4_LI_2 = ~z~Yeah, they can be pretty aggressive.
+
+RMASN_RC4_LI_3 = ~z~~sl:1.1~What a way to...
+
+RMASN_RC4_PHOT1_1 = ~z~Oh, fantastic!
+
+RMASN_RC4_PHOT2_1 = ~z~Oh, we got a good one...
+
+RMASN_RC4_PHOT3_1 = ~z~
+
+RMASN_RC4_PTFL1_1 = ~z~Oh, straight ahead, over to the left, right over there!
+
+RMASN_RC4_PTFL2_1 = ~z~Oh, straight over that way... there you go.
+
+RMASN_RC4_PTFL3_1 = ~z~Oh, there's one, straight over that way, see it? I see it.
+
+RMASN_RC4_PTFR2_1 = ~z~Oh, there's one, straight over there.
+
+RMASN_RC4_PTFR3_1 = ~z~Oh, right over there, see?
+
+RMASN_RC4_PTL1_1 = ~z~Oh, look, right over there.
+
+RMASN_RC4_PTL2_1 = ~z~Oh, there's one, right over there.
+
+RMASN_RC4_PTL3_1 = ~z~Come on, let's go over there, come on!
+
+RMASN_RC4_PTR2_1 = ~z~Oh, look, over there! Come on, go!
+
+RMASN_RC5_1 = ~z~So, you're still alive.
+
+RMASN_RC5_2 = ~z~Mr. Morgan.
+
+RMASN_RC5_3 = ~z~How are you?
+
+RMASN_RC5_4 = ~z~Indigestible, apparently.
+
+RMASN_RC5_5 = ~z~Aside from that, very well.
+
+RMASN_RC5_6 = ~z~How's the project going?
+
+RMASN_RC5_7 = ~z~Well, this is God's country, and I am his faithful servant.
+
+RMASN_RC5_8 = ~z~Although perhaps not his most talented one.
+
+RMASN_RC5_9 = ~z~I have been trying to capture the grace...
+
+RMASN_RC5_10 = ~z~of the wild horses here for weeks.
+
+RMASN_RC5_11 = ~z~Only the buggers can't stand me...
+
+RMASN_RC5_12 = ~z~That...
+
+RMASN_RC5_13 = ~z~is a silver dapple pinto.
+
+RMASN_RC5_14 = ~z~I know... beautiful.
+
+RMASN_RC5_15 = ~z~Won't come anywhere near me of course...
+
+RMASN_RC5_16 = ~z~he can smell my stupidity.
+
+RMASN_RC5_17 = ~z~Well, how about I drive him over?
+
+RMASN_RC5_18 = ~z~Oh, that might help...
+
+RMASN_RC5_19 = ~z~can you be bothered? I feel like such a blunderer.
+
+RMASN_RC5_20 = ~z~Sure, wait here.
+
+RMASN_RC5_21 = ~z~At least this time I doubt I'll get eaten.
+
+RMASN_RC5_LI_1 = ~z~So, you're still alive.
+
+RMASN_RC5_LI_2 = ~z~Mr. Morgan!
+
+RMASN_RC5_LI_3 = ~z~How are you?
+
+RMASN_RC5_LI_4 = ~z~Indigestible, apparently. Aside from that,
+
+RMASN_RC5_LI_5 = ~z~very well.
+
+RMASN_RC6_1 = ~z~You are a genius.
+
+RMASN_RC6_2 = ~z~No, but I can ride a horse.
+
+RMASN_RC6_3 = ~z~Well, in my world that makes you a genius.
+
+RMASN_RC6_4 = ~z~You're too kind.
+
+RMASN_RC6_5 = ~z~How are the...
+
+RMASN_RC6_6 = ~z~photos coming along?
+
+RMASN_RC6_7 = ~z~Oh, amazing.
+
+RMASN_RC6_8 = ~z~Here...
+
+RMASN_RC6_9 = ~z~I have a print of the wolves...
+
+RMASN_RC6_10 = ~z~before they tried to eat us.
+
+RMASN_RC6_11 = ~z~It's for you.
+
+RMASN_RC6_12 = ~z~That's real fine.
+
+RMASN_RC6_13 = ~z~Well, thank you.
+
+RMASN_RC6_14 = ~z~Take care, Mr. Mason.
+
+RMASN_RC6_15 = ~z~You too, sir.
+
+RMASN_RC6_16 = ~z~You too.
+
+RMASN_RC6_LI_1 = ~z~You are a genius.
+
+RMASN_RC6_LI_2 = ~z~No, but I can ride a horse.
+
+RMASN_RC6_LI_3 = ~z~Well, in my world that makes you a genius.
+
+RMASN_RC7JMA_LI_1 = ~z~Oh, hello...
+
+RMASN_RC7_1 = ~z~Oh! Hello.
+
+RMASN_RC7_2 = ~z~May I help you?
+
+RMASN_RC7_3 = ~z~I think I might be able to help you.
+
+RMASN_RC7_4 = ~z~My name's John Marston.
+
+RMASN_RC7_5 = ~z~I heard about your work through an old friend of mine...
+
+RMASN_RC7_6 = ~z~Arthur Morgan.
+
+RMASN_RC7_7 = ~z~He passed some time ago.
+
+RMASN_RC7_8 = ~z~Ah, yes, of course...
+
+RMASN_RC7_9 = ~z~I remember Arthur.
+
+RMASN_RC7_10 = ~z~Fine fellow.
+
+RMASN_RC7_11 = ~z~What a shame.
+
+RMASN_RC7_12 = ~z~Well, that is very kind of you, Mr. Marston.
+
+RMASN_RC7_13 = ~z~A little assistance here would certainly be appreciated.
+
+RMASN_RC7_14 = ~z~They creep up on you, you know.
+
+RMASN_RC7_15 = ~z~Oh!
+
+RMASN_RC7_16 = ~z~Mr. Morgan.
+
+RMASN_RC7_17 = ~z~How are you?
+
+RMASN_RC7_18 = ~z~Well, sir.
+
+RMASN_RC7_19 = ~z~They creep up on you, you know.
+
+RMASN_RC7_20 = ~z~Oh!
+
+RMASN_RC7_21 = ~z~Mr. Marston.
+
+RMASN_RC7_22 = ~z~How are you?
+
+RMASN_RC7_23 = ~z~Well, sir.
+
+RMASN_RC7_24 = ~z~What are you working on?
+
+RMASN_RC7_25 = ~z~Do you know anything about alligators?
+
+RMASN_RC7_26 = ~z~Only the basics...
+
+RMASN_RC7_27 = ~z~avoid them wherever possible.
+
+RMASN_RC7_28 = ~z~Well, did you know that in the last fifty years...
+
+RMASN_RC7_29 = ~z~we've killed ninety percent?
+
+RMASN_RC7_30 = ~z~You say that like it makes you sad?
+
+RMASN_RC7_31 = ~z~They're beautiful creatures.
+
+RMASN_RC7_32 = ~z~Let's see how you speak...
+
+RMASN_RC7_33 = ~z~when one of them's got you in a death roll.
+
+RMASN_RC7_34 = ~z~Yes, I will make some creature a...
+
+RMASN_RC7_35 = ~z~very happy lunch one of these days.
+
+RMASN_RC7_36 = ~z~Well, let's try and avoid that from happening today.
+
+RMASN_RC7_37 = ~z~Well, you stay there you'll get a great shot...
+
+RMASN_RC7_38 = ~z~then you'll get eaten.
+
+RMASN_RC7_39 = ~z~What a way to go.
+
+RMASN_RC7_40 = ~z~Why don't we take this boat out...
+
+RMASN_RC7_41 = ~z~and I'll protect you?
+
+RMASN_RC7_42 = ~z~Come on...
+
+RMASN_RC7_43 = ~z~get in the boat, it'll be fine.
+
+RMASN_RC7_44 = ~z~Well...
+
+RMASN_RC7_45 = ~z~if you really think that's necessary?
+
+RMASN_RC7_46 = ~z~You carry on shooting from that bank...
+
+RMASN_RC7_47 = ~z~you're gonna wish them wolves had eaten you.
+
+RMASN_RC7_48 = ~z~Really?
+
+RMASN_RC7_49 = ~z~Yes.
+
+RMASN_RC7_50 = ~z~The ten percent who survived...
+
+RMASN_RC7_51 = ~z~they're the nasty ones.
+
+RMASN_RC7_52 = ~z~What are you working on?
+
+RMASN_RC7_53 = ~z~Well, only the basics...
+
+RMASN_RC7_54 = ~z~avoid them whenever possible.
+
+RMASN_RC7_55 = ~z~You say that like it makes you sad.
+
+RMASN_RC7_56 = ~z~Well, let's see how you speak...
+
+RMASN_RC7_57 = ~z~when one of them's got you in a death roll.
+
+RMASN_RC7_58 = ~z~Let's try and avoid that from happening today.
+
+RMASN_RC7_59 = ~z~You stay there...
+
+RMASN_RC7_60 = ~z~you'll get a great shot...
+
+RMASN_RC7_61 = ~z~and then you'll get eaten.
+
+RMASN_RC7_62 = ~z~Why don't we take this boat out...
+
+RMASN_RC7_63 = ~z~and I'll protect you?
+
+RMASN_RC7_64 = ~z~Come on...
+
+RMASN_RC7_65 = ~z~get in the boat, it'll be fine.
+
+RMASN_RC7_66 = ~z~Well, you carry on shooting from that bank...
+
+RMASN_RC7_67 = ~z~you're gonna wish them wolves had eaten you.
+
+RMASN_RC7_68 = ~z~Yeah.
+
+RMASN_RC7_69 = ~z~Ten percent who survived...
+
+RMASN_RC7_70 = ~z~they're the nasty ones.
+
+RMASN_RC7_LIJ_1 = ~z~They creep up on you, you know.
+
+RMASN_RC7_LIJ_2 = ~z~Mr. Marston.
+
+RMASN_RC7_LIJ_3 = ~z~How are you?
+
+RMASN_RC7_LIJ_4 = ~z~Well, sir.
+
+RMASN_RC7_LI_1 = ~z~They creep up on you, you know.
+
+RMASN_RC7_LI_2 = ~z~~sl:1.3~Mr. Morgan.
+
+RMASN_RC7_LI_3 = ~z~How are you?
+
+RMASN_RC7_LI_4 = ~z~Well, sir.
+
+RMASN_RC8_1 = ~z~That should do us.
+
+RMASN_RC8_2 = ~z~Yes.
+
+RMASN_RC8_3 = ~z~These pictures you're taking.
+
+RMASN_RC8_4 = ~z~Yes?
+
+RMASN_RC8_5 = ~z~They gonna be any good?
+
+RMASN_RC8_6 = ~z~I certainly hope so...
+
+RMASN_RC8_7 = ~z~though I doubt it.
+
+RMASN_RC8_8 = ~z~The subject is magnificent, the backdrop...
+
+RMASN_RC8_9 = ~z~jaw dropping...
+
+RMASN_RC8_10 = ~z~but, the agent of beauty is a talentless fool.
+
+RMASN_RC8_11 = ~z~Although maybe I'll... strike a few lucky shots.
+
+RMASN_RC8_12 = ~z~You sure do make me laugh...
+
+RMASN_RC8_13 = ~z~that way you talk about yourself, Mr. Mason.
+
+RMASN_RC8_14 = ~z~Well, I'm good for laughing at, if nothing else.
+
+RMASN_RC8_15 = ~z~I didn't mean it like that.
+
+RMASN_RC8_16 = ~z~I know...
+
+RMASN_RC8_17 = ~z~still, I feel such a fool round you, sir.
+
+RMASN_RC8_18 = ~z~Don't worry about it.
+
+RMASN_RC8_19 = ~z~I foresaw a many ignominious future for myself, but...
+
+RMASN_RC8_20 = ~z~never damsel in distress!
+
+RMASN_RC8_21 = ~z~Well, I'll...
+
+RMASN_RC8_22 = ~z~Good luck, Mr. Mason.
+
+RMASN_RC8_23 = ~z~Thank you, and to you too, sir.
+
+RMASN_RC8_24 = ~z~Try and stay out of trouble.
+
+RMASN_RC8_25 = ~z~I shall certainly try.
+
+RMASN_RC8_26 = ~z~That should do us.
+
+RMASN_RC8_27 = ~z~These pictures you're taking.
+
+RMASN_RC8_28 = ~z~They gonna be any good?
+
+RMASN_RC8_29 = ~z~You sure do make me laugh...
+
+RMASN_RC8_30 = ~z~the way you talk about yourself, Mr. Mason.
+
+RMASN_RC8_31 = ~z~I didn't mean it like that.
+
+RMASN_RC8_32 = ~z~Ah, don't worry about it.
+
+RMASN_RC8_33 = ~z~Well, I'll...
+
+RMASN_RC8_34 = ~z~Good luck, Mr. Mason.
+
+RMASN_RC8_35 = ~z~And try and stay out of trouble.
+
+RMASN_RC8_LIJ_1 = ~z~
+
+RMASN_RC8_LI_1 = ~z~
+
+RMASN_RC9JMA_LI_1 = ~z~Oh, hello... can I help you?
+
+RMASN_RC9_1 = ~z~Mr. Mason!
+
+RMASN_RC9_2 = ~z~Oh!
+
+RMASN_RC9_3 = ~z~Mr. Morgan.
+
+RMASN_RC9_4 = ~z~You wanna be careful up here...
+
+RMASN_RC9_5 = ~z~land is real treacherous.
+
+RMASN_RC9_6 = ~z~Sure.
+
+RMASN_RC9_7 = ~z~Real treacherous...
+
+RMASN_RC9_8 = ~z~I been here before.
+
+RMASN_RC9_9 = ~z~Have you?
+
+RMASN_RC9_10 = ~z~Yes...
+
+RMASN_RC9_11 = ~z~funny how things turn out...
+
+RMASN_RC9_12 = ~z~never quite how you expect, is it?
+
+RMASN_RC9_13 = ~z~No, I don't suppose it is.
+
+RMASN_RC9_14 = ~z~What you shooting?
+
+RMASN_RC9_15 = ~z~Eagles.
+
+RMASN_RC9_16 = ~z~You know, the images, they really are beautiful...
+
+RMASN_RC9_17 = ~z~all thanks to you.
+
+RMASN_RC9_18 = ~z~I'd be some poor creature's bad meal by now...
+
+RMASN_RC9_19 = ~z~many times over but for you.
+
+RMASN_RC9_20 = ~z~You know, the images, they really are beautiful...
+
+RMASN_RC9_21 = ~z~all thanks to Arthur.
+
+RMASN_RC9_22 = ~z~I'd be some poor creature's bad meal by now...
+
+RMASN_RC9_23 = ~z~many times over if it weren't for him.
+
+RMASN_RC9_24 = ~z~Well it's my pleasure...
+
+RMASN_RC9_25 = ~z~b-but please, step away from the cliff edge.
+
+RMASN_RC9_26 = ~z~But I'm trying to get an eagle...
+
+RMASN_RC9_27 = ~z~they're-they're...
+
+RMASN_RC9_28 = ~z~Yeah, they're beautiful...
+
+RMASN_RC9_29 = ~z~but unlike you, they can fly.
+
+RMASN_RC9_30 = ~z~Too true...
+
+RMASN_RC9_31 = ~z~you really must think I'm a buffoon, don't you?
+
+RMASN_RC9_32 = ~z~You think I'm such a dimwit I'd...
+
+RMASN_RC9_33 = ~z~just slip off the edge of a cliff?
+
+RMASN_RC9_34 = ~z~No, b-but...
+
+RMASN_RC9_35 = ~z~well, maybe a little.
+
+RMASN_RC9_36 = ~z~Please, sir...
+
+RMASN_RC9_37 = ~z~I'm dense...
+
+RMASN_RC9_38 = ~z~but not that dense.
+
+RMASN_RC9_39 = ~z~This area is quite safe...
+
+RMASN_RC9_40 = ~z~quite, quite...
+
+RMASN_RC9_41 = ~z~Oh, oh!
+
+RMASN_RC9_42 = ~z~Argh...
+
+RMASN_RC9_43 = ~z~damn!
+
+RMASN_RC9_44 = ~z~You were right...
+
+RMASN_RC9_45 = ~z~I am that much of a buffoon.
+
+RMASN_RC9_46 = ~z~Give me a hand please...
+
+RMASN_RC9_47 = ~z~put me out of my misery.
+
+RMASN_RC9_48 = ~z~Come here...
+
+RMASN_RC9_49 = ~z~Oh, dear.
+
+RMASN_RC9_50 = ~z~Oh, thank you.
+
+RMASN_RC9_51 = ~z~You know what...
+
+RMASN_RC9_52 = ~z~bugger the eagles.
+
+RMASN_RC9_53 = ~z~I'm going home!
+
+RMASN_RC9_54 = ~z~You know...
+
+RMASN_RC9_55 = ~z~I really did get...
+
+RMASN_RC9_56 = ~z~some amazing pictures...
+
+RMASN_RC9_57 = ~z~thanks to you...
+
+RMASN_RC9_58 = ~z~and somehow...
+
+RMASN_RC9_59 = ~z~I haven't quite broken my neck.
+
+RMASN_RC9_60 = ~z~Mostly thanks to Arthur.
+
+RMASN_RC9_61 = ~z~and somehow...
+
+RMASN_RC9_62 = ~z~I haven't quite broken my neck.
+
+RMASN_RC9_63 = ~z~You take care.
+
+RMASN_RC9_64 = ~z~And you too, sir.
+
+RMASN_RC9_65 = ~z~Sorry for all the trouble.
+
+RMASN_RC9_66 = ~z~Oh! Hello.
+
+RMASN_RC9_67 = ~z~May I help you?
+
+RMASN_RC9_68 = ~z~I think I might be able to help you.
+
+RMASN_RC9_69 = ~z~My name's John Marston.
+
+RMASN_RC9_70 = ~z~I heard about your work through an old friend of mine...
+
+RMASN_RC9_71 = ~z~Arthur Morgan.
+
+RMASN_RC9_72 = ~z~He passed some time ago.
+
+RMASN_RC9_73 = ~z~Ah, yes, of course...
+
+RMASN_RC9_74 = ~z~I remember Arthur.
+
+RMASN_RC9_75 = ~z~Fine fellow.
+
+RMASN_RC9_76 = ~z~What a shame.
+
+RMASN_RC9_77 = ~z~Well, that is very kind of you, Mr. Marston.
+
+RMASN_RC9_78 = ~z~A little assistance here would certainly be appreciated.
+
+RMASN_RC9_79 = ~z~Mr. Mason!
+
+RMASN_RC9_80 = ~z~Oh!
+
+RMASN_RC9_81 = ~z~Mr. Marston.
+
+RMASN_RC9_82 = ~z~You wanna be careful up here...
+
+RMASN_RC9_83 = ~z~this land can be real treacherous.
+
+RMASN_RC9_84 = ~z~Real treacherous.
+
+RMASN_RC9_85 = ~z~I been here before.
+
+RMASN_RC9_86 = ~z~Yeah...
+
+RMASN_RC9_87 = ~z~funny how things turn out...
+
+RMASN_RC9_88 = ~z~ain't never how you expect, is it?
+
+RMASN_RC9_89 = ~z~What you shooting?
+
+RMASN_RC9_90 = ~z~Yeah, so I believe, but...
+
+RMASN_RC9_91 = ~z~move back from the cliff edge.
+
+RMASN_RC9_92 = ~z~They're beautiful...
+
+RMASN_RC9_93 = ~z~but, unlike you they can fly.
+
+RMASN_RC9_94 = ~z~No, but...
+
+RMASN_RC9_95 = ~z~well, maybe a little.
+
+RMASN_RC9_96 = ~z~Argh...
+
+RMASN_RC9_97 = ~z~damn!
+
+RMASN_RC9_98 = ~z~Come here...
+
+RMASN_RC9_99 = ~z~You take care.
+
+RMASN_RC9_LIJ_1 = ~z~Mr. Mason!
+
+RMASN_RC9_LIJ_2 = ~z~
+
+RMASN_RC9_LIJ_3 = ~z~Mr. Marston.
+
+RMASN_RC9_LIJ_4 = ~z~You wanna be careful up here,
+
+RMASN_RC9_LIJ_5 = ~z~this land can be real treacherous.
+
+RMASN_RC9_LI_1 = ~z~Mr. Mason!
+
+RMASN_RC9_LI_2 = ~z~
+
+RMASN_RC9_LI_3 = ~z~Mr. Morgan.
+
+RMASN_RC9_LI_4 = ~z~You wanna be careful up here,
+
+RMASN_RC9_LI_5 = ~z~land is real treacherous.
+
+RMASN_RC_JMA_LI_1 = ~z~Oh, hello... can I help you?
+
+RMASN_RETN1_1 = ~z~Well, well.
+
+RMASN_RETN1_2 = ~z~I got your bag.
+
+RMASN_RETN1_3 = ~z~Oh good, good.
+
+RMASN_RETN1_4 = ~z~Please, come here.
+
+RMASN_RETN2_1 = ~z~Well, well.
+
+RMASN_RETN2_2 = ~z~I got your bag.
+
+RMASN_RETN2_3 = ~z~Oh good, good.
+
+RMASN_RETN2_4 = ~z~Please, come here.
+
+RMASN_SHORE_1 = ~z~We can congratulate ourselves on a job well done, Mr. Morgan.
+
+RMASN_SHORE_2 = ~z~Take us back where we began.
+
+RMASN_SHORE_J_1 = ~z~We can congratulate ourselves on a job well done, Mr. Marston.
+
+RMASN_SHORE_J_2 = ~z~Take us back where we began.
+
+RMASN_SPOOK_01 = ~z~Dear God, I mean you no harm!
+
+RMASN_SPOOK_02 = ~z~Just a harmless photograph taker! I'll be on my way!
+
+RMASN_SPOOK_03 = ~z~Please, I'm here for the wildlife, not the humans!
+
+RMASN_SPT_GO_A_1 = ~z~Right, right... there in that cane-break. That's a likely spot for one.
+
+RMASN_SPT_GO_A_2 = ~z~Take us around the island until we see something.
+
+RMASN_SPT_GO_A_3 = ~z~Okay.
+
+RMASN_SPT_GO_J_1 = ~z~Right, right... there in that cane-break. That's a likely spot for one.
+
+RMASN_SPT_GO_J_2 = ~z~Take us around the island until we see something.
+
+RMASN_SPT_GO_J_3 = ~z~Okay.
+
+RMASN_SPT_L1_1 = ~z~There! In the channel. You see its head?
+
+RMASN_SPT_L2_1 = ~z~Poking up there? Line us up to it...
+
+RMASN_SPT_N_TRN_01 = ~z~Spin us around!
+
+RMASN_SPT_N_TRN_02 = ~z~Before it's too late, align us! Align us!
+
+RMASN_SPT_N_TRN_03 = ~z~I need to get this. Come on, man.
+
+RMASN_SPT_N_TRN_04 = ~z~Give me this shot, I beg you.
+
+RMASN_SPT_S1_1 = ~z~The gator, it's got it. Quick, quick. I must get this shot.
+
+RMASN_SPT_S1_A_1 = ~z~Nature in all its glory... and cruelty...
+
+RMASN_SPT_S1_A_2 = ~z~Could have been you if you stayed on that bank where I found you.
+
+RMASN_SPT_S1_A_3 = ~z~Don't!
+
+RMASN_SPT_S1_J_1 = ~z~Nature in all its glory... and cruelty...
+
+RMASN_SPT_S1_J_2 = ~z~Could have been you if you stayed on that bank where I found you.
+
+RMASN_SPT_S1_J_3 = ~z~Don't!
+
+RMASN_SPT_W_TRN_01 = ~z~Aim us at him and I'll get the shot.
+
+RMASN_SPT_W_TRN_02 = ~z~Swing us around so we're pointing at him.
+
+RMASN_SPT_W_TRN_03 = ~z~You point, I'll shoot, old boy. Come on.
+
+RMASN_VIEWFIND_01 = ~z~This will show the boys at the Geographical Society.
+
+RMASN_VIEWFIND_02 = ~z~The framing, yes. But the lighting, hmm.
+
+RMASN_VIEWFIND_03 = ~z~I think I have it...
+
+RMASN_VIEWFIND_04 = ~z~Oh dear, I don't have it.
+
+RMASN_VIEWFIND_05 = ~z~I don't know...
+
+RMASN_VIEWFIND_06 = ~z~Oh, photography, you wicked mistress.
+
+RMASN_VIEWFIND_07 = ~z~Hmm.
+
+RMASN_VIEWFIND_08 = ~z~
+
+RMASN_VIEWFIND_09 = ~z~
+
+RMASN_VIEWFIND_10 = ~z~Oh, drat.
+
+RMASN_WOLF_A_1 = ~z~~sl:0.0:1.0~Stay back, stay back.~sl:0.2~Can't have a man in the frame, they'd think it's staged.
+
+RMASN_WOLF_A_2 = ~z~It sort of is...
+
+RMASN_WOLF_J_1 = ~z~~sl:0.0:1.0~Stay back, stay back.~sl:0.2~Can't have a man in the frame. They'd think it's staged.
+
+RMASN_WOLF_J_2 = ~z~It sort of is...
+
+RMASN_WOLF_NAG_01 = ~z~Please. No, no!
+
+RMASN_WOLF_NAG_02 = ~z~Away from me!
+
+RMASN_WOLF_NAG_03 = ~z~I'm your friend.
+
+RMASN_WOLF_NAG_04 = ~z~Away! Away!
+
+RMASN_WOLF_NAG_05 = ~z~Don't eat me!
+
+RMASN_WOLF_NAG_06 = ~z~Oh dear, oh no!
+
+RMASN_WOLF_NAG_07 = ~z~Please, please.
+
+RMSN_4_BANT1J_1 = ~z~~sl:0.0:2.3~Last year they brought 10,000 skins...~sl:~out of the swamps of Lemoyne alone.
+
+RMSN_4_BANT1J_2 = ~z~The gators got some catching up to do then.
+
+RMSN_4_BANT1J_3 = ~z~Cases, trunks, shoes, boots, belts... bibles even.
+
+RMSN_4_BANT1J_4 = ~z~They'll make anything out of gator leather that the market desires.
+
+RMSN_4_BANT1J_5 = ~z~~sl:0.0:3.0~And all a gator's gonna do with your leather is eat it...~sl:0.3~maybe chew on it a while.
+
+RMSN_4_BANT1J_6 = ~z~Quite... It's hardly fair.
+
+RMSN_4_BANT1_1 = ~z~~sl:0.0:2.3~Last year they brought 10,000 skins...~sl:~out of the swamps of Lemoyne alone.
+
+RMSN_4_BANT1_2 = ~z~The gators got some catching up to do then.
+
+RMSN_4_BANT1_3 = ~z~Cases, trunks, shoes, boots, belts... bibles even.
+
+RMSN_4_BANT1_4 = ~z~They'll make anything out of gator leather that the market desires.
+
+RMSN_4_BANT1_5 = ~z~~sl:0.0:2.9~And all a gator's gonna do with your leather is eat it...~sl:0.7~maybe chew on it a while.
+
+RMSN_4_BANT1_6 = ~z~Quite... It's hardly fair.
+
+RMSN_4_BANT2J_1 = ~z~~sl:0.0:2.5~You know, in the season, there are more alligator hunters...~sl:~down here than... than... alligators.
+
+RMSN_4_BANT2J_2 = ~z~Maybe you can take a photograph of them then?
+
+RMSN_4_BANT2J_3 = ~z~~sl:0.0:2.6~Very droll. There was even a tour company...~sl:~that let excursionists shoot from the deck of a paddle steamer.
+
+RMSN_4_BANT2J_4 = ~z~Chugged up the waterways and churned whole bayous into mud.
+
+RMSN_4_BANT2J_5 = ~z~Thankfully the state legislature put a stop...
+
+RMSN_4_BANT2J_6 = ~z~A paddle steamer, eh? Why didn't we think of that?
+
+RMSN_4_BANT2_1 = ~z~~sl:0.0:2.5~You know, in the season, there are more alligator hunters...~sl:~down here than... than... alligators.
+
+RMSN_4_BANT2_2 = ~z~Maybe you can take a photograph of one of them then?
+
+RMSN_4_BANT2_3 = ~z~~sl:0.0:2.6~Very droll. There was even a tour company...~sl:~that let excursionists shoot from the deck of a paddle steamer.
+
+RMSN_4_BANT2_4 = ~z~Chugged up the waterways and churned whole bayous into mud.
+
+RMSN_4_BANT2_5 = ~z~Thankfully the state legislature put a stop...
+
+RMSN_4_BANT2_6 = ~z~A paddle steamer, eh? Now why didn't we think of that?
+
+RMSN_4_BANT3J_1 = ~z~Seventeen feet... nineteen feet... twenty one feet with a five foot head...
+
+RMSN_4_BANT3J_2 = ~z~What?
+
+RMSN_4_BANT3J_3 = ~z~They found some big bulls in these parts, surely they did.
+
+RMSN_4_BANT3J_4 = ~z~~sl:0.0:3.5~There's twenty foot gators here and us two idiots are sitting in a...~sl:~twelve foot skiff?
+
+RMSN_4_BANT3J_5 = ~z~No, this is in the 70's, 80's...
+
+RMSN_4_BANT3J_6 = ~z~~sl:0.0:2.4~All the really big gators have been hunted out and killed.~sl:0.1~More the shame, I say. It's terrible.
+
+RMSN_4_BANT3J_7 = ~z~~sl:0.0:2.1~It ain't shame to this rowing fool...~sl:0.3~who values his arms being attached to his body.
+
+RMSN_4_BANT3J_8 = ~z~It's them or us... especially with the big ones.
+
+RMSN_4_BANT3_1 = ~z~Seventeen feet... nineteen feet... twenty one feet with a five foot head...
+
+RMSN_4_BANT3_2 = ~z~What?
+
+RMSN_4_BANT3_3 = ~z~They found some big bulls in these parts, surely they did.
+
+RMSN_4_BANT3_4 = ~z~~sl:0.0:3.8~There's twenty foot gators here and us two idiots are sitting in a...~sl:0.2~twelve foot skiff?
+
+RMSN_4_BANT3_5 = ~z~No, this is in the 70's, 80's...
+
+RMSN_4_BANT3_6 = ~z~~sl:0.0:2.4~All the really big gators have been hunted out and killed.~sl:0.1~More the shame, I say. It's terrible.
+
+RMSN_4_BANT3_7 = ~z~~sl:0.0:2.5~It ain't shame to this rowing fool...~sl:0.1~who values his arms being attached to his body.
+
+RMSN_4_BANT3_8 = ~z~It's them or us... especially with the big ones.
+
+RMSN_4_BANTF_A_1 = ~z~Anyway, I hope you got something worth printing.
+
+RMSN_4_BANTF_A_2 = ~z~~sl:0.0:1.0~Oh, assuredly.~sl:0.3~The nation will see these beautiful beasts for what they are...
+
+RMSN_4_BANTF_A_3 = ~z~Killing machines?
+
+RMSN_4_BANTF_A_4 = ~z~~sl:1.0~No, well, yes... maybe that's not bad thing.
+
+RMSN_4_BANTF_A_5 = ~z~~sl:0.0:1.5~This is America after all...~sl:0.1~we hold a love for killers that borders on macabre...
+
+RMSN_4_BANTF_A_6 = ~z~Loving killers is part of our makeup.
+
+RMSN_4_BANTF_A_7 = ~z~Maybe, maybe. But usually we wait until after they're dead.
+
+RMSN_4_BANTF_A_8 = ~z~Well, I hope we've changed.
+
+RMSN_4_BANTF_A_9 = ~z~Me too.
+
+RMSN_4_BANTF_J_1 = ~z~Anyway, I hope you got something worth printing.
+
+RMSN_4_BANTF_J_2 = ~z~~sl:0.0:1.0~Oh, assuredly.~sl:0.3~The nation will see these beautiful beasts for what they are...
+
+RMSN_4_BANTF_J_3 = ~z~Killing machines?
+
+RMSN_4_BANTF_J_4 = ~z~~sl:1.0~No, well, yes... maybe that's not bad thing.
+
+RMSN_4_BANTF_J_5 = ~z~~sl:0.0:1.5~This is America after all...~sl:0.1~we hold a love for killers that borders on macabre...
+
+RMSN_4_BANTF_J_6 = ~z~Loving killers is part of our makeup.
+
+RMSN_4_BANTF_J_7 = ~z~Maybe, maybe. But usually we wait until after they're dead.
+
+RMSN_4_BANTF_J_8 = ~z~Well, I hope we've changed.
+
+RMSN_4_BANTF_J_9 = ~z~~sl:0.3~Me too.
+
+RMSN_4_BOAT_01 = ~z~I thought you'd be tired of rowing with me.
+
+RMSN_4_BOAT_02 = ~z~Feel free to jump aboard, but it really won't be interesting...
+
+RMSN_4_BOAT_03 = ~z~You're a curious, curious fellow.
+
+RMSN_4_DOCK_1 = ~z~Ah, yes. Dock her here.
+
+RMSN_4_DOCK_2 = ~z~Just pull up to the bank.
+
+RMSN_4_STUCK_01 = ~z~I think... I think we're grounded...
+
+RMSN_4_STUCK_02 = ~z~~sl:0.9~Going to have to push us off.
+
+RMSN_4_STUCK_03 = ~z~Ah... can't float over this one I'm afraid.
+
+RMSN_4_STUCK_04 = ~z~Yep, we're stuck alright.
+
+RMSN_4_SWIM_01 = ~z~Whatever are you doing?
+
+RMSN_4_SWIM_02 = ~z~Aren't you wary of those beasts?
+
+RMSN_4_SWIM_03 = ~z~My friend, I will never understand you.
+
+RSMAN_RC2_IGJ_1 = ~z~You are a gentleman.
+
+RSMAN_RC2_IGJ_2 = ~z~~sl:1.3~You don't know me very well yet.
+
+RSMAN_RC2_IGJ_3 = ~z~Well to me, you're a gentleman.
+
+RSMAN_RC2_IGJ_4 = ~z~~sl:0.0:2.6~Usually, I'm worse than the wolves.
+
+RSMAN_RC2_IGJ_5 = ~z~~sl:0.1~You had many dealings with wolves, Mr. Marston?
+
+RSMAN_RC2_IGJ_6 = ~z~Sure.
+
+RSMAN_RC2_IGJ_7 = ~z~But you've never been eaten?
+
+RSMAN_RC2_IGJ_8 = ~z~Not through lack of trying on their part.
+
+RSMAN_RC2_IGJ_9 = ~z~Had a bad run-in with some once, some friends of mine saved me.
+
+RSMAN_RC2_IGJ_10 = ~z~Wolves ain't great fans of man.
+
+RSMAN_RC2_IGJ_11 = ~z~I don't blame them.
+
+RSMAN_RC2_IGJ_12 = ~z~~sl:2.6~Neither do I.
+
+RSMAN_RC2_IGJ_13 = ~z~Shh, shhh.
+
+RSMAN_RC2_IGJ_14 = ~z~There's one.
+
+RSMAN_RC2_IGJ_15 = ~z~I think we got company.
+
+RSMAN_RC2_IG_1 = ~z~You are a gentleman.
+
+RSMAN_RC2_IG_2 = ~z~You don't know me very well.
+
+RSMAN_RC2_IG_3 = ~z~Well to me, you're a gentleman.
+
+RSMAN_RC2_IG_4 = ~z~Usually, I'm worse than the wolves.
+
+RSMAN_RC2_IG_5 = ~z~You had many dealings with wolves, Mr. Morgan?
+
+RSMAN_RC2_IG_6 = ~z~Sure.
+
+RSMAN_RC2_IG_7 = ~z~But you've never been eaten?
+
+RSMAN_RC2_IG_8 = ~z~Not through lack of trying on their part.
+
+RSMAN_RC2_IG_9 = ~z~A while back I helped a friend from getting devoured...
+
+RSMAN_RC2_IG_10 = ~z~Usually they are not great fans of man.
+
+RSMAN_RC2_IG_11 = ~z~Don't blame them.
+
+RSMAN_RC2_IG_12 = ~z~Me neither.
+
+RSMAN_RC2_IG_13 = ~z~Hey, shhh.
+
+RSMAN_RC2_IG_14 = ~z~Here's one.
+
+RSMAN_RC2_IG_15 = ~z~Looks like we got company.
+

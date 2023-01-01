@@ -1,0 +1,36 @@
+0x1FD9E8A9 = Bartender: Coming Right up.
+
+0x81B00C09 = Arthur: I'll have some stew.
+
+0x81D492EA = Arthur: I'll have some steak.
+
+CANCEL_ORDER = Отмена
+
+LEAVE_SCENARIO = Уйти
+
+ORDER_STEAK_BLACKWATER = Луговой тетерев (~1$~)
+
+ORDER_STEAK_RHODES = Жареный сом (~1$~)
+
+ORDER_STEAK_SAINT_DENIS = Стейк из спинной части (~1$~)
+
+ORDER_STEAK_TUMBLEWEED = Ростбиф (~1$~)
+
+ORDER_STEAK_VALENTINE = Жаркое из ягненка (~1$~)
+
+ORDER_STEAK_VAN_HORN = Сердце ягненка (~1$~)
+
+ORDER_STEW_BLACKWATER = Персиковый коблер (~1$~)
+
+ORDER_STEW_RHODES = Пшеничная каша с молоком (~1$~)
+
+ORDER_STEW_SAINT_DENIS = Суп из омара (~1$~)
+
+ORDER_STEW_TUMBLEWEED = Чили (~1$~)
+
+ORDER_STEW_VALENTINE = Рагу из говядины (~1$~)
+
+ORDER_STEW_VALENTINE_KEANES = Овсянка (~1$~)
+
+ORDER_STEW_VAN_HORN = Рагу из рыбы (~1$~)
+

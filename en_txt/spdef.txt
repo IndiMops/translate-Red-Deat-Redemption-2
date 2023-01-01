@@ -1,0 +1,14 @@
+0x00A17E55 = No
+
+0x88A5E3E2 = Give ~1$~
+
+0xB83B3D2E = Yes
+
+0xDF829A27 = Defuse
+
+SPD_UC_ANT = Antagonize
+
+SPD_UC_GRT = Greet
+
+SPD_UC_TALK = Talk
+

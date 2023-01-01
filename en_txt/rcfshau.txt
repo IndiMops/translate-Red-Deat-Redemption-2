@@ -1,0 +1,542 @@
+RCFSH_ATKHOUSE_01 = ~z~What are you doing?
+
+RCFSH_ATKHOUSE_02 = ~z~Hey! Are you insane?
+
+RCFSH_ATKHOUSE_03 = ~z~Stop that right now!
+
+RCFSH_ATKHOUSE_04 = ~z~You can cut that out! You're not getting in here.
+
+RCFSH_CHASE_01 = ~z~Get away from me!
+
+RCFSH_CHASE_02 = ~z~Oh God! Another crazed fan!
+
+RCFSH_CHASE_03 = ~z~Help! This man's trying to kill me!
+
+RCFSH_CHASE_04 = ~z~Help me! I'm Jeremy Gill!
+
+RCFSH_CLOSE_1 = ~z~Nearly there. This is it, chum.
+
+RCFSH_EXT_1 = ~z~My God...
+
+RCFSH_EXT_2 = ~z~My God...
+
+RCFSH_EXT_LOJ_1 = ~z~
+
+RCFSH_GRIEF_1 = ~z~My God! What the hell are you doing?
+
+RCFSH_IG1_ARTHR_1 = ~z~Hello... I need to send these...
+
+RCFSH_IG1_ARTHR_2 = ~z~Let me guess, to Jeremy Gill.
+
+RCFSH_IG1_ARTHR_3 = ~z~How did you know?
+
+RCFSH_IG1_ARTHR_4 = ~z~There's a bunch of you fellers, feller gets sent a lot of fish...
+
+RCFSH_IG1_ARTHR_5 = ~z~That so?
+
+RCFSH_IG1_ARTHR_6 = ~z~Sure.
+
+RCFSH_IG1_ARTHR_7 = ~z~He says he's really famous.
+
+RCFSH_IG1_ARTHR_8 = ~z~I wouldn't know about that, good luck.
+
+RCFSH_IG1_ARTHR_9 = ~z~And you.
+
+RCFSH_IG1_ARTHR_10 = ~z~
+
+RCFSH_IG2_CV1_J_1 = ~z~Like I said, fame hasn't changed me.
+
+RCFSH_IG2_CV1_J_2 = ~z~But it has opened a lot of doors that were previously closed.
+
+RCFSH_IG2_CV1_J_3 = ~z~I'm actually planning on turning fishing into a way of, well, uniting nations.
+
+RCFSH_IG2_CV1_J_4 = ~z~I'm gonna head to DC, discuss it with the president.
+
+RCFSH_IG2_CV1_J_5 = ~z~Then I'm gonna head over to Europe... bring the royal families together, while I teach them how to fish.
+
+RCFSH_IG2_CV1_J_6 = ~z~Hurry up... let's catch this fish and go home.
+
+RCFSH_IG2_CV1_J_7 = ~z~Oh, I'm ready.
+
+RCFSH_IG2_CV1_J_8 = ~z~And now we wait... that's the thing about fish... they can sense when you're desperate.
+
+RCFSH_IG2_CV1_J_9 = ~z~Sure.
+
+RCFSH_IG2_CV1_J_10 = ~z~Yeah... so we gotta stay calm, just... relax...
+
+RCFSH_IG2_CV1_J_11 = ~z~Hurray.
+
+RCFSH_IG2_CV1_J_12 = ~z~You know, I write poems. Would you like to hear...
+
+RCFSH_IG2_CV1_J_13 = ~z~No, thank you.
+
+RCFSH_IG2_CV1_J_14 = ~z~Okay.
+
+RCFSH_IG2_CV1_J_15 = ~z~I got invited to China. I'm gonna fish with the emperor there.
+
+RCFSH_IG2_CV1_J_16 = ~z~Where's this goddamn catfish?
+
+RCFSH_IG2_CV2_J_1 = ~z~So then I said, listen sister...
+
+RCFSH_IG2_CV2_J_2 = ~z~I don't care if you're The Queen of Sheba, not just of England... fishing is an art form...
+
+RCFSH_IG2_CV2_J_3 = ~z~Yeah and she kept quiet after that... until dinner...
+
+RCFSH_IG2_CV2_J_4 = ~z~
+
+RCFSH_IG2_CV2_J_5 = ~z~Hey, chum! Wake up, the fish can tell if you're sleeping.
+
+RCFSH_IG2_CV2_J_6 = ~z~Yeah, sorry... where is that damn fish?
+
+RCFSH_IG2_CV3_J_1 = ~z~I was out there for five days wrestling that monster... but I got 'em in the end!
+
+RCFSH_IG2_CV3_J_2 = ~z~You know, the villagers were so grateful, the chief gave me his daughter....
+
+RCFSH_IG2_CV3_J_3 = ~z~Hey, chum!
+
+RCFSH_IG2_CV3_J_4 = ~z~Sorry.
+
+RCFSH_IG2_CV3_J_5 = ~z~Oh, oh, oh. I think we got something...
+
+RCFSH_IG2_CV3_J_6 = ~z~Oh, we got something!
+
+RCFSH_IG2_CV3_J_7 = ~z~Is it that catfish?
+
+RCFSH_IG2_CV3_J_8 = ~z~It's something big!
+
+RCFSH_IG2_CV3_J_9 = ~z~Good, hurry up.
+
+RCFSH_IG2_CV3_J_10 = ~z~Don't you rush me, chum...
+
+RCFSH_IG2_CV3_J_11 = ~z~This is me and the gods wrestling for immortality... oh my God! It's a monster!
+
+RCFSH_IG2_CV3_J_12 = ~z~Oh God, he's gone again.
+
+RCFSH_IG2_CV3_J_13 = ~z~Damn!
+
+RCFSH_IG2_CV3_J_14 = ~z~Oh, oh, no! I still got him on the line...
+
+RCFSH_IG2_CV3_J_15 = ~z~You get ready!
+
+RCFSH_IG2_CV3_J_16 = ~z~He's gonna come back again, I'm gonna pull him in just a little bit...
+
+RCFSH_IG2_CV3_J_17 = ~z~And I'm gonna tire him out... get the camera ready!
+
+RCFSH_IG2_CV3_J_18 = ~z~I'm ready.
+
+RCFSH_IG2_CV3_J_19 = ~z~Oh, come on, boy! Come on, boy.
+
+RCFSH_IG2_CV3_J_20 = ~z~Oh, come on, he's huge! Come on! Here... get this, get this!
+
+RCFSH_IG2_CV3_J_21 = ~z~Here he comes, here he comes... here comes immo-oh...
+
+RCFSH_INWAY_01 = ~z~Out of the way.
+
+RCFSH_INWAY_02 = ~z~Move before I hook you too.
+
+RCFSH_INWAY_03 = ~z~What are you doing? Move.
+
+RCFSH_INWAY_04 = ~z~Hey, you're in the way.
+
+RCFSH_LEFT_1 = ~z~Alright, let's cut left here down to the river.
+
+RCFSH_MOUNTUP_01 = ~z~Mount up, we have quite a ride ahead of us.
+
+RCFSH_MOUNTUP_02 = ~z~Come along then.
+
+RCFSH_MOUNTUP_03 = ~z~I hope you move faster than this with that camera.
+
+RCFSH_NEAR_01 = ~z~Yes, can I help you?
+
+RCFSH_NEAR_02 = ~z~Who are you?
+
+RCFSH_NEAR_03 = ~z~Can I get five minutes without a fan badgering me?
+
+RCFSH_RBANTP1J_1 = ~z~A catfish in the desert,~rp~ is that normal?
+
+RCFSH_RBANTP1J_2 = ~z~No, not at all.~rp~ That's why it's so fascinating.~rp~ It's adapted to a new environment.
+
+RCFSH_RBANTP1J_3 = ~z~Turned a horrible pallid yellow color and weighs close to two hundred pounds, by all accounts.
+
+RCFSH_RBANTP1J_4 = ~z~What?
+
+RCFSH_RBANTP1J_5 = ~z~Oh yes.~rp~ I still need a good name for it...~rp~ the fans love a name.
+
+RCFSH_RBANTP1J_6 = ~z~Old Chalky,~rp~ El Diablo Amarillo... oh I'll come up with something, I always do.
+
+RCFSH_RBANTP1J_7 = ~z~I already have a draft of this written for my newspaper column.
+
+RCFSH_RBANTP1J_8 = ~z~You haven't caught it yet.
+
+RCFSH_RBANTP1J_9 = ~z~Yes, but never has a conclusion been more foregone.
+
+RCFSH_RBANTP1J_10 = ~z~So~rp~ what exactly am I getting out of this again?
+
+RCFSH_RBANTP1J_11 = ~z~What are you getting out of it?~rp~ Only the best day of your mundane little existence.
+
+RCFSH_RBANTP1J_12 = ~z~How often do you get to be part of a legend?~rp~ To experience a masterclass in extreme angling up close and personal?
+
+RCFSH_RBANTP1J_13 = ~z~To watch an artist paint his masterpiece.
+
+RCFSH_RBANTP1J_14 = ~z~I was talking about money.
+
+RCFSH_RBANTP1J_15 = ~z~Good God. The avarice.
+
+RCFSH_RBANTP1J_16 = ~z~Do you think Hannibal was haggling as he went over the Alps?
+
+RCFSH_RBANTP1J_17 = ~z~You'll be handsomely rewarded, don't you worry about that.
+
+RCFSH_RBANTP2J_1 = ~z~A Japanese man once offered me five hundred dollars just for an hour of my company.
+
+RCFSH_RBANTP2J_2 = ~z~I told him “add a zero and maybe then we can talk, chum!”.
+
+RCFSH_RBANTP2J_3 = ~z~A whole hour, huh?
+
+RCFSH_RSC1_1 = ~z~Hello, chum.
+
+RCFSH_RSC1_2 = ~z~Chum?
+
+RCFSH_RSC1_3 = ~z~Do you want an autograph?
+
+RCFSH_RSC1_4 = ~z~Or a photograph?
+
+RCFSH_RSC1_5 = ~z~I'm sorry?
+
+RCFSH_RSC1_6 = ~z~People often get nervous...
+
+RCFSH_RSC1_7 = ~z~but there's really no need to...
+
+RCFSH_RSC1_8 = ~z~I-I'm just a, j-j-just a normal guy.
+
+RCFSH_RSC1_9 = ~z~Who, well, happens to be...
+
+RCFSH_RSC1_10 = ~z~very famous.
+
+RCFSH_RSC1_11 = ~z~Who are you?
+
+RCFSH_RSC1_12 = ~z~Jeremy Gill.
+
+RCFSH_RSC1_13 = ~z~Who?
+
+RCFSH_RSC1_14 = ~z~The famous fisherman?
+
+RCFSH_RSC1_15 = ~z~I've written a lot of books.
+
+RCFSH_RSC1_16 = ~z~I'm in the newspaper all the time...
+
+RCFSH_RSC1_17 = ~z~here's one from the New Hanover Gazette...
+
+RCFSH_RSC1_18 = ~z~from a few years back, and this is a book I wrote.
+
+RCFSH_RSC1_19 = ~z~I wrote it.
+
+RCFSH_RSC1_20 = ~z~Good for you.
+
+RCFSH_RSC1_21 = ~z~You really don't know who I am?
+
+RCFSH_RSC1_22 = ~z~Ah, well...
+
+RCFSH_RSC1_23 = ~z~nice to meet you.
+
+RCFSH_RSC1_24 = ~z~You too.
+
+RCFSH_RSC1_25 = ~z~Yeah.
+
+RCFSH_RSC1_26 = ~z~John.
+
+RCFSH_RSC1_27 = ~z~Sure you don't want a photo?
+
+RCFSH_RSC1_28 = ~z~Not right now.
+
+RCFSH_RSC1_29 = ~z~You know, mothers, they often offer me their daughters.
+
+RCFSH_RSC1_30 = ~z~Just for a photograph?
+
+RCFSH_RSC1_31 = ~z~No, to marry...
+
+RCFSH_RSC1_32 = ~z~but I say no...
+
+RCFSH_RSC1_33 = ~z~I'm married to the fish.
+
+RCFSH_RSC1_34 = ~z~So you're... you're famous for fishing?
+
+RCFSH_RSC1_35 = ~z~Very.
+
+RCFSH_RSC1_36 = ~z~And that pays well?
+
+RCFSH_RSC1_37 = ~z~Pretty well.
+
+RCFSH_RSC1_38 = ~z~What I mostly do is send fans stuffed fish.
+
+RCFSH_RSC1_39 = ~z~Stuffed fish?
+
+RCFSH_RSC1_40 = ~z~Yeah, here...
+
+RCFSH_RSC1_41 = ~z~let me show you.
+
+RCFSH_RSC1_42 = ~z~Come with me.
+
+RCFSH_RSC1_43 = ~z~You're selling these?
+
+RCFSH_RSC1_44 = ~z~Yes, how many do you want?
+
+RCFSH_RSC1_45 = ~z~If you get three, we can do a photograph together...
+
+RCFSH_RSC1_46 = ~z~like actual friends.
+
+RCFSH_RSC1_47 = ~z~No, I'm fine, it's...
+
+RCFSH_RSC1_48 = ~z~sort of ridiculous.
+
+RCFSH_RSC1_49 = ~z~Listen, chum...
+
+RCFSH_RSC1_50 = ~z~people love it...
+
+RCFSH_RSC1_51 = ~z~and I could sell even more fish, if I had them.
+
+RCFSH_RSC1_52 = ~z~It helps them to know that out there...
+
+RCFSH_RSC1_53 = ~z~there's some man fighting with Neptune on a daily basis...
+
+RCFSH_RSC1_54 = ~z~and winning.
+
+RCFSH_RSC1_55 = ~z~Okay.
+
+RCFSH_RSC1_56 = ~z~But I can't catch enough of 'em...
+
+RCFSH_RSC1_57 = ~z~and there's really good money in this.
+
+RCFSH_RSC1_58 = ~z~I fish a little.
+
+RCFSH_RSC1_59 = ~z~You do?
+
+RCFSH_RSC1_60 = ~z~Well, in that case, send them to me...
+
+RCFSH_RSC1_61 = ~z~o-of course, not if they're too rotten.
+
+RCFSH_RSC1_62 = ~z~Do you like that bass?
+
+RCFSH_RSC1_63 = ~z~I'd sell this for fifty dollars...
+
+RCFSH_RSC1_64 = ~z~I'd give you fifteen.
+
+RCFSH_RSC1_65 = ~z~Send you fish?
+
+RCFSH_RSC1_66 = ~z~My card, and a map.
+
+RCFSH_RSC1_67 = ~z~Maybe I shall.
+
+RCFSH_RSC1_68 = ~z~Only the decent ones.
+
+RCFSH_RSC1_69 = ~z~They have to be at least twenty four inches in length...
+
+RCFSH_RSC1_70 = ~z~and ten pounds in weight.
+
+RCFSH_RSC1_71 = ~z~No one wants to imagine Jeremy Gill catching a tiddler...
+
+RCFSH_RSC1_72 = ~z~there's no money in tiddlers.
+
+RCFSH_RSC1_73 = ~z~So I hear.
+
+RCFSH_RSC1_74 = ~z~Chum?
+
+RCFSH_RSC1_75 = ~z~I'm sorry?
+
+RCFSH_RSC1_76 = ~z~Okay.
+
+RCFSH_RSC1_77 = ~z~Who are you?
+
+RCFSH_RSC1_78 = ~z~Who?
+
+RCFSH_RSC1_79 = ~z~Good for you.
+
+RCFSH_RSC1_80 = ~z~You too.
+
+RCFSH_RSC1_81 = ~z~Arthur.
+
+RCFSH_RSC1_82 = ~z~Not right now.
+
+RCFSH_RSC1_83 = ~z~Just for a photograph?
+
+RCFSH_RSC1_84 = ~z~So...
+
+RCFSH_RSC1_85 = ~z~you're famous for fishing?
+
+RCFSH_RSC1_86 = ~z~And that pays well?
+
+RCFSH_RSC1_87 = ~z~Stuffed fish?
+
+RCFSH_RSC1_88 = ~z~And you're selling these?
+
+RCFSH_RSC1_89 = ~z~No, I'm fine, it's...
+
+RCFSH_RSC1_90 = ~z~it's sort of ridiculous.
+
+RCFSH_RSC1_91 = ~z~Okay.
+
+RCFSH_RSC1_92 = ~z~I fish a little.
+
+RCFSH_RSC1_93 = ~z~Send you fish?
+
+RCFSH_RSC1_94 = ~z~Well, maybe I shall.
+
+RCFSH_RSC1_95 = ~z~So I hear.
+
+RCFSH_RSC1_LI_A_1 = ~z~Hey.
+
+RCFSH_RSC1_LI_A_2 = ~z~
+
+RCFSH_RSC1_LI_J_1 = ~z~Hey.
+
+RCFSH_RSC1_LI_J_2 = ~z~
+
+RCFSH_RSC2_1 = ~z~There you are.
+
+RCFSH_RSC2_2 = ~z~Did you bring your camera?
+
+RCFSH_RSC2_3 = ~z~Sure, but what are you talking about?
+
+RCFSH_RSC2_4 = ~z~Liars!
+
+RCFSH_RSC2_5 = ~z~Damn liars.
+
+RCFSH_RSC2_6 = ~z~You know, they're the liars.
+
+RCFSH_RSC2_7 = ~z~Hey, are you the guy that took the photos?
+
+RCFSH_RSC2_8 = ~z~I don't think so.
+
+RCFSH_RSC2_9 = ~z~Oh, must've been that feller from Quebec.
+
+RCFSH_RSC2_10 = ~z~I...
+
+RCFSH_RSC2_11 = ~z~Did you say you had a camera?
+
+RCFSH_RSC2_12 = ~z~Yeah...
+
+RCFSH_RSC2_13 = ~z~Good, you'll do then.
+
+RCFSH_RSC2_14 = ~z~What do you need?
+
+RCFSH_RSC2_15 = ~z~I found a giant catfish...
+
+RCFSH_RSC2_16 = ~z~up near Frontera Bridge...
+
+RCFSH_RSC2_17 = ~z~over in Rio Bravo.
+
+RCFSH_RSC2_18 = ~z~Ain't that out in the desert?
+
+RCFSH_RSC2_19 = ~z~Yes...
+
+RCFSH_RSC2_20 = ~z~and I'm going to catch it...
+
+RCFSH_RSC2_21 = ~z~and you are going to photograph me catching it...
+
+RCFSH_RSC2_22 = ~z~and then these bastards who call me a fake...
+
+RCFSH_RSC2_23 = ~z~will discover who really catches these fish.
+
+RCFSH_RSC2_24 = ~z~You do, right?
+
+RCFSH_RSC2_25 = ~z~Well, you know, some of 'em.
+
+RCFSH_RSC2_26 = ~z~Listen...
+
+RCFSH_RSC2_27 = ~z~I know how to catch fish.
+
+RCFSH_RSC2_28 = ~z~Come on.
+
+RCFSH_RSC2_29 = ~z~I don't wanna go out to Rio Bravo.
+
+RCFSH_RSC2_30 = ~z~Ah, it'll be an adventure, come on.
+
+RCFSH_RSC2_31 = ~z~I've got quite enough adventures.
+
+RCFSH_RSC2_32 = ~z~I'll give ya something ya really love.
+
+RCFSH_RSC2_33 = ~z~Okay then.
+
+RCFSH_RSC2_34 = ~z~Sure, but what are you talking about?
+
+RCFSH_RSC2_35 = ~z~I don't think so.
+
+RCFSH_RSC2_36 = ~z~Yeah, but...
+
+RCFSH_RSC2_37 = ~z~Wh-What do ya need?
+
+RCFSH_RSC2_38 = ~z~Ain't that out in the desert?
+
+RCFSH_RSC2_39 = ~z~I catch 'em.
+
+RCFSH_RSC2_40 = ~z~I don't wanna head out to Rio Bravo.
+
+RCFSH_RSC2_41 = ~z~I've got quite enough adventures.
+
+RCFSH_RSC2_42 = ~z~Oh, okay then.
+
+RCFSH_RSC2_LI_J_1 = ~z~A fan, good timing. Do you have a camera?
+
+RCFSH_RSC3_1 = ~z~Ah, this is the place.
+
+RCFSH_RSC3_2 = ~z~Okay.
+
+RCFSH_RSC3_3 = ~z~What's the plan?
+
+RCFSH_RSC3_4 = ~z~Catfish are easy...
+
+RCFSH_RSC3_5 = ~z~just a couple of rashers of bacon...
+
+RCFSH_RSC3_6 = ~z~and that boy will be fine.
+
+RCFSH_RSC3_7 = ~z~Listen...
+
+RCFSH_RSC3_8 = ~z~I want you to get a picture of me...
+
+RCFSH_RSC3_9 = ~z~actually landing the thing.
+
+RCFSH_RSC3_10 = ~z~I'll try.
+
+RCFSH_RSC3_11 = ~z~No, you do your best.
+
+RCFSH_RSC3_12 = ~z~Okay, chum?
+
+RCFSH_RSC3_13 = ~z~Set up over there.
+
+RCFSH_RSC3_14 = ~z~Yes, boss.
+
+RCFSH_RSC3_15 = ~z~Okay...
+
+RCFSH_RSC3_16 = ~z~and what's the plan?
+
+RCFSH_RSC3_17 = ~z~I'll try.
+
+RCFSH_RSC3_18 = ~z~Yes, boss.
+
+RCFSH_SHAT_1 = ~z~Maybe buy yourself a less ridiculous hat.
+
+RCFSH_SOUTFIT_1 = ~z~Maybe buy yourself something less ridiculous to wear.
+
+RCFSH_SPOTDAWD_01 = ~z~You won't get much of a shot from there, chum.
+
+RCFSH_SPOTDAWD_02 = ~z~Find a good position before you miss all the action.
+
+RCFSH_SPOTDAWD_03 = ~z~There's no good, man. Haven't you ever taken a photograph before?
+
+RCFSH_TOOCLOSE_01 = ~z~Will you give me some room here?
+
+RCFSH_TOOCLOSE_02 = ~z~Hey back it up, chum.
+
+RCFSH_TOOCLOSE_03 = ~z~Stop crowding me.
+
+RCFSH_WAIT_01 = ~z~Stop dawdling and get over here.
+
+RCFSH_WAIT_02 = ~z~Come on, let's get started.
+
+RCFSH_WAIT_03 = ~z~Come here and let me talk you through this.
+
+RCFSH_WATER_01 = ~z~Hey, you'll scare her off.
+
+RCFSH_WATER_02 = ~z~What the hell? Get out of there.
+
+RCFSH_WATER_03 = ~z~What are you going in the water for? My God, it's like dealing with a child.
+

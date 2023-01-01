@@ -1,0 +1,120 @@
+0x2EC46F9F = Dutch's Horse has died.
+
+0x9C5868E8 = You ran over a companion's Horse.
+
+0x86CE8F7F = Use ~INPUT_DUCK~ to crouch.
+
+0x587CB4D2 = Bill's Horse has died.
+
+0x7451F2B9 = Use ~INPUT_VEH_DUCK~ to switch between Camera views during the ride.
+
+0x52383DAA = Dismount from the wagon
+
+0x6749528E = Moonshiner
+
+GRY1_AVOID = Stand clear from the ~e~distillery~s~ and blow the dynamite
+
+GRY1_AWAIT = Wait for ~f~Archbald's~s~ instructions.
+
+GRY1_BILL = Find ~o~Bill~s~
+
+GRY1_BLEW_COVER = You blew your cover.
+
+GRY1_CARRY = Carry the Moonshiner to the ~o~wagon~s~
+
+GRY1_CONES = Use the radar to avoid detection by the Moonshiners.
+
+GRY1_COVER = Take cover from the ~e~Moonshiner~s~ until it's safe
+
+GRY1_CRASHED = You damaged the prison wagon.
+
+GRY1_DEPUTY = Follow ~o~Archibald~s~
+
+GRY1_DROP = Drop the Moonshiner with the other ~o~captives~s~
+
+GRY1_DUTCH = Return to ~o~Dutch~s~
+
+GRY1_DYNAMITE3 = Plant dynamite in the ~e~distillery~s~
+
+GRY1_DYNAMITE_SELECT_P1 = To select the Dynamite. Open the Weapon Wheel with ~INPUT_OPEN_WHEEL_MENU~.
+
+GRY1_DYNAMITE_SELECT_P2 = With the Weapon Wheel open, hover over Throwables using ~INPUTGROUP_RADIAL_MENU_NAV~ and use ~INPUT_RADIAL_MENU_SLOT_NAV_NEXT~ to cycle to Dynamite.
+
+GRY1_DYNAMITE_SELECT_P3 = Release ~INPUT_OPEN_WHEEL_MENU~ to equip the Dynamite.
+
+GRY1_FAIL_DEP_WAGON = The prison wagon was no longer drivable.
+
+GRY1_FAIL_MOON_WAGON = The moonshine wagon was no longer drivable.
+
+GRY1_FAIL_RIDE = You went off the route to the Moonshine distillery.
+
+GRY1_F_DEPUTY = Deputy Archibald has died.
+
+GRY1_F_ESCAPE = A Moonshiner escaped.
+
+GRY1_HOGTIE = Hogtie the unconscious ~e~Moonshiner~s~
+
+GRY1_H_HSTAMINA = Galloping continuously will cause your horse's Stamina to drain quickly. Slow to a canter to allow your horse to regain Stamina.
+
+GRY1_ILO_MOONER = Moonshiner
+
+GRY1_KILL = Take out the ~e~Lemoyne Raiders~s~
+
+GRY1_KILLED = You killed one of the Moonshiners.
+
+GRY1_KNOCKOUT = Sneak up behind a Moonshiner and press ~INPUT_MELEE_ATTACK~ to knock them out.
+
+GRY1_LEFT = Your companions were abandoned.
+
+GRY1_LEFT_AREA_R = Return to the ~o~Swamp~s~
+
+GRY1_LEFT_R = Return to your ~o~companions~s~
+
+GRY1_MOUNT_HORSE = Get on your ~o~horse~s~
+
+GRY1_NOAMMO = You failed to destroy the stills.
+
+GRY1_PATH = Lead ~f~Bill~s~ left or right
+
+GRY1_PICKUP = Pick up the ~e~Moonshiner~s~
+
+GRY1_PLACE = Press ~INPUT_ATTACK~ to place the dynamite without igniting it.
+
+GRY1_RACE = Race ~f~Dutch~s~ back to ~o~Camp~s~
+
+GRY1_RIDE = Ride to the ~o~swamp~s~
+
+GRY1_SHOT_F = You committed a crime in front of the Deputy.
+
+GRY1_SPOTTED = The Moonshiners were alerted.
+
+GRY1_STEALTH = Help ~f~Bill~s~ knock out the ~e~Moonshiners~s~ without being spotted
+
+GRY1_STEALTH2 = Knock out the remaining ~e~Moonshiner~s~ without being spotted
+
+GRY1_UC_DROP = Drop by wagon
+
+GRY1_UC_ILO_STAY = Take the lead
+
+GRY1_UC_ILO_WORKER1 = Send Bill to tree moonshiner
+
+GRY1_UC_ILO_WORKER2 = Send Bill to distillery moonshiner
+
+GRY1_UC_ILO_WORKER4 = Send Bill
+
+GRY1_UC_LEFT = Left
+
+GRY1_UC_NO = Decline race
+
+GRY1_UC_RIGHT = Right
+
+GRY1_UC_TAKEDOWN = Takedown
+
+GRY1_UC_YES = Accept race
+
+GRY1_WAGON = Get in the ~o~wagon~s~
+
+GRY1_WAGON_RIDE = Follow ~o~Dutch~s~
+
+GRY1_WAIT_OBJ = Wait by the ~o~moonshine wagon~s~ for your companions
+

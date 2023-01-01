@@ -1,0 +1,150 @@
+FETCH_HELP_LOOK_AT_CLUE = Сфокусироваться на следе
+
+FETCH_OTH_HELP_DISMOUNT = Чтобы изучить зацепку, нужно слезть с лошади.
+
+FETCH_OTH_HELP_INVESTIGATE_SOUND = Найдите источник шума неподалеку ~1b~.
+
+FETCH_OTH_HELP_LASSO_UNDERWATER_OBJECTIVE = Используйте лассо, чтобы вытащить аллигатора ~1b~ из воды.
+
+FETCH_OTH_HELP_OBJECTIVE_DEAD_BEAR = Медведь убит. Возьмите его шкуру ~1b~ и доставьте ее в качестве доказательства убийства.
+
+FETCH_OTH_HELP_OBJECTIVE_DEAD_GATOR = Аллигатор убит. Возьмите его кожу ~1b~ и доставьте ее в качестве доказательства убийства.
+
+FETCH_OTH_HELP_OBJECTIVE_DEAD_ML = Пума убита. Возьмите и доставьте ее ~1b~ в качестве доказательства убийства.
+
+FETCH_OTH_HELP_OBJECTIVE_DEAD_WOLF = Волк убит. Возьмите и доставьте его ~1b~ в качестве доказательства убийства.
+
+FETCH_OTH_HELP_OTH_PRIMARY_BEAR = Обыщите сектор ~1b~ и найдите медведя. Принесите его шкуру, чтобы получить полную награду.
+
+FETCH_OTH_HELP_OTH_PRIMARY_GATOR = Обыщите сектор ~1b~ и найдите аллигатора. Принесите его кожу, чтобы получить полную награду.
+
+FETCH_OTH_HELP_OTH_PRIMARY_ML = Обыщите сектор ~1b~ и найдите пуму. Принесите трофей, чтобы получить полную награду.
+
+FETCH_OTH_HELP_OTH_PRIMARY_WOLF = Обыщите сектор ~1b~ и найдите волка. Принесите трофей, чтобы получить полную награду.
+
+FETCH_OTH_HELP_SEARCH_BEAR = Нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» и поискать следы пребывания медведя.
+
+FETCH_OTH_HELP_SEARCH_BEAR_KM = Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» и поискать следы пребывания медведя.
+
+FETCH_OTH_HELP_SEARCH_CLUES_BEAR = Cфокусируйтесь на следе зверя и нажмите ~INPUT_SPECIAL_ABILITY_ACTION~, чтобы идти по нему в поисках зацепок. Обнаружив их, вы сможете быстрее найти медведя.
+
+FETCH_OTH_HELP_SEARCH_CLUES_GATOR = Cфокусируйтесь на следе зверя и нажмите ~INPUT_SPECIAL_ABILITY_ACTION~, чтобы идти по нему в поисках зацепок. Обнаружив их, вы сможете быстрее найти аллигатора.
+
+FETCH_OTH_HELP_SEARCH_CLUES_ML = Cфокусируйтесь на следе зверя и нажмите ~INPUT_SPECIAL_ABILITY_ACTION~, чтобы идти по нему в поисках зацепок. Обнаружив их, вы сможете быстрее найти пуму.
+
+FETCH_OTH_HELP_SEARCH_CLUES_WOLF = Cфокусируйтесь на следе зверя и нажмите ~INPUT_SPECIAL_ABILITY_ACTION~, чтобы идти по нему в поисках зацепок. Обнаружив их, вы сможете быстрее найти волка.
+
+FETCH_OTH_HELP_SEARCH_CLUE_FOUND_BEAR = Медведь недавно был неподалеку. Используйте «Орлиный глаз», чтобы найти следы.
+
+FETCH_OTH_HELP_SEARCH_CLUE_FOUND_GATOR = Аллигатор недавно был неподалеку. Используйте «Орлиный глаз», чтобы найти следы.
+
+FETCH_OTH_HELP_SEARCH_CLUE_FOUND_ML = Пума недавно была неподалеку. Используйте «Орлиный глаз», чтобы найти следы.
+
+FETCH_OTH_HELP_SEARCH_CLUE_FOUND_WOLF = Волк недавно был неподалеку. Используйте «Орлиный глаз», чтобы найти следы.
+
+FETCH_OTH_HELP_SEARCH_GATOR = Нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» и поискать следы пребывания аллигатора.
+
+FETCH_OTH_HELP_SEARCH_GATOR_KM = Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» и поискать следы пребывания аллигатора.
+
+FETCH_OTH_HELP_SEARCH_ML = Нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» и поискать следы пребывания пумы.
+
+FETCH_OTH_HELP_SEARCH_ML_KM = Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» и поискать следы пребывания пумы.
+
+FETCH_OTH_HELP_SEARCH_WOLF = Нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» и поискать следы пребывания волка.
+
+FETCH_OTH_HELP_SEARCH_WOLF_KM = Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» и поискать следы пребывания волка.
+
+FETCH_OTH_HELP_SKIN_BEAR = Удерживайте ~INPUT_CONTEXT_Y~, чтобы освежевать медведя.
+
+FETCH_OTH_HELP_SKIN_GATOR = Используйте ~INPUT_CONTEXT_Y~, чтобы освежевать аллигатора.
+
+FETCH_OTH_HELP_SKIN_ML = Удерживайте ~INPUT_CONTEXT_X~, чтобы поднять пуму.
+
+FETCH_OTH_HELP_SKIN_STOW = Выслеживайте опасных хищников.
+
+FETCH_OTH_HELP_SKIN_WOLF = Удерживайте ~INPUT_CONTEXT_X~, чтобы поднять волка.
+
+FETCH_OTH_INSPECT_CLUE = Осмотреть
+
+FETCH_OTH_OBJ_DEFEND_BEAR = Помогите доставить ~COLOR_MP_OBJECTIVE_FRIENDLY~медвежью шкуру~s~ ~1~.
+
+FETCH_OTH_OBJ_DEFEND_GATOR = Помогите доставить ~COLOR_MP_OBJECTIVE_FRIENDLY~кожу аллигатора~s~ ~1~.
+
+FETCH_OTH_OBJ_DEFEND_ML = Помогите доставить ~COLOR_MP_OBJECTIVE_FRIENDLY~пуму~s~ ~1~.
+
+FETCH_OTH_OBJ_DEFEND_WOLF = Помогите доставить ~COLOR_MP_OBJECTIVE_FRIENDLY~волка~s~ ~1~.
+
+FETCH_OTH_OBJ_DELIVERY_BEAR = Доставьте медвежью шкуру ~1~.
+
+FETCH_OTH_OBJ_DELIVERY_GATOR = Доставьте кожу аллигатора ~1~.
+
+FETCH_OTH_OBJ_DELIVERY_ML = Доставьте пуму ~1~.
+
+FETCH_OTH_OBJ_DELIVERY_WOLF = Доставьте волка ~1~.
+
+FETCH_OTH_OBJ_DROP_BEAR = Доставьте медвежью шкуру.
+
+FETCH_OTH_OBJ_DROP_GATOR = Доставьте кожу аллигатора.
+
+FETCH_OTH_OBJ_DROP_ML = Доставьте пуму.
+
+FETCH_OTH_OBJ_DROP_WOLF = Доставьте волка.
+
+FETCH_OTH_OBJ_FIND = Осмотрите ~COLOR_MP_OBJECTIVE~местность~s~ в поисках следов.
+
+FETCH_OTH_OBJ_GET_ON_MOUNT = Сядьте на лошадь.
+
+FETCH_OTH_OBJ_GOTO = Направляйтесь ~1~.
+
+FETCH_OTH_OBJ_INVESTIGATE_SOUND = Найдите ~COLOR_ENEMY~источник шума~s~.
+
+FETCH_OTH_OBJ_KILL_BEAR = Убейте ~COLOR_ENEMY~медведя~s~.
+
+FETCH_OTH_OBJ_KILL_GATOR = Убейте ~COLOR_ENEMY~аллигатора~s~.
+
+FETCH_OTH_OBJ_KILL_ML = Убейте ~COLOR_ENEMY~пуму~s~.
+
+FETCH_OTH_OBJ_KILL_WOLF = Убейте ~COLOR_ENEMY~волка~s~.
+
+FETCH_OTH_OBJ_LOOT_BEAR = Освежуйте ~COLOR_MP_OBJECTIVE~медведя~s~.
+
+FETCH_OTH_OBJ_LOOT_GATOR = Освежуйте ~COLOR_MP_OBJECTIVE~аллигатора~s~.
+
+FETCH_OTH_OBJ_LOOT_ML = Поднимите ~COLOR_MP_OBJECTIVE_NEUTRAL~пуму~s~.
+
+FETCH_OTH_OBJ_LOOT_WOLF = Поднимите ~COLOR_MP_OBJECTIVE~волка~s~.
+
+FETCH_OTH_OBJ_STEAL_BEAR = Возьмите ~COLOR_MP_OBJECTIVE_NEUTRAL~медвежью шкуру~s~.
+
+FETCH_OTH_OBJ_STEAL_FROM_POSSE_BEAR = Отберите ~COLOR_MP_OBJECTIVE_ENEMY~медвежью шкуру~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_OTH_OBJ_STEAL_FROM_POSSE_GATOR = Отберите ~COLOR_MP_OBJECTIVE_ENEMY~кожу аллигатора~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_OTH_OBJ_STEAL_FROM_POSSE_ML = Отберите ~COLOR_MP_OBJECTIVE_ENEMY~пуму~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_OTH_OBJ_STEAL_FROM_POSSE_WOLF = Отберите ~COLOR_MP_OBJECTIVE_ENEMY~волка~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_OTH_OBJ_STEAL_GATOR = Возьмите ~COLOR_MP_OBJECTIVE_NEUTRAL~кожу аллигатора~s~.
+
+FETCH_OTH_OBJ_STEAL_ML = Возьмите ~COLOR_MP_OBJECTIVE_NEUTRAL~пуму~s~.
+
+FETCH_OTH_OBJ_STEAL_WOLF = Возьмите ~COLOR_MP_OBJECTIVE_NEUTRAL~волка~s~.
+
+FETCH_OTH_SCORETIMER_CLUE_INSPECTED = Игрок ~COLOR_MP_OBJECTIVE_FRIENDLY~~1~~s~ осмотрел следы
+
+FETCH_OTH_SCORETIMER_PRIMARY_JOIN = Игрок ~1~ присоединился к охоте
+
+FETCH_OTH_SHARD_DESTROYED = Охотничий трофей уничтожен
+
+FETCH_OTH_SHARD_KILL_FAILED = Охотничий трофей уничтожен
+
+FETCH_OTH_SHARD_PRIMARY_INTRO_BEAR = Убейте медведя и принесите его шкуру
+
+FETCH_OTH_SHARD_PRIMARY_INTRO_GATOR = Убейте аллигатора и принесите его кожу
+
+FETCH_OTH_SHARD_PRIMARY_INTRO_ML = Убейте пуму и принесите трофей
+
+FETCH_OTH_SHARD_PRIMARY_INTRO_WOLF = Убейте волка и принесите трофей
+
+FETCH_OTH_SHARD_PRIMARY_PASS = Охотничий трофей доставлен
+

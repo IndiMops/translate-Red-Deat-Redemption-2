@@ -1,0 +1,230 @@
+0x00B7E521 = ~z~Wolves'll be back, mark my words. We ain't outta this.
+
+0x013EF662 = ~z~None too good, I tell you.
+
+0x017834F1 = ~z~You know who you're talking to? Shut your mouth.
+
+0x019AB72B = ~z~Halt. No civilians allowed there.
+
+0x04035604 = ~z~What? You ain't supposed to be here.
+
+0x068F0502 = ~z~Ain't nothing but teeth'n death in them woods...
+
+0x07F95FAE = ~z~If you know what's good for you, you'll holster that iron.
+
+0x0B571341 = ~z~Been itchin' for a little dust up.
+
+0x0BEF052D = ~z~What did I say? Don't wanna have to tell you again.
+
+0x0CA782F5 = ~z~Wolves lookin to rip'n tear, fellers. Rip'n tear.
+
+0x0E5492C3 = ~z~I ain't asking, I'm telling. Leave.
+
+0x1C74EA76 = ~z~You stop that or we'll be sharing more than words.
+
+0x1C91AF3D = ~z~Get gone, you hear me?
+
+0x1D3FB712 = ~z~You just made a big mistake.
+
+0x2C8FACAD = ~z~You keep looking at me like that and I'm apt to think you're up to something.
+
+0x2EC030DF = ~z~Look up! Tree's coming down!
+
+0x3CA126F7 = ~z~Gonna put a nice window right in that skull of yours.
+
+0x3F8CA37D = ~z~Keep in a group, fellers. Wolves are pack animals, too.
+
+0x4CCC9834 = ~z~TIMBER!
+
+0x4E4F4A53 = ~z~You won't be my first kill, nor my last.
+
+0x4EC293E6 = ~z~C'mon now, the hell you doing this for?
+
+0x5A72F739 = ~z~Steady aim now – fire!
+
+0x5B1FA629 = ~z~I seen a lot worse than you, now put the gun down.
+
+0x5B6E484D = ~z~Sap everywhere...
+
+0x5BAE5373 = ~z~No more chances, no more warnings, this is it.
+
+0x5C28C776 = ~z~This ain't no weather for working.
+
+0x6A9754EA = ~z~Move along here, this place is off limits.
+
+0x6C73F4FE = ~z~This is your last warnin'.
+
+0x6CDB7B6B = ~z~Shoot 'em 'tween the eyes!
+
+0x7A23D457 = ~z~Damn.
+
+0x7DB57C04 = ~z~You do what I tell you now.
+
+0x7E8F8DF9 = ~z~Nother to the copper mine.
+
+0x8C40849B = ~z~You ain't worth the lead.
+
+0x8F7201DB = ~z~This just ain't worth dying over...
+
+0x9A4C2C0C = ~z~You really wanna scrap? Let's get to it then.
+
+0x9C64A240 = ~z~Feel like the sun never goes down.
+
+0x9CFC9955 = ~z~Just kill me now.
+
+0x18FD1563 = ~z~Can't be sure they're dead 'til you're wearing one to dinner.
+
+0x22B89600 = ~z~Stop that. Ain't no proper way to act.
+
+0x29E249DE = ~z~I ain't askin', I'm tellin' – leave.
+
+0x38A963DB = ~z~Something hungry in them trees...
+
+0x49E86C94 = ~z~Wolves in the trees. Watch yourself.
+
+0x55E02B7C = ~z~You shouldn't be around here, get lost.
+
+0x67A986EB = ~z~Get some distance!
+
+0x72FABACD = ~z~Just here to watch us suffer? Asshole.
+
+0x75C56FAD = ~z~To me, men.
+
+0x75E94D47 = ~z~Saint Denis, what else is new?
+
+0x93D1852A = ~z~That sure ain't right.
+
+0x94C877E4 = ~z~Watch it!
+
+0x291EFDA7 = ~z~Hey, you. Military personnel only.
+
+0x300AAADF = ~z~Place is off limits, make yourself scarce.
+
+0x529F9CF1 = ~z~Watch out.
+
+0x535AFA0A = ~z~Hey, now. Announce yourself.
+
+0x558CD5EB = ~z~Here's your damn whuppin'.
+
+0x678FC0C1 = ~z~You need to get moving now.
+
+0x795C645A = ~z~Why don't you just move along?
+
+0x887B9190 = ~z~I'm warnin' you – and I ain't one for repeatin' hisself.
+
+0x1105CD9B = ~z~Yes, alright.
+
+0x1112F2B5 = ~z~The hell do you think you're doing? Quit it.
+
+0x1175F0E9 = ~z~Huh? What the hell you think you're doing here?
+
+0x1235D5F8 = ~z~I done told you once, quit.
+
+0x1683FCC3 = ~z~Come on now, put the damn gun away.
+
+0x5639BFF1 = ~z~Jesus Christ!
+
+0x6465B9C5 = ~z~You keep following me, I don't think you'll like what you find.
+
+0x7554EC38 = ~z~Back to work.
+
+0x30982E27 = ~z~Get over here, men.
+
+0x44095DD9 = ~z~That's it, one boot in front of the other.
+
+0x50873D25 = ~z~This is your last warning.
+
+0x77340A7E = ~z~No more chances, no more warnings, this is it.
+
+0x84611F0B = ~z~Lotta men died, and what did y'all do, huh? Cowards.
+
+0x406640EC = ~z~You - you kill 'em?
+
+0x847053B9 = ~z~Hey you. Get outta there now.
+
+0x3669619E = ~z~I remember when this was a real nice forest...
+
+0x4674110B = ~z~Get over here, I need help.
+
+0x6617168F = ~z~Foreman does the paperwork. You should speak to him.
+
+0x9612528C = ~z~Stop right there. What're you doing here?
+
+0x11457484 = ~z~Falling!
+
+0x20095375 = ~z~What in the hell?
+
+0x38146642 = ~z~Get gone, you hear me?
+
+0xA1B1472E = ~z~Good cover for the wolves, that's what this rain is.
+
+0xA9D4F759 = ~z~Honestly can't imagine a better way to go'n a tree crushing me...
+
+0xA84CF701 = ~z~Hey, you over there. The hell you up to?
+
+0xA131B50F = ~z~Gonna kill you myself!
+
+0xA271F04F = ~z~Woah, now. You ain't allowed here, keep on movin'.
+
+0xA549CB2C = ~z~You do what I tell you now.
+
+0xA671C713 = ~z~Best talk to the foreman. We could use you right now.
+
+0xAE814FAE = ~z~Get ready to die!
+
+0xAF4B57B7 = ~z~Trees are heavier'n they look.
+
+0xB007C29D = ~z~Near half of our men died cause you wouldn't lift a finger.
+
+0xB54F378B = ~z~I need backup over here.
+
+0xB77C6F91 = ~z~I'm warning you and I ain't one for repeatin hisself.
+
+0xB85BB5FD = ~z~Fancy foreman's got himself a new office.
+
+0xB7294E5D = ~z~Jesus, come on now.
+
+0xBAC60A55 = ~z~Tree's hitting dirt!
+
+0xBFD193D6 = ~z~Prepare to be haunted by the corpses of lost men, fellers.
+
+0xC06753A1 = ~z~Keep your distance, hear me? Trying to work here.
+
+0xC9E0E3D7 = ~z~~sl:0.0:2.0:1~Whoa! Hey...
+
+0xC48FACBC = ~z~Won't you get out my way?
+
+0xC916F145 = ~z~Y'know, we took care of those wolves, no thanks to you.
+
+0xC4077E72 = ~z~Please. Won't you stop?
+
+0xCE434FF5 = ~z~Gentlemen, the foreman's in his new office.
+
+0xD2A51CFE = ~z~Pay attention to where you're going.
+
+0xD3FD5BED = ~z~Stop. You ain't allowed here.
+
+0xD5BC57AC = ~z~I chop trees. I don't kill wolves.
+
+0xD7A02D1A = ~z~Y'all want to talk to the foreman.
+
+0xD81C7DA1 = ~z~You saved our lives...
+
+0xD894A3D4 = ~z~You're good as dead!
+
+0xE413D4A2 = ~z~I knew you was a coward.
+
+0xE7612218 = ~z~Halt! What business you got here?
+
+0xEC0B94EF = ~z~I ain't gonna stand for such behavior.
+
+0xEF587264 = ~z~I'm gonna beat you so bad your mammy won't recognize you.
+
+0xF39F1501 = ~z~When I was a kid I always wanted a dog. I'm glad my pappy never said yes.
+
+0xF327184F = ~z~I ain't gotta take that from the likes of you.
+
+0xFB3CE0EF = ~z~Y'all get to the foreman, and not a minute too soon.
+
+0xFFF28A7E = ~z~Y'all fended off the end. You really did.
+

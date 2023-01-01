@@ -1,0 +1,42 @@
+BANJ2_ACTION_A_1 = ~z~Night, Jack.
+
+BANJ2_ACTION_A_2 = ~z~Night, Momma.
+
+BANJ2_ACTION_A_3 = ~z~What you reading?
+
+BANJ2_ACTION_A_4 = ~z~Uh, bible...
+
+BANJ2_ACTION_A_5 = ~z~Will you read me that passage that Reverend Swanson used to read? You remember that?
+
+BANJ2_ACTION_A_6 = ~z~Well... not-not really, Momma.
+
+BANJ2_ACTION_A_7 = ~z~~sl:0.8~Nor do I... but it was so pretty... it was in Isaiah, I think.
+
+BANJ2_ACTION_A_8 = ~z~Okay... uh...
+
+BANJ2_ACTION_A_9 = ~z~Here's a beautiful passage.
+
+BANJ2_ACTION_A_10 = ~z~"He is despised and rejected of men; a man of sorrows, and acquainted with grief:
+
+BANJ2_ACTION_A_11 = ~z~and we hid as it were our faces from him; he was despised, and we esteemed him not.
+
+BANJ2_ACTION_A_12 = ~z~Surely he haths, he hath borne our griefs, and carried our sorrows:
+
+BANJ2_ACTION_A_13 = ~z~yet we did esteem him stricken, smitten of God, and afflicted.
+
+BANJ2_ACTION_A_14 = ~z~But he was wounded for our transgressions, he was bruised for our iniquities:
+
+BANJ2_ACTION_A_15 = ~z~the chastisement of our peace was upon him; and with his stripes we are healed.
+
+BANJ2_ACTION_A_16 = ~z~All we, like sheep, have gone astray; we have turned every one to his own way;
+
+BANJ2_ACTION_A_17 = ~z~and the Lord hath laid on him the iniquity of us all."
+
+BANJ2_ACTION_A_18 = ~z~That is beautiful... but it's not the same... the reverend spoke about eagles.
+
+BANJ2_ACTION_A_19 = ~z~Well, I don't know much about eagles. Good night, Momma.
+
+BANJ2_ACTION_A_20 = ~z~Good night, son.
+
+BANJ2_ACTION_B_1 = ~z~He's turning into quite a boy.
+

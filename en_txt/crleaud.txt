@@ -1,0 +1,348 @@
+CRL1_DOCT2_1 = ~z~Leave me alone.
+
+CRL1_PED_INFOJ_1 = ~z~You looking for that feller's wagon? Heard 'em say they was taking it to Macomb's End.
+
+CRL1_PED_INFOJ_2 = ~z~Okay. Thanks.
+
+CRL1_PED_INFO_1 = ~z~You looking for that feller's wagon? Heard 'em say they was taking it to Macomb's End.
+
+CRL1_PED_INFO_2 = ~z~Okay. Thanks.
+
+CRL1_RETURN_01 = ~z~Getting that wagon back would be a great service.
+
+CRL1_RETURN_02 = ~z~I can't do my good work without the wagon.
+
+CRL1_RETURN_03 = ~z~I would much appreciate your help with this.
+
+CRL1_RETURN_04 = ~z~Please. They may show respect to you they wouldn't to me.
+
+CRL2_DOCT2_01 = ~z~Can you get down from there please?
+
+CRL2_DOCT2_02 = ~z~Would you be so kind as to get down?
+
+CRL2_DOCT3_1 = ~z~What is wrong with you?
+
+CRL2_DOCT4_1 = ~z~Is that?
+
+CRL2_DOCT4_2 = ~z~Oh my!
+
+CRL2_FOLLOW_01 = ~z~The people of Lagras will be thankful!
+
+CRL2_FOLLOW_02 = ~z~Maybe I'll see you again some day!
+
+CRL2_WARN1_01 = ~z~Who goes there?
+
+CRL2_WARN1_02 = ~z~Better find another way around.
+
+CRL2_WARN1_03 = ~z~Hey, you don't want to be down here. Off with ya.
+
+CRL2_WARN2_01 = ~z~Last warning, go!
+
+CRL2_WARN2_02 = ~z~Didn't you hear me? Get out of here.
+
+CRL_ATTACK_01 = ~z~There. Get him!
+
+CRL_ATTACK_02 = ~z~Over here! Get that feller!
+
+CRL_M_ILO_ASK_A_1 = ~z~Doctor friend of mine lost his wagon... you all ain't seen it have you?
+
+CRL_M_ILO_ASK_A_2 = ~z~Uppity, ain't he? You tell your “friend”, we going to pay him a visit.
+
+CRL_M_ILO_ASK_J_1 = ~z~Doctor friend of mine lost his wagon... you all ain't seen it have you?
+
+CRL_M_ILO_ASK_J_2 = ~z~Uppity, ain't he? You tell your “friend”, we going to pay him a visit.
+
+CRL_M_ILO_TRT_A_1 = ~z~Someone told me you got a wagon here don't belong to you.
+
+CRL_M_ILO_TRT_A_2 = ~z~I bet I know who told you. Darkie sumbitch. Tell him we'll pay him a call.
+
+CRL_M_ILO_TRT_J_1 = ~z~Someone told me you got a wagon here don't belong to you.
+
+CRL_M_ILO_TRT_J_2 = ~z~I bet I know who told you. Darkie sumbitch. Tell him we'll pay him a call.
+
+CRL_POST_ILO_1_01 = ~z~Now get out of here.
+
+CRL_POST_ILO_1_02 = ~z~I know what you about... darkie lover. Go!
+
+CRL_POST_ILO_1_03 = ~z~You want us to whip you like we would your uppity chum? Go on!
+
+CRL_POST_ILO_2_01 = ~z~Put a hole in this sumbitch.
+
+CRL_POST_ILO_2_02 = ~z~I'm sick of this fool, come on.
+
+CRL_RIDER1_1 = ~z~Coach incoming, focus your fire.
+
+CRL_RIDER2_1 = ~z~We gotta get outta here.
+
+CRL_S1_INT_1 = ~z~You okay there, mister?
+
+CRL_S1_INT_2 = ~z~You need me to move?
+
+CRL_S1_INT_3 = ~z~Move?
+
+CRL_S1_INT_4 = ~z~A-am I sitting in the wrong place?
+
+CRL_S1_INT_5 = ~z~Excuse me?
+
+CRL_S1_INT_6 = ~z~I didn't mean any offense, sir. Please...
+
+CRL_S1_INT_7 = ~z~I don't get your meaning.
+
+CRL_S1_INT_8 = ~z~I'm very sorry, sir. You have yourself a fine day...
+
+CRL_S1_INT_9 = ~z~and I apologize for any offense I may have inadvertently caused.
+
+CRL_S1_INT_10 = ~z~What're you drinking, mister?
+
+CRL_S1_INT_11 = ~z~Nothing, sir...
+
+CRL_S1_INT_12 = ~z~nothing at all.
+
+CRL_S1_INT_13 = ~z~Why you acting so strange?
+
+CRL_S1_INT_14 = ~z~I don't mean to.
+
+CRL_S1_INT_15 = ~z~I'm sorry for any offense.
+
+CRL_S1_INT_16 = ~z~How could you have offended me?
+
+CRL_S1_INT_17 = ~z~I have no idea.
+
+CRL_S1_INT_18 = ~z~But I had no idea how I offended the last fellers...
+
+CRL_S1_INT_19 = ~z~and they stole my wagon on account of my impudence.
+
+CRL_S1_INT_20 = ~z~Stole your wagon over back chat?
+
+CRL_S1_INT_21 = ~z~They didn't like my medical practice, I suppose.
+
+CRL_S1_INT_22 = ~z~I was helping folk.
+
+CRL_S1_INT_23 = ~z~And that wasn't popular?
+
+CRL_S1_INT_24 = ~z~I was undercutting the competition...
+
+CRL_S1_INT_25 = ~z~or I was too colored...
+
+CRL_S1_INT_26 = ~z~or I was irritating in nature...
+
+CRL_S1_INT_27 = ~z~or I was some know it all big city slicker...
+
+CRL_S1_INT_28 = ~z~here to demean some good ole boys with my fine words.
+
+CRL_S1_INT_29 = ~z~The exact variety of my sins was the source of some conjecture...
+
+CRL_S1_INT_30 = ~z~so they undercut me.
+
+CRL_S1_INT_31 = ~z~That ain't very nice.
+
+CRL_S1_INT_32 = ~z~That was my impression.
+
+CRL_S1_INT_33 = ~z~Still...
+
+CRL_S1_INT_34 = ~z~compared to the gutting, castration...
+
+CRL_S1_INT_35 = ~z~defenestration and crucifixion they offered me...
+
+CRL_S1_INT_36 = ~z~I felt I got off lightly.
+
+CRL_S1_INT_37 = ~z~Imaginative bunch.
+
+CRL_S1_INT_38 = ~z~Yes.
+
+CRL_S1_INT_39 = ~z~But...
+
+CRL_S1_INT_40 = ~z~No great love of my medical practice...
+
+CRL_S1_INT_41 = ~z~ too free with my wisdom and services.
+
+CRL_S1_INT_42 = ~z~Which way did they go?
+
+CRL_S1_INT_43 = ~z~Down the road, that away.
+
+CRL_S1_INT_44 = ~z~Stay here.
+
+CRL_S1_INT_45 = ~z~I'm sort of forced to.
+
+CRL_S1_INT_46 = ~z~Please, don't go to any trouble on my account.
+
+CRL_S1_INT_47 = ~z~You okay there, mister?
+
+CRL_S1_INT_48 = ~z~Move?
+
+CRL_S1_INT_49 = ~z~Excuse me?
+
+CRL_S1_INT_50 = ~z~I don't get your meaning.
+
+CRL_S1_INT_51 = ~z~What're you drinking, mister?
+
+CRL_S1_INT_52 = ~z~Well, why you acting so strange?
+
+CRL_S1_INT_53 = ~z~How could you have offended me?
+
+CRL_S1_INT_54 = ~z~Stole your wagon for back chat?
+
+CRL_S1_INT_55 = ~z~And that wasn't popular?
+
+CRL_S1_INT_56 = ~z~That ain't very nice.
+
+CRL_S1_INT_57 = ~z~Imaginative bunch.
+
+CRL_S1_INT_58 = ~z~But...
+
+CRL_S1_INT_59 = ~z~Which way they go?
+
+CRL_S1_INT_60 = ~z~Stay here.
+
+CRL_S1_INT_LI_A_1 = ~z~You okay there, mister?
+
+CRL_S1_INT_LI_A_2 = ~z~You need me to move?
+
+CRL_S1_INT_LI_A_3 = ~z~Move?
+
+CRL_S1_INT_LI_J_1 = ~z~You okay there, mister?
+
+CRL_S1_INT_LI_J_2 = ~z~You need me to move?
+
+CRL_S1_INT_LI_J_3 = ~z~Move?
+
+CRL_S2_EXT_1 = ~z~Look who it is.
+
+CRL_S2_EXT_2 = ~z~I did not count on seeing that wagon again...
+
+CRL_S2_EXT_3 = ~z~nor you for that matter.
+
+CRL_S2_EXT_4 = ~z~Only people you won't be seeing...
+
+CRL_S2_EXT_5 = ~z~are the folks who took it.
+
+CRL_S2_EXT_6 = ~z~I take it they aren't the only...
+
+CRL_S2_EXT_7 = ~z~ignorant bullying clodhoppers in these parts...
+
+CRL_S2_EXT_8 = ~z~but I can live in glorious hope.
+
+CRL_S2_EXT_9 = ~z~It wasn't a trouble now, was it?
+
+CRL_S2_EXT_10 = ~z~No...
+
+CRL_S2_EXT_11 = ~z~it was a pleasure.
+
+CRL_S2_EXT_12 = ~z~Well...
+
+CRL_S2_EXT_13 = ~z~let me give you something for your pleasure.
+
+CRL_S2_EXT_14 = ~z~What we got here...
+
+CRL_S2_EXT_15 = ~z~Ah, how about this?
+
+CRL_S2_EXT_16 = ~z~Provide a man a tincture...
+
+CRL_S2_EXT_17 = ~z~he'll be well for a day.
+
+CRL_S2_EXT_18 = ~z~Teach him to make one...
+
+CRL_S2_EXT_19 = ~z~he might be well a while longer.
+
+CRL_S2_EXT_20 = ~z~I'll make sure and try to make this.
+
+CRL_S2_EXT_21 = ~z~Thank you.
+
+CRL_S2_EXT_22 = ~z~Thank you.
+
+CRL_S2_EXT_23 = ~z~It won't work for anything chronic...
+
+CRL_S2_EXT_24 = ~z~but you may not need it to.
+
+CRL_S2_EXT_25 = ~z~Thank you.
+
+CRL_S2_EXT_26 = ~z~I just wish I could help with your more pressing ailment.
+
+CRL_S2_EXT_27 = ~z~Well...
+
+CRL_S2_EXT_28 = ~z~if you see me on my travels and you're in need of something...
+
+CRL_S2_EXT_29 = ~z~make sure you come and say hello.
+
+CRL_S2_EXT_30 = ~z~Travel safe now.
+
+CRL_S2_EXT_31 = ~z~Only people you won't be seeing...
+
+CRL_S2_EXT_32 = ~z~are the folks that took it.
+
+CRL_S2_EXT_33 = ~z~No...
+
+CRL_S2_EXT_34 = ~z~it was a pleasure.
+
+CRL_S2_EXT_35 = ~z~I'll make sure to try and make this.
+
+CRL_S2_EXT_36 = ~z~Thank you.
+
+CRL_S2_EXT_37 = ~z~Travel safe now.
+
+CRL_WAGONSOLO_1 = ~z~Damn uppity immigrant sent you, huh? He ain't getting his wagon back.
+
+CRL_WAGON_01 = ~z~Don't let him get the wagon!
+
+CRL_WAGON_02 = ~z~He's after that darkie's wagon!
+
+RCRLE_ALLDEAD_A_1 = ~z~Ah... If you done, boys, I'll go.
+
+RCRLE_ALLDEAD_J_1 = ~z~Ah... If you done, boys, I'll go.
+
+RCRLE_APPRCH_A_1 = ~z~You know this feller don't ya?
+
+RCRLE_APPRCH_J_1 = ~z~You know this feller don't ya?
+
+RCRLE_COMBAT1_A_01 = ~z~I wanted the wagon, now I want you.
+
+RCRLE_COMBAT1_A_02 = ~z~Y'all ain't nice.
+
+RCRLE_COMBAT1_A_03 = ~z~Grubby little bastards.
+
+RCRLE_COMBAT1_J_01 = ~z~I wanted the wagon, now I want you.
+
+RCRLE_COMBAT1_J_02 = ~z~Y'all ain't nice.
+
+RCRLE_COMBAT1_J_03 = ~z~Grubby little bastards.
+
+RCRLE_COMBAT2_A_01 = ~z~Where you got the wagon, eh?
+
+RCRLE_COMBAT2_A_02 = ~z~Where's the damn wagon?
+
+RCRLE_COMBAT2_J_01 = ~z~Where you got the wagon, eh?
+
+RCRLE_COMBAT2_J_02 = ~z~Where's the damn wagon?
+
+RCRLE_IG1_1 = ~z~Oh no you don't, you... stop!
+
+RCRLE_IG1_2 = ~z~Get down, that's our wagon now, get down!
+
+RCRLE_LHORSE_A_1 = ~z~If the doctor asks, there was one horse when I found you.
+
+RCRLE_LHORSE_J_1 = ~z~If the doctor asks, there was one horse when I found you.
+
+RCRLE_RATTACK_A_1 = ~z~Just leave it alone won't you?
+
+RCRLE_RATTACK_A_2 = ~z~What the hell you want with this thing?
+
+RCRLE_RATTACK_J_1 = ~z~Just leave it alone, will you?
+
+RCRLE_RATTACK_J_2 = ~z~What the hell you want with this thing?
+
+RCRLE_RDEAD_A_1 = ~z~That all of you? Shit.
+
+RCRLE_RDEAD_J_1 = ~z~That all of you? Shit.
+
+RCRLE_SEEWAG_A_1 = ~z~There it is.
+
+RCRLE_SEEWAG_J_1 = ~z~There it is.
+
+RCRLE_WAGON_A_1 = ~z~Okay, c'mon.
+
+RCRLE_WAGON_A_2 = ~z~Get you back to the doctor.
+
+RCRLE_WAGON_J_1 = ~z~Okay, c'mon.
+
+RCRLE_WAGON_J_2 = ~z~Get you back to the doctor.
+

@@ -1,0 +1,972 @@
+NASPR_1_ANIMAL_01 = ~z~Bad luck there, critter, but I'm just surviving here, same as you.
+
+NASPR_1_ANIMAL_02 = ~z~Hush, won't be long now, all over soon.
+
+NASPR_1_ANIMAL_03 = ~z~I'll make it quick for you, if I can...
+
+NASPR_1_BANTANI_01 = ~z~~sl:0.0:2.9~Put up a struggle, didn't it? Still, what do you expect?~sl:0.6~They know what's coming...
+
+NASPR_1_BANTANI_02 = ~z~~sl:0.0:1.0~I need a drink.~sl:0.6~Damn thing scratched me good.
+
+NASPR_1_BANTANI_03 = ~z~~sl:0.0:3.4~I am dog tired after getting the door closed on that one.~sl:0.5~Hell, I'm just dog tired.
+
+NASPR_1_BANTCMP_01 = ~z~Ever wonder how the hell you ended up doing this?
+
+NASPR_1_BANTCMP_02 = ~z~~sl:0.0:3.5~Damn, I miss my ranch, least it was an honest living.~sl:0.8~Then... look who the hell I'm talking to.
+
+NASPR_1_BANTCMP_03 = ~z~I'm done after this. No more.
+
+NASPR_1_BANTQUT_01 = ~z~Come on, pipe down!
+
+NASPR_1_BANTQUT_02 = ~z~Shut up will ya?
+
+NASPR_1_BANTQUT_03 = ~z~Enough with the damn racket!
+
+NASPR_1_CMBTANI_01 = ~z~Come here!
+
+NASPR_1_CMBTANI_02 = ~z~You won't feel a thing!
+
+NASPR_1_CMBTANI_03 = ~z~Alright, just take it easy!
+
+NASPR_1_CMBTANI_04 = ~z~Stay still, dammit!
+
+NASPR_1_CMBTANI_05 = ~z~I gotcha!
+
+NASPR_1_CMBT_01 = ~z~You shoulda stayed outta this!
+
+NASPR_1_CMBT_02 = ~z~See that cage? Gonna be your home for a good long while!
+
+NASPR_1_CMBT_03 = ~z~You can take that hide from my cold dead hands!
+
+NASPR_1_CMBT_04 = ~z~I ain't letting you have this one without a fight!
+
+NASPR_1_CMBT_05 = ~z~You think you could just walk in here and take our prize?
+
+NASPR_1_DANGER_01 = ~z~Oh shit! It's loose!
+
+NASPR_1_DANGER_02 = ~z~They opened the goddamn cage!
+
+NASPR_1_DANGER_03 = ~z~Eyes up! These morons just set it free!
+
+NASPR_1_HARMLSS_01 = ~z~Dammit, they sprung it free!
+
+NASPR_1_HARMLSS_02 = ~z~It's out, goddammit!
+
+NASPR_1_HARMLSS_03 = ~z~They let it go, don't let it get too far!
+
+NASPR_1_HIDEPLY_01 = ~z~They're here for our game!
+
+NASPR_1_HIDEPLY_02 = ~z~Are you gonna just let 'em take our game?
+
+NASPR_1_HIDEPLY_03 = ~z~That game is ours and it's gonna stay that way!
+
+NASPR_1_HIDETNT_01 = ~z~They don't lay so much as a hand on that animal, am I understood?
+
+NASPR_1_HIDETNT_02 = ~z~All part of the job, boys!
+
+NASPR_1_HIDETNT_03 = ~z~Not getting squeamish on me, are ya? Take 'em down!
+
+NASPR_1_HIDETNT_04 = ~z~Dig in! We didn't track this thing down just to hand it over!
+
+NASPR_1_HIDETNT_05 = ~z~This is it! If we lose that hide, we get nothing!
+
+NASPR_1_TRCKATK_01 = ~z~Oh shit! It's got me!
+
+NASPR_1_TRCKATK_02 = ~z~Hey! It's on me!
+
+NASPR_1_TRCKATK_03 = ~z~I'm in trouble here!
+
+NASPR_1_TRCKMVE_01 = ~z~It's on the move, stay downwind!
+
+NASPR_1_TRCKMVE_02 = ~z~It's moving, keep up!
+
+NASPR_1_TRCKMVE_03 = ~z~Don't let it get too far ahead!
+
+NASPR_1_TRCKSTP_01 = ~z~Right there! Let's take it down!
+
+NASPR_1_TRCKSTP_02 = ~z~Now's our chance!
+
+NASPR_1_TRCKSTP_03 = ~z~It's stopped, let's move!
+
+NASPR_2_ANIMAL_01 = ~z~Devilish thing, ain't ya?
+
+NASPR_2_ANIMAL_02 = ~z~What's in that head of yours, huh?
+
+NASPR_2_ANIMAL_03 = ~z~Still got some fight in ya, huh?
+
+NASPR_2_BANTANI_01 = ~z~This one looks real healthy.
+
+NASPR_2_BANTANI_02 = ~z~Hear a lot a folks will want this one.
+
+NASPR_2_BANTANI_03 = ~z~I'd keep it myself if I ain't need the money.
+
+NASPR_2_BANTCMP_01 = ~z~Never thought I'd be doing this to earn...
+
+NASPR_2_BANTCMP_02 = ~z~Been round these animals so long, we be smelling just like 'em.
+
+NASPR_2_BANTCMP_03 = ~z~~sl:1.0~Funny how this work make you feel too tired to sleep.
+
+NASPR_2_BANTQUT_01 = ~z~Hey! Quiet.
+
+NASPR_2_BANTQUT_02 = ~z~Hush it.
+
+NASPR_2_BANTQUT_03 = ~z~~sl:0.0:1.0~No. No!~sl:0.4~Calm.
+
+NASPR_2_CMBTANI_01 = ~z~Yeah... I'mma own you.
+
+NASPR_2_CMBTANI_02 = ~z~~sl:0.0:0.9~Here now, that's right.~sl:0.6~Come get me!
+
+NASPR_2_CMBTANI_03 = ~z~Oh, I ain't running. You don't bother me none!
+
+NASPR_2_CMBTANI_04 = ~z~I put you down! Hear that?
+
+NASPR_2_CMBTANI_05 = ~z~You ain't wearing me out!
+
+NASPR_2_CMBT_01 = ~z~I'mma cage you up after we through.
+
+NASPR_2_CMBT_02 = ~z~Soon as we done, I'mma feed you to this one here.
+
+NASPR_2_CMBT_03 = ~z~This here is mine. Got it?
+
+NASPR_2_CMBT_04 = ~z~Bear or bandit... it ain't getting got!
+
+NASPR_2_CMBT_05 = ~z~Same as I taking care of critters... I take care of you!
+
+NASPR_2_DANGER_01 = ~z~Shit, damn thing got free!
+
+NASPR_2_DANGER_02 = ~z~Hey! Hey! Shit...
+
+NASPR_2_DANGER_03 = ~z~Oh no. You can't be out. Hey!
+
+NASPR_2_HARMLSS_01 = ~z~~sl:0.0:1.0~Ah...~sl:~Now how in the hell?
+
+NASPR_2_HARMLSS_02 = ~z~~sl:0.0:0.5~You?~sl:0.8~You's more trouble than you's worth.
+
+NASPR_2_HARMLSS_03 = ~z~Ah, goddamn!
+
+NASPR_2_HIDEPLY_01 = ~z~Hey! We gotta protect what's ours!
+
+NASPR_2_HIDEPLY_02 = ~z~Look! Fix your guns on 'em, we'll lose that thing.
+
+NASPR_2_HIDEPLY_03 = ~z~Best get blasting if we finna keep that critter.
+
+NASPR_2_HIDETNT_01 = ~z~Shoot 'em up! We not 'bout to lose out to these fools!
+
+NASPR_2_HIDETNT_02 = ~z~Them just some gutless thieves! Show 'em hell!
+
+NASPR_2_HIDETNT_03 = ~z~Think they can rob us? Make 'em pay in blood.
+
+NASPR_2_HIDETNT_04 = ~z~Come on! Blast them fools!
+
+NASPR_2_HIDETNT_05 = ~z~They ain't seen nothing! Give 'em all we got!
+
+NASPR_2_TRCKATK_01 = ~z~~sl:0.0:1.0~Hey...~sl:~I need a hand here!
+
+NASPR_2_TRCKATK_02 = ~z~Can ya'll help me out?
+
+NASPR_2_TRCKATK_03 = ~z~This thing got me, help!
+
+NASPR_2_TRCKMVE_01 = ~z~That thing's fast. Keep eyes on it.
+
+NASPR_2_TRCKMVE_02 = ~z~There it go. Need to keep on it.
+
+NASPR_2_TRCKMVE_03 = ~z~Wherever it's heading, we follow.
+
+NASPR_2_TRCKSTP_01 = ~z~Quick, while it ain't moving. Let's get it.
+
+NASPR_2_TRCKSTP_02 = ~z~Look, it's all still like. Now's the time.
+
+NASPR_2_TRCKSTP_03 = ~z~~sl:0.0:3.0~You see here? There might not be another chance after this.~sl:0.4~Go for it.
+
+NASPR_3_ANIMAL_01 = ~z~Don't get all squirrelly in there! Need your pelt in one piece.
+
+NASPR_3_ANIMAL_02 = ~z~You gonna make me a rich man.
+
+NASPR_3_ANIMAL_03 = ~z~My finger still hurts like hell. Stupid critter.
+
+NASPR_3_BANTANI_01 = ~z~~sl:0.7:1.7~I hate when we gotta bring 'em in alive.~sl:0.76~Never been bit by a corpse.
+
+NASPR_3_BANTANI_02 = ~z~Got me some blisters traipsing all after this one.
+
+NASPR_3_BANTANI_03 = ~z~~sl:0.0:4.0~This one better pay a whole lot more than the last. What a bust that was.~sl:0.68~Just a regular goddamn squirrel, worth due south of nothing.
+
+NASPR_3_BANTCMP_01 = ~z~~sl:0.0:4.8~Y'all hear about some crazy lady thinks she's friends with all the critters and she gotta save 'em or something?~sl:0.87~I wonder how much her hide is worth...
+
+NASPR_3_BANTCMP_02 = ~z~~sl:0.0:1.1~Anyone else hungry?~sl:0.6~Anytime we put a critter in there, I get hungry.
+
+NASPR_3_BANTCMP_03 = ~z~~sl:0.0:2.2~Boy, am I sick of sleeping outdoors.~sl:0.45~Give me a roof and a warm bed any damn day.
+
+NASPR_3_BANTQUT_01 = ~z~Hey shut up in there!
+
+NASPR_3_BANTQUT_02 = ~z~Pipe down in there!
+
+NASPR_3_BANTQUT_03 = ~z~Damn noisy critter, shut up!
+
+NASPR_3_CBMANI_01 = ~z~Damn critter!
+
+NASPR_3_CBMANI_02 = ~z~Come here, let's get this over with.
+
+NASPR_3_CBMANI_03 = ~z~Oh, you don't scare me!
+
+NASPR_3_CBMANI_04 = ~z~Right here!
+
+NASPR_3_CBMANI_05 = ~z~Squirrelly bastard, hold still while I shoot you.
+
+NASPR_3_CMBT_01 = ~z~I got bullets enough for another critter like you!
+
+NASPR_3_CMBT_02 = ~z~You really here to die over a critter?
+
+NASPR_3_CMBT_03 = ~z~You messed with the wrong damn feller!
+
+NASPR_3_CMBT_04 = ~z~You really fixing to steal off us?
+
+NASPR_3_CMBT_05 = ~z~You're just one more scalp!
+
+NASPR_3_DANGER_01 = ~z~Shit! Cage is open!
+
+NASPR_3_DANGER_02 = ~z~Dammit, they loosed it!
+
+NASPR_3_DANGER_03 = ~z~We got trouble, critter's loose!
+
+NASPR_3_HARMLSS_01 = ~z~Ah hell, it got out!
+
+NASPR_3_HARMLSS_02 = ~z~Dammit to hell, the cage is open!
+
+NASPR_3_HARMLSS_03 = ~z~Don't lose sight of that critter!
+
+NASPR_3_HIDEPLY_01 = ~z~We got competition! Get on 'em!
+
+NASPR_3_HIDEPLY_02 = ~z~These here is some thieves, boys!
+
+NASPR_3_HIDEPLY_03 = ~z~They here for one thing, don't let 'em have it!
+
+NASPR_3_HIDETNT_01 = ~z~Send 'em packing!
+
+NASPR_3_HIDETNT_02 = ~z~No one steals from us and lives to brag about it!
+
+NASPR_3_HIDETNT_03 = ~z~Make 'em bleed for coming here!
+
+NASPR_3_HIDETNT_04 = ~z~Just another animal, boys! Skin 'em!
+
+NASPR_3_HIDETNT_05 = ~z~Lay 'em out and we'll throw 'em on the fire!
+
+NASPR_3_TRCKATK_01 = ~z~It's on me, boys!
+
+NASPR_3_TRCKATK_02 = ~z~Oh shit, it's coming for me!
+
+NASPR_3_TRCKATK_03 = ~z~I got a problem right here!
+
+NASPR_3_TRCKMVE_01 = ~z~It's moving again!
+
+NASPR_3_TRCKMVE_02 = ~z~It's off! Stay on it!
+
+NASPR_3_TRCKMVE_03 = ~z~Don't lose sight of it!
+
+NASPR_3_TRCKSTP_01 = ~z~There, here's our chance.
+
+NASPR_3_TRCKSTP_02 = ~z~Over there, let's take it while we got the chance.
+
+NASPR_3_TRCKSTP_03 = ~z~It's stopped, we gotta do it now.
+
+NASPR_4_ANIMAL_01 = ~t~~sl:0.0:1.8~In Spanish: I understand you, you know.~sl:1.1~Better than you understand yourself.
+
+NASPR_4_ANIMAL_02 = ~t~~sl:0.0:3.7~In Spanish: You have any friends we should know about? Eh?~sl:0.8~Someone beautiful like you?
+
+NASPR_4_ANIMAL_03 = ~t~~sl:0.0:1.3~In Spanish: I tell you a secret, my friend.~sl:0.5:3.3~You are better company than any one of those fools.~sl:0.6~Better conversation, too.
+
+NASPR_4_BANTANI_01 = ~z~~sl:0.0:2.8~It is a fine catch. I've had finer,~sl:~but this will fetch a good price.
+
+NASPR_4_BANTANI_02 = ~t~~sl:0.0:1.4~You think this one put up a fight?~sl:0.4~In Spanish: Hm, you fools know nothing. I have scars you wouldn't believe...
+
+NASPR_4_BANTANI_03 = ~z~~sl:0.0:2.0~It gave you a good run today, eh, John?~sl:0.4~You should have listened to me, make it come to you!
+
+NASPR_4_BANTCMP_01 = ~z~~sl:0.0:2.3~I think this will be my last hunt with you, friends.~sl:0.6:3.4~I have heard some rumors from the north, a very special hunt.~sl:0.5~A little far from home for you, I think.
+
+NASPR_4_BANTCMP_02 = ~z~Speaking for myself? This one was too easy.
+
+NASPR_4_BANTCMP_03 = ~z~~sl:0.0:2.1~Can you believe that marshal tried to arrest us?~sl:0.4~Out here, on his own, with only a pistol and a strong word? Descansa en paz, idiota.
+
+NASPR_4_BANTQUT_01 = ~t~In Spanish: Ay! Be quiet!
+
+NASPR_4_BANTQUT_02 = ~t~In Spanish: Quiet in there!
+
+NASPR_4_BANTQUT_03 = ~t~In Spanish: You are not helping yourself in there!
+
+NASPR_4_CMBTANI_01 = ~t~In Spanish: That's it, my friend! Fight!
+
+NASPR_4_CMBTANI_02 = ~t~In Spanish: Come here!
+
+NASPR_4_CMBTANI_03 = ~t~In Spanish: Take it easy, beautiful!
+
+NASPR_4_CMBTANI_04 = ~t~In Spanish: I'll get you now, my friend!
+
+NASPR_4_CMBTANI_05 = ~t~In Spanish: You won't escape me!
+
+NASPR_4_CMBT_01 = ~z~Oh, you're dead now!
+
+NASPR_4_CMBT_02 = ~z~You are not in your own house here, my friend!
+
+NASPR_4_CMBT_03 = ~t~~sl:0.8~In Spanish: Today the lamb comes to the wolf, eh?
+
+NASPR_4_CMBT_04 = ~z~You think you can rob me?
+
+NASPR_4_CMBT_05 = ~z~You deserve nothing more than the beast in that cage!
+
+NASPR_4_DANGER_01 = ~z~Idiota! The cage is open!
+
+NASPR_4_DANGER_02 = ~z~Carajo! They opened the cage!
+
+NASPR_4_DANGER_03 = ~z~ We have a problem here! The cage is open!
+
+NASPR_4_HARMLSS_01 = ~z~Everyone! Our prize is loose!
+
+NASPR_4_HARMLSS_02 = ~z~The cage is open, get after it!
+
+NASPR_4_HARMLSS_03 = ~z~Don't let it get away!
+
+NASPR_4_HIDEPLY_01 = ~z~They're here to steal from us! Start shooting!
+
+NASPR_4_HIDEPLY_02 = ~z~Are you going to let them steal our kill?
+
+NASPR_4_HIDEPLY_03 = ~z~Don't let them get anywhere near that cage!
+
+NASPR_4_HIDETNT_01 = ~z~We have the upper hand here!
+
+NASPR_4_HIDETNT_02 = ~z~Fight! Fight or I kill you myself!
+
+NASPR_4_HIDETNT_03 = ~z~Don't give them an inch!
+
+NASPR_4_HIDETNT_04 = ~z~Come on, we have brought down bigger kills than this!
+
+NASPR_4_HIDETNT_05 = ~z~You run into their bullets or mine! You choose!
+
+NASPR_4_TRCKATK_01 = ~z~Hey! It's on me!
+
+NASPR_4_TRCKATK_02 = ~z~Shit! Help!
+
+NASPR_4_TRCKATK_03 = ~z~Dammit! It jumped me!
+
+NASPR_4_TRCKMVE_01 = ~z~It's on the move again!
+
+NASPR_4_TRCKMVE_02 = ~z~Stay with it!
+
+NASPR_4_TRCKMVE_03 = ~z~Keep up!
+
+NASPR_4_TRCKSTP_01 = ~z~You see it? It stopped over there.
+
+NASPR_4_TRCKSTP_02 = ~z~It's stopped, move in.
+
+NASPR_4_TRCKSTP_03 = ~z~Right there, it's stopped moving.
+
+NASPR_5_ANIMAL_01 = ~z~~sl:0.0:1.0~You put up a good fight...~sl:0.9~same as anyone does when they see them bars.
+
+NASPR_5_ANIMAL_02 = ~z~~sl:0.0:1.1~Don't get too comfy in there...~sl:0.5~gonna be a rough trip from here on out.
+
+NASPR_5_ANIMAL_03 = ~z~~sl:0.0:1.4~You know...~sl:~almost gives me pause putting you in there.
+
+NASPR_5_BANTANI_01 = ~z~~sl:0.0:2.6~Well, this one gave us some legwork...~sl:0.9~but it still beats hauling timber.
+
+NASPR_5_BANTANI_02 = ~z~I nearly put a bullet through this one's skull, it was so damn feisty.
+
+NASPR_5_BANTANI_03 = ~z~~sl:0.0:3.2~You know, I put highwaymen behind bars with less fuss~sl:~than that there critter.
+
+NASPR_5_BANTCMP_01 = ~z~~sl:0.0:1.8~Anything that keeps me away from city life,~sl:0.5~even spending time with you mongrels.
+
+NASPR_5_BANTCMP_02 = ~z~Can breathe easy out here, you know?
+
+NASPR_5_BANTCMP_03 = ~z~~sl:0.0:3.4~To think, I used to make a living putting a bullet in folks like us.~sl:1.5~Some living.
+
+NASPR_5_BANTQUT_01 = ~z~Lord have mercy, would you be quiet in there?
+
+NASPR_5_BANTQUT_02 = ~z~~sl:0.0:2.3~Would you just curl up and go to sleep or something?~sl:~Christ alive...
+
+NASPR_5_BANTQUT_03 = ~z~~sl:0.0:1.7~You make one more noise...~sl:~and it ain't too late to turn you in dead!
+
+NASPR_5_CMBT_01 = ~z~Oh, you came to the wrong store here, my friend.
+
+NASPR_5_CMBT_02 = ~z~You figured we was just gonna roll over, huh?
+
+NASPR_5_CMBT_03 = ~z~You gonna rue the day you figured you'd steal from us!
+
+NASPR_5_CMBT_04 = ~z~My days of mercy for thieves like you are long gone.
+
+NASPR_5_CMBT_05 = ~z~Been a while since I shot something that walks on two feet.
+
+NASPR_5_DANGER_01 = ~z~Idiot! They opened the cage!
+
+NASPR_5_DANGER_02 = ~z~~sl:0.0:0.9~Dammit!~sl:~Cage is open, buckle up!
+
+NASPR_5_DANGER_03 = ~z~Oh, we got trouble now! Cage is open!
+
+NASPR_5_HARMLSS_01 = ~z~~sl:0.0:0.6~Oh, for the love of...~sl:1.0~They sprung it!
+
+NASPR_5_HARMLSS_02 = ~z~~sl:0.0:1.0~Hey, hey!~sl:~Dammit, the cage!
+
+NASPR_5_HARMLSS_03 = ~z~You piece of shit! The cage!
+
+NASPR_5_HIDEPLY_01 = ~z~They're here to scalp us fellers! Open up!
+
+NASPR_5_HIDEPLY_02 = ~z~~sl:0.0:1.2~I smell thieving, boys!~sl:0.5~Get up and get at 'em!
+
+NASPR_5_HIDEPLY_03 = ~z~~sl:0.0:1.9~Seems to me we're being robbed here, boys!~sl:0.4~How d'y'all feel about that?
+
+NASPR_5_HIDETNT_01 = ~z~Stay together! Use your numbers!
+
+NASPR_5_HIDETNT_02 = ~z~Concentrate your fire, idiots!
+
+NASPR_5_HIDETNT_03 = ~z~These ain't no dopey critters, boys! Tighten up!
+
+NASPR_5_HIDETNT_04 = ~z~Can we work together here, goddammit?
+
+NASPR_5_HIDETNT_05 = ~z~What's the matter, fellers? Don't like it when they shoot back?
+
+NASPR_5_TRCKANI_01 = ~z~~sl:0.0:0.6~Easy now...~sl:0.7~I'm not gonna hurt you!
+
+NASPR_5_TRCKANI_02 = ~z~Take it slow there...
+
+NASPR_5_TRCKANI_03 = ~z~Shh... it won't hurt!
+
+NASPR_5_TRCKANI_04 = ~z~Hey! Met your match right here.
+
+NASPR_5_TRCKANI_05 = ~z~Gonna have your hide!
+
+NASPR_5_TRCKATK_01 = ~z~Shit! It's on me!
+
+NASPR_5_TRCKATK_02 = ~z~Dammit, it got me, fellers!
+
+NASPR_5_TRCKATK_03 = ~z~A little help!
+
+NASPR_5_TRCKMVE_01 = ~z~On the move!
+
+NASPR_5_TRCKMVE_02 = ~z~It's moving off!
+
+NASPR_5_TRCKMVE_03 = ~z~Keep up, it's moving on!
+
+NASPR_5_TRCKSTP_01 = ~z~Right there. Move in!
+
+NASPR_5_TRCKSTP_02 = ~z~Y'all see it? Let's go, before it moves again.
+
+NASPR_5_TRCKSTP_03 = ~z~Get on it fellers, while we got the chance.
+
+NASPR_6_ANIMAL_01 = ~z~~sl:0.0:2.5~Be skinning you tomorrow, critter. Fair's fair...~sl:0.6~I know you'd do the same to me if you had half a chance.
+
+NASPR_6_ANIMAL_02 = ~z~~sl:0.0:1.5~When I bed down tonight,~sl:0.0:2.6~don't you start with no howling and yowling.~sl:0.3~I need my damn sleep, y'hear?
+
+NASPR_6_ANIMAL_03 = ~z~~sl:0.0:3.0~Bet you thought you was the toughest damn critter around, didn't ya?~sl:0.5~No mercy out here.
+
+NASPR_6_BANTANI_01 = ~z~~sl:0.0:1.4~We just selling the hide, right?~sl:0.5~Them ribs is going begging?
+
+NASPR_6_BANTANI_02 = ~z~~sl:0.0:3.0~That critter cost us nothing but a drop of sweat and some rope...~sl:0.0:2.7~and now some chump is gonna trade a stack of bills for it.~sl:0.8~Rich folks is stupid.
+
+NASPR_6_BANTANI_03 = ~z~~sl:0.0:1.3~Y'all hear Billy the other day?~sl:0.5:2.1~Saying he didn't have the stomach for it no more?~sl:0.4:1.2~Stomach for what?~sl:0.6:1.9~Just work, same as any other.~sl:0.5~Probably for the best that cougar got him.
+
+NASPR_6_BANTCMP_01 = ~z~~sl:0.0:2.1~Ever take a step back and look at us?~sl:0.5:4.3~Just the other day we was a bunch of grown men running round after a damn beaver.~sl:0.6~Lord... I'm glad my pa ain't alive to see that.
+
+NASPR_6_BANTCMP_02 = ~z~~sl:0.0:2.1~Maybe we missing a trick, y'all.~sl:0.0:5.0~M-maybe we just take a regular animal, color it, and sell it on as a freak.~sl:0.7~Don't tell me it don't make sense.
+
+NASPR_6_BANTCMP_03 = ~z~~sl:0.0:2.9~If I never see Lemoyne again it'll be too damn soon.~sl:0.4:2.3~Every time I'm back it's worse than it was before.~sl:0.3~And I'd sooner sit in that damn cage.
+
+NASPR_6_BANTQUT_01 = ~z~Hey! Hush up!
+
+NASPR_6_BANTQUT_02 = ~z~Oh, hush up in there.
+
+NASPR_6_BANTQUT_03 = ~z~Would you hush in there?
+
+NASPR_6_CMBTANI_01 = ~z~Put your damn teeth away, critter!
+
+NASPR_6_CMBTANI_02 = ~z~Don't you try nothing!
+
+NASPR_6_CMBTANI_03 = ~z~Come on, critter, I got you.
+
+NASPR_6_CMBTANI_04 = ~z~Come to papa, come on!
+
+NASPR_6_CMBTANI_05 = ~z~I caught a dozen like you!
+
+NASPR_6_CMBT_01 = ~z~Oh, you ain't gonna make it outta here!
+
+NASPR_6_CMBT_02 = ~z~We got a bunch of thieves we already buried over yonder.
+
+NASPR_6_CMBT_03 = ~z~~sl:0.0:2.3~You gonna sneak in after we done all the hard work?~sl:0.4~I don't think so.
+
+NASPR_6_CMBT_04 = ~z~Nobody squeezes me! Nobody!
+
+NASPR_6_CMBT_05 = ~z~Goddamn bushwacker. I'll give your bones to the critter.
+
+NASPR_6_DANGER_01 = ~z~Bad news! It's loose!
+
+NASPR_6_DANGER_02 = ~z~~sl:0.0:0.8~Uh-oh!~sl:~It got free!
+
+NASPR_6_DANGER_03 = ~z~They set it free! Get ready.
+
+NASPR_6_HARMLSS_01 = ~z~Ah hell no! They opened it up.
+
+NASPR_6_HARMLSS_02 = ~z~The critter's loose!
+
+NASPR_6_HARMLSS_03 = ~z~Cage is open! Where'd it go?
+
+NASPR_6_HIDEPLY_01 = ~z~They gonna take what's ours if we let 'em!
+
+NASPR_6_HIDEPLY_02 = ~z~You gonna let 'em walk in here and take that hide?
+
+NASPR_6_HIDEPLY_03 = ~z~Shit! Don't let 'em get to the cage!
+
+NASPR_6_HIDETNT_01 = ~z~If they take that animal, I'll make you wish they'd killed you!
+
+NASPR_6_HIDETNT_02 = ~z~You gonna bend over for these fools?
+
+NASPR_6_HIDETNT_03 = ~z~Step up fellers! You loot whatever you kill!
+
+NASPR_6_HIDETNT_04 = ~z~Don't you give 'em an inch.
+
+NASPR_6_HIDETNT_05 = ~z~This is your payday, fellers! Now fight for it.
+
+NASPR_6_TRCKATK_01 = ~z~Oh hell! Fellers!
+
+NASPR_6_TRCKATK_02 = ~z~Shit! Help!
+
+NASPR_6_TRCKATK_03 = ~z~Boys get over here! I got trouble!
+
+NASPR_6_TRCKMVE_01 = ~z~We moving again. Keep up.
+
+NASPR_6_TRCKMVE_02 = ~z~Stay on it.
+
+NASPR_6_TRCKMVE_03 = ~z~Don't let it get too far away.
+
+NASPR_6_TRCKSTP_01 = ~z~It stopped! Move in.
+
+NASPR_6_TRCKSTP_02 = ~z~It's taking a break! Now's our chance.
+
+NASPR_6_TRCKSTP_03 = ~z~Stopped just over there! Get on it.
+
+NASPR_7_ANIMAL_01 = ~z~It was you or me, critter. You didn't stand a chance. No siree.
+
+NASPR_7_ANIMAL_02 = ~z~You know, you critters sure are stinkier than I figured from the books.
+
+NASPR_7_ANIMAL_03 = ~z~Count yourself lucky. I killed hundreds just like you. Hundreds...
+
+NASPR_7_BANTANI_01 = ~z~~sl:0.0:1.6~Another day, another hide.~sl:0.0:2.6~All the same to men like us. Ain't that right, fellers?~sl:1.2:0.6~Fellers?~sl:0.9~Ain't that right?
+
+NASPR_7_BANTANI_02 = ~z~~sl:0.0:2.8~Look, I know you was only teasing me earlier, but...~sl:0.0:2.9~I really didn't shit my britches when we put it in the cage, alright?~sl:0.0:1.9~I passed gas something fierce, I admit.~sl:0.5~But that was all it was.
+
+NASPR_7_BANTANI_03 = ~z~~sl:0.0:2.0~Hey fellers, is Tom gonna be alright?~sl:0.4~That snakebite looked pretty bad, going all yellow and green.
+
+NASPR_7_BANTCMP_01 = ~z~~sl:0.0:1.4~You fellers been doing this for long?~sl:0.6:1.4~Seem real experienced...~sl:1.3:0.6~Fellers?~sl:1.4~Am I talking too much again?
+
+NASPR_7_BANTCMP_02 = ~z~~sl:0.0:4.0~This is the life, hey, boys? Just us and the open skies.~sl:~And the insect bites. Lord, the insect bites.
+
+NASPR_7_BANTCMP_03 = ~z~~sl:0.0:0.6~Hey fellers?~sl:0.7:1.6~See them special bullets you gave me?~sl:0.4~They seem awful quiet when they go off... you sure they're the right ones?
+
+NASPR_7_BANTQUT_01 = ~z~Hey, shut up in there!
+
+NASPR_7_BANTQUT_02 = ~z~~sl:0.0:2.2~Hey! Pipe down before I pipe you down!~sl:0.4~Yeah...
+
+NASPR_7_BANTQUT_03 = ~z~Hey, quit it! Can't hear myself think out here.
+
+NASPR_7_CMBTANI_01 = ~z~I got you now.
+
+NASPR_7_CMBTANI_02 = ~z~Right between your eyes, critter!
+
+NASPR_7_CMBTANI_03 = ~z~Not long now, ugly.
+
+NASPR_7_CMBTANI_04 = ~z~Stay still, dammit!
+
+NASPR_7_CMBTANI_05 = ~z~You'll be one hell of a trophy.
+
+NASPR_7_CMBT_01 = ~z~What the hell did you come here for?
+
+NASPR_7_CMBT_02 = ~z~Just... go away!
+
+NASPR_7_CMBT_03 = ~z~You ain't taking it!
+
+NASPR_7_CMBT_04 = ~z~That hide is ours, dammit.
+
+NASPR_7_CMBT_05 = ~z~You ain't taking what's ours.
+
+NASPR_7_DANGER_01 = ~z~Oh, no, no, no! It's free!
+
+NASPR_7_DANGER_02 = ~z~Oh shit! They opened the cage!
+
+NASPR_7_DANGER_03 = ~z~Everyone! The cage is open!
+
+NASPR_7_HARMLSS_01 = ~z~Damn... they opened up the cage!
+
+NASPR_7_HARMLSS_02 = ~z~Shit... our critter's about to get free!
+
+NASPR_7_HARMLSS_03 = ~z~The cage is open! Don't let it get away!
+
+NASPR_7_HIDEPLY_01 = ~z~They're gonna take our game! Stop 'em!
+
+NASPR_7_HIDEPLY_02 = ~z~They're here for the hide! Get 'em!
+
+NASPR_7_HIDEPLY_03 = ~z~Don't let 'em get to the game!
+
+NASPR_7_HIDETNT_01 = ~z~Come on fellers! Put 'em down!
+
+NASPR_7_HIDETNT_02 = ~z~Show 'em they made a mistake coming here.
+
+NASPR_7_HIDETNT_03 = ~z~Are you gonna let 'em take what's yours?
+
+NASPR_7_HIDETNT_04 = ~z~This is it, fellers! Time to earn that game all over again!
+
+NASPR_7_HIDETNT_05 = ~z~It's us or them.
+
+NASPR_7_TRCKATK_01 = ~z~Shit! Help!
+
+NASPR_7_TRCKATK_02 = ~z~It's on me! It's on me!
+
+NASPR_7_TRCKATK_03 = ~z~Fellers? Help!
+
+NASPR_7_TRCKMVE_01 = ~z~On the move again!
+
+NASPR_7_TRCKMVE_02 = ~z~It's moving. Keep up!
+
+NASPR_7_TRCKMVE_03 = ~z~~sl:0.0:0.7~There!~sl:~Don't let it get out of sight!
+
+NASPR_7_TRCKSTP_01 = ~z~Hey! Right there!
+
+NASPR_7_TRCKSTP_02 = ~z~It's stopped moving.
+
+NASPR_7_TRCKSTP_03 = ~z~~sl:0.0:0.8~It's taking a break...~sl:0.6~there!
+
+NASPR_8_ANIMAL_01 = ~z~~sl:0.0:3.3~Oh, your fur, now that's valuable.~sl:0.6:3.1~Grind up your bones, some folk buy 'em for medicine.~sl:0.6:2.2~I'll eat your tongue, of course.~sl:0.5~Yep, ain't none of you going to waste.
+
+NASPR_8_ANIMAL_02 = ~z~~sl:0.0:4.6~My pa used to kill your kind, you know. And his pa before him.~sl:0.5:2.0~Used a bayonet... from the war.~sl:0.7~So, you could say spilling your guts is a family tradition.
+
+NASPR_8_ANIMAL_03 = ~z~~sl:0.0:3.4~You just count yourself lucky I didn't blind you just to get you in the cage.~sl:0.0:3.8~Ain't no one paying for your eyes... makes your kind easier to handle, too.~sl:0.8~I still might, so behave yourself.
+
+NASPR_8_BANTANI_01 = ~z~~sl:0.0:3.5~If we chucked a burning log in the cage there, what do you think it'd do?~sl:0.8~You reckon it'd try to put it out?
+
+NASPR_8_BANTANI_02 = ~z~~sl:0.0:1.4~You reckon it's afraid in there?~sl:0.5:1.7~I don't reckon they know what afraid is.~sl:0.5~Lucky, I say.
+
+NASPR_8_BANTANI_03 = ~z~~sl:0.0:3.8~I bled one of 'em out once. Like with a pig, you know.~sl:~I tell ya, I was surprised how long it took. Tender though.
+
+NASPR_8_BANTCMP_01 = ~z~~sl:0.0:3.0~I met a swivel-eyed feller in Blackwater once,~sl:0.0:2.3~tried to convince me everything got a soul.~sl:0.5:2.3~Y'know, even mice and such.~sl:0.6~I told him ain't nothing got a soul, least of all city folk.
+
+NASPR_8_BANTCMP_02 = ~z~~sl:0.0:2.6~Y'all see Clive sneaking in that cage last night?~sl:0.6:4.5~Don't deny it, Clive. Long as it don't hurt the pelt, you do what you want with it.
+
+NASPR_8_BANTCMP_03 = ~z~~sl:0.0:2.1~Mustn't forget to check that trap in the morning.~sl:0.9~See what we got for dinner.
+
+NASPR_8_BANTQUT_01 = ~z~You don't pipe down in there I'll turn that cage into a goddamn oven!
+
+NASPR_8_BANTQUT_02 = ~z~Oh, for the love of... shut up!
+
+NASPR_8_BANTQUT_03 = ~z~~sl:0.0:1.8~Shut up in there!~sl:0.0:3.1~Or we'll let Clive drop his pants and have his wicked way with ya!
+
+NASPR_8_CMBTANI_01 = ~z~Oh, I'll skin you so good.
+
+NASPR_8_CMBTANI_02 = ~z~C'mere, you're gonna make me rich.
+
+NASPR_8_CMBTANI_03 = ~z~Come on, take a bite!
+
+NASPR_8_CMBTANI_04 = ~z~I'm right here!
+
+NASPR_8_CMBTANI_05 = ~z~What you got, critter?
+
+NASPR_8_CMBT_01 = ~z~I will feed what's left of you to that damn critter!
+
+NASPR_8_CMBT_02 = ~z~I got me a bear trap with your name on it.
+
+NASPR_8_CMBT_03 = ~z~I'm thinking yours'll be the rarest hide there is.
+
+NASPR_8_CMBT_04 = ~z~I will skin you!
+
+NASPR_8_CMBT_05 = ~z~I'll chop you up into bait, my friend.
+
+NASPR_8_DANGER_01 = ~z~Heads up fellers! Cage is open!
+
+NASPR_8_DANGER_02 = ~z~~sl:0.6~They dumb enough to open the cage!
+
+NASPR_8_DANGER_03 = ~z~Watch out boys! We got an open cage!
+
+NASPR_8_HARMLSS_01 = ~z~Ah, hell! That critter's gonna hightail it now!
+
+NASPR_8_HARMLSS_02 = ~z~Shit... our critter's getting loose!
+
+NASPR_8_HARMLSS_03 = ~z~Cage is open! Keep your eyes peeled!
+
+NASPR_8_HIDEPLY_01 = ~z~I'd say they're here for our prize, fellers!
+
+NASPR_8_HIDEPLY_02 = ~z~You know how we feel about thieves, boys.
+
+NASPR_8_HIDEPLY_03 = ~z~Let's show these thieves some hurt.
+
+NASPR_8_HIDETNT_01 = ~z~Oh, you don't wanna know what I'll do if they take that animal!
+
+NASPR_8_HIDETNT_02 = ~z~I'm selling hide today, boys! Yours, or that critter's... you choose.
+
+NASPR_8_HIDETNT_03 = ~z~Fight to the last man!
+
+NASPR_8_HIDETNT_04 = ~z~Any of you so much as think about running, I will execute you myself.
+
+NASPR_8_HIDETNT_05 = ~z~~sl:0.0:2.6~That hide is worth more than every one of you put together.~sl:~Now fight!
+
+NASPR_8_TRCKATK_01 = ~z~Get-get off me! Help!
+
+NASPR_8_TRCKATK_02 = ~z~Shit! Get back!
+
+NASPR_8_TRCKATK_03 = ~z~Oh hell! Fellers!
+
+NASPR_8_TRCKMVE_01 = ~z~It's moving again.
+
+NASPR_8_TRCKMVE_02 = ~z~Stay with it!
+
+NASPR_8_TRCKMVE_03 = ~z~Keep on it.
+
+NASPR_8_TRCKSTP_01 = ~z~It's stopped. Let's go.
+
+NASPR_8_TRCKSTP_02 = ~z~It's taking a breather... move.
+
+NASPR_8_TRCKSTP_03 = ~z~~sl:0.0:0.6~It's stopped.~sl:0.7~Now's our chance.
+
+NASPR_9_ANIMAL_01 = ~z~~sl:0.0:1.5~It's nothing personal, my friend.~sl:1.0~Hunting you is just easier than town work...
+
+NASPR_9_ANIMAL_02 = ~z~~sl:0.0:3.0~I knew a priest who used to say only the beasts are free.~sl:1.4:2.1~But you don't look so free to me, eh, my friend?
+
+NASPR_9_ANIMAL_03 = ~z~~sl:0.0:2.0~You got your pound of flesh today, my friend.~sl:0.8~And tomorrow, we will have ours.
+
+NASPR_9_BANTANI_01 = ~z~~sl:0.0:1.9~There are other people looking for it, you know.~sl:0.5~We were lucky to find it first.
+
+NASPR_9_BANTANI_02 = ~z~~sl:0.0:2.3~A catch like this brings attention, my friends.~sl:0.5~Mark my words.
+
+NASPR_9_BANTANI_03 = ~z~~sl:0.0:1.5~We should get some dogs, eh?~sl:0.8~Think how much easier this would have been if we had dogs.
+
+NASPR_9_BANTCMP_01 = ~z~~sl:0.0:3.0~You know... it's a pleasure working with you, gentlemen.~sl:0.8~You ask very few questions, eh?
+
+NASPR_9_BANTCMP_02 = ~z~~sl:0.0:2.1~We move on after we sell this, yes?~sl:0.8~People have been asking questions in town...
+
+NASPR_9_BANTCMP_03 = ~z~~sl:0.0:2.1~We split the money evenly this time.~sl:~No matter who brings it in, we all get a fair share.
+
+NASPR_9_BANTQUT_01 = ~z~Would you be quiet in there?
+
+NASPR_9_BANTQUT_02 = ~z~~sl:0.0:0.7~Shut up!~sl:0.9~Stupid animal.
+
+NASPR_9_BANTQUT_03 = ~z~~sl:0.0:0.8~Be quiet!~sl:1.1~Come on, don't make us kill you.
+
+NASPR_9_CMBTANI_01 = ~z~~sl:0.5~Stay still!
+
+NASPR_9_CMBTANI_02 = ~z~I'll get you.
+
+NASPR_9_CMBTANI_03 = ~z~I'll wear you down.
+
+NASPR_9_CMBTANI_04 = ~z~Just roll over!
+
+NASPR_9_CMBTANI_05 = ~z~I'll bag you right here.
+
+NASPR_9_CMBT_01 = ~z~You can't steal from us!
+
+NASPR_9_CMBT_02 = ~z~You should never have come here!
+
+NASPR_9_CMBT_03 = ~z~If you want to live, start running!
+
+NASPR_9_CMBT_04 = ~z~We ain't so kind to thieves!
+
+NASPR_9_CMBT_05 = ~z~This is the last mistake you'll ever make!
+
+NASPR_9_DANGER_01 = ~z~~sl:0.0:1.0~We have a problem!~sl:0.5~Look at the cage!
+
+NASPR_9_DANGER_02 = ~z~Shit! The cage!
+
+NASPR_9_DANGER_03 = ~z~Idiots! It's loose!
+
+NASPR_9_HARMLSS_01 = ~z~Hey! They opened the cage!
+
+NASPR_9_HARMLSS_02 = ~z~Our game is about to get loose!
+
+NASPR_9_HARMLSS_03 = ~z~They released the catch!
+
+NASPR_9_HIDEPLY_01 = ~z~~sl:0.0:1.1~You know what they're here for!~sl:0.5~Now kill 'em!
+
+NASPR_9_HIDEPLY_02 = ~z~They're here for one thing... and we're not going to give it to them!
+
+NASPR_9_HIDEPLY_03 = ~z~Will you roll over for these lowdown thieves?
+
+NASPR_9_HIDETNT_01 = ~z~It's them or us. Now who's it to be?
+
+NASPR_9_HIDETNT_02 = ~z~Come on! These should be easy to hit.
+
+NASPR_9_HIDETNT_03 = ~z~Stand up for yourselves. Pathetic.
+
+NASPR_9_HIDETNT_04 = ~z~You call yourselves men? Shoot!
+
+NASPR_9_HIDETNT_05 = ~z~Don't hesitate. They won't.
+
+NASPR_9_TRCKATK_01 = ~z~Help! It's on me!
+
+NASPR_9_TRCKATK_02 = ~z~Oh shit! Help!
+
+NASPR_9_TRCKATK_03 = ~z~I need some help with this thing!
+
+NASPR_9_TRCKMVE_01 = ~z~It's moving again!
+
+NASPR_9_TRCKMVE_02 = ~z~Keep with it!
+
+NASPR_9_TRCKMVE_03 = ~z~Do you see it? It moved off again.
+
+NASPR_9_TRCKSTP_01 = ~z~You see it? It's stopped!
+
+NASPR_9_TRCKSTP_02 = ~z~Over there! It's stopped!
+
+NASPR_9_TRCKSTP_03 = ~z~It's stopped still! Over there.
+
+NASPR_IG4_LA1P1_1 = ~z~~sl:0.0:1.2~You or me.~sl:0.4:1.7~And it wasn't gonna be me...
+
+NASPR_IG4_LA1P2_1 = ~z~~sl:0.0:1.5~What'chya nibbling in there?
+
+NASPR_IG4_LA1P3_1 = ~z~How's that? You know who's boss now, huh?
+
+NASPR_IG4_LA1P4_1 = ~z~That's for the kick you gave me, eh?
+
+NASPR_IG4_LA1P5_1 = ~z~Hey, Payday! You all good in there?
+
+NASPR_IG4_LA1P6_1 = ~z~Hey! Not dozing off on us, are ya?
+
+NASPR_IG4_LA1P7_1 = ~z~Gotcha! Not so scary now, are ya?
+
+NASPR_IG4_LA1P8_1 = ~z~~sl:0.0:0.5~Boo!~sl:1.6:1.9~Oh, sorry, did I scare you?
+
+NASPR_IG4_LA1P9_1 = ~z~~sl:0.0:2.5~Hey! My hand still hurts, eh?~sl:1.5~Hijo de puta...
+
+NASPR_IG4_LA2P1_1 = ~z~~sl:0.0:2.5~Stop... scratching!~sl:~Driving me crazy.
+
+NASPR_IG4_LA2P2_1 = ~z~Hey... look alive now!
+
+NASPR_IG4_LA2P3_1 = ~z~Hey! Hey big feller! You still in there?
+
+NASPR_IG4_LA2P4_1 = ~z~Try biting me now! Piece of shit...
+
+NASPR_IG4_LA2P5_1 = ~z~You riled me up! Now, behave...
+
+NASPR_IG4_LA2P6_1 = ~z~Shut up when I'm sleeping! Damn!
+
+NASPR_IG4_LA2P7_1 = ~z~I ain't done with you! Not by a long shot...
+
+NASPR_IG4_LA2P8_1 = ~z~~sl:0.0:2.5~Good morning, dummy! Wake up call!~sl:1.8~Oh yeah...
+
+NASPR_IG4_LA2P9_1 = ~z~~sl:0.0:1.3~Knock, knock, knock!~sl:0.6:0.6~Anyone home?
+
+NASPR_IG4_LA3P1_1 = ~z~~sl:0.0:2.0~Stop scrabbling in there!~sl:0.5:1.0~Dammit to hell...
+
+NASPR_IG4_LA3P2_1 = ~z~You quit making a fuss in there!
+
+NASPR_IG4_LA3P3_1 = ~z~Not long now! You'll be dead, we'll be rich!
+
+NASPR_IG4_LA3P4_1 = ~z~Either calm down, or it's over for you.
+
+NASPR_IG4_LA3P5_1 = ~z~Prisoner report!
+
+NASPR_IG4_LA3P6_1 = ~z~Hey, hey, hey... don't drop no turd in that cage! Filthy animal.
+
+NASPR_IG4_LA3P7_1 = ~z~Count yourself lucky you're still breathing...
+
+NASPR_IG4_LA3P8_1 = ~z~~sl:0.0:2.7~Getting hot in there? Sure smells like it!
+
+NASPR_IG4_LA3P9_1 = ~z~~sl:0.0:1.4~Not so big now, huh?~sl:0.7~All the same in a cage...
+
+NASPR_IG4_SA1P1_1 = ~z~~sl:0.0:1.8~Nothing personal, lil' buddy...~sl:0.5~man's gotta eat.
+
+NASPR_IG4_SA1P2_1 = ~z~You just calm yourself right down, you hear?
+
+NASPR_IG4_SA1P3_1 = ~z~Tight fit in there, huh? It's how we like it...
+
+NASPR_IG4_SA1P4_1 = ~z~Hey... you almost got away, you know that? Almost...
+
+NASPR_IG4_SA1P5_1 = ~z~What're you up to in there, huh?
+
+NASPR_IG4_SA1P6_1 = ~z~~sl:0.0:1.7~Boys say you're too rare to eat...~sl:0.0:1.4~but I like 'em rare...
+
+NASPR_IG4_SA1P7_1 = ~z~I coulda caught you in my sleep...
+
+NASPR_IG4_SA1P8_1 = ~z~Hey... you ain't never seeing outside that box again, critter...
+
+NASPR_IG4_SA1P9_1 = ~z~Angry little shit, ain't you?
+
+NASPR_IG4_SA2P1_1 = ~z~~sl:0.0:0.5~Hey!~sl:2.0~I think it's dead...
+
+NASPR_IG4_SA2P2_1 = ~z~Not so wild now, is you?
+
+NASPR_IG4_SA2P3_1 = ~z~Thunderstorm!
+
+NASPR_IG4_SA2P4_1 = ~z~Nowhere to go!
+
+NASPR_IG4_SA2P5_1 = ~z~Rise and shine! Hanging day!
+
+NASPR_IG4_SA2P6_1 = ~z~What's... that... smell? Lord have mercy...
+
+NASPR_IG4_SA2P7_1 = ~z~Got you good! Ugly little bastard.
+
+NASPR_IG4_SA2P8_1 = ~z~~sl:0.0:0.8~One, two, three!~sl:1.1~Just... just checking in.
+
+NASPR_IG4_SA2P9_1 = ~z~~sl:0.0:1.0~Not long now!~sl:0.9~Little vermin...
+
+NASPR_IG4_SA3P1_1 = ~z~~sl:0.0:1.7~I tried to give you a chance...~sl:1.8~damn critter.
+
+NASPR_IG4_SA3P2_1 = ~z~Ain't no way you're escaping outta there. Got it?
+
+NASPR_IG4_SA3P3_1 = ~z~Survival of the biggest, little partner!
+
+NASPR_IG4_SA3P4_1 = ~z~I thought you would be a challenge... but no...
+
+NASPR_IG4_SA3P5_1 = ~z~Feel those walls closing in, huh?
+
+NASPR_IG4_SA3P6_1 = ~z~You stay clean, damn it. I want full price for you.
+
+NASPR_IG4_SA3P7_1 = ~z~I'm right here, little feller. Come on, bite me!
+
+NASPR_IG4_SA3P8_1 = ~z~~sl:0.0:1.5~Scuttle around in there all you want...~sl:0.5~you're cooked.
+
+NASPR_IG4_SA3P9_1 = ~z~~sl:0.0:1.7~I was told you were this big...
+
+NASPR_IG5_FA1P1_1 = ~z~~sl:0.0:2.0~This ain't how it's supposed to be...~sl:1.6~I'm sorry.
+
+NASPR_IG5_FA1P2_1 = ~z~Rest easy. Ain't no more harm coming to you no more.
+
+NASPR_IG5_FA1P3_1 = ~z~Worth your weight in goddamn gold. Or you better had be...
+
+NASPR_IG5_FA1P4_1 = ~t~In Spanish: To tell you the truth, I don't like playing prison warden to you, my friend.
+
+NASPR_IG5_FA1P5_1 = ~z~Thanks to you, I ain't doing another day's work for a month. Appreciate it.
+
+NASPR_IG5_FA1P6_1 = ~z~These digs sure is a step down for you, ain't they critter?
+
+NASPR_IG5_FA1P7_1 = ~z~You know, I couldn't hardly believe my eyes when I saw you...
+
+NASPR_IG5_FA1P8_1 = ~z~~sl:0.0:2.6~Shh... Don't tell 'em, but...~sl:0.5:1.6~I'm gonna eat your heart...
+
+NASPR_IG5_FA1P9_1 = ~z~Oh, you're going to fetch me a very pretty price. Beautiful.
+
+NASPR_IG5_FA2P1_1 = ~z~~sl:0.0:1.0~You alright in there?~sl:1.0~Well, look, it won't be long now, okay?
+
+NASPR_IG5_FA2P2_1 = ~z~Hey my friend, keep acting right and I'mma sneak you in something special.
+
+NASPR_IG5_FA2P3_1 = ~z~Keep snarling all you want, beautiful...
+
+NASPR_IG5_FA2P4_1 = ~t~~sl:0.0:1.7~I can hear you in there...~sl:~In Spanish: Hope dies slowly, eh, friend?
+
+NASPR_IG5_FA2P5_1 = ~z~You asleep in there? Good for you I guess... Sleep well.
+
+NASPR_IG5_FA2P6_1 = ~z~I hear ya in there. Licking them wounds, ain'tcha? It's alright... It's alright.
+
+NASPR_IG5_FA2P7_1 = ~z~You in there? How's a big thing like you stay so quiet? I don't get it.
+
+NASPR_IG5_FA2P8_1 = ~z~~sl:0.0:1.5~I hear you whimpering in there.~sl:0.4:2.6~Did y'all know these big bastards whimper?
+
+NASPR_IG5_FA2P9_1 = ~z~~sl:0.0:1.0~Still breathing?~sl:1.0~Good... you're worth more alive.
+
+NASPR_IG5_FA3P1_1 = ~z~~sl:0.0:3.2~Look, I... I wasn't always...~sl:0.7~ah, who the hell am I talking to?
+
+NASPR_IG5_FA3P2_1 = ~z~You in need of me, you just call out, alright?
+
+NASPR_IG5_FA3P3_1 = ~z~Up and down, up and down... you pace something fierce, huh?
+
+NASPR_IG5_FA3P4_1 = ~t~In Spanish: I have killed many of your kind... but none like you.
+
+NASPR_IG5_FA3P5_1 = ~z~Gone quiet, huh? Funny, men due to hang is the same...
+
+NASPR_IG5_FA3P6_1 = ~z~Just working yourself up to give us hell when we open that door, ain'tcha?
+
+NASPR_IG5_FA3P7_1 = ~z~Just think, nothing but this cage wall between your teeth and my throat... Now I got the power.
+
+NASPR_IG5_FA3P8_1 = ~z~~sl:0.0:2.4~I'd tell you it'd be quick, painless...~sl:0.8~but I'd be lying...
+
+NASPR_IG5_FA3P9_1 = ~z~You're going to pay for a long journey I need to take, my friend...
+

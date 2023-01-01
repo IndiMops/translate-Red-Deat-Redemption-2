@@ -1,0 +1,40 @@
+0x519F93ED = Пригоните повозку к ~COLOR_MP_OBJECTIVE~месту доставки~s~.
+
+0xCE2E9D95 = ~COLOR_ENEMY~~1~~s~ перехватывает повозку
+
+FETCH_MOVING_TARGET_HELP_RISKY_DELIVERY = Безрассудная езда или столкновения с препятствиями повредят транспортное средство.
+
+FETCH_MOVING_TARGET_HELP_WAGON_PRIMARY = Чтобы возобновить работу, украдите повозку и доставьте ее в лагерь ~COLOR_MP_OBJECTIVE~~BLIP_CAMP~~s~. Это также пополнит запас материалов торговой компании Криппса.
+
+FETCH_MOVING_TARGET_OBJ_DEFEND_WAGON = Защищайте ~COLOR_MP_OBJECTIVE_FRIENDLY~повозку~s~ по пути в ~COLOR_MP_OBJECTIVE~лагерь~s~.
+
+FETCH_MOVING_TARGET_OBJ_RETURN_SUPPLIES = Пригоните повозку ~1~.
+
+FETCH_MOVING_TARGET_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Соперники~s~ могут украсть повозку
+
+FETCH_MOVING_TARGET_SHARD_DESC_PRIMARY = Возьмите припасы
+
+FETCH_MOVING_TARGET_SHARD_WAGON_DESTROYED = Припасы уничтожены
+
+FETCH_MOVING_TARGET_SHARD_WAGON_ESCAPED = Повозка достигла места назначения
+
+FETCH_MOVING_TARGET_SHARD_WAGON_PRIMARY_FAIL = Припасы уничтожены
+
+FETCH_MOVING_TARGET_SHARD_WAGON_PRIMARY_PASS = Припасы доставлены
+
+FETCH_MOVING_TARGET_TICKER_DESTROY = Повозка уничтожена
+
+FETCH_MOVING_TARGET_TICKER_DESTROY_YOU = Вы уничтожили повозку.
+
+FETCH_MOVING_TARGET_WAGON = Сядьте в ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~.
+
+FETCH_MOVING_TARGET_WAGON_APPROACH = Доберитесь до ~COLOR_MP_OBJECTIVE_NEUTRAL~повозки~s~.
+
+FETCH_MOVING_TARGET_WAGON_FROM_POSSE = Заберите ~COLOR_MP_OBJECTIVE_ENEMY~повозку~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_MOVING_TARGET_WAGON_FROM_POSSE_PLURAL = Заберите ~COLOR_MP_OBJECTIVE_ENEMY~повозки~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_MOVING_TARGET_WAGON_FROM_POSSE_PVP = Украдите ~COLOR_MP_OBJECTIVE_ENEMY~повозку~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_MOVING_TARGET_WAGON_FROM_POSSE_PVP_PLURAL = Украдите ~COLOR_MP_OBJECTIVE_ENEMY~повозки~s~ у ~COLOR_ENEMY~~1~~s~.
+

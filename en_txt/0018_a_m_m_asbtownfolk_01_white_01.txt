@@ -1,0 +1,170 @@
+0x001D2CE7 = ~z~What do you want?
+
+0x00327F0C = ~z~Please!
+
+0x0299C29E = ~z~Alright, let's both us leave here alive.
+
+0x063B984E = ~z~You ain't back to trouble us more, is you?
+
+0x094AC5BA = ~z~Keep away!
+
+0x0B399387 = ~z~Come on now, that's enough.
+
+0x0DE21A6B = ~z~No, not me.
+
+0x0EDE8AC5 = ~z~Hey, hey! Ain't no need to draw, alright?
+
+0x1F03E701 = ~z~Get moving, will you?
+
+0x1F726A23 = ~z~Hey, you don't belong here.
+
+0x2A1A4169 = ~z~That's a damn shame.
+
+0x2E6E0058 = ~z~Well that ain't nice.
+
+0x2F224B6B = ~z~Oh, this isn't right! Put that damn gun down now!
+
+0x2FBAB05C = ~z~Take it, okay?
+
+0x3A8B283E = ~z~Stay away from me!
+
+0x3AE245B4 = ~z~Oh, dammit... I ain't no gunslinger... trust me.
+
+0x4EA3EE2E = ~z~Okay, it's yours.
+
+0x4EC5B926 = ~z~I ain't got nothing, I swear.
+
+0x6A71610D = ~z~You did this?
+
+0x6C07C012 = ~z~Hey, give that a rest!
+
+0x6ED7CA41 = ~z~Could you give me some room there, friend?
+
+0x7CAF1BFD = ~z~Please leave me alone!
+
+0x7E5564AD = ~z~Please stop that, now!
+
+0x8AB58E4C = ~z~You're acting a damn fool! Come on, and let's go.
+
+0x16EDFB25 = ~z~Okay, sure.
+
+0x21D4148F = ~z~Okay, okay, will this do? It's alI I got.
+
+0x35DD8C02 = ~z~Please, just let me go!
+
+0x40BCA4F5 = ~z~Hey, no need for that.
+
+0x52D3C923 = ~z~Well, that ain't nice.
+
+0x64CBCDF2 = ~z~Look out, please.
+
+0x87AFF411 = ~z~Oh goddamit, no!
+
+0x90BC521E = ~z~Whatever you say. I don't want no trouble.
+
+0x97F1D282 = ~z~I don't deserve this.
+
+0x317A6750 = ~z~Excuse me.
+
+0x492FD548 = ~z~Hey, what's wrong with you?
+
+0x606F66CF = ~z~Hey... why don't we walk on somewheres else?
+
+0x673D181A = ~z~I've had enough, where's the law?
+
+0x757BAE0F = ~z~Stop it, please!
+
+0x904B67DB = ~z~Good, I was worried things would get ugly.
+
+0x1505AE67 = ~z~Will you watch it?
+
+0x2909CF27 = ~z~Ain't you heard me? Stop that.
+
+0x6183B03F = ~z~We've all been there.
+
+0x7971BC77 = ~z~I'm calling the law for this.
+
+0x9767BAFD = ~z~Is this... your work?
+
+0x22003BFF = ~z~Ew, don't get your sick on me.
+
+0x65296DCE = ~z~Hey, no need for that.
+
+0x148220E7 = ~z~Whoa. You better get to a doctor quick.
+
+0x880053BF = ~z~I ain't afraid to fight back.
+
+0x973515B3 = ~z~~sl:0.4:0.0~Wow...~sl:2.1~Looks real nice.
+
+0x37505845 = ~z~You staring at me for a reason?
+
+0x44292899 = ~z~Ain't you gonna let me go?
+
+0x59691784 = ~z~No, you devil!
+
+0x95481721 = ~z~Would you mind backing off, please?
+
+0xA4FE6596 = ~z~I got nothing to give.
+
+0xA6DF13A1 = ~z~I'm done wasting time on your nonsense.
+
+0xA30BF6BD = ~z~I'm not one to blab, I swear.
+
+0xA61D2FAB = ~z~Oh, you're bleeding... you need to go see the doctor.
+
+0xAC1DD610 = ~z~Oh don't do that now, come on. Don't!
+
+0xAD28D7FF = ~z~~sl:0.0:1.0~Oh, Jesus Christ!~sl:1.4~Oh, that don't look...
+
+0xAD110D48 = ~z~Let me go!
+
+0xB4FD2FDD = ~z~I ain't paying any more attention to you.
+
+0xB8B95EEE = ~z~That ain't right.
+
+0xB18D1579 = ~z~Ain't you heard me, you got to go.
+
+0xB34C0936 = ~z~Just let me be, will you?
+
+0xB61D501C = ~z~Hey, calm down a second, will you?
+
+0xB461CD74 = ~z~Oh, goddammit, no!
+
+0xBA3DB43A = ~z~I wish you wouldn't follow me.
+
+0xBB592911 = ~z~Go on, you got to leave.
+
+0xBBA4495B = ~z~If I shoot, it's on your head.
+
+0xBDEBE088 = ~z~No! You devil!
+
+0xBEBB8E48 = ~z~Please, stop troubling folk.
+
+0xBF5C2FDC = ~z~Whoa-whoa, I, that looks pretty dangerous!
+
+0xBFEECAD9 = ~z~Er, hello again.
+
+0xC9E29FA1 = ~z~Don't need no more problems from you.
+
+0xC308B151 = ~z~You lost? Better get along now.
+
+0xC857F491 = ~z~Whoa! Wait a minute there.
+
+0xC93932B3 = ~z~Whatchu got me roped up for?
+
+0xD87A74B2 = ~z~You best stop before I get violent.
+
+0xDA9D2014 = ~z~M-maybe you oughta practice more before loading it up, huh?
+
+0xDD3CD897 = ~z~Come on, you don't want to get in a gunfight in your condition.
+
+0xE98DE3EC = ~z~Hey, let them alone.
+
+0xEA56F2CB = ~z~You don't look well enough for this sort of action.
+
+0xED902D3E = ~z~I will use this, I swear.
+
+0xEE66897A = ~z~Stop. Please.
+
+0xF1995037 = ~z~Hey, put that thing down, will you?
+

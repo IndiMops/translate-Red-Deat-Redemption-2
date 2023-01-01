@@ -1,0 +1,42 @@
+CCDNM_A_1 = ~z~Why Molly, you are a cruel, heartless woman.
+
+CCDNM_A_2 = ~z~Dutch van der Linde, I am nothing of the kind.
+
+CCDNM_A_3 = ~z~Then prove it.
+
+CCDNM_B_1 = ~z~~sl:0.0:1.2:1~Prove it again...
+
+CCDNM_B_2 = ~z~~sl:0.0:2.3~I think she'd prove the Earth was flat,~sl:0.3:1.4:1~if you said you cared for her.
+
+CCDNM_B_3 = ~z~But I do care... I do care...
+
+CCDNM_C_1 = ~z~
+
+CCDNM_C_2 = ~z~Are you laughing at us feeble-minded romantics again, Mr. Morgan?
+
+CCDNM_C_3 = ~z~Well, that's one way of describing you, but there's others...
+
+CCDNM_C_ALT_1 = ~z~
+
+CCDNM_C_ALT_2 = ~z~Are you laughing at us feeble-minded romantics again, Mr. Morgan?
+
+CCDNM_C_ALT_3 = ~z~Well that's one way of describing you, but there's others...
+
+CCDNM_C_ALT_4 = ~z~I don't pretend to understand what you mean,
+
+CCDNM_C_ALT_5 = ~z~~sl:0.0:3.5~but if it is brainless and heartless cruelty you're looking for,~sl:~and knowing you it probably is,
+
+CCDNM_C_ALT_6 = ~z~~sl:0.0:2.2:1~Bill and those boys are in town.
+
+CCDNM_D_1 = ~z~Well well well...
+
+CCDNM_D_2 = ~z~
+
+CCDNM_D_3 = ~z~
+
+CCDNM_WNT_ACTN_1 = ~z~I don't pretend to understand what you mean,
+
+CCDNM_WNT_ACTN_2 = ~z~~sl:0.0:3.5~but if it is brainless and heartless cruelty you're looking for,~sl:~and knowing you it probably is,
+
+CCDNM_WNT_ACTN_3 = ~z~~sl:0.0:2.2:1~Bill and those boys are in town.
+

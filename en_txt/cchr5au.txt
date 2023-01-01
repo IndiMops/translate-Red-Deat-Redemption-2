@@ -1,0 +1,28 @@
+CCHR5_ACTALT_1 = ~z~He's changed.
+
+CCHR5_ACTALT_2 = ~z~Shoulda let him die in Guarma... little sack of shit.
+
+CCHR5_ACT_1 = ~z~What's your problem, brother?
+
+CCHR5_ACT_2 = ~z~No problem.
+
+CCHR5_ACT_3 = ~z~No, you've got a problem... look at how you're acting.
+
+CCHR5_ACT_4 = ~z~I don't have a problem. Do you have a problem?
+
+CCHR5_ACT_5 = ~z~I don't know yet...
+
+CCHR5_ACT_6 = ~z~But use your brain, friend. Use your brain.
+
+CCHR5_ACT_7 = ~z~I'll use my brain, and you use yours.
+
+CCHR5_ACT_8 = ~z~Oh, you wanna die?
+
+CCHR5_ACT_9 = ~z~Not particularly.
+
+CCHR5_ACT_10 = ~z~You're making a dumb choice, man.
+
+CCHR5_ACT_11 = ~z~I made no choices.
+
+CCHR5_ACT_12 = ~z~
+

@@ -1,0 +1,126 @@
+BHPRO_14_IG2_1 = ~z~I heard that Laidlaw's being put up near Catfish Jacksons.
+
+BHPRO_14_IG2_2 = ~z~He's a piece of work, but he's still got friends...
+
+RBT12_CR_ILO_1A_1 = ~z~This bounty, Raider with all the m's and l's in his name... you must know something about him.
+
+RBT12_CR_ILO_1A_2 = ~z~Camille de Millemont. He's French, but he's no gentleman.
+
+RBT12_CR_ILO_1A_3 = ~z~Whole pack of Raiders are savages if you ask me. Good riddance to 'em.
+
+RBT12_CR_ILO_1J_1 = ~z~This bounty, Raider with all the m's and l's in his name... you must know something about him?
+
+RBT12_CR_ILO_1J_2 = ~z~Camille de Millemont. He's French, but he's no gentleman.
+
+RBT12_CR_ILO_1J_3 = ~z~Whole pack of Raiders are savages if you ask me. Good riddance to 'em.
+
+RBT12_CR_ILO_2A_1 = ~z~If I'm going to go after this bounty, the Raider, I'll need more information...
+
+RBT12_CR_ILO_2A_2 = ~z~The bounty's for De Millemont, you see, but... look, you won't find just him.
+
+RBT12_CR_ILO_2A_3 = ~z~He'll have a whole band of boys with him, so be wary.
+
+RBT12_CR_ILO_2A_4 = ~z~Hey, I'm always wary.
+
+RBT12_CR_ILO_2J_1 = ~z~If I'm gonna go after this bounty, the Raider... I'll need more information...
+
+RBT12_CR_ILO_2J_2 = ~z~The bounty's for De Millemont, you see, but... look, you won't find just him.
+
+RBT12_CR_ILO_2J_3 = ~z~He'll have a whole band of boys with him, so be wary.
+
+RBT12_CR_ILO_2J_4 = ~z~Hey, I'm always wary.
+
+RBT12_OUTRO_1 = ~z~Try looking for that one out by Catfish Jacksons.
+
+RBT12_OUTRO_2 = ~z~And when you get him and his cronies, tell them we're just railway workers here...
+
+RBT12_OUTRO_3 = ~z~not instruments of tyranny or however they phrase it. The imbeciles.
+
+RHO_ALD_ALIVE_01 = ~z~Small detail, but they need that one alive.
+
+RHO_ALD_ALIVE_02 = ~z~They're looking for that one alive, I believe. Do your utmost.
+
+RHO_ALD_DORA_01 = ~z~Feel free to kill them... poster says you can.
+
+RHO_ALD_DORA_02 = ~z~And it's dead or alive, in case you aren't much of a reader... I am... Trollope. Mostly.
+
+RHO_ALD_INSPECT_01 = ~z~Sizing that one up then are you? It's a decent bounty.
+
+RHO_ALD_INSPECT_02 = ~z~You looking at that poster? They're an ugly old thing, aren't they?
+
+RHO_ALD_INSPECT_03 = ~z~Quite some poster, eh? If I looked like that I would have pursued a more dishonest path myself...
+
+RHO_ALD_INSPECT_04 = ~z~Thinking of going after them, are you? I'd wager you're more than up to it.
+
+RHO_RNCH_1 = ~z~I happen to know that feller is farming the swamp... or trying to... up by Siltwater Strand.
+
+RHO_RNCH_2 = ~z~He's a bad egg. Fancy that? I seen him coming and going here, and I never had an inkling.
+
+RHO_RNCH_ILO_1A_1 = ~z~Mark Johnson, the bounty, what I need to know? I got to be wary of this one?
+
+RHO_RNCH_ILO_1A_2 = ~z~Just the other day, he took his son out on the rails.
+
+RHO_RNCH_ILO_1A_3 = ~z~He seemed nice enough... seemed... when quite clearly he is not.
+
+RHO_RNCH_ILO_1A_4 = ~z~It can be confusing.
+
+RHO_RNCH_ILO_1J_1 = ~z~Mark Johnson, the bounty, what I need to know? I got to be wary of this one?
+
+RHO_RNCH_ILO_1J_2 = ~z~Just the other day, he took his son out on the rails.
+
+RHO_RNCH_ILO_1J_3 = ~z~He seemed nice enough... seemed... when quite clearly he is not.
+
+RHO_RNCH_ILO_1J_4 = ~z~It can be confusing.
+
+RHO_RNCH_ILO_2A_1 = ~z~Anything else about this old bounty you got, Johnson?
+
+RHO_RNCH_ILO_2A_2 = ~z~I don't know what to tell you... it's a funny one...
+
+RHO_RNCH_ILO_2A_3 = ~z~man looks to have put roots down... worked hard... he's part of the community... almost.
+
+RHO_RNCH_ILO_2A_4 = ~z~You never can know a person, and I say that as a married man.
+
+RHO_RNCH_ILO_2J_1 = ~z~Anything else about this old bounty you got, Johnson?
+
+RHO_RNCH_ILO_2J_2 = ~z~I don't know what to tell you... it's a funny one...
+
+RHO_RNCH_ILO_2J_3 = ~z~man looks to have put roots down... worked hard... he's part of the community... almost.
+
+RHO_RNCH_ILO_2J_4 = ~z~You never can know a person, and I say that as a married man.
+
+RHO_TAKEP_A_01 = ~z~Well, I got a bounty to chase.
+
+RHO_TAKEP_A_02 = ~z~Guess they ain't gonna turn themselves in.
+
+RHO_TAKEP_J_01 = ~z~Well, I got a bounty to chase.
+
+RHO_TAKEP_J_02 = ~z~Guess they ain't gonna turn themselves in.
+
+RHO_TG14_OT_B2A_1 = ~z~What else I need to know about this feller with the bounty? Laidlaw.
+
+RHO_TG14_OT_B2A_2 = ~z~Well, he's a Scotsman.
+
+RHO_TG14_OT_B2A_3 = ~z~But most of the folks around here are as well... if you go back far enough. Good and bad.
+
+RHO_TG14_OT_B2A_4 = ~z~He's a rough feller in need of rough handling. I'm sure you understand.
+
+RHO_TG14_OT_B2J_1 = ~z~What else I need to know about this feller with the bounty? Laidlaw.
+
+RHO_TG14_OT_B2J_2 = ~z~Well, he's a Scotsman.
+
+RHO_TG14_OT_B2J_3 = ~z~But most of the folks around here are as well... if you go back far enough. Good and bad.
+
+RHO_TG14_OT_B2J_4 = ~z~He's a rough feller in need of rough handling. I'm sure you understand.
+
+RHO_TG14_OUT_BJ_1 = ~z~When I took the poster you said this bounty's got friends?
+
+RHO_TG14_OUT_BJ_2 = ~z~You his friend, that what you meant?
+
+RHO_TG14_OUT_BJ_3 = ~z~Me? Oh no, certainly not. I meant there's folk sympathetic to the man, and likely as not to be assisting him.
+
+RHO_TG14_OUT_B_1 = ~z~When I took the poster you said this bounty's got friends?
+
+RHO_TG14_OUT_B_2 = ~z~You his friend, that what you meant?
+
+RHO_TG14_OUT_B_3 = ~z~Me? Oh no, certainly not. I meant there's folk sympathetic to the man, and likely as not to be assisting him.
+

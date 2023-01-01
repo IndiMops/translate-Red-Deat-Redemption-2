@@ -1,0 +1,134 @@
+0x0030F335 = Jeb Phelps was escorted to safety
+
+0x012A969C = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~Capitale Stash~s~
+
+0x0233044C = Kill the ~COLOR_MP_OBJECTIVE_ENEMY~gang members~s~
+
+0x023F7D3F = You are escorting ~COLOR_MP_OBJECTIVE_FRIENDLY~Jeb~s~
+
+0x05DDD395 = Jeb Phelps lost
+
+0x06C418B9 = Take one of the dead bounty hunters to town and help ~COLOR_MP_OBJECTIVE_FRIENDLY~Jeb Phelps~s~ send his message to his former gang and the people of Van Horn.
+
+0x0C4C2F3B = Kill the ~COLOR_MP_OBJECTIVE_ENEMY~Lemoyne Raiders~s~ in ~COLOR_MP_OBJECTIVE~Fort Brennand~s~
+
+0x0D214497 = Focus on the clue
+
+0x1A64A37A = Inspect
+
+0x2BA4EC54 = Rescue Jeb Phelps before the bounty hunters turn him in, and work with him to earn his trust and steal from his former gang.
+
+0x2DA8A874 = Escort ~COLOR_MP_OBJECTIVE_FRIENDLY~Jeb Phelps~s~ to ~COLOR_MP_OBJECTIVE~Fort Brennand~s~
+
+0x3B1CA2E5 = You can use a lasso to drag one of the dead bounty hunters from horseback while escorting ~COLOR_MP_OBJECTIVE_FRIENDLY~Jeb Phelps~s~.
+
+0x4E21E43E = Pick up ~COLOR_MP_OBJECTIVE_FRIENDLY~Jeb~s~
+
+0x5B291A4C = Get on the horse
+
+0x5CC6A1A9 = ~COLOR_MP_OBJECTIVE_FRIENDLY~~1~~s~ inspected a clue
+
+0x6C3B178B = Rescue Jeb Phelps and earn his trust
+
+0x6C4A17FD = Find Jeb Phelps' Capitale Stash
+
+0x6CF1770C = Jeb Phelps escorted
+
+0x6D822D90 = Approach Jeb
+
+0x7D39424C = Regroup with ~COLOR_MP_OBJECTIVE_FRIENDLY~Jeb~s~ in ~COLOR_MP_OBJECTIVE~Fort Brennand~s~
+
+0x16EE93ED = Take out the bounty hunters and shoot the padlock on the wagon ~1b~ to release ~COLOR_MP_OBJECTIVE_FRIENDLY~Jeb Phelps~s~.
+
+0x28B95158 = Free Jeb Phelps from the wagon
+
+0x79F8B306 = Find and take the Gang Member to Jeb Phelps
+
+0x90F43B71 = Capitale Stash delivered
+
+0x99E47EF6 = Holster weapons and equipment before speaking with Martelli's associate.
+
+0x132F2A0C = While unarmed, use ~INPUT_INTERACT_LOCKON~ to lock on to ~COLOR_MP_OBJECTIVE_FRIENDLY~Jeb Phelps~s~ ~BLIP_AMBIENT_VIP~ and lead him yourself.
+
+0x179D2F20 = Wreak havoc on the town of ~COLOR_MP_OBJECTIVE~Van Horn~s~
+
+0x405D0CDA = ~COLOR_MP_OBJECTIVE_FRIENDLY~Jeb Phelps~s~ is following you.
+
+0x609E407A = Pick up the Capitale Stash
+
+0x661C9BFC = Return ~COLOR_MP_OBJECTIVE_FRIENDLY~Jeb~s~ to the ~COLOR_MP_OBJECTIVE~safe house~s~
+
+0x684B88C5 = Drop a dead bounty hunter in ~COLOR_MP_OBJECTIVE~Van Horn~s~
+
+0x812EFCE5 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~Capitale Stash~s~ to ~COLOR_MP_OBJECTIVE~Martelli's associate~s~
+
+0x4010EF13 = Jeb Phelps was killed
+
+0x5001BBF1 = Return ~COLOR_MP_OBJECTIVE_FRIENDLY~Jeb~s~ to the ~COLOR_MP_OBJECTIVE~safe house~s~
+
+0x7557DCE5 = ~COLOR_MP_OBJECTIVE_FRIENDLY~Jeb Phelps~s~ has gained the attention of Annesburg law. Locate and rescue him to learn the location of his gang's stash.
+
+0x7739C33E = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~gang member~s~
+
+0x7896A039 = Help protect ~COLOR_MP_OBJECTIVE_FRIENDLY~Jeb~s~
+
+0x8797D8CC = Set fire to the ~COLOR_MP_OBJECTIVE~house~s~
+
+0x63666D2E = Gang Member killed
+
+0x410686EB = Bring the ~COLOR_MP_OBJECTIVE_FRIENDLY~gang member~s~ to the ~COLOR_MP_OBJECTIVE~camp~s~
+
+0x3694138A = Capitale Stash not found
+
+0x8324787E = The gang's new leader is hiding in Butcher Creek. Bring him to ~COLOR_MP_OBJECTIVE_FRIENDLY~Jeb Phelps~s~ to force him to reveal the location of their stash.
+
+0x89865538 = Defend ~COLOR_MP_OBJECTIVE~Fort Brennand~s~ against the ~COLOR_MP_OBJECTIVE_ENEMY~law~s~
+
+0xA2FEDF86 = Gang Member delivered
+
+0xA7BEF3A1 = Go to ~COLOR_MP_OBJECTIVE~Annesburg~s~
+
+0xA84C619C = Drop the ~COLOR_MP_OBJECTIVE_FRIENDLY~gang member~s~
+
+0xA96CA542 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~Capitale Stash~s~
+
+0xA4375700 = ~1~ is escorting Jeb
+
+0xAF5DE870 = You are getting too far away from Jeb Phelps. Approach Jeb and get him to follow you.
+
+0xB5A6338F = Jeb Phelps was killed
+
+0xB89AB76E = Wait for the gang member to arrive
+
+0xB89B2466 = Capture the gang member before he escapes ~1b~.
+
+0xBDB7C753 = Hogtie the ~COLOR_MP_OBJECTIVE_NEUTRAL~gang member~s~
+
+0xC8BA8F74 = This blood is fresh and recently spilled. Use Eagle Eye to follow the trail and find ~COLOR_MP_OBJECTIVE_FRIENDLY~Jeb Phelps~s~.
+
+0xCECFB493 = Take one of the dead bounty hunters into Van Horn. Check your map to locate the bounty hunters' corpses.
+
+0xD6C8632A = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~gang member~s~
+
+0xD6CE86FF = Collect additional Fire Bottles ~BLIP_WEAPON_MOLOTOV~ to use when intimidating the people of Van Horn.
+
+0xD14BBA10 = Go to ~COLOR_MP_OBJECTIVE~Butcher Creek~s~
+
+0xDE0B7EBF = The target has arrived
+
+0xDE867C2E = Search the ~COLOR_MP_OBJECTIVE~area~s~ for Jeb Phelps
+
+0xE7D1A640 = Find and execute Jeb's former gang members that were working with the bounty hunters.
+
+0xE8D1B9CB = Shoot lanterns or throw Fire Bottles to start fires and lure the gang member back to Butcher Creek.
+
+0xE6947A7A = Press ~INPUT_INTERACT_HIT_CARRIABLE~ to hit the gang member and prevent them from escaping.
+
+0xF3CFCAD3 = You have killed Jeb Phelps
+
+0xF322662B = Follow the blood trail
+
+0xFCC69E3E = Shoot lanterns to start fires or use violence against the people of Van Horn to intimidate the town.
+
+0xFE3CEF9B = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of ~COLOR_MP_OBJECTIVE_FRIENDLY~Jeb Phelps~s~.
+

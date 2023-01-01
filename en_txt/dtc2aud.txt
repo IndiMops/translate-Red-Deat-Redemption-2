@@ -1,0 +1,670 @@
+DCH2ARRIVE_1 = ~z~You sure this place is empty?
+
+DCH2ARRIVE_2 = ~z~I ain't sure of nothing.
+
+DCH2ARRIVE_3 = ~z~Alright, let's leave the horses here and take a look.
+
+DCH2DOWNSTAIRB_1 = ~z~How's it looking up there?
+
+DCH2DOWNSTAIRB_2 = ~z~I think that's the lot. I didn't even have to shoot the last one.
+
+DCH2DOWNSTAIRB_3 = ~z~Good. Come help me with this, will you?
+
+DCH2DOWNSTAIR_1 = ~z~How's it looking up there?
+
+DCH2DOWNSTAIR_2 = ~z~I think we're clear.
+
+DCH2DOWNSTAIR_3 = ~z~Good. Come help me with this, will you?
+
+DCH2ENEMY1C_1 = ~z~Get out of here. Now! Go!
+
+DCH2ENEMY1C_2 = ~z~Okay, okay, I'm going.
+
+DCH2GETBODY2_01 = ~z~Can you grab that one there?
+
+DCH2GETBODY2_02 = ~z~Are you going to help me carry these, then?
+
+DCH2GETBODY2_03 = ~z~Hurry up, this feller's getting heavy.
+
+DCH2GETBODY_1 = ~z~~sl:0.0:2.8~Here, give me a hand moving these bodies.~sl:0.3~Don't want the others walking into this.
+
+DCH2GO_1 = ~z~Come on, John.
+
+DCH2GO_2 = ~z~This is crazy.
+
+DCH2JFOLLOW_1 = ~z~Follow me.
+
+DCH2JNREACT_1 = ~z~Damn it, still some here.
+
+DCH2JNREACT_2 = ~z~I can see that!
+
+DCH2_AFTKILL_1 = ~z~You think there's more of'em?
+
+DCH2_AFTKILL_2 = ~z~I'll check the house, you keep watch out here.
+
+DCH2_AGOUP_1 = ~z~Any more of you upstairs, I'm coming for you! You hear me?
+
+DCH2_ARESP_01 = ~z~Didn't you get the message last time?
+
+DCH2_ARESP_02 = ~z~Come out with your hands up, you can still walk out of here.
+
+DCH2_ARESP_03 = ~z~Dead or alive, you're leaving this place today.
+
+DCH2_ARESP_04 = ~z~Sorry, boys, this is ours now.
+
+DCH2_ARESP_05 = ~z~You fools should have left when you had the chance.
+
+DCH2_BODS_01 = ~z~Just dump it in the water.
+
+DCH2_BODS_02 = ~z~Throw it in the swamp, gators'll make quick work of it.
+
+DCH2_BODS_03 = ~z~You having trouble saying goodbye to your friend there?
+
+DCH2_CROC_1 = ~z~Gators'll be eating well today.
+
+DCH2_DNOTLEAVE_1 = ~z~What are you doing, Arthur? You and John need to get going. We have to move.
+
+DCH2_DUARTALKSHOUTED_1 = ~z~Can you believe that girl? ~rp~All I've got going on and she wants to talk.
+
+DCH2_DUARTALKSHOUTED_3 = ~z~I got far more important things to worry about right now than Molly O'Shea.
+
+DCH2_DUARTALKSHOUTED_4 = ~z~So... where are we going?
+
+DCH2_DUARTALKSHOUTED_5 = ~z~~sl:0.0:4.1~To take a look at ~rp~this 'Eighth Wonder of the Civilized World'~sl:~Saint Denis, I keep hearing about.
+
+DCH2_DUARTALKSHOUTED_8 = ~z~Not quite! ~rp~Good work back there, Arthur. ~rp~Everything went okay?
+
+DCH2_DUARTALKSHOUTED_11 = ~z~About what you'd expect. ~rp~He's taking it hard.
+
+DCH2_DUARTALKSHOUTED_12 = ~z~We are going to get that boy back, ~rp~whatever it takes.
+
+DCH2_DUARTALKSHOUTED_13 = ~z~~sl:0.0:4.0~I need you to start asking around in the city for Bronte, ~sl:~~rp~subtly of course... public places, ~rp~maybe start with the saloon.
+
+DCH2_DUARTALKSHOUTED_16 = ~z~~sl:0.0:4.4~I'm fairly sure nobody followed us. ~rp~We moved out fast.~sl:0.3~~rp~We should be safe for a few days here.
+
+DCH2_DUARTALKSHOUTED_18 = ~z~~sl:0.0:2.7:~I think we need to move a little further.~sl:0.2~~rp~Put some ocean between us and all this.
+
+DCH2_DUARTALKSHOUTED_19 = ~z~The mess with those two families... losing Sean... I see things differently now.
+
+DCH2_DUARTALKSHOUTED_20 = ~z~~sl:0.0:6.6~For a long time, ~rp~I truly believed a paradise lay somewhere in the west for us...~sl:0.3~~rp~but... I just don't know any more.
+
+DCH2_DUARTALKSHOUTED_21 = ~z~So we're leaving the country now?
+
+DCH2_DUARTALKSHOUTED_22 = ~z~Maybe. ~rp~I'm still thinking about it. ~rp~Whatever we do, we'll need more money.
+
+DCH2_DUARTALKSPOKEN_1 = ~z~~sl:0.0:1.4~Can you believe that girl?~sl:0.2~~rp~All I've got going on and she wants to talk.
+
+DCH2_DUARTALKSPOKEN_3 = ~z~~sl:0.0:3.4~I got far more important things to worry about right now~sl:~than Molly O'Shea.
+
+DCH2_DUARTALKSPOKEN_4 = ~z~So, where are we going?
+
+DCH2_DUARTALKSPOKEN_5 = ~z~~sl:0.0:3.8~To take a look at ~rp~this 'Eighth Wonder of the Civilized World'~sl:~Saint Denis, I keep hearing about.
+
+DCH2_DUARTALKSPOKEN_8 = ~z~Not quite... ~rp~good work back there, Arthur. ~rp~Everything went okay?
+
+DCH2_DUARTALKSPOKEN_11 = ~z~About what you'd expect. ~rp~He's taken it hard.
+
+DCH2_DUARTALKSPOKEN_12 = ~z~We're going to get that boy back, ~rp~whatever it takes.
+
+DCH2_DUARTALKSPOKEN_13 = ~z~~sl:0.0:3.4~I need you to start asking around in the city for Bronte,~sl:0.1~~rp~subtly of course... public places, ~rp~maybe start with the saloon.
+
+DCH2_DUARTALKSPOKEN_16 = ~z~~sl:0.0:4.2~I'm fairly sure nobody followed us. ~rp~We moved out fast.~sl:~~rp~We should be safe for a few days here.
+
+DCH2_DUARTALKSPOKEN_18 = ~z~~sl:0.0:2.5~I think we need to move a little further.~sl:0.4~~rp~Put some ocean between us and all of this.
+
+DCH2_DUARTALKSPOKEN_19 = ~z~~sl:0.0:3.8~The mess with those two families... losing Sean...~sl:1.0~I see things differently now.
+
+DCH2_DUARTALKSPOKEN_20 = ~z~~sl:0.0:2.9~For a long time, ~rp~I truly believed~sl:0.0:3.3~a paradise lay somewhere in the west for us...~sl:0.6~~rp~but I just... don't know any more.
+
+DCH2_DUARTALKSPOKEN_21 = ~z~So, we're leaving the country now?
+
+DCH2_DUARTALKSPOKEN_22 = ~z~~sl:0.0:3.2~Maybe. ~rp~I'm still thinking about it.~sl:1.2~~rp~Whatever we do, we'll need more money.
+
+DCH2_DUARTALK_2 = ~z~Everything okay with you two?
+
+DCH2_DUARTALK_6 = ~z~According to the map, ~rp~the road up this way should lead us right in there.
+
+DCH2_DUARTALK_7 = ~z~Alright, ~rp~I guess this day ain't over yet.
+
+DCH2_DUARTALK_9 = ~z~Few loose ends, nothing major.
+
+DCH2_DUARTALK_10 = ~z~And John?
+
+DCH2_DUARTALK_14 = ~z~Anyone who can put us in contact with him.
+
+DCH2_DUARTALK_15 = ~z~Of course. ~rp~And what about the Pinkertons?
+
+DCH2_DUARTALK_17 = ~z~And then?
+
+DCH2_DUARTALK_23 = ~z~In any case, ~rp~we have more pressing matters to attend to first.
+
+DCH2_DUMP_1 = ~z~Alright, this way. We'll dump the bodies in the swamp over there.
+
+DCH2_EARLYLEAVE_01 = ~z~Hey, where are you going?
+
+DCH2_EARLYLEAVE_02 = ~z~Where are you running off to?
+
+DCH2_EARLYLEAVE_03 = ~z~Get back here, Morgan.
+
+DCH2_GLD_1 = ~z~Finally some confederate gold.
+
+DCH2_JDWNWAIT_01 = ~z~You coming?
+
+DCH2_JDWNWAIT_02 = ~z~Everything alright up there?
+
+DCH2_JDWNWAIT_03 = ~z~What are you doing, Arthur?
+
+DCH2_JESUS_1 = ~z~Jesus.
+
+DCH2_JOHNGOES_1 = ~z~~sl:0.0:3.3~Okay, I can deal with the rest of the bodies.~sl:0.3~You go meet up with the caravan and guide them in.
+
+DCH2_JOHNGOES_2 = ~z~Alright, see you soon... I hope.
+
+DCH2_JVNOTLEAVE_1 = ~z~I thought you and John were going to find us a new spot?
+
+DCH2_KNIFE_01 = ~z~You're the one hiding, not me.
+
+DCH2_KNIFE_02 = ~z~Tough guy, are you?
+
+DCH2_KNIFE_03 = ~z~Oh I'm gonna be real happy to shut you up.
+
+DCH2_KNIFE_04 = ~z~Come and fight me then.
+
+DCH2_LNOTLEAVE_1 = ~z~We'll get packed up, but we need a new spot, Arthur.
+
+DCH2_LRESCAPE_1 = ~z~I got one who was trying to escape.
+
+DCH2_LRESCAPE_2 = ~z~I was letting him go.
+
+DCH2_LRESCAPE_3 = ~z~Too late now.
+
+DCH2_MNTUP_01 = ~z~Are we going, then?
+
+DCH2_MNTUP_02 = ~z~I thought we was in a hurry?
+
+DCH2_MNTUP_03 = ~z~Can we get this over with, Morgan?
+
+DCH2_ONH_01 = ~z~You need your horse, Arthur, get off there.
+
+DCH2_ONH_02 = ~z~What are you doing on that wagon? I want you on horseback.
+
+DCH2_ONH_03 = ~z~Will you get off of that and mount up?
+
+DCH2_PLRIDLE_01 = ~z~You going in then?
+
+DCH2_PLRIDLE_02 = ~z~I thought you said you were checking the house?
+
+DCH2_PLRIDLE_03 = ~z~I think I hear something, you should get in there.
+
+DCH2_PLRLEAVE_01 = ~z~We good? You searched the whole place?
+
+DCH2_PLRLEAVE_02 = ~z~I still hear voices in there, Arthur.
+
+DCH2_PLRLEAVE_03 = ~z~What's going on? You sure you checked all the rooms?
+
+DCH2_RCS1_IG2H_1 = ~z~Come on! Come on, boy!
+
+DCH2_RCS1_IG2I_1 = ~z~Come on...
+
+DCH2_RSC1_1 = ~z~It's gonna work out, John...
+
+DCH2_RSC1_2 = ~z~it's gonna work out, listen to Dutch.
+
+DCH2_RSC1_3 = ~z~I don't expect you to understand this...
+
+DCH2_RSC1_4 = ~z~but I have never been more proud of you...
+
+DCH2_RSC1_5 = ~z~than I am right now, brother.
+
+DCH2_RSC1_6 = ~z~You're doing the right thing.
+
+DCH2_RSC1_7 = ~z~If I don't get the boy back safe...
+
+DCH2_RSC1_8 = ~z~I'm...
+
+DCH2_RSC1_9 = ~z~She...
+
+DCH2_RSC1_10 = ~z~She'll kill us all.
+
+DCH2_RSC1_11 = ~z~I know, but...
+
+DCH2_RSC1_12 = ~z~looking at this logically, that boy is fine.
+
+DCH2_RSC1_13 = ~z~They took him to scare us.
+
+DCH2_RSC1_14 = ~z~Nobody takes a boy to harm him.
+
+DCH2_RSC1_15 = ~z~He's right, John.
+
+DCH2_RSC1_16 = ~z~What do you think, Arthur?
+
+DCH2_RSC1_17 = ~z~The boy'll be fine, but...
+
+DCH2_RSC1_18 = ~z~of course Marston's scared rotten.
+
+DCH2_RSC1_19 = ~z~We killed all those people...
+
+DCH2_RSC1_20 = ~z~we stirred up all that trouble...
+
+DCH2_RSC1_21 = ~z~for nothing.
+
+DCH2_RSC1_22 = ~z~No, no, not for nothing.
+
+DCH2_RSC1_23 = ~z~For living.
+
+DCH2_RSC1_24 = ~z~Now we get that boy back...
+
+DCH2_RSC1_25 = ~z~and we go.
+
+DCH2_RSC1_26 = ~z~Trust me.
+
+DCH2_RSC1_27 = ~z~Hey, Dutch.
+
+DCH2_RSC1_28 = ~z~We got a problem.
+
+DCH2_RSC1_29 = ~z~Not a problem...
+
+DCH2_RSC1_30 = ~z~visitors...
+
+DCH2_RSC1_31 = ~z~a solution.
+
+DCH2_RSC1_32 = ~z~Good day fine people.
+
+DCH2_RSC1_33 = ~z~Mr. Van der Linde.
+
+DCH2_RSC1_34 = ~z~Mr. Mathews, I presume.
+
+DCH2_RSC1_35 = ~z~And...
+
+DCH2_RSC1_36 = ~z~who are you?
+
+DCH2_RSC1_37 = ~z~Rip Van Winkle.
+
+DCH2_RSC1_38 = ~z~Huh...
+
+DCH2_RSC1_39 = ~z~good day, sir.
+
+DCH2_RSC1_40 = ~z~Agent Milton, Pinkerton...
+
+DCH2_RSC1_41 = ~z~Detective Agency.
+
+DCH2_RSC1_42 = ~z~Agent Ross.
+
+DCH2_RSC1_43 = ~z~Ah, Mr. Morgan...
+
+DCH2_RSC1_44 = ~z~nice to see you again.
+
+DCH2_RSC1_45 = ~z~And to what do we owe the pleasure...
+
+DCH2_RSC1_46 = ~z~Agent Moron?
+
+DCH2_RSC1_47 = ~z~I don't know if you're aware but this...
+
+DCH2_RSC1_48 = ~z~this is a civilized land now.
+
+DCH2_RSC1_49 = ~z~We didn't kill all them savages...
+
+DCH2_RSC1_50 = ~z~only to allow the likes of you...
+
+DCH2_RSC1_51 = ~z~to act like human dignity...
+
+DCH2_RSC1_52 = ~z~and basic decency was outmoded or not yet invented.
+
+DCH2_RSC1_53 = ~z~This thing...
+
+DCH2_RSC1_54 = ~z~it's done.
+
+DCH2_RSC1_55 = ~z~This place...
+
+DCH2_RSC1_56 = ~z~ain't no such thing as civilized.
+
+DCH2_RSC1_57 = ~z~It's man so in love with greed...
+
+DCH2_RSC1_58 = ~z~He has forgotten himself and found only appetites.
+
+DCH2_RSC1_59 = ~z~And as a consequence that lets you take what you please...
+
+DCH2_RSC1_60 = ~z~kill whom you...
+
+DCH2_RSC1_61 = ~z~please and hang the rest of us?
+
+DCH2_RSC1_62 = ~z~Who made you the messiah...
+
+DCH2_RSC1_63 = ~z~to these lost souls you've led so horribly astray?
+
+DCH2_RSC1_64 = ~z~I'm nothing but a seeker, Mr. Milton.
+
+DCH2_RSC1_65 = ~z~You ain't much of anything more than a killer, Mr. Van der Linde.
+
+DCH2_RSC1_66 = ~z~But I came to make a deal.
+
+DCH2_RSC1_67 = ~z~It's time.
+
+DCH2_RSC1_68 = ~z~You come with me...
+
+DCH2_RSC1_69 = ~z~and I give the rest of ya three days to run off...
+
+DCH2_RSC1_70 = ~z~disappear and go and live like human beings...
+
+DCH2_RSC1_71 = ~z~someplace else.
+
+DCH2_RSC1_72 = ~z~You came for me?
+
+DCH2_RSC1_73 = ~z~Risked life and limb in this den of lowlifes and murderers...
+
+DCH2_RSC1_74 = ~z~so that they might live and love?
+
+DCH2_RSC1_75 = ~z~Ain't that fine.
+
+DCH2_RSC1_76 = ~z~I don't wanna kill all these folk, Dutch...
+
+DCH2_RSC1_77 = ~z~just you.
+
+DCH2_RSC1_78 = ~z~In that case...
+
+DCH2_RSC1_79 = ~z~it'd be my honor...
+
+DCH2_RSC1_80 = ~z~to join you.
+
+DCH2_RSC1_81 = ~z~Excuse me, friends...
+
+DCH2_RSC1_82 = ~z~I have an appointment to keep with...
+
+DCH2_RSC1_83 = ~z~I think your new friend should leave now, Dutch.
+
+DCH2_RSC1_84 = ~z~You're making a big mistake...
+
+DCH2_RSC1_85 = ~z~all of you.
+
+DCH2_RSC1_86 = ~z~Yeah...
+
+DCH2_RSC1_87 = ~z~dreadful.
+
+DCH2_RSC1_88 = ~z~We have got something...
+
+DCH2_RSC1_89 = ~z~something to live and die for.
+
+DCH2_RSC1_90 = ~z~How awful for us, Mr. Milton.
+
+DCH2_RSC1_91 = ~z~Stop following us...
+
+DCH2_RSC1_92 = ~z~we'll be gone soon.
+
+DCH2_RSC1_93 = ~z~I'm afraid I can't...
+
+DCH2_RSC1_94 = ~z~and when I return I'll be with fifty men.
+
+DCH2_RSC1_95 = ~z~All of you will die.
+
+DCH2_RSC1_96 = ~z~Run away from this place, you fools.
+
+DCH2_RSC1_97 = ~z~Run!
+
+DCH2_RSC1_98 = ~z~Come on.
+
+DCH2_RSC1_99 = ~z~Get your damn hands off of me, boy.
+
+DCH2_RSC1_100 = ~z~What now?
+
+DCH2_RSC1_101 = ~z~We get outta here...
+
+DCH2_RSC1_102 = ~z~and quick.
+
+DCH2_RSC1_103 = ~z~Any ideas?
+
+DCH2_RSC1_104 = ~z~I know a big old house...
+
+DCH2_RSC1_105 = ~z~hidden in the swamps outside Saint Denis.
+
+DCH2_RSC1_106 = ~z~I'm sure they'll find us eventually...
+
+DCH2_RSC1_107 = ~z~but it should buy us a few days.
+
+DCH2_RSC1_108 = ~z~A few days is all we need.
+
+DCH2_RSC1_109 = ~z~It's a spot out by Shady Belle.
+
+DCH2_RSC1_110 = ~z~Lenny and I got into that dispute with the previous occupiers.
+
+DCH2_RSC1_111 = ~z~Place is well hidden.
+
+DCH2_RSC1_112 = ~z~You and Arthur ride out...
+
+DCH2_RSC1_113 = ~z~and make sure no one else has moved in.
+
+DCH2_RSC1_114 = ~z~Lenny...
+
+DCH2_RSC1_115 = ~z~you go follow those fools outta here...
+
+DCH2_RSC1_116 = ~z~make sure that they leave.
+
+DCH2_RSC1_117 = ~z~And, John...
+
+DCH2_RSC1_118 = ~z~we'll get Jack back and we'll get gone.
+
+DCH2_RSC1_119 = ~z~Rest of you get packing!
+
+DCH2_RSC1_IG0_1 = ~z~Aw, shit! It's them again! Boys, get ready!
+
+DCH2_RSC1_IG1_1 = ~z~Die! Oh shit...
+
+DCH2_RSC1_IG2A_1 = ~z~Where you creeps hiding? Come out where I can shoot you.
+
+DCH2_RSC1_IG2B_1 = ~z~You think you're tough, Yankee? Come in here and fight me like a man.
+
+DCH2_RSC1_IG2C_1 = ~z~Come on now, girly. Fight me like a goddamn man.
+
+DCH2_RSC1_IG2D_1 = ~z~Lady get in here and fight...
+
+DCH2_RSC1_IG2G_1 = ~z~That's it... how about we fight?
+
+DCH2_RSC1_IG2G_2 = ~z~With one of these...
+
+DCH2_RSC1_IG2G_3 = ~z~I'm going to skin you, you white trash maggot. Come on now.
+
+DCH2_RSC3A_1 = ~z~Welcome home...
+
+DCH2_RSC3A_2 = ~z~all of ya...
+
+DCH2_RSC3A_3 = ~z~to my humble abode.
+
+DCH2_RSC3A_4 = ~z~We got fine living.
+
+DCH2_RSC3A_5 = ~z~Ignore the corpses and the alligators
+
+DCH2_RSC3A_6 = ~z~it's paradise...
+
+DCH2_RSC3A_7 = ~z~I love it!
+
+DCH2_RSC3A_8 = ~z~Miss Grimshaw, Mr. Pearson...
+
+DCH2_RSC3A_9 = ~z~would you two kindly...
+
+DCH2_RSC3A_10 = ~z~work your magic?
+
+DCH2_RSC3A_11 = ~z~Arthur...
+
+DCH2_RSC3A_12 = ~z~take a ride with me.
+
+DCH2_RSC3A_13 = ~z~Sure.
+
+DCH2_RSC3A_14 = ~z~Come on...
+
+DCH2_RSC3A_15 = ~z~Dutch?
+
+DCH2_RSC3A_16 = ~z~Yes?
+
+DCH2_RSC3A_17 = ~z~Could I have a word with ya?
+
+DCH2_RSC3A_18 = ~z~Not now.
+
+DCH2_RSC3A_19 = ~z~Come on, Arthur.
+
+DCH2_RSC3_1 = ~z~You alive?
+
+DCH2_RSC3_2 = ~z~For now.
+
+DCH2_RSC3_3 = ~z~Think I preferred...
+
+DCH2_RSC3_4 = ~z~freezing to death on a mountain.
+
+DCH2_RSC3_5 = ~z~I know...
+
+DCH2_RSC3_6 = ~z~You gonna ride back, tell Dutch we're ready?
+
+DCH2_RSC3_7 = ~z~I'm gonna stay here, and clean up this mess.
+
+DCH2_RSC3_8 = ~z~Sure.
+
+DCH2_RSC4_1 = ~z~Okay, there she is...
+
+DCH2_RSC4_2 = ~z~a real city...
+
+DCH2_RSC4_3 = ~z~the future.
+
+DCH2_RSC4_4 = ~z~Big cities...
+
+DCH2_RSC4_5 = ~z~they're...
+
+DCH2_RSC4_6 = ~z~Always repellent?
+
+DCH2_RSC4_7 = ~z~Exactly.
+
+DCH2_RSC4_8 = ~z~I'll find you in there...
+
+DCH2_RSC4_9 = ~z~go see what you can figure out.
+
+DCH2_RSC4_10 = ~z~Yes.
+
+DCH2_SBRIDE1SHOUTED_3 = ~z~~sl:0.0:3.6~We will,~rp~ but we have to move everyone first...~sl:~before that bastard Milton comes back with an army.
+
+DCH2_SBRIDE1SHOUTED_7 = ~z~~sl:0.0:2.7~Smart?~rp~ Are you joking?~sl:0.5~~rp~We made too much noise once again.~rp~ We drew'em right to us.
+
+DCH2_SBRIDE1SHOUTED_8 = ~z~I mean,~rp~ how many people we kill in the past few weeks?
+
+DCH2_SBRIDE1SHOUTED_10 = ~z~~sl:0.0:3.7~It's Dutch playing his games. Hosea too.~sl:0.8:2.4~Getting involved with those two families.~sl:0.8~The master con men, working their magic...
+
+DCH2_SBRIDE1SHOUTED_11 = ~z~They thought there was a lot of gold in...
+
+DCH2_SBRIDE1SHOUTED_13 = ~z~~sl:0.0:4.1~Look, Marston,~rp~ I don't know what to tell you.~sl:~~rp~Things don't always work out, that ain't nothing new.
+
+DCH2_SBRIDE1SHOUTED_15 = ~z~We can't change what's done. We can only move on.
+
+DCH2_SBRIDE1SHOUTED_17 = ~z~~sl:0.0:6.4~Come on,~rp~ it ain't all bad.~rp~ We've had a rocky run, but we'll be okay.~sl:0.8~~rp~We'll get through it.
+
+DCH2_SBRIDE1SHOUTED_18 = ~z~Oh, Dutch'll fix it. Dutch will come up with a plan.
+
+DCH2_SBRIDE1SHOUTED_19 = ~z~~sl:0.0:4.6~Right now,~rp~ every plan gets us into worse trouble...~sl:0.2~and further from where we're meant to be going.
+
+DCH2_SBRIDE1SHOUTED_20 = ~z~You can't put all this on Dutch.~rp~ You're worked up and rightly so.
+
+DCH2_SBRIDE1SHOUTED_21 = ~z~Just~rp~ don't get too far into your head with all this or you'll never get out.
+
+DCH2_SBRIDE1SPOKEN_3 = ~z~~sl:0.0:3.3~We will,~rp~ but we have to move everyone first...~sl:~before that bastard Milton comes back with an army.
+
+DCH2_SBRIDE1SPOKEN_7 = ~z~~sl:0.0:2.4~Smart?~rp~ Are you joking?~sl:0.5~~rp~We made too much noise once again.~rp~ We drew'em right to us.
+
+DCH2_SBRIDE1SPOKEN_8 = ~z~I mean,~rp~ how many people we killed the past few weeks?
+
+DCH2_SBRIDE1SPOKEN_10 = ~z~~sl:0.0:3.5~It's Dutch playing his games. Hosea too.~sl:0.7:2.2~Getting involved with those two families.~sl:1.5~The master con men working their magic...
+
+DCH2_SBRIDE1SPOKEN_11 = ~z~They thought there was a lot of gold...
+
+DCH2_SBRIDE1SPOKEN_13 = ~z~~sl:0.0:2.4~Look, Marston,~rp~ I don't know what to tell you.~sl:0.5~~rp~Things don't always work out, that ain't nothing new.
+
+DCH2_SBRIDE1SPOKEN_15 = ~z~We can't change what's done, we can only move on.
+
+DCH2_SBRIDE1SPOKEN_17 = ~z~~sl:0.0:5.9~Come on,~rp~ it ain't all bad.~rp~ We've had a rocky run, but we'll be okay.~sl:~~rp~We'll get through it.
+
+DCH2_SBRIDE1SPOKEN_18 = ~z~~sl:0.9~Dutch'll fix it. Dutch'll come up with a big plan.
+
+DCH2_SBRIDE1SPOKEN_19 = ~z~~sl:0.0:3.8~Right now,~rp~ every plan gets us into worse trouble.~sl:0.4~We're getting further from where we're meant to be going.
+
+DCH2_SBRIDE1SPOKEN_20 = ~z~Now you can't put all this on Dutch.~rp~ You're worked up and rightly so.
+
+DCH2_SBRIDE1SPOKEN_21 = ~z~Just~rp~ don't get too far into your head with all this, or you'll never get out.
+
+DCH2_SBRIDE1_1 = ~z~It's gonna be alright, John.
+
+DCH2_SBRIDE1_2 = ~z~We should be going for Jack.
+
+DCH2_SBRIDE1_4 = ~z~We ain't no use to Jack in jail, or at the end of a rope.
+
+DCH2_SBRIDE1_5 = ~z~I don't even know what to think no more.
+
+DCH2_SBRIDE1_6 = ~z~Just gotta keep our cool,~rp~ be smart about this.
+
+DCH2_SBRIDE1_9 = ~z~Far too many.
+
+DCH2_SBRIDE1_12 = ~z~Yeah, they thought there was money.~rp~ Ain't there always?
+
+DCH2_SBRIDE1_14 = ~z~Jack's gone,~rp~ we lost Sean, Mac, Davey, Jenny... and for what?
+
+DCH2_SBRIDE1_16 = ~z~But one day we need to start learning from our mistakes.
+
+DCH2_SBRIDE1_22 = ~z~It's a goddamn mess.
+
+DCH2_SBRIDE2SHOUTED_5 = ~z~I sometimes wonder if things was ever the way we remembered 'em... if we were really ever who we thought we was.
+
+DCH2_SBRIDE2SHOUTED_8 = ~z~You know,~rp~ when I was lost on that mountain after Blackwater, part of me thought
+
+DCH2_SBRIDE2SHOUTED_10 = ~z~But some wolves thought otherwise. Look,~rp~ you're here now and this spot we're going to, it's close to Saint Denis.
+
+DCH2_SBRIDE2SHOUTED_15 = ~z~Probably moved on to one of their other hideouts, what's left of them. ~rp~It's where we got that dynamite for the bank job.
+
+DCH2_SBRIDE2SPOKEN_5 = ~z~~sl:0.0:4.2~I sometimes wonder if... things was ever the way we remembered 'em.~sl:0.4~If we were ever who we thought we was.
+
+DCH2_SBRIDE2SPOKEN_8 = ~z~You know,~rp~ when I was lost on that mountain after Blackwater, part of me thought...
+
+DCH2_SBRIDE2SPOKEN_10 = ~z~~sl:0.0:3.8~But some wolves thought otherwise. Look...~rp~~sl:0.8~you're here now and this spot we're going to, it's close to Saint Denis.
+
+DCH2_SBRIDE2SPOKEN_15 = ~z~~sl:0.0:3.3~Probably moved on to one of their other hideouts, what's left of them.~sl:0.5~~rp~It's where we got that dynamite for the bank job.
+
+DCH2_SBRIDE2_1 = ~z~That poor kid. We chose this life, he didn't.
+
+DCH2_SBRIDE2_2 = ~z~I don't know,~rp~ I think this life chose us.
+
+DCH2_SBRIDE2_3 = ~z~You, me, Dutch, Hosea... it's been a long time now.
+
+DCH2_SBRIDE2_4 = ~z~Sure has,~rp~ a lot's changed.
+
+DCH2_SBRIDE2_6 = ~z~Like I told you...~rp~ don't go down a rabbit hole with this, Marston. That won't help nothing.
+
+DCH2_SBRIDE2_7 = ~z~I treated Jack bad, Abigail too. I didn't want to believe he was mine.
+
+DCH2_SBRIDE2_9 = ~z~“I could just leave again and no one would ever know”.
+
+DCH2_SBRIDE2_11 = ~z~Soon as we get the others safe,~rp~ we'll find this Bronte and get Jack back.
+
+DCH2_SBRIDE2_12 = ~z~So what is this place?
+
+DCH2_SBRIDE2_13 = ~z~Lenny found it.~rp~ Big old rundown plantation house.
+
+DCH2_SBRIDE2_14 = ~z~Another gang was holed up there for a while but we sent them on their way.
+
+DCH2_SBRIDE2_16 = ~z~Shouldn't be any trouble,~rp~ just need to check it's all clear.
+
+DCH2_SBRIDE2_17 = ~z~Now where have I heard that before?
+
+DCH2_SEEHOUSE_1 = ~z~That's it up ahead.
+
+DCH2_SEEHOUSE_2 = ~z~Four walls and a roof,~rp~ we're moving up in the world.
+
+DCH2_SEEHOUSE_3 = ~z~You ain't seen inside it yet.
+
+DCH2_SETOFF_1 = ~z~Follow me, I know the way.
+
+DCH2_SWPRIDLE_01 = ~z~Come on, let's just get this over with.
+
+DCH2_SWPRIDLE_02 = ~z~Hurry up, Arthur, we gotta get this place cleaned up.
+
+DCH2_SWPRIDLE_03 = ~z~No point dragging this out.
+
+DCH2_TRACKB_1 = ~z~Alright, should be just down this path.
+
+DCH2_TRACK_1 = ~z~Alright, should be just down this path to the left here.
+
+DCH2_WINDOW_1 = ~z~Come on... sooner we get this done, the better.
+
+DCH_SNOTLEAVE_1 = ~z~John's waiting for you, Arthur, we need to clear out of here as fast as we can.
+

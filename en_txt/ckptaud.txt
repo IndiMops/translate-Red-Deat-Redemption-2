@@ -1,0 +1,904 @@
+CKPT2_CLMB_A_1 = ~z~Goddamit.
+
+CKPT2_CLMB_A_2 = ~z~What I got myself into?
+
+CKPT2_CLMB_J_1 = ~z~Goddamit.
+
+CKPT2_CLMB_J_2 = ~z~What have I got myself into?
+
+CKPT2_CON1_1 = ~z~Okay! Now find... the position... for the second... conductor.
+
+CKPT2_CON2_1 = ~z~Two down... and one... to go... and you're not dead... yet.
+
+CKPT2_CON3_1 = ~z~Marvelous... fantastical... return to the lab...
+
+CKPT2_CON4_1 = ~z~It's working... it's working... come down here... quick!
+
+CKPT2_CWAY2_1 = ~z~You're doing... a bang up... job.
+
+CKPT2_CWAY2_2 = ~z~Remember... this for the good... of all mankind.
+
+CKPT2_CWAY2_3 = ~z~You're better than my last assistant. I hope you live longer, too!
+
+CKPT2_CWAY3_1 = ~z~Life and death... the master equation... that unlocks everything...
+
+CKPT2_CWAY3_2 = ~z~We're so close now... can you feel it...
+
+CKPT2_CWAY3_3 = ~z~Hurry... the experiment... must... go on.
+
+CKPT2_CWAY4_1 = ~z~History is ours...
+
+CKPT2_CWAY4_2 = ~z~A momentous, momentous occasion...
+
+CKPT2_CWAY4_3 = ~z~The mysteries of nature... and life...
+
+CKPT2_CWAY4_4 = ~z~Glorious day!
+
+CKPT2_GOAWAY_01 = ~z~Go away. I have work to do!
+
+CKPT2_GOAWAY_02 = ~z~I don't need you, buffoon. The boy... he needs me.
+
+CKPT2_GOAWAY_03 = ~z~Come back another time...
+
+CKPT2_GOAWAY_04 = ~z~You make much nuisance, buffoon!
+
+CKPT2_SPOT_01 = ~z~That's it!
+
+CKPT2_SPOT_02 = ~z~You're there!
+
+CKPT2_SPOT_03 = ~z~It's glowing!
+
+CKPT2_TOW2_1 = ~z~~sl:0.0:3.8:1~The switches... are on... a circuit.
+
+CKPT2_TOW2_2 = ~z~~sl:0.0:5.0:1~Flick one switch on the array... and another might go off...
+
+CKPT2_TOW2_3 = ~z~~sl:0.0:7.9:1~you want the three illuminations... so flick the switches... 'til that is the outcome.
+
+CKPT2_TOW2_4 = ~z~Just tell me what goddamn one of these things to pull.
+
+CKPT2_TOW2_5 = ~z~~sl:0.0:5.3:1~I am an invisible wave engineer, not an electrical technician... okay?
+
+CKPT2_TOW2_6 = ~z~You better hope I ain't fried up here!
+
+CKPT2_TOW2_J_1 = ~z~The switches... are on... a circuit.
+
+CKPT2_TOW2_J_2 = ~z~Flick one switch on the array... and another might go off...
+
+CKPT2_TOW2_J_3 = ~z~you want the three illuminations... so flick the switches... 'til that is the outcome.
+
+CKPT2_TOW2_J_4 = ~z~Just tell me what goddamn one of these things to pull.
+
+CKPT2_TOW2_J_5 = ~z~I am an invisible wave engineer, not an electrical technician... okay?
+
+CKPT2_TOW2_J_6 = ~z~You better hope I ain't fried up here!
+
+CKPT2_TREE_A_1 = ~z~Whoa.
+
+CKPT2_TREE_A_2 = ~z~That wasn't you, was it? Good, good.
+
+CKPT2_TREE_J_1 = ~z~Whoa.
+
+CKPT2_TREE_J_2 = ~z~That wasn't you, was it? Good, good.
+
+CKPT3_13_1 = ~z~You see what he does? No wire like telegraph. No pulley system under water.
+
+CKPT3_13_2 = ~z~Only waves in the air.
+
+CKPT3_13_3 = ~z~This is remarkable... think of those poor boys on the H.L. Hunley. Eight of them perished to a mere five on the Housatonic...
+
+CKPT3_13_4 = ~z~And what a way to go... trapped in a box at the bottom of the bay.
+
+CKPT3_13_5 = ~z~I suppose you intend to make an unmanned killing machine?
+
+CKPT3_13_6 = ~z~You misunderstand. This is the secret to life, not death.
+
+CKPT3_13_7 = ~z~The transmigration of the soul... I make lifeless metal breathe like man.
+
+CKPT3_13_8 = ~z~Well, I'm not sure about that...
+
+CKPT3_20_1 = ~z~The steam train, the telegraph machine, the motorcar...
+
+CKPT3_20_2 = ~z~they will all seem pedestrian in comparison to this technology.
+
+CKPT3_20_3 = ~z~We are not reliant on wires, or coal, or gasoline.
+
+CKPT3_20_4 = ~z~No, just rays in the air, like the voice of a god.
+
+CKPT3_20_5 = ~z~And funding from us.
+
+CKPT3_20_6 = ~z~And funding from you, of course. But what a thing to fund. What an opportunity. No one is stupid enough to pass this up. Not even dimwit here.
+
+CKPT3_20_7 = ~z~Hey.
+
+CKPT3_20_8 = ~z~You really ought to work on your salesmanship.
+
+CKPT3_20_9 = ~z~Americans. All you think about is sales!
+
+CKPT3_20_J_1 = ~z~The steam train, the telegraph machine, the motorcar...
+
+CKPT3_20_J_2 = ~z~they will all seem pedestrian in comparison to this technology.
+
+CKPT3_20_J_3 = ~z~We are not reliant on wires, or coal, or gasoline.
+
+CKPT3_20_J_4 = ~z~No, just rays in the air, like the voice of God.
+
+CKPT3_20_J_5 = ~z~And funding from us.
+
+CKPT3_20_J_6 = ~z~And funding from you, of course. But what a thing to fund. What an opportunity. No one is stupid enough to pass this up. Not even dimwit here.
+
+CKPT3_20_J_7 = ~z~Hey.
+
+CKPT3_20_J_8 = ~z~You really ought to work on your salesmanship.
+
+CKPT3_20_J_9 = ~z~Americans. All you think about is sales!
+
+CKPT3_DDEADJ_1 = ~z~Professor...
+
+CKPT3_DDEAD_1 = ~z~Professor...
+
+CKPT3_WHEREJ_1 = ~z~Where's your creation now?
+
+CKPT3_WHERE_1 = ~z~Where's your creation now?
+
+CKPT5_1_1 = ~z~You have... the detector... in... your hands.
+
+CKPT5_1_2 = ~z~The filament flashes... when it points at... the locations... for conductors.
+
+CKPT5_1_3 = ~z~Follow flashes... up in hills... and plant conductor rod...where filament glows solid.
+
+CKPT5_1_4 = ~z~When all three conductors in place... lightning strikes the rods...
+
+CKPT5_1_5 = ~z~and we harness power of nature... to make life.
+
+CKPTB_ALLB_1 = ~z~Fool proof. Undeniable fool proof. But you are not fools.
+
+CKPTB_ALLB_2 = ~z~And unlike fools, not fools and their money are difficultly parted.
+
+CKPTB_ALLB_3 = ~z~And was this not difficult? It was difficult, but it was not difficult for me.
+
+CKPTB_ALLB_4 = ~z~But what is not difficult is the secret of life, the soul's transmigration...
+
+CKPTB_ALLB_5 = ~z~and that is what you will get with your generous... and hard-won, may I say... investments.
+
+CKPTB_ALLB_6 = ~z~Yes? Yes?
+
+CKPTB_BCM_01 = ~z~Watch the mine.
+
+CKPTB_BCM_02 = ~z~Evasive maneuvers.
+
+CKPTB_BCM_03 = ~z~Be mindful of the danger.
+
+CKPTB_BCM_04 = ~z~The mines! They're magnetized, remember.
+
+CKPTB_BCM_05 = ~z~The mine now... look.
+
+CKPTB_BCM_06 = ~z~Carefully!
+
+CKPTB_BCM_07 = ~z~Look out, look out.
+
+CKPTB_BCT1_A_1 = ~z~I got one! See.
+
+CKPTB_BCT1_A_2 = ~z~Yes, very well done.
+
+CKPTB_BCT1_J_1 = ~z~I got one! See.
+
+CKPTB_BCT1_J_2 = ~z~Yes, very well done.
+
+CKPTB_BCT2_A_1 = ~z~There. That one's gone, too.
+
+CKPTB_BCT2_A_2 = ~z~You see what stupid man does?
+
+CKPTB_BCT2_J_1 = ~z~There. That one's gone, too.
+
+CKPTB_BCT2_J_2 = ~z~You see what stupid man does?
+
+CKPTB_BCT3_A_1 = ~z~Another one down... I'm getting the mastery of this.
+
+CKPTB_BCT3_A_2 = ~z~Show them one more to prove.
+
+CKPTB_BCT3_J_1 = ~z~Another one down... I'm getting the mastery of this.
+
+CKPTB_BCT3_J_2 = ~z~Show them one more to prove.
+
+CKPTB_CLSE_A_01 = ~z~
+
+CKPTB_CLSE_A_02 = ~z~
+
+CKPTB_CLSE_A_03 = ~z~Oh boy.
+
+CKPTB_CLSE_A_04 = ~z~Okay.
+
+CKPTB_CLSE_A_05 = ~z~Easy.
+
+CKPTB_CLSE_A_06 = ~z~Come on.
+
+CKPTB_CLSE_A_07 = ~z~Uh oh.
+
+CKPTB_CLSE_J_01 = ~z~
+
+CKPTB_CLSE_J_02 = ~z~
+
+CKPTB_CLSE_J_03 = ~z~Oh boy.
+
+CKPTB_CLSE_J_04 = ~z~Okay.
+
+CKPTB_CLSE_J_05 = ~z~Easy.
+
+CKPTB_CLSE_J_06 = ~z~Come on.
+
+CKPTB_CLSE_J_07 = ~z~Uh oh.
+
+CKPTB_CONG_1 = ~z~Yes, you see what he does! Now bring the boat back to the dock.
+
+CKPTB_CONG_2 = ~z~That sure was something.
+
+CKPTB_CONG_3 = ~z~But I'm not sure what, if anything, was proven here.
+
+CKPTB_CONG_4 = ~z~The demonstration's not over yet! Any fool can explode a sitting duck.
+
+CKPTB_CONG_5 = ~z~Next he will show you the moving ducks.
+
+CKPTB_CONG_6 = ~z~Well, alright.
+
+CKPTB_DAM1_01 = ~z~I say look out for mines!
+
+CKPTB_DAM1_02 = ~z~Is a small boat... those mines are not so small.
+
+CKPTB_DAM1_03 = ~z~You avoid the mines, yes. That is what controls are for.
+
+CKPTB_DAM1_04 = ~z~Even little boats can sink, okay. Please!
+
+CKPTB_DAM2_01 = ~z~One more bang and boat go bye bye. Please!
+
+CKPTB_DAM2_02 = ~z~If you hit another mine, the boat is kaput! Understand?
+
+CKPTB_DAM3_1 = ~z~My boat!
+
+CKPTB_DAM3_2 = ~z~Oh, this dimwit.
+
+CKPTB_DAWD1_01 = ~z~Bring back. Quick.
+
+CKPTB_DAWD1_02 = ~z~Come on. We must continue the demonstration.
+
+CKPTB_DAWD1_03 = ~z~We wait for you, dimwit.
+
+CKPTB_DAWD2_01 = ~z~Back, back. Come on.
+
+CKPTB_DAWD2_02 = ~z~We're done here. Please.
+
+CKPTB_FIZ_1 = ~z~Torpedoes do not have so much range.
+
+CKPTB_FIZ_2 = ~z~I am an invisible wave engineer not a rocket physicist!
+
+CKPTB_HCK_A_1 = ~z~He's not controlling that thing.
+
+CKPTB_HCK_A_2 = ~z~I assure you, improbably, I am.
+
+CKPTB_HCK_A_3 = ~z~It's a trick. It's on a rail. It must be.
+
+CKPTB_HCK_A_4 = ~z~Clearly, we have more than one dimwit here.
+
+CKPTB_HCK_J_1 = ~z~He's not controlling that thing.
+
+CKPTB_HCK_J_2 = ~z~I assure you, improbably, I am.
+
+CKPTB_HCK_J_3 = ~z~It's a trick. It's on a rail. It must be.
+
+CKPTB_HCK_J_4 = ~z~Clearly, we have more than one dimwit here.
+
+CKPTB_HITB_A_01 = ~z~They're tricky little fellers.
+
+CKPTB_HITB_A_02 = ~z~Just glad the breeze ain't up.
+
+CKPTB_HITB_A_03 = ~z~This is the darndest thing.
+
+CKPTB_HITB_A_04 = ~z~They ain't getting away from me.
+
+CKPTB_HITB_A_05 = ~z~Well, how about that.
+
+CKPTB_HITB_A_06 = ~z~Might make a navy man out of me yet.
+
+CKPTB_HITB_A_07 = ~z~I've about got the hang of this thing.
+
+CKPTB_HITB_J_01 = ~z~They're tricky little fellers.
+
+CKPTB_HITB_J_02 = ~z~Just glad the breeze ain't up.
+
+CKPTB_HITB_J_03 = ~z~This is the darndest thing.
+
+CKPTB_HITB_J_04 = ~z~They ain't getting away from me.
+
+CKPTB_HITB_J_05 = ~z~Well, how about that.
+
+CKPTB_HITB_J_06 = ~z~Might make a navy man out of me yet.
+
+CKPTB_HITB_J_07 = ~z~I've about got the hang of this thing.
+
+CKPTB_ILO_N_A_1 = ~z~Tell me, between us, are you huckster? This all some snake oil trick?
+
+CKPTB_ILO_N_A_2 = ~z~After all that? If you think this is a trick, wait until you see what I have at the lab.
+
+CKPTB_ILO_N_A_3 = ~z~Now get out of here.
+
+CKPTB_ILO_N_J_1 = ~z~Tell me, between us, are you huckster? This all some snake oil trick?
+
+CKPTB_ILO_N_J_2 = ~z~After all that? If you think this is a trick, wait until you see what I have at the lab.
+
+CKPTB_ILO_N_J_3 = ~z~Now get out of here.
+
+CKPTB_ILO_P_A_1 = ~z~Anything else I can help you with?
+
+CKPTB_ILO_P_A_2 = ~z~No, no. You've done quite enough. Now you can leave me alone.
+
+CKPTB_ILO_P_J_1 = ~z~Anything else I can help you with?
+
+CKPTB_ILO_P_J_2 = ~z~No, no. You've done quite enough. Now you can leave me alone.
+
+CKPTB_N2B_1 = ~z~Use these ones to steer. And this one to shoot torpedoes. Okay?
+
+CKPTB_N2B_2 = ~z~Yes, now blow up the little battle ships, and avoid the sea mines. They have magnets attached.
+
+CKPTB_N2B_3 = ~z~Make nasty explosion if they touch the boat.
+
+CKPTB_N2B_4 = ~z~Okay! If this silly dimwit can use torpedoes on boat to destroy the battle ships...
+
+CKPTB_N2B_5 = ~z~imagine what technology can do in hands of a certified genius.
+
+CKPTB_N2B_6 = ~z~And I have certificate.
+
+CKPTB_N3B_A_1 = ~z~Hey, it is doing what I'm telling it.
+
+CKPTB_N3B_A_2 = ~z~Of course it is doing. Now tell it do closer to battle ship and shoot with torpedo.
+
+CKPTB_N3B_J_1 = ~z~Hey, it is doing what I'm telling it.
+
+CKPTB_N3B_J_2 = ~z~Of course it is doing. Now tell it do closer to battle ship and shoot with torpedo.
+
+CKPTB_N4_1 = ~z~There. All gone for you.
+
+CKPTB_N4_J_1 = ~z~There. All gone for you.
+
+CKPTB_N5_1 = ~z~Now the dimwit will use invisible waves to destroy the little sailing boats before they get to other side of pond.
+
+CKPTB_N5_2 = ~z~Still avoiding magnetic mines.
+
+CKPTB_N5_3 = ~z~Or he'll attempt to at least.
+
+CKPTB_N5_4 = ~z~Shush. You're not here for the smart talk.
+
+CKPTB_N5_J_1 = ~z~Now the dimwit will use invisible waves to destroy the little sailing boats before they get to other side of pond.
+
+CKPTB_N5_J_2 = ~z~Still avoiding magnetic mines.
+
+CKPTB_N5_J_3 = ~z~Or he'll attempt to at least.
+
+CKPTB_N5_J_4 = ~z~Shush. You're not here for the smart talk.
+
+CKPTB_N6A_1 = ~z~Look who rules the seas...
+
+CKPTB_N6A_2 = ~z~Very good, very good. Now, bring in the boat back here.
+
+CKPTB_N6A_J_1 = ~z~Look who rules the seas...
+
+CKPTB_N6A_J_2 = ~z~Very good, very good. Now, bring in the boat back here.
+
+CKPTB_PRMPT_01 = ~z~A quick demonstration is a good demonstration, yes?
+
+CKPTB_PRMPT_02 = ~z~If this was all a setup, it wouldn't be taking so long.
+
+CKPTB_PRMPT_03 = ~z~Watch and marvel as this man's ineptitude travels thirty feet through air to that little boat.
+
+CKPTB_PRMPT_04 = ~z~Please shoot the thing with torpedo and stop making me look bad.
+
+CKPTB_RET_01 = ~z~You played your part. Now please, go.
+
+CKPTB_RET_02 = ~z~You are no longer needed. Okay. Go.
+
+CKPTB_RET_03 = ~z~If you want to continue this conversation, we will do it at my lab. Doverhill.
+
+CKPTB_SP1_01 = ~z~Oh! Was a deluge really necessary?
+
+CKPTB_SP1_02 = ~z~Please! This stinking bilge water.
+
+CKPTB_SP2_01 = ~z~Oh my! Such a sousing.
+
+CKPTB_SP2_02 = ~z~I shall have to send this out to be cleaned.
+
+CKPTB_TIME_1 = ~z~You may want to hurry this up.
+
+CKPTB_TIME_2 = ~z~I assure you all... any defects lie with the operator here, not my technology.
+
+RCKPT_S1_EXT_1 = ~z~There...
+
+RCKPT_S1_EXT_2 = ~z~as I say...
+
+RCKPT_S1_EXT_3 = ~z~any fool...
+
+RCKPT_S1_EXT_4 = ~z~Thank you, thank you.
+
+RCKPT_S1_EXT_5 = ~z~What is that?
+
+RCKPT_S1_EXT_6 = ~z~It is the stuff of life, sir...
+
+RCKPT_S1_EXT_7 = ~z~It's incredible.
+
+RCKPT_S1_EXT_8 = ~z~No, no, no...
+
+RCKPT_S1_EXT_9 = ~z~incredible things are in my lab...
+
+RCKPT_S1_EXT_10 = ~z~back at Doverhill....
+
+RCKPT_S1_EXT_11 = ~z~that will astound all of you.
+
+RCKPT_S1_EXT_12 = ~z~Mr. Marcelle...
+
+RCKPT_S1_EXT_13 = ~z~can I count on your support?
+
+RCKPT_S1_EXT_14 = ~z~Well...
+
+RCKPT_S1_EXT_15 = ~z~this is expensive.
+
+RCKPT_S1_EXT_16 = ~z~It is immortality...
+
+RCKPT_S1_EXT_17 = ~z~sir, it is...
+
+RCKPT_S1_EXT_18 = ~z~it is very cheap.
+
+RCKPT_S1_EXT_19 = ~z~Perhaps over lunch?
+
+RCKPT_S1_EXT_20 = ~z~Maybe.
+
+RCKPT_S1_EXT_21 = ~z~I'm going to go.
+
+RCKPT_S1_EXT_22 = ~z~Oh, of course...
+
+RCKPT_S1_EXT_23 = ~z~and thank you...
+
+RCKPT_S1_EXT_24 = ~z~if you are ever up near Doverhill pay me a visit...
+
+RCKPT_S1_EXT_25 = ~z~there I will really amaze you.
+
+RCKPT_S1_EXT_26 = ~z~I hope you will forgive my...
+
+RCKPT_S1_EXT_27 = ~z~What is that?
+
+RCKPT_S1_EXT_28 = ~z~It's incredible.
+
+RCKPT_S1_EXT_29 = ~z~I'm gonna go.
+
+RCKPT_S1_EXT_LO_1 = ~z~European coarseness.
+
+RCKPT_S1_EXT_LO_2 = ~z~In the Balkans, we are a manner-less people but we work hard.
+
+RCKPT_S1_EXT_LO_3 = ~z~Now, let me go over the investment with you once more.
+
+RCKPT_S1_EXT_LO_4 = ~z~And this is for military purposes?
+
+RCKPT_S1_EXT_LO_5 = ~z~No... it is for humanity itself.
+
+RCKPT_S1_EXT_LO_6 = ~z~You see... you see...
+
+RCKPT_S1_EXT_LO_7 = ~z~I have now illustrated just a small sliver of the miracles I can enact on this earth if you will help me,
+
+RCKPT_S1_EXT_LO_8 = ~z~and not stab me in the ass like the other Americans. Traitors!
+
+RCKPT_S1_EXT_LO_9 = ~z~All of you, goddamn traitors!
+
+RCKPT_S1_EXT_LO_10 = ~z~None of you has the wisdom to invest in my genius... genius!
+
+RCKPT_S1_EXT_LO_11 = ~z~You're fools.
+
+RCKPT_S1_EXT_LO_12 = ~z~All of you... fools.
+
+RCKPT_S1_EXT_LO_13 = ~z~Fools! Fools!
+
+RCKPT_S1_EXT_LO_14 = ~z~
+
+RCKPT_S1_IG2_1 = ~z~Let me just reload her.
+
+RCKPT_S1_IG2_2 = ~z~This is really remarkable.
+
+RCKPT_S1_IG2_3 = ~z~This is just a demonstration of my prowess, sir.
+
+RCKPT_S1_IG2_4 = ~z~The real miracles require investment...
+
+RCKPT_S1_IG2_5 = ~z~Ah...
+
+RCKPT_S1_INT_1 = ~z~You okay, buddy?
+
+RCKPT_S1_INT_2 = ~z~Fantastic!
+
+RCKPT_S1_INT_3 = ~z~You Americans are nothing but shysters and traitors...
+
+RCKPT_S1_INT_4 = ~z~and slippery tongued ball suckers.
+
+RCKPT_S1_INT_5 = ~z~I'm inclined to agree.
+
+RCKPT_S1_INT_6 = ~z~Here, help me please...
+
+RCKPT_S1_INT_7 = ~z~back to work with a bloody smile.
+
+RCKPT_S1_INT_8 = ~z~No problem, Marko...
+
+RCKPT_S1_INT_9 = ~z~you are the great genius...
+
+RCKPT_S1_INT_10 = ~z~so we shove the hot poker up the ass.
+
+RCKPT_S1_INT_11 = ~z~Say thank you, Marko...
+
+RCKPT_S1_INT_12 = ~z~"Thank you. Oh, thank you."
+
+RCKPT_S1_INT_13 = ~z~What are you, some kinda European toy maker?
+
+RCKPT_S1_INT_14 = ~z~No, I am a fucking genius with poker up the ass...
+
+RCKPT_S1_INT_15 = ~z~like I say.
+
+RCKPT_S1_INT_16 = ~z~Toy maker...
+
+RCKPT_S1_INT_17 = ~z~hello?
+
+RCKPT_S1_INT_18 = ~z~Do I look like I should entertain children?
+
+RCKPT_S1_INT_19 = ~z~No...
+
+RCKPT_S1_INT_20 = ~z~No, he says...
+
+RCKPT_S1_INT_21 = ~z~no.
+
+RCKPT_S1_INT_22 = ~z~I am the savior of the mankind, buddy.
+
+RCKPT_S1_INT_23 = ~z~Yes, you meet him...
+
+RCKPT_S1_INT_24 = ~z~Professor Marko Dragic.
+
+RCKPT_S1_INT_25 = ~z~The one the silver tongue American betray, and...
+
+RCKPT_S1_INT_26 = ~z~and not pay the money to, yes.
+
+RCKPT_S1_INT_27 = ~z~He total shit man.
+
+RCKPT_S1_INT_28 = ~z~So, what's this toy about?
+
+RCKPT_S1_INT_29 = ~z~It is not a toy, big nuts...
+
+RCKPT_S1_INT_30 = ~z~it is demonstration of my genius...
+
+RCKPT_S1_INT_31 = ~z~of my ideas about the source of life.
+
+RCKPT_S1_INT_32 = ~z~Ah, it's a toy boat.
+
+RCKPT_S1_INT_33 = ~z~Yes, it is a 'toy boat' that I can power remotely...
+
+RCKPT_S1_INT_34 = ~z~using electricity and waves you cannot see.
+
+RCKPT_S1_INT_35 = ~z~Good for you...
+
+RCKPT_S1_INT_36 = ~z~waves I cannot see.
+
+RCKPT_S1_INT_37 = ~z~And still the investors will not come...
+
+RCKPT_S1_INT_38 = ~z~just a couple of old ladies and a moron.
+
+RCKPT_S1_INT_39 = ~z~Ladies, please.
+
+RCKPT_S1_INT_40 = ~z~Ladies, gentleman...
+
+RCKPT_S1_INT_41 = ~z~enchante.
+
+RCKPT_S1_INT_42 = ~z~Yes, hello...
+
+RCKPT_S1_INT_43 = ~z~hello, sir.
+
+RCKPT_S1_INT_44 = ~z~Okay, how is the piles?
+
+RCKPT_S1_INT_45 = ~z~Yeah, good, good, good, okay...
+
+RCKPT_S1_INT_46 = ~z~My friends...
+
+RCKPT_S1_INT_47 = ~z~you are about to witness history.
+
+RCKPT_S1_INT_48 = ~z~A demonstration of my infinite insight.
+
+RCKPT_S1_INT_49 = ~z~All of us, we feel old...
+
+RCKPT_S1_INT_50 = ~z~you, you are old...
+
+RCKPT_S1_INT_51 = ~z~but, maybe I can make you immortal.
+
+RCKPT_S1_INT_52 = ~z~Using waves you cannot see, I will power this boat...
+
+RCKPT_S1_INT_53 = ~z~You're a goddamn fraud...
+
+RCKPT_S1_INT_54 = ~z~and this buffoon dressed up like a buffoon...
+
+RCKPT_S1_INT_55 = ~z~is a stoolie.
+
+RCKPT_S1_INT_56 = ~z~I watched them conspire, you morons.
+
+RCKPT_S1_INT_57 = ~z~I never met this buffoon before two minutes ago.
+
+RCKPT_S1_INT_58 = ~z~Isn't that right?
+
+RCKPT_S1_INT_59 = ~z~Which part of it?
+
+RCKPT_S1_INT_60 = ~z~So, Professor, show us your magical toy boat...
+
+RCKPT_S1_INT_61 = ~z~only this time let the buffoon control it...
+
+RCKPT_S1_INT_62 = ~z~check if there's any funny business.
+
+RCKPT_S1_INT_63 = ~z~No, this ain't nothing to do with me.
+
+RCKPT_S1_INT_64 = ~z~Come, please, please...
+
+RCKPT_S1_INT_65 = ~z~it is easy...
+
+RCKPT_S1_INT_66 = ~z~any moron could do it...
+
+RCKPT_S1_INT_67 = ~z~and I am about to prove that.
+
+RCKPT_S1_INT_68 = ~z~Here, take this...
+
+RCKPT_S1_INT_69 = ~z~and this, and...
+
+RCKPT_S1_INT_70 = ~z~don't touch that.
+
+RCKPT_S1_INT_71 = ~z~You okay, buddy?
+
+RCKPT_S1_INT_72 = ~z~I'm inclined to agree.
+
+RCKPT_S1_INT_73 = ~z~What are you a....
+
+RCKPT_S1_INT_74 = ~z~European toy maker?
+
+RCKPT_S1_INT_75 = ~z~No...
+
+RCKPT_S1_INT_76 = ~z~Okay, what's the toy about?
+
+RCKPT_S1_INT_77 = ~z~Huh, a toy boat?
+
+RCKPT_S1_INT_78 = ~z~Oh, good for you...
+
+RCKPT_S1_INT_79 = ~z~waves I cannot see.
+
+RCKPT_S1_INT_80 = ~z~Which part of it?
+
+RCKPT_S1_INT_81 = ~z~This ain't got nothing to do with me.
+
+RCKPT_S1_INT_IA_1 = ~z~You okay, buddy?
+
+RCKPT_S1_INT_IA_2 = ~z~
+
+RCKPT_S1_INT_IJ_1 = ~z~You okay, buddy?
+
+RCKPT_S1_INT_IJ_2 = ~z~
+
+RCKPT_S1_INT_LI_1 = ~z~~sl:2.4~Bastards! Total bloody bastards!
+
+RCKPT_S1_INT_LI_2 = ~z~~sl:0.0:3.1:1~Why do I waste my time? Why?
+
+RCKPT_S2_EXT_1 = ~z~Are you ready?
+
+RCKPT_S2_EXT_2 = ~z~Sure...
+
+RCKPT_S2_EXT_3 = ~z~second time lucky eh?
+
+RCKPT_S2_EXT_4 = ~z~Second time?
+
+RCKPT_S2_EXT_5 = ~z~More like seven thousandth...
+
+RCKPT_S2_EXT_6 = ~z~This is my life's work...
+
+RCKPT_S2_EXT_7 = ~z~and it is incredible.
+
+RCKPT_S2_EXT_8 = ~z~Watch...
+
+RCKPT_S2_EXT_9 = ~z~He lives!
+
+RCKPT_S2_EXT_10 = ~z~My son lives!
+
+RCKPT_S2_EXT_11 = ~z~What is it?
+
+RCKPT_S2_EXT_12 = ~z~It is life itself.
+
+RCKPT_S2_EXT_13 = ~z~Those morons who doubted me...
+
+RCKPT_S2_EXT_14 = ~z~It is me and you.
+
+RCKPT_S2_EXT_15 = ~z~Look at him...
+
+RCKPT_S2_EXT_16 = ~z~isn't he wonderful?
+
+RCKPT_S2_EXT_17 = ~z~Is that it?
+
+RCKPT_S2_EXT_18 = ~z~For now...
+
+RCKPT_S2_EXT_19 = ~z~I am so happy...
+
+RCKPT_S2_EXT_20 = ~z~You just saw Creation's second birth.
+
+RCKPT_S2_EXT_21 = ~z~I just saw a machine waddle a few steps.
+
+RCKPT_S2_EXT_22 = ~z~I have a son...
+
+RCKPT_S2_EXT_23 = ~z~I am the luckiest man alive...
+
+RCKPT_S2_EXT_24 = ~z~I... those morons!
+
+RCKPT_S2_EXT_25 = ~z~They doubted me.
+
+RCKPT_S2_EXT_26 = ~z~I'll see you later.
+
+RCKPT_S2_EXT_27 = ~z~Yes, yes, goodbye...
+
+RCKPT_S2_EXT_28 = ~z~Sure...
+
+RCKPT_S2_EXT_29 = ~z~second time lucky, eh?
+
+RCKPT_S2_EXT_30 = ~z~What is it?
+
+RCKPT_S2_EXT_31 = ~z~Is that it?
+
+RCKPT_S2_EXT_32 = ~z~I just saw a machine waddle a few steps.
+
+RCKPT_S2_EXT_33 = ~z~I'll see you later.
+
+RCKPT_S2_INT_1 = ~z~Hello?
+
+RCKPT_S2_INT_2 = ~z~Is anybody here?
+
+RCKPT_S2_INT_3 = ~z~Hello?
+
+RCKPT_S2_INT_4 = ~z~If you are here to rob me...
+
+RCKPT_S2_INT_5 = ~z~I wish to make clear that I have weapons...
+
+RCKPT_S2_INT_6 = ~z~that could liquefy each of your internal organs in turn...
+
+RCKPT_S2_INT_7 = ~z~and leave you...
+
+RCKPT_S2_INT_8 = ~z~just a puddle on the floor.
+
+RCKPT_S2_INT_9 = ~z~He did?
+
+RCKPT_S2_INT_10 = ~z~Oh, oh, the buffoon...
+
+RCKPT_S2_INT_11 = ~z~yes, he did.
+
+RCKPT_S2_INT_12 = ~z~Hello!
+
+RCKPT_S2_INT_13 = ~z~Hello.
+
+RCKPT_S2_INT_14 = ~z~just a puddle on the floor.
+
+RCKPT_S2_INT_15 = ~z~Professor, I ain't here to rob you...
+
+RCKPT_S2_INT_16 = ~z~it's me, I'm...
+
+RCKPT_S2_INT_17 = ~z~I helped you at the pond.
+
+RCKPT_S2_INT_18 = ~z~You did?
+
+RCKPT_S2_INT_19 = ~z~Oh, you did...
+
+RCKPT_S2_INT_20 = ~z~the buffoon.
+
+RCKPT_S2_INT_21 = ~z~Hello!
+
+RCKPT_S2_INT_22 = ~z~Hello.
+
+RCKPT_S2_INT_23 = ~z~I hope I'm not disturbing you.
+
+RCKPT_S2_INT_24 = ~z~Of course you are disturbing me, buddy.
+
+RCKPT_S2_INT_25 = ~z~I almost solved biggest problem...
+
+RCKPT_S2_INT_26 = ~z~and you mess it up.
+
+RCKPT_S2_INT_27 = ~z~I did?
+
+RCKPT_S2_INT_28 = ~z~No, but I did.
+
+RCKPT_S2_INT_29 = ~z~I can't get the bloody conductor straight.
+
+RCKPT_S2_INT_30 = ~z~Uh, well, well, well. Well...
+
+RCKPT_S2_INT_31 = ~z~it is the geometry of life...
+
+RCKPT_S2_INT_32 = ~z~the grand theory of power...
+
+RCKPT_S2_INT_33 = ~z~the grand theory of theories.
+
+RCKPT_S2_INT_34 = ~z~There is just one more, big problem...
+
+RCKPT_S2_INT_35 = ~z~and maybe I solve it, but...
+
+RCKPT_S2_INT_36 = ~z~I can't get it right.
+
+RCKPT_S2_INT_37 = ~z~I don't understand.
+
+RCKPT_S2_INT_38 = ~z~Of course you don't.
+
+RCKPT_S2_INT_39 = ~z~Help me adjust these things and...
+
+RCKPT_S2_INT_40 = ~z~I will show you what I mean.
+
+RCKPT_S2_INT_41 = ~z~Here, take these.
+
+RCKPT_S2_INT_42 = ~z~Whoa, well I...  I'm not much of a scientist.
+
+RCKPT_S2_INT_43 = ~z~Yeah, well...
+
+RCKPT_S2_INT_44 = ~z~you are an American.
+
+RCKPT_S2_INT_45 = ~z~Science is far beyond you, but...
+
+RCKPT_S2_INT_46 = ~z~you make a fine buffoon.
+
+RCKPT_S2_INT_47 = ~z~Go...
+
+RCKPT_S2_INT_48 = ~z~Hello?
+
+RCKPT_S2_INT_49 = ~z~Anyone there?
+
+RCKPT_S2_INT_50 = ~z~Hello?
+
+RCKPT_S2_INT_51 = ~z~Professor, I ain't here to rob you...
+
+RCKPT_S2_INT_52 = ~z~my friend helped you at the pond.
+
+RCKPT_S2_INT_53 = ~z~Professor, I ain't come to rob you...
+
+RCKPT_S2_INT_54 = ~z~it's me.
+
+RCKPT_S2_INT_55 = ~z~I helped you at the pond.
+
+RCKPT_S2_INT_56 = ~z~I hope I'm not disturbing you.
+
+RCKPT_S2_INT_57 = ~z~I did?
+
+RCKPT_S2_INT_58 = ~z~I don't understand.
+
+RCKPT_S2_INT_59 = ~z~Oh, okay, but... I'm not much of a scientist.
+
+RCKPT_S2_MCS1_1 = ~z~Wonderful.
+
+RCKPT_S2_MCS1_2 = ~z~I wish I ever went to school...
+
+RCKPT_S2_MCS1_3 = ~z~so I had a clue what was going on.
+
+RCKPT_S2_MCS1_4 = ~z~What now?
+
+RCKPT_S2_MCS1_5 = ~z~Now, I become the second creature...
+
+RCKPT_S2_MCS1_6 = ~z~after God himself to bring life ...
+
+RCKPT_S2_MCS1_7 = ~z~to this earth.
+
+RCKPT_S2_MCS1_8 = ~z~Like...
+
+RCKPT_S2_MCS1_9 = ~z~this!
+
+RCKPT_S2_MCS1_10 = ~z~Am I missing something?
+
+RCKPT_S2_MCS1_11 = ~z~The switches...
+
+RCKPT_S2_MCS1_12 = ~z~the bloody switches.
+
+RCKPT_S2_MCS1_13 = ~z~Okay...
+
+RCKPT_S2_MCS1_14 = ~z~climb up there...
+
+RCKPT_S2_MCS1_15 = ~z~and adjust them for me.
+
+RCKPT_S2_MCS1_16 = ~z~Go, quick please.
+
+RCKPT_S2_MCS1_17 = ~z~I wish I'd ever gone to school...
+
+RCKPT_S2_MCS1_18 = ~z~and had a clue of what was going on.
+
+RCKPT_S2_MCS1_19 = ~z~What now?
+
+RCKPT_S2_MCS1_20 = ~z~Am I missing something?
+

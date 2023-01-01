@@ -1,0 +1,98 @@
+0x2AB0B8B1 = Your horse has died.
+
+0x6EDB3DAE = Dutch's horse has died.
+
+0x6FC2AA18 = You drowned.
+
+0xB47985AE = Return to the ambush
+
+0xBDF7CE13 = Dutch
+
+0xD4B4FB0B = Use ~INPUT_MOVE_DOWN_ONLY~ to back off.
+
+NTS2_ABANDONED_DUTCH = Dutch was abandoned.
+
+NTS2_ABANDONED_EAGLE = Eagle Flies was abandoned.
+
+NTS2_ABANDONED_GANG = The Gang was abandoned.
+
+NTS2_ALERTED_EARLY = The ambush was exposed.
+
+NTS2_ARRESTED = You were arrested.
+
+NTS2_CLIFF_LOITER = The cavalry arrived.
+
+NTS2_CTXT_BACK = Back up
+
+NTS2_CTXT_DET = Detonate
+
+NTS2_CTXT_JMP = Jump
+
+NTS2_CTXT_PIK = Pick Up
+
+NTS2_CTXT_SUR = Surrender
+
+NTS2_CTXT_WRE = Attach wire
+
+NTS2_DEATH = You have died.
+
+NTS2_DETONATOR = Plunger
+
+NTS2_DYNAMITE = Dynamite
+
+NTS2_EAGLE = Eagle Flies
+
+NTS2_GANG_RETURN = Return to the Gang
+
+NTS2_HELP_SLAP = While unarmed; use ~INPUT_INTERACT_LOCKON~ to focus on your Horse, then press ~INPUT_HORSE_COMMAND_FLEE~ to make them flee.
+
+NTS2_OBJ1A = Follow ~o~Dutch~s~
+
+NTS2_OBJ1B = Pick up the ~o~Spool~s~
+
+NTS2_OBJ1C = Attach wire to the ~o~Dynamite~s~
+
+NTS2_OBJ1D = Follow ~o~Dutch~s~
+
+NTS2_OBJ1E = Get into position by the ~o~Plunger~s~
+
+NTS2_OBJ2A = Wait for the ~e~Patrol~s~ to be in position
+
+NTS2_OBJ2B = ~o~Detonate~s~ the dynamite
+
+NTS2_OBJ2C = Return to the ~o~Plunger~s~
+
+NTS2_OBJ3A = Defeat the ~e~Patrol~s~
+
+NTS2_OBJ4A = Follow ~o~Dutch~s~
+
+NTS2_OBJ4B = Loot the ~o~Soldiers~s~
+
+NTS2_OBJ4C = Return to the ~o~Gang~s~
+
+NTS2_OBJ5A = Defeat the ~e~Patrol~s~
+
+NTS2_OBJ6A = Mount your ~o~Horse~s~
+
+NTS2_OBJ6B = Follow ~o~Dutch~s~
+
+NTS2_OBJ7A = Follow ~o~Dutch~s~
+
+NTS2_OBJ7B = Defeat the ~e~Soldiers~s~
+
+NTS2_OBJ7C = Escape down the ~o~Pass~s~
+
+NTS2_OBJ8A = Escape the ~e~Patrol~s~
+
+NTS2_OBJ9A = Follow ~o~Dutch~s~
+
+NTS2_OBJ9B = Swim to ~o~Dutch~s~
+
+NTS2_OPERATOR = Artilleryman
+
+NTS2_PAYTAH = Paytah
+
+NTS2_PLANT_TIMEOUT = The ambush wasn't prepared in time.
+
+NTS2_SPOOL = Spool
+

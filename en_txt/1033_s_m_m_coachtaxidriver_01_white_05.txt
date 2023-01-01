@@ -1,0 +1,196 @@
+0x02735E77 = ~z~You lost, friend? Why you following me?
+
+0x02D8A778 = ~z~Are you gonna go look for those berries then?
+
+0x03722BB5 = ~z~You keep this up and I'll plug you.
+
+0x05B8C3BF = ~z~Hey, calm down. Maybe he can help us. It ain't like this is going well.
+
+0x07D771E0 = ~z~Now why are you eyeballing me?
+
+0x08859976 = ~z~I want you to leave now.
+
+0x0958B422 = ~z~I feel like I could fight an ox after drinking this!
+
+0x0A214924 = ~z~You're a born imbecile.
+
+0x0B974318 = ~z~Come on. Let me through.
+
+0x0FEB068A = ~z~You ain't got no cause to bully them folk.
+
+0x1B5533BB = ~z~Hey, hey, what are you doing?
+
+0x1CF39B73 = ~z~Well, ain't so tasty, but dang if I don't get a prickly feeling. Real sharp!
+
+0x1DDEE7A7 = ~z~Hey, get out the damn way.
+
+0x1E8B90EF = ~z~
+
+0x2D018D68 = ~z~Do it then.
+
+0x2E2CC977 = ~z~Shit, run!
+
+0x2F22CE17 = ~z~Okay, damn it,here..
+
+0x3BC3ABD3 = ~z~Gimme some space.
+
+0x3E8866B2 = ~z~So you gonna help us or not?
+
+0x3EF0E8FF = ~z~
+
+0x3F69D8F6 = ~z~Fine. Take the damn coach already.
+
+0x4AA07B02 = ~z~Hey, look out.
+
+0x4D388724 = ~z~Hey, I won't be talked to like a fool.
+
+0x4DEBE650 = ~z~Hello all over again.
+
+0x4E3C9BEC = ~z~You gotta move, dangit.
+
+0x4EA0F764 = ~z~Taking my livelihood, go on then.
+
+0x5DAFB948 = ~z~I'm tired of you, mister.
+
+0x5F560707 = ~z~I know there's plants out there for us to use.
+
+0x5FD7EA10 = ~z~You goddamned devil.
+
+0x6C4B6D17 = ~z~Please, I ain't worth killing, honest!
+
+0x6ED0FF63 = ~z~You're wasting our time.
+
+0x7A93FD95 = ~z~I want you to leave now.
+
+0x7BA155E1 = ~z~No. Please, don't.
+
+0x13BE5EB7 = ~z~Alright, ain't so bad. Got a bit of bite to it, but I'll call it an improvement.
+
+0x28CA3CFD = ~z~Gimme some space here. This requires concentration.
+
+0x37E7D8B7 = ~z~What the heck are you doing here?
+
+0x39DC3AA3 = ~z~No way, this coach is my whole life.
+
+0x41ECF3AB = ~z~Take the money, you devil.
+
+0x52D6957E = ~z~Hellfire. Fine, here, take this then.
+
+0x53DC5CC9 = ~z~I ain't even giving you the satisfaction.
+
+0x66FD8B3F = ~z~That ain't right with shine, not at all! Taste like licking liniment!
+
+0x72C02226 = ~z~Now that's enough, you hear me?
+
+0x78D2CB25 = ~z~See you 'round.
+
+0x87DC3132 = ~z~Alright...
+
+0x89F6300F = ~z~Don't start what you can't finish.
+
+0x133D15B8 = ~z~Okay, guess this is what we've been waiting for.
+
+0x354F8414 = ~z~Just take it easy.
+
+0x505CC591 = ~z~You're just beging to get shot.
+
+0x806E21BA = ~z~Is this your doing?
+
+0x896EF17C = ~z~Don't do this, please.
+
+0x929B4045 = ~z~You want a thrashing, do you?
+
+0x996E72B7 = ~z~You son of a bitch!
+
+0x1478D37B = ~z~Just back off.
+
+0x2656B591 = ~z~What the heck are you doing here?
+
+0x2903FC91 = ~z~Keep your distance.
+
+0x3813BAA0 = ~z~Hello. Is that better?
+
+0x6589BAE4 = ~z~Go on and take it, this is all I got
+
+0x7462C5FF = ~z~Dammit, what are you playing at?
+
+0x7758DF27 = ~z~Who do you think you are, mister?
+
+0x8934F91C = ~z~Take it easy on your fellow man, will you?
+
+0x9052E8FE = ~z~That is damn delicious! We may be onto something after all.
+
+0x9471EB85 = ~z~I had my fill of you!
+
+0x9594A573 = ~z~Okay, okay I won't say a word.
+
+0x49377F22 = ~z~Hey, there's no need for that.
+
+0x61804F08 = ~z~Oh, you're done now!
+
+0x187116A4 = ~z~Watch where you're going.
+
+0x734310FA = ~z~Do you mind moving over some?
+
+0x70948207 = ~z~You the one did this?
+
+0x83873172 = ~z~You goddamn devil!
+
+0xA4A16DAB = ~z~No argument from me.
+
+0xA5D71CC9 = ~z~Fair enough.
+
+0xA78F8778 = ~z~Someone's gotta hear about this.
+
+0xA897CB79 = ~z~Fine then. If it ain't my business, I don't speak on it.
+
+0xAC2A8BF0 = ~z~Come on already!
+
+0xACB15684 = ~z~Well alright. Here goes nothing.
+
+0xAF778C63 = ~z~Huh. You know, my back's starting to feel better? Chest feels good, too!
+
+0xB4AEB60F = ~z~Goddamn idiot!
+
+0xB5D123FB = ~z~I think the law should hear of this.
+
+0xB23317F6 = ~z~Just get outta here before I lose my temper!
+
+0xBA1D2029 = ~z~Clear the trail, will you?
+
+0xBA7F08EC = ~z~Sounds good.
+
+0xBD3D6BBC = ~z~
+
+0xBF03FFF5 = ~z~I got nothing to offer you.
+
+0xC30B7E47 = ~z~Alright... I'm gonna give this a taste.
+
+0xC57D4C2C = ~z~Hey, please don't do that.
+
+0xCB5189EC = ~z~We don't got forever just sitting around. You got us some herbs?
+
+0xCD53618F = ~z~No, you ain't stealing my livelihood.
+
+0xD51FDF5E = ~z~I got better things to fret about than you.
+
+0xD7214E00 = ~z~So, uh... about them berries?
+
+0xDB4934A3 = ~z~Whoa now, you don't want to tangle with me.
+
+0xDBA34C9F = ~z~Okay then.
+
+0xE8E77DBD = ~z~Move out. Coming through here.
+
+0xE384ECAF = ~z~Maybe some other time.
+
+0xE637DBA1 = ~z~Hey, mister. You gonna find us some plants?
+
+0xE13589C6 = ~z~Hey, that ain't right.
+
+0xECFE570E = ~z~Now you ain't got no cause to point that gun at me.
+
+0xF4CD067A = ~z~Hell, tastes like my mammy's stew! Can barely stomach it.
+
+0xFEC30363 = ~z~Wow, that's real good. Real tasty. It's fancy-like.
+

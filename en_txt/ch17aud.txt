@@ -1,0 +1,34 @@
+CCHSH_17_A_1 = ~z~
+
+CCHSH_17_A_2 = ~z~~sl:0.0:1.2~Bill...~sl:0.0:1.7~get up and find us some money~sl:~or find us some goddamn food.
+
+CCHSH_17_A_3 = ~z~~sl:0.0:1.0~Hosea... ~sl:0.6~Dutch and you says we're supposed to keep a low profile.
+
+CCHSH_17_A_4 = ~z~Are you an imbecile or you just pretending?
+
+CCHSH_17_A_5 = ~z~~sl:0.0:1.4~Go rob a house, or...~sl:0.5:2.0~ask some sheriff about a bounty,~sl:0.0:1.5~shoot a godforsaken animal.~sl:~I don't care.
+
+CCHSH_17_A_6 = ~z~Do something!
+
+CCHSH_17_B_1 = ~z~~sl:0.0:1.2~Yeah.~sl:1.2~Sorry.
+
+CCHSH_17_B_2 = ~z~~sl:0.0:1.2~I'll go.~sl:0.9~Soon.
+
+CCHSH_17_B_3 = ~z~Thank you.
+
+CCHSH_17_B_ALTB_1 = ~z~Tell him, Arthur.
+
+CCHSH_17_B_ALTB_2 = ~z~Do what Hosea says!
+
+CCHSH_17_B_ALTB_3 = ~z~Well, screw you, Morgan!
+
+CCHSH_17_B_ALTB_4 = ~z~God...
+
+CCHSH_17_B_ALTF_1 = ~z~Tell him, Arthur.
+
+CCHSH_17_B_ALTF_2 = ~z~Do what Hosea says!
+
+CCHSH_17_B_ALTF_3 = ~z~Screw you, Morgan!
+
+CCHSH_17_B_ALTF_4 = ~z~God...
+

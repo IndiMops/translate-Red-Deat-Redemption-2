@@ -1,0 +1,364 @@
+0x00AA3AB4 = ~z~Morning, partner.
+
+0x02D17AA5 = ~z~Hey there.
+
+0x02F91E66 = ~z~You're acting like an idiot.
+
+0x033313BB = ~z~What is it?
+
+0x04099FAC = ~z~Sir.
+
+0x04D9464B = ~z~Okay, pretty lady?
+
+0x06704640 = ~z~Morning, mister.
+
+0x0776CD12 = ~z~What are you looking for?
+
+0x077C0C37 = ~z~Hey, miss.
+
+0x08B9ADF7 = ~z~Who do you think you're talking to?
+
+0x0A64449C = ~z~You do what you want, alright?
+
+0x0CFDFE8F = ~z~Hey.
+
+0x0E3F2FD5 = ~z~Hey, don't do that.
+
+0x0F3458E6 = ~z~You working on a ransom for them?
+
+0x1A2F5BAB = ~z~You're pushing your luck, pal.
+
+0x1B74EE68 = ~z~Ladies.
+
+0x1C166800 = ~z~I ain't wasting my time on you.
+
+0x1F8F7BB7 = ~z~Hey, pretty miss.
+
+0x1FA2F5E0 = ~z~What are you looking at?
+
+0x1FB23674 = ~z~Just cut it out.
+
+0x2BECFF26 = ~z~I've had about enough of you, now.
+
+0x2DEBD2E7 = ~z~That's enough.
+
+0x2E2EB83A = ~z~Go cough up a lung.
+
+0x2ECA2256 = ~z~Hey lady.
+
+0x2EFA99BC = ~z~Who's the prisoner?
+
+0x3B9F4354 = ~z~Hello.
+
+0x3BB2D3DE = ~z~Alright, I'm gonna get me some shut eye.
+
+0x3C62E7C1 = ~z~What's wrong with you?
+
+0x3CB11FEC = ~z~Hey, kid.
+
+0x3E438DAB = ~z~What the hell do you want?
+
+0x4C1D3E58 = ~z~Try it on someone else.
+
+0x4C6B1C1B = ~z~Just waiting for Micah to give the word on this job.
+
+0x4C229332 = ~z~Stay away from me.
+
+0x4D7289E0 = ~z~You trying to be funny?
+
+0x4D927701 = ~z~Son of a bitch.
+
+0x4DF86F8B = ~z~You've gone too far, now.
+
+0x4EBAF0E8 = ~z~Who's the stiff?
+
+0x5B6CC210 = ~z~Leave me alone.
+
+0x5E8D696C = ~z~Old man.
+
+0x5ED22C9F = ~z~You got a problem with me?
+
+0x6DA672E8 = ~z~Hi, boss.
+
+0x7A43FFBE = ~z~Leave me the hell alone.
+
+0x7A95F870 = ~z~Is that a threat?
+
+0x7A2517CA = ~z~Evening.
+
+0x7A17665C = ~z~I ain't saying it again.
+
+0x7C3B1419 = ~z~You sure you're feeling alright?
+
+0x8A61B066 = ~z~Why don't you rest a while, you look like you need it.
+
+0x8B8F519E = ~z~Made yourself a friend there?
+
+0x8B58CA0A = ~z~Evening, partner.
+
+0x8F6189A6 = ~z~Who's the trophy?
+
+0x9ACF20B2 = ~z~Morning.
+
+0x9AD1D253 = ~z~Fellers.
+
+0x9DAE6EB5 = ~z~Evening, mister.
+
+0x9E952F57 = ~z~Er... hello? What do you want?
+
+0x9ED89136 = ~z~Okay, I've had it with you now.
+
+0x9EE6E3EA = ~z~You're a strange feller.
+
+0x9F13B329 = ~z~How's the head?
+
+0x11CF8772 = ~z~Joe.
+
+0x11DDD524 = ~z~Just get out of here.
+
+0x13DD32B4 = ~z~I gotta sleep.
+
+0x15B86738 = ~z~A hostage... nice.
+
+0x17C13CD7 = ~z~What do you want?
+
+0x22EAEBF4 = ~z~Just go away.
+
+0x24ECADAC = ~z~Hey, Joe.
+
+0x33C71751 = ~z~I ain't rising to this.
+
+0x44D7DD22 = ~z~Don't know which of you has more life in them.
+
+0x49E685FB = ~z~Just go away.
+
+0x54B351EC = ~z~Hey, lady.
+
+0x55B3676A = ~z~What do you want?
+
+0x61D48E00 = ~z~Hey there.
+
+0x64D2F383 = ~z~You're drunk.
+
+0x66E1C8B0 = ~z~Get the hell away from me.
+
+0x71CB0290 = ~z~Why are you following me?
+
+0x77C1A6F8 = ~z~Hey, ladies.
+
+0x80ADDD2F = ~z~This job better be worth it, Micah.
+
+0x80C72012 = ~z~You just showing off with that now?
+
+0x82F344F8 = ~z~I ain't causing you no trouble, what's the problem?
+
+0x83B9A66D = ~z~You following me?
+
+0x95B44105 = ~z~Now I heard it all.
+
+0x98EF1240 = ~z~Sure.
+
+0x99AECF00 = ~z~You're a strange one, ain't you?
+
+0x146D17D6 = ~z~What's your problem?
+
+0x149D4F59 = ~z~Real funny.
+
+0x174A16AA = ~z~Evening, miss.
+
+0x254FFC08 = ~z~Just go away.
+
+0x287A0CF8 = ~z~What is it?
+
+0x293B55BC = ~z~Well thank you for sharing that.
+
+0x568F56FC = ~z~You need to learn to hold your drink.
+
+0x571B8AB7 = ~z~Ugh, God, I need some sleep.
+
+0x665D293A = ~z~Reckon I'll call it a night.
+
+0x710A4B55 = ~z~Hey there.
+
+0x763EBBB5 = ~z~How are you doing?
+
+0x837E9F6F = ~z~Just going round picking fights, huh?
+
+0x860BF0C5 = ~z~Hey, mister.
+
+0x1247DD1B = ~z~That dumb mutt.
+
+0x2177CDE9 = ~z~Just go away.
+
+0x2887C00B = ~z~You trying to make a problem?
+
+0x5258C82A = ~z~Evening, mister.
+
+0x6606F493 = ~z~You been drinking?
+
+0x8785A4C5 = ~z~Hey.
+
+0x29083A26 = ~z~Evening, lady.
+
+0x52170BFA = ~z~Good evening.
+
+0x87527FFA = ~z~You alright?
+
+0x90906B77 = ~z~Mister.
+
+0x98814F86 = ~z~That thing's gonna start to stink if you don't get it out of here.
+
+0x158425F6 = ~z~Get away from me.
+
+0x666598E0 = ~z~Howdy.
+
+0x33636405 = ~z~Hi, little lady.
+
+0xA71DBF90 = ~z~You okay?
+
+0xA866E66A = ~z~I like it.
+
+0xA59023A9 = ~z~Can you back up a bit?
+
+0xA618959B = ~z~Morning.
+
+0xAD3C9115 = ~z~You need something?
+
+0xAD83C8F5 = ~z~Well, that cheered me up.
+
+0xAD1076D0 = ~z~Boys.
+
+0xB0CD72BD = ~z~You're starting to annoy me now?
+
+0xB9E812D8 = ~z~What's that horse doing in here?
+
+0xB19F280E = ~z~Oh, hey.
+
+0xB83F4224 = ~z~Remind me not to share a bandana with you.
+
+0xB331FE69 = ~z~I ain't causing you no trouble, what's the problem?
+
+0xB5105B75 = ~z~Alright?
+
+0xB134438C = ~z~Who does he think he is?
+
+0xBAC3BEF1 = ~z~Morning, mister.
+
+0xBBFF2708 = ~z~I wouldn't carry that around for too long, not in your condition.
+
+0xBCF0E1AC = ~z~Evening.
+
+0xBD29EF55 = ~z~You gonna be a good boy now?
+
+0xBE045C62 = ~z~Whatever you say.
+
+0xC0489D8E = ~z~You should watch your mouth.
+
+0xC1EF93EA = ~z~Micah.
+
+0xC4CB922D = ~z~Oh, I'd forgotten about you.
+
+0xC5B307D0 = ~z~Mister.
+
+0xC36F6802 = ~z~Don't take that from him.
+
+0xC47DE7D3 = ~z~Hey.
+
+0xC4273204 = ~z~You wearing that on account of the sickness?
+
+0xCB92CFB2 = ~z~Micah's right about that dog.
+
+0xCC22F89F = ~z~Alright, my friend.
+
+0xCCBB6B18 = ~z~You're all dressed for the job already.
+
+0xCD829322 = ~z~You're the German one?
+
+0xCDDC26AF = ~z~I'm going back to sleep.
+
+0xCFA2912E = ~z~Reverend.
+
+0xD0FE7581 = ~z~Enough, now.
+
+0xD3B69C70 = ~z~Uh huh.
+
+0xD4CB4693 = ~z~Ain't my fault you're sick.
+
+0xD5C90A69 = ~z~What?
+
+0xD5DED573 = ~z~What's the mask for?
+
+0xD22F80DC = ~z~Miss.
+
+0xD76AA3D8 = ~z~Hey.
+
+0xD81D9B4E = ~z~Good morning.
+
+0xD864C682 = ~z~Hey there.
+
+0xD8583BE9 = ~z~That's enough.
+
+0xD33189C5 = ~z~Hey lady.
+
+0xD3933731 = ~z~Hey, Micah.
+
+0xDAD904BC = ~z~Hey, mister.
+
+0xDC61A20A = ~z~Hey.
+
+0xDC67D315 = ~z~Morning, miss.
+
+0xDF52AC92 = ~z~Miserable bastard, eh?
+
+0xDF963749 = ~z~Hey.
+
+0xDFBDC2F3 = ~z~Miss.
+
+0xE07CC98F = ~z~Micah thought you might have cut and run.
+
+0xE8AAA05F = ~z~You alright there?
+
+0xE8E36960 = ~z~Boss.
+
+0xE743DFCD = ~z~Nice feller, ain't he?
+
+0xE861AD40 = ~z~You alright there, miss?
+
+0xE5455A95 = ~z~Hey boss.
+
+0xEB2A709A = ~z~Morning, lady.
+
+0xEBD66502 = ~z~What?
+
+0xEBEA3064 = ~z~Feller in your condition should give folks some space.
+
+0xEC010E9D = ~z~What are you staring at?
+
+0xEF095A7C = ~z~Partner.
+
+0xEF12619C = ~z~Hey, lady.
+
+0xF0860013 = ~z~Hey, we don't need that shitting all over the place.
+
+0xF2B3CEAE = ~z~Hi.
+
+0xF89FD4A1 = ~z~Madam.
+
+0xF542CE59 = ~z~You alright?
+
+0xF4757A30 = ~z~Is he always this charming?
+
+0xF36151A4 = ~z~Look at this one... stone cold killer.
+
+0xF55399B0 = ~z~How long you gonna carry them around for?
+
+0xF4261820 = ~z~Micah brought us in, for the train job. Name's Cleet, by the way.
+
+0xF9586499 = ~z~The camp priest.
+
+0xFBF88B48 = ~z~Hey, what are you doing?
+
+0xFC30B686 = ~z~Why are you poking around here for?
+
+0xFDF8D481 = ~z~Why are you all up on me?
+

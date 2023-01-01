@@ -1,0 +1,520 @@
+TRN3_ET_CLOSE_1 = ~z~Get ready to jump!
+
+TRN3_ET_HURRY_1 = ~z~It's right on us, come on!
+
+TRN3_ET_JUMP_1 = ~z~Jump, now!
+
+TRN3_ET_QUICK_1 = ~z~Faster!
+
+TRN3_ET_START_1 = ~z~Let's go, let's go.
+
+TRN3_ET_START_2 = ~z~Just get to the end of the bridge and jump!
+
+TRN3_EXT_1 = ~z~Well, I guess old Dutch got all the smoke he wants.
+
+TRN3_EXT_2 = ~z~Well let's hope so.
+
+TRN3_EXT_3 = ~z~You really think that that'll draw attention away from us?
+
+TRN3_EXT_4 = ~z~I guess we'll see.
+
+TRN3_EXT_5 = ~z~Tell the truth...
+
+TRN3_EXT_6 = ~z~I ain't even sure I fully understand Dutch's plan with all this.
+
+TRN3_EXT_7 = ~z~Like I said, John...
+
+TRN3_EXT_8 = ~z~when the time comes, you go.
+
+TRN3_EXT_9 = ~z~But what about loyalty to...
+
+TRN3_EXT_10 = ~z~to everything?
+
+TRN3_EXT_11 = ~z~You been loyal.
+
+TRN3_EXT_12 = ~z~I been loyal.
+
+TRN3_EXT_13 = ~z~Look what that caused.
+
+TRN3_EXT_14 = ~z~You know, all that ever mattered to me was loyalty.
+
+TRN3_EXT_15 = ~z~It was all I knew.
+
+TRN3_EXT_16 = ~z~It was all I ever believed in...
+
+TRN3_EXT_17 = ~z~but not anymore, John.
+
+TRN3_EXT_18 = ~z~Soon...
+
+TRN3_EXT_19 = ~z~you gotta go.
+
+TRN3_EXT_20 = ~z~Go...
+
+TRN3_EXT_21 = ~z~don't look back.
+
+TRN3_EXT_22 = ~z~I'll think about it.
+
+TRN3_EXT_23 = ~z~Now I've done a lot of thinking.
+
+TRN3_EXT_24 = ~z~Look at us...
+
+TRN3_EXT_25 = ~z~out here risking our necks...
+
+TRN3_EXT_26 = ~z~and for what exactly?
+
+TRN3_EXT_27 = ~z~For a...
+
+TRN3_EXT_28 = ~z~For a silly idea?
+
+TRN3_EXT_29 = ~z~It don't even exist.
+
+TRN3_EXT_30 = ~z~How you mean?
+
+TRN3_EXT_31 = ~z~You know just what I mean.
+
+TRN3_EXT_32 = ~z~You need cash.
+
+TRN3_EXT_33 = ~z~You got a family.
+
+TRN3_EXT_34 = ~z~I'll think about it.
+
+TRN3_EXT_35 = ~z~I've done a lot of thinking.
+
+TRN3_EXT_36 = ~z~Look at us...
+
+TRN3_EXT_37 = ~z~out here risking our necks...
+
+TRN3_EXT_38 = ~z~and for what exactly?
+
+TRN3_EXT_39 = ~z~For a...
+
+TRN3_EXT_40 = ~z~An idea that don't work no more.
+
+TRN3_EXT_41 = ~z~How you mean?
+
+TRN3_EXT_42 = ~z~You know just what I mean.
+
+TRN3_EXT_43 = ~z~You got a family.
+
+TRN3_EXT_44 = ~z~You need cash...
+
+TRN3_EXT_45 = ~z~you need to start building a life for yourself.
+
+TRN3_EXT_46 = ~z~Me?
+
+TRN3_EXT_47 = ~z~Well, I need a vacation...
+
+TRN3_EXT_48 = ~z~and Dutch...
+
+TRN3_EXT_49 = ~z~has all the money.
+
+TRN3_EXT_50 = ~z~For safekeeping.
+
+TRN3_EXT_51 = ~z~You know something...
+
+TRN3_EXT_52 = ~z~Abigail...
+
+TRN3_EXT_53 = ~z~thinks she might know where some of that money is.
+
+TRN3_EXT_54 = ~z~Well you tell her she better make sure...
+
+TRN3_EXT_55 = ~z~and then come talk to me...
+
+TRN3_EXT_56 = ~z~and we'll find out just who and what we should be loyal to.
+
+TRN3_EXT_57 = ~z~I-I don't know, Arthur.
+
+TRN3_EXT_58 = ~z~Nor do I...
+
+TRN3_EXT_59 = ~z~but I am starting to see things clearly now.
+
+TRN3_EXT_60 = ~z~I ain't being taken for a fool no more.
+
+TRN3_EXT_61 = ~z~Get out of here.
+
+TRN3_EXT_62 = ~z~Come on!
+
+TRN3_EXT_63 = ~z~Nor do I...
+
+TRN3_EXT_64 = ~z~but I'm seeing things a lot more clearly now.
+
+TRN3_EXT_65 = ~z~I wish things were different...
+
+TRN3_EXT_66 = ~z~but it weren't us who changed.
+
+TRN3_EXT_LOB_1 = ~z~
+
+TRN3_EXT_LOE_1 = ~z~
+
+TRN3_EXT_LOI_1 = ~z~
+
+TRN3_GB_BANT1_1 = ~z~You hear about Dutch and Cornwall?
+
+TRN3_GB_BANT1_2 = ~z~~sl:0.0:2.8~Yeah, this is what I'm talking about.~sl:0.3~More enemies, more chaos... I mean,
+
+TRN3_GB_BANT1_3 = ~z~we're about to blow up a bridge, for Christ's sake.
+
+TRN3_GB_C1CLOSE_1 = ~z~That's it... nearly there.
+
+TRN3_GB_C1DONE_1 = ~z~Okay, good. Grab the other one.
+
+TRN3_GB_C1START_1 = ~z~Alright, take it slow... that's not something we wanna drop.
+
+TRN3_GB_CRATE1W_01 = ~z~Are you getting the crate?
+
+TRN3_GB_CRATE1W_02 = ~z~Grab the first one, come on.
+
+TRN3_GB_CRATE1W_03 = ~z~Hurry, Arthur.
+
+TRN3_GB_CRATE2W_01 = ~z~Hurry, Arthur, before someone sees us.
+
+TRN3_GB_CRATE2W_02 = ~z~Are you getting another crate?
+
+TRN3_GB_CRATE2W_03 = ~z~Quick as you can, Arthur.
+
+TRN3_GB_CRATE_1 = ~z~I'll climb down there, you lower the crates.
+
+TRN3_GB_CRATE_2 = ~z~Alright, let me know when you're ready.
+
+TRN3_GB_DRCRATE_1 = ~z~Ready when you are.
+
+TRN3_GB_GOTIT_1 = ~z~Got it.
+
+TRN3_GB_IDLERE_01 = ~z~Push, Arthur.
+
+TRN3_GB_IDLERE_02 = ~z~Come on.
+
+TRN3_GB_IDLERE_03 = ~z~Help me out here.
+
+TRN3_GB_IDLERE_04 = ~z~Push.
+
+TRN3_GB_IDLE_1 = ~z~Come on then, let's get this moving.
+
+TRN3_GB_INPOS1W_01 = ~z~Okay, start lowering it down.
+
+TRN3_GB_INPOS1W_02 = ~z~I'm ready, come on.
+
+TRN3_GB_INPOS1W_03 = ~z~Let's get moving here, Arthur.
+
+TRN3_GB_INPOS2W_01 = ~z~Okay, let's go.
+
+TRN3_GB_INPOS2W_02 = ~z~Start lowering it, Arthur.
+
+TRN3_GB_INPOS2W_03 = ~z~Just like last time, come on.
+
+TRN3_GB_INPOS_1 = ~z~I'm at the bottom of the ladder here to your left.
+
+TRN3_GB_LOWCRAT_1 = ~z~Nice and easy.
+
+TRN3_GB_START_1 = ~z~Let's ride this thing out onto the bridge.
+
+TRN3_GB_START_2 = ~z~~sl:0.0:2.2~There's a spot about a third of the way across~sl:~where we can get down underneath to plant the charges.
+
+TRN3_GB_START_3 = ~z~I've already set up the detonator.
+
+TRN3_GB_START_4 = ~z~Sure, let's get this over with.
+
+TRN3_HERE_1 = ~z~Okay, grab yourself a bundle from the box.
+
+TRN3_IG9_1 = ~z~~sl:0.0:2.9~Um... I think the line held.~sl:0.6~You want the honors?
+
+TRN3_IG9_2 = ~z~Sure.
+
+TRN3_IG11_1 = ~z~~sl:0.7~We sure got a lot of this stuff.
+
+TRN3_IG11_2 = ~z~We'll need it.
+
+TRN3_IG17_DOWN_1 = ~z~Down here!
+
+TRN3_IG17_KEEP_1 = ~z~Keep it coming...
+
+TRN3_IG18_CMON_1 = ~z~Come on... down here!
+
+TRN3_IG19_GOTIT_1 = ~z~~sl:0.0:0.5:1~Got it!
+
+TRN3_IG22_CO1_1 = ~z~Shit... Arthur, a train! Come on, quick!
+
+TRN3_IG22_CO2_1 = ~z~Come on!
+
+TRN3_IG22_GETOB_1 = ~z~~sl:0.0:2.5:1~Pump this stupid thing... hard as you can!
+
+TRN3_IG22_GETOB_2 = ~z~
+
+TRN3_IG23_1 = ~z~
+
+TRN3_INT_1 = ~z~Arthur.
+
+TRN3_INT_2 = ~z~How you doing?
+
+TRN3_INT_3 = ~z~Nervous, but...
+
+TRN3_INT_4 = ~z~I've been nervous for a while.
+
+TRN3_INT_5 = ~z~I had a lot of time to think in that jail and...
+
+TRN3_INT_6 = ~z~I feel like I just don't know Dutch no more.
+
+TRN3_INT_7 = ~z~You ain't the only one.
+
+TRN3_INT_8 = ~z~And this plan to get us out, it just feels...
+
+TRN3_INT_9 = ~z~I don't know...
+
+TRN3_INT_10 = ~z~Like he's stringing us along, I know...
+
+TRN3_INT_11 = ~z~Killing in cold blood, revenge, we all do bad things, but...
+
+TRN3_INT_12 = ~z~he seems to enjoy it now.
+
+TRN3_INT_13 = ~z~It's like he just wants to create more enemies. More chaos.
+
+TRN3_INT_14 = ~z~Yeah, I know.
+
+TRN3_INT_15 = ~z~I mean... I love Dutch.
+
+TRN3_INT_16 = ~z~He saved me a long time ago.
+
+TRN3_INT_17 = ~z~I feel like in Saint Denis, when I got arrested...
+
+TRN3_INT_18 = ~z~maybe he could have done something.
+
+TRN3_INT_19 = ~z~I feel like you should take your woman and child...
+
+TRN3_INT_20 = ~z~and get lost.
+
+TRN3_INT_21 = ~z~Do you?
+
+TRN3_INT_22 = ~z~You can... you could give something to Jack.
+
+TRN3_INT_23 = ~z~It's that or... well, I don't see no way outta this.
+
+TRN3_INT_24 = ~z~Well, what about loyalty?
+
+TRN3_INT_25 = ~z~Be loyal to what matters.
+
+TRN3_INT_26 = ~z~What are you gonna do?
+
+TRN3_INT_27 = ~z~I-I'll be okay... but do it, for me.
+
+TRN3_INT_28 = ~z~And it would make me...
+
+TRN3_INT_29 = ~z~ feel...
+
+TRN3_INT_30 = ~z~good, if that makes any sense.
+
+TRN3_INT_31 = ~z~A little, but...
+
+TRN3_INT_32 = ~z~Listen to me...
+
+TRN3_INT_33 = ~z~I feel like you should take your woman and child...
+
+TRN3_INT_34 = ~z~and get lost.
+
+TRN3_INT_35 = ~z~Do you?
+
+TRN3_INT_36 = ~z~What reason you got to stick around at this point?
+
+TRN3_INT_37 = ~z~It's done, I don't see no way outta any of this.
+
+TRN3_INT_38 = ~z~What about loyalty?
+
+TRN3_INT_39 = ~z~That's long been broken.
+
+TRN3_INT_40 = ~z~Well, what are you gonna do?
+
+TRN3_INT_41 = ~z~I gotta see this through, try and make some of it right.
+
+TRN3_INT_42 = ~z~There was a code we had, gotta still mean something.
+
+TRN3_INT_43 = ~z~Sure, I know, but...
+
+TRN3_INT_44 = ~z~Listen to me...
+
+TRN3_INT_45 = ~z~when the time comes...
+
+TRN3_INT_46 = ~z~you gotta run, and don't look back.
+
+TRN3_INT_47 = ~z~This is over.
+
+TRN3_INT_48 = ~z~And now?
+
+TRN3_INT_49 = ~z~Now, we gotta help Dutch give the army one final tweak on its nose.
+
+TRN3_INT_50 = ~z~Yeah, come on...
+
+TRN3_INT_51 = ~z~help me with the rest of this.
+
+TRN3_INT_52 = ~z~Well, it looks like we finally found our calling in life.
+
+TRN3_INT_LEADIN_1 = ~z~~sl:0.0:0.6:1~Arthur.
+
+TRN3_INT_LEADIN_2 = ~z~How you doing?
+
+TRN3_INT_LEADIN_3 = ~z~Nervous...
+
+TRN3_INT_LEADIN_4 = ~z~but...
+
+TRN3_LB_UP_1 = ~z~We still need the other box, Arthur. Get back up there.
+
+TRN3_LD_EDGE_01 = ~z~You're too far back.
+
+TRN3_LD_EDGE_02 = ~z~Come closer to the edge.
+
+TRN3_LD_EDGE_03 = ~z~Closer to the railing, Arthur.
+
+TRN3_LD_GOBACK_1 = ~z~~sl:0.0:0.8~What are you doing?~sl:0.6~You're supposed to be lowering the dynamite down to me.
+
+TRN3_LD_LEFT_01 = ~z~Left a bit, Arthur.
+
+TRN3_LD_LEFT_02 = ~z~Come left.
+
+TRN3_LD_LEFT_03 = ~z~That's too far right.
+
+TRN3_LD_RIGHT1_01 = ~z~There's good. Lower it down.
+
+TRN3_LD_RIGHT1_02 = ~z~Okay, you should be good there.
+
+TRN3_LD_RIGHT1_03 = ~z~That's the spot, lower it from there.
+
+TRN3_LD_RIGHT_01 = ~z~No, more to your right.
+
+TRN3_LD_RIGHT_02 = ~z~You're too far left.
+
+TRN3_LD_RIGHT_03 = ~z~To the right a bit.
+
+TRN3_MCS1_1 = ~z~Train!
+
+TRN3_MCS1_2 = ~z~Arthur, get up here, quick!
+
+TRN3_MCS1_3 = ~z~Yeah, I'm on my way.
+
+TRN3_MCS1_LO_1 = ~z~Faster buddy, come on!
+
+TRN3_MCS2_1 = ~z~Thank you.
+
+TRN3_MCS2_2 = ~z~No problem.
+
+TRN3_MCS2_3 = ~z~That just ain't how I wanna die.
+
+TRN3_MCS2_4 = ~z~Come on...
+
+TRN3_MCS2_5 = ~z~let's go blow this thing up.
+
+TRN3_PD_BANT1SHOUTED_2 = ~z~~sl:0.0:3.8~These are mining charges... ain't easy to come by.~sl:~If they don't do the job, nothing will.
+
+TRN3_PD_BANT1SPOKEN_2 = ~z~~sl:0.0:3.1~These are mining charges... ain't easy to come by.~sl:~If they don't do the job, nothing will.
+
+TRN3_PD_BANT1_1 = ~z~I sure hope this is enough to blow it.
+
+TRN3_PD_BANT2SHOUTED_2 = ~z~~sl:0.0:1.8~Dutch wants a distraction...~sl:0.5~something to buy us some time... pull some attention off of us.
+
+TRN3_PD_BANT2SHOUTED_3 = ~z~~sl:0.0:4.1~And we found out Cornwall's company's got a contract~sl:~with the army, so I think Dutch figures, after this,
+
+TRN3_PD_BANT2SHOUTED_4 = ~z~~sl:0.0:4.0~they'll need to send up a train with cash and supplies.~sl:0.6~And then we'll rob that train.
+
+TRN3_PD_BANT2SHOUTED_6 = ~z~~sl:0.0:2.6~It would have sounded crazy six months ago.~sl:0.4~Now, it sounds pretty normal.
+
+TRN3_PD_BANT2SPOKEN_2 = ~z~~sl:0.0:1.7~Dutch wants a distraction...~sl:0.4~something to buy us some time... pull some attention off of us.
+
+TRN3_PD_BANT2SPOKEN_3 = ~z~~sl:0.0:3.1~And we found out Cornwall's company's got a contract~sl:~with the army, so I think Dutch figures, after this,
+
+TRN3_PD_BANT2SPOKEN_4 = ~z~~sl:0.0:3.7~they'll need to send up a train with cash and supplies.~sl:0.4~And then we'll rob that train.
+
+TRN3_PD_BANT2SPOKEN_6 = ~z~~sl:0.0:2.4~It would have sounded crazy six months ago.~sl:0.5~Now? It sounds pretty normal.
+
+TRN3_PD_BANT2_1 = ~z~So why exactly are we doing this?
+
+TRN3_PD_BANT2_5 = ~z~I don't know... this all sounds pretty crazy to me.
+
+TRN3_PD_BANT2_7 = ~z~I guess Cornwall's legacy lives on.
+
+TRN3_PD_BANT2_8 = ~z~In a way, I guess so.
+
+TRN3_PD_DYNRE_01 = ~z~Quick as you can, Arthur.
+
+TRN3_PD_DYNRE_02 = ~z~We need to get all this planted fast.
+
+TRN3_PD_DYNRE_03 = ~z~Come on, Arthur, we don't have much time here.
+
+TRN3_PD_DYNRE_04 = ~z~We gotta hurry, Arthur.
+
+TRN3_PD_DYNRE_05 = ~z~Let's get it all set up, come on.
+
+TRN3_PD_GOBACK_01 = ~z~Go on.
+
+TRN3_PD_GOBACK_02 = ~z~Get back down there and finish the job.
+
+TRN3_PD_GOBACK_03 = ~z~We don't have time for you to mess around.
+
+TRN3_PD_GRABW_01 = ~z~Are you coming?
+
+TRN3_PD_GRABW_02 = ~z~I need some help down here.
+
+TRN3_PD_GRABW_03 = ~z~What are you doing up there?
+
+TRN3_PD_GRAB_1 = ~z~Alright, come down here and help me plant this stuff.
+
+TRN3_PD_HURRY_01 = ~z~How are you doing down there?
+
+TRN3_PD_HURRY_02 = ~z~Quick as you can, Arthur.
+
+TRN3_PD_HURRY_03 = ~z~Need to get this finished soon, Arthur.
+
+TRN3_PD_IDLE_01 = ~z~Grab some dynamite, Arthur, come on.
+
+TRN3_PD_IDLE_02 = ~z~What's wrong? Let's get this done.
+
+TRN3_PD_IDLE_03 = ~z~We don't have much time here.
+
+TRN3_PD_JOHNCRT_1 = ~z~~sl:0.0:2.9~Okay, I should go get the handcar ready.~sl:~You okay to finish off down here?
+
+TRN3_PD_JOHNCRT_2 = ~z~Sure, go on. I can handle the rest.
+
+TRN3_PD_NODYNSHOUTED_03 = ~z~~sl:0.0:1.5~Go get some more dynamite.~sl:0.6~We need to plant it on all the main struts.
+
+TRN3_PD_NODYNSPOKEN_03 = ~z~~sl:0.0:1.5~Go get some more dynamite.~sl:0.2~We need to plant it on all the main struts.
+
+TRN3_PD_NODYN_01 = ~z~What are you doing? Go grab another one.
+
+TRN3_PD_NODYN_02 = ~z~Get another bundle from the boxes, come on.
+
+TRN3_PD_NOTDONE_1 = ~z~Are you done?
+
+TRN3_PD_NOTDONE_2 = ~z~Not yet.
+
+TRN3_PD_NOTDONE_3 = ~z~Well get back down there. What are you doing?
+
+TRN3_PD_PASS_1 = ~z~I'll see you up there. This better work.
+
+TRN3_PD_PLACE_1 = ~z~~sl:0.0:1.8~The bridge is wired to the detonator.~sl:0.3~We need to attach each of those bundles to the fuses.
+
+TRN3_PD_PLACE_2 = ~z~There's one on each of the main support beams.
+
+TRN3_PD_PLACE_3 = ~z~Okay.
+
+TRN3_PD_TRAINYL_1 = ~z~Shit... I think I hear something coming, Arthur.
+
+TRN3_PLNG_CMON_01 = ~z~Get over here, Arthur.
+
+TRN3_PLNG_CMON_02 = ~z~What are you doing? Let's finish this.
+
+TRN3_PLNG_CMON_03 = ~z~Can we just blow this and get out of here?
+
+TRN3_PLNG_DAWD_01 = ~z~What are you waiting for?
+
+TRN3_PLNG_DAWD_02 = ~z~Do it, Arthur.
+
+TRN3_PLNG_DAWD_03 = ~z~Alright then.
+
+TRN3_RC_HURRY2_1 = ~z~~sl:0.0:1.2~What are you waiting for?~sl:0.3~You need to get up here right now, Arthur!
+
+TRN3_RC_HURRY_1 = ~z~Get the hell up here, now!
+
+TRN3_RC_NOTON_01 = ~z~Get on here quick!
+
+TRN3_RC_NOTON_02 = ~z~Come on!
+
+TRN3_RC_NOTON_03 = ~z~Get on the goddamn cart!
+
+TRN_GB_STOP_1 = ~z~Alright, stop. Here's good.
+

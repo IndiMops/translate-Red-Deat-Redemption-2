@@ -1,0 +1,16 @@
+CWRM1_ACTN_A_1 = ~z~It's okay, people, it's okay, we're going to eat just fine. I got us a score, got us something good!
+
+CWRM1_ACTN_A_2 = ~z~I said, I got us a good score, Miss Roberts... maybe you'll let me take you out sometime?
+
+CWRM1_ACTN_A_3 = ~z~I don't think so.
+
+CWRM1_ACTN_A_4 = ~z~I shall. Hey! Fat man! Go buy us something decent to eat.
+
+CWRM1_ACTN_A_5 = ~z~Yeah, okay.
+
+CWRM1_ACTN_A_6 = ~z~
+
+CWRM1_ACTN_B_1 = ~z~All you folk can thank Uncle Micah, when the eating's good, you hear?
+
+CWRM1_ACTN_B_2 = ~z~
+

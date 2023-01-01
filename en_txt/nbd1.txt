@@ -1,0 +1,126 @@
+0x0688C0C9 = The vantage point was abandoned.
+
+0x3ADCA7C4 = ~a~
+
+0x994B7552 = the bank
+
+0xBA32EAB8 = Return to the ~o~vantage point~s~
+
+NBD1_AIM_HLP = Approach the bank manager and intimidate him to open the vault
+
+NBD1_AV_OBJ1 = Unlock the ~o~safes~s~
+
+NBD1_AV_VAULT = Enter the ~o~vault~s~
+
+NBD1_BANKM = Bank Manager
+
+NBD1_BANK_FAIL = Dutch has died.
+
+NBD1_BANK_POL = The law were alerted.
+
+NBD1_BF_OBJ1 = Take out the ~e~lawmen~s~
+
+NBD1_BIB_OBJ3 = Force the ~o~bank manager~s~ to open the vault
+
+NBD1_BIB_USE0 = Unlock safe
+
+NBD1_BILLF = Bill's wagon was damaged.
+
+NBD1_BLIP_CONVOY = Convoy
+
+NBD1_BLOW = The dynamite was blown too early.
+
+NBD1_BM_HLP = Approach the manager and press ~INPUT_MELEE_ATTACK~ to force the manager to open the vault
+
+NBD1_CAUGHT = The Pinkertons were alerted
+
+NBD1_CLIMB = Climb in the abandoned building ~o~window~s~
+
+NBD1_DISTRACT_HLP = Press ~INPUT_WHISTLE~ to attract the guards to a location while out of sight
+
+NBD1_DYNAMITE = Dynamite
+
+NBD1_FAIL_GANG = The gang was abandoned.
+
+NBD1_FL_BANK = The bank was abandoned.
+
+NBD1_FOLLOW = Follow the ~o~convoy~s~ to Saint Denis
+
+NBD1_F_BANKEARLY = You sabotaged the bank robbery.
+
+NBD1_GTD_DISTR = Attract the guards over to the ~o~area~s~ without being spotted
+
+NBD1_GTD_OBJ1 = Follow ~o~Dutch~s~
+
+NBD1_GTD_OBJ3 = Follow ~o~Dutch~s~ through the train
+
+NBD1_GTD_REGROUP = Follow ~o~Dutch~s~
+
+NBD1_GTD_SEAT = Hide behind the train ~o~seats~s~
+
+NBD1_GTR1_OBJ1 = Go to the ~o~roof~s~
+
+NBD1_GTR2_OBJ1 = Take out the ~e~lawmen~s~ while the gang climb up to the roof
+
+NBD1_GUARDDEAD = A Pinkerton was killed
+
+NBD1_HEXP = Wait with ~o~Dutch~s~ for Hosea's distraction
+
+NBD1_HITCH = Hitch your horse at a ~o~hitching post~s~
+
+NBD1_HIW_OBJ2 = Go to ~o~Dutch~s~
+
+NBD1_HIW_OBJ5 = Take ~o~cover~s~ from the dynamite
+
+NBD1_HIW_OBJ6 = Shoot the ~e~dynamite~s~
+
+NBD1_HIW_OBJC = Help ~o~Charles~s~ defend against the incoming wagons
+
+NBD1_HIW_P = Pick up the ~o~dynamite~s~
+
+NBD1_HIW_PLACE = Place the dynamite on the ~o~wall~s~
+
+NBD1_HIW_WALL = Go to the ~o~wall~s~
+
+NBD1_HOGB = The bank manager was prevented from opening the vault
+
+NBD1_HOSEAF = Hosea's wagon was damaged.
+
+NBD1_H_WARNSHOT = While aiming press ~INPUT_AIM_IN_AIR~ and ~INPUT_ATTACK~ to fire a warning shot.
+
+NBD1_KILLB = The bank manager was killed.
+
+NBD1_LENNY_APPR = Go and help ~o~Lenny~s~
+
+NBD1_LOOK = Look
+
+NBD1_QUICK = Equip Mask
+
+NBD1_RE_OBJ1 = Follow ~o~Dutch~s~
+
+NBD1_RJ_OBJ1 = Follow ~o~Lenny~s~ across the rooftop
+
+NBD1_RJ_OBJ2 = Take out the ~e~lawmen~s~ on the rooftop
+
+NBD1_RJ_OBJ3 = Jump across the alley to the ~o~roof~s~
+
+NBD1_UC_BANKINT = Intimidate
+
+NBD1_UC_BANKM = Beat
+
+NBD1_UC_DYNA = Place Dynamite
+
+NBD1_UC_JUMP = Jump
+
+NBD1_UC_LOOT = Loot
+
+NBD1_UC_WINDOW = Climb Window
+
+NBD1_WN_BANK = Return to the ~o~bank~s~
+
+NBD1_WN_CONV_ABANDON = The convoy was abandoned.
+
+NBD1_WN_CONV_RETURN = Return to the ~o~convoy~s~
+
+NBD1_WN_ROOF = Return to the ~o~rooftop~s~
+

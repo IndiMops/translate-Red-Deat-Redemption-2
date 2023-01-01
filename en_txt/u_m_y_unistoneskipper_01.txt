@@ -1,0 +1,152 @@
+0x0053E0C8 = ~z~Hey mister, I just wanna be left alone, alright?
+
+0x012D4BD8 = ~z~Hey, mister, I... you're sick, and I don't want whatever it is you got.
+
+0x03AD9014 = ~z~Come on!
+
+0x2E0F6456 = ~z~Strutting around, your nose in the air.
+
+0x2ED557CD = ~z~You found her!
+
+0x3B865CDD = ~z~Oh, Lily-May...
+
+0x3D0107F2 = ~z~
+
+0x4A41FE4B = ~z~Well... I'll just keep on looking.
+
+0x4AD4A399 = ~z~Oh, man...
+
+0x4E064CB2 = ~z~Where are you, girl?
+
+0x4F6666E8 = ~z~Hey, stop it!
+
+0x5D2BE08F = ~z~Alright, I'll just keep looking.
+
+0x6A7F1D9E = ~z~She knows where home is. I know she's somewhere close.
+
+0x6FB28BAA = ~z~Oh, no, she ain't getting away again.
+
+0x7D9A3A8D = ~z~She's a foxhound. You know, white and brown. If you find her, I live in the house on the edge of town. Thank you, mister.
+
+0x7E703299 = ~z~No... no! How could you?
+
+0x8BC6D98B = ~z~Hey! I'm plenty man thank you very much.
+
+0x8E7DDFBD = ~z~She's been gone for hours. Can you help me find her? Please?
+
+0x14DB559C = ~z~I just... I just want to find my dog...
+
+0x52BA5E51 = ~z~You crazy good-for-nothing!
+
+0x70AA2AF8 = ~z~Fine then. Guess I'll just keep looking...
+
+0x92CE5AF3 = ~z~Oh, Lily-May, you're putting me to ruin.
+
+0x93C52715 = ~z~I will, mister. Thank you.
+
+0x96CDDCCF = ~z~Hey mister, have you seen my dog? I've been looking everywhere for her.
+
+0x225CDAE8 = ~z~I hope you're right, mister...
+
+0x425FD699 = ~z~Oh, thank you mister, truly. And you being unwell and all... Real kind of you.
+
+0x472F5EFA = ~z~Thanks.
+
+0x703ED82C = ~z~C'mere girl!
+
+0x718A69A1 = ~z~
+
+0x2153F3D5 = ~z~You leave me alone! You're wrong upstairs.
+
+0x2242AC5C = ~z~You wait, Lily-May! Well, someday, I'll show you!
+
+0x2734B721 = ~z~
+
+0x8021B309 = ~z~Thanks, mister. I hope you're right...
+
+0x8396E381 = ~z~Holding hands with that dumb lunkhead!
+
+0x96080A27 = ~z~Really? Oh, thanks, mister.
+
+0x3893489E = ~z~Where did you run off to?
+
+0x9741513E = ~z~You get away from me!
+
+0x10590031 = ~z~Lily-May! Lily-May, you think you're so great.
+
+0x34888729 = ~z~Thank you, thank you, mister. We ain't never spent a night apart. She's the closest thing to a family I got left.
+
+0xA83FE002 = ~z~Seems folk always talking about helping each other, but I sure don't know what that's like.
+
+0xA9424127 = ~z~No, but she knows the town well. She's somewhere here in Strawberry, mister.
+
+0xACF21AE4 = ~z~Even if I had a cent I wouldn't give it to you! Stay away from me!
+
+0xB4FF3A75 = ~z~Maybe I'll just stay here forever...
+
+0xB9B0D33A = ~z~Get him! Get him, girl!
+
+0xB9BD69B4 = ~z~Come on, mister. This here's my patch. I'm using it.
+
+0xB9328B06 = ~z~Right across the water... Lily-may...
+
+0xBBFB1682 = ~z~Okay... Good luck with your condition...
+
+0xBFBD0CF5 = ~z~Come here, girl!
+
+0xC2A5B3F2 = ~z~
+
+0xC5BE54EE = ~z~Lily-May... Lily-May!
+
+0xC74C665B = ~z~You'll be begging me to court you!
+
+0xC92DC99F = ~z~Hey, what'd I do?
+
+0xC915B197 = ~z~She wouldn't just leave me. She'll turn up, you'll see.
+
+0xC3939AAE = ~z~I appreciate it mister, I surely do. She must be getting real hungry by now...
+
+0xC19580A4 = ~z~
+
+0xC93056B6 = ~z~Okay, thanks.
+
+0xCA7DD241 = ~z~Come over here, girl.
+
+0xD2A5C52B = ~z~Hey, hey! What're you doing?
+
+0xD5A9BED5 = ~z~Yeah, I'm real tough.
+
+0xD247C893 = ~z~Waste away like some fallen leaf. Crinkle up. Wouldn't that be nice?
+
+0xD846792B = ~z~She's still somewhere in town, I'm sure.
+
+0xDB91CDD3 = ~z~Come on. Can't mope around here all day.
+
+0xDE041ED8 = ~z~Hey, mister, I get it, alright?
+
+0xDFA56DFC = ~z~Yeah, I'm tough. That's smart.
+
+0xE06B5E4A = ~z~You bastard! When my ma hears about this you're done for.
+
+0xE2CE3F15 = ~z~Fine then! I guess I'll just leave. Thanks a lot.
+
+0xE21BD3BD = ~z~I haven't found her yet. Not that you care none.
+
+0xE65059E1 = ~z~What? Well, well, forget you, mister!
+
+0xE214071A = ~z~Well? Please, sir. I'm getting real nervous about her...
+
+0xE573338D = ~z~Yeah? I been waiting...
+
+0xF8945F7D = ~z~What're you hiding for?
+
+0xF2775812 = ~z~That's right. You're a happy dog, ain't you?
+
+0xF9113931 = ~z~No! I wouldn't replace her, never. You leave me alone!
+
+0xFA95178E = ~z~I'll be rich! A nice big house!
+
+0xFC80D895 = ~z~So good to see you, girl!
+
+0xFE4D1DA3 = ~z~You best not talk about seeing me here, mister.
+

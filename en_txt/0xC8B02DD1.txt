@@ -1,0 +1,404 @@
+MPGVO_INT1_1 = ~z~Well, well, well...
+
+MPGVO_INT1_2 = ~z~Who's that Horley?
+
+MPGVO_INT1_3 = ~z~Who's that bad man?
+
+MPGVO_INT1_4 = ~z~Hello, Mr. Jones.
+
+MPGVO_INT1_5 = ~z~I said who is that?
+
+MPGVO_INT1_6 = ~z~Is that a kind man? Is that a good man?
+
+MPGVO_INT1_7 = ~z~Is that a bad man? Is it the devil?
+
+MPGVO_INT1_8 = ~z~Maybe it's all of them at once.
+
+MPGVO_INT1_9 = ~z~Maybe there ain't no devil, and no kindness neither.
+
+MPGVO_INT1_10 = ~z~You was always a strange one, Horley.
+
+MPGVO_INT1_11 = ~z~How is Mrs. LeClerk?
+
+MPGVO_INT1_12 = ~z~About as you'd expect.
+
+MPGVO_INT1_13 = ~z~I expect a lot.
+
+MPGVO_INT1_14 = ~z~It's mighty bad business.
+
+MPGVO_INT1_15 = ~z~LeClerk was a good man, a-a fine man.
+
+MPGVO_INT1_16 = ~z~That he was.
+
+MPGVO_INT1_17 = ~z~And this feller?
+
+MPGVO_INT1_18 = ~z~Well, that's their business.
+
+MPGVO_INT1_19 = ~z~Well, well, well...
+
+MPGVO_INT1_20 = ~z~Who's that Horley?
+
+MPGVO_INT1_21 = ~z~Who's that bad woman?
+
+MPGVO_INT1_22 = ~z~Hello, Mr. Jones.
+
+MPGVO_INT1_23 = ~z~I said who is that?
+
+MPGVO_INT1_24 = ~z~Is that a kind woman? Is that a good woman?
+
+MPGVO_INT1_25 = ~z~Is that a bad woman?
+
+MPGVO_INT1_26 = ~z~Is that a she-devil?
+
+MPGVO_INT1_27 = ~z~Maybe it's all of them at once.
+
+MPGVO_INT1_28 = ~z~And maybe there ain't no she-devil.
+
+MPGVO_INT1_29 = ~z~Maybe there ain't no kindness neither.
+
+MPGVO_INT1_30 = ~z~You was always a strange one, Horley.
+
+MPGVO_INT1_31 = ~z~How is Mrs. LeClerk?
+
+MPGVO_INT1_32 = ~z~About as you'd expect.
+
+MPGVO_INT1_33 = ~z~I expect a lot.
+
+MPGVO_INT1_34 = ~z~It's mighty bad business.
+
+MPGVO_INT1_35 = ~z~LeClerk was a good man, a-a fine man.
+
+MPGVO_INT1_36 = ~z~That he was.
+
+MPGVO_INT1_37 = ~z~And this gal?
+
+MPGVO_INT1_38 = ~z~Well, that's their business.
+
+MPGVO_INT1_39 = ~z~Oh, that's the world's business.
+
+MPGVO_INT1_40 = ~z~The world's business is kindness...
+
+MPGVO_INT1_41 = ~z~and gentleness, and, and evil...
+
+MPGVO_INT1_42 = ~z~and, and brutality.
+
+MPGVO_INT1_43 = ~z~What else is there, mister?
+
+MPGVO_INT1_44 = ~z~Oh, there's a whole lot else besides.
+
+MPGVO_INT1_45 = ~z~Like lust and...
+
+MPGVO_INT1_46 = ~z~greed and...
+
+MPGVO_INT1_47 = ~z~stupidity.
+
+MPGVO_INT1_48 = ~z~Oh... Mr. Jones is stupid.
+
+MPGVO_INT1_49 = ~z~Oh, Jones is old.
+
+MPGVO_INT1_50 = ~z~Oh, Jones has cooked himself in the sun.
+
+MPGVO_INT1_51 = ~z~I know, I know.
+
+MPGVO_INT1_52 = ~z~Get yourself something to eat.
+
+MPGVO_INT1_53 = ~z~There's fellers need help.
+
+MPGVO_INT1_54 = ~z~Maybe this feller can help 'em?
+
+MPGVO_INT1_55 = ~z~Maybe.
+
+MPGVO_INT1_56 = ~z~They're, uh...
+
+MPGVO_INT1_57 = ~z~Maybe this gal can help 'em?
+
+MPGVO_INT1_58 = ~z~Maybe.
+
+MPGVO_INT1_59 = ~z~They're, uh...
+
+MPGVO_INT1_60 = ~z~They're on the run.
+
+MPGVO_INT1_61 = ~z~That ain't my business.
+
+MPGVO_INT1_62 = ~z~My business is...
+
+MPGVO_INT1_63 = ~z~what they do hereafter.
+
+MPGVO_INT1_64 = ~z~That's my business.
+
+MPGVO_INT1_65 = ~z~Well, they certainly need money.
+
+MPGVO_INT1_66 = ~z~There's always money.
+
+MPGVO_INT1_67 = ~z~Money for them is as good and...
+
+MPGVO_INT1_68 = ~z~money for them as is not so good.
+
+MPGVO_INT1_69 = ~z~But...
+
+MPGVO_INT1_70 = ~z~Well, maybe they could...
+
+MPGVO_INT1_71 = ~z~first go see the sheriffs and see what work is afoot?
+
+MPGVO_INT1_72 = ~z~I reckon...
+
+MPGVO_INT1_73 = ~z~well, for now at least?
+
+MPGVO_INT1_74 = ~z~We might as well try.
+
+MPGVO_INT1_75 = ~z~The sheriff at Blackwater, he needs help.
+
+MPGVO_INT1_76 = ~z~Not the feller that arrested ya...
+
+MPGVO_INT1_77 = ~z~that was the marshal.
+
+MPGVO_INT1_78 = ~z~The police chief, he's a decent enough feller for all we know.
+
+MPGVO_INT1_79 = ~z~Poor bastard is overrun and...
+
+MPGVO_INT1_80 = ~z~and he don't want old Jones.
+
+MPGVO_INT1_81 = ~z~There's a couple of other sheriffs that need help.
+
+MPGVO_INT1_82 = ~z~A feller from Valentine, he's at, uh...
+
+MPGVO_INT1_83 = ~z~the Painted Sky Ranch.
+
+MPGVO_INT1_84 = ~z~Tumbleweed sheriff's at the Tumbleweed jail and the...
+
+MPGVO_INT1_85 = ~z~Blackwater sheriff, he's at Pike's Basin.
+
+MPGVO_INT1_86 = ~z~Maybe that'll show us what kinda feller this is.
+
+MPGVO_INT1_87 = ~z~Go and pay 'em all a call.
+
+MPGVO_INT1_88 = ~z~he's at Pike's Basin.
+
+MPGVO_INT1_89 = ~z~Maybe all that'll show what kinda woman this is.
+
+MPGVO_INT1_90 = ~z~Go and pay 'em all a call.
+
+MPGVO_INT1_91 = ~z~That's what I reckon.
+
+MPGVO_INT1_92 = ~z~Maybe.
+
+MPGVO_INT1_93 = ~z~I guess we will see.
+
+MPGVO_INT1_94 = ~z~Meet me back here after you've seen them.
+
+MPGVO_INT2A_1 = ~z~There you are.
+
+MPGVO_INT2A_2 = ~z~How'd you get on?
+
+MPGVO_INT2A_3 = ~z~He got on just fine.
+
+MPGVO_INT2A_4 = ~z~You know he did.
+
+MPGVO_INT2A_5 = ~z~Well, I know he did.
+
+MPGVO_INT2A_6 = ~z~She got on just fine.
+
+MPGVO_INT2A_7 = ~z~You know she did.
+
+MPGVO_INT2A_8 = ~z~Well, I know she did.
+
+MPGVO_INT2A_9 = ~z~You see it in the sky, you smell it in the air.
+
+MPGVO_INT2A_10 = ~z~He ain't no saint...
+
+MPGVO_INT2A_11 = ~z~but he's a goodun.
+
+MPGVO_INT2A_12 = ~z~A fine man in a nasty world.
+
+MPGVO_INT2A_13 = ~z~She ain't no saint...
+
+MPGVO_INT2A_14 = ~z~but she's a goodun.
+
+MPGVO_INT2A_15 = ~z~A fine gal in a nasty world.
+
+MPGVO_INT2A_16 = ~z~An American I guess!
+
+MPGVO_INT2A_17 = ~z~Yeah.
+
+MPGVO_INT2A_18 = ~z~Oh, the madam picked well.
+
+MPGVO_INT2A_19 = ~z~Horley...
+
+MPGVO_INT2A_20 = ~z~this feller will do more than avenge her.
+
+MPGVO_INT2A_21 = ~z~With any luck, he'll save us all.
+
+MPGVO_INT2A_22 = ~z~Oh, there ain't no luck, Mr. Jones.
+
+MPGVO_INT2A_23 = ~z~It's just a man's heart, and not much else.
+
+MPGVO_INT2A_24 = ~z~Well, he's got a goodun...
+
+MPGVO_INT2A_25 = ~z~a fine one.
+
+MPGVO_INT2A_26 = ~z~Send him to help out the Marshal.
+
+MPGVO_INT2A_27 = ~z~Whole damn place is going to shit...
+
+MPGVO_INT2A_28 = ~z~and we need more good fellers...
+
+MPGVO_INT2A_29 = ~z~to let us loons rant in peace and howl at the moon in safety.
+
+MPGVO_INT2A_30 = ~z~Maybe.
+
+MPGVO_INT2A_31 = ~z~But, but...
+
+MPGVO_INT2A_32 = ~z~don't you and the madam kill the boy with vengeance.
+
+MPGVO_INT2A_33 = ~z~Nor kill him inside with grief.
+
+MPGVO_INT2A_34 = ~z~Like you said, he's no saint.
+
+MPGVO_INT2A_35 = ~z~This gal will do more than avenge her...
+
+MPGVO_INT2A_36 = ~z~with any luck, she'll save us all.
+
+MPGVO_INT2A_37 = ~z~Oh, there ain't no luck, Mr. Jones.
+
+MPGVO_INT2A_38 = ~z~It's just a man's heart, and not much else.
+
+MPGVO_INT2A_39 = ~z~Well, she's got a fine one, a goodun.
+
+MPGVO_INT2A_40 = ~z~Send her to help the Marshal.
+
+MPGVO_INT2A_41 = ~z~Whole damn place is going to shit...
+
+MPGVO_INT2A_42 = ~z~and we need more good souls...
+
+MPGVO_INT2A_43 = ~z~to let us loons rant in peace and howl at the moon in safety.
+
+MPGVO_INT2A_44 = ~z~Maybe.
+
+MPGVO_INT2A_45 = ~z~But, but...
+
+MPGVO_INT2A_46 = ~z~don't you and the madam kill the girl with vengeance.
+
+MPGVO_INT2A_47 = ~z~Nor kill her inside with grief.
+
+MPGVO_INT2A_48 = ~z~Like you said, she's no saint.
+
+MPGVO_INT2A_49 = ~z~But like I always say...
+
+MPGVO_INT2A_50 = ~z~if you need to earn some money and...
+
+MPGVO_INT2A_51 = ~z~stay somewhat outta trouble...
+
+MPGVO_INT2A_52 = ~z~go see Marshal Davies.
+
+MPGVO_INT2A_53 = ~z~He's supposed to stop every bastard killing innocent folk.
+
+MPGVO_INT2A_54 = ~z~Course...
+
+MPGVO_INT2A_55 = ~z~it's the nature of the thing that good men go bad and...
+
+MPGVO_INT2A_56 = ~z~bad men, some of them go good...
+
+MPGVO_INT2A_57 = ~z~but the Marshall will see you right on that.
+
+MPGVO_INT2A_58 = ~z~World always needs good men...
+
+MPGVO_INT2A_59 = ~z~Course...
+
+MPGVO_INT2A_60 = ~z~it's the nature of the thing that some souls go bad and...
+
+MPGVO_INT2A_61 = ~z~bad souls, some of them go good...
+
+MPGVO_INT2A_62 = ~z~but the Marshall will see you right on that.
+
+MPGVO_INT2A_63 = ~z~The world can always use more good souls...
+
+MPGVO_INT2A_64 = ~z~and finds it easier to birth the bad ones.
+
+MPGVO_INT2B_1 = ~z~There you are.
+
+MPGVO_INT2B_2 = ~z~How'd you get on?
+
+MPGVO_INT2B_3 = ~z~Made some money?
+
+MPGVO_INT2B_4 = ~z~Made some enemies.
+
+MPGVO_INT2B_5 = ~z~Proved a point.
+
+MPGVO_INT2B_6 = ~z~Showed the world how awful it is, ay?
+
+MPGVO_INT2B_7 = ~z~Horley, you picked a fine one if your game is vengeance...
+
+MPGVO_INT2B_8 = ~z~and death, and hell warmed up.
+
+MPGVO_INT2B_9 = ~z~I make no judgements as to a man's character, Mr. Jones.
+
+MPGVO_INT2B_10 = ~z~and death, and hell warmed up.
+
+MPGVO_INT2B_11 = ~z~I make no judgements as to anyone's character, Mr. Jones.
+
+MPGVO_INT2B_12 = ~z~Not even yours.
+
+MPGVO_INT2B_13 = ~z~I have no character...
+
+MPGVO_INT2B_14 = ~z~none at all!
+
+MPGVO_INT2B_15 = ~z~Just a gift.
+
+MPGVO_INT2B_16 = ~z~We've all got gifts, Mr. Jones...
+
+MPGVO_INT2B_17 = ~z~Sure, but it's how we use 'em...
+
+MPGVO_INT2B_18 = ~z~as determines what we are.
+
+MPGVO_INT2B_19 = ~z~This is all descending into philosophy.
+
+MPGVO_INT2B_20 = ~z~I wanted a man of action.
+
+MPGVO_INT2B_21 = ~z~This is all descending into philosophy.
+
+MPGVO_INT2B_22 = ~z~I wanted a woman of action.
+
+MPGVO_INT2B_23 = ~z~Well you got one...
+
+MPGVO_INT2B_24 = ~z~a bad one.
+
+MPGVO_INT2B_25 = ~z~Well, good at action and hang the consequences.
+
+MPGVO_INT2B_26 = ~z~Well...
+
+MPGVO_INT2B_27 = ~z~goodbye.
+
+MPGVO_INT2B_28 = ~z~For now.
+
+MPGVO_INT2B_29 = ~z~Oh, oh, and remember...
+
+MPGVO_INT2B_30 = ~z~redemption is possible.
+
+MPGVO_INT2B_31 = ~z~If you search for it.
+
+MPGVO_INT2B_32 = ~z~Guess the question is...
+
+MPGVO_INT2B_33 = ~z~is it desirable?
+
+MPGVO_INT2B_34 = ~z~And that, I can't answer.
+
+MPGVO_INT2B_35 = ~z~Goodbye, Mr. Jones.
+
+MPGVO_INT2B_36 = ~z~I have no updates from my mistress.
+
+MPGVO_INT2B_37 = ~z~She says you must fend for yourself...
+
+MPGVO_INT2B_38 = ~z~till she comes a calling in her favors.
+
+MPGVO_INT2B_39 = ~z~But I guess you gotta make yourself a living.
+
+MPGVO_INT2B_40 = ~z~Go see a feller named Samson Finch.
+
+MPGVO_INT2B_41 = ~z~You'll like him, or you'll relate to him.
+
+MPGVO_INT2B_42 = ~z~Or you'll kill him I guess...
+
+MPGVO_INT2B_43 = ~z~or maybe all three.
+
+MPGVO_INT2B_44 = ~z~I'll see you soon.
+

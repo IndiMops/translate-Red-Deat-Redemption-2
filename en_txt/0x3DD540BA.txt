@@ -1,0 +1,232 @@
+RSK_BODY_DEPUTY_1 = ~z~You know where to put it. When you're done, come back with a mop.
+
+RSK_EXT_1 = ~z~Found that feller you've been looking for.
+
+RSK_EXT_2 = ~z~Which feller?
+
+RSK_EXT_3 = ~z~Feller been...
+
+RSK_EXT_4 = ~z~been...
+
+RSK_EXT_5 = ~z~Ain't nothing nice.
+
+RSK_EXT_6 = ~z~Lot of folk gone missing over the past few years and...
+
+RSK_EXT_7 = ~z~this sick son of a bitch...
+
+RSK_EXT_8 = ~z~he ain't right in the head.
+
+RSK_EXT_9 = ~z~That so?
+
+RSK_EXT_10 = ~z~Head on over to the cellar of that broke down shack...
+
+RSK_EXT_11 = ~z~on the road to the falls.
+
+RSK_EXT_12 = ~z~See for yourself.
+
+RSK_EXT_13 = ~z~Okay. Now, come on you.
+
+RSK_EXT_14 = ~z~My name is Edmund, Edmund Lowry Jr.
+
+RSK_EXT_15 = ~z~And you'll remember that, my friend.
+
+RSK_EXT_16 = ~z~I'm sure I shall.
+
+RSK_EXT_17 = ~z~My you are a frightening feller.
+
+RSK_EXT_18 = ~z~Oh, I'll behave, sir...
+
+RSK_EXT_19 = ~z~I'll behave as expected.
+
+RSK_EXT_20 = ~z~Well, you better...
+
+RSK_EXT_21 = ~z~and I'll get you a lawyer, don't you worry about that.
+
+RSK_EXT_22 = ~z~You get in that cell, calm as you be.
+
+RSK_EXT_23 = ~z~Get him off me!
+
+RSK_EXT_24 = ~z~Get him off me!
+
+RSK_EXT_25 = ~z~I found that feller you were looking for.
+
+RSK_EXT_26 = ~z~Feller been...
+
+RSK_EXT_27 = ~z~been...
+
+RSK_EXT_28 = ~z~Well, it ain't nothing nice.
+
+RSK_EXT_29 = ~z~A lot of folk disappeared over the past few years.
+
+RSK_EXT_30 = ~z~This sick son of a bitch...
+
+RSK_EXT_31 = ~z~well, he ain't right in the head.
+
+RSK_EXT_32 = ~z~Head over to the cellar...
+
+RSK_EXT_33 = ~z~of that broke down shack on the road to the falls.
+
+RSK_EXT_34 = ~z~See for yourself.
+
+RSK_EXT_LIA_1 = ~z~Found that feller you been looking for.
+
+RSK_EXT_LIA_2 = ~z~Which feller?
+
+RSK_EXT_LIJ_1 = ~z~Found that feller you been looking for.
+
+RSK_EXT_LIJ_2 = ~z~Which feller?
+
+RSK_EXT_LIJ_3 = ~z~
+
+RSK_GETOUT1_1 = ~z~Son, you better get out of here.
+
+RSK_GETOUT2_1 = ~z~You didn't hear me? Go!
+
+RSK_GETOUT3_1 = ~z~Get clear out of here before I arrest you for his crimes!
+
+RSK_GETOUT_KILL_01 = ~z~Now we got to get this body out of here.
+
+RSK_GETOUT_KILL_02 = ~z~Where's a deputy when you need one?
+
+RSK_GETOUT_KILL_03 = ~z~What a mess.
+
+RSK_GREETDEAD_1 = ~z~Well, who's this now?
+
+RSK_PUTDOWN_01 = ~z~Put 'em down... put 'em down.
+
+RSK_PUTDOWN_02 = ~z~Put him on the floor, and let's take a look at him.
+
+RSK_PUTDOWN_03 = ~z~I'm not giving you a cell until you introduce this boy... now put him down there.
+
+RSK_S1_IG1A_1 = ~z~
+
+RSK_S1_IG1J_1 = ~z~
+
+RSK_S1_IG2_1 = ~z~Have you come for me?
+
+RSK_S1_IG2_2 = ~z~Or was this all... nasty surprise... or maybe it's both?
+
+RSK_S1_IG2_3 = ~z~Maybe it is a nasty surprise, even though you knew I was going to be here. Which is it?
+
+RSK_S1_IG2_AB_1 = ~z~
+
+RSK_S1_IG2_AB_2 = ~z~
+
+RSK_S1_IG2_AB_3 = ~z~
+
+RSK_S1_IG2_AB_4 = ~z~
+
+RSK_S1_IG2_AB_5 = ~z~
+
+RSK_S1_IG2_AB_6 = ~z~
+
+RSK_S1_IG2_AB_7 = ~z~
+
+RSK_S1_IG2_JB_1 = ~z~
+
+RSK_S1_IG2_JB_2 = ~z~You should think about that...
+
+RSK_S1_IG2_JB_3 = ~z~save yourself thinking about what's about to happen...
+
+RSK_S1_IG2_JB_4 = ~z~Now, I'm not going to lie... it's not going to be nice... and fun.
+
+RSK_S1_IG2_JB_5 = ~z~I mean, it will be fun for me, but it won't be nice for you.
+
+RSK_S1_IG2_JB_6 = ~z~At least, no one's found it nice so far... maybe you'll be the first.
+
+RSK_S1_IG2_JB_7 = ~z~Do you like pain?
+
+RSK_S1_IG2_JB_8 = ~z~Is it your friend? It's about to become your very close friend...
+
+RSK_S1_IG2_JB_9 = ~z~Very close. But when it's over... release. Glorious release.
+
+RSK_S1_IG2_JB_10 = ~z~Now, there's no point fighting. You might as well try and relax a little bit.
+
+RSK_S1_IG2_JB_11 = ~z~
+
+RSK_S1_IG2_JB_12 = ~z~
+
+RSK_S1_IG2_JOHN_1 = ~z~
+
+RSK_S1_IG2_JOHN_2 = ~z~
+
+RSK_S1_IG2_T1_A_1 = ~z~
+
+RSK_S1_IG2_T1_J_1 = ~z~
+
+RSK_S1_IG2_T1_K_1 = ~z~
+
+RSK_S1_IG2_T2_A_1 = ~z~
+
+RSK_S1_IG2_T3_A_1 = ~z~
+
+RSK_S1_IG4_1_1 = ~z~
+
+RSK_S1_IG4_1_2 = ~z~~sl:1.6~Get him off me!
+
+RSK_S1_IG4_1_3 = ~z~
+
+RSK_S1_IG4_1_4 = ~z~Get him off me!
+
+RSK_S1_IG4_2AA_1 = ~z~~sl:1.6~You lunatic... what the hell is wrong with you?
+
+RSK_S1_IG4_2AA_2 = ~z~Get outta here.
+
+RSK_S1_IG4_2AA_3 = ~z~~sl:2.3~My reward?
+
+RSK_S1_IG4_2AA_4 = ~z~~sl:0.7:1.2:1~Your “reward”?
+
+RSK_S1_IG4_2AA_5 = ~z~Get the hell outta here, that's your goddamn reward.
+
+RSK_S1_IG4_2AA_6 = ~z~~sl:0.9~Go on, out...
+
+RSK_S1_IG4_2AJ_1 = ~z~~sl:1.6~You lunatic... what the hell is wrong with you?
+
+RSK_S1_IG4_2AJ_2 = ~z~Get outta here.
+
+RSK_S1_IG4_2AJ_3 = ~z~My reward?
+
+RSK_S1_IG4_2AJ_4 = ~z~~sl:0.7:1.2:1~Your “reward”?
+
+RSK_S1_IG4_2AJ_5 = ~z~Get the hell outta here, that's your goddamn reward.
+
+RSK_S1_IG4_2AJ_6 = ~z~~sl:0.9~Go on, out...
+
+RSK_S1_IG4_2BA_1 = ~z~
+
+RSK_S1_IG4_2BA_2 = ~z~
+
+RSK_S1_IG4_2BA_3 = ~z~Oh thank you...
+
+RSK_S1_IG4_2BA_4 = ~z~thank you.
+
+RSK_S1_IG4_2BA_5 = ~z~My Lord, what a monster!
+
+RSK_S1_IG4_2BA_6 = ~z~Like I said, have someone head up to his cabin, think he's killed quite a few.
+
+RSK_S1_IG4_2BA_7 = ~z~Oh there's a lot of sick bastards out there...
+
+RSK_S1_IG4_2BA_8 = ~z~Here... here... here's some money for your trouble.
+
+RSK_S1_IG4_2BA_9 = ~z~Thank you sheriff.
+
+RSK_S1_IG4_2BJ_1 = ~z~
+
+RSK_S1_IG4_2BJ_2 = ~z~
+
+RSK_S1_IG4_2BJ_3 = ~z~Oh thank you...
+
+RSK_S1_IG4_2BJ_4 = ~z~thank you.
+
+RSK_S1_IG4_2BJ_5 = ~z~My Lord, what a monster!
+
+RSK_S1_IG4_2BJ_6 = ~z~Like I said, have someone head up to his cabin, think he's killed quite a few.
+
+RSK_S1_IG4_2BJ_7 = ~z~Oh there's a lot of sick bastards out there...
+
+RSK_S1_IG4_2BJ_8 = ~z~Here... here... here's some money for your trouble.
+
+RSK_S1_IG4_2BJ_9 = ~z~Thank you sheriff.
+
+RSK_S1_IG4_STRG_1 = ~z~
+

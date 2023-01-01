@@ -1,0 +1,34 @@
+ODR4_B_CABINET = Cabinet
+
+ODR4_B_DOORS = Front Doors
+
+ODR4_B_MANSION = Mansion
+
+ODR4_F_RETREAT = You didn't retreat inside Shady Belle.
+
+ODR4_S1_OBJ1 = Fend off the ~e~O'Driscolls~s~
+
+ODR4_S2_OBJ1 = Get to the ~o~front door~s~
+
+ODR4_S3_OBJ1 = Fend off the ~e~O'Driscolls~s~
+
+ODR4_S4_OBJ1 = Retreat back to the ~o~mansion~s~
+
+ODR4_S5_OBJ1 = Push the ~o~cabinet~s~
+
+ODR4_S5_OBJ2 = Fend off the ~e~O'Driscolls~s~
+
+ODR4_S6_OBJ1 = Find ~o~Sadie~s~
+
+ODR4_S6_OBJ1_ALT = Jump through the window and find ~o~Sadie~s~
+
+ODR4_S8_OBJ1 = Protect ~o~Sadie~s~
+
+ODR4_S9_OBJ1 = Protect the ~o~gang~s~
+
+ODR4_UC_PUSH = Push
+
+ODR4_WARN_AREA = Return to ~o~Shady Belle~s~
+
+ODR4_WARN_FRONT = Return to the front of ~o~Shady Belle~s~
+

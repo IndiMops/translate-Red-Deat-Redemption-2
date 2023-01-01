@@ -1,0 +1,42 @@
+0x8E839EDA = You missed your window.
+
+0x86C41548 = Bill was abandoned.
+
+CONVOY_ABANDON = You failed to stop the convoy.
+
+TRN2_BLIP_MEET = Meeting Point
+
+TRN2_FAIL_ALERT = The convoy was alerted.
+
+TRN2_FAIL_BILLDEAD = Bill has died.
+
+TRN2_FAIL_LAW = You caught the attention of the law.
+
+TRN2_FAIL_PINK = The patrol was alerted.
+
+TRN2_FAIL_SC = The wagon was destroyed.
+
+TRN2_FAIL_SPOT = You were spotted.
+
+TRN2_GETON = Get on the ~o~wagon~s~
+
+TRN2_HELP_CRATE = The dynamite will be vulnerable if they break through the cargo.
+
+TRN2_OBJ01 = Follow ~o~Bill~s~ to the ambush location
+
+TRN2_OBJ01A = Mount your ~o~horse~s~
+
+TRN2_OBJ02 = Get in ~o~position~s~ for the ambush
+
+TRN2_OBJ02_BACK = Get back into ~o~position~s~
+
+TRN2_OBJ03 = Wait for Bill to attack.
+
+TRN2_OBJ04 = Take out the ~e~wagon guards~s~
+
+TRN2_OBJ05 = Head to the ~o~meeting point~s~
+
+TRN2_OBJ06 = Take out the ~e~lawmen~s~
+
+TRN2_SWP_DRVR = Swap Driver
+

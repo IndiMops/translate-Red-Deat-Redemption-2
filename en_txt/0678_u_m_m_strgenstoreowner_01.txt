@@ -1,0 +1,308 @@
+0x019B272F = ~z~Fine then, the law will hear about this.
+
+0x01B229FC = ~z~Hey. You cannot do that to them. Understand?
+
+0x0246C860 = ~z~Place has been real quiet, gotta be honest.
+
+0x029EC45F = ~z~You need to make your own trail now.
+
+0x051C7A5D = ~z~Whoa, look out.
+
+0x0537EBD5 = ~z~Hey, hey, you'll want to bring it down, right?
+
+0x055A5383 = ~z~Maybe the mayor's right...
+
+0x073DF538 = ~z~Alright, let's go. Get out.
+
+0x074571B7 = ~z~Who do you think you are? Get out. Get out.
+
+0x07AC1293 = ~z~Let's just pretend you don't exist.
+
+0x090575DA = ~z~Please... please don't kill me.
+
+0x093531DE = ~z~Just a minute. Treat them right.
+
+0x09D40B94 = ~z~Get out of here or I'll make you.
+
+0x1A24D0E5 = ~z~Please don't do this. I work hard to make a living.
+
+0x1B23BA02 = ~z~Here. Is this enough for you?
+
+0x1BC6AF79 = ~z~You'll want to get right out of here.
+
+0x1C3A86E6 = ~z~Welcome, welcome.
+
+0x1E1E6035 = ~z~I've had it with this place.
+
+0x2ADDC719 = ~z~Eye-for-an-eye, you thief.
+
+0x2B5430F4 = ~z~Yeah, hello.
+
+0x2B537663 = ~z~I will beat you to a pulp.
+
+0x2E446EAE = ~z~You didn't look like you could handle a fight.
+
+0x3AF939C8 = ~z~That mayor's ruining my business with all this, I swear.
+
+0x3C4BCD87 = ~z~Oh, that idiot... few folks round here would rather you left him there. But, hey, if that's what he wants, take a look around.
+
+0x3E5B9952 = ~z~Please. I just own a small shop here.
+
+0x4B70B685 = ~z~I'll hit you so hard your head will be spinning.
+
+0x4BFD111F = ~z~No, I'll need cash. Money, not gold.
+
+0x4C387510 = ~z~This ain't right. This just ain't right.
+
+0x4CA3D456 = ~z~Word is you've been wanted by the law. Best keep it civil in here.
+
+0x4F408FDE = ~z~Eye for an eye you thief.
+
+0x4FE33C61 = ~z~Oh God, please. I can't afford another robbery.
+
+0x5ACD70A9 = ~z~You've been wanted by the law? Don't start in here...
+
+0x5CDFAA48 = ~z~Hello. Haven't seen you around. Please, look around.
+
+0x7AC06342 = ~z~Not too bad, actually.
+
+0x7D7D42C5 = ~z~There's a thief on the loose. In my store.
+
+0x7E07145B = ~z~Hey, get out of here.
+
+0x8C8D92DD = ~z~What d'you need, partner?
+
+0x8C74E9D3 = ~z~Don't care what it takes. This shop is my life.
+
+0x8D975DD0 = ~z~Do you want to die like this?
+
+0x8EF35BE9 = ~z~Look, if you can just act right in here, I'll let you do business with me. Just watch it.
+
+0x9C317665 = ~z~Please, let's just do business as normal... Don't do anything vile.
+
+0x9CCB8A80 = ~z~You ain't getting away without a fight.
+
+0x9E262F42 = ~z~Are you going to move or what?
+
+0x9F4DE63C = ~z~Come on. What are you doing?
+
+0x9F8F2BDD = ~z~Hey. I don't know what you're talking about. Alright?
+
+0x15B11462 = ~z~Please. All the money is yours, see. Just don't shoot.
+
+0x16FAB130 = ~z~Bah, just another fly in my ear.
+
+0x21B51DB6 = ~z~Alright, well, greetings again.
+
+0x24F9BB51 = ~z~You ain't going to get away with this.
+
+0x25F92892 = ~z~You remember who you stole that from. I'll haunt you.
+
+0x29B4B69D = ~z~Who do you think you are. Get out. Get out.
+
+0x40DAA1EE = ~z~I'm going. I'm going.
+
+0x46C42DCA = ~z~Damn you. That ain't right.
+
+0x48DD08BF = ~z~You know who you're speaking to?
+
+0x55B8CBAA = ~z~This is as fast as I can go. Just be patient.
+
+0x56B23CC0 = ~z~Please. Just put that gun down.
+
+0x56FF78BE = ~z~Welcome back.
+
+0x58F23E15 = ~z~You know what? I'll leave you to it... just don't come too near me.
+
+0x73AEB85A = ~z~Will you just leave me alone? Please.
+
+0x77D166A7 = ~z~Hey, there's no need for that.
+
+0x82C2AC17 = ~z~Hey. Don't you dare do that.
+
+0x82F6C9DF = ~z~You should just stay out of everyone's way from now on.
+
+0x83F0B313 = ~z~Alright, you got everything you want? Leave me alone.
+
+0x86ACB927 = ~z~Oh God, no, I beg you.
+
+0x88C6AD3F = ~z~If you're looking for anything else, there's a catalogue on the counter.
+
+0x93B86686 = ~z~Alright. The register is yours.
+
+0x93DC0812 = ~z~I don't trust robbers none... I'm watching you.
+
+0x301A0076 = ~z~Oh, now you've done it.
+
+0x376B06A2 = ~z~I can't believe this is happening...
+
+0x595EFB7F = ~z~Why do I put up with this...
+
+0x641CE4D4 = ~z~Oh, God please. I can't afford another robbery.
+
+0x658E4E56 = ~z~I ain't paying you no mind.
+
+0x679FC644 = ~z~That ain't no way to speak to people.
+
+0x715D4F7A = ~z~Alright. Alright. Not a word.
+
+0x785D0881 = ~z~This truly is a godforsaken place...
+
+0x881AA79F = ~z~Yeah.
+
+0x1889E7EC = ~z~Well, I treat locals well in my shop. I'll cut the prices here.
+
+0x2970FBAD = ~z~You shouldn't do this.
+
+0x3645CB54 = ~z~You're a disgrace.
+
+0x4269AC75 = ~z~C'mon. What are you doing?
+
+0x4568F898 = ~z~Business is fine, considering...
+
+0x4938DD31 = ~z~There you are.
+
+0x5834BB6F = ~z~Hey. Please, you need to stop that.
+
+0x8377D7EC = ~z~Stay away from me.
+
+0x14946CFB = ~z~Just can't seem to get that mayor off my back.
+
+0x25842ED7 = ~z~Please... please, don't kill me.
+
+0x68383E32 = ~z~Surviving.
+
+0x74875A02 = ~z~I'm not giving you anything.
+
+0x388210A8 = ~z~You don't want to mess with an ex-boxer, do you?
+
+0x576625D1 = ~z~Hey, what did I do?
+
+0x776699FF = ~z~You've bled me dry, now leave.
+
+0x8059951B = ~z~Yes, may I help you?
+
+0x39756448 = ~z~You'll be sorry for this.
+
+0x58512196 = ~z~I don't have anything.
+
+0x63295283 = ~z~I ain't letting down. You raise your fists, you'll see mine in your face before you know it.
+
+0xA2A7E6D0 = ~z~Just leave me alone.
+
+0xA4D34547 = ~z~You know what? I don't think so.
+
+0xA4EB54DB = ~z~Hey, hey. You should stop.
+
+0xA9B5CC8F = ~z~Uh, sorry. I'll need money.
+
+0xA9D70A88 = ~z~Hm, you know how it goes. Locals get discounts in here.
+
+0xA49AACFE = ~z~Dear, don't kill me. I've made this place.
+
+0xA51EB957 = ~z~This looks like your doing.
+
+0xA160DA2B = ~z~Sure.
+
+0xA1870223 = ~z~Fine, fine. Just take whatever's in the register.
+
+0xA5356235 = ~z~Just a small business in a small town...
+
+0xB1ED8563 = ~z~Get. I don't have to deal with you.
+
+0xB3B4E30A = ~z~Wait a minute. What am I doing?
+
+0xB3C51297 = ~z~Yes, go ahead and take whatever you need.
+
+0xB6A81619 = ~z~What is it that you want?
+
+0xB6CAB036 = ~z~I will put a new hole in your skull.
+
+0xB7A9DFDF = ~z~Doesn't seem like I've seen you before. Welcome.
+
+0xB243B968 = ~z~You're standing awfully close, if I may be honest.
+
+0xB363D5E1 = ~z~You just happened to be here for this or what?
+
+0xB116261D = ~z~Why are you causing trouble 'round here?
+
+0xBA34AB43 = ~z~Well, I treat locals well in my shop. I'll cut the prices, here.
+
+0xBAC99144 = ~z~Always free to look at the catalogue.
+
+0xBC7F3813 = ~z~Alright, alright. Money's all in that register.
+
+0xC3CC77BA = ~z~Hey, pay attention.
+
+0xC4354B0B = ~z~Warning you, I have a real good aim.
+
+0xCC7E4FD6 = ~z~~sl:0.3~You know how it goes. Locals get discounts in here.
+
+0xD1C432E6 = ~z~Hey. What did I do? Put that down.
+
+0xD3D40E65 = ~z~Well, you've done it. Out. Now.
+
+0xD6AFD86C = ~z~No need to be a brute. You'll have the money...
+
+0xD6F4C99A = ~z~If you're not overwhelmed with the shop yet, you should see my catalogue.
+
+0xD41E985E = ~z~Jeez, you look where you're going?
+
+0xD447CC89 = ~z~This is the law's business now.
+
+0xD556D67A = ~z~I'm pleading with you. Don't.
+
+0xD3037B6C = ~z~Alright, good. I can't handle blood anyway.
+
+0xD255259B = ~z~Hold on. You should think twice about this.
+
+0xDB6E1AAC = ~z~I don't wanna die like this. Don't do this.
+
+0xDC24D9D1 = ~z~Will you just leave an old man be?
+
+0xDF96C01E = ~z~Wait, you don't want to do this.
+
+0xDF8013E4 = ~z~I would like some room here.
+
+0xE0A9C50B = ~z~Alright, alright. This is it. All of it.
+
+0xE0FDA8B8 = ~z~Okay, you need to leave. Leave now.
+
+0xE9E1305F = ~z~I'll see you in the deep depths of hell, sticky fingered cuss.
+
+0xE9F4A25B = ~z~Hmm, come on in.
+
+0xE89E1F38 = ~z~Have you not heard what I said? Stop.
+
+0xE502F512 = ~z~Alright, alright, just let me open this till up.
+
+0xE5052D37 = ~z~What the hell are you thinking? Get out of here now.
+
+0xEA159BF8 = ~z~Help. My shop. It's being robbed.
+
+0xF089C16C = ~z~Sticky fingered scoundrel. Don't you try nothing again.
+
+0xF0B68566 = ~z~Oh, authorities will love this.
+
+0xF1E26780 = ~z~Alright. Take it.
+
+0xF4B44ACA = ~z~Whoa, whoa, you think about what you're doing or what?
+
+0xF6C4BB85 = ~z~I said that is enough.
+
+0xF7DCD2E6 = ~z~What the hell are you thinking. Get out of here now.
+
+0xF7E3D397 = ~z~I don't want to die like this. Don't do this.
+
+0xF8B5C5D0 = ~z~Good choice. I'll let him know.
+
+0xF732B734 = ~z~This poor place... damn.
+
+0xFB233E13 = ~z~Help me. I beg you. My shop is getting robbed.
+
+0xFC3D46EC = ~z~Good to have you.
+
+0xFE771C62 = ~z~Hold on. Leave them alone.
+
+0xFE109470 = ~z~Hey. I need you to leave now.
+

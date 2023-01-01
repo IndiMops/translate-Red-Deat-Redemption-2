@@ -1,0 +1,46 @@
+SPSDV_FIGHT_01 = ~z~Come to me, mortal!
+
+SPSDV_FIGHT_02 = ~z~You are the seventh!
+
+SPSDV_FIGHT_03 = ~z~Your blood is mine!
+
+SPSDV_HOGTIE_01 = ~z~Free me now or I will bleed you slowly...
+
+SPSDV_HOGTIE_02 = ~z~You are making a grave mistake.
+
+SPSDV_HOGTIE_03 = ~z~Unbind me and I will spare you the worst.
+
+SPSDV_HOGTIE_04 = ~z~You think you can restrain me?
+
+SPSDV_HOGTIE_05 = ~z~Oh, you will truly suffer now!
+
+SPSDV_IG1_AGGRO_1 = ~z~I'll suck you dry.
+
+SPSDV_IG1_CONFR_1 = ~z~So... you found me!
+
+SPSDV_IG1_MANY_1 = ~z~I have been called many names over the centuries. Now go, or I'll feed on you too!
+
+SPSDV_IG1_NEG_A_1 = ~z~You're a goddamn idiot.
+
+SPSDV_IG1_NEG_J_1 = ~z~You're a goddamn idiot.
+
+SPSDV_IG1_POS_A_1 = ~z~You're no more a vampire than I am.
+
+SPSDV_IG1_POS_J_1 = ~z~You're no more a vampire than I am.
+
+SPSDV_IG1_RES_A_1 = ~z~Hey, what are you doing?
+
+SPSDV_IG1_RES_J_1 = ~z~Hey, what are you doing?
+
+SPSDV_IG1_STAY_1 = ~z~Stay back, for your own sake. I walk with the undead!
+
+SPSDV_IG1_VAM_A_1 = ~z~What, you're a vampire?
+
+SPSDV_IG1_VAM_J_1 = ~z~What, you're a vampire?
+
+SPSDV_INJURED_01 = ~z~You will pay for this!
+
+SPSDV_INJURED_02 = ~z~I cannot be killed!
+
+SPSDV_INJURED_03 = ~z~You have done your worst, now I will do mine!
+

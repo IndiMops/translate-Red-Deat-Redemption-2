@@ -1,0 +1,8 @@
+CSNWM_ACTION_1 = ~z~You trying to get us all killed, Mr. Morgan?
+
+CSNWM_ACTION_2 = ~z~How do you mean?
+
+CSNWM_ACTION_3 = ~z~All that madness so near camp, well, I thought more of you, really I did.
+
+CSNWM_ACTION_4 = ~z~Use your brain, sir, please...
+

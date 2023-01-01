@@ -1,0 +1,594 @@
+0x1C44BA05 = ~z~Go on, then. Go ahead.
+
+0x3ADD9734 = ~z~Have a l-look.
+
+0x7D333070 = ~z~Good. O-okay.
+
+0xB13EBB15 = ~z~H-have, have a read.
+
+0xCB61DFC0 = ~z~R-read it, now.
+
+MGSHA_ASN_CHO_1 = ~z~~sl:0.0:2.0~Okay, good... you're in.~sl:0.6~Yeah... you w-won't back out now.
+
+MGSHA_ASN_CHO_2 = ~z~~sl:0.0:5.0~'Cause this ain't nice. N-not nice, one little bit.~sl:0.4:3.4~You'll need a s-steady hand, and steady nerves.~sl:0.2~Which I am lacking in.
+
+MGSHA_ASN_CHO_3 = ~z~~sl:0.0:4.7~It's t-that... I need you to d-dry gulch some fellers.~sl:0.3~Some Del Lobos, camped north of Mercer station, somewhere.
+
+MGSHA_ASN_CHO_4 = ~z~If you can find them and c-cash them out for good.
+
+MGSHA_ASN_CHO_5 = ~z~~sl:0.0:3.3~Now I'm a business man, who's got no business~sl:0.0:3.5~sending f-folk to the great blue yonder,~sl:0.3~but it's them that started it.
+
+MGSHA_ASN_CHO_6 = ~z~~sl:0.0:3.4~And you can put it to rest. I'll be grateful.~sl:1.0~Truly, I will.
+
+MGSHA_ASN_PLYR_1 = ~z~How's that? You said y-you'd help me, I'm hoping?
+
+MGSHA_ASN_PLYR_2 = ~z~~sl:0.0:5.4~I-I ain't weak, j-just, j-just maybe... a little feeble...~sl:0.0:2.7~f-from my nerves. That don't mean...~sl:~I can't offer s-some interesting opportunities.
+
+MGSHA_ASN_PLYR_3 = ~z~S-so there's this reckless fool, that has got to be stopped.
+
+MGSHA_ASN_PLYR_4 = ~z~~sl:0.0:2.5~Gonna get the g-goddamn P-pinkertons down here~sl:~if t-the mayhem... carries on like this.
+
+MGSHA_ASN_PLYR_5 = ~z~~sl:0.0:4.4~I figure, we'd need s-someone such as yourself to stand up~sl:0.0:3.8~to someone s-such as them, i-if you understand me...~sl:0.2:~y-you you're well matched.
+
+MGSHA_ASN_PLYR_6 = ~z~F-find them and, you know.... be good for you, too.
+
+MGSHA_ASN_PSSE_1 = ~z~Damn right. Okay... w-we should stick together in this.
+
+MGSHA_ASN_PSSE_2 = ~z~~sl:0.0:4.3~You know, you don't want to be by your s-s-s-s-s-s...~sl:0.7~all alone in these times. F-find safety in numbers.
+
+MGSHA_ASN_PSSE_3 = ~z~~sl:0.0:2.7~So there's this posse riding round here.~sl:0.9:3.3~T-they're bound to attack us, soon enough.~sl:0.1:3.2~U-unless we strike f-first...~sl:~or you, you do and I'll pay.
+
+MGSHA_ASN_PSSE_4 = ~z~~sl:0.0:1.7~This is a mean bunch,~sl:0.1:3.5~so you don't think you're f-fucking no innocent here.~sl:0.2~B-by Christ, they will deserve w-whatever you throw at them...
+
+MGSHA_ASN_PSSE_5 = ~z~~sl:0.0:1.2~So, you good for it?~sl:0.6:2.6~T-they went too far.~sl:2.2:1.0~Go get them.~sl:2.1~Go get them.
+
+MGSHA_AST_TALL_1 = ~z~Hell yeah... I w-was hoping you'd take care of this.
+
+MGSHA_AST_TALL_2 = ~z~~sl:0.0:4.0~You see, I excel at a l-lot of things, b-but, but~sl:0.0:3.4~s-sneaking ain't one of them. I-I'm too clumsy...~sl:~a-and I jitter... s-so do this for me.
+
+MGSHA_AST_TALL_3 = ~z~~sl:0.0:5.3~These fellers said they was b-buying and they stuck me up...~sl:0.7:4.7~so I g-got to, g-got to...~sl:0.0:4.3~find them, and s-show them... i-it won't wash.
+
+MGSHA_AST_TALL_4 = ~z~~sl:0.0:4.0~Can't run an ammunition business if f-folk think~sl:~they can get your ammunition off you f-for free, now can you?
+
+MGSHA_AST_TALL_5 = ~z~~sl:0.0:4.5~They're up in Tall Trees. M-might take some f-finding.~sl:~But you're good.
+
+MGSHA_CH_FMER_1 = ~z~~sl:0.0:3.7~Now, while I consider myself an upstanding~sl:0.0:4.9~p-pillar of the community, m-my munitions business, well...~sl:0.2~i-it's not always l-legitimate.
+
+MGSHA_CH_FMER_2 = ~z~~sl:0.0:5.9~In fact, sometimes, it's quite the opposite... j-just the way it is.~sl:0.6~Can't buy no arms without no government say so.
+
+MGSHA_CH_FMER_3 = ~z~~sl:0.0:2.4~W-while we meant to have rights...~sl:0.0:3.5~there's some rights for the moneyed class, there is...~sl:~and some rights for us beggars.
+
+MGSHA_CH_FMER_4 = ~z~~sl:0.0:7.0~All I want, is to be able to get d-decent outlaws the w-weapons~sl:0.0:~they need with no questions asked. It's a damn disgrace I tell you.
+
+MGSHA_CH_FMER_5 = ~z~~sl:0.0:2.8~Which is why I got to make this request.~sl:0.7:2.3~Could you stick up a stagecoach for me?~sl:0.2~Going outta F-fort Mercer?
+
+MGSHA_CH_FMER_6 = ~z~~sl:0.0:3.9~T-there's an official on there with some documents I really need...~sl:0.8~c-contracts and such.
+
+MGSHA_CH_FMER_7 = ~z~~sl:0.0:1.7~You're doing a good thing here.~sl:0.7~That's right.
+
+MGSHA_DM_GAPT_1 = ~z~~sl:0.0:4.2~Hell... t-this is a dirty business. But I been down mines,~sl:~so I know they all are.
+
+MGSHA_DM_GAPT_2 = ~z~~sl:0.0:4.4~N-none of them industrialists got rich by being nice.~sl:~So there's no damn reason why I should be, neither.
+
+MGSHA_DM_GAPT_3 = ~z~~sl:0.0:2.5~I'm in the armaments business, goddammit...~sl:0.3:2.4~buy my stock from the worst of the worst~sl:0.1~and sell it to the even worser d-degenerates.
+
+MGSHA_DM_GAPT_4 = ~z~So excuse me if I have to act degenerated myself, when I gots to.
+
+MGSHA_DM_GAPT_5 = ~z~~sl:0.0:4.2~T-that means destroying the competition wherever I find it.~sl:0.3~Or getting you to do that, at least.
+
+MGSHA_DM_GAPT_6 = ~z~~sl:0.0:5.3~It just so happens the competition is the cops at the m-moment.~sl:0.9~But that shouldn't bother you too fierce, now...
+
+MGSHA_DM_GAPT_7 = ~z~~sl:0.0:4.9~T-they're no good... so you just find their caravan~sl:~down through G-gaptooth Ridge and w-wipe it out.
+
+MGSHA_DM_GAPT_8 = ~z~~sl:0.0:2.3~I feel... somewhat better already.~sl:0.9:~ Y-you know, I r-really do. I-I really do.
+
+MGSHA_DM_RATH_1 = ~z~~sl:0.0:2.9~Now, you may not have noticed,~sl:~b-but but I suffer f-from many afflictions.
+
+MGSHA_DM_RATH_2 = ~z~~sl:0.0:3.2~I am most afflicted in ways you couldn't tell.~sl:0.2~T-there's the nervous condition, which I told you about.
+
+MGSHA_DM_RATH_3 = ~z~~sl:0.0:5.4~B-but in addition to that, well, I-I'm pretty much shot through...~sl:0.4~a sluggish liver, b-bronchial weakness, horrible constipation...
+
+MGSHA_DM_RATH_4 = ~z~ruptures, c-canker sores, w-watchfulness... i-it's bad.
+
+MGSHA_DM_RATH_5 = ~z~~sl:0.0:2.8~And I p-probably w-wouldn't be here,~sl:0.1:4.1~wasn't for the m-miracles of medicine. N-no I would not.~sl:0.7~I ain't trying to illicit sympathy, I ain't.
+
+MGSHA_DM_RATH_6 = ~z~~sl:0.0:4.4~B-but I need you to understand, I can't go to jail.~sl:0.5~W-which I will, if the law gets hold of my stockpile.
+
+MGSHA_DM_RATH_7 = ~z~~sl:0.0:4.3~T-they already found it and they're moving it out the hills, there.~sl:0.2~J-just destroy the whole thing, now.
+
+MGSHA_DM_RATH_8 = ~z~~sl:0.0:3.0~E-every last crate.~sl:0.8~Thank you.
+
+MGSHA_DS_RATH_1 = ~z~~sl:0.0:5.0~Alright, now I b-been learning a-about these captains of industry?~sl:0.2~And w-what I learned, is that... getting to the top ain't easy.
+
+MGSHA_DS_RATH_2 = ~z~Unless, that is... you're the only one in business.
+
+MGSHA_DS_RATH_3 = ~z~~sl:0.0:3.8~As you know, we are in the arms and armaments game.~sl:0.0:2.4~S-someone gets shot round here...~sl:0.2~I wager the bullet's one of mine. God's truth.
+
+MGSHA_DS_RATH_4 = ~z~~sl:0.0:2.5~I-I-I aspire to keep it that way...~sl:0.0:3.4~t-truly, hands down, I do.~sl:0.6~That means taking out the rest of the competition.
+
+MGSHA_DS_RATH_5 = ~z~~sl:0.0:3.7~S-starting with these fools, the D-del Lobos.~sl:0.3~T-they got a big stockpile, out at Rathskeller Fork.
+
+MGSHA_DS_RATH_6 = ~z~~sl:0.0:4.5~M-maybe, you could go destroy it for me.~sl:0.3:6.5~L-let me have a little, uh, I-I t-think they call it a monopoly...~sl:0.3~on the arms trade here.
+
+MGSHA_DS_RATH_7 = ~z~~sl:0.0:1.8~I-I would like that a lot.~sl:1.0~I would.
+
+MGSHA_DS_RIO_1 = ~z~~sl:0.0:5.8~Now... I don't like being taken advantage of and abused.~sl:0.2~It sure gets under my skin... I g-guess I'm sensitive.
+
+MGSHA_DS_RIO_2 = ~z~Not sure why that is, exactly... c-could be my nerves.
+
+MGSHA_DS_RIO_3 = ~z~~sl:0.0:3.2~So, let me tell you a-about a deal that I conducted...~sl:0.0:2.3~big, big transaction...~sl:0.1~cost me a lot of time and m-money, gone.
+
+MGSHA_DS_RIO_4 = ~z~~sl:0.0:3.8~No-good bastards f-fucked me good and proper.~sl:0.2~Boy, I did not get what I should've.
+
+MGSHA_DS_RIO_5 = ~z~~sl:0.0:3.6~T-they got the merchandise and what's my recourse here?~sl:0.2~I d-don't want it back off them, no way.
+
+MGSHA_DS_RIO_6 = ~z~~sl:0.0:4.5~W-what I want, is you to f-find them by Plainview...~sl:0.6~and to smash up all of it.
+
+MGSHA_DS_RIO_7 = ~z~~sl:0.0:4.2~If they're going to f-fuck me,~sl:0.2:3.9~I'd rather they ended up with nothing, thank you kindly...~sl:0.5~yes, please.
+
+MGSHA_DS_RIO_8 = ~z~I hope t-that's the end of it.
+
+MGSHA_G1_OUT_1 = ~z~~sl:0.0:7.4~Now, a feller I know, f-funny feller, but t-that ain't, that ain't pertinent.~sl:0.1~He just sent me this, this letter.
+
+MGSHA_G1_OUT_2 = ~z~You read it. T-thought it might be interesting, to someone like you.
+
+MGSHA_G1_TAKE_1 = ~z~Have a l-look.
+
+MGSHA_G2_OUT_1 = ~z~~sl:0.0:4.5~Hell, I do not have the t-time to go over this with you.~sl:0.2~I'm busy, for once... there's work to do.
+
+MGSHA_G2_OUT_2 = ~z~~sl:0.0:5.0~B-but take this note... and it'll tell you what you go to do.~sl:0.6~So go on and d-do it now.
+
+MGSHA_G2_TAKE_1 = ~z~Go on, then. Go ahead.
+
+MGSHA_G3_OUT_1 = ~z~~sl:0.0:5.4~Okay. Like any good business, w-we're on top of our accounts.~sl:0.3~I'm clerk, as well as everything else... even bootblack.
+
+MGSHA_G3_OUT_2 = ~z~~sl:0.0:3.5~T-this is an invoice... you can fill that there...~sl:~you'll save me some trouble.
+
+MGSHA_G3_TAKE_1 = ~z~H-have, have a read.
+
+MGSHA_G4_OUT_1 = ~z~~sl:0.0:4.0~W-when I see the doctor now, he just gives me my prescription.~sl:0.5~So you see me, I'll give you yours... ain't, morphine though.
+
+MGSHA_G4_OUT_2 = ~z~H-have a read... you do this for me and I'll pay you proper.
+
+MGSHA_G4_TAKE_1 = ~z~R-read it, now.
+
+MGSHA_IN_BENE_1 = ~z~~sl:0.0:4.2~Then let me give it to you straight. I -mmight seem a little wobbly...~sl:0.1:~but I speak plain as the nose on your face. It's just a n-nervous tick.
+
+MGSHA_IN_BENE_2 = ~z~~sl:0.0:2.0~I purchased a wagon of goods,~sl:0.0:4.4~t-that some other folk collected, m-maybe even stole.~sl:0.5~Stole, most likely.
+
+MGSHA_IN_BENE_3 = ~z~~sl:0.0:3.4~N-now, I need to get it it back... o-of course I do...~sl:0.1~you think you could handle that for me?
+
+MGSHA_IN_BENE_4 = ~z~~sl:0.0:1.1~It's O'Driscolls have it.~sl:0.1~On the road from Cholla Spring t-to the Point.
+
+MGSHA_IN_BENE_5 = ~z~Hurry, please. T-they ain't paid for that.
+
+MGSHA_IN_LONM_1 = ~z~~sl:0.0:4.0~Good, because there's been a mistake. S-something terrible...~sl:0.1:2.9~I was expecting a wagon delivery from Blackwater...~sl:0.4~but it's gone off track.
+
+MGSHA_IN_LONM_2 = ~z~~sl:0.0:3.2~I believe it's the O'Driscoll gang have got a hold of it...~sl:0.2~t-taking it up into T-tall Trees, I think...
+
+MGSHA_IN_LONM_3 = ~z~~sl:0.0:3.2~when it's supposed to be down here, ain't right at all.~sl:0.2~S-so I was thinking, you might be able to get it for me?
+
+MGSHA_IN_LONM_4 = ~z~T-the money I was going to pay the vendor, I could give to you.
+
+MGSHA_IN_LONM_5 = ~z~B-be real obliged. J-just I was counting on it, was all.
+
+MGSHA_JB_DM_1 = ~z~~sl:0.0:2.3~So... w-we all know,~sl:0.5~in America, business is not a job for the g-gentle-hearted.
+
+MGSHA_JB_DM_2 = ~z~That's always been m-my problem... I'm gentle-hearted.
+
+MGSHA_JB_DM_3 = ~z~Folk take advantage and it hurts... it hurts a lot.
+
+MGSHA_JB_DM_4 = ~z~~sl:0.0:2.8~I was going into t-transportation business~sl:~and I invested my life savings...
+
+MGSHA_JB_DM_5 = ~z~~sl:0.0:3.1~It seems a m-man I thought of,~sl:~as a business partner... a b-brother...
+
+MGSHA_JB_DM_6 = ~z~~sl:0.0:3.3~is in fact, a no-good Judas snake in the grass ,~sl:~wh-who was also working f-for the police department.
+
+MGSHA_JB_DM_7 = ~z~~sl:0.0:4.0~T-treachery... is very bad for the nerves.~sl:1.3~He's got a load of goods being moved out near Stillwater.
+
+MGSHA_JB_DM_8 = ~z~~sl:0.0:3.7~Perhaps... you could go destroy them for me.~sl:0.7:1.1~And I guess for him...~sl:1.4:4.1~to teach him as to the importance of l-loyalty...~sl:0.2~and compassion.
+
+MGSHA_JB_DM_9 = ~z~Thank you kindly.
+
+MGSHA_JB_GENT_1 = ~z~Good. O-okay.
+
+MGSHA_JB_GEN_1 = ~z~~sl:0.0:4.2~W-well, I cannot be bothered no more... to explain myself.~sl:1.0~Getting self conscious they call it... humiliated.
+
+MGSHA_JB_GEN_2 = ~z~So, read this... should be self explanatory... and I'll see you again.
+
+MGSHA_JB_PAS_1 = ~z~That's good... I l-like you... a lot... not in no funny way, mind.
+
+MGSHA_JB_PAS_2 = ~z~~sl:0.0:3.8~Let me tell you... I used to be a m-miner...~sl:0.2~a-and that's... wh-what did-what did this to me.
+
+MGSHA_JB_PAS_3 = ~z~Don't be no miner. B-be a robber. It's better on your nerves.
+
+MGSHA_JB_PAS_4 = ~z~~sl:0.0:3.9~Anyway... I kind of need you to shoot a feller for me?~sl:1.0~Problem is... he got himself a-arrested.
+
+MGSHA_JB_PAS_5 = ~z~B-by some bounty hunters... working out of T-tumbleweed.
+
+MGSHA_JB_PAS_6 = ~z~~sl:0.0:2.4~Kind of need him dead, before he starts~sl:0.0:3.2~pointing some unfortunate fingers at f-f..~sl:~f-folks don't want fingers pointed at them...
+
+MGSHA_JB_PAS_7 = ~z~~sl:0.0:1.0~Can you help a feller out?~sl:1.8~Good on you. Okay... okay...
+
+MGSHA_JB_WB_1 = ~z~~sl:0.0:4.7~T-thing about me, partner, is I'm loyal... I stick to a f-feller...~sl:~like a bit of shit you can't scrape off your boot.
+
+MGSHA_JB_WB_2 = ~z~~sl:0.0:5.2~For... better and worse. My buddy Shane gone got himself arrested...~sl:0.2~he d-didn't do much...
+
+MGSHA_JB_WB_3 = ~z~Just killed a feller... and they wanna kill him... it's outrageous.
+
+MGSHA_JB_WB_4 = ~z~Can you do me a favor and get him outta there?
+
+MGSHA_JB_WB_5 = ~z~~sl:0.0:2.3~T-they got him on a road~sl:~from Thieves Landing to B-blackwater.
+
+MGSHA_JB_WB_6 = ~z~Hurry, okay? They'll hang him there.
+
+MGSHA_LEAVEN_01 = ~z~W-well, you leaving?
+
+MGSHA_LEAVEN_02 = ~z~T-that it, then?
+
+MGSHA_LEAVEN_03 = ~z~I guess you're off?
+
+MGSHA_LEAVEN_04 = ~z~Guess you'll be g-going?
+
+MGSHA_LEAVEN_05 = ~z~Well, it's b-been nice.
+
+MGSHA_PAS_RATH_1 = ~z~~sl:0.0:3.0~Thank God, 'cause m-my nerves...~sl:~been giving me a fair old torment.
+
+MGSHA_PAS_RATH_2 = ~z~~sl:0.0:2.9~I-I've got a condition, I told you about.~sl:~M-my, my m-medication, helps me through it.
+
+MGSHA_PAS_RATH_3 = ~z~~sl:0.0:2.5~It's a hell of a cure you can get in a bottle.~sl:0.3~Gets worse when t-there's things to be nervous of.
+
+MGSHA_PAS_RATH_4 = ~z~~sl:0.0:3.6~L-like this kid I knew, got caught smuggling~sl:~and is in t-the custody of some bounty hunters.
+
+MGSHA_PAS_RATH_5 = ~z~~sl:0.0:4.0~N-now t-they're taking him to T-tumbleweed~sl:0.0:4.0~and if he gets there, he might tell t-the sheriff~sl:~that what he was smuggling was mine.
+
+MGSHA_PAS_RATH_6 = ~z~~sl:0.0:5.9~C-can you stop him? From speaking, at all?~sl:0.3~I k-know you will.
+
+MGSHA_SB_LMR_1 = ~z~~sl:0.0:5.0~How much you know about my operation? M-my munitions sales?~sl:0.0:3.7~I got a whole network of distribution, yeah...~sl:0.1~b-by land and water...
+
+MGSHA_SB_LMR_2 = ~z~~sl:0.0:3.2~Used to be all freight moved by water, up rivers...~sl:~n-not so much now, but I like it. L-less bandits out there.
+
+MGSHA_SB_LMR_3 = ~z~~sl:0.0:3.5~Only my boats... th-they been taken by my competition.~sl:0.3:3.2~Th-the Del Lobos is holding them on the Montana,~sl:0.2~by Stillwater Creek.
+
+MGSHA_SB_LMR_4 = ~z~Get them, okay? I will reward you, alright.
+
+MGSHA_SW_GAPT_1 = ~z~~sl:0.0:2.9~Now, you should know I am damaged goods...~sl:0.0:1.7~I ain't been the same...~sl:~since that mine fell in on me and they pulled me out...
+
+MGSHA_SW_GAPT_2 = ~z~~sl:0.0:2.0~S-shook me up, it did.~sl:0.6:~S-so I hope you understand why I ain't going up there.
+
+MGSHA_SW_GAPT_3 = ~z~~sl:0.0:1.8~T-to Gaptooth Breach,~sl:0.0:2.4~that forsaken dig, to get my wagon back...~sl:0.1:2.7~my nerves is jangling...~sl:0.3~j-just thinking of that mineshaft coming d-down.
+
+MGSHA_SW_GAPT_4 = ~z~~sl:0.0:3.4~You get me the wagon, y-you'll save my nerves.~sl:1.1~Damn Del Lobos. M-messing with me.
+
+MGSHA_SW_SOLO_1 = ~z~~sl:0.0:4.1~See, now I should start off b-by telling you, I ain't a greedy feller.~sl:0.5:3.7~I m-mean, I-I'll get all itchy if I don't get my m-medicine,~sl:0.0~but that's something else.
+
+MGSHA_SW_SOLO_2 = ~z~~sl:0.3~T-that's an addiction, see?
+
+MGSHA_SW_SOLO_3 = ~z~~sl:0.0:3.5~So, when I tell you I need you to get me these goods...~sl:~y-you should understand, I don't ask that lightly.
+
+MGSHA_SW_SOLO_4 = ~z~~sl:0.0:3.4~It's just something I have to have... I have to have.~sl:0.4~So can you get this caravan for me? W-would ya?
+
+MGSHA_SW_SOLO_5 = ~z~~sl:0.0:3.3~It's at that old homestead there, S-solomon's Folly.~sl:0.7~And look out, now. It's D-del Lobos guarding.
+
+MGSHA_TAKEP_01 = ~z~~sl:0.5~T-take it.
+
+MGSHA_TAKEP_02 = ~z~Y-you going to take it?
+
+MGSHA_TAKEP_03 = ~z~It's there. T-take it.
+
+MGSHA_TAKEP_04 = ~z~~sl:1.4~P-pick it up.
+
+MGSHA_TAKEP_05 = ~z~There's nothing w-wrong with it. Take it.
+
+MGSHA_WB_BLW_1 = ~z~~sl:0.0:4.1~I don't know if you noticed, t-there's a new gang in town...~sl:0.2~t-these Del Lobos...
+
+MGSHA_WB_BLW_2 = ~z~~sl:0.0:1.6~They're taking over Thieves Landing.~sl:0.4~They're in, I'm out.
+
+MGSHA_WB_BLW_3 = ~z~~sl:0.0:3.0~I need all the allies I can muster.~sl:0.4:2.2~S-so it doesn't help when one of them...~sl:0.2~gets his self a pair of iron bracelets. N-no it don't...
+
+MGSHA_WB_BLW_4 = ~z~Y-you think you could save him? F-from the bounty hunters?
+
+MGSHA_WB_BLW_5 = ~z~~sl:0.0:3.7~T-they're bringing him up to the sheriff in B-blackwater.~sl:0.2~G-go quick, please. He ain't much good to me dead.
+
+SHA_ACCEPT_01 = ~z~Now, g-good luck.
+
+SHA_ACCEPT_02 = ~z~Look after yourself.
+
+SHA_ACCEPT_03 = ~z~Be careful.
+
+SHA_ACCEPT_04 = ~z~D-don't overdo it.
+
+SHA_ACCEPT_05 = ~z~Try not to strain yourself.
+
+SHA_ACT_AGG_01 = ~z~Cut t-that out.
+
+SHA_ACT_AGG_02 = ~z~Stop that.
+
+SHA_ACT_AGG_03 = ~z~W-would you stop?
+
+SHA_ACT_AGG_04 = ~z~Hey, hey. E-enough.
+
+SHA_ACT_AGG_05 = ~z~C-could you not?
+
+SHA_AGGRESS_01 = ~z~I can't be dealing with you... not in my c-condition.
+
+SHA_AGGRESS_02 = ~z~You got some nerve, partner. T-trying this with my nerves and all?
+
+SHA_AGGRESS_03 = ~z~N-no, I can't. Can't work with you on account of m-my nerves.
+
+SHA_AIM_01 = ~z~W-Watch where you're pointing that.
+
+SHA_AIM_02 = ~z~G-Get that away from me.
+
+SHA_AIM_03 = ~z~D-Don't point that.
+
+SHA_AIM_04 = ~z~W-What you doing with that?
+
+SHA_AIM_05 = ~z~I d-don't like where you're aiming that.
+
+SHA_APPROACH_01 = ~z~Hey, we might be in need of a hand again?
+
+SHA_APPROACH_02 = ~z~You know, w-we might need some help again.
+
+SHA_APPROACH_03 = ~z~Oh. You know I'm always on the lookout for folks to help.
+
+SHA_APPROACH_04 = ~z~Hey, you think you could put them hands back to work?
+
+SHA_APPROACH_05 = ~z~Hey, I could certainly use your a-assistance again.
+
+SHA_APPROACH_06 = ~z~Oh hey... you a-available f-for work?
+
+SHA_APPROACH_07 = ~z~You want work friend?
+
+SHA_APPROACH_08 = ~z~You're b-back, eh?
+
+SHA_APPROACH_09 = ~z~~sl:0.0:2.7~Hello again. How you been?~sl:~You l-looking for some b-business opportunities?
+
+SHA_APPR_FIRST_01 = ~z~W-what you doing stranger, looking for work?
+
+SHA_APPR_FIRST_02 = ~z~You sniffing around f-for something? Maybe work?
+
+SHA_APPR_FIRST_03 = ~z~You look like you need something. It a-ain't a job, is it?
+
+SHA_BOUNTY_01 = ~z~Look, just get rid of that bounty, then come back.
+
+SHA_BOUNTY_02 = ~z~Can you lose the bounty? Then come back and talk.
+
+SHA_BOUNTY_03 = ~z~Hey, look. I w-w-w-wanna do business. You just gotta lose the bounty first.
+
+SHA_COOLDOWN_01 = ~z~I can't talk to you right now.
+
+SHA_COOLDOWN_02 = ~z~You're g-gonna have to give me some time, here.
+
+SHA_COOLDOWN_03 = ~z~Look, you're going to have to g-give me some more time, okay?
+
+SHA_ESCALATE_01 = ~z~S-stop that right n-now.
+
+SHA_ESCALATE_02 = ~z~I've had e-enough.
+
+SHA_ESCALATE_03 = ~z~D-dammit, stop it.
+
+SHA_ESCALATE_04 = ~z~No, s-stop.
+
+SHA_ESCALATE_05 = ~z~Stop, d-damn you.
+
+SHA_FAILED_LM_01 = ~z~I seen you since t-that last screw up?
+
+SHA_FAILED_LM_02 = ~z~Unfortunate b-business that last time, eh?
+
+SHA_FAILED_LM_03 = ~z~Real unfortunate what h-happened last time out. Uh huh.
+
+SHA_FAILED_LM_04 = ~z~W-well, here's hoping we all learned something from the last one.
+
+SHA_FAILED_LM_05 = ~z~I hope you're here to make a-amends for before, partner.
+
+SHA_FAILED_LM_06 = ~z~H-hope it goes better than the last time, huh?
+
+SHA_FAIL_01 = ~z~What happened? You c-could have done better.
+
+SHA_FAIL_02 = ~z~I t-thought you was gonna handle that.
+
+SHA_FAIL_03 = ~z~Dammit. I was c-counting on you, there.
+
+SHA_H_HIGH_01 = ~z~Hey look, word of advice, find someone a bit more moral to work with.
+
+SHA_H_HIGH_02 = ~z~Look, someone such as yourself, beyond reproach, they don't want to work for me.
+
+SHA_H_HIGH_03 = ~z~You're barking up the wrong tree here, partner. You should find one that's got principals... like yourself.
+
+SHA_H_LOW_01 = ~z~Look, I'm a nice feller, and you... don't seem that nice at all. If that changes, let's talk.
+
+SHA_H_LOW_02 = ~z~Look, I'm no white knight, but... I can't be doing business with a rogue like you.
+
+SHA_H_LOW_03 = ~z~Hey, I'm a business man, but I can't do business with everyone... especially if they got the morals of a snake.
+
+SHA_IDLETIME_01 = ~z~T-time is really of the essence, here.
+
+SHA_IDLETIME_02 = ~z~Y-you really oughta go.
+
+SHA_IDLETIME_03 = ~z~You d-don't leave now, you m-might not catch 'em.
+
+SHA_IDLETIME_04 = ~z~I would strongly advise getting on with it.
+
+SHA_IDLETIME_05 = ~z~Would you just f-fucking go?
+
+SHA_IDLE_01 = ~z~What you waiting for?
+
+SHA_IDLE_02 = ~z~Is there a hold up?
+
+SHA_IDLE_03 = ~z~Something w-wrong?
+
+SHA_IDLE_04 = ~z~You g-going to do it, or what?
+
+SHA_IDLE_05 = ~z~I t-thought you was leaving...
+
+SHA_ILO_01 = ~z~So how about t-that job?
+
+SHA_ILO_02 = ~z~How about t-that, that work?
+
+SHA_ILO_03 = ~z~Y-you want to work, then?
+
+SHA_ILO_04 = ~z~You want to earn a d-dollar or two?
+
+SHA_ILO_05 = ~z~How about doing s-something, then?
+
+SHA_INT_1 = ~z~It's f-f-f-for my nerves.
+
+SHA_INT_2 = ~z~I got b-b-b-bad nerves...
+
+SHA_INT_3 = ~z~r-r-r-really bad nerves.
+
+SHA_INT_4 = ~z~I'm a, I'm, I'm not a not a b-b-b-bad feller.
+
+SHA_INT_5 = ~z~Well, n-n-n-not that bad...
+
+SHA_INT_6 = ~z~What are you looking at?
+
+SHA_INT_7 = ~z~F-F-Folks...
+
+SHA_INT_8 = ~z~always stare...
+
+SHA_INT_9 = ~z~or screw you over.
+
+SHA_INT_10 = ~z~It's one or the other I f-f-find.
+
+SHA_INT_11 = ~z~Which are you?
+
+SHA_INT_12 = ~z~A starer, or a b-b-b-back stabber?
+
+SHA_INT_13 = ~z~Hoping just a starer.
+
+SHA_INT_14 = ~z~Say, you wanna help me out?
+
+SHA_INT_15 = ~z~G-G-Go find this snake.
+
+SHA_INT_16 = ~z~His name is Ian Carmichael.
+
+SHA_INT_17 = ~z~Great guy.
+
+SHA_INT_18 = ~z~M-M-M-My best friend.
+
+SHA_INT_19 = ~z~Best buddies we was.
+
+SHA_INT_20 = ~z~Totally stole my goddamn girl.
+
+SHA_INT_21 = ~z~Stole Shaky's girl he did.
+
+SHA_INT_22 = ~z~I trusted him...
+
+SHA_INT_23 = ~z~he stole her.
+
+SHA_INT_24 = ~z~I'll p-p-p, I'll pay...
+
+SHA_INT_25 = ~z~but you gotta kill this bastard for me, will you?
+
+SHA_INT_26 = ~z~Go on then.
+
+SHA_LEAVE_01 = ~z~Get out of h-here.
+
+SHA_LEAVE_02 = ~z~Go get f-fucked.
+
+SHA_LEAVE_03 = ~z~You, go.
+
+SHA_LEAVE_04 = ~z~W-would you leave?
+
+SHA_LEAVE_05 = ~z~L-leave, okay?
+
+SHA_LOCKED_01 = ~z~Can you c-come back later?
+
+SHA_LOCKED_02 = ~z~W-we're closed. Come back.
+
+SHA_LOCKED_03 = ~z~Nope. C-can you come back another time?
+
+SHA_M_COOLDOWN_01 = ~z~Look, I can't send you out again right away. Things is too hot out there.
+
+SHA_M_COOLDOWN_02 = ~z~Back already? I think we should keep our heads down, the both of us.
+
+SHA_M_COOLDOWN_03 = ~z~Again? No, no, no, my nerves are still going from that last outing. Let's wait.
+
+SHA_M_LOCKED_01 = ~z~This job's not going right now, okay?
+
+SHA_M_LOCKED_02 = ~z~You ain't quite suited to this work, okay? Maybe come back when you are.
+
+SHA_M_LOCKED_03 = ~z~I hate to say it, but I don't think you're up to the work. Maybe if you come back you will be.
+
+SHA_NOT_GL_01 = ~z~I don't mean to be quarrelsome, b-but can I speak to the boss?
+
+SHA_NOT_GL_02 = ~z~So we get it straight, c-can I speak to the boss?
+
+SHA_NOT_GL_03 = ~z~Look, I'd rather d-deal with who's in charge of this outfit.
+
+SHA_NO_AVAIL_01 = ~z~Look, I d-don't have anything available for you right now.
+
+SHA_NO_AVAIL_02 = ~z~B-business ain't good, okay? T-there's nothing going.
+
+SHA_NO_AVAIL_03 = ~z~~sl:0.0:2.1~Look, I d-don't got anything.~sl:0.1~Not sure if that's a good thing, or a bad one.
+
+SHA_PASSED_LM_01 = ~z~You know you d-did a bang up job on that last one.
+
+SHA_PASSED_LM_02 = ~z~I was really happy with w-what you did for me, you know.
+
+SHA_PASSED_LM_03 = ~z~You all handled t-that last one real cool.
+
+SHA_PASSED_LM_04 = ~z~I seen you since you t-took care of that last thing?
+
+SHA_PASSED_LM_05 = ~z~We seen each other since that last thing? T-that was good.
+
+SHA_PASSED_LM_06 = ~z~You d-did a good job last time, I heard.
+
+SHA_PASS_01 = ~z~You done real good there.
+
+SHA_PASS_02 = ~z~G-good job on that.
+
+SHA_PASS_03 = ~z~You got t-that done.
+
+SHA_POSSE_SMALL_01 = ~z~You'll need more riders in your p-posse for this one.
+
+SHA_POSSE_SMALL_02 = ~z~You got to rustle up a f-few more riders to take this one.
+
+SHA_POSSE_SMALL_03 = ~z~~sl:0.03.1~L-look, can you get some more riders together?~sl:0.3~G-gonna take more guns to do this.
+
+SHA_PUSH_01 = ~z~W-what you doing?
+
+SHA_PUSH_02 = ~z~W-what's this?
+
+SHA_PUSH_03 = ~z~Hey, hey.
+
+SHA_PUSH_04 = ~z~N-no you don't.
+
+SHA_PUSH_05 = ~z~Don't d-do that!
+
+SHA_R_WO_OBJ_01 = ~z~Hey, hey... d-don't come back without it.
+
+SHA_R_WO_OBJ_02 = ~z~Hey, w-where is it? Go back and g-get it, won't ya?
+
+SHA_R_WO_OBJ_03 = ~z~~sl:0.0:3.1~Oh... look, I really need it, okay?~sl:~W-would you go and get it, please?
+
+SHA_R_W_OBJ_01 = ~z~You got it. Okay.
+
+SHA_R_W_OBJ_02 = ~z~G-good on you, you got it.
+
+SHA_R_W_OBJ_03 = ~z~Okay. T-that has put a smile on my face.
+
+SHA_SHOOT_01 = ~z~D-don't shoot.
+
+SHA_SHOOT_02 = ~z~M-my nerves...
+
+SHA_SHOOT_03 = ~z~T-the hell?
+
+SHA_SHOOT_04 = ~z~N-no, no stop it!
+
+SHA_SHOOT_05 = ~z~D-don't, dammit.
+
+SHA_STREAK_01 = ~z~You b-been doing real good out there. R-real good.
+
+SHA_STREAK_02 = ~z~You sure been t-taking care of things. Yes, indeed.
+
+SHA_STREAK_03 = ~z~~sl:0.03.7:~T-there's no stopping you... seems that way at least.~sl:0.1~Hope I haven't jinxed ya.
+
+SHA_WANTED_01 = ~z~You c-can't be bringing the law here, get on.
+
+SHA_WANTED_02 = ~z~I can't be having the law brought here... c-clear off.
+
+SHA_WANTED_03 = ~z~~sl:0.0:4.7~You got t-the law on you? Get out of here, goddamit.~sl:0.2:~I'm gonna... h-have a conniption fit.
+

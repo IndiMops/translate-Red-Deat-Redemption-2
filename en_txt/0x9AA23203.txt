@@ -1,0 +1,454 @@
+LBOWL_1_BBANT1_1 = ~z~~sl:0.0:1.3~If I don't shoot y'all,~sl:~what the hell am I supposed to do with all this lead?
+
+LBOWL_1_BBANT1_2 = ~z~I don't, I don't know... look... please.
+
+LBOWL_1_BBANT1_3 = ~z~~sl:0.0:4.2~I got a whole cylinder full of the stuff and nowhere to put it...~sl:0.5~except straight into you.
+
+LBOWL_1_BBANT1_4 = ~z~~sl:0.1~Don't.
+
+LBOWL_1_BBANT2_1 = ~z~~sl:0.0:3.0~You got some stones, I'll give you that.~sl:0.2~~rp~Got a real pair of stones on you.
+
+LBOWL_1_BBANT2_2 = ~z~~sl:0.0:4.9:1~Be one thing snuffing me out... but ~rp~taking me in alive?
+
+LBOWL_1_BBANT2_3 = ~z~~sl:0.0:2.3~Trusting some deputy to keep me locked up~sl:0.0:4.2~until the hangman comes... ~rp~well that is brave.~sl:0.8~~rp~ Brave or stupid.
+
+LBOWL_1_BBANT2_4 = ~z~~sl:0.0:4.8~Y'think they'll hang me? ~rp~Really? ~rp~You trust 'em to?~sl:0.2~~rp~With the whole family, out there looking?
+
+LBOWL_1_BBANT2_5 = ~z~~sl:0.0:2.3~They odds ain't good, partner...~sl:0.3:2.8~and you'll be betting your whole life.~sl:0.2~And a world of pain besides.
+
+LBOWL_1_BBANT2_6 = ~z~~sl:0.0:2.4~Like I said, you got some stones.~sl:0.4~~rp~I can hear 'em rattling round in that head of yours.
+
+LBOWL_1_BBANT2_7 = ~z~~sl:0.0:2.2~I got a strong neck, see?~sl:0.5~~rp~Not one of them chicken necks, the head'll pop right off a?
+
+LBOWL_1_BBANT2_8 = ~z~~sl:0.0:3.1~I reckon I could last a minute... two...~sl:~~rp~hanging by my neck, wouldn't know the difference.
+
+LBOWL_1_BBANT2_9 = ~z~~sl:0.0:2.4~Maybe I'll see, maybe I won't...~sl:0.3:3.2~maybe I'll live to show you my scar,~sl:~give you a few of your own.
+
+LBOWL_1_BBANT2_10 = ~z~There's some good ears on that head.
+
+LBOWL_1_BTYSPOT_1 = ~z~Who the hell are you?
+
+LBOWL_1_CARRY_01 = ~z~~sl:0.0:3.3~When the family hears about this... boy!~sl:0.4~It ain't gonna be pretty when the family hears about this.
+
+LBOWL_1_CARRY_02 = ~z~~sl:0.0:2.7~Them ears'll look good on a necklace...~sl:0.8~and that's the best you can hope for.
+
+LBOWL_1_CLOSE_1 = ~z~Shit, is that the wagon? Don't look much, does it?
+
+LBOWL_1_CLOSE_2 = ~z~~sl:0.0:3.1~Don't think I'd bet my life on a wagon like that...~sl:0.5~holding a man like me.
+
+LBOWL_1_COMBAT2_01 = ~z~You want to be an Owlhoot? Kill 'em!
+
+LBOWL_1_COMBAT2_02 = ~z~Why ain't they dead?
+
+LBOWL_1_COMBAT2_03 = ~z~Someone bring me their head!
+
+LBOWL_1_COMBAT2_04 = ~z~I thought y'all wanted in the family? Kill 'em! Now!
+
+LBOWL_1_COMBAT2_05 = ~z~Give 'em a lead shower!
+
+LBOWL_1_COMBAT2_06 = ~z~Rain metal on their ass.
+
+LBOWL_1_FIGHT_01 = ~z~Real foolish, coming here!
+
+LBOWL_1_FIGHT_02 = ~z~You ain't the first that's come for this scalp.
+
+LBOWL_1_FIGHT_03 = ~z~I'm going to take more than that bounty's worth out of you.
+
+LBOWL_1_FLEE1_1 = ~z~I ain't gonna stay here and watch this.
+
+LBOWL_1_HOGTIED_01 = ~z~Shit! Shit! Shit!
+
+LBOWL_1_HOGTIED_02 = ~z~Shit my drawers!
+
+LBOWL_1_HOGTIED_03 = ~z~You got real lucky here.
+
+LBOWL_1_HUNTED_1 = ~z~~sl:0.0:1.3~Look here.~sl:~Someone was dumb enough to take that bounty.
+
+LBOWL_1_IDLE_1 = ~z~Are we going to do this or what?
+
+LBOWL_1_IDLE_2 = ~z~Change of heart?
+
+LBOWL_1_IG_PLD_1 = ~z~I don't like to let it go to waste...
+
+LBOWL_1_IG_PLD_2 = ~z~
+
+LBOWL_1_IG_PLD_3 = ~z~No! Please. Just leave us be, don't kill us...
+
+LBOWL_1_IG_PLD_4 = ~z~
+
+LBOWL_1_IG_PLD_5 = ~z~
+
+LBOWL_1_IG_PLD_6 = ~z~For the love of God, please. Don't kill us. Please. Please!
+
+LBOWL_1_IG_PLD_7 = ~z~Don't kill ya. It ain't me... it's the bullets.
+
+LBOWL_1_IG_PLD_8 = ~z~Oh... no! Oh, God...
+
+LBOWL_1_IG_PLD_9 = ~z~See?
+
+LBOWL_1_SHTCIV2_1 = ~z~Look at that... there's still some more to go around!
+
+LBOWL_1_SHTCIV2_2 = ~z~Oh God, oh... No, please, you don't have to do this, you don't have to do...
+
+LBOWL_1_SHTCIV2_3 = ~z~Well that's that, then.
+
+LBOWL_2_BBANT1_1 = ~z~~sl:0.0:2.0~Ahh... ~rp~this is about the bounty, ain't it?~sl:0.6~Well, I can tell you what you could do with that bounty.
+
+LBOWL_2_BBANT1_2 = ~z~~sl:0.0:1.8~You can wipe my damn ass with it,~sl:~and show it to the governor.
+
+LBOWL_2_BBANT1_3 = ~z~~sl:0.0:1.7~You think I care if you lock me up?~sl:0.3~~rp~Hot meals, a roof over my head?
+
+LBOWL_2_BBANT1_4 = ~z~~sl:0.0:3.3~No, I don't care a bit, I'll enjoy the hospitality...~sl:0.7~~rp~until I'm done with it.
+
+LBOWL_2_BBANT1_5 = ~z~~sl:0.0:2.5~And when I'm done... why, you better look out.~sl:1.0~~rp~'Cause I'll still be short a mount.
+
+LBOWL_2_BBANT1_6 = ~z~
+
+LBOWL_2_BBANT1_7 = ~z~
+
+LBOWL_2_BBANT1_8 = ~z~
+
+LBOWL_2_CARRY_1 = ~z~This is all 'cause a that horse.
+
+LBOWL_2_CARRY_2 = ~z~I'd shoot it again if I could.
+
+LBOWL_2_CARRY_3 = ~z~Least I ain't walking out.
+
+LBOWL_2_CLOSE_1 = ~z~You think that thing will hold me?
+
+LBOWL_2_CLOSE_2 = ~z~Guess we got to see.
+
+LBOWL_2_COMBAT1_01 = ~z~Come here! Give us a ride!
+
+LBOWL_2_COMBAT1_02 = ~z~Let's saddle you up.
+
+LBOWL_2_COMBAT1_03 = ~z~Going to break you in good.
+
+LBOWL_2_COMBAT1_04 = ~z~~sl:0.0:0.9:1~Frisky, ain't ya?
+
+LBOWL_2_FLEE1_1 = ~z~Stupid horse... make me use my damn legs!
+
+LBOWL_2_HOGTIED_01 = ~z~Burning piss.
+
+LBOWL_2_HOGTIED_02 = ~z~Fiery lakes of shit.
+
+LBOWL_2_HOGTIED_03 = ~z~I hope the devil pecks your eyes out.
+
+LBOWL_2_IDLE_01 = ~z~What's the hold up then?
+
+LBOWL_2_IDLE_02 = ~z~You gonna free these hands so I can put 'em round your neck?
+
+LBOWL_3_BASE_1 = ~z~If any of you useless fools are still alive, get them!
+
+LBOWL_3_BASE_2 = ~z~There's something I need to grab.
+
+LBOWL_3_BBANT1_1 = ~z~Load up the wagon with whatever you find, you got that?
+
+LBOWL_3_BBANT1_2 = ~z~I'm going to tend to the sick.
+
+LBOWL_3_BBANT2_1 = ~z~~sl:0.0:2.7~I guess you're wondering how a nice girl like me~sl:~ended up an Owlhoot. ~rp~I weren't always like this, you know?
+
+LBOWL_3_BBANT2_2 = ~z~~sl:0.0:4.7~I was a good girl... ~rp~I promise... and I still am...~sl:0.1~somewhere... ~rp~deep inside.
+
+LBOWL_3_BBANT2_3 = ~z~~sl:0.0:3.9~I wasn't born no Owlhoot. ~rp~I was taken by them.~sl:0.4~~rp~Orphaned. ~rp~When I was only a girl.
+
+LBOWL_3_BBANT2_4 = ~z~~sl:0.0:5.3~They killed my daddy... ~rp~momma too... and Uncle John.~sl:0.8:1.7~~rp~Little Philip and me, we...~sl:0.7~~rp~They made us do such awful things.
+
+LBOWL_3_BBANT2_5 = ~z~~sl:0.0:2.0~Then the Lord took my brother, Philip...~sl:0.1:1.9~~rp~he always was a weak child...~sl:0.8~but I weren't so lucky. ~rp~I'm still here.
+
+LBOWL_3_BBANT2_6 = ~z~~sl:0.0:4.0~Tell me you believe me? ~rp~You got to understand.~sl:0.1:2.1~They made me do it all.~sl:~~rp~All the stealing... and the killing... and the torture.
+
+LBOWL_3_BBANT2_7 = ~z~~sl:0.2~I'm still a good girl ain't I? ~rp~You believe me, don't you?
+
+LBOWL_3_BBANT2_8 = ~z~~sl:0.0:4.2~I ain't the things they made me do, I'm a nice girl... a good girl.~sl:0.4~~rp~Tell me I'm a good girl.
+
+LBOWL_3_BBANT2_9 = ~z~~sl:0.0:4.3~Oh, shit. I can't keep this up. I ain't a good girl.~sl:~~rp~I killed my own daddy, and that little sourface Philip too.
+
+LBOWL_3_BBANT2_10 = ~z~~sl:0.0:2.8~And I'll kill you too if you give me as much as a sniff of it.~sl:0.0:2.9~I steal, and I kill, and I torture,~sl:~and I love it all, so help me Jesus.
+
+LBOWL_3_BBANT2_11 = ~z~Let's just get this over with.
+
+LBOWL_3_BTYSPOT_1 = ~z~Whatever do we have here....
+
+LBOWL_3_CARRY_01 = ~z~This is a regular massacre.
+
+LBOWL_3_CARRY_02 = ~z~What are you, a damn butcher?
+
+LBOWL_3_CARRY_03 = ~z~The smell...
+
+LBOWL_3_CLOSE_1 = ~z~Is this the horse-drawn carriage going to take me to the ball?
+
+LBOWL_3_CLOSE_2 = ~z~I thought it would be nicer.
+
+LBOWL_3_COMBAT2_01 = ~z~Kill 'em!
+
+LBOWL_3_COMBAT2_02 = ~z~Or don't kill 'em, wound 'em... so we can have a good time.
+
+LBOWL_3_COMBAT2_03 = ~z~~sl:0.0:1.7~You should've turned up sooner,~sl:~you wanted to save these poor souls.
+
+LBOWL_3_FIGHT_1 = ~z~We got something special saved for bounty hunters!
+
+LBOWL_3_FLEE1_1 = ~z~Now, if you'll excuse me... I should go.
+
+LBOWL_3_HOGTIED_1 = ~z~Get this rope off me!
+
+LBOWL_3_HOGTIED_2 = ~z~I won't be tied up!
+
+LBOWL_3_HOGTIED_3 = ~z~I'll cut this rope, and I'll cut you too.
+
+LBOWL_3_HUNTED_1 = ~z~You aren't a bounty hunter by chance?
+
+LBOWL_3_IDLE_01 = ~z~Is there a problem?
+
+LBOWL_3_IDLE_02 = ~z~I thought we had an appointment.
+
+LBOWL_4_BBANT1_1 = ~z~~sl:0.0:2.4~You all better be keeping your eyes out.~sl:~Or I'll take them eyes outta your heads myself.
+
+LBOWL_4_BBANT1_2 = ~z~~sl:0.0:3.9~We is outlawed by the state... and while we is...~sl:~I am the only one getting any rest.
+
+LBOWL_4_BBANT1_3 = ~z~Going to take a load off.
+
+LBOWL_4_BBANT2_1 = ~z~~sl:0.0:2.5~All business, ain't you? ~rp~~sl:0.5:3.1~I was a bounty hunter, I'd be stopping over yonder...~sl:~executing a little corporal punishment of my own.
+
+LBOWL_4_BBANT2_2 = ~z~~sl:0.0:1.6~Not you though, nope. ~rp~~sl:0.3~You're being a good little doggy.
+
+LBOWL_4_BBANT2_3 = ~z~~sl:0.0:3.5~Ain't this just economic individualism at work...~sl:~~rp~The state's too cheap, or too scared, or too incompetent to bring us in...
+
+LBOWL_4_BBANT2_4 = ~z~~sl:0.0:2.3~so they put our lives on the market.~sl:0.0:3.0~~rp~I hope you feel empowered, my friend.~sl:~'Cause I sure don't.
+
+LBOWL_4_BBANT2_5 = ~z~I thought I'd get a bullet, or a knife... not a hangman's noose.
+
+LBOWL_4_BBANT2_6 = ~z~I swear, I'll die of boredom in a cell before they can build the gallows.
+
+LBOWL_4_BTYSPOT_1 = ~z~And you are?
+
+LBOWL_4_CARRY_1 = ~z~Least you did the job on all these imbeciles. You hadn't killed 'em, I woulda done 'em myself.
+
+LBOWL_4_CARRY_2 = ~z~All they had to do was look out.
+
+LBOWL_4_CLOSE_1 = ~z~That's my ride, is it?
+
+LBOWL_4_CLOSE_2 = ~z~Sure looks comfortable.
+
+LBOWL_4_COMBAT2_01 = ~z~What kind of lookouts is you? Kill them!
+
+LBOWL_4_COMBAT2_02 = ~z~My ass would be a better lookout!
+
+LBOWL_4_COMBAT2_03 = ~z~Which one of you sacks of shit missed the bounty hunter?
+
+LBOWL_4_FIGHT_1 = ~z~I'm gonna have a good old time with you!
+
+LBOWL_4_FLEE1_1 = ~z~I ain't going to stick this out to see the ending.
+
+LBOWL_4_FLEE2_01 = ~z~Come any closer, you're dead in your boots!
+
+LBOWL_4_FLEE2_02 = ~z~I'm just looking for an excuse to turn around, and aerate you.
+
+LBOWL_4_FLEE2_03 = ~z~I'm running right now, you don't want to see me stopped and shooting.
+
+LBOWL_4_FLEE2_04 = ~z~If I choose to, I will drop you in a second.
+
+LBOWL_4_FLEE2_05 = ~z~You move up any closer, you'll be in killing range.
+
+LBOWL_4_GROUND_01 = ~z~You got me at your mercy, what you going to do?
+
+LBOWL_4_GROUND_02 = ~z~I know what I'd do, I had you tied up like this...
+
+LBOWL_4_GROUND_03 = ~z~Come on... do something, the suspense is killing me. Literally.
+
+LBOWL_4_HOGTIED_01 = ~z~Get a good feel!
+
+LBOWL_4_HOGTIED_02 = ~z~Y'enjoying yourself?
+
+LBOWL_4_HUNTEDM_1 = ~z~Everyone! We got us some bounty hunters!
+
+LBOWL_4_HUNTED_1 = ~z~Everyone! We got us a bounty hunter!
+
+LBOWL_4_IDLE_01 = ~z~Changing your mind?
+
+LBOWL_4_IDLE_02 = ~z~How about you serving up some more justice of your own, huh?
+
+LBOWL_5_BBANT1_1 = ~z~~sl:0.0:4.6~You see... you cut 'em deep, they die too quick.~sl:1.0~Cut 'em shallow.... they don't barely feel it.
+
+LBOWL_5_BBANT1_2 = ~z~~sl:0.0:5.1~No, you got to cut 'em just right. Just...~sl:2.3~An old Mex taught me down near Punta Orgullo.
+
+LBOWL_5_BBANT1_3 = ~z~~sl:0.0:3.1~That black-eyed coyote could cut a man for days...~sl:0.5~and just when he thought he was all out of hurt...
+
+LBOWL_5_BBANT1_4 = ~z~~sl:0.0:3.2~he'd make him hurt some more... and then some.~sl:0.7:2.7~Just whittling away at the man...~sl:0.0:3.1~'til there was barely nothing left 'cept the scream.
+
+LBOWL_5_BBANT1_5 = ~z~~sl:0.0:2.3~That Mex sure was something.~sl:1.6~Ain't going to pretend I'm near as good with my blade,
+
+LBOWL_5_BBANT1_6 = ~z~~sl:0.0:4.3~but he taught me a thing... and I'll teach you too.~sl:0.9~Just let's find someone and settle down a few days.
+
+LBOWL_5_BBANT1_7 = ~z~Keep your eyes peeled.
+
+LBOWL_5_BBANT2_1 = ~z~~sl:0.0:2.6~Looks like you got me at your mercy, alright.~sl:0.5:3.0~~rp~I mean, ~rp~you could do whatever you want to me...~sl:0.8~and there's nothing I could say.
+
+LBOWL_5_BBANT2_2 = ~z~~sl:0.0:1.6~I got some ideas what I'd do~sl:0.0:1.8~if the situation was reversed...~sl:0.7~but so far... you been real civil. ~rp~It's mighty noble.
+
+LBOWL_5_BBANT2_3 = ~z~~sl:0.0:2.2~This is quite an adventure.~sl:0.4~~rp~They're going to hang me, ain't they?
+
+LBOWL_5_BBANT2_4 = ~z~~sl:0.0:1.8~I snuffed enough lights out...~sl:0.7:2.1~~rp~I got some idea of death.~sl:1.2~But I'd say there's nothing like firsthand experience now is there?
+
+LBOWL_5_BBANT2_5 = ~z~~sl:0.0:1.7~Quite an adventure.~sl:1.0~~rp~I do so hope you'll come to my hanging.
+
+LBOWL_5_BBANT2_6 = ~z~~sl:0.0:1.7~Could be an occasion...~sl:~especially if there's a few of us up there.
+
+LBOWL_5_BTYSPOT_1 = ~z~Now, who's this here? We're looking for a volunteer.
+
+LBOWL_5_CARRY_1 = ~z~~sl:0.0:3.3~Well... I didn't expect my day to go the way it did~sl:~when waking up this morning...
+
+LBOWL_5_CARRY_2 = ~z~This is quite a development, eh?
+
+LBOWL_5_CARRY_3 = ~z~~sl:0.7~All tied up, and ready for anything.
+
+LBOWL_5_CLOSE_1 = ~z~I preferred my wagon, but still.
+
+LBOWL_5_CLOSE_2 = ~z~The journey continues.
+
+LBOWL_5_COMBAT1_1 = ~z~You shoulda stayed away from us.
+
+LBOWL_5_FIGHT_1 = ~z~You're after that bounty, is you? That's even better.
+
+LBOWL_5_FIGHT_2 = ~z~I loves cutting me a bounty hunter.
+
+LBOWL_5_FLEE1_1 = ~z~Let's go. Drive! Drive!
+
+LBOWL_5_HIDE1_01 = ~z~If we can just make it back...
+
+LBOWL_5_HIDE1_02 = ~z~So close to home... I don't care if you die at the door, get there.
+
+LBOWL_5_HIDE1_03 = ~z~Drive, drive, drive! We're almost there.
+
+LBOWL_5_HIDE2_1 = ~z~They're trying to get me! Stop 'em!
+
+LBOWL_5_HOGTIED_01 = ~z~I can't believe this.
+
+LBOWL_5_HOGTIED_02 = ~z~I can't quite believe it.
+
+LBOWL_5_HOGTIED_03 = ~z~This ain't happening.
+
+LBOWL_5_IDLE_1 = ~z~So, what's the hold up?
+
+LBOWL_5_IDLE_2 = ~z~Having second thoughts on account of my charm?
+
+LBOWL_6_BBANT1_1 = ~z~~sl:2.0~Come on, dance. Just dance like the whole world depended on it.
+
+LBOWL_6_BBANT1_2 = ~z~Dance the devil away.
+
+LBOWL_6_BBANT1_3 = ~z~'Cause I got a feeling he ain't too far.
+
+LBOWL_6_BBANT2_1 = ~z~~sl:0.0:3.4~You know, we was having a celebration before you showed up.~rp~~sl:0.0:1.5:1~A real Owlhoot hoedown.
+
+LBOWL_6_BBANT2_2 = ~z~~sl:0.0:1.9~Then you went and spoiled the party.~sl:~I hope you're pleased with yourself.
+
+LBOWL_6_BBANT2_3 = ~z~~sl:0.0:2.4~This is too much. Too much!~sl:~My brain's rattling around my skull like a liar's dice.
+
+LBOWL_6_BBANT2_4 = ~z~~sl:0.0:1.7~I don't know if I want to stare at the ground,~sl:~or this animal's ass.
+
+LBOWL_6_BBANT2_5 = ~z~~sl:0.0:1.6~God, I hope it ain't flatulent.~rp~~sl:1.4~Queasy don't even begin to describe it.
+
+LBOWL_6_BBANT2_6 = ~z~~sl:0.0:3.3~From king of the castle, to face down in a horse's ass.~rp~~sl:0.7~This is quite a damn reversal.
+
+LBOWL_6_BTYSPOT_1 = ~z~You don't belong here...
+
+LBOWL_6_CARRY_1 = ~z~~sl:0.0:1.6~If anyone's still got their heads,~sl:0.0:2.0:1~they're sure going to feel 'em tomorrow.
+
+LBOWL_6_CLOSE_1 = ~z~Look at that, a rolling cage.
+
+LBOWL_6_CLOSE_2 = ~z~~sl:0.0:2.0~You think I can go to sleep in that thing?~sl:1.3~Know what... I think I can.
+
+LBOWL_6_COMBAT2_01 = ~z~It's a damn fort, let's hold it!
+
+LBOWL_6_COMBAT2_02 = ~z~If you fools can't hold a fort, you deserve to die.
+
+LBOWL_6_COMBAT2_03 = ~z~Shake that grog off and do something!
+
+LBOWL_6_COMBAT2_04 = ~z~Get back to killing!
+
+LBOWL_6_FIGHT_1 = ~z~I had an inkling I weren't done killing just yet.
+
+LBOWL_6_FLEE1_1 = ~z~Ya'll want the fort, you can have it!
+
+LBOWL_6_HOGTIED_01 = ~z~I'm gonna... I'm gonna air my paunch.
+
+LBOWL_6_HOGTIED_02 = ~z~I don't want to throw up on myself.
+
+LBOWL_6_HOGTIED_03 = ~z~~sl:0.2~I choke on vomit, that's on you.
+
+LBOWL_6_HUNTED_1 = ~z~~sl:0.0:1.3~I know why you're here...~sl:0.5~for me.
+
+LBOWL_6_IDLE_01 = ~z~What's going on? Check me in, already.
+
+LBOWL_6_IDLE_02 = ~z~I want to lie down.
+
+LBOWL_BINK_INT_1 = ~z~The Owlhoot family.
+
+LBOWL_BINK_INT_2 = ~z~First off, they ain't no family.
+
+LBOWL_BINK_INT_3 = ~z~More like an unhinged congregation of...
+
+LBOWL_BINK_INT_4 = ~z~the worst bastards and bitches on God's green earth.
+
+LBOWL_BINK_INT_5 = ~z~You think they look bad on this poster?
+
+LBOWL_BINK_INT_6 = ~z~Wait till you see how folks look, after the family's done with them.
+
+LBOWL_BINK_INT_7 = ~z~Bringing just one of these Owlhoots down will not cut it here.
+
+LBOWL_BINK_INT_8 = ~z~You'll have to get all four of them that's on the list.
+
+LBOWL_BINK_INT_9 = ~z~They shouldn't be too far away from each other...
+
+LBOWL_BINK_INT_10 = ~z~but you'll have to do some looking.
+
+LBOWL_BINK_INT_11 = ~z~And when you get them...
+
+LBOWL_BINK_INT_12 = ~z~don't hold back.
+
+LBOWL_BREAKOUT_1 = ~z~Who's that there? I am tending to the sick.
+
+LBOWL_IG1_HRSE1_1 = ~z~Get up you damn nag!
+
+LBOWL_IG1_HRSE2_1 = ~z~I don't want to shoot you again, get up.
+
+LBOWL_IG1_HRSE3_1 = ~z~I will flog the life out of you, you don't get up right now.
+
+LBOWL_IG1_HRSE4_1 = ~z~~sl:0.5~Stupid horse!
+
+LBOWL_IG1_HRSE5_1 = ~z~Stupid horse!
+
+LBOWL_IG1_PLYR_1 = ~z~My horse is dead. I'm gonna have to ride you.
+
+LBOWL_IG2_BANT_1 = ~z~Sugar, you're in pretty bad shape.
+
+LBOWL_IG2_BANT_2 = ~z~I need help.
+
+LBOWL_IG2_BANT_3 = ~z~If you don't see a doctor soon, that could be it for you.
+
+LBOWL_IG2_BANT_4 = ~z~Yes... yes...
+
+LBOWL_IG2_BANT_5 = ~z~As luck would have it, I tend to do some surgeries myself.
+
+LBOWL_IG2_BANT_6 = ~z~No...
+
+LBOWL_IG2_BANT_7 = ~z~Oh yeah... a regular sawbones is me.
+
+LBOWL_IG2_BANT_8 = ~z~Don't.
+
+LBOWL_IG2_BANT_9 = ~z~I wish I had something for the pain...
+
+LBOWL_IG2_BANT_10 = ~z~but you're just gonna have to grin and bear it.
+
+LBOWL_IG2_BANT_11 = ~z~No, no, no!
+
+LBOWL_IG2_BANT_12 = ~z~Yes, yes, yes, now... come here.
+
+LBOWL_IG2_BANT_13 = ~z~
+
+LBOWL_IG2_BANT_14 = ~z~
+
+LBOWL_IG2_BANT_15 = ~z~I am pooped.
+
+LBOWL_IG2_BANT_16 = ~z~I think I need a rest.
+

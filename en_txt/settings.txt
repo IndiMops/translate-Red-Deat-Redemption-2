@@ -1,0 +1,897 @@
+0x287C24A7 = Під час гри боєприпаси відображаються у певні моменти. Також їх можна відобразити за допомогою  ~INPUT_REVEAL_HUD~.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Вимкнення їх відображення може ускладнити проходження деяких фрагментів гри.
+
+0x0D694C41 = Ідентифікатор шкоди
+
+0x2EFE78E8 = Інтерфейс
+
+0x7DE944B8 = Утримувати, щоб прицілитися
+
+0x8B40F1A6 = Вузьке
+
+0xE8FBEBB6 = Вибрати великий або стандартний розмір для позначок на карті.
+
+0x5D43E54A = Пішки
+
+0x0DCFA7CE = Dead Eye (When Aiming)
+
+0xF1ABBC8D = Дозволяє вибрати, чи буде керування верховою їздою відносно камери чи коня. «За положенням камери» задає напрямок їзди щодо того, куди спрямована камера. «За положенням коня» задає напрямок їзди щодо того, куди повернуто коня.
+
+0xCA8A4116 = Slow / Stop
+
+0xBD9A00A1 = Під час гри ви будете отримувати сповіщення. Після вимкнення сповіщення не відображатимуться в інтерфейсі, але вони будуть доступні в журналі.
+
+0x429E2922 = Switch firing mode (When Aiming)
+
+0x08D8F464 = Мітки гравця
+
+0xF8D62EF9 = Grapple
+
+0xAD4D60B4 = Look
+
+0xB49B8372 = Allow Transaction Feeds to appear on screen
+
+0xDC7BDE99 = DirectInput
+
+0x9A22F460 = Дозволяє керувати налаштуваннями вібрації контролера під час гри.
+
+0xB802CE2E = Pulse Headset
+
+0xCBFF8803 = Toggle the mouse acceleration in First Person view.
+
+0x083A281C = Чутливість миші (огляд)
+
+0x8C5F6226 = Allow Help Tips to appear top left of the screen
+
+0x4A4354FF = Slow / Stop
+
+0x39BD2197 = Стандартне - від першої особи 2
+
+0xFBFDBD3E = Look Behind
+
+0xAABF1004 = Режим бігу (лише пішки)
+
+0x7B5DA394 = Allows Invites from Red Dead Online to appear onscreen while in Story Mode. Invites can be accessed from the Invites section of the Log menu whether this setting is on or off.
+
+0x02F3F909 = Turning Auto Save 'Off' will mean you have to manually save your game by accessing the Story section of the Pause menu
+
+0x4BC966E6 = Керує відображенням індикатора честі на екрані.
+
+0x1722B3DD = Select your preferred Weight measurement. The Weight Unit will appear when inspecting a caught fish.
+
+0x611CDE87 = Повідомлення прицілювання з'являються відразу над прицілом.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Їхнє відключення може ускладнити проходження деяких фрагментів гри.
+
+0xDB5B05A5 = Керує відображенням субтитрів на екрані.
+
+0x698E8732 = A high sensitivity setting allows you to be heard more easily, but could pick up more ambient noise
+
+0x6A35696A = При грі в Red Dead Online вам можуть надходити запрошення від інших гравців. Після вимкнення запрошення не відображатимуться в інтерфейсі, але, як і раніше, будуть доступні в меню гравця.
+
+0x73F4E32B = Відеопам'ять
+
+0x4710D184 = Front speaker setup
+
+0x61BC8BD2 = Loot
+
+0x0B5DFD94 = Headphones
+
+0x3B07232C = Dialogue Balance
+
+0x309149D2 = Look
+
+0x328A2522 = Select the surround speaker position that best matches your audio setup.
+
+0x70EB7675 = Дозволяє виставити режим миші.
+
+0x00D7EBD1 = This setting determines if you will receive Game Invites, Friend Invites, Crew Invites, and Posse Invites whilst in Story Mode
+
+0x33B70478 = Adjusts the leveling of the First Person Camera automatically.
+
+0x46114A54 = Adjust the set up of your HUD Safe Zone
+
+0xD95AC7F9 = First Person Field of View
+
+0xD1F6806A = Вібрація
+
+0x5837D4E5 = Близько
+
+0x476F3A91 = Чутливість камери
+
+0x8113DDA1 = Allow the ticker feed to appear in Red Dead Online
+
+0xC0E5AC15 = It helps to make a new save game before cheating
+
+0x53968E93 = In a Vehicle Zoom
+
+0x39FD61B7 = Surround Side
+
+0x5FA84633 = Утримувати
+
+0xA0216388 = Контроль швидкості натисканням та утримуванням (транспорт/верхом)
+
+0x3FF7F479 = Альтернативне + шульга - від першої особи
+
+0xEADE6863 = Download the Red Dead Redemption 2 Companion App to make full use of this function
+
+0x390F959E = МБ
+
+0x1551C556 = Control the use of the Cover Camera in First Person.
+
+0x750B663B = Red Dead Redemption 2 Companion App
+
+0x6E70ACED = Маленький
+
+0x971D433D = Select your preferred Distance measurement.
+
+0xBE543A39 = Carry
+
+0x7A059359 = Change your Display Calibration
+
+0xC2279544 = Interact (Hold)
+
+0x35DBD3AD = Mount Horse / Enter Vehicle
+
+0xAED6E26A = Автоматична зміна боєприпасів
+
+0x32F2B46A = Score Volume
+
+0xD9C8D1E4 = Чутливість прицілювання
+
+0xC1173DFC = Adjust the mouse sensitivity setting for aiming and looking in Third Person view.
+
+0xC914FFA3 = Journal / Handheld Catalogue (Hold)
+
+0xD2040990 = Third Person Field of View
+
+0xC5700105 = Змініть розмір прицілу під ваш стиль гри.
+
+0x574BE699 = Credits
+
+0x1C96B9B2 = Safezone Height
+
+0x7F26DB4B = Skip Cutscene (Hold)
+
+0x4DFF0DDE = Item Wheel (When Wheel Open)
+
+0x08E8C592 = Режим миші
+
+0xB57C547A = Adjust how the Threat Indicator appears on screen
+
+0x0F62F23B = Restore ~1~ Defaults
+
+0x4ED19F9A = Dismount
+
+0x82837269 = Показники відображаються у заняттях і під час виконання особливих завдань, коли ця інформація важлива.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Їхнє відключення може ускладнити проходження деяких фрагментів гри.
+
+0x540FEB60 = Wireless Stereo Headset
+
+0xA72E9FA3 = Вивід звуку
+
+0x90B1F4DC = Вмикати фоторежим кнопкою «Зміна ракурсу»
+
+0x371310CA = Pull Around Camera
+
+0x7C192335 = Керування конем при прицілюванні
+
+0xE3E079EF = Дозволяє змінити чутливість прицілювання при грі від першої особи або під час використання оптичних прицілів.
+
+0x4D455FA2 = Quick Use Item (Tap)
+
+0x00D76114 = Середня
+
+0x679DC728 = Control the volume of your outbound voice chat.
+
+0x69D18898 = Allow First Person Drive-By Camera Relative to Vehicle
+
+0x23D157F0 = Чутливість миші (приціл)
+
+0x761DC8D5 = Autosave
+
+0x0D5B2C2B = Мітки коней
+
+0xE3F76E0C = Синути налаштування
+
+0x4823F6EA = Adjust the Field of View when in First Person to better suit your play style.
+
+0x40D0D2D4 = Ефекти напряму шкоди відображаються щоразу, коли ви отримуєте вогнепальне поранення. Вимкніть їх, якщо вони не відповідають вашому стилю гри. Ці індикатори з'являються лише у Red Dead Online.
+
+0x0B86B9BA = Середня
+
+0xDA53F668 = Якщо ви використовуєте револьвер Ле Ма, можна включити автоматичну зміну типу боєприпасів, що використовується в той момент, коли закінчилися патрони для дробовика або револьвера. ~n~~n~Щоб переключити режим стрільби з «дробовика» на «револьвер» або навпаки, натисніть ~INPUT_SWITCH_FIRING_MODE~ під час прицілювання.
+
+0x67509AF5 = Allow the functionality of Kill Cam
+
+0x1F0AB117 = Коригування кольоросприйняття
+
+0x6DB2DE66 = Назва загону
+
+0xBC307ED9 = Індикатори стану показують здоров'я та витривалість гравця чи коня, а також стан «Влучного ~n~~n~~COLOR_MENU_TEXT_ATTENTION~Їхнє відключення може ускладнити проходження деяких фрагментів гри.
+
+0xD0B894AB = Enable or disable participation in voice chat.
+
+0xDE710925 = Adjust the overall scale of the HUD as it appears on screen.
+
+0xEC4CD808 = Allow Reticle Messages to appear in Red Dead Online
+
+0xB94E7130 = Стандартно
+
+0x0099EC76 = Від першого особи
+
+0x54CF3551 = Широке
+
+0x7D383061 = Enable HDR display on your TV. This will be auto enabled if a compatible TV has been detected.
+
+0x4B1C98B7 = Дозволяє налаштувати, наскільки швидко натиснена кнопка починає вважатися утримуваною.
+
+0xC2A8012E = Move
+
+0xC823277E = Control the sensitivity of your voice chat capture device.
+
+0x6A27E0DD = Утримуйте, щоб бігти
+
+0x345EF074 = Horse Melee
+
+0xD1C027C3 = Дистанція
+
+0x05FB301F = Міні-карта
+
+0x565AE2C3 = У стрічці новин відображається корисна інформація про Red Dead Online. Вона допомагає відстежувати вбивства, очки та іншу інформацію про те, що відбувається в грі поза зоною вашої.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Вимкнення цієї інформації може ускладнити гру.
+
+0xDE70533D = Огляд / пришвидшення прицілювання
+
+0x3F5AEF60 = First Person Auto Level Camera
+
+0xC329BD09 = Allow Cash details to appear top right of the screen
+
+0x8C795484 = Дозволяє налаштувати розмір мертвої зони для прицілювання та огляду під час гри від третьої особи.
+
+0x92A5417A = За положенням коня
+
+0xAD4D157A = Огляд/мертва зона прицілювання
+
+0x1E213815 = Specifies the overall difference in volume between the loudest moments of the game and the quietest moments.~n~~n~Extended Dynamic Range is best when you are able to play the game at a loud volume on a full range speaker system or headphones.
+
+0xBB94DDEF = Tag Target (During Dead Eye, Story only)
+
+0x52B9F2F0 = Клавіатруа та миша
+
+0x30C33714 = Шульга
+
+0xA6803F65 = Інтерфейс
+
+0xFB5588EA = The Weight Unit will appear when inspecting a caught fish
+
+0xFD803CC8 = Select your preferred clock format.
+
+0x05F2BCCC = Джойстик
+
+0x99CB0D85 = Ефекти під час вбивства відображаються під час кожного вбивства. Вимкніть їх, якщо вони не відповідають вашому стилю гри.
+
+0x7C92D37E = Controls the volume of music while other players are talking.
+
+0xE512585E = Альтернативне + шульга - від першої особи
+
+0xACC1C8BC = Стандартний
+
+0x7BF96614 = View Controls
+
+0xA228BAE0 = HDR Calibration
+
+0xE76D78E0 = Crouch / Stealth
+
+0x859C5A56 = Дозволяє змінити чутливість камери під час гри від третьої особи.
+
+0xD72787F4 = RDR2
+
+0x5C70CBDD = Allow Objective Text information to appear bottom center of the screen
+
+0x57D2F505 = Control the display of the location on screen
+
+0x77535376 = Цятка
+
+0xB293BB7F = Stereo
+
+0xD165A2B7 = Whistle
+
+0x060ED0A8 = The HUD will now display on the official Red Dead Redemption 2 Companion App. This can be manually controlled on the app.
+
+0x4358C0AE = No Devices Detected
+
+0x75A0262D = No Function
+
+0x70AF66B7 = «Звичайна» – міні-карта стандартного розміру та масштабу.~n~~n~«Розширений» - міні-карта весь час відображається. ~n~~n~«Компас» – мінімалістичний варіант міні-карти, що відображається лише за наявності завдання.~n~~n~«Вимк.» – міні-карта не відображається.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Її відключення може спричинити складність або неможливість проходження деяких фрагментів гри.
+
+0x1968611C = Керування від першої особи
+
+0xFB836C24 = Перемикання на біг
+
+0x7FCFAAC3 = Allow Ammo details to appear top right of the screen
+
+0x4573048D = Низька
+
+0x22B16F5C = Interactive Music
+
+0x7317095B = Download the Red Dead Redemption 2 Companion App to make full use of this function
+
+0xDB92912B = Turning this setting on will allow the following:~n~- Earn 10% more cash on Gang Robbery missions.~n~- Earn 10% more cash for any animal carcasses sold at the Butchers.~n~- Gain a 20% discount on all camp upgrade items in the Camp Ledger.~n~
+
+0x6A950260 = Weight
+
+0xB51C2C8F = Переключити, щоб прицілитися
+
+0xD946BB93 = Стандартно
+
+0xAE795ADF = Controls the volume of dialogue relative to SFX and music.
+
+0x2EA21C06 = Індикатор рівня пошуку відображається, коли вас розшукують представники закону.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Вимкнення його відображення може ускладнити проходження деяких фрагментів гри.
+
+0x79133599 = First Person Rag Doll
+
+0xC1F51165 = Клавіатрура та миша Керування конем
+
+0x0AFF4982 = Вибрати великий або стандартний розмір для позначок на міні-карті.
+
+0x095D88F7 = Свист
+
+0x6DEB707C = Special Edition
+
+0x2F6C1477 = Controls if voice chat will be captured automatically while speaking (voice activated) or only while the Push to Talk hotkey is pressed.
+
+0xE35C887B = Toggle Weapon Zoom (When Aiming)
+
+0x66C4C8A2 = Allow Independent Camera View Mode Tracking
+
+0x9E507069 = Allow First Person Auto Level Camera
+
+0xFD3C7960 = Вузький
+
+0xCC868CDA = Дозволяє налаштувати розмір мертвої зони для прицілювання та огляду під час гри від першої особи.
+
+0x56B94203 = First Person Head Bobbing
+
+0x4B7F851A = Прицілитись
+
+0x6F443E8D = Вимк.
+
+0x33F828AF = 3x
+
+0x8D9D8BC1 = Дозволяє змінити чутливість камери під час гри від першої особи.
+
+0x1AF8B79F = The Temperature Unit will appear when pressing ~INPUT_REVEAL_HUD~
+
+0xD6CFDAE0 = Сумка (утримувати)
+
+0xE8BA3BCD = IN VEHICLE
+
+0x50302D20 = Calibrate your HDR display
+
+0x3D37A373 = У стрічці транзакцій ви зможете докладніше дізнатися про отримані вами під час проходження сюжету предмети. Крім того, у ній відображаються записи про втрату предметів.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Вимкнення стрічки транзакцій може ускладнити проходження деяких фрагментів гри.
+
+0x68B7B79F = Exit
+
+0x9EA86720 = Our heartfelt thanks to everyone who has helped create Red Dead Redemption 2 and Red Dead Online. For a full list of game credits please visit:~n~~n~~COLOR_SOCIAL_CLUB~https://www.rockstargames.com/reddeadredemption2/credits~s~
+
+0xD4F738DF = Низько
+
+0xE86B5F6D = Controller Speaker Volume
+
+0xAF03E2BF = Enter Cheat
+
+0x39C5B6CE = Налаштування Windows
+
+0x4BA00CCC = Щось не так із зображенням по кутах екрану? Налаштуйте безпечну область по межі ігрового екрану, що підходить вам якнайкраще.
+
+0xE9FE6022 = Allow Auto Objective Navigation
+
+0xA0A6E819 = Збоку
+
+0x8DACC784 = This function supports Protanopia / Deuteranopia / Tritanopia
+
+0xE9CE88A5 = 12 годин
+
+0x9EF9E158 = Дозволяє вибрати режим прицілювання під час переміщення пішки. Звичайний, вузький та широкий режими завжди намагатимуться вибрати та захопити найкращу ціль. Чим ширше захоплення, тим далі курсора може вибратися мета. Якщо вибрано вільний приціл, ціль не буде захоплюватися автоматично. ~n~~n~Деякі онлайн-сеанси використовують лише вільний режим прицілювання. Якщо цей параметр активовано, вам може знадобитися приєднатися до нового сеансу.
+
+0x3C27A730 = Toggle Holster
+
+0x68BFE452 = Mouse Aim / Look Acceleration
+
+0xC7472DBE = The threat indicator is used to hint at the direction of approaching enemies at a glance. Adjust this to better suit your play style.
+
+0xCE9EA24A = Attack
+
+0xB52F49C8 = Керуйте відображенням назви загону.
+
+0x1CBCECB7 = Changes the size of blips on the radar.
+
+0x2F9433C8 = You will still receive Online Invites if this setting is turned off
+
+0x511A0B77 = Select if you want the Red Dead Online Player Overhead to appear on screen
+
+0xA201F15A = Switch Shoulder (When Aiming)
+
+0x173EC61B = Allow the Wanted meter to appear on screen
+
+0x0BCED89B = Melee Block
+
+0xC4AFE8B6 = Натисніть один раз, щоб збільшити швидкість. Двічі натисніть кнопку напряму, щоб бігти. Тричі натисніть кнопку напрямку, щоб прискоритись. ~n~~n~Якщо ви біжіть, знову натисніть на ту ж кнопку напряму, щоб прискоритись. Якщо відпустити та знову натиснути кнопку напрямку, швидкість не зміниться. ~n~~n~Якщо потрібно прискорити віз, двічі натисніть кнопку спрямування. Якщо відпустити та затиснути кнопку, зберігається вибрана знижена швидкість.
+
+0x35514F4B = Дозволяє змінити рівень допомоги для прицілювання під час перебування у сідлі. Чим вище рівень, тим точніше ваші постріли будуть вражати ціль і тим легше утримуватиме ціль на мушці.
+
+0xAC180A02 = Controls the volume of inbound voice chat.
+
+0x30A719B0 = Режим прицілювання
+
+0xAE4E7D6A = Приціл зброї
+
+0x422EE717 = Задано користувачем
+
+0x10FE87EC = Change Cinematic Shot
+
+0xA833FFC8 = Особливі можливості
+
+0x1426B2D0 = Allow Score Timers to appear on screen whilst Online
+
+0x6DD31AD3 = Advanced
+
+0x932210AF = Hitch (Hold)
+
+0x2332EEE5 = Рівень допомгои при прицілюванні (верхом / транспорт)
+
+0x2CC39A7F = Інформація про місцеположення відображатиметься на екрані.
+
+0x7F5DC52C = Рух
+
+0x3950A329 = Keyboard
+
+0x67883AB4 = Set the height of the Vehicle Camera.
+
+0x50251208 = Альтернативне + шульга
+
+0xA70E64A1 = Surround Rear
+
+0x79BAB75C = The clock will appear when pressing ~INPUT_REVEAL_HUD~
+
+0xD7D7AFD3 = Дозволяє змінити рівень допомоги пдля прицілювання під час переміщення пішки. Чим вище рівень, тим точніше ваші постріли будуть вражати ціль і тим легше утримуватиме ціль на мушці.
+
+0x2563343A = міні-карта та мітки
+
+0x0373876C = Safezone Width
+
+0x7AF55C5A = Control the use of the Drive-By Camera being relative to the vehicle while in First Person.
+
+0x5E2B3B42 = Controls the volume of SFX while other players are talking.
+
+0x2D1D8FB3 = Згладжування миші
+
+0x17857B0B = шульга - від першої особи 2
+
+0xA0C663F9 = Налаштувати чутливість камери та прицілювання при грі від першої особи/цілячись в оптичний приціл.
+
+0xE2FAD124 = Control the use of the Head Bobbing Camera in First Person.
+
+0xBCB92C21 = Targeting mode is currently restricted by network session.
+
+0x2DA3646A = Adjust the opacity of the overheads
+
+0xF5CE254F = Temperature
+
+0x87C9B69A = Select the front speaker position that best matches your audio setup.
+
+0x8F1E76A6 = Adjust the Field of View when in Third Person to better suit your play style.
+
+0x9E33C2D2 = Toggle Lights
+
+0x742A9E1E = Pick up / Swap Weapon
+
+0x84CA1F1F = Інші програми
+
+0x84CA86BE = Button Prompt Display
+
+0x6478FAF7 = Відображає ім'я персонажа, що говорить в даний момент.
+
+0xA21D6DAD = Redefine Controls
+
+0xED93DA0F = Звичайний
+
+0xECA518CA = Select your preferred Temperature measurement. The Temperature Unit will appear when pressing ~INPUT_REVEAL_HUD~.
+
+0xCA09C795 = Reload
+
+0x4EB40A1B = Change the subtitles to suit your gameplay
+
+0x28DE3B45 = Rear Speaker Setup
+
+0x02D6A309 = Шульга - від першої особи
+
+0x5B39BA70 = Атакувати
+
+0xB1F25EB2 = Висока
+
+0xC11C6B55 = Дозволяє інвертувати вісь Y для основної камери та при прицілюванні.
+
+0x4A998D96 = Двічі натисніть кнопку напряму, щоб бігти. Тричі натисніть кнопку напрямку, щоб прискоритись. ~n~~n~Щоб вибрати швидкість під час бігу/прискорення, відпустіть кнопку напряму та знову натисніть її.
+
+0x3E7C48FC = Melee Attack Left
+
+0x3704754A = Pause / Online Menu
+
+0x702AFE97 = Adjust this setting to make yourself louder or quieter to other players
+
+0x22BFA248 = Complex
+
+0x54ACD5F9 = Change Screen Kill Effects
+
+0x9E41052D = За положенням камери
+
+0x75AEDC92 = Allow First Person Vehicle Auto-Center
+
+0x3EC61777 = Керування від третьої особи
+
+0x29C8CD07 = Melee Attack
+
+0x9EFA1443 = Shuffle Seat
+
+0x32B54353 = Налаштуйте загальну видимість інформації, що відображається над головами гравців~n~~n~Якщо вибрано «Приховати», вона, по можливості, забиратиметься, а викликати її можна буде за допомогою ~INPUT_REVEAL_HUD~.
+
+0x207C42A3 = Control the use of the Vehicle Camera in First Person.
+
+0x73F29006 = Наведення на ціль
+
+0xD6332957 = This setting determines if you will receive Game Invites, Friend Invites, Crew Invites, and Posse Invites
+
+0x54306763 = Adjust the set up of your HUD Scale
+
+0x1BDEF95D = Sound Volume
+
+0x6DFD7F96 = Allow the speaker's name to appear on screen
+
+0x881EA30A = Control the use of the Pull Around Camera.
+
+0xFB606352 = Front Speaker Setup
+
+0x4F6A34D6 = Completely enable or disable voice chat.
+
+0xE7BD99A3 = Control the use of the Vehicle Auto-Centering camera while in First Person.
+
+0xC78BF3B4 = Red Dead Online Horse Overhead
+
+0x57689AC8 = Adjust the overall transparency of the overheads for your player and horse.
+
+0x27EC3FC1 = Зменшити
+
+0xF62CEC1E = Дозволяє налаштувати прискорення для прицілювання та камери під час гри від третьої особи.
+
+0x3CC468DB = Allow the Honor meter to appear top right of the screen
+
+0xDAFB9239 = Select to allow Blips to appear on the radar
+
+0x7F464683 = Turn on or off the blips on the radar.
+
+0x62FB4608 = Дозволяє регулювати згладжування миші для основної камери та при прицілюванні.
+
+0xBE9584D6 = Прицілитись
+
+0xCF32A239 = Мова
+
+0x5DEAB779 = Режим захоплення цілі (пішки)
+
+0x3F304F5A = Controls the audio latency. Higher latency can improve audio quality on a lower performance setup.
+
+0x93874781 = Великий
+
+0x8DED58F0 = Налаштуйте загальну видимість інформації, що відображається над головою вашого коня.~n~~n~Якщо вибрано «Приховати», вона, по можливості, забиратиметься, а викликати її можна буде за допомогою ~INPUT_REVEAL_HUD~.
+
+0x6C458624 = Допомога при натисканні
+
+0x27C36328 = ПІДТВЕРДИТИ
+
+0xAFC1C13D = Activating a cheat will disable autosaving, manual saving, and Accomplishments in story mode. Reloading a previous save will regrant access to these features.
+
+0xDC59B79B = Широкий
+
+0x866BAAF9 = Ззаду
+
+0xD6A86FE2 = Adjust First Person View
+
+0x9D833942 = GPS--маршрут
+
+0xE8726789 = Загальне
+
+0x71D06914 = Piaffe / Drift (Hold)
+
+0x445E6A55 = Під час гри показуються підказки, які можуть допомогти зрозуміти важливі елементи ігрової механіки.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Вимкнення підказок може ускладнити проходження деяких фрагментів.
+
+0xD9D52CF3 = Minimal
+
+0xDEC2C8BE = Ці повідомлення використовуються для передачі критично важливої ​​інформації Red Dead Online.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Їхнє відключення може ускладнити проходження деяких фрагментів гри.
+
+0xE5DBCBD6 = Розмір міток на карті
+
+0x918A9CB7 = Look Behind
+
+0x961F72A0 = 2x
+
+0xE1638FA6 = Auto
+
+0xEF1FA3A8 = Клавіатрура та миша Управління конем при прицілюванні
+
+0x643F6F7F = Allow the display of the cinematic letterbox to appear on screen
+
+0xAB92A525 = In Vehicle
+
+0xA1D434CB = Allow Status Icons to appear on screen
+
+0x9DAF8075 = Control the use of the Combat Roll Camera in First Person.
+
+0x39A922D8 = Allow First Person Combat Roll
+
+0xE80B8626 = Select Radar Mode (Hold)
+
+0x23CD3DE0 = On Foot Zoom
+
+0x55026957 = 4x
+
+0x31EE2098 = Allow First Person Cover
+
+0x7B48F166 = Cinematic Camera (Hold)
+
+0xF2563B0A = Controller Speaker
+
+0x56BCEF04 = Weapon Wheel (Hold)
+
+0x8B7DD5A0 = Альтернативне
+
+0xC26533E0 = Дозволяє налаштувати прискорення для прицілювання та камери під час гри від третьої особи.
+
+0x27230299 = Changes the size of blips on the map menu.
+
+0x7A8EED37 = In Story Mode, choose whether the game will save your progress automatically after key moments. You can still save the game manually at any point by accessing the Story section of the Pause menu.
+
+0xBD78F9ED = Динамічно
+
+0xDD2B4015 = Dynamic Range
+
+0x9B99D8F3 = Виберіть вигляд прицілу під ваш стиль гри.
+
+0x5F08055D = Використовуйте кнопку «Зміна ракурсу» для швидкого доступу до фоторежиму. Якщо вибрано цю функцію, «Зміна ракурсу буде недоступною. Фоторежим доступний лише у сюжетному режимі.
+
+0x996113A0 = Інвертувати камеру
+
+0xA4341C94 = Рух
+
+0xE0ECDAF5 = Red Dead Online
+
+0xA41E461B = The Distance Unit will appear at the bottom of the radar when pressing ~INPUT_REVEAL_HUD~.
+
+0x3CED5F0B = Затримка між натисканням та утримуванням
+
+0xC51DCAC1 = Приблизити/віддалити
+
+0xB48B5461 = Дозволяє змінити чутливість прицілювання при грі від третьої особи.
+
+0x47C90B6E = вібрація тригерів
+
+0x1E1C79A3 = Режим захоплення цілі (верхом / транспорт)
+
+0xD99268AA = Мережева гра
+
+0x110A93FE = Calibrate your HDR display to suit the game.
+
+0x544C18F8 = Eagle Eye (Left Stick + Right Stick)
+
+0xBB7BA0BB = Простий
+
+0xFC842640 = Log / Online Player Menu (Tap)
+
+0x41484403 = Adjusting the sharpness filter can improve the quality of how the game looks and reduce any issues with blurring.
+
+0x9C308CEC = Control the use of the Auto-Centering Camera when you are aiming whilst mounted in First Person.
+
+0x8FDDE1EB = Дозволяє інвертувати вісь Y для основної камери та при прицілюванні.
+
+0x89A376DA = Контроль швидкості натисканням та утримуванням (пішки)
+
+0x85619637 = Melee Attack Right
+
+0xE931B69B = Без обробки (Raw)
+
+0xD2841E50 = Дозволяє вибрати режим прицілювання під час перебування у сідлі. Звичайний, вузький та широкий режими завжди намагатимуться вибрати та захопити найкращу ціль. Чим ширше захоплення, тим далі курсора може вибрати ціль. Якщо вибрано вільний приціл, ціль не буде захоплюватися автоматично.~n~~n~Деякі онлайн-сеанси використовують лише вільний режим прицілювання. Якщо цей параметр активовано, вам може знадобитися приєднатися до нового сеансу.
+
+0x0688DCD1 = Формат часу
+
+0x64920C79 = Aim in the air (When Aiming)
+
+0x2ACF549B = Стандартне - від першої особи
+
+0xD719A7AD = Allow the Crew overhead tag to be visible
+
+0x0F3161F0 = Різкість
+
+0xD179C7A8 = Розмір прицілу
+
+0x4226C7E0 = Surround
+
+0xEDC54401 = Hogtie
+
+0xE909C78C = Від третьої особи
+
+0x32803AED = 24 Hour
+
+0xB18A839C = Crew
+
+0x584F5FD3 = Налаштування яскравості
+
+0x493186FC = Change HUD Behavior
+
+0xC87EAFE7 = Your chosen graphics settings are currently using more memory than your system has available. Please reduce your memory usage in order to apply changes.
+
+0x5B1C5722 = Mutes incoming voice chat when a microphone is not available.
+
+0x89701421 = Light Bar Effect
+
+0x5AA9DE97 = Change Damage Indicator Effects
+
+0x0776A90A = Control the use of the Kill Cams when you make a special kill in Story Mode.
+
+0x2E81FAA5 = За промовчанням елементи інтерфейсу з'являться на екрані лише тоді, коли це необхідно. Вимкнені елементи інтерфейсу можна повернути за допомогою ~INPUT_REVEAL_HUD~.
+
+0x6AC66047 = By activating a cheat code you relinquish the ability to save single player game progress and collect single player Awards. Are you sure you want to activate this cheat code?
+
+0x3EAD1DD8 = On Horse
+
+0x932819BF = Cycle Camera
+
+0x386C5C3B = Звичайний
+
+0xDB4B5797 = Прицілитись
+
+0x07DA8018 = Look
+
+0x77186705 = Stereo
+
+0x0CBD332B = Cover
+
+0x58550FA5 = Show Info (Tap)
+
+0xF6A7C1C7 = Sprint
+
+0x8AB41515 = Налаштування виду прицілу
+
+0xAFF8C3FB = Extended
+
+0x213ACCF8 = Allow First Person Rag Doll
+
+0x7D96CFF1 = Increase Speed
+
+0x064F3549 = Статично
+
+0x5C989DF7 = Середньо
+
+0xE756D703 = Витягування риби утримуванням
+
+0x59305683 = Adjust Third Person View
+
+0xA60F435B = Дозволяє налаштувати прискорення для прицілювання та камери під час гри від першої особи або під час використання оптичних прицілів.
+
+0xB12A1219 = Сюжетний режим
+
+0x2CBCA824 = Calm / Pat Horse
+
+0x403A7B7E = Дозволяє змінити чутливість миші та прицілювання при грі від третьої особи.
+
+0xF0D631A9 = Allow the Posse name overhead tag to be visible
+
+0x585D94C9 = Allow the Central Messages to appear on screen
+
+0x94B26056 = Налаштуйте клавіатуру та мишу.
+
+0xBDDF7180 = Під час гри опис завдання відображається у певні моменти. Також його можна відобразити за допомогою  ~INPUT_REVEAL_HUD~.~n~~n~~COLOR_MENU_TEXT_ATTENTION~ Вимкнення його відображення може ускладнити проходження деяких фрагментів гри.
+
+0x83983A27 = Протанопія (червоний-зелений)
+
+0x840E5EE2 = Controls how quickly the camera will pull around behind the player while moving.
+
+0xBC776A58 = Стрибок
+
+0x405F41E0 = Альтернативне - від першої особи 2
+
+0x4B1B6872 = Якщо на карті є ціль, для вас завжди прокладатимиться маршрут до неї.
+
+0x3A8ECF51 = Тританопія (жовтий-синій)
+
+0xB359F4DA = Allow Display Cinematic Letterbox to appear on screen
+
+0xAE1425C8 = Controls the overall volume of the musical score.
+
+0x2A7A12AD = Control the visibility of the overhead Crew tag.
+
+0x812A5CCF = Select the Speakers or Headphones used for voice chat audio playback.
+
+0xD16A12DC = Призначення клавіш
+
+0xA42C7128 = Opacity
+
+0x5C490BA8 = Toggle the mouse acceleration in Third Person view.
+
+0xDDC8485E = Середнє
+
+0xFC36D6ED = Стрибок
+
+0xFFB53BA3 = Під час гри гроші відображаються у певні моменти. Також їх можна відобразити за допомогою ~INPUT_REVEAL_HUD~.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Вимкнення їх відображення може ускладнити проходження деяких фрагментів гри.
+
+0x42284D54 = Control the use of the Rag Doll Camera in First Person.
+
+0x319CA95A = Control the use of the Horse Camera in First Person.
+
+0x956D5745 = Джойстик
+
+0xD3AECA54 = Attack
+
+0x8349CA82 = When turned on, the game will always try to connect to the official Red Dead Redemption 2 Companion App.
+
+0xF39A9245 = Дозволяє налаштувати прискорення для прицілювання та камери під час гри від першої особи або під час використання оптичних прицілів.
+
+0xF634386C = Adjust how you would like button prompts and icons to be displayed based on input device.
+
+0x84862C4F = Adjust the mouse sensitivity setting for aiming and looking in First Person view.
+
+0x7F27FD39 = Вільний приціл
+
+0x7905B80A = Select the input device for capturing outbound voice chat audio.
+
+0xE3A55663 = Ви хочете зберегти ці налаштування?~n~Повернення до попередніх налаштувань через~COLOR_ALERT_TEXT_ATTENTION~ ~1~ ~s~секунд...
+
+0x379EC1F5 = Look Behind
+
+0xC35CA319 = рівень допомоги при прицілюванні (пішки)
+
+0xC5944D5E = Allow First Person Head Bobbing
+
+0x96E80EC6 = Інветування миші
+
+0x93DB6006 = Розмір міток на міні-карті
+
+0xE6B22101 = Дейтеранопія (червоний-зелений)
+
+0x89145D61 = Дозволяє спростити динамічні сцени, де необхідно швидко натискати кнопки або замінити натискання на утримання кнопки. Це використовується у грі для дій, які треба швидко виконувати.
+
+0x71641519 = This function will default to Normal when output is set to TV
+
+0x9A8E5D8D = Керування конем
+
+0x20838CA0 = Map (Hold)
+
+0xC62992DC = Select the Output type that best describes your audio setup.
+
+0x465BD85E = Switch Control Type
+
+0x70267F00 = TV
+
+0x4EAC9BEE = Cheats
+
+0xA2DC4BC9 = Type that appears at the bottom left of the screen
+
+0x79049070 = Focus Camera (Hold)
+
+0x9C1CC48D = Високо
+
+0x35F1A202 = Allow HDR to be switched On or Off
+
+0xE0A27CF7 = Controls the overall volume of in-game sounds, dialogue and music.
+
+0xAA6E623C = Stamina, Health and Dead Eye Cores will drain 20% slower with this setting turned on.
+
+0xD2CB9DC4 = Voice Chat
+
+0x8EDB5AD5 = Increase / Maintain Speed
+
+0x243D794F = Allow Automatic Camera Side Switch
+
+0xD77229C5 = Set how the Vehicle Camera Height appears
+
+0xAF43A31E = Вимк.
+
+0xA9EC0C4D = Adjust the size of the Reticle dot
+
+0x429B67D9 = Альтернативне - від першої особи
+
+0xC37AC74A = Відкалібруйте екран, щоб налаштувати яскравість зображення.

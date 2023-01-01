@@ -1,0 +1,532 @@
+FLAR_W_OBJ_01 = ~z~~sl:1.9:5.6:1~You got it, alright. You're okay, you know that?
+
+FLAR_W_OBJ_02 = ~z~Look what you got for Flaco. Okay, I like you.
+
+FLAR_W_OBJ_03 = ~z~~sl:0.8:7.1:1~Yes, I see that. You brought it to me. I'm a happy man, okay...
+
+FLA_ACCEPT_01 = ~z~You going, or what?
+
+FLA_ACCEPT_02 = ~z~What're you waiting for?
+
+FLA_ACCEPT_03 = ~z~It ain't that cold out there. Go.
+
+FLA_ACCEPT_04 = ~z~What're you still doing here?
+
+FLA_ACCEPT_05 = ~z~Well... you going?
+
+FLA_ACT_AGG_01 = ~z~What are you doing, eh?
+
+FLA_ACT_AGG_02 = ~z~Don't be a fool.
+
+FLA_ACT_AGG_03 = ~t~In Spanish: You stupid?
+
+FLA_ACT_AGG_04 = ~z~Calmate, alright.
+
+FLA_AGGRESS_01 = ~z~If you're gonna be like that, there ain't no work for you.
+
+FLA_AGGRESS_02 = ~z~~sl:0.0:2.6~I like folks with some fight in them...~sl:0.6:3.2~but that don't mean I want them working for me.~sl:0.6~Get outta here.
+
+FLA_AGGRESS_03 = ~z~~sl:0.0:4.7~You take a pass at Flaco and you think you can work for him?~sl:~Come on.
+
+FLA_AGGRESS_04 = ~z~~sl:0.0:4.3~You're lucky you didn't get Flaco's knife, let alone his work.~sl:0.8~Now get out of here.
+
+FLA_AIM_01 = ~z~Watch where you're aiming that.
+
+FLA_AIM_02 = ~z~Don't point that.
+
+FLA_AIM_03 = ~z~Look out.
+
+FLA_AIM_04 = ~z~Get that away from me.
+
+FLA_AIM_05 = ~z~I'm warning you.
+
+FLA_APPROACH_01 = ~z~I bet you're not up here paying a social call, huh?
+
+FLA_APPROACH_02 = ~z~You here to work for Flaco, huh?
+
+FLA_APPROACH_03 = ~z~Since you're up here, how about doing me a favor?
+
+FLA_APPROACH_04 = ~z~If it ain't my old friend...
+
+FLA_APPROACH_05 = ~z~Here to keep out of the cold?
+
+FLA_APPROACH_06 = ~z~Get in here, away from the wolves, eh?
+
+FLA_APPROACH_07 = ~z~~sl:0.0:0.9~Hey.~sl:0.6~Come over here.
+
+FLA_APPROACH_08 = ~z~Stay together... keep warm, my friend.
+
+FLA_APPROACH_09 = ~z~You looking to earn some money?
+
+FLA_APPROACH_10 = ~z~You want some of Flaco's silver?
+
+FLA_APPROACH_11 = ~z~You want to get rich, eh?
+
+FLA_APPROACH_12 = ~z~How about you do some work for me?
+
+FLA_BOUNTY_01 = ~z~~sl:0.0:2.3~You got a bounty on you, right?~sl:~Maybe lose that and then come back.
+
+FLA_BOUNTY_02 = ~z~~sl:0.0:4.4~Look, I can't risk dealing with you while you got this bounty.~sl:~Pay it off and then we'll speak.
+
+FLA_BOUNTY_03 = ~z~~sl:0.0:4.3~You got that bounty, right? Dealing with you is too much of a risk.~sl:0.5~Pay it off and come back, okay?
+
+FLA_COOLDOWN_01 = ~z~I can't talk to you right now.
+
+FLA_COOLDOWN_02 = ~z~Cool it, alright? Tranquilo. Then come back, okay?
+
+FLA_COOLDOWN_03 = ~z~I'm cooling off, alright? Come back later.
+
+FLA_ESCALATE_01 = ~z~Stop that right now.
+
+FLA_ESCALATE_02 = ~z~You're being real stupid.
+
+FLA_ESCALATE_03 = ~z~Really? Really? Come on.
+
+FLA_ESCALATE_04 = ~z~You're being a damn fool.
+
+FLA_FAILED_LM_01 = ~z~~sl:0.0:4.9:1~I know you messed that thing up, but I'm not going to kill you.
+
+FLA_FAILED_LM_02 = ~z~Hey, you bungled that last job, but I'll give you another chance, okay?
+
+FLA_FAILED_LM_03 = ~z~Look who's here. Flaco forgives, but he don't forget, you know?
+
+FLA_FAILED_LM_04 = ~z~~sl:0.0:2.6~I didn't think you'd show your face up here again.~sl:0.6:3.3~Don't worry about it. It's all forgotten.~sl:0.6~Flaco forgives.
+
+FLA_FAILED_LM_05 = ~z~~sl:0.0:4.4~I heard what happened with that last job, you know? Not so good.~sl:3.0~It's okay, though. Come in.
+
+FLA_FAIL_01 = ~z~Ay. Puta. You messed that one up.
+
+FLA_FAIL_02 = ~z~~sl:1.1~The hell is wrong with you, eh?
+
+FLA_FAIL_03 = ~z~Flaco saw that. You messed that one up.
+
+FLA_H_HIGH_01 = ~z~~sl:0.0:2.3~What, you gonna turn me in?~sl:0.5~I can't give no job to someone like you.
+
+FLA_H_HIGH_02 = ~z~~sl:0.0:4.7~Why don't you go work for... a sheriff... or a priest.~sl:~Flaco got no work for the likes of you.
+
+FLA_H_HIGH_03 = ~z~~sl:0.5~You wanna work for me? I got no work for an angel like you.
+
+FLA_H_LOW_01 = ~z~~sl:0.0:4.4~Flaco's a piece of shit, okay? But he's better than you.~sl:0.5~Come back when you cleaned up your act a little.
+
+FLA_H_LOW_02 = ~z~I can't be seen talking to you, okay? Demonio, ay.
+
+FLA_H_LOW_03 = ~z~~sl:0.0:5.4~I know some bad hombres, but none as bad as you... okay?~sl:0.4~Come back, when... you better.
+
+FLA_IDLETIME_01 = ~z~You're out of time, eh? Come on.
+
+FLA_IDLETIME_02 = ~z~Time is running out.
+
+FLA_IDLETIME_03 = ~z~You wanna do this, you got to go.
+
+FLA_IDLETIME_04 = ~z~Okay. Okay. Enough. Go.
+
+FLA_IDLETIME_05 = ~z~You don't leave right now, you're not going to make it. Go.
+
+FLA_IDLE_01 = ~z~Hurry up and go.
+
+FLA_IDLE_02 = ~z~Come on, eh? Go.
+
+FLA_IDLE_03 = ~z~~sl:0.0:2.5:1~You ain't getting yellow now, are you?
+
+FLA_IDLE_04 = ~z~I got to kick you outta here? Come on.
+
+FLA_IDLE_05 = ~z~Alright, now it's time to go.
+
+FLA_ILO_01 = ~z~You want more work?
+
+FLA_ILO_02 = ~z~You gonna make yourself useful again?
+
+FLA_ILO_03 = ~z~So... how about I put you to work again?
+
+FLA_ILO_04 = ~z~Are you as desperate as you look, huh? More work?
+
+FLA_ILO_05 = ~z~How about that work, huh? I got more of it.
+
+FLA_LEAVE_01 = ~z~You need to get out of here.
+
+FLA_LEAVE_02 = ~z~Get the hell out.
+
+FLA_LEAVE_03 = ~z~Now you leave. Go on. Go!
+
+FLA_LEAVE_04 = ~z~You get the hell outta here! Now.
+
+FLA_LOCKED_01 = ~z~Come back later, okay?
+
+FLA_LOCKED_02 = ~z~~sl:0.0:2.3~Ain't got nothing going at the moment, you know?~sl:0.5~Come back another time.
+
+FLA_LOCKED_03 = ~z~~sl:0.0:3.1~You looking for work, you're in the wrong place.~sl:0.4~Ain't got nothing at the moment.
+
+FLA_LOCKED_04 = ~z~Before you ask for work, I got nothing. Not at the moment, I don't.
+
+FLA_LOCKED_05 = ~z~Ain't no work here, if that's what you're looking for.
+
+FLA_M_COOLDOWN_01 = ~z~You need to give me more time. I'll have more work soon.
+
+FLA_M_COOLDOWN_02 = ~z~~sl:0.0:1.5~Back already, eh?~sl:1.3~Wait a little longer, there'll be more work.
+
+FLA_M_COOLDOWN_03 = ~z~~sl:0.0:2.8~Already? There ain't any more work yet.~sl:0.4~Give me a while and there will be, okay?
+
+FLA_M_LOCKED_01 = ~z~~sl:0.0:3.5~I got something, but it ain't for you right now.~sl:0.7:3.9~Maybe when you're bigger and stronger,~sl:~you come back to me.
+
+FLA_M_LOCKED_02 = ~z~~sl:0.0:2.9~You know, you ain't quite ready for this yet.~sl:0.5:2.0~Come back when you are,~sl:~then I'll give you some real work.
+
+FLA_M_LOCKED_03 = ~z~~sl:0.0:3.6~I can't give you this job... not yet.~sl:0.6~Come back when you're ready and we'll talk.
+
+FLA_NOT_GL_01 = ~z~I only talk to the head honcho, okay?
+
+FLA_NOT_GL_02 = ~z~Tell your leader, I'll deal with them, okay?
+
+FLA_NOT_GL_03 = ~z~~sl:0.0:4.9:1~Maybe come back when you're running your own outfit, okay?
+
+FLA_NOT_GL_04 = ~z~Why're you speaking to me, eh? I'll talk to your leader.
+
+FLA_NOT_GL_05 = ~z~Are you the leader? I didn't think so. Go and get them.
+
+FLA_NO_AVAIL_01 = ~z~Hey, I don't got anything for you to do right now.
+
+FLA_NO_AVAIL_02 = ~z~~sl:0.0:1.6~In Spanish: Ay, crap.~sl:~I ain't got nothing for you at the moment.
+
+FLA_NO_AVAIL_03 = ~z~~sl:0.0:3.3~You know what? I ain't go no work for you.~sl:0.3~Not at the moment, at least.
+
+FLA_PASSED_LM_01 = ~z~~sl:0.0:3.5~Hey, hey... I know you took care of that thing.~sl:0.5~You're okay, you know?
+
+FLA_PASSED_LM_02 = ~z~Hey... good work on that thing, okay? I know you took care of it.
+
+FLA_PASSED_LM_03 = ~z~You look after Flaco, Flaco looks after you, okay? I like you.
+
+FLA_PASSED_LM_04 = ~z~Hey, I seen you since you did that thing? I owe you, you know?
+
+FLA_PASSED_LM_05 = ~z~Look who it is. My most trusted employee.
+
+FLA_PASS_01 = ~z~~sl:2.0~You did it.
+
+FLA_PASS_02 = ~z~Look at this animal. Well done.
+
+FLA_PASS_03 = ~z~Ay. I knew you could do it.
+
+FLA_POSSE_SMALL_01 = ~z~~sl:0.0:2.3~You're going to need a few more people~sl:~in your posse for this one, okay?
+
+FLA_POSSE_SMALL_02 = ~z~~sl:0.6:2.3~This is a big job, okay?~sl:0.6~Come back when you got some more riders in your group.
+
+FLA_POSSE_SMALL_03 = ~z~~sl:0.0:3.4~Eh, you ain't going to be able to pull this off.~sl:0.6~Get some more people on board, then we talk.
+
+FLA_PUSH_01 = ~z~What are you doing?
+
+FLA_PUSH_02 = ~z~Get away.
+
+FLA_PUSH_03 = ~z~You better back off.
+
+FLA_PUSH_04 = ~z~Don't push me.
+
+FLA_R_WO_OBJ_01 = ~z~~sl:0.0:2.1~What are you doing back here?~sl:0.7~Go take care of that thing.
+
+FLA_R_WO_OBJ_02 = ~z~~sl:0.0:2.2~It ain't done yet, is it?~sl:0.8~Get back out there.
+
+FLA_R_WO_OBJ_03 = ~z~~sl:0.0:3.2~Hey, hey. What you doing here?~sl:1.0:~Come back when it's done, okay? Carajo.
+
+FLA_SHOOT_01 = ~z~Don't shoot.
+
+FLA_SHOOT_02 = ~z~What the hell?
+
+FLA_SHOOT_03 = ~z~Stop that.
+
+FLA_SHOOT_04 = ~z~Damn you.
+
+FLA_SHOOT_05 = ~z~Hey. No.
+
+FLA_SHOOT_06 = ~z~Carajo.
+
+FLA_STREAK_01 = ~z~You're making yourself pretty useful, you know?
+
+FLA_STREAK_02 = ~z~~sl:0.0:4.4:1~Hey, hot stuff. Ain't no stopping you now, is there?
+
+FLA_STREAK_03 = ~z~~sl:0.0:4.1~You say you're going to do something, you get it done, eh?~sl:1.5~Good.
+
+FLA_WANTED_01 = ~z~Don't bring the law up here. Go.
+
+FLA_WANTED_02 = ~z~Hey. Come back when the law ain't on you.
+
+FLA_WANTED_03 = ~z~~sl:0.0:2.6~Dammit... the law's on you.~sl:~Come back when you lost them and we'll talk.
+
+FLA_WANTED_04 = ~z~~sl:0.0:1.1~What the hell?~sl:0.5:3.4~Maybe we'll talk when you got the law off your back.~sl:0.8~Now go.
+
+GFH_FLACO_INT_1 = ~z~What you want?
+
+GFH_FLACO_INT_2 = ~z~You just standing there looking pretty...
+
+GFH_FLACO_INT_3 = ~z~You gonna introduce yourself, eh?
+
+GFH_FLACO_INT_4 = ~z~You're one of those cabrones got bust out of prison...
+
+GFH_FLACO_INT_5 = ~z~come to Flaco looking for work.
+
+GFH_FLACO_INT_6 = ~z~Okay... but can I trust you?
+
+GFH_FLACO_INT_7 = ~z~How do I know you're not a...
+
+GFH_FLACO_INT_8 = ~z~How do you say...
+
+GFH_FLACO_INT_9 = ~z~Una rata?
+
+GFH_FLACO_INT_10 = ~z~Stay on your toes, eh.
+
+GFH_FLACO_INT_11 = ~z~I made you jump.
+
+GFH_FLACO_INT_12 = ~z~You got people vouching for you, I give you a chance.
+
+GFH_FLACO_INT_13 = ~z~You find these people been causing me trouble round Lake Isabella...
+
+GFH_FLACO_INT_14 = ~z~maybe we get on okay.
+
+GFH_FLACO_INT_15 = ~z~There ain't room for another gang up here.
+
+GFH_FLACO_INT_16 = ~z~Understand?
+
+GFH_FLACO_INT_17 = ~z~Now go.
+
+GFH_FLACO_INT_18 = ~z~Go on...
+
+GFH_FLACO_INT_19 = ~z~get out of here before I try and shoot you again.
+
+GFH_FLACO_INT_20 = ~z~Cabrones.
+
+MGFLA_ASN_PSE_A_1 = ~z~~sl:0.0:2.0~Bueno, bueno.~sl:0.0:3.8~You... are going to kill some fools.
+
+MGFLA_ASN_PSE_A_2 = ~z~~sl:0.0:2.3~They think I'm just greaser.~sl:0.6~And they're some, some... gente de razon.
+
+MGFLA_ASN_PSE_A_3 = ~z~~sl:1.3~But whatever I am...~sl:0.5~it ain't going to be me in el campo santo tonight, eh?
+
+MGFLA_ASN_PSE_A_4 = ~z~~sl:0.0:3.9~These fools, you might even know them,~sl:0.0:2.6:1~but I hope you don't like them, eh?
+
+MGFLA_ASN_PSE_A_5 = ~z~~sl:0.0:2.2~You better like my money more.~sl:1.1:3.8:1~Find the putas, and put them in the ground for me.
+
+MGFLA_ASN_PSE_B_1 = ~z~~sl:0.0:2.8~Respect is not too much to ask.~sl:1.5~You understand me, eh?
+
+MGFLA_ATR_AMB_A_1 = ~z~Me gusta, me gusta. You're going on a hunt for me, okay?
+
+MGFLA_ATR_AMB_A_2 = ~z~~sl:0.0:5.7~To be a hunter is no easy thing. You gotta track the beasts.~sl:~And then you know... you need cojones.
+
+MGFLA_ATR_AMB_A_3 = ~z~Cojones enough to pull that trigger.
+
+MGFLA_ATR_AMB_A_4 = ~z~~sl:0.0:4.2~Now, you got the guts to hunt and kill some mountain men?~sl:4.1~I very much hope that you do.
+
+MGFLA_ATR_AMB_A_5 = ~z~~sl:0.0:3.0~Pick up their trail around Spider Gorge.~sl:0.3:3.0:1~And shoot them where they stand.
+
+MGFLA_ATR_AMB_B_1 = ~z~~sl:0.0:4.5:1~Now is the time. If you got cojones for it.
+
+MGFLA_ATR_ISA_A_1 = ~z~That's the right answer. Now... here it is.
+
+MGFLA_ATR_ISA_A_2 = ~z~The sides of these mountains... they're closing in, quick.
+
+MGFLA_ATR_ISA_A_3 = ~z~Ain't gonna be much room... for more than one wolf in this valley.
+
+MGFLA_ATR_ISA_A_4 = ~z~~sl:0.0:2.1~And there ain't no wolf out there~sl:~with bigger teeth than me, my friend.
+
+MGFLA_ATR_ISA_A_5 = ~z~~sl:0.0:3.1~Well, maybe bigger teeth...~sl:0.8:3.3:1~but no one's got a bigger knife than old Flaco.
+
+MGFLA_ATR_ISA_A_6 = ~z~~sl:0.2:3.0~They're just trappers... mountain men...~sl:0.5:3.6:1~track them from Lake Isabella and kill them for me...
+
+MGFLA_ATR_ISA_A_7 = ~z~~sl:0.0:2.7~You tell them the wolf sent you.~sl:4.3:1.2:1~Okay.
+
+MGFLA_ATR_ISA_B_1 = ~z~~sl:0.0:2.7~You tell them the wolf sent you.~sl:4.3:1.2:1~Okay.
+
+MGFLA_BYE_01 = ~z~Time for you to go.
+
+MGFLA_BYE_02 = ~z~Come on now. Go.
+
+MGFLA_BYE_03 = ~z~Okay. You better leave.
+
+MGFLA_BYE_04 = ~z~Now we say goodbye.
+
+MGFLA_BYE_05 = ~z~Off you go now. Come on.
+
+MGFLA_CH_AMB_1 = ~z~~sl:0.0:4.2~I bet you look at me and all you see, oy...~sl:0.7~is a big greaser with a big knife.
+
+MGFLA_CH_AMB_2 = ~z~~sl:0.0:4.4~Well, I am a greaser, and I do got a big belduque...~sl:0.5~but don't underestimate me.
+
+MGFLA_CH_AMB_3 = ~z~Not if you want to get off this montana. Yeah?
+
+MGFLA_CH_AMB_4 = ~z~~sl:0.0:2.7~So how about you head over Lake Isabella.~sl:0.3:2.3~Stop the stage going through there...~sl:0.2~and get me what they're holding.
+
+MGFLA_CH_AMB_5 = ~z~~sl:0.0:1.9:1~It won't be there for long.
+
+MGFLA_DS_COLT_1 = ~z~~sl:0.0:3.8~It's so goddamn cold in here, I can't stand it.~sl:0.5~Carajo. I ought'a start drinking.
+
+MGFLA_DS_COLT_2 = ~z~Before I get drunk, okay? Here's the job for you.
+
+MGFLA_DS_COLT_3 = ~z~~sl:0.0:3.9~Some fools ain't been paying Flaco his piece...~sl:~and that ain't a smart thing to do. No, no.
+
+MGFLA_DS_COLT_4 = ~z~~sl:0.0:1.3~They're over at Colter.~sl:0.6:2.3~Wipe out everything they got.~sl:0.4~Maybe they don't disrespect again.
+
+MGFLA_DS_COLT_5 = ~z~~sl:0.0:0.8~Quick...~sl:0.5:1.7:1~and stay warm.
+
+MGFLA_DS_GRIZ_1 = ~z~~sl:0.0:2.5~What the hell am I doing up here?~sl:0.7:1.0~Hell....~sl:0.3~what the hell are you doing up here?
+
+MGFLA_DS_GRIZ_2 = ~z~Trying to survive, you think... that is what we're doing.
+
+MGFLA_DS_GRIZ_3 = ~z~And how you survive is by not showing weakness to the animals.
+
+MGFLA_DS_GRIZ_4 = ~z~~sl:0.0:4.3~Yeah. They have things that were stolen from me.~sl:0.0:2.8~I want you to destroy them,~sl:~show the animals I don't care.
+
+MGFLA_DS_GRIZ_5 = ~z~They're over at Chez Porter.
+
+MGFLA_G1_OUT_1 = ~z~~sl:0.0:5.3~Very good, very good.... I got just the thing.~sl:0.7~Just you take a look at that.
+
+MGFLA_G1_OUT_2 = ~z~~sl:0.0:5.3~That right there... is as good as paper money. No questions.~sl:0.0:0.3~You do that, you'll be paid... real good.
+
+MGFLA_G1_OUT_3 = ~z~I think you understand me... or... you damn well better.
+
+MGFLA_G1_OUT_4 = ~z~You gonna take it or what?
+
+MGFLA_G1_TAKE_1 = ~z~Now you read that, you get it done.
+
+MGFLA_G2_OUT_1 = ~z~~sl:0.0:4.6~Well, then. This is real damn simple.~sl:0.7~You read what's there, then... you do it.
+
+MGFLA_G2_OUT_2 = ~z~~sl:0.0:2.1~I ain't asking if you like it.~sl:0.6~I'm telling you to go on out there... and get it done.
+
+MGFLA_G2_OUT_3 = ~z~~sl:0.0:2.0~See? Simple.~sl:0.9:5.7:1~There's too much talking now, not enough... goddamn action.
+
+MGFLA_G2_OUT_4 = ~z~Ay... that's the damn reason I'm stuck up here.
+
+MGFLA_G2_TAKE_1 = ~z~Okay. That's the first step. Now you gotta go and get it done.
+
+MGFLA_G3_OUT_1 = ~z~~sl:0.0:4.8~I got just the thing. Just the thing, for you.~sl:2.4~You're gonna like it. Right there.
+
+MGFLA_G3_OUT_2 = ~z~~sl:0.0:4.4~It's the kind of job you can sink your teeth into...~sl:0.7~if you know what I mean.
+
+MGFLA_G3_OUT_3 = ~z~Just read what's on there... and get it done.
+
+MGFLA_G3_TAKE_1 = ~z~~sl:0.0:3.1:1~Go on... and enjoy yourself.
+
+MGFLA_IG1_FAIL1_1 = ~z~~sl:0.0:0.7~Hey.~sl:0.4~I should kill you for messing that job up.
+
+MGFLA_IG1_FAIL1_2 = ~z~~sl:1.7~But hey, you know, you can't kill everyone...
+
+MGFLA_IG1_PASS1_1 = ~z~Hey... after what you did...
+
+MGFLA_IG1_PASS1_2 = ~z~~sl:0.0:2.2:1~You're all right with me, you know?
+
+MGFLA_IG2_JB1_1 = ~z~~sl:0.0:4.4:1~Okay, okay. I got someone else for you to kill.
+
+MGFLA_IG2_JB1_2 = ~z~~sl:0.0:2.7~Time was... I did my own killings.~sl:0.5~I got famous for it, too.
+
+MGFLA_IG2_JB1_3 = ~z~But, I was younger then... and it's a young man's game.
+
+MGFLA_IG2_JB1_4 = ~z~Ordering killings. That's what us old folks do.
+
+MGFLA_IG2_JB1_5 = ~z~~sl:0.0:3.5~This someone, they're a bit like you.~sl:0.4:2.6:1~Only I don't like them as much.
+
+MGFLA_IG2_JB1_6 = ~z~I know a snake when I see one.
+
+MGFLA_IG2_JB1_7 = ~z~~sl:0.0:1.5~Take them out for me.~sl:0.5:2.1:1~I'll make it worth your while.
+
+MGFLA_IG2_JB2_1 = ~z~~sl:1.5:2.7:1~You think it's colder in here, or out there?
+
+MGFLA_IG2_JB2_2 = ~z~~sl:0.0:1.6:1~Freezing our asses off.
+
+MGFLA_IG2_JB2_3 = ~z~You know what would make me happy, though?
+
+MGFLA_IG2_JB2_4 = ~z~If you robbed this coach for me.
+
+MGFLA_IG2_JB2_5 = ~z~~sl:0.0:1.7~Sure would save me the trouble of~sl:~having to go out there and rob it myself.
+
+MGFLA_IG2_JB2_6 = ~z~Alright, you'll go down to the Millesani Claim.
+
+MGFLA_IG2_JB2_7 = ~z~~sl:0.0:2.0~You'll take what they're holding,~sl:~and I'll make sure you're paid well for it.
+
+MGFLA_IG2_JB2_8 = ~z~Go, quick now.
+
+MGFLA_IG2_JB3_1 = ~z~
+
+MGFLA_IG2_JB3_2 = ~z~Alright... don't laugh, okay?
+
+MGFLA_IG2_JB3_3 = ~z~These bears are too much for me.
+
+MGFLA_IG2_JB3_4 = ~z~You know? The bears... the Grizzlies?
+
+MGFLA_IG2_JB3_5 = ~z~I said don't laugh.
+
+MGFLA_IG2_JB3_6 = ~z~~sl:0.9:2.3~I come up here to escape the Pinkertons~sl:~and I run into something meaner.
+
+MGFLA_IG2_JB3_7 = ~z~~sl:0.9:2.0~Every time I want to take a shit...~sl:0.7~there's one staring at me.
+
+MGFLA_IG2_JB3_8 = ~z~~sl:0.0:1.2~I don't like it.~sl:0.7~They want to eat me.
+
+MGFLA_IG2_JB3_9 = ~z~You go and get rid of them, okay?
+
+MGFLA_IG2_JB3_10 = ~z~~sl:0.0:1.2~I'll pay you for it.~sl:1.5~Go.
+
+MGFLA_IG2_JB3_11 = ~z~Fucking bears...
+
+MGFLA_IG2_JB4_1 = ~z~~sl:0.0:3.3~Okay, okay. You can read, right?~sl:0.9:2.8:1~I got it all written down right... here.
+
+MGFLA_IG2_JB4_2 = ~z~Don't say nothing. Just take a look at that and go and get it done.
+
+MGFLA_IG2_JB4_3 = ~z~~sl:0.0:2.0~Not a word.~sl:0.8~We're way out here, but you never know who's listening.
+
+MGFLA_IG2_JB4_4 = ~z~~sl:1.3:2.8:1~Those bastards ain't going to know what's coming.
+
+MGFLA_ILO_IDLE_01 = ~z~Come on, work for me.
+
+MGFLA_ILO_IDLE_02 = ~z~I don't need someone to talk to... I need someone to do some work.
+
+MGFLA_ILO_IDLE_03 = ~z~You work or you walk, okay partner?
+
+MGFLA_ILO_IDLE_04 = ~z~Lazy fool... you gonna work?
+
+MGFLA_ILO_IDLE_05 = ~z~If you ain't gonna help, find another shack to stay warm in.
+
+MGFLA_OH_COLT_1 = ~z~~sl:1.6~Carajo. That cursed beast. It's out there, you know. Near Colter.
+
+MGFLA_OH_COLT_2 = ~z~With its eyes... staring at me. It could be anywhere.
+
+MGFLA_OH_COLT_3 = ~z~~sl:0.0:4.1~Once you see those eyes, you won't ever forget them.~sl:1.5~I need you to kill it for me.
+
+MGFLA_OH_COLT_4 = ~z~~sl:0.0:4.1~Kill it for good... and get me some proof.~sl:0.6~That's the only way I can sleep again.
+
+MGFLA_OH_COLT_5 = ~z~Go. Kill it, you get money. Vete.
+
+MGFLA_SB_WRS_1 = ~z~~sl:4.8~We're frozen in up here. There's ice everywhere.
+
+MGFLA_SB_WRS_2 = ~z~~sl:0.0:2.8~We're trapped. Frozen solid.~sl:2.0:3.0:1~I'm going crazy. I hate it.
+
+MGFLA_SB_WRS_3 = ~z~Well, as soon as this melts... I ain't sticking around.
+
+MGFLA_SB_WRS_4 = ~z~~sl:0.0:5.0~I get in a boat, ride the spring thaw all the way to Valentine.~sl:~But I need you... to get me that boat.
+
+MGFLA_SB_WRS_5 = ~z~~sl:0.0:3.2~They got some, over by Window Rock.~sl:0.3:3.0~Get it... and I put food on your plate.~sl:0.6:2.8~Okay? Good.~sl:1.2:1.2:1~Dammit.
+
+MGFLA_TAKEPAPER_01 = ~z~Take it.
+
+MGFLA_TAKEPAPER_02 = ~z~It's for you.
+
+MGFLA_TAKEPAPER_03 = ~z~Come on. Take it.
+
+MGFLA_TAKEPAPER_04 = ~z~You gonna take it, or what?
+
+MGFLA_TAKEPAPER_05 = ~z~There. Take it.
+
+MGFLA_WB_GRIZ_1 = ~z~~sl:0.0:5.0~Carajo. You ever think... you ain't got no friends left?~sl:0.5~That you're all alone in the world?
+
+MGFLA_WB_GRIZ_2 = ~z~~sl:0.0:3.2~Everyone forgot... forgot about Flaco.~sl:1.0~Damn you all.
+
+MGFLA_WB_GRIZ_3 = ~z~~sl:0.0:4.5~Everyone forgot about me, but I did not forget them.~sl:1.2~Friends of mine in jail... they're being moved.
+
+MGFLA_WB_GRIZ_4 = ~z~~sl:0.0:4.0~You're gonna break them out. Set them free.~sl:0.8~The wagon's south of Barrow Lagoon.
+
+MGFLA_WB_GRIZ_5 = ~z~~sl:0.0:4.7~That is what I do for my friends. Go now.~sl:1.8:1.1~I...~sl:0.7~used to be somebody.
+
+MGFLA_WB_HGN_A_1 = ~z~Me gustas mucho. You know what? I like you.
+
+MGFLA_WB_HGN_A_2 = ~z~The way you survive in this game... is by doing people favours.
+
+MGFLA_WB_HGN_A_3 = ~z~Sometimes... for money... sometimes, for something else.
+
+MGFLA_WB_HGN_A_4 = ~z~~sl:0.0:4.1:1~That's how I live long enough to get grey hairs in my moustache.
+
+MGFLA_WB_HGN_A_5 = ~z~~sl:0.0:6.0:1~Now, you will do me a favour, by doing someone else a favour.
+
+MGFLA_WB_HGN_A_6 = ~z~~sl:0.0:2.1~You get them out of a prison wagon.~sl:0.6:2.1~It's going south from Colter.~sl:0.5:1.7:1~Make sure they're free.
+
+MGFLA_WB_HGN_B_1 = ~z~~sl:0.0:2.6~And don't worry, you'll be paid.~sl:0.6~A paid favor is still a favor, you know.
+

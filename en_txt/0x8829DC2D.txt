@@ -1,0 +1,694 @@
+0x0244B2C7 = ~z~~sl:0.0:3.1~You showed Jeb Phelps your true loyalty, huh?
+
+0x02FBD168 = ~z~Docks are all done, huh?
+
+0x0366CDB7 = ~z~~sl:0.0:2.5~Well now... You got a house did ya?~sl:0.5~Might be something to discuss in that case...
+
+0x037C55BE = ~z~~sl:0.0:2.0~You're getting to be capable, my friend...~sl:0.5~That's dangerous. Might start getting ideas...
+
+0x03C76DF2 = ~z~~sl:0.0:3.5~Me? I don't have nothing to do with this bullshit Capitale...~sl:~I just take it from you fools and hand it over to one of the Italian's goddamn pets...
+
+0x041F4BC2 = ~z~~sl:0.0:3.0~We just need to squeeze it till it pops...~sl:0.5:2.0~Your conscience is clear.~sl:0.5~Go.
+
+0x04C5E10F = ~z~~sl:0.0:1.4~Now, I wanna trust you...~sl:0.5~And after you kill this cocksucker and return what's mine, I will.
+
+0x066D2289 = ~z~~sl:0.0:1.2~Got a new job...~sl:0.5~Capitale involved, too...
+
+0x0751D233 = ~z~~sl:0.0:2.0~So there's only one thing to do...~sl:0.0:2.0~Make 'em ugly first.~sl:0.5~Burn 'em. Pillage 'em. Ruin 'em...
+
+0x075BA023 = ~z~~sl:0.0:1.5~You ought'a think yourself lucky...~sl:0.5~Moment I heard you was working for the Italian, I ought've gutted you where you stood...
+
+0x0A0A2050 = ~z~So...
+
+0x0A209EDB = ~z~Giving the Italian's contract another shot?
+
+0x0BDF6288 = ~z~And if there's Capitale on there, don't you tell me nothing about it.
+
+0x0DFD0E03 = ~z~~sl:0.0:1.0~Well,~sl:~I reckon you show me you remember how to dirty 'em up...
+
+0x0F668083 = ~z~~sl:0.0:1.5~His kind never do...~sl:0.5~liars, pulling Joe's strings...
+
+0x1A1506AB = ~z~~sl:0.0:1.0~So,~sl:0.0:1.0~who's hungry?~sl:1.0~You? Or them?
+
+0x1AA80932 = ~z~So, how about we work with someone this time?
+
+0x1B1C5FE6 = ~z~~sl:0.0:2.5~What did I tell you about Bluewater John?~sl:0.0:2.0~Man's a liar.~sl:~And a hell of a lot else, too. Held out on you.
+
+0x1B144C7B = ~z~~sl:0.0:2.0~Because you and Jeb Phelps...~sl:0.5~your association is all but done.
+
+0x1D1EFDCD = ~z~~sl:0.0:3.5~Convoys, supply trains, workers...~sl:0.5:2.5~This parasite is full of people's innocent blood.~sl:0.5~And your precious Capitale for that matter...
+
+0x1D6FEB2C = ~z~You made it, huh?
+
+0x1DC8AD9A = ~z~~sl:0.0:3.5~Little gift for your lover boy over in Saint Denis.~sl:0.0:4.0~Wouldn't want you going empty handed now, would we?~sl:0.5~Now go on, off with you.
+
+0x1E2DCDC7 = ~z~~sl:0.0:4.5~Now I gotta stand for you coming in here... Looking down at Joe...~sl:0.5~Thinking you got principles, huh?
+
+0x1EDA6BF2 = ~z~~sl:0.0:1.4~You killed Jeb, huh?~sl:0.6~Good, good...
+
+0x1F72C838 = ~z~That's for later.
+
+0x1FCDED5A = ~z~Wish you'd work as well for Joe as you do for this damn European...
+
+0x2AE58408 = ~z~So... Jeb Phelps is dead and cold...
+
+0x2B22997A = ~z~~sl:0.0:3.0~Heard that jewel job didn't turn out too good.~sl:0.9~Hope that wasn't your work.
+
+0x2C7E40A0 = ~z~~sl:0.7~You ain't got enough.
+
+0x2CD66B18 = ~z~~sl:0.0:1.6~You got nothing but lies...~sl:0.5~And Joe don't believe 'em...
+
+0x2D36AE4F = ~z~~sl:0.0:3.0~We been doing too much killing of our own kind...~sl:1.0~Just what that lying Italian wants...
+
+0x2D722658 = ~z~You finished up at the docks?
+
+0x2F7767F3 = ~z~Italian gonna make you rich before he kills ya...
+
+0x3A4F982E = ~z~~sl:0.0:1.8~You want more of your Capitale?~sl:~I got a lead...
+
+0x3BFB1537 = ~z~~sl:0.0:1.5~That missing diamond...~sl:0.0:1.5~it's cursed you know...~sl:0.5~not that you'd care, right?
+
+0x3EBC8A7D = ~z~~sl:0.0:2.0~Well even if he is...~sl:~What difference does it makes to me?
+
+0x3EE1082E = ~z~~sl:0.0:1.8~I still don't trust no trains,~sl:~no matter how many of them cocksuckers you kill...
+
+0x3F6F4181 = ~z~~sl:0.0:4.0~Ain't often you find one of those in this world... Better treat him right...~sl:0.8~For now...
+
+0x3F9B51B7 = ~z~~sl:0.0:1.8~Ain't no one gonna put food in your belly...~sl:0.5~You gotta get it done yourself...
+
+0x4A2BB198 = ~z~~sl:0.0:1.2~The Rhodes diamond...~sl:0.6~Joe knows who...
+
+0x4B299676 = ~z~~sl:0.0:1.8~That lying son of a whore...~sl:0.6~Got us all like rats in a sack...
+
+0x4C9AFAEB = ~z~~sl:0.0:1.5~But they're waiting for him...~sl:~Gonna turn the screws on him till it all just trickles out...
+
+0x4C2858B6 = ~z~~sl:0.0:2.4~They got some of your Capitale too...~sl:~Up to their neck in it...
+
+0x4CF300E2 = ~z~~sl:0.0:3.0~What if every note is nothing but a lie?~sl:~Just a way of keeping his competition in check.
+
+0x5A19C29F = ~z~Hope you put that job to rest?
+
+0x5A90AA57 = ~z~~sl:0.0:2.0~You didn't get corrupted did you?~sl:0.6~The railroad didn't buy you out?
+
+0x5AA1BE99 = ~z~Nah. Not yet.
+
+0x5B3D6027 = ~z~~sl:0.0:3.5~Still, you deal with the devil what do you expect?~sl:0.5~Question is... how far along this path are you gonna go?
+
+0x5B314366 = ~z~~sl:0.0:2.5~There's a band of thieves over in the big city.~sl:~The Italian's been paying them to raid the docks for his beloved Capitale.
+
+0x5C61C4FE = ~z~~sl:1.0~I hate working for these Europeans...
+
+0x5DEA871A = ~z~~sl:0.0:1.0~You.~sl:0.5:2.5~You got the marsh in you too, didn't you?~sl:0.0:3.0~Let Bluewater John pour it in your ear...~sl:0.5~I told you. Fool...
+
+0x5E163166 = ~z~Italian ain't ready.
+
+0x5EFAA4F1 = ~z~~sl:0.0:2.0~This whole business with Capitale.~sl:0.8~What if it's a trick?
+
+0x6B63A858 = ~z~~sl:0.0:1.8~I say take your time with him...~sl:1.2~take your time.
+
+0x6B4045FD = ~z~~sl:0.0:2.0~They're complacent, ya see?~sl:0.0:2.5~And it always ends in blood.~sl:1.0~Just be grateful it ain't yours...
+
+0x6BCD6606 = ~z~Got your stinking Capitale?
+
+0x6C631B68 = ~z~~sl:0.0:3.0~Then Jeb can have his way with him at his leisure...~sl:0.5~Find out where that old stash of theirs is.
+
+0x6DC26888 = ~z~~sl:0.0:3.5~I've been at the next man's throat since I was old enough to sink my teeth into it...~sl:0.5~Just getting paid for it now, is all...
+
+0x6DCEFF2C = ~z~~sl:0.0:1.2~More work come in...~sl:~Maybe some Capitale to find...
+
+0x6E4BB5C6 = ~z~~sl:0.0:2.0~Martelli's working on something new...~sl:0.6~Joe can smell it...
+
+0x6E5788F5 = ~z~Italian won't have a damn thing to do with you till you got enough of his Capitale...
+
+0x6E176584 = ~z~Come back later.
+
+0x7A972934 = ~z~~sl:0.0:2.0~Heard about that jewel gone missing...~sl:0.6~That what your Italian friend had you do?
+
+0x7C006D3A = ~z~I ain't ready yet.
+
+0x7E194DC3 = ~z~~sl:0.0:1.2~Oh, he'll crack...~sl:~Won't take so much as a mark on his pudgy flesh to make him squeak.
+
+0x7E4142C6 = ~z~~sl:0.0:1.4~What, you here to arrest me?~sl:0.5~Like to see you try...
+
+0x7ED8521D = ~z~Look who's come creeping back...
+
+0x8A5021A3 = ~z~~sl:0.0:2.0~Only these fellers been holding out on him...~sl:~Keeping it all for themselves...
+
+0x8AC7671F = ~z~~sl:0.0:3.0~The owner... He's the one seeing it go in and out...~sl:0.0:2.0~Lining his pockets...~sl:0.5~Just need to find his stash.
+
+0x8AE4420E = ~z~~sl:0.0:2.5~Italian only understands one thing...~sl:0.3~Capitale... and you ain't got enough...
+
+0x8C2F1482 = ~z~~sl:0.0:2.0~Good work down at the docks...~sl:0.0:3.5~The Italian wants you loyal, like a hungry dog...~sl:~Only kind of loyalty there is...
+
+0x8C4B6928 = ~z~You done with Cornwall, huh?
+
+0x8D587C69 = ~z~So, run on.
+
+0x8D1480A6 = ~z~~sl:0.0:2.5~Working for this man'll be the end of you...~sl:0.5:2.0~You listen to old Joe...~sl:~His type means the end of you...
+
+0x8F52BC81 = ~z~You getting to be famous, huh?
+
+0x8FE36A74 = ~z~Gesture of good will.
+
+0x9A8203C7 = ~z~~sl:0.0:1.0~Little reminder...~sl:0.4~of how you can't be doing without Joe anytime soon.
+
+0x9A708951 = ~z~Knew you couldn't handle it...
+
+0x9AE0A97E = ~z~~sl:0.0:3.5~You sure you want the same enemies the Italian has?~sl:0.3~'Cause that's what you'll get...
+
+0x9E2C387C = ~z~~sl:0.0:1.0~Anyway,~sl:~turns out those docklands are a real problem for the Italian...
+
+0x9E95FFCD = ~z~Feller up at Butcher Creek ought'a fit the bill...
+
+0x9F2C24D5 = ~z~~sl:0.0:2.5~Damn lies... Lies about Joe...~sl:0.0:2.0~Put my head in a noose...~sl:~Now he says jump, and I say how high...
+
+0x9F870F9F = ~z~Ain't many get in Cornwall's eye and live...
+
+0x9F991B5A = ~z~~sl:0.0:1.4~No fuss now.~sl:0.6~On you go.
+
+0x9FA026DE = ~z~~sl:0.0:0.8~You stupid?~sl:0.4~Get some more Capitale...
+
+0x10C537DD = ~z~~sl:0.0:4.0~He should know where the stash is by now. Go get cozy with him...~sl:~Do whatever he asks...
+
+0x14CD7174 = ~z~~sl:0.0:2.0~New offer from the Italian...~sl:0.5~Just need the damn Capitale.
+
+0x19C251A6 = ~z~~sl:0.0:1.5~S'what I like about you...~sl:1.0~Spin a little yarn and off you go... No questions asked.
+
+0x25BDB270 = ~z~~sl:0.0:1.5~Go make it yours.~sl:0.0:1.5~Remember...~sl:0.0:1.5~it's a lie...~sl:0.5~but it pays...
+
+0x27A7CF73 = ~z~~sl:0.0:1.2~I hate this...~sl:0.4:1.4~Life was simple,~sl:~just how it oughtta be...
+
+0x27D73F28 = ~z~~sl:0.0:2.0~You're not getting complacent are you?~sl:1.0~That there is a vice I can't abide.
+
+0x29BC79E1 = ~z~Get on with it.
+
+0x32A0B799 = ~z~There...
+
+0x33EAF26F = ~z~You going for that job again?
+
+0x35C30B39 = ~z~You stink of lies... That's the Bastille for ya...
+
+0x37CB7BD2 = ~z~Alright...
+
+0x37EF56D3 = ~z~They're heading up there to buy some Capitale off the locals...
+
+0x39D08F1D = ~z~~sl:0.0:2.5~You ever heard of night stalkers?~sl:0.0:2.0~They're real you know...~sl:~Old Joe seen one...
+
+0x40AF7367 = ~z~~sl:0.0:1.5~There's a stagecoach...~sl:~Just a few guards... plenty of money... nice and simple...
+
+0x42C46D2C = ~z~I give you that without taking enough Capitale, I'm dead...
+
+0x45C3D877 = ~z~~sl:0.0:1.4~You got your house...~sl:~now we got work to do, huh?
+
+0x46D1DF35 = ~z~~sl:0.0:2.0~You ever been to the Bastille Saloon?~sl:0.0:1.2~In Saint Denis.~sl:~I been there once.
+
+0x50BA6C3D = ~z~~sl:0.0:2.0~Before that goddamn European showed up,~sl:~and started stringing everyone along with his filthy lies and schemes...
+
+0x55A67DCD = ~z~~sl:0.0:3.5~Now, I know some folks got their bellyful all taken care of...~sl:0.5:2.5~And plenty else besides...~sl:1.0~Some of your damn Capitale even...
+
+0x55DB07A6 = ~z~~sl:0.0:1.4~You been to Saint Denis yet?~sl:0.4~You should...
+
+0x56E6F422 = ~z~~sl:0.0:1.6~I knew you was a liar...~sl:~Filthy, law-keeping liar...
+
+0x57D1454C = ~z~~sl:0.0:0.8~New job...~sl:0.6~Capitale, too...
+
+0x57E5117F = ~z~~sl:0.0:3.0~Well, he sent the wrong man on this job...~sl:0.5~burning a boat in the harbor...
+
+0x58F86DE0 = ~z~~sl:0.0:3.0~He got evidence... False evidence...~sl:~Makes it look like I done terrible things...
+
+0x64AD677B = ~z~~sl:0.0:2.5~You already made up your mind, ain'tcha?~sl:0.5~They're as good as dead...
+
+0x66BADEE0 = ~z~And through no fault of their own, some of your Capitale.
+
+0x67F1F57F = ~z~~sl:0.0:2.5~You heard of Leviticus Cornwall?~sl:0.0:2.0~There's a “civilized” man...~sl:~working up a fine little stash of Capitale.
+
+0x69F9E55E = ~z~~sl:0.0:2.5~There. That's all I gotta say...~sl:0.5~And now you and your principles is gonna tear that home to pieces...
+
+0x70B92414 = ~z~~sl:0.0:2.0~How about we offer him a gift?~sl:0.0:1.5~One of his old gang...~sl:~trussed up and helpless as the day he was born...
+
+0x71A056FE = ~z~~sl:0.0:2.2~Italian's gonna make you famous...~sl:0.6~And you ain't gonna like it...
+
+0x72BB039E = ~z~~sl:0.0:1.6~And they got a stash with 'em...~sl:0.5:1.4~Big stash...~sl:0.5~Some of your beloved Capitale too...
+
+0x74A65E82 = ~z~~sl:0.0:3.5~There's a bridge they're building... Near MacFarlane's ranch.~sl:0.5~Find the foreman. Make him tell you where his boss is hiding.
+
+0x74D1F8A9 = ~z~~sl:0.0:2.0~You seen the Italian, huh?~sl:0.5~You gonna work for that lying sack of snakes?
+
+0x76A677B8 = ~z~~sl:0.0:1.6~You get the boss at the railway?~sl:0.6~Bet he squealed good...
+
+0x76EB630C = ~z~Squeeze the last drop of your filthy Capitale out of its open neck.
+
+0x77BC6B99 = ~z~~sl:0.0:2.5~I figure you go see if you still got the hang of it...~sl:0.5:2.5~Bring the dock foreman to the Italian.~sl:0.3~Alive.
+
+0x77D0BAE6 = ~z~This goddamn Capitale you're looking for better be worth it.
+
+0x77F18149 = ~z~You're welcome.
+
+0x80BEA374 = ~z~~sl:0.0:2.0~I hear that ruby's bad news...~sl:0.5~Pity whoever took it...
+
+0x83F102D4 = ~z~~sl:0.0:2.6~Even old Joe got a place to call his own...~sl:0.4~how come you ain't?
+
+0x84CF5862 = ~z~Crew's been moving some of your Capitale, too.
+
+0x85C3B7CD = ~z~~sl:0.0:1.2~You want this letter,~sl:~get some more Capitale.
+
+0x85EC4C3D = ~z~~sl:0.0:2.4~What further proof do you need that they're filth?~sl:0.8~Go.
+
+0x89A1AF0C = ~z~~sl:0.0:3.5~I'll tell you one thing about working for this European bastard...~sl:0.5~Turning us all against each other...
+
+0x91BA4702 = ~z~~sl:0.0:1.0~Got a new job...~sl:~Might be some Capitale involved, too.
+
+0x92A2AE48 = ~z~You shoulda stuck with old Joe...
+
+0x94ACC507 = ~z~~sl:0.0:1.0~Alright...~sl:~I'll take your precious stash to the Italian...
+
+0x94F3EA4C = ~z~~sl:0.0:1.5~Railroads...~sl:0.0:1.5~I don't use 'em...~sl:0.0:1.5~Don't trust 'em...~sl:~You know who makes the railroad?
+
+0x95A3A639 = ~z~How is it you still a damn vagrant?
+
+0x95F38368 = ~z~~sl:0.0:3.0~Here's a lesson. There's someone who works for me...~sl:0.0:3.0~Capitale scavenger, like you...~sl:~Reminds me of you, in fact...
+
+0x96E4FC8D = ~z~~sl:0.0:2.5~Well, let's see how capable you really are...~sl:0.5~There's a wagon. Shipping dynamite. Going up to Bacchus station.
+
+0x97B3BDD2 = ~z~Bet the Italian's pleased with you...
+
+0x97C68210 = ~z~Ain't no damn choice to make.
+
+0x98EE939D = ~z~~sl:0.0:2.0~You go run him back to his master...~sl:1.0~Place is probably thick with your damn Capitale, too.
+
+0x119E2C8F = ~z~Not now.
+
+0x127B40C5 = ~z~~sl:0.0:1.0~But you...~sl:0.0:2.0~you're the real thing, ain'tcha?~sl:0.5:2.5~You... You'll survive...~sl:~And they won't. Simple.
+
+0x156D32B0 = ~z~~sl:0.0:2.5~Ever spent time out in the wilderness?~sl:0.5~Joe has... Changed me...
+
+0x184D3B34 = ~z~You taking another shot at that job?
+
+0x206F1336 = ~z~~sl:0.0:1.0~Alright...~sl:0.5~I'll hold my nose and get this stinking Capitale to the Italian...
+
+0x243CE448 = ~z~~sl:0.0:1.0~So...~sl:0.0:3.5~I got wind of some chaff over in Saint Denis...~sl:0.5~Sitting pretty with their beloved Capitale.
+
+0x244E724A = ~z~~sl:0.0:1.6~You butchered all them boys,~sl:~and he was sitting on his stash the whole time...
+
+0x288DD8F1 = ~z~~sl:0.0:1.0~Let me tell you,~sl:1.0:2.5~there ain't no such thing as an innocent hiding out there...~sl:0.5~You hiding out there, you're guilty of something.
+
+0x298D7A65 = ~z~Uh-huh.
+
+0x313E8819 = ~z~~sl:0.0:1.0~It'll be the end of you...~sl:0.4:1.0~And me...~sl:0.6~That's what he wants...
+
+0x347B33BF = ~z~Even Joe... Strung along...
+
+0x357A1F81 = ~z~Take my advice... never go near Bluewater John again...
+
+0x459E472C = ~z~~sl:0.0:2.8~Now if I don't dance, he hands it over to the law,~sl:~and I get a bounty so big I won't live out the day...
+
+0x477C6266 = ~z~I got some fresh meat for ya.
+
+0x485A85DB = ~z~~sl:0.0:0.8~Nah...~sl:~not till the Italian says so...
+
+0x485DAEDC = ~z~~sl:0.0:4.0~Hey... What if I told you there was some real lowlifes...~sl:0.0:3.0~Bad folks... Worse than me...~sl:~All camped out in the middle of nowhere...
+
+0x519FB4AA = ~z~~sl:0.0:2.5~Here, I'll prove it to ya...~sl:0.5:1.5~There's a homestead...~sl:0.5~Come into possession of some valuables...
+
+0x576EDB98 = ~z~~sl:0.0:3.2~I give you this letter without taking enough Capitale off you...~sl:~I'm dead...
+
+0x638E9E9F = ~z~~sl:0.0:3.5~Any stinking Capitale you find is yours, I don't want nothing to do with it.~sl:0.5~Now go.
+
+0x640B9B30 = ~z~More work come in, if you want it.
+
+0x704FE0C2 = ~z~~sl:0.0:1.5~Capitale...~sl:0.0:1.5~Capitale...~sl:~Capitale...
+
+0x712F34E2 = ~z~~sl:0.0:3.5~Those that say they do, they just wanna be the first to put a knife in it...~sl:0.5~You trust old Joe...
+
+0x714D2A76 = ~z~~sl:0.0:3.0~Your Italian boy got a new offer of work...~sl:0.5~Serious work...
+
+0x723AB78E = ~z~I got some new jobs...
+
+0x821F8461 = ~z~~sl:0.0:2.0~Your new Italian friend...~sl:0.0:4.0~One day he gonna wear your hide for a pair of shoes...~sl:~you trust old Joe...
+
+0x845B64D7 = ~z~~sl:0.0:2.0~Well, take my advice...~sl:~Long as you come through that door, you better be ready for this kinda work...
+
+0x877C7E75 = ~z~They won't never imagine someone coming for 'em...
+
+0x880EDB90 = ~z~Bet the Italian's pleased with how you handled them dock folk...
+
+0x887AD397 = ~z~~sl:0.0:1.0~Get his attention...~sl:0.5~Get him to Jeb in one piece... or thereabouts...
+
+0x944E4678 = ~z~Joe got a mask, too...
+
+0x970A4154 = ~z~~sl:0.0:1.0~There's a man.~sl:0.0:2.0~Bluewater John.~sl:~Used to run with a gang till the marsh got in his soul...
+
+0x988A04FC = ~z~~sl:0.0:1.0~Jeb Phelps.~sl:0.0:1.5~A fine man...~sl:0.0:1.5~Fine reputation...~sl:0.5~The gang he used to run with got a stash of your Capitale.
+
+0x998A04A8 = ~z~So, ain't no surprise they're swimming in your filthy Capitale.
+
+0x2736FC0A = ~z~Hmmm... Alright... you earned Joe's trust. For now...
+
+0x3468B354 = ~z~~sl:0.0:1.8~The Italian sent a letter.~sl:0.3~Says you gotta trade some Capitale for it...
+
+0x3807F033 = ~z~~sl:0.0:3.6~You find any of that goddamn Capitale, keep it to yourself...~sl:~I don't wanna touch it...
+
+0x3958B5E6 = ~z~~sl:0.0:3.0~Heard someone fumbled a jewel job.~sl:~You?
+
+0x4094B179 = ~z~You're still alive then...
+
+0x4480A8B4 = ~z~Can't believe you went in the Bastille, even after Joe warned ya...
+
+0x4835C4F8 = ~z~You done with the swamp now, I hope?
+
+0x5023A298 = ~z~Goddamn candle only keeps a man so warm...
+
+0x5056AF19 = ~z~You done like Joe said... That's good...
+
+0x6245F146 = ~z~~sl:0.0:1.2~Joe ain't stupid...~sl:0.4~you gonna need more of that damn Capitale.
+
+0x6343FB14 = ~z~You get the swamp in you? I reckon you did...
+
+0x6411EA1B = ~z~~sl:0.0:1.5~The Senator's ruby...~sl:0.5~Whoever took that better get some eyes in the back of their head...
+
+0x7856BD9C = ~z~~sl:0.0:0.7~Alright...~sl:~we gonna go to work?
+
+0x8261DDF2 = ~z~~sl:0.0:2.2~You get enough damn Capitale?~sl:~I heard the Italian got something fresh for ya...
+
+0x8295A273 = ~z~~sl:0.0:2.0~Diamond up in Rhodes...~sl:0.4~Smells like you.
+
+0x8377E01E = ~z~I heard the Italian got something new for ya...
+
+0x8384CEE5 = ~z~~sl:0.0:2.2~The Italian got something new...~sl:0.6~Something big...
+
+0x8387C7AC = ~z~~sl:0.0:2.0~Well, let me tell you.~sl:0.5~Only one reason he needs the likes of you...
+
+0x8390E311 = ~z~~sl:0.0:2.8~Hey... you might wanna go to Saint Denis.~sl:~Someone's looking for you...
+
+0x15626F65 = ~z~Got a job just in...
+
+0x28236FFA = ~z~You take your time with the boy in the Bastille, like Joe said?
+
+0x29338E57 = ~z~~sl:0.0:2.0~You seen your Italian friend, then?~sl:0.5:2.0~Rotten, stinking, son of a whore...~sl:0.5~What he done to poor old Joe...
+
+0x35123BB6 = ~z~~sl:0.0:2.5~It's degenerate... Depraved...~sl:~Full of folks whispering... Schemers... Bloodsuckers...
+
+0x42552A46 = ~z~~sl:0.0:3.0~I'll tell you why Joe don't like this Capitale business...~sl:0.5~It stinks of civilization...
+
+0x50652DCE = ~z~~sl:0.0:1.0~You ever worry?~sl:0.0:1.5~About the Italian?~sl:0.5:3.5~Maybe he's playing us ordinary folk all off against each other...~sl:~Setting us at each other's throats...
+
+0x55986DD3 = ~z~~sl:0.0:2.0~How you getting on with Jeb Phelps?~sl:0.5~Kindred spirits?
+
+0x57330A4E = ~z~~sl:0.0:1.8~Feller in Saint Denis wants you...~sl:0.4~You better go...
+
+0x74638F32 = ~z~Well?
+
+0x76976F7F = ~z~You got a gift for old Joe? 'Tis the season.
+
+0x78570C5C = ~z~~sl:0.0:1.0~Hope it's worth it.~sl:1.0~Just remember, old Joe got you where you are.
+
+0x81690BD5 = ~z~Sure you want to do this?
+
+0x85841E48 = ~z~~sl:0.0:1.2~They gone to ground.~sl:0.0:1.3~Start with John...~sl:0.0:1.3~Get to them...~sl:0.4~Hope you're feeling brave...
+
+0x87841C0B = ~z~~sl:0.0:2.5~Chase 'em down... Claim it all.~sl:0.5~No mercy among thieves.
+
+0x88423AAC = ~z~There, take it.
+
+0x92130D7E = ~z~You want the new work?
+
+0x325514FA = ~z~How'd it go out there?
+
+0x326139A1 = ~z~So, what's this I hear about an emerald going missing?
+
+0x485285DB = ~z~~sl:0.0:4.0~No... No... Impossible. You did well before...~sl:~So, now, we bite the head off the snake... Silence its forked tongue for good.
+
+0x694854E1 = ~z~Goddamn snow...
+
+0x712887EC = ~z~~sl:0.0:1.0~Take your cut...~sl:0.4~And anything else you damn well please...
+
+0x821493A9 = ~z~~sl:0.0:2.0~Smell that?~sl:0.5:1.0~Fear.~sl:0.5:3.0~Not yours... Cornwall's.~sl:0.0:2.0~You hit him so hard he's running...~sl:~getting all that bedeviled Capitale out of the country.
+
+0x971278F0 = ~z~~sl:0.0:1.0~Few guards...~sl:0.5~You'll get the jump on 'em no fuss... Nice little payday...
+
+0x2144243E = ~z~~sl:0.0:2.5~If you want something wrong done,~sl:0.5:1.5~do it yourself...~sl:0.5~But that's a lesson your Italian friend ain't never learning.
+
+0x2674770E = ~z~~sl:0.0:1.4~After all you done...~sl:~whatever it is better be good.
+
+0x4525509F = ~z~~sl:0.0:1.6~Well, here comes the law...~sl:0.4~I ought'a tear your throat out...
+
+0x7151233F = ~z~Thinking you're a cut above...
+
+0x8558557C = ~z~~sl:0.0:2.7~So, this'll be like the good old days...~sl:~Stagecoach... Good money on board...
+
+0x9305262C = ~z~Oh sure, I got nothing better to do than sit here and go for the goddamn mail...
+
+0x13817990 = ~z~~sl:0.0:1.0~See...~sl:0.0:1.0~the truth is,~sl:~out here ain't no one got your back...
+
+0x25265688 = ~z~Uh-huh.
+
+0x25596105 = ~z~~sl:0.0:2.0~Well, that's fine...~sl:0.5:2.0~Good to know where we stand...~sl:0.5~And it's good to know you got what it takes...
+
+0x41974663 = ~z~Was it you messed up on that jewel?
+
+0x62508506 = ~z~~sl:0.0:2.0~Go and steal their supplies...~sl:0.5~See how quickly the rabid dog bares its teeth.
+
+0xA0056C50 = ~z~~sl:0.0:1.8~You want what the Italian's got,~sl:0.4~you gonna need more of his Capitale...
+
+0xA0B5AAC3 = ~z~Wanting the fresh jobs, huh?
+
+0xA2CBED0C = ~z~Mhm.
+
+0xA3C5CBDE = ~z~~sl:0.0:1.4~Got some new jobs...~sl:~you game?
+
+0xA3EF1CB7 = ~z~~sl:0.0:1.0~The emerald...~sl:0.8~what do you know about that?
+
+0xA6BC4D9A = ~z~Even his filthy letters smell like some old lady's gown...
+
+0xA7B92003 = ~z~Take my advice, never dance with Cornwall again...
+
+0xA7BBCB9B = ~z~~sl:0.0:4.0~Companies down there all trading in his mysterious "Capitale".~sl:0.5~He needs a stop put to it.
+
+0xA7D138F6 = ~z~Got new work here... you want it?
+
+0xA8A1A8C4 = ~z~~sl:0.0:2.5~Well, this someone cheated me.~sl:0.0:1.5~Took what's mine.~sl:~Looked in my face and lied.
+
+0xA9CFEA4C = ~z~~sl:0.0:2.0~You're a traitor ain't you?~sl:0.0:2.0~You'd gut me in a heartbeat...~sl:0.5~Italian probably paying you to do it...
+
+0xA20BE1F3 = ~z~Won't even show your face now, huh?
+
+0xA31E1184 = ~z~~sl:0.0:3.5~Don't forget... They owe a debt to the Italian...~sl:0.5~Don't get any ideas, not paying it.
+
+0xA77C9393 = ~z~New job, just came up...
+
+0xA88F3BD5 = ~z~Alright, bye.
+
+0xA96EEE8B = ~z~There you go...
+
+0xA195B860 = ~z~~sl:0.0:2.0~The Italian wants him alive...~sl:0.5:1.5~And what he wants,~sl:0.5~he gets.
+
+0xA977199C = ~z~You kill that hat yourself?
+
+0xAC70A7A4 = ~z~~sl:0.0:1.7~If you don't blow yourself up,~sl:~you'll get a good price for it...
+
+0xAC429921 = ~z~~sl:0.0:1.5~I know you...~sl:0.0:2.0~I know all about you...~sl:0.5~got to feeling superior since you rubbed shoulders with that damn European, huh?
+
+0xACB106D3 = ~z~~sl:0.0:1.0~You...~sl:0.0:2.5~you're enjoying this ain'tcha?~sl:0.0:3.5~Going up against the likes of Leviticus Cornwall?~sl:~You're a damn fool...
+
+0xAE7FFEF6 = ~z~~sl:0.0:1.8~Ruby up in Annesburg...~sl:0.3~You know anything about that?
+
+0xB06D5613 = ~z~Nah... Italian wants to wait on that one.
+
+0xB09127D0 = ~z~That hat... is it soft?
+
+0xB0B7B5DF = ~z~Pathetic... Yeah, you...
+
+0xB1CEBFC5 = ~z~~sl:0.0:3.6~Never know... Might be some of your Capitale on there, too...~sl:0.5~It's every other damn place...
+
+0xB7CF4386 = ~z~Now, if you can find him, seems like you both got a reason to pay his old gang a visit...
+
+0xB7F802F7 = ~z~~sl:0.0:1.8~I was gonna do this job myself...~sl:~But I won't set foot in Bluewater Marsh.
+
+0xB96E6F00 = ~z~So, it's been a little while since we did some kidnapping...
+
+0xB97FF752 = ~z~~sl:0.0:0.7~New work...~sl:0.5~you want it?
+
+0xB371B22B = ~z~You got enough enemies already...
+
+0xB415D7AB = ~z~~sl:0.0:3.5~Well, here's something'll put my mind at rest...~sl:0.5~Payroll wagon... Carrying good money...
+
+0xB684DF10 = ~z~Sipping fancy wines and keeping your hands clean...
+
+0xB892B189 = ~z~~sl:0.0:1.0~I'll prove it to you.~sl:~There's a new track getting laid north east of here.
+
+0xB2248DF8 = ~z~~sl:0.0:3.0~But it ain't me. It's you.~sl:0.5:2.0~And like I said before...~sl:0.5~you're a fool.
+
+0xB7526261 = ~z~Bet the Italian has big plans for you...
+
+0xBA585BAB = ~z~~sl:0.0:2.5~But hell, even if it is...~sl:0.0:1.5~So what?~sl:0.0:1.5~It pays...~sl:~And now he's gonna pay us to go after the bootleggers who supply the saloon up in Van Horn.
+
+0xBAA0087F = ~z~~sl:0.0:2.0~Things live there as should've died...~sl:0.0:2.0~died there as should've lived...~sl:~Whispering... Watching...
+
+0xBB1EA3AE = ~z~You and the Italian... fools.
+
+0xBB7D1D64 = ~z~You think too much...
+
+0xBBA6D56D = ~z~~sl:0.0:1.5~Stagecoach...~sl:0.5:3.0~You still know how to rob a stagecoach don'tcha?~sl:~Or is that beneath you and your Italian friends?
+
+0xBBDA1F00 = ~z~Yeah?
+
+0xBCFBC0A5 = ~z~That's a stupid hat...
+
+0xBD980AAF = ~z~~sl:0.0:2.4~Now, you wanna make it look like a regular job.~sl:~Steal a boat of something you can sell.
+
+0xBDA60323 = ~z~~sl:0.0:4.5~Now these fellers, I don't know what they done... But it paid well...~sl:0.5~Got 'em some of your Italian Capitale, too...
+
+0xBDCF0371 = ~z~~sl:0.0:1.0~See?~sl:~Joe can be funny too...
+
+0xBE863DA8 = ~z~Well, your Italian friend ain't gonna muddy his fancy shoes out there, is he?
+
+0xBEB08BCF = ~z~You finished that business?
+
+0xC0089BE1 = ~z~~sl:0.0:2.6~It separates the wheat from the chaff...~sl:~Real killers from those who just talk about killing.
+
+0xC02C744D = ~z~On you go...
+
+0xC043C408 = ~z~~sl:0.0:2.0~They know you're working for the Italian...~sl:0.5~Things are gonna get ugly now.
+
+0xC05B8B21 = ~z~Hope you gutted that railway boy good...
+
+0xC8CB5232 = ~z~~sl:0.0:1.5~But you are...~sl:0.0:1.5~so, run along.~sl:~Maybe he'll give you a treat.
+
+0xC9E871F0 = ~z~~sl:0.0:2.4~Here's a job I know you're gonna like...~sl:0.0:1.2~Simple...~sl:~Good money.
+
+0xC29A7A6D = ~z~Can't... Italian says so...
+
+0xC47E7B03 = ~z~~sl:0.0:3.5~Or are you spending too much time with your Italian friend?~sl:~Making Joe dance.
+
+0xC93D066E = ~z~~sl:0.0:3.5~But don't be fooled... This nest got a golden egg.~sl:0.5:2.5~Some of your damn Capitale, too.~sl:~Just gotta have the stomach to take it.
+
+0xC640E069 = ~z~~sl:0.0:1.5~Used to run with...~sl:0.5~Because they turned him in for the price on his head.
+
+0xC895DC73 = ~z~~sl:0.0:2.0~Only one thing for it now...~sl:0.0:2.5~You come this far, might as well finish it...~sl:1.0~Finish them... You know where his old gang are holed up.
+
+0xC983A646 = ~z~~sl:0.0:2.2~Well, his old gang owes a debt to the Italian...~sl:~Stole some of his precious Capitale too.
+
+0xC510308A = ~z~I'm waiting.
+
+0xC7146301 = ~z~~sl:0.0:2.0~The train job... The emerald...~sl:0.5~Big old target on someone's back, that's for sure...
+
+0xCB0E3D68 = ~z~Go on.
+
+0xCC5C0837 = ~z~~sl:0.0:2.7~Put bad blood between me and many an old friend...~sl:~And you ain't even a friend...
+
+0xCC24FF44 = ~z~~sl:0.0:4.0~Turning every cutthroat in the land against each other... Against his rivals...~sl:~I swear, it's just a pack of lies.
+
+0xCD0A47D4 = ~z~You working like a good little chimney sweep for this European, huh?
+
+0xCD928F1D = ~z~~sl:0.0:1.0~Truth is...~sl:0.5:2.0~I don't know a damn thing about 'em...~sl:~You just tell yourself whatever little story you need to get the job done...
+
+0xCE97DD93 = ~z~~sl:0.0:1.0~Parasites.~sl:0.5:4.0~They act like they're our saviors, but they're no better than me...~sl:~They're worse.
+
+0xCF49AE12 = ~z~~sl:0.0:1.4~Capitale there somewhere.~sl:1.2~Keep your nose to the ground.
+
+0xCFBDEA46 = ~z~~sl:0.0:1.2~Got a little tip for ya...~sl:~Some old-time work... Like it used to be...
+
+0xD002A7DC = ~z~~sl:0.0:1.2~Whyn't you go pay 'em a visit?~sl:0.6~I'm sure you can talk it through.
+
+0xD08908AF = ~z~Need more Capitale...
+
+0xD2A4F091 = ~z~~sl:0.0:3.0~From what I hear they got all kinds of riches and trinkets.~sl:~Not just your beloved Capitale.
+
+0xD4C050CC = ~z~What then?
+
+0xD6D1491C = ~z~Nights are dark at the minute...
+
+0xD6EAD43F = ~z~What?
+
+0xD82CDDCA = ~z~~sl:0.0:3.0~But you're in it up to your neck now...~sl:0.5~Might as well take a deep breath...
+
+0xD680D728 = ~z~~sl:0.0:1.0~Okay...~sl:0.5:2.0~Now old Joe'll dance...~sl:~take your goddamn Capitale to the Italian.
+
+0xD777DC64 = ~z~Go on over there and see how much you enjoy making real enemies...
+
+0xD939580C = ~z~~sl:0.0:1.5~Now take it from Joe...~sl:0.0:2.5~them boys is as good as dead...~sl:~'Less you help 'em.
+
+0xDA2AC3D4 = ~z~~sl:0.0:2.5~But it's like Joe always said:~sl:0.0:1.5~you want 'em afraid,~sl:~'cause that's when they mess up.
+
+0xDACF2992 = ~z~~sl:0.0:2.5~Alright, here's a little something...~sl:0.0:1.5~A homestead...~sl:~Not much to look at from the outside.
+
+0xDB2BF6F3 = ~z~Save him getting blood and dirt under his nails picking up his, his precious Capitale...
+
+0xDC4F44D7 = ~z~You after Capitale, then?
+
+0xDDA1860D = ~z~Less I know about that right now, the better.
+
+0xDDDA44BA = ~z~Bet the Italian got a nice bone for his puppy dog.
+
+0xDE83AC86 = ~z~~sl:0.0:3.0~Find the schedule... Then find the wagon...~sl:~It's owned by some mercenary outfit...
+
+0xDF45B283 = ~z~~sl:0.0:4.5~Now, I bet you're wanting Joe to tell you the folks there is a bad bunch...~sl:~Deserving of your judgement...
+
+0xE5F37957 = ~z~~sl:0.0:3.0~Cornwall got a refinery in the Heartlands...~sl:0.0:1.5~Bound to be good thieving.~sl:~Bound to be some of your precious Capitale, too...
+
+0xE8C0C100 = ~z~~sl:0.0:2.0~And if the whispers I hear are true,~sl:0.5~carrying some of your filthy Capitale, too...
+
+0xE8CA7F09 = ~z~~sl:0.0:1.5~But take my advice...~sl:0.0:3.5~Them guards up there is sharpshooters...~sl:0.0:2.0~you better use your head...~sl:~or what's left of it.
+
+0xE15FA9B9 = ~z~~sl:0.0:1.2~Know what occurred to me?~sl:0.5~This Italian making us all dance...
+
+0xE59E9F24 = ~z~~sl:0.0:2.2~Makings of a fine partnership...~sl:0.8~Ain't that nice?
+
+0xE853B70B = ~z~Filthy Italian bastard...
+
+0xE934EDE3 = ~z~~sl:0.0:1.2~You hear whispers?~sl:0.8~Always, this time of year...
+
+0xE6423421 = ~z~Nope... get more Capitale...
+
+0xEA06542D = ~z~~sl:0.0:1.5~Goddamn reptiles...~sl:~Lying about Joe... Extorting me...
+
+0xEACE192C = ~z~~sl:0.0:1.0~You done good...~sl:0.5:2.5~Held a mirror up to the Central Union...~sl:0.5~Showed 'em the killers they are...
+
+0xEB4E6CF0 = ~z~~sl:0.0:1.4~Don't bother denying it.~sl:1.8~Just go...
+
+0xEB8FC929 = ~z~Hell, might even be a few of your goddamn Capitale on board...
+
+0xEBA3FCE1 = ~z~~sl:0.0:2.5~And your Italian friend don't like that one bit.~sl:~Sent some boys after one of Cornwall's wagons.
+
+0xEBE56749 = ~z~The Italian says Cornwall is moving out through the freight yard in Saint Denis.
+
+0xEC4AF465 = ~z~Done us a favor in some ways...
+
+0xECB8C423 = ~z~Bye, then.
+
+0xECC4ECC8 = ~z~~sl:0.0:1.4~I bet you ain't afraid.~sl:0.5~'Cause you're a fool...
+
+0xED720492 = ~z~~sl:0.0:1.0~If it was me,~sl:~I'd walk away and never come back.
+
+0xEF60E7C7 = ~z~Gonna take the bait, huh?
+
+0xF3B6DCA5 = ~z~~sl:0.0:1.5~And when you find the boss,~sl:~you're gonna have to resist the urge to slit his throat...
+
+0xF9A7E559 = ~z~~sl:0.0:1.5~Times is changing...~sl:0.0:1.5~changed...~sl:~but you ain't too proud for a bit of old-fashioned work, are you?
+
+0xF12BB11D = ~z~~sl:0.0:3.0~Ideas like you don't need old Joe no more...~sl:~Might well cut him out, and cut him up, huh?
+
+0xF53C2B13 = ~z~~sl:0.0:2.0~Like these boys I heard about...~sl:~Laying low with a stash out in the back country...
+
+0xF66F4462 = ~z~~sl:0.0:2.5~So, I find myself short on trust...~sl:~Thinking, who else is lying to me...
+
+0xF104C86D = ~z~~sl:0.0:1.0~Blackmailer...~sl:0.0:1.5~And a liar...~sl:0.0:1.5~That's who he is...~sl:~your new master...
+
+0xF119D5F3 = ~z~~sl:0.0:2.0~You give me the damn Capitale,~sl:~I get it back to the Italian...
+
+0xF337224F = ~z~~sl:0.0:1.0~Yeah...~sl:0.5:2.0~That's who you're working for now...~sl:0.5~That filthy bastard...
+
+0xFA412241 = ~z~The Italian must be dreaming of you...
+
+0xFAE5481F = ~z~~sl:0.0:2.2~I didn't open it if that's what you think...~sl:0.8~I ain't stupid.
+
+0xFAF5609C = ~z~Bye.
+
+0xFBEA0127 = ~z~Can't now.
+
+0xFC660E7B = ~z~~sl:0.0:1.0~New work...~sl:~maybe get some of your Capitale...
+
+0xFE999386 = ~z~~sl:0.0:3.5~Then as soon as you see a glimmer of your prized Capitale...~sl:0.5~You turn on him just like you were gonna turn on me...
+
+0xFEC6714C = ~z~Gonna trade in that filthy Capitale you been hoarding, huh?
+

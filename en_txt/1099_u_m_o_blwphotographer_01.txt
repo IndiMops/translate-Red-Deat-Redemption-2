@@ -1,0 +1,186 @@
+0x075E480C = ~z~Alright, alright, you can have the money, don't hurt me.
+
+0x07759EC3 = ~z~Sure, why not?
+
+0x080B627D = ~z~I'm doing it, I'm going as fast as I can.
+
+0x0A5FDD20 = ~z~I swear, sometimes the Lord likes to test me...
+
+0x0A86DD72 = ~z~What the heck did I do to deserve a robbery?
+
+0x0E8BEF32 = ~z~I'm doing it. I'm going as fast as I can.
+
+0x1C1F7159 = ~z~You no-good thief. You'll pay for this someday.
+
+0x1ECE5575 = ~z~Somebody help. I'm being robbed here.
+
+0x2AC08ED2 = ~z~Aaand done.
+
+0x2F88DED4 = ~z~Come in, come in.
+
+0x4E09657E = ~z~I'll be the better person and suggest we forget that awful business, okay?
+
+0x5B0A295E = ~z~Oh, to hell with this. You're going to pay.
+
+0x5C5D360E = ~z~You thought I wasn't going to defend myself, did you.
+
+0x5F7CB186 = ~z~Someone told me you've had bad history with the law. Well the past is the past, as long as you behave in here.
+
+0x6BDC948C = ~z~Okay, alright, it's all yours.
+
+0x6C9BBAAD = ~z~Why hello there. First time in my studio? Welcome, welcome.
+
+0x8A1929E9 = ~z~Take whatever you want, but please don't kill me.
+
+0x8BD11EDE = ~z~Any thoughts on the kind of background you'd want for the photograph?
+
+0x8CF41E9A = ~z~I hope someone steals it from you, you bastard.
+
+0x9B58A210 = ~z~I can see you're local to the area. Say, how about a nice discount for a friendly neighbor?
+
+0x9BB8EA20 = ~z~Yes, fine, come on in. But the moment you get violent again, I'll have you out.
+
+0x9E2AF928 = ~z~Fine, fine. Take it and go.
+
+0x18A779AF = ~z~Why would anyone even think of robbing me?
+
+0x40E10184 = ~z~Welcome, come inside.
+
+0x46A2ADF6 = ~z~Oh, joy. The troublemaker has returned once more to cause unrest.
+
+0x72D1C719 = ~z~Oh, hello, hello. Come on in. Is it your first time?
+
+0x80D174EC = ~z~On second thought, I won't stand for this.
+
+0x82CEC270 = ~z~In the register. Take it and get out.
+
+0x97E8AD24 = ~z~That's it. I won't let you take this without a fight.
+
+0x345D096B = ~z~Perhaps you've learned good behavior since your last visit? I sure hope so.
+
+0x513F150B = ~z~Hmmm... heard you've been wanted by the law before. Well keep your nose clean in my shop, and I'll serve you.
+
+0x541BA7F9 = ~z~Well, hello to you. Welcome to my shop.
+
+0x735E4DC4 = ~z~Come in, but just know... now you've revealed yourself a crook, I'll be watching.
+
+0x762D69AE = ~z~You thought I wasn't going to defend myself, did you?
+
+0x803D1631 = ~z~I don't want to die. God, take it all if you must, but don't kill me.
+
+0x973B35B2 = ~z~And which of our lovely backdrops would you care to feature?
+
+0x980A34C6 = ~z~Go run yourself off a cliff, you thieving scum.
+
+0x7528A393 = ~z~Okay, okay. Just don't hurt me, alright? The money is yours.
+
+0x33787EC9 = ~z~Help me. I'm being robbed here, help.
+
+0x38872A5F = ~z~There we have it.
+
+0x71721C44 = ~z~There we are, all done now.
+
+0x484359F2 = ~z~Life's too short to bear grudges, so let's put that business behind us.
+
+0x967825DB = ~z~I've seen snakes with more spine than you.
+
+0x8163152C = ~z~I don't have as much as you think. Don't do this.
+
+0x9649019A = ~z~Are you quite finished? If so, get the hell out.
+
+0xA2F3AEAC = ~z~Business truly is booming of late, so all's well.
+
+0xA4B60DFC = ~z~Neither one of us would have benefited from this anyway.
+
+0xA4F6DC53 = ~z~Please. This shop is all I have, don't do this.
+
+0xA8BA44BD = ~z~Oh, to hell with this. You're gonna pay.
+
+0xAA8007A2 = ~z~I'll let you back in, as long as you leave your thuggish ways outside of my shop.
+
+0xAAA42A50 = ~z~Are you done robbing me? I want you to leave.
+
+0xAE0E955E = ~z~Stop. Please don't hurt me. I'll give you the money.
+
+0xAEE2B22B = ~z~Just take the money and be gone with you.
+
+0xAF9AF19B = ~z~Come now. Who'd want to rob a photographer?
+
+0xB02B491B = ~z~No complaints in the shop so far, so I'm good.
+
+0xB9055911 = ~z~Fine, come back inside, but don't even think of trying to steal anything again.
+
+0xBBDF70B5 = ~z~What are you waiting for? Just take the money and be gone with you.
+
+0xBD460335 = ~z~Had some trouble with the equipment lately. Made business bad for a spell.
+
+0xBE696597 = ~z~Couldn't ask for things to be any better, really.
+
+0xBFA36F09 = ~z~Ah, hello again.
+
+0xBFCD38B6 = ~z~You'll get your comeuppance, you dirty thief.
+
+0xC52EE065 = ~z~Don't shoot. Don't shoot me, just take the money and go.
+
+0xC4790DA3 = ~z~Hope someone steals it from you, you bastard.
+
+0xC5054326 = ~z~You won't get away with this forever, thief.
+
+0xCC439BAC = ~z~Now then, let's settle on a pose for you...
+
+0xCD046E6E = ~z~Must feel real proud of the life you chose, huh?
+
+0xCDD8550F = ~z~And there we are.
+
+0xCF6FA788 = ~z~No idea why, but folks seem uninterested in the shop, lately.
+
+0xD4D9418C = ~z~Somebody's trying to rob me, help.
+
+0xD28C5E59 = ~z~Okay, okay. Just don't hurt me, alright? Money's yours.
+
+0xD335B8D0 = ~z~Come now. Who'd want to rob a photographer.
+
+0xD16192A1 = ~z~Back again, are you?
+
+0xDA4186EA = ~z~I'm getting it for you, I swear. Just wait.
+
+0xDAC34449 = ~z~That wasn't funny in the slightest, damn you. Get out.
+
+0xDBE34D78 = ~z~Oh god, just take what you want and spare me.
+
+0xDC11F182 = ~z~And that's it. All done.
+
+0xDCFE4137 = ~z~We have quite the range of backdrops for you to choose.
+
+0xE1D3CADA = ~z~Whatever backdrop suits your fancy, just let me know.
+
+0xE56A6086 = ~z~Take whatever you want but please don't kill me.
+
+0xE64314E7 = ~z~Why would anyone even think of robbing me...
+
+0xE2001865 = ~z~This is how you make your living, is it? You demon.
+
+0xE9505751 = ~z~Justice will find you soon enough, you dirty thief.
+
+0xED39E1A6 = ~z~We have a wide range of visages for you to use as the backdrop.
+
+0xEDCDC6F5 = ~z~Looks to me like you're from around these parts. How about a local discount?
+
+0xEE9A6BF7 = ~z~You think threatening folk is funny? Get out of my studio.
+
+0xF54FFA74 = ~z~Well, okay then.
+
+0xF439B0D4 = ~z~What the heck did I do to deserve a robbery...
+
+0xF649B0FA = ~z~Okay... listen... you best think twice about trying to do this...
+
+0xFA167CD5 = ~z~Darn bulb wouldn't operate on the equipment the other day. It hurt business bad.
+
+0xFD954D91 = ~z~I'm getting it for you, I swear. Just wait.
+
+0xFDF37F0B = ~z~Remember, you'll need to keep still for this.
+
+0xFE9CD19E = ~z~Must feel real proud of the life you chose, huh.
+
+0xFF7C435F = ~z~Whoa, now... just... hold your horses and... think about what you're doing here...
+

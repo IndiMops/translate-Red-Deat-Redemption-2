@@ -1,0 +1,52 @@
+CFUNM_ACT_1 = ~z~My Lord, but you boys are pathetic.
+
+CFUNM_ACT_2 = ~z~And what are you?
+
+CFUNM_ACT_3 = ~z~I'm a goddamn man!
+
+CFUNM_ACT_4 = ~z~Oh, is that so?
+
+CFUNM_ACT_5 = ~z~Well, compared to you lot!
+
+CFUNM_ACT_6 = ~z~Here we are, on the run, being chased east across this whole goddamn country,
+
+CFUNM_ACT_7 = ~z~and you boys isn't even making any real moves.
+
+CFUNM_ACT_8 = ~z~No wonder old Dutchy is so goddamn tired. He's gotta think for all of you.
+
+CFUNM_ACT_9 = ~z~Shut up, Micah.
+
+CFUNM_ACT_10 = ~z~No, I will not shut up!
+
+CFUNM_ACT_11 = ~z~I'm trying to help... shutting up will lead to us all being killed.
+
+CFUNM_ACT_12 = ~z~We ain't being killed, we been in worse scrapes than this.
+
+CFUNM_ACT_13 = ~z~Me too. But moving around with this many of us? It's trouble.
+
+CFUNM_ACT_14 = ~z~It used to be more.
+
+CFUNM_ACT_15 = ~z~You're just worried.
+
+CFUNM_ACT_16 = ~z~Worried because you're the one person in this whole goddamn bunch who does nothing,
+
+CFUNM_ACT_17 = ~z~but profit from everyone else's work.
+
+CFUNM_ACT_18 = ~z~That ain't true.
+
+CFUNM_ACT_19 = ~z~You're the first person I'd kill.
+
+CFUNM_ACT_20 = ~z~Well, the feeling is mutual.
+
+CFUNM_ACT_21 = ~z~He just don't like the truth.
+
+CFUNM_ACT_22 = ~z~He's afraid... he's afraid because he's a goddamn parasite!
+
+CFUNM_ACT_23 = ~z~He ain't ever off grafting, nor hunting, nor killing like the rest of us...
+
+CFUNM_ACT_24 = ~z~Oh sure, he's family. If he was my uncle I'd throttle him. He ain't no one's uncle.
+
+CFUNM_ACT_25 = ~z~We should do him in...
+
+CFUNM_ACT_26 = ~z~I'm joking, relax.
+

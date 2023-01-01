@@ -1,0 +1,768 @@
+C1_ATTRACT_01 = ~z~Help the poor... help the poor.
+
+C1_ATTRACT_02 = ~z~Alms for the poor.
+
+C1_ATTRACT_03 = ~z~You there, can you spare something for the poor?
+
+C1_ATTRACT_04 = ~z~Blessed are the poor... and bless them with your own kindness.
+
+C1_ATTRACT_05 = ~z~Please, sir, will you help the poor?
+
+C1_ATTRACT_06 = ~z~Excuse me, I'm collecting for the poor.
+
+C1_ATTRARTH_1 = ~z~You, kind sir. Will you help the poor?
+
+C1_DAWDLE_01 = ~z~I'd really appreciate it if you'd take a look.
+
+C1_DAWDLE_02 = ~z~It's just through the market there to the left.
+
+C1_DAWDLE_03 = ~z~I'd go myself, but he knows who I am.
+
+C1_DAWDLE_04 = ~z~Maybe I'm wrong, I hope I am, but we can't ignore the rumors.
+
+C2_CALL1_1 = ~z~H-hello?
+
+C2_CALL1_2 = ~t~In Spanish: Shhh, be quiet.
+
+C2_CALL2_01 = ~t~In Spanish: Who is it?
+
+C2_CALL2_02 = ~z~Hello?
+
+C2_CALL2_03 = ~t~In Spanish: Is someone there?
+
+C2_CLERKFORCE_1 = ~z~I've had enough of this. You're crazy! I'm going to get help.
+
+C2_CLERKIDLE_01 = ~z~They made me do it, I swear.
+
+C2_CLERKIDLE_02 = ~z~Don't tell the police, please.
+
+C2_CLERKIDLE_03 = ~z~I'm really not a bad man.
+
+C2_CLERKIDLE_04 = ~z~This is my brother's store. I'm just watching it while he's away.
+
+C2_CLERKREACT_1 = ~z~What's back here? It looks like this pulls out or something?
+
+C2_CLERKREACT_2 = ~z~Pulls out? No, it's just an old bookcase, seen better days.
+
+C2_CLERKSCRATCH_1 = ~z~This don't seem right...
+
+C2_CLERKSCRATCH_2 = ~z~Sir? What are you doing back there?
+
+C2_CLERKWARN_1 = ~z~Oh, er, nothing much back there, I'm afraid... just a few old books.
+
+C2_CLERKWELCOME_1 = ~z~Hi there, mister. Feel free to browse.
+
+C2_CLERKWELCOME_2 = ~z~Shall do.
+
+C2_CLOSING_1 = ~z~Well, you just let me know if I can help at all.
+
+C2_DAWD_01 = ~t~In Spanish: Where are we going?
+
+C2_DAWD_02 = ~z~Senor?
+
+C2_DAWD_03 = ~t~In Spanish: Where are you taking us?
+
+C2_GENERAL_01 = ~z~Looking for anything in particular?
+
+C2_GENERAL_02 = ~z~Got a few paintings over there, something for the wife maybe?
+
+C2_GENERAL_03 = ~z~You timed it well. Some quality pieces in at the moment.
+
+C2_HOLDUP1_1 = ~z~Where are they?
+
+C2_HOLDUP1_2 = ~z~Who?
+
+C2_HOLDUP1_3 = ~z~The people you're hiding! I know they're here, don't lie to me!
+
+C2_HOLDUP1_4 = ~z~Please, they made me do it. I was always good to them but they-they forced me to do it, sir, I swear...
+
+C2_HOLDUP1_5 = ~z~Where are they?
+
+C2_HOLDUP1_6 = ~z~There's a door behind the bookcase there.
+
+C2_HOLDUP1_7 = ~z~Just pull the big red book called "The Scourge of Crossbreeding" by Harold MacDougal!
+
+C2_HOLDUP_I1_1 = ~z~Where are they?
+
+C2_HOLDUP_I1_2 = ~z~Who?
+
+C2_HOLDUP_I2_1 = ~z~The people you're hiding! I know they're here, don't lie to me!
+
+C2_HOLDUP_I2_2 = ~z~Please, they made me do it. I was always good to them but they-they forced me to do it, sir, I swear...
+
+C2_HOLDUP_I3_1 = ~z~Where are they?
+
+C2_HOLDUP_I3_2 = ~z~There's a door behind the bookcase there.
+
+C2_HOLDUP_I3_3 = ~z~Just pull the big red book called "The Scourge of Crossbreeding" by Harold MacDougal!
+
+C2_SEEN1_1 = ~t~In Spanish: Please! Help us! Help, please!
+
+C2_SEEN2_S1_01 = ~t~In Spanish: Please.
+
+C2_SEEN2_S1_02 = ~z~Help, please.
+
+C2_SEEN2_S1_03 = ~t~In Spanish: Help us!
+
+C2_SEEN2_S2_01 = ~t~In Spanish: Who are you?
+
+C2_SEEN2_S2_02 = ~t~In Spanish: Don't leave us here.
+
+C2_SEEN2_S2_03 = ~t~In Spanish: Please.
+
+C2_SLAVEASK_1 = ~t~In Spanish: Thank you, sir. Thank you very much.
+
+C2_SLAVEASK_2 = ~z~Come with me. Don't worry... you're going to be alright now, I promise.
+
+C2_SLAVEMRKT_1 = ~z~This way. Not much farther.
+
+C2_SLAVEMRKT_2 = ~z~Poor bastards.
+
+C2_SLAVETALK_1 = ~z~That's it, come on. You'll be safe soon.
+
+C2_STAYDOWN_1 = ~z~Son of a bitch.
+
+C2_STRANGE_1 = ~z~I must say, you're acting very strange.
+
+C2_STRANGE_2 = ~z~Just what is it you want?
+
+C2_STRANGE_3 = ~z~Maybe you should leave now?
+
+C2_TOKNOCK_1 = ~z~No, no, no, wait...
+
+C4_DRKCHASE_01 = ~z~I thought you were going after him?
+
+C4_DRKCHASE_02 = ~z~They disappear very fast in this city, Mr. Morgan.
+
+C4_DRKCHASE_03 = ~z~He'll have sold that in a minute if I know that boy.
+
+C4_STARTCHASE_01 = ~z~We'll be at the cathedral!
+
+C4_STARTCHASE_02 = ~z~Meet us at the cathedral, Mr. Morgan!
+
+C4_STRUGGLES_01 = ~z~
+
+C4_STRUGGLES_02 = ~z~Hey!
+
+C4_STRUGGLES_03 = ~z~Ow!
+
+C4_STRUGGLES_04 = ~z~Get off!
+
+C4_STRUGGLES_05 = ~z~That hurts!
+
+RCLDN_CHASE_01 = ~z~Stay away from me!
+
+RCLDN_CHASE_02 = ~z~Why are you doing this?
+
+RCLDN_CHASE_03 = ~z~What is it you want?
+
+RCLDN_FEAR_01 = ~z~No!
+
+RCLDN_FEAR_02 = ~z~Please!
+
+RCLDN_FEAR_03 = ~z~Oh Lord save me!
+
+RCLDN_GRIEF_AFT_01 = ~z~Sir, no. Please!
+
+RCLDN_GRIEF_AFT_02 = ~z~Hey now, I thought you were helping me!
+
+RCLDN_GRIEF_AFT_03 = ~z~Don't, please! If I offended you, I'm sorry!
+
+RCLDN_GRIEF_PRE_01 = ~z~What on earth?
+
+RCLDN_GRIEF_PRE_02 = ~z~What are you doing?
+
+RCLDN_GRIEF_PRE_03 = ~z~Hey now, just calm down!
+
+RCLDN_HANG_01 = ~z~Well, I'm sure you have more important matters to attend to than my old jewelry.
+
+RCLDN_HANG_02 = ~z~Was there something else, Mr. Morgan? I would hate to keep you.
+
+RCLDN_HANG_03 = ~z~I hope you weren't expecting any kind of... payment? That would be awkward.
+
+RCLDN_ILODAWDLE_01 = ~z~Can you help, sir?
+
+RCLDN_ILODAWDLE_02 = ~z~Can you spare a little?
+
+RCLDN_ILODAWDLE_03 = ~z~Well, sir?
+
+RCLDN_RC1_ILO_1 = ~z~I ain't so kind.
+
+RCLDN_RC1_ILO_2 = ~z~Yes you are, sir.
+
+RCLDN_RC1_ILO_3 = ~z~You have it in you, I can tell.
+
+RCLDN_RC1_ILO_4 = ~z~I'm a nasty bit of work, father.
+
+RCLDN_RSC1_1 = ~z~I ain't so kind.
+
+RCLDN_RSC1_2 = ~z~Yes you are, sir. You have it in you I can tell.
+
+RCLDN_RSC1_3 = ~z~I'm a nasty bit of work, Father.
+
+RCLDN_RSC1_4 = ~z~You're wrong on two counts, sir.
+
+RCLDN_RSC1_5 = ~z~I'm a humble Brother.
+
+RCLDN_RSC1_6 = ~z~A penitent monk, not a priest...
+
+RCLDN_RSC1_7 = ~z~and you're a magnificent bit of work.
+
+RCLDN_RSC1_8 = ~z~You may have made some...
+
+RCLDN_RSC1_9 = ~z~some poor choices...
+
+RCLDN_RSC1_10 = ~z~but which of us hasn't?
+
+RCLDN_RSC1_11 = ~z~You have no idea.
+
+RCLDN_RSC1_12 = ~z~But you do...
+
+RCLDN_RSC1_13 = ~z~and God does, and that's enough for me...
+
+RCLDN_RSC1_14 = ~z~and for him.
+
+RCLDN_RSC1_15 = ~z~We shall see.
+
+RCLDN_RSC1_16 = ~z~That we shall, sir...
+
+RCLDN_RSC1_17 = ~z~but why don't you hedge your bets...
+
+RCLDN_RSC1_18 = ~z~and give two bits to the poor?
+
+RCLDN_RSC1_19 = ~z~There are so many who will go hungry tonight.
+
+RCLDN_RSC1_20 = ~z~A little can go such a long way.
+
+RCLDN_RSC1_21 = ~z~Every coin makes a difference in someone's life.
+
+RCLDN_RSC1_22 = ~z~I can see you're persuaded.
+
+RCLDN_RSC1_23 = ~z~I'm sorry.
+
+RCLDN_RSC1_24 = ~z~I've pressured you enough.
+
+RCLDN_RSC1_25 = ~z~I'm afraid I...
+
+RCLDN_RSC1_26 = ~z~I can't save the poor.
+
+RCLDN_RSC1_27 = ~z~Fair enough.
+
+RCLDN_RSC1_28 = ~z~You see, I've been poor...
+
+RCLDN_RSC1_29 = ~z~and charity...
+
+RCLDN_RSC1_30 = ~z~it never did anyone any good.
+
+RCLDN_RSC1_31 = ~z~I'm sure. What do I know?
+
+RCLDN_RSC1_32 = ~z~I'm just a fool making foolish choices myself.
+
+RCLDN_RSC1_33 = ~z~Sure.
+
+RCLDN_RSC1_34 = ~z~Bless you, sir.
+
+RCLDN_RSC1_35 = ~z~How you getting on, anyhow?
+
+RCLDN_RSC1_36 = ~z~These are a somewhat apathetic lot I'm afraid.
+
+RCLDN_RSC1_37 = ~z~My, umm...
+
+RCLDN_RSC1_38 = ~z~my mentor says that America...
+
+RCLDN_RSC1_39 = ~z~is designed to induce apathy in people.
+
+RCLDN_RSC1_40 = ~z~That's a wonderful insight.
+
+RCLDN_RSC1_41 = ~z~He must be a wise man, your mentor.
+
+RCLDN_RSC1_42 = ~z~Well sometimes he's a downright fool but...
+
+RCLDN_RSC1_43 = ~z~well...
+
+RCLDN_RSC1_44 = ~z~usually, he's the best man I know.
+
+RCLDN_RSC1_45 = ~z~That's wonderful.
+
+RCLDN_RSC1_46 = ~z~The, the thing is I'm...
+
+RCLDN_RSC1_47 = ~z~well, poverty will always be with us...
+
+RCLDN_RSC1_48 = ~z~but slavery, I-I thought we had banished that.
+
+RCLDN_RSC1_49 = ~z~But Saint Denis is acting as a staging post...
+
+RCLDN_RSC1_50 = ~z~for shipping slaves out to some of the islands.
+
+RCLDN_RSC1_51 = ~z~I don't believe you, it's 1899.
+
+RCLDN_RSC1_52 = ~z~Maybe you should have a look yourself.
+
+RCLDN_RSC1_53 = ~z~I've heard that the pawnbroker down the block...
+
+RCLDN_RSC1_54 = ~z~around the corner...
+
+RCLDN_RSC1_55 = ~z~the one with the green door...
+
+RCLDN_RSC1_56 = ~z~well they say he sells more than forlorn trinkets.
+
+RCLDN_RSC1_57 = ~z~Help the poor.
+
+RCLDN_RSC2_I1_1 = ~z~How about you open that door?
+
+RCLDN_RSC2_I1_2 = ~z~Door? What door?
+
+RCLDN_RSC2_I2_1 = ~z~The hidden door.
+
+RCLDN_RSC2_I2_2 = ~z~Or I'll open the hidden door in your chest!
+
+RCLDN_RSC2_I2_3 = ~z~They made me do it. I was always good to them, but they-they forced me to do it sir... I... swear.
+
+RCLDN_RSC2_I3_1 = ~z~Open the door, now!
+
+RCLDN_RSC2_I3_2 = ~z~Okay, okay! Just pull the big red book on the bookshelf.
+
+RCLDN_RSC2_I3_3 = ~z~It's called "The Scourge of Crossbreeding" by Harold MacDougal!
+
+RCLDN_RSC2_IG1A_1 = ~z~A bit of a strange question, but you heard tell of slavers 'round here, buddy?
+
+RCLDN_RSC2_IG1A_2 = ~z~What?
+
+RCLDN_RSC2_IG1C_1 = ~z~How about you open the door?
+
+RCLDN_RSC2_IG1C_2 = ~z~Door? What door?
+
+RCLDN_RSC2_IG1C_3 = ~z~The hidden door.
+
+RCLDN_RSC2_IG1C_4 = ~z~Or I'll open the hidden door in your chest!
+
+RCLDN_RSC2_IG1C_5 = ~z~They made me do it, sir. I always treat them good, but I was forced to do it, sir, I...
+
+RCLDN_RSC2_IG1C_6 = ~z~Open the door, now!
+
+RCLDN_RSC2_IG1C_7 = ~z~P-p-p-p-pull the big red book. It's called "The Scourge of Crossbreeding" by Harold MacDougal...
+
+RCLDN_RSC2_IG1D_1 = ~z~Something don't seem right...
+
+RCLDN_RSC2_IG3A_1 = ~z~~sl:2.1:0.0~Now don't worry, I'm on your side.
+
+RCLDN_RSC2_IG3A_2 = ~z~
+
+RCLDN_RSC2_IG3B_1 = ~z~~sl:0.0:3.8:1~Please, I'm on your side. It's going to be okay.
+
+RCLDN_RSC2_IG4_1 = ~z~Here. Take that, and come with me. I know someone who can help you.
+
+RCLDN_RSC3_1 = ~z~Brother...
+
+RCLDN_RSC3_2 = ~z~Brother Dorkins, friend.
+
+RCLDN_RSC3_3 = ~z~Arthur...
+
+RCLDN_RSC3_4 = ~z~Arthur Morgan.
+
+RCLDN_RSC3_5 = ~z~Come on.
+
+RCLDN_RSC3_6 = ~z~You were right...
+
+RCLDN_RSC3_7 = ~z~I found these two imprisoned in that shop.
+
+RCLDN_RSC3_8 = ~z~Oh, my...
+
+RCLDN_RSC3_9 = ~z~that's...
+
+RCLDN_RSC3_10 = ~z~well, they are blessed to have met you, Arthur.
+
+RCLDN_RSC3_11 = ~z~Trust me, in that they're very unusual...
+
+RCLDN_RSC3_12 = ~z~I don't think they speak much English.
+
+RCLDN_RSC3_13 = ~z~My brothers, come.
+
+RCLDN_RSC3_14 = ~z~Let's go get something to eat.
+
+RCLDN_RSC3_15 = ~t~In French: Eat...
+
+RCLDN_RSC3_16 = ~t~In Spanish: Food...
+
+RCLDN_RSC3_17 = ~z~Please.
+
+RCLDN_RSC3_18 = ~z~Hey, you forgot this.
+
+RCLDN_RSC3_19 = ~z~Oh, yes.
+
+RCLDN_RSC3_20 = ~z~Thank you, I...
+
+RCLDN_RSC3_21 = ~z~here.
+
+RCLDN_RSC3_22 = ~z~Payment...
+
+RCLDN_RSC3_23 = ~z~for your services.
+
+RCLDN_RSC3_24 = ~z~I could not have freed these men myself.
+
+RCLDN_RSC3_25 = ~z~Thank you, Brother.
+
+RCLDN_RSC3_26 = ~z~It's very kind of you.
+
+RCLDN_RSC3_27 = ~z~Be well, sir.
+
+RCLDN_RSC3_28 = ~z~Come see me again sometime.
+
+RCLDN_RSC3_29 = ~z~I often work at the old church...
+
+RCLDN_RSC3_30 = ~z~on Gaspar Street in St. Frances.
+
+RCLDN_RSC3_31 = ~z~Give it to the poor, Brother.
+
+RCLDN_RSC3_32 = ~z~Thank you, I will.
+
+RCLDN_RSC3_33 = ~z~Like I said, magnificent.
+
+RCLDN_RSC3_34 = ~z~Come on. Come, come, come.
+
+RCLDN_RSC3_35 = ~z~Come see me again sometime.
+
+RCLDN_RSC3_36 = ~z~I often work at the old church...
+
+RCLDN_RSC3_37 = ~z~on Gaspar Street in St. Frances.
+
+RCLDN_RSC3_LI_1 = ~z~Brother?
+
+RCLDN_RSC3_LI_2 = ~z~Brother Dorkins, friend.
+
+RCLDN_RSC3_LI_3 = ~z~Arthur. Arthur Morgan.
+
+RCLDN_RSC3_LI_4 = ~z~Come on.
+
+RCLDN_RSC4_1 = ~z~Sir.
+
+RCLDN_RSC4_2 = ~z~Brother Dorkins told me about the wonderful thing you did.
+
+RCLDN_RSC4_3 = ~z~He talks a lot of nonsense...
+
+RCLDN_RSC4_4 = ~z~no offense.
+
+RCLDN_RSC4_5 = ~z~None taken.
+
+RCLDN_RSC4_6 = ~z~None taken at all.
+
+RCLDN_RSC4_7 = ~z~Hey, stop!
+
+RCLDN_RSC4_8 = ~z~These kids, they're the worst.
+
+RCLDN_RSC4_9 = ~z~Don't hurt him, please!
+
+RCLDN_RSC4_IG1_1 = ~z~I hate this, it's too hard!
+
+RCLDN_RSC4_IG1_2 = ~z~Take your time.
+
+RCLDN_RSC4_IG1_3 = ~z~"I lick... I-I lick?"
+
+RCLDN_RSC4_IG1_4 = ~z~Like.
+
+RCLDN_RSC4_IG1_5 = ~z~"I like the soon... sooner..."
+
+RCLDN_RSC4_IG1_6 = ~z~Goddammit what does this even mean?
+
+RCLDN_RSC4_IG1_7 = ~z~Watch your language, please. "Summer." "Summer." "I like the summer."
+
+RCLDN_RSC4_IG1_8 = ~z~Don't worry. You know the letters, you know the sounds, you're nearly there!
+
+RCLDN_RSC4_IG1_9 = ~z~I got no use for stupid books.
+
+RCLDN_RSC4_IG1_10 = ~z~"I don't have any use for stupid books."
+
+RCLDN_RSC4_IG1_11 = ~z~If you ain't, why you making us do it?
+
+RCLDN_RSC4_IG1_12 = ~z~No, you should say, "I don't have any," not "I got no".
+
+RCLDN_RSC4_IG1_13 = ~z~I think you may be confusing things a little now, Brother Dorkins.
+
+RCLDN_RSC4_IG1_14 = ~z~Go over it first in your head. Take your time.
+
+RCLDN_RSC4_IG2A_1 = ~z~Are you ready to try out loud again?
+
+RCLDN_RSC4_IG2B_1 = ~z~The rest of you don't snigger. You're next.
+
+RCLDN_RSC4_IG2C_1 = ~z~Don't worry, you're doing very well.
+
+RCLDN_RSC4_IG2D_1 = ~z~I know it's difficult now, but it'll all be worth it, I promise.
+
+RCLDN_RSC4_IG2E_1 = ~z~Just relax...
+
+RCLDN_RSC4_IG2F_1 = ~z~Read on a little. Make the sounds first in your head.
+
+RCLDN_RSC4_IG2G_1 = ~z~There's no rush...
+
+RCLDN_RSC4_IG3A_1 = ~z~Oh no, my mother gave me that when I was a girl...
+
+RCLDN_RSC4_IG3B_1 = ~z~Would you try and get it back for me, please?
+
+RCLDN_RSC4_IG3C_1 = ~z~If he gets away I'll never see it again!
+
+RCLDN_RSC4_LI_A_1 = ~z~Try again, please... read.
+
+RCLDN_RSC4_LI_A_2 = ~z~It is m... w... m...
+
+RCLDN_RSC4_LI_A_3 = ~z~Por favor... it's warm, W, an upside down M.
+
+RCLDN_RSC4_LI_A_4 = ~z~I don't get it.
+
+RCLDN_RSC4_LI_A_5 = ~z~Oh, you will. It's like swimming, it takes time, but then it is easy...
+
+RCLDN_RSC4_LI_A_6 = ~z~and the whole world opens to you.
+
+RCLDN_RSC4_LI_B_1 = ~z~Sister, my friend, Mr. Morgan.
+
+RCLDN_RSC4_LI_B_2 = ~z~Oh...
+
+RCLDN_RSC6_1 = ~z~Mr. Morgan.
+
+RCLDN_RSC6_2 = ~z~Excuse me, Father...
+
+RCLDN_RSC6_3 = ~z~Sister...
+
+RCLDN_RSC6_4 = ~z~I got your cross.
+
+RCLDN_RSC6_5 = ~z~You didn't!
+
+RCLDN_RSC6_6 = ~z~No, I did.
+
+RCLDN_RSC6_7 = ~z~I hope the boy...
+
+RCLDN_RSC6_8 = ~z~He's fine...
+
+RCLDN_RSC6_9 = ~z~physically...
+
+RCLDN_RSC6_10 = ~z~mentally he's a piece of work but...
+
+RCLDN_RSC6_11 = ~z~who am I to say...
+
+RCLDN_RSC6_12 = ~z~Brother Dorkins was right about you...
+
+RCLDN_RSC6_13 = ~z~you are the most wonderful man.
+
+RCLDN_RSC6_14 = ~z~Brother Dorkins is...
+
+RCLDN_RSC6_15 = ~z~greatly deceived I'm afraid, but...
+
+RCLDN_RSC6_16 = ~z~I'm happy to help a little.
+
+RCLDN_RSC6_17 = ~z~Thank you...
+
+RCLDN_RSC6_18 = ~z~you see it's a thing, but...
+
+RCLDN_RSC6_19 = ~z~my mother gave it to me when I was a novice...
+
+RCLDN_RSC6_20 = ~z~shortly before she passed.
+
+RCLDN_RSC6_21 = ~z~You are the most wonderful man.
+
+RCLDN_RSC6_22 = ~z~Excuse me, Father...
+
+RCLDN_RSC6_23 = ~z~Sister...
+
+RCLDN_RSC6_24 = ~z~enjoy your day.
+
+RCLDN_RSC6_25 = ~z~See, Father...
+
+RCLDN_RSC6_IG1_1 = ~z~Every day, it's a new challenge, Father.
+
+RCLDN_RSC6_IG1_2 = ~z~When I was younger, those challenges used to frustrate me,
+
+RCLDN_RSC6_IG1_3 = ~z~but then over time I learned to ask "how" instead of "why."
+
+RCLDN_RSC6_IG1_4 = ~z~Often, the people that are most in need of our help, are the most resistant to it.
+
+RCLDN_RSC6_IG1_5 = ~z~But that's not a reason to give up on them, n-n-no. Much the opposite.
+
+RCLDN_RSC6_IG1_6 = ~z~If we seek gratitude and recognition...
+
+RCLDN_RSC6_IG1_7 = ~z~that allows... will, and our own needs, to take the place of sacrifice...
+
+RCLDN_RSC6_IG1_8 = ~z~And after all, isn't that the problem of most charities today?
+
+RCLDN_RSC6_IG1_9 = ~z~It's more about the giver feeling better about himself, than the good of the receiver.
+
+RCLDN_RSC6_IG1_10 = ~z~Perhaps... but then should they not give at all?
+
+RCLDN_RSC6_IG1_11 = ~z~None of us are perfect, or, purely driven by good.
+
+RCLDN_RSC6_IG1_12 = ~z~Not even you, Sister Calderon.
+
+RCLDN_RSC6_LI_A_1 = ~z~And how is Brother Dorkins, by the way? I worry about that one.
+
+RCLDN_RSC6_LI_A_2 = ~z~I feel, Father, Brother Dorkins is a simple soul,
+
+RCLDN_RSC6_LI_A_3 = ~z~and sometimes a little abrupt in his methods.
+
+RCLDN_RSC6_LI_A_4 = ~z~But what a soul! What fire! What truth burns in him.
+
+RCLDN_RSC6_LI_A_5 = ~z~He's... he's the one I want alongside when darkness comes.
+
+RCLDN_RSC6_LI_B_1 = ~z~~sl:0.0:1.0:1~Mr. Morgan!
+
+RCLDN_RSC6_LI_B_2 = ~z~Excuse me, Father...
+
+RCLDN_RSC6_LI_B_3 = ~z~Sister,
+
+RCLDN_RSC6_LI_B_4 = ~z~I got your cross.
+
+RCLDN_RSC6_LI_B_5 = ~z~~sl:0.6:1.1:1~You didn't!
+
+RCLDN_RSC6_LI_B_6 = ~z~~sl:0.0:1.0:1~No, I did.
+
+RCLDN_RSC6_LI_B_7 = ~z~~sl:0.7:1.1:1~I hope the boy...
+
+RCLDN_RSC6_LO_1 = ~z~Brother Dorkins found him...
+
+RCLDN_RSC6_LO_2 = ~z~I told you...
+
+RCLDN_RSC6_LO_3 = ~z~Brother Dorkins was fantastic.
+
+RCLDN_RSC_5_1 = ~z~Hey...
+
+RCLDN_RSC_5_2 = ~z~you want some company, mister?
+
+RCLDN_RSC_5_3 = ~z~No.
+
+RCLDN_RSC_5_4 = ~z~You sure?
+
+RCLDN_RSC_5_5 = ~z~Hey...
+
+RCLDN_RSC_5_6 = ~z~What?
+
+RCLDN_RSC_5_7 = ~z~I know you.
+
+RCLDN_RSC_5_8 = ~z~Mrs. Downes?
+
+RCLDN_RSC_5_9 = ~z~Oh, no. Not you.
+
+RCLDN_RSC_5_10 = ~z~Get away.
+
+RCLDN_RSC_5_11 = ~z~How, I mean...~n~~m~ Now.
+
+RCLDN_RSC_5_12 = ~z~Hey...~n~~m~Help.
+
+RCLDN_RSC_5_13 = ~z~Help.
+
+RCLDN_RSC_5_14 = ~z~Hold on...
+
+RCLDN_RSC_5_15 = ~z~This man is bothering me.
+
+RCLDN_RSC_5_16 = ~z~Now...
+
+RCLDN_RSC_5_17 = ~z~Someone help me.
+
+RCLDN_RSC_5_18 = ~z~Officer, help!
+
+RCLDN_S2MEET_1 = ~z~Come see me again some time. I often work at the old church on Gaspar Street in St. Frances.
+
+RCLDN_S2_IG4_AR_1 = ~z~You alright?
+
+RCLDN_S2_IG4_AR_2 = ~z~Oh, I'll live.
+
+RCLDN_S2_IG4_AR_3 = ~z~A kid did this?
+
+RCLDN_S2_IG4_AR_4 = ~z~You know him?
+
+RCLDN_S2_IG4_AR_5 = ~z~He robbed me... which way he go?
+
+RCLDN_S2_IG4_AR_6 = ~z~That way... I think... oh, damn...
+
+RCLDN_S2_IG4_AR_7 = ~z~Thank you.
+
+RCLDN_S2_IG4_A_1 = ~z~~sl:0.0:1.5:1~You little bastards...
+
+RCLDN_S2_IG4_C_1 = ~z~~sl:0.0:3.6:1~Not even a sorry? Oh, you damn hoodlums...
+
+RCLDN_S2_IG5_AG_1 = ~z~Hey, you! Get your hands off of that boy right now.
+
+RCLDN_S2_IG5_AG_2 = ~z~He stole my watch.
+
+RCLDN_S2_IG5_AG_3 = ~z~Right now, before I smash your head into that wall.
+
+RCLDN_S2_IG5_AG_4 = ~z~Alright, alright! Forget it. Little shit ain't even worth it.
+
+RCLDN_S2_IG5_AG_5 = ~z~Thanks, mister!
+
+RCLDN_S2_IG5_AG_6 = ~z~You got lucky this time, kid.
+
+RCLDN_S2_IG5_GR_1 = ~z~Hey you, why don't you leave the boy alone?
+
+RCLDN_S2_IG5_GR_2 = ~z~What's it to do with you?
+
+RCLDN_S2_IG5_GR_3 = ~z~I can hit a lot harder than you, I promise you that.
+
+RCLDN_S2_IG5_GR_4 = ~z~Alright, forget it. Little shit ain't even worth my time.
+
+RCLDN_S2_IG5_GR_5 = ~z~Thanks, mister.
+
+RCLDN_S2_IG5_GR_6 = ~z~
+
+RCLDN_S2_IG5_I1_1 = ~z~
+
+RCLDN_S2_IG5_KS_1 = ~z~
+
+RCLDN_S2_IG5_P1_1 = ~z~Get off me!
+
+RCLDN_S2_IG5_P1_2 = ~z~Where's my watch, you little weasel?
+
+RCLDN_S2_IG5_P1_3 = ~z~I don't know nothing about no damn watch!
+
+RCLDN_S2_IG5_P1_4 = ~z~Last Saturday, I saw you steal it with my own two eyes!
+
+RCLDN_S2_IG5_P1_5 = ~z~Maybe your eyes don't work so good no more.
+
+RCLDN_S2_IG5_P1_6 = ~z~You kids, you're nothing but trash!
+
+RCLDN_S2_IG5_P1_7 = ~z~Your breath smells like hot dog shit, mister.
+
+RCLDN_S2_IG5_P1_8 = ~z~I'll smash your dirty little face in!
+
+RCLDN_S2_IG5_P2_1 = ~z~Help, this man's trying to touch me!
+
+RCLDN_S2_IG5_P2_2 = ~z~Shut up and give me my watch now!
+
+RCLDN_S2_IG5_P2_3 = ~z~He's trying to put his hand down my pants!
+
+RCLDN_S2_IG5_P2_4 = ~z~I'll kill you!
+
+RCLDN_S2_IG5_P2_5 = ~z~
+
+RCLDN_S2_IG5_PN_1 = ~z~
+
+RCLDN_S2_IG5_PN_2 = ~z~Thanks, mister!
+
+RCLDN_S2_IG5_ST_1 = ~z~Stay out of this, it's none of your damn business!
+
+RCLDN_SHOCKC1_01 = ~t~In Spanish: What are you doing?
+
+RCLDN_SHOCKC1_02 = ~t~In Spanish: Shit!
+
+RCLDN_SHOCKC2_01 = ~t~In Spanish: No, please!
+
+RCLDN_SHOCKC2_02 = ~t~In Spanish: My god!
+
+RCLDN_SHOP_CHSE_01 = ~z~Stay away from me.
+
+RCLDN_SHOP_CHSE_02 = ~z~This man is trying to rob me!
+
+RCLDN_SHOP_CHSE_03 = ~z~Please! They made me do it.
+
+RCLDN_SHOP_FEAR_01 = ~t~In French: My God.
+
+RCLDN_SHOP_FEAR_02 = ~t~In French: Shit.
+
+RCLDN_SHOP_FEAR_03 = ~z~No, please.
+
+RCLDN_SHOP_ROB_1 = ~z~Come on. You don't have to clean me out.
+
+RCLDN_SHOP_WEP_01 = ~z~Why do you have that weapon out?
+
+RCLDN_SHOP_WEP_02 = ~z~I must ask you to put that weapon away, monsieur.
+
+RCLDN_SLBANT_1 = ~t~In Spanish: Who's this man?
+
+RCLDN_SLBANT_2 = ~t~In Spanish: I don't know. We're free, and that's what matters. We've got to trust him.
+

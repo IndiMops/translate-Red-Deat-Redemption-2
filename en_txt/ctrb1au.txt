@@ -1,0 +1,22 @@
+CTRB1_ACTION_1 = ~z~Hello, Arthur.
+
+CTRB1_ACTION_2 = ~z~So, you're back.
+
+CTRB1_ACTION_3 = ~z~I bumped into Bill in Annesburg. You okay?
+
+CTRB1_ACTION_4 = ~z~Sure.
+
+CTRB1_ACTION_5 = ~z~How were the tropics?
+
+CTRB1_ACTION_6 = ~z~We got half drowned, arrested, shot at, arrested again, rescued, tortured... and half-eaten by bugs.
+
+CTRB1_ACTION_7 = ~z~That good, eh?
+
+CTRB1_ACTION_8 = ~z~Exactly.
+
+CTRB1_ACTION_9 = ~z~Listen... things here... is everything okay? People seem... odd.
+
+CTRB1_ACTION_10 = ~z~Well... we got the law hot on our tail, things... things ain't great.
+
+CTRB1_ACTION_11 = ~z~Hm... I'm sorry to hear that... I'll see what I can do.
+

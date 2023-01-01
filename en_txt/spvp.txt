@@ -1,0 +1,6 @@
+VP_UC_NEG = Antagonize
+
+VP_UC_POS = Defuse
+
+VP_UC_TALK = Talk
+

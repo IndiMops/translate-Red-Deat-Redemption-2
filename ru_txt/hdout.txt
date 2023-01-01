@@ -1,0 +1,40 @@
+FETCH_HIDEOUT_CTX_SPARE_ENEMY = Пощадить
+
+FETCH_HIDEOUT_HELP_HONOR_WARNING = Главарь ~1b~ сдался. Выберите главаря, удерживая ~INPUT_INTERACT_LOCKON~ и нажмите ~INPUT_CONTEXT_X~, если хотите пощадить его. За убийство главаря у вас понизится честь.
+
+FETCH_HIDEOUT_HELP_INTRO = Главарь ~1b~ сдастся, если вы убьете всех врагов.
+
+FETCH_HIDEOUT_HELP_NEARBY = Зачистите логово банды ~1b~, устранив всех врагов.
+
+FETCH_HIDEOUT_HELP_REMOTE_PLAYER_STARTED_MISSION = Игрок ~1~ начал зачистку логова ~2b~. Встретьтесь с этим игроком, чтобы тоже принять участие.
+
+FETCH_HIDEOUT_OBJ_DESTROY = Устраните ~COLOR_ENEMY~врагов~s~.
+
+FETCH_HIDEOUT_OBJ_KILL_ATTACKERS = Убейте ~COLOR_ENEMY~главаря~s~.
+
+FETCH_HIDEOUT_OBJ_LOOT = Убейте или пощадите ~COLOR_MP_OBJECTIVE~главаря~s~.
+
+FETCH_HIDEOUT_SCORETIMER_LEADER_KILL = Игрок ~1~ убил главаря банды
+
+FETCH_HIDEOUT_SCORETIMER_LEADER_KILL_NP = Главарь банды убит
+
+FETCH_HIDEOUT_SCORETIMER_LEADER_KILL_YOU = Вы убили главаря банды
+
+FETCH_HIDEOUT_SCORETIMER_LEADER_KO = Игрок ~1~ вырубил главаря банды
+
+FETCH_HIDEOUT_SCORETIMER_LEADER_KO_NP = Главарь банды вырублен
+
+FETCH_HIDEOUT_SCORETIMER_LEADER_KO_YOU = Вы вырубили главаря банды
+
+FETCH_HIDEOUT_SCORETIMER_LEADER_SPARE = Игрок ~1~ пощадил главаря банды
+
+FETCH_HIDEOUT_SCORETIMER_LEADER_SPARE_NP = Главарю банды дана пощада
+
+FETCH_HIDEOUT_SCORETIMER_LEADER_SPARE_YOU = Вы пощадили главаря банды
+
+FETCH_HIDEOUT_SHARD_DESC_PRIMARY = Зачистите ~COLOR_ENEMY~вражеское логово~s~
+
+FETCH_HIDEOUT_SHARD_OVER_ABANDON = Логово покинуто
+
+FETCH_HIDEOUT_SHARD_PRIMARY_PASS = Логово зачищено
+

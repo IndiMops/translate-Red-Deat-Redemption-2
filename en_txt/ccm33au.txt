@@ -1,0 +1,20 @@
+CCM33_ACTION_1 = ~z~Listen, folks... Abigail... all of you...
+
+CCM33_ACTION_2 = ~z~Know times are tough, but with Cleet and Joe riding with us now, Dutch will see us home.
+
+CCM33_ACTION_3 = ~z~See us safe... I get why you folks is worried... I do... but we got a plan.
+
+CCM33_ACTION_4 = ~z~We're gonna be okay... now ain't the time for all this... doubting.
+
+CCM33_ACTION_5 = ~z~The truth is... the truth is, you're breaking Dutch's heart.
+
+CCM33_ACTION_6 = ~z~And I cannot bear watching what you're doing to him.
+
+CCM33_ACTION_7 = ~z~Shame on you, shame on all of you!
+
+CCM33_ACTION_8 = ~z~Just be quiet will you? Goddamn it, be quiet!
+
+CCM33_ACTION_9 = ~z~No, you be quiet, you fat fool. You be quiet!
+
+CCM33_ACTION_10 = ~z~The quiet are the dead.
+

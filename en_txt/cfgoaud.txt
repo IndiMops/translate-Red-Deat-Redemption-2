@@ -1,0 +1,240 @@
+ODR_BOFLEEFEUDB_1 = ~z~Just leave him. I think he shat his pants.
+
+ODR_BOFLEERUCKB_1 = ~z~Yellow bastard's running away.
+
+ODR_BOLEAVE1A_1 = ~z~Hey, you. You get outta here. We don't like spies 'round here.
+
+ODR_BOLEAVE1B_1 = ~z~You there, move your ass!
+
+ODR_BOLEAVE1C2_1 = ~z~We see you over there. Now back off real slow.
+
+ODR_BOLEAVE1C_1 = ~z~Hey, you. Get outta here, or you'll get bushwhacked.
+
+ODR_BOLEAVE1D_1 = ~z~Who's there? You come one step closer and we'll kill ya dead.
+
+ODR_BOLEAVE2A_1 = ~z~We stone cold killers. We ain't going to warn you again.
+
+ODR_BOLEAVE2B_1 = ~z~You hear me? You're gonna get shot up.
+
+ODR_BOLEAVE2C_1 = ~z~Go now, you don't want a running race with a bullet.
+
+ODR_BOLEAVE2D_1 = ~z~What the hell's wrong with ya? We shoot interlopers.
+
+ODR_BOLEAVE3A_1 = ~z~This one's got a death wish. Oblige him.
+
+ODR_BOLEAVE3B_1 = ~z~Silly son of a bitch, alright!
+
+ODR_BOLEAVE3C_1 = ~z~You are plumb outta warnings, boy!
+
+ODR_BOLEAVE3D_1 = ~z~Okay, let's just drop the son of a bitch.
+
+ODR_DISC_FEUD_A_01 = ~z~Ah, it's Dutch's boy. Make an example of that fool.
+
+ODR_DISC_FEUD_B_1 = ~z~Leave him. I think he shat his pants.
+
+ODR_DISC_PLYR_A_1 = ~z~Who's there? You come one step closer and we'll kill you dead.
+
+ODR_DISC_PLYR_B_1 = ~z~Okay. Let's just drop the son of a bitch!
+
+ODR_DISC_PLYR_C_1 = ~z~Yellow bastard's run away.
+
+ODR_GACLEAR_01 = ~z~You're a dumb old bunch, ain't ya?
+
+ODR_GACLEAR_02 = ~z~That it, you bastards? Shit.
+
+ODR_ILO_GAANT_01 = ~z~Know what, I got plans, buddy. And leaving here ain't one of them.
+
+ODR_ILO_GAANT_02 = ~z~Sorry, if I find an O'Driscoll, I ain't gonna just leave him like that.
+
+ODR_ILO_GACAL_01 = ~z~Don't you all look stupid?
+
+ODR_ILO_GACAL_02 = ~z~If you all hiding out, you ain't doing it well.
+
+ODR_ILO_GADEF_01 = ~z~Okay, okay, I'll be on my way.
+
+ODR_ILO_GADEF_02 = ~z~Yes, sir. I'll be off right now.
+
+ODR_ILO_GAGRT_01 = ~z~What you fellers doing?
+
+ODR_ILO_GAGRT_02 = ~z~Now, who we got here?
+
+ODR_ILO_PAANT_01 = ~z~I was hoping you'd get your hackles up. Idiots.
+
+ODR_ILO_PAANT_02 = ~z~The tough guy act ain't convincing, feller. Not at all.
+
+ODR_ILO_PACAL_01 = ~z~Guess even two-bit outlaws need a rest.
+
+ODR_ILO_PACAL_02 = ~z~Never seen so many idiots around one campfire.
+
+ODR_ILO_PADEF_01 = ~z~Okay. Alright. I'll be on my way.
+
+ODR_ILO_PADEF_02 = ~z~If you're gonna be like that, I'll head off, okay?
+
+ODR_ILO_PAGRT_01 = ~z~Ain't this a cozy fireside scene.
+
+ODR_ILO_PAGRT_02 = ~z~Look at you all, talking round the campfire.
+
+ODR_ILO_RAANT_01 = ~z~That's tough talk, but I ain't going anywhere now.
+
+ODR_ILO_RAANT_02 = ~z~Know what, you got me curious. I can't just leave it like that.
+
+ODR_ILO_RACAL_01 = ~z~I heard your plan, it sounds dumb.
+
+ODR_ILO_RACAL_02 = ~z~You all meeting to decide who's the stupidest?
+
+ODR_ILO_RADEF_01 = ~z~Whoa. Okay. I'll go. Easy there.
+
+ODR_ILO_RADEF_02 = ~z~Relax. I'll back off, you can carry on.
+
+ODR_ILO_RAGRT_01 = ~z~Y'all plotting something here?
+
+ODR_ILO_RAGRT_02 = ~z~Need my advice on any of this?
+
+ODR_PACLEAR_01 = ~z~Guess it's my camp now.
+
+ODR_PACLEAR_02 = ~z~If only they'd been friendly.
+
+ODR_PLANB1_0_1 = ~z~Alright, we'll go in the back, then we come out the front. They'll never expect it.
+
+ODR_PLANB1_0_2 = ~z~Come out the front?
+
+ODR_PLANB1_1_1 = ~z~That's where the deputies is.
+
+ODR_PLANB1_2_1 = ~z~Then we go in the front and come out the back, then.
+
+ODR_PLANB1_2_2 = ~z~Or...
+
+ODR_PLANB1_3_1 = ~z~We go in the back, and come out the back.
+
+ODR_PLANB1_4_1 = ~z~But then we going back on ourselves.
+
+ODR_PLANB1_4_2 = ~z~Front, back, sideways, dressed up as hogs, make a damn decision.
+
+ODR_PLANB1_7_1 = ~z~Alright, I got it... I got it, we go in the back, and then send you out front to meet the deputy.
+
+ODR_PLANB1_8_1 = ~z~Alright... okay... hold on a sec', that's gonna get my toes curled up.
+
+ODR_PLANB1_9_1 = ~z~You got a problem with that? 'Cos you in the wrong gang if you do.
+
+ODR_PLANB1_10_1 = ~z~I don't have a problem with getting curled up... I'd just rather not.
+
+ODR_PLANB1_11_1 = ~z~Call yourself a man?
+
+ODR_PLANB1_11_2 = ~z~More a man than you ever was.
+
+ODR_PLANB1_13_1 = ~z~
+
+ODR_PLANB1_13_2 = ~z~Alright, if you're too yellow, I guess we get back to planning, then.
+
+ODR_PLANB1_14_1 = ~z~You got us a plan yet? Or you just letting out gas?
+
+ODR_PLANB1_14_2 = ~z~Quit your hollering!
+
+ODR_PLANB1_14_3 = ~z~We ain't got a plan, we're just gonna wing it. Now everyone bunk down for the night.
+
+ODR_PLANB1_16_1 = ~z~I said, bunk down.
+
+ODR_PLANB1_16_2 = ~z~Alright, alright, I heard ya.
+
+ODR_PLANB2_0_1 = ~z~Right here. That's where we dry gulch 'em.
+
+ODR_PLANB2_1_1 = ~z~How we going to get 'em to stop?
+
+ODR_PLANB2_2_1 = ~z~The usual way, with a six shooter.
+
+ODR_PLANB2_3_1 = ~z~W-what if they keep on going? Or if they speed up when they see the iron?
+
+ODR_PLANB2_3_2 = ~z~Well, shit, I don't know.
+
+ODR_PLANB2_5_1 = ~z~How 'bout you do your planning with your traps closed, eh?
+
+ODR_PLANB2_6_1 = ~z~Wait, I got-I got an idea... what if one of us would lay in the road and pretend to be sick-like?
+
+ODR_PLANB2_7_1 = ~z~These killers ain't gonna stop for no invalid. They don't want no consumption.
+
+ODR_PLANB2_8_1 = ~z~Well, they might not stop for you and me, but they might stop for a lady.
+
+ODR_PLANB2_9_1 = ~z~Where are we gonna find a lady?
+
+ODR_PLANB2_10_1 = ~z~Well, you're about the right size?
+
+ODR_PLANB2_11_1 = ~z~You are gonna take that back.
+
+ODR_PLANB2_11_2 = ~z~Look, I think you just might look good in a dress, is all.
+
+ODR_PLANB2_13_1 = ~z~If you fellers don't like the plan, then we can think on something else.
+
+ODR_PLANB2_14_1 = ~z~If I gotta to hear one more idiot idea out your mouths...
+
+ODR_PLANB2_14_2 = ~z~Hey! What you hollering for?
+
+ODR_PLANB2_14_3 = ~z~Ain't these boys faults they're as dumb as rocks.
+
+ODR_PLANB2_16_1 = ~z~Now let's get some shut eye, we'll figure this out in the morning.
+
+ODR_PLANB2_16_2 = ~z~Alright. We'll leave it.
+
+ODR_POLIB1_0_1 = ~z~All I'm saying... is that just 'cos Colm says we gotta do something, doesn't mean we gotta do it.
+
+ODR_POLIB1_1_1 = ~z~Colm says stay off the drink,
+
+ODR_POLIB1_1_2 = ~z~says, stay off the whoring.
+
+ODR_POLIB1_2_1 = ~z~Stay outta Valentine.
+
+ODR_POLIB1_3_1 = ~z~Well... shit! Maybe we don't want to.
+
+ODR_POLIB1_4_1 = ~z~Maybe we wanna get our peckers pulled.
+
+ODR_POLIB1_4_2 = ~z~
+
+ODR_POLIB1_4_3 = ~z~And maybe... maybe this gang's too big for one man to get all dictational.
+
+ODR_POLIB1_5_1 = ~z~We ain't no O'Driscoll boys, fellers. We men.
+
+ODR_POLIB1_5_2 = ~z~Ah, shut up.
+
+ODR_POLIB1_5_3 = ~z~
+
+ODR_POLIB1_7_1 = ~z~Colm's got a hold on you boys, I ain't never gonna understand.
+
+ODR_POLIB1_7_2 = ~z~The clue's in the name, fool. Colm O'Driscoll. We O'Driscoll boys.
+
+ODR_POLIB1_9_1 = ~z~Let me get this right. All this expostulating... is just so you can get your prick teased more regular? Huh?
+
+ODR_POLIB1_9_2 = ~z~Why, you're dumber than I thought.
+
+ODR_POLIB1_10_1 = ~z~Hey, one man's dumb is another man's free thinker.
+
+ODR_POLIB1_10_2 = ~z~Or so I been told.
+
+ODR_POLIB2_0_1 = ~z~Look, I get it. Orders is orders.
+
+ODR_POLIB2_0_2 = ~z~But what's an order to an orderer, if the orderer a-ain't sure that order being followed? You get me?
+
+ODR_POLIB2_1_1 = ~z~Like, if a bear falls in the woods, there ain't no one to see. Or-or like...
+
+ODR_POLIB2_1_2 = ~z~If there's some fellers in the woods, a-and they've been drinking and they come across some ladies...
+
+ODR_POLIB2_1_3 = ~z~there ain't no one there to see, or-or not hear nothing...
+
+ODR_POLIB2_2_1 = ~z~Well, shit, it didn't happen, you see?
+
+ODR_POLIB2_2_2 = ~z~I see you better shut your trap.
+
+ODR_POLIB2_2_3 = ~z~
+
+ODR_POLIB2_4_1 = ~z~Well, I see you fellers just don't wanna think philosophical on the subject.
+
+ODR_POLIB2_4_2 = ~z~You ain't thinking philosophical. You thinking with your pecker.
+
+ODR_POLIB2_6_1 = ~z~And besides. We'd be there to see the goings on. And so would the strumpets.
+
+ODR_POLIB2_6_2 = ~z~So it would happen, even by your horn-dog reasoning.
+
+ODR_POLIB2_7_1 = ~z~Least I'm reasoning, not just sitting there bored out my skull.
+
+ODR_RACLEAR_01 = ~z~O'Driscolls, was you?
+
+ODR_RACLEAR_02 = ~z~That all of you? Shit.
+

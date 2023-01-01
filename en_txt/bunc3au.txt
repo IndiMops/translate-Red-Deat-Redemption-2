@@ -1,0 +1,8 @@
+BCUNC3_ACT_1 = ~z~How about some... refreshment for the workers?
+
+BCUNC3_ACT_2 = ~z~Something cold and intoxicating to... keep our spirits up.
+
+BCUNC3_ACT_3 = ~z~Plenty of time for that later.
+
+BCUNC3_ACT_4 = ~z~Oh, you're a goddamn tyrant, Marston.
+

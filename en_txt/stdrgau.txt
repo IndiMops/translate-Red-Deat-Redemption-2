@@ -1,0 +1,246 @@
+STDRG_DOC_A_1 = ~z~Ah, hello again. How are you feeling?
+
+STDRG_DOC_A_2 = ~z~Worse, like you said I would.
+
+STDRG_DOC_A_3 = ~z~Well, what can I get for you? Another shot maybe?
+
+STDRG_DOC_BH_1 = ~z~Oh hello, I was hoping you'd be in a sanatorium somewhere out west by now.
+
+STDRG_DOC_BH_2 = ~z~I got people who need me here.
+
+STDRG_DOC_BH_3 = ~z~Okay, well, don't leave it too long... please. So what can I get for you?
+
+STDRG_DOC_BL_1 = ~z~Oh hello, I was hoping you'd be in a sanatorium somewhere out west by now.
+
+STDRG_DOC_BL_2 = ~z~I need money for that.
+
+STDRG_DOC_BL_3 = ~z~Okay, well, don't leave it too long... please. So what can I get for you?
+
+STDRG_DOC_C_1 = ~z~Hey there friend, how are you? Are you staying here in the city?
+
+STDRG_DOC_C_2 = ~z~No, just passing through, I'm staying up in Roanoke Ridge.
+
+STDRG_DOC_C_3 = ~z~Well, the air's a little drier up there at least.
+
+STDRG_DOC_C_4 = ~z~Oh yes it's idyllic...
+
+STDRG_DOC_C_5 = ~z~So, what can I do for you today?
+
+STDRG_DOC_D_1 = ~z~Ah, hello again. How are you holding up?
+
+STDRG_DOC_D_2 = ~z~So, so.
+
+STDRG_DOC_D_3 = ~z~You're always here alone... do you have anyone to look after you?
+
+STDRG_DOC_D_4 = ~z~Some, I guess. Mostly people coming after me.
+
+STDRG_DOC_D_5 = ~z~Oh dear, well, what can I get for you?
+
+STDRG_DOC_E_1 = ~z~Well, hello again. You don't look so good. Are you getting enough rest?
+
+STDRG_DOC_E_2 = ~z~Rest? Not much chance of that.
+
+STDRG_DOC_E_3 = ~z~You really must... so how can I help you? A shot perhaps?
+
+STDRG_DOC_F_1 = ~z~Oh hello, you're still here.
+
+STDRG_DOC_F_2 = ~z~Still alive, you mean?
+
+STDRG_DOC_F_3 = ~z~No, no, I mean in Saint Denis.
+
+STDRG_DOC_F_4 = ~z~Just passing through.
+
+STDRG_DOC_F_5 = ~z~Are you here for another shot or something else?
+
+STDRG_DOC_F_6 = ~z~Well, you just let me know.
+
+STDRG_FANBAR_SK_1 = ~z~Oh hello again, sir. How are things? You look a little... unwell.
+
+STDRG_FANBAR_SK_2 = ~z~Just a cough, nothing too serious.
+
+STDRG_FANBAR_SK_3 = ~z~Well, that's good news. Let me know what I can get you.
+
+STDRG_FBAR_MOB1_1 = ~z~Oh I remember you...
+
+STDRG_FBAR_MOB1_2 = ~z~~sl:0.0:3.3~I hope you took my advice and forgot all about that matter~sl:~that you were enquiring on when you were last in here?
+
+STDRG_FBAR_MOB1_3 = ~z~For sure. I know when to leave something well alone.
+
+STDRG_FBAR_MOB1_4 = ~z~Good, well, let me know if you need anything.
+
+STDRG_GUNPKR_1A_1 = ~z~Oh no, what do you want now?
+
+STDRG_GUNPKR_1A_2 = ~z~I was just trying to make some extra money with that poker room.
+
+STDRG_GUNPKR_1A_3 = ~z~So was I.
+
+STDRG_GUNPKR_1A_4 = ~z~Well, they closed it down, so I'd appreciate it if you'd either buy something or leave me alone.
+
+STDRG_GUNPKR_1A_5 = ~z~All in the past now.
+
+STDRG_GUNPKR_1J_1 = ~z~Oh no, what do you want now?
+
+STDRG_GUNPKR_1J_2 = ~z~I was just trying to make some extra money with that poker room.
+
+STDRG_GUNPKR_1J_3 = ~z~So was I.
+
+STDRG_GUNPKR_1J_4 = ~z~Well, they closed it down, so I'd appreciate it if you either buy something, or you leave me alone.
+
+STDRG_GUNPKR_1J_5 = ~z~All in the past now.
+
+STDRG_GUNPKR_2A_1 = ~z~Oh, it's you again.
+
+STDRG_GUNPKR_2A_2 = ~z~Are you here to buy something or just to cause me trouble?
+
+STDRG_GUNPKR_2A_3 = ~z~I thought we'd moved on from that?
+
+STDRG_GUNPKR_2A_4 = ~z~Well, I suppose that's up to you.
+
+STDRG_GUNPKR_2J_1 = ~z~Oh, it's you again.
+
+STDRG_GUNPKR_2J_2 = ~z~Are you here to buy something or just to cause me trouble?
+
+STDRG_GUNPKR_2J_3 = ~z~I thought we'd moved on from that?
+
+STDRG_GUNPKR_2J_4 = ~z~Well, I suppose that's up to you. You can not blame me for being a little wary.
+
+STDRG_GUNSICK_1 = ~z~How are you, sir? You don't look so good.
+
+STDRG_GUNSICK_2 = ~z~Is that how you greet all your customers?
+
+STDRG_GUNSICK_3 = ~z~Sorry, no, how can I help you?
+
+STDRG_LILPLY_BR_01 = ~z~I apologize for the noise, sir. She's had one too many.
+
+STDRG_LILPLY_BR_02 = ~z~Pay no attention to the lady over there. She'll run out of steam eventually.
+
+STDRG_LILPLY_BR_03 = ~z~Sorry about the racket, she's overdone it on the champagne again.
+
+STDRG_LILPLY_BR_04 = ~z~Sorry about the obnoxious drunk over there. I'm hoping she'll leave soon.
+
+STDRG_LIVSICK_1_2 = ~z~I'm fine, don't you worry about me.
+
+STDRG_LIVSICK_2_1 = ~z~Hey there, mister. You okay?
+
+STDRG_LIVSICK_2_2 = ~z~You don't look so good.
+
+STDRG_LIVSICK_2_3 = ~z~You worry about your horses, not me.
+
+STDRG_LIVSICK_2_4 = ~z~Alright, none of my business.
+
+STDRG_LIVSICK_3_1 = ~z~You, er, come down with something there, partner?
+
+STDRG_LIVSICK_3_2 = ~z~Some bad flu going around.
+
+STDRG_LIVSICK_3_3 = ~z~It's just a cough.
+
+STDRG_LIVSICK_3_4 = ~z~Well, unfortunately you ain't a horse so I can't help you with that. But what can I help you with?
+
+STDRG_NEARCHF_01 = ~z~You alright there?
+
+STDRG_NEARCHF_02 = ~z~Hello there?
+
+STDRG_NEARCHF_03 = ~z~You need something, friend?
+
+STDRG_NEARCHF_04 = ~z~Okay there, sir?
+
+STDRG_NEARCHF_05 = ~z~How are you doing there?
+
+STDRG_NEARCHF_06 = ~z~Something you need, sir?
+
+STDRG_NEARCHF_07 = ~z~Everything alright, sir?
+
+STDRG_NEARCHF_08 = ~z~How are you, sir?
+
+STDRG_SBARPLY_B_1 = ~z~You were in here with that other feller and the blonde lady, weren't you?
+
+STDRG_SBARPLY_B_2 = ~z~Talking about Colm O'Driscoll? I hear that hanging turned into a real mess.
+
+STDRG_SBARPLY_B_3 = ~z~Yeah, I read something about that.
+
+STDRG_SBARPLY_B_4 = ~z~Won't be many tears shed over that bastard.
+
+STDRG_SBARPLY_B_5 = ~z~Yep, that's for sure.
+
+STDRG_SBARPLY_C_1 = ~z~Hey, friend, I'm new in town, supposed to be meeting a man called Angelo Bronte.
+
+STDRG_SBARPLY_C_2 = ~z~Any idea where I might find him?
+
+STDRG_SBARPLY_C_3 = ~z~Not in here, that's for sure. If he was to drink anywhere, it would be the Bastille Saloon.
+
+STDRG_SBARPLY_C_4 = ~z~Opposite the park with the Quincy Harris statue.
+
+STDRG_SBARPLY_C_5 = ~z~Appreciate it.
+
+STDRG_SBARPLY_C_6 = ~z~Just watch yourself. He's got quite the reputation.
+
+STDRG_SBARPLY_D_1 = ~z~So did you find Mr. Bronte?
+
+STDRG_SBARPLY_D_2 = ~z~No, I thought better of it.
+
+STDRG_SBARPLY_D_3 = ~z~Wise move, you don't want to get tangled up with that feller.
+
+STDRG_SBARPLY_D_4 = ~z~So I've heard.
+
+STDRG_SHADSICK_1 = ~z~Oh it's you. Are you alright, mon ami? You know we have a good doctor in town?
+
+STDRG_SHADSICK_2 = ~z~Yes, I already saw him.
+
+STDRG_SHADSICK_3 = ~z~Ah, okay. Tres bien. In that case, how may I help you?
+
+STDRG_SHOSICK_1 = ~z~Oh my, you look like you've lost some weight there?
+
+STDRG_SHOSICK_2 = ~z~A little maybe.
+
+STDRG_SHOSICK_3 = ~z~Well, stock up then. Need to get you fed.
+
+STDRG_SLUBAR_SK_1 = ~z~Hellfire, mister, you look like you've been through the wringer. You should pay Dr. Barnes a visit.
+
+STDRG_SLUBAR_SK_2 = ~z~I already did. I didn't come in here to talk about my health.
+
+STDRG_SLUBAR_SK_3 = ~z~Well, I'm sure he'll get you fixed up. So what can I get for you?
+
+STDRG_SPR_SHA_A_1 = ~z~Where's the feller who was here last time I came in?
+
+STDRG_SPR_SHA_A_2 = ~z~Oh you probably mean my brother. Far away from here, I hope, not sullying my good name any further.
+
+STDRG_SPR_SHA_A_3 = ~z~So you don't know nothing about those fellers he had chained up in the basement?
+
+STDRG_SPR_SHA_A_4 = ~z~Of course not! I was out of town.
+
+STDRG_SPR_SHA_A_5 = ~z~Now, is there something I can help with you? I really don't want to talk about that sordid business.
+
+STDRG_SPR_SHA_D_1 = ~z~So is there anything extra to look at in the basement?
+
+STDRG_SPR_SHA_D_2 = ~z~Ugh, is there anyone who doesn't know about this? That was my brother's business, not mine.
+
+STDRG_SPR_SHA_D_3 = ~z~Last time I let him watch the shop... and I mean that literally, may he rest in peace.
+
+STDRG_SPR_SHA_D_4 = ~z~Sullying my good name.
+
+STDRG_SPR_SHA_D_5 = ~z~You're saying you knew nothing about it?
+
+STDRG_SPR_SHA_D_6 = ~z~Of course not. Now, is there something I can help you with?
+
+STDRG_TSW1SICK_1 = ~z~If you wouldn't mind coughing into your sleeve, sir.
+
+STDRG_TSW1SICK_2 = ~z~I really can't afford to get sick again this month.
+
+STDRG_TSW1SICK_3 = ~z~Why don't you just do your job?
+
+STDRG_TSW1SICK_4 = ~z~Of course, sir. Sorry. Just a polite request, that's all.
+
+STDRG_TSW2SICK_1 = ~z~Oh dear, have you come down with the flu as well, sir?
+
+STDRG_TSW2SICK_2 = ~z~Flu? No, what are you talking about?
+
+STDRG_TSW2SICK_3 = ~z~Nothing, it's just been going around, that's all. Anyway, how can I help you?
+
+STDRG_TSW3SICK_1 = ~z~You alright there, sir?
+
+STDRG_TSW3SICK_2 = ~z~Yes, why?
+
+STDRG_TSW3SICK_3 = ~z~Been some grippe going around here... and I just thought...
+
+STDRG_TSW3SICK_4 = ~z~you know what, never mind. What can I do for you?
+

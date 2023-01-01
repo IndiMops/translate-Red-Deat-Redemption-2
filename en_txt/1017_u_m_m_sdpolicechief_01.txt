@@ -1,0 +1,304 @@
+0x00746A41 = ~z~Hell, I'm weary of it. Pull it!
+
+0x00A620A0 = ~z~How many times are we gonna do this?
+
+0x00FAE9B0 = ~z~That's them. Get 'em.
+
+0x041D32AE = ~z~We act with modern manners in my city.
+
+0x04E712F8 = ~z~Alright, we've had enough of your nonsense, off with yourself.
+
+0x06488412 = ~z~I swear this is your last chance. Don't move.
+
+0x06950509 = ~z~I thought I was pretty clear you shouldn't still be here.
+
+0x0710AEE0 = ~z~Keep it moving. Don't take your time.
+
+0x081A5946 = ~z~You got me to the edge of my patience here.
+
+0x0A2DC940 = ~z~We don't tolerate that behavior in this town,  you hear me?
+
+0x0B383DDC = ~z~Enough! Come with me. Or I'll bring you in stone-cold dead.
+
+0x0B818BBB = ~z~Look away, I'm tired of you looking at me.
+
+0x0D924CA7 = ~z~Why are you causing such ruckus?
+
+0x1AC42857 = ~z~Hey, you lower that gun before I shoot you.
+
+0x1AF2172F = ~z~What has got into you? Stop.
+
+0x1C78D98B = ~z~Hold up now, let me get a gander at you.
+
+0x1F073A98 = ~z~You don't have any information for me?
+
+0x1F8DA89E = ~z~I shan't give more warnings. Hands up.
+
+0x2E3B7D10 = ~z~Hang on a second, I need to size you up.
+
+0x2FD6578C = ~z~You want to surrender, easiest way without bloodshed.
+
+0x3F659B5A = ~z~You come quiet sir, or I'll put you down
+
+0x3F828D12 = ~z~Something about you smells guilty, you'll do.
+
+0x4A04DE07 = ~z~Hey, you know what transpired here?
+
+0x4A84873F = ~z~Mind where you're going.
+
+0x4AF3DF0E = ~z~Do as I say or I'll put you down, you hear me?
+
+0x4C99AEBF = ~z~I say to you today, we will not tolerate these intimidation tactics any longer.
+
+0x4CA7A75C = ~z~Yeah, I got a bad feeling about you, so that's enough for me.
+
+0x5A0E4229 = ~z~You seem a bit guilty, which is enough for me.
+
+0x5D9C0662 = ~z~You're about to get a pill in that noggin of yours.
+
+0x5D73C44B = ~z~Get down from there right now.
+
+0x5EF86BFF = ~z~Lindsey Wofford, a senior member of the outlaw gang they call the Lemoyne Raiders.
+
+0x6BC705B5 = ~z~Hey, you can't be here.
+
+0x6EA46480 = ~z~Hey, you raise up on a lawman it's a good way to die.
+
+0x6EFAD02B = ~z~Watch it.
+
+0x6FA57F32 = ~z~I don't see why not.
+
+0x7A93DAE2 = ~z~Just a second now, we need to have a word.
+
+0x7C50A6C8 = ~z~And just what are you doing here?
+
+0x7C57EAE5 = ~z~Open your eyes.
+
+0x8A95E31E = ~z~Hands up now.
+
+0x8ACC9A84 = ~z~I told you to put your hands up.
+
+0x8D8CFF42 = ~z~Don't you move. You hear me?
+
+0x8EC2E65B = ~z~What you talking about? That man there died not a moment too soon.
+
+0x9F6943BD = ~z~I said hands up. Don't you tempt me.
+
+0x9FA20D3A = ~z~You get those hands up.
+
+0x10D20760 = ~z~Hold up, hold up, I need to talk with you.
+
+0x16BE15D6 = ~z~I'll knock some sense into you fast as hell, believe you me.
+
+0x17BD56E6 = ~z~No more. You're gonna come with me this second.
+
+0x23C58AFB = ~z~Cut that out before I box the tar out of you.
+
+0x24E7BE8F = ~z~Something got you transfixed?
+
+0x25A6D281 = ~z~You make me sick.
+
+0x29B88EC8 = ~z~Lemoyne will seek out gang activity, and eliminate it! The Raiders are finished!
+
+0x31A57E6B = ~z~Stop moving. I'm getting tired of this.
+
+0x40DC8AE2 = ~z~There's no point in you causing trouble here, now go.
+
+0x40FD0B93 = ~z~And why are you in this area?
+
+0x43A0B68B = ~z~Why don't you give me a little room to breathe?
+
+0x43E0BCB7 = ~z~You're the one that did this, aren't you?
+
+0x44DDC576 = ~z~You leave now, you hear me?
+
+0x46CF9832 = ~z~Bastards... It's an ambush!
+
+0x49CFA678 = ~z~Alright, ladies and gentlemen! This is a momentous occasion.
+
+0x56C24A72 = ~z~What did you say to me?
+
+0x58DE7BBA = ~z~What went on here exactly?
+
+0x68F38DA8 = ~z~You got a problem you care to discuss with me?
+
+0x71D9B85C = ~z~Listen here, you fool, I'm giving you another chance, don't squander it.
+
+0x72EF0874 = ~z~You'll gonna come with me and we'll make this easy.
+
+0x78C9B502 = ~z~Something wrong with you? I said cease that nonsense.
+
+0x82E9A869 = ~z~Don't need to cause a trouble here, just come with me.
+
+0x98F29BDB = ~z~You a lost puppy? Don't follow me.
+
+0x102E03D5 = ~z~Can I please have everyone's attention?
+
+0x132DE685 = ~z~Now let this serve as a message to any other ingrates that believe they know better than the United States!
+
+0x146A43F5 = ~z~What the Sam Hill? I said don't move.
+
+0x174C601B = ~z~Hey, what's this commotion all about?
+
+0x217BFEB3 = ~z~You're gonna have to go.
+
+0x268EFC6C = ~z~Don't crowd me, I ain't partial to it.
+
+0x283ED9A7 = ~z~Alright, alright, I think you should be getting on now.
+
+0x290FB649 = ~z~Don't you move.
+
+0x314C4C1B = ~z~You're gonna get your head blown off. Hands up, last time.
+
+0x340B5E49 = ~z~Well, the Raiders are a goddamned menace, but there's much work to do yet.
+
+0x344DCE57 = ~z~Whoa now, hold up, I got questions for you.
+
+0x416E4BED = ~z~I'll flatten you, hear me?
+
+0x551A5BBA = ~z~What the hell are you carrying on about?
+
+0x604BA4C0 = ~z~Stay right there.
+
+0x715BFFA9 = ~z~The state of Lemoyne has outgrown this man.
+
+0x745BA814 = ~z~You're crossing the wrong lawman.
+
+0x810BEA70 = ~z~I'd think twice before toying with me.
+
+0x825DCFE5 = ~z~I'll put two in you before you blink.
+
+0x874B4DF3 = ~z~I don't put up with that, you hear me?
+
+0x900F6B48 = ~z~I'm about to end your day, you hear me?
+
+0x936EDBD2 = ~z~Wait, did you do this?
+
+0x2707F57B = ~z~That is it. You're coming with me, end of discussion.
+
+0x2933B3B2 = ~z~Oh no, you can't be carrying on like that.
+
+0x3044EE97 = ~z~Alright, you seem shifty enough for me.
+
+0x4933FA80 = ~z~Oh please, don't.
+
+0x5834B9CD = ~z~You dismount this second, you hear me?
+
+0x6209CD3C = ~z~Time to get long gone, you hear me?
+
+0x9282A195 = ~z~Come on, be real helpful if you have some information.
+
+0x13381B30 = ~z~Drop your eyes, I don't fancy being stared at.
+
+0x16185B7F = ~z~Don't idle around me.
+
+0x19490C42 = ~z~Guilty of murder, robbery, arms dealing, and countless atrocities against lawmen and state officials.
+
+0x35739FA3 = ~z~I don't put up with that kind of business.
+
+0x39323B8B = ~z~Last time I warn you. Understand?
+
+0x89052EF7 = ~z~This uniform mean anything to you?
+
+0x151821B1 = ~z~I will put you down. Last chance. Stop moving.
+
+0x589385D0 = ~z~Don't you think I'm going to forget what you did. Don't you push me again.
+
+0x7455606C = ~z~Why you lingering around here, huh?
+
+0x16551500 = ~z~You keep up with that attitude, just try me.
+
+0x53086980 = ~z~I'm ordering you. Desist.
+
+0x95137360 = ~z~This is the last time I'm warning you.
+
+0xA0ABB38C = ~z~You watch yourself.
+
+0xA1A10C84 = ~z~You know anything about all these bodies we've been finding?
+
+0xA6DA4516 = ~z~But you! You have not gotten past your memory of it.
+
+0xAE5FAAB5 = ~z~Alright, put your hands up.
+
+0xAF456826 = ~z~Why don't you tell me why you're here?
+
+0xB6CD0A1F = ~z~Son, this goes one of two ways, your choice.
+
+0xB7FA772B = ~z~Oh. You don't want to scrap with me, believe it.
+
+0xB8E39FE9 = ~z~Whoa. What's the meaning of this?
+
+0xB46552C0 = ~z~Quit following me.
+
+0xB7568275 = ~z~Oh, don't give me that consumption.
+
+0xBB08AAF7 = ~z~You cut that behavior out this very minute.
+
+0xBBA221B5 = ~z~Carry on like that and you're gonna tangle with me.
+
+0xBD1B7F21 = ~z~Those hands better get up.
+
+0xBD977AE1 = ~z~Take him down.
+
+0xBF78888C = ~z~What's your reason for being here?
+
+0xC1A46D3E = ~z~Hey, you trailing me for some reason?
+
+0xC4BC25DE = ~z~For laying waste to this good state and abusing the fine people in it you will die.
+
+0xC976AF72 = ~z~Sir, this is the part where you surrender.
+
+0xC3471C33 = ~z~This has been, as you all know, a long time coming.
+
+0xCD449714 = ~z~Now you sure you don't know anything about this?
+
+0xCE448444 = ~z~That's the one. End this.
+
+0xCEF859C0 = ~z~You got some kind of issue?
+
+0xD9A42614 = ~z~Hey, now. Put that away or die, you hear me?
+
+0xD5857FB6 = ~z~You're off the hook for now, but I'll put you right back up on it if you so much as sneeze wrong.
+
+0xDA859D25 = ~z~Why are you doing this to me?
+
+0xE0BEFD4D = ~z~Oh, you trying to make trouble with me?
+
+0xE3AF3138 = ~z~Why are you in my way? Move now.
+
+0xE5A54327 = ~z~Surrender so you don't end up in a box.
+
+0xE6A8974C = ~z~You have any idea what the heck went on here?
+
+0xE6DC6180 = ~z~Oh, you look half dead, son.
+
+0xE73F4E30 = ~z~I want him dead now.  Hear me?
+
+0xEC904BF0 = ~z~Oh! I'd put that piece away if I were you.
+
+0xEFBC1B34 = ~z~Get the hell out.
+
+0xF0FC5E83 = ~z~You really don't know anything?
+
+0xF5CC0AEC = ~z~You said hello.
+
+0xF6FB577E = ~z~Last chance, hands up. Don't trifle with me.
+
+0xF8EB0EC5 = ~z~Now that tongue of yours is going to get you in trouble.
+
+0xF11E02D6 = ~z~Whoa now, lemme get a look at that pretty face of yours.
+
+0xF62F0D1D = ~z~That's right, I don't want to see you here.
+
+0xF382DE87 = ~z~Next warning is shot in the gut. Don't move.
+
+0xF5946ADA = ~z~Put him in the dirt.
+
+0xF9601D34 = ~z~Alright, alright, you should quit harassing folks, hear me?
+
+0xF1554462 = ~z~Hey now. What you doing?
+
+0xFB0D3F5B = ~z~Lot of killings lately, what do you know about that?
+
+0xFEB5988C = ~z~I said don't move, I'm not playing around.
+

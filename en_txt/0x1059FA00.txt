@@ -1,0 +1,198 @@
+0x02FF4594 = Capitale Stash lost
+
+0x0502727D = The Capitale Stash has been lost
+
+0x07CE574E = The Capitale Stash has been lost
+
+0x08F3F670 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~Capitale Stash~s~
+
+0x0905C70F = Follow the ~COLOR_MP_OBJECTIVE_ENEMY~bootlegger~s~ to the Capitale Stash
+
+0x097DD435 = You are delivering the Capitale Stash
+
+0x09880F12 = ~2~/~2~ escaped with the Capitale Stashes
+
+0x0D849238 = You escaped the city with the Capitale
+
+0x1B5CCAE0 = The Capitale Stash has been lost
+
+0x1C6BD0C1 = You are delivering a Capitale Stash
+
+0x1D0D0CF9 = ~1~ dropped off a Capitale Stash
+
+0x1D43F507 = Loot the ~COLOR_MP_OBJECTIVE~bootlegger~s~
+
+0x2D6D7296 = Your Posse dropped off a Capitale Stash
+
+0x2D17D307 = You lost the Capitale Stash
+
+0x2EC198F4 = Intimidate the ~COLOR_MP_OBJECTIVE_ENEMY~Bastille owner~s~
+
+0x4D729B7B = Find the Bastille owner to learn the location of the Capitale Stash.
+
+0x4D794519 = Failed to escape with the Capitale Stashes
+
+0x4F79AD89 = Capitale Stashes lost
+
+0x5A32EAB8 = You escaped the city with the Capitale
+
+0x5A72E32F = ~1~/~2~ Capitale Stashes turned in
+
+0x5BFAE581 = The Capitale Stash has been lost
+
+0x5D878EF4 = Follow the bootlegger without being seen to locate the Capitale Stash.
+
+0x5FA2C7D1 = ~1~ dropped off the Capitale Stash
+
+0x5FAF7D82 = Capitale Stashes delivered
+
+0x6E38DC30 = Drop the ~COLOR_MP_OBJECTIVE_FRIENDLY~Capitale Stash~s~
+
+0x6EBC69CC = You lost the Capitale Stash
+
+0x7A9B88FD = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the Capitale Stash
+
+0x7A32FC8D = Capitale Stashes lost
+
+0x7A216E58 = Capitale Stash lost
+
+0x9A024B31 = Capitale Stash lost
+
+0x9F8ED377 = You lost the Capitale Stash
+
+0x9F961095 = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~Capitale Stash~s~ to ~COLOR_MP_OBJECTIVE~Martelli's associate~s~
+
+0x18E8482E = You lost the Capitale Stash
+
+0x19B7C0BB = Steal Capitale from local criminals
+
+0x28D2F346 = ~1~/~2~ Capitale Stashes turned in
+
+0x40D5BCEE = Capitale Stash lost
+
+0x58ADF34F = The Capitale Stash has been lost
+
+0x67F9E1E8 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~Capitale Stashes~s~
+
+0x75DCAED3 = The bootlegger will arrive in Van Horn by train. Find him and follow him to the Capitale Stash.
+
+0x76E04593 = Failed to escape with the Capitale Stashes
+
+0x79CC4D7C = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~Capitale Stash~s~ ~1~
+
+0x79D47D58 = Drop off the ~COLOR_MP_OBJECTIVE_FRIENDLY~Capitale Stash~s~ at the dead drop
+
+0x81D8957B = Beat the location of the Capitale out of the owner.
+
+0x85EDC49C = Failed to escape with the Capitale Stash
+
+0x87CA8BFA = Search ~COLOR_MP_OBJECTIVE~upstairs~s~ for the saloon owner
+
+0x214C35E4 = The Capitale Stash has been dropped off
+
+0x283CD2A3 = The Capitale Stash has been lost
+
+0x392E25B4 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~Capitale Stashes~s~
+
+0x459F35AD = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~Capitale Stash~s~ to ~COLOR_MP_OBJECTIVE~Martelli's associate~s~
+
+0x469D5F44 = The Capitale Stash has been lost
+
+0x641D8B5A = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~Capitale Stash~s~
+
+0x816EAA35 = ~1~ dropped off a Capitale Stash
+
+0x992D5CB9 = You lost the Capitale Stash
+
+0x2457CBC8 = Your Posse dropped off the Capitale Stash
+
+0x6177EEBB = Drop the ~COLOR_MP_OBJECTIVE_FRIENDLY~Capitale Stash~s~ on the ~COLOR_MP_OBJECTIVE~ground~s~
+
+0x6199B3B1 = Point a gun at the criminal to get them to drop the Capitale Stash.
+
+0x9918B099 = You dropped off a Capitale Stash
+
+0x15432B03 = Capitale Stash delivered
+
+0x26422CC2 = The Capitale Stash has been lost
+
+0x33067D60 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~Capitale Stash~s~
+
+0x39735E2A = The locations of criminals around Saint Denis have already been scoped out. Finish the job and steal the Capitale Stashes.
+
+0x59803DBE = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~Capitale Stash~s~
+
+0x75302B32 = The Capitale Stash has been lost
+
+0x99353E76 = You dropped off the Capitale Stash
+
+0x204629FA = You dropped off a Capitale Stash
+
+0x53952474 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~Capitale Stashes~s~
+
+0xAA0BD046 = ~1~ is delivering a Capitale Stash
+
+0xAA876F7D = You lost the Capitale Stash
+
+0xADDE24B3 = Find and recover Capitale from the Bastille Saloon Owner
+
+0xB949737B = The Capitale Stash has been lost
+
+0xBA5844AD = Beat the location of the Capitale out of the owner.
+
+0xBC2E26A4 = Capitale Stashes lost
+
+0xBDF768D8 = Capitale Stashes delivered
+
+0xC2D46C7A = Capitale Stash delivered
+
+0xC6EAAD3C = The saloon owner was killed
+
+0xC7C20181 = Your Posse dropped off a Capitale Stash
+
+0xC7037071 = You can only carry one Capitale Stash at a time.
+
+0xD0EE2520 = Take out the ~COLOR_MP_OBJECTIVE_ENEMY~bootlegger~s~
+
+0xD5AA516E = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~Capitale Stashes~s~ ~1~
+
+0xD8ED24AB = Failed to escape with the Capitale Stash
+
+0xD14E87C5 = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~Capitale Stashes~s~ to ~COLOR_MP_OBJECTIVE~Martelli's associate~s~
+
+0xD42E1734 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~Capitale Stash~s~
+
+0xD1986C58 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~Capitale Stash~s~
+
+0xD5026EF7 = ~1~ is delivering the Capitale Stash
+
+0xDD2DB5A8 = Intimidate the criminal to get them to drop the Capitale Stash.
+
+0xDE254C7A = The Capitale Stash has been dropped off
+
+0xDE972857 = Go ~1~
+
+0xE8AE0ED3 = Escape the ~COLOR_MP_OBJECTIVE~area~s~
+
+0xE8DF42C0 = Recover Capitale from the bootlegger
+
+0xE81CAAC1 = The Capitale Stash has been lost
+
+0xECD3609E = The Capitale Stash has been dropped off
+
+0xEDAF5855 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~Capitale Stash~s~
+
+0xEDC20E9D = Capitale Stashes lost
+
+0xEE39A0D1 = The Capitale Stash has been lost
+
+0xF0C596EF = You are delivering a Capitale Stash
+
+0xF1D320E0 = Loot the bootlegger to discover the location of the Capitale Stash.
+
+0xF1157245 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~Capitale Stash~s~
+
+0xFBCEFA6F = Go ~1~
+
+0xFE7C0376 = ~1~ is delivering a Capitale Stash
+

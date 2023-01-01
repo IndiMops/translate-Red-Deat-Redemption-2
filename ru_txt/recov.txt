@@ -1,0 +1,122 @@
+FETCH_RECOVER_CART_HELP_DESTROY = Игрок ~1~ начал противостояние с ~2~. Чтобы получить полную награду, уничтожьте телегу ~3b~.
+
+FETCH_RECOVER_CART_HELP_DESTROY_YOU = Вы начали противостояние с ~1~. Чтобы получить полную награду, уничтожьте телегу ~2b~.
+
+FETCH_RECOVER_CART_HELP_INTRO = Осмотрев местность ~1b~, найдите и верните потерянную телегу за отведенное время, чтобы получить полную награду.
+
+FETCH_RECOVER_CART_JOIN_TEAM_SECONDARY = ~COLOR_ENEMY~~1~~s~ перехватывает телегу
+
+FETCH_RECOVER_CART_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Соперники~s~ могут атаковать телегу
+
+FETCH_RECOVER_COACH_HELP_DESTROY = Игрок ~1~ начал противостояние с ~2~. Чтобы получить полную награду, уничтожьте дилижанс ~3b~.
+
+FETCH_RECOVER_COACH_HELP_DESTROY_YOU = Вы начали противостояние с ~1~. Чтобы получить полную награду, уничтожьте дилижанс ~2b~.
+
+FETCH_RECOVER_COACH_HELP_INTRO = Осмотрев местность ~1b~, найдите и верните потерянный дилижанс за отведенное время, чтобы получить полную награду.
+
+FETCH_RECOVER_COACH_JOIN_TEAM_SECONDARY = ~COLOR_ENEMY~~1~~s~ перехватывает дилижанс
+
+FETCH_RECOVER_COACH_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Соперники~s~ могут атаковать дилижанс
+
+FETCH_RECOVER_HELP_DESTROY = Игрок ~1~ начал противостояние с ~2~. Чтобы получить полную награду, уничтожьте повозку ~3b~.
+
+FETCH_RECOVER_HELP_DESTROY_YOU = Вы начали противостояние с ~1~. Чтобы получить полную награду, уничтожьте повозку ~2b~.
+
+FETCH_RECOVER_HELP_INTRO = Осмотрев местность ~1b~, найдите и верните потерянную повозку за отведенное время, чтобы получить полную награду.
+
+FETCH_RECOVER_JOIN_TEAM_SECONDARY = ~COLOR_ENEMY~~1~~s~ перехватывает повозку
+
+FETCH_RECOVER_OBJ_CART_ESCORT_STEAL_FROM_POSSE = Отбейте ~COLOR_MP_OBJECTIVE_ENEMY~телегу~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_RECOVER_OBJ_COACH_ESCORT_STEAL_FROM_POSSE = Отбейте ~COLOR_MP_OBJECTIVE_ENEMY~дилижанс~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_RECOVER_OBJ_DEFEND_CART = Сопроводите ~COLOR_MP_OBJECTIVE_FRIENDLY~телегу~s~ ~1~.
+
+FETCH_RECOVER_OBJ_DEFEND_COACH = Сопроводите ~COLOR_MP_OBJECTIVE_FRIENDLY~дилижанс~s~ ~1~.
+
+FETCH_RECOVER_OBJ_DEFEND_SUPPLIES = Сопроводите ~COLOR_MP_OBJECTIVE_FRIENDLY~повозку~s~ ~1~.
+
+FETCH_RECOVER_OBJ_DESTROY_CART = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~телегу~s~.
+
+FETCH_RECOVER_OBJ_DESTROY_COACH = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~дилижанс~s~.
+
+FETCH_RECOVER_OBJ_DESTROY_SUPPLIES = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~повозку~s~.
+
+FETCH_RECOVER_OBJ_ESCORT_STEAL_FROM_POSSE = Отбейте ~COLOR_MP_OBJECTIVE_ENEMY~повозку~s~ у ~COLOR_ENEMY~~1~~s~.
+
+FETCH_RECOVER_OBJ_FIND_CART = Найдите телегу в ~COLOR_MP_OBJECTIVE~зоне поиска~s~.
+
+FETCH_RECOVER_OBJ_FIND_COACH = Найдите дилижанс в ~COLOR_MP_OBJECTIVE~зоне поиска~s~.
+
+FETCH_RECOVER_OBJ_FIND_WAGON = Найдите повозку в ~COLOR_MP_OBJECTIVE~зоне поиска~s~.
+
+FETCH_RECOVER_OBJ_GOTO = Направляйтесь в ~COLOR_MP_OBJECTIVE~зону поиска~s~.
+
+FETCH_RECOVER_OBJ_RETURN_CART = Пригоните телегу ~1~.
+
+FETCH_RECOVER_OBJ_RETURN_COACH = Пригоните дилижанс ~1~.
+
+FETCH_RECOVER_OBJ_RETURN_SUPPLIES = Пригоните повозку ~1~.
+
+FETCH_RECOVER_OBJ_STEAL_CART = Сядьте в ~COLOR_MP_OBJECTIVE_NEUTRAL~телегу~s~.
+
+FETCH_RECOVER_OBJ_STEAL_COACH = Сядьте в ~COLOR_MP_OBJECTIVE_NEUTRAL~дилижанс~s~.
+
+FETCH_RECOVER_OBJ_STEAL_WAGON = Сядьте в ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~.
+
+FETCH_RECOVER_PVP_GLOBAL_SIGNAL = ~COLOR_ENEMY~Соперники~s~ могут атаковать повозку
+
+FETCH_RECOVER_SHARD_CART_DESC_PRIMARY = Найдите и верните потерянную телегу
+
+FETCH_RECOVER_SHARD_CART_DESC_SECONDARY = Уничтожьте телегу
+
+FETCH_RECOVER_SHARD_CART_PRIMARY_FAIL = Телега уничтожена
+
+FETCH_RECOVER_SHARD_CART_PRIMARY_PASS = Телега пригнана
+
+FETCH_RECOVER_SHARD_CART_SECONDARY_FAIL = Телега пригнана
+
+FETCH_RECOVER_SHARD_CART_SECONDARY_FAIL_RIVALS = Телега уничтожена вражеским отрядом
+
+FETCH_RECOVER_SHARD_CART_SECONDARY_PASS = Телега уничтожена
+
+FETCH_RECOVER_SHARD_COACH_DESC_PRIMARY = Найдите и верните потерянный дилижанс
+
+FETCH_RECOVER_SHARD_COACH_DESC_SECONDARY = Уничтожьте дилижанс
+
+FETCH_RECOVER_SHARD_COACH_PRIMARY_FAIL = Дилижанс уничтожен
+
+FETCH_RECOVER_SHARD_COACH_PRIMARY_PASS = Дилижанс доставлен
+
+FETCH_RECOVER_SHARD_COACH_SECONDARY_FAIL = Дилижанс доставлен
+
+FETCH_RECOVER_SHARD_COACH_SECONDARY_FAIL_RIVALS = Дилижанс уничтожен вражеским отрядом
+
+FETCH_RECOVER_SHARD_COACH_SECONDARY_PASS = Дилижанс уничтожен
+
+FETCH_RECOVER_SHARD_DESC_PRIMARY = Найдите и верните потерянную повозку
+
+FETCH_RECOVER_SHARD_DESC_SECONDARY = Уничтожьте повозку
+
+FETCH_RECOVER_SHARD_PRIMARY_FAIL = Повозка уничтожена
+
+FETCH_RECOVER_SHARD_PRIMARY_PASS = Повозка пригнана
+
+FETCH_RECOVER_SHARD_SECONDARY_FAIL = Повозка пригнана
+
+FETCH_RECOVER_SHARD_SECONDARY_FAIL_RIVALS = Повозка уничтожена вражеским отрядом
+
+FETCH_RECOVER_SHARD_SECONDARY_PASS = Повозка уничтожена
+
+FETCH_RECOVER_TICKER_DESTROY = Повозка уничтожена
+
+FETCH_RECOVER_TICKER_DESTROY_CART = Телега уничтожена
+
+FETCH_RECOVER_TICKER_DESTROY_CART_YOU = Вы уничтожили ~COLOR_MP_OBJECTIVE_NEUTRAL~телегу~s~.
+
+FETCH_RECOVER_TICKER_DESTROY_COACH = Дилижанс уничтожен
+
+FETCH_RECOVER_TICKER_DESTROY_COACH_YOU = Вы уничтожили ~COLOR_MP_OBJECTIVE_NEUTRAL~дилижанс~s~.
+
+FETCH_RECOVER_TICKER_DESTROY_YOU = Вы уничтожили ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~.
+

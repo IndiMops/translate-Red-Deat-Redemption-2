@@ -1,0 +1,1038 @@
+SAD3_AIMBOAT1_1 = ~z~Put your gun on the boat.
+
+SAD3_AIMBOAT1_2 = ~z~Make him turn around.
+
+SAD3_AIMBOAT2_01 = ~z~Aim at him!
+
+SAD3_AIMBOAT2_02 = ~z~He's getting away.
+
+SAD3_AIMBOAT2_03 = ~z~Get your gun on him before he rows out of range.
+
+SAD3_AIMBOAT3_01 = ~z~Don't kill him... just scare him.
+
+SAD3_AIMBOAT3_02 = ~z~Much as you want to, don't kill him.
+
+SAD3_ATRHD_1 = ~z~This place still gives me the creeps.
+
+SAD3_ATRHD_2 = ~z~Hitch your horse up here.
+
+SAD3_BACKCOR_1 = ~z~Big mistake.
+
+SAD3_BACKCOR_2 = ~z~Real big mistake.
+
+SAD3_BACKCOR_3 = ~z~I'll see you again.
+
+SAD3_BACKGETHIM_01 = ~z~Get him down. The sheriff better move him quick this time.
+
+SAD3_BACKGETHIM_02 = ~z~Come on.
+
+SAD3_BACKGETHIM_03 = ~z~Let's just finish this.
+
+SAD3_BACKINRHD_1 = ~z~Here we are. Back again.
+
+SAD3_BACKINRHD_2 = ~z~Looks like.
+
+SAD3_BACKTORHDSHOUTED_11 = ~z~Hey, you let me go, I'll forget about all of this.
+
+SAD3_BACKTORHDSPOKEN_11 = ~z~Oh, you let me go, I'll forget about all this.
+
+SAD3_BACKTORHD_1 = ~z~It's about time we collected this bounty.
+
+SAD3_BACKTORHD_2 = ~z~Second time lucky.
+
+SAD3_BACKTORHD_3 = ~z~What you think, Cortez? ~rp~You got any more surprises up your sleeve?
+
+SAD3_BACKTORHD_4 = ~z~You're a dead woman.
+
+SAD3_BACKTORHD_5 = ~z~And you're a dead man!
+
+SAD3_BACKTORHD_6 = ~z~The Del Lobos will not forgive this!
+
+SAD3_BACKTORHD_7 = ~z~Where ever you hide, we will find you. And we will kill you. You, and anyone who's close to you.
+
+SAD3_BACKTORHD_8 = ~z~I preferred it when you was offering money.
+
+SAD3_BACKTORHD_9 = ~z~You want money? Hey, take my money. I got gold, lady.
+
+SAD3_BACKTORHD_10 = ~z~But you was just saying you was going to kill me?
+
+SAD3_BACKTORHD_12 = ~z~You see, Ramon, what we got here is a trust issue.
+
+SAD3_BACKTORHD_13 = ~z~I'm good for it.
+
+SAD3_BACKTORHD_14 = ~z~You're tied up on a horse, ~rp~about to be taken to Saint Denis to hang. ~rp~You ain't good for anything.
+
+SAD3_BACKTORHD_15 = ~z~I swear.
+
+SAD3_BACKTORHD_16 = ~z~Of course. ~rp~'Cause all you can do is swear. But you're just saying anything you think might get you out of this.
+
+SAD3_BACKTORHD_17 = ~z~Ramon, ~rp~I couldn't trust you to pay me, ~rp~I couldn't trust you not to kill me.
+
+SAD3_BACKTORHD_18 = ~z~Hell, ~rp~I couldn't even trust you to kill me, if that's what we agreed.
+
+SAD3_BACKTORHD_19 = ~z~What the hell are you talking about? I got gold, woman, mister. Gold. Five thousand dollars!
+
+SAD3_BACKTORHD_20 = ~z~I hope you left it to someone in your will.
+
+SAD3_BACKTORHD_21 = ~z~'Cause you ain't going to find much use for it in the short time you got left.
+
+SAD3_BACKTORHD_22 = ~z~Damn you, woman! Damn you.
+
+SAD3_BACKTORHD_23 = ~z~Oh, I've been damned a long time, my friend.
+
+SAD3_BACKTORHD_24 = ~z~Relax, mister. We ain't got far to go.
+
+SAD3_BACKTORHD_25 = ~z~You made a big mistake, the both of you. You shoulda took the money.
+
+SAD3_BACKTORHD_26 = ~z~You shoulda taken it... now we're gonna come for you. I promise you that. We're gonna come for you.
+
+SAD3_BACKTORHD_27 = ~z~Well, I hope they know just where to find me, because I'll enjoy the fight.
+
+SAD3_BACKTORHD_28 = ~z~I like the fighting, Ramon. ~rp~The fighting and the killing.
+
+SAD3_BARN_ILO_1 = ~z~We need a barn.
+
+SAD3_BARN_ILO_2 = ~z~A barn...
+
+SAD3_BEACH2_01 = ~z~Get them!
+
+SAD3_BEACH2_02 = ~z~Clear the beach!
+
+SAD3_BEACH_1 = ~z~There he is! In the boat!
+
+SAD3_BEACH_2 = ~z~We got to clear that beach.
+
+SAD3_BEACH_3 = ~z~He's rowing out of here.
+
+SAD3_BLACKRIDESHOUTED_1 = ~z~~sl:0.0:2.3~Now, this feller probably saw you,~sl:~thought “here's some corn husk idiot, some country rube,
+
+SAD3_BLACKRIDESHOUTED_2 = ~z~~sl:0.0:2.7~doesn't know a precut home from an outhouse,~sl:0.4:2.3:1~and I'm gonna rob him blind.”
+
+SAD3_BLACKRIDESHOUTED_3 = ~z~~sl:0.0:3.5~Well, I gotta respect him for it, 'cause if I saw you walk...~sl:~into my lumber yard, ~rp~I'd think exactly the same thing.
+
+SAD3_BLACKRIDESHOUTED_4 = ~z~~sl:0.9~Thinking about it... ~rp~I might actually do this on my own.
+
+SAD3_BLACKRIDESHOUTED_6 = ~z~~sl:0.0:3.9~No, no. You need someone with some sense to negotiate,~sl:~and some charm wouldn't hurt neither.
+
+SAD3_BLACKRIDESHOUTED_7 = ~z~~sl:0.2~And that's you is it? ~rp~With your famous way with people.
+
+SAD3_BLACKRIDESHOUTED_8 = ~z~You're in enough debt as it is. ~rp~I gotta help you all I can.
+
+SAD3_BLACKRIDESHOUTED_10 = ~z~~sl:0.0:4.4~Oh, but if they foreclose on the debt, I'll lose my home.~sl:~And I do so like it there.
+
+SAD3_BLACKRIDESHOUTED_12 = ~z~~sl:0.4~You ain't even got furniture.
+
+SAD3_BLACKRIDESPOKEN_1 = ~z~~sl:0.0:2.6~Now, this feller probably saw you,~sl:~thought “here's some corn husk idiot, some country rube,
+
+SAD3_BLACKRIDESPOKEN_2 = ~z~~sl:0.0:2.5~doesn't know a precut home from an outhouse,~sl:0.1:2.0:1~and I'm gonna rob him blind.”
+
+SAD3_BLACKRIDESPOKEN_3 = ~z~~sl:0.4:3.9~I got to respect him for it, 'cause if I saw you walk into my lumber yard,~lr:~I'd think exactly the same thing.
+
+SAD3_BLACKRIDESPOKEN_4 = ~z~~sl:1.0~Thinking about it... ~rp~I might actually do this on my own.
+
+SAD3_BLACKRIDESPOKEN_6 = ~z~~sl:0.0:4.7~No, no. You need someone with some sense to negotiate,~sl:~and some charm wouldn't hurt neither.
+
+SAD3_BLACKRIDESPOKEN_7 = ~z~~sl:0.4~And that's you is it? ~rp~With your famous way with people.
+
+SAD3_BLACKRIDESPOKEN_8 = ~z~~sl:0.7:3.7:1~You're in enough debt as it is. ~rp~I got to help you all I can.
+
+SAD3_BLACKRIDESPOKEN_10 = ~z~~sl:0.4:3.6~But if they foreclose on the debt, I'll lose my home.~sl:0.2~And I do so like it there.
+
+SAD3_BLACKRIDESPOKEN_12 = ~z~~sl:0.5~You ain't even got furniture.
+
+SAD3_BLACKRIDE_5 = ~z~Oh, I can't let you do that, John. ~rp~Let you get robbed again.
+
+SAD3_BLACKRIDE_9 = ~z~It's my debt, I'll handle it.
+
+SAD3_BLACKRIDE_11 = ~z~You like it too much. You're far too comfortable.
+
+SAD3_BN_INVES_1 = ~z~You search that barn, I'll take the main house.
+
+SAD3_BN_INVES_2 = ~z~Holler if you get him.
+
+SAD3_BU_ARRIVE_1 = ~z~These fellers...
+
+SAD3_BU_ARRIVE_2 = ~z~They keep on coming alright.
+
+SAD3_BU_DONE_1 = ~z~Any more? Are we done?
+
+SAD3_BU_DONE_2 = ~z~Might just be.
+
+SAD3_BU_DONE_3 = ~z~Son of a bitch.
+
+SAD3_BU_LAST_1 = ~z~Look at them go.
+
+SAD3_BU_LAST_2 = ~z~I guess we're keeping him!
+
+SAD3_BU_MOREFU_01 = ~z~You want him, you're gonna have to come over here and get him!
+
+SAD3_BU_MOREFU_02 = ~z~You ain't taking my prisoner.
+
+SAD3_BU_SADIE_01 = ~z~You ain't getting him, you bastards!
+
+SAD3_BU_SADIE_02 = ~z~He's gonna hang!
+
+SAD3_BU_SADIE_03 = ~z~Who told you he was here?
+
+SAD3_CA_BRIDGE_01 = ~z~Up on the bridge!
+
+SAD3_CA_BRIDGE_02 = ~z~The bridge!
+
+SAD3_CA_BRIDGE_03 = ~z~Above us!
+
+SAD3_CA_COVER_01 = ~z~Make sure you got me covered.
+
+SAD3_CA_COVER_02 = ~z~You got them, John.
+
+SAD3_CA_COVER_03 = ~z~John!
+
+SAD3_CA_COVER_04 = ~z~I can't get them from here!
+
+SAD3_CA_MEETB_1 = ~z~Cortez ran toward the mouth of the creek. We got to push through these fellers.
+
+SAD3_CA_MEETB_2 = ~z~Okay!
+
+SAD3_CA_MEET_1 = ~z~John! Get down here!
+
+SAD3_CA_MEET_2 = ~z~I'm coming!
+
+SAD3_CA_ROCK_01 = ~z~Behind the rock!
+
+SAD3_CA_ROCK_02 = ~z~Check the boulders!
+
+SAD3_CA_RUNUP_1 = ~z~I shoot okay?
+
+SAD3_CA_RUNUP_2 = ~z~They're still alive, ain't they?
+
+SAD3_CA_RUNUP_3 = ~z~Let's see what we can do about that.
+
+SAD3_CA_SIDE_01 = ~z~The side there!
+
+SAD3_CA_SIDE_02 = ~z~On the ridge!
+
+SAD3_CA_SIDE_03 = ~z~Ridgeline! Look out!
+
+SAD3_CA_SLOPE_01 = ~z~They're up on the slope!
+
+SAD3_CA_SLOPE_02 = ~z~The side of the creek bed!
+
+SAD3_CHECKONCOR_01 = ~z~~sl:0.3:2.7:1~I guess someone wants that gold.
+
+SAD3_CHECKONCOR_02 = ~z~Ain't you gonna see what's happening out there?
+
+SAD3_CHECKONCOR_03 = ~z~~sl:0.0:2.7:1~Your lady friend might be having trouble...
+
+SAD3_CORAWAKE_1 = ~z~That hurt.
+
+SAD3_CORAWAKE_2 = ~z~You want money, gold? My men are meeting me at Dewberry Creek.
+
+SAD3_CORAWAKE_3 = ~z~Take me there, I'll pay you good. Better than any bounty.
+
+SAD3_CORAWAKE_4 = ~z~Oh, shut up.
+
+SAD3_CORGRUMBLE_1 = ~z~
+
+SAD3_CORGRUMBLE_2 = ~z~
+
+SAD3_CORGRUMBLE_3 = ~z~
+
+SAD3_CORGRUMBLE_4 = ~z~
+
+SAD3_CORRAGE_1 = ~z~Come on.
+
+SAD3_CORRAGE_2 = ~z~I'll give you a hundred dollars to kill that bitch.
+
+SAD3_CORRAGE_3 = ~z~Two hundred!
+
+SAD3_CORRAGE_4 = ~z~Three hundred dollars for her head.
+
+SAD3_CORRAGE_5 = ~z~Be quiet.
+
+SAD3_DEW1_1 = ~z~You've had some bad luck with bounties being stole off you.
+
+SAD3_DEW1_2 = ~z~And you're about to have some back luck with getting punched in the face.
+
+SAD3_DEW1_3 = ~z~He got stole off both of us.
+
+SAD3_DEW1_4 = ~z~Someone must have talked.
+
+SAD3_DEW1_5 = ~z~One of his 'boys' maybe.
+
+SAD3_DEW1_6 = ~z~We were sitting ducks, waiting all that time in that gimcrack jail house.
+
+SAD3_DEW1_7 = ~z~Yeah. Yes we were.
+
+SAD3_DEW1_8 = ~z~I don't like it.
+
+SAD3_DEW1_9 = ~z~The sheriff's done a lot to bring Rhodes into line since the time of the Grays and Braithwaites, but...
+
+SAD3_DEW1_10 = ~z~clearly he ain't done enough.
+
+SAD3_DEW1_11 = ~z~So you think we can trust him?
+
+SAD3_DEW1_12 = ~z~Yeah. He'll pay up when we come back with Cortez. He's a decent feller.
+
+SAD3_DEW1_13 = ~z~If we come back with Cortez.
+
+SAD3_DEW1_14 = ~z~We're coming back with him. Don't you worry about that.
+
+SAD3_DEW2SHOUTED_3 = ~z~If that kind of offer is tempting to you, ~rp~then go right ahead. But not when you're on one of my jobs.
+
+SAD3_DEW2SPOKEN_3 = ~z~If that kind of offer is tempting to you,~rp~ then go right ahead. But not when you're on one of my jobs.
+
+SAD3_DEW2_1 = ~z~It's an odd thing, isn't it? ~rp~We'll take two hundred dollars from a sheriff, ~rp~who might be crooked himself, to go get a bounty...
+
+SAD3_DEW2_2 = ~z~but we won't take two thousand from an outlaw to just let them go.
+
+SAD3_DEW2_4 = ~z~I never said I was tempted by it... ~rp~I just said it was an odd thing... ~rp~how we'd take money from one but not the other.
+
+SAD3_DEW2_5 = ~z~Everyone's got to choose what they're loyal to... themselves, God, the State...
+
+SAD3_DEW2_6 = ~z~if a bounty hunter wants to last, ~rp~that loyalty's got to be to the one that's issuing the bounties. ~rp~Plain and simple.
+
+SAD3_DEW2_7 = ~z~I got a reputation for honest work.
+
+SAD3_DEW2_8 = ~z~So everyone with a price on their head deserves it, you think?
+
+SAD3_DEW2_9 = ~z~Sure... no... I don't know... usually.
+
+SAD3_DEW2_10 = ~z~If I got into who deserved what, second-guessed every poster, ~rp~I'd tear out all my hair before I put a rope on anyone.
+
+SAD3_DEW2_11 = ~z~If the price is high enough, you got to trust there's a reason they set it.
+
+SAD3_DEW2_12 = ~z~I hope that rationale works out... for all of us.
+
+SAD3_DEW3_1 = ~z~Hold up.
+
+SAD3_DEW3_2 = ~z~Down there. A fire. I'd wager that's them.
+
+SAD3_DEW3_3 = ~z~Stay on the road, let's find a good vantage point.
+
+SAD3_DEWSHOOT_1 = ~z~Dammit. Sadie!
+
+SAD3_DONEBH_1 = ~z~You know, I been doing some bounty hunting of my own since I last saw you.
+
+SAD3_DONEBH_2 = ~z~Ain't gonna make a habit of it.
+
+SAD3_EMPTY_1 = ~z~Rancher's in there. Cortez had him tied up. He's in the barn.
+
+SAD3_EMPTY_2 = ~z~Go in there and I'll cover the exits.
+
+SAD3_EMPTY_3 = ~z~Alright.
+
+SAD3_EXT_1 = ~z~We got him, Sheriff.
+
+SAD3_EXT_2 = ~z~We got him.
+
+SAD3_EXT_3 = ~z~I knew you'd be back, Ramon...
+
+SAD3_EXT_4 = ~z~you just can't get enough of me.
+
+SAD3_EXT_5 = ~z~Put him in the wagon for me, would you?
+
+SAD3_EXT_6 = ~z~How's the jail?
+
+SAD3_EXT_7 = ~z~Needs to get fixed up...
+
+SAD3_EXT_8 = ~z~since this nice man blew a hole in it.
+
+SAD3_EXT_9 = ~z~Me and the boys will ride him to Saint Denis...
+
+SAD3_EXT_10 = ~z~right away this time.
+
+SAD3_EXT_11 = ~z~Come along, Cortez.
+
+SAD3_EXT_12 = ~z~Sheriff, before you go...
+
+SAD3_EXT_13 = ~z~I'll pay you when I deliver him.
+
+SAD3_EXT_14 = ~z~Plus seventy five dollars.
+
+SAD3_EXT_15 = ~z~Exactly.
+
+SAD3_EXT_16 = ~z~Now, goodbye. Let's go, boys.
+
+SAD3_EXT_17 = ~z~I'll see you soon, amigos.
+
+SAD3_EXT_18 = ~z~Shut up.
+
+SAD3_EXT_19 = ~z~Thanks for this, John.
+
+SAD3_EXT_20 = ~z~Will you send my money to the bank for me?
+
+SAD3_EXT_21 = ~z~Of course.
+
+SAD3_EXT_22 = ~z~I'm supposed to be retired from this.
+
+SAD3_EXT_23 = ~z~This?
+
+SAD3_EXT_24 = ~z~Weren't nothing...
+
+SAD3_EXT_25 = ~z~just a simple arrest.
+
+SAD3_EXT_26 = ~z~Money for old rope.
+
+SAD3_EXT_27 = ~z~If you say so.
+
+SAD3_EXT_28 = ~z~See you around, partner.
+
+SAD3_EXT_LEADIN_1 = ~z~We got him, Sheriff... we got him...
+
+SAD3_FUCORTEZ_1 = ~z~Cortez!
+
+SAD3_FUCORTEZ_2 = ~z~Cortez!
+
+SAD3_FUCORTEZ_3 = ~z~You ain't getting away from here!
+
+SAD3_HOGTIED_1 = ~z~Well, that's that then... help me load this fool on the horse.
+
+SAD3_HOGTIED_2 = ~z~Lot of crazy bastards... seems Mexico's a tough place.
+
+SAD3_HOGTIED_3 = ~z~Too tough for you, John Marston. I'd stay well clear.
+
+SAD3_HOGTIED_4 = ~z~Oh I mean to, Mrs. Adler.
+
+SAD3_IG1_HOUSE_1 = ~z~~sl:0.0:3.1:1~Ramon Cortez, we've come for ya.
+
+SAD3_IG1_HOUSE_2 = ~z~
+
+SAD3_IG1_HOUSE_3 = ~z~~sl:0.2~Crap.
+
+SAD3_IG1_HOUSE_4 = ~z~Cortez? Have you seen him?
+
+SAD3_IG1_HOUSE_5 = ~z~~sl:0.0:1.2:1~He's in the barn.
+
+SAD3_IG1_HOUSE_6 = ~z~~sl:0.0:2.6:1~Didn't I tell you? It's the barn.
+
+SAD3_IG1_HOUSE_7 = ~z~The bastard's been here for days.
+
+SAD3_IG1_HOUSE_8 = ~z~~sl:0.0:1.6:1~Do your worst to him.
+
+SAD3_IG1_HOUSE_9 = ~z~~sl:0.9~You sure he ain't in here?
+
+SAD3_IG1_HOUSE_10 = ~z~~sl:0.0:4.2:1~If he was in here, you'd know. Take a look.
+
+SAD3_IG1_HOUSE_11 = ~z~~sl:5.0:1.0:1~Dangit.
+
+SAD3_IG2_ENTER_1 = ~z~Ramon Cortez... we've come for you... come calmly and nobody'll get hurt...
+
+SAD3_IG3_1 = ~z~Hey!
+
+SAD3_INT_1 = ~z~And how are we? How's little Emily?
+
+SAD3_INT_2 = ~z~Emily?
+
+SAD3_INT_3 = ~z~I'm sorry, I've... I'm... how are you?
+
+SAD3_INT_4 = ~z~We need a barn.
+
+SAD3_INT_5 = ~z~Course you do. All them potatoes...
+
+SAD3_INT_6 = ~z~We're gonna farm livestock.
+
+SAD3_INT_7 = ~z~What's wrong with you?
+
+SAD3_INT_8 = ~z~How many scar faced loons you got...
+
+SAD3_INT_9 = ~z~coming in here buying pre-cut homes?
+
+SAD3_INT_10 = ~z~H-H-Here, what you think? Have a look.
+
+SAD3_INT_11 = ~z~Maybe that one?
+
+SAD3_INT_12 = ~z~That one.
+
+SAD3_INT_13 = ~z~An excellent choice.
+
+SAD3_INT_14 = ~z~We have a couple already cut and in stock.
+
+SAD3_INT_15 = ~z~I'll have it sent to you in Blackwater...
+
+SAD3_INT_16 = ~z~I'm down at Beecher's Hope.
+
+SAD3_INT_17 = ~z~Oh, I'm sorry. Of course.
+
+SAD3_INT_18 = ~z~It's my wife, Jerry. You see she's, uh...
+
+SAD3_INT_19 = ~z~it's great seeing you again, I'll...
+
+SAD3_INT_20 = ~z~Yeah it's, it's been a pleasure as always...~n~~m~and you, sir.
+
+SAD3_INT_21 = ~z~a great pleasure. Love your work.
+
+SAD3_INT_22 = ~z~Of course.
+
+SAD3_INT_23 = ~z~How we gonna pay for this?
+
+SAD3_INT_24 = ~z~Same way we pay for everything.
+
+SAD3_INT_25 = ~z~I just wish I could help you, sir.
+
+SAD3_INT_26 = ~z~You've been a good customer, and I like you...
+
+SAD3_INT_27 = ~z~and David Geddes likes you.
+
+SAD3_INT_28 = ~z~Now I-I...
+
+SAD3_INT_29 = ~z~But, this man is very annoying.
+
+SAD3_INT_30 = ~z~Can you just gimme a few days?
+
+SAD3_INT_31 = ~z~Of course.
+
+SAD3_INT_32 = ~z~I really enjoy begging and watching you make a fool of yourself.
+
+SAD3_INT_33 = ~z~Well, I...
+
+SAD3_INT_34 = ~z~John!
+
+SAD3_INT_35 = ~z~Hey.
+
+SAD3_INT_36 = ~z~Is that Sadie Adler?
+
+SAD3_INT_37 = ~z~Hey.
+
+SAD3_INT_38 = ~z~John, how are you?
+
+SAD3_INT_39 = ~z~Well, hello Uncle...
+
+SAD3_INT_40 = ~z~nice to see you. Oh, and you too.
+
+SAD3_INT_41 = ~z~Oh, shut up, you old creep.
+
+SAD3_INT_42 = ~z~Listen, Sadie I...
+
+SAD3_INT_43 = ~z~You got any work?
+
+SAD3_INT_44 = ~z~I'm kinda desperate.
+
+SAD3_INT_45 = ~z~Work? Hmm...
+
+SAD3_INT_46 = ~z~How desperate?
+
+SAD3_INT_47 = ~z~I need money.
+
+SAD3_INT_48 = ~z~A bunch of money.
+
+SAD3_INT_49 = ~z~My debts climbing and I...
+
+SAD3_INT_50 = ~z~You up for a fight?
+
+SAD3_INT_51 = ~z~Is it legal?
+
+SAD3_INT_52 = ~z~Oh, it's very legal, but it's...
+
+SAD3_INT_53 = ~z~also pretty dangerous.
+
+SAD3_INT_54 = ~z~With you it'll be fine, but I wouldn't do it on my own.
+
+SAD3_INT_55 = ~z~I ain't got much choice.
+
+SAD3_INT_56 = ~z~Alright then, come on.
+
+SAD3_INT_57 = ~z~Look after him, Sadie, he's a delicate flower underneath.
+
+SAD3_INT_LI_1 = ~z~~sl:0.1~We need a barn...
+
+SAD3_INT_LI_2 = ~z~A barn...
+
+SAD3_INT_LI_GT_1 = ~z~And how are we? How's little Emily?
+
+SAD3_INT_LI_GT_2 = ~z~Emily?
+
+SAD3_INT_LI_GT_3 = ~z~I'm sorry, I've, uh-um, how are you?
+
+SAD3_JTOUNC_1 = ~z~Tell the bank there's money coming in, and get a crew to help with that barn.
+
+SAD3_KILLEM_01 = ~z~Get them!
+
+SAD3_KILLEM_02 = ~z~There!
+
+SAD3_KILLEM_03 = ~z~Shoot that bastard!
+
+SAD3_KILLEM_04 = ~z~You got them?
+
+SAD3_KILLEM_05 = ~z~They're yours!
+
+SAD3_LETSDEW_1 = ~z~Where we gonna find him?
+
+SAD3_LETSDEW_2 = ~z~He said there was men meeting him at Dewberry Creek. Let's start by looking there.
+
+SAD3_LETSDEW_3 = ~z~Sure.
+
+SAD3_LIFT_GOGO_01 = ~z~Okay, let's go.
+
+SAD3_LIFT_GOGO_02 = ~z~Let's get out of here.
+
+SAD3_LIFT_GOGO_03 = ~z~Come on.
+
+SAD3_LIFT_IDLE_01 = ~z~Stow him and we can go.
+
+SAD3_LIFT_IDLE_02 = ~z~It's my show remember? You do the heavy lifting.
+
+SAD3_LIFT_IDLE_03 = ~z~~sl:0.0:1.1~Get him on a horse.~sl:~We can get out of here before the buzzards show up.
+
+SAD3_MCS1_1 = ~z~You got him?
+
+SAD3_MCS1_2 = ~z~I think so...
+
+SAD3_MCS1_3 = ~z~he just tried to kill me.
+
+SAD3_MCS1_4 = ~z~That's about right.
+
+SAD3_MCS1_5 = ~z~Yeah, that's him.
+
+SAD3_MCS1_6 = ~z~Come on, let's get him to the sheriff.
+
+SAD3_MCS1_7 = ~z~Come on, Ramon.
+
+SAD3_MCS1_8 = ~z~Let's go for a ride.
+
+SAD3_MCS2_1 = ~z~Mister Sheriff?
+
+SAD3_MCS2_2 = ~z~Mister Sheriff, we got Ramon Cortez.
+
+SAD3_MCS2_3 = ~z~Cortez?
+
+SAD3_MCS2_4 = ~z~Sure did.
+
+SAD3_MCS2_5 = ~z~Well done... how?
+
+SAD3_MCS2_6 = ~z~Found him hiding in a pile of shit.
+
+SAD3_MCS2_7 = ~z~That's about right.
+
+SAD3_MCS2_8 = ~z~How you doing, Ramon?
+
+SAD3_MCS2_9 = ~z~Oh, just fine, mister.
+
+SAD3_MCS2_10 = ~z~Hey, how much you want?
+
+SAD3_MCS2_11 = ~z~How much any of you want?
+
+SAD3_MCS2_12 = ~z~I'll give two thousand dollars in gold...
+
+SAD3_MCS2_13 = ~z~to whichever one of you sets me free.
+
+SAD3_MCS2_14 = ~z~I'm afraid it's a bit late for that, Ramon.
+
+SAD3_MCS2_15 = ~z~You been a real bad boy.
+
+SAD3_MCS2_16 = ~z~Me and my boys are gonna...
+
+SAD3_MCS2_17 = ~z~ride you into Saint Denis and watch 'em hang you.
+
+SAD3_MCS2_18 = ~z~Okay... okay, if you think so, mister.
+
+SAD3_MCS2_19 = ~z~Oh, I know so, Ramon.
+
+SAD3_MCS2_20 = ~z~Take a seat...
+
+SAD3_MCS2_21 = ~z~help me guard him, until my boys arrive...
+
+SAD3_MCS2_22 = ~z~and we can get him out of here.
+
+SAD3_MCS2_23 = ~z~Sure.
+
+SAD3_MCS2_24 = ~z~I spent years cleaning up this town.
+
+SAD3_MCS2_25 = ~z~Last thing I need is fools like this...
+
+SAD3_MCS2_26 = ~z~thinking they can take us back to the... bad old days.
+
+SAD3_MCS2_27 = ~z~Well, you did a good job.
+
+SAD3_MCS2_28 = ~z~Oh, Sheriff Thomas, Sheriff Thomas...
+
+SAD3_MCS2_29 = ~z~we want our friend back!
+
+SAD3_MCS2_30 = ~z~You have about ten seconds, Sheriff Thomas...
+
+SAD3_MCS2_31 = ~z~before we kill all of you fools.
+
+SAD3_MCS2_32 = ~z~One!
+
+SAD3_MCS2_33 = ~z~Don't be a dumb bastard!
+
+SAD3_MCS2_34 = ~z~Two!
+
+SAD3_MCS2_35 = ~z~This is a good town now!
+
+SAD3_MCS2_36 = ~z~Three!
+
+SAD3_MCS2_37 = ~z~Let 'em have it, boys!
+
+SAD3_MCS2_LI_1 = ~z~Mr. Sheriff?
+
+SAD3_MCS2_LI_2 = ~z~Mr. Sheriff, we got Ramon Cortez.
+
+SAD3_MCS2_LI_3 = ~z~Cortez?
+
+SAD3_MCS2_LI_4 = ~z~Sure did...
+
+SAD3_MCS3_1 = ~z~What was that? Come on...
+
+SAD3_MCS3_2 = ~z~The jail!
+
+SAD3_MCS3_3 = ~z~The jail!
+
+SAD3_MCS3_4 = ~z~They blew my jail apart.
+
+SAD3_MCS3_5 = ~z~He's gone, he's gone...
+
+SAD3_MCS3_6 = ~z~Well, we brought him in...
+
+SAD3_MCS3_7 = ~z~now pay us what's owed.
+
+SAD3_MCS3_8 = ~z~He ain't here now, madam.
+
+SAD3_MCS3_9 = ~z~I don't get paid unless he makes it to Saint Denis.
+
+SAD3_MCS3_10 = ~z~You wanna get shot today as well as robbed, mister?
+
+SAD3_MCS3_11 = ~z~Are you threatening me?
+
+SAD3_MCS3_12 = ~z~Why would we bother threatening you?
+
+SAD3_MCS3_13 = ~z~Get him back and I'll get your money...
+
+SAD3_MCS3_14 = ~z~and another fifty dollars besides.
+
+SAD3_MCS3_15 = ~z~A hundred dollars.
+
+SAD3_MCS3_16 = ~z~Seventy five...
+
+SAD3_MCS3_17 = ~z~I can't go higher.
+
+SAD3_MCS3_18 = ~z~Done.
+
+SAD3_MCS3_19 = ~z~Let's go... Jim Milton.
+
+SAD3_MCS4_1 = ~z~They must be camping down there.
+
+SAD3_MCS4_2 = ~z~Why they hanging around?
+
+SAD3_MCS4_3 = ~z~Probably waiting for a boat.
+
+SAD3_MCS4_4 = ~z~There's supposed to be a storm coming through...
+
+SAD3_MCS4_5 = ~z~so maybe that's delayed them?
+
+SAD3_MCS4_6 = ~z~Perhaps.
+
+SAD3_MCS4_7 = ~z~So what do we do now?
+
+SAD3_MCS4_8 = ~z~I'm gonna go get him.
+
+SAD3_MCS4_9 = ~z~You?
+
+SAD3_MCS4_10 = ~z~Me.
+
+SAD3_MCS4_11 = ~z~You just cover me...
+
+SAD3_MCS4_12 = ~z~I ain't getting you killed out there.
+
+SAD3_MCS4_13 = ~z~But it's okay for you?
+
+SAD3_MCS4_14 = ~z~Look I, I wanna die...
+
+SAD3_MCS4_15 = ~z~and besides...
+
+SAD3_MCS4_16 = ~z~those bastards don't look that tough.
+
+SAD3_MCS4_17 = ~z~They look asleep as far as I can tell.
+
+SAD3_MCS4_18 = ~z~I'm gonna go.
+
+SAD3_MCS4_19 = ~z~You sure about this?
+
+SAD3_MCS4_20 = ~z~It just don't seem right.
+
+SAD3_MCS4_21 = ~z~This is my show, John Marston.
+
+SAD3_MCS4_22 = ~z~Do as you're goddamn told...
+
+SAD3_MCS4_23 = ~z~and shoot well.
+
+SAD3_MCS5_1 = ~z~Alright, alright, amigo...
+
+SAD3_MCS5_2 = ~z~I'm coming.
+
+SAD3_MCS5_3 = ~z~Try anything clever and you're gonna get shot.
+
+SAD3_MCS5_4 = ~z~Oh, hold your horses, chica.
+
+SAD3_MCS5_5 = ~z~Get outta there.
+
+SAD3_MCS5_6 = ~z~I said get outta there!
+
+SAD3_MCS5_7 = ~z~Easy, easy, girl.
+
+SAD3_MCS5_8 = ~z~Oh, you gave up easy a long time ago.
+
+SAD3_MCS5_9 = ~z~Hey, look out, there's more of 'em coming.
+
+SAD3_MCS5_10 = ~z~Hey!
+
+SAD3_MCS5_11 = ~t~In Spanish: I'm here!
+
+SAD3_MCS5_12 = ~z~Shut your goddamn mouth!
+
+SAD3_MCS5_LI_1 = ~z~You wanna die right now, Cortez?
+
+SAD3_MCS5_LI_2 = ~z~~sl:1.4:1.8:1~I'm going to die anyway!
+
+SAD3_MCS5_LI_3 = ~z~So you really want me to shoot ya?
+
+SAD3_MCS5_LI_4 = ~z~~sl:0.0:1.6~You might get lucky in court...~sl:0.8~get over here!
+
+SAD3_MOVEMOVE_01 = ~z~Move!
+
+SAD3_MOVEMOVE_02 = ~z~Push up!
+
+SAD3_MOVEMOVE_03 = ~z~Let's go!
+
+SAD3_MOVEMOVE_04 = ~z~Come on!
+
+SAD3_MOVEMOVE_05 = ~z~Stay with me!
+
+SAD3_NEEDBACKUP_01 = ~z~I need you with me, John.
+
+SAD3_NEEDBACKUP_02 = ~z~Where the hell are you?
+
+SAD3_NEEDBACKUP_03 = ~z~I need your help. Get over here!
+
+SAD3_OFFHORDEW_01 = ~z~Come on.
+
+SAD3_OFFHORDEW_02 = ~z~Let's go up.
+
+SAD3_OFFHORSE_1 = ~z~Let's get down and take a look.
+
+SAD3_POSTSHER_01 = ~z~Mount up.
+
+SAD3_POSTSHER_02 = ~z~Come on.
+
+SAD3_RAMON_DEAD_01 = ~z~You killed him, you idiot!
+
+SAD3_RAMON_DEAD_02 = ~z~Dammit he's dead!
+
+SAD3_RANCH_1 = ~z~This is Painted Sky up here.
+
+SAD3_RANCH_2 = ~z~Looks quiet.
+
+SAD3_RANCH_3 = ~z~Ramon Cortez, you better be here.
+
+SAD3_RHDOFFHOR_1 = ~z~Bring Cortez round the front for me, will you?
+
+SAD3_RHDOFFHOR_2 = ~z~I'll get them ready for you.
+
+SAD3_RH_SHOT1_1 = ~z~We got them on the back foot, come on.
+
+SAD3_RH_SHOT2_1 = ~z~Keep going, they're running scared.
+
+SAD3_RH_SHOT_1 = ~z~They're turning tail.
+
+SAD3_RH_SHOT_2 = ~z~Come on. Let's run these corwards out of town.
+
+SAD3_RIDE1SHOUTED_1 = ~z~~sl:0.0:3.2~Alright. This Painted Sky tip is pretty fresh...~sl:~but I don't know how long it'll stay that way.
+
+SAD3_RIDE1SHOUTED_3 = ~z~~sl:0.0:1.6~couldn't find the rancher, but...~sl:~saw a Mexican looking feller hanging around.
+
+SAD3_RIDE1SHOUTED_4 = ~z~~sl:0.0:3.0~Now,~rp~ Ramon Cortez is around those parts,~sl:~split up from his gang, and stuck in West Elizabeth.
+
+SAD3_RIDE1SPOKEN_1 = ~z~~sl:0.0:3.0~Alright. The Painted Sky tip is pretty fresh...~sl:~but I don't know how long it'll stay that way.
+
+SAD3_RIDE1SPOKEN_3 = ~z~~sl:0.0:1.2~couldn't find the rancher...~sl:~but saw a Mexican looking feller hanging around.
+
+SAD3_RIDE1SPOKEN_4 = ~z~~sl:0.0:3.0~Now,~rp~ Ramon Cortez is round those parts,~sl:~split up from his gang, and stuck in West Elizabeth.
+
+SAD3_RIDE1_2 = ~z~An encyclopedia salesman was up there... on the property...
+
+SAD3_RIDE1_5 = ~z~~sl:0.0:3.4~It's gotta be him, holed up waiting on some out...~sl:0.2~and we're gonna get to him first.
+
+SAD3_RIDE2_DL1_1 = ~z~Sounds like he needs all the help he can get.
+
+SAD3_RIDE2_DL1_2 = ~z~Maybe drop in on him some time.
+
+SAD3_RIDE2_DL2_1 = ~z~Yeah, I met him.
+
+SAD3_RIDE2_DL2_2 = ~z~Don't you get around.
+
+SAD3_RIDE2_DL3_1 = ~z~Yeah, I met him. ~rp~He sent me after a bounty might be related to this one. ~rp~Esteban Cortez.
+
+SAD3_RIDE2_DL3_2 = ~z~That's his brother. ~rp~You get around alright, John Marston.
+
+SAD3_RIDE2_DL_1 = ~z~Sadie? ~rp~Hey, so who is the bounty?
+
+SAD3_RIDE2_DL_2 = ~z~Ramon Cortez. He's with the Del Lobo gang.
+
+SAD3_RIDE2_DL_3 = ~z~Del Lobos?
+
+SAD3_RIDE2_DL_4 = ~z~Yeah. ~rp~You head back down to where he was - New Austin - ~rp~you're bound to run into them.
+
+SAD3_RIDE2_DL_5 = ~z~I run into them. ~rp~Mostly Mexicans.
+
+SAD3_RIDE2_DL_6 = ~z~Some of them. ~rp~But some is Californios. And some are regular Americans too. ~rp~They're a misfit bunch.
+
+SAD3_RIDE2_DL_7 = ~z~Just like we were... ~rp~and they're friendly... ~rp~real friendly.
+
+SAD3_RIDE2_DL_8 = ~z~Oh yeah... ~rp~it's a bad situation down there. ~rp~Burnings, killings, you name it.
+
+SAD3_RIDE2_DL_9 = ~z~I know something of that.
+
+SAD3_RIDE2_DL_10 = ~z~And not much law except the Sheriff of Tumbleweed.
+
+SAD3_RIDE2_DL_11 = ~z~He's making a hell of a go of it, but ~rp~there ain't much there to hold back the chaos. ~rp~It's real wild country.
+
+SAD3_RIDE2_WHO_1 = ~z~Sadie? ~rp~Hey, so who is this bounty?
+
+SAD3_RIDE2_WHO_2 = ~z~Ramon Cortez. He's with the Del Lobo gang.
+
+SAD3_RIDE2_WHO_3 = ~z~Yeah?
+
+SAD3_RIDE2_WHO_4 = ~z~You head back down to where we was. New Austin, ~rp~you're bound to run into them.
+
+SAD3_RIDE2_WHO_5 = ~z~Are they Mexicans?
+
+SAD3_RIDE2_WHO_6 = ~z~Some. And some Californios. ~rp~And some regular Americans too. ~rp~They're a misfit bunch.
+
+SAD3_RIDE2_WHO_7 = ~z~Just like we were... ~rp~and they're friendly, I bet.
+
+SAD3_RIDE2_WHO_8 = ~z~Charming to a fault... ~rp~it's a bad situation out there. ~rp~Burnings, killings, you name it.
+
+SAD3_RIDE2_WHO_9 = ~z~Not much law except the Sheriff of Tumbleweed.
+
+SAD3_RIDE2_WHO_10 = ~z~He's making a hell of a go of it, but there ain't much there to hold back the chaos. ~rp~It's real wild that country.
+
+SAD3_RIDE2_WHO_11 = ~z~That ain't much of an advertisement for the place.
+
+SAD3_RIDE2_WHO_12 = ~z~It isn't somewhere I'd vacation. ~rp~But it's something to behold. ~rp~If you're inclined you should take a look.
+
+SAD3_RIDE3_1 = ~z~You know I had some trouble of my own.
+
+SAD3_RIDE3_2 = ~z~That gang you was talking about...~rp~ was they the Skinner Brothers?
+
+SAD3_RIDE3_3 = ~z~That's them.
+
+SAD3_RIDE3_4 = ~z~They ain't nice.
+
+SAD3_RIDE3_5 = ~z~Nice weren't what I heard about them.
+
+SAD3_RIDE3_6 = ~z~Got hold of this feller I'd hired.~rp~ He didn't die well.
+
+SAD3_RIDE3_7 = ~z~I'm sorry, John.
+
+SAD3_RIDE3_8 = ~z~We fought back.~rp~ We was too slow was all.~rp~ I wish we'd done better for him.
+
+SAD3_RIDE3_9 = ~z~I'm sure you did the best you could.~rp~ I've heard... well, the kinds of things they do to men.
+
+SAD3_RIDE3_10 = ~z~Unspeakable things.~rp~ I hope that's the last you see of them.
+
+SAD3_RIDE3_11 = ~z~Me too. But if not,~rp~ I mean to be ready.
+
+SAD3_RIDE3_12 = ~z~That's wise.
+
+SAD3_RIDE4_1 = ~z~You want to hear something?~rp~ I built my ranch house.
+
+SAD3_RIDE4_2 = ~z~Good for you.~rp~ Did you make it out of straw bales?
+
+SAD3_RIDE4_3 = ~z~No.~rp~ It's one of them precut ones...~rp~ me and Charles put it up,~rp~ and Uncle... watched and barked the odd order at us.
+
+SAD3_RIDE4_4 = ~z~It's solid though.~rp~ Real good and sturdy.
+
+SAD3_RIDE4_5 = ~z~John Marston's got his own house.
+
+SAD3_RIDE4_6 = ~z~You should come see it.~rp~ It's good country, Sadie. Despite all that.
+
+SAD3_RIDE4_7 = ~z~I try not to fraternize too much with employees. You know, it sends the wrong message.
+
+SAD3_RIDE4_8 = ~z~Oh that's what I am now, an employee?
+
+SAD3_RIDE4_9 = ~z~That's what the bank says.
+
+SAD3_RIDE4_10 = ~z~Then I guess our fraternizing days are done.
+
+SAD3_RIDE4_11 = ~z~Now be a good boy and get this bounty for me.
+
+SAD3_RIDE4_12 = ~z~Yes, ma'am.
+
+SAD3_SADIESHIT_1 = ~z~Del Lobos.
+
+SAD3_SADIESHIT_2 = ~z~Shit.
+
+SAD3_SEARCH_01 = ~z~You was taking the barn.
+
+SAD3_SEARCH_02 = ~z~I got this, John. Take the barn.
+
+SAD3_SEARCH_03 = ~z~We need to split up and cover this place. Now get on.
+
+SAD3_SHRF_RTRN_01 = ~z~We agreed terms, now get after them.
+
+SAD3_SHRF_RTRN_02 = ~z~~sl:0.0:2.8~You've got an appointment with the Del Lobos,~sl:~and I've got an appointment with the lumber yard and the undertaker.
+
+SAD3_SHRF_RTRN_03 = ~z~Go already... they might be half way to Mexico by now.
+
+SAD3_SHRF_STO_01 = ~z~Cortez, you son of a bitch.
+
+SAD3_SHRF_STO_02 = ~z~Your folks picked the wrong town.
+
+SAD3_SHRF_STO_03 = ~z~Hold the jail house... my boys are coming.
+
+SAD3_SHRF_STO_04 = ~z~Shoot those bastards!
+
+SAD3_SHRF_STO_05 = ~z~Damn Del Lobos!
+
+SAD3_SLETSGO2_01 = ~z~Lead the way.
+
+SAD3_SLETSGO2_02 = ~z~If we're going to go, we should go.
+
+SAD3_SLETSGO2_03 = ~z~Come on, John.
+
+SAD3_SLETSGO_1 = ~z~I have it on good authority we can find this bounty at Painted Sky.
+
+SAD3_SLETSGO_2 = ~z~I know the place.
+
+SAD3_SLETSGO_3 = ~z~Okay, I'll follow you.
+
+SAD3_STRANGLE_01 = ~z~~sl:0.6~It'll all be over soon.
+
+SAD3_STRANGLE_02 = ~z~Don't fight it. Just drift away.
+
+SAD3_TOBARN_01 = ~z~Get in there, Marston.
+
+SAD3_TOBARN_02 = ~z~This what I'm paying you for? Go into the barn.
+
+SAD3_TOBARN_03 = ~z~If he's in there he'll run, and I'll be out here waiting.
+
+SAD3_TORHD_1 = ~z~We're going to Rhodes.
+
+SAD3_TORHD_2 = ~z~Rhodes?
+
+SAD3_TORHD_3 = ~z~It's different there now.
+
+SAD3_TORIVER_1 = ~z~We'll cross up here. Come on.
+
+SAD3_UATCAKES_1 = ~z~This is him.
+
+SAD3_UPHERE_1 = ~z~Up here.
+
+SAD3_UPHERE_2 = ~z~Come on, I think there's an old water mill by the creek bed.
+
+SAD3_UPHERE_3 = ~z~There it is.
+
+SAD3_UPHERE_4 = ~z~~sl:0.0:1.3~Keep some distance.~sl:~We need to take a good look at them before we do anything.
+
+SAD3_UTOBLW_1 = ~z~Into Blackwater. Let's go.
+
+SAD3_UTOHORSE_1 = ~z~Get your horse.
+
+SAD3_UTOJGO_01 = ~z~Ain't you got important work to do?
+
+SAD3_UTOJGO_02 = ~z~We'll handle the barn... you handle whatever else this is.
+
+SAD3_UTOJGO_03 = ~z~Go with the woman, you boob. Ain't kind to keep her waiting.
+
+SAD3_UWALKHORSE_1 = ~z~I can't move like I used to.
+
+SAD3_UWALKHORSE_2 = ~z~Then I never was that fast.
+

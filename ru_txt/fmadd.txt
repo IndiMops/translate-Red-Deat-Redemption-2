@@ -1,0 +1,110 @@
+0x0140B1AE = Доставьте ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку
+
+0x25E1520C = Захватите и доставьте ~COLOR_FREEMODE_EVENT~повозку~s~ к месту назначения.
+
+0xC3E1E014 = Помогите игроку ~COLOR_POSSE_ALLY~~1p~~s~ добраться до ~COLOR_MP_OBJECTIVE~~2~~s~.
+
+DD_BBUSH_TRAWL_A_H = Помогите игроку ~COLOR_POSSE_ALLY~~1p~~s~ добраться до ~COLOR_MP_OBJECTIVE~ранчо Макфарлейнов~s~.
+
+DD_BBUSH_TRAWL_D_H = Пригоните лошадь на ~COLOR_MP_OBJECTIVE~ранчо Макфарлейнов~s~.
+
+DD_BRAITHWAITE_A_H = Помогите игроку ~COLOR_POSSE_ALLY~~1p~~s~ добраться до ~COLOR_MP_OBJECTIVE~Шейди-Бель~s~.
+
+DD_BRAITHWAITE_D_H = Пригоните лошадь в ~COLOR_MP_OBJECTIVE~Шейди-Бель~s~.
+
+DD_DROP_OFF = Место доставки
+
+DD_E_POSSESS_OBJ_H = Отбейте ~COLOR_MP_OBJECTIVE_ENEMY~лошадь~s~ у игрока ~COLOR_ENEMY~~1p~~s~.
+
+DD_E_POSSESS_OBJ_W = Отбейте ~COLOR_MP_OBJECTIVE_ENEMY~повозку~s~ у игрока ~COLOR_ENEMY~~1p~~s~.
+
+DD_FAILED_H = Лошадь доставлена
+
+DD_FAIL_RESPAWN_H = Лошадь потеряна
+
+DD_FAIL_RESPAWN_W = Повозка потеряна
+
+DD_GAME_UPDATE_POSSESSION_H_E = Игрок ~1p~~s~ завладел ~COLOR_MP_OBJECTIVE_ENEMY~лошадью~s~
+
+DD_GAME_UPDATE_POSSESSION_H_F = Игрок ~1p~~s~ завладел ~COLOR_POSSE_ALLY~лошадью~s~
+
+DD_GAME_UPDATE_POSSESSION_SELF_H = Лошадь у вас
+
+DD_GAME_UPDATE_POSSESSION_SELF_W = Повозка у вас
+
+DD_GAME_UPDATE_POSSESSION_W_E = Игрок ~1p~~s~ завладел ~COLOR_MP_OBJECTIVE_ENEMY~повозкой~s~
+
+DD_GAME_UPDATE_POSSESSION_W_F = Игрок ~1p~~s~ завладел ~COLOR_POSSE_ALLY~повозкой~s~
+
+DD_GAPTOOTH_RIDGE_A_H = Помогите игроку ~COLOR_POSSE_ALLY~~1p~~s~ добраться до ~COLOR_MP_OBJECTIVE~Бенедикт-Пойнт~s~.
+
+DD_GAPTOOTH_RIDGE_D_H = Пригоните лошадь в ~COLOR_MP_OBJECTIVE~Бенедикт-Пойнт~s~.
+
+DD_GRAB_H = Украдите ~COLOR_MP_OBJECTIVE_NEUTRAL~лошадь~s~.
+
+DD_GRAB_W = Украдите ~COLOR_MP_OBJECTIVE_NEUTRAL~повозку~s~.
+
+DD_HEARTLAND_A_H = Помогите игроку ~COLOR_POSSE_ALLY~~1p~~s~ добраться до ~COLOR_MP_OBJECTIVE~старой нефтяной вышки~s~.
+
+DD_HEARTLAND_D_H = Пригоните лошадь к ~COLOR_MP_OBJECTIVE~старой нефтяной вышке~s~.
+
+DD_HEARTLAND_D_W = Пригоните повозку к ~COLOR_MP_OBJECTIVE~старой нефтяной вышке~s~.
+
+DD_HELP_H_FIRST_COLLECT_KILL = Игрок ~1p~ завладел ~COLOR_MP_OBJECTIVE_ENEMY~лошадью~BLIP_MP_GAME_RACE_HORSE~.~s~ Убейте игрока, прежде чем он доставит ее к точке назначения.
+
+DD_HELP_H_FIRST_COLLECT_PROT = Игрок ~1p~ завладел ~COLOR_POSSE_ALLY~лошадью~BLIP_MP_GAME_RACE_HORSE~.~s~ Помогите игроку доставить ее к точке назначения.
+
+DD_HELP_RULES = Захватите и отгоните ~COLOR_FREEMODE_EVENT~лошадь~s~ к месту доставки.
+
+DD_HELP_W_FIRST_COLLECT_KILL = Игрок ~1p~ завладел ~COLOR_MP_OBJECTIVE_ENEMY~повозкой~BLIP_AMBIENT_COACH~.~s~ Убейте игрока, прежде чем он доставит ее к точке назначения.
+
+DD_HELP_W_FIRST_COLLECT_PROT = Игрок ~1p~ завладел ~COLOR_POSSE_ALLY~повозкой~BLIP_AMBIENT_COACH~.~s~ Помогите игроку доставить ее к точке назначения.
+
+DD_HORSE = Лошадь
+
+DD_MACLEAN_A_H = Помогите игроку ~COLOR_POSSE_ALLY~~1p~~s~ добраться до ~COLOR_MP_OBJECTIVE~фермы Блюуотер~s~.
+
+DD_MACLEAN_D_H = Пригоните лошадь на ~COLOR_MP_OBJECTIVE~ферму Блюуотер~s~.
+
+DD_PAC_RAIL_A_H = Помогите игроку ~COLOR_POSSE_ALLY~~1p~~s~ добраться до ~COLOR_MP_OBJECTIVE~поста Мансанита~s~.
+
+DD_PAC_RAIL_D_H = Пригоните лошадь к ~COLOR_MP_OBJECTIVE~посту Мансанита~s~.
+
+DD_PAINTED_SKY_A_H = Помогите игроку ~COLOR_POSSE_ALLY~~1p~~s~ добраться до ~COLOR_MP_OBJECTIVE~станции Флэтнек~s~.
+
+DD_PAINTED_SKY_D_H = Пригоните лошадь на ~COLOR_MP_OBJECTIVE~станцию Флэтнек~s~.
+
+DD_PLEASANCE_HOUSE_A_H = Помогите игроку ~COLOR_POSSE_ALLY~~1p~~s~ добраться до ~COLOR_MP_OBJECTIVE~фермы Риджвуд~s~.
+
+DD_PLEASANCE_HOUSE_D_H = Пригоните лошадь на ~COLOR_MP_OBJECTIVE~ферму Риджвуд~s~.
+
+DD_PLEASANCE_HOUSE_D_W = Пригоните повозку на ~COLOR_MP_OBJECTIVE~ферму Риджвуд~s~.
+
+DD_RIO_BRAVO_A_H = Помогите игроку ~COLOR_POSSE_ALLY~~1p~~s~ добраться до ~COLOR_MP_OBJECTIVE~Соломонз-Фолли~s~.
+
+DD_RIO_BRAVO_D_H = Пригоните лошадь в ~COLOR_MP_OBJECTIVE~Соломонз-Фолли~s~.
+
+DD_R_FORK_A_H = Помогите игроку ~COLOR_POSSE_ALLY~~1p~~s~ добраться до ~COLOR_MP_OBJECTIVE~Чолья-Спрингз~s~.
+
+DD_R_FORK_D_H = Пригоните лошадь на ~COLOR_MP_OBJECTIVE~станцию Чолья-Спрингз~s~.
+
+DD_R_FORK_D_W = Пригоните повозку к ~COLOR_MP_OBJECTIVE~Чолья-Спрингз~s~.
+
+DD_SHARD_OUTRO_TITLE_FAILED = Экспресс-доставка завершена
+
+DD_STRAWBERRY_A_H = Помогите игроку ~COLOR_POSSE_ALLY~~1p~~s~ добраться до ~COLOR_MP_OBJECTIVE~станции Риггс~s~.
+
+DD_STRAWBERRY_D_H = Пригоните лошадь на ~COLOR_MP_OBJECTIVE~станцию Риггс~s~.
+
+DD_TURN_IN_H_S = Доставьте ~COLOR_MP_OBJECTIVE_NEUTRAL~лошадь
+
+DD_VETERAN_HOME_A_H = Помогите игроку ~COLOR_POSSE_ALLY~~1p~~s~ добраться до ~COLOR_MP_OBJECTIVE~Мунстоунского пруда~s~.
+
+DD_VETERAN_HOME_D_H = Пригоните лошадь к ~COLOR_MP_OBJECTIVE~Мунстоунскому пруду~s~.
+
+DD_WAGON = Повозка
+
+DD_WON_H = Лошадь доставлена
+
+DD_WON_W = Повозка доставлена
+

@@ -1,0 +1,28 @@
+CDOG2_ACTION_A_1 = ~z~
+
+CDOG2_ACTION_A_2 = ~z~Good boy, good boy.
+
+CDOG2_ACTION_B_1 = ~z~
+
+CDOG2_ACTION_B_2 = ~z~
+
+CDOG2_ACTION_C_1 = ~z~Here we go...
+
+CDOG2_ACTION_C_2 = ~z~Got it.
+
+CDOG2_ACT_ALT_1 = ~z~I love dogs, Arthur.
+
+CDOG2_ACT_ALT_2 = ~z~Good for you.
+
+CDOG2_EXIT_1 = ~z~Good boy.
+
+CDOG2_EXIT_WALK_1 = ~z~
+
+CDOG2_NEWPOSE_1 = ~z~Here we go...
+
+CDOG2_NEWPOSE_2 = ~z~C'mere... oh, good dog.
+
+CDOG2_TRANID_B_1 = ~z~Good dog.
+
+CDOG2_TRANID_C_1 = ~z~Good dog... good boy, good boy.
+

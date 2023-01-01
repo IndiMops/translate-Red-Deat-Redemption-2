@@ -1,0 +1,16 @@
+KIER1_ACTA_1 = ~z~Miss! Can I get a sip of that?
+
+KIER1_ACTA_2 = ~z~Come on, please, just one sip!
+
+KIER1_ACTA_3 = ~z~Alright, here. Make it quick.
+
+KIER1_ACTA_4 = ~z~Oh damn, that's good.
+
+KIER1_ACTA_5 = ~z~That's your lot.
+
+KIER1_ACTA_6 = ~z~Listen, you couldn't get me a blanket o-or a dry pair of boots, could you?
+
+KIER1_ACTA_7 = ~z~Sure, you want a bottle of champagne with that too? Coming right up.
+
+KIER1_ACTB_1 = ~z~Don't give me that look. You want him alive don't you?
+

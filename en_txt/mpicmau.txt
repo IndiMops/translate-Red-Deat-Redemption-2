@@ -1,0 +1,512 @@
+MPICM_BINK_CARM_1 = ~z~Oh yes, Carmela Montez.
+
+MPICM_BINK_CARM_2 = ~z~Sweet, innocent, little Carmela.
+
+MPICM_BINK_CARM_3 = ~z~Looks like butter wouldn't melt in her mouth...
+
+MPICM_BINK_CARM_4 = ~z~but, make no mistake, this is one stone-cold killer.
+
+MPICM_BINK_CARM_5 = ~z~Vicious as all hell.
+
+MPICM_BINK_CARM_6 = ~z~And by the time you realize, you'll already be dead.
+
+MPICM_BINK_CARM_7 = ~z~Can't think of an outlaw who's dropped more bodies...
+
+MPICM_BINK_CARM_8 = ~z~than Carmela the past six months.
+
+MPICM_BINK_CARM_9 = ~z~And she ain't lost a wink of sleep over it.
+
+MPICM_BINK_CARM_10 = ~z~Got a big bunch of Del Lobos running with her now.
+
+MPICM_BINK_CARM_11 = ~z~Moved them out of New Austin into West Elizabeth...
+
+MPICM_BINK_CARM_12 = ~z~sticking up coaches, robbing and murdering.
+
+MPICM_BINK_CARM_13 = ~z~Last I heard, they're holed up at Hanging Dog Ranch in Big Valley.
+
+MPICM_BINK_CARM_14 = ~z~Just watch yourself. Ain't no way she'll come quietly.
+
+MPICM_BNYELL_1 = ~t~~sl:1.6~In Spanish: You said this would be ready, but I'm still waiting.
+
+MPICM_BNYELL_2 = ~t~~sl:0.0:1.2~In Spanish: Maybe you don't remember?~sl:0.7~You came to me and said, "Carmela, I am good with my hands..."
+
+MPICM_BNYELL_3 = ~t~~sl:0.0:1.5~In Spanish: "I will keep your wagon in prime condition."~sl:0.7~You remember, no?
+
+MPICM_BNYELL_4 = ~t~~sl:0.0:3.6~In Spanish: So, when we hit that chaparral cutting through Tumbleweed,~sl:~I was not concerned.
+
+MPICM_BNYELL_5 = ~t~~sl:0.0:2.6~In Spanish: When one is good with their hands...~sl:~It should not be hard to tighten a loose axle, no?
+
+MPICM_BNYELL_6 = ~t~~sl:0.0:1.9~In Spanish: But yesterday it was still loose,~sl:~and I wasted twelve rounds chasing down that farmer boy.
+
+MPICM_BNYELL_7 = ~t~In Spanish: And the scouts tell me the Americans have raised the prize on my name.
+
+MPICM_BNYELL_8 = ~t~In Spanish: Bountymen are much harder to kill than farmer boys.
+
+MPICM_BNYELL_9 = ~t~~sl:0.0:0.9~In Spanish: So, here we are.~sl:0.7~I am still waiting.
+
+MPICM_BNYELL_10 = ~t~~sl:1.2:3.0~In Spanish: Lots of men want to raise their pistols with Del Lobos.~sl:~Lots of men that want to show me how useful they can be.
+
+MPICM_BNYELL_11 = ~t~In Spanish: Maybe I have them skin you alive? I am sure whoever does that could fix my wagon.
+
+MPICM_BNYELL_12 = ~t~~sl:0.0:1.1~Andale, amigo.~sl:0.5~In Spanish: While you still have those hands you are so proud of.
+
+MPICM_CAMPARV1_01 = ~z~Hijos de puta! Took you long enough... now get to work!
+
+MPICM_CAMPARV1_02 = ~z~Oh, there you are! Finally! Now help us out here!
+
+MPICM_CAMPARV2_01 = ~z~~sl:0.0:1.8~There you are, compadres!~sl:~Now, show them the same kindness they showed my cousins!
+
+MPICM_CAMPARV2_02 = ~z~~sl:0.0:1.5~Vamos, hombres!~sl:~Time to show the bountymen what we think of their kind!
+
+MPICM_CAMPATCK_1 = ~z~~sl:0.0:1.2~Pass near those scouts.~sl:~We need more guns.
+
+MPICM_CAMPATCK_2 = ~z~~sl:0.0:0.8~Hombres!~sl:0.3~Mira, I have a thorn at my side!
+
+MPICM_CAMPATCK_3 = ~z~Ten dollars to the man that removes it!
+
+MPICM_CAMPDEAD_01 = ~z~Where are my scouts? Those lazy bastards, where are they?
+
+MPICM_CAMPDEAD_02 = ~t~~sl:0.0:1.7~In Spanish: Cocksucking whores...~sl:~Reinforcements from the scouting camp should be here by now...
+
+MPICM_CAMPDEAD_03 = ~z~Mierda. Where are the scouts? They should be here by now.
+
+MPICM_CAMPRTRN_01 = ~z~~sl:0.0:2.5~I have not heard from any of the scouts today.~sl:0.7~I don't like it when their camp is this quiet.
+
+MPICM_CAMPRTRN_02 = ~z~Tell the scouts to come see me when they report in.
+
+MPICM_CARALERT_01 = ~z~~sl:0.0:1.4~Look at that.~sl:0.4:1.9~The bountymen found us.~sl:0.6~Pistols out, compadres!
+
+MPICM_CARALERT_02 = ~z~~sl:0.0:2.8~Oiga, we have company!~sl:0.7:3.1~Ten American dollars for a corpse!~sl:~Twenty dollars if you get them alive!
+
+MPICM_CARALERT_03 = ~t~In Spanish: Hey, Lobos! Looks like we have company!
+
+MPICM_CARRYALVE_01 = ~z~Don't just stand there! Kill them!
+
+MPICM_CARRYALVE_02 = ~z~Will someone please shoot this fool?
+
+MPICM_CLOSE1_01 = ~z~~sl:0.0:2.0~If you put me in a jail cell,~sl:0.0:2.1~you may as well put a pistol in your mouth.~sl:1.0~But you're making your choice.
+
+MPICM_CLOSE1_02 = ~z~~sl:0.0:1.4~The jail cell is close, eh?~sl:0.8:1.4~Change your mind now...~sl:~or you will suffer worse than you can think of.
+
+MPICM_CLOSE2_1 = ~z~~sl:0.0:4.7~The 'law' killed my cousins, and I came to avenge them.~sl:1.8~Who do you think will come to avenge me, eh?
+
+MPICM_CLOSE2_2 = ~z~~sl:0.0:2.6~You bounty hunters will do anything for money.~sl:1.2~You have no heart. No honor.
+
+MPICM_COMBAT_01 = ~t~In Spanish: Why aren't they dead yet?
+
+MPICM_COMBAT_02 = ~t~In Spanish: Kill them! Kill them! Let's go!
+
+MPICM_COMBAT_03 = ~z~Kill that goddamned rodent, now!
+
+MPICM_COMBCMD_01 = ~z~Enough games, men! Take them out!
+
+MPICM_COMBCMD_02 = ~z~Choke them! I want them dead!
+
+MPICM_COMBCMD_03 = ~z~Don't give them any room! Kill them! Now!
+
+MPICM_COMCHOICE_01 = ~z~Come on, all of you! Time to earn your tequila!
+
+MPICM_COMCHOICE_02 = ~z~Okay, Lobos! Let's show them who we are!
+
+MPICM_CRRYDEAD1_1 = ~z~~sl:0.0:2.9~You must feel very proud right now, bounty hunter.~sl:0.5~You killed all these men just to tie me up.
+
+MPICM_CRRYDEAD1_2 = ~z~But soon... soon you'll beg forgiveness... Lo prometo.
+
+MPICM_CRRYDEAD2_1 = ~z~You bounty hunters... you filthy cowards...
+
+MPICM_CRRYDEAD2_2 = ~z~Were you one of them that came for my cousins? Were you?
+
+MPICM_CRRYDEAD2_3 = ~t~In Spanish: Coward.
+
+MPICM_DELAY_01 = ~z~~sl:0.0:0.8~Why do you wait?~sl:0.4~Maybe you know it is a bad idea to take me in, yes?
+
+MPICM_DELAY_02 = ~z~~sl:0.0:2.7~Well? If you're going to take me in, take me in.~sl:~What is happening here?
+
+MPICM_DRIVECHAT_1 = ~z~~sl:0.0:1.1~Stop up here.~sl:0.7~I need to check on things.
+
+MPICM_DRIVECHAT_2 = ~z~~sl:0.0:1.5~And stay by the wagon.~sl:0.6~If you are dozing again, I'll tie you up with the horses.
+
+MPICM_DRIVEFLEE_01 = ~z~Whip those horses, come on... it's time to go!
+
+MPICM_DRIVEFLEE_02 = ~t~~sl:0.0:0.8~In Spanish: They're here...~sl:0.4~Let's go!
+
+MPICM_DRIVEFLEE_03 = ~z~Get this wagon moving! Now!
+
+MPICM_DRIVEFLEE_04 = ~z~They want me? They can chase me. Vamos!
+
+MPICM_DRIVERD_1 = ~z~~sl:0.0:1.7~Quick, join the road up ahead.~sl:~We'll cut them down as we head to the train crossing, vamos!
+
+MPICM_DRIVESPED_01 = ~z~C'mon, they're still chasing!
+
+MPICM_DRIVESPED_02 = ~t~In Spanish: Come on, you lazy whore! Faster!
+
+MPICM_DRIVESPED_03 = ~t~~sl:0.0:1.3~Faster, come on!~sl:~In Spanish: There's always more horses...
+
+MPICM_DRIVESPED_04 = ~z~What are you doing? Let's go, faster!
+
+MPICM_ESCAPE_01 = ~z~Looks like the rope was loose, idiota!
+
+MPICM_ESCAPE_02 = ~t~~sl:0.0:1.1~In Spanish: Idiot!~sl:~You should have killed me when you had the chance!
+
+MPICM_FLEE1DEAD_01 = ~z~You want to kill me, you have to catch me!
+
+MPICM_FLEE1DEAD_02 = ~z~This is not over! Lo prometo!
+
+MPICM_FLEE1DEAD_03 = ~z~I'll be back! I'll see you burn!
+
+MPICM_FLEE1_01 = ~t~In Spanish: Enough of this... fall back!
+
+MPICM_FLEE1_02 = ~z~Okay, let's go! We will kill them another day!
+
+MPICM_FLEE2WAR_01 = ~z~Come and try to catch me! You'll be target practice!
+
+MPICM_FLEE2WAR_02 = ~z~Faster! Faster! Adios from los Del Lobos!
+
+MPICM_FLEE2_01 = ~z~You'll pay for this! I will have your hands!
+
+MPICM_FLEE2_02 = ~t~~sl:0.0:4.1~In Spanish: Go to hell! You think you can take me down?~sl:~You'll be on a bonfire soon enough!
+
+MPICM_FLEE2_03 = ~t~~sl:0.0:1.8~In Spanish: Dirty rat vulture!~sl:~One day I'll bleed you myself!
+
+MPICM_GANGDRIV_01 = ~z~One of you take the reins. Get us out of here!
+
+MPICM_GANGDRIV_02 = ~z~I need someone driving the wagon. Now!
+
+MPICM_GANGDRIV_03 = ~z~You! Take the reins! Let's go!
+
+MPICM_GATECHAT_1 = ~z~~sl:0.0:0.8~We've been busy.~sl:0.6:2.3~It's only a matter of time until they raise the bounty,~sl:~and then everyone in the state will be after us.
+
+MPICM_GATECHAT_2 = ~z~~sl:0.0:2.9~Lawmen, thieves, outlaws...~sl:0.5~we should expect many fights.
+
+MPICM_GATECHAT_3 = ~z~~sl:0.0:2.6~I want the men on guard, morning and night.~sl:0.0:3.4~Give them some extra salt pork and promise them ten dollars~sl:~for every intruder they kill.
+
+MPICM_GATECHAT_4 = ~z~~sl:0.0:2.3~They will need an allowance for all the girls and the~sl:~tequila once we get to New Hanover, no?
+
+MPICM_GATECHAT_5 = ~z~~sl:0.0:1.5~I want the snipers on alert, too.~sl:0.7:3.2~Give them coffee and check they cleaned the glass on their sights.~sl:0.7~Anyone complains, you send them to me.
+
+MPICM_GATECHAT_6 = ~z~~sl:0.0:2.3~I expect there will be many bounty hunters.~sl:0.6:4.0~Everyone in this country chases bounties if the amount is high enough.~sl:0.9~It is a land of vultures.
+
+MPICM_HIT_01 = ~t~In Spanish: Piece of shit!
+
+MPICM_HIT_02 = ~z~Ay!
+
+MPICM_HIT_03 = ~t~In Spanish: You'll regret that...
+
+MPICM_HOGTIED_01 = ~z~~sl:0.6~You will regret this. You will regret touching me.
+
+MPICM_HOGTIED_02 = ~z~~sl:0.8~If you had any honor, you'd kill me now.
+
+MPICM_HOUSBKUP_1 = ~z~We should have heard something from the scouts by now.
+
+MPICM_HOUSBKUP_2 = ~z~~sl:0.0:1.5~I don't like waiting for news.~sl:0.5~Especially if it's bad.
+
+MPICM_HOUSBKUP_3 = ~z~~sl:0.0:2.0~Send them to speak to me as soon as they arrive.~sl:1.3~I am expecting more unwanted visitors.
+
+MPICM_HOUSBKUP_4 = ~z~~sl:0.0:1.5~And so long as we're ready, that's good.~sl:0.5~We'll be glad of their ammunition and supplies when we continue east.
+
+MPICM_HOUSCHAS_1 = ~t~~sl:2.7~In Spanish: Look at them.
+
+MPICM_HOUSCHAS_2 = ~z~~sl:0.0:2.4~Mis lobos are getting lazy, and fat.~sl:1.2~They drink too much.
+
+MPICM_HOUSCHAS_3 = ~z~~sl:0.0:2.4~They don't bring back enough when they go out on the roads.~sl:0.8~They're acting like little boys.
+
+MPICM_HOUSCHAS_4 = ~z~~sl:0.0:2.8~Scouts tell me bountymen are coming for us.~sl:0.8:2.4~Vaqueros and gold panners~sl:~and anyone else who feels big holding a pistol.
+
+MPICM_HOUSCHAS_5 = ~z~~sl:0.0:1.2~There will be many.~sl:0.9:2.6~And until we are ready to move further east...~sl:0.4~we are... vulnerable.
+
+MPICM_HOUSCHAS_6 = ~z~~sl:0.0:1.0~They need to wake up.~sl:1.0:2.2~Hide the whisky and tequila if you have to.~sl:~Put their feet to the fire if you have to.
+
+MPICM_HOUSCHAS_7 = ~z~~sl:0.0:1.5~And if any man complains...~sl:1.6:0.9~you send them to me.~sl:1.2~I will soon wake them up.
+
+MPICM_LASSO_01 = ~t~In Spanish: Pimp! Let me go!
+
+MPICM_LASSO_02 = ~t~In Spanish: Treat me like an animal?
+
+MPICM_LOBOBANT1_1 = ~z~You know, I had a strange dream last night.
+
+MPICM_LOBOBANT1_2 = ~z~It made me think...
+
+MPICM_LOBOBANT1_3 = ~z~~sl:0.0:3.3~All this fighting, and killing, and riding our horses into the ground...~sl:0.4~I thought it would lead somewhere...
+
+MPICM_LOBOBANT1_4 = ~z~But, you know... what is the point?
+
+MPICM_LOBOBANT1_5 = ~z~~sl:0.0:1.9~Point? Point?~sl:1.1:1.1~If you looking for a point,~sl:~you done gone missed the whole damn point of all of this.
+
+MPICM_LOBOBANT1_6 = ~z~It's a bloody, pointless, seat of your pants, hell of a time, is what it is...
+
+MPICM_LOBOBANT1_7 = ~z~~sl:0.0:1.9~Si, si, it is a good time, but...~sl:0.6~I have been living like this two years now, and...
+
+MPICM_LOBOBANT1_8 = ~z~~sl:0.0:3.0~I wonder sometimes... is this what I should be doing?~sl:0.5~Is this all there is?
+
+MPICM_LOBOBANT1_9 = ~z~~sl:0.0:1.8~You're living, not dying, ain't you?~sl:0.6~What else d'you think should occupy your precious hours?
+
+MPICM_LOBOBANT1_10 = ~t~In Spanish: I don't know...
+
+MPICM_LOBOBANT1_11 = ~z~~sl:0.0:3.2~Ponder it all you like... in Mexican or in English.~sl:0.5:2.9~You won't find no answers, just a life to lead...~sl:0.6~killing to be done, money for your pocket.
+
+MPICM_LOBOBANT1_12 = ~z~~sl:0.0:1.1~That don't keep you contented?~sl:0.9:2.2~Point your horse to the nearest damn cliff edge...~sl:0.6~and goddamn give that nag your Mexican spurs.
+
+MPICM_LOBOBANT2_1 = ~t~~sl:0.0:0.7~In Spanish: That was good.~sl:0.5~Whoever salted the pig knew what they were doing.
+
+MPICM_LOBOBANT2_2 = ~z~Si.
+
+MPICM_LOBOBANT2_3 = ~t~In Spanish: My father was a butcher. Down in Chihuahua.
+
+MPICM_LOBOBANT2_4 = ~z~Oh?
+
+MPICM_LOBOBANT2_5 = ~t~~sl:0.0:0.7~In Spanish: He was good.~sl:0.5~The governor would have his men buy from him.
+
+MPICM_LOBOBANT2_6 = ~t~In Spanish: Good.
+
+MPICM_LOBOBANT2_7 = ~t~~sl:0.0:3.1~In Spanish: After my mother died though,~sl:0.7~he... well... I never followed him into the business.
+
+MPICM_LOBOBANT2_8 = ~z~Oh.
+
+MPICM_LOBOBANT2_9 = ~t~In Spanish: Sometimes I think about what might have been.
+
+MPICM_LOBOBANT2_10 = ~t~~sl:0.0:3.1~In Spanish: Don't bother... Killing pigs is killing pigs.~sl:~Nothing's different.
+
+MPICM_OFFICE_01 = ~t~In Spanish: Cocksucking piece of shit! Coward!
+
+MPICM_OFFICE_02 = ~t~~sl:0.0:2.1~In Spanish: You think this cage will hold Del Lobo?~sl:0.5~My wolves will come for me!
+
+MPICM_PASSDRIVE_01 = ~t~~sl:0.0:1.6~In Spanish: Stupid son of a bitch.~sl:~You! Take over driving... now!
+
+MPICM_PASSDRIVE_02 = ~t~~sl:0.0:1.2~In Spanish: Bastards...~sl:~You! Take the reins. And don't let the horses slack.
+
+MPICM_RDBLCK_01 = ~t~~sl:0.0:1.5~In Spanish: Cocksuckers...~sl:~We'll be faster on foot.
+
+MPICM_RDBLCK_02 = ~z~Shit. We cannot get past this. Leave the wagon.
+
+MPICM_RDBLKFLEE_01 = ~t~In Spanish: If anyone takes that wagon...
+
+MPICM_RDBLKFLEE_02 = ~z~Ay, they don't let up...
+
+MPICM_RDBLKSTAY_01 = ~z~~sl:0.0:2.3~This is it then? Okay!~sl:~Come for Carmela, come and try! I will kill you twice!
+
+MPICM_RDBLKSTAY_02 = ~z~You want me? Your "muneca", all wrapped up?
+
+MPICM_RDBLKSTAY_03 = ~z~~sl:0.0:1.9~Come on, just try me!~sl:~I don't bleed so easy as my men!
+
+MPICM_RECAPTURE_01 = ~z~Okay, okay... have your fun...
+
+MPICM_RECAPTURE_02 = ~z~Damn you... not so dumb as you look...
+
+MPICM_RIDEBANT1_1 = ~z~~sl:0.0:2.2~You are making a mistake, bounty hunter.~lr:1.3~You are making the worst mistake of your life taking me in.
+
+MPICM_RIDEBANT1_2 = ~z~~sl:0.0:2.0~You think I don't have more men?~lr:0.7~You think they will not come find me?
+
+MPICM_RIDEBANT1_3 = ~z~~sl:0.0:2.9~You think they will not take the hands of the person~sl:~that tied me up like a pig?
+
+MPICM_RIDEBANT1_4 = ~z~~sl:0.0:3.4~If you think those things, then you may as well be dead already,~sl:~and I am wasting my time talking to you.
+
+MPICM_RIDEBANT1_5 = ~z~~sl:0.0:1.0~Listen to me.~lr:1.0:1.9~I-I know many people.~sl:0.7~Some here, more in Mexico.
+
+MPICM_RIDEBANT1_6 = ~z~~sl:0.0:4.0~If you take me to your lawmen, these people will find you~sl:~and rip out your tongue and nail your feet to the train tracks.
+
+MPICM_RIDEBANT1_7 = ~z~But ~rp~these people could do things for you, huh?
+
+MPICM_RIDEBANT1_8 = ~z~~sl:0.0:2.5~They could give you more money than any lawman.~lr:1.0~They could give you more power than any politician or government leech.
+
+MPICM_RIDEBANT1_9 = ~z~You... could never work another day in your life, if you wanted.
+
+MPICM_RIDEBANT1_10 = ~z~~sl:0.0:1.0~You-you caught me...~lr:0.9:2.7~so you must be smart enough to know what I say.~sl:1.2~Now decide fast, before I change my mind.
+
+MPICM_RIDEBANT1_11 = ~z~~sl:0.0:0.6~Please...~lr:2.9~Please listen to me.
+
+MPICM_RIDEBANT1_12 = ~z~~sl:0.0:2.0~The men I was with, they took me.~sl:0.7:2.8~Stole me from Mexico... I never wanted to come here...~lr:0.7~I never wanted to hurt anyone...
+
+MPICM_RIDEBANT1_13 = ~z~~sl:0.0:3.8~They pretended I was their leader to confuse the bountymen...~sl:0.9:0.9~but, please...~lr:1.1~I did not do what they say...
+
+MPICM_RIDEBANT1_14 = ~z~You won't let them hurt me, will you?
+
+MPICM_RIDEBANT1_15 = ~z~~sl:0.0:1.9~Fine!~lr:0.0:0.7~Take me in.~lr:0.8:2.8~You think some pathetic jail cell will hold me?
+
+MPICM_RIDEBANT1_16 = ~z~~sl:0.0:1.4~In a day I will be free.~lr:0.7:0.6~In two...~lr:0.6~I will have you tied to a post.
+
+MPICM_RIDEBANT1_17 = ~z~~sl:0.0:3.0~And by three, I'll be laying out your skin to tan,~sl:~slow enough for you to watch.
+
+MPICM_RIDEBANT1_18 = ~t~~sl:0.0:2.6~In Spanish: I will feed you your toes.~sl:0.9~I will melt wax into your eyeballs.
+
+MPICM_RIDEBANT1_19 = ~t~~sl:0.0:5.0~In Spanish: I will piss on your stomach and have the pigs shit down your throat.~sl:0.7~And I will make sure you live through it all.
+
+MPICM_RIDEBANT1_20 = ~t~~sl:0.0:2.6~In Spanish: You killed my men fast.~sl:~But I will kill you slow. I will make you beg.
+
+MPICM_RIDEBANT1_21 = ~t~~sl:0.0:5.5~In Spanish: And you will regret ever learning my name, bounty hunter.~sl:~Lo prometo!
+
+MPICM_RIDEBANT2_1 = ~z~~sl:0.0:2.4~So? ~rp~Now you have me. ~rp~~sl:1.1:1.7~You are good, bounty hunter. ~rp~~sl:1.5~Maybe it was you that hunted down Jorge...
+
+MPICM_RIDEBANT2_2 = ~z~~sl:0.0:2.1~and... took his head...~sl:1.3~That shot Alfredo on his knees...
+
+MPICM_RIDEBANT2_3 = ~z~~sl:0.0:2.4~You are smart not to say, but I know. ~rp~~sl:1.2~I know it was you.
+
+MPICM_RIDEBANT2_4 = ~z~I came a long way looking for whoever was responsible.
+
+MPICM_RIDEBANT2_5 = ~z~~sl:0.0:3.7~I swore to my family, ~rp~to los Del Lobos,~sl:0.0:2.7~that I would find them and I would do to them~sl:~what they did to our brothers...
+
+MPICM_RIDEBANT2_6 = ~z~~sl:0.0:3.4~Jorge told everyone I was family... blood...~sl:1.4:1.0~but the truth is...~sl:0.8~he found me.
+
+MPICM_RIDEBANT2_7 = ~z~~sl:0.0:3.4~I was ten, being held by a skinny man with long hands. ~rp~~sl:1.6:2.8~One night when the skinny man went out for his toloache, ~rp~~sl:0.9~Jorge arrived in silence.
+
+MPICM_RIDEBANT2_8 = ~z~He handed me a knife, and walked away.
+
+MPICM_RIDEBANT2_9 = ~z~~sl:0.0:1.6~The next day he came back and, ~rp~~sl:1.4:1.8~when he saw what I'd done, he laughed...~sl:0.9~and told me "keep the knife".
+
+MPICM_RIDEBANT2_10 = ~z~~sl:0.0:2.0~He said I had proved myself Del Lobo. ~rp~~sl:1.5~They have been my family ever since.
+
+MPICM_RIDEBANT2_11 = ~z~~sl:0.0:4.4~Now... can you imagine what I've learned since then?~sl:1.1:3.2~And what I have planned for anyone... ~rp~~sl:~every last one, who puts their hands on mi familia?
+
+MPICM_RIDEBANT2_12 = ~t~~sl:2.3~In Spanish: I've dreamed of it...
+
+MPICM_RIDEBANT2_13 = ~z~~sl:0.0:3.1~You have family? It's important. ~rp~~sl:1.2:1.4~Family keeps me calm... ~rp~~sl:1.3~even now in these ropes, because I know that my family is coming for me.
+
+MPICM_RIDEBANT2_14 = ~z~~sl:0.0:1.9~Soon I will be back with my men, ~rp~~sl:0.6:4.5~sitting by the campfire as they drink their tequila and sing our songs.~sl:~And you?
+
+MPICM_RIDEBANT2_15 = ~z~~sl:0.0:1.7~You will be in pieces...~sl:0.7:3.7~some swimming... ~rp~some burning...~sl:0.7:1.9~some rotting with the worms.~sl:1.3~And I am calm...
+
+MPICM_RIDEBANT2_16 = ~t~~sl:0.0:5.4~Al borrachito todo se le dispensa.~sl:1.8~Cuando anda chirpo no conoce la verguenza.
+
+MPICM_RIDEBANT2_17 = ~t~~sl:0.0:6.1~Si me emborracho es por una consecuencia. ~rp~~sl:1.7~Todo lo causa la pasion de una mujer.
+
+MPICM_RIDEBANT2_18 = ~t~~sl:0.0:6.0~Amigo vino, tu me tumbas con tu aliento.~sl:1.4~Las copas llenas donde estan que no las tengo.
+
+MPICM_RIDEBANT2_19 = ~t~~sl:0.0:6.4~Si me emborracho, es de puro sentimiento.~sl:1.6~Todo lo causa esa ingrata mujer.
+
+MPICM_RIDEBANT2_20 = ~t~~sl:0.0:5.1~El whisky tomo, tomo yo por apetito.~sl:1.3~Compro mi trago, se me hace muy poquito.
+
+MPICM_RIDEBANT2_21 = ~t~~sl:0.0:5.3~Como una taza de tequila de mi abuelito.~sl:1.3~Todo lo causa la pasion de una mujer.
+
+MPICM_STAYCOMB_01 = ~z~Keep shooting! I want them dead!
+
+MPICM_STAYCOMB_02 = ~z~You Lobos going to let a woman outshoot you, eh?
+
+MPICM_STAYCOMB_03 = ~z~Don't let up! No one will survive us! No one!
+
+MPICM_TOOCLOSEF_01 = ~t~In Spanish: Give up already, American!
+
+MPICM_TOOCLOSEF_02 = ~z~Bad idea trying to outrun a Lobo!
+
+MPICM_TOOCLOSEF_03 = ~z~You must really need this money, huh?
+
+MPICM_TOOCLOSEW_01 = ~t~In Spanish: Don't touch my wagon.
+
+MPICM_TOOCLOSEW_02 = ~z~Too close, idiota!
+
+MPICM_TOOCLOSEW_03 = ~z~You're making this too easy, bounty hunter!
+
+MPICM_TOOCLOSE_01 = ~z~Give up while you can! I am much tougher than my men!
+
+MPICM_TOOCLOSE_02 = ~z~~sl:0.0:2.7~Watch you don't kill your horse trying to catch me!~sl:~Would be a shame to lose a good horse!
+
+MPICM_TRAINMIS_01 = ~t~~sl:0.0:1.3~In Spanish: Mother of God!
+
+MPICM_TRAINMIS_02 = ~t~In Spanish: Goddamn train nearly sliced us!
+
+MPICM_TRAINMIS_03 = ~t~In Spanish: Stupid train, you could have killed me!
+
+MPICM_TRAINMIS_04 = ~z~Made it! Goddamn train...
+
+MPICM_WARALRT_01 = ~z~~sl:0.0:0.8~They found us.~sl:0.6~The rats found us. Hurry up!
+
+MPICM_WARALRT_02 = ~z~~sl:0.0:1.8~We have company at the camp!~sl:~Move it!
+
+MPICM_WARALRT_03 = ~t~~sl:0.0:0.8~In Spanish: Look at that...~sl:0.5~We're being attacked. Let's go!
+
+MPICM_WARALRT_04 = ~z~~sl:0.0:1.3~Bounty hunters...~sl:~Get those horses moving, now!
+
+MPICM_WARBOUNT_01 = ~z~Shit! Someone's taken the wagon... kill them!
+
+MPICM_WARBOUNT_02 = ~z~Don't you dare let them put hands on my gun!
+
+MPICM_WARBOUNT_03 = ~z~That wagon belongs to Del Lobos! Take it back!
+
+MPICM_WARBURN_01 = ~t~In Spanish: Shit! Fire!
+
+MPICM_WARBURN_02 = ~z~~sl:0.0:1.4~Throw fire at me?~sl:~Hijo de puta... I'll kill your whole family!
+
+MPICM_WARBURN_03 = ~z~~sl:0.0:1.6~Shit! Fire!~sl:0.4~It'll take more than that to stop this wagon, my friend!
+
+MPICM_WARCLOS1_1 = ~z~Come closer! I'll split you in half!
+
+MPICM_WARCLOS1_2 = ~z~You regret coming after Del Lobos now?
+
+MPICM_WARCLOS2_1 = ~z~~sl:0.0:3.5~Still coming, eh? You must have some cojones!~sl:~I've cut off plenty, I'll cut off yours, too!
+
+MPICM_WARCLOS2_2 = ~z~My boys will be burning your bones tomorrow!
+
+MPICM_WARCLOS3_1 = ~z~~sl:0.0:1.9~I can see your eyes now...~sl:~from here, this gun will tear you to pieces!
+
+MPICM_WARCLOS3_2 = ~z~~sl:0.0:2.4~You better run fast, bounty hunter!~sl:~I don't need much aim at this distance!
+
+MPICM_WARCOMB_01 = ~z~~sl:0.0:1.4~Come closer!~sl:~I'll kill you all!
+
+MPICM_WARCOMB_02 = ~z~~sl:0.0:1.0~You want me?~sl:0.4~You will have to drag me from this wagon!
+
+MPICM_WARCOMB_03 = ~z~~sl:0.0:1.6~What are you waiting for?~sl:0.4~I am right here!
+
+MPICM_WARENTER_01 = ~z~~sl:0.6~Yes! Look who's finally showing up.
+
+MPICM_WARENTER_02 = ~z~~sl:0.0:0.9~Come for me, eh?~sl:0.4~This is what you'll get...
+
+MPICM_WARENTER_03 = ~z~Wake up, boys! Bounty hunters!
+
+MPICM_WARENTER_04 = ~z~Okay, men! Time to earn your reputation!
+
+MPICM_WAREXIT1_01 = ~t~In Spanish: The wagon is done... damn...
+
+MPICM_WAREXIT1_02 = ~t~In Spanish: Useless piece of shit. I'm going.
+
+MPICM_WAREXIT1_03 = ~z~It's ruined... damn them.
+
+MPICM_WAREXIT2_01 = ~z~Jesus Christ... I cannot breathe in this thing...
+
+MPICM_WAREXIT2_02 = ~t~In Spanish: These rats won't let up...
+
+MPICM_WAREXIT2_03 = ~z~~sl:0.4~I'm not done yet!
+
+MPICM_WAREXPLO_01 = ~t~In Spanish: A goddamn bomb? You cowards!
+
+MPICM_WAREXPLO_02 = ~t~In Spanish: It's okay... the wagon will take it...
+
+MPICM_WARFLEE1_01 = ~t~In Spanish: They are persistent... I am persistent, too...
+
+MPICM_WARFLEE1_02 = ~z~They'll regret this... all of this...
+
+MPICM_WARFLEE1_03 = ~t~~sl:0.0:1.8~In Spanish: Goddamn this country.~sl:~You think you'll get me that easy? You have a lesson to learn!
+
+MPICM_WARFLEE2_01 = ~z~Goddammit... you'll need to do better than that!
+
+MPICM_WARFLEE2_02 = ~t~In Spanish: You're fine... keep going...
+
+MPICM_WARFLEE2_03 = ~z~~sl:0.0:1.3~You'll never take me!~sl:0.7~You'll die trying!
+
+MPICM_WARGANG_01 = ~z~Hey! One of you: get on that gun and shoot them! Vamos!
+
+MPICM_WARGANG_02 = ~z~Why aren't you on that gun? Cut them down!
+
+MPICM_WARHEALTH_01 = ~t~~sl:0.0:0.6~In Spanish: Goddammit.~sl:0.4~Time to go...
+
+MPICM_WARHEALTH_02 = ~z~~sl:1.8~Damn you... I'll kill you!
+
+MPICM_WARHEALTH_03 = ~t~In Spanish: Come on... come on, you bitch...
+
+MPICM_WARHIDMG_01 = ~t~In Spanish: Goddamn shits... destroying my wagon...
+
+MPICM_WARHIDMG_02 = ~t~In Spanish: Time to run, Carmela...
+
+MPICM_WARHIT_01 = ~t~In Spanish: Son of a bitch!
+
+MPICM_WARHIT_02 = ~z~You have to try better than that!
+
+MPICM_WARHIT_03 = ~z~~sl:0.0:1.5~You think that's all it takes?~sl:~You must have never been in Mexico!
+
+MPICM_WARMOUNT_01 = ~z~Yes! I've been waiting for this!
+
+MPICM_WARMOUNT_02 = ~z~Come on, let's show them our hospitality!
+
+MPICM_WARMOUNT_03 = ~t~In Spanish: This is it. Yes... this is it now.
+
+MPICM_WARRAGE_01 = ~z~~sl:1.7~I am not so small anymore, eh?
+
+MPICM_WARRAGE_02 = ~t~~sl:0.0:2.2~In Spanish: Cocksucking little shit!~sl:1.3~Another one for the vultures!
+

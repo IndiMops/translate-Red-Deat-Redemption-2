@@ -1,0 +1,84 @@
+0x9E8A755E = Before the gang reaches the ship, the rest of Fussar's men pour out of the compound. They assemble outside the ruins in a last ditch effort to stop the gang.
+
+0x475B26E7 = The shoot continues to the boat. Once all the guards are dead the gang boards the ship with the captain and quickly cast off. They look back to see the island one last time.
+
+0x892B4AA0 = The gang plans to leave the island. First, they must destroy Fussar's artillery overlooking the bay. Then rescue the captain.
+
+0x94558C58 = Выстрелите из пушки
+
+0xE23C09B4 = Заложите взрывчатку.
+
+GUA3_FAIL_0 = Капитан погиб.
+
+GUA3_FAIL_1 = Датч погиб.
+
+GUA3_FAIL_2 = Билл погиб.
+
+GUA3_FAIL_3 = Мика погиб.
+
+GUA3_FAIL_4 = Эркюль погиб.
+
+GUA3_FAIL_5 = Вы бросили Датча.
+
+GUA3_FAIL_6 = Вы бросили Мику.
+
+GUA3_FAIL_7 = Вы бросили Эркюля.
+
+GUA3_HELP0 = Заложить взрывчатку
+
+GUA3_MSC_CAP = Капитан
+
+GUA3_MSC_DUT = Датч
+
+GUA3_MSC_FUS = Фуссар
+
+GUA3_MSC_HELP0 = Используйте ~INPUT_LOOK_LR~, чтобы осмотреться.
+
+GUA3_MSC_HELP0_KM = Используйте ~INPUTGROUP_MOVE~, чтобы осмотреться.
+
+GUA3_MSC_HELP1 = Используйте ~INPUT_LOOK_DOWN_ONLY~, чтобы посмотреть на капитана.
+
+GUA3_MSC_HELP1_KM = Используйте ~INPUT_MOVE_DOWN_ONLY~, чтобы посмотреть на капитана.
+
+GUA3_MSC_HELP2 = Используйте ~INPUT_MELEE_ATTACK~, чтобы ногой подтолкнуть оружие капитану.
+
+GUA3_MSC_LEV = Леви
+
+GUA3_MSC_WEAP = Подтолкнуть оружие
+
+GUA3_OBJ1 = Устраните ~e~охранников~s~, не поднимая тревоги.
+
+GUA3_OBJ1B = Устраните ~e~охранников~s~.
+
+GUA3_OBJ2 = Заложите ~o~взрывчатку~s~.
+
+GUA3_OBJ3 = Отойдите на безопасное расстояние.
+
+GUA3_OBJ4 = Устраните ~e~охранников~s~.
+
+GUA3_OBJ4B = Соберитесь с ~o~бандой~s~ на дозорной площадке~s~.
+
+GUA3_OBJ5 = Следуйте за ~o~Датчем~s~.
+
+GUA3_OBJ5B = Задержите ~e~охранников~s~.
+
+GUA3_OBJ6 = Следуйте за ~o~бандой~s~.
+
+GUA3_OBJ7 = Спасите ~o~капитана~s~.
+
+GUA3_OBJ8 = Вернитесь вместе со всеми на ~o~корабль~s~.
+
+GUA3_OBJ9 = Устраните ~e~охранников~s~ и пробейтесь к кораблю.
+
+GUA3_OBJ10 = Доберитесь до ~o~пушки~s~.
+
+GUA3_OBJ11 = Взойдите на борт ~o~корабля~s~.
+
+GUA3_OBJ12 = Доберитесь до ~o~дозорной площадки~s~.
+
+GUA3_OBJ13 = Отойдите от взрывчатки.
+
+GUA3_OBJ14 = Дождитесь, пока ~o~Мика~s~ закончит устанавливать взрывчатку.
+
+GUA3_OBJ15 = Убейте ~e~Фуссара~s~.
+

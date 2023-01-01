@@ -1,0 +1,106 @@
+0x00AE88E1 = Подойдите к информатору.
+
+0x047BB7DB = Судя по карте, банда планировала напасть на поезд на станции Мерсер. Отправляйтесь туда и найдите цель.
+
+0x0603EBD8 = Найдите преступника и доставьте его живым или мертвым.
+
+0x0E26B607 = Идите по ~COLOR_MP_OBJECTIVE~следу~s~.
+
+0x2EB0BED1 = Захватите ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~.
+
+0x5C49B4DB = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~цель~s~ ~1~.
+
+0x7BD5E75F = Цель покинула лагерь. Найдите улики, которые выведут вас на след цели.
+
+0x7E381445 = Цель находится в повозке, которая движется в сторону фермы Риджвуд. Найдите повозку до того, как цель достигнет места назначения.
+
+0x8C8BDEEF = Осмотрите ~COLOR_MP_OBJECTIVE~логово~s~ и найдите следы преступника.
+
+0x8F80ADB4 = Цели доставлены
+
+0x9B9F45C8 = Следуйте за информатором.
+
+0x54CD1FA4 = Целей доставлено: ~1~ из ~2~
+
+0x57A054F2 = В последний раз цель была замечена в этой области. Найдите зацепки, оставленные целью.
+
+0x60D1D41B = Запугайте ~COLOR_MP_OBJECTIVE_ENEMY~бутлегера~s~.
+
+0x86EDD968 = Отправляйтесь к последнему известному местоположению цели и поищите зацепки, которые могут указать, где она сейчас.
+
+0x238CEF46 = Доставьте цели ~1~.
+
+0x392BA24E = Найдите преступников и доставьте их живыми или мертвыми.
+
+0x513B622C = Цель садится на поезд на станции Риггс. Найдите поезд до того, как цель достигнет места назначения.
+
+0x548A3B48 = Верните ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~ живой или мертвой
+
+0x681F5FB8 = По всей видимости, цель недавно покинула это место. Продолжайте искать еще зацепки.
+
+0x9382C239 = Цель доставлена
+
+0xA27B836E = Захватите ~COLOR_MP_OBJECTIVE_NEUTRAL~цели~s~.
+
+0xB1F74E17 = Цель недавно покинула это место, но неясно, куда она отправилась. Продолжайте искать зацепки.
+
+0xC490C2AF = Перебейте ~COLOR_MP_OBJECTIVE_ENEMY~бандитов~s~.
+
+0xCAA39A03 = Цели в логове нет. Найдите улики, которые выведут вас на след цели.
+
+0xCD513F4D = Направляйтесь к ~COLOR_MP_OBJECTIVE~месту засады~s~.
+
+0xD0FC6EB9 = Вернитесь в ~COLOR_MP_OBJECTIVE~сектор задания~s~.
+
+0xD2A8C7FA = Осмотрите ~COLOR_MP_OBJECTIVE~местность~s~ и найдите следы преступника.
+
+0xD6E092E2 = Осмотрите ~COLOR_MP_OBJECTIVE~лагерь~s~ и найдите следы преступника.
+
+0xD9CD19BF = Верните ~COLOR_MP_OBJECTIVE_ENEMY~цели~s~ живыми или мертвыми
+
+0xE9DDFDA6 = Следы совсем свежие. Цель где-то рядом.
+
+BOUNTY_DYNAMIC_TARGET_HELP_BODY_STOW = Для облегчения перевозки тел их можно хранить на лошади.
+
+BOUNTY_DYNAMIC_TARGET_HELP_LOOK_AT_CLUE = Сфокусироваться на зацепке
+
+BOUNTY_DYNAMIC_TARGET_HELP_OBJECTIVE_DEAD = Цель была убита. Чтобы получить награду, доставьте властям тело.
+
+BOUNTY_DYNAMIC_TARGET_HELP_OBJECTIVE_ESCAPING = ~COLOR_MP_OBJECTIVE_ENEMY~Цель~s~ ~1b~ убегает. Схватите ее, пока она не ушла.
+
+BOUNTY_DYNAMIC_TARGET_HELP_PRIMARY = Чтобы получить полную награду, доставьте ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~ ~1b~ живой. За мертвых платят меньше.
+
+BOUNTY_DYNAMIC_TARGET_HELP_PRIMARY_PLURAL = Чтобы получить полную награду, доставьте ~COLOR_MP_OBJECTIVE_ENEMY~цели~s~ ~1b~ живыми. За мертвых платят меньше.
+
+BOUNTY_DYNAMIC_TARGET_INSPECT_CLUE = Осмотреть
+
+BOUNTY_DYNAMIC_TARGET_OBJ_DEFEND = Помогите доставить ~COLOR_MP_OBJECTIVE_FRIENDLY~цель~s~ ~1~.
+
+BOUNTY_DYNAMIC_TARGET_OBJ_DEFEND_PLURAL = Помогите доставить ~COLOR_MP_OBJECTIVE_FRIENDLY~цели~s~ ~1~.
+
+BOUNTY_DYNAMIC_TARGET_OBJ_DROP = Сдайте цель.
+
+BOUNTY_DYNAMIC_TARGET_OBJ_ESCORT_DELIVER_STEAL = Отбейте ~COLOR_MP_OBJECTIVE_NEUTRAL~цель~s~ у ~COLOR_ENEMY~~1~.
+
+BOUNTY_DYNAMIC_TARGET_OBJ_FIND = Убейте или схватите ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~.
+
+BOUNTY_DYNAMIC_TARGET_OBJ_FIND_PLURAL = Убейте или схватите ~COLOR_MP_OBJECTIVE_ENEMY~цели~s~.
+
+BOUNTY_DYNAMIC_TARGET_OBJ_GET_ON_MOUNT = Садитесь на лошадь.
+
+BOUNTY_DYNAMIC_TARGET_OBJ_GOTO = Отправляйтесь ~1~.
+
+BOUNTY_DYNAMIC_TARGET_PRIMARY_JOIN = Игрок ~1~ присоединился к охоте за головами.
+
+BOUNTY_DYNAMIC_TARGET_SHARD_OVER = ~COLOR_MP_OBJECTIVE_NEUTRAL~Цель~s~ сбежала
+
+BOUNTY_DYNAMIC_TARGET_SHARD_OVER_PLURAL = ~COLOR_MP_OBJECTIVE_NEUTRAL~Цели~s~ сбежали
+
+BOUNTY_DYNAMIC_TARGET_TICKER_DESTROY = Цель потеряна
+
+BOUNTY_DYNAMIC_TARGET_TICKER_DESTROY_YOU = Вы убили ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~
+
+BOUNTY_DYNAMIC_TARGET_TICKER_ESCAPE = ~COLOR_MP_OBJECTIVE_ENEMY~Цель~s~ сбежала
+
+FETCH_BOUNTY_DYNAMIC_TARGET_HELP_NEARBY = Судя по всему, ~COLOR_MP_OBJECTIVE_ENEMY~разыскиваемая цель~s~~1b~ где-то рядом.
+

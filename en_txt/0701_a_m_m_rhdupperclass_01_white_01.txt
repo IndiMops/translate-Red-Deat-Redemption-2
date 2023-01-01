@@ -1,0 +1,118 @@
+0x0040080C = ~z~That is no way to behave.
+
+0x05D72943 = ~z~You really must leave, now, please.
+
+0x05FA3D8B = ~z~You must leave me be. Please.
+
+0x0DF45193 = ~z~Stay the hell away from me.
+
+0x1D189B30 = ~z~Don't make me pull the trigger.
+
+0x1F92D9D2 = ~z~Hey, what are you doing here?
+
+0x2BA7F199 = ~z~You'll find nothing of value. I swear it.
+
+0x2D300C4A = ~z~I can't take this. Go away.
+
+0x3D75B1AE = ~z~I... I think we must have a case of misunderstanding here.
+
+0x4BD0CFCC = ~z~Can we hope for some better behavior from you?
+
+0x4C8C6215 = ~z~Must you be in such close proximity?
+
+0x4F8EAFD7 = ~z~
+
+0x4F34552B = ~z~Calm down now, please. I mean no offence.
+
+0x7B03A2CD = ~z~I'm glad you saw sense in the end.
+
+0x7C12A7D7 = ~z~Okay, damn it. Here, this is all I have.
+
+0x8A8044B2 = ~z~Just take it, goddamn you
+
+0x8B5D8103 = ~z~Why yes.
+
+0x8D14F481 = ~z~Get off me.
+
+0x8DBA25F0 = ~z~Would you mind not following me around like a lost puppy dog?
+
+0x9FD65A5B = ~z~Hey, you can't be here.
+
+0x17B1F83A = ~z~What the hell have you done?
+
+0x22C2F71C = ~z~Just leave me alone.
+
+0x30A13386 = ~z~Excuse me. Erm... are you quite well, sir?
+
+0x53AB26D6 = ~z~Could you look at someone else maybe?
+
+0x1471A61E = ~z~
+
+0x6441D261 = ~z~I have told you once, stop that. Right now.
+
+0x46055E52 = ~z~Oh... I think maybe you should go and have a lie down.
+
+0x99010C31 = ~z~You savage.
+
+0x508450BF = ~z~Okay, take it.
+
+0x570337E4 = ~z~Are you deaf? That's enough.
+
+0x648708DA = ~z~These things can always be settled in a civilized manner in my experience.
+
+0x3632640C = ~z~Hey, now. Stop that.
+
+0x26167517 = ~z~No. Please.
+
+0x45581134 = ~z~Will you get out of the way?
+
+0xA0AD5ECD = ~z~Hey, no need to be rude.
+
+0xA5FA14CC = ~z~Why did you do that?
+
+0xA508823E = ~z~We don't need any more trouble from you, please.
+
+0xAE56FA20 = ~z~Have I offended you in some way?
+
+0xAFABA8FA = ~z~Is this your doing?
+
+0xB45B11A2 = ~z~Please, don't.
+
+0xBA6CC85B = ~z~
+
+0xC2C940A6 = ~z~Oh! I do beg your pardon.
+
+0xC8E64778 = ~z~You've pushed me too far.
+
+0xC42CBE05 = ~z~I beg you, stay away from me.
+
+0xC90D1000 = ~z~I am not going to dignify this with any further comment.
+
+0xC1874CB1 = ~z~Are you responsible for this?
+
+0xD8084DA6 = ~z~Come now, you must leave at once.
+
+0xDF9150E9 = ~z~Alright then, I'm getting the law.
+
+0xDFF24C85 = ~z~Don't make me fight you.
+
+0xE5D3C78C = ~z~No, no. Don't shoot me. I beg of you.
+
+0xE10A7D28 = ~z~Forgive me.
+
+0xE94F884A = ~z~No. Get away from me.
+
+0xEB479F8D = ~z~I do wish you wouldn't crowd me so.
+
+0xECD65151 = ~z~What the hell are you doing? Stop that.
+
+0xEE5D6E81 = ~z~Let's see what the law has to say about this.
+
+0xF90B2D29 = ~z~Oh, I do apologise.
+
+0xF618E816 = ~z~No, you can't shoot me, my wife is having a baby.
+
+0xFAB462C3 = ~z~And hello to you again.
+
+0xFD12146E = ~z~I have spent it all.
+

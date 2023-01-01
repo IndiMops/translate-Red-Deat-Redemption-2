@@ -1,0 +1,14 @@
+CDH11_ACTION_1 = ~z~Hosea... one other thing... when you get a chance, send someone down the track back to that farmhouse.
+
+CDH11_ACTION_2 = ~z~Okay... why?
+
+CDH11_ACTION_3 = ~z~That poor woman's husband needs burying.
+
+CDH11_ACTION_4 = ~z~Of course... I-is it safe down there?
+
+CDH11_ACTION_5 = ~z~Just send someone sensible.
+
+CDH11_ACTION_6 = ~z~Understood.
+
+CDH11_ACTION_7 = ~z~Alright.
+

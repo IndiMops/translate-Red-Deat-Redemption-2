@@ -1,0 +1,44 @@
+FME_BANDIT = Бандит
+
+FME_CE_SHARD_COMDIS = Боевой режим отключен
+
+FME_WK_COLL = Предметов найдено вами: ~1~
+
+FME_WK_HELP_AREA = Многие коллекционные предметы можно найти в этой ~COLOR_MP_OBJECTIVE~области~s~. Однако ~COLOR_MP_OBJECTIVE_ENEMY~другие бандиты~s~, возможно, уже унесли часть предметов.
+
+FME_WK_HELP_AREA_BOAT = Осмотрите окрестности места, где лежат обломки ~COLOR_MP_OBJECTIVE~~BLIP_MP_WRECKAGE~~s~, чтобы найти больше коллекционных предметов.
+
+FME_WK_HELP_AREA_TRAIN = Осмотрите окрестности места, где лежат обломки ~COLOR_MP_OBJECTIVE~~BLIP_AMBIENT_TRAIN~~s~, чтобы найти больше коллекционных предметов.
+
+FME_WK_HELP_AREA_WAGON = Осмотрите окрестности места, где лежат обломки ~COLOR_MP_OBJECTIVE~~BLIP_AMBIENT_WAGON~~s~, чтобы найти больше коллекционных предметов.
+
+FME_WK_HELP_ATK = ~COLOR_MP_OBJECTIVE_ENEMY~Бандиты-соперники~s~ будут нападать на вас, пытаясь отстоять свою добычу. Ограбьте их, чтобы найти коллекционные предметы.
+
+FME_WK_HELP_EE = Используйте «Орлиный глаз» ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ для поиска коллекционных предметов. Для поиска и сбора некоторых предметов может понадобиться дополнительное снаряжение.
+
+FME_WK_HELP_EE_KM = Используйте «Орлиный глаз» ~INPUT_SPECIAL_ABILITY~ для поиска коллекционных предметов. Для поиска и сбора некоторых предметов может понадобиться дополнительное снаряжение.
+
+FME_WK_HELP_MAIN_BOAT = Коллекционные предметы в основном находятся рядом с обломками ~COLOR_MP_OBJECTIVE~~BLIP_MP_WRECKAGE~~s~, но их можно также найти ~COLOR_MP_OBJECTIVE~в окрестностях~s~.
+
+FME_WK_HELP_MAIN_TRAIN = Коллекционные предметы в основном находятся рядом с обломками ~COLOR_MP_OBJECTIVE~~BLIP_AMBIENT_TRAIN~~s~, но их можно также найти~COLOR_MP_OBJECTIVE~в окрестностях~s~.
+
+FME_WK_HELP_MAIN_WAGON = Коллекционные предметы в основном находятся рядом с обломками ~COLOR_MP_OBJECTIVE~~BLIP_AMBIENT_WAGON~~s~, но их можно также найти ~COLOR_MP_OBJECTIVE~в окрестностях~s~.
+
+FME_WK_HELP_RULES = Разыщите коллекционные предметы рядом с обломками. Будьте начеку – ~COLOR_MP_OBJECTIVE_ENEMY~вражеские бандиты~s~, возможно, уже успели собрать несколько предметов.
+
+FME_WK_HELP_RULES_BONUS = У вас только одна жизнь, возрождения после смерти не будет.
+
+FME_WK_OBJ_FIND_LOOT = Найдите коллекционные предметы среди ~COLOR_MP_OBJECTIVE~обломков корабля~s~.
+
+FME_WK_SHARD_COMDIS = Боевой режим отключен
+
+FME_WK_SHARD_OBJECTIVE = Ищите коллекционные предметы
+
+FME_WK_SHARD_OUTRO_PRIMARY_WON = Предметов найдено вами: ~1~
+
+FME_WK_SHARD_OUTRO_PRIMARY_WON_1 = Предметов найдено вами: ~1~
+
+FME_WK_TICK_LOOT = Игрок ~1~ нашел ~COLOR_MP_OBJECTIVE~~2p~~s~
+
+FME_WK_WRECKAGE = Обломки
+

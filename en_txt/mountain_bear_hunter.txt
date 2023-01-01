@@ -1,0 +1,174 @@
+0x020FD7D1 = ~z~Lord but that's good! Oh...
+
+0x05BFD7CC = ~z~I'm just, just gonna... take a minute...
+
+0x0F1FEE79 = ~z~I ever see you again, friend, I'll make sure you get a reward...
+
+0x2D274CDB = ~z~This ain't... this ain't good...
+
+0x4CBBCDDC = ~z~~sl:1.4:4.5:1~Gotta grab something... for the blood... thank you...
+
+0x4F0C46D1 = ~z~Always over planning...
+
+0x4F1D43CE = ~z~What... what's is wrong with you? No, don't, don't...
+
+0x4F1DD1A6 = ~z~No, no, no... I don't think I'll be hunting much for a good long while...
+
+0x4F9E0564 = ~z~Keep going, or it'll snap right shut!
+
+0x4F875D9B = ~z~I was just talking about you, how a complete stranger saved me from certain demise.
+
+0x6A1E3D81 = ~z~
+
+0x6C5250BB = ~z~I ain't scared, I ain't scared...
+
+0x7DA748BC = ~z~Just... just put me out of my misery... Just, just...
+
+0x8AFFE070 = ~z~
+
+0x8DE5E02A = ~z~Just the bag! I'm sorry, mister. I don't have nothing else to give you...
+
+0x9A1E93FB = ~z~~sl:0.0:6.1~I... I was done for and you saved me, thank you.~sl:~Take something from my bag for the trouble, though...
+
+0x9D4CAA2F = ~z~Hello? hello?
+
+0x9EF63F1A = ~z~I'm just gonna... take a minute...
+
+0x9FC21891 = ~z~Why... why are you doing this to me?
+
+0x10B4F449 = ~z~~sl:0.0:3.0:1~Keep at it, it's getting loose...
+
+0x10B912EA = ~z~I don't got nothing but what's in the bag. Take whatever you want.
+
+0x13D33E2B = ~z~No, no, no! Oh God, no!
+
+0x16B0A406 = ~z~Hello? I'm in a bad way here!
+
+0x24C85431 = ~z~
+
+0x51FBB03E = ~z~Why'd you save me then?
+
+0x59C9A384 = ~z~Do it, do it! Careful...
+
+0x68EB9E1A = ~z~~sl:1.0:2.4~I'm just gonna... take a minute...
+
+0x75BD75D4 = ~z~Many times.
+
+0x79D0C760 = ~z~Hey! Get out of there and help me, goddammit! Oh, God!
+
+0x81B75572 = ~z~I'm a fast healer, alright? Always have been.
+
+0x83D12849 = ~z~Oh, God! I'm trapped! My leg's trapped...
+
+0x86E62611 = ~z~I can't, I can't, I can't feel it...
+
+0x88A30F45 = ~z~Come on, quick! I can't stay here much longer...
+
+0x88E44104 = ~z~No, don't tie me!
+
+0x91BCBC34 = ~z~What the hell?
+
+0x93A4AC2D = ~z~That was a separate isolated incident! I've-I've got a lot of isolated incidents...
+
+0x93A18245 = ~z~Heh... Yeah, yeah...
+
+0x97AE5C37 = ~z~It's you! Oh my goodness, I can't believe it.
+
+0x97B68AF8 = ~z~Hey, friend! Over here!
+
+0x498F25A5 = ~z~~sl:0.4:3.3:1~My leg feels like it's, like it's on fire...
+
+0x684DE17E = ~z~Why bother?
+
+0x956CA8D8 = ~z~~sl:2.0:3.9:1~I don't got no time here... I'm bleeding fast...
+
+0x2018D6E8 = ~z~Quit your goddamn jokes and help me, you bastard...
+
+0x6990F36A = ~z~I'm telling you, I'd've been done for if it wasn't for that feller.
+
+0x7534EAD5 = ~z~Oh God, oh God, oh God, what is happening?
+
+0x8801A942 = ~z~Why? Why are you tormenting me like this?
+
+0x55246C7A = ~z~My horse! No, no, no, my horse...
+
+0x82035C59 = ~z~
+
+0x433280CA = ~z~I-I got plenty of credit at this store here. You pick out anything you want, free of charge!
+
+0xA09AD90A = ~z~~sl:2.3:3.2~I know you, you grabbed something already but that's okay...~sl:0.6:1.7~You earned it...
+
+0xA2744E24 = ~z~Yes, yes. I ain't going make the same mistake twice.
+
+0xA689732F = ~z~
+
+0xB1E17397 = ~z~Oh, well, you know, I'd've done it myself no problem, under normal circumstances.
+
+0xB7C26C3F = ~z~
+
+0xB9E371C5 = ~z~Help me now, or I'm done for...
+
+0xB9F81EE7 = ~z~I hoped I'd run into you again. I'd really like to pay you back in some way, you know?
+
+0xB66B4A18 = ~z~What's your problem, friend?
+
+0xB5262093 = ~z~Yeah, yeah...
+
+0xBDF1B94A = ~z~Just... just leave me be!
+
+0xBFAC7823 = ~z~I'll be... I'll be thankful, every day, that you heard me hollering...
+
+0xC0091F8C = ~z~~sl:0.0:5.4~And... and to think... I almost...~sl:0.0:1.4:1~didn't bring the trap...
+
+0xC0A51779 = ~z~~sl:0.0:5.8:1~I'm a... gonna... I'm gonna, I'm gonna take a... take a minute now...
+
+0xC46BFD48 = ~z~
+
+0xCA59880C = ~z~~sl:11.0:1.4:1~God, yes...
+
+0xCC3D6C19 = ~z~Can anyone hear me?
+
+0xD0EBFB49 = ~z~~sl:0.0:4.8:1~Please, quick! You gotta get this off me! I'm going numb...
+
+0xD8AD3AFB = ~z~That... That was an isolated incident. I won't make that error again...
+
+0xD46F39A6 = ~z~Oh, thank you God...
+
+0xDA5AA721 = ~z~Keep pulling, keep pulling, don't stop, don't stop!
+
+0xDE13DCFA = ~z~Not a soul around for as far as the eye could see...
+
+0xE0DFF91F = ~z~No, please, not my horse! Not that! I need it!
+
+0xE8B7DE45 = ~z~No, I am not alright... it's real bad...
+
+0xE4004EA9 = ~z~What are you trying to say, huh? You don't know me...
+
+0xE9481CA9 = ~z~~sl:0.0:3.9:1~Oh, God, you did it. Praise Jesus.
+
+0xE469419A = ~z~Time... time to hit the road...
+
+0xEC467064 = ~z~I know you, you grabbed something already but that's okay, that's okay... You earned it...
+
+0xED6CEBB6 = ~z~Oh, nevermind you.
+
+0xED7714AF = ~z~One good deed deserves another.
+
+0xEF1CEB95 = ~z~Oh, Jesus Christ! My leg! Oh, Jesus, oh, Jesus...
+
+0xF0838168 = ~z~I'd be dead now if not for you...
+
+0xF11A13DE = ~z~I swear the teeth on that bear trap, worse than being bitten by a bear itself. And I been bitten by a few in my time...
+
+0xF67AC822 = ~z~I can't defend myself and you're robbing me?
+
+0xF464B7E1 = ~z~
+
+0xF774CAB4 = ~z~
+
+0xFC811FA3 = ~z~Is that you, friend? You okay? Come here a minute.
+
+0xFE279E3B = ~z~Glad to hear it. Least I could do.
+
+0xFF7C241D = ~z~
+

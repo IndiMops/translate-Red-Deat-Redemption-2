@@ -1,0 +1,44 @@
+0x9B756B31 = Самогонщик
+
+FETCH_MOONSHINE_SELL_HELP_INTRO = Доставьте самогон, чтобы совершить продажу. Повреждение бутылок в повозке ~1b~ и опрометчивая езда приведут к потере самогона и уменьшению прибыли от продажи.
+
+FETCH_MOONSHINE_SELL_HELP_PULL_OVER = У вас есть шанс миновать кордон мирным путем. Остановите повозку и дайте агентам ее осмотреть.
+
+FETCH_MOONSHINE_SELL_HELP_RISKY_DELIVERY = Вы потеряли часть своей партии самогона. Старайтесь ехать аккуратно и избегайте повреждения бутылок.
+
+FETCH_MOONSHINE_SELL_OBJ_DEFEND = Защищайте ~COLOR_MP_OBJECTIVE_FRIENDLY~повозку~s~ по пути ~1~.
+
+FETCH_MOONSHINE_SELL_OBJ_DELIVER = Доставьте самогон ~1~.
+
+FETCH_MOONSHINE_SELL_OBJ_GO_TO_AREA = Доберитесь до ~COLOR_MP_OBJECTIVE~точки~s~.
+
+FETCH_MOONSHINE_SELL_OBJ_STEAL = Доберитесь до ~COLOR_MP_OBJECTIVE_NEUTRAL~повозки~s~.
+
+FETCH_MOONSHINE_SELL_OBJ_WAIT_FOR_INSPECT = Дождитесь, пока агенты осмотрят повозку.
+
+FETCH_MOONSHINE_SELL_OBJ_WAIT_FOR_PED = Дождитесь, пока ~COLOR_ENEMY~агенты~s~ заберутся на повозку.
+
+FETCH_MOONSHINE_SELL_OBJ_WAIT_FOR_PLAYER_INSPECTED = Дождитесь, пока агенты осмотрят повозку.
+
+FETCH_MOONSHINE_SELL_OBJ_WAIT_NEAR_PED = Остановитесь в ~COLOR_MP_OBJECTIVE~месте проверки~s~.
+
+FETCH_MOONSHINE_SELL_SCORETIMER_DELIVER_PRIMARY_PASS = Игрок ~1~ доставил самогон.
+
+FETCH_MOONSHINE_SELL_SCORETIMER_DELIVER_PRIMARY_PASS_NP = Самогон доставлен.
+
+FETCH_MOONSHINE_SELL_SCORETIMER_DELIVER_PRIMARY_PASS_YOU = Вы доставили самогон.
+
+FETCH_MOONSHINE_SELL_SCORETIMER_DELIVER_PRIMARY_PASS_YOUR = Самогон доставлен.
+
+FETCH_MOONSHINE_SELL_SHARD_DESC_PRIMARY = Продайте самогон
+
+FETCH_MOONSHINE_SELL_SHARD_DESTROYED = Повозка уничтожена
+
+FETCH_MOONSHINE_SELL_SHARD_PRIMARY_PASS = Самогон продан
+
+FETCH_MOONSHINE_SELL_SHARD_PRIMARY_PASS_PARTIAL = ~1~/20 часть самогона продана
+
+FETCH_MOONSHINE_SELL_SHARD_PRIMARY_PASS_PLURAL = Самогон продан
+
+FETCH_MOONSHINE_SELL_SHARD_RISKY_DELIVERY_FAILED = Самогон уничтожен.
+

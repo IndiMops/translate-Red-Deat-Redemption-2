@@ -1,0 +1,14 @@
+CMRB3_ACT_1 = ~z~Oh Arthur, it is good to see you.
+
+CMRB3_ACT_2 = ~z~You okay, Mary-Beth?
+
+CMRB3_ACT_3 = ~z~Just great but I nearly got killed back in town...
+
+CMRB3_ACT_4 = ~z~they caught me robbing from a store and I ran for my life.
+
+CMRB3_ACT_5 = ~z~You weren't followed here?
+
+CMRB3_ACT_6 = ~z~Arthur Morgan! Of course not. Who do you think you're speaking to?
+
+CMRB3_ACT_7 = ~z~Good girl.
+

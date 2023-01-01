@@ -1,0 +1,112 @@
+STR2_RSC1_LI_1 = ~z~Still working Mr. Strauss? what you been up to?
+
+STR2_RSC_1_1 = ~z~Still working, Mr. Strauss?
+
+STR2_RSC_1_2 = ~z~What you been up to?
+
+STR2_RSC_1_3 = ~z~Trying to wrap up our accounts...
+
+STR2_RSC_1_4 = ~z~before we leave, Mr. Morgan.
+
+STR2_RSC_1_5 = ~z~So you'll be joining us in Tahiti?
+
+STR2_RSC_1_6 = ~z~I rather fancied Australia.
+
+STR2_RSC_1_7 = ~z~A similar kind of people to us...
+
+STR2_RSC_1_8 = ~z~lots of opportunity.
+
+STR2_RSC_1_9 = ~z~Still working, Mr. Strauss?
+
+STR2_RSC_1_10 = ~z~What you been up to?
+
+STR2_RSC_1_11 = ~z~Trying to wrap up our accounts...
+
+STR2_RSC_1_12 = ~z~before we leave, Mr. Morgan.
+
+STR2_RSC_1_13 = ~z~So you'll be joining us in Tahiti?
+
+STR2_RSC_1_14 = ~z~I rather fancied Australia.
+
+STR2_RSC_1_15 = ~z~A similar kind of people to us...
+
+STR2_RSC_1_16 = ~z~lots of opportunity.
+
+STR2_RSC_1_17 = ~z~Dutch tells me we're gonna be ranchers.
+
+STR2_RSC_1_18 = ~z~Perhaps, but...
+
+STR2_RSC_1_19 = ~z~so far we have not raised many cattle.
+
+STR2_RSC_1_20 = ~z~No.
+
+STR2_RSC_1_21 = ~z~So, Mr. Morgan...
+
+STR2_RSC_1_22 = ~z~will you help me finalize our business here?
+
+STR2_RSC_1_23 = ~z~This is filthy work.
+
+STR2_RSC_1_24 = ~z~We'll need money in Australia.
+
+STR2_RSC_1_25 = ~z~For cattle, and feed, I mean.
+
+STR2_RSC_1_26 = ~z~Why flinch now?
+
+STR2_RSC_1_27 = ~z~You never have done before.
+
+STR2_RSC_1_28 = ~z~I don't know.
+
+STR2_RSC_1_29 = ~z~Well, here they are.
+
+STR2_RSC_1_30 = ~z~Refinery worker turned hunter by the name of Winton Holmes.
+
+STR2_RSC_1_31 = ~z~You'll find him up in the hills north of Strawberry.
+
+STR2_RSC_1_32 = ~z~And then, hmm...
+
+STR2_RSC_1_33 = ~z~an apprentice undertaker, working in Rhodes.
+
+STR2_RSC_1_34 = ~z~His name was Gwyn Hughes.
+
+STR2_RSC_1_35 = ~z~Hughes, yeah.
+
+STR2_RSC_1_36 = ~z~Some fisherman by the name of Davison, Algie Davison.
+
+STR2_RSC_1_37 = ~z~Okay.
+
+STR2_RSC_1_38 = ~z~Living in a place called Catfish Jackson, near Scarlett Meadows.
+
+STR2_RSC_1_39 = ~z~A fisherman.
+
+STR2_RSC_1_40 = ~z~And...
+
+STR2_RSC_1_41 = ~z~thats it.
+
+STR2_RSC_1_42 = ~z~Alright.
+
+STR2_RSC_1_43 = ~z~For cattle, and feed, I mean.
+
+STR2_RSC_1_44 = ~z~Why flinch now?
+
+STR2_RSC_1_45 = ~z~You never have done before.
+
+STR2_RSC_1_46 = ~z~I don't know.
+
+STR2_RSC_1_47 = ~z~Well, here they are.
+
+STR2_RSC_1_48 = ~z~Some fisherman by the name of Davison, Algie Davison.
+
+STR2_RSC_1_49 = ~z~Living in a place called Catfish Jackson, near Scarlett Meadows.
+
+STR2_RSC_1_50 = ~z~A fisherman.
+
+STR2_RSC_1_51 = ~z~And...
+
+STR2_RSC_1_52 = ~z~that's it.
+
+STR2_RSC_1_53 = ~z~We're a union built on debt, you know.
+
+STR2_RSC_1_54 = ~z~Okay.
+
+STR_LI_CALLOVER_1 = ~z~Mr. Morgan.
+

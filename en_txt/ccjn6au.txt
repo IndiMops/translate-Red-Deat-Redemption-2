@@ -1,0 +1,20 @@
+CCJN6_ACT_1 = ~z~Guess it's good for you to be the one doing the eating.
+
+CCJN6_ACT_2 = ~z~Very funny.
+
+CCJN6_ACT_3 = ~z~You know, I been shot at a few times, nearly hanged, beaten...
+
+CCJN6_ACT_4 = ~z~but the animals, they don't come nowhere near me.
+
+CCJN6_ACT_5 = ~z~Don't surprise me.
+
+CCJN6_ACT_6 = ~z~Why not?
+
+CCJN6_ACT_7 = ~z~Well, you know... no one wants to eat something that's already rotten.
+
+CCJN6_ACT_8 = ~z~Very funny, big John. Very funny.
+
+CCJN6_ACT_9 = ~z~Excuse me... I've lost my appetite.
+
+CCJN6_ACT_10 = ~z~Bye now... stay out of trouble.
+

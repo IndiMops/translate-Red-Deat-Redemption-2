@@ -1,0 +1,30 @@
+CFUB3_ACT_1 = ~z~Any of you boys made it to Australia yet?
+
+CFUB3_ACT_2 = ~z~Bill, you ever get there, in the army?
+
+CFUB3_ACT_3 = ~z~Australia?
+
+CFUB3_ACT_4 = ~z~Sure.
+
+CFUB3_ACT_5 = ~z~I don't believe for one minute you ever made it to Australia.
+
+CFUB3_ACT_6 = ~z~And you'd be right. I never did. But I tried, I made it as far as Chicago.
+
+CFUB3_ACT_7 = ~z~Chicago ain't nowhere near Australia.
+
+CFUB3_ACT_8 = ~z~No... but it's on the way.
+
+CFUB3_ACT_9 = ~z~I always wanted to see one of them kangaroos.
+
+CFUB3_ACT_10 = ~z~Giant boxing rats who keep their babies in their pockets... what kind of lunatic thought that up?
+
+CFUB3_ACT_11 = ~z~That's an interesting way of seeing things.
+
+CFUB3_ACT_12 = ~z~Maybe we'll head over there one of these days.
+
+CFUB3_ACT_13 = ~z~Start a new life as kangaroo farmers.
+
+CFUB3_ACT_14 = ~z~Well, there's a dream we ain't had yet.
+
+CFUB3_ACT_15 = ~z~
+

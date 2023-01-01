@@ -1,0 +1,218 @@
+0x0E373B3E = ~z~~sl:0.0:1.5~Even look slow...~sl:0.8:1.5~just in your face.
+
+0x1FF40408 = ~z~~sl:0.0:0.9~I been shot...~sl:0.9:1.0~You gotta help me...
+
+0x2A2F5908 = ~z~I won't say a thing, I swear.
+
+0x2D793ED4 = ~z~Ain't you caused enough problems around here already?
+
+0x2F086BE2 = ~z~~sl:0.0:0.9~Whoa, whoa!~sl:1.1:2.0~What's this gotta do with you?
+
+0x3A9FE2CF = ~z~
+
+0x3ABD8BE9 = ~z~~sl:0.0:1.3~You're trying to prove something, huh?~sl:0.4:1.7~Let's go then!
+
+0x3B56DF30 = ~z~Do you even know who I am?
+
+0x3BB4513C = ~z~You quit that, y'hear?
+
+0x3C58FD5B = ~z~I've forgotten this already.
+
+0x3F8971E9 = ~z~You got no idea what you got yourself into...
+
+0x5C558640 = ~z~~sl:0.9:0.5~Look...~sl:1.0:0.7~you win this one...~sl:1.8:2.5~Doctor ain't gonna be happy to see me again...
+
+0x5F547B21 = ~z~You best hope for a miracle, pal...
+
+0x6AE196DA = ~z~What is wrong with you?
+
+0x7A56026F = ~z~Damn old hooch got me whipped.
+
+0x7E3E1925 = ~z~How about I just ignore you?
+
+0x7F39B4A7 = ~z~I got nothing for you.
+
+0x7FFEF851 = ~z~Didn't you just say hello to me?
+
+0x8AEB02A6 = ~z~Why the hell are you so close to me?
+
+0x8B830145 = ~z~Hey, you better back down right now.
+
+0x8D6A2C48 = ~z~You better leave right now.
+
+0x8EC6CF66 = ~z~Least you'll provide us some entertainment...
+
+0x9B0B0934 = ~z~~sl:1.3:1.3~You're as green as grass, huh?
+
+0x9B430AFB = ~z~
+
+0x9CB5939B = ~z~Away from me now.
+
+0x16CF706E = ~z~You better quit shadowing behind me or I'll show... I'll show you...
+
+0x18DABCBD = ~z~Do you want your brains blown out?
+
+0x24BBE446 = ~z~Okay, okay, here.
+
+0x28BC95C6 = ~z~~sl:0.0:1.4~Come on, chicken shit.~sl:0.5:1.6~Are we gonna settle this or not?
+
+0x28EC0809 = ~z~I ain't giving you nothing.
+
+0x33D26EB1 = ~z~You've got a big mouth.
+
+0x36C32657 = ~z~~sl:0.0:1.9~Come on then, yellow belly!~sl:0.6:1.6~Let's let a draw settle this...
+
+0x39C6829F = ~z~~sl:0.0:0.6~Listen...~sl:1.1:1.3~you're gonna remember this here...~sl:1.0:3.0~Remember how you got lucky...yeah...
+
+0x47F32FF4 = ~z~You look like death, mister.
+
+0x53B75CE4 = ~z~I'm getting the damn law.
+
+0x54AE0385 = ~z~Leave me alone.
+
+0x63AE599C = ~z~We can lock horns, if there ain't no reprieve.
+
+0x73A03E57 = ~z~~sl:0.0:1.6~You think you're real tough, huh?~sl:0.7:1.0~Real tough guy...
+
+0x86C9FA60 = ~z~Gimme some damn space.
+
+0x88FFA09B = ~z~~sl:1.7:1.7:1~You broke the damn saddle!
+
+0x91E6FDA0 = ~z~Hey, don't do that.
+
+0x96E8CC45 = ~z~Just back off.
+
+0x155B31C3 = ~z~Who do you think you're talking to?
+
+0x304AB659 = ~z~Oh, it's you! The goddamn outlaw. You don't scare me, not one damn bit.
+
+0x304CEBA1 = ~z~Do you want me to kill you?
+
+0x348A7B04 = ~z~Hey, what are you harassing people for?
+
+0x391B9977 = ~z~Hey, don't point that at me.
+
+0x403FE242 = ~z~~sl:0.0:1.8~No good lousy coward!~sl:0.7:1.5:1~You're just scared, ain't you?
+
+0x517EFCFE = ~z~Hey, you low down bastard...
+
+0x554EC35D = ~z~Are you deaf? Stop that right now.
+
+0x688BDEDB = ~z~I feel like a walking whiskey vat.
+
+0x745EA512 = ~z~~sl:3.5:0.0~Goddamn idiot...
+
+0x813A2208 = ~z~Hey-hey, this ain't got nothing to do with you.
+
+0x957E3D3B = ~z~I ain't one to bluster, I will split your skull wide open.
+
+0x2202E81D = ~z~~sl:0.0:0.4~Hey!~sl:0.9:1.0~Don't you push me...
+
+0x3695F61C = ~z~~sl:0.0:1.6~I never missed once...~sl:0.7:1.0~Not ever!
+
+0x3696A1E9 = ~z~You shoulda run when you had the chance.
+
+0x8123C310 = ~z~Alright, I think I warned you...
+
+0x8130E494 = ~z~~sl:0.0:1.5:1~That's a damn lie!
+
+0x130640DB = ~z~Alright, take it.
+
+0x781349CD = ~z~~sl:1.6:2.0~Whoa, watch your step, fool...
+
+0x880396A2 = ~z~Was this your doing?
+
+0x936146CA = ~z~
+
+0x6737672E = ~z~I said, that's enough.
+
+0x9945897B = ~z~Oh, you're done for now.
+
+0x56671233 = ~z~I knew you were all bluster.
+
+0x58195040 = ~z~I sure hope you ain't contagious.
+
+0xA1A2E1B9 = ~z~You're making a big mistake.
+
+0xA2D5117D = ~z~Sure, alright.
+
+0xA8BBDE72 = ~z~~sl:0.0:3.6~Van Horn... nothing but assholes these days.~sl:0.3~Don't respect no one... no more...
+
+0xA9E780A4 = ~z~
+
+0xA73AD42C = ~z~Asswipe.
+
+0xA97D6539 = ~z~How about I smash you damn face in?
+
+0xA272C8E4 = ~z~No, no, don't.
+
+0xADF0830F = ~z~Whoa, that's a real bad move.
+
+0xAFF2A0DD = ~z~Look out.
+
+0xB252BCA5 = ~z~~sl:0.0:1.0~Son of a bitch!~sl:1.8:2.1~That'll sure sober up a feller up fast.
+
+0xB449C3D7 = ~z~I hope you made your peace, boy.
+
+0xB3483D74 = ~z~You heartless bastard.
+
+0xB876949B = ~z~You got no business being here.
+
+0xBA7654C4 = ~z~Hey, move will ya?
+
+0xBBAEBB88 = ~z~Why the hell are you following me?
+
+0xBDCBE5D6 = ~z~I'd walk away if you know what's good for you.
+
+0xBF2084DB = ~z~Did you do this?
+
+0xC0631B96 = ~z~Okay. This is all I got.
+
+0xC1AE994D = ~z~Oh, you wanna go now?
+
+0xC3C4260E = ~z~~sl:0.7:3.0:1~You, you watch where you're walking, asshole!
+
+0xC4778552 = ~z~~sl:0.0:1.4~What you calling me?~sl:1.3~I'll bullet up your skull...
+
+0xC6077394 = ~z~Hey, don't you point... shit, I'll kill you first!
+
+0xC7227030 = ~z~You look like you could use a drink.
+
+0xCFBEB0F0 = ~z~Get the hell out of here.
+
+0xD86DB92B = ~z~You leave them alone.
+
+0xD1863F79 = ~z~
+
+0xDC947A20 = ~z~Look at where you're going.
+
+0xE968E4BE = ~z~There's no need for that.
+
+0xEB5E97B4 = ~z~Hey, watch it.
+
+0xEB28EE5E = ~z~Hey, what are you doing? Damn bastard!
+
+0xEC55DCA9 = ~z~Please, no.
+
+0xEC437CFB = ~z~You're a real good feller, doc...
+
+0xEE2CE4A9 = ~z~Hey. Stop that this minute.
+
+0xEF1C884C = ~z~Hey! The hell you standing there for?
+
+0xF357D63B = ~z~
+
+0xF5311BAC = ~z~Count yourself lucky there ain't a hole in your head.
+
+0xFA935CC1 = ~z~I'm done with all you fools!
+
+0xFD9A3CB2 = ~z~What the hell are you looking at?
+
+0xFDDEB130 = ~z~We'll see what the law has to say about this.
+
+0xFE34A016 = ~z~Hey, what the hell are you doing here?
+
+0xFE358773 = ~z~Do you wanna die, do you?
+
+0xFFD0E384 = ~z~Don't you be raising no more hell around here.
+

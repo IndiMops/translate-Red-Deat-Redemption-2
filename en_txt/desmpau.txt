@@ -1,0 +1,70 @@
+DESMP_AAPPRCH_1 = ~z~I was pretty convincing, though, right?
+
+DESMP_AATTACK_1 = ~z~We got a fish on the line!
+
+DESMP_ADISMOUNT_01 = ~z~On your feet.
+
+DESMP_ADISMOUNT_02 = ~z~Down from there.
+
+DESMP_AGREE_1 = ~z~~sl:0.0:0.7~You will?~sl:0.5~See? I knew you had a kind face.
+
+DESMP_AGUN_1 = ~z~Okay, so... I killed that horse myself.
+
+DESMP_APAT_1 = ~z~My brother always said I should've been on the stage.
+
+DESMP_APPROACH_1 = ~z~~sl:0.0:4.3~Hey there, uh... my horse, well, you can see, uh...~sl:~do you have time to give me a ride?
+
+DESMP_DECLINE_1 = ~z~~sl:0.0:0.9~Right. Well...~sl:0.8~I ain't gonna beg.
+
+DESMP_HARRIVE_1 = ~z~I appreciate it.
+
+DESMP_HARRIVE_2 = ~z~Damn Braithwaites, all I need right now...
+
+DESMP_HBANT_1 = ~z~~sl:0.0:1.2~That poor horse...~sl:0.4~~rp~you never think it's gonna cut you up so bad, but... but it does.
+
+DESMP_HBANT_2 = ~z~~sl:0.0:1.3~We was together for years.~sl:0.5~~rp~She was old... but I didn't want it to end like that.
+
+DESMP_HBANT_3 = ~z~~sl:0.0:1.1~I went and pushed her too far.~sl:0.8~~rp~Should've stopped riding her couple of weeks back.
+
+DESMP_HBANT_4 = ~z~~sl:0.0:2.2~She was walking funny from the get this morning, but...~sl:0.4~~rp~w-well, I guess it's done now.
+
+DESMP_HBANT_5 = ~z~~sl:0.0:1.2~Sure do feel bad about it, though.~sl:0.7~~rp~I'm sorry, you don't know me from Adam, I... ~rp~Just a hell of a thing, that's all...
+
+DESMP_HCLEAR_1 = ~z~Don't reckon there's enough space for me on there.
+
+DESMP_HDIRECT_1 = ~z~~sl:0.0:2.7~I'm supposed to be delivering a message to that Braithwaite family.~sl:0.5~You know that big fancy house they got?
+
+DESMP_HFOOT_1 = ~z~~sl:0.0:2.4~Er, I figured you had a horse yourself?~sl:0.5~See feet I already got.
+
+DESMP_HGIVEUP_1 = ~z~~sl:0.0:0.9~Okay, I think...~sl:0.8~I'm just gonna walk from here out...
+
+DESMP_HMOUNT_1 = ~z~~sl:0.0:0.7~Thank you.~sl:~Sometimes feels like folks don't help each other out no more these days.
+
+DESMP_HNEAR_1 = ~z~Nearly there... I hate this place...
+
+DESMP_HTHANKS_1 = ~z~This is real nice of you...
+
+DESMP_HTIP_1 = ~z~Have this, please. Least I can do.
+
+DESMP_SPOT1_01 = ~z~Oh? Uh, h-hey there!
+
+DESMP_SPOT1_02 = ~z~Over here.
+
+DESMP_SPOT2_01 = ~z~Please... can you help me?
+
+DESMP_SPOT2_02 = ~z~Can I talk to you a minute?
+
+DESMP_STANDING_1 = ~z~You poor thing...
+
+DESMP_UNSEEN_01 = ~z~I'm so sorry...
+
+DESMP_UNSEEN_02 = ~z~
+
+DESMP_UNSEEN_03 = ~z~All these years...
+
+DESMP_WAIT1_1 = ~z~~sl:0.0:1.8~Please, I'm stuck out here and, uh...~sl:0.5~I'm real... real tore up about losing her.
+
+DESMP_WAIT2_01 = ~z~I'd really appreciate it.
+
+DESMP_WAIT2_02 = ~z~You'd be doing me a great favor.
+

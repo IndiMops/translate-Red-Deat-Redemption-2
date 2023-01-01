@@ -1,0 +1,28 @@
+JWRK1_ACTA_1 = ~z~Hey!
+
+JWRK1_ACTA_2 = ~z~What you get, Javier?
+
+JWRK1_ACTA_3 = ~z~Never you mind, old man...
+
+JWRK1_ACTA_4 = ~z~Come... have a drink with me.
+
+JWRK1_ACTB_1 = ~z~
+
+JWRK1_ACTB_2 = ~z~Come on... tell old uncle, what you get?
+
+JWRK1_ACTB_3 = ~z~I robbed a soldier on the road.
+
+JWRK1_ACTB_4 = ~z~Oh goody.
+
+JWRK1_ACTB_5 = ~z~What you been doing?
+
+JWRK1_ACTB_6 = ~z~Me? Thinking, plotting... you know me, I'm only interested in the big stuff.
+
+JWRK1_ACTB_7 = ~z~If you say so.
+
+JWRK1_ACTB_8 = ~z~Who's gonna join us for a drink?
+
+JWRK1_ACTB_9 = ~z~Maybe a little song...
+
+JWRK1_ACTB_10 = ~z~come on people, this is life!
+

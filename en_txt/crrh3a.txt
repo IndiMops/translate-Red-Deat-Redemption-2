@@ -1,0 +1,50 @@
+CRRH3_DYNAMITE_1 = ~z~Hey! That's dynamite! Ready up everyone!
+
+D_BLOCKED_CRRH3_1 = ~z~Move it. We need to get through.
+
+D_ILOG_CRRH3_1 = ~z~Ain't interested.
+
+D_ILOR_CRRH3_1 = ~z~Well, you got guts. Kill this idiot.
+
+D_ILOS_CRRH3_1 = ~z~Back off.
+
+D_NERV_01_CRRH3_1 = ~z~Back off if you're smart.
+
+D_NERV_02_CRRH3_1 = ~z~You dense? What'd I tell you?
+
+D_NERV_03_CRRH3_1 = ~z~Hey. You see all the guns we carrying? Well, you're about to hear 'em.
+
+D_RBLH_CRRH3_1 = ~z~Goddamn horse.
+
+D_RBLH_CRRH3_2 = ~z~What d'you want, a carrot? Move!
+
+D_RBLV_CRRH3_01 = ~z~Why the hell's that on the road? Look alive.
+
+D_RBLV_CRRH3_02 = ~z~Ain't no good reason to leave a vehicle here...
+
+D_RBLV_CRRH3_03 = ~z~Move it out of the way.
+
+D_SHOCKED_CRRH3_1 = ~z~Shit, we got a problem!
+
+D_THREAT_CRRH3_1 = ~z~Who do you think you are, huh?
+
+P_HUP_01J_CRRH3_1 = ~z~Try anything funny and you're dead, you hear me?
+
+P_HUP_01_CRRH3_1 = ~z~Try anything funny and you're dead, you hear me?
+
+P_HUP_02J_CRRH3_1 = ~z~You stay right there until I'm out of sight, understand me?
+
+P_HUP_02_CRRH3_1 = ~z~You stay right there until I'm out of sight, understand me?
+
+P_ILOGJ_CRRH3_1 = ~z~Hey there.
+
+P_ILOG_CRRH3_1 = ~z~Hey there.
+
+P_ILORJ_CRRH3_1 = ~z~Step down from the coach. Play nice and nobody needs to die here.
+
+P_ILOR_CRRH3_1 = ~z~Step down from the coach. Play nice and nobody needs to die here.
+
+P_ILOSJ_CRRH3_1 = ~z~Hey! Stop that coach!
+
+P_ILOS_CRRH3_1 = ~z~Hey! Stop that coach!
+

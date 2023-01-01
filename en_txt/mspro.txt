@@ -1,0 +1,76 @@
+0x16FE155C = Hogtie the ~COLOR_MP_OBJECTIVE_NEUTRAL~patron~s~
+
+0x61B202EE = Hold ~INPUT_CONTEXT_X~ to pick up the patron.
+
+0xE6F1C518 = Hogtie the patron
+
+BAR_DRUNK_ESCORT_OBJ_GET_ON_MOUNT = Get on the horse
+
+FETCH_BAR_DRUNK_ESCORT_HELP_CONTROL = Use ~INPUT_INTERACT_LOCKON~ to get the patron ~1b~ to follow you.
+
+FETCH_BAR_DRUNK_ESCORT_HELP_FOLLOW = The patron ~1b~ is following you. Lead them to the destination.
+
+FETCH_BAR_DRUNK_ESCORT_HELP_KNOCKED_OUT_PED_REVIVED = Return to the patron ~1b~ to stop them wandering away.
+
+FETCH_BAR_DRUNK_ESCORT_HELP_TEAM_PRIMARY_ARMADILLO = Go to the ~COLOR_OBJECTIVE_MP~Armadillo Saloon~s~ and escort the drunk patron to benefit your Moonshine Operation.
+
+FETCH_BAR_DRUNK_ESCORT_HELP_TEAM_PRIMARY_BLACKWATER = Go to the ~COLOR_OBJECTIVE_MP~Blackwater Saloon~s~ and escort the drunk patron to benefit your Moonshine Operation.
+
+FETCH_BAR_DRUNK_ESCORT_HELP_TEAM_PRIMARY_PLAYER_ARMADILLO = Go to the ~COLOR_OBJECTIVE_MP~Armadillo Saloon~s~ and escort the drunk patron to benefit ~1~'s Moonshine Operation.
+
+FETCH_BAR_DRUNK_ESCORT_HELP_TEAM_PRIMARY_PLAYER_BLACKWATER = Go to the ~COLOR_OBJECTIVE_MP~Blackwater Saloon~s~ and escort the drunk patron to benefit ~1~'s Moonshine Operation.
+
+FETCH_BAR_DRUNK_ESCORT_HELP_TEAM_PRIMARY_PLAYER_RHODES = Go to the ~COLOR_OBJECTIVE_MP~Rhodes Parlour House~s~ and escort the drunk patron to benefit ~1~'s Moonshine Operation.
+
+FETCH_BAR_DRUNK_ESCORT_HELP_TEAM_PRIMARY_PLAYER_SAINT_DENIS = Go to ~COLOR_OBJECTIVE_MP~Doyle's Tavern~s~ and escort the drunk patron to benefit ~1~'s Moonshine Operation.
+
+FETCH_BAR_DRUNK_ESCORT_HELP_TEAM_PRIMARY_PLAYER_TUMBLEWEED = Go to the ~COLOR_OBJECTIVE_MP~Tumbleweed Saloon~s~ and escort the drunk patron to benefit ~1~'s Moonshine Operation.
+
+FETCH_BAR_DRUNK_ESCORT_HELP_TEAM_PRIMARY_PLAYER_VALENTINE = Go to ~COLOR_OBJECTIVE_MP~Smithfields Saloon~s~ and escort the drunk patron to benefit ~1~'s Moonshine Operation.
+
+FETCH_BAR_DRUNK_ESCORT_HELP_TEAM_PRIMARY_PLAYER_VALENTINE_2 = Go to ~COLOR_OBJECTIVE_MP~Keane's Saloon~s~ and escort the drunk patron to benefit ~1~'s Moonshine Operation.
+
+FETCH_BAR_DRUNK_ESCORT_HELP_TEAM_PRIMARY_PLAYER_VAN_HORN = Go to the ~COLOR_OBJECTIVE_MP~Old Light Saloon~s~ and escort the drunk patron to benefit ~1~'s Moonshine Operation.
+
+FETCH_BAR_DRUNK_ESCORT_HELP_TEAM_PRIMARY_RHODES = Go to the ~COLOR_OBJECTIVE_MP~Rhodes Parlour House~s~ and escort the drunk patron to benefit your Moonshine Operation.
+
+FETCH_BAR_DRUNK_ESCORT_HELP_TEAM_PRIMARY_SAINT_DENIS = Go to ~COLOR_OBJECTIVE_MP~Doyle's Tavern~s~ and escort the drunk patron to benefit your Moonshine Operation.
+
+FETCH_BAR_DRUNK_ESCORT_HELP_TEAM_PRIMARY_TUMBLEWEED = Go to the ~COLOR_OBJECTIVE_MP~Tumbleweed Saloon~s~ and escort the drunk patron to benefit your Moonshine Operation.
+
+FETCH_BAR_DRUNK_ESCORT_HELP_TEAM_PRIMARY_VALENTINE = Go to ~COLOR_OBJECTIVE_MP~Smithfields Saloon~s~ and escort the drunk patron to benefit your Moonshine Operation.
+
+FETCH_BAR_DRUNK_ESCORT_HELP_TEAM_PRIMARY_VALENTINE_2 = Go to ~COLOR_OBJECTIVE_MP~Keane's Saloon~s~ and escort the drunk patron to benefit your Moonshine Operation.
+
+FETCH_BAR_DRUNK_ESCORT_HELP_TEAM_PRIMARY_VAN_HORN = Go to the ~COLOR_OBJECTIVE_MP~Old Light Saloon~s~ and escort the drunk patron to benefit your Moonshine Operation.
+
+FETCH_BAR_DRUNK_ESCORT_NEAR_HELP_FOLLOW = The patron ~1b~ is traveling to the destination.
+
+FETCH_BAR_DRUNK_ESCORT_OBJ_DEFEND = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~patron~s~ ~1~
+
+FETCH_BAR_DRUNK_ESCORT_OBJ_DELIVER = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~patron~s~ ~1~
+
+FETCH_BAR_DRUNK_ESCORT_OBJ_DELIVER_CARRY = Take the patron ~1~
+
+FETCH_BAR_DRUNK_ESCORT_PED_OBJ_DROP = Drop the patron
+
+FETCH_BAR_DRUNK_ESCORT_PED_OBJ_UNTIE = Untie the patron
+
+FETCH_BAR_DRUNK_ESCORT_SHARD_DESC_PRIMARY = Help the saloon owner
+
+FETCH_BAR_DRUNK_ESCORT_SHARD_DESTROYED = Patron was killed
+
+FETCH_BAR_DRUNK_ESCORT_SHARD_PRIMARY_FAIL = Timer expired
+
+FETCH_BAR_DRUNK_ESCORT_SHARD_PRIMARY_PASS = Patron was dropped off
+
+FETCH_BAR_DRUNK_OBJ_ESCORT_STEAL = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~patron~s~
+
+FETCH_MOONSHINE_BAR_DRUNK_APPROACH = Approach the patron
+
+FETCH_MOONSHINE_BAR_DRUNK_FOLLOW = Use ~INPUT_CONTEXT_X~ to escort the patron
+
+FETCH_MOONSHINE_BAR_DRUNK_ILO = Hold ~INPUT_INTERACT_LOCKON~ to focus on the patron
+
+FETCH_MOONSHINE_BAR_DRUNK_OBJ_GOTO = Go ~1~
+

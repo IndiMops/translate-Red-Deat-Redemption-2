@@ -1,0 +1,68 @@
+FETCH_JAILBREAK_GO_TO_0 = Направляйтесь ~1~.
+
+FETCH_JAILBREAK_GO_TO_1_POLICE_DEPARTMENT = Войдите в ~COLOR_MP_OBJECTIVE~департамент полиции~s~.
+
+FETCH_JAILBREAK_GO_TO_1_SHERIFFS_OFFICE = Войдите в ~COLOR_MP_OBJECTIVE~участок шерифа~s~.
+
+FETCH_JAILBREAK_HELP_CONTROL = При помощи ~INPUT_INTERACT_LOCKON~ сфокусируйтесь на заключенном ~1b~, чтобы отвести его.
+
+FETCH_JAILBREAK_HELP_FOLLOW = Заключенный ~1b~ следует за вами. Отведите его к месту доставки.
+
+FETCH_JAILBREAK_HELP_HOGTIED = Освободите заключенного с помощью ~INPUT_CUT_FREE~ или поднимите его с помощью ~INPUT_PICKUP_CARRIABLE~.
+
+FETCH_JAILBREAK_HELP_HONOR = Возьмите законника ~1b~ на мушку, чтобы он не поднял тревогу, пока вы освобождаете заключенного.
+
+FETCH_JAILBREAK_HELP_TEAM_PRIMARY = Вытащите заключенного из тюрьмы. Чтобы получить полную награду, помогите ему сбежать за отведенное время.
+
+FETCH_JAILBREAK_OBJ_BLACKWATER_FOLLOWER_GOAL = Проводите ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенного~s~ в ~COLOR_MP_OBJECTIVE~переулок~s~.
+
+FETCH_JAILBREAK_OBJ_DEFEND = Помогите доставить ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенного~s~ ~1~.
+
+FETCH_JAILBREAK_OBJ_DEFEND_KEY = Охраняйте отряд, пока ~COLOR_MP_OBJECTIVE~тюремную камеру~s~ открывают.
+
+FETCH_JAILBREAK_OBJ_FIND = Освободите ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенного~s~ из тюрьмы.
+
+FETCH_JAILBREAK_OBJ_FIND_KEY = Возьмите ~COLOR_MP_OBJECTIVE_NEUTRAL~ключи от тюремной камеры~s~.
+
+FETCH_JAILBREAK_OBJ_FIND_PLURAL = Вызволите ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенных~s~ из тюрьмы.
+
+FETCH_JAILBREAK_OBJ_FOLLOWER_GOAL_DEFEND = Защищайте ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенного~s~, пока он ищет свой тайник.
+
+FETCH_JAILBREAK_OBJ_RETURN = Проводите ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенного~s~ ~1~.
+
+FETCH_JAILBREAK_OBJ_RETURN_KEY = Откройте ~COLOR_MP_OBJECTIVE~тюремную камеру~s~.
+
+FETCH_JAILBREAK_OBJ_SAINT_DENIS_FOLLOWER_GOAL = Проводите ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенного~s~ к ~COLOR_MP_OBJECTIVE~виселице~s~ на кладбище.
+
+FETCH_JAILBREAK_OBJ_STRAWBERRY_FOLLOWER_GOAL = Проводите ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенного~s~ к ~COLOR_MP_OBJECTIVE~конюшне~s~.
+
+FETCH_JAILBREAK_OBJ_VALENTINE_FOLLOWER_GOAL = Проводите ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенного~s~ к ~COLOR_MP_OBJECTIVE~отелю «Сэйнтс»~s~.
+
+FETCH_JAILBREAK_PICKUP_VIPS = ПОМОЩЬ ВАЖНЫМ ПЕРСОНАМ
+
+FETCH_JAILBREAK_SCORETIMER_ESCORT = ~1~ теперь сопровождает ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенного~s~
+
+FETCH_JAILBREAK_SCORETIMER_ESCORT_YOU = Вы сопровождаете ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенного~s~
+
+FETCH_JAILBREAK_SCORETIMER_FOLLOWER_GOAL_COMPLETE = ~COLOR_MP_OBJECTIVE_FRIENDLY~Заключенный~s~ нашел свой тайник
+
+FETCH_JAILBREAK_SCORETIMER_TRIGGER_ACTION = ~COLOR_ENEMY~Законники~s~ подняли тревогу
+
+FETCH_JAILBREAK_SHARD_DESC_PRIMARY = Помогите заключенному сбежать из тюрьмы
+
+FETCH_JAILBREAK_SHARD_DESC_PRIMARY_PLURAL = Помогите заключенным сбежать из тюрьмы
+
+FETCH_JAILBREAK_SHARD_OVER_PRISONER_KILLED = Заключенный убит
+
+FETCH_JAILBREAK_SHARD_PRIMARY_PASS = Заключенный доставлен
+
+FETCH_JAILBREAK_SHARD_PRIMARY_PLURAL = Заключенные доставлены
+
+FETCH_JAILBREAK_STEAL = Вернитесь к ~COLOR_MP_OBJECTIVE_NEUTRAL~заключенному~s~.
+
+FETCH_JAILBREAK_TICKER_DESTROY = Заключенный убит
+
+FETCH_JAILBREAK_TICKER_DESTROY_YOU = Вы убили заключенного
+
+FETCH_JAILBREAK_UNTIE = Развяжите ~COLOR_MP_OBJECTIVE_FRIENDLY~заключенного~s~.
+

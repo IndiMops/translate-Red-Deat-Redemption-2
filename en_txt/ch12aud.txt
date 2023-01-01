@@ -1,0 +1,26 @@
+CCHSH_12_A_1 = ~z~
+
+CCHSH_12_A_2 = ~z~~sl:2.2:1.3~The thing is, John...~sl:1.1~the thing is, we all gotta die.
+
+CCHSH_12_A_3 = ~z~I know that. I of all people know that...
+
+CCHSH_12_A_4 = ~z~Excuse me?
+
+CCHSH_12_A_5 = ~z~We all gotta die but you... got the chance to live.
+
+CCHSH_12_A_6 = ~z~Not just to live, to live for love...
+
+CCHSH_12_A_INT_1 = ~z~~sl:0.4:0.0~Arthur will tell you. We all gotta die, but...
+
+CCHSH_12_A_INT_2 = ~z~love... love is the thing. The only thing.
+
+CCHSH_12_B_1 = ~z~I got... no goddamn clue what you're on about, Hosea.
+
+CCHSH_12_B_2 = ~z~You're not as dumb as you act, John Marston.
+
+CCHSH_12_B_3 = ~z~I don't understand.
+
+CCHSH_12_B_4 = ~z~~sl:1.3:0.0~Be a man, John. It would suit you.
+
+CCHSH_12_C_1 = ~z~You both are acting real strange right now.
+

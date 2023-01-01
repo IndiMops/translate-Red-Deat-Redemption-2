@@ -1,0 +1,632 @@
+SUS1_EXT_1 = ~z~So he's still alive then?
+
+SUS1_EXT_2 = ~z~I guess...
+
+SUS1_EXT_3 = ~z~You see this girl...
+
+SUS1_EXT_4 = ~z~you leave her alone.
+
+SUS1_EXT_5 = ~z~She killed my cousin!
+
+SUS1_EXT_6 = ~z~Your goddamn cousin had it coming, Anthony Foreman!
+
+SUS1_EXT_7 = ~z~I don't care if she shot your daddy...
+
+SUS1_EXT_8 = ~z~and cooked your momma for breakfast...
+
+SUS1_EXT_9 = ~z~she's mine, she ain't yours.
+
+SUS1_EXT_10 = ~z~You know an old friend of mine...
+
+SUS1_EXT_11 = ~z~he always says...
+
+SUS1_EXT_12 = ~z~revenge is a fool's game.
+
+SUS1_EXT_13 = ~z~Now...
+
+SUS1_EXT_14 = ~z~you want all your boys dead?
+
+SUS1_EXT_15 = ~z~She had her reasons.
+
+SUS1_EXT_16 = ~z~We was family, Tilly Jackson.
+
+SUS1_EXT_17 = ~z~You Foreman boys ain't no kind of family I want.
+
+SUS1_EXT_18 = ~z~Kill him, Arthur.
+
+SUS1_EXT_19 = ~z~You want that?
+
+SUS1_EXT_20 = ~z~I want him to go away...
+
+SUS1_EXT_21 = ~z~and tell the remaining of his cousins...
+
+SUS1_EXT_22 = ~z~and the clowns he rides with...
+
+SUS1_EXT_23 = ~z~to leave me alone!
+
+SUS1_EXT_24 = ~z~Now, you think you can do that, Anthony?
+
+SUS1_EXT_25 = ~z~Or should I... slit your throat...
+
+SUS1_EXT_26 = ~z~and just save us all the bother?
+
+SUS1_EXT_27 = ~z~I'll leave you alone.
+
+SUS1_EXT_28 = ~z~History...
+
+SUS1_EXT_29 = ~z~is done.
+
+SUS1_EXT_30 = ~z~History is never done.
+
+SUS1_EXT_31 = ~z~It's your call, Arthur...
+
+SUS1_EXT_32 = ~z~but I'd slit his throat.
+
+SUS1_EXT_33 = ~z~Go on.
+
+SUS1_EXT_34 = ~z~Finish the bastard off.
+
+SUS1_EXT_35 = ~z~You know my choice.
+
+SUS1_EXT_36 = ~z~Sadly...
+
+SUS1_EXT_37 = ~z~I agree with you.
+
+SUS1_EXT_38 = ~z~Sorry, partner...
+
+SUS1_EXT_39 = ~z~we can't take no chances with the likes of you.
+
+SUS1_EXT_40 = ~z~Alright you...
+
+SUS1_EXT_41 = ~z~Come on...
+
+SUS1_EXT_42 = ~z~let's get you home.
+
+SUS1_EXT_43 = ~z~Now get out of here.
+
+SUS1_G2_ANGER_01 = ~z~Where the hell did he come from?
+
+SUS1_G2_ANGER_02 = ~z~You back the hell off right now!
+
+SUS1_G2_ANGER_03 = ~z~Goddamn bastard, you're a dead man!
+
+SUS1_G2_SHOCK_01 = ~z~What the hell?
+
+SUS1_G2_SHOCK_02 = ~z~Shit!
+
+SUS1_G3_ANGER_01 = ~z~Will one of you deal with this?
+
+SUS1_G3_ANGER_02 = ~z~Kill that son of a bitch!
+
+SUS1_G3_ANGER_03 = ~z~This better not have nothing to do with you, Tilly Jackson!
+
+SUS1_G3_SHOCK_01 = ~z~What the hell's going on?
+
+SUS1_G3_SHOCK_02 = ~z~Goddamn it!
+
+SUS1_GETLOST_1 = ~z~No, get outta here.
+
+SUS1_GRDQUEST_1 = ~z~What you want?
+
+SUS1_IG1_ACTB_1 = ~z~~sl:0.0:4.1:1~Oh now, you keep saying that, but you don't mean nothing by it.
+
+SUS1_IG1_ACTB_2 = ~z~~sl:0.0:1.7:1~I said, get-
+
+SUS1_IG1_ACTB_3 = ~z~You've said your last words.
+
+SUS1_IG2_1 = ~z~~sl:0.0:2.9~You think I'm taking more shit from you, Tilly Jackson?~sl:~Ideas above your goddamn station.
+
+SUS1_IG2_CALL_1 = ~z~
+
+SUS1_IG2_REACT_1 = ~z~What the...
+
+SUS1_IG2_SHOTRC_1 = ~z~
+
+SUS1_INT_1 = ~z~How are you, Arthur?
+
+SUS1_INT_2 = ~z~Fine...
+
+SUS1_INT_3 = ~z~how are you?
+
+SUS1_INT_4 = ~z~I'm...
+
+SUS1_INT_5 = ~z~Well, I'm well I think.
+
+SUS1_INT_6 = ~z~It's been quite a run we've had but...
+
+SUS1_INT_7 = ~z~but we're still alive.
+
+SUS1_INT_8 = ~z~So, no regrets?
+
+SUS1_INT_9 = ~z~Regrets for what?
+
+SUS1_INT_10 = ~z~Well, for joining this band of maniacs?
+
+SUS1_INT_11 = ~z~If you're a girl without means in this world...
+
+SUS1_INT_12 = ~z~life is very scary.
+
+SUS1_INT_13 = ~z~You boys cared for me.
+
+SUS1_INT_14 = ~z~Before, no one cared for me.
+
+SUS1_INT_15 = ~z~Well, life weren't very nice, Arthur...
+
+SUS1_INT_16 = ~z~not after momma got typhoid and...
+
+SUS1_INT_17 = ~z~that was a long time ago.
+
+SUS1_INT_18 = ~z~Sure.
+
+SUS1_INT_19 = ~z~What about you?
+
+SUS1_INT_20 = ~z~I heard you ran into that Mary girl.
+
+SUS1_INT_21 = ~z~Yep.
+
+SUS1_INT_22 = ~z~And?
+
+SUS1_INT_23 = ~z~Got me thinking how that all ended.
+
+SUS1_INT_24 = ~z~Long time ago now.
+
+SUS1_INT_25 = ~z~What happened?
+
+SUS1_INT_26 = ~z~She didn't love me enough, I guess.
+
+SUS1_INT_27 = ~z~Or...
+
+SUS1_INT_28 = ~z~I wouldn't change.
+
+SUS1_INT_29 = ~z~Well, she was a fool then, Arthur.
+
+SUS1_INT_30 = ~z~Well, she put a lot of good years in on an outlaw...
+
+SUS1_INT_31 = ~z~she definitely was a fool.
+
+SUS1_INT_32 = ~z~In these books, life seems so simple but...
+
+SUS1_INT_33 = ~z~in reality I... I can't make head nor tail of it.
+
+SUS1_INT_34 = ~z~Mr. Morgan!
+
+SUS1_INT_35 = ~z~Mr. Morgan, we have a problem...
+
+SUS1_INT_36 = ~z~a real problem.
+
+SUS1_INT_37 = ~z~It's Tilly.
+
+SUS1_INT_38 = ~z~What?
+
+SUS1_INT_39 = ~z~She's been taken...
+
+SUS1_INT_40 = ~z~by them Foreman brothers she used to run with.
+
+SUS1_INT_41 = ~z~Come along.
+
+SUS1_INT_42 = ~z~The Foreman brothers?
+
+SUS1_INT_43 = ~z~Well what are they doing here?
+
+SUS1_INT_44 = ~z~Well, I don't know what they've been doing here...
+
+SUS1_INT_45 = ~z~but I can tell you what they're going to be doing here...
+
+SUS1_INT_46 = ~z~dying.
+
+SUS1_INT_47 = ~z~Sure...
+
+SUS1_INT_48 = ~z~do we need more guns?
+
+SUS1_INT_49 = ~z~You and I can handle this, Arthur.
+
+SUS1_INT_50 = ~z~Where we heading?
+
+SUS1_INT_51 = ~z~I'll tell you on the way...
+
+SUS1_INT_52 = ~z~just get going.
+
+SUS1_INT_LI_1 = ~z~Hello, Mary-Beth.
+
+SUS1_INT_LO_1 = ~z~Hyah!
+
+SUS1_MCS1_1 = ~z~It's okay, miss Tilly.
+
+SUS1_MCS1_2 = ~z~Now...
+
+SUS1_MCS1_3 = ~z~let's get you out of here.
+
+SUS1_MCS1_4 = ~z~Hold up.
+
+SUS1_MCS1_5 = ~z~It's okay, miss Tilly.
+
+SUS1_MCS1_6 = ~z~Now...
+
+SUS1_MCS1_7 = ~z~let's get you out of here.
+
+SUS1_MCS1_8 = ~z~Hold up.
+
+SUS1_MCS1_9 = ~z~I thought they was...
+
+SUS1_MCS1_10 = ~z~I...
+
+SUS1_MCS1_11 = ~z~It don't matter what you thought...
+
+SUS1_MCS1_12 = ~z~it's okay.
+
+SUS1_MCS1_13 = ~z~Alright, let's go.
+
+SUS1_MCS1_14 = ~z~Oh, come along, miss...
+
+SUS1_MCS1_15 = ~z~Thank you, both of you.
+
+SUS1_MCS1_16 = ~z~What happened?
+
+SUS1_MCS1_17 = ~z~It was Anthony Foreman.
+
+SUS1_MCS1_18 = ~z~He thinks he owns me.
+
+SUS1_MCS1_19 = ~z~I remember.
+
+SUS1_MCS1_20 = ~z~Where is he?
+
+SUS1_MCS1_21 = ~z~He went out hunting or something.
+
+SUS1_MCS1_22 = ~z~There were five of them, I think.
+
+SUS1_MCS1_23 = ~z~Well...
+
+SUS1_MCS1_24 = ~z~we killed those fellers there.
+
+SUS1_MCS1_25 = ~z~There they are.
+
+SUS1_MCS1_26 = ~z~Come on.
+
+SUS1_MCS1_27 = ~z~Tilly, grab that gun.
+
+SUS1_MCS1_28 = ~z~Anyone approaches, shoot 'em!
+
+SUS1_MCS1_29 = ~z~Oh, don't worry, I'll be just fine.
+
+SUS1_MCS1_LI_1 = ~z~~sl:0.0:1.6~It's okay, Miss Tilly.~sl:0.0:2.8~Now, let's get you outta here.~sl:0.3~Hold on.
+
+SUS1_MCS1_LI_2 = ~z~
+
+SUS1_MCS1_LO_1 = ~z~Now catch that bastard!
+
+SUS1_MCS1_LO_2 = ~z~
+
+SUS1_MCS1_LO_3 = ~z~Yah!
+
+SUS1_S1_BANT1B_1 = ~z~~sl:0.0:2.8~Anyway, talking of folks disappearing...~sl:~have you seen that boy, Kieran, since the party for Jack?
+
+SUS1_S1_BANT1B_2 = ~z~~sl:0.0:1.6~Come to think of it, no.~sl:0.9~That could be another problem.
+
+SUS1_S1_BANT1B_3 = ~z~~sl:0.0:3.1~Well, he'd be a real fool to turn on us now...~sl:0.3~but I can't imagine he'd last too long on his own.
+
+SUS1_S1_BANT1B_4 = ~z~Still...
+
+SUS1_S1_BANT1B_5 = ~z~Well, I'll get some eyes out, see if we can track him down.
+
+SUS1_S1_BANT1B_6 = ~z~Ok. Good, let me know.
+
+SUS1_S1_BANT1C_1 = ~z~No doubt.
+
+SUS1_S1_BANT1C_2 = ~z~Well, I don't know... first Jack, now Tilly. This isn't good, Arthur.
+
+SUS1_S1_BANT1C_3 = ~z~~sl:0.0:3.0~Listen, kidnappings ain't nothing new.~sl:0.5:2.1~These things happen sometimes...~sl:0.4~hell, they've happened to you.
+
+SUS1_S1_BANT1C_4 = ~z~I know. Never gets any easier, though.
+
+SUS1_S1_BANT1C_5 = ~z~We'll get'em both back.
+
+SUS1_S1_BANT1_1 = ~z~Alright, head for Rhodes. And quick.
+
+SUS1_S1_BANT1_2 = ~z~She's in Rhodes?
+
+SUS1_S1_BANT1_3 = ~z~No, she's at a place called Radley's House, just west of there.
+
+SUS1_S1_BANT1_4 = ~z~How do you know?
+
+SUS1_S1_BANT1_5 = ~z~~sl:0.0:3.0~When we first got here, she told me she was worried that our camp...~sl:~was near a safe house that gang she ran with used from time to time.
+
+SUS1_S1_BANT1_6 = ~z~And you told Dutch?
+
+SUS1_S1_BANT1_7 = ~z~~sl:0.0:2.8~No. She spoke to me in confidence.~sl:0.1~I suppose I didn't think it would be a problem.
+
+SUS1_S1_BANT1_8 = ~z~And now it is.
+
+SUS1_S1_BANT1_9 = ~z~Oh yes.
+
+SUS1_S1_BANT1_10 = ~z~What do they want with her anyway?
+
+SUS1_S1_BANT1_11 = ~z~I think I saw one of the Foremans hassling her in Valentine.
+
+SUS1_S1_BANT1_12 = ~z~~sl:0.0:3.1~Yes, they probably followed us down here.~sl:0.3~You don't know what happened?
+
+SUS1_S1_BANT1_13 = ~z~~sl:0.0:2.5~She killed one of them, for good reason, but...~sl:~clearly they don't see it that way.
+
+SUS1_S1_BANT1_14 = ~z~Tilly?
+
+SUS1_S1_BANT1_15 = ~z~Yes, young Tilly Jackson isn't as sweet and innocent as you might think...
+
+SUS1_S1_BANT1_16 = ~z~~sl:0.0:2.5~but, like I say, she was defending herself.~sl:0.4:3.0~She fled and fell in with us right after that.~sl:0.4~I just hope we can get to her in time.
+
+SUS1_S1_BANT1_17 = ~z~It's not too far.
+
+SUS1_S1_BANT1_18 = ~z~~sl:0.0:3.0~If they've touched a single hair on that girl's head,~sl:~I will eviscerate the sons of bitches.
+
+SUS1_S1_BANT1_19 = ~z~See... you do care, Miss. Grimshaw.
+
+SUS1_S1_BANT1_20 = ~z~Of course I care. About all of you fools.
+
+SUS1_S1_BANT1_21 = ~z~Some just require a firmer hand than others, you especially.
+
+SUS1_S1_BANT1_22 = ~z~Well, thank you.
+
+SUS1_S1_BANT1_23 = ~z~~sl:0.0:2.8~I swear half of you would just rot in your own filth,~sl:~if nobody kept you in check.
+
+SUS1_S1_OBJ2_1 = ~z~Okay, I think that's the place up ahead.
+
+SUS1_S2_BANT2_1 = ~z~I knew you was up to no good!
+
+SUS1_S2_BANT2_2 = ~z~Kill that son of a bitch!
+
+SUS1_S2_OBJ3_1 = ~z~Well, what are you waiting for? Get in there and find our girl.
+
+SUS1_S2_OBJ3_B_1 = ~z~I said I'd deal with it. Anyway, just get in there and find Tilly.
+
+SUS1_S2_OBT_DWD_01 = ~z~Quick, Arthur, they probably heard us.
+
+SUS1_S2_OBT_DWD_02 = ~z~Are you going in there or not?
+
+SUS1_S2_OBT_DWD_03 = ~z~Go find her before they put a bullet in her head.
+
+SUS1_S2_SUSLOOT_1 = ~z~I'll take that...
+
+SUS1_S3_OBJ1_1 = ~z~What the hell you think you're doing?
+
+SUS1_S4_AR_ENTR_1 = ~z~What the hell?
+
+SUS1_S4_BANT1_1 = ~z~
+
+SUS1_S4_BANT1_2 = ~z~
+
+SUS1_S4_BANT1_3 = ~z~Keep still.
+
+SUS1_S4_BANT1_4 = ~z~
+
+SUS1_S4_BANT1_5 = ~z~
+
+SUS1_S4_BANT1_6 = ~z~If I had it my way, you'd be dead already.
+
+SUS1_S4_BANT1_7 = ~z~
+
+SUS1_S4_BANT1_8 = ~z~
+
+SUS1_S4_BANT1_9 = ~z~That's enough, you bitch.
+
+SUS1_S4_BANT1_10 = ~z~What's going on out there?
+
+SUS1_S5_DNTKILL_1 = ~z~Don't kill him yet. I want Tilly to have the last word on this bastard.
+
+SUS1_S5_GOODSHT_01 = ~z~Whoa, nice shot.
+
+SUS1_S5_GOODSHT_02 = ~z~Good shot.
+
+SUS1_S5_GOODSHT_03 = ~z~Well, that was a beauty, Arthur.
+
+SUS1_S5_HILL_1 = ~z~They're heading down the hill to the water.
+
+SUS1_S5_HORSTOP_01 = ~z~Why are we stopped?
+
+SUS1_S5_HORSTOP_02 = ~z~Go on, what are you doing?
+
+SUS1_S5_HORSTOP_03 = ~z~Well, what are you waiting for? Go!
+
+SUS1_S5_LASDAWD_01 = ~z~Don't let him get away.
+
+SUS1_S5_LASDAWD_02 = ~z~Go on, rope that bastard.
+
+SUS1_S5_LASDAWD_03 = ~z~Come on. Get him, Arthur.
+
+SUS1_S5_LASREM_01 = ~z~Catch him, Arthur.
+
+SUS1_S5_LASREM_02 = ~z~Rope that son of a bitch.
+
+SUS1_S5_LASREM_03 = ~z~Rope and hogtie him.
+
+SUS1_S5_OBJ1_1 = ~z~Alright, get after them!
+
+SUS1_S5_OBJ2B_01 = ~z~Got him. Now keep on the others.
+
+SUS1_S5_OBJ2B_02 = ~z~Alright, that's him dealt with.
+
+SUS1_S5_OBJ2C_1 = ~z~You got him.
+
+SUS1_S5_OBJ2_01 = ~z~Come on, they're getting away!
+
+SUS1_S5_OBJ2_02 = ~z~Let's go, catch up with them.
+
+SUS1_S5_OBJ2_03 = ~z~Oh, hurry, we're going to lose them.
+
+SUS1_S5_OBJ2_04 = ~z~Can't this horse go any faster?
+
+SUS1_S5_OBJ2_05 = ~z~Oh, come on! I thought you were meant to be good at this!
+
+SUS1_S5_OBJ3B_01 = ~z~Make sure we take him alive.
+
+SUS1_S5_OBJ3B_02 = ~z~Use the lasso. Don't kill him yet.
+
+SUS1_S5_OBJ3B_03 = ~z~Tilly can't speak to him if he's dead, Arthur.
+
+SUS1_S5_OBJ3_1 = ~z~~sl:0.0:2.7~Alright, I think that last one's the boss.~sl:~Lasso him and we'll take him back to Tilly.
+
+SUS1_S5_SHORE_1 = ~z~Oh, there they are, by the shoreline.
+
+SUS1_S5_SUSYELL_01 = ~z~You picked the wrong girl!
+
+SUS1_S5_SUSYELL_02 = ~z~Oh, you're gonna pay, all of you!
+
+SUS1_S5_SUSYELL_03 = ~z~Oh, look at these cowards!
+
+SUS1_S5_SUSYELL_04 = ~z~You've got a couple more seconds to regret what you did!
+
+SUS1_S5_SUSYELL_05 = ~z~We're coming for you, you bastards!
+
+SUS1_S5_TREES_1 = ~z~There, straight ahead, I saw them go through those bushes.
+
+SUS1_S5_URGE_01 = ~z~Let's finish these scum.
+
+SUS1_S5_URGE_02 = ~z~That's it, stay on them.
+
+SUS1_S5_URGE_03 = ~z~Come on, we've got them now.
+
+SUS1_S5_URGE_04 = ~z~They think they're getting away, they got another thing coming.
+
+SUS1_S5_URGE_05 = ~z~We can't let these animals get away.
+
+SUS1_S5_URGE_06 = ~z~Stay right on their tail, Arthur.
+
+SUS1_S6_AHORSE_1 = ~z~I'll take his horse. He won't be needing it no more.
+
+SUS1_S6_ANTFREE_01 = ~z~Oh shit. Quick, get after him!
+
+SUS1_S6_ANTFREE_02 = ~z~Arthur!
+
+SUS1_S6_ANTFREE_03 = ~z~No, he's making a run for it!
+
+SUS1_S6_HOGDAWD_01 = ~z~Are you going to tie him up then?
+
+SUS1_S6_HOGDAWD_02 = ~z~Quick, before he gives you the slip.
+
+SUS1_S6_HOGDAWD_03 = ~z~Go on, truss him up. What are you waiting for?
+
+SUS1_S6_HOGTIE_1 = ~z~Gonna make these nice and tight.
+
+SUS1_S6_LASOO_01 = ~z~~sl:1.0~My arm.
+
+SUS1_S6_LASOO_02 = ~z~You son of a bitch.
+
+SUS1_S6_LASOO_03 = ~z~Get this off of me.
+
+SUS1_S6_LASOO_04 = ~z~Roping me like a damn steer.
+
+SUS1_S6_LASOO_05 = ~z~I'll kill you.
+
+SUS1_S6_NOTON_01 = ~z~~sl:0.0:2.3:1~You're a dead man.
+
+SUS1_S6_NOTON_02 = ~z~Untie me, you bastard.
+
+SUS1_S6_NOTON_03 = ~z~~sl:0.0:2.2:1~That bitch owes me.
+
+SUS1_S6_NOTON_04 = ~z~You're gonna pay for this.
+
+SUS1_S6_NOTON_05 = ~z~~sl:0.0:3.5:1~Get these ropes off of me right now.
+
+SUS1_S6_NOTON_06 = ~z~Let me go or we'll hunt you down.
+
+SUS1_S6_OBJ1_1 = ~z~Come here.
+
+SUS1_S6_OBJ1_2 = ~z~That's it, now make sure you tie him up real good.
+
+SUS1_S6_OBJ2_1 = ~z~~sl:0.0:2.9~Alright, you bring that bastard back to Tilly,~sl:~so we can all have a nice little chat.
+
+SUS1_S6_OBJ2_2 = ~z~I'm going to head over there now to check she's okay.
+
+SUS1_S6_OBJ2_3 = ~z~With pleasure.
+
+SUS1_S7_BANT1_1 = ~z~~sl:0.0:3.6~Do you have the first idea of what you're getting into?~sl:0.4~I'm Anthony Foreman.
+
+SUS1_S7_BANT1_2 = ~z~Oh, thanks for the introduction, Anthony.
+
+SUS1_S7_BANT1_3 = ~z~Is that Foreman with an “e”? I want the undertaker to spell it right.
+
+SUS1_S7_BANT1_4 = ~z~Funny bastard. Who are you running with?
+
+SUS1_S7_BANT1_5 = ~z~She didn't tell you?
+
+SUS1_S7_BANT1_6 = ~z~~sl:0.0:1.4:1~She didn't tell me nothing.
+
+SUS1_S7_BANT1_7 = ~z~This rope is cutting into me.
+
+SUS1_S7_BANT1_8 = ~z~Don't feel so good when you're the one tied up, does it?
+
+SUS1_S7_BANT1_9 = ~z~She killed my goddamn cousin.
+
+SUS1_S7_BANT1_10 = ~z~Oh, don't worry, you'll be seeing him soon enough.
+
+SUS1_S7_BANT1_11 = ~z~What are you gonna do with me?
+
+SUS1_S7_BANT1_12 = ~z~I ain't sure yet. Reckon I'll let Tilly decide what you deserve.
+
+SUS1_S7_BANT1_13 = ~z~~sl:0.0:2.5~You're wasting your time with that girl.~sl:0.3~She's a liar, she'll screw you over like she did me.
+
+SUS1_S7_BANT1_14 = ~z~I should have shot the bitch yesterday like I said I would.
+
+SUS1_S7_BANT1_15 = ~z~You just shut your mouth now, Anthony. I've heard enough.
+
+SUS1_S7_BANT1_16 = ~z~Son of a bitch.
+
+SUS1_S7_BANT2_1 = ~z~Alright, here's your man.
+
+SUS1_S7_BANT2_2 = ~z~Bring him here.
+
+SUS1_S7_BANT3_1 = ~z~Dump him on the ground here. I want to get a good look at this monster.
+
+SUS1_S7_BODYDR_1 = ~z~Go on, drop him in the dirt where he belongs.
+
+SUS1_S7_FINAL_1 = ~z~Alright, alright. Damn it.
+
+SUS1_S7_HIT_01 = ~z~Watch your mouth.
+
+SUS1_S7_HIT_02 = ~z~Damn coward.
+
+SUS1_S7_HIT_03 = ~z~Shut the hell up.
+
+SUS1_S7_OFFHRSE_1 = ~z~Are you getting him off the horse then?
+
+SUS1_S7_REACT_01 = ~z~
+
+SUS1_S7_REACT_02 = ~z~Bastard.
+
+SUS1_S7_REACT_03 = ~z~Go to hell.
+
+SUS1_S7_REACT_04 = ~z~~sl:0.7~Get off me.
+
+SUS1_S7_REACT_05 = ~z~Ah, shit.
+
+SUS1_S7_REACT_06 = ~z~~sl:0.7~What the hell?
+
+SUS1_SEDUCEGRD_1 = ~z~Kind sir, we're lost and in need of some help.
+
+SUS1_SEDUCEGRD_2 = ~z~No, get outta here.
+
+SUS1_SEDUCEGRD_3 = ~z~~sl:0.0:2.4~Oh I see that kindly face of yours...~sl:0.0:3.1:1~and I know that for the right inducements,
+
+SUS1_SEDUCEGRD_4 = ~z~~sl:0.1~a gentlemen such as yourself could be mighty kind.
+
+SUS1_SEDUCEGRD_5 = ~z~Excuse me?
+
+SUS1_SEDUCEGRD_6 = ~z~~sl:0.0:3.9~I suppose sir, what I'm trying to say...~sl:~in my clumsy and inelegant manner... is that
+
+SUS1_SEDUCEGRD_7 = ~z~~sl:0.0:4.0~if you would do me the privilege of helping me,~sl:0.2~I'd do you the honor of pretty much anything you desired.
+
+SUS1_SPOTGRD_1 = ~z~I think there's a guard...
+
+SUS1_SPOTGRD_2 = ~z~I'll deal with him.
+
+SUS1_STOPCART_1 = ~z~Whoa...
+
+SUS1_SUS_YELL_T_01 = ~z~Where's my girl, Arthur?
+
+SUS1_SUS_YELL_T_02 = ~z~Finish those bastards off!
+
+SUS1_SUS_YELL_T_03 = ~z~Oh, if they've laid a finger on her!
+
+SUS1_SUS_YELL_T_04 = ~z~Hey! You okay in there?
+
+SUS1_SUS_YELL_T_05 = ~z~Tilly, we're coming for you!
+
+SUS1_WAIT_1 = ~z~~sl:0.0:1.3~The one in front's the boss.~sl:~Bring him back alive, I ain't done with him yet.
+

@@ -1,0 +1,26 @@
+CDNJ4_A_1 = ~z~
+
+CDNJ4_A_2 = ~z~How you doing there, partner?
+
+CDNJ4_A_3 = ~z~
+
+CDNJ4_A_4 = ~z~Fine.
+
+CDNJ4_A_5 = ~z~You've had a run of bad luck, huh?
+
+CDNJ4_A_6 = ~z~Blackwater, and then, uh..
+
+CDNJ4_A_7 = ~z~Sure.
+
+CDNJ4_A_8 = ~z~Was Blackwater really bad luck though, Dutch...
+
+CDNJ4_A_9 = ~z~or, you and Micah acting real crazy?
+
+CDNJ4_A_INT_1 = ~z~You tell him, Arthur.
+
+CDNJ4_A_INT_2 = ~z~Tell him to wake up. He's lost something.
+
+CDNJ4_B_1 = ~z~Blackwater was about surviving, John.
+
+CDNJ4_B_2 = ~z~Not for that girl it weren't.
+

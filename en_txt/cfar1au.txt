@@ -1,0 +1,22 @@
+CFAR1_ACT_1 = ~z~Gentlemen, mind if I warm myself a minute?
+
+CFAR1_ACT_2 = ~z~
+
+CFAR1_ACT_3 = ~z~I'm getting too old for this.
+
+CFAR1_ACT_4 = ~z~~sl:0.0:1.1~Living in tents...~sl:0.3~on the run.
+
+CFAR1_ACT_5 = ~z~By my age, I thought I'd be living on some farm somewhere...
+
+CFAR1_ACT_6 = ~z~~sl:0.0:2.7~having some servant girl feed me freshly peeled grapes~sl:~and another massaging my feet!
+
+CFAR1_ACT_7 = ~z~Funny how things turn out.
+
+CFAR1_ACT_8 = ~z~~sl:0.0:2.4~Instead I'm stuck in the wilderness with you degenerates~sl:~trying to stay warm.
+
+CFAR1_ACT_9 = ~z~~sl:0.0:0.9~Still...~sl:0.1:1.9~guess all that luxury would run me to fat,~sl:~and there ain't no getting fat out here.
+
+CFAR1_ACT_10 = ~z~Not while old hag Grimshaw eats triple rations!
+
+CFAR1_ACT_11 = ~z~~sl:0.0:1.1~Enjoy yourselves.~sl:0.1~I gotta get on.
+

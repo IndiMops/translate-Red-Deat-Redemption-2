@@ -1,0 +1,38 @@
+CDT22_ACT_1 = ~z~You two, come over here. Come over here.
+
+CDT22_ACT_2 = ~z~Listen to this passage, it is beautiful...
+
+CDT22_ACT_3 = ~z~Who is it, Dutch?
+
+CDT22_ACT_4 = ~z~It's Mr. Miller of course. An essay on the allegory of impotence.
+
+CDT22_ACT_5 = ~z~“So, the question the seeker of allegorical potency should ask himself, or indeed herself, if potency is not itself
+
+CDT22_ACT_6 = ~z~too masculine a concern for our sisters to be concerned with, is this...
+
+CDT22_ACT_7 = ~z~is it in the seeking that we find, or in the finding that we seek?
+
+CDT22_ACT_8 = ~z~While this might seem a pathway towards insanity, it's an important distinction, and also a clear one,
+
+CDT22_ACT_9 = ~z~he who finds things is wise, but he who continues to seek is evermore free.”
+
+CDT22_ACT_10 = ~z~Evermore free! Isn't that the most wonderful idea of all?
+
+CDT22_ACT_11 = ~z~Well, I guess it is quite... pretty.
+
+CDT22_ACT_12 = ~z~Pretty? It's magnificent, my dear. Magnificent!
+
+CDT22_ACT_13 = ~z~Evermore free... that's... that's us.
+
+CDT22_ACT_14 = ~z~If we keep on seeking... we will find freedom.
+
+CDT22_ACT_15 = ~z~Now, you two better get back to work.
+
+CDT22_ACT_16 = ~z~Go on!
+
+CDT22_ACT_17 = ~z~
+
+CDT22_ACT_INT_1 = ~z~What do you think, Arthur?
+
+CDT22_ACT_INT_2 = ~z~I don't think too much Dutch... not about that kind of crap anyway.
+

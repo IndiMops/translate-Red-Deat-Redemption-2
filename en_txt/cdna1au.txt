@@ -1,0 +1,12 @@
+CDNA1_ACTION_1 = ~z~You okay, Dutch?
+
+CDNA1_ACTION_2 = ~z~Eh?
+
+CDNA1_ACTION_3 = ~z~You okay?
+
+CDNA1_ACTION_4 = ~z~You seem... distracted, I suppose.
+
+CDNA1_ACTION_5 = ~z~Me? Oh, I'm fine... fine... just thinking... you know... thinking.
+
+CDNA1_ACTION_6 = ~z~Excuse me... excuse me.
+

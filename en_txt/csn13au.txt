@@ -1,0 +1,16 @@
+CSN13_ACT_A_1 = ~z~Keep warm, all of you... keep warm... just a few more days and we'll get off this hill.
+
+CSN13_ACT_A_2 = ~z~I hope so.
+
+CSN13_ACT_A_3 = ~z~Stay strong.
+
+CSN13_ACT_A_4 = ~z~It's been a nasty few days.
+
+CSN13_ACT_A_5 = ~z~I know... and we've had tough times before.
+
+CSN13_ACT_A_6 = ~z~We keep moving and we keep together, same as always. All of you.
+
+CSN13_ACT_B_1 = ~z~Ain't that so, Mr. Morgan?
+
+CSN13_ACT_B_2 = ~z~Of course.
+

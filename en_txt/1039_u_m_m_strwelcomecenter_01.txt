@@ -1,0 +1,130 @@
+0x01CC3B1B = ~z~Listen, it's time for you to head out of here.
+
+0x03001079 = ~z~No need for that sort of thing.
+
+0x05A3C157 = ~z~You're, uh... very close.
+
+0x05FDFC46 = ~z~I won't say a word, I won't, I swear.
+
+0x0AB0E5CF = ~z~I've barely got a coin to my name.
+
+0x0BA5D0D1 = ~z~Over and over, huh? Hello again.
+
+0x0E22433B = ~z~No point holding a grudge.
+
+0x0FEE0E9C = ~z~You're not tailing me, are you?
+
+0x2C32CE52 = ~z~I'm putting you out of sight and mind.
+
+0x2CE35DA6 = ~z~Always welcome at the Welcome Center, yes.
+
+0x5A913901 = ~z~Welcome, welcome.
+
+0x5B0E54DE = ~z~Hey, what did I do?
+
+0x5D92F41F = ~z~No. What'd you do?
+
+0x5E25B79A = ~z~Okay, okay, let's please just talk about this.
+
+0x5EB709D1 = ~z~Heh. That's alright.
+
+0x5ED9A809 = ~z~Okay.
+
+0x6B792F54 = ~z~Welcome. New in Strawberry?
+
+0x6DC97A54 = ~z~Hey, no need for that.
+
+0x7E95B4C4 = ~z~I think you've worn out your welcome here.
+
+0x8A5915B2 = ~z~Just get away from me.
+
+0x8CDF0277 = ~z~You need a bed, mister?
+
+0x8CED449C = ~z~That's it. I'm going for the sheriff.
+
+0x8FC3571F = ~z~Why don't you check out the, uh, rest of town, huh? Okay?
+
+0x9AF7B4EC = ~z~That's flat wrong.
+
+0x9F18A6EA = ~z~Oh! You feeling okay, mister?
+
+0x9F306922 = ~z~I'll be letting the law know about all this.
+
+0x13E2D384 = ~z~Head upstairs whenever you please. We keep 'em ready.
+
+0x33BA8E6B = ~z~I guess I can't be sure you're... all bad.
+
+0x50D39CF6 = ~z~Oh. Please, no, no, no. Please put the gun down.
+
+0x77D7CAF9 = ~z~Please, no.
+
+0x89BA6033 = ~z~Just leave me be.
+
+0x135ED437 = ~z~Hey, could you stop? Please?
+
+0x238EBFBA = ~z~Hey, okay now, listen now, I'm no fighter.
+
+0x320ECD17 = ~z~Could you move? Will you?
+
+0x358FC630 = ~z~Hey, hey, you shouldn't be here.
+
+0x745D6C99 = ~z~Good to have you.
+
+0x854BAB4F = ~z~I know I'm not worth that much of a look.
+
+0x898D6E64 = ~z~Don't do this.
+
+0x7677B8E7 = ~z~You look fine up. Feeling fresh, I hope?
+
+0x9081ED66 = ~z~Oh. That's okay.
+
+0x9816B12D = ~z~Stay well away from me.
+
+0x2147776B = ~z~Please, alright, no more commotion.
+
+0x10321901 = ~z~What're you doing?
+
+0xA6E1B1AF = ~z~Nice to see you.
+
+0xAC941E6D = ~z~It's over? Okay, that's fine.
+
+0xADA3273D = ~z~Nothing like a good bath, huh?
+
+0xAE9688ED = ~z~Room's ready whenever you need.
+
+0xAEA329F8 = ~z~Leave me alone, please, just leave me alone.
+
+0xAFD67630 = ~z~Why won't you just leave? Please just leave.
+
+0xB5D7ECAF = ~z~I don't want anything to do with you.
+
+0xB45C1EC5 = ~z~Something you need?
+
+0xB407CBFB = ~z~Welcome back.
+
+0xB2893E66 = ~z~Here, please, take the money, please.
+
+0xB3773F4F = ~z~Come on in. Just arrived?
+
+0xBC492797 = ~z~I don't have money, just this. Please, just take it.
+
+0xC0C89CBF = ~z~You. This wasn't you, right? Right?
+
+0xC8AD6286 = ~z~Got a tub ready whenever you are.
+
+0xC75E5FE8 = ~z~Okay, then. Bath's ready whenever you please.
+
+0xD4637578 = ~z~I don't want any problems.
+
+0xDC265DEC = ~z~Please, what do you want?
+
+0xE05C6C78 = ~z~It's all made up for you.
+
+0xEC2F2989 = ~z~Alright. Head on over when you're ready.
+
+0xED3E8278 = ~z~Really, you just have to stop.
+
+0xF554F2AA = ~z~Hey, hey. Just stop all this.
+
+0xFDA5A237 = ~z~I take it this won't stop, huh?
+

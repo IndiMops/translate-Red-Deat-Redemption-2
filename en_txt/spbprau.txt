@@ -1,0 +1,284 @@
+SPBPR_IG1_EA_1 = ~z~Join me in paradise. It's not too late.
+
+SPBPR_IG1_EA_2 = ~z~I don't mind how long it takes.
+
+SPBPR_IG1_EB_1 = ~z~I'm not going anywhere.
+
+SPBPR_IG1_EB_2 = ~z~Apart from paradise. With you.
+
+SPBPR_IG1_EB_3 = ~z~~sl:0.0:1.4~For eternity.~sl:3.0~You and me.
+
+SPBPR_IG1_EB_4 = ~z~We can be together forever. Just think how wonderful that will be. You and me... for eternity.
+
+SPBPR_IG1_EB_5 = ~z~That's the promise I'm making to you... and I won't break it. I won't.
+
+SPBPR_IG1_EB_6 = ~z~No way.
+
+SPBPR_IG1_EC_1 = ~z~Oh, this isn't very good. I... don't seem to be very good at this at all... it's all rather sad.
+
+SPBPR_IG1_ED_1 = ~z~I will stand here for the rest of time if that is what it takes.
+
+SPBPR_IG1_ED_2 = ~z~Life is great... and I'm sharing my great passion... and nobody wants to listen?
+
+SPBPR_IG1_ED_3 = ~z~Can you imagine how hard this has been? Being stuck up here and nobody wants to listen?
+
+SPBPR_IG1_ED_4 = ~z~It's horrible!
+
+SPBPR_IG1_ED_5 = ~z~I know I'm pretty boring but I also think I might be the messiah.
+
+SPBPR_IG1_ED_6 = ~z~Can you imagine how hard this has been? Being a boring messiah?
+
+SPBPR_IG1_ED_7 = ~z~Even my wife can't stand me.
+
+SPBPR_IG1_ED_8 = ~z~She's a hard woman. A cold woman.
+
+SPBPR_IG1_ED_9 = ~z~I beg you do not marry a cold woman.
+
+SPBPR_IG1_ED_10 = ~z~I'm really losing the will to live here.
+
+SPBPR_IG1_MAL_A_1 = ~z~Many are called, but few are chosen, blessed are the goats,
+
+SPBPR_IG1_MAL_A_2 = ~z~for they shall be the meek of human kindness... I think...
+
+SPBPR_IG1_MAL_B_1 = ~z~He comes to pass through the eye of a camel, and no mistake.
+
+SPBPR_IG1_MAL_C_1 = ~z~Listen, I know it can be confusing, but that's because you have a log in your eye.
+
+SPBPR_IG1_MAL_C_2 = ~z~I know I have one in mine.
+
+SPBPR_IG1_MAL_D_1 = ~z~Blessed are the peacemakers, for they shall make lots of... peace...
+
+SPBPR_IG1_MAL_E_1 = ~z~So... the thing is, you can be saved!
+
+SPBPR_IG1_MAL_E_2 = ~z~If you want... by, uh... hmm... what... what was it again...
+
+SPBPR_IG1_MAL_E_3 = ~z~Yeah-yes, that's it. By saving yourself!
+
+SPBPR_IG1_MAL_E_4 = ~z~You can be saved by saving yourself.
+
+SPBPR_IG1_MAL_F_1 = ~z~In the land of the blind, the one-eyed king is in charge. I want you to remember that.
+
+SPBPR_IG1_MAL_G_1 = ~z~Here's a philosophical point, and it's quite an important one.
+
+SPBPR_IG1_MAL_G_2 = ~z~~sl:0.0:5.6~Blessed are the widowmakers, for they shall make widows...~sl:0.4~and speak in the tongue of angels.
+
+SPBPR_IG1_MAL_G_3 = ~z~I think...
+
+SPBPR_IG1_MAL_H_1 = ~z~Life is but a blink and eternity isn't a blink. It's a lot of blinks.
+
+SPBPR_IG1_MAL_H_2 = ~z~That's why my father called it blinking eternity,
+
+SPBPR_IG1_MAL_H_3 = ~z~and he converted many people so desperate for eternity,
+
+SPBPR_IG1_MAL_H_4 = ~z~that they killed themselves...
+
+SPBPR_IG1_SA_1 = ~z~I want to talk to you today about the great miracle of holy passion.
+
+SPBPR_IG1_SA_2 = ~z~Yes, passion.
+
+SPBPR_IG1_SA_3 = ~z~Passion is what drives us all. It is what drives me.
+
+SPBPR_IG1_SA_4 = ~z~It drives me to serve you. To bring you the great news.
+
+SPBPR_IG1_SA_5 = ~z~The great news that you are saved today
+
+SPBPR_IG1_SA_6 = ~z~if only you will follow me and do as I say so we can spend eternity together.
+
+SPBPR_IG1_SB_1 = ~z~Rejoice!
+
+SPBPR_IG1_SB_2 = ~z~For you are saved today. Together we shall light up paradise with a holy light.
+
+SPBPR_IG1_SB_3 = ~z~Yes, a great light that shines from within, about the great glories of life.
+
+SPBPR_IG1_SB_4 = ~z~Yes, glories that I embody through my relentless passion.
+
+SPBPR_IG1_SC_1 = ~z~I asked for a mission and this is my mission.
+
+SPBPR_IG1_SC_2 = ~z~To spread this message with as much joy and passion as I can muster.
+
+SPBPR_IG1_SD_1 = ~z~I beseech you to follow me to glory. Life is a beautiful triumph and we can triumph together.
+
+SPBPR_IG1_SE_1 = ~z~Stop and experience a great lightning of the heart with me.
+
+SPBPR_IG1_SE_2 = ~z~Please?
+
+SPBPR_IG1_SE_3 = ~z~Somebody? Somebody stop.
+
+SPBPR_IG1_SF_1 = ~z~I come to bring you great joy. A great joy that has enlivened my heart and filled me with passion.
+
+SPBPR_IG1_SF_2 = ~z~I can give you some of this unceasing joy, if only you would let me.
+
+SPBPR_IG1_SF_3 = ~z~Please, stop and hear my message of passion and joy.
+
+SPBPR_IG1_SG_1 = ~z~Life is great passion and fun.
+
+SPBPR_IG1_SG_2 = ~z~~sl:0.0:0.7~Yes.~sl:2.4~Life can be fun.
+
+SPBPR_IG1_SG_3 = ~z~Real enjoyment and happiness are possible if only you will open your heart to my message.
+
+SPBPR_IG1_SG_4 = ~z~Be saved in paradise with me.
+
+SPBPR_IG1_SH_1 = ~z~Rejoice one, rejoice all, for we are saved.
+
+SPBPR_IG1_SH_2 = ~z~Or I am saved and you will be too, if only you dedicate your life to service like me.
+
+SPBPR_IG1_SH_3 = ~z~Join me in paradise. Right here, right now. This can be paradise. In fact it is.
+
+SPBPR_IG1_SI_1 = ~z~I am burning with passion. With a great and holy passion.
+
+SPBPR_IG1_SI_2 = ~z~That shall light up the world and make it great once more.
+
+SPBPR_IG1_SI_3 = ~z~Life is glorious, behold and see.
+
+SPBPR_IG1_SJ_1 = ~z~Rejoice and follow me to find great salvation.
+
+SPBPR_IG1_SJ_2 = ~z~Somebody... somebody listen to me.
+
+SPBPR_IG1_SJ_3 = ~z~Please?
+
+SPBPR_IG1_SJ_4 = ~z~Somebody!
+
+SPBPR_IG1_SJ_5 = ~z~Please?
+
+SPBPR_IG1_SK_1 = ~z~Do none of you want to be saved? What is wrong with you?
+
+SPBPR_IG1_SL_1 = ~z~Come and join me in relentless ecstatic rejoicing, about the great news.
+
+SPBPR_IG1_SL_2 = ~z~And the great news is, you have been reserved a place next to me. In paradise.
+
+SPBPR_IG1_SL_3 = ~z~We can be together for eternity.
+
+SPBPR_IG1_SL_4 = ~z~Think of the relentless joy as we experience eternity.
+
+SPBPR_IG1_SM_1 = ~z~You too can be saved by following me.
+
+SPBPR_IG1_SM_2 = ~z~Give up all your knowledge, give up your dreams and follow me to paradise.
+
+SPBPR_IG1_SM_3 = ~z~A land for the righteous and eternally joyous.
+
+SPBPR_IG1_SN_1 = ~z~I am exploding with joy! And you can too. Literally explode.
+
+SPBPR_IG1_SN_2 = ~z~Because with everything I know, I am literally the happiest man alive.
+
+SPBPR_IG1_SO_1 = ~z~It's time to embrace joy with me, Reverend Peter Fotheringham.
+
+SPBPR_IG1_SO_2 = ~z~As I will lead you to paradise where we can spend eternity together.
+
+SPBPR_IG1_SP_1 = ~z~I've got a great message for you all and that is a message that I will bring with great passion and fury.
+
+SPBPR_IG1_SP_2 = ~z~And that message is this; you too can be as inspired to greatness as me.
+
+SPBPR_IG1_SP_3 = ~z~You too can live a life like me. A life of such excitement and passion and joy, you can have no idea.
+
+SPBPR_IG1_SP_4 = ~z~You are all in prison. But I am free.
+
+SPBPR_IG1_SP_5 = ~z~Free from worry and doubt and ideas. And here I am spreading this great passion.
+
+SPBPR_IG1_SQ_1 = ~z~Be saved. Be saved by me.
+
+SPBPR_IG1_SQ_2 = ~z~You are saved. Join me, join me in paradise.
+
+SPBPR_IG1_SQ_3 = ~z~This is paradise, join me.
+
+SPBPR_IG1_SQ_4 = ~z~Please... join me.
+
+SPBPR_IG1_SR_1 = ~z~Does no one want me to save them? No one at all? Come on...
+
+SPBPR_IG1_SS_1 = ~z~Join me in unquenchable ectasy. Join me in paradise.
+
+SPBPR_IG1_SS_2 = ~z~Right now.
+
+SPBPR_IG1_SS_3 = ~z~This is the greatest moment of my life and you are all in hell, only you can't see it.
+
+SPBPR_IG1_SS_4 = ~z~It's your loss... you could join me in paradise or live here suffering.
+
+SPBPR_IG1_SS_5 = ~z~It's really up to you but I will be there and when they shut the gates, I'll laugh at you. A lot.
+
+SPBPR_IG1_SS_6 = ~z~And you'll be very sorry then but it will be too late and that's really the point, isn't it?
+
+SPBPR_IG1_SS_7 = ~z~It's me or damnation. Take your pick.
+
+SPBPR_IG2_P1A1_1 = ~z~Hello there.
+
+SPBPR_IG2_P1A1_2 = ~z~Hi.
+
+SPBPR_IG2_P1A1_3 = ~z~Many are called but few are chosen...
+
+SPBPR_IG2_P1A1_4 = ~z~blessed are the goats for they shall be the meek of human kindness... I think...
+
+SPBPR_IG2_P1A1_5 = ~z~If you say so.
+
+SPBPR_IG2_P1A1_6 = ~z~Oh I do... I really do.
+
+SPBPR_IG2_P1_1 = ~z~Hello again.
+
+SPBPR_IG2_P1_2 = ~z~Hi.
+
+SPBPR_IG2_P1_3 = ~z~Ready for salvation?
+
+SPBPR_IG2_P1_4 = ~z~Remember... its follow me and together we will find paradise... and eternity.
+
+SPBPR_IG2_P1_5 = ~z~I think maybe I'm looking for a different salvation than that.
+
+SPBPR_IG2_P1_6 = ~z~Well beggars can't be choosers.
+
+SPBPR_IG2_P1_7 = ~z~No... but... I'll try my luck elsewhere, if you know what I mean... good luck.
+
+SPBPR_IG3_NO_A_1 = ~z~Not really... I'm not really the type, I fear.
+
+SPBPR_IG3_NO_A_2 = ~z~No one does... no one ever does... I lay out eternity and they run like the wind.
+
+SPBPR_IG3_NO_A_3 = ~z~Sorry about that.
+
+SPBPR_IG3_NO_A_4 = ~z~My wife makes me do this you know... she's not a nice woman.
+
+SPBPR_IG3_NO_A_5 = ~z~Not nice at all. Good luck now.
+
+SPBPR_IG3_QUES_1 = ~z~Hello sir, do you want to be saved?
+
+SPBPR_IG3_YESA2_1 = ~z~Yes, desperately.
+
+SPBPR_IG3_YESA2_2 = ~z~Well, that's wonderful news.
+
+SPBPR_IG3_YESA2_3 = ~z~You are... that's really all there is to it...
+
+SPBPR_IG3_YESA2_4 = ~z~Just do more good things and less bad ones... and we can be together for all of eternity...
+
+SPBPR_IG3_YESA2_5 = ~z~You and me?
+
+SPBPR_IG3_YESA2_6 = ~z~Yes.
+
+SPBPR_IG3_YESA2_7 = ~z~Forever? Great...
+
+SPBPR_IG3_YESA2_8 = ~z~
+
+SPBPR_IG3_YESJ2_1 = ~z~Yes, desperately.
+
+SPBPR_IG3_YESJ2_2 = ~z~Well, that's wonderful news.
+
+SPBPR_IG3_YESJ2_3 = ~z~You are... that's really all there is to it...
+
+SPBPR_IG3_YESJ2_4 = ~z~Just do more good things and less bad ones... and we can be together for all of eternity...
+
+SPBPR_IG3_YESJ2_5 = ~z~You and me?
+
+SPBPR_IG3_YESJ2_6 = ~z~Yes.
+
+SPBPR_IG3_YESJ2_7 = ~z~For ever? Great...
+
+SPBPR_IG3_YESJ2_8 = ~z~
+
+SPBPR_IG3_YES_A_1 = ~z~Yes, desperately.
+
+SPBPR_IG3_YES_A_2 = ~z~Well, that's wonderful news.
+
+SPBPR_IG3_YES_A_3 = ~z~You are... that's really all there is to it...
+
+SPBPR_IG3_YES_A_4 = ~z~Just do more good things and less bad ones... and we can be together for all of eternity...
+
+SPBPR_IG3_YES_A_5 = ~z~You and me?
+
+SPBPR_IG3_YES_A_6 = ~z~Yes.
+
+SPBPR_IG3_YES_A_7 = ~z~Forever? Great...
+

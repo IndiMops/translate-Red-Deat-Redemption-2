@@ -1,0 +1,48 @@
+CBL13_ACT_1 = ~z~Now, you boys act right and learn to do things proper...
+
+CBL13_ACT_2 = ~z~and one day all this could be yours.
+
+CBL13_ACT_3 = ~z~
+
+CBL13_ACT_4 = ~z~You mean, I could be the person on the wanted posters?
+
+CBL13_ACT_5 = ~z~There's a dream for you, boy.
+
+CBL13_ACT_6 = ~z~You'd be famous.
+
+CBL13_ACT_7 = ~z~~sl:0.0:3.2~You mean, folks might wanna lynch me because of who I am,~sl:0.2~n-not just because I'm an uppity darkie?
+
+CBL13_ACT_8 = ~z~~sl:0.0:1.8:1~Sheer paradise for you, kid.
+
+CBL13_ACT_9 = ~z~~sl:0.8:0.0~I can hardly wait... what a... what a joy that'll be.
+
+CBL13_ACT_10 = ~z~~sl:0.0:1.9:1~What a proud black boy I'll be.
+
+CBL13_ACT_11 = ~z~
+
+CBL13_ACT_12 = ~z~You two laughing at me?
+
+CBL13_ACT_13 = ~z~Us?
+
+CBL13_ACT_14 = ~z~N-never.
+
+CBL13_ACT_15 = ~z~Perish the thought.
+
+CBL13_ACT_16 = ~z~W-what about you, Bill? You ever wanna run your own bunch?
+
+CBL13_ACT_17 = ~z~One day.
+
+CBL13_ACT_18 = ~z~One day, folk will take orders from me...
+
+CBL13_ACT_19 = ~z~and trust me, it won't be no laughing matter.
+
+CBL13_ACT_20 = ~z~No, no, no. Definitely not.
+
+CBL13_ACT_21 = ~z~~sl:0.0:2.2~Let me tell you, if you were my boss...~sl:0.4~I'd never laugh again.
+
+CBL13_ACT_22 = ~z~~sl:0.0:1.2~Not a word of a lie.~sl:0.9~Never again.
+
+CBL13_ACT_23 = ~z~I-it wouldn't be a laughing matter.
+
+CBL13_ACT_24 = ~z~Excuse me, Bill.
+

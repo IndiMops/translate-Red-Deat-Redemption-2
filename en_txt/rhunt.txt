@@ -1,0 +1,1052 @@
+0x07A692E6 = Grooming and caring for your horse increases your bonding level. Your horse's attributes improve as your bonding level increases.
+
+0x3FD63679 = Skin the rabbit
+
+0x4E65E828 = Equip the saddle on the new ~o~horse~s~
+
+0x5FA2AD22 = Cook the Game Meat
+
+0x13CB68FF = Legendary Bear
+
+0x823F448D = Craft ~s~bait~o~
+
+0x929C1734 = Mount up and follow ~o~Hosea~s~
+
+0x17397ABB = Wait for ~o~Hosea~s~
+
+0x779636AC = Follow ~o~Hosea~s~
+
+0x27245289 = ~INPUT_CRAFTING_EAT~ Eat the cooked meat
+
+0xAC0A197D = Help
+
+0xAF94D140 = To place Predator Bait, open your Satchel and select Predator Bait from the Kits menu.
+
+0xC2FBA473 = Check the ~o~bait
+
+0xCBFF5853 = Follow ~o~Hosea~s~
+
+0xE33D81CA = Inspect Dung
+
+0xE76EF81E = Tear down your ~o~camp~s~
+
+0xE358DAC0 = Inspect Pawprint
+
+0xF3E7DDD9 = Inspect Fish
+
+HNT1_INS_BAIT = Bait
+
+HNT1_INS_EXC2 = Dung
+
+HNT1_INS_EXC3 = Bear Dung
+
+HNT1_INS_FSH2 = Fish
+
+HNT1_INS_FSH3 = Half-eaten Fish
+
+HNT1_INS_FT2 = Pawprints
+
+HNT1_INS_FT3 = Bear Pawprints
+
+HNT1_UC_LEN = Ask about Micah?
+
+HNT1_UC_SEAN = Ask about Sean?
+
+RH1_ARRIVELAKE_1 = ~z~That's the lake there. Good, we made it. Let's loop around the other side.
+
+RH1_ARTH_MOUNT_1 = ~z~Easy, big feller.
+
+RH1_AVERGE_HRSE_1 = ~z~Not bad, Arthur. You happy?
+
+RH1_AVERGE_HRSE_2 = ~z~I guess we'll see.
+
+RH1_BAIT_DAWDLE_01 = ~z~We should set it by those boulders at the bottom of the hill.
+
+RH1_BAIT_DAWDLE_02 = ~z~Come on, Arthur!
+
+RH1_BAIT_DAWDLE_03 = ~z~Hurry up, will you?
+
+RH1_BAIT_GOWAIT_1 = ~z~Good job. Now let's get ourselves hidden and see how we get on.
+
+RH1_BAIT_ROCKS = Go to the ~o~rocks~s~
+
+RH1_BAIT_TALK_1 = ~z~A thousand pounds, you say?
+
+RH1_BAIT_TALK_2 = ~z~~sl:0.0:3.3~More or less. Big scar down his face.~sl:1.2~Hey, did that bait look okay to you?
+
+RH1_BAIT_TALK_3 = ~z~I think so... you're the expert.
+
+RH1_BAIT_TALK_4 = ~z~Ready with your gun there?
+
+RH1_BAIT_TALK_5 = ~z~I'm good. You okay? You seem nervous.
+
+RH1_BAIT_TALK_6 = ~z~~sl:0.0:0.9~So do you.~sl:0.7~I'm fine.
+
+RH1_BAIT_WAIT_1 = ~z~Now we wait.
+
+RH1_BEAR_NOTRCK_01 = ~z~Let's keep on this trail while it's still fresh.
+
+RH1_BEAR_NOTRCK_02 = ~z~Are you going to help me track this thing or not?
+
+RH1_BEAR_NOTRCK_03 = ~z~Keep your eyes on his trail, so we don't lose it.
+
+RH1_BEAR_POOP_1 = ~z~Bear shit here, watch your step.
+
+RH1_BEAR_POOP_2 = ~z~Looks real fresh. Reckon he's gotta be close.
+
+RH1_BEAR_SHOOT = Shoot the ~e~bear~s~
+
+RH1_BEAR_TRACK = Follow the trail
+
+RH1_BEAR_WAIT = Wait for the bear
+
+RH1_BEAR_WRONG_01 = ~z~Where are you going? It's this way.
+
+RH1_BEAR_WRONG_02 = ~z~Stay on his tracks, Arthur.
+
+RH1_BEAR_WRONG_03 = ~z~Hey, I don't think he went that way.
+
+RH1_BUY_HORSE = Take the horse into the ~o~stable~s~
+
+RH1_CAMPARRIVE_1 = ~z~Let's see if Dutch gives us any crap about disappearing like that.
+
+RH1_CAMPARRIVE_2 = ~z~~sl:0.3:1.0~I don't need another~sl:~“we gotta be out there making money” speech.
+
+RH1_CAMPARRIVE_3 = ~z~~sl:0.0:2.1~We were just out scoping a lead...~sl:0.1~he doesn't need to know it was a big furry one
+
+RH1_CAMP_BAIT_01 = ~z~How are you getting on with that bait?
+
+RH1_CAMP_BAIT_02 = ~z~Just mix it together, it's not hard.
+
+RH1_CAMP_BAIT_03 = ~z~Hurry up so we can get going.
+
+RH1_CAMP_LEAVE_01 = ~z~What's the holdup here?
+
+RH1_CAMP_LEAVE_02 = ~z~Come on, grab your stuff and let's go.
+
+RH1_CAMP_LEAVE_03 = ~z~Pack up, Arthur, and let's get after him.
+
+RH1_CAMP_PACKED_1 = ~z~Okay, let's go.
+
+RH1_CAMP_REST = ~INPUT_CONTEXT_A~ Sleep
+
+RH1_CAMP_REST0 = ~INPUT_CONTEXT_Y~ Choose a time to sleep until
+
+RH1_CAMP_RIDE1SHOUTED_3 = ~z~So, what's this lake we're heading for?
+
+RH1_CAMP_RIDE1SPOKEN_3 = ~z~So... what's this lake we're heading for?
+
+RH1_CAMP_RIDE1_1 = ~z~Alright, let's get going. ~rp~We got quite a ride ahead of us.
+
+RH1_CAMP_RIDE1_2 = ~z~Lead the way.
+
+RH1_CAMP_RIDE1_4 = ~z~It's called O'Creagh's Run,~rp~ up in the mountains east of Cumberland Falls.
+
+RH1_CAMP_RIDE1_5 = ~z~I just hope I can remember how to get there.
+
+RH1_CAMP_RIDE1_6 = ~z~Back into the mountains, I sure didn't figure on that.
+
+RH1_CAMP_RIDE1_7 = ~z~But this time we're doing the chasing...
+
+RH1_CAMP_RIDE2SHOUTED_2 = ~z~~sl:0.8~Fine.
+
+RH1_CAMP_RIDE2SHOUTED_5 = ~z~~sl:0.0:4.4~I've spoken to him many times...~rp~ he knows he did wrong...~lr:0.8~he just wants to put it behind him.
+
+RH1_CAMP_RIDE2SHOUTED_7 = ~z~~sl:0.0:4.2~Running off on that kid is one thing, but there's a code,~sl:~and he knows that.
+
+RH1_CAMP_RIDE2SHOUTED_10 = ~z~~sl:0.0:4.2~Nobody else would have been welcomed back that easy~sl:~after that long, and you know it.
+
+RH1_CAMP_RIDE2SHOUTED_12 = ~z~~sl:1.1~I never would.
+
+RH1_CAMP_RIDE2SPOKEN_2 = ~z~Fine.
+
+RH1_CAMP_RIDE2SPOKEN_5 = ~z~~sl:0.0:3.6~I've spoken to him many times...~rp~ he knows he did wrong...~lr:0.7~he just wants to put it behind him.
+
+RH1_CAMP_RIDE2SPOKEN_7 = ~z~~sl:0.0:3.4~Running off on that kid is one thing, but there's a code,~sl:~and he knows that.
+
+RH1_CAMP_RIDE2SPOKEN_10 = ~z~~sl:1.4:3.4~Nobody else would have been welcomed back that easy~sl:~after that long, and you know it.
+
+RH1_CAMP_RIDE2SPOKEN_12 = ~z~~sl:1.2~I never would.
+
+RH1_CAMP_RIDE2_1 = ~z~So how are things with you and John?
+
+RH1_CAMP_RIDE2_3 = ~z~Ain't it about time you let it go now?
+
+RH1_CAMP_RIDE2_4 = ~z~It was a year, Hosea.~rp~ He ditched us for a goddamn year.
+
+RH1_CAMP_RIDE2_6 = ~z~I'm sure he does.
+
+RH1_CAMP_RIDE2_8 = ~z~He ain't Trelawny.~rp~ Dutch and you pretty much raised him.
+
+RH1_CAMP_RIDE2_9 = ~z~I know...~rp~ but it's done, has been for a while now.
+
+RH1_CAMP_RIDE2_11 = ~z~Maybe.~rp~ But please don't you put that to the test.
+
+RH1_CAMP_SETUP = Set up the ~o~camp~s~
+
+RH1_CAMP_WAIT_01 = ~z~Come on, let's unpack and get a fire going.
+
+RH1_CAMP_WAIT_02 = ~z~Are you going to get set up then?
+
+RH1_CAMP_WAIT_03 = ~z~What's taking so long, Arthur?
+
+RH1_CAMP_WANDER_01 = ~z~Hey, where are you wandering off to?
+
+RH1_CAMP_WANDER_02 = ~z~Don't be sloping off, we got work to do.
+
+RH1_CAMP_WANDER_03 = ~z~Where are you going, Arthur?
+
+RH1_CHECK_BAIT_1 = ~z~We only just set it, Hosea.
+
+RH1_CHECK_BAIT_2 = ~z~I know, but we need to do this right.
+
+RH1_CHOICE_BAIT = Use Bait
+
+RH1_CHOICE_CAMP = Go with Hosea
+
+RH1_CHOICE_STAY = Stay
+
+RH1_CHOICE_TRAIL = Split Up
+
+RH1_COOK_EAT_1 = ~z~You want some of this?
+
+RH1_COOK_EAT_2 = ~z~No, I'm fine, I don't like eating this late.
+
+RH1_COOK_EAT_3 = ~z~Okay, after all that...
+
+RH1_DEADRAB_DWD_01 = ~z~Are you going to grab it then?
+
+RH1_DEADRAB_DWD_02 = ~z~I ain't picking it up, it's your kill.
+
+RH1_DEADRAB_DWD_03 = ~z~Well go get it before a fox makes off with it.
+
+RH1_DECENT_HRSE_1 = ~z~Looks like a nice animal you got there. You happy?
+
+RH1_DECENT_HRSE_2 = ~z~Guess we'll see.
+
+RH1_DISMOUNT = Dismount your horse
+
+RH1_EXT_1 = ~z~You're fine, old man.
+
+RH1_EXT_2 = ~z~Of course, I'm fine, it's...
+
+RH1_EXT_3 = ~z~it's nothing...
+
+RH1_EXT_4 = ~z~nothing at all.
+
+RH1_EXT_5 = ~z~Thank you...
+
+RH1_EXT_6 = ~z~I think.
+
+RH1_EXT_7 = ~z~That was fun.
+
+RH1_EXT_8 = ~z~You know what, Arthur Morgan?
+
+RH1_EXT_9 = ~z~I'm a little old and beaten up...
+
+RH1_EXT_10 = ~z~to be after the biggest game.
+
+RH1_EXT_11 = ~z~You can have this.
+
+RH1_EXT_12 = ~z~What is it?
+
+RH1_EXT_13 = ~z~It's a map.
+
+RH1_EXT_14 = ~z~A man in a bar gave it to me...
+
+RH1_EXT_15 = ~z~well I stole it from him...
+
+RH1_EXT_16 = ~z~but that's another story.
+
+RH1_EXT_17 = ~z~He said it-it told him where to find...
+
+RH1_EXT_18 = ~z~some real big animals.
+
+RH1_EXT_19 = ~z~Thank you.
+
+RH1_EXT_20 = ~z~It's a pleasure
+
+RH1_EXT_21 = ~z~You saved my life, Arthur.
+
+RH1_EXT_22 = ~z~I think I'm going back to camp to...
+
+RH1_EXT_23 = ~z~lick my wounds.
+
+RH1_EXT_24 = ~z~You coming, or...
+
+RH1_EXT_25 = ~z~you gonna track that monster?
+
+RH1_EXT_26 = ~z~Well?
+
+RH1_EXT_27 = ~z~You coming or not?
+
+RH1_EXT_28 = ~z~I don't mind either way.
+
+RH1_EXT_29 = ~z~I'm gonna stick around here for a while.
+
+RH1_EXT_30 = ~z~I'll see you back at camp?
+
+RH1_EXT_31 = ~z~I'm coming with you.
+
+RH1_EXT_32 = ~z~Let's get going then.
+
+RH1_EXT_LEADINH_1 = ~z~
+
+RH1_EXT_LEADIN_1 = ~z~You're fine, old man.
+
+RH1_FAIL_1 = ~z~Arthur! What are you doing?
+
+RH1_FL_BAIT = You planted the bait in the wrong location.
+
+RH1_FL_BAITD = You discarded the bait.
+
+RH1_FL_GAME = You discarded the game meat.
+
+RH1_FL_HSE = You failed to enter the stables.
+
+RH1_FL_NBAIT = You failed to plant the bait.
+
+RH1_FL_NSRCH = You failed to search for the trails.
+
+RH1_FL_RBH = You failed to hunt a rabbit.
+
+RH1_FL_SDDL = You saddled the wrong horse.
+
+RH1_FL_STBLE = A stable worker was hurt.
+
+RH1_FL_WAIT = You failed to wait for the bear.
+
+RH1_F_ABH = Hosea was abandoned.
+
+RH1_GOH_SDDL = Stand next to your new ~o~horse
+
+RH1_GOODBYE_1 = ~z~Well, thanks, Arthur. I probably owe you one.
+
+RH1_GOODBYE_2 = ~z~Don't worry about it.
+
+RH1_GOODBYE_3 = ~z~I need to head out to Emerald Ranch soon, look into something.
+
+RH1_GOODBYE_4 = ~z~See you later.
+
+RH1_GROOM_HORSE = Go to your ~o~horse
+
+RH1_HOSEA_BEAR_1 = ~z~Stay back!
+
+RH1_HOSEA_BEAR_2 = ~z~Arthur!
+
+RH1_HOSEA_BEAR_3 = ~z~Get the hell over here now!
+
+RH1_HOSEA_FISH_1 = ~z~Half eaten fish here... must have been left by our friend, I reckon.
+
+RH1_HOSEA_FLW = Follow ~o~Hosea~s~
+
+RH1_HOSEA_GO = Go to ~o~Hosea~s~
+
+RH1_HOSEA_RTRN = Return to ~o~Hosea~s~
+
+RH1_HSHOP_APRCH_1 = ~z~Stables are just up ahead.
+
+RH1_HSHOP_DAWD_01 = ~z~In you go.
+
+RH1_HSHOP_DAWD_02 = ~z~Through the doors there.
+
+RH1_HSHOP_DAWD_03 = ~z~Go get yourself a horse then.
+
+RH1_HSHOP_MOUNT_01 = ~z~Hop on up there and let's go.
+
+RH1_HSHOP_MOUNT_02 = ~z~You won't know till you get in the saddle.
+
+RH1_HSHOP_MOUNT_03 = ~z~Are you going to mount that new horse of yours or not?
+
+RH1_ILO_LENNY_ASHOUTED_5 = ~z~~sl:0.0:2.3~He's effective, in his own way.~sl:0.4~And Lenny's got a good head on his shoulders.
+
+RH1_ILO_LENNY_ASPOKEN_5 = ~z~~sl:0.0:1.7~He's effective, in his own way.~sl:0.6~And Lenny's got a good head on his shoulders.
+
+RH1_ILO_LENNY_A_1 = ~z~Where you think Micah and Lenny got to?
+
+RH1_ILO_LENNY_A_2 = ~z~Susan sent them out scouting, but I figured they'd be back by now.
+
+RH1_ILO_LENNY_A_3 = ~z~I have no idea. I hope they weren't picked up.
+
+RH1_ILO_LENNY_A_4 = ~z~Why she sent Micah, I don't know.
+
+RH1_ILO_LENNY_A_6 = ~z~~sl:0.3~Shouldn't have taken them this long.
+
+RH1_ILO_LENNY_A_7 = ~z~No, but no point thinking the worst.
+
+RH1_ILO_LENNY_BSHOUTED_1 = ~z~~sl:0.0:1.6~Goddamn Micah...~sl:1.2~we send him out scouting and he ends up in a jailhouse.
+
+RH1_ILO_LENNY_BSHOUTED_3 = ~z~~sl:0.0:3.0~First time out of hiding as wanted men...~sl:~and he gets tangled up with the law.
+
+RH1_ILO_LENNY_BSHOUTED_5 = ~z~~sl:1.2:3.6~We run with our code, always have,~sl:0.1~and that don't mean nothing to him.
+
+RH1_ILO_LENNY_BSPOKEN_1 = ~z~~sl:0.0:1.9~Goddamn Micah...~sl:0.9~we send him out scouting and he ends up in a jailhouse.
+
+RH1_ILO_LENNY_BSPOKEN_3 = ~z~~sl:0.0:2.0~First time out of hiding as wanted men...~sl:~and he gets tangled up with the law.
+
+RH1_ILO_LENNY_BSPOKEN_5 = ~z~~sl:0.0:2.8~But we run with our code, always have.~sl:0.3~That don't mean nothing to him.
+
+RH1_ILO_LENNY_B_2 = ~z~Just lucky Lenny was with him.
+
+RH1_ILO_LENNY_B_4 = ~z~To be fair, Arthur, trouble has a habit of finding you too.
+
+RH1_ILO_LENNY_B_6 = ~z~Perhaps, but nothing's how it was right now.
+
+RH1_ILO_SEAN_ASHOUTED_5 = ~z~~sl:0.0:3.7~Pretty bad. Swarming with Pinkertons.~sl:0.6~No way we're getting back in there any time soon.
+
+RH1_ILO_SEAN_ASPOKEN_5 = ~z~~sl:0.0:3.2~Pretty bad. Swarming with Pinkertons.~sl:0.4~No way we're getting back in there any time soon.
+
+RH1_ILO_SEAN_A_1 = ~z~Well at least Sean made it back.
+
+RH1_ILO_SEAN_A_2 = ~z~And how he's enjoyed his hero's return.
+
+RH1_ILO_SEAN_A_3 = ~z~He'll still be celebrating a month from now.
+
+RH1_ILO_SEAN_A_4 = ~z~So how bad was it, Blackwater, I mean?
+
+RH1_ILO_SEAN_A_6 = ~z~Well let's just hope they don't find that money.
+
+RH1_ILO_SEAN_BSHOUTED_2 = ~z~~sl:0.0:4.8~Who knows, I sure hope so, but it's been a while now...~sl:0.8~somebody said he got knocked out in Blackwater?
+
+RH1_ILO_SEAN_BSHOUTED_4 = ~z~~sl:0.0:1.3~Or got away.~sl:0.5~There's one thing Sean Macguire's good at, it's wriggling out of things.
+
+RH1_ILO_SEAN_BSPOKEN_2 = ~z~~sl:0.0:4.1~Who knows, I sure hope so, but it's been a while now...~sl:0.6~somebody said he got knocked out in Blackwater?
+
+RH1_ILO_SEAN_BSPOKEN_4 = ~z~~sl:0.0:1.0~Or got away.~sl:0.8~If there's one thing Sean Macguire's good at, it's wriggling out of things.
+
+RH1_ILO_SEAN_B_1 = ~z~So what do you think about Sean? You reckon he's alright?
+
+RH1_ILO_SEAN_B_3 = ~z~Yeah, I just don't know if he was picked up, or picked off.
+
+RH1_ILO_SEAN_B_5 = ~z~Yeah, guess we don't know nothing till we know.
+
+RH1_ILO_SEAN_CSHOUTED_3 = ~z~~sl:0.0:2.2~So Trelawny says...~sl:0.4~Javier and Charles have gone with him to scope it out.
+
+RH1_ILO_SEAN_CSPOKEN_3 = ~z~~sl:0.0:2.0~So Trelawny says...~sl:0.4~Javier and Charles have gone with him to scope it out.
+
+RH1_ILO_SEAN_C_1 = ~z~I should really be heading back over to Great Plains to see about Sean.
+
+RH1_ILO_SEAN_C_2 = ~z~It's bounty hunters who've got him?
+
+RH1_ILO_SEAN_C_4 = ~z~Pretty dangerous going anywhere near Blackwater.
+
+RH1_ILO_SEAN_C_5 = ~z~Right... but, if he's alive, we gotta try.
+
+RH1_ILO_SEAN_C_6 = ~z~Of course.
+
+RH1_INT_1 = ~z~Hosea.
+
+RH1_INT_2 = ~z~You wanna go hunting?
+
+RH1_INT_3 = ~z~What are you hunting? An elephant?
+
+RH1_INT_4 = ~z~I wish. No, I saw a huge bear.
+
+RH1_INT_5 = ~z~One of the biggest I ever saw.
+
+RH1_INT_6 = ~z~I reckon nearly a thousand pounds.
+
+RH1_INT_7 = ~z~My god.
+
+RH1_INT_8 = ~z~What, you need me to come with you?
+
+RH1_INT_9 = ~z~Of course. Let's go.
+
+RH1_INT_10 = ~z~Well, where are we heading exactly?
+
+RH1_INT_11 = ~z~Up near the Dakota River.
+
+RH1_INT_12 = ~z~Might take a day or two.
+
+RH1_INT_13 = ~z~I could do with a break from this place.
+
+RH1_INT_14 = ~z~Oh, me too. It's been a rough couple of weeks.
+
+RH1_INT_15 = ~z~You need anything?
+
+RH1_INT_16 = ~z~I don't think so, I got all I need.
+
+RH1_INT_17 = ~z~Let's go then.
+
+RH1_INT_18 = ~z~So, you still ain't replaced Boadicea?
+
+RH1_INT_19 = ~z~Nah. I miss her, she was quite a horse.
+
+RH1_INT_20 = ~z~This one's okay but...
+
+RH1_INT_21 = ~z~ain't no Boadicea.
+
+RH1_INT_22 = ~z~I been meaning to offload this big shire horse for a while now.
+
+RH1_INT_23 = ~z~Unruly bastard!
+
+RH1_INT_24 = ~z~Where'd you get him?
+
+RH1_INT_25 = ~z~Some big, loud-mouthed bastard tried to rob me when I was out riding so I...
+
+RH1_INT_26 = ~z~well, you know how it is.
+
+RH1_INT_27 = ~z~I see.
+
+RH1_INT_28 = ~z~Let's take him to Valentine.
+
+RH1_INT_29 = ~z~It's on the way, sort of. There's a decent dealer there.
+
+RH1_INT_30 = ~z~We'll unload him, you can buy yourself a new horse.
+
+RH1_INT_31 = ~z~Put your saddle on him, let's get going.
+
+RH1_INT_LI_1 = ~z~Hosea.
+
+RH1_INT_LI_CALL_1 = ~z~Hey, Arthur!
+
+RH1_INVT_CNTXT1 = Greet
+
+RH1_INVT_CNTXT2 = Hosea
+
+RH1_INVT_CNTXT3 = Go Hunting
+
+RH1_ISITGONE_01 = ~z~Arthur?
+
+RH1_ISITGONE_02 = ~z~Over here, Arthur.
+
+RH1_ISITGONE_03 = ~z~Everything alright?
+
+RH1_ISITGONE_04 = ~z~Is he gone?
+
+RH1_LANDMARK_1 = ~z~~sl:0.0:4.2~Yes... I remember this place... Moonstone Pond.~sl:0.8~We're going the right way.
+
+RH1_LEAVECAMP_1 = ~z~We're heading out. Might be gone a couple of days.
+
+RH1_LETSGO_A_1 = ~z~Alright, let's head into town.
+
+RH1_LETSGO_B_1 = ~z~Alright, let's head into town. No bar fights, please. I heard about that.
+
+RH1_LETSGO_B_2 = ~z~I'll do my best.
+
+RH1_LETSGO_C_1 = ~z~Alright, let's head into town. And maybe stay out of the saloon this time.
+
+RH1_LETSGO_C_2 = ~z~Yeah, that's probably a good idea.
+
+RH1_LSE_TRACK = If you lose sight of the trail, press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye.
+
+RH1_LSE_TRACK_KM = If you lose sight of the trail, press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye.
+
+RH1_MCS1A_1 = ~z~Hey, how can I help you?
+
+RH1_MCS1A_2 = ~z~I'm in the market for a new horse.
+
+RH1_MCS1A_3 = ~z~Something strong and fast.
+
+RH1_MCS1A_4 = ~z~You're in the right place...
+
+RH1_MCS1A_5 = ~z~I've got some beauties in at the moment.
+
+RH1_MCS1A_6 = ~z~Yeah... and what about this one here?
+
+RH1_MCS1A_7 = ~z~You looking to sell?
+
+RH1_MCS1A_8 = ~z~I ain't sure yet.
+
+RH1_MCS1A_9 = ~z~You got papers?
+
+RH1_MCS1A_10 = ~z~No, no papers.
+
+RH1_MCS1A_11 = ~z~Well, of course, that's gonna affect what I can pay but your lucks in.
+
+RH1_MCS1A_12 = ~z~I got a feller who's been looking for a decent workhorse like this for a while.
+
+RH1_MCS1A_13 = ~z~He'll pay a good price.
+
+RH1_MCS1A_14 = ~z~Otherwise, I can always stable him here for you.
+
+RH1_MCS1A_15 = ~z~Here, take a look.
+
+RH1_MCS1A_LI_1 = ~z~You're doing that wrong.
+
+RH1_MCS1B_1 = ~z~Alright, partner...
+
+RH1_MCS1B_2 = ~z~you got yourself a deal...
+
+RH1_MCS1B_3 = ~z~and a fine new horse.
+
+RH1_MCS1B_4 = ~z~I hope so.
+
+RH1_MCS1B_5 = ~z~Well, I don't sell anything other than good animals.
+
+RH1_MCS1B_6 = ~z~You have my word on that.
+
+RH1_MCS1B_7 = ~z~Alright let's see...
+
+RH1_MCS1B_8 = ~z~here are your papers...
+
+RH1_MCS1B_9 = ~z~and on me...
+
+RH1_MCS1B_10 = ~z~a new grooming brush...
+
+RH1_MCS1B_11 = ~z~and some treats.
+
+RH1_MCS1B_12 = ~z~Appreciate it.
+
+RH1_MCS1B_13 = ~z~Alright you...
+
+RH1_MCS1B_14 = ~z~you treat this feller well...
+
+RH1_MCS1B_15 = ~z~I know he's gonna look after you just fine.
+
+RH1_MCS2_1 = ~z~Morning, Arthur.
+
+RH1_MCS2_2 = ~z~You ready?
+
+RH1_MCS2_3 = ~z~Gimme a minute.
+
+RH1_MCS2_4 = ~z~Coffee?
+
+RH1_MCS2_5 = ~z~Sure.
+
+RH1_MCS2_6 = ~z~There you go.
+
+RH1_MCS2_7 = ~z~So...
+
+RH1_MCS2_8 = ~z~what's your plan?
+
+RH1_MCS2_9 = ~z~Well... we'll see if we can track him, but...
+
+RH1_MCS2_10 = ~z~we might need to lay bait to draw him out.
+
+RH1_MCS2_11 = ~z~Bears like fish, obviously...
+
+RH1_MCS2_12 = ~z~but they also have a sweet tooth.
+
+RH1_MCS2_13 = ~z~A lot of fellers bait then shoot from the trees...
+
+RH1_MCS2_14 = ~z~but I prefer to hunt on the ground.
+
+RH1_MCS2_15 = ~z~More dangerous, but...
+
+RH1_MCS2_16 = ~z~we'll have a much better chance of getting a good shot in...
+
+RH1_MCS2_17 = ~z~and if he bolts we can start right off after him.
+
+RH1_MCS2_18 = ~z~Can you mix up this bait for me while I finish packing us up?
+
+RH1_MCS2_19 = ~z~Fish, berries.
+
+RH1_MCS2_20 = ~z~Tie it up in that rag when you're done.
+
+RH1_MCS2_LO_A_1 = ~z~~sl:0.0:2.1:1~I hope you know what you're talking about.
+
+RH1_MCS2_LO_A_2 = ~z~~sl:0.4:2.2~I grew up in the mountains, Arthur...~sl:0.5~I was virtually weaned on bear meat.
+
+RH1_MCS2_LO_B_1 = ~z~
+
+RH1_MCS3_1 = ~z~We lost him?
+
+RH1_MCS3_2 = ~z~For now...
+
+RH1_MCS3_3 = ~z~a little optimism, Arthur.
+
+RH1_MCS3_4 = ~z~Well...
+
+RH1_MCS3_5 = ~z~what do you think?
+
+RH1_MCS3_6 = ~z~I think we split up and each look.
+
+RH1_MCS3_7 = ~z~Either that or...
+
+RH1_MCS3_8 = ~z~we could place bait here.
+
+RH1_MCS3_9 = ~z~That could work...
+
+RH1_MCS3_10 = ~z~which you think?
+
+RH1_MCS3_11 = ~z~Arthur?
+
+RH1_MCS3_12 = ~z~Come on, before we lose him altogether.
+
+RH1_MCS3_13 = ~z~Let's just make a call.
+
+RH1_MCS3_14 = ~z~Let's split up.
+
+RH1_MCS3_15 = ~z~Okay...
+
+RH1_MCS3_16 = ~z~I'll head this way...
+
+RH1_MCS3_17 = ~z~you head down that track.
+
+RH1_MCS3_18 = ~z~Let's bait here.
+
+RH1_MCS3_19 = ~z~Fine by me.
+
+RH1_MCS3_20 = ~z~Let's leave the bag over there.
+
+RH1_MCS4_1 = ~z~Shoot that thing, please!
+
+RH1_MCS4_2 = ~z~Look out!
+
+RH1_MOUNT_DAWD_01 = ~z~Are you going to mount up?
+
+RH1_MOUNT_DAWD_02 = ~z~Don't be scared of him.
+
+RH1_MOUNT_DAWD_03 = ~z~~sl:0.0:1.7~Come on, he's not that bad...~sl:0.9~all the time.
+
+RH1_MOUNT_UP = Mount your ~o~horse~s~
+
+RH1_NEW_HRSE = Horse
+
+RH1_NRMV_SDDL = Hold ~INPUT_SADDLE_TRANSFER|PromptId=SaddleTransferPrompt,Gutter~ to remove the saddle
+
+RH1_NTRAN_SDDL = Hold ~INPUT_SADDLE_TRANSFER|PromptId=SaddleTransferPrompt,Gutter~ to equip the saddle
+
+RH1_O_MNT = Mount your ~o~horse~s~
+
+RH1_PLACE_BAIT = Plant the bait near the ~o~large stones~s~
+
+RH1_POOR_HRSE_1 = ~z~Interesting choice. How much did you pay for that thing?
+
+RH1_POOR_HRSE_2 = ~z~Not that much.
+
+RH1_POOR_HRSE_3 = ~z~~sl:0.0:1.3~Okay, well...~sl:0.7~with some good care, you should be able to make something of it.
+
+RH1_PRE_ARD = Your Iron Gray Roan Ardennes horse will be available to collect in the stables.
+
+RH1_PRE_BOTH = Your bonus horses will be available to collect in the stables.
+
+RH1_PRE_DAP = Your Reverse Dappled Black Thoroughbred horse will be available to collect in the stables.
+
+RH1_RABB_GOTO = Hunt a ~o~rabbit
+
+RH1_RABB_KILL = Hunt a rabbit~s~
+
+RH1_RABB_PICK = Pick up the ~o~rabbit
+
+RH1_RABB_RETN = Return to the ~o~rabbit hunting area
+
+RH1_RABB_STOW = Stow the rabbit on your ~o~horse
+
+RH1_RAB_CTH_1 = ~z~Look there, rabbits. Maybe we should catch one to cook.
+
+RH1_RAB_CTH_2 = ~z~Sure, I'll try and shoot one.
+
+RH1_RAB_DAWD_01 = ~z~Go on, then.
+
+RH1_RAB_DAWD_02 = ~z~Quick, before they hightail it.
+
+RH1_RAB_DAWD_03 = ~z~They ran down the hill, there.
+
+RH1_RAB_HOLDIT_1 = ~z~Hold up here.
+
+RH1_RAB_NO_01 = ~z~No luck? Keep trying.
+
+RH1_RAB_NO_02 = ~z~Don't give up already.
+
+RH1_RAB_NO_03 = ~z~So where's the rabbit?
+
+RH1_RAB_YES_1 = ~z~Good job.
+
+RH1_READSIGN_1 = ~z~Okay, I think we need to head right up here.
+
+RH1_RESCUE = Get back to ~o~Hosea~s~
+
+RH1_RET_TRAIL = Return to the ~o~trail
+
+RH1_RHNT_AKILL_1 = ~z~Got one!
+
+RH1_RHNT_WEAPON_1 = ~z~You don't want to use anything too powerful on a small animal like that.
+
+RH1_RHNT_WEAPON_2 = ~z~~sl:0.0:1.2~You'll just ruin the meat.~sl:0.3~Best thing's a bow or a .22 caliber varmint rifle.
+
+RH1_RHNT_WEAPON_3 = ~z~I have hunted rabbits before, you know.
+
+RH1_RHNT_WEAPON_4 = ~z~Yes, and obliterated them with a shotgun, if I remember right.
+
+RH1_SADDLEBANT_1 = ~z~This is gonna be fun, Arthur.
+
+RH1_SADDLEBANT_2 = ~z~He won't throw me?
+
+RH1_SADDLEBANT_3 = ~z~No, he's an angel... if I'm near him...
+
+RH1_SADDLEBANT_4 = ~z~Nasty little look in his eyes.
+
+RH1_SADDLEBANT_5 = ~z~~sl:0.4~Don't be rude about this magnificent creature.
+
+RH1_SADDLEWHY_1 = ~z~Okay, but I do kind of like this horse.
+
+RH1_SADDLEWHY_2 = ~z~There's nothing wrong with two horses.
+
+RH1_SADDLEWHY_3 = ~z~And the stables always have the best ones.
+
+RH1_SADDLEWHY_4 = ~z~~sl:0.5~I guess you're right.
+
+RH1_SAD_CORRECT_1 = ~z~Okay, see if you can get your leg over that brute.
+
+RH1_SCREAM_1 = ~z~Arthur! Help!
+
+RH1_SDDL_CONT = Hold ~INPUT_CONTEXT_LT~ to focus on your horse
+
+RH1_SEARCH_TRAIL = Search the ~o~hill~s~ for the bear's trail
+
+RH1_SETUP_BAIT_1 = ~z~By those boulders up ahead looks like a good spot for it.
+
+RH1_SPLT_DAWDLE_01 = ~z~I thought we were splitting up?
+
+RH1_SPLT_DAWDLE_02 = ~z~You take the right, Arthur.
+
+RH1_SPLT_DAWDLE_03 = ~z~What are you doing? Go around the other side.
+
+RH1_TRACK_CHAT_1 = ~z~We'll try our luck down by the water, that's where I saw him last.
+
+RH1_TRACK_CHAT_2 = ~z~Okay.
+
+RH1_TRACK_CHAT_3 = ~z~How's that horse treating you?
+
+RH1_TRACK_CHAT_4 = ~z~So far, so good.
+
+RH1_TRACK_CHAT_5 = ~z~You know, I was in this area with Bessie, years ago.
+
+RH1_TRACK_CHAT_6 = ~z~Really? I didn't know that. I imagine you still miss her.
+
+RH1_TRACK_CHAT_7 = ~z~Every day.
+
+RH1_TRACK_CHAT_8 = ~z~Did you two ever think about getting out of the life?
+
+RH1_TRACK_CHAT_9 = ~z~We did briefly, you don't remember? Guess you were still young. Didn't last long.
+
+RH1_TRACK_CHAT_10 = ~z~I drifted back into it. She understood... she knew what I was.
+
+RH1_TRACK_CHAT_11 = ~z~I remember you not being around for a while, but things were looser back then.
+
+RH1_TRACK_CHAT_12 = ~z~Truth is, there's never really any getting out, and staying in...
+
+RH1_TRACK_CHAT_13 = ~z~it's hard, you know that, but Bessie and I made it work.
+
+RH1_TRACK_CHAT_14 = ~z~Why, you thinking about getting out?
+
+RH1_TRACK_CHAT_15 = ~z~Me? No, of course not.
+
+RH1_TRACK_CHAT_16 = ~z~Listen, if Dutch's grand plans work, and we can make enough money to go some place new,
+
+RH1_TRACK_CHAT_17 = ~z~really new, maybe we can all have a new start.
+
+RH1_TRACK_CHAT_18 = ~z~Anyway, for now, let's try and chase ourselves a bear, shall we?
+
+RH1_TRAIL_END_1 = ~z~Damn it, looks like the trail ends here.
+
+RH1_TRK_CL1_1 = ~z~There's some paw marks here, Hosea, they sure look big enough.
+
+RH1_TRK_FCLUE_01 = ~z~You see anything?
+
+RH1_TRK_FCLUE_02 = ~z~Keep looking.
+
+RH1_TRK_FCLUE_03 = ~z~Must be something.
+
+RH1_TRK_FND1_1 = ~z~Look for tracks, dung, bones... any sign of him.
+
+RH1_TRK_FND2_1 = ~z~Good, let's hope it's him. Can you tell which way he went?
+
+RH1_TRK_FND3_1 = ~z~This way.
+
+RH1_TRK_FND4_1 = ~z~Let's look by the water here, see if he's been fishing again recently.
+
+RH1_TRK_FOL1_1 = ~z~The tracks go into those trees.
+
+RH1_TRK_FOL2_1 = ~z~Come on, let's see if there's anything else.
+
+RH1_TRK_FOL3_1 = ~z~Let's keep going.
+
+RH1_TRK_SP1_1 = ~z~Wait a minute... there's something on the ground here.
+
+RH1_TRK_SP2_1 = ~z~Something else on the ground just here.
+
+RH1_TRK_WHOS1_1 = ~z~What is it?
+
+RH1_TRK_WHOS2_1 = ~z~Take a look then.
+
+RH1_TRNS_SDDL_01 = ~z~Put your saddle on him and let's go.
+
+RH1_TRNS_SDDL_02 = ~z~Come on, I promise you don't want to ride that one bareback.
+
+RH1_TRNS_SDDL_03 = ~z~What's taking so long with this saddle?
+
+RH1_TUTN_CAMP1 = Hold ~INPUT_OPEN_WHEEL_MENU|PromptId=Hnt1WeaponWheel~ ~s~to show the Weapon Wheel
+
+RH1_TUTN_CAMP2 = ~INPUT_SELECT_NEXT_WHEEL~ ~s~ Switch to the Item Wheel
+
+RH1_TUTN_CAMP3 = Use ~INPUTGROUP_RADIAL_MENU_NAV~ ~s~to select 'Camp' from the Crafting slot and release ~INPUT_OPEN_WHEEL_MENU~ ~s~to use
+
+RH1_TUT_BAIT1 = Hold ~INPUT_OPEN_SATCHEL_MENU~ to open the Satchel
+
+RH1_TUT_BAIT2 = Select the Potent Predator Bait and press ~INPUT_FRONTEND_ACCEPT~ to place it
+
+RH1_TUT_BOND = You will bond with a horse the first time you saddle it.
+
+RH1_TUT_CALM = If your horse is agitated you can press ~INPUT_INTERACT_ANIMAL~ to calm it.
+
+RH1_TUT_CRAFT = You can use the camp fire to craft a wide range of tonics, horse care items and ammunition.
+
+RH1_TUT_EAGLEYE = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye to find the trail
+
+RH1_TUT_EAGLEYE2 = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and find the next clue
+
+RH1_TUT_EAGLEYE2_KM = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and find the next clue
+
+RH1_TUT_EAGLEYE3 = Press ~INPUT_SPECIAL_ABILITY_ACTION~ to focus on the track
+
+RH1_TUT_EAGLEYE4 = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and find the clue
+
+RH1_TUT_EAGLEYE4_KM = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and find the clue
+
+RH1_TUT_EAGLEYE5 = Approach the trail
+
+RH1_TUT_EAGLEYE_KM = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye to find the trail
+
+RH1_TUT_FEED = Horse Cores drain over time. Feed your horse to replenish its Cores. Hold ~INPUT_OPEN_WHEEL_MENU~ and press ~INPUT_SELECT_NEXT_WHEEL~ to select the Horse Wheel while next to, or mounted on, your horse.
+
+RH1_TUT_LGD2 = Clues left by the Legendary Animal appear as ~BLIP_AMBIENT_SECRET~. While using Eagle Eye, approach these clues and inspect them to reveal the animal trail.
+
+RH1_TUT_LGD3 = Hold ~INPUT_CONTEXT_Y~ to investigate a nearby clue.
+
+RH1_TUT_LGD4 = Clues are highlighted by an orange trail while in Eagle Eye.
+
+RH1_TUT_LGDAN = You have discovered a Legendary Animal. Return to the area alone to track it.
+
+RH1_TUT_LGDZN = You have entered Legendary Animal Territory. Follow clues to track the animal. You can find Legendary Animals throughout the world.
+
+RH1_TUT_SADDLE = You can remove the saddle from your horse and transfer it to another to make it your horse.
+
+RH1_UNRLYHORSE1_1 = ~z~You alright with that horse?
+
+RH1_UNRLYHORSE1_2 = ~z~I think so.
+
+RH1_UNRLYHORSE2_1 = ~z~Don't let that big bastard get the better of you there, Arthur.
+
+RH1_UNRLYHORSE2_2 = ~z~He's alright.
+
+RH1_VRIDEBANT1SHOUTED_5 = ~z~Oh yeah,~rp~ I remember now, just about. ~rp~That turned into a long day.
+
+RH1_VRIDEBANT1SHOUTED_6 = ~z~~sl:0.0:2.2~Yes, remember?~lr:0.5:3.7:1~Mac went crazy, threatened to kill the whole town.
+
+RH1_VRIDEBANT1SHOUTED_8 = ~z~~sl:0.0:1.8~came back in the next day and...~lr:0.0:2.5:1~he woke up, started right back drinking again.
+
+RH1_VRIDEBANT1SHOUTED_9 = ~z~~sl:4.5:1.2:1~I miss those boys.
+
+RH1_VRIDEBANT1SHOUTED_11 = ~z~Must be pretty hard on Lenny, you could tell he was sweet on her.
+
+RH1_VRIDEBANT1SHOUTED_12 = ~z~~sl:0.0:4.0~Well, ~rp~Lenny and Jenny could never have worked.~lr:0.5:3.9:1~That's like Arthur and Martha. Or Bill and Phil.
+
+RH1_VRIDEBANT1SHOUTED_13 = ~z~~sl:2.0~Maybe you're right...
+
+RH1_VRIDEBANT1SHOUTED_15 = ~z~~sl:0.0:2.7~Nonsense. ~rp~We'll be alright.~sl:0.8~Just need some money to get back on our feet.
+
+RH1_VRIDEBANT1SHOUTED_17 = ~z~~sl:0.0:5.6~Not yet. ~rp~They're still very hot. It'll need to be done right.~lr:0.6~I have a couple of leads I'm looking into.
+
+RH1_VRIDEBANT1SPOKEN_5 = ~z~Oh ~rp~I remember now, just about. ~rp~That turned into a long day.
+
+RH1_VRIDEBANT1SPOKEN_6 = ~z~~sl:0.0:2.0~Yes, remember?~lr:0.7:3.3:1~Mac went crazy, threatened to kill the whole town.
+
+RH1_VRIDEBANT1SPOKEN_8 = ~z~~sl:0.0:1.3~came back in the next day and...~lr:0.0:2.5:1~he woke up, started right back drinking again.
+
+RH1_VRIDEBANT1SPOKEN_9 = ~z~~sl:3.4~I miss those boys.
+
+RH1_VRIDEBANT1SPOKEN_11 = ~z~It must be pretty hard on Lenny, you could tell he was sweet on her.
+
+RH1_VRIDEBANT1SPOKEN_12 = ~z~~sl:0.0:3.5~Well, ~rp~Lenny and Jenny could never have worked.~lr:0.3:4.5:1~That's like Arthur and Martha. Or Bill and Phil.
+
+RH1_VRIDEBANT1SPOKEN_13 = ~z~~sl:1.9~Maybe you're right...
+
+RH1_VRIDEBANT1SPOKEN_15 = ~z~~sl:0.0:2.7~Nonsense. ~rp~We'll be alright.~sl:0.3~Just need some money to get back on our feet.
+
+RH1_VRIDEBANT1SPOKEN_17 = ~z~~sl:0.0:5.0~Not yet. ~rp~They're still very hot. Need to be done right.~lr:0.8~I have a couple of leads I'm looking into.
+
+RH1_VRIDEBANT1_1 = ~z~They got a good range of horse tack at the Valentine stables.
+
+RH1_VRIDEBANT1_2 = ~z~Some beautiful saddles... I used to have a real nice one.
+
+RH1_VRIDEBANT1_3 = ~z~Yeah,~rp~ what happened to that?
+
+RH1_VRIDEBANT1_4 = ~z~Got stolen outside that saloon in Deer Creek.
+
+RH1_VRIDEBANT1_7 = ~z~And ~rp~Davey was passed out so cold we left him there,
+
+RH1_VRIDEBANT1_10 = ~z~Jenny too. She had some spark, that girl.
+
+RH1_VRIDEBANT1_14 = ~z~Does feel a bit like our luck died with them, too.
+
+RH1_VRIDEBANT1_16 = ~z~I hope so. ~rp~You find a way to offload those Cornwall bonds yet?
+
+RHUNT_HSLEEP_1 = ~z~Sleep well, Arthur.
+
+RHUNT_IG0_GEN_1 = ~z~~sl:0.0:1.7~I'm going off to the general store...~sl:0.6:2.4:1~get a few things to lure that bear out with...
+
+RHUNT_IG0_GEN_2 = ~z~~sl:0.0:1.2:1~Meet you back here in a bit.
+
+RHUNT_IG0_SELL_1 = ~z~~sl:0.0:3.2~Alright, go sell that big brute and...~sl:0.9~buy yourself a horse.
+
+RHUNT_IG0_SELL_2 = ~z~Okay.
+
+RHUNT_IG1_ENT_1 = ~z~Alright... it's getting late.
+
+RHUNT_IG1_ENT_2 = ~z~Reckon we should camp here...
+
+RHUNT_IG1_ENT_3 = ~z~~sl:0.2:1.0:1~Sure.
+
+RHUNT_IG2_FAM_1 = ~z~~sl:0.8:1.7:1~I'm famished.
+
+RHUNT_IG2_FAM_2 = ~z~Cook that rabbit then. They're... delicious on an open fire like this.
+
+RHUNT_IG2_FAM_3 = ~z~Fine by me.
+
+RHUNT_IG2_FAM_4 = ~z~
+
+RHUNT_IG2_WAIT1_1 = ~z~Go on then, I thought you said you were famished?
+
+RHUNT_IG2_WAIT2_1 = ~z~Arthur? You falling asleep on me there?
+
+RHUNT_IG2_WAIT3_1 = ~z~Come on, let's eat something, then get some rest.
+
+RHUNT_IG3_1 = ~z~~sl:2.9:2.5~Alright... well...~sl:1.8:1.5:1~we better get some rest.
+
+RHUNT_IG3_2 = ~z~~sl:0.0:3.4:1~I wanna be up at first light to find this monster.
+
+RHUNT_IG4_1 = ~z~Okay, I think I got this done.
+
+RHUNT_IG4_2 = ~z~Good... Pack up and we'll get going.
+
+RHUNT_IG5_1 = ~z~Alright... let's see if we can find this feller.
+
+RHUNT_IG5_2 = ~z~Down there, start scanning, keep nice and quiet
+
+RHUNT_IG5_3 = ~z~What am I looking for?
+
+RHUNT_IG5_4 = ~z~Uh... a large bear...
+
+RHUNT_IG5_5 = ~z~Sarcasm should be beneath a man such as you.
+
+RHUNT_IG5_6 = ~z~Oh... my God... there, down by the water's edge...
+
+RHUNT_IG5_7 = ~z~Shit. He's massive!
+
+RHUNT_IG5_8 = ~z~Yes, isn't he magnificent? Let's head down there real quiet... see if we can't get close to him.
+
+RHUNT_IG5_9 = ~z~Are you sure this is a good idea?
+
+RHUNT_IG5_10 = ~z~No... but that's the fun, come on!
+
+RHUNT_IG10_ENTA_1 = ~z~Give me a hand here. Got your knife?
+
+RHUNT_IG10_ENT_1 = ~z~Let's just take a look at that bait...
+
+RHUNT_IG10_ENT_2 = ~z~Sure...
+
+RHUNT_IG10_ENT_3 = ~z~Come on.
+
+RHUNT_IG10_RCT_1 = ~z~Shit...
+
+RHUNT_IG10_RCT_2 = ~z~Easy...
+
+RHUNT_IG10_RCT_3 = ~z~No, it's too close...
+
+RHUNT_PSLEEP_1 = ~z~He better be worth all this drama.
+
+RHUNT_SILVER_1 = ~z~Well then, you get us set up.
+

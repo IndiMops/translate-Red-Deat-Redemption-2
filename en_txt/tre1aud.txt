@@ -1,0 +1,712 @@
+TRE1_ALL_DEAD_1 = ~z~Good, he should be the last of them.
+
+TRE1_APPRCHCH_1 = ~z~Charles, I need you for some business in town. Come on.
+
+TRE1_APPRCHCH_2 = ~z~Okay.
+
+TRE1_ARTHUR_FAR_01 = ~z~I think there's one over here!
+
+TRE1_ARTHUR_FAR_02 = ~z~Hey, check over here!
+
+TRE1_ARTHUR_FAR_03 = ~z~I think I heard something this way!
+
+TRE1_ATCK_1 = ~z~There he is... take him out!
+
+TRE1_AT_FIELD_A_1 = ~z~That must be it.
+
+TRE1_BACK_1 = ~z~You alright?
+
+TRE1_BACK_2 = ~z~Yeah... never goes easy, does it?
+
+TRE1_BACK_3 = ~z~~sl:0.0:2.2~Sure don't. C'mon...~sl:0.3~let's go see how badly they beat up the slippery feller.
+
+TRE1_BACK_4 = ~z~I wonder how much trouble he's brought with him.
+
+TRE1_BACK_5 = ~z~~sl:1.3:0.0~Guess we'll soon find out.
+
+TRE1_BACK_6 = ~z~Seems like we can't catch a break now, Arthur.
+
+TRE1_BACK_7 = ~z~Our luck's held this long... we got outta worse scrapes than this one.
+
+TRE1_BACK_8 = ~z~~sl:0.3:0.0~So I heard...
+
+TRE1_BACK_9 = ~z~~sl:1.7:0.0~What's government agents and bounty hunters to us?
+
+TRE1_BACK_10 = ~z~~sl:1.1:0.0~I hope you're right.
+
+TRE1_BIRDS_01 = ~z~Did you see those birds?
+
+TRE1_BIRDS_02 = ~z~Look at the birds, go that way!
+
+TRE1_BIRDS_03 = ~z~Over there, where the birds are!
+
+TRE1_CALLSOUT_1 = ~z~Mr. Trelawny, where are you?
+
+TRE1_CALLSOUT_2 = ~z~Over here, dear boy!
+
+TRE1_CLUE1_1 = ~z~This weren't just a social call.
+
+TRE1_CLUE1_ALT_1 = ~z~This food's barely touched... looks like he left in a hurry.
+
+TRE1_CLUE2_ALT_1 = ~z~Bed's not made, so he must have been here recently.
+
+TRE1_CLUE3_1 = ~z~There's some blood here... that ain't good.
+
+TRE1_CLUE_FIVE_01 = ~z~They seem to head into the forest now.
+
+TRE1_CLUE_FIVE_02 = ~z~These tracks lead into the forest here.
+
+TRE1_CLUE_FOUR_01 = ~z~~sl:0.0:0.7~Hey, look...~sl:0.4~they continue on the other side of the tracks.
+
+TRE1_CLUE_FOUR_02 = ~z~~sl:0.0:0.7~See?~sl:0.3~They must'a crossed over the tracks.
+
+TRE1_CLUE_TWO_01 = ~z~The tracks head up that path.
+
+TRE1_CLUE_TWO_02 = ~z~Hey look, they went up the path here.
+
+TRE1_COME_OVER_01 = ~z~Have you got this one or not?
+
+TRE1_COME_OVER_02 = ~z~You going to come deal with this fool?
+
+TRE1_COME_OVER_03 = ~z~Come on, this calls for your talents.
+
+TRE1_CORN2_1 = ~z~Hang on, this is it. The cornfields.
+
+TRE1_CORN_1 = ~z~Ok, here's the cornfields.
+
+TRE1_EXT_1 = ~z~You okay?
+
+TRE1_EXT_2 = ~z~Never finer.
+
+TRE1_EXT_3 = ~z~So, who was they?
+
+TRE1_EXT_4 = ~z~They were bounty hunters...
+
+TRE1_EXT_5 = ~z~attached to Cole Stoudemire.
+
+TRE1_EXT_6 = ~z~Okay.
+
+TRE1_EXT_7 = ~z~They weren't looking for me...
+
+TRE1_EXT_8 = ~z~per se.~n~~m~No...
+
+TRE1_EXT_9 = ~z~What you tell 'em?
+
+TRE1_EXT_10 = ~z~Not much.
+
+TRE1_EXT_11 = ~z~I... told them I was an intellectual...
+
+TRE1_EXT_12 = ~z~come down here from Oregon...
+
+TRE1_EXT_13 = ~z~looking for a job at the university.
+
+TRE1_EXT_14 = ~z~Course, they didn't believe me.
+
+TRE1_EXT_15 = ~z~Seems you stirred up quite a hornet's nest in Blackwater.
+
+TRE1_EXT_16 = ~z~So I keep hearing.
+
+TRE1_EXT_17 = ~z~It might be best if I stay with you gentlemen for a while.
+
+TRE1_EXT_18 = ~z~Can't go back to that caravan now.
+
+TRE1_EXT_19 = ~z~Alright, Charles, you take Trelawny back to camp...
+
+TRE1_EXT_20 = ~z~I'll catch up with you.
+
+TRE1_EXT_21 = ~z~Okay.
+
+TRE1_EXT_LI_1 = ~z~You okay?
+
+TRE1_FINDEM_01 = ~z~They've gone into the cornfields. We need to flush them out!
+
+TRE1_FINDEM_02 = ~z~Quick, find them! They're trying to hide in the fields!
+
+TRE1_FLW_ME_1 = ~z~Reckon it's that one with the fire outside.
+
+TRE1_FLW_ME_2 = ~z~Let's take a look.
+
+TRE1_GET_EM2_01 = ~z~We need to find these bastards.
+
+TRE1_GET_EM2_02 = ~z~They're gonna get away, let's find them.
+
+TRE1_GET_EM2_03 = ~z~Come on, where are they?
+
+TRE1_GET_EM_01 = ~z~Who knows what he told them, let's get after those sons of bitches.
+
+TRE1_GET_EM_02 = ~z~Don't let 'em get away. Could'a have told 'em anything.
+
+TRE1_GET_IN_01 = ~z~Come on. You need to get in there, Arthur.
+
+TRE1_GET_IN_02 = ~z~Get in there and find them, come on!
+
+TRE1_GET_IN_03 = ~z~Flush them out of there, Arthur!
+
+TRE1_GET_TRELA_1 = ~z~Alright, let's go back for Trelawny.
+
+TRE1_GND_CLUE_1 = ~z~Hey, I see something on the ground over here.
+
+TRE1_GO_MILL_1 = ~z~The gunshots are coming from that barn! Come on!
+
+TRE1_IG1_A_1 = ~z~Someone got here first.
+
+TRE1_IG1_B_1 = ~z~Big struggle. Pretty recently, I'd say.
+
+TRE1_IG1_B_2 = ~z~I guess, maybe, uh... twelve hours ago?
+
+TRE1_IG1_B_3 = ~z~But no body?
+
+TRE1_IG1_B_4 = ~z~Not yet.
+
+TRE1_IG1_CHECK_1 = ~z~So it seems.
+
+TRE1_IG1_CHECK_2 = ~z~By the looks of things, it wasn't a social call.
+
+TRE1_IG1_CHECK_3 = ~z~Check the house.
+
+TRE1_IG1_GONE_1 = ~z~Gone.
+
+TRE1_IG2_1 = ~z~You see that?
+
+TRE1_IG2_2 = ~z~What?
+
+TRE1_IG2_3 = ~z~The tracks...
+
+TRE1_IG2_4 = ~z~Lead this way...
+
+TRE1_IG7_CHAR_1 = ~z~Where's Mr. Trelawny?
+
+TRE1_IG7_CHAR_2 = ~z~They took him to a cabin, over by the cornfields.
+
+TRE1_IG7_CHAR_3 = ~z~
+
+TRE1_IG7_READY_1 = ~z~Whenever you're ready...
+
+TRE1_IG7_SQUIRM_1 = ~z~Stop squirming!
+
+TRE1_IG7_STAY_1 = ~z~You stay there.
+
+TRE1_IG7_TELLME_1 = ~z~Tell me where he is!
+
+TRE1_IG7_TELLME_2 = ~z~You go to hell!
+
+TRE1_IG7_TOGRND_1 = ~z~
+
+TRE1_IG7_TOGRND_2 = ~z~
+
+TRE1_IG7_WHERE_1 = ~z~
+
+TRE1_IG7_WHERE_2 = ~z~Where's Trelawny?
+
+TRE1_IG7_WHERE_3 = ~z~I don't know anything.
+
+TRE1_IG7_YOUBET_1 = ~z~You better tell me now, you son of a bitch!
+
+TRE1_IG7_YOUBET_2 = ~z~~sl:0.0:2.6:1~Okay... okay, for Christ's sake.
+
+TRE1_IG7_YOUBET_3 = ~z~They took him to a cabin, over by the cornfields.
+
+TRE1_IG7_YOUBET_4 = ~z~Which cornfields?
+
+TRE1_IG7_YOUBET_5 = ~z~Left... down the path there... by Braithwaite Manor.
+
+TRE1_IG8_CENT_1 = ~z~~sl:0.4:1.1~He's mine!~sl:0.5~Let me take him... you get outta here.
+
+TRE1_IG8_CENT_2 = ~z~You have my friend.
+
+TRE1_IG8_CENT_3 = ~z~He's not your friend...
+
+TRE1_IG8_CMON_1 = ~z~Come on... let's find the last of them...
+
+TRE1_IG8_CMON_2 = ~z~Okay, be careful.
+
+TRE1_IG8_GRAP_1 = ~z~
+
+TRE1_IG8_KNIFE_1 = ~z~I'll give you money...
+
+TRE1_IG8_KNIFE_2 = ~z~Oh be quiet.
+
+TRE1_IG8_KNIFE_3 = ~z~
+
+TRE1_IG8_KNIFE_4 = ~z~
+
+TRE1_IG8_KNIFE_5 = ~z~Come on.
+
+TRE1_IG8_KNIFE_6 = ~z~~sl:1.7:1.8:1~You should have taken the money.
+
+TRE1_IG8_KNIFE_7 = ~z~I know, I'm a fool.
+
+TRE1_IG8_P1_1 = ~z~Excuse me.
+
+TRE1_IG8_P1_2 = ~z~~sl:0.0:0.7:1~Yeah?
+
+TRE1_IG8_P1_3 = ~z~~sl:0.0:5.0:1~Have you seen... we're, uh... we're looking for our friend.
+
+TRE1_IG8_P1_4 = ~z~I don't think he's here...
+
+TRE1_IG8_P1_5 = ~z~Nah... you seen a strange sort of feller... sort of formal?
+
+TRE1_IG8_P1_6 = ~z~~sl:0.0:2.6~Strange, sure.~sl:0.4~Formal, no.
+
+TRE1_IG8_P2_1 = ~z~He uses a cane, looks a lot like this one.
+
+TRE1_IG8_P2_2 = ~z~~sl:2.3~Alright you two...
+
+TRE1_IG8_P2_3 = ~z~~sl:0.0:1.3:1~Where the hell is he?
+
+TRE1_IG8_P2_4 = ~z~~sl:0.0:1.4:1~You both better get outta here!
+
+TRE1_IG8_P2_5 = ~z~Come here!
+
+TRE1_IG8_P2_6 = ~z~
+
+TRE1_IG_INTA_1 = ~z~~sl:0.0:0.8~Arthur.~sl:0.4~Arthur.
+
+TRE1_IG_INT_1 = ~z~Of course I'm sweating. We're in some disease-ridden, swampy, dixie-whistling shithole.
+
+TRE1_IG_INT_2 = ~z~~sl:0.5~I meant about what Trelawny said, about these bounty hunters?
+
+TRE1_IG_INT_3 = ~z~Not sweating as such, but maybe a little gentle perspiration.
+
+TRE1_IG_INT_4 = ~z~
+
+TRE1_IG_INT_5 = ~z~Until we know more, ain't too much harm wasting good liquor on sweating.
+
+TRE1_IG_INT_6 = ~z~So?
+
+TRE1_IG_INT_7 = ~z~So, I think you should pay Mr. Trelawny a visit and find out exactly what he knows and who he spoke to.
+
+TRE1_IG_INT_8 = ~z~~sl:0.0:1.3~Take Charles with you.~sl:~Oh, the sight of the pair of you would make a statue sing out its secrets.
+
+TRE1_IG_INT_9 = ~z~Okay.
+
+TRE1_IG_INT_ILO_1 = ~z~~sl:0.0:0.8~What now?~sl:~You sweating yet, Dutch?
+
+TRE1_IN_FIELD_01 = ~z~I'm telling you now! You boy's ain't leaving here!
+
+TRE1_IN_FIELD_02 = ~z~I will find you bastards!
+
+TRE1_IN_FIELD_03 = ~z~C'mon you cowards!
+
+TRE1_IN_FIELD_04 = ~z~Where the hell are you?
+
+TRE1_IN_FIELD_05 = ~z~You wait till I find you.
+
+TRE1_IN_FIELD_06 = ~z~Stop hiding, you cowards!
+
+TRE1_IN_FIELD_07 = ~z~Get outta there, you sons of bitches.
+
+TRE1_KILLED_1 = ~z~Alright, that should do it.
+
+TRE1_KNOW_WAY_1 = ~z~~sl:0.0:1.9~Follow me. I think there's way around~lr:~so we don't have to go through the Braithwaite's place.
+
+TRE1_KNOW_WAY_2 = ~z~Yes, ~rp~I've spent enough time there. After you, then.
+
+TRE1_KP_LOOK_01 = ~z~Keep searching, he's around here somewhere.
+
+TRE1_KP_LOOK_02 = ~z~You see anything?
+
+TRE1_KP_LOOK_03 = ~z~Keep looking, Arthur, he must be close.
+
+TRE1_LETGO_1 = ~z~You got lucky there, my friend.
+
+TRE1_LETSCORN_1 = ~z~C'mon, let's go.
+
+TRE1_LOOK_AR_1 = ~z~He's dumped his gear, look around, he can't have gone far.
+
+TRE1_MCS0_1 = ~z~Excuse me...
+
+TRE1_MCS0_2 = ~z~Yeah?
+
+TRE1_MCS0_3 = ~z~Have you seen a...
+
+TRE1_MCS0_4 = ~z~we're...
+
+TRE1_MCS0_5 = ~z~we're looking for our friend.
+
+TRE1_MCS0_6 = ~z~I don't think he's here.
+
+TRE1_MCS0_7 = ~z~No, you seen a strange sort of feller...
+
+TRE1_MCS0_8 = ~z~sort of formal?
+
+TRE1_MCS0_9 = ~z~Strange, sure...
+
+TRE1_MCS0_10 = ~z~formal, no.
+
+TRE1_MCS0_11 = ~z~He uses a cane...
+
+TRE1_MCS0_12 = ~z~looks a lot like this one.
+
+TRE1_MCS0_13 = ~z~Alright you two...
+
+TRE1_MCS0_14 = ~z~where the hell is he?
+
+TRE1_MCS0_15 = ~z~You both better get out of here.
+
+TRE1_MCS0_LI_1 = ~z~Excuse me...
+
+TRE1_MCS1_1 = ~z~Let's get you outta here.
+
+TRE1_MCS1_2 = ~z~Come on, boy.
+
+TRE1_MCS1_3 = ~z~The thing is...
+
+TRE1_MCS1_4 = ~z~after that shack, this will be remembered like a good time.
+
+TRE1_MCS1_5 = ~z~Put the man down, gentlemen.
+
+TRE1_MCS1_6 = ~z~That the lot of them?
+
+TRE1_MCS1_7 = ~z~I... I think so.
+
+TRE1_MCS1_8 = ~z~So you're alive.
+
+TRE1_MCS1_9 = ~z~Allegedly.
+
+TRE1_MCS1_10 = ~z~Well, don't worry. They won't be for much longer.
+
+TRE1_MCS1_11 = ~z~Go get them, Arthur.
+
+TRE1_MCS1_12 = ~z~I can handle this.
+
+TRE1_MCS1_LI_1 = ~z~~sl:0.8:2.1:1~Get out there, come on boy.
+
+TRE1_MCS1_LI_2 = ~z~
+
+TRE1_MCS1_LI_3 = ~z~
+
+TRE1_MCS1_LO_1 = ~z~Go deal with them, my brothers!
+
+TRE1_MCS2_1 = ~z~Jeb!
+
+TRE1_MCS2_2 = ~z~No...
+
+TRE1_MCS2_3 = ~z~wait...
+
+TRE1_MCS2_4 = ~z~Now...
+
+TRE1_MCS2_5 = ~z~where were we...
+
+TRE1_MCS2_6 = ~z~where's my friend, buddy?
+
+TRE1_MCS2_7 = ~z~I...I...
+
+TRE1_MCS2_8 = ~z~Come on, speak.
+
+TRE1_MCS2_9 = ~z~He... he...
+
+TRE1_MCS2_10 = ~z~He's, he's in a cabin...
+
+TRE1_MCS2_11 = ~z~down by Braithwaite manor...
+
+TRE1_MCS2_12 = ~z~near the cornfield.
+
+TRE1_MCS2_13 = ~z~Thank you.
+
+TRE1_MCS2_14 = ~z~Charles, come on.
+
+TRE1_ONELEFT_1 = ~z~We got one more, Charles.
+
+TRE1_RELEASE_1 = ~z~Don't let me see you again, you hear me?
+
+TRE1_RETREAT_1 = ~z~He's backing off inside, get after him!
+
+TRE1_SEARCH_1 = ~z~Shit, this don't look so good.
+
+TRE1_SEARCH_2 = ~z~Well, he clearly ain't here, so where is he?
+
+TRE1_SEARCH_3 = ~z~~sl:0.7~Let's take a look around.
+
+TRE1_SHRTRETRYSHOUTED_3 = ~z~That's nothing new.
+
+TRE1_SHRTRETRYSHOUTED_4 = ~z~Maybe not, ~rp~and maybe it's nothing,~rp~ but we can't take any more chances.
+
+TRE1_SHRTRETRYSHOUTED_5 = ~z~Not the way things have been going.
+
+TRE1_SHRTRETRYSHOUTED_7 = ~z~~sl:0.0:4.3~Dutch wants us to have another word with him... in private,~rp~~sl:0.6~make sure he's very clear about the truth.
+
+TRE1_SHRTRETRYSHOUTED_8 = ~z~~sl:0.7:0.0~Is he ever clear about the truth?
+
+TRE1_SHRTRETRYSPOKEN_3 = ~z~~sl:0.4~That's nothing new.
+
+TRE1_SHRTRETRYSPOKEN_4 = ~z~Maybe not, and ~rp~maybe it's nothing,~rp~ but we can't take any more chances,
+
+TRE1_SHRTRETRYSPOKEN_5 = ~z~... not the way things have been going.
+
+TRE1_SHRTRETRYSPOKEN_7 = ~z~~sl:0.0:3.3~Dutch wants us to have another word with him in private,~rp~~sl:0.5~make sure he's very clear about the truth.
+
+TRE1_SHRTRETRYSPOKEN_8 = ~z~~sl:0.9:0.0~Is he ever clear about the truth?
+
+TRE1_SHRTRETRY_1 = ~z~So what's in town?
+
+TRE1_SHRTRETRY_2 = ~z~Trelawny, apparently.~rp~ He said there's bounty hunters after us.
+
+TRE1_SHRTRETRY_6 = ~z~Of course.
+
+TRE1_SHRTRETRY_9 = ~z~Guess he will be this time.
+
+TRE1_SPOTCAMP_1 = ~z~Hey, look.~rp~ Let's go see what those fellers have to say.
+
+TRE1_SPOTTED_01 = ~z~I see one!
+
+TRE1_SPOTTED_02 = ~z~There's one over here!
+
+TRE1_SPOTTED_03 = ~z~There's one... over here!
+
+TRE1_SRCHCLUE_01 = ~z~What do you think?
+
+TRE1_SRCHCLUE_02 = ~z~Found anything?
+
+TRE1_SRCHCLUE_03 = ~z~You see anything there?
+
+TRE1_STAND_CH_01 = ~z~Come on, then, let's go.
+
+TRE1_STAND_CH_02 = ~z~~sl:0.5:0.0~I'm ready when you are.
+
+TRE1_STAND_CH_03 = ~z~Let's go if we're going.
+
+TRE1_STAND_CORN_01 = ~z~Come on then.
+
+TRE1_STAND_CORN_02 = ~z~You heard what he said, let's go.
+
+TRE1_STAND_CORN_03 = ~z~Quick, let's get there.
+
+TRE1_STAND_CRVN_01 = ~z~Arthur, get in here.
+
+TRE1_STAND_CRVN_02 = ~z~You need to see this.
+
+TRE1_STAND_CRVN_03 = ~z~Are you coming?
+
+TRE1_STAND_DTCH_01 = ~z~This needs dealing with now, Arthur.
+
+TRE1_STAND_DTCH_02 = ~z~Is there something I wasn't clear about?
+
+TRE1_STAND_DTCH_03 = ~z~Why are you still here? Let's get this done.
+
+TRE1_STAND_TRCK_01 = ~z~Should we keep moving?
+
+TRE1_STAND_TRCK_02 = ~z~What is it, Arthur?
+
+TRE1_STAND_TRCK_03 = ~z~Come on, we should keep on this trail.
+
+TRE1_STAND_TRE_01 = ~z~Can we just get Trelawny and go?
+
+TRE1_STAND_TRE_02 = ~z~Come on, let's not drag this out any longer.
+
+TRE1_STAND_TRE_03 = ~z~I thought you wanted to get out of here?
+
+TRE1_STAND_TRKS_01 = ~z~We should get going.
+
+TRE1_STAND_TRKS_02 = ~z~Come on, before they get too far ahead.
+
+TRE1_STAND_TRKS_03 = ~z~What are you doing? Let's go.
+
+TRE1_START_TRK2_1 = ~z~~sl:1.4:0.0~They lead this way.
+
+TRE1_START_TRK2_2 = ~z~I see.
+
+TRE1_START_TRK2_3 = ~z~~sl:0.0:1.4:1~I'll leave you to it then...
+
+TRE1_START_TRK_1 = ~z~~sl:1.7:1.5~They went down the path here...~sl:1.2~...how's your tracking these days?
+
+TRE1_START_TRK_2 = ~z~Alright, I guess.
+
+TRE1_START_TRK_3 = ~z~~sl:0.7:0.7~Well...~sl:0.8~lead the way, then.
+
+TRE1_THANKS_1 = ~z~Shit... thank you.
+
+TRE1_THANKS_2 = ~z~Of course. You okay?
+
+TRE1_THANKS_3 = ~z~Yeah, I'm fine.
+
+TRE1_THEREHEIS_1 = ~z~Well, he's still here at least.
+
+TRE1_THEREHEIS_2 = ~z~Put your feet up, why don't you?
+
+TRE1_THIS_WAY_01 = ~z~I think the tracks lead this way.
+
+TRE1_THIS_WAY_02 = ~z~This way, Arthur.
+
+TRE1_THIS_WAY_03 = ~z~I can see more tracks, this way.
+
+TRE1_TL_HH_1 = ~z~It always seem to be more...
+
+TRE1_TL_HH_2 = ~z~more and more civilization.
+
+TRE1_TL_HH_3 = ~z~I wanna get back in the open country, or the west, or...
+
+TRE1_TL_HH_4 = ~z~what's left of it, but...
+
+TRE1_TL_HH_5 = ~z~even that ain't the way I remember it.
+
+TRE1_TL_LH_1 = ~z~Bounty hunters, Pinkertons, lawmen...
+
+TRE1_TL_LH_2 = ~z~everywhere we go there's more and more civilization.
+
+TRE1_TL_LH_3 = ~z~Perhaps this is it from now on...
+
+TRE1_TL_LH_4 = ~z~we shall see I guess.
+
+TRE1_TORHODESSHOUTED_1 = ~z~So... where are we going?
+
+TRE1_TORHODESSHOUTED_2 = ~z~~sl:0.0:3.5~Dutch wants us to have a talk with Trelawny,~rp~~sl:0.4~about these bounty hunters who are coming for us.
+
+TRE1_TORHODESSHOUTED_5 = ~z~~sl:2.0:0.0~Something like that.
+
+TRE1_TORHODESSHOUTED_6 = ~z~~sl:0.0:4.6~Soon as we laid eyes on the fool of a sheriff who runs that town,~sl:0.3~~rp~I knew Dutch was going to play him like a fiddle.
+
+TRE1_TORHODESSHOUTED_7 = ~z~~sl:1.0:3.6~On the run from one bunch of lawmen, working for another.~rp~~sl:1.2~Interesting.
+
+TRE1_TORHODESSHOUTED_12 = ~z~~sl:0.0:2.6~There's these bounty hunters of course, but...~sl:0.5~~rp~Dutch don't seem too worried about it.
+
+TRE1_TORHODESSHOUTED_13 = ~z~~sl:1.2:2.3~Can't believe they're still coming after us.~sl:0.5~~rp~We didn't even get away with the money!
+
+TRE1_TORHODESSHOUTED_15 = ~z~~sl:0.0:0.8~Of course...~sl:1.5~~rp~Trelawny. ~rp~I've only met him a couple of times, but he's...
+
+TRE1_TORHODESSHOUTED_17 = ~z~~sl:0.0:4.8~Fear not,~rp~ he's just a cockroach in fancy britches.~sl:0.6~~rp~But he gets into nooks and crannies the rest of us can't.
+
+TRE1_TORHODESSHOUTED_18 = ~z~We just need to find him, before he scurries off again.
+
+TRE1_TORHODESSPOKEN_1 = ~z~Where are we going?
+
+TRE1_TORHODESSPOKEN_2 = ~z~~sl:0.0:3.4~Dutch wants us to have a... talk, with Trelawny,~rp~~sl:0.6~about these bounty hunters who are coming for us.
+
+TRE1_TORHODESSPOKEN_5 = ~z~~sl:1.3:1.4:1~Something like that.
+
+TRE1_TORHODESSPOKEN_6 = ~z~~sl:0.0:3.7~Soon as we laid eyes on that fool of a sheriff who runs that town,~sl:~~rp~I knew Dutch was going to play him like a fiddle.
+
+TRE1_TORHODESSPOKEN_7 = ~z~~sl:0.0:3.0~On the run from one bunch of lawmen, working for another.~sl:1.1~~rp~Interesting.
+
+TRE1_TORHODESSPOKEN_12 = ~z~~sl:0.0:2.5~There's these bounty hunters of course, but...~sl:0.4~~rp~Dutch don't seem too worried about it.
+
+TRE1_TORHODESSPOKEN_13 = ~z~~sl:0.0:2.1~Can't believe they're still coming after us.~sl:0.3~~rp~We didn't even get away with the money!
+
+TRE1_TORHODESSPOKEN_15 = ~z~~sl:0.0:0.8~Of course...~sl:1.8~~rp~Trelawny. ~rp~I've only met him a couple of times, but he's...
+
+TRE1_TORHODESSPOKEN_17 = ~z~~sl:0.0:4.2~Fear not,~rp~ he's just a cockroach in fancy britches.~sl:0.7~~rp~But he gets into nooks and crannies the rest of us can't.
+
+TRE1_TORHODESSPOKEN_18 = ~z~We just need to find him before he scurries off again.
+
+TRE1_TORHODES_3 = ~z~Hoping he can tell us who they are,~rp~ or where they're coming from.
+
+TRE1_TORHODES_4 = ~z~Okay. ~rp~And you're deputies now?
+
+TRE1_TORHODES_8 = ~z~~sl:0.0:3.1:1~"Hiding in plain sight,"~rp~ Dutch calls it.
+
+TRE1_TORHODES_9 = ~z~~sl:1.0~So, spirits seem good... in the new camp, I mean.
+
+TRE1_TORHODES_10 = ~z~We got some space between us~rp~ and that mess now.
+
+TRE1_TORHODES_11 = ~z~Ain't seen no more Pinkertons for a while.
+
+TRE1_TORHODES_14 = ~z~Yeah,~rp~ but they don't know that.
+
+TRE1_TORHODES_16 = ~z~he's a strange one.
+
+TRE1_TO_FIELD2SHOUTED_1 = ~z~~sl:0.0:3.8~Nothing's ever straightforward where Trelawny's involved,~sl:~I've learned that much.
+
+TRE1_TO_FIELD2SHOUTED_4 = ~z~That's one way of looking at it.
+
+TRE1_TO_FIELD2SPOKEN_1 = ~z~~sl:0.0:3.4~Nothing's ever straightforward where Trelawny's involved...~sl:0.3~I've learned that much.
+
+TRE1_TO_FIELD2SPOKEN_4 = ~z~~sl:0.4~That's one way of looking at it.
+
+TRE1_TO_FIELD2_2 = ~z~I mean, how much time have we wasted getting this fool out of trouble?
+
+TRE1_TO_FIELD2_3 = ~z~He somehow manages to be both lucky and unlucky at the same time.
+
+TRE1_TO_FIELD2_5 = ~z~But he always finds some way to pay us back.
+
+TRE1_TO_FIELD2_6 = ~z~Just when we think about cutting him loose, he brings us something big.
+
+TRE1_TO_FIELD2_7 = ~z~I guess that's his special talent... keeping fish on the line.
+
+TRE1_TO_FIELDSHOUTED_7 = ~z~~sl:0.0:2.2~He don't know how not to talk...~rp~~sl:0.8~he don't know where we're holed up, though.
+
+TRE1_TO_FIELDSHOUTED_9 = ~z~~sl:0.0:1.9~I don't know why Dutch still deals with him.~rp~~sl:0.2~Always disappearing for weeks on end.
+
+TRE1_TO_FIELDSHOUTED_12 = ~z~Kind of...
+
+TRE1_TO_FIELDSPOKEN_7 = ~z~~sl:0.0:2.0~He don't know how not to talk...~rp~~sl:1.0~he don't know where we're holed up, though.
+
+TRE1_TO_FIELDSPOKEN_9 = ~z~~sl:0.0:2.0~I don't know why Dutch still deals with him.~rp~~sl:0.2~Always disappearing for weeks on end.
+
+TRE1_TO_FIELDSPOKEN_12 = ~z~~sl:0.8:0.0~Kind of...
+
+TRE1_TO_FIELD_1 = ~z~You okay?
+
+TRE1_TO_FIELD_2 = ~z~I'm good.
+
+TRE1_TO_FIELD_3 = ~z~What do you think they want with Trelawny?
+
+TRE1_TO_FIELD_4 = ~z~~sl:0.0:2.5~Could be any one of a hundred things.~sl:0.3~~rp~Just depends if any of them involve us.
+
+TRE1_TO_FIELD_5 = ~z~You think he'll talk?
+
+TRE1_TO_FIELD_6 = ~z~Of course he'll talk.~rp~ He'd sell his own sister to save a train fare!
+
+TRE1_TO_FIELD_8 = ~z~Least, I don't think he does...
+
+TRE1_TO_FIELD_10 = ~z~He's got his uses and, well... ~rp~loyalty matters to Dutch.
+
+TRE1_TO_FIELD_11 = ~z~Of course,~rp~ but is Trelawny loyal?
+
+TRE1_TO_FIELD_13 = ~z~I guess~rp~ Trelawny ain't exactly disloyal... ~rp~just got a big mouth.
+
+TRE1_TO_FIELD_14 = ~z~Don't worry. ~rp~If he talked, ~rp~I'll goddamn find out what he said.
+
+TRE1_TO_TRE_01 = ~z~Don't worry about me, deal with them!
+
+TRE1_TO_TRE_02 = ~z~I think they might be getting away, Mr. Morgan!
+
+TRE1_TO_TRE_03 = ~z~Please go teach those reprobates a lesson.
+
+TRE1_TRACKS_1 = ~z~~sl:0.0:1.1~Hmm, look.~sl:0.7~Tracks.
+
+TRE1_TRACKS_2 = ~z~Come on...
+
+TRE1_TRACKTALK1_1 = ~z~Not the kind of place I'd expect to see Trelawny staying in.
+
+TRE1_TRACKTALK1_2 = ~z~No?
+
+TRE1_TRACKTALK1_3 = ~z~Normally scams himself into the best hotel in town.
+
+TRE1_TRACKTALK2_1 = ~z~~sl:0.0:3.8:1~You know... ~rp~when me and Javier went down with Trelawny to get Sean,
+
+TRE1_TRACKTALK2_2 = ~z~after the bar fight?
+
+TRE1_TRACKTALK2_3 = ~z~I swear he talked the whole way and ~rp~never actually said a damn thing.
+
+TRE1_TRACKTALK2_4 = ~z~I thought you knew that's his special talent.
+
+TRE1_TRACKTALK2_5 = ~z~
+
+TRE1_TRACKTALK3_1 = ~z~They could be twenty miles away by now.
+
+TRE1_TRACKTALK3_2 = ~z~We can track them that far if we need to.
+
+TRE1_TRACKTALK3_3 = ~z~Depends on how much you want to find them.
+
+TRE1_TRACKTALK3_4 = ~z~Yeah... I still ain't sure about that.
+
+TRE1_TRACKTALK4_1 = ~z~~sl:0.0:1.6~Why didn't you just grill Trelawny~rp~~sl:~after you got the sheriff to let him off?
+
+TRE1_TRACKTALK4_2 = ~z~I don't know, ~rp~we probably should have done.
+
+TRE1_TRACKTALK4_3 = ~z~Dutch was still playing the part of the dutiful citizen at that point.
+
+TRE1_UPHERE_1 = ~z~I think it's just up here.
+
+TRE1_WHERE_RU_01 = ~z~Where are you?
+
+TRE1_WHERE_RU_02 = ~z~Where the hell are they?
+
+TRE1_WHERE_RU_03 = ~z~Goddamn these sons of bitches.
+
+TRE1_WRONGWAY_01 = ~z~Hey, they went this way!
+
+TRE1_WRONGWAY_02 = ~z~Arthur! I can see the tracks right here!
+
+TRE1_WRONGWAY_03 = ~z~Hey, it's this way!
+

@@ -1,0 +1,12 @@
+0x8A309820 = Passenger
+
+0x50FD240E = Ambient Train
+
+0x48448622 = ~s~Rob the ~o~train cars~s~
+
+0xA8F68D0D = Guard
+
+0xA290246B = Engineer
+
+TRB_STOP_DRIVER = Stop Driver
+

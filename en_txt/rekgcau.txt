@@ -1,0 +1,322 @@
+REKGC_1_AGTHNKS_1 = ~z~Well. Okay then. You did me right enough...
+
+REKGC_1_CALLOUT_01 = ~z~You gonna kill me?
+
+REKGC_1_CALLOUT_02 = ~z~Just tell me what you want, damn it!
+
+REKGC_1_CALLOUT_03 = ~z~I barely got a dollar to my name, I swear.
+
+REKGC_1_CALLOUT_04 = ~z~Whatever you bastards gonna do, just do it.
+
+REKGC_1_CARRY_01 = ~z~Hey, hey, why you carrying me?
+
+REKGC_1_CARRY_02 = ~z~What are you doing? Goddamn put me down!
+
+REKGC_1_CARRY_03 = ~z~Are you crazy? Set me down.
+
+REKGC_1_CUT_01 = ~z~Hey, you gonna cut these ropes?
+
+REKGC_1_CUT_02 = ~z~C'mon, cut me free now.
+
+REKGC_1_GIVEUP_01 = ~z~I'm gonna die...
+
+REKGC_1_GIVEUP_02 = ~z~Leave me then, you coward!
+
+REKGC_1_GROUND_1 = ~z~Hey! Watch it.
+
+REKGC_1_LOAD_1 = ~z~No, no! Don't you do this!
+
+REKGC_1_NOTCUT_01 = ~z~What are you doing? Cut me loose.
+
+REKGC_1_NOTCUT_02 = ~z~Come on quick, get these ropes off me.
+
+REKGC_1_NOTCUT_03 = ~z~I can't breathe right like this... please.
+
+REKGC_1_OUTKILL_1 = ~z~You got 'em? Goddamn right you got 'em.
+
+REKGC_1_PFIGHT_01 = ~z~Yeah! You like that?
+
+REKGC_1_PFIGHT_02 = ~z~Yeah, that's it! Give 'em hell!
+
+REKGC_1_RIDEOFF_1 = ~z~Goddammit... I'm a goddamned dead man...
+
+REKGC_1_SPOT1_01 = ~z~Hey! Over here! These goddamn bastards tied me up!
+
+REKGC_1_SPOT1_02 = ~z~You there! C'mon, you gotta help me! Please.
+
+REKGC_1_SPOT2_01 = ~z~You can't leave me like this.
+
+REKGC_1_SPOT2_02 = ~z~C'mon! Help me!
+
+REKGC_1_SPOT2_03 = ~z~Goddammit, help me!
+
+REKGC_1_SPOT2_04 = ~z~Come on, come on! Quick!
+
+REKGC_1_THANKS_1 = ~z~~sl:0.8:2.4~Yeah, yeah, oh that, that's better...~sl:0.3:2.4~I tell you, I didn't expect help.~sl:~But you came.
+
+REKGC_1_THANKS_2 = ~z~I'll remember this.
+
+REKGC_1_WALKOFF_1 = ~z~Gonna try'n find my way home...
+
+REKGC_2_AGTHNKS_1 = ~z~Okay, okay... we got there in the end... thanks.
+
+REKGC_2_CALLOUT_01 = ~t~In Spanish: You goddamn sons of bitches!
+
+REKGC_2_CALLOUT_02 = ~t~In Spanish: I'll kill the lot of you!
+
+REKGC_2_CALLOUT_03 = ~z~Oh, God... you don't know who I know.
+
+REKGC_2_CALLOUT_04 = ~z~This... is the last mistake any of you will ever make...
+
+REKGC_2_CARRY_01 = ~z~Put me down!
+
+REKGC_2_CARRY_02 = ~z~What the hell are you doing?
+
+REKGC_2_CARRY_03 = ~z~Put. Me. Down.
+
+REKGC_2_CUT_01 = ~z~Cut these ropes, yeah?
+
+REKGC_2_CUT_02 = ~z~Okay, the ropes, now.
+
+REKGC_2_GIVEUP_01 = ~t~In Spanish: Perfect...
+
+REKGC_2_GIVEUP_02 = ~z~Goddammit...
+
+REKGC_2_GROUND_1 = ~z~Hey, easy.
+
+REKGC_2_LOAD_1 = ~z~Don't you dare put me on this horse!
+
+REKGC_2_NOTCUT_01 = ~z~Come on, quick. Cut me free.
+
+REKGC_2_NOTCUT_02 = ~z~What's the wait here? Get these ropes off me.
+
+REKGC_2_NOTCUT_03 = ~z~Free me already!
+
+REKGC_2_NOTCUT_04 = ~t~In Spanish: Come on...
+
+REKGC_2_OUTKILL_1 = ~z~~sl:0.2:1.4~Wish I could have done that...~sl:0.4~but at least they're dealt with.
+
+REKGC_2_PFIGHT_01 = ~z~Here we go!
+
+REKGC_2_PFIGHT_02 = ~z~Yes, go on!
+
+REKGC_2_RIDEOFF_1 = ~t~In Spanish: Goddamn piece of shit, I'll kill you...
+
+REKGC_2_SPOT1_01 = ~z~Hey! Come deal with these bastards, will you?
+
+REKGC_2_SPOT1_02 = ~z~Hey, you! Help! These sons of bitches kidnapped me!
+
+REKGC_2_SPOT2_01 = ~z~You gotta get me out of this!
+
+REKGC_2_SPOT2_02 = ~z~Come on, damn it!
+
+REKGC_2_SPOT2_03 = ~z~Show these sons of bitches!
+
+REKGC_2_SPOT2_04 = ~z~You better not just leave me here!
+
+REKGC_2_THANKS_1 = ~z~Oh, that feels better. Good going on those hijos de puta.
+
+REKGC_2_WALKOFF_1 = ~z~If anyone else even tries it with me today...
+
+REKGC_3_AGTHNKS_1 = ~z~I, uh, I appreciate it... thanks?
+
+REKGC_3_CALLOUT_01 = ~z~Any of you touch me, you'll... you'll be sorry...
+
+REKGC_3_CALLOUT_02 = ~z~You just gonna leave me tied up like this?
+
+REKGC_3_CALLOUT_03 = ~z~What the hell you waiting on, huh? This ain't right!
+
+REKGC_3_CALLOUT_04 = ~z~Oh... goddamn the lot of you...
+
+REKGC_3_CARRY_01 = ~z~~sl:0.9~What you carrying me for?
+
+REKGC_3_CARRY_02 = ~z~It's real uncomfortable being carried like this...
+
+REKGC_3_CARRY_03 = ~z~Why you doing this?
+
+REKGC_3_CUT_01 = ~z~Get these ropes, okay?
+
+REKGC_3_CUT_02 = ~z~You got a knife, right?
+
+REKGC_3_GIVEUP_01 = ~z~Oh...
+
+REKGC_3_GIVEUP_02 = ~z~I don't wanna die...
+
+REKGC_3_GROUND_1 = ~z~~sl:1.0~Hey, I'm hurt here...
+
+REKGC_3_LOAD_1 = ~z~Whoa, what, where you taking me?
+
+REKGC_3_NOTCUT_01 = ~z~These ropes are real tight...
+
+REKGC_3_NOTCUT_02 = ~z~C'mon, you gonna leave me here?
+
+REKGC_3_NOTCUT_03 = ~z~Can you free me now?
+
+REKGC_3_OUTKILL_1 = ~z~~sl:0.6~I don't believe it...
+
+REKGC_3_PFIGHT_01 = ~z~What's happening? What's happening?
+
+REKGC_3_PFIGHT_02 = ~z~Oh, Jesus...
+
+REKGC_3_RIDEOFF_1 = ~z~~sl:1.1:1.0~This...~sl:0.4:2.0~this just won't end...
+
+REKGC_3_SPOT1_01 = ~z~Oh, thank God... hey! I need help here!
+
+REKGC_3_SPOT1_02 = ~z~You there, you gotta get help! They got me tied up!
+
+REKGC_3_SPOT2_01 = ~z~Don't just go!
+
+REKGC_3_SPOT2_02 = ~z~They're gonna hurt me!
+
+REKGC_3_SPOT2_03 = ~z~Do the right thing, please...
+
+REKGC_3_SPOT2_04 = ~z~You gotta stop this! You gotta!
+
+REKGC_3_THANKS_1 = ~z~~sl:0.0:2.4~Oh... oh, thank you...~sl:0.4:3.2~sons of bitches, they would've done me wrong...~sl:0.6~bad men.
+
+REKGC_3_WALKOFF_1 = ~z~Not one thing it's another...
+
+REKGC_4_AGTHNKS_1 = ~z~~sl:0.0:3.2~You... you are a strange one, but...~sl:~I still owe you for helping me. Thank you.
+
+REKGC_4_CALLOUT_01 = ~z~Why you doing this to me? I ain't a wealthy man...
+
+REKGC_4_CALLOUT_02 = ~z~Come on. Can't we work this out peaceably?
+
+REKGC_4_CALLOUT_03 = ~z~What are you going to do with me?
+
+REKGC_4_CALLOUT_04 = ~z~Please, this is hurting me.
+
+REKGC_4_CARRY_01 = ~z~I don't need you to carry me anywhere...
+
+REKGC_4_CARRY_02 = ~z~Could you put me down, maybe?
+
+REKGC_4_CARRY_03 = ~z~Where you taking me?
+
+REKGC_4_CUT_01 = ~z~Help me with the ropes here if you can...
+
+REKGC_4_CUT_02 = ~z~Could you help me with these ropes?
+
+REKGC_4_GIVEUP_01 = ~z~Oh, God... I'm done for.
+
+REKGC_4_GIVEUP_02 = ~z~
+
+REKGC_4_GROUND_1 = ~z~Ouch! Hey, there's no need for that.
+
+REKGC_4_LOAD_1 = ~z~What? What's going on?
+
+REKGC_4_NOTCUT_01 = ~z~Please. These ropes are tight...
+
+REKGC_4_NOTCUT_02 = ~z~Just cut me loose so I can get out of here.
+
+REKGC_4_NOTCUT_03 = ~z~What are you waiting for?
+
+REKGC_4_OUTKILL_1 = ~z~That was impressive...
+
+REKGC_4_PFIGHT_01 = ~z~What's happening?
+
+REKGC_4_PFIGHT_02 = ~z~Don't hurt me!
+
+REKGC_4_RIDEOFF_1 = ~z~Oh... you're kidnapping me now? Oh, God..
+
+REKGC_4_SPOT1_01 = ~z~Hey! Over here, they got me tied up!
+
+REKGC_4_SPOT1_02 = ~z~Hello? I've been kidnapped here!
+
+REKGC_4_SPOT2_01 = ~z~These men got guns!
+
+REKGC_4_SPOT2_02 = ~z~Please, I'm in trouble here!
+
+REKGC_4_SPOT2_03 = ~z~You gotta help me!
+
+REKGC_4_SPOT2_04 = ~z~Please, please... help...
+
+REKGC_4_THANKS_1 = ~z~~sl:0.0:3.1~I don't know what they was after, but you did me good.~sl:~That was some kind of nightmare... thank you.
+
+REKGC_4_WALKOFF_1 = ~z~Ain't one thing it's another...
+
+REKGC_KD1_AGGRO_01 = ~z~You gonna regret not heeding my orders!
+
+REKGC_KD1_AGGRO_02 = ~z~Just put this idiot in the goddamn ground!
+
+REKGC_KD1_CALL_1 = ~z~Oh, for the love of God.
+
+REKGC_KD1_LEAVE_01 = ~z~~sl:0.0:2.4~Right. Next time I'll put so many holes in ya,~sl:~the wind will blow through ya.
+
+REKGC_KD1_LEAVE_02 = ~z~Good, you ain't even worth the bullet it'd take to put ya down.
+
+REKGC_KD1_PATTK_01 = ~z~You're a walking corpse now!
+
+REKGC_KD1_PATTK_02 = ~z~You're going in the ground!
+
+REKGC_KD1_SEEN_01 = ~z~Is this your dumb way of looking for trouble?
+
+REKGC_KD1_SEEN_02 = ~z~So you're ugly and stupid, huh?
+
+REKGC_KD1_SEEN_03 = ~z~Listen, fool, stay the hell away.
+
+REKGC_KD1_SEEN_04 = ~z~You think you're a lawman? Go to hell!
+
+REKGC_KD2_AGGRO_01 = ~z~I mean what I say.
+
+REKGC_KD2_AGGRO_02 = ~z~Just drop that hog pile!
+
+REKGC_KD2_CALL_1 = ~z~For damn sakes.
+
+REKGC_KD2_LEAVE_01 = ~z~Smart.
+
+REKGC_KD2_LEAVE_02 = ~z~This is the luckiest day of your life.
+
+REKGC_KD2_PATTK_01 = ~z~The dogs'll get fresh meat tonight.
+
+REKGC_KD2_PATTK_02 = ~z~You're dead.
+
+REKGC_KD2_SEEN_01 = ~z~I don't think you wanna get into this.
+
+REKGC_KD2_SEEN_02 = ~z~I think you need to find someone else to pester.
+
+REKGC_KD2_SEEN_03 = ~z~What's the matter? You see something you don't like?
+
+REKGC_KD2_SEEN_04 = ~z~Hey. You got a problem with this?
+
+REKGC_KD3_AGGRO_01 = ~z~You need me to clean out your ears?
+
+REKGC_KD3_AGGRO_02 = ~z~~sl:0.0:0.9~Just kill 'em...~sl:0.5~now!
+
+REKGC_KD3_CALL_1 = ~z~Come on.
+
+REKGC_KD3_LEAVE_01 = ~z~Good.
+
+REKGC_KD3_LEAVE_02 = ~z~That's what I thought.
+
+REKGC_KD3_PATTK_01 = ~z~You're dead as hell!
+
+REKGC_KD3_PATTK_02 = ~z~Here you are!
+
+REKGC_KD3_SEEN_01 = ~z~Your momma didn't teach you to mind your own, did she?
+
+REKGC_KD3_SEEN_02 = ~z~Why don't you scurry yourself into the distance there?
+
+REKGC_KD3_SEEN_03 = ~z~You got some kind of issue with this?
+
+REKGC_KD3_SEEN_04 = ~z~I'd cut it out if I were you, or you're next.
+
+REKGC_KD4_AGGRO_01 = ~z~Shoulda listened!
+
+REKGC_KD4_AGGRO_02 = ~z~Ah, just kill 'em for pete's sake!
+
+REKGC_KD4_CALL_1 = ~z~Oh, come on.
+
+REKGC_KD4_LEAVE_01 = ~z~Trust me, better this way.
+
+REKGC_KD4_LEAVE_02 = ~z~Good decision.
+
+REKGC_KD4_PATTK_01 = ~z~That's it! You're done!
+
+REKGC_KD4_PATTK_02 = ~z~Today's your dying day!
+
+REKGC_KD4_SEEN_01 = ~z~You gonna push this, wise ass?
+
+REKGC_KD4_SEEN_02 = ~z~Think twice and move on, blowhard.
+
+REKGC_KD4_SEEN_03 = ~z~You got something to say here, jackass?
+

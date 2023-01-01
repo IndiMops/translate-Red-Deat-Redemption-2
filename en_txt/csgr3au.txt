@@ -1,0 +1,12 @@
+CSGR3_ACTN_1 = ~z~So you're still acting crazy, Mr. Morgan?
+
+CSGR3_ACTN_2 = ~z~I am crazy, Miss Grimshaw. Ain't no changing me now.
+
+CSGR3_ACTN_3 = ~z~We all change every day, Mr. Morgan.
+
+CSGR3_ACTN_4 = ~z~I'm too near the end to change.
+
+CSGR3_ACTN_5 = ~z~You're too near the end not to!
+
+CSGR3_ACTN_6 = ~z~Now calm down out there and stop shooting innocent folk!
+

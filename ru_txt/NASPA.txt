@@ -1,0 +1,102 @@
+0x0079FA68 = Усыпите ~COLOR_MP_OBJECTIVE~пантеру Ивакту~s~.
+
+0x8F648E41 = От капкана ведут следы пантеры. Используйте «Орлиный глаз», чтобы идти по следу.
+
+0x77EF9F09 = Это животное убила не пантера. Поищите другие следы.
+
+0x712CEF52 = Похоже, что эта лужа крови осталась на месте нападения. Используйте «Орлиный глаз», чтобы идти по следу пантеры.
+
+0xB4C0E385 = Похоже, что этого браконьера растерзала пантера. Отсюда ведут следы. Используйте «Орлиный глаз», чтобы идти по следам.
+
+0xE9E692F4 = Кто-то потерял много крови во время нападения. Вдали слышно рычание пантеры.
+
+FETCH_NAT_SIGHT_PANTHER_CLUE_BLOOD_CAPTURED = Следы заканчиваются здесь. Скорее всего, это кровь пантеры. Осмотрите окрестности и найдите охотников, которые это сделали.
+
+FETCH_NAT_SIGHT_PANTHER_GOTO_REACHED = Пантера Ивакта была поблизости. Нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~ , чтобы активировать «Орлиный глаз» и поискать ее следы.
+
+FETCH_NAT_SIGHT_PANTHER_GOTO_REACHED_KM = Пантера Ивакта была поблизости. Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» и поискать ее следы.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_CLUE_BASKET = Похоже, эту корзину бросили в спешке, однако никаких признаков нападения нет. Поищите другие следы.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_CLUE_BONE_PILE = Похоже, это кости жертвы пантеры. Однако свежих следов пантеры здесь нет. Продолжайте поиски.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_CLUE_COUGAR = Это животное умерло слишком давно. Поищите другие следы.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_CLUE_DEAD_HORSE = Туша лошади была частично съедена пантерой, но ее следов нигде нет. Поищите другие следы.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_CLUE_DEER = Туша оленя-самца была частично съедена пантерой, но ее следов нигде нет. Поищите другие следы.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_CLUE_PANTHER_KILL = Кажется, эти кишки вырвало какое-то животное. Отсюда ведут следы пантеры. Используйте «Орлиный глаз», чтобы идти по следам.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_CLUE_POACHER = Похоже, что этого браконьера растерзала пантера, но она не оставила никаких следов. Продолжайте искать следы.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_CLUE_SHOVEL = Похоже, что эту лопату оставил рабочий, но вы не видите никаких следов борьбы. Поищите другие следы.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_CLUE_TENT = Эту палатку недавно разграбили и здесь есть следы пантеры и браконьеров. Пантера Ивакта должна быть неподалеку.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_CLUE_VISCERA = Эти останки свидетельствуют о нападении животного, но следов пантеры нет. Поищите другие следы.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_GO_TO_ATTACK_LOCATION = Рабочие упомянули, что нападение произошло на верхнем поле. Отправляйтесь туда и поищите следы легендарной пантеры Ивакты.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_INVESTIGATE_SOUND = Разберитесь, что это был за шум, и найдите ~COLOR_MP_OBJECTIVE~пантеру Ивакту~s~.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_LOOK_AT_CLUE = Сфокусироваться на следе
+
+FETCH_NAT_SIGHT_PANTHER_HELP_OBJECTIVE_DEAD = Пантера Ивакта усыплена. Добудьте образец.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_OBJECTIVE_ESCAPING = ~COLOR_MP_OBJECTIVE~Легендарная пантера Ивакта~s~ ушла слишком далеко и скоро сможет скрыться.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_PRIMARY = Выследите легендарную пантеру Ивакту ~1b~. Усыпите ее и добудьте образец.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_SEARCH = Нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» и поискать следы пантеры Ивакты.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_SEARCH_CLUE_DEAD_END = В последнее время пантера Ивакта здесь не бывала. Поищите другие следы.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_SEARCH_CLUE_FOUND = Вы обнаружили следы пантеры Ивакты. Разыщите это животное.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_SEARCH_CLUE_TRAIL = Вы нашли след ~1b~. Используйте «Орлиный глаз», чтобы идти по следам легендарной пантеры Ивакты.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_SEARCH_CLUE_TRAP = Похоже, в этот капкан еще никто не попался. Поищите другие следы.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_SEARCH_HORSE = Похоже, что эту лошадь растерзал дикий зверь. Отсюда ведут следы пантеры. Используйте «Орлиный глаз», чтобы идти по следам.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_SEARCH_KM = Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз» и поискать следы пантеры Ивакты.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_SKIN = Чтобы добыть образец, удерживайте ~INPUT_CONTEXT_Y~.
+
+FETCH_NAT_SIGHT_PANTHER_HELP_WATCHING = Вы чувствуете, что кто-то крадется за вами...
+
+FETCH_NAT_SIGHT_PANTHER_INSPECT_CLUE = Осмотреть
+
+FETCH_NAT_SIGHT_PANTHER_OBJ_FIND = Идите по ~COLOR_MP_OBJECTIVE~следу~s~ пантеры Ивакты.
+
+FETCH_NAT_SIGHT_PANTHER_OBJ_FIND_GUNFIRE = Узнайте, из-за чего происходит ~COLOR_ENEMY~стрельба~s~.
+
+FETCH_NAT_SIGHT_PANTHER_OBJ_FIND_POACHERS = Осмотрите ~COLOR_MP_OBJECTIVE~местность~s~ и найдите лагерь браконьеров.
+
+FETCH_NAT_SIGHT_PANTHER_OBJ_GOTO_0 = Направляйтесь в ~COLOR_MP_OBJECTIVE~поместье Брейтуэйтов~s~.
+
+FETCH_NAT_SIGHT_PANTHER_OBJ_GOTO_1 = Направляйтесь на ~COLOR_MP_OBJECTIVE~поле~s~.
+
+FETCH_NAT_SIGHT_PANTHER_OBJ_GOTO_2 = Направляйтесь в ~COLOR_MP_OBJECTIVE~место~s~, где замечено животное.
+
+FETCH_NAT_SIGHT_PANTHER_OBJ_KILL_POACHERS = Перебейте ~COLOR_ENEMY~браконьеров~s~.
+
+FETCH_NAT_SIGHT_PANTHER_OBJ_LOOT = Добудьте образец из ~COLOR_MP_OBJECTIVE~пантеры Ивакты~s~.
+
+FETCH_NAT_SIGHT_PANTHER_OBJ_SEARCH_AREA = Осмотрите ~COLOR_MP_OBJECTIVE~местность~s~ и найдите следы пантеры Ивакты.
+
+FETCH_NAT_SIGHT_PANTHER_OBJ_STANDARD_CAGED = Выясните, где браконьеры держат пантеру Ивакту.
+
+FETCH_NAT_SIGHT_PANTHER_SCORETIMER_CLUE_INSPECTED = Игрок ~COLOR_MP_OBJECTIVE_FRIENDLY~~1~~s~ осмотрел следы
+
+FETCH_NAT_SIGHT_PANTHER_SHARD_DESTROYED = Шкура пантеры Ивакты повреждена
+
+FETCH_NAT_SIGHT_PANTHER_SHARD_ESCAPED = Легендарная пантера Ивакта сбежала
+
+FETCH_NAT_SIGHT_PANTHER_SHARD_PRIMARY_INTRO = Добудьте образец из пантеры Ивакты
+
+FETCH_NAT_SIGHT_PANTHER_SHARD_PRIMARY_PASS = Образец из пантеры Ивакты получен
+
+FETCH_NAT_SIGHT_PANTHER_SHARD_PRIMARY_PASS_PARTIAL = Пантера Ивакта освежевана
+

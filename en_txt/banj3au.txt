@@ -1,0 +1,28 @@
+BANJ3_ACTION_1 = ~z~Would you like me to read a passage to you, momma?
+
+BANJ3_ACTION_2 = ~z~What is it?
+
+BANJ3_ACTION_3 = ~z~It's from one of them books, it's... it's about cowboys.
+
+BANJ3_ACTION_4 = ~z~Cowboys?
+
+BANJ3_ACTION_5 = ~z~Well, not real ones, like, like gunslingers. It's real silly.
+
+BANJ3_ACTION_6 = ~z~No... I think I had enough of silly idiots who think they're gunslingers...
+
+BANJ3_ACTION_7 = ~z~My whole goddamn life I've been surrounded by idiots who thought they were living in a book...
+
+BANJ3_ACTION_8 = ~z~Only it ain't that way.
+
+BANJ3_ACTION_9 = ~z~N-no, no... I guess it ain't... just listen to this, alright?
+
+BANJ3_ACTION_10 = ~z~"Frank Heck... Frank Heck looked at the sheriff coldly... “clearly you don't know who I am.” He snarled.
+
+BANJ3_ACTION_11 = ~z~And before the sheriff could blink, the fastest young man West of the Grizzlies had filled him full of cold lead.
+
+BANJ3_ACTION_12 = ~z~The town was free once more.”
+
+BANJ3_ACTION_13 = ~z~Who writes that nonsense? Go to bed, son.
+
+BANJ3_ACTION_14 = ~z~Yeah, I know.
+

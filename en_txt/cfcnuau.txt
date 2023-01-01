@@ -1,0 +1,48 @@
+CFCNU_ACT_1 = ~z~How you keeping?
+
+CFCNU_ACT_2 = ~z~I'm keeping.
+
+CFCNU_ACT_3 = ~z~I like that... big, tough, taciturn.
+
+CFCNU_ACT_4 = ~z~Yes, that's the word, taciturn.
+
+CFCNU_ACT_5 = ~z~Is it? I don't know what it means.
+
+CFCNU_ACT_6 = ~z~Well... kinda means big and tough, and...
+
+CFCNU_ACT_7 = ~z~hiding how dumb you are by not saying much.
+
+CFCNU_ACT_8 = ~z~That's me.
+
+CFCNU_ACT_9 = ~z~Oh, it doesn't have to be.
+
+CFCNU_ACT_10 = ~z~If the choice is folks thinking I'm dumb but not knowing for sure,
+
+CFCNU_ACT_11 = ~z~and folks knowing I'm dumb because I sound like you,
+
+CFCNU_ACT_12 = ~z~
+
+CFCNU_ACT_13 = ~z~I think I'd rather keep them wondering.
+
+CFCNU_ACT_14 = ~z~I see what you did there, mighty clever. You know, maybe you ain't so dumb.
+
+CFCNU_ACT_15 = ~z~In that case, you'll say something.
+
+CFCNU_ACT_16 = ~z~Say what?
+
+CFCNU_ACT_17 = ~z~I don't know... if I knew, I'd say it.
+
+CFCNU_ACT_18 = ~z~Maybe it just don't need to be said, ever think of that?
+
+CFCNU_ACT_19 = ~z~Maybe... maybe silence is okay.
+
+CFCNU_ACT_20 = ~z~Silence... silence, I've got enough time for silence. It's called eternity.
+
+CFCNU_ACT_21 = ~z~I'm starting to understand eternity a little better, it's going to be a lot like this conversation.
+
+CFCNU_ACT_22 = ~z~You are a very boring man, Charles Smith. You know that?
+
+CFCNU_ACT_23 = ~z~So you keep telling me.
+
+CFCNU_ACT_24 = ~z~
+

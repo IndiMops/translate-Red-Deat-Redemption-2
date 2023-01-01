@@ -1,0 +1,378 @@
+SHRCT_FEMBOOA_01 = ~z~Дамам такое не к лицу!
+
+SHRCT_FEMBOOA_02 = ~z~Женщины так себя вести не должны!
+
+SHRCT_FEMBOOA_03 = ~z~Она ненастоящая!
+
+SHRCT_FEMBOOA_04 = ~z~Она ужасна!
+
+SHRCT_FEMBOOA_05 = ~z~Я от нее уже устал!
+
+SHRCT_FEMBOOA_06 = ~z~Что это там происходит?
+
+SHRCT_FEMBOOA_07 = ~z~Гоните ее со сцены!
+
+SHRCT_FEMBOOA_08 = ~z~Иди лучше ужин готовь!
+
+SHRCT_FEMBOOA_09 = ~z~Твое место – на кухне!
+
+SHRCT_FEMBOOA_10 = ~z~Она сумасшедшая!
+
+SHRCT_FEMBOOJ_01 = ~z~Замените ее кем-нибудь!
+
+SHRCT_FEMBOOJ_02 = ~z~Что с ней такое?
+
+SHRCT_FEMBOOJ_03 = ~z~Ты не американка!
+
+SHRCT_FEMBOOJ_04 = ~z~Нас не обманешь!
+
+SHRCT_FEMBOOJ_05 = ~z~Уйди со сцены!
+
+SHRCT_FEMBOOJ_06 = ~z~Это что за женщина такая?
+
+SHRCT_FEMBOOJ_07 = ~z~Где они ее нашли? В Нью-Йорке?
+
+SHRCT_FEMBOOJ_08 = ~z~Что с тобой не так?
+
+SHRCT_FEMBOOJ_09 = ~z~Понятно, почему ты не замужем!
+
+SHRCT_FEMBOOJ_10 = ~z~Она ничего не умеет!
+
+SHRCT_FEMCHEERA_01 = ~z~Она прелесть, правда?
+
+SHRCT_FEMCHEERA_02 = ~z~Красавица!
+
+SHRCT_FEMCHEERA_03 = ~z~Да, крошка!
+
+SHRCT_FEMCHEERA_04 = ~z~Какая деваха!
+
+SHRCT_FEMCHEERA_05 = ~z~Умница!
+
+SHRCT_FEMCHEERA_06 = ~z~Посмотрите на нее!
+
+SHRCT_FEMCHEERA_07 = ~z~Я на тебе женюсь!
+
+SHRCT_FEMCHEERA_08 = ~z~Ты прекрасна!
+
+SHRCT_FEMCHEERA_09 = ~z~Я влюбился!
+
+SHRCT_FEMCHEERA_10 = ~z~Она бесподобна!
+
+SHRCT_FEMCHEERJ_01 = ~z~А она девушка серьезная!
+
+SHRCT_FEMCHEERJ_02 = ~z~Вы посмотрите на нее!
+
+SHRCT_FEMCHEERJ_03 = ~z~Это вам не игрушки.
+
+SHRCT_FEMCHEERJ_04 = ~z~Ого... С ней шутки плохи.
+
+SHRCT_FEMCHEERJ_05 = ~z~Вот бы с такой на сеновале покуролесить!
+
+SHRCT_FEMCHEERJ_06 = ~z~А она ничего.
+
+SHRCT_FEMCHEERJ_07 = ~z~Она великолепна!
+
+SHRCT_FEMCHEERJ_08 = ~z~Вы только посмотрите!
+
+SHRCT_FEMCHEERJ_09 = ~z~Я влюбился!
+
+SHRCT_FEMCHEERJ_10 = ~z~Ну разве не красавица?
+
+SHRCT_GENBOOA_01 = ~z~Дрянь какая-то!
+
+SHRCT_GENBOOA_02 = ~z~Давайте другой номер!
+
+SHRCT_GENBOOA_03 = ~z~Проваливай со сцены!
+
+SHRCT_GENBOOA_04 = ~z~Надувательство!
+
+SHRCT_GENBOOA_05 = ~z~Позор.
+
+SHRCT_GENBOOA_06 = ~z~Ну что это такое?
+
+SHRCT_GENBOOA_07 = ~z~Вы серьезно?
+
+SHRCT_GENBOOA_08 = ~z~Всем плевать!
+
+SHRCT_GENBOOA_09 = ~z~Так не пойдет!
+
+SHRCT_GENBOOA_10 = ~z~Придумай что получше!
+
+SHRCT_GENBOOA_11 = ~z~Что это за чушь?
+
+SHRCT_GENBOOA_12 = ~z~Курам на смех!
+
+SHRCT_GENBOOA_13 = ~z~Хуже я еще ничего не видел.
+
+SHRCT_GENBOOA_14 = ~z~Верните нам деньги!
+
+SHRCT_GENBOOA_15 = ~z~Таланта в тебе ни на грош!
+
+SHRCT_GENBOOA_16 = ~z~
+
+SHRCT_GENBOOA_17 = ~z~Жулики.
+
+SHRCT_GENBOOA_18 = ~z~Фу.
+
+SHRCT_GENBOOA_19 = ~z~
+
+SHRCT_GENBOOA_20 = ~z~Ужасно!
+
+SHRCT_GENBOOA_21 = ~z~
+
+SHRCT_GENBOOA_22 = ~z~Ерунда!
+
+SHRCT_GENBOOA_23 = ~z~Чепуха!
+
+SHRCT_GENBOOA_24 = ~z~Уходи!
+
+SHRCT_GENBOOA_25 = ~z~Домой иди!
+
+SHRCT_GENBOOA_26 = ~z~Слезай!
+
+SHRCT_GENBOOA_27 = ~z~Вали отсюда!
+
+SHRCT_GENBOOA_28 = ~z~Фу!
+
+SHRCT_GENBOOJ_01 = ~z~Дрянь какая-то!
+
+SHRCT_GENBOOJ_02 = ~z~Давайте другой номер!
+
+SHRCT_GENBOOJ_03 = ~z~Проваливай со сцены!
+
+SHRCT_GENBOOJ_04 = ~z~Надувательство!
+
+SHRCT_GENBOOJ_05 = ~z~Позор.
+
+SHRCT_GENBOOJ_06 = ~z~Ну что это такое?
+
+SHRCT_GENBOOJ_07 = ~z~Вы серьезно?
+
+SHRCT_GENBOOJ_08 = ~z~Всем плевать!
+
+SHRCT_GENBOOJ_09 = ~z~Так не пойдет!
+
+SHRCT_GENBOOJ_10 = ~z~Придумай что получше!
+
+SHRCT_GENBOOJ_11 = ~z~Что это за чушь?
+
+SHRCT_GENBOOJ_12 = ~z~Курам на смех!
+
+SHRCT_GENBOOJ_13 = ~z~Хуже я еще ничего не видел.
+
+SHRCT_GENBOOJ_14 = ~z~Верните нам деньги!
+
+SHRCT_GENBOOJ_15 = ~z~Таланта в тебе ни на грош!
+
+SHRCT_GENBOOJ_16 = ~z~
+
+SHRCT_GENBOOJ_17 = ~z~Жулики!
+
+SHRCT_GENBOOJ_18 = ~z~Фу!
+
+SHRCT_GENBOOJ_19 = ~z~Ужасно!
+
+SHRCT_GENBOOJ_20 = ~z~
+
+SHRCT_GENBOOJ_21 = ~z~Ерунда!
+
+SHRCT_GENBOOJ_22 = ~z~Чепуха!
+
+SHRCT_GENBOOJ_23 = ~z~Уходи!
+
+SHRCT_GENBOOJ_24 = ~z~Домой иди!
+
+SHRCT_GENBOOJ_25 = ~z~Слезай!
+
+SHRCT_GENBOOJ_26 = ~z~Вали отсюда!
+
+SHRCT_GENBOOJ_27 = ~z~Фу!
+
+SHRCT_GENCHEERA_01 = ~z~Здорово!
+
+SHRCT_GENCHEERA_02 = ~z~Да! Давай!
+
+SHRCT_GENCHEERA_03 = ~z~
+
+SHRCT_GENCHEERA_04 = ~z~Вы видали?
+
+SHRCT_GENCHEERA_05 = ~z~Ничего себе!
+
+SHRCT_GENCHEERA_06 = ~z~Поразительно!
+
+SHRCT_GENCHEERA_07 = ~z~Прекрасно!
+
+SHRCT_GENCHEERA_08 = ~z~Посмотрим.
+
+SHRCT_GENCHEERA_09 = ~z~Прекрасно!
+
+SHRCT_GENCHEERA_10 = ~z~Это что-то с чем-то!
+
+SHRCT_GENCHEERA_11 = ~z~Вот это да!
+
+SHRCT_GENCHEERA_12 = ~z~Вы видали?
+
+SHRCT_GENCHEERA_13 = ~z~Давайте дальше!
+
+SHRCT_GENCHEERA_14 = ~z~Мне нравится.
+
+SHRCT_GENCHEERA_15 = ~z~Вот здорово!
+
+SHRCT_GENCHEERA_16 = ~z~Давайте!
+
+SHRCT_GENCHEERA_17 = ~z~Мы хотим еще!
+
+SHRCT_GENCHEERA_18 = ~z~Просто потрясающе!
+
+SHRCT_GENCHEERA_19 = ~z~Давайте еще!
+
+SHRCT_GENCHEERA_20 = ~z~
+
+SHRCT_GENCHEERA_21 = ~z~
+
+SHRCT_GENCHEERA_22 = ~z~
+
+SHRCT_GENCHEERA_23 = ~z~Еще!
+
+SHRCT_GENCHEERJ_01 = ~z~Здорово!
+
+SHRCT_GENCHEERJ_02 = ~z~Да! Давай!
+
+SHRCT_GENCHEERJ_03 = ~z~
+
+SHRCT_GENCHEERJ_04 = ~z~Вы видали?
+
+SHRCT_GENCHEERJ_05 = ~z~Ничего себе!
+
+SHRCT_GENCHEERJ_06 = ~z~Поразительно!
+
+SHRCT_GENCHEERJ_07 = ~z~Прекрасно!
+
+SHRCT_GENCHEERJ_08 = ~z~Посмотрим.
+
+SHRCT_GENCHEERJ_09 = ~z~Прекрасно!
+
+SHRCT_GENCHEERJ_10 = ~z~Это что-то с чем-то.
+
+SHRCT_GENCHEERJ_11 = ~z~Вот это да!
+
+SHRCT_GENCHEERJ_12 = ~z~Вы видали?
+
+SHRCT_GENCHEERJ_13 = ~z~Давайте дальше!
+
+SHRCT_GENCHEERJ_14 = ~z~Я в восторге!
+
+SHRCT_GENCHEERJ_15 = ~z~Вот здорово!
+
+SHRCT_GENCHEERJ_16 = ~z~Давайте!
+
+SHRCT_GENCHEERJ_17 = ~z~Мы хотим еще!
+
+SHRCT_GENCHEERJ_18 = ~z~Просто потрясающе!
+
+SHRCT_GENCHEERJ_19 = ~z~Давайте еще!
+
+SHRCT_GENCHEERJ_20 = ~z~
+
+SHRCT_GENCHEERJ_21 = ~z~
+
+SHRCT_GENCHEERJ_22 = ~z~
+
+SHRCT_GENCHEERJ_23 = ~z~Еще!
+
+SHRCT_PRBOO_A_01 = ~z~Показывайте другой номер!
+
+SHRCT_PRBOO_A_02 = ~z~Вы нас за идиотов принимаете?
+
+SHRCT_PRBOO_A_03 = ~z~Это вы нам должны платить за такое!
+
+SHRCT_PRBOO_A_04 = ~z~Покажи что-нибудь интересное!
+
+SHRCT_PRBOO_A_05 = ~z~Пригласите кого-нибудь получше.
+
+SHRCT_PRBOO_A_06 = ~z~Отвратительное шоу!
+
+SHRCT_PRBOO_A_07 = ~z~Я вот за это деньги заплатил?
+
+SHRCT_PRBOO_A_08 = ~z~Здесь это называют развлечением?
+
+SHRCT_PRBOO_A_09 = ~z~Да как вы можете брать за это деньги!
+
+SHRCT_PRBOO_A_10 = ~z~Смотреть на сохнущую краску – и то интереснее!
+
+SHRCT_PRBOO_A_11 = ~z~Дрянь.
+
+SHRCT_PRBOO_A_12 = ~z~Редкостная дрянь!
+
+SHRCT_PRBOO_A_13 = ~z~Дерьмо!
+
+SHRCT_PRBOO_A_14 = ~z~Полное дерьмо!
+
+SHRCT_PRBOO_A_15 = ~z~Ищи себе другую работу!
+
+SHRCT_PRBOO_A_16 = ~z~Прекрати!
+
+SHRCT_PRBOO_A_17 = ~z~Идите домой!
+
+SHRCT_PRBOO_A_18 = ~z~Черт!
+
+SHRCT_PRBOO_J_01 = ~z~Да всем наплевать, что ты там несешь!
+
+SHRCT_PRBOO_J_02 = ~z~И это, по-вашему, развлечения?
+
+SHRCT_PRBOO_J_03 = ~z~Уберите это посмешище со сцены!
+
+SHRCT_PRBOO_J_04 = ~z~Долго нам еще это терпеть?
+
+SHRCT_PRBOO_J_05 = ~z~В тебе нет ни капли таланта!
+
+SHRCT_PRBOO_J_06 = ~z~Где они тебя откопали?
+
+SHRCT_PRBOO_J_07 = ~z~Давайте другой номер!
+
+SHRCT_PRBOO_J_08 = ~z~Боже праведный! Это отвратительно!
+
+SHRCT_PRBOO_J_09 = ~z~Возьмитесь за ум и зарабатывайте на жизнь честным трудом!
+
+SHRCT_PRBOO_J_10 = ~z~Какого дьявола? Это ужасно!
+
+SHRCT_PRCHEER_A_01 = ~z~Ничего себе представление!
+
+SHRCT_PRCHEER_A_02 = ~z~Это лучшее шоу из всех, что я видел!
+
+SHRCT_PRCHEER_A_03 = ~z~Черт возьми! Это что-то с чем-то.
+
+SHRCT_PRCHEER_A_04 = ~z~Давайте еще артистов!
+
+SHRCT_PRCHEER_A_05 = ~z~За такое и вдвое больше не жалко заплатить!
+
+SHRCT_PRCHEER_A_06 = ~z~Зовите глотателя шпаг!
+
+SHRCT_PRCHEER_A_07 = ~z~Покажите нам, как это делается!
+
+SHRCT_PRCHEER_A_08 = ~z~Я такого нигде не видел!
+
+SHRCT_PRCHEER_A_09 = ~z~Черт, вот это веселье!
+
+SHRCT_PRCHEER_A_10 = ~z~Лучшее шоу в Сен-Дени!
+
+SHRCT_PRCHEER_J_01 = ~z~Отменное представление!
+
+SHRCT_PRCHEER_J_02 = ~z~Я хоть всю ночь могу на это смотреть!
+
+SHRCT_PRCHEER_J_03 = ~z~Это что-то с чем-то! Прекрасно!
+
+SHRCT_PRCHEER_J_04 = ~z~Куда лучше, чем шоу волшебных фонарей!
+
+SHRCT_PRCHEER_J_05 = ~z~А танцующих карликов у вас нет?
+
+SHRCT_PRCHEER_J_06 = ~z~Вот как нужно устраивать представление!
+
+SHRCT_PRCHEER_J_07 = ~z~Это лучше, чем сидеть у костра!
+
+SHRCT_PRCHEER_J_08 = ~z~Тут должны продавать виски.
+
+SHRCT_PRCHEER_J_09 = ~z~Отличное у вас представление!
+
+SHRCT_PRCHEER_J_10 = ~z~Что будешь делать после представления?
+

@@ -1,0 +1,182 @@
+0x00B0BD37 = ~z~I done killed a man before, y'know.
+
+0x08EE3A08 = ~z~I'm a free man!
+
+0x09436B9E = ~z~Help me!
+
+0x0A0DAD64 = ~z~~sl:0.0:5.0~Come on then! Talk if you're so good at talking.~sl:2.7:0.8~What was that?~sl:3.0:2.0:1~I can't hear you!
+
+0x0E817C95 = ~z~Eaves-dropping son of a bitch!
+
+0x1B9AC86C = ~z~Oh, I'm sorry. Can I help you?
+
+0x1D652F7A = ~z~A man's in charge of his own home!
+
+0x2C223F37 = ~z~Damn you, I'll fight if you push me to it.
+
+0x3AA30838 = ~z~I hope you burn in hell!
+
+0x4CE2D6BA = ~z~I done nothing wrong. Not a goddamned thing. Damn you.
+
+0x4E31AF55 = ~z~Waste of my goddamn time.
+
+0x4EA7C96A = ~z~I ain't gonna just let this pass.
+
+0x5A6BD75C = ~z~Well, I'll just pay you no heed.
+
+0x5B4DAC79 = ~z~You did the right thing, partner.
+
+0x5E82F6F3 = ~z~Believe me, feller, I don't need to beat on no one. She needed a lesson is what.
+
+0x5F2F4144 = ~z~Trust me, I'm all done with women.
+
+0x6D76C91D = ~z~You think Malloy's gonna keep me for more'n an hour? You got a surprise coming.
+
+0x6DD8DDAD = ~z~Hey, hey! What is this?
+
+0x6E870B38 = ~z~You ain't supposed to be here, y'know?
+
+0x7B5AA399 = ~z~I know you're up to no good 'round here...
+
+0x8FB823B3 = ~z~Oh, hell, no!
+
+0x9ADAAECA = ~z~You're taking me to the law? This has nothing to do with you, dammit.
+
+0x9B79D950 = ~z~You're insane!
+
+0x9D3DC4FD = ~z~This is bullshit!
+
+0x9EE9F480 = ~z~I said this is private! Get outta here.
+
+0x19CB9A8A = ~z~I ain't afraid of you.
+
+0x19F3DF73 = ~z~You lousy bitch!
+
+0x33D98A20 = ~z~Go to hell!
+
+0x35BF2FD6 = ~z~She did enough. More than. Can't believe I married that whore.
+
+0x36DBA98C = ~z~I ain't afraid to get blood on my hands.
+
+0x46BA4949 = ~z~I ain't afraid to get blood on my hands.
+
+0x55E87461 = ~z~You see what happens?
+
+0x56D710AB = ~z~You're gonna leave me like this? I'm hanging meat! Free me! Free me!
+
+0x60EE6DF7 = ~z~Let's see what the lawman's got to say.
+
+0x73A1000F = ~z~Why don't you mind your own business?
+
+0x82A8A1BD = ~z~You bastard, untie me.
+
+0x85F8C094 = ~z~Well damn. You almost made me shoot you.
+
+0x143D0480 = ~z~Ain't got no money, take this instead.
+
+0x162AE3A0 = ~z~You, you aren't man enough to pull that.
+
+0x174B14E5 = ~z~~sl:4.0:1.0:1~What now, huh?
+
+0x304E4270 = ~z~Jesus, okay, take this.
+
+0x385E72DC = ~z~You think I'm just a fool, huh?
+
+0x450D1D26 = ~z~Come on, please, no.
+
+0x721C2FAE = ~z~What the hell?
+
+0x1004DE34 = ~z~What the hell? You mind your own business!
+
+0x5366B9D9 = ~z~Don't do this.
+
+0x8125AD39 = ~z~Do you mind?
+
+0x9393DB89 = ~z~All hat and no cattle.
+
+0x46202EAD = ~z~Can't even aim right.
+
+0x76152BF4 = ~z~Damn you all! I got my rights!
+
+0x95654C3F = ~z~Oh good, another gum-flapper.
+
+0x4039826F = ~z~What did I ever do to you?
+
+0x6413008F = ~z~Yer about as dumb as an ass.
+
+0x7039153F = ~z~Hey! Where you taking me?
+
+0x7339092E = ~z~I'm just gonna try to ignore you, then.
+
+0x7611453E = ~z~Just go to hell, you son of a bitch.
+
+0x10754235 = ~z~The hell I do to you?
+
+0x41005036 = ~z~Oh, you, hey! Go to hell.
+
+0x54385627 = ~z~I'm gonna track you down!
+
+0xA01C0DA4 = ~z~Clear the way.
+
+0xA0238226 = ~z~You wanna keep this up?
+
+0xA0417C56 = ~z~I done killed a man before, you know.
+
+0xA3DA9914 = ~z~Yeah, right. Whatever you say!
+
+0xAA87B6B5 = ~z~Yes.
+
+0xADD8F47E = ~z~You following me? Blamed do-gooder.
+
+0xADDA676A = ~z~You look like you been lying with Smithfield's whores!
+
+0xB0A23087 = ~z~~sl:0.0:1.0~And what do you want?~sl:0.5:1.3:1~This ain't none of your problem.
+
+0xBADFAC51 = ~z~What a man and wife do on their own time's just that. It ain't got a damn thing to do with you!
+
+0xBBDAC32A = ~z~You bastard!
+
+0xBE1BC0CA = ~z~You! You gotta make this right... right?
+
+0xBE2DE0D0 = ~z~I shut that bitch up. You should all be thanking me.
+
+0xC6628F6C = ~z~~sl:0.0:2.8~You think you're clever, huh? Huh!~sl:0.2:2.4~With your goddamn games...~sl:0.8:3.4~I got an idea, wanna hear it? Huh?~sl:1.9:1.0:1~Go fish!
+
+0xC9782488 = ~z~Talk now!
+
+0xCA69BFC0 = ~z~Excuse me.
+
+0xCA246C54 = ~z~This is a private conversation.
+
+0xCD80F412 = ~z~I'm getting away from here.
+
+0xDFC3881D = ~z~Yeah, yeah! Shoot the rope! Yeah, do it.
+
+0xE4F1CE25 = ~z~Shit! Shit, shit!
+
+0xE5F776DB = ~z~Oh, pardon me.
+
+0xE6D16F01 = ~z~Get away from here. It ain't safe.
+
+0xEABA59C2 = ~z~Hey, you. This is crazy, right? Right?
+
+0xEB0E2719 = ~z~Oh, you look real sick, mister.
+
+0xEEB6A9CF = ~z~
+
+0xEF498983 = ~z~Sorry.
+
+0xEFFA922F = ~z~Piece of shit, bastard...
+
+0xF9F820D2 = ~z~We're all watching you now, you hear?
+
+0xF34B6AD8 = ~z~Holy Jesus Christ!
+
+0xF51B0B94 = ~z~You best scram.
+
+0xF927B6F7 = ~z~Oh, everyone thinks they know my business.
+
+0xFDC4A941 = ~z~Damn you!
+
+0xFED6DE80 = ~z~You know it's the right thing to do here. Shoot it!
+

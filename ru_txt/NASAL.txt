@@ -1,0 +1,78 @@
+0x05C5C86B = Разместите живую приманку ~COLOR_MP_OBJECTIVE~~BLIP_OBJECTIVE~~s~, чтобы выманить аллигатора Бурую Кровь.
+
+0x6D29AEFF = Осмотрите лагерь браконьеров.
+
+0x826FCA74 = Разыщите логово ~COLOR_MP_OBJECTIVE~~BLIP_OBJECTIVE~~s~ аллигатора Бурой Крови. Убейте находящихся рядом аллигаторов, чтобы его выманить.
+
+0x889667C7 = Свяжите жертву и оставьте в ~COLOR_MP_OBJECTIVE~области~s~ в качестве приманки.
+
+0xA0BDA682 = Усыпите ~COLOR_MP_OBJECTIVE~аллигатора Бурую Кровь~s~.
+
+0xCC9C8604 = Выследите аллигатора Бурую Кровь.
+
+0xE58F88D5 = Игрок ~COLOR_MP_OBJECTIVE_FRIENDLY~~1~~s~ осмотрел следы
+
+0xEB524F76 = Убейте ~COLOR_MP_OBJECTIVE~аллигатора Бурую Кровь~s~.
+
+0xF7B45130 = Разыщите ~COLOR_MP_OBJECTIVE~логово~s~ аллигатора Бурой Крови.
+
+FETCH_NAT_SIGHTING_HELP_LOOK_AT_CLUE_GATOR = Сфокусироваться на следе
+
+FETCH_NAT_SIGHTING_INSPECT_CLUE_GATOR = Осмотреть
+
+FETCH_NAT_SIGHT_GATOR_HELP_OBJECTIVE_DEAD = Аллигатор Бурая Кровь усыплен. Добудьте образец.
+
+FETCH_NAT_SIGHT_GATOR_HELP_OBJECTIVE_ESCAPING = ~COLOR_MP_OBJECTIVE~Легендарный аллигатор Бурая Кровь~s~ ушел слишком далеко и скоро сможет скрыться.
+
+FETCH_NAT_SIGHT_GATOR_HELP_SEARCH = Активируйте «Орлиный глаз», нажав ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~, и поищите следы аллигатора Бурой Крови.
+
+FETCH_NAT_SIGHT_GATOR_HELP_SEARCH_CLUE_0 = Легендарный аллигатор Бурая Кровь часто охотится в этих местах. Чтобы активировать «Орлиный глаз» и поискать следы, нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~.
+
+FETCH_NAT_SIGHT_GATOR_HELP_SEARCH_CLUE_0_KM = Легендарный аллигатор Бурая Кровь часто охотится в этих местах. Чтобы активировать «Орлиный глаз» и поискать следы, нажмите ~INPUT_SPECIAL_ABILITY~.
+
+FETCH_NAT_SIGHT_GATOR_HELP_SEARCH_CLUE_BOAT = Похоже, на лодку напал легендарный аллигатор Бурая Кровь. Он должен быть неподалеку.
+
+FETCH_NAT_SIGHT_GATOR_HELP_SEARCH_CLUE_BODY = Возможно, на этого человека напал аллигатор Бурая Кровь. Поищите другие следы.
+
+FETCH_NAT_SIGHT_GATOR_HELP_SEARCH_CLUE_DEAD_END = Этот след, похоже, оставил не аллигатор Бурая Кровь. Продолжайте поиски.
+
+FETCH_NAT_SIGHT_GATOR_HELP_SEARCH_CLUE_FISH_CAMP = Похоже, на этот лагерь напал аллигатор Бурая Кровь. Должно быть, он где-то рядом.
+
+FETCH_NAT_SIGHT_GATOR_HELP_SEARCH_CLUE_FOUND = Здесь недавно был аллигатор Бурая Кровь.
+
+FETCH_NAT_SIGHT_GATOR_HELP_SEARCH_CLUE_NEST_EGGS = Похоже, это гнездо аллигатора Бурой Крови. Продолжайте поиски.
+
+FETCH_NAT_SIGHT_GATOR_HELP_SEARCH_CLUE_POACHER = Похоже, на браконьера напал легендарный аллигатор Бурая Кровь. Он должен быть неподалеку.
+
+FETCH_NAT_SIGHT_GATOR_HELP_SEARCH_GATOR_KILL = Это животное убили недавно, однако поблизости нет никаких следов. Продолжайте искать следы аллигатора Бурой Крови.
+
+FETCH_NAT_SIGHT_GATOR_HELP_SEARCH_INTRO = По слухам, в этих местах живет легендарный аллигатор Бурая Кровь. Чтобы активировать «Орлиный глаз» и поискать следы, нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~.
+
+FETCH_NAT_SIGHT_GATOR_HELP_SEARCH_INTRO_KM = По слухам, легендарный аллигатор Бурая Кровь живет в этих местах. Чтобы активировать «Орлиный глаз» и следы, нажмите ~INPUT_SPECIAL_ABILITY~.
+
+FETCH_NAT_SIGHT_GATOR_HELP_SEARCH_KM = Активируйте «Орлиный глаз», нажав ~INPUT_SPECIAL_ABILITY~, и поищите следы аллигатора Бурой Крови.
+
+FETCH_NAT_SIGHT_GATOR_HELP_SKIN = Чтобы добыть образец, удерживайте ~INPUT_CONTEXT_Y~.
+
+FETCH_NAT_SIGHT_GATOR_HELP_TEAM_PRIMARY = Осмотрите местность и найдите аллигатора Бурую Кровь ~1b~. Усыпите его и добудьте образец.
+
+FETCH_NAT_SIGHT_GATOR_OBJ_GOTO = Направляйтесь ~1~.
+
+FETCH_NAT_SIGHT_GATOR_OBJ_KILL_ATTACKERS = Убейте ~COLOR_ENEMY~аллигаторов~s~.
+
+FETCH_NAT_SIGHT_GATOR_OBJ_LOOT = Добудьте образец из ~COLOR_MP_OBJECTIVE~аллигатора Бурой Крови~s~.
+
+FETCH_NAT_SIGHT_GATOR_OBJ_SEARCH = Осмотрите ~COLOR_MP_OBJECTIVE~местность~s~ в поисках следов аллигатора Бурой Крови.
+
+FETCH_NAT_SIGHT_GATOR_SHARD_DESTROYED = Шкура аллигатора Бурой Крови повреждена
+
+FETCH_NAT_SIGHT_GATOR_SHARD_ESCAPED = Легендарный аллигатор Бурая Кровь сбежал
+
+FETCH_NAT_SIGHT_GATOR_SHARD_PRIMARY_PASS = Образец из аллигатора Бурой Крови получен
+
+FETCH_NAT_SIGHT_GATOR_SHARD_PRIMARY_PASS_PARTIAL = Аллигатор Бурая Кровь освежеван
+
+FETCH_NAT_SIGHT_GATOR_SHARD_TEAM_PRIMARY_INTRO = Добудьте образец из аллигатора Бурой Крови
+
+FETCH_NAT_SIGHT_HELP_INVESTIGATE_SOUND_GATOR = Легендарный аллигатор Бурая Кровь где-то рядом.
+

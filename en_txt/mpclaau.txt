@@ -1,0 +1,308 @@
+MPCLAY2_EXT_1 = ~z~Well, well, well, Horley was right about you.
+
+MPCLAY2_EXT_2 = ~z~Dead right. Ain't that dandy?
+
+MPCLAY2_EXT_3 = ~z~Get that horse hidden away, Clive...
+
+MPCLAY2_EXT_4 = ~z~and ready to move out as soon as we can.
+
+MPCLAY2_EXT_5 = ~z~Alright...
+
+MPCLAY2_EXT_6 = ~z~here's the money you earned.
+
+MPCLAY2_EXT_7 = ~z~Now listen, Horley came by and gave me a message.
+
+MPCLAY2_EXT_8 = ~z~He said to go see your friend Cripps, up at your camp.
+
+MPCLAY2_EXT_9 = ~z~Now listen to me for a second.
+
+MPCLAY2_EXT_10 = ~z~Any other decent horses you find...
+
+MPCLAY2_EXT_11 = ~z~we'll buy 'em.
+
+MPCLAY2_EXT_12 = ~z~Just as soon as we're set up, okay?
+
+MPCLAY2_EXT_13 = ~z~Nice meeting ya.
+
+MPCLAY2_EXT_14 = ~z~You know what...
+
+MPCLAY2_EXT_15 = ~z~hold on, boy.
+
+MPCLAY2_EXT_16 = ~z~I call him boy because I'm older.
+
+MPCLAY2_EXT_17 = ~z~Thirty minutes.
+
+MPCLAY2_EXT_18 = ~z~He went black.
+
+MPCLAY2_EXT_19 = ~z~Let's give our friend here back the horse.
+
+MPCLAY2_EXT_20 = ~z~It's yours. A sign of faith and future business.
+
+MPCLAY2_EXT_21 = ~z~If you wanna buy any extras or sundries for the animal...
+
+MPCLAY2_EXT_22 = ~z~head inside. They've got a lot available.
+
+MPCLAY2_EXT_23 = ~z~See ya soon.
+
+MPCLAY2_EXT_24 = ~z~Come on, Clive.
+
+MPCLAY2_EXT_25 = ~z~Well, well, well, Horley was right about you.
+
+MPCLAY2_EXT_26 = ~z~Dead right. Ain't that dandy?
+
+MPCLAY2_EXT_27 = ~z~Get that horse hidden away, Clive...
+
+MPCLAY2_EXT_28 = ~z~and ready to move out as soon as we can.
+
+MPCLAY2_EXT_29 = ~z~Alright...
+
+MPCLAY2_EXT_30 = ~z~here's the money you earned.
+
+MPCLAY2_EXT_31 = ~z~Now listen, Horley came by and gave me a message.
+
+MPCLAY2_EXT_32 = ~z~He said to go see your friend Cripps, up at your camp.
+
+MPCLAY2_EXT_33 = ~z~Now listen to me for a second.
+
+MPCLAY2_EXT_34 = ~z~Any other decent horses you find...
+
+MPCLAY2_EXT_35 = ~z~we'll buy 'em.
+
+MPCLAY2_EXT_36 = ~z~Just as soon as we're set up, okay?
+
+MPCLAY2_EXT_37 = ~z~Nice meeting ya.
+
+MPCLAY2_EXT_38 = ~z~You know what...
+
+MPCLAY2_EXT_39 = ~z~hold on, boy.
+
+MPCLAY2_EXT_40 = ~z~I call him boy because I'm older.
+
+MPCLAY2_EXT_41 = ~z~Thirty minutes.
+
+MPCLAY2_EXT_42 = ~z~He went black.
+
+MPCLAY2_EXT_43 = ~z~Let's give our friend here back the horse.
+
+MPCLAY2_EXT_44 = ~z~It's yours. A sign of faith and future business.
+
+MPCLAY2_EXT_45 = ~z~If you wanna buy any extras or sundries for the animal...
+
+MPCLAY2_EXT_46 = ~z~head inside. They've got a lot available.
+
+MPCLAY2_EXT_47 = ~z~See ya soon.
+
+MPCLAY2_EXT_48 = ~z~Come on, Clive.
+
+MPCLAY2_EXT_49 = ~z~Well, well, well, Horley was right about you.
+
+MPCLAY2_EXT_50 = ~z~Dead right. Ain't that dandy?
+
+MPCLAY2_EXT_51 = ~z~Get that horse hidden away, Clive...
+
+MPCLAY2_EXT_52 = ~z~and ready to move out as soon as we can.
+
+MPCLAY2_EXT_53 = ~z~Alright...
+
+MPCLAY2_EXT_54 = ~z~here's the money you earned.
+
+MPCLAY2_EXT_55 = ~z~Now listen, Horley came by and gave me a message.
+
+MPCLAY2_EXT_56 = ~z~He said to go see your friend Cripps, up at your camp.
+
+MPCLAY2_EXT_57 = ~z~Now listen to me for a second.
+
+MPCLAY2_EXT_58 = ~z~Any other decent horses you find...
+
+MPCLAY2_EXT_59 = ~z~we'll buy 'em.
+
+MPCLAY2_EXT_60 = ~z~Just as soon as we're set up, okay?
+
+MPCLAY2_EXT_61 = ~z~Nice meeting ya.
+
+MPCLAY2_EXT_62 = ~z~You know what...
+
+MPCLAY2_EXT_63 = ~z~hold on, boy.
+
+MPCLAY2_EXT_64 = ~z~I call him boy because I'm older.
+
+MPCLAY2_EXT_65 = ~z~Thirty minutes.
+
+MPCLAY2_EXT_66 = ~z~He went black.
+
+MPCLAY2_EXT_67 = ~z~Let's give our friend here back the horse.
+
+MPCLAY2_EXT_68 = ~z~It's yours. A sign of faith and future business.
+
+MPCLAY2_EXT_69 = ~z~If you wanna buy any extras or sundries for the animal...
+
+MPCLAY2_EXT_70 = ~z~head inside. They've got a lot available.
+
+MPCLAY2_EXT_71 = ~z~See ya soon.
+
+MPCLAY2_EXT_72 = ~z~Come on, Clive.
+
+MPCLAY2_EXT_73 = ~z~Well, well, well, Horley was right about you.
+
+MPCLAY2_EXT_74 = ~z~Dead right. Ain't that dandy?
+
+MPCLAY2_EXT_75 = ~z~Get that horse hidden away, Clive...
+
+MPCLAY2_EXT_76 = ~z~and ready to move out as soon as we can.
+
+MPCLAY2_EXT_77 = ~z~Alright...
+
+MPCLAY2_EXT_78 = ~z~here's the money you earned.
+
+MPCLAY2_EXT_79 = ~z~Now listen, Horley came by and gave me a message.
+
+MPCLAY2_EXT_80 = ~z~He said to go see your friend Cripps, up at your camp.
+
+MPCLAY2_EXT_81 = ~z~Now listen to me for a second.
+
+MPCLAY2_EXT_82 = ~z~Any other decent horses you find...
+
+MPCLAY2_EXT_83 = ~z~we'll buy 'em.
+
+MPCLAY2_EXT_84 = ~z~Just as soon as we're set up, okay?
+
+MPCLAY2_EXT_85 = ~z~Nice meeting ya.
+
+MPCLAY2_EXT_86 = ~z~You know what...
+
+MPCLAY2_EXT_87 = ~z~hold on, boy.
+
+MPCLAY2_EXT_88 = ~z~I call him boy because I'm older.
+
+MPCLAY2_EXT_89 = ~z~Thirty minutes.
+
+MPCLAY2_EXT_90 = ~z~He went black.
+
+MPCLAY2_EXT_91 = ~z~Let's give our friend here back the horse.
+
+MPCLAY2_EXT_92 = ~z~It's yours. A sign of faith and future business.
+
+MPCLAY2_EXT_93 = ~z~If you wanna buy any extras or sundries for the animal...
+
+MPCLAY2_EXT_94 = ~z~head inside. They've got a lot available.
+
+MPCLAY2_EXT_95 = ~z~See ya soon.
+
+MPCLAY2_EXT_96 = ~z~Come on, Clive.
+
+MPCLAY2_INT_1 = ~z~I win again.
+
+MPCLAY2_INT_2 = ~z~Did Horley send ya, pop?
+
+MPCLAY2_INT_3 = ~z~I'm Clay Davies.
+
+MPCLAY2_INT_4 = ~z~This is my brother Clive.
+
+MPCLAY2_INT_5 = ~z~He don't talk.
+
+MPCLAY2_INT_6 = ~z~Maybe you two would get along better?
+
+MPCLAY2_INT_7 = ~z~Maybe not.
+
+MPCLAY2_INT_8 = ~z~Listen, I heard you wanted to earn some money.
+
+MPCLAY2_INT_9 = ~z~So, there's a gang of ne'er-do-wells.
+
+MPCLAY2_INT_10 = ~z~They are a bunch of degenerates, not good people.
+
+MPCLAY2_INT_11 = ~z~They're out in Rhodes...
+
+MPCLAY2_INT_12 = ~z~with a bunch of horses they stole off of me.
+
+MPCLAY2_INT_13 = ~z~Well, that's a lie, but they stole 'em off...
+
+MPCLAY2_INT_14 = ~z~the feller I was gonna steal 'em off of.
+
+MPCLAY2_INT_15 = ~z~They are a bunch of degenerates, not good people.
+
+MPCLAY2_INT_16 = ~z~They're out at Manzanita Post...
+
+MPCLAY2_INT_17 = ~z~with a bunch of horses they stole from me.
+
+MPCLAY2_INT_18 = ~z~Well, that's a lie, but they stole 'em off...
+
+MPCLAY2_INT_19 = ~z~the feller I was gonna steal 'em off of.
+
+MPCLAY2_INT_20 = ~z~They are a bunch of degenerates, not good people.
+
+MPCLAY2_INT_21 = ~z~They're out near Cumberland Falls...
+
+MPCLAY2_INT_22 = ~z~with a bunch of horses they stole off of me.
+
+MPCLAY2_INT_23 = ~z~Well, that's a lie, but they stole 'em off...
+
+MPCLAY2_INT_24 = ~z~the feller I was gonna steal 'em off of.
+
+MPCLAY2_INT_25 = ~z~They are a bunch of degenerates, not good people.
+
+MPCLAY2_INT_26 = ~z~They're out at Rathskeller Fork...
+
+MPCLAY2_INT_27 = ~z~with a bunch of horses they stole from me.
+
+MPCLAY2_INT_28 = ~z~Well, that's a lie, but they stole 'em off...
+
+MPCLAY2_INT_29 = ~z~the feller I was gonna steal 'em off of.
+
+MPCLAY2_INT_30 = ~z~Maybe you could get 'em for me?
+
+MPCLAY2_INT_31 = ~z~You think you could do that for me, pop?
+
+MPCLAY2_INT_32 = ~z~Looks like you're doing this on your own.
+
+MPCLAY2_INT_33 = ~z~Oh, look...
+
+MPCLAY2_INT_34 = ~z~here are your friends.
+
+MPCLAY2_INT_35 = ~z~Well, good.
+
+MPCLAY2_INT_36 = ~z~Meet me at the stable at Saint Denis...
+
+MPCLAY2_INT_37 = ~z~once you have the horseflesh, and I'll pay ya good.
+
+MPCLAY2_INT_38 = ~z~Well, good.
+
+MPCLAY2_INT_39 = ~z~Meet me at the stable in Blackwater...
+
+MPCLAY2_INT_40 = ~z~once you have the horseflesh, and I'll pay ya good.
+
+MPCLAY2_INT_41 = ~z~Well, good.
+
+MPCLAY2_INT_42 = ~z~Meet me at the stable at Valentine...
+
+MPCLAY2_INT_43 = ~z~once you have the horseflesh, and I'll pay ya good.
+
+MPCLAY2_INT_44 = ~z~Well, good.
+
+MPCLAY2_INT_45 = ~z~Meet me at the stable at Tumbleweed...
+
+MPCLAY2_INT_46 = ~z~once you have the horseflesh, and I'll pay ya good.
+
+MPCLAY2_INT_47 = ~z~Oh... and, pop.
+
+MPCLAY2_INT_48 = ~z~Horley wanted me to remind you any decent work you can find...
+
+MPCLAY2_INT_49 = ~z~take it.
+
+MPCLAY2_INT_50 = ~z~But just try to stay outta trouble.
+
+MPCLAY2_INT_51 = ~z~Oh, and once you get me those horses...
+
+MPCLAY2_INT_52 = ~z~well after that we'll talk again.
+
+MPCLAY2_INT_53 = ~z~Oh, I do so enjoy these conversations.
+
+MPCLAY2_INT_54 = ~z~I'm used to 'em on account of my brother.
+
+MPCLAY2_INT_55 = ~z~Let's go, Clive.
+
+MPCLA_WOHORSE_01 = ~z~Ain't you bringing me a horse, pop? Why you're duller than my brother.
+
+MPCLA_WOHORSE_02 = ~z~Come back with that horse, pop. That simple enough for you?
+
+MPCLA_WOHORSE_03 = ~z~I was expecting some horseflesh... where is it now? Go on, get it.
+

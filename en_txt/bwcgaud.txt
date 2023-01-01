@@ -1,0 +1,1336 @@
+CG1ASKA_1 = ~z~Wanted posters're up everywhere... go into town, you'll find 'em.
+
+CG1ASKA_2 = ~z~This is why I said we shouldn't come to Rhodes...
+
+CG1ASKA_3 = ~z~Maybe if you'd said it louder, we wouldn't have come.
+
+CG1ASKA_4 = ~z~So it's my fault you're dumb and stubborn as pack mule... Black...
+
+CG1ASKB_01 = ~z~Ain't neither of us gonna rest easy 'til you get those posters, mister.
+
+CG1ASKB_02 = ~z~If I could go into town for them bounty sheets I would, you know...
+
+CG1ASKB_03 = ~z~I don't like having a reward up for me, mister... do us a good turn here.
+
+CG1ASKB_BLCK_01 = ~z~You'll find those posters easy enough, they got our faces on 'em.
+
+CG1ASKB_BLCK_02 = ~z~Enough people see that reward... one of 'em all bring us in.
+
+CG1ASKB_BLCK_03 = ~z~Skulking on the outskirts of this shit hole ain't no kind of life for a man...
+
+CG1_BW_WOODS_1 = ~z~Not much we can do here. Let's go back to camp.
+
+CG1_BW_WOODS_2 = ~z~Alright, I suppose.
+
+CG1_ILO_B_ARTH_1 = ~z~These posters... where are they exactly?
+
+CG1_ILO_B_ARTH_2 = ~z~They got 'em all over town...
+
+CG1_ILO_B_ARTH_3 = ~z~Check the train station... where ever they're likely to advertise rewards.
+
+CG1_ILO_B_JOHN_1 = ~z~These posters... where are they exactly?
+
+CG1_ILO_B_JOHN_2 = ~z~They got 'em all over town...
+
+CG1_ILO_B_JOHN_3 = ~z~Check the train station... where ever they're likely to advertise rewards.
+
+CG1_ILO_W_ARTH_1 = ~z~Now tell me again... where are the wanted posters?
+
+CG1_ILO_W_ARTH_2 = ~z~We saw some on the main street and high tailed it out of there.
+
+CG1_ILO_W_ARTH_3 = ~z~I think they got one in the station too.
+
+CG1_ILO_W_JOHN_1 = ~z~Now tell me again... where are the wanted posters?
+
+CG1_ILO_W_JOHN_2 = ~z~We saw some on the main street and high tailed it out of there.
+
+CG1_ILO_W_JOHN_3 = ~z~I think they got one in the station too.
+
+CG1_RET_B_ARTH_1 = ~z~You'll find those posters yet? Or I got to keep suffering this fool's company?
+
+CG1_RET_B_ARTH_2 = ~z~You ain't rid of each other just yet...
+
+CG1_RET_B_ARTH_3 = ~z~Hmm. Well, hurry it up.
+
+CG1_RET_B_JOHN_1 = ~z~You'll find those posters yet? Or I got to keep suffering this fool's company?
+
+CG1_RET_B_JOHN_2 = ~z~You ain't rid of each other just yet...
+
+CG1_RET_B_JOHN_3 = ~z~Hmm. Well, hurry it up.
+
+CG1_RET_W_ARTH_1 = ~z~Hey, hey... you got something... the posters?
+
+CG1_RET_W_ARTH_2 = ~z~Oh yeah... the posters. In lieu of a pardon, they might be useful to you.
+
+CG1_RET_W_ARTH_3 = ~z~When you get 'em, tell us, okay?
+
+CG1_RET_W_ARTH_4 = ~z~Okay...
+
+CG1_RET_W_JOHN_1 = ~z~Hey, hey... you got something... the posters?
+
+CG1_RET_W_JOHN_2 = ~z~Oh yeah... the posters. In lieu of a pardon, they might be useful to you.
+
+CG1_RET_W_JOHN_3 = ~z~When you get 'em, tell us, okay?
+
+CG1_RET_W_JOHN_4 = ~z~Okay...
+
+CG2AIMTHREATJ_1 = ~z~Get out of here. Now.
+
+CG2AIMTHREATJ_2 = ~z~No respect for your elders.
+
+CG2AIMTHREAT_1 = ~z~Get out of here. Now.
+
+CG2AIMTHREAT_2 = ~z~No respect for your elders.
+
+CG2ASKPOLITE2_1 = ~z~Please mister. I'll just reach by you. Won't take but a second.
+
+CG2ASKPOLITE2_2 = ~z~I'm leaning on it. Find one that ain't in use.
+
+CG2ASKPOLITEJ2_1 = ~z~Please mister. I'll just reach by you. Won't take but a second.
+
+CG2ASKPOLITEJ2_2 = ~z~I'm leaning on it. Find one that ain't in use.
+
+CG2ASKPOLITEJ_1 = ~z~Hey, I need to get to that poster behind you. Would you move a little?
+
+CG2ASKPOLITEJ_2 = ~z~I will not. Deputy put up plenty... go get one of those.
+
+CG2ASKPOLITE_1 = ~z~Hey, I need to get to that poster behind you. Would you move a little?
+
+CG2ASKPOLITE_2 = ~z~I will not. Deputy put up plenty... go get one of those.
+
+CG2ASKTHREATJ_1 = ~z~Hey, move. I need that poster.
+
+CG2ASKTHREATJ_2 = ~z~Oh I'll move alright... how's this for moving?
+
+CG2ASKTHREAT_1 = ~z~Hey, move. I need that poster.
+
+CG2ASKTHREAT_2 = ~z~Oh I'll move alright... how's this for moving?
+
+CG2BHAGGRO_01 = ~z~The hell you doing?
+
+CG2BHAGGRO_02 = ~z~Excuse me?
+
+CG2BHAGGRO_03 = ~z~You taking liberties, boy.
+
+CG2BHAGGRO_04 = ~z~Oh , no you don't.
+
+CG2BHASKPJ_1 = ~z~Mister, I need that poster. There's been a recall.
+
+CG2BHASKPJ_2 = ~z~I weren't born yesterday.
+
+CG2BHASKPJ_3 = ~z~This one's mine, so you can go and get your own.
+
+CG2BHASKP_1 = ~z~Mister, I need that poster. There's been a recall.
+
+CG2BHASKP_2 = ~z~I weren't born yesterday.
+
+CG2BHASKP_3 = ~z~This one's mine, so you can go and get your own.
+
+CG2BHTHREATPJ_1 = ~z~Hey. I'm going to need that poster off you. Give it up.
+
+CG2BHTHREATPJ_2 = ~z~That ever worked before? Poster's mine, feller. And so are these bounties.
+
+CG2BHTHREATP_1 = ~z~Hey. I'm going to need that poster off you. Give it up.
+
+CG2BHTHREATP_2 = ~z~That ever worked before? Poster's mine, feller. And so are these bounties.
+
+CG2BH_FLW0A_01 = ~z~There a reason you're following me?
+
+CG2BH_FLW0A_02 = ~z~You know what, mister.  I don't like being followed.
+
+CG2BH_FLW0B_01 = ~z~Was I not sufficiently clear with you, mister?
+
+CG2BH_FLW0B_02 = ~z~I told you, feller, this poster is mine. Don't make me tell you again.
+
+CG2BH_FLW1_01 = ~z~I don't know why you sniffing around, but I don't like it. You oughta go now.
+
+CG2BH_FLW1_02 = ~z~I'm working mister. And I can't work when I'm watched. Get out of here.
+
+CG2BH_FLW2_01 = ~z~Go away!
+
+CG2BH_FLW2_02 = ~z~Be gone with you.
+
+CG2STOLEPOSTER_01 = ~z~Those boys was mine.
+
+CG2STOLEPOSTER_02 = ~z~So help me God, you give that back.
+
+CG2STOLEPOSTER_03 = ~z~Damn you for that.
+
+CG2STOLEPOSTER_04 = ~z~I knew you was dirty.
+
+CG2STRANGERJ_1 = ~z~You know, them's bad men.
+
+CG2STRANGERJ_2 = ~z~Sure.
+
+CG2STRANGERJ_3 = ~z~Real unpleasant. Old Wendell White killed a farmer over some wages. White man he was and all.
+
+CG2STRANGERJ_4 = ~z~And Sampson Black... he shot half the county.
+
+CG2STRANGERJ_5 = ~z~They was both gonna swing, before they escaped. Feller catches them will earn himself a pile of money.
+
+CG2STRANGERJ_6 = ~z~That so?
+
+CG2STRANGERJ_7 = ~z~Sure. Big pile of money.
+
+CG2STRANGER_1 = ~z~You know, them's bad men.
+
+CG2STRANGER_2 = ~z~Sure.
+
+CG2STRANGER_3 = ~z~~sl:0.0:2.0~Real unpleasant.~sl:1.0:3.9~Old Wendell White killed a farmer over some wages.~sl:1.6~White man he was and all.
+
+CG2STRANGER_4 = ~z~~sl:0.0:1.3~And Sampson Black...~sl:0.7~he shot half the county.
+
+CG2STRANGER_5 = ~z~~sl:0.0:2.6~They was both gonna swing, before they escaped.~sl:0.4~Feller catches them will earn himself a pile of money.
+
+CG2STRANGER_6 = ~z~That so?
+
+CG2STRANGER_7 = ~z~Sure. Big pile of money.
+
+CG3POSTP1A_01 = ~z~Now let's just hope no one saw them posters.
+
+CG3POSTP1A_02 = ~z~You helped us enough, okay?
+
+CG3POSTP1A_03 = ~z~We ain't looking to buddy up with no one else... this big fool here is enough of a burden.
+
+CG3POSTP2A_01 = ~z~This is a second chance for us... we're grateful.
+
+CG3POSTP2A_02 = ~z~I just get some food in my belly, I'm set, mister.
+
+CG3POSTP2A_03 = ~z~You done enough for us... we're on our own now.
+
+CG3_BURNING_1 = ~z~That's that then.
+
+CG3_BURNING_2 = ~z~That's that...
+
+CG3_BURNING_3 = ~z~Free at last...
+
+CG3_BURNING_4 = ~z~Free from you, at least...
+
+CG3_BURNING_5 = ~z~Well, not quite...
+
+CG3_BURNING_6 = ~z~No?
+
+CG3_BURNING_7 = ~z~We should... wait a while first. See if anyone's on our trail...
+
+CG3_BURNING_8 = ~z~You're right... too risky to split up now...
+
+CG3_BURNING_9 = ~z~Two sets of eyes is better than one.
+
+CG3_BURNING_10 = ~z~This ain't permanent though... it's a temporary measure...
+
+CG3_BURNING_11 = ~z~Right.. right... 'til things blow over.
+
+CG3_BURNING_12 = ~z~Then I'm done with you, Black.
+
+CG3_BURNING_13 = ~z~I'm counting the hours, White.
+
+CG3_GIVEP_WAIT_1 = ~z~Well, what?
+
+CG3_GIVEP_WAIT_2 = ~z~Don't just leave it there.
+
+CG3_GIVEP_WAIT_3 = ~z~You got 'em or what?
+
+CG3_GIVEP_WAIT_4 = ~z~We've come to rely on you, mister...
+
+CG3_GIVEP_WAIT_5 = ~z~I don't know what they told you in town...
+
+CG3_GIVEP_WAIT_6 = ~z~We been straight with you... we ain't angels, but...
+
+CG3_GIVEP_WAIT_7 = ~z~We're good folks, or I am...
+
+CG3_GIVEP_WAIT_8 = ~z~Not now, Black.
+
+CG3_GIVEP_WAIT_9 = ~z~Okay, we're both good folks.
+
+CG3_GIVEP_WAIT_10 = ~z~So... do you got the posters?
+
+CG3_GIVEP_WAIT_11 = ~z~We just want those posters gone.
+
+CG3_GOEARLY_B_01 = ~z~Hey, where you going?
+
+CG3_GOEARLY_B_02 = ~z~I thought you had something for us.
+
+CG3_GOEARLY_W_01 = ~z~The wanted bills, if you got 'em give 'em here.
+
+CG3_GOEARLY_W_02 = ~z~Hey, you forgot what you came for.
+
+CG4FAILDIAG_1 = ~z~Boys? Boys? How you doing?
+
+CG4FAILDIAG_2 = ~z~Oh dear...
+
+CG4FAILDIAG_3 = ~z~After all that...
+
+CG4FAILDIAG_J_1 = ~z~Boys? Boys? How you doing?
+
+CG4FAILDIAG_J_2 = ~z~Oh dear...
+
+CG4FAILDIAG_J_3 = ~z~After all that...
+
+CG4INITP1A_01 = ~z~
+
+CG4INITP1A_02 = ~z~
+
+CG4INITP1A_03 = ~z~My guts is liquid...
+
+CG4INITP1A_04 = ~z~What the hell.
+
+CG4INITP1A_05 = ~z~
+
+CG4INITP1A_06 = ~z~
+
+CG4INITP2A_01 = ~z~
+
+CG4INITP2A_02 = ~z~My belly...
+
+CG4INITP2A_03 = ~z~Take me back to the box...
+
+CG4INITP2A_04 = ~z~Lord..
+
+CG4INITP2A_05 = ~z~Lordy...
+
+CG4INITP2A_06 = ~z~
+
+CG4POSTP1A_01 = ~z~Thanks again... we'll be fine now...
+
+CG4POSTP1A_02 = ~z~Just got to sleep it off, like this big lump...
+
+CG4POSTP1A_03 = ~z~On the mend... I can feel it... I hope... so long.
+
+CG4PREP1A_01 = ~z~~sl:0.8:5.8:1~Please... medicine. You can make it on the fire, if you got the stuff...
+
+CG4PREP1A_02 = ~z~We need medicine...
+
+CG4PREP1A_03 = ~z~Look at us, partner... we ain't got long...
+
+CG4PREP1A_04 = ~z~It's a bad business...
+
+CG4PREP1A_05 = ~z~Wendell's a... Wendell's a good man... please...
+
+CG4PREP1A_06 = ~z~You're... You're our only hope...
+
+CG4PREP2A_01 = ~z~
+
+CG4PREP2A_02 = ~z~
+
+CG4PREP2A_03 = ~z~
+
+CG4PREP2A_04 = ~z~
+
+CG4PREP2A_05 = ~z~
+
+CG4PREP2A_06 = ~z~
+
+CG4_B_RUN_SICK_01 = ~z~Just what I need...
+
+CG4_B_RUN_SICK_02 = ~z~Running... always running...
+
+CG4_B_RUN_SICK_03 = ~z~Let me lie down and die.
+
+CG4_MED_ILO_A_1 = ~z~What's this medicine then?
+
+CG4_MED_ILO_A_2 = ~z~Medicine... you know... a tonic for your health.
+
+CG4_MED_ILO_A_3 = ~z~You got any?
+
+CG4_MED_ILO_J_1 = ~z~So... what's this medicine, then?
+
+CG4_MED_ILO_J_2 = ~z~Medicine... you know... a tonic for your health.
+
+CG4_MED_ILO_J_3 = ~z~You got any?
+
+CG4_PLY_SPOOK_1 = ~z~Shit! He's gone... get up white. Run.
+
+CG4_PLY_SPOOK_2 = ~z~
+
+CG4_PLY_SPOOK_3 = ~z~You're a strange feller...
+
+CG4_W_RUN_SICK_01 = ~z~~sl:1.5~No...
+
+CG4_W_RUN_SICK_02 = ~z~Can't.... go.... much... further...
+
+CG4_W_RUN_SICK_03 = ~z~Why... Lord... why...
+
+CG_CAB_BIG1_1 = ~z~What was that?
+
+CG_CAB_BIG1_2 = ~z~Don't go out. Could be anything.
+
+CG_CAB_BIG1_3 = ~z~Keep your head down.
+
+CG_CAB_BIG2_1 = ~z~Hey! Hey! They're here.
+
+CG_CAB_BIG2_2 = ~z~They don't know it's us. Just keep quiet, let's see.
+
+CG_CAB_BIG3_1 = ~z~Crap. What's that?
+
+CG_CAB_BIG3_2 = ~z~I don't know... just stay down and shut up.
+
+CG_CAB_CONV_1_1 = ~z~Didn't I tell you I like my shirts just so...
+
+CG_CAB_CONV_1_2 = ~z~I ain't your wife, White.
+
+CG_CAB_CONV_1_3 = ~z~Well, you're... I know you ain't... It's just a basic consideration.
+
+CG_CAB_CONV_1_4 = ~z~You think it's considerate farting all night long... like sharing a cabin with a broken tuba.
+
+CG_CAB_CONV_1_5 = ~z~This ain't about my gas, it's about my shirts.
+
+CG_CAB_CONV_1_6 = ~z~Well, I'm making it about your gas.
+
+CG_CAB_CONV_1_7 = ~z~I'll do my own damn laundry from now on.
+
+CG_CAB_CONV_1_8 = ~z~Me too.
+
+CG_CAB_CONV_2_1 = ~z~What's for dinner?
+
+CG_CAB_CONV_2_2 = ~z~Mushrooms.
+
+CG_CAB_CONV_2_3 = ~z~Very funny.
+
+CG_CAB_CONV_2_4 = ~z~Nearly lost you that time...
+
+CG_CAB_CONV_2_5 = ~z~Come here.
+
+CG_CAB_CONV_2_6 = ~z~Mushrooms.
+
+CG_CAB_CONV_3_1 = ~z~You don't got to fold 'em... just pick 'em up off the floor.
+
+CG_CAB_CONV_3_2 = ~z~What do you care what's on the floor? You don't got to wear 'em.
+
+CG_CAB_CONV_3_3 = ~z~This cabin's ten feet by ten, it fills up with crap it'll send me crazy.
+
+CG_CAB_CONV_3_4 = ~z~Pick it up... worse than being on back chain gang.
+
+CG_CAB_CONV_3_5 = ~z~Worse than being in a damn cell, sharing this cabin with you.
+
+CG_CAB_CONV_3_6 = ~z~No one's keeping you here.
+
+CG_CAB_CONV_3_7 = ~z~I'd say the same to you.
+
+CG_CAB_CONV_4_1 = ~z~We should move on...
+
+CG_CAB_CONV_4_2 = ~z~You're always saying that...
+
+CG_CAB_CONV_4_3 = ~z~Our luck's gonna run out...
+
+CG_CAB_CONV_4_4 = ~z~May as well run out where we're happy...
+
+CG_CAB_CONV_4_5 = ~z~I just... I'm jumpy...
+
+CG_CAB_CONV_4_6 = ~z~I know, Wendell. Me too...
+
+CG_CAB_CONV_4_7 = ~z~Ahh...
+
+CG_CAB_IDLE1_1 = ~z~They still there?
+
+CG_CAB_IDLE1_2 = ~z~I think so... shut up.
+
+CG_CAB_IDLE2_1 = ~z~What you think?
+
+CG_CAB_IDLE2_2 = ~z~I think they're still there. Be quiet.
+
+CG_CAB_SMALL1_1 = ~z~Oh, wait. I think someone's there. Check.
+
+CG_CAB_SMALL1_2 = ~z~I ain't checking... just keep your head down.
+
+CG_CAB_SMALL2_1 = ~z~I hear someone.
+
+CG_CAB_SMALL2_2 = ~z~Shut up then. Let's wait for 'em to go.
+
+CG_CAB_SMALL3_1 = ~z~Someone's there.
+
+CG_CAB_SMALL3_2 = ~z~Someone? Who? Act normal, will you?
+
+CG_CAB_SMALL3_3 = ~z~We'll wait for 'em to pass.
+
+CG_CAPT_BOTHHT_1 = ~z~Now he's got both of us...
+
+CG_CAPT_BOTHHT_2 = ~z~We got out together, we'll go back together.
+
+CG_CAPT_BOTHHT_3 = ~z~Maybe they'll hang us together too?
+
+CG_CAPT_B_DEAD_1 = ~z~White was a lot of things, but deserving of this wasn't one of them.
+
+CG_CAPT_CELLBNT_1 = ~z~Can't believe I'm stuck in another cell with you.
+
+CG_CAPT_CELLBNT_2 = ~z~I believe it. Any dumb plan of yours was bound to fail.
+
+CG_CAPT_CELLBNT_3 = ~z~My plan now was it?
+
+CG_CAPT_CELLBNT_4 = ~z~Go to Rhodes... trust this feller...
+
+CG_CAPT_CELLBNT_5 = ~z~Someone had to take the reins...
+
+CG_CAPT_CELLBNT_6 = ~z~Maybe you weren't a bully and a blow hard and you listened...
+
+CG_CAPT_CELLBNT_7 = ~z~I'm gonna do plenty of listening stuck in here with you.
+
+CG_CAPT_CELLBNT_8 = ~z~Lord help me please.
+
+CG_CAPT_CELLBNT_9 = ~z~Damn, useless...
+
+CG_CAPT_ESC_ART_1 = ~z~Damn you for making me chase you...
+
+CG_CAPT_ESC_ART_2 = ~z~your buddy's probably slipped off by now.
+
+CG_CAPT_ESC_BLK_1 = ~z~I hope he kills you in your sleep.
+
+CG_CAPT_ESC_JHN_1 = ~z~Damn you for making me chase you...
+
+CG_CAPT_ESC_JHN_2 = ~z~your buddy's probably slipped off by now.
+
+CG_CAPT_ESC_WHI_1 = ~z~Well, good luck to him...
+
+CG_CAPT_ESC_WHI_2 = ~z~Never thought I'd meet a bigger son of a bitch, but I have.
+
+CG_CAPT_HOG_B_1 = ~z~No, no, no.
+
+CG_CAPT_HOG_B_2 = ~z~Sneaky, greedy bastard.
+
+CG_CAPT_HOG_W_1 = ~z~Off me! Off me!
+
+CG_CAPT_HOG_W_2 = ~z~You really doing me like this?
+
+CG_CAPT_HORSE_B_1 = ~z~It ain't too late. Lemme go.
+
+CG_CAPT_HORSE_W_1 = ~z~Let's get this over with...
+
+CG_CAPT_JUMP_B_1 = ~z~Son of a bitch.
+
+CG_CAPT_JUMP_B_2 = ~z~Damn your eyes.
+
+CG_CAPT_JUMP_W_1 = ~z~No, no, please!
+
+CG_CAPT_JUMP_W_2 = ~z~Come on, mister.
+
+CG_CAPT_KILL_B_1 = ~z~You killed him, you bastard!
+
+CG_CAPT_KILL_W_1 = ~z~You cold son of a bitch.
+
+CG_CAPT_P1AIMAT_1 = ~z~
+
+CG_CAPT_P1AIMAT_2 = ~z~Look what you got us into now.
+
+CG_CAPT_P1CELL_01 = ~z~Only thing I'm guilty of is trusting a greedy no-good traitor.
+
+CG_CAPT_P1CELL_02 = ~z~I'd be long gone, if it wasn't for that bastard who brought me here.
+
+CG_CAPT_P1CELL_03 = ~z~You tell them if they send me back to the chain gang, I'll cut up another guard.
+
+CG_CAPT_P1FREE_1 = ~z~Come to your senses I see.  About time.
+
+CG_CAPT_P1FREE_2 = ~z~Oh, it was a joke, was it? Well, real funny.
+
+CG_CAPT_P1REACT_1 = ~z~Goddamn, run!
+
+CG_CAPT_P1REACT_2 = ~z~Get away from me.
+
+CG_CAPT_P2AIMAT_1 = ~z~What?
+
+CG_CAPT_P2AIMAT_2 = ~z~I told you we shouldn't have trusted him.
+
+CG_CAPT_P2CELL_01 = ~z~Sheriff... now, Sheriff... you got to look at my case. There was extenuating... the son of a bitch deserved it.
+
+CG_CAPT_P2CELL_02 = ~z~I can't go back to the chain gang, Sheriff. Give me the gallows any day of the week.
+
+CG_CAPT_P2CELL_03 = ~z~Running away weren't my idea, okay? The other one... Black... he had the plan.
+
+CG_CAPT_P2FREE_1 = ~z~You had second thoughts? I damn well hope so.
+
+CG_CAPT_P2FREE_2 = ~z~Am I free then? You're a strange man, mister.
+
+CG_CAPT_RUN_B_01 = ~z~Goddamn, goddamn, goddamn!
+
+CG_CAPT_RUN_B_02 = ~z~Last time I trust a yankee!
+
+CG_CAPT_RUN_B_03 = ~z~You're a piece of work you yankee bastard!
+
+CG_CAPT_RUN_B_04 = ~z~What you got, you sneaky son of a bitch?
+
+CG_CAPT_RUN_B_05 = ~z~I been running for days, I can... I can run some more!
+
+CG_CAPT_RUN_B_06 = ~z~I ain't-I ain't going down easy!
+
+CG_CAPT_RUN_B_07 = ~z~My chest... goddamn!
+
+CG_CAPT_RUN_W_01 = ~z~I ain't going back there!
+
+CG_CAPT_RUN_W_02 = ~z~I can't work on that gang!
+
+CG_CAPT_RUN_W_03 = ~z~You no good back stabber, you gonna have to back shoot me!
+
+CG_CAPT_RUN_W_04 = ~z~You gonna have to chase me...
+
+CG_CAPT_RUN_W_05 = ~z~Damn this to hell.
+
+CG_CAPT_RUN_W_06 = ~z~My legs is paining me.
+
+CG_CAPT_RUN_W_07 = ~z~Damn these heavy legs!
+
+CG_CAPT_TAKE_BA_1 = ~z~Let's see if the sheriff's pleased to see you, eh?
+
+CG_CAPT_TAKE_BA_2 = ~z~I'll spit in his eye, and I'll spit on you when I get the chance.
+
+CG_CAPT_TAKE_BA_3 = ~z~It was self-defence.
+
+CG_CAPT_TAKE_BA_4 = ~z~Whatever, it was is your business... and mine's the reward money.
+
+CG_CAPT_TAKE_BA_5 = ~z~I should'a known what you was when I saw you.
+
+CG_CAPT_TAKE_BJ_1 = ~z~Let's see if the sheriff's pleased to see you, eh?
+
+CG_CAPT_TAKE_BJ_2 = ~z~I'll spit in his eye, and I'll spit on you when I get the chance.
+
+CG_CAPT_TAKE_BJ_3 = ~z~It was self-defence.
+
+CG_CAPT_TAKE_BJ_4 = ~z~Whatever, it was is your business... and mine's the reward money.
+
+CG_CAPT_TAKE_BJ_5 = ~z~I should'a known what you was when I saw you.
+
+CG_CAPT_TAKE_WA_1 = ~z~Now, let's get you to the jail house.
+
+CG_CAPT_TAKE_WA_2 = ~z~You know what they'll do to me. For killing a bastard that needed a killing!
+
+CG_CAPT_TAKE_WA_3 = ~z~There's you thinking I care about anything other than the price on your head.
+
+CG_CAPT_TAKE_WA_4 = ~z~Cold bastard.
+
+CG_CAPT_TAKE_WJ_1 = ~z~Now, let's get you to the jail house.
+
+CG_CAPT_TAKE_WJ_2 = ~z~You know what they'll do to me. For killing a bastard that needed a killing!
+
+CG_CAPT_TAKE_WJ_3 = ~z~There's you thinking I care about anything other than the price on your head.
+
+CG_CAPT_TAKE_WJ_4 = ~z~Cold bastard.
+
+CG_CAPT_WEAPON_1 = ~z~Shit...
+
+CG_CAPT_WEAPON_2 = ~z~Shit!
+
+CG_CAPT_WEAPON_3 = ~z~
+
+CG_CAPT_WEAPON_4 = ~z~
+
+CG_CAPT_W_DEAD_1 = ~z~This man had no call to kill my partner.
+
+RBWCG_ALD_META_1 = ~z~Alden, hey.
+
+RBWCG_ALD_META_2 = ~z~You know anything about these runaways... off the chain gang?
+
+RBWCG_ALD_META_3 = ~z~Oh hello. I heard both sides of that story.
+
+RBWCG_ALD_META_4 = ~z~They're either horrible murderers, or they were just defending themselves... take your pick which.
+
+RBWCG_ALD_META_5 = ~z~As to where they are... no idea sir.
+
+RBWCG_ALD_META_6 = ~z~Guess you don't know everything. So long.
+
+RBWCG_ALD_META_7 = ~z~Bye for now.
+
+RBWCG_ALD_METJ_1 = ~z~Alden, hey.
+
+RBWCG_ALD_METJ_2 = ~z~You know anything about these runaways... off the chain gang?
+
+RBWCG_ALD_METJ_3 = ~z~Oh hello. I heard both sides of that story.
+
+RBWCG_ALD_METJ_4 = ~z~They're either horrible murderers, or they were just defending themselves... take your pick which.
+
+RBWCG_ALD_METJ_5 = ~z~As to where they are... no idea sir.
+
+RBWCG_ALD_METJ_6 = ~z~Guess you don't know everything. So long.
+
+RBWCG_ALD_METJ_7 = ~z~Bye for now.
+
+RBWCG_ALD_NOTJ_1 = ~z~~sl:0.0:0.8~Partner.~sl:2.1~You know anything about these runaways... off the chain gang?
+
+RBWCG_ALD_NOTJ_2 = ~z~Now why would I know anything about that?
+
+RBWCG_ALD_NOTJ_3 = ~z~~sl:0.0:3.5~They're either guilty as sin, or innocent as lambs,~sl:~either way, they haven't been in here.
+
+RBWCG_ALD_NOTJ_4 = ~z~Alright, thanks.
+
+RBWCG_BHHOG_01 = ~z~~sl:1.4~Get this off of me.
+
+RBWCG_BHHOG_02 = ~z~~sl:0.9~The hell you doing?
+
+RBWCG_BHHOG_03 = ~z~~sl:0.7~Hey! Hey!
+
+RBWCG_BHHOG_04 = ~z~You dirty bastard.
+
+RBWCG_BHTAKE_1 = ~z~Mr. Black and Mr White...
+
+RBWCG_BHTAKE_2 = ~z~Interesting.
+
+RBWCG_BHTAKE_3 = ~z~
+
+RBWCG_FTATTACK_01 = ~z~No damn manners.
+
+RBWCG_FTATTACK_02 = ~z~This what you wanted.
+
+RBWCG_FTATTACK_03 = ~z~Bounty hunting bastard.
+
+RBWCG_FTATTACK_04 = ~z~You ain't the law, you know.
+
+RBWCG_FTFLEE_01 = ~z~You gonna do it then?
+
+RBWCG_FTFLEE_02 = ~z~The man's a menace.
+
+RBWCG_FTHOG_01 = ~z~~sl:1.3~What the hell?
+
+RBWCG_FTHOG_02 = ~z~~sl:0.5~I was minding my business.
+
+RBWCG_ONEDEADA_1 = ~z~Other one had an accident, so it's just this feller.
+
+RBWCG_ONEDEADJ_1 = ~z~Other one had an accident, so it's just this feller.
+
+RBWCG_RC1_1 = ~z~What you fools up to?
+
+RBWCG_RC1_2 = ~z~It's Mr. Black's fault!
+
+RBWCG_RC1_3 = ~z~It's his fault. The darkie, White!
+
+RBWCG_RC1_4 = ~z~Although I don't know why they call him that.
+
+RBWCG_RC1_5 = ~z~Look at him!
+
+RBWCG_RC1_6 = ~z~Don't you start now...
+
+RBWCG_RC1_7 = ~z~I'll knock the color clean off you.
+
+RBWCG_RC1_8 = ~z~Come on.
+
+RBWCG_RC1_9 = ~z~And I'll tar you, you lily livered...
+
+RBWCG_RC1_10 = ~z~Enough!
+
+RBWCG_RC1_11 = ~z~Say...
+
+RBWCG_RC1_12 = ~z~you two fools look like you've just run off a chain gang.
+
+RBWCG_RC1_13 = ~z~Yeah, what of it?
+
+RBWCG_RC1_14 = ~z~Well, what are you doing?
+
+RBWCG_RC1_15 = ~z~Starving.
+
+RBWCG_RC1_16 = ~z~They got bounty posters for us all over town.
+
+RBWCG_RC1_17 = ~z~And we can't go into town to get supplies.
+
+RBWCG_RC1_18 = ~z~Say, mister...
+
+RBWCG_RC1_19 = ~z~maybe you can do us fools a favor?
+
+RBWCG_RC1_20 = ~z~We ain't bad guys at all.
+
+RBWCG_RC1_21 = ~z~I mean, he's okay...
+
+RBWCG_RC1_22 = ~z~even for a darkie!
+
+RBWCG_RC1_23 = ~z~Shut it, you pasty faced streak of piss.
+
+RBWCG_RC1_24 = ~z~Yeah, I had it up to here with you.
+
+RBWCG_RC1_25 = ~z~Enough!
+
+RBWCG_RC1_26 = ~z~I'll do you a goddamn favor.
+
+RBWCG_RC1_27 = ~z~What you want?
+
+RBWCG_RC1_28 = ~z~Maybe you can go into town...
+
+RBWCG_RC1_29 = ~z~and take down them wanted posters of us.
+
+RBWCG_RC1_30 = ~z~Okay.
+
+RBWCG_RC1_31 = ~z~Maybe meet us back at the camp fire in the woods...
+
+RBWCG_RC1_32 = ~z~and tell us how you did.
+
+RBWCG_RC1_33 = ~z~And maybe bring us a little bite to eat?
+
+RBWCG_RC1_34 = ~z~Don't push your luck.
+
+RBWCG_RC1_35 = ~z~Nice feller.
+
+RBWCG_RC1_36 = ~z~Yeah, you love nice fellers.
+
+RBWCG_RC1_37 = ~z~What are you fools up to?
+
+RBWCG_RC1_38 = ~z~Enough.
+
+RBWCG_RC1_39 = ~z~Enough!
+
+RBWCG_RC1_40 = ~z~Say...
+
+RBWCG_RC1_41 = ~z~you two fools look like you've just run off from a chain gang.
+
+RBWCG_RC1_42 = ~z~What are you doing?
+
+RBWCG_RC1_43 = ~z~Enough.
+
+RBWCG_RC1_44 = ~z~I'll do you a goddamn favor.
+
+RBWCG_RC1_45 = ~z~What do you want?
+
+RBWCG_RC1_46 = ~z~Okay.
+
+RBWCG_RC1_47 = ~z~Don't push your luck.
+
+RBWCG_RC1_IG1_B_1 = ~z~~sl:1.7~You're leaving me, huh?
+
+RBWCG_RC1_IG1_B_2 = ~z~~sl:0.0:0.6:1~Sure.
+
+RBWCG_RC1_IG1_B_3 = ~z~Yeah? Well leave this, then!
+
+RBWCG_RC1_IG3_1 = ~z~It ain't as bad as you made out there.
+
+RBWCG_RC1_IG3_2 = ~z~Bad? They worse than worse.
+
+RBWCG_RC1_IG3_3 = ~z~You always was one for the gossip. Jethro Minglethorpe. Gossip, gossip, gossip.
+
+RBWCG_RC1_IG3_4 = ~z~But as usual, you're spreading lies.
+
+RBWCG_RC1_IG3_5 = ~z~Lies?
+
+RBWCG_RC1_IG3_6 = ~z~Every fool knows the charges were trumped up.
+
+RBWCG_RC1_IG3_7 = ~z~But the darkie killed a white man.
+
+RBWCG_RC1_IG3_8 = ~z~Jimmy Holdacre had a weak heart. He died of a heart attack.
+
+RBWCG_RC1_IG3_9 = ~z~Nonsense.
+
+RBWCG_RC1_IG3_10 = ~z~And Sampson Black was set up. Everyone knows Judge Amory took a bribe.
+
+RBWCG_RC1_IG3_11 = ~z~You don't believe that, do you?
+
+RBWCG_RC1_IG3_12 = ~z~Sure.
+
+RBWCG_RC1_IG3_13 = ~z~And you call me a gossip?
+
+RBWCG_RC1_IG3_14 = ~z~Anyway, how's your Tom?
+
+RBWCG_RC1_IG3_15 = ~z~He's fine... just fine. Marlene?
+
+RBWCG_RC1_IG3_16 = ~z~Still with us. Have a fine day.
+
+RBWCG_RC1_LI_1 = ~z~
+
+RBWCG_RC1_LI_2 = ~z~
+
+RBWCG_RC1_LI_3 = ~z~What you fools up to?
+
+RBWCG_RC1_LO_1 = ~z~Don't you start up again. Just shut up.
+
+RBWCG_RC1_LO_2 = ~z~You shut up!
+
+RBWCG_RC2_1 = ~z~Hey friend.
+
+RBWCG_RC2_2 = ~z~Hello.
+
+RBWCG_RC2_3 = ~z~How was it in town?
+
+RBWCG_RC2_4 = ~z~Pretty hot...
+
+RBWCG_RC2_5 = ~z~there's quite a price on you boys.
+
+RBWCG_RC2_6 = ~z~It is so unfair...
+
+RBWCG_RC2_7 = ~z~I-I didn't do nothing.
+
+RBWCG_RC2_8 = ~z~Well they said you was wanted for murder.
+
+RBWCG_RC2_9 = ~z~It wasn't murder...
+
+RBWCG_RC2_10 = ~z~it was self-defense.
+
+RBWCG_RC2_11 = ~z~And you...
+
+RBWCG_RC2_12 = ~z~killed a farmer?
+
+RBWCG_RC2_13 = ~z~Firstly, I would have...
+
+RBWCG_RC2_14 = ~z~but he died before I could.
+
+RBWCG_RC2_15 = ~z~And secondly...
+
+RBWCG_RC2_16 = ~z~well, he had it coming.
+
+RBWCG_RC2_17 = ~z~He...
+
+RBWCG_RC2_18 = ~z~I don't like to say.
+
+RBWCG_RC2_19 = ~z~Well...
+
+RBWCG_RC2_20 = ~z~Hello.
+
+RBWCG_RC2_21 = ~z~Pretty hot...
+
+RBWCG_RC2_22 = ~z~they got quite a price on you boys.
+
+RBWCG_RC2_23 = ~z~Well they said you was wanted for murder.
+
+RBWCG_RC2_24 = ~z~And you...
+
+RBWCG_RC2_25 = ~z~killed a farmer?
+
+RBWCG_RC2_26 = ~z~Well...
+
+RBWCG_RC2_BPJ_1 = ~z~Ain't no business of mine. Here's the posters.
+
+RBWCG_RC2_BPJ_2 = ~z~Thanks partner.
+
+RBWCG_RC2_BP_1 = ~z~Ain't no business of mine. Here's the posters.
+
+RBWCG_RC2_BP_2 = ~z~Thanks partner.
+
+RBWCG_RC2_IG1J_1 = ~z~Sorry about this gentlemen but I need the money. You boys are coming with me.
+
+RBWCG_RC2_IG1_1 = ~z~Sorry about this gentlemen but I need the money. You boys are coming with me.
+
+RBWCG_RC2_LIJ_1 = ~z~Hey, friend.
+
+RBWCG_RC2_LIJ_2 = ~z~Hello.
+
+RBWCG_RC2_LIJ_3 = ~z~How was in town?
+
+RBWCG_RC2_LI_1 = ~z~Hey, friend.
+
+RBWCG_RC2_LI_2 = ~z~Hello.
+
+RBWCG_RC2_LI_3 = ~z~How was in town?
+
+RBWCG_RC3_1 = ~z~Hey mister...
+
+RBWCG_RC3_2 = ~z~Oh, hey friend.
+
+RBWCG_RC3_3 = ~z~You boys don't look so fresh.
+
+RBWCG_RC3_4 = ~z~We ain't...
+
+RBWCG_RC3_5 = ~z~I think we're dying, friend.
+
+RBWCG_RC3_6 = ~z~We ate some bad mushrooms.
+
+RBWCG_RC3_7 = ~z~Bad business, sure.
+
+RBWCG_RC3_8 = ~z~It's been real tough partner.
+
+RBWCG_RC3_9 = ~z~So it seems.
+
+RBWCG_RC3_10 = ~z~I hate to ask...
+
+RBWCG_RC3_11 = ~z~but...
+
+RBWCG_RC3_12 = ~z~we need some medicine...
+
+RBWCG_RC3_13 = ~z~and kind of fast...
+
+RBWCG_RC3_14 = ~z~Medicine?
+
+RBWCG_RC3_15 = ~z~Yeah, look at us...
+
+RBWCG_RC3_16 = ~z~look at me...
+
+RBWCG_RC3_17 = ~z~and he's worse than he looks...
+
+RBWCG_RC3_18 = ~z~and he looks like shit.
+
+RBWCG_RC3_19 = ~z~He ain't gonna last three days...
+
+RBWCG_RC3_20 = ~z~and me...
+
+RBWCG_RC3_21 = ~z~I ain't well...
+
+RBWCG_RC3_22 = ~z~not at all.
+
+RBWCG_RC3_23 = ~z~Not at all.
+
+RBWCG_RC3_24 = ~z~I'm-I'm begging you, partner.
+
+RBWCG_RC3_25 = ~z~You boys don't look so fresh.
+
+RBWCG_RC3_26 = ~z~Bad business, sure.
+
+RBWCG_RC3_27 = ~z~So it seems.
+
+RBWCG_RC3_28 = ~z~Medicine?
+
+RBWCG_RC3_29 = ~z~Not at all.
+
+RBWCG_RC3_LIJ_1 = ~z~Hey mister...
+
+RBWCG_RC3_LIJ_2 = ~z~Oh, hey friend.
+
+RBWCG_RC3_LIJ_3 = ~z~You boys don't look so fresh.
+
+RBWCG_RC3_LI_1 = ~z~Hey mister...
+
+RBWCG_RC3_LI_2 = ~z~Oh, hey friend.
+
+RBWCG_RC3_LI_3 = ~z~You boys don't look so fresh.
+
+RBWCG_RC3_LO_1 = ~z~
+
+RBWCG_RC4_1 = ~z~White, I told you he'd help us...
+
+RBWCG_RC4_2 = ~z~I told you...
+
+RBWCG_RC4_3 = ~z~I told you didn't I?
+
+RBWCG_RC4_4 = ~z~You did...
+
+RBWCG_RC4_5 = ~z~you told me...
+
+RBWCG_RC4_6 = ~z~you told me a lot of things.
+
+RBWCG_RC4_7 = ~z~We're gonna be alright, buddy.
+
+RBWCG_RC4_8 = ~z~Are we?
+
+RBWCG_RC4_9 = ~z~Well, physically...
+
+RBWCG_RC4_10 = ~z~drink this.
+
+RBWCG_RC4_11 = ~z~Oh, give it to Black first.
+
+RBWCG_RC4_12 = ~z~No, no, no, I'll give it to White, he's...
+
+RBWCG_RC4_13 = ~z~No, no, you take it...
+
+RBWCG_RC4_14 = ~z~No, no, you take it...~n~~m~Drink this and shut up.
+
+RBWCG_RC4_15 = ~z~~m~Drink this and shut up.
+
+RBWCG_RC4_16 = ~z~Thank you...
+
+RBWCG_RC4_17 = ~z~Oh... oh, that's good stuff.
+
+RBWCG_RC4_18 = ~z~But listen...
+
+RBWCG_RC4_19 = ~z~I reckon you boys should get on out of here...
+
+RBWCG_RC4_20 = ~z~maybe split up...
+
+RBWCG_RC4_21 = ~z~head up north or overseas.
+
+RBWCG_RC4_22 = ~z~They don't like...
+
+RBWCG_RC4_23 = ~z~groups of men.
+
+RBWCG_RC4_24 = ~z~I know.
+
+RBWCG_RC4_25 = ~z~I hear you, boss.
+
+RBWCG_RC4_26 = ~z~Well, physically...
+
+RBWCG_RC4_27 = ~z~drink this.
+
+RBWCG_RC4_28 = ~z~~m~Drink this and shut up.
+
+RBWCG_RC4_29 = ~z~Now listen...
+
+RBWCG_RC4_30 = ~z~I reckon you boys should get on out of here...
+
+RBWCG_RC4_31 = ~z~maybe split up...
+
+RBWCG_RC4_32 = ~z~head off up north or overseas.
+
+RBWCG_RC4_33 = ~z~They don't like...
+
+RBWCG_RC4_34 = ~z~groups of men.
+
+RBWCG_RC4_35 = ~z~I know.
+
+RBWCG_RC4_LIJ_1 = ~z~
+
+RBWCG_RC4_LIJ_2 = ~z~White, I told you he'd help us,
+
+RBWCG_RC4_LIJ_3 = ~z~I told you.
+
+RBWCG_RC4_LIJ_4 = ~z~I told you, did I?
+
+RBWCG_RC4_LI_1 = ~z~
+
+RBWCG_RC4_LI_2 = ~z~White, I told you he'd help us,
+
+RBWCG_RC4_LI_3 = ~z~
+
+RBWCG_RC4_LI_4 = ~z~I told you.
+
+RBWCG_RC4_LI_5 = ~z~I told you, did I?
+
+RBWCG_RC4_LO_1 = ~z~It's time.
+
+RBWCG_RC4_LO_2 = ~z~
+
+RBWCG_RC4_LO_3 = ~z~O-once we're better.
+
+RBWCG_RC4_LO_4 = ~z~Oh, yeah, well, I agree, I mean,
+
+RBWCG_RC4_LO_5 = ~z~I-I-I can't wait to be rid of you...
+
+RBWCG_RC4_LO_6 = ~z~Embarrassing.
+
+RBWCG_RC4_LO_7 = ~z~Embarrassing?
+
+RBWCG_RC4_LO_8 = ~z~Yeah, you're an embarrassment.
+
+RBWCG_RC4_LO_9 = ~z~
+
+RBWCG_RC4_LO_10 = ~z~Well, be embarrassed no more.
+
+RBWCG_RC4_LO_11 = ~z~Get back to where folks like you, and I'll go where they like me.
+
+RBWCG_RC4_LO_12 = ~z~Oh, I shall.
+
+RBWCG_RC4_LO_13 = ~z~Oh, shut up, will you?
+
+RBWCG_RC4_LO_14 = ~z~With pleasure.
+
+RBWCG_RC4_LO_15 = ~z~
+
+RBWCG_RC5_1 = ~z~Hey, you alright, mister?
+
+RBWCG_RC5_2 = ~z~Can we, err...
+
+RBWCG_RC5_3 = ~z~can we help you?
+
+RBWCG_RC5_4 = ~z~I'm fine.
+
+RBWCG_RC5_5 = ~z~Oh...
+
+RBWCG_RC5_6 = ~z~I know you two!
+
+RBWCG_RC5_7 = ~z~Hey...
+
+RBWCG_RC5_8 = ~z~look who it is.
+
+RBWCG_RC5_9 = ~z~I barely recognized you boys...
+
+RBWCG_RC5_10 = ~z~on account of you not trying to kill each other.
+
+RBWCG_RC5_11 = ~z~Yeah, well somebody learned his manners...
+
+RBWCG_RC5_12 = ~z~finally.
+
+RBWCG_RC5_13 = ~z~So you boys didn't run away?
+
+RBWCG_RC5_14 = ~z~Nah, nobody looking out here.
+
+RBWCG_RC5_15 = ~z~I reckon we're...
+
+RBWCG_RC5_16 = ~z~we're okay.
+
+RBWCG_RC5_17 = ~z~Alright...
+
+RBWCG_RC5_18 = ~z~but the law's pretty...
+
+RBWCG_RC5_19 = ~z~well, it's pretty vigorous these days.
+
+RBWCG_RC5_20 = ~z~I told you we should leave...
+
+RBWCG_RC5_21 = ~z~but did you want to listen?
+
+RBWCG_RC5_22 = ~z~Oh, no...
+
+RBWCG_RC5_23 = ~z~Mr. High and Mighty, he don't listen to no one.
+
+RBWCG_RC5_24 = ~z~Oh, would you just shut up?
+
+RBWCG_RC5_25 = ~z~I will not...
+
+RBWCG_RC5_26 = ~z~I will not shut up.
+
+RBWCG_RC5_27 = ~z~You know what?
+
+RBWCG_RC5_28 = ~z~You'll shut up when I shut you up.
+
+RBWCG_RC5_29 = ~z~Oh, that's real funny...
+
+RBWCG_RC5_30 = ~z~I cannot believe that I'm stuck out here with only you to talk to.
+
+RBWCG_RC5_31 = ~z~I'm fine.
+
+RBWCG_RC5_32 = ~z~Oh, I know you two.
+
+RBWCG_RC5_33 = ~z~I barely recognized you boys...
+
+RBWCG_RC5_34 = ~z~on account of you not trying to kill each other.
+
+RBWCG_RC5_35 = ~z~So you boys didn't run away?
+
+RBWCG_RC5_36 = ~z~Alright...
+
+RBWCG_RC5_37 = ~z~but the law's pretty...
+
+RBWCG_RC5_38 = ~z~well, it's pretty vigorous these days.
+
+RBWCG_RC5_IG1_1 = ~z~I'd get a better conversation from the goddamn trees.
+
+RBWCG_RC5_IG1_2 = ~z~I know. I've seen you talking to 'em.
+
+RBWCG_RC5_IG1_3 = ~z~They should'a hanged you for being a moron.
+
+RBWCG_RC5_IG1_4 = ~z~You're an unkind man, Mr. Black.
+
+RBWCG_RC5_IG1_5 = ~z~Oh... Let me in. Let...
+
+RBWCG_RC5_IG1_6 = ~z~Let me in. Open the door. Come on, let me in.
+
+RBWCG_RC5_IG1_7 = ~z~I'll kill you myself!
+
+RBWCG_RC5_IG1_8 = ~z~Go away.
+
+RBWCG_RC5_IG1_9 = ~z~Let me in. I...
+
+RBWCG_RC5_IG1_10 = ~z~I-I'm sorry. Okay? I'm sorry.
+
+RBWCG_RC5_IG1_11 = ~z~Now let me in.
+
+RBWCG_RC5_IG1_12 = ~z~Go away.
+
+RBWCG_RC5_IG1_13 = ~z~I'm so, I'm, I...
+
+RBWCG_RC5_IG1_14 = ~z~I'll make dinner... again. Alright? I'm sorry.
+
+RBWCG_RC5_IG1_15 = ~z~Say you're sorry again.
+
+RBWCG_RC5_IG1_16 = ~z~I'm real sorry.
+
+RBWCG_RC5_LIJ_1 = ~z~Hey, you alright, mister?
+
+RBWCG_RC5_LIJ_2 = ~z~Can we, err... can we help you?
+
+RBWCG_RC5_LIJ_3 = ~z~I'm fine.
+
+RBWCG_RC5_LI_1 = ~z~Hey, you alright, mister?
+
+RBWCG_RC5_LI_2 = ~z~Can we, err... can we help you?
+
+RBWCG_RC5_LI_3 = ~z~I'm fine.
+
+RBWCG_RC5_LP1_1 = ~z~I tell you there's a nest over there.
+
+RBWCG_RC5_LP1_2 = ~z~You see that nest and them blue jays over there?
+
+RBWCG_RC5_LP1_3 = ~z~I don't think that's over there. I think it's somewhere else.
+
+RBWCG_RC5_LP1_4 = ~z~Oh, it's right over there.
+
+RBWCG_RC5_LP1_5 = ~z~Are you sure?
+
+RBWCG_RC5_LP1_6 = ~z~They're flying back and forth, don't you see 'em?
+
+RBWCG_RC5_LP1_7 = ~z~You know, your eyes are not good.
+
+RBWCG_RC5_LP1_8 = ~z~Well, I know they ain't good,
+
+RBWCG_RC5_LP1_9 = ~z~but good enough to see what a blue jay looks like.
+
+RBWCG_RC5_LP1_10 = ~z~Okay...
+
+RBWCG_RC5_LP2_1 = ~z~This is just a hell of a trip we've had.
+
+RBWCG_RC5_LP2_2 = ~z~I tell you, we survived...
+
+RBWCG_RC5_LP2_3 = ~z~Guess so.
+
+RBWCG_RC5_LP2_4 = ~z~That's the most important thing. We survived!
+
+RBWCG_RC5_LP2_5 = ~z~Yeah...
+
+RBWCG_RC5_LP3_1 = ~z~Uh, 'member, remember that time we were... we were...
+
+RBWCG_RC5_LP3_2 = ~z~I was carrying you... th-da-da-da-da-those woods there? Remember that?
+
+RBWCG_RC5_LP3_3 = ~z~Yeah, I mean...
+
+RBWCG_RC5_LP3_4 = ~z~Man, I didn't think I could carry you...
+
+RBWCG_RC5_LP3_5 = ~z~How could I forget?
+
+RBWCG_RC5_LP3_6 = ~z~Man, that were... you were so sick. Sick as a dog.
+
+RBWCG_RC5_LP3_7 = ~z~Eating all them mushrooms...
+
+RBWCG_RC5_LP4_1 = ~z~I love our place though so thank God we have it.
+
+RBWCG_RC5_LP4_2 = ~z~For now...
+
+RBWCG_RC5_LP4_3 = ~z~Well...
+
+RBWCG_RC5_LP4_4 = ~z~I just hope nobody come looking for it.
+
+RBWCG_RC5_LP4_5 = ~z~No one ain't find us out here. What are you, nuts?
+
+RBWCG_RC5_LP4_6 = ~z~Okay...
+
+RBWCG_RC5_LP4_7 = ~z~We couldn't even find this place, how they gonna find it?
+
+RBWCG_RC5_LP4_8 = ~z~We stumbled into it.
+
+RBWCG_RC5_LP4_9 = ~z~Somebody can. We found it, somebody else'll find it.
+
+RBWCG_SRF_AVE2A_1 = ~z~Two makes a pair.
+
+RBWCG_SRF_AVE2J_1 = ~z~Two makes a pair.
+
+RBWCG_SRF_AVE2S_1 = ~z~Well done, sir. Well done. Put him in the cell for me.
+
+RBWCG_SRF_BLCK_1 = ~z~Damn you traitorous bastard.
+
+RBWCG_SRF_BNTY_1 = ~z~Hey, we're looking for some escapees... got posters all over town, if you'd like to help.
+
+RBWCG_SRF_CGAA_1 = ~z~Got one of those fellers ran off the chain gang.
+
+RBWCG_SRF_CGAJ_1 = ~z~Got one of those fellers ran off the chain gang.
+
+RBWCG_SRF_CGAS_1 = ~z~I knew they was round here. Put him in the cell.
+
+RBWCG_SRF_COMA_1 = ~z~The other one will be in shortly.
+
+RBWCG_SRF_COMJ_1 = ~z~The other one will be in shortly.
+
+RBWCG_SRF_COMS_1 = ~z~Good work, son.
+
+RBWCG_SRF_GNEA_1 = ~z~The other one's loose, don't think I'll catch him.
+
+RBWCG_SRF_GNEJ_1 = ~z~The other one's loose, don't think I'll catch him.
+
+RBWCG_SRF_GNES_1 = ~z~I can pay you for what we have then.
+
+RBWCG_SRF_GNES_2 = ~z~Here you are.
+
+RBWCG_SRF_MNG_1 = ~z~Couple of fellers missing. Got posters up all over town.
+
+RBWCG_SRF_PAYA_1 = ~z~You know, he was alright that feller... but these coins are better.
+
+RBWCG_SRF_PAYJ_1 = ~z~You know, he was alright that feller... but these coins are better.
+
+RBWCG_SRF_PD2A_1 = ~z~You know, they were alright fellers, so this'll weigh heavy on me... but the coins'll help.
+
+RBWCG_SRF_PD2J_1 = ~z~You know, they were alright fellers, so this'll weigh heavy on me... but the coins'll help.
+
+RBWCG_SRF_PD2S_1 = ~z~That's the price for two escaped convicts.
+
+RBWCG_SRF_PDBK_1 = ~z~Damn you to hell.
+
+RBWCG_SRF_PDWT_1 = ~z~You devil.
+
+RBWCG_SRF_WHT_1 = ~z~I knew we shouldn't a trusted you.
+
+RWCG_RC1_IG1_A_1 = ~z~I'm bored with doing all the work around here, Wendell White.
+
+RWCG_RC1_IG1_A_2 = ~z~Well I'm getting bored of you claiming you doing all the work, Mr. Black.
+
+RWCG_RC1_IG1_A_3 = ~z~I went the last time.
+
+RWCG_RC1_IG1_A_4 = ~z~Yeah, fat lot of good that did us.
+
+RWCG_RC1_IG1_A_5 = ~z~Well, we ain't dead yet.
+
+RWCG_RC1_IG1_A_6 = ~z~Yeah, we ain't dead and we ain't fed.
+
+RWCG_RC1_IG1_A_7 = ~z~I'm getting bored of you, Mr. Black. I reckon we go it alone.
+

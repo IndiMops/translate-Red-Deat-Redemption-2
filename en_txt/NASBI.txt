@@ -1,0 +1,120 @@
+0x61F651CF = Search the valley and find the bison herd. Sedate the Legendary Payta Bison to retrieve a sample for Harriet.
+
+0x8338BD61 = You found some bison fur, rubbed off against a tree. Follow the bison trail that starts nearby.
+
+0x8963D61B = You found a pile of fresh bison scat. Follow the bison trail ~1b~ that starts nearby.
+
+0x14000995 = Sedate the ~COLOR_MP_OBJECTIVE~Legendary Payta Bison~s~
+
+0xBBAFA6C5 = You found a broken bison horn covered in stale blood. Follow the bison trail ~1b~ that starts nearby.
+
+0xFC189934 = Find the ~COLOR_MP_OBJECTIVE~Poacher Camp~s~
+
+FETCH_NAT_SIGHTING_HELP_CLUE_FOUND_POACHER_DEAD_END = Keep looking for signs around the camp.
+
+FETCH_NAT_SIGHTING_HELP_CLUE_FOUND_POACHER_DEAD_END1 = One of the poachers' arrow bundles. Keep searching the camp.
+
+FETCH_NAT_SIGHTING_HELP_CLUE_FOUND_POACHER_DEAD_END2 = Some boxes of ammo the poachers left behind. Keep searching the camp.
+
+FETCH_NAT_SIGHTING_HELP_CLUE_FOUND_POACHER_DEAD_END3 = An animal cage broken by some great force. Keep searching the camp.
+
+FETCH_NAT_SIGHTING_HELP_CLUE_FOUND_POACHER_DEAD_END4 = A bear trap, soon to be placed somewhere. Keep searching the camp.
+
+FETCH_NAT_SIGHTING_HELP_FINAL_CLUE_BISON = The bison herd should be close by. Spot the Legendary Payta Bison from afar to plan an approach.
+
+FETCH_NAT_SIGHTING_HELP_OBJECTIVE_DEAD_BISON = The Legendary Payta Bison has been sedated. Collect the sample.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_BISON = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the Legendary Payta Bison.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_BISON_CAGED = Each cage contains an animal from the valley. Free the animal inside and see if it's the Legendary Payta Bison.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_BISON_CAGE_FOUND = Open the cage to release the animal.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_BISON_KM = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the Legendary Payta Bison.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_BISON_POACHERS = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs around the camp.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_BISON_POACHERS_KM = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs around the camp.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_CLUE_FOUND_BISON = You found a trail ~1b~. Track the herd's movements and find their resting location.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_CLUE_FOUND_BISON_BEAR = A bear carcass, gored by a bison. The trail ends here, which means the herd should be close.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_CLUE_FOUND_BISON_BISON = This bison was killed by a bear just a short time ago. The trail looks as though it's coming to an end.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_CLUE_FOUND_BISON_GUN = A hunter's gun snapped in half. Keep following the bison trail.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_CLUE_FOUND_BISON_HAT = A hunter's hat dropped in haste. Keep following the bison trail.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_CLUE_FOUND_BISON_HORN = A bison's horn broken and torn off brutally. Keep following the bison trail.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_CLUE_FOUND_BISON_HOUND = The hunter's companion, killed by a forceful impact. The trail looks as though it's coming to an end.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_CLUE_FOUND_BISON_HUNTER = The hunter, chased down and gored by a bison. The trail ends here, which means the herd should be close.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_CLUE_FOUND_BISON_POACHERS = You found where the poachers plan on catching the bison. Make sure you get to it before they do.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_CLUE_FOUND_BISON_STICKS = These sticks look like they were broken in a struggle. Keep following the bison trail.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_CLUE_FOUND_BISON_WOLF1 = A young wolf, trampled and gored. The trail looks as though it's coming to an end.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_CLUE_FOUND_BISON_WOLF2 = Another wolf, this time chased down into some bushes. The trail ends here, which means the herd should be close.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_CLUE_FOUND_BISON_WOLF_FUR = A pile of wolf fur, torn off in a fight. Keep following the bison trail.
+
+FETCH_NAT_SIGHTING_HELP_SECONDARY_BISON = Separate the Legendary Payta Bison from the herd
+
+FETCH_NAT_SIGHTING_HELP_TEAM_PRIMARY_BISON_CAGED = The Legendary Payta Bison ~1b~ has been captured and caged by local poachers. Find the bison's cage and set it free.
+
+FETCH_NAT_SIGHTING_HELP_TEAM_PRIMARY_BISON_HERD = Search the valley and find the Legendary Payta Bison ~1b~ with its herd. Sedate it and take a sample.
+
+FETCH_NAT_SIGHTING_HELP_TEAM_PRIMARY_BISON_POACHERS = Poachers in this area have been tracking the Legendary Payta Bison ~1b~. Find out where they last spotted it.
+
+FETCH_NAT_SIGHTING_KILL_ATTACKERS_BISON = Take out the ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+FETCH_NAT_SIGHTING_OBJ_FIND_CAGED = Find the caged ~COLOR_MP_OBJECTIVE~Legendary Payta Bison~s~
+
+FETCH_NAT_SIGHTING_OBJ_FIND_HERD = Find the bison herd nearby
+
+FETCH_NAT_SIGHTING_OBJ_LOOT_BISON = Collect the ~COLOR_MP_OBJECTIVE~Legendary Payta Bison~s~ sample
+
+FETCH_NAT_SIGHTING_SHARD_DESTROYED_BISON = Legendary Payta Bison was too damaged
+
+FETCH_NAT_SIGHTING_SHARD_PRIMARY_INTRO_BISON = Retrieve a sample from the Legendary Payta Bison
+
+FETCH_NAT_SIGHT_BISON_HELP_OBJECTIVE_ESCAPING = The ~COLOR_MP_OBJECTIVE~Legendary Payta Bison~s~ is getting too far away and will soon escape.
+
+FETCH_NAT_SIGHT_BISON_OBJ_SEARCH_AREA = Look for ~COLOR_MP_OBJECTIVE~signs~s~ of the bison herd
+
+FETCH_NAT_SIGHT_BISON_OBJ_SEARCH_AREA_CAGED = Identify the right ~COLOR_MP_OBJECTIVE~cage~s~
+
+FETCH_NAT_SIGHT_BISON_POACHERS_KILL = Take out the ~COLOR_ENEMY~poachers~s~ at the camp
+
+FETCH_NAT_SIGHT_BISON_POACHERS_KILL_DESTINATION = Take out the remaining ~COLOR_ENEMY~poachers~s~
+
+FETCH_NAT_SIGHT_BISON_SCORETIMER_CLUE_INSPECTED = ~COLOR_MP_OBJECTIVE_FRIENDLY~~1~~s~ inspected a clue
+
+FETCH_NAT_SIGHT_BISON_SHARD_ESCAPED = Legendary Payta Bison escaped
+
+FETCH_NAT_SIGHT_BISON_SHARD_PRIMARY_PASS = Legendary Payta Bison sample retrieved
+
+FETCH_NAT_SIGHT_BISON_SHARD_PRIMARY_PASS_PARTIAL = Legendary Payta Bison skinned
+
+FETCH_NAT_SIGHT_HELP_LOOK_AT_CLUE_BISON = Focus on the clue
+
+FETCH_NAT_SIGHT_INSPECT_CLUE_BISON = Inspect
+
+FETCH_NAT_SIGHT_OBJ_FIND_BISON = Follow the Legendary Payta Bison ~COLOR_MP_OBJECTIVE~trail~s~
+
+FETCH_NAT_SIGHT_OBJ_FIND_BISON_CAGED = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the right cage
+
+FETCH_NAT_SIGHT_OBJ_FIND_BISON_POACHERS = Search the ~COLOR_MP_OBJECTIVE~camp~s~ for the Legendary Payta Bison location
+
+FETCH_NAT_SIGHT_OBJ_GOTO_BISON = Go to the ~COLOR_MP_OBJECTIVE~sighting area~s~
+
+FETCH_NAT_SIGHT_OBJ_GOTO_BISON_CAGED = Go to the poacher ~COLOR_MP_OBJECTIVE~hunting area~s~
+
+FETCH_NAT_SIGHT_OBJ_GOTO_BISON_POACHERS = Go to the ~COLOR_MP_OBJECTIVE~Poacher Camp~s~
+
+FETCH_NAT_SIGHT_OBJ_GOTO_BISON_POACHERS2 = Go to the bison ambush ~COLOR_MP_OBJECTIVE~area~s~
+

@@ -1,0 +1,22 @@
+CKAR8_ACTION_1 = ~z~Ah, what a delightful surprise...
+
+CKAR8_ACTION_2 = ~z~Hello, Karen.
+
+CKAR8_ACTION_3 = ~z~Hello, Miss Grimshaw... how is your meal?
+
+CKAR8_ACTION_4 = ~z~Fine.
+
+CKAR8_ACTION_5 = ~z~I'm so glad...
+
+CKAR8_ACTION_6 = ~z~You know, while we were stuck up that mountain, I thought long and hard about if we'd have to eat you.
+
+CKAR8_ACTION_7 = ~z~Very amusing.
+
+CKAR8_ACTION_8 = ~z~I suggested we roasted you alive, but... Mr. Pearson was keener on chopping you up and turning you into stew.
+
+CKAR8_ACTION_9 = ~z~Said he couldn't bear to see your face for even one moment longer than he had to.
+
+CKAR8_ACTION_10 = ~z~You're quite the amusing companion, aren't ya?
+
+CKAR8_ACTION_11 = ~z~I like to think so.
+

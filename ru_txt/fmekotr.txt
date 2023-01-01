@@ -1,0 +1,32 @@
+0x910172C0 = Железнодорожный барон
+
+FME_KOTR_BLIP_NAME = Вагон
+
+FME_KOTR_GAME_UPDATE_MOVED_TITLE = Захватите новый вагон
+
+FME_KOTR_GAME_UPDATE_NEW_CAR_WARNING = Сектор захвата скоро поменяет местоположение
+
+FME_KOTR_HELP_CONTENT_RULES = Войдите и оставайтесь в отмеченном флагами ~COLOR_MP_OBJECTIVE_NEUTRAL~вагоне поезда~s~, чтобы захватить его и набрать очки.
+
+FME_KOTR_HELP_ENEMY_KING = Войдите в вагон поезда ~COLOR_MP_OBJECTIVE_ENEMY~~BLIP_AMBIENT_TRAIN~~s~ и убейте ~COLOR_MP_OBJECTIVE_ENEMY~железнодорожного барона~BLIP_AMBIENT_KING~~s~, чтобы захватить вагон.
+
+FME_KOTR_HELP_FRIENDLY_KING = Войдите в отмеченный вагон поезда ~COLOR_MP_OBJECTIVE_FRIENDLY~~BLIP_AMBIENT_TRAIN~~s~ с ~COLOR_MP_OBJECTIVE_FRIENDLY~членом вашего отряда ~BLIP_AMBIENT_KING~~s~, чтобы увеличить и ваш счет тоже.
+
+FME_KOTR_HELP_RULES = Захватывайте вагоны в роли ~COLOR_FREEMODE_EVENT~железнодорожного барона~s~, чтобы набрать больше всех очков и победить.
+
+FME_KOTR_OBJECTIVE_ATTACK = Перехватите контроль над ~COLOR_MP_OBJECTIVE_ENEMY~вагоном~s~ у ~COLOR_MP_OBJECTIVE_ENEMY~~1p~.
+
+FME_KOTR_OBJECTIVE_DEFEND_SELF = Защищайте ~COLOR_MP_OBJECTIVE_FRIENDLY~вагон~s~.
+
+FME_KOTR_OBJECTIVE_DEFEND_TEAM = Помогите защищать ~COLOR_MP_OBJECTIVE_FRIENDLY~вагон~s~.
+
+FME_KOTR_OBJECTIVE_ENTER = Захватите ~COLOR_MP_OBJECTIVE_NEUTRAL~вагон~s~.
+
+FME_KOTR_SHARD_INTRO = Захватите и удерживайте ~COLOR_MP_OBJECTIVE_NEUTRAL~вагон.
+
+FME_KOTR_SHARD_OUTRO_PRIMARY_FAILED = ~1p~ становится железнодорожным бароном
+
+FME_KOTR_SHARD_OUTRO_PRIMARY_WON = Вы набрали ~1~ очко.
+
+FME_KOTR_SHARD_OUTRO_PRIMARY_WON_PLURAL = Ваш счет: ~1~
+

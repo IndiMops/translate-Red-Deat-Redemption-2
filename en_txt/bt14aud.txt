@@ -1,0 +1,332 @@
+RBT14_APPHUTA_1 = ~z~Uhh... hello?
+
+RBT14_APPHUTA_2 = ~z~Laidlaw?
+
+RBT14_APPHUTJ_1 = ~z~Uhh... hello?
+
+RBT14_APPHUTJ_2 = ~z~Laidlaw?
+
+RBT14_BOMBRSPA_1 = ~z~Shit!
+
+RBT14_BOMBRSPA_2 = ~z~Hey, I was thinking 'bout giving up on you before you threw that...
+
+RBT14_BOMBRSPA_3 = ~z~Now I'm taking you in for sure.
+
+RBT14_C1NEGARSP_1 = ~z~There's nothing you can do, you bastard. It's a sheriff's office.
+
+RBT14_C1NEGARSP_2 = ~z~Less you want a cell right next to me, you dunderhead.
+
+RBT14_C1NEGARSP_3 = ~z~That might be a bargain I'm willing to strike.
+
+RBT14_C1NEGJRSP_1 = ~z~There's nothing you can do, you bastard. It's a sheriff's office.
+
+RBT14_C1NEGJRSP_2 = ~z~Less you want a cell right next to me, you dunderhead.
+
+RBT14_C1NEGJRSP_3 = ~z~That might be a bargain I'm willing to strike.
+
+RBT14_C1POSARSP_1 = ~z~Aye, fine enough. Don't need you in here, telling more tales.
+
+RBT14_C1POSARSP_2 = ~z~Fortunately, I can do what I want.
+
+RBT14_C1POSJRSP_1 = ~z~Aye, fine enough. Don't need you in here, telling more tales.
+
+RBT14_C1POSJRSP_2 = ~z~Fortunately, I can do what I want.
+
+RBT14_C2NEGARSP_1 = ~z~I lost it at poker... what you think, you daft prick? Some goon took her out with a hook.
+
+RBT14_C2NEGARSP_2 = ~z~Figured someone woulda take a disliking to you.
+
+RBT14_C2NEGJRSP_1 = ~z~I lost it at poker... what you think, you daft prick? Some goon took her out with a hook.
+
+RBT14_C2NEGJRSP_2 = ~z~Figured someone woulda take a disliking to you.
+
+RBT14_C2POSARSP_1 = ~z~Aye, I do. Except me freedom, which you so cruelly took.
+
+RBT14_C2POSARSP_2 = ~z~Just doing what the poster said... you was good, no one woulda come after you.
+
+RBT14_C2POSARSP_3 = ~z~Believe that, do you?
+
+RBT14_C2POSJRSP_1 = ~z~Aye, I do. Except me freedom, which you so cruelly took.
+
+RBT14_C2POSJRSP_2 = ~z~Just doing what the poster said... you was good, no one woulda come after you.
+
+RBT14_C2POSJRSP_3 = ~z~Believe that, do you?
+
+RBT14_C3NEGARSP_1 = ~z~The suspense is killing me. Now get out of here, you morbid depressing bastard.
+
+RBT14_C3NEGARSP_2 = ~z~Tell them if they need me to testify, I'm more than willing.
+
+RBT14_C3NEGARSP_3 = ~z~Bollocks. You wouldn't go near a courthouse. You're shady as they come.
+
+RBT14_C3NEGJRSP_1 = ~z~The suspense is killing me. Now get out of here, you morbid depressing bastard.
+
+RBT14_C3NEGJRSP_2 = ~z~Tell them if they need me to testify, I'm more than willing.
+
+RBT14_C3NEGJRSP_3 = ~z~Bollocks. You wouldn't go near a courthouse. You're shady as they come.
+
+RBT14_C3POSARSP_1 = ~z~It's a shambles, the legal system here... Scottish law, now that's something.
+
+RBT14_C3POSARSP_2 = ~z~Saved the world it did. Not this bollock in the arsehole of Lemoyne.
+
+RBT14_C3POSARSP_3 = ~z~I should have been gone home years ago.
+
+RBT14_C3POSARSP_4 = ~z~Enjoy it while you can, eh.
+
+RBT14_C3POSJRSP_1 = ~z~It's a shambles, the legal system here... Scottish law, now that's something.
+
+RBT14_C3POSJRSP_2 = ~z~Saved the world it did. Not this bollock in the arsehole of Lemoyne.
+
+RBT14_C3POSJRSP_3 = ~z~I should have been gone home years ago.
+
+RBT14_C3POSJRSP_4 = ~z~Enjoy it while you can, eh.
+
+RBT14_CALLOUTA_01 = ~z~Come on now. Come out of there.
+
+RBT14_CALLOUTA_02 = ~z~I ain't in the mood for this. Come out.
+
+RBT14_CALLOUTA_03 = ~z~You really want to run round this field for an hour? I got the time, if you do.
+
+RBT14_CALLOUTJ_01 = ~z~Come on now. Come out of there.
+
+RBT14_CALLOUTJ_02 = ~z~I ain't in the mood for this. Come out.
+
+RBT14_CALLOUTJ_03 = ~z~You really want to run round this field for an hour? I got the time, if you do.
+
+RBT14_CELL1NEGA_1 = ~z~You nearly burnt me, mister... and now I got you right here.
+
+RBT14_CELL1NEGJ_1 = ~z~You nearly burnt me, mister... and now I got you right here.
+
+RBT14_CELL1POSA_1 = ~z~You and the sheriff getting along?
+
+RBT14_CELL1POSJ_1 = ~z~You and the sheriff getting along?
+
+RBT14_CELL2NEGA_1 = ~z~Look at that patch, eh. How you lose the eye?
+
+RBT14_CELL2NEGJ_1 = ~z~Look at that patch, eh. How you lose the eye?
+
+RBT14_CELL2POSA_1 = ~z~You got everything you need here, Laidlaw?
+
+RBT14_CELL2POSJ_1 = ~z~You got everything you need here, Laidlaw?
+
+RBT14_CELL3NEGA_1 = ~z~What you think? You gonna break rocks for a few years on a chain gang,
+
+RBT14_CELL3NEGA_2 = ~z~or get your neck broke on the gallows?
+
+RBT14_CELL3NEGJ_1 = ~z~What you think? You gonna break rocks for a few years on a chain gang,
+
+RBT14_CELL3NEGJ_2 = ~z~or get your neck broke on the gallows?
+
+RBT14_CELL3POSA_1 = ~z~Guess the sheriff likes you, keeping you around so long.
+
+RBT14_CELL3POSJ_1 = ~z~Guess the sheriff likes you, keeping you around so long.
+
+RBT14_GREET_A2_1 = ~z~Here's your Scotsman...
+
+RBT14_GREET_AA_1 = ~z~Like hell you did.
+
+RBT14_GREET_AJ1_1 = ~z~Here's your Scotsman... nearly torched me, but I got him.
+
+RBT14_GREET_AJ2_1 = ~z~Like hell you did.
+
+RBT14_GREET_AS_1 = ~z~Oh dear, Mr. Laidlaw. That is going to count against you. Cell's there for him.
+
+RBT14_GREET_AS_2 = ~z~I'll have none of it. I came peacefully.
+
+RBT14_GREET_A_1 = ~z~Here's your Scotsman... nearly torched me, but I got him.
+
+RBT14_GREET_J12_1 = ~z~Here's your Scotsman...
+
+RBT14_HOGRAGE_01 = ~z~Damn you.
+
+RBT14_HOGRAGE_02 = ~z~Eh. Eh.
+
+RBT14_HOGRAGE_03 = ~z~I'll get you.
+
+RBT14_HOGRAGE_04 = ~z~The blooming cheek.
+
+RBT14_HOGTIESA_1 = ~z~Off me, you bastard. Get off!
+
+RBT14_HOGTIESA_2 = ~z~Let's see if they can add arson to those charges. Come on.
+
+RBT14_HOGTIESJ_1 = ~z~Off me, you bastard. Get off!
+
+RBT14_HOGTIESJ_2 = ~z~Let's see if they can add arson to those charges. Come on.
+
+RBT14_IG1_B_1 = ~z~~sl:0.7~Who you looking for, feller? It's a bounty hunter, run!
+
+RBT14_IG1_B_2 = ~z~Dammit!
+
+RBT14_INTOCELLA_1 = ~z~Lie down. You'll be here a while.
+
+RBT14_INTOCELLA_2 = ~z~Don't go telling tales about me, eh?
+
+RBT14_INTOCELLA_3 = ~z~Tales is they? Huh.
+
+RBT14_INTOCELLJ_1 = ~z~Lie down. You'll be here a while.
+
+RBT14_INTOCELLJ_2 = ~z~Don't go telling tales about me, eh?
+
+RBT14_INTOCELLJ_3 = ~z~Tales is they? Huh.
+
+RBT14_JBOMBRSPJ_1 = ~z~Shit!
+
+RBT14_JBOMBRSPJ_2 = ~z~Hey, I was thinking 'bout giving up on you before you threw that...
+
+RBT14_JBOMBRSPJ_3 = ~z~Now I'm taking you in for sure.
+
+RBT14_MOLOTOW_1 = ~z~Have some of that!
+
+RBT14_NEARRHDA_1 = ~z~Okay, almost there. They can deal with you.
+
+RBT14_NEARRHDA_2 = ~z~About time, you dozy bastard.
+
+RBT14_NEARRHDJ_1 = ~z~Okay, almost there. They can deal with you.
+
+RBT14_NEARRHDJ_2 = ~z~About time, you dozy bastard.
+
+RBT14_OFFHORSEA_1 = ~z~Come on.
+
+RBT14_OFFHORSEA_2 = ~z~You're just the worst.
+
+RBT14_OFFHORSEJ_1 = ~z~Come on.
+
+RBT14_OFFHORSEJ_2 = ~z~You're just the worst.
+
+RBT14_OUTOFHUTA_1 = ~z~Now where the hell you going?
+
+RBT14_OUTOFHUTJ_1 = ~z~Now where the hell you going?
+
+RBT14_PYD_TGT_1 = ~z~I didn't do nothing to that man!
+
+RBT14_REWARD_AA_1 = ~z~I'll take it, if you'll take him.
+
+RBT14_REWARD_AJ_1 = ~z~I'll take it, if you'll take him.
+
+RBT14_REWARD_A_1 = ~z~Bounty's the same whether you was nearly inflamed or not, I'm afraid.
+
+RBT14_SRF_SHTU_01 = ~z~You, sir, are a disgrace to all humanity.
+
+RBT14_SRF_SHTU_02 = ~z~It's folks like you that brought this town to its knees. Bad breeding.
+
+RBT14_SRF_SHTU_03 = ~z~Oh, that cell will be empty soon enough, but not for the reason you want it to be.
+
+RBT14_SRF_SHTU_04 = ~z~Whatever clan you're from, it's the one of the treacherous inbred ones.
+
+RBT14_TARGETRUN_1 = ~z~Damn, blasted bounty.
+
+RBT14_TARGRUN_01 = ~z~Leave off.
+
+RBT14_TARGRUN_02 = ~z~Shove it up your arse.
+
+RBT14_TARGRUN_03 = ~z~Bastard.
+
+RBT14_TARGRUN_04 = ~z~Not a chance!
+
+RBT14_TARGRUN_05 = ~z~You'll not get me.
+
+RBT14_TARGRUN_06 = ~z~Get te buggery.
+
+RBT14_TARGTEASE_01 = ~z~You're a two-bit bouty hunter, nothing more.
+
+RBT14_TARGTEASE_02 = ~z~Shove that poster up your jacksie, why don't you!
+
+RBT14_TARGTEASE_03 = ~z~Leave off, you scrawny wee maggot!
+
+RBT14_TARGTEASE_04 = ~z~Go back to Rhodes and tell 'em where to stick it!
+
+RBT14_TGETOUT_01 = ~z~Get out.
+
+RBT14_TGETOUT_02 = ~z~On your way.
+
+RBT14_TGETOUT_03 = ~z~Go.
+
+RBT14_TGETOUT_04 = ~z~Off you trot.
+
+RBT14_TGETOUT_05 = ~z~Go on, lad. Go.
+
+RBT14_TGT_SRF_01 = ~z~This is all a grave error, Sheriff Thomas.
+
+RBT14_TGT_SRF_02 = ~z~From one Scot to another, show me clemency.
+
+RBT14_TGT_SRF_03 = ~z~Our kind has to stick together... are, are your people from the highlands or the low, Sheriff?
+
+RBT14_TGT_SRF_04 = ~z~You ain't no Scot at all, keeping me locked up like this.
+
+RBT14_THORHIT1A_1 = ~z~I didn't ask for your opinion.
+
+RBT14_THORHIT1J_1 = ~z~I didn't ask for your opinion.
+
+RBT14_THORHIT2A_1 = ~z~You ain't making me like you.
+
+RBT14_THORHIT2J_1 = ~z~You ain't making me like you.
+
+RBT14_THORHIT3A_1 = ~z~I don't need your smutty fairies, partner.
+
+RBT14_THORHIT3J_1 = ~z~I don't need your smutty fairies, partner.
+
+RBT14_THORHIT4A_1 = ~z~You impatient? Have a sleep.
+
+RBT14_THORHIT4J_1 = ~z~You impatient? Have a sleep.
+
+RBT14_THORRAGE1_1 = ~z~You call this a hogtieing, you miserable bastard?
+
+RBT14_THORRAGE1_2 = ~z~I've tied laundry tighter.
+
+RBT14_THORRAGE1_3 = ~z~You're lucky I ain't slipped outta this rope and slit you're damn throat.
+
+RBT14_THORRAGE1_4 = ~z~Some kind of bounty hunter you are. I've met tougher lassies in a school yard.
+
+RBT14_THORRAGE1_5 = ~z~Got caught by a bounty man with half a heid, so I did.
+
+RBT14_THORRAGE2_1 = ~z~What a piss poor bounty hunter you are.
+
+RBT14_THORRAGE2_2 = ~z~Just the bloody worst. Absolutely terrible, mind.
+
+RBT14_THORRAGE2_3 = ~z~It's embarrassing, getting caught by you.
+
+RBT14_THORRAGE2_4 = ~z~You wee little bawbag.
+
+RBT14_THORRAGE2_5 = ~z~You dribble of piss.
+
+RBT14_THORRAGE2_6 = ~z~You monkey's arse.
+
+RBT14_THORRAGE3_1 = ~z~So tell me, you like pornography, lad? You know, exotic stuff...
+
+RBT14_THORRAGE3_2 = ~z~Eh! Eh! Eh! Eh! Laddie? I said... I said... do you like lewd images?
+
+RBT14_THORRAGE3_3 = ~z~Breasts and arse and all the business, only arty like?
+
+RBT14_THORRAGE3_4 = ~z~I can get you some... photographs... of wee tiny folk up to all sorts.
+
+RBT14_THORRAGE3_5 = ~z~How's about it? It'll blow your mind. They're real fairies.
+
+RBT14_THORRAGE3_6 = ~z~Laddie, they're a thing to behold. Send your mind into a fair old spin.
+
+RBT14_THORRAGE4_1 = ~z~Are we there yet?
+
+RBT14_THORRAGE4_2 = ~z~How long's this blooming taking you?
+
+RBT14_THORRAGE4_3 = ~z~Send your horse to a knacker's yard when we're done, 'cause the old nag's past it.
+
+RBT14_THORRAGE4_4 = ~z~Good for glue and nay much else.
+
+RBT14_THORRAGE4_5 = ~z~And it smells of arse back here.
+
+RBT14_TINCELL_01 = ~z~Look at this numptie.
+
+RBT14_TINCELL_02 = ~z~Good day, sir.
+
+RBT14_TINCELL_03 = ~z~Me old friend, eh.
+
+RBT14_TINCELL_04 = ~z~Pull up a seat, pal. Eh?
+
+RBT14_TINCELL_05 = ~z~It's me favorite bounty hunter.
+
+RBT14_TOFIELDA_1 = ~z~Really? Hey, where are you?
+
+RBT14_TOFIELDJ_1 = ~z~Really? Hey, where are you?
+
+RBT14_TOHORSEA_1 = ~z~Okay. The Sheriff of Rhodes is waiting.
+
+RBT14_TOHORSEJ_1 = ~z~Okay. The Sheriff of Rhodes is waiting.
+

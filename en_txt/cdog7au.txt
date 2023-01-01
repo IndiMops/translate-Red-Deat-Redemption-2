@@ -1,0 +1,10 @@
+CDOG7_ACTION_A_1 = ~z~Cain... Cain, this isn't funny... where are you?
+
+CDOG7_ACTION_B_1 = ~z~Cain... Cain... where are you?
+
+CDOG7_ACTION_C_1 = ~z~Cain... Cain, where are you? Come on... oh this is really worrying me... Cain.
+
+CDOG7_ACT_B_INT_1 = ~z~Cain... have you see Cain, Uncle Arthur?
+
+CDOG7_ACT_B_INT_2 = ~z~No, son... I'm sorry. He'll be fine.
+

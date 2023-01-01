@@ -1,0 +1,52 @@
+DMONK_ANTAG_A_01 = ~z~Смотри не упади.
+
+DMONK_ANTAG_A_02 = ~z~Бу.
+
+DMONK_ANTAG_A_03 = ~z~Эй?
+
+DMONK_ANTAG_A_04 = ~z~Соберись.
+
+DMONK_ANTAG_A_05 = ~z~Я тебе не мешаю?
+
+DMONK_ANTAG_A_06 = ~z~Ты меня слышишь.
+
+DMONK_ANTAG_A_07 = ~z~Я тебя раздражаю?
+
+DMONK_ANTAG_A_08 = ~z~Будь начеку.
+
+DMONK_ANTAG_J_01 = ~z~Не смотри вниз.
+
+DMONK_ANTAG_J_02 = ~z~Эй!
+
+DMONK_ANTAG_J_03 = ~z~Ты знаешь, что игнорировать людей невежливо.
+
+DMONK_ANTAG_J_04 = ~z~Соберись.
+
+DMONK_ANTAG_J_05 = ~z~Не соскользни.
+
+DMONK_ANTAG_J_06 = ~z~Я тебя раздражаю?
+
+DMONK_GREET_A_01 = ~z~Все в порядке?
+
+DMONK_GREET_A_02 = ~z~Чем занят?
+
+DMONK_GREET_A_03 = ~z~Рад тебя здесь видеть.
+
+DMONK_GREET_A_04 = ~z~Здесь хорошо.
+
+DMONK_GREET_A_05 = ~z~Привет.
+
+DMONK_GREET_A_06 = ~z~Все хорошо?
+
+DMONK_GREET_J_01 = ~z~Все в порядке?
+
+DMONK_GREET_J_02 = ~z~Чем занят?
+
+DMONK_GREET_J_03 = ~z~Красиво, не так ли?
+
+DMONK_GREET_J_04 = ~z~Хорошее место.
+
+DMONK_GREET_J_05 = ~z~Привет.
+
+DMONK_GREET_J_06 = ~z~Все хорошо?
+

@@ -1,0 +1,316 @@
+0x07D51AE0 = the ~COLOR_MP_OBJECTIVE~homestead~s~
+
+0x1C32DB3F = ~COLOR_MP_OBJECTIVE~Annesburg~s~
+
+0x5BF4791A = ~COLOR_MP_OBJECTIVE~Willard's Rest~s~
+
+0x8C8D5A22 = ~COLOR_MP_OBJECTIVE~Radley's House~s~
+
+0x53F5B0E4 = ~COLOR_MP_OBJECTIVE~Copperhead Landing~s~
+
+0x492AFF6D = ~COLOR_MP_OBJECTIVE~Micah's Hideout~s~
+
+0x66677D38 = the ~COLOR_MP_OBJECTIVE~location~s~
+
+0xA798AA7D = ~COLOR_MP_OBJECTIVE~Cranebreak Manor~s~
+
+0xD245F483 = ~COLOR_MP_OBJECTIVE~Hill Haven Ranch~s~
+
+NET_CHU_BLIP_DROPOFF = Drop off
+
+NET_CHU_BLIP_DROPOFF_GUARD = Ally
+
+NET_CHU_BLIP_MONEY_BAG = Loot bag
+
+NET_CHU_BLIP_PASSENGER = Passenger
+
+NET_CHU_BLIP_VEHICLE = Stagecoach
+
+NET_CHU_BLIP_VIP = Target
+
+NET_CHU_HELP_DELIVER_PED_ON_MOUNT = Take the ~COLOR_POSSE_ALLY~target~s~ off the back of the horse and place them in the drop off to deliver.
+
+NET_CHU_HELP_INTRO_KIDNAP = Stop the stagecoach ~1b~ and kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ within the time limit to earn the full reward.
+
+NET_CHU_HELP_INTRO_KIDNAP_PLURAL = Stop the stagecoaches ~1b~ and kidnap all the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~ within the time limit to earn the full reward.
+
+NET_CHU_HELP_INTRO_KIDNAP_PLURAL_S = Stop the stagecoach ~1b~ and kidnap all the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~ within the time limit to earn the full reward.
+
+NET_CHU_HELP_INTRO_KIDNAP_PLURAL_STATIONARY = Attack the stagecoaches ~1b~ and kidnap all the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~ within the time limit to earn the full reward.
+
+NET_CHU_HELP_INTRO_KIDNAP_PLURAL_STATIONARY_S = Attack the stagecoach ~1b~ and kidnap all the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~ within the time limit to earn the full reward.
+
+NET_CHU_HELP_INTRO_KIDNAP_STATIONARY = Attack the stagecoach ~1b~ and kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ within the time limit to earn the full reward.
+
+NET_CHU_HELP_INTRO_ROBBERY = Stop the stagecoach ~1b~ and steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~ within the time limit to earn the full reward.
+
+NET_CHU_HELP_INTRO_ROBBERY_PLURAL = Stop the stagecoach ~1b~ and steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~ within the time limit to earn the full reward.
+
+NET_CHU_HELP_INTRO_ROBBERY_PLURAL_S = Stop the stagecoach ~1b~ and steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~ within the time limit to earn the full reward.
+
+NET_CHU_HELP_INTRO_ROBBERY_PLURAL_STATIONARY = Attack the stagecoaches ~1b~ and steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~ within the time limit to earn the full reward.
+
+NET_CHU_HELP_INTRO_ROBBERY_PLURAL_STATIONARY_S = Attack the stagecoach ~1b~ and steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~ within the time limit to earn the full reward.
+
+NET_CHU_HELP_INTRO_ROBBERY_STATIONARY = Attack the stagecoach ~1b~ and steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~ within the time limit to earn the full reward.
+
+NET_CHU_HELP_INTRO_SECONDARY_KIDNAP = ~1~ triggered a rival mission against ~2~, kidnap and deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ ~3b~ to gain the full reward.
+
+NET_CHU_HELP_INTRO_SECONDARY_KIDNAP_PLURAL = ~1~ triggered a rival mission against ~2~, kidnap and deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~ ~3b~ to gain the full reward.
+
+NET_CHU_HELP_INTRO_SECONDARY_KIDNAP_PLURAL_SELF = You triggered a rival mission against ~1~, kidnap and deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~ ~2b~ to gain the full reward.
+
+NET_CHU_HELP_INTRO_SECONDARY_KIDNAP_SELF = You triggered a rival mission against ~1~, kidnap and deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ ~2b~ to gain the full reward.
+
+NET_CHU_HELP_INTRO_SECONDARY_ROBBERY = ~1~ triggered a rival mission against ~2~, steal and turn in the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~ ~3b~ to gain the full reward.
+
+NET_CHU_HELP_INTRO_SECONDARY_ROBBERY_PLURAL = ~1~ triggered a rival mission against ~2~, steal and turn in the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~ ~3b~ to gain the full reward.
+
+NET_CHU_HELP_INTRO_SECONDARY_ROBBERY_PLURAL_SELF = You triggered a rival mission against ~1~, steal and turn in the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~ ~2b~ to gain the full reward.
+
+NET_CHU_HELP_INTRO_SECONDARY_ROBBERY_SELF = You triggered a rival mission against ~1~, steal and turn in the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~ ~2b~ to gain the full reward.
+
+NET_CHU_HELP_LASSO_VIP = Use your lasso to hogtie the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ and kidnap them.
+
+NET_CHU_HELP_LASSO_VIP_PLURAL = Use your lasso to hogtie the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~ and kidnap them.
+
+NET_CHU_HELP_PVP_KIDNAP = ~1p~ has started Coach Holdup, kidnap the targets ~2b~ and bring them to the destination to earn cash and XP.
+
+NET_CHU_HELP_PVP_ROBBERY = ~1p~ has started Coach Holdup, steal the loot bags ~2b~ and bring them to the destination to earn cash and XP.
+
+NET_CHU_HELP_ROB = Use ~INPUT_INTERACT_LOCKON~ to target the passengers and take the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~. However, passengers may attempt to flee with their ~COLOR_MP_OBJECTIVE_NEUTRAL~loot~s~ and must be stopped instead.
+
+NET_CHU_HELP_STOP_COACH = Take out the driver and armed guards to stop the stagecoach ~1b~ and force the passengers to exit.
+
+NET_CHU_HELP_STOP_COACH_PLURAL = Take out the drivers and armed guards to stop the stagecoach ~1b~ and force the passengers to exit.
+
+NET_CHU_HELP_STOP_COACH_PLURAL_STATIONARY = Take out the ~COLOR_ENEMY~coach guards~s~ to force the passengers to exit the stagecoach.
+
+NET_CHU_HELP_STOP_COACH_STATIONARY = Take out the ~COLOR_ENEMY~coach guards~s~ to force the passenger to exit the stagecoach.
+
+NET_CHU_LOC_ABERDEEN = ~COLOR_MP_OBJECTIVE~Aberdeen Pig Farm~s~
+
+NET_CHU_LOC_BLACKWATER = ~COLOR_MP_OBJECTIVE~Blackwater~s~
+
+NET_CHU_LOC_BRITTLEBRUSH_TRAWL = the ~COLOR_MP_OBJECTIVE~shack~s~
+
+NET_CHU_LOC_CLAWSONS_REST = ~COLOR_MP_OBJECTIVE~Clawson's Rest~s~
+
+NET_CHU_LOC_CLINGMAN = ~COLOR_MP_OBJECTIVE~Clingman~s~
+
+NET_CHU_LOC_COMPSONS_STEAD = the ~COLOR_MP_OBJECTIVE~homestead~s~
+
+NET_CHU_LOC_DEFAULT_DROPOFF = the ~COLOR_MP_OBJECTIVE~drop off~s~
+
+NET_CHU_LOC_FORT_RIGGS = ~COLOR_MP_OBJECTIVE~Fort Riggs~s~
+
+NET_CHU_LOC_LAKE_DON_JULIO = ~COLOR_MP_OBJECTIVE~Lake Don Julio~s~
+
+NET_CHU_LOC_MACLEANS_HOUSE = ~COLOR_MP_OBJECTIVE~Maclean's House~s~
+
+NET_CHU_LOC_MACOMBS_END = ~COLOR_MP_OBJECTIVE~Macomb's End~s~
+
+NET_CHU_LOC_MANZANITA_POST = ~COLOR_MP_OBJECTIVE~Manzanita Post~s~
+
+NET_CHU_LOC_OLD_GREENBANK_MILL = ~COLOR_MP_OBJECTIVE~Greenbank Mill~s~
+
+NET_CHU_LOC_OLD_TRAIL_ROAD = ~COLOR_MP_OBJECTIVE~Old Trail Road~s~
+
+NET_CHU_LOC_RADLEYS_PASTURE = ~COLOR_MP_OBJECTIVE~Radley's Pasture~s~
+
+NET_CHU_LOC_RIDGEWOOD_FARM = ~COLOR_MP_OBJECTIVE~Ridgewood Farm~s~
+
+NET_CHU_LOC_SCRATCHING_POST = ~COLOR_MP_OBJECTIVE~Scratching Post~s~
+
+NET_CHU_LOC_SILENT_STEAD = ~COLOR_MP_OBJECTIVE~Silent Stead~s~
+
+NET_CHU_LOC_SILTWATER_STRAND = ~COLOR_MP_OBJECTIVE~Siltwater Strand~s~
+
+NET_CHU_LOC_STILLWATER_HOUSE = ~COLOR_MP_OBJECTIVE~Stillwater House~s~
+
+NET_CHU_LOC_WALLACE_STATION = ~COLOR_MP_OBJECTIVE~Wallace Station~s~
+
+NET_CHU_NAME = Coach Holdup
+
+NET_CHU_OBJ_DROPOFF_KIDNAP = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+NET_CHU_OBJ_DROPOFF_KIDNAP_S = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+NET_CHU_OBJ_DROPOFF_KIDNAP_S_CARRY = Deliver the ~COLOR_POSSE_ALLY~target~s~ to ~1~
+
+NET_CHU_OBJ_DROP_BAG = Drop the loot bag at ~1~
+
+NET_CHU_OBJ_DROP_BAGS = Drop the loot bags at ~1~
+
+NET_CHU_OBJ_DROP_KIDNAP = Drop the target at ~1~
+
+NET_CHU_OBJ_GET_CASH = Take the ~COLOR_MP_OBJECTIVE_NEUTRAL~passenger's~s~ money
+
+NET_CHU_OBJ_GO_TO_COACH = Go to the ~COLOR_MP_OBJECTIVE~stagecoach~s~
+
+NET_CHU_OBJ_GO_TO_COACH_PLURAL = Go to the ~COLOR_MP_OBJECTIVE~stagecoaches~s~
+
+NET_CHU_OBJ_GO_TO_PASSENGER = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~passengers~s~
+
+NET_CHU_OBJ_GO_TO_PASSENGER_S = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~passenger~s~
+
+NET_CHU_OBJ_GO_TO_VIP = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+NET_CHU_OBJ_GO_TO_VIP_S = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+NET_CHU_OBJ_HOGTIE = Lasso and hogtie the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+NET_CHU_OBJ_HOGTIE_S = Lasso and hogtie the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+NET_CHU_OBJ_KILL_GUARDS = Take out the remaining ~COLOR_RED~coach guards~s~
+
+NET_CHU_OBJ_KILL_GUARDS_STATIONARY = Take out the ~COLOR_RED~coach guards~s~
+
+NET_CHU_OBJ_PVP_STEAL_BAGS = Steal the ~COLOR_ENEMY~loot bags~s~ from ~COLOR_ENEMY~~1~~s~
+
+NET_CHU_OBJ_PVP_STEAL_BAGS_MULTI = Steal the ~COLOR_ENEMY~loot bags~s~ from the ~COLOR_ENEMY~rival Posses~s~
+
+NET_CHU_OBJ_PVP_STEAL_BAGS_S = Steal the ~COLOR_ENEMY~loot bag~s~ from ~COLOR_ENEMY~~1~~s~
+
+NET_CHU_OBJ_PVP_STEAL_KIDNAP = Steal the ~COLOR_ENEMY~targets~s~ from ~COLOR_ENEMY~~1~~s~
+
+NET_CHU_OBJ_PVP_STEAL_KIDNAP_MULTI = Steal the ~COLOR_ENEMY~targets~s~ from the ~COLOR_ENEMY~rival Posses~s~
+
+NET_CHU_OBJ_PVP_STEAL_KIDNAP_S = Steal the ~COLOR_ENEMY~target~s~ from ~COLOR_ENEMY~~1~~s~
+
+NET_CHU_OBJ_SECURE_BAG = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+NET_CHU_OBJ_SECURE_BAGS = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~
+
+NET_CHU_OBJ_STOP_COACH = Stop the ~COLOR_MP_OBJECTIVE~stagecoach~s~
+
+NET_CHU_OBJ_STOP_COACH_PLURAL = Stop the ~COLOR_MP_OBJECTIVE~stagecoaches~s~
+
+NET_CHU_OBJ_TAKE_BAG = Get the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+NET_CHU_OBJ_TAKE_BAGS = Get the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~
+
+NET_CHU_OBJ_TEAM_DROPOFF_KIDNAP = Help deliver the ~COLOR_POSSE_ALLY~targets~s~ to ~1~
+
+NET_CHU_OBJ_TEAM_DROPOFF_KIDNAP_S = Help deliver the ~COLOR_POSSE_ALLY~target~s~ to ~1~
+
+NET_CHU_OBJ_TEAM_TURN_IN_BAG = Help deliver the ~COLOR_POSSE_ALLY~loot bag~s~ to ~1~
+
+NET_CHU_OBJ_TEAM_TURN_IN_BAGS = Help deliver the ~COLOR_POSSE_ALLY~loot bags~s~ to ~1~
+
+NET_CHU_OBJ_TURN_IN_BAG = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~
+
+NET_CHU_OBJ_TURN_IN_BAGS_CARRY = Deliver the loot bags to ~1~
+
+NET_CHU_OBJ_TURN_IN_BAG_CARRY = Deliver the loot bag to ~1~
+
+NET_CHU_OBJ_TURN_IN_BAG_S = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+NET_CHU_TOAST_END_BODY_ABANDON = You abandoned the mission
+
+NET_CHU_TOAST_END_BODY_ABANDON_DISBAND_POSSE = Your Posse was disbanded
+
+NET_CHU_TOAST_END_BODY_ABANDON_LEFT_POSSE = You left the Posse
+
+NET_CHU_TOAST_END_BODY_ABANDON_POSSE = Your Posse abandoned the mission
+
+NET_CHU_TOAST_END_BODY_EXPIRED = Timer expired
+
+NET_CHU_TOAST_END_BODY_FAILED_KIDNAP = Target killed
+
+NET_CHU_TOAST_END_BODY_FAILED_KIDNAP_PLURAL = Targets killed
+
+NET_CHU_TOAST_END_BODY_FAILED_KIDNAP_PVP = ~1~ kidnapped the target
+
+NET_CHU_TOAST_END_BODY_FAILED_KIDNAP_PVP_PLURAL = ~1~ kidnapped the targets
+
+NET_CHU_TOAST_END_BODY_FAILED_KIDNAP_PVP_R = Target kidnapped by rival Posse
+
+NET_CHU_TOAST_END_BODY_FAILED_KIDNAP_PVP_R_PLUR = Targets kidnapped by rival Posse
+
+NET_CHU_TOAST_END_BODY_FAILED_ROBBERY = Loot bag destroyed
+
+NET_CHU_TOAST_END_BODY_FAILED_ROBBERY_PLURAL = Loot bags destroyed
+
+NET_CHU_TOAST_END_BODY_FAILED_ROBBERY_PVP = ~1~ stole the loot bag
+
+NET_CHU_TOAST_END_BODY_FAILED_ROBBERY_PVP_PLURAL = ~1~ stole the loot bags
+
+NET_CHU_TOAST_END_BODY_FAILED_ROBBERY_PVP_R = Loot bag stolen by rival Posse
+
+NET_CHU_TOAST_END_BODY_FAILED_ROBBERY_PVP_R_PLUR = Loot bags stolen by rival Posse
+
+NET_CHU_TOAST_END_BODY_OVER_KIDNAP = ~1~/~2~ targets delivered
+
+NET_CHU_TOAST_END_BODY_OVER_ROBBERY = ~1~/~2~ loot bags delivered
+
+NET_CHU_TOAST_END_BODY_WON_KIDNAP = Target delivered
+
+NET_CHU_TOAST_END_BODY_WON_KIDNAP_PLURAL = Targets kidnapped
+
+NET_CHU_TOAST_END_BODY_WON_ROBBERY = Loot bag delivered
+
+NET_CHU_TOAST_END_BODY_WON_ROBBERY_PLURAL = Loot bags delivered
+
+NET_CHU_TOAST_START_BODY_KIDNAP = Ambush the ~COLOR_MP_OBJECTIVE~stagecoach~s~ and kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+NET_CHU_TOAST_START_BODY_KIDNAP_PLURAL = Ambush the ~COLOR_MP_OBJECTIVE~stagecoaches~s~ and kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+NET_CHU_TOAST_START_BODY_KIDNAP_PLURAL_S = Ambush the ~COLOR_MP_OBJECTIVE~stagecoach~s~ and kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+NET_CHU_TOAST_START_BODY_ROBBERY = Ambush and rob the ~COLOR_MP_OBJECTIVE~stagecoach~s~
+
+NET_CHU_TOAST_START_BODY_ROBBERY_PLURAL = Ambush and rob the ~COLOR_MP_OBJECTIVE~stagecoaches~s~
+
+NET_CHU_UC_TAKE_MONEY = Take Loot Bag
+
+NET_CHU_UPDATE_BAG_PVP_STOLEN = ~COLOR_ENEMY~~1p~~s~ has stolen a ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+NET_CHU_UPDATE_BAG_RETURNED = ~COLOR_POSSE_ALLY~~1p~~s~ delivered a ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+NET_CHU_UPDATE_BAG_RETURNED_YOU = You delivered a ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+NET_CHU_UPDATE_KIDNAP_PVP_ACTIVE = ~COLOR_ENEMY~Rival players~s~ can kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+NET_CHU_UPDATE_KIDNAP_PVP_ACTIVE_PLURAL = ~COLOR_ENEMY~Rival players~s~ can kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+NET_CHU_UPDATE_KIDNAP_PVP_PLAYER_JOIN = ~1~ is trying to kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+NET_CHU_UPDATE_KIDNAP_PVP_PLAYER_JOIN_PLURAL = ~1~ is trying to kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+NET_CHU_UPDATE_KIDNAP_PVP_POSSE_JOIN = ~1~ are trying to kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+NET_CHU_UPDATE_KIDNAP_PVP_POSSE_JOIN_PLURAL = ~1~ are trying to kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+NET_CHU_UPDATE_PASSENGER_ESCAPED = A ~COLOR_MP_OBJECTIVE_NEUTRAL~passenger~s~ escaped with a ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+NET_CHU_UPDATE_PASSENGER_KILLED = A ~COLOR_MP_OBJECTIVE_NEUTRAL~passenger~s~ was killed
+
+NET_CHU_UPDATE_PASSENGER_KNOCKEDOUT = A ~COLOR_MP_OBJECTIVE_NEUTRAL~passenger~s~ was knocked out
+
+NET_CHU_UPDATE_ROBBERY_PVP_ACTIVE = ~COLOR_ENEMY~Rival players~s~ can steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+NET_CHU_UPDATE_ROBBERY_PVP_ACTIVE_PLURAL = ~COLOR_ENEMY~Rival players~s~ can steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~
+
+NET_CHU_UPDATE_ROBBERY_PVP_PLAYER_JOIN = ~1~ is trying to steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+NET_CHU_UPDATE_ROBBERY_PVP_PLAYER_JOIN_PLURAL = ~1~ is trying to steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~
+
+NET_CHU_UPDATE_ROBBERY_PVP_POSSE_JOIN = ~1~ are trying to steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+NET_CHU_UPDATE_ROBBERY_PVP_POSSE_JOIN_PLURAL = ~1~ are trying to steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~
+
+NET_CHU_UPDATE_VIP_ESCAPED = A ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ escaped
+
+NET_CHU_UPDATE_VIP_KILLED = A ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ was killed
+
+NET_CHU_UPDATE_VIP_KNOCKEDOUT = A ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ was knocked out
+
+NET_CHU_UPDATE_VIP_PVP_STOLEN = ~COLOR_ENEMY~~1p~~s~ has kidnapped a ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+NET_CHU_UPDATE_VIP_RETURNED = ~COLOR_POSSE_ALLY~~1p~~s~ kidnapped a ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+NET_CHU_UPDATE_VIP_RETURNED_YOU = You kidnapped a ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+NET_CHU_VAR_PLAYER_ESCORT = ~1~ (~2p~)
+

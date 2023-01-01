@@ -1,0 +1,48 @@
+SKSG2_ACT_1 = ~z~Oh, once I was a servant maid, down in main lane;
+
+SKSG2_ACT_2 = ~z~My master used to beat on me, my mistress did the same;~n~~m~My master used to beat on me, my mistress did the same;
+
+SKSG2_ACT_3 = ~z~Till early one morning, a sailor boy came ashore;~n~~m~Till early one morning, a sailor boy came ashore;
+
+SKSG2_ACT_4 = ~z~And he's the one that turned me into a dirty little whore.~n~~m~And he's the one that turned me into a dirty little whore.
+
+SKSG2_ACT_5 = ~z~He asked me for a candlestick, to light him up to bed;~n~~m~He asked me for a candlestick, to light him up to bed;
+
+SKSG2_ACT_6 = ~z~He asked me for my handerchief to wind around his head;~n~~m~He asked me for my handerchief to wind around his head;
+
+SKSG2_ACT_7 = ~z~And me being a little fool and thinking it no harm;~n~~m~And me being a little fool and thinking it no harm;
+
+SKSG2_ACT_8 = ~z~I jumped in bed beside him, to keep myself a-warm.~n~~m~I jumped in bed beside him, to keep myself a-warm.
+
+SKSG2_ACT_9 = ~z~Singing home, boys, home, it's where I want to be;~n~~m~Singing home, boys, home, it's where I want to be;
+
+SKSG2_ACT_10 = ~z~Home, boys, home, with a girl on either knee;~n~~m~Home, boys, home, with a girl on either knee;
+
+SKSG2_ACT_11 = ~z~With that little ribbon taurplin hat and a coat of navy blue;~n~~m~With that little ribbon taurplin hat and a coat of navy blue;
+
+SKSG2_ACT_12 = ~z~Let him climb the rigging like his daddy climbed up you.~n~~m~Let him climb the rigging like his daddy climbed up you.
+
+SKSG2_ACT_13 = ~z~He rumbled me, he tumbled me, he screwed me to the wall;~n~~m~He rumbled me, he tumbled me, he screwed me to the wall;
+
+SKSG2_ACT_14 = ~z~He never let me catch my breath, I got no sleep at all;~n~~m~He never let me catch my breath, I got no sleep at all;
+
+SKSG2_ACT_15 = ~z~He upped me and he downed me, and he cocked me out and then;~n~~m~He upped me and he downed me, and he cocked me out and then;
+
+SKSG2_ACT_16 = ~z~He fucked me black and blue though, of course it was a sin.~n~~m~He fucked me black and blue though, of course it was a sin.
+
+SKSG2_ACT_17 = ~z~And early in the morning, before the break of day;~n~~m~And early in the morning, before the break of day;
+
+SKSG2_ACT_18 = ~z~He handed me a ten pound note and these word he did say;~n~~m~He handed me a ten pound note and these word he did say;
+
+SKSG2_ACT_19 = ~z~Take this my darling for the damage I have done;~n~~m~Take this my darling for the damage I have done;
+
+SKSG2_ACT_20 = ~z~Nine months from now, you will have a daughter or a son.~n~~m~Nine months from now, you will have a daughter or a son.
+
+SKSG2_ACT_21 = ~z~And if it be a daughter, have the darling on your knee;~n~~m~And if it be a daughter, have the darling on your knee;
+
+SKSG2_ACT_22 = ~z~And if it be a son, send the bastard off to sea;~n~~m~And if it be a son, send the bastard off to sea;
+
+SKSG2_ACT_23 = ~z~With that little ribbon taurplin hat, and that coat of navy blue;~n~~m~With that little ribbon taurplin hat, and that coat of navy blue;
+
+SKSG2_ACT_24 = ~z~Let him climb the rigging, like his daddy climbed up you.~n~~m~Let him climb the rigging, like his daddy climbed up you.
+

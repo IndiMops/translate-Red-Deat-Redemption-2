@@ -1,0 +1,68 @@
+0x25E38B54 = Saint Denis
+
+0x2529B9B1 = Follow ~o~Dutch~s~ on horseback
+
+DUTCH21_DES = Ride to ~o~Shady Belle~s~
+
+DUTCH21_ENT = Enter the ~o~house~s~
+
+DUTCH21_FA01 = John was abandoned.
+
+DUTCH21_FA02 = Dutch has died.
+
+DUTCH21_FA03 = You attacked Dutch.
+
+DUTCH21_FA04 = John has died.
+
+DUTCH21_FA05 = John's horse has died.
+
+DUTCH21_FA06 = Dutch's horse has died.
+
+DUTCH21_FA07 = The house was abandoned.
+
+DUTCH21_FA08 = Dutch was abandoned.
+
+DUTCH21_FA09 = Your horse has died.
+
+DUTCH21_FA10 = You attracted the law.
+
+DUTCH21_MNT = Mount your ~o~horse~s~
+
+DUTCH21_PC01 = Meet ~o~John~s~ by the entrance
+
+DUTCH21_PC02 = Pick up the ~o~dead body
+
+DUTCH21_PC03 = Follow ~o~John
+
+DUTCH21_PC03B = Dump the body in the ~o~swamp ~s~around the jetty
+
+DUTCH21_PC04 = Search the ~o~rooms ~s~for any Lemoyne stragglers
+
+DUTCH21_PC05 = Search the remaining ~o~rooms~s~ upstairs
+
+DUTCH21_PC05B = Search the remaining ~o~rooms~s~ downstairs
+
+DUTCH21_PC06 = Pick up another ~o~body~s~ from the house
+
+DUTCH21_RE = Return to ~o~John
+
+DUTCH21_REDU = Return to ~o~Dutch
+
+DUTCH21_REHO = Return to the ~o~house
+
+DUTCH21_REHR = Return to your ~o~horse
+
+DUTCH21_RESB = Return to ~o~Shady Belle
+
+DUTCH22_BLIP_BODY = Body
+
+DUTCH22_BLIP_HOUSE = Old House
+
+DUTCH22_BLIP_ROOM = Room
+
+DUTCH22_BLIP_SBEL = Shady Belle
+
+DUTCH22_BLIP_SWAMP = Swamp
+
+DUTCH22_OBJ = Follow ~o~Dutch
+

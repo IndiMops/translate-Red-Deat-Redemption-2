@@ -1,0 +1,32 @@
+0xD72D30FF = Pick up a ~COLOR_FREEMODE_EVENT~bag~s~ once the event starts
+
+HP_BLIP_BAG = Bag
+
+HP_FAIL = Scored ~1~
+
+HP_GAME_BAG_CAP_MSG = Your bag will soon reset
+
+HP_GAME_BAG_CAP_RESET = A bag has been reset
+
+HP_GAME_LOCAL_CONTROL = You have collected a bag
+
+HP_GAME_X2_POINTS = Extra points during final minute
+
+HP_HELP_MOVED = A ~COLOR_MP_OBJECTIVE_NEUTRAL~bag~s~ has been moved back into play.
+
+HP_HELP_RULES = Take control and hold a ~COLOR_FREEMODE_EVENT~bag~s~ to score the most points to win.
+
+HP_OTHER = Take a ~COLOR_MP_OBJECTIVE_ENEMY~bag~s~ from ~COLOR_POSSE_ENEMY~enemy players~s~
+
+HP_OTHER_FRIEND = Defend ~COLOR_POSSE_ALLY~Posse Members~s~ carrying ~COLOR_MP_OBJECTIVE_FRIENDLY~bags~s~
+
+HP_RULES = Pick up a ~COLOR_MP_OBJECTIVE_NEUTRAL~bag~s~
+
+HP_SHARD_INTRO = Hold a ~COLOR_MP_OBJECTIVE_NEUTRAL~bag
+
+HP_SLOW = The bag is heavy and will slow you down the longer you hold it.
+
+HP_WON = Scored ~1~
+
+HP_YOU = Hold the bag
+

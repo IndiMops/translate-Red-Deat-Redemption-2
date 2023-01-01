@@ -1,0 +1,74 @@
+DEWSH_AAPPRCH_1 = ~z~~sl:0.0:1.3~So here's how it goes.~sl:0.4~You empty your pockets, and we both go on with our lives.
+
+DEWSH_AATTACK_1 = ~z~And now it's goodbye.
+
+DEWSH_AGREE_1 = ~z~Oh, yes! Yes. Finally.
+
+DEWSH_AGUN_1 = ~z~~sl:1.0~I was getting tired of waiting for a fool to come along. But here you are.
+
+DEWSH_APAT_1 = ~z~~sl:0.0:4.7~You know, you're real nice for helping me. Just real stupid, too...
+
+DEWSH_APPROACH_1 = ~z~~sl:0.0:2.5~Yes, yes! Please loose these ropes...~sl:~it feels like they're cutting me to the bone.
+
+DEWSH_DECLINE_1 = ~z~No, don't you leave me here! Goddamn you.
+
+DEWSH_HARRIVE_1 = ~z~~sl:0.0:1.4~Appreciate this.~sl:0.2~You done a real good thing. Helped set right a wrong.
+
+DEWSH_HBANT_1 = ~z~~sl:0.0:2.3~Charlie, that son of a bitch.~sl:0.5:1.6~~rp~I thought we was friends.~sl:0.1~~rp~Two of us pretty much grew up together.
+
+DEWSH_HBANT_2 = ~z~~sl:0.0:1.5~And what does that bastard do?~sl:0.5:1.8~~rp~Smacks me with his rifle butt~sl:~and knocks me on my ass.
+
+DEWSH_HBANT_3 = ~z~~sl:0.0:2.0~I come to, he's wrapping me in that rope~sl:0.0:1.6~you found me in, ~rp~shoves me~sl:~off the side of the road.
+
+DEWSH_HBANT_4 = ~z~Near broke my arm when I dropped, too.
+
+DEWSH_HBANT_5 = ~z~~sl:0.0:1.7~Ain't like he was married to that girl.~sl:0.1~Well not yet, at least.
+
+DEWSH_HBANT_6 = ~z~~sl:0.0:1.7~Always had a mean temper, but I swear,~sl:0.0:2.5~ever since he started laboring at Emerald Ranch,~sl:~~rp~he ain't been the same.
+
+DEWSH_HBANT_7 = ~z~Something not right about that place.
+
+DEWSH_HBANT_8 = ~z~~sl:0.0:2.7~Anyway, I figure me and Charlie need to have~sl:~a nice long chat. Sort it all out.
+
+DEWSH_HCLEAR_1 = ~z~Uh, I can't fit?
+
+DEWSH_HDIRECT_1 = ~z~Hey. You know Emerald Ranch? I need to get there.
+
+DEWSH_HDIRECT_2 = ~z~~sl:0.0:2.5~Got someone I need to talk to about the, um...~sl:0.4~the situation you found me in.
+
+DEWSH_HFOOT_1 = ~z~Er, you got yourself a horse? Wagon, maybe?
+
+DEWSH_HGIVEUP_1 = ~z~I've had enough of this, I'm walking.
+
+DEWSH_HMOUNT_1 = ~z~~sl:1.1~It's kinda funny how much lying on the ground takes out of you.
+
+DEWSH_HNEAR_1 = ~z~Nearly there, I can't wait to see his face.
+
+DEWSH_HTHANKS_1 = ~z~~sl:0.0:1.7~Oh, oh yes...~sl:0.4~feeling the blood moving through me again...
+
+DEWSH_HTHANKS_2 = ~z~You have no idea how good that feels...
+
+DEWSH_HTIP_1 = ~z~~sl:0.0:0.5~Here.~sl:0.7~I owe you.
+
+DEWSH_INJURED_1 = ~z~Lousy son of a bitch!
+
+DEWSH_SPOT1_01 = ~z~Oh, hey! Over here!
+
+DEWSH_SPOT1_02 = ~z~Hey, please! Can you help me?
+
+DEWSH_SPOT2_01 = ~z~Please, I'm in a bad way here!
+
+DEWSH_SPOT2_02 = ~z~Oh, Jesus, come on... you!
+
+DEWSH_UNSEEN_01 = ~z~Can somebody help me here?
+
+DEWSH_UNSEEN_02 = ~z~
+
+DEWSH_UNSEEN_03 = ~z~Damn that hurts!
+
+DEWSH_WAIT1_1 = ~z~Come on, please! Look at me.
+
+DEWSH_WAIT2_01 = ~z~Goddamn it, help me will you?
+
+DEWSH_WAIT2_02 = ~z~You're right there! Help for Christ's sake.
+

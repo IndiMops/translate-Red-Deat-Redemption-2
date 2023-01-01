@@ -1,0 +1,56 @@
+DRSDM_AGREE_1 = ~z~~sl:0.0:0.8~Oh, good...~sl:0.4~I couldn't just leave the feller like that after I saw it.
+
+DRSDM_AMBUSH_01 = ~z~These more Raiders?
+
+DRSDM_AMBUSH_02 = ~z~Damn it, I knew this wasn't over...
+
+DRSDM_APPROACH_1 = ~z~~sl:0.0:1.7~The Raiders grabbed some boy over in the alley,~sl:0.0:1.6~taking his money or who know what.~sl:0.1:~You look like you could do something 'bout it.
+
+DRSDM_ARRIVE_1 = ~z~~sl:0.0:2.2~Yes! Here we are, Caliga Hall.~sl:0.2~It's good to be back.
+
+DRSDM_CALLOUT1_1 = ~z~~sl:0.0:1.5~I don't got much money, okay?~sl:~Just let me on my way.
+
+DRSDM_CALLOUT2_01 = ~z~Why are you doing this? Come on now!
+
+DRSDM_CALLOUT2_02 = ~z~~sl:0.0:1.9~I-I got no problems with you boys.~sl:~We're on the same side.
+
+DRSDM_CALLOUT2_03 = ~z~I promise you, this is far more trouble than I'm worth.
+
+DRSDM_DECLINE_1 = ~z~Ah, well. Just figured I'd ask.
+
+DRSDM_ESCORT_1 = ~z~~sl:0.6:2.6~Listen... could you give a me ride out of here?~sl:0.4:1.6~I don't come to the city too often,~sl:~I work out in Caliga Hall...
+
+DRSDM_ESCORT_2 = ~z~the Grays place. You know it? West of here.
+
+DRSDM_HURRY_1 = ~z~~sl:0.0:2.1~Best hurry now. I'm going home.~sl:~Done with this nasty town.
+
+DRSDM_IDLE_01 = ~z~You going then?
+
+DRSDM_IDLE_02 = ~z~Don't hang 'round me...
+
+DRSDM_IDLE_03 = ~z~Well, what are you waiting for?
+
+DRSDM_NEAR_1 = ~z~Not too far, now...
+
+DRSDM_POSSEDIE_01 = ~z~The Grays'll hear about this.
+
+DRSDM_POSSEDIE_02 = ~z~Shit, they ain't playing around here.
+
+DRSDM_REWARD_1 = ~z~Appreciate you doing all this... here, for you.
+
+DRSDM_SPOT1_1 = ~z~Hey, hey!
+
+DRSDM_SPOT2_01 = ~z~You there, come quick!
+
+DRSDM_SPOT2_02 = ~z~Over here, come on!
+
+DRSDM_SURVIVE_01 = ~z~Saint Denis. Never again...
+
+DRSDM_SURVIVE_02 = ~z~Thought the Braithwaites were bad...
+
+DRSDM_THANKS_1 = ~z~Holy shit! You showed them alright.
+
+DRSDM_WAIT_01 = ~z~Can you help?
+
+DRSDM_WAIT_02 = ~z~Either you can or you can't, ain't time to mull it over.
+

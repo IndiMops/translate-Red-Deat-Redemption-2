@@ -1,0 +1,258 @@
+SPMAY_IG1_P1_1 = ~z~~sl:0.0:1.0~Remember everyone,~sl:0.5~I'm your elected official.
+
+SPMAY_IG1_P1_2 = ~z~~sl:0.0:1.6~Your mayor.~sl:0.3~And you elected me on a ticket of probity as well as democracy.
+
+SPMAY_IG1_P1_3 = ~z~~sl:1.1:2.36~This is a fair town~sl:0.2~and a nice town and a proper town,
+
+SPMAY_IG1_P1_4 = ~z~~sl:0.0:3.5~and as such it's a town for fair and nice~sl:0.1~and proper people.
+
+SPMAY_IG1_P1_5 = ~z~~sl:0.0:3.8~This is Strawberry, West Elizabeth~sl:0.2:4.5~and I'm your mayor and you're my...~sl:0.5~our citizens.
+
+SPMAY_IG1_P1_6 = ~z~~sl:0.0:4.8~And you'll be fair and proper and like-minded~sl:0.3~or we will not tolerate you in our town.
+
+SPMAY_IG1_P2_1 = ~z~~sl:0.0:5.1~I may only be the mayor of a small town~sl:0.1:1.2~but trust me,~sl:0.1~there is no finer job in this world.
+
+SPMAY_IG1_P2_2 = ~z~I am doing God's work.
+
+SPMAY_IG1_P2_3 = ~z~~sl:0.8:1.6~I am shaping lives ~sl:0.2~and raising the level of civilization in our region.
+
+SPMAY_IG1_P3_1 = ~z~Strawberry is a nice place, for nice folks.
+
+SPMAY_IG1_P3_2 = ~z~An American place, for American folks.
+
+SPMAY_IG1_P3_3 = ~z~~sl:0.0:4.9~We encourage those... who ain't nice and ain't proper,~sl:0.2~or ain't American, to keep on moving.
+
+SPMAY_IG1_P3_4 = ~z~That's democracy.
+
+SPMAY_IG1_P3_5 = ~z~The people have spoken and they elected me.
+
+SPMAY_IG1_P3_6 = ~z~~sl:0.0:2.7~And I believe wholeheartedly in...~sl:0.3~fairness, probity, and dignity.
+
+SPMAY_IG1_P3_7 = ~z~~sl:0.0:1.6~We can compete with New England...~sl:~when it comes to manners and fine breeding.
+
+SPMAY_IG1_P3_8 = ~z~We is proper, and those that ain't will discover,
+
+SPMAY_IG1_P3_9 = ~z~~sl:0.0:3.3~that though we may be kind and fair,~sl:0.2~we ain't afraid of justice.
+
+SPMAY_IG1_P3_10 = ~z~The new sheriff has my blessing.
+
+SPMAY_IG2_P1_1 = ~z~~sl:0.0:3.4~All we ask is you give us a chance.~sl:0.6~A chance to make you happy.
+
+SPMAY_IG2_P1_2 = ~z~A chance to make you feel like this is your home.
+
+SPMAY_IG2_P1_3 = ~z~~sl:0.0:2.0~Since I've been elected mayor,~sl:0.1~I have reduced the criminal element significantly,
+
+SPMAY_IG2_P1_4 = ~z~~sl:0.0:1.0~but more than that,~sl:0.1~I have raised the cultural element.
+
+SPMAY_IG2_P1_5 = ~z~~sl:0.0:2.7~I, no, we...~sl:0.1~have transformed Strawberry into a veritable Versailles of the west.
+
+SPMAY_IG2_P1_6 = ~z~~sl:0.8:2.0~A Venice in the mountains.~sl:0.1~Manhattan without the pollution.
+
+SPMAY_IG2_P1_7 = ~z~We are a sophisticated place, for sophisticated folk.
+
+SPMAY_IG2_P1_8 = ~z~So welcome one, welcome all!
+
+SPMAY_IG2_P1_9 = ~z~~sl:0.0:3.1~Whether you're stopping for an hour or a lifetime...~sl:0.2:3.0:1~we embrace you!
+
+SPMAY_IG2_P2L1_1 = ~z~Welcome to our fair city!
+
+SPMAY_IG2_P2L1_2 = ~z~~sl:0.0:1.0~Citizens...~sl:0.2~enjoy yourselves.
+
+SPMAY_IG2_P2L1_3 = ~z~~sl:0.0:1.0~Visitors...~sl:0.2~amuse yourselves.
+
+SPMAY_IG2_P2L1_4 = ~z~~sl:0.0:2.8~We are a simple mountain town...~sl:0.5:6.0:1~for people who believe in a better, wiser, kinder America.
+
+SPMAY_IG2_P2L2_1 = ~z~~sl:0.0:1.8~Welcome to Strawberry!~sl:0.2~Welcome!
+
+SPMAY_IG2_P2L3_1 = ~z~Welcome one, welcome all!
+
+SPMAY_IG2_P2L4_1 = ~z~~sl:0.0:2.0~Be well my proud people,~sl:~be well and be happy!
+
+SPMAY_IG2_P2L4_2 = ~z~~sl:0.0:2.9~Temperance, diligence, forbearance~sl:~shall make for a happy land here.
+
+SPMAY_IG3_P1_1 = ~z~Welcome to Strawberry, my friends.
+
+SPMAY_IG3_P1_2 = ~z~~sl:0.0:3.4~And to those that live here, stay here!~sl:0.2~We're a fine town, for fine people.
+
+SPMAY_IG3_P1_3 = ~z~A-an oasis of culture and civilization in the west.
+
+SPMAY_IG3_P1_4 = ~z~~sl:0.0:4.5~American ingenuity, European sophistication,~sl:0.2:3.0~fine architecture, and above all...~sl:0.5~good manners.
+
+SPMAY_IG3_P1_5 = ~z~~sl:0.0:3.1:1~All here, in West Elizabeth.
+
+SPMAY_IG3_P2_1 = ~z~~sl:0.0:1.8~Fine people of Strawberry.~sl:~Citizens! Gentlemen! Ladies...
+
+SPMAY_IG3_P2_2 = ~z~~sl:0.0:2.1~Go about your business in peace...~sl:0.1~I beg of you.
+
+SPMAY_IG4_P1_1 = ~z~~sl:0.0:2.5~Kind burghers of Strawberry...~sl:0.2~this is your mayor speaking!
+
+SPMAY_IG4_P1_2 = ~z~~sl:0.0:1.9~When you elected me I promised you~sl:0.2~a welcoming mayor, a kind mayor,
+
+SPMAY_IG4_P1_3 = ~z~~sl:0.0:1.9~a sophisticated mayor!~sl:0.2~And I think I've been true to my word.
+
+SPMAY_IG4_P1_4 = ~z~~sl:0.4:3.4~Our town is now flourishing as never before!
+
+SPMAY_IG4_P1_5 = ~z~Yes, we have the occasional untoward incident.
+
+SPMAY_IG4_P1_6 = ~z~But, we also have our weekly musical soirees,
+
+SPMAY_IG4_P1_7 = ~z~~sl:0.0:4.1~and the Temperance Society has ten new members~sl:0.3~this month alone!
+
+SPMAY_IG4_P1_8 = ~z~~sl:0.0:3.7~The barbarians shall not win here!~sl:0.7~Not while I have breath in my body!
+
+SPMAY_IG4_P2_A_1 = ~z~~sl:0.0:3.7~Strawberry is a nice place for nice people!~sl:0.4~Our own little Adirondack camp of a town.
+
+SPMAY_IG4_P2_A_2 = ~z~~sl:0.0:3.8~A place where, one day, financiers might vacation.~sl:0.6~There's nothing finer than financiers!
+
+SPMAY_IG4_P2_B2_1 = ~z~an American Sorbonne.
+
+SPMAY_IG4_P2_B_1 = ~z~~sl:0.0:2.3~This is a fine place,~sl:0.1~in a wild land!
+
+SPMAY_IG4_P2_B_2 = ~z~Named after some of nature's finest bounty,
+
+SPMAY_IG4_P2_B_3 = ~z~and nestled in some of nature's most bounteous wilderness!
+
+SPMAY_IG4_P2_B_4 = ~z~~sl:0.0:3.1~Strawberry, my friends,~sl:0.0:2.1~the Athens of the west,~sl:0.2~a new Rome, a better Oxford...
+
+SPMAY_IG4_P3_1 = ~z~~sl:0.0:2.4~Welcome one, welcome all.~sl:0.2~This is Strawberry.
+
+SPMAY_IG4_P3_2 = ~z~~sl:0.0:3.1~The finest fair town in all of Big Valley.~sl:0.5~Hell, in west of the Lanahassee!
+
+SPMAY_IG4_P3_3 = ~z~~sl:0.0:0.7~Hell...~sl:0.1:2.5:1~in the whole damn country!
+
+SPMAY_IG4_P3_4 = ~z~~sl:0.0:2.8~This is a place of rare beauty, sure!~sl:0.5~But also a place of rare dignity.
+
+SPMAY_IG4_P3_5 = ~z~We ain't no rough and ready frontier town.
+
+SPMAY_IG4_P3_6 = ~z~We are a little piece of the east moved to the west.
+
+SPMAY_IG4_P3_7 = ~z~We are America, the promised land!
+
+SPMAY_IG4_P3_8 = ~z~~sl:0.0:2.3~And what we promise, is~sl:0.1~justice, honor, and good manners.
+
+SPMAY_IG4_P3_9 = ~z~~sl:0.0:1.7~And them that'd deny us...~sl:0.2:1.3~will swing!~sl:0.2:1.4~That's what got me elected,~sl:0.2:1.7~and that's how I feel.
+
+SPMAY_IG4_P4_1 = ~z~We're founding a university here!
+
+SPMAY_IG4_P4_2 = ~z~If I can just get a rich benefactor to give me a million dollars...
+
+SPMAY_IG4_P4_3 = ~z~I pledge to found the finest college in the west.
+
+SPMAY_IG4_P4_4 = ~z~A college where men can learn in nature!
+
+SPMAY_IG4_P4_5 = ~z~Where men can exercise and study as the Greeks did.
+
+SPMAY_IG4_P4_6 = ~z~A place that will really put Strawberry on the map!
+
+SPMAY_IG4_P4_7 = ~z~~sl:0.3:1.7~This town is going places,~sl:~going places I tell you!
+
+SPMAY_IG5_P1_1 = ~z~A happy day to you all.
+
+SPMAY_IG5_P1_2 = ~z~~sl:0.0:2.6~Fine people of Strawberry...~sl:0.3:2.2~by living in peace and harmony~sl:~we are building a great Jerusalem,
+
+SPMAY_IG5_P1_3 = ~z~a new Athens in the mountains.
+
+SPMAY_IG6_P1J_1 = ~z~Hello sir, and welcome to Strawberry!
+
+SPMAY_IG6_P1J_2 = ~z~~sl:0.0:2.1~Please, make yourself at home,~sl:0.2~but treat our town with respect.
+
+SPMAY_IG6_P1J_3 = ~z~Thank you.
+
+SPMAY_IG6_P1J_4 = ~z~It's a magnificent little community we're building here.
+
+SPMAY_IG6_P1J_5 = ~z~Almost Tolstoyan, if you know what that means.
+
+SPMAY_IG6_P1J_6 = ~z~I don't...
+
+SPMAY_IG6_P1J_7 = ~z~~sl:0.0:1.9~Well... neither do I,~sl:0.1:1.6~but it sounds very interesting.~sl:0.4~And we love interesting people!
+
+SPMAY_IG6_P1J_8 = ~z~Please, make yourself at home, but be nice.
+
+SPMAY_IG6_P1_1 = ~z~Hello sir, and welcome to Strawberry!
+
+SPMAY_IG6_P1_2 = ~z~~sl:0.0:2.1~Please, make yourself at home,~sl:0.2~but treat our town with respect.
+
+SPMAY_IG6_P1_3 = ~z~Thank you.
+
+SPMAY_IG6_P1_4 = ~z~It's a magnificent little community we're building here.
+
+SPMAY_IG6_P1_5 = ~z~Almost Tolstoyan, if you know what that means.
+
+SPMAY_IG6_P1_6 = ~z~I don't...
+
+SPMAY_IG6_P1_7 = ~z~~sl:0.0:1.9~Well... neither do I,~sl:0.1:1.6~but it sounds very interesting.~sl:0.4~And we love interesting people!
+
+SPMAY_IG6_P1_8 = ~z~Please, make yourself at home, but be nice.
+
+SPMAY_IG7_P1J_1 = ~z~Good day kind sir!
+
+SPMAY_IG7_P1J_2 = ~z~Hello.
+
+SPMAY_IG7_P1J_3 = ~z~Enjoy our fair town in peace and be nice.
+
+SPMAY_IG7_P1J_4 = ~z~Be nice.
+
+SPMAY_IG7_P1_1 = ~z~Good day kind sir!
+
+SPMAY_IG7_P1_2 = ~z~Hello.
+
+SPMAY_IG7_P1_3 = ~z~Enjoy our fair town in peace and be nice.
+
+SPMAY_IG7_P1_4 = ~z~Be nice.
+
+SPMAY_IG9_P1J_1 = ~z~~sl:0.0:1.4~Good to see you, sir!~sl:0.2~Good to see you.
+
+SPMAY_IG9_P1J_2 = ~z~Is it?
+
+SPMAY_IG9_P1J_3 = ~z~~sl:0.0:2.5~Yes, it is. As mayor of this town,~sl:0.1:~I, Nicholas Timmins, love all our visitors.
+
+SPMAY_IG9_P1J_4 = ~z~My family always wondered why I moved here...
+
+SPMAY_IG9_P1J_5 = ~z~They blamed my failure at Princeton,
+
+SPMAY_IG9_P1J_6 = ~z~~sl:0.0:3.1~and a rather nasty rumor that went around about me,~sl:0.1~but it wasn't true!
+
+SPMAY_IG9_P1J_7 = ~z~I wasn't...
+
+SPMAY_IG9_P1J_8 = ~z~~sl:0.0:1.7~well, the fact is,~sl:0.1~building a fine community here is doing far more good than
+
+SPMAY_IG9_P1J_9 = ~z~living the life of some east-coast knob, with a
+
+SPMAY_IG9_P1J_10 = ~z~silly old great wooden camp by a lake and a bank...
+
+SPMAY_IG9_P1J_11 = ~z~~sl:0.0:2.1:1~Just like my awful brother.
+
+SPMAY_IG9_P1J_12 = ~z~~sl:0.0:2.8:1~Family. My god, it's why we all ran away!
+
+SPMAY_IG9_P1J_13 = ~z~They were very unkind to my wife.
+
+SPMAY_IG9_P1J_14 = ~z~~sl:0.0:1.7~Anyway, I do go on.~sl:0.2~It's unseemly somehow...
+
+SPMAY_IG9_P1_1 = ~z~~sl:0.0:1.4~Good to see you, sir!~sl:0.2~Good to see you.
+
+SPMAY_IG9_P1_2 = ~z~Is it?
+
+SPMAY_IG9_P1_3 = ~z~~sl:0.0:2.5~Yes, it is. As mayor of this town,~sl:0.1:~I, Nicholas Timmins, love all our visitors.
+
+SPMAY_IG9_P1_4 = ~z~My family always wondered why I moved here...
+
+SPMAY_IG9_P1_5 = ~z~They blamed my failure at Princeton,
+
+SPMAY_IG9_P1_6 = ~z~~sl:0.0:3.1~and a rather nasty rumor that went around about me,~sl:0.1~but it wasn't true, I...
+
+SPMAY_IG9_P1_7 = ~z~I wasn't...
+
+SPMAY_IG9_P1_8 = ~z~~sl:0.0:1.7~well, the fact is,~sl:0.1~building a fine community here is doing far more good than
+
+SPMAY_IG9_P1_9 = ~z~living the life of some east-coast knob, with a
+
+SPMAY_IG9_P1_10 = ~z~silly old great wooden camp by a lake and a bank...
+
+SPMAY_IG9_P1_11 = ~z~~sl:0.0:2.1:1~Just like my awful brother.
+
+SPMAY_IG9_P1_12 = ~z~~sl:0.0:2.8:1~Family. My God, it's why we all ran away!
+
+SPMAY_IG9_P1_13 = ~z~They were very unkind to my wife.
+
+SPMAY_IG9_P1_14 = ~z~~sl:0.0:1.7~Anyway, I do go on.~sl:0.2~It's unseemly somehow...
+

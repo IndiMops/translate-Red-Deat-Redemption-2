@@ -1,0 +1,18 @@
+CSNB3_ACTION_1 = ~z~Arthur.
+
+CSNB3_ACTION_2 = ~z~Susan?
+
+CSNB3_ACTION_3 = ~z~Someone smashed the box.
+
+CSNB3_ACTION_4 = ~z~What box?
+
+CSNB3_ACTION_5 = ~z~The money box... we'd had that for so many years...
+
+CSNB3_ACTION_6 = ~z~Why did they smash it?
+
+CSNB3_ACTION_7 = ~z~I don't know... look at this place... all divided... everyone anxious and at each other's throats...
+
+CSNB3_ACTION_8 = ~z~I'm heart broken.
+
+CSNB3_ACTION_9 = ~z~Ah, me too... me too.
+

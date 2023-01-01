@@ -1,0 +1,22 @@
+CTRL1_ACTION_1 = ~z~You... are as pretty as a picture, my dear.
+
+CTRL1_ACTION_2 = ~z~Away with you!
+
+CTRL1_ACTION_3 = ~z~Pretty as a picture...
+
+CTRL1_ACTION_4 = ~z~But... oh! Oh my Lord...
+
+CTRL1_ACTION_5 = ~z~Oh my Lord! What's in your book?
+
+CTRL1_ACTION_6 = ~z~
+
+CTRL1_ACTION_7 = ~z~
+
+CTRL1_ACTION_8 = ~z~Ladies.
+
+CTRL1_ACTION_9 = ~z~
+
+CTRL1_ACTION_10 = ~z~He's a bloody devil.
+
+CTRL1_ACTION_11 = ~z~He's a kind devil.
+

@@ -1,0 +1,10 @@
+CHWL2_ACT_1 = ~z~So you, you saw Pinkertons, did you?
+
+CHWL2_ACT_2 = ~z~Saw, met and got the full message.
+
+CHWL2_ACT_3 = ~z~What did you think?
+
+CHWL2_ACT_4 = ~z~~sl:0.0:2.3~I think we're in real trouble, but...~sl:0.9~the only way out is forward.
+
+CHWL2_ACT_5 = ~z~I know. That Blackwater business seems to have finished us.
+

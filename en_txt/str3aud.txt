@@ -1,0 +1,230 @@
+STR3_2_GREET_1 = ~z~Hey.
+
+STR3_RSC2_1 = ~z~Ah...
+
+STR3_RSC2_2 = ~z~how did you get on, Mr. Morgan?
+
+STR3_RSC2_3 = ~z~Just dandy.
+
+STR3_RSC2_4 = ~z~Just...
+
+STR3_RSC2_5 = ~z~Get up.
+
+STR3_RSC2_6 = ~z~What?
+
+STR3_RSC2_7 = ~z~Get up!
+
+STR3_RSC2_8 = ~z~What...
+
+STR3_RSC2_9 = ~z~What is wrong?
+
+STR3_RSC2_10 = ~z~Nothing's wrong...
+
+STR3_RSC2_11 = ~z~nothing at all.
+
+STR3_RSC2_12 = ~z~What are you doing?
+
+STR3_RSC2_13 = ~z~Something I should have done a long time ago.
+
+STR3_RSC2_14 = ~z~Get your bag.
+
+STR3_RSC2_15 = ~z~Is this it?
+
+STR3_RSC2_16 = ~z~I don't understand...
+
+STR3_RSC2_17 = ~z~I ain't gonna kill you...
+
+STR3_RSC2_18 = ~z~though I probably should.
+
+STR3_RSC2_19 = ~z~You disgust me...
+
+STR3_RSC2_20 = ~z~and you shame us...
+
+STR3_RSC2_21 = ~z~if we could be shamed any more than we already are.
+
+STR3_RSC2_22 = ~z~That should do.
+
+STR3_RSC2_23 = ~z~Go!
+
+STR3_RSC2_24 = ~z~I don't understand you...
+
+STR3_RSC2_25 = ~z~what are you doing?
+
+STR3_RSC2_26 = ~z~Go and get...
+
+STR3_RSC2_27 = ~z~a job!
+
+STR3_RSC2_28 = ~z~You know...
+
+STR3_RSC2_29 = ~z~they-they say the sick delude themselves.
+
+STR3_RSC2_30 = ~z~I was your friend.
+
+STR3_RSC2_31 = ~z~You and me, we ain't decent...
+
+STR3_RSC2_32 = ~z~but those folk...
+
+STR3_RSC2_33 = ~z~they was.
+
+STR3_RSC2_34 = ~z~Now, here...
+
+STR3_RSC2_35 = ~z~take that.
+
+STR3_RSC2_36 = ~z~Take that, and get lost.
+
+STR3_RSC2_37 = ~z~I'm...
+
+STR3_RSC2_38 = ~z~Leaving.
+
+STR3_RSC2_39 = ~z~What are you doing?
+
+STR3_RSC2_40 = ~z~Getting rid of you...
+
+STR3_RSC2_41 = ~z~you time wasting maggot.
+
+STR3_RSC2_42 = ~z~Get your bag.
+
+STR3_RSC2_43 = ~z~I don't understand...
+
+STR3_RSC2_44 = ~z~Just get out of my sight.
+
+STR3_RSC2_45 = ~z~You waste my time, you depress me...
+
+STR3_RSC2_46 = ~z~and you're a parasite.
+
+STR3_RSC2_47 = ~z~Sending me after losers like that.
+
+STR3_RSC2_48 = ~z~Ah, this should do.
+
+STR3_RSC2_49 = ~z~You're an embarrassment.
+
+STR3_RSC2_50 = ~z~What are you doing?
+
+STR3_RSC2_51 = ~z~We were partners...
+
+STR3_RSC2_52 = ~z~business partners.
+
+STR3_RSC2_53 = ~z~Go get a new partner!
+
+STR3_RSC2_54 = ~z~You know...
+
+STR3_RSC2_55 = ~z~they-they say the sick delude themselves.
+
+STR3_RSC2_56 = ~z~I was...
+
+STR3_RSC2_57 = ~z~I was your comrade.
+
+STR3_RSC2_58 = ~z~My comrade?
+
+STR3_RSC2_59 = ~z~You're a creep.
+
+STR3_RSC2_60 = ~z~A creep and a parasite...
+
+STR3_RSC2_61 = ~z~and a time waster.
+
+STR3_RSC2_62 = ~z~Now, take that.
+
+STR3_RSC2_63 = ~z~Take that...
+
+STR3_RSC2_64 = ~z~and don't annoy me.
+
+STR3_RSC2_65 = ~z~I'm...
+
+STR3_RSC2_66 = ~z~Leaving.
+
+STR3_RSC_1_1 = ~z~Mr. Morgan.
+
+STR3_RSC_1_2 = ~z~Herr Strauss.
+
+STR3_RSC_1_3 = ~z~How are you?
+
+STR3_RSC_1_4 = ~z~About...
+
+STR3_RSC_1_5 = ~z~about how I look.
+
+STR3_RSC_1_6 = ~z~Okay.
+
+STR3_RSC_1_7 = ~z~Are you, um...
+
+STR3_RSC_1_8 = ~z~are you perhaps available for some work?
+
+STR3_RSC_1_9 = ~z~Debtors?
+
+STR3_RSC_1_10 = ~z~Yes.
+
+STR3_RSC_1_11 = ~z~I guess.
+
+STR3_RSC_1_12 = ~z~Your commitment to your duties is admirable.
+
+STR3_RSC_1_13 = ~z~You know, Mr. Morgan you are...
+
+STR3_RSC_1_14 = ~z~well, I'm sorry for you.
+
+STR3_RSC_1_15 = ~z~No, never mind, I didn't...
+
+STR3_RSC_1_16 = ~z~Look, Strauss...
+
+STR3_RSC_1_17 = ~z~You take care.
+
+STR3_RSC_1_18 = ~z~I ain't dead yet.
+
+STR3_RSC_1_19 = ~z~No, of course not.
+
+STR3_RSC_1_20 = ~z~That's what I was saying...
+
+STR3_RSC_1_21 = ~z~I, uh... I...
+
+STR3_RSC_1_22 = ~z~The debtors, Strauss...
+
+STR3_RSC_1_23 = ~z~who owes you money?
+
+STR3_RSC_1_24 = ~z~Well...
+
+STR3_RSC_1_25 = ~z~there's a deserter from Fort Wallace.
+
+STR3_RSC_1_26 = ~z~Head to him first...
+
+STR3_RSC_1_27 = ~z~they're looking for him out on the road near Three Sisters.
+
+STR3_RSC_1_28 = ~z~Man's name is J. John Weathers.
+
+STR3_RSC_1_29 = ~z~J. John Weathers...
+
+STR3_RSC_1_30 = ~z~Then, there's a miner over in Annesburg.
+
+STR3_RSC_1_31 = ~z~He's called...
+
+STR3_RSC_1_32 = ~z~well, he's called Arthur...
+
+STR3_RSC_1_33 = ~z~like you.
+
+STR3_RSC_1_34 = ~z~Arthur Londonderry.
+
+STR3_RSC_1_35 = ~z~Family man, desperate.
+
+STR3_RSC_1_36 = ~z~You know the type.
+
+STR3_RSC_1_37 = ~z~Couldn't one of the boys do this?
+
+STR3_RSC_1_38 = ~z~I tried.
+
+STR3_RSC_1_39 = ~z~They lacked your...
+
+STR3_RSC_1_40 = ~z~vigor.
+
+STR3_RSC_1_41 = ~z~Vigor, huh?
+
+STR3_RSC_1_42 = ~z~Alright.
+
+STR3_RSC_1_43 = ~z~Take care, Mr. Morgan.
+
+STR3_RSC_1_LI1_1 = ~z~Mr. Morgan.
+
+STR3_RSC_1_LI2_1 = ~z~Herr Strauss.
+
+STR3_RSC_1_LI3_1 = ~z~How are you?
+
+STR3_RSC_1_LI3_2 = ~z~About how I look.
+
+STR3_RSC_1_LI3_3 = ~z~Okay.
+

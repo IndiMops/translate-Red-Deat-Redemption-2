@@ -1,0 +1,66 @@
+DRCTB_AGREE_1 = ~z~Oh... thank you.
+
+DRCTB_AMBUSH_01 = ~z~No, they're back!
+
+DRCTB_AMBUSH_02 = ~z~~sl:0.0:1.2~Oh God, more of them!~sl:0.1~What do they want with us?
+
+DRCTB_APPROACH_1 = ~z~~sl:0.0:4.5~Mountain folk took me and my sister. I got away but... my sister... she's still...~sl:0.5~oh God, you gotta help me.
+
+DRCTB_ARRIVE_1 = ~z~Oh, God... I can't believe you got me here...
+
+DRCTB_CALLOUT_1 = ~z~Hello? You... come for me?
+
+DRCTB_CUTLOOSE_01 = ~z~~sl:0.0:1.2~You ain't another one of those~sl:~mountain folk, are you?
+
+DRCTB_CUTLOOSE_02 = ~z~Help me, please?
+
+DRCTB_CUTLOOSE_03 = ~z~Will you help me? I just want to get out of here.
+
+DRCTB_DECLINE_1 = ~z~I don't know what I'm going to do...
+
+DRCTB_ESCORT_1 = ~z~~sl:0.0:3.5~Oh, God, my sister... she okay?~sl:0.6:1.4~We were headed to a ranch house~sl:~northeast of here. The Adlers.
+
+DRCTB_ESCORT_2 = ~z~Maybe she made it there already?
+
+DRCTB_HOGTIED_01 = ~z~~sl:0.6~Lord... why are you doing this to us?
+
+DRCTB_HOGTIED_02 = ~z~Please... please just let my sister go...
+
+DRCTB_HOGTIED_03 = ~z~~sl:0.6~I want to go home...
+
+DRCTB_HURRY_1 = ~z~Go! She don't got much time...
+
+DRCTB_IDLE_01 = ~z~What are you waiting for, dammit?
+
+DRCTB_IDLE_02 = ~z~Go, go!
+
+DRCTB_IDLE_03 = ~z~Go, please, or they'll kill her I know it!
+
+DRCTB_NEAR_1 = ~z~~sl:1.2~We're not far now.
+
+DRCTB_POSSEDIE_01 = ~z~This is too much. They're gonna kill us all!
+
+DRCTB_POSSEDIE_02 = ~z~No! They got one of you!
+
+DRCTB_REWARD_1 = ~z~Here. It's not much, but... please take this.
+
+DRCTB_SITUATION_1 = ~z~~sl:0.0:1.6~They have her in one of the houses...~sl:~well armed, so be careful... go on, go.
+
+DRCTB_SPOT1_1 = ~z~~sl:0.0:2.1~Hey! Oh, Jesus, I...~sl:~Please, come quick! Help me!
+
+DRCTB_SPOT2_01 = ~z~Hey, hey... I'm begging you here...
+
+DRCTB_SPOT2_02 = ~z~Oh, come on... this is desperate...
+
+DRCTB_SPOT2_03 = ~z~My sister's gonna die if you don't help me...
+
+DRCTB_SURVIVE_01 = ~z~~sl:0.6~I don't believe it...
+
+DRCTB_SURVIVE_02 = ~z~I just want this to be over...
+
+DRCTB_THANKS_1 = ~z~~sl:1.6:2.0:1~I can't believe I'm not dead...
+
+DRCTB_WAIT_01 = ~z~Please... they got her in that old mining camp.
+
+DRCTB_WAIT_02 = ~z~They find I'm gone, I don't know what they'll do to her...
+

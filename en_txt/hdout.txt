@@ -1,0 +1,40 @@
+FETCH_HIDEOUT_CTX_SPARE_ENEMY = Spare
+
+FETCH_HIDEOUT_HELP_HONOR_WARNING = The leader ~1b~ has surrendered. Hold ~INPUT_INTERACT_LOCKON~ to target the leader and press ~INPUT_CONTEXT_X~ if you want to spare him. Killing the leader will give you negative honor.
+
+FETCH_HIDEOUT_HELP_INTRO = The leader ~1b~ will surrender if you take out all of the enemies.
+
+FETCH_HIDEOUT_HELP_NEARBY = Clear the hideout ~1b~ by taking out the enemies.
+
+FETCH_HIDEOUT_HELP_REMOTE_PLAYER_STARTED_MISSION = ~1~ is participating in a hideout ~2b~. Regroup with them to take part.
+
+FETCH_HIDEOUT_OBJ_DESTROY = Take out the ~COLOR_ENEMY~enemies~s~
+
+FETCH_HIDEOUT_OBJ_KILL_ATTACKERS = Take out the ~COLOR_ENEMY~leader~s~
+
+FETCH_HIDEOUT_OBJ_LOOT = Kill or spare the ~COLOR_MP_OBJECTIVE~leader~s~
+
+FETCH_HIDEOUT_SCORETIMER_LEADER_KILL = ~1~ killed the leader
+
+FETCH_HIDEOUT_SCORETIMER_LEADER_KILL_NP = The leader was killed
+
+FETCH_HIDEOUT_SCORETIMER_LEADER_KILL_YOU = You killed the leader
+
+FETCH_HIDEOUT_SCORETIMER_LEADER_KO = ~1~ knocked out the leader
+
+FETCH_HIDEOUT_SCORETIMER_LEADER_KO_NP = The leader was knocked out
+
+FETCH_HIDEOUT_SCORETIMER_LEADER_KO_YOU = You knocked out the leader
+
+FETCH_HIDEOUT_SCORETIMER_LEADER_SPARE = ~1~ spared the leader
+
+FETCH_HIDEOUT_SCORETIMER_LEADER_SPARE_NP = The leader was spared
+
+FETCH_HIDEOUT_SCORETIMER_LEADER_SPARE_YOU = You spared the leader
+
+FETCH_HIDEOUT_SHARD_DESC_PRIMARY = Clear the ~COLOR_ENEMY~enemy hideout
+
+FETCH_HIDEOUT_SHARD_OVER_ABANDON = Hideout was abandoned
+
+FETCH_HIDEOUT_SHARD_PRIMARY_PASS = Hideout cleared
+

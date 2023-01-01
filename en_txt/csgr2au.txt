@@ -1,0 +1,12 @@
+CSGR2_ACTN_1 = ~z~Hey!
+
+CSGR2_ACTN_2 = ~z~There's enough fools out there deserve shooting, you know.
+
+CSGR2_ACTN_3 = ~z~What you mean?
+
+CSGR2_ACTN_4 = ~z~I know it's you keeps killing innocent people.
+
+CSGR2_ACTN_5 = ~z~Ain't nobody innocent in this world, Miss Grimshaw, you know that.
+
+CSGR2_ACTN_6 = ~z~Use your brain, Mr. Morgan! We don't have time for you to keep acting crazy.
+

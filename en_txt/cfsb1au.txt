@@ -1,0 +1,26 @@
+CFSB1_ACT_1 = ~z~Mind if I warm myself here a minute, gentlemen?
+
+CFSB1_ACT_2 = ~z~How you boys keeping?
+
+CFSB1_ACT_3 = ~z~Well, I reckon we're on the turn now.
+
+CFSB1_ACT_4 = ~z~Our lucks turned and we're going to be fine.
+
+CFSB1_ACT_5 = ~z~I knew Dutch would have us right. I knew it. Never doubted him for a minute.
+
+CFSB1_ACT_6 = ~z~Sad business when Davey passed.
+
+CFSB1_ACT_7 = ~z~Sad business when anyone passes but... we're going to make it.
+
+CFSB1_ACT_8 = ~z~Dutch will see us right.
+
+CFSB1_ACT_9 = ~z~Yeah, of course he will.
+
+CFSB1_ACT_10 = ~z~Exactly, Mr. Williamson. Of course he will.
+
+CFSB1_ACT_11 = ~z~He's the ideal. The American this country was set up to create.
+
+CFSB1_ACT_12 = ~z~He'll see us right.
+
+CFSB1_ACT_13 = ~z~Excuse me... goodnight, gentlemen.
+

@@ -1,0 +1,18 @@
+CCUN2_ACTA_1 = ~z~What the hell is going on 'round here?
+
+CCUN2_ACTA_2 = ~z~Dutch is crazy as a cat herder. Micah and Bill are turning all kinds of screws on me.
+
+CCUN2_ACTA_3 = ~z~The only way this is gonna end is with a big old hole in Uncle's head.
+
+CCUN2_ACTA_4 = ~z~Don't worry. We're all watching out for you.
+
+CCUN2_ACTA_5 = ~z~What happened to the good old days, when you rob some nasty folks, have a party...
+
+CCUN2_ACTBALT_1 = ~z~We had a good run, didn't we?
+
+CCUN2_ACTBALT_2 = ~z~We're still breathing, so... we keep going.
+
+CCUN2_ACTBALT_3 = ~z~
+
+CCUN2_ACTB_1 = ~z~Lots of things happened.
+

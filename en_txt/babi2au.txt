@@ -1,0 +1,10 @@
+BABI2_ACTA_1 = ~z~This place is starting to take shape.
+
+BABI2_ACTA_2 = ~z~Yeah, you've come a long way from sleeping in a tent surrounded by thugs and fools.
+
+BABI2_ACTA_3 = ~z~
+
+BABI2_ACTB_1 = ~z~Now I sleep in a house surrounded by thugs and actual sheep.
+
+BABI2_ACTB_2 = ~z~Guess it's progress.
+

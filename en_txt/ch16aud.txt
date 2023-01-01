@@ -1,0 +1,16 @@
+CCHSH_16_A_1 = ~z~
+
+CCHSH_16_A_2 = ~z~Well...
+
+CCHSH_16_A_3 = ~z~looks like we'll live to see at least a few more days.
+
+CCHSH_16_B_1 = ~z~Folks are happy, Arthur.
+
+CCHSH_16_B_2 = ~z~Happy?
+
+CCHSH_16_B_3 = ~z~Well...
+
+CCHSH_16_B_4 = ~z~they're fed, which is the next best thing.
+
+CCHSH_16_B_5 = ~z~
+

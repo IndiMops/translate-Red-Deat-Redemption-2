@@ -1,0 +1,84 @@
+MRY31_HELPED_1 = ~z~My Dear Arthur,
+
+MRY31_HELPED_2 = ~z~I hope this letter finds you well.
+
+MRY31_HELPED_3 = ~z~~sl:0.0:2.8~I wanted to thank you for your help with Jamie.~sl:0.6~He and Daddy are still arguing, but
+
+MRY31_HELPED_4 = ~z~I understand that Jamie is thinking about going back to college.
+
+MRY31_HELPED_5 = ~z~~sl:0.0:1.1~Whatever happens,~sl:0.2~I believe you saved his life and we are all truly grateful.
+
+MRY31_HELPED_6 = ~z~Oh, Arthur, I have made such a mess of my life, time and again.
+
+MRY31_HELPED_7 = ~z~Why can I not change and be the woman I want to be?
+
+MRY31_HELPED_8 = ~z~~sl:0.0:2.5~Why couldn't you change and be a man~sl:~and put down all those fantasies that shroud your judgment?
+
+MRY31_HELPED_9 = ~z~Life is very confusing and I see now that I'm not very good at it.
+
+MRY31_HELPED_10 = ~z~~sl:0.0:3.2~I am afraid we have got ourselves into another mess.~sl:~It's not my fault, but I need your help.
+
+MRY31_HELPED_11 = ~z~I'm staying at the Hotel Grand in Saint Denis.
+
+MRY31_HELPED_12 = ~z~~sl:0.0:4.1~Oh, Arthur, I know it is wrong to ask you,~sl:0.4~but I have nobody else and for what we once had together,
+
+MRY31_HELPED_13 = ~z~I beg of you, even though I am ashamed to do so.
+
+MRY31_HELPED_14 = ~z~Yours,
+
+MRY31_HELPED_15 = ~z~Mary.
+
+MRY31_NOT_HELP_1 = ~z~My Dear Arthur,
+
+MRY31_NOT_HELP_2 = ~z~I hope this letter finds you well.
+
+MRY31_NOT_HELP_3 = ~z~~sl:0.0:1.8~It seems Jamie may have escaped~sl:~from the clutches of the Chelonians,
+
+MRY31_NOT_HELP_4 = ~z~~sl:0.0:1.8~so perhaps it was for the best~sl:~that you didn't go causing trouble on my behalf.
+
+MRY31_NOT_HELP_5 = ~z~~sl:0.0:5.1~Oh, Arthur, you're very wise. I, on the other hand,~sl:0.2~have made such a mess of my life, time and again.
+
+MRY31_NOT_HELP_6 = ~z~Why can I not change and be the woman I want to be?
+
+MRY31_NOT_HELP_7 = ~z~~sl:0.0:2.5~Why couldn't you change and be a man~sl:~and put down all those fantasies that shroud your judgment?
+
+MRY31_NOT_HELP_8 = ~z~Life is very confusing and I see now that I'm not very good at it.
+
+MRY31_NOT_HELP_9 = ~z~~sl:0.0:3.1~I am afraid we have got ourselves into another mess.~sl:0.6~It's not my fault, but I need your help.
+
+MRY31_NOT_HELP_10 = ~z~~sl:0.0:3.9~I hate so to ask, but I have nobody else.~sl:0.7~I'm staying at the Hotel Grand in Saint Denis.
+
+MRY31_NOT_HELP_11 = ~z~~sl:0.0:3.9~Oh, Arthur, I know it is wrong to ask you,~sl:0.5~but I am all alone and for what we once had together,
+
+MRY31_NOT_HELP_12 = ~z~I beg of you, even though I am ashamed to do so.
+
+MRY31_NOT_HELP_13 = ~z~Yours,
+
+MRY31_NOT_HELP_14 = ~z~Mary.
+
+MRY31_NOT_MEET_1 = ~z~My Dear Arthur,
+
+MRY31_NOT_MEET_2 = ~z~~sl:0.0:1.9~I hope this letter finds you well.~sl:0.7~I'm not sure if you received the letter I sent you from Valentine.
+
+MRY31_NOT_MEET_3 = ~z~~sl:0.0:2.4~There was a problem with my brother Jamie,~sl:~but it all worked out, fortunately, and he's back safe now.
+
+MRY31_NOT_MEET_4 = ~z~Oh, Arthur, I have made such a mess of my life, time and again.
+
+MRY31_NOT_MEET_5 = ~z~Why can I not change and be the woman I want to be?
+
+MRY31_NOT_MEET_6 = ~z~~sl:0.0:2.5~Why couldn't you change and be a man~sl:~and put down all those fantasies that shroud your judgment?
+
+MRY31_NOT_MEET_7 = ~z~Life is very confusing and I see now that I am not very good at it.
+
+MRY31_NOT_MEET_8 = ~z~~sl:0.0:3.1~I am afraid I have got myself into another mess.~sl:0.5~It's not my fault, but I need your help.
+
+MRY31_NOT_MEET_9 = ~z~~sl:0.0:3.2~I hate so to ask, but I have nobody else.~sl:0.6~I'm staying at the Hotel Grand in Saint Denis.
+
+MRY31_NOT_MEET_10 = ~z~~sl:0.0:3.9~Oh, Arthur, I know it is wrong to ask you,~sl:0.5~but I am all alone and for what we once had together,
+
+MRY31_NOT_MEET_11 = ~z~I beg of you, even though I am ashamed to do so.
+
+MRY31_NOT_MEET_12 = ~z~Yours,
+
+MRY31_NOT_MEET_13 = ~z~Mary.
+

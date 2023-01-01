@@ -1,0 +1,18 @@
+CWKG3_ACTION_1 = ~z~Oh, look who it is.
+
+CWKG3_ACTION_2 = ~z~Hello, Karen.
+
+CWKG3_ACTION_3 = ~z~Look who it is... old Arthur... big tough Arthur...
+
+CWKG3_ACTION_4 = ~z~You wanna know something, Arthur?
+
+CWKG3_ACTION_5 = ~z~What?
+
+CWKG3_ACTION_6 = ~z~I don't know... I don't know... I had something to say... I did...
+
+CWKG3_ACTION_7 = ~z~Take it easy, Karen, onthe hooch.
+
+CWKG3_ACTION_8 = ~z~Why? Because a good sober life will bring me peace and contentment?
+
+CWKG3_ACTION_9 = ~z~What a crock of shit this world is.
+

@@ -1,0 +1,96 @@
+0x07E02B12 = Самогонщик
+
+FETCH_CTX_KIDNAPPED_BUYERS_FAST_TRAVEL = Переместиться к хижине
+
+FETCH_KIDNAPPED_BUYERS_ABANDON = Вы бросили покупателя
+
+FETCH_KIDNAPPED_BUYERS_FAST_TRAVEL_TOAST_MAIN = Самогонщик
+
+FETCH_KIDNAPPED_BUYERS_FAST_TRAVEL_TOAST_SECONDARY = Переместиться к хижине
+
+FETCH_KIDNAPPED_BUYERS_HELP_CONTROL = Чтобы повести за собой ~COLOR_MP_OBJECTIVE_FRIENDLY~покупателя~s~ ~1b~, уберите оружие и сфокусируйтесь на нем при помощи ~INPUT_INTERACT_LOCKON~.
+
+FETCH_KIDNAPPED_BUYERS_HELP_FAILED = Вы не спасли покупателя от агентов. Какое-то время у вас не будут брать самогон.
+
+FETCH_KIDNAPPED_BUYERS_HELP_FAST_TRAVEL = Чтобы скорее добраться до похищенных покупателей, воспользуйтесь быстрым перемещением к хижине.
+
+FETCH_KIDNAPPED_BUYERS_HELP_FOLLOW = Покупатель ~1b~ следует за вами. Отведите его к месту доставки.
+
+FETCH_KIDNAPPED_BUYERS_HELP_HOGTIED = Чтобы освободить покупателя, удерживайте ~INPUT_CUT_FREE~.
+
+FETCH_KIDNAPPED_BUYERS_HELP_HOGTIED_GO_TO = Защитите покупателя ~1b~ от агентов. Чтобы покупатель смог пойти за вами, развяжите его.
+
+FETCH_KIDNAPPED_BUYERS_HELP_HOGTIED_GO_TO_PLURAL = Защитите покупателей ~1b~ от агентов. Чтобы покупатели смогли пойти за вами, развяжите их.
+
+FETCH_KIDNAPPED_BUYERS_HELP_INTRO = Освободите покупателя ~BLIP_AMBIENT_VIP~ и отведите его к месту доставки за установленное время, чтобы продолжить продавать самогон.
+
+FETCH_KIDNAPPED_BUYERS_HELP_INTRO_PLURAL = Освободите покупателя ~BLIP_AMBIENT_VIP~ и отведите его к месту доставки за установленное время, чтобы продолжить продавать самогон.
+
+FETCH_KIDNAPPED_BUYERS_HELP_NOTIFICATION = Покупателя ~BLIP_AMBIENT_VIP~ арестовали агенты. Спасите его, чтобы продолжить продавать самогон.
+
+FETCH_KIDNAPPED_BUYERS_HELP_OBJECTIVE_ESCAPING_TEAM_PRIMARY = Вы отошли слишком далеко от покупателя. Возвращайтесь скорее.
+
+FETCH_KIDNAPPED_BUYERS_KILL_ATTACKERS = Устраните ~COLOR_MP_OBJECTIVE_ENEMY~агентов~s~.
+
+FETCH_KIDNAPPED_BUYERS_OBJ_DEFEND = Защищайте ~COLOR_MP_OBJECTIVE_FRIENDLY~покупателя~s~ по пути к ~1~.
+
+FETCH_KIDNAPPED_BUYERS_OBJ_DEFEND_PLURAL = Защищайте ~COLOR_MP_OBJECTIVE_FRIENDLY~покупателей~s~ по пути к ~1~.
+
+FETCH_KIDNAPPED_BUYERS_OBJ_DESTROY = Устраните ~COLOR_MP_OBJECTIVE_ENEMY~покупателя~s~.
+
+FETCH_KIDNAPPED_BUYERS_OBJ_DESTROY_PLURAL = Устраните ~COLOR_MP_OBJECTIVE_ENEMY~покупателей~s~.
+
+FETCH_KIDNAPPED_BUYERS_OBJ_DROP = Опустите ~COLOR_MP_OBJECTIVE_FRIENDLY~покупателя~s~ на ~COLOR_MP_OBJECTIVE~землю~s~.
+
+FETCH_KIDNAPPED_BUYERS_OBJ_GOTO = Доберитесь до ~COLOR_MP_OBJECTIVE_NEUTRAL~покупателя~s~.
+
+FETCH_KIDNAPPED_BUYERS_OBJ_RETURN = Отведите ~COLOR_MP_OBJECTIVE_FRIENDLY~покупателя~s~ ~1~.
+
+FETCH_KIDNAPPED_BUYERS_OBJ_RETURN_PLURAL = Отведите ~COLOR_MP_OBJECTIVE_FRIENDLY~покупателей~s~ ~1~.
+
+FETCH_KIDNAPPED_BUYERS_OBJ_STEAL = Освободите ~COLOR_MP_OBJECTIVE_NEUTRAL~покупателя~s~.
+
+FETCH_KIDNAPPED_BUYERS_SCORETIMER_DELIVER_TEAM_PRIMARY_FAIL = Игрок ~1~ ликвидировал покупателя.
+
+FETCH_KIDNAPPED_BUYERS_SCORETIMER_DELIVER_TEAM_PRIMARY_FAIL_NP = Покупатель ликвидирован.
+
+FETCH_KIDNAPPED_BUYERS_SCORETIMER_DELIVER_TEAM_PRIMARY_PASS = Игрок ~1~ отвел покупателя к месту доставки.
+
+FETCH_KIDNAPPED_BUYERS_SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_NP = Покупателя отвели к месту доставки.
+
+FETCH_KIDNAPPED_BUYERS_SCORETIMER_DESTROYED = Покупатель погиб.
+
+FETCH_KIDNAPPED_BUYERS_SCORETIMER_DESTROYED_YOU = Вы убили покупателя.
+
+FETCH_KIDNAPPED_BUYERS_SCORETIMER_FOLLOWER_GOAL_COMPLETE = ~COLOR_MP_OBJECTIVE_FRIENDLY~Покупатель~s~ особожден
+
+FETCH_KIDNAPPED_BUYERS_SHARD_DESC_PRIMARY = Освободите похищенного ~COLOR_MP_OBJECTIVE_NEUTRAL~покупателя~s~
+
+FETCH_KIDNAPPED_BUYERS_SHARD_DESC_PRIMARY_PLURAL = Освободите похищенных ~COLOR_MP_OBJECTIVE_NEUTRAL~покупателей~s~
+
+FETCH_KIDNAPPED_BUYERS_SHARD_DESTROYED = Покупатель погиб
+
+FETCH_KIDNAPPED_BUYERS_SHARD_DESTROYED_PLURAL = Покупатели погибли.
+
+FETCH_KIDNAPPED_BUYERS_SHARD_PRIMARY_FAIL = Покупатель погиб
+
+FETCH_KIDNAPPED_BUYERS_SHARD_PRIMARY_FAIL_PLURAL = Покупатели погибли.
+
+FETCH_KIDNAPPED_BUYERS_SHARD_PRIMARY_PASS = Покупатель освобожден
+
+FETCH_KIDNAPPED_BUYERS_SHARD_PRIMARY_PASS_PARTIAL = Покупателей доставлено: ~1~/~2~.
+
+FETCH_KIDNAPPED_BUYERS_SHARD_PRIMARY_PASS_PLURAL = Покупатели освобождены
+
+FETCH_KIDNAPPED_BUYERS_STEAL_POSSE = Отбейте ~COLOR_MP_OBJECTIVE_NEUTRAL~покупателя~s~ у отряда ~COLOR_ENEMY~~1~~s~.
+
+FETCH_KIDNAPPED_BUYERS_STEAL_POSSE_PLURAL = Отбейте ~COLOR_MP_OBJECTIVE_NEUTRAL~покупателей~s~ у отряда ~COLOR_ENEMY~~1~~s~.
+
+FETCH_KIDNAPPED_BUYERS_TRAIN = Сядьте на поезд.
+
+FETCH_KIDNAPPED_BUYERS_UNLOCK_VEHICLE = Сбейте выстрелом замок с ~COLOR_MP_OBJECTIVE_NEUTRAL~повозки~s~.
+
+FETCH_KIDNAPPED_BUYERS_UNTIE = Освободите связанного ~COLOR_MP_OBJECTIVE_NEUTRAL~покупателя~s~.
+
+FETCH_KIDNAPPED_BUYERS_UNTIE_PLURAL = Освободите связанного ~COLOR_MP_OBJECTIVE_NEUTRAL~покупателя~s~.
+

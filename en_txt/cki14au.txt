@@ -1,0 +1,22 @@
+CKI14_ACTA1_1 = ~z~Hey you okay, Miss Karen?
+
+CKI14_ACTA1_2 = ~z~Dandy, how are you?
+
+CKI14_ACTA1_3 = ~z~Well... they haven't killed me yet, so...
+
+CKI14_ACTA1_4 = ~z~Who ain't?
+
+CKI14_ACTA1_5 = ~z~The boys around here...
+
+CKI14_ACTA2_1 = ~z~Tell him he's fine, Arthur.
+
+CKI14_ACTA2_2 = ~z~You ain't fine boy... watch yourself.
+
+CKI14_ACTA2_3 = ~z~Ignore Arthur, he's only teasing.
+
+CKI14_ACTB_1 = ~z~They act tough... they're good boys... mostly.
+
+CKI14_ACTB_2 = ~z~It's the mostly I'm scared about.
+
+CKI14_ACTB_3 = ~z~Well, don't be... you'll be fine, you're one of us now.
+

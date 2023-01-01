@@ -1,0 +1,22 @@
+CLEN6_ACTN_1 = ~z~~sl:0.0:0.9:1~Leonard!
+
+CLEN6_ACTN_2 = ~z~~sl:0.3~Hosea!
+
+CLEN6_ACTN_3 = ~z~Have any luck out there?
+
+CLEN6_ACTN_4 = ~z~Sure. A few bits and pieces.
+
+CLEN6_ACTN_5 = ~z~Robbed a drunk who wanted a fight.
+
+CLEN6_ACTN_6 = ~z~~sl:0.6:2.3:1~Arthur never said he'd been robbed.
+
+CLEN6_ACTN_7 = ~z~~sl:1.3~No, not Arthur! Also, a couple of morons threatened to lynch me...
+
+CLEN6_ACTN_8 = ~z~~sl:0.0:4.5:1~So... I ran away, came back and robbed them.
+
+CLEN6_ACTN_9 = ~z~~sl:1.3~Good lad.
+
+CLEN6_ACTN_10 = ~z~How about you?
+
+CLEN6_ACTN_11 = ~z~A few bits and pieces. Nothing that exciting... not yet at least.
+

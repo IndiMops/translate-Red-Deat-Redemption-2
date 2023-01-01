@@ -1,0 +1,16 @@
+CBL14_ACTION_1 = ~z~I don't wanna die. Now, you fools wanna die, acting all disruptive like this.
+
+CBL14_ACTION_2 = ~z~Now, this is Dutch's gang... Dutch's... and we follow him.
+
+CBL14_ACTION_3 = ~z~Sure, 'course it is... but...
+
+CBL14_ACTION_4 = ~z~But what?
+
+CBL14_ACTION_5 = ~z~But open your goddamn eyes, you fool! Open your eyes!
+
+CBL14_ACTION_6 = ~z~We'll die if we stay here.
+
+CBL14_ACTION_7 = ~z~You're the fool! A disloyal fool.
+
+CBL14_ACTION_8 = ~z~Hey... no one being disloyal here, boy.
+

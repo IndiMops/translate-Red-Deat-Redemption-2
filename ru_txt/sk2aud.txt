@@ -1,0 +1,8 @@
+SK2_CFT_ARTHUR_1 = ~z~You've been a busy boy.
+
+SK2_CFT_ARTHUR_2 = ~z~Who the hell are you?
+
+SK2_CFT_JOHN_1 = ~z~Ah, you sick son of a bitch.
+
+SK2_CFT_JOHN_2 = ~z~Who the hell are you?
+

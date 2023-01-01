@@ -1,0 +1,80 @@
+0x9EA9D788 = ~s~The widow wrote a letter expressing her inability to fend for herself. She mentions Arthur as an example of the thankless, ruthless nature of the people that roam the wilderness.~n~~n~She mentions missing her husband, and takes small comfort in that she'll at least join him soon.~s~
+
+0x13A53FD9 = The letter is written by a concerned mother, addressed to her son. In it, the woman shows great love for her offspring, but it appears this and other letters have been kept from the young man.
+
+0x6294DC6A = Sit at the ~o~table~s~
+
+0x70927F53 = Outlaw
+
+0xAABA125C = Insult
+
+0xABB2AE0A = Pick Up Body
+
+0xFF5D9C7E = Secret Stash Recovered
+
+HM_AB_BLIP_BRO = Stranger
+
+HM_AB_BLIP_SIS = Stranger
+
+HM_CONTEXT_DRINK = Drink
+
+HM_CONTEXT_LEAVE = Leave
+
+HM_CONTEXT_STASH = Stash Spot
+
+HM_CONTEXT_TASTE = Taste stew
+
+HM_CP_CTX_PUSH = Push
+
+HM_CP_OBJ_AMBUSH = Wait for ~o~Javier~s~ to cause a distraction
+
+HM_CP_OBJ_HELP_PUSH = Help ~o~Javier~s~ push
+
+HM_CP_OBJ_HIDE = Hide behind the ~o~rock~s~
+
+HM_CP_OBJ_KILLFAM = Deal with the ~e~enemies~s~
+
+HM_CP_OBJ_SEARCH_STASH = Search for the stash in the ~o~barn~s~
+
+HM_CP_OBJ_STAYCLOSE = Stay close to ~o~Javier~s~
+
+HM_OBJ_BINO_EQUIP = Equip your binoculars
+
+HM_OBJ_BINO_SCOUT = Scout the ~o~homestead~s~
+
+HM_OBJ_FOLLOW_JAVIER = Follow ~o~Javier~s~
+
+HM_OBJ_GOTO_JAVIER = Go to ~o~Javier~s~
+
+HM_OBJ_SEARCH_STASH = Search the ~o~house~s~ to recover your money
+
+HM_RS_BLIP_BOTTLE = Bottle
+
+HM_RS_BLIP_PREY = Rabbit
+
+HM_RS_O_ESCORT_HOME = Escort the ~o~widow~s~ home
+
+HM_RS_O_FOLLOW_HOME = Follow the ~o~widow~s~ home
+
+HM_RS_O_GO_HUNT = Lead the widow to the ~o~hunting area
+
+HM_RS_O_KILL_WOLVES = Kill the ~e~wolves~s~
+
+HM_RS_O_SEARCH_1 = Search the ~o~area~s~ for an animal
+
+HM_RS_O_SHOOT_PREY_1 = Shoot the ~e~rabbit~s~
+
+HM_RS_O_SHOOT_RAT = Shoot the ~e~rat~s~
+
+HM_RS_O_SHOOT_TARG = Shoot a ~e~single bottle~s~
+
+HM_RS_O_SHOOT_TARG_3 = Shoot three ~e~bottles~s~
+
+HM_RS_O_SIT_DINNER = Sit on the ~o~chair~s~ for dinner
+
+HM_RS_O_WAIT_SHOOT = Wait for the ~o~widow~s~ to shoot
+
+HM_RS_O_WIDOW_SKIN = Wait for the ~o~widow~s~ to skin the rabbit
+
+HM_VH_CTX_TAKE = Take Money
+

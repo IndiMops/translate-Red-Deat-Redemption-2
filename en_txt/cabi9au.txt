@@ -1,0 +1,42 @@
+CABI9_ACTA_1 = ~z~
+
+CABI9_ACTA_2 = ~z~You're in a good mood.
+
+CABI9_ACTA_3 = ~z~I'm just happy to have the boy back safe.
+
+CABI9_ACTA_4 = ~z~~sl:0.0:1.7~Ain't nobody ever gonna take him again.~sl:0.3~I swear.
+
+CABI9_ACTA_5 = ~z~~sl:0.0:1.1~So...~sl:1.0~I was thinking...
+
+CABI9_ACTA_6 = ~z~~sl:0.0:1.9~maybe it would be a little easier for me~sl:~to keep an eye on him if
+
+CABI9_ACTA_7 = ~z~we all stayed together.
+
+CABI9_ACTA_8 = ~z~~sl:0.0:0.9~You know,~sl:0.2~in my room.
+
+CABI9_ACTA_9 = ~z~You mean like a normal family?
+
+CABI9_ACTA_10 = ~z~~sl:1.0:1.4:1~Look around you,
+
+CABI9_ACTA_11 = ~z~ain't nothing normal about any of this.
+
+CABI9_ACTBF_1 = ~z~Take this feller for one.
+
+CABI9_ACTBF_2 = ~z~A man don't just change like the wind, Abigail.
+
+CABI9_ACTBF_3 = ~z~I thought you'd have known that by now.
+
+CABI9_ACTBF_4 = ~z~~sl:0.0:2.0~No Arthur, some folks change~sl:~and others is just too dumb.
+
+CABI9_ACTBF_5 = ~z~
+
+CABI9_ACTBL_1 = ~z~Take this feller for one.
+
+CABI9_ACTBL_2 = ~z~A man don't just change like the wind, Abigail.
+
+CABI9_ACTBL_3 = ~z~I thought you'd have known that by now.
+
+CABI9_ACTBL_4 = ~z~~sl:0.0:2.1~No Arthur, some folks change~sl:~and others is just too dumb.
+
+CABI9_ACTB_1 = ~z~You're right about that.
+

@@ -1,0 +1,226 @@
+0x0064852E = ~z~Go away.
+
+0x0349DFC1 = ~z~Excuse me.
+
+0x042DF4D9 = ~z~Hey! Get out of there, 'fore you get sick!
+
+0x06E700D7 = ~z~Ain't up to either of us, friend.
+
+0x0727F4F1 = ~z~I'd put some distance between you and here if I was you...
+
+0x07314E00 = ~z~Sure could use a little room there, friend.
+
+0x08BAEEB9 = ~z~You monster!
+
+0x08F42EDF = ~z~Take it easy. There's no law out here, who'd I tell?
+
+0x0A84EEF2 = ~z~Staring to see if I have symptoms? Don't bother, I'm healthy.
+
+0x0A30874F = ~z~Come on, that's enough.
+
+0x0B1A3B74 = ~z~Oh, even dead, Ferguson, you're still a pain in my ass.
+
+0x0D52A444 = ~z~Okay.
+
+0x0E8EA350 = ~z~Come on, show some respect!
+
+0x0F0596E5 = ~z~Jesus, you're unwell! I'm leaving!
+
+0x1E083813 = ~z~Oh, for shame.
+
+0x2B43737D = ~z~You see any lawmen in this town? Relax.
+
+0x2C0C6AB1 = ~z~It's the only way. They're dying so fast I can't keep up.
+
+0x2E536B58 = ~z~Sure, there's some money in it. Not sure it's worth it though.
+
+0x2E3763BD = ~z~I should have shot you.
+
+0x3A54BE90 = ~z~Good luck to you. You'll need it out here...
+
+0x3E4E9548 = ~z~Hey, you can't do that here.
+
+0x4B345F50 = ~z~Okay, you ain't right in the head. Leave me alone.
+
+0x4BB1ACA9 = ~z~Please, don't.
+
+0x4D9C6CAC = ~z~Open up those ears and hit the trail.
+
+0x4D232503 = ~z~I'm not taking this from you.
+
+0x4E4BDCAB = ~z~Ugh... Oh, damn, you been out in the sun too long...
+
+0x4E355D9A = ~z~Worse, I'd say. Armadillo'll be a ghost town before too long if this keeps up.
+
+0x4EC13AEB = ~z~Oh, hell. Don't do this.
+
+0x5B730859 = ~z~Alright, leave.
+
+0x5CA078DD = ~z~What's this? Mind backing up a little there?
+
+0x6FB7A5AE = ~z~Careful. You don't want to get on the wrong side of the undertaker.
+
+0x7B3D23EE = ~z~You leave us be, you hear?
+
+0x7DBADDD4 = ~z~Fine. You're not even here.
+
+0x7E5742ED = ~z~Oh, come on. You really come here to run your mouth?
+
+0x8A1168D2 = ~z~You have to get out of there! It ain't safe!
+
+0x8EDDE309 = ~z~Most of the town's either died... or up and left.
+
+0x8F206A9E = ~z~Alright. This is it, the last of it.
+
+0x8FD4A7A8 = ~z~You feeling alright? Well, hello again.
+
+0x9C8CD47E = ~z~
+
+0x9E1846F0 = ~z~I sure as hell don't need this.
+
+0x9FEE495A = ~z~
+
+0x10E89DDB = ~z~You can't be serious? Oh, God!
+
+0x12E4ACD6 = ~z~I bet you're behind this, outsider.
+
+0x13A42803 = ~z~Have you no shame? Leave the dead be!
+
+0x15FD3E55 = ~z~You ain't heard about the cholera plague in Armadillo?
+
+0x20B44875 = ~z~Are you responsible for this?
+
+0x38F477C5 = ~z~I don't like your tone. I think maybe you should move along now.
+
+0x53F18BC5 = ~z~
+
+0x56AC3A8E = ~z~What in the world?
+
+0x56DF5655 = ~z~Careful – some of us aren't sick just yet.
+
+0x57FB7401 = ~z~Heh. You'd think that...
+
+0x74D4A0A2 = ~z~Fine. Here.
+
+0x84E40C8C = ~z~Shit. You again? Look, I don't want no more trouble. Just do us both a favor and keep from me'n these bodies.
+
+0x103F79AC = ~z~Eyes open.
+
+0x386E63CA = ~z~Listen up and cut it the hell out.
+
+0x620C595E = ~z~Come on. Don't do it.
+
+0x741A9F2E = ~z~Here. I'll get it back from your damn grave.
+
+0x762F3CCF = ~z~Oh lord, my job was hard enough without you back here...
+
+0x907EEE3E = ~z~This ain't a joking matter, my friend.
+
+0x1351C40D = ~z~Really? Come on.
+
+0x5073CE58 = ~z~Damn it, leave the people here alone.
+
+0x8357AC8E = ~z~Listen, feller. If you're gonna kill me, kill me. If not, leave me the hell alone!
+
+0x36105DBF = ~z~I will step up to this, you can bet on it.
+
+0x81521EAD = ~z~You mind moving on now? You're unsettling me.
+
+0x665048E9 = ~z~
+
+0x1520700B = ~z~Come on, just tell me what you want.
+
+0x4158849B = ~z~Hey, I thought I told you last time, these bodies ain't safe. Stay back.
+
+0x9891187F = ~z~Look, I'm not a wealthy man.
+
+0x11461786 = ~z~Of course... but, the money I'm making, it's an occupational risk I'm prepared to take.
+
+0xA01CC114 = ~z~Hey, excuse me? Get out of the way.
+
+0xA2D3EB20 = ~z~Whoa... Not sure money's worth this...
+
+0xA3F99BCA = ~z~Why the hell did you do that?
+
+0xA5F9FD75 = ~z~You're just gonna watch, huh? Well. Your choice, I guess...
+
+0xA27C1E27 = ~z~Hey, careful now.
+
+0xA52C0527 = ~z~Hey, what do you think you're doing here?
+
+0xA86DEF63 = ~z~I gotta get help.
+
+0xA77236AF = ~z~Whoa! I wouldn't do that, I was you. Opening yourself up to all manner of sickness.
+
+0xA91992AA = ~z~Hey, stop that at once.
+
+0xAA8FAB08 = ~z~I'm not going to dig up old grievances. I take it you feel the same way.
+
+0xAB42BDE2 = ~z~Please, I don't have much as it is.
+
+0xABC6E24D = ~z~Ah, just leave me alone.
+
+0xAC78F19B = ~z~Whoa, whoa, what do you think you're doing?
+
+0xADC96DDD = ~z~Oh, Jesus. Leave me alone!
+
+0xAEEC1514 = ~z~Whoa. What's with the gun?
+
+0xB0E0629B = ~z~Hey, excuse me. Get out of the way.
+
+0xB2DF3995 = ~z~No, what did you do?
+
+0xB9FCA039 = ~z~What the hell is wrong with you?
+
+0xBEFCBE70 = ~z~You, stop what you're doing.
+
+0xBF9FD528 = ~z~Start acting right, and we can let bygones be bygones.
+
+0xC7F264E7 = ~z~You're kidding! Oh, God!
+
+0xC97B345D = ~z~You just gonna stare at me? Ain't gonna speak or nothing?
+
+0xC2105CD4 = ~z~You too. I wouldn't come back. This land is dead.
+
+0xCB84088C = ~z~Oh, I've swung at rougher folk than you.
+
+0xCBAD4E96 = ~z~Hey, hey. Don't point that at me.
+
+0xCD367055 = ~z~I'm not going to dig up old grievances. I take it you feel the same way.
+
+0xCDC69FF3 = ~z~Go torment someone else.
+
+0xCE035AF9 = ~z~Are you following me?
+
+0xD0813CAB = ~z~There's enough dead in this town without me shooting you too.
+
+0xD5C00536 = ~z~Okay, you gonna let this go? Cause I'm done.
+
+0xD6CFE9B1 = ~z~Oh, no, not you again! No! No, you stay away from me! Stay away from me!
+
+0xD8B80BBD = ~z~Oh, Lord, you're heavy...
+
+0xD368E1A0 = ~z~Hey, get out of here.
+
+0xDABB511F = ~z~I will use this, and I will bury you.
+
+0xDB0C3A7E = ~z~Go away, damn it.
+
+0xE3E80D9B = ~z~Damn it, stop. What the hell is this about?
+
+0xEA1E9D44 = ~z~Huh... not so sure that'll go over so easy, feller.
+
+0xEA5CFCD2 = ~z~Hey, whoa, keep your distance, friend. These bodies ain't safe to be around.
+
+0xF1AE8BF5 = ~z~Ho, sorry there – last thing you need in your condition.
+
+0xF6F30253 = ~z~Well that's a strange sense of humor you got.
+
+0xF31B36A9 = ~z~Really? You came back for what? To cause more trouble?
+
+0xF700D05E = ~z~You know what? I'm done with you.
+
+0xF3177A49 = ~z~
+
+0xF78897C9 = ~z~It's what the townfolk want. Trying to stop the spread. Terrible business, but lucrative, I have to say.
+

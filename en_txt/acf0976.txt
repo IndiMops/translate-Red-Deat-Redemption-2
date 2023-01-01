@@ -1,0 +1,38 @@
+976_AB_BCH_NEG_1 = ~z~What, you a friend of his or something?
+
+976_AB_BCH_POS_1 = ~z~Yeah, you know the kind I mean.
+
+976_A_1 = ~z~I picked up some labor there for a couple weeks.
+
+976_A_2 = ~z~If I need a reminder why I live the way I do, that was it.
+
+976_A_3 = ~z~The boss there's the worst kind of bastard. Treats everyone worse than the dirt they work on.
+
+976_A_4 = ~z~Don't care so long as he's getting richer.
+
+976_BC_BCH_NEG_1 = ~z~Okay, if you ain't interested, I'll be happy save my breath.
+
+976_BC_BCH_POS_1 = ~z~~sl:0.0:3.3~Rumor was he'd killed a feller there who fell in love with her.~sl:0.2~Kept her locked up for now.
+
+976_BC_BCH_POS_2 = ~z~Don't know what's true or not, only that nobody there seemed very happy.
+
+976_BC_BCH_POS_3 = ~z~No, this is the life for me.
+
+976_B_1 = ~z~I ain't answering to any man, least of all a man like that.
+
+976_B_2 = ~z~Strangest thing was I'd see this girl in the house sometimes, but she never came outside.
+
+976_B_3 = ~z~One of the workers told me the rancher was kind of obsessed with his daughter.
+
+976_EXIT_DAY_1 = ~z~Well, work won't do itself, I guess.
+
+976_INTRO_1 = ~z~Got all we need right here, don't we? Free as a bird. Say, you know Emerald Ranch?
+
+976_INTRO_NEG_1 = ~z~What of it?
+
+976_INTRO_NEG_J_1 = ~z~What of it?
+
+976_INTRO_POS_1 = ~z~Sure...
+
+976_INTRO_POS_J_1 = ~z~Sure...
+

@@ -1,0 +1,194 @@
+PIANO_BANDUP_1 = ~z~~sl:0.0:4.1~Well, you must be the one with the fine ear and the fine deep pockets.~sl:0.3~Nice to make your acquaintance.
+
+PIANO_BETWEEN_01 = ~z~Anyone in the mood for a show? C'mon!
+
+PIANO_BETWEEN_02 = ~z~Doesn't no one want a proper show? I'm here waiting...
+
+PIANO_BETWEEN_03 = ~z~C'mon, who wants to hear us play?
+
+PIANO_BETWEEN_04 = ~z~~sl:0.0:1.8~I could do this all day,~sl:~but it's much better with the whole crew.
+
+PIANO_DRUNK_01 = ~z~Well, damn. Booze must be good today.
+
+PIANO_DRUNK_02 = ~z~Oh boy, y'all having a time!
+
+PIANO_DRUNK_03 = ~z~Who's buying me a drink, huh?
+
+PIANO_GREET_01 = ~z~Good seeing ya.
+
+PIANO_GREET_02 = ~z~Well, howdy.
+
+PIANO_GREET_03 = ~z~Fine to see you.
+
+PIANO_GREET_04 = ~z~Well, look at you.
+
+PIANO_GREET_05 = ~z~Hey there, come for a song?
+
+PIANO_GREET_06 = ~z~Hello, hello.
+
+PIANO_GREET_07 = ~z~Howdy there.
+
+PIANO_GREET_08 = ~z~Hey there.
+
+PIANO_HIGHHON_01 = ~z~Word is, you're quite the hero.
+
+PIANO_HIGHHON_02 = ~z~~sl:0.0:3.5~My, it is rare to find anyone worth a damn these days.~sl:~Nice to see an exception.
+
+PIANO_HIGHHON_03 = ~z~~sl:0.0:2.3~Seems you've been putting us to shame.~sl:0.3~I ain't ready to live good as you yet.
+
+PIANO_HIGHHON_04 = ~z~~sl:0.0:2.3~I hear no end to your kindnesses.~sl:~You're just trying to impress us lowdowns, ain't you?
+
+PIANO_HIGHNUM_01 = ~z~Okay, alright, we got a crowd.
+
+PIANO_HIGHNUM_02 = ~z~Look at all these fine folk, here to have a good time.
+
+PIANO_HIGHNUM_03 = ~z~Yes, yes! This is what I like to see!
+
+PIANO_HIGHNUM_04 = ~z~Well, ain't I popular? Guess it's time for a show.
+
+PIANO_IDLENP_01 = ~z~~sl:0.0:4.4~You make no mistake. Them "player pianos" are hot swill garbage.~sl:0.2:1.5~Ain't no future in 'em.~sl:0.6~You need some blood slamming them ivories.
+
+PIANO_IDLENP_02 = ~z~~sl:0.0:2.9~Life out here's hard enough, too hard.~sl:0.5~Least we got music, right?
+
+PIANO_IDLENP_03 = ~z~~sl:0.0:1.3~You looking for a song?~sl:0.6:1.9~Good for whatever's ailing, I say.~sl:0.7~Except maybe a hangover.
+
+PIANO_IDLENP_04 = ~z~~sl:0.0:1.8~You look lonesome standing there.~sl:0.3~Nothing cheers me up like a good tune.
+
+PIANO_IDLEPIANO_01 = ~z~Ain't no reason to be so near to me.
+
+PIANO_IDLEPIANO_02 = ~z~No need to crowd me.
+
+PIANO_IDLEPIANO_03 = ~z~Make some space why don't you?
+
+PIANO_IDLEPIANO_04 = ~z~What you after? You're real close.
+
+PIANO_IDLEP_01 = ~z~We're good, huh?
+
+PIANO_IDLEP_02 = ~z~Like what you hear?
+
+PIANO_IDLEP_03 = ~z~~sl:0.3~You gonna dance, or what?
+
+PIANO_IDLEP_04 = ~z~C'mon, relax, live a little!
+
+PIANO_INSTFINM_01 = ~z~We got us a whole new band, huh?
+
+PIANO_INSTFINM_02 = ~z~Didn't expect y'all to have chops, if I'm honest.
+
+PIANO_INSTFINM_03 = ~z~You a band already? Shit.
+
+PIANO_INSTFINM_04 = ~z~Well, damn. Y'all gonna put us outta work.
+
+PIANO_INSTFINS_01 = ~z~~sl:0.7~Nice playing with you.
+
+PIANO_INSTFINS_02 = ~z~That was fun. Thinking about a new career?
+
+PIANO_INSTFINS_03 = ~z~Well, shoot. Didn't think you could play.
+
+PIANO_INSTFINS_04 = ~z~Alright! You might have something.
+
+PIANO_INSTRUMNT_01 = ~z~Well hot damn. Give it your best!
+
+PIANO_INSTRUMNT_02 = ~z~~sl:1.4~Sure, give it a go.
+
+PIANO_INSTRUMNT_03 = ~z~Oh, well! Gonna show us up?
+
+PIANO_INSTRUMNT_04 = ~z~Oh, you a musician?
+
+PIANO_INSTSWAP_01 = ~z~Ain't for you, eh?
+
+PIANO_INSTSWAP_02 = ~z~Takes a lifetime to learn that one.
+
+PIANO_INSTSWAP_03 = ~z~Maybe something else is more your speed.
+
+PIANO_INSTSWAP_04 = ~z~Don't worry, you ain't getting paid for it.
+
+PIANO_INTRO_01 = ~z~Okay, hope y'all like this one. We sure do!
+
+PIANO_INTRO_02 = ~z~Maybe some of y'all know how this one goes...
+
+PIANO_INTRO_03 = ~z~Okay boys, just like always...
+
+PIANO_INTRO_04 = ~z~Alright, fellers, give 'em what they paid for.
+
+PIANO_LOWHON_01 = ~z~~sl:0.0:4.5~From the bartalk, sounds like you may been having too much fun.
+
+PIANO_LOWHON_02 = ~z~~sl:0.0:1.6~I hear the stories...~sl:~should I watch my purse strings 'round you?
+
+PIANO_LOWHON_03 = ~z~Ooh, you're trouble, ain't you? Or are the rumors wrong?
+
+PIANO_LOWHON_04 = ~z~Well, look at the bad news! You got quite the reputation.
+
+PIANO_LOWNUM_01 = ~z~There a funeral or something? Where is everyone?
+
+PIANO_LOWNUM_02 = ~z~Ain't many folk around here, not near enough for a party.
+
+PIANO_LOWNUM_03 = ~z~~sl:0.8~It is dead. Where is everyone?
+
+PIANO_LOWNUM_04 = ~z~Not so much fun playing if there's no one to enjoy it.
+
+PIANO_MEDNUM_01 = ~z~Got a crowd here, or near one.
+
+PIANO_MEDNUM_02 = ~z~Nice little turnout. Alright.
+
+PIANO_MEDNUM_03 = ~z~Hope these folk're looking for some music.
+
+PIANO_MEDNUM_04 = ~z~I like it busy, y'know? But this'll do.
+
+PIANO_OUTROSET_01 = ~z~~sl:0.9~That's it, folks! Thank you, thank you.
+
+PIANO_OUTROSET_02 = ~z~Hope you liked it! Thank you for the time, ladies and gents.
+
+PIANO_OUTROSET_03 = ~z~~sl:0.0:1.3~Alright!~sl:0.2~Anyone who liked it, I am always willing to take a drink as a tip.
+
+PIANO_OUTROSET_04 = ~z~Yes! I hope y'all had a good time. We sure did.
+
+PIANO_OUTRO_01 = ~z~~sl:0.9:1.1~Alright!
+
+PIANO_OUTRO_02 = ~z~Yeah! Okay, good!
+
+PIANO_OUTRO_03 = ~z~~sl:1.0~One of my favorites!
+
+PIANO_OUTRO_04 = ~z~Mhm, yes!
+
+PIANO_PAYBAND_01 = ~z~We got ourselves a music lover!
+
+PIANO_PAYBAND_02 = ~z~Look alive, fellers. Got us a customer.
+
+PIANO_PAYBAND_03 = ~z~Well, thank you. Time for a show!
+
+PIANO_PLYWASTED_01 = ~z~~sl:0.0:3.2~Well, look at you! Fun drunk, or sad drunk?~sl:0.3~Or angry drunk?
+
+PIANO_PLYWASTED_02 = ~z~~sl:0.0:1.9~How many of me you looking at there?~sl:0.4~I think maybe it's time you got some beans in you.
+
+PIANO_PLYWASTED_03 = ~z~~sl:0.0:1.6~Shit, look at you there.~sl:~Stumbling sideways up and down. Go on, sit a minute.
+
+PIANO_PLYWASTED_04 = ~z~~sl:0.0:3.2~You been thirsty, huh? Maybe time for some music...~sl:0.6~or maybe a bed.
+
+PIANO_RAMBLE_01 = ~z~~sl:1.1~What I'd give to soak these fingers in some milk.
+
+PIANO_RAMBLE_02 = ~z~~sl:3.2:2.5~Faraway songs, I hear...~sl:3.1:2.9~o'er the skies, so clear...~sl:~Nah... nah, that's shit.
+
+PIANO_RAMBLE_03 = ~z~~sl:0.9~Well, ain't no city opera...
+
+PIANO_RAMBLE_04 = ~z~When's this party gonna start, anyway? I wanna drink...
+
+PIANO_RAMBLE_05 = ~z~Dratted thing's outta tune...
+
+PIANO_RAMBLE_06 = ~z~Swear I'd wring a neck for a cup of coffee'n a cigarette...
+
+PIANO_REQUEST_01 = ~z~~sl:0.0:1.7~Found your tune, huh?~sl:0.6~Well, sure.
+
+PIANO_REQUEST_02 = ~z~An encore? Well, sure. If you insist.
+
+PIANO_REQUEST_03 = ~z~Again? Oh, we musta sounded good.
+
+PIANO_REQUEST_04 = ~z~Huh. Don't see why not. Another round!
+
+PIANO_WASTED_01 = ~z~~sl:0.0:1.8~Y'all better not get grabby.~sl:0.5~I don't like shooting my audience.
+
+PIANO_WASTED_02 = ~z~Jesus. Look at you fools.
+
+PIANO_WASTED_03 = ~z~Well, ain't this a mess?
+
+PIANO_WASTED_04 = ~z~So y'all decided one too many weren't near enough.
+

@@ -1,0 +1,18 @@
+CHSI1_ACTION_1 = ~z~What you making there, old man?
+
+CHSI1_ACTION_2 = ~z~A little medicine.
+
+CHSI1_ACTION_3 = ~z~Real medicine or snake oil?
+
+CHSI1_ACTION_4 = ~z~Just who do you think you're speaking to?
+
+CHSI1_ACTION_5 = ~z~Oh, I'm sorry.
+
+CHSI1_ACTION_6 = ~z~If you find any ginseng... I'll make some for you.
+
+CHSI1_ACTION_7 = ~z~It's easy enough... it'll keep you well... even with my illness, it's kept me alive far too long.
+
+CHSI1_ACTION_8 = ~z~Oh, you'll outlive us all.
+
+CHSI1_ACTION_9 = ~z~Maybe... maybe.
+

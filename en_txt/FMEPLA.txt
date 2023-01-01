@@ -1,0 +1,272 @@
+0x00E71124 = Work together and release the Legendary Owiza Bear
+
+0x017EADD4 = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Ozula Elk~s~ to its ~COLOR_MP_OBJECTIVE~destination~s~
+
+0x01EB7994 = The ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Maza Cougar~s~ is traveling to its next destination
+
+0x07DD388B = The Legendary Teca Gator was killed
+
+0x0CA1883A = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Ridgeback Spirit Bear~s~ to its ~COLOR_MP_OBJECTIVE~destination~s~
+
+0x1BD3FB94 = The ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Ozula Elk~s~ is traveling to its next destination
+
+0x1C124FF3 = Legendary Teca Gator
+
+0x1C819967 = Work together and release the Legendary Ozula Elk
+
+0x1FF43212 = Legendary Onyx Wolf freed
+
+0x2C57707D = Legendary Sun Gator
+
+0x2CB1CCB4 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Iguga Cougar~s~ from the remaining ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0x2E878F16 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Teca Gator~s~ from the ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0x3AAADA26 = The ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Emerald Wolf~s~ is traveling to its next destination
+
+0x3EDE5CB7 = The Legendary Ozula Elk was not released safely
+
+0x3F8E8586 = The Legendary Iguga Cougar was not released safely
+
+0x3FA48E9E = Work together and release the Legendary Ridgeback Spirit Bear
+
+0x4E110D9C = Legendary Ozula Elk
+
+0x5A7E9009 = Legendary Onyx Wolf
+
+0x5B87AA63 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Maza Cougar~s~ from the remaining ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0x5C3E7776 = Work together and release the Legendary Maza Cougar
+
+0x6CE498C2 = Work together and release the Legendary Iguga Cougar
+
+0x6F0CB3FD = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Sun Gator~s~ from the remaining ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0x6F487074 = Legendary Teca Gator freed
+
+0x7A163C7A = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Ridgeback Spirit Bear~s~ from the remaining ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0x7AF018A3 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Owiza Bear~s~ from the ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0x7D878CF2 = Legendary Sun Gator freed
+
+0x7EB67B61 = Legendary Maza Cougar
+
+0x7ECE286D = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Katata Elk~s~ to its ~COLOR_MP_OBJECTIVE~destination~s~
+
+0x8A2422C0 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Katata Elk~s~ from the remaining ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0x8ABCD9A2 = Free the Legendary Maza Cougar from the ~COLOR_MP_OBJECTIVE~cage~s~
+
+0x8AF537D0 = Legendary Katata Elk freed
+
+0x8CB0F8A7 = The Legendary Sun Gator was released
+
+0x8CB853B9 = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Onyx Wolf~s~ to its ~COLOR_MP_OBJECTIVE~destination~s~
+
+0x8DAF766A = Legendary Emerald Wolf
+
+0x8DDC0A98 = Do not get too close to the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Ozula Elk~s~ ~1b~ to avoid it attacking you.
+
+0x9C140F28 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Maza Cougar~s~ from the ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0x9E65F714 = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Emerald Wolf~s~ to its ~COLOR_MP_OBJECTIVE~destination~s~
+
+0x9FBB7328 = The Legendary Onyx Wolf was not released safely
+
+0x14DA2349 = The Legendary Emerald Wolf was released
+
+0x15DA2521 = The Legendary Onyx Wolf was released
+
+0x16A20FFF = The Legendary Ridgeback Spirit Bear is almost dead
+
+0x16FBE237 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Onyx Wolf~s~ from the remaining ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0x20CD1178 = Free the Legendary Emerald Wolf from the ~COLOR_MP_OBJECTIVE~cage~s~
+
+0x27A44D3E = Legendary Iguga Cougar
+
+0x31C10C56 = The Legendary Sun Gator was killed
+
+0x32DBB595 = Free the Legendary Onyx Wolf from the ~COLOR_MP_OBJECTIVE~cage~s~
+
+0x39B9DEBA = The Legendary Ozula Elk is almost dead
+
+0x41BB3D3C = The Legendary Owiza Bear was released
+
+0x44D4100D = The Legendary Maza Cougar was not released safely
+
+0x53BCF548 = The Legendary Owiza Bear was killed
+
+0x55B4EF93 = Free the Legendary Iguga Cougar from the ~COLOR_MP_OBJECTIVE~cage~s~
+
+0x61C77240 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Katata Elk~s~ from the ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0x75C5563C = The Legendary Onyx Wolf was killed
+
+0x75D43DCC = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Onyx Wolf~s~ from the ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0x83C8F243 = The Legendary Emerald Wolf was killed
+
+0x90DB4DF8 = Legendary Ridgeback Spirit Bear
+
+0x98A0D327 = Legendary Ozula Elk freed
+
+0x245AAB70 = The Legendary Owiza Bear is almost dead
+
+0x587F98D3 = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Sun Gator~s~ to its ~COLOR_MP_OBJECTIVE~destination~s~
+
+0x709CDD37 = Work together and release the Legendary Emerald Wolf
+
+0x833AB87B = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Sun Gator~s~ from the ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0x3238C4D5 = Work together and release the Legendary Katata Elk
+
+0x3417E099 = Legendary Ridgeback Spirit Bear freed
+
+0x3826EB1A = Free the Legendary Teca Gator from the ~COLOR_MP_OBJECTIVE~cage~s~
+
+0x3839E1EA = Legendary Katata Elk
+
+0x3871C04C = The Legendary Maza Cougar was killed
+
+0x4417F376 = The Legendary Katata Elk is almost dead
+
+0x6628DD62 = Legendary Iguga Cougar freed
+
+0x7279C439 = The Legendary Teca Gator was released
+
+0x32379E31 = The Legendary Ridgeback Spirit Bear was released
+
+0x59577DD1 = Free the Legendary Ozula Elk from the ~COLOR_MP_OBJECTIVE~cage~s~
+
+0x78719F94 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Ozula Elk~s~ from the ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0x97159F88 = The Legendary Maza Cougar was released
+
+0x220011CF = The Legendary Ridgeback Spirit Bear was killed
+
+0x266176D3 = The Legendary Iguga Cougar is almost dead
+
+0x575120CB = Legendary Emerald Wolf freed
+
+0x888115BE = Do not get too close to the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Iguga Cougar~s~ ~1b~ to avoid it attacking you.
+
+0x22789712 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Emerald Wolf~s~ from the ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0x27219966 = Free the Legendary Katata Elk from the ~COLOR_MP_OBJECTIVE~cage~s~
+
+0x65132920 = The Legendary Katata Elk was not released safely
+
+0x96880605 = The ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Teca Gator~s~ is traveling to its next destination
+
+0xA4EC3B35 = The Legendary Iguga Cougar was released
+
+0xA13AA5B0 = Do not get too close to the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Emerald Wolf~s~ ~1b~ to avoid it attacking you.
+
+0xA41CA12A = The ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Sun Gator~s~ is traveling to its next destination
+
+0xA67E00AD = The Legendary Emerald Wolf was not released safely
+
+0xA497452B = Work together and release the Legendary Onyx Wolf
+
+0xA9427547 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Ridgeback Spirit Bear~s~ from the ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0xB0DA5094 = Do not get too close to the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Katata Elk~s~ ~1b~ to avoid it attacking you.
+
+0xB4032E88 = Legendary Ridgeback Spirit Bear was not released safely
+
+0xB66813A2 = Work together and release the Legendary Teca Gator
+
+0xB5657942 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Ozula Elk~s~ from the remaining ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0xBAEDA21C = Legendary Owiza Bear
+
+0xBC3C4E5B = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Teca Gator~s~ from the remaining ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0xBCAD505A = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Iguga Cougar~s~ from the ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0xBCECC944 = The Legendary Iguga Cougar was killed
+
+0xC1DDCA3D = The Legendary Owiza Bear was not released safely
+
+0xC2C7E52B = Do not get too close to the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Sun Gator~s~ ~1b~ to avoid it attacking you.
+
+0xC4D43DE5 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Emerald Wolf~s~ from the remaining ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0xC5B983DE = Legendary Owiza Bear freed
+
+0xC6D27577 = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Teca Gator~s~ to its ~COLOR_MP_OBJECTIVE~destination~s~
+
+0xC10A54DF = The Legendary Katata Elk was released
+
+0xC41D3093 = The ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Ridgeback Spirit Bear~s~ is traveling to its next destination
+
+0xCCDD147C = Free the Legendary Sun Gator from the ~COLOR_MP_OBJECTIVE~cage~s~
+
+0xCE9F9427 = Free the Legendary Owiza Bear from the ~COLOR_MP_OBJECTIVE~cage~s~
+
+0xD0F8818C = Do not get too close to the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Teca Gator~s~ ~1b~ to avoid it attacking you.
+
+0xD2B05CD0 = The Legendary Teca Gator was not released safely
+
+0xD3BA9D33 = The ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Iguga Cougar~s~ is traveling to its next destination
+
+0xD3F042A4 = Do not get too close to the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Owiza Bear~s~ ~1b~ to avoid it attacking you.
+
+0xD34C7963 = The Legendary Ozula Elk was released
+
+0xDA5F5D17 = The ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Owiza Bear~s~ is traveling to its next destination
+
+0xDCED714A = The Legendary Sun Gator was not released safely
+
+0xDD3A29A9 = The Legendary Onyx Wolf is almost dead
+
+0xE0A0E3AC = The Legendary Ozula Elk was killed
+
+0xE9A0B67B = Do not get too close to the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Onyx Wolf~s~ ~1b~ to avoid it attacking you.
+
+0xE24ED5AC = Legendary Maza Cougar freed
+
+0xE98A8F93 = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Maza Cougar~s~ to its ~COLOR_MP_OBJECTIVE~destination~s~
+
+0xE226BB35 = Free the Legendary Ridgeback Spirit Bear from the ~COLOR_MP_OBJECTIVE~cage~s~
+
+0xE511CEDE = Do not get too close to the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Maza Cougar~s~ ~1b~ to avoid it attacking you.
+
+0xE695E7EF = Do not get too close to the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Ridgeback Spirit Bear~s~ ~1b~ to avoid it attacking you.
+
+0xE8330DC5 = The Legendary Teca Gator is almost dead
+
+0xEA84443D = The Legendary Emerald Wolf is almost dead
+
+0xED88BFE3 = The ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Onyx Wolf~s~ is traveling to its next destination
+
+0xEDBB1F63 = The ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Katata Elk~s~ is traveling to its next destination
+
+0xF5BF9590 = The Legendary Maza Cougar is almost dead
+
+0xF5F4A948 = The Legendary Sun Gator is almost dead
+
+0xF8FC3AB0 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Owiza Bear~s~ from the remaining ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~
+
+0xF7502B1E = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Iguga Cougar~s~ to its ~COLOR_MP_OBJECTIVE~destination~s~
+
+0xF970954B = The Legendary Katata Elk was killed
+
+0xFB269D2A = Work together and release the Legendary Sun Gator
+
+0xFE4AEB8D = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~Legendary Owiza Bear~s~ to its ~COLOR_MP_OBJECTIVE~destination~s~
+
+FME_PLA_BLIP_OBJ_POACHER_CAMP = Poacher Camp
+
+FME_PLA_BLIP_POACHER = Poacher
+
+FME_PLA_DESC = Cooperate with ~COLOR_MP_OBJECTIVE_FRIENDLY~other players~s~ to free and escort the Legendary Animal to safety. A successful release will earn everyone a sample.
+
+FME_PLA_DESC_SECONDARY = You only have 1 life and will not respawn if you are killed.
+
+FME_PLA_FAIL_EVERYONE_DEAD = Everyone died
+
+FME_PLA_GO_TO_POACHERS_OBJECTIVE = Go to the ~COLOR_MP_OBJECTIVE~Poacher Camp~s~
+

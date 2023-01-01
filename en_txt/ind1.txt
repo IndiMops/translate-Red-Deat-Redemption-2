@@ -1,0 +1,116 @@
+0x6CD26022 = You failed to enter the coach.
+
+0x6FBC2E68 = Ladies
+
+0x85E0CF10 = Return to the ~o~coach~s~
+
+0x91C531A6 = You attacked a guard at the gala.
+
+0x728BFEDA = Remain in the ~o~Coach~s~
+
+0x888C1CF1 = Coach
+
+0x60794EE6 = Enter the coach
+
+0x5650925B = Enter the ~o~Coach~s~
+
+0x33038222 = Theater Goers
+
+0xBB781684 = Hosea
+
+0xBE062E2D = The coach was abandoned.
+
+0xBFF7DC25 = Approach the ~o~Coach~s~
+
+0xC7781E17 = Speak to the ~o~Mayor~s~
+
+0xD43CB171 = Band
+
+0xD2311424 = You injured a guest at the gala.
+
+0xDFFE37CA = The coach has been damaged.
+
+0xEF7D77E0 = Take champagne
+
+IND1_BLIP_DSK = Desk
+
+IND1_BLIP_ESRT = Escort
+
+IND1_BLIP_MNST = Servant
+
+IND1_BLIP_MYR = Mayor
+
+IND1_F_ATTCK = You attacked the servant.
+
+IND1_F_ATTDT = The gala security has been alerted.
+
+IND1_F_DCH = Dutch was abandoned.
+
+IND1_F_DRUNK = The drunk was taken into the gala.
+
+IND1_F_ESAB = The escort was abandoned.
+
+IND1_F_GALA = The Mayor's Gala was abandoned.
+
+IND1_F_GLGR = Arthur failed to leave the mansion in a timely manner.
+
+IND1_F_LAW = The law were alerted.
+
+IND1_F_LOST = You lost the servant.
+
+IND1_F_SPOT = You were caught by the servant.
+
+IND1_F_SPOT2 = You were spotted inside the mansion.
+
+IND1_F_VIP = You injured a guest at the gala.
+
+IND1_GREET = Greet
+
+IND1_HINT_FLW = The servant will notice you if you get too close.
+
+IND1_HINT_LV = Get out of sight of the servant so that he continues with his duties.
+
+IND1_HINT_MANS = Stay back from the servant to make sure you are not spotted.
+
+IND1_ILO_COMP = Compliment
+
+IND1_ILO_HOS = Greet
+
+IND1_OBJ_DRAGDRK = Drag the drunk ~o~away~s~ from the Mayor
+
+IND1_OBJ_EXTMNS = Return to ~o~Dutch~s~ at the gala
+
+IND1_OBJ_FLWDCH = Follow ~o~Dutch~s~
+
+IND1_OBJ_FLWESCORT = Follow the ~o~Escort~s~
+
+IND1_OBJ_FLWSRVT1 = Follow the ~o~servant~s~ and remain undetected
+
+IND1_OBJ_INVGLA = Mingle with the guests in the ~o~courtyard~s~
+
+IND1_OBJ_RETDCH = Return to ~o~Dutch~s~
+
+IND1_OBJ_RTMAYOR = Return to the ~o~Mayor~s~
+
+IND1_OBJ_SEARCH = Retrieve the ledger from the ~o~desk~s~
+
+IND1_USE_ACCEPT = Accept
+
+IND1_USE_CHAMP = Offer champagne
+
+IND1_USE_CMPHDPC = Compliment Headpiece
+
+IND1_USE_DECLINE = Decline
+
+IND1_USE_HELPCHK = Help
+
+IND1_USE_INCOG = Eavesdrop
+
+IND1_USE_INSPECT = Inspect
+
+IND1_USE_LEDGER = Ledger
+
+IND1_W_ESCORT = Return to the ~o~Escort~s~
+
+IND1_W_GALA = Return to the ~o~Mayor's Gala~s~
+

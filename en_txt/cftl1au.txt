@@ -1,0 +1,20 @@
+CFTL1_ACT_1 = ~z~How you gentlemen keeping?
+
+CFTL1_ACT_2 = ~z~Sorry for interrupting but... I can't stand much longer over there.
+
+CFTL1_ACT_3 = ~z~I mean... I love the girls, but my Lord they complain a lot.
+
+CFTL1_ACT_4 = ~z~I mean, I've known worse than this. I was born into worse than this.
+
+CFTL1_ACT_5 = ~z~Most of us grew up hungry and scared and alone, one way or another.
+
+CFTL1_ACT_6 = ~z~And here, we've usually got food and we usually ain't scared. I mean, sometimes.
+
+CFTL1_ACT_7 = ~z~And we ain't never alone. Not here. Quite the opposite.
+
+CFTL1_ACT_8 = ~z~So I'm done with the whining...
+
+CFTL1_ACT_9 = ~z~I know we had a scene in the mountains, but we're over that.
+
+CFTL1_ACT_10 = ~z~It's time to cheer up, all of you.
+

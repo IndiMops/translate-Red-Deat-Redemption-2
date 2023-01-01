@@ -1,0 +1,576 @@
+MAR4_ABE_1 = ~z~Hell, Jim. You can shoot.
+
+MAR4_ABE_2 = ~z~I ain't got time to look after you, kid.
+
+MAR4_ABE_3 = ~z~I'm okay.
+
+MAR4_ADDR_1 = ~z~I'm here for our cattle. And to teach some manners to all of you.
+
+MAR4_ADDR_2 = ~z~~sl:1.4~You seen how many men we got? As many as money can buy.
+
+MAR4_ADDR_3 = ~z~Now, get outta here, hayseed. Before you get a hole in your head.
+
+MAR4_ADDR_4 = ~z~Just shoot him!
+
+MAR4_AD_BANT_1 = ~z~Look at him go.
+
+MAR4_AD_BANT_2 = ~z~I gotta hope we were right about him.
+
+MAR4_AD_BANT_3 = ~z~Oh, I think so.
+
+MAR4_APPRCH_1 = ~z~~sl:0.0:2.2~Hey! Hey!~sl:0.9~You boys been coming up to Pronghorn, I thought I'd come down here.
+
+MAR4_APPRCH_2 = ~z~You're all so tough, come have a word with me.
+
+MAR4_ATTST3_1 = ~z~Get the cattle outta here!
+
+MAR4_ATTST3_2 = ~z~Take 'em back to Hanging Dog!
+
+MAR4_A_BARN_01 = ~z~Goddamn, they're in the barn.
+
+MAR4_A_BARN_02 = ~z~Hey, look, they're in the barn.
+
+MAR4_A_FENCE_01 = ~z~They're down by the fence there.
+
+MAR4_A_FENCE_02 = ~z~Out by the perimeter, more of them.
+
+MAR4_A_GATE_01 = ~z~Look out, over by the gate.
+
+MAR4_A_GATE_02 = ~z~Hey, check the gate. They're coming.
+
+MAR4_A_KILL_01 = ~z~Where the hell did you learn that?
+
+MAR4_A_KILL_02 = ~z~That's a bad business, Jim.
+
+MAR4_BARN_01 = ~z~Hey! Hey! I know you're in here.
+
+MAR4_BARN_02 = ~z~You're the feller that said something about my wife.
+
+MAR4_BARN_03 = ~z~You ain't so talky now, are you?
+
+MAR4_BARN_04 = ~z~Where are you, big feller?
+
+MAR4_DEAD_1 = ~z~That's the feller who shot my feet up.
+
+MAR4_DEAD_2 = ~z~I got this. You boys take the cattle.
+
+MAR4_DEAD_3 = ~z~See you back there, son.
+
+MAR4_DINJURE_01 = ~z~
+
+MAR4_DINJURE_02 = ~z~Crap.
+
+MAR4_DINJURE_03 = ~z~~sl:0.5~I-I lost my wind.
+
+MAR4_DINJURE_04 = ~z~Jim...
+
+MAR4_DINJURE_05 = ~z~I'll be up in a moment.
+
+MAR4_DRIVEBY2_01 = ~z~Working here's a dangerous business!
+
+MAR4_DRIVEBY2_02 = ~z~Heya! Heya!
+
+MAR4_DRIVEBY2_03 = ~z~Look at it go!
+
+MAR4_DRIVEBY2_04 = ~z~Dumb bastards!
+
+MAR4_DRIVEBY_01 = ~z~How much it worth now, Geddes?
+
+MAR4_DRIVEBY_02 = ~z~
+
+MAR4_DRIVEBY_03 = ~z~
+
+MAR4_DRIVEBY_04 = ~z~Burn what you can!
+
+MAR4_D_BARN_01 = ~z~They're holed up in the barn. We gotta move on them in there.
+
+MAR4_D_BARN_02 = ~z~If we take that barn, this might be over.
+
+MAR4_D_MORE_01 = ~z~More of them.
+
+MAR4_D_MORE_02 = ~z~More men on the way.
+
+MAR4_D_MORE_03 = ~z~Here they come.
+
+MAR4_D_MORE_04 = ~z~They just don't quit.
+
+MAR4_D_SHOOT_01 = ~z~Come on, let's go.
+
+MAR4_D_SHOOT_02 = ~z~We're really doing this.
+
+MAR4_D_SHOOT_03 = ~z~Damn this all!
+
+MAR4_D_SHOOT_04 = ~z~We didn't have a choice boys.
+
+MAR4_D_SHOOT_05 = ~z~May God forgive us for this.
+
+MAR4_D_SHOOT_06 = ~z~Bad, bad business.
+
+MAR4_EXT_1 = ~z~Hey, you're back.
+
+MAR4_EXT_2 = ~z~You did real well, Mr. Milton.
+
+MAR4_EXT_3 = ~z~This man can really fight.
+
+MAR4_EXT_4 = ~z~Saved the whole place.
+
+MAR4_EXT_5 = ~z~Ah...
+
+MAR4_EXT_6 = ~z~that weren't nothing.
+
+MAR4_EXT_7 = ~z~Well...
+
+MAR4_EXT_8 = ~z~You...
+
+MAR4_EXT_9 = ~z~You...
+
+MAR4_EXT_10 = ~z~You saved my...
+
+MAR4_EXT_11 = ~z~No need to say nothing, sir.
+
+MAR4_EXT_12 = ~z~Just doing my job.
+
+MAR4_EXT_13 = ~z~Now, I don't think they'll be back tonight, but...
+
+MAR4_EXT_14 = ~z~how about, Abe, just in case, you stay up.
+
+MAR4_EXT_15 = ~z~Yep.
+
+MAR4_EXT_16 = ~z~See anything or hear anything...
+
+MAR4_EXT_17 = ~z~you fire that rifle three times.
+
+MAR4_EXT_18 = ~z~Three times.
+
+MAR4_EXT_19 = ~z~We'll all come running.
+
+MAR4_EXT_20 = ~z~Will do.
+
+MAR4_EXT_21 = ~z~Well said, and thank you, Mr. Milton.
+
+MAR4_EXT_22 = ~z~Truly.
+
+MAR4_EXT_23 = ~z~Just glad to be of service, sir.
+
+MAR4_EXT_24 = ~z~I understand.
+
+MAR4_EXT_25 = ~z~You get some rest.
+
+MAR4_EXT_26 = ~z~Thank you, Mr. Geddes.
+
+MAR4_EXT_27 = ~z~What?
+
+MAR4_EXT_28 = ~z~What?
+
+MAR4_EXT_29 = ~z~What choice did I have?
+
+MAR4_EXT_30 = ~z~Just answer me that.
+
+MAR4_EXT_31 = ~z~What was I supposed to do?
+
+MAR4_EXT_LI_1 = ~z~Hey, you're back.
+
+MAR4_EXT_LI_2 = ~z~You did real well, Mr. Milton.
+
+MAR4_EXT_LI_3 = ~z~This man can really fight... saved the whole place.
+
+MAR4_GETCAT2_01 = ~z~Heifers gone? Alright, let's go!
+
+MAR4_GETCAT2_02 = ~z~We can deal with the hands later. Get after that cattle.
+
+MAR4_GIDDYUP_1 = ~z~Heya! Heya! Ride!
+
+MAR4_HARD_1 = ~z~I tried being reasonable.
+
+MAR4_HARD_2 = ~z~Guess we're shooting then.
+
+MAR4_IG1_A_1 = ~z~So, Tom Dickens... my boss gave me a message for your boss...
+
+MAR4_IG1_A_2 = ~z~~sl:0.0:5.9~it's over, this rich man's folly, you boys are over, the cattle are ours...~sl:~and soon enough the ranch'll be ours.
+
+MAR4_IG1_A_3 = ~z~~sl:0.0:2.2~Now, nobody's gotta get hurt.~sl:0.5~But we'll be more than happy to hurt any of you that wants it!
+
+MAR4_IG1_A_4 = ~z~~sl:0.0:1.0:1~You got that, boy?
+
+MAR4_IG1_A_5 = ~z~S-sure... I got it...
+
+MAR4_IG1_BALT_1 = ~z~Who's this?
+
+MAR4_IG1_BALT_2 = ~z~New hand...
+
+MAR4_IG1_BALT_3 = ~z~
+
+MAR4_IG1_BALT_4 = ~z~
+
+MAR4_IG1_BALT_5 = ~z~Oh, you're that tough guy they just took on? I heard about you.
+
+MAR4_IG1_B_1 = ~z~Who's this?
+
+MAR4_IG1_B_2 = ~z~New hand...
+
+MAR4_IG1_B_3 = ~z~
+
+MAR4_IG1_B_4 = ~z~
+
+MAR4_IG1_B_5 = ~z~Oh, you're that tough guy they just took on? I heard about you.
+
+MAR4_IG1_C_1 = ~z~Do yourself a favour. Find another job.
+
+MAR4_IG1_C_2 = ~z~~sl:0.0:1.8~This place is shutting down.~sl:0.2~Mr. Abel's gonna run things 'round here now.
+
+MAR4_IG1_E_1 = ~z~~sl:0.0:1.3~Well come on then, mister...~sl:0.2~I'll soon wipe that tough guy smirk off your ugly face.
+
+MAR4_IG1_F_1 = ~z~~sl:0.0:2.2~Your tough guy lines might frighten school children,~sl:~but they don't work on me.
+
+MAR4_IG1_HURT_1 = ~z~Wanna hurt me, mister?
+
+MAR4_INT_1 = ~z~Hey, I heard we had another incident...
+
+MAR4_INT_2 = ~z~with the Laramie boys?
+
+MAR4_INT_3 = ~z~Yeah, there was an incident.
+
+MAR4_INT_4 = ~z~Well, they mean to scare me.
+
+MAR4_INT_5 = ~z~And are you scared?
+
+MAR4_INT_6 = ~z~A little...
+
+MAR4_INT_7 = ~z~I've got a lot invested in this place...
+
+MAR4_INT_8 = ~z~and-and not just the land, but...
+
+MAR4_INT_9 = ~z~but my family.
+
+MAR4_INT_10 = ~z~It's, uh...
+
+MAR4_INT_11 = ~z~It's hard to explain.
+
+MAR4_INT_12 = ~z~I understand.
+
+MAR4_INT_13 = ~z~I'll do my best to keep you safe, sir.
+
+MAR4_INT_14 = ~z~I know you will.
+
+MAR4_INT_15 = ~z~So how's your family?
+
+MAR4_INT_16 = ~z~Just fine.
+
+MAR4_INT_17 = ~z~I should probably head back.
+
+MAR4_INT_18 = ~z~Yeah, I know how it is.
+
+MAR4_INT_19 = ~z~How'd you get on?
+
+MAR4_INT_20 = ~z~Okay, I guess.
+
+MAR4_INT_21 = ~z~Better?
+
+MAR4_INT_22 = ~z~Sure, I'm just tired.
+
+MAR4_INT_23 = ~z~I know.
+
+MAR4_INT_24 = ~z~Anybody want some more?
+
+MAR4_INT_25 = ~z~No, I'm good.~n~~m~No, thank you.
+
+MAR4_INT_26 = ~z~I miss Mr. Pearson.
+
+MAR4_INT_27 = ~z~John Marston, you are such a pig.
+
+MAR4_INT_28 = ~z~Alright, it's getting late...
+
+MAR4_INT_29 = ~z~let's get some rest.
+
+MAR4_INT_30 = ~z~Goodnight, Jack.
+
+MAR4_INT_31 = ~z~Goodnight, Momma.
+
+MAR4_INT_32 = ~z~Goodnight, Jack.
+
+MAR4_INT_33 = ~z~Goodnight, Pa.
+
+MAR4_INT_34 = ~z~The hell was that?
+
+MAR4_INT_35 = ~z~What are... what are you doing?
+
+MAR4_INT_36 = ~z~My job, Abigail.
+
+MAR4_INT_37 = ~z~Lock this door behind me...
+
+MAR4_INT_38 = ~z~don't open it unless you know it's me.
+
+MAR4_INT_LI_1 = ~z~Mr. Geddes?
+
+MAR4_JGO_1 = ~z~Mr. Dickens? You okay?
+
+MAR4_LEADBARN_1 = ~z~Jim Milton!
+
+MAR4_LEADBARN_2 = ~z~Jim Milton, you son of a bitch!
+
+MAR4_LEADBARN_3 = ~z~I see you, Milton!
+
+MAR4_LEADBARN_4 = ~z~You're gonna be sorry for what you done.
+
+MAR4_LEADBARN_5 = ~z~You're gonna pay alright.
+
+MAR4_LEADBARN_6 = ~z~You and your wife.
+
+MAR4_LEADERDEAD_1 = ~z~~sl:2.0~Shit...
+
+MAR4_LEADIN_BNT_1 = ~z~Now, dear I won't hear any more of it...
+
+MAR4_LEADIN_BNT_2 = ~z~You won't hear any of it...
+
+MAR4_LEADIN_BNT_3 = ~z~Not in front of the men...
+
+MAR4_LEADIN_BNT_4 = ~z~You toad...
+
+MAR4_LEADIN_BNT_5 = ~z~Alright, smile... smile.
+
+MAR4_LEADIN_BNT_6 = ~z~Do not embarrass me...
+
+MAR4_LEADIN_CO_1 = ~z~Mr. Milton.
+
+MAR4_LEADIN_CO_2 = ~z~I should like to have a word with you.
+
+MAR4_LEADIN_CO_3 = ~z~Milton!
+
+MAR4_LEADIN_WLK_1 = ~z~~sl:0.5~Really, that man...
+
+MAR4_LEADIN_WLK_2 = ~z~If we didn't need men like that.
+
+MAR4_LEADPUNCH_1 = ~z~Piss stinking...
+
+MAR4_LEADPUNCH_2 = ~z~Shit shoveling...
+
+MAR4_LEADPUNCH_3 = ~z~Backwoods...
+
+MAR4_LEADPUNCH_4 = ~z~Sack of...
+
+MAR4_LEADPUNCH_5 = ~z~No good...
+
+MAR4_LEADPUNCH_6 = ~z~Trash...
+
+MAR4_LV1B_1 = ~z~Alright, just shoot him!
+
+MAR4_LV1_1 = ~z~Get the hell out of here.
+
+MAR4_LV2A_1 = ~z~You ought to turn around and go.
+
+MAR4_LV2_1 = ~z~Guess he wants to get shot.
+
+MAR4_MCS1_1 = ~z~They've killed Mr. Tolbert...
+
+MAR4_MCS1_2 = ~z~and they've stolen my goddamn cattle!
+
+MAR4_MCS1_3 = ~z~You men okay?
+
+MAR4_MCS1_4 = ~z~I think so.
+
+MAR4_MCS1_5 = ~z~Jim Milton saved my life...
+
+MAR4_MCS1_6 = ~z~It's Mr. Abel...
+
+MAR4_MCS1_7 = ~z~Of course it's Mr. Abel...
+
+MAR4_MCS1_8 = ~z~I can't believe he thinks he can scare me out of here.
+
+MAR4_MCS1_9 = ~z~Then I guess we're getting the cattle back, sir.
+
+MAR4_MCS1_10 = ~z~I guess we are...
+
+MAR4_MCS1_11 = ~z~Can you go too, Tom?
+
+MAR4_MCS1_12 = ~z~Of course, sir.
+
+MAR4_MCS1_13 = ~z~Alright, Jim, I know you can handle yourself...
+
+MAR4_MCS1_14 = ~z~A little...
+
+MAR4_MCS1_15 = ~z~Go get your guns and head out.
+
+MAR4_MCS1_16 = ~z~Guns?
+
+MAR4_MCS1_17 = ~z~Oh, don't play coy with me, son...
+
+MAR4_MCS1_18 = ~z~we need your help.
+
+MAR4_MCS1_19 = ~z~I don't care what you used to do...
+
+MAR4_MCS1_20 = ~z~or what you... your name is...
+
+MAR4_MCS1_21 = ~z~this is the land of second chances.
+
+MAR4_MCS1_22 = ~z~Understood.
+
+MAR4_MCS1_23 = ~z~Okay.
+
+MAR4_MCS1_24 = ~z~Let me in, it's me.
+
+MAR4_MCS1_25 = ~z~What was it?
+
+MAR4_MCS1_26 = ~z~Mr. Geddes' cattle was taken.
+
+MAR4_MCS1_27 = ~z~God, I'm sorry to hear that.
+
+MAR4_MCS1_28 = ~z~What're you doing in that thing?
+
+MAR4_MCS1_29 = ~z~Mr. Geddes' been real good to us...
+
+MAR4_MCS1_30 = ~z~We...
+
+MAR4_MCS1_31 = ~z~I...
+
+MAR4_MCS1_32 = ~z~What are you doing?
+
+MAR4_MCS1_33 = ~z~My job, Abigail...
+
+MAR4_MCS1_34 = ~z~my goddamn job.
+
+MAR4_MCS2_1 = ~z~That's the place up ahead.
+
+MAR4_MCS2_2 = ~z~There's our cows.
+
+MAR4_MCS2_3 = ~z~A couple guards out front...
+
+MAR4_MCS2_4 = ~z~a couple more round the side, I imagine.
+
+MAR4_MCS2_5 = ~z~Let's get a closer look...
+
+MAR4_MCS2_6 = ~z~let's go.
+
+MAR4_MCS2_7 = ~z~Yeah, there's plenty of guards...
+
+MAR4_MCS2_8 = ~z~I'm gonna head straight in.
+
+MAR4_MCS2_9 = ~z~Tom, you head up there and try and give us some cover.
+
+MAR4_MCS2_10 = ~z~Abe, you're gonna try and flank the place...
+
+MAR4_MCS2_11 = ~z~and come in from the back.
+
+MAR4_MCS2_12 = ~z~I'll give you a minute or two, then I'm heading in.
+
+MAR4_MCS2_13 = ~z~Yes, sir.~n~~m~Okay.
+
+MAR4_MCS3_1 = ~z~I think we're good boys...
+
+MAR4_MCS3_2 = ~z~I think that's it.
+
+MAR4_MCS3_3 = ~z~You sure can fight, mister.
+
+MAR4_MCS3_4 = ~z~Sure, I can fight...
+
+MAR4_MCS3_5 = ~z~Whose going to get them cows back?
+
+MAR4_MCS3_6 = ~z~I will.
+
+MAR4_MCS3_7 = ~z~Good, get on with it, quickly.
+
+MAR4_MCS3_8 = ~z~That sure was something.
+
+MAR4_MCS3_9 = ~z~It's what you pay me for.
+
+MAR4_MCS3_10 = ~z~If we'd've known that we'd have paid you double.
+
+MAR4_MCS3_11 = ~z~Let's both pretend I didn't do that...
+
+MAR4_MCS3_12 = ~z~for all our sakes.
+
+MAR4_MCS3_13 = ~z~I understand.
+
+MAR4_MCS3_14 = ~z~Let's get back to Mr. Geddes.
+
+MAR4_MCS4_1 = ~z~You know that woman of yours got...
+
+MAR4_MCS4_LO_A_1 = ~z~Long as she bathes first... in sheep dip. Get the stink of you offa her. Farmhand!
+
+MAR4_MCS4_LO_B_1 = ~z~
+
+MAR4_MCS4_LO_C_1 = ~z~The look of a woman that ain't had a real ride in her life. She's gotta make do with some piss-poor stinking farmhand.
+
+MAR4_MCS4_LO_C_2 = ~z~Hey, hey, tell her I'll let her in my sheets...
+
+MAR4_MCS4_LO_D_1 = ~z~
+
+MAR4_MESSING1_01 = ~z~What are you doing, Jim?
+
+MAR4_MESSING1_02 = ~z~Is something up?
+
+MAR4_MESSING1_03 = ~z~Hey, what you seen?
+
+MAR4_MESSING2_01 = ~z~Milton, what are you doing?
+
+MAR4_MESSING2_02 = ~z~You're acting funny, Milton.
+
+MAR4_MESSING2_03 = ~z~What's all this about? Come on.
+
+MAR4_MORE_01 = ~z~Look out, more of them!
+
+MAR4_MORE_02 = ~z~There's more coming!
+
+MAR4_MOUNT_D_1 = ~z~Get on and let's go. They're at Hanging Dog, down the bottom of the valley.
+
+MAR4_NOMOUNT_01 = ~z~We better go while the going's good.
+
+MAR4_NOMOUNT_02 = ~z~Before it's light. Come on.
+
+MAR4_NOMOUNT_03 = ~z~If we're gonna ride, we should ride.
+
+MAR4_OVER1_1 = ~z~You think they'll come? I heard they got a gunslinger.
+
+MAR4_OVER1_2 = ~z~They ain't got no shooters. I seen the guy, he's just another milk maid.
+
+MAR4_OVER1_3 = ~z~I dunno, he looks kinda tough.
+
+MAR4_OVER1_4 = ~z~You read too many dime novels. These cowboys is soft as kid leather.
+
+MAR4_OVER2_1 = ~z~These guys just ain't breaking.
+
+MAR4_OVER2_2 = ~z~Desperate men, you expect desperate deeds.
+
+MAR4_OVER2_3 = ~z~~sl:0.0:1.5~I wish they'd come at us.~sl:0.2~Take care of all of them at once, legal killings!
+
+MAR4_OVER2_4 = ~z~It'd be messy, but it'd be the end of it.
+
+MAR4_OVER3_1 = ~z~We gotta sell this cattle?
+
+MAR4_OVER3_2 = ~z~Let's see what happens. See if they sign the ranch over.
+
+MAR4_OVER3_3 = ~z~You mean we might give 'em back to 'em?
+
+MAR4_OVER3_4 = ~z~Yeah, you're right. We'll be driving 'em to market whatever the turnout.
+
+MAR4_RIDE_1 = ~z~I'll lead the way. This is gonna be the last we hear outta them.
+
+MAR4_START_01 = ~z~Jim, they got Dickens! Over by the stables.
+
+MAR4_START_02 = ~z~Jim, you got to do something. Two of them. By the stalls. They got Tom.
+
+MAR4_TOM_1 = ~z~Jim Milton.
+
+MAR4_TOM_2 = ~z~Look out, Tom. Let me deal with this.
+
+MAR4_TOOLATE_1 = ~z~You here to cut a deal? You're too late partner.
+
+MAR4_TREE_1 = ~z~Off your horses here. We'll be better on foot.
+
+MAR4_TREE_2 = ~z~Okay.
+
+MAR4_TREE_3 = ~z~If you say so.
+
+MAR4_T_KILL_01 = ~z~You're a great shot, Milton.
+
+MAR4_T_KILL_02 = ~z~Good shot.
+
+MAR4_T_KILL_03 = ~z~I think you got him.
+
+MAR4_T_KILL_04 = ~z~You don't miss much, do you?
+
+MAR4_WRWY_01 = ~z~Where are you off to?
+
+MAR4_WRWY_02 = ~z~This is a funny way to Hanging Dog?
+
+MAR4_WRWY_03 = ~z~We best get to Hanging Dog that a way.
+

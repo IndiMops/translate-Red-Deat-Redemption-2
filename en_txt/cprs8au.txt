@@ -1,0 +1,14 @@
+CPRS8_ACTA_1 = ~z~~sl:4.1~Ladies and gentlemen... food! The very stuff of life.
+
+CPRS8_ACTA_2 = ~z~Eat, give thanks and go on with your lives. Come on!
+
+CPRS8_ACTA_3 = ~z~
+
+CPRS8_ACTB_1 = ~z~
+
+CPRS8_ACTB_2 = ~z~Ladies and gentlemen... food! The very stuff of life.
+
+CPRS8_ACTB_3 = ~z~Eat, be grateful and go on with your lives. Let's go!
+
+CPRS8_ACTB_4 = ~z~
+

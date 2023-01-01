@@ -1,0 +1,34 @@
+RJCK2_F_FIND = Вы не смогли найти Джека.
+
+RJCK2_F_JACK = Джек был напуган.
+
+RJCK2_F_RIVER = Вам не удалось добраться до реки.
+
+RJCK2_F_RUFUS = Руфус погиб.
+
+RJCK2_F_WATER = Вы распугали рыбу.
+
+RJCK2_HLP_EQRO = Вы можете взять в руки удочку, нажав ~INPUT_SCRIPT_LB~.
+
+RJCK2_NOGUNS = Пока вы гуляете с Джеком, вы не можете применять оружие.
+
+RJCK2_O_FISH = Ловите рыбу вместе с Джеком.
+
+RJCK2_O_FRUFU = Ищите ~o~Джека~s~.
+
+RJCK2_O_GRIVR = Идите с Джеком к ~o~реке~s~.
+
+RJCK2_O_HRUFU = Помогите ~f~Руфусу~s~.
+
+RJCK2_O_LOFOR = Поищите ~o~Руфуса~s~.
+
+RJCK2_O_LOFOR_HIDDEN = Поищите Руфуса~s~.
+
+RJCK2_RUFUS_BLIP = Руфус
+
+RJCK2_UC_SPIT = Сплюнуть
+
+RJCK2_UC_SUCK = Высосать
+
+RJCK2_UC_SUST = Высосать яд
+

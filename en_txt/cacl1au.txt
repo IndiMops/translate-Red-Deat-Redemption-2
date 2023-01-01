@@ -1,0 +1,28 @@
+CACL1_GRABS_1 = ~z~Come with me.
+
+CACL1_GRABS_2 = ~z~
+
+CACL1_GRABS_3 = ~z~I'm sort of busy right now!
+
+CACL1_GRABS_4 = ~z~I wasn't asking. I'm telling!
+
+CACL1_GRABS_5 = ~z~My camp, my rules. Come on!
+
+CACL1_GRABS_6 = ~z~
+
+CACL1_PAYS_1 = ~z~~sl:4.1~Ah, here's some money for your troubles...
+
+CACL1_PAYS_2 = ~z~Why, thank you, kind sir.
+
+CACL1_WALK_1 = ~z~Mr. Morgan... you're quite a sight.
+
+CACL1_WALK_2 = ~z~I'm fine.
+
+CACL1_WALK_3 = ~z~You're revolting and you'll get all of us sick.
+
+CACL1_WASHES_1 = ~z~
+
+CACL1_WASHES_2 = ~z~
+
+CACL1_WASHES_3 = ~z~
+

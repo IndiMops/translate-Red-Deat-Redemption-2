@@ -1,0 +1,8 @@
+CMSF1_ACT_1 = ~z~Hey, heard a rumour. The nastiest killer in the whole country has gone soft.
+
+CMSF1_ACT_2 = ~z~What you talking about?
+
+CMSF1_ACT_3 = ~z~~sl:0.0:2.4:1~That heart will be the death of you.
+
+CMSF1_ACT_4 = ~z~Get out of here.
+

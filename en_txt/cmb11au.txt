@@ -1,0 +1,40 @@
+CMB11_ACTA_1 = ~z~This isn't exactly an enchanted forest, this place, is it?
+
+CMB11_ACTA_2 = ~z~No... I wonder why they called it Valentine?
+
+CMB11_ACTA_3 = ~z~Almost perverse... seems polar opposite of romantic.
+
+CMB11_ACTA_4 = ~z~Well... I don't know... some lady I was speaking to in town told me about a curse.
+
+CMB11_ACTA_5 = ~z~A curse? Now nothing's more romantic than a curse.
+
+CMB11_ACTA_6 = ~z~Exactly... a prince turned into a toad, lovers into stone,
+
+CMB11_ACTA_7 = ~z~entire country turned into morons... curses everywhere.
+
+CMB11_ACTA_8 = ~z~What's Valentines curse?
+
+CMB11_ACTA_9 = ~z~Well, I didn't quite understand what the woman was saying,
+
+CMB11_ACTA_10 = ~z~on account of her being a bit of an idiot... but... something about a massacre...
+
+CMB11_ACTA_11 = ~z~and a last surviving Indian cursing the county.
+
+CMB11_ACTA_12 = ~z~Well, if they massacred people, they deserved to be cursed.
+
+CMB11_ACTA_13 = ~z~'Course.
+
+CMB11_ACTA_INT_1 = ~z~You believe in curses, Arthur?
+
+CMB11_ACTA_INT_2 = ~z~No. I believe in bullets... and not too much else.
+
+CMB11_ACTA_INT_3 = ~z~You soulless wretch.
+
+CMB11_ACTB_1 = ~z~But what was it? W-was it just bad luck or bad weather or something else?
+
+CMB11_ACTB_2 = ~z~Something about an Eagle or an Owl and a grave site...
+
+CMB11_ACTB_3 = ~z~I didn't really get it.
+
+CMB11_ACTB_4 = ~z~Well I think it sounds very interesting.
+

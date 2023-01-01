@@ -1,0 +1,48 @@
+CFBW2_ACT_1 = ~z~~sl:0.0:1.7:1~You mind if I sit?
+
+CFBW2_ACT_2 = ~z~~sl:0.0:2.0~You know when I first met Dutch...~sl:0.2~when I first met many of you.
+
+CFBW2_ACT_3 = ~z~I had just left the army...
+
+CFBW2_ACT_4 = ~z~~sl:0.0:3.5~and it wasn't on a case of no dishonorable discharge~sl:0.2~like I'm sure some of you have heard around here.
+
+CFBW2_ACT_5 = ~z~~sl:0.0:1.8~But, it was by mutual consent~sl:0.3:2.1~on the account of our differing opinions~sl:0.2:0.8~or that's how...~sl:0.1~that's how the captain put it.
+
+CFBW2_ACT_6 = ~z~Differing opinions.
+
+CFBW2_ACT_7 = ~z~~sl:0.0:1.1~The army?~sl:0.1~They had their opinion, and I had mine.
+
+CFBW2_ACT_8 = ~z~~sl:0.0:2.7:1~We was equals, but we went our separate ways.
+
+CFBW2_ACT_9 = ~z~~sl:0.0:2.6~Now me... I...~sl:1.1:4.0~I spent a few nights sleeping rough. I admit...~sl:0.8~I, uh...
+
+CFBW2_ACT_10 = ~z~~sl:1.7:1.5:1~funny, I...
+
+CFBW2_ACT_11 = ~z~I-I-I... I was robbed.
+
+CFBW2_ACT_12 = ~z~~sl:0.0:0.4~I...~sl:2.0:1.9~I was robbed by someone that was a...~sl:0.7~well, you know, well....
+
+CFBW2_ACT_13 = ~z~~sl:2.4:1.6~No-no, it was a woman.~sl:0.3~I was robbed by a woman!
+
+CFBW2_ACT_14 = ~z~And then I met Dutch.
+
+CFBW2_ACT_15 = ~z~~sl:0.0:1.5~Now unlike some of you...~sl:0.1~vagrants and vagabonds and orphans and murderers,
+
+CFBW2_ACT_16 = ~z~~sl:0.0:2.0:1~I've seen what Uncle Sam can do up close.
+
+CFBW2_ACT_17 = ~z~~sl:0.0:3.8~Nothing will make you believe in a man like Dutch~sl:0.4~more than seeing what power can...
+
+CFBW2_ACT_18 = ~z~~sl:0.0:1.8~what power can do~sl:0.4~to a captain in the US army.
+
+CFBW2_ACT_19 = ~z~~sl:0.0:3.7~I mean it... it-it... it corrupts a man.~sl:0.3~It corrupts a man totally.
+
+CFBW2_ACT_20 = ~z~~sl:0.0:1.3~But, I...~sl:0.6~I believe in Dutch.
+
+CFBW2_ACT_21 = ~z~~sl:0.0:1.5~And I know...~sl:0.3:1.5~Dutch is Dutch.~sl:1.5~But I believe in him, where...
+
+CFBW2_ACT_22 = ~z~where he talks, I walks.
+
+CFBW2_ACT_23 = ~z~And... and that's the way it's gonna be...
+
+CFBW2_ACT_24 = ~z~~sl:0.0:1.4~And it was a woman!~sl:0.2~I see you chuckling.
+

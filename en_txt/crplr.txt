@@ -1,0 +1,32 @@
+FETCH_CAMP_RAID_FAST_TRAVEL_TOAST_MAIN = Camp Raid
+
+FETCH_CAMP_RAID_FAST_TRAVEL_TOAST_SECONDARY = Fast Travel to Camp Raid
+
+FETCH_CAMP_RAID_HELP_ESCAPING_TEAM_PRIMARY = Watch out for ~COLOR_ENEMY~bandits~s~ trying to steal your ~COLOR_MP_OBJECTIVE_FRIENDLY~goods~s~.
+
+FETCH_CAMP_RAID_HELP_FAILURE = Bandits have raided your Camp and stolen ~COLOR_ENEMY~~1~~s~ of your goods from Cripps Trading Co.
+
+FETCH_CAMP_RAID_HELP_FAST_TRAVEL = Fast travel to quickly join your Posse Members defending the Camp.
+
+FETCH_CAMP_RAID_HELP_INTRO = Eliminate the ~COLOR_ENEMY~bandits~s~ and protect your ~COLOR_MP_OBJECTIVE_FRIENDLY~goods~s~ ~1b~ before they are stolen.
+
+FETCH_CAMP_RAID_HELP_LATE_NOTIFICATION = Your Camp ~1b~ is about to be raided by bandits. Return and defend your goods.
+
+FETCH_CAMP_RAID_SHARD_DESC_PRIMARY = Defend your ~COLOR_MP_OBJECTIVE_FRIENDLY~Camp~s~ from being raided
+
+FETCH_CAMP_RAID_SHARD_OUTSIDE_CLEANUP_RADIUS = The goods were stolen
+
+FETCH_CAMP_RAID_SHARD_PRIMARY_PASS = The Camp was defended
+
+FETCH_CTX_CAMP_RAID_FAST_TRAVEL = Return to Camp
+
+FETCH_OBJ_CAMP_RAID_DROP = Drop the ~COLOR_MP_OBJECTIVE_FRIENDLY~goods~s~
+
+FETCH_OBJ_CAMP_RAID_ESCORT_RETURN = Return the ~COLOR_MP_OBJECTIVE_FRIENDLY~goods~s~ to ~COLOR_MP_OBJECTIVE~Camp~s~
+
+FETCH_OBJ_CAMP_RAID_PICK_UP = Pick up the ~COLOR_MP_OBJECTIVE_FRIENDLY~goods~s~
+
+FETCH_OBJ_CAMP_RAID_PROTECT = Defend your ~COLOR_MP_OBJECTIVE_FRIENDLY~goods~s~
+
+FETCH_OBJ_CAMP_RAID_STEAL = Reclaim the ~COLOR_ENEMY~goods~s~
+

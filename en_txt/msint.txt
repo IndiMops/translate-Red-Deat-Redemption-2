@@ -1,0 +1,98 @@
+0x628A9763 = Timer expired
+
+0xD2E7BE58 = Rival product was destroyed
+
+0xFE0E9FA1 = Rival product was destroyed
+
+FETCH_INTIMIDATION_OBJ_KILL_ATTACKERS = Kill the remaining ~COLOR_ENEMY~enemies~s~
+
+FETCH_INTIMIDATION_OBJ_KILL_ATTACKERS_2 = Kill the remaining ~COLOR_ENEMY~enemies~s~
+
+FETCH_INTIMIDATION_OBJ_KILL_ATTACKERS_REMAINING = Kill the remaining ~COLOR_ENEMY~enemies~s~
+
+FETCH_INTIMIDATION_OBJ_KILL_ATTACKERS_REMAINING_2 = Kill the remaining ~COLOR_ENEMY~enemies~s~
+
+FETCH_MOONSHINE_INTIMIDATION_GOTO_STASH = Go to the ~COLOR_MP_OBJECTIVE~rival moonshiners' stash~s~
+
+FETCH_MOONSHINE_INTIMIDATION_GO_TO_0 = Go ~1~
+
+FETCH_MOONSHINE_INTIMIDATION_GO_TO_1 = Go to the ~COLOR_MP_OBJECTIVE~rival moonshiners' stash~s~
+
+FETCH_MOONSHINE_INTIMIDATION_HELP_BONUS_OBJECTIVE_ACTIVE = You have learned the location of the ~COLOR_MP_OBJECTIVE~rival moonshiners' stash~s~.
+
+FETCH_MOONSHINE_INTIMIDATION_HELP_BONUS_OBJECTIVE_FAIL = You cannot learn the location of the rival moonshiners' stash and will earn a limited to benefit your Moonshine Operation.
+
+FETCH_MOONSHINE_INTIMIDATION_HELP_BONUS_OBJECTIVE_FAIL_PLAYER = You cannot learn the location of the rival moonshiners' stash and will earn a limited to benefit ~1~'s Moonshine Operation.
+
+FETCH_MOONSHINE_INTIMIDATION_HELP_INTRO = Use intimidation to learn the location of the ~COLOR_MP_OBJECTIVE~rival moonshiners' stash~s~. Destroy the stash to benefit your Moonshine Operation.
+
+FETCH_MOONSHINE_INTIMIDATION_HELP_INTRO_PLAYER = Use intimidation to learn the location of the ~COLOR_MP_OBJECTIVE~rival moonshiners' stash~s~. Destroy the stash to benefit ~1~'s Moonshine Operation.
+
+FETCH_MOONSHINE_INTIMIDATION_HELP_OBJECTIVE_DESTROY_APPROACH = Cause damage within the bar and intimidate the bartender to learn the location of the ~COLOR_MP_OBJECTIVE~rival moonshiners' stash~s~.
+
+FETCH_MOONSHINE_INTIMIDATION_HELP_SEARCH_AREA = Cause damage within the bar and intimidate the bartender to learn the location of the ~COLOR_MP_OBJECTIVE~rival moonshiners' stash~s~.
+
+FETCH_MOONSHINE_INTIMIDATION_OBJECTIVE_HAVOC_GOAL_APPROACH = Cause damage within the bar and intimidate the bartender to learn the location of the ~COLOR_MP_OBJECTIVE~rival moonshiners' stash~s~.
+
+FETCH_MOONSHINE_INTIMIDATION_OBJ_DESTROY = Damage the ~COLOR_MP_OBJECTIVE_ENEMY~bar~s~
+
+FETCH_MOONSHINE_INTIMIDATION_OBJ_DESTROY_2 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~moonshine~s~
+
+FETCH_MOONSHINE_INTIMIDATION_OBJ_DESTROY_PLURAL = Damage the ~COLOR_MP_OBJECTIVE_ENEMY~bar~s~
+
+FETCH_MOONSHINE_INTIMIDATION_OBJ_DESTROY_PLURAL_2 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~moonshine~s~
+
+FETCH_MOONSHINE_INTIMIDATION_OBJ_FIND = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~moonshine~s~
+
+FETCH_MOONSHINE_INTIMIDATION_OBJ_FIND_PLURAL = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~moonshine~s~
+
+FETCH_MOONSHINE_INTIMIDATION_OBJ_INTIMIDATE = Intimidate the ~COLOR_MP_OBJECTIVE_ENEMY~bartender~s~
+
+FETCH_MOONSHINE_INTIMIDATION_SCORETIMER_PRIMARY_PASS = ~1~ located the moonshiner stash
+
+FETCH_MOONSHINE_INTIMIDATION_SCORETIMER_PRIMARY_PASS_2 = ~1~ destroyed the moonshine
+
+FETCH_MOONSHINE_INTIMIDATION_SCORETIMER_PRIMARY_PASS_NP = Rival moonshiner supply located
+
+FETCH_MOONSHINE_INTIMIDATION_SCORETIMER_PRIMARY_PASS_NP_2 = ~1~ destroyed the moonshine
+
+FETCH_MOONSHINE_INTIMIDATION_SCORETIMER_PRIMARY_PASS_YOU = You located the moonshiner stash
+
+FETCH_MOONSHINE_INTIMIDATION_SCORETIMER_PRIMARY_PASS_YOUR = Your Posse located the moonshiner stash
+
+FETCH_MOONSHINE_INTIMIDATION_SCORETIMER_PRIMARY_PASS_YOUR_2 = Your Posse destroyed the moonshine
+
+FETCH_MOONSHINE_INTIMIDATION_SCORETIMER_PRIMARY_PASS_YOU_2 = You destroyed the moonshine
+
+FETCH_MOONSHINE_INTIMIDATION_SCORETIMER_TRIGGER_ACTION = Rival moonshiner supply located
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_DESTROYED = Rival product was destroyed
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_DESTROYED_PLURAL = Rival product was destroyed
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_INTRO_PRIMARY = Locate the rival moonshiner stash
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_INTRO_PRIMARY_2 = Destroy the moonshine
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_INTRO_PRIMARY_PLURAL = Locate the rival moonshiner stash
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_INTRO_PRIMARY_PLURAL_2 = Destroy the moonshine
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_OVER = Rival product was destroyed
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_PRIMARY_FAIL = Saloon owner was killed
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_PRIMARY_FAIL_PLURAL = Saloon owner was killed
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_PRIMARY_PASS = Rival product was destroyed
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_PRIMARY_PASS_PARTIAL = Saloon owner was killed
+
+FETCH_MOONSHINE_INTIMIDATION_SHARD_PRIMARY_PASS_PLURAL = Rival product was destroyed
+
+FETCH_MOONSHINE_INTIMIDATION_TICKER_DESTROY = ~1~/~2~ ~COLOR_MP_OBJECTIVE_ENEMY~moonshine~s~ has been destroyed
+
+FETCH_MOONSHINE_INTIMIDATION_TICKER_DESTROY_YOU = You destroyed the ~COLOR_MP_OBJECTIVE~moonshine~s~
+
+FETCH_MOONSHINE_MARKETING_INTIMIDATION_NAME = INTIMIDATION
+

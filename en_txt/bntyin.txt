@@ -1,0 +1,102 @@
+0x020B5C30 = Escort the stagecoach
+
+0x022D0251 = The bounty has reached the hideout
+
+0x1EF43BC8 = Go to the hideout
+
+0x5F898169 = Protect the bounty
+
+0x9B10D8C1 = Go to the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+0x42AEE8E2 = Help escort the bounty ~1~
+
+0x70BEBB2B = Escort the wagon
+
+0x92EE3440 = Go ~1~
+
+0x441FF06A = Bounty complete
+
+0x23894357 = Capture the bounty dead or alive
+
+0xC67A31F5 = Escort the wagon ~1~
+
+0xE8D8FA0D = Go to the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+FETCH_BOUNTY_HUNTING_INFILTRATION_ANNESBURG_HELP_INTRO = Commandeer the ~COLOR_MP_OBJECTIVE_ENEMY~Wreckers'~s~ next delivery ~BLIP_AMBIENT_WAGON~ of explosives and infiltrate their hideout. Collect the target and deliver alive for the full reward.
+
+FETCH_BOUNTY_HUNTING_INFILTRATION_ANNESBURG_HELP_WAGON_ESCORT = Pose as a gang member and take the wagon to the ~COLOR_MP_OBJECTIVE~hideout~s~ without raising suspicion.
+
+FETCH_BOUNTY_HUNTING_INFILTRATION_EMERALD_HELP_INTRO = ~COLOR_MP_OBJECTIVE_ENEMY~Mrs. Stanton's~s~ gang has been carrying out robberies near Moonstone Pond. Track her down and deliver her alive for the full reward.
+
+FETCH_BOUNTY_HUNTING_INFILTRATION_EMERALD_HELP_WAGON_ESCORT = Pose as a gang member and take the stagecoach to the ~COLOR_MP_OBJECTIVE~hideout~s~ without raising suspicion.
+
+FETCH_BOUNTY_HUNTING_INFILTRATION_HELP_INTRO = Deliver the bounty ~1b~ alive for the full reward. Dead bounties are worth less.
+
+FETCH_BOUNTY_HUNTING_INFILTRATION_HELP_INTRO_PLURAL = Deliver the bounty ~1b~ alive for the full reward. Dead bounties are worth less.
+
+FETCH_BOUNTY_INFILTRATION_ENTITY_KILLED = The wagon was destroyed
+
+FETCH_BOUNTY_INFILTRATION_ENTITY_STAGECOACH_KILLED = The stagecoach was destroyed
+
+FETCH_BOUNTY_INFILTRATION_HELP_OBJECTIVE_ESCAPING = A ~COLOR_MP_OBJECTIVE_ENEMY~bounty~s~ is getting away. Bounties that get too far from you will escape and their bounty may no longer be collected.
+
+FETCH_BOUNTY_INFILTRATION_HELP_PULL_OVER = Stop for the guard and let them inspect the wagon.
+
+FETCH_BOUNTY_INFILTRATION_HELP_PULL_OVER_ANNESBURG = Pull over so the gang can verify who you are and potentially allow you to enter the hideout peacefully.
+
+FETCH_BOUNTY_INFILTRATION_HELP_PULL_OVER_EMERALD = Pull over so the gang can verify who you are and potentially allow you to enter the hideout peacefully.
+
+FETCH_BOUNTY_INFILTRATION_OBJ_DEFEND = Escort the wagon ~1~
+
+FETCH_BOUNTY_INFILTRATION_OBJ_DEFEND_STAGECOACH = Escort the stagecoach ~1~
+
+FETCH_BOUNTY_INFILTRATION_OBJ_DEFEND_TARGET = Help deliver the target ~1~
+
+FETCH_BOUNTY_INFILTRATION_OBJ_DROP = Drop the bounty
+
+FETCH_BOUNTY_INFILTRATION_OBJ_FIND = Kill or capture the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+FETCH_BOUNTY_INFILTRATION_OBJ_FIND_PLURAL = Kill or capture the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+FETCH_BOUNTY_INFILTRATION_OBJ_MOUNT = Get on the horse
+
+FETCH_BOUNTY_INFILTRATION_OBJ_MOUNT_STAGECOACH = Get on the stagecoach
+
+FETCH_BOUNTY_INFILTRATION_OBJ_MOUNT_WAGON = Get on the wagon
+
+FETCH_BOUNTY_INFILTRATION_OBJ_RETURN = Deliver the bounty ~1~
+
+FETCH_BOUNTY_INFILTRATION_OBJ_RETURN_PLURAL = Deliver the bounty ~1~
+
+FETCH_BOUNTY_INFILTRATION_SCORETIMER_DESTROY = A bounty has been killed
+
+FETCH_BOUNTY_INFILTRATION_SCORETIMER_DESTROY_YOU = You killed a bounty
+
+FETCH_BOUNTY_INFILTRATION_SCORETIMER_ESCAPE = A ~COLOR_MP_OBJECTIVE_ENEMY~bounty~s~ has escaped
+
+FETCH_BOUNTY_INFILTRATION_SCORETIMER_TRIGGER_ACTION = ~1~ alerted the bounty
+
+FETCH_BOUNTY_INFILTRATION_SHARD_ESCAPED = The bounty escaped
+
+FETCH_BOUNTY_INFILTRATION_SHARD_ESCAPED_PLURAL = The bounty escaped
+
+FETCH_BOUNTY_INFILTRATION_VEH_FIND = Steal the wagon
+
+FETCH_BOUNTY_INFILTRATION_VEH_FIND_PLURAL = Steal the wagon
+
+FETCH_BOUNTY_INFILTRATION_VEH_FIND_STAGECOACH = Steal the stagecoach
+
+FETCH_BOUNTY_INFILTRATION_VEH_RETURN = Drive the wagon ~1~
+
+FETCH_BOUNTY_INFILTRATION_VEH_STAGEOACH_RETURN = Drive the stagecoach ~1~
+
+FETCH_BOUNTY_INFILTRATION_WAIT = Wait for the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+FETCH_BOUNTY_INFILTRATION_WAIT_FOR_INSPECT = Wait for the guard to inspect the wagon
+
+FETCH_BOUNTY_INFILTRATION_WAIT_FOR_INSPECT_STAGECOACH = Wait for the guard to inspect the stagecoach
+
+FETCH_HELP_BOUNTY_FREE_UP_SEAT_FOR_TARGET_ANNESBURG = Allow the target ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ to board the wagon and then leave the hideout so you can capture him alone.
+
+FETCH_HELP_BOUNTY_FREE_UP_SEAT_FOR_TARGET_EMERALD = Allow ~COLOR_MP_OBJECTIVE_ENEMY~Mrs. Stanton~s~ ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ to board the wagon and then leave the hideout so you can capture her alone.
+

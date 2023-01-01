@@ -1,0 +1,918 @@
+MUD4_ALONE_1 = ~z~Alright, I better get outta here.
+
+MUD4_ARRIVE_1 = ~z~Let's see what we can see from up here.
+
+MUD4_AUCGRIEF_01 = ~z~What the hell are you doing?
+
+MUD4_AUCGRIEF_02 = ~z~You son of a bitch.
+
+MUD4_AUCGRIEF_03 = ~z~Oh you're done now.
+
+MUD4_AWAY_01 = ~z~Hey, where are you going?
+
+MUD4_AWAY_02 = ~z~Are you running off on me?
+
+MUD4_AWAY_03 = ~z~Hey, where are you riding off to now?
+
+MUD4_BADLY_01 = ~z~Who's herding who here?
+
+MUD4_BADLY_02 = ~z~You sure you know what you're doing?
+
+MUD4_BADLY_03 = ~z~I thought you said you'd done this before?
+
+MUD4_BADLY_04 = ~z~You sure you don't want me to have a try?
+
+MUD4_BADLY_05 = ~z~We'll be making next week's auction at this rate.
+
+MUD4_BADLY_06 = ~z~We're getting nowhere fast here.
+
+MUD4_BINOCULAR_1 = ~z~Okay, I think that's them over there.
+
+MUD4_BINOCULAR_2 = ~z~So what now?
+
+MUD4_BINOCULAR_3 = ~z~Put a shot in near them, I reckon they'll hightail it.
+
+MUD4_BINOCULAR_4 = ~z~They're only ranch hands. Just watch the sheep.
+
+MUD4_CLEAR_01 = ~z~Looks like we're clear. Let's go.
+
+MUD4_CLEAR_02 = ~z~Now's our chance, come on.
+
+MUD4_CMON_01 = ~z~You coming?
+
+MUD4_CMON_02 = ~z~What are you waiting for?
+
+MUD4_CMON_03 = ~z~C'mon, let's go.
+
+MUD4_COMEBACK_1 = ~z~Come back after the auction, you'll get your money.
+
+MUD4_COVERUS_1 = ~z~Arthur, cover us!
+
+MUD4_COVERUS_2 = ~z~John, we'll push the wagon. Arthur, shoot someone!
+
+MUD4_COVERUS_3 = ~z~I'm trying.
+
+MUD4_DAWD_01 = ~z~Are you going in then?
+
+MUD4_DAWD_02 = ~z~~sl:0.0:1.1~Go on.~sl:0.2~We just need something with a scope on it.
+
+MUD4_DAWD_03 = ~z~~sl:0.0:1.1~Come on.~sl:0.2~We ain't got all day here.
+
+MUD4_DELAY_01 = ~z~Come on, you've done the hard part.
+
+MUD4_DELAY_02 = ~z~Alright, let's get them in there and get paid.
+
+MUD4_DELAY_03 = ~z~Nearly there, come on.
+
+MUD4_DOWN_01 = ~z~Strauss is down!
+
+MUD4_DOWN_02 = ~z~They hit Strauss!
+
+MUD4_DUTCHYELL_01 = ~z~I'm right here, you sons of bitches!
+
+MUD4_DUTCHYELL_02 = ~z~Oh, you want to come at me?
+
+MUD4_DUTCHYELL_03 = ~z~~sl:1.2:1.2~Is that all you got?
+
+MUD4_DUTCHYELL_04 = ~z~Bring that coward Cornwall out here!
+
+MUD4_DUTCHYELL_05 = ~z~~sl:1.2:2.5~We are just gonna walk outta here!
+
+MUD4_DUTCHYELL_06 = ~z~Why don't you run now while you still can!
+
+MUD4_ENTER_SAL_1 = ~z~~sl:0.0:1.2~Come on, sunshine.~sl:0.3~I'll buy you a whiskey.
+
+MUD4_FAIL_01 = ~z~Goddamn it, you lost 'em.
+
+MUD4_FAIL_02 = ~z~Forget it, they're gone.
+
+MUD4_GETAWAY_1 = ~z~Let's go, come on!
+
+MUD4_GETAWAY_2 = ~z~Where are you going? That's right at them!
+
+MUD4_GETAWAY_3 = ~z~We don't run, Mr. Strauss!
+
+MUD4_GETAWAY_4 = ~z~Good God!
+
+MUD4_GETMEOUT_01 = ~z~One of you get me out of here!
+
+MUD4_GETMEOUT_02 = ~z~Don't leave me here!
+
+MUD4_GETMEOUT_03 = ~z~Arthur!
+
+MUD4_GETMEOUT_04 = ~z~Help me out of here, please!
+
+MUD4_GETMEOUT_05 = ~z~Arthur! John! Someone, help me!
+
+MUD4_GETMEOUT_06 = ~z~Please! You can't leave me like this!
+
+MUD4_GLASSES_1 = ~z~I lost my glasses!
+
+MUD4_GLASSES_2 = ~z~Better to be blind than dead, we can always get you more glasses.
+
+MUD4_GLASSES_3 = ~z~A living nightmare.
+
+MUD4_GOHORSE_01 = ~z~That's our horses over there! Come on, grab Strauss.
+
+MUD4_GOHORSE_02 = ~z~Horses are over there! Grab Strauss and let's go.
+
+MUD4_GUNRESP_1 = ~z~Don't you wear yourself out now.
+
+MUD4_GUNS1_1 = ~z~Hello, how can I help you today?
+
+MUD4_GUNS1_2 = ~z~Looking for a rifle... something with a sight on it.
+
+MUD4_GUNS1_3 = ~z~~sl:0.3:1.1~Shouldn't be a problem.~sl:0.4~If you want to see what we've got, it's all in the catalogue here.
+
+MUD4_GUNS2_1 = ~z~Oh, well, hello again. How can I help you today?
+
+MUD4_GUNS2_2 = ~z~Looking for a rifle, something with a sight on it.
+
+MUD4_GUNS2_3 = ~z~~sl:0.0:1.0~Shouldn't be a problem.~sl:0.3~If you wanna see what we've got, it's all in the catalogue here.
+
+MUD4_GUNS3_1 = ~z~You again? What the hell are you doing here?
+
+MUD4_GUNS3_2 = ~z~~sl:0.0:2.0~I ain't looking for no trouble.~sl:0.1~Just need a rifle, something with a sight on it.
+
+MUD4_GUNS3_3 = ~z~If you're paying, I'll take it. I guess.
+
+MUD4_GUNS3_4 = ~z~Everything I got's in the catalogue there.
+
+MUD4_GUNSTORE_1 = ~z~The gun store?
+
+MUD4_GUNSTORE_2 = ~z~Yep, can you head in and pick up a sniper rifle? I'll explain later.
+
+MUD4_HITCH_1 = ~z~There's a hitching post over there.
+
+MUD4_HITCH_2 = ~z~Tether the horse and I'll meet you across the street.
+
+MUD4_HITCH_3 = ~z~~sl:0.2~I already don't like how this is going...
+
+MUD4_HITCH_DWD_01 = ~z~We need to get moving on this, Arthur.
+
+MUD4_HITCH_DWD_02 = ~z~Come on then, hitch up.
+
+MUD4_HITCH_DWD_03 = ~z~No need to get testy. Just tie the horse up and get over here.
+
+MUD4_HURRYS_01 = ~z~Quick, before they all run off on us.
+
+MUD4_HURRYS_02 = ~z~Mount up, let's go.
+
+MUD4_HURRYS_03 = ~z~Come on, let's get down there.
+
+MUD4_HURRY_01 = ~z~Take the shot, Arthur.
+
+MUD4_HURRY_02 = ~z~Hurry, before they get too far away.
+
+MUD4_HURRY_03 = ~z~Come on, shoot.
+
+MUD4_IDLE_PICK_01 = ~z~~sl:0.0:1.7~Arthur we leave no man behind.~sl:0.2~Go get Strauss.
+
+MUD4_IDLE_PICK_02 = ~z~~sl:0.0:1.3~Let's get Strauss and go.~sl:0.3~Come on, come on!
+
+MUD4_IDLE_PICK_03 = ~z~Are you getting Strauss or not, Arthur?
+
+MUD4_IG3_NICE_1 = ~z~Nice.
+
+MUD4_IG3_YES_1 = ~z~Yes.
+
+MUD4_IG4_1 = ~z~Let's go get the strays.
+
+MUD4_IG4_2 = ~z~You ever work on a ranch, Marston?
+
+MUD4_IG4_3 = ~z~~sl:0.0:0.8~No.~lr:0.1~You?
+
+MUD4_IG4_4 = ~z~~sl:0.0:1.7~Oh, a day here or there,~sl:0.0:1.1:1~but not much.
+
+MUD4_IG4_5 = ~z~~sl:0.0:1.5~Most cowboys I know are...~sl:0.4~dumb as trees.
+
+MUD4_IG4_6 = ~z~How hard could it be?
+
+MUD4_IG4_7 = ~z~~sl:0.0:1.5~I guess we'll soon find out.~lr:0.4:1.6~Let's get these things,~lr:0.1~bring 'em back to the yards.
+
+MUD4_IG5_ENTER_1 = ~z~
+
+MUD4_IG5_P1A_1 = ~z~~sl:0.5:1.3~Here they come, boys.~sl:0.7~Open her up.
+
+MUD4_IG5_P1F_1 = ~z~Close her up, boys.
+
+MUD4_IG5_P1G_1 = ~z~
+
+MUD4_IG5_P1G_2 = ~z~
+
+MUD4_IG5_P1H_1 = ~z~
+
+MUD4_IG5_P1I_1 = ~z~
+
+MUD4_IG8_SPEECH_1 = ~z~Who wants to be the Messiah?
+
+MUD4_IG8_SPEECH_2 = ~z~Not me...
+
+MUD4_IG8_SPEECH_3 = ~z~Nor do I want to be this "Dutch van der Linde," whomever he may be.
+
+MUD4_IG8_SPEECH_4 = ~z~I am Archibald Smith,
+
+MUD4_IG8_SPEECH_5 = ~z~a lay preacher...
+
+MUD4_IG8_SPEECH_6 = ~z~For God's sakes, Arthur, will you get to it?
+
+MUD4_IG8_SPEECH_7 = ~z~Shoot somebody, will you?
+
+MUD4_IG10_1 = ~z~
+
+MUD4_IG14_EXIT_1 = ~z~You good?
+
+MUD4_IG14_EXIT_2 = ~z~Sure.
+
+MUD4_IG14_EXIT_3 = ~z~Let's go.
+
+MUD4_IG16_1 = ~z~~sl:0.0:1.2:1~Come on, Leopold.
+
+MUD4_IG16_2 = ~z~
+
+MUD4_IG16_3 = ~z~~sl:0.0:1.1:1~You're fine.
+
+MUD4_IG16_4 = ~z~~sl:0.1:0.0~I'm not fine.
+
+MUD4_IG17_A_1 = ~z~~sl:0.6~My god, that was some business in town.
+
+MUD4_IG17_A_2 = ~z~~sl:0.3~Yes... is Strauss still alive?
+
+MUD4_IG17_A_3 = ~z~Oh, he's fine. That's not the problem.
+
+MUD4_IG17_A_4 = ~z~Maybe we shouldn't have robbed that train...
+
+MUD4_IG17_A_5 = ~z~Well, we did, we can't change that now.
+
+MUD4_IG17_A_6 = ~z~That Cornwall, he's got deep pockets and a bad temper.
+
+MUD4_IG17_A_7 = ~z~~sl:0.0:2.5~Then we'll just have to turn them against him,~sl:~we've beaten his sort before.
+
+MUD4_IG17_A_8 = ~z~He's a very rich man, Dutch... he's one of the richest in the country.
+
+MUD4_IG17_A_9 = ~z~~sl:0.0:4.1~He's rich in money, Arthur, poor in life,~sl:~he is a horrible little goblin of a man.
+
+MUD4_IG17_A_10 = ~z~~sl:1.3~So... what we gonna do?
+
+MUD4_IG17_A_11 = ~z~Well, you wrap up your business here and we'll get moving.
+
+MUD4_IG17_A_12 = ~z~Move where?
+
+MUD4_IG17_B_1 = ~z~~sl:0.0:3.5~I ain't quite decided yet, but we're okay, Arthur.~sl:~We keep moving, this won't be a serious problem.
+
+MUD4_IG20_1 = ~z~Let's head up to the ridge up there... get a proper view.
+
+MUD4_IG21_1 = ~z~This way, Arthur.
+
+MUD4_INTO_SAL_1 = ~z~After you, sir
+
+MUD4_INT_1 = ~z~So...
+
+MUD4_INT_2 = ~z~Feeling better?
+
+MUD4_INT_3 = ~z~How's the scar?
+
+MUD4_INT_4 = ~z~I heal pretty fast.
+
+MUD4_INT_5 = ~z~Lucky you.
+
+MUD4_INT_6 = ~z~How's the scar?
+
+MUD4_INT_7 = ~z~I heal pretty fast.
+
+MUD4_INT_8 = ~z~Lucky you.
+
+MUD4_INT_9 = ~z~So you just lazing about or...
+
+MUD4_INT_10 = ~z~you got any leads?
+
+MUD4_INT_11 = ~z~Got something.
+
+MUD4_INT_12 = ~z~You see them?
+
+MUD4_INT_13 = ~z~Sure.
+
+MUD4_INT_14 = ~z~What, you see yourself as a shepherd now?
+
+MUD4_INT_15 = ~z~Maybe...
+
+MUD4_INT_16 = ~z~Come on.
+
+MUD4_INT_17 = ~z~Well where exactly are we going?
+
+MUD4_INT_18 = ~z~Collect something...
+
+MUD4_INT_19 = ~z~help us get some sheep.
+
+MUD4_INT_20 = ~z~You know that attempt to seem all...
+
+MUD4_INT_21 = ~z~enigmatic and interesting...
+
+MUD4_INT_22 = ~z~that might work for Dutch, but for you...
+
+MUD4_INT_23 = ~z~it just makes you look stupid.
+
+MUD4_INT_LI_1 = ~z~So... feeling better?
+
+MUD4_INT_LO_1 = ~z~You'll see. That train job was a start, but we need more money.
+
+MUD4_INT_LO_2 = ~z~'Til we can get back to Blackwater and collect.
+
+MUD4_INT_LO_3 = ~z~~sl:0.1:~I'm here to tell you, we try to collect that money any time soon...
+
+MUD4_INT_LO_4 = ~z~It'll come with a noose.
+
+MUD4_INT_LO_5 = ~z~I was worried you'd say that.
+
+MUD4_INT_LO_6 = ~z~Dutch says that we...
+
+MUD4_INT_LO_7 = ~z~Dutch says a lot. Now, that's his gift... saying things.
+
+MUD4_INT_LO_8 = ~z~Oh yeah? What do you mean by that?
+
+MUD4_INT_LO_9 = ~z~I was the prize pony once, now I'm the workhorse. Listen.
+
+MUD4_INT_LO_10 = ~z~~sl:0.0:4.8~Dutch is... but... but, well...~sl:0.4~you was at that thing in Blackwater.
+
+MUD4_INT_LO_11 = ~z~And we already seen Pinkertons here.
+
+MUD4_INT_LO_12 = ~z~~sl:0.0:6.1~New century's coming. This life, this way? Well, we're the last, I reckon.~sl:0.2~And we ain't long for it.
+
+MUD4_INT_LO_13 = ~z~Then that's the way it goes, I guess.
+
+MUD4_INT_LO_14 = ~z~For me, yes.
+
+MUD4_INT_LO_15 = ~z~Alright...
+
+MUD4_INT_LO_B_1 = ~z~This is the place.
+
+MUD4_INT_LO_B_2 = ~z~A gun store?
+
+MUD4_INT_LO_B_3 = ~z~I'll show you.
+
+MUD4_INT_LO_P1_1 = ~z~Come along.
+
+MUD4_JOHN_SAL_01 = ~z~Are you coming then?
+
+MUD4_JOHN_SAL_02 = ~z~Come on, Dutch is waiting for us.
+
+MUD4_JOHN_SAL_03 = ~z~Stop sulking and let's get a drink.
+
+MUD4_KILLFEW_01 = ~z~Stop that, you goddamn lunatic!
+
+MUD4_KILLFEW_02 = ~z~What are you trying to prove with this?
+
+MUD4_KILLFEW_03 = ~z~Goddamn it! How will we get paid if you kill 'em all?
+
+MUD4_KILLFEW_04 = ~z~That's enough! Are you outta your goddamn mind?
+
+MUD4_KILL_01 = ~z~What the hell are you doing?
+
+MUD4_KILL_02 = ~z~We're supposed to be selling 'em not killing 'em.
+
+MUD4_KILL_03 = ~z~What are you killing 'em for?
+
+MUD4_KILL_04 = ~z~What'd you do that for?
+
+MUD4_LEAVES_01 = ~z~There's still one back there.
+
+MUD4_LEAVES_02 = ~z~You left one behind.
+
+MUD4_LEAVES_03 = ~z~What about that one back there?
+
+MUD4_LEAVES_04 = ~z~Are you not going back for that one?
+
+MUD4_LEAVES_05 = ~z~Are you just gonna leave that one behind?
+
+MUD4_LOOK_1 = ~z~~sl:0.0:1.8~You know what... Marston.~sl:0.2~~rp~Why don't you leave the sheep to me? You ride shank,
+
+MUD4_LOOK_2 = ~z~keep watch for any trouble.
+
+MUD4_LOOK_3 = ~z~I brought you in on this.
+
+MUD4_LOOK_4 = ~z~~sl:0.0:2.5~It'll be quicker this way, trust me.~sl:0.2~~rp~This ain't the right time for you to be learning how to herd.
+
+MUD4_LOOK_5 = ~z~Alright. Whatever you say, ~rp~I'm done arguing.
+
+MUD4_MCS1_1 = ~z~I think they're over there.
+
+MUD4_MCS1_2 = ~z~And you reckon we can just take them?
+
+MUD4_MCS1_3 = ~z~Sure...
+
+MUD4_MCS1_4 = ~z~just give them boys a scare.
+
+MUD4_MCS2_1 = ~z~Fine sheep.
+
+MUD4_MCS2_2 = ~z~They're okay.
+
+MUD4_MCS2_3 = ~z~Well, you seen better round here?
+
+MUD4_MCS2_4 = ~z~I've seen ones with less...
+
+MUD4_MCS2_5 = ~z~ambiguity about their provenance.
+
+MUD4_MCS2_6 = ~z~A lot less.
+
+MUD4_MCS2_7 = ~z~What you trying to say?
+
+MUD4_MCS2_8 = ~z~I'm trying to say...
+
+MUD4_MCS2_9 = ~z~ you give me twenty five percent kick back...
+
+MUD4_MCS2_10 = ~z~and I won't say nothing to nobody.
+
+MUD4_MCS2_11 = ~z~Everything alright here?
+
+MUD4_MCS2_12 = ~z~Excuse me?
+
+MUD4_MCS2_13 = ~z~Sure, I'll excuse you...
+
+MUD4_MCS2_14 = ~z~for twenty five percent.
+
+MUD4_MCS2_15 = ~z~Do you want me to put another hole in your head?
+
+MUD4_MCS2_16 = ~z~Folks swing for rustling livestock.
+
+MUD4_MCS2_17 = ~z~Twenty five percent.
+
+MUD4_MCS2_18 = ~z~Fifteen.
+
+MUD4_MCS2_19 = ~z~Twenty.
+
+MUD4_MCS2_20 = ~z~Eighteen.
+
+MUD4_MCS2_21 = ~z~Done.
+
+MUD4_MCS2_22 = ~z~Calm yourself, friend.
+
+MUD4_MCS2_23 = ~z~Just think of it as...
+
+MUD4_MCS2_24 = ~z~I'm buying your sins.
+
+MUD4_MCS2_25 = ~z~You're buying, but we're paying.
+
+MUD4_MCS2_26 = ~z~Go on, now.
+
+MUD4_MCS2_LI_1 = ~z~There you go.
+
+MUD4_MCS3_1 = ~z~Gentlemen.
+
+MUD4_MCS3_2 = ~z~Dutch, Leopold.
+
+MUD4_MCS3_3 = ~z~Where have you been?
+
+MUD4_MCS3_4 = ~z~Working...
+
+MUD4_MCS3_5 = ~z~Marston's thing.
+
+MUD4_MCS3_6 = ~z~Good...
+
+MUD4_MCS3_7 = ~z~and?
+
+MUD4_MCS3_8 = ~z~We're just waiting to get some pay on...
+
+MUD4_MCS3_9 = ~z~a few sheep.
+
+MUD4_MCS3_10 = ~z~Leopold, my good friend...
+
+MUD4_MCS3_11 = ~z~as long as you're here...
+
+MUD4_MCS3_12 = ~z~why don't you and John go make sure...
+
+MUD4_MCS3_13 = ~z~there ain't no funny business.
+
+MUD4_MCS3_14 = ~z~Of course.
+
+MUD4_MCS3_15 = ~z~Gentlemen.
+
+MUD4_MCS3_16 = ~z~Drink?
+
+MUD4_MCS3_17 = ~z~Sure.
+
+MUD4_MCS3_18 = ~z~Nothing like talking to old Strauss to make you...
+
+MUD4_MCS3_19 = ~z~want to blow your own brains out.
+
+MUD4_MCS3_20 = ~z~I should have left him where I found him all those years ago.
+
+MUD4_MCS3_21 = ~z~Bookish little Austrian fresh off the boat, his eyes out on stalks.
+
+MUD4_MCS3_22 = ~z~Well, I guess the...
+
+MUD4_MCS3_23 = ~z~Dutch van der Linde finishing school has some strange graduates.
+
+MUD4_MCS3_24 = ~z~That it does.
+
+MUD4_MCS3_25 = ~z~To your good health.
+
+MUD4_MCS3_26 = ~z~Thank you.
+
+MUD4_MCS3_27 = ~z~Van der Linde!
+
+MUD4_MCS3_28 = ~z~Get out here.
+
+MUD4_MCS3_29 = ~z~Get out here now!~n~~m~What the hell...
+
+MUD4_MCS3_30 = ~z~Van der Linde!
+
+MUD4_MCS3_31 = ~z~You don't know me...
+
+MUD4_MCS3_32 = ~z~but you keep robbing me.
+
+MUD4_MCS3_33 = ~z~My name is Leviticus Cornwall.
+
+MUD4_MCS3_34 = ~z~I am not a man to be messed with by the likes of you.
+
+MUD4_MCS3_35 = ~z~Get out here, before I have these men killed!
+
+MUD4_MCS3_36 = ~z~What do you think?
+
+MUD4_MCS3_37 = ~z~Get out here you...~n~~m~Well, I..
+
+MUD4_MCS3_38 = ~z~depraved piece of trash!
+
+MUD4_MCS3_39 = ~z~You start spinning a yarn and...
+
+MUD4_MCS3_40 = ~z~when I think the moment's right...
+
+MUD4_MCS3_41 = ~z~ I'll make a move.~n~~m~You think I got where I am...
+
+MUD4_MCS3_42 = ~z~by letting scum like you...~n~~m~Why not.
+
+MUD4_MCS3_43 = ~z~rob from me?
+
+MUD4_MCS3_44 = ~z~Van der Linde, you're done.
+
+MUD4_MCS3_45 = ~z~Now get out here, now!
+
+MUD4_MCS3_46 = ~z~Deal with this nonsense.
+
+MUD4_MCS3_47 = ~z~Please, gentlemen, this is a terrible mistake.
+
+MUD4_MCS3_48 = ~z~This is a case...
+
+MUD4_MCS3_49 = ~z~of mistaken identity.
+
+MUD4_MCS3_50 = ~z~What is worse...
+
+MUD4_MCS3_51 = ~z~than admonishing a man...
+
+MUD4_MCS3_52 = ~z~for the sins...
+
+MUD4_MCS3_53 = ~z~of another?
+
+MUD4_MCS3_LI_1_1 = ~z~Not everything... but, in the end,
+
+MUD4_MCS3_LI_1_2 = ~z~I don't believe in absolutes, just shades of gray.
+
+MUD4_MCS3_LI_1_3 = ~z~Compromises.
+
+MUD4_MCS3_LI_1_4 = ~z~Compromising?
+
+MUD4_MCS3_LI_1_5 = ~z~Well I have never been a man for ~rp~compromise, and I fear at my age I am ~rp~too old ~rp~to change.
+
+MUD4_MCS3_LI_2_1 = ~z~Gentlemen.
+
+MUD4_MCS3_LI_2_2 = ~z~Dutch, Leopold.
+
+MUD4_MCS3_LI_2_3 = ~z~Where have you been?
+
+MUD4_MCS4_1 = ~z~You make sure nobody's following us.
+
+MUD4_MCS4_2 = ~z~We'll get back to camp.
+
+MUD4_MCS4_3 = ~z~We're gonna gather the troops...
+
+MUD4_MCS4_4 = ~z~and get 'em to start packing up.
+
+MUD4_MCS4_5 = ~z~Sure...
+
+MUD4_MCS4_6 = ~z~we can't stick around after this.
+
+MUD4_MCS4_7 = ~z~You make sure nobody's following us.
+
+MUD4_MCS4_8 = ~z~We'll get back to camp...
+
+MUD4_MCS4_9 = ~z~and we'll have his terrifying wound tended to.
+
+MUD4_MCS4_10 = ~z~Sure...
+
+MUD4_MCS4_11 = ~z~just don't bleed out on us.
+
+MUD4_MCS4_12 = ~z~Let's go.
+
+MUD4_MORECOMING_01 = ~z~Here come more of 'em!
+
+MUD4_MORECOMING_02 = ~z~More coming in!
+
+MUD4_MOUNTUP_1 = ~z~Alright, let's go round 'em up.
+
+MUD4_MOVEUP_01 = ~z~Let's move up!
+
+MUD4_MOVEUP_02 = ~z~Push up, stay with me!
+
+MUD4_NOBUY_1 = ~z~You got it?
+
+MUD4_NOBUY_2 = ~z~Nope.
+
+MUD4_NOBUY_3 = ~z~~sl:0.0:1.2~Why the hell not?~sl:0.4~Come on, Morgan, we don't have time for this.
+
+MUD4_NOHERD_01 = ~z~Are you giving up on this already?
+
+MUD4_NOHERD_02 = ~z~Come on, let's get this flock moving.
+
+MUD4_NOHERD_03 = ~z~Are you doing this or not?
+
+MUD4_NOHERD_04 = ~z~For Christ's sake. Get 'em moving, Morgan.
+
+MUD4_NOMONEY_1 = ~z~I'm gonna have to take this on... credit.
+
+MUD4_NOMONEY_2 = ~z~~sl:0.3:0.0~Well, no, wait, we ain't even discussed terms.
+
+MUD4_NOMONEY_3 = ~z~Or I can take it in a way that... ain't so polite?
+
+MUD4_NOMONEY_4 = ~z~Okay, okay, fine, you can... pay me later.
+
+MUD4_NOMOUNT_01 = ~z~Mount up, let's go.
+
+MUD4_NOMOUNT_02 = ~z~What are you waiting for?
+
+MUD4_NOMOUNT_03 = ~z~Morgan, come on. Let's get going.
+
+MUD4_OFFROAD_01 = ~z~We'll cut across here.
+
+MUD4_OFFROAD_02 = ~z~Come on, over this way.
+
+MUD4_ONFOOT_01 = ~z~What are you doing?
+
+MUD4_ONFOOT_02 = ~z~Get back here!
+
+MUD4_ONFOOT_03 = ~z~Morgan! We can't do this on foot.
+
+MUD4_OVERBANT2SHOUTED_1 = ~z~~sl:0.0:1.2~So...~lr:0.3:2.6~ I'm thinking that the herd'll make it to auction alright, but...~rp~ ~sl:0.4~a couple of new ranch hands'll be collecting on the sale.
+
+MUD4_OVERBANT2SHOUTED_4 = ~z~~sl:0.0:1.8~Reckon we shouldn't get too close,~lr:0.4~least, not till we know what we're dealing with.
+
+MUD4_OVERBANT2SPOKEN_1 = ~z~~sl:0.0:1.2~So I'm thinking,~sl:0.2:2.5~that the herd'll make it to auction alright, but,~rp~~sl:0.3~a couple of new ranch hands'll be collecting on the sale.
+
+MUD4_OVERBANT2SPOKEN_4 = ~z~~sl:0.0:1.6~Reckon we shouldn't get too close,~lr:0.3~least not till we know what we're dealing with.
+
+MUD4_OVERBANT2_2 = ~z~Doubt the town will care to notice too much.
+
+MUD4_OVERBANT2_3 = ~z~Why we need this rifle you couldn't buy yourself?
+
+MUD4_OVERBANTSHOUTED_4 = ~z~~sl:0.0:2.8~I had a run-in with that feller earlier.~lr:0.4~We ain't on the best of terms.
+
+MUD4_OVERBANTSHOUTED_5 = ~z~~sl:0.0:1.4~You had a run-in?~lr:0.2~I've had a run-in with half that town.
+
+MUD4_OVERBANTSHOUTED_6 = ~z~~sl:0.0:1.2~Calm down...~lr:0.4~it's done now, ain't it?
+
+MUD4_OVERBANTSHOUTED_10 = ~z~~sl:0.0:1.8~No, you ain't.~lr:0.5~If you say the boy ain't yours, what's the difference?
+
+MUD4_OVERBANTSHOUTED_12 = ~z~~sl:0.0:3.2~Why are you so interested in my life?~sl:0.1~Ain't you got one of your own?
+
+MUD4_OVERBANTSHOUTED_13 = ~z~~sl:0.0:2.4~Just do one thing or another,~sl:~not be two people at once, that's all I'm saying.
+
+MUD4_OVERBANTSHOUTED_14 = ~z~~sl:0.0:1.8~It ain't that simple.~lr:~You know that as well as anyone.
+
+MUD4_OVERBANTSHOUTED_15 = ~z~~sl:0.0:3.4~Same as with you and that girl, what was her name...~sl:0.4~Mary?
+
+MUD4_OVERBANTSHOUTED_17 = ~z~~sl:0.0:1.3~No, it ain't,~lr:0.3~just the same.
+
+MUD4_OVERBANTSHOUTED_18 = ~z~~sl:0.0:1.3~Anyway, for the love of God,~sl:0.1:2.1~will you tell me what you got me doing here~sl:~before I turn around and hit the breeze?
+
+MUD4_OVERBANTSHOUTED_19 = ~z~~sl:0.0:2.3~There's a herd of sheep coming down~sl:~to auction from Emerald Ranch.
+
+MUD4_OVERBANTSHOUTED_20 = ~z~~sl:0.0:2.3~Folk in town's saying that the owner's trying~sl:~to stamp out every farm from here to Annesburg.
+
+MUD4_OVERBANTSPOKEN_4 = ~z~~sl:0.0:2.5~I had a run-in with that feller earlier.~lr:0.2~We ain't on the best of terms.
+
+MUD4_OVERBANTSPOKEN_5 = ~z~~sl:0.0:1.2~You had a run-in? ~lr:~I've had a run-in with half that town.
+
+MUD4_OVERBANTSPOKEN_6 = ~z~~sl:0.0:1.2~Calm down...~lr:0.2~it's done now, ain't it?
+
+MUD4_OVERBANTSPOKEN_10 = ~z~~sl:0.0:1.7~No, you ain't.~lr:0.3~If you say the boy ain't yours, what's the difference?
+
+MUD4_OVERBANTSPOKEN_12 = ~z~~sl:0.0:2.8~Why are you so interested in my life?~sl:0.4~Ain't you got one of your own?
+
+MUD4_OVERBANTSPOKEN_13 = ~z~~sl:1.1:2.3~Just do one thing or another,~sl:~not be two people at once, that's all I'm saying.
+
+MUD4_OVERBANTSPOKEN_14 = ~z~~sl:0.0:1.2~It ain't that simple.~lr:0.6~You know that as well as anyone.
+
+MUD4_OVERBANTSPOKEN_15 = ~z~~sl:0.0:1.8~Same as with you and that girl,~sl:0.6:1.0~what was her name...~sl:~Mary?
+
+MUD4_OVERBANTSPOKEN_17 = ~z~~sl:0.0:1.2~No, it ain't,~lr:0.3~just the same.
+
+MUD4_OVERBANTSPOKEN_18 = ~z~~sl:0.0:1.4~Anyway, for the love of God,~sl:0.0:1.9~will you ~rp~tell me what you got me doing here~sl:~before I turn around and hit the breeze?
+
+MUD4_OVERBANTSPOKEN_19 = ~z~~sl:0.0:1.7~There's a herd of sheep coming down~sl:~to auction from Emerald Ranch.
+
+MUD4_OVERBANTSPOKEN_20 = ~z~~sl:0.0:1.8~Folk in town were saying that the owner's trying~sl:~to stamp out every farm from here to Annesburg.
+
+MUD4_OVERBANT_1 = ~z~Why couldn't you have done that?
+
+MUD4_OVERBANT_2 = ~z~Done what?
+
+MUD4_OVERBANT_3 = ~z~Bought that gun.
+
+MUD4_OVERBANT_7 = ~z~Why are you being so cagey about all this?
+
+MUD4_OVERBANT_8 = ~z~Always playing some goddamn game.
+
+MUD4_OVERBANT_9 = ~z~~sl:0.0:1.0~Me?~lr:0.3~I ain't the one taking Jack on fishing trips.
+
+MUD4_OVERBANT_11 = ~z~You'll probably only run off again.
+
+MUD4_OVERBANT_16 = ~z~That was different.
+
+MUD4_OVERBANT_21 = ~z~Yeah, I know that place.
+
+MUD4_POIS_1 = ~z~Looks like one of them don't scare too easy.
+
+MUD4_POIS_2 = ~z~Put another shot in close, he'll get the message.
+
+MUD4_RANSH_01 = ~z~What the hell are you shooting at?
+
+MUD4_RANSH_02 = ~z~What are you doing? You're gonna spook 'em.
+
+MUD4_RANSH_03 = ~z~What are you shooting for?
+
+MUD4_RESPOND_01 = ~z~You ain't helping.
+
+MUD4_RESPOND_02 = ~z~Shut your mouth.
+
+MUD4_RESPOND_03 = ~z~Enough with the yapping.
+
+MUD4_RESPOND_04 = ~z~You just watch out for wolves.
+
+MUD4_RESPOND_05 = ~z~This'll go a lot faster if you shut up, Marston.
+
+MUD4_RESPOND_06 = ~z~Christ, you're annoying...
+
+MUD4_ROUNDUP_1 = ~z~~sl:0.0:1.7~Alright, I think we got them all.~sl:0.6~Let's head for town.
+
+MUD4_ROUTE_1 = ~z~Quickest route back to Valentine is right round that mountain.
+
+MUD4_ROUTE_2 = ~z~Okay, like I said, I'll handle this.
+
+MUD4_SAL_GO_1 = ~z~Dutch is waiting for us at the saloon.
+
+MUD4_SAL_GO_2 = ~z~He is?
+
+MUD4_SCATTER_1 = ~z~They're pretty scattered. Let's get them all rounded up.
+
+MUD4_SCRATCH_1 = ~z~
+
+MUD4_SCRATCH_2 = ~z~It's just a scratch, shut up!
+
+MUD4_SCRATCH_3 = ~z~You can talk. We all heard you whine about a little knick from a wolf.
+
+MUD4_SCRATCH_4 = ~z~Would you shut up and kill these bastards?
+
+MUD4_SETOFF_01 = ~z~Alright, follow me.
+
+MUD4_SETOFF_02 = ~z~Let's do this then, come on.
+
+MUD4_SHOT2_1 = ~z~Or ignore me and shoot right at 'em.
+
+MUD4_SHOT2_2 = ~z~Worked, didn't it?
+
+MUD4_SHOT_1 = ~z~Was that necessary?
+
+MUD4_SHOT_2 = ~z~Got the job done.
+
+MUD4_SKY_01 = ~z~What the hell are you shooting at?
+
+MUD4_SKY_02 = ~z~Shoot at them, not the sky.
+
+MUD4_SKY_03 = ~z~What the hell, Morgan? They're not flying.
+
+MUD4_STANDBYAB_01 = ~z~I'd put a little distance between you and this herd if I were you.
+
+MUD4_STANDBYAB_02 = ~z~We shook on eighteen, I believe?
+
+MUD4_STANDBYAB_03 = ~z~Can't pay you till they're sold now, can I?
+
+MUD4_STAND_CLR_01 = ~z~Hurry up, Arthur, let's get outta here.
+
+MUD4_STAND_CLR_02 = ~z~Get him on the horse, and let's go.
+
+MUD4_STAND_CLR_03 = ~z~~sl:0.0:0.9~Arthur, come on!~sl:0.1~What the hell are you doing?
+
+MUD4_STOPCARRY_01 = ~z~Why are we stopped?
+
+MUD4_STOPCARRY_02 = ~z~Hurry. Let's go.
+
+MUD4_STOPCARRY_03 = ~z~Oh God, why aren't you moving?
+
+MUD4_STOW_1 = ~z~Put Strauss on the back of John's horse and let's get out of here.
+
+MUD4_STRAGG_01 = ~z~Watch them runners.
+
+MUD4_STRAGG_02 = ~z~Look out, we're losing some.
+
+MUD4_STRAGG_03 = ~z~Keep 'em together.
+
+MUD4_STRAGG_04 = ~z~There's some getting away.
+
+MUD4_STRAGG_05 = ~z~Round up the stragglers.
+
+MUD4_STRAGG_06 = ~z~You got some dawdlers, Arthur.
+
+MUD4_STRAUSHELD_01 = ~z~~sl:1.2:0.0~Never again.
+
+MUD4_STRAUSHELD_02 = ~z~Just get us out of here.
+
+MUD4_STRAUSHELD_03 = ~z~~sl:0.5:0.0~A quiet drink? I get shot.
+
+MUD4_STRAUSHELD_04 = ~z~Where, wh-where did they all come from?
+
+MUD4_STRAUSHELD_05 = ~z~I, I just want this to be over.
+
+MUD4_STRAUSHELD_06 = ~z~Hurry, hurry please.
+
+MUD4_STRAUSHURT_01 = ~z~Shit!
+
+MUD4_STRAUSHURT_02 = ~z~Oh, God!
+
+MUD4_STRAUSHURT_03 = ~z~Goddamn it!
+
+MUD4_STRAUSHURT_04 = ~z~This is insane!
+
+MUD4_STRAUSHURT_05 = ~z~I'm a sitting duck!
+
+MUD4_SUCCESS_01 = ~z~That oughta do it.
+
+MUD4_SUCCESS_02 = ~z~Yep, that spooked 'em alright.
+
+MUD4_TOWAGON_01 = ~z~Come on, let's get to that wagon!
+
+MUD4_TOWAGON_02 = ~z~Let's go! Head for that wagon!
+
+MUD4_TO_SAL_1 = ~z~Eighteen percent? ~rp~I thought we was doing the robbing here.
+
+MUD4_TO_SAL_2 = ~z~Still good money.
+
+MUD4_TO_SAL_3 = ~z~Thanks... for all the help with this. ~rp~Can't herd, can't swim...
+
+MUD4_TO_SAL_4 = ~z~Give it a rest, will you? ~rp~We ain't kids no more.
+
+MUD4_TO_SAL_5 = ~z~We never really was.
+
+MUD4_TRAMPLE_01 = ~z~You're trampling 'em.
+
+MUD4_TRAMPLE_02 = ~z~Watch where you're riding.
+
+MUD4_TRAMPLE_03 = ~z~What are you riding over'em for?
+
+MUD4_TRAMPLE_04 = ~z~Hey! Don't stomp all over'em.
+
+MUD4_WAGCOVER_1 = ~z~Get behind the wagon as we push, Arthur. You can use it as cover.
+
+MUD4_WAGDIST_01 = ~z~You're going to get yourself killed over there!
+
+MUD4_WAGDIST_02 = ~z~Arthur, shoot from behind here! You're wide open!
+
+MUD4_WAGDIST_03 = ~z~What are you doing, Arthur? Stay behind the wagon!
+
+MUD4_WAGDIST_04 = ~z~What are you doing, Arthur?
+
+MUD4_WAGON_1_1 = ~z~What are we doing?
+
+MUD4_WAGON_1_2 = ~z~Getting out of here!
+
+MUD4_WAGON_2_1 = ~z~This is madness!
+
+MUD4_WAGON_2_2 = ~z~You're on the front line now, Mr. Strauss!
+
+MUD4_WAG_3_1 = ~z~I can't do this!
+
+MUD4_WAG_3_2 = ~z~Least you ain't pushing this thing!
+
+MUD4_WALK2_1 = ~z~So where are we going?
+
+MUD4_WALK2_2 = ~z~Just need to pick up something.
+
+MUD4_WARNSHOT_1 = ~z~Go on, give them a warning shot, something close enough to make them cut and run.
+
+MUD4_WAY_01 = ~z~Where are you taking 'em?
+
+MUD4_WAY_02 = ~z~We're taking 'em to Valentine, right?
+
+MUD4_WAY_03 = ~z~You're going the wrong... way.
+
+MUD4_WELL_01 = ~z~That's it.
+
+MUD4_WELL_02 = ~z~There you go.
+
+MUD4_WELL_03 = ~z~Now you got it.
+
+MUD4_WELL_04 = ~z~That's more like it.
+
+MUD4_WRONG_01 = ~z~Hey, this way.
+
+MUD4_WRONG_02 = ~z~Just follow me.
+
+MUD4_WRONG_03 = ~z~Where are you going?
+

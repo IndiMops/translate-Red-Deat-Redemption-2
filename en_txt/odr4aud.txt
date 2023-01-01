@@ -1,0 +1,516 @@
+ODR4_ALLHERE_1 = ~z~Is everyone accounted for?
+
+ODR4_ALLHERE_2 = ~z~I think...
+
+ODR4_ALLHERE_3 = ~z~Hey! I said, "Is everyone accounted for?"
+
+ODR4_ALLHERE_4 = ~z~I don't know! I think!
+
+ODR4_ANGRY_SADI_1 = ~z~We need you in the house, Mrs. Adler.
+
+ODR4_ANGRY_SADI_2 = ~z~Oh no they don't!
+
+ODR4_ARTH_ARVE_1 = ~z~Sadie?
+
+ODR4_ARTH_BACK_1 = ~z~Now, we go back...
+
+ODR4_ARTH_HOLD_1 = ~z~Hold in here. And stay away from the windows.
+
+ODR4_ARTH_OUT_1 = ~z~Arthur!
+
+ODR4_ARTH_SEES_1 = ~z~~sl:0.0:0.7~Sadie!~sl:2.7~Sadie?
+
+ODR4_ARTH_STAIR_1 = ~z~Goddamn crap...
+
+ODR4_ARTH_STAIR_2 = ~z~Colm O'Damn Driscoll!
+
+ODR4_A_BACK_01 = ~z~Damn, damn.
+
+ODR4_A_BACK_02 = ~z~What in hell?
+
+ODR4_A_SHOUT_1 = ~z~What in God's name is going on? We're overrun.
+
+ODR4_A_SHOUT_2 = ~z~Just keep shooting!
+
+ODR4_CALLTOSADI_01 = ~z~Sadie! Sadie, I'm coming!
+
+ODR4_CALLTOSADI_02 = ~z~Hold on, girl!
+
+ODR4_CALLTOSADI_03 = ~z~Hold on!
+
+ODR4_CALLTOSADI_04 = ~z~Mrs. Adler!
+
+ODR4_CHAR_FIGHT_01 = ~z~We weren't ready!
+
+ODR4_CHAR_FIGHT_02 = ~z~They're all over us!
+
+ODR4_C_BACK_01 = ~z~Back to the house, come on!
+
+ODR4_C_BACK_02 = ~z~Fall back! Fall back!
+
+ODR4_C_COVER_1 = ~z~This ain't good, Arthur.
+
+ODR4_C_COVER_2 = ~z~Don't think, just fight. It's all we can do.
+
+ODR4_C_DIG_IN_01 = ~z~Dig in, I've seen more out past the tree line.
+
+ODR4_C_DIG_IN_02 = ~z~There's more of them out there. I keep seeing movement!
+
+ODR4_C_HORSES_1 = ~z~Horsemen!
+
+ODR4_C_HORSES_2 = ~z~
+
+ODR4_C_INFRONT_01 = ~z~They're coming from the front!
+
+ODR4_C_INFRONT_02 = ~z~They're right in front of us!
+
+ODR4_C_OUT_1 = ~z~You okay?
+
+ODR4_C_OUT_2 = ~z~Charles, come on!
+
+ODR4_C_WAGON_01 = ~z~Wagon! Wagon!
+
+ODR4_C_WAGON_02 = ~z~Look! Wagon!
+
+ODR4_D_BARR2_01 = ~z~Arthur, move that bookcase. Come on.
+
+ODR4_D_BARR2_02 = ~z~The bookcase, son. Get the door blocked!
+
+ODR4_D_BARR_01 = ~z~Everyone stay calm. We need something in front of that door.
+
+ODR4_D_BARR_02 = ~z~Get them doors barricaded!
+
+ODR4_EXT_1 = ~z~Cowards!
+
+ODR4_EXT_2 = ~z~We okay?
+
+ODR4_EXT_3 = ~z~I think so...
+
+ODR4_EXT_4 = ~z~except for Kieran here.
+
+ODR4_EXT_5 = ~z~Poor kid.
+
+ODR4_EXT_6 = ~z~Mr. Swanson...
+
+ODR4_EXT_7 = ~z~would you take this boy and bury him...
+
+ODR4_EXT_8 = ~z~someplace near, but...
+
+ODR4_EXT_9 = ~z~not too near.
+
+ODR4_EXT_10 = ~z~Of course.
+
+ODR4_EXT_11 = ~z~Charles, help me with the body.
+
+ODR4_EXT_12 = ~z~We need to get this place cleaned up.
+
+ODR4_EXT_13 = ~z~Mr. Pearson!
+
+ODR4_EXT_14 = ~z~Miss Grimshaw!
+
+ODR4_EXT_15 = ~z~Already taking care of it.
+
+ODR4_EXT_16 = ~z~Come on now, work!
+
+ODR4_EXT_17 = ~z~Colm O'Driscoll...
+
+ODR4_EXT_18 = ~z~That man can really hate.
+
+ODR4_EXT_19 = ~z~So can I, Arthur...
+
+ODR4_EXT_20 = ~z~so can I.
+
+ODR4_EXT_21 = ~z~We need to get moving.
+
+ODR4_EXT_22 = ~z~Away from here.
+
+ODR4_EXT_23 = ~z~So we should start looking for another camp?
+
+ODR4_EXT_24 = ~z~You ain't thinking big enough, Arthur.
+
+ODR4_EXT_25 = ~z~You ain't seeing the vastness of our problems...
+
+ODR4_EXT_26 = ~z~and our opportunities.
+
+ODR4_EXT_27 = ~z~I'm not sure I get you.
+
+ODR4_EXT_28 = ~z~You will, son.
+
+ODR4_EXT_29 = ~z~You will.
+
+ODR4_EXT_30 = ~z~Meet me near the trolley station.
+
+ODR4_EXT_31 = ~z~We got work.
+
+ODR4_EXT_32 = ~z~Shall we?
+
+ODR4_EXT_33 = ~z~Yep.
+
+ODR4_EXT_VO_HH_1 = ~z~He saved my life and I could not save his.
+
+ODR4_EXT_VO_HH_2 = ~z~Mrs. Adler fought braver than any of us.
+
+ODR4_EXT_VO_HH_3 = ~z~She is driven by powerful forces I scarcely understand.
+
+ODR4_EXT_VO_HH_4 = ~z~That's what love has done to her I guess.
+
+ODR4_EXT_VO_LH_1 = ~z~Kieran, that poor kid we spared from O'Driscoll's gang up in the mountains is dead.
+
+ODR4_EXT_VO_LH_2 = ~z~They chopped his head off, and tried to kill the lot of us.
+
+ODR4_EXT_VO_LH_3 = ~z~Whole place gives me the creeps.
+
+ODR4_FIGHT_ARVE_1 = ~z~Hold here! Hold here!
+
+ODR4_FIGHT_ARVE_2 = ~z~Any more casualties?
+
+ODR4_FIGHT_ARVE_3 = ~z~Just Kieran... at the moment.
+
+ODR4_FIGHT_ARVE_4 = ~z~Let's try and keep it there.
+
+ODR4_FIGHT_DOOR_1 = ~z~Don't let anyone back through that door!
+
+ODR4_FIGHT_SITU_1 = ~z~What's happening out here? Everyone okay?
+
+ODR4_FIGHT_SITU_2 = ~z~Everyone but Kieran...
+
+ODR4_FIGHT_SITU_3 = ~z~Just get down and try and hold them off.
+
+ODR4_GETSADIE_01 = ~z~I got you, go find her!
+
+ODR4_GETSADIE_02 = ~z~Get out there, she's in trouble!
+
+ODR4_GETSADIE_03 = ~z~I'm covering! Go on now.
+
+ODR4_HELPSADIE_1 = ~z~
+
+ODR4_HELPSADIE_2 = ~z~~sl:0.0:0.9~That's Sadie...~sl:~I gotta go help her. Cover me!
+
+ODR4_HELPTHEM1_1 = ~z~Arthur... we need your gun down there.
+
+ODR4_HELPTHEM3_1 = ~z~Arthur, they need help, get down there.
+
+ODR4_HELPTHEM4_1 = ~z~Arthur! Get down there and help them.
+
+ODR4_IG1_1 = ~z~~sl:0.0:0.7~Pa!~sl:2.0:0.7:1~Pa!
+
+ODR4_IG1_2 = ~z~Jack, no!
+
+ODR4_IG1_3 = ~z~Jack!
+
+ODR4_IG1_4 = ~z~Stay there.
+
+ODR4_IG2_1 = ~z~
+
+ODR4_IG2_2 = ~z~What's happening?
+
+ODR4_IG2_3 = ~z~O'Driscolls. Get upstairs, it'll be safer up there.
+
+ODR4_IG2_4 = ~z~You too, Mr. Pearson.
+
+ODR4_IG3_1 = ~z~Get inside, fast. Come on, quick!
+
+ODR4_IG4_1 = ~z~
+
+ODR4_IG4_2 = ~z~
+
+ODR4_IG4_3 = ~z~
+
+ODR4_IG4_4 = ~z~
+
+ODR4_IG5_1 = ~z~Why didn't you get inside?
+
+ODR4_IG5_2 = ~z~~sl:4.0:1.4:1~And miss all this?
+
+ODR4_IG5_3 = ~z~~sl:0.5~Come on, Arthur.
+
+ODR4_IG6_1 = ~z~Bastards!
+
+ODR4_IG6_2 = ~z~
+
+ODR4_IG7_1 = ~z~Follow me.
+
+ODR4_IG8_PISTOL_1 = ~z~Arthur... go on.
+
+ODR4_IG8_RIFLE_1 = ~z~Arthur now... go on.
+
+ODR4_IG9_1 = ~z~Get those doors barricaded, quick.
+
+ODR4_IG9_2 = ~z~
+
+ODR4_IG9_3 = ~z~~sl:0.0:1.9~Good. Now everyone, I got this.~sl:~Get these windows covered quickly...
+
+ODR4_IG9_4 = ~z~John, you take the windows over there.
+
+ODR4_IG9_5 = ~z~Charles, you take the side door there.
+
+ODR4_IG9_6 = ~z~Arthur, you take the windows in the back... go.
+
+ODR4_INT_1 = ~z~How are you?
+
+ODR4_INT_2 = ~z~Been quite a journey since I...
+
+ODR4_INT_3 = ~z~well, since I joined you fellers.
+
+ODR4_INT_4 = ~z~Yes...
+
+ODR4_INT_5 = ~z~And now you and Dutch have joined high society?
+
+ODR4_INT_6 = ~z~My Lord above.
+
+ODR4_INT_7 = ~z~Yeah, it seems so...
+
+ODR4_INT_8 = ~z~I think my days in polite society are over.
+
+ODR4_INT_9 = ~z~Well...
+
+ODR4_INT_10 = ~z~I just saw Bill Williamson at a party at the...
+
+ODR4_INT_11 = ~z~Saint Denis' mayor's house.
+
+ODR4_INT_12 = ~z~If he can do it, anyone can.
+
+ODR4_INT_13 = ~z~You get any leads?
+
+ODR4_INT_14 = ~z~Yeah, I think so.
+
+ODR4_INT_15 = ~z~You know so, Arthur Morgan...
+
+ODR4_INT_16 = ~z~come on, we need to talk.
+
+ODR4_INT_17 = ~z~Mrs. Adler will you excuse us?
+
+ODR4_INT_18 = ~z~When you gonna let me come robbing with you, Dutch?
+
+ODR4_INT_19 = ~z~My Lord, few more like her...
+
+ODR4_INT_20 = ~z~we could take over the whole world.
+
+ODR4_INT_21 = ~z~Few more like her...
+
+ODR4_INT_22 = ~z~there wouldn't be much of a world left.
+
+ODR4_INT_23 = ~z~Yes, perhaps.
+
+ODR4_INT_24 = ~z~Now...
+
+ODR4_INT_25 = ~z~the trolley bus station...
+
+ODR4_INT_26 = ~z~I went down there...
+
+ODR4_INT_27 = ~z~I took a look at it...
+
+ODR4_INT_28 = ~z~I think we can hit it.
+
+ODR4_INT_29 = ~z~I ain't never robbed in a city before.
+
+ODR4_INT_30 = ~z~Yeah, well you leave the planning to me.
+
+ODR4_INT_31 = ~z~You'll ride with me?
+
+ODR4_INT_32 = ~z~Always.
+
+ODR4_INT_33 = ~z~Is it just you and me?
+
+ODR4_INT_34 = ~z~No, we'll need one more, I reckon.
+
+ODR4_INT_35 = ~z~I say Lenny.
+
+ODR4_INT_36 = ~z~Not Micah?
+
+ODR4_INT_37 = ~z~Well that depends if you want a massacre or a pay day.
+
+ODR4_INT_38 = ~z~Now I wish that there was something I could do...
+
+ODR4_INT_39 = ~z~to make the two of you get along better.
+
+ODR4_INT_40 = ~z~Well that's easy...
+
+ODR4_INT_41 = ~z~make him change.
+
+ODR4_INT_42 = ~z~Very funny.
+
+ODR4_INT_43 = ~z~What is that?
+
+ODR4_INT_44 = ~z~It's Kieran!
+
+ODR4_INT_45 = ~z~What the hell have they done to him?
+
+ODR4_INT_46 = ~z~Look, there in the tree line.
+
+ODR4_INT_47 = ~z~Everybody take cover!
+
+ODR4_INT_48 = ~z~O'Driscoll boys are coming!
+
+ODR4_INT_LEADIN_1 = ~z~How you doing, Mrs. Adler?
+
+ODR4_JOHN_FIGHT_01 = ~z~There's so many of them!
+
+ODR4_JOHN_FIGHT_02 = ~z~Goddamn this!
+
+ODR4_J_COVER_1 = ~z~Jack was out here.
+
+ODR4_J_COVER_2 = ~z~Now he's in there. He's safe.
+
+ODR4_J_COVER_3 = ~z~S-Shit.
+
+ODR4_J_DAMN_1 = ~z~Damn Kieran. Should never have taken that O'Driscoll in.
+
+ODR4_J_DAMN_2 = ~z~Shut up, Marston. You see what happened to him?
+
+ODR4_J_HORSES_01 = ~z~Horse, on the left!
+
+ODR4_J_HORSES_02 = ~z~Look out, left! They're on horseback.
+
+ODR4_J_INFRONT_01 = ~z~They're over here. On this side.
+
+ODR4_J_INFRONT_02 = ~z~I got a whole bunch of them in front of me.
+
+ODR4_J_SIDES_1 = ~z~How's that side?
+
+ODR4_J_SIDES_2 = ~z~Busy! How's yours?
+
+ODR4_J_SIDES_3 = ~z~About the same!
+
+ODR4_MCS1_1 = ~z~Get those doors barricaded, quick.
+
+ODR4_MCS1_2 = ~z~Good...
+
+ODR4_MCS1_3 = ~z~Now everyone, I got this...
+
+ODR4_MCS1_4 = ~z~get these windows covered quickly...
+
+ODR4_MCS1_5 = ~z~John, you take the windows over there...
+
+ODR4_MCS1_6 = ~z~Charles, you take the side door there...
+
+ODR4_MCS1_7 = ~z~Arthur, you take the windows in the back...
+
+ODR4_MCS1_8 = ~z~go.
+
+ODR4_MOREBOATS_01 = ~z~Hey, more boats!
+
+ODR4_MOREBOATS_02 = ~z~More of them there, in the water!
+
+ODR4_S2_OBJ1_1 = ~z~Women and children, inside.
+
+ODR4_S2_OBJ1_2 = ~z~Rest of you, hold your ground!
+
+ODR4_S4_OBJ1_1 = ~z~We're getting overwhelmed! Fall back to the house!
+
+ODR4_S4_OBJ1_2 = ~z~Falling back!
+
+ODR4_S4_PROMPT1_01 = ~z~Arthur! Come on, we're covering!
+
+ODR4_S4_PROMPT1_02 = ~z~Don't be a hero! Come back.
+
+ODR4_S4_PROMPT1_03 = ~z~Arthur!
+
+ODR4_S6_OBJ1_1 = ~z~
+
+ODR4_S6_OBJ1_2 = ~z~That's Mrs. Adler.
+
+ODR4_S6_OBJ1_3 = ~z~She's still out there!
+
+ODR4_S6_OBJ1_4 = ~z~Cover me!
+
+ODR4_S6_OBJ1_5 = ~z~Okay.
+
+ODR4_S8_BANT1_1 = ~z~Over there, they're in a skiff!
+
+ODR4_S8_BANT1_2 = ~z~Sadie...
+
+ODR4_S8_BANT2_01 = ~z~Back toward the house, alright? They need us!
+
+ODR4_S8_BANT2_02 = ~z~They need us at the house, Morgan!
+
+ODR4_S8_BANT3_01 = ~z~You with me or what?
+
+ODR4_S8_BANT3_02 = ~z~What you doing, Mr. Morgan?
+
+ODR4_S8_BANT3_03 = ~z~Hey, I thought we were in this together!
+
+ODR4_SADIESCRM_01 = ~z~
+
+ODR4_SADIESCRM_02 = ~z~
+
+ODR4_SADIESCRM_03 = ~z~
+
+ODR4_SADIE_ATTK_01 = ~z~Get them!
+
+ODR4_SADIE_ATTK_02 = ~z~There!
+
+ODR4_SADIE_ATTK_03 = ~z~Shoot!
+
+ODR4_SADIE_ATTK_04 = ~z~Bastards!
+
+ODR4_SADIE_FGHT_01 = ~z~You'll die in this bayou!
+
+ODR4_SADIE_FGHT_02 = ~z~Pig fuckers!
+
+ODR4_SADIE_FGHT_03 = ~z~This what you came for?
+
+ODR4_SADIE_FGHT_04 = ~z~Die, why don't you?
+
+ODR4_SEE_CHRLES_1 = ~z~Charles!
+
+ODR4_SEE_CHRLES_2 = ~z~Arthur. Mrs. Adler?
+
+ODR4_SEE_CHRLES_3 = ~z~Mr. Smith!
+
+ODR4_SEE_CHRLES_4 = ~z~We got'em running!
+
+ODR4_SEE_CHRLES_5 = ~z~We do.
+
+ODR4_SHOUT_CHA_01 = ~z~Look out!
+
+ODR4_SHOUT_CHA_02 = ~z~We'll break them!
+
+ODR4_SHOUT_CHA_03 = ~z~Keep pushing!
+
+ODR4_SHOUT_CHA_04 = ~z~Come on!
+
+ODR4_SHOUT_DTC_01 = ~z~Run! Run!
+
+ODR4_SHOUT_DTC_02 = ~z~You failed here! Run!
+
+ODR4_SHOUT_SAD_01 = ~z~Cowards!
+
+ODR4_SHOUT_SAD_02 = ~z~Cowards! The all of ya!
+
+ODR4_SWAP_CHARL_01 = ~z~Charles, I'll take this side. Yeah.
+
+ODR4_SWAP_CHARL_02 = ~z~Charles, I got this now. Okay?
+
+ODR4_SWAP_CHARL_03 = ~z~Look out. I'm covering this now.
+
+ODR4_SWAP_C_OK_01 = ~z~Sounds good.
+
+ODR4_SWAP_C_OK_02 = ~z~Okay.
+
+ODR4_SWAP_C_OK_03 = ~z~Fine by me.
+
+ODR4_SWAP_DUTCH_01 = ~z~You're good, Dutch. I'll cover this.
+
+ODR4_SWAP_DUTCH_02 = ~z~I'm gonna take this. They need you back there.
+
+ODR4_SWAP_DUTCH_03 = ~z~I can cover this, Dutch. Look after everyone.
+
+ODR4_SWAP_D_OK_01 = ~z~Thank you, son.
+
+ODR4_SWAP_D_OK_02 = ~z~Hold them back!
+
+ODR4_SWAP_D_OK_03 = ~z~We fight to the end.
+
+ODR4_SWAP_JOHN_01 = ~z~Move, John. I'll take here.
+
+ODR4_SWAP_JOHN_02 = ~z~I got this, John. Move on.
+
+ODR4_SWAP_JOHN_03 = ~z~I'll cover this side, okay?
+
+ODR4_SWAP_J_OK_01 = ~z~Fine.
+
+ODR4_SWAP_J_OK_02 = ~z~Yes, sir.
+
+ODR4_SWAP_J_OK_03 = ~z~Whatever you say.
+

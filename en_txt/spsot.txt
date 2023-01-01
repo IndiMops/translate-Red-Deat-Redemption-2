@@ -1,0 +1,8 @@
+SPSOT_ARE_JOKE = Antagonize
+
+SPSOT_NO = No
+
+SPSOT_NOT_JOKE = Defuse
+
+SPSOT_YES = Yes
+

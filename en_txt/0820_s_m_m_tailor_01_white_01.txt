@@ -1,0 +1,258 @@
+0x0033954F = ~z~Hey now, there's no reason to act like that.
+
+0x0463E709 = ~z~Hey now, you are not supposed to be here.
+
+0x04B1452E = ~z~Well, hey! I think that feller might've just picked your pocket.
+
+0x050B9BD1 = ~z~Well, sure.
+
+0x05D87903 = ~z~Once you try that one on, you'll know for sure.
+
+0x06BCF58E = ~z~Please don't.
+
+0x0768C1BC = ~z~I know your true colors. I will be watching you closely.
+
+0x0B51D38D = ~z~Hey now, this is a very foolish thing to do, you hear me?
+
+0x0E8531F2 = ~z~Why are you doing that to them?
+
+0x1A7F17DA = ~z~Okay. I'll speak not a word of this, I swear.
+
+0x1BCFA2DB = ~z~Was this your doing?
+
+0x1E51648E = ~z~Hey now. Please stop that.
+
+0x1F2E19A0 = ~z~Please, mind your step.
+
+0x1F4A3547 = ~z~I'm willing to forgive what happened, as long as you're willing to never act like that again.
+
+0x1FF60E05 = ~z~Okay, stay calm, I'll give you everything in the register.
+
+0x2A2C60B7 = ~z~This is all I have to give, I swear.
+
+0x2C56E310 = ~z~What in the world are you after?
+
+0x2D07D0C2 = ~z~I'm capable of leaving the past where it is, as long as you can behave like a decent person.
+
+0x2EA318A1 = ~z~What happened to decency in this world?
+
+0x2EB0AB7A = ~z~Alright, I'll give you all I have here.
+
+0x3D4C412C = ~z~The law needs to handle this.
+
+0x3F24E1A9 = ~z~I barely have enough to scrape by as it is, don't do this.
+
+0x4A56BD5D = ~z~I won't stand for this kind of talk.
+
+0x4AC145B9 = ~z~Hey, hey now, you don't need to do that to them.
+
+0x4D22CADA = ~z~Please, please, I don't have anything on me.
+
+0x4DCFD57E = ~z~There is not a single funny thing about that, get out of my shop.
+
+0x4FFA9741 = ~z~Leave me the hell alone.
+
+0x5B1A7013 = ~z~What the hell are you thinking? Get out of my store.
+
+0x5D70A184 = ~z~Fine. Fine. It's yours.
+
+0x6B75E738 = ~z~Would you please move?
+
+0x6BAB875F = ~z~I will make you pay for this in blood.
+
+0x6BAD76E0 = ~z~What are you waiting for, the money's all there?
+
+0x6E1ED3C3 = ~z~You're back, welcome.
+
+0x6E249EBA = ~z~Y'know, I have better things to do than to pay attention to you.
+
+0x7A0A5F4F = ~z~Did you have something to do with this?
+
+0x7AB450AB = ~z~Do be careful now.
+
+0x7B0EE7DD = ~z~I've had all of you I can stand, you need to leave.
+
+0x7FD3D1DF = ~z~It's yours, whatever you want, just don't shoot me.
+
+0x8A56C65E = ~z~You have all the money, just go already.
+
+0x8AA7717E = ~z~I'll remember your face, you animal.
+
+0x8E867927 = ~z~Alright, alright, just take the money out of the register there.
+
+0x9AAC9639 = ~z~I'm telling you, you need to stop right now.
+
+0x9AB565AA = ~z~I'm not just going to let you get away with this.
+
+0x9F80E7B0 = ~z~That is no way to speak to someone.
+
+0x16B99F50 = ~z~That's enough from you. Now, please, get out right now.
+
+0x19D414C3 = ~z~You animal.
+
+0x37B81820 = ~z~Now why would you speak to me like that?
+
+0x37F9A02A = ~z~You can't do that to people, you hear?
+
+0x50D5126E = ~z~There. You're ruining me, I hope you know.
+
+0x50E505FC = ~z~You will pay for this, damn it.
+
+0x52B6B399 = ~z~This is not a comfortable distance for me.
+
+0x52BA8850 = ~z~Fine. Fine. Consider it forgotten, alright?
+
+0x59CB9A3A = ~z~Here, here, just take it.
+
+0x61E21005 = ~z~Do you really want a thrashing from me?
+
+0x68CAC8E1 = ~z~You get away from me, right now, damn it.
+
+0x77E1B234 = ~z~You aren't even worth my attention.
+
+0x97A1905C = ~z~No, no. How could you do that?
+
+0x125FBC84 = ~z~Business is good, it's nice to see people still appreciate some fine clothing.
+
+0x198AB7A5 = ~z~I have a feeling I shouldn't be flattered by your staring.
+
+0x250C13F0 = ~z~I won't stand for any more violence in my shop.
+
+0x538E6DB0 = ~z~I need the law.
+
+0x543D2C36 = ~z~Someone help, I'm being robbed.
+
+0x544D4E80 = ~z~Whoa there, there's no call for that.
+
+0x615BB8C6 = ~z~Okay. This is as fast as I can go.
+
+0x1658DD47 = ~z~I've got nothing for you.
+
+0x2481E0C8 = ~z~Well, there's good business coming in. And that never hurts.
+
+0x3104BD4D = ~z~You should look where you're walking.
+
+0x4368E2ED = ~z~Okay, okay, all the money is in the register.
+
+0x5272BE48 = ~z~Now hold on, there is no cause for that kind of behavior.
+
+0x5485EB7D = ~z~I am finished wasting my time on you.
+
+0x6967C393 = ~z~Here, please, just leave me be.
+
+0x6982C201 = ~z~If you need a nice place to try on your own clothes, my changing room is available.
+
+0x7866C384 = ~z~That man just robbed you, I saw it. Get after him!
+
+0x8848A5C5 = ~z~I'm hanging on, but just barely. Maybe people don't care about looking good these days.
+
+0x8860F420 = ~z~Don't do this, you'll ruin this establishment.
+
+0x36339A19 = ~z~That's enough, now you leave me alone, right now.
+
+0x48813EB4 = ~z~Now stop all this, you just leave me be.
+
+0x53161C3B = ~z~Alright, alright. I'm doing my best here.
+
+0x78504CD0 = ~z~You'll get yours one day, you thief.
+
+0x78558E87 = ~z~I hope you can at least pretend to be decent this time.
+
+0x563367C1 = ~z~We'll never make it if things continue like this.
+
+0xA83A3154 = ~z~I'm serious now, stop that.
+
+0xA7073CF9 = ~z~You're welcome to try out your wardrobe in the changing room.
+
+0xAFB54CBE = ~z~How about you try it on and then decide?
+
+0xB013881C = ~z~Whoa there, now you need to stop.
+
+0xB5D3E32C = ~z~Good to have you back.
+
+0xB61C1DEC = ~z~Are you looking to humiliate me more, just leave.
+
+0xB234EECE = ~z~What do you want from me?
+
+0xBBA6ACEF = ~z~Hello, welcome.
+
+0xBC3292EF = ~z~Okay then, hello again.
+
+0xBD07C3E5 = ~z~Don't you dare cause any more trouble in here, you hear me?
+
+0xBFE13176 = ~z~Are you looking humiliate me more, just leave.
+
+0xC2B7DAC6 = ~z~Just take what you want, alright? No need to kill me.
+
+0xC3B0D399 = ~z~You were very close to death just then, you hear me?
+
+0xC7E1E51A = ~z~No one needs to die over this. Take what you want.
+
+0xC7FC5966 = ~z~I will shoot you if I must, damn it.
+
+0xC69C7169 = ~z~You will not get away with this.
+
+0xC81D1E8F = ~z~Hey now, I must insist that you put that gun down.
+
+0xC153D3DD = ~z~I can't just let this happen, damn it.
+
+0xCB7734C9 = ~z~You had better not go causing any more problems for us.
+
+0xCC210595 = ~z~Could I interest you in trying that one on?
+
+0xCE43D229 = ~z~Hello, come on in.
+
+0xCE4565F8 = ~z~Do you really want to be shot right now?
+
+0xD048244E = ~z~There's a robbery here, help.
+
+0xD07DB62E = ~z~Well, things are slower than I like at the shop.
+
+0xD07DD3E7 = ~z~You won't be robbing from me again. I'll be making sure of that.
+
+0xD4AECF59 = ~z~Hey, hey, hey, we don't need to escalate here, alright?
+
+0xD28D7650 = ~z~I can't stand for this, to hell with you.
+
+0xD963A01A = ~z~You won't know for sure until you try it on.
+
+0xD15130D0 = ~z~This is a little... intimate for me.
+
+0xD3563501 = ~z~Whoa there, now just put the gun down.
+
+0xD9324423 = ~z~Why not?
+
+0xD9635601 = ~z~You need to leave right way.
+
+0xE0CC773A = ~z~Hello, good to have you.
+
+0xE0F70883 = ~z~Oh no, I need to get the law.
+
+0xE2CC91DC = ~z~I will teach you some manners the hard way, if I must.
+
+0xE2F573AA = ~z~I won't stand for this, stop it right now.
+
+0xE7C0F2BC = ~z~Now, get yourself out of my sight now.
+
+0xE8A28E2F = ~z~Whoa there, you are making a serious mistake doing this.
+
+0xE8F143C0 = ~z~I have decided it's time for you to leave right now, you hear me?
+
+0xEC8650A5 = ~z~I don't enjoy being followed.
+
+0xEDED1795 = ~z~Locals get a discount here, just the neighborly thing to do.
+
+0xEE3576F4 = ~z~We already said hello, didn't we?
+
+0xEEB4A6D6 = ~z~You are about to force my hand. Don't make me kill you.
+
+0xF2B943B4 = ~z~Hey, what do you think you're doing here?
+
+0xF48F5133 = ~z~Don't do this, I beg of you.
+
+0xF837BCB2 = ~z~You are about to receive a vicious beating, you understand?
+
+0xFAC1B13E = ~z~I can see you're from around here, so I'll take a little off the bill for you.
+
+0xFCB8D1DC = ~z~That could've been truly terrible for you.
+

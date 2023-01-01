@@ -1,0 +1,8 @@
+CSW17_ACTION_1 = ~z~~sl:3.1~There's ghosts in the swamp... ghosts, I saw them...
+
+CSW17_ACTION_2 = ~z~There's ghosts in your head, reverend.
+
+CSW17_ACTION_3 = ~z~~sl:0.0:4.3:1~Ghosts... ghosts, I saw a ghost, a young woman!
+
+CSW17_ACTION_4 = ~z~You've lost your mind... you poor bastard.
+

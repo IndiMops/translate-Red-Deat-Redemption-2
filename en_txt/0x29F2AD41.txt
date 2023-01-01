@@ -1,0 +1,132 @@
+0x04D77EE9 = You killed the Harbor Master
+
+0x09843FA6 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~Capitale Stash~s~ to ~COLOR_MP_OBJECTIVE~Martelli's associate~s~
+
+0x0D5684A2 = Your Posse delivered the Saboteur
+
+0x0FA82218 = Capitale Stash lost
+
+0x2DE1DB87 = Drop the ~COLOR_MP_OBJECTIVE_FRIENDLY~Harbor Master~s~
+
+0x4AE0C7ED = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~Harbor Master~s~ ~1~
+
+0x5D596FB1 = Martelli's hired guns have been stealing Capitale for themselves. Track down one of the thieves hiding out near the Saint Denis docks.
+
+0x6E2E9659 = The Saboteur was abandoned
+
+0x7B6A04ED = Find the Saboteur on the ~COLOR_MP_OBJECTIVE~Antenor~s~.
+
+0x7E6ADC5C = The Harbor Master was delivered
+
+0x7E39F321 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~Harbor Master~s~
+
+0x8DE47F7B = You delivered a Capitale Stash
+
+0x9A20FA36 = Capture the ~COLOR_MP_OBJECTIVE_NEUTRAL~Harbor Master~s~
+
+0x9D25DB6C = Use ~INPUT_INTERACT_LOCKON~ to lock on to the Saboteur ~1b~ and lead them yourself.
+
+0x9E721699 = Collect additional Fire Bottles ~BLIP_WEAPON_MOLOTOV~ to burn the supplies.
+
+0x21E6CC60 = Kill or capture the ~COLOR_MP_OBJECTIVE_ENEMY~thief~s~
+
+0x22C9BBE2 = Use Fire Bottles to ignite the supplies.
+
+0x24B5D61A = Your Posse delivered a Capitale Stash
+
+0x24D0EE68 = Martelli's Saboteur has been caught aboard the Antenor. Board the ship moored in Saint Denis and find him.
+
+0x34A7D28B = Find and rescue the Saboteur
+
+0x38B0D875 = Your Posse delivered the Harbor Master
+
+0x41EE02DC = Protect the ~COLOR_MP_OBJECTIVE_NEUTRAL~Saboteur~s~
+
+0x43FCC85C = Capitale Stash delivered
+
+0x52F9C106 = The ~COLOR_MP_OBJECTIVE_NEUTRAL~Harbor Master~s~ was killed
+
+0x55E94368 = The Saboteur has been delivered
+
+0x67C7A9D3 = The thief has been lying low around the warehouse. Continue searching the area for the thief.
+
+0x80DD94BB = Some supplies were destroyed
+
+0x90CE8906 = Avoid being seen by the guards, or the Saboteur may get hurt.
+
+0x95AB88D4 = You delivered the Saboteur
+
+0x124E8449 = Take the ~COLOR_MP_OBJECTIVE_NEUTRAL~Capitale Stash~s~
+
+0x709A1ED2 = Search the ~COLOR_MP_OBJECTIVE~ship~s~ for the Saboteur
+
+0x746C6094 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~Capitale Stash~s~ to ~COLOR_MP_OBJECTIVE~Martelli's associate~s~
+
+0x5799AC97 = The ~COLOR_MP_OBJECTIVE_FRIENDLY~Saboteur~s~ was killed
+
+0x5973D9E8 = Press ~INPUT_INTERACT_HIT_CARRIABLE~ to hit the Harbor Master and prevent them from escaping.
+
+0x31742A82 = ~1~ delivered a Capitale Stash
+
+0x59611E12 = You are getting too far from the Saboteur ~BLIP_AMBIENT_VIP~. Return to them quickly.
+
+0x61205FAB = ~1~ delivered the Saboteur
+
+0x87100BC1 = Search the warehouse for signs of the thief's hiding place.
+
+0x456676C2 = The Harbor Master has been delivered
+
+0x35042757 = Take out the ~COLOR_MP_OBJECTIVE_ENEMY~interrogators~s~
+
+0x72349872 = Capitale Stash lost
+
+0xA681E96D = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~Harbor Master~s~ ~1~
+
+0xABE32E33 = The Harbor Master was killed
+
+0xAD8BA072 = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~Saboteur~s~ ~1~
+
+0xB330EB06 = ~1~ delivered the Harbor Master
+
+0xB1484AE1 = ~1~ is escorting the Saboteur
+
+0xBB3EBB22 = You killed the Saboteur
+
+0xC3ABD848 = Lure out and kidnap the Harbor Master
+
+0xC4ED46F0 = The Saboteur was killed
+
+0xC5B3B34B = The Saboteur ~1b~ is following you. Lead them to the drop off.
+
+0xC12E592E = Take out the remaining ~COLOR_MP_OBJECTIVE_ENEMY~guards~s~
+
+0xC25BC8E8 = You can only carry one Capitale Stash at a time.
+
+0xC9579BBE = The Saboteur was delivered
+
+0xCFEF162E = Kidnap the Harbor Master ~BLIP_AMBIENT_VIP~ alive for Martelli.
+
+0xCFFBB9EB = Set fire to the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~
+
+0xD9011A8F = Martelli wants you to disrupt his rivals at the docks and kidnap the Harbor Master.
+
+0xDB3E9DED = Take out the ~COLOR_ENEMY~interrogators~s~ and free the Saboteur.
+
+0xE6E2EBFE = Holster weapons and equipment before speaking with Martelli's associate.
+
+0xE7E2C589 = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the thief
+
+0xE537B1DF = The guards have been alerted. Get the Saboteur out of the area before he is killed.
+
+0xE2656CAD = Help take the ~COLOR_MP_OBJECTIVE_FRIENDLY~Saboteur~s~ ~1~
+
+0xE3017E42 = Get on the horse
+
+0xEA4EC5C8 = The thief is fleeing with the Capitale. Catch him before he escapes.
+
+0xEAF253BB = You are escorting the Saboteur
+
+0xF23CC08C = You delivered the Harbor Master
+
+0xF30E2487 = Recover the stolen Capitale
+

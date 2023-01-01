@@ -1,0 +1,40 @@
+FETCH_PRISONER_ASSASSINATION_GOTO = Go to the convoy
+
+FETCH_PRISONER_ASSASSINATION_HELP_INTRO = Intercept the convoy ~1b~ and assassinate the prisoner within the time limit to earn the full reward.
+
+FETCH_PRISONER_ASSASSINATION_HELP_OBJECTIVE_ESCAPING = The prisoner ~1b~ is getting too far away and will soon escape.
+
+FETCH_PRISONER_ASSASSINATION_HELP_OBJECTIVE_ESCAPING_ON_FOOT = The prisoner ~1b~ has escaped from the prison wagon. Take them out before they get away.
+
+FETCH_PRISONER_ASSASSINATION_HELP_REMAINING_ATTACKERS = The prisoner has been assassinated. Take out the remaining ~COLOR_ENEMY~Bounty Hunters~s~.
+
+FETCH_PRISONER_ASSASSINATION_HELP_UNLOCK_VEHICLE_APPROACH = Take out the Bounty Hunters to get to the prisoner ~1b~ inside the wagon.
+
+FETCH_PRISONER_ASSASSINATION_OBJ_DESTROY = Eliminate the ~COLOR_MP_OBJECTIVE_ENEMY~prisoner~s~
+
+FETCH_PRISONER_ASSASSINATION_OBJ_KILL_ATTACKERS = Take out the ~COLOR_ENEMY~Bounty Hunters~s~
+
+FETCH_PRISONER_ASSASSINATION_OBJ_KILL_ATTACKERS_REMAINING = Take out the remaining ~COLOR_ENEMY~Bounty Hunters~s~
+
+FETCH_PRISONER_ASSASSINATION_OBJ_LEAVE_AREA = Leave the ~COLOR_ENEMY~area~s~
+
+FETCH_PRISONER_ASSASSINATION_OBJ_LEAVE_AREA_POSSE = Wait for your Posse to leave the ~COLOR_ENEMY~area~s~
+
+FETCH_PRISONER_ASSASSINATION_SCORETIMER_PRIMARY_PASS = ~1~ killed the prisoner
+
+FETCH_PRISONER_ASSASSINATION_SCORETIMER_PRIMARY_PASS_NP = The prisoner has been killed
+
+FETCH_PRISONER_ASSASSINATION_SCORETIMER_PRIMARY_PASS_YOU = You killed the prisoner
+
+FETCH_PRISONER_ASSASSINATION_SCORETIMER_PRIMARY_PASS_YOUR = Your Posse killed the prisoner
+
+FETCH_PRISONER_ASSASSINATION_SCORETIMER_TRIGGER_ACTION = ~1~ alerted the ~COLOR_ENEMY~Bounty Hunters~s~
+
+FETCH_PRISONER_ASSASSINATION_SHARD_DESC_PRIMARY = Assassinate the ~COLOR_MP_OBJECTIVE_ENEMY~prisoner~s~
+
+FETCH_PRISONER_ASSASSINATION_SHARD_DESC_SECONDARY = Help the prisoner escape assassination
+
+FETCH_PRISONER_ASSASSINATION_SHARD_OVER = Prisoner survived
+
+FETCH_PRISONER_ASSASSINATION_SHARD_PRIMARY_PASS = Prisoner assassinated
+

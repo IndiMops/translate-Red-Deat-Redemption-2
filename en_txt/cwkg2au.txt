@@ -1,0 +1,16 @@
+CWKG2_ACT_1 = ~z~Oh... oh, Arthur... I know what you're thinking...
+
+CWKG2_ACT_2 = ~z~I ain't thinking much.
+
+CWKG2_ACT_3 = ~z~Drunken idiot, that's what you're thinking.
+
+CWKG2_ACT_4 = ~z~I got bigger problems to worry about.
+
+CWKG2_ACT_5 = ~z~Have you, Arthur? Have you? That's nice...
+
+CWKG2_ACT_6 = ~z~good for you... good for you...
+
+CWKG2_ACT_7 = ~z~But Karen... don't do this to yourself, please. You have a choice.
+
+CWKG2_ACT_8 = ~z~Sure... I got a choice, that's nice.
+

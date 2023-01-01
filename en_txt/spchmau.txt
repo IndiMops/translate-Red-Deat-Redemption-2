@@ -1,0 +1,76 @@
+SPCHM_IG1A_1 = ~z~Follow me and be saved!
+
+SPCHM_IG1B_1 = ~z~We shall not be defeated... we shall be saved!
+
+SPCHM_IG1C_1 = ~z~We alone shall be saved. We are Chelonians!
+
+SPCHM_IG1D_1 = ~z~Follow me in silence.
+
+SPCHM_IG1E_1 = ~z~With this shell...
+
+SPCHM_IG1E_2 = ~z~I am safe from all things.
+
+SPCHM_IG1F_1 = ~z~Follow me, sir. Follow me.
+
+SPCHM_IG1F_2 = ~z~Together we can be safe. Follow me.
+
+SPCHM_IG1G_1 = ~z~Chelonia, Chelonia, Chelonia, Chelonia, Chelonia...~n~~m~Chelonia, Chelonia, Chelonia, Chelonia, Chelonia...
+
+SPCHM_IG1G_2 = ~z~Chelonia, Chelonia, Chelonia, Chelonia, Chelonia...~n~~m~Chelonia, Chelonia, Chelonia, Chelonia, Chelonia...
+
+SPCHM_IG1G_3 = ~z~Chelonia, Chelonia, Chelonia, Chelonia, Chelonia...~n~~m~Chelonia, Chelonia, Chelonia, Chelonia, Chelonia...
+
+SPCHM_IG1G_4 = ~z~Chelonia, Chelonia, Chelonia, Chelonia, Chelonia...~n~~m~Chelonia, Chelonia, Chelonia, Chelonia, Chelonia...
+
+SPCHM_IG1G_5 = ~z~Chelonia, Chelonia, Chelonia, Chelonia, Chelonia...~n~~m~Chelonia, Chelonia, Chelonia, Chelonia, Chelonia...
+
+SPCHM_IG1G_6 = ~z~Chelonia, Chelonia, Chelonia, Chelonia, Chelonia...~n~~m~Chelonia, Chelonia, Chelonia, Chelonia, Chelonia...
+
+SPCHM_IG1G_7 = ~z~Chelonia, Chelonia, Chelonia, Chelonia, Chelonia...~n~~m~Chelonia, Chelonia, Chelonia, Chelonia, Chelonia...
+
+SPCHM_IG1G_8 = ~z~Chelonia, Chelonia, Chelonia, Chelonia, Chelonia...~n~~m~Chelonia, Chelonia, Chelonia, Chelonia, Chelonia...
+
+SPCHM_IG1H_1 = ~z~Chelonia, Chelonia.~n~~m~Chelonia, Chelonia.
+
+SPCHM_IG1H_2 = ~z~Chelonia.
+
+SPCHM_IG1H_3 = ~z~Chelonia, Chelonia.~n~~m~Chelonia, Chelonia.
+
+SPCHM_IG1H_4 = ~z~Chelonia!
+
+SPCHM_IG1H_5 = ~z~Chelonia! Chelonia!~n~~m~Chelonia! Chelonia!
+
+SPCHM_IG1I_1 = ~z~Chelonia, Chelonia.~n~~m~Chelonia, Chelonia.
+
+SPCHM_IG1I_2 = ~z~Chelonia.
+
+SPCHM_IG1I_3 = ~z~Chelonia, Chelonia.~n~~m~Chelonia, Chelonia.
+
+SPCHM_IG1I_4 = ~z~Chelonia!
+
+SPCHM_IG1I_5 = ~z~Chelonia! Chelonia!~n~~m~Chelonia! Chelonia!
+
+SPCHM_IG1J_1 = ~z~Chelonia, Chelonia.~n~~m~Chelonia, Chelonia.
+
+SPCHM_IG1J_2 = ~z~Chelonia.
+
+SPCHM_IG1J_3 = ~z~Chelonia, Chelonia.~n~~m~Chelonia, Chelonia.
+
+SPCHM_IG1J_4 = ~z~Chelonia.
+
+SPCHM_IG1J_5 = ~z~Chelonia. Chelonia.~n~~m~Chelonia. Chelonia.
+
+SPCHM_IG2A_1 = ~z~Follow me... follow me... follow me to Chelonia!
+
+SPCHM_IG2B2_1 = ~z~Chelonia!
+
+SPCHM_IG2B3_1 = ~z~Chelonia!
+
+SPCHM_IG2B4_1 = ~z~Chelonia!
+
+SPCHM_IG2B5_1 = ~z~Chelonia!
+
+SPCHM_IG2B_1 = ~z~Chelonia!
+
+SPCHM_JOHN_1 = ~z~Chelonia!
+

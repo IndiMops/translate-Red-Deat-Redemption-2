@@ -1,0 +1,24 @@
+CAB17_ACTA_1 = ~z~~sl:0.8:3.5:1~You are a silly, silly man. You really are.
+
+CAB17_ACTA_2 = ~z~
+
+CAB17_ACTA_3 = ~z~~sl:0.3:3.6~Eaten by wolves. Never heard such a ridiculous idea.~sl:0.4:~Who gets themselves eaten by wolves? I mean really, who?
+
+CAB17_ACTA_4 = ~z~~sl:1.3:0.0~I didn't mean to, Abigail.
+
+CAB17_ACTA_5 = ~z~~sl:0.5:0.0~You never mean to but you always do. Always... trouble.
+
+CAB17_ACTBINT_1 = ~z~~sl:0.3:0.0~The better part of me wishes you let those poor creatures eat him.
+
+CAB17_ACTBINT_2 = ~z~~sl:0.9:0.0~Me too.
+
+CAB17_ACTBINT_3 = ~z~~sl:0.4:3.3:1~You see, John? Everyone finds you annoying.
+
+CAB17_ACTB_1 = ~z~Well, I've certainly made my mistakes.
+
+CAB17_ACTB_2 = ~z~What's that supposed to mean?
+
+CAB17_ACTB_3 = ~z~Whatever you want it to.
+
+CAB17_ACTB_4 = ~z~You are an annoying man, John Marston. You just shut up and get some rest.
+

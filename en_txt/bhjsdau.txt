@@ -1,0 +1,74 @@
+JFIN_SD_01 = ~z~The police department is being modernized. We're going to try and arrest our own criminals. So, don't expect any more bounties here for a while.
+
+JFIN_SD_02 = ~z~I hope my men can do as good a job on these outlaws as you have... arrests around here are being made by deputies from now on. No more bounties in St Denis, I'm afraid.
+
+JFRT_SD_01 = ~z~Money is still there. Take it and get on.
+
+JFRT_SD_02 = ~z~Forgot the money, huh? That's the most important part.
+
+JMRE_SD_01 = ~z~We endeavor to be hard on crime in St Denis. They'll be another bounty poster up in no time, believe me.
+
+JMRE_SD_02 = ~z~With an increase in population comes an increase in criminality, I'm afraid. Look out for another poster on that wall.
+
+JMRE_SD_03 = ~z~No shortage of outlaws in St Denis. You'll find another poster up if you come back here soon.
+
+JMRE_SD_04 = ~z~I wish I could say we'd rid St Denis of the criminal element, but they'll be another poster up there post haste.
+
+JPAY_SDA_01 = ~z~Gracious of you.
+
+JPAY_SDA_02 = ~z~Looks right.
+
+JPAY_SDA_03 = ~z~That's it.
+
+JPAY_SDA_04 = ~z~I'm worth every penny.
+
+JPAY_SDJ_01 = ~z~Gracious of you.
+
+JPAY_SDJ_02 = ~z~Looks right.
+
+JPAY_SDJ_03 = ~z~That's it.
+
+JPAY_SDJ_04 = ~z~I'm worth every penny.
+
+JPAY_SD_01 = ~z~That's what they're worth, and not a penny more.
+
+JPAY_SD_02 = ~z~I make good on my promises, here's your payment.
+
+JPAY_SD_03 = ~z~From the city of St. Denis to you, sir, with thanks.
+
+JRAL_SD0_1 = ~z~I said throw 'em in a cell.
+
+JRDE_SD0_01 = ~z~The corpse cart is at the back of the station. Avail yourself.
+
+JRDE_SD0_02 = ~z~Please. Take that body outside.
+
+JRDE_SD0_03 = ~z~Once you put the body out back, we'll pay you. Don't worry.
+
+JRDE_SD1_01 = ~z~The body's getting a little high, don't you think.
+
+JRDE_SD1_02 = ~z~If you can kill it, you can take it outside.
+
+JRDE_SD1_03 = ~z~Come on, bounty hunter. Get it out of here.
+
+JRPY_SD_01 = ~z~You don't want your money?
+
+JRPY_SD_02 = ~z~You leaving this for me?
+
+JRPY_SD_03 = ~z~You forgot your reward, come on now!
+
+NBX_REBNT_GRTJA_1 = ~z~This one here is wanted, I believe.
+
+NBX_REBNT_GRTJA_2 = ~z~Well, you have come to the right location. If you wouldn't mind laying our guest down in his new abode, I will see to your remuneration.
+
+NBX_REBNT_GRTJB_1 = ~z~Got a bounty. This the place for him?
+
+NBX_REBNT_GRTJB_2 = ~z~Ah, yes, I was curious if I'd lay eyes on this snake. Set down him in the cell, and I'll see to your reward.
+
+NBX_REBNT_GRT_A_1 = ~z~Wrangled up a bounty for you. Interested?
+
+NBX_REBNT_GRT_A_2 = ~z~Well, you have come to the right location. If you wouldn't mind laying our guest down in his new abode, I will see to your remuneration.
+
+NBX_REBNT_GRT_B_1 = ~z~Got a bounty. This the place for him?
+
+NBX_REBNT_GRT_B_2 = ~z~Ah, yes, I was curious if I'd lay eyes on this snake. Set down him in the cell, and I'll see to your reward.
+

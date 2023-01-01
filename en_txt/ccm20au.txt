@@ -1,0 +1,30 @@
+CCM20_ACTA_1 = ~z~
+
+CCM20_ACTA_2 = ~z~How you keeping, Abigail?
+
+CCM20_ACTA_3 = ~z~Just fine.
+
+CCM20_ACTA_4 = ~z~I never... I never told you this. But...
+
+CCM20_ACTA_5 = ~z~you're quite a woman.
+
+CCM20_ACTA_6 = ~z~Thank you.
+
+CCM20_ACTA_7 = ~z~Quite a woman...
+
+CCM20_ACTA_8 = ~z~You could make a feller real happy... bet you know how.
+
+CCM20_ACTBALT_1 = ~z~I got work to do.
+
+CCM20_ACTBALT_2 = ~z~You're a sneaky one, Morgan... I know your type.
+
+CCM20_ACTBALT_3 = ~z~Don't mind me.
+
+CCM20_ACTBALT_4 = ~z~Bye now.
+
+CCM20_ACTB_1 = ~z~I got work to do.
+
+CCM20_ACTB_2 = ~z~Oh, don't mind me.
+
+CCM20_ACTB_3 = ~z~Bye now.
+

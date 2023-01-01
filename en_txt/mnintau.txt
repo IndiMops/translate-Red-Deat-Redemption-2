@@ -1,0 +1,236 @@
+MNINT_MOON_EXT_1 = ~z~Well, I am happy to say we are officially in business.
+
+MNINT_MOON_EXT_2 = ~t~In French: Come with me.
+
+MNINT_MOON_EXT_3 = ~z~I will show you... the engine room.
+
+MNINT_MOON_EXT_4 = ~z~Thank you for your intervention the other day...
+
+MNINT_MOON_EXT_5 = ~z~that was turning into a rather unpleasant experience.
+
+MNINT_MOON_EXT_6 = ~z~So, here we are.
+
+MNINT_MOON_EXT_7 = ~z~Nice and private.
+
+MNINT_MOON_EXT_8 = ~z~For obvious reasons, huh?
+
+MNINT_MOON_EXT_9 = ~z~There she is!
+
+MNINT_MOON_EXT_10 = ~z~Our still.
+
+MNINT_MOON_EXT_11 = ~z~A beauty, huh?
+
+MNINT_MOON_EXT_12 = ~z~Since I've been told that you are new in the business...
+
+MNINT_MOON_EXT_13 = ~z~I was thinking you might need some friendly mentorship.
+
+MNINT_MOON_EXT_14 = ~z~Illicit distillation is a very unique pursuit.
+
+MNINT_MOON_EXT_15 = ~z~Ah, but what is most important...
+
+MNINT_MOON_EXT_16 = ~z~are the ingredients for the mash.
+
+MNINT_MOON_EXT_17 = ~z~The more successful a business is...
+
+MNINT_MOON_EXT_18 = ~z~the better the price we can negotiate for those ingredients.
+
+MNINT_MOON_EXT_19 = ~z~Just as we will the more unsuccessful our competitors are.
+
+MNINT_MOON_EXT_20 = ~z~But that side of things is more...
+
+MNINT_MOON_EXT_21 = ~z~the area of expertise of Madame Fike.
+
+MNINT_MOON_EXT_22 = ~z~Anyway, some of our buyers are very exacting...
+
+MNINT_MOON_EXT_23 = ~z~when it comes to tastes and flavors.
+
+MNINT_MOON_EXT_24 = ~z~So, we will need to adjust our recipes to the demand over time.
+
+MNINT_MOON_EXT_25 = ~z~Attention.
+
+MNINT_MOON_EXT_26 = ~z~A stronger alcohol sells for more.
+
+MNINT_MOON_EXT_27 = ~z~As you can imagine.
+
+MNINT_MOON_EXT_28 = ~z~But it also takes longer to produce.
+
+MNINT_MOON_EXT_29 = ~z~So, that is that something else we will need to uh...
+
+MNINT_MOON_EXT_30 = ~z~balance, huh?
+
+MNINT_MOON_EXT_31 = ~z~Well, that's enough for now.
+
+MNINT_MOON_EXT_32 = ~z~Let's get to work.
+
+MNINT_MOON_EXT_33 = ~z~I have a feeling you are going to learn fast.
+
+MNINT_MOON_INT_1 = ~z~You must be Cripps' friend.
+
+MNINT_MOON_INT_2 = ~z~I'll try not to hold that against you.
+
+MNINT_MOON_INT_3 = ~z~The name's Maggie.
+
+MNINT_MOON_INT_4 = ~z~Thanks for coming.
+
+MNINT_MOON_INT_5 = ~z~She's back!
+
+MNINT_MOON_INT_6 = ~z~Jesus, what are you doing?
+
+MNINT_MOON_INT_7 = ~z~It's me!
+
+MNINT_MOON_INT_8 = ~z~What the hell?
+
+MNINT_MOON_INT_9 = ~z~I missed didn't I?
+
+MNINT_MOON_INT_10 = ~z~Don't come in like a bull through the fence next time...
+
+MNINT_MOON_INT_11 = ~z~you old fool.
+
+MNINT_MOON_INT_12 = ~z~Your friend here managed to get it right.
+
+MNINT_MOON_INT_13 = ~z~'Lightning' Maggie Fike.
+
+MNINT_MOON_INT_14 = ~z~We all thought you were dead.
+
+MNINT_MOON_INT_15 = ~z~Yeah? So did I.
+
+MNINT_MOON_INT_16 = ~z~I guess you'll be wanting a drink?
+
+MNINT_MOON_INT_17 = ~z~Come on, gimme a hand.
+
+MNINT_MOON_INT_18 = ~z~Biggest mistake of my life...
+
+MNINT_MOON_INT_19 = ~z~not marrying this woman when I had the chance.
+
+MNINT_MOON_INT_20 = ~z~Yeah, you always did have a colorful memory of things.
+
+MNINT_MOON_INT_21 = ~z~Anyway, it's too late now.
+
+MNINT_MOON_INT_22 = ~z~As you can see, I have gone and hit my prime.
+
+MNINT_MOON_INT_23 = ~z~Well, I heard what happened with Hixon.
+
+MNINT_MOON_INT_24 = ~z~Evil son of a bitch.
+
+MNINT_MOON_INT_25 = ~z~Where you... where you been all this time?
+
+MNINT_MOON_INT_26 = ~z~Recovering.
+
+MNINT_MOON_INT_27 = ~z~Lying low.
+
+MNINT_MOON_INT_28 = ~z~Couldn't barely get out of bed for six months.
+
+MNINT_MOON_INT_29 = ~z~And your nephew?
+
+MNINT_MOON_INT_30 = ~z~Lem?
+
+MNINT_MOON_INT_31 = ~z~Still in jail, as far as I know.
+
+MNINT_MOON_INT_32 = ~z~You seen Danny-Lee yet?
+
+MNINT_MOON_INT_33 = ~z~Oh yeah, I've seen him...
+
+MNINT_MOON_INT_34 = ~z~cooking for the Braithwaites now.
+
+MNINT_MOON_INT_35 = ~z~Guess me and him, we're done.
+
+MNINT_MOON_INT_36 = ~z~Well, there's always Marcel?
+
+MNINT_MOON_INT_37 = ~z~Heard he's not working for LeClerk anymore.
+
+MNINT_MOON_INT_38 = ~z~Feller's a windbag, but he knows his way around a still.
+
+MNINT_MOON_INT_39 = ~z~Yeah, maybe...
+
+MNINT_MOON_INT_40 = ~z~feels like it'd be much easier for everyone if I just stayed gone.
+
+MNINT_MOON_INT_41 = ~z~But life ain't about being easy.
+
+MNINT_MOON_INT_42 = ~z~I am taking back what's mine.
+
+MNINT_MOON_INT_43 = ~z~I need legs though, and I need muscle.
+
+MNINT_MOON_INT_44 = ~z~Well, you'll get that with this one and more...
+
+MNINT_MOON_INT_45 = ~z~I promise you.
+
+MNINT_MOON_INT_46 = ~z~I wouldn't send you nothing but the best, Maggie.
+
+MNINT_MOON_INT_47 = ~z~The two of us already got a nice little business going.
+
+MNINT_MOON_INT_48 = ~z~Long as you know...
+
+MNINT_MOON_INT_49 = ~z~it won't be pretty.
+
+MNINT_MOON_INT_50 = ~z~I don't do pretty no more.
+
+MNINT_MOON_INT_51 = ~z~So, what's the buy-in?
+
+MNINT_MOON_INT_52 = ~z~First thing's first, I need a cookhouse.
+
+MNINT_MOON_INT_53 = ~z~What's wrong with this place?
+
+MNINT_MOON_INT_54 = ~z~Been empty for a while now.
+
+MNINT_MOON_INT_55 = ~z~No, I need a good basement.
+
+MNINT_MOON_INT_56 = ~z~I reckon I could try and get...
+
+MNINT_MOON_INT_57 = ~z~one of my old spots back up and running.
+
+MNINT_MOON_INT_58 = ~z~Bastards seized them all after the raid.
+
+MNINT_MOON_INT_59 = ~z~You buy me back one of those...
+
+MNINT_MOON_INT_60 = ~z~I reckon you'll have a fair enough investment.
+
+MNINT_MOON_INT_61 = ~z~Teach you everything I know.
+
+MNINT_MOON_INT_62 = ~z~So, what do you say?
+
+MNINT_MOON_INT_63 = ~z~Believe me, nobody knows more...
+
+MNINT_MOON_INT_64 = ~z~about moonshine than Maggie.
+
+MNINT_MOON_INT_65 = ~z~Listen to her, you'll make that back in no time.
+
+MNINT_MOON_INT_66 = ~z~Come on, the two of you were made for each other.
+
+MNINT_MOON_INT_67 = ~z~Alright then, partners it is.
+
+MNINT_MOON_INT_68 = ~z~You meet me back there when you can, and we'll work...
+
+MNINT_MOON_INT_69 = ~z~out what else it is we need when we get set up.
+
+MNINT_MOON_INT_70 = ~z~Can I offer you a ride, Miss Fike?
+
+MNINT_MOON_INT_71 = ~z~I suppose so.
+
+MNINT_MOON_INT_72 = ~z~Maybe we can stop for a drink on the way?
+
+MNINT_MOON_INT_73 = ~z~We just had a drink.
+
+MNINT_MOON_INT_74 = ~z~I know. Now I want another one.
+
+MNINT_MOON_INT_75 = ~z~Some things don't change...
+
+MNINT_MOON_INT_76 = ~z~Alright...
+
+MNINT_MOON_INT_77 = ~z~why don't I just leave that with you?
+
+MNINT_MOON_INT_78 = ~z~Let you sleep on it.
+
+MNINT_MOON_INT_79 = ~z~But I need to move on that soon.
+
+MNINT_MOON_INT_80 = ~z~Can I offer you a ride, Miss Fike?
+
+MNINT_MOON_INT_81 = ~z~I suppose so.
+
+MNINT_MOON_INT_82 = ~z~Maybe we can stop for a drink on the way?
+
+MNINT_MOON_INT_83 = ~z~We just had a drink.
+
+MNINT_MOON_INT_84 = ~z~I know. Now I want another one.
+
+MNINT_MOON_INT_85 = ~z~Some things don't change...
+

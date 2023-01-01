@@ -1,0 +1,46 @@
+CFHM3_A_1 = ~z~
+
+CFHM3_A_2 = ~z~Mind if I sit?
+
+CFHM3_A_3 = ~z~
+
+CFHM3_A_4 = ~z~~sl:0.0:2.0~Listen, I know I ain't well but,~sl:1.0~ don't pity me.
+
+CFHM3_A_5 = ~z~Envy me!
+
+CFHM3_A_6 = ~z~I've done all a man could want.
+
+CFHM3_A_7 = ~z~~sl:0.0:1.0~My grandfather,~sl:0.3~farmed turnips in some bog in Lincolnshire.
+
+CFHM3_A_8 = ~z~~sl:0.0:3.0~In Lincolnshire which, I'm told, is in England.~sl:~Famous for turnips.
+
+CFHM3_A_9 = ~z~I've never had to eat a turnip in my life!
+
+CFHM3_A_10 = ~z~~sl:0.0:0.8:1~I'm...
+
+CFHM3_A_11 = ~z~I'm a product of this country.
+
+CFHM3_A_12 = ~z~~sl:0.0:2.2~False, true, bad...~sl:1.2~a little good.
+
+CFHM3_A_13 = ~z~Tough!
+
+CFHM3_A_14 = ~z~~sl:0.0:1.2:1~Old...
+
+CFHM3_A_15 = ~z~~sl:0.0:1.5~Don't you worry about me.~sl:1.3~I'm okay.
+
+CFHM3_A_16 = ~z~~sl:0.0:1.6~Ran in a gang for years,~sl:0.4~never earned a legal dollar.
+
+CFHM3_A_17 = ~z~~sl:0.0:1.9~Saw unspeakable evil and~sl:0.3:1.3~remarkable kindness,~sl:~usually from the same folks.
+
+CFHM3_A_18 = ~z~~sl:0.0:1.1~Raised and...~sl:0.4~lost a family.
+
+CFHM3_A_19 = ~z~~sl:0.0:1.6~Saw pretty much the whole country,~sl:0.0:1.5~from Madison Avenue to...~sl:0.4~San Francisco.
+
+CFHM3_A_20 = ~z~Did bad, did good.
+
+CFHM3_A_21 = ~z~~sl:0.0:1.4~Guess I ain't unlucky at all.~sl:~Guess I'm real lucky!
+
+CFHM3_A_22 = ~z~~sl:0.0:1.0~This...~sl:0.5~this is what you're offered.
+
+CFHM3_A_23 = ~z~
+

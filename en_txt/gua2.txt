@@ -1,0 +1,28 @@
+GUA2_FL_CMP = The search area has been abandoned.
+
+GUA2_GANG_ABANDON = The gang was abandoned.
+
+GUA2_GANG_RETURN = Return to the ~o~gang~s~
+
+GUA2_HLP_FD_FR = Search for signs of a campfire to locate your companions.
+
+GUA2_ILO_GTP = Get up
+
+GUA2_ILO_LOK = Look
+
+GUA2_ILO_SMK = Smoke
+
+GUA2_ILO_WLK = Walk
+
+GUA2_OBJ_SERCH = Search the ~o~coast~s~ for any survivors
+
+GUA2_S1_OBJ1 = ~INPUT_MOVE_UP_ONLY~ Walk with the chain gang
+
+GUA2_S3_OBJ1 = Take out the remaining ~e~guards~s~
+
+GUA2_S4_OBJ1 = Remain with the gang
+
+GUA2_S5_OBJ1 = Take out the ~e~guards~s~
+
+GUA2_WRN_CMP = Return to the ~o~coast~s~
+

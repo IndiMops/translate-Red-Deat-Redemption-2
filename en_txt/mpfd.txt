@@ -1,0 +1,568 @@
+0x059F0A55 = Posse Creation
+
+0x0832D618 = ~1p~ ~s~ran you over with a wagon
+
+0x083CAC1B = ~1p~ ~s~killed you with a Hatchet
+
+0x0AE29C4C = ~1p~ ~s~killed ~2p~ ~s~with a fire bottle
+
+0x0F3A43FD = Your bounty has been reduced by ~1$~, the bounty on your head is now ~1$~.
+
+0x1FE2D588 = ~1~ ~s~gained the lead.
+
+0x2C11A7B5 = Posse Left
+
+0x2F054345 = ~1p~ ~s~killed ~2p~ ~s~with a Cleaver
+
+0x2FE1C44F = ~1p~ ~s~killed ~2p~ ~s~with a Machete
+
+0x3A6D843F = Can't join ~1~ at this time
+
+0x3B5E9827 = ~1p~ ~s~killed you with a long scoped rifle
+
+0x3BCB80A0 = ~1p~ ~s~killed ~2p~ ~s~with a repeater
+
+0x4C88A786 = ~1p~ ~s~killed you with a Maxim Gun
+
+0x5A98FEE8 = Your membership in ~1~ is active
+
+0x5AF28878 = ~1p~ ~s~ran you over with a horse
+
+0x5CE26C01 = ~1p~ ~s~killed ~2p~ ~s~with a throwing knife
+
+0x5D92FDC8 = ~1p~ ~2b~ is removing you from the Posse. Survive for 2 minutes to earn XP.
+
+0x6B20D205 = ~1p~ ~s~killed you with an arrow
+
+0x7B50E6D0 = ~1p~ ~s~killed you with a knife
+
+0x8AD74695 = Crew Invite
+
+0x8E67A359 = ~1p~ ~s~killed you with a fire bottle
+
+0x17F33508 = ~1p~ ~s~killed ~2p~ ~s~with a Hatchet
+
+0x20E0791F = ~s~Your Posse has started ~1~. Do you want to join in?
+
+0x33D82561 = Posse Update
+
+0x39FA3C46 = Hold ~INPUT_FEED_INTERACT~ to view details
+
+0x41D6ADCD = ~1p~ ~s~killed you with a Machete
+
+0x45E1E5D1 = ~1p~ ~s~killed you with their bare hands
+
+0x54DA7EA7 = ~1~
+
+0x58A1474B = ~1p~ ~s~killed ~2p~ ~s~with a pistol
+
+0x65FDAEC3 = Your Posse has started ~1~. Hold ~INPUT_FRONTEND_DOWN~ to join in from your Notifications menu.
+
+0x269F55EC = ~1p~ ~s~killed you with a pistol
+
+0x297F859F = ~1~ has become Hostile
+
+0x424E931D = ~1p~ ~s~killed you with a tomahawk
+
+0x770E3F9C = Posse Removal
+
+0x773BF86F = ~1p~ ~s~killed ~2p~ ~s~with a tomahawk
+
+0x839BC7FA = You have been kicked from the Posse
+
+0x958FAA4D = ~1p~ ~s~killed ~2p~ ~s~with a knife
+
+0x3499EDC2 = ~1p~ ~s~killed you with dynamite
+
+0x3687F77E = ~1p~ ~s~killed you with fire
+
+0x6931A95A = ~1p~ ~s~ran over ~2p~ with a horse
+
+0x28722F9A = You left your Persistent Posse
+
+0x34935C0D = ~1p~ ~s~killed you with a Cleaver
+
+0x38838B49 = ~1p~ ~s~killed you with a Gatling Gun
+
+0x42383ADA = You were killed by ~1p~
+
+0x93063E05 = ~1p~ ~s~killed ~2p~ ~s~with fire
+
+0x96920DDF = ~1p~ ~s~killed you with a revolving cannon
+
+0x288403B4 = Mark For Death
+
+0x437748A3 = ~1p~ ~s~killed ~2p~ ~s~with a revolving cannon
+
+0x26292584 = ~1p~ ~s~killed you with a lantern
+
+0xA3F7A80C = You joined crew ~1~
+
+0xA53D125B = ~1p~ ~s~killed ~2p~ ~s~with a long scoped rifle
+
+0xA150CA37 = ~1p~ ~s~killed you with a shotgun
+
+0xA55505C0 = Default
+
+0xA867907F = ~1p~ ~s~killed ~2p~ ~s~with dynamite
+
+0xA4192670 = ~s~ (x~1~)
+
+0xADEC8341 = ~1p~ ~s~killed you with a rifle
+
+0xAEDF54F8 = Posse Race Stake
+
+0xB0FE3F70 = ~1p~ ~s~killed ~2p~ ~s~with a lantern
+
+0xB1F5FE00 = ~1p~ ~s~killed ~2p~ ~s~with a rifle
+
+0xB3C109A7 = ~1p~ ~s~killed ~2p~ ~s~with their bare hands
+
+0xB5E07575 = ~1p~ ~s~killed ~2p~ ~s~with a revolver
+
+0xB1218117 = You paid off your bounty of ~1$~.
+
+0xB4230603 = You are attempting to matchmake with your Persistent Posse
+
+0xCACA6F20 = ~1p~ ~s~killed ~2p~ ~s~with a cannon
+
+0xCC383224 = ~1p~ ~s~killed ~2p~ ~s~with a bottle
+
+0xCD5F6861 = ~1p~ ~2b~ is being removed from the Posse. Eliminate them within the time limit to earn XP.
+
+0xCF202E71 = ~1p~ ~s~killed ~2p~ ~s~with an explosion
+
+0xCFFC99DE = ~1p~ ~s~killed ~2p~ ~s~with a shotgun
+
+0xDDB1B00B = ~1p~ ~s~ran over ~2p~ with a wagon
+
+0xDDEB6AE1 = Posse Active
+
+0xE2FC52E5 = You paid off ~1$~ of your ~1$~ bounty.
+
+0xE5EDDD78 = ~1p~ ~s~killed ~2p~ ~s~with a Gatling Gun
+
+0xE42CFDF9 = ~1$~
+
+0xE81BDC4F = ~1p~ ~s~killed you with a bottle
+
+0xE99D28C1 = ~1p~ ~s~killed ~2p~ ~s~with their bare hands
+
+0xE6444D1E = ~1p~ ~s~killed ~2p~ ~s~with an arrow
+
+0xEDF91E77 = Posse Abandoned
+
+0xEE7E9FC8 = ~1~ has quit and disbanded ~2~
+
+0xF2D1DE86 = ~1p~ ~s~killed you with a cannon
+
+0xF7D11DA0 = ~1p~ ~s~killed you with a throwing knife
+
+0xF8B13CDF = Posse Joined
+
+0xF78A01FA = ~1p~ ~s~killed ~2p~ ~s~with a Maxim Gun
+
+0xF105F6C8 = ~1p~ ~s~killed you with an explosion
+
+0xF189E559 = Posse Race Stake
+
+0xF882F434 = ~1p~ ~s~killed you with a repeater
+
+0xF4387684 = ~1p~ ~s~killed you with a revolver
+
+BECAME_HOSTILE = ~1~ became Hostile
+
+BECAME_PEACEFUL = ~1~ became Defensive
+
+CAMP_SEARCH = Searching for Campsite...
+
+DEFENSIVE_CONFIRMED = ~fg~¦~fo~ Defensive enabled
+
+DEFENSIVE_INITIAL = Defensive will enable in 30 seconds...
+
+HOSTILITY_DECREASE = Hostility Decreased
+
+HOSTILITY_INCREASE = Hostility Increased
+
+HOSTILITY_LEVEL_HIGH = High
+
+HOSTILITY_LEVEL_LOW = Low
+
+HOSTILITY_LEVEL_MEDIUM = Medium
+
+JOIN_AS_POSSE_MEMBER = ~1p~ is joining an activity. You will join as a member of their Posse.
+
+KILLED_LEGENDARY_ANIMAL_SELF = You killed ~1~
+
+MISSION_GANG_INVITE = Your leader has started ~1~. Leave the Posse if you do not wish to join the mission.
+
+MISSION_INVITE_ALL = ~1p~ requests you to join them on the ~2~
+
+MISSION_REQUEST = ~1p~ has requested to start ~2~. Hold ~INPUT_FRONTEND_DOWN~ and enter the Notifications menu to make your choice.
+
+MISSION_REQUEST_APPROVED = Your leader has approved your request to start ~1~
+
+MISSION_REQUEST_DENIED = Your leader has denied your request to start ~1~
+
+NC_CREW_DEMOTION = You were demoted to ~1~ in crew ~2~
+
+NC_CREW_INVITE_SENT = Crew Invite sent to ~1~
+
+NC_CREW_PROMOTION = You were promoted to ~1~ in crew ~2~
+
+NC_CREW_RANK_0 = Leader
+
+NC_CREW_RANK_1 = Commissioner
+
+NC_CREW_RANK_2 = Lieutenant
+
+NC_CREW_RANK_3 = Representative
+
+NC_CREW_RANK_4 = Muscle
+
+NET_ABANDONED_LOOT_CACHE_OPENED = ~1p~ opened a treasure chest
+
+NET_ABANDONED_LOOT_CACHE_OPENED_SELF = You opened a treasure chest
+
+NET_JOIN_FAILED_VS_MISSION = Your Posse could not join ~1~.
+
+NET_JOIN_FAILED_VS_MISSION_NON_POSSE_PLAYER = You could not join ~1~.
+
+NET_JOIN_VS_DEFAULT_NAME = a mission
+
+NET_JOIN_VS_MISSION_FORCED = Your Posse is joining ~1~.
+
+NET_JOIN_VS_MISSION_FORCED_NON_POSSE_PLAYER = You are joining ~1~.
+
+NET_JOIN_VS_MISSION_FULL = Your Posse couldn't join ~1~ because it was full.
+
+NET_JOIN_VS_MISSION_FULL_NON_POSSE_PLAYER = You couldn't join ~1~ because it was full.
+
+NET_JOIN_VS_MISSION_INVITE = Your Posse has been invited to play ~1~.
+
+NET_JOIN_VS_MISSION_INVITE_NON_POSSE_PLAYER = You have been invited to play ~1~.
+
+NET_JOIN_VS_MISSION_KICK_HEADER = Oh no!
+
+NET_JOIN_VS_MISSION_REQUEST = ~1p~ has requested to play ~2~.
+
+NET_SCRIPT_JOIN = ~1~ joined
+
+NET_SCRIPT_LEFT = ~1~ left
+
+NG_CAMPATT = ~1p~ ~s~is requesting you place your Posse's Camp.
+
+NG_CAMPFAI = You are unable to place your Camp here, the terrain is too uneven, or you are too near a town.
+
+NG_CAMPREADY = Posse Camp Ready
+
+NG_CAMPSHUTDOWN = Your Posse Camp is packing up.
+
+NG_CAMP_01 = ~1~ ~s~has placed your Posse's Camp.
+
+NG_CAMP_02 = You have placed your Posse Camp.
+
+NG_CAMP_03 = You have placed your Camp.
+
+NG_CANNOT_SEND_CHALLENGE = You cannot send a feud challenge due to pending challenges. Check notifications as a Posse Member may have requested a feud.
+
+NG_CANNOT_SEND_CHALLENGE_MEMBER = You cannot send a feud challenge due to pending challenges.
+
+NG_CANT_INVITE = Posse invites locked
+
+NG_CANT_JOIN = You can't join a Posse right now
+
+NG_CREATE = You have created a Temporary Posse
+
+NG_DISBAND = ~1~ has been abandoned
+
+NG_FASTTRAVEL_LEADER = You have invited your Posse to fast travel.
+
+NG_FULL = ~1~~s~ is full
+
+NG_FULL_S = Your Posse is full and you can't invite any other players
+
+NG_INVITE_POSSE = Posse Invite
+
+NG_INVITE_SENT_POSSE = Posse Invite sent to ~1~
+
+NG_JOIN_01 = You have joined ~1~ ~s~
+
+NG_JOIN_02 = ~1~ ~s~has joined your Posse
+
+NG_LEADER_ADDED_WAYPOINT = ~COLOR_POSSE_ALLY~~1p~~s~ placed a ~COLOR_POSSE_ALLY~waypoint
+
+NG_LEADER_MOVED_WAYPOINT = ~COLOR_POSSE_ALLY~~1p~~s~ moved the ~COLOR_POSSE_ALLY~waypoint
+
+NG_LEADER_REMOVED_WAYPOINT = ~COLOR_POSSE_ALLY~~1p~~s~ removed the ~COLOR_POSSE_ALLY~waypoint
+
+NG_LEFT_01 = You left ~1~
+
+NG_LEFT_02 = ~1~ has left your Posse
+
+NG_LOBBY_LEAVE_L = You brought ~1~ into Free Roam
+
+NG_LOBBY_LEAVE_M = ~1~ brought ~2~ into Free Roam
+
+NG_ON_MISSION = You can't invite a player while on a mission
+
+NG_POSSE_INACTIVE = ~1~ is no longer your active Posse
+
+NG_POSSE_INVITE_LIMIT = Posse invite limit reached
+
+NG_POSSE_LANDING_FAIL_JON = Unable to join a Persistent Posse at this time.
+
+NG_POSSE_LANDING_FAIL_LEAD = Unable to lead a Persistent Posse at this time.
+
+NG_POSSE_MEMBER_SUB = Posse Member
+
+NG_POSSE_O_INACTIVE = ~1p~ is no longer active in ~2~
+
+NG_PP_CASH = Your Posse take is now ~1~%
+
+NG_PP_CASH_1 = Worst
+
+NG_PP_CASH_2 = Below Average
+
+NG_PP_CASH_3 = Average
+
+NG_PP_CASH_4 = Above Average
+
+NG_PP_CASH_5 = Best
+
+NG_PP_COST = Persistent Posse creation ~1$~
+
+NG_PP_FAIL = You have failed to create a Persistent Posse
+
+NG_PP_FF_OFF = Friendly Fire turned off for your Posse
+
+NG_PP_FF_ON = Friendly Fire turned on for your Posse
+
+NG_PP_JOIN = You joined ~1~
+
+NG_PP_JOIN_D = Join as a member
+
+NG_PP_JOIN_FAIL_SUBH = Failure to rejoin the Persistent Posse.
+
+NG_PP_JOIN_FAIL_TITLE = Posse Rejoin
+
+NG_PP_LEAVE_T = You left ~1~
+
+NG_PP_LL_REFORM = You reformed ~1~
+
+NG_PP_LM_ACTIVE = You rejoined ~1~
+
+NG_PP_NAME_CHANGE = Your Posse name changed to ~1~
+
+NG_PP_NAME_CHANGE_R = The Posse ~1~ is now known as ~2~
+
+NG_PP_POOR = You don't have ~1$~ to create a Persistent Posse
+
+NG_PP_RD = Member
+
+NG_PP_RL = Leader
+
+NG_PP_RM_ACTIVE = ~1~ has rejoined ~2~
+
+NG_PP_R_ACTIVE = ~1~ was reformed
+
+NG_PP_R_DISBAND = ~1~ has been abandoned
+
+NG_PP_R_INACTIVE = ~1~ is no longer active
+
+NG_PP_R_JOINED = ~1~ joined ~2~
+
+NG_PP_R_KICKED = ~1~ removed from ~2~
+
+NG_PP_R_LEFT = ~1~ quit ~2~
+
+NG_PP_START = You are now the leader of ~1~
+
+NG_PP_YOU_KICKED = You were removed from ~1~
+
+NG_P_POSSE_ALERT = ALERT
+
+NG_REQUEST_ME_POSSE = You have requested to join ~1~'s ~s~Posse
+
+NG_REQUEST_POSSE = ~1p~ has requested to join your Posse
+
+NG_ROCKSTAR_KILL_ADMIN = ~1~ has been removed for a violation.
+
+NG_ROCKSTAR_KILL_ADMIN_SAFE = A Posse has been removed for a violation.
+
+NG_ROCKSTAR_KILL_INACTIVE = ~1~ has been removed due to inactivity for ~2~ days.
+
+NG_SERIES_LOCKED = This Series is currently unavailable.
+
+NG_SERIES_STORY_LOCKED = Complete a Story Mission to access this option
+
+NG_SIZE_LARGE_S = Your Posse is too large to join this series
+
+NJ_INVITE_SENT = Invite sent to ~1~
+
+NM_GC_POSSE_CREATE_FAIL = ~COLOR_POSSE_ENEMY~Posse formation failed~s~
+
+NM_GC_POSSE_JOIN_FAIL = ~COLOR_POSSE_ENEMY~Posse joining failed~s~
+
+OFFENSIVE_CONFIRMED = ~fg~-~fo~ Offensive enabled
+
+OFFENSIVE_INITIAL = Defensive will disable in 30 seconds...
+
+PLAYER_KILLED_LEGENDARY_ANIMAL = ~1~ killed ~2~
+
+PLAYER_MOONSHINE_FLAVORED = ~1~ has flavored moonshine
+
+PLAYER_TRANQUILIZED_LEGENDARY_ANIMAL = ~1~ sedated ~2~
+
+POSSE_BECAME_PEACEFUL = ~1~ has become Defensive
+
+PRESSED_CHARGES_AGAINST = ~1~ pressed charges against ~2~
+
+PRESSED_CHARGES_SELF = You pressed charges against ~1~
+
+PRESSED_CHARGES_TARGET = ~1~ pressed charges against you
+
+PVP_DIE = ~1p~ ~s~died
+
+PVP_ENTER_BAR = ~1p~ ~s~has entered the shack
+
+PVP_EXC = ~1p~ ~s~executed ~2p~
+
+PVP_HT_KILL_O = ~1p~ ~s~killed ~BLIP_AMBIENT_MARKED_FOR_DEATH~~2p~
+
+PVP_HT_KILL_P = ~1p~ ~s~killed ~BLIP_AMBIENT_MARKED_FOR_DEATH~~2p~
+
+PVP_INCP = ~1p~ ~s~downed ~2p~
+
+PVP_KILL = ~1p~ ~s~killed ~2p~
+
+PVP_KILL_ASST = ~1p~ ~s~assisted killing ~2p~
+
+PVP_REV = ~1p~ ~s~revived ~2p~
+
+PVP_REV_SELF = ~1p~ ~s~self-revived
+
+PVP_SUI = ~1p~ ~s~killed themselves
+
+PVP_TKILL = ~1p~ ~s~killed ~2p~
+
+PVP_X_EXC_YOU = ~1p~ ~s~executed you
+
+PVP_X_INCP_YOU = ~1p~ ~s~downed you
+
+PVP_X_KILL_ASST_YOU = ~1p~ ~s~assisted killing you
+
+PVP_X_KILL_YOU = ~1p~ ~s~killed you
+
+PVP_X_REV_YOU = ~1p~ ~s~revived you
+
+PVP_X_TKILL_YOU = ~1p~ ~s~killed you
+
+PVP_YOU_DIED = You died
+
+PVP_YOU_EXC_X = You executed ~1p~
+
+PVP_YOU_HT_KILL_O = You killed ~BLIP_AMBIENT_MARKED_FOR_DEATH~~1p~
+
+PVP_YOU_HT_KILL_P = You killed ~BLIP_AMBIENT_MARKED_FOR_DEATH~~1p~
+
+PVP_YOU_INCP_X = You downed ~1p~
+
+PVP_YOU_KILL_ASST_X = You assisted killing ~1p~
+
+PVP_YOU_KILL_X = You killed ~1p~
+
+PVP_YOU_REV_SELF = You revived yourself
+
+PVP_YOU_REV_X = You revived ~1p~
+
+PVP_YOU_TKILL_X = You killed ~1p~
+
+REMOTE_NOT_DEFENSIVE = ~1~ is no longer Defensive
+
+TICKER_NAT_LA_ALLIGATOR_01 = the ~COLOR_MP_OBJECTIVE~Legendary Teca Gator~s~
+
+TICKER_NAT_LA_ALLIGATOR_02 = the ~COLOR_MP_OBJECTIVE~Legendary Sun Gator~s~
+
+TICKER_NAT_LA_ALLIGATOR_03 = the ~COLOR_MP_OBJECTIVE~Legendary Banded Gator~s~
+
+TICKER_NAT_LA_BEAR_01 = the ~COLOR_MP_OBJECTIVE~Legendary Owiza Bear~s~
+
+TICKER_NAT_LA_BEAR_02 = the ~COLOR_MP_OBJECTIVE~Legendary Ridgeback Spirit Bear~s~
+
+TICKER_NAT_LA_BEAR_03 = the ~COLOR_MP_OBJECTIVE~Legendary Golden Spirit Bear~s~
+
+TICKER_NAT_LA_BEAVER_01 = the ~COLOR_MP_OBJECTIVE~Legendary Zizi Beaver~s~
+
+TICKER_NAT_LA_BEAVER_02 = the ~COLOR_MP_OBJECTIVE~Legendary Moon Beaver~s~
+
+TICKER_NAT_LA_BEAVER_03 = the ~COLOR_MP_OBJECTIVE~Legendary Night Beaver~s~
+
+TICKER_NAT_LA_BIGHORNRAM_01 = the ~COLOR_MP_OBJECTIVE~Legendary Gabbro Horn Ram~s~
+
+TICKER_NAT_LA_BIGHORNRAM_02 = the ~COLOR_MP_OBJECTIVE~Legendary Chalk Horn Ram~s~
+
+TICKER_NAT_LA_BIGHORNRAM_03 = the ~COLOR_MP_OBJECTIVE~Legendary Rutile Horn Ram~s~
+
+TICKER_NAT_LA_BOAR_01 = the ~COLOR_MP_OBJECTIVE~Legendary Cogi Boar~s~
+
+TICKER_NAT_LA_BOAR_02 = the ~COLOR_MP_OBJECTIVE~Legendary Wakpa Boar~s~
+
+TICKER_NAT_LA_BOAR_03 = the ~COLOR_MP_OBJECTIVE~Legendary Icahi Boar~s~
+
+TICKER_NAT_LA_BUCK_01 = the ~COLOR_MP_OBJECTIVE~Legendary Mud Runner Buck~s~
+
+TICKER_NAT_LA_BUCK_02 = the ~COLOR_MP_OBJECTIVE~Legendary Snow Buck~s~
+
+TICKER_NAT_LA_BUCK_03 = the ~COLOR_MP_OBJECTIVE~Legendary Shadow Buck~s~
+
+TICKER_NAT_LA_BUFFALO_01 = the ~COLOR_MP_OBJECTIVE~Legendary Tatanka Bison~s~
+
+TICKER_NAT_LA_BUFFALO_02 = the ~COLOR_MP_OBJECTIVE~Legendary Winyan Bison~s~
+
+TICKER_NAT_LA_BUFFALO_03 = the ~COLOR_MP_OBJECTIVE~Legendary Payta Bison~s~
+
+TICKER_NAT_LA_COUGAR_01 = the ~COLOR_MP_OBJECTIVE~Legendary Iguga Cougar~s~
+
+TICKER_NAT_LA_COUGAR_02 = the ~COLOR_MP_OBJECTIVE~Legendary Maza Cougar~s~
+
+TICKER_NAT_LA_COUGAR_03 = the ~COLOR_MP_OBJECTIVE~Legendary Sapa Cougar~s~
+
+TICKER_NAT_LA_COYOTE_01 = the ~COLOR_MP_OBJECTIVE~Legendary Red Streak Coyote~s~
+
+TICKER_NAT_LA_COYOTE_02 = the ~COLOR_MP_OBJECTIVE~Legendary Midnight Paw Coyote~s~
+
+TICKER_NAT_LA_COYOTE_03 = the ~COLOR_MP_OBJECTIVE~Legendary Milk Coyote~s~
+
+TICKER_NAT_LA_ELK_01 = the ~COLOR_MP_OBJECTIVE~Legendary Katata Elk~s~
+
+TICKER_NAT_LA_ELK_02 = the ~COLOR_MP_OBJECTIVE~Legendary Ozula Elk~s~
+
+TICKER_NAT_LA_ELK_03 = the ~COLOR_MP_OBJECTIVE~Legendary Inahme Elk~s~
+
+TICKER_NAT_LA_FOX_01 = the ~COLOR_MP_OBJECTIVE~Legendary Ota Fox~s~
+
+TICKER_NAT_LA_FOX_02 = the ~COLOR_MP_OBJECTIVE~Legendary Marble Fox~s~
+
+TICKER_NAT_LA_FOX_03 = the ~COLOR_MP_OBJECTIVE~Legendary Cross Fox~s~
+
+TICKER_NAT_LA_MOOSE_01 = the ~COLOR_MP_OBJECTIVE~Legendary Snowflake Moose~s~
+
+TICKER_NAT_LA_MOOSE_02 = the ~COLOR_MP_OBJECTIVE~Legendary Knight Moose~s~
+
+TICKER_NAT_LA_MOOSE_03 = the ~COLOR_MP_OBJECTIVE~Legendary Ruddy Moose~s~
+
+TICKER_NAT_LA_PANTHER_01 = the ~COLOR_MP_OBJECTIVE~Legendary Nightwalker Panther~s~
+
+TICKER_NAT_LA_PANTHER_02 = the ~COLOR_MP_OBJECTIVE~Legendary Ghost Panther~s~
+
+TICKER_NAT_LA_PANTHER_03 = the ~COLOR_MP_OBJECTIVE~Legendary Iwakta Panther~s~
+
+TICKER_NAT_LA_WOLF_01 = the ~COLOR_MP_OBJECTIVE~Legendary Emerald Wolf~s~
+
+TICKER_NAT_LA_WOLF_02 = the ~COLOR_MP_OBJECTIVE~Legendary Onyx Wolf~s~
+
+TICKER_NAT_LA_WOLF_03 = the ~COLOR_MP_OBJECTIVE~Legendary Moonstone Wolf~s~
+
+TRANQUILIZED_LEGENDARY_ANIMAL_SELF = You sedated ~1~
+

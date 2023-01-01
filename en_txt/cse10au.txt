@@ -1,0 +1,18 @@
+CSE10_ACTA_1 = ~z~Hey, come over here!
+
+CSE10_ACTA_2 = ~z~Come over here, O'Driscoll.
+
+CSE10_ACTA_3 = ~z~You know, I ain't no O'Driscoll.
+
+CSE10_ACTA_4 = ~z~
+
+CSE10_ACTA_5 = ~z~Our old neighbour back in Donegal was called O'Driscoll. And we couldn't stand him neither.
+
+CSE10_ACTBALT_1 = ~z~You want some, big man?
+
+CSE10_ACTBALT_2 = ~z~Don't annoy me, boy.
+
+CSE10_ACTBALT_3 = ~z~
+
+CSE10_ACTB_1 = ~z~
+

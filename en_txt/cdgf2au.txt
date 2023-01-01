@@ -1,0 +1,12 @@
+CDGF2_ACT_1 = ~z~So just what has gotten into you? What has gotten into you?
+
+CDGF2_ACT_2 = ~z~I don't know, I...
+
+CDGF2_ACT_3 = ~z~Listen. Listen to me, son.
+
+CDGF2_ACT_4 = ~z~It's been hard. It's been really hard.
+
+CDGF2_ACT_5 = ~z~But I need you. I need you to stop being so goddamn crazy.
+
+CDGF2_ACT_6 = ~z~That's all I'm saying.
+

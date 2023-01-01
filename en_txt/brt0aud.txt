@@ -1,0 +1,16 @@
+BRTO_RSC1_LI_1 = ~z~Hey, Arthur.
+
+BRTO_RSC1_LI_2 = ~z~What's going on?
+
+BRTO_RSC1_LI_3 = ~z~Hosea and John are lookng for you. They went out to the moonshine stash, said you knew where that was?
+
+BRTO_RSC1_LI_4 = ~z~They was planning a visit to the Braithwaite place, but
+
+BRTO_RSC1_LI_5 = ~z~John needs to do something for Dutch now so
+
+BRTO_RSC1_LI_6 = ~z~Hosea wants you to join him instead.
+
+BRTO_RSC1_LI_7 = ~z~Seems to be a lot going on.
+
+BRTO_RSC1_LI_8 = ~z~You're telling me. Okay, thank you.
+

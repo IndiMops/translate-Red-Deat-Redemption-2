@@ -1,0 +1,146 @@
+0x9BC27482 = Shout
+
+0x86E04A0F = Uncle
+
+0xB824E974 = Gang Member
+
+0xC1ADB180 = Hotel Owner
+
+MUD3_B_ARGUE = Argument
+
+MUD3_B_CIGAR = Cigar
+
+MUD3_B_COFFEE = Coffee
+
+MUD3_B_DRIVER = Coach Driver
+
+MUD3_B_HORSE = Escaped Horse
+
+MUD3_B_JERKY = Salted Beef
+
+MUD3_B_TREAT = Chocolate
+
+MUD3_B_WITNESS = Man from Blackwater
+
+MUD3_C_AGRO = Intervene
+
+MUD3_C_ASK = Question
+
+MUD3_C_DOOR = Kick Door
+
+MUD3_C_DRIVER = Coach Driver
+
+MUD3_C_GREET = Defuse
+
+MUD3_C_HELP = Help
+
+MUD3_C_KILL = Kill
+
+MUD3_C_NEG = Don't Help
+
+MUD3_C_POS = Help
+
+MUD3_C_QUEST = Question
+
+MUD3_C_T_NEG = Don't Help
+
+MUD3_C_T_OK = Question
+
+MUD3_C_T_POS = Help
+
+MUD3_C_WAKE = Wake
+
+MUD3_F_AREA = Left the area.
+
+MUD3_F_CAMP = You annoyed the camp inhabitants.
+
+MUD3_F_KILL = The man from Blackwater was killed.
+
+MUD3_F_LOST = You lost the man from Blackwater.
+
+MUD3_F_SALOON = You ruined the girls' plan.
+
+MUD3_F_WAGON = The wagon was wrecked.
+
+MUD3_HG_COACH = Recovered Escaped Horse
+
+MUD3_HG_HORSE = Returned stolen horse
+
+MUD3_HG_KILL = Killed Jimmy Brooks
+
+MUD3_HG_NO_HELP = Didn't help the man from Blackwater
+
+MUD3_HG_SAVE = Saved Jimmy Brooks
+
+MUD3_H_AUTO = Hold ~INPUT_HORSE_SPRINT~ while viewing cinematic camera to automatically follow roads and other paths.
+
+MUD3_H_HONOR_01 = You gained honor. Continue to perform positive actions to become more honorable.
+
+MUD3_H_HONOR_02 = You lost honor. Continue to perform negative actions to become more dishonorable.
+
+MUD3_H_HONOR_03 = Your actions in the world impact your Honor level and change how people in the world interact with you. Positive actions will make you more honorable.
+
+MUD3_H_HONOR_04 = Your actions in the world impact your Honor level and change how people in the world interact with you.
+
+MUD3_H_HORSE1 = Agitated horses need to be calmed before you can approach them. When near, lock on with ~INPUT_INTERACT_LOCKON~ and press ~INPUT_INTERACT_LOCKON_ANIMAL~ to calm it.
+
+MUD3_H_HORSE2 = Once calmed you will be able to lead or ride the horse back to its owner.
+
+MUD3_H_RETURN = You can return the horse you stole to its owner in Valentine to gain honor.
+
+MUD3_H_SADDLE = This horse does not have your saddle on it. Your weapons and equipment are stored with your saddle.
+
+MUD3_H_SADDLEA = This horse does not have your saddle on it. Your weapons and equipment are stored on your saddle, which can be transferred between horses.
+
+MUD3_H_SHOP_01 = Items in a shop can be purchased directly from shelves by looking at the item and holding ~INPUT_PICKUP_CARRIABLE~.
+
+MUD3_H_SHOP_02 = Items can also be purchased by talking to the shopkeeper and browsing the store catalogue.
+
+MUD3_H_THORSE = A horse blipped with ~BLIP_HORSE_TEMP~ is your temporary horse.
+
+MUD3_H_THORSEA = A horse blipped with ~BLIP_HORSE_TEMP~ is your temporary horse. Equip it with your saddle to make it your main horse.
+
+MUD3_O_BROWSE = Browse the store
+
+MUD3_O_BUY = ~s~Buy ~o~alcohol~s~
+
+MUD3_O_CHA = ~s~Chase the ~e~man from Blackwater~s~
+
+MUD3_O_CIGAR = ~s~Buy a ~o~cigar~s~
+
+MUD3_O_COFFEE = ~s~Buy some ~o~coffee~s~
+
+MUD3_O_FIGHT = ~s~Beat up the ~e~client
+
+MUD3_O_HELP = ~s~Deal with the ~o~man from Blackwater~s~
+
+MUD3_O_HORSE = Calm the ~o~escaped horse~s~
+
+MUD3_O_HOTEL = ~s~Go ~o~outside~s~
+
+MUD3_O_JERKY = ~s~Buy some ~o~salted beef~s~
+
+MUD3_O_KAREN = ~s~Follow ~o~Karen~s~
+
+MUD3_O_LEAD = Lead the ~o~horse~s~
+
+MUD3_O_LEAVE = ~s~Meet ~o~outside~s~
+
+MUD3_O_LEAVE02 = ~s~Meet ~o~outside~s~ when ready
+
+MUD3_O_RET = Return the horse to the ~o~coach driver~s~
+
+MUD3_O_RIDE = ~s~Ride to ~o~Valentine~s~
+
+MUD3_O_SEARCH = ~s~Search the hotel for ~o~Karen~s~
+
+MUD3_O_SPEAK = Speak to the ~o~coach driver~s~
+
+MUD3_O_STORE = ~s~Follow ~o~Uncle~s~
+
+MUD3_O_TILLY = ~s~Defuse the ~o~argument~s~
+
+MUD3_O_TREAT = ~s~Buy some ~o~chocolate~s~
+
+MUD3_O_WAGON = Get on the ~o~wagon~s~
+

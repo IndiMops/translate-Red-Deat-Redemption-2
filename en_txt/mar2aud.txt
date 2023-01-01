@@ -1,0 +1,650 @@
+MAR2_ABH0_1 = ~z~I thought you was taking the boy into Strawberry.
+
+MAR2_ABH1_01 = ~z~~sl:0.0:2.4~One moment you're going and the next you're staying...~sl:0.1~what's it gonna be?
+
+MAR2_ABH1_02 = ~z~Go if you're going, John.
+
+MAR2_ABH1_03 = ~z~The boy's waiting.
+
+MAR2_CLERK_FORM_01 = ~z~
+
+MAR2_CLERK_FORM_02 = ~z~
+
+MAR2_CLERK_FORM_03 = ~z~~sl:0.7~Yup.
+
+MAR2_CRY_01 = ~z~
+
+MAR2_CRY_02 = ~z~
+
+MAR2_EXT_1 = ~z~How was the...
+
+MAR2_EXT_2 = ~z~What happened?
+
+MAR2_EXT_3 = ~z~Ah...
+
+MAR2_EXT_4 = ~z~it's...
+
+MAR2_EXT_5 = ~z~I don't...
+
+MAR2_EXT_6 = ~z~We got shot at.
+
+MAR2_EXT_7 = ~z~Shot at? What happened?
+
+MAR2_EXT_8 = ~z~Well, we got followed, and then we...
+
+MAR2_EXT_9 = ~z~Followed by who?
+
+MAR2_EXT_10 = ~z~Probably someone who knew me.
+
+MAR2_EXT_11 = ~z~We didn't get to them particulars, I'm sorry.
+
+MAR2_EXT_12 = ~z~My son.
+
+MAR2_EXT_13 = ~z~Our son.
+
+MAR2_EXT_14 = ~z~I...
+
+MAR2_EXT_15 = ~z~Was your dress that caused all the problem!
+
+MAR2_EXT_16 = ~z~Weren't even a dress...
+
+MAR2_EXT_17 = ~z~it was a gift for you.
+
+MAR2_GRAYAR_1 = ~z~Who's this?
+
+MAR2_GRAYAR_2 = ~z~Sorry, sir. Was that a question for me?
+
+MAR2_GRAYAR_3 = ~z~No, no. Keep driving.
+
+MAR2_HERA2_1 = ~z~We're okay.
+
+MAR2_HERA2_2 = ~z~Hey, uh, ~rp~you know, ~rp~your momma wants us to buy some old ranch.
+
+MAR2_HERA2_3 = ~z~You read to her about it, didn't you?
+
+MAR2_HERA2_4 = ~z~
+
+MAR2_HERA2_5 = ~z~What was it called?
+
+MAR2_HERA2_6 = ~z~
+
+MAR2_HERA2_7 = ~z~What was the name, boy?
+
+MAR2_HERA2_8 = ~z~Beecher's Hope.
+
+MAR2_HERA2_9 = ~z~That's right. Beecher's Hope. ~rp~Over by Blackwater.
+
+MAR2_HERA2_10 = ~z~You like the idea of that, huh? ~rp~Us owning a ranch?
+
+MAR2_HERA2_11 = ~z~I don't know.
+
+MAR2_HERA2_12 = ~z~I could see you as rancher's boy. ~rp~Like Duncan Geddes, eh?
+
+MAR2_HERA2_13 = ~z~I wasn't so sure, but... yeah, ~rp~that kind of life might suit us.
+
+MAR2_HERA2_14 = ~z~~sl:0.0:1.2~Wouldn't be such a chore~sl:~if the horses we were cleaning up after was ours, would it?
+
+MAR2_HERA2_15 = ~z~~sl:0.5~No, it wouldn't.
+
+MAR2_HERA2_16 = ~z~
+
+MAR2_HERA_1 = ~z~Oh dear, those men.
+
+MAR2_HERA_2 = ~z~I told you not to look, boy.
+
+MAR2_HERA_3 = ~z~Are they... dead?
+
+MAR2_HERA_4 = ~z~~sl:0.0:2.5~I didn't have much of a choice. You saw that.~lr:0.6:1.7:1~Now, ~rp~compose yourself.
+
+MAR2_HERA_5 = ~z~You killed them, Pa.
+
+MAR2_HERA_6 = ~z~Son, I need you to hold it together.
+
+MAR2_HERA_7 = ~z~
+
+MAR2_IG2_1 = ~z~Here, want to take the reins a little?
+
+MAR2_IG2_2 = ~z~~sl:0.4:0.0~I-I don't know, Pa.
+
+MAR2_IG2_3 = ~z~~sl:1.2:0.0~It's easy, boy, don't be scared.
+
+MAR2_IG2_3ANT_1 = ~z~~sl:1.1~I see the resemblance...~sl:1.8~pair of goddamn morons.
+
+MAR2_IG2_3APP_1 = ~z~I'm real sorry, friend, but... he was trying to rob me.
+
+MAR2_IG2_4 = ~z~Well, uh, w-what do I do?
+
+MAR2_IG2_5 = ~z~~sl:0.0:1.9~Well... you just hold 'em and...~sl:0.8~pull 'em short to slow down,
+
+MAR2_IG2_6 = ~z~tell'em to go faster, give'em a little switch.
+
+MAR2_IG2_7 = ~z~And then... pull to one side if you wanna turn.
+
+MAR2_IG2_8 = ~z~Here, try it out.
+
+MAR2_IG2_KILLHM_1 = ~z~You're talking bullshit, mister, kill him!
+
+MAR2_IG4_1 = ~z~Here... let me help with this, Mr. Marston.
+
+MAR2_IG4_2 = ~z~Yeah, i-it's mostly 'Milton' these days.
+
+MAR2_IG4_3 = ~z~It's a long story. The wife... we-we was robbed by her brother, it's -
+
+MAR2_IG4_4 = ~z~Whatever you say, "Mr. Milton", it's not important.
+
+MAR2_IG4_5 = ~z~Take care now. Give my regards to Geddes.
+
+MAR2_IG4_6 = ~z~Come on, let's get out of here.
+
+MAR2_IG4_7 = ~z~All okay, Pa?
+
+MAR2_IG4_8 = ~z~Sure... I hope so...
+
+MAR2_IG5_1 = ~z~Here, you take the reins a little.
+
+MAR2_IG5_2 = ~z~I ain't sure...
+
+MAR2_IG5_3 = ~z~Come on, son. You'll enjoy it if you try a little harder.
+
+MAR2_IG5_4 = ~z~~sl:1.2:2.2:1~Okay... okay Pa.
+
+MAR2_IG6_B_1 = ~z~Okay.
+
+MAR2_IG6_B_2 = ~z~What? What's wrong?
+
+MAR2_IG6_B_3 = ~z~Don't look around. Hey.
+
+MAR2_IG6_B_4 = ~z~Oh, Pa, those men, are they following us?
+
+MAR2_IG6_B_5 = ~z~Just, just stay calm.
+
+MAR2_IG9_2AANT_1 = ~z~Sure... he had it coming to him.
+
+MAR2_IG9_2AAPP_1 = ~z~No... wasn't me.
+
+MAR2_IG9_2BANT_1 = ~z~~sl:0.0:2.2~Truth is, I killed John Marston...~sl:0.6~and I'm happy to kill you too!
+
+MAR2_IG9_2BAPP_1 = ~z~~sl:0.0:1.1~I hope not...~sl:1.6:2.1~I'm just a farmer, friend, and...~sl:0.8~I don't have no money on me.
+
+MAR2_IG9_JENT_1 = ~z~What you boys want with us?
+
+MAR2_IG9_JENT_2 = ~z~Oh, we just wanna have a friendly chat...
+
+MAR2_IG9_Q1NO_1 = ~z~I don't know what you're talking about... I'm just... here with my son.
+
+MAR2_IG9_QUE2A_1 = ~z~~sl:1.7~Did you kill a feller out in Roanoke a few months back?
+
+MAR2_IG9_QUE2B_1 = ~z~Come here, partner. We don't mean no trouble.
+
+MAR2_IG9_QUES1_1 = ~z~What you boys want with us?
+
+MAR2_IG9_QUES1_2 = ~z~Oh, we just wanna have a friendly chat.
+
+MAR2_IG9_QUES1_3 = ~z~Are you John Marston? You sure look like him.
+
+MAR2_IG9_QUES3_1 = ~z~That was my brother...
+
+MAR2_IG9_WHAT_1 = ~z~What of it?
+
+MAR2_IG_EXIT_1 = ~z~Alright, here we are.
+
+MAR2_IG_EXIT_2 = ~z~You alright, son?
+
+MAR2_IG_EXIT_3 = ~z~Sure.
+
+MAR2_IG_EXIT_4 = ~z~Well cheer up a little.
+
+MAR2_IG_EXIT_5 = ~z~~sl:0.0:0.9~You wait here.~sl:~I won't be long.
+
+MAR2_IG_EXIT_6 = ~z~Okay.
+
+MAR2_IG_EXIT_7 = ~z~~sl:0.0:0.9~And if you behave,~sl:0.2~I might let you drive us home.
+
+MAR2_IG_EXIT_8 = ~z~Can't wait...
+
+MAR2_INSTRUCT_1 = ~z~~sl:0.0:1.1~See that fallen tree?~sl:0.3~When we get there, stop the wagon, jump down, and hide.
+
+MAR2_INSTRUCT_2 = ~z~Oh, Pa.
+
+MAR2_INSTRUCT_3 = ~z~You need to do exactly as I say, boy.
+
+MAR2_INT_1 = ~z~How you getting on?
+
+MAR2_INT_2 = ~z~Surviving... I think.
+
+MAR2_INT_3 = ~z~Here... I'll get you some coffee.
+
+MAR2_INT_4 = ~z~Only thing I know how to do is...
+
+MAR2_INT_5 = ~z~well, you know...
+
+MAR2_INT_6 = ~z~Undertakers like me. Cattle? Not so much.
+
+MAR2_INT_7 = ~z~That ain't true.
+
+MAR2_INT_8 = ~z~I ain't no rancher.
+
+MAR2_INT_9 = ~z~Rustled horses, not raised 'em.
+
+MAR2_INT_10 = ~z~Stole cattle, not birthed 'em.
+
+MAR2_INT_11 = ~z~I was... I was reading the newspaper.
+
+MAR2_INT_12 = ~z~I was reading about a...
+
+MAR2_INT_13 = ~z~old ranch, Beecher's Hope, down by Blackwater.
+
+MAR2_INT_14 = ~z~Was you?
+
+MAR2_INT_15 = ~z~Well, Jack read it to me but...
+
+MAR2_INT_16 = ~z~I thought maybe we could raise some money...
+
+MAR2_INT_17 = ~z~bank could lend us the rest.
+
+MAR2_INT_18 = ~z~We could be happy, John, we could...
+
+MAR2_INT_19 = ~z~Bank loans?
+
+MAR2_INT_20 = ~z~I got a goddamn price on my head, woman.
+
+MAR2_INT_21 = ~z~I know... I know all about that.
+
+MAR2_INT_22 = ~z~Every time we about to get somewhere, make something...
+
+MAR2_INT_23 = ~z~you go and show the entire world that you ain't Jimmy Milton.
+
+MAR2_INT_24 = ~z~Every place we been, it's been the same.
+
+MAR2_INT_25 = ~z~We start doing okay, and then boom...
+
+MAR2_INT_26 = ~z~you act like the big man with the gun.
+
+MAR2_INT_27 = ~z~I'm tired, John, and I guess I was dreaming a little.
+
+MAR2_INT_28 = ~z~At least give me that.
+
+MAR2_INT_29 = ~z~Just feels hopeless.
+
+MAR2_INT_30 = ~z~You're... you're doing better.
+
+MAR2_INT_31 = ~z~Milton?
+
+MAR2_INT_32 = ~z~Milton, ma'am.
+
+MAR2_INT_33 = ~z~Mr. Geddes needs you to head over to Strawberry in the wagon...
+
+MAR2_INT_34 = ~z~and collect some mail for him at the post office.
+
+MAR2_INT_35 = ~z~Sure.
+
+MAR2_INT_36 = ~z~I'll take the boy with me, he's getting soft.
+
+MAR2_INT_37 = ~z~Lancelot.
+
+MAR2_INT_38 = ~z~Come on.
+
+MAR2_INT_39 = ~z~Jim, if you're heading that way, can you pick up a parcel for me?
+
+MAR2_INT_40 = ~z~A dress I ordered.
+
+MAR2_INT_41 = ~z~Think it's in your name.
+
+MAR2_INT_42 = ~z~My name?
+
+MAR2_INT_43 = ~z~I think so.
+
+MAR2_INT_44 = ~z~One's in your name and the other one's in mine...
+
+MAR2_INT_45 = ~z~only one shoulda come in by now.
+
+MAR2_INT_46 = ~z~How much shopping you done?
+
+MAR2_INT_47 = ~z~Oh yes, a real keen purchaser of goods me.
+
+MAR2_INT_48 = ~z~Look at me.
+
+MAR2_INT_49 = ~z~Okay, Lancelot, we'll make a man out of you yet.
+
+MAR2_INT_50 = ~z~Not too much of a man, mind, he's only a boy.
+
+MAR2_INT_51 = ~z~Just gonna show him how to drive the wagon a little.
+
+MAR2_INT_52 = ~z~We'll save the real exciting realities of adulthood for another day.
+
+MAR2_INT_LO_1 = ~z~Come on, get!
+
+MAR2_INT_LO_2 = ~z~You take care now.
+
+MAR2_INT_LO_3 = ~z~Of course.
+
+MAR2_JACK_FAST_1 = ~z~I think we're going too fast, Pa.
+
+MAR2_JACK_FIGHT_01 = ~z~Oh, Pa.
+
+MAR2_JACK_FIGHT_02 = ~z~
+
+MAR2_JACK_FIGHT_03 = ~z~~sl:0.8~Oh no. Oh no.
+
+MAR2_JACK_FIGHT_04 = ~z~Pa!
+
+MAR2_JACK_N_1 = ~z~~sl:0.6~I-I knew you was soft. ~rp~This is the world, son.
+
+MAR2_JACK_N_2 = ~z~Things like this happen.
+
+MAR2_JACK_N_3 = ~z~Not to normal folk.
+
+MAR2_JACK_N_4 = ~z~Well... you oughta... get used to what kind of folk yours is.
+
+MAR2_JACK_N_5 = ~z~
+
+MAR2_JACK_N_6 = ~z~~sl:0.4~Jesus.
+
+MAR2_JACK_P_1 = ~z~You were real brave back there. ~rp~Real brave.
+
+MAR2_JACK_P_2 = ~z~Did exactly like I said.
+
+MAR2_JACK_P_3 = ~z~~sl:0.2~Really?
+
+MAR2_JACK_P_4 = ~z~~sl:2.5~If you hadn't listened, ~rp~things could have gone real wrong for us.
+
+MAR2_JACK_P_5 = ~z~
+
+MAR2_JACK_P_6 = ~z~There, there.
+
+MAR2_KNOC_01 = ~z~Sorry.
+
+MAR2_KNOC_02 = ~z~Look out, won't you?
+
+MAR2_KNOC_03 = ~z~Out the way, huh?
+
+MAR2_KNOC_04 = ~z~Come on, hey.
+
+MAR2_LEPR_1 = ~z~It's nice getting out of the house, huh?
+
+MAR2_LEPR_2 = ~z~ I like being in the house, Pa.
+
+MAR2_LEPR_3 = ~z~Life ain't just about doing the things you like, boy.
+
+MAR2_LOKBAK0_1 = ~z~What's wrong, Pa?
+
+MAR2_LOKBAK0_2 = ~z~~sl:0.3~Nothing.
+
+MAR2_LOKBAK1_1 = ~z~Is somebody back there?
+
+MAR2_LOKBAK1_2 = ~z~Just keep driving.
+
+MAR2_LOKBAK2_1 = ~z~Have you seen something?
+
+MAR2_LOKBAK2_2 = ~z~Worry about what's in front of us.
+
+MAR2_MCS2_1 = ~z~Hi, I'm here to...
+
+MAR2_MCS2_2 = ~z~Name?
+
+MAR2_MCS2_3 = ~z~M-My name?
+
+MAR2_MCS2_4 = ~z~Uh... Jim Milton.
+
+MAR2_MCS2_5 = ~z~Jim Milton...
+
+MAR2_MCS2_6 = ~z~Nope, nothing here.
+
+MAR2_MCS2_7 = ~z~Maybe try...
+
+MAR2_MCS2_8 = ~z~Marston. John Marston.
+
+MAR2_MCS2_9 = ~z~It's a long story.
+
+MAR2_MCS2_10 = ~z~Okay...
+
+MAR2_MCS2_11 = ~z~ John Marston.
+
+MAR2_MCS2_12 = ~z~Marston...
+
+MAR2_MCS2_13 = ~z~Nope, nothing here for that name either.
+
+MAR2_MCS2_14 = ~z~Try Abigail Roberts.
+
+MAR2_MCS2_15 = ~z~Abigail Roberts.
+
+MAR2_MCS2_16 = ~z~Abigail Roberts...
+
+MAR2_MCS2_17 = ~z~Yes, here we are.
+
+MAR2_MCS2_18 = ~z~And also, I'm here to pick up the deliveries for Pronghorn Ranch.
+
+MAR2_MCS2_19 = ~z~David Geddes sent me.
+
+MAR2_MCS2_20 = ~z~Pronghorn?
+
+MAR2_MCS2_21 = ~z~Yes, uh-oh-uh... sign here.
+
+MAR2_MCS2_22 = ~z~We have a bunch of stuff for you.
+
+MAR2_MCS2_23 = ~z~And I will help you out.
+
+MAR2_MCS2_24 = ~z~I'll take these.
+
+MAR2_MCS2_25 = ~z~You get the rest of the stuff.
+
+MAR2_MCS2_26 = ~z~Here, let me help you with this, Mr. Marston.
+
+MAR2_MCS2_27 = ~z~Ah, it's...
+
+MAR2_MCS2_28 = ~z~mostly Milton these days.
+
+MAR2_MCS2_29 = ~z~It's a long story.
+
+MAR2_MCS2_30 = ~z~Whatever you say, Mr. Milton.
+
+MAR2_MCS2_31 = ~z~It's not important.
+
+MAR2_MCS2_32 = ~z~Take care now, give my regards to Geddes.
+
+MAR2_MCS2_33 = ~z~Thank you very much, mister.
+
+MAR2_MCS2_34 = ~z~Okay, let's get outta here.
+
+MAR2_MCS2_35 = ~z~Everything okay, Pa?
+
+MAR2_MCS2_36 = ~z~Sure...
+
+MAR2_MCS2_37 = ~z~I hope so, at least.
+
+MAR2_MCS2_LI_1 = ~z~Hi, I'm here to...
+
+MAR2_MCS2_LI_2 = ~z~Name?
+
+MAR2_MCS2_LI_3 = ~z~M... my name?
+
+MAR2_MCS2_LI_4 = ~z~Uh... Jim Milton.
+
+MAR2_MCS3_1 = ~z~Come on, quick, down.
+
+MAR2_MCS3_2 = ~z~Ok, Son, you wait here.
+
+MAR2_MCS3_3 = ~z~You don't move or say nothing until I speak to you...
+
+MAR2_MCS3_4 = ~z~you hear?
+
+MAR2_MCS3_5 = ~z~Yes, sir.
+
+MAR2_MCS3_6 = ~z~Head down.
+
+MAR2_MCS3_7 = ~z~Okay, gentlemen...
+
+MAR2_MCS3_8 = ~z~let's see what you come calling about.
+
+MAR2_MCS4_1 = ~z~It's okay.
+
+MAR2_MCS4_2 = ~z~You're okay.
+
+MAR2_MCS4_3 = ~z~What...
+
+MAR2_MCS4_4 = ~z~why...
+
+MAR2_MCS4_5 = ~z~what...
+
+MAR2_MCS4_6 = ~z~It's okay, it's okay...
+
+MAR2_MCS4_7 = ~z~come on...
+
+MAR2_MCS4_8 = ~z~keep them eyes closed...
+
+MAR2_MCS4_9 = ~z~let's go.
+
+MAR2_MCS4_10 = ~z~Come on... giddy up.
+
+MAR2_MCS4_LI_1 = ~z~~sl:1.6:0.0~It's okay. You're okay.
+
+MAR2_MCS4_LI_A_1 = ~z~~sl:0.0:0.8~Jack!~sl:0.6:1.7~Jack, you okay?~sl:0.7~Jack!
+
+MAR2_MEN_1 = ~z~Huh...
+
+MAR2_MEN_2 = ~z~What?
+
+MAR2_MEN_3 = ~z~Nothing, just keep driving.
+
+MAR2_MEN_STOP_1 = ~z~Here. Now!
+
+MAR2_N_MAR4_1 = ~z~Yes, sir... you make that clear enough.
+
+MAR2_N_MAR4_2 = ~z~What's that supposed to mean?
+
+MAR2_N_MAR4_3 = ~z~Only that you aren't so happy here... with us.
+
+MAR2_N_MAR4_4 = ~z~~sl:0.0:3.5~Son, I'm happy... it's just...~sl:1.7~I-I find it hard, is all. You'll understand some day.
+
+MAR2_OBJ02CONT_1 = ~z~~sl:0.0:2.6~You know, I think this is the longest I've seen you~sl:~without a book in your hand.
+
+MAR2_OBJ02CONT_2 = ~z~It was foolish to forget mine, sir.
+
+MAR2_OBJ02CONT_3 = ~z~Look, I got some business to attend to with the clerk.
+
+MAR2_OBJ02CONT_4 = ~z~I leave you with the wagon, can I trust you not to drive off with it?
+
+MAR2_OBJ02CONT_5 = ~z~Oh, I think I can be trusted of that.
+
+MAR2_OBJ02CONT_6 = ~z~Very good.
+
+MAR2_OBJ02_1 = ~z~Back in Strawberry, eh kid?
+
+MAR2_OBJ02_2 = ~z~Looks like.
+
+MAR2_OBJ08_1 = ~z~We're going back to Pronghorn, okay?
+
+MAR2_OBJ08_2 = ~z~So, wait, we've come all the way out here and we just gonna...
+
+MAR2_OBJ08_3 = ~z~turn around and go back?
+
+MAR2_OBJ08_4 = ~z~That's what we're doing.
+
+MAR2_OBJ08_5 = ~z~Turns out I... I miss the seclusion of the ranch more than I figured for.
+
+MAR2_OBJ08_6 = ~z~Don't you wanna go to the store, or the saloon, or anywhere?
+
+MAR2_OBJ08_7 = ~z~We're going back, okay boy?
+
+MAR2_OBJ08_8 = ~z~But... I've been sitting in this wagon, I don't know how long.
+
+MAR2_OBJ08_9 = ~z~But nothing. Keep on driving and watch the road.
+
+MAR2_OBJ08_10 = ~z~Yes, sir.
+
+MAR2_OBJ08_11 = ~z~Thank you. Jesus. Mind your father, okay?
+
+MAR2_OBJ08_12 = ~z~I got my reasons even if I don't care to explain them.
+
+MAR2_OBJ08_13 = ~z~Yes, sir.
+
+MAR2_OBJ08_14 = ~z~Better.
+
+MAR2_OBJ09A_1 = ~z~Okay. Here we are. That was an, uh, eventful trip.
+
+MAR2_OBJ09B_1 = ~z~Go say hi to your mother.
+
+MAR2_PLY_NOTALK_01 = ~z~What?
+
+MAR2_PLY_NOTALK_02 = ~z~You gonna say something?
+
+MAR2_REINSBACK_1 = ~z~~sl:1.3:0.0~That's enough?
+
+MAR2_REINSBACK_2 = ~z~For now.
+
+MAR2_SPEED_1 = ~z~Look, if I tell you to speed up, speed up.
+
+MAR2_SPEED_2 = ~z~If I say slow down, you slow down. Okay?
+
+MAR2_SPEED_3 = ~z~Uh... sure.
+
+MAR2_SPEED_D_01 = ~z~Slow down a little.
+
+MAR2_SPEED_D_02 = ~z~Little slower.
+
+MAR2_SPEED_D_03 = ~z~Now we're too fast.
+
+MAR2_SPEED_D_04 = ~z~Slower, please.
+
+MAR2_SPEED_D_05 = ~z~Pull back on the reins.
+
+MAR2_SPEED_ID_1 = ~z~Slow it down.
+
+MAR2_SPEED_ID_2 = ~z~Don't want to seem like we're running away from anything.
+
+MAR2_SPEED_ID_3 = ~z~Uh, okay. Whoa.
+
+MAR2_SPEED_IU_1 = ~z~Alright, speed up. Let's get away from there.
+
+MAR2_SPEED_IU_2 = ~z~Okay. Heya!
+
+MAR2_SPEED_U_01 = ~z~Faster.
+
+MAR2_SPEED_U_02 = ~z~Give 'em a switch.
+
+MAR2_SPEED_U_03 = ~z~Faster, please.
+
+MAR2_SPEED_U_04 = ~z~Let's speed this up.
+
+MAR2_SPEED_U_05 = ~z~Pick up the pace a bit.
+
+MAR2_SPEED_U_06 = ~z~Just a bit faster now.
+
+MAR2_STID_01 = ~z~Ain't you going to see the clerk?
+
+MAR2_STID_02 = ~z~I thought you had something to collect in there?
+
+MAR2_TEBR_1 = ~z~I think the horse is getting skittish.
+
+MAR2_TEBR_2 = ~z~He'll be alright.
+
+MAR2_TENS_1 = ~z~I don't like driving across here.
+
+MAR2_TENS_2 = ~z~~sl:0.0:1.7~It's the same as any other road.~sl:0.4~Look where you wanna go and the horse will follow.
+
+MAR2_TENS_3 = ~z~Okay.
+
+MAR2_TOO_FAST_1 = ~z~No, no. Too fast now.
+
+MAR2_TOO_FAST_2 = ~z~Okay. Easy, there.
+
+MAR2_TOO_SLOW_1 = ~z~Actually, you know what, faster.
+
+MAR2_TOO_SLOW_2 = ~z~Yessir. Ya!
+
+MAR2_TURN_SLOW_1 = ~z~Fine. Pull your reins in.
+
+MAR2_Y_MAR4_1 = ~z~~sl:0.0:1.1~What happened the other night...~sl:0.7~with those men? Did you kill them?
+
+MAR2_Y_MAR4_2 = ~z~I did what I had to do... to protect you.
+
+MAR2_Y_MAR4_3 = ~z~Ma said... it was pride or something...
+
+MAR2_Y_MAR4_4 = ~z~Your ma was wrong about that.
+
+MAR24_PTL_1 = ~z~Look, just do one thing or another...
+
+MAR24_PTL_2 = ~z~not be two people at once.
+
+MAR24_PTL_3 = ~z~That's all I'm saying.
+

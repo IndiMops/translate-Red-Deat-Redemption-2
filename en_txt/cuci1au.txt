@@ -1,0 +1,20 @@
+CUCI1_ACTION_1 = ~z~Psst. John... John!
+
+CUCI1_ACTION_2 = ~z~What?
+
+CUCI1_ACTION_3 = ~z~Well it is kind of embarrassing but... I-I need a few things for a... home remedy.
+
+CUCI1_ACTION_4 = ~z~A few things like what?
+
+CUCI1_ACTION_5 = ~z~Oh... just some whiskey, peppermint, uh, milkweed, uh, some hair grease and, er... oh, some skunk meat.
+
+CUCI1_ACTION_6 = ~z~What... what have you been up to?
+
+CUCI1_ACTION_7 = ~z~Oh... It's a long story, but it really hurts.
+
+CUCI1_ACTION_8 = ~z~If you're out and about and come across any of these things, I'd appreciate it.
+
+CUCI1_ACTION_9 = ~z~I'll see what I can do.
+
+CUCI1_ACTION_10 = ~z~Thanks, John.
+

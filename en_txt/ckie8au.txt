@@ -1,0 +1,14 @@
+CKIE8_ACTA_1 = ~z~You're Arthur, right?
+
+CKIE8_ACTA_2 = ~z~My name ain't no concern of yours.
+
+CKIE8_ACTB_1 = ~z~I'm hungry.
+
+CKIE8_ACTB_2 = ~z~I don't give a damn.
+
+CKIE8_ACTC_1 = ~z~No, but, you seem like a decent feller, behind it all...
+
+CKIE8_ACTC_2 = ~z~Then you ain't a good judge of character.
+
+CKIE8_ACTD_1 = ~z~Yeah, well... we'll leave it there then.
+

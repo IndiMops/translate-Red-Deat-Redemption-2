@@ -1,0 +1,118 @@
+MOON2_EXT_1 = ~z~Hey there.
+
+MOON2_EXT_2 = ~z~You made it in one piece.
+
+MOON2_EXT_3 = ~z~So, we good then?
+
+MOON2_EXT_4 = ~z~Excellent.
+
+MOON2_EXT_5 = ~z~That should send a clear enough message.
+
+MOON2_EXT_6 = ~z~I'd say you've earned yourself a drink.
+
+MOON2_EXT_7 = ~z~Thought I'd find you here.
+
+MOON2_EXT_8 = ~z~What the hell you think you playing at?
+
+MOON2_EXT_9 = ~z~It's alright.
+
+MOON2_EXT_10 = ~z~That was a real dumb move.
+
+MOON2_EXT_11 = ~z~I don't know what you're talking about.
+
+MOON2_EXT_12 = ~z~I thought I warned you.
+
+MOON2_EXT_13 = ~z~You know all them years...
+
+MOON2_EXT_14 = ~z~I never realized just how much a coward you really are.
+
+MOON2_EXT_15 = ~z~You go to hell, Maggie.
+
+MOON2_EXT_16 = ~z~Oh, I already have.
+
+MOON2_EXT_17 = ~z~And let me tell you...
+
+MOON2_EXT_18 = ~z~you will like it.
+
+MOON2_EXT_19 = ~z~My God...
+
+MOON2_EXT_20 = ~z~just look at these bastards, Danny-Lee.
+
+MOON2_EXT_21 = ~z~You think they give a single damn about you?
+
+MOON2_EXT_22 = ~z~I mean, who's this sap?
+
+MOON2_EXT_23 = ~z~Bartholomew Braithwaite.
+
+MOON2_EXT_24 = ~z~Yeah, I know who you are.
+
+MOON2_EXT_25 = ~z~So, your family's running moonshine now, huh?
+
+MOON2_EXT_26 = ~z~How the mighty have fallen.
+
+MOON2_EXT_27 = ~z~You're finished.
+
+MOON2_EXT_28 = ~z~Stay finished.
+
+MOON2_EXT_29 = ~z~Or I swear next time, you'll burn for good.
+
+MOON2_EXT_30 = ~z~Next time you should send someone more intimidating.
+
+MOON2_EXT_31 = ~z~Don't you worry about that.
+
+MOON2_EXT_32 = ~z~Come on.
+
+MOON2_EXT_33 = ~z~Thanks for stopping by, fellers.
+
+MOON2_EXT_34 = ~z~Oh, I've barely even started.
+
+MOON2_EXT_35 = ~z~Come on, let's have that drink.
+
+MOON2_IG1_BREAK_1 = ~z~I ain't playing here!
+
+MOON2_IG1_IDLE1_1 = ~z~What are you waiting for?
+
+MOON2_IG1_IDLE2_1 = ~z~What's the problem here? You gonna go in or not?
+
+MOON2_IG1_WAVE_1 = ~z~Come on through, you'll see where to unload down the way.
+
+MOON2_LRALERT_1 = ~z~We're under attack!
+
+MOON2_LRBANT1B_1 = ~z~~sl:0.0:0.9~I mean...~sl:0.0:2.2~if you think that Braithwaite boy's a bastard,~sl:0.3~you should meet his mother.
+
+MOON2_LRBANT1B_2 = ~z~~sl:0.0:1.3~She'd sour the morning's milk~sl:~just by looking a cow in the eye.
+
+MOON2_LRBANT1_1 = ~z~~sl:0.0:1.7~Hope that booze is almost ready to ship.~sl:0.5:1.8:1~I don't want to stay here any longer than we have to.
+
+MOON2_LRBANT2_1 = ~z~~sl:0.0:2.1~You hear the way Braithwaite speaks to Danny-Lee?~sl:0.9:1.8~I got to respect him for that, at least.~sl:0.4~Best when everybody knows their place...
+
+MOON2_LRNSEEN_01 = ~z~All clear on the water.
+
+MOON2_LRNSEEN_02 = ~z~All quiet on this side.
+
+MOON2_LRNSEEN_03 = ~z~Clear over here.
+
+MOON2_LRNSEEN_04 = ~z~Everything looks clear on my side.
+
+MOON2_LRWAGON1_1 = ~z~Hey! Who left this wagon here? This don't seem right.
+
+MOON2_LRWAGON2_1 = ~z~~sl:0.0:1.6~There's an abandoned wagon over here.~sl:0.2~Everyone look alive, I think we've got intruders.
+
+MOON2_MNBANT_1 = ~z~~sl:0.0:1.6~We gotta get a move on.~sl:~Danny-Lee told us this needs to be ready by sun up.
+
+MOON2_MNBANT_2 = ~z~~sl:0.0:1.7~Whatever they say about that feller,~sl:~he sure seems to know what he's doing.
+
+MOON2_MNBANT_3 = ~z~~sl:0.0:3.2~I ain't tasted shine this good since, well...~sl:0.4~Maggie was around. Guess that figures...
+
+MOON2_STILLLAG_01 = ~z~Kill them, damn it! Before they take down the whole operation!
+
+MOON2_STILLLAG_02 = ~z~Put them down, for chrissakes, or we'll lose every drop!
+
+MOON2_STILLLAG_03 = ~z~They took out another still! What the hell are we playing at here?
+
+MOON2_STILLLAK_01 = ~z~Jesus, come on! We've got to protect the stills!
+
+MOON2_STILLLAK_02 = ~z~Goddamn it, the stills! Take them down!
+
+MOON2_STILLS_1 = ~z~They're destroying the stills!
+

@@ -1,0 +1,88 @@
+0x1E30E568 = Цель доставлена
+
+0x6C7DA8E6 = Доставлено целей: ~1~ из ~2~
+
+0x9B0E54D4 = Заманите цель в ловушку и схватите ее
+
+0x9BFC2790 = Разгромите ~COLOR_MP_OBJECTIVE_ENEMY~самогонный аппарат~s~, чтобы выманить цель.
+
+0x23A7B03E = Цели доставлены
+
+0x38832DC4 = Заманите цели в ловушку и схватите их
+
+0x64188547 = Разгромите ~COLOR_MP_OBJECTIVE_ENEMY~самогонный аппарат~s~, чтобы выманить цель.
+
+FETCH_BB_LURE_BENEDICT_HELP_TEAM_PRIMARY = ~COLOR_MP_OBJECTIVE_ENEMY~«Лос Пасахерос»~s~ собирали припасы в Райлиз-Чардж. Найдите цель. Чтобы получить полную награду, доставьте преступника живым.
+
+FETCH_BB_LURE_GO_TO_0 = Направляйтесь ~1~.
+
+FETCH_BB_LURE_HELP_HAVOC_GOAL_APPROACH = Выманите цель, подняв шум или круша все ~COLOR_MP_OBJECTIVE_ENEMY~поблизости~s~. Убийства скорее привлекут внимание целей, но скажутся на вашей чести.
+
+FETCH_BB_LURE_HELP_HAVOC_GOAL_APPROACH_PLURAL = Выманите цели, подняв шум или круша все ~COLOR_MP_OBJECTIVE_ENEMY~поблизости~s~. Убийства скорее привлекут внимание целей, но скажутся на вашей чести.
+
+FETCH_BB_LURE_HELP_HONOR_KILL = Убийство мирных жителей и животных понижает вашу честь.
+
+FETCH_BB_LURE_HELP_TARGET_ESCAPING = ~COLOR_MP_OBJECTIVE_NEUTRAL~Цель~s~ пытается сбежать. Если ей удастся уйти от вас на достаточное расстояние, она сбежит, а вы не сможете получить за нее награду.
+
+FETCH_BB_LURE_HELP_TEAM_PRIMARY = Цель прячется где-то в ~COLOR_MP_OBJECTIVE_ENEMY~этом районе~s~. Чтобы получить полную награду, доставьте цель живой. За мертвых платят меньше.
+
+FETCH_BB_LURE_HELP_TEAM_PRIMARY_PLURAL = Цели прячутся где-то в ~COLOR_MP_OBJECTIVE_ENEMY~этом районе~s~. Чтобы получить полную награду, доставьте цели живыми. За мертвых платят меньше.
+
+FETCH_BB_LURE_OBJ_BENEDICT_HAVOC_GOAL = Устройте хаос и разрушения поблизости, чтобы заманить цель обратно в Райлиз-Чардж.
+
+FETCH_BB_LURE_OBJ_DROP = Сдайте цель.
+
+FETCH_BB_LURE_OBJ_ESCORT_DEFEND = Помогите доставить ~COLOR_MP_OBJECTIVE_FRIENDLY~цель~s~ ~1~.
+
+FETCH_BB_LURE_OBJ_ESCORT_DEFEND_PLURAL = Помогите доставить ~COLOR_MP_OBJECTIVE_FRIENDLY~цели~s~ ~1~.
+
+FETCH_BB_LURE_OBJ_ESCORT_DELIVER = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~цель~s~ ~1~.
+
+FETCH_BB_LURE_OBJ_ESCORT_DELIVER_PLURAL = Доставьте ~COLOR_MP_OBJECTIVE_FRIENDLY~цели~s~ ~1~.
+
+FETCH_BB_LURE_OBJ_ESCORT_DELIVER_STEAL = Отбейте ~COLOR_MP_OBJECTIVE_ENEMY~цель~s~ у ~COLOR_ENEMY~~1~.
+
+FETCH_BB_LURE_OBJ_FIND_FREE_ANIMAL = Освободите животных из клеток в указанной ~COLOR_MP_OBJECTIVE~области~s~.
+
+FETCH_BB_LURE_OBJ_FIND_FREE_ANIMAL_PLURAL = Освободите животных из клеток в указанной ~COLOR_MP_OBJECTIVE~области~s~.
+
+FETCH_BB_LURE_OBJ_FIND_HAVOC_GOAL = Устройте хаос и разрушения поблизости, чтобы выманить цель.
+
+FETCH_BB_LURE_OBJ_FIND_HAVOC_GOAL_PLURAL = Устройте хаос и разрушения поблизости, чтобы выманить цели.
+
+FETCH_BB_LURE_OBJ_FIND_MOONSHINE = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~оборудование для варки самогона~s~, чтобы выманить цель.
+
+FETCH_BB_LURE_OBJ_FIND_STOLEN_WAGONS = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~украденные повозки~s~, чтобы выманить цель.
+
+FETCH_BB_LURE_OBJ_GET_ON_MOUNT = Садитесь на лошадь.
+
+FETCH_BB_LURE_OBJ_KILL_CAPTURE = Схватите или убейте ~COLOR_ENEMY~цель~s~.
+
+FETCH_BB_LURE_OBJ_KILL_CAPTURE_PLURAL = Схватите или убейте ~COLOR_ENEMY~цели~s~.
+
+FETCH_BB_LURE_RHODES_APPROACH = Заманите ~COLOR_MP_OBJECTIVE_ENEMY~Неда Беллингема~s~ обратно в логово, уничтожив оборудование для варки самогона.
+
+FETCH_BB_LURE_RHODES_HELP_TEAM_PRIMARY = ~COLOR_MP_OBJECTIVE_ENEMY~Нед Беллингем~s~ контролирует основную точку по производству самогона у реки Ланахаси. Найдите и доставьте его живым, чтобы получить полную награду.
+
+FETCH_BB_LURE_SHARD_OVER_TARGET_ESCAPE = Цель сбежала
+
+FETCH_BB_LURE_SHARD_OVER_TARGET_ESCAPE_PLURAL = Цели сбежали
+
+FETCH_BB_LURE_STRAWBERRY_APPROACH = Заманите ~COLOR_MP_OBJECTIVE_ENEMY~посвященного~s~ обратно в логово, уничтожив похищенные повозки.
+
+FETCH_BB_LURE_STRAWBERRY_HELP_TEAM_PRIMARY = ~COLOR_MP_OBJECTIVE_ENEMY~«Посвященные»~s~ отвозят угнанные повозки и жертв в свое логово в Толл-Триз. Чтобы получить полную награду, доставьте их живыми.
+
+FETCH_BB_LURE_TICKER_DESTROY = Цель убита
+
+FETCH_BB_LURE_TICKER_DESTROY_YOU = Вы убили цель
+
+FETCH_BB_LURE_TICKER_ESCAPE = ~COLOR_MP_OBJECTIVE_ENEMY~Цель~s~ сбежала
+
+FETCH_BB_LURE_TICKER_TARGET_ARRIVE = Появилась ~COLOR_ENEMY~цель~s~
+
+FETCH_BB_LURE_TICKER_TARGET_ARRIVE_PLURAL = Появились ~COLOR_ENEMY~цели~s~
+
+FETCH_BB_LURE_WALLACE_HELP_TEAM_PRIMARY = Лучший ~COLOR_MP_OBJECTIVE_ENEMY~браконьер~s~ Теодора Ксавье держит животных в клетках в Большой долине. Выманите его, выпустив животных, и доставьте живым, чтобы получить полную награду.
+
+NET_FETCH_TEXT_HELP_SEARCH_AREA_CAGES = Выпустите животных из клеток во всех ~COLOR_MP_OBJECTIVE_NEUTRAL~охотничьих лагерях~s~, чтобы вынудить ~COLOR_MP_OBJECTIVE_ENEMY~браконьера~s~ вернуться с охоты.
+

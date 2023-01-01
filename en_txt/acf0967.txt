@@ -1,0 +1,46 @@
+967_AB_BCH_NEG_1 = ~z~You have a problem with me trusting you?
+
+967_AB_BCH_POS_1 = ~z~Yes, I see in your eyes that you're not a bad man.
+
+967_A_1 = ~z~Sometimes we must trust each other, even when we don't know each other.
+
+967_A_2 = ~z~Or else we walk this life alone...
+
+967_A_3 = ~z~for all I know, you are a thief and a killer, but, I rely on my instincts to tell me otherwise.
+
+967_BC_BCH_NEG_1 = ~z~Which is more than you are being, senor...
+
+967_BC_BCH_POS_1 = ~z~You would think this is fine, que no?
+
+967_B_1 = ~z~Like I was riding through the Heartlands the other day, and cut through someone's land,
+
+967_B_2 = ~z~looked like an old pig farm, when a couple call me over from the house.
+
+967_B_3 = ~z~Very nice man and woman, very friendly.
+
+967_CD_BCH_NEG_1 = ~z~Okay, you wanna act that way, we'll stay silent.
+
+967_C_1 = ~z~They keep saying that a traveler like me deserved some rest and refreshment,
+
+967_C_2 = ~z~inviting me to stay for dinner... I was tired, and I was hungry but mi corazonada...
+
+967_C_3 = ~z~the feeling in my gut said no. I don't know why but I trusted it.
+
+967_D_1 = ~z~Then the very next day, a man warns me to stay away from that place.
+
+967_D_2 = ~z~So I live by my instincts... I'm also real fast with a gun, which helps when the instincts fail me.
+
+967_EXIT_DAY_1 = ~z~Well, I've sat long enough. Rest here as long as you need.
+
+967_INTRO_1 = ~z~You trust me then?
+
+967_INTRO_NEG_1 = ~z~I don't know you.
+
+967_INTRO_NEG_J_1 = ~z~I don't know you.
+
+967_INTRO_POS_1 = ~z~Guess so.
+
+967_INTRO_POS_J_1 = ~z~Guess so.
+
+967_INT_BCH_NEG_1 = ~z~I'll take that as a no...
+

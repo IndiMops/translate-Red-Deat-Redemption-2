@@ -1,0 +1,82 @@
+AB21_ABELEAVE_1 = ~z~I'll see you later, hey. The messenger's up by the big house.
+
+AB21_ABEMSNG2_01 = ~z~Mr. Geddes's house, that's where you wanna go.
+
+AB21_ABEMSNG2_02 = ~z~That messenger's been waiting on you a while now.
+
+AB21_ABEMSNG2_03 = ~z~~sl:0.0:2.0~I wouldn't keep him waiting too long, Jim.~sl:0.2~Go up to the main house, won't take but a moment.
+
+AB21_DIMSNG_01 = ~z~Ain't you heard? There's a messenger for ya... Jim Milton.
+
+AB21_DIMSNG_02 = ~z~~sl:0.0:1.3~They've found you, Jim...~sl:0.6~go see the messenger up by Mr. Geddes's house.
+
+AB21_GOGEDDES_01 = ~z~If you're gonna speak to Geddes, I'd go speak to him.
+
+AB21_GOGEDDES_02 = ~z~Pluck up some courage, boy. And go and speak to the old man.
+
+AB21_GOGEDDES_03 = ~z~Has old Geddes given you that guidance yet?
+
+AB21_GOTLGRM_1 = ~z~~sl:0.0:3.0:1~Everyone wants a piece of Jim Milton now, don't they?
+
+AB21_GOTLGRM_2 = ~z~~sl:0.4~I don't know about that.
+
+AB21_GOTLGRM_3 = ~z~~sl:0.3~Jim Milton. Best man I know.
+
+AB21_GOTLGRM_4 = ~z~Abe, enough already.
+
+AB21_IG_WNT_1 = ~z~What you think he wants?
+
+AB21_IG_WNT_2 = ~z~~sl:0.0:1.3~I have no idea...~sl:1.0~but I doubt someone wants to give me a big pile of money.
+
+AB21_IG_WNT_3 = ~z~That's him.
+
+AB21_IG_WNT_4 = ~z~I see him... thanks, Abe.
+
+ABI21_INT_1 = ~z~Hey, Mr. Jim?
+
+ABI21_INT_2 = ~z~Mr. Jim.
+
+ABI21_INT_3 = ~z~Abe.
+
+ABI21_INT_4 = ~z~There's a telegram messenger for you...
+
+ABI21_INT_5 = ~z~over there, near the house.
+
+ABI21_INT_6 = ~z~There is?
+
+ABI21_INT_7 = ~z~Okay.
+
+ABI21_INT_8 = ~z~Thanks, Abe.
+
+ABI21_MCS1_1 = ~z~Excuse me, mister...
+
+ABI21_MCS1_2 = ~z~I'm Jim Milton.
+
+ABI21_MCS1_3 = ~z~Heard you had a telegram for me.
+
+ABI21_MCS1_4 = ~z~Yes, here.
+
+ABI21_MCS1_5 = ~z~Sign there.
+
+ABI21_MCS1_6 = ~z~Thank you.
+
+ABI21_MCS1_7 = ~z~Jim, stop.
+
+ABI21_MCS1_8 = ~z~If you're the J.M I know, stop.
+
+ABI21_MCS1_9 = ~z~It's Sadie Adler...
+
+ABI21_MCS1_10 = ~z~I've got something to discuss...
+
+ABI21_MCS1_11 = ~z~pay good...
+
+ABI21_MCS1_12 = ~z~meet me in saloon in Valentine...
+
+ABI21_MCS1_13 = ~z~I'm there most days, stop.
+
+ABI21_MCS1_14 = ~z~Sadie Adler...
+
+ABI21_MCS1_15 = ~z~I'll be damned.
+
+ABI21_MCS1_LI_1 = ~z~'Scuse me, mister... I'm Jim Milton.
+

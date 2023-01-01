@@ -1,0 +1,4 @@
+0x0CA910EF = You Don't Have Enough Money
+
+BC1_UC_GIVE = Give ~1$~
+

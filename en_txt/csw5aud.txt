@@ -1,0 +1,10 @@
+CCSW5_CNV01_1 = ~z~Hey!
+
+CCSW5_CNV01_2 = ~z~~sl:0.0:2.6~I'm not asleep, sir, in case you're wondering.~sl:1.0~I'm deep in thought.
+
+CCSW5_CNV01_3 = ~z~Oh yeah?
+
+CCSW5_CNV01_4 = ~z~~sl:0.0:1.2~Oh yeah...~sl:0.7:2.5~and the thing is, my friend, the thing is...~sl:0.6~it all seemed so important.
+
+CCSW5_CNV01_5 = ~z~~sl:0.0:2.8~I saw beautiful things and now they're gone...~sl:1.0~They're gone.
+

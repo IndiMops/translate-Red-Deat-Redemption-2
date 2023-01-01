@@ -1,0 +1,78 @@
+DRBWK_AGREE_1 = ~z~You will? Oh, thank you! Just please hurry.
+
+DRBWK_AMBUSH_01 = ~z~More? You goddamn kidding me.
+
+DRBWK_AMBUSH_02 = ~z~More of these sons of bitches?
+
+DRBWK_AMBUSH_03 = ~z~Christ, these bastards just can't get enough, can they?
+
+DRBWK_APPROACH_1 = ~z~Hey, hey, I'm in a nightmare here...
+
+DRBWK_APPROACH_2 = ~z~~sl:0.0:2.4~I was camping when some of those Raiders came,~sl:0.0:1.3~put a pistol to my face and said~sl:~they're taking my girl ...
+
+DRBWK_APPROACH_3 = ~z~~sl:0.0:1.5~and I gotta come to the marsh with~sl:~a hundred dollars to get her back.
+
+DRBWK_APPROACH_4 = ~z~~sl:0.0:1.2~I don't got that kinda money...~sl:0.0:1.9~and I sure don't have the means to be taking on~sl:~the goddamn Lemoyne Raiders. So...
+
+DRBWK_APPROACH_5 = ~z~~sl:0.0:2.6~so you... you look like you might be better equipped~sl:0.0:2.6~to deal with them boys... one way or another...~sl:0.3~please... please?
+
+DRBWK_ARRIVE_1 = ~z~~sl:0.0:1.3~Jimmy!~sl:0.5~We're having words you and me!
+
+DRBWK_CALLOUT_1 = ~z~~sl:0.0:0.9~Who is that?~sl:0.6~Jimmy? That you?
+
+DRBWK_CUTLOOSE_01 = ~z~You gonna help me out here or what?
+
+DRBWK_CUTLOOSE_02 = ~z~Are you gonna come and cut me loose, then?
+
+DRBWK_CUTLOOSE_03 = ~z~This is a just another goddamn nightmare.
+
+DRBWK_DECLINE_1 = ~z~This is useless, I'm done for.
+
+DRBWK_ESCORT_1 = ~z~~sl:0.0:3.0~Me and Jimmy was up on the river when those bastards grabbed me...~sl:~can you take me, see if we can find him?
+
+DRBWK_HURRY_1 = ~z~Hurry. Those southern boys, they ain't patient.
+
+DRBWK_IDLE_01 = ~z~Are you going or not?
+
+DRBWK_IDLE_02 = ~z~Quick, or they'll kill her, I know it.
+
+DRBWK_IDLE_03 = ~z~Please, hurry up if you're gonna.
+
+DRBWK_NEAR_1 = ~z~~sl:0.0:2.3~Ain't right. Second I'm anything but miserable,~sl:~I get taken by some coats.
+
+DRBWK_POSSEDIE_01 = ~z~You lot need to pull your finger out, they're killing you.
+
+DRBWK_POSSEDIE_02 = ~z~You're dropping like flies!
+
+DRBWK_RETURN_1 = ~z~Oh, thank God! You're alive.
+
+DRBWK_REWARD_1 = ~z~~sl:0.0:3.5~Here, take this. Appreciate you stepping in.~sl:0.4~Jimmy sure didn't.
+
+DRBWK_SITUATION_1 = ~z~Okay, they said they're over at Bluewater Marsh.
+
+DRBWK_SITUATION_2 = ~z~~sl:0.0:2.8~But please... they see you, they may kill her.~sl:0.2~Just... just be careful.
+
+DRBWK_SPOT1_1 = ~z~Hey, hey! C'mere! Please.
+
+DRBWK_SPOT2_01 = ~z~I really need some help over here!
+
+DRBWK_SPOT2_02 = ~z~This ain't no joke! C'mon.
+
+DRBWK_SPOT2_03 = ~z~Oh God, I'm losing my blamed mind here. C'mere...
+
+DRBWK_SURVIVE_01 = ~z~Christ, could use a drink.
+
+DRBWK_SURVIVE_02 = ~z~Just another day in my world of shit.
+
+DRBWK_THANKS_1 = ~z~~sl:0.0:3.0~Who are you? Did Jimmy send you?~sl:0.7~Whatever, hardly matters right now. We need to get the hell outta here.
+
+DRBWK_TRAPPED_01 = ~z~You just wait till my Jimmy finds me!
+
+DRBWK_TRAPPED_02 = ~z~I seen you coats in town! Bunch of damn dogs!
+
+DRBWK_TRAPPED_03 = ~z~Lay a finger on me, I'll rip your damn eyes out!
+
+DRBWK_WAIT_01 = ~z~Please, I'm plumb out of options here.
+
+DRBWK_WAIT_02 = ~z~Please, you gotta help me.
+

@@ -1,0 +1,20 @@
+CHWK1_ACT_1 = ~z~I've had quite a time of it, gentlemen... Mr. Pearson...
+
+CHWK1_ACT_2 = ~z~Mr. Pearson... look what I've got. Fish!
+
+CHWK1_ACT_3 = ~z~Mr. Matthews... Mr. Matthews, you should have been a sailor.
+
+CHWK1_ACT_4 = ~z~No thank you, I like to eat fish, not swim with them.
+
+CHWK1_ACT_5 = ~z~You know, one time, just off the Horn... a giant whale stalked us for months...
+
+CHWK1_ACT_6 = ~z~The same thing happened to me just south of Milwaukee...
+
+CHWK1_ACT_7 = ~z~only I don't like to talk about it. I have nasty memories, though.
+
+CHWK1_ACT_8 = ~z~You're not a kind man.
+
+CHWK1_ACT_9 = ~z~
+
+CHWK1_ACT_10 = ~z~I'm not fooled!
+

@@ -1,0 +1,32 @@
+CFMB3_ACT_1 = ~z~~sl:0.0:1.2~Look at you!~sl:0.1:0.8~Whining.~sl:0.0:0.8~Little.~sl:0.0:0.8~Women.~sl:0.2:1.4:1~All of yous.
+
+CFMB3_ACT_2 = ~z~~sl:0.0:2.3~I love Dutch, man.~sl:0.1~He's like a brother to me.
+
+CFMB3_ACT_3 = ~z~~sl:0.0:1.0~But...~sl:0.4~he attracts fools like flies to a turd.
+
+CFMB3_ACT_4 = ~z~Listen, what will be will be.
+
+CFMB3_ACT_5 = ~z~~sl:0.0:1.7~Ain't nothing a feller can do about it,~sl:0.0:2.2~ain't no one changing nothing.
+
+CFMB3_ACT_6 = ~z~~sl:0.0:2.3~I got all kinds of crazy in me,~sl:0.1:2.3~ain't nothing I can do about that.~sl:~Ain't my fault.
+
+CFMB3_ACT_7 = ~z~~sl:0.0:1.4~Ain't no one's fault.~sl:0.0:3.2~Just live your goddamn life and when it's time,~sl:~go out shooting!
+
+CFMB3_ACT_8 = ~z~~sl:0.0:1.5~Ain't no pity.~sl:0.1~Ain't no guilt.
+
+CFMB3_ACT_9 = ~z~~sl:0.0:0.9~Ain't none of that. ~sl:0.0:0.9~Don't mean nothing.~sl:~Ain't nothing!
+
+CFMB3_ACT_10 = ~z~~sl:0.0:2.3~The sooner you fools accept that,~sl:0.4:1.6~better you'll be.~sl:0.7~As men.
+
+CFMB3_ACT_11 = ~z~It's kill or be killed.
+
+CFMB3_ACT_12 = ~z~~sl:0.0:1.4~And right now...~sl:1.2~plenty of folk want our kind dead.
+
+CFMB3_ACT_13 = ~z~So we kill.
+
+CFMB3_ACT_14 = ~z~~sl:0.0:2.2~And them of us that's too weak...~sl:0.6~or too unlucky...
+
+CFMB3_ACT_15 = ~z~they'll be killed.
+
+CFMB3_ACT_16 = ~z~~sl:2.0:1.9~Accept it.~sl:0.9~Way of the world...
+

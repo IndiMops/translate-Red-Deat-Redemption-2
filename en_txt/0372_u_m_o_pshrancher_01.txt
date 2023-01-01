@@ -1,0 +1,192 @@
+0x04219336 = ~z~Get a move on.
+
+0x0570E5DA = ~z~I have a good aim. You don't wanna do this.
+
+0x0591EB01 = ~z~He...hello, again?
+
+0x1A204E95 = ~z~What do you think you're doing, huh?
+
+0x1D22D0BE = ~z~You know what? I've come to terms with what happened, but it's best if we keep our separate ways, don't you think?
+
+0x2A1BCD70 = ~z~Hey, let's cool it. C'mon.
+
+0x2A1F12CD = ~z~This? This what you want? Fine.
+
+0x3AAC2B79 = ~z~Dang it, keep your distance, will you? You're sick.
+
+0x3BC00AFC = ~z~Get out of the way.
+
+0x3D4CD999 = ~z~Wait until the law hears about this.
+
+0x3D7F88D7 = ~z~Hey, find your own path.
+
+0x3E7233A9 = ~z~Hey, I don't like the way you're looking at me.
+
+0x4BA9A52B = ~z~Please, you have to stop trailing me.
+
+0x4CEBD09C = ~z~What are you looking at?
+
+0x4D72AE61 = ~z~Move yourself.
+
+0x4D2070AC = ~z~What the hell? You better back down now.
+
+0x4DA3D9D6 = ~z~Fine, take this and leave me be.
+
+0x4FB3AA08 = ~z~Eyes ahead, c'mon.
+
+0x5C476526 = ~z~Hey, who do you think you are?
+
+0x6A34A4D7 = ~z~You're going to have to leave right away now. Can't have you here no more.
+
+0x7A6D7FD0 = ~z~Go on, get.
+
+0x7A8C9E44 = ~z~Don't be raising no more hell around here.
+
+0x8C6823B0 = ~z~Oh, watch it now.
+
+0x8E9F6DAC = ~z~I need you to make your way off of my property, now. Get.
+
+0x9D234D15 = ~z~Huh? What are you doing here?
+
+0x9ED60E19 = ~z~I'll need you to leave now. Move on.
+
+0x12B0BBDA = ~z~Hey, I'm over this now, but I ain't forgetting. You best act right with me from now on.
+
+0x12E95267 = ~z~Do you want to say that again?
+
+0x15E436BB = ~z~Move yourself, now.
+
+0x25CD7E32 = ~z~Whoa, put that piece down.
+
+0x29DF4A60 = ~z~Final warning, you hear me?
+
+0x34DD1380 = ~z~Get the hell out of here, or else.
+
+0x50A3B7C7 = ~z~Hey, listen. Let's put all that business from before behind us, but behave right, you hear me?
+
+0x52D5E43A = ~z~Alright. This is it.
+
+0x66B3D85D = ~z~Get out of here.
+
+0x69D9F561 = ~z~What the hell is wrong with you?
+
+0x75ABD8AE = ~z~Let me give you a warning. You should leave, now.
+
+0x91BEB64C = ~z~What the...? Who the hell are you?
+
+0x92E547EC = ~z~What the hell? You can't do that.
+
+0x94AB167A = ~z~I need more space here. Do you mind?
+
+0x98D45D50 = ~z~No, no, I'm begging you.
+
+0x172DE802 = ~z~I ain't paying no more mind to you.
+
+0x176EB42A = ~z~Yeah.
+
+0x185D29F3 = ~z~Whoa, hey. Can't we talk about this?
+
+0x246A7B60 = ~z~Hey, why don't you stow that away? Please.
+
+0x368B0CA9 = ~z~Keep going. That's it.
+
+0x413D0D1B = ~z~Watch it.
+
+0x475CB33E = ~z~What the danged hell is wrong with you?
+
+0x580F51CC = ~z~What in Pete's name have you done?
+
+0x637C59C8 = ~z~Hey. You can't be here.
+
+0x780C6691 = ~z~Is this your doing?
+
+0x920B9169 = ~z~This is a warning. Get.
+
+0x2263FE20 = ~z~All I have is this ranch and nothing else.
+
+0x3535EFB8 = ~z~Sure.
+
+0x3834ED79 = ~z~Are you testing me? Leave, now.
+
+0x4461A856 = ~z~That's right. Move along.
+
+0x6531C0DC = ~z~Did you do this?
+
+0x9394D0F6 = ~z~You're going to leave or I'll make you.
+
+0x15174EE8 = ~z~How dare you?
+
+0x44735F52 = ~z~Whoa, I ain't going to let you do that.
+
+0x101352BE = ~z~Dang, there ain't no need for that.
+
+0x267249F4 = ~z~Are you deaf? Get the hell off of here, now.
+
+0x486646ED = ~z~Oh, Christ, you alright?
+
+0x660832D4 = ~z~I know you heard me. Cut that out.
+
+0x878375CA = ~z~I said stop, or else.
+
+0x3203515A = ~z~I'm warning you. Move along.
+
+0x8161417C = ~z~Here, here, just take it.
+
+0x24626319 = ~z~I ain't gonna let you act like that, you hear me?
+
+0x36741980 = ~z~Who do you think you're talking to?
+
+0x78624132 = ~z~Time for you to move along now. Can't stay here.
+
+0xA9E78D77 = ~z~You should continue what you're doing, see if I care.
+
+0xA14DEC68 = ~z~You'll leave now or you'll regret it.
+
+0xA55CC119 = ~z~I mean it. Last and final warning.
+
+0xA71AF9DD = ~z~Please, don't.
+
+0xA849BDE5 = ~z~You've been warned. Step off my property.
+
+0xA7713C06 = ~z~Move away from me a bit, will you?
+
+0xB5A0025C = ~z~Don't do this here. C'mon.
+
+0xB6D7A709 = ~z~I don't have anything. Nothing, I promise.
+
+0xB21CBF33 = ~z~You really want to do this? I will shoot you.
+
+0xBD05BAC4 = ~z~I ain't going to let this place down.
+
+0xC7FE2A52 = ~z~Hey. Who do you think you are?
+
+0xC31EA85E = ~z~You. You better stop that.
+
+0xC38A406E = ~z~I swear there isn't anything of value on me.
+
+0xC39EEE00 = ~z~Are you deaf? I said that's enough.
+
+0xC147D2FC = ~z~I just can't have you here anymore. Let's go.
+
+0xC4113138 = ~z~You're building a sour reputation here. Know that.
+
+0xD1C699EC = ~z~I ain't telling you again.
+
+0xD7D98AAC = ~z~I don't like using this gun, but I will.
+
+0xD71C1ABF = ~z~Alright, alright, I ain't got nothing to say about this.
+
+0xD4533FC2 = ~z~I don't need this. Please!
+
+0xE94EBF24 = ~z~Fine, ain't no record of you being here. You happy now?
+
+0xE98E2985 = ~z~Hey, why don't you back away?
+
+0xE104D925 = ~z~What could you possibly want from me?
+
+0xE7817123 = ~z~Hey. What do you think you're doing?
+
+0xEA35761A = ~z~You piece of shit.
+
+0xF08921CE = ~z~I know how to fight. Don't make me.
+

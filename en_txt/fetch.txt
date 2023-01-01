@@ -1,0 +1,2166 @@
+0x00C307EC = Escape the ~COLOR_MP_OBJECTIVE~area~s~
+
+0x01172017 = to the ~HC_~1p~~ranch~s~
+
+0x038B8EB0 = The Jeb Phelps Contract
+
+0x0769EDBA = Leviticus Cornwall has become involved in the lucrative trade of Capitale. Help Martelli strike back against the oil magnate.
+
+0x077C18D9 = You have brought a cart ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x07884C40 = to the ~HC_~1p~~dead drop~s~
+
+0x09BB3EDA = Clearing House
+
+0x0A7DA6BD = Army Wagon
+
+0x0ACD7BEE = ~COLOR_MP_OBJECTIVE_ENEMY~Tobias Bellingham~s~ has been seen unloading supplies from trains heading to Saint Denis. Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for him.
+
+0x0D1ACEFB = ~1~ found the cash bag
+
+0x0D5F4332 = Wolf Skin
+
+0x0E49AC22 = to the ~HC_~1p~~dock~s~
+
+0x0EFE7B84 = Take the law into your own hands and hasten the death sentence of outlaws in transport.
+
+0x0F33E200 = Railroad Director
+
+0x0F67F761 = Commandeer vehicles from the open road.
+
+0x1A8F6F22 = The Cornwall Contract
+
+0x1BFFD62C = Decline Mission
+
+0x1C412D2F = Stop the ~COLOR_MP_OBJECTIVE~train
+
+0x1D709A94 = Wreak havoc and sabotage supplies.
+
+0x1DBBAAC5 = Back Pay
+
+0x1DF1951B = to the ~HC_~1p~~Dead Snake Woods~s~
+
+0x1F9F193F = White Wolf
+
+0x2B2FD68A = Safely return stolen property.
+
+0x2B18294F = You earned ~1$~
+
+0x2BC48128 = Separate valuable boats from their rightful owners.
+
+0x2BEF8456 = Wrongful Property
+
+0x2C7C7082 = Jeb Phelps
+
+0x2C91FBC0 = Supply Wagon
+
+0x2D311020 = You found the capitale stash
+
+0x3A770981 = Wait for your Posse to lose the ~COLOR_ENEMY~law~s~
+
+0x3E5776D9 = Stagecoach
+
+0x3F655DF3 = Goods Delivery
+
+0x3FF82641 = Moonshine Barrel
+
+0x4C964450 = ~1~ found the valuables
+
+0x4D7BE2A1 = You have brought a stagecoach ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x4DEBAA46 = Track down the target.
+
+0x4F7CE0D1 = The ~COLOR_ENEMY~enemies~s~ have taken a buggy ~1b~ to the drop off area and it can no longer be interacted with.
+
+0x5A4EF9AC = The Targets were killed
+
+0x5A46FD42 = Aid and abet usurped gang leader Jeb Phelps in order to track down his stash, which is rumored to include Capitale.
+
+0x5ACA37B1 = Supplies
+
+0x5BCF37CC = The ~COLOR_ENEMY~enemies~s~ have taken a stagecoach ~1b~ to the drop off area and it can no longer be interacted with.
+
+0x5BD7A3EA = Train
+
+0x5FDADEB2 = Use ~INPUT_INTERACT_LOCKON~ on the Defend Target ~1b~ to counter a rival player's mission.
+
+0x5FFBC3BC = Outlaw
+
+0x6A1B266E = Capitale Stash
+
+0x6A703853 = Medicine Wagon
+
+0x6B04BE00 = to the ~HC_~1p~~Heartlands Kerosene & Tar~s~
+
+0x6B697464 = Skiff
+
+0x6C1F1FAD = Van Horn
+
+0x6D7CBA37 = Bar Protection
+
+0x6EE220BD = Lose the ~COLOR_ENEMY~law~s~
+
+0x7BD378BF = to ~HC_~1p~~Wallace Overlook~s~
+
+0x7F9A311A = Saboteur
+
+0x8AB46D1E = A Lit Fuse
+
+0x8B535543 = ~1~ found the last capitale stash
+
+0x8FD487DC = to the ~HC_~1p~~location~s~
+
+0x9CB42DB7 = You found the valuables
+
+0x9F2D387D = The Dockside Contract
+
+0x9FFCAC88 = Prisoner Boat
+
+0x11ED4BB6 = Tiger
+
+0x15B4FEA7 = Do whatever it takes to deliver sought-after goods.
+
+0x25A66B1D = Hired Gun
+
+0x53AED523 = Intimidation Area
+
+0x59C80ECA = Turn in item
+
+0x64BB282A = Take loot bag
+
+0x69C88487 = Valuables
+
+0x73AE79A1 = Completed
+
+0x73DDD168 = You found the last cash bag
+
+0x73E89EB1 = to the ~HC_~1p~~Sheriff~s~
+
+0x80F7228E = to ~HC_~1p~~Cornwall Freight Dock~s~
+
+0x81A777A9 = ~1~/~2~
+
+0x96A23846 = Aid Martelli in his conflict with the corrupt tycoons of the Central Union Railroad, who have been dealing in Capitale.
+
+0x98A6CE92 = Focus on the clue
+
+0x110CBECF = Recover the debt owed by enigmatic musician Bluewater John and his former gang.
+
+0x143D2BE2 = The ~COLOR_ENEMY~enemies~s~ have taken a stranger ~1b~ to the drop off area and they can no longer be interacted with.
+
+0x177E346B = You found the cash bag
+
+0x256A570E = Destroy wagon
+
+0x286D8BEA = Assist Martelli as he exacts revenge on those who have meddled in his business at the St Denis Docks.
+
+0x477F8F22 = ~1~ found the capitale stash
+
+0x520D4F0E = Track, find and return missing persons.
+
+0x795E5FF7 = Reward
+
+0x836D4DAF = Hold ~INPUT_CONTEXT_B~ to stop the wagon driver.
+
+0x3034B6CC = to ~HC_~1p~~Twin Stack Pass~s~
+
+0x3134F06E = Goods Wagon
+
+0x3917BCE8 = to the ~HC_~1p~~location~s~
+
+0x3960B3AB = You found capitale stashes
+
+0x3992C038 = $~1~
+
+0x4175A77F = Saloon Owner
+
+0x4866B5DA = to the ~HC_~1p~~Thieves Landing Docks~s~
+
+0x5154CAB7 = to ~HC_~1p~~Rio Bravo~s~
+
+0x5288DB3A = Rescue prisoners from the hand of the law.
+
+0x5862C792 = Goat
+
+0x7114EE6C = You have brought a buggy ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x7863DC53 = You delivered a supply bag
+
+0x8188DB16 = The Railroad Contract
+
+0x8751B461 = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs around the camp.
+
+0x9609DBF3 = to the ~HC_~1p~~Antenor~s~
+
+0x9614E873 = ~1~ found the capitale stashes
+
+0x28544D77 = Captive
+
+0x53483B33 = Accept Mission
+
+0x259501AB = to the ~HC_~1p~~supply convoy~s~
+
+0x649493A7 = Retrieve stolen vehicles, preferably without shedding blood.
+
+0x826207FE = Get on the ~COLOR_MP_OBJECTIVE~train
+
+0x938473B9 = Your Posse delivered a supply bag
+
+0x73442756 = Thief
+
+0x81702416 = Donkey
+
+0xA0D001BB = The ~COLOR_ENEMY~enemies~s~ have taken the stranger ~1b~ to the drop off area and they can no longer be interacted with.
+
+0xA0E4939E = Circus Wagon
+
+0xA3ED16E5 = Return stolen wagons to their rightful owners.
+
+0xA4BB7CFA = ~1~ found the cash bags
+
+0xA4C08E8D = Horse
+
+0xA6FC7D4B = Jail Door
+
+0xA6FEDA04 = Guitar
+
+0xA8F97207 = Retrieve Capitale and other valuables from saloons playing host to criminals and their underhand deals.
+
+0xA9C3A891 = Robbery successful
+
+0xA9FA9CA2 = Protect valuable caravans from ambush.
+
+0xA37D3762 = You found the remaining valuables
+
+0xA95C2CC2 = Bounty Target
+
+0xA764F031 = You found the last capitale stash
+
+0xA1812FCA = Break known criminals out of prison.
+
+0xA18487A7 = Loot the bandits
+
+0xAAC22C8B = Track down valuable wagons and steal them.
+
+0xAEA9D7D2 = Time Remaining
+
+0xAF2C3000 = to the ~HC_~1p~~safehouse~s~
+
+0xB025E4E1 = Stash Area
+
+0xB0B90390 = to the ~HC_~1p~~Braithwaite Stables~s~
+
+0xB1DB7203 = Rout a camp of undesirables holding a secret stash said to contain Capitale.
+
+0xB38B7EAD = to ~HC_~1p~~Gaptooth Shore~s~
+
+0xB67EA5D7 = Go ~1~
+
+0xB980C760 = Take Capitale Stash
+
+0xB7334950 = Search for Capitale hidden in Blood Money Crimes. Criminals often store their stash while notable individuals may carry it on their person.
+
+0xBE88E8AD = The Saloons Contract
+
+0xC070561F = A buggy ~1b~ is now safely within the drop off area.
+
+0xC6A6F917 = Raid some unsuspecting homesteaders who have been seen stashing Capitale.
+
+0xC7BCB7E8 = Sheep
+
+0xC8A9184C = Dirty Money, Dirty Deeds
+
+0xC9EDBF2C = Badger
+
+0xCB843EAC = ~1~ found the last cash bag
+
+0xCD628D48 = Mission Failed
+
+0xCDA515B1 = Robbery over
+
+0xCFA54CD0 = Owanjila Dam
+
+0xCFE56CA7 = ~COLOR_MP_OBJECTIVE_FRIENDLY~~1~~s~ inspected a clue
+
+0xD3A78236 = Hold the reins tight and deliver valuable supplies.
+
+0xD63DDD63 = Inspect
+
+0xD752A453 = Stick up a lucrative stagecoach allegedly smuggling Capitale.
+
+0xD9172FC4 = Target Captured and Delivered
+
+0xDC08A541 = Flatneck Station
+
+0xDC815A80 = VIPs Remaining
+
+0xDCAE1103 = Cougar Skin
+
+0xDE370248 = Gray Wolf
+
+0xDFC9C4C4 = Track down the target and return them to the law
+
+0xE3F7A522 = Find and capture quality horses.
+
+0xE5BE450C = Stagecoach Stickup
+
+0xE6C04566 = to the buyer
+
+0xE8CCCA10 = Payroll Wagon
+
+0xE8E78C29 = ~1~ found the remaining valuables
+
+0xE25E72A1 = Gang Member
+
+0xE86B6BAD = The goods ~1b~ have been damaged. Driving offroad, recklessly, or colliding with obstacles will cause damage.
+
+0xE89DEE60 = A cart ~1b~ is now safely within the drop off area.
+
+0xE92FF8AA = You found the cash bags
+
+0xE13065FF = Hamlin's Passing
+
+0xE191772B = You lost honor as you or your Posse killed an innocent civilian or animal.
+
+0xEAAAF709 = Bluewater John
+
+0xEB708DC6 = Buck
+
+0xEE45A772 = to ~HC_~1p~~Bayou Train Overpass~s~
+
+0xEEA1E381 = Intercept a convoy of explosives on its way to Bacchus Station. Keep your eyes peeled for Capitale.
+
+0xEEAC0F85 = to the ~HC_~1p~~Saint Denis East Docks~s~
+
+0xEF9F8575 = to the ~HC_~1p~~Blackwater Police Department~s~
+
+0xEFE510C4 = War Wagon
+
+0xF2D8EF24 = The ~COLOR_ENEMY~enemies~s~ have taken a cart ~1b~ to the drop off area and it can no longer be interacted with.
+
+0xF31B8944 = The Bluewater Contract
+
+0xF39A0640 = Find a payroll wagon and relieve it of its cargo, which is rumored to include Capitale.
+
+0xF64E7085 = Harbor Master
+
+0xF377E087 = to the ~HC_~1p~~Little Creek River~s~
+
+0xFB4A9A39 = A stagecoach ~1b~ is now safely within the drop off area.
+
+0xFC86F440 = Reclaim a cache of stolen goods from a gang known to hoard Capitale.
+
+0xFC3310D0 = Cow
+
+0xFE7AE6F4 = Zebra
+
+BOUNTY_ESCORT_TARGET_HELP_VEHICLE_HALTED = The driver has stopped the wagon because you are too far away. Approach the wagon and hold ~INPUT_CONTEXT_B~ to get the wagon moving again.
+
+FETCH_AMMO_BOX_FOOTER_FIRE_BOTTLES = Fire Bottles
+
+FETCH_AMMO_BOX_FOOTER_SEDATIVE_ROUNDS = Sedative ammo
+
+FETCH_AMMO_BOX_TAKE = Take
+
+FETCH_BLIP_ALLIGATOR = Alligator
+
+FETCH_BLIP_ALLIGATOR_SKIN = Alligator Skin
+
+FETCH_BLIP_AMBUSH_LOCATION = Ambush Site
+
+FETCH_BLIP_BAIT_AREA = Bait Area
+
+FETCH_BLIP_BANDIT = Enemy
+
+FETCH_BLIP_BARTENDER = Bartender
+
+FETCH_BLIP_BEAR = Bear
+
+FETCH_BLIP_BEAR_LEGENDARY = Legendary Golden Spirit Bear
+
+FETCH_BLIP_BEAR_SKIN = Bear Skin
+
+FETCH_BLIP_BEAVER = Beaver
+
+FETCH_BLIP_BEAVER_LEGENDARY = Legendary Night Beaver
+
+FETCH_BLIP_BISON = Bison
+
+FETCH_BLIP_BISON_LEGENDARY = Legendary Payta Bison
+
+FETCH_BLIP_BISON_PELT = Bison Pelt
+
+FETCH_BLIP_BOAR = Boar
+
+FETCH_BLIP_BOAR_LEGENDARY = Legendary Icahi Boar
+
+FETCH_BLIP_BOOTLEGGER = Bootlegger
+
+FETCH_BLIP_BOUNTY = Bounty Target
+
+FETCH_BLIP_BOUNTY_HUNTER = Bounty Hunter
+
+FETCH_BLIP_BURN = Burn
+
+FETCH_BLIP_BUYER = Buyer
+
+FETCH_BLIP_CAGE = Animal Cage
+
+FETCH_BLIP_CAMP = Camp
+
+FETCH_BLIP_CAMPSITE = Campsite
+
+FETCH_BLIP_CAVE = Cave
+
+FETCH_BLIP_COUGAR = Cougar
+
+FETCH_BLIP_COUGAR_LEGENDARY = Legendary Sapa Cougar
+
+FETCH_BLIP_COW = Cow
+
+FETCH_BLIP_COYOTE = Coyote
+
+FETCH_BLIP_COYOTE_LEGENDARY = Legendary Milk Coyote
+
+FETCH_BLIP_CRIPPS = Cripps
+
+FETCH_BLIP_CROPS = Crops
+
+FETCH_BLIP_DEER = Deer
+
+FETCH_BLIP_DEER_LEGENDARY = Legendary Shadow Buck
+
+FETCH_BLIP_DESTINATION = Destination
+
+FETCH_BLIP_DESTROYED_CAMP = Destroyed Camp
+
+FETCH_BLIP_DESTROYED_WAGON = Destroyed Wagon
+
+FETCH_BLIP_DOG = Dog
+
+FETCH_BLIP_DOOR = Door
+
+FETCH_BLIP_ELK = Elk
+
+FETCH_BLIP_ELK_LEGENDARY = Legendary Inahme Elk
+
+FETCH_BLIP_ELK_PELT = Elk Pelt
+
+FETCH_BLIP_FARMER = Farmer
+
+FETCH_BLIP_FOREMAN = Foreman
+
+FETCH_BLIP_FOX_LEGENDARY = Legendary Cross Fox
+
+FETCH_BLIP_GATOR_LEGENDARY = Legendary Banded Gator
+
+FETCH_BLIP_GUARD = Enemy Area
+
+FETCH_BLIP_HIDEOUT = Hideout
+
+FETCH_BLIP_HIDE_AREA = Hiding location
+
+FETCH_BLIP_HORSE = Horse
+
+FETCH_BLIP_HOUND = Hound
+
+FETCH_BLIP_HUB = Last Known Location
+
+FETCH_BLIP_IGUANA = Iguana
+
+FETCH_BLIP_INFORMANT = Informant
+
+FETCH_BLIP_INSPECTED_CLUE = Inspected Clue
+
+FETCH_BLIP_JAIL = Jail
+
+FETCH_BLIP_LABORER = Laborer
+
+FETCH_BLIP_LAIR = Lair
+
+FETCH_BLIP_LAST_KNOWN = Last Known Location
+
+FETCH_BLIP_LAWMAN = Lawman
+
+FETCH_BLIP_LEADER = Leader
+
+FETCH_BLIP_LEAVE_AREA = Enemy Area
+
+FETCH_BLIP_MOONSHINER = Moonshiner
+
+FETCH_BLIP_MOONSHINE_COOK = Marcel
+
+FETCH_BLIP_MOONSHINE_PROPERTY = Moonshine Operation
+
+FETCH_BLIP_MOOSE_LEGENDARY = Legendary Ruddy Moose
+
+FETCH_BLIP_MOUNTAINMAN = Mountain Man
+
+FETCH_BLIP_NAME_WITH_PLAYER = ~1~ (~2p~)
+
+FETCH_BLIP_OUTLAW = Corpse
+
+FETCH_BLIP_OX = Ox
+
+FETCH_BLIP_PANTHER = Panther
+
+FETCH_BLIP_PANTHER_LEGENDARY = Legendary Iwakta Panther
+
+FETCH_BLIP_PASSENGER = Passenger
+
+FETCH_BLIP_PATRON = Patron
+
+FETCH_BLIP_PHOTOGRAPHER = Photographer
+
+FETCH_BLIP_PIG = Pig
+
+FETCH_BLIP_POACHER = Poacher
+
+FETCH_BLIP_PRISONER = Prisoner
+
+FETCH_BLIP_PRISON_WAGON = Prison Wagon
+
+FETCH_BLIP_PRONGHORN = Pronghorn
+
+FETCH_BLIP_RAM = Ram
+
+FETCH_BLIP_RAM_LEGENDARY = Legendary Rutile Horn Ram
+
+FETCH_BLIP_RANCHER = Rancher
+
+FETCH_BLIP_RECIPIENT = Recipient
+
+FETCH_BLIP_RESIDENT = Resident
+
+FETCH_BLIP_REVENUE_AGENT = Revenue Agent
+
+FETCH_BLIP_RIVAL_MOONSHINE_CABIN = Rival Moonshiners' Cabin
+
+FETCH_BLIP_RIVAL_MOONSHINE_CAMP = Rival Moonshiners' Camp
+
+FETCH_BLIP_ROBBER = Robber
+
+FETCH_BLIP_SAINT_DENIS_MARKET = Saint Denis Market
+
+FETCH_BLIP_SEARCH = Search Area
+
+FETCH_BLIP_SIGHTING_LOCATION = Sighting Location
+
+FETCH_BLIP_STRANGER = Stranger
+
+FETCH_BLIP_TARGET = Target
+
+FETCH_BLIP_TOWNFOLK = Townfolk
+
+FETCH_BLIP_TRADER = Trader
+
+FETCH_BLIP_TRAIL = Trail
+
+FETCH_BLIP_TRAIL_HINT = Tracks
+
+FETCH_BLIP_TRAIN_CLERK = Train Clerk
+
+FETCH_BLIP_TRAVELER = Traveler
+
+FETCH_BLIP_TREASURE_HUNTER = Treasure Hunter
+
+FETCH_BLIP_TURN_IN = Drop Off
+
+FETCH_BLIP_VICTIM = Victim
+
+FETCH_BLIP_VIP = Captive
+
+FETCH_BLIP_WOLF = Wolf
+
+FETCH_BLIP_WOLF_BLACK = Black Wolf
+
+FETCH_BLIP_WOLF_LEGENDARY = Legendary Moonstone Wolf
+
+FETCH_BLIP_WORKER = Worker
+
+FETCH_BOUNTY_BOARD = Bounty Hunter
+
+FETCH_BOUNTY_BOARD_SCORETIMER_ESCORT_TEAM_PRIMARY = ~1~ is escorting the prison wagon
+
+FETCH_BOUNTY_BOARD_SCORETIMER_ESCORT_YOU_TEAM_PRIMARY = You are escorting the ~COLOR_MP_OBJECTIVE_FRIENDLY~prison wagon~s~
+
+FETCH_BOUNTY_BOARD_SCORETIMER_KILLED = A bounty target has been killed
+
+FETCH_BOUNTY_BOARD_SCORETIMER_OBJ_REACHED_DRIVE_TO = Bounty has arrived
+
+FETCH_BOUNTY_BOARD_SCORETIMER_OBJ_REACHED_DRIVE_TO_PLURAL = Bounties have arrived
+
+FETCH_BOUNTY_BOARD_SCORETIMER_PRIMARY_PASS = ~1~ delivered a bounty dead
+
+FETCH_BOUNTY_BOARD_SCORETIMER_PRIMARY_PASS_ALIVE = ~1~ delivered a bounty alive
+
+FETCH_BOUNTY_BOARD_SCORETIMER_PRIMARY_PASS_ALIVE_NP = A bounty has been delivered alive
+
+FETCH_BOUNTY_BOARD_SCORETIMER_PRIMARY_PASS_ALIVE_YOU = You delivered a bounty alive
+
+FETCH_BOUNTY_BOARD_SCORETIMER_PRIMARY_PASS_ALIVE_YOUR = Your Posse delivered a bounty alive
+
+FETCH_BOUNTY_BOARD_SCORETIMER_PRIMARY_PASS_NP = A bounty has been delivered dead
+
+FETCH_BOUNTY_BOARD_SCORETIMER_PRIMARY_PASS_YOU = You delivered a bounty dead
+
+FETCH_BOUNTY_BOARD_SCORETIMER_PRIMARY_PASS_YOUR = Your Posse delivered a bounty dead
+
+FETCH_BOUNTY_CAGED_TARGET_SHARD_NAME = Caged Target
+
+FETCH_BOUNTY_DYNAMIC = Bounty Target
+
+FETCH_BOUNTY_ESCORT_TARGET_SHARD_NAME = Escort Target
+
+FETCH_BOUNTY_HORDE_SHARD_NAME = Horde
+
+FETCH_BOUNTY_INFILTRATION_SHARD_NAME = Infiltration
+
+FETCH_BOUNTY_KNOWN_TARGET_MOVING_SHARD_NAME = Known Target Moving
+
+FETCH_BOUNTY_KNOWN_TARGET_SHARD_NAME = Known Target
+
+FETCH_BROKEN_DOWN_SHARD_NAME = RESUPPLY
+
+FETCH_BTY_GOTO_REACHED = The target is nearby. Search their last known location ~o~~BLIP_AMBIENT_SECRET~~s~ for signs of their whereabouts.
+
+FETCH_BTY_GOTO_REACHED_ARMADILLO_TRACK = Search ~COLOR_MP_OBJECTIVE_ENEMY~The Butchers'~s~ hideout for signs of the target.
+
+FETCH_BTY_GOTO_REACHED_PLURAL = The targets are nearby. Search their last known location ~o~~BLIP_AMBIENT_SECRET~~s~ for signs of their whereabouts.
+
+FETCH_BTY_GOTO_REACHED_RHODES_TRACK = ~COLOR_MP_OBJECTIVE_ENEMY~Tobias Bellingham~s~ has been seen unloading supplies from trains heading to Saint Denis. Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for him.
+
+FETCH_BTY_GOTO_REACHED_TRACK_ANNESBURG = The target is no longer in this area. Approach and free the ~COLOR_MP_OBJECTIVE~hogtied captive~s~ to find out more information.
+
+FETCH_BTY_GOTO_REACHED_VAN_HORN_TRACK = Search the cabin for signs of ~COLOR_MP_OBJECTIVE_ENEMY~Owen Colt~s~ and his whereabouts.
+
+FETCH_BTY_GOTO_REACHED_WALLACE_STATION_TRACK = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs around the camp.
+
+FETCH_BTY_GO_TO_LAST_KNOWN_LOCATION = Go to the ~COLOR_MP_OBJECTIVE~last known location~s~
+
+FETCH_BTY_HELP_ANNESBURG_TRACK_UNTIED = The ~COLOR_MP_OBJECTIVE_ENEMY~Wrecker~s~ you are looking for left for Van Horn to get supplies.
+
+FETCH_BTY_HELP_DEAD_END = The target hasn't been this way. Backtrack to~COLOR_MP_OBJECTIVE~~BLIP_AMBIENT_SECRET~~s~and try another path.
+
+FETCH_BTY_HELP_DISMOUNT = You must be on foot to inspect the clue.
+
+FETCH_BTY_HELP_LOOK_AT_CLUE = Focus on the clue
+
+FETCH_BTY_HELP_OBJECTIVE_ESCAPING = The ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ ~1b~ is escaping: capture them before they escape.
+
+FETCH_BTY_HELP_RIGGS_TRACK_LOOTED = The gang members you are looking for are working the southern side of Blackwater. Continue tracking their whereabouts.
+
+FETCH_BTY_HELP_SEARCH_CLUE_ANNESBURG_CIGAR = The ~COLOR_MP_OBJECTIVE_ENEMY~Wrecker~s~ has left behind an empty bottle and a cigar. Follow the trail to find out where he has gone.
+
+FETCH_BTY_HELP_SEARCH_CLUE_FOUND_TARGET = The target has left the area. Follow their tracks to any clues they have left behind to find them.
+
+FETCH_BTY_HELP_SEARCH_CLUE_FOUND_WALLACE_STATION_TRACK = The campfire was extinguished recently. Follow the trail to find the ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~.
+
+FETCH_BTY_HELP_SEARCH_CLUE_RHODES_BARREL = The barrel has recently fallen off a wagon. ~COLOR_MP_OBJECTIVE_ENEMY~Tobias Bellingham~s~ must be nearby.
+
+FETCH_BTY_HELP_SEARCH_CLUE_RHODES_BOTTLE = This half empty bottle of moonshine has been left behind by ~COLOR_MP_OBJECTIVE_ENEMY~Tobias Bellingham~s~. Continue tracking his whereabouts.
+
+FETCH_BTY_HELP_SEARCH_CLUE_RHODES_DROPPED_BOTTLE = This partially empty bottle was dropped in a hurry. Keep searching for ~COLOR_MP_OBJECTIVE_ENEMY~Tobias Bellingham~s~.
+
+FETCH_BTY_HELP_SEARCH_CLUE_RHODES_DUMPED_BATCH = This batch of moonshine was dumped a while ago. Backtrack and continue searching elsewhere.
+
+FETCH_BTY_HELP_SEARCH_CLUE_RHODES_MASH = These moonshine mash ingredients have been left behind. Follow the correct tracks to find ~COLOR_MP_OBJECTIVE_ENEMY~Tobias Bellingham~s~.
+
+FETCH_BTY_HELP_SEARCH_CLUE_RHODES_STILL = This moonshine and damaged still have been visited recently.
+
+FETCH_BTY_HELP_SEARCH_CLUE_RIGGS_BLOOD = The gang members have collected and moved on from here. Follow their tracks to where they have gone next.
+
+FETCH_BTY_HELP_SEARCH_CLUE_SAINT_DENIS_BLOOD = ~COLOR_MP_OBJECTIVE_ENEMY~Gault~s~ has claimed a victim here recently.
+
+FETCH_BTY_HELP_SEARCH_CLUE_SAINT_DENIS_HAT = There are signs of a recent struggle here. Follow the trail to find out where ~COLOR_MP_OBJECTIVE_ENEMY~Gault~s~ has taken his latest victim.
+
+FETCH_BTY_HELP_SEARCH_TARGET = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the target.
+
+FETCH_BTY_HELP_SEARCH_TARGET_KM = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the target.
+
+FETCH_BTY_HELP_SEARCH_TARGET_PLURAL = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the targets.
+
+FETCH_BTY_HELP_SEARCH_TARGET_PLURAL_KM = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the targets.
+
+FETCH_BTY_HELP_TARGET_STOW = The target can be stored on your horse for easy transport if there is space.
+
+FETCH_BTY_HELP_VAN_HORN_TRACK_TARGET_FOUND = Stay undetected and take ~COLOR_MP_OBJECTIVE_ENEMY~Owen Colt~s~ ~1b~ by surprise as he robs the camp.
+
+FETCH_BTY_INSPECT_CLUE = Inspect
+
+FETCH_BTY_OBJ_CARRY = Pick up the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+FETCH_BTY_OBJ_CARRY_PLURAL = Pick up the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~
+
+FETCH_BTY_OBJ_DEFEND_TARGET = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~target~s~ ~1~
+
+FETCH_BTY_OBJ_DEFEND_TARGET_PLURAL = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~targets~s~ ~1~
+
+FETCH_BTY_OBJ_DELIVERY_TARGET = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~target~s~ ~1~
+
+FETCH_BTY_OBJ_DELIVERY_TARGET_PLURAL = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~targets~s~ ~1~
+
+FETCH_BTY_OBJ_DROP_TARGET = Drop off the target
+
+FETCH_BTY_OBJ_DROP_TARGET_PLURAL = Drop off the targets
+
+FETCH_BTY_OBJ_FIND = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the target
+
+FETCH_BTY_OBJ_FIND_PLURAL = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the targets
+
+FETCH_BTY_OBJ_FOLLOW_TRAIL = Follow the trail left by the target
+
+FETCH_BTY_OBJ_GET_ON_MOUNT = Get on the horse
+
+FETCH_BTY_OBJ_GOTO = Go ~1~
+
+FETCH_BTY_OBJ_KILL_CAPTURE = Kill or capture the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+FETCH_BTY_OBJ_KILL_CAPTURE_PLURAL = Kill or capture the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~
+
+FETCH_BTY_OBJ_KILL_ENEMIES = Kill the ~COLOR_MP_OBJECTIVE_ENEMY~bandits~s~
+
+FETCH_BTY_OBJ_STEAL_FROM_POSSE_TARGET = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ from ~COLOR_ENEMY~~1~~s~
+
+FETCH_BTY_OBJ_STEAL_FROM_POSSE_TARGET_PLURAL = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~ from ~COLOR_ENEMY~~1~~s~
+
+FETCH_BTY_OBJ_STEAL_TARGET = Pick up the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+FETCH_BTY_OBJ_STEAL_TARGET_PLURAL = Pick up the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~
+
+FETCH_BTY_OBJ_UNTIE_STRANGER = Untie the ~COLOR_MP_OBJECTIVE~stranger~s~
+
+FETCH_BTY_PRIMARY_TARGET = Search near the target's last known location ~o~~BLIP_OBJECTIVE~~s~. Deliver the target ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ alive for the full reward. Dead targets are worth less.
+
+FETCH_BTY_PRIMARY_TARGET_ANNESBURG_TRACK = One of the ~COLOR_MP_OBJECTIVE_ENEMY~Wreckers~s~ has recently stolen some explosives en route to the Annesburg mines. Track him down and deliver him alive for the full reward.
+
+FETCH_BTY_PRIMARY_TARGET_ARMADILLO_TRACK = ~COLOR_MP_OBJECTIVE_ENEMY~The Butchers~s~ are known to take their victims to Twin Rocks. Track down the target and deliver them alive for the full reward.
+
+FETCH_BTY_PRIMARY_TARGET_PLURAL = Search near the targets' last known location ~o~~BLIP_OBJECTIVE~~s~. Deliver the targets ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ alive for the full reward. Dead targets are worth less.
+
+FETCH_BTY_PRIMARY_TARGET_PLURAL_RIGGS_TRACK = Members of ~COLOR_MP_OBJECTIVE_ENEMY~Brown's gang~s~ are collecting from their victims around Blackwater. Find and deliver them alive for the full reward.
+
+FETCH_BTY_PRIMARY_TARGET_PLURAL_WALLACE_STATION_TRACK = Theodore Xavier's top ~COLOR_MP_OBJECTIVE_ENEMY~poachers~s~ are rumored to be hunting in Grizzlies West. Find and deliver them alive for the full reward.
+
+FETCH_BTY_PRIMARY_TARGET_RHODES_TRACK = ~COLOR_MP_OBJECTIVE_ENEMY~Tobias Bellingham~s~ is attempting to set up moonshine stills nearby. Find and deliver him alive for the full reward.
+
+FETCH_BTY_PRIMARY_TARGET_SAINT_DENIS_TRACK = ~COLOR_MP_OBJECTIVE_ENEMY~Gault~s~ has been recently seen stalking people around east Saint Denis. Find him and deliver him alive for the full reward.
+
+FETCH_BTY_PRIMARY_TARGET_VAN_HORN_TRACK = Travelers have reported a thief like ~COLOR_MP_OBJECTIVE_ENEMY~Owen Colt~s~ operating out from the west Roanoke Ridge hills. Find and deliver him alive for the full reward.
+
+FETCH_BTY_RIGGS_TRACK_OBJ_KILL_ENEMIES = Kill the ~COLOR_MP_OBJECTIVE_ENEMY~gang members~s~
+
+FETCH_BTY_RIGGS_TRACK_OBJ_LOOT_ENEMIES = Loot the gang members
+
+FETCH_BTY_SCORETIMER_CLUE_INSPECTED = ~COLOR_MP_OBJECTIVE_FRIENDLY~~1~~s~ inspected a clue
+
+FETCH_BTY_SCORETIMER_OBJECTIVE_ESCAPED = A ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ has escaped
+
+FETCH_BTY_SCORETIMER_OBJECTIVE_LOST = A ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ has been lost
+
+FETCH_BTY_SCORETIMER_OBJECTIVE_LOST_YOU = You lost a ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+FETCH_BTY_SCORETIMER_PRIMARY_JOIN = ~1~ has joined in the Hunt
+
+FETCH_BTY_SCORETIMER_TRIGGER_ACTION = ~1~ alerted the target
+
+FETCH_BTY_SCORETIMER_TRIGGER_ACTION_PLURAL = ~1~ alerted the targets
+
+FETCH_BTY_SHARD_ANNESBURG_HOGTIED_STRANGER_KILLED = The stranger has been killed
+
+FETCH_BTY_SHARD_OUTSIDE_CLEANUP_RADIUS = Target Escaped
+
+FETCH_BTY_SHARD_OUTSIDE_CLEANUP_RADIUS_PLURAL = Targets Escaped
+
+FETCH_CAMPSITE_DEFEND_HELP_DYNAMIC_NEARBY = A stranger ~1b~ is requesting help. Help them by defending their campsite from the attackers.
+
+FETCH_CAMPSITE_DEFEND_SHARD_NAME = Campsite Defend
+
+FETCH_CAMP_RAID = Camp Raid
+
+FETCH_CAMP_RAID_SHARD_NAME = Camp Raid
+
+FETCH_CAMP_RESUPPLY = Resupply
+
+FETCH_CAMP_RESUPPLY_CHEMICAL_WAGON_SHARD_NAME = RESUPPLY
+
+FETCH_CAMP_RESUPPLY_INTRO_SHARD_NAME = SUPPLY RUN
+
+FETCH_CAMP_RESUPPLY_STATIONARY_SHARD_NAME = RESUPPLY
+
+FETCH_CAMP_RESUPPLY_UNLOADING_HELP_HONOR_KILL = You lost honor as you killed a guard.
+
+FETCH_CAMP_RESUPPLY_UNLOADING_HELP_HONOR_WARNING = Killing guards will lose you honor.
+
+FETCH_CAMP_RESUPPLY_UNLOADING_HELP_INTRO = Steal the supplies and deliver them to Camp ~1b~ to resume operations. Supplies returned will also add materials to Cripps Trading Co.
+
+FETCH_CAMP_RESUPPLY_UNLOADING_OBJ_STEAL_SUPPLIES_PLURAL = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+FETCH_CAMP_RESUPPLY_UNLOADING_ONE_BAG_HELP = You can only carry one supply bag at a time.
+
+FETCH_CAMP_RESUPPLY_UNLOADING_SHARD_DESC_PRIMARY = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+FETCH_CAMP_RESUPPLY_UNLOADING_SHARD_DESC_PRIMARY_PLURAL = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+FETCH_CAMP_RESUPPLY_UNLOADING_SHARD_PRIMARY_PASS = Supply bag delivered
+
+FETCH_CAMP_RESUPPLY_UNLOADING_SHARD_PRIMARY_PASS_PARTIAL = ~1~/~2~ bags delivered
+
+FETCH_CAMP_RESUPPLY_UNLOADING_SHARD_PRIMARY_PASS_PLURAL = Supply bags delivered
+
+FETCH_CAMP_RESUPPLY_UNLOADING_SUPPLIES = Resupply
+
+FETCH_CAMP_RESUPPLY_UNLOADING_SUPPLIES_DELIVER_PRIMARY_PASS = ~1~ delivered a supply bag
+
+FETCH_CAMP_RESUPPLY_UNLOADING_SUPPLIES_SHARD_NAME = Resupply
+
+FETCH_CAMP_SELL = Goods Delivery
+
+FETCH_CAMP_SETUP = Supply Run
+
+FETCH_COMPANION_FOLLOW_ME = Follow Me
+
+FETCH_CONTESTED_SHARD_NAME = Goods Delivery
+
+FETCH_CONVOY_ESCORT_SHARD_WAGON_NAME = Caravan Escort
+
+FETCH_CTX_DEFEND = Defend
+
+FETCH_CTX_DEFEND_TARGET = Defend Target
+
+FETCH_CTX_PICK_UP_PACKAGE = Pick up bag
+
+FETCH_CTX_SABOTAGE_MOONSHINE = Poison Moonshine
+
+FETCH_CTX_TURN_IN_CAMP_RESUPPLY_UNLOADING = Deliver ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ ~1~
+
+FETCH_CTX_TURN_IN_PACKAGE = Turn in bag
+
+FETCH_CTX_TURN_IN_PACKAGE_MAIL = Turn in mail
+
+FETCH_DEFEND_AGAINST_SHARD_NAME = Resupply
+
+FETCH_DELIVERY_SHARD_NAME = Delivery
+
+FETCH_DESTROY_SHARD_NAME = Destroy Supplies
+
+FETCH_DRIVER_START_WAGON = Start Wagon
+
+FETCH_DRIVER_STOP_WAGON = Stop Wagon
+
+FETCH_DYNAMIC_AMBUSH_PROMPT = Accept Escort
+
+FETCH_DYNAMIC_AMBUSH_SHARD_NAME = Ambush
+
+FETCH_DYNAMIC_RESCUE_PED_SCORETIMER_ESCORT_TEAM_PRIMARY = ~1~ is escorting a stranger
+
+FETCH_DYNAMIC_RESCUE_PED_SCORETIMER_ESCORT_YOU_TEAM_PRIMARY = You are escorting the ~COLOR_MP_OBJECTIVE_FRIENDLY~stranger~s~
+
+FETCH_GOTO_ABANDONED_BUILDING = to the ~HC_~1p~~abandoned building~s~
+
+FETCH_GOTO_ABANDONED_DERRICK = to the ~HC_~1p~~abandoned oil derrick~s~
+
+FETCH_GOTO_ABANDONED_FORT = to the ~HC_~1p~~fort~s~
+
+FETCH_GOTO_ABERDEEN = to ~HC_~1p~~Aberdeen Pig Farm~s~
+
+FETCH_GOTO_ADLERS_RANCH = to the ~HC_~1p~~ranch~s~
+
+FETCH_GOTO_ALCHEMIST_HOUSE = to the ~HC_~1p~~location~s~
+
+FETCH_GOTO_ALLEY = to the ~HC_~1p~~alley~s~
+
+FETCH_GOTO_AMBARINO = to ~HC_~1p~~Ambarino~s~
+
+FETCH_GOTO_ANNESBURG = to ~HC_~1p~~Annesburg~s~
+
+FETCH_GOTO_ANNESBURG_MINES = to the ~HC_~1p~~Annesburg Mines~s~
+
+FETCH_GOTO_ANNESBURG_STATION = to the ~HC_~1p~~Annesburg Station~s~
+
+FETCH_GOTO_ARMADILLO = to ~HC_~1p~~Armadillo~s~
+
+FETCH_GOTO_ARMADILLO_SALOON = to the ~HC_~1p~~Armadillo Saloon~s~
+
+FETCH_GOTO_ARMADILLO_STATION = to ~HC_~1p~~Armadillo Station~s~
+
+FETCH_GOTO_AURORA_BASIN = to ~HC_~1p~~Aurora Basin~s~
+
+FETCH_GOTO_BACCHUS_STATION = to ~HC_~1p~~Bacchus Station~s~
+
+FETCH_GOTO_BARDS_CROSSING = to ~HC_~1p~~Bard's Crossing~s~
+
+FETCH_GOTO_BARROW_LAGOON = to ~HC_~1p~~Barrow Lagoon~s~
+
+FETCH_GOTO_BAYOU_NWA = to ~HC_~1p~~Bayou Nwa~s~
+
+FETCH_GOTO_BB_AURORA_BASIN = to ~HC_~1p~~Aurora Basin~s~
+
+FETCH_GOTO_BB_BENEDICT_POINT = to ~HC_~1p~~Benedict Point~s~
+
+FETCH_GOTO_BB_BLACKWATER = to the ~HC_~1p~~Blackwater Camp~s~
+
+FETCH_GOTO_BB_BRAITHWAITE_ESTATE = to the ~HC_~1p~~Braithwaite Estate~s~
+
+FETCH_GOTO_BB_BUTCHER_CREEK = to ~HC_~1p~~Butcher Creek~s~
+
+FETCH_GOTO_BB_CARMODY_DELL = to ~HC_~1p~~Carmody Dell~s~
+
+FETCH_GOTO_BB_CHOLLA_SPRINGS = to ~HC_~1p~~Cholla Springs~s~
+
+FETCH_GOTO_BB_GRAVEYARD = to the ~HC_~1p~~Saint Denis Graveyard~s~
+
+FETCH_GOTO_BB_HEARTLAND_OVERFLOW = to ~HC_~1p~~Heartland Overflow~s~
+
+FETCH_GOTO_BB_LAKE_ISABELLA = to ~HC_~1p~~Lake Isabella~s~
+
+FETCH_GOTO_BB_MONTOS_REST = to ~HC_~1p~~Monto's Rest~s~
+
+FETCH_GOTO_BB_OLD_TOMS = to ~HC_~1p~~Old Tom's Blind Camp~s~
+
+FETCH_GOTO_BB_RILEYS_CHARGE = to ~HC_~1p~~Riley's Charge~s~
+
+FETCH_GOTO_BB_RINGNECK_CREEK = to ~HC_~1p~~Ringneck Creek~s~
+
+FETCH_GOTO_BB_STILLWATER_CREEK = to ~HC_~1p~~Stillwater Creek~s~
+
+FETCH_GOTO_BB_VIKING_TOMB = to ~HC_~1p~~Viking Tomb~s~
+
+FETCH_GOTO_BB_WINDOW_ROCK = to ~HC_~1p~~Window Rock~s~
+
+FETCH_GOTO_BEAVER_HOLLOW = to ~HC_~1p~~Beaver Hollow~s~
+
+FETCH_GOTO_BEECHERS_HOPE = to the ~HC_~1p~~location~s~
+
+FETCH_GOTO_BENEDICT = to ~HC_~1p~~Benedict Point~s~
+
+FETCH_GOTO_BENEDICT_PASS = to ~HC_~1p~~Benedict Pass~s~
+
+FETCH_GOTO_BERYLS_DREAM = to the ~HC_~1p~~mine~s~
+
+FETCH_GOTO_BIG_VALLEY = to ~HC_~1p~~Big Valley~s~
+
+FETCH_GOTO_BLACKWATER = to ~HC_~1p~~Blackwater~s~
+
+FETCH_GOTO_BLACKWATER_DOCK = to ~HC_~1p~~Blackwater Dock~s~
+
+FETCH_GOTO_BLACKWATER_SALOON = to the ~HC_~1p~~Blackwater Saloon~s~
+
+FETCH_GOTO_BLACK_BONE = to ~HC_~1p~~Black Bone Forest~s~
+
+FETCH_GOTO_BLUEWATER_MARSH = to ~HC_~1p~~Bluewater Marsh~s~
+
+FETCH_GOTO_BOLGER_GLADE = to ~HC_~1p~~Bolger Glade~s~
+
+FETCH_GOTO_BRAITHWAITE = to the ~HC_~1p~~manor~s~
+
+FETCH_GOTO_BRANDYWINE = to ~HC_~1p~~Brandywine Drop~s~
+
+FETCH_GOTO_BRIDGE = to the ~HC_~1p~~bridge~s~
+
+FETCH_GOTO_BRITTLEBUSH = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_BUTCHER_CREEK = to ~HC_~1p~~Butcher Creek~s~
+
+FETCH_GOTO_BUTTER_BRIDGE = to ~HC_~1p~~Butter Bridge~s~
+
+FETCH_GOTO_CABIN = to the ~HC_~1p~~cabin~s~
+
+FETCH_GOTO_CALIGA_HALL = to the ~HC_~1p~~estate~s~
+
+FETCH_GOTO_CAMP = to the ~HC_~1p~~camp~s~
+
+FETCH_GOTO_CANEBREAK = to ~HC_~1p~~Canebreak Manor~s~
+
+FETCH_GOTO_CARMODY_DELL = to the ~HC_~1p~~homestead~s~
+
+FETCH_GOTO_CASTORS_POND = to ~HC_~1p~~Castor's Ridge~s~
+
+FETCH_GOTO_CATFISH = to the ~HC_~1p~~homestead~s~
+
+FETCH_GOTO_CENTRAL_UNION = to the ~HC_~1p~~Central Union Railroad Camp~s~
+
+FETCH_GOTO_CHEZ_PORTER = to the ~HC_~1p~~homestead~s~
+
+FETCH_GOTO_CHOLLA_SPRINGS = to ~HC_~1p~~Cholla Springs~s~
+
+FETCH_GOTO_CIVIL_WAR_BRIDE = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_CLAWSONS_REST = to ~HC_~1p~~Clawsons's Rest~s~
+
+FETCH_GOTO_CLEMENS_POINT = to ~HC_~1p~~Clemens Point~s~
+
+FETCH_GOTO_COCHINAY = to the ~HC_~1p~~location~s~
+
+FETCH_GOTO_COLTER = to ~HC_~1p~~Colter~s~
+
+FETCH_GOTO_COMPSONS_STEAD = to the ~HC_~1p~~homestead~s~
+
+FETCH_GOTO_COOTS = to the ~HC_~1p~~chapel~s~
+
+FETCH_GOTO_COPPERHEAD = to ~HC_~1p~~Copperhead Landing~s~
+
+FETCH_GOTO_CORNWALL = to the ~HC_~1p~~Heartland Oil Fields~s~
+
+FETCH_GOTO_CORNWALL_FREIGHT = to the ~HC_~1p~~freight yard~s~
+
+FETCH_GOTO_CORNWALL_KEROSENE = to ~HC_~1p~~Cornwall Kerosene & Tar~s~
+
+FETCH_GOTO_CRAWDAD = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_CROP_FARM = to the ~HC_~1p~~farm~s~
+
+FETCH_GOTO_CUEVA_SECO = to ~HC_~1p~~Cueva Seca~s~
+
+FETCH_GOTO_CUMBERLAND = to ~HC_~1p~~Cumberland Forest~s~
+
+FETCH_GOTO_CUMBERLAND_LAKE = to ~HC_~1p~~O'Creagh's Run~s~
+
+FETCH_GOTO_DEADBOOT = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_DEAD_RIVALS = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_DEAD_SETTLER = to the ~HC_~1p~~location~s~
+
+FETCH_GOTO_DESTROYED_CAMP = to the ~HC_~1p~~Destroyed Camp~s~
+
+FETCH_GOTO_DESTROYED_WAGON = to the ~HC_~1p~~Destroyed Wagon~s~
+
+FETCH_GOTO_DEWBERRY = to ~HC_~1p~~Dewberry Creek~s~
+
+FETCH_GOTO_DOVERHILL = to ~HC_~1p~~Doverhill~s~
+
+FETCH_GOTO_DOWNES_RANCH = to the ~HC_~1p~~ranch~s~
+
+FETCH_GOTO_DOWNES_RANCH_FULL = to ~HC_~1p~~Downes Ranch~s~
+
+FETCH_GOTO_DOYLES_TAVERN = to ~HC_~1p~~Doyle's Tavern~s~
+
+FETCH_GOTO_ELYSIAN_POOL = to ~HC_~1p~~Elysian Pool~s~
+
+FETCH_GOTO_ELYSIAN_POOL_CAVE = to the ~HC_~1p~~Elysian Pool cave~s~
+
+FETCH_GOTO_EMERALD_GS = to the ~HC_~1p~~Emerald Ranch General Store~s~
+
+FETCH_GOTO_EMERALD_RANCH = to ~HC_~1p~~Emerald Ranch~s~
+
+FETCH_GOTO_EMERALD_RANCH_FENCE = to the ~HC_~1p~~Emerald Ranch Fence~s~
+
+FETCH_GOTO_EMERALD_STATION = to ~HC_~1p~~Emerald Station~s~
+
+FETCH_GOTO_EMR_STATION = to ~HC_~1p~~Emerald Station~s~
+
+FETCH_GOTO_ERIS_FIELD = to ~HC_~1p~~Eris Field~s~
+
+FETCH_GOTO_EWING_BASIN = to ~HC_~1p~~Ewing Basin~s~
+
+FETCH_GOTO_FIRWOOD_RISE = to ~HC_~1p~~Firwood Rise~s~
+
+FETCH_GOTO_FLATNECK_STATION = to ~HC_~1p~~Flatneck Station~s~
+
+FETCH_GOTO_FOREMAN_HOUSE = to the ~HC_~1p~~Foreman's House~s~
+
+FETCH_GOTO_FORT_BRENNAND = to ~HC_~1p~~Fort Brennand~s~
+
+FETCH_GOTO_FORT_MERCER = to ~HC_~1p~~Fort Mercer~s~
+
+FETCH_GOTO_FORT_RIGGS = to ~HC_~1p~~Fort Riggs~s~
+
+FETCH_GOTO_FORT_WALLACE = to ~HC_~1p~~Fort Wallace~s~
+
+FETCH_GOTO_FRONTERA = to ~HC_~1p~~Frontera Overlook~s~
+
+FETCH_GOTO_FROZEN_EXPLORER = to ~HC_~1p~~Barrow Lagoon~s~
+
+FETCH_GOTO_GALLOWS = to the ~HC_~1p~~gallows~s~
+
+FETCH_GOTO_GAPTOOTH_BREACH = to ~HC_~1p~~Gaptooth Breach~s~
+
+FETCH_GOTO_GAPTOOTH_RIDGE = to ~HC_~1p~~Gaptooth Ridge~s~
+
+FETCH_GOTO_GILL_LANDING = to ~HC_~1p~~Gill Landing~s~
+
+FETCH_GOTO_GRANGERS = to the ~HC_~1p~~farm~s~
+
+FETCH_GOTO_GRAVEYARD = to the ~HC_~1p~~graveyard~s~
+
+FETCH_GOTO_GRAY_WOOLEN_MILL = to the ~HC_~1p~~Gray Woolen Mill~s~
+
+FETCH_GOTO_GREAT_PLAINS = to the ~HC_~1p~~Great Plains~s~
+
+FETCH_GOTO_GREENBANK = to ~HC_~1p~~Old Greenbank Mill~s~
+
+FETCH_GOTO_GREEN_HOLLOW = to ~HC_~1p~~Greenhollow~s~
+
+FETCH_GOTO_GRIZZLIES = to the ~HC_~1p~~Grizzlies~s~
+
+FETCH_GOTO_GRIZZ_LAKE = to ~HC_~1p~~Cairn Lake~s~
+
+FETCH_GOTO_GUNFIGHT = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_GUTHRIE_FARM = to the ~HC_~1p~~farm~s~
+
+FETCH_GOTO_HAGEN_ORCHARDS = to the ~HC_~1p~~orchards~s~
+
+FETCH_GOTO_HAMLIN = to ~HC_~1p~~Hamlin's Passing~s~
+
+FETCH_GOTO_HANGING_DOG = to the ~HC_~1p~~ranch~s~
+
+FETCH_GOTO_HANGING_ROCK = to ~HC_~1p~~Hanging Rock~s~
+
+FETCH_GOTO_HANIS_BETHEL = to ~HC_~1p~~Hani's Bethel~s~
+
+FETCH_GOTO_HAPPY_FAMILY = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_HEARTLANDS = to the ~HC_~1p~~Heartlands~s~
+
+FETCH_GOTO_HIDEOUT = to the ~HC_~1p~~hideout~s~
+
+FETCH_GOTO_HILL_HAVEN = to ~HC_~1p~~Hill Haven Ranch~s~
+
+FETCH_GOTO_HOMESTEAD = to the ~HC_~1p~~homestead~s~
+
+FETCH_GOTO_HORSESHOE = to the ~HC_~1p~~location~s~
+
+FETCH_GOTO_HOTEL_LICORNE = to ~HC_~1p~~Hotel La Licorne~s~
+
+FETCH_GOTO_HOTSPRINGS = to ~HC_~1p~~Cotorra Springs~s~
+
+FETCH_GOTO_HUNGRY_BEAR = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_HUNTING_GROUND = to the ~HC_~1p~~hunting grounds~s~
+
+FETCH_GOTO_IDENTICAL_A = to the ~HC_~1p~~cottage~s~
+
+FETCH_GOTO_IDENTICAL_B = to the ~HC_~1p~~cottage~s~
+
+FETCH_GOTO_ISOLATIONIST = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_JACKSON_AUCTION_YARD = to the ~HC_~1p~~Jackson Worth Auction Yard~s~
+
+FETCH_GOTO_JORGES_GORGE = to ~HC_~1p~~Jorge's Gap~s~
+
+FETCH_GOTO_KAMASSA_RIVER = to ~HC_~1p~~Kamassa River~s~
+
+FETCH_GOTO_KEANS_SALOON = to ~HC_~1p~~Keane's Saloon~s~
+
+FETCH_GOTO_LAGRAS = to ~HC_~1p~~Lagras~s~
+
+FETCH_GOTO_LAKAY = to ~HC_~1p~~Lakay~s~
+
+FETCH_GOTO_LAKE_DON_JULIO = to ~HC_~1p~~Lake Don Julio~s~
+
+FETCH_GOTO_LARNED_SOD = to ~HC_~1p~~Larned Sod~s~
+
+FETCH_GOTO_LAST_KNOWN_LOCATION = to the ~HC_~1p~~last known location~s~
+
+FETCH_GOTO_LAW = to the ~HC_~1p~~sheriff's office~s~
+
+FETCH_GOTO_LAWMAN = to the ~HC_~1p~~lawman~s~
+
+FETCH_GOTO_LAW_ANNESBURG = to the ~HC_~1p~~Annesburg Sheriff's Office~s~
+
+FETCH_GOTO_LAW_ARMADILLO = to the ~HC_~1p~~Armadillo Sheriff's Office~s~
+
+FETCH_GOTO_LAW_BLACKWATER = to the ~HC_~1p~~Blackwater Police Department~s~
+
+FETCH_GOTO_LAW_RHODES = to the ~HC_~1p~~Rhodes Sheriff's Office~s~
+
+FETCH_GOTO_LAW_SAINT_DENIS = to the ~HC_~1p~~Saint Denis Police Station~s~
+
+FETCH_GOTO_LAW_STRAWBERRY = to the ~HC_~1p~~Strawberry Sheriff's Office~s~
+
+FETCH_GOTO_LAW_TUMBLEWEED = to the ~HC_~1p~~Tumbleweed Sheriff's Office~s~
+
+FETCH_GOTO_LAW_VALENTINE = to the ~HC_~1p~~Valentine Sheriff's Office~s~
+
+FETCH_GOTO_LIMPANY = to ~HC_~1p~~Limpany~s~
+
+FETCH_GOTO_LOGGING_CAMP = to the ~HC_~1p~~Logging Camp~s~
+
+FETCH_GOTO_LONE_MULE_STEAD = to the ~HC_~1p~~homestead~s~
+
+FETCH_GOTO_LONNIES = to ~HC_~1p~~Lonnie's Shack~s~
+
+FETCH_GOTO_LOVE_TRIANGLE = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_LUCKYS_CABIN = to the ~HC_~1p~~location~s~
+
+FETCH_GOTO_MACFARLANE = to ~HC_~1p~~MacFarlane's Ranch~s~
+
+FETCH_GOTO_MACFARLANE_STATION = to ~HC_~1p~~MacFarlane's Ranch Station~s~
+
+FETCH_GOTO_MACLEANS = to ~HC_~1p~~Maclean's House~s~
+
+FETCH_GOTO_MACOMBS_END = to ~HC_~1p~~Macomb's End~s~
+
+FETCH_GOTO_MANITO_GLADE = to ~HC_~1p~~Manito Glade~s~
+
+FETCH_GOTO_MANZANITA_POST = to ~HC_~1p~~Manzanita Post~s~
+
+FETCH_GOTO_MCF_STATION = to the ~HC_~1p~~station~s~
+
+FETCH_GOTO_MERCER_STATION = to ~HC_~1p~~Mercer Station~s~
+
+FETCH_GOTO_METEOR_CRATER = to the ~HC_~1p~~crater~s~
+
+FETCH_GOTO_MILLESANI_CLAIM = to ~HC_~1p~~Millesani Claim~s~
+
+FETCH_GOTO_MISSING_HUSBAND = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_MOONSHINE_BARN = to the ~HC_~1p~~barn~s~
+
+FETCH_GOTO_MOONSHINE_CABIN = to the ~HC_~1p~~cabin~s~
+
+FETCH_GOTO_MOONSHINE_HOMESTEAD = to the ~HC_~1p~~homestead~s~
+
+FETCH_GOTO_MOONSHINE_PROPERTY = to the ~HC_~1p~~Moonshine Operation~s~
+
+FETCH_GOTO_MOONSHINE_SHACK = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_MOONSTONE_POND = to ~HC_~1p~~Moonstone Pond~s~
+
+FETCH_GOTO_MOUNTAIN_MAN = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_MT_HAGEN = to ~HC_~1p~~Mount Hagen~s~
+
+FETCH_GOTO_NED_BELLINGHAMS_HIDEOUT = to ~HC_~1p~~Ned Bellingham's hideout~s~
+
+FETCH_GOTO_NEKOTI_ROCK = to ~HC_~1p~~Nekoti Rock~s~
+
+FETCH_GOTO_NEW_HANOVER = to ~HC_~1p~~New Hanover~s~
+
+FETCH_GOTO_OBJ_DESTINATION = to the ~HC_~1p~~drop off~s~
+
+FETCH_GOTO_ODDFELLOWS_REST = to ~HC_~1p~~Oddfellow's Rest~s~
+
+FETCH_GOTO_OLD_BACCHUS = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_OLD_FIREPLACE = to the ~HC_~1p~~location~s~
+
+FETCH_GOTO_OLD_LIGHT_SALOON = to the ~HC_~1p~~Old Light Saloon~s~
+
+FETCH_GOTO_OSMAN_GROVE = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_OWANJILA_DAM = to ~HC_~1p~~Owanjila Dam~s~
+
+FETCH_GOTO_PACIFIC_UNION = to ~HC_~1p~~Pacific Union Railroad~s~
+
+FETCH_GOTO_PAINTED_SKY = to ~HC_~1p~~Painted Sky~s~
+
+FETCH_GOTO_PIKES = to ~HC_~1p~~Pike's Basin~s~
+
+FETCH_GOTO_PLAINVIEW = to ~HC_~1p~~Plainview~s~
+
+FETCH_GOTO_PLEASANCE_HOUSE = to ~HC_~1p~~Pleasance House~s~
+
+FETCH_GOTO_PLEASANCE_SETTLE = to ~HC_~1p~~Pleasance Settlement~s~
+
+FETCH_GOTO_POLICE_STATION = to the ~HC_~1p~~Police Station~s~
+
+FETCH_GOTO_PRISON_WAGON = to the ~HC_~1p~~prison wagon~s~
+
+FETCH_GOTO_PRONGHORN = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_QUAKERS_COVE = to ~HC_~1p~~Quaker's Cove~s~
+
+FETCH_GOTO_RATHSKALLER_FORK = to ~HC_~1p~~Rathskeller Fork~s~
+
+FETCH_GOTO_RATHSKELLER = to ~HC_~1p~~Rathskeller Fork~s~
+
+FETCH_GOTO_REED = to the ~HC_~1p~~cottage~s~
+
+FETCH_GOTO_RHODES = to ~HC_~1p~~Rhodes~s~
+
+FETCH_GOTO_RHODES_FENCE = to the ~HC_~1p~~Rhodes Fence~s~
+
+FETCH_GOTO_RHODES_GRANARY = to the ~HC_~1p~~Rhodes Granary~s~
+
+FETCH_GOTO_RHODES_GS = to the ~HC_~1p~~Rhodes General Store~s~
+
+FETCH_GOTO_RHODES_LAW_OFFICE = to ~HC_~1p~~Rhodes Sheriff's Office~s~
+
+FETCH_GOTO_RHODES_PARLOR = to ~HC_~1p~~Rhodes Parlour House~s~
+
+FETCH_GOTO_RHODES_PARLOUR = to the ~HC_~1p~~Rhodes Parlour House~s~
+
+FETCH_GOTO_RHODES_STATION = to ~HC_~1p~~Rhodes Train Station~s~
+
+FETCH_GOTO_RIDGEWOOD_FARM = to ~HC_~1p~~Ridgewood Farm~s~
+
+FETCH_GOTO_RIGGS_STATION = to ~HC_~1p~~Riggs Station~s~
+
+FETCH_GOTO_RILEYS_CHARGE = to ~HC_~1p~~Riley's Charge~s~
+
+FETCH_GOTO_RIVER_L_MONTANA = to the ~HC_~1p~~Lower Montana River~s~
+
+FETCH_GOTO_RIVER_U_MONTANA = to the ~HC_~1p~~Upper Montana River~s~
+
+FETCH_GOTO_ROANOKE_RIDGE = to ~HC_~1p~~Roanoke Ridge~s~
+
+FETCH_GOTO_ROANOKE_VALLEY = to ~HC_~1p~~Roanoke Valley~s~
+
+FETCH_GOTO_ROCKY_SEVEN = to the ~HC_~1p~~homestead~s~
+
+FETCH_GOTO_SAINTS_HOTEL = to ~HC_~1p~~Saints Hotel~s~
+
+FETCH_GOTO_SAINT_DENIS = to ~HC_~1p~~Saint Denis~s~
+
+FETCH_GOTO_SAINT_DENIS_BASTILLE = to the ~HC_~1p~~Bastille Saloon~s~
+
+FETCH_GOTO_SAINT_DENIS_DOCKS = to ~HC_~1p~~Saint Denis Docks~s~
+
+FETCH_GOTO_SAINT_DENIS_DOYLES = to ~HC_~1p~~Doyle's Tavern~s~
+
+FETCH_GOTO_SAINT_DENIS_FENCE = to the ~HC_~1p~~Saint Denis Fence~s~
+
+FETCH_GOTO_SAINT_DENIS_MARKET = to the ~HC_~1p~~Saint Denis Market~s~
+
+FETCH_GOTO_SAINT_DENIS_PHARMACY = to the ~HC_~1p~~Pharmacy~s~
+
+FETCH_GOTO_SAINT_DENIS_SALOON = to the ~HC_~1p~~Saint Denis Saloon~s~
+
+FETCH_GOTO_SCARLETT = to ~HC_~1p~~Scarlett Meadows~s~
+
+FETCH_GOTO_SCARLETT_CABIN = to ~HC_~1p~~Scarlett Cabin~s~
+
+FETCH_GOTO_SCRATCHING_POST = to ~HC_~1p~~Scratching Post~s~
+
+FETCH_GOTO_SEAN_CAMP = to ~HC_~1p~~Sean's camp~s~
+
+FETCH_GOTO_SEARCH = to the ~HC_~1p~~search area~s~
+
+FETCH_GOTO_SERIAL_KILLER = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_SHACK = to ~HC_~1p~~Cairn Lodge~s~
+
+FETCH_GOTO_SHACK_ABANDONED = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_SHADY_BELLE = to ~HC_~1p~~Shady Belle~s~
+
+FETCH_GOTO_SHEPHERDS_RISE = to ~HC_~1p~~Shepherds Rise~s~
+
+FETCH_GOTO_SIGHTING = to the ~HC_~1p~~sighting location~s~
+
+FETCH_GOTO_SILENT_STEAD = to ~HC_~1p~~Silent Stead~s~
+
+FETCH_GOTO_SILTWATER = to ~HC_~1p~~Siltwater Strand~s~
+
+FETCH_GOTO_SIX_POINT = to the ~HC_~1p~~cabin~s~
+
+FETCH_GOTO_SLAUGHTERHOUSE = to the ~HC_~1p~~Prinz & Co. Slaughterhouse~s~
+
+FETCH_GOTO_SLAVE_PEN = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_SMITHFIELDS = to ~HC_~1p~~Smithfields Saloon~s~
+
+FETCH_GOTO_SOLOMONS = to ~HC_~1p~~Solomon's Folly~s~
+
+FETCH_GOTO_SPIDER_GORGE = to ~HC_~1p~~Spider Gorge~s~
+
+FETCH_GOTO_STABLE = to the ~HC_~1p~~stable~s~
+
+FETCH_GOTO_STABLES = to the ~HC_~1p~~stables~s~
+
+FETCH_GOTO_STILLWATER = to ~HC_~1p~~Stillwater Creek~s~
+
+FETCH_GOTO_STONEHENGE = to the ~HC_~1p~~woods~s~
+
+FETCH_GOTO_STRAWBERRY = to ~HC_~1p~~Strawberry~s~
+
+FETCH_GOTO_SWAMP = to the ~HC_~1p~~Swamp~s~
+
+FETCH_GOTO_TALL_TREES = to ~HC_~1p~~Tall Trees~s~
+
+FETCH_GOTO_TANNERS_REACH = to the ~HC_~1p~~cabin~s~
+
+FETCH_GOTO_THEIR_CAMP = to their ~HC_~1p~~camp~s~
+
+FETCH_GOTO_THE_FARM = to the ~HC_~1p~~farm~s~
+
+FETCH_GOTO_THE_LOFT = to the ~HC_~1p~~Loft~s~
+
+FETCH_GOTO_THIEVES_LANDING = to ~HC_~1p~~Thieves Landing~s~
+
+FETCH_GOTO_THIEVES_LANDING_FENCE = to the ~HC_~1p~~Thieves Landing Fence~s~
+
+FETCH_GOTO_TRAIN = to the ~HC_~1p~~train~s~
+
+FETCH_GOTO_TRAPPERS_CABIN = to the ~HC_~1p~~Trapper's Cabin~s~
+
+FETCH_GOTO_TREE_HOUSE = to the ~HC_~1p~~Tree House~s~
+
+FETCH_GOTO_TUMBLEWEED = to ~HC_~1p~~Tumbleweed~s~
+
+FETCH_GOTO_TUMBLEWEED_SALOON = to the ~HC_~1p~~Tumbleweed Saloon~s~
+
+FETCH_GOTO_TWIN_ROCKS = to ~HC_~1p~~Twin Rocks~s~
+
+FETCH_GOTO_TWO_CROWS = to ~HC_~1p~~Two Crows~s~
+
+FETCH_GOTO_UNDERGROUND_RR = to ~HC_~1p~~Old Trail Road~s~
+
+FETCH_GOTO_VALENTINE = to ~HC_~1p~~Valentine~s~
+
+FETCH_GOTO_VALENTINE_GS = to the ~HC_~1p~~Valentine General Store~s~
+
+FETCH_GOTO_VALENTINE_SALOON = to the ~HC_~1p~~Valentine Saloon~s~
+
+FETCH_GOTO_VALENTINE_STATION = to the ~HC_~1p~~Valentine Station~s~
+
+FETCH_GOTO_VAN_HORN = to ~HC_~1p~~Van Horn Trading Post~s~
+
+FETCH_GOTO_VAN_HORN_DEPOT = to ~HC_~1p~~Van Horn Depot~s~
+
+FETCH_GOTO_VAN_HORN_FENCE = to the ~HC_~1p~~Van Horn Fence~s~
+
+FETCH_GOTO_VAN_HORN_SALOON = to the ~HC_~1p~~Van Horn Saloon~s~
+
+FETCH_GOTO_VAN_HORN_STABLE = to the ~HC_~1p~~Van Horn Stables~s~
+
+FETCH_GOTO_VAN_HORN_STATION = to the ~HC_~1p~~Van Horn Station~s~
+
+FETCH_GOTO_VENTERS_PLACE = to ~HC_~1p~~Venter's Place~s~
+
+FETCH_GOTO_VETERANS = to the ~HC_~1p~~shack~s~
+
+FETCH_GOTO_WALLACE_STATION = to ~HC_~1p~~Wallace Station~s~
+
+FETCH_GOTO_WAPITI = to ~HC_~1p~~Wapiti Indian Reservation~s~
+
+FETCH_GOTO_WATSONS_CABIN = to the ~HC_~1p~~cabin~s~
+
+FETCH_GOTO_WEST_ELIZ = to ~HC_~1p~~West Elizabeth~s~
+
+FETCH_GOTO_WHISKEY_TREE = to the ~HC_~1p~~Whiskey Tree~s~
+
+FETCH_GOTO_WILLARDS_REST = to ~HC_~1p~~Willard's Rest~s~
+
+FETCH_HELP_BOUNTY_DELIVER_ALIVE = Take the bounty target inside to deliver them alive.
+
+FETCH_HELP_BOUNTY_DELIVER_DEAD = Drop off the dead bounty target in the area outside to deliver them.
+
+FETCH_HELP_BOUNTY_DELIVER_WAGON = Take the Bounty Wagon to the area to deliver your bounty target.
+
+FETCH_HELP_BOUNTY_DELIVER_WAGON_PLURAL = Take the Bounty Wagon to the area to deliver your bounty targets.
+
+FETCH_HELP_BOUNTY_FREE_UP_SEAT_FOR_TARGET = Collect the target ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ and leave the hideout without disturbance to apprehend them alone. 
+
+FETCH_HELP_BOUNTY_SATELLITE_ALIVE = Take the bounty target to the wagon and deliver them alive.
+
+FETCH_HELP_BOUNTY_SATELLITE_DEAD = Drop off the dead bounty target at the wagon to deliver them.
+
+FETCH_HELP_BOUNTY_SATELLITE_WAGON = Take the Bounty Wagon to the wagon to deliver your bounty target.
+
+FETCH_HELP_BOUNTY_SATELLITE_WAGON_PLURAL = Take the Bounty Wagon to the wagon to deliver your bounty targets.
+
+FETCH_HELP_BOUNTY_TARGET_DEAD = Dead bounty targets can still be delivered but for a reduced reward.
+
+FETCH_HELP_DYNAMIC_MOONSHINE_NEARBY = Approach ~1b~ to engage in Moonshiner content and benefit your Moonshine Operation.
+
+FETCH_HELP_DYNAMIC_MOONSHINE_NEARBY_PLAYER = Approach ~2b~ to engage in Moonshiner content with your Posse and benefit ~1~'s Moonshine Operation.
+
+FETCH_HELP_DYNAMIC_NEARBY = A stranger ~1b~ is requesting help. Approach them and hold ~INPUT_INTERACT_LOCKON~ when prompted to speak to the stranger.
+
+FETCH_HELP_DYNAMIC_NEARBY_HOGTIED = A hogtied stranger ~1b~ is requesting help. Approach them and hold ~INPUT_CONTEXT_B~ when prompted to untie them.
+
+FETCH_HELP_DYNAMIC_REMOTE_PLAYER_STARTED_MISSION = ~1~ is helping somebody in need ~2b~. Regroup with them to take part.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_BOAT = The ~COLOR_ENEMY~enemies~s~ have taken the boat ~1b~ to the drop off area and it can no longer be interacted with.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_BOAT_PLURAL = The ~COLOR_ENEMY~enemies~s~ have taken a boat ~1b~ to the drop off area and it can no longer be interacted with.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_BUGGY = The ~COLOR_ENEMY~enemies~s~ have taken the buggy ~1b~ to the drop off area and it can no longer be interacted with.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_CANOE = The ~COLOR_ENEMY~enemies~s~ have taken the canoe ~1b~ to the drop off area and it can no longer be interacted with.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_CANOE_PLURAL = The ~COLOR_ENEMY~enemies~s~ have taken a canoe ~1b~ to the drop off area and it can no longer be interacted with.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_CART = The ~COLOR_ENEMY~enemies~s~ have taken the cart ~1b~ to the drop off area and it can no longer be interacted with.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_COACH = The ~COLOR_ENEMY~enemies~s~ have taken the stagecoach ~1b~ to the drop off area and it can no longer be interacted with.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_CONVOY = The ~COLOR_ENEMY~enemies~s~ have taken the caravan ~1b~ to the drop off area and it can no longer be interacted with.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_HORSE = The ~COLOR_ENEMY~enemies~s~ have taken the horse ~1b~ to the drop off area and it can no longer be interacted with.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_HORSE_PLURAL = The ~COLOR_ENEMY~enemies~s~ have taken a horse ~1b~ to the drop off area and it can no longer be interacted with.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_PRISONER = The ~COLOR_ENEMY~enemies~s~ have taken the prisoner ~1b~ to the drop off area and they can no longer be interacted with.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_PRISONER_PLURAL = The ~COLOR_ENEMY~enemies~s~ have taken a prisoner ~1b~ to the drop off area and they can no longer be interacted with.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_PROOFKILL = The ~COLOR_ENEMY~enemies~s~ have taken the proof of the kill ~1b~ to the drop off area and it can no longer be interacted with.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_SUPPLIES = The ~COLOR_ENEMY~enemies~s~ have taken the supplies ~1b~ to the drop off area and they can no longer be interacted with.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_SUPPLIES_PLURAL = The ~COLOR_ENEMY~enemies~s~ have taken the supplies ~1b~ to the drop off area and they can no longer be interacted with.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_VIP = The ~COLOR_ENEMY~enemies~s~ have taken the target ~1b~ to the drop off area and they can no longer be interacted with.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_VIP_PLURAL = The ~COLOR_ENEMY~enemies~s~ have taken a target ~1b~ to the drop off area and they can no longer be interacted with.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_WAGON = The ~COLOR_ENEMY~enemies~s~ have taken the wagon ~1b~ to the drop off area and it can no longer be interacted with.
+
+FETCH_HELP_ENEMY_TEAM_GHOSTED_WAGON_PLURAL = The ~COLOR_ENEMY~enemies~s~ have taken a wagon ~1b~ to the drop off area and it can no longer be interacted with.
+
+FETCH_HELP_HIT_HOGTIED_PED = Press ~INPUT_INTERACT_HIT_CARRIABLE~ to hit the bounty target and prevent them from escaping.
+
+FETCH_HELP_HONOR_KILL = You lost honor as you chose not to follow the additional objectives.
+
+FETCH_HELP_HONOR_KILL_INNOCENT = You will lose honor for killing innocent civilians or animals.
+
+FETCH_HELP_HONOR_KILL_POSSE = You lost honor as you or your Posse chose not to follow the additional objectives.
+
+FETCH_HELP_LA_SAMPLE = Approach the Legendary Animal ~1b~ and hold ~INPUT_CONTEXT_X~ to take a sample.
+
+FETCH_HELP_LA_SAMPLE_POSSE = Approach the Legendary Animal ~1b~ and hold ~INPUT_CONTEXT_X~ to take a sample. All Posse Members will receive the sample.
+
+FETCH_HELP_LA_SEDATE = Sedate the Legendary Animal ~1b~ to gain a sample for Harriet. Alternatively, kill it and use its skin elsewhere.
+
+FETCH_HELP_LA_SKIN_BEAR = Approach the ~COLOR_MP_OBJECTIVE~Legendary Golden Spirit Bear~s~ and hold ~INPUT_CONTEXT_Y~ to skin the animal.
+
+FETCH_HELP_LA_SKIN_BEAVER = Approach the ~COLOR_MP_OBJECTIVE~Legendary Night Beaver~s~ and hold ~INPUT_CONTEXT_Y~ to skin the animal.
+
+FETCH_HELP_LA_SKIN_BISON = Approach the ~COLOR_MP_OBJECTIVE~Legendary Payta Bison~s~ and hold ~INPUT_CONTEXT_Y~ to skin the animal.
+
+FETCH_HELP_LA_SKIN_BOAR = Approach the ~COLOR_MP_OBJECTIVE~Legendary Icahi Boar~s~ and hold ~INPUT_CONTEXT_Y~ to skin the animal.
+
+FETCH_HELP_LA_SKIN_BUCK = Approach the ~COLOR_MP_OBJECTIVE~Legendary Shadow Buck~s~ and hold ~INPUT_CONTEXT_Y~ to skin the animal.
+
+FETCH_HELP_LA_SKIN_COUGAR = Approach the ~COLOR_MP_OBJECTIVE~Legendary Sapa Cougar~s~ and hold ~INPUT_CONTEXT_Y~ to skin the animal.
+
+FETCH_HELP_LA_SKIN_COYOTE = Approach the ~COLOR_MP_OBJECTIVE~Legendary Milk Coyote~s~ and hold ~INPUT_CONTEXT_Y~ to skin the animal.
+
+FETCH_HELP_LA_SKIN_ELK = Approach the ~COLOR_MP_OBJECTIVE~Legendary Inahme Elk~s~ and hold ~INPUT_CONTEXT_Y~ to skin the animal.
+
+FETCH_HELP_LA_SKIN_FOX = Approach the ~COLOR_MP_OBJECTIVE~Legendary Cross Fox~s~ and hold ~INPUT_CONTEXT_Y~ to skin the animal.
+
+FETCH_HELP_LA_SKIN_GATOR = Approach the ~COLOR_MP_OBJECTIVE~Legendary Banded Gator~s~ and hold ~INPUT_CONTEXT_Y~ to skin the animal.
+
+FETCH_HELP_LA_SKIN_MOOSE = Approach the ~COLOR_MP_OBJECTIVE~Legendary Ruddy Moose~s~ and hold ~INPUT_CONTEXT_Y~ to skin the animal.
+
+FETCH_HELP_LA_SKIN_PANTHER = Approach the ~COLOR_MP_OBJECTIVE~Legendary Iwakta Panther~s~ and hold ~INPUT_CONTEXT_Y~ to skin the animal.
+
+FETCH_HELP_LA_SKIN_RAM = Approach the ~COLOR_MP_OBJECTIVE~Legendary Rutile Horn Ram~s~ and hold ~INPUT_CONTEXT_Y~ to skin the animal.
+
+FETCH_HELP_LA_SKIN_WOLF = Approach the ~COLOR_MP_OBJECTIVE~Legendary Moonstone Wolf~s~ and hold ~INPUT_CONTEXT_Y~ to skin the animal.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_BOAT = You have brought the boat ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_BOAT_PLURAL = You have brought a boat ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_BOUNTY = You have brought the target ~1b~ to the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_BOUNTY_PLURAL = You have brought a target ~1b~ to the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_BUGGY = You have brought the buggy ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_BUYER = You have brought the buyer ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_BUYER_PLURAL = You have brought a buyer ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_CANOE = You have brought the canoe ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_CANOE_PLURAL = You have brought a canoe ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_CART = You have brought the cart ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_COACH = You have brought the stagecoach ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_CONVOY = You have brought the caravan ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_HORSE = You have brought the horse ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_HORSE_PLURAL = You have brought a horse ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_PRISONER = You have brought the prisoner ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_PRISONER_PLURAL = You have brought a prisoner ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_PROOFKILL = You have brought the proof of the kill ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_STRANGER = You have brought the stranger ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_STRANGER_PLURAL = You have brought a stranger ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_SUPPLIES = You have brought the supplies ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_SUPPLIES_PLURAL = You have brought some supplies ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_VIP = You have brought the target ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_VIP_PLURAL = You have brought a target ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_WAGON = You have brought the wagon ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_LOCAL_PLAYER_GHOSTED_WAGON_PLURAL = You have brought a wagon ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+FETCH_HELP_MOONSHINE_MINIMUM_MASH_COST = You have the lowest moonshine mash ingredient price available. It will not be further reduced by taking part in dynamic Bootlegger Missions ~1b~.
+
+FETCH_HELP_OBJECTIVE_CONTROLS_BOAT = Use ~INPUT_VEH_BOAT_TURN_LR~ to control the boat. ~n~Tap ~INPUT_VEH_BOAT_ACCELERATE~ to paddle faster.
+
+FETCH_HELP_OBJECTIVE_CONTROLS_CANOE = Use ~INPUT_VEH_BOAT_TURN_LR~ to control the canoe. ~n~Tap ~INPUT_VEH_BOAT_ACCELERATE~ to paddle faster.
+
+FETCH_HELP_OBJECTIVE_KILL_ZONE_BOAT = Bringing the boat into the rapids will cause it to sink.
+
+FETCH_HELP_OBJECTIVE_KILL_ZONE_CANOE = Bringing the canoe into the rapids will cause it to sink.
+
+FETCH_HELP_SEARCH_AREA = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye, sharpening your senses for a limited amount of time.
+
+FETCH_HELP_SEARCH_AREA_KM = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye, sharpening your senses for a limited amount of time.
+
+FETCH_HELP_SWAP_REINS_WAGON = Use ~INPUT_VEH_SHUFFLE~ to take the reins from the driver and control the wagon.
+
+FETCH_HELP_TEAMMATE_GHOSTED_BOAT = The boat ~1b~ is now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_BOAT_PLURAL = A boat ~1b~ is now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_BUGGY = The buggy ~1b~ is now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_BUYER = The buyer ~1b~ is now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_CANOE = The canoe ~1b~ is now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_CANOE_PLURAL = A canoe ~1b~ is now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_CART = The cart ~1b~ is now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_COACH = The stagecoach ~1b~ is now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_CONVOY = The caravan ~1b~ is now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_HORSE = The horse ~1b~ is now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_HORSE_PLURAL = A horse ~1b~ is now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_PRISONER = The prisoner ~1b~ is now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_PRISONER_PLURAL = A prisoner ~1b~ is now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_PROOFKILL = The proof of the kill ~1b~ is now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_STRANGER = The stranger ~1b~ is now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_SUPPLIES = The supplies ~1b~ are now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_SUPPLIES_PLURAL = Some supplies ~1b~ are now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_VIP = The Target ~1b~ is now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_VIP_PLURAL = A Target ~1b~ is now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_WAGON = The wagon ~1b~ is now safely within the drop off area.
+
+FETCH_HELP_TEAMMATE_GHOSTED_WAGON_PLURAL = A wagon ~1b~ is now safely within the drop off area.
+
+FETCH_HIDEOUT = Hideout
+
+FETCH_HIDEOUT_LOC_BACCHUS_STATION = Bacchus Station
+
+FETCH_HIDEOUT_LOC_BEAVER_HOLLOW = Beaver Hollow
+
+FETCH_HIDEOUT_LOC_CHOLLA_SPRINGS = Cholla Springs
+
+FETCH_HIDEOUT_LOC_CLEMENS_COVE = Clemens Cove
+
+FETCH_HIDEOUT_LOC_COLTER = Colter
+
+FETCH_HIDEOUT_LOC_CUERA_SECO = Cueva Seca
+
+FETCH_HIDEOUT_LOC_CUMBERLAND_FALLS = Cumberland Falls
+
+FETCH_HIDEOUT_LOC_EWING_BASIN = Grizzlies Mine
+
+FETCH_HIDEOUT_LOC_FIRWOOD_RISE = Firwood Rise
+
+FETCH_HIDEOUT_LOC_FORT_MERCER = Fort Mercer
+
+FETCH_HIDEOUT_LOC_FORT_RIGGS = Fort Riggs
+
+FETCH_HIDEOUT_LOC_GAPTOOTH_BREACH = Gaptooth Breach
+
+FETCH_HIDEOUT_LOC_HANGING_DOG_RANCH = Hanging Dog Ranch
+
+FETCH_HIDEOUT_LOC_KAMASSA_RIVER = Kamassa River
+
+FETCH_HIDEOUT_LOC_LAKAY = Lakay
+
+FETCH_HIDEOUT_LOC_MANTECA_FALLS = Manteca Falls
+
+FETCH_HIDEOUT_LOC_MILLISANI_CLAIM = Millesani Claim
+
+FETCH_HIDEOUT_LOC_MOSSY_FLATS = Fort Brennand
+
+FETCH_HIDEOUT_LOC_OLD_BACCHUS_PLACE = The Old Bacchus Place
+
+FETCH_HIDEOUT_LOC_PIKES_BASIN = Pike's Basin
+
+FETCH_HIDEOUT_LOC_QUAKERS_COVE = Quaker's Cove
+
+FETCH_HIDEOUT_LOC_RATTLESNAKE_HOLLOW = Rattlesnake Hollow
+
+FETCH_HIDEOUT_LOC_REPENTANCE = Repentance
+
+FETCH_HIDEOUT_LOC_ROCKY_SEVEN = Willard's Rest
+
+FETCH_HIDEOUT_LOC_SEA_OF_CORONADO = Sea of Coronado
+
+FETCH_HIDEOUT_LOC_SHADY_BELLE = Shady Belle
+
+FETCH_HIDEOUT_LOC_SILTWATER_STRAND = Siltwater Strand
+
+FETCH_HIDEOUT_LOC_SIX_POINT_CABIN = Six Point Cabin
+
+FETCH_HIDEOUT_LOC_SOLOMONS_FOLLY = Solomon's Folly
+
+FETCH_HIDEOUT_LOC_TALL_TREES = Bear Claw
+
+FETCH_HIDEOUT_LOC_THE_LOFT = The Loft
+
+FETCH_HIDEOUT_LOC_TWIN_ROCKS = Twin Rocks
+
+FETCH_HIDEOUT_SHARD_NAME = Hideout
+
+FETCH_HONOURABLE_DEFEND_SHARD_NAME = Resupply
+
+FETCH_INTERCEPT_SHARD_NAME = Bushwhack
+
+FETCH_JAILBREAK_SHARD_NAME = Jailbreak
+
+FETCH_KIDNAPPED_BUYERS_SCORETIMER_ESCORT_TEAM_PRIMARY = ~1~ is escorting a buyer
+
+FETCH_KIDNAPPED_BUYERS_SCORETIMER_ESCORT_YOU_TEAM_PRIMARY = You are escorting the ~COLOR_MP_OBJECTIVE_FRIENDLY~buyer~s~
+
+FETCH_MISSION_TESTBED = Mission Testbed
+
+FETCH_MOONSHINE = Moonshiner
+
+FETCH_MOONSHINE_BAR_DRUNK_PED_SCORETIMER_ESCORT_TEAM_PRIMARY = ~1~ is escorting a stranger
+
+FETCH_MOONSHINE_BAR_DRUNK_SCORETIMER_ESCORT_TEAM_PRIMARY_YOU = You are escorting the ~COLOR_MP_OBJECTIVE_FRIENDLY~stranger~s~
+
+FETCH_MOONSHINE_ROADBLOCK_SCORETIMER_PRIMARY_PASS = ~1~ cleared a roadblock
+
+FETCH_MOONSHINE_ROADBLOCK_SCORETIMER_PRIMARY_PASS_NP = A roadblock has been cleared
+
+FETCH_MOONSHINE_ROADBLOCK_SCORETIMER_PRIMARY_PASS_YOU = You cleared a roadblock
+
+FETCH_MOONSHINE_ROADBLOCK_SCORETIMER_PRIMARY_PASS_YOUR = Your Posse cleared a roadblock
+
+FETCH_MOONSHINE_SELL = Moonshine Delivery
+
+FETCH_MOONSHINE_SELL_SHARD_NAME = Moonshiner
+
+FETCH_MOVING_TARGET_SHARD_NAME = Resupply
+
+FETCH_NATURALIST_HIDEOUT = Naturalist
+
+FETCH_NATURALIST_HIDEOUT_POACHERS_NAME = Poached Animals
+
+FETCH_NATURALIST_SIGHTING = Naturalist
+
+FETCH_NAT_SIGHT_BEAR_NAME = Legendary Golden Spirit Bear
+
+FETCH_NAT_SIGHT_BEAVER_NAME = Legendary Night Beaver
+
+FETCH_NAT_SIGHT_BISON_NAME = Legendary Payta Bison
+
+FETCH_NAT_SIGHT_BOAR_NAME = Legendary Icahi Boar
+
+FETCH_NAT_SIGHT_BUCK_NAME = Legendary Shadow Buck
+
+FETCH_NAT_SIGHT_COUGAR_NAME = Legendary Sapa Cougar
+
+FETCH_NAT_SIGHT_COYOTE_NAME = Legendary Milk Coyote
+
+FETCH_NAT_SIGHT_ELK_NAME = Legendary Inahme Elk
+
+FETCH_NAT_SIGHT_FOX_NAME = Legendary Cross Fox
+
+FETCH_NAT_SIGHT_GATOR_NAME = Legendary Banded Gator
+
+FETCH_NAT_SIGHT_HELP_DISMOUNT = You must be on foot to inspect the clue.
+
+FETCH_NAT_SIGHT_HELP_SEDATIVE_ROUNDS = Collect more .22 Sedative Varmint ammo to sedate the legendary animal. Hold ~INPUT_MAP~ to view the ammo location ~1b~ on the map later if required.
+
+FETCH_NAT_SIGHT_MOOSE_NAME = Legendary Ruddy Moose
+
+FETCH_NAT_SIGHT_PANTHER_NAME = Legendary Iwakta Panther
+
+FETCH_NAT_SIGHT_RAM_NAME = Legendary Rutile Horn Ram
+
+FETCH_NAT_SIGHT_RETURN_TO_MISSION = Return to the ~COLOR_MP_OBJECTIVE~area~s~
+
+FETCH_NAT_SIGHT_WOLF_NAME = Legendary Moonstone Wolf
+
+FETCH_NAT_SIGHT_WOLF_WINDOW_ROCK = Window Rock
+
+FETCH_OBJ_ASSASSINATION_TARGET = Prisoner
+
+FETCH_OBJ_DEFEND_UNLOADING_CAMP_RESUPPLY = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ ~1~
+
+FETCH_OBJ_DEFEND_UNLOADING_CAMP_RESUPPLY_PLURAL = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~supply bag
+
+FETCH_OBJ_DISMOUNT_HORSE = Get off the horse
+
+FETCH_OBJ_DISMOUNT_VEHICLE = Get out of the vehicle
+
+FETCH_OBJ_DROP_CAMP_RESUPPLY_UNLOADING = Drop the ~COLOR_MP_OBJECTIVE_NEUTRAL~supply bag~s~
+
+FETCH_OBJ_ENTER_DRIVER_SEAT = Get in the driver seat
+
+FETCH_OBJ_ENTER_DRIVER_SEAT_ROWBOAT = Get in the rowing seat
+
+FETCH_OBJ_GET_ON_MOUNT = Get on the horse
+
+FETCH_OBJ_GET_ON_WAGON = Get on the wagon
+
+FETCH_OBJ_LA_FREE_BEAR = Free the ~COLOR_MP_OBJECTIVE~Legendary Golden Spirit Bear~s~ from the cage
+
+FETCH_OBJ_LA_FREE_BEAVER = Free the ~COLOR_MP_OBJECTIVE~Legendary Night Beaver~s~ from the cage
+
+FETCH_OBJ_LA_FREE_BISON = Free the ~COLOR_MP_OBJECTIVE~Legendary Payta Bison~s~ from the cage
+
+FETCH_OBJ_LA_FREE_BOAR = Free the ~COLOR_MP_OBJECTIVE~Legendary Icahi Boar~s~ from the cage
+
+FETCH_OBJ_LA_FREE_BUCK = Free the ~COLOR_MP_OBJECTIVE~Legendary Shadow Buck~s~ from the cage
+
+FETCH_OBJ_LA_FREE_COUGAR = Free the ~COLOR_MP_OBJECTIVE~Legendary Sapa Cougar~s~ from the cage
+
+FETCH_OBJ_LA_FREE_COYOTE = Free the ~COLOR_MP_OBJECTIVE~Legendary Milk Coyote~s~ from the cage
+
+FETCH_OBJ_LA_FREE_ELK = Free the ~COLOR_MP_OBJECTIVE~Legendary Inahme Elk~s~ from the cage
+
+FETCH_OBJ_LA_FREE_FOX = Free the ~COLOR_MP_OBJECTIVE~Legendary Cross Fox~s~ from the cage
+
+FETCH_OBJ_LA_FREE_GATOR = Free the ~COLOR_MP_OBJECTIVE~Legendary Banded Gator~s~ from the cage
+
+FETCH_OBJ_LA_FREE_MOOSE = Free the ~COLOR_MP_OBJECTIVE~Legendary Ruddy Moose~s~ from the cage
+
+FETCH_OBJ_LA_FREE_PANTHER = Free the ~COLOR_MP_OBJECTIVE~Legendary Iwakta Panther~s~ from the cage
+
+FETCH_OBJ_LA_FREE_RAM = Free the ~COLOR_MP_OBJECTIVE~Legendary Rutile Horn Ram~s~ from the cage
+
+FETCH_OBJ_LA_FREE_WOLF = Free the ~COLOR_MP_OBJECTIVE~Legendary Moonstone Wolf~s~ from the cage
+
+FETCH_OBJ_LA_FREE_WOLF_CAGE = Free the ~COLOR_MP_OBJECTIVE~Legendary Moonstone Wolf~s~ from the cage
+
+FETCH_OBJ_LA_SAMPLE_BEAR = Sample the ~COLOR_MP_OBJECTIVE~Legendary Golden Spirit Bear~s~
+
+FETCH_OBJ_LA_SAMPLE_BEAVER = Sample the ~COLOR_MP_OBJECTIVE~Legendary Night Beaver~s~
+
+FETCH_OBJ_LA_SAMPLE_BISON = Sample the ~COLOR_MP_OBJECTIVE~Legendary Payta Bison~s~
+
+FETCH_OBJ_LA_SAMPLE_BOAR = Sample the ~COLOR_MP_OBJECTIVE~Legendary Icahi Boar~s~
+
+FETCH_OBJ_LA_SAMPLE_BUCK = Sample the ~COLOR_MP_OBJECTIVE~Legendary Shadow Buck~s~
+
+FETCH_OBJ_LA_SAMPLE_COUGAR = Sample the ~COLOR_MP_OBJECTIVE~Legendary Sapa Cougar~s~
+
+FETCH_OBJ_LA_SAMPLE_COYOTE = Sample the ~COLOR_MP_OBJECTIVE~Legendary Milk Coyote~s~
+
+FETCH_OBJ_LA_SAMPLE_ELK = Sample the ~COLOR_MP_OBJECTIVE~Legendary Inahme Elk~s~
+
+FETCH_OBJ_LA_SAMPLE_FOX = Sample the ~COLOR_MP_OBJECTIVE~Legendary Cross Fox~s~
+
+FETCH_OBJ_LA_SAMPLE_GATOR = Sample the ~COLOR_MP_OBJECTIVE~Legendary Banded Gator~s~
+
+FETCH_OBJ_LA_SAMPLE_MOOSE = Sample the ~COLOR_MP_OBJECTIVE~Legendary Ruddy Moose~s~
+
+FETCH_OBJ_LA_SAMPLE_PANTHER = Sample the ~COLOR_MP_OBJECTIVE~Legendary Iwakta Panther~s~
+
+FETCH_OBJ_LA_SAMPLE_RAM = Sample the ~COLOR_MP_OBJECTIVE~Legendary Rutile Horn Ram~s~
+
+FETCH_OBJ_LA_SAMPLE_WOLF = Sample the ~COLOR_MP_OBJECTIVE~Legendary Moonstone Wolf~s~
+
+FETCH_OBJ_LA_SEDATE_BEAR = Sedate the ~COLOR_MP_OBJECTIVE~Legendary Golden Spirit Bear~s~
+
+FETCH_OBJ_LA_SEDATE_BEAVER = Sedate the ~COLOR_MP_OBJECTIVE~Legendary Night Beaver~s~
+
+FETCH_OBJ_LA_SEDATE_BISON = Sedate the ~COLOR_MP_OBJECTIVE~Legendary Payta Bison~s~
+
+FETCH_OBJ_LA_SEDATE_BOAR = Sedate the ~COLOR_MP_OBJECTIVE~Legendary Icahi Boar~s~
+
+FETCH_OBJ_LA_SEDATE_BUCK = Sedate the ~COLOR_MP_OBJECTIVE~Legendary Shadow Buck~s~
+
+FETCH_OBJ_LA_SEDATE_COUGAR = Sedate the ~COLOR_MP_OBJECTIVE~Legendary Sapa Cougar~s~
+
+FETCH_OBJ_LA_SEDATE_COYOTE = Sedate the ~COLOR_MP_OBJECTIVE~Legendary Milk Coyote~s~
+
+FETCH_OBJ_LA_SEDATE_ELK = Sedate the ~COLOR_MP_OBJECTIVE~Legendary Inahme Elk~s~
+
+FETCH_OBJ_LA_SEDATE_FOX = Sedate the ~COLOR_MP_OBJECTIVE~Legendary Cross Fox~s~
+
+FETCH_OBJ_LA_SEDATE_GATOR = Sedate the ~COLOR_MP_OBJECTIVE~Legendary Banded Gator~s~
+
+FETCH_OBJ_LA_SEDATE_MOOSE = Sedate the ~COLOR_MP_OBJECTIVE~Legendary Ruddy Moose~s~
+
+FETCH_OBJ_LA_SEDATE_PANTHER = Sedate the ~COLOR_MP_OBJECTIVE~Legendary Iwakta Panther~s~
+
+FETCH_OBJ_LA_SEDATE_RAM = Sedate the ~COLOR_MP_OBJECTIVE~Legendary Rutile Horn Ram~s~
+
+FETCH_OBJ_LA_SEDATE_WOLF = Sedate the ~COLOR_MP_OBJECTIVE~Legendary Moonstone Wolf~s~
+
+FETCH_OBJ_LA_SKIN_BEAR = Skin the ~COLOR_MP_OBJECTIVE~Legendary Golden Spirit Bear~s~
+
+FETCH_OBJ_LA_SKIN_BEAVER = Skin the ~COLOR_MP_OBJECTIVE~Legendary Night Beaver~s~
+
+FETCH_OBJ_LA_SKIN_BISON = Skin the ~COLOR_MP_OBJECTIVE~Legendary Payta Bison~s~
+
+FETCH_OBJ_LA_SKIN_BOAR = Skin the ~COLOR_MP_OBJECTIVE~Legendary Icahi Boar~s~
+
+FETCH_OBJ_LA_SKIN_BUCK = Skin the ~COLOR_MP_OBJECTIVE~Legendary Shadow Buck~s~
+
+FETCH_OBJ_LA_SKIN_COUGAR = Skin the ~COLOR_MP_OBJECTIVE~Legendary Sapa Cougar~s~
+
+FETCH_OBJ_LA_SKIN_COYOTE = Skin the ~COLOR_MP_OBJECTIVE~Legendary Milk Coyote~s~
+
+FETCH_OBJ_LA_SKIN_ELK = Skin the ~COLOR_MP_OBJECTIVE~Legendary Inahme Elk~s~
+
+FETCH_OBJ_LA_SKIN_FOX = Skin the ~COLOR_MP_OBJECTIVE~Legendary Cross Fox~s~
+
+FETCH_OBJ_LA_SKIN_GATOR = Skin the ~COLOR_MP_OBJECTIVE~Legendary Banded Gator~s~
+
+FETCH_OBJ_LA_SKIN_MOOSE = Skin the ~COLOR_MP_OBJECTIVE~Legendary Ruddy Moose~s~
+
+FETCH_OBJ_LA_SKIN_PANTHER = Skin the ~COLOR_MP_OBJECTIVE~Legendary Iwakta Panther~s~
+
+FETCH_OBJ_LA_SKIN_RAM = Skin the ~COLOR_MP_OBJECTIVE~Legendary Rutile Horn Ram~s~
+
+FETCH_OBJ_LA_SKIN_WOLF = Skin the ~COLOR_MP_OBJECTIVE~Legendary Moonstone Wolf~s~
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_BEAR = Wait for a ~COLOR_POSSE_ALLY~Posse Member~s~ to sample the ~COLOR_MP_OBJECTIVE~Legendary Golden Spirit Bear~s~
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_BEAVER = Wait for a ~COLOR_POSSE_ALLY~Posse Member~s~ to sample the ~COLOR_MP_OBJECTIVE~Legendary Night Beaver~s~
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_BISON = Wait for a ~COLOR_POSSE_ALLY~Posse Member~s~ to sample the ~COLOR_MP_OBJECTIVE~Legendary Payta Bison~s~
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_BOAR = Wait for a ~COLOR_POSSE_ALLY~Posse Member~s~ to sample the ~COLOR_MP_OBJECTIVE~Legendary Icahi Boar~s~
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_BUCK = Wait for a ~COLOR_POSSE_ALLY~Posse Member~s~ to sample the ~COLOR_MP_OBJECTIVE~Legendary Shadow Buck~s~
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_COUGAR = Wait for a ~COLOR_POSSE_ALLY~Posse Member~s~ to sample the ~COLOR_MP_OBJECTIVE~Legendary Sapa Cougar~s~
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_COYOTE = Wait for a ~COLOR_POSSE_ALLY~Posse Member~s~ to sample the ~COLOR_MP_OBJECTIVE~Legendary Milk Coyote~s~
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_ELK = Wait for a ~COLOR_POSSE_ALLY~Posse Member~s~ to sample the ~COLOR_MP_OBJECTIVE~Legendary Inahme Elk~s~
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_FOX = Wait for a ~COLOR_POSSE_ALLY~Posse Member~s~ to sample the ~COLOR_MP_OBJECTIVE~Legendary Cross Fox~s~
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_GATOR = Wait for a ~COLOR_POSSE_ALLY~Posse Member~s~ to sample the ~COLOR_MP_OBJECTIVE~Legendary Banded Gator~s~
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_MOOSE = Wait for a ~COLOR_POSSE_ALLY~Posse Member~s~ to sample the ~COLOR_MP_OBJECTIVE~Legendary Ruddy Moose~s~
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_PANTHER = Wait for a ~COLOR_POSSE_ALLY~Posse Member~s~ to sample the ~COLOR_MP_OBJECTIVE~Legendary Iwakta Panther~s~
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_RAM = Wait for a ~COLOR_POSSE_ALLY~Posse Member~s~ to sample the ~COLOR_MP_OBJECTIVE~Legendary Rutile Horn Ram~s~
+
+FETCH_OBJ_LA_WAIT_FOR_POSSE_WOLF = Wait for a ~COLOR_POSSE_ALLY~Posse Member~s~ to sample the ~COLOR_MP_OBJECTIVE~Legendary Moonstone Wolf~s~
+
+FETCH_OBJ_MOONSHINE_STILL = Moonshine Still
+
+FETCH_OBJ_MOONSHINE_VAT = Moonshine Vat
+
+FETCH_OBJ_PRISONER = Prisoner
+
+FETCH_OBJ_RETURN_CAMP_RESUPPLY_UNLOADING = Take the supplies ~1~
+
+FETCH_OBJ_STEAL_CAMP_RESUPPLY_UNLOADING = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~supply bag~s~
+
+FETCH_OBJ_STEAL_CAMP_RESUPPLY_UNLOADING_PLURAL = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~supply bags~s~ for Camp
+
+FETCH_OPEN_CAGE = Open Cage
+
+FETCH_OTH_SHARD_NAME = On The Hunt
+
+FETCH_PLAYER_BOUNTY_REQUEST_BODY = ~1$~ player bounty nearby
+
+FETCH_PLAYER_BOUNTY_REQUEST_TITLE = Player Bounty
+
+FETCH_PLAYER_BOUNTY_SHARD_END = ~COLOR_ENEMY~Hunt Over~s~
+
+FETCH_PLAYER_BOUNTY_SHARD_NAME = Bounty
+
+FETCH_PLAYER_BOUNTY_SHARD_POSSE_ABANDONED = The Posse abandoned the hunt
+
+FETCH_PLAYER_BOUNTY_SHARD_START_FEMALE = ~COLOR_ENEMY~Hunted~s~
+
+FETCH_PLAYER_BOUNTY_SHARD_START_MALE = ~COLOR_ENEMY~Hunted~s~
+
+FETCH_PLAYER_BOUNTY_SHARD_YOUR_POSSE_ABANDONED = Your Posse abandoned the hunt
+
+FETCH_PLAYER_BOUNTY_SHARD_YOU_ABANDONED = You abandoned the hunt
+
+FETCH_PRISONER_ASSASSINATION_SHARD_NAME = Early Execution
+
+FETCH_PROP_GOODS_BAG = Goods
+
+FETCH_PROP_GOODS_SACK = Goods Sack
+
+FETCH_PROP_HERBALIST_GOODS = Herbalist Goods
+
+FETCH_PROP_KEY = Keys
+
+FETCH_PROP_MAIL = Mailbag
+
+FETCH_PROP_MAILBOX = Mailbox
+
+FETCH_PROP_MONEYBAG = Cash bag
+
+FETCH_PROP_PACKAGE = Bag
+
+FETCH_PROP_PAYROLL_BAG = Payroll Cash bag
+
+FETCH_PROP_SUPPLIES_SACK = Supplies Bag
+
+FETCH_PROP_SUPPLY_CRATE = Supplies
+
+FETCH_RECOVER_SHARD_NAME = Recovery
+
+FETCH_REPO_SHARD_NAME = Repossession
+
+FETCH_RESCUE_PED_SCORETIMER_ESCORT_TEAM_PRIMARY = ~1~ is escorting a Captive
+
+FETCH_RESCUE_PED_SCORETIMER_ESCORT_TEAM_SECONDARY = ~1~ is stealing a Captive
+
+FETCH_RESCUE_PED_SCORETIMER_ESCORT_YOU_TEAM_PRIMARY = You are escorting a ~COLOR_MP_OBJECTIVE_FRIENDLY~Captive~s~
+
+FETCH_RESCUE_PED_SHARD_NAME = Rescue
+
+FETCH_RESUPPLY_SHARD_NAME = Supply
+
+FETCH_RESUPPLY_TRADE_SHARD_NAME = Resupply
+
+FETCH_RIVAL_POSSES = rival Posses
+
+FETCH_SELL_GOODS_SHARD_NAME = Goods Delivery
+
+FETCH_SHARD_BOUNTY_BOARD_DESTROYED = The ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ was lost
+
+FETCH_SHARD_BOUNTY_BOARD_DESTROYED_PLURAL = The ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~ were lost
+
+FETCH_SHARD_BOUNTY_BOARD_INTRO_FEMALE = Capture ~COLOR_ENEMY~~1~~s~ dead or alive
+
+FETCH_SHARD_BOUNTY_BOARD_INTRO_FEMALE_PLURAL = Capture ~COLOR_ENEMY~~1~~s~ dead or alive
+
+FETCH_SHARD_BOUNTY_BOARD_INTRO_INITIATE = Capture ~COLOR_ENEMY~The Initiates~s~ dead or alive
+
+FETCH_SHARD_BOUNTY_BOARD_INTRO_LOS_PASAJEROS = Capture the ~COLOR_ENEMY~Los Pasajeros~s~ dead or alive
+
+FETCH_SHARD_BOUNTY_BOARD_INTRO_MALE = Capture ~COLOR_ENEMY~~1~~s~ dead or alive
+
+FETCH_SHARD_BOUNTY_BOARD_INTRO_MALE_PLURAL = Capture ~COLOR_ENEMY~~1~~s~ dead or alive
+
+FETCH_SHARD_BOUNTY_BOARD_INTRO_NED_BELLINGHAM = Capture ~COLOR_ENEMY~Ned Bellingham~s~ dead or alive
+
+FETCH_SHARD_BOUNTY_BOARD_INTRO_POACHER = Capture ~COLOR_ENEMY~the poacher~s~ dead or alive
+
+FETCH_SHARD_BOUNTY_BOARD_OVER = Bounty Over
+
+FETCH_SHARD_BOUNTY_BOARD_PASSED = Bounty Complete
+
+FETCH_SHARD_BOUNTY_BOARD_PASSED_ALIVE = Bounty delivered alive
+
+FETCH_SHARD_BOUNTY_BOARD_PASSED_DEAD = Bounty delivered dead
+
+FETCH_SHARD_BOUNTY_BOARD_PASSED_PARTIAL = ~1~ alive, ~2~ dead
+
+FETCH_SHARD_BOUNTY_BOARD_PASSED_PARTIAL_AND_LOST = ~1~ alive, ~2~ dead, ~3~ lost
+
+FETCH_SHARD_FAIL_ON_AGGRO = The Posse entered combat
+
+FETCH_SHARD_HIDEOUT_CLEARED = Hideout Cleared
+
+FETCH_SHARD_MATERIALS_INCREASED = ~1~ units of materials added
+
+FETCH_SHARD_MATERIALS_INCREASED_NO_VALUE = Materials added
+
+FETCH_SHARD_MOONSHINE_MASH_COST = Mash ingredients now ~1$~
+
+FETCH_SHARD_MOONSHINE_MASH_COST_NO_VALUE = Mash ingredients cost reduced
+
+FETCH_SHARD_OVER = Mission Over
+
+FETCH_SHARD_PASSED = Mission Passed
+
+FETCH_SHARD_POSSE_ABANDONED = The Posse abandoned the job
+
+FETCH_SHARD_PRODUCTION_HALTED = Production halted
+
+FETCH_SHARD_ROADBLOCK_DESTROYED = The roadblock wasn't cleared
+
+FETCH_SHARD_ROADBLOCK_DESTROYED_PLURAL = The roadblocks weren't cleared
+
+FETCH_SHARD_TIME_LIMIT = Timer expired
+
+FETCH_SHARD_YOUR_POSSE_ABANDONED = Your Posse abandoned the job
+
+FETCH_SHARD_YOU_ABANDONED = You abandoned the job
+
+FETCH_SHERIFFS_SUPPLIES_SHARD_NAME = Resupply
+
+FETCH_STEAL_BOAT_SHARD_NAME = Boat Theft
+
+FETCH_STEAL_HORSES_SHARD_NAME = Horse Theft
+
+FETCH_STEAL_WAGON_SHARD_NAME = Wagon Theft
+
+FETCH_SUPPLY_TRAIN_SHARD_NAME = Resupply
+
+FETCH_TESTBED = Testbed
+
+FETCH_TRAIN = Train
+
+FETCH_UNLOADING_SUPPLIES_DESTROYED = Supplies were destroyed
+
+FETCH_UNLOADING_SUPPLIES_DESTROYED_PLURAL = Supplies were destroyed
+
+FETCH_UNLOADING_SUPPLIES_GO_TO_0 = Go ~1~
+
+FETCH_UNLOCK = Unlock
+
+FETCH_UNTIE_BUYER_FOOTER = Buyer
+
+FETCH_VEH_BOAT_GUARD = Guard Boat
+
+FETCH_VEH_BUGGY = Buggy
+
+FETCH_VEH_CANOE = Canoe
+
+FETCH_VEH_CART = Cart
+
+FETCH_VEH_CART_SUPPLY = Supply Cart
+
+FETCH_VEH_COACH = Coach
+
+FETCH_VEH_CONVOY_WAGON = Caravan Wagon
+
+FETCH_VEH_EQUIPMENT = Equipment
+
+FETCH_VEH_REPO = Wagon
+
+FETCH_VEH_ROWBOAT = Boat
+
+FETCH_VEH_STAGECOACH = Stagecoach
+
+FETCH_VEH_SUPPLIES = Supplies
+
+FETCH_VEH_WAGON = Wagon
+
+FETCH_VEH_WAGON_DELIVERY = Delivery Wagon
+
+FETCH_VEH_WAGON_OIL = Oil Wagon
+
+FETCH_VEH_WAGON_POLICE = Police Wagon
+
+FETCH_VEH_WAGON_PRISONER = Prison Wagon
+
+FETCH_VEH_WAGON_SUPPLY = Supply Wagon
+
+FETCH_WAGON_BREAK_SHARD_NAME = Early Release
+
+FETCH_WAGON_THIEVES_SHARD_NAME = Stolen Wagon
+
+MOONSHINE_MARKETING_BAR_BRAWL_SHARD_NAME = Bar Brawl
+

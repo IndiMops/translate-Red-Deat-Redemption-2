@@ -1,0 +1,54 @@
+0x4F42550E = Клетка
+
+0x9BC01469 = Вернитесь к ~o~каноэ~s~.
+
+0x31392092 = Женщина
+
+RDCH31_F_CAND = Каноэ уничтожено.
+
+RDCH31_F_CANS = Каноэ застряло.
+
+RDCH31_F_WOMA = Вы бросили женщину.
+
+RDCH31_F_WOMD = Женщина умерла.
+
+RDCH31_H_CANOE = Управляйте лодкой при помощи ~INPUTGROUP_VEH_MOVE_ALL~ и гребите, удерживая ~INPUT_VEH_BOAT_ACCELERATE~. Чтобы грести быстрее, нажимайте ~INPUT_VEH_BOAT_ACCELERATE~~s~.
+
+RDCH31_O_APRCH = Приблизьтесь к ~o~пещере~s~.
+
+RDCH31_O_GETBC = Садитесь в ~o~каноэ~s~.
+
+RDCH31_O_GETC = Садитесь в ~o~каноэ~s~.
+
+RDCH31_O_GTA = Отправляйтесь в ~o~Аннесберг~s~.
+
+RDCH31_O_GTBC = Доберитесь до ~o~Бутчер-Крик~s~.
+
+RDCH31_O_KILL = Убейте ~e~отморозков Мерфри~s~.
+
+RDCH31_O_OPEN = Откройте ~o~клетку~s~.
+
+RDCH31_O_RETWOM = Вернитесь к ~o~женщине~s~.
+
+RDCH31_O_SPEAKC = Поговорите с ~o~Чарльзом~s~.
+
+RDCH31_O_THROW = Бросьте динамит в ~o~пещеру~s~.
+
+RDCH31_U_BHOLLOW = Бивер-Холлоу?
+
+RDCH31_U_CANOE = Плыть на каноэ
+
+RDCH31_U_CKILL = Послать Чарльза
+
+RDCH31_U_HORSE = Ехать на лошади
+
+RDCH31_U_OCAGE = Открыть клетку
+
+RDCH31_U_PKILL = Пойти самому
+
+RDCH31_U_RIDE = Едем со мной
+
+RDCH31_U_SNEAK = Подкрасться
+
+RDCH31_U_TNT = Динамит
+

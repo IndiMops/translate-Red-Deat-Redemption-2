@@ -1,0 +1,24 @@
+FETCH_MOONSHINE_ROADBLOCK_HELP_PRIMARY = Clear out the Revenue Agents' roadblock to benefit your Moonshine Operation.
+
+FETCH_MOONSHINE_ROADBLOCK_HELP_PRIMARY_PLAYER = Clear out the Revenue Agents' roadblock to benefit ~1~'s Moonshine Operation.
+
+FETCH_MOONSHINE_ROADBLOCK_HELP_PRIMARY_PLURAL = Clear out the Revenue Agents' roadblocks to benefit your Moonshine Operation.
+
+FETCH_MOONSHINE_ROADBLOCK_HELP_PRIMARY_PLURAL_PLAYER = Clear out the Revenue Agents' roadblocks to benefit ~1~'s Moonshine Operation.
+
+FETCH_MOONSHINE_ROADBLOCK_HELP_REMAINING_ATTACKERS = Take out the remaining ~COLOR_ENEMY~Revenue Agents~s~.
+
+FETCH_MOONSHINE_ROADBLOCK_NAME = Roadblock
+
+FETCH_MOONSHINE_ROADBLOCK_OBJ_DESTROY = Take out the ~COLOR_ENEMY~Revenue Agents~s~
+
+FETCH_MOONSHINE_ROADBLOCK_SHARD_DESC_PRIMARY = Clear out the Revenue Agents
+
+FETCH_MOONSHINE_ROADBLOCK_SHARD_DESC_PRIMARY_PLURAL = Clear out the Revenue Agents
+
+FETCH_MOONSHINE_ROADBLOCK_SHARD_PRIMARY_PASS = Roadblock cleared
+
+FETCH_MOONSHINE_ROADBLOCK_SHARD_PRIMARY_PASS_PARTIAL = ~1~/~2~ roadblocks cleared
+
+FETCH_MOONSHINE_ROADBLOCK_SHARD_PRIMARY_PASS_PLURAL = Roadblocks were cleared
+

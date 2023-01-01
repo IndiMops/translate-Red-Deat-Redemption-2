@@ -1,0 +1,8 @@
+0xE104264F = Dead Owner
+
+NB_HDOG_AMBUSHER_BLIP = Enemy
+
+NB_HDOG_BLIP_NAME = Stray Dog
+
+NB_HDOG_TREASURE_BLIP = Treasure
+

@@ -1,0 +1,24 @@
+CFJE4_CNV_1 = ~z~~sl:0.0:2.2~You know I seen a lot of men who say one thing~sl:0.2~and do the other thing.
+
+CFJE4_CNV_2 = ~z~~sl:0.0:1.3~Who promise you the world~sl:~while they rob the bread off your plate.
+
+CFJE4_CNV_3 = ~z~~sl:0.0:1.2~Listen,~sl:~I know Dutch been a little erratic recently.
+
+CFJE4_CNV_4 = ~z~I know what went on in Blackwater...
+
+CFJE4_CNV_5 = ~z~Well, none of us is pretending that was something nice.
+
+CFJE4_CNV_6 = ~z~~sl:0.0:1.0~But I guess...~sl:0.8:1.2~the way that I see it,~sl:0.9~we're still here and he's still right.
+
+CFJE4_CNV_7 = ~z~~sl:0.0:0.8~I mean, look,~sl:0.0:2.2~you all free to think what you want to think but for me,~sl:0.7~I still believe in him.
+
+CFJE4_CNV_8 = ~z~~sl:0.0:1.0~Because...~sl:0.5:1.7~well, he did what he did.~sl:0.8:1.3~But he did it for love,~sl:1.9~for all of us.
+
+CFJE4_CNV_9 = ~z~~sl:0.0:2.8~Yes, I feel bad, they didn't deserve that but listen...~sl:~I just think,
+
+CFJE4_CNV_10 = ~z~~sl:0.0:2.6~and I been thinking about this a lot, I just think...~sl:0.5~Dutch loves us.
+
+CFJE4_CNV_11 = ~z~~sl:0.0:2.1~And being loved, well...~sl:0.4~we're gonna be okay.
+
+CFJE4_CNV_12 = ~z~We're gonna make it.
+

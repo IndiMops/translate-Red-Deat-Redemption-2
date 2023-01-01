@@ -1,0 +1,4 @@
+CCSW3_CNV01_1 = ~z~Wake up, Reverend.
+
+CCSW3_CNV01_2 = ~z~~sl:1.8:1.4~I'm awake, sir... ~sl:0.3:3.7~I'm awake but in a state of deepest contemplation.~sl:0.3:1.7~We're not alone.~sl:~We both know that, don't we?
+

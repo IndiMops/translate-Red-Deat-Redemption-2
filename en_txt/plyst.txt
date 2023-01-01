@@ -1,0 +1,36 @@
+0x1E0CF4C2 = Respawn at your nearest property
+
+0x5F56CD8A = Player Menu
+
+0x7296A51B = You died
+
+0x8356C5A2 = Spectating...
+
+0x8996A8B0 = Scoreboard
+
+0x523536FE = You were killed by ~1p~
+
+0xBD6451D6 = Camera
+
+SPEC_CAMP_SPWN_CAMPFLAG = Respawn at Camp (white flag)
+
+SPEC_CAM_CANCEL = Cancel
+
+SPEC_CAM_EXIT_SCTV = Exit SCTV
+
+SPEC_CAM_HIDE_HUD = Hide HUD
+
+SPEC_CAM_SHOW_HUD = Show HUD
+
+SPEC_CAM_SPECTATE = Spectate
+
+SPEC_CAM_SPWN_CAMP = Respawn at your Camp
+
+SPEC_CAM_SPWN_CLOSE = Respawn
+
+SPEC_CAM_SPWN_EXIT = Join New Match
+
+SPEC_CAM_SWITCH = Switch Players
+
+SPEC_CAM_TOGGLE = Toggle Respawn
+

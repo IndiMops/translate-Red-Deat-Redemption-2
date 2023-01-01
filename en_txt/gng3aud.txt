@@ -1,0 +1,716 @@
+GN3_IG2_P1_1 = ~z~
+
+GN3_IG2_P1_2 = ~z~Okay, bring us over.
+
+GN3_IG2_P1_3 = ~z~~sl:1.0~We good?
+
+GN3_IG2_P1_4 = ~z~Uh huh.
+
+GNG1_S1_NOTROW_01 = ~z~So... why aren't we moving?
+
+GNG1_S1_NOTROW_02 = ~z~What's wrong? You want me to row?
+
+GNG1_S1_NOTROW_03 = ~z~Come on, let's get there!
+
+GNG3_BLOCK_01 = ~z~Move over, will you?
+
+GNG3_BLOCK_02 = ~z~I can't see anything with you standing there.
+
+GNG3_BLOCK_03 = ~z~Hey, you're in the way.
+
+GNG3_ESC_W0_1 = ~z~Let's clear these then make a run for it!
+
+GNG3_EXT2_1 = ~z~Arthur?
+
+GNG3_EXT2_2 = ~z~Arthur.
+
+GNG3_EXT2_3 = ~z~Oh, sorry.
+
+GNG3_EXT2_4 = ~z~I was miles away...
+
+GNG3_EXT2_5 = ~z~thinking of, err...
+
+GNG3_EXT2_6 = ~z~huh... I don't know.
+
+GNG3_EXT2_7 = ~z~Dutch said to tell you...
+
+GNG3_EXT2_8 = ~z~he and Micah have gone to Annesburg...
+
+GNG3_EXT2_9 = ~z~something about Mr. Cornwall.
+
+GNG3_EXT2_10 = ~z~Cornwall?
+
+GNG3_EXT2_11 = ~z~Okay.
+
+GNG3_EXT2_12 = ~z~Thanks, Mary-Beth.
+
+GNG3_EXT_1 = ~z~You brought him back to me.
+
+GNG3_EXT_2 = ~z~We told you we would.
+
+GNG3_EXT_3 = ~z~John!
+
+GNG3_EXT_4 = ~z~What are you doing here?
+
+GNG3_EXT_5 = ~z~It's good to see you too, partner.
+
+GNG3_EXT_6 = ~z~I meant I hadn't sent for you yet.
+
+GNG3_EXT_7 = ~z~I went.
+
+GNG3_EXT_8 = ~z~But I said that...
+
+GNG3_EXT_9 = ~z~Yeah, I know what you said.
+
+GNG3_EXT_10 = ~z~I felt different.
+
+GNG3_EXT_11 = ~z~Is that so?
+
+GNG3_EXT_12 = ~z~Yes.
+
+GNG3_EXT_13 = ~z~And when springing John brings the law down on all of us...
+
+GNG3_EXT_14 = ~z~what then, Arthur?
+
+GNG3_EXT_15 = ~z~Well I guess we'll have another fight on our hands.
+
+GNG3_EXT_16 = ~z~Loyalty, Arthur, it ain't...
+
+GNG3_EXT_17 = ~z~I had a goddamn plan.
+
+GNG3_EXT_18 = ~z~John...
+
+GNG3_EXT_19 = ~z~John...
+
+GNG3_EXT_20 = ~z~you are my brother...
+
+GNG3_EXT_21 = ~z~you are my son...
+
+GNG3_EXT_22 = ~z~I was coming for you...
+
+GNG3_EXT_23 = ~z~They...
+
+GNG3_EXT_24 = ~z~they was talking of hanging me, Dutch.
+
+GNG3_EXT_25 = ~z~They was talking...
+
+GNG3_EXT_26 = ~z~they was talking.
+
+GNG3_EXT_27 = ~z~And now they may come and hang us all.
+
+GNG3_HAVEPISTOL_1 = ~z~John, take my pistol!
+
+GNG3_IG9_1 = ~z~
+
+GNG3_IG10_1 = ~z~You see him?
+
+GNG3_IG10_2 = ~z~~sl:0.9~I ain't sure.
+
+GNG3_IG10_3 = ~z~~sl:0.0:1.1~Oh, I think I got him!~sl:1.8~There's a bunch of them, though.
+
+GNG3_IG10_INTRO_1 = ~z~Alright... where's John...
+
+GNG3_IG10_WHERE_1 = ~z~Where are you going?
+
+GNG3_IG12_1 = ~z~Oh no you don't.
+
+GNG3_IG13_DSARM_1 = ~z~Turn around!
+
+GNG3_IG13_DSARM_2 = ~z~~sl:0.5:0.0~Drop it!
+
+GNG3_IG13_DSARM_3 = ~z~
+
+GNG3_IG13_DSARM_4 = ~z~
+
+GNG3_IG14_1 = ~z~
+
+GNG3_IG14_2 = ~z~Okay, today's your lucky day!
+
+GNG3_IG14_3 = ~z~Let's go!
+
+GNG3_IG14_4 = ~z~
+
+GNG3_INT_1 = ~z~Insist all you like...
+
+GNG3_INT_2 = ~z~ain't happening.
+
+GNG3_INT_3 = ~z~Arthur, tell her.
+
+GNG3_INT_4 = ~z~Tell her what?
+
+GNG3_INT_5 = ~z~She ain't coming with us to collect her husband.
+
+GNG3_INT_6 = ~z~Abigail, you ain't coming.~n~~m~I...
+
+GNG3_INT_7 = ~z~That's the end of the matter.
+
+GNG3_INT_8 = ~z~See, there, you heard him.
+
+GNG3_INT_9 = ~z~Now let's go.
+
+GNG3_INT_10 = ~z~But...
+
+GNG3_INT_11 = ~z~But nothing.
+
+GNG3_INT_12 = ~z~It'll be quicker and easier with just the two of us.
+
+GNG3_INT_13 = ~z~Plus John will be calmer without worrying about you.
+
+GNG3_INT_14 = ~z~Ain't complicated.
+
+GNG3_INT_15 = ~z~Well...
+
+GNG3_INT_16 = ~z~well I ain't the crying sort, but...
+
+GNG3_INT_17 = ~z~I'm real grateful.
+
+GNG3_INT_18 = ~z~Yeah, we know you are.
+
+GNG3_INT_19 = ~z~We'll bring him back to you.
+
+GNG3_INT_20 = ~z~Thank you!
+
+GNG3_INT_21 = ~z~Thank you both!
+
+GNG3_INT_LI1_1 = ~z~The thing is Sadie I really can't...
+
+GNG3_INT_LI1_2 = ~z~I must come, he's my husband!
+
+GNG3_INT_LI1_3 = ~z~I know he's your husband but it's gonna be...
+
+GNG3_INT_LI1_4 = ~z~well, it's gonna be violent.
+
+GNG3_INT_LI2_1 = ~z~I can handle myself just fine... I'm coming.
+
+GNG3_INT_LI2_2 = ~z~Like I said, ain't happening. You got a boy.
+
+GNG3_INT_LIL_1 = ~z~I insist!
+
+GNG3_INT_LIL_2 = ~z~Insist all you like, ain't happening.
+
+GNG3_INT_LIL_3 = ~z~Arthur, tell her.
+
+GNG3_MCS1_1 = ~z~You always seem to need rescuing, Marston.
+
+GNG3_MCS1_2 = ~z~Nice to see you, Arthur.
+
+GNG3_MCS1_3 = ~z~Ah, there's some fellers coming here...
+
+GNG3_MCS1_4 = ~z~don't look too friendly, we best get out of here.
+
+GNG3_MCS1_5 = ~z~Come on, boys, let's move.
+
+GNG3_MCS1_6 = ~z~I'll row...
+
+GNG3_MCS1_7 = ~z~you shoot.
+
+GNG3_MCS1_8 = ~z~Seriously?
+
+GNG3_MCS1_9 = ~z~Let me, you...
+
+GNG3_MCS1_10 = ~z~You're a better shot.
+
+GNG3_MCS1_11 = ~z~Right, fine.
+
+GNG3_MCS1_12 = ~z~You just relax and enjoy yourself, John.
+
+GNG3_MCS1_13 = ~z~Leave the real work for them as can still handle it.
+
+GNG3_MCS1_14 = ~z~Thanks.
+
+GNG3_MCS1_LI_1 = ~z~You always seem to need rescuing, Marston.
+
+GNG3_MCS2_1 = ~z~You know...
+
+GNG3_MCS2_2 = ~z~I think I liked you better when you was all...
+
+GNG3_MCS2_3 = ~z~trussed up like a prized chicken.
+
+GNG3_MCS2_4 = ~z~No doubt.
+
+GNG3_MCS2_5 = ~z~Oh, hurry up.
+
+GNG3_MCS2_6 = ~z~They're gonna be on our tail soon enough...
+
+GNG3_MCS2_7 = ~z~if you boys keep wasting time.
+
+GNG3_MCS2_8 = ~z~That's us told then.
+
+GNG3_MCS2_9 = ~z~Hey, Arthur...
+
+GNG3_MCS2_10 = ~z~thank you.
+
+GNG3_MCS2_11 = ~z~Don't mention it.
+
+GNG3_MCS2_12 = ~z~Let's go.
+
+GNG3_MCS3_1 = ~z~Come on, Arthur, let's keep moving.
+
+GNG3_MCS3_2 = ~z~Where is he?
+
+GNG3_MCS3_3 = ~z~You see him?
+
+GNG3_MCS3_4 = ~z~No...
+
+GNG3_MCS3_5 = ~z~You...
+
+GNG3_MCS3_6 = ~z~mister...
+
+GNG3_MCS3_7 = ~z~you know John Marston?
+
+GNG3_MCS3_8 = ~z~He... he ain't...
+
+GNG3_MCS3_9 = ~z~he ain't working today.
+
+GNG3_MCS3_10 = ~z~Put the gun down, lady.
+
+GNG3_MCS3_11 = ~z~No...
+
+GNG3_MCS3_12 = ~z~you put the gun down.
+
+GNG3_MCS3_13 = ~z~Now!
+
+GNG3_MCS3_14 = ~z~Where's John Marston?
+
+GNG3_MCS3_15 = ~z~He ain't in the work detail today.
+
+GNG3_MCS3_16 = ~z~Okay, well I guess we'll go and get him together.
+
+GNG3_MCS4_1 = ~z~Jameson!
+
+GNG3_MCS4_2 = ~z~Is Jameson in?
+
+GNG3_MCS4_3 = ~z~He's in Saint Denis.
+
+GNG3_MCS4_4 = ~z~They got Milliken!
+
+GNG3_MCS4_5 = ~z~Got him and going to kill him...
+
+GNG3_MCS4_6 = ~z~unless you bring me John Marston!
+
+GNG3_MCS4_7 = ~z~Right now.
+
+GNG3_MCS4_8 = ~z~You got one minute.
+
+GNG3_MCS4_9 = ~z~I'm counting.
+
+GNG3_MCS4_10 = ~z~One.
+
+GNG3_MCS4_11 = ~z~Two.
+
+GNG3_MCS4_12 = ~z~Three.
+
+GNG3_MCS4_13 = ~z~Uh, Milliken is it?
+
+GNG3_MCS4_14 = ~z~Yes, sir.
+
+GNG3_MCS4_15 = ~z~Will you count for me? I got talking to do.
+
+GNG3_MCS4_16 = ~z~Yes, sir. Of course, sir.
+
+GNG3_MCS4_17 = ~z~From one or four, sir?
+
+GNG3_MCS4_18 = ~z~Oh, very funny...
+
+GNG3_MCS4_19 = ~z~no, we must be at eleven by now.
+
+GNG3_MCS4_20 = ~z~Eleven.
+
+GNG3_MCS4_21 = ~z~Twelve.
+
+GNG3_MCS4_22 = ~z~Thirteen.
+
+GNG3_MCS4_23 = ~z~Faster.
+
+GNG3_MCS4_24 = ~z~Fourteen, fifteen, sixteen, seventeen...
+
+GNG3_MCS4_25 = ~z~Now, hurry up.
+
+GNG3_MCS4_26 = ~z~Eighteen.
+
+GNG3_MCS4_27 = ~z~Or this poor fool's gonna get his brains shot out...
+
+GNG3_MCS4_28 = ~z~and over what?
+
+GNG3_MCS4_29 = ~z~For nothing.
+
+GNG3_MCS4_30 = ~z~M-Milliken....
+
+GNG3_MCS4_31 = ~z~don't stop counting, I can't hear you.
+
+GNG3_MCS4_32 = ~z~Hurry up and bring that asshole out here you bastards!
+
+GNG3_MCS4_33 = ~z~Come on...
+
+GNG3_MCS4_34 = ~z~Don't cry, buddy.
+
+GNG3_MCS4_35 = ~z~I don't wanna die.
+
+GNG3_MCS4_36 = ~z~Yeah, I know, I know.
+
+GNG3_MCS4_37 = ~z~Hey... hey.
+
+GNG3_MCS4_38 = ~z~John.
+
+GNG3_MCS4_39 = ~z~Hello, you two.
+
+GNG3_MCS4_40 = ~z~Now, no funny business...
+
+GNG3_MCS4_41 = ~z~or Mr. Milliken here, will stop crying once and for all.
+
+GNG3_RET_BOAT_01 = ~z~Come on, Arthur!
+
+GNG3_RET_BOAT_02 = ~z~Hurry! We need to get to the boat.
+
+GNG3_RET_BOAT_03 = ~z~Arthur, let's go!
+
+GNG3_S1_BANTDAY_1 = ~z~The place is surrounded by marshland,
+
+GNG3_S1_BANTDAY_2 = ~z~~sl:0.0:1.6~should hopefully give us a bit of cover...~sl:~to move in close enough to find a spot to look for John.
+
+GNG3_S1_BANTDAY_3 = ~z~This time of day, prisoners will probably be working the fields.
+
+GNG3_S1_BANTDAY_4 = ~z~~sl:0.0:2.5~Then all we gotta do is take out all the guards...~sl:~and row our way out of there. Seems simple enough.
+
+GNG3_S1_BANTDAY_5 = ~z~~sl:1.4~How many times, Marston?
+
+GNG3_S1_BANTNHT_1 = ~z~The place is surrounded by marshland,
+
+GNG3_S1_BANTNHT_2 = ~z~~sl:0.0:1.8~should hopefully give us a bit of cover...~sl:~to move in close enough to find a spot to look for John.
+
+GNG3_S1_BANTNHT_3 = ~z~~sl:0.0:2.5~Then all we gotta do is take out all the guards...~sl:~and row our way out of there. Seems simple enough.
+
+GNG3_S1_BANTNHT_4 = ~z~~sl:1.2~How many times, Marston?
+
+GNG3_S1_SETOFFD_1 = ~z~Alright, here goes nothing.
+
+GNG3_S1_SETOFFN_1 = ~z~~sl:0.0:1.9~We'll land the boat in the morning,~sl:~when the prisoners come back out to work the fields.
+
+GNG3_S2_BANT1_1 = ~z~There's a guard up there.
+
+GNG3_S2_BANT1_2 = ~z~I'll deal with him.
+
+GNG3_S2_BANT1_3 = ~z~Okay, I'll follow you up.
+
+GNG3_S2_CLMDAWD_01 = ~z~What are you waiting for?
+
+GNG3_S2_CLMDAWD_02 = ~z~Are you dealing with him or not?
+
+GNG3_S2_CLMDAWD_03 = ~z~Go on, quick, before someone sees us.
+
+GNG3_S2_COME_1 = ~z~Okay, come on up.
+
+GNG3_S2_OBJ1_1 = ~z~Let's head for that watchtower.
+
+GNG3_S2_OBJ1_2 = ~z~Okay.
+
+GNG3_S2_OBJ1_3 = ~z~Stay low.
+
+GNG3_S2_PICKUP_1 = ~z~Grab that rifle, you can use the scope.
+
+GNG3_S2_TAKEOUT_1 = ~z~That'll work too!
+
+GNG3_S2_VANDAWD_01 = ~z~This way, come on.
+
+GNG3_S2_VANDAWD_02 = ~z~What are you doing?
+
+GNG3_S2_VANDAWD_03 = ~z~~sl:0.6:0.0~Get over here.
+
+GNG3_S3_ASHOT_1 = ~z~Whoa! Where are you shooting?
+
+GNG3_S3_BANT1_1 = ~z~In front of that barn, just to our right. You see 'em?
+
+GNG3_S3_BANT1_2 = ~z~There's two guards, take them out and let's go get our boy.
+
+GNG3_S3_BANT1_3 = ~z~~sl:0.6~Okay...
+
+GNG3_S3_BANT2_1 = ~z~Take the shot, Arthur.
+
+GNG3_S3_BANT3_1 = ~z~Nice.
+
+GNG3_S3_BANT4_1 = ~z~Damn it... you missed... try another one, quick!
+
+GNG3_S3_BANT5_1 = ~z~Fine, I'll do it then!
+
+GNG3_S3_BANT6_1 = ~z~Can't see him in that group, let's keep looking.
+
+GNG3_S3_OBJ2_1 = ~z~~sl:0.0:1.1~Hey, I think I see him...~sl:~there's a group in front of that barn, just to our right.
+
+GNG3_S3_OBJ2_2 = ~z~Ah yeah... I see two guards. Ok, take them out and let's go get our boy.
+
+GNG3_S3_OBJ2_3 = ~z~Okay...
+
+GNG3_S3_SSHOT_1 = ~z~Got him!
+
+GNG3_S4_HURRYUP_01 = ~z~What are you doing back there?
+
+GNG3_S4_HURRYUP_02 = ~z~Will you hurry up?
+
+GNG3_S4_HURRYUP_03 = ~z~Get moving, Arthur. Come on!
+
+GNG3_S4_OBJ1_1 = ~z~Wait, shit, I don't think that was John.
+
+GNG3_S4_OBJ1_2 = ~z~Let's get over there and see.
+
+GNG3_S4_OBJ1_3 = ~z~Okay, come on, I think one of those guards was still moving.
+
+GNG3_S5_COMPLY_1 = ~z~Okay, friend, be cool now. Just do as I say.
+
+GNG3_S5_DROPWEP_01 = ~z~Put the weapons down, now!
+
+GNG3_S5_DROPWEP_02 = ~z~Drop the goddamn guns!
+
+GNG3_S5_LOWER_01 = ~z~Lower your guns!
+
+GNG3_S5_LOWER_02 = ~z~Don't shoot!
+
+GNG3_S5_LOWER_03 = ~z~Hold your fire!
+
+GNG3_S5_MARCH_1 = ~z~Come on. March him straight up to the front gate.
+
+GNG3_S5_MARCH_2 = ~z~We better hope someone in there actually gives a damn about this fool.
+
+GNG3_S5_MARCH_3 = ~z~Guess we'll see. We're gonna have to shoot our way out of here regardless.
+
+GNG3_S5_OBJ1_1 = ~z~Try anything and I'll blow your damn head off, you clear on that?
+
+GNG3_S5_OBJ1_2 = ~z~Yes... very clear.
+
+GNG3_S5_OHMYGOD_01 = ~z~Oh my God.
+
+GNG3_S5_OHMYGOD_02 = ~z~Shit, no.
+
+GNG3_S5_OHMYGOD_03 = ~z~~sl:0.8~Please.
+
+GNG3_S5_OHMYGOD_04 = ~z~~sl:0.4~Oh God.
+
+GNG3_S5_OHMYGOD_05 = ~z~Come on, please.
+
+GNG3_S5_WT_BNT1_1 = ~z~They're... they're not gonna let you do this.
+
+GNG3_S5_WT_BNT1_2 = ~z~That's gonna be up to you, my friend.
+
+GNG3_S5_WT_BNT2_1 = ~z~So, you a popular employee, my friend?
+
+GNG3_S5_WT_BNT2_2 = ~z~Not especially...
+
+GNG3_S5_WT_BNT2_3 = ~z~Well, I guess we're about to find out.
+
+GNG3_S5_WT_DAWD_01 = ~z~What's taking so long?
+
+GNG3_S5_WT_DAWD_02 = ~z~Hurry him up, will you?
+
+GNG3_S5_WT_DAWD_03 = ~z~Come on, let's move this along.
+
+GNG3_S6_BANT1B_1 = ~z~We've gotta move, come on!
+
+GNG3_S6_BANT1_1 = ~z~Cover us! John, let's move!
+
+GNG3_S6_BANT1_2 = ~z~Okay, let's go!
+
+GNG3_S6_BANT2_1 = ~z~We got you covered, Arthur! Come on!
+
+GNG3_S6_BANT3_1 = ~z~Here come some more, get down!
+
+GNG3_S6_BANT4B_1 = ~z~We can't keep this up, let's move!
+
+GNG3_S6_BANT4_1 = ~z~Okay, fellers! Time to go!
+
+GNG3_S6_BANT5_1 = ~z~Look out on the left, coming from the barn!
+
+GNG3_S6_BANT6_1 = ~z~More behind us, find some cover!
+
+GNG3_S6_BANT7B_1 = ~z~Let's get to the boat, come on!
+
+GNG3_S6_BANT7_1 = ~z~We gotta move, how we getting out of here?
+
+GNG3_S6_BANT7_2 = ~z~We got a boat. This way, follow me!
+
+GNG3_S6_BOATDWD_01 = ~z~What are you doing? Let's go!
+
+GNG3_S6_BOATDWD_02 = ~z~Come on, we need to get out of here!
+
+GNG3_S6_BOATDWD_03 = ~z~We're running out of time, Arthur!
+
+GNG3_S6_BRIDGE1_1 = ~z~Okay, we're good. Come on!
+
+GNG3_S6_BRIDGE2_1 = ~z~Let's go, come on! Stay with us!
+
+GNG3_S6_CATCH_01 = ~z~Let's go!
+
+GNG3_S6_CATCH_02 = ~z~Okay, go!
+
+GNG3_S6_ESCAPE_01 = ~z~Arthur! We need to go!
+
+GNG3_S6_ESCAPE_02 = ~z~Let's go, come on!
+
+GNG3_S6_ESCAPE_03 = ~z~Hurry the hell up, we gotta go!
+
+GNG3_S6_ESCAPE_04 = ~z~Come on! We gotta move!
+
+GNG3_S6_GBRIDGE_1 = ~z~They're escaping over the bridge! Get after them!
+
+GNG3_S6_GBRIDGE_2 = ~z~Milliken! Stop cowering like a rodent and get back out there!
+
+GNG3_S6_GFIELD_1 = ~z~Drop your weapons now! You got no way out of here!
+
+GNG3_S6_JOHNEX1_1 = ~z~Been a while, John.
+
+GNG3_S6_JOHNEX1_2 = ~z~You're telling me!
+
+GNG3_S6_JOHNEX2_1 = ~z~What took you so long?
+
+GNG3_S6_JOHNEX2_2 = ~z~I'll explain later.
+
+GNG3_S6_JOHNEX3_1 = ~z~Was that you in the balloon?
+
+GNG3_S6_JOHNEX3_2 = ~z~Yeah... believe me, that was my one and only time flying.
+
+GNG3_S6_LAGGING_01 = ~z~Let's go, Arthur!
+
+GNG3_S6_LAGGING_02 = ~z~Come on, let's move!
+
+GNG3_S6_LAGGING_03 = ~z~Get a move on!
+
+GNG3_S6_LAGGING_04 = ~z~Come on, Morgan! We need to get out of here!
+
+GNG3_S6_WAVE3_1 = ~z~Gun them down!
+
+GNG3_S7_BANT1_1 = ~z~Turn that boat around, or we will gun you down!
+
+GNG3_S7_BANT1_2 = ~z~Can't do that, fellers!
+
+GNG3_S7_BANT2_1 = ~z~Thanks for the hospitality, boys!
+
+GNG3_S7_OBJ1_1 = ~z~Keep them off us!
+
+GNG3_S10_OBJ1_1 = ~z~We should get out of here quick before the law gets wind of this.
+
+GNG3_S10_RBANT1SHOUTED_2 = ~z~~sl:0.0:5.1~She's fine,~rp~ Jack is too.~rp~ She managed to escape when...~sl:0.4~when they got Hosea.
+
+GNG3_S10_RBANT1SHOUTED_3 = ~z~Hosea.~rp~ It still don't seem real, somehow.
+
+GNG3_S10_RBANT1SHOUTED_4 = ~z~~sl:0.0:1.8~All them years,~rp~ Arthur...~lr:0.6~he-he was like family.
+
+GNG3_S10_RBANT1SHOUTED_5 = ~z~We lost young Lenny too.
+
+GNG3_S10_RBANT1SHOUTED_6 = ~z~No!~rp~ What a goddamn mess.
+
+GNG3_S10_RBANT1SHOUTED_7 = ~z~And did we...~rp~ what about...~rp~ the money?
+
+GNG3_S10_RBANT1SHOUTED_11 = ~z~~sl:0.0:2.4~The boat went down in a storm...~sl:0.3~and we ended up stranded on an island somewhere, near Cuba.
+
+GNG3_S10_RBANT1SHOUTED_12 = ~z~Cuba?~rp~ Wait, you...~rp~ you're gonna have to tell me all this again.
+
+GNG3_S10_RBANT1SHOUTED_15 = ~z~~sl:0.0:2.4~We're holed up now in the mountains to the north...~lr:~near Roanoke Ridge in some caves there.
+
+GNG3_S10_RBANT1SHOUTED_19 = ~z~~sl:0.0:1.7~And I should warn you...~lr:0.8~Dutch... didn't want us breaking you out.
+
+GNG3_S10_RBANT1SHOUTED_20 = ~z~~sl:0.0:2.8~Said it wasn't the right time, so...~lr:0.7~it might not be the hero's welcome you're imagining.
+
+GNG3_S10_RBANT1SHOUTED_22 = ~z~~sl:0.0:3.4~I can't stop thinking about this... in the bank...~lr:0.5~when they grabbed me, he saw it...
+
+GNG3_S10_RBANT1SHOUTED_23 = ~z~felt almost like he had a moment to do something and didn't.
+
+GNG3_S10_RBANT1SHOUTED_24 = ~z~~sl:0.0:3.7~Dutch ain't himself right now... or...~lr:0.9~maybe he just ain't who we thought he was.
+
+GNG3_S10_RBANT1SHOUTED_26 = ~z~~sl:2.0~Guess not.
+
+GNG3_S10_RBANT1SPOKEN_2 = ~z~She's fine,~rp~ Jack is too.~rp~ She managed to escape when they got Hosea.
+
+GNG3_S10_RBANT1SPOKEN_3 = ~z~Hosea.~rp~ That still don't seem real, somehow.
+
+GNG3_S10_RBANT1SPOKEN_4 = ~z~~sl:0.0:3.6~All them years,~rp~ Arthur...~rp~ he was like...~sl:0.7~like family.
+
+GNG3_S10_RBANT1SPOKEN_5 = ~z~Yeah... we lost young Lenny too.
+
+GNG3_S10_RBANT1SPOKEN_6 = ~z~No...~rp~ what a goddamn mess.
+
+GNG3_S10_RBANT1SPOKEN_7 = ~z~And did we...~rp~ what about...~rp~ the-the money?
+
+GNG3_S10_RBANT1SPOKEN_11 = ~z~~sl:0.0:2.3~The boat went down in a storm and...~sl:0.3~we ended up stranded on an island somewhere near Cuba.
+
+GNG3_S10_RBANT1SPOKEN_12 = ~z~Cuba?~rp~ Wait,~rp~ you're gonna have to tell me all this again.
+
+GNG3_S10_RBANT1SPOKEN_15 = ~z~~sl:0.0:2.5~We're holed up now in the mountains to the north...~lr:~near Roanoke Ridge in some caves there.
+
+GNG3_S10_RBANT1SPOKEN_19 = ~z~~sl:0.0:3.3~And... I should warn you...~lr:0.9~Dutch didn't want us breaking you out.
+
+GNG3_S10_RBANT1SPOKEN_20 = ~z~~sl:0.0:2.7~Said it wasn't the right time, so...~lr:0.8~it might not be the hero's welcome you're imagining.
+
+GNG3_S10_RBANT1SPOKEN_22 = ~z~~sl:0.0:3.2~I can't stop thinking about this... in the bank...~lr:0.4~when they grabbed me, he saw it...
+
+GNG3_S10_RBANT1SPOKEN_23 = ~z~felt almost like he had a... a moment to do something and didn't.
+
+GNG3_S10_RBANT1SPOKEN_24 = ~z~~sl:0.0:3.6~Dutch ain't himself right now... or...~lr:0.7~maybe he just ain't who we thought he was.
+
+GNG3_S10_RBANT1SPOKEN_26 = ~z~~sl:1.2~Guess not.
+
+GNG3_S10_RBANT1_1 = ~z~So what the hell happened in Saint Denis?~rp~ Is Abigail alright?
+
+GNG3_S10_RBANT1_8 = ~z~Lost somewhere at the bottom of the ocean.
+
+GNG3_S10_RBANT1_9 = ~z~What?~rp~ How the hell did that happen?
+
+GNG3_S10_RBANT1_10 = ~z~We hid on a boat,~rp~ it was our only way out of there.
+
+GNG3_S10_RBANT1_13 = ~z~It's a long story, but...~rp~ things ain't been good, John.
+
+GNG3_S10_RBANT1_14 = ~z~You're telling me.
+
+GNG3_S10_RBANT1_16 = ~z~The Pinkertons caught up with us again and we had to move.
+
+GNG3_S10_RBANT1_17 = ~z~Yeah,~rp~ seems Molly ratted us out, the bitch,~rp~ so she's dead too.
+
+GNG3_S10_RBANT1_18 = ~z~Jesus,~rp~ maybe you should have just left me to hang.
+
+GNG3_S10_RBANT1_21 = ~z~So much for no man left behind.
+
+GNG3_S10_RBANT1_25 = ~z~Guess we don't need to worry about who's his favorite no more...
+
+GNG3_WLKTK_ALT1_1 = ~z~Mr. Jameson... sir.
+
+GNG3_WLKTK_ALT1_2 = ~z~Jameson? Heston Jameson?
+
+GNG3_WLKTK_ALT1_3 = ~z~~sl:0.0:2.2~Yes... not his brother, Archibald.~sl:0.5~He owns the mine... up at Annesberg.
+
+GNG3_WLKTK_ALT1_4 = ~z~My God, what a family.
+
+GNG3_WLKTK_ALT1_5 = ~z~Yes, he's been quite an exacting boss at times.
+
+GNG3_WLKTK_ALT1_6 = ~z~I'm sure.
+
+GNG3_WLKTK_ALT2_1 = ~z~Jameson, sir...
+
+GNG3_WLKTK_ALT2_2 = ~z~Jameson who?
+
+GNG3_WLKTK_ALT2_3 = ~z~No, Mr. Jameson. Heston Jameson.
+
+GNG3_WLKTK_ALT2_4 = ~z~~sl:0.5:0.0~Is he a nice feller?
+
+GNG3_WLKTK_ALT2_5 = ~z~Uh... he's been quite an exacting boss at times.
+
+GNG3_WLKTK_ALT2_6 = ~z~I look forward to meeting him.
+
+GNG3_WLKTK_A_1 = ~z~~sl:0.0:1.3~Come on partner...~sl:1.3~why don't you apologize to the lady for pointing a gun at her?
+
+GNG3_WLKTK_A_2 = ~z~~sl:5.9:0.0~Excuse me?
+
+GNG3_WLKTK_A_3 = ~z~I said apologize.
+
+GNG3_WLKTK_A_4 = ~z~~sl:1.3:0.0~I'm sorry, ma'am...
+
+GNG3_WLKTK_A_5 = ~z~~sl:0.0:1.7:1~Ain't no harm done...
+
+GNG3_WLKTK_A_6 = ~z~~sl:0.0:1.9:1~So, where do we go?
+
+GNG3_WLKTK_A_7 = ~z~Towards the entrance, I guess...
+
+GNG3_WLKTK_A_8 = ~z~And who's in charge of this fine establishment?
+
+GNG3_WV4_COV_1 = ~z~Get down!
+
+GNG3_WV4_HOLD_1 = ~z~Hold them off so we can get to the boat.
+
+GNG3_WV15_CHAR_1 = ~z~Look out! Someone coming out the front gate!
+

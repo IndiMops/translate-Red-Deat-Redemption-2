@@ -1,0 +1,66 @@
+DEBGV_AAPPRCH_1 = ~z~I know a mark when I see one.
+
+DEBGV_AATTACK_1 = ~z~Now you're the one who's gonna be hurting!
+
+DEBGV_ADISMOUNT_01 = ~z~C'mon... come help me out down here.
+
+DEBGV_ADISMOUNT_02 = ~z~Off your ride. Now.
+
+DEBGV_AGREE_1 = ~z~~sl:0.0:1.5:1~Oh, oh, thank you.
+
+DEBGV_AGUN_1 = ~z~~sl:0.9~I got you.
+
+DEBGV_APAT_1 = ~z~You're too trusting, you know that?
+
+DEBGV_APPROACH_1 = ~z~~sl:0.3:3.1~I did something to my leg. I can't hardly walk...~sl:0.5~I need some help to town, please?
+
+DEBGV_DECLINE_1 = ~z~Really? Fine. Hope you never get hurt.
+
+DEBGV_HARRIVE_1 = ~z~Thank you.
+
+DEBGV_HBANT_1 = ~z~~sl:0.0:2.9~Between us? I just slipped on a root.~sl:0.6~I can't believe it.
+
+DEBGV_HBANT_2 = ~z~Will have to come up with a better story than that.
+
+DEBGV_HBANT_3 = ~z~~sl:0.0:1.8~My sister'll never let me hear the end of this~sl:~if she finds out...
+
+DEBGV_HBANT_4 = ~z~~sl:0.8~This is all I need right now.
+
+DEBGV_HCLEAR_1 = ~z~Could you make some space?
+
+DEBGV_HDIRECT_1 = ~z~~sl:0.0:2.2~The doctor in Strawberry, know him?~sl:0.4~Hopefully, he'll take care of me.
+
+DEBGV_HFOOT_1 = ~z~~sl:0.0:2.6~How we getting there? I can't keep walking~sl:~is the reason I'm talking to you.
+
+DEBGV_HGIVEUP_1 = ~z~Y'know what? I reckon my ankle's fine now...
+
+DEBGV_HMOUNT_1 = ~z~~sl:0.6~Lord, but it feels good getting off my feet.
+
+DEBGV_HNEAR_1 = ~z~~sl:0.0:1.5~Here's hoping the doctor ain't fishing~sl:~for once in his life.
+
+DEBGV_HTHANKS_1 = ~z~~sl:0.0:3.3:1~Oh... oh, this is a relief.
+
+DEBGV_HTIP_1 = ~z~Here. Thanks for this.
+
+DEBGV_SPOT1_01 = ~z~Oh... oh, you there! Can you help me out here?
+
+DEBGV_SPOT1_02 = ~z~Hey! Hey, I'm hurt! Gimme a hand, please?
+
+DEBGV_SPOT2_01 = ~z~~sl:0.6~C'mon.
+
+DEBGV_SPOT2_02 = ~z~Hey, don't leave me here.
+
+DEBGV_UNSEEN_01 = ~z~
+
+DEBGV_UNSEEN_02 = ~z~~sl:0.9~Done it now...
+
+DEBGV_UNSEEN_03 = ~z~
+
+DEBGV_WAIT1_1 = ~z~You're gonna help me, right?
+
+DEBGV_WAIT2_01 = ~z~Well? I'm alone out here...
+
+DEBGV_WAIT2_02 = ~z~Hurts to stand...
+
+DEBGV_WALKING_1 = ~z~Oh Lord, this hurts. Dang ankle...
+

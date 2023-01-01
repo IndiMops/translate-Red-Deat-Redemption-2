@@ -1,0 +1,6 @@
+CCD12_ACT_1 = ~z~~sl:0.0:3.1~I expect you'll betray me in the end, Arthur.~sl:~You're the type.
+
+CCD12_ACT_2 = ~z~That so?
+
+CCD12_ACT_3 = ~z~You tell me.
+

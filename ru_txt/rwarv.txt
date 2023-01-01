@@ -1,0 +1,122 @@
+0x1838C5AB = Незнакомец
+
+0xFAC5CCA7 = Хэмиш Синклер
+
+RWARV_F_DIST = Вы бросили Хэмиша.
+
+RWARV_F_DIST2 = Вы бросили ветерана.
+
+RWARV_F_VET = Хэмиш был убит.
+
+RWARV_F_VET2 = Ветеран убит.
+
+RWARV_F_VETSP = Вы спугнули ветерана.
+
+RWARV_HLP_TRACK = ~s~Нажмите ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз».~s~
+
+RWARV_HLP_TRACK_KM = ~s~Нажмите ~INPUT_SPECIAL_ABILITY~, чтобы активировать «Орлиный глаз».~s~
+
+RWARV_H_LEAD = Бьюэла в данный момент нельзя оседлать. Его нужно отвести к ветерану.
+
+RWARV_ILO_GRT = Поздороваться
+
+WAR3_C_FOLLOW = Следовать
+
+WAR3_C_LEAD = Вести
+
+WARV1_BLP_HOR = Бьюэл
+
+WARV1_BLP_VET = Ветеран
+
+WARV1_O_FIND = Осмотрите ~o~окрестности~s~ и найдите Бьюэла.
+
+WARV1_O_LEAD = Успокойте и ведите ~o~Бьюэла~s~.
+
+WARV1_O_LEAF = Вернитесь в ~o~Бьюэл~s~.
+
+WARV1_O_RETURN = Верните Бьюэла ~o~ветерану~s~.
+
+WARV2_F_BEACH = Лодку выбросило на берег.
+
+WARV2_F_BOAT = Лодка разбита.
+
+WARV2_F_SHOT = Щука была атакована.
+
+WARV2_O_BOAT = Садитесь в ~o~лодку~s~.
+
+WARV2_O_BOAT2 = Садитесь в ~o~лодку~s~.
+
+WARV2_O_BOAT3 = Вернитесь к ~o~лодке~s~.
+
+WARV2_O_DOCK = Вернитесь на ~o~причал~s~.
+
+WARV2_O_FISH = Поймайте ~o~легендарную щуку~s~.
+
+WARV2_O_FISH2 = Поймайте ~o~легендарную щуку~s~.
+
+WARV2_O_ROW = Гребите к ~o~месту для рыбалки~s~.
+
+WARV2_O_ROW2 = Гребите к ~o~месту для рыбалки~s~.
+
+WARV2_O_SAVE = Гребите к ~o~Хэмишу~s~.
+
+WARV3_O_ALPHA = Убейте ~e~вожака~s~.
+
+WARV3_O_CHOICE = Ответьте ~o~Хэмишу~s~.
+
+WARV3_O_CLOSER = Подберитесь поближе к ~e~волку~s~.
+
+WARV3_O_FIGHT = Сразитесь с ~e~волками~s~.
+
+WARV3_O_FOLLOW = Следуйте за ~o~Хэмишем~s~.
+
+WARV3_O_MOUNT = Садитесь на ~o~лошадь~s~.
+
+WARV3_O_TRACKS = Идите по следам.
+
+WARV3_O_VETER = Вернитесь к ~o~Хэмишу~s~.
+
+WARV4_BLP_BOAR = Кабан
+
+WARV4_BLP_GOTO = Зона поиска
+
+WARV4_BLP_VET = Хэмиш Синклер
+
+WARV4_BLP_WOLF = Волк
+
+WARV4_CXT_WOLFD = Мертвый волк
+
+WARV4_CXT_WOLFI = Разодранный волк
+
+WARV4_F_FLW = Кабан убежал.
+
+WARV4_H_HORSE = Сейчас вы не можете подозвать свою лошадь свистом.
+
+WARV4_O_CHECK1 = Узнайте, как дела у ~o~Хэмиша~s~.
+
+WARV4_O_CHECK2 = Узнайте, как дела у ~o~Хэмиша~s~.
+
+WARV4_O_FOLLOW = Идите по следам кабана с ~o~Хэмишем~s~.
+
+WARV4_O_FOLLOWSOLO = Идите по следу кабана~s~.
+
+WARV4_O_GOVET = Вернитесь к ~o~Хэмишу~s~.
+
+WARV4_O_GUNSHOT = Выясните, кто ~o~стрелял~s~.
+
+WARV4_O_KILL = Убейте ~e~кабана~s~.
+
+WARV4_O_SEARCH = Ищите следы кабана на ~o~местности~s~.
+
+WARV4_O_WAIT = Подождите ~o~Хэмиша~s~.
+
+WARV4_O_WOLF = Осмотрите ~o~убитого волка~s~.
+
+WARV4_UC_TUSK = Забрать трофей
+
+WARV_F_HORSE = Бьюэл был убит.
+
+WARV_F_HSEAT = На Бьюэла напали.
+
+WARV_F_VETAT = На Хэмиша напали.
+

@@ -1,0 +1,88 @@
+NASPA_AVCONV1_1 = ~z~~sl:0.0:1.7~Hear about that feller in the top field?~sl:0.7:2.4~Found him with his guts half in, half out.~sl:1.3~Some stink, I'm told.
+
+NASPA_AVCONV1_2 = ~z~~sl:0.0:2.5~Yup... his own damn fault if you ask me.~sl:0.5~After all the attacks, if you go wandering off on your own without one of us,
+
+NASPA_AVCONV1_3 = ~z~you ain't smart enough to be missed.
+
+NASPA_AVCONV2_1 = ~z~~sl:0.0:3.1~Got that feller they found in the top field in a room upstairs.~sl:0.6:1.0~Wounded bad...~sl:0.6:1.1~Delirious apparently...~sl:0.6~Yammering about some cat.
+
+NASPA_AVCONV2_2 = ~z~~sl:0.0:2.8~Wound's gone septic is all... sends 'em crazy.~sl:0.4~Probably just got cut up over a woman.
+
+NASPA_AVCONV3_1 = ~z~Another feller dead last night. Top field. Cut to ribbons.
+
+NASPA_AVCONV3_2 = ~z~~sl:1.1:2.9~Wondered why the Ma Braithwaite was on the warpath.~sl:~Old girl's losing workers faster'n she can get 'em in.
+
+NASPA_AVCONV4_1 = ~z~~sl:0.0:2.6~I was going through the fields up top yesterday, you know...~sl:~where that feller got torn up?
+
+NASPA_AVCONV4_2 = ~z~Swear something was watching me in among the corn.
+
+NASPA_AVCONV4_3 = ~z~~sl:0.0:4.8~Not you too. For the last time, this is all a bunch of hysteria.~sl:0.5~I expected better from you.
+
+NASPA_AVCONV5_1 = ~z~~sl:0.0:1.2~Hey, you hear about Gus?~sl:0.6:2.6~Said he didn't wanna do patrol on the perimeter no more,~sl:~after what happened in the top field.
+
+NASPA_AVCONV5_2 = ~z~Old Ma Braithwaite sent him packing.
+
+NASPA_AVCONV5_3 = ~z~~sl:0.0:2.0~Gus was a damn fool.~sl:0.0:3.5~Say there was something out there. We got guns don't we?~sl:~Bunch of damn sissies around here...
+
+NASPA_CVTALK_01 = ~z~~sl:0.0:3.0~Boy, I ain't never seen the likes of you outside the circus.~sl:0.5~Damn, what a day.
+
+NASPA_CVTALK_02 = ~z~~sl:0.0:2.8~Let me tell you, kitty cat, when you came at us outta that tree,~sl:0.5~I soiled myself a little bit.
+
+NASPA_CVTALK_03 = ~z~~sl:0.0:2.5~You got some eyes on you, I'll give you that.~sl:0.7~Swear you had a mind of your own.
+
+NASPA_M1TRACK1_1 = ~z~Shit, I'm jumpin' at every goddamn shadow over here.
+
+NASPA_M1TRACK1_2 = ~z~Be easy now...
+
+NASPA_M1TRACK2_1 = ~z~~sl:0.0:3.2~How in the hell does a two-hundred pound cat just up and disappear?~sl:0.6~This is some bullshit.
+
+NASPA_M1TRACK2_2 = ~z~~sl:0.0:1.3~How you know it disappeared?~sl:0.6~How you know it ain't just watching?
+
+NASPA_M1TRACK3_1 = ~z~~sl:0.0:3.3~Did you see its eyes? Big old yellow eyes.~sl:0.5~Looked through me like I was nothing.
+
+NASPA_M1TRACK3_2 = ~z~Uh-huh.
+
+NASPA_M2REACT1_1 = ~z~~sl:0.0:1.0~Hear that?~sl:~Must mean they close on it.
+
+NASPA_M2REACT1_2 = ~z~Yeah... we need to move.
+
+NASPA_M2REACT2_1 = ~z~They probably all closed in on that thing. Let's go.
+
+NASPA_M2REACT2_2 = ~z~Agreed... you lead the way.
+
+NASPA_M2REACT3_1 = ~z~I can think of one reason for all that hollering. Come on!
+
+NASPA_M2REACT3_2 = ~z~This is it!
+
+NASPA_M2SHOUT_01 = ~z~Hey! Get over here!
+
+NASPA_M2SHOUT_02 = ~z~Fellers! Help!
+
+NASPA_M2SHOUT_03 = ~z~Hey! We got it cornered!
+
+NASPA_M2SHOUT_04 = ~z~Boys! Right here!
+
+NASPA_M2SHOUT_05 = ~z~Listen up! Got it hemmed in!
+
+NASPA_M3CELEB1_1 = ~z~If I hear right, sounds as though they took care of that critter.
+
+NASPA_M3CELEB1_2 = ~z~Yeah, sounds like it, let's go.
+
+NASPA_M3CELEB2_1 = ~z~Yeah... seems they dealt with it good alright.
+
+NASPA_M3CELEB2_2 = ~z~Let's go see.
+
+NASPA_M3CELEB3_1 = ~z~~sl:0.0:1.1~Damn things been got.~sl:1.3~No use hanging around.
+
+NASPA_M3CELEB3_2 = ~z~I want to see this thing... let's go.
+
+NASPA_M3CELEB_01 = ~z~~sl:0.8~We got it!
+
+NASPA_M3CELEB_02 = ~z~~sl:0.8~This critter is ours!
+
+NASPA_M3CELEB_03 = ~z~Yeah! We got it!
+
+NASPA_M3CELEB_04 = ~z~Done! We got it right over here.
+
+NASPA_M3CELEB_05 = ~z~~sl:0.9~And stay in there!
+

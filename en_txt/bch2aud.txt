@@ -1,0 +1,624 @@
+BCH2_1_CH_CLOSE_01 = ~z~It's coming!
+
+BCH2_1_CH_CLOSE_02 = ~z~Almost!
+
+BCH2_1_CH_CLOSE_03 = ~z~Almost there!
+
+BCH2_1_DONE_1 = ~z~We got it.
+
+BCH2_1_DONE_2 = ~z~Watch the horses! Shit.
+
+BCH2_1_IDLE_CHA_01 = ~z~We pulling?
+
+BCH2_1_IDLE_CHA_02 = ~z~On you, John.
+
+BCH2_1_IDLE_CHA_03 = ~z~We doing this?
+
+BCH2_1_IDLE_CHA_04 = ~z~Give me the signal.
+
+BCH2_1_IDLE_UNC_01 = ~z~Don't get sentimental, level it.
+
+BCH2_1_IDLE_UNC_02 = ~z~Pull already.
+
+BCH2_1_IDLE_UNC_03 = ~z~You gonna pull that horse or I got to give it a kick?
+
+BCH2_1_IDLE_UNC_04 = ~z~The dumb animals don't know what to do, and neither do the horses.
+
+BCH2_1_JOHNSTOP_01 = ~z~I need a break.
+
+BCH2_1_JOHNSTOP_02 = ~z~Just give me a moment.
+
+BCH2_1_JOHNSTOP_03 = ~z~My hands. I need to reset.
+
+BCH2_1_JOHNSTRT_1 = ~z~Let's do it. Come on.
+
+BCH2_1_PULL_CHA_01 = ~z~
+
+BCH2_1_PULL_CHA_02 = ~z~
+
+BCH2_1_PULL_CHA_03 = ~z~
+
+BCH2_1_PULL_CHA_04 = ~z~Come on.
+
+BCH2_1_PULL_CHA_05 = ~z~This way.
+
+BCH2_1_PULL_JHN_01 = ~z~
+
+BCH2_1_PULL_JHN_02 = ~z~
+
+BCH2_1_PULL_JHN_03 = ~z~
+
+BCH2_1_PULL_JHN_04 = ~z~That's it. That's it.
+
+BCH2_1_PULL_JHN_05 = ~z~Good horses.
+
+BCH2_1_PULL_UNC_01 = ~z~Pull the reins.
+
+BCH2_1_PULL_UNC_02 = ~z~Put your back into it!
+
+BCH2_1_PULL_UNC_03 = ~z~This is easy.
+
+BCH2_1_PULL_UNC_04 = ~z~Get her down.
+
+BCH2_1_PULL_UNC_05 = ~z~You're strong men. Come on.
+
+BCH2_1_PULL_UNC_06 = ~z~Little more... little more...
+
+BCH2_1_PULL_UNC_07 = ~z~That's it.
+
+BCH2_RSC1_1 = ~z~Ah, feels like old times.
+
+BCH2_RSC1_2 = ~z~It's good to have the old gang back together again.
+
+BCH2_RSC1_3 = ~z~Let's just hope things don't turn out like last time.
+
+BCH2_RSC1_4 = ~z~There he goes...
+
+BCH2_RSC1_5 = ~z~what'd I tell you, Charles?
+
+BCH2_RSC1_6 = ~z~Boy is as sour as week old milk.
+
+BCH2_RSC1_7 = ~z~No wonder she didn't stay with you.
+
+BCH2_RSC1_8 = ~z~Not even a retired two dollar whore would stay with you...
+
+BCH2_RSC1_9 = ~z~that's the goddamn truth.
+
+BCH2_RSC1_10 = ~z~Now you used to be decent company, but now...
+
+BCH2_RSC1_11 = ~z~you're worse than a snake with a toothache.
+
+BCH2_RSC1_12 = ~z~All he does is whine, whine, whine...
+
+BCH2_RSC1_13 = ~z~Excuse me?
+
+BCH2_RSC1_14 = ~z~Oh, don't get all angry, it ain't gonna change nothing.
+
+BCH2_RSC1_15 = ~z~You're hopeless...
+
+BCH2_RSC1_16 = ~z~and I mean that literally. You got no hope.
+
+BCH2_RSC1_17 = ~z~I mean, look at you...
+
+BCH2_RSC1_18 = ~z~look at this place...
+
+BCH2_RSC1_19 = ~z~your dream home.
+
+BCH2_RSC1_20 = ~z~I've had better nightmares than this dream.
+
+BCH2_RSC1_21 = ~z~Oh, darling Abigail. I've changed...
+
+BCH2_RSC1_22 = ~z~come live with me in an outhouse...
+
+BCH2_RSC1_23 = ~z~I wouldn't ask my worst enemy to take a shit in.
+
+BCH2_RSC1_24 = ~z~What are you trying to say?
+
+BCH2_RSC1_25 = ~z~It's awful.
+
+BCH2_RSC1_26 = ~z~It's a dump.
+
+BCH2_RSC1_27 = ~z~The house...
+
+BCH2_RSC1_28 = ~z~it's gotta go.
+
+BCH2_RSC1_29 = ~z~Get some self-respect you miserable sack of shit.
+
+BCH2_RSC1_30 = ~z~Build a house a lady would set foot in.
+
+BCH2_RSC1_31 = ~z~Place just needs a woman's touch.
+
+BCH2_RSC1_32 = ~z~It needs leveling.
+
+BCH2_RSC1_33 = ~z~No woman would touch this place.
+
+BCH2_RSC1_34 = ~z~Now, I reckon these horses can have it down in a minute.
+
+BCH2_RSC1_35 = ~z~Here, come on. Tie that end around the horses...
+
+BCH2_RSC1_36 = ~z~you loop that end around there...
+
+BCH2_RSC1_37 = ~z~horses will pull it clean down.
+
+BCH2_RSC1_38 = ~z~We good?
+
+BCH2_RSC1_39 = ~z~I think so.
+
+BCH2_RSC1_40 = ~z~Alright.
+
+BCH2_RSC1_41 = ~z~Well...
+
+BCH2_RSC1_42 = ~z~let's get going.
+
+BCH2_RSC1_LI_1 = ~z~Feels like old times...
+
+BCH2_RSC1_LI_2 = ~z~It's good to have the old gang back together again.
+
+BCH2_RSC1_LI_3 = ~z~Let's just hope things don't turn out like last time.
+
+BCH2_RSC1_LI_4 = ~z~There he goes...
+
+BCH2_RSC1_LI_5 = ~z~What'd I tell you, Charles, what'd I tell you?
+
+BCH2_RSC3_1 = ~z~See, I told you it wouldn't be no trouble.
+
+BCH2_RSC3_2 = ~z~And now?
+
+BCH2_RSC3_3 = ~z~Now we head into town...
+
+BCH2_RSC3_4 = ~z~buy ourselves a house right out of a book...
+
+BCH2_RSC3_5 = ~z~same as if it were a bicycle.
+
+BCH2_RSC3_6 = ~z~Where in town?
+
+BCH2_RSC3_7 = ~z~There's a feller by the train store...
+
+BCH2_RSC3_8 = ~z~Cakes Hardwood & Timber.
+
+BCH2_RSC3_9 = ~z~Okay, you keep working here.
+
+BCH2_RSC3_10 = ~z~But if I don't go with you, who, who's gonna...
+
+BCH2_RSC3_11 = ~z~I just need a bit of peace and quiet...
+
+BCH2_RSC3_12 = ~z~from your incessant yapping.
+
+BCH2_RSC3_13 = ~z~Charles, make him work.
+
+BCH2_RSC3_14 = ~z~Whip him if you have to.
+
+BCH2_RSC4_1 = ~z~Excuse me, sir.
+
+BCH2_RSC4_2 = ~z~You work here?
+
+BCH2_RSC4_3 = ~z~No, I just hang around here for fun.
+
+BCH2_RSC4_4 = ~z~I'm joking.
+
+BCH2_RSC4_5 = ~z~How can I help you, friend?
+
+BCH2_RSC4_6 = ~z~Listen...
+
+BCH2_RSC4_7 = ~z~I know this sounds crazy...
+
+BCH2_RSC4_8 = ~z~some dumb old coot I know...
+
+BCH2_RSC4_9 = ~z~was telling me there's these houses you can buy pre-cut.
+
+BCH2_RSC4_10 = ~z~Not crazy, friend.
+
+BCH2_RSC4_11 = ~z~The very latest in modern convenience.
+
+BCH2_RSC4_12 = ~z~Convenient and cost efficient.
+
+BCH2_RSC4_13 = ~z~Which house do you want?
+
+BCH2_RSC4_14 = ~z~Each one is entirely unique, but...
+
+BCH2_RSC4_15 = ~z~also the same.
+
+BCH2_RSC4_16 = ~z~Excuse me?
+
+BCH2_RSC4_17 = ~z~Perhaps I'm going too fast, sir.
+
+BCH2_RSC4_18 = ~z~Do you want to buy a house?
+
+BCH2_RSC4_19 = ~z~I think so.
+
+BCH2_RSC4_20 = ~z~I'll give you a luxurious, entirely unique pre-cut palace.
+
+BCH2_RSC4_21 = ~z~And if you order today...
+
+BCH2_RSC4_22 = ~z~I guarantee your home in a matter of weeks...
+
+BCH2_RSC4_23 = ~z~maybe sooner.
+
+BCH2_RSC4_24 = ~z~I'll take that one.
+
+BCH2_RSC4_25 = ~z~Ah yes, we have that one in stock.
+
+BCH2_RSC4_26 = ~z~And I already got credit from the bank.
+
+BCH2_RSC4_27 = ~z~Oh, fantastic.
+
+BCH2_RSC4_28 = ~z~Now, you write your name here...
+
+BCH2_RSC4_29 = ~z~and, uh, you sign your name there...
+
+BCH2_RSC4_30 = ~z~and you will be the proud owner...
+
+BCH2_RSC4_31 = ~z~of a factory built home.
+
+BCH2_RSC4_32 = ~z~It's that easy?
+
+BCH2_RSC4_33 = ~z~Pleasure to meet you, Mr. Martin...
+
+BCH2_RSC4_34 = ~z~Albert Cakes Esquire, at your service.
+
+BCH2_RSC4_35 = ~z~You boys give me a minute.
+
+BCH2_RSC4_36 = ~z~What're you doing here?
+
+BCH2_RSC4_37 = ~z~Everything okay?
+
+BCH2_RSC4_38 = ~z~I'm not sure...
+
+BCH2_RSC4_39 = ~z~probably.
+
+BCH2_RSC4_40 = ~z~A feller came by the farm...
+
+BCH2_RSC4_41 = ~z~got attacked on the road.
+
+BCH2_RSC4_42 = ~z~He said the Skinner Brothers was hanging around...
+
+BCH2_RSC4_43 = ~z~lots of 'em.
+
+BCH2_RSC4_44 = ~z~I left Uncle armed to the teeth back at the ranch.
+
+BCH2_RSC4_45 = ~z~Who are these two?
+
+BCH2_RSC4_46 = ~z~Guns for hire.
+
+BCH2_RSC4_47 = ~z~If there's Skinners about, we need 'em.
+
+BCH2_RSC4_48 = ~z~We ain't got that kind of money, Charles.
+
+BCH2_RSC4_49 = ~z~You wanna get robbed for your house?
+
+BCH2_RSC4_50 = ~z~No, but...
+
+BCH2_RSC4_51 = ~z~These Skinners can be nasty.
+
+BCH2_RSC4_52 = ~z~Come on.
+
+BCH2_RSC4_53 = ~z~Mr. Devon, you're with me.
+
+BCH2_RSC4_54 = ~z~Mr. Wayne, this is...
+
+BCH2_RSC4_55 = ~z~Milton, Jim Milton.
+
+BCH2_RSC4_56 = ~z~Sir, good to meet you.
+
+BCH2_RSC4_57 = ~z~We're gonna be heading up to the Manzanita Post.
+
+BCH2_RSC4_58 = ~z~Why?
+
+BCH2_RSC4_59 = ~z~The best smith around is that Norwegian feller up there.
+
+BCH2_RSC4_60 = ~z~Yeah, so they say.
+
+BCH2_RSC4_61 = ~z~You boys ready?
+
+BCH2_RSC4_62 = ~z~Yes sir, we're ready.
+
+BCH2_RSC4_63 = ~z~Good, because you're about to get shot at...
+
+BCH2_RSC4_64 = ~z~over a goddamn hammer.
+
+BCH2_RSC4_65 = ~z~You wanna build a house with a sniper rifle then?
+
+BCH2_RSC4_66 = ~z~I know old Nils real well...
+
+BCH2_RSC4_67 = ~z~I'll get you a good deal.
+
+BCH2_RSC4_68 = ~z~Thank you, sir.
+
+BCH2_RSC4_69 = ~z~Alright then, let's go buy us some tools.
+
+BCH2_RSC4_LI_1 = ~z~Excuse me, sir, you work here?
+
+BCH2_RSC4_LI_2 = ~z~No, I just hang around here for fun.
+
+BCH2_RSC4_LI_3 = ~z~I'm joking, I'm joking.
+
+BCH2_RSC4_LI_4 = ~z~How can I help you, friend?
+
+BCH2_RSC4_LI_5 = ~z~Listen...
+
+BCH2_RSC5_1 = ~z~Seems easy enough, I think.
+
+BCH2_RSC5_2 = ~z~I mean how hard can it be?
+
+BCH2_RSC5_3 = ~z~But I'll tell you what I think, just to be safe.
+
+BCH2_RSC5_4 = ~z~I'll do the reading and planning and...
+
+BCH2_RSC5_5 = ~z~you do the building.
+
+BCH2_RSC5_6 = ~z~How did I know you'd try to weasel out of doing any work?
+
+BCH2_RSC5_7 = ~z~Oh now, that is plain unfair.
+
+BCH2_RSC5_8 = ~z~It, it's inaccurate and not what's gonna happen.
+
+BCH2_RSC5_9 = ~z~I'm simply going to use what I've got...
+
+BCH2_RSC5_10 = ~z~which is a brain.
+
+BCH2_RSC5_11 = ~z~While you use what you've got...
+
+BCH2_RSC5_12 = ~z~which is less of a brain.
+
+BCH2_RSC5_13 = ~z~Let's get started.
+
+BCH2_RSC5_14 = ~z~Well...
+
+BCH2_RSC5_15 = ~z~first thing it says is the foundation.
+
+BCH2_RSC5_16 = ~z~Which involves moving those heavy wooden joists.
+
+BCH2_RSC5_17 = ~z~Definitely not a job for a man with terminal lumbago...
+
+BCH2_RSC5_18 = ~z~unless you wanna dig a six foot deep hole for me...
+
+BCH2_RSC5_19 = ~z~when the work day's over.
+
+BCH2_RSC5_20 = ~z~Don't tempt me.
+
+BCH2_RSC5_21 = ~z~Oh, well here comes Charles...
+
+BCH2_RSC5_22 = ~z~maybe he can lighten the mood a little.
+
+BCH2_RSC5_23 = ~z~How'd you get on?
+
+BCH2_RSC5_24 = ~z~They'll be back, but...
+
+BCH2_RSC5_25 = ~z~not for a while.
+
+BCH2_RSC5_26 = ~z~Charles, dear boy...
+
+BCH2_RSC5_27 = ~z~John needs help moving these joists, now come on.
+
+BCH2_RSC5_28 = ~z~Get a move on.
+
+BCH2_RSC5_29 = ~z~We gotta get started before the rains come.
+
+BCH2_RSC5_30 = ~z~You're very annoying.
+
+BCH2_RSC5_31 = ~z~He's right.
+
+BCH2_RSC5_32 = ~z~We should get on with this.
+
+BCH2_RSC5_LI_A1_1 = ~z~Those plans make any sense?
+
+BCH2_RSC5_LI_A1_2 = ~z~Oh sure...
+
+BCH2_RSC6_1 = ~z~Now I call that a good day's work.
+
+BCH2_RSC6_2 = ~z~Must be a novel experience for you.
+
+BCH2_RSC6_3 = ~z~You're not a nice man.
+
+BCH2_RSC6_4 = ~z~You're also not a smart man...
+
+BCH2_RSC6_5 = ~z~one day you will thank me.
+
+BCH2_RSC6_6 = ~z~No doubt.
+
+BCH2_RSC6_7 = ~z~I don't mean to say I'm a genius, but...
+
+BCH2_RSC6_8 = ~z~but around here you don't have to be a genius to stand out.
+
+BCH2_RSC6_9 = ~z~You two are dumber than a pair of rocks.
+
+BCH2_RSC6_10 = ~z~Oh would you be quiet, please.
+
+BCH2_RSC6_11 = ~z~But fortunately you have old Uncle to set you right...
+
+BCH2_RSC6_12 = ~z~even though it's thankless work.
+
+BCH2_RSC6_13 = ~z~This food is wretched.
+
+BCH2_RSC6_14 = ~z~Yeah...
+
+BCH2_RSC6_15 = ~z~I forgot to mention, I can't cook.
+
+BCH2_RSC6_16 = ~z~We're pathetic.
+
+BCH2_RSC7_1 = ~z~Well I don't think this'll burn the place down.
+
+BCH2_RSC7_2 = ~z~Another fine job there, gentlemen.
+
+BCH2_RSC7_3 = ~z~What a fine place we have for ourselves.
+
+BCH2_RSC7_4 = ~z~Couple more years I'll start my memoirs...
+
+BCH2_RSC7_5 = ~z~the life I've led.
+
+BCH2_RSC7_6 = ~z~I ever tell you boys about my second wife?
+
+BCH2_RSC7_7 = ~z~She tried to kill me because she thought I was sweet on her sister.
+
+BCH2_RSC7_8 = ~z~Yes, many times.
+
+BCH2_RSC7_9 = ~z~Well excuse me.
+
+BCH2_RSC7_10 = ~z~I thought maybe a little entertainment might be enjoyable, but...
+
+BCH2_RSC7_11 = ~z~I see I'm boring you.
+
+BCH2_RSC8_1 = ~z~I tell you what...
+
+BCH2_RSC8_2 = ~z~this place is gonna be too fine for the likes of you, John Marston.
+
+BCH2_RSC8_3 = ~z~I know.
+
+BCH2_RSC8_4 = ~z~Who'd have thought that a boy like you...
+
+BCH2_RSC8_5 = ~z~would live in a place with a real floor?
+
+BCH2_RSC8_6 = ~z~I bet you never even walked on a real floor before.
+
+BCH2_RSC8_7 = ~z~Certainly never lived in one before...
+
+BCH2_RSC8_8 = ~z~aside from...
+
+BCH2_RSC8_9 = ~z~jail, I spent some time in had flooring.
+
+BCH2_RSC8_10 = ~z~That and an orphanage.
+
+BCH2_RSC8_11 = ~z~What've we got to eat?
+
+BCH2_RSC8_12 = ~z~I thought you was cooking.
+
+BCH2_RSC8_13 = ~z~Man, that woman of yours can't get here soon enough...
+
+BCH2_RSC8_14 = ~z~and when she comes, you act nice...
+
+BCH2_RSC8_15 = ~z~or we're all gonna starve.
+
+BCH2_RSC9_1 = ~z~Wow, this place is really coming together.
+
+BCH2_RSC9_2 = ~z~I told you.
+
+BCH2_RSC9_3 = ~z~You did...
+
+BCH2_RSC9_4 = ~z~only problem is you told me so much other bullshit besides...
+
+BCH2_RSC9_5 = ~z~how was I to know you'd actually be telling the truth for once?
+
+BCH2_RSC9_6 = ~z~Well, I ain't going to be making a habit of it.
+
+BCH2_RSC9_7 = ~z~You don't need Abigail back...
+
+BCH2_RSC9_8 = ~z~you two sound like a married couple already.
+
+BCH2_RSC9_9 = ~z~You two like two bitter peas in a pod...
+
+BCH2_RSC9_10 = ~z~it's always the greatest of men that's the least appreciated.
+
+BCH2_RSC10_1 = ~z~I think that's the last of it.
+
+BCH2_RSC10_2 = ~z~Nearly done.
+
+BCH2_RSC10_3 = ~z~This is great.
+
+BCH2_RSC10_4 = ~z~Oh come gentlemen...
+
+BCH2_RSC10_5 = ~z~an opulent evening at a Viennese ball awaits.
+
+BCH2_RSC10_6 = ~z~Or failing that...
+
+BCH2_RSC10_7 = ~z~we can sit by the fire...
+
+BCH2_RSC10_8 = ~z~laugh at John.
+
+BCH2_RSC10_9 = ~z~So, same as usual?
+
+BCH2_RSC10_10 = ~z~I'm a creature of habit, sir...
+
+BCH2_RSC10_11 = ~z~it's very common amongst us mammals.
+
+BCH2_RSC10_12 = ~z~You're no mammal.
+
+BCH2_RSC11_1 = ~z~And I think that's everything.
+
+BCH2_RSC11_2 = ~z~John Marston, you have a home.
+
+BCH2_RSC11_3 = ~z~So do you.
+
+BCH2_RSC11_4 = ~z~Oh, I know.
+
+BCH2_RSC11_5 = ~z~And you, Charles.
+
+BCH2_RSC11_6 = ~z~As long as you'll stay with us.
+
+BCH2_RSC11_7 = ~z~Thank you.
+
+BCH2_RSC11_8 = ~z~Gentlemen...
+
+BCH2_RSC11_9 = ~z~to this happy home.
+
+BCH2_RSC11_10 = ~z~At least till this fool gets his woman back.
+
+BCH2_RSC11_11 = ~z~My darling Abigail...
+
+BCH2_RSC11_12 = ~z~I hope you and Jack are doing well.
+
+BCH2_RSC11_13 = ~z~I remain a fool...
+
+BCH2_RSC11_14 = ~z~and I'm sure I shall die a fool...
+
+BCH2_RSC11_15 = ~z~but I'm trying very hard...
+
+BCH2_RSC11_16 = ~z~to be something like the man you deserve.
+
+BCH2_RSC11_17 = ~z~I have done something very silly...
+
+BCH2_RSC11_18 = ~z~in an effort to impress you.
+
+BCH2_RSC11_19 = ~z~And that is...
+
+BCH2_RSC11_20 = ~z~I've purchased a home.
+
+BCH2_RSC11_21 = ~z~The land you read about in the newspaper...
+
+BCH2_RSC11_22 = ~z~up at Beecher's Hope...
+
+BCH2_RSC11_23 = ~z~is now ours...
+
+BCH2_RSC11_24 = ~z~and we are going to try our hand at ranching.
+
+BCH2_RSC11_25 = ~z~Mr. Geddes kindly helped me buy the land.
+
+BCH2_RSC11_26 = ~z~I met Uncle while I was coming out of the bank and...
+
+BCH2_RSC11_27 = ~z~while I know your feelings about him...
+
+BCH2_RSC11_28 = ~z~he has been enormously helpful...
+
+BCH2_RSC11_29 = ~z~in his own fashion.
+
+BCH2_RSC11_30 = ~z~Charles Smith has also appeared...
+
+BCH2_RSC11_31 = ~z~and is unsurprisingly a pillar of strength.
+
+BCH2_RSC11_32 = ~z~Together...
+
+BCH2_RSC11_33 = ~z~we've built you a home.
+
+BCH2_RSC11_34 = ~z~I hope soon to show it to you.
+
+BCH2_RSC11_35 = ~z~I miss you and the boy...
+
+BCH2_RSC11_36 = ~z~more than I can express.
+
+BCH2_RSC11_37 = ~z~Please...
+
+BCH2_RSC11_38 = ~z~come back to me.
+
+BCH2_RSC11_39 = ~z~Yours always...
+
+BCH2_RSC11_40 = ~z~John.
+
+BCH2_WHEREUNC_1 = ~z~~sl:0.0:2.2:1~Uncle, I thought you was...
+
+BCH2_WHEREUNC_2 = ~z~Where the hell?
+
+RCH2_1_START_1 = ~z~Alright, just pull.
+
+RCH2_1_START_2 = ~z~You got this, John? I'll go when you do.
+
+RCH2_1_START_3 = ~z~Okay. On me.
+

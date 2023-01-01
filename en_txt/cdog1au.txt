@@ -1,0 +1,18 @@
+CDOG1_ACTA_1 = ~z~Here, boy... here boy... whose dog is this? Whose dog?
+
+CDOG1_ACTA_2 = ~z~Where did he come from?
+
+CDOG1_ACTA_3 = ~z~I don't know... he just wandered in... hi, my friend, hi.
+
+CDOG1_ACTA_4 = ~z~Well, then he's ours, I guess for now.
+
+CDOG1_ACTA_5 = ~z~That's so great... hey, boy... hey, boy, what should we call him?
+
+CDOG1_ACTA_6 = ~z~Well he's a wanderer... he probably did something bad... Cain... his name is Cain.
+
+CDOG1_ACTA_7 = ~z~Okay... hey, Cain... What did Cain do?
+
+CDOG1_ACTA_8 = ~z~A real bad thing... so he never stopped wandering...
+
+CDOG1_ACTB_ALT_1 = ~z~Arthur... a dog, a dog!
+

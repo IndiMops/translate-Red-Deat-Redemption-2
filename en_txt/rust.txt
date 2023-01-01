@@ -1,0 +1,20 @@
+HERDING_CLOSE = Try to maintain a constant speed behind the herd. Be careful not to trample the animals from behind.
+
+HERDING_GTHILO = Animal
+
+HERDING_ILO_ANY = Herd
+
+HERDING_ILO_COW = Herd
+
+HERDING_ILO_GOAT = Herd
+
+HERDING_ILO_HORSE = Herd
+
+HERDING_ILO_SHEEP = Herd
+
+HERDING_QUIET = Urge
+
+HERDING_SHOUT = Shout
+
+HERDING_UI = Animals Remaining: ~1~
+

@@ -1,0 +1,72 @@
+0x53E1A8BC = Диверсия
+
+FETCH_MOONSAB_GO_TO_0 = Направляйтесь ~1~.
+
+FETCH_MOONSAB_HELP_BONUS_OBJECTIVE_FAILED = Вас заметили конкуренты. Уничтожьте дистилляторы. Это немного улучшит положение вашего самогонного предприятия.
+
+FETCH_MOONSAB_HELP_BONUS_OBJECTIVE_FAILED_PLAYER = Вас заметили конкуренты. Уничтожьте дистилляторы. Это немного улучшит положение самогонного предприятия, принадлежащего игроку ~1~.
+
+FETCH_MOONSAB_HELP_INTRO = Незаметно отравите дистиллятор конкурентов, чтобы помочь своему предприятию.
+
+FETCH_MOONSAB_HELP_INTRO_PLAYER = Незаметно отравите дистиллятор конкурентов, чтобы помочь предприятию игрока ~1~.
+
+FETCH_MOONSAB_HELP_INTRO_PLURAL = Незаметно отравите дистилляторы конкурентов, чтобы помочь своему предприятию.
+
+FETCH_MOONSAB_HELP_INTRO_PLURAL_PLAYER = Незаметно отравите дистилляторы конкурентов, чтобы помочь предприятию игрока ~1~.
+
+FETCH_MOONSAB_OBJ_CONTAMINATE = Добавьте отраву в ~COLOR_MP_OBJECTIVE_NEUTRAL~дистиллятор~s~.
+
+FETCH_MOONSAB_OBJ_CONTAMINATE_PLURAL = Добавьте отраву в ~COLOR_MP_OBJECTIVE_NEUTRAL~дистилляторы~s~.
+
+FETCH_MOONSAB_OBJ_DESTROY = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~дистиллятор~s~.
+
+FETCH_MOONSAB_OBJ_DESTROY_PLURAL = Уничтожьте ~COLOR_MP_OBJECTIVE_ENEMY~дистилляторы~s~.
+
+FETCH_MOONSAB_OBJ_KILL_ATTACKERS = Устраните ~COLOR_ENEMY~самогонщиков~s~.
+
+FETCH_MOONSAB_OBJ_KILL_ATTACKERS_REMAINING = Устраните оставшихся ~COLOR_ENEMY~врагов~s~.
+
+FETCH_MOONSAB_OBJ_LEAVE_AREA = Покиньте ~COLOR_ENEMY~область~s~.
+
+FETCH_MOONSAB_OBJ_LEAVE_AREA_POSSE = Дождитесь, пока ваш отряд покинет ~COLOR_ENEMY~область~s~.
+
+FETCH_MOONSAB_SCORETIMER_ALERTED = Вы попались на глаза самогонщикам
+
+FETCH_MOONSAB_SCORETIMER_DELIVER_PRIMARY_PASS = Игрок ~1~ уничтожил дистиллятор.
+
+FETCH_MOONSAB_SCORETIMER_DELIVER_PRIMARY_PASS_ALIVE = Игрок ~1~ испортил дистиллятор.
+
+FETCH_MOONSAB_SCORETIMER_DELIVER_PRIMARY_PASS_ALIVE_NP = Игрок ~1~ испортил дистиллятор.
+
+FETCH_MOONSAB_SCORETIMER_DELIVER_PRIMARY_PASS_ALIVE_YOU = Вы испортили дистиллятор.
+
+FETCH_MOONSAB_SCORETIMER_DELIVER_PRIMARY_PASS_ALIVE_YOUR = Игрок ~1~ испортил дистиллятор.
+
+FETCH_MOONSAB_SCORETIMER_DELIVER_PRIMARY_PASS_NP = Игрок ~1~ уничтожил дистиллятор.
+
+FETCH_MOONSAB_SCORETIMER_DELIVER_PRIMARY_PASS_YOU = Вы уничтожили дистиллятор.
+
+FETCH_MOONSAB_SCORETIMER_DELIVER_PRIMARY_PASS_YOUR = Игрок ~1~ уничтожил дистиллятор.
+
+FETCH_MOONSAB_SCORETIMER_DESTROY = Дистиллятор уничтожен.
+
+FETCH_MOONSAB_SCORETIMER_DESTROY_YOU = Вы уничтожили дистиллятор.
+
+FETCH_MOONSAB_SHARD_DESTROYED = Вы не смогли испортить дистиллятор
+
+FETCH_MOONSAB_SHARD_DESTROYED_PLURAL = Вы не смогли испортить дистилляторы
+
+FETCH_MOONSAB_SHARD_PRIMARY_FAIL = Вы не смогли испортить дистиллятор
+
+FETCH_MOONSAB_SHARD_PRIMARY_FAIL_PLURAL = Вы не смогли испортить дистилляторы
+
+FETCH_MOONSAB_SHARD_PRIMARY_INTRO = Испортите дистиллятор
+
+FETCH_MOONSAB_SHARD_PRIMARY_INTRO_PLURAL = Испортите дистилляторы
+
+FETCH_MOONSAB_SHARD_PRIMARY_PASS_ALIVE = Дистиллятор конкурентов испорчен
+
+FETCH_MOONSAB_SHARD_PRIMARY_PASS_DEAD = Дистиллятор конкурентов уничтожен
+
+FETCH_MOONSAB_SHARD_PRIMARY_PASS_PARTIAL = Отравлено: ~1~. Уничтожено: ~2~.
+

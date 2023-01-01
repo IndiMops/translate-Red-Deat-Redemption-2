@@ -1,0 +1,484 @@
+TRN1_CLEAR_WAY_01 = ~z~We got more up ahead. Clear us some space!
+
+TRN1_CLEAR_WAY_02 = ~z~Up ahead, there's more of'em!
+
+TRN1_CLEAR_WAY_03 = ~z~Here come more, take'em down!
+
+TRN1_DOCKS_01 = ~z~Come on. We don't have all day, cowpoke.
+
+TRN1_DOCKS_02 = ~z~Let's go. Stop sulking like a spoiled little girl.
+
+TRN1_DOCKS_03 = ~z~Let's move this along, Morgan. They're gonna be here soon.
+
+TRN1_DOCKS_04 = ~z~Let's keep things moving, we look suspicious enough as it is.
+
+TRN1_DUTCHBANT1_1 = ~z~We had enough heat on us before, now we're going to be torched, Dutch!
+
+TRN1_DUTCHBANT1_2 = ~z~This is the only way. You'll see. Trust me.
+
+TRN1_DUTCHBANT1_3 = ~z~Trust you?
+
+TRN1_DUTCHBANT2_1 = ~z~You said this wasn't a revenge mission!
+
+TRN1_DUTCHBANT2_2 = ~z~~sl:0.0:2.7~It wasn't! We got what we came for.~sl:0.2~Those papers.
+
+TRN1_EXT_1 = ~z~Whoa.
+
+TRN1_EXT_2 = ~z~We all okay?
+
+TRN1_EXT_3 = ~z~Interesting social call.
+
+TRN1_EXT_4 = ~z~Don't play dumb and superior at the same time, Morgan.
+
+TRN1_EXT_5 = ~z~We all knew sooner or later Cornwall had to go.
+
+TRN1_EXT_6 = ~z~Let me see them papers.
+
+TRN1_EXT_7 = ~z~It's more attention we don't need.
+
+TRN1_EXT_8 = ~z~Feels like the whole world's closing in on us.
+
+TRN1_EXT_9 = ~z~Dutch...
+
+TRN1_EXT_10 = ~z~it won't be long before they find where we're hiding out now...
+
+TRN1_EXT_11 = ~z~especially as we ain't exactly hiding out.
+
+TRN1_EXT_12 = ~z~We just need a distraction.
+
+TRN1_EXT_13 = ~z~Buy us some time.
+
+TRN1_EXT_14 = ~z~It looks like Mr. Cornwall's company...
+
+TRN1_EXT_15 = ~z~has signed a railroad contract with the army...
+
+TRN1_EXT_16 = ~z~and they're also moving dynamite down from, well...
+
+TRN1_EXT_17 = ~z~ the Annesburg mines to Saint Denis to resell.
+
+TRN1_EXT_18 = ~z~And there's bonds at his oil factory.
+
+TRN1_EXT_19 = ~z~Maybe there's a way to get them off our back...
+
+TRN1_EXT_20 = ~z~and get the money that we need.
+
+TRN1_EXT_21 = ~z~Micah, you look into this dynamite. Take Bill, I guess.
+
+TRN1_EXT_22 = ~z~Arthur, you go too.
+
+TRN1_EXT_23 = ~z~We are gonna need a lot of it.
+
+TRN1_EXT_24 = ~z~And Micah, we need to talk.
+
+TRN1_EXT_25 = ~z~Figure out some things.
+
+TRN1_EXT_26 = ~z~Course, boss.
+
+TRN1_EXT_27 = ~z~Figure out what?
+
+TRN1_EXT_28 = ~z~The plan.
+
+TRN1_EXT_29 = ~z~Getting outta here.
+
+TRN1_EXT_30 = ~z~Nothing's changed.
+
+TRN1_EXT_31 = ~z~It hasn't, huh?
+
+TRN1_EXT_32 = ~z~There's an old house west of Van Horn.
+
+TRN1_EXT_33 = ~z~Meet me there when you can, Black Lung.
+
+TRN1_EXT_34 = ~z~Let's split up.
+
+TRN1_EXT_35 = ~z~We'll meet up back at camp.
+
+TRN1_EXT_36 = ~z~This is crazy.
+
+TRN1_FOLLOW_ME_01 = ~z~This way, come on!
+
+TRN1_FOLLOW_ME_02 = ~z~Follow me, this way!
+
+TRN1_FOLLOW_ME_03 = ~z~Come on, through here!
+
+TRN1_GET_MOUNT_1 = ~z~Come on, we can take the horses from that coach.
+
+TRN1_IG1_FIGHT_1 = ~z~
+
+TRN1_IG1_FIGHT_2 = ~z~
+
+TRN1_IG1_FOUND1_1 = ~z~~sl:1.5~I found something interesting.
+
+TRN1_IG1_FOUND1_2 = ~z~Come on! We gotta move.
+
+TRN1_IG1_FOUND2_1 = ~z~~sl:2.8:1.8:1~I found something interesting.
+
+TRN1_IG1_FOUND2_2 = ~z~Come on! We gotta move.
+
+TRN1_IG1_FOUND3_1 = ~z~~sl:2.1:1.9:1~I found something interesting.
+
+TRN1_IGWALK_1_1 = ~z~So, what are we going to say to him, that needs to be said?
+
+TRN1_IGWALK_2_1 = ~z~He has been hunting us since Valentine.
+
+TRN1_IGWALK_2_2 = ~z~He is the reason that Hosea got killed. His sugar business,
+
+TRN1_IGWALK_2_3 = ~z~is destroying the people of Guarma.
+
+TRN1_IGWALK_2_4 = ~z~This town, Arthur, is his town.
+
+TRN1_IGWALK_2_5 = ~z~He bought it just to destroy these folks.
+
+TRN1_IGWALK_2_6 = ~z~His sugar. His oil. His law.
+
+TRN1_IGWALK_3_1 = ~z~These are wrongs that you can't right, Dutch. We're wanted men.
+
+TRN1_IGWALK_4_1 = ~z~~sl:0.6:0.0~So why did you go for John against my wishes?
+
+TRN1_IGWALK_4_2 = ~z~I didn't want him hanged.
+
+TRN1_IGWALK_4_3 = ~z~Neither did I.
+
+TRN1_IGWALK_5_1 = ~z~We're gonna cut a deal, Arthur.
+
+TRN1_IGWALK_5_2 = ~z~What are you talking about?
+
+TRN1_IGWALK_5_3 = ~z~We want out, and Cornwall wants us to stop robbing him...
+
+TRN1_IGWALK_5_4 = ~z~~sl:0.0:1.5~and we all know his money~sl:0.1~is what's keeping the Pinkertons on our tail.
+
+TRN1_IGWALK_6_1 = ~z~~sl:0.0:2.5~He's America, Arthur.~sl:0.3~And I want out.
+
+TRN1_IGWALK_6_2 = ~z~And he... he won't let us go.
+
+TRN1_IGWALK_7_1 = ~z~This ain't making a lot of sense, Dutch.
+
+TRN1_IGWALK_7_2 = ~z~It will, son...
+
+TRN1_IGWALK_7_3 = ~z~~sl:0.0:3.6~It will... a deal... some noise...~sl:0.3~and then we're gone.
+
+TRN1_INT_1 = ~z~Was you followed?
+
+TRN1_INT_2 = ~z~No.
+
+TRN1_INT_3 = ~z~Was you followed?
+
+TRN1_INT_4 = ~z~I said...
+
+TRN1_INT_5 = ~z~no!
+
+TRN1_INT_6 = ~z~Okay.
+
+TRN1_INT_7 = ~z~What is your problem?
+
+TRN1_INT_8 = ~z~What is your problem, partner?
+
+TRN1_INT_9 = ~z~You don't, uh...
+
+TRN1_INT_10 = ~z~you don't look so good.
+
+TRN1_INT_11 = ~z~What is wrong with you?
+
+TRN1_INT_12 = ~z~Nothing wrong with me.
+
+TRN1_INT_13 = ~z~I'm fit as a fiddle.
+
+TRN1_INT_14 = ~z~Not inside you ain't.
+
+TRN1_INT_15 = ~z~I'm just a realist, friend.
+
+TRN1_INT_16 = ~z~Micah reckons there's a rat.
+
+TRN1_INT_17 = ~z~Oh, does he?
+
+TRN1_INT_18 = ~z~On what evidence?
+
+TRN1_INT_19 = ~z~We's only back a minute, Pinkertons show up.
+
+TRN1_INT_20 = ~z~We been on the run since you two fools went crazy in Blackwater.
+
+TRN1_INT_21 = ~z~We barely escaped with our lives in Saint Denis...
+
+TRN1_INT_22 = ~z~now we got a rat?
+
+TRN1_INT_23 = ~z~Well, Molly clearly talked.
+
+TRN1_INT_24 = ~z~But, who else?
+
+TRN1_INT_25 = ~z~Maybe we pushed things too hard?
+
+TRN1_INT_26 = ~z~Maybe time for folks like us is passed.
+
+TRN1_INT_27 = ~z~We don't need a rat.
+
+TRN1_INT_28 = ~z~We got sloppier than the town drunk...
+
+TRN1_INT_29 = ~z~and they know who we are...
+
+TRN1_INT_30 = ~z~and where we are...
+
+TRN1_INT_31 = ~z~and what we're doing.
+
+TRN1_INT_32 = ~z~Way I see it, best thing we can do is let the weak go...
+
+TRN1_INT_33 = ~z~move on, get our money and start over.
+
+TRN1_INT_34 = ~z~That ain't happening.
+
+TRN1_INT_35 = ~z~Well, something's gotta happen, and fast.
+
+TRN1_INT_36 = ~z~Otherwise, Cornwall, them Pinkertons...
+
+TRN1_INT_37 = ~z~they've got us pinned in here, and ain't none of them stopping.
+
+TRN1_INT_38 = ~z~Well, Cornwall's why we're here.
+
+TRN1_INT_39 = ~z~Shall we, Dutch?
+
+TRN1_INT_40 = ~z~Yeah, it's time to go.
+
+TRN1_INT_41 = ~z~Let's head to the river.
+
+TRN1_INT_42 = ~z~Ah, leave Cornwall alone.
+
+TRN1_INT_43 = ~z~He ain't...
+
+TRN1_INT_44 = ~z~look, we need money, but revenge?
+
+TRN1_INT_45 = ~z~Now?
+
+TRN1_INT_46 = ~z~Of course it's for money.
+
+TRN1_INT_47 = ~z~Come on, Arthur.
+
+TRN1_INT_48 = ~z~This better not be no stupid revenge mission, Dutch.
+
+TRN1_INT_49 = ~z~It ain't worth it.
+
+TRN1_INT_50 = ~z~Don't be ridiculous.
+
+TRN1_INT_51 = ~z~Oh, Arthur...
+
+TRN1_INT_52 = ~z~it's just a simple social call.
+
+TRN1_INT_LI_1 = ~z~~sl:1.2:0.0~Was you followed?
+
+TRN1_KILL_CHASE_1 = ~z~Looks like we've lost them!
+
+TRN1_KILL_CHASE_2 = ~z~For now, maybe!
+
+TRN1_LAG_DUTCH_01 = ~z~Arthur, come on!
+
+TRN1_LAG_DUTCH_02 = ~z~Get a move on, Arthur!
+
+TRN1_LAG_DUTCH_03 = ~z~Stay with me, Arthur!
+
+TRN1_LAG_MICAH_01 = ~z~You getting tired back there, Morgan?
+
+TRN1_LAG_MICAH_02 = ~z~Get up here, Morgan!
+
+TRN1_LAG_MICAH_03 = ~z~You're slowing us down, Morgan, come on!
+
+TRN1_LEAVECOVER_01 = ~z~Where you are going?
+
+TRN1_LEAVECOVER_02 = ~z~What are you doing? Get back.
+
+TRN1_LEAVECOVER_03 = ~z~Arthur! You're going to blow our cover!
+
+TRN1_MCS1_1 = ~z~I wanna thank you for your hospitality, Mr. Cornwall.
+
+TRN1_MCS1_2 = ~z~This was a business meeting, Mr. Milton.
+
+TRN1_MCS1_3 = ~z~We are not friends.
+
+TRN1_MCS1_4 = ~z~I have spent a considerable fortune with your agency...
+
+TRN1_MCS1_5 = ~z~and still, nothing.
+
+TRN1_MCS1_6 = ~z~This Van der Linde robs me, and laughs at me.
+
+TRN1_MCS1_7 = ~z~I asked for the best. I paid for the best.
+
+TRN1_MCS1_8 = ~z~We are very close, Mr. Cornwall.
+
+TRN1_MCS1_9 = ~z~I know you've heard this before...
+
+TRN1_MCS1_10 = ~z~Janson.~n~~m~Sir.
+
+TRN1_MCS1_11 = ~z~Send a telegram to Goldberg in New York...
+
+TRN1_MCS1_12 = ~z~tell him I won't borrow at more than three point two percent.
+
+TRN1_MCS1_13 = ~z~Sorry, no. I have heard it before...
+
+TRN1_MCS1_14 = ~z~and get that army man to pay his portage charge.
+
+TRN1_MCS1_15 = ~z~Yes, sir.
+
+TRN1_MCS1_16 = ~z~We are doing all we can within the confines of the law.
+
+TRN1_MCS1_17 = ~z~The law?
+
+TRN1_MCS1_18 = ~z~I think we both know what you can do with your laws.
+
+TRN1_MCS1_19 = ~z~Find me Dutch van der Linde!
+
+TRN1_MCS1_20 = ~z~Bring him here, and leave the laws to them as need them!
+
+TRN1_MCS1_21 = ~z~Good day, sir!
+
+TRN1_MCS1_22 = ~z~Come along, Mr. Ross. We have work to do.
+
+TRN1_MCS1_23 = ~z~Mr. Didsbury...
+
+TRN1_MCS1_24 = ~z~Mr. Cornwall.
+
+TRN1_MCS1_25 = ~z~Now, listen up, Didsbury.
+
+TRN1_MCS1_26 = ~z~What's all this about strikes?
+
+TRN1_MCS1_27 = ~z~I bought into this mine because of mismanagement...
+
+TRN1_MCS1_28 = ~z~and I intend to make it a success, no matter what the cost.
+
+TRN1_MCS1_29 = ~z~It's the wages. Folk feel...
+
+TRN1_MCS1_30 = ~z~Folk feel?
+
+TRN1_MCS1_31 = ~z~Business doesn't give two figs about feelings, sir.
+
+TRN1_MCS1_32 = ~z~Not two figs.
+
+TRN1_MCS1_33 = ~z~It's a nonsense that will bring a plague on both our houses...
+
+TRN1_MCS1_34 = ~z~Perhaps there is a plague on your house already, Mr. Cornwall.
+
+TRN1_MCS1_35 = ~z~What do you want, sir?
+
+TRN1_MCS1_36 = ~z~I'm not quite sure, just yet.
+
+TRN1_MCS1_37 = ~z~Your impudence will be your undoing, sir.
+
+TRN1_MCS1_38 = ~z~I'm undone already.
+
+TRN1_MCS1_39 = ~z~Even my best friend here, he thinks I'm crazy...
+
+TRN1_MCS1_40 = ~z~and like this poor fellow you are talking to...
+
+TRN1_MCS1_41 = ~z~my feelings are hurt.
+
+TRN1_MCS1_42 = ~z~You robbed me, sir.
+
+TRN1_MCS1_43 = ~z~And you robbed him. Funny world.
+
+TRN1_MCS1_44 = ~z~You show a criminals' grasp of sophistry, sir.
+
+TRN1_MCS1_45 = ~z~I did no such thing.
+
+TRN1_MCS1_46 = ~z~You kill, I kill. You rob, I rob...
+
+TRN1_MCS1_47 = ~z~only difference I can see is I choose...
+
+TRN1_MCS1_48 = ~z~whom I kill and rob...
+
+TRN1_MCS1_49 = ~z~and you destroy everything in your path.
+
+TRN1_MCS1_50 = ~z~I've heard just about enough.
+
+TRN1_MCS1_51 = ~z~I'll tell you what.
+
+TRN1_MCS1_52 = ~z~You give me this ship, ten thousand dollars and...
+
+TRN1_MCS1_53 = ~z~safe passage out of here. I'll let you live.
+
+TRN1_MCS1_54 = ~z~I'll do no such thing.
+
+TRN1_MCS1_55 = ~z~You sure?
+
+TRN1_MCS1_56 = ~z~Good, I prefer it this way.
+
+TRN1_MCS1_57 = ~z~You've lost your mind.
+
+TRN1_MCS1_58 = ~z~Noise, Arthur! Noise!
+
+TRN1_MCS2_1 = ~z~Let's go.
+
+TRN1_MCS2_2 = ~z~Well, at least we tried talking it out.
+
+TRN1_MCS2_3 = ~z~You boys have lost your minds.
+
+TRN1_MCS2_4 = ~z~Oh... I felt a lot of guilt in this life, Arthur.
+
+TRN1_MCS2_5 = ~z~I've killed too often and poorly...
+
+TRN1_MCS2_6 = ~z~but not this time, son.
+
+TRN1_MCS2_7 = ~z~Come on!
+
+TRN1_MICAHBANT1_1 = ~z~You sure you got the lungs for this, Morgan?
+
+TRN1_MICAHBANT1_2 = ~z~Shut the hell up.
+
+TRN1_MICAHBANT2_1 = ~z~Finally putting that bastard Cornwall out of business for good!
+
+TRN1_MICAHBANT2_2 = ~z~Did you put Dutch up to this?
+
+TRN1_MICAHBANT2_3 = ~z~Me? I just follow orders, Morgan!
+
+TRN1_NOCOVER_01 = ~z~Arthur, I said get yourself hidden.
+
+TRN1_NOCOVER_02 = ~z~Will you get out of sight?
+
+TRN1_NOCOVER_03 = ~z~Arthur, get behind something before you're spotted.
+
+TRN1_OBJ1B_1 = ~z~Let's get down here behind these crates.
+
+TRN1_OBJ1B_NGHT_1 = ~z~We'll wait it out here.
+
+TRN1_OBJ1B_NGHT_2 = ~z~Get down behind these crates so no one sees us.
+
+TRN1_OBJ1_1 = ~z~Cornwall's boat is due in soon.
+
+TRN1_OBJ1_NGHT_1 = ~z~Cornwall's boat is arriving at dawn.
+
+TRN1_OBJ2A_1 = ~z~Oh, shit, Pinkertons!
+
+TRN1_OBJ2A_2 = ~z~What the hell have you done, Dutch?
+
+TRN1_OBJ2B_1 = ~z~Come on, Micah's gone after those papers!
+
+TRN1_OBJ2B_2 = ~z~Let's find him and get out of here!
+
+TRN1_OBJ2B_BLDG_1 = ~z~They're shooting from that building!
+
+TRN1_OBJ2B_UP_1 = ~z~Look out up there, on the left!
+
+TRN1_OBJ2C_1 = ~z~Come on, this way! Up the stairs!
+
+TRN1_OBJ3_1 = ~z~Cornwall's men are all over the place.
+
+TRN1_OBJ3_2 = ~z~Follow me, and stay close.
+
+TRN1_OBJ5_1 = ~z~Let's go, let's go!
+
+TRN1_OBJ6_1 = ~z~More up top here!
+
+TRN1_OBJ6_2 = ~z~Gun them down and let's get the hell out of this place!
+
+TRN1_OBJ7_1 = ~z~Shoot that oil wagon!
+
+TRN1_OBJ8_1 = ~z~Alright, let's head for the hills, boys!
+
+TRN1_SPOT_FINAL_1 = ~z~Look out, fellers, they're still coming!
+
+TRN1_SPOT_FINAL_2 = ~z~Shoot the bastards!
+
+TRN1_SPOT_FOR_1 = ~z~On the left! More of the bastards!
+
+TRN1_SPOT_LEFTC_1 = ~z~They're trying to block us off, go right!
+
+TRN1_SPOT_LEFTF_1 = ~z~They're trying to cut us off again!
+
+TRN1_SPOT_LEFTF_2 = ~z~Go left! Lose them through the river!
+
+TRN1_SPOT_UP_1 = ~z~Look out! We got more ahead.
+

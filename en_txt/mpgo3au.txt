@@ -1,0 +1,346 @@
+MPGO3_ALARM_1 = ~z~Here they are, they tracked me.
+
+MPGO3_BTYCMBT_01 = ~z~Stop them if you want to be paid.
+
+MPGO3_BTYCMBT_02 = ~z~They're after me.
+
+MPGO3_BTYCMBT_03 = ~z~You want to earn that money, get them.
+
+MPGO3_BTYCMBT_04 = ~z~Robbers, I told you.
+
+MPGO3_BTYCMBT_05 = ~z~They're nothing but thieves.
+
+MPGO3_BTYCMBT_06 = ~z~Don't believe them if they say they're law.
+
+MPGO3_BTYREACT1_1 = ~z~Get me out of here.
+
+MPGO3_BTYREACT2_01 = ~z~I didn't ask them to do this.
+
+MPGO3_BTYREACT2_02 = ~z~They wouldn't be shooting at me if we were friends.
+
+MPGO3_BTYREACT2_03 = ~z~Believe me, I... I just met these people.
+
+MPGO3_BTYREACT2_04 = ~z~You want me alive, right? Don't let them shoot me.
+
+MPGO3_BTYREACT2_05 = ~z~Shit.
+
+MPGO3_BTYREACT2_06 = ~z~Let's go, alright?
+
+MPGO3_BTYREACT2_07 = ~z~~sl:0.3~I was better off in that cell.
+
+MPGO3_BYE_1 = ~z~So long then.
+
+MPGO3_CHFREE_1 = ~z~~sl:0.0:4.0~Thank... thank you so much. Watch this.~sl:~I'll do this, and nobody'll be any of the wiser.
+
+MPGO3_CHOICE1_01 = ~z~Set me down a moment.
+
+MPGO3_CHOICE1_02 = ~z~I want to ask you something. Put me down.
+
+MPGO3_CHOICE1_03 = ~z~Would you put me down, so I can talk to you?
+
+MPGO3_CHOICE1_04 = ~z~Give me a moment, okay? Set me down. Let's talk.
+
+MPGO3_CROSSED_1 = ~z~Hey! You got no honor at all!
+
+MPGO3_CUTFREE_1 = ~z~~sl:0.6:2.2~Now, that feels better.~sl:0.4~I'll put my hat on this poor feller.
+
+MPGO3_FOLLOW_1 = ~z~Come on, I'll take you to the money.
+
+MPGO3_GARRIVE_1 = ~z~~sl:0.3~Guess there's some more of them, huh?
+
+MPGO3_GO_01 = ~z~Come on. The sooner this is wrapped up, the better.
+
+MPGO3_GO_02 = ~z~You haven't turned idiot all of a sudden, have you? Come on.
+
+MPGO3_GO_03 = ~z~You go now, you might catch up to him. Get on with it.
+
+MPGO3_HAT_1 = ~z~~sl:0.8:1.2~Okay, okay.~sl:0.4~Pick up him up and follow me.
+
+MPGO3_HIT_01 = ~z~Hey!
+
+MPGO3_HIT_02 = ~z~You're no angel.
+
+MPGO3_HIT_03 = ~z~That's abuse.
+
+MPGO3_HIT_04 = ~z~Ouch.
+
+MPGO3_HOGTIED_01 = ~z~Steady on.
+
+MPGO3_HOGTIED_02 = ~z~Easy, alright?
+
+MPGO3_IG3_P1_1 = ~z~~sl:0.0:0.6~Now...~sl:0.5~money's over there. Under that butte.
+
+MPGO3_IG3_P2_1 = ~z~~sl:0.0:1.0~You'll find it alright,~sl:~but I can't hang around for the law to show up while you do.
+
+MPGO3_IG3_P2_2 = ~z~I'm sure you understand.
+
+MPGO3_LEADER2_01 = ~z~Okay, okay, I give up.
+
+MPGO3_LEADER2_02 = ~z~Tie me up and take me in.
+
+MPGO3_LEADER2_03 = ~z~I won't give you any excuse to shoot me.
+
+MPGO3_LEADER2_04 = ~z~Take me in and let's clear this up.
+
+MPGO3_LEADER2_05 = ~z~Come on, then. Tie me up if you must.
+
+MPGO3_NEGDEC_1 = ~z~~sl:0.0:2.2~Fine. Take me in, then.~sl:~You're too dumb to know a good deal when you hear one.
+
+MPGO3_NEGVOTE_01 = ~z~Hey.
+
+MPGO3_NEGVOTE_02 = ~z~Come on.
+
+MPGO3_NEGVOTE_03 = ~z~Have a heart.
+
+MPGO3_NEGVOTE_04 = ~z~Don't be a fool.
+
+MPGO3_NEGVOTE_05 = ~z~Fools.
+
+MPGO3_NEGVOTE_06 = ~z~
+
+MPGO3_NEGVOTE_07 = ~z~Come on.
+
+MPGO3_NOFOLLOW_01 = ~z~Hey, don't follow me.
+
+MPGO3_NOFOLLOW_02 = ~z~The money's there, leave me be.
+
+MPGO3_NOFOLLOW_03 = ~z~Ain't no reason for you to be following me.
+
+MPGO3_ONFLOOR_01 = ~z~Come on, then.
+
+MPGO3_ONFLOOR_02 = ~z~Let's get this over with.
+
+MPGO3_OVERHEAR_1 = ~z~~sl:0.0:3.3~Well, I'd say it's good fortune me and you folk found each other.~sl:~You, in need of cash, which I have.
+
+MPGO3_OVERHEAR_2 = ~z~And me, in need of friends, which right now, I don't.
+
+MPGO3_OVERHEAR_3 = ~z~There are robbers masquerading as lawmen, in pursuit of me.
+
+MPGO3_OVERHEAR_4 = ~z~And I swear, I'd rather give my cash to you, than them.
+
+MPGO3_PICKUPIDL_01 = ~z~I'm good as my word, come on.
+
+MPGO3_PICKUPIDL_02 = ~z~Get the corpse on your horse and let's go.
+
+MPGO3_PICKUPIDL_03 = ~z~You want that money or not? Get it on a horse.
+
+MPGO3_POSDEC_01 = ~z~Okay. Okay. Cut me free.
+
+MPGO3_POSDEC_02 = ~z~You made the right call.
+
+MPGO3_POSDEC_03 = ~z~Cut this rope off.
+
+MPGO3_POSVOTE_01 = ~z~Thank you.
+
+MPGO3_POSVOTE_02 = ~z~Good.
+
+MPGO3_POSVOTE_03 = ~z~Now we're talking.
+
+MPGO3_POSVOTE_04 = ~z~That's right.
+
+MPGO3_POSVOTE_05 = ~z~Good move.
+
+MPGO3_POSVOTE_06 = ~z~That's it.
+
+MPGO3_POSVOTE_07 = ~z~Okay.
+
+MPGO3_RAGE_1 = ~z~~sl:0.3~What is it, huh? You stupid... or you too good to take my money?
+
+MPGO3_RAGE_2 = ~z~You try and be a saint then... and see how long it lasts.
+
+MPGO3_RAGE_3 = ~z~You'll get greedy or you'll get careless. They always do.
+
+MPGO3_RAGE_4 = ~z~~sl:0.0:4.0~And if you don't, I hope someone comes along and locks you up...~sl:~for doing nothing.
+
+MPGO3_RAGE_5 = ~z~~sl:0.0:4.0~I didn't even escape from that jail. I was released by the deputy...~sl:0.8~after I set him right on some things.
+
+MPGO3_RAGE_6 = ~z~~sl:0.0:3.2~I'm an unfortunate victim of circumstance...~sl:0.0:4.0~and now I'm a victim of some self-righteous idiots too.~sl:0.1~It's not particularly fair.
+
+MPGO3_RAGE_7 = ~z~~sl:0.0:4.0~I been in my share of jail cells, but they never keep me very long.~sl:0.6~Take that as a threat, if you want to.
+
+MPGO3_RIDEBANTSHOUTED_1 = ~z~~sl:0.0:3.3~For a moment there I thought you was so holier than thou,~sl:~you was gonna turn down the cash.
+
+MPGO3_RIDEBANTSHOUTED_2 = ~z~~sl:0.0:2.8~Well, folks like that, it don't get them very far.~sl:0.4~~rp~This is a cruel and unforgiving world, and you gotta be cruel and unforgiving yourself.
+
+MPGO3_RIDEBANTSHOUTED_3 = ~z~~sl:0.0:2.6~If you don't look after yourself, no one else will.~sl:0.7~~rp~That's my motto at least. It always has been.
+
+MPGO3_RIDEBANTSPOKEN_1 = ~z~~sl:0.0:4.0~For a moment there I thought you was so holier than thou,~sl:~you was gonna turn down the cash.
+
+MPGO3_RIDEBANTSPOKEN_2 = ~z~~sl:0.0:2.5~Folks like that, it don't get them very far.~sl:0.6~~rp~This is a cruel and unforgiving world, and you gotta be cruel and unforgiving yourself.
+
+MPGO3_RIDEBANTSPOKEN_3 = ~z~~sl:0.0:2.8~If you don't look after yourself, no one else will.~sl:0.8~~rp~That's my motto at least. It always has been.
+
+MPGO3_SEECHIEF_1 = ~z~~sl:0.0:3.9~Oh dear... that's the old bastard up there, ain't it?~sl:0.5~Here goes...
+
+MPGO3_WBOUNTY_1 = ~z~Aha.
+
+MPGO3_WBOUNTY_2 = ~z~Who's this?
+
+MPGO3_WOBOUNTY_01 = ~z~I thought you'd have that conman with you? Go and get him.
+
+MPGO3_WOBOUNTY_02 = ~z~I hope someone else is about to show up with that outlaw?
+
+MPGO3_WOBOUNTY_03 = ~z~Don't tell me he got away from you, too.
+
+MPGVO3_EXT1_1 = ~z~Hey there.
+
+MPGVO3_EXT1_2 = ~z~Let me go.
+
+MPGVO3_EXT1_3 = ~z~So you got him?
+
+MPGVO3_EXT1_4 = ~z~Good, real good.
+
+MPGVO3_EXT1_5 = ~z~Look...
+
+MPGVO3_EXT1_6 = ~z~Put him up on my horse there.
+
+MPGVO3_EXT1_7 = ~z~I, I didn't do nothing.
+
+MPGVO3_EXT1_8 = ~z~Here's the money I promised ya.
+
+MPGVO3_EXT1_9 = ~z~It's nice seeing you again, buddy.
+
+MPGVO3_EXT1_10 = ~z~Name your price.
+
+MPGVO3_EXT1_11 = ~z~Gonna be even nicer...
+
+MPGVO3_EXT1_12 = ~z~I've got money.
+
+MPGVO3_EXT1_13 = ~z~watching you die.
+
+MPGVO3_EXT1_14 = ~z~I've got a lot of money.
+
+MPGVO3_EXT1_15 = ~z~Just name your price and I'll make you rich.
+
+MPGVO3_EXT1_16 = ~z~Oh, do be quiet.
+
+MPGVO3_EXT1_17 = ~z~Come on, boy.
+
+MPGVO3_EXT1_18 = ~z~See ya later.
+
+MPGVO3_EXT2_1 = ~z~Hey there.
+
+MPGVO3_EXT2_2 = ~z~You got him?
+
+MPGVO3_EXT2_3 = ~z~I recognize him alright.
+
+MPGVO3_EXT2_4 = ~z~Very good.
+
+MPGVO3_EXT2_5 = ~z~Put him up on my horse there.
+
+MPGVO3_EXT2_6 = ~z~Hey there.
+
+MPGVO3_EXT2_7 = ~z~You got him?
+
+MPGVO3_EXT2_8 = ~z~Recognize the hat.
+
+MPGVO3_EXT2_9 = ~z~Very good.
+
+MPGVO3_EXT2_10 = ~z~Put him up on my horse there.
+
+MPGVO3_EXT2_11 = ~z~That murderous bastard's killed more people than typhoid.
+
+MPGVO3_EXT2_12 = ~z~Escaped the gallows three times.
+
+MPGVO3_EXT2_13 = ~z~I'm sorry he won't face justice, but happy he's dead.
+
+MPGVO3_EXT2_14 = ~z~That's the main thing.
+
+MPGVO3_EXT2_15 = ~z~Folks around here can sleep a lot easier.
+
+MPGVO3_EXT2_16 = ~z~Here's the money I promised ya.
+
+MPGVO3_EXT2_17 = ~z~Thanks for your help.
+
+MPGVO3_EXT2_18 = ~z~Come on, boy.
+
+MPGVO3_EXT2_19 = ~z~See ya later.
+
+MPGVO3_INT_1 = ~z~You're an imbecile.
+
+MPGVO3_INT_2 = ~z~A what?
+
+MPGVO3_INT_3 = ~z~An idiot.
+
+MPGVO3_INT_4 = ~z~I'm sorry. He said he wouldn't run away.
+
+MPGVO3_INT_5 = ~z~Shut up.
+
+MPGVO3_INT_6 = ~z~But...
+
+MPGVO3_INT_7 = ~z~Please...
+
+MPGVO3_INT_8 = ~z~But...
+
+MPGVO3_INT_9 = ~z~Just shut up!
+
+MPGVO3_INT_10 = ~z~They're gonna fire me.
+
+MPGVO3_INT_11 = ~z~Oh, you, you'll get to keep your job...
+
+MPGVO3_INT_12 = ~z~but they'll fire me and they've got every right to fire me...
+
+MPGVO3_INT_13 = ~z~cause I'm the idiot who employed ya.
+
+MPGVO3_INT_14 = ~z~Oh, look... guests.
+
+MPGVO3_INT_15 = ~z~Are you a moron, partner? Huh?
+
+MPGVO3_INT_16 = ~z~Well... you can't be any worse than us...
+
+MPGVO3_INT_17 = ~z~because this idiot, this idiot right here...
+
+MPGVO3_INT_18 = ~z~just let the most notorious conman...
+
+MPGVO3_INT_19 = ~z~in the whole goddamn state...
+
+MPGVO3_INT_20 = ~z~walk clean out of a cell, clean out, and not a shot fired!
+
+MPGVO3_INT_21 = ~z~Now, uh, if you can get him back for us...
+
+MPGVO3_INT_22 = ~z~we'll happily pay ya.
+
+MPGVO3_INT_23 = ~z~How about that?
+
+MPGVO3_INT_24 = ~z~Good.
+
+MPGVO3_INT_25 = ~z~Good, now see what I figure...
+
+MPGVO3_INT_26 = ~z~is I figure he's heading on down to Pikes Basin, so...
+
+MPGVO3_INT_27 = ~z~you go down the canyon and you get him...
+
+MPGVO3_INT_28 = ~z~and I'm gonna beat this poor dumb bastard with a stick...
+
+MPGVO3_INT_29 = ~z~and I'll try and join ya on the other side.
+
+MPGVO3_INT_30 = ~z~Come on.
+
+MPGVO3_MCS1_1 = ~z~Look, let me go.
+
+MPGVO3_MCS1_2 = ~z~Let me go.
+
+MPGVO3_MCS1_3 = ~z~I've got money.
+
+MPGVO3_MCS1_4 = ~z~I've got a lotta money, and I'll pay.
+
+MPGVO3_MCS1_5 = ~z~I'll pay a lot.
+
+MPGVO3_MCS1_6 = ~z~Hey, here's an idea.
+
+MPGVO3_MCS1_7 = ~z~Take my hat.
+
+MPGVO3_MCS1_8 = ~z~Put it on the dead guy over there.
+
+MPGVO3_MCS1_9 = ~z~You take him in, as me, I go free and you get rich.
+
+MPGVO3_MCS1_10 = ~z~Oh, and I won't kill anybody else. I swear.
+
+MPGVO3_MCS1_11 = ~z~I'm reformed.
+
+MPGVO3_MCS1_12 = ~z~I'm a changed man.
+
+MPGVO3_MCS1_13 = ~z~Please, please, I'm begging you. Set me free.
+
+MPGVO3_MCS1_14 = ~z~Have a heart.
+

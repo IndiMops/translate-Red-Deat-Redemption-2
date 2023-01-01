@@ -1,0 +1,70 @@
+0x2B723C15 = Послушайте разговоры горожан ~BLIP_AMBIENT_SECRET~. Возможно, удастся узнать что-то об ~COLOR_MP_OBJECTIVE~олене Быстрой Тени~s~.
+
+0x13F92F9B = Ищите следы ~COLOR_MP_OBJECTIVE~оленя Быстрой Тени~s~.
+
+0x58C3EBDE = Доберитесь до ~COLOR_MP_OBJECTIVE~Аннесберга~s~.
+
+0x563B9FAC = Подслушайте ~COLOR_MP_OBJECTIVE~разговоры~s~.
+
+0x7961B80B = Направляйтесь в ~COLOR_MP_OBJECTIVE~отмеченную область~s~.
+
+0x13122AA5 = ~COLOR_MP_OBJECTIVE~Легендарный олень Быстрая Тень~s~ ушел слишком далеко и скоро сможет скрыться.
+
+0xA650FF0F = Догоните ~COLOR_MP_OBJECTIVE~оленя Быструю Тень~s~.
+
+0xC3DD42EE = Найдите ~COLOR_MP_OBJECTIVE~оленя Быструю Тень~s~ ~COLOR_MP_OBJECTIVE~~BLIP_OBJECTIVE~~s~.
+
+0xEF502E6A = Шкура оленя Быстрой Тени повреждена
+
+FETCH_NAT_SIGHTING_BUCK_SHARD_DESTROYED_BUCK = Шкура оленя Быстрой Тени повреждена
+
+FETCH_NAT_SIGHTING_BUCK_SHARD_PRIMARY_PASS = Образец из оленя Быстрой Тени получен
+
+FETCH_NAT_SIGHTING_CLUE_TEXT_BUCK = Похоже, этого оленя забодал другой олень, который оставил след ~1b~. Используйте «Орлиный глаз», чтобы идти по его следу.
+
+FETCH_NAT_SIGHTING_CLUE_TEXT_BUCK_0 = Этот олений помет выглядит свежим. Легендарный олень Быстрая Тень недавно побывал здесь и оставил след ~1b~. Используйте «Орлиный глаз», чтобы пойти по следу.
+
+FETCH_NAT_SIGHTING_CLUE_TEXT_BUCK_0_1 = Браконьеры уже начали поиски легендарного оленя Быстрой Тени. Продолжите искать следы в этой местности.
+
+FETCH_NAT_SIGHTING_FOLLOW_TRAIL_BUCK = Идите по ~COLOR_MP_OBJECTIVE~следу~s~.
+
+FETCH_NAT_SIGHTING_HELP_INVESTIGATE_SOUND_BUCK = Идите на ~COLOR_MP_OBJECTIVE~звук~s~.
+
+FETCH_NAT_SIGHTING_HELP_LOOK_AT_CLUE_BUCK = Сфокусироваться на следе
+
+FETCH_NAT_SIGHTING_HELP_OBJECTIVE_DEAD_BUCK = ~COLOR_MP_OBJECTIVE~Олень Быстрая Тень~s~ усыплен. Добудьте образец.
+
+FETCH_NAT_SIGHTING_HELP_PRIMARY_BUCK = Найдите оленя Быструю Тень ~1b~. Усыпите его и добудьте образец.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_BUCK = Активируйте «Орлиный глаз», нажав ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ и ~INPUT_SPECIAL_ABILITY~, и поищите следы оленя Быстрой Тени.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_BUCK_KM = Активируйте «Орлиный глаз», нажав ~INPUT_SPECIAL_ABILITY~, и поищите следы оленя Быстрой Тени.
+
+FETCH_NAT_SIGHTING_HELP_SEARCH_CLUE_FOUND_BUCK = Чтобы поискать новые следы, используйте «Орлиный глаз».
+
+FETCH_NAT_SIGHTING_HELP_SKIN_BUCK = Чтобы добыть образец, удерживайте ~INPUT_CONTEXT_Y~.
+
+FETCH_NAT_SIGHTING_INSPECT_CLUE_BUCK = Осмотреть
+
+FETCH_NAT_SIGHTING_OBJ_FIND_BUCK = Ищите следы ~COLOR_MP_OBJECTIVE~оленя Быстрой Тени~s~.
+
+FETCH_NAT_SIGHTING_OBJ_FIND_BUCK_CAGED = Ищите следы ~COLOR_MP_OBJECTIVE~оленя Быстрой Тени~s~.
+
+FETCH_NAT_SIGHTING_OBJ_FIND_BUCK_POACHERS = Перебейте ~COLOR_ENEMY~браконьеров~s~.
+
+FETCH_NAT_SIGHTING_OBJ_GOTO_BUCK_CAGED = Направляйтесь в ~COLOR_MP_OBJECTIVE~место~s~, где замечено животное.
+
+FETCH_NAT_SIGHTING_OBJ_LOOT_BUCK = Добудьте образец из ~COLOR_MP_OBJECTIVE~оленя Быстрой Тени~s~.
+
+FETCH_NAT_SIGHTING_SHARD_PRIMARY_INTRO_BUCK = Добудьте образец из оленя Быстрой Тени
+
+FETCH_NAT_SIGHTING_TRANQUILIZE_OBJECTIVE_BUCK = Усыпите ~COLOR_MP_OBJECTIVE~оленя Быструю Тень~s~.
+
+FETCH_NAT_SIGHT_BUCK_HELP_OBJECTIVE_ESCAPING = ~COLOR_MP_OBJECTIVE~Легендарный олень Быстрая Тень~s~ ушел слишком далеко и скоро сможет скрыться.
+
+FETCH_NAT_SIGHT_BUCK_HELP_SEARCH_CLUE_DEAD_END = Идите на ~COLOR_MP_OBJECTIVE~звук~s~.
+
+FETCH_NAT_SIGHT_BUCK_SHARD_ESCAPED = Легендарный олень Быстрая Тень сбежал
+
+FETCH_NAT_SIGHT_BUCK_SHARD_PRIMARY_PASS_PARTIAL = Олень Быстрая Тень освежеван
+

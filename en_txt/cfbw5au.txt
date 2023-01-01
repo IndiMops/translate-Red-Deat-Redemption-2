@@ -1,0 +1,50 @@
+CFBW5_ACT_1 = ~z~You know, when I first met Dutch...
+
+CFBW5_ACT_2 = ~z~
+
+CFBW5_ACT_3 = ~z~I was at a low point.
+
+CFBW5_ACT_4 = ~z~~sl:0.0:0.9~Real low.~sl:1.1~And uh...
+
+CFBW5_ACT_5 = ~z~~sl:1.9:2.0~I... I tried to rob him.
+
+CFBW5_ACT_6 = ~z~~sl:0.0:1.0~I mean, I was...~sl:0.3:1.5~I was just out of the army~sl:0.8~and I-I was drinking like a fish...
+
+CFBW5_ACT_7 = ~z~~sl:0.0:1.2~and, uh, I-I...~sl:0.1~I was still sticking up folk on the highway, just uh...
+
+CFBW5_ACT_8 = ~z~out west of the mountains.
+
+CFBW5_ACT_9 = ~z~~sl:0.0:1.3~And-and....~sl:0.9~and Dutch got one look at me...
+
+CFBW5_ACT_10 = ~z~~sl:0.0:1.1~I was just...~sl:0.2~I was just drunk and I was angry.
+
+CFBW5_ACT_11 = ~z~
+
+CFBW5_ACT_12 = ~z~~sl:0.0:1.1~And-and he...~sl:0.1:1.6:1~he just burst out laughing.
+
+CFBW5_ACT_13 = ~z~~sl:0.0:2.0~And I was so mad...~sl:0.9~I swear I could have put a slug in him.
+
+CFBW5_ACT_14 = ~z~~sl:0.0:1.0~But he, uh...~sl:1.8:1.8~he cheered me up~sl:0.4~and uh, he gave me purpose.
+
+CFBW5_ACT_15 = ~z~And now I sense some of you fools are doubting him.
+
+CFBW5_ACT_16 = ~z~And that makes me so angry because he saved me.
+
+CFBW5_ACT_17 = ~z~He saved Bill Williamson!
+
+CFBW5_ACT_18 = ~z~And he can do it again.
+
+CFBW5_ACT_19 = ~z~~sl:0.0:1.6~So for all you sons of bitches,~sl:0.6:1.5~you fools that are doubting him.~sl:0.0~Go!
+
+CFBW5_ACT_20 = ~z~~sl:0.0:1.1~Leave, just run away.~sl:0.1~Just get the hell out of here.
+
+CFBW5_ACT_21 = ~z~~sl:0.0:1.3~But you know what?~sl:0.1:1.1~I know you won't.~sl:1.6~None of you will.
+
+CFBW5_ACT_22 = ~z~~sl:0.0:1.4~'Cause you're all the same.~sl:0.6~You're just like me...
+
+CFBW5_ACT_23 = ~z~~sl:0.0:0.7~So, you just...~sl:0.1:1.1~you have faith.~sl:1.7~We've all got to have faith.
+
+CFBW5_ACT_24 = ~z~~sl:0.0:0.6~Because this,~sl:~this is Dutch van der Linde that we're talking about here.
+
+CFBW5_ACT_25 = ~z~This is Dutch van der Linde.
+

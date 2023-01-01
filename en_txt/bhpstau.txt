@@ -1,0 +1,124 @@
+STR_ASKP_A_01 = ~z~Any bounties?
+
+STR_ASKP_A_02 = ~z~Any outstanding warrants round here?
+
+STR_ASKP_A_03 = ~z~Sheriff, you looking for any bad folk?
+
+STR_ASKP_B_01 = ~z~Any bounties?
+
+STR_ASKP_B_02 = ~z~Any outstanding warrants round here?
+
+STR_ASKP_B_03 = ~z~Sheriff, you looking for any bad folk?
+
+STR_ASK_RPL_01 = ~z~Poster's on the wall.
+
+STR_ASK_RPL_02 = ~z~Take a look up there.
+
+STR_ASK_RPL_03 = ~z~You see that poster? That'll tell you.
+
+STR_BHDL_TIPA_1 = ~z~I want your advice, I'll ask for it, okay.
+
+STR_BHDL_TIPB_1 = ~z~I want your advice, I'll ask for it, okay.
+
+STR_BHDL_TIPK_1 = ~z~Word is he's made a home out an old mine... up in the Big Valley mountains.
+
+STR_BHDL_TIPK_2 = ~z~But you might want to leave that one on the wall.
+
+STR_BHDL_TIPK_3 = ~z~Josh Brown'd be a hard man to kill... let alone capture... and that's what we're asking for.
+
+STR_BHDL_TIPK_4 = ~z~Got half the bounty hunters in the state out looking for him.
+
+STR_BHSL_TIPJ_1 = ~z~Bart Cavanaugh. He's one of them boys down from Laramie.
+
+STR_BHSL_TIPJ_2 = ~z~They say they business men chasing up land deals... but I know hired guns when I see 'em.
+
+STR_BHSL_TIPJ_3 = ~z~Laramie? I'm acquainted with some of those fellers.
+
+STR_BHSL_TIPJ_4 = ~z~Yeah, mayor's got a strange tolerance.... but this one's gone too far.  He's up North of here. The other side of the mountain.
+
+STR_DUL_Q1A1_1 = ~z~Okay. Joshua Brown. Give it to me.
+
+STR_DUL_Q1J1_1 = ~z~Okay. Joshua Brown. Give it to me.
+
+STR_DUL_Q1S2_1 = ~z~He's a killer. Got away with it for the most part too – legal kills.
+
+STR_DUL_Q1S2_2 = ~z~But if you walk that line, you're going to step over it at some point, and that what he done.
+
+STR_DUL_Q2A1_1 = ~z~If this man's dangerous, why I got to bring him in alive?
+
+STR_DUL_Q2J1_1 = ~z~If this man's dangerous, why I got to bring him in alive?
+
+STR_DUL_Q2S2_1 = ~z~He brought us some bounties in the past, and he always been decent.
+
+STR_DUL_Q2S2_2 = ~z~You don't want to bring him in breathing, you leave this alone.
+
+STR_GREETNEG_A_01 = ~z~Little over-keen ain't you?
+
+STR_GREETNEG_A_02 = ~z~You sounding desperate, Sheriff.
+
+STR_GREETNEG_J_01 = ~z~Little over-keen ain't you?
+
+STR_GREETNEG_J_02 = ~z~You sounding desperate, Sheriff.
+
+STR_GREETPOS_A_01 = ~z~Then I'm in luck.
+
+STR_GREETPOS_A_02 = ~z~Ain't that good news.
+
+STR_GREETPOS_J_01 = ~z~Then I'm in luck.
+
+STR_GREETPOS_J_02 = ~z~Ain't that good news.
+
+STR_INSP_A_01 = ~z~Hmmm.
+
+STR_INSP_A_02 = ~z~Look at you.
+
+STR_INSP_A_03 = ~z~Well, well.
+
+STR_INSP_J_01 = ~z~Hmmm.
+
+STR_INSP_J_02 = ~z~Look at you.
+
+STR_INSP_J_03 = ~z~Well, well.
+
+STR_INTR_A_01 = ~z~You after a bounty? I can tell... if so, we got a poster on the wall just there.
+
+STR_INTR_A_02 = ~z~You ain't a tourist, so I'm guessing you're a bounty hunter. Posters usually go up on that wall there.
+
+STR_ODS_Q1J1_1 = ~z~Tell me about this bounty. What's his charge?
+
+STR_ODS_Q1J1_2 = ~z~Intimidation, the destruction of property, violent assault...
+
+STR_ODS_Q1J1_3 = ~z~but they're all things we turn a blind eye to now if you're from those parts. Or so I'm instructed.
+
+STR_ODS_Q2J1_1 = ~z~Okay. Why we after this feller then?
+
+STR_ODS_Q2J1_2 = ~z~Bart Cavanaugh got fresh with the wrong girl. A cattle man's daughter. He's what you'd call an example to the rest.
+
+STR_ODS_Q2J1_3 = ~z~Indeed.
+
+STR_TAKE_ALVE_01 = ~z~We want that one alive, so there's no confusing things.
+
+STR_TAKE_ALVE_02 = ~z~In case you can't read, that says bring 'em in alive.
+
+STR_TAKE_ALVE_03 = ~z~Only go after that one if you can bring 'em in breathing, okay?
+
+STR_TAKE_DORA_01 = ~z~We ain't fussy – bring 'em back dead or alive.
+
+STR_TAKE_DORA_02 = ~z~However you can get 'em is how we'll take 'em.
+
+STR_TAKE_DORA_03 = ~z~Capture or kill – whatever you got to do.
+
+STR_TAKE_LVE_01 = ~z~Happy hunting.
+
+STR_TAKE_LVE_02 = ~z~Good luck with it.
+
+STR_TAKE_LVE_03 = ~z~Stay safe out there.
+
+STR_THANK_A_01 = ~z~I guess I know my job then.
+
+STR_THANK_A_02 = ~z~I figure I know what I got to do.
+
+STR_THANK_J_01 = ~z~I guess I know my job then.
+
+STR_THANK_J_02 = ~z~I figure I know what I got to do.
+

@@ -1,0 +1,114 @@
+NASBI_BANT1A_1 = ~z~~sl:0.0:2.0~Woman, you're out of your damn mind.~sl:0.6~Been sipping on that herbal tea your sister brews?
+
+NASBI_BANT1A_2 = ~z~~sl:0.0:1.2~Shut it, Henry.~sl:~Red bison been seen before around here, just not in our lifetimes. I saw what I saw.
+
+NASBI_BANT1B_1 = ~z~~sl:0.0:0.8~You sure?~sl:0.8:0.9~And it was red?~sl:0.94~Reckon we could get good money for a pelt like that...
+
+NASBI_BANT1B_2 = ~z~~sl:0.0:3.8~Yes, I'm sure, Henry. And if you wanna run off and get trampled to death,~sl:~be my guest. One less mouth to feed.
+
+NASBI_BANT1C_1 = ~z~~sl:0.0:5.1~Agnes, would you just listen this time? It was there, in amongst the rest of the herd.~sl:0.2~Color of rust.
+
+NASBI_BANT1C_2 = ~z~~sl:0.0:4.3~For the last time, Henry, I ain't saying what you did or did not see.~sl:0.21~It's just that if I can't cook it, sell it, or strap a plough to it,
+
+NASBI_BANT1C_3 = ~z~I don't give a damn if it's real or not.
+
+NASBI_BANT2A_1 = ~z~~sl:0.0:0.7~I'm telling you,~sl:0.3~I know some people pays good money for information leads 'em to a hide like that.
+
+NASBI_BANT2A_2 = ~z~~sl:0.0:1.6~Dear Lord, Henry.~sl:0.0:2.5~That there is one of God's finest creations,~sl:0.0:3.4~and all you see is a big red stack of dollar bills.~sl:~I despair of you.
+
+NASBI_BANT2B_1 = ~z~~sl:0.0:2.3~You reckon it tastes the same as a regular bison?~sl:0.72~If you caught it and cooked it up I mean?
+
+NASBI_BANT2B_2 = ~z~~sl:0.0:2.1~How the hell should I know?~sl:~And what kinda question is that? Honestly, the mess that's in your mind...
+
+NASBI_BANT3A_1 = ~z~~sl:0.0:2.19~You see the rest of the boys setting out this morning?~sl:0.3~Whooping and hollering like a bunch of jackasses.
+
+NASBI_BANT3A_2 = ~z~~sl:0.0:2.5~Damn bison'll hear 'em coming ten miles out,~sl:0.3~I bet you every dollar I got they miss it again.
+
+NASBI_BANT3A_3 = ~z~I aint no betting man.
+
+NASBI_BANT3B_1 = ~z~You got any idea why they're still after this bison?
+
+NASBI_BANT3B_2 = ~z~~sl:0.0:2.88~The thing must have a coat of goddam silver and gold~sl:~for all the time we've wasted chasing it down.
+
+NASBI_BANT3B_3 = ~z~If we're patient enough. We find out.
+
+NASBI_BANT3C_1 = ~z~~sl:0.0:1.5~You hear Jerry this morning?~sl:0.6~“Bison steaks is big steaks boys!”.
+
+NASBI_BANT3C_2 = ~z~~sl:0.0:3.2~I told him if he sticks so much as a fork in that hide,~sl:0.3~the boss is gonna serve him up mid-rare.
+
+NASBI_BANT3C_3 = ~z~Mhm.
+
+NASBI_CAGE1_01 = ~z~~sl:0.0:4.1~Strange, you have no idea how special you are.~sl:1.34~As far as you know, you are like any other buffalo...
+
+NASBI_CAGE1_02 = ~z~~sl:0.0:1.13~Red like wine!~sl:0.79:1.45~I wish my papa could have seen you.~sl:0.45~He would never have believed it.
+
+NASBI_CAGE1_03 = ~z~~sl:0.0:3.66~If you could only know how rich you and your red hide are going to make me...~sl:0.42~Maybe I'll finally get that boat, eh?
+
+NASBI_CAGE2_01 = ~z~~sl:0.0:1.23~Getting hot in there, big feller?~sl:1.41~Smells like you're half-roasted already!
+
+NASBI_CAGE2_02 = ~z~~sl:0.0:3.18~It's gonna take a long time to skin you, my friend!~sl:0.42:2.5~Spare a thought for us doing the hard work, huh?
+
+NASBI_CAGE2_03 = ~z~~sl:0.0:1.89~Is your room to your liking sir?~sl:0.58:2.00~Cosy, ain't it? How's the view?
+
+NASBI_CHASE1_01 = ~z~Almost a shame to put a bullet in you, beastie! Almost!
+
+NASBI_CHASE1_02 = ~z~Did we hit it? Hard to tell with the color of its coat!
+
+NASBI_CHASE1_03 = ~z~Yah! Yah! Come here beautiful! Gimme that pelt!
+
+NASBI_CHASE1_04 = ~z~Oh, this big ole bruiser is all mine!
+
+NASBI_CHASE1_05 = ~z~Get in front of it! Head it off!
+
+NASBI_CHASE2_01 = ~z~Don't you dare put a bullet in that hide! Get it in the head!
+
+NASBI_CHASE2_02 = ~z~Keep your cool! It'll tire soon!
+
+NASBI_CHASE2_03 = ~z~Stay close on it! Only a matter of time!
+
+NASBI_CHASE2_04 = ~z~Do not shoot unless you got a clear shot!
+
+NASBI_CHASE2_05 = ~z~This goes down just like any other bison! Don't lose your damn head!
+
+NASBI_FOLLOW_01 = ~z~~sl:0.0:3.4~I can't believe I am stuck here while the others go in for the kill.~sl:0.5~They are lost without me, anyway.
+
+NASBI_FOLLOW_02 = ~z~~sl:0.0:4.19~That bison leaves a trail of red moult so big even your compadres could find it.~sl:0.44~It won't be long.
+
+NASBI_FOLLOW_03 = ~z~~sl:0.0:3.1~If they don't come back with a beautiful red hide today,~sl:0.0:1.44~I'm going out there on my own.~sl:0.4~Idiots.
+
+NASBI_GUARD_01 = ~z~~sl:0.0:1.76~Guard duty ain't what I signed up for.~sl:0.29~I want a piece of that pelt, dammit.
+
+NASBI_GUARD_02 = ~z~~sl:0.0:0.85~I hope they miss it.~sl:0.34~And next time, someone else can play at guard duty.
+
+NASBI_GUARD_03 = ~z~~sl:0.0:1.4~I am so bored.~sl:0.44~I'm a hunter too, dammit. I should be there at the kill.
+
+NASBI_THREAT1_01 = ~z~Listen good to me. This here beastie is ours, so move along.
+
+NASBI_THREAT1_02 = ~z~This ain't no public exhibit, friend. Move along.
+
+NASBI_THREAT1_03 = ~z~Wandered into something that don't concern you here. Off you go.
+
+NASBI_THREAT2_01 = ~z~Get lost, or I will truss you up and throw you in that cage as a snack.
+
+NASBI_THREAT2_02 = ~z~Do not push me, or we'll have ourselves two hides to sell today.
+
+NASBI_THREAT2_03 = ~z~Didn't you hear me? Beat it, or this gets ugly.
+
+NASBI_THREAT3_01 = ~z~I won't say it again. Leave, or get stuck like a hog.
+
+NASBI_THREAT3_02 = ~z~This is it. I will kill you where you stand.
+
+NASBI_THREAT3_03 = ~z~Oh, I killed a lot more than bison, friend. Last chance.
+
+NASBI_WARN1_1 = ~z~~sl:0.0:2.29~Hey there, you bound for the valley?~sl:0.6~'Cause there's some kinda band of hunters down there, real jackasses.
+
+NASBI_WARN1_2 = ~z~~sl:0.0:1.32~Chased me off for no reason.~sl:0.44~If you don't want the same treatment, move fast and lie low.
+
+NASBI_WARN2_1 = ~z~~sl:0.0:1.75~I'd steer clear of the valley if I were you.~sl:0.44~Some big hunt going on down there.
+
+NASBI_WARN2_2 = ~z~~sl:0.0:3.0~Can't move for flying lead and stampeding buffalo.~sl:0.53~Not worth getting tangled up in, if you ask me.
+
+NASBI_WARN3_1 = ~z~~sl:0.0:2.37~Hey, big hunt going on down in the valley,~sl:0.35~so be careful if you're headed that way.
+
+NASBI_WARN3_2 = ~z~~sl:0.0:4.6~I got some real fine photographs, then one of them damn bison trampled my camera.~sl:0.5~Barely made it out with my life.
+

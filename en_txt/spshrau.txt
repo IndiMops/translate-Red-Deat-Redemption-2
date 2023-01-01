@@ -1,0 +1,182 @@
+SPSHR_ARTHPAY_01 = ~z~Sure.
+
+SPSHR_ARTHPAY_02 = ~z~Here.
+
+SPSHR_ARTHPAY_03 = ~z~Here you go.
+
+SPSHR_ARTHPAY_04 = ~z~Why not?
+
+SPSHR_ARTHPAY_05 = ~z~What the hell.
+
+SPSHR_ARTHTHANK_01 = ~z~Uh, thank you.
+
+SPSHR_ARTHTHANK_02 = ~z~Okay.
+
+SPSHR_ARTHTHANK_03 = ~z~Alright.
+
+SPSHR_ARTHTHANK_04 = ~z~OKay, thanks.
+
+SPSHR_ARTHTHANK_05 = ~z~Well, thanks, I guess...
+
+SPSHR_IG1_AGGA_1 = ~z~You bully the weak. That says who you are!
+
+SPSHR_IG1_AGGB_1 = ~z~Your fate shall be deserved.
+
+SPSHR_IG1_AGGC_1 = ~z~One day you will be sick and weak.
+
+SPSHR_IG1_AGGD_1 = ~z~You're doomed already.
+
+SPSHR_IG1_AGGE_1 = ~z~You deserve what you shall get!
+
+SPSHR_IG1_CALLA_1 = ~z~I may not speak the whole truth, but I speak some of it.
+
+SPSHR_IG1_CALLB_1 = ~z~Come... for I can see even though I cannot see.
+
+SPSHR_IG1_CALLC_1 = ~z~Come nearer, come. Come.
+
+SPSHR_IG1_CALLD_1 = ~z~I see things clearly...
+
+SPSHR_IG1_CALLE_1 = ~z~Don't just stare... I cannot see you, but I can surely smell you.
+
+SPSHR_IG1_CALLF_1 = ~z~You stare at me and you think, what does she know?
+
+SPSHR_IG1_DA_1 = ~z~Come here, my friend.
+
+SPSHR_IG1_DB_1 = ~z~Come here and hear me speak the future.
+
+SPSHR_IG1_DC_1 = ~z~Come... come towards me now...
+
+SPSHR_IG1_DD_1 = ~z~My friend... my friend, you live and so do I.
+
+SPSHR_IG1_DE_1 = ~z~You are still alive I see.
+
+SPSHR_IG1_DF_1 = ~z~I remember you... I can sense you.
+
+SPSHR_IG1_FA_1 = ~z~This is now the time of machines. The time of things.
+
+SPSHR_IG1_FA_2 = ~z~The time of man came and it went as all things pass. As all things pass, my friend.
+
+SPSHR_IG1_FB_1 = ~z~Even the gods die. Even the gods die an ignoble death.
+
+SPSHR_IG1_FC_1 = ~z~We killed him and what did we replace him with?
+
+SPSHR_IG1_FC_2 = ~z~What? With what? With absolutely nothing. Enjoy.
+
+SPSHR_IG1_FD_1 = ~z~There's nothing here, friend... there's nothing here for us to destroy.
+
+SPSHR_IG1_FE_1 = ~z~What are you doing here, friend?
+
+SPSHR_IG1_FE_2 = ~z~You don't know... you don't know what you're doing here.
+
+SPSHR_IG1_FE_3 = ~z~That's the problem... that's a real problem.
+
+SPSHR_IG1_FF_1 = ~z~You'll go away from here and realise that here is not so bad,
+
+SPSHR_IG1_FF_2 = ~z~as everyone does in the end.
+
+SPSHR_IG1_FG_1 = ~z~They will betray you in the end... surely they shall.
+
+SPSHR_IG1_FG_2 = ~z~Betray them first!
+
+SPSHR_IG1_FH_1 = ~z~It's only in dying that we live, my friend... so you're lucky. For soon you shall be alive.
+
+SPSHR_IG1_FI_1 = ~z~Beware the swamps for nothing good ever came from the ooze.
+
+SPSHR_IG1_FI_2 = ~z~They say we came from the mud. We didn't. We came from under a rock!
+
+SPSHR_IG1_FJA_1 = ~z~And the circle goes on... and on... and on...
+
+SPSHR_IG1_FJA_2 = ~z~and what will end it?
+
+SPSHR_IG1_FJA_3 = ~z~And would we want it to end if we could?
+
+SPSHR_IG1_FJB_1 = ~z~She'll return to you, my friend. Return she shall and that shall destroy you both, I fear.
+
+SPSHR_IG1_FJC_1 = ~z~The ones you hate most grow fat on their greed and yet you must punish whatever the cost...
+
+SPSHR_IG1_FJC_2 = ~z~whatever the cost.
+
+SPSHR_IG1_FJD_1 = ~z~When you do what you think you must do, you make things complete.
+
+SPSHR_IG1_FJD_2 = ~z~Complete and round and back to where they once stood...
+
+SPSHR_IG1_FJD_3 = ~z~life began in churches, it ends in churches.
+
+SPSHR_IG1_FJD_4 = ~z~Life begins in the darkness, it ends in the ground.
+
+SPSHR_IG1_FJE_1 = ~z~Keep moving, for you cannot stop it now.
+
+SPSHR_IG1_FJE_2 = ~z~It began long ago and will only end many years henceforth. All you can do is your bit.
+
+SPSHR_IG1_FJ_1 = ~z~You came down from on high and met man unleashed as fury...
+
+SPSHR_IG1_FJ_2 = ~z~and this is modernity, in all its foulness,
+
+SPSHR_IG1_FJ_3 = ~z~smoke, lies, hatred and not much else.
+
+SPSHR_IG1_SA_1 = ~z~Even the gods die... even the gods die in the end.
+
+SPSHR_IG1_SB_1 = ~z~Come.... come... and speak with me, shall you?
+
+SPSHR_IG1_SC_1 = ~z~Come to me. Come to me and let me see you. See you properly.
+
+SPSHR_IG1_SD_1 = ~z~I've got the truth, if you want it.
+
+SPSHR_IG1_SE_1 = ~z~I can see far, perhaps you'd like to know more.
+
+SPSHR_IG1_SF_1 = ~z~I have the sight if you want the wisdom. Come, see what I see.
+
+SPSHR_IG_BYEA_1 = ~z~Travel safe.
+
+SPSHR_IG_BYEB_1 = ~z~Good luck to you.
+
+SPSHR_IG_BYEC_1 = ~z~Now be on your way.
+
+SPSHR_IG_BYED_1 = ~z~Go and be strong.
+
+SPSHR_IG_BYEE_1 = ~z~That is all I have for you.
+
+SPSHR_IG_BYEF_1 = ~z~Use that as you may.
+
+SPSHR_IG_BYEG_1 = ~z~Now go face your future, young man.
+
+SPSHR_IG_BYEH_1 = ~z~Now go, time is precious.
+
+SPSHR_IG_OFFERA_1 = ~z~Do you want to hear your fortune, sir?
+
+SPSHR_IG_OFFERB_1 = ~z~A coin, and I will tell your future.
+
+SPSHR_IG_OFFERC_1 = ~z~Would you like to know what lies in store, mister?
+
+SPSHR_IG_OFFERD_1 = ~z~For a small donation, I can look into the shadows ahead.
+
+SPSHR_IG_OFFERE_1 = ~z~Show charity, and I will show you the future.
+
+SPSHR_IG_OFFERF_1 = ~z~A coin to know your fate... mister?
+
+SPSHR_IG_OFFERG_1 = ~z~Give... and you shall receive your fate.
+
+SPSHR_IG_OFFERH_1 = ~z~I don't see too well, but I see what lies ahead.
+
+SPSHR_IG_OFFERH_2 = ~z~For a small price.
+
+SPSHR_JOHNPAY_01 = ~z~Sure.
+
+SPSHR_JOHNPAY_02 = ~z~Here.
+
+SPSHR_JOHNPAY_03 = ~z~Here you go.
+
+SPSHR_JOHNPAY_04 = ~z~Why not.
+
+SPSHR_JOHNPAY_05 = ~z~What the hell.
+
+SPSHR_JOHNTHANK_01 = ~z~Okay...
+
+SPSHR_JOHNTHANK_02 = ~z~Alright.
+
+SPSHR_JOHNTHANK_03 = ~z~Alright, thanks.
+
+SPSHR_JOHNTHANK_04 = ~z~Well, thanks I suppose.
+
+SPSHR_JOHNTHANK_05 = ~z~Uh, thank you.
+

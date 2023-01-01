@@ -1,0 +1,368 @@
+0x004D5214 = Alert Scouts
+
+0x01611C2C = You have arrived at the hunting grounds. Search for the Buck nearby.
+
+0x056FA87E = You have arrived at the fishing spot. Select the Fishing Rod from the Satchel to start fishing.
+
+0x05E3C8A7 = GAMBLING
+
+0x0E9E729E = Loansharking
+
+0x1C93FB2D = Train Robbery Complete
+
+0x1D851F5B = HORSE BREAKING
+
+0x2B9E1EFE = Skin the Buck to finish hunting.
+
+0x2C6EF907 = FISHING
+
+0x3A2B5DD0 = Riverboat Robbery Complete
+
+0x4B6ED34D = Tap ~INPUT_PLAYER_MENU~ for Info
+
+0x4F819B7C = RUSTLING
+
+0x5AB7A741 = Hideout Complete
+
+0x5CBE9A01 = Bar Complete
+
+0x5E91F365 = play Poker
+
+0x5FE76BA5 = Go to the Saloon
+
+0x6BAAD2CE = General Robbery Complete
+
+0x6D056200 = LOANSHARKING
+
+0x6D815280 = BAR
+
+0x6E6CDF8E = Horse Breaking
+
+0x6FB94F33 = HUNTING
+
+0x7BA71434 = Riverboat Robbery
+
+0x7D8B1408 = KIDNAPPING
+
+0x7E7A2E41 = to the Saloon
+
+0x8F162E08 = Rustling Complete
+
+0x9C8FB69C = Horse Breaking Complete
+
+0x9C6470EB = Kidnapping
+
+0x9CE98BE4 = Coach Robbery
+
+0x23CFAFEE = Return To Camp Complete
+
+0x26C5BD21 = Respond to Scout
+
+0x39DC5792 = play Blackjack
+
+0x58F61A92 = Bank Robbery
+
+0x88FED71E = General Robbery
+
+0x194A3A71 = Bar
+
+0x237DE38F = Sadie invites Arthur to go hunting with him.
+
+0x608F5F9E = Focus Camera
+
+0x627EA3C1 = Question
+
+0x955A9F5F = Follow ~o~Javier~s~ to Chez Porter
+
+0x8536CB58 = Subdue
+
+0x9062DBB4 = Return to Javier
+
+0x70102E97 = Return To Camp
+
+0x2817166D = ROBBERY
+
+0x30045418 = Coach Robbery Complete
+
+0x78243670 = Intimidate
+
+0xA04573C5 = Grab
+
+0xA1EBA1B2 = Gambling
+
+0xA7C9919F = Fishing Complete
+
+0xA8BEF179 = ~a~: Thanks, Arthur - I wasn't sure when I'd find time to take care of that.
+
+0xAD117625 = Hideout
+
+0xADB557D3 = Gang morale has increased.
+
+0xAE43E348 = Wait for ~o~Javier~s~ to approach scouting spot
+
+0xB5E97701 = Hunting
+
+0xBECA28A3 = Gambling Complete
+
+0xBFFC0ACD = Gambling
+
+0xC51E4C92 = RETURN TO CAMP
+
+0xC680BFA2 = play Poker in the Camp
+
+0xC714502F = Hide the ~o~Patrolman's body~s~ near your companions
+
+0xC878077E = play Five Finger Fillet
+
+0xD4B44708 = Fishing
+
+0xD4D4E262 = TRAIN ROBBERY
+
+0xD6EC6FDF = Hide the Patrolman's body near your ~o~companions~s~
+
+0xD229FD07 = Loansharking Complete
+
+0xE4F09659 = Bank Robbery Complete
+
+0xE87F0B0D = Fishing
+
+0xEA14B2BA = Hunting
+
+0xEA67D28B = Kidnapping Complete
+
+0xEC70F656 = Rustling
+
+0xEEFBD9E6 = Hunting Complete
+
+0xF6825BC2 = STAGECOACH ROBBERY
+
+0xF834858C = HIDEOUT
+
+0xFA63CF13 = RIVERBOAT ROBBERY
+
+0xFABB07F3 = Mount your horse
+
+0xFB3D5474 = Train Robbery
+
+0xFB4C9065 = to Hideout
+
+0xFD82B56A = BANK ROBBERY
+
+ACT_ANY_LABEL = Any
+
+ACT_BANK_LABEL = Bank Robbery
+
+ACT_BANK_PROMPT = Rob a Bank
+
+ACT_BLACKJACK_LABEL = Blackjack
+
+ACT_BLACKJACK_PROMPT = Play Blackjack
+
+ACT_COACH_LABEL = Coach Robbery
+
+ACT_COACH_PROMPT = Rob a Stagecoach
+
+ACT_DOMINOES_CAMP_LABEL = Dominoes
+
+ACT_DOMINOES_PROMPT = Play Dominoes
+
+ACT_FFF_CAMP_LABEL = Five Finger Fillet
+
+ACT_FFF_CAMP_PROMPT = Play Five Finger Fillet
+
+ACT_FISHING_LABEL = Fishing
+
+ACT_FISHING_PROMPT = Go Fishing
+
+ACT_HIDEOUT_LABEL = Hideout
+
+ACT_HIDEOUT_PROMPT = Raid a Hideout
+
+ACT_HOMEROB_LABEL = Home Robbery
+
+ACT_HOMEROB_PROMPT = Rob a Homestead
+
+ACT_HUNTING_KILLED_TARGET = You've killed your target - skin it and take the spoils back to camp.
+
+ACT_HUNTING_LABEL = Hunting
+
+ACT_HUNTING_PROMPT = Go Hunting
+
+ACT_INVALID_PROMPT = Invalid Activity
+
+ACT_KIDNAPPING_LABEL = Kidnapping
+
+ACT_MISSION_LABEL = Mission Activity
+
+ACT_MISSION_PROMPT = Start Activity
+
+ACT_NONE_LABEL = No Activity
+
+ACT_POKER_CAMP_LABEL = Poker in Camp
+
+ACT_POKER_CAMP_PROMPT = Play Poker
+
+ACT_POKER_LABEL = Poker
+
+ACT_POKER_PROMPT = Play Poker in Town
+
+ACT_RETURN_LABEL = Return to Camp
+
+ACT_RETURN_PROMPT = Head back to Camp
+
+ACT_RUSTLING_LABEL = Rustling
+
+ACT_RUSTLING_PROMPT = Go Rustling
+
+ACT_SALOON_LABEL = Saloon
+
+ACT_TRAIN_LABEL = Train Robbery
+
+ACT_TRAIN_PROMPT = Rob a Train
+
+BR1_FAIL_ABNDBNK = You abandoned the bank.
+
+BR1_FAIL_ABNDCHR = You abandoned Charles.
+
+BR1_FAIL_ATKCMP = You attacked your companion.
+
+BR1_FAIL_DEADCHR = Charles has died.
+
+BR1_FAIL_DEADUNC = Uncle has died.
+
+BR1_FAIL_DEDPHRS = Your horse has died.
+
+BR1_FAIL_FRDWPN = You fired your weapon.
+
+BR1_FAIL_GEN = You failed.
+
+BR1_FAIL_INJPHRS = Your horse has been fatally injured.
+
+BR1_FAIL_LAWCMP = You led the Law to camp.
+
+BR1_FAIL_LAWWNT = You alerted the Law.
+
+BR1_FAIL_PTRL = You were spotted by the patrolman.
+
+BR1_FAIL_VLTTMT = You ran out of time to enter the vault.
+
+BR1_OBJ_DTNATE = ~o~Detonate~s~ the dynamite
+
+BR1_OBJ_ENTRVLT = Enter the ~o~vault~s~
+
+BR1_OBJ_ESCLAW = Escape the ~e~Law~s~
+
+BR1_OBJ_FOLLOW = Follow ~o~Charles~s~ to Rhodes
+
+BR1_OBJ_JOINCHR = Join ~o~Charles~s~ at the wall
+
+BR1_OBJ_LOOT = Loot the ~o~safes~s~
+
+BR1_OBJ_MOUNT = Mount your ~o~horse~s~
+
+BR1_OBJ_PATROL = Silently take out the ~e~Patrolman~s~
+
+BR1_OBJ_PKUPSPL = Pick up the ~o~fuse spool~s~
+
+BR1_OBJ_RNDZVS = Meet outside of ~o~Shady Belle~s~
+
+BR1_OBJ_RTRNBNK = Return to the ~o~bank~s~
+
+BR1_OBJ_RTRNCHR = Return to ~o~Charles~s~
+
+BR1_OBJ_RTRNGNG = Return to ~o~Charles~s~ and ~o~Uncle~s~
+
+BR1_OBJ_UNSPOOL = Attach the fuse to the ~o~detonator~s~
+
+BR1_OBJ_WAITCHR = Wait for ~o~Charles~s~
+
+BR1_TXT_BANK = Bank
+
+BR1_TXT_CAMP = Camp
+
+BR1_TXT_DETONTR = Detonator
+
+BR1_TXT_DTNATE = Detonate
+
+BR1_TXT_FUSESPL = Fuse spool
+
+BR1_TXT_OPEN = Open
+
+BR1_TXT_PICKUP = Pick up
+
+BR1_TXT_PLUNGER = Plunger
+
+BR1_TXT_PTRLMAN = Patrolman
+
+BR1_TXT_PULDOOR = Pull door
+
+BR1_TXT_SAFE = Safe
+
+BR1_TXT_SPOOL = Spool
+
+BR1_TXT_USE = Use
+
+BR1_TXT_VAULT = Vault
+
+CAJAV_HROB_OBJ_FOLLOW = Follow ~o~Javier~s~
+
+CAJAV_HROB_OBJ_MOUNT = Mount your ~o~horse~s~
+
+CAMP_REQUEST = Item Request
+
+CAMP_REQUEST_DETAIL = Log Updated
+
+H2_FL_ABND = You abandoned Charles.
+
+H2_FL_AGRC = You attacked Charles.
+
+H2_FL_DSPLT = You ruined the pelt.
+
+H2_FL_KCPH = Charles' horse was killed.
+
+H2_FL_KLDB = You killed too many bison.
+
+H2_FL_KPLH = Your horse was killed.
+
+H2_FL_WPL = You became wanted.
+
+H2_ILO_POACHER = Poacher
+
+H2_OBJ_FNDCMP = Scan the area for something of interest
+
+H2_OBJ_FOLLOW = Follow ~o~Charles~s~
+
+H2_OBJ_INT = Interrogate the ~o~poacher~s~
+
+H2_OBJ_KILLBUF = Bring down one ~o~bison~s~
+
+H2_OBJ_LOOT = Loot the ~o~Poacher's camp~s~
+
+H2_OBJ_MNTFLW = Mount your ~o~horse~s~
+
+H2_OBJ_RTABCP = Return to the abandoned ~o~camp site~s~
+
+H2_OBJ_RTBIS = Return to the ~o~bison~s~
+
+H2_OBJ_RTCHA = Return to ~o~Charles~s~
+
+H2_OBJ_RTP = Return to the ~o~poacher~s~
+
+H2_OBJ_RTPCP = Return to the ~o~Poacher's camp~s~
+
+H2_OBJ_SEARCH = Inspect the abandoned ~o~camp site~s~
+
+H2_OBJ_SKINBUF = Skin the downed ~o~bison~s~
+
+H2_OBJ_STWHID = Stow the bison hide on your ~o~horse~s~
+
+H2_UC_BEAT = Beat
+
+H2_UC_INTRRGT = Interrogate
+
+H2_UC_KILL = Choke
+
+H2_UC_RELEASE = Let go
+
+H2_UC_TITLE_CAMP_FIRE = Camp fire
+

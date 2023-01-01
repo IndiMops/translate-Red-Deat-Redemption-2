@@ -1,0 +1,24 @@
+NET_ALOOT_BLIP_AREA = Search Area
+
+NET_ALOOT_BLIP_CACHE = Treasure
+
+NET_ALOOT_HELP_CLOSED = The Treasure Map was closed. You can open the Treasure Map again while not on a mission.
+
+NET_ALOOT_HELP_EAGLE_EYE = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to enable Eagle Eye. Treasure chests will glow orange while Eagle Eye is active.
+
+NET_ALOOT_HELP_EAGLE_EYE_2_MPINTRO = Eagle Eye also highlights animal trails, plants, herbs and lootable items.
+
+NET_ALOOT_HELP_EAGLE_EYE_KM = Press ~INPUT_SPECIAL_ABILITY~ to enable Eagle Eye. Treasure chests will glow orange while Eagle Eye is active.
+
+NET_ALOOT_HELP_EAGLE_EYE_MPINTRO = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to enable Eagle Eye. Treasure chests will glow orange while Eagle Eye is active.
+
+NET_ALOOT_HELP_EAGLE_EYE_MPINTRO_KM = Press ~INPUT_SPECIAL_ABILITY~ to enable Eagle Eye. Treasure chests will glow orange while Eagle Eye is active.
+
+NET_ALOOT_HELP_OPEN = You've opened a Treasure Map. Search the area ~COLOR_MP_OBJECTIVE~~BLIP_MP_GAME_TREASURE_HUNT~~s~ for the treasure to claim your reward.
+
+NET_ALOOT_HELP_OPEN_FAIL = You cannot open a Treasure Map at this time.
+
+NET_ALOOT_HELP_OPEN_MPINTRO = You've opened a Treasure Map. Search the area ~COLOR_MP_OBJECTIVE~~BLIP_MP_GAME_TREASURE_HUNT~~s~ for the treasure to claim your reward.
+
+NET_ALOOT_HELP_PURCHASE = You've found a Treasure Map. Open the map to begin the search for the Treasure.
+

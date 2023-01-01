@@ -1,0 +1,72 @@
+DRCLE_AGREE_1 = ~z~~sl:0.0:3.2~Yeah? Good for you. They're over there on the far side~sl:~of the river. I'd hightail it if I was you.
+
+DRCLE_AMBUSH_01 = ~z~Holy shit!
+
+DRCLE_AMBUSH_02 = ~z~No! No more, for chrissakes.
+
+DRCLE_APPROACH_1 = ~z~~sl:0.0:1.5~Hey, outlaws on the cliff~sl:~other side of the river grabbed some folks.
+
+DRCLE_APPROACH_2 = ~z~Don't mean to bother you but... I just can't shake it.
+
+DRCLE_APPROACH_3 = ~z~~sl:0.0:2.3~I'd go back, but I'm just checking on my wagon~sl:~before I head on in another direction...
+
+DRCLE_ARRIVE_1 = ~z~Oh, thank you. They was gonna kill me, I know it.
+
+DRCLE_BEAR_1 = ~z~Goddamn bear! Oh, Jesus!
+
+DRCLE_CALLOUT_1 = ~z~You there? You with 'em? What's happening?
+
+DRCLE_CUTLOOSE_01 = ~z~~sl:0.0:2.8~Listen, you aim to end me, just do it then.~sl:0.2~I can't take this waiting.
+
+DRCLE_CUTLOOSE_02 = ~z~~sl:0.0:2.0:1~Please, just cut me loose.
+
+DRCLE_CUTLOOSE_03 = ~z~Come on... don't just watch me suffer.
+
+DRCLE_DECLINE_1 = ~z~~sl:0.0:2.9~Ah, well. Who owes anything to anyone, right?~sl:0.3~All the best to you anyway.
+
+DRCLE_ESCORT_1 = ~z~~sl:0.0:1.8~Think you could take me to Valentine?~sl:~I should tell the sheriff, I think.
+
+DRCLE_HOGTIED_01 = ~z~~sl:0.8:4.2:1~What is this, huh? This is a damn game to you?
+
+DRCLE_HOGTIED_02 = ~z~Whatever you're after, just do it already...
+
+DRCLE_HOGTIED_03 = ~z~~sl:0.0:2.0~Kill me or do what you're gonna.~sl:0.0:1.4:1~Or free me, you bastards.
+
+DRCLE_HURRY_1 = ~z~I mean it. You don't want to rescue a corpse.
+
+DRCLE_IDLE_01 = ~z~Go on if you're going.
+
+DRCLE_IDLE_02 = ~z~There ain't time to wait around on this.
+
+DRCLE_IDLE_03 = ~z~Come on. Don't back out on me now.
+
+DRCLE_NEAR_1 = ~z~We're close.
+
+DRCLE_POSSEDIE_01 = ~z~~sl:0.0:1.9:1~Oh, God, this is bad...
+
+DRCLE_POSSEDIE_02 = ~z~Oh shit, no... I think that one's dead.
+
+DRCLE_REWARD_1 = ~z~Hey... take this. Least I can do.
+
+DRCLE_SPOT1_1 = ~z~Hey, you there!
+
+DRCLE_SPOT2_01 = ~z~Hey, c'mere.
+
+DRCLE_SPOT2_02 = ~z~You hear me over there?
+
+DRCLE_SPOT2_03 = ~z~You got a minute?
+
+DRCLE_SURVIVE_01 = ~z~~sl:0.3:1.1~Who was they?~sl:0.5~Why's everyone trying to kill me?
+
+DRCLE_SURVIVE_02 = ~z~I swear, I got the worst luck of any woman I know.
+
+DRCLE_THANKS_1 = ~z~Where did you come from?
+
+DRCLE_THANKS_2 = ~z~~sl:0.0:2.6~Those animals... didn't know if they was gonna~sl:~toss me from the edge or skin me alive,
+
+DRCLE_THANKS_3 = ~z~~sl:0.0:3.0~but... whatever it was they was gonna do,~sl:0.1~you saved me from it...
+
+DRCLE_WAIT_01 = ~z~Think you could help 'em out?
+
+DRCLE_WAIT_02 = ~z~Ain't none of our business, but... don't sit right.
+

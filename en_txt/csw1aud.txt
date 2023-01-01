@@ -1,0 +1,4 @@
+CCSW1_CNV01_1 = ~z~Get up! You damn fool.
+
+CCSW1_CNV01_2 = ~z~~sl:1.0:1.4~It's simply not the case, sir.~sl:0.1~It's not the case at all.
+

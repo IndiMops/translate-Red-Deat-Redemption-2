@@ -1,0 +1,300 @@
+0x00AE668B = ~z~Dammit. This shop is all I got.
+
+0x00D26FB9 = ~z~This town gets worse every day.
+
+0x05812FC9 = ~z~You trying to get me riled up?
+
+0x07192C49 = ~z~I'll put a hole between them eyes of yours.
+
+0x08207003 = ~z~You think the way you been acting is alright? 'Cause I sure as hell don't...
+
+0x08ABF4A8 = ~z~Listen, leave me be.
+
+0x0A05210A = ~z~Please. I have a wife and kids.
+
+0x0B211158 = ~z~I reckon you did this, didn't you?
+
+0x0C4E64AE = ~z~Your mama raised a piece of shit.
+
+0x0E05BC05 = ~z~Not too fond of that stinky breath of yours. Back up.
+
+0x0E930B3E = ~z~I get robbed one more time, I swear...
+
+0x1C7FFFB1 = ~z~You should know better than start up with me.
+
+0x1DAFA977 = ~z~This damn place.
+
+0x1DC030E2 = ~z~Alright. Grab what you want out of the register.
+
+0x1E8CF48B = ~z~I'll forgive, I may not forget. Just behave.
+
+0x2A06C225 = ~z~I get robbed one more time, I swear.
+
+0x2D1CCF9B = ~z~It's in the register, take what you want.
+
+0x2E27BFA7 = ~z~Leave me the hell alone.
+
+0x2ECA320A = ~z~Don't be fresh, we said hello.
+
+0x3AD81C60 = ~z~Fine. Here, damn it.
+
+0x3AE16B24 = ~z~Alright, grab what you want out of the register.
+
+0x3C5AB87F = ~z~Good to have a local in here. Tired of these damned tourists expecting discounts.
+
+0x3D6CF5EF = ~z~You the one that caused all this?
+
+0x4D031A2E = ~z~Please, don't.
+
+0x4E985CFA = ~z~I'll knock some off the price since you're from around here.
+
+0x6AF67ABC = ~z~That ain't no way to act.
+
+0x6D9FF3F5 = ~z~Thank you, go check out the room and let me know if you need anything.
+
+0x6EAFD91A = ~z~You ain't getting away with that.
+
+0x6F466BDA = ~z~I'm doing what you asked. Easy.
+
+0x7B4443AE = ~z~Oh no, you are tangling with the wrong man.
+
+0x8BF68005 = ~z~You are really looking for a whupping, ain't ya?
+
+0x8D7AEA5D = ~z~Enough, law's getting involved here.
+
+0x8FC4BB47 = ~z~I'm not putting up with this. Enough of you.
+
+0x9B2B0DE9 = ~z~Excellent, have a good soak.
+
+0x9C220FDB = ~z~Yep, hot bath never hurt anyone.
+
+0x9E382488 = ~z~You like to get all kicked to pieces, huh?
+
+0x9F924B49 = ~z~Stop it.
+
+0x19FC1A1E = ~z~I'll give you all the money you want, keep calm.
+
+0x24AE4C25 = ~z~Hey, stop troubling people.
+
+0x27D25A5B = ~z~Here's your money, damn coward.
+
+0x28B91D83 = ~z~You lowdown, thieving snake.
+
+0x30E7831E = ~z~You not hear me? I said quit.
+
+0x39EBD4CC = ~z~Not one of your brighter ideas, holding up a gun shop.
+
+0x40EE8910 = ~z~Damn it, you get away from me.
+
+0x44F2911C = ~z~Go. Go away.
+
+0x47B67061 = ~z~This is possibly the dumbest place you could hold up.
+
+0x49A33923 = ~z~You're a damn thief.
+
+0x51A16E3E = ~z~I'm being robbed.
+
+0x52D52872 = ~z~You leave them folk alone.
+
+0x52FE4AC2 = ~z~I'm the wrong man to be mouthing off to.
+
+0x54D8C830 = ~z~Your eyes seem to be bugging out of your head.
+
+0x56C16A96 = ~z~Don't think you've been in here before, have ya?
+
+0x61CC1300 = ~z~That's it, I ain't standing by for this.
+
+0x67F26D76 = ~z~Damn, you look a far sight better...
+
+0x73C50D5E = ~z~We'll see about this.
+
+0x74C14332 = ~z~Man selling guns never goes hungry in this country.
+
+0x77F63B48 = ~z~Well sure.
+
+0x82C5EAB4 = ~z~Dammit, you do this I don't eat.
+
+0x84E660B6 = ~z~You're a damn waste of time.
+
+0x96B1DAC2 = ~z~You following me into a hell of a lot of trouble.
+
+0x97A89CCB = ~z~Well? Are you going to take the money or not?
+
+0x97FE56AB = ~z~Just take this, it's all I got.
+
+0x120BAECE = ~z~Here's your money. Damn coward.
+
+0x256E68F3 = ~z~I got enough firepower to blow your head clean off.
+
+0x287F8E13 = ~z~Ain't seen you round here.
+
+0x289D3760 = ~z~Don't do anything foolish. I'll open this up.
+
+0x356FD105 = ~z~Whoa, whoa. I'll give you whatever you want.
+
+0x411CCD35 = ~z~Help. I'm being held up.
+
+0x467EAE4C = ~z~I told you once already, stop it.
+
+0x481E059D = ~z~It's in the register. Take what you want.
+
+0x483C1E8A = ~z~You best get the hell out of here.
+
+0x509F70A3 = ~z~Law gonna deal with this.
+
+0x511C3AEE = ~z~Alright, head over, should be ready.
+
+0x561CC9CB = ~z~Whoooo, that just washed a few years right off ya.
+
+0x576AFAE6 = ~z~Damn coward. Rot in hell.
+
+0x590B2BD5 = ~z~Law won't hear nothing out of me.
+
+0x613C673E = ~z~Don't you start something you can't finish off.
+
+0x707F6BB8 = ~z~You proud of making a living this way?
+
+0x735FDC20 = ~z~There's the register. Take it.
+
+0x756C8D0D = ~z~Howdy.
+
+0x842C6819 = ~z~I don't cotton to the way you been acting around here.
+
+0x918EFEFF = ~z~Don't shoot me. You can have the money.
+
+0x1572C8FC = ~z~Do you want me to blow your head open?
+
+0x1635FE18 = ~z~You addleheaded? Move now.
+
+0x2095B564 = ~z~Watch it now.
+
+0x6103CF55 = ~z~Dammit, I'm getting it.
+
+0x6751C862 = ~z~Fine, I ain't telling a soul.
+
+0x7232BB4F = ~z~You've taken enough of my time.
+
+0x7422B7AD = ~z~Someone's going to jail for this.
+
+0x9739D447 = ~z~You're going to jail for this.
+
+0x54840E31 = ~z~Dammit. You do this, I don't eat.
+
+0x85662D00 = ~z~Hi, looking for a weapon?
+
+0x126477CA = ~z~Word around town is the law been after ya. I don't want no trouble.
+
+0x169191B7 = ~z~Oh, you're a prankster, huh. Get out.
+
+0x281274EB = ~z~You got some chip on your shoulder?
+
+0x2853353A = ~z~This ain't a damn joke. Get out.
+
+0x5055853E = ~z~Oh, you're a prankster, huh? Get out.
+
+0x7387446B = ~z~Whoa. Dumb idea. Put the gun away.
+
+0x17410571 = ~z~I'm going to ignore you.
+
+0x21809777 = ~z~Yeah, we made acquaintance enough already.
+
+0x41108360 = ~z~Hey, you can't be here.
+
+0x59273272 = ~z~Come on, stop.
+
+0xA00DCD15 = ~z~Come on. Take what you want, don't kill me.
+
+0xA9C6CF47 = ~z~You're gonna pay for doing that.
+
+0xA68BF3C6 = ~z~Shit, alright. Take it, will you?
+
+0xA881A896 = ~z~We'll get that all ready for you, just make your way over.
+
+0xAA42F6B9 = ~z~Welcome, come in.
+
+0xAB214A79 = ~z~Mind yourself.
+
+0xAB49135C = ~z~I ain't giving you a thing.
+
+0xADB048D9 = ~z~It ain't been good. Hell with Tumbleweed.
+
+0xB08D4932 = ~z~How 'bout I beat the tar out of you?
+
+0xB4CA17C2 = ~z~You're all done, get a move on.
+
+0xB8BE28FB = ~z~You acted a damn fool before, but we can look past it.
+
+0xB631FAE1 = ~z~Back, are ya?
+
+0xB669D26D = ~z~You cut it out. Leave 'em alone.
+
+0xB859BDD8 = ~z~Hey, you really want to scrap with the gunsmith?
+
+0xBAFD8528 = ~z~Stop that nonsense.
+
+0xBD47EEC6 = ~z~Look out.
+
+0xC4B825E6 = ~z~You think I'll just lay down?
+
+0xC6D258FF = ~z~Alright then.
+
+0xC7CC9E16 = ~z~Hello again.
+
+0xC87E7696 = ~z~Don't you dare touch 'em.
+
+0xC287B33D = ~z~I don't have the patience for this, you should leave.
+
+0xC7246AE9 = ~z~We done here? How bout you leave.
+
+0xC7299CC3 = ~z~Get out before I drag your carcass out.
+
+0xCA7B95B8 = ~z~Hey, what the hell do you want here?
+
+0xCC91069E = ~z~Bad. Then to worse. Then back to bad.
+
+0xCE01282A = ~z~What do you want?
+
+0xDA33A1E3 = ~z~People are dead broke these days.
+
+0xDB9F5B5A = ~z~You're a thief, so don't try shit in here.
+
+0xDCFB6824 = ~z~That's it, you gotta go.
+
+0xDD87F7D9 = ~z~Oh no, you're getting nothing.
+
+0xE04F93A1 = ~z~Sheriff told me you been in some trouble. Don't bring it here.
+
+0xE7A8DC4E = ~z~No. Not here. Don't do me in.
+
+0xE40DAB6C = ~z~I don't have to take this from you.
+
+0xE50F0248 = ~z~I ought to have shot you dead.
+
+0xE57C66B5 = ~z~Actually, I've had second thoughts.
+
+0xE82FAA09 = ~z~Making enough, what are you, the tax man?
+
+0xEC07B562 = ~z~Hey, I ain't a man to aim no damn gun at.
+
+0xECCAB63D = ~z~Are you finished? Get out of here.
+
+0xEE1E78B2 = ~z~Nobody robs from me.
+
+0xEE83C236 = ~z~I'll have to shut my doors if you do this.
+
+0xEF5BA9B0 = ~z~Help. It's a hold up.
+
+0xF5D8FADE = ~z~Quit carrying on.
+
+0xFA78C103 = ~z~You low down thieving snake.
+
+0xFA794E9C = ~z~Shop's been busy. Don't get nosy.
+
+0xFC5818AA = ~z~The hell are you in my face for?
+
+0xFC458342 = ~z~Stealing from honest men. Disgusting.
+
+0xFDC49440 = ~z~Alright, you're all set. Go on over.
+
+0xFF5DFEF9 = ~z~Don't bring your violent ways back in my shop... I won't put up with it.
+

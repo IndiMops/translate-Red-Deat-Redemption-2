@@ -1,0 +1,24 @@
+CCHR4_ACTION_A_1 = ~z~How's the hand, Mr. Smith?
+
+CCHR4_ACTION_A_2 = ~z~It's much better, thank you.
+
+CCHR4_ACTION_A_3 = ~z~Glad to be out of that cold!
+
+CCHR4_ACTION_A_4 = ~z~Yeah.
+
+CCHR4_ACTION_A_5 = ~z~But we still need feeding.
+
+CCHR4_ACTION_A_6 = ~z~Should be easy enough around here.
+
+CCHR4_ACTION_A_7 = ~z~Yeah, but you know how lazy folk get.
+
+CCHR4_ACTION_A_8 = ~z~Me?
+
+CCHR4_ACTION_A_9 = ~z~No, not you, just some people.
+
+CCHR4_ACTION_A_10 = ~z~Well, that's their business. I'll do my share.
+
+CCHR4_ACT_B_DIR_1 = ~z~Will you help feed us, Arthur?
+
+CCHR4_ACT_B_DIR_2 = ~z~Maybe.
+

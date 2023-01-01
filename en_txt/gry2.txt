@@ -1,0 +1,106 @@
+0x7F76E190 = Braithwaite Guard
+
+0x47AC2CF2 = To lead the horse, equip your lasso and aim at the horse with ~INPUT_AIM~ + ~INPUTGROUP_LOOK~ then press ~INPUT_ATTACK~ to hurl your lasso.
+
+0xD80E80F7 = The horses were left behind.
+
+GRY2_ALERT_FAIL = The Braithwaites were alerted.
+
+GRY2_BLIPH = Horse
+
+GRY2_BLIPR = Rustler
+
+GRY2_BLIPS = Stablehand
+
+GRY2_CALIGA_A = You attacked the Grays.
+
+GRY2_CALIGA_F = The Grays were alerted.
+
+GRY2_CONTCT = You attacked the buyer.
+
+GRY2_DESERT = Your companions were abandoned.
+
+GRY2_HORSE_FAIL = A horse has died.
+
+GRY2_HORSE_HURT = A horse was injured.
+
+GRY2_JAHRS_FAIL = Javier's horse died.
+
+GRY2_JAV_FAIL = Javier has died.
+
+GRY2_JOHN_FAIL = John has died.
+
+GRY2_JOHRS_FAIL = John's horse died.
+
+GRY2_LED_H = Hold ~INPUT_INTERACT_LOCKON~ then press ~INPUT_CONTEXT_Y~ when near the horse to lead it.
+
+GRY2_LOIT_FAIL = You took too long to steal the horses.
+
+GRY2_LSE_F = You lost a horse.
+
+GRY2_LSE_W = The ~o~horse~s~ is escaping
+
+GRY2_OBJ00 = Meet John and Javier at the ~o~stables~s~
+
+GRY2_OBJ01 = Return to ~o~John~s~
+
+GRY2_OBJ01A = Follow ~o~John~s~
+
+GRY2_OBJ02 = Take your horse to the ~o~stables~s~
+
+GRY2_OBJ02A = Approach the ~o~stablehand~s~
+
+GRY2_OBJ02B = ~o~Hitch~s~ your horse
+
+GRY2_OBJ02C = Dismount the horse
+
+GRY2_OBJ02D = Mount your ~o~horse~s~
+
+GRY2_OBJ02E = Follow the ~o~stablehand~s~
+
+GRY2_OBJ03 = Take out the ~e~stablehand~s~ quietly
+
+GRY2_OBJ04A = Put on a disguise
+
+GRY2_OBJ04B = Approach the ~o~horse~s~
+
+GRY2_OBJ04C = Lead the ~o~horse~s~
+
+GRY2_OBJ04D = Follow ~o~John~s~ with the horse
+
+GRY2_OBJ04E = Calm the ~o~horse~s~
+
+GRY2_OBJ05 = Escort ~o~Javier~s~ and the horses
+
+GRY2_OBJ05B = Follow ~o~Javier~s~
+
+GRY2_OBJ06A = Follow ~o~Javier~s~
+
+GRY2_OBJ07 = Talk to the ~o~guard~s~
+
+GRY2_OBJ7 = Return to the ~o~stables~s~
+
+GRY2_OBJ8 = Return to ~o~Javier~s~
+
+GRY2_OBJ9 = Take out the remaining ~e~pursuers~s~
+
+GRY2_OBJ9A = Take out the remaining ~e~pursuer~s~
+
+GRY2_OBJ10 = Meet the gang at ~o~Clemens Cove~s~
+
+GRY2_OBJ13 = Catch up with ~o~Javier~s~
+
+GRY2_OBJ14 = Lasso the ~o~stallion~s~
+
+GRY2_OBJ15 = Approach the ~o~rustler~s~
+
+GRY2_OBJ16 = Wait for the others
+
+GRY2_OBJ_RC = Return to ~o~Caliga Hall~s~
+
+GRY2_RHODES_F = You caused a disturbance in Rhodes.
+
+GRY2_TAVISH_F = You attacked Tavish.
+
+GRY2_UC_EQPBDA = Equip bandana
+

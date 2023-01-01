@@ -1,0 +1,272 @@
+CABR1_BANK_IDLE_01 = ~z~What's taking so long?
+
+CABR1_BANK_IDLE_02 = ~z~Hurry up, Arthur.
+
+CABR1_BANK_IDLE_03 = ~z~We need to get that connected, quick.
+
+CABR1_CAMP_IDLE_01 = ~z~Mount up. We're wasting time.
+
+CABR1_CAMP_IDLE_02 = ~z~Come on, Arthur.
+
+CABR1_CAMP_IDLE_03 = ~z~Let's get going.
+
+CABR1_CHAT1SHOUTED_3 = ~z~~sl:0.0:2.8~Of course I have.~rp~ What about that one up near Canada~sl:~with you and Bill a couple of years ago?
+
+CABR1_CHAT1SPOKEN_3 = ~z~~sl:0.0:3.4~Of course I have.~rp~ What about that one up near Canada~sl:~with you and Bill a couple of years ago?
+
+CABR1_CHAT1_1 = ~z~Been a while since I robbed a bank.~rp~ I'm looking forward to this.
+
+CABR1_CHAT1_2 = ~z~Have you ever robbed a bank?
+
+CABR1_CHAT1_4 = ~z~You was the lookout,~rp~ and not a very good one if I remember right.
+
+CABR1_CHAT1_5 = ~z~Can you believe this, Charles?
+
+CABR1_CHAT1_6 = ~z~I'm staying out of it.
+
+CABR1_CHAT1_7 = ~z~Try not to get us trapped in a burning barn this time, Uncle.
+
+CABR1_CHAT1_8 = ~z~And you try not kill half the town over some imaginary gold.
+
+CABR1_CHAT1_9 = ~z~~sl:1.0~He has a point there.
+
+CABR1_CHAT2SHOUTED_1 = ~z~How about that?~rp~ A work of art!
+
+CABR1_CHAT2SHOUTED_2 = ~z~~sl:0.8:2.6~You boys should bring me along more often,~sl:~maybe things'd go a little smoother.
+
+CABR1_CHAT2SHOUTED_3 = ~z~'Cause there's no substitute for experience.
+
+CABR1_CHAT2SHOUTED_7 = ~z~~sl:0.0:0.9~You know, Smith.~lr:~I feel like me and you gonna be fast friends one day.
+
+CABR1_CHAT2SHOUTED_8 = ~z~~sl:0.0:2.7~I'm an acquired taste, on account of my complexity,~lr:0.0:2.8:1~but everyone learns to love me in the end.
+
+CABR1_CHAT2SHOUTED_9 = ~z~I'll take your word for it.
+
+CABR1_CHAT2SPOKEN_1 = ~z~H-how about that?~rp~ A work of art!
+
+CABR1_CHAT2SPOKEN_2 = ~z~~sl:0.0:2.1~You boys should bring me along more often,~sl:~maybe things'd go a little smoother.
+
+CABR1_CHAT2SPOKEN_3 = ~z~There's no substitute for experience.
+
+CABR1_CHAT2SPOKEN_7 = ~z~~sl:0.0:0.9~You know, Smith.~lr:~I feel like me and you are gonna be fast friends one day.
+
+CABR1_CHAT2SPOKEN_8 = ~z~~sl:0.0:3.0~I'm an acquired taste, on account of my complexity,~lr:0.2~but everyone learns to love me in the end.
+
+CABR1_CHAT2SPOKEN_9 = ~z~Uh huh. I'll take your word for it.
+
+CABR1_CHAT2_4 = ~z~That's why we don't bring you. The lack of experience.
+
+CABR1_CHAT2_5 = ~z~Hey, come on!
+
+CABR1_CHAT2_6 = ~z~I wouldn't start celebrating just yet.
+
+CABR1_CLEAR_1 = ~z~All clear...
+
+CABR1_CLEAR_2 = ~z~Good work, Arthur...
+
+CABR1_CLEAR_3 = ~z~Follow me.
+
+CABR1_CUT_1 = ~z~Let's cut through here.
+
+CABR1_DETO_IDLE_01 = ~z~What are you waiting for?
+
+CABR1_DETO_IDLE_02 = ~z~Go on.
+
+CABR1_DETO_IDLE_03 = ~z~Now, Arthur.
+
+CABR1_DETO_TMOT_1 = ~z~Fine, I'll do it then.
+
+CABR1_END_1 = ~z~See you later, Arthur. Good work.
+
+CABR1_ESC_BEGIN_1 = ~z~Let's get out of here! Follow me.
+
+CABR1_ESC_CLEAR_1 = ~z~Alright... Looks like the coast is clear...
+
+CABR1_ESC_CLEAR_2 = ~z~~sl:0.0:1.2~Let's keep riding...~sl:0.4~head for camp, but make sure there's no one tailing us.
+
+CABR1_ESC_CONT_01 = ~z~We need to lose them!
+
+CABR1_ESC_CONT_02 = ~z~They're gaining on us!
+
+CABR1_ESC_CONT_03 = ~z~Get rid of them, Arthur!
+
+CABR1_HOLD_UP_1 = ~z~Hey, hold up a moment, fellers...
+
+CABR1_IG3_1 = ~z~Unspool that wire to about thirty feet away.
+
+CABR1_IG3_2 = ~z~Sure.
+
+CABR1_IG3_3 = ~z~Thanks, this won't take long.
+
+CABR1_IG4_DET_1 = ~z~Okay... I think we're all good...
+
+CABR1_IG4_DET_2 = ~z~Ready when you are...
+
+CABR1_IG4_DET_3 = ~z~Push the stick, Arthur.
+
+CABR1_IG4_LOOT_1 = ~z~Let's see what we got in here, check those other vaults.
+
+CABR1_IG4_LOOT_2 = ~z~Yes, hurry up, we ain't got long.
+
+CABR1_SPOOLPICK_1 = ~z~Grab that spool, Arthur...
+
+CABR1_TREESSHOUTED_1 = ~z~~sl:0.0:3.5~Probably best we approach the bank from the back.~sl:0.3~Don't need nobody recognizing us.
+
+CABR1_TREESSPOKEN_1 = ~z~~sl:0.0:3.2~Probably best we approach the bank from the back.~sl:0.2~Don't need nobody recognizing us.
+
+CABR1_TREES_2 = ~z~I agree. It's this way.
+
+CABR1_UNSPOOL_1 = ~z~Lead that fuse over to the detonator.
+
+CABR1_VAULT_DMG_1 = ~z~~sl:0.4:1.3~The safes look damaged.~sl:~I reckon we should be able to pry them open.
+
+CABR1_VAULT_GO_1 = ~z~Let's move!
+
+CABR1_VAULT_GO_2 = ~z~Make it quick! Law will be here soon.
+
+CABR1_VAULT_IDL_01 = ~z~Come on, get in the vault!
+
+CABR1_VAULT_IDL_02 = ~z~Arthur, you go first!
+
+CABR1_VAULT_IDL_03 = ~z~Hurry up, Arthur!
+
+CABR1_VAULT_IDL_04 = ~z~Get in there, come on.
+
+CABR1_VAULT_IDL_05 = ~z~Arthur! What are you doing?
+
+CABR1_VAULT_TO_1 = ~z~Shit, the law's here!
+
+CABR1_VAULT_TO_2 = ~z~Dammit, Arthur! We have to go!
+
+CABR1_WHERE_1 = ~z~Arthur! Where are you going?
+
+CABR_EXT_1 = ~z~See, easy.
+
+CABR_EXT_2 = ~z~Real easy.
+
+CABR_EXT_3 = ~z~How'd we do?
+
+CABR_EXT_4 = ~z~We did okay, I think.
+
+CABR_EXT_5 = ~z~Here...
+
+CABR_EXT_6 = ~z~and thank you boys, that was fun.
+
+CABR_EXT_7 = ~z~Now don't forget to give the camp its share, Uncle.
+
+CABR_EXT_8 = ~z~Oh, as if I would.
+
+CABR_EXT_9 = ~z~As if...
+
+CABR_EXT_10 = ~z~Now... split up, both of you...
+
+CABR_EXT_11 = ~z~let's get moving.
+
+CABR_INT_1 = ~z~You busy?
+
+CABR_INT_2 = ~z~No, why?
+
+CABR_INT_3 = ~z~Feller sold me these plans.
+
+CABR_INT_4 = ~z~Oh, what you gotta ask him for, Charles?
+
+CABR_INT_5 = ~z~Me?
+
+CABR_INT_6 = ~z~He's just gonna make a big drama out of it...
+
+CABR_INT_7 = ~z~you know he will.
+
+CABR_INT_8 = ~z~Drama out of what?
+
+CABR_INT_9 = ~z~Only the easiest little bank score ever got taken.
+
+CABR_INT_10 = ~z~Why? I don't like robbing banks now?
+
+CABR_INT_11 = ~z~You like complaining and whining.
+
+CABR_INT_12 = ~z~We never robbed that bank in Rhodes.
+
+CABR_INT_13 = ~z~Arthur's good, he's the best man we've got...
+
+CABR_INT_14 = ~z~and this is easy.
+
+CABR_INT_15 = ~z~But, he complains a lot.
+
+CABR_INT_16 = ~z~What is it?
+
+CABR_INT_17 = ~z~Turns out there's a big weakness in the building.
+
+CABR_INT_18 = ~z~They replaced a window to improve security...
+
+CABR_INT_19 = ~z~but the bricks are real weak.
+
+CABR_INT_20 = ~z~So?
+
+CABR_INT_21 = ~z~The vault's right behind.
+
+CABR_INT_22 = ~z~Feller sold me the plans, told me all about it.
+
+CABR_INT_23 = ~z~It's an open secret in town...
+
+CABR_INT_24 = ~z~due to be fixed any day, apparently.
+
+CABR_INT_25 = ~z~And we got enough explosives?
+
+CABR_INT_26 = ~z~I think so.
+
+CABR_INT_27 = ~z~Well then, what're we waiting for?
+
+CABR_INT_28 = ~z~Come on.
+
+CABR_INT_29 = ~z~Well just, no whining there, Arthur Morgan.
+
+CABR_INT_30 = ~z~Shut up, or I'll make you whine.
+
+CABR_INT_31 = ~z~Gimme this.
+
+CABR_INT_LI_1 = ~z~Charles.
+
+CABR_INT_LI_CO_1 = ~z~Arthur.
+
+CABR_MCS1_1 = ~z~There's the bank, just there.
+
+CABR_MCS1_2 = ~z~I see it.
+
+CABR_MCS1_3 = ~z~Here, this way.
+
+CABR_MCS1_4 = ~z~Let's rest here till dark.
+
+CABR_MCS1_5 = ~z~This is my kind of bank robbery.
+
+CABR_MCS1_6 = ~z~It's time, let's go.
+
+CABR_MCS1_7 = ~z~Alright.
+
+CABR_MCS1_8 = ~z~Wake up, beautiful.
+
+CABR_MCS1_9 = ~z~What, already?
+
+CABR_MCS1_10 = ~z~Yes, come on.
+
+CABR_MCS1_11 = ~z~Alright...
+
+CABR_MCS1_12 = ~z~let's see what's going on.
+
+CABR_MCS1_13 = ~z~That boy over there...
+
+CABR_MCS1_14 = ~z~he's a guard, for sure.
+
+CABR_MCS1_15 = ~z~Well, I'll go deal with him.
+
+CABR_MCS1_16 = ~z~Silently, please.
+
+CABR_MCS1_17 = ~z~Of course.
+
+CABR_MCS2_1 = ~z~Let's go gentlemen, and quick.
+
+CABR_MCS2_2 = ~z~Coming.
+
+CABR_MCS2_3 = ~z~Let's go.
+
+PTRL_ALERT_1 = ~z~Hey, hold it right there!
+

@@ -1,0 +1,18 @@
+CBLL7_ACTA_1 = ~z~
+
+CBLL7_ACTA_2 = ~z~Я знал, что у тебя кишка тонка, краснокожий!
+
+CBLL7_ACTA_3 = ~z~Неужели?
+
+CBLL7_ACTA_4 = ~z~Конечно.
+
+CBLL7_ACTA_5 = ~z~
+
+CBLL7_ACTA_6 = ~z~
+
+CBLL7_ACTBALT_1 = ~z~~sl:0.0:2.3:1~А ты лучше молчи, Морган!
+
+CBLL7_ACTBALT_2 = ~z~
+
+CBLL7_ACTB_1 = ~z~
+

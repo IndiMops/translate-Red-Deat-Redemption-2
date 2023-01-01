@@ -1,0 +1,34 @@
+CCJN5_ACTAINT_1 = ~z~You think we're doomed?
+
+CCJN5_ACTAINT_2 = ~z~We're all doomed,  just a question of when.
+
+CCJN5_ACTAINT_3 = ~z~Thanks for your words of encouragment.
+
+CCJN5_ACTA_1 = ~z~How you feeling?
+
+CCJN5_ACTA_2 = ~z~Better... nearly fine, but...
+
+CCJN5_ACTA_3 = ~z~not quite, you know?
+
+CCJN5_ACTA_4 = ~z~Course I know... just give it a few more days... I know it's boring.
+
+CCJN5_ACTA_5 = ~z~Been a tough few weeks.
+
+CCJN5_ACTA_6 = ~z~Awful... but we've been through this before.
+
+CCJN5_ACTA_7 = ~z~Like this?
+
+CCJN5_ACTA_8 = ~z~No, not quite like this...
+
+CCJN5_ACTA_9 = ~z~Government agents, bounty hunters, traps, massive prices on our heads...
+
+CCJN5_ACTB_1 = ~z~It ain't good, but if we keep hidden, it'll pass.
+
+CCJN5_ACTB_2 = ~z~Still a big country.
+
+CCJN5_ACTB_3 = ~z~Don't quite feel so big no more.
+
+CCJN5_ACTB_4 = ~z~That's the modern world... I think I liked the old ways better.
+
+CCJN5_ACTB_5 = ~z~Me too...
+

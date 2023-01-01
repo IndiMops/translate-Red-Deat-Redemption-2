@@ -1,0 +1,1276 @@
+FIN2_1V1_CHAT1A_1 = ~z~Run while you can, John, it's your only hope.
+
+FIN2_1V1_CHAT1A_2 = ~z~I'm just fine here.
+
+FIN2_1V1_CHAT1B_1 = ~z~I woudn't back-shoot you, go!
+
+FIN2_1V1_CHAT1B_2 = ~z~You won't front-shoot me neither.
+
+FIN2_1V1_CHAT1C_1 = ~z~You never was the strongest, John.
+
+FIN2_1V1_CHAT1C_2 = ~z~Yeah? But I'm the only one left.
+
+FIN2_1V1_CHAT2A_1 = ~z~You're a thief, ain't ya? Come... come and take the money.
+
+FIN2_1V1_CHAT2A_2 = ~z~I will. Just you watch me.
+
+FIN2_1V1_CHAT2B_1 = ~z~Cold hard cash, Marston. I know you ain't perfect... you ain't changed.
+
+FIN2_1V1_CHAT2B_2 = ~z~I ain't perfect... that's why I'm here.
+
+FIN2_1V1_CHAT2C_1 = ~z~~sl:0.0:4.0~All that cash... all them jobs...~sl:1.5~it's yours if you want it.
+
+FIN2_1V1_CHAT2C_2 = ~z~I want it... and something else besides.
+
+FIN2_1V1_MICAH_01 = ~z~You're gonna die, Marston.
+
+FIN2_1V1_MICAH_02 = ~z~If you're staying, you're dying.
+
+FIN2_1V1_MICAH_03 = ~z~Weak and stupid. That's you.
+
+FIN2_1V1_NMONEY_1 = ~z~Arthur could have had this cash... it's yours now.
+
+FIN2_1V1_NMONEY_2 = ~z~~sl:0.0:1.9~Yeah, he coulda...~sl:0.5:3.3~but he knew some things was worth more than money, Micah.~sl:0.1~Same as me.
+
+FIN2_1V1_PINNED_01 = ~z~Almost got you there!
+
+FIN2_1V1_PINNED_02 = ~z~So close!
+
+FIN2_1V1_PINNED_03 = ~z~You're slipping, John!
+
+FIN2_1V1_PINNED_04 = ~z~Thought I had ya!
+
+FIN2_1V1_PINNED_05 = ~z~You gotta be quick!
+
+FIN2_1V1_PINNED_06 = ~z~Try that again, won't ya.
+
+FIN2_1V1_PINNED_07 = ~z~Did I get ya? Almost...
+
+FIN2_1V1_REACT_01 = ~z~Dammit!
+
+FIN2_1V1_REACT_02 = ~z~
+
+FIN2_1V1_REACT_03 = ~z~Scarface!
+
+FIN2_1V1_REACT_04 = ~z~Oh, Johnny!
+
+FIN2_1V1_REACT_05 = ~z~Not this time...
+
+FIN2_1V1_REACT_06 = ~z~John!
+
+FIN2_1V1_YMONEY_1 = ~z~Arthur wanted the cash... you ain't any better than him, I know it.
+
+FIN2_1V1_YMONEY_2 = ~z~You don't know nothing.
+
+FIN2_ARRIVESTR_1 = ~z~Okay. Strawberry. This is it.
+
+FIN2_ARRIVESTR_2 = ~z~We leave our horses by the bridge, then we find him.
+
+FIN2_ATHAGEN_1 = ~z~We all ready? This pass will take us up onto the high mountains.
+
+FIN2_ATHAGEN_2 = ~z~Lead the way.
+
+FIN2_ATHAGEN_3 = ~z~~sl:0.0:1.4~There's an old watchtower up there~sl:~they might be using for a camp...
+
+FIN2_BEAT_HIM_01 = ~z~Make him talk, John.
+
+FIN2_BEAT_HIM_02 = ~z~C'mon. Lay into him.
+
+FIN2_BEAT_HIM_03 = ~z~Anything short of killing will do.
+
+FIN2_BEAT_HIM_04 = ~z~Give it to him.
+
+FIN2_BRING_OVER_01 = ~z~Drag him over here.
+
+FIN2_BRING_OVER_02 = ~z~Get him over here.
+
+FIN2_BRING_OVER_03 = ~z~Everyone loves a hanging. Come on.
+
+FIN2_BRING_OVER_04 = ~z~John. Bring him here.
+
+FIN2_CAMP_1 = ~z~There's a camp here.
+
+FIN2_CAMP_2 = ~z~It's not big enough. Micah rides with ten, twenty guys.
+
+FIN2_CAMP_3 = ~z~Keep climbing 'til we find that tower Charles talked about.
+
+FIN2_CAMP_4 = ~z~Okay.
+
+FIN2_CLEET_BEAT_01 = ~z~No, no, no, no.
+
+FIN2_CLEET_BEAT_02 = ~z~Hey, hey, hey, hey.
+
+FIN2_CLEET_BEAT_03 = ~z~Wait, wait, wait, wait.
+
+FIN2_CLEET_BEAT_04 = ~z~Oh, oh, oh, oh.
+
+FIN2_CLEET_BEAT_05 = ~z~Stop, stop, stop ,stop, stop.
+
+FIN2_CLEET_CHA_1 = ~z~I'll head him off!
+
+FIN2_CLEET_DRAG_01 = ~z~~sl:0.8~No, stop it.
+
+FIN2_CLEET_DRAG_02 = ~z~
+
+FIN2_CLEET_DRAG_03 = ~z~No, shit, no.
+
+FIN2_CLEET_DRAG_04 = ~z~No...
+
+FIN2_CLEET_DRAG_05 = ~z~Damn you.
+
+FIN2_CLEET_DRAG_06 = ~z~I told you!
+
+FIN2_CLEET_DRAG_07 = ~z~~sl:0.3~My neck...
+
+FIN2_CLEET_DRAG_08 = ~z~I don't know nothing.
+
+FIN2_CLEET_DRAG_09 = ~z~
+
+FIN2_CLEET_MURD_01 = ~z~He's lying!
+
+FIN2_CLEET_MURD_02 = ~z~I don't know this man!
+
+FIN2_CLEET_NOOS_01 = ~z~Now come on. Please.
+
+FIN2_CLEET_NOOS_02 = ~z~I'm sure we can talk reasonable.
+
+FIN2_CLEET_NOOS_03 = ~z~I always liked you.
+
+FIN2_CLEET_NOOS_04 = ~z~Don't, don't do this...
+
+FIN2_CLEET_NO_H_01 = ~z~Don't do that, John.
+
+FIN2_CLEET_NO_H_02 = ~z~I... I told you.
+
+FIN2_CLEET_NO_H_03 = ~z~You got what you came for.
+
+FIN2_CLEET_NO_H_04 = ~z~There ain't no need for this.
+
+FIN2_CLEET_NO_H_05 = ~z~There ain't no need.
+
+FIN2_CLEET_RUN_01 = ~z~No.
+
+FIN2_CLEET_RUN_02 = ~z~Shit.
+
+FIN2_CLEET_RUN_03 = ~z~Dammit.
+
+FIN2_CLEET_RUN_04 = ~z~No, no, no, no.
+
+FIN2_CLEET_RUN_05 = ~z~Get away from me!
+
+FIN2_CLEET_UP_01 = ~z~Stop. Stay away.
+
+FIN2_CLEET_UP_02 = ~z~Listen to me.
+
+FIN2_CLEET_UP_03 = ~z~Hold on.
+
+FIN2_CLEET_UP_04 = ~z~Stop this.
+
+FIN2_CLEET_UP_05 = ~z~I swear.
+
+FIN2_CLE_LEV_1_01 = ~z~
+
+FIN2_CLE_LEV_1_02 = ~z~No, no, no, no, no.
+
+FIN2_CLE_LEV_2_01 = ~z~No, don't.
+
+FIN2_CLE_LEV_2_02 = ~z~Don't, don't.
+
+FIN2_CLE_LEV_2_03 = ~z~Nuh, nuh, nuh, nuh.
+
+FIN2_CLE_LEV_2_04 = ~z~Oh, c'mon.
+
+FIN2_CMON_HAGEN_01 = ~z~We know where he is, boys. Let's go.
+
+FIN2_CMON_HAGEN_02 = ~z~What you waiting for? We're this close.
+
+FIN2_CMON_HAGEN_03 = ~z~Mount up, let's ride!
+
+FIN2_COMEOVER_01 = ~z~Over here.
+
+FIN2_COMEOVER_02 = ~z~John.
+
+FIN2_COMEOVER_03 = ~z~A word with you.
+
+FIN2_COMPANY_1 = ~z~Here they come.
+
+FIN2_COV_FIRE_01 = ~z~I'm pinning him down. Go!
+
+FIN2_COV_FIRE_02 = ~z~Drawing fire. You can move.
+
+FIN2_COV_FIRE_03 = ~z~Over here, you bastard. Move, John.
+
+FIN2_EXT_P0P1_1 = ~z~Thank you...
+
+FIN2_EXT_P0P1_2 = ~z~I...
+
+FIN2_EXT_P0P1_3 = ~z~I...
+
+FIN2_EXT_P0P1_4 = ~z~You okay?
+
+FIN2_EXT_P0P1_5 = ~z~Fine.
+
+FIN2_EXT_P0P1_6 = ~z~You're crazy.
+
+FIN2_EXT_P0P1_7 = ~z~I hope so.
+
+FIN2_EXT_P0P1_8 = ~z~Help me up.
+
+FIN2_EXT_P0P1_9 = ~z~Let's go get Charles.
+
+FIN2_EXT_P0P1_10 = ~z~There's money...
+
+FIN2_EXT_P0P1_11 = ~z~lots of money...
+
+FIN2_EXT_P0P1_12 = ~z~in the cabin...Blackwater.
+
+FIN2_EXT_P0P1_13 = ~z~I'll go see.
+
+FIN2_EXT_P0P1_14 = ~z~Hurry up.
+
+FIN2_EXT_P0P1_15 = ~z~I got a wedding I wanna go to.
+
+FIN2_EXT_P2_1 = ~z~Jack, Uncle, come out here!
+
+FIN2_EXT_P2_2 = ~z~It's over, Abigail.
+
+FIN2_EXT_P2_3 = ~z~It's all over.
+
+FIN2_FOLLOW_01 = ~z~We gotta keep moving, John.
+
+FIN2_FOLLOW_02 = ~z~Keep pushing up.
+
+FIN2_FOLLOW_03 = ~z~We can't get trapped down here.
+
+FIN2_FOLLOW_SAD_01 = ~z~Come on.
+
+FIN2_FOLLOW_SAD_02 = ~z~Air's getting thin. Let's do this.
+
+FIN2_GALLOWS_1 = ~z~Bring him up to the gallows.
+
+FIN2_GET_LEVER_01 = ~z~Grab the lever.
+
+FIN2_GET_LEVER_02 = ~z~I need you on the trapdoor.
+
+FIN2_GET_LEVER_03 = ~z~Grab the goddamn lever, John.
+
+FIN2_GO_CHA_01 = ~z~Get him, John.
+
+FIN2_GO_CHA_02 = ~z~There's no time to wait.
+
+FIN2_GO_CHA_03 = ~z~Go.
+
+FIN2_GO_CHA_04 = ~z~Go. Quick.
+
+FIN2_GO_JOHN_1 = ~z~C'mon, John.
+
+FIN2_GO_JOHN_2 = ~z~Shit.
+
+FIN2_HANDOVER_1 = ~z~John, you're gonna take a turn?
+
+FIN2_HANDOVER_2 = ~z~Hey, hey, hey. We're old buddies, ain't we?
+
+FIN2_HANDOVER_3 = ~z~Sure, Sadie... With pleasure.
+
+FIN2_HANG_1 = ~z~He's done.
+
+FIN2_HANG_2 = ~z~Thank you.
+
+FIN2_HANG_HIM_01 = ~z~Hang him, John.
+
+FIN2_HANG_HIM_02 = ~z~Do it. The bastard deserves it.
+
+FIN2_HANG_HIM_03 = ~z~Release the trapdoor.
+
+FIN2_HANG_STOP_1 = ~z~~sl:0.3:0.0~ No no no, n-no, no...
+
+FIN2_HANG_WAIT_1 = ~z~~sl:0.3:0.0~Stop! W-w-w-wait, wait, wait... wait...
+
+FIN2_IG1_RETRY_1 = ~z~Hey, stop, stop, stop!
+
+FIN2_IG1_RETRY_2 = ~z~
+
+FIN2_IG1_RETRY_3 = ~z~
+
+FIN2_IG1_RETRY_4 = ~z~Can't escape us, Cleet, ain't no point in trying!
+
+FIN2_IG1_RETRY_5 = ~z~
+
+FIN2_IG1_SPOTTD_1 = ~z~Hey Cleet!
+
+FIN2_IG1_SPOTTD_2 = ~z~Been a while...
+
+FIN2_IG1_SPOTTD_3 = ~z~~sl:0.3:0.0~Shit...
+
+FIN2_IG1_SPOTTD_4 = ~z~Stop that man! He's wanted for murder!
+
+FIN2_IG1_SPOTTD_5 = ~z~Hey, hey... stop, stop, stop!
+
+FIN2_IG1_SPOTTD_6 = ~z~
+
+FIN2_IG1_SPOTTD_7 = ~z~
+
+FIN2_IG1_SPOTTD_8 = ~z~Can't escape us, Cleet, ain't no point in trying!
+
+FIN2_IG1_SPOTTD_9 = ~z~
+
+FIN2_IG2_CHASEC_1 = ~z~Move!
+
+FIN2_IG2_CHASEC_2 = ~z~
+
+FIN2_IG2_CHASEC_3 = ~z~
+
+FIN2_IG2_CHASEC_4 = ~z~~sl:0.0:0.8:1~Come here, friend!
+
+FIN2_IG2_CHASEJ_1 = ~z~Where you running to?
+
+FIN2_IG2_CHRLS1_1 = ~z~Come on!
+
+FIN2_IG2_CHRLS2_1 = ~z~Come on, John!
+
+FIN2_IG2_CHRLS3_1 = ~z~Let's go!
+
+FIN2_IG2_CHRLS4_1 = ~z~Hurry it up!
+
+FIN2_IG2_SJUMPC_1 = ~z~
+
+FIN2_IG2_SJUMPC_2 = ~z~Hello Cleet, remember us?
+
+FIN2_IG2_SJUMPC_3 = ~z~
+
+FIN2_IG3_INTIM2_1 = ~z~~sl:0.0:0.8:1~Where's Micah?
+
+FIN2_IG3_INTIM2_2 = ~z~~sl:0.0:3.6:1~I don't know... I ain't seen him, we fell out.
+
+FIN2_IG3_INTIM2_3 = ~z~~sl:0.2~You know what... I'm bored of this.
+
+FIN2_IG3_INTIM2_4 = ~z~Let's hang the bastard.
+
+FIN2_IG3_INTIM2_5 = ~z~What?
+
+FIN2_IG3_INTIM2_6 = ~z~Good idea.
+
+FIN2_IG3_INTIM3_1 = ~z~Oh...wait, hold on!
+
+FIN2_IG4_HNGHIM_1 = ~z~H-he's up in the mountains...
+
+FIN2_IG4_HNGHIM_2 = ~z~~sl:0.0:0.9~I think, he...~sl:0.8~he's up at Mount Hagen.
+
+FIN2_IG4_HNGHIM_3 = ~z~He got a whole gang, now...
+
+FIN2_IG4_HNGHIM_4 = ~z~Bad men... doing bad things...
+
+FIN2_IG4_HNGHIM_5 = ~z~I-I tried to stop him from murdering that little girl... we fell out...
+
+FIN2_IG4_HNGHIM_6 = ~z~~sl:0.0:2.6~Honest... please... I'm...~sl:1.0~I'm one of the good guys...
+
+FIN2_IG4_HNGHIM_7 = ~z~~sl:1.4:0.0~Hang him.
+
+FIN2_IG4_HNGHIM_8 = ~z~~sl:0.4:2.8:1~No... no...no!
+
+FIN2_IG4_NOHANG_1 = ~z~I said, "hang him!"
+
+FIN2_IG4_NOHANG_2 = ~z~~sl:0.4:1.1:1~As you wish.
+
+FIN2_IG4_NOHANG_3 = ~z~~sl:0.0:1.3~Piece of shit.~sl:0.9~Let's move on.
+
+FIN2_IG4_NO_1 = ~z~No!
+
+FIN2_IG4_SGRAB1_1 = ~z~~sl:0.0:0.9~No. No, no...~sl:3.0~God. No, no, no, no. Come on now.
+
+FIN2_IG4_SGRAB2_1 = ~z~~sl:9.3~Come on... Come on...
+
+FIN2_IG4_STRING_1 = ~z~
+
+FIN2_IG4_THREAT_1 = ~z~Where's Micah?
+
+FIN2_IG4_THREAT_2 = ~z~I already told you, I ain't seen him!
+
+FIN2_IG4_THREAT_3 = ~z~You lie.
+
+FIN2_IG4_THREAT_4 = ~z~~sl:0.4:1.6:1~It ain't my fault!
+
+FIN2_IG4_THREAT_5 = ~z~He tried to kill me!
+
+FIN2_IG4_THREAT_6 = ~z~Where's Micah?
+
+FIN2_IG4_THREAT_7 = ~z~
+
+FIN2_IG4_THREAT_8 = ~z~Talk, or I'll pull this lever!
+
+FIN2_IG4_THREAT_9 = ~z~
+
+FIN2_IG4_THREAT_10 = ~z~Talk!
+
+FIN2_IG4_THROWF_1 = ~z~
+
+FIN2_IG4_THROWF_2 = ~z~
+
+FIN2_IG4_THROWL_1 = ~z~
+
+FIN2_IG4_THROWL_2 = ~z~
+
+FIN2_IG4_THROWR_1 = ~z~
+
+FIN2_IG4_THROWR_2 = ~z~
+
+FIN2_IG4_TRYAGN_1 = ~z~Let's try this again... where's Micah?
+
+FIN2_IG4_TRYAGN_2 = ~z~
+
+FIN2_IG5_GETSHT_1 = ~z~
+
+FIN2_IG5_GETUP_1 = ~z~
+
+FIN2_IG5_LOOP_1 = ~z~
+
+FIN2_IG5_P1_1 = ~z~
+
+FIN2_IG5_P1_2 = ~z~~sl:0.0:3.0:1~There must be a sniper. Get in cover, quick!
+
+FIN2_IG5_P2_1 = ~z~You alive, Charles?
+
+FIN2_IG5_P2_2 = ~z~~sl:1.5:1.9:1~Just about.
+
+FIN2_IG5_P2_3 = ~z~~sl:0.0:1.3~John, be careful!~sl:0.5~Where is this bastard?
+
+FIN2_IG6_TEND_1 = ~z~Hey, you're okay, you're okay.
+
+FIN2_IG6_TEND_2 = ~z~I will be... but go on... go on now!
+
+FIN2_IG6_TEND_3 = ~z~~sl:0.3:0.0~Move fast... or they'll come down that hill and kill us all...
+
+FIN2_IG6_TEND_4 = ~z~
+
+FIN2_IG6_TEND_5 = ~z~
+
+FIN2_IG6_TEND_6 = ~z~~sl:0.4:0.0~Come on, John.
+
+FIN2_IG6_TEND_7 = ~z~I don't wanna leave him.
+
+FIN2_IG6_TEND_8 = ~z~Hey... they know we're coming now...
+
+FIN2_IG6_TEND_9 = ~z~~sl:0.0:4.8:1~I will be fine... I'll follow you up, I just... I just can't move fast...
+
+FIN2_IG6_TEND_10 = ~z~Okay.
+
+FIN2_IG6_TEND_11 = ~z~
+
+FIN2_IG8_A2_1 = ~z~
+
+FIN2_IG8_A2_2 = ~z~Dutch and I are teaming up once more... we got money... we got dreams...
+
+FIN2_IG8_A2_3 = ~z~Join us, John, join us...
+
+FIN2_IG8_A3_1 = ~z~
+
+FIN2_IG8_A3_2 = ~z~Let her go.
+
+FIN2_IG8_A3_3 = ~z~Now I can't do that, John.
+
+FIN2_IG8_A4_1 = ~z~
+
+FIN2_IG8_A4_2 = ~z~Dutch... Dutch, come on now!
+
+FIN2_IG8_A_1 = ~z~
+
+FIN2_IG8_A_2 = ~z~What're you doing here, Dutch?
+
+FIN2_IG8_A_3 = ~z~Same as you, I suppose.
+
+FIN2_IG8_B2_1 = ~z~
+
+FIN2_IG8_B2_2 = ~z~You started it.
+
+FIN2_IG8_B2_3 = ~z~You betrayed me.
+
+FIN2_IG8_B2_4 = ~z~I could say the same as you.
+
+FIN2_IG8_B2_5 = ~z~I was trying to do my best... you... you just cared for yourself.
+
+FIN2_IG8_B2_6 = ~z~I think differently.
+
+FIN2_IG8_B3_1 = ~z~
+
+FIN2_IG8_B3_2 = ~z~Join us... join us, John...
+
+FIN2_IG8_B4_1 = ~z~
+
+FIN2_IG8_B4_2 = ~z~Let her go, she ain't well!
+
+FIN2_IG8_B5_1 = ~z~
+
+FIN2_IG8_B5_2 = ~z~I don't wanna kill you, John.
+
+FIN2_IG8_B6_1 = ~z~
+
+FIN2_IG8_B6_2 = ~z~Arthur saved my life... more than once.
+
+FIN2_IG8_B6_3 = ~z~Arthur's been dead a long time... this is a new century...
+
+FIN2_IG8_B7_1 = ~z~
+
+FIN2_IG8_B7_2 = ~z~Dutch... Dutch... we all did our best for you... ain't our fault things turned out the way they did.
+
+FIN2_IG8_B8_1 = ~z~
+
+FIN2_IG8_B8_2 = ~z~Put down your gun, Marston!
+
+FIN2_IG8_B9_1 = ~z~
+
+FIN2_IG8_B9_2 = ~z~Dutch... killing me won't solve nothing!
+
+FIN2_IG8_B10_1 = ~z~
+
+FIN2_IG8_B10_2 = ~z~Say something, Dutch, say something!
+
+FIN2_IG8_B10_3 = ~z~I ain't got too much to say no more...
+
+FIN2_IG8_B_1 = ~z~You shot at me, son...
+
+FIN2_IG8_DUTCH_1 = ~z~
+
+FIN2_IG8_DUTCH_2 = ~z~~sl:0.0:2.0:1~Always was slow.
+
+FIN2_IG8_DUTCH_3 = ~z~
+
+FIN2_IG8_MICAH_1 = ~z~
+
+FIN2_IG8_MICAH_2 = ~z~
+
+FIN2_IG8_MICAH_3 = ~z~Oh... son...
+
+FIN2_IG8_MICAH_4 = ~z~~sl:0.0:0.8:1~John!
+
+FIN2_IG9_KILLM_1 = ~z~No!
+
+FIN2_IG9_KILLM_2 = ~z~
+
+FIN2_IG9_KILLM_3 = ~z~
+
+FIN2_IG9_KILLM_4 = ~z~
+
+FIN2_ILO_CHA_1 = ~z~I'll see you soon, brother.
+
+FIN2_ILO_CHA_2 = ~z~One way or another, sure. Get him for me.
+
+FIN2_ILO_CHA_3 = ~z~We will.
+
+FIN2_ILO_SAD_1 = ~z~~sl:1.1~Look after each other.
+
+FIN2_ILO_SAD_2 = ~z~Go, John.
+
+FIN2_ILO_SAD_3 = ~z~Go.
+
+FIN2_INTIMIDATE_1 = ~z~Now, where's Micah?
+
+FIN2_INTIMIDATE_2 = ~z~Micah? I ain't seen him.
+
+FIN2_INT_1 = ~z~I love it, I truly love it
+
+FIN2_INT_2 = ~z~Abigail, dear, what's for dinner?
+
+FIN2_INT_3 = ~z~What's for dinner?
+
+FIN2_INT_4 = ~z~Away with you, you no good parasite...
+
+FIN2_INT_5 = ~z~you cook.
+
+FIN2_INT_6 = ~z~Actually, that's not a bad idea.
+
+FIN2_INT_7 = ~z~John, come out here.
+
+FIN2_INT_8 = ~z~Hey, John.
+
+FIN2_INT_9 = ~z~Abigail.
+
+FIN2_INT_10 = ~z~Sadie.
+
+FIN2_INT_11 = ~z~Charles.
+
+FIN2_INT_12 = ~z~I found him...
+
+FIN2_INT_13 = ~z~I found Micah.
+
+FIN2_INT_14 = ~z~No.
+
+FIN2_INT_15 = ~z~I got a lead.
+
+FIN2_INT_16 = ~z~One of his boys, wanted for murdering a woman...
+
+FIN2_INT_17 = ~z~been seen drinking in Strawberry.
+
+FIN2_INT_18 = ~z~If we can get to him, he'll lead us to Micah...
+
+FIN2_INT_19 = ~z~but I got to go now, you coming?
+
+FIN2_INT_20 = ~z~No, he's not coming.
+
+FIN2_INT_21 = ~z~I will.
+
+FIN2_INT_22 = ~z~That's your business.
+
+FIN2_INT_23 = ~z~His business is here.
+
+FIN2_INT_24 = ~z~Yeah...
+
+FIN2_INT_25 = ~z~yeah, I'll ride with you.
+
+FIN2_INT_26 = ~z~No, I'm...
+
+FIN2_INT_27 = ~z~I'm begging you.
+
+FIN2_INT_28 = ~z~No!
+
+FIN2_INT_29 = ~z~You'd risk all this?
+
+FIN2_INT_30 = ~z~For what?
+
+FIN2_INT_31 = ~z~For Micah?
+
+FIN2_INT_32 = ~z~All this...
+
+FIN2_INT_33 = ~z~all this wouldn't exist if it weren't for Arthur, Sadie...
+
+FIN2_INT_34 = ~z~and all the folks as fell.
+
+FIN2_INT_35 = ~z~If I let him go...
+
+FIN2_INT_36 = ~z~this place ain't no more real than...
+
+FIN2_INT_37 = ~z~than one of Jack's dragons.
+
+FIN2_INT_38 = ~z~I'm begging you.
+
+FIN2_INT_39 = ~z~And I'm begging you to understand...
+
+FIN2_INT_40 = ~z~this is it, this is...
+
+FIN2_INT_41 = ~z~Please.
+
+FIN2_INT_42 = ~z~Please try to...
+
+FIN2_INT_43 = ~z~I ain't got no other choice.
+
+FIN2_INT_44 = ~z~Keep an eye on the place for me.
+
+FIN2_INT_45 = ~z~Of course.
+
+FIN2_INT_46 = ~z~Please...
+
+FIN2_INT_47 = ~z~Let's go kill this son of a bitch then.
+
+FIN2_INT_LI_1 = ~z~Keep reading, kid. Go on.
+
+FIN2_INT_LI_2 = ~z~So... with the red dragon dead... and Princess Brea rescued,
+
+FIN2_INT_LI_3 = ~z~Sir Galsworthy put down his sword and took up his plough...
+
+FIN2_INT_LI_4 = ~z~He became the greatest apple farmer in the kingdom.
+
+FIN2_INT_LI_5 = ~z~Men used to travel all across Europe to eat his... remarkable apples,
+
+FIN2_INT_LI_6 = ~z~but deep inside, he missed the dragons almost as much as they gave him nightmares.
+
+FIN2_INT_LI_7 = ~z~He and Princess Brea raised seven happy children...
+
+FIN2_INT_LI_8 = ~z~~sl:0.0:1.6~and none of them ever knew that...~sl:0.8~...their father had once been the bravest warrior in the world.
+
+FIN2_INT_LI_9 = ~z~The End.
+
+FIN2_JHN_V_MCH1_1 = ~z~I got more men coming, John!
+
+FIN2_JHN_V_MCH1_2 = ~z~~sl:0.8:0.0~You should run away!
+
+FIN2_JHN_V_MCH1_3 = ~z~~sl:0.2:0.0~I look forward to meeting 'em!
+
+FIN2_JHN_V_MCH2_1 = ~z~~sl:0.0:3.9:1~I'll make you rich... real rich!
+
+FIN2_JHN_V_MCH2_2 = ~z~
+
+FIN2_JHN_V_MCH2_3 = ~z~~sl:0.0:2.7~I got all the money from Blackwater...~sl:0.3:0.7:1~well...
+
+FIN2_JHN_V_MCH2_4 = ~z~~sl:0.0:1.7:1~most of it, anyway...
+
+FIN2_JHN_V_MCH2_5 = ~z~~sl:1.4:1.2:1~You wanna be rich?
+
+FIN2_JHN_V_MCH2_6 = ~z~~sl:0.6:0.0~Sounds good! Come and give it to me.
+
+FIN2_JHN_V_MCH3_1 = ~z~It's just here.
+
+FIN2_JHN_V_MCH3_2 = ~z~Come take a look!
+
+FIN2_JOEAPPEAR_1 = ~z~Look who it is... ain't you got a habit of just showing up.
+
+FIN2_JOEAPPEAR_2 = ~z~Where I got something to take care of, sure.
+
+FIN2_JOEAPPEAR_3 = ~z~Just you left, is it?
+
+FIN2_JOEAPPEAR_4 = ~z~Yeah... just me.
+
+FIN2_JOESHOOT_01 = ~z~Get him!
+
+FIN2_JOESHOOT_02 = ~z~Kill that bastard!
+
+FIN2_JOESHOOT_03 = ~z~Kill him!
+
+FIN2_JOESHOOT_04 = ~z~Don't let him get any further.
+
+FIN2_JOE_DEAD_1 = ~z~That was Joe. We gotta be close.
+
+FIN2_JOHN_BEAT_01 = ~z~Where is he?
+
+FIN2_JOHN_BEAT_02 = ~z~Tell me!
+
+FIN2_JOHN_BEAT_03 = ~z~Micah! Where?
+
+FIN2_JOHN_BEAT_04 = ~z~You little... where is he?
+
+FIN2_JOHN_CABIN_1 = ~z~Micah, if you're here, come out.
+
+FIN2_JOHN_CAMP_1 = ~z~Micah...
+
+FIN2_JOHN_CAMP_2 = ~z~Micah!
+
+FIN2_JOHN_CAMP_3 = ~z~Shit.
+
+FIN2_JOHN_CAMP_4 = ~z~Micah.
+
+FIN2_JOHN_COVER_01 = ~z~Shit.
+
+FIN2_JOHN_COVER_02 = ~z~Son of a bitch.
+
+FIN2_JOHN_COVER_03 = ~z~
+
+FIN2_JOHN_COVER_04 = ~z~
+
+FIN2_JOHN_COVER_05 = ~z~Just you wait.
+
+FIN2_JOHN_COVER_06 = ~z~Bastard...
+
+FIN2_JOHN_DRAG_01 = ~z~Come on.
+
+FIN2_JOHN_DRAG_02 = ~z~Here we go.
+
+FIN2_JOHN_DRAG_03 = ~z~Quit squirming.
+
+FIN2_JOHN_DRAG_04 = ~z~Move it.
+
+FIN2_JOHN_DRAG_05 = ~z~Don't dig your heels in.
+
+FIN2_JOHN_REACT_1 = ~z~Jesus.
+
+FIN2_JOHN_SHOOT_01 = ~z~Okay, come on.
+
+FIN2_JOHN_SHOOT_02 = ~z~Shit.
+
+FIN2_JOHN_SHOOT_03 = ~z~Damn these fools.
+
+FIN2_JOHN_SHOOT_04 = ~z~If you're riding with Micah Bell, you're a fool.
+
+FIN2_JOHN_SHOOT_05 = ~z~Anyone with Micah Bell is gonna get a bullet.
+
+FIN2_JOHN_SNPR_1 = ~z~You shot my friend, you son of a bitch.
+
+FIN2_JOHN_SNPR_2 = ~z~I'm gonna shoot you off that rock.
+
+FIN2_JOHN_UP_01 = ~z~You heard the lady. Get up there.
+
+FIN2_JOHN_UP_02 = ~z~Keep moving.
+
+FIN2_JOHN_UP_03 = ~z~Move.
+
+FIN2_JOHN_UP_04 = ~z~Climb.
+
+FIN2_JOHN_WTWR_01 = ~z~Micah!
+
+FIN2_JOHN_WTWR_02 = ~z~Micah, are you over there?
+
+FIN2_JOHN_WTWR_03 = ~z~Damn you. Micah!
+
+FIN2_JOHN_WTWR_04 = ~z~Hey, Micah!
+
+FIN2_JOHN_WTWR_05 = ~z~Micah!
+
+FIN2_JOHN_YELL_01 = ~z~Micah Bell, I'm just here for Micah Bell.
+
+FIN2_JOHN_YELL_02 = ~z~Micah, come out here.
+
+FIN2_JOHN_YELL_03 = ~z~It's John Marston, Micah.
+
+FIN2_JOHN_YELL_04 = ~z~I'm here for you.
+
+FIN2_JOHN_YELL_05 = ~z~I'm here to finish things.
+
+FIN2_JOHN_YELL_06 = ~z~Where is he?
+
+FIN2_JOHN_YELL_07 = ~z~Where's Micah?
+
+FIN2_JOHN_YELL_08 = ~z~You're riding with a turncoat.
+
+FIN2_JOHN_YELL_09 = ~z~You're fools or worse.
+
+FIN2_KILL_JOE_1 = ~z~I was kinda hoping I could kill you.
+
+FIN2_KILL_JOE_2 = ~z~Likewise.
+
+FIN2_KILL_SNPR_01 = ~z~Get him.
+
+FIN2_KILL_SNPR_02 = ~z~Take him out so we can check on Charles.
+
+FIN2_KILL_SNPR_03 = ~z~Shoot the bastard already!
+
+FIN2_KILL_SNPR_04 = ~z~Now, put one through his skull.
+
+FIN2_LEAD_1 = ~z~Okay. John, Charles, you take the other side of the river. I'll stay on this one.
+
+FIN2_LEAD_2 = ~z~If we meet in the middle, we would've covered most of the town.
+
+FIN2_LEAD_3 = ~z~If he's here, we'll get him.
+
+FIN2_LEAD_4 = ~z~Okay. Let's go.
+
+FIN2_LEAVEME_1 = ~z~Leave me alone, dammit!
+
+FIN2_LEAVE_1 = ~z~~sl:0.7~I can't do it, Sadie. Not like this.
+
+FIN2_LEAVE_2 = ~z~Thank you. Thank you, John.
+
+FIN2_LEAVE_3 = ~z~Now, now, now, now, now, now.
+
+FIN2_LEAVE_4 = ~z~Come on, now.
+
+FIN2_LEAVE_5 = ~z~You won't ever see me again.
+
+FIN2_LEAVE_CHA_01 = ~z~Don't worry about us.
+
+FIN2_LEAVE_CHA_02 = ~z~Micah, you gotta get him.
+
+FIN2_LEAVE_CHA_03 = ~z~Keep going. You don't have time to look back.
+
+FIN2_LEAVE_SAD_01 = ~z~John. We're fine.
+
+FIN2_LEAVE_SAD_02 = ~z~It's on you now, John. Go.
+
+FIN2_LEAVE_SAD_03 = ~z~I will shoot you, if you stay here any longer.
+
+FIN2_LETSGO_1 = ~z~C'mon. The little rat said Mount Hagen.
+
+FIN2_LOOKOUT_1 = ~z~Sadie.
+
+FIN2_LOOKOUT_2 = ~z~Shit, look out!
+
+FIN2_LOOKOUT_3 = ~z~I can handle it. Come on.
+
+FIN2_LOOK_CHA_01 = ~z~We looking for him?
+
+FIN2_LOOK_CHA_02 = ~z~Are we gonna go or what?
+
+FIN2_LOOK_CHA_03 = ~z~Come on. You heard her.
+
+FIN2_LOOK_SAD_01 = ~z~~sl:0.0:1.1~Would you do as you're told,~sl:~and go and search the other side of the river?
+
+FIN2_LOOK_SAD_02 = ~z~He gets out on the other side of town, I'll shoot you instead.
+
+FIN2_LOOK_SAD_03 = ~z~I got this covered, John. Go over that bridge.
+
+FIN2_LOOK_SAD_04 = ~z~Go check the Clerk's office and all them buildings over there, okay?
+
+FIN2_MCS1_1 = ~z~Sadie!
+
+FIN2_MCS1_2 = ~z~Get your hands off her!
+
+FIN2_MCS1_3 = ~z~You alright?
+
+FIN2_MCS1_4 = ~z~Just fine.
+
+FIN2_MCS1_5 = ~z~You don't look too fine.
+
+FIN2_MCS1_6 = ~z~Come on.
+
+FIN2_MCS1_7 = ~z~You're bleeding pretty bad.
+
+FIN2_MCS1_8 = ~z~Ain't nothing.
+
+FIN2_MCS1_9 = ~z~You should sit down.
+
+FIN2_MCS1_10 = ~z~I'm fine.
+
+FIN2_MCS1_11 = ~z~You're dying.
+
+FIN2_MCS1_12 = ~z~I'll be fine.
+
+FIN2_MCS1_13 = ~z~Just...
+
+FIN2_MCS1_14 = ~z~sit, it's okay.
+
+FIN2_MCS1_15 = ~z~I, I ain't dying, I ain't.
+
+FIN2_MCS1_16 = ~z~I hope not.
+
+FIN2_MCS1_17 = ~z~I ain't dying, just...
+
+FIN2_MCS1_18 = ~z~go get him, I'll be fine I just...
+
+FIN2_MCS1_19 = ~z~need to rest.
+
+FIN2_MCS1_20 = ~z~Okay.
+
+FIN2_MCS1_21 = ~z~Charles, stay with her.
+
+FIN2_MCS1_22 = ~z~Charles, you worry about yourself.
+
+FIN2_MCS1_23 = ~z~I'll be up there in a minute.
+
+FIN2_MCS1_LI_1 = ~z~
+
+FIN2_MCS1_LI_2 = ~z~Sadie!
+
+FIN2_MCS1_LO1_1 = ~z~Ah! Come on!
+
+FIN2_MCS1_LO1_2 = ~z~Get!
+
+FIN2_MCS1_LO2_1 = ~z~Goddamn it!~n~~m~Son of a bitch!
+
+FIN2_MCS1_LO3_1 = ~z~What the fuck?
+
+FIN2_MCS2_1 = ~z~Hello, Scarface.
+
+FIN2_MCS2_2 = ~z~Did you miss me?
+
+FIN2_MCS2_3 = ~z~Not much.
+
+FIN2_MCS2_4 = ~z~Been a few years.
+
+FIN2_MCS2_5 = ~z~How's that...
+
+FIN2_MCS2_6 = ~z~whore of yours?
+
+FIN2_MCS2_7 = ~z~She's good.
+
+FIN2_MCS2_8 = ~z~Didn't reckon I should waste my time killing ya...
+
+FIN2_MCS2_9 = ~z~but I felt different.
+
+FIN2_MCS2_10 = ~z~So it seems.
+
+FIN2_MCS2_11 = ~z~Well, maybe after all this is over...
+
+FIN2_MCS2_12 = ~z~I'll go pay her a call...
+
+FIN2_MCS2_13 = ~z~and the boy.
+
+FIN2_MCS2_14 = ~z~Whatever you say.
+
+FIN2_MCS3_1 = ~z~Come on out, Micah.
+
+FIN2_MCS3_2 = ~z~At least die like a man.
+
+FIN2_MCS3_3 = ~z~Hellfire...
+
+FIN2_MCS3_4 = ~z~it's just like old times.
+
+FIN2_MCS3_5 = ~z~Come on...
+
+FIN2_MCS3_6 = ~z~you turn around...
+
+FIN2_MCS3_7 = ~z~and start walking.
+
+FIN2_MCS3_8 = ~z~You got me.
+
+FIN2_MCS3_9 = ~z~Just like old times, hm?
+
+FIN2_MCS3_10 = ~z~All manner of folk paying social calls.
+
+FIN2_MCS3_11 = ~z~Hello, son.
+
+FIN2_MCS3_12 = ~z~Mrs. Adler.
+
+FIN2_MCS3_13 = ~z~Been quite a while.
+
+FIN2_MCS3_14 = ~z~Now, John...
+
+FIN2_MCS3_15 = ~z~now...
+
+FIN2_MCS3_16 = ~z~what were you saying?
+
+FIN2_MCS4_1 = ~z~You shot me.
+
+FIN2_MCS4_2 = ~z~You shot me pretty good.
+
+FIN2_MOREAGAIN_01 = ~z~More men.
+
+FIN2_MORE_01 = ~z~More of 'em.
+
+FIN2_MORE_02 = ~z~Yep. There's more.
+
+FIN2_MOVE_UPJ_01 = ~z~Uh huh. Now. Go, John.
+
+FIN2_MOVE_UPJ_02 = ~z~Okay. John. Move.
+
+FIN2_MOVE_UPJ_03 = ~z~John, make a run.
+
+FIN2_MOVE_UPJ_04 = ~z~Now. Move up on him.
+
+FIN2_MOVE_UPJ_05 = ~z~You got a chance – move up.
+
+FIN2_MOVE_UP_01 = ~z~Okay, moving.
+
+FIN2_MOVE_UP_02 = ~z~Yup. I'm moving.
+
+FIN2_MOVE_UP_03 = ~z~Now. Moving up.
+
+FIN2_MOVE_UP_04 = ~z~Here's a break. Moving.
+
+FIN2_MOVE_UP_05 = ~z~There. I'm making a run.
+
+FIN2_NOGOOD_1 = ~z~Alright, string the no good, murdering bastard up.
+
+FIN2_PAST_CHA_1 = ~z~He got past.
+
+FIN2_PLEAD_C_A_1 = ~z~~sl:0.0:0.7:1~Come on!
+
+FIN2_PLEAD_C_B_1 = ~z~~sl:0.0:1.6:1~A-alright, hey, look, look!
+
+FIN2_PLEAD_C_C_1 = ~z~I don't know what you heard, okay?
+
+FIN2_PLEAD_C_D_1 = ~z~~sl:0.3:2.3:1~I don't know, okay?
+
+FIN2_PLEAD_C_E_1 = ~z~C'mon, we're old buddies... ain't we?
+
+FIN2_PLEAD_S_A_1 = ~z~That ain't good enough.
+
+FIN2_PLEAD_S_B_1 = ~z~John?
+
+FIN2_REMIND_CHA_01 = ~z~Come on, John.
+
+FIN2_REMIND_CHA_02 = ~z~We're over here.
+
+FIN2_REMIND_CHA_03 = ~z~Here. Come on.
+
+FIN2_RIDE1_1 = ~z~Which one of Micah's boys is it?
+
+FIN2_RIDE1_2 = ~z~Cleet.
+
+FIN2_RIDE1_3 = ~z~Which one was Cleet? The big one, or the little one?
+
+FIN2_RIDE1_4 = ~z~The one with the rat face.
+
+FIN2_RIDE1_5 = ~z~My memory is they both had rat faces.
+
+FIN2_RIDE1_6 = ~z~The little bastard with the rat face, then.
+
+FIN2_RIDE1_7 = ~z~Him? Yeah, he'll talk.
+
+FIN2_RIDE1_8 = ~z~You're damn right he will.
+
+FIN2_RIDE1_9 = ~z~We owe this to Arthur.
+
+FIN2_RIDE2_1 = ~z~You think Arthur cared about revenge?
+
+FIN2_RIDE2_2 = ~z~I'm not so sure... ~rp~especially not at the end.
+
+FIN2_RIDE2_3 = ~z~He cared about stopping Micah. And that's what we're doing.
+
+FIN2_RIDE2_ALT_1 = ~z~Revenge... ~rp~that might be something he could have understood.
+
+FIN2_RIDE2_ALT_2 = ~z~This ain't just revenge. ~rp~It's about stopping the man.
+
+FIN2_RIDE3SHOUTED_4 = ~z~~sl:0.0:3.2~Well, nowadays I'm almost always killing old friends.~sl:~Old friends and new.
+
+FIN2_RIDE3SHOUTED_8 = ~z~My last assistant was... put out to pasture.
+
+FIN2_RIDE3SHOUTED_14 = ~z~You know, ~rp~I been thinking I might get outta here too.
+
+FIN2_RIDE3SHOUTED_16 = ~z~~sl:0.0:2.7~I'd run protection for a gold mine, or...~lr:~take up with a handsome revolutionary... ~rp~I don't know.
+
+FIN2_RIDE3SHOUTED_19 = ~z~~sl:0.0:3.0~Yeah, it all sounds real fine, but...~sl:0.2~we got some business to take care of first.
+
+FIN2_RIDE3SPOKEN_4 = ~z~~sl:0.0:3.6~Well, nowadays I'm almost always killing old friends.~sl:~Old friends and new.
+
+FIN2_RIDE3SPOKEN_8 = ~z~My last assistant... was put out to pasture.
+
+FIN2_RIDE3SPOKEN_14 = ~z~~sl:1.3~You know, ~rp~I been thinking I might get outta here too.
+
+FIN2_RIDE3SPOKEN_16 = ~z~~sl:0.0:2.2~I'd run protection for a gold mine, or...~lr:~take up with a handsome revolutionary... ~rp~I don't know.
+
+FIN2_RIDE3SPOKEN_19 = ~z~~sl:0.0:1.7~Yeah, it all sounds real fine,~sl:0.2~but we got some business to take care of first.
+
+FIN2_RIDE3_1 = ~z~I hear you're taking bounties now.
+
+FIN2_RIDE3_2 = ~z~And I hear you're building houses.
+
+FIN2_RIDE3_3 = ~z~~sl:0.7~When I'm not killing old friends.
+
+FIN2_RIDE3_5 = ~z~Ain't that right, John?
+
+FIN2_RIDE3_6 = ~z~Seems that way.
+
+FIN2_RIDE3_7 = ~z~You interested in bounty hunting, Charles?
+
+FIN2_RIDE3_9 = ~z~No, that work ain't for me. I... I think I might get out of here.
+
+FIN2_RIDE3_10 = ~z~Go North. Canada. Find a woman. Start a family, if I can.
+
+FIN2_RIDE3_11 = ~z~I see how that life... well, I'd like to try it.
+
+FIN2_RIDE3_12 = ~z~~sl:0.5~John, you given him the family bug.
+
+FIN2_RIDE3_13 = ~z~~sl:0.0:2.1~I thought we would've inspired him to a life~sl:~of celibacy and isolation.
+
+FIN2_RIDE3_15 = ~z~Down South America, maybe. ~rp~It's wild, but... less mean, I guess.
+
+FIN2_RIDE3_17 = ~z~Something. ~rp~See something else, at least.
+
+FIN2_RIDE3_18 = ~z~That all sounds good.
+
+FIN2_SADIE_CLIF_01 = ~z~Up on the cliff.
+
+FIN2_SADIE_CLIF_02 = ~z~There! On the cliff edge.
+
+FIN2_SADIE_GRAB_1 = ~z~Come here, you bastard.
+
+FIN2_SADIE_GRAB_2 = ~z~Move it. Come on. Move.
+
+FIN2_SADIE_GRAB_3 = ~z~Here. I want you stood right here.
+
+FIN2_SADIE_GRAB_4 = ~z~Still.
+
+FIN2_SADIE_GUN_01 = ~z~Goddamn ya.
+
+FIN2_SADIE_GUN_02 = ~z~Bastards!
+
+FIN2_SADIE_GUN_03 = ~z~Micah Bell, where is he?
+
+FIN2_SADIE_GUN_04 = ~z~You pathetic bastards!
+
+FIN2_SADIE_GUN_05 = ~z~Die.
+
+FIN2_SADIE_GUN_06 = ~z~Come at me.
+
+FIN2_SADIE_MICA_01 = ~z~Micah Bell!
+
+FIN2_SADIE_MICA_02 = ~z~Micah Bell, we're here for ya!
+
+FIN2_SADIE_MICA_03 = ~z~Where are ya, you sad sack of shit?
+
+FIN2_SADIE_TIES_1 = ~z~Fine, I'll do it. Go grab the lever.
+
+FIN2_SADIE_TIES_2 = ~z~Go.
+
+FIN2_SADIE_UP_01 = ~z~Get him up here.
+
+FIN2_SADIE_UP_02 = ~z~Up you come, Cleet.
+
+FIN2_SADIE_UP_03 = ~z~The noose is waiting.
+
+FIN2_SADIE_UP_04 = ~z~Get him up these steps.
+
+FIN2_SAD_CHA_1 = ~z~She got him.
+
+FIN2_SCAR_1 = ~z~Kind of rich calling me Scarface.
+
+FIN2_SCAR_2 = ~z~Your buddy, Arthur, did this to me... I won.
+
+FIN2_SEE_CLEET_1 = ~z~There. Cleet.
+
+FIN2_SET_OFF_1 = ~z~Come on. Let's get to Strawberry before he dries out.
+
+FIN2_SHOOT_SNPR_1 = ~z~You can hit him from here, can't ya? Take the shot.
+
+FIN2_SNPR_CLOSE_1 = ~z~You're persistent, alright... guess you ain't here by no accident.
+
+FIN2_SNPR_FAR_1 = ~z~~sl:0.0:1.4~I got the high ground up here,~sl:~a box of bullets, a canteen and some jerky.
+
+FIN2_SNPR_FAR_2 = ~z~You can try, by all means, but you ain't getting up this pass.
+
+FIN2_SNPR_FAR_3 = ~z~Just ask your friend back there.
+
+FIN2_SNPR_SETUP_1 = ~z~Stay low.
+
+FIN2_SNPR_SETUP_2 = ~z~~sl:0.0:1.4~We gotta get closer to him.~sl:0.2~We'll move up, rock by rock, when we get the chance.
+
+FIN2_SNPR_SETUP_3 = ~z~Short runs. A bit of ground every time.
+
+FIN2_SNPR_SETUP_4 = ~z~Okay? Come on!
+
+FIN2_SNPR_YELL_01 = ~z~Shit.
+
+FIN2_SNPR_YELL_02 = ~z~Goddamn it.
+
+FIN2_SNPR_YELL_03 = ~z~Okay...
+
+FIN2_SNPR_YELL_04 = ~z~C'mon... c'mon... where are ya?
+
+FIN2_SNPR_YELL_05 = ~z~Dammit.
+
+FIN2_STAY_COVER_01 = ~z~John. Stay down.
+
+FIN2_STAY_COVER_02 = ~z~Wanna get shot? Down.
+
+FIN2_STAY_COVER_03 = ~z~Hey. Get down.
+
+FIN2_STAY_COVER_04 = ~z~Stay behind there, John.
+
+FIN2_STAY_COVER_05 = ~z~I can't lose you, too. Get behind there.
+
+FIN2_STA_CHASE_1 = ~z~What the heck?
+
+FIN2_STOP_CHA_01 = ~z~Seen something? Let's keep going.
+
+FIN2_STOP_CHA_02 = ~z~Where you think he'll be?
+
+FIN2_STOP_CHA_03 = ~z~Let's just take a look around, okay?
+
+FIN2_STOP_CHA_04 = ~z~Come on. Keep walking. Let's find this bastard.
+
+FIN2_SURPRISE_1 = ~z~Come here, you bitch.
+
+FIN2_S_BEAT_CLE_01 = ~z~Come on.
+
+FIN2_S_BEAT_CLE_02 = ~z~No.
+
+FIN2_S_BEAT_CLE_03 = ~z~~sl:0.2~Lady!
+
+FIN2_S_BEAT_CLE_04 = ~z~Easy.
+
+FIN2_S_BEAT_CLE_05 = ~z~Stop!
+
+FIN2_THREATEN_01 = ~z~Make him talk.
+
+FIN2_THREATEN_02 = ~z~I wanna hear that trapdoor creak.
+
+FIN2_THREATEN_03 = ~z~It's quite a drop under you. John. Show him a little.
+
+FIN2_TIE_NOOSE_01 = ~z~Put it round his neck.
+
+FIN2_TIE_NOOSE_02 = ~z~Give him the noose, John.
+
+FIN2_TOHAGEN_1 = ~z~It's a long ride. Let's finish this.
+
+FIN2_TOHAGEN_2 = ~z~Micah, we're coming for ya.
+
+FIN2_TOHAGEN_3 = ~z~Hyah!
+
+FIN2_TO_CHARLES_1 = ~z~You got him. Okay. Let's go back to Charles.
+
+FIN2_TO_GALLOWS_01 = ~z~Drag him up there, John.
+
+FIN2_TO_GALLOWS_02 = ~z~You need help with him?
+
+FIN2_TO_GALLOWS_03 = ~z~Take him over to her.
+
+FIN2_WARN_JOE_1 = ~z~I ain't here for you, just Micah. So get outta my way and make it quick.
+
+FIN2_WARN_JOE_2 = ~z~You ain't getting any further than right here.
+
+FIN2_WARN_JOE_3 = ~z~~sl:0.5~I was kinda hoping you'd say that.
+
+FIN2_WC_CHASE_1 = ~z~Look at this!
+
+FIN2_WC_CHASE_2 = ~z~Get him! Get him!
+
+FIN2_WRONG_CHA_01 = ~z~Hey, we're searching this way.
+
+FIN2_WRONG_CHA_02 = ~z~We're meant to go over here.
+

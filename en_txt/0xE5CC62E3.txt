@@ -1,0 +1,20 @@
+VAL_SF_CONV_A_1 = ~z~Apologies for the row outside. Fred gets a little ornery when he thinks people are disrespecting him.
+
+VAL_SF_CONV_B_1 = ~z~Pair of jackals, all of 'em. You know, I can see them playing cards over there, day in, day out.
+
+VAL_SF_CONV_B_2 = ~z~Lemme tell you something, friend. They all cheat.
+
+VAL_SF_CONV_CA_1 = ~z~I just replaced that glass...
+
+VAL_SF_CONV_CA_2 = ~z~Those two been shouting about Mavis for damn near months now.
+
+VAL_SF_CONV_CA_3 = ~z~Pretty sure neither of 'em do much more'n smack her around a little and pass out on her bedsheets.
+
+VAL_SF_CONV_CB_1 = ~z~Harlan's woman. The one threw his cousin out the glass just a minute ago? Oh, never mind.
+
+VAL_SF_CONV_C_A_1 = ~z~Who the hell is Mavis?
+
+VAL_SF_CONV_C_J_1 = ~z~Who the hell is Mavis?
+
+VAL_SF_CONV_D_1 = ~z~Wish they'd stay at Keane's, if they're gonna be causing hell like that.
+

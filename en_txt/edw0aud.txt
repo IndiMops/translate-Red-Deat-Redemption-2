@@ -1,0 +1,84 @@
+EDW0_RSC1_1 = ~z~My husband's not cold in the ground...
+
+EDW0_RSC1_2 = ~z~and you've come back here.
+
+EDW0_RSC1_3 = ~z~Archie.
+
+EDW0_RSC1_4 = ~z~I nearly paid off what was owed.
+
+EDW0_RSC1_5 = ~z~Your husband knew the rules when he took that money.
+
+EDW0_RSC1_6 = ~z~Now, I'm real sorry about the way things turned out...
+
+EDW0_RSC1_7 = ~z~but he had a choice.
+
+EDW0_RSC1_8 = ~z~Ain't my fault about the way the world is.
+
+EDW0_RSC1_9 = ~z~He didn't have a choice.
+
+EDW0_RSC1_10 = ~z~He was good, and he did good.
+
+EDW0_RSC1_11 = ~z~There wasn't no choice in that.
+
+EDW0_RSC1_12 = ~z~And you've as good as killed him yourself...
+
+EDW0_RSC1_13 = ~z~and don't kid yourself.
+
+EDW0_RSC1_14 = ~z~You had a choice.
+
+EDW0_RSC1_15 = ~z~You speak as if killing were something I cared about.
+
+EDW0_RSC1_16 = ~z~You ever wonder about eternity? You should.
+
+EDW0_RSC1_17 = ~z~I hope it's hot and terrible, Mrs. Downes...
+
+EDW0_RSC1_18 = ~z~otherwise I'll feel I've been sold a false bill of goods.
+
+EDW0_RSC1_19 = ~z~Now, please...
+
+EDW0_RSC1_20 = ~z~get me that money.
+
+EDW0_RSC1_21 = ~z~Either you've got a lazy eye or a lack of respect.
+
+EDW0_RSC1_22 = ~z~Which is it, boy?
+
+EDW0_RSC1_23 = ~z~I ain't got no lazy eye...
+
+EDW0_RSC1_24 = ~z~nor respect for the likes of you.
+
+EDW0_RSC1_25 = ~z~Well, maybe when your mother's finished mourning your father...
+
+EDW0_RSC1_26 = ~z~I'll keep her in black...
+
+EDW0_RSC1_27 = ~z~on your behalf.
+
+EDW0_RSC1_28 = ~z~You think on that, boy.
+
+EDW0_RSC1_29 = ~z~Well maybe you shall, sir...
+
+EDW0_RSC1_30 = ~z~and maybe other events will transpire.
+
+EDW0_RSC1_31 = ~z~You best stick to them books...
+
+EDW0_RSC1_32 = ~z~because mark my words on this...
+
+EDW0_RSC1_33 = ~z~vengeance is an idiot's game.
+
+EDW0_RSC1_34 = ~z~Ah, Mrs. Downes...
+
+EDW0_RSC1_35 = ~z~thank you for your punctuality.
+
+EDW0_RSC1_36 = ~z~It's next to godliness isn't it?
+
+EDW0_RSC1_37 = ~z~That's cleanliness.
+
+EDW0_RSC1_38 = ~z~I'll have to take your word on that.
+
+EDW0_RSC1_39 = ~z~Good day.
+
+EDW0_RSC1_LI_1 = ~z~My husband's not cold in the ground, and you've come back here.
+
+EDW0_RSC1_LI_2 = ~z~Archie.
+
+EDW0_RSC1_LI_3 = ~z~I nearly paid off what was owed.
+

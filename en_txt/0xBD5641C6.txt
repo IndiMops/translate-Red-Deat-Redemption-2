@@ -1,0 +1,230 @@
+LBALC_ALCALERTA_1 = ~z~Bounty hunters, they're here!
+
+LBALC_ALCALERTA_2 = ~t~In Spanish: Bounty hunter!
+
+LBALC_ALCALERTG_1 = ~z~You know what to do, stop them!
+
+LBALC_ALCALERTG_2 = ~z~Make these dogs pay!
+
+LBALC_ALCALERT_1 = ~z~Men! They have come for me, stop them!
+
+LBALC_ALCALERT_2 = ~z~They're here, we knew this moment would come! Fight them!
+
+LBALC_ALCALRTAS_1 = ~z~Bounty hunter, we have one here!
+
+LBALC_ALCALRTAS_2 = ~t~In Spanish: Bounty hunter!
+
+LBALC_ALCALRTGS_1 = ~z~You know what to do, stop this useless dog!
+
+LBALC_ALCALRTGS_2 = ~z~Make this dog pay!
+
+LBALC_ALERTB_01 = ~z~They're here for the bounty!
+
+LBALC_ALERTB_02 = ~z~Protect our lady!
+
+LBALC_ALERT_01 = ~z~The bastard dogs are here!
+
+LBALC_ALERT_02 = ~z~They have come for our lady!
+
+LBALC_BACKUP_1 = ~z~Hold them back. You didn't come all this way to see me fall.
+
+LBALC_BINK_INT_1 = ~z~Ah, Barbarella Alcazar, our bandit queen.
+
+LBALC_BINK_INT_2 = ~z~Sooner her bloody reign comes to an end the better, I'd say.
+
+LBALC_BINK_INT_3 = ~z~I'm a mite sad I ain't gonna be the one to bring her down myself.
+
+LBALC_BINK_INT_4 = ~z~Let's see...
+
+LBALC_BINK_INT_5 = ~z~she came over this side of the Saint Louis with a bunch of men...
+
+LBALC_BINK_INT_6 = ~z~Del Lobos for the most part...
+
+LBALC_BINK_INT_7 = ~z~and there ain't been no let up in bloodshed since.
+
+LBALC_BINK_INT_8 = ~z~I think they're all held up at that old mine, Gaptooth Breach.
+
+LBALC_BINK_INT_9 = ~z~Unless you're real, real delicate...
+
+LBALC_BINK_INT_10 = ~z~I would expect a confrontation with this lady.
+
+LBALC_BTEAST_1 = ~z~~sl:0.0:5.7~I rode with the great Alcazar. So noble, so fair...~sl:~a true hidalgo.
+
+LBALC_BTEAST_2 = ~z~~sl:0.0:2.2~But how he ever handled our lady...~sl:~The Terror... I will never know.
+
+LBALC_BTEAST_3 = ~z~~sl:0.0:2.6~And if you ever tell her I said that...~sl:~I'll make sure you suffer whatever fate befalls me.
+
+LBALC_BTNORTH_1 = ~z~Keep your eyes to the north.
+
+LBALC_BTNORTH_2 = ~z~~sl:0.0:2.2~If the bastard dogs come for us,~sl:~they will be riding from there.
+
+LBALC_BTNORTH_3 = ~z~~sl:0.0:4.7~Watch the sky. If you see birds, or you see dust...~sl:0.4~you raise the call.
+
+LBALC_BTYCOMBAT_01 = ~z~Take their heads!
+
+LBALC_BTYCOMBAT_02 = ~z~For Ricardo!
+
+LBALC_BTYCOMBAT_03 = ~z~Punish them!
+
+LBALC_BTYCOMBAT_04 = ~z~We are not done yet!
+
+LBALC_BTYCOMBAT_05 = ~z~No surrender!
+
+LBALC_BTYCOMBTS_01 = ~z~Take their head!
+
+LBALC_BTYCOMBTS_02 = ~z~For Ricardo!
+
+LBALC_BTYCOMBTS_03 = ~z~Punish them!
+
+LBALC_BTYCOMBTS_04 = ~z~We are not done yet!
+
+LBALC_BTYCOMBTS_05 = ~z~No surrender!
+
+LBALC_CARRYALVE_1 = ~z~~sl:0.0:3.4~They have me, you swine! What are you waiting for?~sl:0.3~Kill them! Kill this bounty hunter and set me free.
+
+LBALC_CARRYDEAD_1 = ~z~~sl:0.0:3.8~Where are my men? Dead? The useless swine.~sl:0.1~They were meant to stop you.
+
+LBALC_CLOSE_1 = ~z~~sl:0.8~You think this little jail will hold me? I am a queen.
+
+LBALC_CLOSE_2 = ~z~A queen, do you hear me? La reina!
+
+LBALC_DELAY_1 = ~z~~sl:0.0:2.0~Either take me in or let me go.~sl:0.2~Either way, you will die for what you have done here.
+
+LBALC_DISMOUNT_1 = ~z~Alright! Alright!
+
+LBALC_DISMOUNT_2 = ~z~I'm sick of running.
+
+LBALC_DISMOUNT_3 = ~z~How about you die instead?
+
+LBALC_FBCHAT_1 = ~z~You trying to start a conversation with me?
+
+LBALC_FBCHAT_2 = ~z~~sl:0.0:1.6~I'm not out here for the chit chat.~sl:~I'm out here because those pigs killed my husband.
+
+LBALC_FBCHAT_3 = ~z~And now they try to kill me.
+
+LBALC_FBCHAT_4 = ~z~Get back to work... and know your place.
+
+LBALC_FBCHAT_5 = ~z~I'd rather fuck a goat.
+
+LBALC_FIGHT_1 = ~z~Goddamn... no!
+
+LBALC_FIGHT_2 = ~z~Look at this, I got nowhere to go. The only way out's through you.
+
+LBALC_FIGHT_3 = ~z~Come on!
+
+LBALC_FLEE1DEAD_1 = ~z~Is anyone still with me? Hold them back to your last breath.
+
+LBALC_FLEE1S_1 = ~z~I am the target, not you, men. Hold this dog!
+
+LBALC_FLEE1_1 = ~z~Men, they're after me, not you. Hold them.
+
+LBALC_FLEE2_01 = ~z~You won't take me alive.
+
+LBALC_FLEE2_02 = ~z~Come any closer, I'll turn around and fight!
+
+LBALC_FLEE2_03 = ~z~You don't want me cornered.
+
+LBALC_FLEE2_04 = ~z~I will drag your corpse through Armadillo.
+
+LBALC_FLEE2_05 = ~z~Men have come for me before and they have died.
+
+LBALC_FLEE2_06 = ~z~I spit on your bounty.
+
+LBALC_FLEE2_07 = ~z~You chase me any further, you won't go back.
+
+LBALC_FLEETUNLA_1 = ~z~~sl:0.0:3.2~If any of you are still fighting, hold them back.~sl:~I will find a way out through the mine.
+
+LBALC_FLEETUNNL_1 = ~z~~sl:0.0:1.7~I will find a way out through the mine,~sl:~hold them back as long as you can.
+
+LBALC_GDCAUGHT_1 = ~z~Barbarella!
+
+LBALC_GDCAUGHT_2 = ~z~Barbarella, no!
+
+LBALC_GDCOMBATB_01 = ~z~Rally 'round, stop them!
+
+LBALC_GDCOMBATB_02 = ~z~You won't collect this bounty!
+
+LBALC_GDCOMBAT_01 = ~z~They won't take her!
+
+LBALC_GDCOMBAT_02 = ~z~Stop the dog!
+
+LBALC_HIT_01 = ~z~Damn you!
+
+LBALC_HIT_02 = ~z~
+
+LBALC_HIT_03 = ~z~You'll pay.
+
+LBALC_HIT_04 = ~z~Curse you.
+
+LBALC_HOGTIED_01 = ~z~Let me go!
+
+LBALC_HOGTIED_02 = ~z~No, no!
+
+LBALC_HOGTIED_03 = ~z~
+
+LBALC_LASSO_01 = ~z~Get off!
+
+LBALC_LASSO_02 = ~z~No!
+
+LBALC_LASSO_03 = ~z~Curse you!
+
+LBALC_OFFICE_1 = ~z~Well, I guess we don't have far to go...
+
+LBALC_OFFICE_2 = ~z~You will pay for this, I promise you.
+
+LBALC_OFYELL_1 = ~z~~sl:0.0:2.6~Let me ask you, if it was my husband here,~sl:0.0:1.9~Ricardo Alcazar 'The Butcher'...~sl:0.1~would you speak like this?
+
+LBALC_OFYELL_2 = ~z~No. Don't speak. You wouldn't.
+
+LBALC_OFYELL_3 = ~z~My husband, God rest his soul, was much more forgiving than me.
+
+LBALC_OFYELL_4 = ~z~Get out of here before I cut your ears off.
+
+LBALC_RIDEBANT_1 = ~z~~sl:0.0:1.4~Do you know who I am?~sl:0.1:2.2~I am La Reina de los Banditos.~sl:0.1~You will die for what you have done to me.
+
+LBALC_RIDEBANT_2 = ~z~~sl:0.0:3.9~I have an army of men who will lay down their lives for me.~sl:~Killers, soldiers, pistoleros, thieves...
+
+LBALC_RIDEBANT_3 = ~z~they will not stop until you are found and executed.
+
+LBALC_RIDEBANT_4 = ~z~~sl:0.0:2.4~You will be dragged through the streets~sl:~and hung from the courthouse tower.
+
+LBALC_RIDEBANT_5 = ~z~~sl:0.0:2.2~Your entrails will bloody the dirt~sl:~and the children will point and laugh.
+
+LBALC_RIDEBANT_6 = ~z~When you take this bounty, it is for your death too.
+
+LBALC_RIDEBANT_7 = ~z~~sl:0.0:2.8~And for your son's, and for your mother's.~sl:~Everyone you know and love will die because of this.
+
+LBALC_RIDEBANT_8 = ~z~~sl:0.0:5.9~You are a criminal... a cheap thief... a beggar for bounties.~sl:0.0:3.1~Pathetic. I spit on you.~sl:2.2~You're nothing. I spit.
+
+LBALC_RIDEBANT_9 = ~z~~sl:0.0:2.9~What kind of a person becomes a bounty hunter?~sl:0.2:3.6~one with no pride... one with no guts...~sl:0.3~one with no balls?
+
+LBALC_RIDEBANT_10 = ~z~You're a mangy dog looking for a master.
+
+LBALC_RIDEBANT_11 = ~z~~sl:0.0:2.0~I want to know who signed this bounty.~sl:0.3~Which politician? Which banker?
+
+LBALC_RIDEBANT_12 = ~z~~sl:0.0:3.6~Which pale man sitting behind a dark wooden desk?~sl:0.3~I will cut his cock off and feed it to you.
+
+LBALC_STAYS_1 = ~z~We kill this dog!
+
+LBALC_STAY_1 = ~z~We kill these dogs!
+
+LBALC_SURRENDER_1 = ~z~Goddamn... No.
+
+LBALC_SURRENDER_2 = ~z~Look at this, I got nowhere to go. So I guess I'm coming with you.
+
+LBALC_SURRENDER_3 = ~z~You gonna take me or what?
+
+LBALC_TOOCLOSE_01 = ~z~Stay back!
+
+LBALC_TOOCLOSE_02 = ~z~Get away from me.
+
+LBALC_TOOCLOSE_03 = ~z~Get away, I'm warning you.
+
+LBALC_WTCALL_1 = ~z~Pick it up, you dopey son of a whore.
+
+LBALC_WTCALL_2 = ~z~You could be moving twice as fast.
+
+LBALC_WTCALL_3 = ~z~Faster or I'm going to send a few bullets down to speed you up.
+
+LBALC_WTCALL_4 = ~z~You all got lazy out here in the sun.
+

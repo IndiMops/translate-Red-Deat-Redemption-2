@@ -1,0 +1,574 @@
+0x8E37C282 = Жульничать
+
+0x23F35F27 = Ваша очередь.
+
+0x85BE4D21 = Если все игроки пошли ва-банк и больше никто не может ходить, игроки вскрывают свои закрытые карты. Также сдаются оставшиеся общие карты.
+
+0x89E2AC19 = Ответ на ставку ~1$~
+
+0x363B0F82 = Заменить левую закрытую карту
+
+0x1133FB66 = Удерживайте ~INPUT_MINIGAME_POKER_YOUR_CARDS~, чтобы посмотреть свои закрытые карты.
+
+0xAC577BA5 = Заменить правую закрытую карту
+
+0xAE51144E = Рукав
+
+0xD05C6F69 = По ходу раунда на стол помещаются пять общих карт.
+
+0xDA5661EE = Удерживайте ~INPUT_MINIGAME_POKER_COMMUNITY_CARDS~, чтобы посмотреть общие карты.
+
+0xDDBC0A2C = С помощью ваших и общих карт нужно собрать наилучшую комбинацию из пяти карт.
+
+0xE4B3DE56 = Джон
+
+MGPKR_BROKE_MP = Минимальный вступительный взнос ~1$~ вам не по карману.
+
+MGPKR_BUST_1 = ~1p~ проигрывает все.
+
+MGPKR_BUST_1_YOU = Вы проигрались.
+
+MGPKR_BUST_2 = ~1p~ и ~2p~ проиграли все.
+
+MGPKR_BUST_3 = ~1p~, ~2p~ и ~3p~ проиграли все.
+
+MGPKR_BUST_4 = ~1p~, ~2p~, ~3p~ и ~4p~ проиграли все.
+
+MGPKR_BUST_5 = ~1p~, ~2p~, ~3p~, ~4p~ и ~5p~ проиграли все.
+
+MGPKR_BUST_6 = ~1p~, ~2p~, ~3p~, ~4p~, ~5p~ и ~6p~ проиграли все.
+
+MGPKR_HELP_HND_FLUSH = ФЛЕШ
+
+MGPKR_HELP_HND_FOUR = КАРЕ
+
+MGPKR_HELP_HND_HEADER = КОМБИНАЦИИ КАРТ
+
+MGPKR_HELP_HND_HIGH = СТАРШАЯ КАРТА
+
+MGPKR_HELP_HND_HOUSE = ФУЛЛ-ХАУС
+
+MGPKR_HELP_HND_PAIR = ОДНА ПАРА
+
+MGPKR_HELP_HND_RYFLUSH = РОЯЛ-ФЛЕШ
+
+MGPKR_HELP_HND_STFLUSH = СТРИТ-ФЛЕШ
+
+MGPKR_HELP_HND_STRAIT = СТРИТ
+
+MGPKR_HELP_HND_THREE = ТРОЙКА
+
+MGPKR_HELP_HND_TWOPAIR = ДВЕ ПАРЫ
+
+MGPKR_HND2_FLUSH = Флеш ~2~ (старшая карта: ~1~)
+
+MGPKR_HND2_FOUR = Каре (~1~)
+
+MGPKR_HND2_HIGH = Старшая карта: ~1~
+
+MGPKR_HND2_HOUSE = Фулл-хаус (~1~ и ~2~)
+
+MGPKR_HND2_PAIR = Пара (~1~)
+
+MGPKR_HND2_RYFLUSH = Роял-флеш
+
+MGPKR_HND2_STFLUSH = Стрит-флеш ~2~ (старшая карта: ~1~)
+
+MGPKR_HND2_STRAIT = Стрит (старшая карта: ~1~)
+
+MGPKR_HND2_THREE = Тройка (~1~)
+
+MGPKR_HND2_TWOPAIR = Две пары (~1~ и ~2~)
+
+MGPKR_HND_FLUSH1 = флеш ~2~ (старшая карта: ~1~)
+
+MGPKR_HND_FLUSH2 = флеш ~2~ (старшая карта: ~1~)
+
+MGPKR_HND_FOUR = каре (~1~)
+
+MGPKR_HND_HIGH = старшая карта: ~1~
+
+MGPKR_HND_HOUSE = фулл-хаус (~1~ и ~2~)
+
+MGPKR_HND_PAIR = пара (~1~)
+
+MGPKR_HND_RYFLUSH = роял-флеш
+
+MGPKR_HND_STFLUSH1 = стрит-флеш ~2~ (старшая карта: ~1~)
+
+MGPKR_HND_STFLUSH2 = стрит-флеш ~2~ (старшая карта: ~1~)
+
+MGPKR_HND_STRAIT1 = стрит (старшая карта: ~1~)
+
+MGPKR_HND_STRAIT2 = стрит (старшая карта: ~1~)
+
+MGPKR_HND_THREE = тройка (~1~)
+
+MGPKR_HND_TWOPAIR = две пары (~1~ и ~2~)
+
+MGPKR_INFO_ALLIN = ~1$~, ва-банк
+
+MGPKR_INFO_ALLIN_DONE = Ва-банк
+
+MGPKR_INFO_ANTE = ~1$~, анте
+
+MGPKR_INFO_BBLIND = ~1$~, большой блайнд
+
+MGPKR_INFO_BET = ~1$~, ставка
+
+MGPKR_INFO_CALL = ~1$~, ответ на ставку
+
+MGPKR_INFO_CHECK = ~1$~, чек
+
+MGPKR_INFO_CHECK_0 = Чек
+
+MGPKR_INFO_FOLD = ~1$~, пас
+
+MGPKR_INFO_FOLD_0 = Пас
+
+MGPKR_INFO_FOLD_DONE = Пас
+
+MGPKR_INFO_LEAVING = Игрок уходит
+
+MGPKR_INFO_MAX_BET = ~1$~, макс. ставка
+
+MGPKR_INFO_MAX_BET_DONE = Макс. ставка
+
+MGPKR_INFO_MUCK = Сброшенные
+
+MGPKR_INFO_NAME = ОППОНЕНТ~1~
+
+MGPKR_INFO_OUTCOME_STEAL = Выигрыш ~1$~
+
+MGPKR_INFO_OUTCOME_WON = ~1p~, выигрыш ~2$~
+
+MGPKR_INFO_RAISE = ~1$~, ставка поднята
+
+MGPKR_INFO_SBLIND = ~1$~, малый блайнд
+
+MGPKR_INFO_SBLIND_ANTE = ~1$~, малый блайнд (анте)
+
+MGPKR_INFO_THEY_ACT = ~1$~, ходит ~2p~...
+
+MGPKR_INFO_THEY_ACT_0 = Ходит ~1p~...
+
+MGPKR_INFO_WAITING_FOR_BUYIN = Ожидание игроков...
+
+MGPKR_INFO_WAITING_FOR_NEXT_HAND = Ожидание следующей раздачи...
+
+MGPKR_INFO_WAIT_REVEAL = Ожидание вскрытия карт...
+
+MGPKR_INFO_WAIT_TURN = ~1$~, ~2p~
+
+MGPKR_INFO_WAIT_TURN_MP = ~1p~
+
+MGPKR_INFO_YOU_ACT = ~1$~, ваш ход...
+
+MGPKR_INFO_YOU_ACT_0 = Ваш ход...
+
+MGPKR_MORE_NEED_TO_BUYIN = Раздача начнется, когда достаточно игроков внесет вступительный взнос.
+
+MGPKR_MSG_AWARDING_POT = Присуждается ~1p~.
+
+MGPKR_MSG_INSTRUCT_STRAUSS = Удерживайте ~INPUT_MINIGAME_POKER_SKIP~, чтобы сфокусировать внимание на Штраусе.
+
+MGPKR_MSG_JOIN_MIDGAME_CHIPS = Вы присоединились к игре, которая уже идет. Вам сдадут карты в начале следующей раздачи.
+
+MGPKR_MSG_JOIN_MIDGAME_NO_CHIPS = Вы присоединились к игре, которая уже идет. Сделайте взнос, чтобы присоединиться на следующей раздаче.
+
+MGPKR_MSG_KICKER =  Победитель определен по кикеру.
+
+MGPKR_MSG_LARGEST_POT = самый крупный банк
+
+MGPKR_MSG_LISTED_SIDE_POTS = дополнительные банки: ~1p~
+
+MGPKR_MSG_LIST_END = ~1p~ и ~2p~
+
+MGPKR_MSG_LIST_MID = ~1p~, ~2p~
+
+MGPKR_MSG_MAIN_POT = основной банк.
+
+MGPKR_MSG_NTH_1ST = 1
+
+MGPKR_MSG_NTH_2ND = 2
+
+MGPKR_MSG_NTH_3RD = 3
+
+MGPKR_MSG_NTH_4TH = 4
+
+MGPKR_MSG_NTH_5TH = 5
+
+MGPKR_MSG_NTH_6TH = 6
+
+MGPKR_MSG_NTH_MAIN = основной
+
+MGPKR_MSG_NTH_SIDE_POT = дополнительный банк: ~1p~
+
+MGPKR_MSG_PCOUNT_1 = Один
+
+MGPKR_MSG_PCOUNT_2 = Два
+
+MGPKR_MSG_PCOUNT_3 = Три
+
+MGPKR_MSG_PCOUNT_4 = Четыре
+
+MGPKR_MSG_PCOUNT_5 = Пять
+
+MGPKR_MSG_PCOUNT_6 = Шесть
+
+MGPKR_MSG_PCOUNT_MULTIPLE = Много
+
+MGPKR_MSG_PLYR_BOUGHTIN = Игрок ~1p~ купил фишек на ~2$~
+
+MGPKR_MSG_PLYR_BOUGHTIN_YOU = Вы сделали вступительный взнос в ~1$~.
+
+MGPKR_MSG_PLYR_JOINED = Игрок ~1p~ присоединился к игре
+
+MGPKR_MSG_PLYR_LEFT = Игрок ~1p~ вышел из игры
+
+MGPKR_MSG_POT = банк
+
+MGPKR_MSG_SIDE_POT = дополнительный банк.
+
+MGPKR_MSG_SITTING_OUT = У вас нет фишек, поэтому вы вне игры. Купите фишки перед следующей раздачей.
+
+MGPKR_MSG_THEY_SPLIT = ~1p~ выигрывает по сплиту ~2p~.~3p~
+
+MGPKR_MSG_THEY_WON = ~1p~ выигрывает ~2p~.~3p~
+
+MGPKR_MSG_THEY_WON_SPLIT = ~1p~ выигрывает ~2p~ и получает по сплиту ~3p~.~4p~
+
+MGPKR_MSG_YOU_HAVE = У вас ~1p~.
+
+MGPKR_MSG_YOU_SPLIT = Вы выиграли по сплиту ~1p~.~2p~
+
+MGPKR_MSG_YOU_WON = Вы выиграли ~1p~.~2p~
+
+MGPKR_MSG_YOU_WON_SPLIT = Вы выиграли ~1p~ и получили по сплиту ~2p~.~3p~
+
+MGPKR_MSG__THEY_SPLIT_ONEPOT = ~1p~ игр. выиграли по сплиту ~2p~ с ~3p~.~4p~
+
+MGPKR_MSG__THEY_SPLIT_ONEPOT_NOHAND = ~1p~ игр. выиграли по сплиту ~2p~.~3p~
+
+MGPKR_MSG__THEY_STOLE_POT = Игрок ~1p~ украл банк.
+
+MGPKR_MSG__THEY_WON_ONEPOT = ~1p~ выигрывает ~2p~ с комбинацией: ~3p~.~4p~
+
+MGPKR_MSG__THEY_WON_ONEPOT_NOHAND = ~1p~ выигрывает ~2p~.~3p~
+
+MGPKR_MSG__YOU_SPLIT_ONEPOT = Вы выиграли по сплиту ~1p~ с комбинацией: ~2p~.~3p~
+
+MGPKR_MSG__YOU_SPLIT_SEVPOTS = Вы забрали несколько банков по сплиту с ~2p~.~3p~
+
+MGPKR_MSG__YOU_STOLE_POT = Вы украли банк.
+
+MGPKR_MSG__YOU_WON_AND_SPLIT_SEVPOTS = Вы забрали несколько банков, в том числе по сплиту, с ~1p~.~2p~
+
+MGPKR_MSG__YOU_WON_ONEPOT = Вы выиграли ~1p~ с комбинацией: ~2p~.~3p~
+
+MGPKR_MSG__YOU_WON_SEVPOTS = Вы забрали несколько банков с ~2p~.~3p~
+
+MGPKR_NAME_AMB_0 = Уильям
+
+MGPKR_NAME_AMB_1 = Альфред
+
+MGPKR_NAME_AMB_2 = Фрэнк
+
+MGPKR_NAME_AMB_3 = Генри
+
+MGPKR_NAME_AMB_4 = Юджин
+
+MGPKR_NAME_AMB_5 = Рой
+
+MGPKR_NAME_AMB_6 = Луи
+
+MGPKR_NAME_AMB_7 = Эрл
+
+MGPKR_NAME_AMB_8 = Чарли
+
+MGPKR_NAME_AMB_9 = Льюис
+
+MGPKR_NAME_AMB_10 = Харви
+
+MGPKR_NAME_AMB_11 = Говард
+
+MGPKR_NAME_AMB_12 = Норман
+
+MGPKR_NAME_AMB_13 = Сесил
+
+MGPKR_NAME_AMB_14 = Айзек
+
+MGPKR_NAME_AMB_15 = Флойд
+
+MGPKR_NAME_AMB_16 = Клод
+
+MGPKR_NAME_AMB_17 = Элвин
+
+MGPKR_NAME_AMB_18 = Берт
+
+MGPKR_NAME_AMB_19 = Сидни
+
+MGPKR_NAME_AMB_20 = Моррис
+
+MGPKR_NAME_AMB_21 = Вернон
+
+MGPKR_NAME_AMB_22 = Эммет
+
+MGPKR_NAME_ARTHUR = Артур
+
+MGPKR_NAME_DEALER_IND3 = Дилер
+
+MGPKR_NAME_DESMOND_IND3 = Дезмонд Блайт
+
+MGPKR_NAME_OPPONENT = Соперник
+
+MGPKR_NAME_OPPONENTA_IND3 = Перри Истеп
+
+MGPKR_NAME_OPPONENTA_REV1 = Марвин
+
+MGPKR_NAME_OPPONENTB_IND3 = Оувен Гиллис
+
+MGPKR_NAME_OPPONENTB_REV1 = Лютер
+
+MGPKR_NAME_OPPONENTC_IND3 = Теодор Диксон
+
+MGPKR_OBJ_YOUR_TURN = Ваш ход
+
+MGPKR_OFFER_REBUYIN = Вы можете внести деньги в банк, чтобы продолжить играть, или покинуть стол.
+
+MGPKR_RAKE = Зал берет комиссию ~1$~.
+
+MGPKR_RANKL1_2 = 2
+
+MGPKR_RANKL1_3 = 3
+
+MGPKR_RANKL1_4 = 4
+
+MGPKR_RANKL1_5 = 5
+
+MGPKR_RANKL1_6 = 6
+
+MGPKR_RANKL1_7 = 7
+
+MGPKR_RANKL1_8 = 8
+
+MGPKR_RANKL1_9 = 9
+
+MGPKR_RANKL1_10 = 10
+
+MGPKR_RANKL1_ACE = туз
+
+MGPKR_RANKL1_JACK = валет
+
+MGPKR_RANKL1_KING = король
+
+MGPKR_RANKL1_QUEEN = дама
+
+MGPKR_RANKL2_2 = 2
+
+MGPKR_RANKL2_3 = 3
+
+MGPKR_RANKL2_4 = 4
+
+MGPKR_RANKL2_5 = 5
+
+MGPKR_RANKL2_6 = 6
+
+MGPKR_RANKL2_7 = 7
+
+MGPKR_RANKL2_8 = 8
+
+MGPKR_RANKL2_9 = 9
+
+MGPKR_RANKL2_10 = 10
+
+MGPKR_RANKL2_ACE = тузы
+
+MGPKR_RANKL2_JACK = вальты
+
+MGPKR_RANKL2_KING = короли
+
+MGPKR_RANKL2_QUEEN = дамы
+
+MGPKR_RANKU1_2 = 2
+
+MGPKR_RANKU1_3 = 3
+
+MGPKR_RANKU1_4 = 4
+
+MGPKR_RANKU1_5 = 5
+
+MGPKR_RANKU1_6 = 6
+
+MGPKR_RANKU1_7 = 7
+
+MGPKR_RANKU1_8 = 8
+
+MGPKR_RANKU1_9 = 9
+
+MGPKR_RANKU1_10 = 10
+
+MGPKR_RANKU1_ACE = туз
+
+MGPKR_RANKU1_JACK = валет
+
+MGPKR_RANKU1_KING = король
+
+MGPKR_RANKU1_QUEEN = дама
+
+MGPKR_REFUND_THEM = Ставка другого игрока (~1p~) больше, чем у всех остальных, поэтому ~2$~ разницы возвращено.
+
+MGPKR_REFUND_THEM_MP = Ставка игрока ~n~~1p~ больше, чем у всех остальных, поэтому ~2$~ разницы возвращено.
+
+MGPKR_REFUND_YOU = Ваша ставка больше, чем у любого другого игрока, поэтому ~1$~ разницы возвращено вам.
+
+MGPKR_SKIP = Пропустить
+
+MGPKR_SUIT_CLUB = трефы
+
+MGPKR_SUIT_DMOND = бубны
+
+MGPKR_SUIT_HEART = черви
+
+MGPKR_SUIT_SPADE = пики
+
+MGPKR_T_BOARD_1 = Когда все игроки сделали ставки, сдаются три общие карты, которые называются «флоп».
+
+MGPKR_T_BOARD_2 = Четвертая общая карта называется «терн».
+
+MGPKR_T_BOARD_3 = После сдачи пятой общей карты, которая называется «ривер», наступает последний раунд ставок.
+
+MGPKR_T_INTRO_A = В начале раунда каждому игроку сдаются две карты. Позже можно получить дополнительные карты.
+
+MGPKR_T_INTRO_B = Игроки должны угадать, у кого самая сильная комбинация, или блефовать со слабой комбинацией.
+
+MGPKR_T_PACT_1A = Настала очередь Артура делать ставку. Удерживайте ~INPUT_MINIGAME_POKER_YOUR_CARDS~, чтобы посмотреть карты Артура.
+
+MGPKR_T_PACT_1B = У Артура дама и десятка – неплохо для начала.
+
+MGPKR_T_PACT_1C = Вы можете ответить на текущую ставку или поднять ее с помощью ~INPUT_MINIGAME_CHANGE_BET_AXIS_Y~. Если вы поднимете ставку, остальные должны поставить столько же или сдаться. Если вы не хотите отвечать на ставку, можете спасовать и тем самым сдаться.
+
+MGPKR_T_PACT_2A = Сейчас очередь Артура делать ставку. Удерживайте ~INPUT_MINIGAME_POKER_COMMUNITY_CARDS~, чтобы посмотреть общие карты.
+
+MGPKR_T_PACT_2B = Теперь у Артура пара: одна дама в руке и еще одна в общих картах. С такой комбинацией можно играть дальше.
+
+MGPKR_T_PACT_2C = Ставок пока нет. Вы можете сделать «чек», ничего не ставя, сделать ставку или спасовать.
+
+MGPKR_T_PACT_3A = Сейчас очередь Артура делать ставку. Удерживайте ~INPUT_MINIGAME_POKER_COMMUNITY_CARDS~, чтобы посмотреть общие карты.
+
+MGPKR_T_PACT_3B = Туз является «страшной картой». Если у другого игрока окажется пара тузов, он побьет вашу пару дам. Возможно, разумнее делать небольшие ставки.
+
+MGPKR_T_PACT_3C = Вы можете сделать чек или ставку или спасовать.
+
+MGPKR_T_PACT_4A = Сейчас очередь Артура делать ставку. Удерживайте ~INPUT_MINIGAME_POKER_COMMUNITY_CARDS~, чтобы посмотреть общие карты.
+
+MGPKR_T_PACT_4B = Благодаря десятке в общих картах у Артура теперь две пары: пара дам и пара десяток. Это хорошая комбинация и повод для уверенной ставки.
+
+MGPKR_T_PACT_4C = Вы можете сделать чек или ставку или спасовать. Если хотите действовать более агрессивно, можете поставить все свои фишки – пойти «ва-банк».
+
+MGPKR_T_PACT_5 = После хода Артура другой игрок поднял ставку. Чтобы остаться в игре, вы должны принять ставку или поднять ее.
+
+MGPKR_T_QUIT = Удерживайте ~INPUT_MINIGAME_QUIT~, чтобы в любой момент покинуть игру.
+
+MGPKR_UI_1ST_SIDEPOT = Первый дополнительный банк
+
+MGPKR_UI_2ND_SIDEPOT = Второй дополнительный банк
+
+MGPKR_UI_3RD_SIDEPOT = Третий дополнительный банк
+
+MGPKR_UI_4TH_SIDEPOT = Четвертый дополнительный банк
+
+MGPKR_UI_5TH_SIDEPOT = Пятый дополнительный банк
+
+MGPKR_UI_6TH_SIDEPOT = Шестой дополнительный банк
+
+MGPKR_UI_ALLIN = Ва-банк (~1$~)
+
+MGPKR_UI_ALLIN2 = Ва-банк
+
+MGPKR_UI_ALTER = Количество
+
+MGPKR_UI_BET = Сделать ставку (~1$~)
+
+MGPKR_UI_BET2 = Сделать ставку
+
+MGPKR_UI_BET_MAX_BET = Ставка (макс.)
+
+MGPKR_UI_BOARD = Общие карты
+
+MGPKR_UI_BUYIN = Вступительный взнос (~1$~)
+
+MGPKR_UI_CALL = Ответить на ставку (~1$~)
+
+MGPKR_UI_CALL2 = Ответить на ставку
+
+MGPKR_UI_CALL_MAX_BET = Ответить на ставку (макс.)
+
+MGPKR_UI_CASH = ~1$~
+
+MGPKR_UI_CHECK = Чек (~1$~)
+
+MGPKR_UI_CHECK2 = Чек
+
+MGPKR_UI_FOLD = Пас
+
+MGPKR_UI_FOLD2 = Пас
+
+MGPKR_UI_FREE_LOOK = Свободная камера
+
+MGPKR_UI_HANDS = Комбинации
+
+MGPKR_UI_HOLE = Ваши карты
+
+MGPKR_UI_INTERVAL_COUNTDOWN_LABEL = Раздача через:
+
+MGPKR_UI_INTERVAL_COUNTDOWN_SECS = ~1~
+
+MGPKR_UI_INTERVAL_PLAYERS_LABEL = Игроков, сделавших взнос
+
+MGPKR_UI_INTERVAL_PLAYERS_N = ~1~/~2~
+
+MGPKR_UI_MAINPOT = Основной банк
+
+MGPKR_UI_MAX_BET = Макс. ставка (~1$~)
+
+MGPKR_UI_MUCK = Сбросить
+
+MGPKR_UI_POT = Банк
+
+MGPKR_UI_PRETURN_CALL_ANY = Ответ на ставку
+
+MGPKR_UI_PRETURN_CANCEL = Отменить
+
+MGPKR_UI_PRETURN_CHECK = Чек
+
+MGPKR_UI_PRETURN_CHECK_FOLD = Чек/пас
+
+MGPKR_UI_PRETURN_FOLD = Пас
+
+MGPKR_UI_PRETURN_MENU = Автоставка
+
+MGPKR_UI_PRETURN_MENU_CALL_ANY = Автоставка (Ответ на ставку)
+
+MGPKR_UI_PRETURN_MENU_CHECK = Автоставка (Чек)
+
+MGPKR_UI_PRETURN_MENU_CHECK_FOLD = Автоставка (Чек/Пас)
+
+MGPKR_UI_PRETURN_MENU_FOLD = Автоставка (Пас)
+
+MGPKR_UI_PRETURN_MENU_MP = Автоставки
+
+MGPKR_UI_RAISE = Поднять ставку (~1$~)
+
+MGPKR_UI_RAISE2 = Поднять ставку
+
+MGPKR_UI_RAISE_MAX_BET = Поднять ставку (макс.)
+
+MGPKR_UI_SIDEPOT = Дополнительный банк
+
+MGPKR_UI_STRAUSS = Штраус
+
+MGPKR_YOU = Вы
+
+MGPKR_YOU_NEED_TO_BUYIN = Сделайте взнос, чтобы присоединиться на следующей раздаче.
+

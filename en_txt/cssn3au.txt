@@ -1,0 +1,36 @@
+CSSN3_ACTA_1 = ~z~~sl:0.7:1.8:1~What you doing, Tilly?
+
+CSSN3_ACTA_2 = ~z~Nothing, Miss Grimshaw.
+
+CSSN3_ACTA_3 = ~z~~sl:0.0:1.4~That's right. Nothing.~sl:0.3~You're useless.
+
+CSSN3_ACTA_4 = ~z~~sl:0.0:1.2~You're worse than useless.~sl:~You're a parasite.
+
+CSSN3_ACTA_5 = ~z~~sl:0.0:1.5~You're a worm. Ridiculous.~sl:~Get ready.
+
+CSSN3_ACTA_6 = ~z~~sl:0.0:1.5~But I don't wanna work, Miss Grimshaw,~sl:~I don't feel right.
+
+CSSN3_ACTA_7 = ~z~~sl:0.0:2.5~I don't care what you feel, girl.~sl:~Get ready!
+
+CSSN3_ACTA_8 = ~z~
+
+CSSN3_ACTBBACK_1 = ~z~
+
+CSSN3_ACTBBACK_2 = ~z~These girls, Mr. Morgan. I...
+
+CSSN3_ACTBBACK_3 = ~z~It's a shame they weren't princesses in fairy tales.
+
+CSSN3_ACTBBACK_4 = ~z~Well, it looks like they found their fairy godmother.
+
+CSSN3_ACTBBACK_5 = ~z~
+
+CSSN3_ACTBFRONT_1 = ~z~These girls, Mr. Morgan.
+
+CSSN3_ACTBFRONT_2 = ~z~It's a shame they weren't princesses in fairy tales.
+
+CSSN3_ACTBFRONT_3 = ~z~Well, it looks like they found their fairy godmother.
+
+CSSN3_ACTB_1 = ~z~~sl:0.0:1.4:1~You...
+
+CSSN3_ACTB_2 = ~z~Useless whore.
+

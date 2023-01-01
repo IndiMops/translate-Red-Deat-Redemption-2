@@ -1,0 +1,54 @@
+MPFT_BLIP_PLAYER_CAMP = Camp
+
+MPFT_HELP_BINK_MSG_01 = Survive and prosper across the American frontier.
+
+MPFT_HELP_BINK_MSG_02 = Use the Defensive Playing Style to explore the land in safety or the Offensive Playing Style to engage other players in deadly shootouts.
+
+MPFT_HELP_BINK_MSG_03 = Use Gold or RDO$ to purchase provisions or custom-tailor your own clothing, appearance and even weapons.
+
+MPFT_HELP_BINK_MSG_04 = Form a Posse with friends and experience everything the frontier has to offer.
+
+MPFT_HELP_BINK_MSG_05 = Seek out work from local figures across the five states or compete against other players.
+
+MPFT_HELP_BINK_MSG_06 = Forge your own path and develop skills across various Specialist Roles.
+
+MPFT_HELP_BINK_MSG_07 = Unlock new features, equipment, and Rewards as you progress through each role.
+
+MPFT_HELP_BINK_MSG_08 = Enjoy the fruits of labor with friends at your owned property or set up Camp to rest and regroup.
+
+MPFT_HELP_BINK_MSG_09 = Alone or together, you're ready to explore the world of Red Dead Online.
+
+MPFT_HELP_ENTER_SERIES = Enter a Series and compete against others by using a Series Marker ~1b~ or through the Player menu.
+
+MPFT_HELP_EXTRA_STALLS = Extra stalls can be purchased in the Stable. These allow you to buy and manage additional horses.
+
+MPFT_HELP_FREE_MISSIONS = Find and accept Free Roam missions from various characters ~1b~.
+
+MPFT_HELP_GENERAL_STORE = Visit General Stores ~BLIP_SHOP_STORE~ and Tailors ~BLIP_SHOP_TAILOR~ for supplies and clothing.
+
+MPFT_HELP_GUNSMITH = Gunsmiths ~BLIP_SHOP_GUNSMITH~ will sell and upgrade your weapons.
+
+MPFT_HELP_HORSE_CARE = Grooming and caring for your horse increases your bonding level. Continuing to bond with your horse improves its attributes.
+
+MPFT_HELP_HORSE_DEAD_RESPAWN = Your horse has been critically injured. Use ~INPUT_WHISTLE~ to whistle for a Scrawny Nag.
+
+MPFT_HELP_HORSE_INSURANCE = Purchasing Horse Insurance will allow your horse to automatically recover over time if it's critically injured.
+
+MPFT_HELP_HORSE_RPG = Horse Cores drain over time. Feed your horse to replenish its Cores. Hold ~INPUT_OPEN_WHEEL_MENU~ and press ~INPUT_SELECT_NEXT_WHEEL~ to select the Horse Wheel while next to or on your horse.
+
+MPFT_HELP_HORSE_SADDLE = You have bonded with your horse after purchasing a saddle for it. Your horse is indicated by a ~BLIP_HORSE_OWNED~ on the radar.
+
+MPFT_HELP_HORSE_WHISTLE_RESPAWN = Use ~INPUT_WHISTLE~ to whistle for a horse.
+
+MPFT_HELP_JOIN_POSSE = Form or join a Posse with other players, and improve your chance of success in Red Dead Online.
+
+MPFT_HELP_PLAYER_MENU = You are now free to explore. To move your Camp, create a Posse, or switch to a Defensive Playing Style, press ~INPUT_PLAYER_MENU~ to open the Player menu.
+
+MPFT_HELP_RIVAL_COUNTER = Or counter a rival player's mission for your own reward.
+
+MPFT_OBJ_GO_TO_CAMP__TRAVEL_TO_CAMP = Meet Cripps at your ~COLOR_MP_OBJECTIVE~Camp
+
+MPFT_OBJ_PLAYER_MENU__OPEN_MENU = ~INPUT_PLAYER_MENU~ Open the Player menu
+
+MPFT_OBJ_RETURN_TO_MISSION_AREA = Return to the mission area
+

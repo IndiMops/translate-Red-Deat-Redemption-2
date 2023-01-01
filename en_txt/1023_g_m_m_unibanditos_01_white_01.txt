@@ -1,0 +1,328 @@
+0x00BD0DAE = ~z~You lost it?
+
+0x051AE9DD = ~z~Still woulda preferred to sleep in that farm house.
+
+0x0537AC5D = ~z~My feet feel like they about to fall off.
+
+0x0B780754 = ~z~Hey. Control yourself.
+
+0x1B6A508F = ~z~Oh, just shut your goddamn mouth.
+
+0x1EA603C4 = ~z~You know who runs the show around here, right? Make sure you remember it.
+
+0x1EF58B23 = ~z~~sl:4.3:3.4:1~You know what they do with them tin stars in Mexico, boy?
+
+0x1FA154B0 = ~z~Surrender and save yourself a whole lot of hurt.
+
+0x2AF130F7 = ~z~No!
+
+0x2B089F23 = ~z~You're dead meat.
+
+0x2B148231 = ~z~This piece of shit's getting the big gun!
+
+0x2C4BD259 = ~z~Hey, do you see us tramping all over your land?
+
+0x2C251EDD = ~z~Move so much as an eyebrow and it's all over.
+
+0x2D24721C = ~z~I-I'll strangle you with this rope...
+
+0x2F9025B3 = ~z~One more move and I drop you.
+
+0x3B85FC42 = ~z~At least you looking.
+
+0x3B393DCB = ~z~I don't care if I kill you or not. Hands in the air or you're dead.
+
+0x3C662A31 = ~z~Whoa, that's a whopper of a mistake.
+
+0x3E4006EA = ~z~~sl:0.8:3.6:1~Only lock me up if you want this town to burn, Sheriff.
+
+0x3EF7889A = ~z~I said stop and I ain't fooling.
+
+0x3F80E6E9 = ~z~Don't you treat folk with such disrespect.
+
+0x4A5A38E2 = ~z~We're all around you!
+
+0x4AB6A1C6 = ~z~Eat this!
+
+0x4B4496FE = ~z~You're gonna regret that.
+
+0x4CF99B3A = ~z~You're living, not dying, ain't you? What else d'you think should occupy your precious hours?
+
+0x4E086D7F = ~z~Didn't reckon on the Del Lobos, I see.
+
+0x4E0EC1EA = ~z~I warned you already.
+
+0x4E26EDE7 = ~z~I'm not in a kidding mood, you better stay still.
+
+0x5A9BF799 = ~z~You'll bleed, alright!
+
+0x5ACFCA38 = ~z~You're not getting away with nothing this time.
+
+0x5FA02876 = ~z~Looks like they're aiming for a break-out!
+
+0x6CB20A4C = ~z~We was sleeping on top of each other when I was out fighting in the Caribbean. This'll do.
+
+0x6D0682FB = ~z~We should've of slept at the farm. The feller was hospitable enough.
+
+0x6D56581B = ~z~Whoa, hold it.
+
+0x6E769880 = ~z~Get back to the ship!
+
+0x6EDD094A = ~z~I'll remember this!
+
+0x7E5C1D0E = ~z~I said hands up. No fooling.
+
+0x7EBDD032 = ~z~Beat it!
+
+0x8BA6C9AC = ~z~I'm warning you.
+
+0x8C8BB96D = ~z~Don't you screw around. Hands up.
+
+0x8C383197 = ~z~Think again.
+
+0x8D3F528E = ~z~Gonna light your ass up!
+
+0x8F4414C6 = ~z~You better think what you're doing.
+
+0x9BAD5B87 = ~z~You're completely surrounded.
+
+0x9D286CAF = ~z~Consider yourself warned.
+
+0x17C23DC5 = ~z~You both trying to rile me now? I'm too tired for this! I'm liable to lose my temper...
+
+0x17E2A029 = ~z~What kind of nonsense is that?
+
+0x24B8891B = ~z~If there weren't good money in this work with you...
+
+0x36D16637 = ~z~Ho! Someone came to die!
+
+0x37C3CA02 = ~z~What do you think you're doing here?
+
+0x38A5A245 = ~z~Let's see what he thinks of this!
+
+0x39F14551 = ~z~You people forget about the Del Lobos, but you shouldn't.
+
+0x43BEAEB7 = ~z~I'll tear that smirk off your face and throw it a mile away.
+
+0x43E7DA87 = ~z~Beat it.
+
+0x46DC6314 = ~z~Cornbread cocksucker!
+
+0x50A600DC = ~z~Don't even twitch.
+
+0x51A3BA50 = ~z~What a language...
+
+0x55D20449 = ~z~None of your damn business!
+
+0x61FEB253 = ~z~This little shit's going for the boat!
+
+0x64C103BF = ~z~
+
+0x67D0247C = ~z~I ain't warning you again!
+
+0x73EA06F6 = ~z~What do you call dough? 'Marmaja'?
+
+0x75DEBE74 = ~z~Scram.
+
+0x83C965C4 = ~z~Why don't you all just toss over your goods, your money, to my friend, and we all go home.
+
+0x86DAB422 = ~z~He's gotten to the camp, dammit!
+
+0x92E42107 = ~z~~sl:0.0:1.2~That don't keep you contented?~sl:0.8:2.5~Point your horse to the nearest damn cliff edge~sl:0.4~and goddamn give that nag your Mexican spurs.
+
+0x95FB6739 = ~z~Part of the job, I guess.
+
+0x97DED581 = ~z~You were warned.
+
+0x99B6A472 = ~z~I'll tear you up!
+
+0x99C69678 = ~z~
+
+0x125B8A2F = ~z~Sure you want to talk to me that way?
+
+0x246ED80D = ~z~And animals don't count, anyhow.
+
+0x309C46B0 = ~z~You sure like to shoot your piehole off.
+
+0x316FBAC9 = ~z~Hey, hey, you untie me.
+
+0x496E7C17 = ~z~They're coming for 'em!
+
+0x517C4A32 = ~z~How about I bash your skull open and see how thick you really are?
+
+0x558DC1D0 = ~z~You know what? I wish you gave me an excuse to kill you.
+
+0x563D9E81 = ~z~Don't waste our time, just off him.
+
+0x621F75A3 = ~z~Don't you point that iron at me.
+
+0x679BC13D = ~z~Come on, they're nobody, just waste 'em.
+
+0x810B715F = ~z~~sl:0.2:3.3~You don't release me now, twelve angry Mexicans~sl:~is gonna ride through this town, burn it all to hell.
+
+0x811B7BA0 = ~z~Sure.
+
+0x1015A0A1 = ~z~Hell, even I know that ain't right.
+
+0x1588B9E3 = ~z~Cut these goddamn ropes.
+
+0x3262FB50 = ~z~Being a bandito was meant to be fun.
+
+0x3589BFD8 = ~z~This is your last goddamn warning.
+
+0x4224EBD3 = ~z~I wish someone would try something out there. Break the day up and all.
+
+0x4275FED6 = ~z~Yeah, my butt's aching like hell.
+
+0x4962E57D = ~z~Just get lost!
+
+0x6666C692 = ~z~You must be dizzy if you think we'd let you on our patch uninvited.
+
+0x8388C254 = ~z~Not what you'd call lucrative, but whatever.
+
+0x8512F20C = ~z~People ain't your toys.
+
+0x13391CAE = ~z~You do this, it'll have consequences.
+
+0x45658F05 = ~z~Got us a hangnail!
+
+0x66602C50 = ~z~Don't move a muscle.
+
+0x74321D95 = ~z~That's it, keep going.
+
+0x179101DA = ~z~Get the hell out of here.
+
+0x241601AD = ~z~Intruder! Look out!
+
+0x424069F9 = ~z~Watch it.
+
+0x631718E5 = ~z~Get the hell out of here!
+
+0x886501CF = ~z~Let's go!
+
+0x3299154B = ~z~So, where next? Saloon, bordello, or bank? I still got fire in my belly.
+
+0x4483505F = ~z~How thick are you? Last chance to put those hands up.
+
+0x7912579B = ~z~You'd best think before you go spouting off.
+
+0x12713116 = ~z~What the hell?
+
+0x27483409 = ~z~Look out.
+
+0x29969807 = ~z~Yeah, that I didn't swive your mother.
+
+0x58550243 = ~z~Plant yourself like a tree and stay like that.
+
+0x70631202 = ~z~Okay, friends!
+
+0xA1FFF930 = ~z~Keep moving.
+
+0xA40C3140 = ~z~What kind of person acts like that?
+
+0xA66AF419 = ~z~It's a bloody, pointless, seat of your pants, hell of a time, is what it is...
+
+0xA196D4D2 = ~z~~sl:0.0:3.3~Ponder it all you like... in Mexican or in English.~sl:0.4:3.1~You won't find no answers, just a life to lead...~sl:0.4~killing to be done, money for your pocket.
+
+0xA479554E = ~z~Okay, die!
+
+0xAB97EBDC = ~z~Get out of the goddamn way.
+
+0xAC36D5E3 = ~z~Hey! Hold your horses there.
+
+0xAF6838FE = ~z~Another one who gives it out but can't take it.
+
+0xAFBE6677 = ~z~You idiot. I'm out of here.
+
+0xB0CB93E9 = ~z~Be warned.
+
+0xB6F742C9 = ~z~This is your last goddamn warning!
+
+0xB10DA0DB = ~z~So damn ornery.
+
+0xB38AFBB1 = ~z~I can't believe you came back here. What a head-scratcher.
+
+0xB56A1159 = ~z~You'll kill a man when he's tied up? You have no honor, compadre!
+
+0xB65FD5E7 = ~z~Why are you bothering those people?
+
+0xB96D7050 = ~z~Hey! Not so fast there.
+
+0xB153B559 = ~z~Scram!
+
+0xB626B2FE = ~z~I'm surprised you sleep at all.
+
+0xB15528E5 = ~z~My sister wouldn't go with no reptile, and I resent the insinuation!
+
+0xBBFA13AA = ~z~You realize how long I've been waiting for an excuse to use this?
+
+0xC1C448AF = ~z~This is all you, ain't it?
+
+0xC54D412A = ~z~Pig-shit cocksucker! We're gonna teach you Mexican!
+
+0xC62F62EF = ~z~Get out before I make you.
+
+0xC15384DD = ~z~We good, yeah? I don't want to find any blood on my money.
+
+0xCAA070F8 = ~z~Get him!
+
+0xCBA5BAA3 = ~z~Back to camp, now!
+
+0xCBEE2B7C = ~z~You been out here a long time, ain't you... Watch yourself!
+
+0xCC3281A1 = ~z~Don't let them bust 'em out!
+
+0xCD2BC196 = ~z~Get down from there, right now.
+
+0xCE39A8CE = ~z~You're dead!
+
+0xCE9538E0 = ~z~Come on, ask me to use this. I need to.
+
+0xD3BF8DC5 = ~z~Someone came here looking to die!
+
+0xD4B77E49 = ~z~I ain't warning you again.
+
+0xD7ED1765 = ~z~Quiet as an old maid's garter out there.
+
+0xD35A23C5 = ~z~You got a target on you now, cornbread!
+
+0xD89B8CEE = ~z~Drop him!
+
+0xDA9E2E4E = ~z~Hey! You hear me? Cut these damn ropes!
+
+0xDCDF5574 = ~z~You think I'm not waiting for an excuse to use this?
+
+0xDF1910E7 = ~z~Just get lost.
+
+0xE42D5E5C = ~z~Hands up, don't do anything stupid.
+
+0xE64F53FE = ~z~This piece of shit's going through our stuff!
+
+0xE264BD71 = ~z~Cut it out you two. We been riding for days... we all need baths.
+
+0xE8232BFD = ~z~Take him down!
+
+0xEB8D4F73 = ~z~I ain't deaf, I heard you the first time.
+
+0xEB139C90 = ~z~Del Lobos aren't partial to sudden visitations. You better watch it.
+
+0xEC1DC2C7 = ~z~Again? Again? Goddamn you, cornseed prick!
+
+0xEC35D3EA = ~z~Shit! Got ourselves a visitor!
+
+0xF9C183F2 = ~z~Lighting a bottle!
+
+0xF10FF821 = ~z~Hands up, no funny business.
+
+0xF42DC08D = ~z~Hey, no! The boy was going to put me in the cell!
+
+0xF62D3738 = ~z~He's on our ship!
+
+0xF263FD22 = ~z~Hey, what do you think you're doing?
+
+0xFC07DF9A = ~z~Time goes real slow on patrol. That's all I'm saying.
+
+0xFD6424A5 = ~z~Not yet, not yet... Now!
+
+0xFF4BF72F = ~z~Point? Point? If you looking for a point you done gone missed the whole damn point of all of this.
+

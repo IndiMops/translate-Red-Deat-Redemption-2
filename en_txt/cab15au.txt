@@ -1,0 +1,20 @@
+CCAB15_P1_1 = ~z~I don't like the sound of this.
+
+CCAB15_P1_2 = ~z~~sl:0.9:0.0~All I'm saying, something happens, we get split up, we meet there.
+
+CCAB15_P1_3 = ~z~Owanjila Dam. Alright?
+
+CCAB15_P1_4 = ~z~Alright.
+
+CCABI15_P1A1_1 = ~z~You ain't leaving right now, are you?
+
+CCABI15_P1A1_2 = ~z~Just making sure we got a plan.
+
+CCABI15_P1A1_3 = ~z~You never know how these things are gonna turn out.
+
+CCABI15_P1A1_4 = ~z~I'm trying to look out for the boy.
+
+CCABI15_P1A2_1 = ~z~And you?
+
+CCABI15_P1A2_2 = ~z~I'm working on it. Let's keep talking, okay?
+

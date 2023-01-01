@@ -1,0 +1,80 @@
+0x0A676A2E = Speak to Strauss to find out about his latest debtors and open Loanshark missions.
+
+0x18DDB1B0 = Get back on the ~o~wagon~s~ with ~f~Hosea~s~
+
+0x26DB0649 = The caravan was abandoned.
+
+0x76F78140 = CHAPTER 2: HORSESHOE OVERLOOK
+
+0x82CA5D70 = You committed a crime.
+
+0x4699D558 = The shortest route to a required destination is shown by the yellow line on the radar.
+
+0xAD6AEE26 = 2 WEEKS LATER
+
+0xAEF4FD6A = Return to ~o~the caravan~s~
+
+MUD1_AUTOSTEER_HLP = Hold ~INPUT_HORSE_SPRINT~ while viewing cinematic camera to automatically follow roads and other paths.
+
+MUD1_CMP_HLP = The Compendium tracks what you have discovered in the world. It can be accessed in the Progress section of the pause menu.
+
+MUD1_FAIL_CARA = The caravan was abandoned.
+
+MUD1_FAIL_DRAFT = The wagon horses got loose.
+
+MUD1_FAIL_HORSE = A companion's Horse has died.
+
+MUD1_FAIL_ROUTE = You went off the route to Horseshoe Overlook.
+
+MUD1_FAIL_WAGON = You abandoned the group.
+
+MUD1_GTO_OBJ1 = ~INPUT_VEH_EXIT~ Get back on the ~o~wagon~s~
+
+MUD1_GTO_OBJ2 = Go to ~o~Horseshoe Overlook~s~
+
+MUD1_HELP_DONATION = Donate money and valuables to camp to upgrade ammo, food and other camp supplies.
+
+MUD1_HELP_RADAR = You can switch between different radar sizes and the compass by holding ~INPUT_SELECT_RADAR_MODE~
+
+MUD1_HELP_RESTORE = Eat, drink, and rest to maintain your Cores.
+
+MUD1_HELP_REV = Hold ~INPUT_VEH_BRAKE~ to reverse the wagon when stuck.
+
+MUD1_HELP_STOP = Hold ~INPUT_VEH_BRAKE~ to bring the wagon to a complete stop.
+
+MUD1_HELP_TENT = Sleep, shave, change clothes or store weapons in the weapon locker at your tent.
+
+MUD1_HERB_HLP = You acquired some herbs. These can be consumed to replenish your Cores, used in cooking, or to craft items.
+
+MUD1_HERB_HLP_2 = A variety of plants can be found throughout the world. Pick them to learn about their properties.
+
+MUD1_HOT_HLP = You are now hot. This is shown by the flashing sun icon in your Health Core. While you are too hot or too cold, your Health Core will drain faster.
+
+MUD1_HOT_HLP_2 = To avoid becoming too hot, make sure you wear clothes appropriate for the environment.
+
+MUD1_LMT_HLP2 = Tap ~INPUT_VEH_ACCELERATE~ to accelerate.~n~Hold ~INPUT_VEH_BRAKE~ to decelerate.
+
+MUD1_LMT_OBJ1 = Get on the ~o~wagon~s~ with ~f~Hosea~s~
+
+MUD1_LMT_OBJ2 = Hold ~INPUT_VEH_ACCELERATE|PromptId=INPUT_MUD1_ACCEL,Gutter~ to match speed with the ~o~caravan~s~
+
+MUD1_STUCK_CHA = Charles' wagon became stuck.
+
+MUD1_STUCK_DUT = Dutch's wagon became stuck.
+
+MUD1_STUCK_STR = Strauss' wagon became stuck.
+
+MUD1_STUCK_SWA = Swanson's wagon became stuck.
+
+MUD1_UC_FIX_2 = Pick up wheel
+
+MUD1_UC_FIX_3 = Roll wheel
+
+MUD1_UC_FIX_4 = Lift wheel
+
+MUD1_UC_FIX_6B = Bash wheel
+
+MUD1_WAGON_DIS = The wagon became inoperable.
+
+MUD1_WARN_WAGON = Return to your wagon
+

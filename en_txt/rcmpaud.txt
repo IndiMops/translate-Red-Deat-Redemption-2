@@ -1,0 +1,622 @@
+RCMP_AGGRO1_1 = ~z~Okay, that's enough now.
+
+RCMP_AGGRO2_1 = ~z~You need to leave.
+
+RCMP_AGGRO3_1 = ~z~Hey, what is your problem?
+
+RCMP_AGGRO4_1 = ~z~It's time you left now.
+
+RCMP_AIMPED1_1 = ~z~Sir, could you put that down, please?
+
+RCMP_AIMPED2_1 = ~z~Lower your weapon now, please.
+
+RCMP_ANGR_A_01 = ~z~Don't make me call the guards.
+
+RCMP_ANGR_A_02 = ~z~I do not want to call the guards on you.
+
+RCMP_ANGR_A_03 = ~z~If you don't leave, I'll have to call the guards.
+
+RCMP_ANGR_B_01 = ~z~Alright then. Guards! Come see this man off.
+
+RCMP_ANGR_B_02 = ~z~That's it. I need a guard over here!
+
+RCMP_ANGR_B_03 = ~z~Guards! This man needs to be escorted away.
+
+RCMP_ATK1_1 = ~z~Hey, what are you doing?
+
+RCMP_ATK2_1 = ~z~Any more of that and I will call the guards on you.
+
+RCMP_BODY1_1 = ~z~Oh my Lord, who is that you're carrying?
+
+RCMP_BODY2_1 = ~z~Would you take that elsewhere, please? It's only going to unsettle the workers further.
+
+RCMP_CONF2A_1 = ~z~Whoa, what are you doing here?
+
+RCMP_CONF2B_1 = ~z~Doing your friend Percy a little favor. He says one of the workers has been stealing.
+
+RCMP_CONF2B_2 = ~z~I reckon I just found him.
+
+RCMP_CONF2C_1 = ~z~Stealing? What!
+
+RCMP_CONF2C_2 = ~z~I'm the Junior Foreman here. It's them orientals you want to speak to.
+
+RCMP_CONV2D_1 = ~z~All right, all right! I'm leaving!
+
+RCMP_CONV2D_2 = ~z~The money is in the tree. Just... please don't kill me.
+
+RCMP_CONV3A_1 = ~z~You need to leave and never come back.
+
+RCMP_CONV3A_2 = ~z~Now the old me, he'd be punching your face in right now, but
+
+RCMP_CONV3A_3 = ~z~well this ain't the old me, so consider yourself lucky.
+
+RCMP_CONV3A_4 = ~z~But I wouldn't test my patience, though.
+
+RCMP_CONV3B_1 = ~z~All... alright, I'll go. Thank you.
+
+RCMP_CONV3B_2 = ~z~You're pathetic.
+
+RCMP_CONV5_1 = ~z~Oh shit, what the hell?
+
+RCMP_DYNAMITE1_1 = ~z~Hey, what are you doing there?
+
+RCMP_DYNAMITE2_1 = ~z~All dynamite must be overseen by a railroad employee.
+
+RCMP_F01AB_1 = ~z~You! Yes, you. You want to make some money?
+
+RCMP_F01AC_1 = ~z~I got a proposition for you. Just hear me out.
+
+RCMP_F01ANN_1 = ~z~Do you really think I care?
+
+RCMP_F01ANN_2 = ~z~Well, sorry. Just thought you'd like to know...
+
+RCMP_F01ANN_3 = ~z~Didn't mean to touch a nerve.
+
+RCMP_F01ANP_1 = ~z~Glad to hear it.
+
+RCMP_F01ANP_2 = ~z~Well, I'd best get back to it. Lots to supervise.
+
+RCMP_F01AN_1 = ~z~Back again, huh? All been going pretty smoothly here, knock on wood.
+
+RCMP_F01ASA_1 = ~z~First my Junior Foreman goes missing, and now this!
+
+RCMP_F01ASA_2 = ~z~The land up ahead got bought out from under us and we can't finish the track.
+
+RCMP_F01ASA_3 = ~z~They won't admit it... but I just know this is the Cornwall Company's doing.
+
+RCMP_F01ASA_4 = ~z~It has to be.
+
+RCMP_F01ASA_5 = ~z~Would you, uh... talk to them for me?
+
+RCMP_F01ASA_6 = ~z~I'll pay you well, I promise.
+
+RCMP_F01AS_1 = ~z~We are scuppered this time, properly scuppered!
+
+RCMP_F01AS_2 = ~z~The land up ahead got bought out from under us and we can't finish the track.
+
+RCMP_F01AS_3 = ~z~They won't admit it... but I just know this is old Leviticus Cornwall's doing.
+
+RCMP_F01AS_4 = ~z~It has to be.
+
+RCMP_F01AS_5 = ~z~Would you, uh... talk to them for me?
+
+RCMP_F01AS_6 = ~z~I'll pay you well, I promise.
+
+RCMP_F01A_1 = ~z~Hey you! Come here a minute!
+
+RCMP_F01BNF_1 = ~z~Sorry, I don't have time to deal with you right now.
+
+RCMP_F01BNF_2 = ~z~Do you have any idea how long it's taking to deal with the deed for that land?
+
+RCMP_F01BNF_3 = ~z~Wish it was my problem, but it ain't.
+
+RCMP_F01BNN_1 = ~z~I really ain't too concerned about your little railroad project.
+
+RCMP_F01BNN_2 = ~z~Oh, er, sure, just thought you'd like to know...
+
+RCMP_F01BNP_1 = ~z~Move it quick. Cornwall won't lie quiet for long.
+
+RCMP_F01BNP_2 = ~z~Going as fast as we can.
+
+RCMP_F01BN_1 = ~z~Hey there. Good to see you.
+
+RCMP_F01BN_2 = ~z~All moving ahead nicely here now, thanks to you.
+
+RCMP_F01CSB_1 = ~z~Come here for a second.
+
+RCMP_F01CSC_1 = ~z~I got another proposition for you.
+
+RCMP_F01CS_01 = ~z~Oh... hey! Just the man I want to see.
+
+RCMP_F01DH_1 = ~z~Hey there. Look, we're nearly done. Would you believe it?
+
+RCMP_F01DN_1 = ~z~Well, how's that for hospitality?
+
+RCMP_F01D_1 = ~z~What are you doing here? Back to not help us again?
+
+RCMP_F01IMPS_01 = ~z~This is sabotage! I don't know where else to turn.
+
+RCMP_F01IMPS_02 = ~z~I tried talking to them myself but they just laughed in my face.
+
+RCMP_F01IMPS_03 = ~z~Come on. Would you help me, please?
+
+RCMP_F01MS_1 = ~z~I know you wouldn't help me the last time, but I got another proposition for you.
+
+RCMP_F01SA_1 = ~z~I should just hand in my resignation now and draw up the divorce papers.
+
+RCMP_F01SA_2 = ~z~I'm finished.
+
+RCMP_F01S_1 = ~z~Well, how'd it go?
+
+RCMP_F02ANN_1 = ~z~What business is it of yours?
+
+RCMP_F02ANN_2 = ~z~Geez, I was just making a comment. Please forget I said anything.
+
+RCMP_F02ANP_1 = ~z~Just seeing how it's coming along.
+
+RCMP_F02ANP_2 = ~z~Well, if you'll excuse me, I should keep an eye on these fellers.
+
+RCMP_F02AN_1 = ~z~Well hey there. You sure pass through this way a lot!
+
+RCMP_F02BNF_1 = ~z~Surprised to see us working, I bet?
+
+RCMP_F02BNF_2 = ~z~The railroad managed to deal with that land issue and we are back up and running.
+
+RCMP_F02BNF_3 = ~z~See, you didn't need my help.
+
+RCMP_F02BNN_1 = ~z~Why would I want any work from you?
+
+RCMP_F02BNN_2 = ~z~Oh sure, no problem. I... I didn't mean nothing by it.
+
+RCMP_F02BNP_1 = ~z~Just taking a look on my way through.
+
+RCMP_F02BNP_2 = ~z~Well, I best be getting on.
+
+RCMP_F02BN_1 = ~z~Back again?
+
+RCMP_F02BN_2 = ~z~If it's work you're looking for, I don't have nothing for you, I'm afraid.
+
+RCMP_F02DH_1 = ~z~I'm glad you passed by. We've got some leftover supplies.
+
+RCMP_F02DH_2 = ~z~Feel free to help yourself to any of them. Least I can do for all the help you gave me.
+
+RCMP_F02R_1 = ~z~Please tell me you have good news.
+
+RCMP_F02S_1 = ~z~I can't do nothing without the deed!
+
+RCMP_F03DHN_1 = ~z~You're damn right that's the least you can do.
+
+RCMP_F03DHP_1 = ~z~Sure, maybe I'll take a look.
+
+RCMP_F03S_1 = ~z~One deed to the property. They was very understanding.
+
+RCMP_F03S_2 = ~z~You got my money?
+
+RCMP_F03S_3 = ~z~Yes, I was just about to call it a day. Thank you.
+
+RCMP_F03S_4 = ~z~Me and Mr. Cornwall go way back.
+
+RCMP_F03S_5 = ~z~
+
+RCMP_F04IMPSA_01 = ~z~What did they say?
+
+RCMP_F04IMPSA_02 = ~z~It didn't go well, did it?
+
+RCMP_F04IMPSA_03 = ~z~Oh, just tell me. I'm resigned to the worst.
+
+RCMP_FINSA_1 = ~z~I got your money. Here.
+
+RCMP_FINSA_2 = ~z~You are gonna need a new Junior Foreman, though. He just...
+
+RCMP_FINSA_3 = ~z~passed away under tragic circumstances.
+
+RCMP_FINSA_4 = ~z~Randal? That dirty rat!
+
+RCMP_FINSA_5 = ~z~You didn't have to kill him, though. My god.
+
+RCMP_FINSA_6 = ~z~Now here, take some for payment...
+
+RCMP_FINSA_7 = ~z~I want to give you more, but I got a funeral to arrange.
+
+RCMP_FINSB_1 = ~z~Your colleague here...
+
+RCMP_FINSB_2 = ~z~thought he was entitled to a bonus.
+
+RCMP_FINSB_3 = ~z~ I've got your money.
+
+RCMP_FINSB_4 = ~z~Randal? I don't believe it. You oughta be ashamed of yourself.
+
+RCMP_FINSB_5 = ~z~Thank you for your help, partner.
+
+RCMP_FINSB_6 = ~z~Here, for your trouble.
+
+RCMP_FINSU1B_1 = ~z~How'd you get on?
+
+RCMP_FINSU1B_2 = ~z~Well, I got an idea who it is, but I ain't found the money yet.
+
+RCMP_FINSU1B_3 = ~z~I really hope we get to the bottom of this soon, my Junior Foreman's gone missing now too.
+
+RCMP_FINSU1_1 = ~z~How'd you get on?
+
+RCMP_FINSU1_2 = ~z~Well, I got an idea who it is but I ain't found the money yet.
+
+RCMP_FINSU1_3 = ~z~Well, keep an eye on him. He's bound to slip up sooner or later.
+
+RCMP_FINSU2_1 = ~z~Well, any luck?
+
+RCMP_FINSU2_2 = ~z~Not yet. I'm keeping my eye out.
+
+RCMP_FINSU3_1 = ~z~Please tell me you found the money?
+
+RCMP_FINSU3_2 = ~z~No luck yet. I got my suspicions, though.
+
+RCMP_GOODBYE_01 = ~z~Alright, guess I'll leave you to it.
+
+RCMP_GOODBYE_02 = ~z~Well, I'll be seeing you then.
+
+RCMP_GOODBYE_03 = ~z~Maybe I'll check back on you later, then.
+
+RCMP_HANG_01 = ~z~Well I'm sure you have other things to do.
+
+RCMP_HANG_02 = ~z~Sorry, I can't have you loitering around the work site.
+
+RCMP_HANG_03 = ~z~Well, don't let me keep you.
+
+RCMP_HOGN_1 = ~z~It's none of your business, now out of my way.
+
+RCMP_HOGP_1 = ~z~I caught him stealing money from the camp. I'm taking him back to the foreman.
+
+RCMP_IG3_P2_1 = ~z~I got your money. Here.
+
+RCMP_IG3_P2_2 = ~z~You're gonna need a new junior foreman though. He just quit.
+
+RCMP_IG3_P2_3 = ~z~Randal? I don't believe it.
+
+RCMP_IG3_P2_4 = ~z~Well, that does explain a few things...
+
+RCMP_IG3_P2_5 = ~z~Thank you for your help, partner. Here, for your trouble.
+
+RCMP_IG7_P1_1 = ~z~Oh hey, just the man I wanted to see.
+
+RCMP_IG7_P1_2 = ~z~You may not realize it but you did us a huge service.
+
+RCMP_IG7_P1_3 = ~z~Those men you dealt with up there? They was working for Leviticus Cornwall.
+
+RCMP_IG7_P1_4 = ~z~He bought up the land to try and sabotage us!
+
+RCMP_IG7_P1_5 = ~z~Well. Everyone's happy then I guess.
+
+RCMP_IG7_P1_6 = ~z~Wait! I wanna thank you.
+
+RCMP_IG7_P1_7 = ~z~Here... for your trouble.
+
+RCMP_IG8_1 = ~z~Oh, shit. Let's get out of here.
+
+RCMP_IG8_2 = ~z~I'm right behind you.
+
+RCMP_IG8_3 = ~z~Ain't even worth it. Here!
+
+RCMP_IG8_DISARM_1 = ~z~Now get, while I'm still feeling generous! Lazy bums...
+
+RCMP_IG8_KILLED_1 = ~z~I see any of you again you'll wish I shot you, too! Lazy bums...
+
+RCMP_INTENT_1 = ~z~It's all in the tent over there. Take whatever you want.
+
+RCMP_INTN_1 = ~z~They might work harder if you didn't treat them like shit.
+
+RCMP_INTN_2 = ~z~It's none of your damn business how I treat them. Now stay out of our way.
+
+RCMP_INTP_1 = ~z~How's it going there?
+
+RCMP_INTP_2 = ~z~Not good. Look at this useless bunch. Moving at a snail's pace.
+
+RCMP_INT_1 = ~z~Oh...
+
+RCMP_INT_2 = ~z~oh... oh, err...
+
+RCMP_INT_3 = ~z~thanks for stopping, sir.
+
+RCMP_INT_4 = ~z~Thank you.
+
+RCMP_INT_5 = ~z~Percy Whitsickle...
+
+RCMP_INT_6 = ~z~Central Union Railroad Company.
+
+RCMP_INT_7 = ~z~Maybe you can help me.
+
+RCMP_INT_8 = ~z~One of my...
+
+RCMP_INT_9 = ~z~one of my...
+
+RCMP_INT_10 = ~z~one of my workers has been stealing wages...
+
+RCMP_INT_11 = ~z~three weeks running.
+
+RCMP_INT_12 = ~z~I have searched...
+
+RCMP_INT_13 = ~z~everyone and everywhere ten times over!
+
+RCMP_INT_14 = ~z~Of course no one is talking.
+
+RCMP_INT_15 = ~z~The way they look at me...
+
+RCMP_INT_16 = ~z~What's all this gotta do with me?
+
+RCMP_INT_17 = ~z~Oh, err...
+
+RCMP_INT_18 = ~z~I just...
+
+RCMP_INT_19 = ~z~I think I need someone a little more neutral...
+
+RCMP_INT_20 = ~z~a little more persuasive...
+
+RCMP_INT_21 = ~z~an-an-and you look like you're a...
+
+RCMP_INT_22 = ~z~and I gotta watch the camp, so...
+
+RCMP_INT_23 = ~z~could you see what you could sniff out?
+
+RCMP_INT_24 = ~z~I'll pay you for your efforts, of course.
+
+RCMP_INT_25 = ~z~Yeah, I got it.
+
+RCMP_INT_26 = ~z~What exactly is it you want me to do?
+
+RCMP_INT_27 = ~z~Find the thief, and recover the money...
+
+RCMP_INT_28 = ~z~and give him his marching orders!
+
+RCMP_INT_29 = ~z~I'm not one for matters of personnel...
+
+RCMP_INT_30 = ~z~look for anyone sneaking off the line...
+
+RCMP_INT_31 = ~z~they've gotta be stashing it away from camp somewhere.
+
+RCMP_INT_GRT_1 = ~z~What do you need?
+
+RCMP_INT_LI_1 = ~z~Oh... oh. Eh...
+
+RCMP_INT_LI_2 = ~z~Thanks for stopping, sir. Thank you. Uhm...
+
+RCMP_INT_LI_3 = ~z~Percy Whitsickle.
+
+RCMP_INT_LO_A_1 = ~z~Well, can you help me? My head is on the block here...
+
+RCMP_INT_LO_B_1 = ~z~Please, nobody's been paid in weeks. They'll kill me.
+
+RCMP_INT_LO_C_1 = ~z~Please, I can't lose my job. My wife won't let me live it down.
+
+RCMP_INT_LO_NO_1 = ~z~I don't have time for this right now.
+
+RCMP_INT_LO_NO_2 = ~z~Just thought I'd ask...
+
+RCMP_INT_LO_NO_3 = ~z~She was right, maybe I'm not cut out for this.
+
+RCMP_INT_LO_YES_1 = ~z~I'll see what I can do...
+
+RCMP_INT_LO_YES_2 = ~z~Oh, thank you. Thank you!
+
+RCMP_LNTA_1 = ~z~What... what are you doing back here?
+
+RCMP_LNTA_2 = ~z~I won't stand for no more trouble.
+
+RCMP_LNTA_N_1 = ~z~See, I reckon you'll stand for plenty.
+
+RCMP_LNTA_N_2 = ~z~Just leave me alone.
+
+RCMP_LNTB_1 = ~z~Oh no, not again. Ain't you caused enough problems round here?
+
+RCMP_LNTB_N_1 = ~z~Ain't decided on that yet.
+
+RCMP_LNTB_N_2 = ~z~I ain't wasting no more breath on you.
+
+RCMP_MCS1_1 = ~z~Hey, you.
+
+RCMP_MCS1_2 = ~z~What're you doing here?
+
+RCMP_MCS1_3 = ~z~This is private property...
+
+RCMP_MCS1_4 = ~z~y-you're trespassing.
+
+RCMP_MCS1_5 = ~z~The boys at the railroad camp...
+
+RCMP_MCS1_6 = ~z~they don't seem too happy.
+
+RCMP_MCS1_7 = ~z~Looks like you're in their way.
+
+RCMP_MCS1_8 = ~z~We own this land...
+
+RCMP_MCS1_9 = ~z~so they ain't going any further.
+
+RCMP_MCS1_10 = ~z~Ah, you're gonna live here all happily ever after, is that it?
+
+RCMP_MCS1_11 = ~z~What's it to ya?
+
+RCMP_MCS1_12 = ~z~You can drop the act.
+
+RCMP_MCS1_13 = ~z~Everyone knows you're Cornwall's nursemaids, so...
+
+RCMP_MCS1_14 = ~z~why don't you run on home, and...
+
+RCMP_MCS1_15 = ~z~go wash his fat feet?
+
+RCMP_MCS1_16 = ~z~What the hell did you just say?
+
+RCMP_MCS1_17 = ~z~You better start running, you son of a bitch.
+
+RCMP_MCS1_18 = ~z~Must have got it wrong then.
+
+RCMP_MCS1_19 = ~z~Apologies, boys.
+
+RCMP_MCS1_20 = ~z~You know what?
+
+RCMP_MCS1_21 = ~z~On second thoughts...
+
+RCMP_MCS1_LI_1 = ~z~Hey, you.
+
+RCMP_MCS1_LI_2 = ~z~What're you doing here?
+
+RCMP_MCS1_LI_3 = ~z~This is private property, you-you're trespassing!
+
+RCMP_OW00A_1 = ~z~I ain't gonna tell you again, get outta here!
+
+RCMP_OW00_1 = ~z~Hey, get off our land.
+
+RCMP_OW00_2 = ~z~Go on, get.
+
+RCMP_P02A2_1 = ~z~You do... whatever you need to do.
+
+RCMP_P02A_1 = ~z~Cornwall, you say? Alright, I'll talk to them. But it may take a little... convincing.
+
+RCMP_P02D_1 = ~z~I got enough problems of my own with Cornwall without making more.
+
+RCMP_POSSE_1 = ~z~Oh hey, er, fellers. If you wouldn't mind keeping it moving, busy production line here.
+
+RCMP_POSSE_2 = ~z~Just passing through.
+
+RCMP_POSSE_3 = ~z~Well, if you could keep on passing.
+
+RCMP_POSSE_ALT_1 = ~z~Listen, I'm sorry, fellers. Can't have unauthorized personnel near the work site. Railroad policy.
+
+RCMP_POSSE_ALT_2 = ~z~You hear that? Railroad policy.
+
+RCMP_POSSE_ALT_3 = ~z~Look, I've got work to do.
+
+RCMP_QUIT_1 = ~z~You know what, I ain't got time for this. You can do your own dirty work.
+
+RCMP_QUIT_2 = ~z~Oh please, won't you change your mind? I'm desperate here.
+
+RCMP_STEAL1A_1 = ~z~Hey, I saw that.
+
+RCMP_STEAL1B_1 = ~z~We've got enough problems with stealing around here as it is.
+
+RCMP_STEAL2A_1 = ~z~Hey! Didn't I warn you about stealing?
+
+RCMP_STEAL2B_1 = ~z~I must ask you to leave the area now, sir. Immediately.
+
+RCMP_THIEF01A2_1 = ~z~No complaining, just get the job done!
+
+RCMP_THIEF01A2_2 = ~z~And if you're gonna talk, talk English!
+
+RCMP_THIEF01A3_1 = ~z~We offer you honest work for honest pay, and you steal from us.
+
+RCMP_THIEF01A3_2 = ~z~It's disgusting!
+
+RCMP_THIEF01A_1 = ~z~Come on! Come on!
+
+RCMP_THIEF01A_2 = ~z~What are you doing over here, what are you doing?
+
+RCMP_THIEF01B_1 = ~z~Alright, I gotta go for a piss. Y'all keep at it.
+
+RCMP_THIEF01B_2 = ~z~I'll hear it if you don't.
+
+RCMP_THIEF02B_1 = ~z~You ready to return that money you stole?
+
+RCMP_THIEF02B_2 = ~z~Okay, okay...
+
+RCMP_THIEF02F_1 = ~z~What's your problem? Why are you following me?
+
+RCMP_THIEF02F_2 = ~z~Goddamn freak.
+
+RCMP_THIEF02F_3 = ~z~Damn it.
+
+RCMP_THIEF02G_1 = ~z~Whoa! Easy there, feller!
+
+RCMP_THIEF02G_2 = ~z~Just... just take the money, for chrissakes.
+
+RCMP_THIEF02G_3 = ~z~Well, that was easy.
+
+RCMP_THIEF02H_1 = ~z~Where's the money?
+
+RCMP_THIEF02H_2 = ~z~Don't mess me around, or I'll make you piss for real.
+
+RCMP_THIEF02H_3 = ~z~Alright, alright! I'll show you!
+
+RCMP_THIEF02H_4 = ~z~Just don't kill me, please.
+
+RCMP_THIEF02I_1 = ~z~It's right there...
+
+RCMP_THIEF02I_2 = ~z~the tree with the notch.
+
+RCMP_THIEF02I_3 = ~z~now get out of here. Leave and never come back.
+
+RCMP_THIEF02I_4 = ~z~Understood?
+
+RCMP_THIEF02I_5 = ~z~All... all right. I'll go.
+
+RCMP_THIEF02I_6 = ~z~Thank you.
+
+RCMP_THIEF02JP_1 = ~z~Just taking a walk.
+
+RCMP_THIEF02JP_2 = ~z~Well, why don't you go walk someplace else?
+
+RCMP_THIEF02J_01 = ~z~What are you doing?
+
+RCMP_THIEFFLEE_1 = ~z~You get the hell away from me.
+
+RCMP_THIEFGRAB_1 = ~z~Let me go, you crazy bastard!
+
+RCMP_THIEFHOG_01 = ~z~Come on, let me go.
+
+RCMP_THIEFHOG_02 = ~z~I promise I'll leave.
+
+RCMP_THIEFHOG_03 = ~z~What are you going to do to me?
+
+RCMP_THIEFHOG_04 = ~z~I swear to God, I'll never steal again.
+
+RCMP_THIEFHOG_05 = ~z~Come on, you don't have to tie me up.
+
+RCMP_THIEFMELEE_01 = ~z~This ain't got nothing to do with you.
+
+RCMP_THIEFMELEE_02 = ~z~Keep your nose outta my business.
+
+RCMP_THIEFMELEE_03 = ~z~Damn bastard.
+
+RCMP_THIEFMELEE_04 = ~z~I'll show you.
+
+RCMP_THIEFPRE_01 = ~z~I don't know what you're doing here, but you best keep out of the way.
+
+RCMP_THIEFPRE_02 = ~z~Don't you go distracting the team here. We got to get this track built.
+
+RCMP_THIEFPRE_03 = ~z~Stay back from the tracks, won't be my fault if you get hurt.
+
+RCMP_THIEFYL_01 = ~z~Come on, put your backs into it
+
+RCMP_THIEFYL_02 = ~z~Let's go, let's go. Put some goddamn energy into it.
+
+RCMP_THIEFYL_03 = ~z~For chrissakes, come on. Pick up the pace.
+
+RCMP_THIEFYL_04 = ~z~No breaks until that money turns back up.
+
+RCMP_THX_02_1 = ~z~Oh, hey, I guess you changed your mind?
+
+RCMP_THX_02_2 = ~z~Well, whatever your reasons, you did us a huge service.
+
+RCMP_THX_02_3 = ~z~I don't know if we could have ever gotten finished without your help.
+
+RCMP_THX_02_4 = ~z~Cornwall is a persistent man.
+
+RCMP_THX_02_5 = ~z~Well, then, I guess that's my good deed for the day.
+
+RCMP_THX_02_6 = ~z~Wait. I want to thank you.
+
+RCMP_THX_02_7 = ~z~Here... for your trouble.
+
+RCMP_THX_03_1 = ~z~Oh, hey, you left without coming to see me.
+
+RCMP_THX_03_2 = ~z~Well, I just wanted to thank you for your help.
+
+RCMP_THX_03_3 = ~z~I don't see how we ever would have taken care of this if you hadn't come by.
+
+RCMP_THX_03_4 = ~z~Cornwall is a persistent man.
+
+RCMP_THX_03_5 = ~z~Well, happy to be of assistance.
+
+RCMP_THX_03_6 = ~z~Wait. I've got something for you.
+
+RCMP_THX_03_7 = ~z~Here... for your trouble.
+
+RCMP_WHOGTIE1_1 = ~z~Hey, stop that!
+
+RCMP_WHOGTIE2_1 = ~z~Untie him at once! That man is railroad property.
+

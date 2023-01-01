@@ -1,0 +1,10 @@
+CWHSS_ACT_1 = ~z~So it's a city bank... and then we're off. It's what you wanted.
+
+CWHSS_ACT_2 = ~z~It's what we need. If we can manage it.
+
+CWHSS_ACT_3 = ~z~City banks are hard. But we got a lot of guns.
+
+CWHSS_ACT_4 = ~z~You think we can do it?
+
+CWHSS_ACT_5 = ~z~I hope so... I really do.
+

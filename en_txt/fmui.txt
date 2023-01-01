@@ -1,0 +1,200 @@
+0x00E2C583 = ~COLOR_ENEMY~Failed to launch ~1~ - ~2~
+
+0x031CA069 = Hold ~INPUT_REVEAL_HUD~ to view the scores
+
+0x08ACC689 = an animal
+
+0x2A7CB266 = You killed ~1~ for ~2~ points
+
+0x6D6DB716 = ~1~/~2~
+
+0x9C0AFB05 = a medium animal
+
+0x11E343DB = a small animal
+
+0x43A6F1B8 = Lobby Area
+
+0x98DE36BD = ~1p~ killed ~2~ for ~3~ point
+
+0x681E2F2C = a rare animal
+
+0x4399F588 = Scroll
+
+0x811375DA = a large animal
+
+0x80661262 = ~1p~ killed ~2~ for ~3~ points
+
+0xB2E20B18 = You killed ~1~ for ~2~ point
+
+0xC1327FB9 = ~1m~
+
+0xCE817332 = Name
+
+FMECHAL_VARIATION_HUNTING_GAME_UPDATE_KILL_SPECIAL_ANIMAL = ~1p~ killed a ~COLOR_MP_OBJECTIVE~~2~~s~
+
+FME_COUNTDOWN = ~1~
+
+FME_GAME_UPDATE_NEW_LEADER = ~1p~~s~ took the lead
+
+FME_GAME_UPDATE_NEW_LEADER_SELF = You took the lead
+
+FME_HELP_CARGO = There is cargo stowed on your horse. If you join the Free Roam Event, your stowed cargo will be lost.
+
+FME_HELP_OPTED_IN = ~COLOR_FREEMODE_EVENT~~1~ ~s~will begin shortly.
+
+FME_HELP_OPTED_IN_CHALLENGES = ~COLOR_FREEMODE_EVENT~~1~ ~s~will begin shortly.
+
+FME_HELP_OPTED_IN_LEADER = ~1p~ is joining an activity. You will join as a member of their Posse.
+
+FME_HELP_OPTED_IN_LEADER_CHALLENGES = ~1p~ is joining an activity. You will join as a member of their Posse.
+
+FME_HELP_SCORE = You score individually during ~COLOR_FREEMODE_EVENT~~1~~s~ and receive your own rewards. ~COLOR_POSSE_ALLY~Posse Member~s~ scores are separate.
+
+FME_HELP_SCOREBOARD_1 = Your score is displayed to the left of the timer. To the right of the timer is the top player, or second-place player if you have the top score.
+
+FME_HELP_SCOREBOARD_2 = Tap ~INPUT_REVEAL_HUD~ to show the mini scoreboard or hold ~INPUT_SELECT_RADAR_MODE~ to show the full scoreboard.
+
+FME_HELP_SCORE_DRAW = Increase your score to take ~1p~'s~s~ position on the scoreboard.
+
+FME_HELP_SCORE_SURPASS = Your score must surpass higher-scoring players to take their place on the scoreboard.
+
+FME_OBJECTIVE_ABANDON_BLIP_NAME = Play Area
+
+FME_OBJECTIVE_ABANDON_LOBBY_WARNING = Return to the ~COLOR_MP_OBJECTIVE~lobby area
+
+FME_OBJECTIVE_ABANDON_WARNING = Return to the ~COLOR_MP_OBJECTIVE~play area
+
+FME_OBJECTIVE_ENTER_AREA = Get to the ~COLOR_FREEMODE_EVENT~play area
+
+FME_OBJECTIVE_ENTER_AREA_POSSE_VERSUS = Get to the ~COLOR_MP_OBJECTIVE~play area
+
+FME_OBJECTIVE_FAST_TRAVEL_POSSE_VERSUS = ~INPUT_GAME_MENU_RIGHT~ Fast Travel to ~COLOR_MP_OBJECTIVE~~1~
+
+FME_OBJECTIVE_WAIT = Wait for ~COLOR_FREEMODE_EVENT~~1~~s~ to start
+
+FME_OBJECTIVE_WAIT_CHALLENGES = Wait for ~COLOR_FREEMODE_EVENT~~1~~s~ to start
+
+FME_OBJECTIVE_WAIT_POSSE_VERSUS = Wait for ~COLOR_MP_OBJECTIVE~~1~~s~ to start
+
+FME_OBJECTIVE_WAIT_ST = Wait on the ~COLOR_FREEMODE_EVENT~train
+
+FME_PROMPT_RETURN_TO_FREE_ROAM = Continue
+
+FME_PROMPT_RETURN_TO_FREE_ROAM_POSSE = Continue (~1~/~2~)
+
+FME_SHARD_OUTRO_PRIMARY_EXPIRED = The timer expired
+
+FME_SHARD_OUTRO_PRIMARY_EXPIRED_GANGS = There are not enough Posses
+
+FME_SHARD_OUTRO_PRIMARY_EXPIRED_PLAYERS = There are not enough players
+
+FME_SHARD_OUTRO_PRIMARY_INVALID_GANG = The Posse has been disbanded
+
+FME_SHARD_OUTRO_TITLE_OVER = ~1~ Over
+
+FME_SHARD_OUTRO_TITLE_OVER_POSSE_VERSUS = Posse Versus Over
+
+FME_SHARD_OUTRO_TITLE_PLACED = ~1~ Place
+
+FME_SHARD_OUTRO_TITLE_WINNER = Winner
+
+FME_SHARD_PRIMARY_POSSE_DISBANDED = ~COLOR_ENEMY~Posse~s~ temporarily disbanded
+
+FM_ESC_CONVICTS_LEADERBOARD_ALIVE = Alive
+
+FM_ESC_CONVICTS_LEADERBOARD_DEAD = Dead
+
+FM_FAST_TRAVEL = Fast Travel
+
+FM_FISHING_LEADERBOARD_CAUGHT = Caught
+
+FM_FISHING_LEADERBOARD_HOOKED = Hooked
+
+FM_FISHING_LEADERBOARD_WEIGHT = Weight
+
+FM_GOODS_TRAIN_LEADERBOARD_GOODS = Goods
+
+FM_HUNTING_LEADERBOARD_KILLS = Animal Kills
+
+FM_LEADERBOARD_DEATHS = Deaths
+
+FM_LEADERBOARD_KILLS = Kills
+
+FM_LEADERBOARD_SCORE = Score
+
+FM_PERCENT = ~1~%
+
+FM_PLACE_1 = 1st
+
+FM_PLACE_2 = 2nd
+
+FM_PLACE_3 = 3rd
+
+FM_PLACE_4 = 4th
+
+FM_PLACE_5 = 5th
+
+FM_PLACE_6 = 6th
+
+FM_PLACE_7 = 7th
+
+FM_PLACE_8 = 8th
+
+FM_PLACE_9 = 9th
+
+FM_PLACE_10 = 10th
+
+FM_PLACE_11 = 11th
+
+FM_PLACE_12 = 12th
+
+FM_PLACE_13 = 13th
+
+FM_PLACE_14 = 14th
+
+FM_PLACE_15 = 15th
+
+FM_PLACE_16 = 16th
+
+FM_PLACE_17 = 17th
+
+FM_PLACE_18 = 18th
+
+FM_PLACE_19 = 19th
+
+FM_PLACE_20 = 20th
+
+FM_PLACE_21 = 21st
+
+FM_PLACE_22 = 22nd
+
+FM_PLACE_23 = 23rd
+
+FM_PLACE_24 = 24th
+
+FM_PLACE_25 = 25th
+
+FM_PLACE_26 = 26th
+
+FM_PLACE_27 = 27th
+
+FM_PLACE_28 = 28th
+
+FM_PLACE_29 = 29th
+
+FM_PLACE_30 = 30th
+
+FM_PLACE_31 = 31st
+
+FM_PLACE_32 = 32nd
+
+FM_POSSE_RACE_LEADERBOARD_DNF = DNF
+
+FM_POSSE_RACE_LEADERBOARD_SCORE = Results
+
+FM_ROUNDUP_LEADERBOARD_TOTAL = Total
+
+FM_WEIGHT = ~1W~
+
+FM_WRECKAGE_LEADERBOARD_FOUND = Found
+

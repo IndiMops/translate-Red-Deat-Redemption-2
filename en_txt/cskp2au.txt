@@ -1,0 +1,22 @@
+CSKP2_ACTION_1 = ~z~Oh there she is... the finest lady I know.
+
+CSKP2_ACTION_2 = ~z~I hate you, you Irish bastard...
+
+CSKP2_ACTION_3 = ~z~Ah, come here.
+
+CSKP2_ACTION_4 = ~z~You hate me too, I can see it your eyes...
+
+CSKP2_ACTION_5 = ~z~I love you.
+
+CSKP2_ACTION_6 = ~z~You only love me when we're drunk.
+
+CSKP2_ACTION_7 = ~z~Well you're always awfully superior when you're sober...
+
+CSKP2_ACTION_8 = ~z~Come on then...
+
+CSKP2_ACTION_9 = ~z~
+
+CSKP2_ACTION_10 = ~z~I hate you, you know that... I hate you.
+
+CSKP2_ACTION_11 = ~z~
+

@@ -1,0 +1,1408 @@
+TRAD_AM_CHAT1_1 = ~z~~sl:0.0:2.0~Did I ever tell you I briefly trained~sl:0.0:1.6~as an acrobat in Portugal?~sl:0.2~I think it's one of the reasons I've stayed so spry.
+
+TRAD_AM_CHAT1_2 = ~z~~sl:0.0:2.5~He was a strange man... claimed to be a mute,~sl:~but talked in his sleep.
+
+TRAD_AM_CHAT2_1 = ~z~~sl:0.0:2.2~You know, I was just thinking it's been years now~sl:~since I slept with four walls around me,
+
+TRAD_AM_CHAT2_2 = ~z~~sl:0.0:2.6~and even longer with four walls and a roof.~sl:~But I've never been happier...
+
+TRAD_AM_CHAT3_1 = ~z~~sl:0.0:2.9~Did I ever tell you about that bank job in Tennessee?~sl:0.3~It was me, Limpy Pete and Phil the Crab.
+
+TRAD_AM_CHAT3_2 = ~z~~sl:0.0:1.9~Managed to get ourselves locked in the safe.~sl:~After a weekend of nature calling,
+
+TRAD_AM_CHAT3_3 = ~z~~sl:0.0:2.6~the stench in there knocked the clerk on his back when he~sl:~opened the door and we managed to escape.
+
+TRAD_AM_CHAT3_4 = ~z~~sl:0.0:2.0~Neither Pete nor Phil was really cut out~sl:0.0:2.0~for running, though... they got picked up at the end of town and~sl:~hanged the next day.
+
+TRAD_AM_CHAT3_5 = ~z~Which seemed harsh to me.
+
+TRAD_AM_DOG_01 = ~z~Better clean up after that thing.
+
+TRAD_AM_DOG_02 = ~z~That dog keeps looking at me funny.
+
+TRAD_AM_DOG_03 = ~z~If that dog even thinks about biting me...
+
+TRAD_AM_DOG_04 = ~z~~sl:0.0:2.1~Don't think for a second that dog won't turn~sl:~and rip your face off.
+
+TRAD_AM_LOC_01 = ~z~Not a bad spot, this.
+
+TRAD_AM_LOC_02 = ~z~You know, I once traveled with a circus not far from here.
+
+TRAD_AM_LOC_03 = ~z~~sl:0.0:2.5~I was in the area once with my second wife.~sl:~Dark days.
+
+TRAD_AM_LOC_04 = ~z~I like it here. Good clean air.
+
+TRAD_AM_LOC_05 = ~z~~sl:0.0:3.2~I passed through this area in the 50's, I think.~sl:~Don't remember too much of the 50's.
+
+TRAD_AM_LOC_06 = ~z~Some beautiful country round here, I must say.
+
+TRAD_AM_LOC_07 = ~z~Found ourselves a decent spot here.
+
+TRAD_AM_LOC_08 = ~z~There's something about this spot... I'll be sad to leave it.
+
+TRAD_BS_BUTCFT_1 = ~z~Okay then, let's get to business.
+
+TRAD_BS_BUTCINT_1 = ~z~~sl:0.0:1.1~Straight to business, huh?~sl:~I knew I'd picked the right partner.
+
+TRAD_BS_FAIL_01 = ~z~There's always next time.
+
+TRAD_BS_FAIL_02 = ~z~If at first you don't succeed, and all that...
+
+TRAD_BS_HOHIGH_01 = ~z~This is good quality.
+
+TRAD_BS_HOHIGH_02 = ~z~Very nice.
+
+TRAD_BS_HOHIGH_03 = ~z~Good stuff.
+
+TRAD_BS_HOHIGH_04 = ~z~Beautiful.
+
+TRAD_BS_HOHIGH_05 = ~z~That's top notch.
+
+TRAD_BS_HOHIGH_06 = ~z~Excellent, thank you.
+
+TRAD_BS_HOLOW_01 = ~z~I suppose this will do.
+
+TRAD_BS_HOLOW_02 = ~z~I'll take whatever I can get.
+
+TRAD_BS_HOLOW_03 = ~z~Guess beggars can't be choosers.
+
+TRAD_BS_HOLOW_04 = ~z~Okay then...no comment.
+
+TRAD_BS_HOLOW_05 = ~z~Okay. This'll have to do.
+
+TRAD_BS_HOLOW_06 = ~z~Anything's better than nothing.
+
+TRAD_BS_IDLE_01 = ~z~Some time today would be nice.
+
+TRAD_BS_IDLE_02 = ~z~The suspense is killing me.
+
+TRAD_BS_IDLE_03 = ~z~Come on, I'm a busy man.
+
+TRAD_BS_IDLE_04 = ~z~In your own time.
+
+TRAD_BS_IDLE_05 = ~z~I don't want to rush you but...
+
+TRAD_BS_PASS_01 = ~z~We're ready to go.
+
+TRAD_BS_PASS_02 = ~z~We're in business.
+
+TRAD_BS_POTHIGH_01 = ~z~Got some restaurant-quality stew simmering in the pot.
+
+TRAD_BS_POTHIGH_02 = ~z~I have to say, I've outdone myself with the stew this time.
+
+TRAD_BS_POTHIGH_03 = ~z~You should taste that stew... melts in your mouth.
+
+TRAD_BS_POTHIGH_04 = ~z~Smell that stew, huh? Delicious.
+
+TRAD_BS_POTLOW_01 = ~z~I apologize in advance for the quality of the stew.
+
+TRAD_BS_POTLOW_02 = ~z~~sl:0.0:1.3~There's some stew in the pot.~sl:~I recommend eating it quickly.
+
+TRAD_BS_POTLOW_03 = ~z~~sl:0.0:1.5~I've done what I can with the stew,~sl:~but it ain't the best, I have to admit.
+
+TRAD_BS_POTLOW_04 = ~z~~sl:0.0:1.8~There some stew if you're hungry.~sl:~It's slop, but it'll put a lining on the ribs.
+
+TRAD_BS_POTMED_01 = ~z~There's some stew in the pot. Not my best, but it's alright.
+
+TRAD_BS_POTMED_02 = ~z~~sl:0.0:1.7~Help yourself to some stew, by the way.~sl:~It won't win any prizes, but it fills a hole.
+
+TRAD_BS_POTMED_03 = ~z~~sl:0.0:1.6~Some stew in the pot, if you want it.~sl:~I did what I could with what I had.
+
+TRAD_BS_POTMED_04 = ~z~~sl:0.0:1.8~There's some stew in the pot, if you're hungry.~sl:~A little bland, but edible.
+
+TRAD_BS_PTSKIP_01 = ~z~Impatient, ain't you?
+
+TRAD_BS_PTSKIP_02 = ~z~That'll work too.
+
+TRAD_BS_PTSKIP_03 = ~z~No messing around, huh?
+
+TRAD_BS_PTSKIP_04 = ~z~Alright, moving right along...
+
+TRAD_BS_PTSKIP_05 = ~z~Well, if you insist.
+
+TRAD_BS_SUPHIGH_01 = ~z~We're well-stocked for the time being.
+
+TRAD_BS_SUPHIGH_02 = ~z~Stocks are looking good.
+
+TRAD_BS_SUPHIGH_03 = ~z~Supplies are looking healthy right now.
+
+TRAD_BS_SUPHIGH_04 = ~z~Supplies are good, I'm a happy man.
+
+TRAD_BS_SUPLOW_01 = ~z~Getting a little low on supplies here.
+
+TRAD_BS_SUPLOW_02 = ~z~Supplies are starting to run low, just so you know.
+
+TRAD_BS_SUPLOW_03 = ~z~Going to be out of supplies before too long.
+
+TRAD_BS_SUPLOW_04 = ~z~Supplies are running down fast.
+
+TRAD_CA_DOG_01 = ~z~Don't know how you can touch that thing.
+
+TRAD_CA_DOG_02 = ~z~You sure that ain't got fleas?
+
+TRAD_CA_DOG_03 = ~z~Ugh, I'd rather pet a pig.
+
+TRAD_CA_DOG_04 = ~z~Never much cared for dogs, I have to say.
+
+TRAD_CA_DOG_05 = ~z~You won't catch me petting that thing.
+
+TRAD_CP1_3_1 = ~z~~sl:0.0:3.0~We've been making progress here, slowly but surely...~sl:0.2~big pat on the back for me.
+
+TRAD_CP1_3_2 = ~z~~sl:0.0:2.7~But I need a new batch of supplies before I can do much~sl:~more at this stage. Could you pick some up for me?
+
+TRAD_CP1_3_3 = ~z~~sl:0.0:3.8~Meanwhile, I think it's time I gave the workers, I.E. me,~sl:0.1~a well-earned break. Take your time.
+
+TRAD_CP2_2_1 = ~z~~sl:0.0:1.8~Can you do another supply run for me?~sl:~I've already blasted through that last batch.
+
+TRAD_CP2_2_2 = ~z~~sl:0.0:2.3~I truly am a human dynamo.~sl:~Living proof that machine will never replace man.
+
+TRAD_CP2_2_3 = ~z~~sl:0.0:1.8~Even an old man whose hands shake~sl:~like hummingbirds till late afternoon... anyway,
+
+TRAD_CP2_2_4 = ~z~you know the things I need. What a team, huh?
+
+TRAD_CR_AVAILAN_01 = ~z~I worry all this stuff in camp will bring animals sniffing.
+
+TRAD_CR_AVAILAN_02 = ~z~~sl:0.0:2.1~I've seen some wild animals sniffing around,~sl:~you should keep your eye out.
+
+TRAD_CR_AVAILAN_03 = ~z~~sl:0.0:1.5~Keep your eyes peeled for animals.~sl:~They must be able to smell this place a mile away.
+
+TRAD_CR_AVAIL_01 = ~z~Got a lot of stock here and I've seen some shady folks around. Just keep your eye out.
+
+TRAD_CR_AVAIL_02 = ~z~Keep your eyes peeled. Lots of goods here, wouldn't want them falling into the wrong hands.
+
+TRAD_CR_AVAIL_03 = ~z~I'm worried about all this stock sitting here... if word's got out to the wrong people.
+
+TRAD_CR_DOG_01 = ~z~You know me, I hate dogs but it might be useful to get one for protection.
+
+TRAD_CR_DOG_02 = ~z~~sl:0.0:2.5~I hate the damn things but, with all the stuff sitting 'round~sl:~here, I'm thinking it might be good to get a guard dog.
+
+TRAD_CR_DOG_03 = ~z~~sl:0.0:2.0~Can't believe I'm suggesting this, but...~sl:0.0:1.5~maybe we should get a dog?~sl:~Something to go find you if you're gone and troubles starts?
+
+TRAD_CR_FAILAN_01 = ~z~Those things tore us apart.
+
+TRAD_CR_FAILAN_02 = ~z~They destroyed us.
+
+TRAD_CR_FAILAN_03 = ~z~Damn things stripped us bare.
+
+TRAD_CR_FAIL_01 = ~z~They wiped us out.
+
+TRAD_CR_FAIL_02 = ~z~Shit, they stripped us clean.
+
+TRAD_CR_FAIL_03 = ~z~Goddamn it, they bled us dry.
+
+TRAD_CR_NORET_01 = ~z~Bandits raided us. Made off with everything.
+
+TRAD_CR_NORET_02 = ~z~Too late, it's all gone. Goddamn bandits.
+
+TRAD_CR_NORET_03 = ~z~Bandits, I couldn't stop them. They took the damn lot.
+
+TRAD_CR_PASSAN_01 = ~z~Thank God that's over.
+
+TRAD_CR_PASSAN_02 = ~z~I don't think I'm going to sleep very well tonight.
+
+TRAD_CR_PASSAN_03 = ~z~Okay, phew. That was close. Anyway... waste not, want not. Might as well use what we can.
+
+TRAD_CR_PASSDOG_01 = ~z~Lucky that dog found you in time!
+
+TRAD_CR_PASSDOG_02 = ~z~Thank God that dog finally made itself useful!
+
+TRAD_CR_PASSDOG_03 = ~z~Maybe I'll end up liking that dog after all!
+
+TRAD_CR_PASS_01 = ~z~That was close. Good work.
+
+TRAD_CR_PASS_02 = ~z~Phew, am I glad you were here.
+
+TRAD_CR_PASS_03 = ~z~Thanks, not as quick on the draw as I used to be.
+
+TRAD_CR_RAIDANM_01 = ~z~Get rid of these things!
+
+TRAD_CR_RAIDANM_02 = ~z~Oh, thank God! Kill these damn things!
+
+TRAD_CR_RAIDANM_03 = ~z~Do something! They're going to eat me alive!
+
+TRAD_CR_RAIDANS_01 = ~z~Get it away!
+
+TRAD_CR_RAIDANS_02 = ~z~Shoot this damn thing!
+
+TRAD_CR_RAIDANS_03 = ~z~Get this thing off me!
+
+TRAD_CR_RAID_01 = ~z~We're being attacked!
+
+TRAD_CR_RAID_02 = ~z~It's an ambush! Take them out!
+
+TRAD_CR_RAID_03 = ~z~Bandits! Look out!
+
+TRAD_CR_TRAIN_01 = ~z~Are you going to train that dog up to find you if trouble starts? Otherwise what use is it?
+
+TRAD_CR_TRAIN_02 = ~z~When are you going to train that dog to come find you? What is we get an attack and you're not here?
+
+TRAD_CR_TRAIN_03 = ~z~Are you going to train that feral mutt any time soon?
+
+TRAD_DEF_ADEADA_01 = ~z~Okay, phew, I think that's the last of them.
+
+TRAD_DEF_ADEADA_02 = ~z~Alright, I think we're in the clear. Thank God.
+
+TRAD_DEF_ADEADA_03 = ~z~Okay, I think we're good. Thank you. Don't think I could've held them off much longer.
+
+TRAD_DEF_ADEADB_01 = ~z~We made it, but we paid the price. What a mess.
+
+TRAD_DEF_ADEADB_02 = ~z~Phew. Just about held them off but we took some damage.
+
+TRAD_DEF_ADEADB_03 = ~z~Jesus, that was close... didn't think any of us were going to make it.
+
+TRAD_DEF_ANIMAL_01 = ~z~Get rid of these things!
+
+TRAD_DEF_ANIMAL_02 = ~z~Help me out here before I'm dinner!
+
+TRAD_DEF_ANIMAL_03 = ~z~Kill these damn things!
+
+TRAD_DEF_AREINF_01 = ~z~Damn it, more of the damn things!
+
+TRAD_DEF_AREINF_02 = ~z~What the hell? Here's more of them.
+
+TRAD_DEF_AREINF_03 = ~z~Shit, more of them have sniffed us out!
+
+TRAD_DEF_ARRIVE_01 = ~z~Help!
+
+TRAD_DEF_ARRIVE_02 = ~z~Help us!
+
+TRAD_DEF_ARRIVE_03 = ~z~We need help here!
+
+TRAD_DEF_ARRVES_01 = ~z~Help!
+
+TRAD_DEF_ARRVES_02 = ~z~Help me!
+
+TRAD_DEF_ARRVES_03 = ~z~I need help here!
+
+TRAD_DEF_ASKILL_01 = ~z~Keep at it! Get rid of them!
+
+TRAD_DEF_ASKILL_02 = ~z~That's it, kill the lot of them!
+
+TRAD_DEF_ASKILL_03 = ~z~Keep driving them back!
+
+TRAD_DEF_BANDIT_01 = ~z~Kill those goddamn bandits!
+
+TRAD_DEF_BANDIT_02 = ~z~Damn outlaws jumped us!
+
+TRAD_DEF_BANDIT_03 = ~z~Bunch of thieving shits! Take them down!
+
+TRAD_DEF_BANDTS_01 = ~z~Kill those goddamn bandits!
+
+TRAD_DEF_BANDTS_02 = ~z~Damn outlaws jumped me!
+
+TRAD_DEF_BANDTS_03 = ~z~Bunch of thieving shits! Take them down!
+
+TRAD_DEF_BDEADA_01 = ~z~Thank you for stepping in, really.
+
+TRAD_DEF_BDEADA_02 = ~z~Phew, thank you. Don't reckon I would have made it otherwise.
+
+TRAD_DEF_BDEADA_03 = ~z~That was impressive. I sure am glad you showed up when you did.
+
+TRAD_DEF_BDEADB_01 = ~z~Thank you. We made it, but not without a cost.
+
+TRAD_DEF_BDEADB_02 = ~z~Phew, it was messy, but we survived. Thank you.
+
+TRAD_DEF_BDEADB_03 = ~z~Whoo, we took quite the hit there but appreciate your help.
+
+TRAD_DEF_BREINF_01 = ~z~Damn it, no, more of them!
+
+TRAD_DEF_BREINF_02 = ~z~Oh God, here come more of them!
+
+TRAD_DEF_BREINF_03 = ~z~Shit, here come their friends!
+
+TRAD_DEF_BSKILL_01 = ~z~Keep going!
+
+TRAD_DEF_BSKILL_02 = ~z~Let's finish them off, come on!
+
+TRAD_DEF_BSKILL_03 = ~z~That's it! Keep at 'em!
+
+TRAD_DEF_DESTRY_01 = ~z~All our supplies are destroyed!
+
+TRAD_DEF_DESTRY_02 = ~z~The supplies are ruined!
+
+TRAD_DEF_DESTRY_03 = ~z~We've lost all the supplies!
+
+TRAD_DEF_DSTRYS_01 = ~z~All our supplies are destroyed!
+
+TRAD_DEF_DSTRYS_02 = ~z~The supplies are ruined!
+
+TRAD_DEF_DSTRYS_03 = ~z~Shit, I've lost all my supplies!
+
+TRAD_DEF_IDLE_01 = ~z~Go on, please, take them.
+
+TRAD_DEF_IDLE_02 = ~z~They're yours, really, take them.
+
+TRAD_DEF_IDLE_03 = ~z~Come on, I'd like you to have these.
+
+TRAD_DEF_SUPCOL_01 = ~z~Here. Take these supplies for your troubles.
+
+TRAD_DEF_SUPCOL_02 = ~z~Take these supplies. Please, it's uh, the least I can do.
+
+TRAD_DEF_SUPCOL_03 = ~z~~sl:0.0:3.6~I don't have any money to give you in return, but...~sl:~please, take these supplies?
+
+TRAD_DEF_TIME_01 = ~z~There are too many!
+
+TRAD_DEF_TIME_02 = ~z~We can't hold 'em!
+
+TRAD_DEF_TIME_03 = ~z~There's just too many of 'em!
+
+TRAD_GF_BYE_01 = ~z~See you later.
+
+TRAD_GF_BYE_02 = ~z~Good luck.
+
+TRAD_GF_BYE_03 = ~z~Don't do anything I wouldn't do.
+
+TRAD_GF_BYE_04 = ~z~Travel safe.
+
+TRAD_GF_BYE_05 = ~z~Have fun out there.
+
+TRAD_GF_BYE_06 = ~z~I'll hold the fort here.
+
+TRAD_GN_REBNTY_01 = ~z~Can't be partnering with you while you've got a price on your head.
+
+TRAD_GN_REBNTY_02 = ~z~Why don't you come back when you've paid off your bounty?
+
+TRAD_GN_REBNTY_03 = ~z~~sl:0.0:2.3~You think I ain't heard about the price on your head?~sl:0.3~We can't have bounty hunters sniffing around here.
+
+TRAD_GN_REFAIL_01 = ~z~Damn it, I really need more supplies here.
+
+TRAD_GN_REFAIL_02 = ~z~Crap, what am I going to do now?
+
+TRAD_GN_REFAIL_03 = ~z~Well that didn't go very well, did it?
+
+TRAD_GN_REFLM_01 = ~z~~sl:0.0:1.6~I still can't do anything else~sl:~until you bring me some supplies.
+
+TRAD_GN_REFLM_02 = ~z~My hands are still tied without more stock to work with.
+
+TRAD_GN_REFLM_03 = ~z~~sl:0.0:2.2~Are you still going to try to get me those supplies?~sl:~Otherwise, I'm just stuck here like a lemon.
+
+TRAD_GN_REIDLE_01 = ~z~Like I say, I'm at a standstill here.
+
+TRAD_GN_REIDLE_02 = ~z~~sl:0.0:1.6~Sooner you get me what I need,~sl:~sooner we can get back up and running.
+
+TRAD_GN_REIDLE_03 = ~z~Quick as you can. I'm twiddling my thumbs here.
+
+TRAD_GN_RENGANG_01 = ~z~Tell your boss I need a word, I have to pick up a few things.
+
+TRAD_GN_RENGANG_02 = ~z~Can you send your boss over? I've run out of supplies here.
+
+TRAD_GN_RENGANG_03 = ~z~Where's your boss? I need them to go on a supply run.
+
+TRAD_GN_REPASS_01 = ~z~Nice work.
+
+TRAD_GN_REPASS_02 = ~z~Well done.
+
+TRAD_GN_REPASS_03 = ~z~That's what I like to see.
+
+TRAD_GN_REPLM_01 = ~z~Well done on that last job.
+
+TRAD_GN_REPLM_02 = ~z~You really came through for me with that last job.
+
+TRAD_GN_REPLM_03 = ~z~Good work with that last thing, by the way. Credit where credit's due.
+
+TRAD_GN_REPPAS_01 = ~z~At least you brought some of it back.
+
+TRAD_GN_REPPAS_02 = ~z~Well something's better than nothing.
+
+TRAD_GN_REPPAS_03 = ~z~Shame you couldn't get all of it... but thank you anyway.
+
+TRAD_GN_REPTS_01 = ~z~Okay. Not a problem, I'll order them in.
+
+TRAD_GN_REPTS_02 = ~z~Alright, guess I can just order them then.
+
+TRAD_GN_REPTS_03 = ~z~~sl:0.0:3.2~Flush but lazy. Okay then, no problem...~sl:~I'll put in an order instead.
+
+TRAD_GN_RESTRKF_01 = ~z~There you are, queen of the supply run.
+
+TRAD_GN_RESTRKF_02 = ~z~Well I can't fault you on the supplies.
+
+TRAD_GN_RESTRKF_03 = ~z~~sl:0.0:1.8~Well, you've certainly held up your side~sl:~of the bargain with the supplies. Good work.
+
+TRAD_GN_RESTRKM_01 = ~z~There you are, king of the supply run.
+
+TRAD_GN_RESTRKM_02 = ~z~Well I can't fault you on the supplies.
+
+TRAD_GN_RESTRKM_03 = ~z~Well you have certainly held up your side of the bargain with the supplies. Good work.
+
+TRAD_GN_RETIME_01 = ~z~I wouldn't hang around too long.
+
+TRAD_GN_RETIME_02 = ~z~You'll miss your chance if you don't get going soon.
+
+TRAD_GN_RETIME_03 = ~z~I'd go if you're going. This is a fairly urgent opportunity.
+
+TRAD_GN_REWANT_01 = ~z~~sl:0.0:3.2~Look, I'm sorry, I can't be getting tangled up with the law.~sl:~Whatever you've been doing, just deal with it.
+
+TRAD_GN_REWANT_02 = ~z~~sl:0.0:1.9~I think it's best we keep things on hold~sl:~while you've got the law on your tail.
+
+TRAD_GN_REWANT_03 = ~z~~sl:0.0:2.2~I reckon it's best you take a break from the business~sl:~while you've got problems with the law.
+
+TRAD_GN_REWO_01 = ~z~What are you doing back here without my supplies?
+
+TRAD_GN_REWO_02 = ~z~Hey, I thought you had a job to do?
+
+TRAD_GN_REWO_03 = ~z~What happened to that job you agreed to do for me?
+
+TRAD_GN_REW_01 = ~z~Just what I needed.
+
+TRAD_GN_REW_02 = ~z~Good, good.
+
+TRAD_GN_REW_03 = ~z~That'll do nicely.
+
+TRAD_GN_SLFAIL_01 = ~z~What a waste of materials and time!
+
+TRAD_GN_SLFAIL_02 = ~z~All that work for nothing.
+
+TRAD_GN_SLFAIL_03 = ~z~Damn it, do I have to do everything myself?
+
+TRAD_GN_SLFLM_01 = ~z~What happened with that sale?
+
+TRAD_GN_SLFLM_02 = ~z~How did you manage to mess up that sale?
+
+TRAD_GN_SLFLM_03 = ~z~All that work and you couldn't even make the sale? Not good.
+
+TRAD_GN_SLIDLE_01 = ~z~Well don't keep the buyers waiting.
+
+TRAD_GN_SLIDLE_02 = ~z~You don't seem in a rush to make this sale?
+
+TRAD_GN_SLIDLE_03 = ~z~Your enthusiasm is contagious.
+
+TRAD_GN_SLNGANG_01 = ~z~Let the boss know there's some stuff ready to sell.
+
+TRAD_GN_SLNGANG_02 = ~z~I need to speak to your higher-up about making a sale.
+
+TRAD_GN_SLNGANG_03 = ~z~~sl:0.0:1.7~Got some goods ready for market here,~sl:~if you can send your boss over.
+
+TRAD_GN_SLPASS_01 = ~z~Done deal.
+
+TRAD_GN_SLPASS_02 = ~z~That's what I like to see.
+
+TRAD_GN_SLPASS_03 = ~z~Look at that, a thing of beauty.
+
+TRAD_GN_SLPLM_01 = ~z~Nice bit of profit from that sale!
+
+TRAD_GN_SLPLM_02 = ~z~Another sale in the bag, excellent.
+
+TRAD_GN_SLPLM_03 = ~z~Well done with that sale. What a team.
+
+TRAD_GN_SLPPLM_01 = ~z~Lost some profit on that last sale, huh?
+
+TRAD_GN_SLPPLM_02 = ~z~Well, at least you sold some of it, I guess.
+
+TRAD_GN_SLPPLM_03 = ~z~~sl:0.0:3.5~Next time you make a sale, maybe try to sell all of it?~sl:~I'm working like a dog here.
+
+TRAD_GN_SLSTRK_01 = ~z~~sl:0.0:2.6~Who'd have thought you'd be such a natural at sales?~sl:~Not me.
+
+TRAD_GN_SLSTRK_02 = ~z~I swear, you could sell water to a drowning man.
+
+TRAD_GN_SLSTRK_03 = ~z~~sl:0.0:1.5~If you keep selling at this rate,~sl:~we'll be dripping in gold by this time next year.
+
+TRAD_GN_SLTIME_01 = ~z~Hurry, or you'll miss the sale.
+
+TRAD_GN_SLTIME_02 = ~z~If you don't get going soon, the buyers'll walk.
+
+TRAD_GN_SLTIME_03 = ~z~What are you waiting for? You won't make it in time.
+
+TRAD_GN_SLWO_01 = ~z~Are you going to deliver that then?
+
+TRAD_GN_SLWO_02 = ~z~No use bringing that back to me.
+
+TRAD_GN_SLWO_03 = ~z~Well don't bring that back here, make the drop.
+
+TRAD_IG1_1 = ~z~~sl:0.0:1.3~Well, what do you think?~sl:0.0:2.7~Cripps Trading Company is officially up and running.~sl:0.4~So, get out there and do some hunting.
+
+TRAD_IG1_2 = ~z~~sl:0.0:2.1~Time for us to make our fortune.~sl:~I need some luxury and repose in my twilight years...
+
+TRAD_IG1_3 = ~z~~sl:0.0:3.8~If there's a feller on this green earth who deserves a drink more than me today,~sl:~I'd like to meet him...
+
+TRAD_IG1_4 = ~z~~sl:0.0:2.1~Anyway, uh, don't let me keep ya.
+
+TRAD_INT_1 = ~z~She claimed to be royalty but, had a head the size of a pumpkin.
+
+TRAD_INT_2 = ~z~That must have been really something.
+
+TRAD_INT_3 = ~z~You made it.
+
+TRAD_INT_4 = ~z~Follow me.
+
+TRAD_INT_5 = ~z~Now, like I said in my letter. We are going into business.
+
+TRAD_INT_6 = ~z~I've been breaking down animals since I was knee high to a splinter...
+
+TRAD_INT_7 = ~z~and I worked as a tanner up in Wisconsin back in the sixties.
+
+TRAD_INT_8 = ~z~It's a very long story.
+
+TRAD_INT_9 = ~z~So, I've got three words for you.
+
+TRAD_INT_10 = ~z~Cripps Trading Company.
+
+TRAD_INT_11 = ~z~Pristine pelts and animal parts, for bulk sale.
+
+TRAD_INT_12 = ~z~I know the market's there; all I need is a partner.
+
+TRAD_INT_13 = ~z~So, I'm thinking...
+
+TRAD_INT_14 = ~z~you source the materials.
+
+TRAD_INT_15 = ~z~Skins, plumes, horns and the like.
+
+TRAD_INT_16 = ~z~I'll clean 'em and prep 'em...
+
+TRAD_INT_17 = ~z~then you go out and make the sale.
+
+TRAD_INT_18 = ~z~Hell, we might even eat well out of this for once too.
+
+TRAD_INT_19 = ~z~Wouldn't that be nice?
+
+TRAD_INT_20 = ~z~A-hem...
+
+TRAD_INT_21 = ~z~Why are you still here, Willis?
+
+TRAD_INT_22 = ~z~Your provisions, Mr. Cripps.
+
+TRAD_INT_23 = ~z~Oh, yeah...
+
+TRAD_INT_24 = ~z~pack the rest on there, will you?
+
+TRAD_INT_25 = ~z~Now, with any opportunity comes risk.
+
+TRAD_INT_26 = ~z~Competitors.
+
+TRAD_INT_27 = ~z~Thieves.
+
+TRAD_INT_28 = ~z~Me losing interest in the whole idea.
+
+TRAD_INT_29 = ~z~But, if we combine our talents, we'll be unstoppable.
+
+TRAD_INT_30 = ~z~Now, I will require an initial modest investment of course.
+
+TRAD_INT_31 = ~z~Start-up costs and suchlike, but you'll recoup that as fast as you can say...
+
+TRAD_INT_32 = ~z~“Cripps, you handsome genius”.
+
+TRAD_INT_33 = ~z~So, how about it?
+
+TRAD_INT_34 = ~z~Are you in?
+
+TRAD_INT_35 = ~z~My talents extend far beyond the harmonica, I can assure you.
+
+TRAD_INT_36 = ~z~Now, you don't have to pay me right now of course...
+
+TRAD_INT_37 = ~z~but the sooner we're up and running the better.
+
+TRAD_INT_38 = ~z~I mean...
+
+TRAD_INT_39 = ~z~I might be looking at the next Leviticus Cornwall here.
+
+TRAD_INT_40 = ~z~Good.
+
+TRAD_INT_41 = ~z~You won't regret this, I promise.
+
+TRAD_INT_42 = ~z~Now, I've already got hold of a small wagon...
+
+TRAD_INT_43 = ~z~and most of what we'll need in terms of initial supplies.
+
+TRAD_INT_44 = ~z~If you can grab that and bring it back to camp...
+
+TRAD_INT_45 = ~z~we'll get everything set up.
+
+TRAD_INT_46 = ~z~This is gonna be fun.
+
+TRAD_INT_47 = ~z~Come on.
+
+TRAD_INT_48 = ~z~Alright, you'll know where to find me if you change your mind.
+
+TRAD_INT_49 = ~z~When you change your mind, I should say.
+
+TRAD_INT_50 = ~z~You'll kick yourself if you miss out on this.
+
+TRAD_INT_51 = ~z~Oh, I forgot.
+
+TRAD_INT_52 = ~z~Not much in the coffers right now is there?
+
+TRAD_INT_53 = ~z~No problem to pay me later.
+
+TRAD_INT_54 = ~z~You know where to find me.
+
+TRAD_INT_FAIL1_1 = ~z~So, er, what's happening with this wagon of supplies? You're as slow as a cow in a bog hole.
+
+TRAD_INT_FAIL1_2 = ~z~I can't do nothing without that stuff. Please, it shouldn't take you too long...
+
+TRAD_INT_FAIL1_3 = ~z~it'd be nice to get this business going some time this century if we can...
+
+TRAD_INT_FAIL2_1 = ~z~See, I'm looking at the blank expression on your face,
+
+TRAD_INT_FAIL2_2 = ~z~~sl:0.0:3.4~and I get a sinking feeling you've forgotten all about~sl:~the wagon of supplies you were supposed to collect for me.
+
+TRAD_INT_FAIL2_3 = ~z~~sl:0.0:3.4~Now, I know that can't possibly be true, but...~sl:0.0:3.0~make an old man happy and go fetch it,~sl:~will you please?
+
+TRAD_INT_FAIL3_1 = ~z~~sl:0.0:2.6~So, Cripps Trading Company... remember that whole~sl:~brainwave to make us both rich?
+
+TRAD_INT_FAIL3_2 = ~z~~sl:0.0:2.6~Well, I'm still waiting for that wagon of supplies.~sl:~What's taking so long?
+
+TRAD_INT_FAIL3_3 = ~z~~sl:0.0:2.2~You're as useless as teats on a boar...~sl:~although, teats seem fairly essential for a boar...
+
+TRAD_INT_FAIL3_4 = ~z~~sl:0.0:2.2~Anyway, sooner you fetch that wagon,~sl:~sooner we can get up and running.
+
+TRAD_JB_RE_STRN_1 = ~z~~sl:0.0:2.3~If there's one thing I learned from my Pa,~sl:~it's that honest work will only get you so far.
+
+TRAD_JB_RE_STRN_2 = ~z~~sl:0.0:3.1~So, I heard about some supplies on a train coming this way~sl:0.0:1.7~that could be very useful to us...~sl:0.3~and free, so to speak, for the right opportunist.
+
+TRAD_JB_RE_STRN_3 = ~z~~sl:0.0:4.1~I think I can leave the rest in your capable hands, don't you?~sl:~Just watch yourself.
+
+TRAD_JB_RS_CHEM_1 = ~z~~sl:0.0:4.2~This is such delicate work. Part artist, part scientist.~sl:~A complex marriage, like they all are.
+
+TRAD_JB_RS_CHEM_2 = ~z~~sl:0.0:2.0~Anyway, there's some chemicals I need~sl:~to help with the tanning and preservation process.
+
+TRAD_JB_RS_CHEM_3 = ~z~~sl:0.0:1.6~Can you track down some more for me?~sl:~Quite volatile stuff, so be careful with it.
+
+TRAD_JB_RS_CP1_1 = ~z~~sl:0.0:2.0~I'm a one-man sweatshop here.~sl:0.0:2.6~Already ran out of tanning and cleaning supplies...~sl:~reckon you can pick some more up for me?
+
+TRAD_JB_RS_CP1_2 = ~z~~sl:0.0:2.8~I bet you didn't think old Cripps had it in him, did ya?~sl:~From camp dogsbody to artisanal entrepreneur...
+
+TRAD_MS_COLLCT1_1 = ~z~~sl:0.0:3.4~Oh, there you are. I sent you a note... just some details of~sl:~a few potentially lucrative possibilities.
+
+TRAD_MS_COLLCT2_01 = ~z~Did you pick up my letter yet? I think you'll find it interesting.
+
+TRAD_MS_COLLCT2_02 = ~z~Did you get my note? It could be worth your while.
+
+TRAD_MS_COLLCT2_03 = ~z~Don't forget to pick up that note I sent you.
+
+TRAD_MS_INTFAIL_01 = ~z~~sl:0.0:1.7~I still need that wagon of supplies~sl:~to get the business up and running.
+
+TRAD_MS_INTFAIL_02 = ~z~~sl:0.0:1.9~Don't forget about the wagon of supplies.~sl:~I need that before we can get set up.
+
+TRAD_MS_INTFAIL_03 = ~z~~sl:0.0:2.7~Don't leave that wagon of supplies out there for too long~sl:~or someone'll nab them.
+
+TRAD_MS_INTNPC_01 = ~z~You changed your mind? Good.
+
+TRAD_MS_INTNPC_02 = ~z~I knew you'd come around.
+
+TRAD_MS_INTNPC_03 = ~z~You won't regret it.
+
+TRAD_MS_INTNP_01 = ~z~~sl:0.0:1.3~Just let me know if you're interested~sl:~in starting up that business.
+
+TRAD_MS_INTNP_02 = ~z~~sl:0.0:1.9~Don't forget about that business opportunity.~sl:~You'll kick yourself if you miss out.
+
+TRAD_MS_INTNP_03 = ~z~~sl:0.0:2.5~Don't forget... just need a small investment~sl:~and we can get that business up and running.
+
+TRAD_MS_TAKEPRT_01 = ~z~Had any luck with those supply trains yet?
+
+TRAD_MS_TAKEPRT_02 = ~z~~sl:0.0:1.4~Have you had a chance to look into those~sl:~supply trains I wrote to you about?
+
+TRAD_MS_TAKEPRT_03 = ~z~~sl:0.0:0.9~Keep an eye out for those~sl:~supply trains coming through, okay?
+
+TRAD_RE_BRDW1_1 = ~z~~sl:0.0:2.6~You know I like to keep my ear to the ground,~sl:~and not just when I'm passed out in the dirt.
+
+TRAD_RE_BRDW1_2 = ~z~~sl:0.0:2.9~Well, I heard some other traders might have broken down~sl:~on a delivery run and I'd hate for them to get robbed out there...
+
+TRAD_RE_BRDW1_3 = ~z~but I mean, these things happen, right?
+
+TRAD_RE_BRDW2_1 = ~z~~sl:0.0:2.8~You know how I like to keep a close eye on~sl:0.0:2.2~the competition... well, some other traders are apparently~sl:~having some wagon difficulties.
+
+TRAD_RE_BRDW2_2 = ~z~~sl:0.0:2.2~Sitting ducks out there, by all accounts.~sl:0.1:~So, I mean, better we rob them than somebody else, right?
+
+TRAD_RE_BRDW2_3 = ~z~~sl:0.0:1.8~"Cripps Law, page seventeen:~sl:0.0~Always keep your friends close and screw over your rivals."
+
+TRAD_RE_BRDW3_1 = ~z~~sl:0.0:2.3~Okay, don't ask me how I know this, but~sl:~some of our fellow traders are having some transportation difficulties.
+
+TRAD_RE_BRDW3_2 = ~z~~sl:0.0:3.2~Stranded, at the mercy of brigands and outlaws.~sl:0.0:3.0~So we can play nice or we can play smart.~sl:0.3~And you aren't very good at playing nice.
+
+TRAD_RE_CHEM2_1 = ~z~You know the chemicals I use for the tanning... after a few hours, the effects are rather pleasant.
+
+TRAD_RE_CHEM2_2 = ~z~Definitely a perk of the trade. Anyway, I seem to be going through it at quite a rate.
+
+TRAD_RE_CHEM2_3 = ~z~Could you track down some more for me? Just make sure you ride careful with it.
+
+TRAD_RE_CHEM3_1 = ~z~~sl:0.0:2.3~I was hoping you could source some more tanning fluid~sl:0.0:2.3~for me? I'm getting pretty damn good with the stuff,~sl:~I have to admit.
+
+TRAD_RE_CHEM3_2 = ~z~~sl:0.0:3.2~In general, I'd say old drunks and explosive chemicals are~sl:0.0:3.4:1~not a good mix... but I seem to be the exception to that rule.
+
+TRAD_RE_CHEM3_3 = ~z~~sl:0.0:2.6~Anyway, I'm sure I don't need to tell you to be~sl:~careful with the stuff. Travel slow with it.
+
+TRAD_RE_CP1_2_1 = ~z~~sl:0.0:2.9~Before you say anything, I ain't taking a break.~sl:0.0:2.7~I'm just out of cleaning and tanning supplies so~sl:~I can't do too much more right now.
+
+TRAD_RE_CP1_2_2 = ~z~~sl:0.0:2.4~Say, could you, uh, go pick up some more for me?~sl:0.0:2.4~Oh, and best skip the rubbing alcohol this time...~sl:0.9~that turned into a bad night.
+
+TRAD_RE_CP2_1_1 = ~z~~sl:0.5:2.0~Hard keeping up with me, ain't it?~sl:0.0:2.7~My second wife used to say the same thing...~sl:0.3~or maybe that was “putting up with me”?
+
+TRAD_RE_CP2_1_2 = ~z~~sl:0.2:1.9~I don't remember too much of the 40's.~sl:~Anyway, I'm already out of supplies again.
+
+TRAD_RE_CP2_1_3 = ~z~Can you track down some more for me? Much appreciated.
+
+TRAD_RE_CP2_3_1 = ~z~You know, my pa used to say “a cat doesn't make a good dog”.
+
+TRAD_RE_CP2_3_2 = ~z~~sl:0.0:2.8~I never really knew what he meant by that, but...~sl:0.1~I feel like I finally found my calling.
+
+TRAD_RE_CP2_3_3 = ~z~~sl:0.0:2.2~We're doing well, very well.~sl:0.0:3.5~Just at a standstill till I get some more tanning supplies.~sl:0.1~Would you pick some up for me?
+
+TRAD_RE_CP3_1_1 = ~z~~sl:0.0:3.1~Treated myself to a second pair of socks yesterday.~sl:0.3~We are moving up in the world.
+
+TRAD_RE_CP3_1_2 = ~z~~sl:0.0:2.9~Goods have been flying off my table, so much so,~sl:0.0:2.0~I'm out of tanning supplies again.~sl:0.2~Could you grab some more for me?
+
+TRAD_RE_CP3_1_3 = ~z~~sl:0.0:2.1~Thanks partner. You know, I still can't believe~sl:~one of my ideas is actually working...
+
+TRAD_RE_CP3_2_1 = ~z~~sl:0.0:3.6~You know, part of me, the part that normally gives up~sl:0.0:1.7~on things almost immediately,~sl:~wondered if I'd actually be able to do this.
+
+TRAD_RE_CP3_2_2 = ~z~~sl:0.0:3.3~But, here we are... almost at full stock.~sl:0.3~I just need a few more supplies to finish the batch.
+
+TRAD_RE_CP3_2_3 = ~z~Can you get those for me? We're nearly there.
+
+TRAD_RE_CP3_3_1 = ~z~Things are looking good. We are building some serious inventory here.
+
+TRAD_RE_CP3_3_2 = ~z~~sl:0.2:4.1:1~Who's the deadbeat now, Mrs. Cripps One, Two and Three?
+
+TRAD_RE_CP3_3_3 = ~z~~sl:0.0:1.9~Anyway, a few more supplies and~sl:0.0:1.9~I should be able to get this batch finished.~sl:0.1~Think you can grab those for me?
+
+TRAD_RE_DEF1_1 = ~z~~sl:0.0:3.2~So, the other day I woke up face down in the mud with no~sl:~memory of the night before... and my first thought was...
+
+TRAD_RE_DEF1_2 = ~z~~sl:0.0:2.6~what a great evening, but then it came to me...~sl:~a brainwave. Protection.
+
+TRAD_RE_DEF1_3 = ~z~~sl:0.0.:2.4~You help some of the locals deal with the outlaws~sl:~'round here, they pay you with supplies.
+
+TRAD_RE_DEF1_4 = ~z~Everyone feels good about themselves. Genius, right?
+
+TRAD_RE_DEF2_1 = ~z~~sl:0.0:2.9~I heard a few folks around here are getting shaken down~sl:~by some local heavies...
+
+TRAD_RE_DEF2_2 = ~z~and since you like to kid yourself you're a do-gooder these days,
+
+TRAD_RE_DEF2_3 = ~z~~sl:0.0:1.8~I figured maybe you could help them out~sl:0.0:2.2~in exchange for some supplies we need?~sl:~That way, everyone's happy.
+
+TRAD_RE_DEF3_1 = ~z~So I bumped into a feller in town, told me he was having some problems with a gang 'round here.
+
+TRAD_RE_DEF3_2 = ~z~He's also got some supplies we could use so I thought, why not kill two birds with one stone?
+
+TRAD_RE_DEF3_3 = ~z~You help him out, he helps us out. And nobody even needs to get robbed.
+
+TRAD_RE_DEFA1_1 = ~z~I've been thinking... it's time to give back to the community.
+
+TRAD_RE_DEFA1_2 = ~z~~sl:0.0:2.8~I want them to look at Cripps Trading Company and say~sl:~“that man is a hero of the people”.
+
+TRAD_RE_DEFA1_3 = ~z~~sl:0.0:2.3~So, I heard some folks have been having trouble with~sl:~animals attacking their livestock.
+
+TRAD_RE_DEFA1_4 = ~z~~sl:0.0:2.9~Now maybe if you go help them out, they'll give us some~sl:~of the supplies we need in return.
+
+TRAD_RE_DEFA2_1 = ~z~~sl:0.0:2.8~Okay, my loyal foot soldier, I have sort of~sl:~promised your services to a feller near here...
+
+TRAD_RE_DEFA2_2 = ~z~~sl:0.0:2.9~who told me he's having problems with some wild animals,~sl:~said he'd give us some supplies if we help him out.
+
+TRAD_RE_DEFA2_3 = ~z~Well I assured him I had just the person for the job.
+
+TRAD_RE_DEFA3_1 = ~z~~sl:0.0:2.8~Okay, I know how you love to help people,~sl:~tiptoe the moral highground and all that...
+
+TRAD_RE_DEFA3_2 = ~z~~sl:0.0:2.6~so I offered your services to some of our neighbors here~sl:0.0:3.2~who are being hassled by some kind of wild animals,~sl:~they didn't say what.
+
+TRAD_RE_DEFA3_3 = ~z~Should be no problem for a hunter of your caliber.
+
+TRAD_RE_DWOLF1_1 = ~z~~sl:0.0:2.5~Okay, so I heard some of our competitors have gone~sl:~missing. Would you go see if you can track them down?
+
+TRAD_RE_DWOLF1_2 = ~z~~sl:0.0:3.1~Feels like the sporting thing to do. I sure hope nothing~sl:~bad's happened to them but, if it has, well,
+
+TRAD_RE_DWOLF1_3 = ~z~~sl:0.0:2.6~no point letting their supplies go to waste.~sl:0.0:2.5~Always look for the silver lining, I say.~sl:~Just keep your eyes open.
+
+TRAD_RE_DWOLF2_1 = ~z~Troubling news, I'm afraid. Some of our fellow traders set off for market but never arrived.
+
+TRAD_RE_DWOLF2_2 = ~z~I was thinking you could go check on them and maybe lighten their load for the return journey?
+
+TRAD_RE_DWOLF2_3 = ~z~Feels like the least we can do, don't you think? Good.
+
+TRAD_RE_DWOLF3_1 = ~z~~sl:0.0:2.8~Apparently some of our competitors never made it back~sl:~home from market, and folks are fearing the worst.
+
+TRAD_RE_DWOLF3_2 = ~z~~sl:0.0:2.2~So, why don't you go try'n track 'em down~sl:~and see what's left of their supplies?
+
+TRAD_RE_DWOLF3_3 = ~z~~sl:0.0:3.5~As the saying goes... all's fair in love, war...~sl:~and the trading of pristine animal parts.
+
+TRAD_RE_MOVT1_1 = ~z~Alright, I think you know me, I'm all about playing fair.
+
+TRAD_RE_MOVT1_2 = ~z~~sl:0.0:2.0~But at this rate, by the time we get ahead~sl:~of the competition, I'll be dead in the dirt, so...
+
+TRAD_RE_MOVT1_3 = ~z~~sl:0.0:2.5~I thought it might be quicker if we just borrowed~sl:~some of the items I need from some people...
+
+TRAD_RE_MOVT1_4 = ~z~~sl:0.0:2.9~the sort of people who deserve to be borrowed from.~sl:0.6~I think you understand me?
+
+TRAD_RE_MOVT2_1 = ~z~Alright, time for a little lesson on supply and demand.
+
+TRAD_RE_MOVT2_2 = ~z~~sl:0.0:3.5~Now, when Group One, us, has a demand for supplies~sl:~and Group Two, them, has said supplies in their possession,
+
+TRAD_RE_MOVT2_3 = ~z~~sl:0.0:2.1~how do we rebalance the economy?~sl:~By robbing them blind, of course. Simple.
+
+TRAD_RE_MOVT3_1 = ~z~~sl:0.0:4.9~"Cripps Law, page fourteen : Robbing criminals isn't a crime."~sl:0.1:1.9:1~It just makes no sense.
+
+TRAD_RE_MOVT3_2 = ~z~~sl:0.0:1.8~So, there's a gang or some such~sl:~on the move with some supplies we need...
+
+TRAD_RE_MOVT3_3 = ~z~~sl:0.0:2.8~and I thought you'd be the perfect person to go give them~sl:~a taste of their own medicine. Just be careful.
+
+TRAD_RE_SHRS1_1 = ~z~~sl:0.0:2.9~People always say there's no rules in business.~sl:0.4~Do they say that? I don't know. It sounds about right.
+
+TRAD_RE_SHRS1_2 = ~z~~sl:0.0:4.0~Well, guess who has just the supplies we need right now?~sl:~The local law.
+
+TRAD_RE_SHRS1_3 = ~z~~sl:0.0:2.8~And who would be crazy enough to steal from the law?~sl:0.1:1.6:1~I'm looking right at them.
+
+TRAD_RE_SHRS2_1 = ~z~~sl:0.0:3.7~Okay, so the word on the street is that the local law is in~sl:~possession of some supplies that could be very useful to us.
+
+TRAD_RE_SHRS2_2 = ~z~~sl:0.0:2.8~And, since you seem to have no qualms about getting your~sl:~hands dirty of late, I thought you might want to go take a look.
+
+TRAD_RE_SHRS2_3 = ~z~Just, uh... don't get caught.
+
+TRAD_RE_SHRS3_1 = ~z~~sl:0.0:3.2~So, some good news. The local law have been kind enough~sl:0.0:2.6~to lend us some supplies. Only thing is...~sl:0.0:1.5:1~they don't know about it yet.
+
+TRAD_RE_SHRS3_2 = ~z~~sl:0.0:3.5~This is going to require a particular kind of angry lunatic,~sl:0.3~so I figured it was right up your alley.
+
+TRAD_RE_SHRS3_3 = ~z~~sl:0.0:3.0~And I mean that as the highest of compliments.~sl:~Just please don't die.
+
+TRAD_RE_STS1_1 = ~z~~sl:0.0:3.8~I'm sure you haven't forgotten it's my birthday, at least~sl:~I think it is. Certain dates have shifted over time.
+
+TRAD_RE_STS1_2 = ~z~~sl:0.0:2.3~Anyway, the old Cripps would have asked you for a case~sl:0.0:~of good brandy, but you know what the new Cripps wants?
+
+TRAD_RE_STS1_3 = ~z~~sl:0.0:4.1~Yes, tanning supplies! The only gift I need this year.~sl:~And next year, we'll be millionaires.
+
+TRAD_RE_STS2_1 = ~z~Okay, I got another job for you, partner. I mean, I know strictly speaking you're still my boss,
+
+TRAD_RE_STS2_2 = ~z~but I like to think we've always had a pretty flat hierarchy. Right?
+
+TRAD_RE_STS2_3 = ~z~So, could you go collect some more preserving supplies for me? I just ran out again...
+
+TRAD_RE_STS3_1 = ~z~~sl:0.0:2.9~Don't worry, I'm not going to send you on another~sl:~supply errand... course I am.
+
+TRAD_RE_STS3_2 = ~z~~sl:0.0:3.3~Not that you'd ever admit it, but I think you rather enjoy it.~sl:0.2~Between your legwork and my craftwork, we're the perfect team.
+
+TRAD_RE_STS3_3 = ~z~Anyway, you know the stuff I need... I'll leave it with you.
+
+TRAD_RE_SUPT2_1 = ~z~~sl:0.0:2.8~A little dicky bird told me about some supplies coming in~sl:~on a train, supplies that we desperately need...
+
+TRAD_RE_SUPT2_2 = ~z~~sl:0.0:3.4~Now we could sacrifice our precious capital and buy this~sl:~stuff, of course or... well, I think you know what to do.
+
+TRAD_RE_SUPT2_3 = ~z~~sl:0.0:2.8~I'm sure Leviticus Cornwall didn't get where he is with~sl:~hugs and kisses. Just try not to get killed.
+
+TRAD_RE_SUPT3_1 = ~z~A Guinean once told me that no arrow flies truly straight.
+
+TRAD_RE_SUPT3_2 = ~z~~sl:0.0:2.9~An entirely meaningless phrase, but one I like to come~sl:~back to when I'm grasping for moral justification.
+
+TRAD_RE_SUPT3_3 = ~z~~sl:0.0:2.7~You know, like when there's a train full of supplies to rob.~sl:0.3~So fly crooked, my friend, and do what you do best.
+
+TRAD_RE_TRD_AM1_1 = ~z~~sl:0.0:2.6~I don't know, I seem to go through supplies~sl:0.0:2.0~like a hog goes through acorns.~sl:0.6~And hogs love acorn.
+
+TRAD_RE_TRD_AM1_2 = ~z~~sl:0.0:2.6~Anyway, my trader pal has supplies for us~sl:~if you can do some hunting for him in exchange.
+
+TRAD_RE_TRD_AM1_3 = ~z~Should be easy enough... all in a day's work for you.
+
+TRAD_RE_TRD_AM2_1 = ~z~No rest for the wicked, not that you're all that wicked. A killer with a heart, I'd say, and who doesn't like that?
+
+TRAD_RE_TRD_AM2_2 = ~z~Which is why I knew you wouldn't mind doing some hunting for my friend in exchange for some supplies...
+
+TRAD_RE_TRD_AM2_3 = ~z~You know, some good honest bartering. Wonderful.
+
+TRAD_RE_TRD_AM3_1 = ~z~~sl:0.3:2.9~Don't come too close, my breath is lethal.~sl:0.7~Onions, it turns out... not a great snack.
+
+TRAD_RE_TRD_AM3_2 = ~z~~sl:0.0:3.6~Anyway, enough of my dietary mishaps, we need supplies...~sl:0.1:2.4~and my contact says he's willing to trade~sl:~if you can do some hunting for him?
+
+TRAD_RE_TRD_AM3_3 = ~z~Good honest work, just how you like it.
+
+TRAD_RE_TRD_BDM_1 = ~z~~sl:0.0:3.9~Okay, apparently my contact has some more goods to trade~sl:~if we can hunt and bring him some birds.
+
+TRAD_RE_TRD_BDM_2 = ~z~~sl:0.0:2.4~I know... don't ask me what he wants them for.~sl:0.0:2.2~Best just to keep him happy, I reckon.~sl:0.2~I mean, we need the supplies.
+
+TRAD_RE_TRD_BDM_3 = ~z~I'm sure you can handle that... right?
+
+TRAD_RE_TRD_BHM_1 = ~z~~sl:0.0:2.8~Now, you know, as a general rule I would rather~sl:~garrote myself with a rusty wire than help out the competition...
+
+TRAD_RE_TRD_BHM_2 = ~z~but needs must, and our needs are supplies right now.
+
+TRAD_RE_TRD_BHM_3 = ~z~~sl:0.0:2.6~Could you go hunt some bighorn and pay my contact~sl:~a visit, see if he's willing to trade?
+
+TRAD_RE_TRD_BHM_4 = ~z~Oh, they're the uh, sheep with the, er, big horns.
+
+TRAD_RE_TRD_BRM_1 = ~z~You know, you're really an excellent hunter.
+
+TRAD_RE_TRD_BRM_2 = ~z~~sl:0.0:2.8~One of the best I've ever known, the sort of person who~sl:~faces down grizzlies without skipping a beat.
+
+TRAD_RE_TRD_BRM_3 = ~z~~sl:0.0:3.0~Which is why I sort of promised my friend~sl:0.0:1.9~you'd deliver him some bear pelts~sl:~in exchange for some supplies, okay?
+
+TRAD_RE_TRD_BRM_4 = ~z~Like I said, you're the best.
+
+TRAD_RE_TRD_BRS_1 = ~z~~sl:0.0:3.8~Okay, it goes without saying that only a lunatic would hunt~sl:~a bear, so I need you to hunt a bear.
+
+TRAD_RE_TRD_BRS_2 = ~z~~sl:0.6:3.6~Only joking, you've been very well-behaved of late.~sl:0.0:2.4~But my contact's been in touch again,~sl:~said he'd trade some more supplies for a bear pelt.
+
+TRAD_RE_TRD_BRS_3 = ~z~Can I leave that with you?
+
+TRAD_RE_TRD_BSM_1 = ~z~My contact sent a message... apparently, he has goods to trade if we can get him some bison pelts.
+
+TRAD_RE_TRD_BSM_2 = ~z~And God knows there's enough bison to go around. So I said you'd be in touch shortly.
+
+TRAD_RE_TRD_BSM_3 = ~z~My Lord, was there ever a man more cut out for this than me?
+
+TRAD_RE_TRD_BSS_1 = ~z~~sl:0.0:2.8~Did I ever tell you, back in the day I once killed~sl:~thirty bison in an hour?
+
+TRAD_RE_TRD_BSS_2 = ~z~~sl:0.0:2.2~That's like a bison a minute, that's...~sl:0.0:2.7~no, no, a bison every three minutes...~sl:~no... anyway, it was impressive, but...
+
+TRAD_RE_TRD_BSS_3 = ~z~I leave all that to the young'uns these days, like yourself.
+
+TRAD_RE_TRD_BSS_4 = ~z~~sl:0.0:2.9~My contact's willing to trade again for a bison pelt.~sl:~Think you can handle that?
+
+TRAD_RE_TRD_BVM_1 = ~z~~sl:0.0:2.6~Well, I heard from my contact again... he's after some~sl:0.0:3.4~beaver pelts and carcasses. Now, normally I'd say no,~sl:~but he's got some supplies we need.
+
+TRAD_RE_TRD_BVM_2 = ~z~~sl:0.0:3.6~Now I'd do this myself, of course, but a good businessman~sl:~knows how to delegate. So, uh, just try to be nice to him, okay?
+
+TRAD_RE_TRD_CGM_1 = ~z~~sl:0.0:2.7~Alright, since I know how much you love hunting,~sl:0.0:2.4~I kind of promised your services to my friend~sl:~in return for some supplies.
+
+TRAD_RE_TRD_CGM_2 = ~z~~sl:0.0:3.2~Nothing too much, he's just after a few, er,~sl:~cougars for a taxidermist client of his.
+
+TRAD_RE_TRD_CGM_3 = ~z~Should keep you out of mischief for... quite a while.
+
+TRAD_RE_TRD_CGS_1 = ~z~~sl:0.0:2.9~Alright, since you are a person of principle and honor~sl:~these days, and I mean that with only a pinch of sarcasm,
+
+TRAD_RE_TRD_CGS_2 = ~z~~sl:0.0:1.9~I need you to do a favor for a friend.~sl:0.0:3.9~He's after a cougar for some hat or charm he's making...~sl:~I ain't sure, I was fairly drunk at the time.
+
+TRAD_RE_TRD_CGS_3 = ~z~~sl:0.0:2.8~But he's willing to trade some supplies in return.~sl:~Should be easy enough for you?
+
+TRAD_RE_TRD_DRM_1 = ~z~~sl:0.0:2.4~You know, I'm all for a barter economy.~sl:0.0:3.1~Like the good old days before we all became beholden to~sl:~pieces of shiny paper.
+
+TRAD_RE_TRD_DRM_2 = ~z~~sl:0.0:2.7~Anyway, my friend has some more goods to trade~sl:0.0:2.0~if we can hunt him some deer.~sl:~And by we, I obviously mean you.
+
+TRAD_RE_TRD_DRM_3 = ~z~~sl:0.0:1.7~I have enough on my plate.~sl:~Thanks, partner. You're the best.
+
+TRAD_RE_TRD_GN1_1 = ~z~~sl:0.0:3.1~Doesn't it feel good to be earning a good, solid,~sl:0.0:2.1:1~almost honest living for once?
+
+TRAD_RE_TRD_GN1_2 = ~z~~sl:0.0:2.8~I heard from my contact, he's ready to trade again...~sl:~I told him I send my best person. You, of course.
+
+TRAD_RE_TRD_GN1_3 = ~z~~sl:0.0:2.7~Strictly speaking, also my worst person.~sl:~But anyway... get to it.
+
+TRAD_RE_TRD_GN2_1 = ~z~~sl:0.0:4.1~Tit for tat. Quid pro quo. I don't really know what any of~sl:~these things mean, but traders must trade...
+
+TRAD_RE_TRD_GN2_2 = ~z~~sl:0.0:2.6~so I've set up a meet with my contact to barter some~sl:~supplies. And uh, I was hoping you could handle that?
+
+TRAD_RE_TRD_GN2_3 = ~z~My poor knees are burning again.
+
+TRAD_RE_TRD_GN3_1 = ~z~~sl:0.0:2.2~You know, I'm always thinking...~sl:0.0:2.2~it's a blessing and a curse.~sl:~And I don't always remember much of it.
+
+TRAD_RE_TRD_GN3_2 = ~z~~sl:0.0:3.4~So before I forget, a friend of mine wants to trade some supplies.~sl:~Good honest work, just how you like it.
+
+TRAD_RE_TRD_GN3_3 = ~z~I can see how excited you are about this.
+
+TRAD_RE_TRD_GTM_1 = ~z~~sl:0.0:2.2~So I heard from my trader friend...~sl:~I don't like abetting the competition, but uh, I trust him
+
+TRAD_RE_TRD_GTM_2 = ~z~~sl:0.0:3.3~and he's got some supplies we could really use right now.~sl:~He's after some gator skins, so...
+
+TRAD_RE_TRD_GTM_3 = ~z~~sl:0.0:2.6~I figured you'd be able to arrange that for him.~sl:~I'm always singing your praises, you know me.
+
+TRAD_RE_TRD_GTS_1 = ~z~~sl:0.0:3.0~My contact has some more supplies for us, said he'd~sl:~trade them for a gator skin, if you can arrange that?
+
+TRAD_RE_TRD_GTS_2 = ~z~Just make it snappy. Sorry, I'm a couple of brandies deep.
+
+TRAD_RE_TRD_GTS_3 = ~z~~sl:0.0:2.8~One day I'll have to tell you about the thousand-pound~sl:~alligator I wrestled... no, it didn't actually happen, but it's a good story.
+
+TRAD_RE_TRD_HBM_1 = ~z~"How does it feel being a tycoon of industry", you might ask me. Well, I wouldn't really know yet.
+
+TRAD_RE_TRD_HBM_2 = ~z~I don't even have a roof over my head. But we are getting closer every day.
+
+TRAD_RE_TRD_HBM_3 = ~z~So, can you go pick some herbs and see if my contact is willing to trade some supplies for them?
+
+TRAD_RE_TRD_PGN_1 = ~z~Ah, the life of a visionary craftsman. Always one step ahead of the pack.
+
+TRAD_RE_TRD_PGN_2 = ~z~Now, I've negotiated a trade with my friend for more supplies, if you can do some hunting for him.
+
+TRAD_RE_TRD_PGN_3 = ~z~He needs pigs... or boars, peccaries... anything vaguely porcine, I guess. Bacon is bacon.
+
+TRAD_RE_TRD_PNM_1 = ~z~~sl:0.0:3.8:1~Supplies, supplies, the endless quest for supplies.
+
+TRAD_RE_TRD_PNM_2 = ~z~~sl:0.0:2.8~Anyway, I've cut a deal with a friend of mine who's willing~sl:~to trade for some pelts and carcasses.
+
+TRAD_RE_TRD_PNM_3 = ~z~~sl:0.0:5.5~Just a few cute little kitty cats... well, panthers to be exact.~sl:~But, shouldn't be a problem for you, right?
+
+TRAD_RE_TRD_PNS_1 = ~z~~sl:0.0:2.6~My friend was telling me he has a client willing to pay~sl:~top dollar for a panther, some taxidermist I think.
+
+TRAD_RE_TRD_PNS_2 = ~z~~sl:0.0:3.0~And I said, "Only a maniac would hunt a panther..."~sl:0.0:1.8~"I've got just the person!"~sl:1.0~One of these days I'll get you to crack a smile.
+
+TRAD_RE_TRD_PNS_3 = ~z~~sl:0.0:2.2~Anyways, I told him "I don't want your money..."~sl:~"I want your supplies". And he said “deal”.
+
+TRAD_RE_TRD_PNS_4 = ~z~~sl:0.0:1.9~So most of the legwork's done on this...~sl:~except for the panther part.
+
+TRAD_RE_TRD_PSM_1 = ~z~~sl:0.0:2.1~Another glamorous job for you...~sl:~my contact is after some possums,
+
+TRAD_RE_TRD_PSM_2 = ~z~~sl:0.0:2.3~I'm not sure what for, but... it's making me wish~sl:~I hadn't eaten that pie when I last saw him.
+
+TRAD_RE_TRD_PSM_3 = ~z~~sl:0.0:2.9~If you can hunt a few and deliver them to him on a plate...~sl:~wait, wait, no, no, definitely not on a plate...
+
+TRAD_RE_TRD_PSM_4 = ~z~~sl:0.0:2.7~Well, he said he'll give us some supplies in return.~sl:~Happy hunting.
+
+TRAD_RE_TRD_RCM_1 = ~z~~sl:0.0:2.7~Okay, my friend's agreed to trade us some supplies~sl:~if we can hunt some raccoons for him.
+
+TRAD_RE_TRD_RCM_2 = ~z~~sl:0.0:2.0~I think he's planning to make some hats with them...~sl:~or something, not sure, a man's business is his own.
+
+TRAD_RE_TRD_RCM_3 = ~z~~sl:0.0:3.2~Clever little things, raccoons. I know a feller who trained~sl:0.0:~one to ride a bicycle once.
+
+TRAD_RE_TRD_RCM_4 = ~z~~sl:0.0:2.0~They can't see colors, though, terrible at poker.~sl:0.1~Anyway, I digress and you have work to do.
+
+TRAD_RE_TRD_WFM_1 = ~z~~sl:0.0:2.4~Okay, we need more supplies... I'm sorry,~sl:0.0:2.6:1~ain't my fault I work at such a blistering pace.
+
+TRAD_RE_TRD_WFM_2 = ~z~~sl:0.0:1.6~My friend's willing to trade us some,~sl:0.0:2.2~so I need a very small favor,~sl:~almost nothing at all, the slightest of errands...
+
+TRAD_RE_TRD_WFM_3 = ~z~~sl:0.0:2.1~Just need you to hunt a few wolves~sl:~and deliver them to him. That's it.
+
+TRAD_RE_TRD_WFS_1 = ~z~~sl:0.0:2.9~I like this new working relationship we got going now.~sl:~Feels, you know, a little less feudal.
+
+TRAD_RE_TRD_WFS_2 = ~z~~sl:0.0:1.5~Well, anyway, a job for you.~sl:0.0:2.8~My trader friend wants a wolf, no questions asked...~sl:0.1~a dead one, I should add.
+
+TRAD_RE_TRD_WFS_3 = ~z~Said he'd give us some supplies in return. Easy enough, right?
+
+TRAD_RE_UNSP1_1 = ~z~~sl:0.0:4.2~Well, there's a lot to be said for an existence of lazy debauchery.~sl:~Running a business is harder than it looks.
+
+TRAD_RE_UNSP1_2 = ~z~~sl:0.0:2.4~And at this rate, I'll be wearing a marble hat~sl:~before I get a taste of the good life.
+
+TRAD_RE_UNSP1_3 = ~z~~sl:0.0:2.1~So, I think it's time to cut a few corners~sl:0.0:1.7~and borrow some items from one of the~sl:~local businesses to help speed things along.
+
+TRAD_RE_UNSP1_4 = ~z~~sl:0.2~Dog eat dog and all that.
+
+TRAD_RE_UNSP2_1 = ~z~Now you know how I am, I prefer to do things by the book.
+
+TRAD_RE_UNSP2_2 = ~z~~sl:0.0:1.7~But there's a local business with some~sl:0.0:2.4~very attractive merchandise in stock~sl:0.2~and should that fall into our possession,
+
+TRAD_RE_UNSP2_3 = ~z~~sl:0.0:3.9~well, I think I'd be willing to bend my ethics just this once.~sl:~The rest I leave to you.
+
+TRAD_RE_UNSP3_1 = ~z~Now you know me, I ain't a feller to judge.
+
+TRAD_RE_UNSP3_2 = ~z~~sl:0.0:2.5~And to ignore your nefarious tendencies would be to~sl:~overlook a potential asset, which is just bad business.
+
+TRAD_RE_UNSP3_3 = ~z~~sl:0.0:3.5~So I was thinking if you could pay a visit to a certain store~sl:~not far from here and relieve them of a few items,
+
+TRAD_RE_UNSP3_4 = ~z~well like I say, who am I to judge? Just be careful, of course.
+
+TRAD_SL_FAR1_1 = ~z~~sl:0.0:3.0~Did I ever tell you about the time I stowed away on a ship~sl:~and ended up imprisoned by the Sultanate of Sulu?
+
+TRAD_SL_FAR1_2 = ~z~~sl:0.0:3.2~No? Well, remind me later... it's a corker.~sl:~Anyway, business first, time to make a sale.
+
+TRAD_SL_FAR1_3 = ~z~~sl:0.0:2.9~The buyer's not local, but we're getting a good price,~sl:~so should be worth the ride.
+
+TRAD_SL_FAR1_4 = ~z~Just be careful, this is precious cargo.
+
+TRAD_SL_FAR2_1 = ~z~~sl:0.0:2.0~Right, I've got a batch ready to go,~sl:~and a buyer already lined up...
+
+TRAD_SL_FAR2_2 = ~z~~sl:0.0:2.0~Now, I've basically done all the hard work,~sl:0.1:2.2~all you need to do is go make the sale.~sl:0.2~Bit of a trek, but... I know you like a ride.
+
+TRAD_SL_FAR2_3 = ~z~~sl:0.4:3.1~Why didn't I come up with this idea forty years ago?~sl:~I'd be living in a palace by now...
+
+TRAD_SL_FAR3_1 = ~z~~sl:0.0:0.9~Now, first off,~sl:0.0:3.4~if you stumbled across that latrine situation out back...~sl:~my sincere apologies.
+
+TRAD_SL_FAR3_2 = ~z~~sl:0.0:2.3~You know, you leave soup out in the sun,~sl:0.0:2.1~you pay the price...~sl:~talking of which, I've found us a buyer!
+
+TRAD_SL_FAR3_3 = ~z~~sl:0.0:2.8~Now, it'll be a long ride, but they're offering good money.~sl:~So just keep your eyes out for bandits.
+
+TRAD_SL_FAR4_1 = ~z~~sl:0.0:3.9~You know, I really feel like a new man. All these long~sl:~dormant passions surging through me once more.
+
+TRAD_SL_FAR4_2 = ~z~~sl:0.0:3.7~So, while I head into town in search of some, er, company,~sl:~could you go make a sale?
+
+TRAD_SL_FAR4_3 = ~z~~sl:0.0:1.9~It'll be a bit of a journey, I'm afraid, but~sl:~the buyer's offering good money.
+
+TRAD_SL_FAR5_1 = ~z~Alright, old Cripps has done it again... goods ready to go? Yes. Buyer lined up? Yes.
+
+TRAD_SL_FAR5_2 = ~z~All you need to do is make the sale. Bit of a ride for you, but the money's good.
+
+TRAD_SL_FAR5_3 = ~z~Ah, if my kids could only see me now... I swear, I'd introduce myself and apologize.
+
+TRAD_SL_FAR6_1 = ~z~~sl:0.0:2.8~Well , this really has been quite the emotional journey~sl:0.0:~for me.  From self-indulgence to self-discipline...
+
+TRAD_SL_FAR6_2 = ~z~~sl:0.0:3.8~you must be so proud of me. Anyway,~sl:0.0:2.5~talking of journeys, we have some buyers lined up...~sl:~they ain't local, but they pay well.
+
+TRAD_SL_FAR6_3 = ~z~So go make me proud too, partner.
+
+TRAD_SL_NEAR1_1 = ~z~~sl:0.0:4.0~This is the life, huh? Self-sufficient, answering to no one.~sl:~We are making something of ourselves.
+
+TRAD_SL_NEAR1_2 = ~z~~sl:0.0:2.3~Now this might even put a smile on your face...~sl:0.2~it's time to make a sale.
+
+TRAD_SL_NEAR1_3 = ~z~~sl:0.0:3.5~I've found some buyers locally, not the highest price, but~sl:~easy money... and I'll take easy over hard any day.
+
+TRAD_SL_NEAR2_1 = ~z~~sl:0.0:2.3~Well, we make quite the couple, don't we?~sl:0.4:2.8:1~Not like that... you're far too old for me.
+
+TRAD_SL_NEAR2_2 = ~z~~sl:0.0:3.4~Anyway, artisan and hunter, craftsman and salesman...~sl:~talking of which, we have a batch ready to go.
+
+TRAD_SL_NEAR2_3 = ~z~~sl:0.0:2.4~Got some buyers lined up not far from here.~sl:~So over to you, go make the deal.
+
+TRAD_SL_NEAR3_1 = ~z~Good news, we have another batch ready for market.
+
+TRAD_SL_NEAR3_2 = ~z~Buyers are lined up, not too far from here, so all you have to do is head over and make the sale.
+
+TRAD_SL_NEAR3_3 = ~z~I just keep surprising myself... and to think my pa said I'd be a drunken hobo my whole life.
+
+TRAD_SL_NEAR4_1 = ~z~~sl:0.0:2.6~Alright, my friend, time to make some money.~sl:0.2~There's another batch ready to go. Sure feels good.
+
+TRAD_SL_NEAR4_2 = ~z~~sl:0.0:3.0~It wasn't easy... I've cut myself so many times it's a~sl:~miracle I've got any blood left in me... Anyway,
+
+TRAD_SL_NEAR4_3 = ~z~~sl:0.0:1.8~got a local buyer lined up, so,~sl:~should be an easy run for you.
+
+TRAD_SL_NEAR5_1 = ~z~~sl:0.0:2.3~You know I love you like a wayward child,~sl:0.8:2.5~but I wouldn't say charm's your best trait~sl:0.2~so I'm going to need you to dig deep here...
+
+TRAD_SL_NEAR5_2 = ~z~~sl:0.0:1.6~because we have a sale to make.~sl:0.2:2.5~The buyer's already lined up, ain't top dollar~sl:~but it's local so it's nice and easy, so...
+
+TRAD_SL_NEAR5_3 = ~z~over to you, charmer.
+
+TRAD_SL_NEAR6_1 = ~z~~sl:0.0:2.0~I was just thinking... have you ever wondered~sl:~why they call it a building when it's already built?
+
+TRAD_SL_NEAR6_2 = ~z~~sl:0.0:3.8~Okay, sorry, too deep... anyway I have some good news.~sl:~Another batch ready for market!
+
+TRAD_SL_NEAR6_3 = ~z~~sl:0.0:3.6~“Well done, Cripps, you're amazing”. “Why thank you”.~sl:~And now it's over to you...
+
+TRAD_SL_NEAR6_4 = ~z~The buyer's local, so should be an easy enough sale.
+
+TRAD_TM_REAVAIL_01 = ~z~Okay, I'm out of supplies here.
+
+TRAD_TM_REAVAIL_02 = ~z~I've had to halt production for now, need more supplies.
+
+TRAD_TM_REAVAIL_03 = ~z~I can do anything else until I get some more supplies.
+
+TRAD_TM_REHALF_01 = ~z~So, I'm about halfway through production but need to stock up on more supplies.
+
+TRAD_TM_REHALF_02 = ~z~I'd say I've got about half the batch done at this stage, but I'm out of supplies again.
+
+TRAD_TM_REHALF_03 = ~z~~sl:0.0:2.9~I've had to stop for now, but I can push on with the rest as~sl:~soon as I get more supplies. I'm about halfway through.
+
+TRAD_TM_RELARGE_01 = ~z~Almost there, I just need a few more supplies.
+
+TRAD_TM_RELARGE_02 = ~z~So close, a few more supplies and I can get this batch finished.
+
+TRAD_TM_RELARGE_03 = ~z~Can't believe it. I was so nearly done, but I ran out of supplies.
+
+TRAD_TM_RESMALL_01 = ~z~I've made some progress here, but I need a few more supplies.
+
+TRAD_TM_RESMALL_02 = ~z~I've made a little headway, but I'm out of supplies now, unfortunately.
+
+TRAD_TM_RESMALL_03 = ~z~Well I have some goods ready to go, at least, but I need to restock before I can do much else.
+
+TRAD_TM_SLAVAIL_01 = ~z~Okay, I've got a small batch of goods ready for sale.
+
+TRAD_TM_SLAVAIL_02 = ~z~Got a small batch here ready for market.
+
+TRAD_TM_SLAVAIL_03 = ~z~~sl:0.0:1.4~Got a batch here ready for sale.~sl:~Ain't the largest, but it's enough.
+
+TRAD_TM_SLFULL_01 = ~z~~sl:0.0:2.0~Listen, there's no point in me making all this~sl:~if you ain't gonna sell it.
+
+TRAD_TM_SLFULL_02 = ~z~~sl:0.0:3.2~Look, I'm sorry, I ain't going to bother making anything else~sl:~until you make a sale. It's just sitting here.
+
+TRAD_TM_SLFULL_03 = ~z~~sl:0.0:3.0~Sorry, I'm on strike until you actually sell something.~sl:~At the moment, this is a hobby, not a business.
+
+TRAD_TM_SLMED_01 = ~z~~sl:0.0:1.7~There's a decent batch here ready to go~sl:~whenever you can make the sale.
+
+TRAD_TM_SLMED_02 = ~z~Got a batch ready to go out, decent amount too.
+
+TRAD_TM_SLMED_03 = ~z~~sl:0.0:1.8~Next batch of goods is ready to go out.~sl:~And it's a fairly healthy one.
+
+TRAD_TRD_APPRCH_01 = ~z~Hey there, ready to do some business?
+
+TRAD_TRD_APPRCH_02 = ~z~Looking to trade?
+
+TRAD_TRD_APPRCH_03 = ~z~Here to make a deal?
+
+TRAD_TRD_APPRCH_04 = ~z~Looking to do some business?
+
+TRAD_TRD_APPRCH_05 = ~z~Howdy, you here to trade?
+
+TRAD_TRD_APPRCH_06 = ~z~Is this business or pleasure?
+
+TRAD_TRD_APPRCH_07 = ~z~Hi there, you got business for me?
+
+TRAD_TRD_APPRCH_08 = ~z~Ready to make a trade?
+
+TRAD_TRD_APPRCH_09 = ~z~I assume you're here to do some business?
+
+TRAD_TRD_APPRCH_10 = ~z~Mr. Cripps sent you over, huh?
+
+TRAD_TRD_FAIL_01 = ~z~Guess this is why they say the early bird gets the worm.
+
+TRAD_TRD_FAIL_02 = ~z~What happened out there? No luck?
+
+TRAD_TRD_FAIL_03 = ~z~Guess that didn't go so well, huh?
+
+TRAD_TRD_FLM_01 = ~z~Are you here to make up for last time?
+
+TRAD_TRD_FLM_02 = ~z~~sl:0.0:2.6~Didn't go too well last time, did it?~sl:0.5~Guess I can give you another chance...
+
+TRAD_TRD_FLM_03 = ~z~~sl:0.0:1.1~Well...~sl:0.0:1.2~I ain't even sure I should be~sl:0.0:0.9~bothering with you after last time...~sl:0.5~but we all make mistakes... I guess.
+
+TRAD_TRD_GIVEM_01 = ~z~That's everything. Good work. Those supplies are all yours.
+
+TRAD_TRD_GIVEM_02 = ~z~Good. That's the lot. Feel free to take those supplies now.
+
+TRAD_TRD_GIVEM_03 = ~z~Perfect. That's everything I needed. Go help yourself to those supplies.
+
+TRAD_TRD_GIVES_01 = ~z~This is just what I needed. Feel free to help yourself to those supplies.
+
+TRAD_TRD_GIVES_02 = ~z~This'll do me nicely. You can grab yourself those supplies.
+
+TRAD_TRD_GIVES_03 = ~z~That'll do the trick. You've earned yourself those supplies.
+
+TRAD_TRD_HAND_01 = ~z~That's a start, but I ain't trading until you bring me the lot.
+
+TRAD_TRD_HAND_02 = ~z~Nice work, now bring me the rest.
+
+TRAD_TRD_HAND_03 = ~z~Not bad but I can't trade till you bring me everything.
+
+TRAD_TRD_HAND_04 = ~z~That's a good start for sure, but it ain't everything I asked for, unfortunately.
+
+TRAD_TRD_HAND_05 = ~z~Alright, good. Now bring me the rest and we can trade.
+
+TRAD_TRD_HAND_06 = ~z~Thank you, but I need the full batch before I can make a trade.
+
+TRAD_TRD_IDLENS_01 = ~z~Well don't let me keep you.
+
+TRAD_TRD_IDLENS_02 = ~z~You should probably get those supplies back to old Cripps.
+
+TRAD_TRD_IDLENS_03 = ~z~You better get that stuff back to Mr. Cripps. I'm sure he's champing at the bit.
+
+TRAD_TRD_IDLEYS_01 = ~z~Go on, take them.
+
+TRAD_TRD_IDLEYS_02 = ~z~They're all yours, go on.
+
+TRAD_TRD_IDLEYS_03 = ~z~Are you taking them or not? You earned it fair and square.
+
+TRAD_TRD_IDLE_01 = ~z~Well, no point dawdling round here.
+
+TRAD_TRD_IDLE_02 = ~z~No time like the present.
+
+TRAD_TRD_IDLE_03 = ~z~Well, what are you waiting for?
+
+TRAD_TRD_PLM_01 = ~z~Glad you're back. I know you're good for it.
+
+TRAD_TRD_PLM_02 = ~z~Good to see you again. That worked out well last time.
+
+TRAD_TRD_PLM_03 = ~z~Nice job last time. Let's see if you can make another deal.
+
+TRAD_TRD_RETWO_01 = ~z~Hey, I thought you had some hunting to do?
+
+TRAD_TRD_RETWO_02 = ~z~What's this? I've always learned to beware the person not bearing gifts.
+
+TRAD_TRD_RETWO_03 = ~z~Is this just a social call? Because I can't trade you something for nothing.
+
+TRAD_TRD_RETW_01 = ~z~You had some luck, I see.
+
+TRAD_TRD_RETW_02 = ~z~This looks promising.
+
+TRAD_TRD_RETW_03 = ~z~That's what I like to see.
+
+TRAD_TRD_SPBEA2_1 = ~z~I really need to get hold of some bear pelts. If you can bring me some, I'll trade you some supplies for them.
+
+TRAD_TRD_SPBEAV_1 = ~z~~sl:0.0:2.6~A milliner I know is after some beavers.~sl:0.1:2.3~Whole animal, not just the pelt.~sl:~If you can get me some, I'll do you a good trade.
+
+TRAD_TRD_SPBEA_1 = ~z~I'm after a nice bear pelt for a client of mine.
+
+TRAD_TRD_SPBIG2_1 = ~z~I'll trade you some supplies if you can hunt for Bighorn for me.
+
+TRAD_TRD_SPBIR2_1 = ~z~Okay, I know you need supplies so how about you hunt some birds for me and I'll trade you some?
+
+TRAD_TRD_SPBUF2_1 = ~z~~sl:0.0:4.1~So a client of mine is desperate for some good bison pelts.~sl:~If you can get me some, I've got a good stock of supplies here to trade.
+
+TRAD_TRD_SPBUF_1 = ~z~So I'm after a bison pelt. If you can bring me one, I've got supplies to trade.
+
+TRAD_TRD_SPCOU2_1 = ~z~~sl:0.0:2.1~How are you at cougar hunting?~sl:0.2:3.0~If you can bring me some, dead and whole,~sl:~I'll happily trade you some supplies.
+
+TRAD_TRD_SPCOU_1 = ~z~Reckon you can hunt me a cougar? I'll trade you some supplies for it.
+
+TRAD_TRD_SPCRO2_1 = ~z~~sl:0.0:2.4~Reckon you could bring me some gator skins?~sl:~I'll trade you some supplies for them.
+
+TRAD_TRD_SPCRO_1 = ~z~I'll trade you some supplies, if you can get me a nice gator skin.
+
+TRAD_TRD_SPDEE2_1 = ~z~So, here's a deal for you... hunt me some deer and I'll give you a nice batch of supplies in return.
+
+TRAD_TRD_SPHERB_1 = ~z~~sl:0.0:2.5~I've got a good stock of supplies here to trade~sl:~if you can pick me some herbs.
+
+TRAD_TRD_SPHUNT_01 = ~z~Got some supplies to trade, if you can do some hunting for me.
+
+TRAD_TRD_SPHUNT_02 = ~z~If you can do some hunting for me, I'll happily trade you some supplies in return.
+
+TRAD_TRD_SPHUNT_03 = ~z~So how about this? You hunt some animals for me, and I'll give you a good batch of supplies in return?
+
+TRAD_TRD_SPPAN2_1 = ~z~Okay, I really need to get hold of some panthers, dead ones of course. D-don't ask me why... but I'll make a good trade for them.
+
+TRAD_TRD_SPPAN_1 = ~z~If it's supplies you're after, I'll happily trade you some if you can hunt a panther for me.
+
+TRAD_TRD_SPPIG2_1 = ~z~How's your pig hunting? Got some supplies here to trade if you can bring me some dead ones.
+
+TRAD_TRD_SPPOS2_1 = ~z~A customer of mine keeps asking me for possums. No idea what she does with them, but if you can hunt and bring me some, I'm happy to trade you some supplies?
+
+TRAD_TRD_SPRAB2_1 = ~z~A client of mine is after some rabbits. I don't have time to be out hunting... if you can bring me some, I've got supplies here to trade?
+
+TRAD_TRD_SPRAC2_1 = ~z~Alright, I've got some supplies here to trade if you can hunt me some raccoons? Leave the butchering to me, unpleasant as it is.
+
+TRAD_TRD_SPWOL2_1 = ~z~I've got some real nice supplies here. Willing to trade if you can get hold of some wolf carcasses for me.
+
+TRAD_TRD_SPWOL_1 = ~z~~sl:0.0:2.4~If you can bring me a wolf carcass,~sl:~I'm happy to trade you some supplies.
+
+TRAD_TRD_TIME_01 = ~z~You should really get going on this.
+
+TRAD_TRD_TIME_02 = ~z~Shouldn't you get a move on?
+
+TRAD_TRD_TIME_03 = ~z~I'd hurry if I was you.
+
+TRAD_WO_BUTCH_1 = ~z~Excellent. I'll get to work!
+
+TRAD_WO_FLAG_01 = ~z~Fly it high and proud.
+
+TRAD_WO_FLAG_02 = ~z~Very regal.
+
+TRAD_WO_FLAG_03 = ~z~I expect you to salute it every morning.
+
+TRAD_WO_FLAG_04 = ~z~That'll add a bit of flair. I like it.
+
+TRAD_WO_FTPOST_1 = ~z~That should come in real handy.
+
+TRAD_WO_LAUNCHF_1 = ~z~Expanding already? I like it.
+
+TRAD_WO_LAUNCH_01 = ~z~What are you looking for?
+
+TRAD_WO_LAUNCH_02 = ~z~What do you need?
+
+TRAD_WO_LAUNCH_03 = ~z~So, what are you after?
+
+TRAD_WO_LAUNCH_04 = ~z~Yes, take a look.
+
+TRAD_WO_LAUNCH_05 = ~z~You know what you're looking for?
+
+TRAD_WO_LAUNCH_06 = ~z~Just let me know what you need.
+
+TRAD_WO_LEAVE_01 = ~z~Let me know if there's anything else you need.
+
+TRAD_WO_LEAVE_02 = ~z~Anything else, just say the word.
+
+TRAD_WO_LEAVE_03 = ~z~Alright, you know where to find me.
+
+TRAD_WO_OUTFITG_01 = ~z~Very kind of you.
+
+TRAD_WO_OUTFITG_02 = ~z~Very dapper.
+
+TRAD_WO_OUTFITG_03 = ~z~I really am moving up in the world.
+
+TRAD_WO_OUTFITG_04 = ~z~Much appreciated. Now I'll really look the part.
+
+TRAD_WO_OUTFIT_01 = ~z~If you insist.
+
+TRAD_WO_OUTFIT_02 = ~z~Are you saying my clothes smell?
+
+TRAD_WO_OUTFIT_03 = ~z~Just my style.
+
+TRAD_WO_OUTFIT_04 = ~z~See, you pretend you don't like me...
+
+TRAD_WO_OUTFIT_05 = ~z~Interesting choice.
+
+TRAD_WO_OUTFIT_06 = ~z~New man, new look.
+
+TRAD_WO_STEW_1 = ~z~Aha, excellent, you know the way to my heart.
+
+TRAD_WO_TENT_01 = ~z~Getting fancy.
+
+TRAD_WO_TENT_02 = ~z~Should make for a better night's sleep.
+
+TRAD_WO_TENT_03 = ~z~Why not? Treat yourself.
+
+TRAD_WO_TENT_04 = ~z~Should protect you from the elements a little.
+
+TRAD_WO_THEME_01 = ~z~I like your style.
+
+TRAD_WO_THEME_02 = ~z~Glad you went for that.
+
+TRAD_WO_THEME_03 = ~z~I did not think you'd pick that one.
+
+TRAD_WO_THEME_04 = ~z~That would have been my choice too. Great minds.
+
+TRAD_WO_WAGONL_1 = ~z~What a beauty. We'll be able to carry a lot in this one.
+
+TRAD_WO_WAGONM_1 = ~z~Should help with those deliveries.
+

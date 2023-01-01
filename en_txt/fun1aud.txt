@@ -1,0 +1,30 @@
+CFUN1_CNV_1 = ~z~Gentlemen... why the long faces?
+
+CFUN1_CNV_2 = ~z~What's wrong with all of you?
+
+CFUN1_CNV_3 = ~z~Goddamn whiners.
+
+CFUN1_CNV_4 = ~z~Complainers.
+
+CFUN1_CNV_5 = ~z~Worse than that, complainers who don't even say nothing, just complain with, uh... your eyes and sour mouths.
+
+CFUN1_CNV_6 = ~z~Well, where I come from we got a word for you lot...
+
+CFUN1_CNV_7 = ~z~Wives.
+
+CFUN1_CNV_8 = ~z~That's what you become, wives.
+
+CFUN1_CNV_9 = ~z~Oh yeah, that's how it seems to me.
+
+CFUN1_CNV_10 = ~z~Big tough men.
+
+CFUN1_CNV_11 = ~z~~sl:0.0:1.4~Robbers,~sl:0.2~hoodlums,
+
+CFUN1_CNV_12 = ~z~proud degenerates, turned into a bunch'a moaning women at the sight of some lawmen and a little snow.
+
+CFUN1_CNV_13 = ~z~I've never seen anything so disgusting in my whole time.
+
+CFUN1_CNV_14 = ~z~I met a lot of women, but you boys just about turned into the most womanly of all of them.
+
+CFUN1_CNV_15 = ~z~And that's the truth.
+

@@ -1,0 +1,72 @@
+0x53E1A8BC = Sabotage
+
+FETCH_MOONSAB_GO_TO_0 = Go ~1~
+
+FETCH_MOONSAB_HELP_BONUS_OBJECTIVE_FAILED = You have been spotted by the rival moonshiners. Destroy the stills for a limited benefit to your Moonshine Operation.
+
+FETCH_MOONSAB_HELP_BONUS_OBJECTIVE_FAILED_PLAYER = You have been spotted by the rival moonshiners. Destroy the stills for a limited benefit to ~1~'s Moonshine Operation.
+
+FETCH_MOONSAB_HELP_INTRO = Poison the rival moonshiners' still without being detected to benefit your Moonshine Operation.
+
+FETCH_MOONSAB_HELP_INTRO_PLAYER = Poison the rival moonshiners' still without being detected to benefit ~1~'s Moonshine Operation.
+
+FETCH_MOONSAB_HELP_INTRO_PLURAL = Poison the rival moonshiners' stills without being detected to benefit your Moonshine Operation.
+
+FETCH_MOONSAB_HELP_INTRO_PLURAL_PLAYER = Poison the rival moonshiners' stills without being detected to benefit ~1~'s Moonshine Operation.
+
+FETCH_MOONSAB_OBJ_CONTAMINATE = Poison the ~COLOR_MP_OBJECTIVE_NEUTRAL~moonshine still~s~
+
+FETCH_MOONSAB_OBJ_CONTAMINATE_PLURAL = Poison the ~COLOR_MP_OBJECTIVE_NEUTRAL~moonshine stills~s~
+
+FETCH_MOONSAB_OBJ_DESTROY = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~moonshine still~s~
+
+FETCH_MOONSAB_OBJ_DESTROY_PLURAL = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~moonshine stills~s~
+
+FETCH_MOONSAB_OBJ_KILL_ATTACKERS = Take out the ~COLOR_ENEMY~moonshiners~s~
+
+FETCH_MOONSAB_OBJ_KILL_ATTACKERS_REMAINING = Take out the remaining ~COLOR_ENEMY~enemies~s~
+
+FETCH_MOONSAB_OBJ_LEAVE_AREA = Leave the ~COLOR_ENEMY~area~s~
+
+FETCH_MOONSAB_OBJ_LEAVE_AREA_POSSE = Wait for your Posse to leave the ~COLOR_ENEMY~area~s~
+
+FETCH_MOONSAB_SCORETIMER_ALERTED = Moonshiners were alerted
+
+FETCH_MOONSAB_SCORETIMER_DELIVER_PRIMARY_PASS = ~1~ destroyed a still
+
+FETCH_MOONSAB_SCORETIMER_DELIVER_PRIMARY_PASS_ALIVE = ~1~ sabotaged a still
+
+FETCH_MOONSAB_SCORETIMER_DELIVER_PRIMARY_PASS_ALIVE_NP = ~1~ sabotaged a still
+
+FETCH_MOONSAB_SCORETIMER_DELIVER_PRIMARY_PASS_ALIVE_YOU = You sabotaged a still
+
+FETCH_MOONSAB_SCORETIMER_DELIVER_PRIMARY_PASS_ALIVE_YOUR = ~1~ sabotaged a still
+
+FETCH_MOONSAB_SCORETIMER_DELIVER_PRIMARY_PASS_NP = ~1~ destroyed a still
+
+FETCH_MOONSAB_SCORETIMER_DELIVER_PRIMARY_PASS_YOU = You destroyed a still
+
+FETCH_MOONSAB_SCORETIMER_DELIVER_PRIMARY_PASS_YOUR = ~1~ destroyed a still
+
+FETCH_MOONSAB_SCORETIMER_DESTROY = A still was destroyed
+
+FETCH_MOONSAB_SCORETIMER_DESTROY_YOU = You destroyed a still
+
+FETCH_MOONSAB_SHARD_DESTROYED = Failed to sabotage moonshiners' still
+
+FETCH_MOONSAB_SHARD_DESTROYED_PLURAL = Failed to sabotage moonshiners' stills
+
+FETCH_MOONSAB_SHARD_PRIMARY_FAIL = Failed to sabotage moonshiners' still
+
+FETCH_MOONSAB_SHARD_PRIMARY_FAIL_PLURAL = Failed to sabotage moonshiners' stills
+
+FETCH_MOONSAB_SHARD_PRIMARY_INTRO = Sabotage the moonshiners' still
+
+FETCH_MOONSAB_SHARD_PRIMARY_INTRO_PLURAL = Sabotage the moonshiners' stills
+
+FETCH_MOONSAB_SHARD_PRIMARY_PASS_ALIVE = Rival still was sabotaged
+
+FETCH_MOONSAB_SHARD_PRIMARY_PASS_DEAD = Rival still was destroyed
+
+FETCH_MOONSAB_SHARD_PRIMARY_PASS_PARTIAL = ~1~ sabotaged, ~2~ destroyed
+

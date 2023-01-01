@@ -1,0 +1,10 @@
+CWMG1_ACT_1 = ~z~Oh, hey Arthur.
+
+CWMG1_ACT_2 = ~z~What you want, Micah?
+
+CWMG1_ACT_3 = ~z~Nothing. I'm just being civil, my brother.
+
+CWMG1_ACT_4 = ~z~Well, hello then.
+
+CWMG1_ACT_5 = ~z~You really are a very charming man, aren't you?
+

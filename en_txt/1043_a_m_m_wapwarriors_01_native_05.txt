@@ -1,0 +1,136 @@
+0x04041F3D = ~z~You are not welcome here.
+
+0x0DCCE834 = ~z~Final warning.
+
+0x2A9AA5B7 = ~z~Don't do that.
+
+0x2BA2074D = ~z~You were told to leave, now go.
+
+0x2E147F21 = ~z~It's time you leave.
+
+0x5F70508A = ~z~Please leave my people be.
+
+0x6A1F6124 = ~z~Watch it.
+
+0x8D421241 = ~z~Yes, hello. Again.
+
+0x9B7226CE = ~z~I knew you didn't have the heart.
+
+0x17C81C12 = ~z~Move out of the way.
+
+0x19AFE710 = ~z~Shame.
+
+0x19EF63E8 = ~z~You do not belong here.
+
+0x37D8AC07 = ~z~No, please no.
+
+0x48DE1EA2 = ~z~Careful.
+
+0x50A9F3C1 = ~z~Go before we make you go.
+
+0x66D7664F = ~z~You shouldn't be here.
+
+0x68D0C549 = ~z~You think I won't kill you?
+
+0x87CE79A4 = ~z~This is our home. How dare you come and treat us like this.
+
+0x184B0118 = ~z~Hey, stop doing that.
+
+0x355EA9C9 = ~z~Did you do these things?
+
+0x401ADBA7 = ~z~I have no desire to interact with you
+
+0x435BB4A2 = ~z~The next time, I won't hesitate to kill you.
+
+0x471FDEC1 = ~z~You shouldn't do that.
+
+0x705FC20E = ~z~Listen, stop that now.
+
+0x820CC0BA = ~z~We're going to kill you.
+
+0x980F916D = ~z~I'm telling you to stop.
+
+0x1250BBD6 = ~z~We'll kill you.
+
+0x1603FBBE = ~z~You think you can push us? We'll push back.
+
+0x2540E6FC = ~z~Did you come here to harass us?
+
+0x3869AD58 = ~z~Why are you staring at me?
+
+0x5498C1D2 = ~z~Get out of here.
+
+0x5773B32C = ~z~I am warning you. Do not make me do it again.
+
+0x9200A355 = ~z~Oh, did you come here to make us sick?
+
+0x87608ADB = ~z~Go linger somewhere else.
+
+0x99162E46 = ~z~Why are you so close to me?
+
+0x931219CB = ~z~I'll kill you and leave your body for the wolves.
+
+0x4618628E = ~z~Don't follow me.
+
+0x4868607A = ~z~I won't let you continue to disrespect us.
+
+0x53241050 = ~z~What is this? Don't treat my people this way.
+
+0xA1D1632B = ~z~Hey, you need to get rid of that gun.
+
+0xA6F05F0C = ~z~Oh, you wanna fight me?
+
+0xA43647C0 = ~z~Keep your fever with your own people.
+
+0xAD304A4A = ~z~That was smart, get out of here.
+
+0xADC25FC8 = ~z~You have been warned.
+
+0xAE40BDCF = ~z~Enough is enough. Stop.
+
+0xB57C0C7A = ~z~Go further. Further.
+
+0xB7972BDE = ~z~You're a dead man.
+
+0xB758778E = ~z~Don't you people know how to respect a warning?
+
+0xBF3F1BF0 = ~z~If you were a dog, you would be put down.
+
+0xC90CC351 = ~z~Yes, okay.
+
+0xC99A1F99 = ~z~You think you can insult me as you please?
+
+0xC1518B78 = ~z~You were warned once.
+
+0xCD6DB84D = ~z~You are just like the rest of the monsters.
+
+0xCD34BA19 = ~z~Hey, put that gun away.
+
+0xD048DD41 = ~z~You shouldn't have come here, bastard.
+
+0xD5034D00 = ~z~Time for you to go your own way.
+
+0xDA2FAC1F = ~z~You just said hello.
+
+0xDAE28260 = ~z~This is your last chance.
+
+0xDD43D703 = ~z~Hey. Leave us in peace.
+
+0xE6D7DF03 = ~z~We don't need any more pain caused by you.
+
+0xE31BE7B9 = ~z~Don't stop, keep going.
+
+0xEA3DE15F = ~z~Mind your step.
+
+0xEE390A5E = ~z~You won't be so lucky if you try that again.
+
+0xF1ED703F = ~z~You come here to insult us?
+
+0xF193A7CE = ~z~No. Don't, please.
+
+0xFBE436D5 = ~z~Was this your doing?
+
+0xFCD64C0F = ~z~Get out of here.
+
+SPURS_HORSE_URGENT_20 = ~z~Hey, you need to leave now.
+

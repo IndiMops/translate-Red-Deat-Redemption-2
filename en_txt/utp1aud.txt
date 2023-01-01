@@ -1,0 +1,530 @@
+UPT1_IG4_BA_1 = ~z~Skinny, get out here!
+
+UPT1_IG4_B_1 = ~z~Skinny!
+
+UPT1_IG4_B_2 = ~z~~sl:0.0:2.6:1~It ain't 'Skinny', Micah, it's Norman...
+
+UPT1_IG4_B_3 = ~z~You always was a letdown, you fat sack of crap.
+
+UPT1_IG4_B_4 = ~z~Excuse me a minute, Arthur...
+
+UPT1_IG4_C_1 = ~z~~sl:0.0:2.3~They had something of mine...~sl:~my guns.
+
+UTP1_BACKUP_1 = ~z~You might want to step back a bit.
+
+UTP1_BANTERENDSHOUTED_5 = ~z~There ain't much I care about more than those guns.
+
+UTP1_BANTERENDSHOUTED_11 = ~z~~sl:0.0:4.6~I'm starting to wish I had... and you owe Lenny, too.~sl:0.3~If he hadn't found us in time...
+
+UTP1_BANTERENDSHOUTED_13 = ~z~You're lucky Dutch has got your back, for some unknown reason.
+
+UTP1_BANTERENDSPOKEN_5 = ~z~Ain't much I care about more than those guns.
+
+UTP1_BANTERENDSPOKEN_11 = ~z~~sl:0.0:4.2~I'm starting to wish I had... and you owe Lenny, too.~sl:0.5~If he hadn't found us in time...
+
+UTP1_BANTERENDSPOKEN_13 = ~z~You're lucky Dutch has got your back, for some unknown reason.
+
+UTP1_BANTEREND_1 = ~z~That was some good shooting, Morgan. I gotta hand it to you.
+
+UTP1_BANTEREND_2 = ~z~What the hell was that you pulled back there?
+
+UTP1_BANTEREND_3 = ~z~Got a bit wild alright.
+
+UTP1_BANTEREND_4 = ~z~Wild? Making a house call in the middle of all that?
+
+UTP1_BANTEREND_6 = ~z~That much is clear. Who was that feller?
+
+UTP1_BANTEREND_7 = ~z~Skinny? Yeah, we ran together for a while.
+
+UTP1_BANTEREND_8 = ~z~Did a bank job down south, didn't end well.
+
+UTP1_BANTEREND_9 = ~z~I saw how it goddamn ended.
+
+UTP1_BANTEREND_10 = ~z~He was gonna let me hang.
+
+UTP1_BANTEREND_12 = ~z~Yes, you will all be thanked profusely, I promise.
+
+UTP1_DEPCPLY_01 = ~z~I should've known you were up to no good!
+
+UTP1_DEPCPLY_02 = ~z~I knew you was scum, moment I laid eyes on you!
+
+UTP1_DEPCPLY_B_01 = ~z~Think you're above the law, do you?
+
+UTP1_DEPCPLY_B_02 = ~z~Who do you sons of bitches think you are?
+
+UTP1_DEPSHOOT_01 = ~z~Shooter up left, you see him?
+
+UTP1_DEPSHOOT_02 = ~z~Got a gun up on your left, look out!
+
+UTP1_ESCAPE_1 = ~z~Okay... let's get outta here, before we get any more on our tail.
+
+UTP1_EXT_1 = ~z~I think we finally lost 'em.
+
+UTP1_EXT_2 = ~z~Well, I hope so.
+
+UTP1_EXT_3 = ~z~I'm giving you a holster...
+
+UTP1_EXT_4 = ~z~my way of saying thank you.
+
+UTP1_EXT_5 = ~z~And thank you...
+
+UTP1_EXT_6 = ~z~there I was having a dull day only for you...
+
+UTP1_EXT_7 = ~z~to liven it up by letting me help you shoot up half a town.
+
+UTP1_EXT_8 = ~z~You're a funny feller, Arthur. Real funny.
+
+UTP1_EXT_9 = ~z~Why you act all sour all the time?
+
+UTP1_EXT_10 = ~z~Yeah, well, you ain't funny at all...
+
+UTP1_EXT_11 = ~z~so why you gotta act like the court jester?
+
+UTP1_EXT_12 = ~z~Alright, listen...
+
+UTP1_EXT_13 = ~z~I'm sorry, but we're family now, Arthur.
+
+UTP1_EXT_14 = ~z~You and me...
+
+UTP1_EXT_15 = ~z~sons of Dutch. Makes us brothers...
+
+UTP1_EXT_16 = ~z~and sometimes brothers make mistakes.
+
+UTP1_EXT_17 = ~z~Now, I'm heading back to my little camp round back of Strawberry...
+
+UTP1_EXT_18 = ~z~come see me, maybe I can make things up to you?
+
+UTP1_EXT_19 = ~z~So you ain't heading back to Dutch?
+
+UTP1_EXT_20 = ~z~No, I've been a bad boy, Arthur.
+
+UTP1_EXT_21 = ~z~I ain't seeing Dutch till I can bring him a peace offering.
+
+UTP1_EXT_22 = ~z~Bye now.
+
+UTP1_FALLBEHIND_01 = ~z~Where are you, Morgan?
+
+UTP1_FALLBEHIND_02 = ~z~Stay with me!
+
+UTP1_FALLBEHIND_03 = ~z~Get up here!
+
+UTP1_FALLBEHIND_04 = ~z~Come on, Morgan!
+
+UTP1_FALLBEHIND_05 = ~z~Arthur, get up here, dammit!
+
+UTP1_FALLBEHIND_06 = ~z~Stop sulking back there, Morgan!
+
+UTP1_GRAB_1 = ~z~Here we are.
+
+UTP1_IG3_1 = ~z~What the hell's going on here?
+
+UTP1_IG5_1 = ~z~
+
+UTP1_IG5_2 = ~z~~sl:0.0:1.1:1~Come on, Arthur!
+
+UTP1_IG7_1 = ~z~Oh shit!
+
+UTP1_IG7_2 = ~z~
+
+UTP1_IG8_1 = ~z~~sl:0.5:2.7:1~Let's get out of here! Keep moving, Arthur!
+
+UTP1_IG9_B_1 = ~z~
+
+UTP1_IG10_A_1 = ~z~Let's go.
+
+UTP1_IG10_A_2 = ~z~Where we going?
+
+UTP1_IG10_A_3 = ~z~Making a house call.
+
+UTP1_IG10_B_1 = ~z~~sl:0.3:1.9:1~There's more of these morons.
+
+UTP1_IG11_A_1 = ~z~~sl:0.0:3.3~Okay... you white trash!~sl:0.6~Shit...
+
+UTP1_IG13_BENTR_1 = ~z~~sl:1.2:1.0:1~Thank you, friend...
+
+UTP1_IG13_BENTR_2 = ~z~~sl:0.2~Give me a gun.
+
+UTP1_IG13_BEXIT_1 = ~z~
+
+UTP1_IG13_BEXIT_2 = ~z~~sl:0.0:1.1:1~Hey, you.
+
+UTP1_IG13_BEXIT_3 = ~z~~sl:0.0:0.8:1~Bye now.
+
+UTP1_IG13_BEXIT_4 = ~z~Why the hell did you do that for?
+
+UTP1_IG13_BEXIT_5 = ~z~I'll tell you later.
+
+UTP1_IG13_BEXIT_6 = ~z~~sl:0.0:0.8~Come on!~sl:1.0~What the hell is wrong with you?
+
+UTP1_IG13_CMON_1 = ~z~Get me outta here, come on.
+
+UTP1_IG13_CMON_2 = ~z~I'm coming, genius...
+
+UTP1_IG13_CMON_3 = ~z~Open the door.
+
+UTP1_IG13_KEY_1 = ~z~~sl:0.7:0.0~Thank you, friend.
+
+UTP1_IG13_KEY_2 = ~z~Now, give me a gun.
+
+UTP1_IG13_KEY_3 = ~z~~sl:0.8:0.0~Hey, you.
+
+UTP1_IG13_KEY_4 = ~z~~sl:0.0:0.9:1~Bye now!
+
+UTP1_IGOUT_1 = ~z~Reckon it's time we got out of here, Morgan.
+
+UTP1_IGOUT_2 = ~z~Now you want get out of here?
+
+UTP1_INT_1 = ~z~Yep?
+
+UTP1_INT_2 = ~z~Hello sir, I've er...
+
+UTP1_INT_3 = ~z~I've come from Blackwater...
+
+UTP1_INT_4 = ~z~I'm on the trail of a dangerous gang...
+
+UTP1_INT_5 = ~z~Colm O'Driscoll.
+
+UTP1_INT_6 = ~z~Heard you had some sort of incident.
+
+UTP1_INT_7 = ~z~We don't deal with bounty hunters round here, son.
+
+UTP1_INT_8 = ~z~I-I was just wondering if I could get a description.
+
+UTP1_INT_9 = ~z~Well they weren't friends.
+
+UTP1_INT_10 = ~z~They got in a fight...
+
+UTP1_INT_11 = ~z~two men got killed.
+
+UTP1_INT_12 = ~z~Now one of 'em's an idiot...
+
+UTP1_INT_13 = ~z~the other's some kind of dumb mick...
+
+UTP1_INT_14 = ~z~so maybe them's your boys.
+
+UTP1_INT_15 = ~z~You can look right enough...
+
+UTP1_INT_16 = ~z~when we hang 'em.
+
+UTP1_INT_17 = ~z~Thank you, Sheriff.
+
+UTP1_JAILBAK_1 = ~z~No, no, we're done here. Just get the hell out.
+
+UTP1_JAILGET_1 = ~z~Arthur, you got the keys?
+
+UTP1_JAILGET_2 = ~z~No.
+
+UTP1_JAILGET_3 = ~z~Check their pockets upstairs. Come on, hurry.
+
+UTP1_JAILHRY_01 = ~z~Hurry, Arthur, get me outta here.
+
+UTP1_JAILHRY_02 = ~z~C'mon, get this door open.
+
+UTP1_KEYEXIT_1 = ~z~Why the hell you do that?
+
+UTP1_KEYEXIT_2 = ~z~~sl:0.3~I'll tell you later...
+
+UTP1_KEYEXIT_3 = ~z~~sl:0.0:0.7~Come on!~sl:0.6~The hell is wrong with you?
+
+UTP1_LASTWAVE_01 = ~z~More of them. Shoot the devil outta those bastards.
+
+UTP1_LASTWAVE_02 = ~z~Dammit. How many of these sons of bitches are there?
+
+UTP1_LAWAGRO_1 = ~z~God damn it! Take that son of a bitch down!
+
+UTP1_LAWATKS_1 = ~z~Alright, take this son of a bitch down.
+
+UTP1_LETSGO_1 = ~z~Follow me, Arthur.
+
+UTP1_MCS3_1 = ~z~We really should get out of here.
+
+UTP1_MCS3_2 = ~z~Calm yourself, woman...
+
+UTP1_MCS3_3 = ~z~like I said, I need to see someone.
+
+UTP1_MCS3_4 = ~z~This ain't the time for house calls.
+
+UTP1_MCS3_5 = ~z~Skinny, get out here!
+
+UTP1_MCS3_6 = ~z~Skinny!
+
+UTP1_MCS3_7 = ~z~It ain't Skinny, Micah...
+
+UTP1_MCS3_8 = ~z~it's Norman.
+
+UTP1_MCS3_9 = ~z~Well did you miss me?
+
+UTP1_MCS3_10 = ~z~I was hoping you was dead.
+
+UTP1_MCS3_11 = ~z~I weren't the traitor.
+
+UTP1_MCS3_12 = ~z~Get the hell off my porch.
+
+UTP1_MCS3_13 = ~z~You ain't welcome here...
+
+UTP1_MCS3_14 = ~z~You got what's mine, Skinny?
+
+UTP1_MCS3_15 = ~z~Even last night...
+
+UTP1_MCS3_16 = ~z~no you won't never change.
+
+UTP1_MCS3_17 = ~z~You always was a let-down, you fat sack of crap.
+
+UTP1_MCS3_18 = ~z~Excuse me a minute, Arthur...
+
+UTP1_MCS3_19 = ~z~Hello, Maddy...
+
+UTP1_MCS3_20 = ~z~did you miss me?
+
+UTP1_MCS3_21 = ~z~No!
+
+UTP1_MCS3_22 = ~z~No...
+
+UTP1_MCS3_23 = ~z~no...
+
+UTP1_MCS3_24 = ~z~Come on.
+
+UTP1_MCS3_25 = ~z~They had something of mine.
+
+UTP1_MCS3_26 = ~z~What?
+
+UTP1_MCS3_27 = ~z~My guns...
+
+UTP1_MCS3_28 = ~z~So you shot them?
+
+UTP1_MCS3_29 = ~z~It's a long story.
+
+UTP1_MCS3_30 = ~z~Oh spare me...
+
+UTP1_MCS3_LIP_1 = ~z~Skinny!
+
+UTP1_MCS3_LIP_2 = ~z~
+
+UTP1_MCS3_LIP_3 = ~z~Skinny!
+
+UTP1_MCS3_LI_1 = ~z~We really should get outta here.
+
+UTP1_MCS3_LI_2 = ~z~Calm yourself, woman. Like I said, I need to see someone.
+
+UTP1_MCS4_1 = ~z~Reckon it's time we got out of here, Morgan.
+
+UTP1_MCS4_2 = ~z~Now you want get out of here?
+
+UTP1_MCS4_3 = ~z~Ya!
+
+UTP1_MCS4_4 = ~z~Ya!~n~~m~Ya!
+
+UTP1_MCS4_5 = ~z~I reckon it's time we got out of here, Morgan.
+
+UTP1_MCS4_6 = ~z~Now you want get out of here?
+
+UTP1_MCS4_7 = ~z~Ya!
+
+UTP1_MCS4_8 = ~z~Ya!
+
+UTP1_MCS_1A_1 = ~z~I ain't sure about this.
+
+UTP1_MCS_1A_2 = ~z~Come on now.
+
+UTP1_MCS_1A_3 = ~z~Now pull that lever.
+
+UTP1_MCS_1A_4 = ~z~Let's get outta here, come on.
+
+UTP1_MCS_1A_5 = ~z~What the hell are you doing?
+
+UTP1_MCS_1A_6 = ~z~He was an O'Driscoll.
+
+UTP1_MCS_1_1 = ~z~Arthur, Arthur.
+
+UTP1_MCS_1_2 = ~z~Hello old friend...
+
+UTP1_MCS_1_3 = ~z~Had a good time did you?
+
+UTP1_MCS_1_4 = ~z~You going to get me out of here?
+
+UTP1_MCS_1_5 = ~z~I ain't decided yet.
+
+UTP1_MCS_1_6 = ~z~Real funny.
+
+UTP1_MCS_1_7 = ~z~Oh, I ain't joking, cowpoke.
+
+UTP1_MCS_1_8 = ~z~I heard so much bluster out of your mouth these last six months...
+
+UTP1_MCS_1_9 = ~z~and now I got an opportunity to watch you be silenced.
+
+UTP1_MCS_1_10 = ~z~Well you gotta do something.
+
+UTP1_MCS_1_11 = ~z~Why?
+
+UTP1_MCS_1_12 = ~z~I always looked up to you, Arthur.
+
+UTP1_MCS_1_13 = ~z~Well that's your first mistake.
+
+UTP1_MCS_1_14 = ~z~Listen, there's one little problem...
+
+UTP1_MCS_1_15 = ~z~there's only one of me and there's a whole town full of people...
+
+UTP1_MCS_1_16 = ~z~wanting to see you swing.
+
+UTP1_MCS_1_17 = ~z~You gotta do something, Arthur...
+
+UTP1_MCS_1_LI_1 = ~z~Arthur? Arthur?
+
+UTP1_MCS_LDN_1 = ~z~Hello, old friend. Had a good time, did you?
+
+UTP1_MCS_LDN_2 = ~z~~sl:0.5:1.4:1~You gonna get me outta here?
+
+UTP1_MCS_LDN_3 = ~z~~sl:0.9:0.0~I ain't decided yet.
+
+UTP1_MICSUG_01 = ~z~Maybe that steam donkey over there still works?
+
+UTP1_MICSUG_02 = ~z~You got any dynamite?
+
+UTP1_MICSUG_03 = ~z~This wall just needs some good forcing.
+
+UTP1_MICURG_01 = ~z~You hurry, there'll be more law here any minute.
+
+UTP1_MICURG_02 = ~z~Come on, you gotta try something.
+
+UTP1_MICURG_03 = ~z~Don't leave me in here, Morgan.
+
+UTP1_MID_BANT1_1 = ~z~We could've been long gone but, no, you have to shoot the entire town!
+
+UTP1_MID_BANT1_2 = ~z~I work clean, I don't leave loose ends.
+
+UTP1_MID_BANT2_1 = ~z~Where are you going now?
+
+UTP1_MID_BANT2_2 = ~z~You wanna get out of here, don't ya?
+
+UTP1_MID_BANT3_1 = ~z~Keep riding, Morgan!
+
+UTP1_MID_BANT3_2 = ~z~I don't have much choice!
+
+UTP1_MIREM_01 = ~z~Let's go!
+
+UTP1_MIREM_02 = ~z~Come on!
+
+UTP1_MIREM_03 = ~z~What the hell are you waiting for?
+
+UTP1_MISSME_1 = ~z~Hello, Maddy...
+
+UTP1_MISSME_2 = ~z~did you miss me?
+
+UTP1_MNT_WAVE_01 = ~z~More riders!
+
+UTP1_MNT_WAVE_02 = ~z~Look, they're sending the whole brigade!
+
+UTP1_MNT_WAVE_03 = ~z~~sl:0.0:1.2~Another lot of'em.~sl:0.7~We are thinning the herd today!
+
+UTP1_MNT_WAVE_04 = ~z~More of the bastards! Join the party, boys!
+
+UTP1_MNT_WAVE_05 = ~z~~sl:0.5~They just ain't giving up, are they?
+
+UTP1_MOVE_1 = ~z~Outta my way.
+
+UTP1_MYELLC_01 = ~z~Arthur? Arthur?
+
+UTP1_MYELLC_02 = ~z~Arthur, is that you?
+
+UTP1_MYELLC_03 = ~z~Arthur, over here.
+
+UTP1_MYELLS1_1 = ~z~Let me outta here, you maggots!
+
+UTP1_MYELLS2_1 = ~z~You think these bars can hold me?
+
+UTP1_MYELLS2_2 = ~z~You hear me?
+
+UTP1_MYELLS3_1 = ~z~My boys are coming for me!
+
+UTP1_MYELLS3_2 = ~z~And when they do, we'll burn this hick town to the ground!
+
+UTP1_MYELLSR_01 = ~z~I'm innocent... you sons of bitches!
+
+UTP1_MYELLSR_02 = ~z~It was just a fight that got outta hand!
+
+UTP1_MYELLSR_03 = ~z~Get this O'Driscoll outta here, or there's gonna be another murder!
+
+UTP1_MYELLSR_04 = ~z~Lemme out!
+
+UTP1_MYELLSR_05 = ~z~You inbred bastards ain't got a brain between you!
+
+UTP1_MYELLSR_06 = ~z~~sl:1.0:2.8:1~Hundred dollars for the man who gets me out of here!
+
+UTP1_ONBRIDGE_01 = ~z~We got more of them over by the bridge!
+
+UTP1_ONBRIDGE_02 = ~z~More lawmen up ahead!
+
+UTP1_PULLLEV_1 = ~z~What a modern disaster this is going to be.
+
+UTP1_PULLLEV_2 = ~z~Just pull that lever, come on.
+
+UTP1_SDSUG_1 = ~z~Yes, hook that over the bars, see if you can pull them off.
+
+UTP1_SHERWRN_1 = ~z~I'm gonna give you one more chance to get smart and walk on out of here.
+
+UTP1_SHOTODRISC_1 = ~z~What the hell are you doing?
+
+UTP1_SHOTODRISC_2 = ~z~He was an O'Driscoll.
+
+UTP1_SKPTOWN_1 = ~z~Don't go that way, let's get the hell out of here!
+
+UTP1_SKPTOWN_2 = ~z~I got some unfinished business. Trust me, Morgan!
+
+UTP1_SKPTOWN_3 = ~z~Trust you? You have finally lost your damn mind.
+
+UTP1_STATE_1 = ~z~Somebody send a wire to the state marshals!
+
+UTP1_TOWNSHOOT1_1 = ~z~You goddamn maniac, I should've left you to hang.
+
+UTP1_TOWNSHOOT1_2 = ~z~We're in it now, Morgan. What do you wanna do?
+
+UTP1_TOWNSHOOT2_1 = ~z~We should be long gone by now.
+
+UTP1_TOWNSHOOT2_2 = ~z~They got something of mine I ain't leaving without.
+
+UTP1_TOWNSHOOT2_3 = ~z~Who?
+
+UTP1_URGE_01 = ~z~Finish these bastards!
+
+UTP1_URGE_02 = ~z~Come on, let's clear them out!
+
+UTP1_URGE_03 = ~z~Keep shooting! Don't give up on me now!
+
+UTP1_WARN_1 = ~z~Hey, what the hell you doing in here with that gun drawn?
+
+UTP1_WAVE3C1_01 = ~z~Yeah, I see 'em.
+
+UTP1_WAVE3C1_02 = ~z~I can see that.
+
+UTP1_WAVE3C_01 = ~z~Shit, more of the bastards!
+
+UTP1_WAVE3C_02 = ~z~Look out, we got more coming in!
+
+UTP1_WAVE3_01 = ~z~I'll kill this whole town if I have to!
+
+UTP1_WAVE3_02 = ~z~Send 'em all out, come on! Everything you got!
+
+UTP1_WAVE4B_01 = ~z~Just keep moving, Micah.
+
+UTP1_WAVE4B_02 = ~z~Move up, damn it.
+
+UTP1_WAVE4_01 = ~z~Who else wants to step up? Come on!
+
+UTP1_WAVE4_02 = ~z~Hell's coming for ya, right now!
+
+UTP1_WAVE5A_01 = ~z~Come on, this way. Yeah, who wants to see me hang now?
+
+UTP1_WAVE5A_02 = ~z~Up here, come on. The law in this town's a damn joke.
+
+UTP1_WAVE5B_01 = ~z~Let's get to those horses, Morgan.
+
+UTP1_WAVE5B_02 = ~z~See the horses? Come on, follow me.
+
+UTP1_WAVE5_1 = ~z~I showed him... and I'll show the rest of this town!
+
+UTP1_WAVE5_2 = ~z~You have really lost it this time.
+
+UTP1_WHYACU_01 = ~z~I'm moving!
+
+UTP1_WHYACU_02 = ~z~Moving up!
+

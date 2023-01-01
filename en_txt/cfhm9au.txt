@@ -1,0 +1,40 @@
+CFHM9_ACT_1 = ~z~You know, when I was younger I'd try and rob anyone, anything.
+
+CFHM9_ACT_2 = ~z~If it weren't nailed down, I'd take it.
+
+CFHM9_ACT_3 = ~z~If you had anything, I'd try and take it from you.
+
+CFHM9_ACT_4 = ~z~I know, now I seem like a sweet old man...
+
+CFHM9_ACT_5 = ~z~but as a young man, I was worse than any of you fools. A total and absolute degenerate.
+
+CFHM9_ACT_6 = ~z~A liar, thief, a killer... when necessary.
+
+CFHM9_ACT_7 = ~z~Then I met two people changed my life. My dear wife Bessie and good old Dutch.
+
+CFHM9_ACT_8 = ~z~And for twenty years now, life, life has made sense.
+
+CFHM9_ACT_9 = ~z~It isn't my fault, all the unkindness and misery and I can't stop it. I can't change it, but I can improve things...
+
+CFHM9_ACT_10 = ~z~just a bit.
+
+CFHM9_ACT_11 = ~z~That's a lesson I learned from each of them and what I try to teach you fools. Life can be better.
+
+CFHM9_ACT_12 = ~z~We aren't perfect, but... we can protect the people we love.
+
+CFHM9_ACT_13 = ~z~Dutch caught me trying to steal food from him. I thought he was going to kill me.
+
+CFHM9_ACT_14 = ~z~But we looked at each other and we saw something...
+
+CFHM9_ACT_15 = ~z~and we been best friends ever since.
+
+CFHM9_ACT_16 = ~z~He's crazy and I'm a fool, but I... I trust him, because he's true.
+
+CFHM9_ACT_17 = ~z~There's no lying in him.
+
+CFHM9_ACT_18 = ~z~And when somebody doesn't lie in this world, and you don't lie to them then together you can achieve great things...
+
+CFHM9_ACT_19 = ~z~and destroy great powers.
+
+CFHM9_ACT_20 = ~z~Ignore everything else I said, but remember that.
+

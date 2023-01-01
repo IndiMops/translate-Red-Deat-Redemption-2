@@ -1,0 +1,130 @@
+0x71F582FF = Поздороваться
+
+0xB4D3BCF3 = Тянуть: ~INPUT_MOVE_DOWN_ONLY|PromptId=Cld1Pull,Gutter~ Сила: ~INPUT_CONTEXT_A|PromptId=Cld1Force,Gutter~
+
+0xB9257739 = Спросить вежливо
+
+CALDERON1_DONATE = Пожертвовать
+
+CALDERON1_F1 = Монах погиб.
+
+CALDERON1_F2 = Вы покинули рынок.
+
+CALDERON1_F3 = Пленник погиб.
+
+CALDERON1_F4 = Вы напали на одного из пленников.
+
+CALDERON1_F4A = Один из пленников был ранен.
+
+CALDERON1_F5 = Вы напали на монаха.
+
+CALDERON1_F6 = Вы привлекли внимание законников.
+
+CALDERON1_F7 = Монаха спугнули.
+
+CALDERON1_NODONATE = Не жертвовать
+
+CALDERON1_REFUSE = Отдать бедным
+
+CALDERON1_TAKE = Взять плату
+
+CALDERON1_W2 = Вернитесь ~o~на рынок~s~.
+
+CALDERON4_F1 = Сестра Кальдерон погибла.
+
+CALDERON4_F2 = Вы напали на сестру Кальдерон.
+
+CALDERON4_F3 = Брат Доркинс погиб.
+
+CALDERON4_F4 = Вы напали на брата Доркинса.
+
+CALDERON4_F7 = Мальчишка сбежал.
+
+CALDERON4_F8 = Вы не вернули распятие.
+
+CALDERON4_F9 = Священник погиб.
+
+CALDERON4_F10 = Вы напали на священника.
+
+CALDERON4_F11 = Вы не вернули распятие сестре Кальдерон.
+
+CALDERON4_F12 = Сестру Кальдерон спугнули.
+
+CALDERON4_F13 = Вы привлекли внимание законников.
+
+CALDERON4_F14 = Вы не помогли ребенку.
+
+CALDERON4_OBJ2 = Уйдите от ~e~законников~s~.
+
+CALDERON4_OBJ3 = Найдите ~o~сестру Кальдерон~s~, не привлекая внимания представителей закона.
+
+CLD2_BASE = Подвал
+
+CLD2_BOOKCASE = Книжный шкаф
+
+CLD2_CANCEL = Отпустить
+
+CLD2_CONFRONT = Запугайте ~o~продавца~s~.
+
+CLD2_CUTFREE = Освободить
+
+CLD2_DOOROBJ = Рычаг
+
+CLD2_DORKOBJ = Монах
+
+CLD2_FORCECTX = Сила
+
+CLD2_FORCEDOOR = Отодвинуть
+
+CLD2_FORCEOBJ = Отодвиньте ~o~шкаф~s~.
+
+CLD2_FREESL = ~s~Освободите ~o~пленников~s~.
+
+CLD2_GOBASE = Осмотрите ~o~подвал~s~.
+
+CLD2_GOSHOP_OBJ = Осмотрите ~o~лавку~s~.
+
+CLD2_INTIMIDATE = Запугайте ~e~продавца~s~.
+
+CLD2_OPENDOOR = Открыть дверь
+
+CLD2_PULLCTX = Тянуть
+
+CLD2_RETDORK = Вернитесь к ~o~монаху~s~.
+
+CLD2_ROBTILL = Отдать деньги пленникам
+
+CLD2_SCRATCHBK = Царапины от книжного шкафа
+
+CLD2_SCRATCHES = Царапины
+
+CLD2_SHOP = Магазин
+
+CLD2_SHOPK = Продавец
+
+CLD2_SLAVE = Пленник
+
+CLD2_SLAVE_OBJ = Ищите ~o~подсказки~s~ о местонахождении пленников.
+
+CLD2_SWITCHOBJ = Откройте ~o~фальшивый книжный шкаф~s~.
+
+CLD4_CLDLBL = Сестра Кальдерон
+
+CLD4_CRUC = Распятие
+
+CLD4_PICKUPGODTXT = Подберите ~o~распятие~s~.
+
+CLD_FINDCLUES = Найдите ~o~зацепки~s~ о том, куда побежал мальчишка.
+
+CLD_FINDKID = Найдите ~o~мальчишку~s~ и верните распятие.
+
+CLD_GENT = Джентльмен
+
+CLD_HELPKID = Помогите ~o~мальчишке~s~.
+
+CLD_KID = Мальчишка
+
+CLD_QUESTION = Задать вопрос
+
+CLD_THREATEN = Угрожать
+

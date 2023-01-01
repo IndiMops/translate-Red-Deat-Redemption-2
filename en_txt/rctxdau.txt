@@ -1,0 +1,124 @@
+RCTXD_RCS2_1 = ~z~Wha-What is that?
+
+RCTXD_RCS2_2 = ~z~It's art.
+
+RCTXD_RCS2_3 = ~z~Oh...
+
+RCTXD_RCS2_4 = ~z~that's what they call it...
+
+RCTXD_RSC1_1 = ~z~Hello, Mrs. Hobbs?
+
+RCTXD_RSC1_2 = ~z~Hello, dearie, hello.
+
+RCTXD_RSC1_3 = ~z~You said to come call on you.
+
+RCTXD_RSC1_4 = ~z~My name's John Marston...
+
+RCTXD_RSC1_5 = ~z~I've been sending you the animals for your art.
+
+RCTXD_RSC1_6 = ~z~I guess you make clothes or something?
+
+RCTXD_RSC1_7 = ~z~Clothes?
+
+RCTXD_RSC1_8 = ~z~Oh no, I don't make clothes, dearie.
+
+RCTXD_RSC1_9 = ~z~Come, come.
+
+RCTXD_RSC1_10 = ~z~What do you make?
+
+RCTXD_RSC1_11 = ~z~I make art, dearie.
+
+RCTXD_RSC1_12 = ~z~Art?
+
+RCTXD_RSC1_13 = ~z~Not art, but life...
+
+RCTXD_RSC1_14 = ~z~life as art.
+
+RCTXD_RSC1_15 = ~z~Come... come meet my friends.
+
+RCTXD_RSC1_16 = ~z~Come, come...
+
+RCTXD_RSC1_17 = ~z~it's downstairs.
+
+RCTXD_RSC1_18 = ~z~Come meet the world you helped build.
+
+RCTXD_RSC1_19 = ~z~This is...
+
+RCTXD_RSC1_20 = ~z~this is quite something.
+
+RCTXD_RSC1_21 = ~z~It's my life work, dearie...
+
+RCTXD_RSC1_22 = ~z~an almighty struggle.
+
+RCTXD_RSC1_23 = ~z~I love this little feller...
+
+RCTXD_RSC1_24 = ~z~he makes me so happy.
+
+RCTXD_RSC1_25 = ~z~There's so much life in him...
+
+RCTXD_RSC1_26 = ~z~in a way.
+
+RCTXD_RSC1_27 = ~z~Look at these three playing poker...
+
+RCTXD_RSC1_28 = ~z~they'll never know who wins, because...
+
+RCTXD_RSC1_29 = ~z~they're all dead.
+
+RCTXD_RSC1_30 = ~z~Only it doesn't look like it.
+
+RCTXD_RSC1_31 = ~z~Sometimes I... I make up little funny voices...
+
+RCTXD_RSC1_32 = ~z~and I make believe that they're all talking to one another.
+
+RCTXD_RSC1_33 = ~z~I... I call this guy Percival...
+
+RCTXD_RSC1_34 = ~z~I don't know why.
+
+RCTXD_RSC1_35 = ~z~And these two over here...
+
+RCTXD_RSC1_36 = ~z~oh they're prize fighters.
+
+RCTXD_RSC1_37 = ~z~Obviously there isn't any prize...
+
+RCTXD_RSC1_38 = ~z~because they're both dead.
+
+RCTXD_RSC1_39 = ~z~I tried this with humans once...
+
+RCTXD_RSC1_40 = ~z~during a cholera outbreak.
+
+RCTXD_RSC1_41 = ~z~No, animals are better...
+
+RCTXD_RSC1_42 = ~z~their fur is so nice and...
+
+RCTXD_RSC1_43 = ~z~Yeah... I think...
+
+RCTXD_RSC1_44 = ~z~I don't quite know what to say.
+
+RCTXD_RSC1_45 = ~z~Oh, I often get that reaction.
+
+RCTXD_RSC1_46 = ~z~I'm sure.
+
+RCTXD_RSC1_47 = ~z~Oh, here...
+
+RCTXD_RSC1_48 = ~z~please take this as a gift.
+
+RCTXD_RSC1_49 = ~z~Because after all, we did this together.
+
+RCTXD_RSC1_50 = ~z~You and I are both like God now...
+
+RCTXD_RSC1_51 = ~z~in a way.
+
+RCTXD_RSC1_52 = ~z~Thanks... I should get going.
+
+RCTXD_RSC1_53 = ~z~Yeah well maybe when you die somebody will stuff you...
+
+RCTXD_RSC1_54 = ~z~and maybe heaven is just like this.
+
+RCTXD_RSC1_55 = ~z~Did you ever think of that, dearie?
+
+RCTXD_RSC1_56 = ~z~No, I never did.
+
+RCTXD_RSC1_57 = ~z~Be well.
+
+RCTXD_RSC1_58 = ~z~Bye.
+

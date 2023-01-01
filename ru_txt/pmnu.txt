@@ -1,0 +1,2176 @@
+0x01A49A48 = Вызвать
+
+0x032403EC = СТРАХОВКА НА ЛОШАДЬ
+
+0x03307B33 = Лицо 01
+
+0x03840B42 = Брови 04
+
+0x04BD3639 = Щетина 01
+
+0x05E5242F = Параметры
+
+0x063DA89A = Архетип 23
+
+0x065A7623 = Форма щек 03
+
+0x07488B36 = Форма щек 04
+
+0x0867C8C6 = Седые
+
+0x0916CC4F = Женская голова 01
+
+0x09FEC225 = Борода 04
+
+0x0B4062EA = Уровень характеристик
+
+0x0C043477 = Архетип 21
+
+0x0E0DCFDD = Параметры
+
+0x0E436076 = Лицевая раскраска 10
+
+0x0F162D7F = Награды
+
+0x0F556C00 = Размер уха 04
+
+0x1A2076D0 = Лицевая раскраска 06
+
+0x1CA15F1C = Смелость
+
+0x1D9A4E91 = Одного цвета с волосами
+
+0x1D554CE2 = Темно-рыжие
+
+0x1E8E5195 = ПАРАМЕТРЫ ЛОШАДИ
+
+0x1E21B8BB = Редкие
+
+0x1FDB2AF1 = Задать параметры тела.
+
+0x2A9D33FE = Растительность на лице
+
+0x2A9F728E = Цвет
+
+0x2B4E02C8 = Починить
+
+0x2C263C8C = Быстро присоединиться ~COLOR_MENU_GREY~[к члену отряда]~s~
+
+0x2D266A85 = Лицо
+
+0x2E083EBB = Борода
+
+0x2E9FADFA = Телеграммы
+
+0x2E8702F8 = Тело
+
+0x2F86D17C = Управляемость
+
+0x3A95277C = Разрешить езду строем
+
+0x3C5B9B07 = Характеристики
+
+0x3E8EA5CC = Статистика
+
+0x3F1D702A = Отправлено приглашение в отряд.
+
+0x3F4CED55 = Список игроков – приглашение отправлено
+
+0x4ACC6165 = Мочка уха 04
+
+0x4B8F13D6 = Вы получили телеграмму с предложением о работе для отряда. Посмотрите информацию или начните прямо сейчас.
+
+0x4C28B383 = Архетип 16
+
+0x4DCD906C = Лицо 03
+
+0x4F940A81 = Награды
+
+0x5A5948D4 = Параметры
+
+0x5BE32101 = Мочка уха 02
+
+0x5C27D0FB = Информация о задании
+
+0x5C47AFCA = Форма головы
+
+0x5DD86BB9 = Главное меню
+
+0x6BEAD9CA = Информация
+
+0x6C19580F = Рыжие
+
+0x6DAA9DE3 = Лицевая раскраска 08
+
+0x6DB367DF = Не отображать бороду и усы
+
+0x6E8B2599 = Наград нет. Проверьте позже.
+
+0x6E197C77 = Испытания обновятся через ~1~ мин.
+
+0x6EADA79F = Форма щек 01
+
+0x6F57162A = Выбрать щеки вашего персонажа.
+
+0x7AA8FBF6 = Сумка коллекционера
+
+0x7AFAD545 = Светло-рыжие
+
+0x7B77397C = Лицевая раскраска 09
+
+0x7BC8AFF7 = Прическа
+
+0x7CC9A29E = Светло-русые
+
+0x7EF9BB26 = Пользовательское
+
+0x7F00D640 = ОТПРАВИТЬ К ВЕТЕРИНАРУ
+
+0x7F12987E = Архетип 08
+
+0x8AB59285 = Настроить вручную
+
+0x8C4F996D = Коричневые
+
+0x8CD0CEE2 = Щетина
+
+0x8DF19C3A = Выбрать транспорт для рода занятий в Red Dead Online.
+
+0x8F6A05AE = Сыграйте в серию режимов игры, предложенных игроками. Чтобы предложить режим игры, отметьте его в разделе «Режимы» Social Club в меню паузы.
+
+0x9A6FF0C8 = Припасов заказано: ~1$~
+
+0x9A31D00A = Выберите походку вашего персонажа.
+
+0x9BB3956C = Изменить глаза и брови.
+
+0x9C9B8441 = Цвет
+
+0x9C215C5C = Борода 03
+
+0x9C505339 = Архетип 01
+
+0x9D8CBBFD = Роли
+
+0x9D46883D = Чтобы выключить звук для всех игроков, удерживайте ~INPUT_FRONTEND_Y~.
+
+0x9EB60CD8 = Усы
+
+0x9F37E2D1 = Текущие позиции
+
+0x9F180D7B = Случайный выбор
+
+0x12F6F7FF = Место доставки
+
+0x14E39E99 = Лицо 07
+
+0x15A60313 = Струпья
+
+0x22C161A1 = Архетип 25
+
+0x25FBAEFE = Бандит
+
+0x26A6E7AC = Архетип 03
+
+0x27D27574 = Образ жизни
+
+0x27F4D09C = Начать задание по поставке
+
+0x28B4B6EF = Список игроков – достигнут лимит приглашений
+
+0x30FF3961 = Стиль
+
+0x34C36146 = Изменить внешность персонажа в зависимости от образа жизни.
+
+0x37E1421C = Отправитель неизвестен.
+
+0x39C627F0 = Заказать припасы
+
+0x45DFC461 = Узкие
+
+0x46ED741A = Изменить уши персонажа.
+
+0x47CC6699 = Срок оплаты истекает через ~1~ мин.
+
+0x54BCEC08 = Лицевая раскраска 03
+
+0x55D6E519 = Выбрать нос вашего персонажа.
+
+0x60D724D3 = Предметов добыто: ~1~ из ~2~
+
+0x61E40939 = Русые
+
+0x70F51F9D = Выберите историю происхождения вашего персонажа.
+
+0x74FF79E1 = Мужская голова 01
+
+0x76DA88E6 = Архетип 18
+
+0x77C20F8D = Темно-коричневые
+
+0x78F68D5C = Темно-русые
+
+0x81AE8813 = Все
+
+0x83C7EF76 = Изменить щеки персонажа.
+
+0x88EF86B3 = Лицо 06
+
+0x91ECE422 = Скорость
+
+0x91F277B4 = Размер уха 01
+
+0x97BCF207 = Лицевая раскраска 07
+
+0x99F2B1F5 = Черно-коричневые
+
+0x118A5981 = Брови 03
+
+0x173BAB8D = Седые (темные)
+
+0x205CCDB0 = Список игроков – слишком много постоянных отрядов
+
+0x241F538E = Вызвать дилижанс
+
+0x261D43D9 = Цвет
+
+0x352E8807 = Свист
+
+0x496ED6CC = Лицевая раскраска 14
+
+0x506DB0BE = Мужская голова 03
+
+0x512BEE55 = ПЕРСОНАЖ
+
+0x584CA61B = Отправить дилижанс в гараж
+
+0x629B8925 = Лицевая раскраска 12
+
+0x629C551B = Мужская голова 02
+
+0x644E844C = В данный момент функция подбора игроков недоступна
+
+0x645AB2D6 = Выбрать косметику.
+
+0x673A1A46 = Рыжевато-русые
+
+0x690E866C = Стиль
+
+0x761D80B3 = С проседью
+
+0x772EB24B = Лицевая раскраска 13
+
+0x780CC279 = Приглашения в отряд
+
+0x839D9C2E = Сыпь 17
+
+0x850CA54A = Архетип 19
+
+0x914A3CED = Архетип 09
+
+0x939E1FC4 = Задания свободного режима
+
+0x1882E5B1 = Выбрать рот и губы вашего персонажа.
+
+0x2134E975 = Выберите стиль бороды.
+
+0x3461AB52 = Лицевая раскраска 05
+
+0x3824E80A = Масть
+
+0x4886F3B1 = Стиль
+
+0x5442D6AC = Борода 05
+
+0x5662BA8E = Образ жизни
+
+0x6115D5EA = Размер уха 02
+
+0x6611ECD1 = Вылечить
+
+0x6734BADF = Сыпь 2
+
+0x7371EC8F = МЕСТО ВОЗРОЖДЕНИЯ
+
+0x7553ED0F = Приглашения
+
+0x7963DEB5 = Брови 01
+
+0x9070E4CF = Лицевая раскраска 11
+
+0x13238DEB = Борода и усы
+
+0x19683A23 = Отдать материалы
+
+0x26970FBD = Лицевая раскраска 04
+
+0x31877FA2 = Пол
+
+0x47300E45 = Список игроков – игрок занят
+
+0x67342F65 = Список игроков – невозможно пригласить игрока
+
+0x79279FAD = Пропорции черепа
+
+0x89737A24 = Это станет доступно позже.
+
+0x123785E5 = Испытания обновятся через ~1~ ч. ~2~ мин.
+
+0x361480BD = Выберите прическу.
+
+0x440077A4 = Рейтинг в задании
+
+0x931795BD = Приглашения в игру
+
+0x6817785E = Выбрать происхождение вашего персонажа.
+
+0x14624323 = Архетип 02
+
+0x18597883 = УВЕДОМЛЕНИЯ
+
+0x28550059 = Иссиня-черные
+
+0x52413936 = Отослать
+
+0x58608801 = Бандит
+
+0x70145472 = Маленьк.
+
+0x73949552 = Разгон
+
+0x74347464 = Страховка
+
+0x83870468 = Характеристики
+
+0xA03317A5 = Кузнец
+
+0xA0DED393 = Изменить губы персонажа.
+
+0xA1BB5F8F = Архетип 26
+
+0xA3A4604A = Стиль
+
+0xA4AABA72 = Выбрать глаза и брови вашего персонажа.
+
+0xA6AB1C48 = Параметры
+
+0xA8A06C71 = Архетип 17
+
+0xA8D593D2 = Форма челюсти 01
+
+0xA23E22D2 = Все испытания завершены.
+
+0xA38ACBEA = Вы получили телеграмму с предложением о работе. Посмотрите информацию или начните прямо сейчас.
+
+0xA976DBDF = Пол
+
+0xA99718DC = Выполнено ~1~ из ~2~
+
+0xA2322273 = Это в настоящий момент недоступно.
+
+0xA2709343 = Выделенная сессия
+
+0xAA5244D4 = Юноша/девушка
+
+0xAB61891B = Форма челюсти 02
+
+0xAC5A4D88 = Лицо 04
+
+0xAED3C662 = Голова
+
+0xAFBA0399 = Борода 01
+
+0xB0E2352B = ДИЛИЖАНС
+
+0xB0FF6F84 = Борода
+
+0xB1EDBBD7 = Нет непрочитанных приглашений.
+
+0xB6DB633C = Мочка уха 01
+
+0xB7E40A28 = Архетип 04
+
+0xB9F40E01 = Мужской
+
+0xB40A5F22 = Все
+
+0xB50CC416 = Тело
+
+0xB670D731 = Гладко выбрит
+
+0xB774A3C6 = Глубина глаз
+
+0xB6010C2B = Текущая серия: ~1~ д.
+
+0xB16597E0 = Голова
+
+0xBA18E905 = Лицо 05
+
+0xBA78ACB0 = У оружейника теперь можно купить: ~1~.
+
+0xBA4010A0 = Архетип 28
+
+0xBACE225C = Щетина 02
+
+0xBC046838 = Средних лет
+
+0xBC831422 = Начать телеграфное задание.
+
+0xBDC22808 = Внешность
+
+0xBE14E651 = Форма челюсти 03
+
+0xBF7C1A30 = Архетип 14
+
+0xC08D9C2B = Архетип 10
+
+0xC0D9AA25 = Борода
+
+0xC1AD45DB = Лицевая раскраска 01
+
+0xC2D76317 = Здесь можно отслеживать ежедневные испытания.
+
+0xC91EACC0 = Количество игроков: ~1~-~2~
+
+0xC92E9205 = Log Tool Tip
+
+0xC378A2C0 = Пропустить вступление
+
+0xC814A1D0 = Кустистые
+
+0xC23342E1 = Цвет
+
+0xC88617F3 = Бакенбарды
+
+0xC3106753 = Все приглашения
+
+0xCA5BFCDE = Выбрать уши вашего персонажа.
+
+0xCA21AEA3 = Архетип 05
+
+0xCAAAEC94 = Оружейник
+
+0xCB8ACF88 = ~a~ $
+
+0xCB8BDB04 = Лицевая раскраска 15
+
+0xCB9D59EC = Изменить челюсть и подбородок вашего персонажа.
+
+0xCBE23A59 = Ингредиентов добыто: ~1~ из ~2~
+
+0xCE12375C = Архетип 15
+
+0xCEB80D9F = Старик/старуха
+
+0xCEBB3886 = Архетип 11
+
+0xCEE2E046 = Лицевая раскраска 02
+
+0xCF263A6C = Архетип 27
+
+0xCF82020C = Оружейник
+
+0xD1B89844 = Лицо 02
+
+0xD2BC7E5A = Список игроков – приглашение отклонено
+
+0xD2DA6DF0 = Выберите цвет бороды и усов.
+
+0xD2E768C7 = Вы получили телеграмму с предложением о работе для отряда. Чтобы начать, в вашем отряде должно быть больше игроков.
+
+0xD3E2CD0A = Пропорции черепа
+
+0xD4E5F610 = Брови 02
+
+0xD4E8C509 = Архетип 12
+
+0xD5F31B78 = Телеграммы
+
+0xD7FC3FD8 = Широкие
+
+0xD9E516F7 = Изменить нос персонажа.
+
+0xD25FA175 = Текущая серия: ~1~ д.
+
+0xD95A6A63 = Свист
+
+0xD868CCF1 = Архетип 22
+
+0xD918DF43 = Женский
+
+0xD4796F7D = Архетип
+
+0xD6620A58 = Текущие испытания
+
+0xD7058B4D = Внешность
+
+0xD7539D2C = Чтобы включить звук для всех игроков, удерживайте ~INPUT_FRONTEND_Y~.
+
+0xD1767924 = Косметика
+
+0xDA2F0D82 = Статистика отряда
+
+0xDA2850C0 = Архетип 20
+
+0xDB5AD115 = Архетип 06
+
+0xDBD5B4DC = Белесые
+
+0xDC8418C4 = Выбрать пол.
+
+0xDCC63B25 = Синхронизировать цвета волос
+
+0xDD05A314 = Объявлено вознаграждение: ~1$~
+
+0xDF2539F3 = Форма челюсти 04
+
+0xE09DBDE4 = Стиль
+
+0xE4DD7A4D = Каталог
+
+0xE7CCB696 = Светло-коричневые
+
+0xE7FC8D8B = Подбородок
+
+0xE608E1FE = ТРАНСПОРТ ПО УМОЛЧАНИЮ
+
+0xE33661A4 = Архетип 13
+
+0xE5890534 = Женская голова 03
+
+0xEADD61F1 = Выберите цвет волос.
+
+0xEB7062C4 = Список игроков – приглашение
+
+0xEC2CA808 = Параметры игрока
+
+0xEC6B4F08 = Восстановление задания: ~1~ мин.
+
+0xED9D759A = Архетип 07
+
+0xEE176AC5 = Подогнать дилижанс ко мне
+
+0xEE553CD5 = Список игроков – игрока недавно исключили
+
+0xF1F6B904 = Мочка уха 03
+
+0xF3A9CA5B = Кузнец
+
+0xF3CCA1BB = Женская голова 02
+
+0xF7B6C55C = Выбрать челюсть и подбородок вашего персонажа.
+
+0xF7BB96B3 = Информация
+
+0xF8E1CEE3 = Игрока недавно исключили
+
+0xF9DCB532 = Отображать бороду и усы
+
+0xF21EE750 = Нет
+
+0xF55B86D6 = Архетип 24
+
+0xF674A0A0 = Доступные телеграммы
+
+0xF2523907 = Седые (светлые)
+
+0xF7240166 = Больш.
+
+0xF7359287 = Борода 02
+
+0xFB41025B = Лицо
+
+0xFBCE2BB7 = Изменить внешность
+
+0xFDCA29C4 = Борода 06
+
+0xFE07A007 = Место возрождения
+
+0xFE628173 = Размер уха 03
+
+0xFEE8D290 = Выберите пропорции черепа вашего персонажа
+
+0xFFD8DFCF = Форма щек 02
+
+ALLOW_LEADING_FOOTER = Разрешить другим членам отряда вести вашу лошадь под уздцы, когда вы на ней.
+
+ALLOW_LEADING_LINK = Вести под уздцы
+
+ANIMAL_SIGHTINGS_SUBH = Слухи о легендарных животных
+
+BOUNTY_HEADER_MP_OPEN_BOUNTIES = Разыскиваемые преступники
+
+BOUNTY_REPLAY_HEADER = ДОСКА С ПЛАКАТАМИ О РОЗЫСКЕ
+
+CAMP_AND_PROPERTIES_FOOTER = Посмотреть ваш лагерь и имущество.
+
+CAMP_AND_PROPERTIES_HEADER = ЛАГЕРЬ И ИМУЩЕСТВО
+
+CAMP_AND_PROPERTIES_LINK = Лагерь и имущество
+
+CAMP_AND_PROPERTIES_SUBH = Управление
+
+CAMP_FOOTER = Задать настройки лагеря.
+
+CAMP_HEADER = ЛАГЕРЬ
+
+CAMP_LINK = Лагерь
+
+CAMP_LOCATION_CATEGORY_ALL = Все
+
+CAMP_LOCATION_CATEGORY_NEARBY = Поблизости
+
+CAMP_LOCATION_HEADER = МЕСТОНАХОЖДЕНИЕ ЛАГЕРЯ
+
+CAMP_SIZE_SUBH = Размер лагеря
+
+CAMP_STATS_SUBH = Подробности
+
+CAMP_SUBH = Управление
+
+CARGO_ACCESS_FOOTER = Указать, кто может класть груз на вашу лошадь или забирать его.
+
+CHALLENGES_EMPTY = Нет испытаний. Загляните позднее.
+
+CHALLENGES_HEADER = Испытания
+
+CHANGE_NAME_LINK = Изменить имя
+
+CHAR_CREATOR_AGE_TITLE = Возраст
+
+CHAR_CREATOR_AGING = Морщины
+
+CHAR_CREATOR_AGING_01 = Морщины 01
+
+CHAR_CREATOR_AGING_02 = Морщины 02
+
+CHAR_CREATOR_AGING_03 = Морщины 03
+
+CHAR_CREATOR_AGING_04 = Морщины 04
+
+CHAR_CREATOR_AGING_05 = Морщины 05
+
+CHAR_CREATOR_AGING_06 = Морщины 06
+
+CHAR_CREATOR_AGING_07 = Морщины 07
+
+CHAR_CREATOR_AGING_08 = Морщины 08
+
+CHAR_CREATOR_AGING_09 = Морщины 09
+
+CHAR_CREATOR_AGING_10 = Морщины 10
+
+CHAR_CREATOR_AGING_11 = Морщины 11
+
+CHAR_CREATOR_AGING_12 = Морщины 12
+
+CHAR_CREATOR_AGING_13 = Морщины 13
+
+CHAR_CREATOR_AGING_14 = Морщины 14
+
+CHAR_CREATOR_AGING_15 = Морщины 15
+
+CHAR_CREATOR_AGING_16 = Морщины 16
+
+CHAR_CREATOR_AGING_17 = Морщины 17
+
+CHAR_CREATOR_AGING_18 = Морщины 18
+
+CHAR_CREATOR_AGING_19 = Морщины 19
+
+CHAR_CREATOR_AGING_20 = Морщины 20
+
+CHAR_CREATOR_AGING_21 = Морщины 21
+
+CHAR_CREATOR_AGING_22 = Морщины 22
+
+CHAR_CREATOR_AGING_23 = Морщины 23
+
+CHAR_CREATOR_AGING_24 = Морщины 24
+
+CHAR_CREATOR_APPEARANCE_MAIN_BODY_TITLE = Тело
+
+CHAR_CREATOR_APPEARANCE_MAIN_FACE_TITLE = Лицо
+
+CHAR_CREATOR_APPEARANCE_MAIN_HAIR_TITLE = Прически
+
+CHAR_CREATOR_APPEARANCE_MAIN_HEAD_TITLE = Голова
+
+CHAR_CREATOR_APPEARANCE_TITLE = Внешность
+
+CHAR_CREATOR_ATTRIBUTES_POOL_AMOUNT = Осталось ~1~ из 2 очков.
+
+CHAR_CREATOR_ATTRIBUTES_TITLE = Характеристики
+
+CHAR_CREATOR_ATTRIBUTE_DEADEYE = Меткий глаз
+
+CHAR_CREATOR_ATTRIBUTE_HEALTH = Здоровье
+
+CHAR_CREATOR_ATTRIBUTE_STAMINA = Выносливость
+
+CHAR_CREATOR_BASE = Основание головы
+
+CHAR_CREATOR_BEARD_COLOR = Цвет
+
+CHAR_CREATOR_BEARD_COLOR_LABEL = Цвет волос на лице
+
+CHAR_CREATOR_BEARD_COLOR_TOOLTIP = Изменить цвет бороды и усов.
+
+CHAR_CREATOR_BEARD_STUBBLE_LABEL = Щетина
+
+CHAR_CREATOR_BEARD_STUBBLE_TOOLTIP = Выбрать щетину.
+
+CHAR_CREATOR_BEARD_STYLE = Стиль
+
+CHAR_CREATOR_BEARD_STYLE_LABEL = Волосы на лице
+
+CHAR_CREATOR_BEARD_STYLE_TOOLTIP = Изменить стиль бороды и усов.
+
+CHAR_CREATOR_BEARD_TOOLTIP = Выбрать бороду и усы.
+
+CHAR_CREATOR_BLUSHER = Румяна
+
+CHAR_CREATOR_BLUSHER_01 = Персиковые
+
+CHAR_CREATOR_BLUSHER_02 = Розовые
+
+CHAR_CREATOR_BLUSHER_03 = Деликатные
+
+CHAR_CREATOR_BLUSHER_04 = Контурные
+
+CHAR_CREATOR_BODY_PAGE_BUILD_OPTION = Телосложение
+
+CHAR_CREATOR_BROW_DEPTH = Толщина бровей
+
+CHAR_CREATOR_BROW_SHAPE = Форма бровей
+
+CHAR_CREATOR_CHEEKS_LABEL = Щеки
+
+CHAR_CREATOR_CHEEK_DEPTH = Толщина скул
+
+CHAR_CREATOR_CHEEK_SHAPE = Форма скул
+
+CHAR_CREATOR_CHIN_DEPTH = Подбородок
+
+CHAR_CREATOR_CHIN_HAIR_COLOR_TOOLTIP = Изменить цвет волос на подбородке.
+
+CHAR_CREATOR_CHIN_HAIR_STYLE_TOOLTIP = Изменить стиль волос на подбородке.
+
+CHAR_CREATOR_CHIN_SHAPE = Форма подбородка
+
+CHAR_CREATOR_CHIN_TILT = Наклон подбородка
+
+CHAR_CREATOR_CHIN_WIDTH = Ширина подбородка
+
+CHAR_CREATOR_COMPLEXION = Тип лица
+
+CHAR_CREATOR_COMPLEXION_01 = Болезненный
+
+CHAR_CREATOR_COMPLEXION_02 = Румяный
+
+CHAR_CREATOR_COMPLEXION_03 = Обветренный
+
+CHAR_CREATOR_COMPLEXION_04 = С точками
+
+CHAR_CREATOR_COMPLEXION_05 = Раскрасневшийся
+
+CHAR_CREATOR_COMPLEXION_06 = С румянцем
+
+CHAR_CREATOR_COMPLEXION_07 = Алкоголический
+
+CHAR_CREATOR_COMPLEXION_08 = Обветренный
+
+CHAR_CREATOR_COMPLEXION_09 = Краснеющий
+
+CHAR_CREATOR_COMPLEXION_2 = Тип лица 2
+
+CHAR_CREATOR_COMPLEXION_10 = Суровый
+
+CHAR_CREATOR_COMPLEXION_11 = Загорелый
+
+CHAR_CREATOR_COMPLEXION_12 = Потрепанный
+
+CHAR_CREATOR_COMPLEXION_13 = Изможденный
+
+CHAR_CREATOR_COMPLEXION_14 = Со шрамами
+
+CHAR_CREATOR_CONFIRM = Подтвердить
+
+CHAR_CREATOR_CONFIRM_CHANGES = Подтвердить изменения (~1$~)
+
+CHAR_CREATOR_CONFIRM_CHANGES_FREE = Подтвердить изменения (бесплатно)
+
+CHAR_CREATOR_CONFIRM_CHANGES_GOLD = Подтвердить изменения (~COLOR_CASH_GOLD~?~1~~s~)
+
+CHAR_CREATOR_CUSTOMIZE_PROMPT = Настроить
+
+CHAR_CREATOR_EARS_LABEL = Уши
+
+CHAR_CREATOR_EAR_LOBE = Мочка уха
+
+CHAR_CREATOR_EAR_SHAPE = Форма ушей
+
+CHAR_CREATOR_EAR_SIZE = Размер уха
+
+CHAR_CREATOR_EAR_SIZE_GRID_BOTTOM_TEXT_LOBE_BIG = Большая мочка
+
+CHAR_CREATOR_EAR_SIZE_GRID_LEFT_TEXT_SMALL = Маленьк.
+
+CHAR_CREATOR_EAR_SIZE_GRID_RIGHT_TEXT_LARGE = Больш.
+
+CHAR_CREATOR_EAR_SIZE_GRID_TOP_TEXT_LOBE_SMALL = Маленькая мочка
+
+CHAR_CREATOR_EYEBROWS = Брови
+
+CHAR_CREATOR_EYEBROWS_01 = Толстые
+
+CHAR_CREATOR_EYEBROWS_02 = Обычные
+
+CHAR_CREATOR_EYEBROWS_03 = Тонкие
+
+CHAR_CREATOR_EYEBROWS_04 = Кустистые
+
+CHAR_CREATOR_EYEBROWS_05 = Низкие
+
+CHAR_CREATOR_EYEBROWS_06 = Узкие
+
+CHAR_CREATOR_EYEBROWS_07 = Выщипанные
+
+CHAR_CREATOR_EYEBROWS_08 = Изогнутые
+
+CHAR_CREATOR_EYEBROWS_09 = Аккуратные
+
+CHAR_CREATOR_EYEBROWS_10 = Четко очерченные
+
+CHAR_CREATOR_EYEBROWS_11 = С изломом
+
+CHAR_CREATOR_EYEBROWS_12 = Густые
+
+CHAR_CREATOR_EYEBROWS_13 = Короткие
+
+CHAR_CREATOR_EYEBROWS_14 = Скошенные
+
+CHAR_CREATOR_EYEBROWS_15 = Пушистые
+
+CHAR_CREATOR_EYEBROWS_16 = Едва заметные
+
+CHAR_CREATOR_EYEBROWS_F_01 = Выщипанные
+
+CHAR_CREATOR_EYEBROWS_F_02 = Густые
+
+CHAR_CREATOR_EYEBROWS_F_03 = Подстриженные
+
+CHAR_CREATOR_EYEBROWS_F_04 = Подведенные
+
+CHAR_CREATOR_EYEBROWS_F_05 = Толстые
+
+CHAR_CREATOR_EYEBROWS_F_06 = Пушистые
+
+CHAR_CREATOR_EYEBROWS_F_07 = Обычные
+
+CHAR_CREATOR_EYEBROWS_F_08 = Тяжелые
+
+CHAR_CREATOR_EYELINER = Подводка
+
+CHAR_CREATOR_EYELINER_01 = Простая
+
+CHAR_CREATOR_EYELINER_02 = Стрелка
+
+CHAR_CREATOR_EYELINER_03 = Длинная
+
+CHAR_CREATOR_EYELINER_04 = По нижнему веку
+
+CHAR_CREATOR_EYELINER_05 = Загнутая
+
+CHAR_CREATOR_EYELINER_06 = Изогнутая
+
+CHAR_CREATOR_EYELINER_COLOR = Цвет подводки
+
+CHAR_CREATOR_EYESBROWS_TOOLTIP = Выбрать форму бровей персонажа.
+
+CHAR_CREATOR_EYESHADOW = Тени
+
+CHAR_CREATOR_EYESHADOW_01 = Растушеванные
+
+CHAR_CREATOR_EYESHADOW_02 = Аккуратная линия
+
+CHAR_CREATOR_EYESHADOW_03 = Широкие стрелки
+
+CHAR_CREATOR_EYESHADOW_04 = Растушеванные стрелки
+
+CHAR_CREATOR_EYESHADOW_05 = Двухцветные стрелки
+
+CHAR_CREATOR_EYESHADOW_06 = Акцентированные
+
+CHAR_CREATOR_EYESHADOW_COLOR = Цвет теней
+
+CHAR_CREATOR_EYES_AND_BROWS_LABEL = Глаза и брови
+
+CHAR_CREATOR_EYES_COLOR_TOOLTIP = Выбрать цвет глаз персонажа.
+
+CHAR_CREATOR_EYE_COLOR = Цвет глаз
+
+CHAR_CREATOR_EYE_COLOR_01 = Цвет глаз 01
+
+CHAR_CREATOR_EYE_COLOR_02 = Цвет глаз 02
+
+CHAR_CREATOR_EYE_COLOR_03 = Цвет глаз 03
+
+CHAR_CREATOR_EYE_COLOR_04 = Цвет глаз 04
+
+CHAR_CREATOR_EYE_COLOR_05 = Цвет глаз 05
+
+CHAR_CREATOR_EYE_COLOR_06 = Цвет глаз 06
+
+CHAR_CREATOR_EYE_POSITION = Расположение глаз
+
+CHAR_CREATOR_EYE_REDNESS = Усталость
+
+CHAR_CREATOR_EYE_REDNESS_GRID_RED = Сильная
+
+CHAR_CREATOR_EYE_REDNESS_GRID_WHITE = Легкая
+
+CHAR_CREATOR_EYE_SIZE = Размер глаз
+
+CHAR_CREATOR_EYE_SOCKET = Глазница
+
+CHAR_CREATOR_FACE_PAINT = Лицевая раскраска
+
+CHAR_CREATOR_FACE_TOOLTIP = Задать параметры лица.
+
+CHAR_CREATOR_FINE_TUNING_LAYER_MOD_CHANNEL = Тип изношенности
+
+CHAR_CREATOR_FINE_TUNING_LAYER_MOD_OPACITY = Степень изношенности
+
+CHAR_CREATOR_FINE_TUNING_LAYER_OPACITY = Прозрачность
+
+CHAR_CREATOR_FOUNDATION = Пудра
+
+CHAR_CREATOR_FOUNDATION_01 = Пудра для лица
+
+CHAR_CREATOR_FOUNDATION_02 = Пудра 02
+
+CHAR_CREATOR_FOUNDATION_03 = Пудра 03
+
+CHAR_CREATOR_FOUNDATION_04 = Пудра 04
+
+CHAR_CREATOR_FOUNDATION_05 = Пудра 05
+
+CHAR_CREATOR_FOUNDATION_06 = Пудра 06
+
+CHAR_CREATOR_FOUNDATION_07 = Пудра 07
+
+CHAR_CREATOR_FRECKLES = Веснушки
+
+CHAR_CREATOR_FRECKLES_01 = Выразительные
+
+CHAR_CREATOR_FRECKLES_02 = На щеках
+
+CHAR_CREATOR_FRECKLES_03 = Случайно
+
+CHAR_CREATOR_FRECKLES_04 = Мало
+
+CHAR_CREATOR_FRECKLES_05 = Несколько
+
+CHAR_CREATOR_FRECKLES_06 = Сыпью
+
+CHAR_CREATOR_FRECKLES_07 = Побледневшие
+
+CHAR_CREATOR_FRECKLES_08 = Развеянные
+
+CHAR_CREATOR_FRECKLES_09 = На носу
+
+CHAR_CREATOR_FRECKLES_10 = Крошечные
+
+CHAR_CREATOR_FRECKLES_11 = Пятнами
+
+CHAR_CREATOR_GENERAL_CUSTOMIZATION_TOOLTIP = Используйте ~INPUT_FRONTEND_ACCEPT~, чтобы настроить свой вариант.
+
+CHAR_CREATOR_GRID_TEXT_ANGLE_INWARD = Наклон внутрь
+
+CHAR_CREATOR_GRID_TEXT_ANGLE_OUTWARD = Наклон наружу
+
+CHAR_CREATOR_GRID_TEXT_DEPTH_DEEP = Глубок.
+
+CHAR_CREATOR_GRID_TEXT_DEPTH_SHALLOW = Неглубок.
+
+CHAR_CREATOR_GRID_TEXT_HEIGHT_HIGH = Высоко
+
+CHAR_CREATOR_GRID_TEXT_HEIGHT_LOW = Низко
+
+CHAR_CREATOR_GRID_TEXT_LENGTH_LONG = Длинн.
+
+CHAR_CREATOR_GRID_TEXT_LENGTH_SHORT = Коротк.
+
+CHAR_CREATOR_GRID_TEXT_POS_DOWN = Вниз
+
+CHAR_CREATOR_GRID_TEXT_POS_INWARD = Внутрь
+
+CHAR_CREATOR_GRID_TEXT_POS_LEFT = Влево
+
+CHAR_CREATOR_GRID_TEXT_POS_OUTWARD = Наружу
+
+CHAR_CREATOR_GRID_TEXT_POS_RIGHT = Вправо
+
+CHAR_CREATOR_GRID_TEXT_POS_UP = Вверх
+
+CHAR_CREATOR_GRID_TEXT_ROTATION_INWARD = Поворот внутрь
+
+CHAR_CREATOR_GRID_TEXT_ROTATION_OUTWARD = Поворот наружу
+
+CHAR_CREATOR_GRID_TEXT_THICKNESS_THICK = Толст.
+
+CHAR_CREATOR_GRID_TEXT_THICKNESS_THIN = Тонк.
+
+CHAR_CREATOR_GRID_TEXT_TILT_HIGH = Высокий наклон
+
+CHAR_CREATOR_GRID_TEXT_TILT_LOW = Низкий наклон
+
+CHAR_CREATOR_GRID_TEXT_WIDTH_NARROW = Узко
+
+CHAR_CREATOR_GRID_TEXT_WIDTH_WIDE = Широко
+
+CHAR_CREATOR_GRIME = Грязь
+
+CHAR_CREATOR_GRIME_01 = Покрытое сажей лицо
+
+CHAR_CREATOR_GRIME_02 = Грязное лицо
+
+CHAR_CREATOR_GRIME_03 = Сальное лицо
+
+CHAR_CREATOR_GRIME_04 = Трещина
+
+CHAR_CREATOR_GRIME_05 = Лицо в разводах
+
+CHAR_CREATOR_GRIME_06 = Пятна
+
+CHAR_CREATOR_GRIME_07 = Масло
+
+CHAR_CREATOR_GRIME_08 = Земля
+
+CHAR_CREATOR_GRIME_09 = Глина
+
+CHAR_CREATOR_GRIME_10 = Пепел
+
+CHAR_CREATOR_GRIME_11 = Запекшаяся грязь
+
+CHAR_CREATOR_GRIME_12 = Немытое лицо
+
+CHAR_CREATOR_GRIME_13 = Уголь
+
+CHAR_CREATOR_GRIME_14 = Грязь
+
+CHAR_CREATOR_GRIME_15 = Чумазое лицо
+
+CHAR_CREATOR_GRIME_16 = Грязное лицо
+
+CHAR_CREATOR_GRIME_WEAR = Тип грязи
+
+CHAR_CREATOR_GRIME_WEAR_CHANNEL_01 = Неряшливо
+
+CHAR_CREATOR_GRIME_WEAR_CHANNEL_02 = С трещинами
+
+CHAR_CREATOR_GRIME_WEAR_CHANNEL_03 = Блекло
+
+CHAR_CREATOR_HAIR_COLOR = Цвет
+
+CHAR_CREATOR_HAIR_COLOR_LABEL = Цвет волос
+
+CHAR_CREATOR_HAIR_COLOR_TOOLTIP = Изменить цвет волос.
+
+CHAR_CREATOR_HAIR_LABEL = Прическа
+
+CHAR_CREATOR_HAIR_STYLE = Стиль
+
+CHAR_CREATOR_HAIR_STYLE_LABEL = Прическа
+
+CHAR_CREATOR_HAIR_STYLE_TOOLTIP = Изменить прическу.
+
+CHAR_CREATOR_HAIR_TOOLTIP = Изменить прическу.
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_01 = 1 из 20
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_02 = 2 из 20
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_03 = 3 из 20
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_04 = 4 из 20
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_05 = 5 из 20
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_06 = 6 из 20
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_07 = 7 из 20
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_08 = 8 из 20
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_09 = 9 из 20
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_10 = 10 из 20
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_11 = 11 из 20
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_12 = 12 из 20
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_13 = 13 из 20
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_14 = 14 из 20
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_15 = 15 из 20
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_16 = 16 из 20
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_17 = 17 из 20
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_18 = 18 из 20
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_19 = 19 из 20
+
+CHAR_CREATOR_HEAD_PAGE_PRESET_20 = 20 из 20
+
+CHAR_CREATOR_HEAD_TOOLTIP = Задать параметры головы.
+
+CHAR_CREATOR_HEAD_WIDTH = Ширина головы
+
+CHAR_CREATOR_HERITAGE_TITLE = Происхождение
+
+CHAR_CREATOR_INPUT_ASSIGN_POINTS = Распределить очки
+
+CHAR_CREATOR_INPUT_FINE_TUNE = Точная настройка
+
+CHAR_CREATOR_INPUT_ROTATE = Вращать
+
+CHAR_CREATOR_INPUT_ZOOM = Приблизить/отдалить
+
+CHAR_CREATOR_JAW_AND_CHIN_LABEL = Челюсть
+
+CHAR_CREATOR_JAW_DEPTH = Толщина челюсти
+
+CHAR_CREATOR_JAW_SHAPE = Форма челюсти
+
+CHAR_CREATOR_LAYER_NONE = Нет
+
+CHAR_CREATOR_LIFESTYLE_LABEL = Образ жизни
+
+CHAR_CREATOR_LIPSTICK = Помада
+
+CHAR_CREATOR_LIPSTICK_01 = Матовая
+
+CHAR_CREATOR_LIPSTICK_02 = Четкая
+
+CHAR_CREATOR_LIPSTICK_03 = Градиентная
+
+CHAR_CREATOR_LIPSTICK_04 = Размазанная
+
+CHAR_CREATOR_LIPSTICK_05 = Помада 05
+
+CHAR_CREATOR_LIPSTICK_06 = Помада 06
+
+CHAR_CREATOR_LIPSTICK_07 = Помада 07
+
+CHAR_CREATOR_LIPSTICK_08 = Помада 08
+
+CHAR_CREATOR_LIPSTICK_09 = Помада 09
+
+CHAR_CREATOR_LIPSTICK_10 = Помада 10
+
+CHAR_CREATOR_LIPSTICK_11 = Помада 11
+
+CHAR_CREATOR_LIPSTICK_12 = Помада 12
+
+CHAR_CREATOR_LIPSTICK_13 = Помада 13
+
+CHAR_CREATOR_LIPSTICK_14 = Помада 14
+
+CHAR_CREATOR_LIPSTICK_15 = Помада 15
+
+CHAR_CREATOR_LIPSTICK_16 = Помада 16
+
+CHAR_CREATOR_LIPSTICK_COLOR = Цвет помады
+
+CHAR_CREATOR_LIPS_DEPTH = Толщина губ
+
+CHAR_CREATOR_LIPS_DEPTH_BOTTOM_TEXT = Нижняя мелкая
+
+CHAR_CREATOR_LIPS_DEPTH_LEFT_TEXT = Верхняя мелкая
+
+CHAR_CREATOR_LIPS_DEPTH_RIGHT_TEXT = Верхняя глубокая
+
+CHAR_CREATOR_LIPS_DEPTH_TOP_TEXT = Нижняя глубокая
+
+CHAR_CREATOR_LOWER_LIP_SHAPE = Форма нижней губы
+
+CHAR_CREATOR_MAKEUP_LABEL = Косметика
+
+CHAR_CREATOR_MOLES = Родинки
+
+CHAR_CREATOR_MOLES_01 = Несколько
+
+CHAR_CREATOR_MOLES_02 = В разброс
+
+CHAR_CREATOR_MOLES_03 = Разные
+
+CHAR_CREATOR_MOLES_04 = Много
+
+CHAR_CREATOR_MOLES_05 = Редкие
+
+CHAR_CREATOR_MOLES_06 = Выразительные
+
+CHAR_CREATOR_MOLES_07 = Осыпью
+
+CHAR_CREATOR_MOLES_08 = Заметные
+
+CHAR_CREATOR_MOLES_09 = Точками
+
+CHAR_CREATOR_MOLES_10 = Еле заметные
+
+CHAR_CREATOR_MOLES_11 = Вразброс
+
+CHAR_CREATOR_MOLES_12 = Рассеянные
+
+CHAR_CREATOR_MOLES_13 = Затвердевшие
+
+CHAR_CREATOR_MOLES_14 = Веснушками
+
+CHAR_CREATOR_MOLES_15 = Группами
+
+CHAR_CREATOR_MOLES_16 = Редкие
+
+CHAR_CREATOR_MOUSTACHE_COLOR_TOOLTIP = Изменить цвет усов.
+
+CHAR_CREATOR_MOUSTACHE_STYLE_TOOLTIP = Изменить стиль усов.
+
+CHAR_CREATOR_MOUTH = Рот
+
+CHAR_CREATOR_MOUTH_AND_LIPS_LABEL = Рот и губы
+
+CHAR_CREATOR_MOUTH_POSITION = Расположение рта
+
+CHAR_CREATOR_NOSE_LABEL = Нос
+
+CHAR_CREATOR_NOSE_OPTION = Размер носа
+
+CHAR_CREATOR_NOSE_SHAPE = Форма носа
+
+CHAR_CREATOR_NOSE_TIP = Кончик носа
+
+CHAR_CREATOR_OBJECTIVE_MESSAGE_CHOOSE_CHARACTER = Выберите персонажа.
+
+CHAR_CREATOR_OPACITY_FAINT = Еле заметно
+
+CHAR_CREATOR_OPACITY_STRONG = Сильно заметно
+
+CHAR_CREATOR_PRESET = Готовый вариант
+
+CHAR_CREATOR_RANDOMIZE_ALL_PROMPT = Случайный выбор
+
+CHAR_CREATOR_RANDOMIZE_ALL_TOOLTIP = Для случайного подбора удерживайте ~INPUT_FRONTEND_ACCEPT~.
+
+CHAR_CREATOR_SAVE_GAME = Имя
+
+CHAR_CREATOR_SAVE_GAME_ENTER = Ввести имя
+
+CHAR_CREATOR_SCABS_01 = Струпья 01
+
+CHAR_CREATOR_SCABS_02 = Струпья 02
+
+CHAR_CREATOR_SCABS_03 = Струпья 03
+
+CHAR_CREATOR_SCABS_04 = Струпья 04
+
+CHAR_CREATOR_SCABS_05 = Струпья 05
+
+CHAR_CREATOR_SCABS_06 = Струпья 06
+
+CHAR_CREATOR_SCABS_07 = Струпья 07
+
+CHAR_CREATOR_SCABS_08 = Струпья 08
+
+CHAR_CREATOR_SCABS_09 = Струпья 09
+
+CHAR_CREATOR_SCABS_10 = Струпья 10
+
+CHAR_CREATOR_SCABS_11 = Струпья 11
+
+CHAR_CREATOR_SCAR = Шрам
+
+CHAR_CREATOR_SCAR_01 = Рубленый
+
+CHAR_CREATOR_SCAR_02 = От когтей
+
+CHAR_CREATOR_SCAR_03 = Рассечина
+
+CHAR_CREATOR_SCAR_04 = Рваный
+
+CHAR_CREATOR_SCAR_05 = От удара
+
+CHAR_CREATOR_SCAR_06 = От пореза
+
+CHAR_CREATOR_SCAR_07 = От рубящего удара
+
+CHAR_CREATOR_SCAR_08 = Трещиной
+
+CHAR_CREATOR_SCAR_09 = Вмятиной
+
+CHAR_CREATOR_SCAR_10 = Зашитый
+
+CHAR_CREATOR_SCAR_11 = Ободранный
+
+CHAR_CREATOR_SCAR_12 = Изломанный
+
+CHAR_CREATOR_SCAR_13 = Исковерканный
+
+CHAR_CREATOR_SCAR_14 = Рельефный
+
+CHAR_CREATOR_SCAR_15 = С пятнами
+
+CHAR_CREATOR_SCAR_16 = На лбу
+
+CHAR_CREATOR_SIDE_BURNS_COLOR_TOOLTIP = Изменить цвет бакенбард.
+
+CHAR_CREATOR_SIDE_BURNS_STYLE_TOOLTIP = Изменить стиль бакенбард.
+
+CHAR_CREATOR_SKIN_MOTTLING = Кожа
+
+CHAR_CREATOR_SKIN_MOTTLING_01 = Пятнистая
+
+CHAR_CREATOR_SKIN_MOTTLING_02 = Обветренная
+
+CHAR_CREATOR_SKIN_MOTTLING_03 = Рябая
+
+CHAR_CREATOR_SKIN_MOTTLING_04 = Веснушчатая
+
+CHAR_CREATOR_SKIN_MOTTLING_05 = С точками
+
+CHAR_CREATOR_SKIN_MOTTLING_06 = Ровная
+
+CHAR_CREATOR_SKIN_MOTTLING_07 = Неровная
+
+CHAR_CREATOR_SKIN_MOTTLING_08 = Рябая
+
+CHAR_CREATOR_SKIN_MOTTLING_09 = C небольшими пятнами
+
+CHAR_CREATOR_SKIN_MOTTLING_10 = С большими пятнами
+
+CHAR_CREATOR_SKIN_MOTTLING_11 = Испещренная
+
+CHAR_CREATOR_SKIN_MOTTLING_12 = Веснушчатая
+
+CHAR_CREATOR_SKIN_MOTTLING_13 = Крапчатая
+
+CHAR_CREATOR_SKIN_MOTTLING_14 = Большие пятна
+
+CHAR_CREATOR_SKIN_MOTTLING_15 = Грубая
+
+CHAR_CREATOR_SKIN_MOTTLING_16 = Текстура 16
+
+CHAR_CREATOR_SKIN_TONE = Цвет кожи
+
+CHAR_CREATOR_SKIN_TONE_01 = Цвет кожи 01
+
+CHAR_CREATOR_SKIN_TONE_02 = Цвет кожи 02
+
+CHAR_CREATOR_SKIN_TONE_03 = Цвет кожи 03
+
+CHAR_CREATOR_SKIN_TONE_04 = Цвет кожи 04
+
+CHAR_CREATOR_SKIN_TONE_05 = Цвет кожи 05
+
+CHAR_CREATOR_SKIN_TONE_06 = Цвет кожи 06
+
+CHAR_CREATOR_SKIN_TONE_07 = Цвет кожи 07
+
+CHAR_CREATOR_SKIN_TONE_LABEL = Цвет кожи
+
+CHAR_CREATOR_SKIN_TONE_TOOLTIP = Выбрать цвет кожи.
+
+CHAR_CREATOR_SPOTS = Сыпь
+
+CHAR_CREATOR_SPOTS_01 = На лбу
+
+CHAR_CREATOR_SPOTS_02 = С покраснениями
+
+CHAR_CREATOR_SPOTS_03 = С пятнами
+
+CHAR_CREATOR_SPOTS_04 = Воспаленная
+
+CHAR_CREATOR_SPOTS_05 = На подбородке
+
+CHAR_CREATOR_SPOTS_06 = Высыпью
+
+CHAR_CREATOR_SPOTS_07 = Раздраженная
+
+CHAR_CREATOR_SPOTS_08 = Болезненная
+
+CHAR_CREATOR_SPOTS_09 = Оспа
+
+CHAR_CREATOR_SPOTS_10 = С опухолью
+
+CHAR_CREATOR_SPOTS_11 = Вздувшаяся
+
+CHAR_CREATOR_SPOTS_12 = С трещинами
+
+CHAR_CREATOR_SPOTS_13 = Проказа
+
+CHAR_CREATOR_SPOTS_14 = Заметная
+
+CHAR_CREATOR_SPOTS_15 = С рубцами
+
+CHAR_CREATOR_SPOTS_16 = Выразительная
+
+CHAR_CREATOR_TEETH = Зубы
+
+CHAR_CREATOR_TOOLTIP_AGE = Указать возраст вашего персонажа.
+
+CHAR_CREATOR_TOOLTIP_APPEARANCE = Задайте внешность вашего персонажа.
+
+CHAR_CREATOR_TOOLTIP_ARCHETYPE = Выбрать архетип вашего персонажа
+
+CHAR_CREATOR_TOOLTIP_ATTRIBUTES = Задайте характеристики вашего персонажа.
+
+CHAR_CREATOR_TOOLTIP_BUILD_OPTION = Выбрать тип телосложения вашего персонажа.
+
+CHAR_CREATOR_TOOLTIP_CONFIRM = Продолжайте, когда будете готовы.
+
+CHAR_CREATOR_TOOLTIP_ERROR_ASSIGN_ATTRIBUTES = Персонажу нужно задать характеристики.
+
+CHAR_CREATOR_TOOLTIP_ERROR_CHANGE_SOMETHING = Перед подтверждением вы должны изменить свой облик или имя.
+
+CHAR_CREATOR_TOOLTIP_ERROR_CHOOSE_NAME = Персонажу нужно дать имя.
+
+CHAR_CREATOR_TOOLTIP_HERITAGE = Выбрать происхождение в качестве основы.
+
+CHAR_CREATOR_TOOLTIP_LIFESTYLE = Изменить внешность персонажа в зависимости от образа жизни.
+
+CHAR_CREATOR_TOOLTIP_MAKEUP = Выбрать косметику.
+
+CHAR_CREATOR_TOOLTIP_SAVE_GAME = Дайте имя вашему персонажу.
+
+CHAR_CREATOR_TOOLTIP_SYNC_HAIR_COLOR = Сделать все волосы одного цвета.
+
+CHAR_CREATOR_TOOLTIP_TEETH = Выбрать зубы вашего персонажа.
+
+CHAR_CREATOR_TOOLTIP_WHISTLE = Выберите, как будет звучать свист вашего персонажа.
+
+CHAR_CREATOR_UPPER_LIP_SHAPE = Форма верхней губы
+
+CHAR_CREATOR_VIRTUAL_KEYBOARD_TITLE = Введите имя вашего персонажа (не более 16 символов)
+
+CHAR_CREATOR_WHISTLE_CLARITY = Чистота
+
+CHAR_CREATOR_WHISTLE_CLARITY_TOOLTIP = Измените чистоту свиста вашего персонажа.
+
+CHAR_CREATOR_WHISTLE_PITCH = Высота
+
+CHAR_CREATOR_WHISTLE_PITCH_TOOLTIP = Измените высоту свиста вашего персонажа.
+
+CHAR_CREATOR_WHISTLE_STYLE = Стиль
+
+CHAR_CREATOR_WHISTLE_STYLE_1 = Стиль 1
+
+CHAR_CREATOR_WHISTLE_STYLE_2 = Стиль 2
+
+CHAR_CREATOR_WHISTLE_STYLE_3 = Стиль 3
+
+CHAR_CREATOR_WHISTLE_STYLE_4 = Стиль 4
+
+CHAR_CREATOR_WHISTLE_STYLE_5 = Стиль 5
+
+CHAR_CREATOR_WHISTLE_STYLE_TOOLTIP = Выберите стиль свиста.
+
+CHAR_CREATOR_WHISTLE_TITLE = Свист
+
+CLOUD_DROP_DIFFICULTY_EASY = Стандартно
+
+CLOUD_DROP_DIFFICULTY_HARD = Очень сложно
+
+CLOUD_DROP_DIFFICULTY_MEDIUM = Сложно
+
+CLOUD_DROP_LETTER_MISSION_COOLDOWN_IS_ACTIVE = Восстановление задания: ~1~ мин.
+
+CLOUD_DROP_SUBH = Задания
+
+COMPETITIVE_DEFAULTS_LINK = Состязания
+
+COOP_DEFAULTS_LINK = Сюжетное задание
+
+CUSTOM_CREATOR_REROLL_OPTION = Свой вариант
+
+CUSTOM_JOB_DURATION = Продолжительность
+
+CUSTOM_JOB_DURATION_5 = 5 минут
+
+CUSTOM_JOB_DURATION_10 = 10 минут
+
+CUSTOM_JOB_DURATION_30 = 30 минут
+
+CUSTOM_JOB_DURATION_ANY = Любая
+
+CUSTOM_JOB_MODE = Режим
+
+CUSTOM_JOB_MODE_ANY = Любой
+
+CUSTOM_JOB_MODE_DM = Перестрелка
+
+CUSTOM_JOB_MODE_MISSION = Задание
+
+CUSTOM_JOB_MODE_RACE = Гонка
+
+CUSTOM_JOB_MODE_ROBBERY = Ограбление
+
+CUSTOM_JOB_PLAYWITH = Игроки
+
+CUSTOM_JOB_PLAYWITH_ANY = Кто угодно
+
+CUSTOM_JOB_PLAYWITH_CREW = Члены банды
+
+CUSTOM_JOB_PLAYWITH_FRIENDS = Друзья
+
+CUSTOM_JOB_PLAYWITH_PARTY = Команда
+
+CUSTOM_JOB_PRIVATE = Закрытый сеанс
+
+CUSTOM_JOB_PRIVATE_NO = Нет
+
+CUSTOM_JOB_PRIVATE_YES = Да
+
+CUSTOM_JOB_SIZE = Размер
+
+CUSTOM_JOB_SIZE_ANY = Любой
+
+CUSTOM_JOB_SIZE_LARGE = Большой
+
+CUSTOM_JOB_SIZE_MEDIUM = Средний
+
+CUSTOM_JOB_SIZE_SMALL = Маленький
+
+CUSTOM_JOB_SUBH = Пользовательское дело
+
+CUSTOM_JOB_TYPE = Тип
+
+CUSTOM_JOB_TYPE_ANY = Любой
+
+CUSTOM_JOB_TYPE_FFA = Каждый за себя
+
+CUSTOM_JOB_TYPE_TEAMS = Командная игра
+
+DAILY_DISABLED = Ежедневные испытания сейчас недоступны
+
+DAILY_HEADER = ЕЖЕДНЕВНЫЕ ИСПЫТАНИЯ
+
+DAILY_LINK = Ежедневные испытания
+
+DISMOUNT_FOOTER = Вынудить игроков слезть с вашей лошади.
+
+DISMOUNT_LINK = Скинуть ездока
+
+DISMOUNT_VEHICLE_FOOTER = Вынудить игроков слезть с вашего транспорта.
+
+EMOTES_FOOTER = Изменить жесты по умолчанию.
+
+EMOTES_HEADER = ЖЕСТЫ
+
+EMOTES_LINK = Жесты
+
+EMOTE_TYPES_SUBH = Типы жестов
+
+EXPRESSION_PRESET_CHEEKS_00 = Нейтральные
+
+EXPRESSION_PRESET_CHEEKS_01 = Впалые
+
+EXPRESSION_PRESET_CHEEKS_02 = Полные
+
+EXPRESSION_PRESET_CHEEKS_03 = Высокие
+
+EXPRESSION_PRESET_CHEEKS_04 = Широкие
+
+EXPRESSION_PRESET_EARS_00 = Нейтральные
+
+EXPRESSION_PRESET_EARS_01 = Большие
+
+EXPRESSION_PRESET_EARS_02 = Маленькие
+
+EXPRESSION_PRESET_EARS_03 = Длинные мочки
+
+EXPRESSION_PRESET_EARS_04 = Оттопыренные
+
+EXPRESSION_PRESET_EYES_00 = Нейтральные
+
+EXPRESSION_PRESET_EYES_01 = Суженные
+
+EXPRESSION_PRESET_EYES_02 = Широкие
+
+EXPRESSION_PRESET_EYES_03 = Нахмуренные
+
+EXPRESSION_PRESET_EYES_04 = Легкомысленные
+
+EXPRESSION_PRESET_HEAD_01 = Голова 1
+
+EXPRESSION_PRESET_HEAD_02 = Голова 2
+
+EXPRESSION_PRESET_HEAD_03 = Голова 3
+
+EXPRESSION_PRESET_HEAD_04 = Голова 4
+
+EXPRESSION_PRESET_HEAD_05 = Голова 5
+
+EXPRESSION_PRESET_JAW_00 = Нейтральная
+
+EXPRESSION_PRESET_JAW_01 = Широкая
+
+EXPRESSION_PRESET_JAW_02 = Узкая
+
+EXPRESSION_PRESET_JAW_03 = Маленькая
+
+EXPRESSION_PRESET_JAW_04 = Квадратная
+
+EXPRESSION_PRESET_MOUTH_00 = Нейтральные
+
+EXPRESSION_PRESET_MOUTH_01 = Тонкие
+
+EXPRESSION_PRESET_MOUTH_02 = Полные
+
+EXPRESSION_PRESET_MOUTH_03 = Верх выпячен
+
+EXPRESSION_PRESET_MOUTH_04 = Низ выпячен
+
+EXPRESSION_PRESET_NOSE_00 = Нейтральный
+
+EXPRESSION_PRESET_NOSE_01 = Узкий
+
+EXPRESSION_PRESET_NOSE_02 = Широкий
+
+EXPRESSION_PRESET_NOSE_03 = Задранный
+
+EXPRESSION_PRESET_NOSE_04 = Крючком
+
+FREEROAM_DEFAULTS_LINK = Свободный режим
+
+FREEROAM_HEADER = СВОБОДНЫЙ РЕЖИМ
+
+GAME_DETAILS_LINK = Подробности игры
+
+GAME_DETAILS_SUBH = Подробности игры
+
+GAME_INVITE_HEADER = Приглашение в игру
+
+GUN_SPINNING_SUBH = Трюки
+
+HORSES_FOOTER = Просмотреть своих лошадей.
+
+HORSES_LINK = Ваши лошади
+
+HORSE_ACCESS_FOOTER = Указать, кто может садиться на вашу лошадь.
+
+HORSE_ACCESS_LINK = Доступ к лошади
+
+HORSE_CARGO_ACCESS_LINK = Доступ к грузу
+
+HORSE_INFO_BREED = Порода
+
+HORSE_INFO_SUMMARY = Уровень доверия: ~3~
+
+HORSE_INFO_SUMMARY_UNSADDLED = Прежде чем сесть на лошадь, на нее нужно надеть седло.
+
+HORSE_INFO_TYPE = Тип
+
+HORSE_LIST_EMPTY = У вас нет лошадей.
+
+HORSE_SPECIALTY_COMPETITIVE_SELECTION_HEADER = ЛОШАДЬ ДЛЯ СОСТЯЗАНИЙ
+
+HORSE_SPECIALTY_COOP_SELECTION_HEADER = ЛОШАДЬ НА ЗАДАНИИ
+
+HORSE_SPECIALTY_FREEROAM_SELECTION_HEADER = СТАНДАРТНАЯ ЛОШАДЬ
+
+HORSE_SPECIALTY_HEADER = ЛОШАДЬ ПО УМОЛЧАНИЮ
+
+HORSE_SPECIALTY_RACE_SELECTION_HEADER = СКАКОВАЯ ЛОШАДЬ
+
+HORSE_SUMMARY_DEAD = Для автоматического исцеления лошади купите страховку в конюшне.
+
+HORSE_SUMMARY_DEAD_RECOVERING = Ваша лошадь полностью исцелится за ~1~ мин.
+
+HORSE_SUMMARY_DEAD_RECOVERING_NO_PLURAL = Ваша лошадь полностью исцелится за ~1~ мин.
+
+HORSE_SUMMARY_HOTSWAP_RECOVERING = Ваша лошадь снова будет доступна через ~1~ мин.
+
+HORSE_SUMMARY_HOTSWAP_RECOVERING_NO_PLURAL = Ваша лошадь снова будет доступна через ~1~ мин.
+
+HOSTILITY_HIGH = Высокая
+
+HOSTILITY_HIGH_DESCRIPTION = Ваша метка видна игрокам, находящимся далеко от вас. Другие игроки могут безнаказанно убить вас.
+
+HOSTILITY_HIGH_FOOTER = На этом уровне враждебности автоматически выбирается агрессивный стиль игры.
+
+HOSTILITY_LINK = Враждебность
+
+HOSTILITY_LOW = Низкая
+
+HOSTILITY_LOW_DESCRIPTION = Ваша метка видна только игрокам, находящимся поблизости.
+
+HOSTILITY_LOW_FOOTER = Убивая других игроков, вы можете повысить свой уровень враждебности.
+
+HOSTILITY_MEDIUM = Средняя
+
+HOSTILITY_MEDIUM_DESCRIPTION = Ваша метка видна игрокам, находящимся на среднем расстоянии от вас.
+
+HOSTILITY_MEDIUM_FOOTER = Уровень враждебности понижается со временем.
+
+INVITES_FOOTER = Просмотреть приглашения.
+
+INVITES_HEADER = ПРИГЛАШЕНИЯ
+
+INVITES_LINK = Приглашения
+
+INVITE_PLAYERS_LINK = Пригласить игроков
+
+INVITE_PLAYERS_PUBLIC_NOT_ALLOWED_FOOTER = Функция «Пригласить игроков» недоступна в публичных играх.
+
+INVITE_PLAYERS_TO_MINIGAME_FOOTER = Пригласить игроков в эту мини-игру
+
+INV_EXPIRE = Истекает через ~1p~
+
+JOBS_SUBH = Начать подбор игроков
+
+JOB_LEADER_ONLY_FOOTER = Только командир отряда может начать дело.
+
+JOB_PLAYER_IN_JAIL_FOOTER = Функция «Быстрый вход» недоступна, если вы находитесь в тюрьме.
+
+JOB_POSSE_MEMBERS_IN_JAIL_FOOTER = Функция «Быстрый вход» недоступна, если члены вашего отряда находятся в тюрьме.
+
+LOG_EMPTY = В журнале нет записей. Загляните позднее.
+
+LOG_FOOTER = Просмотреть уведомления и информацию о заданиях.
+
+LOG_HEADER = ЖУРНАЛ
+
+LOG_LINK = Журнал
+
+MATCHMAKING_ACTIVE_LINK = Быстрый вход ~COLOR_MENU_GREY~[идет подбор игроков]~s~
+
+MATCHMAKING_FOOTER = Присоединиться к серии или сюжетному заданию.
+
+MATCHMAKING_HEADER = БЫСТРЫЙ ВХОД
+
+MATCHMAKING_LINK = Быстрый вход
+
+MATCHMAKING_SUBH = Поиск игры
+
+MINIGAME_GAME_DETAILS_FOOTER = Просмотреть сведения об этой мини-игре
+
+MINIGAME_PLAYERS_FOOTER = Посмотреть игроков в этой мини-игре
+
+MINIGAME_POKER_HEADER = ПОКЕР
+
+MINIGAME_RULES_FOOTER = Просмотреть правила этой мини-игры
+
+MISSION_BRIEF = Описание задания
+
+MISSION_CHECKLIST = Список задач
+
+MISSION_CHECKLIST_DESC = Выполнено ~1~ из ~2~ задач
+
+MISSION_STREAM = События
+
+MISSION_TOTAL_TAKE = Общая добыча
+
+MOONSHINE_FOOTER = Позволяет просмотреть и изменить местоположение хижины.
+
+MOONSHINE_FOOTER_CONTENT = Вы не можете переместить хижину, когда выполняете задание.
+
+MOONSHINE_FOOTER_INTRO = Станьте самогонщиком, чтобы открыть эту недвижимость.
+
+MOONSHINE_FOOTER_LOCKED = Хижина самогонщика недоступна.
+
+MOONSHINE_FOOTER_MEMBER = Только командир отряда может просматривать и изменять эти параметры.
+
+MOONSHINE_INVITE_LINK = Пригласить в хижину
+
+MOONSHINE_LINK = Хижина самогонщика
+
+MOONSHINE_LOCATIONS_HEADER = МЕСТО ПРЕДПРИЯТИЯ
+
+MOONSHINE_LOCATION_LINK = Выбрать место хижины
+
+MOONSHINE_LOC_FILTER_CLOSEST = Рядом
+
+MOONSHINE_LOC_FILTER_DISTANCE = Далеко
+
+MOONSHINE_SHACK_SUBH = Хижина самогонщика
+
+MPBODY_BUILD_FEMALE_1 = Тощее
+
+MPBODY_BUILD_FEMALE_2 = Спортивное
+
+MPBODY_BUILD_FEMALE_3 = Обычное
+
+MPBODY_BUILD_FEMALE_4 = Грузное
+
+MPBODY_BUILD_FEMALE_5 = Мускулистое
+
+MPBODY_BUILD_MALE_1 = Тощее
+
+MPBODY_BUILD_MALE_2 = Спортивное
+
+MPBODY_BUILD_MALE_3 = Обычное
+
+MPBODY_BUILD_MALE_4 = Грузное
+
+MPBODY_BUILD_MALE_5 = Мускулистое
+
+NOTIFICATIONS_EMPTY = Нет непрочитанных уведомлений.
+
+NOTIF_LINK = Уведомления
+
+NOTIF_SUBH = Все уведомления
+
+ONLINE_OPTIONS_HEADER = ПАРАМЕТРЫ СЕТЕВОЙ ИГРЫ
+
+ONLINE_OPTIONS_LINK = Параметры сетевой игры
+
+OPTIONS_FOOTER = Задать настройки свободного режима.
+
+OPTIONS_FREEROAM_SUBH = Свободный режим
+
+OWNED_HORSES_HEADER = ВАШИ ЛОШАДИ
+
+OWNED_VEHICLES_HEADER = ВАШ ТРАНСПОРТ
+
+PINNED_FOOTER = Посмотреть отслеживаемые задачи.
+
+PINNED_LINK = Закрепленное
+
+PLAYERS_CATEGORY_NAME_CREW = Банда
+
+PLAYERS_CATEGORY_NAME_FRIENDS = Друзья
+
+PLAYERS_CATEGORY_NAME_NEARBY = Поблизости
+
+PLAYERS_CATEGORY_NAME_RECENT = Недавние игроки
+
+PLAYERS_EMPTY = Подходящие игроки не найдены.
+
+PLAYERS_FAILED = Не удалось загрузить список игроков.
+
+PLAYERS_FOOTER = Просмотреть список игроков, присоединиться к ним или отправить приглашение.
+
+PLAYERS_HEADER = ИГРОКИ
+
+PLAYERS_LINK = Игроки
+
+PLAYERS_OPTIONS_HEADER = Параметры игрока
+
+PLAYERS_SUBH = Информация
+
+PLAYERS_TITLE_SUBH = Звание
+
+PLAYER_ENTRY_FOOTER = Список игроков
+
+PLAYER_ENTRY_INVITED_TO_SESSION_FOOTER = Отправлено приглашение в сеанс.
+
+PLAYER_ENTRY_NO_INVITE_LEFT = Достигнут лимит приглашений.
+
+PLAYER_ENTRY_PARLEY_REMAINING = Перемирие закончится через ~1~
+
+PLAYER_ENTRY_POSSE_BLOCKED_INVITE = Невозможно пригласить этого игрока.
+
+PLAYER_ENTRY_POSSE_INVITE_ACCEPTED = Приглашение в отряд принято.
+
+PLAYER_ENTRY_POSSE_INVITE_REJECTED = Приглашение в отряд отклонено.
+
+PLAYER_ENTRY_POSSE_INVITE_SENT = Приглашение в отряд отправлено.
+
+PLAYER_ENTRY_POSSE_RECENTLY_KICKED = Игрока недавно исключили из отряда.
+
+PLAYER_ENTRY_SESSION_INVITE_ACCEPTED = Приглашение в сеанс принято.
+
+PLAYER_ENTRY_SESSION_INVITE_REJECTED = Приглашение в сеанс отклонено.
+
+PLAYER_ENTRY_SESSION_INVITE_SENT = Приглашение в сеанс отправлено.
+
+PLAYER_ENTRY_SHACK_ALREADY_INSIDE = Игрок уже находится в хижине
+
+PLAYER_ENTRY_SHACK_INVITE_SENT = Приглашение в хижину отправлено
+
+PLAYER_ENTRY_SHACK_LEADER_NOT_IN = Чтобы приглашать игроков в хижину, сначала посетите ее.
+
+PLAYER_GUN_SPINNING_FOOTER = Выбрать трюки с кручением оружия.
+
+PLAYER_GUN_SPINNING_HEADER = КРУЧЕНИЕ ОРУЖИЯ
+
+PLAYER_GUN_SPINNING_LINK = Кручение оружия
+
+PLAYER_GUN_SPINNING_LOCKED_BOUNTY = Требуется 5-й уровень охотника за головами.
+
+PLAYER_MENU_CHLG_STREAK = Серия
+
+PLAYER_MENU_CHLG_TODAY = Общее
+
+PLAYER_ON_CONTENT = Игрок занят.
+
+PLAYER_OPTIONS = Параметры игрока
+
+PLAYER_REPORT_HEADER = ПОЖАЛОВАТЬСЯ НА ИГРОКА
+
+PLAYER_WALK_STYLES_FOOTER = Изменить стиль походки по умолчанию.
+
+PLAYER_WALK_STYLES_HEADER = СТИЛЬ ПОХОДКИ
+
+PLAYER_WALK_STYLES_LINK = Стиль походки
+
+PLAYER_WALK_TYPES_CASUAL = Расслабленная
+
+PLAYER_WALK_TYPES_CASUAL_DESC = Безмятежно прогуливаться.
+
+PLAYER_WALK_TYPES_CRAZY = Диковатая
+
+PLAYER_WALK_TYPES_CRAZY_DESC = Идти дерганой походкой.
+
+PLAYER_WALK_TYPES_DEFAULT = По умолчанию
+
+PLAYER_WALK_TYPES_DEFAULT_DESC = Идти естественным шагом.
+
+PLAYER_WALK_TYPES_DRUNK = Пьяница
+
+PLAYER_WALK_TYPES_DRUNK_DESC = Пошатываться, как пьяный.
+
+PLAYER_WALK_TYPES_EASYRIDER = Вразвалку
+
+PLAYER_WALK_TYPES_EASYRIDER_DESC = Неторопливая походка.
+
+PLAYER_WALK_TYPES_FLAMBOYANT = Эпатажная
+
+PLAYER_WALK_TYPES_FLAMBOYANT_DESC = Выступать уверенно.
+
+PLAYER_WALK_TYPES_GREENHORN = «Новичок»
+
+PLAYER_WALK_TYPES_GREENHORN_DESC = Уверенная походка.
+
+PLAYER_WALK_TYPES_GUNSLINGER = «Стрелок»
+
+PLAYER_WALK_TYPES_GUNSLINGER_DESC = Шагать с нахальным видом.
+
+PLAYER_WALK_TYPES_INQUISITIVE = Любопытство
+
+PLAYER_WALK_TYPES_INQUISITIVE_DESC = С любопытством осматриваться.
+
+PLAYER_WALK_TYPES_REFINED = Утонченная
+
+PLAYER_WALK_TYPES_REFINED_DESC = Надменно вышагивать.
+
+PLAYER_WALK_TYPES_SILENT = Бесшумная
+
+PLAYER_WALK_TYPES_SILENT_DESC = Ступать тихо и осторожно.
+
+PLAYER_WALK_TYPES_VETERAN = «Ветеран»
+
+PLAYER_WALK_TYPES_VETERAN_DESC = Шаг с остановкой.
+
+PMNU_HEADER = МЕНЮ ИГРОКА
+
+POSSE_CREATE_SUBH = Создать отряд
+
+POSSE_DEPUTIES_SUBH = Все участники
+
+POSSE_EMPTY = В настоящий момент нет отрядов, к которым можно было бы присоединиться. Нажмите ~INPUT_GAME_MENU_OPTION~, чтобы создать и возглавить собственный отряд.
+
+POSSE_EMPTY_CONTENT = В настоящий момент нет отрядов, к которым можно было бы присоединиться. Вы не можете создать отряд во время активного задания.
+
+POSSE_FOOTER = Создать отряд или поменять его настройки.
+
+POSSE_HEADER = ОТРЯД
+
+POSSE_INVITE_DESC = Описание приглашения в отряд
+
+POSSE_INVITE_HDR = Заголовок приглашения в отряд
+
+POSSE_INVITE_HEADER = ПРИГЛАСИТЬ
+
+POSSE_LINK = Отряд
+
+POSSE_MEMBERS_SUBH = Текущие участники
+
+POSSE_STATS_FREEROAM = Успешность в свободном режиме
+
+POSSE_SUBH = Отряды рядом с вами
+
+POSSE_VERSUS_INFIGHTING_HEADER = КОМАНДНАЯ РАСПРЯ
+
+POST_OFFICE_EMPTY = Вам не приходило писем.
+
+POST_OFFICE_HEADER = ПОСЫЛКИ
+
+POST_OFFICE_SUBH = Почтовый ящик
+
+PROPERTY_INVITE_HEADER = ПРИГЛАСИТЬ
+
+RACE_DEFAULTS_LINK = Гонки
+
+ROOT_SUBH = Меню
+
+RULES_LINK = Правила
+
+SET_AS_DEFAULT_LINK = По умолчанию
+
+SPECIALTY_COMPETITIVE_FOOTER = Выбрать лошадь по умолчанию для соревновательных режимов.
+
+SPECIALTY_COOP_FOOTER = Выбрать лошадь по умолчанию для сюжетных заданий.
+
+SPECIALTY_FOOTER = Выбрать лошадь для рода занятий в Red Dead Online.
+
+SPECIALTY_FREEROAM_FOOTER = Выбрать лошадь по умолчанию для свободного режима.
+
+SPECIALTY_LINK = Специализация
+
+SPECIALTY_RACE_FOOTER = Выбрать лошадь по умолчанию для гонок.
+
+SPECIALTY_SUBH = Специализация
+
+STABLES_FOOTER = Распоряжаться своими лошадьми и транспортом.
+
+STABLES_HEADER = КОНЮШНЯ
+
+STABLES_HORSES_ENTRY_TOOLTIP = Просмотреть список принадлежащих вам лошадей.
+
+STABLES_LINK = Конюшня
+
+STABLES_VEHICLES_ENTRY_TOOLTIP = Просмотреть список принадлежащих вам транспортных средств.
+
+STABLE_HORSES_LINK = Лошади
+
+STABLE_HORSES_SUBH = Лошади
+
+STABLE_HORSE_LINK = Поставить лошадь в конюшню
+
+STABLE_OPTIONS_SUBH = Параметры
+
+STABLE_VEHICLES_LINK = Транспорт
+
+STABLE_VEHICLES_SUBH = Транспорт
+
+TRADER_DELIVERY_AMOUNT = Объем доставки
+
+TRADER_DONATE_DISTANT = ~BLIP_MP_PLAYSTYLE_OFFENSIVE~Начать доставку по удаленной местности
+
+TRADER_DONATE_LOCAL = Начать доставку по ближайшей местности
+
+TRADER_GOODS = Товары
+
+TRADER_GOODS_AMOUNT = ~1~/~2~
+
+TRADER_GOODS_HIGH_RISK = Соперники могут атаковать вас во время доставки по удаленной местности.
+
+TRADER_GOODS_LOW_RISK = Доставка по ближайшей местности менее рискованна.
+
+TRADER_GOODS_ONLY_LEADER = Только командир отряда может выбрать время доставки товаров.
+
+TRADER_HEADER = Торговая компания Криппса
+
+TRADER_MATERIALS = Материалы
+
+TRADER_MATERIALS_EMPTY = Пусто
+
+TRADER_MATERIALS_FOOTER_LOW = Требуются материалы.
+
+TRADER_MATERIALS_FOOTER_PLENT = Сырья в избытке.
+
+TRADER_MATERIALS_INFO = Отдавайте туши и шкуры животных, чтобы получить сырье. Из качественных предметов получится ценное сырье.
+
+TRADER_MATERIALS_LOW = Мало
+
+TRADER_MATERIALS_PLENT = В избытке
+
+TRADER_ON_MISSION = Пока вы занимаетесь этим видом деятельности, задания заблокированы
+
+TRADER_PRODUCTION = Производство
+
+TRADER_PRODUCTION_AFFORD = Недостаточно материалов.
+
+TRADER_PRODUCTION_CRIPPS = Криппс недоступен.
+
+TRADER_PRODUCTION_D_DELIVERY = Доставка по удаленной местности
+
+TRADER_PRODUCTION_HALT = Остановлено
+
+TRADER_PRODUCTION_LEADER = Вы не командир отряда.
+
+TRADER_PRODUCTION_L_DELIVERY = Доставка по ближайшей местности
+
+TRADER_PRODUCTION_MAX = Производство вышло на максимальные обороты.
+
+TRADER_PRODUCTION_NOACTION = Ничего не требуется.
+
+TRADER_PRODUCTION_OPS = В работе
+
+TRADER_PRODUCTION_ORDERED = Припасы скоро прибудут.
+
+TRADER_PRODUCTION_QUICK = Заказать припасы
+
+TRADER_PRODUCTION_REQ = Необходима поставка припасов.
+
+TRADER_PRODUCTION_REQ_M = Только командир отряда может заниматься снабжением торговой компании Криппса.
+
+TRADER_PRODUCTION_RS1 = Чтобы производство продолжалось, нужны материалы и припасы. Необходимые припасы можно заказать или добыть, выполняя задания по поставке.
+
+TRADER_SUBHEADER = Лучшие шкуры и мясо
+
+TRADER_TOTAL_GOODS = Общая стоимость товаров
+
+TRADER_WAGON_CAPACITY = Вместимость повозки
+
+TRADER_WAGON_LARGE = Большая
+
+TRADER_WAGON_MEDIUM = Средняя
+
+TRADER_WAGON_SIZE = Размер повозки
+
+TRADER_WAGON_SMALL = Маленькая
+
+VEHICLES_FOOTER = Просмотреть свой транспорт.
+
+VEHICLES_LINK = Ваш транспорт
+
+VEHICLE_ACCESS_FOOTER = Указать, кто может использовать ваш транспорт.
+
+VEHICLE_ACCESS_LINK = Доступ
+
+VEHICLE_DISABLE_BOUNTYP_CALL = Вы не можете вызвать транспорт, перевозя преступников в тюремном фургоне.
+
+VEHICLE_DISABLE_BOUNTYP_DISMISS = Вы не можете отослать тюремный фургон, перевозящий преступников.
+
+VEHICLE_DISABLE_BUSY_CALL = Конюшня занята. Сейчас нельзя вызвать ваш транспорт.
+
+VEHICLE_DISABLE_BUSY_DISMISS = Конюшня занята. Сейчас нельзя отослать ваш транспорт.
+
+VEHICLE_DISABLE_CALLING_DISABLED = Вызов транспорта временно недоступен.
+
+VEHICLE_DISABLE_MOUNT_CALL = Вы должны отпустить лошадь прежде, чем вызывать транспорт.
+
+VEHICLE_DISABLE_ON_IT_CALL = Вы не можете вызвать транспорт, находясь в нем.
+
+VEHICLE_DISABLE_ON_IT_DISMISS = Вы не можете отослать транспорт, находясь в нем.
+
+VEHICLE_DISABLE_PLAYER_ANIMAL = Вы не можете вызвать транспорт, пока играете роль животного.
+
+VEHICLE_DISABLE_SUMMON_CALL = Ваш транспорт в пути.
+
+VEHICLE_INFO_SUMMARY_ACTIVE = Это ваш активный транспорт.
+
+VEHICLE_INFO_SUMMARY_STABLED = Транспорт помещен в конюшню.
+
+VEHICLE_LIST_EMPTY = У вас нет транспорта.
+
+VEHICLE_SUMMARY_DEAD = Для автоматической починки транспорта купите страховку в конюшне.
+
+VEHICLE_SUMMARY_DEAD_RECOVERING = Починка вашего транспорта будет завершена через ~1~ мин.
+
+VEHICLE_SUMMARY_DEAD_RECOVERING_NO_PLURAL = Починка вашего транспорта будет завершена через ~1~ мин.
+
+VEHICLE_SUMMARY_HOTSWAP_RECOVERING = Ваш транспорт будет снова доступен через ~1~ мин.
+
+VEHICLE_SUMMARY_HOTSWAP_RECOVERING_NO_PLURAL = Ваш транспорт будет снова доступен через ~1~ мин.
+
+WALK_STYLES_SUBH = Стили
+
+WEAPON_UNLOCKED_HEADER = Оружие открыто
+

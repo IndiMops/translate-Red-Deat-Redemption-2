@@ -1,0 +1,20 @@
+VFBL1_ACTION_1 = ~z~There you are, Arthur.
+
+VFBL1_ACTION_2 = ~z~Hello, Bill.
+
+VFBL1_ACTION_3 = ~z~Dutch has been worried about you... sent me out looking.
+
+VFBL1_ACTION_4 = ~z~I been busy...
+
+VFBL1_ACTION_5 = ~z~Well, alright... at least you're alive. I'm gonna head back to camp now.
+
+VFBL1_ACTION_6 = ~z~You... you wanna come back with me?
+
+VFBL1_NEGATIVE_1 = ~z~Nah. I'll come back in a bit.
+
+VFBL1_NEGATIVE_2 = ~z~Suit yourself.
+
+VFBL1_POSITIVE_1 = ~z~Sure.
+
+VFBL1_POSITIVE_2 = ~z~Well, alright then!
+

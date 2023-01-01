@@ -1,0 +1,22 @@
+CCTL5_ACTAI_1 = ~z~Oh, Arthur, I'm... I'm nervous.
+
+CCTL5_ACTAI_2 = ~z~I'll do my best for you. You know that.
+
+CCTL5_ACTA_1 = ~z~You okay?
+
+CCTL5_ACTA_2 = ~z~Oh, sure.
+
+CCTL5_ACTA_3 = ~z~Really?
+
+CCTL5_ACTA_4 = ~z~No... I'm scared Miss Grimshaw... feels like... feels like now...
+
+CCTL5_ACTA_5 = ~z~Oh, I ain't never normally scared but feels like now it's only a matter of time.
+
+CCTL5_ACTB_1 = ~z~It'll be okay, Miss...
+
+CCTL5_ACTB_2 = ~z~You sure?
+
+CCTL5_ACTB_3 = ~z~No... but I'm sure you'll be okay and I'm also sure that... well,  I'm sure that I really proud of you.
+
+CCTL5_ACTB_4 = ~z~You've grown into a fine woman... you'll be well. I just know it.
+

@@ -1,0 +1,64 @@
+0x77517A6D = Rowboat
+
+SMG2_B_CANNON = Revolving Cannon
+
+SMG2_B_FORTROOF = Fort Roof
+
+SMG2_B_FUSBOAT = Warship
+
+SMG2_B_FUSSOLD = Fussar's Soldier
+
+SMG2_B_GENSMUG = Smuggler
+
+SMG2_F_ABNDFGHT = The battle was abandoned.
+
+SMG2_F_EXNLEGIT = Hercule and Dutch were abandoned.
+
+SMG2_O_HLP_WALK = Walk
+
+SMG2_RETURNBATL = Return to the ~o~battle~s~
+
+SMG2_RETURNROOF = Return to the ~o~fort's roof~s~
+
+SMG2_S1_GOROOF = Regroup on the ~o~roof~s~
+
+SMG2_S2_HLPHERC = Help Hercule push the ~o~cannon~s~ into position
+
+SMG2_S2_KILLW1 = Eliminate ~e~Fussar's men~s~
+
+SMG2_S3_FOLHERC = Follow ~o~Hercule~s~ and ~o~Dutch~s~
+
+SMG2_S3_KILLEN = Eliminate ~e~Fussar's soldiers~s~
+
+SMG2_S3_RET2DNH = Return to ~o~Hercule~s~ and ~o~Dutch~s~
+
+SMG2_S4_FINSHEN = Finish the remaining ~e~soldiers~s~
+
+SMG2_S4_HLP_ILO = Approach Dutch and Hercule and hold ~INPUT_INTERACT_LOCKON~ to issue combat instructions to each.
+
+SMG2_S4_ILO_LFT = Cover left
+
+SMG2_S4_ILO_RGT = Cover right
+
+SMG2_S4_KILLEN = Eliminate ~e~Fussar's soldiers~s~ landing on the beach
+
+SMG2_S4_OBJ_ILO = Instruct ~o~Hercule~s~ and ~o~Dutch~s~
+
+SMG2_S4_REGROUP = Regroup with Hercule and Dutch at the ~o~base of the fort~s~
+
+SMG2_S4_RET2REG = Return to the ~o~base of the fort~s~
+
+SMG2_S5_FOLHERC = Follow ~o~Hercule~s~
+
+SMG2_S5_RETHERC = Return to ~o~Hercule~s~
+
+SMG2_S6_DESTSHP = Destroy ~e~Fussar's ship~s~
+
+SMG2_UC_PUSHST = Lean Forward
+
+SMG2_UC_PUSHTP = Push Cannon
+
+SMG2_UC_VIEW_DU = View Dutch
+
+SMG2_UC_VIEW_SH = View Warship
+

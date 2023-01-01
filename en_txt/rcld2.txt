@@ -1,0 +1,14 @@
+0x05A6E50E = Return to Sister Calderon with the food
+
+0x11F12A86 = Donate to Sister Calderon
+
+0xF7A1CB7E = Gather more food for Sister Calderon
+
+CLD2_CNCASH = Donate ~1$~
+
+CLD2_CNTXT = Donate Food
+
+CLD2_HELP = Food donated: ~1~ / 4
+
+CLD22_HELP = Bring fish, meat or canned food to donate to Sister Calderon.
+

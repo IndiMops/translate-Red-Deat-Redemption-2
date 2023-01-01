@@ -1,0 +1,16 @@
+CDHS3_ACTION_1 = ~z~Arthur, you know... I think we're gonna be okay.
+
+CDHS3_ACTION_2 = ~z~Sure, but... what next? All that money... lost in Blackwater.
+
+CDHS3_ACTION_3 = ~z~We've licked our wounds long enough, we do what do, we make more money,
+
+CDHS3_ACTION_4 = ~z~and before they even realize that we're here, we're gonna be gone again.
+
+CDHS3_ACTION_5 = ~z~And after that?
+
+CDHS3_ACTION_6 = ~z~I ain't losing to these... these fools, Arthur. You know me better than that.
+
+CDHS3_ACTION_7 = ~z~We get to work here, we make money and we head back out west. To freedom.
+
+CDHS3_ACTION_8 = ~z~I ain't wavering, son.
+

@@ -1,0 +1,40 @@
+0x4EE9C2CE = Jack
+
+0x327F6E66 = Station Clerk
+
+MAR2_B_PL = Posse Leader
+
+MAR2_B_PO = Post Officer
+
+MAR2_COL_MAI = Collect Mail
+
+MAR2_FAIL_WAGON = The wagon became inoperable.
+
+MAR2_FJATH = Jack fell off the wagon.
+
+MAR2_FKIRA = You injured a rancher.
+
+MAR2_FSCJA = You attracted too much attention.
+
+MAR2_NOGUNS = While responsible for Jack, you will not be able to use any weapons.
+
+MAR2_OBJ01 = ~s~Drive the wagon to ~o~Strawberry~s~
+
+MAR2_OBJ01B = ~s~Get on the ~o~wagon~s~
+
+MAR2_OBJ02 = ~s~Park the wagon near the ~o~Post Office~s~
+
+MAR2_OBJ03 = Collect the ~o~mail~s~
+
+MAR2_OBJ04 = ~s~Return to ~o~Jack~s~
+
+MAR2_OBJ05 = ~s~Ride with Jack to Pronghorn Ranch~s~
+
+MAR2_OBJ06A = ~s~Speak with the ~o~posse leader~s~
+
+MAR2_OBJ06B = ~s~Eliminate the ~e~posse~s~
+
+MAR2_OBJ08 = ~s~Drive the wagon to ~o~Pronghorn Ranch~s~
+
+MAR2_OBJ09 = ~s~Park the wagon in ~o~Pronghorn Ranch~s~
+

@@ -1,0 +1,262 @@
+0x057920C1 = ~z~Look, I left my money at home, I swear.
+
+0x05D6945F = ~z~That so?
+
+0x08238413 = ~z~Must you crowd me so?
+
+0x0B6342B6 = ~z~So what do you think?
+
+0x0BFD36AF = ~z~Oh dear.
+
+0x0C767CFD = ~z~You outta wash your mouth out.
+
+0x1B11A9EF = ~z~Perhaps you could make a little room there?
+
+0x1CA93254 = ~z~Dammit.
+
+0x1CF4C528 = ~z~Wait, I'm talking to you! You don't have call to be all superior.
+
+0x1FF1B516 = ~z~So, that settles it? I'm a busy man.
+
+0x3AFEC62E = ~z~What'd you think of that, huh?
+
+0x3D2DEE63 = ~z~So you ready to lose again to a superior breed? And I don't mean the horse...
+
+0x4C0A3270 = ~z~Try at least, or get yourself a faster horse!
+
+0x5B96499A = ~z~Hey, you just stop that.
+
+0x5BECFE67 = ~z~What in blue blazes are you after here?
+
+0x5F4BEF00 = ~z~Ever been to the Millesani Claim? Let's head there.
+
+0x6FACCAED = ~z~For shame, for shame.
+
+0x7BF24C0D = ~z~Too slow, friend!
+
+0x7E462D76 = ~z~You lowdown cheat! No way am I racing you anymore!
+
+0x7E1887B2 = ~z~Stay back. Stay back, I say.
+
+0x8B319DFB = ~z~Jesus, what the heck did I do?
+
+0x8BDF233F = ~z~Please. Why don't you just go away?
+
+0x8CB94788 = ~z~Look, take this. I've got nothing else.
+
+0x8CC02662 = ~z~This ain't even a challenge!
+
+0x8F7B9329 = ~z~Shit!
+
+0x9A3A89EA = ~z~Hey, come on, now. Why don't you just drop that thing?
+
+0x9A41494B = ~z~Hey, wait, what?
+
+0x9AF0E3F7 = ~z~Fine, fine. Here it is.
+
+0x9B78FC2A = ~z~Fine. I've got better things to do with my time.
+
+0x9C39B1B3 = ~z~Oh, for heaven's sake.
+
+0x9C6406F2 = ~z~That's right. No need for either of us to die over this.
+
+0x9CD1EE27 = ~z~No trouble.
+
+0x11A72D1D = ~z~I must have a target on my back.
+
+0x13E408E8 = ~z~Must you behave like such a thug?
+
+0x21EAAF66 = ~z~For shame, for shame!
+
+0x33D96FF4 = ~z~Well, I'm done here.
+
+0x35F5CBD0 = ~z~You know the Wapiti reservation? Let's head there.
+
+0x43D79E05 = ~z~I implore you, desist.
+
+0x44D0B4D7 = ~z~We've had quite enough of your kind here.
+
+0x54DEE6DE = ~z~No! No!
+
+0x55A1A693 = ~z~I'll race you to Diablo Ridge, all right?
+
+0x55AE0214 = ~z~You did a good thing for me, you know? I'm still grateful.
+
+0x56F58BAF = ~z~Bastard.
+
+0x60C5B218 = ~z~What in tarnation?
+
+0x74A4C039 = ~z~Hey, move out.
+
+0x75FF7C34 = ~z~That looks like a pretty nice horse you got there.
+
+0x79FD2720 = ~z~Hey, don't just ignore me, come on back here!
+
+0x86E264B4 = ~z~Hey, move out!
+
+0x92A74B19 = ~z~No, for the love of God.
+
+0x142A6288 = ~z~I am the soul of discretion.
+
+0x160E0BFA = ~z~You cheat! I'll still beat you, I will!
+
+0x195C1BA3 = ~z~Well then.
+
+0x296E5E50 = ~z~Yeah... that's it... okay...
+
+0x341C4C59 = ~z~No man ever died wishing he'd done more work.
+
+0x362B06EA = ~z~Dammit!
+
+0x395E453C = ~z~No, you wouldn't.
+
+0x682BA870 = ~z~Certainly.
+
+0x957CB435 = ~z~~sl:0.0:1.4~Oh, thank you mister.~sl:0.1:3.2:1~Here, have this for my gratitude, please.
+
+0x2704B331 = ~z~Okay, that's enough, take it easy...
+
+0x4145D7A5 = ~z~Damn it, I'm no fighter.
+
+0x6226C7ED = ~z~I knew it, a coward can't bear to face the better racer.
+
+0x7705F6BC = ~z~That a fact?
+
+0x8458D6FB = ~z~Hope you enjoy the dust back there!
+
+0x8874F7ED = ~z~Oh, I'll make sure the law puts this straight.
+
+0x9020FFD4 = ~z~Come on...
+
+0x20626C9D = ~z~No, you won't win, you can't!
+
+0x22491DFF = ~z~Yeehaw! I knew this horse was worth the money!
+
+0x34487EEB = ~z~This is senseless. Stop.
+
+0x48491E60 = ~z~Yeah... that's it... okay...
+
+0x99194BF5 = ~z~Don't surprise me in the least.
+
+0x177252CA = ~z~Come on, what'll it be? Are we racing or not? I haven't got all day.
+
+0x378462D4 = ~z~Perhaps you could make a little room there?
+
+0x717256BF = ~z~Must you crowd me so?
+
+0x721054AD = ~z~God in heaven!
+
+0x2599341D = ~z~Alright...
+
+0x4421725A = ~z~I've never pulled this trigger, but I will.
+
+0x12072201 = ~z~I paid top dollar for this beauty. Fast as a bullet! Want to see how yours compares?
+
+0x34519918 = ~z~Yeehaw!
+
+0x40866829 = ~z~This can go straight to the law.
+
+0xA03C35F8 = ~z~You're unwell!
+
+0xA0E66797 = ~z~Stop. Why me?
+
+0xA3B0144B = ~z~Help, help, I'm being robbed!
+
+0xA5E54804 = ~z~Hey, hey, get this off me! This isn't sportsman like at all!
+
+0xA7B5AEA5 = ~z~Hold still, boy... You're a good boy, yes sir! Oh... Alright, mount up...
+
+0xA9ED9463 = ~z~Oh, gracious.
+
+0xA70E93C4 = ~z~Alright, let's go!
+
+0xAA3D162F = ~z~Don't tell me, you're behind this aren't you?
+
+0xAF87BB6A = ~z~What do you think you're doing?
+
+0xB7FA80F7 = ~z~Hey! I'm just offering a friendly race, partner.
+
+0xB21DFA90 = ~z~For pity's sake, let me be.
+
+0xB70BC069 = ~z~I see you following me. What is it?
+
+0xB322282E = ~z~So, what do you say, shall we race?
+
+0xB3437897 = ~z~Hey, you just stop that.
+
+0xBBE27E86 = ~z~~sl:0.0:2.4~Saint Denis breeds sickness.~sl:1.1:1.7:1~So much for the future...
+
+0xBCA54647 = ~z~Hey, clear out of here this instant.
+
+0xBD380440 = ~z~Enough to make you sick...
+
+0xBF74731A = ~z~Oh, hell!
+
+0xC071980E = ~z~Alright, let's go, come on...
+
+0xC1BDAE68 = ~z~Hold still, boy... You're a good boy, yes sir! Oh... Alright, mount up...
+
+0xC5AD41EB = ~z~How could you lose to that mangy thing! Alright then, take that!
+
+0xC1790B71 = ~z~Alright, I'm due elsewhere.
+
+0xC6606B92 = ~z~Yeehaw! I knew this horse was worth the money!
+
+0xC89430E4 = ~z~You're a damn menace.
+
+0xC1701636 = ~z~What do you say? You afraid I'll beat you this time?
+
+0xCC178950 = ~z~How about a race to Owanjila?
+
+0xCCFA17B0 = ~z~Help!
+
+0xCF296A4C = ~z~Well, you afraid I'll beat you again?
+
+0xD0449FB5 = ~z~Too fast!
+
+0xD3BBBA79 = ~z~Hey, partner! What do you say to another race, seeing as you got lucky last time?
+
+0xD4DC5595 = ~z~What's gotten into you?
+
+0xD8F5FF1C = ~z~Listen, you can't be round here.
+
+0xD45BB6BC = ~z~You'll never catch me now!
+
+0xD85D8D15 = ~z~What do you think you're doing?
+
+0xD85F9D10 = ~z~Leave me be sir!
+
+0xD2801EB1 = ~z~Have you no conscience at all?
+
+0xD4197AAC = ~z~Stop, stop, I don't deserve this.
+
+0xD3805734 = ~z~I think I've paid you just about enough attention.
+
+0xDB5BF978 = ~z~Oh, it's you! The feller with the slow horse...
+
+0xDC6DF063 = ~z~Did someone hit you in the head?
+
+0xDC17A0CF = ~z~Yes, yes, very droll...
+
+0xE049811A = ~z~Great Scott.
+
+0xE62E7839 = ~z~Hold on, what's all this about?
+
+0xE34367F9 = ~z~Someone help!
+
+0xEAD79979 = ~z~Hey! I was hoping I'd run into you again.
+
+0xEC77111F = ~z~Really, must you stare?
+
+0xEDE5446A = ~z~Well, I hope that's out of your system.
+
+0xF8E7FDBB = ~z~Get back. I want nothing to do with ye.
+
+0xF9F8D802 = ~z~Look there's no need for that.
+
+0xF1267A1A = ~z~Well, what do you say?
+
+0xFB679580 = ~z~Careful there.
+
+0xFC38E47F = ~z~Gosh darn it! I paid good money for you!
+
