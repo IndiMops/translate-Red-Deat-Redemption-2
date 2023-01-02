@@ -6,7 +6,7 @@
 
 0xC24FF833 = High Quality~n~- Prime Beef - High quality meat from animals like Cows and Buffalo~n~- Mature Venison - Cuts of high quality Deer meat~n~- Tender Pork - Succulent, filling meat from animals such as Javelina and Pigs~n~- Game - Meat from game such as Rabbits, Pheasants and Ducks~n~- Exotic Bird - Meat from rare birds such as Parrots, Pelicans and Carolina Parakeets
 
-0x779A6F15 = Gunsmiths
+0x779A6F15 = Зброярі
 
 0xF7E20210 = Feud
 
@@ -40,7 +40,7 @@
 
 0xCACF6409 = All Posses require a Camp as a base. Before creating a Posse, you must choose the Camp size, which will affect how large your Posse can be, and the Camp's location. A small fee must be paid to set up the Camp, to move it afterwards or to increase its size. Your Camp will then be blipped on the radar for yourself and your Posse to see.
 
-0xB4A2025C = This information can be found in the Progress - Challenges section of the Pause menu. Completing all the challenges by attaining rank 10 in each category will unlock special equipment with many bonuses.
+0xB4A2025C = Цю інформацію можна знайти у розділі «Прогрес - Випробування» меню паузи. Після проходження всіх випробувань з досягненням 10-го рівня у всіх категоріях стане доступним спеціальне спорядження з безліччю бонусів.
 
 0x32DB50C1 = Some stores like Pearson's, Trapper, and the Gunsmith's can also offer crafting services, and can upgrade your items if you can bring the required materials for the shopkeeper to use.
 
@@ -78,7 +78,7 @@
 
 0x2E35EA07 = Hunting
 
-0x2EB45EC6 = You can use weapons while on horseback, but bear in mind that some horses will become agitated if they feel threatened or you make loud noises. Use silent weapons, like a bow, to avoid spooking your horse. Its courage will increase as you unlock horse bonding levels.
+0x2EB45EC6 = Зброю можна використовувати, не злазячи з коня, але майте на увазі, що деякі коні можуть почати нервувати, якщо відчують загрозу або почують гучні звуки. Щоб не лякати коня, використовуйте безшумну зброю (наприклад, луки). Сміливість коня буде підвищуватися у міру того, як ви підвищуватимете рівень її довіри.
 
 0x54C6781D = Purchase and equip Ability Cards from the Ability Loadout menu. The effects of Active Cards can be triggered by pressing ~INPUT_SPECIAL_ABILITY~. You can equip up to three Passive Ability Cards and their effects are on-going as long as they are equipped. Earn XP while using your equipped Ability Cards to unlock the option to upgrade your cards and increase the benefits.
 
@@ -92,7 +92,7 @@
 
 0x599EC872 = The red circle on the radar will indicate the direction of where the law is currently looking. If you are spotted by law enforcement you will become fully wanted again.
 
-0x7ED99A88 = Compendium
+0x7ED99A88 = Довідник
 
 0x91F5D99F = To start, the two players to the left of the dealer must put in a mandatory bet each, called the small blind and the big blind. The dealer then deals two hole cards to everyone present, and the first betting round starts.
 
@@ -108,13 +108,13 @@
 
 0xDC7D8234 = Fences
 
-0x870F8B53 = Cover
+0x870F8B53 = Укриття
 
 0x3D177877 = Naturalists are wildlife specialists who track and study animals, exchanging the samples they gather for rewards.
 
 0x6F0E0FA6 = Practice
 
-0xC8EFE31E = Accessories
+0xC8EFE31E = Аксесуари
 
 0xA6D294EE = You can quickly open the Pause Map by holding ~INPUT_MAP~. Place a waypoint with ~INPUT_FRONTEND_ACCEPT~, or add a Marker with ~INPUT_FRONTEND_LS~. Zoom in on a town to see which amenities it offers. Your Gang Camp location is marked on the map with a ~BLIP_CAMP~.
 
@@ -144,7 +144,7 @@
 
 0xCEB31D9A = Be careful who you roll with. Affiliating yourself with Wanted criminals in your Posse may result in you becoming Wanted, as will riding in a vehicle with a Wanted player.
 
-0xE0C6A1F7 = Repeaters offer a superior rate of fire and ammunition capacity when compared to rifles, at the cost of lower accuracy and damage.
+0xE0C6A1F7 = Карабіни мають більшу швидкострільність і місткість патронів, порівняно з гвинтівками, але при цьому нижчою шкодою і точністю попадань.
 
 0x464AF1FD = Eagle Eye is a valuable tool for hunting and tracking. To activate Eagle Eye, press ~INPUT_SPECIAL_ABILITY~ and look for the tracks left by animals and enemies.
 
@@ -154,7 +154,7 @@
 
 0x33026940 = Each player is dealt two cards from a single deck. These are known as hole cards, and are kept secret from the other players.
 
-0x1DD15E7B = A weapon's condition will deteriorate due to usage and environmental factors, and requires regular maintenance to stay in perfect condition. Letting your weapons get dirty or rusty will lead to lower damage, slower cocking, and longer reloads.
+0x1DD15E7B = Стан зброї погіршується при використанні та через довкілля. Доглядайте його, щоб тримати у чудовому стані. У брудної або іржавої зброї гірша шкода, швидкість взводу та перезаряджання.
 
 0x37E2C7E3 = Tokens
 
@@ -166,9 +166,9 @@
 
 0x6F312AFB = Cattle and horses can be rustled from some ranches and farms. Look out for fellow gang members who may invite you to join rustling jobs.
 
-0x14C32C4C = Using certain weapons will increase your rank in the Weapons Expert Challenge, allowing you to unlock special reinforced combat accessories that can then be purchased. Challenge completion information can be found in the Progress - Challenges section of the Pause menu.
+0x14C32C4C = При використанні певної метальної зброї та зброї ближнього бою ваш рівень у випробуванні майстра зброї підвищуватиметься, що відкриє можливість придбання покращених бойових аксесуарів. Більше інформації про поточні випробування можна знайти у розділі «Прогрес – Випробування» меню паузи.
 
-0x0165B311 = Reinforced versions of weapon accessories that provide further upgrades can be purchased from the Trapper store. The shopkeeper will require both money and the correct crafting materials gathered from hunting.
+0x0165B311 = Поліпшені версії зброї можна придбати у мисливця. При використанні гравець отримує додаткові переваги. Для покращення спорядження будуть потрібні як гроші, так і певні матеріали, здобуті під час полювання.
 
 0x7B6AE5F1 = Honor
 
@@ -200,7 +200,7 @@
 
 0x193442C7 = There are Stables in all major towns, shown by a blip on your map and radar. At a stable you can:~n~- Buy and sell horses~n~- Buy horse care items such as food, snacks, and tonics~n~- Buy or upgrade equipment such as saddles, saddle bags, stirrups, and blankets~n~- Keep up to three horses safely in stables~n~- Customize your horse's looks and accessories
 
-0x7B6A651E = Dead Eye
+0x7B6A651E = Влучне око
 
 0x19E41BD6 = Eagle Eye
 
@@ -246,11 +246,11 @@
 
 0x82EC89FB = Bounty Hunters will also be given the opportunity to find and capture Legendary Bounties. These are notorious felons whose crimes are known across the states. It takes a talented Bounty Hunter to catch these criminals. These Legendary Bounties can be launched from the Bounty Board and replayed. But be warned, replaying one of these missions will increase its difficulty.
 
-0x96EB1EF3 = In situations where it's not polite or possible to carry a gun, you can always use your fists. Find various knives and hatchets in the world which can give you the edge in a brawl.
+0x96EB1EF3 = У ситуаціях, коли не дуже ввічливо чи зовсім неможливо використовувати зброю, ви завжди можете покластися на свої кулаки. Крім того, ви знаходите ножі та сокири, які забезпечать вам перевагу під час бійок.
 
 0x83AE6F07 = Overview
 
-0xED3E57D2 = Shotguns
+0xED3E57D2 = Дробовики
 
 0xE579347F = Animals and birds are valuable natural resources and can be hunted for their meat, hides, and other useful materials.
 
@@ -264,7 +264,7 @@
 
 0x744EB02F = Public Games and Private Games
 
-0x482375FC = Thrown
+0x482375FC = метальна зброя
 
 0x5CCAB928 = You can cook meat at a campfire. When you have hunted and skinned an animal, and set up your camp, you can cook meat through the crafting menu. Using herbs and seasoning makes for a more satisfying meal.
 
@@ -314,7 +314,7 @@
 
 0xFC1A3401 = Dive to ground during combat by pressing ~INPUT_JUMP~ while aiming your firearm. To switch your point of view between your left and right shoulder while aiming, press ~INPUT_SWITCH_SHOULDER~.
 
-0x5B7982C3 = Pistols
+0x5B7982C3 = Пістолети
 
 0x6BFA89DA = Classic
 
@@ -336,9 +336,9 @@
 
 0x5688541D = You can choose to double down as long as you only have two cards in your hand. This doubles the value of your current bet, and gives you one - and only one - additional card. If you don't have enough chips to cover the additional bet, you can't double down.
 
-0x56831B26 = Use ~INPUT_COVER~ to use a nearby wall, building or other structure as cover, and use ~INPUTGROUP_LOOK~ to look around while in cover and use ~INPUTGROUP_MOVE~ to break out. To move around corners or to the next available cover, use ~INPUT_COVER_TRANSITION~.
+0x56831B26 = Використовуйте ~INPUT_COVER~, щоб сховатись за найближчою стіною, будовою чи іншим укриттям. За допомогою ~INPUTGROUP_LOOK~ можна озирнутися навколо, а за допомогою ~INPUTGROUP_MOVE~ – залишити укриття. Використовуйте ~INPUT_COVER_TRANSITION~, щоб повернути за кут або переміститися до наступного укриття.
 
-0xDCC42FEA = Equipment upgrades can be bought from any Gunsmith store, allowing you to carry more ammunition and slow the degradation of your weapon.
+0xDCC42FEA = У зброярів можна покращувати спорядження. Це дозволить переносити більше боєприпасів чи зменшити швидкість зношування зброї.
 
 0x09C4493C = Daily Limits
 
@@ -366,7 +366,7 @@
 
 0x3AFFC12C = You can press ~INPUT_WHISTLE~ to call your horse to you. Bonding with your horse will improve how fast it can locate you. To mount any horse, stand close by and press ~INPUT_CONTEXT_Y~.
 
-0x90B24AFC = Weapons
+0x90B24AFC = Зброя
 
 0x0A719DD9 = Now, Guido Martelli has proposed a solution that will return all this missing Capitale to its wrongful owners. He will reward anyone willing to recover enough Capitale notes and hand them to his contacts: James Langton, Sean Macguire, Anthony Foreman and Joe.
 
@@ -382,11 +382,11 @@
 
 0x1A074912 = Collector
 
-0xCDA855AB = Combat
+0xCDA855AB = Бій
 
 0xF37451CF = In Free Roam, your Hostility will increase if you act aggressively towards other players. As your Hostility increases, your blip will become red, and you will be visible from a greater distance on the map.
 
-0xDE9FA766 = Melee Weapons
+0xDE9FA766 = Зброя ближнього бою
 
 0x107CA83E = View which Club Rewards are available in the Progress section of the Pause menu.
 
@@ -398,7 +398,7 @@
 
 0xB895E5B2 = Bounty Hunting
 
-0xE3D8C964 = Ammunition for your weapons can be bought from the Handheld Catalogue, Gunsmiths or General Stores, crafted, looted from dead enemies, or found in the world. Certain types of ammunition have special properties that can give you an advantage in combat.
+0xE3D8C964 = Боєприпаси можна замовити через переносний каталог, купити у зброяра або в магазині, виготовити самостійно, підібрати з трупів або просто знайти. Деякі типи боєприпасів мають особливі властивості, що дозволяють отримати перевагу в бою.
 
 0xB16B4D6B = As you enter the area, you will feel a slight vibration which will grow more intense as you move closer to the treasure. Follow the feeling, or use Eagle Eye by selecting ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to focus your vision and locate the chest.
 
@@ -420,7 +420,7 @@
 
 0xD43B9354 = In Red Dead Online, you can equip Abilities using Ability Cards which provide you with attributes that will affect the damage you deal and how you deal it. These come in Dead Eye form, granting you an ability activated during Dead Eye by holding ~INPUT_SPECIAL_ABILITY_SECONDARY~ and pressing ~INPUT_SPECIAL_ABILITY~, and Passive form which affects you persistently. You have one Active slot, and three Passive slots to fill.
 
-0x2160DD17 = The Weapons section of the Compendium keeps track of all weapons you have encountered so far, as well as key statistics like kills and headshots.
+0x2160DD17 = У розділі довідника «Зброя» зібрані відомості про всю зброю, яка вам траплялася, а також наводиться основна статистика, така як кількість вбивств та пострілів у голову.
 
 0x6D767ADF = Any bodies found will be reported and lawmen dispatched to investigate. Hide or dispose of bodies to avoid unwanted attention.
 
@@ -436,7 +436,7 @@
 
 0x1AB2FF47 = A fifth community card is dealt, known as the river. A final betting round takes place.
 
-0x92021322 = Revolvers
+0x92021322 = Револьвери
 
 0x23BFDC52 = Honor
 
@@ -478,7 +478,7 @@
 
 0x321724C6 = If you have a blackjack when insurance betting starts and you bet the maximum insurance, this is known as taking even money. In this situation, whether the dealer has blackjack or not, you are guaranteed a payout of 1:1. If the dealer has blackjack, you will win the insurance bet and push your original stake. If the dealer does not have blackjack, you lose the insurance bet, but payout for your blackjack. Both resolve to a payout of 1:1.
 
-0xBD018BAF = Gunsmith stores can be found in all major towns, and each has a unique selection of items available. Browse the store's Catalogue to buy weapons, ammunition and accessories, or take a look at the store's shelves to see what's for sale.
+0xBD018BAF = Збройні лавки є у ​​всіх великих містах. Кожна з них пропонує свій асортимент зброї та боєприпасів. Перегляньте каталог магазину, щоб купити зброю, боєприпаси та аксесуари або погляньте на полиці, щоб дізнатися, що продається.
 
 0x29C15AD0 = To saddle a horse, approach it with a saddle in hand and hold ~INPUT_SADDLE_TRANSFER~ to put it on. You can only have one saddle, and therefore one main horse, at a time. To remove a saddle you must approach the horse and hold ~INPUT_INTERACT_LOCKON~ to lock on and hold ~INPUT_SADDLE_TRANSFER~ to remove.
 
@@ -522,9 +522,9 @@
 
 0x71188D97 = High Quality~n~- Prime Beef - High quality meat from animals like Cows and Buffalo~n~- Mature Venison - Cuts of high quality Deer meat~n~- Tender Pork - Succulent, filling meat from animals such as Javelina and Pigs~n~- Game - Meat from game such as Rabbits, Pheasants and Ducks~n~- Succulent Fish - Fillet of high quality fish like Salmon and Trout~n~- Exotic Bird - Meat from rare birds such as Parrots, Pelicans and Carolina Parakeets
 
-0x41A4DD91 = You can use the lasso to rope animals, and to immobilize enemies - it's particularly useful for bounty hunts where the target is wanted alive. To lasso a target, equip your lasso like any other weapon, aim at the target with ~INPUT_AIM~ and ~INPUTGROUP_LOOK~, and press ~INPUT_ATTACK~ to hurl your lasso.
+0x41A4DD91 = За допомогою ласо можна заарканити тварину та знерухомити ворога – це особливо корисно під час полювання за головами, коли ціль потрібно захопити живою. Щоб накинути на ціль ласо, виберіть його так само, як і будь-яку іншу зброю, приціліться за допомогою ~INPUT_AIM~ та ~INPUTGROUP_LOOK~, а потім натисніть ~INPUT_ATTACK~.
 
-0x90639EEA = You can permanently increase the capacity of the Dead Eye bar by gaining experience from completing actions such as hunting, crafting, and finding collectibles.
+0x90639EEA = Можна назавжди збільшити шкалу «Влучного ока», отримуючи досвід виконання таких дій, як полювання, виготовлення предметів і пошук колекційних предметів.
 
 0x4C2B26F8 = If you own multiple horses you can set which one you would like to use for racing, Story Missions, competitive matches or Free Roam by selecting the Specialty in the Stables section of the Player menu. Here you can also check your horse's stats and bonding level.
 
@@ -546,7 +546,7 @@
 
 0xFA1E58D6 = The West is home to many rival gangs of outlaws and misfits. Gangs vary in size and structure, but each has their own territory, and none of them are likely to welcome Dutch's Gang onto their turf.
 
-0xEB31C880 = To view your current Familiarity level with a weapon, visit the Weapons section of the Compendium.
+0xEB31C880 = Щоб подивитися, наскільки добре ви освоїли ту чи іншу зброю, відкрийте розділ «Зброя» в довіднику.
 
 0xEB5317C4 = When you have discovered a Treasure Map, find it in your Satchel and choose 'Use' to begin the hunt. The Pause Map and radar will then reveal and highlight the general area where the treasure is located. Somewhere in this expanse a treasure chest will be hidden out of sight. Head to the area to begin searching for the chest. But remember, you can only concentrate on one map at a time.
 
@@ -556,7 +556,7 @@
 
 0x2726CED3 = Horses
 
-0x064A0054 = Ammunition
+0x064A0054 = Боєприпаси
 
 0xDA9B70E6 = To keep your horse happy and healthy, and retain a strong bond, you will need to keep it fed and clean. A horse's Health and Stamina Cores are affected when it gets hungry or dirty – meaning it'll tire faster and withstand less damage.
 
@@ -572,7 +572,7 @@
 
 0xC2005CD3 = To cook moonshine, speak to Marcel in the basement of the Moonshine Shack. Here you can choose the strength of your moonshine and its flavoring. You can also view a list of potential buyers and see how much they're willing to offer for your moonshine. When you decide to start a Sell Mission, keep an eye on the amount of damage your wagon and the moonshine inside is taking. Buyers will pay less if bottles are destroyed en route.
 
-0x0F6860E5 = You can press ~INPUT_DUCK~ to crouch, avoiding enemies' lines of sight, and move more quietly and stealthily. Sneak up on enemies from behind and press ~INPUT_MELEE_ATTACK~ to knock them out while unarmed, or to stealth kill if you have a knife equipped.
+0x0F6860E5 = Натисніть ~INPUT_DUCK~, щоб нагнутися. Це дозволить вам тихо і потай пересуватися, а також не потрапляти в поле зору ворогів. Підкравшись до ворога ззаду і натиснувши ~INPUT_MELEE_ATTACK~, можна вирубати його, якщо ви беззбройні, або безшумно вбити, якщо ви озброєні ножем.
 
 0x7B0D5EAD = Call
 
@@ -600,13 +600,13 @@
 
 0xBEA2BEF9 = Stand
 
-0xFD18AD64 = To maintain your weapon, select it from the Weapon Wheel and press ~INPUT_QUICK_SELECT_INSPECT~ to inspect and clean your weapon. This requires Gun Oil, which can be purchased from any Gunsmith store.
+0xFD18AD64 = Для догляду за зброєю виберіть її за допомогою селектора зброї та натисніть ~INPUT_QUICK_SELECT_INSPECT~, щоб оглянути та почистити її. Для цього процесу знадобиться збройова олія, купити яку можна в будь-якій крамниці зброї.
 
-0xDF512470 = You can equip weapons, switch ammunition or view stats using the Weapon Wheel. Hold ~INPUT_OPEN_WHEEL_MENU~ to open the Weapon Wheel, use ~INPUTGROUP_LOOK~ to select the weapon you want to use, then release ~INPUT_OPEN_WHEEL_MENU~ to equip.
+0xDF512470 = Ви можете вибрати зброю, поміняти боєприпаси або переглянути характеристики зброї за допомогою селектора зброї. Утримуйте ~INPUT_OPEN_WHEEL_MENU~, щоб викликати селектор зброї, і за допомогою ~INPUTGROUP_LOOK~ виберіть те, що хочете використовувати, а потім відпустіть ~INPUT_OPEN_WHEEL_MENU~.
 
 0x6F8B353E = У цій грі використовується система автоматичного збереження. Ваш прогрес зберігатиметься, коли ви завершуєте сюжетні розділи, знаходячись у таборі та проходженні інших дій. Не вимикайте консоль, поки не з'явиться піктограма збереження.
 
-0xDB856B0D = Once you've lassoed a target, you can quickly approach them and press ~INPUT_HOGTIE~ to hogtie and keep them still. The hogtied enemy can then be picked up and carried and even placed on your horse. Lassoed targets will break free after a short time if they're not hogtied.
+0xDB856B0D = Після того, як ви накинули на ціль ласо, потрібно швидко наблизитися до неї та натисканням ~INPUT_HOGTIE~ зв'язати та знерухомити. Пов'язаних ворогів можна підіймати, переносити та навіть покласти на вашого коня. Заарканену ціль досить швидко звільниться, якщо її не пов'язати.
 
 0xF3D057A7 = Spinners
 
@@ -614,7 +614,7 @@
 
 0x345C1413 = Best Quality~n~- Big Game - Meat from large predators such as Bears, Wolves and Alligators~n~
 
-0x22667EA0 = Stealth
+0x22667EA0 = Скритність
 
 0xCE10C974 = Lures
 
@@ -648,7 +648,7 @@
 
 0x2027AEA5 = You can increase bonding by:~n~- Calming your horse when it's agitated.~n~- Feeding your horse when it's hungry.~n~- Grooming your horse when it's dirty.~n~- Riding, leading, and swimming with your horse, as long as it isn't tired out.
 
-0x0EB6D2CF = Compact and modern. Pistols are not as powerful as revolvers, but can hold more ammunition and can be reloaded quickly during a fight.
+0x0EB6D2CF = Компактні та сучасні. Пістолети не надто потужні в порівнянні з револьверами, але можуть вмістити більше патронів, і їхнє перезаряджання займає менше часу.
 
 0xA3FD7727 = You can show off your skills by performing knife tricks. Each time you complete one full lap the ~INPUT_MINIGAME_FFF_FLOURISH_CONTINUE~ button will appear. Press it whenever you are ready to perform a trick. You will sometimes perform a trick whilst spiking the knife into the table at the end of your turn if you performed especially well.
 
@@ -688,7 +688,7 @@
 
 0xB69E746B = Showdown
 
-0xD5448B48 = Rifles
+0xD5448B48 = Гвинтівки
 
 0x45F93C4D = Ability Cards
 
@@ -730,7 +730,7 @@
 
 0x524091FB = Not only is she interested in purchasing your collections, but she will also send you her Weekly Collectible Shopping List. These are the items she is currently seeking. If you collect every item on the list, Madam Nazar will reward you handsomely. These Collectibles can be sold in person or sent to her via any Post Office.
 
-0x0D3CBD47 = Weapons like throwing knives and tomahawks can be used to take out enemies quickly and quietly. If stealth isn't a priority, throw a Fire Bottle or some Dynamite in their general direction.
+0x0D3CBD47 = Метальні ножі та томагавки дозволяють швидко та безшумно усунути ворогів. Якщо ж скритність не важлива, киньте у бік супротивника пляшку із запальною сумішшю чи динаміт.
 
 0x3B1C4F05 = To mount any horse, stand close by and press ~INPUT_CONTEXT_Y~. Tap ~INPUT_HORSE_SPRINT~ to speed up and hold ~INPUT_HORSE_STOP~ to slow to a halt. To match the speed of another rider, simply ride next to them and hold ~INPUT_HORSE_SPRINT~.
 
@@ -744,7 +744,7 @@
 
 0x35BCAC6E = Увімкнувши фоторежим, виберіть камеру, що обертається, щоб зафіксувати вигляд від третьої особи, і залишайтеся в центрі уваги – або ж використовуйте «Вільну камеру», щоб зосередитися на навколишньому світі. 
 
-0xFCDCAC7D = Dead Eye is a special ability that you can use by pressing ~INPUT_SPECIAL_ABILITY~ while aiming a gun or bow. In Dead Eye mode, time passes more slowly and you take less damage, making you more effective in combat.
+0xFCDCAC7D = «Влучне око» – особлива здатність, яку можна активувати під час прицілювання (з вогнепальної зброї чи цибулі) натисканням ~INPUT_SPECIAL_ABILITY~. У режимі «Влучного ока» час уповільнюється, і ви отримуєте менше втрат, що дозволяє ефективніше діяти в бою.
 
 0x24A3E58F = Similarly, upgrade the cards you already own by unlocking upgrades as you gain XP or by buying them with Gold Bars. Each card has three tiers for you to unlock, greatly enhancing the abilities on offer.
 
@@ -768,7 +768,7 @@
 
 0x84AEC912 = Bait
 
-0x9DBB9FC0 = Gunsmith stores can be found in all major towns. Browse the store's Catalogue to buy weapons, ammunition and accessories, or take a look at the store's shelves to see what's for sale.
+0x9DBB9FC0 = Магазини зброї є у всіх великих містах. Ви можете заглянути в каталог магазину, щоб придбати зброю, боєприпаси та аксесуари, або оглянути полиці, щоб дізнатися, що є у продажі.
 
 0x33566420 = At certain Bonding Levels, you can perform more complex maneuvers:~n~- At Bonding Level 2, hold ~INPUT_HORSE_STOP~ and tap ~INPUT_HORSE_JUMP~ when stationary to Rear.~n~- At Bonding Level 3, hold ~INPUT_HORSE_STOP~ and ~INPUT_HORSE_SPRINT~ while moving to Skid Turn or Skid Stop.~n~- At Bonding Level 4, hold ~INPUT_HORSE_COLLECT~ to perform a Piaffe. While doing this, use ~INPUT_HORSE_MOVE_LR~ to Drift left or right while moving.
 
@@ -816,7 +816,7 @@
 
 0xCCEE6188 = To progress your career as a Naturalist, gain experience by collecting and selling samples, studying animals, completing Animal Sighting Missions, taking part in Naturalist Free Roam Events, and completing Daily Role Challenges. View and track your Daily Role Challenges in the Player menu.
 
-0x59939565 = Fighting with Companions
+0x59939565 = Бій з компаньйонами
 
 0x9BB383CE = Remedies
 
@@ -836,7 +836,7 @@
 
 0x94452A63 = You may also speak to Maggie in order to decorate and upgrade your Moonshine Shack. From hiring a live band, to upgrading your stills, the changes you make can increase the quality of your moonshine or encourage larger crowds at the bar.
 
-0x404E04A4 = These ranged longarms are designed for precise shooting at distance. Great accuracy, but can be slow and cumbersome. With some long scoped rifles, a single shot can deal serious damage.
+0x404E04A4 = Великорозмірна стрілецька зброя, створена для точної стрільби з великої відстані. Висока точність потраплянь компенсує сповна повільну перезарядку і громіздкість. Деякі гвинтівки зі снайперським прицілом можуть завдати серйозної шкоди навіть одним пострілом.
 
 0xD3659D16 = Tips every Naturalist should learn for the successful study of local wildlife.
 
@@ -856,7 +856,7 @@
 
 0x32890B87 = All Fives games follow the same rules as All Threes, but players only score points when the edge score is a multiple of five - 5, 10, 15 or 20. At the end of the round, points won are rounded up or down to the nearest 5. Games continue with new rounds until a player reaches the target score of 100.
 
-0x447C777F = Reinforced versions of weapon accessories that provide further upgrades can be purchased from the Trapper store.
+0x447C777F = У мисливському магазині можна придбати покращене збройове спорядження, яке надасть додаткові переваги.
 
 0x15315D61 = Using certain weapons will increase your rank in the Sharpshooter and Combat Awards, allowing you to unlock special rewards. Awards completion information can be found in the Progress - Awards section of the Pause menu.
 
@@ -878,7 +878,7 @@
 
 0x41ACB500 = If your horse is injured in combat or from a fall, you can use Horse Remedies to restore it to health.
 
-0xAD1D0EFA = For gun weapons, High Velocity cartridges increase range and penetration through enemies. Split Point cartridges improve accuracy and reduce Dead Eye drain. For extra damage, purchase Express cartridges or craft special Explosive ammunition.
+0xAD1D0EFA = У швидкісних патронів вища дальність пострілу та пробивна здатність. Надрізані патрони точніше і сповільнюють витрату «Влучного ока». Експрес-патрони та особливі розривні боєприпаси підвищують шкоду.
 
 0xF8CC0570 = Gold
 
@@ -894,7 +894,7 @@
 
 0x54774769 = The aim of blackjack is to beat the dealer by having the total value of your hand of cards be closer to 21 than theirs without it going over ('busting').
 
-0x77B06D43 = When taking on enemy gangs or the law, it can be invaluable to have your fellow gang members by your side.
+0x77B06D43 = Під час бою з ворожими бандами чи законниками допомога членів вашої банди може бути просто неоціненною.
 
 0x5F76441A = Переміщення
 
@@ -934,7 +934,7 @@
 
 0xE9665CD3 = You can track nearby animals by pressing ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye. Press ~INPUT_SPECIAL_ABILITY_ACTION~ to focus on the track, making it easier to follow.
 
-0x0CA39479 = Dead Eye
+0x0CA39479 = Влучне око
 
 0x305ED3AA = Horse Breaking
 
@@ -954,11 +954,11 @@
 
 0xDBD06E83 = If a player doesn't want to reveal their cards at the showdown, they can muck. This simply forfeits without revealing the hand. When playing against experienced players, this helps to prevent them from learning your style and being able to predict your decisions.
 
-0x758CA023 = These six-chambered sidearms offer greater damage and accuracy compared to pistols, with the downside of slower reload times and fire rates.
+0x758CA023 = Шестизарядна особиста зброя. Револьвери, порівняно з пістолетами, мають більш високу шкоду і точність, але поступаються у швидкості стрільби, та й перезарядка займає більше часу.
 
 0x469FFE2D = Straight Flush: Five cards in sequence, all of the same suit.
 
-0x271CCCEE = Be on the lookout for some unique versions of weapons. These could be hidden in the world, dropped by certain enemies, or given as a reward for completing activities.
+0x271CCCEE = Намагайтеся не пропустити унікальні версії зброї. Вони можуть бути заховані десь у світі гри, залишатися після вбивства деяких ворогів або вручатися як нагорода за виконання занять.
 
 0x2EC740DA = Horses can still be hitched to a post by holding ~INPUT_HITCH_ANIMAL~, though this does not guarantee its safety. You are able to control who has access to your horse in the Stables section of the Player menu. Here you can select if you would like to allow everyone to have access to your Horse or just yourself, your Posse, Crew, or Friends. You can also select if you wish to force a player to dismount your horse.
 
@@ -974,7 +974,7 @@
 
 0x785B9B0C = Brewing Profit
 
-0xD62464D7 = Bow and Arrows
+0xD62464D7 = Лук та стріли
 
 0x80C20A1F = You will see a warning when your horse starts to become hungry or dirty. Hold ~INPUT_OPEN_WHEEL_MENU~ and navigate to the horse item menu to select and use food items or the horse brush.
 
@@ -1042,7 +1042,7 @@
 
 0x89047814 = Guts
 
-0xA4655B24 = You can see your Dead Eye Core, along with Health and Stamina, displayed near the radar at the bottom left of your screen. Dead Eye bar drains while in use and can be refilled by enemy kills or through the use of Snake Oil.
+0xA4655B24 = Здоров'я, витривалість та «Влучне око» відображаються біля міні-карти в лівій нижній частині екрана. Шкала «Влучного ока» витрачається під час використання та відновлюється з часом. Заповнити її можна вбиваючи ворогів або використавши чудо-зілля.
 
 0x525E65B1 = Capture your journey with Photo Mode. Take, edit and upload photographs to Social Club.
 
@@ -1068,7 +1068,7 @@
 
 0xFFC7A278 = Each fish species has a legendary fish which is the largest, most aggressive and, therefore, most difficult to catch of its species. Each legendary fish will be marked on your map when you are close to it.
 
-0x534F6ED6 = While using Dead Eye, you can target multiple enemies. Move the aiming reticle and press ~INPUT_SPECIAL_ABILITY_ACTION~ to mark your targets, then press ~INPUT_ATTACK~ to fire at all targets in the order in which they were placed. Press ~INPUT_SPECIAL_ABILITY~ again to deactivate Dead Eye.
+0x534F6ED6 = Активувавши «Влучне око», ви зможете прицілитися до кількох ворогів. Виберіть цілі, переміщуючи приціл і натискаючи ~INPUT_SPECIAL_ABILITY_ACTION~, після чого натисніть ~INPUT_ATTACK~, щоб вразити ці цілі в тому ж порядку, в якому вони були вибрані. Щоб деактивувати «Влучне око», ще раз натисніть ~INPUT_SPECIAL_ABILITY~.
 
 0xD1E13948 = You can also quickly use a mask or bandana, from the Item Wheel, to hide your face. Wearing these items mean witnesses will be unable to positively identify you, and you may be able to talk your way out of suspicion during a lawman's interrogation. You may also need to wear the correct outfit to be allowed to enter certain areas and avoid being recognized.
 
@@ -1084,9 +1084,9 @@
 
 0x2D81E0E0 = Tip
 
-0x159F027D = Weapons Expert
+0x159F027D = Майстер зброї
 
-0x6C091627 = A silent and accurate weapon, a bow allows for a stealthy approach to hunting or combat situations. Various kinds of arrows can be crafted and used.
+0x6C091627 = Безшумна та точна зброя, найкраще підходить для безшумного використання в бою та полюванні. Можна використовувати різні типи стріл.
 
 0xB39CA281 = Grooming
 
@@ -1104,7 +1104,7 @@
 
 0x04FDA153 = You can train, or 'break' wild horses to gain their trust so that you can saddle and ride them. Wild horses cannot be saddled or stored in your Stable.
 
-0x822FF8DC = These are hefty firearms that shoot a batch of buckshot, effective at close range and against multiple targets. For a greater impact, switch to Slug ammunition.
+0x822FF8DC = Большое огнестрельное оружие, наиболее эффективное на близком расстоянии или с множественными целями.
 
 0x91D8C611 = Horse Care
 
@@ -1116,7 +1116,7 @@
 
 0x6A906763 = In a Burnout game the objective is to complete the most laps in 30 seconds with no mistakes. You only get one attempt.
 
-0x934FC22D = In situations where it's not polite or possible to carry a gun, you can always use your fists.
+0x934FC22D = У ситуаціях, коли не дуже ввічливо чи зовсім неможливо відкрито носити зброю, ви завжди можете покластися на свої кулаки.
 
 0x406D9002 = Players will win if their score is closer to 21 than the dealer's score, or if the dealer busts out. Players lose if they bust, or the dealer's score is closer to 21. If a player and the dealer have the same score, then the hand is a 'push' and the player's chips will be returned.
 
@@ -1130,7 +1130,7 @@
 
 0xC29485C0 = After entering a Series, you will begin matchmaking in Free Roam. When a match is made, you will be taken straight into the Lobby to wait for the game to begin. Here you can invite players to join you. If a Posse Leader joins a Series, the whole Posse will be brought with them automatically.
 
-0x1260762E = Exposure to extreme heat or cold will negatively affect your ability to regenerate Dead Eye, as well as other attributes.
+0x1260762E = Вплив високих чи низьких температур погано позначиться швидкості відновлення «Влучного ока», і навіть інших характеристиках.
 
 0xE0072C9E = Lastly, Maggie offers Bootlegger Missions which will help reduce the cost of your moonshine production. From protecting buyers, sabotaging rival moonshiners and brawling in the local bars, she'll always have something to keep you occupied.
 
@@ -1146,11 +1146,11 @@
 
 0xC980F5ED = You can calm a horse by patting it. Once the horse is calm and has been mounted, try to stay on its back, pressing ~INPUT_FRONTEND_ACCEPT~ repeatedly to stop it from bucking you off. The longer you remain on the horse, the easier it will become to control.
 
-0x350E036C = Condition
+0x350E036C = Стан
 
 0xDB2A036B = You can loot corpses by standing near them and holding ~INPUT_CONTEXT_Y~.
 
-0xAF74056E = You can permanently increase the capacity of the Dead Eye bar by gaining experience from completing actions such as hunting and crafting.
+0xAF74056E = Можна назавжди збільшити шкалу «Влучного ока», отримуючи досвід виконання таких дій, як полювання і виготовлення предметів.
 
 0x34C9A81C = There are no lawless regions. The law are cracking down on crime throughout the states, and they will be brutal with their justice. No arrests. No interrogations. In an effort to eradicate those who besmirch the law, they will immediately shoot to kill.
 
@@ -1164,7 +1164,7 @@
 
 0x87B86916 = Bounties
 
-0x8A0BBF80 = You can also customize weapons at a Gunsmith store. Improve stats by upgrading components, make the weapon stylish with new materials, engravings and carvings, or repair your weapon to perfect condition.
+0x8A0BBF80 = У збройних лавках можна модифікувати зброю, покращувати її характеристики, змінюючи деталі, надавати новий вид матеріалами, гравіюванням і зображеннями, або ремонтувати до чудового стану.
 
 0x65104EFB = Lure fishing is more difficult than bobber fishing due to the need to keep the lure moving, but will attract much larger fish species.
 
@@ -1208,7 +1208,7 @@
 
 0x25FC338B = While traversing the five states, you might come across strangers offering a variety of work. There are jobs for the honorable and dishonorable alike, and you'll be rewarded for each completed job with XP and RDO$. You can tackle Free Roam Missions alone or as a Posse. Look out for ~BLIP_MP_GUN_FOR_HIRE~ on your Map and Radar.
 
-0x80A5A86C = Repeaters
+0x80A5A86C = Карабіни
 
 0x26111C77 = Individuals who owe money to the gang will be marked on the map with ~BLIP_PROC_LOANSHARK~. Seek out the debtors and recover the money. You can't track debtors while you are being pursued by the law.
 
@@ -1236,7 +1236,7 @@
 
 0x31874C5B = Legendary fish are picky eaters and are only attracted to special lures. Equip the special lure suitable for its habitat. Try to catch them all, if you can!
 
-0x58BCD9EE = Using Chewing Tobacco will make Dead Eye drain slower than usual.
+0x58BCD9EE = Якщо пожувати тютюн, «Влучне око» буде витрачатися повільніше, ніж зазвичай.
 
 0x269EC2DA = Hunting animals in certain ways and gathering animal parts will increase your rank in the Hunter Awards. Awards completion information can be found in the Progress - Awards section of the Pause menu.
 
@@ -1244,7 +1244,7 @@
 
 0x56A05D76 = To clean a horse that is getting dirty, you can use your Horse Brush, or pay to have it cleaned at a stable. You can also apply Horse Ointment for a temporary boost.
 
-0x16020587 = Lasso
+0x16020587 = Ласо
 
 0x6C103733 = Capitale is a system of exchange used by the wealthiest and most civilized members of Saint Denis's criminal underworld. Designed to keep their business dealings safe from the meddling interference that comes with the federal dollar, it relies on exclusivity and ruthless enforcement. Unfortunately for them, there is no honor among thieves: bills of Capitale are being stolen, traded and hoarded by every outlaw and reprobate across the five states.
 
