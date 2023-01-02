@@ -46,7 +46,7 @@
 
 0x25DE95BC = Meat Types
 
-0xC132D80F = Cores also act as an extension of their related attribute bar. If a bar is emptied while using an ability, then the Core will begin to drain rapidly, allowing you to use the ability for a few additional seconds. Keep your Cores full to guarantee the maximum amount of reserve energy is available, should you need it.
+0xC132D80F = Статуси також діють як своєрідне доповнення відповідних шкал характеристик. Якщо шкала спустошена в процесі використання здібності, статус почне швидко виснажуватися, дозволяючи вам використовувати здатність ще кілька секунд. Намагайтеся тримати статус повними, щоб гарантувати максимальний запас енергії на випадок, якщо вона вам знадобиться.
 
 0x867E704C = Hand Rankings
 
@@ -120,7 +120,7 @@
 
 0xEAF341FC = Exploring Nature
 
-0x8ED5ADF0 = Story Chapters
+0x8ED5ADF0 = Сюжетні розділи
 
 0xF5680048 = Minor crimes make the victims and witnesses angry. They may take matters into their own hands and come to fight you rather than getting the law involved.
 
@@ -158,7 +158,7 @@
 
 0x37E2C7E3 = Tokens
 
-0x71BBA20F = Crafting
+0x71BBA20F = Ремесло
 
 0x79D38FB5 = Player
 
@@ -186,7 +186,7 @@
 
 0x200702B9 = As a fully licensed Bounty Hunter, you can take on Bounty Missions from the Bounty Board and track down criminals, then hand them over to the law for a reward. Be warned, some are more difficult than others, but a tougher criminal means a higher reward.
 
-0x4031DDDB = Saving
+0x4031DDDB = Збереження
 
 0x80B0DAF3 = Each species of animal will provide a different quality of meat. The type of meat will provide different benefits and can be used for different recipes.
 
@@ -346,11 +346,11 @@
 
 0xA7E120B4 = Approaching a Series Marker in Free Roam will give you the option to start matchmaking into a Series, here you can compete against others in varied and intense game modes. Series can be identified on the radar and Pause Map by their unique blips. Alternatively, launch the Series you want from the Quick Join section of the Player menu.
 
-0x0B1BF723 = See the World
+0x0B1BF723 = Побачити світ
 
 0x3A8B26B3 = Tokens
 
-0x658BAD96 = Sleep
+0x658BAD96 = Сон
 
 0x9E31A03B = The WANTED text will appear in the top right of your screen whilst you are wanted by the law. While wanted, you can lose your pursuers by escaping the region, killing all nearby lawmen, or hiding and staying out of sight until they call off the search.
 
@@ -474,7 +474,7 @@
 
 0x81076125 = Fishing
 
-0x5F1B8B79 = Your Health, Stamina and Dead Eye Cores drain over time. If your Health or Stamina Cores are low, the corresponding bar for each attribute will refill at a slower rate. Cores can be Fortified to stop them draining for a short period of time. To refill a Core, you must consume an appropriate Provision.
+0x5F1B8B79 = Ваше здоров'я, витривалість та «Влучне око» з часом витрачаються. Якщо здоров'я чи витривалість на низькому рівні, відповідна шкала заповнюватиметься повільніше. Статуси можна форсувати, щоб на короткий період часу запобігти їх витрати. Щоб відновити статус, потрібно використати відповідний продукт.
 
 0x321724C6 = If you have a blackjack when insurance betting starts and you bet the maximum insurance, this is known as taking even money. In this situation, whether the dealer has blackjack or not, you are guaranteed a payout of 1:1. If the dealer has blackjack, you will win the insurance bet and push your original stake. If the dealer does not have blackjack, you lose the insurance bet, but payout for your blackjack. Both resolve to a payout of 1:1.
 
@@ -484,7 +484,7 @@
 
 0xAEE84A9F = You can study and inspect animals when hunting
 
-0xEA7C957F = As you travel around the world, you will also encounter Strangers who have questions or tasks for you. The ~BLIP_RC~ blip will be displayed when a Stranger wants to talk to you.
+0xEA7C957F = У ході своїх мандрівок по світу ви зустрінете незнайомців, у яких будуть до вас запитання чи доручення. Якщо незнайомець захоче поговорити з вами, відображатиметься позначка ~BLIP_RC~.
 
 0x971A5F43 = If you choose not to purchase a Butcher Table immediately, Cripps will sell you one at the Wilderness Outfitters. Once you have one in Camp, Cripps Trading Co. will be up and running.
 
@@ -604,7 +604,7 @@
 
 0xDF512470 = You can equip weapons, switch ammunition or view stats using the Weapon Wheel. Hold ~INPUT_OPEN_WHEEL_MENU~ to open the Weapon Wheel, use ~INPUTGROUP_LOOK~ to select the weapon you want to use, then release ~INPUT_OPEN_WHEEL_MENU~ to equip.
 
-0x6F8B353E = This game uses an automatic save system, and your progress will be saved when you complete story chapters, saving within your Camp and whilst progressing through certain actions. Don't switch off your console while the saving icon is displayed.
+0x6F8B353E = У цій грі використовується система автоматичного збереження. Ваш прогрес зберігатиметься, коли ви завершуєте сюжетні розділи, знаходячись у таборі та проходженні інших дій. Не вимикайте консоль, поки не з'явиться піктограма збереження.
 
 0xDB856B0D = Once you've lassoed a target, you can quickly approach them and press ~INPUT_HOGTIE~ to hogtie and keep them still. The hogtied enemy can then be picked up and carried and even placed on your horse. Lassoed targets will break free after a short time if they're not hogtied.
 
@@ -656,11 +656,11 @@
 
 0x5771B222 = Over several rounds, shared cards are dealt to the center of the table. These can be seen by everybody and are known as community cards.
 
-0xFA42B54F = After saving your shot, view your photo in the Social Club Gallery. Here you can apply Stickers and add text to your image before uploading it to the Social Club.
+0xFA42B54F = Зберігши знімок, його можна переглянути у галереї Social Club. Тут можна буде додати наклейки та текст на фотографію, а потім відправити її до Social Club.
 
 0x77D69C97 = As with Draw and Block games, the round ends either when a player downs their last tile or the round is blocked. The winner receives the total of their opponents' pips, rounded up or down to the nearest 3. Games continue with new rounds until a player reaches the target score of 90.
 
-0x7F0F64AE = Provisions, Kit, Documents, and other items found or purchased are stored in your Satchel, accessed by holding ~INPUT_OPEN_SATCHEL_MENU~. Some provisions are also stored on your horse.
+0x7F0F64AE = Їжа, обладнання, документи та інші знайдені чи придбані предмети зберігаються у вас у сумці. Щоб відкрити сумку, утримуйте ~INPUT_OPEN_SATCHEL_MENU~. Ви також можете зберігати запаси їжі, нав'ючивши їх на коня.
 
 0xC7DDFDA0 = Artificial lures are more expensive than bait, but they are sturdy so can be used more than once. There are different lures that are suited to attracting river, lake and swamp-dwelling fish species.
 
@@ -702,7 +702,7 @@
 
 0x2B2800A2 = As you play Red Dead Online, you can earn unique Belt Buckles, Gold, and XP by completing various challenges.~n~These are separated into categories and will test all the skills it takes to survive in the American heartland. From hunting to traveling, combat and trade, prove your expertise and collect the rewards.
 
-0xE9B009EF = Different weather conditions call for different outfits; being too hot or too cold for long will cause your Health Core to drain faster. You can change your clothes at a camp, a hotel room, a Tailor's store or when facing your horse.
+0xE9B009EF = Одягайтеся за погодою: якщо вам буде надто спекотно чи холодно, це може вплинути на швидкість відновлення стану здоров'я. Ви можете змінити одяг у таборі, знятій кімнаті, кравецькій майстерні або стоячи обличчям до коня.
 
 0x93F13AA4 = Overview
 
@@ -742,7 +742,7 @@
 
 0x12E86473 = Legendary Bounties
 
-0x35BCAC6E = Once you have activated Photo Mode, choose Orbit Cam to lock into Third Person and stay at the center of attention or use Free Cam to move freely and focus on the world around you.
+0x35BCAC6E = Увімкнувши фоторежим, виберіть камеру, що обертається, щоб зафіксувати вигляд від третьої особи, і залишайтеся в центрі уваги – або ж використовуйте «Вільну камеру», щоб зосередитися на навколишньому світі. 
 
 0xFCDCAC7D = Dead Eye is a special ability that you can use by pressing ~INPUT_SPECIAL_ABILITY~ while aiming a gun or bow. In Dead Eye mode, time passes more slowly and you take less damage, making you more effective in combat.
 
@@ -784,9 +784,9 @@
 
 0xA50B2455 = If you are a member of a Posse, you will play individually but win as a team, so help out your Posse to up your chances of a reward.
 
-0x7D5D57B6 = Sleeping at a camp or bedroom will restore your health and save your game. You can sleep at the gang's current camp or hideout, set up an individual camp in the wilderness, or rent a hotel room.
+0x7D5D57B6 =  Для того, щоб відновити здоров'я та зберегти гру, поспіть у таборі або на ліжку. Ви можете поспати в таборі або притулку банди, під час привалу в дикій місцевості або винайнявши кімнату в готелі.
 
-0xE498AE30 = Challenges
+0xE498AE30 = Випробування
 
 0xF2209530 = Overview
 
@@ -842,7 +842,7 @@
 
 0xC108A54A = If there has been a bet in the current round, a player may call. To call, the player matches the current bet made by his or her opponent(s).
 
-0x1671520B = After successfully completing a mission, you will receive a Gold, Silver or Bronze Medal. To check your Medals or replay any missions, navigate to the Progress section in the Pause menu, then Story. The Chapters panel will show all the story chapters you have completed and the option to replay the mission.
+0x1671520B = Успішно завершивши завдання, ви отримаєте золоту, срібну чи бронзову медаль. Щоб переглянути свої медалі або повторно пройти будь-яке завдання, перейдіть до розділу «Прогрес» меню паузи та виберіть пункт «Сюжет». На панелі «Розділи» будуть представлені всі сюжетні розділи, вже пройдені вами, та запропоновано можливість заново пройти завдання. 
 
 0x6A5751CD = If all players but one fold before reaching the showdown, the final remaining player has stolen the pot and wins all the chips.
 
@@ -874,7 +874,7 @@
 
 0x6F0EE2F1 = Bounty Hunter
 
-0xCC4A5748 = You can quickly open the Pause Map by pressing ~INPUT_MAP~. Place a waypoint with ~INPUT_FRONTEND_ACCEPT~, or add a Marker with ~INPUT_FRONTEND_LS~. Zoom in on a town to see which amenities it offers. Your Camp location is marked on the map with a ~BLIP_CAMP~.
+0xCC4A5748 = Ви можете швидко відкрити карту меню паузи, натиснувши ~INPUT_MAP~. Додайте точку маршруту за допомогою ~INPUT_FRONTEND_ACCEPT~, або поставте позначку за допомогою ~INPUT_FRONTEND_LS~. Наблизьте місто, щоб переглянути, які послуги там доступні. Місцезнаходження вашого табору позначено на карті міткою ~BLIP_CAMP~.
 
 0x41ACB500 = If your horse is injured in combat or from a fall, you can use Horse Remedies to restore it to health.
 
@@ -888,7 +888,7 @@
 
 0xFB9488E5 = Double tiles are always placed at right angles to the other tiles. In All Threes or All Fives, the first double tile played is called a 'spinner'. Once tiles have been played off both sides of a spinner, the line of play can then branch out in four directions by playing tiles off each end of a spinner.
 
-0x4C95E555 = You can earn special weapons, equipment and upgrades by completing various challenges.~n~There are nine categories:~n~- Bandit ~n~- Explorer ~n~- Gambler ~n~- Herbalist ~n~- Horseman ~n~- Master Hunter ~n~- Sharpshooter ~n~- Survivalist ~n~- Weapons Expert
+0x4C95E555 = Проходячи різні випробування, можна отримати особливу зброю, костюми, спорядження та поліпшення.~n~ Існує дев'ять категорій випробувань:~n~- бандит~n~- дослідник~n~- азартний гравець~n~- травник~n~- вершник~n~- майстер-мисливець~n~- стрілок~n~- майстер виживання~n~- майстер зброї.
 
 0xD0031C36 = Enemy Vision Cones
 
@@ -896,7 +896,7 @@
 
 0x77B06D43 = When taking on enemy gangs or the law, it can be invaluable to have your fellow gang members by your side.
 
-0x5F76441A = Get Around
+0x5F76441A = Переміщення
 
 0x34A880D2 = Three community cards are then dealt, known as the flop. Another betting round takes place, with players using the new community cards to better understand how strong their hand is. Again the betting round continues until all players who remain have bet the same amount, or are all-in.
 
@@ -908,7 +908,7 @@
 
 0x7ADDC708 = ~INPUT_OPEN_WHEEL_MENU~ - hold to display bait wheel~n~~INPUT_MINIGAME_FISHING_QUICK_EQUIP~ - press to quick equip bait~n~~INPUT_AIM~ - hold to grip rod~n~~INPUT_ATTACK~ - hold then release to cast out~n~~INPUT_MINIGAME_FISHING_HOOK~ - press to hook a fish / tap to flick bait~n~~INPUTGROUP_MOVE~ - move rod~n~~INPUTGROUP_LOOK~ - rotate clockwise to reel in~n~~INPUT_MINIGAME_FISHING_RESET_CAST~ - reset cast / cut line
 
-0xEEF03DE1 = Satchel
+0xEEF03DE1 = Сумка
 
 0x6402E34C = Five Finger Fillet is a test of courage and coordination. To play this game you place one hand, outstretched, palm down, on a table and then stab a knife back and forth between the fingers, aiming to move quickly and avoid stabbing your hand.
 
@@ -930,7 +930,7 @@
 
 0x5E885225 = Try fishing at different locations. You will find different species of fish around the map.
 
-0x6EB99E67 = Photo Mode can be accessed from the Pause menu, or you can change your settings and use the 'Cycle Camera' button for a quick shortcut. Find this option under the Controls section of the Settings menu.
+0x6EB99E67 = Фоторежим можна увімкнути в меню паузи. Крім того, ви можете змінити налаштування та швидко вибирати його за допомогою кнопки «Зміна ракурсу». Цю функцію можна знайти в розділі «Керування» меню налаштувань. 
 
 0xE9665CD3 = You can track nearby animals by pressing ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye. Press ~INPUT_SPECIAL_ABILITY_ACTION~ to focus on the track, making it easier to follow.
 
@@ -1004,7 +1004,7 @@
 
 0x39DB8917 = Animal Field Guide
 
-0x2DE5A897 = Outfits
+0x2DE5A897 = Костюми
 
 0x227CB0DF = In All Threes or All Fives, when a double is counted as part of the edge score, its value is the total pip count - for example, a 5-5 is worth 10.
 
@@ -1028,7 +1028,7 @@
 
 0x1B9D765E = You will need to keep the Butcher Table well stocked with both Raw Materials and Supplies. You can order Supplies to your Camp or save yourself some dollars by starting a Resupply Mission.
 
-0xAF8E89AA = When a mission is available for you to start, you'll see a mission blip on your map and radar. The initials marked within the blip will be linked to the person you need to see. Make your way to the place marked and talk to that person to begin the mission.
+0xAF8E89AA = Коли вам буде доступне нове завдання, на карті та міні-карті ви побачите його позначку. Ініціали на мітці пов'язані з персоною, до якої ви повинні звернутися. Щоб розпочати проходження завдання, дістаньтеся до вказаного місця та поговоріть із цим персонажем.
 
 0x49CBA7E1 = In Red Dead Online there are no Wanted zones or locked down regions. Instead, a red circle will display a Wanted radius that only you can see.
 
@@ -1052,7 +1052,7 @@
 
 0xA386D24C = In a Persistent Posse, the Posse Leader can initiate Posse Versus content in Free Roam. These are short games launched from the Player menu that can be played within your Posse or against another. Compete together or against one another. Fight, Race or hunt down rival Posse Leaders.
 
-0xCD676118 = Strangers
+0xCD676118 = Незнайомці
 
 0x36AC5E6B = Hunted animal pelts and parts are stored in your Satchel or stowed on your horse. Entire animals can be stowed on your horse. Carry the carcass to the horse and hold ~INPUT_PLACE_CARRIABLE_ONTO_PARENT~ to stow. You can bring carcasses to Pearson and donate them to the gang camp, or take them to a Butcher in town to sell.
 
@@ -1078,7 +1078,7 @@
 
 0x34CB18F9 = To progress your career as a Trader, gain experience by selling Goods, taking part in Trader Free Roam Events, and completing Daily Role Challenges. View and track your Daily Role Challenges in the Player menu.
 
-0x43EB48CB = Use Basic Mode to Zoom, rotate the camera and switch between Lenses to suit your shot. Then go into Advanced Mode to perfect your image, changing the Focus Distance, Blur Strength and Exposure. Lastly, use Effects Mode to change the Contrast, choose Filters and set their intensity.
+0x43EB48CB = Використовуйте «Простий режим», щоб збільшити зображення, повертати камеру та змінювати об'єктиви. Потім ви можете включити «Розширений режим», щоб зробити зображення ідеальним: змінити фокусну відстань, ступінь розмиття і витримку. Зрештою, використовуйте режим ефектів, щоб змінити контраст, вибрати фільтри та їх інтенсивність. 
 
 0x6B51FE06 = Additional info
 
@@ -1100,7 +1100,7 @@
 
 0x1720DAB0 = In some circumstances a player might choose to make lower scoring or non-scoring, but strategic moves. This could serve to block other players, bluff about the tiles they have in hand, or save the most valuable tiles for later when they may be worth more points.
 
-0x0EAA30AA = Different weather conditions call for different outfits; being too hot or too cold for long will cause your Health Core to drain faster. Assemble an outfit at your Camp or at the Tailor, save it and name it. You can change your clothes at your Camp and at the Tailor, or you can swap between outfits when next to your horse.
+0x0EAA30AA = Одягайтеся за погодою: якщо вам буде надто спекотно чи холодно, це прискорить витрати статусу здоров'я. У таборі або в кравця можна підібрати собі костюм на свій смак і зберегти під обраною назвою, а також вільно міняти одяг, а перемикатися між збереженими костюмами можна і поруч з конем.
 
 0x04FDA153 = You can train, or 'break' wild horses to gain their trust so that you can saddle and ride them. Wild horses cannot be saddled or stored in your Stable.
 
@@ -1112,7 +1112,7 @@
 
 0xCB349F05 = Some Role-based items must be unlocked with Tokens before you can purchase them. You'll be rewarded with Tokens as you progress through Specialist Roles.
 
-0x24ED68D8 = You can travel between towns using Stagecoaches or the Railroad. Train tickets can be purchased from the Post Office. Upgrade your Gang Camp tent to acquire a map. You can use this to travel from Camp to any towns you have discovered.
+0x24ED68D8 = Ви можете подорожувати між містами на диліжансах або залізницею. Квитки на поїзд можна купити на пошті. Поліпшить ваш намет у таборі, щоб отримати карту. З її допомогою ви зможете вирушити з табору до будь-якого міста, де раніше побували.
 
 0x6A906763 = In a Burnout game the objective is to complete the most laps in 30 seconds with no mistakes. You only get one attempt.
 
@@ -1138,7 +1138,7 @@
 
 0xCC8BC47C = Low Quality~n~- Gamey Bird - Low quality meat from various small birds~n~- Stringy Meat - Meat from vermin and other small animals like rats~n~- Herptile Meat - Meat from reptiles and amphibians~n~- Gritty Fish - Fillet of low quality fish like Bluegill
 
-0xDA5E584E = Health, Stamina and Dead Eye Cores
+0xDA5E584E = Здоров'я, витривалість та влучне око
 
 0x99CAC32E = Hold ~INPUT_HITCH_ANIMAL~ to hitch your horse safely at a hitching post. This means it can't be stolen.
 
@@ -1220,7 +1220,7 @@
 
 0x7D27B576 = After receiving your first two cards, you have up to four options:
 
-0x2F50206A = You can craft or cook items whilst in the wilderness by selecting Camp in the Item Wheel. This allows you to cook Meat and craft Ammo, Tonics, and Hunting supplies. You can find Pamphlets in the wilderness to learn new crafting recipes.
+0x2F50206A = Виготовляти предмети та готувати їжу можна, перебуваючи у таборі, у дикій місцевості. Серед того, що ви можете виготовити – їжа, ліки, тоніки для вас та вашого коня, приманки для риболовлі, а також покращена зброя та спорядження.
 
 0x347DF9A0 = Weapons are not kept in the Satchel. See the Combat section for more information.
 
@@ -1240,7 +1240,7 @@
 
 0x269EC2DA = Hunting animals in certain ways and gathering animal parts will increase your rank in the Hunter Awards. Awards completion information can be found in the Progress - Awards section of the Pause menu.
 
-0x655D52F0 = Items you can craft include meals, ammo, health cures and remedies for yourself and your horse, lures for fishing, and improved weapons and equipment.
+0x655D52F0 = Серед того, що ви можете виготовити, – їжа, боєприпаси, ліки та зілля для вас та вашого коня, приманки для риболовлі, а також покращена зброя та спорядження.
 
 0x56A05D76 = To clean a horse that is getting dirty, you can use your Horse Brush, or pay to have it cleaned at a stable. You can also apply Horse Ointment for a temporary boost.
 
@@ -1248,7 +1248,7 @@
 
 0x6C103733 = Capitale is a system of exchange used by the wealthiest and most civilized members of Saint Denis's criminal underworld. Designed to keep their business dealings safe from the meddling interference that comes with the federal dollar, it relies on exclusivity and ruthless enforcement. Unfortunately for them, there is no honor among thieves: bills of Capitale are being stolen, traded and hoarded by every outlaw and reprobate across the five states.
 
-0xD3F47D92 = Your Health Core will drain quickly if you are exposed to conditions such as extreme temperature, or are poisoned by a snake bite. Your Stamina Core will affect the speed at which you run, and the energy you have to swim, carry corpses and carcasses, or mantle obstacles. More information about these conditions can be found in the Player section of the Pause menu.
+0xD3F47D92 = Ваш статус здоров'я виснажуватиметься швидше, якщо ви піддаєтеся впливу різних факторів, таких як екстремальні температури або укус отруйної змії. Ваш статус витривалості вказується на максимальній швидкості бігу і кількості зусиль, вам потрібно буде докласти, щоб нести трупи або туші тварин або долати перешкоди. Детальнішу інформацію про це можна знайти в розділі «Гравець» меню паузи.
 
 0xC7B02846 = Loansharking is an important source of ready money for Dutch's Gang, and encouraging reluctant debtors to pay up is Arthur's specialty. Find Herr Strauss in the gang's camp to take on new loansharking jobs.
 

@@ -5866,9 +5866,9 @@
 
 0xC8C3D711 = ~d~Last chance...~d~
 
-0x59176765 = Animals
+0x59176765 = Тварини
 
-0x176725B6 = A guide to looking after your Horse
+0x176725B6 = Довідник з догляду за кіньми
 
 0xF69C04EB = Champion lawn tennis player
 
@@ -8965,7 +8965,7 @@
 
 0x227838BF = Last Kill +~1~
 
-0x56966CDE = Horse
+0x56966CDE = Кінь
 
 0xB1E7C830 = The elusive Legendary Night Beaver has been spotted in Roanoke Ridge. Its soft black coat is incredibly rare. A strong swimmer, this beaver feels safest in water, and will seek cover if intimidated.
 
@@ -14797,7 +14797,7 @@
 
 0xDEE2039B = A pamphlet recipe on how to craft Explosive Slug Ammunition.
 
-0xDE51030A = Crime
+0xDE51030A = Злодіяння
 
 0x0A062EC1 = Rosewood
 
@@ -14933,7 +14933,7 @@
 
 0x1F7E4495 = Haverhill Капелюх
 
-0x06992BB2 = A guide to the Combat system
+0x06992BB2 = Довідник з бойової системи.
 
 0x16A13BBB = Only cycle starting spawn points
 
@@ -16205,7 +16205,7 @@
 
 0x3B9E63AA = ~s~This wagon has lost too much lumber to return to Castor's Ridge.~s~
 
-0xA09FC8AB = Horse
+0xA09FC8AB = Кінь
 
 0x75069D12 = Kelley Boots
 
@@ -20539,7 +20539,7 @@
 
 0x4FC78251 = Agarita
 
-0xD99F0C2B = Horse
+0xD99F0C2B = Кінь
 
 0x2F2161AF =  
 
@@ -21833,7 +21833,7 @@
 
 0x53BB8967 = Trade in the target Role XP to receive RDO$ and Gold
 
-0x0ECB447C = Crime
+0x0ECB447C = Злодіяння
 
 0x5FF895A9 = The Kennewick
 
@@ -22623,9 +22623,9 @@
 
 0x37DA6F94 = Fletcher Saddle
 
-0xF6DB2E94 = Horse
+0xF6DB2E94 = Кінь
 
-0xE5351CEE = Sit
+0xE5351CEE = Сісти
 
 0x022039DB = Tailored Suit Vest
 
@@ -43981,7 +43981,7 @@
 
 0x5601C216 = Your horse is out of whistling range. While out of range, it will be shown as ~1b~. You must get closer in order to be able to call it.
 
-0xC59031A6 = Combat
+0xC59031A6 = Бій
 
 0x3BC5A7DD = You cannot enter the stables at this time.
 
@@ -50293,11 +50293,11 @@
 
 0x7FE3FB1C = Bay
 
-0xB4102F48 = Horse
+0xB4102F48 = Кінь
 
 0xDBF3572B = SIGNIFY YOUR STATURE WITH A STEED FROM OUR HORSE DEPARTMENT.~n~
 
-0x044B7F85 = Dog
+0x044B7F85 = Собака
 
 0x0F998AD7 = Wanted Fugitive
 
@@ -55129,7 +55129,7 @@
 
 0x15DE9CFA = Permanently reduce Health, Stamina, and Dead Eye core drain speed by 15%.
 
-0x53FBDB19 = Horse
+0x53FBDB19 = Кінь
 
 0x050D8C2B = The body of an Owl in poor condition displaying major damage. Can be sold.
 
@@ -60123,11 +60123,11 @@
 
 0x74DB0814 = ONE OF OUR FINEST OUTFITS AVAILABLE~n~
 
-0xAFBC42F6 = Guard
+0xAFBC42F6 = Охоронець
 
 0xDD367070 = Improved Tomahawk Pamphlet
 
-0x70DD041A = Horse
+0x70DD041A = Кінь
 
 0xF9C78D06 = Wild Bay
 
@@ -70687,7 +70687,7 @@
 
 0x10A9BDC5 = A carcass from the Legendary Onyx Wolf. Can be taken to Gus and sold for cash.
 
-0xFBAFA8CB = Horse
+0xFBAFA8CB = Кінь
 
 0x86123330 = MEDIA STOP
 
@@ -72359,7 +72359,7 @@
 
 0x4E7BFF8C = A skinned carcass from the Legendary Red Streak Coyote. Can be taken to a Butcher and sold for cash.
 
-0xCC067D16 = A guide to the Activities you can partake in
+0xCC067D16 = Довідник видів діяльності, у яких ви можете брати участь
 
 0x1BF6CD08 = Dewberry Creek
 
@@ -75041,9 +75041,9 @@
 
 0xB60B6DD8 = Loon Feather
 
-0x9CA15471 = Horse
+0x9CA15471 = Кінь
 
-0x9E835653 = Civilian
+0x9E835653 = Житель
 
 0xF762AF34 = Amazing Inventions.~n~An illustration of a Manned Glider.
 
@@ -76343,7 +76343,7 @@
 
 0x2E2EE90F = In uncivilized parts of the world there are countries whose inhabitants waste their summers away in the nude, fornicating and frolicking all day, drinking spirits and reclining while feeding each other grapes. Imagine! Children barefoot and naked betray your true standing in the community. No serious student of scripture would permit such transgression, save polygamists and savage Europeans.~n~
 
-0x5F751A55 = A guide to Crime and punishment in the West
+0x5F751A55 = Довідник злочинів та покарань на Заході
 
 0xB3DE6EBF = This game saves data automatically at certain points. Do not switch off the power when the HDD access indicator is flashing.
 
@@ -78419,7 +78419,7 @@
 
 0x3DC5FDB4 = Basic Grip
 
-0xAB966B84 = Horse
+0xAB966B84 = Кінь
 
 0xEB78AB67 = Poster of a Violent Criminal
 
@@ -86054,7 +86054,7 @@
 
 0x2905FBFB = Kentucky Bourbon
 
-0x4CFE1FF3 = Horse
+0x4CFE1FF3 = Кінь
 
 0x418A1480 = Naturalist Events Letter
 
@@ -86752,7 +86752,7 @@
 
 0x3AB10F31 = Bison Dung
 
-0xDFD9B45A = Horse
+0xDFD9B45A = Кінь
 
 0xAA737EF4 = Stride Капелюх
 
@@ -89078,7 +89078,7 @@
 
 0xDF4CB95A = Conservationist Buckle
 
-0x58B132BF = Horse
+0x58B132BF = Кінь
 
 0x369910AA = Bowyer Boots
 
@@ -104290,7 +104290,7 @@
 
 0x80BC8054 = Bandito Pants
 
-0xAB9DAB36 = Horse
+0xAB9DAB36 = Кінь
 
 0x88B98854 = Lancer Vest
 
