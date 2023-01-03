@@ -22,7 +22,7 @@
 
 0xDF83C0F3 = Your horse has two Cores. Its Health Core affects its general wellbeing, while its Stamina Core affects its movement. Your horse will become tired from overexertion and will suffer damage from injuries. Feed your horse regularly to maintain its Cores or hitch your horse to a post to allow it to rest. Tonics can be used to fortify your horse's Cores and strengthening your bond over time will increase both your horse's overall Health and Stamina.
 
-0xF32FE18B = Once you've been witnessed taking part in criminal activity in an area, law enforcement will make a note of your physical description. Make yourself harder to recognize by changing your clothes and facial hair, or wearing a mask.
+0xF32FE18B = Якщо вас помітили під час скоєння злочину, місцеві представники закону складуть ваш опис. Робіть так, щоб вас було важче дізнатися. Для цього міняйте одяг, рослинність на обличчі або носіть маску.
 
 0xB0512020 = Draw
 
@@ -74,7 +74,7 @@
 
 0x7CF6A24C = Daily Challenges
 
-0x704E1D83 = Certain shopkeepers won't trouble you with questions about whether items were legally acquired. Look out for the ~BLIP_SHOP_SHADY_STORE~. You can sell stolen horses at stables, though they will fetch a lower price than legitimately owned ones.
+0x704E1D83 = Деякі торговці не турбуватимуть вас питаннями про те, наскільки законно було отримано ті чи інші предмети. На карті шукайте мітку ~BLIP_SHOP_SHADY_STORE~. Вкрадених коней можна продавати у стайні, щоправда, заплатять вам менше, ніж за тих, якими ви законно володієте.
 
 0x2E35EA07 = Hunting
 
@@ -82,7 +82,7 @@
 
 0x54C6781D = Purchase and equip Ability Cards from the Ability Loadout menu. The effects of Active Cards can be triggered by pressing ~INPUT_SPECIAL_ABILITY~. You can equip up to three Passive Ability Cards and their effects are on-going as long as they are equipped. Earn XP while using your equipped Ability Cards to unlock the option to upgrade your cards and increase the benefits.
 
-0xAAF0F019 = Dealing with Witnesses
+0xAAF0F019 = Свідки
 
 0x30AC3AD4 = Fast Travel posts can be found across the land. These can be used to instantly travel to a variety of destinations for a fee. Camp owners can set up a Fast Travel post of their own by speaking to Cripps.
 
@@ -90,7 +90,7 @@
 
 0x0FDD8054 = Delivering Justice
 
-0x599EC872 = The red circle on the radar will indicate the direction of where the law is currently looking. If you are spotted by law enforcement you will become fully wanted again.
+0x599EC872 = Служителі закону та їхня зона пошуку будуть відзначені на міні-карті червоним колом. Якщо служителі закону або мешканці помітять вас, ви знову опинитеся в розшуку.
 
 0x7ED99A88 = Довідник
 
@@ -106,7 +106,7 @@
 
 0xFBF46DF8 = Harriet can also offer a variety of hunting equipment, such as baits and Legendary Animal Pheromones, and tonics with interesting effects. Visit her store to view her stock.
 
-0xDC7D8234 = Fences
+0xDC7D8234 = Скупник
 
 0x870F8B53 = Укриття
 
@@ -122,17 +122,17 @@
 
 0x8ED5ADF0 = Сюжетні розділи
 
-0xF5680048 = Minor crimes make the victims and witnesses angry. They may take matters into their own hands and come to fight you rather than getting the law involved.
+0xF5680048 = Дрібні злочини змусять жертву та свідків розсердитися. Вони можуть спробувати самі розібратися з кривдником та полізуть у бійку, не залучаючи представників закону.
 
 0xA65E1648 = RDO$ is the in-game cash currency used to purchase provisions, clothing, and equipment, as well as paying for the upkeep of your Camp and your stalls in the Stable. You can earn RDO$ by completing various missions, competing in Free Roam Events, Showdowns and Races, or through trading goods and looting corpses.
 
 0x29CF29DF = If a player has gone all-in during the course of the hand, and so has placed less chips into the pot than the other eligible players, this creates a side pot. A player is only eligible to win the amount they have wagered themselves from each other player. When a player goes all-in, this amount is separated off in the main pot and the remaining active players can continue betting into a side pot. The all-in player is only eligible to win the main pot. The other players are eligible to win both the main pot and side pot. If several players go all-in in one hand, this can create several side pots.
 
-0x2E1EF103 = You'll find enemy gangs' camps and hideouts throughout the land. Attacking a hostile hideout can be extremely dangerous, but yields valuable loot if you pull it off.
+0x2E1EF103 = Іноді вам будуть траплятися табори та притулку ворожих банд. Напади на ворожі укриття можуть бути смертельно небезпечними, але принесуть цінну добичу у разі успіху.
 
 0xAB5FDD6F = Animals left on your horse will eventually start to decompose. Be sure to sell, or butcher and cook, them before this happens.
 
-0x2AF848D1 = Each town has a noticeboard at the depot or sheriff's office, displaying suspected criminals in the area. Retrieve bounty posters from these boards to get the details and hunt down bounty targets for rewards.
+0x2AF848D1 = У всіх містах на станціях або дільницях шерифа є дошки оголошень, на яких зазначені підозрювані у скоєнні злочинів у цій галузі. Знімайте плакати про винагороду, щоб дізнатися подробиці та почати полювання за розшукуваними.
 
 0x4B6BDC5D = A sequence of buttons (one 'lap') will be displayed on screen. Press the buttons as fast as you can to perform knife stabs between the fingers. You will stab your hand if you press the wrong button or hesitate for too long.
 
@@ -164,7 +164,7 @@
 
 0x15FD399F = You can purchase a new saddle for your horse by visiting the Stable. A saddle must be equipped before your horse can be made active.
 
-0x6F312AFB = Cattle and horses can be rustled from some ranches and farms. Look out for fellow gang members who may invite you to join rustling jobs.
+0x6F312AFB = З деяких ранчо та ферм можна викрадати коней та худобу. Деякі члени вашої банди можуть запросити вас взяти участь у викраденні.
 
 0x14C32C4C = При використанні певної метальної зброї та зброї ближнього бою ваш рівень у випробуванні майстра зброї підвищуватиметься, що відкриє можливість придбання покращених бойових аксесуарів. Більше інформації про поточні випробування можна знайти у розділі «Прогрес – Випробування» меню паузи.
 
@@ -280,7 +280,7 @@
 
 0x30AE6744 = Rules
 
-0x519DAE6E = When hunting, craft Small Game arrows to end up with better quality pelts, or use Poison arrows to take down big animals quickly. When faced with enemies, craft Fire or Dynamite arrows for increased power.
+0x519DAE6E = Застосовуйте стріли на дрібну дичину, щоб менше псувати шкіру, або отруєні стріли, щоб швидко вбити велику тварину. Проти ворогів використовуйте більш потужні запалювальні стріли чи стріли  з динамітом.
 
 0x7E056326 = Ends your turn without taking another card.
 
@@ -298,7 +298,7 @@
 
 0x1C5020CD = Be warned, Maggie has a past and is plotting her revenge. Speak to Maggie in your Moonshine Shack to launch these Moonshine Story Missions.
 
-0x622AA7A8 = As you commit more crimes in a region, lawmen and civilians become more vigilant, eventually placing the region on Lockdown. This turns the region map red and prevents use of local shops and events until enough time passes or your bounty is paid.
+0x622AA7A8 = Регіон, де ви вчинили багато злочинів, перейде на особливе становище, ставши червоним на карті. Законники будуть патрулювати, а магазини закриються, доки не скасують НС або за вас не буде виплачена нагорода.
 
 0x40C660F1 = There are 3 game variations; Classic, Guts and Burnout. Each has a different objective. Perform the objective better than your opponent to win a round, and win 2 rounds to win the game.
 
@@ -352,7 +352,7 @@
 
 0x658BAD96 = Сон
 
-0x9E31A03B = The WANTED text will appear in the top right of your screen whilst you are wanted by the law. While wanted, you can lose your pursuers by escaping the region, killing all nearby lawmen, or hiding and staying out of sight until they call off the search.
+0x9E31A03B = Якщо ви знаходитесь у розшуку, з'явиться відповідне повідомлення у правій верхній частині екрана. Якщо вас розшукують, ви можете скинути переслідувачів зі сліду, покинувши район, вбивши всіх служителів закону, що знаходяться поруч, або сховавшись і не трапляючись їм на очі до тих пір, поки вони не припинять пошуки.
 
 0x5D3B65E2 = While playing Poker, there are daily limits on how many chips you can buy and how long you can play. Once you reach any of these limits, Poker will be unavailable to you for a period of time so head out and enjoy your spoils.
 
@@ -370,9 +370,9 @@
 
 0x0A719DD9 = Now, Guido Martelli has proposed a solution that will return all this missing Capitale to its wrongful owners. He will reward anyone willing to recover enough Capitale notes and hand them to his contacts: James Langton, Sean Macguire, Anthony Foreman and Joe.
 
-0x0459C07B = Rustling
+0x0459C07B = Крадіжка худоби
 
-0x2E8D9A7B = If you injure an officer of the law, or shake out of an arrest attempt, then the law will no longer attempt to capture you alive - they will shoot to kill.
+0x2E8D9A7B = Якщо ви пораните представника закону (або уникнете арешту), вони вже не намагатимуться зловити вас живим, а стрілятимуть на ураження. 
 
 0xD0451CF8 = Hostility
 
@@ -396,7 +396,7 @@
 
 0xFEA614A8 = Capitale
 
-0xB895E5B2 = Bounty Hunting
+0xB895E5B2 = Полювання за головами
 
 0xE3D8C964 = Боєприпаси можна замовити через переносний каталог, купити у зброяра або в магазині, виготовити самостійно, підібрати з трупів або просто знайти. Деякі типи боєприпасів мають особливі властивості, що дозволяють отримати перевагу в бою.
 
@@ -416,13 +416,13 @@
 
 0xBBFEAE15 = Bonding
 
-0xDC196C98 = Crime and Punishment
+0xDC196C98 = Злочин та покарання
 
 0xD43B9354 = In Red Dead Online, you can equip Abilities using Ability Cards which provide you with attributes that will affect the damage you deal and how you deal it. These come in Dead Eye form, granting you an ability activated during Dead Eye by holding ~INPUT_SPECIAL_ABILITY_SECONDARY~ and pressing ~INPUT_SPECIAL_ABILITY~, and Passive form which affects you persistently. You have one Active slot, and three Passive slots to fill.
 
 0x2160DD17 = У розділі довідника «Зброя» зібрані відомості про всю зброю, яка вам траплялася, а також наводиться основна статистика, така як кількість вбивств та пострілів у голову.
 
-0x6D767ADF = Any bodies found will be reported and lawmen dispatched to investigate. Hide or dispose of bodies to avoid unwanted attention.
+0x6D767ADF = Про будь-який знайдений труп люди повідомлять владі, після чого служителі закону будуть вислані на місце для розслідування. Ховайте трупи або позбавляйтеся їх, щоб уникнути небажаної уваги.
 
 0xFFB2F4EC = Your horse will not respond if it is critically injured. Whistle to call the Scrawny Nag. This old horse is no stallion, but it will get you where you need to be. No horse will respond if you are inside a building.
 
@@ -446,7 +446,7 @@
 
 0x86069215 = One pair: Two cards of a matching rank, and three unrelated side cards.
 
-0x7A0BADB3 = Certain shopkeepers won't trouble you with questions about whether items were legally acquired. Look out for the ~BLIP_SHOP_SHADY_STORE~ in the following towns: ~n~- Emerald Ranch ~n~- Rhodes ~n~- Saint Denis ~n~- Thieves Landing ~n~- Van Horn
+0x7A0BADB3 = Деякі торговці не турбуватимуть вас питаннями про те, наскільки законно було отримано ті чи інші предмети. ~BLIP_SHOP_SHADY_STORE~ можна знайти в наступних поселеннях: ~n~- Ранчо Емеральд ~n~- Роудс ~n~- Сен-Дені ~n~- Пристань розбійників ~n~- Ван-Хорн
 
 0xC1CEC5BF = The first betting round is known as preflop. After the blinds have been posted and the hole cards dealt, the betting round starts. It continues until all players who remain have bet the same amount, or are all-in.
 
@@ -468,7 +468,7 @@
 
 0xBB1A3667 = Prior to beginning a game you can play up to 3 practice attempts to sharpen your skills before taking on the opponent. Press ~INPUT_MINIGAME_FFF_PRACTICE~ when prompted to practice. Your best attempts are saved, so try to beat your previous record scores.
 
-0x6361EA0D = When law officers approach you, you have the opportunity to surrender to them. You must be on foot, and have your weapon holstered, to surrender.
+0x6361EA0D = Коли до вас доберуться служителі закону, ви матимете можливість здатися. Щоб здатися, ви повинні спішитися з коня та прибрати зброю.
 
 0x935B8806 = Weapons and ammunition can be quickly purchased from the Handheld Catalogue by holding ~INPUT_OPEN_JOURNAL~. Items can be collected from the Post Office or from the Camp Lockbox. Weapons are immediately available from your Horse.
 
@@ -508,7 +508,7 @@
 
 0xB7BF89B0 = Parley
 
-0x9DB079CE = If you commit more crimes while the law is chasing you, more and more vicious law officers will show up to pursue you.
+0x9DB079CE = Якщо ви знаходитеся в розшуку і чините нові злочини, то за вашим слідом відправлять сильніших служителів закону.
 
 0x1D11F484 = A fourth community card is dealt, known as the turn. Another betting round takes place.
 
@@ -544,7 +544,7 @@
 
 0x13B25C70 = Whether you are short on cash or hungry for more, Treasure Maps are a good opportunity to unearth yourself a fortune. After ranking up, you may receive a map as a reward. However, don't forget to loot fallen enemies. Some folk in these parts carry secrets in their pockets. Unburden them, and find the treasure they have left behind.
 
-0xFA1E58D6 = The West is home to many rival gangs of outlaws and misfits. Gangs vary in size and structure, but each has their own territory, and none of them are likely to welcome Dutch's Gang onto their turf.
+0xFA1E58D6 = На Дикому Заході проживає безліч злочинців і банд, що змагаються. Банди бувають різними за чисельністю та організацією, але кожна має свою територію, на якій поява банди Датча навряд чи вітатиметься.
 
 0xEB31C880 = Щоб подивитися, наскільки добре ви освоїли ту чи іншу зброю, відкрийте розділ «Зброя» в довіднику.
 
@@ -562,9 +562,9 @@
 
 0x68BCA4C0 = Weekly Collectible Shopping List
 
-0x80EFD092 = You can hold up stagecoaches and trains loaded with valuables. Try talking to people who work at stations to see if they have tips to share with you.
+0x80EFD092 = Крім того, ви можете грабувати диліжанси та поїзди, завантажені цінностями. Спробуйте поговорити з людьми, які працюють на станціях, щоб з'ясувати, чи немає в них корисної інформації.
 
-0x16B7DDDD = If a civilian spots you committing a crime, they will try to tell law enforcement. When an eyewitness reaches a law officer, law enforcement officers will come after you and place a bounty on your head.
+0x16B7DDDD = Якщо мирний житель помітить, як ви вчиняєте злочин, він спробує повідомити про це служителя закону. Коли свідок дістанеться до служителя закону, вони почнуть переслідувати вас, а за вашу голову буде призначено нагороду.
 
 0x8FD81FA2 = Insurance
 
@@ -634,7 +634,7 @@
 
 0xEA120FC6 = Riding
 
-0x095D7504 = Ammunition for your weapons can be bought from Gunsmiths or General Stores, crafted, looted from dead enemies, or found in the world. Certain types of ammunition have special properties that can give you an advantage in combat.
+0x095D7504 = Боєприпаси можна купити у зброярів або магазинах, виготовити самостійно, підібрати з трупів ворогів або просто знайти. Деякі типи боєприпасів мають особливі властивості, що дозволяють отримати перевагу в бою.
 
 0x8F8155E6 = On reaching the end of the final betting round, the showdown takes place. The players reveal their cards. Taking the best five-card combination of their hole cards and the community cards, each player has a hand ranking (for example, a pair). The player with the best hand ranking wins the pot. See the Hand Rankings column for a full list.
 
@@ -804,11 +804,11 @@
 
 0x7496CCFC = To progress your career as a Collector, gain experience by finding Collectibles, taking part in Collector Free Roam Events, and completing Daily Role Challenges. View and track your Daily Role Challenges in the Player menu.
 
-0xB06F9BA0 = Familiarity
+0xB06F9BA0 = Освоювання
 
 0xD5824700 = The dealer adds another card to your hand.
 
-0x512A8890 = When you use the same model of gun over a long period of time, your skill with it increases, which can improve weapon handling, reduce recoil, and speed up actions like reloading.
+0x512A8890 = Якщо довго використовувати ту саму модель зброї, ваша навичка у володінні нею буде підвищуватися, що дозволить краще нею володіти, знизить віддачу і прискорить такі дії, як перезаряджання. 
 
 0x70B16B0C = Camp
 
@@ -870,7 +870,7 @@
 
 0x285413E5 = If you kill another player's horse, you will be liable to pay to cover their vet's fee.
 
-0x7CB66E12 = Disguises
+0x7CB66E12 = Маскування
 
 0x6F0EE2F1 = Bounty Hunter
 
@@ -904,7 +904,7 @@
 
 0x03F6FE07 = Posse and Posse Leader feuds.
 
-0x9E2FC633 = Robberies
+0x9E2FC633 = Пограбування
 
 0x7ADDC708 = ~INPUT_OPEN_WHEEL_MENU~ - hold to display bait wheel~n~~INPUT_MINIGAME_FISHING_QUICK_EQUIP~ - press to quick equip bait~n~~INPUT_AIM~ - hold to grip rod~n~~INPUT_ATTACK~ - hold then release to cast out~n~~INPUT_MINIGAME_FISHING_HOOK~ - press to hook a fish / tap to flick bait~n~~INPUTGROUP_MOVE~ - move rod~n~~INPUTGROUP_LOOK~ - rotate clockwise to reel in~n~~INPUT_MINIGAME_FISHING_RESET_CAST~ - reset cast / cut line
 
@@ -994,7 +994,7 @@
 
 0x2B81B4A6 = To create a Posse, go to the Player menu and select Posse, Form Posse. Here you can choose the type, set privacy, turn friendly fire on or off, pick your Camp location and enter your Posse name. Then select Form a Posse.
 
-0x1D2B9172 = Gangs that you've encountered will be added to the Compendium. Here you can see a record of your rivalries.
+0x1D2B9172 = Банди, з якими ви зіткнулися, буде додано в довідник. У ньому ви можете знайти повний звіт про ваших супротивників.
 
 0x251CBA35 = Overview
 
@@ -1022,7 +1022,7 @@
 
 0x57F9B100 = Rake
 
-0x6B87B533 = The next time you commit a crime, your state bounty will include all crimes you have previously committed in that state. Lawmen and bounty hunters will attempt to track you down unless you find a telegraph operator at a Post Office ~BLIP_POST_OFFICE~ and pay your debt to society.
+0x6B87B533 = Якщо ви знову порушите закон, за вас призначать винагороду за всі ваші минулі злочини у цьому штаті. Знайдіть на пошті ~BLIP_POST_OFFICE~ телеграфіста, щоб сплатити свій штраф штату.
 
 0x8D36D12E = To progress your career as a Moonshiner, gain experience by completing Moonshine Story Missions, Bootlegger Missions, and Sell Missions, and completing Daily Role Challenges. View and track your Daily Role Challenges in the Player menu.
 
@@ -1032,7 +1032,7 @@
 
 0x49CBA7E1 = In Red Dead Online there are no Wanted zones or locked down regions. Instead, a red circle will display a Wanted radius that only you can see.
 
-0xBA1126E4 = Gangs
+0xBA1126E4 = Банди
 
 0xA1E3FBB6 = To become a Collector, meet the all-seeing Madam Nazar ~BLIP_MP_TRAVELLING_SALESWOMAN~ and purchase the Collector's Bag. From ancient Arrowheads to valuable Lost Jewelry, this bag will store and track your precious collections.
 
@@ -1122,7 +1122,7 @@
 
 0x750EE42C = Raise the White Flag at your Camp to protect yourself from other players in the vicinity. To raise or lower the flag, stand next to it and hold ~INPUT_CONTEXT_LT~.
 
-0xBE7C07BA = If you have committed serious crimes before you have lost the local constabulary, they will hire a posse to chase after you across the wilderness. Commit enough murders and the local lawmen will call for the big guns - the US Marshals - to hunt you down.
+0xBE7C07BA = Якщо ви вчинили досить серйозні злочини до того, як уникнути місцевих представників закону, вони наймуть загін, який переслідуватиме вас у дикій місцевості. Вчиніть велику кількість вбивств, і місцеві представники закону покличуть на допомогу «великих хлопців» – армійських маршалів.
 
 0x11569644 = You can learn the sequence of buttons by watching as your opponent plays. Hold ~INPUT_MINIGAME_FFF_ZOOM~ during their turn to get a good look.
 
@@ -1190,7 +1190,7 @@
 
 0x26CFDDC1 = Certain Awards allow you to reset your progress in exchange for Gold Nuggets.
 
-0xF2E0F338 = There's no shortage of targets - some easier than others - for you and Dutch's Gang to rob. Look out for banks, shops, homesteads, and camps on your map, and draw your weapon once inside to threaten the occupants. Some shop and home owners will fight back, or involve the law.
+0xF2E0F338 = У банди Датча є великий вибір цілей для пограбування. Деякі простіші, деякі складніші. Виберіть на карті банк, магазин, ферму чи табір. А коли опинитеся всередині - дістаньте зброю, щоб пригрозити тим, хто там знаходиться. Деякі власники магазинів та будинків можуть спробувати чинити опір або покликати законників.
 
 0x57C7EF7D = Two pair: Two cards of a matching rank, another two cards of a different matching rank, and one side card.
 
@@ -1210,7 +1210,7 @@
 
 0x80A5A86C = Карабіни
 
-0x26111C77 = Individuals who owe money to the gang will be marked on the map with ~BLIP_PROC_LOANSHARK~. Seek out the debtors and recover the money. You can't track debtors while you are being pursued by the law.
+0x26111C77 = Люди, які заборгували гроші банді, будуть відзначені ~BLIP_PROC_LOANSHARK~ на карті. Знаходьте боржників та забирайте гроші. Ви не можете стежити за боржниками, якщо вас переслідують законники.
 
 0x3ADC65E8 = As you rank up, you'll receive Tokens that can be used to unlock new skills, activities, equipment, horses and clothing. In particular, Traders can upgrade their Delivery Wagons. The larger the wagon, the greater its capacity, earning you more for each delivery. These are available to view in the Progress section of the Pause menu.
 
@@ -1230,7 +1230,7 @@
 
 0x63C37FCF = Getting Started
 
-0x8670612D = You can threaten the witness by pressing ~INPUT_INTERACT_LOCKON~+~INPUT_INTERACT_LOCKON_ROB~ to try to frighten them into silence. Bear in mind that not all witnesses respond well to threats.
+0x8670612D = Ви можете спробувати залякати свідка, натиснувши ~INPUT_INTERACT_LOCKON~+~INPUT_INTERACT_LOCKON_ROB~, щоб змусити його мовчати. Врахуйте, що деякі свідки дуже погано реагують на погрози.
 
 0xD4908127 = As a solo traveler, set up your Player Camp to give yourself somewhere to rest in Free Roam. Or head to your Posse Camp to share a communal space with other members. Use your Camp to access your Wardrobe, craft weapons and tonics, rest up and even fast travel, if you have upgraded. The Camp can be found under Crafting in the Item Wheel, or via the Player menu.
 
@@ -1250,7 +1250,7 @@
 
 0xD3F47D92 = Ваш статус здоров'я виснажуватиметься швидше, якщо ви піддаєтеся впливу різних факторів, таких як екстремальні температури або укус отруйної змії. Ваш статус витривалості вказується на максимальній швидкості бігу і кількості зусиль, вам потрібно буде докласти, щоб нести трупи або туші тварин або долати перешкоди. Детальнішу інформацію про це можна знайти в розділі «Гравець» меню паузи.
 
-0xC7B02846 = Loansharking is an important source of ready money for Dutch's Gang, and encouraging reluctant debtors to pay up is Arthur's specialty. Find Herr Strauss in the gang's camp to take on new loansharking jobs.
+0xC7B02846 = Вибивання боргів – важливе джерело грошей для банди Датча, а переконання незговірливих боржників – робота за фахом Артура. Щоб взятися за нове завдання з вибивання боргів, знайдіть герр Штрауса в таборі банди.
 
 0x386C15D3 = Five Finger Fillet
 
@@ -1268,9 +1268,9 @@
 
 0x53CEDE29 = You can track nearby animals by selecting ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye. Press ~INPUT_SPECIAL_ABILITY_ACTION~ to focus on the track, making it easier to follow.
 
-0xD196AB28 = Loansharking
+0xD196AB28 = Лихварство
 
-0xF264EEE3 = If a civilian spots you committing a crime, they will try to tell law enforcement. When an eyewitness reaches a law officer, law enforcement officers will come after you.
+0xF264EEE3 = Якщо мирний житель помітить, як ви вчиняєте злочин, він спробує повідомити про це служителя закону. Коли свідок дістанеться служителів закону, вони почнуть вас переслідувати. 
 
 0x472B8AC5 = Treats, such as Sugar Cubes, Peppermints, Common Bulrush, and English Mace will increase bonding a medium amount but will give almost no nutritional value.
 
