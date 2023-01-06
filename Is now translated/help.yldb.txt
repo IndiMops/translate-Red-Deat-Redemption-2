@@ -28,7 +28,7 @@
 
 0x109AC8F9 = Remember; the larger the animal, the higher the dosage of sedative needed to bring it down. Meanwhile, a single dose of sedative can be fatal to smaller animals.
 
-0xECDF8435 = Arthur cannot saddle, bond with, or own horses belonging to the other members of Dutch's gang.
+0xECDF8435 = Артур не може сідлати, підвищувати рівень довіри чи володіти кіньми, що належать іншим членам банди Датча.
 
 0x78912064 = Bounty Hunters track down dangerous criminals, turning them in dead or alive in return for a reward.
 
@@ -64,9 +64,9 @@
 
 0x73AAB20F = Some more unusual parts, like teeth and claws, have mysterious powers when worn as talismans.
 
-0xA7B1ADBB = As you spend time with your horse, you will develop a bond of trust and understanding with it.
+0xA7B1ADBB = У міру того, як ви проводитимете час з вашим конем, ваше взаєморозуміння з ним і взаємна довіра зміцнюватимуться.
 
-0x814525EF = You can press ~INPUT_WHISTLE~ to call your horse to you. As you bond with your horse, the range at which you can call it will increase. When standing in front of your horse you can command it to flee by holding ~INPUT_INTERACT_LOCKON~ and selecting ~INPUT_HORSE_COMMAND_FLEE~.
+0x814525EF = Щоб покликати вашого коня, натисніть ~INPUT_WHISTLE~. У міру того, як довіра вашого коня зростатиме, ви зможете підзивати його з більшої відстані. Ви можете відпустити вашого коня, натиснувши ~INPUT_INTERACT_LOCKON~ стоячи перед ним і вибравши ~INPUT_HORSE_COMMAND_FLEE~. 
 
 0x986A65A2 = These four contacts will offer Blood Money Missions and can provide exclusive work if you turn in enough Capitale. These Blood Money Opportunities are available to the most dedicated outlaws who are not afraid to risk their life for a high reward.
 
@@ -150,7 +150,7 @@
 
 0xA9BF74A0 = Your Dead Eye core allows you to use Abilities which can give you an advantage in combat. To activate Dead Eye, press ~INPUT_SPECIAL_ABILITY~ while aiming. You can view your Ability Cards in the Abilities section of the Pause menu and learn more about their use in Player & Horse in the Help section of the Pause menu.
 
-0x2B56E6E7 = There are four levels of Bonding. As Bonding increases:~n~- Your horse's Health and Stamina will increase.~n~- You'll be able to locate your horse faster, with it appearing on your radar sooner.~n~- Your horse will become more difficult to steal.
+0x2B56E6E7 = Існує чотири рівні довіри. У міру досягнення вищих рівнів: ~n~– підвищуватиметься здоров'я та витривалість вашого коня~n~– ви зможете викликати коня швидше (він швидше з'явиться на міні-карті)~n~– його складніше вкрасти.
 
 0x33026940 = Each player is dealt two cards from a single deck. These are known as hole cards, and are kept secret from the other players.
 
@@ -198,7 +198,7 @@
 
 0xF9A493E6 = If your wagon is not insured, you can pay a fee to have it repaired via the Player menu, or you can travel to the nearest Stable where they will repair it for free.
 
-0x193442C7 = There are Stables in all major towns, shown by a blip on your map and radar. At a stable you can:~n~- Buy and sell horses~n~- Buy horse care items such as food, snacks, and tonics~n~- Buy or upgrade equipment such as saddles, saddle bags, stirrups, and blankets~n~- Keep up to three horses safely in stables~n~- Customize your horse's looks and accessories
+0x193442C7 = Конюшні є у всіх великих містах. Вони відображаються міткою на вашій карті та міні-карті. У стайнях ви можете: ~n~- купувати та продавати коней~n~- купувати різні предмети для догляду за кіньми (наприклад, їжу, ласощі та тоніки)~n~- купувати або покращувати збрую (наприклад, сідла, сумки, вуздечки та стремена)~n~- тримати до трьох коней в безпечних стійлах~n~- міняти зовнішній вигляд та аксесуари коня
 
 0x7B6A651E = Влучне око
 
@@ -224,7 +224,7 @@
 
 0x0F827801 = Tokens
 
-0x88DE46B7 = You can buy and sell horses at Stables throughout the world. You can break wild horses, or steal owned horses. You can ride a horse temporarily, but to make it yours, you'll need to put your saddle on it.
+0x88DE46B7 = Купувати та продавати коней можна у спеціальних конюшнях, розташованих у різних областях карти. Ви можете приборкувати диких коней або викрадати чужих. Деякий час можна їздити на будь-кому коні, але щоб зробити його своїм, потрібно покласти на нього своє сідло.
 
 0x07353ABA = There are 28 unique tiles in a dominoes set. Each player begins with seven, drawn at random, and any remaining dominoes are placed into the boneyard.
 
@@ -290,7 +290,7 @@
 
 0x35956ACE = In public games, players are matchmade together randomly, players are not identified, and voice communication is turned off. If you would like to play with Friends, you can host a private table where you can send invites and communicate through in-game voice chat.
 
-0xFBB969E4 = Saddling Horses
+0xFBB969E4 = Сідлання коней
 
 0xC20EA55C = You can quickly open the Pause Map by holding ~INPUT_MAP~. Place a waypoint with ~INPUT_FRONTEND_ACCEPT~, or add a Marker with ~INPUT_FRONTEND_LS~. Zoom in on a town to see which amenities it offers. Your Camp location is marked on the map with a ~BLIP_CAMP~.
 
@@ -310,7 +310,7 @@
 
 0xF61B7432 = As you progress in Red Dead Online, you will unlock pieces of clothing and equipment that are only available to players who have achieved a certain rank. You can track your Rank Unlocks in the Progress section of the Pause menu.
 
-0x051246FB = Stables
+0x051246FB = Конюшня
 
 0xFC1A3401 = Dive to ground during combat by pressing ~INPUT_JUMP~ while aiming your firearm. To switch your point of view between your left and right shoulder while aiming, press ~INPUT_SWITCH_SHOULDER~.
 
@@ -324,13 +324,13 @@
 
 0xB31D0203 = As you rank up, you'll receive Tokens that can be used to unlock new skills, activities, Free Roam Events, equipment, horses and clothing. In particular, Bounty Hunters of a certain caliber can purchase a Bounty Wagon. Bounty Wagons allow you to capture more than one bounty target at a time. It is available to view and unlock in the Progress section of the Pause menu.
 
-0xB6FEC97E = Remove your saddle from a dead horse by approaching and holding ~INPUT_SADDLE_TRANSFER~ to remove.
+0xB6FEC97E = Зніміть своє сідло з мертвого коня, підійшовши до нього і натиснувши ~INPUT_SADDLE_TRANSFER~.
 
 0x8CF8C5F4 = Player Bounties
 
 0x2B9A2504 = You are automatically a member of the Wheeler, Rawson and Co. Club. This means you will unlock free Club Rewards as you gain XP throughout the current Club Membership period.
 
-0x65030DA4 = Hitching
+0x65030DA4 = Прив'язування коня
 
 0xF0A0D664 = Split
 
@@ -414,7 +414,7 @@
 
 0x3BEDDBC0 = As the price on your head grows, your name will spread and attract the attention of Bounty Hunters. Experienced trackers, they may target you at any time so stay alert. And be warned: the higher your Bounty, the more experienced the Bounty Hunters. Escape them or risk forfeiting the Bounty you owe.
 
-0xBBFEAE15 = Bonding
+0xBBFEAE15 = Довіра
 
 0xDC196C98 = Злочин та покарання
 
@@ -480,7 +480,7 @@
 
 0xBD018BAF = Збройні лавки є у ​​всіх великих містах. Кожна з них пропонує свій асортимент зброї та боєприпасів. Перегляньте каталог магазину, щоб купити зброю, боєприпаси та аксесуари або погляньте на полиці, щоб дізнатися, що продається.
 
-0x29C15AD0 = To saddle a horse, approach it with a saddle in hand and hold ~INPUT_SADDLE_TRANSFER~ to put it on. You can only have one saddle, and therefore one main horse, at a time. To remove a saddle you must approach the horse and hold ~INPUT_INTERACT_LOCKON~ to lock on and hold ~INPUT_SADDLE_TRANSFER~ to remove.
+0x29C15AD0 = Якщо ви хочете покласти сідло на коня, підійдіть до нього з сідлом у руках та утримуйте ~INPUT_SADDLE_TRANSFER~. У вас може бути тільки одне сідло, а отже, тільки один основний кінь. Щоб зняти сідло з коня, підійдіть до нього та утримуйте ~INPUT_INTERACT_LOCKON~ для фокусування та утримуйте ~INPUT_SADDLE_TRANSFER~ для зняття сідла.
 
 0xAEE84A9F = You can study and inspect animals when hunting
 
@@ -558,7 +558,7 @@
 
 0x064A0054 = Боєприпаси
 
-0xDA9B70E6 = To keep your horse happy and healthy, and retain a strong bond, you will need to keep it fed and clean. A horse's Health and Stamina Cores are affected when it gets hungry or dirty – meaning it'll tire faster and withstand less damage.
+0xDA9B70E6 = Якщо ви хочете, щоб ваш кінь був здоровим і задоволеним, а рівень довіри не знижувався - регулярно годуйте і чистіть його. Від ситості та чистоти коня залежать статуси його здоров'я та витривалості. Якщо кінь голодний або нечищений, він буде швидше втомлюватися і зможе витримати менше шкоди.
 
 0x68BCA4C0 = Weekly Collectible Shopping List
 
@@ -646,7 +646,7 @@
 
 0xC5363E5E = As your rank increases, additional Ability Cards will unlock and become available for you to buy with cash.
 
-0x2027AEA5 = You can increase bonding by:~n~- Calming your horse when it's agitated.~n~- Feeding your horse when it's hungry.~n~- Grooming your horse when it's dirty.~n~- Riding, leading, and swimming with your horse, as long as it isn't tired out.
+0x2027AEA5 = Підвищити довіру можна:~n~- заспокоюючи коня, коли він хвилюється~n~- годуючи коня, коли він голодний~n~- чистити коня від бруду~n~- їздячи на ньому, ведучи вуздечкою і плаваючи з ним, якщо він при цьому не втомився.
 
 0x0EB6D2CF = Компактні та сучасні. Пістолети не надто потужні в порівнянні з револьверами, але можуть вмістити більше патронів, і їхнє перезаряджання займає менше часу.
 
@@ -684,7 +684,7 @@
 
 0xFBE1A823 = Doing Business
 
-0x99DB50AF = You should be careful feeding your horse. Overfeeding it when it is already full can cause it to become overweight. Underfeeding it will cause the horse to become thin.
+0x99DB50AF = Не можна перегодовувати коня. Якщо продовжувати годувати його після того, як він наївся, він набере зайвої ваги. Недоїдання приверне до втрати ваги.
 
 0xB69E746B = Showdown
 
@@ -718,7 +718,7 @@
 
 0x23E7D113 = Map
 
-0x82DF7124 = Nutritious foods like Oat Cakes, Apples, and Hay will satisfy your horse's hunger for longer than treats. Giving these foods to your horse also increases bonding significantly.
+0x82DF7124 = Поживний корм – такий як вівсяні коржики, яблука та сіно – довше, ніж ласощі чи солодощі, дозволить вашому коню не відчувати голоду. Крім того, годуючи коня, ви значно підвищуєте рівень довіри.
 
 0x0631390C = As you rank up, you will receive Tokens that can be used to unlock new skills, activities, equipment, horses and clothing. All of these are available to view in the Progress section of the Pause menu.
 
@@ -770,7 +770,7 @@
 
 0x9DBB9FC0 = Магазини зброї є у всіх великих містах. Ви можете заглянути в каталог магазину, щоб придбати зброю, боєприпаси та аксесуари, або оглянути полиці, щоб дізнатися, що є у продажі.
 
-0x33566420 = At certain Bonding Levels, you can perform more complex maneuvers:~n~- At Bonding Level 2, hold ~INPUT_HORSE_STOP~ and tap ~INPUT_HORSE_JUMP~ when stationary to Rear.~n~- At Bonding Level 3, hold ~INPUT_HORSE_STOP~ and ~INPUT_HORSE_SPRINT~ while moving to Skid Turn or Skid Stop.~n~- At Bonding Level 4, hold ~INPUT_HORSE_COLLECT~ to perform a Piaffe. While doing this, use ~INPUT_HORSE_MOVE_LR~ to Drift left or right while moving.
+0x33566420 = З підвищенням рівня довіри коня ви зможете виконувати складніші трюки:~n~– На рівні довіри 2: утримуйте ~INPUT_HORSE_STOP~ і натискайте ~INPUT_HORSE_JUMP~, щоб підняти коня диби.~n~– На рівні довіри 3: під час руху утримуйте ~INPUT_HORSE_STOP~ та ~INPUT_HORSE_SPRINT~, щоб різко повернути або зупинитися.~n~– На рівні довіри 4: утримуйте ~INPUT_HORSE_COLLECT~, щоб виконати піаффе. Одночасно використовуйте ~INPUT_HORSE_MOVE_LR~, щоб кінь дрифтував праворуч або ліворуч.
 
 0x111D09C1 = If you and another player kill each other, you will have the option to start a Feud. Feuds can also take place between Posses and Posse Leaders.
 
@@ -846,7 +846,7 @@
 
 0x6A5751CD = If all players but one fold before reaching the showdown, the final remaining player has stolen the pot and wins all the chips.
 
-0x087181F2 = Your horse will not respond to your whistle if it's too far away, stabled, or dead. It cannot come to you if you are inside a building or a cave.
+0x087181F2 = Ваш кінь не відреагує на свист, якщо він занадто далеко, знаходиться в стайні або мертвий. Крім того, він не зможе прийти до вас, якщо ви знаходитесь усередині будівлі або печери.
 
 0x45B2ADAF = In this example, the next player would need to either place a tile with 5 pips on the left, or 1 on the right.
 
@@ -936,7 +936,7 @@
 
 0x0CA39479 = Влучне око
 
-0x305ED3AA = Horse Breaking
+0x305ED3AA = Довіра коней
 
 0x50C4F781 = To start, the two players to the left of the dealer must play chips, called the small blind and the big blind. All new players to the table must contribute an ante equivalent to the big blind on their first hand. If you happen to start in the big blind position, this replaces paying the ante. Starting in the small blind position, you will top up your bet to be equivalent to the big blind. The dealer then deals two hole cards to everyone present, and the first betting round starts.
 
@@ -976,7 +976,7 @@
 
 0xD62464D7 = Лук та стріли
 
-0x80C20A1F = You will see a warning when your horse starts to become hungry or dirty. Hold ~INPUT_OPEN_WHEEL_MENU~ and navigate to the horse item menu to select and use food items or the horse brush.
+0x80C20A1F = Ви побачите попередження, коли ваш кінь зголодніє або стане брудним. Утримуйте ~INPUT_OPEN_WHEEL_MENU~ і перейдіть в меню для коня, щоб вибрати і встановити корм або скористатися щіткою для коня.
 
 0x35296D92 = A player's hand rank comes from the strongest five-card hand they can make, using any combination of their hole cards and the community cards. See the Hand Rankings column for a full list of combinations.
 
@@ -1090,7 +1090,7 @@
 
 0xB39CA281 = Grooming
 
-0xDFFAA7E3 = You can train, or 'break' wild horses to gain their trust so that you can saddle and ride them.
+0xDFFAA7E3 = Ви можете навчати або приборкувати диких коней, щоб завоювати їхню довіру, а потім осідлати та їздити на них.
 
 0x727D9310 = Useful instructions for running an illicit, but highly profitable, distillery.
 
@@ -1102,11 +1102,11 @@
 
 0x0EAA30AA = Одягайтеся за погодою: якщо вам буде надто спекотно чи холодно, це прискорить витрати статусу здоров'я. У таборі або в кравця можна підібрати собі костюм на свій смак і зберегти під обраною назвою, а також вільно міняти одяг, а перемикатися між збереженими костюмами можна і поруч з конем.
 
-0x04FDA153 = You can train, or 'break' wild horses to gain their trust so that you can saddle and ride them. Wild horses cannot be saddled or stored in your Stable.
+0x04FDA153 = Ви можете приборкувати диких коней, щоб завоювати їхню довіру, а потім сідати і їздити на них. На дикого коня не можна одягнути сідло або помістити його в стійло.
 
 0x822FF8DC = Большое огнестрельное оружие, наиболее эффективное на близком расстоянии или с множественными целями.
 
-0x91D8C611 = Horse Care
+0x91D8C611 = Догляд за конем
 
 0x94E3B57D = Check
 
@@ -1140,7 +1140,7 @@
 
 0xDA5E584E = Здоров'я, витривалість та влучне око
 
-0x99CAC32E = Hold ~INPUT_HITCH_ANIMAL~ to hitch your horse safely at a hitching post. This means it can't be stolen.
+0x99CAC32E = Утримуйте ~INPUT_HITCH_ANIMAL~, щоб надійно прив'язати коня до конов'язі. Це запобіжить його крадіжці.
 
 0xF860D916 = Study and Inspect
 
@@ -1158,7 +1158,7 @@
 
 0xFB4FB74D = You will amass a Bounty as you commit crimes.
 
-0x7B9AD8A8 = Certain plants and herbs picked in the wild can also be fed to your horse.
+0x7B9AD8A8 = Коня можна й годувати деякими рослинами та травами.
 
 0xA6B64916 = Double Down
 
@@ -1254,11 +1254,11 @@
 
 0x386C15D3 = Five Finger Fillet
 
-0x53CD3D21 = Feeding
+0x53CD3D21 = Годування
 
 0x2ECA3CA8 = Horse
 
-0x58ED5FDD = There are four levels of Bonding. As Bonding increases:~n~- Your horse's Health and Stamina will increase.~n~- Your horse will be able to locate you faster.~n~- Your horse will cross deeper water and navigate more challenging ground.~n~- Your horse will become more difficult to steal.
+0x58ED5FDD = Існує чотири рівні довіри. У міру досягнення вищих рівнів: ~n~- підвищуватиметься здоров'я і витривалість вашого коня~n~- він зможе швидше визначати ваше місцезнаходження~n~- він зможе перетинати глибші водойми та пересуватися по важкопрохідній місцевості~n~- його складніше буде вкрасти.
 
 0xDDD66E47 = Hold ~INPUT_OPEN_JOURNAL~ to open your Handheld Catalogue and order equipment and provisions. Weapons will be sent to your saddle, clothes to your Wardrobe, horses and tack to the Stable, and ammunition and provisions to the Post Office or your Camp Lockbox.
 
@@ -1272,11 +1272,11 @@
 
 0xF264EEE3 = Якщо мирний житель помітить, як ви вчиняєте злочин, він спробує повідомити про це служителя закону. Коли свідок дістанеться служителів закону, вони почнуть вас переслідувати. 
 
-0x472B8AC5 = Treats, such as Sugar Cubes, Peppermints, Common Bulrush, and English Mace will increase bonding a medium amount but will give almost no nutritional value.
+0x472B8AC5 = Ласощі, такі як кубики цукру, м'ятні льодяники, деревій агератумний і очерет, підвищують довіру на середнє значення, але вони лише злегка поживні. 
 
 0x95EBD65E = There are many different categories of weapons that you can find, buy or steal.
 
 0x07BEE891 = Madam Nazar
 
-0xABBA2FD8 = Whistling
+0xABBA2FD8 = Свист
 
