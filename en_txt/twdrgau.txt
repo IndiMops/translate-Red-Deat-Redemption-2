@@ -1,6 +1,0 @@
-TWALL_SHOPSICK1_1 = ~z~Say, you don't look so good, partner. You alright there?
-
-TWALL_SHOPSICK1_2 = ~z~I been better, but that's how it goes.
-
-TWALL_SHOPSICK1_3 = ~z~Well, hope you improve soon.
-

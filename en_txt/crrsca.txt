@@ -1,8 +1,0 @@
-D_NERV_01_CRRSC_1 = ~z~Why you so close, huh?
-
-D_NERV_02_CRRSC_1 = ~z~Alright, move away now.
-
-D_NERV_03_CRRSC_1 = ~z~You're acting mighty suspicious, my friend.
-
-D_SHOCKED_CRRSC_1 = ~z~Oh, shit...
-

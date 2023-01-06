@@ -1,8 +1,0 @@
-CDT26_ACT_1 = ~z~What is wrong with you, Arthur?
-
-CDT26_ACT_2 = ~z~How do you mean?
-
-CDT26_ACT_3 = ~z~You're hanging around camp like a bad smell.
-
-CDT26_ACT_4 = ~z~You used to be a man of action.
-

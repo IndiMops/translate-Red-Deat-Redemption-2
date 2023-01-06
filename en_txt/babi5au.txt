@@ -1,6 +1,0 @@
-BABI5_ACT_1 = ~z~Hey, reckon this could be a real ranch one day? Big head of cattle and all?
-
-BABI5_ACT_2 = ~z~I hope so, but let's take it slow. Don't wanna run before we can walk.
-
-BABI5_ACT_3 = ~z~I know. We already pushed our luck harder than we should.
-

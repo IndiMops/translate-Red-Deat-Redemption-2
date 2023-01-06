@@ -1,6 +1,0 @@
-0x9ED54091 = Aim Binoculars
-
-0xF0B749FE = Use ~INPUT_CAMERA_ZOOM~ to zoom
-
-0xF0EAE355 = Use ~INPUTGROUP_LOOK~ to look around
-

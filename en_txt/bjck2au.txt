@@ -1,8 +1,0 @@
-BJCK2_ACTA_1 = ~z~You reckon Uncle Dutch'll come visit?
-
-BJCK2_ACTA_2 = ~z~~sl:1.1~I sincerely hope not.
-
-BJCK2_ACTB_1 = ~z~Why are you asking about Dutch?
-
-BJCK2_ACTB_2 = ~z~Just thinking about him is all.
-

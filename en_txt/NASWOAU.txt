@@ -1,6 +1,0 @@
-NASWO_CVTALKWF_01 = ~t~~sl:0.0:1.6~In Spanish: You were fast, my friend.~sl:0.55:1.36~But not quite fast enough.
-
-NASWO_CVTALKWF_02 = ~t~~sl:0.0:4.63~In Spanish: You know, my father would say I am cursed for putting a white wolf in a cage...~sl:1.1:1.51~But my father was a fool...
-
-NASWO_CVTALKWF_03 = ~t~~sl:0.0:1.16~In Spanish: Let me tell you something.~sl:0.55:3.3~I am more at peace with you than with any of them.
-

@@ -1,8 +1,0 @@
-CPRS2_A_1 = ~z~We'll need more food soon, Mr. Morgan.
-
-CPRS2_A_2 = ~z~I hear you, Mr. Pearson. Feel free to go and catch it yourself.
-
-CPRS2_A_3 = ~z~I have bad luck with deer, sir.
-
-CPRS2_A_4 = ~z~But if you set me out to sea, I'll catch you a feast!
-

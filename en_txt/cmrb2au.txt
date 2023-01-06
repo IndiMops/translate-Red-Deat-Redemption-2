@@ -1,8 +1,0 @@
-CMBR2_ACT_1 = ~z~You still here? Maybe I should scratch myself and feign a limp.
-
-CMBR2_ACT_2 = ~z~
-
-CMBR2_ACT_B_1 = ~z~Ain't you got nothing better to do?
-
-CMBR2_ACT_B_2 = ~z~Whatever the beef is between you two, now ain't the time.
-

@@ -1,6 +1,0 @@
-MG_H_MILK = Нажимайте ~INPUT_MINIGAME_MILKING_LEFT_ACTION~ или ~INPUT_MINIGAME_MILKING_RIGHT_ACTION~, чтобы доить корову.
-
-MG_UC_LEFT = Слева
-
-MG_UC_RIGHT = Справа
-

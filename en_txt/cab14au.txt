@@ -1,6 +1,0 @@
-CABI14_ACT_1 = ~z~You've gotta find us some food or some money, Arthur.
-
-CABI14_ACT_2 = ~z~I know.
-
-CABI14_ACT_3 = ~z~Thank you.
-

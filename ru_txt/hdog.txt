@@ -1,8 +1,0 @@
-0xE104264F = Мертвый владелец
-
-NB_HDOG_AMBUSHER_BLIP = Враг
-
-NB_HDOG_BLIP_NAME = Бродячая собака
-
-NB_HDOG_TREASURE_BLIP = Сокровище
-

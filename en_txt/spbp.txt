@@ -1,4 +1,0 @@
-SPBP_UC_NO = No
-
-SPBP_UC_YES = Yes
-

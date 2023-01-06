@@ -1,6 +1,0 @@
-NB_NBSHIN_BLIP_NAME_CMP = Stranger Camp
-
-NB_NBSHIN_BLIP_NAME_ENE = Enemy
-
-NB_NBSHIN_HELP_POISON_POPPY = You can now make Poison Poppy's moonshine.
-

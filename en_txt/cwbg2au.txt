@@ -1,8 +1,0 @@
-CWBG2_ACTN_1 = ~z~I met an interesting feller in the swamp, real interesting.
-
-CWBG2_ACTN_2 = ~z~Did you?
-
-CWBG2_ACTN_3 = ~z~Sure... he seemed to know all about you. I mean... all about you.
-
-CWBG2_ACTN_4 = ~z~Get outta here!
-

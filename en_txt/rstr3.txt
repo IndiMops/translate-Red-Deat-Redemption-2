@@ -1,6 +1,0 @@
-0x761C241F = You gained honor as you ordered Strauss to leave the camp.
-
-STR31_LAUNCH = Greet
-
-STR33_LAUNCH = Confront
-
