@@ -4,7 +4,7 @@
 
 0x5836E98C = When ordering from the Handheld Catalogue, your purchases will be dispatched right away and can be collected from the Post Office or from your Camp's Lockbox. Weapons are immediately available from your Horse.
 
-0xC24FF833 = High Quality~n~- Prime Beef - High quality meat from animals like Cows and Buffalo~n~- Mature Venison - Cuts of high quality Deer meat~n~- Tender Pork - Succulent, filling meat from animals such as Javelina and Pigs~n~- Game - Meat from game such as Rabbits, Pheasants and Ducks~n~- Exotic Bird - Meat from rare birds such as Parrots, Pelicans and Carolina Parakeets
+0xC24FF833 = Високоякісне~n~– Першосортна яловичина – високоякісне м'ясо таких тварин, як корова та бізон~n~– Витримана оленина – частини високоякісного оленячого м'яса~n~– Ніжна свинина – соковите ситне м'ясо таких тварин, як пекарі та свиня~n~– Дичина – м'ясо таких тварин, як кролики, фазани, качки.~n~– Екзотичний птах – м'ясо рідкісних видів птахів, таких, як папуга, пелікан та каролінський папуга
 
 0x779A6F15 = Зброярі
 
@@ -44,7 +44,7 @@
 
 0x32DB50C1 = Some stores like Pearson's, Trapper, and the Gunsmith's can also offer crafting services, and can upgrade your items if you can bring the required materials for the shopkeeper to use.
 
-0x25DE95BC = Meat Types
+0x25DE95BC = Види м'яса
 
 0xC132D80F = Статуси також діють як своєрідне доповнення відповідних шкал характеристик. Якщо шкала спустошена в процесі використання здібності, статус почне швидко виснажуватися, дозволяючи вам використовувати здатність ще кілька секунд. Намагайтеся тримати статус повними, щоб гарантувати максимальний запас енергії на випадок, якщо вона вам знадобиться.
 
@@ -62,7 +62,7 @@
 
 0x304B5266 = Auto Bet
 
-0x73AAB20F = Some more unusual parts, like teeth and claws, have mysterious powers when worn as talismans.
+0x73AAB20F = Деякі частини тварин, такі як зуби та пазурі, мають таємничу силу, їх можна носити як талісмани.
 
 0xA7B1ADBB = У міру того, як ви проводитимете час з вашим конем, ваше взаєморозуміння з ним і взаємна довіра зміцнюватимуться.
 
@@ -76,7 +76,7 @@
 
 0x704E1D83 = Деякі торговці не турбуватимуть вас питаннями про те, наскільки законно було отримано ті чи інші предмети. На карті шукайте мітку ~BLIP_SHOP_SHADY_STORE~. Вкрадених коней можна продавати у стайні, щоправда, заплатять вам менше, ніж за тих, якими ви законно володієте.
 
-0x2E35EA07 = Hunting
+0x2E35EA07 = Полювання
 
 0x2EB45EC6 = Зброю можна використовувати, не злазячи з коня, але майте на увазі, що деякі коні можуть почати нервувати, якщо відчують загрозу або почують гучні звуки. Щоб не лякати коня, використовуйте безшумну зброю (наприклад, луки). Сміливість коня буде підвищуватися у міру того, як ви підвищуватимете рівень її довіри.
 
@@ -130,7 +130,7 @@
 
 0x2E1EF103 = Іноді вам будуть траплятися табори та притулку ворожих банд. Напади на ворожі укриття можуть бути смертельно небезпечними, але принесуть цінну добичу у разі успіху.
 
-0xAB5FDD6F = Animals left on your horse will eventually start to decompose. Be sure to sell, or butcher and cook, them before this happens.
+0xAB5FDD6F = Тварини, залишені на коні, згодом почнуть розкладатися. Постарайтеся продати або обробити та приготувати їх до того, як це станеться.
 
 0x2AF848D1 = У всіх містах на станціях або дільницях шерифа є дошки оголошень, на яких зазначені підозрювані у скоєнні злочинів у цій галузі. Знімайте плакати про винагороду, щоб дізнатися подробиці та почати полювання за розшукуваними.
 
@@ -188,7 +188,7 @@
 
 0x4031DDDB = Збереження
 
-0x80B0DAF3 = Each species of animal will provide a different quality of meat. The type of meat will provide different benefits and can be used for different recipes.
+0x80B0DAF3 = Кожен вид тварини надає особливий вид м'яса. Залежно від виду м'яса відрізнятимуться страви, які можна з нього приготувати, а також ефекти, що накладаються ними.
 
 0x201837E3 = Camp Raids
 
@@ -204,7 +204,7 @@
 
 0x19E41BD6 = Eagle Eye
 
-0x10092D92 = You can also use carcasses as bait. Carnivores and predators will be attracted to freshly killed animals left in the wilderness.
+0x10092D92 = Як приманку може виступати й туша тварини. Хижаків та м'ясоїдних тварин привабить свіжий труп, залишений у дикій місцевості. 
 
 0x02E02B6A = A Persistent Posse can have up to 7 players but will cost a fee to set up. It is saved, and reforms whenever the Posse Leader is online. Player stats and Awards are tracked, and you will have more freedom to customize your Posse's style.
 
@@ -232,7 +232,7 @@
 
 0x77211F90 = ~INPUT_OPEN_WHEEL_MENU~ - hold to display bait wheel~n~~INPUT_MINIGAME_FISHING_QUICK_EQUIP~ - press to quick equip bait~n~~INPUT_AIM~ - hold to grip rod~n~~INPUT_ATTACK~ - hold then release to cast out~n~~INPUT_MINIGAME_FISHING_HOOK~ - press to hook a fish / tap to flick bait~n~~INPUTGROUP_LOOK~ - move rod~n~~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ - hold to reel in~n~~INPUT_MINIGAME_FISHING_MANUAL_REEL_OUT_MODIFER~ - hold to reel out~n~~INPUT_MINIGAME_FISHING_REEL_SPEED_UP~ - press to increase reel speed~n~~INPUT_MINIGAME_FISHING_REEL_SPEED_DOWN~ - press to decrease reel speed~n~~INPUT_MINIGAME_FISHING_RESET_CAST~ - reset cast / cut line
 
-0xCB84F4D7 = When hunting, choose your weapon carefully to avoid damaging the animal's pelt too much. Carcasses which have been damaged by multiple wounds, or have been dragged around while the animal struggled, are worth less money than pristine ones.
+0xCB84F4D7 = Ретельно вибирайте зброю для полювання, щоб не надто пошкодити шкіру тварини. Туші тварин із численними ранами або пошкоджені під час боротьби коштують менше, ніж бездоганні.
 
 0xC10411EC = Blackjack
 
@@ -252,7 +252,7 @@
 
 0xED3E57D2 = Дробовики
 
-0xE579347F = Animals and birds are valuable natural resources and can be hunted for their meat, hides, and other useful materials.
+0xE579347F = Тварини та птахи є цінними природними ресурсами. Полюючи на них, можна добути м'ясо, шкури та інші матеріали.
 
 0x29763E5F = The Wheeler, Rawson and Co. Club
 
@@ -264,9 +264,9 @@
 
 0x744EB02F = Public Games and Private Games
 
-0x482375FC = метальна зброя
+0x482375FC = Метальна зброя
 
-0x5CCAB928 = You can cook meat at a campfire. When you have hunted and skinned an animal, and set up your camp, you can cook meat through the crafting menu. Using herbs and seasoning makes for a more satisfying meal.
+0x5CCAB928 = М'ясо можна готувати на багатті. Успішно вполювавши та освіживши тварину на полюванні, розбийте табір і відкрийте меню ремесел, щоб приготувати його. Використовуйте трави та спеції для смачнішої страви.
 
 0x36498292 = A Block game follows the same rules as Draw, but there is no boneyard, so players cannot draw new tiles.
 
@@ -362,7 +362,7 @@
 
 0x4FCA7807 = The player who has drawn the highest double (tile with the same number of pips on each side) begins the game by placing it, face-up, in the middle of the table. If no player has a highest double, the player with the highest value tile will go first. This creates the “line of play” and the other players, in turn, extend it by selecting tiles from their hand with matching numbers of pips on one side and placing them against the tile on the board.
 
-0xB5DDE15D = You can cook and eat many types of game, and sell hunted animals at the Butchers.
+0xB5DDE15D = Впольованих тварин можна приготувати та з'їсти або продати м'яснику.
 
 0x3AFFC12C = You can press ~INPUT_WHISTLE~ to call your horse to you. Bonding with your horse will improve how fast it can locate you. To mount any horse, stand close by and press ~INPUT_CONTEXT_Y~.
 
@@ -428,7 +428,7 @@
 
 0xCC1732BB = The herbs and plants that grow in the different regions influence your cores. Some damage and some heal. These herbs can be eaten, used in cooking, or crafted into ammunition and Tonics.
 
-0xEA187798 = Cover scents can make it harder for animals to detect your presence, allowing you to sneak up closer and catch your prey unawares. You can craft or buy a supply of cover scent.
+0xEA187798 = Завдяки нейтралізаторам запаху тваринам буде складніше виявити вашу присутність, що дозволить підібратися до жертви ближче і застати її зненацька. Нейтралізатори запаху можна купити чи виготовити самостійно.
 
 0x2141C67F = Those who purchase The Outlaw Pass, The Quick Draw Club or The Halloween Pass will receive special Pass Rewards.
 
@@ -520,7 +520,7 @@
 
 0x2B985E76 = Your Hostility will decrease over time. Track your current Hostility in the Online Options section of the Player menu.
 
-0x71188D97 = High Quality~n~- Prime Beef - High quality meat from animals like Cows and Buffalo~n~- Mature Venison - Cuts of high quality Deer meat~n~- Tender Pork - Succulent, filling meat from animals such as Javelina and Pigs~n~- Game - Meat from game such as Rabbits, Pheasants and Ducks~n~- Succulent Fish - Fillet of high quality fish like Salmon and Trout~n~- Exotic Bird - Meat from rare birds such as Parrots, Pelicans and Carolina Parakeets
+0x71188D97 = Високоякісне~n~– Першосортна яловичина – високоякісне м'ясо таких тварин, як корова та бізон~n~– М'ясо дорослого оленя – частини високоякісного оленячого м'яса~n~– Ніжна свинина – соковите ситне м'ясо таких тварин, як пекарі та свиня~n~– Дичина – м'ясо таких тварин, як кролики, фазани, качки.~n~– Соковита риба – філе риби високої якості, такий як лосось та форель~n~– Екзотичний птах – м'ясо рідкісних видів птахів, таких як папуга, пелікан та каролінський папуга
 
 0x41A4DD91 = За допомогою ласо можна заарканити тварину та знерухомити ворога – це особливо корисно під час полювання за головами, коли ціль потрібно захопити живою. Щоб накинути на ціль ласо, виберіть його так само, як і будь-яку іншу зброю, приціліться за допомогою ~INPUT_AIM~ та ~INPUTGROUP_LOOK~, а потім натисніть ~INPUT_ATTACK~.
 
@@ -612,7 +612,7 @@
 
 0x3F3D56EE = You may store your horses at the Stable. You will be given 1 stall, but more are available to purchase at the Stable. By purchasing stalls, you can store up to 10 horses. You must have an available stall in order to buy a new Horse.
 
-0x345C1413 = Best Quality~n~- Big Game - Meat from large predators such as Bears, Wolves and Alligators~n~
+0x345C1413 = Найкращої якості~n~– велика дичина – м'ясо великих хижаків, таких як ведмідь, вовк та алігатор~n~
 
 0x22667EA0 = Скритність
 
@@ -640,7 +640,7 @@
 
 0x7EE2834A = The Player menu allows you to view information on the players in your session and adjust how you interact with them, accept invitations to Free Roam Events and Posses, track your progress with Daily Challenges and your personal Log, manage your Posses and Properties, and make changes to your character. To open the Player menu tap ~INPUT_PLAYER_MENU~.
 
-0xA6DEC740 = Low Quality~n~- Gamey Bird - Low quality meat from various small birds~n~- Stringy Meat - Meat from vermin and other small animals like rats~n~- Herptile Meat - Meat from reptiles and amphibians
+0xA6DEC740 = Низькоякісне~n~- дикий птах - низькоякісне м'ясо різних дрібних птахів~n~- м'ясо гризунів та інших дрібних тварин, таких, як щури~n~- м'ясо рептилій або амфібій
 
 0x3FC1DE12 = To add Posse Members, go into Posse in the Player menu and select your Posse. Choose Invite to Posse, then find the player you would like to join and select Invite.
 
@@ -694,7 +694,7 @@
 
 0x4FFC472E = The winner's score is the total pip count of all the dominoes the losing player or players have in their hands. Games continue with new rounds until a player reaches the target score of 60.
 
-0xE6A96AF3 = If you use stealth and a silent weapon, like a bow, then you'll be able to creep closer to animals without startling them.
+0xE6A96AF3 = Приховано пересуваючись і використовуючи безшумну зброю (наприклад, лук), ви зможете підкрастися до тварин ближче, не злякавши їх.
 
 0x86BBD4A5 = Press and hold ~INPUT_FOCUS_CAM~ to activate the Cinematic Camera. This will add black bars with a mix of close-up shots and wide angles to create a dramatic view centered around your character. It can also be used while traveling on horseback to automatically guide you to your destination. Simply add a waypoint to your map via the Pause menu, spur your horse forwards and activate Cinematic Camera.
 
@@ -708,7 +708,7 @@
 
 0x35070A4E = When a hooked fish is struggling grab hold of your reel by holding ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ and ~INPUT_MINIGAME_FISHING_MANUAL_REEL_OUT_MODIFER~ to prevent the fish pulling out line. However, doing so for too long or too often may snap the line.
 
-0x0889DF28 = Companions who want to go hunting with you will be marked with a ~BLIP_REGION_HUNTING~ on the radar.
+0x0889DF28 = Компаньйони, які вирушили з вами на полювання, будуть відзначені ~BLIP_REGION_HUNTING~ на міні-карті.
 
 0xAE5E537D = When a hooked fish is struggling, it will aggressively swim to try and get away. Control the fish by pulling the rod left or right in the opposite direction to the fish movement. This will tire the fish so that it struggles less, making it easier to reel in.
 
@@ -736,7 +736,7 @@
 
 0x07D8FF50 = Block
 
-0x04F96BFC = You can cook and eat many types of game, and sell hunted animals at General Stores and Trapper stores.
+0x04F96BFC = Впольованих тварин можна приготувати та з'їсти або продати в магазинах та мисливських лавках.
 
 0x85CE21DF = Everything you earn will persist after the Club Membership period ends. Visit the Benefits section of the Pause menu for details on Reward and Offer availability.
 
@@ -780,11 +780,11 @@
 
 0x04FA38CB = To pitch your Camp or change its location, use the Camp & Properties section of the Player menu. Your Camp location is marked on the map with a ~BLIP_CAMP~.
 
-0x36112988 = You can buy or craft bait to attract wild animals. Predators and herbivores will respond to different types of bait. Drop bait on the ground, then crouch nearby to hide and stay still while waiting for the animal to arrive. The bait can take a few minutes to begin working.
+0x36112988 = Приманку для диких тварин можна купити чи виготовити самостійно. На хижаків та травоїдних діють різні типи приманок. Кинувши приманку на землю, ховайтеся неподалік і не рухайтеся, поки тварина не з'явиться. Може знадобитися кілька хвилин, щоб приманка спрацювала.
 
 0xA50B2455 = If you are a member of a Posse, you will play individually but win as a team, so help out your Posse to up your chances of a reward.
 
-0x7D5D57B6 =  Для того, щоб відновити здоров'я та зберегти гру, поспіть у таборі або на ліжку. Ви можете поспати в таборі або притулку банди, під час привалу в дикій місцевості або винайнявши кімнату в готелі.
+0x7D5D57B6 = Для того, щоб відновити здоров'я та зберегти гру, поспіть у таборі або на ліжку. Ви можете поспати в таборі або притулку банди, під час привалу в дикій місцевості або винайнявши кімнату в готелі.
 
 0xE498AE30 = Випробування
 
@@ -924,7 +924,7 @@
 
 0x38E02EC2 = The key features of life as a distinguished Collector of rare treasures.
 
-0x1DD3D7E6 = Good Quality~n~- Gristly Mutton - Filling mutton from Sheep and Goats~n~- Plump Bird - Meat from birds such as Chickens, Geese and Turkeys
+0x1DD3D7E6 = Хорошої якості~n~- Хрящувата баранина - ситне бараняче або козяче м'ясо~n~ - Огрядний птах - м'ясо таких птахів, як курка, гусак і індичка
 
 0xB921F8BE = You can quickly open the Pause Map by pressing ~INPUT_MAP~. Place a waypoint with ~INPUT_FRONTEND_ACCEPT~, or add a Marker with ~INPUT_FRONTEND_LS~. Zoom in on a town to see which amenities it offers. Your Gang Camp location is marked on the map with a ~BLIP_CAMP~.
 
@@ -932,7 +932,7 @@
 
 0x6EB99E67 = Фоторежим можна увімкнути в меню паузи. Крім того, ви можете змінити налаштування та швидко вибирати його за допомогою кнопки «Зміна ракурсу». Цю функцію можна знайти в розділі «Керування» меню налаштувань. 
 
-0xE9665CD3 = You can track nearby animals by pressing ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye. Press ~INPUT_SPECIAL_ABILITY_ACTION~ to focus on the track, making it easier to follow.
+0xE9665CD3 = Вистежувати тварин, які знаходяться неподалік, можна, натиснувши ~INPUT_SPECIAL_ABILITY~, щоб активувати «Орлине око». Щоб підсвітити слід, натисніть ~INPUT_SPECIAL_ABILITY_ACTION~– це дозволить чіткіше побачити його.
 
 0x0CA39479 = Влучне око
 
@@ -1012,13 +1012,13 @@
 
 0xBDA261BA = Competitive Challenges
 
-0xD502D0DA = Tracking
+0xD502D0DA = Відслідковування
 
 0x6E6AFEC8 = Butcher Table
 
 0x89B7E907 = Weapons require regular maintenance to keep them in good condition - if not well maintained they will become worn over time, and their accuracy, damage and reload speed can all deteriorate.
 
-0x55D0109A = Certain pelts can be used by trappers to upgrade your clothing and accessories.
+0x55D0109A = Деякі шкіри можуть бути використані мисливцем для покращення вашого одягу та аксесуарів.
 
 0x57F9B100 = Rake
 
@@ -1054,9 +1054,9 @@
 
 0xCD676118 = Незнайомці
 
-0x36AC5E6B = Hunted animal pelts and parts are stored in your Satchel or stowed on your horse. Entire animals can be stowed on your horse. Carry the carcass to the horse and hold ~INPUT_PLACE_CARRIABLE_ONTO_PARENT~ to stow. You can bring carcasses to Pearson and donate them to the gang camp, or take them to a Butcher in town to sell.
+0x36AC5E6B = Добуті шкіри тварин та інші їх частини зберігаються у вашій сумці або на коні. Цілу тварину можна нав'ючити на вашого коня. Щоб нав'ючити тушу, підтягніть її до коня та утримуйте ~INPUT_PLACE_CARRIABLE_ONTO_PARENT~. Туші можна віддавати Пірсону, жертвуючи їх на потреби банди, або ж продавати м'ясникам у місті. 
 
-0x293DEAEC = Animals and birds are valuable natural resources and can be hunted for their meat, hides, and other useful materials. Animal carcasses can be sold in town or brought back to camp to help the gang.
+0x293DEAEC = Тварини та птахи є цінною здобиччю. Полюючи на них, можна добути м'ясо, шкіру та інші матеріали. Туші тварин можна продати у місті або віддати на потреби банди.
 
 0x4DCEC134 = If your first two cards have the same value, you will have the option of splitting your hand. This separates your cards into two hands which are played independently. The new hand has a bet value equal to your initial bet - if you don't have enough chips to cover the cost of this additional bet, you will not be allowed to split.
 
@@ -1136,7 +1136,7 @@
 
 0x709CE2C3 = To wield two sidearms at the same time, you need to equip an Off-Hand Holster. Purchase one from the Handheld Catalogue or the Gunsmith. If there's no Gunsmith in town, the General Store will have a full stock of weapon accessories for you to browse. You can use the Wardrobe to equip or unequip an Off-Hand Holster.
 
-0xCC8BC47C = Low Quality~n~- Gamey Bird - Low quality meat from various small birds~n~- Stringy Meat - Meat from vermin and other small animals like rats~n~- Herptile Meat - Meat from reptiles and amphibians~n~- Gritty Fish - Fillet of low quality fish like Bluegill
+0xCC8BC47C = Низькоякісне~n~- дикі птахи - низькоякісне м'ясо різних дрібних птахів ~n~- Жилясте м'ясо - м'ясо гризунів та інших дрібних тварин, таких як щури~n~- М'ясо земноводних - м'ясо рептилій або амфібій~n~- Кістлява риба - філе риби низької якості, такий як синьозябровий окунь
 
 0xDA5E584E = Здоров'я, витривалість та влучне око
 
@@ -1154,7 +1154,7 @@
 
 0x34C9A81C = There are no lawless regions. The law are cracking down on crime throughout the states, and they will be brutal with their justice. No arrests. No interrogations. In an effort to eradicate those who besmirch the law, they will immediately shoot to kill.
 
-0x9859D6E5 = You will find many different species of animals which live in their own particular habitats around the world. Keep an eye on your Compendium and Map for hints about good hunting grounds.
+0x9859D6E5 = По всьому світу можна знайти безліч різних видів тварин, що мешкають у різних умовах. Вивчайте довідник та карту, щоб отримати підказку про те, де найкраще полювати.
 
 0xFB4FB74D = You will amass a Bounty as you commit crimes.
 
@@ -1170,7 +1170,7 @@
 
 0xADB70575 = Dominoes
 
-0x441E1425 = Hunted animal pelts and parts are stored in your Satchel or stowed on your horse. Entire animals can be stowed on your horse. Carry the carcass to the horse and hold ~INPUT_PLACE_CARRIABLE_ONTO_PARENT~ to stow. You can bring carcasses to the Butcher store in town to sell.
+0x441E1425 = Добуті шкіри тварин та інші їх частини зберігаються у сумці чи на коні. На коня можна погрузитиі всю тварину цілком. Для цього підійдіть з тушею до коня та утримуйте ~INPUT_PLACE_CARRIABLE_ONTO_PARENT~. Туші можна продати м'яснику у місті.
 
 0x4BE9D4CD = Herbs
 
@@ -1186,7 +1186,7 @@
 
 0x332AB2DE = Overview
 
-0x6ED0749C = Gathering certain animal parts will help you to unlock ranks in the Master Hunter Challenge.
+0x6ED0749C = Збір деяких частин тварин допоможе вам відкривати рівні у випробуванні майстра-мисливця.
 
 0x26CFDDC1 = Certain Awards allow you to reset your progress in exchange for Gold Nuggets.
 
@@ -1214,7 +1214,7 @@
 
 0x3ADC65E8 = As you rank up, you'll receive Tokens that can be used to unlock new skills, activities, equipment, horses and clothing. In particular, Traders can upgrade their Delivery Wagons. The larger the wagon, the greater its capacity, earning you more for each delivery. These are available to view in the Progress section of the Pause menu.
 
-0xA15E6E22 = Good Quality~n~- Gristly Mutton - Filling mutton from Sheep and Goats~n~- Flaky Fish - Satisfying fillet from fish of good quality like Perch and Bass~n~- Plump Bird - Meat from birds such as Chickens, Geese and Turkeys~n~- Crustacean - Meat from various shellfish
+0xA15E6E22 = Хорошої якості~n~ - Хрящувата баранина - ситне бараняче або козяче м'ясо~n~ - Розсипчаста риба - філе риби гарної якості, такий як жовтий окунь та інші окуневі~n~- Огрядний птах - м'ясо таких птахів, як курка, гусак і індичка~n~– Ракоподібні – м'ясо різних ракоподібних
 
 0x3F02CF7B = If no player can make a move, then the round is blocked and the winner is the player with the lowest pip count on their remaining tiles.
 
@@ -1224,7 +1224,7 @@
 
 0x347DF9A0 = Weapons are not kept in the Satchel. See the Combat section for more information.
 
-0x37E51E71 = Look out for other signs of animal life in the wilderness too, such as footprints, scat, or remains of eaten prey.
+0x37E51E71 = Зверніть увагу на інші ознаки активності тварин у дикій місцевості, такі як останки їх жертв, відбитки слідів або послід.
 
 0x55C68A18 = You can flick your Fishing Rod to help attract fish if you are not getting any bites, but doing so too often will spook them.
 

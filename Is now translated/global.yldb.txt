@@ -8329,7 +8329,7 @@
 
 0xE163F60B = Clap with enthusiasm.
 
-0x121E26C7 = Hunting
+0x121E26C7 = Полювання
 
 0xD1B0E659 = Ammo Parcel
 
@@ -12405,7 +12405,7 @@
 
 0xE8E707DB = Camp Chore
 
-0xD02CEF24 = Hunting
+0xD02CEF24 = Полювання та риболовля
 
 0xBC54DB4D = Clovelly Капелюх
 
@@ -30929,7 +30929,7 @@
 
 0x16D562C7 = The Enlightened
 
-0x8134CD26 = Hunting
+0x8134CD26 = Полювання
 
 0xBF890B7A = Chelonian
 
@@ -85920,7 +85920,7 @@
 
 0xF853CADA = Shopkeeper - Isaac Horner
 
-0x94B76740 = Hunting
+0x94B76740 = Полювання
 
 0x057BD806 = Handlebar Mustache
 
@@ -95844,7 +95844,7 @@
 
 0xF4DADFA4 = Ingredients~n~~n~Apple~n~Alaskan Ginseng~n~Currant~n~
 
-0xF5D2E09D = A beginner's guide to Hunting. Featuring information on how to track an animal, the best weapons to use and the resources animals can provide.
+0xF5D2E09D = Посібник по Полюванні для початківців. Містить інформацію про те, як вистежувати тварин, рекомендації щодо використання зброї, а також відомості про матеріали, що видобуваються з тварин.
 
 0x08A3F36F = Оглянути
 
