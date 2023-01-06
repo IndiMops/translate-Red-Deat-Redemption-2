@@ -2,7 +2,9 @@
 
 Аматорський переклад Red Deat Redemption 2. 
 
-<hr>
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/939569454390603837/1061016662167523458/banner.png" width="75%" style="text-align: center;">
+</p>
 
 ## Як встановити локалізацію?
 
@@ -15,7 +17,9 @@
 
 Для того, щоб встановити шрифт вам знадобиться  [<b>Lenny's Mod Loader</b>](https://www.rdr2mods.com/downloads/rdr2/tools/76-lennys-mod-loader-rdr/) та [<b>ASI Loader</b>](https://www.rdr2mods.com/downloads/rdr2/tools/9-rdr-2-asi-loader/) встановлюємо їх в корневу теку гри (де знаходиться файл для запуску гри `RDR2.exe`). Далі вам потрібно запустити мод менеджер та вкладці завантаження натиснути на додання моду ([ось цієї теки](https://github.com/IndiMops/translate-Red-Deat-Redemption-2/tree/main/UA%20font%20for%20RDR%202)). Наступним кроком буде увімкнення моду. Перейдіть на вкладку вище й натисніть на кнопку "ENABLED".
 
-<img src="https://media.discordapp.net/attachments/939569454390603837/1061000768569745448/image.png">
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/939569454390603837/1061000768569745448/image.png">
+</p>
 
 <b><u>Обов'язково перед запуском гри переконайтесь, що мовний пакет гри вибраний англійський!</u></b>
 
