@@ -9455,7 +9455,7 @@
 
 0xB51ECC98 = Rifleman Gloves
 
-0x78318FAC = Fishing
+0x78318FAC = Риболовля
 
 0xD7A1EF1D = Sheepskin Vest
 
@@ -10967,7 +10967,7 @@
 
 0x23713ECC = Select Kladruber Horses
 
-0x055920B6 = A beginner's guide to Poker. Featuring the rules of the game, betting and hand rankings.
+0x055920B6 = Посібник з покеру для початківців. Містить правила гри, розбір ставок та опис комбінацій.
 
 0xC93CE49A = Lenny wants to play Five Finger Fillet.
 
@@ -19069,7 +19069,7 @@
 
 0xE0550F1B = Step 1		Step 2		Step 3
 
-0xEFB91E81 = Fishing
+0xEFB91E81 = Риболовля
 
 0x151E43E7 = A page from The Pursuit: A Recovery Agent's Guide to Fugitive Capture by Foster Adair.
 
@@ -47455,7 +47455,8 @@
 
 0x4A39BE71 = Get 1 select Off-Hand Holster unlocked before Rank 70.
 
-0x5284C6BC = A beginner's guide to Five Finger Fillet. Featuring information on the different versions of the game and how to practice.
+0x5284C6BC = 
+Посібник з гри у "п'ять пальців" для початківців. Містить інформацію про різні варіанти гри та поради про те, як практикуватися. 
 
 0x5F19D352 = The save game data file appears to be damaged and cannot be loaded.
 
@@ -56399,7 +56400,7 @@
 
 0xBFE44A08 = Villain Mask
 
-0xCE8858AD = A beginner's guide to Fishing. Featuring how to fish, which equipment and bait you need, and tips on how to catch the perfect fish.
+0xCE8858AD = Посібник з риболовлі для початківців. Містить поради про те, як рибалити, яке спорядження та наживку використовувати, а також підказки про те, як упіймати чудову рибу.
 
 0xF5CC7FF2 = Regular Пальто
 
@@ -71455,7 +71456,7 @@
 
 0xA6C055B7 = Get one Ability Card безкоштовно.
 
-0xA216510E = Fishing
+0xA216510E = Риболовля
 
 0x3485E380 =  As if their history of absolute moral depravity, utter debauchery and perpetual drunkenness did not disgrace them enough! I must escape, yet I am kept prisoner here. Can you help? Most days I am to be found at the cabins on the Plantation. The main house and all it stood for are thankfully no more.~n~Yours faithfully,~n~Penelope Braithwaite
 
@@ -71935,7 +71936,7 @@
 
 0x5D340D47 = Van Horn Buckle
 
-0x8E9C3EB1 = A beginner's guide to Blackjack. Featuring the rules of the game, betting and the value of the cards.
+0x8E9C3EB1 = Посібник з блекджеку для початківців. Містить правила гри, розбір ставок та вартість карток.
 
 0x70DA20F1 = ~n~Leviticus Cornwall?
 
@@ -74617,7 +74618,7 @@
 
 0xF32AA9E3 = Worn Flat Cap
 
-0x31FFE8BB = Fishing
+0x31FFE8BB = Риболовля
 
 0x158ACC46 = No Friends
 
@@ -92060,7 +92061,7 @@
 
 0xA8BE89FB = Stenger Studded Spurs
 
-0x86E0681D = A beginner's guide to Dominoes. Featuring the rules of the game, the tile value, and information on the rounds of the game.
+0x86E0681D = Посібник з доміно для початківців. Містить правила гри, значення кістяків та інформацію про раунди гри.
 
 0xD8BCB9FB = Gilbreath Капелюх
 
