@@ -214,7 +214,7 @@
 
 0x53CE239E = In a Nominated Series, you can compete in a series of game modes, such as Name Your Weapon or Make It Count, nominated by participating players. To join a Nominated Series, go to the Social Club section of the Pause menu, select Nominations, and select a game mode. You can also join via the Quick Join section of the Player menu.
 
-0x401BD4E9 = How to Fish
+0x401BD4E9 = Як ловити рибу
 
 0x2FC8F01D = Sedating Animals
 
@@ -918,7 +918,7 @@
 
 0xB5893F92 = Tip
 
-0xDA9C5A25 = Equip your Fishing Rod from the Item Wheel then select a bait to use. You can find or buy various types of baits and lures to attract different species of fish.
+0xDA9C5A25 = За допомогою селектора предметів візьміть вудку та виберіть наживку. Ви можете знаходити або купувати різні типи наживок та приманок, щоб ловити різні види риб.
 
 0x5FFA77CE = Once you have sold an animal sample to Harriet, she will stamp the animal's entry in the Animal Field Guide. Stamp every animal in a category and you can trade the completed category for a reward. The category will then be cleared, and you can begin researching each animal again.
 

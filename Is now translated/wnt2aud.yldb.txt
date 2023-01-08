@@ -1,0 +1,638 @@
+0xC38A20AA = ~z~Well, we can't go back the way we came. Let's try this way.
+
+0xE105D2EF = ~z~We're getting you outta here.
+
+0x954A6BE2 = ~z~Grab your shotgun, come on.
+
+0xB8643A13 = ~z~And Arthur always says... I'm lucky.
+
+0x461EDA97 = ~z~~sl:0.0:1.2~Davey got shot,~lr:0.0:2.5~Mac and John... both shot too.~lr:0.4:1.6~Sean, we don't even know.~lr:0.4~I'm surprised we escaped at all.
+
+0x95D06001 = ~z~Okay, a shotgun isn't a bad idea. But let's get moving now.
+
+0xAAB9B591 = ~z~Your John'll be fine.
+
+0x6BF41A1C = ~z~I need you to...
+
+0x98B446F3 = ~z~Here, let's cross, to the left.
+
+0x63942747 = ~z~he got caught in some snowstorm.
+
+0xAE73F59C = ~z~Let's see if he can hear us.
+
+0x219BFA70 = ~z~That ain't like him, though.
+
+0xE620D4F3 = ~z~More coming in on the left!
+
+0x304D62A6 = ~z~C'mon, here we go. There we go.
+
+0x0CFFBCBD = ~t~In Spanish: Go away!
+
+0xBE469C66 = ~z~You fellers there?
+
+0x13CD4383 = ~z~They continue along the cliff wall here.
+
+0x12E9A8FF = ~z~Thank you, Mr. Morgan.
+
+0x7C7A53E1 = ~z~You want your pistol? Fine, let's just get going.
+
+0xC0051B21 = ~z~Alright, John, come on. Let's get you on that horse.
+
+0x838C90DA = ~z~Let's keep moving then, come on.
+
+0x244007C6 = ~z~Bad business alright.
+
+0xCBDA5981 = ~z~Come on, let's get you warm.
+
+0xBDCCBD66 = ~z~Thank you.
+
+0xECF65BF5 = ~z~Can we get some help?
+
+0x3E93FE35 = ~z~Hey, look. Over there, you see that?
+
+0x97108E3F = ~z~two days.
+
+0x864720F2 = ~z~You okay back there?
+
+0xD8AB6625 = ~z~Jesus.
+
+0xA71F7334 = ~z~Few hours ago, at most.
+
+0xF60C4417 = ~z~Mierda, we need to leave now.
+
+0x926DA0CF = ~z~I'm freezing.
+
+0xD6B6B6FD = ~z~Come on.
+
+0x3075D38B = ~z~Quick, Arthur!
+
+0x7E424A50 = ~z~Arthur, come on.
+
+0xAFF302A5 = ~z~Go!
+
+0x3D6C3A1E = ~z~~sl:0.0:2.7~By the time you boys showed up from the other side of town,~lr:0.4~we were only just holding on.
+
+0x6AADDE56 = ~z~Dutch killed a girl in a... a bad way, but it was a bad situation.
+
+0x7FF908C1 = ~z~We got more wolves on the left!
+
+0x4C8564F7 = ~z~And Arthur always... says I'm lucky.
+
+0x0C11C16A = ~z~It's coming from this way.
+
+0xB2B05018 = ~z~Watch your head here.
+
+0x4CEC6319 = ~z~Horses are getting tired.
+
+0x012DE39C = ~z~I know if the situation were reversed and...
+
+0xC7F6E10D = ~z~Damn it's cold.
+
+0x2916D1DA = ~z~Yeah...~rp~c'mon. ~rp~Let's push hard and get back.
+
+0x50ED33DA = ~z~Okay, good now.
+
+0xD4DBD2FF = ~z~~sl:0.0:1.3~Over here!~sl:1.2:0.9:1~Help!
+
+0xF3FD99F3 = ~z~It's coming from up ahead somewhere.
+
+0x85C9ECDA = ~z~At least go take a look.
+
+0xF58ACB32 = ~z~It's little John...
+
+0xD89E9B0C = ~z~I'm sure you did.
+
+0xD7B26EF2 = ~z~Over here!
+
+0x0138B469 = ~z~Hello? Over here!
+
+0xA24384E0 = ~z~John... took that bullet in Blackwater, he wasn't so strong when he rode out.
+
+0xB1F7BBE3 = ~z~Come on, let's get the hell outta here.
+
+0xA398DFE6 = ~z~Oh... that's...
+
+0x212FE1A3 = ~z~Sure, well, come on then.
+
+0x1E39FE43 = ~z~Not today.
+
+0xFDA5236C = ~z~No, Pinkertons. It was crazy. Raining bullets.
+
+0x0F9E95CD = ~z~~sl:0.0:1.1~For all we know,~sl:0.6~...he kept riding north and never looked back.
+
+0x46B48DCF = ~z~Nah, ~rp~you can do better than that. ~rp~One thing you ain't short on is fantasy.
+
+0xA1EE036A = ~z~~sl:0.6:0.0:1~Hey, over here!
+
+0xA6B3D091 = ~z~when the weather breaks I...
+
+0x69D74A3D = ~z~This way. Last I know, John was headed up the river.
+
+0xF751A6D6 = ~z~I can see the tracks here, Arthur.
+
+0x467DCF30 = ~z~He's strong and he's smart.
+
+0x949B2C60 = ~z~East? Into all that...
+
+0xBD54C773 = ~z~Arthur, distract 'em! Keep 'em off us!
+
+0xA35D0807 = ~z~You getting that gun then?
+
+0x30EBEDC3 = ~z~None of us are lucky right now.
+
+0xCFA6A497 = ~z~We'll lose these tracks if we don't move fast.
+
+0x616F0C2A = ~z~Of course. ~rp~That bullet in Blackwater,~rp~ now this? ~rp~You had a hell of a time.
+
+0xDC81CD66 = ~z~Come on, Arthur.
+
+0x62D548D5 = ~z~suppose we'll have to keep heading east.
+
+0x5D34C904 = ~z~More there.
+
+0xB4136E1E = ~z~~sl:0.0:1.9~I'd grab that shotgun from your horse.~sl:0.3~Who knows what's up ahead.
+
+0x2643DB23 = ~z~Look.
+
+0xF73A9133 = ~t~In Spanish: Get lost!
+
+0x655D2261 = ~z~Mierda, we're high up here.
+
+0x23FB105E = ~z~Watch out for this crevice.
+
+0x9B5DD750 = ~z~We had the money, it seemed fine, then suddenly they were everywhere.
+
+0x669B7471 = ~z~~sl:0.8:0.7:1~Thanks.
+
+0xE344A6A6 = ~z~I-I'm sorry, I'm sorry to ask but...
+
+0xBFB3A53E = ~z~Watch yourself, not very wide here.
+
+0x69376007 = ~z~Look out on the right!
+
+0xC011B386 = ~z~Up the hill here.
+
+0xACDD16C4 = ~z~John!
+
+0x652334FB = ~z~Stay low under here.
+
+0x09153D95 = ~z~Grab your gun, come on.
+
+0xD205C3E4 = ~z~Down here!
+
+0x38D53A12 = ~z~Take it slow, big ravine here.
+
+0x4DA5BA8E = ~z~recently...
+
+0x06663C69 = ~z~Yeah...~rp~c'mon, ~rp~let's push hard and get back.
+
+0xC187FF03 = ~z~Don't die just yet, cowboy.
+
+0x3A0AB5E4 = ~z~how we're gonna get out of this?
+
+0xAF0F5A12 = ~z~You don't look so good.
+
+0x72B6273A = ~z~Thank you, Arthur. Thank you.
+
+0xD811FCED = ~z~Distract them, Arthur. Shout, shoot, do something!
+
+0xBB571D73 = ~z~~sl:0.0:0.8:1~How you doing?
+
+0x7B6329F1 = ~z~~sl:1.7:0.0~Well done, Arthur.
+
+0xD07A5EDE = ~z~More coming down the hill!
+
+0x1EC30973 = ~z~Of course. ~rp~That bullet in Blackwater,~rp~ now this. ~rp~You had a hell of a time.
+
+0xCDA3365D = ~z~Ok. Here we go, John. We'll leave them to Arthur.
+
+0x30D3A3E4 = ~z~The weather ain't let up.
+
+0xE5650A57 = ~z~Here!
+
+0x9A97D509 = ~z~Over here!
+
+0x734CC6B8 = ~z~he's got himself caught into a scrape again.
+
+0x5DEFB7D4 = ~z~I don't feel too good neither.
+
+0x050E05C9 = ~z~He's down here.
+
+0x8A05AE31 = ~z~Can we get some help here?
+
+0x2493AA6F = ~z~Javier, will you ride out with Arthur...
+
+0x2F20A0E8 = ~z~~sl:0.0:0.8~I'm here!~sl:0.5~Out on the ledge!
+
+0x2238C67D = ~z~You're alive! Oh you're alive!
+
+0xAD0B924B = ~z~Hey, stay on these tracks. Come on.
+
+0xC284B9D8 = ~z~You see any more, Arthur?
+
+0xC501A5D9 = ~z~~sl:0.0:1.1~Hey, Arthur.~sl:1.7~I appreciate the help.
+
+0xFA611427 = ~z~~sl:0.0:1.2~You'll be fine.~sl:0.5~It's just like a... a dog bite.
+
+0x66771BEC = ~z~Let's cross.
+
+0x04A30C72 = ~z~Come on, Herr Strauss. Let's get warm.
+
+0x1C8BC503 = ~z~Thanks for coming for me.
+
+0x54456ABF = ~z~Strong at least.
+
+0xFCA29680 = ~z~You head for the horses, I'll keep John's friends off until you're clear.
+
+0x53BFF67A = ~z~See, they continue up that way.
+
+0xAA453D20 = ~z~Get the hell out of here! Get out!
+
+0x84446ACA = ~z~Okay, let's get going, before any more of these bastards show up.
+
+0xF047A25F = ~z~Have you and Dutch talked about...
+
+0x942867DF = ~z~Here!
+
+0x5DA21054 = ~z~I don't think we can go much further on the horses. We'll have to walk from here.
+
+0x5005802A = ~z~but that ain't changing because...
+
+0x24911EBA = ~z~What's wrong, Arthur?
+
+0x4953C88D = ~z~Don't bring them this way.
+
+0x688C10A7 = ~z~Hey!
+
+0x729BAE2E = ~z~We're coming, John!
+
+0xC699367A = ~z~You sure about this?
+
+0x3B0C83B2 = ~z~Shit, there's more on the right!
+
+0x66EBC9CC = ~z~Come on, compadre.
+
+0x0D6B9CDF = ~z~C'mon, help him down.
+
+0x865C8FE3 = ~z~I was just discussing with Herr Strauss...
+
+0x83D0C4AC = ~z~John, where are you?
+
+0x87911F36 = ~z~Up this way.
+
+0x54F12BED = ~z~Ay, careful idiotas, it's his leg.
+
+0xE7C107B5 = ~z~Not that way.
+
+0xB43ACFB3 = ~z~Thank you.
+
+0x46838F12 = ~z~
+
+0x7B15E8CA = ~z~Do something, Arthur!
+
+0x61A2FDDE = ~z~Let's hope it ain't more of O'Driscoll's boys.
+
+0x7D7B7593 = ~z~John!
+
+0xB187A019 = ~z~John, can you hear me?
+
+0xCE713145 = ~z~You're gonna have to move a bit faster.
+
+0xF4425253 = ~z~Can't... argue with you there.
+
+0xA83F8FAC = ~z~You got 'em all. Good work, Arthur.
+
+0x20EB040B = ~z~Hello, Arthur.
+
+0xDA6857B9 = ~z~resting here in some old abandoned mining town...
+
+0x012E10F8 = ~z~There's more tracks.
+
+0xB25A8A8C = ~z~Careful, it's getting narrow here.
+
+0x37D80E57 = ~z~This ain't good.
+
+0x90E73A83 = ~z~John was riding that horse when we left Blackwater.
+
+0x854485F7 = ~z~Careful here.
+
+0x5F8D5E5D = ~z~~sl:0.0:1.7~and...~sl:0.7~that way.
+
+0x2247EDD6 = ~z~~sl:0.0:0.9:1~Okay...
+
+0x123E4BB8 = ~z~~sl:0.0:1.0:1~I know...
+
+0x2F81C64B = ~z~he'd look for me.
+
+0xF3941BCE = ~z~Drops down here, watch yourself.
+
+0xF1039D8E = ~z~Alright. Pipe down, Marston!
+
+0x218490D2 = ~z~Quick, Arthur
+
+0xBAC8337A = ~z~Up there, more of 'em!
+
+0xE883706C = ~z~I knew a feller, got bit by a dog. Died an hour later.
+
+0x738486E7 = ~z~I'm down here!
+
+0xC3415E76 = ~z~What are you doing, Arthur?
+
+0x16A40E90 = ~z~Yes?
+
+0x70F184CD = ~z~Hardly the spring I had been hoping for.
+
+0x3DB5EF2B = ~z~That sounds closer now. Come on.
+
+0x82F41486 = ~z~You see?
+
+0x8572EB04 = ~z~He ain't been seen in two...
+
+0xBDDC9EA2 = ~z~We have been running for weeks.
+
+0x9B5AF8E9 = ~z~Just fine, Abigail... and you?
+
+0x9190F93E = ~z~Drink some whiskey, should warm you up.
+
+0x087933E2 = ~z~while we wait the thaw.
+
+0x6B9FFF60 = ~z~Bounty hunters?
+
+0x0D79CC8F = ~z~There's some tracks leading to the river.
+
+0xC5001390 = ~z~Gap here.
+
+0x64E52FFC = ~z~What are you waiting for?
+
+0x61523136 = ~z~You alright?
+
+0xB3E92E8F = ~z~Come on, hopefully this will lead us out.
+
+0x1E4BC1E0 = ~z~~sl:0.6:0.0~Damn snow's coming in hard again.
+
+0xA42E91F7 = ~z~Do you think it's John?
+
+0x95E5E8D6 = ~z~John!
+
+0xF7BDB223 = ~z~That's John! We're coming!
+
+0xC8F415EF = ~z~We had the money, it seemed fine, and then suddenly... they were everywhere.
+
+0x52C9FB2B = ~z~Keep moving, come on.
+
+0x2F1E33D4 = ~z~Are you coming?
+
+0xAF65CEE9 = ~z~~sl:0.0:1.0:1~Get outta here!
+
+0xE451A0A2 = ~z~Let's go, come on.
+
+0x3085A340 = ~z~Abigail.
+
+0x55676300 = ~z~The tracks lead this way, Arthur.
+
+0x97398FB9 = ~z~Javier?
+
+0x3E175C4E = ~z~he may be as dumb as rocks and as dull as rusted iron...
+
+0xB1E9F837 = ~z~Let's keep moving.
+
+0xE9594EA9 = ~z~it's good to see you, Arthur Morgan.
+
+0xB6B46ED3 = ~z~Perfect.
+
+0x29647586 = ~t~In Spanish: Get away from me!
+
+0x6E2D4224 = ~z~Come on, jump.
+
+0x55EDD6F1 = ~z~You getting that pistol?
+
+0x40C34848 = ~z~No, I-I don't think so. That's hard to tell.
+
+0xE8F5277F = ~z~Let's go.
+
+0xD488A979 = ~z~You know, ~rp~we're gonna need to come up with a better story for that scar.
+
+0x64630A94 = ~z~You got any other lost maidens need saving?
+
+0x79A91087 = ~z~I'll distract them while you get to the horses. Go, I'll draw 'em off you.
+
+0x1F8D0157 = ~z~He ain't been seen in days.
+
+0x82DF4C83 = ~z~Okay... let's keep our eyes and ears open.
+
+0x80D3FC40 = ~z~John, you there?
+
+0x2E9646FA = ~z~Ain't you a sorry sight?
+
+0x4EBADCBB = ~z~~sl:0.0:1.3~Davey got shot,~lr:0.2:2.2~Mac and John... both shot too.~lr:0.0:1.9~Sean, we don't even know.~lr:0.3~I'm surprised we escaped at all.
+
+0x4A52F5ED = ~z~to take a look for John?
+
+0x584791D6 = ~z~You're the two best fit men we've got.
+
+0x3811CA8B = ~z~Come on then, let's get back to the others.
+
+0x7B8F4EC5 = ~z~You're telling me.
+
+0x637A7B95 = ~z~Careful, there's a drop here.
+
+0x0987CB42 = ~z~Where are you going?
+
+0xE6635D05 = ~z~Just about.
+
+0xD04C30D3 = ~z~You still with us, Marston?
+
+0x75C07B91 = ~z~Up here, come on.
+
+0x283B53A2 = ~z~the west is where our problems are worse.
+
+0xFBD24D39 = ~z~Come on.
+
+0x8108CBAE = ~z~Dutch killed a girl in a... bad way, but it was a bad situation.
+
+0x7BE81712 = ~z~~sl:0.0:0.8~Well...~sl:2.9~...seems somebody left...
+
+0xDC06994E = ~z~Now?
+
+0x77A45DE2 = ~z~~sl:0.8:0.0~I think so...
+
+0xEBE8CF0C = ~z~Even Abigail said it was just a graze.
+
+0xC5203625 = ~z~What now?
+
+0xBE6898BF = ~z~Tracks go left, down here.
+
+0x42A39747 = ~z~Okay from here.
+
+0x9E75B859 = ~z~Watch out here.
+
+0x03176FFD = ~z~See, I told Dutch you weren't the right man for this.
+
+0x6FB0628B = ~z~I know...
+
+0x1C658725 = ~z~~sl:0.0:2.4~By the time you boys showed up from the other side of town,~lr:0.5~we were only just holding on.
+
+0x929BA701 = ~z~Thank you, Mr. Morgan.
+
+0xC1F14370 = ~z~Right here!
+
+0xC88CA9D5 = ~z~~sl:0.0:1.8:1~Come on... up there!
+
+0xA10A437F = ~z~Shit.
+
+0xBD9D21FF = ~z~~sl:0.0:1.0:~I'm miserable.~sl:1.1:1.4:1~Been a tough few days.
+
+0x2803C3C7 = ~z~Hey! Over here!
+
+0x1787DAF7 = ~z~Damn it, we're losing the tracks.
+
+0xEF9B4077 = ~z~we're pretty worried about him.
+
+0x25F8EB56 = ~z~~sl:0.0:1.2~You ain't gonna die. ~sl:0.9~Not yet.
+
+0x044AAFD1 = ~z~~sl:0.0:1.8:1~I'm not designed for this snow...
+
+0x82E701C6 = ~z~That's quite a scratch you got there.
+
+0x3B0EA1D6 = ~z~Almost there, boy, come on now!
+
+0x59975F11 = ~z~Keep going up this way for now, I guess. It's the only path from here.
+
+0x8D995D66 = ~z~Arthur... how you doing?
+
+0x6165B56A = ~z~Arthur!
+
+0x4BE4D262 = ~z~Hey, I see some smoke. Come on, let's take a look.
+
+0x315F3B6B = ~z~We should ride in the water for a bit, ~rp~try to lose the scent. ~rp~Don't want to leave a trail right back to camp.
+
+0x3EF1810E = ~z~that civilization?
+
+0x8546AA6B = ~z~Hey!
+
+0x2C88E7AD = ~z~There.
+
+0xF8BDED72 = ~z~Never thought I'd say this, but...
+
+0x6B89D1AC = ~z~Marston, you hear me?
+
+0x1FB3C16F = ~z~We need some help here!
+
+0x337A675B = ~z~Let's just get back to camp while we're all still breathing, ~rp~then we can tell all the stories we want.
+
+0xDAACD818 = ~z~Get the hell outta here!
+
+0xB5E8356A = ~z~You tell me. ~rp~These are horse tracks for sure, but... could be anyone.
+
+0xD4D0B9E0 = ~z~You're gonna be okay. ~rp~We have some shelter now.
+
+0x483CED1B = ~z~You see that, on the ridge?
+
+0xE1D0A4E2 = ~z~She's... we're all...
+
+0x39B7E10C = ~z~I don't know about this, Javier. W-we can't follow nothing.
+
+0xAF2AB241 = ~z~See those buildings up ahead, John? That's where we're camped. Nearly there.
+
+0xCF445420 = ~z~Keep them away from us.
+
+0x176C3D74 = ~z~This way.
+
+0xB44B1D65 = ~z~Don't think so.
+
+0xB590799B = ~z~Stay close to the wall.
+
+0xEF109978 = ~z~Help me!
+
+0x7C34928F = ~z~Come on! Someone help John down off this horse.
+
+0x531394B9 = ~z~
+
+0x543C806A = ~z~Let's go, Arthur.
+
+0x44C0FC21 = ~z~Get 'em off us!
+
+0x8AF37287 = ~z~Look up there.
+
+0x25C7B92C = ~z~Let's push on a little bit, maybe we'll pick up the trail again.
+
+0x3F1996E9 = ~z~Hey! Help! Here!
+
+0xA0678F2B = ~z~~sl:1.6~Bad business alright.
+
+0xE324AD42 = ~z~Here, let's cross to the left.
+
+0x54052870 = ~z~So, ~rp~freezing, ~rp~bleeding, ~rp~starving, ~rp~damn near getting eaten to death, ain't good enough for you?
+
+0x1D4A8157 = ~z~Look, think there's other tracks here too.
+
+0x0D136380 = ~z~The horses are struggling.
+
+0x5A063737 = ~z~Come on, Herr Strauss. Let's get warm.
+
+0x48E7539D = ~z~This is a new low, even by your standards.
+
+0x37C91C93 = ~z~I'd grab that pistol from your horse. Who knows what's up ahead.
+
+0x52F1ECA5 = ~z~Yes, strange... another horse?
+
+0xB3917803 = ~z~
+
+0xE288E7D0 = ~z~Stay back!
+
+0x472D367B = ~z~So... you were there, Javier, what really happened on that boat?
+
+0x3079CE90 = ~z~Yeah, a lot of fresh snow here.
+
+0xE90DF504 = ~z~We found shelter and been...
+
+0x4741209E = ~z~Ah, that's better.
+
+0xB433A7F5 = ~z~~sl:0.4:0.0~Hey!
+
+0x1FB766AA = ~z~~sl:0.0:2.3:1~Here... take a drink of this.
+
+0x4F0F18B7 = ~z~Marston!
+
+0x667B24E7 = ~z~Quick, before any more show up.
+
+0x1BF54667 = ~z~Watch your step, this is real slippery.
+
+0x726ECB0F = ~z~Just jump, Arthur.
+
+0x1D603150 = ~z~He wouldn't leave. Not like that.
+
+0x2D307298 = ~z~John took that bullet in Blackwater, wasn't so strong when he rode out.
+
+0xC5B62E2B = ~z~Get outta here!
+
+0x7DB030F5 = ~z~Draw them off us, Arthur.
+
+0x57201472 = ~z~It's fine, Arthur, come on.
+
+0x1F51D341 = ~z~Quick as you can, come on.
+
+0xE5FC475D = ~z~It's slippery, be careful.
+
+0x07B1D8FC = ~z~Let's just see where they lead.
+
+0x319877CE = ~z~Stay with me, Arthur.
+
+0x5793F0F6 = ~z~Thank you both.
+
+0xC3B126C8 = ~z~I don't feel too good.
+
+0x6C50CF38 = ~z~Well, wouldn't be the first time.
+
+0xB47C94A5 = ~z~Come on.
+
+0xCA344B18 = ~z~Come on, boy.
+
+0x2C85B92B = ~z~I mean...
+
+0xAE5C101B = ~z~They, uh... go up to the top of the ridge.
+
+0xADFE29C7 = ~z~Over here, Arthur.
+
+0x38E49D73 = ~z~Down this way.
+

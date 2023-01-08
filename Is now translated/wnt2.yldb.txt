@@ -1,0 +1,78 @@
+0x21B82FC5 = Horse Stamina is displayed in the lower left corner. Stamina drains when your horse gallops or jumps.
+
+0x4280F52C = Dead horse
+
+0xBF7A553F = While viewing cinematic camera your horse will automatically follow roads and other paths.
+
+0x8610DB9C = Approach the saddle on your ~o~horse~s~
+
+0xED7278D9 = Walk
+
+0x94A66D54 = Call to John
+
+0xBD661AE3 = Abandoned camp
+
+0x4956AAC6 = Hold ~INPUT_OPEN_WHEEL_MENU~ to view your stored weapons
+
+0x9358BED1 = Release ~INPUT_OPEN_WHEEL_MENU~ to equip
+
+0xDD276731 = Item effects are shown at the bottom of the Satchel. Eat a provision with the Stamina Core icon to refill your Stamina Core.
+
+0x9C856EE9 = Horse health is displayed in the lower left corner. Your horse will collapse if its health bar fully depletes.
+
+0x18FA1741 = You lost John and Javier.
+
+0xD03EA90D = Keep the ~e~wolves~s~ away from Javier and John
+
+0x93D0FA61 = John and Javier were abandoned.
+
+0x2FCD81B5 = Kill the ~e~wolves~s~
+
+0x1D198D9F = To change camera distance and perspective press ~INPUT_NEXT_CAMERA~.
+
+0xC469EC66 = Hold ~INPUT_HORSE_SPRINT~ while viewing cinematic camera to automatically follow roads and other paths.
+
+0x4027759F = ~INPUT_DUCK~ Stand up
+
+0x11C56901 = To exit cinematic camera press ~INPUT_CINEMATIC_CAM~.
+
+0x1B2F5C56 = Stamina is displayed in the lower left corner. The outer bar depletes when you run, jump or climb. The level of the inner Core influences how quickly your Stamina refills.
+
+0x36ED85F4 = Use ~INPUTGROUP_RADIAL_MENU_NAV~ to select Sidearms
+
+0xFFA7FCEE = Press ~INPUT_TOGGLE_HOLSTER~ to put away an equipped weapon.
+
+0x51689FC2 = Hold ~INPUT_INTERACT_LOCKON~ to lock on an animal and press ~INPUT_INTERACT_LOCKON_CALL_ANIMAL~ to attract attention.
+
+0xAA93820A = You can access your Satchel by holding ~INPUT_OPEN_SATCHEL_MENU~.
+
+0x2C564501 = Your horse will not gallop when its Stamina is empty. Slowing down will allow your horse to regain Stamina.
+
+0xFA176A05 = You can only carry one sidearm at a time. You can swap your carried weapons with weapons stored on your horse ~1b~.
+
+0xC90490C0 = ~INPUT_ENTER~ Mount your ~o~horse~s~
+
+0xF8F1A656 = Camp
+
+0x2976F8E5 = Your Stamina Core is empty. Your movement speed will be limited.
+
+0x606FE6EF = Use ~INPUT_MOVE_UP_ONLY~ and ~INPUT_JUMP~ to climb
+
+0xE2C03811 = Return to ~o~John~s~ and ~o~Javier~s~
+
+0xD277E225 = Use ~INPUTGROUP_MOVE~ to follow ~o~Javier~s~
+
+0xCAD60AFE = ~INPUT_DUCK~ Crouch
+
+0xA598E351 = Use ~INPUT_RADIAL_MENU_SLOT_NAV_PREV~ or ~INPUT_RADIAL_MENU_SLOT_NAV_NEXT~ to select Sawed-Off Shotgun
+
+0x7E70C256 = To activate cinematic camera hold ~INPUT_CINEMATIC_CAM~.
+
+0xC45758FE = Sure?
+
+0x9531EFD8 = To change cinematic camera press ~INPUT_CINEMATIC_CAM_CHANGE_SHOT~.
+
+0xE426EDDE = Your Stamina Core is no longer empty. Continue to eat and drink to maintain your Cores.
+
+0xACFDA8F5 = John's horse
+
