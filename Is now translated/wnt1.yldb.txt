@@ -6,17 +6,17 @@
 
 0x01F3359C = Like with weapons, while highlighting an item with ~INPUTGROUP_RADIAL_MENU_NAV~ release ~INPUT_OPEN_WHEEL_MENU~ to use them.
 
-0x9D9BAF33 = Tap ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_SPEEDUP~ to ride faster
+0x9D9BAF33 = Швидко натискайте ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_SPEEDUP~, щоб скати швидше
 
 0x2257344A = Player horse
 
 0x76B07022 = Deal with the ~e~O'Driscoll~s~
 
-0x7672252A = Dutch
+0x7672252A = Датч
 
 0x1787C205 = Pick up
 
-0x2388F29A = Micah
+0x2388F29A = Міка
 
 0x46C4BA45 = Gang horse has died.
 
@@ -26,7 +26,7 @@
 
 0x28305069 = ~INPUT_MELEE_GRAPPLE~ Grab the ~e~O'Driscoll~s~
 
-0xF3F48A10 = Hold ~INPUT_HITCH_ANIMAL|PromptId=HitchingPrompt,Gutter~ to hitch your horse
+0xF3F48A10 = Утримуйте ~INPUT_HITCH_ANIMAL|PromptId=HitchingPrompt,Gutter~, щоб прив'язати свого коня.
 
 0xA44102B7 = Continuing to bond with your horse increases its trust in you and improves its attributes.
 
@@ -34,7 +34,7 @@
 
 0xDB163668 = Horse
 
-0x63DE5442 = Different items have different effects. Eating food will refill your Health Core. Better quality food will refill more Core.
+0x63DE5442 = Різні предмети мають різні ефекти. Їжа буде відновлювати ваше здров'я. Чим вища якість їжі, тим більше вона відновить здоров'я.
 
 0xA37F76D0 = Hold ~INPUT_AIM~ to focus on the ~e~O'Driscoll~s~
 
@@ -44,7 +44,7 @@
 
 0x53DA90B9 = Good?
 
-0xC391B1A3 = Eat a Provision to restore some Health Core
+0xC391B1A3 = Зїште який-небудь провіант, що відновити здоров'я.
 
 0x705245AB = You are drunk.
 
@@ -52,13 +52,13 @@
 
 0xEBBEE4F4 = Look
 
-0xB0CA47C3 = Hold ~INPUT_SPRINT|PromptID=INPUT_WNT1_SPRINT2~ to sprint
+0xB0CA47C3 = Утримуйте ~INPUT_SPRINT|PromptID=INPUT_WNT1_SPRINT2~, щоб бігти.
 
 0xC9F5F6EE = While holding ~INPUT_INTERACT_LOCKON~ you can talk to Dutch by pressing ~INPUT_INTERACT_LOCKON_POS~.
 
 0x8DB1F2C1 = Interrogate the ~e~O'Driscoll~s~
 
-0xBB711BBA = Go to the ~o~shed~s~ then press ~INPUT_COVER~ to take cover
+0xBB711BBA = йдіть в ~o~хлів~s~, а тоді натисніть ~INPUT_COVER~, щоб зайняти укриття.
 
 0x6F97C94C = Skip
 
@@ -66,7 +66,7 @@
 
 0x294B58BC = Lead the horse to the ~o~hitching post~s~
 
-0xD4F8A369 = Tap ~INPUT_HORSE_SPRINT|PromptID=INPUT_WNT1_SPR~ to move up the formation
+0xD4F8A369 = Натисніть ~INPUT_HORSE_SPRINT|PromptID=INPUT_WNT1_SPR~, щоб зміститися блище до початку строю.
 
 0xFFB1A4FB = To perform an extended search hold ~INPUT_LOOT~.
 
@@ -82,23 +82,23 @@
 
 0xED12C5B0 = ~INPUT_INTERACT_LOCKON_ANIMAL~ Calm the ~o~horse~s~
 
-0x88820009 = Follow ~o~Micah~s~
+0x88820009 = Йдіть за ~o~Мікою~s~
 
-0x16B79780 = ~INPUT_ATTACK~ Shoot
+0x16B79780 = ~INPUT_ATTACK~ Вистрілити
 
-0x046E5281 = Hold ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_SPEEDUP~ to ride faster
+0x046E5281 = Утримуйте ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_SPEEDUP~, щоб скакати швидше
 
-0x96831F86 = ~INPUT_RELOAD~ Reload
+0x96831F86 = ~INPUT_RELOAD~  - перезарядити зброю.
 
-0xE200F4F6 = Hold ~INPUT_PICKUP_CARRIABLE|PromptId=ItemPickupPrompt,Gutter~ near items to pick them up while searching the ~o~house~s~
+0xE200F4F6 = Утримуйте ~INPUT_PICKUP_CARRIABLE|PromptId=ItemPickupPrompt,Gutter~, щоб піднімати предмети під час обшуку ~o~будинку~s~.
 
 0xFDD0878D = Press ~INPUT_SELECT_NEXT_WHEEL~ to access the Item Wheel
 
 0x4A69108B = Slow
 
-0xD087BDD7 = Your Health Core drains over time and is now empty. While empty you will experience negative effects.
+0xD087BDD7 = Статус здоров'я знижується згодом і тепер на нулі. Ви відчуватимете негативні ефекти поки він на нулі.
 
-0xA758DDD7 = Hold ~INPUT_AIM~ to aim
+0xA758DDD7 = Утримуйте ~INPUT_AIM~, щоб прицілитись.
 
 0xC0AADFAE = Hold ~INPUT_INTERACT_LOCKON~ to focus on the ~o~horse~s~
 
@@ -112,11 +112,11 @@
 
 0x21459656 = Beat
 
-0x3E33EC6F = Hold ~INPUT_SPRINT|PromptID=INPUT_WNT1_SPRINT,Gutter~ to run after the ~e~outlaw~s~
+0x3E33EC6F = Утримуйте ~INPUT_SPRINT|PromptID=INPUT_WNT1_SPRINT,Gutter~, щоб бігти за ~e~бандитом~s~
 
 0x1DCB444E = Investigate the noise inside the ~o~house~s~
 
-0x85291704 = Toggle ~INPUT_SPRINT|PromptID=INPUT_WNT1_SPRINT,Gutter~ to run after the ~e~outlaw~s~
+0x85291704 = Натисніть ~INPUT_SPRINT|PromptID=INPUT_WNT1_SPRINT,Gutter~, щоб біжати за ~e~бандитом~s~
 
 0xD22585AB = Double tap and hold ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_RALONG,Gutter~ to ride alongside ~o~Dutch~s~
 
@@ -126,7 +126,7 @@
 
 0x2541AC8C = Pick up your ~o~hat~s~
 
-0xF1BF414B = Hold ~INPUT_HORSE_MOVE_UP_ONLY|PromptId=INPUT_WNT1_MSPEED~ to match speed with ~o~Dutch~s~
+0xF1BF414B = Утримуйте ~INPUT_HORSE_MOVE_UP_ONLY|PromptId=INPUT_WNT1_MSPEED~, щоб рухатись разом із ~o~Датчем~s~
 
 0xDAAD4124 = Interrogate
 
@@ -150,11 +150,11 @@
 
 0xFE3BE4F6 = Spare
 
-0x9E1242C1 = Follow ~o~Dutch~s~
+0x9E1242C1 = Йдіть за ~o~Датчем~s~
 
-0x5CB0623F = Join ~o~Dutch~s~ outside after searching for supplies
+0x5CB0623F = Знайти припаси, а тоді повертайся до ~o~Датча~s~.
 
-0x2BDE142A = Approach the ~o~horse~s~
+0x2BDE142A = Підійдіть до ~o~коня~s~
 
 0x726D324F = Hitch your horse at a ~o~hitching post~s~
 
@@ -162,9 +162,9 @@
 
 0x808ABED3 = Return to the ~o~ranch~s~
 
-0x794E6348 = Approach the ~o~hitching posts~s~
+0x794E6348 = Підійдіть до ~o~конов'яза~s~.
 
-0xCE873EE3 = Are you sure about this?
+0xCE873EE3 = Ти впевнений на рахунок цього?
 
 0xF9F05774 = Drinking some whiskey will increase the Stamina Core meter if low. This will help Arthur's stamina to recover quicker.
 
@@ -188,7 +188,7 @@
 
 0xB493357B = Micah's horse
 
-0x2AD0C18A = The outer bar shows your remaining health. The level of the inner core influences how quickly your health refills.
+0x2AD0C18A = Зовнішня шкала показує решту вашого здоров'я. Статус у середині шкали впливає на швидкість відновлення здоров'я.
 
 0xA426B2D1 = Return to ~o~Dutch~s~
 
@@ -198,7 +198,7 @@
 
 0xB5880229 = Press ~INPUT_CONTEXT_X~ to question him. ~n~Press ~INPUT_CONTEXT_B~ to beat him.
 
-0x63244869 = Blood
+0x63244869 = Кров
 
 0xD6D36A63 = Question
 
@@ -214,9 +214,9 @@
 
 0x6AD99B89 = The cabin was abandoned.
 
-0xA1CDE5E2 = Use ~INPUTGROUP_RADIAL_MENU_NAV~ to select a weapon and release ~INPUT_OPEN_WHEEL_MENU~ to equip.
+0xA1CDE5E2 = Вокористовуйте ~INPUTGROUP_RADIAL_MENU_NAV~, щоб вибрати зброю, а потім відпускайте ~INPUT_OPEN_WHEEL_MENU~, щоб дістати її.
 
-0xA4D39698 = Use ~INPUT_MOVE_RIGHT_ONLY~ to peek out of cover
+0xA4D39698 = Вокористовуйте ~INPUT_MOVE_RIGHT_ONLY~, щоб виглянути з укриття
 
 0xDBFE7E2B = Taking a Health Cure will restore your health. To use a Health Cure access the Item Wheel by holding ~INPUT_OPEN_WHEEL_MENU~.
 
@@ -226,9 +226,9 @@
 
 0xA369C0CE = Hold ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_FMIC,Gutter~ to match speed with Dutch and ~o~Micah~s~
 
-0xF1062F04 = Use ~INPUT_HORSE_MOVE_UP_ONLY|PromptId=INPUT_WNT1_MFWD~ to follow ~o~Dutch~s~
+0xF1062F04 = Використовуйте ~INPUT_HORSE_MOVE_UP_ONLY|PromptId=INPUT_WNT1_MFWD~, щоб слідкувати за ~o~Датчем~s~
 
-0x37FEEFFA = Hold ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_FMIC,Gutter~ to continue following
+0x37FEEFFA = утримуйте ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_FMIC,Gutter~, щоб не відставати.
 
 0x7E51063A = To calm the horse, weapons must be holstered. ~n~Press ~INPUT_TOGGLE_HOLSTER~ to put away the weapon.
 
@@ -238,23 +238,23 @@
 
 0xF5BFD662 = Sprint
 
-0x3DEF67C7 = Health is displayed in the lower left corner.
+0x3DEF67C7 = Здоров'я відображається в нижньому лівому кутку.
 
-0x1A38DD7B = Use ~INPUTGROUP_LOOK~ to move the camera and check on Micah.
+0x1A38DD7B = Переміщуйте камеру за допомгою ~INPUTGROUP_LOOK~, перевірте, як там справи у Міки.
 
 0x10D918FA = While holding ~INPUT_OPEN_WHEEL_MENU~ press ~INPUT_SELECT_NEXT_WHEEL~ to access the Item Wheel.
 
 0x2842B840 = Pack horse
 
-0x03A1F5B1 = Hold ~INPUT_OPEN_SATCHEL_MENU|Gutter~ to open your Satchel
+0x03A1F5B1 = Утримуйте ~INPUT_OPEN_SATCHEL_MENU|Gutter~, щоб відкрити вашу сумку.
 
 0xC822B644 = Hold ~INPUT_HORSE_MOVE_UP_ONLY|PromptId=INPUT_WNT1_FMIC,Gutter~ to match speed with Dutch and ~o~Micah~s~
 
-0x419190BA = Use ~INPUT_MOVE_UP_ONLY~ to peek out of cover
+0x419190BA = Використовую ~INPUT_MOVE_UP_ONLY~, щоб виглянути з укриття
 
-0xEB4B8D10 = Tap ~INPUT_SPRINT|PromptID=INPUT_WNT1_SPRINT2~ to sprint
+0xEB4B8D10 = Натисніть ~INPUT_SPRINT|PromptID=INPUT_WNT1_SPRINT2~, щоб бігти.
 
-0x3675C9DC = Protect ~o~Dutch~s~
+0x3675C9DC = Захисітіть ~o~Датча~s~
 
 0x2677099F = The horse was abandoned.
 
@@ -266,23 +266,23 @@
 
 0xDBB60AE7 = RideAlong
 
-0xB36FF391 = Hold ~INPUT_MOVE_UP_ONLY~ to run after the ~e~outlaw~s~
+0xB36FF391 = Утримуйте ~INPUT_MOVE_UP_ONLY~, щоб бігти за ~e~бандитом~s~
 
 0x9C2B623B = Hitching a horse will keep the horse at that location.~s~
 
 0x37349935 = Continue searching the ~o~house~s~
 
-0x2F57B202 = Tap ~INPUT_SPRINT~ to sprint.
+0x2F57B202 = Швидко натискайте ~INPUT_SPRINT~, щоб бігти.
 
 0xD65FDD5C = Speed
 
 0xEC72C362 = Further?
 
-0xD91AD0AC = Radar blips that cover large areas are meant to be searched.
+0xD91AD0AC = Великі позначки на карті позначають території, які треба обшукати.
 
-0x9EED4DFE = A red threat indicator on the edge of the radar shows the direction of distant enemies.
+0x9EED4DFE = Червоний індикатор загрози на краю міні-карти показує напрямок на ворогів вдалині.
 
-0x116AEFB2 = Micah
+0x116AEFB2 = Міка
 
 0x8ECFE8DA = The brawl was abandoned.
 
@@ -296,11 +296,11 @@
 
 0x9F30A490 = Toggle ~INPUT_SPRINT|PromptID=INPUT_WNT1_SPRINT2~ to sprint
 
-0x6F33009A = Hold ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_MSPEED~ to match speed with ~o~Dutch~s~
+0x6F33009A = Утримуйте ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_MSPEED~, щоб рухатись разом із ~o~Датчем~s~
 
-0x05504796 = You run into anybody else?
+0x05504796 = Тобі більше ніхто не попадався?
 
 0xC747614E = However drinking too much whiskey will cause Arthur to be drunk. Affecting his movement and reactions.
 
-0x06A7AD1D = Double tap and hold ~INPUT_HORSE_SPRINT|PromptID=INPUT_WNT1_SPR~ while pushing ~INPUT_MOVE_UP_ONLY|PromptID=INPUT_WNT1_DM~ to move up the formation
+0x06A7AD1D = Двічі натисніть та утримуйте ~INPUT_HORSE_SPRINT|PromptID=INPUT_WNT1_SPR~, затиснувши ~INPUT_MOVE_UP_ONLY|PromptID=INPUT_WNT1_DM~, щоб зміститися ближче до початку строю.
 
