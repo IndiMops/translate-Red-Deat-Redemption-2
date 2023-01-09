@@ -208,7 +208,7 @@
 
 0x465D46ED = Perfect
 
-0xB571B602 = O'Driscoll
+0xB571B602 = Бандит О'Дрісколла
 
 0x068C071E = Blackwater Ledger No. 65
 
@@ -362,7 +362,7 @@
 
 0x09630A44 = with a Homing Tomahawk
 
-0x0AD60BB8 = Gems Of Beauty Card 10
+0x0AD60BB8 = Перлини краси, картка 10
 
 0xD4D8D5BA = Life isn't easy for Sadie and Jake Adler at their remote ranch up in the frozen mountains of the Grizzlies, and they always have work for passers-by willing to run pickups and deliveries, hunt, and help out locals in need.
 
@@ -1002,7 +1002,7 @@
 
 0xD0BBD320 = Use this Offer at a Bounty Board or by speaking to Sheriff Gray about becoming a Bounty Hunter.
 
-0x1FD4223A = O'Driscoll
+0x1FD4223A = Бандит О'Дрісколла
 
 0x608E62F4 = Raccoon Капелюх
 
@@ -2024,7 +2024,7 @@
 
 0x62406731 = Western Homburg Капелюх
 
-0xAB07AFFA = Beat
+0xAB07AFFA = Побити
 
 0x67966C89 = Stories concerning this unusual buck have spread through Annesburg. It is said to have an entirely black coat and a dark set of antlers. Like all deer, this buck can be skittish and will flee if disturbed. It has also been known to charge.
 
@@ -2454,7 +2454,7 @@
 
 0x28C72EB2 = You can now store more ammunition in your Ammo Pouch.
 
-0x05B30B9F = Gold Pendant Necklace
+0x05B30B9F = Золоте намисто з підвіскою
 
 0xC34DC939 = Huerta Shirtwaist
 
@@ -4098,7 +4098,7 @@
 
 0x73E17DD5 = Weapons Parcel
 
-0x16312026 = Lead
+0x16312026 = Вести
 
 0xB62BC021 = Get a box of Nitro Express ammo, used for the Elephant Rifle.
 
@@ -5446,7 +5446,7 @@
 
 0x4C6D59A9 = Stabbed to death
 
-0x5D4C6A88 = Opened Health Cure
+0x5D4C6A88 = Відкрита пляшка з лікарством
 
 0xFDA30AE1 = Poor лисиця Carcass
 
@@ -5604,7 +5604,7 @@
 
 0x9692A43B = Greet cheerfully.
 
-0xFEEE0C97 = Agnès Guyon
+0xFEEE0C97 = Аґнес Ґюйон
 
 0x31C13F6C = Homeless Vet
 
@@ -5790,7 +5790,7 @@
 
 0x98DAA6EC = Sierra Boots
 
-0x95E4A3F8 = Revolver Cartridges - High Velocity
+0x95E4A3F8 = Швидкісні патрони - Револьвер
 
 0xC534D349 = Brass
 
@@ -5802,7 +5802,7 @@
 
 0xAFCFBDE7 = Snitch
 
-0x180D2626 = Gems Of Beauty Card 11
+0x180D2626 = Перлини краси, картка 11
 
 0x4C2A5A46 = Green glass brass spectacles with swivel lenses.
 
@@ -6168,7 +6168,7 @@
 
 0xD992E8AF = Horse Fence
 
-0x4970588D = Revolver Cartridges - Express
+0x4970588D = Експрес-патрони - револьвер
 
 0xBBF6CB15 = Salter Shoes
 
@@ -7277,7 +7277,7 @@
 
 0xA779B971 = Everyday Shirt
 
-0x9C97AE8F = Interrogating
+0x9C97AE8F = Допитати
 
 0xB5B0C7AB = Algie
 
@@ -7453,7 +7453,7 @@
 
 0xD657E8B7 = Neat String Tie
 
-0xFE171077 = O'Driscoll
+0xFE171077 = Бандит О'Дрісколла
 
 0x7BBE8E20 = THE PALM TELLS EVERYTHING ABOUT YOU!~n~
 
@@ -9721,7 +9721,7 @@
 
 0x6931814A = Griffith Chaps
 
-0x4D096523 = O'Driscoll
+0x4D096523 = Бандит О'Дрісколла
 
 0xC41DDC38 = Rushword Shirt
 
@@ -10027,7 +10027,7 @@
 
 0x9180AA5E = Mustard Tartan Wrap
 
-0x163C2F1B = Beat
+0x163C2F1B = Вдарити
 
 0x43565C37 = Get 30% RDO$ off select Weapons.
 
@@ -11431,7 +11431,7 @@
 
 0x72278EA9 = DINO BONES
 
-0x4D4F69D2 = Revolver Cartridges - Express
+0x4D4F69D2 = Експрес-патрони - револьвер 
 
 0x891EA5A1 = Tuxedo Shoes
 
@@ -12771,7 +12771,7 @@
 
 0xA8A0C891 = Contoured
 
-0x903FB032 = O'Driscoll
+0x903FB032 = Бандит О'Дрісколла
 
 0x525D7251 = Hungarian Halfbred~n~Flaxen Chestnut Пальто
 
@@ -13041,7 +13041,7 @@
 
 0x4D916E2A = Can be found in West Elizabeth, Ambarino and New Hanover. Yields a pelt and mature venison meat. Use a long scope rifle for a clean kill.
 
-0x18693903 = Question
+0x18693903 = Задати питання
 
 0x9B7CBC16 = Paddon Shirt
 
@@ -14867,7 +14867,7 @@
 
 0xE8430D33 = Clear unaged whisky from a pot still, utilizing an Appalachian recipe and the finest corn mash. Perfect for square dancing.
 
-0xD913FE04 = O'Driscoll
+0xD913FE04 = Бандит О'Дрісколла
 
 0x992FBE20 = Military Slouch Капелюх
 
@@ -15949,7 +15949,7 @@
 
 0xF33A1AAA = Murder
 
-0x06322DA5 = Maud Engel
+0x06322DA5 = Мод Енджел
 
 0x94D0BC44 = Select Criollo Horse
 
@@ -16747,7 +16747,7 @@
 
 0x86B9B000 = Activating the Learn All Recipes cheat will grant access to all crafting Recipes.
 
-0x13023C4B = O'Driscoll
+0x13023C4B = Бандит О'Дрісколла
 
 0xDC9505DE = The latest in our top line of boots. Featuring rich dyed full-grain bison leather with polished steel toes for cajoling opulently.
 
@@ -19251,7 +19251,7 @@
 
 0xF2E0221F = Blanket
 
-0x8149B089 = The autosave slot already contains "~1~" saved on ~2~. Do you want to overwrite the data in this slot with your current game progress?
+0x8149B089 = Комірка автозбереження вже містить файл «~1~», збережений ~2~. Перезаписати дані в цю комірку вашим поточним ігровими даними?
 
 0x339762D8 = Long known to residents of Van Horn on account of domestic arrangements scandalous to the public conscience, this cutthroat trio and their associates form the keystone of the region's trade in stolen goods. The authorities also wish to learn the identity of their principal buyer.
 
@@ -19739,7 +19739,7 @@
 
 0x4B627BDA = Narrow Hammer
 
-0xC8A4F91C = Interrogator
+0xC8A4F91C = Слідчий
 
 0x8CD7BD4F = THE KILLERS OF BILLY MILES
 
@@ -20211,7 +20211,7 @@
 
 0x29325AED = A recipe on how to craft Apple Berry Crumb Moonshine Flavoring.
 
-0x75D6A791 = O'Driscoll
+0x75D6A791 = Бандит О'Дрісколла
 
 0xA42FD5EF = If you've been successful hunting game, big or small, or fishing in the Big Valley region, you can bring your prize carcasses and pelts to sell at the butcher's stall. You can also buy snacks here and meat and fish ready to cook.
 
@@ -21139,7 +21139,7 @@
 
 0x164F4A5A = A skeletal mask of rough metal.
 
-0x10A444AF = O'Driscoll
+0x10A444AF = Бандит О'Дрісколла
 
 0xCE32023E = Tommy
 
@@ -21755,7 +21755,7 @@
 
 0x0AE34062 = The Standard Donkey can be found at ranches and farms across the states. Their herbivorous diet consists of grasses, hay, and barley straw. Donkeys are considered to be one of the cheapest forms of labor for agricultural work.
 
-0x498D7F0E = Revolver Cartridges - Regular
+0x498D7F0E = Патрони - револьвер
 
 0x88C4BE47 = An optional mission is now available ~1b~. Completing them can be a way to gain honor.
 
@@ -22013,7 +22013,7 @@
 
 0xB903EF2A = Duster Пальто
 
-0x4C618288 = Pick up
+0x4C618288 = Взяти
 
 0x599C8FC3 = Kill both of the Foreman boys yourself during the chase
 
@@ -23017,7 +23017,7 @@
 
 0x7960B208 = Steelhead Trout populations are dotted around various lakes, mostly in the south. Steelhead Trout respond to many types of bait, most especially worms. They are fairly large and good to eat. Bigger specimens can be quite powerful and strongly resist being reeled in. They are notably more active in rainy weather. A few hardy fishermen in the northern Roanoke Valley claim to have seen, but never managed to catch, a Legendary Steelhead Trout.
 
-0x0AEF4397 = O'Driscoll
+0x0AEF4397 = Бандит О'Дрісколла
 
 0xBB8EF439 = Finger Bone
 
@@ -23749,7 +23749,7 @@
 
 0x61F29C84 = Gillis
 
-0xEF812A14 = O'Driscoll
+0xEF812A14 = Бандит О'Дрісколла
 
 0x29926426 = Wanted Fugitive
 
@@ -24239,7 +24239,7 @@
 
 0x349C703B = Rivera Hooded Tunic
 
-0x707EAC1D = O'Driscoll
+0x707EAC1D = Бандит О'Дрісколла
 
 0x3F017AA3 = Cash Register
 
@@ -24337,7 +24337,7 @@
 
 0xE1FE1DDD = Beadnell Sight
 
-0x34727052 = Ilga Ulmer
+0x34727052 = Ільґа Ульмер
 
 0xE4952076 = Get 30% RDO$ off select Missouri лисиця Trotter, Turkoman, or Mustang horses.
 
@@ -24849,7 +24849,7 @@
 
 0x15045225 = Legendary Mud Runner Buck
 
-0x762FB353 = Sadie Russell
+0x762FB353 = Седі Рассел
 
 0x33A170C7 = Isotelus Trilobite Fossil
 
@@ -26625,7 +26625,7 @@
 
 0x031E4481 = My Last Boy
 
-0x08EA4A4F = Gems Of Beauty Card 9
+0x08EA4A4F = Перлини краси, картка 9
 
 0xC8320996 = Cavalier Капелюх
 
@@ -27675,7 +27675,7 @@
 
 0x2A166E0C = Abigail
 
-0x8622CA19 = Baked Beans
+0x8622CA19 = Консервовані боби
 
 0x45C489BF = Activating Dead Eye Рівень 4 will highlight fatal areas while in Dead Eye.
 
@@ -27917,7 +27917,7 @@
 
 0x9AC2DF54 = Cinematic HDR On
 
-0x4F5C93F2 = O'Driscoll
+0x4F5C93F2 = Бандит О'Дрісколла
 
 0xEF4C33E2 = Stride Капелюх
 
@@ -29017,7 +29017,7 @@
 
 0x57E79F1A = How To Prepare
 
-0xBC9403C8 = Pick up
+0xBC9403C8 = Підібрати
 
 0x22F26A28 = types of meat cooked
 
@@ -29155,7 +29155,7 @@
 
 0xF2A93A25 = Special Snake Oil
 
-0x9AF2E26F = Jennie Willetts
+0x9AF2E26F = Дженні Віллетс
 
 0xDB9A2316 = A graphic flag for your Camp featuring B. S. Edwards Gelatin.
 
@@ -31759,7 +31759,7 @@
 
 0x92D6E099 = 24th
 
-0x2A5D7821 = O'Driscoll
+0x2A5D7821 = Бандит О'Дрісколла
 
 0x431B90E0 = BRENDAN LAWRENCE
 
@@ -36049,7 +36049,7 @@
 
 0x3F039733 = THE NAME “GENTLEMAN” DESIGNATES ONE WHO IS GENTLE, WARM AND PEACEFUL; A VALUE TO SOCIETY.~n~
 
-0x49D9A20A = O'Driscoll
+0x49D9A20A = Бандит О'Дрісколла
 
 0xFE0A563C = The Poisonous Trail Map 3
 
@@ -36659,7 +36659,7 @@
 
 0xC5961F3D = Icarus and Friends
 
-0xB82C11D5 = Spare
+0xB82C11D5 = Пощада
 
 0xE9C84375 = Ruched Blouse
 
@@ -41061,7 +41061,7 @@
 
 0x9FE5047F = Allows you to see into the distance.
 
-0x83C5E860 = Revolver Cartridges - High Velocity
+0x83C5E860 = Швидкісні патрони - револьвер
 
 0x1DD68271 = Offensive License Plate
 
@@ -41635,7 +41635,7 @@
 
 0x19517F33 = Ram's Head
 
-0x4A25B008 = Revolver Cartridges - Split Point
+0x4A25B008 = Надрізані патрони - револьвер
 
 0x9853FE36 = Guard
 
@@ -44579,7 +44579,7 @@
 
 0x85CEF347 = PASSIVE ABILITIES
 
-0x7FF2ED6B = Pauline Henderson
+0x7FF2ED6B = Поліна Гендерсон
 
 0x2C0F9988 = Loot Lock Box
 
@@ -44645,9 +44645,9 @@
 
 0x96970439 = Select Hats
 
-0x0C4E79F2 = Horse Bonding Achieved
+0x0C4E79F2 = Довіра коня заслужена
 
-0x74FFE2A4 = O'Driscoll
+0x74FFE2A4 = О'Дрісколл
 
 0xDC894A2E = Helier Jacket
 
@@ -44847,7 +44847,7 @@
 
 0xBEFE2D05 = Ammo Satchel
 
-0x404BAE53 = O'Driscoll
+0x404BAE53 = Бандит О'Дрісколла
 
 0x1EC38CCC = Studded Explorer Gun Belt
 
@@ -46307,7 +46307,7 @@
 
 0xD0FF426C = Went to see Hamish, this war veteran Arthur knew.~n~~n~The fella took me hunting, even on his one leg, and got himself killed by a boar. I liked the guy, what little I knew of him, and I can see why Arthur liked him so much.~n~~n~He gave me Buell, his moody magnificent horse, to look after.
 
-0x38EFAA5D = Gems Of Beauty Card 3
+0x38EFAA5D = Перлини краси, картка 3
 
 0x033274A1 = Owner
 
@@ -47622,7 +47622,7 @@
 
 0xE9745E17 = Legendary Bounty Buckle
 
-0x121186B5 = O'Driscoll
+0x121186B5 = Бандит О'Дрісколла
 
 0xB18B262F = Worker
 
@@ -53616,7 +53616,7 @@
 
 0x31B2B542 = Double breasted Classic Frock Пальто. Full front cut-in tail frock coat featuring a large notched collar and side flap pockets. Lined throughout and double breasted. Will give perfect satisfaction.
 
-0x3A4ABDDC = Medicine Chest
+0x3A4ABDDC = Шкафчик з лікарством
 
 0x6A7BEE0E = Wanted Fugitive
 
@@ -53668,7 +53668,7 @@
 
 0x8FD61389 = Попередня сторінка
 
-0x38A4BC5A = O'Driscoll
+0x38A4BC5A = Бандит О'Дрісколла
 
 0xFB427EF7 = Bolero Капелюх
 
@@ -53966,7 +53966,7 @@
 
 0x663AEAB5 = Coyote Fur
 
-0x4BFCD077 = Gems Of Beauty Card 6
+0x4BFCD077 = Перлини краси, картка 6
 
 0x5AC8DF43 = Tillson Sweater
 
@@ -56022,7 +56022,7 @@
 
 0x60EEEA27 = Stop by the Butcher's stall in the market district to purchase fresh or cured meat products, and to sell any animal carcasses, pelts, or fish you've caught. It's right next to the general store.
 
-0xBE20475F = O'Driscoll
+0xBE20475F = Бандит О'Дрісколла
 
 0x2F79B8BA = Embossed Horsemanship Holster
 
@@ -56592,7 +56592,7 @@
 
 0x8B0115A0 = Game Voice Chat
 
-0x96D32172 = Gems Of Beauty Card Set
+0x96D32172 = Набір карток «Перлини краси»
 
 0x87FB129A = The skinned body of a bobcat in poor condition displaying major damage. Can be taken to a Butcher and sold for cash.
 
@@ -58550,7 +58550,7 @@
 
 0x65DCF51A = Write Report
 
-0x977E26BC = Enter, Pursued by a Memory
+0x977E26BC = Приходить з думками про минуле
 
 0xC1D25112 = A graphic flag for your Camp featuring a bear.
 
@@ -58670,7 +58670,7 @@
 
 0x6D5CFCD2 = Projectionist
 
-0xE0836FFD = Medicine
+0xE0836FFD = Лікарства
 
 0x817B10F6 = Звичайна
 
@@ -58930,7 +58930,7 @@
 
 0x5483E4A1 = A soft, high-waisted, leather wrap skirt with long fringing and cross stitching. An original design.
 
-0x57A4E7C3 = Gems Of Beauty Card 8
+0x57A4E7C3 = Перлини краси, картка 8
 
 0x60E1F102 = Whether intended to amuse evening parties performing eccentric doings, Burlesque speeches, evocative conundrums, recitations, or simply expressing oneself forcefully in a happenstance altercation at a quadrille or communion, no other instructional course can compare!~n~
 
@@ -59704,7 +59704,7 @@
 
 0xF5088739 = Modify your corset's appearance
 
-0x827E14AF = O'Driscoll
+0x827E14AF = Бандит О'Дрісколла
 
 0x30A1C2D7 = Work
 
@@ -59736,7 +59736,7 @@
 
 0x49E8DC35 = The game was restarted due to a problem with the storage device where the game data was installed.~n~~n~Please replace the storage device and re-install the game data if issues continue to occur.
 
-0xC3F95646 = Calm
+0xC3F95646 = Заспокоїти
 
 0x2D88BFDB = WANTED for resisting arrest and ESCAPING CUSTODY in VALENTINE. Last seen on the road.
 
@@ -60050,7 +60050,7 @@
 
 0x87491A53 = Military Slouch Капелюх
 
-0x2AA6BDB2 = Calm
+0x2AA6BDB2 = Спокійна
 
 0xE451775C = ДОПОМОГА
 
@@ -60214,7 +60214,7 @@
 
 0x70A1040F = Sit at table
 
-0xBB0D4E7B = LEILA STETSON~n~ISABELLE BARLOW~n~HATTIE LANGTRY~n~ISABELLE STANDISH~n~MAUD ENGEL~n~SADIE RUSSELL~n~GERALDINE EMERSON~n~AGNÈS GUYON~n~JENNIE WILLETTS~n~ILGA ULMER~n~FAY DELARO~n~PAULINE HENDERSON
+0xBB0D4E7B = ЛЕЙЛА СТЕТСОН~n~ІЗАБЕЛЛА БАРЛО~n~ГЕТТІ ЛЕНҐТРІ~n~ІЗАБЕЛЛА СТЕНДИШ~n~МОД ЕНДЖЕЛ~n~СЕДІ РАССЕЛ~n~ДЖЕРАЛЬДІНА ЕМЕРСОН~n~АҐНЕС ҐЮЙОН~n~ДЖЕННІ ВІЛЛЕТС~n~ИЛЬГА УЛЬМЕР~n~ФЕЙ ДЕЛАРО~n~ПОЛІНА ГЕНДЕРСОН
 
 0x99D92D4B = Story Mission in Chapter 7
 
@@ -60440,7 +60440,7 @@
 
 0x5222E621 = Norwegian Crumpled Note
 
-0xA9063D05 = Isabelle Barlow
+0xA9063D05 = Ізабулла Барбло
 
 0x3C12D014 = You cannot sign up for the Rockstar Social Club while a Job is running.
 
@@ -63232,7 +63232,7 @@
 
 0x847E1F37 = Furred Gloves
 
-0x2570C02C = Open Drawer
+0x2570C02C = Відкрити ящик
 
 0x5BD0F68E = Watson's Cabin
 
@@ -63316,7 +63316,7 @@
 
 0x84981F89 = Mutton seasoned and cooked
 
-0x6273FD65 = Gems Of Beauty Card 5
+0x6273FD65 = Перлини краси, картка 5
 
 0xC7D862CA = Ascot Tie
 
@@ -63560,7 +63560,7 @@
 
 0xC55F60DE = Poor Pronghorn Hide
 
-0x55AAF12B = This horse belongs to ~1~ and cannot be mounted at this time.
+0x55AAF12B = Хазяїн цього коня - ~1~, і в даний момент сісти на нього не можливо.
 
 0x00869C08 = A complete Pentacles suit of Tarot Cards.
 
@@ -63896,7 +63896,7 @@
 
 0x9C08385F = Pittman Boots
 
-0x264BC2A3 = Gems Of Beauty Card 12
+0x264BC2A3 = Перлини краси, картка 12
 
 0x1058ACB2 = Painted Sky
 
@@ -64518,7 +64518,7 @@
 
 0x783415FB = Назад
 
-0xE54C8314 = Gems Of Beauty Card 7
+0xE54C8314 = Перлини краси, картка 7
 
 0x6C0609CF = Skinning +~1~
 
@@ -64804,7 +64804,7 @@
 
 0x53A0F22B = Sharp Buckle
 
-0xDBF87A85 = Geraldine Emerson
+0xDBF87A85 = Джеральдіна Емерсон
 
 0xC7E76674 = Pretending to high birth and delicate manners, yet surrounding themselves with thugs and cut-throats, these viperous dandies have orchestrated a ruthless web of blackmail and extortion throughout West Elizabeth, leaving their hard-working victims with nothing to their name but debt and rags.
 
@@ -66980,7 +66980,7 @@
 
 0x14E7B8DF = Brynn Tildon
 
-0xD333772D = Hitch Horse
+0xD333772D = Конов'яз
 
 0xE4EF88EF = Arkwright Gloves
 
@@ -69292,7 +69292,7 @@
 
 0x65880F44 = times
 
-0xDEF588B2 = Choke
+0xDEF588B2 = Придушити
 
 0x397CE33A = Ozula Hood
 
@@ -70600,7 +70600,7 @@
 
 0x5D2009FE = Get 50% RDO$ off select Criollo horses.
 
-0xE1CC8EAB = O'Driscoll
+0xE1CC8EAB = Бандит О'Дрісколла
 
 0x81772E56 = Teach Jack to ride without his horse bucking him off
 
@@ -70814,7 +70814,7 @@
 
 0x9FDF4D43 = Haverton Manners' Posse
 
-0xB4336199 = O'Driscoll
+0xB4336199 = Бандит О'Дрісколла
 
 0x6DC21B28 = Comstock Boots
 
@@ -70958,7 +70958,7 @@
 
 0xB3C4618D = Calvin Whitaker
 
-0x4B38F903 = O'Driscoll
+0x4B38F903 = Бандит О'Дрісколла
 
 0xD3EA81B6 = Brewer Buckle
 
@@ -77402,7 +77402,7 @@
 
 0xDDF39B53 = Studded Bandit Holster
 
-0x84E64249 = Gems Of Beauty Card 2
+0x84E64249 = Перлини краси, картка 2
 
 0xC413817A = Make keepsakes from human hair~n~
 
@@ -82098,7 +82098,7 @@
 
 0x2ABEF3CF = GERALD AND BENJAMIN DAY
 
-0x545D1D70 = O'Driscoll Boy
+0x545D1D70 = Бандит О'Дрісколла
 
 0xE368AC7B = Free Roam Missions
 
@@ -82324,7 +82324,7 @@
 
 0x77A3413D = Scribbled coordinates detailing how to find a rock carving.
 
-0x1BE1E57C = O'Driscoll
+0x1BE1E57C = Бандит О'Дрісколла
 
 0xAFBD795B = A tasseled Gun Belt crafted for Traders across the states.
 
@@ -82937,7 +82937,7 @@
 
 0x09C1D4D3 = Ducking
 
-0x8D3D584E = Medicine
+0x8D3D584E = Лікартсво
 
 0xDAB3A5C7 = Ship Large Packages
 
@@ -83311,7 +83311,7 @@
 
 0x4A351634 = Esteban Cortez, one of the leaders of the Del Lobos is wanted dead or alive for the murder of an officer of the State. He is thought to be at Gaptooth Breach. A $65 reward is offered in Tumbleweed.
 
-0x0A4CD64E = Hattie Langtry
+0x0A4CD64E = Гетті Ленґтрі
 
 0x51AD1DAF = Weapon Locker
 
@@ -84113,7 +84113,7 @@
 
 0x3260008D = These men, once civic engineers of considerable repute, now abuse their skills in the service of industrial sabotage. They leave behind them a string of factories and mills reduced to ash, together with the innocent laborers therein.
 
-0x031BD149 = O'Driscoll
+0x031BD149 = Бандит О'Дрісколла
 
 0x39DE080F = Griffith Chaps
 
@@ -84215,7 +84215,7 @@
 
 0xA00C6E79 = Pick up milk jug
 
-0xF51CC389 = Medicines
+0xF51CC389 = Лікартства
 
 0xD293A101 = cash earned from selling moonshine
 
@@ -85341,7 +85341,7 @@
 
 0x550A2639 = Wheeler, Rawson & Co. Club Membership period has closed
 
-0xA7407870 = Fay Delaro
+0xA7407870 = Фей Деларо
 
 0x4EDA200A =  
 
@@ -86573,7 +86573,7 @@
 
 0x94F6691E = Legendary Winyan Bison
 
-0x9BAB6FD3 = Gems Of Beauty Card 1
+0x9BAB6FD3 = Перлини краси, картка 1
 
 0xE246B66F = Are you sure you want to exit the game? ~n~ You will be returned to the main menu and any unsaved progress will be lost.
 
@@ -87913,9 +87913,9 @@
 
 0x1FABF6F5 = Stock Sights
 
-0x35B10CFD = Baked Beans
+0x35B10CFD = Консервовані боби
 
-0x177CEEC9 = 12th
+0x177CEEC9 = 12-ий
 
 0xD940B08C = Golden Creature Mask
 
@@ -89125,7 +89125,7 @@
 
 0x9D097731 = Street Kid
 
-0xD4E4AF0E = Spare
+0xD4E4AF0E = Пощада
 
 0x1662F08E = Remove Small Mask
 
@@ -89855,7 +89855,7 @@
 
 0xC611A20B = Helped Незнайомець
 
-0xA2187E13 = Isabelle Standish
+0xA2187E13 = Ізабелла Стендиш
 
 0x24F000EC = A FIRST CLASS COMPANION~n~
 
@@ -90847,7 +90847,7 @@
 
 0x597637F1 = Redfin Pickerel
 
-0x30C00F3C = O'Driscoll
+0x30C00F3C = Бандит О'Дрісколла
 
 0xD097AF13 = Finger Slinger
 
@@ -92383,7 +92383,7 @@
 
 0xA9098B30 = A collectible Coin.
 
-0x3EC320EC = O'Driscoll
+0x3EC320EC = Бандит О'Дрісколла
 
 0x96C278ED = Load
 
@@ -92573,7 +92573,7 @@
 
 0xED59CFFE = A skinned carcass from the Legendary Gabbro Horn Ram. Can be taken to a Butcher and sold for cash.
 
-0x8ECF7175 = весілля Джейка та Седі
+0x8ECF7175 = Весілля Джейка та Седі
 
 0x15FEF8A6 = Exotic Item Request from Algernon Wasp
 
@@ -93013,7 +93013,7 @@
 
 0x59793D28 = Return to ~o~Leigh~s~
 
-0x2B320EE2 = Gems Of Beauty Card 4
+0x2B320EE2 = Перлини краси, картка 4
 
 0xB04F9400 = Blue
 
@@ -94083,7 +94083,7 @@
 
 0x99397F84 = Opened Gin
 
-0x38EE1F3A = Agnes
+0x38EE1F3A = Аґнес
 
 0x7F5365A0 = Sabretooth Mask
 
@@ -95973,7 +95973,7 @@
 
 0xB42E9F40 = Продавець
 
-0x04A8EFBB = Revolver Cartridges - Explosive
+0x04A8EFBB = Розрівні патрони - револьвер
 
 0xBB2EA643 = Improved Lever
 
@@ -100279,7 +100279,7 @@
 
 0xA4959A15 = Guerra Poncho
 
-0x2A721FF5 = O'Driscoll
+0x2A721FF5 = Бандит О'Дрісколла
 
 0x98458DC9 = Homing Tomahawk Pamphlet
 
@@ -101363,7 +101363,7 @@
 
 0xE4B4DCF0 = Stock
 
-0xF39EEBDD = Leila Stetson
+0xF39EEBDD = ЛЕЙЛА СТЕНСОН
 
 0x81B979FB = Note to Jeremiah from Bill
 
@@ -101899,7 +101899,7 @@
 
 0x518B4B17 = A well-liked style. Beaver fur felt and striped satin head band with a flat top and slightly turned brim.
 
-0x01CEFB5C = Outlaws from the West
+0x01CEFB5C = Бандити з Дикого Заходу
 
 0x9C2995B7 = Dunster Pants
 
@@ -102649,7 +102649,7 @@
 
 0x5B5A56C4 = Read the Bluewater Marsh coach robbery note
 
-0x0CB4081E = Beat
+0x0CB4081E = Побити
 
 0x06FB0266 = Studded Pants
 
@@ -103313,7 +103313,7 @@
 
 0x84008123 = Belonged to a hermit in Roanoke Ridge
 
-0x64356159 = Revolver Cartridges - Regular
+0x64356159 = Патрони - револьвер
 
 0x2654237A = Leather Jacket
 

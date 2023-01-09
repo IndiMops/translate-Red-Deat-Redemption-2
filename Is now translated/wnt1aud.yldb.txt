@@ -1,8 +1,8 @@
 0x25EE4FB6 = ~z~О, так я не дочекаюся від тебе «Радий, що ти живий! Я так хвилювався, Міка»? 
 
-0xC3B33FB7 = ~z~Just give me a minute.
+0xC3B33FB7 = ~z~Дайте мені хвилину.
 
-0x00EBAA3C = ~z~Come on now.
+0x00EBAA3C = ~z~Давайте.
 
 0x8C75987F = ~z~Ride next to me, son, don't wanna lose you.
 
@@ -42,7 +42,7 @@
 
 0x297D17EA = ~z~В тій стороні невеличка ферма.
 
-0x77B033F9 = ~z~I'm gonna break your neck!
+0x77B033F9 = ~z~Я тобі шию зламаю!
 
 0x58D3D84D = ~z~~sl:0.0:4.2~Ні, Датч нам сказав... дивитися - дивіться, але ні з ким не розмовляйте.~sl:0.2~Ти мене знаєш: що мені накажуть, те й роблю.
 
@@ -52,11 +52,11 @@
 
 0x00BD414F = ~z~Someone's having fun in there.
 
-0x385FEC52 = ~z~You sure about this, Micah?
+0x385FEC52 = ~z~Ти впевнений на рахунок цього, Міка?
 
 0xEF544AD0 = ~z~Гаразд, за роботу.
 
-0xE203E48D = ~z~we ain't them, so...
+0xE203E48D = ~z~ми не такі, як вони...
 
 0x7FAD9D33 = ~z~Right...
 
@@ -70,7 +70,7 @@
 
 0x9A86A57C = ~z~Хтось тут добряче повеселився.
 
-0x3AB1A954 = ~z~Looks like it's Dutch.
+0x3AB1A954 = ~z~Схоже це датч.
 
 0x49BD2A60 = ~z~Ми не надовго...
 
@@ -88,29 +88,29 @@
 
 0xE89768F6 = ~z~it's an awful way to...
 
-0xF02570A8 = ~z~We've got a runner! You see him, Arthur?
+0xF02570A8 = ~z~Оди втікає! Артур, бачиш його?
 
-0x4B870791 = ~z~Miss, miss, are you...
+0x4B870791 = ~z~Пані, пані, ви...
 
-0x447C5CB5 = ~z~Get away from me!
+0x447C5CB5 = ~z~Відчипись від мене!
 
 0x86F82A91 = ~z~Гаразд, за роботу...
 
-0x7056DCD2 = ~z~I haven't slept in three days.
+0x7056DCD2 = ~z~Я не спав вже три дня.
 
 0x596CC77F = ~z~Пане Пірсоне, подивіться, що у нас там з їжею.
 
-0x01B8B763 = ~z~he weren't the first.
+0x01B8B763 = ~z~але він був не перший.
 
 0xB488AAD7 = ~z~Там і світло, і шумно...
 
-0x320F3E35 = ~z~~sl:0.0:1.1~No...~sl:1.3:1.1:1~Not yet...
+0x320F3E35 = ~z~~sl:0.0:1.1~Ні...~sl:1.3:1.1:1~Поки ні...
 
-0x2D8A4845 = ~z~~sl:0.0:1.3~Please...~sl:0.5:1.7~please, spare me.~sl:1.2~I promise you, you won't see me again, partner.
+0x2D8A4845 = ~z~~sl:0.0:1.3~Прошу...~sl:0.5:1.7~будь ласка, змилуйтесь.~sl:1.2~Я обіцяю, ви мене бульше ніколи не зустрінете, друже.
 
 0x7E7AFC8A = ~z~Hey, move up alongside me. Can't see you back there.
 
-0xD462E52C = ~z~Yeah, figured he won't get far in this anyway.
+0xD462E52C = ~z~Так, я подумав, все одно він у таку погоду далеко не піде.
 
 0xA1A23ED9 = ~z~~sl:0.0:4.1~That ain't fair, Arthur. ~rp~I earn my share.~sl:0.2~~rp~You think it's unreasonable to expect others to do the same?
 
@@ -134,7 +134,7 @@
 
 0x06BF4862 = ~z~Старе шахтарське містечко. Занедбане. Недалеко звідси.
 
-0x36FD6A20 = ~z~you're safe now.
+0x36FD6A20 = ~z~ви в безпеці.
 
 0xAC317503 = ~z~Come on Arthur.
 
@@ -148,7 +148,7 @@
 
 0x7D6D4089 = ~z~Пані Джонс, несіть усі ковдри, які ми маємо.
 
-0xCAD490A4 = ~z~a little bit of food...
+0xCAD490A4 = ~z~і трохи їжі...
 
 0x98A2ED6B = ~z~What are you doing? Get inside the shed.
 
@@ -156,15 +156,15 @@
 
 0x642DDDE1 = ~z~let Davey rest while he...
 
-0xA2D634E9 = ~z~Good. That looks like a decent horse, you should keep him.
+0xA2D634E9 = ~z~Гаразд. Схоже кінь чудовий. Залиш його собі.
 
-0x1612CBE8 = ~z~~sl:0.0:0.7:1~Okay.
+0x1612CBE8 = ~z~~sl:0.0:0.7:1~Добре.
 
 0xFCD0E439 = ~z~Але ми втратили деяких хлопців.
 
 0x7C71BDF3 = ~z~~sl:0.0:2.9~Yeah... tired, but we all are.~sl:0.2:5.0~We'll find some food, go back, warm up, get some rest.~sl:0.2~Be like new men again.
 
-0x997766EE = ~z~but there is more about apparently...
+0x997766EE = ~z~але, схоже, тут рискає ще один загін...
 
 0x62873CD3 = ~z~~sl:0.0:3.4~I stashed what we took with all our money in town,~sl:~right before we fled.
 
@@ -174,7 +174,7 @@
 
 0xAB6FDE64 = ~z~Ви двоє, схвайтесь деінде...
 
-0x886001E4 = ~z~Micah, you search the cabin, see what we missed.
+0x886001E4 = ~z~Міка, а ти обшукай дім. Можливо ми щось проґавили.
 
 0xED654787 = ~z~Йди в дім, хлопче!
 
@@ -192,7 +192,7 @@
 
 0x61E7DDF9 = ~z~but we're gonna ride out...
 
-0x87C80A8C = ~z~That's the last thing we need right now, Dutch.
+0x87C80A8C = ~z~Тільки чого зараз не хватало, Датч.
 
 0x63FE2242 = ~z~If we can't eat it or drink it, put it down.
 
@@ -202,11 +202,11 @@
 
 0x53A52B23 = ~z~Не говори мені про божевілля.
 
-0xE8182A48 = ~z~~sl:0.0:1.8~Find out what they're doing here,~sl:0.5~and where Colm is.
+0xE8182A48 = ~z~~sl:0.0:1.8~Виясни, що вони тут роблять... ~sl:0.5~та де Кольм.
 
 0xD5B6704E = ~z~Поїдемо глянемо.
 
-0x8CEA95F9 = ~z~Miss O'Shea will show you the way.
+0x8CEA95F9 = ~z~Пані О'Ші відведе вас..
 
 0x4D0C1F7E = ~z~Думаю так.
 
@@ -236,7 +236,7 @@
 
 0xC024A093 = ~z~Так, ~rp~панова, не шумимо. ~rp~Дім прямо перед нами.
 
-0x0B68CAC3 = ~z~Hey, somebody's coming!
+0x0B68CAC3 = ~z~Гей, хтось йде!
 
 0x03FFA7C2 = ~z~~sl:0.1:2.2:1~ти нам потрібний сильним.
 
@@ -246,7 +246,7 @@
 
 0x1A868A58 = ~z~Нічого з ним не буде. ~rp~Цьому хлопцеві завжди щастить.
 
-0x2D9780AE = ~z~Let me do the talking, we don't wanna scare these folks.
+0x2D9780AE = ~z~Говорити буду я. Не хватало ще їх розлякати.
 
 0xA8254E68 = ~z~Bastards.
 
@@ -258,15 +258,15 @@
 
 0x7E556740 = ~z~Якби я тільки міг...
 
-0xFD45C82D = ~z~~sl:1.2:1.5~With the others...~sl:0.5~at an old mining camp southwest of here, near the lake.
+0xFD45C82D = ~z~~sl:1.2:1.5~З іншими...~sl:0.5~у старому шахтарському таборі на південний захід звідси, поряд із озером.
 
 0xBBFFB9BD = ~z~Ах, Дейві помер.
 
 0x9CB23D3C = ~z~У старому шахтарському таборі на пагорбі. Не бозна-що, але хоч дах над головою.
 
-0xDCA63447 = ~z~and this poor soul, Mrs. Adler.
+0xDCA63447 = ~z~і цю бідолаху. Пані Адлер.
 
-0xF2070C73 = ~z~You okay, miss?
+0xF2070C73 = ~z~Ви цілі, пані?
 
 0x62615BA4 = ~z~Я любив Дейві...
 
@@ -278,13 +278,13 @@
 
 0x06CA916F = ~z~Я радий, що ти не падаєш духом.
 
-0x21787F56 = ~z~That looks like a decent horse, you should keep him.
+0x21787F56 = ~z~Схоже, кінь чудовий. Залиш його собі.
 
-0x735785AE = ~z~Arthur, what are you doing? I said get out of sight.
+0x735785AE = ~z~Артуре, що ти робиш? Я ж просив не палитись.
 
 0x01C8A1DC = ~z~you take Taima.
 
-0xF12D3199 = ~z~Now I, I just need, some, cans of food, or something. Gentlemen... please.
+0xF12D3199 = ~z~Мені б просто пару консервів або чогось їстівного. Джентльмени... прошу вас.
 
 0x64A71C76 = ~z~Please, partner.
 
@@ -300,7 +300,7 @@
 
 0x120A425F = ~z~Arthur, that horse you took is in bad shape...
 
-0x4895B993 = ~z~Miss, now it is gonna be okay.
+0x4895B993 = ~z~Пані, тепер все буде гаразд.
 
 0x8CAB3217 = ~z~there ain't nobody following us through a storm like this one...
 
@@ -310,17 +310,17 @@
 
 0x9625B3D0 = ~z~~sl:0.0:2.6~Одинокий мандрівник виглядає не так жахливо,~sl:0.2~як троє здорових бугаїв.
 
-0x9D38AC2B = ~z~~sl:0.0:2.9~Run along, Arthur. Be a good little boy...~sl:~and check the barn, like Dutch told you.
+0x9D38AC2B = ~z~~sl:0.0:2.9~Топай звідси, Артуре. Будь хорошим хлопчиком...~sl:~й оглянь амбар, як просив Датч.
 
 0x1E32A9D8 = ~z~виходить, вони обоє поїхали далі в гори.
 
 0x9FC9D758 = ~z~he was shot in the gut...
 
-0xCC6C3D1E = ~z~What are you doing in there, Arthur?
+0xCC6C3D1E = ~z~Що ти там робиш, Артуре?
 
-0x6A4E4FD8 = ~z~What's your name, Miss?
+0x6A4E4FD8 = ~z~Як вас звати, пані?
 
-0xAC3BC8FD = ~z~I wasn't doing nothing.
+0xAC3BC8FD = ~z~Я ще нічого не зробив.
 
 0x4420ADC0 = ~z~Я це зроблю. Не варто наганяти страху на цих «доброчесних» людей.
 
@@ -330,9 +330,9 @@
 
 0x62C46610 = ~z~Артур.
 
-0xE18E7B6D = ~z~Just let me finish searching the place.
+0xE18E7B6D = ~z~Дай мені тут все оглянути.
 
-0x86B3608E = ~z~Just let me go, come on.
+0x86B3608E = ~z~Відпустіть мене, нужбо.
 
 0x7B030AAB = ~z~Несіть його сюди!
 
@@ -340,15 +340,15 @@
 
 0xA6FDF91C = ~z~Артуре, злізь з коня, чорти тебе б побрали!
 
-0xD20B5815 = ~z~Micah found a homestead, but...
+0xD20B5815 = ~z~Міка знайшов ферму, але...
 
 0x1B9A8673 = ~z~Та це ж чортів Датч ван дер Лінде, кретини. Кольм на радощах обробиться.
 
 0x0ADF128C = ~z~~sl:0.0:1.6:1~Заткнимсь, Біллі. Шш, шш, тихо!
 
-0x23BE8C17 = ~z~~sl:3.3:0.0~Well, he started it!
+0x23BE8C17 = ~z~~sl:3.3:0.0~Ну, він перший почав!
 
-0x42958150 = ~z~I need some rest.
+0x42958150 = ~z~Мені треба відихнути.
 
 0xA3420169 = ~z~Рушили!
 
@@ -358,7 +358,7 @@
 
 0xD396FB6F = ~z~Oh, goddamn this snow. Gets right to the bone.
 
-0x8E4F3D25 = ~z~and you can't stay here.
+0x8E4F3D25 = ~z~але тут вам залишатися не можна.
 
 0xEA23E63E = ~z~Goddamn!
 
@@ -368,9 +368,9 @@
 
 0xCDEABA25 = ~z~I think it's lightening up a bit.
 
-0xA9744F0C = ~z~Thank you, Miss Grimshaw.
+0xA9744F0C = ~z~Дякую, пані Ґрімшо.
 
-0x567E291E = ~z~We're fixing to rob some train, gonna blow the tracks. I don't know more than that, I swear!
+0x567E291E = ~z~Ми хочемо пограбувати поїзд. Взірвати рейки. Більше я нічого не знаю, клянуся!
 
 0x0F013AEB = ~z~Я надіюсь... Мак і Шон теж в порядку.
 
@@ -380,7 +380,7 @@
 
 0x652BC724 = ~z~Шо треба?
 
-0x4292C7DD = ~z~Micah, what the hell do you think you're doing?
+0x4292C7DD = ~z~Міка, що ти собі дозволяєш?
 
 0x215CC44A = ~z~Що за погода така? Зараз же травень...
 
@@ -388,7 +388,7 @@
 
 0x7BE23A7B = ~z~
 
-0xFC437381 = ~z~but we found some supplies, some blankets...
+0xFC437381 = ~z~але ми знайшли деякі припаси, ковдри...
 
 0x1436D6AC = ~z~Гаразд, вирушаємо.
 
@@ -396,7 +396,7 @@
 
 0x79D2E1E7 = ~z~О, так...
 
-0xC1EAD6FC = ~z~I just do what I'm told, please.
+0xC1EAD6FC = ~z~Я просто роблю те, що мені говять. Прошу...
 
 0x08215C27 = ~z~How much further?
 
@@ -412,7 +412,7 @@
 
 0xB2EE8281 = ~z~Everyone, come on...
 
-0xD03040E6 = ~z~We're bad men, but...
+0xD03040E6 = ~z~Ми погані хлопці, але...
 
 0x870223E9 = ~z~I sent him up ahead.
 
@@ -434,11 +434,11 @@
 
 0xE412C9B7 = ~z~Ебігейл каже, він при смерті, Датч.
 
-0x3FB92DAC = ~z~Come on, let's go.
+0x3FB92DAC = ~z~Давай, вперед.
 
 0x2E4CA249 = ~z~Ви більше...
 
-0x41297D4C = ~z~give her a drink of something.
+0x41297D4C = ~z~дайте її випити що-небудь.
 
 0xFDB4F78A = ~z~You're making a big mistake.
 
@@ -448,7 +448,7 @@
 
 0x1C4ED391 = ~z~Це так, дивно. ~rp~Може, тут блукають інші з їхньої шайки.
 
-0xCED4C60B = ~z~Oh, you fool, Micah.
+0xCED4C60B = ~z~О, ти дурак, Міка.
 
 0x3D24E66E = ~z~Всі вони, Келландери, такі... були.
 
@@ -456,7 +456,7 @@
 
 0x8689FE34 = ~z~Добре.
 
-0x5C35A940 = ~z~Micah, Arthur, keep looking for stuff.
+0x5C35A940 = ~z~Міка, Артур, шукайте припаси.
 
 0x3DE215EE = ~z~Поки що нам нічого не загрожує...
 
@@ -464,7 +464,7 @@
 
 0xA0D34351 = ~z~Артур! Ну що там?
 
-0x2F54D9A3 = ~z~Miss Tilly, Miss Karen, would you warm her up...
+0x2F54D9A3 = ~z~Пані Тілі, пані KareКарен, допоможіть їй зігрітися...
 
 0xB3CB6CFB = ~z~Знайшов що-небудь?
 
@@ -488,7 +488,7 @@
 
 0x9BF792BC = ~z~You need to hitch him, he's already skittish.
 
-0x53E323EB = ~z~animals.
+0x53E323EB = ~z~скоти.
 
 0x2917A5EC = ~z~You goddamn bastard!
 
@@ -516,17 +516,17 @@
 
 0xE1052D8C = ~z~~sl:0.0:1.4:1~Тут труп.
 
-0x1AA1303C = ~z~And Mrs. Adler, it's gonna be okay...
+0x1AA1303C = ~z~І пані Адлер, все буде добре...
 
 0x02334947 = ~z~Як там Дейві?
 
-0x80AAF1D8 = ~z~Wild thing ain't you?
+0x80AAF1D8 = ~z~Ти в нас дика штучка, так?
 
-0xAF668D06 = ~z~what you wanna do.
+0xAF668D06 = ~z~що хочите робити далі.
 
 0xB009CAA8 = ~z~Але...
 
-0x72EFDFA4 = ~z~and I get a bunk bed next to Bill Williamson...
+0x72EFDFA4 = ~z~а мене прийдеться пати поряд з Біллом Віллямсом...
 
 0x6FB8B331 = ~z~Get off me!
 
@@ -534,7 +534,7 @@
 
 0x67D2E76B = ~z~He's okay now...
 
-0x892B82D1 = ~z~Micah, what the hell do you think you're doing?
+0x892B82D1 = ~z~Міка, що ти собі дозволяєш?
 
 0x8BE1F02E = ~z~~sl:0.0:1.8:1~Hold still, damn it!
 
@@ -552,13 +552,13 @@
 
 0x6725F2ED = ~z~Можливо. Подивимося, як вони почуваються. Не хотілося б ділитись.
 
-0x76F46F01 = ~z~Move up, Arthur, ~rp~I'll cover the rear.
+0x76F46F01 = ~z~Їдь вперед, Артуре, ~rp~Я прикрию ззаду.
 
 0xA644620D = ~z~Ось він...
 
 0x4C83A640 = ~z~Давай, Артуре, застав його говорити.
 
-0x3A031C6E = ~z~We mean you no harm.
+0x3A031C6E = ~z~Ми не завдамо вам шкоди.
 
 0x414E2AA2 = ~z~This snow better stop soon or we'll never dig those wagons out.
 
@@ -570,15 +570,15 @@
 
 0x105EA59B = ~z~Де всі інші?
 
-0x0760AE57 = ~z~Oh, did he now?
+0x0760AE57 = ~z~О, що він зроби?
 
-0x0DC4954F = ~z~Get yourself to bed.
+0x0DC4954F = ~z~Йди вже спати!
 
 0x2957C022 = ~z~Тож...
 
 0x22554980 = ~z~~sl:0.0:5.5~Look, it's all going to work out, Morgan. We lost a few folks,~sl:~but that's just how it goes sometimes.
 
-0xF2AF448B = ~z~через пару днівм ~rp~ми вже будемо на іншій стороні.
+0xF2AF448B = ~z~через пару днів ~rp~ми вже будемо на іншій стороні.
 
 0x932FC4A8 = ~z~Давай.
 
@@ -602,19 +602,19 @@
 
 0xD95CE85D = ~z~Артуре, йди сюди!
 
-0x3A6EB60E = ~z~Bridge coming up, take it easy.
+0x3A6EB60E = ~z~Обережно, далі міст.
 
 0x9A75D18C = ~z~we ain't done yet.
 
 0x8E6B3AAE = ~z~Ти мене знаєш: що мені накажуть, те й роблю. ~rp~Я хороший хлопчик.
 
-0x7C9798C3 = ~z~~sl:0.0:0.7:1~What's going on?
+0x7C9798C3 = ~z~~sl:0.0:0.7:1~Що відбувається?
 
-0x2C72B809 = ~z~Він останній, Артуре. ~rp~Останній...
+0x2C72B809 = ~z~Він останній, Артуре. ~rp~Більше ніхто...
 
-0x91DEC351 = ~z~~sl:0.2~This guy just jumped me.
+0x91DEC351 = ~z~~sl:0.2~Він на мене накинувся.
 
-0xCF987257 = ~z~They don't tell me nothing, I swear.
+0xCF987257 = ~z~Вони мені нічого розповідають, чесно.
 
 0xBD1BCC4B = ~z~There's another one shooting from the window!
 
@@ -624,7 +624,7 @@
 
 0x9D4E55DD = ~z~It seems like you ran into an army.
 
-0x4F7F61B6 = ~z~Get away from me!
+0x4F7F61B6 = ~z~Відійди від мене!
 
 0x42F4BA25 = ~z~Don't leave that horse in there.
 
@@ -632,9 +632,9 @@
 
 0x8CC7AE34 = ~z~Miss Gaskill, get that fire lit quick...
 
-0xB631675E = ~z~Thank you.
+0xB631675E = ~z~Дякую.
 
-0xD85C2CDB = ~z~Mr. Bell, you're with the fellers over there.
+0xD85C2CDB = ~z~Пане Булл, ви з хлопцями будете спати там.
 
 0xCA6F0060 = ~z~~sl:0.0:1.0~Артур...~sl:0.2:1.3:1~Артур, в нас проблеми.
 
@@ -644,9 +644,9 @@
 
 0xDF6D5BC4 = ~z~Я радий, що з тобою все гаразд, Міка.
 
-0xB3C98819 = ~z~it's okay.
+0xB3C98819 = ~z~все гаразд.
 
-0x927C957F = ~z~Leave her alone!
+0x927C957F = ~z~Залиш її в спокої!
 
 0x9EE30E5A = ~z~Didn't seem to be going too well.
 
@@ -684,7 +684,7 @@
 
 0x9D794057 = ~z~Джентельмени.
 
-0xE45AFCB4 = ~z~We found some of them there...
+0xE45AFCB4 = ~z~Ми застали пару з них...
 
 0xDD03FEF5 = ~z~Знайшов що-небудь?
 
@@ -694,19 +694,19 @@
 
 0x861C91A2 = ~z~Там і світло, і шумно.
 
-0xBBE773F2 = ~z~Mr. Morgan, we put you in a room over here.
+0xBBE773F2 = ~z~пане Морґане, вас розмістили тут.
 
 0x8B7C5CAF = ~z~нічим не змогли йому б допомогти.
 
-0xB3148A6F = ~z~What's taking so long in there?
+0xB3148A6F = ~z~Що там таке можна брати?
 
 0xAD385FEA = ~z~Йдемо, Артуре.
 
 0x338B83B9 = ~z~зігрівайтесь...
 
-0x21C89DA8 = ~z~Sneaky little bastard... should I kill him?
+0x21C89DA8 = ~z~Боягузливий виродок... мені його вбити?
 
-0xA2D84141 = ~z~Been kind of... lonely out here. ~rp~Where's everyone else?
+0xA2D84141 = ~z~Тут доволі... самотньо. ~rp~А де всі інші?
 
 0x082BFEBF = ~z~нічого мені не буде.
 
@@ -714,7 +714,7 @@
 
 0xF6B8D809 = ~z~з ними, може, все й гаразд, ми не знаємо. 
 
-0x3FD3ECD8 = ~z~~sl:0.3:1.7:1~I don't know anything else...
+0x3FD3ECD8 = ~z~~sl:0.3:1.7:1~Я більше нічого не знаю...
 
 0xAD96F66E = ~z~that's what happened.
 
@@ -728,7 +728,7 @@
 
 0xADDB47AB = ~z~Пане Пірстон...
 
-0x9892AC21 = ~z~Well, it is what it is...
+0x9892AC21 = ~z~Ну, так воно і є...
 
 0x9DD5D868 = ~z~виходить, вони обоє поїхали далі в гори.
 
@@ -740,7 +740,7 @@
 
 0x3A5B8A3D = ~z~Старе шахтарське містечко. Занедбане...
 
-0xAA4A7471 = ~z~~sl:0.0:0.7:1~I...
+0xAA4A7471 = ~z~~sl:0.0:0.7:1~Я...
 
 0xC52D26FE = ~z~We ain't run into them yet, so...
 
@@ -766,11 +766,11 @@
 
 0xC4E7768C = ~z~Добре.
 
-0xA7BBC131 = ~z~I thought you were searching the barn?
+0xA7BBC131 = ~z~Тобі ж сказали оглянути амбар?
 
 0xB2167BF1 = ~z~What are we going to do?
 
-0xB6F4A1E8 = ~z~Colm O'Driscoll and his scum, they beat us to it.
+0xB6F4A1E8 = ~z~Там побував Кольм О'Дрісколл і його прихвостні.
 
 0x7EE394AC = ~z~В таку погоду?
 
@@ -796,9 +796,9 @@
 
 0x4B8318B6 = ~z~Якщо не зробимо привал, ми теж всі скоро будемо при смерті...
 
-0xA35BC1B3 = ~z~scouting a train.
+0xA35BC1B3 = ~z~вони готують напад на поїзд.
 
-0x39F16466 = ~z~No she ain't, Micah. Look at her.
+0x39F16466 = ~z~Ні, вона не з ними, Міка. Поглянь на неї.
 
 0x8F43E436 = ~z~Пане Пірсоне, подивіться, що у нас там з їжею...
 
@@ -830,7 +830,7 @@
 
 0x30ABCD52 = ~z~і постараємося роздобути їжі.
 
-0xD0E9B370 = ~z~~sl:0.0:1.8:1~But bring that horse when you're done.
+0xD0E9B370 = ~z~~sl:0.0:1.8:1~Але як закінчиш, візьми з собою коня.
 
 0xA3535D8B = ~z~Arthur and I, we're gonna ride out...
 
@@ -838,11 +838,11 @@
 
 0x20377AF2 = ~z~Хай Дейві перепочине, поки...
 
-0x467086A6 = ~z~How come Arthur gets a room...
+0x467086A6 = ~z~А чого Артуру постилили в окремій кімнаті...
 
 0xF0F9EE5A = ~z~But there was money on that boat alright, lots of it.
 
-0x7F8B78DB = ~z~and a bunch of darkies?
+0x7F8B78DB = ~z~з купою чорномзих?
 
 0xA3008BAF = ~z~Несіть його сюди.
 
@@ -852,7 +852,7 @@
 
 0xB7BBED95 = ~z~~sl:0.2~No.
 
-0x965F5525 = ~z~Come on, it'll be okay.
+0x965F5525 = ~z~Не треба, все буде добре.
 
 0xA3D04D1E = ~z~You coming?
 
@@ -864,11 +864,11 @@
 
 0x3CB18DDA = ~z~Meet me out here when you're done.
 
-0x520B68B0 = ~z~~sl:1.4:0.0~You bastards shot my cousin!
+0x520B68B0 = ~z~~sl:1.4:0.0~Виродки, ви вбили мого кузена!
 
-0xF00413FA = ~z~Hey everybody, Dutch is back.
+0xF00413FA = ~z~Ей, чуєте? Датч повернувся.
 
-0x1925D2D0 = ~z~We'll keep you safe until you figure out...
+0x1925D2D0 = ~z~Ми захистимо вас, поки ви не вирішите...
 
 0x80F8EB9B = ~z~Ми з Артуром постараємося їх розшукати.
 
@@ -880,7 +880,7 @@
 
 0x7E0D5485 = ~z~~sl:0.8:0.0~Don't you bite me!
 
-0xD565A609 = ~z~~sl:0.0:6.4~Sadie Adler. Mrs... I... he...~sl:1.7~...he was my husband.
+0xD565A609 = ~z~~sl:0.0:6.4~Седі Адлер. пані... я... він...~sl:1.7~...він був мої чоловіком.
 
 0x735E6389 = ~z~Мені так незручно вас турбувати.
 
@@ -896,9 +896,9 @@
 
 0xB368F8C9 = ~z~Ебігейл каже, він при смерті, Датч...
 
-0x9F28BA75 = ~z~You're over here...
+0x9F28BA75 = ~z~ваша кімна там...
 
-0x1D246E3A = ~z~How'd you get on?
+0x1D246E3A = ~z~Як успіхи?
 
 0x8BF11377 = ~z~Well we got a few less now, ~rp~so you should be happy.
 
@@ -910,13 +910,13 @@
 
 0xEA80DA69 = ~z~Вдома хто-небудь є?
 
-0x2B1C028B = ~z~Arthur, what are you doing? Go look in the barn.
+0x2B1C028B = ~z~Артуре, що ти робиш? Йди оглянь амбар.
 
 0x222AFCA3 = ~z~~sl:0.6:0.0~He'll be fine. ~rp~Things always turn out right for that boy.
 
 0xD0316228 = ~z~Вдома хто-небудь є?
 
-0x7D8E9BA4 = ~z~Miss, it's okay, alright?
+0x7D8E9BA4 = ~z~Пані, не бійтесь. Все буде гаразд...
 
 0x1070B9FF = ~z~Well you made short work of them at least.
 
@@ -926,7 +926,7 @@
 
 0x6C21C1E9 = ~z~послухайте мене всі на хвильку.
 
-0x9E19BD72 = ~z~Arthur, in that cattle shed on the left. Micah, get down behind that wagon in front.
+0x9E19BD72 = ~z~Артуре, йди в цей хлів зліва. Міка, сховайся за цим возом.
 
 0x865A78AA = ~z~ми будемо вже далеко.
 
@@ -938,15 +938,15 @@
 
 0xBF340ACF = ~z~That many men? Oh, they knew we were coming.
 
-0xEB7BA499 = ~z~~sl:0.1:2.0:1~Where's Colm O'Driscoll?
+0xEB7BA499 = ~z~~sl:0.1:2.0:1~Де Кольм О'Дрісколл?
 
-0x81597E44 = ~z~Huddled around a fire ~rp~waiting for daddy to put food on the table.
+0x81597E44 = ~z~Скупчились навколо вогнища і чекають, ~rp~коли татко пожерти принесе.
 
-0xAB297EB9 = ~z~Miss! Miss...
+0xAB297EB9 = ~z~Пані! Пані...
 
 0xE2C05B08 = ~z~Я знайшов місце, де можна сховатись...
 
-0x990C529F = ~z~You come with us.
+0x990C529F = ~z~Йдемо з нами.
 
 0xEA5708AE = ~z~Right...
 
@@ -962,9 +962,9 @@
 
 0x8E0D9A36 = ~z~I wouldn't leave him untethered in this weather.
 
-0x343908FA = ~z~Okay, miss. You are safe now...
+0x343908FA = ~z~Вам більше нічого не загрожує, пані...
 
-0x283BC0FB = ~z~She's one of them O'Driscolls.
+0x283BC0FB = ~z~Вона одна із О'Дрісколлів.
 
 0x4BA53014 = ~z~давайте всі...
 
@@ -976,11 +976,11 @@
 
 0x0644F881 = ~z~ну ми будемо...
 
-0x229BCA39 = ~z~Get the hell outta here. Go.
+0x229BCA39 = ~z~Вали звідси до чорта. Пішов!
 
 0x2488E378 = ~z~Шон, Мак...
 
-0xD1F92016 = ~z~~sl:0.0:1.8~What are you bastards doing?~sl:0.6~Why are you up here?
+0xD1F92016 = ~z~~sl:0.0:1.8~Що ви задумали, виродки?~sl:0.6~Що вам тут робити?
 
 0xDE06CE04 = ~z~Сучий син.
 
@@ -988,7 +988,7 @@
 
 0x637C30A2 = ~z~Ми не надовго...
 
-0xC6782D76 = ~z~Get on.
+0xC6782D76 = ~z~Застрибуйте.
 
 0x727529D9 = ~z~Міка...
 
@@ -1002,19 +1002,19 @@
 
 0x93CE9481 = ~z~Цей бандит був одружений.
 
-0x262CC87F = ~z~They turned her into a widow...
+0x262CC87F = ~z~Зробили з неї вдову...
 
 0xF9408724 = ~z~Come on!
 
 0x100564EB = ~z~Давайте за мною.
 
-0xFDCD3800 = ~z~You let him go, huh? Saw the little bastard scurrying off.
+0xFDCD3800 = ~z~Ти його відпустив, гм? Я бачив як це малий виродок дременув.
 
 0x6A899006 = ~z~Are you done? Just leave this for now, come on.
 
 0x03059CF2 = ~z~послухайте мене всі на хвильку...
 
-0x3F11F960 = ~z~Adler.
+0x3F11F960 = ~z~Адлер.
 
 0x4ADEAEDA = ~z~Didn't seem to be going too well.
 
@@ -1022,7 +1022,7 @@
 
 0x6F21E21C = ~z~Тож, цей дім... Ти вже розмовляв із людьми, які там?
 
-0x1792D78A = ~z~We need to get out of here, and quick.
+0x1792D78A = ~z~Треба вщиватися звідси, і швидко.
 
 0x8848CB84 = ~z~Come on, this is taking too long. Micah can sweep the rest.
 
@@ -1032,9 +1032,9 @@
 
 0xD3184174 = ~z~You know me son...
 
-0x06370801 = ~z~Mr. Morgan, ~rp~I never thought I would be so pleased to see your face.
+0x06370801 = ~z~Пане Морґане, ~rp~я б ніколи не подумав, що буду радий побачити вашу пику.
 
-0x6A88C5E6 = ~z~Arthur, go see if there's anything in that barn.
+0x6A88C5E6 = ~z~Артур, йди глянь в амбар, можливо, щось там і є.
 
 0xE0E56C4D = ~z~Тобі треба щось з'їсти. Набратися сил перед дорогою назад.
 
@@ -1048,35 +1048,35 @@
 
 0x5096DD54 = ~z~Not there, over in the cattle shed.
 
-0x9EF1AE5D = ~z~Get away from me!
+0x9EF1AE5D = ~z~Відійди від мене!
 
 0x7C211007 = ~z~Ви більше...
 
 0xF7F15BF6 = ~z~Будьте сильними.
 
-0x23E0C2FE = ~z~Adler?
+0x23E0C2FE = ~z~Адлер?
 
 0x66D4F856 = ~z~Yeah... tired, but we all are. We'll find some food, go back, warm up, get some rest. Be like new men again.
 
 0x89CCAEF6 = ~z~whatever it takes.
 
-0xA64BB915 = ~z~Ми маємо спробувати. ~rp~Тримайся поряд ~rp~Головне– не збитися зі сліду.
+0xA64BB915 = ~z~Ми маємо спробувати. ~rp~Тримайся поряд ~rp~Головне – не збитися зі сліду.
 
-0xDE8D6580 = ~z~and my husband, they...
+0xDE8D6580 = ~z~і мій чоловкі, вони...
 
-0xAB728342 = ~z~Are you going to check that barn?
+0xAB728342 = ~z~Ти перевірив амбар?
 
 0xC58250B2 = ~z~розпаліть багаття якомога швидше.
 
-0xAA466E20 = ~z~Oh, this son of a bitch'll talk...
+0xAA466E20 = ~z~О, цей сучий син в мене заговорить...
 
 0xC2C3177D = ~z~we'll have to stop some place.
 
-0x5C37E0D7 = ~z~They came three days ago...
+0x5C37E0D7 = ~z~Вони з'явиись три дні назад...
 
 0xAC111D10 = ~z~Джентельмени.
 
-0xDC11C791 = ~z~Oh, look what I found in the cellar.
+0xDC11C791 = ~z~Дивись, що я знайшов в підвалі.
 
 0x3B16639F = ~z~Ми досі на них не натрапили.
 
@@ -1084,11 +1084,11 @@
 
 0xAE9CF602 = ~z~ми будемо вже далеко.
 
-0x0D06954A = ~z~Miss?
+0x0D06954A = ~z~Пані?
 
 0xCDAE5D1A = ~z~Як там Дейві?
 
-0x8CC82B2A = ~z~~sl:0.0:2.7~Well, I would say it looks like you have this, Arthur.~sl:0.2~Do what you want with him, I don't care.
+0x8CC82B2A = ~z~~sl:0.0:2.7~Ну, я думаю, що ти тут сам справишся, Артуре.~sl:0.2~Роби з ним, що забажаш, мені плючати.
 
 0xF99C852B = ~z~Bill!
 
