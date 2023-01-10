@@ -1,14 +1,14 @@
-0x7CEF1E9F = Return to the ~o~barn~s~
+0x7CEF1E9F = Поверніться до ~o~амбару~s~.
 
 0x93676DE1 = ~INPUT_HORSE_STOP~ - затормозити коня.
 
 0x72F9C909 = Run
 
-0x01F3359C = Like with weapons, while highlighting an item with ~INPUTGROUP_RADIAL_MENU_NAV~ release ~INPUT_OPEN_WHEEL_MENU~ to use them.
+0x01F3359C = Предмет, як і зброю, можна вибрати за допомогою ~INPUTGROUP_RADIAL_MENU_NAV~. Щоб використати його, відпустіть ~INPUT_OPEN_WHEEL_MENU~.
 
 0x9D9BAF33 = Швидко натискайте ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_SPEEDUP~, щоб скати швидше
 
-0x2257344A = Player horse
+0x2257344A = Кінь гравця
 
 0x76B07022 = Розібратися з бандитом ~e~О'Дрісколла~s~.
 
@@ -18,11 +18,11 @@
 
 0x2388F29A = Міка
 
-0x46C4BA45 = Gang horse has died.
+0x46C4BA45 = Кінь члена банди померла.
 
-0x245DB156 = Dutch's horse
+0x245DB156 = Кінь Датча
 
-0x6933866B = The horse has now become your horse as indicated by a ~BLIP_HORSE_OWNED~ on the radar.
+0x6933866B = Цей кінь став вашим, що показано значком ~BLIP_HORSE_OWNED~ на міні-карті.
 
 0x28305069 = ~INPUT_MELEE_GRAPPLE~ - схопити бандита ~e~О'Дрисколла~s~
 
@@ -30,37 +30,37 @@
 
 0xA44102B7 = Підвищуючи рівень довіри коня, ви покращуєте його ставлення до вас та підвищуєте його характеристики.
 
-0xF235D011 = Return to the ~o~shed~s~
+0xF235D011 = Поверніться до ~o~хліва~s~.
 
-0xDB163668 = Horse
+0xDB163668 = Кінь
 
 0x63DE5442 = Різні предмети мають різні ефекти. Їжа буде відновлювати ваше здров'я. Чим вища якість їжі, тим більше вона відновить здоров'я.
 
 0xA37F76D0 = Утримуйте ~INPUT_AIM~, щоб сфокусувати на ~e~бандиті~s~.
 
-0x0D11514F = Return to the ~o~brawl~s~
+0x0D11514F = Поверніться до ~o~місця бійки~s~.
 
-0xBFBA3385 = Return to the ~o~hitching post.~s~
+0xBFBA3385 = Поверніться до ~o~конов'язв~s~.
 
-0x53DA90B9 = Good?
+0x53DA90B9 = Гаразд?
 
 0xC391B1A3 = Зїште який-небудь провіант, що відновити здоров'я.
 
-0x705245AB = You are drunk.
+0x705245AB = Ви п'яні.
 
-0xA892E096 = Hold ~INPUT_INTERACT_HORSE_FEED~ to feed the ~o~horse~s~
+0xA892E096 = утримуйте ~INPUT_INTERACT_HORSE_FEED~, щоб погодувати ~o~коня~s~.
 
-0xEBBEE4F4 = Look
+0xEBBEE4F4 = Поглянути
 
 0xB0CA47C3 = Утримуйте ~INPUT_SPRINT|PromptID=INPUT_WNT1_SPRINT2~, щоб бігти.
 
-0xC9F5F6EE = While holding ~INPUT_INTERACT_LOCKON~ you can talk to Dutch by pressing ~INPUT_INTERACT_LOCKON_POS~.
+0xC9F5F6EE = Утримуючи ~INPUT_INTERACT_LOCKON~, ви зможете поговорити з Датчем, натиснувши ~INPUT_INTERACT_LOCKON_POS~.
 
 0x8DB1F2C1 = Допитати ~e~О'Дрисоклла~s~.
 
 0xBB711BBA = Йдіть в ~o~хлів~s~, а тоді натисніть ~INPUT_COVER~, щоб зайняти укриття.
 
-0x6F97C94C = Skip
+0x6F97C94C = Пропустити
 
 0x37D5366E = Відкрити двері амбару
 
@@ -68,15 +68,15 @@
 
 0xD4F8A369 = Натисніть ~INPUT_HORSE_SPRINT|PromptID=INPUT_WNT1_SPR~, щоб зміститися блище до початку строю.
 
-0xFFB1A4FB = To perform an extended search hold ~INPUT_LOOT~.
+0xFFB1A4FB = Щоб провести детальний обшук, утримйте ~INPUT_LOOT~.
 
-0xCAF532EE = Was it a trap?
+0xCAF532EE = Це убла пастка?
 
-0x666576B0 = Approach the hitching post, and when prompted, press ~INPUT_HITCH_ANIMAL~ to hitch your horse.
+0x666576B0 = Підійдіть до конов'яза, і тоді, коли вам буде запропоновано, натисніть ~INPUT_HITCH_ANIMAL~, щоб прив'язати коня.
 
-0x23475602 = Use ~INPUT_MOVE_UP_ONLY~ and ~INPUT_JUMP~ to climb
+0x23475602 = Використайте ~INPUT_MOVE_UP_ONLY~ та ~INPUT_JUMP~, щоб перелізати.
 
-0x1E31688D = The barn was abandoned.
+0x1E31688D = Ви покинули амбар.
 
 0x5438E250 = Використайте ~INPUT_INTERACT_LOCKON_ANIMAL~, щоб погладити ~o~коня~s~.
 
@@ -92,9 +92,9 @@
 
 0xE200F4F6 = Утримуйте ~INPUT_PICKUP_CARRIABLE|PromptId=ItemPickupPrompt,Gutter~, щоб піднімати предмети під час обшуку ~o~будинку~s~.
 
-0xFDD0878D = Press ~INPUT_SELECT_NEXT_WHEEL~ to access the Item Wheel
+0xFDD0878D = Натисніть ~INPUT_SELECT_NEXT_WHEEL~, щоб відкрити селектор зброї.
 
-0x4A69108B = Slow
+0x4A69108B = Сповільнити
 
 0xD087BDD7 = Статус здоров'я знижується згодом і тепер на нулі. Ви відчуватимете негативні ефекти поки він на нулі.
 
@@ -104,7 +104,7 @@
 
 0x8F64410F = Утримуйте ~INPUT_OPEN_WHEEL_MENU~, щоб відкрити селектор зброї.
 
-0x1A4FA963 = Return to the ~o~horse~s~
+0x1A4FA963 = Поверніться до ~o~коня~s~.
 
 0x44DD34D6 = Огляньте ~o~амбар~s~.
 
@@ -118,7 +118,7 @@
 
 0x85291704 = Натисніть ~INPUT_SPRINT|PromptID=INPUT_WNT1_SPRINT,Gutter~, щоб бігти за ~e~бандитом~s~
 
-0xD22585AB = Double tap and hold ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_RALONG,Gutter~ to ride alongside ~o~Dutch~s~
+0xD22585AB = Двічі натисніть і утримуйте ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_RALONG,Gutter~, щоб скакати поруч з ~o~Датчем~s~.
 
 0x38CA88C6 = Відповісти
 
@@ -128,25 +128,25 @@
 
 0xF1BF414B = Утримуйте ~INPUT_HORSE_MOVE_UP_ONLY|PromptId=INPUT_WNT1_MSPEED~, щоб рухатись разом із ~o~Датчем~s~
 
-0xDAAD4124 = Interrogate
+0xDAAD4124 = Допитати
 
 0x99C5999F = Оглянути
 
-0x25B30A23 = The ranch was abandoned.
+0x25B30A23 = Ви покинули ферму.
 
 0xC2343910 = Говорити з Мікою
 
-0x1D628397 = Horse health is displayed in the lower left corner.
+0x1D628397 = Здоров'я коня відображається в нижньому лівому кутку.
 
 0x3D01B43C = Використовуйте ~INPUT_HORSE_STOP|PromptID=INPUT_WNT1_SLOWDOWN~, щоб притормозити коня.
 
-0x340001C2 = Enter the ~o~house~s~
+0x340001C2 = Війдіть у ~o~дім~s~
 
-0x83839BD0 = Use ~INPUT_LOOK_LR~ to switch between targets
+0x83839BD0 = Використовуйте ~INPUT_LOOK_LR~ для вибору цілі.
 
-0x9EA91474 = Use ~INPUT_HORSE_MOVE_UP_ONLY|PromptId=INPUT_WNT1_DM~ to follow Dutch and ~o~Micah~s~
+0x9EA91474 = Викоримстовуйте ~INPUT_HORSE_MOVE_UP_ONLY|PromptId=INPUT_WNT1_DM~, щоб сілдкувати за Датчем та  ~o~Мікою~s~.
 
-0x72A24F6D = ~INPUT_CONTEXT_X|PromptID=INPUT_WNT1_BWATER~ What about the money? | ~INPUT_CONTEXT_B|PromptID=INPUT_WNT1_TRAP~ Was it a trap?
+0x72A24F6D = ~INPUT_CONTEXT_X|PromptID=INPUT_WNT1_BWATER~ Що на рахунок грошей? | ~INPUT_CONTEXT_B|PromptID=INPUT_WNT1_TRAP~ Це була пастка?
 
 0xFE3BE4F6 = Відпустити
 
@@ -156,99 +156,99 @@
 
 0x2BDE142A = Підійдіть до ~o~коня~s~
 
-0x726D324F = Hitch your horse at a ~o~hitching post~s~
+0x726D324F = Прив'яжіть коня до ~o~конов'яза~s~.
 
-0x25008347 = Remain with ~o~Dutch~s~ until he's finished loading the horse
+0x25008347 = Залишайтесб з ~o~Датчем~s~ до поки він не загрузить коня.
 
-0x808ABED3 = Return to the ~o~ranch~s~
+0x808ABED3 = Поверніться до ~o~ферми~s~.
 
 0x794E6348 = Підійдіть до ~o~конов'яза~s~.
 
 0xCE873EE3 = Ти впевнений на рахунок цього?
 
-0xF9F05774 = Drinking some whiskey will increase the Stamina Core meter if low. This will help Arthur's stamina to recover quicker.
+0xF9F05774 = Випийте віскі, щоб збільшити статуз виносливості. Це допоможе Артуру швидше її відновити.
 
-0x80E2229B = Hold ~INPUT_AIM~ to lock on to ~o~Dutch~s~
+0x80E2229B = Утримуйте ~INPUT_AIM~, щоб сфокусуватися на ~o~Датчові~s~.
 
-0x1D99D56A = Dutch was injured.
+0x1D99D56A = Датч ранений.
 
-0x9BA1A515 = Hitch Horse
+0x9BA1A515 = Прив'язати коня.
 
 0x8D8BCB49 = Відкрити
 
-0xC7909614 = The shed was abandoned.
+0xC7909614 = Ви залишили хлів.
 
-0x0374B0FB = Dutch and Micah were abandoned.
+0x0374B0FB = Ви залишили Датча та Міку.
 
-0xF9198C92 = Barn horse
+0xF9198C92 = Відвести коня в амбар
 
-0x72E150A6 = Return to the ~o~cabin~s~
+0x72E150A6 = Поверніться до ~o~будинку~s~.
 
-0x3DDABC22 = Move
+0x3DDABC22 = Рухатися
 
 0xB493357B = Кінь Міки
 
 0x2AD0C18A = Зовнішня шкала показує решту вашого здоров'я. Статус у середині шкали впливає на швидкість відновлення здоров'я.
 
-0xA426B2D1 = Return to ~o~Dutch~s~
+0xA426B2D1 = Повернутися до ~o~Датча~s~.
 
-0x07B6AA83 = Hold ~INPUT_MOVE_UP_ONLY~ while approaching the ladder to climb.
+0x07B6AA83 = Утримуйте ~INPUT_MOVE_UP_ONLY~ й підійдіть до драбини, щоб залісти на неї.
 
 0x177B69A2 = Підніміть свою ~o~зброю~s~.
 
-0xB5880229 = Press ~INPUT_CONTEXT_X~ to question him. ~n~Press ~INPUT_CONTEXT_B~ to beat him.
+0xB5880229 = Натисніть ~INPUT_CONTEXT_X~, щоб задати йому питання. ~n~Натисніть ~INPUT_CONTEXT_B~, щоб побити його.
 
 0x63244869 = Кров
 
 0xD6D36A63 = Задати питання
 
-0xB4611056 = The people in the cabin were alerted.
+0xB4611056 = Люди в будинку стривожилися.
 
 0xD88D2883 = Говорити з Датчем
 
 0x2DC821D4 = Натисніть ~INPUT_REVEAL_HUD~, щоб знову подивитись поточну задачу.
 
-0x970466BD = Hold ~INPUT_OPEN_WHEEL_MENU~ to access the Weapon Wheel
+0x970466BD = Утримуйте ~INPUT_OPEN_WHEEL_MENU~, щоб відкрити селеткор зброї.
 
-0xE04D3EF9 = You can drink Whiskey by using it from the Item Wheel.
+0xE04D3EF9 = Ви можете випити віскі, вибравши його в меню предметів.
 
-0x6AD99B89 = The cabin was abandoned.
+0x6AD99B89 = Ви залишили будинок.
 
 0xA1CDE5E2 = Вокористовуйте ~INPUTGROUP_RADIAL_MENU_NAV~, щоб вибрати зброю, а потім відпускайте ~INPUT_OPEN_WHEEL_MENU~, щоб дістати її.
 
 0xA4D39698 = Вокористовуйте ~INPUT_MOVE_RIGHT_ONLY~, щоб виглянути з укриття
 
-0xDBFE7E2B = Taking a Health Cure will restore your health. To use a Health Cure access the Item Wheel by holding ~INPUT_OPEN_WHEEL_MENU~.
+0xDBFE7E2B = Лікарство відновлює рівень здоров'я. Щоб прийняти лікартво, відкрийтие селектор предметів, натиснувши ~INPUT_OPEN_WHEEL_MENU~.
 
-0x4A51CDEA = What about the money?
+0x4A51CDEA = Що на рахунок грошей?
 
-0xD2900C0E = Gun
+0xD2900C0E = Зброя
 
-0xA369C0CE = Hold ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_FMIC,Gutter~ to match speed with Dutch and ~o~Micah~s~
+0xA369C0CE = Утримуйте ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_FMIC,Gutter~, щоб вирівняти швидкість з Датчем та ~o~Мікою~s~
 
 0xF1062F04 = Використовуйте ~INPUT_HORSE_MOVE_UP_ONLY|PromptId=INPUT_WNT1_MFWD~, щоб слідкувати за ~o~Датчем~s~
 
 0x37FEEFFA = утримуйте ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_FMIC,Gutter~, щоб не відставати.
 
-0x7E51063A = To calm the horse, weapons must be holstered. ~n~Press ~INPUT_TOGGLE_HOLSTER~ to put away the weapon.
+0x7E51063A = Щоб заспокоїти коня, сховайте зброю в кобору.~n~Натисніть  ~INPUT_TOGGLE_HOLSTER~, щоб сховати зброю.
 
 0x2B8C1D6D = ~INPUT_INTERACT_LEAD_ANIMAL~ - вести ~o~коня~s~
 
 0x9B09DAA4 = ~INPUT_MELEE_ATTACK~ - атакувати ~e~бандита~s~.
 
-0xF5BFD662 = Sprint
+0xF5BFD662 = Пришвидшення
 
 0x3DEF67C7 = Здоров'я відображається в нижньому лівому кутку.
 
 0x1A38DD7B = Переміщуйте камеру за допомгою ~INPUTGROUP_LOOK~, перевірте, як там справи у Міки.
 
-0x10D918FA = While holding ~INPUT_OPEN_WHEEL_MENU~ press ~INPUT_SELECT_NEXT_WHEEL~ to access the Item Wheel.
+0x10D918FA = Утримуючи ~INPUT_OPEN_WHEEL_MENU~, натисніть ~INPUT_SELECT_NEXT_WHEEL~, щоб відкрити слектор предметів.
 
-0x2842B840 = Pack horse
+0x2842B840 = Завантажений кінь
 
 0x03A1F5B1 = Утримуйте ~INPUT_OPEN_SATCHEL_MENU|Gutter~, щоб відкрити вашу сумку.
 
-0xC822B644 = Hold ~INPUT_HORSE_MOVE_UP_ONLY|PromptId=INPUT_WNT1_FMIC,Gutter~ to match speed with Dutch and ~o~Micah~s~
+0xC822B644 = Утримуйте ~INPUT_HORSE_MOVE_UP_ONLY|PromptId=INPUT_WNT1_FMIC,Gutter~, щоб вирівняти швидкість з Датчем та ~o~Мікою~s~.
 
 0x419190BA = Використовую ~INPUT_MOVE_UP_ONLY~, щоб виглянути з укриття
 
@@ -256,27 +256,27 @@
 
 0x3675C9DC = Захисітіть ~o~Датча~s~
 
-0x2677099F = The horse was abandoned.
+0x2677099F = Ви кинули коня..
 
 0x46BCD1D2 = ~a~
 
-0x01F6B989 = Press ~INPUT_MELEE_GRAPPLE~ to grab the O'Driscoll.
+0x01F6B989 = Натисніть ~INPUT_MELEE_GRAPPLE~, щоб схопити бандита О'Дрісколла.
 
-0x54853837 = The barn wasn't inspected.
+0x54853837 = Ви не оглянули амбар.
 
-0xDBB60AE7 = RideAlong
+0xDBB60AE7 = Слідкувати
 
 0xB36FF391 = Утримуйте ~INPUT_MOVE_UP_ONLY~, щоб бігти за ~e~бандитом~s~
 
-0x9C2B623B = Hitching a horse will keep the horse at that location.~s~
+0x9C2B623B = Якщо прив'язати коня до конов'яза, він нікуди не втиче.~s~
 
-0x37349935 = Continue searching the ~o~house~s~
+0x37349935 = Продовжуйте обшукувати ~o~дім~s~.
 
 0x2F57B202 = Швидко натискайте ~INPUT_SPRINT~, щоб бігти.
 
-0xD65FDD5C = Speed
+0xD65FDD5C = Швидкість
 
-0xEC72C362 = Further?
+0xEC72C362 = Ще далільше?
 
 0xD91AD0AC = Великі позначки на карті позначають території, які треба обшукати.
 
@@ -284,23 +284,23 @@
 
 0x116AEFB2 = Міка
 
-0x8ECFE8DA = The brawl was abandoned.
+0x8ECFE8DA = Ви втікли від бійки.
 
 0x5D102E68 = Придушити
 
 0x4ED8B2D2 = Вирівняти швидкість
 
-0x83CF9D85 = While highlighting an item with ~INPUTGROUP_RADIAL_MENU_NAV~ release ~INPUT_OPEN_WHEEL_MENU~ to use them
+0x83CF9D85 = Виділивши предмет з допомогою ~INPUTGROUP_RADIAL_MENU_NAV~, відпустіть ~INPUT_OPEN_WHEEL_MENU~, щоб використати його.
 
-0xB4377BC5 = Go outside and meet ~o~Dutch~s~
+0xB4377BC5 = Вийдіть та зустріньтесь з ~o~Датчем~s~
 
-0x9F30A490 = Toggle ~INPUT_SPRINT|PromptID=INPUT_WNT1_SPRINT2~ to sprint
+0x9F30A490 = Натисніть ~INPUT_SPRINT|PromptID=INPUT_WNT1_SPRINT2~, щоб бігати швидше.
 
 0x6F33009A = Утримуйте ~INPUT_HORSE_SPRINT|PromptId=INPUT_WNT1_MSPEED~, щоб рухатись разом із ~o~Датчем~s~
 
 0x05504796 = Тобі більше ніхто не попадався?
 
-0xC747614E = However drinking too much whiskey will cause Arthur to be drunk. Affecting his movement and reactions.
+0xC747614E = Але якщо випити надто багато, Артур сп'яніє. Його координація рухів та реакція погіршиться.
 
 0x06A7AD1D = Двічі натисніть та утримуйте ~INPUT_HORSE_SPRINT|PromptID=INPUT_WNT1_SPR~, затиснувши ~INPUT_MOVE_UP_ONLY|PromptID=INPUT_WNT1_DM~, щоб зміститися ближче до початку строю.
 

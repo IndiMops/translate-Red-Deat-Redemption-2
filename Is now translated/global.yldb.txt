@@ -992,7 +992,7 @@
 
 0xDD4DDFA9 = Menasco Капелюх
 
-0x0B300D8F = Майстрювати
+0x0B300D8F = Ремесла
 
 0xD232D491 = A delicately enameled buckle.
 
@@ -1816,7 +1816,7 @@
 
 0xDE54E2C1 = Cephalopod Fossil
 
-0xB3E4B852 = Flora of America Card 4
+0xB3E4B852 = Флора Америки, картка 4
 
 0x1BE02051 = Leather Wrap
 
@@ -3514,7 +3514,7 @@
 
 0x100A188C = Webster Gun Belt
 
-0x687270F5 = Dutch was abandoned.
+0x687270F5 = Ви кинули Датча.
 
 0xC8CDD151 = november
 
@@ -5192,7 +5192,7 @@
 
 0xD3D2E077 = Moonshiner - The Wilkesboro
 
-0x361B42C6 = To select an item, push the ~INPUTGROUP_RADIAL_MENU_NAV~ in any direction.
+0x361B42C6 = Щоб використати предмет, використовуйте ~INPUTGROUP_RADIAL_MENU_NAV~.
 
 0xFC8D0937 = Red Enamel
 
@@ -6128,7 +6128,7 @@
 
 0x78B487BB = Vaquero Spurs
 
-0x6E7D7D87 = Provisions
+0x6E7D7D87 = Провіант
 
 0xD2CDE1D7 = Paisley Vest
 
@@ -7665,7 +7665,7 @@
 
 0x91A4A492 = Durham Пальто
 
-0x425F554D = Flora of America Card 2
+0x425F554D = Флора Америки, картка 2
 
 0x16A82997 = A letter from Henri Lemieux to Tacitus Kilgore, suggesting a meeting at the Mayoral Residence.
 
@@ -10191,7 +10191,7 @@
 
 0x4A246378 = Fancy leather boots with a scalloped top and decorative pull ties. Finished by hand with elaborate floral decoration. Exquisite.
 
-0x1EDB3832 = Enemy
+0x1EDB3832 = Ворог
 
 0x51F76B4E = Western Rider Spurs. Sleeked leather boot straps with polished steel heel band, shank and 8 point rowels.
 
@@ -10377,7 +10377,7 @@
 
 0xB993D36D = Cook another or exit the Crafting menu
 
-0xC881E25C = Gold Pocket Watch
+0xC881E25C = Золотий кишеньковий годинник
 
 0x1A2C3409 = Special
 
@@ -10483,7 +10483,7 @@
 
 0xD834F248 = Naturalist
 
-0x272A413F = Clothes
+0x272A413F = Одяг
 
 0xA78EC1A3 = WANTED for the RECKLESS ASSAULT of numerous passersby with a knife while deep in his cups.
 
@@ -11681,7 +11681,7 @@
 
 0x4D5C6A73 = Beaver
 
-0x9E11BB28 = No items in slot
+0x9E11BB28 = В комірці немає предметів
 
 0x0DD82AEF = Complete challenge Horseman 1
 
@@ -11859,7 +11859,7 @@
 
 0xE96206E9 = Grave
 
-0xB860D5E9 = Empty
+0xB860D5E9 = Пусто
 
 0x656582F0 = A Perfect Squirrel Pelt can be used to craft a Капелюх
 
@@ -12459,7 +12459,7 @@
 
 0xACCECBEC = White Gold Shield Horn
 
-0x93F1B310 = EMPTY
+0x93F1B310 = ПУСТО
 
 0x14C433E5 = Smoke
 
@@ -13345,7 +13345,7 @@
 
 0x31D0532C = Charles has purchased some plans for the Rhodes Bank, which show a structural weakness in one of the walls. Arthur, Charles and Uncle plan to destroy the wall with dynamite, and rob the safes inside.
 
-0x049725F3 = Release ~INPUT_OPEN_WHEEL_MENU~ To Remove
+0x049725F3 = Сховати: відпустіть ~INPUT_OPEN_WHEEL_MENU~.
 
 0x9B6DBCCB = Керування жестами
 
@@ -13705,7 +13705,7 @@
 
 0x58DB7AFA = Angry Isolationist
 
-0x73069525 = Golden Currants - Ribes Aureum~n~Hummingbird Sage - Salvia Spathacea~n~Oleander Sage - Nerium Oleander~n~Yarrow - Achillea Millefolium~n~Indian Tobacco - Lobelia Inflata~n~Black Mangrove - Avicennia germinans~n~Longleaf Pine - Pinus palustris~n~Desert Fan Palm - Washingtonia filifera~n~Coastal Redwood - Sequoia sempervirens~n~Horse Crippler Cactus - Echinocactus texensis~n~Blazing Star - Mentzelia lindleyi~n~Carolina Lupine - Thermopsis villosa
+0x73069525 = Смородина золотиста – Ribes Aureum~n~Шавлія покривальцева – Salvia Spathacea~n~Олеандр – Nerium Oleander~n~Деревій – Achillea Millefolium~n~Індійський тютюн – Lobelia Inflata~n~Авіценнія блискуча – Avicennia germinans~n~Сосна болотна – Pinus palustris~n~Вашингтонія нитконосна – Washingtonia filifera~n~Секвоя – Sequoia sempervirens~n~Калічник-коней, кактус – Echinocactus texensis~n~Ментцелія – Mentzelia lindleyli~n~Каролінський люпин – Thermopsis villosa
 
 0x95AFB7D0 = Mission Over
 
@@ -13899,7 +13899,7 @@
 
 0xEA4B0CE5 = Congratulations, you have been gifted items from Rockstar for completing 2-Step Verification.
 
-0xD210F4AE = Flora of America Card 8
+0xD210F4AE = Флора Америки, картка 8
 
 0xDCCAFF68 = TOKENS
 
@@ -15835,7 +15835,7 @@
 
 0x9E90C5C1 = Beryl's Dream
 
-0xEC421373 = Provisions
+0xEC421373 = Провіант
 
 0x3B356267 = Sheep's Wool Jacket
 
@@ -16277,7 +16277,7 @@
 
 0xA00EC847 = Dishonorable Bounty Hunter Buckle
 
-0x98BBC0F5 = Health Tonics
+0x98BBC0F5 = Тоніки здоров'я
 
 0x9CC4C4FF = by a wolf
 
@@ -18147,7 +18147,7 @@
 
 0xFFAA2C5F = Do not continue to bother your neighbor or strangers for the time of day when you can finally have a watch of your own.~n~
 
-0xD2BFFF75 = Health Tonics
+0xD2BFFF75 = Тоніки здоров'я
 
 0xB393E04A = Bow Tie
 
@@ -19367,7 +19367,7 @@
 
 0x6316928B = You have learned the Potent Predator Bait recipe.
 
-0x919BC110 = Provisions
+0x919BC110 = Провіант
 
 0xDD8E0D05 = Toxic Moonshine
 
@@ -22693,7 +22693,7 @@
 
 0x6FDBA7BB = Copper
 
-0x942DCC0E = Enemy
+0x942DCC0E = Ворог
 
 0xC739FF1F = When trekking through the heartland, it is vital to memorize every possible route to settlements near and far. For one never knows when a hunting trip may be interrupted by an urgent need to visit the Gunsmith, Stable or Saloon.~n~Take stock, plan your route and travel across the country from wherever you are currently pitched.
 
@@ -23027,7 +23027,7 @@
 
 0xBEDEF78C = You have learned the Potent Herbivore Bait recipe.
 
-0xFB673414 = Release ~INPUT_OPEN_WHEEL_MENU~ To Use
+0xFB673414 = Використати: відпустіть ~INPUT_OPEN_WHEEL_MENU~
 
 0x9328CBD8 = Trader role. Meet Cripps at the General Store to found your very own Trading Company.
 
@@ -24137,7 +24137,7 @@
 
 0x6B59A6C4 = An invitation to take part in Trader Events.
 
-0x2EDE6A4B = Mount Horse
+0x2EDE6A4B = Сісти на коня
 
 0x34BF702C = There is not an open campsite close enough to set up camp.
 
@@ -25647,7 +25647,7 @@
 
 0x9645D559 = Use this Offer in the General Store or the Handheld Catalogue.
 
-0x2DB26CC7 = Stamina Tonics
+0x2DB26CC7 = Тоніки витривалості
 
 0x36E175F7 = Carrier Defended +~1~
 
@@ -27399,7 +27399,7 @@
 
 0xA0D1E41B = Casual Shirtwaist
 
-0xBD7800C3 = Corpse
+0xBD7800C3 = Труп
 
 0x87DACB28 = Pacific Union Cap
 
@@ -27497,7 +27497,7 @@
 
 0xA9E8ED63 = Kladruber~n~Gray Пальто
 
-0x127B55F8 = Flora of America Card 12
+0x127B55F8 = Флора Америки, картка 12
 
 0xD35816D5 = Exit Cover
 
@@ -27617,7 +27617,7 @@
 
 0x609AA469 = Visit Henri Lemieux.
 
-0x8D4ED11E = Enemy
+0x8D4ED11E = Ворог
 
 0xD2A61677 = Can be used in the Thyme Plump Bird recipe
 
@@ -30019,7 +30019,7 @@
 
 0x11B25B49 = Arrow - Fire
 
-0x790CC2A3 = Flora of America Card 5
+0x790CC2A3 = Флора Америки, картка 5
 
 0x4C6695FF = A heavy, gruesome mask available in numerous materials.
 
@@ -32909,7 +32909,7 @@
 
 0x22997310 = Fulbright Пальто
 
-0x8E80DEF8 = Retry Checkpoint
+0x8E80DEF8 = Контрольна точнка
 
 0xCCEF1D69 = Gerden Deluxe Spurs
 
@@ -34651,7 +34651,7 @@
 
 0xC1A4166F = Efficient Cooking Skill Page
 
-0x23CA7896 = Flora of America Card 11
+0x23CA7896 = Флора Америки, картка 11
 
 0x1EAA7376 = Hosea's Cattleman Revolver
 
@@ -35995,7 +35995,7 @@
 
 0x2D518565 = Western Saddle
 
-0x0827603D = Release ~INPUT_SELECT_ITEM_WHEEL~ To Remove
+0x0827603D = Сховати: відпустіть ~INPUT_SELECT_ITEM_WHEEL~
 
 0x8302DB19 = The Timber Rattlesnake is native to Lemoyne, New Hanover and parts of West Elizabeth. As carnivores, they prey on small birds, mice, rabbits, and lizards. Like all snakes, only a small amount of sedative is needed.
 
@@ -36533,7 +36533,7 @@
 
 0x030A5C63 = Win 3 games of Five Finger Fillet
 
-0x9730F08B = Release ~INPUT_AIM~ To Use
+0x9730F08B = відпустіть ~INPUT_AIM~, щоб використати
 
 0x3DC89723 = Tanguma Bandolier
 
@@ -37245,7 +37245,7 @@
 
 0xAEC509DE = Frontiersman Gloves
 
-0x01C45CDE = Empty Slot
+0x01C45CDE = Пуста комірка
 
 0xCCEB2806 = Le Tresor des Morts Treasure
 
@@ -39225,7 +39225,7 @@
 
 0x171476FD = Garments crafted by Gus
 
-0x8CC5ECB0 = Health Tonics
+0x8CC5ECB0 = Тоніки здоров'я
 
 0x27C687B1 = Bounty Poster for Mr. Black and Mr. White
 
@@ -41231,7 +41231,7 @@
 
 0x8683EB77 = Letter to the doctor from Donal
 
-0x5F23C41A = Enemy
+0x5F23C41A = Ворог
 
 0xB465195C = Dutch told you to meet up with Hosea and Sean at Braithwaite Manor while they ingratiate themselves.
 
@@ -41345,7 +41345,7 @@
 
 0xDCC441F2 = Good Bison Pelt
 
-0xCE343363 = Enemy
+0xCE343363 = Ворог
 
 0xB47419A4 = The Gatlinburg
 
@@ -43165,7 +43165,7 @@
 
 0x05F46FF4 = The pelt from a Rat in good condition displaying minor damage. Can be sold.
 
-0x5B83C585 = Enemy
+0x5B83C585 = Ворог
 
 0xDF05490B = Our handstitched leather boot with a roper heel, square toe and long streaming tassel. A first quality boot.
 
@@ -43803,7 +43803,7 @@
 
 0x36B4A253 = Perfect Bobcat Carcass
 
-0xF58E612D = Mount Horse
+0xF58E612D = Сісти на коня
 
 0x4BFDB79E = ONE OF THE MOST VERSATILE BREEDS ON OFFER~n~
 
@@ -45161,7 +45161,7 @@
 
 0x8C17FAE4 = COMPRISED OF A CLASSIC FROCK COAT, PAISLEY VEST, WIDE COLLAR SHIRTWAIST, PREACHER'S PRIDE BOOTS, AND DRIFTER HAT, IT WILL SURELY BE THE FINEST ENSEMBLE IN YOUR WARDROBE.~n~
 
-0x8595F462 = Provisions
+0x8595F462 = Провіант
 
 0x721AE0E8 = Ribbon Tie
 
@@ -47015,7 +47015,7 @@
 
 0xBAB12DE7 = Crossback Suspenders
 
-0x3004A33C = Release ~INPUT_SELECT_ITEM_WHEEL~ To Use
+0x3004A33C = Використати: відпустіть ~INPUT_SELECT_ITEM_WHEEL~
 
 0xB3D92711 = Catch and return Anders Anderson to jail within 5 minutes 30 seconds
 
@@ -47377,7 +47377,7 @@
 
 0x987D0C80 = Coin Cup
 
-0xC252365A = Enemy
+0xC252365A = Ворог
 
 0xA3F217FC = Inglett Scarf
 
@@ -50302,7 +50302,7 @@
 
 0x0F998AD7 = Wanted Fugitive
 
-0x8D030840 = Provisions
+0x8D030840 = Провіант
 
 0xF502703F = A convenient travel service that can quickly transport you from Lagras to other major towns in the world. It can also return you to your Camp for a fee.
 
@@ -51106,7 +51106,7 @@
 
 0xE0945DDC = The skinned body of a pig in perfect condition. Can be taken to a Butcher and sold for cash.
 
-0x1A8F97D9 = Enemy
+0x1A8F97D9 = Ворог
 
 0xD28B4FD5 = Easy Rider
 
@@ -52294,7 +52294,7 @@
 
 0x7E50FE9F = How To Prepare
 
-0xB85638A4 = Retry Mission
+0xB85638A4 = Розпочати завдання знову
 
 0x1E539EA2 = The shady dealer at Saint Denis buys rustled horses, and keeps a stock of forged papers.
 
@@ -52672,7 +52672,7 @@
 
 0xA58F26C0 = Complete a 28 day streak
 
-0x30A4B1D8 = Flora of America Card 1
+0x30A4B1D8 = Флора Америки, картка 1
 
 0x71D5F309 = The Pittsburg
 
@@ -55076,7 +55076,7 @@
 
 0xE1DD68E1 = Poor Goat Carcass
 
-0x3254B95B = Winter Gloves
+0x3254B95B = Зимові рукавиці
 
 0xF4B77BBD = Unkempt
 
@@ -56482,7 +56482,7 @@
 
 0xCB4D55AA = Good Pelican Carcass
 
-0x22E6AD46 = Resume
+0x22E6AD46 = Продовжити
 
 0xF4E67F47 = Unfavor Emote
 
@@ -59038,7 +59038,7 @@
 
 0x69C1FA19 = Furred Gloves
 
-0xBFCB5023 = Flora of America Card 7
+0xBFCB5023 = Флора Америки, картка 7
 
 0x35DCC637 = Jawbone Knife
 
@@ -61460,7 +61460,7 @@
 
 0x5141E7AD = Bandana
 
-0x02159883 = FAILED
+0x02159883 = ПРОВАЛ
 
 0xBA2D509B = Turret Ammo
 
@@ -62084,7 +62084,7 @@
 
 0x0B50A332 = Active Ability Card
 
-0x202FB811 = Enemy
+0x202FB811 = Ворог
 
 0x6C480429 = Blackburn Boots
 
@@ -64202,7 +64202,7 @@
 
 0x8CD429F6 = Enhanced Lever
 
-0xD2CA6FEC = Flora of America Card Set
+0xD2CA6FEC = Набір карток «Флора Америки»
 
 0x8DB42AD7 = Spurs
 
@@ -65012,7 +65012,7 @@
 
 0x31F6D100 = Buckley Капелюх
 
-0x79F318FD = Enemy
+0x79F318FD = Ворог
 
 0x175FB66B = Heartlands Oil Fields
 
@@ -68194,7 +68194,7 @@
 
 0x1150B848 = LOUISE MOSLEY
 
-0x4DEDF4E5 = Enemy
+0x4DEDF4E5 = Ворог
 
 0x0AA9B1A3 = A 4 Gold Bar Reward.
 
@@ -68452,7 +68452,7 @@
 
 0x9E3445DC = THE MCMURPHY GANG
 
-0x3314DABD = Corpse
+0x3314DABD = Труп
 
 0xCFD6777F = Hold ~INPUT_HORSE_MOVE_UP_ONLY~ to maintain the horse's canter and to replenish its Stamina.
 
@@ -71794,7 +71794,7 @@
 
 0x4574F536 = Bow Tie
 
-0x380FE7D1 = Enemy
+0x380FE7D1 = Ворог
 
 0x577F0741 = Agent
 
@@ -73302,7 +73302,7 @@
 
 0xE7B39B3D = Elk Antler
 
-0x4A78FE05 = COASTAL REDWOOD
+0x4A78FE05 = СЕКВОЙЯ ВІЧНОЗЕЛЕНА
 
 0xFA10AD9C = This bison is said to make its home just west of Deadboot Creek. Its dense, pale yellow fur helps to camouflage it against the Ambarino snow. Bison can be unpredictable creatures. Maintaining a safe distance is recommended.
 
@@ -78056,7 +78056,7 @@
 
 0xFC25BB2A = Rowberrow Boots
 
-0xEC7CAB83 = Flora of America Cigarette Card
+0xEC7CAB83 = Цигаркова картка з набору «Флора Америки»
 
 0xF400B307 = Minutes from a meeting.
 
@@ -78498,7 +78498,7 @@
 
 0x7A473A5C = Sean Macguire
 
-0x5F121F28 = COASTAL FOSSILS
+0x5F121F28 = ПРИБЕРЕЖНІ ЗАКАМ'ЯНІЛОСТІ
 
 0x22C3E2DB = How To Prepare
 
@@ -81846,7 +81846,7 @@
 
 0x54B41D2A = This week, Madam Nazar is looking for three coins from the nineteenth century. Find all the items listed and sell the complete collection to Madam Nazar for a reward. You can sell the collection in person or you can mail it to her from any Post Office.
 
-0x5DC12638 = Clothes Shop
+0x5DC12638 = Магазин одягу
 
 0xD4B09D2C = Ability Card upgrade available with cash
 
@@ -81932,7 +81932,7 @@
 
 0x0972D221 = Nevin Hipflask
 
-0x782740D5 = Перезапустити місію
+0x782740D5 = Перезапустити завдання
 
 0x53521C00 = You attacked Bill's horse.
 
@@ -82549,7 +82549,7 @@
 
 0x58F32320 = You have removed the storage device.
 
-0x991E634C = Flora of America Card 10
+0x991E634C = Флора Америки, картка 10
 
 0x43D20E00 = Note to Mother
 
@@ -82681,7 +82681,7 @@
 
 0x06A4D11F = Can be used in the Minty Game recipe
 
-0xAED0794D = Flora of America
+0xAED0794D = Флора Америки
 
 0x8FA65A24 = A wagon for securely retaining bounty targets.
 
@@ -83537,7 +83537,7 @@
 
 0x880E54A0 = Legendary Ghost Panther Sample
 
-0x8A8F5721 = Empty
+0x8A8F5721 = Пусто
 
 0xA7B17445 = Great Blue Heron
 
@@ -84205,7 +84205,7 @@
 
 0x2F7AFDE0 = WM. A. BURT'S TYPEWRITER.
 
-0x0D3EDBA5 = Provisions
+0x0D3EDBA5 = Провіант
 
 0x88295694 = You do not have the required Outlaw Pass No. 5 Rank.
 
@@ -86273,7 +86273,7 @@
 
 0xC8239B9D = Weapons degrade slower.
 
-0xE891BC0C = Provisions
+0xE891BC0C = Провіант
 
 0x88215B9D = Core Drain Rate
 
@@ -86509,7 +86509,7 @@
 
 0x5A992E9C = Get assists
 
-0x304B044E = Enemy
+0x304B044E = Ворог
 
 0xC388978C = Wanted Fugitive
 
@@ -86879,7 +86879,7 @@
 
 0x2080F54A = Лікар
 
-0xA69B7B65 = Provisions
+0xA69B7B65 = Припаси
 
 0xCA5B9F26 = Fine Leather Suspenders
 
@@ -86961,7 +86961,7 @@
 
 0xAA5C7F52 = Aiming at Defensive players will show ~BLIP_MP_PLAYSTYLE_DEFENSIVE~. Killing a Defensive player will greatly increase your Hostility if they choose to Press Charges against you. Killing non-Hostile players while Defensive will greatly increase your Hostility.
 
-0xCD32A229 = Corpse
+0xCD32A229 = Труп
 
 0x17A8ECA0 = Pearson's horse has died.
 
@@ -87163,7 +87163,7 @@
 
 0x6BD44154 = Coats
 
-0xFA71CFF2 = Enemy
+0xFA71CFF2 = Ворог
 
 0x6D7F4301 = Create Random Horse
 
@@ -87259,7 +87259,7 @@
 
 0xE589BB3D = Sending to Facebook...
 
-0xBFF995AF = Provisions
+0xBFF995AF = Корм
 
 0xD245A7FD = Color
 
@@ -87895,7 +87895,7 @@
 
 0x73574A96 = Legendary Inahme Elk
 
-0x48C12000 = Enemy
+0x48C12000 = Ворог
 
 0xE1B1B8F1 = Redemption 'Sindewinder' Horn
 
@@ -88251,7 +88251,7 @@
 
 0x43111B14 = Big China Pigs are found on ranches and in towns across New Hanover. Their omnivorous diet includes mice, worms, eggs, grasses, fungi, and roots. It's considered that the best weapons to hunt pigs with are a Bow with arrows, or a repeater. Their skin can be used for crafting and their tender meat is a good source of food.
 
-0x1551ED55 = Empty Bottle
+0x1551ED55 = Пуста пляшка
 
 0x4EDD26E2 = Western Chipmunks collected
 
@@ -88563,7 +88563,7 @@
 
 0x26AAFF79 = HARRISON ROGERS
 
-0x93926C61 = Stamina Tonics
+0x93926C61 = Тоніки витривалості
 
 0xD9F0B2BF = You have decided to join a Red Dead Online session. Are you sure you would like to proceed?
 
@@ -89811,7 +89811,7 @@
 
 0xA8A58480 = GET THE COMPLETE ATTIRE FOR LIFE ON THE RANGE~n~
 
-0x8B52672E = Flora of America Card 6
+0x8B52672E = Флора Америки, картка 6
 
 0x7AD756B4 = Unknown Miscellaneous Task
 
@@ -93989,7 +93989,7 @@
 
 0x26D80CE6 = Provisions Parcel
 
-0x993C7F4B = Майстрювання
+0x993C7F4B = Ремесла
 
 0x30CC16DB = Poison Throwing Knife Pamphlet
 
@@ -95875,7 +95875,7 @@
 
 0x8FAF7A89 = AN ANGLER IS A PROPHET, a muse, a man of instinct that profits by his higher intelligence and temperament. He is alpha, not a bottom feeder, and an ingenious modification to a lure can bring a beastly bottom feeder to be his breakfast.~n~Monster Catfish and Gar love this lure. Pike and Salmon find it appealing as well. Best of luck!
 
-0x9A51852C = Flora of America Card 3
+0x9A51852C = Флора Америки, картка 3
 
 0xEC2ED70A = Trimmed Bandana
 
@@ -98353,7 +98353,7 @@
 
 0x8DD27EB6 = Letter from Lenny's Father
 
-0x46C537AB = Provisions
+0x46C537AB = Провіант
 
 0xA6729759 =  In some ways, I hope you do not understand it. Here is one such truth. I know that I have sometimes been more tutor than father to you. But do not let my sermons on your future as a lawyer persuade you that I see you more as pupil than son. When we meet again on Sunday next, I expect I will have stiffened once more. But this brief distance gives me liberty to tell you that you have redeemed more than you know, or can ever know, or should ever be expected to bear.
 
@@ -99245,13 +99245,13 @@
 
 0xE681D9B2 = Children are simpleminded and cannot comprehend the concept of class. While not to suggest condescension nor servility, the simple truth is that children will play with other children well beneath them socially, engaging in games of catch or stickball with naked guttersnipes and tatterdemalions.~n~
 
-0x1BCE0F01 = Enemy
+0x1BCE0F01 = Ворог
 
 0xFA1FED52 = The Bullard
 
 0x32AF25E3 = Street Kid
 
-0x6D616095 = Enemy
+0x6D616095 = Ворог
 
 0x89C47CFA = Pinkerton
 
@@ -99531,7 +99531,7 @@
 
 0x61725546 = with a Torch
 
-0x4E3C4210 = Release ~INPUT_OPEN_WHEEL_MENU~ to equip the Camera
+0x4E3C4210 = Відпустіть ~INPUT_OPEN_WHEEL_MENU~, щоб взяти фотоапарат
 
 0x7E2371F7 = 1792 Quarter
 
@@ -100047,7 +100047,7 @@
 
 0x564C4B40 =  We do not believe in idle balderdash. We know the truth. We do not spread lies and nonsense. We understand that the world is a dangerous place and that truth can only be found by years of careful study and the most careful study of all is Chelonianism. The study of safety is the study of truth. For he who is not safe will not see the truth, for death is a lie that seduces us all. We who know shall live for ever through science.
 
-0xA467995C = Flora of America Card 9
+0xA467995C = Флора Америки, картка 9
 
 0x01B2F6A8 = Progress through all 15 Ranks of ~COLOR_VIP~The Halloween Pass 2~s~ to unlock the following Rewards:~n~- Blood-soaked clothing items~n~- Seasonal masks and personal effects~n~- The Widow Pump-Action Shotgun Variant~n~- The Glabella Lantern~n~- Plus much more~n~
 
@@ -100899,7 +100899,7 @@
 
 0x76436D58 = Butchers
 
-0x1965107D = Corpse
+0x1965107D = Труп
 
 0x4A43415B = Kill a pursuers horse during the escape
 
@@ -101629,7 +101629,7 @@
 
 0x1FFB18E9 = Риболовля: крутити котушку повільніше
 
-0xB8D3B1C1 = Майстрювати
+0xB8D3B1C1 = ПРемесла
 
 0x14370D26 = This slightly run-down saloon offers food and drinks at reasonable prices. Thrillseekers can buy in to one of the regular poker games played upstairs.
 
@@ -103763,7 +103763,7 @@
 
 0xEBFFEA3D = French Dress Shirt
 
-0x5A8B58CE = Enemy
+0x5A8B58CE = Ворог
 
 0x820D8051 = Connection to the active Red Dead Online session lost due to an unknown network error.
 
