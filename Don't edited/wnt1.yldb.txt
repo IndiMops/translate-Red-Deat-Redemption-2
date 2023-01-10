@@ -2,7 +2,7 @@
 
 0x93676DE1 = ~INPUT_HORSE_STOP~ - затормозити коня.
 
-0x72F9C909 = Run
+0x72F9C909 = Бігти
 
 0x01F3359C = Предмет, як і зброю, можна вибрати за допомогою ~INPUTGROUP_RADIAL_MENU_NAV~. Щоб використати його, відпустіть ~INPUT_OPEN_WHEEL_MENU~.
 
