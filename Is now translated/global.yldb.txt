@@ -74,7 +74,7 @@
 
 0x988898B4 = Капелюх «Ґеррак»
 
-0xF756F783 = Незнайомець
+0xF756F783 = Незнайома людина
 
 0x8AE98B18 = Обміняти золото
 
@@ -1246,7 +1246,7 @@
 
 0xCBB0CEB4 = Select Revolvers
 
-0xD5F8D8FD = Незнайомець
+0xD5F8D8FD = Незнайома людина
 
 0x12A715AE = You must update your system software to access network features.
 
@@ -1564,9 +1564,9 @@
 
 0x53CD5792 = The Artist's Way - III
 
-0xB556B91C = Shells
+0xB556B91C = Звичайні
 
-0x17D31B9A = Indigo
+0x17D31B9A = Індиго
 
 0x07120ADB = Mattock Vest
 
@@ -2096,7 +2096,7 @@
 
 0xB978BE94 = Filera Капелюх
 
-0x56A25BBE = Незнайомець
+0x56A25BBE = Незнайома людина
 
 0x2EBB33D8 = Woolen Sweater
 
@@ -4488,7 +4488,7 @@
 
 0xE86CF349 = There has been a problem retrieving your subscription details.
 
-0x7A278508 = Davey Callander
+0x7A278508 = Дейві Келландер
 
 0xE73FF221 = Slim-line Iron Stirrup
 
@@ -5182,7 +5182,7 @@
 
 0x27A1343D = Mercy Kill
 
-0xF206FEA3 = Chapter 1
+0xF206FEA3 = Розід 1
 
 0x502B5CCE = Moonshine Ingredients Parcel
 
@@ -7493,7 +7493,7 @@
 
 0x53F7666F = Poison Throwing Knife
 
-0x1A332CAF = Tennessee Walker
+0x1A332CAF = Теннессійська
 
 0xCA79DCF6 = Gold
 
@@ -8871,7 +8871,7 @@
 
 0x34724A6F = Dead Eye Regen Rate
 
-0x0E11240E = Follow ~o~Micah~s~
+0x0E11240E = Слідуйте за ~o~Мікою~s~.
 
 0xB816CE15 = Seasoned Bounty Hunter Buckle
 
@@ -10609,7 +10609,7 @@
 
 0xCCE6E74F = Наразi неможливо пiдключитися до сервiсiв iгор Rockstar. Будь-ласка спробуйте пiзнiше. (Error: 0x~1~)
 
-0x1BFF3669 = After a failed robbery, the gang have fled from Blackwater into the Grizzly Mountains, but a late spring storm has left them half frozen and starving. They hole up in an abandoned mining town to lick their wounds and await a break in the weather.
+0x1BFF3669 = Після невдалого пограбування члени банди спішно покинули Блеквотер і рушили в гори Грізлі, але залишилися практично без запасів, а буря, що налетіла, прибирала до кісток. Вони сховалися в покинутому шахтарському селищі та стали чекати на зміну погоди, зализуючи рани.
 
 0x4ACA6534 = Kneller Spurs
 
@@ -11857,7 +11857,7 @@
 
 0x37C15549 = WILEY PRICE
 
-0xE96206E9 = Grave
+0xE96206E9 = Могила
 
 0xB860D5E9 = Пусто
 
@@ -12251,7 +12251,7 @@
 
 0xF15E0FED = Posse Race won
 
-0x8F81AE11 = Follow ~o~Leopold Strauss~s~
+0x8F81AE11 = Слідуйте за ~o~Леопольдом Штраусом~s~.
 
 0x666084F0 = Perfect Panther Carcass
 
@@ -14325,7 +14325,7 @@
 
 0x2FCE537D = with an Electric Lantern
 
-0x2F4952F9 = Javier
+0x2F4952F9 = Хав'єр
 
 0x3F4D62FD = Request Solo Portrait
 
@@ -15501,7 +15501,7 @@
 
 0xF8941F02 = Survivalist
 
-0x45A76C17 = Follow ~o~Dutch~s~
+0x45A76C17 = Слідуйте за ~o~Датчем~s~.
 
 0x21A24812 = Gerden Spurs
 
@@ -19003,7 +19003,7 @@
 
 0x7862A707 = Appraiser
 
-0xB6D3E578 = View Story progress and replay missions
+0xB6D3E578 = Перегляд ходу сюжету та повторення завдань
 
 0x2B875A2D = Treasure Map - Cumberland Forest West
 
@@ -19081,7 +19081,7 @@
 
 0x603D8F0B = Hemiston Капелюх
 
-0x0A843952 = Hold ~INPUT_FEED_INTERACT~ for details
+0x0A843952 = Утримуйте ~INPUT_FEED_INTERACT~, щоб дізнатися детелі.
 
 0x69DE98AD = Brass
 
@@ -19573,7 +19573,7 @@
 
 0x566E867A = Послуги
 
-0xDC420C50 = Follow ~o~Molly~s~
+0xDC420C50 = Слідуйте за ~o~Моллі~s~
 
 0x1A564A66 = JOHN ROSS
 
@@ -20617,7 +20617,7 @@
 
 0x463678FA = Hard Time Buckle
 
-0xD5A9086C = Hold ~INPUT_FEED_INTERACT~ for details
+0xD5A9086C = Утримуйте ~INPUT_FEED_INTERACT~, щоб дізнатися деталі.
 
 0xDF741237 = Invite Party
 
@@ -21777,7 +21777,7 @@
 
 0x664F9BDF = Wentworth Капелюх
 
-0xFD2632B5 = Hold ~INPUT_FEED_INTERACT~ for details
+0xFD2632B5 = Утримуйте ~INPUT_FEED_INTERACT~, щоб дізнатися деталі.
 
 0x494E7EDF = Permanently increases the time that Eagle Eye can stay active by 5 seconds.
 
@@ -22261,7 +22261,7 @@
 
 0xEEE325B0 = Satin Ribbon
 
-0x501A86ED = Tennessee Walker
+0x501A86ED = Теннессійська
 
 0xA799DE6E = Perfect Skinned Goose Carcass
 
@@ -24591,7 +24591,7 @@
 
 0x0C1C488B = Tousled Mane - Black
 
-0x5BB89828 = Tennessee Walker
+0x5BB89828 = Теннессійська
 
 0x857DC1F1 = Makeshift wraps fashioned from bound rope.
 
@@ -25563,7 +25563,7 @@
 
 0x52219106 = Creeping Thyme
 
-0x1527540D = Sawed-Off Shotgun
+0x1527540D = Дробовик-обріз
 
 0x7FEEBED7 = The law is close to camp. Avoid leading them to the hideout.
 
@@ -25709,7 +25709,7 @@
 
 0x9D6ADC9E = Goose
 
-0x158554BB = Follow ~o~Tilly~s~
+0x158554BB = Слідуйте за ~o~Тіллі~s~
 
 0x13A152D7 = You are wanted. Fussar's Guards are now searching for you.
 
@@ -25801,7 +25801,7 @@
 
 0x06FB466D = Isbell Corset
 
-0x8E54CDC9 = Opened Kentucky Bourbon
+0x8E54CDC9 = Відкритий бурбон
 
 0x7026AF9C = Ammunition
 
@@ -25931,7 +25931,7 @@
 
 0x6067A033 = Marvels of Travel and Locomotion - Elephant Carriage
 
-0x9693D65F = Multiple missions are available in camp. These are shown as ~1b~ on the radar.
+0x9693D65F = У таборі є кілька завдань. Вони позначені на міні-карті міткою ~1b~.
 
 0xD0331000 = Skeleton Masquerade Mask
 
@@ -26851,7 +26851,7 @@
 
 0x104D523B = Get 30% RDO$ off the Pump-Action Shotgun.
 
-0x39927B81 = Tennessee Walker
+0x39927B81 = Теннессійська
 
 0xCA9A0C88 = J. J. McCLURE FORTIFYING HAIR TONIC~n~
 
@@ -27743,7 +27743,7 @@
 
 0x0E185234 = A skinned carcass from the Legendary Chalk Horn Ram. Can be taken to a Butcher and sold for cash.
 
-0x4ED792F6 = Catch up to ~o~Javier~s~
+0x4ED792F6 = Доженіть ~o~Хав'єра~s~.
 
 0xEDD331F3 = Fairest Flowers & Gems Of Beauty.~n~A photograph of Isabelle Barlow.
 
@@ -29305,7 +29305,7 @@
 
 0xD16D1938 = Stolen Stagecoach
 
-0x638DAB5F = Tennessee Walker
+0x638DAB5F = Теннессійська
 
 0x0DFC55D0 = Old Man Macaroy's
 
@@ -29337,7 +29337,7 @@
 
 0x9D9FE583 = Dominoes
 
-0x9715DEF9 = Hold ~INPUT_FEED_INTERACT~ for details
+0x9715DEF9 = Утримуйте ~INPUT_FEED_INTERACT~, щоб дізнатися деталі.
 
 0x43418B25 = Rutherford Boots
 
@@ -29947,7 +29947,7 @@
 
 0x14955E02 = Brindille Shoes
 
-0x503599A4 = Follow ~o~Mary-Beth~s~
+0x503599A4 = Слідуйте за ~o~Мері-Бет~s~
 
 0xEC2F35A2 = Donate
 
@@ -33327,7 +33327,7 @@
 
 0xD92C2A81 = LEFT WIN
 
-0x3F5190A9 = John
+0x3F5190A9 = Джон
 
 0xDCD72E2E = Rio Bravo Photograph
 
@@ -34563,7 +34563,7 @@
 
 0xEE9E4332 = A valuable gold joint bracelet. Can be sold for cash.
 
-0xDCDF3174 = Return to ~o~Javier~s~
+0xDCDF3174 = Поверніться до ~o~Хав'єра~s~.
 
 0x36328ACA = If you commit a crime in front of people, they will become witnesses and report you to the local law enforcement
 
@@ -34803,7 +34803,7 @@
 
 0x42D097FC = Legendary Coyote Half Chaps
 
-0x155D6A8A = Tennessee Walker
+0x155D6A8A = Теннессійська
 
 0xAB640092 = Так
 
@@ -39839,7 +39839,7 @@
 
 0x838CE4F5 = POLICE CHIEF LAMBERT~n~NEED LOT OF MEN ON THE TROLLEY STATION. NO MEN IN COMMERCIAL DISTRICT UNTIL I SAY OTHERWISE. ANGELO BRONTE
 
-0xC12C2294 = Davey †~n~
+0xC12C2294 = Дейві †~n~
 
 0xD1BF3328 = Guerrero Gun Belt
 
@@ -41589,7 +41589,7 @@
 
 0x5AA7C069 = Went to see that odd fellow, Algernon Wasp, I met at the party. Not sure how to describe him, but I won't forget him anyway. I could not do him justice. Different kind of fella. But he says he'll pay good money for assorted feathers and eggs and whatnot for his creations for various rich women. Gave me a list of things he wants.
 
-0xCE3C33FD = Mission Complete
+0xCE3C33FD = Завдання виконано
 
 0xCD57331A = Replay
 
@@ -43625,7 +43625,7 @@
 
 0x2568909A = King Mackerel
 
-0x9DE00913 = Animal Carcass
+0x9DE00913 = Туша тварини
 
 0x3973A4A8 = Crossback Suspenders
 
@@ -45117,7 +45117,7 @@
 
 0xB74325F6 = No Scope
 
-0x03A17255 = Tennessee Walker
+0x03A17255 = Теннессійська
 
 0x6AB9D96E = Up
 
@@ -47886,7 +47886,7 @@
 
 0x0D6582BA = Maxwell Jacket
 
-0xE5C75B1D = Wolf
+0xE5C75B1D = Вовк
 
 0x3383A8DC = Tied Pants
 
@@ -48666,7 +48666,7 @@
 
 0x26379D95 = Frill Shirtwaist
 
-0x037E7ADE = Tennessee Walker
+0x037E7ADE = Теннессійська
 
 0xE9D56136 = Look Up
 
@@ -52074,7 +52074,7 @@
 
 0xD3A1536F = Using ~1~ will increase your Stamina XP.
 
-0x4DFBCDCB = Hold ~INPUT_FEED_INTERACT~ for details
+0x4DFBCDCB = Утримуйте ~INPUT_FEED_INTERACT~, щоб дізнатися деталі.
 
 0xE57B654C = A simple headband made from braided leather.
 
@@ -53064,7 +53064,7 @@
 
 0x6746E991 = John Marston
 
-0xA8942ADF = Wolf
+0xA8942ADF = Вовк
 
 0x8F351180 = Manteca Капелюх
 
@@ -56240,11 +56240,11 @@
 
 0x7438FDFA = Reward sent to the Post Office and your Camp Lockbox.
 
-0x75AFFF72 = Незнайомець
+0x75AFFF72 = Незнайома людина
 
 0x7F3908FB = Evelyn Miller
 
-0xD03A5A02 = Tennessee Walker
+0xD03A5A02 = Теннессійська
 
 0x5D48E712 = Emerald Ranch, Heartlands
 
@@ -59476,7 +59476,7 @@
 
 0x1756A8E8 = Enter Vehicle
 
-0x1765A8F8 = Sawed-Off Shotgun
+0x1765A8F8 = Дробовик-обріз
 
 0x54F6E68A = RIMMED REVOLUTION~n~
 
@@ -60248,7 +60248,7 @@
 
 0x59F1ED7C = HUGH LOCKLEAR
 
-0xD3D76761 = Cinematic camera
+0xD3D76761 = Кіноматографічна камера
 
 0x5AE0EE6C = North American Raccoons are found across Lemoyne, New Hanover and West Elizabeth. As omnivores, their diet includes plants, berries, amphibians, rodents, and eggs, depending on their environment. The Varmint Rifle is the most effective weapon for hunting raccoons. Their meat is edible but stringy, and their skin can be used for crafting.
 
@@ -61106,7 +61106,7 @@
 
 0xD9A26F36 = Creswell Skirt
 
-0x4CABE241 = Tennessee Walker
+0x4CABE241 = Теннессійська
 
 0x8E75240A = Bob Eliot
 
@@ -71156,7 +71156,7 @@
 
 0x82AD30EC =  Someone said that to insure success in this life all you need is ignorance and confidence. I am anything but an ignorant fool, and my confidence in all things letters and love fades and grows flaccid as each season passes. I simply cannot endure the façade of enjoying this and the company of any of you one moment longer.~n~I apologize, for everything.~n~Robert Elliot Patchen
 
-0x8F153D54 = Tennessee Walker
+0x8F153D54 = Теннессійська
 
 0x67FE1640 = Famous Gunslingers & Outlaws.~n~An illustration of the Otis Miller Boys.
 
@@ -76900,7 +76900,7 @@
 
 0xABD96830 = Pistol Cartridges - High Velocity
 
-0x213BDD94 = Maintain
+0x213BDD94 = Догляд за зброєю
 
 0x0C6AC8C3 = CHAPTERS
 
@@ -80910,7 +80910,7 @@
 
 0x97495D5D = Pierre
 
-0x2E5FF476 = Call Animal
+0x2E5FF476 = Покликати звіра
 
 0xE598ABB0 = Event Winner Buckle
 
@@ -80962,7 +80962,7 @@
 
 0x19D0E003 = Ducking Skill Page
 
-0x6D67339A = Follow ~o~Javier~s~
+0x6D67339A = Слідуйте за ~o~Хав'єром~s~.
 
 0x0BA9D1DD = Perks
 
@@ -83673,7 +83673,7 @@
 
 0x1386E089 =  He followed her down the gully, through some scrub brush and past the charred vestiges of a wagon long since burned and the remains of a driver still sat in the seat having been picked clean by buzzards.~n~Apaches most like. He sniffed the air.~n~Yep. She spat again.~n~You ever tangle with them?~n~I did. Got into a scrap with some Mexicans in a ravine outside Chuparosa. Two Apache warriors got caught rustling these Mexicans' horses.
 
-0x86AE53B0 = Sawed-Off Shotgun
+0x86AE53B0 = Дробовик-обріз
 
 0xBA268729 = A convenient travel service that can quickly transport you from Saint Denis to other major towns in the world. It can also return you to your Camp for a fee.
 
@@ -84495,9 +84495,9 @@
 
 0xAD277C3D = Roughhouse
 
-0xD6E4A5FE = Незнайомець
+0xD6E4A5FE = Незнайома людина
 
-0x70EB4006 = Tennessee Walker
+0x70EB4006 = Теннессійська
 
 0x66133530 = Brass
 
@@ -86053,7 +86053,7 @@
 
 0x55AF28A2 = Two-tone Wing
 
-0x2905FBFB = Kentucky Bourbon
+0x2905FBFB = Бурбон
 
 0x4CFE1FF3 = Кінь
 
@@ -87823,7 +87823,7 @@
 
 0x14B2EBCB = Coming Soon
 
-0x54E42BFE = Tennessee Walker
+0x54E42BFE = Теннессійська
 
 0x2DA504BF = While traveling through Europe I was introduced to a peculiar green spirit called absinthe by an equally peculiar artist fellow. Mixed with some foraged herbs it makes for an interesting evening. Despite its name the concoction is not venomous!
 
@@ -90897,7 +90897,7 @@
 
 0xC9CFA862 = Doily Shirtwaist
 
-0x6AE44979 = Events and interesting locations are noted in your Journal as you explore. Hold ~INPUT_OPEN_JOURNAL~ to view it.
+0x6AE44979 = Інформація про події та цікаві місця додається до вашого щоденника. Щоб подивитись його, утримуйте ~INPUT_OPEN_JOURNAL~, що відкрити його.
 
 0x7AA05939 = Move your Moonshine Shack безкоштовно.
 
@@ -96089,7 +96089,7 @@
 
 0xFB6CE6C4 = After putting him on the train, I bumped into old Reverend Swanson, running off.~n~~n~He's stopped the morphine and the hooch and found himself.~n~~n~He told me, I don't know quite what he told me. He told me to be myself, like that's anything worth being. Guess that means doing what I been doing all these years.
 
-0x4BE93743 = John
+0x4BE93743 = Джон
 
 0xEB17D672 = American Standardbred
 
@@ -99649,7 +99649,7 @@
 
 0x72536660 = Available for use with the Advanced Camera
 
-0x2A741E81 = Tennessee Walker
+0x2A741E81 = Теннессійська
 
 0xC432B842 = You have all the samples needed to complete the stamps in the Legendary Animals: Dark category. Sell samples to Harriet to earn stamps.
 
@@ -100305,7 +100305,7 @@
 
 0x2E05239E = Appaloosa
 
-0x0FCE0568 = Tennessee Walker
+0x0FCE0568 = Теннессійська
 
 0x716466FE = Crafted by Pearson
 
@@ -101105,7 +101105,7 @@
 
 0xC361BAF9 = It has been said that discretion is the better part of valor, and no more valor is exhibited than that of a man hiding behind a rock and taking out his enemies when they least suspect it, either when tending a cook fire, a fussy child, or while making night soil. You can find no better rifle than the Carcano Rifle. The bolt action mechanism stays solid and true. You will not be required to re-grease the works after each and every skirmish.~n~
 
-0x99719109 = John
+0x99719109 = Джон
 
 0x78486FE1 = Wild Chop
 
@@ -101643,7 +101643,7 @@
 
 0x72E36BD7 = A sole trader operates a trading post on the wharf. A selection of weapons and provisions can be purchased here, and the shopkeeper can also craft some more unusual items.
 
-0x6D6F6665 = Tennessee Walker
+0x6D6F6665 = Теннессійська
 
 0x989F9196 = INITIALIZING
 
@@ -101969,7 +101969,7 @@
 
 0xF4F8EEAD = Rutherford Boots
 
-0xF5FFEFB5 = Javier
+0xF5FFEFB5 = Хав'єр
 
 0xF9EFF3A5 = Poacher
 
