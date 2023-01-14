@@ -1,4 +1,0 @@
-SPMAD_REFUSE = Отказаться
-
-SPMAD_TAKE = Взять книгу
-

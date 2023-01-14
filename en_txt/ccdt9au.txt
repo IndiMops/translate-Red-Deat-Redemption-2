@@ -1,8 +1,0 @@
-CCDT9_ACT_1 = ~z~Isn't it good to be out of that goddamn snow?
-
-CCDT9_ACT_2 = ~z~Why you so chipper?
-
-CCDT9_ACT_3 = ~z~~sl:0.0:1.4~We're gonna be good.~sl:0.3~We are gonna be great.
-
-CCDT9_ACT_4 = ~z~Faith, my son, faith.
-

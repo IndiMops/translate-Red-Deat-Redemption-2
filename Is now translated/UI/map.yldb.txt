@@ -1,0 +1,588 @@
+0x785538B2 = Jorge's Gap, Cholla Springs, NA
+
+0x2047C889 = Hendidura Grande, Perdido, NP
+
+0xBAC9B3A9 = Watson's Cabin, Big Valley, WE
+
+0x1321E567 = Cochinay, Tall Trees, WE
+
+0x4DD509F6 = Rhodes, Scarlett Meadows, LE
+
+0x6BA71EFC = Mount Hagen, Grizzlies, AM
+
+0x0DC39324 = Huron Glen, Roanoke Ridge, NH
+
+0x70F74B60 = Houseboat, Bluewater Marsh, LE
+
+0x18E91D1B = El Nido, Guarma
+
+0x4A4C3F63 = Window Rock, Grizzlies, AM
+
+0x911B42FC = Cattail Pond, Grizzlies, AM
+
+0x40815011 = Copperhead Landing, Bluewater Marsh, LE
+
+0xB7C731E2 = Primero Quebrada, Perdido, NP
+
+0x01D5FAC3 = Hagen Orchards, Bayou Nwa, LE
+
+0xE6A471EB = Butcher Creek, Roanoke Ridge, NH
+
+0x649E4CEF = Spider Gorge, Grizzlies, AM
+
+0xE343BB76 = Crooked Toes, Punta Orgullo, NP
+
+0x033F6174 = The Heartlands, New Hanover
+
+0x00DBDA50 = Flat Iron Lake
+
+0xC62FFBC6 = Black Balsam Rise, Roanoke Ridge, NH
+
+0x96933878 = Dodd's Bluff, Grizzlies, AM
+
+0x96872368 = Hill Haven Ranch, Scarlett Meadows, LE
+
+0xE325C1F3 = Cumberland Falls
+
+0xAB5763FF = Owanjila Dam, Big Valley, WE
+
+0xA11AEDB9 = Maclean's House, Roanoke Ridge, NH
+
+0x3DB72923 = Diablo Ridge, Big Valley, WE
+
+0x5DCD45F1 = Owanjila, Big Valley, WE
+
+0xDD9EFEE5 = Lone Mule Stead, Big Valley, WE
+
+0x1667C7A9 = Nekoti Rock, Tall Trees, WE
+
+0x669FCC2A = Rancho Polvo, NP
+
+0x1C5F6063 = Diez Coronas, NP
+
+0xD21EE891 = Mysterious Hill Home, Grizzlies, AM
+
+0x54898248 = Deadboot Creek, Grizzlies, AM
+
+0xE5D84B79 = The Loft, Grizzlies, AM
+
+0xD1113443 = Abandoned Mission, Gaptooth Ridge, NA
+
+0x80DC09EC = Two Crows, Cholla Springs, NA
+
+0x14DE5EA9 = Emerald Ranch, The Heartlands, NH
+
+0x1BD5A429 = Lakay, Bayou Nwa, LE
+
+0x96840319 = Nosalida, Punta Orgullo, NP
+
+0x5082CF03 = Merkins Waller, Bayou Nwa, LE
+
+0x532B391A = Lemoyne
+
+0xFF6DBCB4 = Gill Landing, The Heartlands, NH
+
+0x767DC860 = Clingman, Roanoke Ridge, NH
+
+0x5F15C77C = Kamassa River
+
+0x85D4C0D0 = Tumbleweed, Gaptooth Ridge, NA
+
+0xF6AD913C = Mercer Station, Cholla Springs, NA
+
+0xD4024B27 = Gaptooth Ridge, New Austin
+
+0x7E871234 = Mesa De La Luna, Diez Coronas, NP
+
+0xD5457035 = Hawk's Eye Creek, Big Valley, WE
+
+0x3D67DD7C = Evelyn Miller Camp, Tall Trees, WE
+
+0xA4A17FBD = MacFarlane's Ranch, Hennigan's Stead, NA
+
+0xD8D62973 = Downes Ranch, The Heartlands, NH
+
+0xE03CE9E1 = Torquemada, Diez Coronas, NP
+
+0x9BBD59C3 = Roca Madera, Diez Coronas, NP
+
+0xBD5364C5 = Stillwater Creek, Hennigan's Stead, NA
+
+0x656FB687 = Catfish Jacksons, Scarlett Meadows, LE
+
+0xAEF74FB9 = Horseshoe Overlook, The Heartlands, NH
+
+0x5055B4E0 = Old Harry Fen, Scarlett Meadows, LE
+
+0x2AF9F7C1 = Quaker's Cove, Great Plains, WE
+
+0x1D6954B5 = Perdido, NP
+
+0x005E5CEB = Scratching Post, Gaptooth Ridge, NA
+
+0x69FFB18D = Plata Grande, Punta Orgullo, NP
+
+0x472F164A = Lake Don Julio, Cholla Springs, NA
+
+0x7500A60F = Donner Falls, Grizzlies, AM
+
+0x9F50855A = Fairvale Shanty, Grizzlies, AM
+
+0x81417DA0 = Broken Tree, Great Plains, WE
+
+0x695954DA = Larned Sod, The Heartlands, NH
+
+0x88B34053 = Annesburg, Roanoke Ridge, NH
+
+0x6F889F10 = Stillwater Cabin, Hennigan's Stead, NA
+
+0x3375B1D2 = Witches Cauldron, Grizzlies, AM
+
+0xFD90F656 = Campo Mirado, Perdido, NP
+
+0xBD8B165E = Granite Pass, Grizzlies, AM
+
+0x7DC4A1C6 = Heartland Overflow, The Heartlands, NH
+
+0x87462E43 = Ramita De La Baya, Rio Bravo, NA
+
+0xFBFEE55C = Bolger Glade, Scarlett Meadows, LE
+
+0x4E98B0E9 = Upper Montana River, Big Valley, WE
+
+0xB84137A2 = Manteca Falls, Hennigan's Stead, NA
+
+0x4DEBB513 = Oil Derrick, The Heartlands, NH
+
+0xF1C82E88 = New Hanover
+
+0x4A98181C = Central Union Railroad, Roanoke Ridge, NH
+
+0xC87D8B8A = Blackwater, Great Plains, WE
+
+0xC396F11C = Moonshine Factory, Tall Trees, WE
+
+0x89764F23 = Twin Rocks, Cholla Springs, NA
+
+0x88CA196B = Cairn Lodge, Grizzlies, AM
+
+0x345C766C = Solomon's Folly, Gaptooth Ridge, NA
+
+0x353AC7BD = Pleasance, Scarlett Meadows, LE
+
+0x2BD2B4E6 = O'Creagh's Run, Grizzlies, AM
+
+0xFC5A9494 = Coots Chapel, Cholla Springs, NA
+
+0x56A56E44 = Wallace Station, Big Valley, WE
+
+0x7F1C3407 = Millesani Claim, Grizzlies, AM
+
+0x98B4376D = Sidewinder Gulch, Punta Orgullo, NP
+
+0x44CE7B03 = Abandoned Trading Post, Roanoke Ridge, NH
+
+0x27FC2128 = Guarma
+
+0x9EABC82C = Agave Viejo, Perdido, NP
+
+0x57DBD9B8 = Benedict Pass, Rio Bravo, NA
+
+0x35DCE61E = Thieves Landing, Hennigan's Stead, NA
+
+0xD3920730 = Benedict Point, Rio Bravo, NA
+
+0xE78CB65F = Southfield Flats, Scarlett Meadows, LE
+
+0xAB5E835F = Tanner's Reach, Tall Trees, WE
+
+0x40B8C6F2 = Brandywine Drop, Roanoke Ridge, NH
+
+0x729C12AF = Greenhollow, Hennigan's Stead, NA
+
+0x603377B9 = Grand Korrigan, Lannahechee River
+
+0xC4270FE7 = Lower Montana River, Tall Trees, WE
+
+0x55A6D12B = Manito Glade, Roanoke Ridge, NH
+
+0xE6EAEFF7 = Armadillo, Cholla Springs, NA
+
+0x0A28E49F = West Elizabeth
+
+0xF0840204 = Radley's Pasture, Scarlett Meadows, LE
+
+0x62BDA1FA = Casa Madrugada, Diez Coronas, NP
+
+0x478F80B5 = Eris Field, Scarlett Meadows, LE
+
+0x233DD2DA = Cairn Lake, Grizzlies, AM
+
+0xCF732CFE = Chadwick Farm, The Heartlands, NH
+
+0x0996F372 = Ambarino
+
+0x6EE4B99E = Rio del Lobo Rock, Rio Bravo, NA
+
+0x4A606200 = Cueva Seca, Gaptooth Ridge, NA
+
+0xE29827A8 = Sea of Coronado, Gaptooth Ridge, NA
+
+0x3BD66C97 = Twin Stack Pass, The Heartlands, NH
+
+0x2A42BE72 = Moonshine Factory, Grizzlies, AM
+
+0x2649C2C7 = Laguna Borrego, Perdido, NP
+
+0x229D05AC = Canebreak Manor, Bluewater Marsh, LE
+
+0x01DDD396 = The Hanging Rock, Cholla Springs, NA
+
+0xF7453243 = Firwood Rise, Cumberland Forest, NH
+
+0xC1CD737F = Adler Ranch, Grizzlies, AM
+
+0xE979457B = Frontera Bridge, Rio Bravo, NA
+
+0xF9D63EB6 = Hanging Dog Ranch, Big Valley, WE
+
+0xDF753206 = Ewing Basin, Grizzlies, AM
+
+0x3292E8D5 = Sawbone Clearing, Roanoke Ridge, NH
+
+0xAA23BCE4 = Rio del Toro, Perdido, NP
+
+0x2DDEDE9F = Riggs Station, Big Valley, WE
+
+0x58105158 = Rattlesnake Hollow, Cholla Springs, NA
+
+0xCC796CBD = Rathskeller Fork, Gaptooth Ridge, NA
+
+0x3FFC8A8F = La Capilla, Guarma
+
+0x871DB74E = Cinco Torres, Guarma
+
+0x9AAED2F4 = Planter's Bawn, Grizzlies, AM
+
+0xDCBBE18F = Hennigan's Stead, New Austin
+
+0xA7038976 = Західні Грізлі, Амбаріно
+
+0x31941238 = Lake Isabella, Grizzlies, AM
+
+0x57CFCCD7 = Mesa Del Sol, Diez Coronas, NP
+
+0xEBEF68EE = Pike's Basin, Hennigan's Stead, NA
+
+0x292C5252 = Valley View, Big Valley, WE
+
+0xEF2B4071 = Grizzlies East, Ambarino
+
+0x86778A95 = Bayou Nwa, Lemoyne
+
+0xA43C8951 = Black Bone Forest, Big Valley, WE
+
+0xA6CC7164 = Colter, Grizzlies, AM
+
+0x6EE5C62B = Prinz & Co., Bayou Nwa, LE
+
+0x620D6F83 = Clawson's Rest, Grizzlies, AM
+
+0xBA9A795B = Crawdad Willies, Bayou Nwa, LE
+
+0x53800035 = Robard Farm, Scarlett Meadows, LE
+
+0xF7B0EB8A = Beaver Hollow, Roanoke Ridge, NH
+
+0xF6C518EB = Willard's Rest, Roanoke Ridge, NH
+
+0x377AB2F9 = Siltwater Strand, Scarlett Meadows, LE
+
+0x9372C764 = Face Rock, Scarlett Meadows, LE
+
+0x20144315 = Central Union Railroad, Roanoke Ridge, NH
+
+0xDB1A94C6 = Castor's Ridge, The Heartlands, NH
+
+0xB7CEA307 = Barranca, Perdido, NP
+
+0x026256CA = Gaptooth Breach, Gaptooth Ridge, NA
+
+0x88F8D1D0 = Scarlett Meadows, Lemoyne
+
+0xF7BC627C = Dakota River
+
+0x2F72C8B1 = Rio Bravo, New Austin
+
+0x8EA16502 = Carmody Dell, The Heartlands, NH
+
+0x1F24B6AE = Compsons Stead, Scarlett Meadows, LE
+
+0x5C0805AB = Ridgewood Farm, Cholla Springs, NA
+
+0x7C43315A = Caliga Hall, Bayou Nwa, LE
+
+0xCC3A1981 = Silent Stead, Gaptooth Ridge, NA
+
+0x20B2D466 = Mount Shann, Big Valley, WE
+
+0xF035FC69 = Bear Claw, Tall Trees, WE
+
+0x63F6ACB4 = Moonstone Pond, Grizzlies, AM
+
+0x9E9E3406 = Van Horn Trading Post, Roanoke Ridge, NH
+
+0x4848054E = Beryl's Dream, Big Valley, WE
+
+0x59D077AC = Micah's Hideout, Grizzlies, AM
+
+0x8F1BCA55 = Taxidermist House, Big Valley, WE
+
+0x5CE61D88 = Lannahechee River
+
+0x5CDBBCA3 = Central Union Railroad, Roanoke Ridge, NH
+
+0x8C3CD7F3 = Meteor House, Roanoke Ridge, NH
+
+0x7C690B35 = Fishing Spot, Bayou Nwa, LE
+
+0x0783569F = Venter's Place, Cholla Springs, NA
+
+0x960B8448 = Валентайн, Внутрішні землі, Ню-Гановер
+
+0x9D32963D = Bahía de la Paz, Guarma
+
+0x2279EE5F = Manzanita Post, Tall Trees, WE
+
+0x86B12D24 = Pleasance House, Cholla Springs, NA
+
+0x3C93944A = Mossy Flats, Roanoke Ridge, NH
+
+0x171C4B1A = Big Valley, West Elizabeth
+
+0x65994796 = Wallace Overlook, Big Valley, WE
+
+0x3552B0DE = Lagras, Bayou Nwa, LE
+
+0x2202EE4D = Hani's Bethel, The Heartlands, NH
+
+0x7A9A9F57 = Six Point Cabin, Cumberland Forest, NH
+
+0x695D3BFE = Ringneck Creek, Scarlett Meadows, LE
+
+0x4575D96C = El Matadero, Diez Coronas, NP
+
+0xCE927B62 = Las Hermanas, Perdido, NP
+
+0x3BA7E9A5 = El Matadero Caves, Diez Coronas, NP
+
+0x41F983C2 = Sisika Penitentiary, Bluewater Marsh, LE
+
+0x2106539A = Great Plains, West Elizabeth
+
+0xC22A2C44 = Fort Mercer, Rio Bravo, NA
+
+0x9CFF54C5 = Bard's Crossing, The Heartlands, NH
+
+0x192F0A3E = Calumet Ravine, Grizzlies, AM
+
+0x0C52C6A8 = Bacchus Bridge, Cumberland Forest, NH
+
+0x2C0B51CA = Riley's Charge, Cholla Springs, NA
+
+0x11391C65 = Cholla Springs, New Austin
+
+0xF37CEFEA = Dewberry Creek, Scarlett Meadows, LE
+
+0xCE9BA997 = Fort Riggs Holding Camp, Big Valley, WE
+
+0x6822C55D = Elysian Pool, Roanoke Ridge, NH
+
+0x49AF900E = Butter Bridge, Diez Coronas, NP
+
+0x59607054 = Reed Cottage, Roanoke Ridge, NH
+
+0x58DB6580 = Roanoke Valley, Roanoke Ridge, NH
+
+0x41433B7C = Horse Shop, Scarlett Meadows, LE
+
+0x7678268D = Radley's House, Scarlett Meadows, LE
+
+0xB69452F7 = Emerald Station, The Heartlands, NH
+
+0x33A0D3EC = Shady Belle, Bayou Nwa, LE
+
+0x4135DBBC = Stilt Shack, Big Valley, WE
+
+0xCA578D64 = Cumberland Forest, New Hanover
+
+0xE09C9EC2 = Tall Trees, West Elizabeth
+
+0xAF900BFB = Citadel Rock, The Heartlands, NH
+
+0xC9592823 = Brittlebrush Trawl, Hennigan's Stead, NA
+
+0x5B65BE1C = Aguasdulces, Guarma
+
+0x3FE3547E = Lenora View, Big Valley, WE
+
+0xE1F57D42 = Shepherds Rise, Big Valley, WE
+
+0x780F20F9 = Little Creek River, Big Valley, WE
+
+0x15673770 = Osman Grove, Roanoke Ridge, NH
+
+0x97800BD2 = Fort Brennand, Roanoke Ridge, NH
+
+0x34863110 = Van Horn Mansion, Roanoke Ridge, NH
+
+0x1D5BC2A5 = Cornwall Kerosene & Tar, The Heartlands, NH
+
+0xC9C79854 = Heartland Oil Fields, The Heartlands, NH
+
+0x07FE8F04 = Chuparosa, Perdido, NP
+
+0x678A6057 = San Luis River
+
+0x6D17AC2F = Clemens Point, Scarlett Meadows, LE
+
+0xB6F67FD4 = Monto's Rest, Big Valley, WE
+
+0x2E4CEDDE = Roanoke Ridge, New Hanover
+
+0x3BAF424F = Veteran's Homestead, Grizzlies, AM
+
+0x5D0900C3 = Mattock Pond, Scarlett Meadows, LE
+
+0xD0BA4C63 = Ridge View, The Heartlands, NH
+
+0x298A013E = Deer Cottage, Roanoke Ridge, NH
+
+0x6004A9F9 = Moonshine Factory, Hennigan's Stead, NA
+
+0xCC18EFF5 = Granger's Hoggery, The Heartlands, NH
+
+0x5F8E4341 = Old Tom's Blind, Big Valley, WE
+
+0xBF6C75A1 = Horse Shop Strawberry, Big Valley, WE
+
+0xD423D45C = Wapiti Indian Reservation, Grizzlies, AM
+
+0x664A6EF4 = Roadside Brothel, Roanoke Ridge, NH
+
+0x109B730C = Plainview, Rio Bravo, NA
+
+0x43BCB764 = Repentance, Rio Bravo, NA
+
+0xBA0B2C82 = The Old Bacchus Place, Hennigan's Stead, NA
+
+0xA83D828C = Guthrie Farm, The Heartlands, NH
+
+0xC69E4B94 = Cotorra Springs, Grizzlies, AM
+
+0xF60E3AED = Braithwaite Manor, Scarlett Meadows, LE
+
+0x8D2C1E7E = Three Sisters, Grizzlies, AM
+
+0x86BE76ED = Chez Porter, Grizzlies, AM
+
+0xC88AA5E6 = Dormin Crest, Grizzlies, AM
+
+0x5511F36C = Vetter's Echo, Big Valley, WE
+
+0x696306F6 = Nuevo Paraiso
+
+0xB76E9142 = Beartooth Beck, Grizzlies, AM
+
+0xFBF60009 = Diablo Ojo, Punta Orgullo, NP
+
+0x2DF010E2 = Lonnie's Shack, Scarlett Meadows, LE
+
+0xCD5CE9A2 = Arroyo de la Víbora, Guarma
+
+0x0D0F2B79 = Aberdeen Pig Farm, Scarlett Meadows, LE
+
+0x7C996322 = Moonshine Factory, Bayou Nwa, LE
+
+0x594D596C = Barrow Lagoon, Grizzlies, AM
+
+0x88B9ABBA = Sepulcro, Perdido, NP
+
+0xD3A671FC = Fire Lookout Tower, Roanoke Ridge, NH
+
+0x47192461 = Aurora Basin, Tall Trees, WE
+
+0xCE67AF12 = Limpany, The Heartlands, NH
+
+0xF4954BCC = Alta Cabeza, Diez Coronas, NP
+
+0x0DAD94D2 = Lucky's Cabin, The Heartlands, NH
+
+0x6DF9C5E3 = Moonshine Factory, The Heartlands, NH
+
+0x468606DA = New Austin
+
+0x0BE5C4CF = Baygall Edge, Bayou Nwa, LE
+
+0xE6F7DBF9 = Appleseed Timber Co., Big Valley, WE
+
+0x66A647D7 = Punta Orgullo, NP
+
+0x867F0549 = Tempest Rim, Grizzlies, AM
+
+0xDA5FA6D8 = Oddfellow's Rest, Cholla Springs, NA
+
+0xCBF9C0AF = Bacchus Station, Cumberland Forest, NH
+
+0x88CD8123 = Grand Korrigan, Lannahechee River
+
+0x845CED96 = Trading Post, The Heartlands, NH
+
+0x565B032F = Flattened Cabin, Grizzlies, AM
+
+0x63F741E1 = Beecher's Hope, Great Plains, WE
+
+0xBE7D779C = Swadbass Point, Tall Trees, WE
+
+0xA54B8915 = Painted Sky, Big Valley, WE
+
+0xF8D01ECE = Pronghorn Ranch, Big Valley, WE
+
+0x163AE1E1 = Trapper's Cabin, Bluewater Marsh, LE
+
+0xCD806933 = Flatneck Station, The Heartlands, NH
+
+0xEB56F48B = Strawberry, Big Valley, WE
+
+0x009BA3DC = Saint Denis, Bayou Nwa, LE
+
+0xF32CB01B = Old Trail Rise, Scarlett Meadows, LE
+
+0x0EA363C9 = Argil Rise, Scarlett Meadows, LE
+
+0x32B009F8 = Tesoro Azul, Punta Orgullo, NP
+
+0x6B72F0E4 = Escalera, Punta Orgullo, NP
+
+0x222E5CED = Caliban's Seat, The Heartlands, NH
+
+0x9B1E5B7F = Lake Don Julio House, Cholla Springs, NA
+
+0xEEA64B2B = Old Greenbank Mill, Scarlett Meadows, LE
+
+0xFA0BEEA7 = Fort Wallace, Cumberland Forest, NH
+
+0x9640BA83 = Whinyard Strait, Grizzlies, AM
+
+0xD98BB81D = Doverhill, Roanoke Ridge, NH
+
+0x300DE595 = Martha's Swain, Grizzlies, AM
+
+0x93334804 = Bluewater Marsh, Lemoyne
+
+0xB5A7CAAE = Rio del Lobo House, Cholla Springs, NA
+
+0x8EECB4B1 = El Presidio, Diez Coronas, NP
+
+0x3F53BC77 = Macomb's End, Bayou Nwa, LE
+

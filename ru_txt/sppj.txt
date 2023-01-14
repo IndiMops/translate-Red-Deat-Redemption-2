@@ -1,4 +1,0 @@
-PRJ_UC_NEG = Враг
-
-PRJ_UC_POS = Друг
-

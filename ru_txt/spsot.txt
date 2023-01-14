@@ -1,8 +1,0 @@
-SPSOT_ARE_JOKE = Разозлить
-
-SPSOT_NO = Нет
-
-SPSOT_NOT_JOKE = Разрядить обстановку
-
-SPSOT_YES = Да
-

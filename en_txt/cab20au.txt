@@ -1,8 +1,0 @@
-CAN20_ACTA_1 = ~z~Jack... Jack? Has anyone seen Jack?
-
-CAN20_ACTA_2 = ~z~Jack! Where is he... Mr. Pearson, have you seen Jack?
-
-CAN20_ACTA_3 = ~z~Hm? No. No but he always turns up... he's a smart kid.
-
-CAN20_ACTA_4 = ~z~I hope so... Jack! Jack! Where are you, son? I'm gettin' real worried!
-

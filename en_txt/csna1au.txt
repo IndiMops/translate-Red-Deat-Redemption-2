@@ -1,6 +1,0 @@
-CSNA1_ACTION_1 = ~z~We was beginning to worry a little, Mr. Morgan.
-
-CSNA1_ACTION_2 = ~z~Ah... you know me, Miss. Grimshaw,  I'm a wanderer.
-
-CSNA1_ACTION_3 = ~z~I know, son. I'm just glad to have you back with us... for now.
-

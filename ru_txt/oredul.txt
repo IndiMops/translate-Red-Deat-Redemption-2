@@ -1,4 +1,0 @@
-NB_DUEL_BOUNTY_HUNTER_NAME = Охотник за головами
-
-NB_DUEL_TARGET_NAME = Цель
-

@@ -1,6 +1,0 @@
-BABI1_ACT_1 = ~z~Can you believe it, John? We actually did it.
-
-BABI1_ACT_2 = ~z~Been a rocky road and, we still got a long way to go, but... I think we'll get there.
-
-BABI1_ACT_3 = ~z~I know we will. I got a good feeling about it.
-

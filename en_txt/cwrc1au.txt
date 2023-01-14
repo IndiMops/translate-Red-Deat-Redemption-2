@@ -1,8 +1,0 @@
-CWRC1_ACT_1 = ~z~Got us something to eat, Mr. Pearson.
-
-CWRC1_ACT_2 = ~z~Thank you, Mr. Smith... thank you very much.
-
-CWRC1_ACT_3 = ~z~The rest of you follow this man's example, you hear?
-
-CWRC1_ACT_4 = ~z~
-

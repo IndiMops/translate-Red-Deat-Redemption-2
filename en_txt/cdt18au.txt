@@ -1,8 +1,0 @@
-CCDTC_CNV18_A_1 = ~z~We gotta get some food soon, Arthur.
-
-CCDTC_CNV18_A_2 = ~z~~sl:0.0:1.7~Food, or money,~sl:0.5~or these bastards will eat us.
-
-CCDTC_CNV18_B_1 = ~z~I know, Dutch, I-I'm trying.
-
-CCDTC_CNV18_B_2 = ~z~I know.
-

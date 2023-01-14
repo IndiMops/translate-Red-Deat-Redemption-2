@@ -1,8 +1,0 @@
-CBSF1_ACTN_1 = ~z~I heard you'd gone behind Dutch's back, to help some folk.
-
-CBSF1_ACTN_2 = ~z~I did what I thought best.
-
-CBSF1_ACTN_3 = ~z~This ain't your gang, Arthur, them ain't the rules!
-
-CBSF1_ACTN_4 = ~z~Well, I'll keep that in mind.
-

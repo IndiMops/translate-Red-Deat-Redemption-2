@@ -1,4 +1,0 @@
-CCSW2_CNV01_1 = ~z~~sl:0.7:2.2~Get yourself inside, Reverend.~sl:1.4:1.0~I said...~sl:0.0:1.1:1~Reverend!
-
-CCSW2_CNV01_2 = ~z~~sl:3.2:1.5~No need to get personal.~sl:0.4:2.0~It's an article of faith.~sl:0.0:2.4~Transubstantiation is heresy, sir...~sl:0.4:1.3:1~This is heresy!
-

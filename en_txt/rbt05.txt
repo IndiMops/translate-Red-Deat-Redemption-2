@@ -1,8 +1,0 @@
-BNTY_RBT05_F_DEAD = Ellie Anne Swan has died.
-
-BNTY_RBT05_F_ESCP = Ellie Anne Swan escaped.
-
-BNTY_RBT05_F_LEFT_A = Ellie Anne Swan was left behind.
-
-RBT05_CALLOUT = Call out
-

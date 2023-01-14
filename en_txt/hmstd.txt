@@ -1,8 +1,0 @@
-0x7510364B = Destination
-
-HOME_CTXT1A = Give Wood
-
-HOME_CTXT2 = Offer Money (~1$~)
-
-HOME_OBJ01 = ~s~Park the lumber wagon near the house
-

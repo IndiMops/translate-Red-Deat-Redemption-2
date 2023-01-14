@@ -1,4 +1,0 @@
-SPEP_REFUSE = Decline
-
-SPEP_TAKE = Take Pamphlet
-

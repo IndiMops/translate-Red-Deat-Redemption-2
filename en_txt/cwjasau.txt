@@ -1,8 +1,0 @@
-CWJAS_ACT_1 = ~z~It's a nice place you brought us to, my brother.
-
-CWJAS_ACT_2 = ~z~Yes... lovely, isn't it?
-
-CWJAS_ACT_3 = ~z~Ah... makes me miss freezing to death in the mountains.
-
-CWJAS_ACT_4 = ~z~
-

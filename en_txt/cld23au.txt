@@ -1,6 +1,0 @@
-RCLD2_RSC3_LO_1 = ~z~Goodbye! Goodbye, Mr. Morgan!
-
-RCLD2_RSC3_LO_2 = ~z~Goodbye!
-
-RCLD2_RSC3_LO_3 = ~z~Sister...
-

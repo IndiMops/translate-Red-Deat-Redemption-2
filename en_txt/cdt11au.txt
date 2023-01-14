@@ -1,6 +1,0 @@
-CCD11_ACT_1 = ~z~You know, Arthur, it's the illness of romantics.
-
-CCD11_ACT_2 = ~z~What is?
-
-CCD11_ACT_3 = ~z~~sl:0.0:1.0~Hope.~sl:0.5~Hope is.
-

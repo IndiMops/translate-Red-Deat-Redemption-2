@@ -1,8 +1,0 @@
-0x1A9F3A6C = ~s~Search the cabin
-
-0x5C4529AF = ~s~Search the ~o~cabin~s~
-
-0xDD704861 = O'Driscoll
-
-OBJ_KILL = ~s~Deal with the ~e~O'Driscoll Boys~s~
-

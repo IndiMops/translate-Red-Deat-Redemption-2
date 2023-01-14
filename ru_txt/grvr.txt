@@ -1,8 +1,0 @@
-NB_GRAVEROBBER_BLIP_NAME = Грабитель могил
-
-NB_GRAVEROBBER_BLIP_OBJ = Место для раскопки
-
-NB_GRAVEROBBER_ILO_HELP_DIG = Помочь копать
-
-NB_GRAVEROBBER_OBJ_GOTO_DIG = Раскапывайте ~o~отмеченные места~s~.
-

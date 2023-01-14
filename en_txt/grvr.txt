@@ -1,8 +1,0 @@
-NB_GRAVEROBBER_BLIP_NAME = Graverobber
-
-NB_GRAVEROBBER_BLIP_OBJ = Digging Spot
-
-NB_GRAVEROBBER_ILO_HELP_DIG = Help Dig
-
-NB_GRAVEROBBER_OBJ_GOTO_DIG = Dig at the ~o~digging spots~s~
-
