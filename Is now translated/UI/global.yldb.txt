@@ -652,7 +652,7 @@
 
 0xD825D9B9 = In Bluewater Marsh, a Cajun needs help defending his property from the Night Folk.
 
-0x13DD1572 = Kit
+0x13DD1572 = Обладнання
 
 0xC6D6C86B = collected
 
@@ -1994,7 +1994,7 @@
 
 0x452149F5 = Six of Pentacles Tarot Card
 
-0xBD5BC230 = You can't carry any more ~a~
+0xBD5BC230 = ~a~ - максимальна кількість.
 
 0x911B95F3 = Otis Miller and The Black-Hearted Lady
 
@@ -4068,7 +4068,7 @@
 
 0xC3BFCDA7 = 15% Role XP Boost
 
-0x1F0028E8 = Execute
+0x1F0028E8 = Прикінчити
 
 0xF847022F = Collections Sold
 
@@ -9299,7 +9299,7 @@
 
 0x5B71729A = Wilson Peck
 
-0x15012C2D = Draw Weapon
+0x15012C2D = Дістати зброю
 
 0xB80BCF37 = Our standard button up half chaps are plain but practical. Protect your boots and pants with a pair today.
 
@@ -11941,7 +11941,7 @@
 
 0x439F6165 = High Stakes Treasure Map 1
 
-0xA55AC321 = Release Carcass
+0xA55AC321 = Відпустити тушу
 
 0xA3A8C171 = Pants
 
@@ -13127,7 +13127,7 @@
 
 0x8B1CABEF = REVERSE SPIN UP
 
-0x8448A51D = Repeater Cartridges - Express
+0x8448A51D = Експрес-патрони
 
 0xE1430217 = Maple & Hickory
 
@@ -17657,7 +17657,7 @@
 
 0x33925EF6 = Annesburg Buckle
 
-0xB858E3BC = Opened Revolver Cartridges
+0xB858E3BC = Відкрита коробка з патронами для револьвера
 
 0x93AFBF18 = Saint Denis
 
@@ -19179,7 +19179,7 @@
 
 0x512C8042 = Murder
 
-0x7C58AB70 = Draw ~1~ From Horse
+0x7C58AB70 = Дістати з коня: ~1~
 
 0xEAD619EE = A perfectly structured wide-brimmed hat with a folded leather band. Perfect for shielding your face from sun and strangers.
 
@@ -19569,7 +19569,7 @@
 
 0x45E475EB = Manstilla Poncho
 
-0xBE66EE71 = Remove ~1~
+0xBE66EE71 = Зняти: ~1~
 
 0x566E867A = Послуги
 
@@ -19817,7 +19817,7 @@
 
 0x9248C2EF = IT FEATURES OUR SMITHBURG PANTS, STAND-COLLAR OVERSHIRT, SHEEPSKIN VEST, MULTI-TONE HALF CHAPS, CAVALRY GLOVES, GRINDER BOOTS WITH SPURS, AND ABILENE HAT.~n~
 
-0x16784720 = Opened Snake Oil
+0x16784720 = Відкрите чудо-зілля
 
 0x194D49F9 = 40 Capitale
 
@@ -21663,7 +21663,7 @@
 
 0x669E9BE5 = Увійти
 
-0xF6F82C3F = Longarm Shoulder
+0xF6F82C3F = Великорозмірне (на плечі)
 
 0x65EA9B32 = Gatlinburg Капелюх
 
@@ -22201,7 +22201,7 @@
 
 0x917DC821 = Hold ~INPUT_FEED_INTERACT~ to show Map
 
-0xBDA3F447 = Lenny
+0xBDA3F447 = Ленні
 
 0x45F57C9A = Can be crafted into a Potent Predator Bait
 
@@ -22495,7 +22495,7 @@
 
 0x317568DE = A Fisher of Men
 
-0x5D7294DC = Повантажити ~1~
+0x5D7294DC = Покласти ~1~
 
 0xBF60F6CB = Urban Gloves
 
@@ -22663,7 +22663,7 @@
 
 0xBE12F5E5 = Suspecting that his assistant, Жан-Марк, is going to report him to the newspapers, Mayor Lemieux seeks to silence him.
 
-0x1C705443 = Opened Bitters
+0x1C705443 = Відкрита настоянка
 
 0xC55EFD31 = Choked on Toxic Moonshine
 
@@ -22681,7 +22681,7 @@
 
 0x26645E3D = Moonstone Hood
 
-0xC4C7FCA2 = Dead Eye Tonics
+0xC4C7FCA2 = Тоніки «Влучного ока»
 
 0x53C18B9D = Leather Duster
 
@@ -23665,7 +23665,7 @@
 
 0x329F6CF9 = Studded Explorer Holster
 
-0xFA8834E1 = You can't carry any more of this item.
+0xFA8834E1 = У вас максимальна кількість цих придметів.
 
 0xCDD90833 = Blood Money
 
@@ -24351,7 +24351,7 @@
 
 0x9E55DA3C = The Gladewater
 
-0xE3C91FAF = Release
+0xE3C91FAF = Зняти
 
 0x5CD398BB = Legendary Wakpa Boar
 
@@ -26133,7 +26133,7 @@
 
 0x0B7F4BBF = Guard
 
-0xDD871DC8 = Repeater Cartridges - Express
+0xDD871DC8 = Експрес-патрони - карабін
 
 0xBBD7FC1C = A casual checkered bandana.
 
@@ -26267,7 +26267,7 @@
 
 0xC82D08B7 = After carefully navigating across the raised trough near the old water tower at Benedict Point, another map was uncovered in the gap between the planks.
 
-0xAB12EB9F = Opened Cigarettes
+0xAB12EB9F = Відкрита пачка цигарок
 
 0x639EA42C = Aqua
 
@@ -27687,7 +27687,7 @@
 
 0x6207A605 = Зброяр
 
-0xAD46F146 = Gold Plate Buckle
+0xAD46F146 = Позолочена пряжка
 
 0x26DE6ADE = Yields a pelt, a horn and prime beef. Used in crafting and cooking or can be sold. Use a long scope rifle for a clean kill.
 
@@ -27999,7 +27999,7 @@
 
 0x6771AC32 = Bandana
 
-0xCDCE128E = Stamina
+0xCDCE128E = Витривалість
 
 0xB9A6FE68 = Spoonbill Egg
 
@@ -29587,7 +29587,7 @@
 
 0xF114399B = WEAPONS
 
-0x8703CF8B = Repeater Cartridges - Regular
+0x8703CF8B = Патрони - карабін
 
 0xF0D6395E = Arthur and Sadie row to Sisika Island to break John out of prison.
 
@@ -35219,7 +35219,7 @@
 
 0xF9BD4FFA = The good stuff
 
-0xD7922DCF = Lantern
+0xD7922DCF = Ліхтар
 
 0x27A07DE0 = A PREMIUM OFFERING FOR OUTDOOR ENTHUSIASTS~n~
 
@@ -35837,7 +35837,7 @@
 
 0x006A581E = Distiller's Tip:~n~Save charcoal from spent fires and let the shine drip through to purify your batch.
 
-0x02925A48 = ~1~ Cargo
+0x02925A48 = ~1~: вантаж
 
 0x9284EA3E = This pair of NOTORIOUS counterfeiters KILLED TWO Pinkerton agents during a raid on their operation in THIEVES LANDING. On the run and DANGEROUS.
 
@@ -37157,13 +37157,13 @@
 
 0x93A6EE86 = No Bedroll
 
-0x2EC589A6 = Carbine Repeater
+0x2EC589A6 = Магазинний карабiн
 
 0x23597E3A = Your Health attribute determines how much damage you can take. Health can be impacted by Conditions, or improved through Perks and progression.
 
 0xDDE938CB = Fully restores Dead Eye Core. Greatly restores Health Core and Stamina Core.
 
-0xB0B80B9A = Repeater Cartridges - Regular
+0xB0B80B9A = Патрони - карабін
 
 0xB49D0F7F = Змінити кінокамеру
 
@@ -37561,7 +37561,7 @@
 
 0xE4E140B3 = Make them feel small.
 
-0x7A06D5DA = Повантажити
+0x7A06D5DA = Покласти
 
 0x802CDC01 = Strayhorn Boots
 
@@ -38453,7 +38453,7 @@
 
 0xC1981F7E = Gran Corazon Madeira Bottle
 
-0xDA5B3845 = Повантажити шкуру
+0xDA5B3845 = Покласти шкуру
 
 0x81F3DFE0 = Save failed. Please ensure the system storage has free space and try again.
 
@@ -41059,7 +41059,7 @@
 
 0x258B8A1F = Queen of Wands Tarot Card
 
-0x9FE5047F = Allows you to see into the distance.
+0x9FE5047F = Дозволяє роздивлятися об'єкти з великої відстані.
 
 0x83C5E860 = Швидкісні патрони - револьвер
 
@@ -41733,7 +41733,7 @@
 
 0x286B8E86 = Available through ~2p~ ~1p~, ~3p~
 
-0x74C5DAE2 = Kit
+0x74C5DAE2 = Обладнання
 
 0xB8B51ED1 = Shark Tooth Trinket
 
@@ -41877,7 +41877,7 @@
 
 0x15EB7C73 = Yields a pelt, a horn and prime beef. Used in crafting and cooking or can be sold. Use a rifle for a clean kill.
 
-0xF5175BA1 = Carbine Repeater
+0xF5175BA1 = Магазинний карабiн
 
 0x874FEDDA = Everyday Shirt
 
@@ -42467,7 +42467,7 @@
 
 0x2D2F954C = 23rd
 
-0xECAF54CB = Chewing Tobacco
+0xECAF54CB = Жувальний тютюн
 
 0x8821F03E = Rexroad Bandana
 
@@ -44301,7 +44301,7 @@
 
 0xA27B0F4C = FAMOUS BROOMHANDLE MAUSER~n~
 
-0x5924C5F6 = The Count
+0x5924C5F6 = «Граф»
 
 0x9C630935 = Styles
 
@@ -44535,7 +44535,7 @@
 
 0x955A02BA = Kidnapper
 
-0xC68E33F4 = Silver Pocket Watch
+0xC68E33F4 = Срібний кишеньковий годинник
 
 0x9F2F0C96 = Jonathan Bird
 
@@ -44687,7 +44687,7 @@
 
 0x7406E1C7 = Londonderry Gloves
 
-0xA79F1561 = Execute
+0xA79F1561 = Прикінчити
 
 0x92A00063 = Taking care of your Horse will increase Bonding, which in turn will increase its Health, Stamina, Speed and Acceleration.
 
@@ -48826,7 +48826,7 @@
 
 0xFA4D720D = You have recently damaged someone or their horse. Please wait until you are allowed to use shops again.
 
-0xFBBB737B = Lenny
+0xFBBB737B = Ленні
 
 0x29E3A1A6 = Ironwood Grip
 
@@ -48956,7 +48956,7 @@
 
 0x824EFA57 = Gerald Day
 
-0x2B9DA3A8 = Opened Guarma Rum
+0x2B9DA3A8 = Відкритий ром
 
 0xCEDB46E6 = Wilkesboro Капелюх
 
@@ -50468,7 +50468,7 @@
 
 0x20C59C6B = Note
 
-0xE6EE6293 = Kieran
+0xE6EE6293 = Кіран
 
 0x4329BECF = Stenger Studded Spurs
 
@@ -52374,7 +52374,7 @@
 
 0xF66D76EA = You cannot use turrets when your Camp's white flag is raised.
 
-0xCF4E4FCC = Kieran
+0xCF4E4FCC = Кіран
 
 0x147F94FF = Masquerade Mask
 
@@ -52540,7 +52540,7 @@
 
 0x5FCDE0AF = WANTED for smuggling contraband in and out of forts under the control of the United States Army, and the BRIBERY of two uniformed officers.
 
-0x5B38DC1A = Stamina
+0x5B38DC1A = Витривалість
 
 0xFC287D0A = Slightly restores Health Core and moderately restores Dead Eye Core.
 
@@ -52990,7 +52990,7 @@
 
 0xF2B774DB = cleared
 
-0x2043A268 = Carbine Repeater
+0x2043A268 = Магазинний карабiн
 
 0xB3AC35D1 = Farley Shirt
 
@@ -54632,7 +54632,7 @@
 
 0x0E549447 = Billy Midnight
 
-0xF6687C5A = Binoculars
+0xF6687C5A = Бінокль
 
 0xBD17430B = Arabian
 
@@ -55602,7 +55602,7 @@
 
 0x89521184 = Trimmed Bandana
 
-0x47BECFF1 = Hogtie
+0x47BECFF1 = Зв'язати
 
 0xF3677B9B = Cotton and linen single breasted jacket with back standing collar and military buttoned front. Lightweight but long-lasting. Fully warrantied.
 
@@ -56408,7 +56408,7 @@
 
 0xE7E5720D = Hollman Pants
 
-0xF2EA7D16 = Kit
+0xF2EA7D16 = Обладнання
 
 0xB1D53C03 = Owanjila Dam
 
@@ -56774,7 +56774,7 @@
 
 0x757A0070 = MS But 7
 
-0xB61A4110 = Stamina
+0xB61A4110 = Витривалість
 
 0xEE0778FE = Hungry? Bring Pearson animals to improve the quality of stew he makes
 
@@ -58096,7 +58096,7 @@
 
 0x3E69CCA2 = Strung Sombrero
 
-0x0DBD9BF7 = Health Cure
+0x0DBD9BF7 = Лікарство
 
 0x40CCCF06 = The thin and pliable wing of a Bat.
 
@@ -58224,7 +58224,7 @@
 
 0x78FD0785 = Gerden's improved Trail Saddle with basket weave leather, padded seat and steel fork tree.
 
-0x074F95D9 = Repeater Cartridges - High Velocity
+0x074F95D9 = Швидкісні патрони - карабін
 
 0x2C8DBB17 = Dutch's Knife
 
@@ -60220,7 +60220,7 @@
 
 0xE7CE7B40 = Neck Scarf
 
-0xF2CF8642 = Gin
+0xF2CF8642 = Джин
 
 0x4EC3E23D = Non-player enemies killed from cover
 
@@ -60408,7 +60408,7 @@
 
 0xE32A7710 = The Gatlinburg
 
-0x487DDC66 = Silver Emblem Ring
+0x487DDC66 = Срібний перстень з емблемою
 
 0x5F1EF307 = Hartell Autumn Jacket
 
@@ -60598,7 +60598,7 @@
 
 0xEAF77F54 = ~a~ properties discovered.
 
-0x94322890 = Kit
+0x94322890 = Обладнання
 
 0x06D29B32 = View Post On Social Club
 
@@ -60766,7 +60766,7 @@
 
 0x8F2823E7 = State Bounties
 
-0x92D62796 = Crackers
+0x92D62796 = Крекири
 
 0xCFF064B7 = Put On
 
@@ -61922,7 +61922,7 @@
 
 0x8E7B25F4 = Gunslinger Vest
 
-0x5867EFE1 = Guarma Rum
+0x5867EFE1 = Ром
 
 0x170BAE86 = A piece of a meteoroid. Can be sold for cash.
 
@@ -61970,7 +61970,7 @@
 
 0xD4046B99 = Fully restores all Cores and yields Gold Cores for 3 days. Once made, will last for 3 days at camp.
 
-0x30CCC863 = Lenny
+0x30CCC863 = Ленні
 
 0x5BE4F37C = Compsons Stead
 
@@ -62008,11 +62008,11 @@
 
 0xC3D55B7E = Van Horn
 
-0x9D4F34F9 = Crackers
+0x9D4F34F9 = Крекири
 
 0x78D41080 = Woodland Gloves
 
-0xD90F70BC = Snake Oil
+0xD90F70BC = Чудодійне зілля
 
 0xF39B8B4B = You attacked Pearson's horse.
 
@@ -62352,7 +62352,7 @@
 
 0x2B4EC3E5 = Expedition Капелюх
 
-0x077BA012 = Silver лисиця Sample
+0x077BA012 = Зразок чорнобурої лисиці
 
 0x4EA1E738 = Pick 6 Yarrow
 
@@ -63202,7 +63202,7 @@
 
 0xE7E3828A = Short Scope
 
-0x4A59E501 = Lantern
+0x4A59E501 = Лампа
 
 0x97783220 = Fire Bottle Pamphlet
 
@@ -65836,7 +65836,7 @@
 
 0x2425C557 = Morales Vest
 
-0xAA7C4BAF = Bill
+0xAA7C4BAF = Білл
 
 0xC5A266D5 = Change your weapon's cloth wrap.
 
@@ -66040,7 +66040,7 @@
 
 0xE7AD895C = Carthage Капелюх
 
-0xD5D47784 = Lasso
+0xD5D47784 = Ласо
 
 0x2DB2CF64 = Farmland Buckle
 
@@ -66900,7 +66900,7 @@
 
 0x9E7D424E = Guest
 
-0x84412812 = Horse Stimulant
+0x84412812 = Стимулятор для коня
 
 0x75A41975 = FOSTER COOPER JUNIOR
 
@@ -67070,7 +67070,7 @@
 
 0x9F614394 = - HOME FOR NOW.
 
-0x1427B85E = Cigar
+0x1427B85E = Сигара
 
 0x29C2CDFA = Dear Sir,~n~You were once very kind to Beau and myself and it pains me to ask you to show us further kindness, but I have nowhere else to turn and nobody else upon whom I can impose. I will of course, pay you handsomely for your troubles. My family have turned quite mad and are threatening to send me away, to stop my work, which they say is disgracing them.
 
@@ -67898,7 +67898,7 @@
 
 0x0FECB639 = Processing
 
-0x07F3AE42 = Hogtie
+0x07F3AE42 = Зв'язування
 
 0x91ED383B = Select a profile to continue
 
@@ -69244,7 +69244,7 @@
 
 0xB7BB6156 = Improved Bonding
 
-0x906439FF = Bill
+0x906439FF = Білл
 
 0x92E93C87 = Double Breasted Lapelled Vest
 
@@ -69654,7 +69654,7 @@
 
 0xE22F8CB9 = Tumbleweed Sheriff
 
-0x3D2EE7BA = Opened Miracle Tonic
+0x3D2EE7BA = Відкрита пляшка з тоніком
 
 0x20D0CB5C = The Quick Draw Club No. 2 Reward
 
@@ -69694,7 +69694,7 @@
 
 0x9C6A470D = Weight
 
-0x75A8204D = Bitters
+0x75A8204D = Настоянка
 
 0xA9FF54A4 = Our Bartley Cap is soft, warm and fully lined. Available in rat, squirrel and other luxurious furs.
 
@@ -73890,7 +73890,7 @@
 
 0x88D83DCC = Shire - Light Gray Пальто
 
-0x1E60D357 = Remove ~a~
+0x1E60D357 = Зняти: ~a~
 
 0x87E63CDC = Mannersby
 
@@ -74786,7 +74786,7 @@
 
 0x2F8EE6B4 = Wetnose Buckle
 
-0xA3F15B1A = Remedy
+0xA3F15B1A = Цілющий засіб
 
 0x4496FBC1 = Activating the Increase Whistle Range For Horse cheat will allow your Horse to find you regardless of distance.
 
@@ -75052,7 +75052,7 @@
 
 0xC4147BE7 = Alligator Skin
 
-0x3728EF00 = Dead Eye Tonics
+0x3728EF00 = Тоніки «Влучного ока»
 
 0xF87FB057 = Tied Pants
 
@@ -77982,7 +77982,7 @@
 
 0x9245511D = Get 30% RDO$ off a select Novice or Promising item from any of your current Roles.
 
-0x7E013CDA = Release
+0x7E013CDA = Відпустити
 
 0x21E5E0C1 = A Collector outfit must be equipped.
 
@@ -78360,7 +78360,7 @@
 
 0x99D05985 = Caesar Washington
 
-0x0434C3EA = The Count
+0x0434C3EA = Граф
 
 0x85DF4595 = Grizzlies Calumet Ravine Bone Location
 
@@ -81714,7 +81714,7 @@
 
 0x75EE3E00 = Hunters Collection
 
-0x44750C88 = Repeater Cartridges - Split Point
+0x44750C88 = Надрізані патрони - карабін
 
 0x2F55F76A = Elk Pelt
 
@@ -81784,7 +81784,7 @@
 
 0x43270B6C = Paddon Shirt
 
-0xDB15A35A = Kit
+0xDB15A35A = Обладнання
 
 0x0AC4D30C = Rowberrow Pants
 
@@ -82461,7 +82461,7 @@
 
 0x2233EC1D = How To Prepare~n~~n~I.		Combine a sample of Skunk blood with Black-tailed Rabbit blood and either Gray or Timber Wolf blood over fire.~n~II.		Store securely for later use.~n~
 
-0xD4F59EDF = Kit
+0xD4F59EDF = Обладнання
 
 0x0155CB40 = Joe's horse has died.
 
@@ -82925,7 +82925,7 @@
 
 0xEF70BA78 = Commend this player for being:
 
-0x9C8B6796 = Repeater Cartridges - Explosive
+0x9C8B6796 = Розривні патрони - карабін
 
 0x6E473953 = Once dutiful lawmen and soldiers, these men now exploit the respect due to their uniforms in order to gain the trust and compliance of their victims. These poor souls are not merely kidnapped, but mutilated beyond all recognition, their ruined corpses then fraudulently submitted as bounties.
 
@@ -84385,7 +84385,7 @@
 
 0x3534040D = Morgan - Bay Roan Пальто
 
-0xC72D9606 = Miracle Tonic
+0xC72D9606 = Тонік
 
 0x542F2309 = Cooked Seasoned Mutton
 
@@ -84909,7 +84909,7 @@
 
 0x1B08EB1D = Sightings of this rare elk have spanned the length of Cholla Springs. Its red pelt contrasts its black antlers, setting it apart from more common species.
 
-0x6FF6400B = Hosea
+0x6FF6400B = Хозія
 
 0xBE9B8EB2 = Fender 7
 
@@ -85319,7 +85319,7 @@
 
 0x7684479D = Find more information on your horse in the help section of the Pause menu.
 
-0x2B8FFCAA = Potent Miracle Tonic
+0x2B8FFCAA = Міцний тонік
 
 0x1E4CEF6C = Stole Mule
 
@@ -86633,7 +86633,7 @@
 
 0x3CB410F8 = Good Skinned Panther Carcass
 
-0x0DCBE210 = Repeater Cartridges - High Velocity
+0x0DCBE210 = Швидкісні патрони - карабін
 
 0x1E6CF2B1 = Tempest Rim
 
@@ -86969,7 +86969,7 @@
 
 0x0D68E261 = Gerden Rider Spurs
 
-0x50F525EE = Opened Cigarettes
+0x50F525EE = Відкрита пачка цигарок
 
 0xC9D39ECC = * FINE FOR SPORTS OR ON THE BATTLEFIELD, THEY ARE QUIET AND EAGER TO LEARN~n~
 
@@ -87013,7 +87013,7 @@
 
 0x9053656A = The Repeating Shotgun
 
-0x635E387C = Lantern
+0x635E387C = Ліхтар
 
 0x8AE36007 = Patched Overalls
 
@@ -89557,7 +89557,7 @@
 
 0x2D6D08AB = Fulbright Пальто
 
-0x44691FAC = Kieran
+0x44691FAC = Кіран
 
 0xB3AA8EED = Moonshine Ingredients Parcel
 
@@ -89605,7 +89605,7 @@
 
 0x6A1D4579 = Reward for completing A Better World, A New Friend-IV.
 
-0x84FC6059 = Light
+0x84FC6059 = Ліхтар
 
 0x53722ED3 = One of our most rustic designs. Why spend on functionless decoration when this uncomplicated hat will do the job just as well?
 
@@ -91375,7 +91375,7 @@
 
 0x276B070A = Bald Eagle
 
-0x7FCD5F6E = Use ~INPUT_RADIAL_MENU_SLOT_NAV_PREV~ or ~INPUT_RADIAL_MENU_SLOT_NAV_NEXT~ to select a stowed weapon from your horse
+0x7FCD5F6E = Щоб вибрати зброю, що навчена за коня, використовуйте ~INPUT_RADIAL_MENU_SLOT_NAV_PREV~ чи ~INPUT_RADIAL_MENU_SLOT_NAV_NEXT~.
 
 0x30050FA7 = The American Inferno, Burnt Out
 
@@ -92389,7 +92389,7 @@
 
 0x0D36EF62 = You deal more damage, but headshots are no longer instant kills.
 
-0x35381765 = Kieran
+0x35381765 = Кіран
 
 0x4E8C30BB = You can pick up your saddle from the stables.
 
@@ -94985,7 +94985,7 @@
 
 0x71825A1C = A GUARANTEED CURE FOR ALL ACHES AND PAINS. ~n~
 
-0x881A70B6 = Stamina
+0x881A70B6 = Витривалість
 
 0x314D19EC = Give
 
@@ -96871,7 +96871,7 @@
 
 0x4A6D3789 = Wanted Fugitive
 
-0xCA73B790 = Gun Oil
+0xCA73B790 = Збройова олія
 
 0xEAFBD819 = David Geddes needs a word.
 
@@ -97989,7 +97989,7 @@
 
 0xD5D3C5CB = Tonic Buckle
 
-0x42BE32B8 = The Count
+0x42BE32B8 = Граф
 
 0x11940191 = Scribbled coordinates detailing how to find a rock carving.
 
@@ -98673,7 +98673,7 @@
 
 0xDA7CCC22 = Figure Eight Toss Skill Page
 
-0x4B3E3CE6 = Carbine Repeater
+0x4B3E3CE6 = Магазинний карабiн
 
 0x881479BE = Poodles are good companions for duck and bird hunting
 
@@ -100117,7 +100117,7 @@
 
 0x7B077025 = Рукопашний бій
 
-0x27F11D11 = Kit
+0x27F11D11 = Обладнання
 
 0x7ECB73ED = Outfit Seven
 
@@ -101179,7 +101179,7 @@
 
 0xB7EBAFA9 = Slightly restores Health Core.
 
-0x7A8A724A = Lasso
+0x7A8A724A = Ласо
 
 0x87F87FB8 = Reduce the time taken to create a batch of moonshine.
 
@@ -101777,7 +101777,7 @@
 
 0x2AB823FE = Decline Help
 
-0x61CC5B12 = The Count
+0x61CC5B12 = Граф
 
 0xBA00B348 = China Cabinet
 
@@ -102479,7 +102479,7 @@
 
 0x94B38FA9 = Bride Photograph
 
-0xD9F6D4ED = Hosea
+0xD9F6D4ED = Хозія
 
 0x80E47BDB = King of Swords Tarot Card
 

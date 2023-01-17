@@ -1,156 +1,156 @@
-0x0E917806 = Keep ~INPUT_HORSE_AIM~ held, dismount your horse and press ~INPUT_CONTEXT_Y~ near the ~e~O'Driscoll~s~ to hogtie them
+0x0E917806 = Продовжуй утримувати ~INPUT_HORSE_AIM~, злізьте з коня, підійдіть до ~e~бандита~s~, та натисніть ~INPUT_CONTEXT_Y~, щоб зв'язати його.
 
-0x65F129B8 = Take out ~e~O'Driscolls~s~
+0x65F129B8 = Приберіть хлопців ~e~О'Дрісколла~s~.
 
-0xCFC4AC44 = Dismount your horse
+0xCFC4AC44 = Злізьте з коня
 
-0xBAD4E238 = The O'Driscolls were alerted.
+0xBAD4E238 = О'Дрісколли підняли тривогу.
 
-0xDB731358 = Hold ~INPUT_OPEN_WHEEL_MENU~ to show the Weapon Wheel, using ~INPUTGROUP_RADIAL_MENU_NAV~ select a weapon, release ~INPUT_OPEN_WHEEL_MENU~ to equip.
+0xDB731358 = Утримуйте ~INPUT_OPEN_WHEEL_MENU~, щоб відкрити селеткор зброї. Виберіть зброю з допомогою ~INPUTGROUP_RADIAL_MENU_NAV~, а потім відпустіть ~INPUT_OPEN_WHEEL_MENU~, що витягти його.
 
-0x12092F74 = Take cover at the ~o~wall~s~
+0x12092F74 = Сховайтесь за ~o~стіною~s~.
 
-0xFC0397B0 = The O'Driscoll escaped.
+0xFC0397B0 = Бандит втік.
 
-0xB079BBE0 = Hold ~INPUT_PICKUP_CARRIABLE|PromptId=CarriablePrompt,Gutter~ near the ~e~O'Driscoll~s~ to pick him up
+0xB079BBE0 = Утримуйте ~INPUT_PICKUP_CARRIABLE|PromptId=CarriablePrompt,Gutter~ поблизу ~e~бандита~s~, щоб підняти його.
 
-0x01A3DE2B = Press ~INPUT_HOGTIE~ near the ~e~O'Driscoll~s~ to hogtie them
+0x01A3DE2B = Натисніть ~INPUT_HOGTIE~ поблизу ~e~бандита~s~, щоб зв'язати його.
 
-0x12728156 = While riding, press ~INPUT_HORSE_JUMP~ to make the horse jump.
+0x12728156 = Сидячи в сідлі, натисніть ~INPUT_HORSE_JUMP~, щоб заставити коня стрибнути.
 
-0xF41273C3 = Regroup with the ~o~gang~s~
+0xF41273C3 = Зустріньтеся з ~o~бандою~s~.
 
-0xA584D1D5 = When locked on to an enemy use ~INPUTGROUP_RADIAL_MENU_NAV~ to move the reticle up for a headshot.
+0xA584D1D5 = Вибравши ворога як ціль, перемістіть приціл вгору за допомогою ~INPUTGROUP_RADIAL_MENU_NAV~, щоб зробити вистріл в голову.
 
-0x24F51C41 = Search
+0x24F51C41 = Оглянути
 
-0x6829AEC8 = Approach your ~o~horse~s~ and hold ~INPUT_OPEN_WHEEL_MENU~ to view stored weapons
+0x6829AEC8 = Підійдіть до свого ~o~коня~s~ і утримуйте ~INPUT_OPEN_WHEEL_MENU~, щоб переглянути залишену зброю.
 
-0x7DF62EC5 = Weapons not set in your loadout before dismounting will remain on your horse.
+0x7DF62EC5 = Зброя, не додана в комплект озброєння перед спішуванням, залишиться на коні.
 
-0x262628C5 = Hold ~INPUT_LOOT~ near a corpse to loot it.
+0x262628C5 = Утримуйте ~INPUT_LOOT~ біля трупа, щоб обшукати його.
 
-0x89BBB322 = Kieran has died.
+0x89BBB322 = Кіран помер.
 
-0xFA870A3D = Dead Eye is displayed in the lower left corner. Dead Eye allows you to slow down time in combat.
+0xFA870A3D = Індикатор «Влучного ока» знаходиться в нижньому лівому кутку. «Влучне око» сповільнює час у бою.
 
-0x32121737 = Follow ~o~Dutch~s~ back to camp~s~
+0x32121737 = Слідуйте за ~o~Датчем~s~ назад до табору~s~.
 
-0x28BD66A9 = While aiming press ~INPUT_SPECIAL_ABILITY~ to activate Dead Eye.
+0x28BD66A9 = Під час прицілювання натисніть ~INPUT_SPECIAL_ABILITY~, щоб включити «Влучне око».
 
-0x78328704 = Consumable items are also found in the Item Wheel. Use a Tonic to restore Dead Eye.
+0x78328704 = Витрачені предмети також знаходяться у селекторі предметів. Використовуйте тонік, щоб відновити рівень «Влучного ока».
 
-0x9EC51BD2 = Release ~INPUT_OPEN_WHEEL_MENU~ to equip the weapons
+0x9EC51BD2 = Відпустіть ~INPUT_OPEN_WHEEL_MENU~, щоб взяти зброю.
 
-0xF758A1C5 = Follow ~o~Dutch~s~
+0xF758A1C5 = Слудуйсте за ~o~Датчем~s~.
 
-0xB37FA543 = Micah
+0xB37FA543 = Міка
 
-0x8739E411 = Defend
+0x8739E411 = Оборонятися
 
-0x83D5661F = Select a Sidearm
+0x83D5661F = Виберіть особисту зброю.
 
-0x70257574 = Aim at the ~e~O'Driscolls~s~ to tag them and press ~INPUT_ATTACK~ to fire all shots.
+0x70257574 = Прицільтесь в декількох ~e~О'Дрісколлів~s~ , щоб відмітити їх, і натисніть ~INPUT_ATTACK~, щоб відкрити вогонь.
 
-0xC12AA1FF = The gang was abandoned.
+0xC12AA1FF = Ви кинули банду.
 
-0x9B57919C = Hogtied people can be placed on the back of your horse.
+0x9B57919C = Зв'язану людину можна покласти на круп коня.
 
-0x40A7FF83 = Hold ~INPUT_HORSE_AIM~ to ready the lasso and aim at the ~e~O'Driscoll~s~
+0x40A7FF83 = Утримуйте ~INPUT_HORSE_AIM~, щоб приготувати ласо та направити його на ~e~бандитаl~s~.
 
-0xF699EB68 = Keep ~INPUT_HORSE_AIM~ held and dismount
+0xF699EB68 = Продовжуйте утримувати ~INPUT_HORSE_AIM~ та злізьте з коня.
 
-0xB08ABF5D = Select your backup gun with ~INPUT_LOOK_DOWN_ONLY~ and press ~INPUT_RADIAL_MENU_SLOT_NAV_NEXT~ to cycle through the weapons
+0xB08ABF5D = Виберіть додаткову зброю за допомгою ~INPUT_LOOK_DOWN_ONLY~ і натисніть ~INPUT_RADIAL_MENU_SLOT_NAV_NEXT~, щоб прокручувати зброю.
 
-0x3CFEB08B = Look at Dutch to give instructions.
+0x3CFEB08B = Подивіться на Датча, щоб віддати вказівки.
 
-0x309A338B = Chest
+0x309A338B = Скриня
 
-0x8EE27A44 = The shortest route to a required destination is shown by the yellow line on the radar.
+0x8EE27A44 = Найкоротший шлях до призначення показаний жовтою лінією на міні-карті.
 
-0x5BD8C312 = Hold ~INPUT_CONTEXT_X~ near your ~o~horse~s~ to remove the O'Driscoll.
+0x5BD8C312 = Утримуйте ~INPUT_CONTEXT_X~ поряд з ~o~конем~s~, щоб зняти бандита.
 
-0xC9441E27 = Get on your ~o~horse.~s~
+0xC9441E27 = Сядьте на ~o~коня~s~.
 
-0xE933057A = Take out ~e~O'Driscolls~s~
+0xE933057A = Вбийте хлопців ~e~О'Дрісколла~s~.
 
-0xCC0772FB = Approach the back of your ~o~horse~s~ and hold ~INPUT_PLACE_CARRIABLE_ONTO_PARENT|PromptId=CarriablePrompt,Gutter~ to stow the O'Driscoll~s~
+0xCC0772FB = Підійдіть до ~o~коня~s~ ззаду та утримуйте ~INPUT_PLACE_CARRIABLE_ONTO_PARENT|PromptId=CarriablePrompt,Gutter~, що положити банлита на круп коня.~s~
 
-0x44B865E1 = While aiming with ~INPUT_AIM~ hold ~INPUTGROUP_MOVE~ and press ~INPUT_JUMP~ to roll.
+0x44B865E1 = Прицілившись з допомгою ~INPUT_AIM~, утримуйте ~INPUTGROUP_MOVE~ і натисніть ~INPUT_JUMP~, щоб перекотитися.
 
-0x2842ACF6 = When aiming, press ~INPUT_SWITCH_SHOULDER~ to switch the camera to the other shoulder.
+0x2842ACF6 = Під час прицілювання, натисніть ~INPUT_SWITCH_SHOULDER~, щоб змінити ракурс камери на вид з іншого плеча.
 
-0x42C2E1FE = You can fire weapons quickly from the hip by tapping ~INPUT_ATTACK~ when not aiming.
+0x42C2E1FE = Щоб швидко стріляти від бедра, натискайте ~INPUT_ATTACK~, коли не цілитися.
 
-0xF7A5CBBD = Parts of the environment are destructible. Lanterns will explode when shot causing damage and distraction.
+0xF7A5CBBD = Деякі об'єкти довкілля можна знищити. Якщо стріляти по ліхтарях, вони будуть вибухати, завдаючи шкоди та відволікаючи увагу.
 
-0xF819A34B = Follow ~o~Dutch~s~
+0xF819A34B = Слідуйте за ~o~Датчем~s~.
 
-0x0135009E = Keep ~INPUT_HORSE_AIM~ held and press ~INPUT_HORSE_ATTACK~ to drag the ~e~O'Driscoll~s~ towards you
+0x0135009E = Продовжуйте утримувати ~INPUT_HORSE_AIM~ і натискайте ~INPUT_HORSE_ATTACK~,щоб підтягнути до себе ~e~бандита~s~.
 
-0x781C9C76 = Select a Dead Eye Tonic and release ~INPUT_OPEN_WHEEL_MENU~ to use.
+0x781C9C76 = Виберіть тонік «Влучного ока» та відпустіть ~INPUT_OPEN_WHEEL_MENU~, щоб використати його.
 
-0x55ECDEEC = Hogtie the ~e~O'Driscoll~s~
+0x55ECDEEC = Зв'яжіть ~e~Бандита~s~.
 
-0x52E1FA34 = Take the lead
+0x52E1FA34 = Повести банду
 
-0x96686806 = Gang
+0x96686806 = Банда
 
-0xF1566E0F = Put the O'Driscoll~s~ on the back of your ~o~horse~s~
+0xF1566E0F = Покладіть бандита на ~o~коня~s~.
 
-0xA64378C3 = ~INPUT_SELECT_NEXT_WHEEL~ Switch to the Item Wheel
+0xA64378C3 = Натисніть ~INPUT_SELECT_NEXT_WHEEL~, щоб переключитися на селектор предметів.
 
-0xFF3B89D9 = Get back to the ~o~gang~s~
+0xFF3B89D9 = Повернуться до ~o~банди~s~.
 
-0x2595D68D = Search the ~o~building~s~
+0x2595D68D = Оглянути ~o~будинок~s~.
 
-0x724BC30C = Select a Longarm slot and use ~INPUT_RADIAL_MENU_SLOT_NAV_NEXT~ to cycle to the Carbine Repeater
+0x724BC30C = Виберіть «Великорозмірне» та використовуйте ~INPUT_RADIAL_MENU_SLOT_NAV_NEXT~, щоб вибрати магазинний карабін.
 
-0x927025BC = Use ~INPUTGROUP_RADIAL_MENU_NAV~ to select the lasso and release ~INPUT_OPEN_WHEEL_MENU~ to equip.
+0x927025BC = Виберіть ласо з допомогою ~INPUTGROUP_RADIAL_MENU_NAV~ та відпустіть ~INPUT_OPEN_WHEEL_MENU~, щоб взяти його в руки.
 
-0x5008AB76 = Carry the O'Driscoll to the ~o~cabin~s~
+0x5008AB76 = Віднести бандита до ~o~хижини~s~.
 
-0xA9695224 = Your health is low. Avoid taking more damage and wait for it to refill, or use a Health Cure for a quick boost.
+0xA9695224 = У вас низький рівень здоров'я. Не підставляйтеся під удар і зачекайте, доки здоров'я відновиться, або скористайтеся ліками.
 
-0x34444501 = Walk over to the chest and press ~INPUT_LOOT~ to loot it.
+0x34444501 = Щоб обшукати скриню, підійдіть до нього т анатисніть ~INPUT_LOOT~.
 
-0xD77CBA98 = Loot the dead enemies
+0xD77CBA98 = Обшукайте вбитих ворогів.
 
-0xE5F8D790 = Return to ~o~camp~s~
+0xE5F8D790 = Поверніться до ~o~табору~s~.
 
-0x869D61AE = Send the gang
+0x869D61AE = Послати банду
 
-0x64177B41 = Chase down and lasso the ~e~O'Driscoll~s~
+0x64177B41 = Доженіть та накиньте на ~e~бандита~s~ ласо.
 
-0x2EBB1404 = Hold ~INPUT_AIM~ while looking at Dutch to speak to him.
+0x2EBB1404 = Коли дивитесь на Датча, утримуйте ~INPUT_AIM~, щоб з ним говорити.
 
-0x326517A4 = Weapons not set in your loadout before dismounting will remain on your horse.
+0x326517A4 = Зброя, не додана в комплект озброєння перед спішуванням, залишиться на коні.
 
-0xCFC86AFA = Dismount your horse and use ~INPUT_CONTEXT_X~ to pick up the ~e~O'Driscoll~s~
+0xCFC86AFA = Злізьте з коня та підніміть ~e~бнадита~s~ з допомогою ~INPUT_CONTEXT_X~.
 
-0xE43B6820 = The O'Driscoll has died.
+0xE43B6820 = Бандит помер.
 
-0xEA280768 = Get to the ~o~cliff edge~s~
+0xEA280768 = Підійдіть до ~o~обриву~s~.
 
-0xB99CE27B = ~INPUT_HORSE_ATTACK~ Throw the lasso
+0xB99CE27B = ~INPUT_HORSE_ATTACK~ - кинути ласо.
 
-0x55E10A37 = Use ~INPUT_MOVE_LEFT_ONLY~ to select the Carbine Repeater and release ~INPUT_OPEN_WHEEL_MENU~ to set your loadout
+0x55E10A37 = Виберіть магазинний карабін за допомогою ~INPUT_MOVE_LEFT_ONLY~ та відбустіть ~INPUT_OPEN_WHEEL_MENU~, щоб задати комплект спорядження.
 
-0x84E9FBA1 = Advance
+0x84E9FBA1 = Напасти
 
-0xC45A46F8 = Dutch
+0xC45A46F8 = Датч
 
-0x9A634182 = Pick up the ~e~O'Driscoll~s~
+0x9A634182 = Підніміть ~e~бандита~s~.
 
-0xE3DB2C3F = Hold ~INPUT_OPEN_WHEEL_MENU~ to show the Weapon Wheel.
+0xE3DB2C3F = Утримуйте ~INPUT_OPEN_WHEEL_MENU~, щоб відкрити селектор зброї.
 
-0x5A50E0DF = Hold ~INPUT_OPEN_WHEEL_MENU~ to open the Weapon Wheel.
+0x5A50E0DF = Утримуйте ~INPUT_OPEN_WHEEL_MENU~, щоб відкрити селектор зброї.
 
-0xB23F5374 = Press ~INPUT_WHISTLE~ to whistle for your horse.
+0xB23F5374 = Натисніть ~INPUT_WHISTLE~, щоб свистом покликати коня.
 
-0x17D28C1E = To make yourself less noticeable press ~INPUT_DUCK~ to crouch.
+0x17D28C1E = Якщо хочете приманювати менше уваги, натисніть ~INPUT_DUCK~, щоб нагутися.
 
-0xD8D9101D = Hold ~INPUT_OPEN_WHEEL_MENU~ to show the Weapon Wheel while on your horse
+0xD8D9101D = Утримуйте ~INPUT_OPEN_WHEEL_MENU~, що відкрити селеткор зброї, знаходячись в сідлі.
 
-0x1AC5689E = Follow ~o~Dutch~s~ back to the horses~s~
+0x1AC5689E = Йдіть за ~o~Датчем~s~ до коней~s~.
 
