@@ -11975,7 +11975,7 @@
 
 0x63E081B8 = Guard
 
-0x53C4719F = ~1~% to Рівень ~2~
+0x53C4719F = ~1~% до рівня ~2~
 
 0xFF9C1D78 = Improved
 
@@ -15733,7 +15733,7 @@
 
 0x889EAF9B = TAKE A CURSORY GLANCE OVER THIS IMMACULATE FASHION PLATE.~n~
 
-0x19D440D2 = Opened Cover Scent
+0x19D440D2 = Відкритий нейтралізатор запаху
 
 0xC95AF059 = Martindale Pants
 
@@ -20573,7 +20573,7 @@
 
 0x1FE45285 = Prisoner
 
-0x3B7C6E1E = Opened Chewing Tobacco
+0x3B7C6E1E = Відкритий жувальний тютюн
 
 0x231F55C2 = Walden Пальто
 
@@ -20611,7 +20611,7 @@
 
 0x5DE590A2 = Gus Raines
 
-0xDFB81277 = Opened Cocaine Gum
+0xDFB81277 = Відкрита кокаїнова жуйка
 
 0x172049E3 = A must-have for every angler. Fish in a wide array of environments find this Special Spinner completely irresistible.
 
@@ -23691,7 +23691,7 @@
 
 0x9E84D8E8 = Inspect Box of Razors
 
-0x024A3CB2 = ~1~ Increased
+0x024A3CB2 = ~1~: +1 рівень
 
 0x7A29B491 = Crack Shot
 
@@ -28173,7 +28173,7 @@
 
 0x6D1DB249 = Regent Holster
 
-0x578F9CBC = Opened Rifle Cartridges
+0x578F9CBC = Відкрита коробка з патронами для гвинтівки
 
 0x07474C74 = Kauffman Farms
 
@@ -28421,7 +28421,7 @@
 
 0xD2E918A8 = There is someone here you can meet.
 
-0x7E63C427 = Opened Repeater Cartridges
+0x7E63C427 = Відкрита коробка з патронами для карабіна
 
 0xA4A7EA6B = The Tiltham Капелюх is one of the best loved designs in our entire line of hats. Look no further for quality and style.
 
@@ -55236,7 +55236,7 @@
 
 0xF0A277F1 = Tornado Boots
 
-0xA4F32C44 = Opened Horse Stimulant
+0xA4F32C44 = Відкритий стимулятор для коня
 
 0x4125C878 = Spin Up
 
@@ -62748,7 +62748,7 @@
 
 0x073CA0C3 = Unkempt
 
-0xD0CD6A54 = Opened Shotgun Shells
+0xD0CD6A54 = Відкрита коробка з патронами для дробовика
 
 0xEBAD8536 = Black Balsam Rise
 
@@ -63356,7 +63356,7 @@
 
 0x95D230D6 = Sage
 
-0xCE3F6944 = Opened Horse Medicine
+0xCE3F6944 = Відкрите лікарство для коня
 
 0x3EC8D9CF = Frill Shirtwaist
 
@@ -63958,7 +63958,7 @@
 
 0xF93095AD = 5000 Wheeler, Rawson & Co. Club XP
 
-0x74EE116F = Рівень Increased
+0x74EE116F = Рівень підвищено
 
 0x4FB8EC3B = Professor Bell demonstrates his invention to the public.
 
@@ -66280,7 +66280,7 @@
 
 0x364CD8A0 = Western Raven
 
-0x88D62B2A = Opened Fine Brandy
+0x88D62B2A = Відкрите бренді
 
 0x4657E8AD = 3 Supplies
 
@@ -68618,7 +68618,7 @@
 
 0x2179C985 = Blackcurrant
 
-0x0A43B251 = Increased to Рівень ~1~
+0x0A43B251 = Підвищено до рів. ~1~
 
 0x0BEBB3F9 = Ballard Jacket
 
@@ -82054,7 +82054,7 @@
 
 0xF4D6BDCC = Quit
 
-0x66BF2FB6 = Opened Pistol Cartridges
+0x66BF2FB6 = Відкрита коробка з паронами для пістолета
 
 0x1959E251 = The American Inferno, Burnt Out - II
 
@@ -94081,7 +94081,7 @@
 
 0x275D0DA8 = Mission passed.
 
-0x99397F84 = Opened Gin
+0x99397F84 = Відкритий джин
 
 0x38EE1F3A = Аґнес
 
@@ -96871,7 +96871,7 @@
 
 0x4A6D3789 = Wanted Fugitive
 
-0xCA73B790 = Збройова олія
+0xCA73B790 = Збройне мастило
 
 0xEAFBD819 = David Geddes needs a word.
 
@@ -102745,7 +102745,7 @@
 
 0x5992553A = a fixed control
 
-0x20711C1E = Platinum Pocket Watch
+0x20711C1E = Платиновий кишеньковий годинник
 
 0xE1F5DDA3 = Flee
 
