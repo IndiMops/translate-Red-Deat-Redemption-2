@@ -12,7 +12,7 @@
 
 0x759C2937 = Hold ~INPUT_PLACE_CARRIABLE_ONTO_PARENT|PromptId=CarriablePrompt,Gutter~ to stow the deer
 
-0x7782DC9D = Greet
+0x7782DC9D = Поговорити
 
 0x894A099C = Deer
 
@@ -92,7 +92,7 @@
 
 0xB82BF363 = Your horse has died.
 
-0xA3E6ED99 = Speak to your companions by holding ~INPUT_AIM~ to focus on them and using the interaction options.
+0xA3E6ED99 =Щоб говрити з вашими компаньйонами, утримуйте ~INPUT_AIM~, щоб сфокусуватися на них й використовуйте опції взаємодій.
 
 0xA8EA4DDB = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye
 
@@ -112,7 +112,7 @@
 
 0x71D14EDD = You abandoned the deer.
 
-0x07966353 = Follow ~o~Charles~s~
+0x07966353 = Слідуйте за ~o~Чарльзом~s~.
 
 0xDBA52A57 = Deer
 
@@ -138,7 +138,7 @@
 
 0x34D36952 = When close, study an animal to discover information on it and its quality. Pelt quality is reduced with average or poor kills.
 
-0xD8F5F8CF = Follow ~o~Charles~s~
+0xD8F5F8CF = Слідуйте за ~o~Чарльзом~s~.
 
 0xE960F693 = Approach a ~o~deer carcass~s~
 

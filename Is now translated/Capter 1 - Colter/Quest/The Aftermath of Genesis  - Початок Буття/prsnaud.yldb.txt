@@ -14,13 +14,13 @@
 
 0xD6128976 = ~z~~sl:0.0:1.4~This is a big country...~lr:0.7:1.9~we'll find somewhere to lie low.~lr:0.6~Dutch and Hosea will have a plan.
 
-0xAFC99DCC = ~z~for fifty days.
+0xAFC99DCC = ~z~цілих п'ятдесят днів.
 
 0x1E72CD59 = ~z~I'll be fine in a few days.
 
 0x901E2C91 = ~z~~sl:0.0:1.5~That ride north from Blackwater,~lr:0.6:1.7~getting stuck in this storm,~lr:0.2~bringing John back in...
 
-0x07C25314 = ~z~~sl:0.0:1.7:1~We're gonna starve to death up here, Mr. Morgan.
+0x07C25314 = ~z~~sl:0.0:1.7:1~Ми приречені на голодну смерть, пане Морґан.
 
 0xE3D9447C = ~z~How can you tell?
 
@@ -42,7 +42,7 @@
 
 0x27CE7F4A = ~z~How can you not?
 
-0x1276221C = ~z~I wasn't able to get supplies in.
+0x1276221C = ~z~мені не вдалося захопити припаси.
 
 0xA34E8059 = ~z~~sl:1.0~I reckon you're okay...
 
@@ -62,11 +62,11 @@
 
 0x95B61CBF = ~z~I still wonder that most nights.
 
-0x9DE33A10 = ~z~ain't no wonder they found...
+0x9DE33A10 = ~z~не треба дивуватися, що вони нічого не спіймали...
 
 0x82EA20FA = ~z~~sl:0.0:1.1~You ain't dealt with them?~lr:0.9:4.0:1~I suppose we ain't run into them much the last six months,
 
-0x725ADAEF = ~z~and we'll scare off every animal for miles around.
+0x725ADAEF = ~z~то розлякаєш усіх звірів на багато миль навколо.
 
 0x0B3C1E2F = ~z~Let's look down this way.
 
@@ -80,7 +80,7 @@
 
 0xBDE52E75 = ~z~I sure hope I can. I never really got the hang of it.
 
-0x10E52012 = ~z~Starving would be preferable.
+0x10E52012 = ~z~Краще вже з голоду померти.
 
 0xC93F2EC1 = ~z~~sl:0.0:1.5:1~Well, well, well...
 
@@ -148,7 +148,7 @@
 
 0xFAB8A699 = ~z~A gun will scare everything around.
 
-0x8212425E = ~z~We were stranded at sea...
+0x8212425E = ~z~Одного разу нас носило морем...
 
 0xDAA6B3F5 = ~z~Same with Bill and Brown Jack.
 
@@ -160,7 +160,7 @@
 
 0xF48F6E2F = ~z~It's easier when they ain't shooting back.
 
-0x4C5C582A = ~z~Come on, Arthur.
+0x4C5C582A = ~z~Йдемо, Артуре.
 
 0x2B36AB57 = ~z~I only showed you a little. Takes a lifetime of practice to master.
 
@@ -176,19 +176,19 @@
 
 0x23127FE3 = ~z~~sl:0.0:0.5~Well,~lr:1.3:1.3~we need you now,~sl:0.4~more than ever.
 
-0xBD6D3913 = ~z~I-I do not wish to hear about...
+0xBD6D3913 = ~z~Я-Я навіть не хочу це знати...
 
 0x2A3A68C0 = ~z~Well, see you gents later.
 
 0x2D8096C5 = ~z~~sl:0.0:1.1~Focus, Arthur.~sl:0.2~We need this meat.
 
-0xF9276F7F = ~z~you're the fattest.
+0xF9276F7F = ~z~ви ж най товстіші.
 
 0x7359FAFE = ~z~you earned it.
 
 0x5365B813 = ~z~Come on, grab that bow off the horse.
 
-0x1D38F839 = ~z~When we ran away from Blackwater...
+0x1D38F839 = ~z~Коли ми втікали з Блеквотера...
 
 0xDF2460E3 = ~z~She's a strong one.~rp~ It's been as hard on the horses as on the rest of us.
 
@@ -206,9 +206,9 @@
 
 0xE32ACB66 = ~z~~sl:0.0:1.2~Nice work, Arthur.~lr:0.1~Should be enough meat here to keep us all fed for a few days.
 
-0x3DD8F8E1 = ~z~sometimes shopping trips need to be cut short.
+0x3DD8F8E1 = ~z~доводиться відмовлятися від походів за покупками.
 
-0x737AE540 = ~z~Unless those mountains are full of game that wanna read...
+0x737AE540 = ~z~Якщо тільки ці гори не кишають дичиною, яка любить книги...
 
 0xF905862D = ~z~He loves me really...
 
@@ -266,19 +266,19 @@
 
 0x1C05E876 = ~z~Look out!
 
-0x4F489E04 = ~z~You can't go hunting. Look at your hand.
+0x4F489E04 = ~z~Ти не можеш полювати, поглянь на свою руку.
 
-0xC7CA8CC6 = ~z~We'll survive...
+0xC7CA8CC6 = ~z~Ми вижевемо...
 
 0xC460B602 = ~z~~sl:2.3~Been a wild few days alright.
 
 0xC7359AC3 = ~z~~sl:0.0:0.8~Me neither...~lr:1.4:2.5~well, Javier told me a bit, but...~sl:0.5~it sure weren't good.
 
-0x8FEFDDA5 = ~z~We have a few cans of food and a rabbit...
+0x8FEFDDA5 = ~z~В нас всього пару банок консерв та заєць...
 
 0xAD582446 = ~z~~sl:0.0:3.3~Once we get out of here, and we're back on our feet, we'll see.~lr:0.6~She might have family somewhere.
 
-0x314261F4 = ~z~You think this is rest?
+0x314261F4 = ~z~По твоєму - це віддих?
 
 0x50A41676 = ~z~Arthur, stay back.
 
@@ -286,7 +286,7 @@
 
 0x3EE4E6AF = ~z~Come on, you're making yourself too obvious.
 
-0x07220C8C = ~z~"Assorted, salted offal."
+0x07220C8C = ~z~«Асорті, солоні потроха.»
 
 0x927D9BE2 = ~z~~sl:0.0:3.6:1~He's a drunk, miserable bastard but he loves that horse.
 
@@ -300,7 +300,7 @@
 
 0xBE2EDCCB = ~z~~sl:0.0:0.8~Good shot.~sl:0.7~Now, let's try for another.
 
-0xFA15739B = ~z~Look, if there's game in those hills I'll find it...
+0xFA15739B = ~z~Якщо в цих горах є якась дичина, я її знайду...
 
 0x4C06F326 = ~z~I guess because they've been over this way.
 
@@ -312,7 +312,7 @@
 
 0x31F02D74 = ~z~~sl:0.0:1.4~Good that we caught more than one.~lr:0.4~A lot of mouths to feed.
 
-0x71FC2476 = ~z~~sl:0.0:0.6~Alright,~sl:0.6~let's head out.
+0x71FC2476 = ~z~~sl:0.0:0.6~Гаразд,~sl:0.6~поїхали.
 
 0x038DD3FE = ~z~I'm serious, this is bad.
 
@@ -328,11 +328,11 @@
 
 0x43349ED3 = ~z~Just make a good stew, folk need it...
 
-0x1BD1518C = ~z~We're okay...
+0x1BD1518C = ~z~Все ж не так й погано...
 
 0x160B8378 = ~z~~sl:0.0:2.3~I didn't mean it like that, just...~lr:0.5~a lot to think back on.
 
-0xD5287738 = ~z~Is everything okay?
+0xD5287738 = ~z~Щось трапилося?
 
 0xD8A63523 = ~z~~sl:0.0:0.6~The girl,~sl:0.4~she has a wild look in her eye.
 
@@ -390,7 +390,7 @@
 
 0x3B914E5D = ~z~~sl:0.0:1.0~Any of this.~lr:0.5:1.9~The Blackwater mess,~sl:~being up here.
 
-0x0E689308 = ~z~Oh, you're joking...
+0x0E689308 = ~z~Ой, ти певне жартуєш...
 
 0x1918284D = ~z~Ready to head back when you are...
 
@@ -400,7 +400,7 @@
 
 0x8F4B670A = ~z~So I heard.
 
-0x69615109 = ~z~Wait a second, hold on.
+0x69615109 = ~z~Зачекайте хвильку...
 
 0xB2AB1F3C = ~z~We could have got them another day.
 
@@ -416,7 +416,7 @@
 
 0xE543DE14 = ~z~~sl:0.8~I'm sure.
 
-0x2B9DD46B = ~z~Well when government agents are hunting you down...
+0x2B9DD46B = ~z~Коли за тобою полюють федеральні агенти...
 
 0xF91EE393 = ~z~~sl:0.0:0.6~Good...~sl:1.3:1.8~and ~rp~how long have you been with these boys?~lr:0.4~Why ain't you run off?
 
@@ -464,7 +464,7 @@
 
 0x88E46930 = ~z~~sl:2.0:2.2~Been a wild few days alright.
 
-0x0BBC16E8 = ~z~and you can kill it.
+0x0BBC16E8 = ~z~а ти вб'єш.
 
 0x04DE9BB5 = ~z~We'll still have a big price on our heads.
 
@@ -482,7 +482,7 @@
 
 0x08EEDB6E = ~z~~sl:1.2~So what do we do with her?
 
-0xA9925056 = ~z~we always have...
+0xA9925056 = ~z~ми завжди виживаємо...
 
 0xE2E23EC8 = ~z~~sl:0.0:4.4~We give the camp cook five minutes to grab the essentials and go,~sl:0.5~and ~rp~he doesn't even bring a crumb of food.
 
@@ -498,7 +498,7 @@
 
 0xDFF9456F = ~z~they ain't going nowhere until we get some more thaw.
 
-0x27054D7A = ~z~You need to rest, Charles.
+0x27054D7A = ~z~Тобі треба віддихнути, Чарльз.
 
 0x028710B9 = ~z~~sl:0.4:1.3~Are you crazy?~sl:0.3:1.8~You're lucky it scared that easy.~sl:0.6~Come on, let's get back before it changes its mind.
 
@@ -508,7 +508,7 @@
 
 0x88036B22 = ~z~Who knows, ~rp~maybe she'll deal with the O'Driscoll for us.
 
-0xE49CBF71 = ~z~I imagine.
+0xE49CBF71 = ~z~Як я гадаю.
 
 0x3EE052AA = ~z~~sl:0.4:0.0~Come on, let's get these over to Pearson.
 
@@ -518,17 +518,17 @@
 
 0x489BD46A = ~z~~sl:1.4:1.1~So...~lr:0.8:1.9~you reckon we're gonna find something to kill~sl:~that ain't an O'Driscoll?
 
-0xF5D869F9 = ~z~you're gonna need something to eat out there.
+0xF5D869F9 = ~z~вам ж треба буде щось перекусити.
 
 0x6EA30C9F = ~z~~sl:0.0:3.1~Considering how things were looking a couple of days back,~lr:0.6~maybe our luck is finally on the turn.
 
-0xB13DE1ED = ~z~Come along.
+0xB13DE1ED = ~z~Йдемо.
 
 0x8888AD3F = ~z~So I heard.
 
-0xEB8294CD = ~z~And you unfortunately survived...
+0xEB8294CD = ~z~І ви, на жаль, вижили...
 
-0x5A0BB38A = ~z~I can't stay here listening to you two.
+0x5A0BB38A = ~z~Я не можу тут сидіти й слухати ваші сварки...
 
 0x09E7CD0B = ~z~~sl:0.0:1.0~You're probably right.~lr:0.7~And even if we do get off here, what then?
 
@@ -544,13 +544,13 @@
 
 0xD562F13E = ~z~Just drop it down in here.
 
-0x9DF4391E = ~z~Bill's a fool.
+0x9DF4391E = ~z~А Білл - дурак...
 
 0x2001AA34 = ~z~I still don't really know what happened on that boat.
 
 0xBFDD710D = ~z~~sl:0.0:0.8~Oh yes,~sl:0.7~Dutch is certainly different.
 
-0x6B5C147E = ~z~When I was in the Navy...
+0x6B5C147E = ~z~Коли я служив на флоті...
 
 0xEE9CDBC9 = ~z~Keep following the tracks, Arthur.
 
@@ -604,7 +604,7 @@
 
 0xF1FBE0C1 = ~z~There's deer been here... recently.
 
-0x79152FF0 = ~z~for what, ten, twelve people?
+0x79152FF0 = ~z~а нас скільки, десять, дванадцять чоловік?
 
 0x96E0B878 = ~z~He's got a lot of meat on him.
 
@@ -634,7 +634,7 @@
 
 0x3F5677AF = ~z~~sl:0.0:3.6~And that girl from the ranch now too, but...~sl:1.2~not sure she'll be eating much.
 
-0x44C486C0 = ~z~Well, Lenny's more into book learning than hunting.
+0x44C486C0 = ~z~Але Ленні швидше книжковий черв'як, ніж мисливець.
 
 0xC13078C9 = ~z~~sl:0.7~I knew you'd be okay with that bow.
 
@@ -658,7 +658,7 @@
 
 0xA17C9BC4 = ~z~~sl:0.5:1.1~That didn't kill it,~sl:0.5~you should go finish it off.
 
-0xF2CE5BD4 = ~z~You're never too old to learn...
+0xF2CE5BD4 = ~z~А вчитися ніколи не пізно...
 
 0x44D0622B = ~z~Good that we caught more than one.
 
@@ -712,7 +712,7 @@
 
 0xFB9FA483 = ~z~~sl:0.0:0.8~Me neither...~lr:0.7:2.4~well, Javier told me a bit, but...~sl:0.6~it sure weren't good.
 
-0xDE33BBD8 = ~z~I can't use it and you'll have to.
+0xDE33BBD8 = ~z~Я не можу стріляти, так що трмай його біля себе.
 
 0x7AC76FF6 = ~z~~sl:0.0:0.9~One more.~lr:0.5~We ain't feeding the O'Driscoll a damn thing,
 
@@ -724,11 +724,11 @@
 
 0x471C1211 = ~z~~sl:0.0:3.3~You noticed how ~rp~Pearson's had a bottle in his hand~sl:~ever since we fled Blackwater?
 
-0x72A06277 = ~z~I sent Lenny and Bill hunting and they found nothing.
+0x72A06277 = ~z~Я послав Ленні з Біллом на полювання, але вони повернулися з нічим.
 
 0x75FAB6C9 = ~z~~sl:0.0:0.5~Come on,~sl:0.2~we should really be getting back.
 
-0x7BA6F594 = ~z~Here...
+0x7BA6F594 = ~z~Ось...
 
 0x073B0D05 = ~z~~sl:0.0:0.8~Where are you going?~sl:0.5~Follow the tracks.
 
@@ -748,7 +748,7 @@
 
 0x02B23AE9 = ~z~Go on, Arthur, c'mon, get that knife working.
 
-0xE765CBFC = ~z~and if needs be, we can eat you...
+0xE765CBFC = ~z~якщо буде зовсім туго, з'їмо вас...
 
 0x35C06B04 = ~z~Bring it over, then.
 
@@ -768,7 +768,7 @@
 
 0xEE878E5A = ~z~~sl:0.0:0.5~So...~lr:1.2:2.3~you reckon we're gonna find something to kill~sl:~that ain't an O'Driscoll?
 
-0xC3028576 = ~z~Here, you take this.
+0xC3028576 = ~z~Ось, тримай...
 
 0x70021891 = ~z~I still don't really know what happened on that boat.
 
@@ -806,11 +806,11 @@
 
 0x5A4A8D61 = ~z~~sl:0.0:1.0~You just wounded it,~sl:0.6~better go put it out of its misery.
 
-0x80A4F783 = ~z~Use a gun...
+0x80A4F783 = ~z~Якщо скористаєшся вогнипалом...
 
-0xB09DDF85 = ~z~Enough of this.
+0xB09DDF85 = ~z~Та хватить.
 
-0x4D059852 = ~z~We'll go find something.
+0x4D059852 = ~z~Ми підемо й добудемо що-небудь.
 
 0x8982AB6E = ~z~everyone's got to do their bit to survive.
 
@@ -824,7 +824,7 @@
 
 0xDB1BC726 = ~z~Keep your head down.
 
-0xCB2F5497 = ~z~what you got up to in the Navy, Mr. Pearson.
+0xCB2F5497 = ~z~що там було у вас на флоті, пане Пірсоне.
 
 0x3D4285E3 = ~z~That thing was huge.
 
@@ -832,7 +832,7 @@
 
 0x8CE8D38E = ~z~~sl:0.0:2.1~I did that for a long time.~lr:0.5~I'm done with it.
 
-0x3D86FA81 = ~z~Come on, let's go.
+0x3D86FA81 = ~z~Давай, пішли.
 
 0xC23014CD = ~z~Come on.
 

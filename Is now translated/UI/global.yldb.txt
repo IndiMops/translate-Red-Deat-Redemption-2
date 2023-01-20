@@ -322,7 +322,7 @@
 
 0x3F634031 = Cayuga Капелюх
 
-0x45774647 = Bow
+0x45774647 = Лук
 
 0x59635A33 = Regimental Капелюх
 
@@ -19919,7 +19919,7 @@
 
 0x7A66AB52 = Collectibles Request – Tooth and Nail
 
-0xDB950C81 = Pearson
+0xDB950C81 = Пірсон
 
 0x8139B22A = Poor Skinned Roseate Spoonbill Carcass
 
@@ -20547,7 +20547,7 @@
 
 0x08CC3B5D = Jade Hairpin
 
-0xB548E7DA = Pearson
+0xB548E7DA = Пірсон
 
 0xEE0B209D = Hartman Jacket
 
@@ -21581,7 +21581,7 @@
 
 0xDB221041 = Maggie currently has no Bootlegger Missions available. Check back later.
 
-0x9ECED3EE = Bow
+0x9ECED3EE = Лук
 
 0x36B16BD1 = The Sunderland
 
@@ -23913,7 +23913,7 @@
 
 0x31B26CA9 = Get more of what we~n~already have?
 
-0xF81C3313 = Bow
+0xF81C3313 = Лук
 
 0xFCF737F2 = Color
 
@@ -25125,7 +25125,7 @@
 
 0x9326D0EE = Fuentes Poncho
 
-0x3CFA7AC4 = Bow
+0x3CFA7AC4 = Лук
 
 0x30656E2F = Finley Jacket
 
@@ -26661,7 +26661,7 @@
 
 0xB232F3B1 = Mangy Black Bear
 
-0x337274F2 = Pearson
+0x337274F2 = Пірсон
 
 0x04D14651 = Chumley Flat Cap
 
@@ -35673,7 +35673,7 @@
 
 0x172A6E82 = SOLOMON NEWTON
 
-0xDC4C33A3 = Pearson
+0xDC4C33A3 = Пірсон
 
 0xE5343C8D = Frilly Chemise
 
@@ -44249,7 +44249,7 @@
 
 0xD91245C6 = Shake Head
 
-0xF3C5607B = Bow
+0xF3C5607B = Лук
 
 0x97E4049B = Customizable and reliable, this bow's unique shape requires less stamina when drawn, keeping the hunter active for longer. The very latest in hunting equipment.
 
@@ -50230,7 +50230,7 @@
 
 0x3902B419 = A handful of Throwing Knives, Fire Bottles, Tomahawks and Dynamite.
 
-0xFACE75E8 = The Aftermath of Genesis
+0xFACE75E8 = Початок Буття
 
 0x058880A3 = Upgrade with Offer
 
@@ -66890,7 +66890,7 @@
 
 0x7A151DE0 = Puff Tie
 
-0x121EB5EC = Bow
+0x121EB5EC = Лук
 
 0xA3C94797 = Can be used in the Minty Prime Beef recipe
 
@@ -72534,7 +72534,7 @@
 
 0xBD496EC6 = Can be found in the swamps of Lemoyne. Yields herptile meat. Use a Bow with arrows for a clean kill.
 
-0x4B4BFCC9 = Pearson
+0x4B4BFCC9 = Пірсон
 
 0x13D7C557 = 20th
 
@@ -76964,7 +76964,7 @@
 
 0xCC4588BD = Torch
 
-0x38E6F55F = Arrows
+0x38E6F55F = Стріли
 
 0xFEEDBB65 = Quality suspenders, to be worn casually.
 
@@ -81558,7 +81558,7 @@
 
 0x152CDCE1 = THE GARMENTS IN THIS LINE ARE AS ROBUST AS YOU ARE~n~
 
-0x88A8505C = Bow
+0x88A8505C = Лук
 
 0xD02797DB = Breeds of Horses.~n~An illustration of an American Paint horse.
 
@@ -84711,7 +84711,7 @@
 
 0x1524E4CB = A notable outfit favored by Established Moonshiners.
 
-0x2A2EF9D6 = Bow
+0x2A2EF9D6 = Лук
 
 0x26FFF6A7 = Hartman Jacket
 
