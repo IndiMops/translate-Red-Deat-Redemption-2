@@ -40,7 +40,7 @@
 
 0x7DA8D8B8 = Notes
 
-0x13802D55 = Open
+0x13802D55 = Відкрити
 
 0x859BD949 = Collected ~COLOR_YELLOW~~1~ of ~2~~s~
 
@@ -82,7 +82,7 @@
 
 0x2A240196 = Cooked Gritty Fish
 
-0xEB0408D2 = Materials
+0xEB0408D2 = Матеріали
 
 0xF641EE6D = A collection of Family Heirlooms.
 
@@ -130,7 +130,7 @@
 
 0x37F27270 = Drawings
 
-0x8D40A2B4 = Drink
+0x8D40A2B4 = Випити
 
 0x097EEAB5 = A collection of Cigarette Cards 'Prominent Americans'.
 
@@ -352,7 +352,7 @@
 
 0xBFC37FEE = Postable Items
 
-0xFDD0A576 = Documents
+0xFDD0A576 = Документи
 
 0xF09C8C76 = Cigarette Cards
 
@@ -386,7 +386,7 @@
 
 0x994E8148 = A collection of letters.
 
-0xFA827B50 = Valuables
+0xFA827B50 = Цінності
 
 0xF8F6D31A = Horse Items
 
@@ -452,7 +452,7 @@
 
 0x80B1B153 = A collection of Tarot Cards.
 
-0x08674163 = Discard All
+0x08674163 = Викинути все
 
 0x01491DB1 = Collector's Bracelets
 
@@ -498,7 +498,7 @@
 
 0x0DD361D3 = A collection of miscellaneous items.
 
-0x7A0D8994 = Kit
+0x7A0D8994 = Спорядження
 
 0xDCC8A3E9 = Collected ~1~ of ~2~
 
@@ -516,15 +516,15 @@
 
 0xAD2CBD1B = HAIRCUT
 
-0x855B3FAE = Tonics
+0x855B3FAE = Тоніки
 
 0x8F246ADF = A collection of treasure maps.
 
-0x3268E974 = Ingredients
+0x3268E974 = Компоненти
 
 0x176ABFC5 = Stores all types of tonics from shop bought to crafted versions.
 
-0x504364F1 = Recent
+0x504364F1 = Недавні
 
 0x381B1443 = Are you sure?
 

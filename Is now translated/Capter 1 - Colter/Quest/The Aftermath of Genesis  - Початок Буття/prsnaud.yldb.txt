@@ -1,0 +1,854 @@
+0x0D77C2C9 = ~z~Let me have a look at her... come on, Arthur.
+
+0x73F28BF2 = ~z~You sure your hand's okay?
+
+0x04093AC0 = ~z~How are you holding up, Charles?
+
+0x97E546CF = ~z~~sl:0.0:2.0~Twenty years? Something like that.~sl:0.7~Since I was a boy.
+
+0x1150A29E = ~z~~sl:0.0:0.6~Me?
+
+0xA8BAD78C = ~z~Let's keep moving
+
+0xA96470C9 = ~z~~sl:0.0:1.7~You can pull back quite hard,~sl:0.4~you'll feel when it's too much.
+
+0xD6128976 = ~z~~sl:0.0:1.4~This is a big country...~lr:0.7:1.9~we'll find somewhere to lie low.~lr:0.6~Dutch and Hosea will have a plan.
+
+0xAFC99DCC = ~z~for fifty days.
+
+0x1E72CD59 = ~z~I'll be fine in a few days.
+
+0x901E2C91 = ~z~~sl:0.0:1.5~That ride north from Blackwater,~lr:0.6:1.7~getting stuck in this storm,~lr:0.2~bringing John back in...
+
+0x07C25314 = ~z~~sl:0.0:1.7:1~We're gonna starve to death up here, Mr. Morgan.
+
+0xE3D9447C = ~z~How can you tell?
+
+0xB6B27377 = ~z~What are you waiting for?
+
+0xCDBB11E2 = ~z~~sl:0.9~We've seen enough of that.
+
+0x05A29C2F = ~z~Crouch down a bit.
+
+0x781E08A5 = ~z~Yeah well, we're on the run now...
+
+0xEC17CE9B = ~z~~sl:0.0:1.7~Seems to me we should be putting our effort~sl:~into getting off this mountain now.
+
+0xAF0CD884 = ~z~~sl:0.0:3.1~You noticed how ~rp~Pearson's had a bottle in his hand~sl:~ever since we fled Blackwater?
+
+0xD27007CE = ~z~~sl:0.0:1.7~Seems to me we should be putting our effort~sl:~into getting off this mountain now.
+
+0xFCA78DFA = ~z~Are you going to put that on your horse?
+
+0x27CE7F4A = ~z~How can you not?
+
+0x1276221C = ~z~I wasn't able to get supplies in.
+
+0xA34E8059 = ~z~~sl:1.0~I reckon you're okay...
+
+0xCFF1B050 = ~z~This really isn't a job for a man with a burnt hand.
+
+0x7673E3E8 = ~z~~sl:0.0:1.0~You're probably right.~lr:0.7~And even if we do get off here, what then?
+
+0x5A1E7E22 = ~z~You see the tracks?
+
+0xD648F95C = ~z~you bring it to me.
+
+0x0445A3B7 = ~z~~sl:0.0:1.0~Well,~lr:0.9~we've been scrapping over scores with them for years.
+
+0xBF8C1B45 = ~z~~sl:0.0:0.5~Yeah...~sl:0.5~I've heard a lot of talk about them...
+
+0x7A64011D = ~z~~sl:0.0:1.6~You've had a lot put on you.~lr:0.4~I wish I could have done more.
+
+0x95B61CBF = ~z~I still wonder that most nights.
+
+0x9DE33A10 = ~z~ain't no wonder they found...
+
+0x82EA20FA = ~z~~sl:0.0:1.1~You ain't dealt with them?~lr:0.9:4.0:1~I suppose we ain't run into them much the last six months,
+
+0x725ADAEF = ~z~and we'll scare off every animal for miles around.
+
+0x0B3C1E2F = ~z~Let's look down this way.
+
+0x84CDE35A = ~z~~sl:0.0:0.7~Watch out!~sl:0.8:0.9~Bear up ahead.~sl:0.9~Let's see if we can find another way around.
+
+0x9C391F67 = ~z~~sl:0.0:1.0~We'll head up this way.~lr:0.3~Find some higher ground.
+
+0x91FBFB1D = ~z~Just thought you might have moved on by now.
+
+0x723055B4 = ~z~~sl:0.0:1.9~I did that for a long time.~lr:0.7~I'm done with it.
+
+0xBDE52E75 = ~z~I sure hope I can. I never really got the hang of it.
+
+0x10E52012 = ~z~Starving would be preferable.
+
+0xC93F2EC1 = ~z~~sl:0.0:1.5:1~Well, well, well...
+
+0x2A886163 = ~z~~sl:2.0:2.2~Been a wild few days alright.
+
+0x67F5DE60 = ~z~Ready to head back when you are...
+
+0xB216D580 = ~z~~sl:0.0:0.8~This suits me.~sl:0.7:3.0~Sure, ~rp~I could fall in with another gang, but Dutch...~lr:0.8:0.7~you know...~sl:1.4~Dutch is different.
+
+0xA30C2B4C = ~z~We'll still have a big price on our heads.
+
+0x96F84A34 = ~z~
+
+0x3339CE2E = ~z~~sl:0.0:2.0~Aim for the head or neck...~sl:0.2~We want a good, clean kill.
+
+0x43860174 = ~z~~sl:0.0:4.4~We give the camp cook five minutes to grab the essentials and go,~sl:0.5~and ~rp~he doesn't even bring a crumb of food.
+
+0xCF0AF0E1 = ~z~~sl:0.0:1.0~Quiet as you can.~sl:0.4~Stay low and move slowly.
+
+0x8EC36F77 = ~z~It's easier when they ain't shooting back.
+
+0xDF3FE6CA = ~z~~sl:0.0:3.5~Their leader, ~rp~Colm, and Dutch go way back,~sl:0.5:1.4~and not in a good way.~lr:0.6~A proper blood feud.
+
+0x7F206130 = ~z~~sl:0.9~We've seen enough of that.
+
+0x74646AA5 = ~z~~sl:0.0:0.5~Hurry up,~sl:0.5~she's in pain.
+
+0x84312C6F = ~z~~sl:0.0:0.5~Okay,~sl:0.3:1.0~you pick up one,~sl:~I'll get the other.
+
+0xB7138C2F = ~z~~sl:0.0:2.4~Get good tension on the string before releasing.~sl:0.2~Just, don't overdo it.
+
+0xAE4837AB = ~z~Maybe we can get to them before they get to us.
+
+0x8C1C12E5 = ~z~~sl:0.9~The wind's died down too.
+
+0x436CFD44 = ~z~~sl:0.0:3.4~Considering how things were looking a couple of days back,~lr:1.0~maybe our luck is finally on the turn.
+
+0xFA3C88C5 = ~z~See you got on just fine.
+
+0x262F6BF9 = ~z~~sl:0.5~Done.
+
+0x11B4BE4D = ~z~~sl:1.3:2.4~I know who my money's on in that fight.~lr:0.7~He's weak, but that makes him much more useful.
+
+0xABF3EC31 = ~z~Keeps you sane it does.
+
+0x5099B849 = ~z~~sl:0.0:0.5~Me?
+
+0x85F388ED = ~z~~sl:0.0:0.5~Hey,~sl:0.0:1.3~stop here a second.~sl:0.4~I see something.
+
+0x53F64A51 = ~z~How's that new horse?
+
+0x5E99D439 = ~z~~sl:0.0:1.2~Dutch saved me,~sl:0.7~saved most of us.
+
+0x9A2FED99 = ~z~~sl:0.0:1.9~This is a big country...~lr:0.3:2.0~we'll find somewhere to lie low.~lr:0.8~Dutch and Hosea will have a plan.
+
+0x778C1C5A = ~z~~sl:0.0:2.2~I didn't mean it like that...~lr:1.0~just a lot to think back on.
+
+0xE35B3CD4 = ~z~~sl:0.0:0.5~Sure...~sl:0.2~I just need to finish up here.
+
+0x000903EC = ~z~~sl:0.0:2.3~except maybe that can of salted offal~sl:~Pearson was kind enough to give us.
+
+0xE50450AB = ~z~She has a wild look in her eye.
+
+0xA42D6488 = ~z~A big gang, nasty sons of bitches.
+
+0xFAB8A699 = ~z~A gun will scare everything around.
+
+0x8212425E = ~z~We were stranded at sea...
+
+0xDAA6B3F5 = ~z~Same with Bill and Brown Jack.
+
+0xFD1992A3 = ~z~~sl:0.0:0.7~Yeah...~sl:0.9~last thing we was expecting.
+
+0x6BA99A85 = ~z~~sl:0.0:1.4~Now the weather's eased off a bit,~sl:~they'll be needing to feed.
+
+0xF3136E31 = ~z~See some of the ground uncovered here.
+
+0xF48F6E2F = ~z~It's easier when they ain't shooting back.
+
+0x4C5C582A = ~z~Come on, Arthur.
+
+0x2B36AB57 = ~z~I only showed you a little. Takes a lifetime of practice to master.
+
+0x54535E2E = ~z~Hurry up, I want to get this meat in the pot.
+
+0xC155B207 = ~z~~sl:0.0:1.8~Seems to me we should be putting our effort~sl:~into getting off this mountain now.
+
+0x2A736991 = ~z~~sl:0.0:0.6~What are you doing?~sl:0.6~Let's get out of here.
+
+0xF1C040D1 = ~z~~sl:0.5:1.2~You're probably right.~lr:0.8:2.3~And, even if we do get off here...~sl:0.2~what then?
+
+0xE0C47B44 = ~z~~sl:0.0:1.2~Oh yes,~sl:0.8~Dutch is certainly different.
+
+0x23127FE3 = ~z~~sl:0.0:0.5~Well,~lr:1.3:1.3~we need you now,~sl:0.4~more than ever.
+
+0xBD6D3913 = ~z~I-I do not wish to hear about...
+
+0x2A3A68C0 = ~z~Well, see you gents later.
+
+0x2D8096C5 = ~z~~sl:0.0:1.1~Focus, Arthur.~sl:0.2~We need this meat.
+
+0xF9276F7F = ~z~you're the fattest.
+
+0x7359FAFE = ~z~you earned it.
+
+0x5365B813 = ~z~Come on, grab that bow off the horse.
+
+0x1D38F839 = ~z~When we ran away from Blackwater...
+
+0xDF2460E3 = ~z~She's a strong one.~rp~ It's been as hard on the horses as on the rest of us.
+
+0x5C56D4C5 = ~z~What?
+
+0x92FFD341 = ~z~~sl:0.0:1.9~That ride north from Blackwater,~lr:0.5:2.0~getting stuck in this storm,~sl:0.6:1.4~going out for John,~lr:~that thing with the O'Driscolls.
+
+0xA955FFED = ~z~~sl:0.0:1.6~You've had a lot put on you.~lr:0.5~I wish I could have done more.
+
+0x8A1C44A5 = ~z~Get him!
+
+0xF5267ABD = ~z~It's easier if we do it together.
+
+0x0E44A063 = ~z~~sl:0.0:1.3~One more.~lr:0.4~We ain't feeding the O'Driscoll a damn thing,
+
+0xE32ACB66 = ~z~~sl:0.0:1.2~Nice work, Arthur.~lr:0.1~Should be enough meat here to keep us all fed for a few days.
+
+0x3DD8F8E1 = ~z~sometimes shopping trips need to be cut short.
+
+0x737AE540 = ~z~Unless those mountains are full of game that wanna read...
+
+0xF905862D = ~z~He loves me really...
+
+0x8BBF0E9F = ~z~I'm going to hitch Taima over here.
+
+0x909BEC0B = ~z~Are you grabbing one of them or not?
+
+0xC8CE2529 = ~z~Twenty years?
+
+0xACA771B7 = ~z~it's been a tough few days.
+
+0xC4981D57 = ~z~I do my utmost to avoid you.
+
+0x646F2004 = ~z~~sl:0.0:0.5~No,~sl:0.6:0.9~not at all.~lr:1.0~I just know you could run it alone, no problem.
+
+0x9E3F1287 = ~z~You should really tether that horse, Arthur.
+
+0x040C06BF = ~z~~sl:0.0:2.1~I tried to ride the Count once...~sl:1.5:2.2~bucked me faster than a bull.~sl:~Won't take nobody but him.
+
+0xD80B6073 = ~z~Are you keeping that one for yourself, huh?
+
+0x28648A87 = ~z~~sl:1.1:~I still wonder that most nights.
+
+0x186A8C73 = ~z~~sl:0.0:0.6~Cut up here,~sl:0.2~off the trail.
+
+0x8AA5B162 = ~z~Bet you didn't expect this.
+
+0x305A0647 = ~z~~sl:0.0:1.3~Stop running.~sl:0.4~You're making too much noise.
+
+0x1E07A3CA = ~z~~sl:0.0:1.7~Try to hit them in the neck or head.~sl:0.5~Quick and clean.
+
+0x24810644 = ~z~Quick, get that bow out, Arthur.
+
+0xB5031675 = ~z~~sl:0.0:3.1~Considering how things were looking a couple of days back,~lr:0.6~maybe our luck is finally on the turn.
+
+0x56D970E5 = ~z~~sl:0.0:1.5~It will be fine in a day or two.~lr:0.4~I just can't pull a bow right now.
+
+0x1C230FAB = ~z~~sl:0.0:1.9~That ride north from Blackwater,~lr:0.3:1.9~getting stuck in this storm,~sl:0.0:1.4~going out for John,~lr:0.1~that thing with the O'Driscolls.
+
+0x1F3A5DDD = ~z~Let's walk it from here.
+
+0x75200643 = ~z~You want me to move on?
+
+0xF09B5BE2 = ~z~~sl:0.0:2.5~No wind at all is bad, but if it's too strong,~sl:0.2~they won't move.
+
+0x8FA9212E = ~z~Don't leave her like that.
+
+0x46C5A1DA = ~z~it's the only thing...
+
+0x188C3BD1 = ~z~We've got enough here, no need to push our luck.
+
+0xD41B5792 = ~z~~sl:0.0:0.8~Soon.~lr:0.7:1.7~People are still weak,~sl:0.3~and you've seen how snowed in those wagons are...
+
+0x32E5B44C = ~z~~sl:0.0:2.5~No, no, not at all, I just...~lr:0.7~I know you could run it alone, no problem.
+
+0x1C05E876 = ~z~Look out!
+
+0x4F489E04 = ~z~You can't go hunting. Look at your hand.
+
+0xC7CA8CC6 = ~z~We'll survive...
+
+0xC460B602 = ~z~~sl:2.3~Been a wild few days alright.
+
+0xC7359AC3 = ~z~~sl:0.0:0.8~Me neither...~lr:1.4:2.5~well, Javier told me a bit, but...~sl:0.5~it sure weren't good.
+
+0x8FEFDDA5 = ~z~We have a few cans of food and a rabbit...
+
+0xAD582446 = ~z~~sl:0.0:3.3~Once we get out of here, and we're back on our feet, we'll see.~lr:0.6~She might have family somewhere.
+
+0x314261F4 = ~z~You think this is rest?
+
+0x50A41676 = ~z~Arthur, stay back.
+
+0x717A1CB1 = ~z~~sl:0.0:1.1~He treats me fair.~sl:0.6~Most of you do.
+
+0x3EE4E6AF = ~z~Come on, you're making yourself too obvious.
+
+0x07220C8C = ~z~"Assorted, salted offal."
+
+0x927D9BE2 = ~z~~sl:0.0:3.6:1~He's a drunk, miserable bastard but he loves that horse.
+
+0xF2296064 = ~z~~sl:0.0:1.3~You ain't dealt with them?~lr:2.1~I suppose we ain't run into them much the last six months,
+
+0x871C9E46 = ~z~~sl:0.0:0.5~Shh.~sl:0.5:0.9~Down there,~sl:0.5~you see them?
+
+0xAB7739DD = ~z~~sl:0.0:1.5~Hoped you'd use the bow, but...~lr:0.4~you're a good shot.
+
+0xADCA9555 = ~z~~sl:0.0:0.6~Good...~sl:0.8:2.0~and ~rp~how long have you been with these boys?~lr:0.3~Why ain't you run off?
+
+0xBE2EDCCB = ~z~~sl:0.0:0.8~Good shot.~sl:0.7~Now, let's try for another.
+
+0xFA15739B = ~z~Look, if there's game in those hills I'll find it...
+
+0x4C06F326 = ~z~I guess because they've been over this way.
+
+0x0D72CC8D = ~z~~sl:0.0:0.6~Come on then,~sl:0.3~let's head back.
+
+0x785C2011 = ~z~~sl:0.0:1.4~Hoped you'd use the bow, but...~lr:0.8~you're a good shot.
+
+0xB879C58D = ~z~~sl:2.3~Been a wild few days alright.
+
+0x31F02D74 = ~z~~sl:0.0:1.4~Good that we caught more than one.~lr:0.4~A lot of mouths to feed.
+
+0x71FC2476 = ~z~~sl:0.0:0.6~Alright,~sl:0.6~let's head out.
+
+0x038DD3FE = ~z~I'm serious, this is bad.
+
+0xA9A5CF5E = ~z~~sl:0.0:0.5~Well,~lr:0.6~we've been scrapping over scores with them for years.
+
+0x0CF2CB0D = ~z~You're going to need the bow, don't leave it on your horse.
+
+0x22376E9D = ~z~I'll see you both later.
+
+0xCFBB7408 = ~z~~sl:0.0:0.8~Me neither...~lr:0.7:2.4~well, Javier told me a bit, but...~sl:0.6~it sure weren't good.
+
+0xE81FC77E = ~z~~sl:0.0:1.9~This is a big country...~lr:0.3:2.0~we'll find somewhere to lie low.~lr:0.8~Dutch and Hosea will have a plan.
+
+0x43349ED3 = ~z~Just make a good stew, folk need it...
+
+0x1BD1518C = ~z~We're okay...
+
+0x160B8378 = ~z~~sl:0.0:2.3~I didn't mean it like that, just...~lr:0.5~a lot to think back on.
+
+0xD5287738 = ~z~Is everything okay?
+
+0xD8A63523 = ~z~~sl:0.0:0.6~The girl,~sl:0.4~she has a wild look in her eye.
+
+0xF40066A8 = ~z~~sl:0.9:0.0~I hope they all make it.
+
+0x391A35C3 = ~z~
+
+0x17CFCF3A = ~z~Okay, that'll do it. I think that's all we can carry.
+
+0x5F9AFFB4 = ~z~~sl:0.0:0.6~Come on,~sl:0.3~this way.
+
+0xE64F38E2 = ~z~~sl:0.0:2.0~The horses won't be able to carry any more...~sl:0.6~leave the others.
+
+0xC33281C9 = ~z~Got it.
+
+0x73D373FC = ~z~~sl:0.0:2.3~I didn't mean it like that, just...~lr:0.5~a lot to think back on.
+
+0x329880CE = ~z~It's easier in the snow but, once you get your eye in, you'll be able to track nearly as well in grass and woods.
+
+0x41089359 = ~z~Well... there's no point setting off without that bow.
+
+0x6C480500 = ~z~I knew you'd be okay with that bow.
+
+0xB4EABE6F = ~z~~sl:0.0:2.2~I didn't mean it like that...~lr:1.0~just a lot to think back on.
+
+0x2E421C62 = ~z~Now, let's try for another.
+
+0x816FCFAF = ~z~You know you could trade these or sell these in pretty much any town...
+
+0xE45D41BE = ~z~~sl:0.0:1.6~Good that we caught more than one.~lr:0.3~A lot of mouths to feed.
+
+0xB5386915 = ~z~~sl:0.0:2.9~He's alright,~rp~ he'll do for now.~sl:0.8~~rp~Appreciate you letting me take Taima the other night.
+
+0x5C206089 = ~z~~sl:0.0:1.3~You ain't dealt with them?~lr:2.1~I suppose we ain't run into them much the last six months,
+
+0x6FA2AF4D = ~z~Come on, let's get that meat in the pot.
+
+0xD7DB12A4 = ~z~~sl:0.0:0.7~Soon.~lr:0.8:1.7~People are still weak and~sl:~you've seen how snowed in those wagons are...
+
+0xB12F30E1 = ~z~~sl:0.9:2.2~Sooner or later a job's going to go wrong.~sl:0.5~Nature of life.
+
+0x8FE924E4 = ~z~You found 'em.
+
+0x50133890 = ~z~it's been a tough few days.
+
+0x5F343CAF = ~z~Come on, Arthur.
+
+0x6D343CD1 = ~z~~sl:0.0:1.3~That's a bad idea...~sl:0.3~have you seen the size of it?
+
+0x3E4957AB = ~z~~sl:0.0:0.5~Yeah...~sl:0.5~I've heard a lot of talk about them...
+
+0x31C1B069 = ~z~What is it, Arthur?
+
+0x7F9D9363 = ~z~What a surprise...
+
+0x3B914E5D = ~z~~sl:0.0:1.0~Any of this.~lr:0.5:1.9~The Blackwater mess,~sl:~being up here.
+
+0x0E689308 = ~z~Oh, you're joking...
+
+0x1918284D = ~z~Ready to head back when you are...
+
+0xB94F6985 = ~z~Yeah... same with Bill and Brown Jack.
+
+0x56BD8897 = ~z~She might have family somewhere.
+
+0x8F4B670A = ~z~So I heard.
+
+0x69615109 = ~z~Wait a second, hold on.
+
+0xB2AB1F3C = ~z~We could have got them another day.
+
+0xBAC6059C = ~z~~sl:0.0:0.6~Wait, look...~sl:0.9~there they are.
+
+0x752B17E9 = ~z~~sl:0.0:0.9~What are you doing?~sl:~Bring the deer over.
+
+0x5DA0CF62 = ~z~No it isn't.
+
+0x7D4212F2 = ~z~~sl:0.0:3.2~Their leader, ~rp~Colm, and Dutch go way back,~sl:0.4:1.4~and not in a good way.~lr:0.5~A proper blood feud.
+
+0x765E8A7B = ~z~Yeah, just thinking.
+
+0xE543DE14 = ~z~~sl:0.8~I'm sure.
+
+0x2B9DD46B = ~z~Well when government agents are hunting you down...
+
+0xF91EE393 = ~z~~sl:0.0:0.6~Good...~sl:1.3:1.8~and ~rp~how long have you been with these boys?~lr:0.4~Why ain't you run off?
+
+0xC192D1A8 = ~z~~sl:0.0:2.2~We ain't ever talked that much, you and me.~lr:1.0:1.7~How long have you been with us now?~lr:0.4~Five, six months?
+
+0x3F489AC8 = ~z~What is it with the O'Driscolls?
+
+0xE9F86C60 = ~z~Heck, Arthur Morgan's first decent bit of hunting, after all these years.
+
+0xAA2E2650 = ~z~You found 'em.
+
+0x5E1645C7 = ~z~Well, it's dead now.
+
+0xF3418ED9 = ~z~~sl:0.0:0.5~Well,~lr:0.6~we've been scrapping over scores with them for years.
+
+0x19FE2CFF = ~z~So what do we do with her?
+
+0x632A5AA3 = ~z~Jesus, what is that?
+
+0xA40F94EA = ~z~Yeah, well if you catch anything else...
+
+0x759BF214 = ~z~~sl:0.0:3.3~You noticed how ~rp~Pearson's had a bottle in his hand~sl:~ever since we fled Blackwater?
+
+0xA43B3F5D = ~z~~sl:1.4:0.0~I hope they all make it.
+
+0xA9BE790E = ~z~~sl:0.0:0.5~Hey.~sl:0.4~I said slow and quiet, Arthur.
+
+0xE6D7DE20 = ~z~You mind helping me with the skinning, Mr. Morgan?
+
+0xE3883866 = ~z~~sl:0.0:2.5~And for a feller with a black father and an Indian mother,~lr:0.5~that ain't normally the case.
+
+0xC3E583DD = ~z~~sl:1.7:2.7~I know who my money's on in that fight.~lr:0.6~He's weak, but that makes him much more useful.
+
+0xA8770399 = ~z~You'll be fine.
+
+0xA33AF58E = ~z~~sl:0.0:1.9~No, use the bow I gave you...~sl:0.4~that'll make too much noise.
+
+0xB465ACA2 = ~z~~sl:0.0:3.5~Their leader, ~rp~Colm, and Dutch go way back,~sl:0.5:1.4~and not in a good way.~lr:0.6~A proper blood feud.
+
+0x94C6E374 = ~z~~sl:0.0:1.0~That's a waste...~sl:0.2~they're just going to rot.
+
+0x091CA2AD = ~z~You go rest that hand, Charles.
+
+0x643DC17D = ~z~~sl:0.0:3.5~Once we get out of here, and we're back on our feet, we'll see.~lr:0.7~She might have family somewhere.
+
+0x88E46930 = ~z~~sl:2.0:2.2~Been a wild few days alright.
+
+0x0BBC16E8 = ~z~and you can kill it.
+
+0x04DE9BB5 = ~z~We'll still have a big price on our heads.
+
+0xD04ECD0C = ~z~~sl:0.0:0.8~Soon.~lr:0.7:1.7~People are still weak,~sl:0.3~and you've seen how snowed in those wagons are...
+
+0x21617053 = ~z~What about the deer?
+
+0x798A8F2C = ~z~Something like that.
+
+0x3F48A78A = ~z~~sl:0.0:1.0~Don't use your gun...~sl:0.5~you'll scare them all off.
+
+0xFE4E2DE7 = ~z~~sl:0.8:1.9~There's meat up here for sure.~lr:0.1~Pearson doesn't know what he's talking about.
+
+0xE76C402E = ~z~~sl:0.0:0.5~Well,~lr:1.4:1.2~we need you now,~sl:0.8~more than ever.
+
+0x08EEDB6E = ~z~~sl:1.2~So what do we do with her?
+
+0xA9925056 = ~z~we always have...
+
+0xE2E23EC8 = ~z~~sl:0.0:4.4~We give the camp cook five minutes to grab the essentials and go,~sl:0.5~and ~rp~he doesn't even bring a crumb of food.
+
+0xF3A07B67 = ~z~to find the camp rat loitering around in the kitchen.
+
+0x825E4F90 = ~z~~sl:0.0:0.6~Your kill...~sl:0.5~you pick which one you want to carry.
+
+0xD23DF915 = ~z~~sl:0.0:1.9~That ride north from Blackwater,~lr:0.3:2.0~getting stuck in this storm,~lr:0.5~bringing John back in...
+
+0x1752E018 = ~z~~sl:0.0:2.1~I'm okay, apart from this hand.~lr:0.6~Stupid mistake.
+
+0x43085D33 = ~z~~sl:0.0:2.6~We ain't ever talked that much, you and me.~lr:0.8:1.9~How long have you been with us now?~lr:0.5~Five, six months?
+
+0xDFF9456F = ~z~they ain't going nowhere until we get some more thaw.
+
+0x27054D7A = ~z~You need to rest, Charles.
+
+0x028710B9 = ~z~~sl:0.4:1.3~Are you crazy?~sl:0.3:1.8~You're lucky it scared that easy.~sl:0.6~Come on, let's get back before it changes its mind.
+
+0x0BD1ABC5 = ~z~Now shoot, get lost.
+
+0xC04710FF = ~z~Do I get to skin you?
+
+0x88036B22 = ~z~Who knows, ~rp~maybe she'll deal with the O'Driscoll for us.
+
+0xE49CBF71 = ~z~I imagine.
+
+0x3EE052AA = ~z~~sl:0.4:0.0~Come on, let's get these over to Pearson.
+
+0x7C078F14 = ~z~~sl:0.0:0.8~Yeah,~sl:0.9:1.4~he taught me to read,~sl:0.6:1.0~John too.~lr:0.6:3.1:1~Taught me a few other things. Him and Hosea.
+
+0xDFB3B5D3 = ~z~~sl:0.0:0.7~Soon.~lr:0.8:1.7~People are still weak and~sl:~you've seen how snowed in those wagons are...
+
+0x489BD46A = ~z~~sl:1.4:1.1~So...~lr:0.8:1.9~you reckon we're gonna find something to kill~sl:~that ain't an O'Driscoll?
+
+0xF5D869F9 = ~z~you're gonna need something to eat out there.
+
+0x6EA30C9F = ~z~~sl:0.0:3.1~Considering how things were looking a couple of days back,~lr:0.6~maybe our luck is finally on the turn.
+
+0xB13DE1ED = ~z~Come along.
+
+0x8888AD3F = ~z~So I heard.
+
+0xEB8294CD = ~z~And you unfortunately survived...
+
+0x5A0BB38A = ~z~I can't stay here listening to you two.
+
+0x09E7CD0B = ~z~~sl:0.0:1.0~You're probably right.~lr:0.7~And even if we do get off here, what then?
+
+0x69E19C37 = ~z~A big gang, nasty sons of bitches.
+
+0x05EDA086 = ~z~~sl:0.0:0.5~Come on.~sl:0.2~Stow that deer on and let's go.
+
+0x9F863D12 = ~z~Now, Arthur.
+
+0x6560A5DD = ~z~Once we get out of here, and we're back on our feet, we'll see.
+
+0x43125D85 = ~z~~sl:0.0:0.8~Me neither...~lr:1.4:2.5~well, Javier told me a bit, but...~sl:0.5~it sure weren't good.
+
+0xD562F13E = ~z~Just drop it down in here.
+
+0x9DF4391E = ~z~Bill's a fool.
+
+0x2001AA34 = ~z~I still don't really know what happened on that boat.
+
+0xBFDD710D = ~z~~sl:0.0:0.8~Oh yes,~sl:0.7~Dutch is certainly different.
+
+0x6B5C147E = ~z~When I was in the Navy...
+
+0xEE9CDBC9 = ~z~Keep following the tracks, Arthur.
+
+0xF8723DB2 = ~z~Thank you, Mr. Morgan.
+
+0x6D6871D6 = ~z~~sl:0.0:2.7~That's why we need to stick by him through this.~lr:0.9~He always sees us right.
+
+0x9FBF1A99 = ~z~What is it with the O'Driscolls?
+
+0xBE7C73E3 = ~z~~sl:0.0:2.6~He's alright,~rp~ he'll do for now.~sl:0.8~~rp~Appreciate you letting me take Taima the other night.
+
+0xC42CB4C8 = ~z~We've seen enough of that.
+
+0xC41E7D6B = ~z~~sl:0.5:1.2~You're probably right.~lr:0.8:2.3~And, even if we do get off here...~sl:0.2~what then?
+
+0xD5CA9CEB = ~z~~sl:0.0:1.0~He treats me fair.~sl:0.7~Most of you do.
+
+0x90E36E92 = ~z~if you're looking to make a legitimate bit of money of course.
+
+0x648F66DD = ~z~Hey Arthur, you awake back there?
+
+0x1F22157F = ~z~~sl:0.7:2.5~Sooner or later a job's going to go wrong.~sl:0.5~Nature of life.
+
+0x043ED05D = ~z~~sl:0.0:0.5~Okay,~sl:~I'll go grab the other one.
+
+0x7CB65C5C = ~z~~sl:0.0:3.3~Considering how things were looking a couple of days back,~lr:1.1~maybe our luck is finally on the turn.
+
+0x8C04C027 = ~z~What are you doing?
+
+0xDF3587FC = ~z~~sl:0.0:1.0~You would too.~lr:0.8:2.3~She lost her husband, her home,~sl:0.4~everything she had.
+
+0xE87D61E9 = ~z~Try to stay low.
+
+0x0656D690 = ~z~I think so...maybe not.
+
+0x105FDA7E = ~z~~sl:0.0:2.6~And for a feller with a black father and an Indian mother,~lr:0.3~that ain't normally the case.
+
+0xEFEFD6C9 = ~z~~sl:0.0:2.1~I tried to ride the Count once...~sl:0.6:2.3~bucked me faster than a bull.~sl:0.5~Won't take nobody but him.
+
+0x00AC29A2 = ~z~~sl:0.0:1.1~Yeah...~sl:1.0~last thing we was expecting.
+
+0x53323310 = ~z~Spring storms like this are the worst for animals that sleep all winter.
+
+0x4051536C = ~z~~sl:0.0:0.6~Keep down.~sl:0.4~Move quietly and slowly.
+
+0xCAC0C6CD = ~z~~sl:0.0:1.5~Now the weather's eased off a bit,~sl:0.1~they'll be needing to feed.
+
+0xFF207E3E = ~z~~sl:1.5:1.8~Twenty years, something like that.~sl:0.9~Since I was a boy.
+
+0x1C29C4C4 = ~z~Keep low.
+
+0xF1FBE0C1 = ~z~There's deer been here... recently.
+
+0x79152FF0 = ~z~for what, ten, twelve people?
+
+0x96E0B878 = ~z~He's got a lot of meat on him.
+
+0xF8AF7AFB = ~z~Okay, that'll do. I think that's all we can carry.
+
+0xBEC9103F = ~z~Always wondering if someone's going to kill you in your sleep.
+
+0x5BEF73A2 = ~z~~sl:0.0:0.7~That's okay...~sl:0.9~try again.
+
+0xF8A0BB24 = ~z~Focus.
+
+0xDCA13940 = ~z~~sl:0.0:0.9~Yeah,~sl:1.4:1.6~he taught me to read.~sl:1.0:1.6~John, too.~lr:~Taught me a few other things, him and Hosea.
+
+0x54A021A2 = ~z~
+
+0xB6857321 = ~z~Keep going.
+
+0x8C66548F = ~z~~sl:0.6:0.9~Unlucky...~sl:0.9~take your time.
+
+0x0FFB7602 = ~z~~sl:0.0:0.8~Hitch next to mine,~sl:0.2~we don't want him running off.
+
+0xB6F4EDE8 = ~z~~sl:0.0:1.4~Dutch saved me,~sl:0.8~saved most of us.
+
+0x034C49CC = ~z~~sl:0.0:2.0~I'm okay, apart from this hand.~lr:0.5~Stupid mistake.
+
+0x714DE0A2 = ~z~~sl:0.0:0.5~Quick,~sl:0.1~before they move.
+
+0x3F5677AF = ~z~~sl:0.0:3.6~And that girl from the ranch now too, but...~sl:1.2~not sure she'll be eating much.
+
+0x44C486C0 = ~z~Well, Lenny's more into book learning than hunting.
+
+0xC13078C9 = ~z~~sl:0.7~I knew you'd be okay with that bow.
+
+0xB1CE3067 = ~z~Right now I'm just looking to get off this mountain alive.
+
+0xD168B342 = ~z~You're always one with the jokes aren't you?
+
+0x9BF14C2C = ~z~the only thing.
+
+0xC6435951 = ~z~Sure.
+
+0xCCF882DC = ~z~Careful, this might be our only chance for a good meal.
+
+0xA2FB947A = ~z~~sl:0.2~Just thought you might have moved on by now.
+
+0xE3C35BAD = ~z~Is that any way to greet an old friend?
+
+0xAB805506 = ~z~Take the shot.
+
+0xDFB16BD1 = ~z~~sl:0.0:1.8~Seems to me we should be putting our effort~sl:~into getting off this mountain now.
+
+0xA17C9BC4 = ~z~~sl:0.5:1.1~That didn't kill it,~sl:0.5~you should go finish it off.
+
+0xF2CE5BD4 = ~z~You're never too old to learn...
+
+0x44D0622B = ~z~Good that we caught more than one.
+
+0x258657B5 = ~z~He must be real hungry, stay well back.
+
+0xA36FB832 = ~z~~sl:0.8~I reckon you're okay...
+
+0x704BAF1B = ~z~~sl:0.0:1.2~Any of this.~lr:1.0:1.5~The Blackwater mess,~sl:0.9~being up here.
+
+0x9A218CCC = ~z~So what do we do with her?
+
+0x9704C677 = ~z~~sl:0.0:1.1~You ain't dealt with them?~lr:0.9:4.0:1~I suppose we ain't run into them much the last six months,
+
+0x1402C409 = ~z~~sl:0.0:3.2~Their leader, ~rp~Colm, and Dutch go way back,~sl:0.4:1.4~and not in a good way.~lr:0.5~A proper blood feud.
+
+0x1C170D18 = ~z~Oh and, thank you, for showing me how to use the bow properly.
+
+0x85D293B1 = ~z~~sl:0.0:1.6~There's some patches of grass here,~sl:0.8~this is good.
+
+0xD2CE0609 = ~z~~sl:0.0:0.7~Nice.~sl:0.6~See if you can get another one.
+
+0x98C3A6B6 = ~z~~sl:0.0:1.4~This is a big country...~lr:0.7:1.9~we'll find somewhere to lie low.~lr:0.6~Dutch and Hosea will have a plan.
+
+0x7C059D9D = ~z~~sl:0.0:0.8~Don't run.~sl:0.5~They'll hear you coming a mile off.
+
+0x0F64B315 = ~z~Charles is a wonder.
+
+0x276E62FE = ~z~it's his sad way of showing affection.
+
+0xB60C25D4 = ~z~~sl:0.0:0.9~This suits me.~sl:0.4:2.9~Sure, ~rp~I could fall in with another gang, but Dutch...~lr:0.7:0.6~you know...~sl:1.0~Dutch is different.
+
+0xEF375D16 = ~z~He's a drunk, miserable bastard, but... he loves that horse.
+
+0x9D7F7E30 = ~z~~sl:0.8:1.7~There's meat up here for sure.~lr:0.4~Pearson doesn't know what he's talking about.
+
+0x2FAA1539 = ~z~I'm going to get this packed on my horse.
+
+0xBD697CAE = ~z~Come on, Arthur, end it.
+
+0xC69C9110 = ~z~~sl:0.7:0.8~Of course.~lr:0.7:2.1~She lost her husband, her home,~sl:0.5~everything she had.
+
+0x71E6D4F3 = ~z~~sl:0.0:1.3~Poor animal's in pain.~sl:0.5~You should finish it with your knife.
+
+0x8D986800 = ~z~Yeah, they always said you were a butcher.
+
+0x739163EA = ~z~
+
+0x106C9200 = ~z~~sl:0.0:1.3~Go and use your knife on her.~sl:0.6~It'll be the quickest.
+
+0x388C0567 = ~z~Navy rum, sir...
+
+0xFB9FA483 = ~z~~sl:0.0:0.8~Me neither...~lr:0.7:2.4~well, Javier told me a bit, but...~sl:0.6~it sure weren't good.
+
+0xDE33BBD8 = ~z~I can't use it and you'll have to.
+
+0x7AC76FF6 = ~z~~sl:0.0:0.9~One more.~lr:0.5~We ain't feeding the O'Driscoll a damn thing,
+
+0xD965AD77 = ~z~~sl:0.0:0.6~Now, shh...~sl:0.3~stay quiet.
+
+0x9E1CC2DD = ~z~So it was O'Driscolls you ran into there?
+
+0x1965BA82 = ~z~~sl:0.0:1.7~Come on, let's try this way.~sl:0.4~Keep your eyes peeled for movement.
+
+0x471C1211 = ~z~~sl:0.0:3.3~You noticed how ~rp~Pearson's had a bottle in his hand~sl:~ever since we fled Blackwater?
+
+0x72A06277 = ~z~I sent Lenny and Bill hunting and they found nothing.
+
+0x75FAB6C9 = ~z~~sl:0.0:0.5~Come on,~sl:0.2~we should really be getting back.
+
+0x7BA6F594 = ~z~Here...
+
+0x073B0D05 = ~z~~sl:0.0:0.8~Where are you going?~sl:0.5~Follow the tracks.
+
+0xA125E658 = ~z~It'll be fine once I get it on my shoulder.
+
+0x090C2E4C = ~z~I guess because they've been over this way.
+
+0xEFC244F0 = ~z~~sl:0.0:2.1~Oh, I thought you were getting the other one.~sl:1.0~Ok, I'll go grab it.
+
+0x202A89E9 = ~z~~sl:0.0:4.2~We give the camp cook five minutes to grab the essentials and go,~sl:0.3~and ~rp~he doesn't even bring a crumb of food.
+
+0x2505A068 = ~z~You skin that one y-you dumped on the floor there.
+
+0xB4E60C67 = ~z~I don't know what Dutch would do if something happened to the Count.
+
+0x25792257 = ~z~~sl:0.0:1.6~You've had a lot put on you.~lr:0.4~I wish I could have done more.
+
+0x02B23AE9 = ~z~Go on, Arthur, c'mon, get that knife working.
+
+0xE765CBFC = ~z~and if needs be, we can eat you...
+
+0x35C06B04 = ~z~Bring it over, then.
+
+0x224955D7 = ~z~The bow, Arthur? Come on.
+
+0xA5C34B85 = ~z~~sl:0.0:3.2~That's why we need to stick by him through this.~lr:0.6~He always sees us right.
+
+0x3FE8BFAF = ~z~Watch yourself, Arthur, or we'll scare them all off.
+
+0xD77F61A9 = ~z~Still bad?
+
+0x156FA96E = ~z~~sl:0.0:0.9~Not that way...~sl:0.4~what are you doing?
+
+0x1A987EC1 = ~z~~sl:0.0:3.0~And that girl from the ranch now too, but...~sl:1.1~not sure she'll be eating much.
+
+0xCF302357 = ~z~~sl:0.0:1.0~We'll head up this way.~lr:0.2~Find some higher ground.
+
+0xEE878E5A = ~z~~sl:0.0:0.5~So...~lr:1.2:2.3~you reckon we're gonna find something to kill~sl:~that ain't an O'Driscoll?
+
+0xC3028576 = ~z~Here, you take this.
+
+0x70021891 = ~z~I still don't really know what happened on that boat.
+
+0x420C948C = ~z~Yes, seems to have done a treat on you.
+
+0x161AC057 = ~z~I feel like we haven't spoken for days.
+
+0x12BD1FE3 = ~z~~sl:0.0:3.2~except maybe that can of salted offal~sl:~Pearson was kind enough to give us.
+
+0x65135E71 = ~z~Have a drink boys...
+
+0x3B85F26E = ~z~~sl:0.0:0.7~Well done,~sl:0.7~I think that's all we can carry.
+
+0xA0D37729 = ~z~Come on, don't make me skin both of these.
+
+0x07B78872 = ~z~~sl:0.0:1.1~You would too.~lr:0.6:2.5~She lost her husband, her home,~sl:0.3~everything she had.
+
+0x5411D77D = ~z~We've seen enough of that.
+
+0xF37F9490 = ~z~Don't just leave it on your horse.
+
+0x74DE6D95 = ~z~~sl:0.0:4.2~We give the camp cook five minutes to grab the essentials and go,~sl:0.3~and ~rp~he doesn't even bring a crumb of food.
+
+0x381AD322 = ~z~~sl:0.0:1.0~Nice work, Arthur.~lr:0.4~Should be enough meat here to keep us all fed for a few days.
+
+0x9FC7D7F8 = ~z~Just make a good stew, folk need it...
+
+0x2F7E5965 = ~z~~sl:0.0:0.8~Of course.~lr:0.8:2.8~She lost her husband, her home,~sl:0.3~everything she had.
+
+0x016E7960 = ~z~What are you doing, Arthur?
+
+0x1CFB345F = ~z~~sl:0.0:0.6~The girl,~sl:0.5~she has a wild look in her eye.
+
+0xD7520730 = ~z~~sl:0.0:1.5~We've only been up here a few days~sl:~and have already picked up two more mouths to feed.
+
+0x5A4A8D61 = ~z~~sl:0.0:1.0~You just wounded it,~sl:0.6~better go put it out of its misery.
+
+0x80A4F783 = ~z~Use a gun...
+
+0xB09DDF85 = ~z~Enough of this.
+
+0x4D059852 = ~z~We'll go find something.
+
+0x8982AB6E = ~z~everyone's got to do their bit to survive.
+
+0x0CD2B90E = ~z~We'll track them on foot.
+
+0x745A1921 = ~z~Shoot!
+
+0x2A20A633 = ~z~they ain't going nowhere until we get some more thaw.
+
+0xB50252F0 = ~z~Watch yourself, Arthur, or we'll scare them all off.
+
+0xDB1BC726 = ~z~Keep your head down.
+
+0xCB2F5497 = ~z~what you got up to in the Navy, Mr. Pearson.
+
+0x3D4285E3 = ~z~That thing was huge.
+
+0xC362B811 = ~z~~sl:0.0:1.6~It'll be fine in a day or two.~lr:~I just can't pull a bow right now.
+
+0x8CE8D38E = ~z~~sl:0.0:2.1~I did that for a long time.~lr:0.5~I'm done with it.
+
+0x3D86FA81 = ~z~Come on, let's go.
+
+0xC23014CD = ~z~Come on.
+
+0xA31B1AD0 = ~z~~sl:0.0:1.6~You've had a lot put on you.~lr:0.5~I wish I could have done more.
+
+0x2A846179 = ~z~Stay crouched.
+
+0x2AAA849B = ~z~~sl:0.0:1.2~Nice work, Arthur.~lr:0.3~Should be enough meat here to keep us all fed for a few days.
+
+0xDDD5D418 = ~z~~sl:0.0:1.0~Well,~lr:0.9~we've been scrapping over scores with them for years.
+
+0x3353A3E9 = ~z~Are you ready with that bow?
+
+0xCE574D04 = ~z~Brought some food back, boys.
+
+0xF4E0646C = ~z~And that's good?
+
+0x5BE20494 = ~z~Not too bad, Mr. Morgan.
+

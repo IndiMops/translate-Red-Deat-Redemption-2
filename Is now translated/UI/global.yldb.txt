@@ -730,7 +730,7 @@
 
 0xDAC2DC7F = Lotte Cap Sleeve Blouse
 
-0x803B81FB = Slightly damages Health Core. Moderately restores Stamina Core and Dead Eye Core.
+0x803B81FB = Відновлює статуси витривалості та ВО, знижує статус здоров'я.
 
 0x94679627 = Travelers have sighted this panther southwest of Bolger Glade.
 
@@ -1758,7 +1758,7 @@
 
 0xB357B799 = Guerra Poncho
 
-0xCBFFD042 = Maggie
+0xCBFFD042 = Меггі
 
 0x2A142E58 = Death Ram Mask
 
@@ -3454,7 +3454,7 @@
 
 0xD3DBDC3E = A RDO$100 Reward.
 
-0xEF53F7B7 = The weather is harsh. Return to your camp.
+0xEF53F7B7 = Погода погіршилась. Поверніться до табору.
 
 0xA7DCB040 = Get 50% RDO$ off a select Novice or Promising item from the Bounty Hunter Role.
 
@@ -3592,7 +3592,7 @@
 
 0x5F5E6811 = Collector - The Londonderry
 
-0x1B3723EC = Help Section
+0x1B3723EC = Розділ допомоги
 
 0x181420C9 = An Off-Hand Holster exclusively for Traders.
 
@@ -4876,7 +4876,7 @@
 
 0x10D81C9E = You are showing ~COLOR_RED~~1~ out of ~2~~s~ talismans
 
-0x7C2387EB = Colter
+0x7C2387EB = Колтер
 
 0x2FD93BA2 = We feature vests in very nobby striped duck, fancy fly front corduroy, basket weave and neat single breasted fancy polka dot models. The European dance craze of the polka swept the United States nearly sixty years ago having originated in Bohemia where buxom maidens wander the countryside handing out pretzels and yodeling, and the residents are absolutely infatuated with dots. Our polka dot selection is unrivaled and by wearing one of our fancy vests you instantly communicate that you likely pass your time imbibing ale and playing the accordion.~n~
 
@@ -5390,7 +5390,7 @@
 
 0xC609D324 = The skin from a large Alligator in perfect condition. Can be used in crafting or sold.
 
-0x34FB4216 = Nightstand
+0x34FB4216 = Приліжковий столик
 
 0x41394E55 = Заняття
 
@@ -5460,7 +5460,7 @@
 
 0x85F29339 = Spectate Player
 
-0x187025B9 = Colter
+0x187025B9 = Колтер
 
 0xA95AB6A5 = A valuable platinum spring bracelet. Can be sold for cash.
 
@@ -7285,7 +7285,7 @@
 
 0x608F728E = Liberty Капелюх
 
-0x865F985F = Blackwater
+0x865F985F = Блеквотер
 
 0xA23BB43B = Arnold Porter
 
@@ -7829,11 +7829,11 @@
 
 0x172E2A86 = Breeds of Horses Card Set
 
-0x380F4B68 = Your horse has died due to the harsh weather conditions. Return to camp.
+0x380F4B68 = Ваш кінь загинув через суворі погодні умови. Поверніться до табору.
 
 0xFB390E94 = Guarma Stew
 
-0x888A9BE6 = Donegal Sweater
+0x888A9BE6 = Помічник шерифа
 
 0x2A243D81 = Помічник шерифа
 
@@ -8957,7 +8957,7 @@
 
 0xA355B995 = Knockout +~1~
 
-0x7EC59506 = Horse Bonding
+0x7EC59506 = Довіра коня
 
 0x3D9C53E0 = Leather Pants
 
@@ -9613,7 +9613,7 @@
 
 0xB87DD04E = Jasper "Cordite" West
 
-0x5F667738 = Help Section Updated
+0x5F667738 = Розділ допомоги оновлено
 
 0x31F449C7 = Outdoorsmen Vest
 
@@ -10935,7 +10935,7 @@
 
 0x50D46C23 = OWLHOOT FAMILY
 
-0xBD9DD8ED = Mahogany Bay
+0xBD9DD8ED = Темна червоно-гніда
 
 0xCA59E5A9 = ~3~~fg~~1p~~fo~~s~ looked relieved with ~fg~~2p~~fo~~s~
 
@@ -16233,7 +16233,7 @@
 
 0x59E9820E = Дика флора Північної Америки.~n~An illustration of Coastal Redwood "Sequoia Sempervirens".
 
-0x14D83CFE = Maggie
+0x14D83CFE = Меггі
 
 0xD7E10006 = The Pursuit: A Recovery Agent's Guide to Fugitive Capture.~n~by Foster Adair.
 
@@ -16679,7 +16679,7 @@
 
 0xC164EA7A = Poor Skinned Pig Carcass
 
-0x1E83479B = Journal
+0x1E83479B = Щоденник
 
 0x0D9236AA = Bandit Bandolier
 
@@ -17301,7 +17301,7 @@
 
 0xAC32D6BF = Richfield Vest
 
-0xBD6CE7FA = Baylock
+0xBD6CE7FA = Бейлок
 
 0x1D3647C5 =      "We must hurry, for that regiment of doomed soldiers attempting to invade Russia in the midst of winter is far ahead across the plains of central Europe," said Mademoiselle la Comtesse suddenly and profoundly enigmatically, and then ran breathlessly through the castle and down the lavender strewn spiral stair case. After having crossed the drawbridge, she leapt urgently upon her noble charger, Marina, who was the color of a French horse.
 
@@ -17539,9 +17539,9 @@
 
 0xC5E2F103 = Cloth Wrap
 
-0x0E263947 = Fish
+0x0E263947 = Риба
 
-0x40966BB9 = Speed
+0x40966BB9 = Швидкість
 
 0xE6D411F7 = You attacked Captain Monroe's horse.
 
@@ -18687,7 +18687,7 @@
 
 0x63359120 = Sell Pelt (~1$~)
 
-0xB66EE45C = Taima
+0xB66EE45C = Тайма
 
 0x2D645B52 = Leavitt Jacket
 
@@ -19009,7 +19009,7 @@
 
 0xE34E11F5 = Leather Gloves
 
-0x1CF04B98 = Feed
+0x1CF04B98 = Годувати
 
 0xE261110B = Dec
 
@@ -19681,7 +19681,7 @@
 
 0x1B2F4B87 = Silver Awarded
 
-0xD1E5023C = Handling
+0xD1E5023C = Керування
 
 0x9B6CCBC5 = Gerden Deluxe Spurs
 
@@ -20039,7 +20039,7 @@
 
 0x38B469FC = Inferior dry goods flood into this country. These are known to the trade as seconds - items that are of substandard quality, have spoiled, or been salvaged from an infestation of insects or vermin.~n~
 
-0xFC382D7F = Susan
+0xFC382D7F = Сьюзен
 
 0x89E3BB2E = FRIDAY
 
@@ -21383,7 +21383,7 @@
 
 0x2F3E63EB = Lakay, Bayou Nwa
 
-0x7A51AEFE = Hide Info
+0x7A51AEFE = Прибрати інформацію
 
 0x1A244ED1 = Torbay Vest
 
@@ -23341,7 +23341,7 @@
 
 0xAEE5E866 = Піти
 
-0x65699EEA = Пальто
+0x65699EEA = Масть1
 
 0x64389DBA = This activity cannot be started in these weather conditions.
 
@@ -25411,7 +25411,7 @@
 
 0xDE831D0E = Feathered Flop Капелюх
 
-0xC064FEF0 = Colter
+0xC064FEF0 = Колтер
 
 0x50398EC6 = Florida Cracker Cow
 
@@ -25639,7 +25639,7 @@
 
 0x7742B64F = Driver
 
-0xF351325F = Acceleration
+0xF351325F = Розгін
 
 0xC8DC07EC = Short Barrel
 
@@ -26167,7 +26167,7 @@
 
 0x3F0C7F5F = A rare Schofield Revolver made of gold and ivory, and adorned with custom engravings. Found inside a cave in Cholla Springs, this weapon appears to have once been owned by the famed gunslinger Otis Miller. This gun has an ammo capacity of six rounds, and can use Regular, High Velocity, Split Point, Express and Explosive revolver ammo.
 
-0xD4BA150E = View Journal
+0xD4BA150E = Читати щоденник
 
 0xAADFEB34 = Bedroll
 
@@ -26215,7 +26215,7 @@
 
 0x33FF746C = EXOTIC ITEMS
 
-0xA0C8E136 = Handling
+0xA0C8E136 = Керування
 
 0x2E776EE6 = Charcoal
 
@@ -27455,7 +27455,7 @@
 
 0x7C53BFB4 = Compendium
 
-0x564499A7 = Photo Mode - Advanced
+0x564499A7 = Розширений фоторежим
 
 0x1DE06143 = Shotgun Chaps
 
@@ -27593,7 +27593,7 @@
 
 0xB7AFFB6E = Horn 10
 
-0x292C6CED = Chapter 5
+0x292C6CED = Роздір 5
 
 0x6A8CAE4E = Go to the execution demonstration
 
@@ -28909,7 +28909,7 @@
 
 0x159F5C8E = Ornamental
 
-0x462C8D1C = Консерфована квасоля
+0x462C8D1C = Консервована квасоля
 
 0xD8211F13 = Ruched Blouse
 
@@ -30197,7 +30197,7 @@
 
 0xDD5F2762 = You do not have a horse available to call. You can steal, purchase, unstable, or find a horse in the wild.
 
-0xFF6B496F = Speed
+0xFF6B496F = Швидкість
 
 0x506A9A6F = Story Mission in Epilogue, Part 2
 
@@ -31811,7 +31811,7 @@
 
 0xD08B1E6D = Famous Gunslingers and Outlaws
 
-0x65BCB39F = Hide Info
+0x65BCB39F = Прибрати інформацію
 
 0x190C66EF = Name contains unsupported characters. Please try again.
 
@@ -32635,7 +32635,7 @@
 
 0xEDA13D85 = Legendary Mud Runner Buck Pelt
 
-0x8CC2DCA7 = Acceleration
+0x8CC2DCA7 = Розгін
 
 0x02DC52C3 = The Morement
 
@@ -32967,7 +32967,7 @@
 
 0x58F4A98C = Continue your streak
 
-0x224772E3 = Gray Snowcap Spotted
+0x224772E3 = Сірий чепрак
 
 0x9B5BEBF8 = Marshall Пальто
 
@@ -33129,7 +33129,7 @@
 
 0x047E5570 = Miss BLACK is wanted for the SLOW POISONING of her HUSBAND over a number of years, resulting in the gentleman's PAINFUL DEATH.
 
-0x43119403 = Page
+0x43119403 = Сторінка
 
 0x69CABABD = Dress Shoes
 
@@ -34925,7 +34925,7 @@
 
 0xCD162298 = Legendary Maza Cougar Sample
 
-0x257C7B00 = Hold ~INPUT_HORSE_SPRINT~ to maintain the horse's canter and to replenish its Stamina.
+0x257C7B00 = Утримуйте ~INPUT_HORSE_SPRINT~, щоб кінь йшов легкою ходою, відновлюючи витривалість.
 
 0x1C3C71C1 = Guess Billy Midnight never escaped his past. Guy was deranged about shooting some fella in the back or in their sleep or something else very sensible in my opinion. Anyway, guilt had consumed him, so like a real proper gentleman, he tried to kill me.
 
@@ -34967,7 +34967,7 @@
 
 0x952CEABF = Passenger
 
-0x77D4CD6A = DEAD
+0x77D4CD6A = МЕРТВИЙ
 
 0xDE3833CE = Ethel Rhinehart
 
@@ -35043,7 +35043,7 @@
 
 0xCA171FD8 = Cardenas Poncho
 
-0x99A4EF68 = Blackwater
+0x99A4EF68 = Блеквотер
 
 0x03FE59C4 = Annesburg Cap
 
@@ -36015,7 +36015,7 @@
 
 0x1F9E77C1 = Nine of Wands Tarot Card
 
-0x9B03F326 = Horse Bonding Maximum
+0x9B03F326 = Максимальна довіра коня
 
 0xA8F40117 = No. 5 Maud Engel
 
@@ -37473,7 +37473,7 @@
 
 0xA56E0109 = Worn Flat Cap
 
-0x499BA538 = Blackwater
+0x499BA538 = Блеквотер
 
 0x379E933C = Wide Grain
 
@@ -39595,7 +39595,7 @@
 
 0x662BC703 = The Californian Quail can be found in New Austin. As omnivores, seeds make up their main diet, with insects, berries and acorns being secondary. These small birds can easily be killed or wounded by using a Bow with Small Game Arrows. The carcass of a quail can be sold to traders.
 
-0xF653572A = Go to ~1b~ to speak with Bill.~n~Go to ~2b~ to speak with Mr. Pearson.
+0xF653572A = Йдіть до ~1b~, щоб поговорити з Біллом.~n~Йдіть до ~2b~, щоб поговорити з паном Пірсоном.
 
 0x2BBB8C95 = Our mid-length leather Dunaway Пальто is perfect for protecting your clothes from dust and dirt, featuring a short cape for rain protection, reinforced collar for wind and slit back for horseback riding.
 
@@ -39953,7 +39953,7 @@
 
 0x683FC9FD = A striking bearpaw ring worn by Traders.
 
-0x234D850C = This is your temporary horse
+0x234D850C = Це ваш тимчасовий кінь
 
 0xD2873448 = Cardenas Poncho
 
@@ -40425,7 +40425,7 @@
 
 0xF2E555D8 = Short
 
-0x26528947 = Moderately restores Health Core and Stamina Core.
+0x26528947 = Частково відновлює статус здоров'я та статус витривалості.
 
 0xFEDF61D3 = Duelists Pose
 
@@ -41557,7 +41557,7 @@
 
 0x706ED619 = The Pittsburg
 
-0x73F7D9A4 = Colter
+0x73F7D9A4 = Колтер
 
 0x40C7A675 = july
 
@@ -42561,7 +42561,7 @@
 
 0x0B9373F8 = ~COLOR_RED~~BLIP_MP_ROLES_MOONSHINER_LOCK~~s~
 
-0x03726BD7 = Feed
+0x03726BD7 = Годувати
 
 0xA07B08E1 = Outfits
 
@@ -43135,7 +43135,7 @@
 
 0x2B0494FA = A cheat has been disabled by an activity.
 
-0xE0254A1C = Maggie
+0xE0254A1C = Меггі
 
 0xE60C5004 = Workman's Boots
 
@@ -43821,7 +43821,7 @@
 
 0xF2EB5E94 = Single breasted cotton jacket with back standing collar, two buttons and a gathered waist. The cropped hem allows for flexible movement, perfect for riding. Fully warrantied.
 
-0x9B980742 = You've picked up an opened item. Opened items provide half the benefits of new items.
+0x9B980742 = Ви підібрали відкритий предмет. Такі предмети наполовину використані та менш корисні, ніж звичайні.
 
 0xC4733022 = Long Tied Curls
 
@@ -44167,7 +44167,7 @@
 
 0x3EAFAB30 = Fulbright Пальто
 
-0xACDA195F = Acceleration
+0xACDA195F = Розгін
 
 0x9348FFD1 = Pull out tin cup and some items, place two of each item in a metal cup and boil over fire.~n~~n~Pour contents into small bottle.~n~~n~Cork the bottle and stow it all.
 
@@ -44813,7 +44813,7 @@
 
 0xB3AD21A8 = Good Skinned Heron Carcass
 
-0xDBF849F3 = Blackwater
+0xDBF849F3 = Блеквотер
 
 0x61E4CFE0 = Blackened leather Off-Hand Holster with a basket weave design and thin brass buckles.
 
@@ -45943,7 +45943,7 @@
 
 0x584BC8EC = Looter
 
-0x8382F423 = Photo Mode - Basic
+0x8382F423 = Простий фоторежим
 
 0xC6F83799 = Puff Tie
 
@@ -46317,7 +46317,7 @@
 
 0xE76058D1 = Worn Flat Cap
 
-0xB0A52217 = DEAD
+0xB0A52217 = МЕРТВИЙ
 
 0x227093E4 = WE HAVE HAD GREAT SUCCESS WITH THIS OUTFIT~n~
 
@@ -47439,7 +47439,7 @@
 
 0x16A18ACE = Road southwest of Bolger Glade. Look for a carriage coming from the South. Passenger is a wealthy merchant, probably keeps his cash hidden so might need some persuasion. Xxxx
 
-0x4BA6BFD6 = Moderately restores Health Core and Stamina Core.
+0x4BA6BFD6 = Частково відновлює статус здоров'я та статус витривалості.
 
 0x9418084A = A neat and narrow tie, fastened with a short knot around the neck.
 
@@ -48612,7 +48612,7 @@
 
 0xACDC2408 = Patched Overalls
 
-0x907907A6 = Wild Man's Journal
+0x907907A6 = Щоденник дикуна
 
 0x5DE2D512 = A comfortable fringed saddle crafted especially for Traders.
 
@@ -52568,7 +52568,7 @@
 
 0x11279212 = Seventh Place +~1~
 
-0xCFE150CF = Susan
+0xCFE150CF = Сьюзен
 
 0xF3ED74DB = Goldwing Spurs
 
@@ -52752,7 +52752,7 @@
 
 0xD7B35921 = AN OUTFIT CURATED FOR GENTLEMEN OF THE PLAINS~n~
 
-0xE9D26B41 = Moderately restores Health Core and Stamina Core.
+0xE9D26B41 = Частково відновлює статус здоров'я та статус витривалості.
 
 0x5B57DCC7 = Derby Капелюх
 
@@ -53320,7 +53320,7 @@
 
 0x68D0EBA5 = Tillman Cap
 
-0xD41756EB = Horse Bonding Increased
+0xD41756EB = Довіра коня піднялася
 
 0xA4EA27BF = Tailored cotton canvas with a dapper notched lapel and six smart buttons. A thoroughly wearable vest at good value.
 
@@ -54432,7 +54432,7 @@
 
 0xA6AF2C3E = Tobin Anderson
 
-0xA1C22751 = Brown Jack
+0xA1C22751 = Смаглявий Джек
 
 0xB5203AAF = Driver
 
@@ -54792,7 +54792,7 @@
 
 0xD68B5CE2 = Question for open discussion - Is there a way to make the robes less flammable?~n~~n~-Acceptable food for Grand Satyr's surprise birthday dinner. French? Possible. Spanish? Definite no.~n~~n~-Membership dues 87% under quarterly target, again.~n~~n~-Ideas for new initiations need to be canvassed from members. Tarring and feathering was not popular with wives.
 
-0x29CEB027 = Chapter
+0x29CEB027 = Розділ
 
 0xB4BF3B17 = Dotson Капелюх
 
@@ -56608,7 +56608,7 @@
 
 0xC20C4CB0 = Overo
 
-0x156FA014 = Blackwater
+0x156FA014 = Блеквотер
 
 0xE46B6F11 = Tillman Cap
 
@@ -57528,7 +57528,7 @@
 
 0xCA2A56E3 = Brave
 
-0x2A12B6CD = Discard
+0x2A12B6CD = Позбутися
 
 0x30C8BD84 = Roller Jacket
 
@@ -57646,7 +57646,7 @@
 
 0x7C0A0908 = Appaloosa
 
-0x00668D66 = Colter
+0x00668D66 = Колтер
 
 0xB7454445 = Baja California Pronghorn Doe Sample
 
@@ -59630,7 +59630,7 @@
 
 0x50E9E2E2 = ~INPUT_FRONTEND_RT~
 
-0xF762895A = Chapter 4
+0xF762895A = Розділ 4
 
 0xC110530A = Guerra Poncho
 
@@ -60582,7 +60582,7 @@
 
 0x36C7CB22 = MEMBERSHIP TO THE WHEELER, RAWSON & CO. CLUB IS FREE FOR EVERY READER OF OUR CATALOGUE!~n~
 
-0x03F4984F = Blackwater
+0x03F4984F = Блеквотер
 
 0x188DACE8 = The Elephant Rifle
 
@@ -65300,7 +65300,7 @@
 
 0x53F6F3D6 = You attacked Susan.
 
-0xEFD78FB7 = Galloping causes a horse's Stamina to drain. Push the horse too hard and it will buck you off.
+0xEFD78FB7 = Скачучи галопом, кінь витрачає витривалість. Якщо надмірно понукатимете коня, він вас скине.
 
 0x64570437 = Dead Eye Ability Card Upgrade Available
 
@@ -67508,7 +67508,7 @@
 
 0x8F0C345D = Stories concerning this unusual buck have spread through Annesburg.
 
-0x1214B767 = Take Journal
+0x1214B767 = Взяти щоденник
 
 0x8BA130F4 = Gator Капелюх
 
@@ -68454,7 +68454,7 @@
 
 0x3314DABD = Труп
 
-0xCFD6777F = Hold ~INPUT_HORSE_MOVE_UP_ONLY~ to maintain the horse's canter and to replenish its Stamina.
+0xCFD6777F = Утримуйте ~INPUT_HORSE_MOVE_UP_ONLY~, щоб кінь йшов легкою ходою, відновлюючи витривалість.
 
 0x34C9DC74 = 8th
 
@@ -69134,7 +69134,7 @@
 
 0x2819D168 = Donner Falls
 
-0xFA00A34E = Susan
+0xFA00A34E = Сьюзен
 
 0xA0F04A40 = Torranca Пальто
 
@@ -69938,7 +69938,7 @@
 
 0xA97A54B6 = Прийняти
 
-0x33D3DF10 = View in Journal
+0x33D3DF10 = Прочитати в щоденнику
 
 0x6D9518D2 = Turkoman
 
@@ -70076,7 +70076,7 @@
 
 0x1F6CCB07 = Outlined
 
-0x110EBCAE = Chapter 6
+0x110EBCAE = Розділ 6
 
 0xB50060A1 = Show All
 
@@ -70244,7 +70244,7 @@
 
 0x71C11DC9 = Brawling Buckle
 
-0x62A90EB3 = Blackwater
+0x62A90EB3 = Блеквотер
 
 0x5C82088D = ~1~ Week Ago
 
@@ -70286,7 +70286,7 @@
 
 0xDA0A862C = Civilian
 
-0x1CA1C8C6 = Hide Info
+0x1CA1C8C6 = Прибрати інформацію
 
 0x8579319F = Arabian - Red Chestnut Пальто
 
@@ -70614,7 +70614,7 @@
 
 0xF0449D2C = Americans
 
-0xBFCC6CB5 = Photo Mode - Effects
+0xBFCC6CB5 = Режим фотоефектів
 
 0x483BF527 = ~a~ is now your active mount
 
@@ -70888,7 +70888,7 @@
 
 0x3075DE0D = Hurley Cap
 
-0xF0549DEF = This is your active horse.
+0xF0549DEF = Це ваш активний кінь.
 
 0x537C011A = Collectibles collected
 
@@ -70986,7 +70986,7 @@
 
 0x60CC0EA7 = A hilly desert region of western New Austin, rich in natural resources, and home to the small town of Tumbleweed.
 
-0xD8E486C0 = Autosaving has been turned off. To turn autosaving back on, access Autosave under the General option in the Settings section of the Pause menu.
+0xD8E486C0 = Автозбереження вимкнено. Ви можете знову увімкнути його в розділі «Загальне» в меню паузи.
 
 0xB2E260BF =  The coal industry is quite different from the oil industry in a number of ways so I certainly remain open to a business meeting at your convenience to exchange ideas and educate each other on our respective areas of corporate expertise. I would also be delighted to host you in Annesburg and give you a personal tour of the mine and its associated facilities. I look forward to further correspondence.~n~Yours sincerely,~n~Archibald Jameson
 
@@ -71548,7 +71548,7 @@
 
 0xDD7F8CAD = with a High Roller Revolver
 
-0xF939A868 = Journal Updated
+0xF939A868 = Щоденник оновлений
 
 0x3A8AE9BA = Materials Satchel
 
@@ -71708,7 +71708,7 @@
 
 0xDFB88F3F = * THEY STAND 13-16 HANDS HIGH~n~
 
-0xD0DC8065 = This is your main horse
+0xD0DC8065 = Це ваш основний кінь
 
 0xFE54ADDD = ~INPUT_FRONTEND_DOWN~
 
@@ -72672,7 +72672,7 @@
 
 0x98774A60 = Collectibles Request - Hunter
 
-0xA4E456CE = Moderately restores Health Core and Stamina Core.
+0xA4E456CE = Частково відновлює статус здоров'я та статус витривалості.
 
 0x67871971 = Strawberry
 
@@ -73336,7 +73336,7 @@
 
 0x36D9EA79 = Red Sage picked
 
-0x9FE65387 = Are you sure? Autosaving will be turned off.
+0x9FE65387 = Ви впевнені? Автозбереження буде вимкнено.
 
 0x7A092DAE = Preacher's Boots
 
@@ -74010,7 +74010,7 @@
 
 0x9E4D5394 = Shotguns
 
-0x61A016E8 = Maggie
+0x61A016E8 = Меггі
 
 0xDEE7942F = Iguana Big Valley Капелюх
 
@@ -74452,7 +74452,7 @@
 
 0x2DF8E440 = Fauna of North America
 
-0xC3B079F7 = Acceleration
+0xC3B079F7 = Розгін
 
 0x626418AB = Dentistry
 
@@ -75230,7 +75230,7 @@
 
 0x7BF63439 = Tailored Suit Jacket
 
-0x675C1FA4 = Acceleration
+0x675C1FA4 = Розгін
 
 0xE00F9857 = Stenger Deluxe Spurs
 
@@ -77082,7 +77082,7 @@
 
 0xB36A7024 = A tin full of live worms. Excellent for attracting medium-sized lake fish, especially steelhead trout.
 
-0x70F02DAA = Wild Man's Journal
+0x70F02DAA = Щеденник дикуна
 
 0x7D953A50 = Drink confidently.
 
@@ -79862,11 +79862,11 @@
 
 0x225EE5E2 = THE BUSINESS OF MOVING LIVESTOCK, BRANDING, DEHORNING, CHASING DOWN MAVERICKS AND CASTRATING ANIMALS REQUIRES A SPECIFIC OUTFIT.~n~
 
-0xC03683BB = Opponent
+0xC03683BB = Супротовник
 
-0x78193B9F = Незнайомець
+0x78193B9F = Незнайома людина
 
-0x8BB74F40 = Speed
+0x8BB74F40 = Швидкість
 
 0x515614DF = Scout Jacket
 
@@ -80462,7 +80462,7 @@
 
 0xE016A506 = Coastal Horned Owl
 
-0xCC289118 = Blackwater
+0xCC289118 = Блеквотер
 
 0xCB629054 = Tasseled Coupar Boots
 
@@ -81150,7 +81150,7 @@
 
 0x6C6E3312 = Select Dead Eye Рівень to use. By selecting a Рівень you activate this cheat.
 
-0x4F1115B6 = Journal
+0x4F1115B6 = Щоденник
 
 0xE438AAE0 = The body of a Squirrel in perfect condition. Can be sold.
 
@@ -81864,7 +81864,7 @@
 
 0xC87A90FE = Six of Cups Tarot Card
 
-0xB02A78AF = Journal
+0xB02A78AF = Щоденник
 
 0x3BE00466 = Angel
 
@@ -82505,7 +82505,7 @@
 
 0xD3649D73 = World Champions Card 8
 
-0xEDCDB7DF = New Journal Entry
+0xEDCDB7DF = Новий запис у щоденнику
 
 0x8C765689 = Ancient Tomahawk
 
@@ -84681,7 +84681,7 @@
 
 0x24B4F448 = You have skinned a new animal type: ~1~.
 
-0x5FEE2F81 = Пальто
+0x5FEE2F81 = Масть2
 
 0xD0289FBB = Murder
 
@@ -87905,7 +87905,7 @@
 
 0x63FE3B43 = Frilly Chemise
 
-0x9AAD71F2 = Speed
+0x9AAD71F2 = Швидкість
 
 0x48EC2032 = Wide Grain
 
@@ -89533,7 +89533,7 @@
 
 0x8BE56717 = Tiny Church
 
-0x57BC32EF = Discard Item
+0x57BC32EF = Викинути предмет
 
 0x2B46067B = None
 
@@ -90441,7 +90441,7 @@
 
 0x1C14F991 = Wild Appaloosa broken
 
-0xB61B939C = I bought this new journal, after the last one got destroyed in that fire all those months ago, whenever it was.~n~~n~Haven't written or drawn much in the past few months, but I was missing it more than I thought I would, and finally near a store, so here I am, I guess.~n~~n~After all that business up North and the fire, we spent a few months in the wilderness, traveling down from the Northern Grizzlies,
+0xB61B939C = Я купив цей щоденник після того, як попередній згорів під час пожежі кілька місяців тому, навіть не пам'ятаю, коли точно.~n~~n~Я майже не писав і не малював останні кілька місяців, але мені не вистачало цього сильніше, ніж я думав. А потім мені підвернувся магазин, ну і, загалом, ось.~n~~n~Після всієї тієї історії на півночі та тієї пожежі ми провели кілька місяців у глушині, спускаючись із північних гір Грізлі,
 
 0x224CFFCF = KNOWN ARSONIST AND MURDERER OF WOMEN AND CHILDREN WHILE IN THEIR BEDS.
 
@@ -90695,7 +90695,7 @@
 
 0xE648C457 = Ammunition
 
-0xDD68BB79 = Journal
+0xDD68BB79 = Щоденник
 
 0x82CB60DD = The Laramie Gang
 
@@ -92827,7 +92827,7 @@
 
 0x1011F34B = Crimes
 
-0xC46CA7A6 = Handling
+0xC46CA7A6 = Керування
 
 0x93F87734 = Processing Mugshot...
 
@@ -92923,7 +92923,7 @@
 
 0x68084B8F = Hosea's vehicle became inoperable.
 
-0xF6A6DA2E = Drink
+0xF6A6DA2E = Випити
 
 0x50AD3435 = Animals skinned
 
@@ -93653,7 +93653,7 @@
 
 0x98467D6E = Your horse has been stolen. Steal, purchase, unstable, or find a horse in the wild.
 
-0xFDDCE307 = Speed
+0xFDDCE307 = Швидкість
 
 0x72DA5808 = Banais Topaz Ring
 
@@ -94805,7 +94805,7 @@
 
 0x649F4CBA = Coin set sold
 
-0xDE14C631 = Journal
+0xDE14C631 = Щоденник
 
 0xB9FEA21C = Find the captives without threatening the store owner
 
@@ -96131,7 +96131,7 @@
 
 0x5F8A4B00 = Skirts
 
-0x151A0091 = You've unlocked Rearing with this horse. Hold ~INPUT_HORSE_STOP ~ and tap ~INPUT_HORSE_JUMP~ when stationary to perform this move.
+0x151A0091 = Тепер цей кінь може вставати дибки. Утримуйте~INPUT_HORSE_STOP~ та натискайте ~INPUT_HORSE_JUMP~, коли кінь буде нерухомий, щоб виконати цей прийом.
 
 0xC5D2B149 = Worn Rolled Pants
 
@@ -97837,7 +97837,7 @@
 
 0x60705006 = PARTY
 
-0x4F5F3EF6 = Wild Man's Journal
+0x4F5F3EF6 = Щоденник дикуна
 
 0xC75AB6F3 = Увімк.
 
@@ -98997,7 +98997,7 @@
 
 0x43E03672 = A page from Collecting and Antiquing by Fredrick Smithe.
 
-0x77976A2A = Boaz
+0x77976A2A = Боаз
 
 0x9C588EEB = Legendary Bear Head Капелюх
 
@@ -100417,7 +100417,7 @@
 
 0x317B275D = You have discovered the location of ~1~ out of ~2~ dinosaur bones.
 
-0xB8E0AEC2 = Discard
+0xB8E0AEC2 = Викинути
 
 0x4CA24285 = Can be used in the Thyme Plump Bird recipe
 
@@ -100669,7 +100669,7 @@
 
 0x6D126397 = Bartley Cap
 
-0xED03E389 = Drink
+0xED03E389 = Пити
 
 0x89ED8074 = Upgraded Saddle Bag
 
@@ -101081,7 +101081,7 @@
 
 0x16920E1C = and he fell off a CLIFF. †
 
-0x41AD3937 = Brush
+0x41AD3937 = Чистити
 
 0x943E8BC9 = Open Race
 
@@ -101933,7 +101933,7 @@
 
 0xDC75D616 = ?
 
-0xE549DEEC = DEAD
+0xE549DEEC = ПОМЕР
 
 0xE46FDE15 = Painted and dyed leather Off-Hand Holster with a small silver horseshoe buckle and ornate horse head pin.
 
@@ -103187,7 +103187,7 @@
 
 0x482544E9 = The skinned body of a badger in poor condition displaying major damage. Can be taken to a Butcher and sold for cash.
 
-0x7B3177F8 = Speed
+0x7B3177F8 = Швидкість
 
 0x5C3D5905 = DUTIFUL GENTLEMEN AND LADIES OF LEMOYNE, NEW HANOVER, WEST ELIZABETH, NEW AUSTIN & AMBARINO~n~YOUR STATE NEEDS YOU! ~n~
 
@@ -103917,7 +103917,7 @@
 
 0x2D762C0E = No. 1 American Paint
 
-0x543652CE = Drink
+0x543652CE = Пити
 
 0xFB58F9F1 = A completely safe cure that uses arsenic, coca derivatives and laxatives to wash weight and worry away.~n~
 
@@ -104119,7 +104119,7 @@
 
 0xBA4AB95F = When you skin or pluck an animal, you take meat from the carcass. You can cook and eat this meat at a campfire to refill your Cores.
 
-0xEAAAE9C0 = Пальто
+0xEAAAE9C0 = Масть3
 
 0x1CF91C12 = The warm, blood-filled heart of a Wolf.
 

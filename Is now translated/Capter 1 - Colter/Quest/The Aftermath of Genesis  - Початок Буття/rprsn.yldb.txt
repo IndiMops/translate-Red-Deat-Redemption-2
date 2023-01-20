@@ -1,0 +1,152 @@
+0x8E8550C6 = The bear has spooked your horse. When a predator is nearby, your horse gets agitated. Hold ~INPUT_INTERACT_ANIMAL~ to calm it.
+
+0x1CF894E0 = Hold ~INPUT_LOOT|PromptId=LootingPrompt,Gutter~ to skin the ~o~deer~s~
+
+0xDAC983B3 = Release ~INPUT_ATTACK~ to fire
+
+0xB5C869A3 = Attract an animal's attention by selecting Call while aiming at it. This will give you a chance of a clean kill as they raise their head before fleeing.
+
+0xA2E45BD0 = You can use Eagle Eye to highlight animal tracks and other clues.
+
+0x8F120FE9 = Release ~INPUT_OPEN_WHEEL_MENU~ to equip
+
+0x759C2937 = Hold ~INPUT_PLACE_CARRIABLE_ONTO_PARENT|PromptId=CarriablePrompt,Gutter~ to stow the deer
+
+0x7782DC9D = Greet
+
+0x894A099C = Deer
+
+0x744DD8AC = Recover the dropped ~o~deer~s~
+
+0xED7C07B1 = You ran out of arrows.
+
+0x54F4BE5A = Hunt another deer
+
+0x01D5D1E7 = ~INPUT_OPEN_WHEEL_MENU~ Equip your bow
+
+0x9E44C59C = Mount your ~o~horse~s~
+
+0x3C54DED6 = ~o~Hitch~s~ your horse
+
+0xA4BB1BDE = Continue following ~o~Charles~s~
+
+0xE420B40E = Charles' horse has died.
+
+0x68825B0F = Go to ~o~Pearson~s~
+
+0x04AF9D71 = Return to ~o~Pearson~s~
+
+0xFE6C4F73 = Place the deer on your ~o~horse~s~
+
+0x793F8A99 = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye
+
+0x4BA25606 = Hunt for deer
+
+0x943A3641 = Collect your ~o~bow~s~
+
+0xEF1EF678 = Pick up a ~o~deer~s~
+
+0x9F05A141 = A deer was spoiled.
+
+0x72BE12F8 = Pearson has died.
+
+0xC7B60134 = Approach your ~o~horse~s~
+
+0x32D43B2E = Place the deer by ~o~Pearson~s~
+
+0x67C58D8A = Approach the back of your ~o~horse~s~
+
+0x699F89FA = Return to the ~o~deer~s~
+
+0xE791A69F = You will make less noise when crouched. Press ~INPUT_DUCK~ to crouch.
+
+0xA3532450 = Pearson
+
+0x23156691 = The further you draw the string back, the more damage your arrow will inflict. Holding it too long will reset your aim.
+
+0xD604280E = ~INPUT_SPECIAL_ABILITY_ACTION|PromptId=FocusOnTrack~ Focus on track
+
+0x8AEB722D = Skin the ~o~deer~s~
+
+0xB1B4E802 = Bear
+
+0xCA31496B = Charles was attacked.
+
+0xB6CB2602 = Meet up with ~o~Charles~s~
+
+0x9B3F01D3 = Tracks are highlighted on the ground after focusing on them. They remain highlighted until the bar in the lower right corner empties.
+
+0xA6090117 = Charles has died.
+
+0x65091568 = Enable Eagle Eye and focus on the tracks to highlight them again.
+
+0x9AAE9A16 = Return to the hunting area
+
+0x9661FECD = Return to ~o~Charles~s~
+
+0xEF9DC94C = Charles was abandoned.
+
+0xF3933562 = Hold ~INPUT_AIM~ to ready the arrow
+
+0x88157805 = You left the hunting area.
+
+0xB82BF363 = Your horse has died.
+
+0xA3E6ED99 = Speak to your companions by holding ~INPUT_AIM~ to focus on them and using the interaction options.
+
+0xA8EA4DDB = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye
+
+0x4A947017 = Approach the ~o~deer carcass~s~
+
+0x80C6A560 = Hold ~INPUT_PICKUP_CARRIABLE|PromptId=CarriablePrompt,Gutter~ to pick up the ~o~deer carcass~s~
+
+0x84BC18B3 = Bear?
+
+0x143EC0B7 = Pick up the ~o~deer~s~
+
+0xAE35FD94 = Hold ~INPUT_PICKUP_CARRIABLE_FROM_PARENT|PromptId=CarriablePrompt,Gutter~ to remove the ~o~deer~s~
+
+0x4A1368E6 = Pearson was abandoned.
+
+0xB855626F = Hold ~INPUT_OPEN_WHEEL_MENU~ to view your stored weapons
+
+0x71D14EDD = You abandoned the deer.
+
+0x07966353 = Follow ~o~Charles~s~
+
+0xDBA52A57 = Deer
+
+0x89B1693A = View Tracks
+
+0xAF257452 = Eagle Eye will be deactivated if you start running while using it.
+
+0xBBB04DBD = Hold ~INPUT_DROP|PromptId=CarriablePrompt,Gutter~ to drop the deer
+
+0x98CEE4D9 = The Compendium tracks what you have discovered in the world. It can be accessed in the Progress section of the Pause menu.
+
+0x86542A1A = ~INPUT_WHISTLE~ Whistle for your ~o~horse~s~
+
+0x643976C0 = Your scent is also shown in Eagle Eye blowing in the direction of the wind. Animals will flee if they smell your scent so remain downwind or far away when hunting.
+
+0x9C2633F6 = Mount your ~o~horse~s~
+
+0xCC7CE716 = Hold ~INPUT_ATTACK~ to draw the string
+
+0x376CA355 = A deer carcass was lost.
+
+0x82DC6239 = Your horse will respond to your calls as long as it is in range. Continue to bond with your horse to increase the distance at which it responds to your whistling.
+
+0x34D36952 = When close, study an animal to discover information on it and its quality. Pelt quality is reduced with average or poor kills.
+
+0xD8F5F8CF = Follow ~o~Charles~s~
+
+0xE960F693 = Approach a ~o~deer carcass~s~
+
+0xAA66C692 = Use ~INPUTGROUP_RADIAL_MENU_NAV~ to select Longarms
+
+0x9BF9591B = Approach the back of your ~o~horse~s~
+
+0x9CD7AB74 = Select Longarms with ~INPUTGROUP_RADIAL_MENU_NAV~ and use ~INPUT_RADIAL_MENU_SLOT_NAV_PREV~ or ~INPUT_RADIAL_MENU_SLOT_NAV_NEXT~ to select Bow
+
+0xD6ADE032 = The deer were spooked.
+
