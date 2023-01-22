@@ -1,0 +1,122 @@
+0x53411BD6 = Take out the ~e~train engineer~s~
+
+0xB06AD337 = Take out the ~e~guards~s~
+
+0xC0E60F3F = Press ~INPUT_COVER~ to enter and exit cover.
+
+0xC808469D = While aiming ~INPUT_AIM~, press ~INPUT_SPECIAL_ABILITY~ to enter Dead Eye. This will slow time down.
+
+0x9C0EEE2A = Pick up the ~o~spool~s~
+
+0xDE1186CE = Get back to the ~o~gang~s~
+
+0x5049E34E = Start Train
+
+0x7BA957DF = Hold ~INPUT_MOVE_UP_ONLY~ and press ~INPUT_JUMP~ to climb over obstacles.
+
+0x4CAC6529 = Approach the ~o~carriage door~s~
+
+0xE5BE0CD8 = ~INPUT_CONTEXT_Y|PromptId=WNT4_GRB_LEN,Gutter~ Grab ~o~Lenny~s~
+
+0x7AEB73E7 = You disrupted the gang.
+
+0x3A9AB5DC = Pull
+
+0x2D8D38D4 = Your actions in the world impact your Honor level and change how people in the world interact with you. Negative actions will make you dishonorable.
+
+0x5FBB4C80 = Check on ~o~Bill~s~
+
+0x5E97896C = Take the Lead
+
+0x5568051A = ~INPUT_CONTEXT_Y|PromptId=WNT4_STOP_TRAIN~ Stop the train
+
+0xDC5E5114 = ~INPUT_MINIGAME_ACTION_UP~ Take dynamite from ~o~Bill~s~
+
+0x9D65A3B9 = Engine Car
+
+0xAF7C5621 = ~INPUT_SELECT_NEXT_WHEEL~ Switch to the Item Wheel
+
+0x8B80EB1A = You set off the dynamite.
+
+0xF3333026 = Return to the ~o~gang~s~
+
+0x16E0EB2F = Take care of the ~e~guards~s~
+
+0x6E8AFE34 = Go to the ~o~Private Car~s~
+
+0xBC992FB4 = ~INPUT_CONTEXT_Y|PromptId=WNT4_LIGHT_DYN,Gutter~ Light the fuse
+
+0xA0231C42 = ~INPUT_CONTEXT_Y|PromptId=WNT4_STRP_WIRE,Gutter~ Strip Wire
+
+0xB4686003 = You missed the train.
+
+0x1CFC6C69 = Deal with the ~o~guards~s~
+
+0x5ED11288 = Meet with ~o~Dutch~s~
+
+0x12785B71 = ~INPUT_ATTACK~ Place dynamite
+
+0x1404B756 = ~INPUT_CONTEXT_Y|PromptId=WNT4_CON_WIRE,Gutter~ Connect Wire
+
+0x085B6BE5 = Press ~INPUT_SWITCH_SHOULDER~ when aiming to switch between looking over your left and right shoulder.
+
+0xA3453DB3 = Select clothes with ~INPUTGROUP_RADIAL_MENU_NAV~ and press ~INPUT_RADIAL_MENU_SLOT_NAV_PREV~ or ~INPUT_RADIAL_MENU_SLOT_NAV_NEXT~ to cycle to a mask
+
+0xA596A49E = Guard
+
+0x2BE44C89 = Hold ~INPUT_MOVE_UP_ONLY~ and press ~INPUT_JUMP~ to get back on the train.
+
+0xDEDC3FBB = Go to the ~o~Engine Car~s~ to start the train~s~
+
+0x3530C743 = Reverse the grapple
+
+0x2390A0E4 = You were thrown off the train.
+
+0xBED1F4CC = Hold ~INPUT_OPEN_WHEEL_MENU~ to show the Weapon Wheel
+
+0xA2441374 = Stop Train
+
+0x85BA029D = Release ~INPUT_OPEN_WHEEL_MENU~ to equip the disguise
+
+0xFC5B40B8 = The train was abandoned.
+
+0x271DA886 = Get to the front of the ~o~Engine Car~s~
+
+0x2EB3FF10 = Send Lenny
+
+0xD327F991 = Mount your ~o~horse~s~
+
+0x0F3C5A65 = Light Fuse
+
+0xCCB37206 = Follow ~o~Dutch~s~
+
+0x545E578B = Spool
+
+0x7F6418BD = Get away from the dynamite
+
+0x54AD6F7E = Move to the ~o~front~s~ of the train's freight cars
+
+0xCC7EEC82 = Intimidate the guards in the Private Car~s~
+
+0xD8B95A00 = Find loot on the ~o~train~s~
+
+0x14471E16 = Return to the ~o~train~s~
+
+0x57AB3E56 = Jump on the ~o~train~s~
+
+0x3C538D2A = Hold Lenny
+
+0x343EE577 = Grab Box
+
+0xAA298DB0 = Your Dead Eye bar will refill by killing or knocking out enemies while not in Dead Eye.
+
+0x566E2174 = Your health is low. Avoid taking more damage and wait for it to refill, or use a Health Cure for a quick boost.
+
+0xFA446862 = Connect the wire to the ~o~detonator~s~
+
+0xD0031958 = You failed to save Lenny.
+
+0x8116BFC3 = When riding with the gang, double tap ~INPUT_HORSE_SPRINT~ to move up the formation, or double tap ~INPUT_HORSE_STOP~ to drop back.
+
+0xF11BC382 = Tap ~INPUT_ATTACK~ to fire rapidly from the hip.
+
