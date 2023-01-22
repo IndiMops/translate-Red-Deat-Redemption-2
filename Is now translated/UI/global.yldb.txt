@@ -744,7 +744,7 @@
 
 0xB119B2DD = Stab
 
-0x59C75B8B = Bear
+0x59C75B8B = Ведмідь
 
 0x439A455E = Lautnip Shirt
 
@@ -2468,7 +2468,7 @@
 
 0xDC63E25A = Bounties brought in from New Hanover posters
 
-0x4AA650A0 = Master Hunter
+0x4AA650A0 = Майстре-мисливець
 
 0x5A10600A = Play Intro
 
@@ -4272,7 +4272,7 @@
 
 0x5728618C = Frumpy Shirt
 
-0x00080A6C = Master Hunter
+0x00080A6C = Майстре-мисливець
 
 0xCD26D78C = Carver Pants
 
@@ -4448,7 +4448,7 @@
 
 0x25EE30B6 = Unique Animals Skinned/Plucked
 
-0x05B71083 = Log Updated
+0x05B71083 = Журнал оновлено
 
 0xDB11E5DD = Egg Crate
 
@@ -5478,7 +5478,7 @@
 
 0x8C8699DC = Dunster Boots
 
-0x7843859A = Gold Awarded
+0x7843859A = Отримана золота медаль
 
 0x72147F6B = Can be used in the Minty Game recipe
 
@@ -11063,7 +11063,7 @@
 
 0xEEFC0A97 = Legendary Red Streak Coyote
 
-0x52256DC2 = Master Hunter
+0x52256DC2 = Майстре-мисливець
 
 0x5AFD769E = Neat String Tie
 
@@ -12947,7 +12947,7 @@
 
 0x9CD7BD2B = HEAD FOR THE HILLS
 
-0x018721DB = Call
+0x018721DB = Покликати/крикнути
 
 0xD949F99F = Weston Bros
 
@@ -15863,7 +15863,7 @@
 
 0x123F397C = Doily Shirtwaist
 
-0x34355B73 = Focus on Track
+0x34355B73 = Сфокусуватися на слідах
 
 0x65F08D2F = Perception
 
@@ -18933,7 +18933,7 @@
 
 0xF98B2804 = Garwood Капелюх
 
-0x628B9108 = Здерти шкіру
+0x628B9108 = Освіжувати
 
 0x49E87865 = Use Train Station
 
@@ -19679,7 +19679,7 @@
 
 0x701CA073 = ~1~/~2~ Wild Feverfew collected for William.
 
-0x1B2F4B87 = Silver Awarded
+0x1B2F4B87 = Отримана срібна медаль
 
 0xD1E5023C = Керування
 
@@ -20503,7 +20503,7 @@
 
 0xF8D82B48 = Неможливо приєднатися. Failed to secure an available slot in the target session.
 
-0x0BCF3E44 = Kill
+0x0BCF3E44 = Вбити
 
 0x6FCDA243 = Pebble
 
@@ -23923,7 +23923,7 @@
 
 0xBC14F714 = Burled Wood Grain
 
-0x8A8EC58E = Bear
+0x8A8EC58E = Ведмідь
 
 0x53098E09 = Cossack Капелюх
 
@@ -24251,7 +24251,7 @@
 
 0xC425FFCE = Reinforced Off-Hand Holsters reduce the amount of maintenance weapons require.
 
-0x1ECF5A7D = Compendium
+0x1ECF5A7D = Довідник
 
 0xF98B3538 = Basic Grain
 
@@ -27013,7 +27013,7 @@
 
 0x56EE9941 = Drifter Капелюх
 
-0xAF20F173 = Kill each deer with one arrow
+0xAF20F173 = Вбити кожного оленя лише однією стрілою
 
 0x1BEC5E40 = Translate
 
@@ -27453,7 +27453,7 @@
 
 0x42E28641 = Bullard Капелюх
 
-0x7C53BFB4 = Compendium
+0x7C53BFB4 = Довідник
 
 0x564499A7 = Розширений фоторежим
 
@@ -28649,7 +28649,7 @@
 
 0xE9102F57 = The meat from a plump bird to be used in cooking.
 
-0x4D9E93E7 = Deer
+0x4D9E93E7 = Олень
 
 0x25E86C32 = Leather Wrap
 
@@ -39059,7 +39059,7 @@
 
 0xBCA31C33 = Regular Vest Accessories
 
-0x582FB7C0 = Deer
+0x582FB7C0 = Олень
 
 0xFE2F5DC0 = Sow paranoia and fear amongst felons or fellow neighbors by letting them know: You're watching for the slightest hint of trouble and will rain hell if need be.
 
@@ -41363,7 +41363,7 @@
 
 0x3ABD9FF9 = Get 30% RDO$ off select Shotguns.
 
-0x7896DDD3 = Log
+0x7896DDD3 = Журнал
 
 0xA1CA0708 = Provisions Satchel
 
@@ -43267,7 +43267,7 @@
 
 0xDD40479E = Dunsinnan Boots
 
-0xE18F4BED = Deer
+0xE18F4BED = Олень
 
 0x66E5D147 = Finley
 
@@ -45175,7 +45175,7 @@
 
 0x5AA7C97E = Scribbled coordinates detailing how to find a dinosaur bone.
 
-0x5B9FCA76 = Get a clean kill on the second deer
+0x5B9FCA76 = Вбийте другого оленя одним пострілом
 
 0xB3902266 = WILLIAM SLEICHER
 
@@ -46717,7 +46717,7 @@
 
 0x1218847C = This map is unable to locate any collectibles at this time. You may need to earn a higher Collector Rank to unlock more map locations.
 
-0xCD633FC6 = Stop Tracking
+0xCD633FC6 = Перестати відслідковувати
 
 0x4FAEC212 = Stride Капелюх
 
@@ -46769,7 +46769,7 @@
 
 0x005D72DA = Witch Hunt Collection
 
-0x6F1FE19D = Compendium Updated
+0x6F1FE19D = Довідник оновлено
 
 0xC39B3618 = Griffith Chaps
 
@@ -47588,7 +47588,7 @@
 
 0xD391481D = American Standardbred - Buckskin Пальто
 
-0x66EEDB7C = Unknown Animal
+0x66EEDB7C = Невідома тварина
 
 0xD2AF473D = Straw Boater Капелюх
 
@@ -48582,7 +48582,7 @@
 
 0x5F4BD661 = Improved Throwing Knife
 
-0xF7A06EB8 = Deer skinned
+0xF7A06EB8 = Оленів освіжено
 
 0x0E5C8577 = fish caught while boating
 
@@ -51814,7 +51814,7 @@
 
 0xD8B457BB = Purchase ~COLOR_VIP~The Quick Draw Club No. 3~s~ to earn even more Rewards
 
-0x2C13AB1D = Checklist
+0x2C13AB1D = Чеклист
 
 0x65F7E503 = Killing an enemy with a Headshot restores Dead Eye.
 
@@ -53206,7 +53206,7 @@
 
 0x821104A2 = Ozula Hood
 
-0xED636FF4 = Bronze Awarded
+0xED636FF4 = Отримана бронзова медаль
 
 0xD3B8564A = Press ~INPUT_FRONTEND_X~ to select a storage device.
 
@@ -54026,7 +54026,7 @@
 
 0x035C87ED = Preacher's Pride Boots
 
-0x802604B6 = Gold Awarded
+0x802604B6 = Отримана золота пряжка
 
 0x821006A1 = ℮
 
@@ -54246,7 +54246,7 @@
 
 0xFF5C846E = Cotton Suspenders
 
-0xE6216B34 = Whitetail Deer
+0xE6216B34 = Білохвостий олень (самка)
 
 0x05EC8B00 = Tools for crafting items.
 
@@ -55702,7 +55702,7 @@
 
 0x79F8026F = Birdwell Капелюх
 
-0xACA03519 = Deer skinned
+0xACA03519 = Оленів освіжено
 
 0xB6F13F6B = A box of express ammunition, providing incredible stopping power. Contains 60 cartridges.
 
@@ -56422,7 +56422,7 @@
 
 0x6231EC65 = Western Toads are native to the Lemoyne wetlands. As carnivores, they prey on large bees, beetles, ants, crayfish, and arachnids. A Bow with Small Game Arrows is considered to be the best weapon to hunt toads with as it does minimal damage to the carcass. Their legs are a great source of food.
 
-0x071E9155 = Whitetail Deer
+0x071E9155 = Білохвостий олень (самка)
 
 0xD2855CBC = Tanguma Double Bandolier
 
@@ -57874,7 +57874,7 @@
 
 0x84A01247 = Kill the first 4 bounty hunters on the train without alerting them
 
-0x7B4908F1 = Animal carcasses can be dropped off to Pearson at ~BLIP_SHOP_BUTCHER~ to contribute to gang supplies.
+0x7B4908F1 = Туши животных можно доставить Пирсону в ~BLIP_SHOP_BUTCHER~, щоб поповнити запаси банди.
 
 0x4DBBDB64 = A convenient travel service that can quickly transport you from Emerald Ranch to other major towns in the world. It can also return you to your Camp for a fee.
 
@@ -60194,7 +60194,7 @@
 
 0x658DF8ED = You have been suspended. You will not be able to access Social Club features in Red Dead Redemption 2 until ~1~.
 
-0x209BB3FD = Deer
+0x209BB3FD = Олень
 
 0x6C26FF89 = A once bustling New Austin town that has been on a steady decline ever since they built the railroad to nearby Armadillo.
 
@@ -62944,7 +62944,7 @@
 
 0xA723412D = Large Delivery Wagon
 
-0x7F5C1966 = Bear
+0x7F5C1966 = Ведмідь
 
 0x3827D232 = Hickory & Coffee
 
@@ -66260,7 +66260,7 @@
 
 0x886F2AB4 = Wanted Fugitive
 
-0x05FEA845 = Unknown Animal
+0x05FEA845 = Невідома тварина
 
 0xEC578E9F = Subscribe
 
@@ -66980,7 +66980,7 @@
 
 0x14E7B8DF = Brynn Tildon
 
-0xD333772D = Конов'яз
+0xD333772D = Прив'язати коня
 
 0xE4EF88EF = Arkwright Gloves
 
@@ -67000,7 +67000,7 @@
 
 0x3F93E3A1 = Unlocks the Bandit Gun Belt at the Trapper
 
-0xD64E7A5E = Mr. Pearson
+0xD64E7A5E = Пан Пірсон
 
 0x4EA6F2B7 = Sadie asked you to meet her at Doyle's Tavern to work out how to rescue John.
 
@@ -72992,7 +72992,7 @@
 
 0x15D9C8B2 = Tracks
 
-0xA435570E = Bear
+0xA435570E = Ведмідь
 
 0x4B1DFDF9 = Marvels of Travel Card Set
 
@@ -73106,7 +73106,7 @@
 
 0x37B0EACD = Herbalist
 
-0xC6D779F4 = Здерти шкіру ~1~
+0xC6D779F4 = Освіжувати ~1~
 
 0xB8426B60 = Tapscott Gloves
 
@@ -73736,7 +73736,7 @@
 
 0x1476C904 = Churchwell Vest
 
-0xA15E55EE = Do not spook either deer
+0xA15E55EE = Не злякайте жодного оленя
 
 0x243BD8CE = A pelt from the Legendary Ridgeback Spirit Bear. Can be taken to Gus and sold for cash.
 
@@ -77744,7 +77744,7 @@
 
 0x1D4EDB88 = Weathered Walnut
 
-0x8BC94A05 = Unknown Animal
+0x8BC94A05 = Невідома тварина
 
 0x486506A3 = A vast number of devotees have sent us correspondence.~n~
 
@@ -79306,7 +79306,7 @@
 
 0x6AA72CC2 = Double-crested Cormorant
 
-0x3DBAFFD7 = You have unlocked the Master Hunter Challenge. Check your Log for more information.
+0x3DBAFFD7 = Розблоковано випробування майстра-мисливця. Щоб дізнатися більше, відкрийте журнал.
 
 0x01BFC3DD = Rifle Bullets
 
@@ -79738,7 +79738,7 @@
 
 0xCA448D7E = Artwork given to you by artist Charles Châtenay.
 
-0x54FE1838 = Compendium
+0x54FE1838 = Довідник
 
 0xDDC3A0FE = Progress further with 3000 The Halloween Pass 2 XP
 
@@ -81924,7 +81924,7 @@
 
 0xEA1FB2C9 = ~3~~fg~~1p~~fo~~s~ greeted ~fg~~2p~~fo~~s~ sternly
 
-0xA3F86CA3 = With the gang low on supplies and starving, Mr. Pearson sends Arthur and Charles out hunting.
+0xA3F86CA3 = Оскільки запас банди майже закінчуються та всі голодують, пан Пірсон відправляє Артура і Чарльза на полювання.
 
 0x65842E31 = лось Range Gloves
 
@@ -84295,7 +84295,7 @@
 
 0xD900A78D = Used in crafting. Slightly restores Health Core or slightly restores Horse Health Core.
 
-0x3AAE093B = Buckle Awarded
+0x3AAE093B = Отримана пряжка
 
 0xEC9EBB2D = Freddie O'Hallaghan
 
@@ -88009,7 +88009,7 @@
 
 0x85845D03 = Vaquero Spurs
 
-0x50E92868 = Press ~INPUT_QUICK_SELECT_SECONDARY_NAV_NEXT~ to cycle between modified ammo types for this weapon.
+0x50E92868 = Щоб переключатися між модифікованими типами боєприпасів для цієї зброї, натисніть ~INPUT_QUICK_SELECT_SECONDARY_NAV_NEXT~.
 
 0x647B3BFB = This catalogue provides countless hours of entertainment as you huddle around the hearth, running low in the larder, growing thinner by the day as feet of snow swell outside, your worried mother turning the pages slowly, duly humming to herself dreaming of how much better your life would be surrounded by the items you see before you.
 
@@ -96221,7 +96221,7 @@
 
 0x130FFEBB = Billy Midnight should be around here according to the notes on Levin's photograph.
 
-0x73C55F71 = Log
+0x73C55F71 = Журнал
 
 0x54D94085 = Save Game
 
@@ -97585,7 +97585,7 @@
 
 0xFD8DEC92 = Are you sure you want to join a Red Dead Online session? Progress will be automatically saved.
 
-0x771E6623 = Whitetail Deer
+0x771E6623 = Білохвостий олень (самка)
 
 0xD042BF47 = Kill animals from a moving train
 
@@ -99935,7 +99935,7 @@
 
 0xEA9DDF4D =  
 
-0x252419D5 = Match speed with a companion by holding or tapping ~INPUT_HORSE_SPRINT~ while riding near them. Your horse's Stamina will not drain while matching their speed.
+0x252419D5 = Для того, щоб зрівнятися за швидкістю з вашим компаньйоном, утримуйте або часто натискайте на ~INPUT_HORSE_SPRINT~, поки ви їдете поруч з ним. При цьому витривалість вашого коня витрачатися не буде.
 
 0x95688A19 = Basic Grain
 
