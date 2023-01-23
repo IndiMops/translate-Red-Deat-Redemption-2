@@ -1,0 +1,80 @@
+0xDEFCCE7F = You can switch between different radar sizes and the compass by holding ~INPUT_SELECT_RADAR_MODE~
+
+0x96093971 = Eat, drink, and rest to maintain your Cores.
+
+0x1BE181BC = Lift wheel
+
+0x63542FBA = You are now hot. This is shown by the flashing sun icon in your Health Core. While you are too hot or too cold, your Health Core will drain faster.
+
+0x0DE1F02F = You acquired some herbs. These can be consumed to replenish your Cores, used in cooking, or to craft items.
+
+0x0AD18038 = You abandoned the group.
+
+0x06853D2B = Strauss' wagon became stuck.
+
+0xC6932ADA = The caravan was abandoned.
+
+0x1CC1D6C5 = Charles' wagon became stuck.
+
+0xD2E94E30 = Swanson's wagon became stuck.
+
+0x32675A65 = Tap ~INPUT_VEH_ACCELERATE~ to accelerate.~n~Hold ~INPUT_VEH_BRAKE~ to decelerate.
+
+0xCC2EE0D6 = Get on the ~o~wagon~s~ with ~f~Hosea~s~
+
+0x8339EB36 = Hold ~INPUT_VEH_BRAKE~ to bring the wagon to a complete stop.
+
+0x26DB0649 = The caravan was abandoned.
+
+0xBD51C274 = Donate money and valuables to camp to upgrade ammo, food and other camp supplies.
+
+0x212FF56F = The Compendium tracks what you have discovered in the world. It can be accessed in the Progress section of the pause menu.
+
+0x0893B08E = Dutch's wagon became stuck.
+
+0xBC64FFC9 = Bash wheel
+
+0xC041D8C5 = Return to your wagon
+
+0xBE5C91CE = Sleep, shave, change clothes or store weapons in the weapon locker at your tent.
+
+0x4699D558 = The shortest route to a required destination is shown by the yellow line on the radar.
+
+0xF5C0D258 = Hold ~INPUT_VEH_BRAKE~ to reverse the wagon when stuck.
+
+0x906AEAD1 = Roll wheel
+
+0x2DBCEA33 = Hold ~INPUT_HORSE_SPRINT~ while viewing cinematic camera to automatically follow roads and other paths.
+
+0x03E92D15 = The wagon became inoperable.
+
+0x258CE0F4 = You went off the route to Horseshoe Overlook.
+
+0xD0330200 = A variety of plants can be found throughout the world. Pick them to learn about their properties.
+
+0xAEF4FD6A = Return to ~o~the caravan~s~
+
+0xF48D1FF2 = A companion's Horse has died.
+
+0x057F01F2 = To avoid becoming too hot, make sure you wear clothes appropriate for the environment.
+
+0x0A676A2E = Speak to Strauss to find out about his latest debtors and open Loanshark missions.
+
+0x76F78140 = CHAPTER 2: HORSESHOE OVERLOOK
+
+0xAD6AEE26 = 2 WEEKS LATER
+
+0x5E7092E8 = The wagon horses got loose.
+
+0xB966BB46 = Hold ~INPUT_VEH_ACCELERATE|PromptId=INPUT_MUD1_ACCEL,Gutter~ to match speed with the ~o~caravan~s~
+
+0x7ACEED47 = ~INPUT_VEH_EXIT~ Get back on the ~o~wagon~s~
+
+0x08DE8964 = Go to ~o~Horseshoe Overlook~s~
+
+0x57EEF9DA = Pick up wheel
+
+0x18DDB1B0 = Get back on the ~o~wagon~s~ with ~f~Hosea~s~
+
+0x82CA5D70 = You committed a crime.
+
