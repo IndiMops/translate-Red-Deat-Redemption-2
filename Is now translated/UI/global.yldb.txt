@@ -250,7 +250,7 @@
 
 0x6176621E = Colter Hot-Pot
 
-0xFA8DFB35 = Guard
+0xFA8DFB35 = Охоронець
 
 0x46E3478E = Woven Pistol Gun Belt
 
@@ -534,7 +534,7 @@
 
 0x7D167E62 = No. 8 The Showboat
 
-0x2BF82D45 = Guard
+0x2BF82D45 = Охоронець
 
 0xEFCEF11C = Wanted Fugitive
 
@@ -964,7 +964,7 @@
 
 0x7E6280A8 = Our new rugged design is perfect for the adventurous, with its stitched cuffs and light fringing. Note the rough, hand torn bottom for a faux-tattered look. Sublime.
 
-0xC850CA97 = Guard
+0xC850CA97 = Охоронець
 
 0xCBC9CE11 = Approach Madam Nazar ~1b~ to trigger the Collector role. She will often move location and must be found again if you want to speak with her.
 
@@ -976,7 +976,7 @@
 
 0x29552BA8 = Treasure Map - West Hill Haven
 
-0x7D007F54 = Guard
+0x7D007F54 = Охоронець
 
 0x68B86B0C = g
 
@@ -1146,7 +1146,7 @@
 
 0xCDBAD083 = Dearest Nate,~n~I don't know how many letters i've written now but i wont stop trying. Even the act of writing feels like some connection to you which is certainly better than none. I can understand how hurt and angry you must be for walking out on you like I did but I promise that i love you with all my heart. I just couldn't take it a day longer.
 
-0xBD99C063 = Bandana
+0xBD99C063  = Бандана
 
 0xFDAB0075 = Charcoal & Buck
 
@@ -1258,7 +1258,7 @@
 
 0x69756C80 = Звичайний
 
-0x08CD0BDA = Guard
+0x08CD0BDA = Охоронець
 
 0x76337940 = Check back later
 
@@ -1710,7 +1710,7 @@
 
 0x500D5432 = Blueprints
 
-0x3EFC4322 = Bandana
+0x3EFC4322 = Бандана
 
 0x1D592180 = Pickled Egg
 
@@ -2632,7 +2632,7 @@
 
 0x47D94E3C = Meredith Hopkins
 
-0xA9DAB044 = Bandana
+0xA9DAB044 = Бандана
 
 0x56EE5D5A = Assault
 
@@ -2890,7 +2890,7 @@
 
 0x58385F40 = Nosalida Half Chaps
 
-0x3D00440A = Bandana
+0x3D00440A = Бандана
 
 0xF71FFE29 = Treasure Map - Valentine Outskirts
 
@@ -3084,7 +3084,7 @@
 
 0x4B4352C1 = Fauna of North America Card Set
 
-0x6D827503 = Bandana
+0x6D827503 = Бандана
 
 0xD21BD99C = Dealer
 
@@ -3338,7 +3338,7 @@
 
 0x47224F41 = LEON HUNT
 
-0xCF30D751 = Guard
+0xCF30D751 = Охоронець
 
 0xF159F97A = Jeremy Gill has asked if you can catch and post 13 Legendary Fish to him. They are spread around in various fishing spots.~n~Once caught, the Legendary Fish can be mailed from any Post Office.
 
@@ -3712,7 +3712,7 @@
 
 0x53B95CBA = Hollyfield Bloomers
 
-0x1C9B259E = Guard
+0x1C9B259E = Охоронець
 
 0xE9E7F2EA = Witness
 
@@ -3754,7 +3754,7 @@
 
 0xAD90B6A6 = Cossack Капелюх
 
-0x4F27583E = Guard
+0x4F27583E = Охоронець
 
 0xD1B0DACC = Though some history books may indicate otherwise, the Litchfield Repeater was an instrumental part of the success of the battle against the murderous Indians who intended to disrupt the way of life of peaceful settlers and railroad surveys and discovery of gold and oil on Indian land of which they had no use. When the U.S. Army's 7th 5th Cavalry and the honorable Lieutenant Colonel Joseph Everett Yarbrough sought to discuss matters peacefully, a skirmish broke out, and thanks to the Henry Repeater, many of the combatants were killed. Sadly, Yarbrough was not supplied with enough Henry Repeaters and all perished that day. We offer this repeating rifle as a memento to the brave men that perished defending decency, honor, gold and oil prospecting and working in an effort to bring civilization to the uncivilized. It is a welcome addition to any wagon train, homestead, or cattleman. Bloody skirmishes by Indians occur daily in this country, and only one rifle will protect you and your family where others are doomed to failure.~n~
 
@@ -4554,7 +4554,7 @@
 
 0xD3F6DF05 = Ortega Vest
 
-0xF8A203B1 = Guard
+0xF8A203B1 = Охоронець
 
 0x5DA668B6 = A perfectly modern pair, featuring pull straps with a scalloped dip and neat piping around the welt and counter. Exquisite.
 
@@ -4908,7 +4908,7 @@
 
 0x081B13F4 = LESS ACCIDENTAL DISCHARGES~n~
 
-0xFDBD0996 = Guard
+0xFDBD0996 = Охоронець
 
 0x2CDE38B9 = ~1~ Minutes Ago
 
@@ -5740,7 +5740,7 @@
 
 0x2EE13CD1 = Add to the atmosphere.
 
-0x963AA42D = Guard
+0x963AA42D = Охоронець
 
 0xDE67EC5A = Big City Капелюх
 
@@ -5832,7 +5832,7 @@
 
 0x61336F67 = Ammo Parcel
 
-0xE4CEF305 = Guard
+0xE4CEF305 = Охоронець
 
 0x717C7FB5 = Boxes of Regular pistol ammo, Express revolver ammo and High Velocity revolver ammo.
 
@@ -6040,7 +6040,7 @@
 
 0x48DD57A4 = Poacher
 
-0x464C5516 = Bandana
+0x464C5516 = Бандана
 
 0x3D5B4C26 = Ornamental
 
@@ -6070,7 +6070,7 @@
 
 0x14382312 = Fuentes Poncho
 
-0xFA880963 = Guard
+0xFA880963 = Охоронець
 
 0x4BF75AD4 = Legendary Emerald Wolf
 
@@ -6727,7 +6727,7 @@
 
 0x1C852CFA = Heathland Chaps
 
-0xC666D6DD = Bandana
+0xC666D6DD = Бандана
 
 0x1FC3303A = Banded Пальто
 
@@ -6819,7 +6819,7 @@
 
 0x042114D1 = Congratulations, you have been awarded ~1~ Gold Bars for your promotional item purchase.
 
-0xD6BAE76B = Guard
+0xD6BAE76B = Охоронець
 
 0x073F17F2 = DIVINATION
 
@@ -7061,7 +7061,7 @@
 
 0x13412498 = Win 5 hands of Poker
 
-0xD862E9BB = Guard
+0xD862E9BB = Охоронець
 
 0x8F87A0E0 = Skinned Legendary Moon Beaver
 
@@ -7795,7 +7795,7 @@
 
 0xB73BCA77 = Context action
 
-0xEFBA02F5 = Guard
+0xEFBA02F5 = Охоронець
 
 0xEFB502F7 = Missouri лисиця Trotter
 
@@ -7959,7 +7959,7 @@
 
 0xCAE6DE9A = Distiller's tip:~n~Avoid blackpot sugar liquor. It is an inferior product and infuses regret into the next morning.
 
-0x393B4CEF = Bandana
+0x393B4CEF = Бандана
 
 0xF4E30898 = Animals
 
@@ -8541,7 +8541,7 @@
 
 0xB36EC894 = A page from Field Diary and Notes by Harriet Davenport.
 
-0xAF60C486 = Guard
+0xAF60C486 = Охоронець
 
 0x219836C0 = Search Saddle Bag
 
@@ -8563,11 +8563,11 @@
 
 0xEE7B03B8 = Winged
 
-0x6FC88506 = Guard
+0x6FC88506 = Охоронець
 
 0xD786ECC5 = Perform Gun Spinning when dual wielding sidearms by double tapping ~INPUT_TWIRL_PISTOL~ and then quickly pressing and holding ~INPUT_EMOTE_TWIRL_GUN_HOLD~ to view your unlocked tricks.
 
-0xBBEBD12C = Guard
+0xBBEBD12C = Охоронець
 
 0x66C27C04 = Меню павзи
 
@@ -8597,7 +8597,7 @@
 
 0x58636DB6 = THE RIFLE THAT MODERNIZED FIRE POWER~n~
 
-0xDB4DF0A5 = Guard
+0xDB4DF0A5 = Охоронець
 
 0x46EB5C44 = Madam Nazar is currently visiting your Camp.
 
@@ -8729,7 +8729,7 @@
 
 0x9DDEB38D = Van Horn Buckle
 
-0x2FE94599 = Guard
+0x2FE94599 = Охоронець
 
 0xDAC8F07A = Cutter Капелюх
 
@@ -8757,7 +8757,7 @@
 
 0xBA13CFCE = Cerrada Boots
 
-0xB415C9D1 = Guard
+0xB415C9D1 = Охоронець
 
 0x25CD3B8A = Farmland Habitat categories traded in
 
@@ -8891,7 +8891,7 @@
 
 0xEE810487 = Dunster Boots
 
-0xF0910699 = Guard
+0xF0910699 = Охоронець
 
 0xE0F1F6FD = Confirm
 
@@ -9025,7 +9025,7 @@
 
 0x333349A3 = Hiragana
 
-0x34C94B3A = Guard
+0x34C94B3A = Охоронець
 
 0x20233694 = You have been gifted ~1~ Gold Bars from Rockstar.
 
@@ -9897,7 +9897,7 @@
 
 0xAC05C48D = Plantation Капелюх
 
-0xA7E1C06C = Guard
+0xA7E1C06C = Охоронець
 
 0x57216FAD = Cayuga Капелюх
 
@@ -10251,7 +10251,7 @@
 
 0xC7F0E174 = Sharpshooter Off-Hand Holster
 
-0x472260A8 = Guard
+0x472260A8 = Охоронець
 
 0x79B6933C = Ammo Parcel
 
@@ -10949,7 +10949,7 @@
 
 0x14962FED = Can be used in the Thyme Big Game recipe
 
-0xDE75F9CC = Guard
+0xDE75F9CC = Охоронець
 
 0x710B8C63 = Legendary Ram Batwing Chaps
 
@@ -11059,7 +11059,7 @@
 
 0x12842E1D = Farmhand
 
-0xD18AED25 = Bandana
+0xD18AED25 = Бандана
 
 0xEEFC0A97 = Legendary Red Streak Coyote
 
@@ -11531,13 +11531,13 @@
 
 0x5D5A7A15 = Buckskin King Vest
 
-0x82CB9F86 = Letter
+0x82CB9F86 = Письмо
 
 0x16BB3378 = Legendary Beaver
 
 0x53E370A0 = Prisoner Buckle
 
-0xCC92E950 = Guard
+0xCC92E950 = Охоронець
 
 0x671883D8 = April 2nd 1870,~n~~n~Dear Mr. Compson,~n~I'm afraid there's no more work for you down here at the Plantation. I'm grateful for the help you've given us, and the help your pappy and your pappy's pappy gave us before you. These are trying times for all of us. You are in our thoughts and prayers.~n~~n~Yours truly,~n~~n~Col. J. Nixon,~n~~n~The Ascension Plantation.
 
@@ -11973,7 +11973,7 @@
 
 0xACFCCAD3 = Icahi Hood
 
-0x63E081B8 = Guard
+0x63E081B8 = Охоронець
 
 0x53C4719F = ~1~% до рівня ~2~
 
@@ -12101,7 +12101,7 @@
 
 0xACD0CAF1 = Gerden Morrow Spurs
 
-0x0EE72D0B = Guard
+0x0EE72D0B = Охоронець
 
 0x3BB959DE = Vaquero Spurs
 
@@ -12477,7 +12477,7 @@
 
 0x5DAC7CD2 = Cotton and linen pants in a neat and modest design. This number is constantly praised by our customers. We recommend you buy a pair so that you can appreciate their enthusiasm.
 
-0xD7BAF6E1 = Bandana
+0xD7BAF6E1 = Бандана
 
 0x8119A040 = Covington Капелюх
 
@@ -12873,7 +12873,7 @@
 
 0x3EFA5F26 = Prairie Skirt
 
-0xD034F061 = Threaten
+0xD034F061 = Погрожувати
 
 0x26EB4718 = Drinks ordered at a Saloon
 
@@ -13323,7 +13323,7 @@
 
 0xC416E565 = Team 3
 
-0x45B76707 = Bandana
+0x45B76707 = Бандана
 
 0xA999CAE9 = Your recent actions have attracted the attention of the law. Leave the area before they can find you.
 
@@ -15073,7 +15073,7 @@
 
 0x9576BADD = Blue and Yellow Macaw
 
-0x75579AC0 = Guard
+0x75579AC0 = Охоронець
 
 0x7BB7A120 = Tillson Sweater
 
@@ -15931,7 +15931,7 @@
 
 0x7EBDA623 = Lazy Stovepipe Top Капелюх
 
-0x774A9EB2 = Guard
+0x774A9EB2 = Охоронець
 
 0x9315BA7F = Studies of rare creatures with uniquely patterned pelts.
 
@@ -16165,7 +16165,7 @@
 
 0x04512C42 = The body of a Wolf in poor condition displaying major damage. Can be sold.
 
-0x27BA4FAC = Guard
+0x27BA4FAC = Охоронець
 
 0x9415BC09 = Thomas Bradshaw
 
@@ -16571,7 +16571,7 @@
 
 0xC739F013 = Eyes Wide Shut +~1~
 
-0x54047CDE = Guard
+0x54047CDE = Охоронець
 
 0x68C891A3 = Wanted Fugitive
 
@@ -16755,7 +16755,7 @@
 
 0xC70AF056 = Sheep's Wool Jacket
 
-0xDF350881 = Bandana
+0xDF350881 = Бандана
 
 0x7FC8A915 = Invite Blocked. The player you tried to invite has not finished the Intro Mission.
 
@@ -16863,7 +16863,7 @@
 
 0xE22B0BB7 = The blips from your collectible map will be disappearing in less than 1 minute.
 
-0x0792311F = Bandana
+0x0792311F = Бандана
 
 0x3C5F65ED = Buckley Капелюх
 
@@ -17419,7 +17419,7 @@
 
 0xE03B0B0C = The Drover
 
-0xA4B6CF88 = Guard
+0xA4B6CF88 = Охоронець
 
 0xA8B1D384 = A sturdy cap favored by the miners of Annesburg.
 
@@ -17851,7 +17851,7 @@
 
 0x450670F7 = Oakley Boots
 
-0xE7771369 = Guard
+0xE7771369 = Охоронець
 
 0xE85C144F = You have sent invitations to all your friends.
 
@@ -18325,7 +18325,7 @@
 
 0x238550A0 = The Hereford Bull can be found at ranches across the states. It is a herbivore, living on grains, hay and corn. The average size of a bull can mean that they are harder to kill. Using a Bow with Improved Arrows, or a powerful rifle, will increase your chances when hunting. Its meat can be eaten, and its horns are useful for crafting with.
 
-0x25EF530B = Guard
+0x25EF530B = Охоронець
 
 0x972AC447 = Dreadlock
 
@@ -18479,7 +18479,7 @@
 
 0x0E163B80 = Pistol Cartridges - Split Point
 
-0x074B34B7 = Guard
+0x074B34B7 = Охоронець
 
 0x0A7637E4 = Kentucky Saddlers are classed as riding horses. They can be identified by their muscular, medium-sized frame and smooth gait. The Gray, Black, Buttermilk Buckskin, Chestnut Pinto and Silver Bay are found in the wild. The Gray coat is also purchasable from a stable. Their good nature and handling make them perfect for riding short distances. This breed is known for being healthy, but is let down by poor Speed and Acceleration.
 
@@ -18809,7 +18809,7 @@
 
 0xE5A213D5 = Legendary Coyote
 
-0x9F8ACDBE = Guard
+0x9F8ACDBE = Охоронець
 
 0xEBFE1A32 = Horror Mask
 
@@ -19121,7 +19121,7 @@
 
 0xBBA6EA91 = Train Escort Reward +~1~
 
-0xE9C018AB = Bandana
+0xE9C018AB = Бандана
 
 0x5842872F = Please return to Red Dead Redemption 2 and try again.
 
@@ -20559,7 +20559,7 @@
 
 0xBC69EF05 = Split Point Cartridge
 
-0x41887425 = Guard
+0x41887425 = Охоронець
 
 0xE43616D3 = Collect 16 tier 3 Ability Cards
 
@@ -20901,7 +20901,7 @@
 
 0x7BA4AF19 = Helsby Gloves
 
-0xEAFB1E71 = Bandana
+0xEAFB1E71 = Бандана
 
 0x7B72AEEA = Sequoia Sempervirens (Coastal Redwood)
 
@@ -21489,7 +21489,7 @@
 
 0x24FC59E3 = You are now hot. While hot, your Health Core will drain faster. Change clothes to cool down.
 
-0x58568D3D = Bandana
+0x58568D3D = Бандана
 
 0x36F06BD8 = Race
 
@@ -21537,7 +21537,7 @@
 
 0xD9880E8A = Blackcurrant
 
-0x0037353B = Guard
+0x0037353B = Охоронець
 
 0xF42C2933 = Forester Poncho
 
@@ -21903,7 +21903,7 @@
 
 0x11D847BB = Liberty Капелюх
 
-0x26665C4A = Guard
+0x26665C4A = Охоронець
 
 0xBEB4F499 = Годувати коня
 
@@ -21943,7 +21943,7 @@
 
 0x44247A22 = Sell an item to 3 shop types
 
-0x6E3BA43A = Guard
+0x6E3BA43A = Охоронець
 
 0xB323E922 = THIEF AND POLITICIAN
 
@@ -22029,7 +22029,7 @@
 
 0x60099637 = GREGORY HARRIS
 
-0xAB55E184 = Table
+0xAB55E184 = Стіл
 
 0x163F4C6E = Patterned Bandana
 
@@ -22745,7 +22745,7 @@
 
 0x44587C63 = Dance like you used to.
 
-0xEDF325FD = Bandana
+0xEDF325FD = Бандана
 
 0xD3EB0BF6 = Leather Duster
 
@@ -23067,7 +23067,7 @@
 
 0xFC9D3563 = Red Sage
 
-0xE65E1F25 = Guard
+0xE65E1F25 = Охоронець
 
 0x26585F20 = Tomahawk
 
@@ -23197,7 +23197,7 @@
 
 0x7104AA21 = Satin Ribbon
 
-0x38E57202 = Guard
+0x38E57202 = Охоронець
 
 0xD0390955 = Darrow Buckle
 
@@ -24129,7 +24129,7 @@
 
 0xA4F0E056 = Звичайний
 
-0x4D33889A = Hides your identity while committing crimes.
+0x4D33889A = Не дозволяє впізнати вас, коли ви вчиняєте злочини.
 
 0x1E6A59D2 = Wooden Swine Mask
 
@@ -24399,7 +24399,7 @@
 
 0xF8A0349E = In search of new leads for the gang, Karen, Tilly and Mary-Beth convince Arthur and Uncle to ride out to Valentine with them.
 
-0xB6CDF2CE = Consume yellow Tonics to Fortify your Bars. A Fortified Bar can be used for a short period without draining. This Tonic will Fortify your Health, Stamina and Dead Eye Bars.
+0xB6CDF2CE = Виділення жовтими тоніками форсують ваші шкали. Форсована шкала деякий час не витрачається під час використання. Цей тонік форсує ваші шкали здоров'я, витривалості та «Влучного ока».
 
 0x8BBEC7BF = Progress further in the Collector role with 1000 Collector XP.
 
@@ -24861,7 +24861,7 @@
 
 0x60A69DD3 = Murdered in unarmed combat
 
-0xBC13F943 = You have unlocked the Weapons Expert Challenge. Check your Log for more information.
+0xBC13F943 = Розблоковано випробування майстра зі зброї. Щоб дізнатися більше, відкрийте журнал.
 
 0xD6581389 = Jamie
 
@@ -24947,7 +24947,7 @@
 
 0xC89D0603 = Fur Horse Blankets
 
-0xC002FD6A = Guard
+0xC002FD6A = Охоронець
 
 0x1B065870 = Shop at Horse Trainer
 
@@ -25417,7 +25417,7 @@
 
 0x4A5C88EA = Show off those muscles.
 
-0x9F37DDC6 = Bandana
+0x9F37DDC6 = Бандана
 
 0x690BA79D = Trimmed Bandana
 
@@ -25587,7 +25587,7 @@
 
 0x876CC65E = Underweight
 
-0x6262A155 = Bandana
+0x6262A155 = Бандана
 
 0x849CC38F = Lawncliff Pants
 
@@ -26131,7 +26131,7 @@
 
 0xA3E3E421 = Fine leather 2 1/2" Gun Belt, featuring handcrafted stud embellishment and large embossed buckle.
 
-0x0B7F4BBF = Guard
+0x0B7F4BBF = Охоронець
 
 0xDD871DC8 = Експрес-патрони - карабін
 
@@ -26403,7 +26403,7 @@
 
 0x6230A305 = Get 1 select pair of Pants or 1 select Skirt безкоштовно.
 
-0xDDB11E8B = Hides your identity while committing crimes.
+0xDDB11E8B = Не дозволяє впізнати вас, коли ви вчиняєте злочини.
 
 0x88A2C97E = Calmed Horse +~1~
 
@@ -26643,7 +26643,7 @@
 
 0x4B0A8C7A = Ambarino
 
-0x47058876 = Mining Company Letter to Cornwall
+0x47058876 = Письмо гірничої команнії Корнволлу
 
 0x52B39424 = Frugality is a doubtful virtue, and many who count pennies could instead be counting much larger denominations had they the foresight to order this splendid ensemble for the Trader profession. Its purchase might insight discovery of the passions in life, where nebulous ideas burn bright.~n~
 
@@ -26753,7 +26753,7 @@
 
 0x411582C6 = A tied bandana with a coiled snake motif.
 
-0xFD353EE5 = Guard
+0xFD353EE5 = Охоронець
 
 0x1479562B = The Pioneer
 
@@ -27019,7 +27019,7 @@
 
 0xE20E2461 = Select the Plain Game recipe
 
-0x9AD2DD26 = Hides your identity while committing crimes.
+0x9AD2DD26 = Не дозволяє впізнати вас, коли ви вчиняєте злочини.
 
 0x7052B2AB = Squirrel Statue
 
@@ -27613,7 +27613,7 @@
 
 0x6D0EB0DB = Burdock Root
 
-0xBB8DFF5A = Guard
+0xBB8DFF5A = Охоронець
 
 0x609AA469 = Visit Henri Lemieux.
 
@@ -27965,7 +27965,7 @@
 
 0xEE1B32CA = Accept the latest ~HUD_COLOUR_SOCIAL_CLUB~Social Club~s~ Online Policies to upload your photos to the ~HUD_COLOUR_SOCIAL_CLUB~Social Club~s~. Do you want to sign into ~HUD_COLOUR_SOCIAL_CLUB~Social Club~s~ now?
 
-0x4EF193A2 = Hides your identity while committing crimes.
+0x4EF193A2 = Не дозволяє впізнати вас, коли ви вчиняєте злочини.
 
 0x8CD6D187 = Photograph of Mary and Arthur when they were younger.
 
@@ -27997,7 +27997,7 @@
 
 0x0D5E521E = Out of Room for Items
 
-0x6771AC32 = Bandana
+0x6771AC32 = Бандана
 
 0xCDCE128E = Витривалість
 
@@ -28135,7 +28135,7 @@
 
 0xA815ED2D = A collectible Coin.
 
-0x573F9C58 = Cigarettes
+0x573F9C58 = Цигарки
 
 0xA080E59B = Mountfleet Gloves
 
@@ -28197,7 +28197,7 @@
 
 0x9101D63E = ~1~/~2~ Carolina Parakeets Killed
 
-0x54249961 = Guard
+0x54249961 = Охоронець
 
 0xEAF83035 = A photograph gifted by Albert Mason.
 
@@ -28587,7 +28587,7 @@
 
 0xC8B10ECE = Color
 
-0xB734FD52 = Guard
+0xB734FD52 = Охоронець
 
 0xC1420760 = Все
 
@@ -29081,7 +29081,7 @@
 
 0x54DE9C3A = A feather from a Hawk. Can be used in crafting or sold.
 
-0x42298987 = Consume yellow Tonics to Fortify your Bars. A Fortified Bar can be used for a short period without draining. This Tonic will Fortify your Stamina Bar.
+0x42298987 = Вживайте виділені жовтим тоніки, щоб форсувати ваші шкали. Форсована шкала деякий час не витрачається під час використання. Цей тонік форсує вашу шкалу витривалості.
 
 0x78C0C020 = with a Volatile Fire Bottle
 
@@ -29513,7 +29513,7 @@
 
 0x37DB8036 = Legendary Midnight Paw Coyote
 
-0x80EDC948 = Bandana
+0x80EDC948 = Бандана
 
 0x75FFBE5A = Can be purchased from the Fence store
 
@@ -29529,7 +29529,7 @@
 
 0x6127A98A = The American Bison is native to the plains of New Hanover and West Elizabeth. As a herbivore, it grazes on grains, hay and corn. Due to the size of an average bison, a large amount of sedative must be administered before a sample can be safely taken.
 
-0x809FC902 = Guard
+0x809FC902 = Охоронець
 
 0x33C27C26 = Cuffed Town Pants
 
@@ -29713,7 +29713,7 @@
 
 0xC4610D39 = Nod and Shuffle
 
-0xE6AF2F88 = Bandana
+0xE6AF2F88 = Бандана
 
 0xEF9B3875 = No Shirt
 
@@ -29981,7 +29981,7 @@
 
 0xE7A33127 = OTTO WARD
 
-0x5E20A7A6 = Hides your identity while committing crimes.
+0x5E20A7A6 = Не дозволяє впізнати вас, коли ви вчиняєте злочини.
 
 0x92D8DC5F = American Paint
 
@@ -31395,7 +31395,7 @@
 
 0x552FA224 = The body of a Deer in perfect condition. Can be sold.
 
-0x6295AF8B = Guard
+0x6295AF8B = Охоронець
 
 0x12C15FB8 = Clymene Пальто
 
@@ -31827,7 +31827,7 @@
 
 0x57BDA5AA = How To Prepare
 
-0xD4882274 = Threaten
+0xD4882274 = Погрожувати
 
 0x48CF96BF = Leader
 
@@ -31983,7 +31983,7 @@
 
 0xD45022B8 = Wands Set Complete
 
-0x6CD8BB41 = Guard
+0x6CD8BB41 = Охоронець
 
 0xD1E5204E = Flower
 
@@ -32491,7 +32491,7 @@
 
 0x415390E5 = Treasure Map - North Ridgewood
 
-0x01A05133 = Guard
+0x01A05133 = Охоронець
 
 0xC2E31275 = Scarcely a few pages into the Good Book the inhabitants have the common sense to cover themselves and their shameful, shameful private parts.~n~
 
@@ -32935,7 +32935,7 @@
 
 0x8BE9DC6F = Legendary Pronghorn Range Gloves
 
-0x65FEB686 = Guard
+0x65FEB686 = Охоронець
 
 0x466E96F8 = Good Elk Pelt
 
@@ -33371,7 +33371,7 @@
 
 0xD9562AC7 = A stranger has some business for you.
 
-0x0ABF5C32 = Guard
+0x0ABF5C32 = Охоронець
 
 0x7A90CC03 = Outlaw Pass No. 5
 
@@ -33649,7 +33649,7 @@
 
 0xA009F22C = Cibola Boots
 
-0x881ADA3E = Bandana
+0x881ADA3E = Бандана
 
 0xAD50FF77 = The hide from an Ox in poor condition displaying major damage. Can be sold.
 
@@ -33747,7 +33747,7 @@
 
 0x144766AE = Civilian
 
-0xF6CE4936 = Bandana
+0xF6CE4936 = Бандана
 
 0x0EEE6159 = Everyday Overshirt
 
@@ -33951,7 +33951,7 @@
 
 0x8AF7DDF1 = Savatier Monocle
 
-0xF98D4C86 = Guard
+0xF98D4C86 = Охоронець
 
 0x7C0ECF08 = Sonoran Pronghorn Buck
 
@@ -33989,7 +33989,7 @@
 
 0xE3043616 = Law Official
 
-0x7E3DD150 = Guard
+0x7E3DD150 = Охоронець
 
 0xA0BAF3CF = Double Breasted Lapelled Vest
 
@@ -34465,7 +34465,7 @@
 
 0x6B4BBFA0 = Great Hammerhead Shark
 
-0x5976ADCC = Guard
+0x5976ADCC = Охоронець
 
 0x1011646A = VISTAS, SCENERY AND CITIES OF AMERICA
 
@@ -34869,7 +34869,7 @@
 
 0x64BCBA14 = Mabel Graves
 
-0x851CDA78 = Weapons Expert
+0x851CDA78 = Майстер
 
 0xBD051261 = A SIZEABLE REWARD IS~n~BEING OFFERED FOR THE CAPTURE~n~OF MADAME LA PERLE AKA
 
@@ -34915,7 +34915,7 @@
 
 0xAC1F019C = No
 
-0x86FCDC7A = Guard
+0x86FCDC7A = Охоронець
 
 0x3D3692B7 = Dear Mr. Varley,~n~~n~It is very regrettable that you have rejected the various extremely generous purchase offers presented to you by Cornwall, Kerosene & Tar. Mr. Cornwall has obligingly consented to allowing you a grace period of a further three weeks to reconsider your position, and we strongly advise you to do so.
 
@@ -35161,7 +35161,7 @@
 
 0x188C6E98 = Thick Center Parted
 
-0xED474353 = Train Engineer
+0xED474353 = Машиніст
 
 0xEF154521 = Duplessis Top Капелюх
 
@@ -35531,7 +35531,7 @@
 
 0x47D79ECC = Increases your chance of catching all medium and large-sized fish.
 
-0x04945B89 = Guard
+0x04945B89 = Охоронець
 
 0x070A5E04 = ~1~ of ~2~ coaches robbed or fenced
 
@@ -36581,7 +36581,7 @@
 
 0x6D0DC67C =  Bessie whinnied bravely and then raced bravely across the windswept moors furiously. She hoped, earnestly, that she could save the life of the one man that she loved and who loved her too. She would not be too late, she told herself and Bessie, pointlessly. Bessie whinnied again, still very bravely.
 
-0x7CDED64D = Bandana
+0x7CDED64D = Бандана
 
 0x6569BED9 = Stubble
 
@@ -37329,7 +37329,7 @@
 
 0x5C5AB7A0 = Wentworth Капелюх
 
-0x2ECB8A11 = Fine Brandy
+0x2ECB8A11 = Вишуканий бренді
 
 0xAF410A8A = Pacific Union Cap
 
@@ -37457,7 +37457,7 @@
 
 0x2A7C8611 = The World's Champions.~n~An illustration of Axel McCormack "Club Swinger".
 
-0xD4662FFA = Guard
+0xD4662FFA = Охоронець
 
 0x638ABF20 = Urban Gloves
 
@@ -37601,7 +37601,7 @@
 
 0x182F741F = completed
 
-0x01775D68 = Bandana
+0x01775D68 = Бандана
 
 0x8D5EE950 = Change your vehicle's livery.
 
@@ -38075,7 +38075,7 @@
 
 0x029B5F9E = Wakeeney Капелюх
 
-0x811ADE1F = Guard
+0x811ADE1F = Охоронець
 
 0xAECF0BD5 = Orla Mullan
 
@@ -38115,7 +38115,7 @@
 
 0xDDF33B10 = The classic Inkstone Капелюх, with its pinched crown and curved brim is a sure favorite. Finished with a handsome cloth band.
 
-0x97FDF51C = Bandana
+0x97FDF51C = Бандана
 
 0x2CF08A10 = Internet connection has been lost, re-establish connection to play Red Dead Online.
 
@@ -38183,7 +38183,7 @@
 
 0xBEFF1C3B = Whenever you have money set aside for the gang, you can fund the camp at ~p~~BLIP_AMBIENT_TITHING~.
 
-0xB0EF0E2C = Guard
+0xB0EF0E2C = Охоронець
 
 0xEE404B7E = All Boots
 
@@ -38265,7 +38265,7 @@
 
 0x4EDEAC44 = Ring Bell
 
-0x183C75A3 = Bandana
+0x183C75A3 = Бандана
 
 0xD9DC3744 = Outfits
 
@@ -38667,7 +38667,7 @@
 
 0x135771E2 = Those that still shop retail~n~
 
-0x14757301 = Bandana
+0x14757301 = Бандана
 
 0x0F3E6DCB = Guerrero Gun Belt
 
@@ -38685,7 +38685,7 @@
 
 0xFBA45A35 = Бармен
 
-0x087D6710 = Break Free
+0x087D6710 = Вирватися
 
 0x1B827A15 = ~1~ОД
 
@@ -38843,7 +38843,7 @@
 
 0x5345B246 = Outlaw Story Mission
 
-0x2589848D = Guard
+0x2589848D = Охоронець
 
 0x7B08DA0D = Varmint Капелюх
 
@@ -38935,7 +38935,7 @@
 
 0xC5212463 = Activate this cheat to modify your game.
 
-0xC4A423E7 = Guard
+0xC4A423E7 = Охоронець
 
 0x5B22BA68 = Ash & Hickory
 
@@ -39037,7 +39037,7 @@
 
 0x460EA591 = Hot Springs
 
-0x05926516 = Weapons Expert
+0x05926516 = Майстер зброї
 
 0x60EEC073 = Harriet's Discovery
 
@@ -39079,7 +39079,7 @@
 
 0x184277DB = A page from Traders, Mercantilism and Mongers by George Barry Esq.
 
-0xF84457DD = Guard
+0xF84457DD = Охоронець
 
 0xE2C74260 = Charcoal Filter
 
@@ -39457,7 +39457,7 @@
 
 0xE85948D6 = fended off
 
-0xBB981C15 = Guard
+0xBB981C15 = Охоронець
 
 0x225482D2 = ~COLOR_CASH_GOLD~Claim Dishonor with Reward (℅~1~)~s~
 
@@ -39629,7 +39629,7 @@
 
 0x1DBD7EAD = Problems detected while connecting to Rockstar Games Online Services. Your progress may not be saved.
 
-0xED494E3A = Guard
+0xED494E3A = Охоронець
 
 0xC5E626D9 = A MESSAGE FROM OUR HORSE DEPARTMENT:~n~
 
@@ -39865,7 +39865,7 @@
 
 0x4F8BB105 = Dispatch targets with a price on their heads.
 
-0xB1D91356 = Guard
+0xB1D91356 = Охоронець
 
 0xA3DA055A = Braid
 
@@ -39987,7 +39987,7 @@
 
 0xB9D81BB0 = Rifleman Gloves
 
-0x5762B93B = Guard
+0x5762B93B = Охоронець
 
 0x360497E1 = PACK AND PRESERVE MATERIALS
 
@@ -40095,7 +40095,7 @@
 
 0x72F4D522 = Porter Jacket
 
-0x9B39FD68 = Bandana
+0x9B39FD68 = Бандана
 
 0xC0CC2301 = ~COLOR_RED~Existing style customizations will be lost.
 
@@ -40179,7 +40179,7 @@
 
 0xB04C12BC = A collectible American Wild Flower.
 
-0xD2F13561 = Guard
+0xD2F13561 = Охоронець
 
 0x5E32C0A3 = You have learned the Split Point Ammo recipes.
 
@@ -40743,7 +40743,7 @@
 
 0x3FC9A3B0 = BETSY ROSSER
 
-0x1C7A8063 = Bandana
+0x1C7A8063 = Бандана
 
 0x4E21B20B = You regain a lot of health whenever you inflict damage. Your health otherwise regenerates at half the normal rate.
 
@@ -41637,7 +41637,7 @@
 
 0x4A25B008 = Надрізані патрони - револьвер
 
-0x9853FE36 = Guard
+0x9853FE36 = Охоронець
 
 0x62BBC8A0 = Arrow Pouch Pamphlet
 
@@ -41949,7 +41949,7 @@
 
 0x4188A842 = Fell
 
-0x0C437300 = Bandana
+0x0C437300 = Бандана
 
 0xA10907C5 = Toxic Moonshine Recipe Pamphlet
 
@@ -42157,7 +42157,7 @@
 
 0xD6E43E2A = Placeholder - needs description.
 
-0x0F11765A = Guard
+0x0F11765A = Охоронець
 
 0xC27D29C7 = 3 Gold Bars Off
 
@@ -42631,7 +42631,7 @@
 
 0x6D69D609 = Yields feathers and exotic bird meat. Used in crafting and cooking or can be sold. Use a Varmint Rifle for a clean kill.
 
-0x0D0875AA = Bandana
+0x0D0875AA = Бандана
 
 0xB1C91A6C = Traditional Vest
 
@@ -42849,7 +42849,7 @@
 
 0xAD7616AB = John's Lodging
 
-0x16CA8001 = Guard
+0x16CA8001 = Охоронець
 
 0x5E60C797 = Olmo Shirt
 
@@ -42973,7 +42973,7 @@
 
 0xAD5016DA = Bonding with a horse is imperative and oft goes beyond simple brushing.
 
-0x8F23F8AF = Bandana
+0x8F23F8AF = Бандана
 
 0xB93E22CA = Wrapped Tanned Half Chaps with tan straps. Top grain leather half chaps featuring raw hide leg wraps. A stylish necessity.
 
@@ -43405,7 +43405,7 @@
 
 0x14AB7F50 = AXIS 2 Up
 
-0x294893EF = Guard
+0x294893EF = Охоронець
 
 0x4319ADC0 = Silently kill 2 enemies
 
@@ -43589,7 +43589,7 @@
 
 0x3B65A679 =  Moonshining is a tough game but you can make a lot of money if you play it right and Maggie's the best there is. She's very fond of me so I put in a good word and set up a meeting. How soon can you get over to Emerald Ranch? There's an old abandoned saloon there that should be nice and private.~n~Just one thing... old Maggie doesn't take any chances when it comes to security. She's been crossed one too many times in the past.
 
-0x6A2CD542 = Guard
+0x6A2CD542 = Охоронець
 
 0x78CCE3E3 = Move
 
@@ -43709,7 +43709,7 @@
 
 0x074B72AB = Gunslinger Gun Belt
 
-0x18FC845D = Guard
+0x18FC845D = Охоронець
 
 0x6D57D8BA = Arabian
 
@@ -44441,7 +44441,7 @@
 
 0x8D7FFAA9 = When being robbed, focus on the attacker and press ~INPUT_SURRENDER~ to surrender.
 
-0x9401012C = Get On Train
+0x9401012C = Залізти на поїзд
 
 0x2602932E = Brenda's Letter
 
@@ -45517,7 +45517,7 @@
 
 0xBABE2A51 = Nickel
 
-0x13FB8390 = Bandana
+0x13FB8390 = Бандана
 
 0xDBA04B35 = Crusher Капелюх
 
@@ -45671,7 +45671,7 @@
 
 0xC4943480 = Gambler's Капелюх
 
-0x02827270 = Guard
+0x02827270 = Охоронець
 
 0xCFAC3F9F = Craft Ample Space for Natural Materials.
 
@@ -46123,7 +46123,7 @@
 
 0x44E9B5F2 = Seven of Wands Tarot Card
 
-0x3893A99C = Bond
+0x3893A99C = Облігації
 
 0x54C4C5CE = Boxes of Explosive pistol, revolver, repeater, rifle and shotgun ammo, along with a handful of Dynamite arrows.
 
@@ -46641,7 +46641,7 @@
 
 0x9ADD0D07 = Clear 4 hideouts in a day
 
-0xDB074D34 = Guard
+0xDB074D34 = Охоронець
 
 0x8B9AFDC8 = A collection of pennies.
 
@@ -48452,7 +48452,7 @@
 
 0x438CBA55 = Frumpy Shirt
 
-0xC7443E0E = Chocolate Bar
+0xC7443E0E = Шоколадна плитка
 
 0x68E3DFAF = Ribbon Tie
 
@@ -48724,7 +48724,7 @@
 
 0x9D5D14E4 = Rawback Ring
 
-0x6D11E499 = Guard
+0x6D11E499 = Охоронець
 
 0x3312AA9C = General Cornelius Palmer - General
 
@@ -48994,7 +48994,7 @@
 
 0x0A8D82A8 = The skinned body of a duck in perfect condition. Can be taken to a Butcher and sold for cash.
 
-0x468CBEA7 = Desk
+0x468CBEA7 = Письмовий стіл
 
 0xCA534270 = Kennewick Glasses
 
@@ -49086,7 +49086,7 @@
 
 0x5A7BD2D4 = The Arcadian
 
-0x3C47B4A0 = Candy
+0x3C47B4A0 = Солодощі
 
 0x3850B0AA = Bill Williamson
 
@@ -49120,7 +49120,7 @@
 
 0xF8F27161 = Legendary Rutile Horn Ram Sample
 
-0x763CEEAC = Guard
+0x763CEEAC = Охоронець
 
 0x8CD10541 = The Zacateca
 
@@ -49190,7 +49190,7 @@
 
 0x881200A6 = Heathland Chaps
 
-0xE8D8616D = Guard
+0xE8D8616D = Охоронець
 
 0xA5301DC6 = Most Wanted
 
@@ -50014,7 +50014,7 @@
 
 0x11668BF4 = Forester Poncho
 
-0x38FFB38E = Bandana
+0x38FFB38E = Бандана
 
 0x6287DD16 = Oceanic Fossils
 
@@ -50326,7 +50326,7 @@
 
 0xE5EB6137 = Studded Pants
 
-0x415DBCAB = Guard
+0x415DBCAB = Охоронець
 
 0xD7B65305 = A collection of royal items.
 
@@ -50766,7 +50766,7 @@
 
 0x1F089B6F = We present to you The Carthage.~n~
 
-0xFE617AC8 = A few days later...
+0xFE617AC8 = Кілька днів по тому...
 
 0x0AD0873D = You attacked Micah's horse.
 
@@ -51178,7 +51178,7 @@
 
 0xB38B30FB = Use
 
-0x3572B2E4 = Guard
+0x3572B2E4 = Охоронець
 
 0xFFA27D17 = Complete with at least 90% accuracy
 
@@ -51232,7 +51232,7 @@
 
 0xB35630E8 = Fauna of America Card 3
 
-0xEB3968CB = Guard
+0xEB3968CB = Охоронець
 
 0xE3906123 = The Hemiston
 
@@ -52090,7 +52090,7 @@
 
 0xBFF63FCC = Charleston Top Капелюх
 
-0x3E7ABE53 = Guard
+0x3E7ABE53 = Охоронець
 
 0x0A1689EF = Higgins Bandolier
 
@@ -52928,7 +52928,7 @@
 
 0xCEEB50DE = Kelley Boots
 
-0x2F21B117 = Guard
+0x2F21B117 = Охоронець
 
 0x809A0290 = Kladruber
 
@@ -52994,7 +52994,7 @@
 
 0xB3AC35D1 = Farley Shirt
 
-0xA8E12B08 = Lock Box
+0xA8E12B08 = Сейф
 
 0xC69348BA = Seller
 
@@ -53390,7 +53390,7 @@
 
 0xCC3E4F47 = After arriving at the river, catch a fish within 1 minute 30 seconds
 
-0xE9AD6CB7 = A few days later...
+0xE9AD6CB7 = Кілька днів по тому...
 
 0xBC2F3F3E = Blood Money Crimes completed
 
@@ -53480,7 +53480,7 @@
 
 0xFE288167 = Personal possessions that Penelope Braithwaite wants to take with her when she elopes.
 
-0xBB7F3EC0 = Guard
+0xBB7F3EC0 = Охоронець
 
 0x3358B69A = The body of a Turkey in perfect condition. Can be sold.
 
@@ -53552,7 +53552,7 @@
 
 0x906C13CF = THOUGH THESE PASS REWARDS WILL STAY WITH YOU, THE QUICK DRAW CLUB NO. 2 IS ONLY AVAILABLE DURING THE CLUB MEMBERSHIP PERIOD.
 
-0x26B0AA16 = Bandana
+0x26B0AA16 = Бандана
 
 0xF3137679 = Enemy Posse Camp
 
@@ -53598,7 +53598,7 @@
 
 0x83ED076C = Visit your Moonshine Shack to make, market and sell moonshine. Talk to Maggie Fike to upgrade your shack and equipment.
 
-0xBC173F9A = Bandana
+0xBC173F9A = Бандана
 
 0x7BDAFF61 = Bowler Капелюх
 
@@ -53686,7 +53686,7 @@
 
 0x1FB4A36D = Stew Pot
 
-0x003283EC = Guard
+0x003283EC = Охоронець
 
 0xB9F73DB1 = Riding Gloves
 
@@ -53732,7 +53732,7 @@
 
 0xCA814E58 = Q
 
-0xB475384E = Guard
+0xB475384E = Охоронець
 
 0xD40657DF = Trelawny
 
@@ -53828,7 +53828,7 @@
 
 0xEBDC6FED = An uncommon Leopard coat can be found in the wild
 
-0xC16A457C = knife kills
+0xC16A457C = Ворогів вбито ножем
 
 0x4D0ED121 = Pencil Mustache
 
@@ -53874,7 +53874,7 @@
 
 0x610CE540 = Mock the cowardly.
 
-0xDF4F6383 = Guard
+0xDF4F6383 = Охоронець
 
 0xA2FF2734 = Bart Cavanaugh is wanted dead or alive for multiple accounts of assault, intimidation and destruction of property. A $60 reward is offered for bringing him in.
 
@@ -53946,7 +53946,7 @@
 
 0x2868ACD3 = Dunster Pants
 
-0x3677BAE5 = Guard
+0x3677BAE5 = Охоронець
 
 0x35CEBA3E =  We are, somehow, worse than fools, for we will ourselves to do things of such profound stupidity despite knowing that we will hate what we have built. Who likes a factory? Which man's soul was ever lifted up by a tenement building? Who enjoys seeing working men reduced to wretches and their wives and children treated not as cherished members of a family but as an awful burden? We need better, and yet better is all around, better is America.
 
@@ -54154,7 +54154,7 @@
 
 0x2FDEB4B8 = Goggle Mask
 
-0x3AD0BFAB = Bandana
+0x3AD0BFAB = Бандана
 
 0x9FD724B1 = Fully restores Health Core, Stamina Core and Dead Eye Core and yields a Gold Health Core for a day.
 
@@ -54210,7 +54210,7 @@
 
 0x16F69BF5 = to see what is coming. Place a shot between the eyes, take the fur, and throw the rest in the stew pot.~n~~n~THE SKUNK~n~Those who raise game birds or chickens are likely to hate the skunk for marauding about henhouses, but farmer and forester alike should leave these beasts alone. Many take to shooting skunks for sport, however they eat quite a large amount of insect larvae, which helps crops and prevents infestation of moths and caterpillars.
 
-0xA9642E63 = Bandana
+0xA9642E63 = Бандана
 
 0xA280277F = Seaward Капелюх
 
@@ -54224,7 +54224,7 @@
 
 0x204EA558 = Owanjila Капелюх
 
-0x2971AE7C = Bandana
+0x2971AE7C = Бандана
 
 0xE06C6576 = A bounty poster for Mr Black & Mr White, escapees from a chain gang.
 
@@ -55144,7 +55144,7 @@
 
 0x50F2D814 = Worn Flat Cap
 
-0xCD175438 = Guard
+0xCD175438 = Охоронець
 
 0x1079979D = Return to Professor Bell
 
@@ -55706,7 +55706,7 @@
 
 0xB6F13F6B = A box of express ammunition, providing incredible stopping power. Contains 60 cartridges.
 
-0x6304EB7F = Guard
+0x6304EB7F = Охоронець
 
 0xE96271DD = Tempered Steel
 
@@ -56034,7 +56034,7 @@
 
 0x4D82D6C5 = K
 
-0xAEC8380B = Bandana
+0xAEC8380B = Бандана
 
 0x4809D14E = Locate Mark Johnson at Siltwater Strand
 
@@ -56046,7 +56046,7 @@
 
 0xC803514C = Pelt Half Chaps
 
-0x88B81202 = Bill Stack
+0x88B81202 = Пачка купюр
 
 0xAB31347B = 500 Naturalist XP
 
@@ -56208,7 +56208,7 @@
 
 0x3961C30C = Inspect Guard Note
 
-0xDD5D6708 = Guard
+0xDD5D6708 = Охоронець
 
 0xB0B83A63 = Hitched Skirt
 
@@ -56274,7 +56274,7 @@
 
 0x95631F36 = Upgrade the camp's main campfire
 
-0x7CB4068A = Guard
+0x7CB4068A = Охоронець
 
 0xFE75884D = Bitten ~1~
 
@@ -56426,7 +56426,7 @@
 
 0xD2855CBC = Tanguma Double Bandolier
 
-0x66B3F0EF = Guard
+0x66B3F0EF = Охоронець
 
 0x5E11E84F = Devon Oxen can be found on ranches and farms across West Elizabeth, New Hanover and Lemoyne. As herbivores, their main diet consists of common roughage including grasses, hay, and silage. Oxen are tough and will require a large number of shots to be sedated.
 
@@ -57054,7 +57054,7 @@
 
 0x738FFF38 = Gus has enough ingredients to craft.
 
-0x1802A3AC = Guard
+0x1802A3AC = Охоронець
 
 0x9FCF2B78 = Victorian
 
@@ -57222,7 +57222,7 @@
 
 0xC2194E17 = Bibbed Shirt
 
-0xD3115F14 = Guard
+0xD3115F14 = Охоронець
 
 0x2AA5B6AB = Наразi неможливо пiдключитися до сервiсiв iгор Rockstar. Будь-ласка спробуйте пiзнiше. (Error: 0x~1~)
 
@@ -57602,7 +57602,7 @@
 
 0xDEC86BB3 = Bayou Nwa
 
-0xC580526C = Bandana
+0xC580526C = Бандана
 
 0xB8974587 = Foreman
 
@@ -59094,7 +59094,7 @@
 
 0x803910B5 = Beatriz Abril
 
-0x33F6C476 = Bandana
+0x33F6C476 = Бандана
 
 0x3481C501 = 4 Supplies
 
@@ -59214,7 +59214,7 @@
 
 0x05879658 = Clear Bounty
 
-0x18C0A991 = Oil Company Letter to Cornwall
+0x18C0A991 = Письмо нафтовій компанії Корнволлу
 
 0x2E8EBF60 = Sheep's Wool Jacket
 
@@ -59392,7 +59392,7 @@
 
 0x65FAF756 = TELEGRAPH.
 
-0xB4D24633 = Bandana
+0xB4D24633 = Бандана
 
 0xE77178D4 = CASH IN FULL MUST BE SENT WITH YOUR ORDER. Otherwise it will be returned with a small percentage taken out for post. At times one of our factories is involved in a labor strike, fails in business, is wiped clean by yellow fever or cholera, or is destroyed by fire with all employees mysteriously locked inside after a labor dispute. If you include a second choice we will take that into consideration when we are out of an article. We also advise ordering by weight and having goods sent by freight. If you need a rifle or gun, order 50 or 100 from our big catalogue and save on shipping. When they arrive in a crate, you will delight in the idea that a Schofield Revolver by Hutton & Baird can be stuffed in every boudoir, credenza, commode, under the floor boards, in your daughter's crib, in the pantry, the root cellar, the well, the hayloft, in your underpinnings, behind the mantle, next to your tobacco pouch, and inside the icebox. Friend, anywhere that it is possible you will be threatened you will be able to reach for the one thing that will protect your honesty and dignity.
 
@@ -59422,7 +59422,7 @@
 
 0x8C401DAF = You have found a suit of Pentacles Tarot Card. Collect all 14 cards of this suit to complete the set.
 
-0xB68F47FF = Letter
+0xB68F47FF = Письмо
 
 0x9C852DF5 = Actress - Robin Koninsky
 
@@ -60458,7 +60458,7 @@
 
 0x44EDD903 = The Rancher
 
-0xBC75508B = Guard
+0xBC75508B = Охоронець
 
 0x24F0B907 = More effective than store bought brands such as Buck Dingles.
 
@@ -61006,7 +61006,7 @@
 
 0x7FF11541 = Laborer Overshirt
 
-0x4B46E097 = Bandana
+0x4B46E097 = Бандана
 
 0x6DEF0340 = Hartman Jacket
 
@@ -61458,7 +61458,7 @@
 
 0x383ECEA6 = Churchwell Vest
 
-0x5141E7AD = Bandana
+0x5141E7AD = Бандана
 
 0x02159883 = ПРОВАЛ
 
@@ -61908,7 +61908,7 @@
 
 0xF6598DC9 = Strauss needs to speak to you.
 
-0x73EA0B5B = Guard
+0x73EA0B5B = Охоронець
 
 0x21CCB93E = Gibbston Pants
 
@@ -62494,7 +62494,7 @@
 
 0xEE4A872D = Charlotte
 
-0xD2326B19 = Guard
+0xD2326B19 = Охоронець
 
 0xB71F5006 = ~s~You cannot afford this property at this time.~s~
 
@@ -63352,7 +63352,7 @@
 
 0x026D9D6E = enemies killed from horseback
 
-0xBA305534 = Guard
+0xBA305534 = Охоронець
 
 0x95D230D6 = Sage
 
@@ -63622,7 +63622,7 @@
 
 0x91C32D6B = Tonics
 
-0x0D92A93D = Guard
+0x0D92A93D = Охоронець
 
 0xD70372AD = Riggs Fringe Пальто
 
@@ -63814,7 +63814,7 @@
 
 0x263DC25A = Before replaying a mission, the game will create a restore point. Once the replay has ended you will be returned to this point. Do you want to continue?
 
-0x8EFA2B16 = Guard
+0x8EFA2B16 = Охоронець
 
 0x10C1ACE0 = Hungarian Halfbred - Flaxen Chestnut Пальто
 
@@ -63866,7 +63866,7 @@
 
 0xC763639F = cash earned from selling moonshine
 
-0x150FB14C = Guard
+0x150FB14C = Охоронець
 
 0xA4D1410F = Worn Stovepipe Top Капелюх
 
@@ -63890,7 +63890,7 @@
 
 0xB7E75437 = Freak Mask
 
-0x1414B066 = Guard
+0x1414B066 = Охоронець
 
 0x4B13E766 = Legendary Bison Batwing Chaps
 
@@ -64398,7 +64398,7 @@
 
 0x12A2B02C = Your bounty value is now very high and it will be difficult to lose pursuing Bounty Hunters.
 
-0x550BF295 = Bandana
+0x550BF295 = Бандана
 
 0x598BF717 = Winter Shotgun Пальто
 
@@ -64546,7 +64546,7 @@
 
 0x2AE0C8B6 = HIGH QUALITY, TRUE VALUE.~n~
 
-0x7D8B1B61 = Guard
+0x7D8B1B61 = Охоронець
 
 0x5F7AFD52 = You found a Cigarette Card. Once all cards in a set have been located, you can mail the set to Phineas T. Ramsbottom from any Post Office.
 
@@ -65346,7 +65346,7 @@
 
 0x120CB204 = Share the joke.
 
-0x457EE576 = Bandana
+0x457EE576 = Бандана
 
 0x4F55EF4E = Sunderland Капелюх
 
@@ -66862,7 +66862,7 @@
 
 0xB81C5BD7 = The Hettinger
 
-0x86882A43 = Bandana
+0x86882A43 = Бандана
 
 0xDD3D80F8 = Skulls
 
@@ -67140,7 +67140,7 @@
 
 0xD8ED7D54 = View Dance Performance
 
-0xE77C8BE9 = Guard
+0xE77C8BE9 = Охоронець
 
 0x8CD2313F = Experiment Notes 4
 
@@ -68444,7 +68444,7 @@
 
 0xF9A1A145 = The body of a Water Snake in perfect condition. Can be sold.
 
-0x5FE10785 = Guard
+0x5FE10785 = Охоронець
 
 0x596F0114 = Get 30% RDO$ off a select Established or Distinguished item from any of your current Roles.
 
@@ -69560,7 +69560,7 @@
 
 0xE2928CE5 = miles dragged an enemy with a lasso from horseback
 
-0x1602C058 = Guard
+0x1602C058 = Охоронець
 
 0x65F31049 = Chumley Flat Cap
 
@@ -70008,7 +70008,7 @@
 
 0xE1058C69 = Revive
 
-0xD3C37F27 = Guard
+0xD3C37F27 = Охоронець
 
 0x5CE00845 = Goodman Gun Belt
 
@@ -70038,7 +70038,7 @@
 
 0x0933B4AE = A letter from a loving cousin.
 
-0xB0835C01 = Dear Leviticus,~n~Thank you for the telegram and for your continued interest in the Jameson mining company. However, any news you have received of mismanagement or financial difficulties at the mine in Annesburg are simply fake and I would urge you to question your sources.
+0xB0835C01 = Дорогий Левіт!~n~Дякую вам за телеграму та за цікавість до гірничодобувної компанії Jameson. Однак все, що вам говорять про погане управління та фінансову скруту на шахті в Аннесберзі, – чиста брехня. Я б закликав вас засумніватися у своїх джерелах.
 
 0x556B00ED = Military Slouch Капелюх
 
@@ -70222,7 +70222,7 @@
 
 0xF9AAA5A2 = Basic Grain
 
-0x1C38C831 = Guard
+0x1C38C831 = Охоронець
 
 0x3E1EEA1A = Nosalida Sombrero
 
@@ -70580,7 +70580,7 @@
 
 0x245BD131 = The Tilliston
 
-0x894F3625 = Guard
+0x894F3625 = Охоронець
 
 0x3167DE3E = Murfree
 
@@ -70942,7 +70942,7 @@
 
 0xB31460D3 = Lautnip Shirt
 
-0x6F171CD7 = Guard
+0x6F171CD7 = Охоронець
 
 0x77432507 = Worsted Пальто
 
@@ -70988,7 +70988,7 @@
 
 0xD8E486C0 = Автозбереження вимкнено. Ви можете знову увімкнути його в розділі «Загальне» в меню паузи.
 
-0xB2E260BF =  The coal industry is quite different from the oil industry in a number of ways so I certainly remain open to a business meeting at your convenience to exchange ideas and educate each other on our respective areas of corporate expertise. I would also be delighted to host you in Annesburg and give you a personal tour of the mine and its associated facilities. I look forward to further correspondence.~n~Yours sincerely,~n~Archibald Jameson
+0xB2E260BF = Вуглевидобувна промисловість багато в чому відрізняється від нафтовидобувної, і тому я, зі зрозумінням, готовий зустрітися з вами, коли вам це завгодно, щоб обмінятися ідеями та просвітити один одного щодо наших сфер діяльності. Крім того, я був би радий прийняти вас в Аннесберзі та особисто показати вам шахту та пов'язані з нею споруди. Чекатиму листи від вас.~n~Щиро Ваш,~n~Арчібальд Джеймсон
 
 0x4CD7FAB6 = Legendary Fish of the Southern United States of America
 
@@ -72214,7 +72214,7 @@
 
 0x293FDA06 = Your horse ~1p~ has recovered and is available for use.
 
-0xA67D5745 = Search Desk
+0xA67D5745 = Обшукати стіл
 
 0xC3917459 = Item Crafted +~1~
 
@@ -72344,7 +72344,7 @@
 
 0x4195F29B = killed
 
-0x49AAFAB1 = Guard
+0x49AAFAB1 = Охоронець
 
 0x9D8E4E98 = Multi-Class
 
@@ -73124,7 +73124,7 @@
 
 0xB19E64C1 = Eufaula Buckled Boots
 
-0x9F7A529D = Hides your identity while committing crimes.
+0x9F7A529D = Не дозволяє впізнати вас, коли ви вчиняєте злочини.
 
 0xD4558779 = Buck is known for the best quality High Velocity Repeater Cartridges. What exciting scenes these cartridges have passed through, often to the surprise of the people attending.
 
@@ -73160,11 +73160,11 @@
 
 0x67EB1B23 = The Legendary Ridgeback Spirit Bear is occasionally seen near Little Creek River. The distinctive red stripe down its back makes it easily recognizable. These bears are extremely aggressive. If you must approach, do so with caution. They are active during daylight hours and retreat at night, preferring bright, clear weather for hunting.
 
-0xBBCF6F08 = Open Desk
+0xBBCF6F08 = Відкрити стіл
 
 0x99F74D31 = Upgrade for 25 Gold Bars and progress through all 25 Ranks of ~COLOR_VIP~The Quick Draw Club No. 3~s~ to unlock the following Rewards:~n~- 25 Gold Bars~n~- The Bagshot Knife~n~- The Layham Jacket~n~- The Beadnell Sight~n~- The Chatsworth Vest~n~- And much more~n~
 
-0x0D40C07C = Guard
+0x0D40C07C = Охоронець
 
 0x4400F73D = Cleaver
 
@@ -74138,7 +74138,7 @@
 
 0x1ED5D45F = Tornado Boots
 
-0xD35C88E7 = Bandana
+0xD35C88E7 = Бандана
 
 0xDA889014 = Permanently increases the duration of Fortifying tonic effects by 20%.
 
@@ -74262,7 +74262,7 @@
 
 0xC2F278C6 = Knockout +~1~
 
-0xDA3A900F = Bandana
+0xDA3A900F = Бандана
 
 0x01D3B7AE = No Pants
 
@@ -74472,7 +74472,7 @@
 
 0x0326B97C = Suit of Pentacles Tarot Cards
 
-0xBED07528 = Хто, чорт забирай, цей Левіт Корнуолл?
+0xBED07528 = Хто, чорт забирай, цей Левіт Корнволл?
 
 0x0113B76C = Hollyfield Bloomers
 
@@ -74484,7 +74484,7 @@
 
 0x129BC8F8 = Moonshine Bar - Changed décor
 
-0x672E1D8C = Guard
+0x672E1D8C = Охоронець
 
 0x380AEE6E = Bare Knuckle Friendships
 
@@ -74806,7 +74806,7 @@
 
 0x380EEF3F = Homing Tomahawk
 
-0xD5058C35 = Bandana
+0xD5058C35 = Бандана
 
 0x090CC03D = Pronghorn Dung
 
@@ -74942,7 +74942,7 @@
 
 0x2C03E39C = Cardenas Poncho
 
-0xDD1E94B7 = Bandana
+0xDD1E94B7 = Бандана
 
 0x50F5088F = SIMON FRY
 
@@ -74956,7 +74956,7 @@
 
 0x67DA1F78 = Visit Gus to craft this saddlebag.
 
-0x878E3F2D = Guard
+0x878E3F2D = Охоронець
 
 0x6CE02480 = The text you have entered is too short. Please try again.
 
@@ -75256,7 +75256,7 @@
 
 0xB8A370F5 = WE BRING YOUR ATTENTION TO ONE OF THE FINEST OUTFITS WE HAVE ON OFFER.~n~
 
-0x488000D3 = Pull
+0x488000D3 = Напружися
 
 0x9D435597 = Lockbox
 
@@ -75570,7 +75570,7 @@
 
 0xE8E0A1F3 = Floral Pin
 
-0x71A82ABD = Bandana
+0x71A82ABD = Бандана
 
 0xABA564BD = The Timber Wolf is native to the Cumberland Forest and the Grizzlies. Its carnivorous diet consists of elk, mice, rabbits, and squirrels. Be prepared to administer multiple shots of sedative.
 
@@ -76616,7 +76616,7 @@
 
 0xDC2897CD = Upgrades and Services
 
-0x613E1CE4 = Bandana
+0x613E1CE4 = Бандана
 
 0x081CC3C5 = Boucher Пальто
 
@@ -77088,7 +77088,7 @@
 
 0x74AD3169 = Unable to connect to Rockstar game services to validate text at this time. Please try again.
 
-0x3DDEFA9B = Bandana
+0x3DDEFA9B = Бандана
 
 0x5E0C1AC9 = ~e~Item Sold: ~a~ x~1~~s~
 
@@ -77154,7 +77154,7 @@
 
 0x0778C451 = Cinched Jacket
 
-0x2945E61E = Hides your identity while committing crimes.
+0x2945E61E = Не дозволяє впізнати вас, коли ви вчиняєте злочини.
 
 0xBE737B4D = WANTED for acts of VANDALISM against the Central Union Railroad, and the harassment of its staff. BAVARIAN BORN, RAITH was raised AMERICAN, but retains the CHOLERIC TEMPERAMENT of his ancestors.
 
@@ -77192,7 +77192,7 @@
 
 0xE66CA361 = Thorogood Gloves
 
-0x16D9D3D4 = Guard
+0x16D9D3D4 = Охоронець
 
 0xF0EFADE9 = For Your Horse's General Health.
 
@@ -77628,7 +77628,7 @@
 
 0x2C59EA4F = Hunting southeast of Strawberry, this coyote is well-known to the local people, even if few have seen it firsthand. With unique yellow eyes and black fur, it is easily distinguished from the more common coyotes in the area.
 
-0x2B85E97F = Guard
+0x2B85E97F = Охоронець
 
 0xEFC6ADC0 = Gypsy Cob - Skewbald Пальто
 
@@ -77676,7 +77676,7 @@
 
 0x12CFD0E0 = Stock Sights
 
-0xE9B3A7C5 = Guard
+0xE9B3A7C5 = Охоронець
 
 0xF163AF76 = Reforming Posse...
 
@@ -78450,7 +78450,7 @@
 
 0x4512050D = Explosive Slug Pamphlet
 
-0x2BA9EBA6 = Guard
+0x2BA9EBA6 = Охоронець
 
 0x210CE10C = The Gladewater
 
@@ -78670,7 +78670,7 @@
 
 0x10D0D160 = Dunster Neckerchief
 
-0x7B713C03 = Bandana
+0x7B713C03 = Бандана
 
 0xF384B416 = Chicago, Illinois
 
@@ -78800,7 +78800,7 @@
 
 0xECC1ADA3 = Letter from Miss Marjorie
 
-0xFBB6BC98 = Bandana
+0xFBB6BC98 = Бандана
 
 0x2FB1F098 = Paytah
 
@@ -79114,7 +79114,7 @@
 
 0xA64867DE = A collectible Family Heirloom.
 
-0x0573C70B = Guard
+0x0573C70B = Охоронець
 
 0x5BB71D4E = Hinxman Капелюх
 
@@ -79338,7 +79338,7 @@
 
 0x23DAE615 = No finer outfits can be purchased anywhere at any price. Take this perfectly curated outfit, suitable for one who has developed social instincts that favor mettle over moxie. It dispenses with the impuissant frills and furbelows, and instead is tailored to one equally adept at debudding a sheep or warning off road agents from the mesa above.
 
-0x782E3A69 = Bandana
+0x782E3A69 = Бандана
 
 0xADE97028 = Vintage Civil War Handcuffs. Reward for collecting any Card Set.
 
@@ -79366,7 +79366,7 @@
 
 0xB87A7AC4 = Slightly restores Stamina Core or slightly restores Horse Stamina Core.
 
-0xE7D1AA1D = Bandana
+0xE7D1AA1D = Бандана
 
 0xA3EF663C = ALL OF WHICH GIVE A VERY RARE PERSONAL MAGNETISM THAT CAN ONLY BE ACQUIRED THROUGH CATALOGUE COMMERCE.~n~
 
@@ -79658,7 +79658,7 @@
 
 0xE21CA519 = Looters
 
-0xDBA89EA6 = Guard
+0xDBA89EA6 = Охоронець
 
 0x46DA09DD = WILLIAM AND HENRY BAKER
 
@@ -79760,7 +79760,7 @@
 
 0xA39B66DE = You actioned
 
-0x4D331079 = Guard
+0x4D331079 = Охоронець
 
 0xC521886A = A cleaned buck skull and antlers to be proudly displayed in camp.
 
@@ -79774,7 +79774,7 @@
 
 0xB639798D = Dunsinnan Boots
 
-0xE126A47B = Bandana
+0xE126A47B = Бандана
 
 0xD4319786 = Legendary Ram Hide
 
@@ -80752,7 +80752,7 @@
 
 0xB2FA78A4 = Avery Gloves
 
-0x3069F614 = Letter
+0x3069F614 = Письмо
 
 0x97F75DA2 = A set of four heavy skulls, shaped to comfortably cover the knuckles.
 
@@ -80952,7 +80952,7 @@
 
 0x163BDC69 = The Carthage
 
-0x43FB0A29 = Guard
+0x43FB0A29 = Охоронець
 
 0x98355E63 = Used in cooking. Slightly restores Health Core or slightly restores Horse Health Core.
 
@@ -81110,7 +81110,7 @@
 
 0x6DFA3482 = Progress further in the Naturalist Role with 1000 Naturalist XP.
 
-0xCC9F9327 = Guard
+0xCC9F9327 = Охоронець
 
 0xAECC7555 = Then, as we were fleeing east over the Grizzlies, an almighty storm hit us.~n~~n~Davey Callendar, who had got shot in the gut on the raid, passed away. It was brutal to watch, and the rest of us nearly froze, but we found shelter and have been resting here in some old, abandoned mining town while we await the thaw.
 
@@ -81318,7 +81318,7 @@
 
 0xBDAA84C7 = Gentlemans Effects
 
-0xDCBFA3DD = Guard
+0xDCBFA3DD = Охоронець
 
 0xE22DA94B = Investigate the homestead.
 
@@ -81446,7 +81446,7 @@
 
 0xA25C69BB = Menasco Капелюх
 
-0x809947FC = Hides your identity while committing crimes.
+0x809947FC = Не дозволяє впізнати вас, коли ви вчиняєте злочини.
 
 0xBC6983CC = Poisoned
 
@@ -82254,7 +82254,7 @@
 
 0xF99BC30A = Knitted Gloves
 
-0xE5F2AF62 = Guard
+0xE5F2AF62 = Охоронець
 
 0x2D82F6F5 = Gladewater Капелюх
 
@@ -82334,7 +82334,7 @@
 
 0xACD17673 = Salizzo Double Bandolier
 
-0x749F3E41 = Guard
+0x749F3E41 = Охоронець
 
 0x62E82C8B = townsfolk held up
 
@@ -82757,7 +82757,7 @@
 
 0xFFB7CA5A = You can interact with the shopkeeper by holding ~INPUT_INTERACT_LOCKON~ and selecting the appropriate option.
 
-0x0578D01C = Bandana
+0x0578D01C = Бандана
 
 0x983662D9 = Iguga Buckle
 
@@ -82857,7 +82857,7 @@
 
 0xF546C021 = A sample from the Legendary Cross лисиця.
 
-0xC3AD8E89 = Guard
+0xC3AD8E89 = Охоронець
 
 0xC2E68DC3 = GUS PARKER EDWARDS
 
@@ -83081,7 +83081,7 @@
 
 0xFDF1C974 = A drawing of Jeremiah Compson by young Josh.
 
-0x743E3FC1 = Letter to Leviticus Cornwall from Archibald Jameson
+0x743E3FC1 = Письмо Левіту Корнволлу від Арчібальда Джеймсона
 
 0xA4E07064 = Civilian
 
@@ -83367,7 +83367,7 @@
 
 0xBDCE89F6 = Weapons degrade slower.
 
-0xF08DBCB5 = Bandana
+0xF08DBCB5 = Бандана
 
 0xC3E79012 = No Bracelet
 
@@ -83377,7 +83377,7 @@
 
 0x43350F61 = ~1~, and from ~2~
 
-0x857351A4 = Guard
+0x857351A4 = Охоронець
 
 0x829A4ECC = Silver
 
@@ -85155,7 +85155,7 @@
 
 0x412911DC = Met a loud mouthed idiot hunting for treasure. Stole his map. Wonder if I'll find anything.
 
-0x439A1453 = Guard
+0x439A1453 = Охоронець
 
 0xF32CC3E5 = Coach coming south down the river road through Siltwater Strand. Valuables in strongbox. Passenger is the very wealthy Mrs Chester Damsen. Aspiring but appalling opera singer. Use your imagination!
 
@@ -85517,7 +85517,7 @@
 
 0x955466ED = Tailored Suit Jacket
 
-0x396D0B06 = Letter to Leviticus Cornwall from Leland Oil Development Company
+0x396D0B06 = Письмо Левіту Корнволлу від Leland Oil Development Company
 
 0xCD569EEF = The Promising Bounty Hunter's outfit of choice.
 
@@ -86867,7 +86867,7 @@
 
 0xAB518014 = Travel by canoe
 
-0x0C48E10C = Bandana
+0x0C48E10C = Бандана
 
 0x9E56731B = Fully restores all Cores and yields Gold Cores for 3 days. Once made, will last for 3 days at camp.
 
@@ -87003,7 +87003,7 @@
 
 0x6CC741D8 = PROMINENT AMERICANS
 
-0xEF17C429 = Guard
+0xEF17C429 = Охоронець
 
 0x10DDE5F0 = A simple sketched map showing a landmark and other clues to a possible treasure in Annesburg.
 
@@ -87135,7 +87135,7 @@
 
 0x33CF093B = The Gladewater
 
-0x863D5BAA = Guard
+0x863D5BAA = Охоронець
 
 0x39730EE1 = A known drunk and troublemaker, HICKMAN was seen assisting the DAISY REEVES GANG during their BLOODY RAID on a supply wagon.
 
@@ -87255,7 +87255,7 @@
 
 0x50A52659 = miles traveled as a coach passenger
 
-0xF8FDCEB1 = Bandana
+0xF8FDCEB1 = Бандана
 
 0xE589BB3D = Sending to Facebook...
 
@@ -87369,7 +87369,7 @@
 
 0x576D2D65 = MEN GAZING UPON THESE PAGES WILL BE DRAWN TO THE WAY THIS MAGNIFICENT OUTFIT ADHERES TO ALL OF THE ETERNAL LAWS OF COSTUME.~n~
 
-0x7A5D5056 = Bandana
+0x7A5D5056 = Бандана
 
 0x02D3D8CE = Salter Shoes
 
@@ -87381,7 +87381,7 @@
 
 0x0582DB84 = ~1~ of ~2~ Found
 
-0x4DC423C8 = Guard
+0x4DC423C8 = Охоронець
 
 0x5BC531CA = Del Lobo
 
@@ -88383,7 +88383,7 @@
 
 0xC2379A9D = Knitted Gloves
 
-0x2399FC00 = Guard
+0x2399FC00 = Охоронець
 
 0x59F5325D = Dog
 
@@ -88695,7 +88695,7 @@
 
 0x4A5A237F = Owen Colt
 
-0x53F42D1C = Consume yellow Tonics to Fortify your Bars. A Fortified Bar can be used for a short period without draining. This Tonic will Fortify your Dead Eye Bar.
+0x53F42D1C = Вживайте виділені жовтим тоніки, щоб форсувати ваші шкали. Форсована шкала деякий час не витрачається під час використання. Цей тонік форсує вашу шкалу «Влучного ока».
 
 0x260AFF35 = Check in on your family.
 
@@ -88757,7 +88757,7 @@
 
 0xC70BA053 = Bart Cavanaugh
 
-0xA6E3802E = Guard
+0xA6E3802E = Охоронець
 
 0x5E1B3766 = Thousands are being benefited where medical skill and science have failed.  Dr Claussen's Cumberland Mountain Bitters treats malaise, cures fatigue and quickly renews vigor.~n~
 
@@ -89005,7 +89005,7 @@
 
 0xAF44892C = Western Shirtwaist
 
-0x8692607B = Weapons Expert
+0x8692607B = Майстер зброї
 
 0x7FD859C2 = Hickory & Chestnut
 
@@ -89337,7 +89337,7 @@
 
 0xFE9DD944 = СЮЖЕТ
 
-0x933D6DE7 = Bandana
+0x933D6DE7 = Бандана
 
 0xC9CAA474 = Rexroad Boots
 
@@ -89359,7 +89359,7 @@
 
 0x1E57F916 = Martindale Pants
 
-0x92FF6DC1 = Guard
+0x92FF6DC1 = Охоронець
 
 0xDE8DB950 = Timed out when leaving the active Red Dead Online session.
 
@@ -89497,7 +89497,7 @@
 
 0xA4837F9C = Rival Collector
 
-0xC05F9B7A = Potent Bitters
+0xC05F9B7A = Міцна настоянка
 
 0x64963FB1 = Riding Gloves
 
@@ -90079,7 +90079,7 @@
 
 0xEA9CC733 = Wild Mint picked
 
-0x742950C3 = Break Free
+0x742950C3 = Вирватися
 
 0x1EFDFB9C = Neckties
 
@@ -90235,7 +90235,7 @@
 
 0xD8DCB5DB = This week, Madam Nazar is looking for three pieces of Lost Jewelry featuring flawless stones. Find all the items listed and sell the complete collection to Madam Nazar for a reward. You can sell the collection in person or you can mail it to her from any Post Office.
 
-0x36C813CB = Hides your identity while committing crimes.
+0x36C813CB = Не дозволяє впізнати вас, коли ви вчиняєте злочини.
 
 0x7D275A2B = Cardozo Vest
 
@@ -90481,7 +90481,7 @@
 
 0x0802E598 = Mary-Beth's Fountain Pen
 
-0x076EE505 = Guard
+0x076EE505 = Охоронець
 
 0x36F91490 = Ammo Parcel
 
@@ -90565,7 +90565,7 @@
 
 0x59C4378E = Hats from Gus' store
 
-0xAFCF8D99 = Get On Trolley
+0xAFCF8D99 = Сісти в трамвай
 
 0x0C9AEA66 = A wide brimmed hat with a pinched crown. Provides excellent shade in the midday sun.
 
@@ -90733,7 +90733,7 @@
 
 0x19C6F7E9 = Used in Recipes
 
-0xDDEABC0E = Guard
+0xDDEABC0E = Охоронець
 
 0x61963FBA = ~1p~
 
@@ -91017,7 +91017,7 @@
 
 0x5BBC3A95 = The Wentworth
 
-0x06A6E581 = Guard
+0x06A6E581 = Охоронець
 
 0x8FCA6EA5 = Morales Vest
 
@@ -91399,7 +91399,7 @@
 
 0x6E454DF1 = Stash Box
 
-0x907C7028 = Guard
+0x907C7028 = Охоронець
 
 0x6A1E49CC = Get 40% RDO$ off the Improved Bow.
 
@@ -91617,7 +91617,7 @@
 
 0xF902D92A = Description
 
-0xA835885E = Hides your identity while committing crimes.
+0xA835885E = Не дозволяє впізнати вас, коли ви вчиняєте злочини.
 
 0x6EB44EDE = Go to a Bounty Board ~COLOR_MP_OBJECTIVE~~BLIP_PROC_BOUNTY_POSTER~~s~ to buy the Prestigious Bounty Hunter License.
 
@@ -92115,7 +92115,7 @@
 
 0x818662E9 = Poor Cat Carcass
 
-0xDEF1C055 = Guard
+0xDEF1C055 = Охоронець
 
 0x099AEAFF = Enemy Kills Buckle
 
@@ -92375,7 +92375,7 @@
 
 0xF72BD94D = Так
 
-0xF4B7D6DB = Guard
+0xF4B7D6DB = Охоронець
 
 0x47342959 = Catch up to ~o~Redshirt2~s~
 
@@ -92397,7 +92397,7 @@
 
 0x203E026E = ~s~Kill the ~e~Enemies~e~.~s~
 
-0x4BB52DE8 = On receipt of the funds, we will proceed with phases two and three of the project and present you with a detailed report of our findings within the month.~n~Yours respectfully,~n~James Critchly~n~Head of Accounts~n~Leland Oil Development Company
+0x4BB52DE8 = Після отримання коштів ми розпочнемо другий та третій етап проєкту та протягом місяця надамо вам докладний звіт про результати.~n~З повагою,~n~Джеймс Крітчлі,~n~Головний бухгалтер~n~Leland Oil Development Company
 
 0x84CA66FE = Modern and refined; the Litten Dress boasts a fine, high necked blouse insert, ribbon and flower decoration, and a delicately buttoned front.
 
@@ -92501,7 +92501,7 @@
 
 0x8A446CC3 = Якість далеких об'ємних ефектів
 
-0x31801402 = Guard
+0x31801402 = Охоронець
 
 0x41EC246E = Can be used in the Oregano Pork recipe
 
@@ -92585,7 +92585,7 @@
 
 0x970879B2 = Nothing conveys the message “end of discussion” as well as our genuine new and improved Fire Bottle.  Light the cloth, throw, and rest assured that your sentiment has been communicated.  The neck design insures flammables will not spill on the user and ignite, distracting from the matter at hand.   Perfect for flushing out a cabin, teepee, rabbit warren, beaver mound, saloon or a group of bandits holed up in a cave.   It quickly renders wagons unsuitable for fleeing the scene of an altercation.  When used properly in conjunction with one of our repeating firearms it generates very satisfactory results.  Not to be sold to anyone under eight years of age.  Incendiary weapons are not a toy and should be used only as directed and permitted by laws of your state or territory.
 
-0x093EEBE9 = Guard
+0x093EEBE9 = Охоронець
 
 0xA8448AEF = Roache
 
@@ -92831,7 +92831,7 @@
 
 0x93F87734 = Processing Mugshot...
 
-0x6C3C4F7C = Guard
+0x6C3C4F7C = Охоронець
 
 0x67354A76 = A bounty poster for Joshua Brown, wanted for unlawful killings.
 
@@ -92939,7 +92939,7 @@
 
 0xA33386BF = Ferruginous Hawks can be found across the states. As carnivores, they prey on small mammals like rabbits, ground squirrels, prairie dogs, lizards, and birds. The Varmint Rifle is considered to be the best weapon for a clean kill. The feathers of the hawks can be used for crafting.
 
-0x1C990028 = Bandana
+0x1C990028 = Бандана
 
 0x0FCDF35E = Use this post to join a series of showdown modes with a moderate number of players. You can also join the series from the Quick Join section of the Player menu.
 
@@ -93001,7 +93001,7 @@
 
 0xA8A58C50 = Ruins
 
-0x952B78D7 = Guard
+0x952B78D7 = Охоронець
 
 0x3D1520C1 = Get 1 Weapon Component of your choice.
 
@@ -93361,7 +93361,7 @@
 
 0x34A4191E = High Капелюх
 
-0x575D3BD9 = Guard
+0x575D3BD9 = Охоронець
 
 0xA15285D2 = A collection of Legendary Animal parts.
 
@@ -93619,7 +93619,7 @@
 
 0x4A432F45 = A guide to all the Cigarette Cards that can be collected
 
-0x4A6A2F6D = Guard
+0x4A6A2F6D = Охоронець
 
 0xFF4DE453 = Disarm +~1~
 
@@ -94407,7 +94407,7 @@
 
 0xE644CD4F = Hardy leather gloves with colorful hand stitching.
 
-0x14A3FBB0 = Guard
+0x14A3FBB0 = Охоронець
 
 0xA9859092 = English Mace picked
 
@@ -95017,7 +95017,7 @@
 
 0xCBADB467 = Cerrada Boots
 
-0x1659FF14 = Guard
+0x1659FF14 = Охоронець
 
 0x0669EF29 = Canoer Buckle
 
@@ -95739,7 +95739,7 @@
 
 0x0EE3F96D = Parson Boots
 
-0xAE2698B0 = Guard
+0xAE2698B0 = Охоронець
 
 0x34A41F2E = Twin Rocks
 
@@ -95955,7 +95955,7 @@
 
 0x6C675770 = Folwell Капелюх
 
-0x8AE575EE = Guard
+0x8AE575EE = Охоронець
 
 0xAD6A9874 = Accessories
 
@@ -96119,7 +96119,7 @@
 
 0x7BAB671B = Cashed in their chips
 
-0xBF22AA93 = Guard
+0xBF22AA93 = Охоронець
 
 0xC162ACD4 = Claim this Reward with the Cook.
 
@@ -96333,7 +96333,7 @@
 
 0x01A8ED8D = Famed beauty - Sadie Russell
 
-0x5567414C = Dear Mr. Cornwall,~n~We are yet to receive payment of $2,000 for the initial phase of exploration at the Wapiti Indian Reservation, Ambarino, as agreed in the contract between Cornwall Kerosene & Tar and the Leland Oil Development Company, dated November 9th 1898.
+0x5567414C = Шановний пане Корнуолл,~n~Ми досі не отримали плату у розмірі 2 000 доларів за початкову розвідку Амбаріно у резервації Вапіті, як зазначено у контракті між Cornwall Kerosene & Tar та Leland Oil Development Company від 9 листопада 1898 року.
 
 0xE354CF3A = Polka Dot Cloth Wrap
 
@@ -96467,7 +96467,7 @@
 
 0xF087DCC8 = Gypsy Cob - Skewbald & Palomino Blagdon Coats
 
-0xE289CECA = Guard
+0xE289CECA = Охоронець
 
 0xE382CFC5 = For centuries Americans stored their meats in boxes of salt, or by digging a hole in the dirt under the floorboards of the home, forming a pit and placing meat and vegetables in sawdust.~n~
 
@@ -96569,7 +96569,7 @@
 
 0xE4C2D141 = Studded Explorer Holster
 
-0x0A55F6D5 = Bandana
+0x0A55F6D5 = Бандана
 
 0x20180C98 = Cavalry Gloves
 
@@ -96685,7 +96685,7 @@
 
 0x33A9205C = * THEIR DISTINCTIVE COAT MAKES THEM A HANDSOME BREED~n~
 
-0x91177DCA = Bandana
+0x91177DCA = Бандана
 
 0xEF52DC05 = The dependable choice. The reason that life is, to so many, a dismal failure is because they do not have the prudence and forethought to order a great many boxes of these cartridges.
 
@@ -96701,11 +96701,11 @@
 
 0xA0F88DB6 = Bait Shop
 
-0x90D47D92 = Guard
+0x90D47D92 = Охоронець
 
 0x514D3E0C = Game Details
 
-0x5FA14C61 = Guard
+0x5FA14C61 = Охоронець
 
 0x1CD90999 = Get 30% RDO$ off select Kladruber horses.
 
@@ -97953,7 +97953,7 @@
 
 0x47933778 = A casual outfit comprising of a flop hat with feather detail, loose overshirt, baggy pants and sturdy leather boots. The look is finished with a thick waist belt and unique beaded necklace.
 
-0xCB00BAE6 = Guard
+0xCB00BAE6 = Охоронець
 
 0xC2CBB2B1 = ELIAS GREEN
 
@@ -98179,7 +98179,7 @@
 
 0x00AFF12A = An untimely demise
 
-0x16040681 = Bandana
+0x16040681 = Бандана
 
 0xEF8AE008 = Border Collie
 
@@ -98787,7 +98787,7 @@
 
 0xA8BF9ABF = Purkiss Капелюх
 
-0xBF80B181 = Guard
+0xBF80B181 = Охоронець
 
 0xA3769578 = Weapons degrade slower.
 
@@ -98961,7 +98961,7 @@
 
 0x64F75774 = Exit Vehicle
 
-0x0CBCFF3D = Guard
+0x0CBCFF3D = Охоронець
 
 0x71F96479 = You will now periodically receive invites to Naturalist Events.
 
@@ -99313,7 +99313,7 @@
 
 0x888C7BE2 = Short - Gray
 
-0x256118B8 = Guard
+0x256118B8 = Охоронець
 
 0x68495BA0 = Braid Long - Brown
 
@@ -100109,7 +100109,7 @@
 
 0x5B3A5053 = in Big Valley
 
-0xD033C54C = Guard
+0xD033C54C = Охоронець
 
 0xF647EB63 = Trader
 
@@ -101463,7 +101463,7 @@
 
 0xD808D082 = of
 
-0x73476BC2 = Consume yellow Tonics to Fortify your Bars. A Fortified Bar can be used for a short period without draining. This Tonic will Fortify your Health Bar.
+0x73476BC2 = Вживайте виділені жовтими тоніки, щоб форсувати ваші шкали. Форсована шкала деякий час не витрачається під час використання. Цей тонік форсує вашу шкалу здоров'я.
 
 0xC5B8BE35 = Hercule's horse has died.
 
@@ -101545,7 +101545,7 @@
 
 0x20CA1980 = Special Lake Fishing Lure
 
-0x303928F0 = Bandana
+0x303928F0 = Бандана
 
 0xFB8FF447 = Treasure Map - San Luis Shore
 
@@ -101883,7 +101883,7 @@
 
 0x96F29075 = Moderately restores Health Core and slightly restores Dead Eye Core.
 
-0xC09FBA23 = Guard
+0xC09FBA23 = Охоронець
 
 0x8A5A83E1 = Ability Card
 
@@ -102037,7 +102037,7 @@
 
 0x4E1447F5 = ~1~ of ~2~ killed
 
-0xC0F2BAD5 = Guard
+0xC0F2BAD5 = Охоронець
 
 0xC29CBC80 = The Daisy Reeves Gang
 
@@ -102111,7 +102111,7 @@
 
 0x55114F21 = Unlocks the Horseman Bandolier at the Trapper
 
-0x34E62EF6 = Bandana
+0x34E62EF6 = Бандана
 
 0x6E5E686E = Plants
 
@@ -102363,7 +102363,7 @@
 
 0xBD79B82D = The Dagenhart
 
-0x553E4FF2 = Guard
+0x553E4FF2 = Охоронець
 
 0xBA07B4BC = Veteran Kit
 
@@ -102701,7 +102701,7 @@
 
 0xAE7DAA08 = 9 Gold Bars Off
 
-0x292024AC = Guard
+0x292024AC = Охоронець
 
 0xA1B49D40 = Bullseye Gloves
 
@@ -102765,7 +102765,7 @@
 
 0x7D637917 = Color Combination Four
 
-0x2E3B29EF = Guard
+0x2E3B29EF = Охоронець
 
 0x4A634618 = You are not in the Crew!
 
@@ -102861,7 +102861,7 @@
 
 0x1C3C1838 = THE WORLD'S CHAMPIONS
 
-0x58755472 = Guard
+0x58755472 = Охоронець
 
 0x4F444B42 = Pause menu
 
@@ -102979,7 +102979,7 @@
 
 0x6E726ABE = Select Ponchos
 
-0x9C289874 = Guard
+0x9C289874 = Охоронець
 
 0x3E233A71 = Advanced Camera sent to your Item Wheel.
 
@@ -103427,7 +103427,7 @@
 
 0x2D7D2AE9 = No. 10 Emmet Granger
 
-0x09C50731 = Guard
+0x09C50731 = Охоронець
 
 0xBA78B7E5 = Charles has asked for some oleander.
 
@@ -103665,7 +103665,7 @@
 
 0x68576647 = Trapper Vests
 
-0x1A711862 = Guard
+0x1A711862 = Охоронець
 
 0x30C92EBA = SENATOR THADDEUS WAXMAN
 
@@ -103687,7 +103687,7 @@
 
 0xB031AE2A = Kill enemies with a rifle
 
-0xA16B9F66 = Bandana
+0xA16B9F66 = Бандана
 
 0x26EE24EB = Donate $~1~
 
