@@ -886,7 +886,7 @@
 
 0x82CD84E7 = Return to ~o~Sadie~s~
 
-0x46A648C2 = Pistol Cartridges - Explosive
+0x46A648C2 = Розривні патрони - пістолет
 
 0x79D87BF4 = Thoroughbred~n~Brindle Пальто
 
@@ -2774,7 +2774,7 @@
 
 0xCC88D356 = WE FURNISH MANY STYLES OF CLOTHING, WITH FEW REACHING THE DAPPER, FINE CUT, AND CLEAN LOOK OF THIS NOBLE ENSEMBLE.~n~
 
-0x85DF8CAD = Shaving Kit
+0x85DF8CAD = Набір для гоління
 
 0x88678F35 = Cloth Wrap
 
@@ -3236,7 +3236,7 @@
 
 0x5B806366 = Freak Mask
 
-0xF445FC2C = American Ginseng
+0xF445FC2C = Амереканський женьшень
 
 0xA193A97A = Long
 
@@ -5432,7 +5432,7 @@
 
 0xDC62E996 = Braid
 
-0xF6DD0410 = Pistol Cartridges - Express
+0xF6DD0410 = Експрес-патрони - пістолет
 
 0x9FD0AD04 = (Ribes Nigrum)~n~Blackcurrant bushes are medium sized with green leaves and clusters of small, round, glossy, black berries. They can be found growing in brightly lit positions away from water in Gaptooth Ridge and Cholla Springs in New Austin. The berries, when mixed with other ingredients, can be used as a tonic to revitalize weary horses.
 
@@ -6941,7 +6941,7 @@
 
 0x6C0C7D1A = Cossack Капелюх
 
-0xEEB9FFC8 = Yarrow
+0xEEB9FFC8 = Деревій
 
 0x403F514F = Natural
 
@@ -7435,7 +7435,7 @@
 
 0x19E72C37 = Swanson
 
-0x8AD09D20 = Beatrice Morgan
+0x8AD09D20 = Біатріс Морґан
 
 0x3A844CD8 = Volcanic Pistol
 
@@ -8201,7 +8201,7 @@
 
 0xE8CAFD01 = Leather Wrap
 
-0x91AAA5E2 = Imleria badia~n~~n~This mushroom is known as the bay bolete. These are quite common and can be found in large numbers. These are lovely to cook with garlic, and give a distinctive taste of rotted wood that pairs well with a merlot. Do not be worried about the blueish marks that can occur on the underside. Like humans, these mushrooms bruise.
+0x91AAA5E2 = Imleria badia~n~~n~Цей гриб відомий під назвою «Польський гриб». Він дуже поширений і трапляється у великих кількостях. Ці гриби особливо смачні, якщо приготувати їх із часником, а їх відомий присмак гнилого дерева чудово поєднується з Мерлою. І нехай вас не бентежать блакитні мітки, які можна побачити на звороті його капелюшка. Це лише сліди ушкоджень, як синці у людини.
 
 0x5E9B72D4 = Tailored Suit Vest
 
@@ -9141,7 +9141,7 @@
 
 0x279C3E47 = Accept Deluxe Bath (~1$~)
 
-0x28A33F4E = When you upset the balance of nature, man must pay from his pocketbook for artificial substances to rid of infestations, when you could have left well enough alone.~n~~n~A NOTE ON ANIMALS, WATER AND DEBILITATION~n~Serious sickness often takes a household when fouled water is drunk. This can debilitate a man from hunting or farming, and instead he is resigned to the outhouse while his spouse looks on in mournful derision and pity,
+0x28A33F4E = Порушуючи природну рівновагу, людині доводиться платити зі своєї кишені за її штучне відновлення; у цьому випадку – за те, щоб позбавитися шкідників. Адже якщо ви дасте спокій скунсам, проблем не виникне.~n~~n~ПРО ТВАРИН, ВОДУ І НЕДОМОГАННЯ~n~Людина, яка випила забруднену воду, може серйозно захворіти. Недуг не дозволить йому займатися полюванням або землеробством, він буде засуджений до страждань у відхожому місці, а його дружина стане нещасною:
 
 0x6A2E80DA = Failed to join a friend only session.
 
@@ -11569,7 +11569,7 @@
 
 0x4EA16B70 = Puff Tie
 
-0x0A2626F5 = Yarrow
+0x0A2626F5 = Деревій
 
 0x062B22FA = Train Station
 
@@ -11739,7 +11739,7 @@
 
 0xDB85F8C7 = Get 5 bottles of Legendary Animal Pheromones безкоштовно. This scent provokes a reaction from nearby Legendary Animals, revealing their location.
 
-0x5FBD7D01 = Bed
+0x5FBD7D01 = Ліжко
 
 0x465A639E = REVERSE SPIN
 
@@ -14027,7 +14027,7 @@
 
 0xFB6A1E53 = Building Beecher's Hope
 
-0xC133E41F = Spring Rocks~n~~n~1870
+0xC133E41F = Cпрінґ-Рокс~n~~n~1870
 
 0xAF95D281 = Prisoner Transfer Document
 
@@ -18477,7 +18477,7 @@
 
 0x65BD9323 = HORACE WEST
 
-0x0E163B80 = Pistol Cartridges - Split Point
+0x0E163B80 = Надрізані патрони - пістолет
 
 0x074B34B7 = Охоронець
 
@@ -20239,7 +20239,7 @@
 
 0x5CF68EC7 = Reached Rank 20 in the Moonshiner role
 
-0x524F8422 = Suddenly the largest, a big, sullen young man, brandished a firearm and held it up to my face.~n~“Throw up your hands,” the third one said, who appeared to be the boss. The other two repeated the order with an oath and the leader said, “My fine patriotic friends and I are going to relieve you of that gold and introduce a few folks to the benefits of civilization.” They came around the counter and grabbed some sacks which contained $5,000 in gold.
+0x524F8422 = Несподівано найбільший із них, сильний, похмурий хлопець почав розмахувати зброєю, а потім направив її прямо мені в обличчя..~n~«Руки вгору», – сказав третій, мабуть, головний. Інші двоє грубо повторили наказ. «Я і мої дорогі друзі-патріоти збираємося звільнити вас від вантажу цього золота і дарувати блага цивілізації тим, хто їх потребує», – сказав ватажок. Вони зайшли за стійку і забрали мішки із золотом на 5000$.
 
 0x2668583C = Color
 
@@ -25733,7 +25733,7 @@
 
 0x6F8EAED1 = We have heard word of customers so enamored with this new ensemble that they immediately visit a portrait studio to capture this moment in time. Indeed, the purchaser will acquire a delightful hue upon opening the box this outfit arrives in – knowing that they are now at the top of their trade.
 
-0x5E8C9DD0 = Bed
+0x5E8C9DD0 = Дім
 
 0x22D36219 = Dunster Pants
 
@@ -26825,7 +26825,7 @@
 
 0x4363853F = Hit and Run Buckle
 
-0x556A9746 = Ginseng
+0x556A9746 = Женьшень
 
 0x470388DF = Canada Goose
 
@@ -29037,7 +29037,7 @@
 
 0x028C49CB = Creswell Skirt
 
-0x67BDAEFE = April 15th 1887~n~BRAZEN BANK ROBBERY~n~~n~THREE MEN SOUGHT~n~~n~Major T. J. Belford has been a cashier at the banking house of Lee and Hoyt for a number of years but nothing prepared him for what transpired last week. “It was about 2 o'clock. Three men, strangers to me, came through the door and walked up to the counter. One of them, the eldest of the three, was a fine talker and engaged me in conversation.
+0x67BDAEFE = 15 квітня 1887 ~n~Зухвале пограбування банку~n~~n~Троє у розшуку~n~~n~Майор Т. Дж. Белфорд багато років пропрацював касиром у банку Лі та Хойта, але всі ці роки не підготували його до того, що трапилося минулого тижня. «Все сталося близько 2 години дня. Троє людей, зовсім мені не знайомих, увійшли до банку і підійшли до стійки. Один, старший із трійці, був дуже промовистий і залучив мене до розмови.
 
 0x4CF49438 = Wilderness Cloth Wrap
 
@@ -29797,7 +29797,7 @@
 
 0x35187E28 = Heavy Wing
 
-0x219D6AAE = American Ginseng
+0x219D6AAE = Амереканський женьшень
 
 0xA909F21A = Gang camps found
 
@@ -31145,7 +31145,7 @@
 
 0x794EC5C4 = Ascot Tie
 
-0x6DF9BA70 = Pistol Cartridges - High Velocity
+0x6DF9BA70 = Швидкісні патрони - патрони
 
 0x5F83ABFB = Charleston Top Капелюх
 
@@ -31985,7 +31985,7 @@
 
 0x6CD8BB41 = Охоронець
 
-0xD1E5204E = Flower
+0xD1E5204E = Квітка
 
 0x9313E17E = Fully restores Health and Dead Eye Cores and yields Gold Health and Dead Eye Cores for over a day.
 
@@ -34853,7 +34853,7 @@
 
 0x2DED8340 = Formerly employed at a brothel in SAINT DENIS, these CRUEL TERMAGANTS, led by a “Mrs. JOHNSON”, are now engaged upon a campaign of ARMED BANDITRY and KIDNAP against the wealthiest of their former clients.
 
-0x52C4A817 = when I immediately stumbled upon an old woman with some crow garlic. No, this is not a bulb of garlic sold by a miserable old crone. Indeed she had less teeth than fingers and a peculiar distemper for spewing auguries and portents. But I purchased the crow garlic from her anyway. It is a lovely perennial that is a wild onion rather than garlic but is delicious cooked in bread.~n~~n~Knowledge of native medicinal plants and herbs is essential for any frontiersman.
+0x52C4A817 = не зволікаючи натрапив на стару, яка продавала виноградну цибулю. Це не звичайний часник, який продає нещасна стара жінка. Звичайно, зуби, що залишилися в неї, можна було перерахувати на пальцях, а її звичка виригати передбачення і застереження наводила на побоювання щодо здоров'я її розуму. Але цибулю я в неї все-таки купив. Ця багаторічна рослина ближче до дикої цибулі, ніж до часнику, але з неї виходить чудовий хліб..~n~~n~Кожен колоніст повинен розумітися на цілющих рослинах.
 
 0x8591DAE5 = Strung Sombrero
 
@@ -36551,7 +36551,7 @@
 
 0xE64F3FAF = Бармен
 
-0xD6C03020 = Bring Pearson animals to supply the camp. He can use the meat for food and the skins to craft Satchels with increased capacity.
+0xD6C03020 = Принесіть Пірсону тварин для постачання табору. М'ясо він пустить на їжу, а шкіри підуть на виготовлення сумок, які підвищать місткість.
 
 0x2019797B = Irwin Пальто
 
@@ -36825,7 +36825,7 @@
 
 0xDFA339AB = Repeaters
 
-0x67A1C1AB = Eastward Bound
+0x67A1C1AB = На Схід
 
 0x504EAA58 = Shop at Fence
 
@@ -38999,7 +38999,7 @@
 
 0xEC6F4BD4 = Maddy
 
-0x9CB0FC16 = Shaving Kit
+0x9CB0FC16 = Набір для гоління
 
 0xCC3E2BA4 = Volatile Dynamite
 
@@ -39963,7 +39963,7 @@
 
 0x5743B908 = Re-join ~1~ in your position as ~2~.~n~~n~~3~ is leading the Posse with ~4~ others.
 
-0x5F3BC105 = Macrolepiota procera~n~~n~This is commonly known as the parasol mushroom, in some regions it is called "the snake's hat." Snakes of course do not wear hats. They do however talk on occasion.~n~~n~The parasol mushroom is delicious to cook but should not be eaten raw as there are toxins that will give you a very unfavorable view of the world and your gastrointestinal distress will surely be remarked upon.
+0x5F3BC105 = Macrolepiota procera~n~~n~Більшість знає його як гриб-парасольку велику; у деяких регіонах його називають «зміїним капелюхом». Звісно, ​​змії не носять капелюхів. Хоча зрідка розмовляють.~n~~n~Гриб-парасолька дуже смачний, але вживати його в їжу сирим не слід, оскільки в ньому містяться отруйні речовини, здатні ґрунтовно зіпсувати вам життя і травлення, що напевно не пройде непоміченим для інших.
 
 0x1F94815E = Horror Mask
 
@@ -44467,7 +44467,7 @@
 
 0x55A4C2DA = Woven Pistol Holster
 
-0xE0F94E2F = Rambles Through Woods and Plains
+0xE0F94E2F = Прогулянки лісами та рівнинами
 
 0x7236DF6E = Bolger Holster
 
@@ -48728,7 +48728,7 @@
 
 0x3312AA9C = General Cornelius Palmer - General
 
-0x74FDEC89 = to bring a curtain of oblivion down on the evening, awakening the next day piled on one another like sweaty sacks of potatoes, knowing not what kind of lewd carnal ostentatiousness took hold by firelight.~n~~n~The very idea!~n~~n~Let's discuss the fungus that lives among us.
+0x74FDEC89 = а потім напиватись їй увечері так, що вранці вони прокидалися покотом один на одного, наче мішки з картоплею, і не могли згадати, якими непотребами займалися напередодні. ~n~~n~Тільки подумайте!~n~~n~Краще поговоримо про гриби, які ростуть по сусідству з нами.
 
 0x15AC8D39 = Greatly restores all Cores.
 
@@ -50404,7 +50404,7 @@
 
 0x64A3E01A = Moderately restores Health and Dead Eye Cores.
 
-0x31E2AD5B = Pistol Cartridges - Express
+0x31E2AD5B = Експрес-патрони - пістолет
 
 0xD1DE4D57 = Flex
 
@@ -51018,7 +51018,7 @@
 
 0xDF915CA4 = A letter to Alfred from his wife in New Jersey, Annabel.
 
-0xE06E5D84 = Yarrow
+0xE06E5D84 = Деревій
 
 0x0CCC89E7 = Manhattan,~n~New York,~n~March, 1907~n~Dear Alfred,~n~The girls and I miss you. Little Gloria cried about her Daddy on her birthday, but I told her to buck up and that her Daddy was carrying out important work for the safety of our nation and that is why he has to travel so much. Agnes had dropsy but she will be fine. Scarlet had a whooping cough. It's been a terrible time. I'm quite worn out. Oh Alfred, I know your work is of a vital national and international importance
 
@@ -51850,7 +51850,7 @@
 
 0xDCA55BC2 = The Brun et Fabre Semi-Automatic Shotgun is the highest grade, the most perfect and best priced semi-auto shotgun made in the world. Every shotgun we sell is carefully tested for pattern, target, and penetration. The penetration of these guns is simply wonderful. It is the best made gun for ducks, grouse, feral cats, dove, turkey, pheasant, partridge, quail, snipe, woodcock, raccoon, beaver, opossum, boar, hare, and especially chickens. It is the most desirable semi-auto shotgun ever sold. We cannot overemphasize the penetration. There are no possible complications in the operation of the apparatus, which is why this gun is so desired for penetration. The magazine holds several cartridges rather than just one shell in simpler shotgun models, ensuring that if inaccuracy plagues the shooter on the first few tries, repetition will result in success.~n~
 
-0x929811B5 = Shave
+0x929811B5 = Голитися
 
 0x8D7B0C9F = Make stews at Camp
 
@@ -52062,7 +52062,7 @@
 
 0x98DB189B = Minor crimes anger the population around you. Instead of going for the law, they often come to take it out of your hide.
 
-0xC275423B = Flower
+0xC275423B = Квітка
 
 0x7782F74A = Gerden Rider Spurs. Leather boot straps with engraved steel heel band, large conchos, leg shank and small rounded rowels.
 
@@ -53266,7 +53266,7 @@
 
 0x5F87E23A = An ideal saddle for expeditions, crafted with Collectors in mind.
 
-0xE11A63CD = A ZOOLOGICAL COMPENDIUM OF EARTH'S CREATURES
+0xE11A63CD = ЗООЛОГІЧНИЙ ДОВІДНИК
 
 0xDBFE5EB4 = Rattlesnake
 
@@ -54208,7 +54208,7 @@
 
 0x4E59D357 = oz
 
-0x16F69BF5 = to see what is coming. Place a shot between the eyes, take the fur, and throw the rest in the stew pot.~n~~n~THE SKUNK~n~Those who raise game birds or chickens are likely to hate the skunk for marauding about henhouses, but farmer and forester alike should leave these beasts alone. Many take to shooting skunks for sport, however they eat quite a large amount of insect larvae, which helps crops and prevents infestation of moths and caterpillars.
+0x16F69BF5 = щоб подивитись, що відбувається. Вистріліть йому поміж очей, потім овіжуйте; хутро піде торговцям, а м'ясо – у казанок.~n~~n~СКУНС~n~Ті, хто розводять пернату дичину чи курей, недолюблюють скунсів за те, що ті витворяють у курятниках, але не варто винищувати цих звірів. Багато хто полює на скунсів заради забави, проте скунси поїдають значну кількість личинок комах, що не дає розмножуватися гусеницям і мошкам.
 
 0xA9642E63 = Бандана
 
@@ -55794,7 +55794,7 @@
 
 0xCA4152F1 = THE OUTLAW PASS NO. 4~n~
 
-0x072B8FDC = A field guide, given to Arthur by Mayor Henri Lemieux.
+0x072B8FDC = Довідник, подарований мером Генрі Лем'є.
 
 0x93D31C85 = Wide Legged Pants
 
@@ -61472,7 +61472,7 @@
 
 0x5429EA9B = Dutch Warmblood - Work Horse
 
-0xFD4293B3 = Your gang's camp is shown by ~BLIP_CAMP~ on the map.
+0xFD4293B3 = Табір вашої банди відмічено на карті ~BLIP_CAMP~.
 
 0x404ED6C7 = A daily meal of soup is prepared in the camp made with the best parts of the latest hunted game. The soups help to revitalize the gang members and can provide a variety of health benefits.
 
@@ -63514,7 +63514,7 @@
 
 0x3D2CD88E = Rifle Buckle
 
-0xBDCD592E = Your beard is getting long. You can use the shaving kit beside your tent or visit a Barber Shop to maintain your facial hair.
+0xBDCD592E = Ваша борода сильно виросла. Щоб привести її в порядок, ви можете використовувати набір для гоління поряд з наметом або зайти до цирульника.
 
 0xDCA9780B = Herman Zizendorf is wanted alive for questioning over accusations of fraud and theft by the Blackwater Sheriff. A $30 reward has been offered for bringing him in.
 
@@ -65540,7 +65540,7 @@
 
 0xAD344DB1 = Info Off
 
-0xAE214E9F = First Bank Robbery Newspaper Scrap
+0xAE214E9F = Уривок газети зі статтею про перше пограбування банку
 
 0x992F39AE = Clothing crafted by Gus
 
@@ -66798,7 +66798,7 @@
 
 0x3EECE288 = Sean's Cattleman Revolver
 
-0x4418E7B5 = They demanded to know where the rest of the money was, and I pointed out three sacks containing silver, but it was too bulky for them. They retreated and one warned against sounding an alarm. I was never so terrified in my life,” Mr Belford told a reporter.~n~The robbers are reported to have lingered in town, and there are unproven claims that the men traveled to hovels and shanties and even a home for orphans and gave handfuls of the ill-gotten gains to the poor.
+0x4418E7B5 = Вони вимагали показати, де решта грошей. Я показав їм три мішки зі сріблом, але грабіжники вважали їх надто громіздкими. Потім вони пішли. Один із них велів не підіймати тривоги. Ніколи в житті я ще не був так наляканий!» – сказав репортерові містер Белфорд.~n~Наскільки відомо, бандити не одразу залишили місто. За неперевіреними чутками, вони заходили в бідні халупи, будинки та навіть у сирітський притулок, жменями роздаючи несправедливо здобуте золото біднякам.
 
 0x88542BF1 = Now it's bananas and coconuts and long boat rides. Guess anywhere the train can get to, the law can get to. Dutch probably has it right. This country really don't want folk like us no more.~n~~n~From ocean to ocean, place is going to law abiding and decent and dulled and rigid, until folks have frozen themselves into nothingness.~n~~n~The people in this city are worse and more desperate than the nastiest gun slinger I ever met.~n~They'd shoot you in the back and make you pay
 
@@ -67330,7 +67330,7 @@
 
 0xF01094F9 = Brindille Shoes
 
-0x36E1DBCB = as he neither pleases her in the bedroom nor provides ingredients for bread for the supper table. Creatures are thirsty too and will fall into your well, spreading disease before it is discovered. Obtain a cask and layer small pebbles, charcoal and a layer of sand inside. Attach a faucet at the bottom in order to draw off the water. This will provide perfect drinking water, even if it tastes slightly like a dead raccoon.
+0x36E1DBCB = адже він не зможе ні задовольняти її в спальні, ні добувати їжу для сім'ї. Тваринам потрібна вода, і в спробі її добути вони можуть впасти у ваш колодязь, а помітити це вдається не завжди, що призводить до забруднення води. Візьміть бочку і насипте в неї шарами дрібну гальку, вугілля та пісок. Внизу додайте кран для зливу води. Такий фільтр дозволить вам отримати питну воду, яка нехай і злегка віддає дохлим єнотом.
 
 0x95DF3AC9 = Arabian horses are a superior class, often kept by wealthy owners. Identified by their dished head and high tail carriage, Black and Rose Gray Bay are purchasable, while the Warped Brindle, Red Chestnut and rare White coat can be discovered. A fiery temperament makes them hard to train but, once broken, they handle well and remain loyal. Their great Health and Stamina, with good Speed and Acceleration, make them the perfect endurance horses.
 
@@ -68484,7 +68484,7 @@
 
 0x0CEAB4A1 = enemy ambushes fended off
 
-0x4E55F60D = Ammo ~BLIP_SUPPLIES_AMMO~, Provisions ~BLIP_SUPPLIES_FOOD~ and Health supplies ~BLIP_SUPPLIES_HEALTH~ can be found around camp. The current stock levels are shown when near the Tithing Box.
+0x4E55F60D = Боєприпаси ~BLIP_SUPPLIES_AMMO~, провізія ~BLIP_SUPPLIES_FOOD~ там медикаменти ~BLIP_SUPPLIES_HEALTH~ можна знайти в таборі. Поточний рівень запасів буде відображатися, якщо ви підійдете до скриньки для пожертвувань.
 
 0xDAA18259 = Stock
 
@@ -69426,7 +69426,7 @@
 
 0x729D1C9D = Slaughter
 
-0xBF616962 = First Bank Robbery Newspaper Scrap
+0xBF616962 = Уривок газети зі статтею про перше пограбування банку
 
 0x2FB1D9B4 = WANTED for a series of VICIOUS and TERRIFYING MURDERS by GARROTING WITH WIRE.
 
@@ -71778,7 +71778,7 @@
 
 0x5D180CCA = Light Brown Saddle Bag
 
-0xD398834D = A Field Guide to the Botanical Kingdom
+0xD398834D = Ботанічний довідник
 
 0x57BA0770 = Get 1 Treasure Map.
 
@@ -73846,7 +73846,7 @@
 
 0x75532A29 = Neat String Tie
 
-0xEF38A413 = Each day, Pearson will make stew, which you can eat from the pot at ~BLIP_GRUB~.
+0xEF38A413 = Щодня Пірсон готує рагу, яке відзначається на карті ~BLIP_GRUB~.
 
 0xCB52802E = Alligator Snapping Turtle
 
@@ -76228,7 +76228,7 @@
 
 0x25A3E045 = Doily Shirtwaist
 
-0x48AE0350 = Yarrow
+0x48AE0350 = Деревій
 
 0xB54E6FF0 = Guest
 
@@ -76898,7 +76898,7 @@
 
 0xB40D7063 = STYLE_MH
 
-0xABD96830 = Pistol Cartridges - High Velocity
+0xABD96830 = Швидкісні патрони - пістолет
 
 0x213BDD94 = Догляд за зброєю
 
@@ -76930,7 +76930,7 @@
 
 0x17F1D452 = Letter from Cripps
 
-0x1809D46C = Shaving Kit
+0x1809D46C = Набір для гоління
 
 0x76BD3320 = Gordon Blaxley
 
@@ -77904,7 +77904,7 @@
 
 0xA88C6738 = LOST JEWELRY NECKLACES
 
-0xA41362BF = American Ginseng
+0xA41362BF = Американська женьшень
 
 0xD57B9428 = Get 30% RDO$ off a select Clothing Item, Outfit, Accessory or Emote from any of your current Roles.
 
@@ -80612,7 +80612,7 @@
 
 0x29F6EF4A = NUMPAD 9
 
-0x42C6081A = Disorders of the blood are frequent, and having a fellow in camp that can exorcise the demon of jaundice using a few hand-picked herbs boiled in a tea is essential.~n~~n~My hope, dear reader, is that you will take the knowledge in this book so that you may identify all plants and herbs and use the awareness for good.  It has come to my notice that a few individuals have purchased my book and taken the information herein in order to concoct fermentations
+0x42C6081A = Хвороби крові зустрічаються нерідко, і дуже важливо, щоб у вашому таборі був хтось, хто може вигнати жовтяницю з хворого, напоївши його відваром із ретельно вибраних цілющих трав.~n~~n~Я сподіваюся, дорогий читачу, що знання, викладені в цій книзі, допоможуть тобі розрізняти всілякі рослини та застосовувати їх на благо. Я дізнався, що деякі люди, придбавши мою книгу, використали викладену в ній інформацію для того, щоб виготовляти брагу,
 
 0x9ED56429 = Murder
 
@@ -82242,7 +82242,7 @@
 
 0x41210A8B = Thacker Капелюх
 
-0xDB65A4D0 = and moose are difficult to run down in such instances, furnishing poor sport. Look not only down, but up when tracking moose,  for they break twigs, bend branches and tear the ground up quite significantly.~n~~n~THE BADGER~n~Many a man who nearly broke his neck or leg has cursed this animal, for in its pursuit of prey, it takes to digging holes. These quickly are covered by leaves or weeds, and along comes a rider into a death-trap.
+0xDB65A4D0 = а в таких випадках лося складно наздогнати, що може зіпсувати все полювання. Вистежуючи лося, дивіться як під ноги, а й нагору, оскільки лосі ламають і гнуть гілки на своєму шляху й загалом залишають дуже помітні сліди.~n~~n~БОРСУК~n~Чимало людей після того, як мало не зламали ногу – а то й шию – проклинали цю тварину, яка у пошуках здобичі риє нори в землі. Ці нори він швидко зсипає листям або закриває травою, і для вершника така нора може становити неабияку небезпеку.
 
 0x76653FD0 = Austin Boots
 
@@ -83417,7 +83417,7 @@
 
 0x348400D1 = Miss THROPP is wanted for STEALING the carriage transferring money to the BANK OF RHODES. The carriage has been found, DESTROYED and ABANDONED, but Miss THROPP is still at large.
 
-0x786244AF = Shave (NEED ~a~)
+0x786244AF = Голитися (треба ~a~)
 
 0x3A190667 = Ghost Hood
 
@@ -89239,7 +89239,7 @@
 
 0x0BC1E62B = We bring to you only the best bargains available. This cropped overshirt with three-quarter length sleeves is suitable for labor and won't discolor.
 
-0xA5B2801C = Zoological Compendium
+0xA5B2801C = Зоологічний довідник
 
 0x63853DF0 = Sheepskin Vest
 
@@ -89493,7 +89493,7 @@
 
 0xC9D6A4EA = Bow Kill +~1~
 
-0x743D4F54 = Pistol Cartridges - Regular
+0x743D4F54 = Патрони - пістолет
 
 0xA4837F9C = Rival Collector
 
@@ -93821,7 +93821,7 @@
 
 0xBC70A211 = Wilkesboro Капелюх
 
-0x630048A1 = American Ginseng
+0x630048A1 = Американська женьшень
 
 0xE775CD16 = Thought this old trading post in Roanoke Ridge was kind of interesting.
 
@@ -97657,7 +97657,7 @@
 
 0x7FF86F25 = Bounty Hunter
 
-0xA88297AF = Pistol Cartridges - Regular
+0xA88297AF = Патрони - пістолет
 
 0xC4F2B420 = Stock
 
@@ -100701,7 +100701,7 @@
 
 0x0B0801A9 = Claim Staked +~1~
 
-0x089DFF40 = I have been thrown from my horse on several occasions as it stepped into a badger hole. I got up, covered in dust, cursed to the heavens, then took to killing every one I could find within miles, wiping out an entire species, of which I feel only lingering regret. At times nature should be left to its own devices, up until the point where it inconveniences me, and then it should be eradicated. When approaching its hole, this idiotic creature will pop its head out
+0x089DFF40 = Коні неодноразово скидали мене, коли потрапляли ногою в борсучу нору. Спершу я просто піднімався та обтрушувався від землі, проклинаючи борсуків і всю їхню рідню до сьомого покоління, а потім почав вбивати кожного борсука, якого міг вистежити, і в результаті, мабуть, винищив цілий вид, з якого приводу відчуваю лише швидкоплинний жаль. Часом природа заслуговує на дбайливе обходження, але якщо вона починає завдавати мені незручностей, я знищую їхню причину. Коли ви наблизитесь до борсучої нори, ця безмозка тварина висуне назовні голову,
 
 0xC485BB27 = Cibola Boots
 
