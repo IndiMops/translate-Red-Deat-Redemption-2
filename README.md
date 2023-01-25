@@ -103,10 +103,7 @@ Mod Activator - встановлюємо в будь-яку зручну тек�
 
 ### Перекладач
 - [seanans](https://twitter.com/IquufkmlxuEmnUm)
+- [лук](https://twitter.com/OnionCat3)
 
 ### Редактор
 - [Flos](https://discord.com/users/453131450808533024)
-
-
-
-.
