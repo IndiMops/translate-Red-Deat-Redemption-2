@@ -15,7 +15,7 @@
 Для встановлення локалізації вам будуть потрібні  [Lenny's Mod Loader](https://www.rdr2mods.com/downloads/rdr2/tools/76-lennys-mod-loader-rdr/) та [Mod Activator](https://modaktivator.hu/en.html).
 
 #### Mod Activator
-Mod Activator - встановлюємо в будь-яку зручну теку (там інсталятор, тому проблем у вас не виникне). Можна просто використовувати [ASI Loader](https://www.rdr2mods.com/downloads/rdr2/tools/9-rdr-2-asi-loader/), але якщо не знаєте як ним користувати, то ми б радили використовувати [Mod Activator](https://github.com/IndiMops/translate-Red-Deat-Redemption-2#mod-activator).
+Mod Activator - встановлюємо в будь-яку зручну теку (там інсталятор, тому проблем у вас не виникне). Можна просто використовувати [ASI Loader](https://www.rdr2mods.com/downloads/rdr2/tools/9-rdr-2-asi-loader/), але якщо не знаєте як ним користуватися, то ми б радили використовувати [Mod Activator](https://github.com/IndiMops/translate-Red-Deat-Redemption-2#mod-activator).
 
 #### Lenny's Mod Loader
 А ось коли ви завантажите з сайту LML, він буде в архіві. Розпаковуйте архів в зручному для вас місці.
