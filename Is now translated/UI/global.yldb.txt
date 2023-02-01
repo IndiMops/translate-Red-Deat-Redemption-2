@@ -1,4 +1,4 @@
-0x2AC52AC8 = Продовжити одному
+﻿0x2AC52AC8 = Продовжити одному
 
 0xE1F8E1FB = Капелюх "Колдвелл"
 
@@ -22,7 +22,7 @@
 
 0x894A8959 = Рівень ~1~
 
-0xACE0ACF0 = Кіготь медведя
+0xACE0ACF0 = Кіготь ведмедя
 
 0x465A466B = Молоток
 
@@ -122,13 +122,13 @@
 
 0xAC8EACDC = Alejandro and Concha Guillén
 
-0x203D208B = Survivors
+0x203D208B = Виживші
 
 0xD3E4D432 = Maxwell Jacket
 
 0x417141C0 = ~1~ x ~2~
 
-0x723A728A = Lawman
+0x723A728A = Законник
 
 0x68026852 = Sagemoor Капелюх
 
@@ -308,7 +308,7 @@
 
 0xCB36CBFE = Ammo capacity for sidearm weapons increased.
 
-0xC905C9CD = Total Progress
+0xC905C9CD = Загальний Прогрес
 
 0x4A294AF1 = Color Combination Four
 
@@ -63296,7 +63296,7 @@
 
 0x870221EA = This week, Madam Nazar is looking for three aquatic animals. Find all the items listed and sell the complete collection to Madam Nazar for a reward. You can sell the collection in person or you can mail it to her from any Post Office.
 
-0x016E9C57 = Revolvers
+0x016E9C57 = Револьвери
 
 0x3596D081 = ~3~~fg~~1p~~fo~~s~ waved at ~fg~~2p~~fo~~s~
 
@@ -63798,7 +63798,7 @@
 
 0x2CACC8BD = Valdez Vest
 
-0xE7B183C1 = Bird
+0xE7B183C1 = Пташка
 
 0x4C7FE893 = WE HAVE YET TO HEAR COMPLAINT FROM ANYONE ABOUT THIS FIRST-RATE OUTFIT.
 
@@ -64000,7 +64000,7 @@
 
 0xC38A6019 = Cooked Seasoned Crustacean
 
-0x9A1936AC = Thomas
+0x9A1936AC = Томас
 
 0x4CC5E95C = Grullo Dun
 
