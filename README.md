@@ -98,12 +98,11 @@ Mod Activator - встановлюємо в будь-яку зручну тек�
 ### Головний перекладач
 - [Indi Mops](http://indimops.github.io/)
 
-### Технічна підтримка
-- [Соломон Кейн](https://t.me/SolomonBHF)
-
 ### Перекладач
 - [seanans](https://twitter.com/IquufkmlxuEmnUm)
 - [лук](https://twitter.com/OnionCat3)
+- [3IRD] BoJO97
+- OverDemetrius
 
 ### Редактор
 - [Flos](https://discord.com/users/453131450808533024)
