@@ -564,7 +564,7 @@
 
 0xC037C191 = (Lobelia Inflata)~n~Indian Tobacco can be identified by their tall height, serrated leaves and delicate lilac flowers. These plants are native to woodlands and savannas and can be found growing in West Elizabeth, Ambarino, and Lemoyne. The herb can be consumed to increase your Dead Eye Core, or as one of the key ingredients to make Snake Oil.
 
-0xC66FC7CA = Stop Witness
+0xC66FC7CA = Зупинити свідка
 
 0xC3ACC508 = Палатка
 
@@ -1048,7 +1048,7 @@
 
 0x6C9B6F18 = Unlocked for purchase at the Stable
 
-0xD9E3DC63 = Who is Not without Sin
+0xD9E3DC63 = Хто без гріха
 
 0x495E4BE1 = Weapons degrade slower.
 
@@ -1126,7 +1126,7 @@
 
 0x619E6455 = WANTED FOR EMBEZZLEMENT AND MURDER.
 
-0x622C64E5 = WANTED
+0x622C64E5 = РОЗШУКУЄТЬСЯ
 
 0xB27EB538 = Bubinga
 
@@ -2634,7 +2634,7 @@
 
 0xA9DAB044 = Бандана
 
-0x56EE5D5A = Assault
+0x56EE5D5A = Напад
 
 0x980F9E7B = WE HAVE TREATED OVER 100,000 WOMEN, ensuring rosy cheeks, a clear complexion, eyes that sparkle, hair that is glossy and a comely figure.~n~
 
@@ -2824,7 +2824,7 @@
 
 0x77617E43 = Elias Green is wanted dead or alive, for the murder and mutilation of six settlers in the Manzanita Post area. A $90 reward offered for this member of the Skinner Brothers Gang in Blackwater.
 
-0x208D2770 = WANTED
+0x208D2770 = В РОЗШУКУ
 
 0xD31DDA00 = 1792 Liberty Quarter
 
@@ -3714,7 +3714,7 @@
 
 0x1C9B259E = Охоронець
 
-0xE9E7F2EA = Witness
+0xE9E7F2EA = Свідок
 
 0xEA87F38C =  Suddenly two other sword wielding masked men pounced on Otis. He rolled around in the sand, fighting for his life, avoiding blades more by luck than judgement as they tried to kill him. Slowly, they overpowered him. The hot breath of the Arab scorched his face as a knife was placed to his throat.~n~Now you die, Otis Miller.~n~The blade cut into the flesh of his throat and a bead of blood rolled down into his collar, but just as he was about to breathe no more,
 
@@ -5606,7 +5606,7 @@
 
 0xFEEE0C97 = Аґнес Ґюйон
 
-0x31C13F6C = Homeless Vet
+0x31C13F6C = Ветеран безхатько
 
 0xFEAB0C55 = Swindler
 
@@ -6346,7 +6346,7 @@
 
 0xCC7BDBF6 = Міка
 
-0x9B35AAB1 = If a witness sees you commit a crime they'll be marked with a bright red ~BLIP_AMBIENT_EYEWITNESS~. If they report your crime then law will be dispatched to hunt you down.
+0x9B35AAB1 = Якщо свідок побачить, як ви вчинили злочин, він буде позначений яскраво-червоною міткою ~BLIP_AMBIENT_EYEWITNESS~. Якщо він повідомить про злочин, за вами будуть надіслані служителі закону.
 
 0x9145A0C2 = Dear Pa,~n~~n~I'm sorry I left the house in such a huff. For that I must apologize but the thing is you are wrong, no offense. I simply do not care what Jesus or anyone else says. I am a student of science. And as such, and having read a lot into the subject, I have to assert my position again that co-mingling between the races is not merely wrong but also dangerous.
 
@@ -6364,7 +6364,7 @@
 
 0x5905688A = A collection of items from a cheater.
 
-0x61907115 = WANTED
+0x61907115 = В РОЗШУКУ
 
 0x7ECF8E54 = Fighter
 
@@ -8943,7 +8943,7 @@
 
 0xF86B0E99 = The stagecoach is currently unavailable.
 
-0x02B018E2 = Quit
+0x02B018E2 = Вийти
 
 0xD1CDE801 = Add the berries to the ~o~Still~s~
 
@@ -8983,7 +8983,7 @@
 
 0xFD9C13E7 = Inspect Campfire
 
-0x9B19B167 = Luther
+0x9B19B167 = Лютер
 
 0xE991FFDF = Swanton Eyepatch
 
@@ -11795,7 +11795,7 @@
 
 0x91B3AF14 = Congratulations, you have been awarded ~1~ Gold Nuggets for participating in GTA Online promotions.
 
-0xA124BE85 = ~1b~ blips indicate optional stranger missions. Speak to the stranger in the area to begin the strand.~s~
+0xA124BE85 = ~1b~ відзначено додаткові завдання незнайомців. Поговоріть із незнайомцем поблизу, щоб hjpпочати гілку завдань.~s~
 
 0xE0F0FE56 = Ring-billed Gull
 
@@ -14231,7 +14231,7 @@
 
 0xE1EC055A = Barras Vest
 
-0xBE1DE18E = WANTED
+0xBE1DE18E = РОЗШУКУЄТЬСЯ
 
 0x55FC796D = Used in crafting. Slightly restores Dead Eye Core. Highly poisonous for Horses.
 
@@ -18957,7 +18957,7 @@
 
 0x54AE8337 = The Quick Draw Club No. 4
 
-0xFDE52C72 = Poker hands won
+0xFDE52C72 = Партій у покер виграно
 
 0x252553B3 = Monroe
 
@@ -21757,7 +21757,7 @@
 
 0x498D7F0E = Патрони - револьвер
 
-0x88C4BE47 = An optional mission is now available ~1b~. Completing them can be a way to gain honor.
+0x88C4BE47 = Доступне побічне завдання ~1b~. Виконуючи такі завдання, ви підвищуєте свою честь.
 
 0x2FD9655C = Tumbleweed
 
@@ -23111,7 +23111,7 @@
 
 0x9795D077 = Rank ~1~ unlocks the ability to purchase with cash
 
-0x0F95487A = Reverend Swanson
+0x0F95487A = Пастор Свонсон
 
 0x507A8960 = Sadie has a clue that might lead them to Micah - Cleet has been sighted in Strawberry. Despite Abigail's protests, John, Sadie and Charles ride there to interrogate him and track down their old enemy.
 
@@ -23767,7 +23767,7 @@
 
 0x8A3DC4D8 = Tousled Mane - Walnut
 
-0xA724E1C3 = WANTED
+0xA724E1C3 = РОЗШУКУЄТЬСЯ
 
 0x71C1AC60 = Blackened Steel
 
@@ -31965,7 +31965,7 @@
 
 0xA0D9EF32 = Fire Bottle
 
-0xB76505BE = Defuse
+0xB76505BE = Розрядити ситуацію
 
 0x1A8A68E4 = Macbay Jacket
 
@@ -33475,7 +33475,7 @@
 
 0x5F57B106 = killed
 
-0xD7BB296A = Reverend Swanson
+0xD7BB296A = Пастор Свонсон
 
 0xA797F948 = ~1~~2~~3~~4~
 
@@ -33625,7 +33625,7 @@
 
 0x62F4B505 = The Outlaw Pass
 
-0x6C2DBE3F = Witness
+0x6C2DBE3F = Свідок
 
 0x5A5CAC72 = A rival has started a mission. Gain control of the target ~1b~ or attack the rival to compete against them.
 
@@ -33979,7 +33979,7 @@
 
 0x07865A92 = Arrow - Poison
 
-0xB56B0876 = Залишити ліжко
+0xB56B0876 = Встати з ліжка
 
 0xFD1A5028 = SHOP ROBBERY
 
@@ -34369,7 +34369,7 @@
 
 0xA236F642 = Marbled Grouper
 
-0xD9C52DD0 = Залишити
+0xD9C52DD0 = Вийти
 
 0xE9A03DAD = Learn to Carry a Larger Stock of Provisions.
 
@@ -36405,7 +36405,7 @@
 
 0xEBD544EC = Filthy
 
-0x58A6B1BE = WANTED
+0x58A6B1BE = РОЗШУКУЄТЬСЯ
 
 0x4C83A59C = Congratulations! You now hold ~COLOR_VIP~The Quick Draw Club No. 4~s~.~n~~n~You will now unlock additional rewards as you play. Keep in mind, The Quick Draw Club No. 4 is active until ~2p~ ~1p~, ~3p~.~n~~n~All Rewards unlocked during this period will persist after the Club Membership period ends. Visit the Benefits section of the Pause menu for details on Reward and Offer availability.~n~~n~Be sure to visit Club Rewards in the Progress section of the Pause menu to see what items are waiting for you.~n~
 
@@ -36699,7 +36699,7 @@
 
 0xFEDF589F = Your Posse has too many active members to join Poker. A maximum of 6 players may play together.
 
-0x5557AF1C = WANTED
+0x5557AF1C = В РОЗШУКУ
 
 0xF70F50D4 = Rifleman Gloves
 
@@ -37175,7 +37175,7 @@
 
 0xBBC516AE = O'Quinn Капелюх
 
-0xB1B70CA0 = Witness
+0xB1B70CA0 = Спостерігати
 
 0xA72D0219 = Bounty Poster - Ellie Anne Swan
 
@@ -38759,7 +38759,7 @@
 
 0x8EA2ED6C = Lost and Found. Bring Companions their lost items to earn rewards
 
-0x49D7A8A2 = Call Out
+0x49D7A8A2 = Гукнути
 
 0x1D317BFE = * EASY TO RIDE, THIS IS AN ALL-AROUND GOOD HORSE FOR FARM WORK~n~
 
@@ -38987,7 +38987,7 @@
 
 0x9A9FF9FF = Зброя - приблизити
 
-0xC9ED294C = Bounty Hunting
+0xC9ED294C = Полювання за голова
 
 0x20C08022 = When you are too hot or cold, your Health Core will drain faster
 
@@ -39921,7 +39921,7 @@
 
 0xCF73311D = Half Chaps
 
-0x82F7E4A2 = Horse Theft
+0x82F7E4A2 = Конокрадство
 
 0x6265C411 = Add Oleander plants
 
@@ -41359,7 +41359,7 @@
 
 0x20B385ED = Provisions Parcel
 
-0x23098844 = Newspaper Seller
+0x23098844 = Продавець газет
 
 0x3ABD9FF9 = Get 30% RDO$ off select Shotguns.
 
@@ -45289,7 +45289,7 @@
 
 0x6106D015 = The world is wild, and nature can kill or cure. Collect 20 plants. See the Plants section of the Compendium to track your progress.
 
-0x42F0B202 = WANTED
+0x42F0B202 = РОЗШУКУЄТЬСЯ
 
 0xE0404F51 = Hot
 
@@ -46985,9 +46985,9 @@
 
 0x8DCB00E6 = Give Whiskey
 
-0x2132944F = You can interact with the shopkeeper by approaching the catalogue and selecting the appropriate option.
+0x2132944F = Щоб взаємодіяти з продавцем, підійдіть до каталогу та виберіть відповідний варіант.
 
-0xA35C1679 = Jimmy
+0xA35C1679 = Джимі
 
 0x4CDFBFFE = Permanently increases the duration of Fortifying tonic effects by 20%.
 
@@ -47033,7 +47033,7 @@
 
 0xD64C498D = Yields a horn that can be used in crafting. Use a Bow with a Poison Arrow for a clean kill.
 
-0x52F3C636 = Witness
+0x52F3C636 = Свідок
 
 0x7FD4F319 = Estelle Shirtwaist
 
@@ -48798,7 +48798,7 @@
 
 0xF2586A05 = John takes Jack fishing with the family dog, Rufus. They catch more than they bargained for.
 
-0x2D34A4E4 = WANTED
+0x2D34A4E4 = В РОЗШУКУ
 
 0x458CBD3C = Increase the amount of Role XP you gain by a maximum of 25%.
 
@@ -50662,7 +50662,7 @@
 
 0x9E551A77 = Pearrow Капелюх
 
-0x2C01A828 = WANTED
+0x2C01A828 = РОЗШУКУЄТЬСЯ
 
 0x80F7FD1E = But is it not the founding bedrock of our democracy that a man has the freedom to express his own folly at the ballot box, to vote for someone who will indeed vote against the very interests of he and his family? Why not grant this right to every woman too?~n~It is time to end the oligarchy of sex and finally answer the question: Are women persons?
 
@@ -50848,7 +50848,7 @@
 
 0x06CF836B = The Quick Draw Club No. 2
 
-0x4611C2AF = Continue
+0x4611C2AF = Продовжити
 
 0x844D00EB = Ranters, Ravers, and Campaigners
 
@@ -51118,7 +51118,7 @@
 
 0xE7326485 = No Holster
 
-0xD0394D8C = WANTED
+0xD0394D8C = РОЗШУКУЄТЬСЯ
 
 0x9AE21836 = Pearl Grip
 
@@ -53904,7 +53904,7 @@
 
 0x9F4D2394 = Gather round for a formal Posse Portrait.
 
-0xF48778CF = Continue
+0xF48778CF = Продовжити
 
 0xFB977FE1 = Rhodes II
 
@@ -58516,7 +58516,7 @@
 
 0xDE0A6D38 = Worn Rolled Pants
 
-0x0ACA99FB = WANTED
+0x0ACA99FB = В РОЗШУКУ
 
 0xB5564486 = Remove Neckwear
 
@@ -59660,7 +59660,7 @@
 
 0x430AD529 = Raider
 
-0x963B2859 = WANTED
+0x963B2859 = РОЗШУКУЄТЬСЯ
 
 0x4A37DC5A = Vibrant
 
@@ -61376,7 +61376,7 @@
 
 0x6CA802DC = Western Shirtwaist
 
-0xD7466D7C = Assault
+0xD7466D7C = Напад
 
 0xC9B25FE9 = Salter Shoes
 
@@ -62074,7 +62074,7 @@
 
 0xF59A8D76 = Предмети
 
-0x066D9E4B = Hitching your horse will let it rest, and allow its Cores to begin refilling if they are low.
+0x066D9E4B = Якщо прив'язати коня до конов'яза, то він відпочиватиме і у нього відновлюватимуться статуси, якщо вони на нулю.
 
 0xDF5C7739 = Crossback Suspenders
 
@@ -62924,7 +62924,7 @@
 
 0x8CDB26D8 = first kills
 
-0xBE3A5838 = Horse Theft
+0xBE3A5838 = Конокрадство
 
 0xD30F6D0D = Dunster Jacket
 
@@ -64988,7 +64988,7 @@
 
 0xA25E4153 = ~s~This area has become your new camp! Next time you enter it, your camp will be here.~s~
 
-0xD3AE72A5 = When you gain or lose weight, ~BLIP_RPG_OVERWEIGHT~ or ~BLIP_RPG_UNDERWEIGHT~ will be shown in your Health Core.
+0xD3AE72A5 = Коли ви набираєте або втрачаєте вагу, на статус здоров'я відобразяться відповідні значки: ~BLIP_RPG_OVERWEIGHT~ або ~BLIP_RPG_UNDERWEIGHT~.
 
 0x51A5F09E = The Londonderry
 
@@ -65746,7 +65746,7 @@
 
 0xB5CD56D0 = ~1~ of ~2~ Carcasses collected
 
-0xAFAD50B1 = WANTED
+0xAFAD50B1 = РОЗШУКУЄТЬСЯ
 
 0x209BC1A1 = Pick up/Pluck ~1~
 
@@ -67810,7 +67810,7 @@
 
 0x29F0D001 = Все
 
-0x2BDAD1F0 = Прицілитись
+0x2BDAD1F0 = Цілитися
 
 0x1F90C5A7 = Local tender pork from the best butcher in town.
 
@@ -69330,9 +69330,9 @@
 
 0x9ABE448C = Rutledge Vest
 
-0xE8859254 = Track
+0xE8859254 = Слідкувати
 
-0x80EC2ABB = WANTED
+0x80EC2ABB = В РОЗШУКУ
 
 0xC9687337 = Workman's Boots
 
@@ -69768,7 +69768,7 @@
 
 0xCC897767 = Your honor decreased as you decided to kill Anthony Foreman.
 
-0x488CF36C = Assault
+0x488CF36C = Напад
 
 0x7E6F294F = Legendary Sun Gator Sample
 
@@ -72450,7 +72450,7 @@
 
 0x4C9CFDE1 = Робочі штани з накладками
 
-0xFC06AD4D = WANTED
+0xFC06AD4D = РОЗШУКУЄТЬСЯ
 
 0xDAF88C3F = Ardennes~n~Iron Gray Roan Пальто
 
@@ -72708,7 +72708,7 @@
 
 0x065FB87D = Sickness can not be easily cured
 
-0x44B9F6D7 = Assault
+0x44B9F6D7 = Напад
 
 0x90564274 = Desert Bighorn Sheep
 
@@ -73008,7 +73008,7 @@
 
 0x83683647 = A colored cloth wrap to decorate your Longarms.
 
-0x1988CC69 = WANTED
+0x1988CC69 = В РОЗШУКУ
 
 0x362AE90C = Ortega Vest
 
@@ -73830,7 +73830,7 @@
 
 0x53E108AC = 	With proper care, our outfits are warranted to last a lifetime. We will repair, at our expense, any defect or tear to articles pictured herein. Please be aware that we will not hold ourselves accountable for damages occasioned by inattentiveness, negligence, oversight, calamity, intemperance, disastrous coition or accident. For this reason, if material is damaged due to a bullet wound, altercation with knives, or a tear caused by fleeing over a barbed wire fence from an angry mother-in-law, it will be repaired at the owner's expense.~n~
 
-0x6DDA22A8 = WITNESS
+0x6DDA22A8 = СВІДОК
 
 0x3B11EFE0 = Station Clerk
 
@@ -75674,7 +75674,7 @@
 
 0xB42B6D82 = Bounty Page
 
-0xACA96600 = Assault
+0xACA96600 = Напад
 
 0x78CA3223 = Letter from the Mayor's Office
 
@@ -76856,7 +76856,7 @@
 
 0x11B4CDEC = Alligators live in the swamp and river delta regions of Lemoyne - in southern Bluewater Marsh and all around Bayou Nwa. They are carnivorous apex predators, feeding on fish, birds, amphibians and mammals. Due to their tough skin, American Alligators will need a large amount of sedative.
 
-0xECC5A8FD = WANTED
+0xECC5A8FD = РОЗШУКУЄТЬСЯ
 
 0x0103BD40 = A Rage Unleashed
 
@@ -77132,7 +77132,7 @@
 
 0xF222AEF4 = You can review your privacy settings at www.rockstargames.com/socialclub.
 
-0x0BADC882 = Assault
+0x0BADC882 = Напад
 
 0x5E5B1B2F = American Standardbred - Palomino Dapple Пальто
 
@@ -77240,7 +77240,7 @@
 
 0x5E311B43 = Once known for her beautiful singing voice, CHURCH was once recognized as a rare talent. Fallen into HARD TIMES, she is now wanted for the MURDER of her sister and pianist Liz Wallis, whom she BLAMES for their reduction in quality of life.
 
-0xA757646A = WANTED
+0xA757646A = ОГОЛОСИВ У РОЗШУК
 
 0x83C240D5 = Hamish Raines
 
@@ -80092,7 +80092,7 @@
 
 0xA9666D7D = Uncle is lazing about but there's plenty of work to do on the ranch.
 
-0x3A5BFE74 = Assault
+0x3A5BFE74 = Напад
 
 0xEEF8B313 = The Garwood
 
@@ -80270,7 +80270,7 @@
 
 0xE9F2AE74 = Overalls
 
-0xCA3B8EBD = Залишити
+0xCA3B8EBD = Вийти
 
 0xF80EBC95 = Classic Frock Пальто
 
@@ -80348,7 +80348,7 @@
 
 0x8EA2534F = Tail Spike Fossil
 
-0x42AC075A = WANTED
+0x42AC075A = РОЗШУКУЄТЬСЯ
 
 0xD23496E3 = Sheriff Office.
 
@@ -82755,7 +82755,7 @@
 
 0x85204FC2 = An urban outfit for Cripps.
 
-0xFFB7CA5A = You can interact with the shopkeeper by holding ~INPUT_INTERACT_LOCKON~ and selecting the appropriate option.
+0xFFB7CA5A = Щоб взаємодіяти з продавцем, утримуйте ~INPUT_INTERACT_LOCKON~ та виберіть відповідний варіант.
 
 0x0578D01C = Бандана
 
@@ -83889,7 +83889,7 @@
 
 0x2DBBFB44 = Inahme Пальто
 
-0xBC6589EF = Defuse
+0xBC6589EF = Розрядити ситуацію
 
 0x14B0E23C = Sharp yet jaunty, cultured but unique, our latest Stovepipe made of armadillo carapace ensures you emulate that world-wise look.
 
@@ -84155,7 +84155,7 @@
 
 0xA56E73B5 = Desert Sage
 
-0x8FB35DFA = This hat cannot be stored and will be lost if left on the ground.
+0x8FB35DFA = Цього капелюх не можна зберегти. Він загубиться, якщо залишити його на землі.
 
 0x824E5097 = A collectible necklace.
 
@@ -84437,7 +84437,7 @@
 
 0xDA0EA90A = Незнайомець
 
-0xACEF7BED = Continue
+0xACEF7BED = Продовжити
 
 0x68D637D5 = Spotted around Pike's Basin, this coyote is known for stalking the rocky cliffs and barren floor of the canyon. Its red fur helps it stay hidden in the arid landscape.
 
@@ -85167,13 +85167,13 @@
 
 0x2E13FED0 = Good Plucked Crane Carcass
 
-0xFF9ED05A = WANTED
+0xFF9ED05A = РОЗШУКУЄТЬСЯ
 
 0x6DC83E85 = ~1~ of ~2~ Coastal Fossils Found
 
 0x5E9E2F5C = Kladruber
 
-0x36940755 = Raccoon
+0x36940755 = Єнот
 
 0xF8E9C9AB = Australian Shepherd
 
@@ -91489,7 +91489,7 @@
 
 0x3D291D05 = Creating Posse...
 
-0xDF67BF46 = Прицілитись
+0xDF67BF46 = Цілитися
 
 0x23B70396 = Purchase vehicle services.
 
@@ -91829,7 +91829,7 @@
 
 0x961B76C9 = A collectible Family Heirloom.
 
-0x700E50BC = Horse Theft
+0x700E50BC = Конокрадство
 
 0x960676B5 = A visual variant of the LeMat Revolver suited for Bounty Hunters. Can be purchased for each owned LeMat Revolver.
 
@@ -92119,7 +92119,7 @@
 
 0x099AEAFF = Enemy Kills Buckle
 
-0x959676FD = Quit
+0x959676FD = Вийти
 
 0xDB8EBCF9 = O'Driscoll Boys
 
@@ -96977,7 +96977,7 @@
 
 0x17C80517 = Trimmed Bandana
 
-0x664D539D = Luther
+0x664D539D = Лютер
 
 0x3F6C2CBD = His baptismal name is UNKNOWN at this time, but he is WANTED FOR A STRING OF MURDERS.~n~He has for many years lived with a pack of wolves and is CONSIDERED EXTREMELY DANGEROUS.~n~Carrying PREDATOR BAIT is ADVISED.
 
@@ -98019,7 +98019,7 @@
 
 0x6CB65CC5 = Unkempt
 
-0xD9FECA0E = Continue to bond with your horse to increase the range at which it can be called.
+0xD9FECA0E = Продовжуйте підвищувати рівень довіри коня, щоб отримати можливість підзивати його з більшої відстані.
 
 0xDD36CD47 = Незнайомка
 
@@ -98401,7 +98401,7 @@
 
 0x15340634 = Potential
 
-0xCBE7BCE8 = You can command your horse to Stay, Flee, or Follow by focusing on it with ~INPUT_INTERACT_LOCKON~ when it's nearby.
+0xCBE7BCE8 = Тепер ви можете наказати коню залишитися, втекти або йти за вами. Сфокусуйтеся на ньому за допомогою ~INPUT_INTERACT_LOCKON~, коли він поряд.
 
 0xB68BA78D = You and your Posse will now come across bounty targets in Free Roam.
 
@@ -100791,7 +100791,7 @@
 
 0x5DD254A4 = Clymene Пальто
 
-0x897D804F = WANTED
+0x897D804F = РОЗШУКУЄТЬСЯ
 
 0x0663FD37 = You can only use this item while camped.
 
@@ -101557,7 +101557,7 @@
 
 0x56964F53 = Filigree Buckle
 
-0xB577AE35 = WANTED
+0xB577AE35 = РОЗШУКУЄТЬСЯ
 
 0x292A21E8 = So murky and dull is life, so devoid of joy, that when punctuated by sudden illuminations, such as this finery, it becomes suddenly less dreary. This superb combination is one that communicates your diligence, good breeding and irresistible comeliness.~n~
 
