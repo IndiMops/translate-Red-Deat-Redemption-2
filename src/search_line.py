@@ -1,8 +1,6 @@
 import os
 
-print('Щоб вийти натисніть Ctrl++C')
-
-
+print('Щоб вийти натисніть Ctrl+C')
 
 while True:
     text = input('Введіть текст: ')
@@ -10,19 +8,14 @@ while True:
     for root, dirs, files in os.walk('en_txt'):
         for filename in files:
             if filename.endswith('.txt'):
-                path = f'{root}\{filename}'
-                with open(path, 'r', errors="ignore") as f:
+                path = os.path.join(root, filename)
+                with open(path, 'r', encoding='UTF-8', errors="ignore") as f: # кодинги: cp1251 - для англійської, UTF-8 - для кирилиці
                     for string in f:
-                        str_encode = string.encode(encoding = 'UTF-8')
-                            
-                        str_decode = str_encode.decode()
-                            
-                        if text in str_decode or text in str_decode.lower():
+                        if text in string or text in string.lower():
                             line = dict()
                             line['file'] = filename
                             line['string'] = string
                             strings.append(line)
-                                
     if strings == []:
         print('Текст не був знайдений серед усіх файлів!')
     else:
