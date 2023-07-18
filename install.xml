@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EasyInstall>
+    <Name>Ukraine localization for RDR 2</Name>
+    <Author>Indi Mops</Author>
+    <Version>1.0.1</Version>
+    <Link>www.rdr2mods.com/downloads/rdr2/tools/76-lennys-mod-loader-rdr/</Link>
+    <Metadata></Metadata>
+    <Resources>
+        <Resource>
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0427_a_f_m_strtownfolk_01_white_01.yldb</GamePath>
+                <FilePath>data/0427_a_f_m_strtownfolk_01_white_01.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0429_a_m_m_strtownfolk_01_white_01.yldb</GamePath>
+                <FilePath>data/0429_a_m_m_strtownfolk_01_white_01.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0431_s_m_m_strlumberjack_01_white_01.yldb</GamePath>
+                <FilePath>data/0431_s_m_m_strlumberjack_01_white_01.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0434_s_m_m_strmillworker_01_white_01.yldb</GamePath>
+                <FilePath>data/0434_s_m_m_strmillworker_01_white_01.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0461_a_f_m_valtownfolk_01_white_01.yldb</GamePath>
+                <FilePath>data/0461_a_f_m_valtownfolk_01_white_01.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0462_a_f_m_valprostitute_01_white_01.yldb</GamePath>
+                <FilePath>data/0462_a_f_m_valprostitute_01_white_01.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0466_a_m_m_valtownfolk_02_white_01.yldb</GamePath>
+                <FilePath>data/0466_a_m_m_valtownfolk_02_white_01.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0467_s_m_m_valcowpoke_01_white_01.yldb</GamePath>
+                <FilePath>data/0467_s_m_m_valcowpoke_01_white_01.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0470_a_m_m_valfarmer_01_white_01.yldb</GamePath>
+                <FilePath>data/0470_a_m_m_valfarmer_01_white_01.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0533_a_f_m_civ_white_02.yldb</GamePath>
+                <FilePath>data/0533_a_f_m_civ_white_02.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0581_a_m_m_civ_white_05.yldb</GamePath>
+                <FilePath>data/0581_a_m_m_civ_white_05.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0615_a_m_m_poor_black_14.yldb</GamePath>
+                <FilePath>data/0615_a_m_m_poor_black_14.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0650_a_m_m_civ_poor_white_aggressive_20.yldb</GamePath>
+                <FilePath>data/0650_a_m_m_civ_poor_white_aggressive_20.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0657_a_m_m_civ_poor_white_aggressive_18.yldb</GamePath>
+                <FilePath>data/0657_a_m_m_civ_poor_white_aggressive_18.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0732_a_m_m_guatownfolk_01_hispanic_05.yldb</GamePath>
+                <FilePath>data/0732_a_m_m_guatownfolk_01_hispanic_05.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0758_s_m_m_cornwallguard_01_white_02.yldb</GamePath>
+                <FilePath>data/0758_s_m_m_cornwallguard_01_white_02.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0855_a_f_m_civ_poor_black_timid_01.yldb</GamePath>
+                <FilePath>data/0855_a_f_m_civ_poor_black_timid_01.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0947_a_m_m_guard_white_aggressive_02.yldb</GamePath>
+                <FilePath>data/0947_a_m_m_guard_white_aggressive_02.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0968_a_m_m_roughtravellers_hispanic_02.yldb</GamePath>
+                <FilePath>data/0968_a_m_m_roughtravellers_hispanic_02.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0x0335D25B.yldb</GamePath>
+                <FilePath>data/0x0335D25B.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0x2DF5B75F.yldb</GamePath>
+                <FilePath>data/0x2DF5B75F.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0x3550536E.yldb</GamePath>
+                <FilePath>data/0x3550536E.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0x592AA3AA.yldb</GamePath>
+                <FilePath>data/0x592AA3AA.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0x5DB4409B.yldb</GamePath>
+                <FilePath>data/0x5DB4409B.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0x5E7F86AB.yldb</GamePath>
+                <FilePath>data/0x5E7F86AB.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0xA0BA3A6A.yldb</GamePath>
+                <FilePath>data/0xA0BA3A6A.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0xD1AE2F9A.yldb</GamePath>
+                <FilePath>data/0xD1AE2F9A.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/0xF0FE27BE.yldb</GamePath>
+                <FilePath>data/0xF0FE27BE.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/albert_mason.yldb</GamePath>
+                <FilePath>data/albert_mason.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/anders_helgerson.yldb</GamePath>
+                <FilePath>data/anders_helgerson.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/arm_town_crier.yldb</GamePath>
+                <FilePath>data/arm_town_crier.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/babi1au.yldb</GamePath>
+                <FilePath>data/babi1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/babi3au.yldb</GamePath>
+                <FilePath>data/babi3au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/bawg1au.yldb</GamePath>
+                <FilePath>data/bawg1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/bcas1au.yldb</GamePath>
+                <FilePath>data/bcas1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/bcas2au.yldb</GamePath>
+                <FilePath>data/bcas2au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/bcas3au.yldb</GamePath>
+                <FilePath>data/bcas3au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/bchr2au.yldb</GamePath>
+                <FilePath>data/bchr2au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/bchr5au.yldb</GamePath>
+                <FilePath>data/bchr5au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/be22.yldb</GamePath>
+                <FilePath>data/be22.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/beau_gray.yldb</GamePath>
+                <FilePath>data/beau_gray.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/beaver.yldb</GamePath>
+                <FilePath>data/beaver.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/binkmov.yldb</GamePath>
+                <FilePath>data/binkmov.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/bino.yldb</GamePath>
+                <FilePath>data/bino.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/bjck1au.yldb</GamePath>
+                <FilePath>data/bjck1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/bjck2au.yldb</GamePath>
+                <FilePath>data/bjck2au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/bunc1au.yldb</GamePath>
+                <FilePath>data/bunc1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/bunc3au.yldb</GamePath>
+                <FilePath>data/bunc3au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cab14au.yldb</GamePath>
+                <FilePath>data/cab14au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cadasau.yldb</GamePath>
+                <FilePath>data/cadasau.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/camp.yldb</GamePath>
+                <FilePath>data/camp.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cassidy.yldb</GamePath>
+                <FilePath>data/cassidy.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cb10aud.yldb</GamePath>
+                <FilePath>data/cb10aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cbbr1au.yldb</GamePath>
+                <FilePath>data/cbbr1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cbsf1au.yldb</GamePath>
+                <FilePath>data/cbsf1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/ccd12au.yldb</GamePath>
+                <FilePath>data/ccd12au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/ccdg4au.yldb</GamePath>
+                <FilePath>data/ccdg4au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/ccdt9au.yldb</GamePath>
+                <FilePath>data/ccdt9au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cclp_au.yldb</GamePath>
+                <FilePath>data/cclp_au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/ccm10au.yldb</GamePath>
+                <FilePath>data/ccm10au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/ccm15au.yldb</GamePath>
+                <FilePath>data/ccm15au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/ccmb4au.yldb</GamePath>
+                <FilePath>data/ccmb4au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/ccmb5au.yldb</GamePath>
+                <FilePath>data/ccmb5au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/ccmc9au.yldb</GamePath>
+                <FilePath>data/ccmc9au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/ccmhaud.yldb</GamePath>
+                <FilePath>data/ccmhaud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/ccsw7au.yldb</GamePath>
+                <FilePath>data/ccsw7au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cdcr1au.yldb</GamePath>
+                <FilePath>data/cdcr1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cdcr2au.yldb</GamePath>
+                <FilePath>data/cdcr2au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cdhs2au.yldb</GamePath>
+                <FilePath>data/cdhs2au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cdt11au.yldb</GamePath>
+                <FilePath>data/cdt11au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cdt14au.yldb</GamePath>
+                <FilePath>data/cdt14au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cdt16au.yldb</GamePath>
+                <FilePath>data/cdt16au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cdt17au.yldb</GamePath>
+                <FilePath>data/cdt17au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cdt18au.yldb</GamePath>
+                <FilePath>data/cdt18au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cdt26au.yldb</GamePath>
+                <FilePath>data/cdt26au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cdt27au.yldb</GamePath>
+                <FilePath>data/cdt27au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cdt31au.yldb</GamePath>
+                <FilePath>data/cdt31au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cdta1au.yldb</GamePath>
+                <FilePath>data/cdta1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/chs4aud.yldb</GamePath>
+                <FilePath>data/chs4aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cjav5au.yldb</GamePath>
+                <FilePath>data/cjav5au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/ckar3au.yldb</GamePath>
+                <FilePath>data/ckar3au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/ckar4au.yldb</GamePath>
+                <FilePath>data/ckar4au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cld23au.yldb</GamePath>
+                <FilePath>data/cld23au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cmrb1au.yldb</GamePath>
+                <FilePath>data/cmrb1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cmrb2au.yldb</GamePath>
+                <FilePath>data/cmrb2au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cmsf1au.yldb</GamePath>
+                <FilePath>data/cmsf1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/comp.yldb</GamePath>
+                <FilePath>data/comp.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cpr11au.yldb</GamePath>
+                <FilePath>data/cpr11au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cpraud4.yldb</GamePath>
+                <FilePath>data/cpraud4.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cprs1au.yldb</GamePath>
+                <FilePath>data/cprs1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cprs3au.yldb</GamePath>
+                <FilePath>data/cprs3au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cprs7au.yldb</GamePath>
+                <FilePath>data/cprs7au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cprs9au.yldb</GamePath>
+                <FilePath>data/cprs9au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/crawfish.yldb</GamePath>
+                <FilePath>data/crawfish.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/crca2a.yldb</GamePath>
+                <FilePath>data/crca2a.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/crrsca.yldb</GamePath>
+                <FilePath>data/crrsca.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/csen2au.yldb</GamePath>
+                <FilePath>data/csen2au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/csen4.yldb</GamePath>
+                <FilePath>data/csen4.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/csen6au.yldb</GamePath>
+                <FilePath>data/csen6au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/csen8.yldb</GamePath>
+                <FilePath>data/csen8.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cskp3au.yldb</GamePath>
+                <FilePath>data/cskp3au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/csna1au.yldb</GamePath>
+                <FilePath>data/csna1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/csnwmau.yldb</GamePath>
+                <FilePath>data/csnwmau.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cssn1au.yldb</GamePath>
+                <FilePath>data/cssn1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cssn2au.yldb</GamePath>
+                <FilePath>data/cssn2au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cssn5au.yldb</GamePath>
+                <FilePath>data/cssn5au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cssn6au.yldb</GamePath>
+                <FilePath>data/cssn6au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/csw1aud.yldb</GamePath>
+                <FilePath>data/csw1aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/csw3aud.yldb</GamePath>
+                <FilePath>data/csw3aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/csw4aud.yldb</GamePath>
+                <FilePath>data/csw4aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/ctll1au.yldb</GamePath>
+                <FilePath>data/ctll1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cun1aud.yldb</GamePath>
+                <FilePath>data/cun1aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cwah2au.yldb</GamePath>
+                <FilePath>data/cwah2au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cwbg2au.yldb</GamePath>
+                <FilePath>data/cwbg2au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cwds1au.yldb</GamePath>
+                <FilePath>data/cwds1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cwjasau.yldb</GamePath>
+                <FilePath>data/cwjasau.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cwmg1au.yldb</GamePath>
+                <FilePath>data/cwmg1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cwrc1au.yldb</GamePath>
+                <FilePath>data/cwrc1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cwrc2au.yldb</GamePath>
+                <FilePath>data/cwrc2au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cwsh4au.yldb</GamePath>
+                <FilePath>data/cwsh4au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cwsh7au.yldb</GamePath>
+                <FilePath>data/cwsh7au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cwss1au.yldb</GamePath>
+                <FilePath>data/cwss1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cwsw1au.yldb</GamePath>
+                <FilePath>data/cwsw1au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/cwsw2au.yldb</GamePath>
+                <FilePath>data/cwsw2au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/dorothea_wicklow.yldb</GamePath>
+                <FilePath>data/dorothea_wicklow.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/downaud.yldb</GamePath>
+                <FilePath>data/downaud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/draw.yldb</GamePath>
+                <FilePath>data/draw.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/dr_macintosh.yldb</GamePath>
+                <FilePath>data/dr_macintosh.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/dsmehau.yldb</GamePath>
+                <FilePath>data/dsmehau.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/dst1.yldb</GamePath>
+                <FilePath>data/dst1.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/dst1aud.yldb</GamePath>
+                <FilePath>data/dst1aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/dst2aud.yldb</GamePath>
+                <FilePath>data/dst2aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/fffmcau.yldb</GamePath>
+                <FilePath>data/fffmcau.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/fin3.yldb</GamePath>
+                <FilePath>data/fin3.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/patch/data/cdimages/scaleform_frontend/font_lib_efigs.gfx</GamePath>
+                <FilePath>data/font_lib_efigs.gfx</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/fortm.yldb</GamePath>
+                <FilePath>data/fortm.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/gavins_friend.yldb</GamePath>
+                <FilePath>data/gavins_friend.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/giant.yldb</GamePath>
+                <FilePath>data/giant.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/global.yldb</GamePath>
+                <FilePath>data/global.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/grizzled_jon.yldb</GamePath>
+                <FilePath>data/grizzled_jon.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/grvr.yldb</GamePath>
+                <FilePath>data/grvr.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/hdog.yldb</GamePath>
+                <FilePath>data/hdog.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/help.yldb</GamePath>
+                <FilePath>data/help.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/hmstd.yldb</GamePath>
+                <FilePath>data/hmstd.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/joe_butler.yldb</GamePath>
+                <FilePath>data/joe_butler.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/johnthemadman.yldb</GamePath>
+                <FilePath>data/johnthemadman.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/kie4aud.yldb</GamePath>
+                <FilePath>data/kie4aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/lar1.yldb</GamePath>
+                <FilePath>data/lar1.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/len3aud.yldb</GamePath>
+                <FilePath>data/len3aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/lillian_powell.yldb</GamePath>
+                <FilePath>data/lillian_powell.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/loan.yldb</GamePath>
+                <FilePath>data/loan.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/lshrcau.yldb</GamePath>
+                <FilePath>data/lshrcau.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/lshssau.yldb</GamePath>
+                <FilePath>data/lshssau.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/lswomau.yldb</GamePath>
+                <FilePath>data/lswomau.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/map.yldb</GamePath>
+                <FilePath>data/map.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/mgfnc.yldb</GamePath>
+                <FilePath>data/mgfnc.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/mgmlk.yldb</GamePath>
+                <FilePath>data/mgmlk.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/mickey.yldb</GamePath>
+                <FilePath>data/mickey.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/msmn.yldb</GamePath>
+                <FilePath>data/msmn.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/mud1.yldb</GamePath>
+                <FilePath>data/mud1.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/mud1aud.yldb</GamePath>
+                <FilePath>data/mud1aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/mud2.yldb</GamePath>
+                <FilePath>data/mud2.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/mud2aud.yldb</GamePath>
+                <FilePath>data/mud2aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/mud3.yldb</GamePath>
+                <FilePath>data/mud3.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/mud3aud.yldb</GamePath>
+                <FilePath>data/mud3aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/nbbeg.yldb</GamePath>
+                <FilePath>data/nbbeg.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/nbshin.yldb</GamePath>
+                <FilePath>data/nbshin.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/nbtied.yldb</GamePath>
+                <FilePath>data/nbtied.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/nicholas_timmins.yldb</GamePath>
+                <FilePath>data/nicholas_timmins.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/norris_forsythe.yldb</GamePath>
+                <FilePath>data/norris_forsythe.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/opium_woman.yldb</GamePath>
+                <FilePath>data/opium_woman.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/oredul.yldb</GamePath>
+                <FilePath>data/oredul.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/orewm.yldb</GamePath>
+                <FilePath>data/orewm.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/peeped_woman.yldb</GamePath>
+                <FilePath>data/peeped_woman.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/poor_joe.yldb</GamePath>
+                <FilePath>data/poor_joe.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/prsnaud.yldb</GamePath>
+                <FilePath>data/prsnaud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rbch2.yldb</GamePath>
+                <FilePath>data/rbch2.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rbran.yldb</GamePath>
+                <FilePath>data/rbran.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rbrt0.yldb</GamePath>
+                <FilePath>data/rbrt0.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rbt05.yldb</GamePath>
+                <FilePath>data/rbt05.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rbt14.yldb</GamePath>
+                <FilePath>data/rbt14.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rbt18.yldb</GamePath>
+                <FilePath>data/rbt18.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rbwcg_black.yldb</GamePath>
+                <FilePath>data/rbwcg_black.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rbwcg_white.yldb</GamePath>
+                <FilePath>data/rbwcg_white.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rccig.yldb</GamePath>
+                <FilePath>data/rccig.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rcdin.yldb</GamePath>
+                <FilePath>data/rcdin.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rcrkf.yldb</GamePath>
+                <FilePath>data/rcrkf.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rdown.yldb</GamePath>
+                <FilePath>data/rdown.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rdst2.yldb</GamePath>
+                <FilePath>data/rdst2.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/re005_female3.yldb</GamePath>
+                <FilePath>data/re005_female3.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/relov_woman.yldb</GamePath>
+                <FilePath>data/relov_woman.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rev1.yldb</GamePath>
+                <FilePath>data/rev1.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rev1aud.yldb</GamePath>
+                <FilePath>data/rev1aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rev1_witness.yldb</GamePath>
+                <FilePath>data/rev1_witness.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/reverend_peter.yldb</GamePath>
+                <FilePath>data/reverend_peter.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rgun1_slinger.yldb</GamePath>
+                <FilePath>data/rgun1_slinger.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/RGUN4_Slinger.yldb</GamePath>
+                <FilePath>data/RGUN4_Slinger.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rhunt.yldb</GamePath>
+                <FilePath>data/rhunt.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rmob01.yldb</GamePath>
+                <FilePath>data/rmob01.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rmob02.yldb</GamePath>
+                <FilePath>data/rmob02.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rmryb.yldb</GamePath>
+                <FilePath>data/rmryb.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rnat2.yldb</GamePath>
+                <FilePath>data/rnat2.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rprsn.yldb</GamePath>
+                <FilePath>data/rprsn.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rrch1_abe.yldb</GamePath>
+                <FilePath>data/rrch1_abe.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rstr3.yldb</GamePath>
+                <FilePath>data/rstr3.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/sadie_adler_es.yldb</GamePath>
+                <FilePath>data/sadie_adler_es.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/satch.yldb</GamePath>
+                <FilePath>data/satch.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/settings.yldb</GamePath>
+                <FilePath>data/settings.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/shady.yldb</GamePath>
+                <FilePath>data/shady.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/shop.yldb</GamePath>
+                <FilePath>data/shop.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/sixpt.yldb</GamePath>
+                <FilePath>data/sixpt.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/sk1aud.yldb</GamePath>
+                <FilePath>data/sk1aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/sk2aud.yldb</GamePath>
+                <FilePath>data/sk2aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/skltau.yldb</GamePath>
+                <FilePath>data/skltau.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/soothsayer.yldb</GamePath>
+                <FilePath>data/soothsayer.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/spah.yldb</GamePath>
+                <FilePath>data/spah.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/spanking_wife.yldb</GamePath>
+                <FilePath>data/spanking_wife.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/spbc.yldb</GamePath>
+                <FilePath>data/spbc.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/spbm.yldb</GamePath>
+                <FilePath>data/spbm.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/spbp.yldb</GamePath>
+                <FilePath>data/spbp.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/spcraud.yldb</GamePath>
+                <FilePath>data/spcraud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/spcw.yldb</GamePath>
+                <FilePath>data/spcw.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/spcwvau.yldb</GamePath>
+                <FilePath>data/spcwvau.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/spdef.yldb</GamePath>
+                <FilePath>data/spdef.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/spep.yldb</GamePath>
+                <FilePath>data/spep.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/spgat.yldb</GamePath>
+                <FilePath>data/spgat.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/spgj.yldb</GamePath>
+                <FilePath>data/spgj.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/spgv.yldb</GamePath>
+                <FilePath>data/spgv.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/spjb.yldb</GamePath>
+                <FilePath>data/spjb.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/spmad.yldb</GamePath>
+                <FilePath>data/spmad.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/sppc.yldb</GamePath>
+                <FilePath>data/sppc.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/sppj.yldb</GamePath>
+                <FilePath>data/sppj.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/spsot.yldb</GamePath>
+                <FilePath>data/spsot.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/spswo.yldb</GamePath>
+                <FilePath>data/spswo.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/sptm.yldb</GamePath>
+                <FilePath>data/sptm.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/spvp.yldb</GamePath>
+                <FilePath>data/spvp.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/stch.yldb</GamePath>
+                <FilePath>data/stch.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/sun_worshipper.yldb</GamePath>
+                <FilePath>data/sun_worshipper.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/swamp_weirdo.yldb</GamePath>
+                <FilePath>data/swamp_weirdo.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/td1aud.yldb</GamePath>
+                <FilePath>data/td1aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/thomas_downes.yldb</GamePath>
+                <FilePath>data/thomas_downes.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/timothy_donahue.yldb</GamePath>
+                <FilePath>data/timothy_donahue.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/tiny_hermit.yldb</GamePath>
+                <FilePath>data/tiny_hermit.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/tnrb.yldb</GamePath>
+                <FilePath>data/tnrb.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/treas.yldb</GamePath>
+                <FilePath>data/treas.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/twdrgau.yldb</GamePath>
+                <FilePath>data/twdrgau.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/twin.yldb</GamePath>
+                <FilePath>data/twin.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/wnt1.yldb</GamePath>
+                <FilePath>data/wnt1.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/wnt1aud.yldb</GamePath>
+                <FilePath>data/wnt1aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/wnt2.yldb</GamePath>
+                <FilePath>data/wnt2.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/wnt2aud.yldb</GamePath>
+                <FilePath>data/wnt2aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/wnt4.yldb</GamePath>
+                <FilePath>data/wnt4.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/wnt4aud.yldb</GamePath>
+                <FilePath>data/wnt4aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacements>
+                <GamePath>update:/x64/patch/textures/ui/ui_hud/feed_location.ytd</GamePath>
+                <FilePath>data/textures/feed_location.ytd</FilePath>
+            </FileReplacements>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/bou1.yldb</GamePath>
+                <FilePath>data/bou1.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/bou1aud.yldb</GamePath>
+                <FilePath>data/bou1aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/bsosaud.yldb</GamePath>
+                <FilePath>data/bsosaud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/crn1.yldb</GamePath>
+                <FilePath>data/crn1.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/crn1aud.yldb</GamePath>
+                <FilePath>data/crn1aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/downaud.yldb</GamePath>
+                <FilePath>data/downaud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/dst2aud.yldb</GamePath>
+                <FilePath>data/dst2aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/dtc1aud.yldb</GamePath>
+                <FilePath>data/dtc1aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/hmr0aud.yldb</GamePath>
+                <FilePath>data/hmr0aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/loan.yldb</GamePath>
+                <FilePath>data/loan.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/lshrcau.yldb</GamePath>
+                <FilePath>data/lshrcau.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/lshssau.yldb</GamePath>
+                <FilePath>data/lshssau.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/lswomau.yldb</GamePath>
+                <FilePath>data/lswomau.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/mgdul.yldb</GamePath>
+                <FilePath>data/mgdul.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/mry1.yldb</GamePath>
+                <FilePath>data/mry1.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/mry1aud.yldb</GamePath>
+                <FilePath>data/mry1aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/mud2.yldb</GamePath>
+                <FilePath>data/mud2.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/mud2aud.yldb</GamePath>
+                <FilePath>data/mud2aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/mud3.yldb</GamePath>
+                <FilePath>data/mud3.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/mud3aud.yldb</GamePath>
+                <FilePath>data/mud3aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/mud4.yldb</GamePath>
+                <FilePath>data/mud4.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/mud4aud.yldb</GamePath>
+                <FilePath>data/mud4aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rdown.yldb</GamePath>
+                <FilePath>data/rdown.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rdst2.yldb</GamePath>
+                <FilePath>data/rdst2.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rdtc1.yldb</GamePath>
+                <FilePath>data/rdtc1.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rev1.yldb</GamePath>
+                <FilePath>data/rev1.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rev1aud.yldb</GamePath>
+                <FilePath>data/rev1aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rev1_witness.yldb</GamePath>
+                <FilePath>data/rev1_witness.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rhmr0.yldb</GamePath>
+                <FilePath>data/rhmr0.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rhunt.yldb</GamePath>
+                <FilePath>data/rhunt.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rmry0au.yldb</GamePath>
+                <FilePath>data/rmry0au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/rsad1.yldb</GamePath>
+                <FilePath>data/rsad1.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/sad11au.yldb</GamePath>
+                <FilePath>data/sad11au.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/sal1.yldb</GamePath>
+                <FilePath>data/sal1.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/sal1aud.yldb</GamePath>
+                <FilePath>data/sal1aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/sen1.yldb</GamePath>
+                <FilePath>data/sen1.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/sen1aud.yldb</GamePath>
+                <FilePath>data/sen1aud.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/utp2.yldb</GamePath>
+                <FilePath>data/utp2.yldb</FilePath>
+            </FileReplacement>
+
+            <FileReplacement>
+                <GamePath>update:/x64/data/lang/american_rel/utp2aud.yldb</GamePath>
+                <FilePath>data/utp2aud.yldb</FilePath>
+            </FileReplacement>
+
+
+
+        </Resource>	
+    </Resources>
+</EasyInstall>
